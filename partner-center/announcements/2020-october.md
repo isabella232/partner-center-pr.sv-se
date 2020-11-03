@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/27/2020
-ms.openlocfilehash: 4877c3c21449c8b5cc4224973d159d70635d9262
-ms.sourcegitcommit: 4bff85c6a13a990d5eb6c4a4ef44e1013d06948e
+ms.openlocfilehash: f90c9ae32e68d6e772c51cede28237f500a0a7b9
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92903035"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917270"
 ---
 # <a name="october-2020-announcements"></a>Meddelanden oktober 2020
 
@@ -23,6 +23,38 @@ Den här sidan innehåller information om Microsoft Partner Center-meddelanden f
 2020-meddelanden: [mars](2020-march.md)  |  [april](2020-april.md)den  |  [May](2020-may.md)  |  [juni](2020-june.md)  |  [juli](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md) | Oktober
 
 ______________
+
+## <a name="refreshed-cloud-solution-provider-csp-digital-experience-now-available"></a><a name="15"></a>Uppdaterad CSP (Cloud Solution Provider) digital upplevelse är nu tillgänglig
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2020-10-28
+- Funktioner
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+CSP-partner
+
+### <a name="details"></a>Information
+
+Microsoft strävar efter att hjälpa våra partner att maximera sin potential, bygga innovativa lösningar och driva mer kund framgångar i Microsoft Partner Network. Programmet för Cloud Solution Provider (CSP) är ett av våra snabbast växande program med fler än 90 000 deltagande företag.
+För att under lätta affärs tillväxten för partner i Cloud Solution Provider-programmet, introducerar vi en digital användning av CSP (Cloud Solution program) på Microsoft Partner Network webbplats och en ny CSP-Guidebook. Den här förbättringar-upplevelsen och nya resurser hjälper partner att låsa upp nya affärs möjligheter och utveckla sitt företag mer effektivt i CSP-programmet.
+
+Den nya digitala upplevelsen kommer att innehålla:
+
+- Uppdaterad CSP digital-upplevelse som hjälper till att öka partner verksamhetens tillväxt: sidan med den förnyade CSP: n erbjuder en strömlinjeformad upplevelse som används för partner resan mellan registrering, bygg metoder, go-to-marknad och försäljning. Partner kan växa sina intäkter med försäljnings kampanjer och gå till marknads resurser. Andra integrerade resurser hjälper partners att uppdateras och är enkla att göra affärer i CSP-programmet.
+- Nya Guidebook som hjälper partners att identifiera nya affärs möjligheter. den här steg-för-steg-guiden ger partners vägledning om hur du påskyndar moln verksamheten med programmet och utökar dina intäkter.
+- Innehåll för CSP-program i lösnings arbets ytan: lösnings arbets ytan är en digital upplevelse som ger dig ett enda mål för resurser på begäran för att få dina idéer på marknaden snabbare. Nu kan tjänst leverantörer hitta CSP-programinformation och resurser i lösnings arbets ytan.
+
+### <a name="additional-resources"></a>Ytterligare resurser
+
+- Besök [sidan med en uppdaterad kryptografiprovider](https://aka.ms/CSP) 
+- Granska [det nya CSP-programmet Guidebook](https://aka.ms/cspguidebook) och Läs mer om tillväxt möjligheter
+- Börja använda lösnings arbets ytan för att skapa dina metoder och förenkla dina steg
+- Köra fler kampanjer med Sälj resurser 
+- Be dina kollegor att besöka CSP-sidan och dela resurserna ovan i din organisation. Om du är indirekta leverantörer kan du dela resurserna med dina indirekta åter försäljare.
+
+________________
 
 ## <a name="october-2020-cloud-solution-provider-csp-software-subscriptions-price-list-updates"></a><a name="14"></a>Uppdateringar av pris listan i oktober 2020 Cloud Solution Provider (CSP) för program varu prenumerationer
 
