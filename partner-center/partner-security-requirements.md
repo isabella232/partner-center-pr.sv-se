@@ -1,7 +1,7 @@
 ---
 title: Säkerhets krav för partner
 ms.topic: article
-ms.date: 10/05/2020
+ms.date: 10/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Introducerar partner kraven för att aktivera Multi-Factor Authentication (MFA) och anta modell ramverket för säker program.
@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 361a36adf40af67769a9a24ba1c485f2ad95b98c
-ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
+ms.openlocfilehash: c92e8c9a9a08582d89ef478a4600f737a548b787
+ms.sourcegitcommit: 2847efac28d3bff24ed37cdfaa88ff4be06705c8
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "92531832"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92680389"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>Partner säkerhets krav för partner som använder Partner Center-eller partner Center-API: er
 
@@ -58,7 +58,7 @@ För att uppfylla kraven på partner säkerheten måste du tvinga Multi-Factor A
 
 - Köpa Azure Active Directory Premium för varje användar konto. Mer information finns i [Planera en molnbaserad Azure Multi-Factor Authentication-distribution](/azure/active-directory/authentication/howto-mfa-getstarted).
 
-- Använda en lösning från tredje part för att genomdriva Multi-Factor Authentication för varje användar konto i din partner klient. För att säkerställa att lösningen tillhandahåller den förväntade lösningen, se [Hur säkerhets kraven kommer att verkställas](#how-the-requirements-will-be-enforced).
+- Använda en lösning från tredje part för att genomdriva Multi-Factor Authentication för varje användar konto i din partner klient. För att säkerställa att lösningen tillhandahåller den förväntade lösningen, se [Hur säkerhets kraven kommer att verkställas](#how-the-requirements-are-enforced).
 
 > [!NOTE]
 > Även om Multi-Factor Authentication inte enligt avtal krävs för ett suveränt moln (21Vianet, amerikanska myndigheter och Tyskland) är det mycket viktigt att du antar dessa säkerhets krav.
@@ -92,7 +92,7 @@ Om du vill gå över från bas linje principerna till säkerhets inställningarn
 
 Eftersom dessa krav gäller för alla användar konton i din partner klient måste du överväga flera saker för att säkerställa en smidig distribution, inklusive identifiera användar konton i Azure Active Directory som inte kan utföra Multi-Factor Authentication, samt program och enheter som används av din organisation som inte stöder modern autentisering.
 
-Innan du utför någon åtgärd rekommenderar vi att du identifierar följande:
+Innan du utför någon åtgärd rekommenderar vi att du utför följande verifieringar: 
 
 #### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-modern-authentication"></a>Har du ett program eller en enhet som inte stöder användning av modern autentisering?
 
@@ -100,7 +100,7 @@ När du upprätthåller Multi-Factor Authentication-autentisering använder du p
 
 #### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>Har du användare som använder Office 365 som tillhandahålls av licenser som är kopplade till din partner klient?
 
-Innan du implementerar någon lösning rekommenderar vi att du fastställer vilken version av Microsoft Office som används av användare i din partner klient. Det finns en chans att användarna får problem med anslutningen till program som Outlook. Innan du framtvingar Multi-Factor Authentication är det viktigt att se till att Outlook 2013 SP1 eller senare används och att din organisation har modern autentisering aktive rad. Mer information finns i [Aktivera modern autentisering i Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online) .
+Innan du implementerar någon lösning rekommenderar vi att du fastställer vilken version av Microsoft Office som används av användare i din partner klient. Det finns en chans att användarna får problem med anslutningen till program som Outlook. Innan du framtvingar Multi-Factor Authentication är det viktigt att se till att Outlook 2013 SP1 eller senare används och att din organisation har modern autentisering aktive rad. Mer information finns i [Aktivera modern autentisering i Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online). 
 
 Om du vill aktivera modern autentisering för alla enheter som kör Windows, som har Microsoft Office 2013 installerat, måste du skapa två register nycklar. Se [Aktivera modern autentisering för Office 2013 på Windows-enheter](/office365/admin/security-and-compliance/enable-modern-authentication).
 
@@ -128,17 +128,19 @@ Listan ovan är inte fullständig. Det är därför viktigt att du utför en ful
 
 ## <a name="accessing-your-environment"></a>Åtkomst till din miljö
 
-Vi rekommenderar att du granskar inloggnings aktiviteten för att bättre förstå vad eller vem som autentiseras utan att behöva anropas för Multi-Factor Authentication. Med hjälp av Azure Active Directory Premium kan du utnyttja inloggnings rapporten. Mer information finns i [rapporter om inloggnings aktiviteter i Azure Active Directory portalen](/azure/active-directory/reports-monitoring/concept-sign-ins) . Om du inte har Azure Active Directory Premium, eller om du vill ha ett sätt att hämta detta via PowerShell, måste du använda cmdleten [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity)  från [partner centret PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) -modulen.
+Vi rekommenderar att du granskar inloggnings aktiviteten för att bättre förstå vad eller vem som autentiseras utan att behöva anropas för Multi-Factor Authentication. Med hjälp av Azure Active Directory Premium kan du utnyttja inloggnings rapporten. Mer information om det här ämnet finns i [rapporterna om inloggnings aktiviteter i Azure Active Directory-portalen](/azure/active-directory/reports-monitoring/concept-sign-ins). Om du inte har Azure Active Directory Premium, eller om du letar efter ett sätt att hämta denna inloggnings aktivitet via PowerShell, måste du använda cmdleten [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity)  från [partner centret PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) -modulen.
 
-## <a name="how-the-requirements-will-be-enforced"></a>Hur kraven kommer att tillämpas
+## <a name="how-the-requirements-are-enforced"></a>Så här framtvingas kraven
 
-Säkerhets kraven för partnern kommer att verkställas av Azure Active Directory och i sin tur kan du söka efter MFA-anspråk för att identifiera att Multi-Factor Authentication-kontrollen har skett. Från och med 18 november 2019 kommer Microsoft att aktivera ytterligare säkerhets skydd (kallades tidigare "tekniskt tvång") till partner klienter. 
+Partner säkerhets kraven upprätthålls av Azure Active Directory och i sin tur i sin tur kan du söka efter MFA-anspråk för att identifiera att Multi-Factor Authentication-kontrollen har skett. Från och med 18 november 2019 har Microsoft aktiverat ytterligare säkerhets skydd (kallades tidigare "tekniskt tvång") till partner klienter.
 
-Vid aktivering begärs användare i partner klienten att slutföra autentisering med multifaktorautentisering (MFA) vid utförandet av en administratör på uppdrag av (ADMINISTRATE) åtgärder. Vi kommer att fortsätta att utöka omfattningen av säkerhets skyddet till ytterligare scenarier och användar roller, vilket ger partners i förväg meddelanden. Mer information finns i det här dokumentet, som kommer att uppdateras ofta. Partner som inte har uppfyllt kraven bör genomföra dessa åtgärder så snart som möjligt för att undvika eventuella affärs avbrott. 
+Vid aktivering kommer användare i partner klient organisationen att bli uppmanade att slutföra verifieringen av multifaktorautentisering (MFA) när de utför en administratör på uppdrag av (ADMINISTRATE) åtgärder, åtkomst till Partner Center-portalen eller anrop till Partner Center API. Mer detaljerad information finns i [kräva Multi-Factor Authentication (MFA) för din partner klient](partner-security-requirements-mandating-mfa.md). 
+
+Partner som inte har uppfyllt kraven bör genomföra dessa åtgärder så snart som möjligt för att undvika eventuella affärs avbrott. 
 
 Om du använder Azure Multi-Factor Authentication eller Azure AD Security-standardvärden finns det inga ytterligare åtgärder som du behöver vidta.
 
-När du använder en Multi-Factor Authentication-lösning från tredje part, kan MFA-anspråk inte utfärdas. Om detta påstående saknas kan Azure Active Directory inte avgöra om autentiseringsbegäran har anropats av Multi-Factor Authentication. Information om hur du verifierar att lösningen utfärdar det förväntade anspråket finns [i testa säkerhets kraven för partner](/powershell/partnercenter/test-partner-security-requirements). 
+Om du använder en Multi-Factor Authentication-lösning från tredje part, kan MFA-anspråk inte utfärdas. Om detta påstående saknas kan Azure Active Directory inte avgöra om autentiseringsbegäran har anropats av Multi-Factor Authentication. Information om hur du verifierar att lösningen utfärdar det förväntade anspråket finns [i testa säkerhets kraven för partner](/powershell/partnercenter/test-partner-security-requirements). 
 
 > [!IMPORTANT]
 > Om din lösning från tredje part inte utfärdar det förväntade anspråket måste du arbeta med leverantören som utvecklade lösningen för att fastställa vilka åtgärder som ska vidtas.

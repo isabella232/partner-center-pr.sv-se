@@ -1,7 +1,7 @@
 ---
 title: Tilldela roller & behörigheter till användare
 ms.topic: article
-ms.date: 09/04/2020
+ms.date: 10/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lär dig vilka roller som passar bäst för ditt företags användare som hanterar affärs transaktioner, referenser, incitament eller MPN-medlemskap i Partner Center.
@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 32df86887ccbea5d18d1bd8c7c34add2b1ab60e4
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 6707ede563d07b6b96d2133bd75f8fbd53531875
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92531860"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133039"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Tilldela användare roller och behörigheter för ett företags användare som behöver arbeta i Partner Center
 
@@ -52,7 +52,7 @@ Du bestämmer vilka typer av åtkomst användarna har till Partner Center av de 
 ||* Skapa support biljetter för partner Center
 ||* Visa partner support biljetter som du skapar
 |Standard användare|  Visa min profil   |[Återställa lösenordet](reset-my-pasword.md)
-|Administratörs agent | * Kund hantering|[Anslut till dina kunder](connect-with-your-customers.md)
+|Administratörs agent | * Kund hantering|[Få kontakt med dina kunder](connect-with-your-customers.md)
 ||* Lägg till enhets lista i partner centret
 ||* Skapa och tillämpa profiler på enheter
 ||* Prenumerations hantering
@@ -97,8 +97,6 @@ CPVs utvecklar appar för användning av leverantörer av moln lösningar (CSP) 
 |**Gäst användare**   | **Roller**|
 |---------------------------|:--------------------|
 ||MPN-partner administratör|
-||Konto administratör|
-||Incitaments administratör|
 ||Företags profil administratör|
 ||Referens administratör|
 
@@ -138,7 +136,7 @@ Dessa roller är inte Azure Active Directory roller. Dessa roller hanterar före
 ||* Ta emot och hantera hänvisningar
 ||* Visa, skapa och hantera samförsäljnings referenser|
 ||* Visa, skapa och hantera partner tjänst begär Anden
-|Företags profil administratör   |* Visa, skapa och hantera affärs profil |[Skapa en affärs profil](create-a-marketing-profile.md)
+|Företags profil administratör   |* Visa, skapa och hantera affärs profil |[Skapa en affärsprofil](create-a-marketing-profile.md)
 ||* Visa, skapa och hantera partner tjänst begär Anden
 ||* Skapa support biljetter för partner Center
 ||* Visa partner support biljetter som du skapar|

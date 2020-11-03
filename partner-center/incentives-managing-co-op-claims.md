@@ -1,5 +1,5 @@
 ---
-title: Hantera samop-anspråk
+title: Hantera säljsamarbetsanspråk
 description: Förstå den samordnade anspråks processen, inklusive deadlines, valuta problem och hur man ifrågasätter ett avvisat samop-anspråk.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -7,13 +7,13 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 10/02/2020
-ms.openlocfilehash: 27b269016822157b8f3a20541fd027bd2c03ee75
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.date: 10/29/2020
+ms.openlocfilehash: 54c90cce33a1eabc87357048c348ffa2cc03de19
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "92531817"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133158"
 ---
 # <a name="manage-incentives-co-op-claims"></a>Hantera incitaments samordnings anspråk
 
@@ -65,16 +65,14 @@ Om det material som du skickade in med ditt co-op-anspråk bedöms vara otillrä
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 
-2. Under **incitament** väljer du **plan hantering** .
+2. Under **incitament** väljer du **co-op Management** .
 
-3. Välj **hantering av co-op** .
+3. Välj det co-op-anspråk som du vill bestrida. Sidan co-op-anspråk öppnas.
 
-4. Välj det co-op-anspråk som du vill bestrida. Sidan co-op-anspråk öppnas.
-
-5. Välj alternativet för att **bestrida** anspråket längst ned på sidan.
+4. Välj alternativet för att **bestrida** anspråket längst ned på sidan.
 
 Valideringsteamet för co-op-anspråk granskar anspråket inom fem affärsdagar. Under den här tiden visas statusen som **Omtvistad** . Vi kan kontakta dig för att be om mer information. När granskningen är klar uppdaterar valideringsteamet statusen till antingen **Godkänd** , **Avvisad** eller **Partneråtgärd krävs** .
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Kom igång med incitament](incentives-get-started-intro.md)
+- [Komma igång med incitament](incentives-get-started-intro.md)

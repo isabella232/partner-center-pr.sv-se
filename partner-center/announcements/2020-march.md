@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 9a44adc0f4150f4cbb21c4b0e332c4958559443f
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: ff697bec18c59957d8be7d5ec8ad09edb364b6bb
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92531916"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795810"
 ---
 # <a name="march-2020-announcements"></a>Meddelanden i mars 2020
 
@@ -73,7 +73,7 @@ Bekanta dig med pris listan och dela den här informationen med alla lämpliga k
 
 Var särskilt uppmärksam på dina kollegor i Sälj verksamhet och marknadsföring, eftersom de kan behöva uppdatera produktens släktingar för att avspegla de nya namnen.
 
-**Några?**
+**Har du några frågor?**
 
 Om du vill ha ytterligare frågor om dessa erbjudanden kan du kontrol lera dina relevanta Yammer-communities och kontakta din representant i Microsoft-kontos teamet. Vi arbetar bra tillsammans.
 
@@ -116,7 +116,7 @@ Mer information hittar du på sidan med [CSP-erbjudanden](../csp-offers.md) .
 
 Granska tillgängliga resurser och dela med lämpliga intressenter i din organisation.
 
-**Några?**
+**Har du några frågor?**
 
 [Kontakta supporten](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) om du har frågor, frågor eller mer information.
 
@@ -182,7 +182,7 @@ Bekanta dig med pris listan för för hands versionen. Tänk på att Microsoft 3
 
 Dela den här informationen med alla lämpliga kontakter i din organisation.
 
-**Några?**
+**Har du några frågor?**
 
 Om du vill ha mer information om dessa erbjudanden kontaktar du ditt ombud i Microsoft-kontos teamet.
 
@@ -272,7 +272,7 @@ Med Premium-meddelanden kan:
 
 Bekanta dig med pris listan för för hands versionen och dela den här informationen med alla lämpliga kontakter i din organisation.
 
-**Några?**
+**Har du några frågor?**
 
 Om du vill ha mer information om dessa erbjudanden kontaktar du ditt ombud i Microsoft-kontos teamet.
 
@@ -317,7 +317,7 @@ Se de enskilda ändringarna i filen med namnet "Dynamics CSP-erbjudande uppdater
 
 - [Startsidan för Dynamics 365](https://dynamics.microsoft.com/)
 - [Start sida för guiden för blandade verklighets appar](https://dynamics.microsoft.com/mixed-reality/guides/)
-- [Start sida för BIZ Apps-bedrägerier](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing//docs.microsoft.com/dynamics365/fraud-protection/overview)
+- [Start sida för BIZ Apps-bedrägerier](/dynamics365/fraud-protection/overview)
 - [FY20 PowerApps och Flow License-uppdateringar](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
 - [Microsoft Dynamics 365-licensiering](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
 - [Dynamics 365 och Power Platform – tillgänglighet, data plats, språk och lokaliserings innehåll](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
@@ -365,7 +365,7 @@ Dessutom sker ingen ändring av befintliga Windows E5, Microsoft 365 E5-säkerhe
 - Dela den här informationen med lämpliga kontakter i din organisation.
 - Läs följande om du vill ha mer information om Microsoft Defender Avancerat skydd: [https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?ocid=cx-blog-mmpc](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?ocid=cx-blog-mmpc)
 
-**Några?**
+**Har du några frågor?**
 
 Om du har frågor som rör dina åtgärder med Microsoft kan du kontakta supporten via din partner instrument panel på: https://partner.microsoft.com/pcv/servicerequests/create .
 

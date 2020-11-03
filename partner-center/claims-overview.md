@@ -1,7 +1,7 @@
 ---
 title: Incitaments översikt över medop och anspråk
 ms.topic: article
-ms.date: 09/18/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Lär dig hur du skickar in ett lyckat samordnat anspråk för dina incitament genom att organisera rätt dokumentation, fakturor, utdrag och körnings bevis.
@@ -9,12 +9,12 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: a79ca29d3bf097d9248c596d54d21ea4222a62ab
-ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
+ms.openlocfilehash: a415c62619a486361168adb07d0d2e2cb94c5cf1
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531525"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133090"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Skaffa samarbets marknadsförings medel
 
@@ -41,6 +41,9 @@ Du kan läsa mer på sidan med [resurser för co-op-medel](https://partner.micro
 Microsoft beräknar berättigad incitaments inkomst med en delad procents ATS (till exempel 60% rabatt-40% co-op). Du får rabatt delen med hjälp av den befintliga takt för ditt enskilda program, medan Microsoft påbörjar den samopa delen av incitaments intäkterna.
 
 Du kan lära dig mer om betalnings takt och dela procent i din incitaments program guide. Använd [den här proceduren](incentives-determined-your-program-eligibility.md) för att få åtkomst till din program guide.
+
+>[!NOTE]
+>Om ditt co-op-belopp är lägre än tröskelvärdet för samordnings perioden, omvandlas medop-intäkterna till en rabatt i slutet av terminen. Mer information eller för att fastställa tröskel beloppet finns i program guiden för incitament.
 
 ## <a name="when-to-claim-your-funds"></a>När du ska anspråka pengar
 
@@ -75,4 +78,4 @@ Följande resurser hjälper dig att komma igång med samop-anspråk.
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Kom igång med incitament](incentives-get-started-intro.md)
+- [Komma igång med incitament](incentives-get-started-intro.md)

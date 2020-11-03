@@ -1,7 +1,7 @@
 ---
 title: Gå med i Cloud Solution Provider-programmet
 ms.topic: how-to
-ms.date: 10/06/2020
+ms.date: 10/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lär dig hur du registrerar i den program vara för Cloud Solution Provider (CSP) som är bäst för din verksamhet, till exempel indirekt åter försäljare eller direkt fakturerings partner.
@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: caa1442e5775a1617aa483a3cef675a6bd09eb17
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 1074b25ef90495db82600fc5c18b335a91970d84
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532129"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917169"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Gå med i Cloud Solution Provider-programmet
 
 **Gäller för**
 
-- Cloud Solution Provider-program  
+- Partnercenter  
 
 **Lämpliga roller**
 
@@ -73,6 +73,7 @@ Som en direkt fakturerings partner äger du relationen från slut punkt till slu
 |**MPN-ID**   |Ett Active Microsoft Partner Network-ID (MPN) för din företags plats.    |
 |**Erkännande**   |Myndigheten att godkänna och signera juridiska avtal för din organisations räkning.|
 |**Support**   |Möjlighet att tillhandahålla den första nivån av moln produkt support för dina kunder. <br>Microsoft support avtal, antingen avancerad support för partner (ASfP) eller Premier Support för partner (PSfP), beroende på dina behov. [Jämför support](https://partner.microsoft.com/support/partnersupport)avtal.<br> VIKTIGT: du måste godkänna en kredit kontroll innan du köper en Support plan. Vi skickar e-post när du har slutfört kredit kontrollen. |
+|**Intäkts krav**|Måste uppfylla minst USD300K i Cloud Solution Provider-programmets årliga intäkter under de närmast föregående tolv månaderna som en indirekt åter försäljare. Partner kan granska sina efterföljande tolv månaders intäkter på Partner Center. den försäljning som utgör din USD300K av intäkter från tolv månader omfattas av granskning och verifiering av Microsoft och du kan uppmanas att ange ytterligare information. Kravet på USD300K intäkt beräknas utifrån moln intäkterna och kommer att utesluta beständig program vara i CSP.|
 |**Hanterad tjänst**   |Minst en hanterad tjänst, IP-tjänst eller kund lösnings program. Läs mer om att lägga till [hanterade tjänster](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
 |**Kund reskontra** |Organisationens infrastruktur på plats för att hantera fakturering och etablering av kunder.
 

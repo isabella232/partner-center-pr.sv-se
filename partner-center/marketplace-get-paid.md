@@ -6,12 +6,12 @@ ms.topic: conceptual
 ms.date: 09/28/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: db347387df29dc36e256881546e632bd321dfde5
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 61730eec204674d7ad095d1fffcd997f65d135ea
+ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532041"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "93189738"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>Få betalt på den kommersiella marknadsplatsen
 
@@ -35,7 +35,7 @@ Innan du börjar betala första gången måste du ställa in ditt utbetalnings k
 
 Som standard skickar vi betalningar varje månad enligt beskrivningen ovan. Du kan dock välja att ställa in dina utbetalningar för ett program som är parkerat och att Microsoft inte släpper ut dina betalningar på ditt konto. Om du väljer att spärra dina inbetalningar kommer vi att fortsätta att registrera intäkter på sidan **utbetalningar** . Vi kommer dock inte att skicka några betalningar till ditt konto förrän du tar bort spärren.
 
-Om du vill spärra dina betalningar går du till **konto inställningar** . Under **utbetalning och skatt** , i avsnittet **utbetalning och skatte profil tilldelning** , letar du reda på det program som du vill ha betalningar för. Markera kryss rutan **Behåll min betalning** för att hålla betalningarna för det här programmet. Du kan ändra din utbetalnings status när som helst, men ditt beslut kommer att påverka nästa månads utbetalning. Om du till exempel vill ha en utbetalning av april, se till att ställa in din utbetalnings status **till före slutet** av mars.
+Om du vill sätta igång dina betalningar väljer du kugg hjuls ikonen **Inställningar** längst upp till höger och sedan **Inställningar för utvecklare** . Välj **utbetalning och skatt** i den vänstra menyn och leta upp det program som du vill ha betalningar för i avsnittet **utbetalning och skatte profil tilldelning** . Markera kryss rutan **Behåll min betalning** för att hålla betalningarna för det här programmet. Du kan ändra din utbetalnings status när som helst, men ditt beslut kommer att påverka nästa månads utbetalning. Om du till exempel vill ha en utbetalning av april, se till att ställa in din utbetalnings status **till före slutet** av mars.
 
 När du har angett statusen för din utbetalnings spärr till **på** , är alla utbetalningar för det här programmet kvar tills du avmarkerar kryss **rutan.** När du gör det kommer du att inkluderas under nästa månads utbetalnings cykel (förutsatt att betalnings tröskeln har uppfyllts). Om du har haft dina inbetalningar spärrade, men vill ha en utbetalning som genererats i juni, avmarkerar du kryss **rutan för att ta bort den** före slutet av maj.
 

@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: d38c11e564d6776a5755f8df40ba6ad2dca27d12
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 26912daeae6648d49d1fda3ee148d46c8a3d6705
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532033"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795839"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Slå samman ditt partnerkonto med ett annat partnerkonto
 
@@ -89,7 +89,27 @@ Om du väljer att acceptera inbjudan att slå samman konton: · Dina MPN-ID: n (
 3. Lägg till MPN-ID: t som finns i **partner profilen** för det konto som du vill bjuda in till att koppla med dig. Du måste använda sitt globala MPN-ID för partner. Du kan inte använda ett plats MPN-ID.
 
 4. När du väljer **sammanfoga** skickas en inbjudan till partner företaget. När de accepterar din begäran kan du initiera sammanslagningen av konton i Partner Center. Om företaget avvisar din begäran om att slå samman konton kan de förklara varför de avvisade begäran. En lista över alla dina konto sammanslagningar är tillgänglig för dig under **sammanslagnings historik** .
+ 
+### <a name="example-of-two-companies-merging-accounts"></a>Exempel på två företag som slår samman konton
 
+1. Contoso har 
+
+    a. ett [globalt MPN-ID på 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) och en underordnad [plats MPN-id: n 2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile).
+  
+    b. en Azure AD-klient = @contoso.com
+ 
+    c. en guld-kompetens som upphör att gälla 1 oktober 2020
+2. Fabricam har
+ 
+    a.  ett globalt MPN-ID på 3333333 och två underordnade platser MPN-ID: n 4444444 och 5555555
+
+    b.  AAD-klient = @fabricam.com
+
+    c.  två guld kompetenser som upphör att gälla den 1 december 2020
+3.  Contoso köper fabricam och går [hit](https://partner.microsoft.com/dashboard/account/merger) för att initiera en kopplings förfrågan
+4.  Fabricam loggar in på Partner Center och går till samma sida som contoso gjorde i steg #3 för att godkänna Contosos begäran.
+5.  Contoso granskar informationen om sammanslagningen på samma sida och ger bekräftelse på att gå vidare med konto fusionen.
+    
 ## <a name="next-steps"></a>Nästa steg
 
 - [Tilldela användarroller och -behörigheter](permissions-overview.md)

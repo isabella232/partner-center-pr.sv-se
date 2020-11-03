@@ -1,7 +1,7 @@
 ---
 title: Hantera incitaments samordnings anspråk
 ms.topic: how-to
-ms.date: 10/02/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Lär dig hur du initierar incitaments samspels anspråk från Partner Center. Du kan se all aktivitet som går in i skapandet av ditt anspråk i historiken.
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 1af4620d040931ebbc263339fbfe37c1f26d0123
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.openlocfilehash: 9b2f0b3acbbf3ad9648301b85cec3b8837e3e51e
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "92531816"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132954"
 ---
 # <a name="create-and-manage-an-incentives-co-op-claim"></a>Skapa och hantera ett incitament mot op-op-anspråk
 
@@ -32,15 +32,13 @@ Du kan initiera en incitaments anspråks inifrån Partner Center.
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 
-2. Välj fliken **incitament** och välj sedan **plan hantering** .
+2. Välj fliken **incitament** och välj sedan **samop-hantering** .
 
-3. Välj **hantering av co-op** .
+3. Om du redan har ett anspråk på sidan visar anspråks översikten information om status för befintliga anspråk och betalningar som godkänts, begärs och total summor.
 
-4. Om du redan har ett anspråk på sidan visar anspråks översikten information om status för befintliga anspråk och betalningar som godkänts, begärs och total summor.
+4. Om du vill skapa ett nytt anspråk väljer du **skapa ett anspråk** .
 
-5. Om du vill skapa ett nytt anspråk väljer du **skapa ett anspråk** .
-
-6. När du har fyllt i det första formuläret och valt **Skapa anspråk** kommer du till anspråks informations sidan där du kan lägga till fakturor, CSR, korrektur dokument och mått. Du kan också lägga till ytterligare information om det behövs.
+5. När du har fyllt i det första formuläret och valt **Skapa anspråk** kommer du till anspråks informations sidan där du kan lägga till fakturor, CSR, korrektur dokument och mått. Du kan också lägga till ytterligare information om det behövs.
 
 På sidan med anspråksinformation kan du begära att andra i din organisation laddar upp dokumentation till formuläret. Du kan ange förklaringar till alla stöddokument du laddar upp. 
 

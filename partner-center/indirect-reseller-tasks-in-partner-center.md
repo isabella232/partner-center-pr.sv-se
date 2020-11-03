@@ -1,7 +1,7 @@
 ---
 title: Arbeta med indirekta leverantörer i CSP-programmet
 ms.topic: how-to
-ms.date: 04/27/2020
+ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lär dig hur indirekta åter försäljare kan arbeta med Microsofts indirekta leverantörer (eller distributörer) för att få hjälp med kund support och fakturering.
@@ -10,20 +10,23 @@ ms.custom: contperfq2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 1b8b6f3c094471e67d43701a83da46d7dd1372a0
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 74edfbfd766e6969b278c9ad83b3a12b7ef95abd
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92531881"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795856"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Lär dig att samar beta med indirekta leverantörer i Cloud Solution Provider-programmet
 
+**Gäller för**
+
+- Partnercenter
+
 **Lämpliga roller**
 
-- Global administratör
-- Användaradministratör
-- Administratörs agent
+
+- Alla Microsoft-partner som är intresserade av att registrera sig i Cloud Solution Provider-programmet
 
 
 Den snabbt växande efter frågan för molnbaserade lösningar och tjänster ger många möjligheter till Microsofts partner av alla storlekar för att bygga lönsamma moln lösnings företag. Partner som är redo att gå in på marknaden, men som inte vill behöva hantera flera leverantörer, eller som inte har en komplett kund Relations hanterings infrastruktur på plats, kan registrera sig i Microsofts program vara för Cloud Solution Provider (CSP) som indirekta åter försäljare.
@@ -47,7 +50,7 @@ Mer information om vad som krävs för att sälja i CSP-programmet som en indire
 
 ### <a name="before-you-begin"></a>Innan du börjar
 
-Om du är nybörjare på CSP måste du registrera dig i programmet som en indirekt åter försäljare. Sedan måste du skapa ett konto i Partner Center. För att göra det måste du ange följande information under registrerings processen. Det kan vara bra att ta några minuter att samla in dessa objekt innan du börjar:
+Från och med oktober 2020 registreras alla Microsoft-partners som är nya för CSP i CSP-programmet som en indirekt åter försäljare. Sedan måste du skapa ett konto i Partner Center. Det gör du genom att ange följande information under registrerings processen. Det kan vara bra att ta några minuter att samla in dessa objekt innan du börjar:
 
 - **Globala administratörsautentiseringsuppgifter för ditt arbets konto**
 
@@ -65,7 +68,7 @@ Om du är nybörjare på CSP måste du registrera dig i programmet som en indire
 
 ### <a name="get-started"></a>Kom igång
 
-1. Om du vill starta processen går du till [**Välkomst sidan**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) för att registrera dig.
+1. Om du vill starta registrerings processen går du till [**Välkomst sidan**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) för att registrera dig.
 
 2. Granska **Välkomst sidan** för att se till att du har den information du behöver för att registrera dig och välj sedan **Nästa** .
 
@@ -99,6 +102,16 @@ Om du är nybörjare på CSP måste du registrera dig i programmet som en indire
 
    2. Välj ditt namn i listan med användare. Välj sedan **admin agent** om den inte redan är vald. Välj **Uppdatera** .
 
+## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>Alla indirekta åter försäljare måste signera Microsofts partner avtal
+
+1.  Om du ännu inte har flyttat till Partner Center från partner Membership Center gör du det nu. Om du vill ha hjälp med att flytta till Partner Center kan du läsa [guiden för att migrera från PMC till Partner Center](guide-to-migration.md). 
+
+2.  Om du har ett konto för partner Center-medlemskap (MPN-ID) behöver du fortfarande officiellt registrera dig i Cloud Solution Provider-programmet. Du kontrollerar medlemskapets status genom att gå till din [**partner profil**](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) och bekräfta konto typen. [Registrera sedan i CSP som en indirekt åter försäljare](enrolling-in-the-csp-program.md). När du har registrerat dig som en indirekt åter försäljare [accepterar du begäran om CSP-relation från den indirekta providern](indirect-reseller-tasks-in-partner-center.md).
+
+3.  Om du redan har registrerat dig i Partner Center som en indirekt åter försäljare accepterar du Microsofts partner avtal i [Översikt över instrument panelen för partner Center](https://partner.microsoft.com/pcv/dashboard/overview) med hjälp av globala administratörsautentiseringsuppgifter. Bekräfta att du har undertecknat Microsoft partner Agreement i avsnittet **program information** i partner profilen. Dessutom visas ett meddelande om aviseringar på sidan CSP-översikt. 
+
+:::image type="content" source="images/mpagreen.png" alt-text="Grön godtagen banderoll":::
+
 
 ## <a name="connect-with-an-indirect-provider"></a>Ansluta till en indirekt leverantör
 
@@ -128,6 +141,8 @@ Om en indirekt Provider vill ansluta till dig på Partner Center, kommer de att 
 
 
 ## <a name="next-steps"></a>Nästa steg
+
+- [Konto verifierings processen](verification-responses.md)
 
 - [Hantera ditt Partnercenter-konto](partner-center-account-setup.md)
 

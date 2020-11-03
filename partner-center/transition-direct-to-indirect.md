@@ -9,21 +9,25 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e9ffa6ef8145099a90fde16e4ce8d6a3453973e0
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e3cd791f5f9f781980d73c79f0ec18627585372a
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531736"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795873"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Övergå från en CSP-partner med direktfakturering till en indirekt CSP-återförsäljare
 
-**Gäller för:**
+**Gäller:**
+- Partnercenter
 
-- CSP-partner
+**Lämpliga roller**
+
+- Alla leverantörer av KRYPTOGRAFIPROVIDERs direkt fakturering
 
 >[!Note]
 >Den här artikeln är avsedd för direkta fakturerings partner som har valt att övergå till indirekta åter försäljare. Men även om du inte har gjort ett explicit beslut än att registrera sig som en indirekt åter försäljare, kommer direkta fakturerings partner som inte uppfyller de nya [kraven](direct-partner-new-requirements.md) för fakturerings programmet för CSP: n att informeras av Microsoft när deras [direkta fakturerings kapacitet är begränsad](restricted-direct-bill-capabilities.md).
+<br>Från och med januari 2021 kommer ett nytt intäkts krav att läggas till. Partner som har registrerats som en direkt fakturerings partner måste ha överfört minst USD $ över 300 000 i moln lösnings leverantörens program intäkt till en global partner global konto nivå under de föregående 12 månaderna.
 
 Du kommer att kunna registrera i det indirekta åter försäljar programmet med din befintliga direkt fakturerings klient.
 

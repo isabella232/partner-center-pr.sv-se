@@ -1,7 +1,7 @@
 ---
 title: Begränsade direkta fakturerings funktioner
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lär dig mer om krav för CSP direkt fakturerings partner och vad du kan göra för att undvika att funktioner begränsas. Ta reda på om dina funktioner har begränsats.
@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 46506548ec1848c983bfeabf44be74018e80be5e
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 7ee6f4fdb537752cccbceb68716ed22bb8c5fb3a
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "92531092"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795784"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Begränsade direkta fakturerings möjligheter och de krav som krävs för CSP Direct-fakturerings partner  
 
@@ -51,7 +51,7 @@ Om dina direkta fakturerings funktioner har begränsats kan du inte längre gör
 
 Du kan inte heller använda [Azure partners delade tjänster-erbjudandet](shared-services.md) under CSP-programmet för att köpa nya Azure-prenumerationer för eget bruk.
 
-Befintliga prenumerationer på direkt fakturering påverkas inte. De förblir giltiga och förnyas autoförnyas. Du kommer fortsätta att faktureras direkt av Microsoft tills de har annullerats. Du kan fortfarande hantera befintliga prenumerationer på följande sätt:
+Befintliga prenumerationer på direkt fakturering påverkas inte. De förblir giltiga och förnyas automatiskt. Du kommer fortsätta att faktureras direkt av Microsoft tills de har annullerats. Du kan fortfarande hantera befintliga prenumerationer på följande sätt:
 
 - Pausa befintliga prenumerationer
 

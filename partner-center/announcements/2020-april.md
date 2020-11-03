@@ -1,5 +1,5 @@
 ---
-title: April 2020-meddelanden
+title: Meddelanden april 2020
 description: April 2020-meddelanden för Microsoft Partner Center, till exempel nya funktioner, kampanjer, erbjudanden, marknader eller ändringar av befintliga erbjudanden.
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,14 +9,14 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 7591868f31d51750fcb30c41f73cea47c7178955
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 1f73dc184ba38647061bf63dd573d8dc2e088ba3
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92531940"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133005"
 ---
-# <a name="april-2020-announcements"></a>April 2020-meddelanden
+# <a name="april-2020-announcements"></a>Meddelanden april 2020
 
 Den här sidan innehåller information om Microsoft Partner Center-annonsering för april 2020.
 
@@ -192,7 +192,7 @@ Om du behöver ytterligare hjälp med tekniska problem kan du [Skicka ett suppor
 Tack för ditt partnerskap och engagemang för att säkerställa att vårt eko system körs på förtroende.
 
 >[!NOTE] 
->Om du använder bas linje principer och inte har övergått till säkerhets standard principen eller [andra MFA-implementerings alternativ](..\partner-security-requirements.md#actions-that-you-need-to-take), så gå över så snart som möjligt och referera till [nyckel resurserna här](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
+>Om du använder bas linje principer och inte har övergått till säkerhets standard principen eller [andra MFA-implementerings alternativ](..\partner-security-requirements.md#implementing-multi-factor-authentication), så gå över så snart som möjligt och referera till [nyckel resurserna här](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
 
 ### <a name="change-log"></a>Ändringslogg
 

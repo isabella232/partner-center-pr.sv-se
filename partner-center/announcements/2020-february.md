@@ -1,5 +1,5 @@
 ---
-title: Meddelanden från februari 2020
+title: Meddelanden februari 2020
 description: Februari 2020-meddelanden för Microsoft Partner Center, till exempel nya funktioner, kampanjer, erbjudanden, marknader eller ändringar av befintliga erbjudanden.
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,14 +9,14 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 4023c4a6b0bae4bb77655aed568ec22b81862884
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 7e608752b76c940e83434d7ec7daf3e4058512bd
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92531921"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132852"
 ---
-# <a name="february-2020-announcements"></a>Meddelanden från februari 2020
+# <a name="february-2020-announcements"></a>Meddelanden februari 2020
 
 Den här sidan innehåller information om Microsoft Partner Center CSP för februari 2020.
 
@@ -175,7 +175,7 @@ Vårt system indikerar att din organisation för närvarande använder bas linje
 
 ### <a name="key-considerations"></a>Viktiga överväganden
 
-Säkerhets standard princip är ett av de [alternativ](../partner-security-requirements.md#actions-that-you-need-to-take) som partners kan välja att implementera MFA för säkerhets kraven, beroende på deras affärs behov. Den erbjuder en grundläggande säkerhets nivå som är aktive rad utan extra kostnad. Läs om [hur du aktiverar MFA för din organisation med Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) och viktiga överväganden nedan:
+Säkerhets standard princip är ett av de [alternativ](../partner-security-requirements.md#implementing-multi-factor-authentication) som partners kan välja att implementera MFA för säkerhets kraven, beroende på deras affärs behov. Den erbjuder en grundläggande säkerhets nivå som är aktive rad utan extra kostnad. Läs om [hur du aktiverar MFA för din organisation med Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) och viktiga överväganden nedan:
 
 - Säkerhets inställningarna är inte tillgängliga för de partner som använder [villkorlig åtkomst](/azure/active-directory/conditional-access/concept-conditional-access-policy-common).
 - Säkerhets standardvärden tillämpar alla principer samtidigt, inklusive de nödvändiga MFA för administratörer-principen, slut användar skydds principen och Kräv MFA för Service Management.

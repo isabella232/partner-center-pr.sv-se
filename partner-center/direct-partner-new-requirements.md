@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 04/27/2020
-ms.openlocfilehash: c5b07e353ebbeeb53de3d90abf229a8ce79ade8f
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.date: 10/09/2020
+ms.openlocfilehash: 98c9cdd96af037e8543828e3a6f2e93c5b0fcbcd
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "92531361"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795787"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Krav för att registrera dig som CSP-partner med direktfakturering
 
@@ -32,9 +32,10 @@ Som en direkt fakturerings partner äger du relationen från slut punkt till slu
 |--------------------------------|--------------------------------------------------------------|
 |**MPN-ID**   |Ett Active Microsoft Partner Network-ID (MPN) för din företags plats.    |
 |**Erkännande**   |Myndigheten att godkänna och signera juridiska avtal för din organisations räkning.|
+|**Intäkter**|Från och med januari 2021 måste partner som registrerats som direkt fakturerings partner ha överfört minst USD över 300 000 i moln lösnings leverantörens program intäkt till en global partner global konto nivå under de föregående 12 månaderna.| 
 |**Support**   |Möjlighet att tillhandahålla den första nivån av moln produkt support för dina kunder. <br/>Microsoft support avtal, antingen avancerad support för partner (ASfP) eller Premier Support för partner (PSfP), beroende på dina behov. [Jämför support](https://partner.microsoft.com/support/partnersupport)avtal.<br/> VIKTIGT: du måste godkänna en kredit kontroll innan du kan köpa en Support plan. Vi skickar e-post när du har slutfört kredit kontrollen. |
 |**Hanterad tjänst**   |Minst en hanterad tjänst, IP-tjänst eller kund lösnings program. Läs mer om att lägga till [hanterade tjänster](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
-|**Kund reskontra** |Organisationens infrastruktur på plats för att hantera fakturering och etablering av kunder.
+|**Kund reskontra** |Organisationens infrastruktur på plats för att hantera fakturering och etablering av kunder.|
 
 ### <a name="verify-direct-bill-eligibility"></a>Verifiera direkt fakturerings berättigande
 

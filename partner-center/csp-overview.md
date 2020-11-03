@@ -1,7 +1,7 @@
 ---
 title: Översikt över Cloud Solution Provider-program
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 10/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lär dig mer om fördelarna och olika modeller i Cloud Solution Provider (CSP)-programmet som hjälper företaget att växa med nya kunder och nya expert kunskaper.
@@ -9,19 +9,19 @@ author: billlinzbach
 ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e1f85f670de583052807c9ff2edfa84a50bd7daf
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 9780fe0b90a4889fca1f3a887c445a75b1549eaa
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532101"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917203"
 ---
 # <a name="cloud-solution-provider-program"></a>Cloud Solution Provider-program 
 
 **Gäller för**
 
 - Partnercenter
-- Partner i CSP-programmet
+
 
 Den här artikeln ger en översikt över program varan för Cloud Solution Provider (CSP) och beskriver de olika drift modellerna och deras krav, samt annan information om att sälja via det här programmet.  CSP-programmet hjälper dig att bli mer engagerad i kundernas verksamhet, förutom att sälja licenser och kan omfatta följande fördelar: 
 
@@ -41,6 +41,10 @@ Den här artikeln ger en översikt över program varan för Cloud Solution Provi
 Support
 
 - Utöka support möjligheterna genom att köpa en-på-ett-prioriterad moln support med ett Microsoft Advanced support för partner-paket. Alternativt kan du välja ett Microsoft Premier Support for partner-paket för att få åtkomst till hela katalogen med proaktiva tjänster, 24/7 upphöjt avbrott/korrigerings support och teknisk konto hantering i molnet, hybriden och lokalt.
+
+Intäkter
+
+- Måste uppfylla minst USD300K i Cloud Solution Provider-programmets årliga intäkter under de närmast föregående tolv månaderna som en indirekt åter försäljare. Partner kan granska sina efterföljande tolv månaders intäkter på Partner Center. den försäljning som utgör din USD300K av intäkter från tolv månader omfattas av granskning och verifiering av Microsoft och du kan uppmanas att ange ytterligare information. Kravet på USD300K intäkt beräknas utifrån moln intäkterna och kommer att utesluta beständig program vara i CSP.
 
 Tjänster
 
@@ -70,7 +74,7 @@ Du kan sälja hela [Microsofts moln tjänster](https://partner.microsoft.com/clo
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Registrera i CSP-programmet](enrolling-in-the-csp-program.md)
+- [Registrera dig för Molnlösningsleverantör-programmet](enrolling-in-the-csp-program.md)
 - [Granska krav för varje CSP-modell](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
 - [Ansök om försäljning i Microsofts nationella moln](csp-national-clouds-overview.md)
 - [Microsofts kund avtal efter region och språk](agreements.md)

@@ -1,7 +1,7 @@
 ---
 title: Kräva multifaktorautentisering för din partnerorganisation
 ms.topic: article
-ms.date: 05/26/2020
+ms.date: 10/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lär dig hur kräva MFA för dina partner klienter kan skydda din åtkomst till kund resurser. Innehåller exempel scenarier.
@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a85a7e415eac7f54ccd52302e350ce20de9856d
-ms.sourcegitcommit: 0cea15df24a6a1b310535eb1cb5e167dc2248a95
+ms.openlocfilehash: 01122e81254a8e63f9bbf8d6bc3d3271accac74a
+ms.sourcegitcommit: 2847efac28d3bff24ed37cdfaa88ff4be06705c8
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "92531981"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92680399"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Kräva Multi-Factor Authentication (MFA) för din partner klient
 
@@ -43,9 +43,7 @@ Partner krävs för att genomdriva Multi-Factor Authentication (MFA) för alla a
 
 Större och fort löp ande säkerhets-och integritets skydd är bland våra främsta prioriteringar och vi fortsätter att hjälpa våra partner att skydda sina kunder och klienter. Alla partner som deltar i CSP-programmet (Cloud Solution Provider), på kontroll panelens leverantörer (CPVs) och rådgivare bör implementera [säkerhets kraven för partner](partner-security-requirements.md) för att vara kompatibla.
 
-Microsoft började aktivera ytterligare säkerhets åtgärder för partner klienter. Den här aktiveringen av skydd kan hjälpa partners att skydda sina klienter och sina kunder genom att kräva Multi-Factor Authentication (MFA)-verifiering för att förhindra obehörig åtkomst.
-
-Vi har slutfört aktiveringen av partner delegerade administrations funktioner till alla partner klienter. För att ytterligare hjälpa till att skydda partner och kunder, med början den 1 maj 2020, påbörjar vi aktiveringen av Partner Center-transaktioner i CSP, vilket hjälper samarbets partners att skydda sina företag och kunder från problem med identitets stöld.
+För att hjälpa våra partner att skydda sina företag och kunder från identitets stölds incidenter har vi aktiverat ytterligare säkerhets skydd för partner klienter som kan hjälpa partner att se till att deras klienter och sina kunder genom att kräva Multi-Factor Authentication (MFA) verifieras för att förhindra obehörig åtkomst. 
 
 Den här dokumentationen ger partner med detaljerad erfarenhet och vägledning om aktivering av säkerhets åtgärder.
 

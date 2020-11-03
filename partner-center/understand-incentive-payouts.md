@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 11a37c0f0ac9218ec488441948faaa7b665bf0f3
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: ca06b4574d90993f62e6d8d018657e6bd81eb5e1
+ms.sourcegitcommit: 398e8361ae4b43a22d4015ad71bb724b2bf1b1a9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532136"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "93244071"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Visa, hantera och exportera information om stimulans programmet
 
@@ -106,6 +106,61 @@ Om du vill se mer information om ett som du väljer väljer du nedåtpilen till 
 
 Om du vill exportera någon av transaktions data på den här sidan väljer du **Exportera** och följer sedan anvisningarna på sidan Exportera data. Filer som exporteras från sidan transaktions historik visar data i transaktions valuta, intäkter i både transaktions valuta och US-dollar och det betalda värdet i betala till valuta.
 
+### <a name="submit-your-tax-invoice-as-proof-of-execution-poe"></a>Skicka din moms faktura som bevis för körning (PoE)
+
+>[!NOTE]
+>Det här innehållet gäller **endast** partner i Indien, Kina, Italien, Korea, Mexiko och Taiwan. <br><br>Partner i Indien krävs för att skicka in en hård kopia av moms fakturan.
+
+#### <a name="submit-a-tax-invoice"></a>Skicka en moms faktura
+
+Om du är en partner i något av de länder som anges ovan, meddelar Microsoft dig via e-post om att du måste skicka in en moms faktura för att kunna skicka in din incitament vinst. E-postmeddelandet som du tar emot innehåller instruktioner för att skicka din moms faktura och du får även en lista med ytterligare information som krävs.
+
+Partner i Indien krävs för att skicka in moms fakturan i pappers kopior. Partner i de andra länderna kan skicka antingen en hård eller mjuk kopia.
+
+Du måste skicka in din moms faktura inom 180 dagar från ditt anspråk. När vi har tagit emot och validerat din faktura kommer vi att bearbeta din incitaments betalning.
+
+Du måste skicka in följande information tillsammans med din moms faktura:
+
+- Faktura nummer (detta är ett tal som du genererar) 
+
+- Referens nummer för kanal stimulans (CI) (tillhandahålls av Microsoft) 
+
+- Namnet på stimulans programmet
+
+- Juridiskt namn och fakturerings adress i din partner profil 
+
+- Intäkts belopp
+
+- Skattebelopp
+
+Om du inte känner till referens numret för Channel-incitament (CI) kan du hitta det på följande tre platser: 
+
+- E-postavisering som Microsoft skickar till din incitaments administratör. 
+
+- [Instrument panelen för partner Center](https://partner.microsoft.com/dashboard/) (inloggning krävs) på både den **betalda** fliken och den **väntande** fliken.  
+
+- Din betalnings rapport, som finns på [export sidan för betalnings hämtning](/partner-center/understand-incentive-payouts#payment-download-export). 
+
+#### <a name="if-your-submission-is-rejected"></a>Om ditt bidrag avvisas
+
+Den mest sannolika orsaken till att en överföring avvisas är om informationen på moms fakturan inte matchar informationen i våra poster. Exempel på data som saknas eller är felaktiga: 
+
+- Företagets varor och tjänster moms (GST)-nummer
+
+- Ditt harmoniserade system i nomenklaturen (HSN) och numret på service Accounting Code (SAC)
+
+- Faktura nummer (får inte överskrida 16 siffror)
+
+- Fakturadatum
+
+- Skatte värde (inklusive och exklusive)
+
+- Om ditt företag är i samma tillstånd som Microsoft, måste skatte procenten för de centrala varorna och tjänste skatten (CGST) och status varorna och tjänsterna (SGST) justeras.
+
+- Om ditt företag är i ett annat tillstånd än Microsoft, måste du ange procent andelen för de integrerade varorna och service skatten (IGST).
+
+Bidrag kan också avvisas om de tillhandahålls mer än 180 dagar efter anspråket, om fakturan är ogiltig eller om data har angetts felaktigt.
+
 ### <a name="estimated-payment-month"></a>Beräknad betalnings månad
 
 Sidan transaktions historik innehåller nu en tabell som visar de uppskattade betalnings beloppen för de kommande månaderna. Du kan också visa och hämta informationen i exporten av transaktions historik och sammanfattnings rapporter. Den här informationen gör avstämningar och betalnings projekt enklare.
@@ -144,7 +199,7 @@ Observera att din betalning endast lanseras under den beräknade månaden om pro
 |Planer      |Betalnings order som genererats som väntande interna granskningar innan betalningen bearbetas.       |No       |
 |Väntande moms faktura      |Din moms faktura är ofullständig eller ogiltig.          |Du måste uppdatera din moms faktura innan du kan betala         |
 |Avvisad under granskning        |Betalningen avvisades under granskningen.          |Kontakta Microsoft support om du vill ha mer information         |
-|Misslyckades        |Betalningen misslyckades på grund av ett fel i Microsoft-systemet.         |Kontakta Microsoft support om du vill ha mer information         |
+|Misslyckad        |Betalningen misslyckades på grund av ett fel i Microsoft-systemet.         |Kontakta Microsoft support om du vill ha mer information         |
 |Pågår     |Betalningen pågår.         |No         |
 |Felaktig betalning        |Betalnings återkoppling pågår.          |No        |
 |Skickat        |Betalningen har skickats till din bank.          |No       |
@@ -284,7 +339,7 @@ Rapporten transaktions sammanfattning innehåller transaktions information om sa
 >[!NOTE]
 >Rapporten transaktions sammanfattning innehåller inte kund-och prenumerations information för prenumerationer som är nyare än 60 dagar, eller om förbruknings intäkterna är mindre än en procent.
 
-|Kolumnnamn |Beskrivning |
+|Kolumnnamn |Description |
 |------ |:-----------|
 |  earningId | Unikt ID för varje tilltjänande  |
 |  participantId | Den primära identiteten för partnern enligt programmet  |

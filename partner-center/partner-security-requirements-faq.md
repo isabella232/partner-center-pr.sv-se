@@ -9,14 +9,14 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fe0cb6ce028049ae8e9b911608d649d09f0d9217
-ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
+ms.openlocfilehash: 9f60b6e2624bd4f9020181a936842bdb46db8aa9
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "92531793"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133056"
 ---
-# <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Vanliga frågor och svar om partnerns säkerhets krav
+# <a name="common-questions-about-partner-security-requirements"></a>Vanliga frågor om säkerhets krav för partner
 
 **Gäller för**
 
@@ -26,17 +26,16 @@ ms.locfileid: "92531793"
 
 - Alla aktiverade användare, inklusive gäst användare
 
-## <a name="partner-security-requirements"></a>Säkerhets krav för partner
 
-Den här artikeln innehåller några vanliga frågor och svar om [partner säkerhets kraven](partner-security-requirements.md).
+I den här artikeln besvaras några vanliga frågor om [partnerns säkerhets krav](partner-security-requirements.md).
 
-### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement"></a>Vilka är partnerns säkerhets krav och varför bör partners implementera?
+### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement-them"></a>Vilka är partnerns säkerhets krav och varför ska partner implementera dem?
 
-Större och fort löp ande säkerhets-och integritets skydd är bland våra främsta prioriteringar och vi fortsätter att hjälpa våra partner att skydda sina kunder och klienter. Vi fortsätter att se mer avancerade, ökande antal säkerhets attacker, främst relaterade till incidenter med identitets kompromisser. Som förebyggande kontroller spelar en viktig roll i en övergripande skydds strategi för att avvärjer säkerhets attacker. vi introducerade de [nödvändiga säkerhets kraven](partner-security-requirements.md) i 2019. Alla partner som deltar i CSP-programmet (Cloud Solution Provider), på kontroll panelens leverantörer och rådgivare bör implementera kraven för att vara kompatibla.
+Större och fort löp ande säkerhets-och integritets skydd är bland våra främsta prioriteringar och vi fortsätter att hjälpa våra partner att skydda sina kunder och klienter. Vi fortsätter att se mer avancerade, ökande antal säkerhets attacker, främst relaterade till incidenter med identitets kompromisser. Som förebyggande kontroller spelar en viktig roll i en övergripande skydds strategi för att avvärjer säkerhets attacker. vi introducerade de [nödvändiga säkerhets kraven](partner-security-requirements.md) i 2019. Alla partner som deltar i CSP-programmet (Cloud Solution Provider), på kontroll panelens leverantörer och rådgivare måste implementera kraven för att vara kompatibla.
 
 ### <a name="what-are-the-key-timelines-and-milestones"></a>Vilka är de viktigaste tids linjerna och mil stolparna?
 
-Villkoren som är associerade med dessa säkerhets krav, inklusive tids linjer och mil stolpar, ingår i [Microsoft partner Agreement](microsoft-partner-agreement.md) i 2019. Du måste implementera dessa säkerhets krav så snart som möjligt för att vara kompatibla med ditt deltagande i CSP-programmet.
+Villkoren som är associerade med dessa säkerhets krav, inklusive tids linjer och mil stolpar, ingår i [Microsoft partner Agreement](microsoft-partner-agreement.md). Du måste implementera dessa säkerhets krav så snart som möjligt för att vara kompatibla med ditt deltagande i CSP-programmet.
 
 ### <a name="what-will-happen-if-i-dont-implement-these-partner-security-requirements"></a>Vad händer om jag inte implementerar de här partner säkerhets kraven?
 
@@ -46,11 +45,11 @@ Partner som inte följer dessa säkerhets metoder kan förlora sin möjlighet at
 
 ### <a name="do-the-security-requirements-apply-to-all-geographies"></a>Gäller säkerhets kraven för alla geografiska områden?
 
-Ja, säkerhets kraven gäller för alla geografiska områden. Vi rekommenderar starkt att alla partner som agerar genom ett suveränt moln (21Vianet, amerikanska myndigheter och Tyskland) agerar och antar dessa nya säkerhets krav direkt. Dessa partners behöver dock inte uppfylla de nya säkerhets kraven från den 1 augusti. Microsoft tillhandahåller ytterligare information om verk ställandet av dessa säkerhets krav för suveräna moln i framtiden.
+Ja, säkerhets kraven gäller för alla geografiska områden. Vi rekommenderar starkt att alla partner som agerar genom ett suveränt moln (amerikanska myndigheter och Tyskland) agerar och antar dessa nya säkerhets krav direkt. Dessa partners krävs dock inte för närvarande för att uppfylla säkerhets kraven. Microsoft tillhandahåller ytterligare information om verk ställandet av dessa säkerhets krav för suveräna moln i framtiden.
 
 ### <a name="is-it-possible-to-get-an-exclusion-for-an-account"></a>Är det möjligt att få ett undantag för ett konto?
 
-Nej, det går inte att undanta ett användar konto från kravet på att använda MFA-tvång. Med tanke på den starkt privilegier som är en partner, kräver Microsoft partner avtalet att Multi-Factor Authentication upprätthålls för varje användar konto i din partner klient.
+Nej, det går inte att undanta något användar konto från kravet på att använda Multi-Factor Authentication (MFA). Med tanke på den starkt privilegier som är en partner, kräver Microsoft partner avtalet att Multi-Factor Authentication upprätthålls för varje användar konto i din partner klient.
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>Hur gör jag för att veta om jag har uppfyllt kraven för partner säkerhet?
 
@@ -308,7 +307,7 @@ Den tekniska tillämpningen av partner säkerhets kraven kontrol leras om det au
 
 Azure Active Directory (Azure AD) ["baseline"-principer tas bort och ersätts](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) med "säkerhets standarder", en mer omfattande uppsättning skydds principer för dig och dina kunder. [Standardvärden för säkerhet](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) kan hjälpa till att skydda din organisation mot säkerhets attacker med identitets stöld.
 
-Multi-Factor Authentication (MFA)-implementeringen tas bort på grund av den ursprungliga bas linjen om du inte har gått över från bas linje principerna till säkerhets standard principen eller [andra MFA-implementerings alternativ](partner-security-requirements.md#actions-that-you-need-to-take). Alla användare i din partner klienter som utför MFA-skyddade åtgärder uppmanas att slutföra MFA-verifieringen. Läs mer detaljerade anvisningar [här](partner-security-requirements-mandating-mfa.md).
+Multi-Factor Authentication (MFA)-implementeringen tas bort på grund av den ursprungliga bas linjen om du inte har gått över från bas linje principerna till säkerhets standard principen eller [andra MFA-implementerings alternativ](partner-security-requirements.md#implementing-multi-factor-authentication). Alla användare i din partner klienter som utför MFA-skyddade åtgärder uppmanas att slutföra MFA-verifieringen. Läs mer detaljerade anvisningar [här](partner-security-requirements-mandating-mfa.md).
 Gör något av följande för att vara kompatibel och minimera störningar:
 
 - Över gång till säkerhets inställningar
