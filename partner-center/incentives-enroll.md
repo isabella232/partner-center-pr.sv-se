@@ -1,0 +1,62 @@
+---
+title: Incitaments registrering
+ms.topic: how-to
+ms.date: 09/25/2020
+description: Registrera dig för stimulans programmet och tilldela nödvändiga roller för användar hantering. I den här artikeln beskrivs registrerings processen.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-incentives
+author: mseamons
+ms.author: mseamons
+ms.localizationpriority: medium
+ms.openlocfilehash: 067ad9370da6a6deeaeac7b24e606fe0bcd555a9
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.translationtype: MT
+ms.contentlocale: sv-SE
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92532037"
+---
+# <a name="enrollment-and-user-management-in-the-incentives-program"></a>Registrering och användar hantering i stimulans programmet
+
+**Gäller för:**
+
+- Partnercenter
+
+**Lämpliga roller:**
+
+- Incitaments administratör
+
+>[!NOTE]
+>Innan du kan registrera dig i stimulans programmet måste du ha slutfört partner medlemskaps centret till Partner Center- [migreringen](prepare-pmc-pc-migration.md).
+
+Registrerings processen består av två steg.
+
+**Steg 1. Användar hantering:** det här steget innebär att du skapar stimulans administratören i Partner Center.
+
+**Steg 2. Registrering:** Microsoft skickar en inbjudan till att registrera dig i stimulans programmet.
+
+## <a name="user-management"></a>Användarhantering
+
+För att registrera dig i ett incitaments program för partner Center måste den globala administratören eller konto administratören konfigurera företagets användare som stimulans administratörer. Information om partner konton, roller och behörigheter finns i [Hantera ditt partner Center-konto](partner-center-account-setup.md). Den globala administratören kan också ställa in företagets användare via Azure Active Directory (Azure AD).
+
+När din organisation är berättigad till stimulans kommer Microsoft att skicka inbjudningar till konto administratören och stimulans administratören.
+
+>[!NOTE]
+>Endast incitaments administratören kan registrera sig i incitaments program. Om det inte finns någon incitaments administratör för din plats måste den globala administratören och konto administratören tilldela en. Incitaments administratören måste tilldelas platsen MPN-ID: n. Den globala administratören eller konto administratören kan också tilldelas som stimulans administratör.
+
+## <a name="enrollment-process"></a>Registrerings process
+
+När din organisation är berättigad till stimulans, kommer Microsoft att skicka en inbjudan till stimulans administratören för de berättigade MPNLocationID att påbörja registreringen. Det här e-postmeddelandet kommer att skickas från **Microsoft Partner Center** och kommer att ha en inbjudan till ämnes **partner stimulans registrering** . Öppna inbjudan och välj **Kom igång** .
+
+Du ser också en inbjudan på Start sidan för partner Center. När du har valt det meddelandet kan du inte se det igen. Men incitaments administratören kan fortfarande starta processen genom att logga in på [instrument panelen för partner Center](https://partner.microsoft.com/dashboard/) och välja **användar hantering** .
+
+Vissa incitaments program har inga berättigande villkor och är öppna för alla partner. Stimulans administratören ser inbjudningar för dessa program på sidan incitaments översikt, förutsatt att de har behörighet för det relevanta stimulans programmet och MPN. Microsoft skickar inte e-postinbjudningar för dessa program.
+
+Om du vill ha mer information om registrerings processen laddar du ned den [incitaments registrerings guiden](https://partner.microsoft.com/resources/detail/partner-center-incentives-enrollment-pdf) (inloggning krävs).
+
+## <a name="expiration-and-renewal"></a>Förfallo datum och förnyelse
+
+Incitaments registrering upphör att gälla i slutet av räkenskapsåret. Så länge som du är berättigad till en kvalificerad partner med ett aktivt avtal, kommer Microsoft att vidarebefordra dina incitament till nästa räkenskapsår. Du behöver inte vidta någon åtgärd.
+
+## <a name="next-steps"></a>Nästa steg
+
+- [Fastställa behörighet för program](incentives-determined-your-program-eligibility.md)
