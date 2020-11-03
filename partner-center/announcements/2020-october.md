@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/27/2020
-ms.openlocfilehash: d41ec7b7ce3c8f7140b0944b4d39150ef34a9d83
-ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
+ms.date: 10/30/2020
+ms.openlocfilehash: ae27f193839d5456457afc923fd7834a8ff106f9
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "93027915"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132835"
 ---
 # <a name="october-2020-announcements"></a>Meddelanden oktober 2020
 
@@ -23,6 +23,28 @@ Den här sidan innehåller information om Microsoft Partner Center-meddelanden f
 2020-meddelanden: [mars](2020-march.md)  |  [april](2020-april.md)den  |  [May](2020-may.md)  |  [juni](2020-june.md)  |  [juli](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md) | Oktober
 
 ______________
+
+## <a name="windows-server-software-subscriptions-feature-updates"></a><a name="17"></a>Uppdatering av funktions uppdateringar för Windows Server-programprenumerationer
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2020-10-29
+- Funktioner
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Leverantörer av moln lösningar (CSP) som tidigare köpte Windows Server standard program varu prenumerationer
+
+### <a name="details"></a>Information
+
+Microsoft tillkännager lanseringen av en ny funktions uppdatering för Windows Server-programprenumerationer till CSP den 30 oktober 2020. Uppdateringen innehåller Windows Server-program prenumerations produkter: Windows Server standard, **version 20H2** (CSP produkt-ID: DG7GMGF0DVT9). Den uppdaterade nedladdnings filen är nu tillgänglig för den här produkten. Partner kan välja att ladda ned den senaste filen och hämta de nya funktionerna.
+
+### <a name="next-steps"></a>Nästa steg
+
+- Dela den här informationen med lämpliga kontakter i din organisation.
+- Granska [Windows Server version 20H2-dokumentationen](/windows/release-information/status-windows-10-20h2)
+
+________________
 
 ## <a name="windows-10-education-upgrade-is-now-available-to-qualified-cloud-solution-provider-csp-education-customers"></a><a name="16"></a>Windows 10 Education Upgrade är nu tillgängligt för utbildnings kunder med kvalificerad Cloud Solution Provider (CSP)
 
