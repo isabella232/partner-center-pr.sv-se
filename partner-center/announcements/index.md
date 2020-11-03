@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 06/24/2020
-ms.openlocfilehash: 94403cddbfa2f316b7ade84af1d9a1d233544fb4
-ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
+ms.date: 10/27/2020
+ms.openlocfilehash: 4df4e473ea31ad5a9f0da52ab45f65000db344d9
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92749701"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917220"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -22,7 +22,9 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 
 | **Kategori** | **Meddelanden oktober 2020** | **Meddelande** |
 |---------|:---------|:---------|
+|Funktioner|[Uppdaterad digital CSP-upplevelse (Cloud Solution Provider) är nu tillgänglig](2020-october.md#15)|28 oktober|
 |Funktioner|[Introducerar en prestandastandard för direkta faktureringspartnerkrav i molnlösningsleverantörsprogrammet](2020-october.md#13)|27 oktober|
+|Erbjudanden/marknader|[Uppdateringar av prislistan för programvaruprenumerationer i Cloud Solution Provider (CSP) oktober 2020 ](2020-october.md#14)|26 oktober|
 |Erbjudanden/marknader|[Uppdateringar för Microsoft 365 Business Voice-erbjudandet](2020-october.md#12)|16 oktober|
 |Funktioner|[Uppdatering november 2020: Guiden för onlinetjänster och programkanalsauktorisering](2020-october.md#11)|14 oktober|
 |Erbjudanden/marknader|[Introduktion av Microsoft 365 Business Voice för ideella organisationer](2020-october.md#10)|12 oktober|

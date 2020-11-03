@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/14/2020
-ms.openlocfilehash: 453d6e130a6c563e7aac23cef1c7a91f8125fd9c
-ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
+ms.openlocfilehash: 4e78743c8dd03dd4540077aaa9f9d17799d1af80
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92749741"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795821"
 ---
 # <a name="october-2020-announcements"></a>Meddelanden från oktober 2020
 
@@ -45,7 +45,7 @@ Att utöka och optimera Microsoft Cloud Solution Provider-programmet är en vikt
 
 Idag delar vi några kommande ändringar i kraven för direkta fakturerings partner i Cloud Solution Provider-programmet.
 
-Först **presenterar vi en prestanda standard som en del av kraven för direkt fakturerings partner** . Partner som vill registrera sig som direkt fakturerings partner i Cloud Solution Provider-programmet måste uppfylla minst USD300K i moln lösnings leverantörens program intäkt under de 12 månaderna innan det krävs förnyelse datumet för [Support kontraktet](https://partner.microsoft.com/support/partnersupport) .
+Först **presenterar vi en prestanda standard som en del av kraven för direkt fakturerings partner**. Partner som vill registrera sig som direkt fakturerings partner i Cloud Solution Provider-programmet måste uppfylla minst USD300K i moln lösnings leverantörens program intäkt under de 12 månaderna innan det krävs förnyelse datumet för [Support kontraktet](https://partner.microsoft.com/support/partnersupport) .
 
 Den här prestanda standarden börjar gälla i januari 2021 för aktuella direkt fakturerings partner och du måste uppfylla kraven från ditt support avtal för din Support plan.
 
@@ -57,13 +57,13 @@ För det andra har vi uppdaterat kraven för direkt fakturerings partner med nya
 
 ### <a name="direct-bill-partner-requirements"></a>Krav för direkt fakturerings partner
 
-Granska de uppdaterade kraven och rekommendationerna för [direkt fakturerings partner](https://docs.microsoft.com/partner-center/direct-partner-new-requirements#minimum-requirements) för att utvärdera hur du kan bygga och expandera en mer lönsam verksamhet med rätt modell i Cloud Solution Provider-programmet:
+Granska de uppdaterade kraven och rekommendationerna för [direkt fakturerings partner](../direct-partner-new-requirements.md#minimum-requirements) för att utvärdera hur du kan bygga och expandera en mer lönsam verksamhet med rätt modell i Cloud Solution Provider-programmet:
 
 1. **nya krav för intäkts prestanda**
 
 **Befintliga partner** som för närvarande är registrerade i Cloud Solution Provider-programmet som direkt fakturerings partner måste uppfylla den nya prestanda standarden från januari 2021. Du kommer att ha tid till nästa support avtal för partnern för att uppfylla kraven. Du kan granska din efterföljande tolv månaders intäkt på Partner Center genom att följa [den här hand boken](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf).
 
-Nya partner som registreras i Cloud Solution Provider-programmet börjar som indirekta åter försäljare gällande **oktober 2020** . De måste ha minst USD300K i CSP-intäkterna under de föregående 12 månaderna. Du kan granska din efterföljande 12-månaders intäkt på Partner Center genom att följa [den här hand boken](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf). 
+Nya partner som registreras i Cloud Solution Provider-programmet börjar som indirekta åter försäljare gällande **oktober 2020**. De måste ha minst USD300K i CSP-intäkterna under de föregående 12 månaderna. Du kan granska din efterföljande 12-månaders intäkt på Partner Center genom att följa [den här hand boken](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf). 
 
 2. **krav på support avtal** 
 
@@ -80,11 +80,11 @@ Jämför [support kontrakts alternativen](https://partner.microsoft.com/support/
 
 Vi har några ytterligare rekommendationer för att se till att du är redo och har kunskap om den infrastruktur som krävs för att stödja direkt fakturerings programmet. Demonstrera att du anger minst en hanterad tjänst, IP-tjänst eller kund lösnings program. Partners bör lägga till ett värde ovanpå Microsoft Cloud tjänster och inte bara göra en rak åter försäljning av våra tjänster. Det är en viktig del av en partners go-to-marknad-strategi. [Läs mer](https://partner.microsoft.com/solutions/managed-services) om att lägga till hanterade tjänster. Vi rekommenderar att du uppfyller de minsta infrastruktur funktionerna, till exempel fakturering och etablering. 
 
-Direkt fakturerings partner i CSP-programmet som inte uppfyller de nya kraven måste registreras igen som indirekta åter försäljare i programmet inom Microsoft Partner Network. [Läs mer](https://docs.microsoft.com/partner-center/transition-direct-to-indirect) om hur du kan göra över gången från en direkt fakturerings partner till en indirekt åter försäljare.  
+Direkt fakturerings partner i CSP-programmet som inte uppfyller de nya kraven måste registreras igen som indirekta åter försäljare i programmet inom Microsoft Partner Network. [Läs mer](../transition-direct-to-indirect.md) om hur du kan göra över gången från en direkt fakturerings partner till en indirekt åter försäljare.  
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Granska de [uppdaterade kraven för direkt fakturerings partner](https://docs.microsoft.com/partner-center/direct-partner-new-requirements#minimum-requirements).
+- Granska de [uppdaterade kraven för direkt fakturerings partner](../direct-partner-new-requirements.md#minimum-requirements).
 - Läs vanliga frågor och svar och annan information i [Åtgärds resurs galleriet på webbplatsen för Microsoft-partner](https://partner.microsoft.com/resources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/).
 - Hitta [en indirekt Provider att arbeta med](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider) om alternativet för indirekt åter försäljare passar bättre med dina affärs behov.
 ________________________________
@@ -232,7 +232,7 @@ Dessa kampanjer påverkar följande kunder:
 #### <a name="additional-resources"></a>Ytterligare resurser
 
 - Besök [sidan Microsoft 365 Business Voice partner](https://www.microsoft.com/microsoft-365/partners/businessvoice) för att lära dig mer om Business Voice. 
-- Se ljud konferenser i Microsoft 365 för att lära dig fler [ljud konferens funktioner](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365).
+- Se ljud konferenser i Microsoft 365 för att lära dig fler [ljud konferens funktioner](/microsoftteams/audio-conferencing-in-office-365).
 - Läs mer om dessa kampanjer i de relaterade [vanliga frågorna om partner](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo).
 
 ### <a name="next-steps"></a>Nästa steg
@@ -273,7 +273,7 @@ Här är what's nya i Azure Portal:
 
 - Flexibel navigering som gör att du kan visa, redigera och spara information i ett avsnitt utan att behöva fylla i föregående avsnitt.
 - Ny hel sid visning utan flera kapslade nivåer.
-- Nya funktioner för att tagga och organisera Azure-resurser. Mer information om taggar finns i [använda taggar för att ordna dina Azure-resurser](https://docs.microsoft.com/azure/azure-resource-manager/management/tag-resources).
+- Nya funktioner för att tagga och organisera Azure-resurser. Mer information om taggar finns i [använda taggar för att ordna dina Azure-resurser](/azure/azure-resource-manager/management/tag-resources).
 
 Kontakta vårt [Support Team](https://aka.ms/marketplacepublishersupport)om du har frågor om de här ändringarna.
 
@@ -490,7 +490,7 @@ Den 1 november 2020 kommer Microsoft att lansera följande nya och uppdaterade D
 
 - Granska fliken projekt åtgärder i [Dynamics CSP Offers-November 2020](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls) Excel-dokumentet för erbjudande-ID-information.
 - Mer information finns på [Start sidan för Microsoft Dynamics 365 Customer Voice](https://dynamics.microsoft.com/customer-voice/overview/).
-- Visa det [nya erbjudandet för september Dynamics New](https://docs.microsoft.com/partner-center/announcements/2020-september#3).
+- Visa det [nya erbjudandet för september Dynamics New](2020-september.md#3).
 
 ________________
 
