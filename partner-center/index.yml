@@ -1,0 +1,113 @@
+### YamlMime:Landing
+title: Dokumentation för Partnercenter
+summary: Partnercenter är platsen där du utvecklar din verksamhet med Microsoft Partner Network (MPN), Molnlösningsleverantör-programmet (CSP) med mera.
+metadata:
+  title: Dokumentation för Partnercenter
+  description: Partnercenter är platsen där du utvecklar din verksamhet med Microsoft Partner Network (MPN), Molnlösningsleverantör-programmet (CSP) med mera.
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-csp
+  ms.topic: landing-page
+  author: LauraBrenner
+  ms.author: labrenne
+  ms.date: 10/16/2020
+  ms.openlocfilehash: a10616a60e74de88c2f4fda37062275e47fb59bc
+  ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "92526829"
+landingContent:
+- title: Kom igång med Partnercenter
+  linkLists:
+  - linkListType: get-started
+    links:
+    - text: Partnercenter-meddelanden
+      url: announcements/index.md
+    - text: Partnersamarbete med Microsoft
+      url: mpn-overview.md
+    - text: Skapa ett Partnercenter-konto
+      url: mpn-create-a-partner-center-account.md
+    - text: Hantera förmåner och erbjudanden för MPN-medlemskap
+      url: manage-your-partner-network-benefits.md
+    - text: Lär dig mer om kompetenser
+      url: learn-about-competencies.md
+- title: Utveckla verksamheten
+  linkLists:
+  - linkListType: concept
+    links:
+    - text: Få kontakt med dina kunder
+      url: connect-with-your-customers.md
+    - text: Molnlösningsleverantör-programmet (CSP)
+      url: csp-overview.md
+    - text: Få kundreferenser
+      url: manage-leads.md
+    - text: Incitamentprogram
+      url: incentives-get-started-intro.md
+    - text: Hantera säljsamarbete
+      url: manage-co-sell-opportunities.md
+    - text: Skaffa en avancerad specialisering
+      url: advanced-specializations.md
+- title: Viktiga begrepp och uppgifter
+  linkLists:
+  - linkListType: concept
+    links:
+    - text: Säkerhetskrav för Partnercenter
+      url: partner-security-requirements.md
+    - text: Skapa en affärsprofil
+      url: create-a-marketing-profile.md
+    - text: Introduktion till Azure-planen
+      url: azure-plan-lp.md
+    - text: Få support från Microsoft
+      url: support-from-microsoft.md
+  - linkListType: how-to-guide
+    links:
+    - text: Hantera dina MPN-kontoplatser
+      url: manage-locations.md
+    - text: Förnya dina MPN-erbjudanden
+      url: renew-mpn-offers.md
+    - text: Hitta dina MPN-förmåner
+      url: mpn-find-benefits.md
+    - text: Hitta din roll
+      url: find-your-role.md
+- title: Konton och fakturering
+  linkLists:
+  - linkListType: how-to-guide
+    links:
+    - text: Hantera ditt Partnercenter-konto
+      url: partner-center-account-setup.md
+    - text: Tilldela roller och behörigheter till användare
+      url: permissions-overview.md
+    - text: Hantera användare och användarlicenser
+      url: assign-licenses-to-users.md
+    - text: Grundläggande information om fakturering
+      url: billing-basics.md
+    - text: Konfigurera utbetalningskonto och deklarationsblanketter
+      url: set-up-your-payout-account.md
+    - text: Förstå fakturan
+      url: read-your-bill.md
+- title: Resurser för utvecklare
+  linkLists:
+  - linkListType: reference
+    links:
+    - text: Gå med i Partnercenter-programmet för tidiga API- och SDK-användare
+      url: /partner-center/develop/early-adopter-program
+    - text: Dokumentation för Partnercenter-utvecklare
+      url: /partner-center/develop
+    - text: Partnercenter – REST API-referens
+      url: /partner-center/develop/partner-center-rest-api-reference
+    - text: Partnercenter – .NET API-referens
+      url: /dotnet/api/?view=partnercenter-dotnet-latest&preserve-view=true
+    - text: Partnercenter – SDK för Java
+      url: /java/partnercenter/overview
+    - text: Partnercenter – PowerShell
+      url: /powershell/partnercenter/overview
+- title: Läs mer om den kommersiella marknadsplatsen (oberoende programvaruleverantörer)
+  linkLists:
+  - linkListType: concept
+    links:
+    - text: Dokumentation om den kommersiella marknadsplatsen
+      url: /azure/marketplace
+    - text: Vad är Microsofts kommersiella marknadsplats?
+      url: /azure/marketplace/overview
+    - text: Fastställ dina publiceringsalternativ
+      url: /azure/marketplace/determine-your-listing-type

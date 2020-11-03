@@ -1,0 +1,71 @@
+---
+title: FOS – Partner Center Analytics för Power BI
+ms.topic: article
+ms.date: 05/19/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Utforska den här översikten och vanliga frågor om Partner Center Analytics-appen för Power BI.
+fwlink: https://go.microsoft.com/fwlink/?linkid=852582
+author: v-sumukh
+ms.author: v-sumukh
+ms.localizationpriority: medium
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 2e58c8ed68e40e9ffb4f2ed5555dc780e21570a7
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.translationtype: MT
+ms.contentlocale: sv-SE
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "92531601"
+---
+# <a name="overview-and-faqs-for-the-partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a><span data-ttu-id="a5a0f-103">Översikt och vanliga frågor och svar för partner Center Analytics-appen för Power BI (direkta partner i CSP)</span><span class="sxs-lookup"><span data-stu-id="a5a0f-103">Overview and FAQs for the Partner Center Analytics app for Power BI (direct partners in CSP)</span></span>
+
+<span data-ttu-id="a5a0f-104">**Gäller för**</span><span class="sxs-lookup"><span data-stu-id="a5a0f-104">**Applies to**</span></span>
+
+- <span data-ttu-id="a5a0f-105">Partnercenter</span><span class="sxs-lookup"><span data-stu-id="a5a0f-105">Partner Center</span></span>
+
+<span data-ttu-id="a5a0f-106">**Lämpliga roller**</span><span class="sxs-lookup"><span data-stu-id="a5a0f-106">**Appropriate roles**</span></span>
+
+- <span data-ttu-id="a5a0f-107">Global administratör</span><span class="sxs-lookup"><span data-stu-id="a5a0f-107">Global admin</span></span>
+- <span data-ttu-id="a5a0f-108">Användaradministratör</span><span class="sxs-lookup"><span data-stu-id="a5a0f-108">User admin</span></span>
+- <span data-ttu-id="a5a0f-109">Försäljnings agent</span><span class="sxs-lookup"><span data-stu-id="a5a0f-109">Sales agent</span></span>
+- <span data-ttu-id="a5a0f-110">Administratörs agent</span><span class="sxs-lookup"><span data-stu-id="a5a0f-110">Admin agent</span></span>
+
+<span data-ttu-id="a5a0f-111">Få en visuell representation av dina affärs data med partner Center Analytics-appen för Power BI.</span><span class="sxs-lookup"><span data-stu-id="a5a0f-111">Get a visual representation of your business data with the Partner Center Analytics app for Power BI.</span></span> <span data-ttu-id="a5a0f-112">Appen, som är avsedd för direkta partner i Cloud Solution Provider-programmet (CSP), ansluts till det bekanta Power BI ramverket.</span><span class="sxs-lookup"><span data-stu-id="a5a0f-112">The app, designed for direct partners in the Cloud Solution Provider program (CSP), plugs in to the familiar Power BI framework.</span></span>
+
+> [!NOTE]  
+> <span data-ttu-id="a5a0f-113">Du är en direkt partner om du gör affärer direkt med Microsoft och kunder.</span><span class="sxs-lookup"><span data-stu-id="a5a0f-113">You're a direct partner if you do business directly with Microsoft and with customers.</span></span>
+
+<span data-ttu-id="a5a0f-114">Installera appen för att hämta grafiska vyer över:</span><span class="sxs-lookup"><span data-stu-id="a5a0f-114">Install the app to get graphic views of:</span></span>
+
+- <span data-ttu-id="a5a0f-115">Tillväxt av kund basen, prenumerationer och licenser</span><span class="sxs-lookup"><span data-stu-id="a5a0f-115">Growth of your customer base, subscriptions, and licenses</span></span>
+
+- <span data-ttu-id="a5a0f-116">Användning av Office 365, Microsoft Dynamics och Microsoft Azure produkter</span><span class="sxs-lookup"><span data-stu-id="a5a0f-116">Usage of Office 365, Microsoft Dynamics, and Microsoft Azure products</span></span>
+
+- <span data-ttu-id="a5a0f-117">Dagliga förbruknings enheter för varje avgiftsbelagd resurs i varje Azure-prenumeration under de senaste 60 dagarna</span><span class="sxs-lookup"><span data-stu-id="a5a0f-117">Daily consumption units for each metered resource in each Azure subscription for the last 60 days</span></span>
+
+- <span data-ttu-id="a5a0f-118">Uppskattad kostnad baserat på det senaste avgifts kortet</span><span class="sxs-lookup"><span data-stu-id="a5a0f-118">Estimated cost based on latest rate card</span></span>
+
+- <span data-ttu-id="a5a0f-119">Möjlighet att exportera data uppsättningar och skapa anpassade rapporter, inklusive per kund</span><span class="sxs-lookup"><span data-stu-id="a5a0f-119">Ability to export data sets and create custom reports, including per customer</span></span>
+
+## <a name="frequently-asked-questions"></a><span data-ttu-id="a5a0f-120">Vanliga frågor och svar</span><span class="sxs-lookup"><span data-stu-id="a5a0f-120">Frequently asked questions</span></span>
+
+<span data-ttu-id="a5a0f-121">Vi rekommenderar att du läser våra svar på vanliga frågor innan du installerar appen.</span><span class="sxs-lookup"><span data-stu-id="a5a0f-121">We recommend that you review our answers to frequently asked questions before you install the app.</span></span>
+
+| <span data-ttu-id="a5a0f-122">**Fråga**</span><span class="sxs-lookup"><span data-stu-id="a5a0f-122">**Question**</span></span> | <span data-ttu-id="a5a0f-123">**Svar**</span><span class="sxs-lookup"><span data-stu-id="a5a0f-123">**Answer**</span></span> |
+| --- | ---------- |
+| <span data-ttu-id="a5a0f-124">Vad kostar appen?</span><span class="sxs-lookup"><span data-stu-id="a5a0f-124">What does the app cost?</span></span> | <span data-ttu-id="a5a0f-125">Själva appen är kostnads fri.</span><span class="sxs-lookup"><span data-stu-id="a5a0f-125">The app itself is free.</span></span> <span data-ttu-id="a5a0f-126">Om du vill förhandsgranska appen kan du [Registrera dig för den kostnads fria Power BI-tjänst](https://go.microsoft.com/fwlink/p/?linkid=845347) och använda den för att anpassa instrument paneler och rapporter.</span><span class="sxs-lookup"><span data-stu-id="a5a0f-126">To preview the app, you can [sign up for the free Power BI service](https://go.microsoft.com/fwlink/p/?linkid=845347) and use it to customize dashboards and reports.</span></span> <span data-ttu-id="a5a0f-127">Om du vill låta andra i företaget använda appen måste du ha en aktiv prenumeration på antingen Microsoft Power BI Professional eller Microsoft Power BI Premium.</span><span class="sxs-lookup"><span data-stu-id="a5a0f-127">To allow others in your company to use the app, you need to have an active subscription to either Microsoft Power BI Professional or Microsoft Power BI Premium.</span></span> |
+| <span data-ttu-id="a5a0f-128">Vem kan ansluta till Partner Center Analytics-appen?</span><span class="sxs-lookup"><span data-stu-id="a5a0f-128">Who can connect to the Partner Center Analytics app?</span></span> | <span data-ttu-id="a5a0f-129">Den här versionen av appen är avsedd för direkta partners (nivå 1) i Cloud Solution Provider-programmet.</span><span class="sxs-lookup"><span data-stu-id="a5a0f-129">This version of the app is designed for direct partners (tier 1) in the Cloud Solution Provider program.</span></span> <span data-ttu-id="a5a0f-130">Du är en direkt partner om du gör affärer direkt med Microsoft och kunder.</span><span class="sxs-lookup"><span data-stu-id="a5a0f-130">You're a direct partner if you do business directly with Microsoft and with customers.</span></span> <span data-ttu-id="a5a0f-131">Om du vill installera appen måste du vara global administratör, administratörs agent eller fakturerings administratör för ditt företags konto.</span><span class="sxs-lookup"><span data-stu-id="a5a0f-131">To install the app, you must be a global admin, admin agent, or billing admin for your company's account.</span></span> |
+| <span data-ttu-id="a5a0f-132">Jag är en indirekt leverantör. kan jag använda appen?</span><span class="sxs-lookup"><span data-stu-id="a5a0f-132">I am an indirect provider; can I use the app?</span></span> | <span data-ttu-id="a5a0f-133">Ja.</span><span class="sxs-lookup"><span data-stu-id="a5a0f-133">Yes.</span></span> <span data-ttu-id="a5a0f-134">Din globala administratör, din administratörs agent eller fakturerings administratör kan installera appen och se data om dina direkta kunder.</span><span class="sxs-lookup"><span data-stu-id="a5a0f-134">Your global admin, admin agent, or billing admin can install the app and see data about your direct customers.</span></span> <span data-ttu-id="a5a0f-135">Framtida versioner kan innehålla funktioner som gör att du även kan se data om dina indirekta åter försäljare.</span><span class="sxs-lookup"><span data-stu-id="a5a0f-135">Future releases may include features that would allow you to see data about your indirect resellers as well.</span></span> |
+| <span data-ttu-id="a5a0f-136">Hur kan jag lära mig om framtida versioner?</span><span class="sxs-lookup"><span data-stu-id="a5a0f-136">How can I learn about future releases?</span></span> | <span data-ttu-id="a5a0f-137">Meddelanden och för hands versioner görs tillgängliga via partner Center tidigt i programmet.</span><span class="sxs-lookup"><span data-stu-id="a5a0f-137">Announcements and preview releases are made available through the Partner Center early adopter program.</span></span> <span data-ttu-id="a5a0f-138">Du kan också dela din feedback via programmet för tidig tillämpning.</span><span class="sxs-lookup"><span data-stu-id="a5a0f-138">You can also share your feedback through the early adopter program.</span></span> <span data-ttu-id="a5a0f-139">Om du inte redan deltar i programmet, lär du dig hur du ansluter.</span><span class="sxs-lookup"><span data-stu-id="a5a0f-139">If you're not already participating in the program, learn how to join.</span></span> <span data-ttu-id="a5a0f-140">Se [delta i API för partner Center och SDK tidigt i programmet](/partner-center/develop/early-adopter-program).</span><span class="sxs-lookup"><span data-stu-id="a5a0f-140">See [Join the Partner Center API and SDK Early Adopter Program](/partner-center/develop/early-adopter-program).</span></span>  |
+| <span data-ttu-id="a5a0f-141">Vem kan anpassa instrument paneler och rapporter i appen?</span><span class="sxs-lookup"><span data-stu-id="a5a0f-141">Who can customize the dashboards and reports in the app?</span></span> | <span data-ttu-id="a5a0f-142">Endast den globala administratörs-, administratörs-eller fakturerings administratör som installerade appen kan anpassa instrument panelen eller skapa nya rapporter i Power BI-webbgränssnittet.</span><span class="sxs-lookup"><span data-stu-id="a5a0f-142">Only the global admin, admin agent, or billing admin who installed the app can customize the dashboard or create new reports in the Power BI web interface.</span></span> |
+| <span data-ttu-id="a5a0f-143">Vem kan visa instrument paneler och rapporter i appen?</span><span class="sxs-lookup"><span data-stu-id="a5a0f-143">Who can view the dashboards and reports in the app?</span></span> | <span data-ttu-id="a5a0f-144">Den globala administratörs-, administratörs-eller fakturerings administratör som installerade appen kan dela appens data med alla som har en aktiv prenumeration på antingen Microsoft Power BI Professional eller Microsoft Power BI Premium.</span><span class="sxs-lookup"><span data-stu-id="a5a0f-144">The global admin, admin agent, or billing admin who installed the app can share the app's data with anyone who has an active subscription to either Microsoft Power BI Professional or Microsoft Power BI Premium.</span></span> |
+| <span data-ttu-id="a5a0f-145">Kan jag använda appen för att visa data från flera Azure AD-klienter på olika platser?</span><span class="sxs-lookup"><span data-stu-id="a5a0f-145">Can I use the app to view data from multiple Azure AD tenants, across locations?</span></span> | <span data-ttu-id="a5a0f-146">I den här versionen kan du bara visa data från den Azure AD-klient som din globala administratör eller administratörs agent loggat in på.</span><span class="sxs-lookup"><span data-stu-id="a5a0f-146">With this release, you can view only data from the Azure AD tenant your global admin or admin agent signed in to.</span></span> | 
+| <span data-ttu-id="a5a0f-147">När kommer appen att vara tillgänglig på fler språk?</span><span class="sxs-lookup"><span data-stu-id="a5a0f-147">When will the app be available in additional languages?</span></span> | <span data-ttu-id="a5a0f-148">Översikts meddelanden släpps via partner Center tidigt i programmet.</span><span class="sxs-lookup"><span data-stu-id="a5a0f-148">Roadmap announcements are released through the Partner Center early adopter program.</span></span> <span data-ttu-id="a5a0f-149">Om du inte redan deltar i programmet kan du registrera dig för det nu [https://partnercenter.microsoft.com/partner/early-adopter-program](https://partnercenter.microsoft.com/partner/early-adopter-program) .</span><span class="sxs-lookup"><span data-stu-id="a5a0f-149">If you're not already participating in the program, sign up for it now at [https://partnercenter.microsoft.com/partner/early-adopter-program](https://partnercenter.microsoft.com/partner/early-adopter-program).</span></span> <span data-ttu-id="a5a0f-150">Du kan också dela din feedback via programmet för tidig tillämpning.</span><span class="sxs-lookup"><span data-stu-id="a5a0f-150">You can also share your feedback through the early adopter program.</span></span> | 
+
+
+
+## <a name="next-steps"></a><span data-ttu-id="a5a0f-151">Nästa steg</span><span class="sxs-lookup"><span data-stu-id="a5a0f-151">Next steps</span></span>
+
+[<span data-ttu-id="a5a0f-152">Installera och förhandsgranska partnercenteranalysappen för Microsoft Power BI</span><span class="sxs-lookup"><span data-stu-id="a5a0f-152">Install and preview the Partner Center Analytics app for Microsoft Power BI</span></span>](power-bi-app-for-direct-partners-install.md)
+
+[<span data-ttu-id="a5a0f-153">Visa dina affärs data med partner Center Analytics-appen för Microsoft Power BI</span><span class="sxs-lookup"><span data-stu-id="a5a0f-153">View your business data with the Partner Center Analytics app for Microsoft Power BI</span></span>](power-bi-app-for-direct-partners-use.md)
