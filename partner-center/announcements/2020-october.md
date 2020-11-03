@@ -1,5 +1,5 @@
 ---
-title: Meddelanden från oktober 2020
+title: Meddelanden oktober 2020
 description: Meddelanden från oktober 2020 för Microsoft Partner Center, till exempel nya funktioner, kampanjer, erbjudanden, marknader eller ändringar av befintliga erbjudanden.
 ms.topic: article
 ms.service: partner-dashboard
@@ -8,21 +8,58 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/14/2020
-ms.openlocfilehash: 4e78743c8dd03dd4540077aaa9f9d17799d1af80
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.date: 10/27/2020
+ms.openlocfilehash: 4877c3c21449c8b5cc4224973d159d70635d9262
+ms.sourcegitcommit: 4bff85c6a13a990d5eb6c4a4ef44e1013d06948e
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795821"
+ms.locfileid: "92903035"
 ---
-# <a name="october-2020-announcements"></a>Meddelanden från oktober 2020
+# <a name="october-2020-announcements"></a>Meddelanden oktober 2020
 
 Den här sidan innehåller information om Microsoft Partner Center-meddelanden för oktober 2020.
 
 2020-meddelanden: [mars](2020-march.md)  |  [april](2020-april.md)den  |  [May](2020-may.md)  |  [juni](2020-june.md)  |  [juli](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md) | Oktober
 
-________________________________
+______________
+
+## <a name="october-2020-cloud-solution-provider-csp-software-subscriptions-price-list-updates"></a><a name="14"></a>Uppdateringar av pris listan i oktober 2020 Cloud Solution Provider (CSP) för program varu prenumerationer
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2020-10-26
+- Erbjudanden/marknader
+ 
+### <a name="summary"></a>Sammanfattning
+
+Pris listan för program varu prenumerationer för oktober 2020 har uppdaterats.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Alla partner som går via program varan för Cloud Solution Provider (CSP)
+
+### <a name="details"></a>Information
+
+Pris listan för program varu prenumerationerna från oktober 2020 har uppdaterats med två tidigare utelämnade produkter.
+
+[Windows 7 år 2 ESU](#3) var tillgängligt i oktober 2020. Priset år 2 är nu tillgängligt i pris listan för program varu prenumerationer.
+- Produkt-ID: DG7GMGF0FL73
+- SKU-ID: 0003
+
+[Azure SQL Edge](2020-september.md#9) släpptes i slutet av den 2020 september. Den är nu tillgänglig i pris listan för aktuell Partner Center. 
+- Produkt-ID: DG7GMGF0GJC2
+
+Alla pris listor för CSP Partner Center är tillgängliga genom att logga in på Partner Center och navigera till försäljning/erbjudanden och priser.
+
+### <a name="additional-resources"></a>Ytterligare resurser
+
+- [Sidan Vanliga frågor om support för Windows 7](/troubleshoot/windows-client/windows-7-eos-faq/windows-7-end-support-faq)
+- [Support och Microsoft 365-appar för Windows 7](/deployoffice/endofsupport/windows-7-support)
+- [Resurs Galleri för Windows 7 ESU](https://partner.microsoft.com/resources/collection/windows-esu-csp#/)
+- [Azure SQL Edge-webbplats](https://aka.ms/sqledge)
+
+________________
 
 ## <a name="introducing-a-performance-standard-for-direct-bill-partner-requirements-in-the-cloud-solution-provider-csp-program"></a><a name="13"></a>Vi presenterar en prestanda standard för direkta fakturerings partner krav i CSP-programmet (Cloud Solution Provider)
 
@@ -390,7 +427,7 @@ Microsofts samtals planer har tidigare gjorts tillgängliga på följande markna
    |Microsoft 365 inhemsk samtals plan (120 min) för studenter|353d7f89-2e6f-4deb-9145-80f281a782ab|AAD-11641|
    |Microsoft 365 inhemsk samtals plan (120 min) för lärare|80fc6c74-cc94-478d-97b0-8455593a5987|AAD-11640|
 
-### <a name="next-steps"></a>Efterföljande moment
+### <a name="next-steps"></a>Nästa steg
 
 - Om du är på en marknad där de samtals planer görs tillgängliga den 1 oktober 2020, kan du dela detta med dina intressenter 
 - Kontakta dina kunder i dessa geografiska områden för att diskutera Microsofts samtals planer. 
