@@ -295,9 +295,6 @@
         - name: Skapa bevis på utförande
           href: incentives-prepare-your-proof-of-execution.md
           displayName: incentives
-        - name: Skicka en momsfaktura som bevis på utförande
-          href: incentives-tax-invoice-poe.md
-          displayName: 'incentives, invoice'
     - name: Incitamentsäljsamarbetsanspråk
       items:
         - name: Incitamentsäljsamarbetsanspråk

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/27/2020
-ms.openlocfilehash: f90c9ae32e68d6e772c51cede28237f500a0a7b9
-ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
+ms.openlocfilehash: d41ec7b7ce3c8f7140b0944b4d39150ef34a9d83
+ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 10/29/2020
-ms.locfileid: "92917270"
+ms.locfileid: "93027915"
 ---
 # <a name="october-2020-announcements"></a>Meddelanden oktober 2020
 
@@ -23,6 +23,42 @@ Den här sidan innehåller information om Microsoft Partner Center-meddelanden f
 2020-meddelanden: [mars](2020-march.md)  |  [april](2020-april.md)den  |  [May](2020-may.md)  |  [juni](2020-june.md)  |  [juli](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md) | Oktober
 
 ______________
+
+## <a name="windows-10-education-upgrade-is-now-available-to-qualified-cloud-solution-provider-csp-education-customers"></a><a name="16"></a>Windows 10 Education Upgrade är nu tillgängligt för utbildnings kunder med kvalificerad Cloud Solution Provider (CSP)
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2020-10-28
+- Funktioner
+
+### <a name="summary"></a>Sammanfattning
+
+CSP-partner som har köpt Microsoft 365 a3/A5-eller Windows 10 Enterprise a3/A5-prenumerationer för sina utbildnings kunder kan nu hjälpa dem att uppgradera sina Windows 10 Home-enheter till Windows 10-utbildning.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+CSP-partner som har köpt Microsoft 365 a3/A5-eller Windows 10 Enterprise a3/A5-prenumerationer för sina utbildnings kunder
+
+### <a name="details"></a>Information
+
+Från och med den 1 november 2020 kan kryptografiproviders som har köpt Microsoft 365 a3/A5-eller Windows 10 Enterprise a3/A5-prenumerationer hjälpa sina utbildnings kunder att uppgradera från Windows 10 Home till Windows 10-utbildning, som är utformat för både klass rummet och fjärrinlärningen.
+
+Från den 1 november 2020 är Windows 10 Home ett kvalificerande operativ system för utbildnings kunder som licensieras via Microsoft Cloud avtalet (via CSP). Detta berättigande, som nu bara har varit tillgängligt i volym licensierings-utbildningsprogram (VL), har Aktiver ATS via Microsoft 365 administrations Portal stöd. 
+
+#### <a name="how-the-upgrade-process-works"></a>Så här fungerar uppgraderings processen
+
+CSP-partner kan hjälpa sina kunder att uppgradera genom att skicka in ett support ärende för deras räkning. Microsoft Support kommer att granska begäran för att säkerställa att kunden uppfyller kraven. När begäran har godkänts kommer han eller hon att ange Windows 10 Pro Education-nyckeln för kunden.
+
+När kunden installerar nyckeln och enheten är ansluten till klient domänen via Azure Active Directory (AAD), uppgraderas enheten automatiskt till Windows 10-utbildning (prenumeration).   
+
+Information om hur du uppgraderar kunder finns i [avsnittet steg för steg-guide och vanliga frågor](../upgrade-windows-to-education.md).
+
+### <a name="next-steps"></a>Nästa steg
+
+- Meddela dina berättigade kunder och vägled dem genom steg-för-steg-processen.
+- Dela den här informationen med lämpliga personer i din organisation.  
+
+________________
 
 ## <a name="refreshed-cloud-solution-provider-csp-digital-experience-now-available"></a><a name="15"></a>Uppdaterad CSP (Cloud Solution Provider) digital upplevelse är nu tillgänglig
 
