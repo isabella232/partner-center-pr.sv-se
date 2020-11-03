@@ -564,6 +564,8 @@
           href: Get-special-pricing-for-offers.md
         - name: Sälja till utbildningskunder
           href: sell-to-education-customers.md
+        - name: Uppgradera Windows 10 Home till Education
+          href: upgrade-windows-to-education.md
         - name: Öka användningen och nöjdheten
           href: increasing-adoption-and-satisfaction.md
         - name: Förenkla enhetskonfiguration med Windows Autopilot
