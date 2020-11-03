@@ -1,0 +1,24 @@
+### YamlMime:Landing
+title: Välkommen till kunddokumentation för Microsoft Marketplace
+summary: Lär dig att hitta och köpa lösningar, program och tjänster från Microsoft-partner i våra onlinebutiker.
+metadata:
+  title: Välkommen till kunddokumentation för Microsoft Marketplace
+  description: Lär dig att hitta och köpa lösningar, program och tjänster från Microsoft-partner i våra onlinebutiker.
+  ms.service: marketplace
+  ms.topic: landing-page
+  author: dsindona
+  ms.author: dsindona
+  ms.date: 09/18/2020
+  ms.openlocfilehash: 5b460081359f1997eb433a69631708d7e116ce38
+  ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 09/19/2020
+  ms.locfileid: "91755088"
+landingContent:
+- title: Privat Azure-marknadsplats (förhandsversion)
+  linkLists:
+  - linkListType: get-started
+    links:
+    - text: Skapa och hantera en privat Azure-marknadsplats
+      url: create-manage-private-azure-marketplace.md
