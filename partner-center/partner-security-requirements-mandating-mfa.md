@@ -1,7 +1,7 @@
 ---
-title: Kräva multifaktorautentisering för din partnerorganisation
+title: Kräva Multi-Factor Authentication (MFA) för din partner klient
 ms.topic: article
-ms.date: 10/26/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lär dig hur kräva MFA för dina partner klienter kan skydda din åtkomst till kund resurser. Innehåller exempel scenarier.
@@ -9,21 +9,19 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 01122e81254a8e63f9bbf8d6bc3d3271accac74a
-ms.sourcegitcommit: 2847efac28d3bff24ed37cdfaa88ff4be06705c8
+ms.openlocfilehash: b6985054e927dd777d61ae30bd435ab4c6c4ea8c
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92680399"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133117"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Kräva Multi-Factor Authentication (MFA) för din partner klient
 
 **Gäller för**
 
 - Alla partner i Cloud Solution Provider-programmet
-  - Direkt fakturering
-  - Indirekt Provider
-  - Indirekt åter försäljare
+- Alla leverantörer på kontroll panelen
 - Alla rådgivare
 
 **Roller som påverkas**
@@ -34,8 +32,7 @@ ms.locfileid: "92680399"
 - Faktureringsadministratör
 - Global administratör
 
-Syftet med den här funktionen är att hjälpa partners att skydda sin åtkomst till kund resurser mot autentiseringsuppgifter som komprometteras.
-Partner krävs för att genomdriva Multi-Factor Authentication (MFA) för alla användar konton i sin partner klient organisation, inklusive gäst användaren, med den här funktionen tilldelas dessa partner roller för att slutföra MFA-verifiering för följande områden:
+Den här artikeln innehåller detaljerade exempel och rikt linjer för kräva Multi-Factor Authentication (MFA) i Partner Center. Syftet med den här funktionen är att hjälpa partners att skydda sin åtkomst till kund resurser mot autentiseringsuppgifter som komprometteras. Partner krävs för att genomdriva MFA för alla användar konton i sin partner klient, inklusive gäst användare. Användare kommer att tilldelas fullständig MFA-verifiering för följande områden:
 
 - [Instrument panel för partner Center](#partner-center-dashboard)
 - [Partner Center-API](#partner-center-api)
@@ -43,9 +40,7 @@ Partner krävs för att genomdriva Multi-Factor Authentication (MFA) för alla a
 
 Större och fort löp ande säkerhets-och integritets skydd är bland våra främsta prioriteringar och vi fortsätter att hjälpa våra partner att skydda sina kunder och klienter. Alla partner som deltar i CSP-programmet (Cloud Solution Provider), på kontroll panelens leverantörer (CPVs) och rådgivare bör implementera [säkerhets kraven för partner](partner-security-requirements.md) för att vara kompatibla.
 
-För att hjälpa våra partner att skydda sina företag och kunder från identitets stölds incidenter har vi aktiverat ytterligare säkerhets skydd för partner klienter som kan hjälpa partner att se till att deras klienter och sina kunder genom att kräva Multi-Factor Authentication (MFA) verifieras för att förhindra obehörig åtkomst. 
-
-Den här dokumentationen ger partner med detaljerad erfarenhet och vägledning om aktivering av säkerhets åtgärder.
+För att hjälpa våra partner att skydda sina företag och kunder från identitets stöld och obehörig åtkomst har vi aktiverat ytterligare säkerhets skydd för partner klienter som bestämmer sig för att verifiera MFA. 
 
 ## <a name="partner-center-dashboard"></a>Instrument panel för partner Center
 
@@ -55,23 +50,20 @@ Vissa sidor på instrument panelen i Partner Center är MFA-skyddade, inklusive:
 - Alla sidor på fliken **Support > kund förfrågningar** , t. ex. sidan som nås under https://partner.microsoft.com/dashboard/support/csp/customers/*
 - Faktureringssida
 
-Om du försöker komma åt någon av dessa sidor och du inte har slutfört MFA-verifieringen tidigare, måste du göra det.
-
-> [!NOTE]
-> Sidan andra sidor på Partner Center, till exempel översikts sidan, Service Health status kontroll sidan kommer inte att vara MFA-skyddad.
-
-Följande användar typer har behörighet att komma åt dessa MFA-skyddade sidor och påverkas därför av den här funktionen
+I följande tabell visas vilka användar typer som har behörighet att komma åt dessa MFA-skyddade sidor (och därför påverkas av den här funktionen).
 
 
-| Skyddade sidor för MFA       | Administratörs agenter      |  Försäljnings agenter     |   Support agenter     | Global administratör      |  Faktureringsadministratör     | 
+| MFA-skyddad sida       | Administratörs agenter      |  Försäljnings agenter     |   Support agenter     | Global administratör      |  Faktureringsadministratör     | 
 |---    |---    |---    |---    |---    |---    |
 | Fliken alla sidor under kunder      |   x    |    x   |  x     |       |       |
 | Fliken för alla sidor under support > kund förfrågningar     | x      |       |    x   |       |       |
 | Faktureringssida     |   x    |       |       |    x   |   x    |
 
-## <a name="examples-showing-how-verification-works"></a>Exempel som visar hur verifiering fungerar
+Om du försöker komma åt någon av dessa sidor och du inte har slutfört MFA-verifieringen tidigare, måste du göra det. Andra sidor på Partner Center som sidan Översikt, Service Health status kontroll sidan kräver inte MFA.
 
-För att illustrera hur verifieringen fungerar bör du tänka på följande två exempel.
+## <a name="verification-examples"></a>Verifierings exempel
+
+Tänk på följande exempel för att illustrera hur verifiering fungerar i instrument panelen för partner Center.
 
 ### <a name="example-1-partner-has-implemented-azure-ad-mfa"></a>Exempel 1: partner har implementerat Azure AD MFA
 
@@ -108,7 +100,7 @@ För att illustrera hur verifieringen fungerar bör du tänka på följande två
 6. John försöker komma åt en av MFA-skyddade sidor i Partner Center. Eftersom John inte har slutfört MFA-verifieringen omdirigerar Partner Center John till Azure AD för att slutföra MFA-verifieringen. Eftersom John har registrerat MFA, så den här gången uppmanas han/hon bara att slutföra MFA-verifieringen.
 
 > [!NOTE]
->Åtgärd: företags administratören bör implementera MFA nu via något av de [alternativ](partner-security-requirements.md#actions-that-you-need-to-take) som föreslås av Partner Center.
+>Åtgärd: företags administratörer har [tre alternativ](partner-security-requirements.md#implementing-multi-factor-authentication) för att implementera MFA.
 
 ## <a name="partner-center-api"></a>Partner Center-API
 
@@ -117,7 +109,7 @@ Partner Center API stöder både app-only-autentisering och app + användarauten
 När app + User Authentication används kräver Partner Center MFA-verifiering. Mer specifikt, när ett partner program vill skicka en API-begäran till Partner Center, måste det innehålla en åtkomsttoken i begärans Authorization-huvud. 
 
 > [!NOTE]
->[Säker program modell](/partner-center/develop/enable-secure-app-model) är ett säkert och skalbart ramverk för autentisering av CSP-partner och CPVs via Microsoft Azure MFA-arkitekturen när du ANROPAr API för partner Center måste du implementera det innan du aktiverar MFA på din klient. 
+>[Ramverket för säkra program modeller](/partner-center/develop/enable-secure-app-model) är ett skalbart ramverk för autentisering av CSP-partner och CPVs via Microsoft Azure MFA-arkitektur vid anrop till API: er för partner Center. Du måste implementera det här ramverket innan du aktiverar MFA på din klient. 
 
 När Partner Center får en API-begäran med en åtkomsttoken som hämtats med app + User Authentication, kommer Partner Center-API: et att söka efter värdet *MFA* i *AMR-anspråk (Authentication Method Reference)* . Du kan använda en JWT-avkodare för att kontrol lera om en åtkomsttoken innehåller det förväntade AMR-värdet (Authentication Method Reference) eller inte:
 
@@ -163,17 +155,17 @@ När App-Only autentisering används, kommer de API: er som stöder App-Only aut
 
 ## <a name="partner-delegated-administration"></a>Partner delegerad administration
 
-### <a name="using-service-portals"></a>Använda service portaler
-
 Partner konton, inklusive administratörs agenter och support agenter, kan använda sina partner delegerade administratörs behörigheter för att hantera kund resurser via Microsoft Online Services-portaler, kommando rads gränssnitt (CLI) och API: er (med hjälp av app + User Authentication).
 
-När du ansluter till Microsoft Online Services portaler med administratörs behörigheten partner delegerad (admin-on-of) för att hantera kund resurser, kräver många av dessa portaler partner kontot för att autentisera interaktivt, med kunden Azure Active Directory klient uppsättning som autentiserings kontext – partner kontot krävs för att logga in på kund innehavaren.
+### <a name="using-service-portals"></a>Använda service portaler
 
-När Azure Active Directory får sådana autentiseringsbegäranden, kräver det partner kontot för att slutföra MFA-verifieringen. Det finns två möjliga användar upplevelser, beroende på om partner kontot är en hanterad eller federerad identitet:
+Vid åtkomst till Microsoft Online Services-portaler med administratörs behörigheten partner delegerad (admin-on-of) för att hantera kund resurser, kräver många av dessa portaler partner kontot för att autentisera interaktivt, med kund Azure AD-klienten inställd som autentiserings kontext – partner kontot krävs för att logga in på kund innehavaren.
 
-- Om partner kontot är en **hanterad** identitet uppmanas Azure Active Directory att slutföra MFA-verifieringen direkt. Om partner kontot inte har registrerats för MFA med Azure Active Directory före, uppmanas användaren att [slutföra MFA-registreringen](#mfa-registration-experience) först.
+När Azure AD tar emot sådana autentiseringsbegäranden kräver det partner kontot för att slutföra MFA-verifieringen. Det finns två möjliga användar upplevelser, beroende på om partner kontot är en hanterad eller federerad identitet:
 
-- Om partner kontot är en **federerad** identitet är upplevelsen beroende av hur partner administratören har konfigurerat federation i Azure Active Directory. När du ställer in federationen i Azure Active Directory kan partner administratören ange Azure Active Directory om den federerade identitets leverantören stöder MFA eller inte. I så fall kommer Azure Active Directory omdirigera användaren till den federerade identitets leverantören för att slutföra MFA-verifieringen. Annars uppmanas användaren att slutföra MFA Azure Active Directory-verifieringen direkt. Om partner kontot inte har registrerats för MFA med Azure Active Directory före, uppmanas användaren att [slutföra MFA-registreringen](#mfa-registration-experience) först.
+- Om partner kontot är en **hanterad** identitet uppmanas användaren att slutföra MFA-verifieringen direkt i Azure AD. Om partner kontot inte har registrerats för MFA med Azure AD innan, uppmanas användaren att [slutföra MFA-registreringen](#mfa-registration-experience) först.
+
+- Om partner kontot är en **federerad** identitet är upplevelsen beroende av hur partner administratören har konfigurerat Federation i Azure AD. När du konfigurerar Federation i Azure AD kan partner administratören ange för Azure AD om den federerade identitets leverantören stöder MFA eller inte. I så fall omdirigerar Azure AD användaren till den federerade identitets leverantören för att slutföra MFA-verifieringen. Annars uppmanas användaren av Azure AD direkt att slutföra MFA-verifieringen. Om partner kontot inte har registrerats för MFA med Azure AD innan, uppmanas användaren att [slutföra MFA-registreringen](#mfa-registration-experience) först.
 
 Den övergripande upplevelsen liknar det scenario där en slutkunds klient har implementerat MFA för sina administratörer. Till exempel har kund innehavaren aktiverat [standardinställningar för Azure AD-säkerhet](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults), som kräver att alla konton med administratörs behörighet loggar in på kund innehavaren med MFA-verifiering, inklusive administratörs agenter och support agenter. I test syfte kan partners aktivera [Azure AD-säkerhetsvärden](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) i kund klienten och sedan försöka använda partner delegerade administrations privilegier för att få åtkomst till kund innehavaren.
 
@@ -205,16 +197,10 @@ När du klickar på **Nästa** uppmanas användaren att välja från en lista ö
 :::image type="content" source="images/MfaRegistration2.png" alt-text="MFA-registrering steg 1":::
 
 Vid lyckad registrering måste användaren slutföra MFA-verifieringen baserat på den verifiering som användaren valt.
-
-## <a name="request-for-technical-exception"></a>Begäran om tekniskt undantag
-
-Partner kan ansöka om tekniskt undantag för att förhindra MFA-verifiering om de stöter på tekniska problem med Microsoft Online Services och det inte finns någon genomförbar lösning eller lösning. Läs igenom följande avsnitt innan du gör det:
-
-- [Lista över vanliga problem som har rapporter ATS av partner](#list-of-common-issues-reported-by-partners)
-- [Så här skickar du en begäran om tekniskt undantag](#how-to-submit-a-request-for-technical-exception)
  
-### <a name="list-of-common-issues-reported-by-partners"></a>Lista över vanliga problem som har rapporter ATS av partner
-Läs igenom listan över vanliga problem som har rapporter ATS av andra partner innan du tillämpar det tekniska undantaget, för att förstå om de är giltiga för tekniska undantag eller inte.
+## <a name="list-of-common-issues"></a>Lista över vanliga problem
+
+Innan du ansöker om [tekniskt undantag](#how-to-submit-a-request-for-technical-exception) från MFA-kravet kan du läsa listan över vanliga problem som har rapporter ATS av andra partner för att förstå om din begäran är giltig.
 
 #### <a name="issue-1-partner-needs-more-time-to-implement-mfa-for-their-partner-agents"></a>Problem 1: partner behöver mer tid för att implementera MFA för sina partner agenter
 En partner har inte startat eller håller fortfarande på att implementera MFA för sina partner agenter som behöver åtkomst till Microsoft Online Services-portaler med hjälp av partner delegerade administrations behörigheter för att hantera kund resurser. Partnern behöver mer tid för att slutföra MFA-implementeringen. Är det här problemet en giltig orsak till det tekniska undantaget?
@@ -261,7 +247,9 @@ En partner har implementerat MFA för sina användare med hjälp av en MFA-lösn
 
 - Inköps ordern för MFA-lösningen från tredje part som du använder eller som du planerar att använda.
 
-### <a name="how-to-submit-a-request-for-technical-exception"></a>Så här skickar du en begäran om tekniskt undantag
+## <a name="how-to-submit-a-request-for-technical-exception"></a>Så här skickar du en begäran om tekniskt undantag
+
+Partner kan ansöka om tekniskt undantag för att förhindra MFA-verifiering om de stöter på tekniska problem med Microsoft Online Services och det inte finns någon genomförbar lösning eller lösning. Läs igenom [listan med vanliga problem](#list-of-common-issues) i föregående avsnitt innan du gör detta.
 
 Så här skickar du en begäran om tekniskt undantag:
 
@@ -274,3 +262,7 @@ Så här skickar du en begäran om tekniskt undantag:
 4. Ange information som krävs för att skicka en tjänstbegäran för tekniskt undantag och klicka på **Skicka** .
 
 Microsoft kan ta upp till tre arbets dagar för att tillhandahålla ett svar på en begäran om tekniskt undantag.
+
+## <a name="next-steps"></a>Nästa steg
+
+ - [Status för partner säkerhets krav](partner-security-compliance.md)

@@ -1,7 +1,7 @@
 ---
 title: Översikt över Cloud Solution Provider-program
 ms.topic: article
-ms.date: 10/28/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lär dig mer om fördelarna och olika modeller i Cloud Solution Provider (CSP)-programmet som hjälper företaget att växa med nya kunder och nya expert kunskaper.
@@ -9,19 +9,18 @@ author: billlinzbach
 ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9780fe0b90a4889fca1f3a887c445a75b1549eaa
-ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
+ms.openlocfilehash: f72a4cffaa8557e7e8f56dd2253c99449e3a696d
+ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "92917203"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "93045406"
 ---
 # <a name="cloud-solution-provider-program"></a>Cloud Solution Provider-program 
 
 **Gäller för**
 
 - Partnercenter
-
 
 Den här artikeln ger en översikt över program varan för Cloud Solution Provider (CSP) och beskriver de olika drift modellerna och deras krav, samt annan information om att sälja via det här programmet.  CSP-programmet hjälper dig att bli mer engagerad i kundernas verksamhet, förutom att sälja licenser och kan omfatta följande fördelar: 
 
@@ -32,35 +31,33 @@ Den här artikeln ger en översikt över program varan för Cloud Solution Provi
 
 ## <a name="which-csp-model-is-best-for-me"></a>Vilken CSP-modell passar bäst för mig?
 
-### <a name="direct-bill-model"></a>Direkt fakturerings modell
-
- I direkt fakturerings modellen köper partners Microsoft-produkter och prenumerationer direkt från Microsoft och säljer dem direkt till kunderna genom sin interna försäljnings personal. Partner som redan arbetar med, eller är villiga att utveckla, en lämplig försäljnings-, fakturerings-och support infrastruktur kan välja KRYPTOGRAFIPROVIDERns direkta modell. Kraven för att bli en direkt partner har nyligen ändrats och börjar gälla den 31 augusti 2018. Direkta partner måste uppfylla de nya kraven från och med nästa registrerings period efter den 31 augusti 2018.
-
-#### <a name="new-expanded-requirements"></a>Nya expanderade krav
-
-Support
-
-- Utöka support möjligheterna genom att köpa en-på-ett-prioriterad moln support med ett Microsoft Advanced support för partner-paket. Alternativt kan du välja ett Microsoft Premier Support for partner-paket för att få åtkomst till hela katalogen med proaktiva tjänster, 24/7 upphöjt avbrott/korrigerings support och teknisk konto hantering i molnet, hybriden och lokalt.
-
-Intäkter
-
-- Måste uppfylla minst USD300K i Cloud Solution Provider-programmets årliga intäkter under de närmast föregående tolv månaderna som en indirekt åter försäljare. Partner kan granska sina efterföljande tolv månaders intäkter på Partner Center. den försäljning som utgör din USD300K av intäkter från tolv månader omfattas av granskning och verifiering av Microsoft och du kan uppmanas att ange ytterligare information. Kravet på USD300K intäkt beräknas utifrån moln intäkterna och kommer att utesluta beständig program vara i CSP.
-
-Tjänster
-
-- Demonstrera att du anger minst en hanterad tjänst, IP-tjänst eller kund lösnings program. 
-
-- Uppfylla de lägsta infrastruktur funktionerna, till exempel fakturering och etablering. Vi övervakar års prestanda för att bekräfta att direkta fakturerings partner som uppfyller de här kraven demonstrerar stadigt växande verksamhet. Det finns inga speciella prestanda mål just nu, men Microsoft kan implementera ett prestanda fält i framtiden.
-
-- Ett Active Microsoft Partner Network-ID (MPN) för den plats som du vill sälja i
-
 ### <a name="indirect-model"></a>Indirekt modell
 
-I den indirekta modellen kan leverantörer (även kallade distributörer) köpa Microsoft-produkter och prenumerationer direkt från Microsoft, men sälja till kunder via ett nätverk med indirekta åter försäljare. Krav för registrering i CSP som en indirekt åter försäljare inkluderar:
+Microsoft hjälper alla partner som deltar i Cloud Solution Provider-programmet att hitta den bästa modellen för deras verksamhet att växa. Microsoft har skapat ett globalt nätverk av kvalificerade indirekta leverantörer som hjälper våra partner att växa sin moln verksamhet i Cloud Solution Provider-programmet. Genom att delta som en indirekt åter försäljare kan du påskynda din go-to-Marketing med minimerad drifts komplexitet. 
 
-- Ett Active Microsoft Partner Network-ID (MPN) för den plats som du vill sälja i
+Som en indirekt åter försäljare kan du arbeta med indirekta leverantörer som kan tillhandahålla de verktyg och resurser som hjälper dig att hantera din kund relation. Med den indirekta modellen kan du köpa från en indirekt provider som kan samar beta med dig för kund support och fakturering.
+Vad du kommer att behöva: 
+
+- Ett aktivt medlemskap i Microsoft Partner Network-och MPN-ID för den plats som du vill sälja i.
 - Möjlighet att signera juridiska avtal på uppdrag av din organisation
-- En relation med en [officiell Microsoft-Provider](https://partnercenter.microsoft.com/partner/find-a-provider)
+- En relation med en [officiell Microsoft-indirekt Provider](https://partnercenter.microsoft.com/partner/find-a-provider) i Cloud Solution Provider-programmet
+
+### <a name="direct-bill-model"></a>Direkt fakturerings modell
+
+I direkt fakturerings modellen köper partners Microsoft-produkter och prenumerationer direkt från Microsoft och säljer dem direkt till kunderna genom sin interna försäljnings personal. Partner som redan arbetar med, eller är villiga att utveckla, lämplig försäljnings-, fakturerings-och support infrastruktur kan välja den direkta modellen. Vi har uppdaterat registrerings kraven för direkta fakturerings partner den 27 oktober 2020.
+
+#### <a name="requirements"></a>Krav
+
+Granska de uppdaterade kraven för direkt fakturerings Registrering och rekommendationerna nedan för att utvärdera hur du kan bygga och expandera en mer lönsam verksamhet med rätt modell i Cloud Solution Provider-programmet:  
+
+- **Support:** Utöka support möjligheterna genom att köpa en-på-ett-prioriterad moln support med ett Microsoft Advanced support för partner-paket. Alternativt kan du välja ett Microsoft Premier Support for partner-paket för att få åtkomst till hela katalogen med proaktiva tjänster, 24/7 upphöjt avbrott/korrigerings support och teknisk konto hantering i molnet, hybriden och lokalt. Läs igenom Microsofts partner avtal och lär dig mer om din support skyldighet
+- **Prestanda krav:** Se till att du har minst USD300K i Cloud Solution Provider-programmet årlig intäkt under de föregående tolv månaderna som en indirekt åter försäljare. Partner kan granska sina efterföljande intäkter i tolv månader på Partner Center. Den försäljning som utgör en USD300K som slutar på tolv månader kan granskas och verifieras av Microsoft och du kan uppmanas att ange ytterligare information. Kravet på USD300K intäkt beräknas utifrån moln intäkterna och kommer att utesluta beständig program vara i CSP.
+- Uppfylla de lägsta infrastruktur funktionerna, till exempel fakturering och etablering
+- Ett aktivt medlemskap i Microsoft Partner Network-och MPN-ID för den plats som du vill sälja i.
+
+#### <a name="recommendations"></a>Rekommendationer
+
+- **Demonstrera viktiga funktioner:** Demonstrera att du anger minst en hanterad tjänst, IP-tjänst eller kund lösnings program. [Läs mer om att lägga till hanterade tjänster](https://partner.microsoft.com/solutions/managed-services). 
 
 ## <a name="where-can-i-sell-through-the-csp-program"></a>Var kan jag sälja via CSP-programmet?
 

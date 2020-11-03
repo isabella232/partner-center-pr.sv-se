@@ -46,6 +46,8 @@
       items:
         - name: Lär dig mer om kompetenser
           href: learn-about-competencies.md
+        - name: Vanliga frågor och svar om kompetenser
+          href: competencies-faq.md
         - name: Undantag för apputvecklarkompetens
           href: app-dev-isv.md
     - name: Avancerade specialiseringar

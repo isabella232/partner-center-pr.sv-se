@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 10/09/2020
-ms.openlocfilehash: 98c9cdd96af037e8543828e3a6f2e93c5b0fcbcd
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.date: 10/28/2020
+ms.openlocfilehash: 760e0157437dbad74c779100123b4239083ca6b7
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795787"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917152"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Krav för att registrera dig som CSP-partner med direktfakturering
 
@@ -28,11 +28,11 @@ Som en direkt fakturerings partner äger du relationen från slut punkt till slu
 
 ### <a name="minimum-requirements"></a>Minimikrav
 
-|**Krav**|                             |
+|**Krav**| **Förklaring**|
 |--------------------------------|--------------------------------------------------------------|
 |**MPN-ID**   |Ett Active Microsoft Partner Network-ID (MPN) för din företags plats.    |
 |**Erkännande**   |Myndigheten att godkänna och signera juridiska avtal för din organisations räkning.|
-|**Intäkter**|Från och med januari 2021 måste partner som registrerats som direkt fakturerings partner ha överfört minst USD över 300 000 i moln lösnings leverantörens program intäkt till en global partner global konto nivå under de föregående 12 månaderna.| 
+|**Intäkter**|Måste uppfylla minst USD300K i Cloud Solution Provider-programmets årliga intäkter under de närmast föregående tolv månaderna som en indirekt åter försäljare. Partner kan granska sina efterföljande tolv månaders intäkter på Partner Center. den försäljning som utgör din USD300K av intäkter från tolv månader omfattas av granskning och verifiering av Microsoft och du kan uppmanas att ange ytterligare information. Kravet på USD300K intäkt beräknas utifrån moln intäkterna och kommer att utesluta beständig program vara i CSP. Mer information om tidigare 12 månaders intäkter finns i [prenumerations analys](https://partner.microsoft.com/dashboard/analytics/licenseanalytics) .|
 |**Support**   |Möjlighet att tillhandahålla den första nivån av moln produkt support för dina kunder. <br/>Microsoft support avtal, antingen avancerad support för partner (ASfP) eller Premier Support för partner (PSfP), beroende på dina behov. [Jämför support](https://partner.microsoft.com/support/partnersupport)avtal.<br/> VIKTIGT: du måste godkänna en kredit kontroll innan du kan köpa en Support plan. Vi skickar e-post när du har slutfört kredit kontrollen. |
 |**Hanterad tjänst**   |Minst en hanterad tjänst, IP-tjänst eller kund lösnings program. Läs mer om att lägga till [hanterade tjänster](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
 |**Kund reskontra** |Organisationens infrastruktur på plats för att hantera fakturering och etablering av kunder.|
@@ -55,6 +55,9 @@ Aktuella direkta fakturerings partner måste uppfylla de nya kraven för att fin
 Om du väljer att flytta från en direkt fakturerings verksamhet till en indirekt åter försäljare, finns det flera steg som du måste vidta. Om du vill veta mer om över gången läser du [över gången från providern för moln lösnings leverantör (CSP) till en indirekt åter försäljare av CSP](transition-direct-to-indirect.md).
 
 ## <a name="next-steps"></a>Nästa steg
+
+- [Nytt intäkts krav för direkta fakturerings partner](https://docs.microsoft.com/partner-center/announcements/2020-october#13)
+ 
 
 - [Ytterligare information om att bli en indirekt åter försäljare](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 

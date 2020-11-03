@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 26912daeae6648d49d1fda3ee148d46c8a3d6705
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 47827b6aa3bb9853355a6e2fa4f8816e1dd701a1
+ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795839"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "93189755"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Slå samman ditt partnerkonto med ett annat partnerkonto
 
@@ -98,18 +98,28 @@ Om du väljer att acceptera inbjudan att slå samman konton: · Dina MPN-ID: n (
   
     b. en Azure AD-klient = @contoso.com
  
-    c. en guld-kompetens som upphör att gälla 1 oktober 2020
+    c. en guld-kompetens som upphör att gälla den 1 oktober 2020
 2. Fabricam har
  
     a.  ett globalt MPN-ID på 3333333 och två underordnade platser MPN-ID: n 4444444 och 5555555
 
-    b.  AAD-klient = @fabricam.com
+    b.  en Azure AD-klient = @fabricam.com
 
     c.  två guld kompetenser som upphör att gälla den 1 december 2020
-3.  Contoso köper fabricam och går [hit](https://partner.microsoft.com/dashboard/account/merger) för att initiera en kopplings förfrågan
+3.  Contoso köper fabricam och går [hit](https://partner.microsoft.com/dashboard/account/merger) för att initiera en merge-begäran.
 4.  Fabricam loggar in på Partner Center och går till samma sida som contoso gjorde i steg #3 för att godkänna Contosos begäran.
 5.  Contoso granskar informationen om sammanslagningen på samma sida och ger bekräftelse på att gå vidare med konto fusionen.
+6.  Efter sammanslagningen visas företags kontot som:
+
+    a.  Ett företag som heter Contoso med ett globalt MPN-ID på 1111111 och fyra underordnade platser MPN-ID: n 2222222, 3333333, 4444444 och 5555555
     
+    b.  Det kommer att ha två Azure AD-klienter ( @contoso.com + @fabricam.com ) som har åtkomst till samma Partner Center-konto
+    
+    c.  Det kommer att ha två kompetens förmåns paket, ett som upphör att gälla den 1 oktober 2020 och en annan som upphör att gälla den 1 december 2020. De kommer att kunna förnyas som ett enda förmåns paket den 1 december 2020. När de förnyas behåller contoso alla tre kompetenser även om de bara kan ha ett enda förmåns paket.
+    
+7.  Contosos administratörer fortsätter att hantera roller för partner Center för @contoso.com användarna. Fabricam-administratörer fortsätter att hantera roller i partner centret för @fabricam.com användare. Contosos administratörer kan bara administrera fabricam användare om de bjuds in som gäst i fabricam-klienten.
+8.  Contoso kunde välja att ignorera @fabricam.com klienten och sedan utfärda fabricam-anställda nya @contoso.com autentiseringsuppgifter med nya roller och behörigheter.
+
 ## <a name="next-steps"></a>Nästa steg
 
 - [Tilldela användarroller och -behörigheter](permissions-overview.md)

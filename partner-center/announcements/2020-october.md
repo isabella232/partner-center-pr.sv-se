@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/14/2020
-ms.openlocfilehash: 144ca69d3ea52921351d84dae40d007a976ddf73
-ms.sourcegitcommit: f5aebd9f8b56f79f758c97048f298a04d8fb55be
+ms.openlocfilehash: 453d6e130a6c563e7aac23cef1c7a91f8125fd9c
+ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "92532225"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92749741"
 ---
 # <a name="october-2020-announcements"></a>Meddelanden från oktober 2020
 
@@ -22,6 +22,71 @@ Den här sidan innehåller information om Microsoft Partner Center-meddelanden f
 
 2020-meddelanden: [mars](2020-march.md)  |  [april](2020-april.md)den  |  [May](2020-may.md)  |  [juni](2020-june.md)  |  [juli](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md) | Oktober
 
+________________________________
+
+## <a name="introducing-a-performance-standard-for-direct-bill-partner-requirements-in-the-cloud-solution-provider-csp-program"></a><a name="13"></a>Vi presenterar en prestanda standard för direkta fakturerings partner krav i CSP-programmet (Cloud Solution Provider)
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2020-10-27
+- Funktioner
+ 
+### <a name="summary"></a>Sammanfattning
+
+Vi presenterar en prestanda standard som en del av kraven för direkt fakturerings partner i Cloud Solution Provider-programmet.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Direkt fakturerings partner i Cloud Solution Provider-programmet.
+
+### <a name="details"></a>Information
+
+Att utöka och optimera Microsoft Cloud Solution Provider-programmet är en viktig del av vår resa till en ny Commerce-upplevelse för partner och kunder. Därför kommer vi fortsätta att utveckla programmet för att möta kundernas föränderliga behov och tillhandahålla den mest effektiva och lönsamma upplevelsen för dig, våra partner.
+
+Idag delar vi några kommande ändringar i kraven för direkta fakturerings partner i Cloud Solution Provider-programmet.
+
+Först **presenterar vi en prestanda standard som en del av kraven för direkt fakturerings partner** . Partner som vill registrera sig som direkt fakturerings partner i Cloud Solution Provider-programmet måste uppfylla minst USD300K i moln lösnings leverantörens program intäkt under de 12 månaderna innan det krävs förnyelse datumet för [Support kontraktet](https://partner.microsoft.com/support/partnersupport) .
+
+Den här prestanda standarden börjar gälla i januari 2021 för aktuella direkt fakturerings partner och du måste uppfylla kraven från ditt support avtal för din Support plan.
+
+Om du inte kan eller föredrar att inte uppfylla de uppdaterade kraven för direkt fakturerings partner måste du registrera om som en indirekt åter försäljare i Cloud Solution Provider-programmet. 
+
+Detta nya intäkts krav hjälper partners i Cloud Solution Provider-programmet att bygga en mer lönsam verksamhet genom rätt modell, med en tydligare prestanda standard och fokusera på att leverera större värde till kunder med mindre infrastruktur och drifts kostnader.
+
+För det andra har vi uppdaterat kraven för direkt fakturerings partner med nya villkor för partner för att köpa ett kvalificerat partner support avtal, tillbaka i augusti 2018. Vi understryker vikten av detta krävs för alla direkta fakturerings partner i Cloud Solution Provider-programmet.
+
+### <a name="direct-bill-partner-requirements"></a>Krav för direkt fakturerings partner
+
+Granska de uppdaterade kraven och rekommendationerna för [direkt fakturerings partner](https://docs.microsoft.com/partner-center/direct-partner-new-requirements#minimum-requirements) för att utvärdera hur du kan bygga och expandera en mer lönsam verksamhet med rätt modell i Cloud Solution Provider-programmet:
+
+1. **nya krav för intäkts prestanda**
+
+**Befintliga partner** som för närvarande är registrerade i Cloud Solution Provider-programmet som direkt fakturerings partner måste uppfylla den nya prestanda standarden från januari 2021. Du kommer att ha tid till nästa support avtal för partnern för att uppfylla kraven. Du kan granska din efterföljande tolv månaders intäkt på Partner Center genom att följa [den här hand boken](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf).
+
+Nya partner som registreras i Cloud Solution Provider-programmet börjar som indirekta åter försäljare gällande **oktober 2020** . De måste ha minst USD300K i CSP-intäkterna under de föregående 12 månaderna. Du kan granska din efterföljande 12-månaders intäkt på Partner Center genom att följa [den här hand boken](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf). 
+
+2. **krav på support avtal** 
+
+Utöka support möjligheterna genom att köpa något av följande alternativ för support kontrakt:  
+
+   - Microsofts avancerade support för partner (ASfP): en-till-en, prioriterad moln support  
+   - Microsoft Premier Support for partner (PSfP): få till gång till hela katalogen med proaktiva tjänster, 24/7 med stöd för upphöjd/korrigering och teknisk konto hantering i molnet, hybriden och lokalt. 
+
+Jämför [support kontrakts alternativen](https://partner.microsoft.com/support/partnersupport) för att köpa en kvalificerad plan.
+
+### <a name="direct-bill-partner-recommendations"></a>Rekommendationer för direkt fakturerings partner
+
+**Demonstrera viktiga funktioner**
+
+Vi har några ytterligare rekommendationer för att se till att du är redo och har kunskap om den infrastruktur som krävs för att stödja direkt fakturerings programmet. Demonstrera att du anger minst en hanterad tjänst, IP-tjänst eller kund lösnings program. Partners bör lägga till ett värde ovanpå Microsoft Cloud tjänster och inte bara göra en rak åter försäljning av våra tjänster. Det är en viktig del av en partners go-to-marknad-strategi. [Läs mer](https://partner.microsoft.com/solutions/managed-services) om att lägga till hanterade tjänster. Vi rekommenderar att du uppfyller de minsta infrastruktur funktionerna, till exempel fakturering och etablering. 
+
+Direkt fakturerings partner i CSP-programmet som inte uppfyller de nya kraven måste registreras igen som indirekta åter försäljare i programmet inom Microsoft Partner Network. [Läs mer](https://docs.microsoft.com/partner-center/transition-direct-to-indirect) om hur du kan göra över gången från en direkt fakturerings partner till en indirekt åter försäljare.  
+
+### <a name="next-steps"></a>Nästa steg
+
+- Granska de [uppdaterade kraven för direkt fakturerings partner](https://docs.microsoft.com/partner-center/direct-partner-new-requirements#minimum-requirements).
+- Läs vanliga frågor och svar och annan information i [Åtgärds resurs galleriet på webbplatsen för Microsoft-partner](https://partner.microsoft.com/resources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/).
+- Hitta [en indirekt Provider att arbeta med](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider) om alternativet för indirekt åter försäljare passar bättre med dina affärs behov.
 ________________________________
 
 ## <a name="microsoft-365-business-voice-offer-updates"></a><a name="12"></a>Microsoft 365 Business uppdateringar av Voice-erbjudandet

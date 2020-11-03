@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 99b688cae786f1abcb3059c706345c4089fa129a
-ms.sourcegitcommit: f5aebd9f8b56f79f758c97048f298a04d8fb55be
+ms.openlocfilehash: 94403cddbfa2f316b7ade84af1d9a1d233544fb4
+ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "92526857"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92749701"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -22,6 +22,7 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 
 | **Kategori** | **Meddelanden oktober 2020** | **Meddelande** |
 |---------|:---------|:---------|
+|Funktioner|[Introducerar en prestandastandard för direkta faktureringspartnerkrav i molnlösningsleverantörsprogrammet](2020-october.md#13)|27 oktober|
 |Erbjudanden/marknader|[Uppdateringar för Microsoft 365 Business Voice-erbjudandet](2020-october.md#12)|16 oktober|
 |Funktioner|[Uppdatering november 2020: Guiden för onlinetjänster och programkanalsauktorisering](2020-october.md#11)|14 oktober|
 |Erbjudanden/marknader|[Introduktion av Microsoft 365 Business Voice för ideella organisationer](2020-october.md#10)|12 oktober|

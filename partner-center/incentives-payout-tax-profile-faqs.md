@@ -1,23 +1,23 @@
 ---
 title: Incitaments utbetalningar och frågor om skatte profil
 ms.topic: article
-ms.date: 10/22/2020
+ms.date: 10/27/2020
 description: Vanliga frågor om att uppmuntra utbetalningar och skatte profiler. Frågor inkluderar varför du inte kan se din utbetalnings-och skatte profil och vad du kan göra med det.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: f4335bc77acf0e73092de0441cc6254b11c62bb3
-ms.sourcegitcommit: a46ab876baf681c2fa4f9a2876d29c2ba4aad648
+ms.openlocfilehash: 7fae97fb1a527ab557d76bd3b5fd738315271899
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/23/2020
-ms.locfileid: "92532229"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133141"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>Vanliga frågor och svar om incitaments utbetalningar och skatte profiler
 
-Gäller för:
+Gäller:
 
 - Partnercenter
 
@@ -26,32 +26,6 @@ Lämpliga roller:
 - Incitaments administratör
 - Kontoadministratör
 - Global administratör
-
-## <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>Min moms profil har upphört att gälla. Hur gör jag för att åtgärda detta?
-
-Om en skatte profil har upphört att gälla eller om den upphör att gälla, innebär det att skatte formuläret som du tillhandahöll till Microsoft måste uppdateras. Använd följande procedur för att redigera skatte profilerna:
-
-1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
-
-2. Välj kugghjulsikonen för att öppna menyn **Inställningar** .
-
-3. Under **Kontoinställningar** väljer du först alternativet för **utbetalningar och skatter** följt av alternativet för **utbetalnings- och skatteprofil** .
-
-4. Välj **avgifts profil** .
-
-5. Välj kolumnen **förfallo datum** och gå sedan till den skatte profil som har upphört att gälla eller som upphör att gälla.
-
-6. Välj **Redigera** för att påbörja redigerings processen för skatte profil.
-
-7. Uppdatera skatte formulären genom att ange den information som krävs.
-
-## <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>Hur ser Microsoft till att bank informationen verkligen är företagets och inte ett personligt bank konto för en medarbetare?
-
-Det är företagets ansvar att se till att rollen som incitaments administratör, som har behörighet att redigera den här informationen, endast får lämpliga anställda.
-
-## <a name="can-i-use-the-same-bank-and-tax-details-for-all-incentive-programs-at-microsoft"></a>Kan jag använda samma bank-och skatte information för alla stimulans program på Microsoft?
-
-Om ditt företag är inbjudet till flera incitaments program kan du använda samma betalnings konto för alla stimulans program, eller så kan du välja att ha olika betalnings konton för olika program.
 
 ## <a name="why-do-i-need-to-provide-my-payout-andor-tax-details"></a>Varför måste jag ange min betalning och/eller skatte information?
 
@@ -94,6 +68,32 @@ Skatteprofiler som skapats för en MPN-plats återanvänds och fylls i automatis
 ## <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Jag kan bara logga in med min @onmicrosoft.com domän. Vad ska jag göra?
 
 Kontakta kontoadministratören om du vill lägga till fler domäner till AAD-kontot.
+
+## <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>Min moms profil har upphört att gälla. Hur gör jag för att åtgärda detta?
+
+Om en skatte profil har upphört att gälla eller om den upphör att gälla, innebär det att skatte formuläret som du tillhandahöll till Microsoft måste uppdateras. Använd följande procedur för att redigera skatte profilerna:
+
+1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
+
+2. Välj kugghjulsikonen för att öppna menyn **Inställningar** .
+
+3. Under **Kontoinställningar** väljer du först alternativet för **utbetalningar och skatter** följt av alternativet för **utbetalnings- och skatteprofil** .
+
+4. Välj **avgifts profil** .
+
+5. Välj kolumnen **förfallo datum** och gå sedan till den skatte profil som har upphört att gälla eller som upphör att gälla.
+
+6. Välj **Redigera** för att påbörja redigerings processen för skatte profil.
+
+7. Uppdatera skatte formulären genom att ange den information som krävs.
+
+## <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>Hur ser Microsoft till att bank informationen verkligen är företagets och inte ett personligt bank konto för en medarbetare?
+
+Det är företagets ansvar att se till att rollen som incitaments administratör, som har behörighet att redigera den här informationen, endast får lämpliga anställda.
+
+## <a name="can-i-use-the-same-bank-and-tax-details-for-all-incentive-programs-at-microsoft"></a>Kan jag använda samma bank-och skatte information för alla stimulans program på Microsoft?
+
+Om ditt företag är inbjudet till flera incitaments program kan du använda samma betalnings konto för alla stimulans program, eller så kan du välja att ha olika betalnings konton för olika program.
 
 ## <a name="next-steps"></a>Nästa steg
 

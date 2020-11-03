@@ -1,7 +1,7 @@
 ---
 title: Gå med i Cloud Solution Provider-programmet
 ms.topic: how-to
-ms.date: 10/28/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lär dig hur du registrerar i den program vara för Cloud Solution Provider (CSP) som är bäst för din verksamhet, till exempel indirekt åter försäljare eller direkt fakturerings partner.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1074b25ef90495db82600fc5c18b335a91970d84
-ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
+ms.openlocfilehash: d94941cf7f2530b7c60c099035a90f7a792e7a7a
+ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "92917169"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "93045387"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Gå med i Cloud Solution Provider-programmet
 
@@ -64,27 +64,25 @@ Mer information om vad som krävs för att delta i CSP-programmet som en indirek
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>Registrera som en direkt fakturerings partner
 
-Som en direkt fakturerings partner äger du relationen från slut punkt till slut punkt med kunden och med Microsoft. Vi har uppdaterat registrerings kraven för direkta fakturerings partner från och med den 31 augusti 2018. De här nya kraven hjälper dig att påskynda företagets tillväxt med rätt CSP-registrerings modell och stärka dina kund relationer med mervärdes tjänster och support.
+Som en direkt fakturerings partner äger du relationen från slut punkt till slut punkt med kunden och med Microsoft. Vi har uppdaterat registrerings kraven för direkta fakturerings partner den 27 oktober 2020. Dessa krav hjälper dig att påskynda företagets tillväxt med rätt program modell för moln lösnings leverantören och stärka dina kund relationer med mervärdes tjänster och support.  
 
 ### <a name="minimum-requirements"></a>Minimikrav
 
 |**Krav**|                             |
 |--------------------------------|--------------------------------------------------------------|
-|**MPN-ID**   |Ett Active Microsoft Partner Network-ID (MPN) för din företags plats.    |
+|**MPN-ID**   |Ett aktivt medlemskap i Microsoft Partner Network-och MPN-ID för den plats som du vill sälja i.    |
 |**Erkännande**   |Myndigheten att godkänna och signera juridiska avtal för din organisations räkning.|
 |**Support**   |Möjlighet att tillhandahålla den första nivån av moln produkt support för dina kunder. <br>Microsoft support avtal, antingen avancerad support för partner (ASfP) eller Premier Support för partner (PSfP), beroende på dina behov. [Jämför support](https://partner.microsoft.com/support/partnersupport)avtal.<br> VIKTIGT: du måste godkänna en kredit kontroll innan du köper en Support plan. Vi skickar e-post när du har slutfört kredit kontrollen. |
-|**Intäkts krav**|Måste uppfylla minst USD300K i Cloud Solution Provider-programmets årliga intäkter under de närmast föregående tolv månaderna som en indirekt åter försäljare. Partner kan granska sina efterföljande tolv månaders intäkter på Partner Center. den försäljning som utgör din USD300K av intäkter från tolv månader omfattas av granskning och verifiering av Microsoft och du kan uppmanas att ange ytterligare information. Kravet på USD300K intäkt beräknas utifrån moln intäkterna och kommer att utesluta beständig program vara i CSP.|
+|**Intäkts krav**|Måste uppfylla minst USD300K i Cloud Solution Provider-programmets årliga intäkter under de närmast föregående tolv månaderna som en indirekt åter försäljare. Partner kan granska sina efterföljande tolv månaders intäkter på Partner Center.<br/>Den försäljning som utgör en USD300K som slutar på tolv månader kan granskas och verifieras av Microsoft och du kan uppmanas att ange ytterligare information. Kravet på USD300K intäkt beräknas utifrån moln intäkterna och kommer att utesluta beständig program vara i CSP.|
+|**Kund reskontra** |Organisationens infrastruktur på plats för att hantera fakturering och etablering av kunder.|
+|**Rekommendation**|             |
 |**Hanterad tjänst**   |Minst en hanterad tjänst, IP-tjänst eller kund lösnings program. Läs mer om att lägga till [hanterade tjänster](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
-|**Kund reskontra** |Organisationens infrastruktur på plats för att hantera fakturering och etablering av kunder.
 
 ### <a name="verify-direct-bill-eligibility"></a>Verifiera direkt fakturerings berättigande
 
-Om du inte redan har gjort det granskar du minimi kraven ovan för att se till att du kan uppfylla dem och fyller sedan i [enkäten för Cloud Solution Provider](https://partner.microsoft.com/cloud-solution-provider/assessment).
-
-Vi använder dina svar på frågorna i formuläret för att hjälpa oss att avgöra om du är berättigad till registrering i CSP-programmet som en direkt fakturerings partner.
+När du har kontrollerat att du uppfyller minimi kraven för att registrera dig som en direkt fakturerings partner kan du fortsätta till [registrerings formuläret](https://partner.microsoft.com/pcv/register/joinnow/enrollmentwelcome/Reseller/migrate?cloudInstance=Global).
 
 När vi har kontrollerat att ditt företag uppfyller kraven för behörighet att registrera sig som en direkt fakturerings partner, och du har slutfört registrerings programmet, granskar vi och kontrollerar den företags information som du har angett i registrerings processen. Som en del av den här recensionen kontrollerar vi ditt företags kredit. Vi meddelar dig via e-post när företaget har godkänt kredit kontrollen.
-
 >[!IMPORTANT]
 >Att kontrol lera företagets kredit kan ta flera dagar eller mer att slutföra. Under den här tiden är det viktigt att du inte köper en Microsoft Support-plan. Du bör bara köpa en Support plan från Microsoft när vi har informerat dig om att du har gått igenom kredit kontrollen.
 
