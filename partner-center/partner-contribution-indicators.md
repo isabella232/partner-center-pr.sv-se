@@ -1,7 +1,7 @@
 ---
 title: Bidrags indikatorer för partner
 ms.topic: article
-ms.date: 09/16/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lär dig mer om sju partner bidrags indikatorer (PCI) som visar hur du gör med Dynamics 365 kund engagemang eller Dynamics 365 ekonomi och åtgärder.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 198e73432bd4ed14aa56a2df9bd7f43af6e12cbd
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: e5e3c0ad1a1abae49b05394d569b67840a01ecca
+ms.sourcegitcommit: fc4d94b2a9575808745f8fb8c7ee5ae88be6803c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532004"
+ms.lasthandoff: 11/04/2020
+ms.locfileid: "93344399"
 ---
 # <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>Partner bidrags indikatorer (PCI) visar partner påverkan på sju viktiga mått för kund framgångar
 
@@ -89,7 +89,7 @@ Varje indikator ger resultat som läggs till i summan. Här är de maximala poä
 |Kunden lyckades – månatlig aktiv användar tillväxt  | 25 punkter |
 
 Följande bild ger en snabb och visuell referens.
-:::image type="content" source="images/pci/perfnew.png" alt-text="Visar PCI-poängen för att uppnå silver-eller guld kompetens." border="false":::
+:::image type="content" source="images/pci/perfnew.png" alt-text="Visar ett diagram med maximalt antal tillåtna Poäng för var och en av sju partner bidrags indikatorer (PCI)." border="false":::
 
 ## <a name="thresholds-for-each-pci-metric"></a>Tröskelvärden för varje PCI-mått
 
@@ -111,8 +111,8 @@ Mer information finns i följande tabeller:
 | PCI-mått | Prestanda indikator: netto nya intäkter | Prestanda indikator: nya kunder lägger till | Funktions indikator: funktionella konsulter | Funktions indikator: funktionell konsult tillväxt | Funktions indikator: utvecklare | Lyckad kund indikator: nya stora distributioner | Lyckad kund indikator: månatlig aktiv användar tillväxt |
 |---|---|---|---|---|---|---|---|
 | **Maximalt antal punkter** | 10 punkter | 10 punkter | 15 punkter | 15 punkter | 5 punkter | 20 punkter | 25 punkter |
-| **Utifrån** | $300 000 | 10 punkter | 10 punkter | *\* Se Obs!* | 5 punkter | 5 punkter | 25 % |
-| **Länder** | $150 000 | 5 punkter | 5 punkter |*\* Se Obs!* | 2 punkter | 1 punkt | 25 % |
+| **Utifrån** | $300 000 | 10 | 10 | *\* Se Obs!* | 5 | 5 | 25 % |
+| **Länder** | $150 000 | 5  | 5  |*\* Se Obs!* | 2 | 1 | 25 % |
 
 *\* Obs! tillväxt målen varierar beroende på antalet bas linje konsulter. Se [tabell 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) för tillväxt mål.*
 
@@ -122,8 +122,8 @@ Mer information finns i följande tabeller:
 | PCI-mått | Prestanda indikator: netto nya intäkter | Prestanda indikator: nya kunder lägger till | Funktions indikator: funktionella konsulter | Funktions indikator: funktionell konsult tillväxt | Funktions indikator: utvecklare | Lyckad kund indikator: nya stora distributioner | Lyckad kund indikator: månatlig aktiv användar tillväxt |
 |---|---|---|---|---|---|---|---|
 | **Maximalt antal punkter** | 10 punkter | 10 punkter | 15 punkter | 15 punkter | 5 punkter | 20 punkter | 25 punkter |
-| **Utifrån** | $300 000 | 3 punkter | 15 punkter | *\* Se Obs!* | 5 punkter | 3 punkter | 25 % |
-| **Länder** | $150 000 | 1 punkt | 5 punkter |*\* Se Obs!* | 2 punkter | 1 punkt | 25 % |
+| **Utifrån** | $300 000 | 3 | 15 | *\* Se Obs!* | 5  | 3 | 25 % |
+| **Länder** | $150 000 | 1 | 5 |*\* Se Obs!* | 2 | 1 | 25 % |
 
 *\* Obs! tillväxt målen varierar beroende på antalet bas linje konsulter. Se [tabell 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) för tillväxt mål.*
 
@@ -300,12 +300,12 @@ Följ dessa steg om du vill visa ett diagram över bidrags indikatorer för part
 
 1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard).
 
-2. Välj **CSP** på navigerings menyn och välj sedan **partner bidrags indikatorer** . 
+2. Välj **CSP** på navigerings menyn och välj sedan **partner bidrags indikatorer**. 
 
    Du bör se instrument panelen för partner bidrags indikatorer med tillhör ande diagram.
 
    > [!NOTE]
-   > Om du inte ser de här alternativen kan du försöka välja **MPN** på menyn, följt av **samarbets indikatorer för partner** . Om du fortfarande inte kan hitta de här alternativen kanske du inte har tilldelats rätt användar roll i Partner Center. Kontakta din partner Center Global admin eller MPN partner admin om du behöver hjälp.
+   > Om du inte ser de här alternativen kan du försöka välja **MPN** på menyn, följt av **samarbets indikatorer för partner**. Om du fortfarande inte kan hitta de här alternativen kanske du inte har tilldelats rätt användar roll i Partner Center. Kontakta din partner Center Global admin eller MPN partner admin om du behöver hjälp.
 
 ### <a name="read-the-charts"></a>Läs diagrammen
 
@@ -313,7 +313,7 @@ Följande bild visar hur du läser några av områdena och diagrammen på sidan 
 
 Mer information om hur du använder det här avsnittet finns i samlingen med resurser och videor som finns i slutet av den här artikeln.
 
-   :::image type="content" source="images/pci/howto.png" alt-text="Visar PCI-poängen för att uppnå silver-eller guld kompetens.":::
+   :::image type="content" source="images/pci/howto.png" alt-text="Läsa diagrammet":::
 
 ## <a name="next-steps"></a>Nästa steg
 
