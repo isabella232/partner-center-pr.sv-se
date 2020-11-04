@@ -8,20 +8,25 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/27/2020
-ms.openlocfilehash: a96dd7849b678357aaa28b8a35f113ead6f807ab
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.date: 11/02/2020
+ms.openlocfilehash: 1d514dd64cdb4dc3e7c599472a851b6877048568
+ms.sourcegitcommit: 04472887a8ea145b95c2774da06fc749ed8129de
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133022"
+ms.lasthandoff: 11/04/2020
+ms.locfileid: "93327251"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
 Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här informationen regelbundet så återkom ofta!
 
-| **Kategori** | **Meddelanden oktober 2020** | **Meddelande** |
+| **Kategori** | **Meddelanden november 2020** | **Meddelande** |
 |---------|:---------|:---------|
+|Erbjudanden/marknader|[Windows 10 Education-uppgraderingen är nu tillgänglig för kvalificerade CSP Education-kunder](2020-november.md#4)|2 november|
+|Erbjudanden/marknader|[Uppdaterad digital CSP-upplevelse (Cloud Solution Provider) är nu tillgänglig Uppdateringar av prislistan för programvaruprenumerationer i Cloud Solution Provider (CSP) oktober 2020](2020-november.md#3)|2 november|
+|Erbjudanden/marknader|[Uppdateringar av prislistan för programvaruprenumerationer i Cloud Solution Provider (CSP) oktober 2020 ](2020-november.md#2)|2 november|
+|Erbjudanden/marknader|[Introducerar en prestandastandard för direkta faktureringspartnerkrav i molnlösningsleverantörsprogrammet](2020-november.md#1)|2 november|
+| **Kategori** | **Meddelanden oktober 2020** | **Datum** |
 |Funktioner|[Funktionsuppdateringar för prenumerationer på Windows Server-programvara](2020-october.md#17)|29 oktober|
 |Funktioner|[Windows 10 Education-uppgraderingen är nu tillgänglig för kvalificerade CSP Education-kunder](2020-october.md#16)|28 oktober|
 |Funktioner|[Uppdaterad digital CSP-upplevelse (Cloud Solution Provider) är nu tillgänglig](2020-october.md#15)|28 oktober|
