@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 6707ede563d07b6b96d2133bd75f8fbd53531875
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 4839fbd6fac5f84e5a2ebc40d1f7f48da6114113
+ms.sourcegitcommit: 92be474db61cc12f684850c2a7a8a8bdd5c93f97
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133039"
+ms.lasthandoff: 11/05/2020
+ms.locfileid: "93363630"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Tilldela användare roller och behörigheter för ett företags användare som behöver arbeta i Partner Center
 
@@ -127,21 +127,38 @@ Dessa roller är inte Azure Active Directory roller. Dessa roller hanterar före
 ||* Skapa support biljetter för partner Center
 ||* Visa partner support biljetter som du skapar
 
+## <a name="manage-referrals"></a>Hantera referenser
 
-## <a name="manage-referrals"></a>Hantera referenser 
+> [!Note]
+>Användar rollen nya hänvisningar kommer att vara tillgänglig från 16 november 2020. Befintliga hänvisnings administratörer behåller sin hänvisnings administratörs roll som är begränsad till hela företaget.
 
-|**Role**|**Det här kan du göra**|**Läs mer**|
-|-----------------------------|:------------------------|---|
-|Referens administratör       |* Visa, skapa och hantera affärs profiler|[Hantera olika leads som kundfrågor, marknadskvalificerade leads och säljkvalificerade leads](manage-leads.md)
-||* Ta emot och hantera hänvisningar
-||* Visa, skapa och hantera samförsäljnings referenser|
-||* Visa, skapa och hantera partner tjänst begär Anden
-|Företags profil administratör   |* Visa, skapa och hantera affärs profil |[Skapa en affärsprofil](create-a-marketing-profile.md)
-||* Visa, skapa och hantera partner tjänst begär Anden
-||* Skapa support biljetter för partner Center
-||* Visa partner support biljetter som du skapar|
+|**Role** | **Det här kan du göra**|**Läs mer**
+|------------------------------|:-------------------------|---|
+|Referens administratör|Skapa och hantera allt under fliken referenser i Partner Center|[Hantera säljsamarbete](manage-co-sell-opportunities.md)
+||    Kan visa och redigera alla samförsäljnings möjligheter och leads
+||    Kan tilldela team medlemmar för ett erbjudande
+||    Kan visa och redigera affärs profiler
+||    Kan visa och registrera erbjudanden för affärs möjligheter som marker ATS som vunna och berättigade för avtals registrering
+||    Kan skapa och Visa support biljetter
+|Referent användare|Skapa och hantera samförsäljnings möjligheter endast om de ingår i teamet |[Hantera säljsamarbete](manage-co-sell-opportunities.md)
+||    Kan skapa samförsäljnings möjligheter för de platser där de tilldelas rollen.
+||    Kan visa och registrera erbjudanden för affärs möjligheter som är markerade som vunna och berättigade till avtals registrering om de är team medlemmar.
+||    Kan skapa och Visa support biljetter
+|Företags profil administratör|Skapa och hantera affärs profiler | [Hantera affärs profiler](create-a-marketing-profile.md)
+||    Kan skapa och Visa support biljetter
 
-## <a name="manage-incentives"></a>Hantera incitament 
+Tillsammans med användar rollen nya referenser presenterar vi också plats omfånget för avtal. I tabellen nedan förklaras hur du får åtkomst baserat på platsen.
+
+|**Omfång** | **Det här kan du göra** |
+|------------------------------|:-------------------------|
+|Hela företaget | Både administratörer och användare har åtkomst till att skapa avtal för alla platser i företaget|
+|| Referens administratören har åtkomst till att visa och redigera alla avtal |
+|| Hänvisnings användare har behörighet att visa och redigera alla avtal endast om de ingår i teamet |
+|En eller flera platser | Både administratörer och användare har åtkomst till att skapa avtal för den tilldelade platsen i företaget|
+|| Referens administratören har åtkomst till att visa och redigera alla avtal som hör till tilldelade platser|
+|| Hänvisnings användare har behörighet att visa och redigera alla avtal som hör till de tilldelade platserna, om de ingår i teamet|
+
+## <a name="manage-incentives"></a>Hantera incitament
 
 |**Role** | **Det här kan du göra**|**Läs mer**
 |------------------------------|:-------------------------|---|

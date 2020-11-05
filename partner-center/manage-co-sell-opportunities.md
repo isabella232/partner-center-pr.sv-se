@@ -1,5 +1,5 @@
 ---
-title: Hantera samförsäljnings möjligheter
+title: Hantera säljsamarbete
 ms.topic: article
 ms.date: 06/02/2020
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b8d849de6987e107c327d2fd2dcf892fae5a3f3
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 9eb158163bb1a7ea5da0bc834e6bf7623f32a4dd
+ms.sourcegitcommit: 92be474db61cc12f684850c2a7a8a8bdd5c93f97
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532117"
+ms.lasthandoff: 11/05/2020
+ms.locfileid: "93363647"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Hantera samförsäljnings möjligheter i Partner Center
 
@@ -63,7 +63,7 @@ Du kan skapa tre typer av affärs möjligheter.
 
 Välj kunden för det här specifika erbjudandet. Ange deras plats och börja skriva namnet. Den automatiska rekommendationen kommer att börja Visa rekommendationer baserat på Sök villkoren. Eftersom många företag har fler än en affär senhet på samma plats kan du se flera resultat. Om du inte är säker på vilken du ska välja kan du kontrol lera att D-U-N-S-numret tillhör kunden. Se till att välja den exakta matchningen för kunden som du arbetar med.
 
-När du klickar på **Välj kund** uppmanas du att ange namn, telefonnummer och e-postadress för den person som är din huvudsakliga kontakt punkt för det här erbjudandet. Den här informationen är valfri och krävs endast om du planerar att bjuda in Microsoft Sales för att hjälpa dig med ärendet. Välj **Nästa** .
+När du klickar på **Välj kund** uppmanas du att ange namn, telefonnummer och e-postadress för den person som är din huvudsakliga kontakt punkt för det här erbjudandet. Den här informationen är valfri och krävs endast om du planerar att bjuda in Microsoft Sales för att hjälpa dig med ärendet. Välj **Nästa**.
 
 > [!IMPORTANT]
 > Se till att du har fått kund medgivande för att tillhandahålla sina kontakt uppgifter till Microsoft för erbjudandet. Microsoft kan använda den här informationen för att kontakta kunden direkt.
@@ -75,6 +75,7 @@ Ange information om det aktuella erbjudandet. Fälten som definieras nedan kan �
 | **Fältnamn** | **Obligatorisk/valfri** | **Detaljer** |
 |-------------|--------|-------|
 |**Avtals namn** | Obligatorisk | Det egna namnet för att identifiera ditt avtal vid ett senare tillfälle. |
+|**Plats**| Obligatorisk | MPN plats omfattning för referensen. Hänvisnings användare med denna plats omfattning kan visa hänvisningarna om de ingår i teamet. Hänvisnings administratörer och referens administratörer med global omfattning kan se hänvisningarna oavsett var de befinner sig. Platsen kan inte redige ras efter att hänvisningen har skapats.|
 |**Uppskattat värde** | Obligatorisk | Värdet för affären baserat på den information som är tillgänglig när du skapar affären.|
 |**Beräknat stängnings datum**| Obligatorisk| Det datum då du förväntar dig att avsluta affären med kunden. |
 |**CRM-ID**| Valfritt | Tagga affären med ID för affärs möjligheten i respektive CRM for Tracking-syfte.|
@@ -134,21 +135,21 @@ I det här steget kan du, om du har fått en ny samförsäljnings affärs möjli
 
 - **Acceptera:** Ange ett namn för affären, redigera det uppskattade värdet för avtal och beräknad inköps tidsram utifrån din granskning. När du har upprättat kontakten med kunden bör du ange information i fältet **anteckningar** och förklara mer om vad kunden söker efter. Du kan också ange ditt CRM-ID här (endast för din referens), ID för marknadsförings kampanj som ledde till respektive affärs möjlighet och lägga till kontakter från företaget som kommer att arbeta med detta avtal.
 
-- När du är klar väljer du **Nästa** . Vi flyttar hänvisningen till **Nästa steg** , vilket innebär att du planerar att aktivt engagera kunden för att möta behovet. Vi använder också den här informationen för att hjälpa dig att hitta liknande avtal i framtiden.
+- När du är klar väljer du **Nästa**. Vi flyttar hänvisningen till **Nästa steg** , vilket innebär att du planerar att aktivt engagera kunden för att möta behovet. Vi använder också den här informationen för att hjälpa dig att hitta liknande avtal i framtiden.
 
-- **Neka** : Välj anledningen till att du tackar nej till affären och Lägg till eventuella anteckningar som du vill ta med och välj sedan **Stäng affär** . Vi kommer att arkivera det som **avböjt** och meddela antingen Microsoft eller partnern som skickade dig den här möjligheten.
+- **Neka** : Välj anledningen till att du tackar nej till affären och Lägg till eventuella anteckningar som du vill ta med och välj sedan **Stäng affär**. Vi kommer att arkivera det som **avböjt** och meddela antingen Microsoft eller partnern som skickade dig den här möjligheten.
 
 - Om du inte svarar inom den tilldelade tiden (14 dagar) kommer vi att arkivera det som **upphört att gälla** och meddela antingen Microsoft eller partnern som skickade dig den här möjligheten.
 
 ### <a name="accepted-stage"></a>Godkänt steg
 
-Arbeta för att avsluta affären med kunden. Om du vill ändra någon information som du har angett för en godkänd referens väljer du **Redigera** . Du kan sedan uppdatera avtals namnet, det beräknade inköps datumet, det beräknade värdet, noteringarna, CRM-ID: t och/eller marknadsförings kampanjens ID.  Du kan också välja **Lägg till ditt team** för att ange namn, telefonnummer och e-postadresser till alla ytterligare personer som arbetar med erbjudandet. Lösningar kan också redige ras baserat på kund behovet.
+Arbeta för att avsluta affären med kunden. Om du vill ändra någon information som du har angett för en godkänd referens väljer du **Redigera**. Du kan sedan uppdatera avtals namnet, det beräknade inköps datumet, det beräknade värdet, noteringarna, CRM-ID: t och/eller marknadsförings kampanjens ID.  Du kan också välja **Lägg till ditt team** för att ange namn, telefonnummer och e-postadresser till alla ytterligare personer som arbetar med erbjudandet. Lösningar kan också redige ras baserat på kund behovet.
 
 Alla avtal som du har skapat är i godkända steg som standard.
 
 När du har börjat arbeta med affären kan du ange information om förloppet genom att markera försäljnings stegen i avtals livs cykeln. Det finns fyra steg i avtals livs cykeln, förutom första godkännandet eller skapandet och de slutliga vunna och förlorade stegen som anges nedan. Att tillhandahålla dessa uppgifter är valfritt, men vi rekommenderar att du delar dessa för att få en bättre hjälp från Microsoft Sales-representanter i en samförsäljnings avtal.
 
-:::image type="content" source="images/pscmigration/salesstage.png" alt-text="Bild som visar den avtals livs cykel där försäljnings fasen kan markeras.&quot;:::
+:::image type="content" source="images/pscmigration/salesstage.png" alt-text="Bild som visar den avtals livs cykel där försäljnings fasen kan markeras.":::
 
 > [!Note]
 > Försäljnings faserna varierar om affären är en lösning för utvärdering av lösningar. Att markera försäljnings Stadium är också **obligatoriskt** för lösnings utvärdering. Knappen **vunnen** aktive ras endast när alla försäljnings faser har marker ATS som slutförda av partnern.
@@ -182,43 +183,9 @@ Ett avtal kommer endast att vara berättigat till avtals registrering om det upp
 > [!Important]
 > Registrera bara avtalet om ditt företags namn och den berättigade berättigade lösningen i affären är tydligt angivna i kontraktet med kunden.
 
-Om affären är berättigad till avtals registrering kommer ytterligare mil stolpar att läggas till i livs cykeln för det avtal som kallas &quot;avtals registrering" som visas nedan.
+Om affären är berättigad till avtals registrering kommer ytterligare mil stolpar att läggas till i livs cykeln för det avtal som kallas "avtals registrering" som visas nedan.
 
-:::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Bild som visar den avtals livs cykel där försäljnings fasen kan markeras.&quot;:::
-
-> [!Note]
-> Försäljnings faserna varierar om affären är en lösning för utvärdering av lösningar. Att markera försäljnings Stadium är också **obligatoriskt** för lösnings utvärdering. Knappen **vunnen** aktive ras endast när alla försäljnings faser har marker ATS som slutförda av partnern.
-
-Nedan visas en tabell över försäljnings faserna och motsvarande procent satser för andra avtal än lösnings utvärderingar som definieras i Microsoft Partner Center-referral system.
-
-|**Namn på försäljnings fas**|**Försäljnings fas i procent**|**Definition av försäljnings fas**|
-|:----|:-----|:-----|
-|Skapad|10 %|Skapa ett utgående erbjudande.|
-|Har godkänts|10 %|Acceptera ett ingående avtal.|
-|Kvalificerad|20%|Kvalificera värdet för affären och kund kraven innan du fortsätter.|
-|Utifrån|40 %|Utveckla avtalet ytterligare för att förstå de detaljerade kraven för att antingen förbereda en POC eller andra artefakter som krävs för ett formellt förslag.|
-|Föreslagen|60 %|Gör ett formellt förslag till kunden utifrån deras krav.|
-|Förhandlade|80 %|Förhandla de sista villkoren baserat på förslaget för att komma till det slutliga stadiet – vinna eller förlora erbjudandet.|
-|Vunna|100 %|Markera affären som vunnen.|
-
-När du är klar kan du utföra en av de två åtgärderna, som markerar affären som **vunnen** eller **förlorad** för att rapportera resultatet.
-
-> [!Note]
-> Företaget behöver inte följa samma försäljnings steg. På så sätt kan Partner Center identifiera försäljnings stegen i avtal och automatiskt mappa de olika faserna av ditt företag till dessa standard steg om du skickar dessa värden med hjälp av API: et. Om du använder Partner Center UX används procent andelar som visas i tabellen för att markera försäljnings faserna.
-
-> [!Important]
-> När du har valt vunnen kommer du att uppmanas att ange ytterligare information för att registrera ditt erbjudande. Microsoft granskar den information som du uppger här och kan begära ytterligare information under gransknings processen. Mer information finns i [Registrera dina avtal](register-deals.md).
-
-Ett avtal kommer endast att vara berättigat till avtals registrering om det uppfyller kriterierna nedan.
-
-1. Microsoft bjuds in till erbjudandet.
-2. Microsoft har antingen accepterat inbjudan eller markerat erbjudandet som vunnit. Du kan förstå Microsofts status genom att titta på Microsofts kort under din avtals information.
-3. Det finns en incitaments berättigad lösning i affären.
-
-> [!Important]
-> Registrera bara avtalet om ditt företags namn och den berättigade berättigade lösningen i affären är tydligt angivna i kontraktet med kunden.
-
-Om affären är berättigad till avtals registrering kommer ytterligare mil stolpar att läggas till i livs cykeln för det avtal som kallas &quot;avtals registrering":::
+:::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Bild som visar avtals livs cykeln, den plats från vilken avtals registreringen kan initieras.":::
 
 Du kan välja att registrera affären direkt efter att du har markerat affären som vunnen eller vid ett senare tillfälle genom att klicka på Lägg till i avtals livs cykeln **Registrera nu** .
 När affären har registrerats kan du se förloppet för den avtalade verifieringen från samma livs cykel. Om det krävs någon åtgärd från ditt företag visas lämpliga fel i vyn avtals livs cykel. Affären hamnar i stängt tillstånd när godkännande valideringen är klar.
@@ -251,88 +218,20 @@ Nej, det går inte att ändra avtal när de flyttas till ett Terminal-tillstånd
 
 Detta kan inträffa om ditt företag har flera klienter kopplade till samma MPN-konto. Gå till konto inställningarna för partner Center och kontrol lera de innehavare som är associerade med kontot. Skapa sedan ett support ärende med begäran om att länka klient organisationerna. Ange klient-ID: t dit du loggade in i support ärendet.
 
-:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Bild som visar den avtals livs cykel där försäljnings fasen kan markeras.&quot;:::
-
-> [!Note]
-> Försäljnings faserna varierar om affären är en lösning för utvärdering av lösningar. Att markera försäljnings Stadium är också **obligatoriskt** för lösnings utvärdering. Knappen **vunnen** aktive ras endast när alla försäljnings faser har marker ATS som slutförda av partnern.
-
-Nedan visas en tabell över försäljnings faserna och motsvarande procent satser för andra avtal än lösnings utvärderingar som definieras i Microsoft Partner Center-referral system.
-
-|**Namn på försäljnings fas**|**Försäljnings fas i procent**|**Definition av försäljnings fas**|
-|:----|:-----|:-----|
-|Skapad|10 %|Skapa ett utgående erbjudande.|
-|Har godkänts|10 %|Acceptera ett ingående avtal.|
-|Kvalificerad|20%|Kvalificera värdet för affären och kund kraven innan du fortsätter.|
-|Utifrån|40 %|Utveckla avtalet ytterligare för att förstå de detaljerade kraven för att antingen förbereda en POC eller andra artefakter som krävs för ett formellt förslag.|
-|Föreslagen|60 %|Gör ett formellt förslag till kunden utifrån deras krav.|
-|Förhandlade|80 %|Förhandla de sista villkoren baserat på förslaget för att komma till det slutliga stadiet – vinna eller förlora erbjudandet.|
-|Vunna|100 %|Markera affären som vunnen.|
-
-När du är klar kan du utföra en av de två åtgärderna, som markerar affären som **vunnen** eller **förlorad** för att rapportera resultatet.
-
-> [!Note]
-> Företaget behöver inte följa samma försäljnings steg. På så sätt kan Partner Center identifiera försäljnings stegen i avtal och automatiskt mappa de olika faserna av ditt företag till dessa standard steg om du skickar dessa värden med hjälp av API: et. Om du använder Partner Center UX används procent andelar som visas i tabellen för att markera försäljnings faserna.
-
-> [!Important]
-> När du har valt vunnen kommer du att uppmanas att ange ytterligare information för att registrera ditt erbjudande. Microsoft granskar den information som du uppger här och kan begära ytterligare information under gransknings processen. Mer information finns i [Registrera dina avtal](register-deals.md).
-
-Ett avtal kommer endast att vara berättigat till avtals registrering om det uppfyller kriterierna nedan.
-
-1. Microsoft bjuds in till erbjudandet.
-2. Microsoft har antingen accepterat inbjudan eller markerat erbjudandet som vunnit. Du kan förstå Microsofts status genom att titta på Microsofts kort under din avtals information.
-3. Det finns en incitaments berättigad lösning i affären.
-
-> [!Important]
-> Registrera bara avtalet om ditt företags namn och den berättigade berättigade lösningen i affären är tydligt angivna i kontraktet med kunden.
-
-Om affären är berättigad till avtals registrering kommer ytterligare mil stolpar att läggas till i livs cykeln för det avtal som kallas &quot;avtals registrering":::
+:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Bild som visar konto inställningarna där klient information kan hittas.":::
 
 **Q3. Vem får ett e-postmeddelande från Partner Center?**
 
 I arbets flödet nedan förklaras hur e-postmeddelandena skickas till partner från partner Centers hänvisnings system för nya partners inkommande hänvisningar.
 
-:::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Bild som visar den avtals livs cykel där försäljnings fasen kan markeras.&quot;:::
-
-> [!Note]
-> Försäljnings faserna varierar om affären är en lösning för utvärdering av lösningar. Att markera försäljnings Stadium är också **obligatoriskt** för lösnings utvärdering. Knappen **vunnen** aktive ras endast när alla försäljnings faser har marker ATS som slutförda av partnern.
-
-Nedan visas en tabell över försäljnings faserna och motsvarande procent satser för andra avtal än lösnings utvärderingar som definieras i Microsoft Partner Center-referral system.
-
-|**Namn på försäljnings fas**|**Försäljnings fas i procent**|**Definition av försäljnings fas**|
-|:----|:-----|:-----|
-|Skapad|10 %|Skapa ett utgående erbjudande.|
-|Har godkänts|10 %|Acceptera ett ingående avtal.|
-|Kvalificerad|20%|Kvalificera värdet för affären och kund kraven innan du fortsätter.|
-|Utifrån|40 %|Utveckla avtalet ytterligare för att förstå de detaljerade kraven för att antingen förbereda en POC eller andra artefakter som krävs för ett formellt förslag.|
-|Föreslagen|60 %|Gör ett formellt förslag till kunden utifrån deras krav.|
-|Förhandlade|80 %|Förhandla de sista villkoren baserat på förslaget för att komma till det slutliga stadiet – vinna eller förlora erbjudandet.|
-|Vunna|100 %|Markera affären som vunnen.|
-
-När du är klar kan du utföra en av de två åtgärderna, som markerar affären som **vunnen** eller **förlorad** för att rapportera resultatet.
-
-> [!Note]
-> Företaget behöver inte följa samma försäljnings steg. På så sätt kan Partner Center identifiera försäljnings stegen i avtal och automatiskt mappa de olika faserna av ditt företag till dessa standard steg om du skickar dessa värden med hjälp av API: et. Om du använder Partner Center UX används procent andelar som visas i tabellen för att markera försäljnings faserna.
-
-> [!Important]
-> När du har valt vunnen kommer du att uppmanas att ange ytterligare information för att registrera ditt erbjudande. Microsoft granskar den information som du uppger här och kan begära ytterligare information under gransknings processen. Mer information finns i [Registrera dina avtal](register-deals.md).
-
-Ett avtal kommer endast att vara berättigat till avtals registrering om det uppfyller kriterierna nedan.
-
-1. Microsoft bjuds in till erbjudandet.
-2. Microsoft har antingen accepterat inbjudan eller markerat erbjudandet som vunnit. Du kan förstå Microsofts status genom att titta på Microsofts kort under din avtals information.
-3. Det finns en incitaments berättigad lösning i affären.
-
-> [!Important]
-> Registrera bara avtalet om ditt företags namn och den berättigade berättigade lösningen i affären är tydligt angivna i kontraktet med kunden.
-
-Om affären är berättigad till avtals registrering kommer ytterligare mil stolpar att läggas till i livs cykeln för det avtal som kallas &quot;avtals registrering":::
+:::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Bild som visar logiken för hur e-postmeddelanden skickas till partner för nya inkommande hänvisningar.":::
 
 ## <a name="getting-more-co-sell-opportunities"></a>Få fler samförsäljnings möjligheter
 
 Här följer några tips som hjälper dig att få fler samförsäljnings möjligheter som passar din verksamhet:
 
-- **Svara snabbt på avtal** . När du svarar i tid för inkommande begär Anden, ökar vi din synlighet i framtida Sök resultat i partner gradvis. Se till att ditt team svarar snabbt med din avsikt.
-- **Var choosy med de avtal som du accepterar** . Vi övervakar de typer av avtal som du accepterar och avvisar och använder den här informationen för att hjälpa dig att hitta liknande avtal. Att acceptera avtal som inte är bra får inte förbättra dina Sök Resultat och kan påverka kvaliteten på de affärs möjligheter som du får.
+- **Svara snabbt på avtal**. När du svarar i tid för inkommande begär Anden, ökar vi din synlighet i framtida Sök resultat i partner gradvis. Se till att ditt team svarar snabbt med din avsikt.
+- **Var choosy med de avtal som du accepterar**. Vi övervakar de typer av avtal som du accepterar och avvisar och använder den här informationen för att hjälpa dig att hitta liknande avtal. Att acceptera avtal som inte är bra får inte förbättra dina Sök Resultat och kan påverka kvaliteten på de affärs möjligheter som du får.
 - **Rapportera tillbaka de uppskattade avtals storlekarna, UB-datum och slut status för dina avtal** (vunna eller förlorade). Vi använder den här informationen för att fortsätta att ge dig kvalitets hänvisningar.
 
 ## <a name="next-steps"></a>Nästa steg
