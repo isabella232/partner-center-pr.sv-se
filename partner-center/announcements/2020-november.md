@@ -1,5 +1,5 @@
 ---
-title: November 2020-meddelanden
+title: Meddelanden november 2020
 description: November 2020-meddelanden för Microsoft Partner Center, inklusive nya funktioner, kampanjer, erbjudanden, marknader eller ändringar av befintliga erbjudanden.
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,20 +9,111 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 2f82caf36171a1757d8e1f2d016c82f7f2dedecf
-ms.sourcegitcommit: 04472887a8ea145b95c2774da06fc749ed8129de
+ms.openlocfilehash: 2d4fc0aef733b8086e550695e2b2e4065930a4a1
+ms.sourcegitcommit: af2787e516ecfb5f6cf1acdb8179f2337bfa856a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "93328056"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "94333903"
 ---
-# <a name="november-2020-announcements"></a>November 2020-meddelanden
+# <a name="november-2020-announcements"></a>Meddelanden november 2020
 
 Den här sidan innehåller information om Microsoft Partner Center-meddelanden för november 2020.
 
 2020-meddelanden: [april](2020-april.md)  |  [maj](2020-may.md)den  |  [juni](2020-june.md)  |  [juli](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md)  |  [October](2020-October.md) | November
 
 ______________
+
+## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>Expandera innehåll för kommersiell licensierings partner i galleriet över drift beredskap
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2020-11-5
+- Funktioner
+
+### <a name="summary"></a>Sammanfattning
+
+Från och med 5 2020 november kommer marknadsförings partner innehåll från partner University också att vara tillgängligt i galleriet för drift beredskap.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Kommersiella partner
+
+### <a name="details"></a>Information
+
+Från och med den 5 november 2020 kommer marknadsförings partner innehåll från partner University också att vara tillgängligt i galleriet för drift beredskap. Detta konsoliderar den befintliga drifts-och kommersiella licensierings partnerns lanserings innehåll i galleriet över drift beredskap med vårt beredskaps innehåll från partner University. Det ger därmed partner en mer sömlös beredskaps upplevelse. Följande samlingar har lagts till i galleriet för drift beredskap:
+
+- [Microsoft Azure-erbjudanden och licensiering](https://partner.microsoft.com/resources/collection/microsoft-azure-offers-and-licensing#/)
+- [Kommersiell licensiering – anrop till CSP Spotlight](https://partner.microsoft.com/resources/collection/commercial-licensing-csp-spotlight-call#/)
+- [Kommersiell licensiering – samtal om licensierings uppdateringar](https://partner.microsoft.com/resources/collection/commercial-licensing-licensing-updates-call#/)
+
+### <a name="next-steps"></a>Nästa steg
+
+Dela den här informationen med alla lämpliga kontakter i din organisation.
+
+________________
+
+## <a name="microsoft-teams-rooms-premium-sku-launch"></a><a name="5"></a>Microsoft Teams-rum Premium SKU-lansering
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2020-11-3
+- Erbjudanden/marknader
+
+### <a name="summary"></a>Sammanfattning
+
+Microsoft Teams-avdelningarna Premium SKU för Microsoft Teams via Cloud Solution Provider (CSP)-programmet är nu tillgängligt.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Alla partner som går via program varan för Cloud Solution Provider (CSP)
+
+### <a name="details"></a>Information
+
+De nya Microsoft Teams-avdelningarna Premium SKU för Microsoft Teams-rum är nu tillgängliga för kunder som köper CSP genom dig på USD50 per enhet per månad. Microsoft Teams-tjänsten Premium SKU är ett alternativ till Microsoft Teams-avdelningarna standard SKU (tidigare kallad Meeting Room-licens). Den här SKU: n innehåller allt i standard erbjudandet, till exempel de licenser som krävs för Microsoft Teams, Skype för företag – Online och Intune-hantering. Erbjudandet möjliggör också telefon system – nödvändigt för PSTN-integrering (Public Switched Phone Network), och ljud konferens, där det är möjligt. 
+
+Med Premium-erbjudandet har kunder till gång till de nyligen utgivna tjänsterna för Microsoft Teams-tjänster, där experter hanterar hanteringen och driften av mötes rummen för kundens räkning. Den här molnbaserade tjänsten för hantering och övervakning håller på att hålla enheterna i Microsoft Teams och deras kring utrustning aktuella och säkra. De övervakas också proaktivt och hanteras, vilket upprätthåller en miljö som är optimerad för en fantastisk upplevelse.
+
+#### <a name="released-at-launch"></a>Lanserades vid lanseringen
+
+   |****|**Microsoft Teams-enheter standard USD15-enhet per månad**|**Microsoft Teams-rum Premium USD50-enhet per månad**|
+   |-------------------|:------|:------|
+   |Skype för företag|Ja| |
+   |Microsoft Teams|Ja|Ja|
+   |Telefon system|Ja|Ja|
+   |Ljud konferens|Ja|Ja|
+   |Microsoft Intune|Ja|Ja|
+   | |Microsoft Teams-standarder USD15 per enhet per månad|Microsoft Teams-rum Premium-USD50 per enhet per månad|
+   |Microsoft Teams rum hanterade tjänster| |Ja|
+   |Tillgänglighet i hela världen|Ja|På utvalda marknader|
+
+#### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft Teams rum hanterade tjänster
+
+- Proaktiv hantering: 24x7x365 hantering av dina rums system inklusive uppdatering, konfigurations hantering med mera.
+• Övervakning i real tid och rotor Saks analys: övervakning och identifiering med dirigerad incident hanterings svar som drivs av Microsoft i samordning med kunden, vid behov. Med mobilappen kan du hålla koll på igång.
+- Hanterade uppdateringar: hantering och leverans av program, Windows KB och uppdateringar av inbyggd program vara.
+- Skydd mot säkerhetshot: skydd mot säkerhetshot via Microsoft Defender Avancerat skydd.
+- Kund support: 24x7x365 Ticket-support via vårt dedikerade Service Operations Center med hjälp av incident reparation för icke-automatiserade fall. Detaljerad rollbaserad åtkomst kontroll.
+- Insikter och rekommendationer: aggregerade insikter över kunder och rapporter om rums hälsa, inventering, användning, onlinemöten och incident trender.
+
+#### <a name="offer-details"></a>Erbjudande information
+
+   |**Erbjudandets namn**|**Erbjudande-ID**|**Material-ID**|
+   |-------------------|:------|:------|
+   |Teams rum Premium|5db9aa31-f039-4740-b122-a33514e4c492|6XB-00007|
+   |Teams rum Premium (USA och kan)|03070f91-cc77-4c2e-b269-4a214b3698ab|6XB-00008|
+   |Teams rum Premium för lärare|d0c9a9a9-c9b6-41d7-9148-b60115c36c95|6Y5-00005|
+
+### <a name="next-steps"></a>Nästa steg
+
+- Bekanta dig med det nya erbjudandet och dess geografiska tillgänglighet. besök vanliga [frågor och svar]().
+- Bekanta dig med det nya erbjudandet och dess geografiska tillgänglighet. 
+- Lär dig mer om Microsoft-rummen och relaterade erbjudanden på [Microsoft team-rum](https://rooms.microsoft.com/).
+- Använd [team partner guiden](https://aka.ms/teamscallingmeetingsguide) för att utveckla din praxis med team Mötes rum och skapa ett erbjudande för en medförsäljning.
+- Läs [vanliga frågor och svar om Microsoft Teams](https://aka.ms/PartnerMTRFAQ) för att lära dig mer om produkt lösningen och tjänsterna. 
+- Dela den här informationen med alla lämpliga kontakter i din organisation och förstå de merförsäljning och globala Sälj möjligheterna.
+
+________________
 
 ## <a name="new-microsoft-teams-advanced-communications-skus-for-government-community-cloud-gcc-coming-soon"></a><a name="4"></a>Nya Microsoft Teams Advanced Communications SKU: er för statligt community-moln (GCC) kommer snart
 
