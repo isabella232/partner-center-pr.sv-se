@@ -1,18 +1,17 @@
 ---
 title: Skapa och hantera privat Azure Marketplace i Azure Portal
 description: Lär dig mer om att skapa och hantera privata Azure Marketplace (för hands version) i Azure Portal.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.prod: marketplace-customer
 ms.topic: article
 author: keferna
 ms.author: keferna
 ms.date: 09/18/2020
-ms.openlocfilehash: c0a395a7c5bfe926cdc56d7386aaaebb0305fb68
-ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
+ms.openlocfilehash: 31179d9fd4068348e689d8b426b7a0307112501a
+ms.sourcegitcommit: af4726de429d2b9b7c3656d5cac7d542b0d4af74
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "92531485"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "93414866"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Skapa och hantera privat Azure Marketplace (för hands version) i Azure Portal
 
@@ -129,38 +128,38 @@ Mer information om de cmdletar som finns i AZ. Portal PowerShell-modulen finns [
 
 ## <a name="create-private-azure-marketplace"></a>Skapa en privat Azure Marketplace
 
-1. Logga in på [Azure-portalen](https://portal.azure.com/).
-2. Välj **alla tjänster** och sedan **Marketplace** .
+1. Logga in i [Azure-portalen](https://portal.azure.com/).
+2. Välj **alla tjänster** och sedan **Marketplace**.
 
    :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="Azure Portal huvud fönstret.":::
 
 3. Välj **privat Marketplace** från alternativen till vänster.
 
-    :::image type="content" source="media/private-azure/private-marketplace.png" alt-text="Azure Portal huvud fönstret.":::
+    :::image type="content" source="media/private-azure/private-marketplace.png" alt-text="Välja Privat Marketplace i Azure Portal huvud fönstret.":::
 
 4. Välj **Kom igång** för att skapa en privat Azure Marketplace (du behöver bara göra det här en gång).
 
-    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Azure Portal huvud fönstret.":::
+    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Välj kom igång i Azure Portal huvud fönstret.":::
 
     Om den privata Azure Marketplace redan finns för den här klienten, är **Hantera Marketplace** valt som standard.
 
 5. När du är klar har du en tom och inaktive rad privat Azure Marketplace.
 
-    :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="Azure Portal huvud fönstret.":::
+    :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="Den tomma privata Azure Marketplace-skärmen.":::
 
 ## <a name="add-items-from-gallery"></a>Lägg till objekt från galleriet
 
 Ett objekt är en kombination av ett erbjudande och en plan. Du kan söka efter och lägga till objekt på sidan Hantera Marketplace.
 
-1. Välj **Lägg till objekt** .
+1. Välj **Lägg till objekt**.
 
 2. Bläddra i **galleriet** eller Använd Sök fältet för att hitta det objekt som du vill använda.
 
-    :::image type="content" source="media/private-azure/marketplace-gallery.png" alt-text="Azure Portal huvud fönstret.":::
+    :::image type="content" source="media/private-azure/marketplace-gallery.png" alt-text="Bläddra i galleriet eller Använd Sök fältet.":::
 
 3. Som standard kommer alla aktuella planer att läggas till i listan över tillåtna när du lägger till ett nytt erbjudande. Om du vill ändra plan urvalet innan du lägger till de valda objekten väljer du den nedrullningsbara menyn i erbjudande panelen och uppdaterar de nödvändiga planerna.
 
-    :::image type="content" source="media/private-azure/update-plans-400.png" alt-text="Azure Portal huvud fönstret.":::
+    :::image type="content" source="media/private-azure/update-plans-400.png" alt-text="Uppdatera nödvändiga planer.":::
 
 4. Välj **klar** längst ned till vänster när du har gjort dina val.
 
@@ -174,22 +173,22 @@ Du kan redigera ett objekts planer på sidan Hantera Marketplace.
 1. I kolumnen **planer** granskar du de tillgängliga planerna från List menyn för det objektet.
 2. Markera eller avmarkera kryss rutorna för att välja vilka planer som ska vara tillgängliga för dina användare.
 
-    :::image type="content" source="media/private-azure/edit-items.png" alt-text="Azure Portal huvud fönstret.":::
+    :::image type="content" source="media/private-azure/edit-items.png" alt-text="Markera eller avmarkera kryss rutan för det begärda objektet.":::
 
 > [!NOTE]
 > Varje erbjudande måste ha minst en plan vald för att uppdateringen ska ske. Ta bort alla planer som är relaterade till ett erbjudande genom att ta bort hela erbjudandet (se nästa avsnitt).
 
 ## <a name="delete-offers"></a>Ta bort erbjudanden
 
-På sidan Hantera marknads plats markerar du kryss rutan bredvid namnet på erbjudandet (se skärmen ovan) och väljer **ta bort objekt** .
+På sidan Hantera marknads plats markerar du kryss rutan bredvid namnet på erbjudandet (se skärmen ovan) och väljer **ta bort objekt**.
 
 ## <a name="enabledisable-private-azure-marketplace"></a>Aktivera/inaktivera privat Azure Marketplace
 
 På sidan Hantera Marketplace visas en av dessa banderoller som visar det aktuella läget för privat Azure Marketplace:
 
-:::image type="content" source="media/private-azure/state-disable.png" alt-text="Azure Portal huvud fönstret.":::
+:::image type="content" source="media/private-azure/state-disable.png" alt-text="Inaktivera State-banderoll":::
 
-:::image type="content" source="media/private-azure/state-enable.png" alt-text="Azure Portal huvud fönstret.":::
+:::image type="content" source="media/private-azure/state-enable.png" alt-text="Aktivera State-banderoll":::
 
 Du kan aktivera eller inaktivera privat Azure Marketplace efter behov.
 
@@ -205,7 +204,7 @@ När privat Azure Marketplace är aktiverat ser användarna vilka planer som Mar
 
 Användare kan filtrera mellan erbjudanden som är och inte tillåtna:
 
-:::image type="content" source="media/private-azure/filter-option.png" alt-text="Azure Portal huvud fönstret.":::
+:::image type="content" source="media/private-azure/filter-option.png" alt-text="Filtrerings alternativ.":::
 
 ## <a name="buy-or-deploy-in-private-azure-marketplace"></a>Köp eller distribuera i privat Azure Marketplace
 
@@ -213,15 +212,15 @@ Användare kan filtrera mellan erbjudanden som är och inte tillåtna:
 
 - När en användare väljer en tillåten plan aktive ras knappen **skapa** :
 
-    :::image type="content" source="media/private-azure/button-create-enabled.png" alt-text="Azure Portal huvud fönstret.":::
+    :::image type="content" source="media/private-azure/button-create-enabled.png" alt-text="Erbjudande banderoll med en plan kan skapas.":::
 
 - När en användare väljer en icke-tillåten plan, visar en banderoll om att planen inte är tillåten och knappen **skapa** är inaktive rad.
 
-   :::image type="content" source="media/private-azure/button-create-disabled.png" alt-text="Azure Portal huvud fönstret.":::
+   :::image type="content" source="media/private-azure/button-create-disabled.png" alt-text="Erbjudande banderollen det går inte att skapa en plan.":::
 
 - Om ett val av produkt plan inte visas på sidan produkt information men administratören har godkänt en eller flera planer, visar en banderoll vilka planer som är tillåtna och knappen **skapa** är aktive rad:
 
-    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="Azure Portal huvud fönstret.":::
+    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="Erbjudande banderoll som visar att en plan kan skapas och visar tillgängliga planer.":::
 
 ## <a name="contact-support"></a>Kontakta supporten
 
