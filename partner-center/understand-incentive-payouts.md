@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: ca06b4574d90993f62e6d8d018657e6bd81eb5e1
-ms.sourcegitcommit: 398e8361ae4b43a22d4015ad71bb724b2bf1b1a9
+ms.openlocfilehash: 8dcd559e9e52c246b720678f05dec9128a6ca366
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "93244071"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360062"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Visa, hantera och exportera information om stimulans programmet
 
@@ -39,8 +39,8 @@ Använd dessa sidor om du vill visa information om dina tidigare, väntande och 
 
 Du kan få åtkomst till stimulans information på några sätt från Partner Center- [instrument panelen](https://partner.microsoft.com/dashboard):
 
-- Välj **incitament** på menyn till vänster. Flera alternativ visas under **incitament** , inklusive **Översikt** . Utforska de här alternativen för att lära dig status för stimulans program, incitaments betalningar, intäkter och anspråk.
-- Välj **Money** -ikonen (utbetalning) i det övre högra hörnet. Du kan sedan välja andra alternativ, till exempel **transaktions historik** , **betalningar** , **Exportera data** eller **rapporten Office Sales** .
+- Välj **incitament** på menyn till vänster. Flera alternativ visas under **incitament** , inklusive **Översikt**. Utforska de här alternativen för att lära dig status för stimulans program, incitaments betalningar, intäkter och anspråk.
+- Välj **Money** -ikonen (utbetalning) i det övre högra hörnet. Du kan sedan välja andra alternativ, till exempel **transaktions historik** , **betalningar** , **Exportera data** eller **rapporten Office Sales**.
 
 Följande sidor beskrivs här:
 
@@ -70,7 +70,7 @@ Så här öppnar du **Översikt över mina incitament** :
    - Om du vill gruppera efter plats väljer du fliken **efter plats** ovanför tabellen.
    - Om du vill visa mer information om registreringar i en specifik grupp väljer du symbolen för» i slutet av en rad. Den här ikonen expanderar vyn.
 
-4. Om du behöver göra något mer för att registrera dig i ett program visas den här informationen i kolumnen **Status** . I så fall kan du välja symbolen » för att läsa mer om vad du behöver göra.
+4. Om du behöver göra något mer för att registrera dig i ett program visas den här informationen i kolumnen **Status**. I så fall kan du välja symbolen » för att läsa mer om vad du behöver göra.
 
 >[!NOTE]
 >I följande tabell finns mer information om de olika registrerings tillstånd som visas i kolumnen **status** .
@@ -95,7 +95,7 @@ Summorna på den här sidan representerar alla MPN-ID: n som du använder. Du ka
 |Nästa beräknade betalning      |Den enda nästa betalningen kommer till dig (även om andra kommer snart) i amerikanska dollar.                                     |
 |Senaste betalning           |Mängden (i USD), program namn och MPN-ID för din senaste betalning.                                      |
 |Betalningar per källa       |Antalet betalningar, i USD, som representeras av programmet under de senaste 12 månaderna.                                      |
-|Betalningar                       |Välj **betald** eller **väntande** och sortera sedan som du vill. Om du vill ha mer information om en speciell betalning väljer du **Visa** . Om du vill ladda ned en kopia av betalnings remitterings instruktionen väljer du **Hämta** . Transaktions historik data kan ta upp till 24 timmar innan de visas, så du kan inte se de associerade intäkterna direkt.  |
+|Betalningar                       |Välj **betald** eller **väntande** och sortera sedan som du vill. Om du vill ha mer information om en speciell betalning väljer du **Visa**. Om du vill ladda ned en kopia av betalnings remitterings instruktionen väljer du **Hämta**. Transaktions historik data kan ta upp till 24 timmar innan de visas, så du kan inte se de associerade intäkterna direkt.  |
 
 Om du vill exportera någon av data på den här sidan väljer du **Exportera** och följer sedan anvisningarna på sidan Exportera data.
 
@@ -139,7 +139,7 @@ Om du inte känner till referens numret för Channel-incitament (CI) kan du hitt
 
 - [Instrument panelen för partner Center](https://partner.microsoft.com/dashboard/) (inloggning krävs) på både den **betalda** fliken och den **väntande** fliken.  
 
-- Din betalnings rapport, som finns på [export sidan för betalnings hämtning](/partner-center/understand-incentive-payouts#payment-download-export). 
+- Din betalnings rapport, som finns på [export sidan för betalnings hämtning](#payment-download-export). 
 
 #### <a name="if-your-submission-is-rejected"></a>Om ditt bidrag avvisas
 
@@ -167,7 +167,7 @@ Sidan transaktions historik innehåller nu en tabell som visar de uppskattade be
 
 Den uppskattade betalnings månaden beräknas utifrån program konfigurations regler och tids linjer och bearbetas i nästa/kommande betalnings cykel.
 
-Den uppskattade betalnings månaden är för närvarande tillgänglig för alla typer av typer förutom samop, som visas som **ej tillämpligt** . Den uppskattade betalnings månaden visas som **ej tillgänglig** för intäkter före den 1 juli 2020.
+Den uppskattade betalnings månaden är för närvarande tillgänglig för alla typer av typer förutom samop, som visas som **ej tillämpligt**. Den uppskattade betalnings månaden visas som **ej tillgänglig** för intäkter före den 1 juli 2020.
 
 #### <a name="estimated-payment-month-example"></a>Exempel på Beräknad betalnings månad
 
@@ -195,18 +195,18 @@ Observera att din betalning endast lanseras under den beräknade månaden om pro
 
 |**Status för att tjäna** |**Orsak** |**Krävs partner åtgärd?**       |
 |------------------|:-------------------------------------|:-------------------------------------|
-|Obearbetade        | Betalningen är berättigad till betalning. Den förblir i det här läget för en kylnings period som definieras i program guiden för stimulans programmet.       |No        |
-|Planer      |Betalnings order som genererats som väntande interna granskningar innan betalningen bearbetas.       |No       |
+|Obearbetade        | Betalningen är berättigad till betalning. Den förblir i det här läget för en kylnings period som definieras i program guiden för stimulans programmet.       |Inga        |
+|Planer      |Betalnings order som genererats som väntande interna granskningar innan betalningen bearbetas.       |Inga       |
 |Väntande moms faktura      |Din moms faktura är ofullständig eller ogiltig.          |Du måste uppdatera din moms faktura innan du kan betala         |
 |Avvisad under granskning        |Betalningen avvisades under granskningen.          |Kontakta Microsoft support om du vill ha mer information         |
 |Misslyckad        |Betalningen misslyckades på grund av ett fel i Microsoft-systemet.         |Kontakta Microsoft support om du vill ha mer information         |
-|Pågår     |Betalningen pågår.         |No         |
-|Felaktig betalning        |Betalnings återkoppling pågår.          |No        |
-|Skickat        |Betalningen har skickats till din bank.          |No       |
-|Ombearbetning       |Ett Microsoft-systemfel påträffades under betalningen och ombearbetas.           |No         |
-|Reversed        |Betalningen återfördes av banken och skickas igen vid nästa betalnings cykel.          |No        |
+|Pågår     |Betalningen pågår.         |Inga         |
+|Felaktig betalning        |Betalnings återkoppling pågår.          |Inga        |
+|Skickat        |Betalningen har skickats till din bank.          |Inga       |
+|Ombearbetning       |Ett Microsoft-systemfel påträffades under betalningen och ombearbetas.           |Inga         |
+|Reversed        |Betalningen återfördes av banken och skickas igen vid nästa betalnings cykel.          |Inga        |
 |Avvisad moms faktura       |Din moms faktura avvisades under granskningen. Alla väntande betalningar stoppas tills moms granskningen är klar.          |Kontakta Microsoft support om du vill ha mer information         |
-|Moms faktura under granskning        |Din moms faktura granskas. Din betalning frigörs när moms fakturan har godkänts.           |No        |
+|Moms faktura under granskning        |Din moms faktura granskas. Din betalning frigörs när moms fakturan har godkänts.           |Inga        |
 |Avslagen        |Betalningen avvisades av din bank.           |Kontakta din bank om du vill ha mer information.  |
 
 ## <a name="export-data-page"></a>Sidan exportera data
@@ -331,7 +331,7 @@ Rapporten transaktions sammanfattning innehåller transaktions information om sa
 ### <a name="download-the-transaction-summary-report"></a>Ladda ned rapporten transaktions Sammanfattning
 
 1. På sidan **stimulans översikt** väljer du ikonen **Money** (utbetalning) i det övre högra hörnet.
-2. Välj **Exportera data** .
+2. Välj **Exportera data**.
 3. Välj fliken **transaktions Sammanfattning** .
 4. Välj lämpliga filter om du vill se vilka program och funktioner som är berättigade till sammanlagda intäkter. Om inga data visas är dina program inte berättigade till aggregerade spaken.
 5. Klicka på **Starta hämtning**   för att exportera rapporten.  

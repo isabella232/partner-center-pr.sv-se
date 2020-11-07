@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1a4bb8eb1d3dbd24f4e18e96fb7b67c6e7332186
-ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
+ms.openlocfilehash: a65dcceea688094089ad06dacfd2abf13173ca5c
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "93028794"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360011"
 ---
 # <a name="upgrade-windows-10-home-customers-to-windows-10-education"></a>Uppgradera Windows 10 Home-kunder till Windows 10-utbildning
 
@@ -49,9 +49,9 @@ Partner bör skapa en support förfrågan och hämta nycklar från supporten. Pa
 
 2. Från menyn Partner Center väljer du **kunder** och väljer sedan den kund som behöver support.
 
-3. Välj **tjänst hantering** och välj **tjänst begär Anden** .
+3. Välj **tjänst hantering** och välj **tjänst begär Anden**.
 
-4. Välj **ny begäran** och välj sedan **Office 365 och Enterprise Mobility Suite** .
+4. Välj **ny begäran** och välj sedan **Office 365 och Enterprise Mobility Suite**.
 
 5. Du kommer till Office 365-portalen där du behöver logga in med dina autentiseringsuppgifter för ditt partner Center.
 
@@ -63,9 +63,9 @@ Partner bör skapa en support förfrågan och hämta nycklar från supporten. Pa
 - **Beskrivning:** Begär [INSERT Number]-nycklar för att aktivera uppgradering till Windows 10-utbildning. (Observera att antalet nycklar som begärs inte får vara större än dina prenumerations licenser för Microsoft 365 a3/A5 eller Windows 10 Enterprise a3/A5.) Kundens prenumerations-ID [INSERT Customer Subscription ID GUID för sina Microsoft 365 a3/A5 eller Windows 10 Enterprise a3/A5-prenumeration.]
 - **Kontakt nummer:** Detta kommer att vara förifyllt. Granska för att bekräfta eller uppdatera.
 - **E-post:** Detta kommer att vara förifyllt och ska vara det e-postmeddelande som du använder som administratör för Microsoft-portalen (endast global administratör eller fakturerings administratör).
-- **Önskad kontakt metod** : Välj **telefon** eller **Schemalägg en motringning** .
+- **Önskad kontakt metod** : Välj **telefon** eller **Schemalägg en motringning**.
 
-8. Välj **kontakta mig** . Den förväntade vänte tiden anges i fönstret **behöver hjälp?** .
+8. Välj **kontakta mig**. Den förväntade vänte tiden anges i fönstret **behöver hjälp?** .
 
 9. **Microsoft Support** granskar begäran för att säkerställa att kunden kvalificerar sig. När begäran har godkänts skickar han ett e-postmeddelande till partnern som innehåller instruktioner om hur de kommer åt nycklarna.
 
@@ -75,7 +75,7 @@ Partner bör skapa en support förfrågan och hämta nycklar från supporten. Pa
 
 För att uppgradera Windows 10 Home med en produkt nyckel för Windows 10 Pro-utbildning måste kunden göra följande:  
 
-1. Välj **Start** och välj sedan **inställningar > uppdatering & säkerhet > aktivering** . Välj **ändra produkt nyckel** och ange sedan produkt nyckeln 25-Character Windows 10 Pro. Välj **Nästa** för att starta uppgraderingen till Windows 10 Pro.
+1. Välj **Start** och välj sedan **inställningar > uppdatering & säkerhet > aktivering**. Välj **ändra produkt nyckel** och ange sedan produkt nyckeln 25-Character Windows 10 Pro. Välj **Nästa** för att starta uppgraderingen till Windows 10 Pro.
 
 2. När enheten är ansluten till klient domänen (via AAD) uppgraderas enheten automatiskt till Windows 10-utbildning.  
 
@@ -100,4 +100,4 @@ Uppgraderingen av Windows 10-utbildningen baseras på kundens aktiva Microsoft 3
 Ta reda på mer genom att följa dessa länkar:
 
 - [Windows Eduction-funktioner](https://www.microsoft.com/education/products/windows/features)
-- [Windows Education Hub](https://docs.microsoft.com/education/windows/)
+- [Windows Education Hub](/education/windows/)
