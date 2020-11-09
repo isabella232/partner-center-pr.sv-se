@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d990a2cb4dcb69dfc76e8a4f0d40fd4912b4f8a0
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 6bf3e3af8e0d1d87a63f86e892d8bddcd74b6460
+ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92531989"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "94381417"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Felsöka konto inställningar eller problem med MPN förnyelse
 
@@ -38,7 +38,7 @@ Du kan inte ändra informationen på den här skärmen. Detta är avsiktligt och
 Välj **Godkänn** och **Fortsätt** för att fortsätta.
 
 
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Om IT-avdelningen har inaktiverat **registrering för partner Center** .
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Om IT-avdelningen har inaktiverat **registrering för partner Center**.
 
 Du ser det här meddelandet eftersom virusbaserade användare är inaktiverade, eller om du har inaktiverat virus registrering på Azure AD-klienten. Den globala administratören för ditt Azure AD-konto kan aktivera nödvändiga funktioner genom att köra följande PowerShell-kommando:
 
@@ -50,7 +50,7 @@ Mer information finns i självbetjänings [registrering](/azure/active-directory
 
 Om du har glömt ditt lösen ord väljer du länken **kan inte komma åt ditt konto?** på inloggnings sidan. Med det här alternativet kan du återställa ditt lösen ord eller be den globala administratören att tilldela nya autentiseringsuppgifter.
 
-## <a name="on-the-tell-us-about-your-company-scree-you-receive-a-something-went-wrong-error"></a>I "berätta för oss om ditt företag"-Scree får du ett fel meddelande om att något har gått fel
+## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>På skärmen "berätta för oss om ditt företag" visas fel meddelandet "något gick fel"
 
 Det här fel meddelandet visas vanligt vis om du oavsiktligt använder specialtecken, mellanslag eller landskod i företagets telefonnummer. Värdet som anges i fältet telefonnummer får bara innehålla högst 10 tecken.
 
