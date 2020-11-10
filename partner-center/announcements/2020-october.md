@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/30/2020
-ms.openlocfilehash: ae27f193839d5456457afc923fd7834a8ff106f9
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 37b8072742db0a9f8eb6bda3b74bf2db66b32e3d
+ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132835"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "94433316"
 ---
 # <a name="october-2020-announcements"></a>Meddelanden oktober 2020
 
@@ -23,6 +23,27 @@ Den här sidan innehåller information om Microsoft Partner Center-meddelanden f
 2020-meddelanden: [mars](2020-march.md)  |  [april](2020-april.md)den  |  [May](2020-may.md)  |  [juni](2020-june.md)  |  [juli](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md) | Oktober
 
 ______________
+
+## <a name="correction-to-calling-plan-expansion"></a><a name="18"></a>Korrigering för att anropa plan expansion 
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2020-10-29
+- Erbjudanden/marknader
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Direkta leverantörer, indirekta leverantörer och indirekta åter försäljare
+
+### <a name="details"></a>Information
+
+Den 1 oktober 2020 presenterade vi [tillgängligheten för Office 365-samtals plan på nya marknader](2020-september.md#2). Detta meddelande är inte rätt och 240 minuter per användare per månad för inhemska planer är inte tillgängliga som tidigare nämnts. 
+
+
+Information om hur du anropar planer finns i [produkt dokumentationen](/microsoftteams/calling-plan-landing-page)för Microsoft Teams.
+
+
+________________
 
 ## <a name="windows-server-software-subscriptions-feature-updates"></a><a name="17"></a>Uppdatering av funktions uppdateringar för Windows Server-programprenumerationer
 
@@ -174,7 +195,7 @@ Idag delar vi några kommande ändringar i kraven för direkta fakturerings part
 
 Först **presenterar vi en prestanda standard som en del av kraven för direkt fakturerings partner**. Partner som vill registrera sig som direkt fakturerings partner i Cloud Solution Provider-programmet måste uppfylla minst USD300K i moln lösnings leverantörens program intäkt under de 12 månaderna innan det krävs förnyelse datumet för [Support kontraktet](https://partner.microsoft.com/support/partnersupport) .
 
-Den här prestanda standarden börjar gälla i januari 2021 för aktuella direkt fakturerings partner och du måste uppfylla kraven från ditt support avtal för din Support plan.
+Den här resultatgränsen börjar gälla i januari 2021 för nuvarande direktfaktureringspartner, och du måste uppfylla kravet senast på förnyelsedatumet för ditt partnersupportavtal.
 
 Om du inte kan eller föredrar att inte uppfylla de uppdaterade kraven för direkt fakturerings partner måste du registrera om som en indirekt åter försäljare i Cloud Solution Provider-programmet. 
 
@@ -265,7 +286,7 @@ ________________
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-10-14
-- Funktion
+- Kapacitet
  
 ### <a name="summary"></a>Sammanfattning 
 Uppdateringar till guiden för att verifiera MPA.
@@ -379,7 +400,7 @@ ________________
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-10-07
-- Funktion
+- Kapacitet
  
 ### <a name="summary"></a>Sammanfattning 
 

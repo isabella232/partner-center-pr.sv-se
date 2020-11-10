@@ -9,16 +9,16 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 4213658fc131d83d6c0640552d862f4de9b5ad86
-ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
+ms.openlocfilehash: 81f64e117f9e0a4abc817746d11dc9acae887577
+ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92531841"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "94433355"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Överföra en kunds Azure plan-prenumeration till en annan partner
 
-## <a name="applies-to"></a>Gäller för
+**Lämpliga roller**
 
 - Partner i CSP-programmet (Cloud Solution Provider)
 
@@ -67,9 +67,9 @@ Kunden måste också identifiera de prenumerationer som de vill överföra från
 Den framtida partnern av prenumerationen måste slutföra ett överförings förfrågnings formulär från Partner Center för att begära en prenumerations överföring:
 
 1.  Från menyn Partner Center väljer du **kunder** och väljer sedan den kund som du vill slutföra ett överförings förfrågnings formulär för.
-2.  Från menyn kund väljer du **prenumerationer** .
+2.  Från menyn kund väljer du **prenumerationer**.
 3.  Välj avsnittet **överförings förfrågan** .
-4.  I **avsnittet överförings förfrågan** väljer du **Lägg till ny begäran** .
+4.  I **avsnittet överförings förfrågan** väljer du **Lägg till ny begäran**.
 
     :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="Avsnittet överföringar":::
 
@@ -77,17 +77,20 @@ Den framtida partnern av prenumerationen måste slutföra ett överförings för
 
 6.  Välj **skicka begäran**  >  **Skicka** överföring.
 
-    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Avsnittet överföringar":::
+    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Slutför formulär för överförings förfrågan":::
 
 7.  Granska bekräftelse av överförings förfrågan
 
-    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Avsnittet överföringar" går det inte att avbryta.
+    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Granska väntande överföring":::
+
+    >[!Note]
+    >Den framtida partnern kan avbryta överföringsbegäran genom att välja **Cancel Request** i det övre högra hörnet endast när status för överförings förfrågan är "väntar". När statusen för överförings förfrågan är "pågående" eller "slutförd" går det inte att avbryta.
 
 ## <a name="current-partner-tasks-to-be-completed"></a>Aktuella partner aktiviteter som ska slutföras
 
 Den aktuella partnerns administratörs agent för kunden får ett e-postmeddelande om att deras kund begär en överföring av sina prenumerationer:
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Avsnittet överföringar":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Genomgång":::
 
 Granska och Godkänn formuläret för överförings förfrågan från Partner Center för att slutföra prenumerations överföringen.
 
@@ -96,11 +99,11 @@ Granska och Godkänn formuläret för överförings förfrågan från Partner Ce
 
 1.  Välj **Granska överförings förfrågan** från e-postmeddelandet eller
 1.  Från menyn Partner Center väljer du **kunder** och väljer sedan den kund som en överföringsbegäran har skickats åt för.
-2.  Från menyn kund väljer du **prenumerationer** .
+2.  Från menyn kund väljer du **prenumerationer**.
 3.  Välj avsnittet **överförings förfrågan** .
 4.  Expandera överförings information genom att välja det valda **överföringsbegäran-ID: t** under **mottagna begär Anden**
 
-:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Avsnittet överföringar":::
+:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Begäran om käll gransknings överföring":::
 
 5.  Granska överförings förfrågan. Välj de begärda Azure-prenumerationerna som ska överföras.
 
@@ -111,7 +114,7 @@ Granska och Godkänn formuläret för överförings förfrågan från Partner Ce
 
 6.  Välj sedan **Godkänn och överför** för att slutföra överförings processen.
 
-:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Avsnittet överföringar":::
+:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Välj prenumerationer som ska överföras under dina Azure-planer":::
 
 7.  Visa bekräftelse av godkännande av överföring.
 
