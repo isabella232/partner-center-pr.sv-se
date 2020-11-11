@@ -338,9 +338,11 @@
         - name: Leta upp antal skrivbordsenheter och avgiftsnivå för ett avtal
           href: chip-locate-agreement.md
         - name: Berättigande till lösningsbedömning
-          href: chip-solution-assessment.md
+          href: chip-solutions-assessment-eligible.md
         - name: Betalningsstatus för lösningsbedömning
           href: chip-solution-assessment-payment.md
+        - name: Vanliga frågor och svar om lösningsbedömning
+          href: chip-faq.md
         - name: Problem med att komma åt CHIP
           href: chip-access-trouble.md
 - name: Fakturering och skatter
@@ -365,6 +367,10 @@
       href: daily-rated-usage-recon-files.md
     - name: Licensbaserade avstämningsfiler
       href: license-based-recon-files.md
+    - name: CSP-avstämningsfiler vid ett inköpstillfälle
+      href: modern-invoice-reconciliation-file.md
+    - name: Effektiv enhetsprisberäkning
+      href: effective-unit-price-calculation.md
     - name: Vanliga faktureringsscenarier
       href: common-billing-scenarios.md
       displayName: 'trial, subscription'
