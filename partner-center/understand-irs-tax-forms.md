@@ -1,19 +1,19 @@
 ---
-title: Förstå formulär för IRS-moms som utfärdats av Microsoft
+title: Om IRS-skatteformulär som utfärdats av Microsoft
 description: Lär dig mer om de skatte former som utfärdats av Microsoft, inklusive vem som tar emot dem och när de görs tillgängliga.
 ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 18ebd0a82802e26295ed985084585306da464079
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 5543ec62397a72a042c5aa64c6c8f77ce7286f4c
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92531952"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94487881"
 ---
-# <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Förstå formulär för IRS-moms som utfärdats av Microsoft
+# <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Om IRS-skatteformulär som utfärdats av Microsoft
 
 Du kan få ett eller flera skatte formulär från Microsoft varje år. Detta beror på din plats och den mängd av försäljning eller betalningar som du får. Microsoft måste utfärda dessa formulär och arkivera dem med Internal Revenue Service (IRS).
 
@@ -27,7 +27,7 @@ Den här artikeln förklarar mer om dessa formulär, inklusive vem som kommer at
 |1042-S | Relaterat till betalningar som har gjorts till dig som omfattas USA käll skatt | De utskrivna formulären kommer att postmarked den **15 mars** , och. pdf-kopior kommer att vara tillgängliga i Partner Center (i **partner Centers inställningar för utvecklare** under **utbetalningar och skatte >s betalning och skatte profiler** ) på samma gång  |
 
 > [!NOTE]
-> Adressen som vi använder på IRS skatte formulär kommer från adressen i din [moms profil](/azure/marketplace/marketplace-payout-account-setup). Om din adress har ändrats, se till att uppdatera adressen i din **avgifts profil** .
+> Adressen som vi använder på formulär för IRS-moms kommer från adressen i din skatte profil när du [ställer in ditt konto för utbetalning och skatte former](set-up-your-payout-account.md). Om din adress har ändrats, se till att uppdatera adressen i din **avgifts profil**.
 
 Skatte formulären kommer att skickas till dig från följande adresser:
 

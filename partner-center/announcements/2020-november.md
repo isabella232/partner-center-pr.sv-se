@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 2d4fc0aef733b8086e550695e2b2e4065930a4a1
-ms.sourcegitcommit: af2787e516ecfb5f6cf1acdb8179f2337bfa856a
+ms.openlocfilehash: 9702bef0a2fa753e37cfe305bc766ea64f0d0b3f
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "94333903"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488154"
 ---
 # <a name="november-2020-announcements"></a>Meddelanden november 2020
 
@@ -23,6 +23,56 @@ Den här sidan innehåller information om Microsoft Partner Center-meddelanden f
 2020-meddelanden: [april](2020-april.md)  |  [maj](2020-may.md)den  |  [juni](2020-june.md)  |  [juli](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md)  |  [October](2020-October.md) | November
 
 ______________
+
+
+## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Testning tillgänglig: API-uppdateringar och användar gränssnitts förbättringar i Partner Center för att kunna verifiera kund validerings processen
+
+### <a name="categories"></a>Kategorier
+
+- Datum 2020-11-10
+- Funktioner | & skala för enhets effektivitet
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Partner som säljer akademiska erbjudanden via Cloud Solution Provider (CSP)-programmet.
+
+### <a name="summary"></a>Sammanfattning
+
+Testning är nu tillgängligt för partner Center API-uppdateringar och UI-förbättringar för kund validerings processen för utbildning.
+
+### <a name="details"></a>Information
+
+Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för kund validering för att kunna använda akademiska erbjudanden i CSP-programmet. Som en del av detta presenterar vi våra API: er och användar gränssnitts förbättringar för partner Center under det andra kvartalet av detta räkenskapsår (FY21 Q2). De här förbättringarna lägger till klarhet och insyn i kund validerings processen, samt möjligheten att mata in mer exakta data, vilket ger bättre kund validering.
+
+**Förbättringar i Partner Center**
+
+- Nya API: er för att hämta och publicera kompetenser som stöd för korrekt data inmatning och förbättra kund validerings processen för utbildning av Microsoft.
+
+- UI-förbättringar för att stödja korrekt data inmatning och förbättra kund validerings processen för utbildning av Microsoft.
+
+**Test**
+
+För att få en bättre förståelse för de API: er och data som krävs för lyckad kund validering, kan partners testa dessa förbättringar från oktober 2020. Vi ger dig mer information om exakt tidpunkt och hur du deltar. De befintliga API: erna för partner Center kommer att dras tillbaka innan slutet av FY21 Q2. Vid detta tillfälle måste du ha övergått till de nya API: erna för partner Center.
+
+   - Testet är tillgängligt för partner test datumen är från 2 oktober till 2 december 2020. Partner som vill delta bör hämta kund test guiden för partner Center för att komma igång, hur du registrerar dig och vad som ska förväntas under test fasen.
+
+**Biblioteks-och Museum-kunder**
+
+Förutom dessa förbättringar är vi glada att kunna tillkännage att vi är i FY21 Q2 och vi kommer att erbjuda akademiska erbjudanden för biblioteks-och Museum-kunder, vilket innebär att de utbildnings kunder med vilka du kan använda Transact CSP-erbjudanden.
+
+Microsoft förbehåller sig rätten att granska statusen för alla kunder eller föreslagna kunder som en kvalificerad utbildnings användare. Mer information finns i [användar kraven för akademiska utbildningar](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) .
+
+## <a name="next-steps"></a>Nästa steg
+
+Granska det nya användar gränssnittet för partner Center och API-ändringar, samt test guiden i [partner Center-utbildning för kund validerings process förbättringar innehålls samling](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+
+• Registrera dig för att delta i testningen. (Mer information finns i [test guiden](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) .) 
+
+• Se till att organisationen är bekant med de [akademiska användar kraven för utbildning](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7). 
+
+• Dela den här informationen med lämpliga team i din organisation, tillsammans med dina åter försäljare för att hjälpa dem att förbereda för dessa ändringar.
+
+
 
 ## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>Expandera innehåll för kommersiell licensierings partner i galleriet över drift beredskap
 

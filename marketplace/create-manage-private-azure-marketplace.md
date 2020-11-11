@@ -3,15 +3,15 @@ title: Skapa och hantera privat Azure Marketplace i Azure Portal
 description: Lär dig mer om att skapa och hantera privata Azure Marketplace (för hands version) i Azure Portal.
 ms.prod: marketplace-customer
 ms.topic: article
-author: keferna
-ms.author: keferna
+author: msjogarrig
+ms.author: jogarrig
 ms.date: 09/18/2020
-ms.openlocfilehash: 31179d9fd4068348e689d8b426b7a0307112501a
-ms.sourcegitcommit: af4726de429d2b9b7c3656d5cac7d542b0d4af74
+ms.openlocfilehash: 1333bb2c8830cec83d7b7f05890af818d5c0ce5b
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "93414866"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94487711"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Skapa och hantera privat Azure Marketplace (för hands version) i Azure Portal
 
@@ -128,7 +128,7 @@ Mer information om de cmdletar som finns i AZ. Portal PowerShell-modulen finns [
 
 ## <a name="create-private-azure-marketplace"></a>Skapa en privat Azure Marketplace
 
-1. Logga in i [Azure-portalen](https://portal.azure.com/).
+1. Logga in på [Azure Portal](https://portal.azure.com/).
 2. Välj **alla tjänster** och sedan **Marketplace**.
 
    :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="Azure Portal huvud fönstret.":::

@@ -6,14 +6,14 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 05/04/2020
-ms.openlocfilehash: 161c524cb3c20b2d17e4bb265cc676acc1af2702
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 89b014b87dd37cc2d38a5931b2f5433394f369c9
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532009"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488205"
 ---
-# <a name="tax-details-for-commercial-marketplace-publishers"></a>Skatte information för kommersiella Marketplace-utgivare
+# <a name="tax-details-for-commercial-marketplace-publishers"></a>Skatteinformation för utgivare på kommersiell marknadsplats
 
 För att förstå dina skatte överväganden för pris val och skatte ansvar enligt [Microsoft Azure Marketplace utgivar avtal](https://go.microsoft.com/fwlink/p/?LinkID=699560) eller moderna publicerings avtal, se dina länder/regioner i tabellerna nedan.
 
@@ -269,7 +269,7 @@ Följande gäller endast för Azure Marketplace-utgivare, trots vad som strider 
 
 ## <a name="mixed-remittance-countriesregions-for-publishers"></a>Länder/regioner med blandad remittering för utgivare
 
-Vissa Microsoft-fakturerings partner kan samla in och betala försäljning, användning, varor och tjänster, mervärde eller liknande skatter, om det finns några, som är tillämpliga för kundernas förvärv av dina appar eller In-App produkter via butiken i de länder/regioner som anges nedan. De [rapporter](/azure/marketplace/payout-summary-overview) som Microsoft gör tillgängliga för dig kommer att identifiera de transaktioner för vilka en fakturerings partner har samlat in försäljning, användning, varor och tjänster, mervärde eller liknande skatter som gäller för kunders förvärv av dina appar eller In-App produkter via butiken. Förutom de transaktioner som beskrivs i denna rapportering kommer varken Microsoft eller dess fakturerings tjänst leverantörer att betala någon försäljning, användning, varor och tjänster, mervärde eller annan liknande skatt i samband med kundernas förvärv av dina appar eller In-App produkter i dessa länder/regioner. Du ansvarar för att granska rapporteringen till dig och fastställa och uppfylla dina skyldigheter, i förekommande fall, för att registrera, samla in och betala skatter i samband med transaktioner som rör dina appar eller In-App produkter.
+Vissa Microsoft-fakturerings partner kan samla in och betala försäljning, användning, varor och tjänster, mervärde eller liknande skatter, om det finns några, som är tillämpliga för kundernas förvärv av dina appar eller In-App produkter via butiken i de länder/regioner som anges nedan. Rapporterna i din [utbetalnings instruktion](payout-statement.md) som Microsoft gör tillgängliga för dig kommer att identifiera transaktioner för vilka en fakturerings partner har samlat in försäljning, användning, varor och tjänster, mervärde eller liknande skatter som gäller för kunders förvärv av dina appar eller In-App produkter via butiken. Förutom de transaktioner som beskrivs i denna rapportering kommer varken Microsoft eller dess fakturerings tjänst leverantörer att betala någon försäljning, användning, varor och tjänster, mervärde eller annan liknande skatt i samband med kundernas förvärv av dina appar eller In-App produkter i dessa länder/regioner. Du ansvarar för att granska rapporteringen till dig och fastställa och uppfylla dina skyldigheter, i förekommande fall, för att registrera, samla in och betala skatter i samband med transaktioner som rör dina appar eller In-App produkter.
 
 | Länder/regioner med blandad remittering |
 |------------------------------------|
@@ -289,4 +289,4 @@ Följande gäller endast för Azure Marketplace-utgivare:
 
 ## <a name="next-steps"></a>Nästa steg
 
-[Konfigurera utbetalningskonto och deklarationsblanketter](/azure/marketplace/marketplace-payout-account-setup)
+[Konfigurera utbetalningskonto och deklarationsblanketter](set-up-your-payout-account.md)
