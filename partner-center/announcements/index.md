@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 11/02/2020
-ms.openlocfilehash: bf5204acd9783081ec91f3372cde0269891ff9de
-ms.sourcegitcommit: af2787e516ecfb5f6cf1acdb8179f2337bfa856a
+ms.date: 11/10/2020
+ms.openlocfilehash: 4afc08135ee84792d62391251fdb87ec0ddd9ce6
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "94333920"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488143"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -22,6 +22,7 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 
 | **Kategori** | **Meddelanden november 2020** | **Meddelande** |
 |---------|:---------|:---------|
+|Funktioner|[Tillgängliga tester: Uppdateringar av Partnercenter-API och förbättringar av användargränssnittet (UI) för valideringsprocessen för utbildningskunder](2020-november.md#7)|10 november|
 |Funktioner|[Expandera partnerinnehåll för kommersiell licensiering i galleriet för driftberedskap](2020-november.md#6)|2 november|
 |Erbjudanden/marknader|[Lansering av Premium-SKU för Microsoft Teams Rum](2020-november.md#5)|2 november|
 |Erbjudanden/marknader|[Nya SKU:er för avancerad kommunikation i Microsoft Teams för Government Community Cloud (GCC) kommer snart](2020-november.md#4)|2 november|
@@ -29,6 +30,7 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 |Erbjudanden/marknader|[Vi lanserar Microsoft 365 Business Voice för ideella organisationer](2020-november.md#2)|2 november|
 |Erbjudanden/marknader|[Molnlösningsleverantörskampanj för Microsoft 365 Business Voice är nu tillgänglig](2020-november.md#1)|2 november|
 | **Kategori** | **Meddelanden oktober 2020** | **Datum** |
+|Erbjudanden/marknader|[Korrigering för expansion av samtalsabonnemang](2020-october.md#18)|29 oktober|
 |Funktioner|[Funktionsuppdateringar för prenumerationer på Windows Server-programvara](2020-october.md#17)|29 oktober|
 |Funktioner|[Windows 10 Education-uppgraderingen är nu tillgänglig för kvalificerade CSP Education-kunder](2020-october.md#16)|28 oktober|
 |Funktioner|[Uppdaterad digital CSP-upplevelse (Cloud Solution Provider) är nu tillgänglig](2020-october.md#15)|28 oktober|
