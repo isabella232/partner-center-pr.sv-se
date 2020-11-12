@@ -4,15 +4,15 @@ description: Få svar på vanliga frågor om utbetalningar i den kommersiella ma
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
-author: keferna
-ms.author: keferna
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 09/11/2020
-ms.openlocfilehash: 44bd7f488e3d4e79c45cb2746c7e2a6da449a310
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 5775eb497940870344e0d3da85def7c3e717c65f
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532068"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532029"
 ---
 # <a name="common-questions-about-commercial-marketplace-payouts"></a>Vanliga frågor om utbetalningar av kommersiella marknads platser
 
@@ -71,7 +71,7 @@ Använd AssetID, Ordernr och rad objekt-ID som visas i historik rapporten för u
 
 
 #### <a name="how-do-i-set-my-account-to-not-receive-payment"></a>Vill du Hur gör jag för att ange att mitt konto inte ska ta emot betalning?
-Du kan lagra betalningar i [utbetalnings profil](https://partner.microsoft.com/dashboard/commercial-marketplace/overview). kontrol lera bara **Håll** . Microsoft kommer att betala till dig tills du släpper upp spärren.
+Du kan lagra betalningar i [utbetalnings profil](https://partner.microsoft.com/dashboard/commercial-marketplace/overview). kontrol lera bara **Håll**. Microsoft kommer att betala till dig tills du släpper upp spärren.
 
 #### <a name="why-do-i-receive-in-a-different-currency-than-the-purchase-currency"></a>Varför får jag betalningar i en annan valuta än inköpsvalutan?
 
@@ -111,7 +111,7 @@ Källskatt gäller för amerikanska utgivare som har skickat in ett W-9-formulä
 #### <a name="how-do-i-access-a-payout-statement"></a>Hur får jag åtkomst till ett utbetalningsutdrag?
 
 1. Kontrollera dina roller. Du måste ha rollen *finansiell bidragsgivare* eller *kontoägare* för att få åtkomst till utbetalningsutdrag.
-2. I det övre högra navigerings fönstret väljer du **utbetalnings** ikonen för att Visa utbetalnings instruktionen. Välj mellan **transaktions historik** , **betalning** och **hämtning** .
+2. I det övre högra navigerings fönstret väljer du **utbetalnings** ikonen för att Visa utbetalnings instruktionen. Välj mellan **transaktions historik** , **betalning** och **hämtning**.
 
 **Mer läsning** : [utbetalnings roller och behörigheter](payout-statement.md#roles-and-permissions), [utbetalnings instruktioner](payout-statement.md) 
 

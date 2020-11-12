@@ -4,15 +4,15 @@ description: Lär dig mer om utbetalnings instruktioner och sammanfattningar och
 ms.subservice: partnercenter-marketplace-publisher
 ms.service: marketplace
 ms.topic: article
-author: mingshen-ms
-ms.author: mingshen
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 09/23/2020
-ms.openlocfilehash: 460a7b1992d7db40e0f45d3aeb7e2236e9495e07
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: 34d7d162673992601267db03beaddda1573b73c0
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "92531772"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532063"
 ---
 # <a name="payout-statements"></a>Utbetalningsinstruktioner
 
@@ -50,7 +50,7 @@ Du kan också använda [API: et för partner utbetalning](https://apidocs.micros
 
 På sidan **transaktions historik** visas en översikt över dina intäkter, uppskattad nästa betalning och din prenumeration på intäkter och betalningar under de senaste 36 månaderna. Du kan också hämta transaktions information från det här avsnittet.
 
-:::image type="content" source="images/payouts/transaction-overview.png" alt-text="Visar utbetalnings ikonen i det övre högra hörnet på Partner Center-portalen":::
+:::image type="content" source="images/payouts/transaction-overview.png" alt-text="Transaktions översikt.":::
 
 - **Intäkter som skickats detta år** – totala intäkter och nedbrytning av intäkter som har betalats och som kommer att betalas under den kommande månaden.
 - **Beräknad betalnings månad** – totala förväntade intäkter under kommande månader.
@@ -59,13 +59,13 @@ På sidan **transaktions historik** visas en översikt över dina intäkter, upp
 
 Använd datum intervall markeringen i det övre högra hörnet på sidan för att filtrera utdata från sidan för att visa de senaste 3, 6, 12 eller 36 månaderna. Eller Välj ett anpassat datum intervall upp till 36 månader. Standard datum intervallet är 12 månader.
 
-:::image type="content" source="images/payouts/search-filter.png" alt-text="Visar utbetalnings ikonen i det övre högra hörnet på Partner Center-portalen":::
+:::image type="content" source="images/payouts/search-filter.png" alt-text="Sök filtret längst upp till höger på sidan.":::
 
 ### <a name="transaction-history-summary"></a>Sammanfattning av transaktions historik
 
 Detta visar information, inklusive ursprunget för att betala från produktens sålda datum, status och beräknad betalnings månad.
 
-:::image type="content" source="images/payouts/transaction-history.png" alt-text="Visar utbetalnings ikonen i det övre högra hörnet på Partner Center-portalen":::
+:::image type="content" source="images/payouts/transaction-history.png" alt-text="Transaktions historik.":::
 
 - **Upparbetat datum** – datum för köpet.
 - **Typ** av erbjudande – typ av erbjudande, till exempel Sälj, rabatt eller co-op.
@@ -82,7 +82,7 @@ Tjänande transaktioner visas när transaktionen uppfyller utbetalnings berätti
 
 Om du vill se mer information om ett sådant väljer du **Ladda ned** överst på sidan. I följande tabell beskrivs varje kolumn i rapporten.
 
-| Kolumnnamn | Description | Tillämplighet för stimulans program/marknads platser |
+| Kolumnnamn | Beskrivning | Tillämplighet för stimulans program/marknads platser |
 | --- | --- | --- |
 | agreementEndDate | Datum för avtals slutdatum | Incitament – endast vissa program |
 | agreementNumber | Avtals nummer | Incitament – endast vissa program |
@@ -171,7 +171,7 @@ På sidan **betalningar** finns information om de pengar du har fått med Micros
 >[!Note]
 > För att bli berättigad till utbetalning måste du ha uppnått [betalnings tröskeln](payment-thresholds-methods-timeframes.md) på $50. Mer information finns i [Microsoft Publisher-avtalet](https://go.microsoft.com/fwlink/?LinkID=699560).
 
-:::image type="content" source="images/payouts/payments-overview.png" alt-text="Visar utbetalnings ikonen i det övre högra hörnet på Partner Center-portalen":::
+:::image type="content" source="images/payouts/payments-overview.png" alt-text="Översikt över betalningar.":::
 
 - **Totalt betalat det här året** – den sammanlagda summan betalas ut till dig detta år, i amerikanska dollar, för alla dina program.
 - **Nästa beräknade betalning** – den enda nästa betalning som kommer till dig (även om andra kommer snart) i amerikanska dollar.
@@ -182,11 +182,11 @@ På sidan **betalningar** finns information om de pengar du har fått med Micros
 
 **Listan över betalnings** tabeller visar betalda och väntande betalningar. Du kan hämta skatte information om service avgiften i PDF-format och Visa mer information om en specifik betalning.
 
-:::image type="content" source="images/payouts/list-of-payments.png" alt-text="Visar utbetalnings ikonen i det övre högra hörnet på Partner Center-portalen":::
+:::image type="content" source="images/payouts/list-of-payments.png" alt-text="Exportera transaktions historik":::
 
 - **Betald** – alla betalningar har skickats. Välj året i den nedrullningsbara menyn för att filtrera fram de betalningar som publicerats under det året.
 - **Väntande** – kommande betalningar.
-- **Service avgifts skatt (PDF-formulär)** – tillgängligt för betalningar som omfattas av service avgifts skatt. Avgifter för service avgift visas i **andra skatter** .
+- **Service avgifts skatt (PDF-formulär)** – tillgängligt för betalningar som omfattas av service avgifts skatt. Avgifter för service avgift visas i **andra skatter**.
 - **Visa** – omdirigerar till transaktions historiken med en lista över intäkter som ingår i betalningen.
 
 För att förstå varför du kan sakna eller oväntade intäkter, se [vanliga frågor om utbetalningar på kommersiella platser](payout-faq.md#why-are-my-earnings-missing).
@@ -197,18 +197,18 @@ I följande tabell förklaras de olika ställnings statusarna.
 
 | Status för att tjäna | Orsak | Krävs partner åtgärd? |
 | --- | --- | --- |
-| Obearbetade | Betalningen är berättigad till betalning. Den förblir i det här läget för en kylnings period som definieras i program guiden för stimulans programmet. | No |
-| Planer | Betalnings order som genererats som väntande interna granskningar innan betalningen bearbetas. | No |
+| Obearbetade | Betalningen är berättigad till betalning. Den förblir i det här läget för en kylnings period som definieras i program guiden för stimulans programmet. | Inga |
+| Planer | Betalnings order som genererats som väntande interna granskningar innan betalningen bearbetas. | Inga |
 | Väntande moms faktura | Din moms faktura är ofullständig eller ogiltig. | Du måste uppdatera din moms faktura innan du kan betala |
 | Avvisad under granskning | Betalningen avvisades under granskningen. | Kontakta Microsoft support om du vill ha mer information |
-| Misslyckades | Betalningen misslyckades på grund av ett fel i Microsoft-systemet. | Kontakta Microsoft support om du vill ha mer information |
-| Pågår | Betalningen pågår. | No |
-| Felaktig betalning | Betalnings återkoppling pågår. | No |
-| Skickat | Betalningen har skickats till din bank. | No |
-| Ombearbetning | Ett Microsoft-systemfel påträffades under betalningen och ombearbetas. | No |
-| Reversed | Betalningen återfördes av banken och skickas igen vid nästa betalnings cykel. | No |
+| Misslyckad | Betalningen misslyckades på grund av ett fel i Microsoft-systemet. | Kontakta Microsoft support om du vill ha mer information |
+| Pågår | Betalningen pågår. | Inga |
+| Felaktig betalning | Betalnings återkoppling pågår. | Inga |
+| Skickat | Betalningen har skickats till din bank. | Inga |
+| Ombearbetning | Ett Microsoft-systemfel påträffades under betalningen och ombearbetas. | Inga |
+| Reversed | Betalningen återfördes av banken och skickas igen vid nästa betalnings cykel. | Inga |
 | Avvisad moms faktura | Din moms faktura avvisades under granskningen. Alla väntande betalningar stoppas tills moms granskningen är klar. | Kontakta Microsoft support om du vill ha mer information |
-| Moms faktura under granskning | Din moms faktura granskas. Din betalning frigörs när moms fakturan har godkänts. | No |
+| Moms faktura under granskning | Din moms faktura granskas. Din betalning frigörs när moms fakturan har godkänts. | Inga |
 | Avslagen | Betalningen avvisades av din bank. | Kontakta din bank om du vill ha mer information. |
 |
 
@@ -216,7 +216,7 @@ I följande tabell förklaras de olika ställnings statusarna.
 
 Om du vill se mer information om dina betalningar väljer du **Hämta** överst på sidan. I följande tabell beskrivs varje kolumn i rapporten.
 
-| Kolumnnamn | Description |
+| Kolumnnamn | Beskrivning |
 | --- | --- |
 | participantID | Den primära identiteten för partnern enligt programmet |
 | participantIDType | Normalt program-ID för stimulans program och säljar-ID för Store-program |
@@ -238,13 +238,13 @@ Om du vill se mer information om dina betalningar väljer du **Hämta** överst 
 
 ## <a name="export-data"></a>Exportera data
 
-Sidan **Exportera data** uppdateras inte på egen hand. Du kan behöva uppdatera sidan manuellt för att se de senaste data. Välj från de tre flikarna för att exportera antingen **transaktions historik** , **betalningar** , **transaktions Sammanfattning** eller **historisk instruktion** .
+Sidan **Exportera data** uppdateras inte på egen hand. Du kan behöva uppdatera sidan manuellt för att se de senaste data. Välj från de tre flikarna för att exportera antingen **transaktions historik** , **betalningar** , **transaktions Sammanfattning** eller **historisk instruktion**.
 
 Filtret kan resultera i att det **inte finns några tillgängliga data** fel. Detta kan inträffa om du har lämnat standard tids perioden som valts vid tre månader och sedan valt ett betalnings-ID från ett som ligger utanför den perioden. Om detta inträffar expanderar du din tids period och försöker igen.
 
 Här är ett exempel på betalnings export:
 
-:::image type="content" source="images/payouts/pc-export-payments.png" alt-text="Visar utbetalnings ikonen i det övre högra hörnet på Partner Center-portalen":::
+:::image type="content" source="images/payouts/pc-export-payments.png" alt-text="Exportera betalnings rapport.":::
 
 ### <a name="historical-statements"></a>Historiska instruktioner
 
@@ -253,14 +253,17 @@ Sammanfattningen av **export data** ger även åtkomst till historiska instrukti
 > [!NOTE]
 > En historisk instruktion är en ögonblicks bild och uppdateras inte. Kontakta [supporten](https://partner.microsoft.com/support/v2/?stage=1) och begär den senaste informationen om det behövs.
 
-:::image type="content" source="images/payouts/pc-export-statements.png" alt-text="Visar utbetalnings ikonen i det övre högra hörnet på Partner Center-portalen" i den moderna historiken, förutom att den utesluter alla intäkter med status lika med "betalning har skickats".
+:::image type="content" source="images/payouts/pc-export-statements.png" alt-text="Exportera historiska instruktioner.":::
+
+- Transaktions historik från före den 1 juli 2019 hanteras separat och använder olika fält från senare historik rapporter.
+- Tidigare transaktions historik har en kolumn med namnet "reserverad" som motsvarar kolumnen "intäkter" i den moderna historiken, förutom att den utesluter alla intäkter med status lika med "betalning har skickats".
 - Filter som 3M, 6 M eller 12M kommer inte att gälla för avsnittet historiska instruktioner.
 
 ### <a name="historical-statement-downloads"></a>Hämtning av historiska instruktioner
 
 I följande tabell beskrivs varje kolumn i en historisk instruktion.
 
-| Fältnamn | Description |
+| Fältnamn | Beskrivning |
 | --- | --- |
 | Intäkts källa | Källan till intäkterna baserat på var transaktionen ägde rum, till exempel Microsoft Store, Windows Phone butik, Windows Store 8 eller annonsering |
 | Order-ID | Unikt order-ID. Med det här ID: t kan du identifiera inköps transaktioner med deras respektive icke-inköps transaktioner, till exempel åter betalningar eller åter betalningar. Båda kommer att ha samma order-ID. Om det finns en aktie avgift där flera betalnings metoder användes för ett enda köp kan du länka inköps transaktionerna. |
@@ -271,7 +274,7 @@ I följande tabell beskrivs varje kolumn i en historisk instruktion.
 | Namn på överordnad produkt | Namnet på den överordnade produkten. Om det inte finns någon överordnad produkt för transaktionen får du ett överordnat produkt namn = produkt namn. |
 | Produktnamn | Produktens namn |
 | Produkttyp | Typ av produkt, till exempel app, tillägg eller spel |
-| Kvantitet | När intäkts källan är Microsoft Store för företag, representerar kvantiteten antalet licenser som har köpts. För alla andra intäkts källor är antalet alltid 1. Även om en enskild transaktion delas upp i två rad objekt eftersom två olika betalnings metoder användes, visar varje rad objekt en kvantitet på 1. |
+| Quantity | När intäkts källan är Microsoft Store för företag, representerar kvantiteten antalet licenser som har köpts. För alla andra intäkts källor är antalet alltid 1. Även om en enskild transaktion delas upp i två rad objekt eftersom två olika betalnings metoder användes, visar varje rad objekt en kvantitet på 1. |
 | Transaktionstyp | Transaktions typ, till exempel köp, åter betalning, återföring eller åter betalning |
 | Betalnings metod | Kund betalnings instrument som används för transaktionen, till exempel kort, fakturering av mobil företag eller PayPal |
 | Land/region | Land/region där transaktionen ägde rum |

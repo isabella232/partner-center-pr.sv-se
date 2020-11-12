@@ -4,15 +4,15 @@ description: Läs mer om information som rör utbetalnings principer för kommer
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
-author: mingshen-ms
-ms.author: mingshen
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 11/06/2020
-ms.openlocfilehash: 8986ef1d2a16d939530ed49875a21c13b0b97868
-ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
+ms.openlocfilehash: 9c03878ec69b9df06795054464ef7f76e038e780
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "94381400"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94531995"
 ---
 # <a name="payout-schedules-and-policy-details"></a>Utbetalnings scheman och princip information
 
@@ -28,7 +28,7 @@ När en kund köper en produkt från Microsoft AppSource eller Azure Marketplace
 
 En utbetalning inträffar ofta innan Microsoft samlar in betalning från kunden. Se [processen för kund ej inbetalning](#process-for-customer-non-payment) nedan för de åtgärder som vi vidtar om kunden inte betalar Microsoft men vi redan har utfärdat en utbetalning.
 
-| Händelse | Description | Rapporterings synlighet | Ordning |
+| Händelse | Beskrivning | Rapporterings synlighet | Ordning |
 | --- | --- | --- | --- |
 | Användning eller månad för transaktion | Kunden använder eller köper en tjänst. | [Användnings](/azure/marketplace/partner-center-portal/usage-dashboard) -eller [order](/azure/marketplace/partner-center-portal/orders-dashboard) instrument panel | **Månad 1** |
 | Inköps order skapas | Fastställ total användning, totalt antal transaktioner | [Användnings](/azure/marketplace/partner-center-portal/usage-dashboard) -eller [order](/azure/marketplace/partner-center-portal/orders-dashboard) instrument panel | **Månad 2** |
@@ -44,7 +44,7 @@ En utbetalning inträffar ofta innan Microsoft samlar in betalning från kunden.
 
 Alla inköp med ett kredit kort eller en månads faktura har en 30-dagars period för att säkerställa att fonder samlas in från kunden.
 
-| Händelse | Description | Rapporterings synlighet | Ordning |
+| Händelse | Beskrivning | Rapporterings synlighet | Ordning |
 | --- | --- | --- | --- |
 | Användning eller månad för transaktion | Kunden använder eller köper en tjänst. | [Användnings](/azure/marketplace/partner-center-portal/usage-dashboard) -eller [order](/azure/marketplace/partner-center-portal/orders-dashboard) instrument panel | **Månad 1** |
 | Faktura betald per kund | Fastställer total användning, totalt transaktions värde och kund betalar faktura | [Användnings](/azure/marketplace/partner-center-portal/usage-dashboard) -eller [order](/azure/marketplace/partner-center-portal/orders-dashboard) instrument panel | **Månad 2** |
@@ -70,10 +70,10 @@ Följande är ett exempel schema:
 | --- | --- | --- |
 | Exempel på utbetalnings datum | 10/15/2020 | Markerat som **skickat** i transaktions historik och i avsnittet betalningar i instrument panelen för utbetalning |
 | <font color="red">Om kunden inte betalar Microsoft</font> | 12/2/2020 – 12/5/2020 | Ingen ändring, samma som ovan |
-| Kunden får ett e-postmeddelande om betalning för första sent | 12/6/2020 | Ingen |
-| Kunden får regelbundna e-postmeddelanden med ökande angelägenhets grad | 12/7/2020 – 1/31/2021 | Ingen |
+| Kunden får ett e-postmeddelande om betalning för första sent | 12/6/2020 | Inget |
+| Kunden får regelbundna e-postmeddelanden med ökande angelägenhets grad | 12/7/2020 – 1/31/2021 | Inget |
 | Utgivaren har meddelats att skriva av är troligt vis | 1/7/2021 | E-postmeddelande som skickas till utgivaren om att deras kunder ännu inte har skickat någon betalning. Transaktions-ID och dollar belopp ingår. |
-| Kund mottar uppsägnings meddelande | 2/1/2021 | Ingen |
+| Kund mottar uppsägnings meddelande | 2/1/2021 | Inget |
 | Samlings processens slut/medel skrivs av | 2/15/2021 | E-postmeddelande som skickas till utgivare som fonder har skrivits av. Transaktions-ID och dollar belopp ingår. |
 | Utbetalningen dras av | 3/1/2021 | I Publisher visas en negativ transaktion i Partner Center utbetalnings instruktion |
 | Utbetalningen nekas | 3/15/2021 | Framtida utbetalningar visas i utbetalnings instruktionen för partner Center. Utgivare får ingen betalning förrän saldot inte längre är negativt.  |
