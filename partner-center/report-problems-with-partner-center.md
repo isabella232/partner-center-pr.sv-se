@@ -9,19 +9,19 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 58aaf94c06be233d9b12fce23a86b25078c3fd9b
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 1db695179915f8ee803ad4dfdcfd6278ce49238b
+ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532053"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94567098"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Rapportera problem med partner Center och skicka in information om logg-eller diagnostikinformation
 
 **Gäller för**
 
 - Partnercenter
-- Partner Center för Microsoft Cloud för amerikanska myndigheter
+- Välkommen till Partnercenter för Microsoft Cloud for US Government
 
 Kontakta Partner Center-supporten om du hittar problem eller behöver hjälp med partner Center.
 
@@ -31,15 +31,33 @@ Alla inloggade Partner Center-användare kan skapa en support förfrågan för p
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Rapportera ett problem med partner Center
 
-1. Från instrument panelen för **partner Center** väljer du **support** och väljer sedan support **förfrågningar för partner** .
+1. Från instrument panelen för **partner Center** väljer du **support** och väljer sedan support **förfrågningar för partner**.
 
-2. Välj **ny begäran** och Sök sedan efter den typ av problem som bäst beskriver problemet. Välj ärende typ och **Granska lösningar** .
+2. Välj **ny begäran** och Sök sedan efter den typ av problem som bäst beskriver problemet. Välj ärende typ och **Granska lösningar**.
 
 3. Gå igenom sidan **rekommenderade lösningar** för steg eller relaterade dokument som kan hjälpa dig att lösa problemet.
 
-4. Om de **rekommenderade lösningarna** löste problemet kan du välja **återgå till instrument panelen** . Om du fortfarande behöver hjälp kan du fortsätta och **Ange information om problemet** .
+4. Om de **rekommenderade lösningarna** löste problemet kan du välja **återgå till instrument panelen**. Om du fortfarande behöver hjälp kan du fortsätta och **Ange information om problemet**.
 
 5. Slutför **problem informationen** och **Skicka** sedan. En partner support ansvarig kommer att följa upp med dig.
+
+## <a name="schedule-a-support-appointment"></a>Schemalägg en support avtalad tid 
+
+**För hands version*
+
+Om ditt problem kräver en konversation med din support rådgivare kan du schemalägga en avtalad tid från din biljett information.
+
+:::image type="content" source="images/support/ticket.png" alt-text="Schemalägg en support avtalad tid":::
+
+1.  På sidan biljett information i Partner Center väljer du ett tillgängligt datum och en tid på Supportens kalender. Du kommer bara att se tillgängliga datum och tider i din lokala tidszon.
+
+:::image type="content" source="images/support/ticket2.png" alt-text="Schemalägg möte":::
+
+2. Partner Center söker efter tillgänglighet i support advokatens kalender.
+
+1. När du schemalägger en avtalad tid skickar Partner Center en kalender-inbjudan med information om hur support organisationen kommer att kontakta dig, så att du kan spåra den här avtalade tiden i din egen arbets kalender.
+
+:::image type="content" source="images/support/ticket3.png" alt-text="Datum och tid":::
 
 ## <a name="send-diagnostics"></a>Skicka diagnostik
 
@@ -65,3 +83,6 @@ Du kan förhandsgranska diagnostikinformation och sedan spara den till en fil so
 
 Support för partner kan be dig att köra verktyget flera gånger så att de kan få den senaste informationen.
 
+## <a name="next-steps"></a>Nästa steg
+
+- [Rapportera ett tjänst problem för en kunds räkning](report-problems-on-behalf-of-a-customer.md)

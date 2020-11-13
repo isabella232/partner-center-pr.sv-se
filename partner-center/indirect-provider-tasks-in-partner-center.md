@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 07/01/2020
-ms.openlocfilehash: 21a21bc363856ee041ff9e3f9f41b0bcf9796467
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 12b902f8134a4fcf6d93439658da95fff6d80c4f
+ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92531877"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94567057"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Samarbeta med indirekta återförsäljare i programmet Cloud Solution Provider
 
@@ -55,7 +55,7 @@ Utför följande steg för att upprätta och hantera ditt partnerskap med indire
 
    - Innan du kan interagera och Transact med åter försäljare måste du upprätta partnerskap med dem i Partner Center.
 
-3. Ansluta till kunder
+3. Få kontakt med kunder
 
    - Koppla nya kunder och prenumerationer till åter försäljare
 
@@ -76,7 +76,7 @@ På sidan prenumerations information i fältet åter försäljare (MPN-ID) lägg
 
 1. Välj **indirekta åter försäljare** från menyn i **partner Center** .
 
-2. På sidan **indirekt åter försäljare** väljer du **begär ett partnerskap** . Ett e-postmeddelande med utkast visas.
+2. På sidan **indirekt åter försäljare** väljer du **begär ett partnerskap**. Ett e-postmeddelande med utkast visas.
 
 3. Välj **Öppna i e-post** för att öppna meddelandet i ditt standard-e-postprogram, eller Välj **Kopiera till Urklipp** för att kopiera och klistra in meddelandet i ett e-postmeddelande. Välj **klart** när du är färdig.
     > [!IMPORTANT]  
@@ -109,9 +109,9 @@ Om du väljer att arbeta med en indirekt åter försäljare för befintliga pren
 
 Följ stegen nedan om du vill ta bort partnerskap med en befintlig indirekt åter försäljare. 
 
-1. I menyn Partner Center på instrument panelen väljer du **indirekta åter försäljare** . 
+1. I menyn Partner Center på instrument panelen väljer du **indirekta åter försäljare**. 
 
-2. På sidan **indirekt åter försäljare** väljer du **ta bort koppling** . Ett meddelande visas där du ombeds bekräfta genom att välja Ja.
+2. På sidan **indirekt åter försäljare** väljer du **ta bort koppling**. Ett meddelande visas där du ombeds bekräfta genom att välja Ja.
 
 :::image type="content" source="images/ip-ir-relationship.png" alt-text="Ta bort koppling":::
 
@@ -124,7 +124,7 @@ Följ stegen nedan om du vill ta bort partnerskap med en befintlig indirekt åte
 Beroende på nivån av åtkomst och engagemang kanske du vill kommunicera med den indirekta åter försäljaren samt avsluta kunden om den här ändringen.
 
 
-## <a name="connect-with-customers"></a>Ansluta till kunder
+## <a name="connect-with-customers"></a>Få kontakt med kunder
 
 När du får nya kunder måste du skapa konton för dem i Partner Center. När du lägger till ett nytt kund konto kan du ange en specifik åter försäljare för att hantera kontot och administrera kundernas prenumerationer och tjänster för deras räkning.
 
@@ -134,36 +134,36 @@ När du associerar en åter försäljare med ett nytt kund konto delegerar du ko
 
 1. Välj **indirekta åter försäljare** från menyn i **partner Center** .
 
-2. Hitta den indirekta åter försäljare som du vill tilldela nya kunder till och välj sedan **Lägg till ny kund** . Observera att den indirekta åter försäljaren redan har valts åt dig i formuläret för kund information. Ange kundens information och välj sedan **Nästa: prenumerationer** .
+2. Hitta den indirekta åter försäljare som du vill tilldela nya kunder till och välj sedan **Lägg till ny kund**. Observera att den indirekta åter försäljaren redan har valts åt dig i formuläret för kund information. Ange kundens information och välj sedan **Nästa: prenumerationer**.
 
 3. På sidan **ny prenumeration** väljer du de prenumerationer som kunden vill köpa och anger sedan antalet licenser som kunden behöver.
 
-4. Välj **Nästa: Granskning** .
+4. Välj **Nästa: Granskning**.
 
-5. Om ordern är korrekt väljer du **Skicka** . Om ordningen är felaktig väljer du **Avbryt** för att avbryta hela åtgärden och börja om.
+5. Om ordern är korrekt väljer du **Skicka**. Om ordningen är felaktig väljer du **Avbryt** för att avbryta hela åtgärden och börja om.
 
 6. När du har skickat beställningen visas **bekräftelse** sidan. Under **installations informationen** visas administratörens användar konto namn och tillfälliga lösen ord. Kopiera information om användar kontots namn och lösen ord så att du kan skicka den till den nya kunden.
 
     > [!IMPORTANT]  
     > Kom ihåg att anteckna användar kontots namn och lösen ord eftersom du inte kan komma åt den här informationen igen när du har stängt den här sidan.
 
-7. Välj **Done** (Klar). Den nya kunden visas i kund listan, som är associerad med den indirekta åter försäljaren. Åter försäljaren har nu administratörs behörighet till kundens konto information och prenumerationer och kan hantera prenumerationerna på kundens räkning.
+7. Välj **Klar**. Den nya kunden visas i kund listan, som är associerad med den indirekta åter försäljaren. Åter försäljaren har nu administratörs behörighet till kundens konto information och prenumerationer och kan hantera prenumerationerna på kundens räkning.
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Lägg till nya prenumerationer till kund konton
 
-När kunderna vill köpa nya prenumerationer, uppgradera befintliga eller köpa ytterligare licenser gör du dessa ändringar i kundens konto.
+När kunderna vill köpa nya prenumerationer, uppgradera befintliga eller köpa ytterligare licenser gör du dessa ändringar i kundens konto via M365-portalen. Du kan inte göra det här i Azure Portal.
 
 1. Välj **kunder** från menyn **partner Center** .
 
-2. Hitta kunden vars konto du vill ändra. Du kan filtrera listan efter indirekt åter försäljare för att begränsa dina val. Expandera kundens post genom att välja nedpilen och välj sedan **Lägg till prenumeration** .
+2. Hitta kunden vars konto du vill ändra. Du kan filtrera listan efter indirekt åter försäljare för att begränsa dina val. Expandera kundens post genom att välja nedpilen och välj sedan **Lägg till prenumeration**.
 
 3. På sidan **ny prenumeration** väljer du prenumeration (er) och anger antalet licenser som kunden vill köpa.
 
-4. Om du vill associera prenumerationen med en åter försäljare väljer du åter försäljarens namn i listan och väljer sedan **Skicka** . Genom att associera åter försäljaren med prenumerationen kan de få incitament, om så är tillämpligt.
+4. Om du vill associera prenumerationen med en åter försäljare väljer du åter försäljarens namn i listan och väljer sedan **Skicka**. Genom att associera åter försäljaren med prenumerationen kan de få incitament, om så är tillämpligt.
 
 5. De nya prenumerationerna visas i listan med kund prenumerationer.
 
-6. Om du vill att åter försäljaren ska hantera kund support förfrågningar för den nya prenumerationen väljer du prenumerationen och väljer sedan åter försäljaren från listan med den **angivna support kontakten** .
+6. Om du vill att åter försäljaren ska hantera kund support förfrågningar för den nya prenumerationen väljer du prenumerationen och väljer sedan åter försäljaren från listan med den **angivna support kontakten** . 
 
 7. Välj **Skicka** när du är färdig.
 
