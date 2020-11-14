@@ -1,20 +1,20 @@
 ---
 title: Verifiera din partner profil
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: Lär dig hur du verifierar företagets information, till exempel information om primär kontakt, adress och program. Du kan också uppdatera dina juridiska och fakturerings adresser.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
 ms.localizationpriority: high
-ms.date: 07/10/2020
+ms.date: 11/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22696ba1a2ecde3374357ee8489f466b2b366098
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 9e2fbef36bcc4a191235570a0d1735bd755ad317
+ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "92531397"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "94626005"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>Verifiera din partner profil information i Partner Center
 
@@ -27,9 +27,9 @@ Första gången du loggar in på Partner Center som global administratör bör d
 
 Din partner profil består av din juridiska företags information, det primära kontakt namnet och e-postmeddelandet, de program som företaget deltar i och, om så är tillämpligt, dina andra företag som nu är sammanslagna under din juridiska verksamhet. Kontrol lera att företags namnet och adressen i din juridiska affärs profil är fria från stavfel och att de matchar dina formella företags registrerings poster exakt. Om du arbetar som en enda ägare måste du använda ditt företags namn som juridiskt namn.
 
-1. Gå till **Inställningar** och välj **partner profil** .
+1. Gå till **Inställningar** och välj **partner profil**.
 
-2. Granska din **juridiska företags profil** , **primär kontakt information** och **programinformation** .
+2. Granska din **juridiska företags profil** , **primär kontakt information** och **programinformation**.
 
 Om du har slagit samman dina andra företag under din juridiska verksamhet kan du även granska informationen på den här sidan.
 
@@ -37,7 +37,7 @@ Om du har slagit samman dina andra företag under din juridiska verksamhet kan d
 
 Nu kan du uppdatera din juridiska adress i Partner Center.
 
-1. Gå till **Inställningar** och välj **partner profil** . 
+1. Gå till **Inställningar** och välj **partner profil**. 
 
 2. Välj **Uppdatera** bredvid juridisk adress. 
 
@@ -50,28 +50,36 @@ Nu kan du uppdatera din juridiska adress i Partner Center.
 
 Om du under migreringen från Partner medlemskap Center till Partner Center har identifierats som juridiskt företag, kan du ändra den till rätt företag.
 
-1. Från **konto inställningar** går du till **platser** och kontrollerar att företaget du vill ha som juridisk verksamhet finns i listan. Om den inte är det kan du lägga till den. Välj **Lägg till plats** .
+1. Från **konto inställningar** går du till **platser** och kontrollerar att företaget du vill ha som juridisk verksamhet finns i listan. Om den inte är det kan du lägga till den. Välj **Lägg till plats**.
 
-2. Gå sedan till **partner profil** och välj **Uppdatera juridisk företags profil** .
+2. Gå sedan till **partner profil** och välj **Uppdatera juridisk företags profil**.
 
-3. Välj den plats och det företag som du vill använda som juridiskt företag och välj sedan **Spara** .
+3. Välj den plats och det företag som du vill använda som juridiskt företag och välj sedan **Spara**.
 
 ## <a name="update-your-mpn-id-associated-with-your-csp-account"></a>Uppdatera MPN-ID:t som är associerat med ditt CSP-konto
 
 Så här uppdaterar du det MPN-ID som är associerat med ditt CSP-konto:
 
 1. Logga in på instrument panelen för partner Center.
-1. Välj **partner profil** från **konto inställningar** .
-1. Välj **Uppdatera** bredvid **associerade MPNID** .
-1. Välj **Fortsätt** .
+1. Välj **partner profil** från **konto inställningar**.
+1. Välj **Uppdatera** bredvid **associerade MPNID**.
+1. Välj **Fortsätt**.
 1. Lägg till ditt MPN-ID.
 
 
 ## <a name="update-your-billing-address"></a>Uppdatera din fakturerings adress
 
-Om du är global administratör, fakturerings administratör eller administratörs agent kan du ändra adressen som visas på fakturan i din **fakturerings profil** . Du kan dock inte ändra företagsnamnet på fakturan på grund av en begränsning i fakturasystemet.
+Om du är global administratör, fakturerings administratör eller administratörs agent kan du uppdatera:
 
- 
+- Adressen som visas på fakturan i din **fakturerings profil**
+- Ditt inköps order nummer
+
+Du kan inte ändra:
+ 
+- Företagsnamn
+- Land
+- Fakturerings datum
+ 
 ## <a name="next-steps"></a>Nästa steg
 
 - [Hantera platser](manage-locations.md)
