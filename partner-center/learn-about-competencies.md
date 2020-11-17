@@ -1,7 +1,7 @@
 ---
 title: Microsoft Gold, silver kompetens krav
 ms.topic: article
-ms.date: 10/15/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lär dig hur du får en bättre kunskap om Microsofts partner status och locka nya kunder genom att uppfylla kompetens krav för att få guld-och silver medlemskaps nivåer.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1392a4c4a0147af3ffe18564da08061cd10cbc06
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 51a0e1d1e726444597d99a55e8c62b6788549073
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92531973"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691341"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Särskilja din verksamhet genom att uppnå Microsoft-kompetenser
 
@@ -40,7 +40,7 @@ Du kan se krav och vad företaget har uppnått från kompetens avsnittet på ins
 
 1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
 
-2. Under avsnittet MPN på menyn i Partnercenter väljer du **Kompetenser** .
+2. Under avsnittet MPN på menyn i Partnercenter väljer du **Kompetenser**.
 
 3. Välj kompetensnamn och specifikt kompetensalternativ för att visa informationen. Du kan se vad du har slutfört och du kan även se fullständiga krav och länkar till de särskilda testerna och de datum då examina för examen har dragits tillbaka.
 
@@ -65,6 +65,10 @@ Mer information om vad som behövs för att uppnå silver-och guld-kompetens fin
 
 - Lär dig mer om hur du kan visa din expertis ytterligare genom att para ihop en guld-kompetens med en eller flera [avancerade specialiseringar](advanced-specializations.md).
 
-- Lär dig mer om de olika [Go-to-Marketing-förmånerna](mpn-learn-about-go-to-market-benefits.md) som ingår i kompetensen.
+- Lär dig mer om vissa [Go-to-Marketing-resurser](mpn-learn-about-go-to-market-benefits.md) som ingår i kompetensen.
 
 - Lär dig om [fakturor och skatter för kompetenser](mpn-view-print-maps-invoice.md).
+
+- Visa en rapport om Partner Center Insights- [kompetenser](pci-competencies-report.md) som visar aktuell status för din kompetens.
+
+- Få svar på [vanliga frågor](competencies-faq.md) om kompetenser.

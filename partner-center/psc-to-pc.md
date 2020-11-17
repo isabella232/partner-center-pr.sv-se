@@ -9,12 +9,12 @@ ms.subservice: partnercenter-csp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/06/2020
-ms.openlocfilehash: 1f352234f47ea8b2745c649401603f931ec68957
-ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
+ms.openlocfilehash: 34a18e4a4bf4d5c29265fdf76fae05b4ba16a3bc
+ms.sourcegitcommit: 445c7b70943f71cc4b2cb48a327b9dcc1814974d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "94381449"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94670175"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guide till samförsäljning i Partner Center (PC) för partners som migrerar från partner Sales Connect (PSC)
 
@@ -78,7 +78,7 @@ Om du inte ser fliken hänvisningar:
 När du har konfigurerat ditt konto i Partner Center använder du guiden användarmigrering på sidan samförsäljnings möjligheter för att automatiskt tilldela Partner Center-roller till anställda i företaget.
 
 >[!Note]
-> Användarmigrering kan bara utföras av [konto administratörer](permissions-overview.md#manage-mpn-membership-and-your-company) för ditt företag. Om du inte har rollen konto administratör kan du söka efter en konto administratör som kan hjälpa dig att skapa användar konton med hjälp av guiden Migrera användare. Funktionen för användarmigrering kommer att vara tillgänglig från den 16 november 2020.
+> Användarmigrering kan bara utföras av [konto administratörer](permissions-overview.md#manage-mpn-membership-and-your-company) för ditt företag. Om du inte har rollen konto administratör kan du söka efter en konto administratör som kan hjälpa dig att skapa användar konton med hjälp av guiden Migrera användare. Funktionen för användarmigrering kommer att vara tillgänglig från november 18 2020.
 
 :::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Bild som visar guiden användarmigrering.":::
 

@@ -1,7 +1,7 @@
 ---
 title: Tjäna avancerade specialiseringar
 ms.topic: article
-ms.date: 10/15/2020
+ms.date: 11/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Förbättra företags profilen i Microsoft partner Directory. Lär dig hur du får avancerade specialiseringar tillsammans med din guld-och silver kompetens.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5dd5866a5ea9a87f0cd61cd863a6cd72ec070a10
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 3b655b5cbd9a8ae2cc907af3ab4da561650e8aa1
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532132"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691392"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise"></a>Få en avancerad specialisering för att presentera expert kunskaper
 
@@ -32,24 +32,25 @@ Med avancerade specialiseringar kan du också särskilja dig till kunderna. När
 Du kan få avancerade specialiseringar i två huvudsakliga expert områden:
 
 - Azure
-- Modern arbets plats och säkerhet
+- Modern arbete och säkerhet
 
 I **Azures** avancerade specialisering ingår:
 
-- Migrering av Windows Server och SQL Server till Microsoft Azure 
-- Microsoft Windows Virtual Desktop
-- Migrering av Linux-och öppen källkod-databaser till Microsoft Azure
-- Kubernetes på Microsoft Azure
 - Migrering av informations lager till Microsoft Azure
-- SAP på Microsoft Azure
+- Kubernetes på Microsoft Azure
+- Migrering av Linux-och öppen källkod-databaser till Microsoft Azure
+- Microsoft Windows Virtual Desktop
 - Modernisering för webb program som ska Microsoft Azure
+- SAP på Microsoft Azure
+- Migrering av Windows Server och SQL Server till Microsoft Azure
  
-**Modern arbets plats och** avancerad avancerad specialisering omfattar:
+**Moderna arbets-och säkerhets** avancerad specialisering omfattar:
 
-- Möten och mötes rum för Microsoft Teams
 - Införande och ändrings hantering
-- Distribution av arbete
 - Anrop för Microsoft Teams
+- Möten och mötes rum för Microsoft Teams
+- Distribution av arbete
+- Identitets- och åtkomsthantering
 - Hotskydd
  
 > [!NOTE]
@@ -63,13 +64,13 @@ För att komma åt det här avsnittet från Partner Center:
 
 1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
 
-2. Under avsnittet MPN på menyn Partner Center väljer du **adv. specialisering** . Menyn expanderar för att visa alla avancerade specialiseringar som är tillgängliga för dig.
+2. Under avsnittet MPN på menyn Partner Center väljer du **adv. specialisering**. Menyn expanderar för att visa alla avancerade specialiseringar som är tillgängliga för dig.
 
 3. Om du vill visa detaljer väljer du namnet på den avancerade specialiseringen. Du kan se särskilda krav och steg, din aktuella status och länkar till ytterligare steg eller resurser.
 
 Alla avancerade specialiseringar kräver att du har fått en justerad guld kompetens tillsammans med andra krav:
 
-- Förutom sina egna krav, behöver vissa avancerade specialiseringar också för att skicka en *schemalagd granskning* .
+- Förutom sina egna krav, behöver vissa avancerade specialiseringar också för att skicka en *schemalagd granskning*.
 
   Om du behöver schemalägga en granskning går du till sidan detaljerad specialisering för partner Center. När du uppfyller andra krav kan du välja knappen **schema granskning** på den här sidan. (Se en [lista och exempel](advanced-specializations.md#advanced-specialization-requirements-that-include-an-audit---an-example) på avancerade specialiseringar som kräver en granskning.)
 
@@ -79,44 +80,46 @@ Alla avancerade specialiseringar kräver att du har fått en justerad guld kompe
 
 Du måste slutföra en granskning med en tredjeparts revisor för följande Azure Advanced-specialiseringar:
 
-- Migrering av Windows Server och SQL Server till Microsoft Azure
-- Linux och migrering av databas med öppen källkod till Microsoft Azure
 - Migrering av informations lager till Microsoft Azure
 - Kubernetes på Microsoft Azure
-- Modernisering för webb program som ska Microsoft Azure
+- Linux och migrering av databas med öppen källkod till Microsoft Azure
 - Microsoft Windows Virtual Desktop
+- Modernisering för webb program som ska Microsoft Azure
+- Migrering av Windows Server och SQL Server till Microsoft Azure
 
 ### <a name="audit-example-in-partner-center"></a>Gransknings exempel i Partner Center
 
-Om du är intresse rad av avancerad specialisering **som kallas modernisering för webb program för att Microsoft Azure** , väljer du den från menyn Partner Center. Du kommer till sidan förutsättningar.
+Om du är intresse rad av avancerad specialisering **som kallas modernisering för webb program för att Microsoft Azure**, väljer du den från menyn Partner Center. Du kommer till sidan förutsättningar.
 
 :::image type="content" source="images/advancedspecializations/as-1.png" alt-text="Sidan exempel på förutsättningar visar krav för att få en aktiv plattforms kompetens för guld-molnet.":::
 
 Tills du uppfyller alla krav är din status fortfarande **inte startad.**
 När du uppfyller kraven är knappen **schema granskning** aktive rad.
 
-När du har slutfört alla krav ändras statusen till **aktiv** . Aktiv status aktiverar automatiskt en avancerad specialisering-tagg i din **affärs profil** . Den här profilen är synlig för alla kunder som försöker [hitta en lösnings leverantör](https://www.microsoft.com/solution-providers/home).
+När du har slutfört alla krav ändras statusen till **aktiv**. Aktiv status aktiverar automatiskt en avancerad specialisering-tagg i din **affärs profil**. Den här profilen är synlig för alla kunder som försöker [hitta en lösnings leverantör](https://www.microsoft.com/solution-providers/home).
 
 ## <a name="prerequisites-that-include-customer-references---an-example"></a>Krav som omfattar kund referenser – ett exempel
 
 Du behöver kund referenser för följande avancerade specialiseringar:
 
-- SAP på Azure
+
 - Införande och ändrings hantering
-- Distribution av arbete
 - Anrop för Microsoft Teams
 - Möten och mötes rum
+- SAP på Azure
+- Distribution av arbete
+- Identitets- och åtkomsthantering
 - Hotskydd
 
 ### <a name="customer-reference-example-in-partner-center"></a>Kund referens exempel i Partner Center
 
-Ett exempel på en avancerad specialisering som kräver kund referenser är **möten och mötes rum för Microsoft Teams** .
+Ett exempel på en avancerad specialisering som kräver kund referenser är **möten och mötes rum för Microsoft Teams**.
 
 Förutom guld kompetens, certifieringar och prestanda krav måste du ange tre kund referenser som visar hur du kan distribuera och hantera.
 
-:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Sidan exempel på förutsättningar visar krav för att få en aktiv plattforms kompetens för guld-molnet.":::
+:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Exempel sidan avancerade specialiserings krav som kräver kund referenser.":::
 
-Tills du uppfyller alla krav är din status fortfarande **inte startad.** När du har slutfört alla krav ändras statusen till **aktiv** . Aktiv status aktiverar automatiskt en avancerad specialisering-tagg i din **affärs profil** . Den här profilen är synlig för alla kunder som försöker [hitta en lösnings leverantör](https://www.microsoft.com/solution-providers/home).
+Tills du uppfyller alla krav är din status fortfarande **inte startad.** När du har slutfört alla krav ändras statusen till **aktiv**. Aktiv status aktiverar automatiskt en avancerad specialisering-tagg i din **affärs profil**. Den här profilen är synlig för alla kunder som försöker [hitta en lösnings leverantör](https://www.microsoft.com/solution-providers/home).
 
 ## <a name="next-steps"></a>Nästa steg
 

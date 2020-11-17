@@ -1,7 +1,7 @@
 ---
 title: Azure-reservationer & Server prenumerationer
 ms.topic: article
-ms.date: 08/06/2020
+ms.date: 11/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lär dig mer om moln lösnings leverantörens möjligheter att förvärva, etablera och hantera Azure-reservationer och Server prenumerationer för kunder.
@@ -9,18 +9,15 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3c08e897a8f5d7c11b36627b0c24ad2da3f92329
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0434ad2e6494f5efc1b1e5e2aa003dc6587d7b4e
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531625"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691358"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Hämta, etablera & hantera reserverade VM-instanser (RI) + Server prenumerationer för kunder
 
-Gäller för:
-
-- Partnercenter
 
 **Lämpliga roller**
 
@@ -29,9 +26,6 @@ Gäller för:
 - Support agent
 - Försäljnings agent
 - Administratör för användar hantering
-
-> [!NOTE]
-> Den här artikeln gäller endast partner i Cloud Solution Provider (CSP)-programmet. Kunder som använder andra typer av prenumerationer (t. ex. betala per användning, enskilda, Microsoft-kundavtal eller Enterprise-avtal prenumerationer) bör i stället läsa [denna dokumentation om Azure-reservationer](/azure/cost-management-billing/reservations).
 
 
 ## <a name="what-are-azure-reservations"></a>Vad är Azure Reservations?
@@ -45,44 +39,27 @@ Om kunder har virtuella datorer, Azure Cosmos DB eller SQL-databaser som körs u
 ### <a name="compelling-new-azure-offer-in-csp"></a>Övertygande nytt Azure-erbjudande i CSP
 
 Genom att ta Azure Reservations-och Server prenumerationer till sitt CSP-program, är Microsoft bättre för våra partner att ta itu med växande kund efter frågan för att få mer kostnads effektiva lösningar som stöd för förutsägbara, beständiga moln arbets belastningar. CSP-programmet gör det möjligt för partner att förvärva, etablera och hantera Azure Reservations-och Server prenumerationer åt kommersiella kunder via Microsoft Partner Center och Azure Portal.
-
 Vi ger även partner i våra CSP-program val om hur Azure-reservationer kan köpas. CSP-partner kan [köpa Azure-reservationer för en kunds räkning](azure-reservations-buying.md) , eller så kan [kunden köpa sina egna reservationer](give-customers-permission.md) från en tidigare Azure-prenumeration som partnern har köpt för dem.
 
 Azure Reservations ger kunderna flexibiliteten i virtualisering för en mängd olika data behandlings lösningar, inklusive utveckling och testning, körning av program och utökning av data centret.
 
 Med [Azure Reserved VM instances](https://azure.microsoft.com/pricing/reserved-vm-instances/) till exempel kan kommersiella kunder nu Spara upp till 72% jämfört med att betala per användning genom att köpa eller "reservera" – den virtuella datorn för en 1-eller tre års period. Windows Server-kunder med Azure Hybrid-förmån, som ingår i Software Assurance, kan spara upp till 80% jämfört med priset enligt principen betala per användning.
 
-Med en omatchad kombination av tvingande priser och oöverträffad distribution, ser kunderna det bästa generella värdet när de väljer Azure Reservations:
+Med en omatchad kombination av tvingande priser och oöverträffad distribution, ser kunderna det bästa generella värdet när de väljer Azure Reservations.
 
-#### <a name="azure-reservations"></a>Azure-reservationer
+- Se [inköps reservationer](https://docs.microsoft.com/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) på Azure-portalen.
 
-- Azure Reserved VM Instances
-- SQL DB-reservationer
-- SQL-hanterad instans
-- Azure Cosmos DB
-- Azure SQL Data Warehouse
-- App Services
-- Azure Databricks enhets reservationer
-- Hanterad disk
-- Blockblob
-- MySQL
-- Azure Data Explorer
-- MariaDB
-- PostgreSQL
+- Se den **kommersiella pris listan för Azure RI-CSP** i kategorin **Microsoft Azure reserverade instanser** på sidan [priser och erbjudanden](https://partner.microsoft.com/dashboard/sell/pricingandoffers) i Partner Center för program varu prenumerationer och årliga prenumerationer för Linux ISV.
 
-#### <a name="server-subscriptions"></a>Server prenumerationer
 
-- Windows Server
-- Klient åtkomst licenser för Fjärrskrivbordstjänster (RDS)
-- SQL Server
-
-#### <a name="linux-isv-annual-subscriptions"></a>Årliga prenumerationer för Linux ISV
+ 
+**Årliga prenumerationer för Linux ISV**
 
 - SUSE Linux
 - Red Hat Enterprise Linux
 - Azure Red Hat OpenShift
 
-#### <a name="isv-annual-subscriptions"></a>Årliga ISV-prenumerationer
+**Årliga ISV-prenumerationer**
 
 - Azure VMware Solution by CloudSimple
 
@@ -90,66 +67,63 @@ Med en omatchad kombination av tvingande priser och oöverträffad distribution,
 
 För att förstå hur du kan placera Azure Reservations med dina kunder och komma igång så snabbt som möjligt rekommenderar vi följande tillvägagångs sätt för att granska beredskaps materialet:
 
-1. Granska översikts presentationerna och tillhör ande webb seminarier för kund värdens förslag och placering
-2. Läs och förstå den moderna handels guiden för Commerce
-3. Läs vanliga frågor och svar om Azure RI och Server prenumerationer
-4. Förstå uppdateringar för Azure Reservations-och Server prenumerationer i [partner Center API (API/SDK)](/partner-center/develop/purchase-azure-reserved-vm-instances)
+1. Läs och förstå [partner Center New Commerce Operations Guide](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
 
-## <a name="resources"></a>Resurser
+2. Förstå uppdateringar för Azure Reservations-och Server prenumerationer i [partner Center API (API/SDK)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances).
 
-Nedan finns en omfattande lista över resurser som hjälper dig att snabbt kunna interagera Azure Reservations via partner Center:
 
 ### <a name="sales-readiness"></a>Sälj beredskap
 
-- [Azure Reservations-och Server prenumerationer med Azure Hybrid-förmån översikt](https://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
-- [Försäljnings blad](https://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
-- [Vanliga frågor och svar om partner för Azure Reservations](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
-- [Vanliga frågor och svar om partner för Azure Reservations och SQL DB](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
 - [Fjärrskrivbordstjänster (RDS) klient åtkomst licens (CAL) (meddelande)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
-- [Azure Reserved VM Instances (Azure Portal)](/azure/virtual-machines/windows/prepay-reserved-vm-instances)
-- [Server prenumerationer](csp-software-subscriptions.md)
-- [Översikt över SQL DB i Azure](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
-- [SQL DB-reservationer (Azure Portal)](/azure/sql-database/sql-database-reserved-capacity)
-- [Azure Cosmos DB (Azure Portal)](/azure/cosmos-db/cosmos-db-reserved-capacity)
-- [SQL-hanterad instans (Azure Portal)](/azure/sql-database/sql-database-managed-instance)
-- [SUSE och Red Hat Enterprise Linux (Azure Portal)](/azure/virtual-machines/linux/prepay-suse-software-charges)
-- [Red Hat Linux på Azure](https://azure.com/redhat)
-- [SUSE Linux på Azure](https://azure.microsoft.com/overview/linux-on-azure/suse/)
-- [Linux på Azure](https://azure.microsoft.com/overview/linux-on-azure/)
-- [Pris översikt för Azure](https://azure.microsoft.com/pricing/)
-- [Pris kalkylator för Azure](https://azure.microsoft.com/pricing/calculator)
-- [Azure Databricks enhets reservationer](/azure/billing/billing-prepay-databricks-reserved-capacity)
-- CSP-pris listor: pris listorna **Microsoft Azure reserverade instanser** och **program varu prenumerationer** finns både på sidan med pris information för Partner Center på [pris &](https://partner.microsoft.com/pcv/sales) .
 
-### <a name="training"></a>Utbildning
+- [Azure Reserved VM Instances (Azure Portal)](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
+
+- [Server prenumerationer](https://docs.microsoft.com/partner-center/csp-software-subscriptions)
+
+- [SQL DB-reservationer (Azure Portal)](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
+
+- [Azure Cosmos DB (Azure Portal)](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
+
+- [SQL-hanterad instans (Azure Portal)](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance)
+
+- [SUSE och Red Hat Enterprise Linux (Azure Portal)](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
+
+- [Red Hat Linux på Azure](https://azure.com/redhat)
+
+- [SUSE Linux på Azure](https://azure.microsoft.com/overview/linux-on-azure/suse/)
+
+- [Linux på Azure](https://azure.microsoft.com/overview/linux-on-azure/)
+
+- [Pris översikt för Azure](https://azure.microsoft.com/pricing/)
+
+- [Pris kalkylator för Azure](https://azure.microsoft.com/pricing/calculator)
+
+- [Azure Databricks enhets reservationer](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
+
+
+## <a name="training"></a>Utbildning
 
 Registrera dig för att se [beredskap för webb seminarier](https://commercial-licensing.eventbuilder.com/FY2019_ALL) och händelser på begäran.
-
-Licensierings beredskap på begäran-händelser innehåller ämnen som:
+Tidigare registrerade licens beredskap på begäran-händelser innehåller ämnen som:
 
 - CSP online-tjänster, CSP Azure och allmänna licensierings uppdateringar, inklusive Azure (november 2018)
+
 - Flexibilitet för reserverad SQL DB-& instans storlek (augusti 2018)
+
 - Server prenumerationer i CSP (2018 juli)
+
 - Azure Reservations översikt i CSP (maj 2018)
 
-Annan användbar utbildning omfattar [Azure-klientlicensieringstjänsten på partner University](https://aka.ms/azure_partner_licensing).
+## <a name="operations"></a>Operations
 
-### <a name="operations"></a>Åtgärder
-
-- [Hand bok för hand boken](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (uppdaterad): en omfattande guide som täcker viktiga principer och drifts aspekter, till exempel avtal, beställning via partner Center, faktura, pris lista, incitament, avstämnings fil, API/SDK, Sandbox och Azure-partner delade tjänster.
-- [Modern erbjuder lands tillgänglighet och kund valuta mat ris](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
-- [Sälj Microsoft Azure reserverade instanser](azure-reservations.md)
-- [Köp Microsoft Azure reservationer för kundernas räkning](azure-reservations-buying.md)
-- [Hantera Azure-reservationer för kundernas räkning](azure-reservations-manage.md)
-- [Fakturering för Azure-reservationer](azure-plan-billing.md)
-- [Storlek på virtuell dator för maximal reservations användning](azure-usage.md)
-- [API för partner Center (API/SDK)](/partner-center/develop/purchase-azure-reserved-vm-instances)
-- [Fjärrskrivbordstjänster](/windows-server/remote/remote-desktop-services/welcome-to-rds)
+[Partner Center New Commerce Operations Guide](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf): omfattande vägledning som täcker viktiga principer och drifts aspekter, till exempel avtal, beställning via partner Center, faktura, pris lista, incitament, avstämnings fil, API/SDK, Sandbox och Azure-partner delade tjänster.
 
 ## <a name="azure-hybrid-benefit"></a>Azure Hybrid-förmån
 
-[Azure Hybrid-förmån](https://azure.microsoft.com/pricing/hybrid-benefit) hjälper dig att få mer värde från dina Windows Server-licenser och Spara upp till * 47 procent på virtuella datorer. Du kan använda fördelarna med Windows Server Data Center och Standard Edition-licenser som omfattas av Software Assurance. Beroende på versionen kan du konvertera eller återanvända dina licenser för att köra virtuella Windows Server-datorer i Azure och betala en lägre bas beräknings pris (priser för virtuella Linux-datorer).
+[Azure Hybrid-förmån](https://azure.microsoft.com/pricing/hybrid-benefit) är en pris förmån för kunder som har licenser med Software Assurance, vilket bidrar till att maximera värdet av befintliga lokala Windows Server-och/eller SQL Server licens investeringar vid migrering till Azure. Berättigade kunder kan spara upp till 40% * på Azure Virtual Machines (infrastruktur som en tjänst eller IaaS) och Spara upp till 55% på Azure SQL Database (plattform som en tjänst eller PaaS) och SQL Server på Azure Virtual Machines (IaaS) med Azure Hybrid-förmån, vilket ökar till upp till 80% i kombination med reserverade instanser i Azure.
 
-Se även [Azure Hybrid-förmån vanliga frågor och svar](https://azure.microsoft.com/pricing/hybrid-benefit/faq/)
+## <a name="next-steps"></a>Nästa steg
+
+- [Vanliga frågor och svar om Azure Hybrid-förmån](https://azure.microsoft.com/pricing/hybrid-benefit/faq/)
 
 * De faktiska besparingarna kan variera beroende på region, instans typ eller användning.

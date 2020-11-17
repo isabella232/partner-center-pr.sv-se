@@ -1,7 +1,7 @@
 ---
-title: Öka införandet och nöjdheten
+title: Öka användningen och nöjdheten
 ms.topic: how-to
-ms.date: 07/21/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lär dig hur du använder mått i Partner Center. Mått kan visa om din verksamhet växer, hur kunderna använder sina licenser och var de kan fokusera investeringen.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d995d72f6b5f9fb3beafff91eee7518ee999bf6c
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 494c9d7ff8e726e8bd183456926761c3cebf10ee
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "92531189"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691375"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Använd mått i Partner Center för att öka implementeringen och nöjdheten
 
@@ -49,7 +49,7 @@ Du kan hitta licens-och användar data för en enskild kund eller över hela din
 
 3. Välj en kund.
 
-4. Välj **Customer Insights** .
+4. Välj **Customer Insights**.
 
 ### <a name="find-license-and-user-data-across-your-portfolio"></a>Hitta licens-och användar data i din portfölj
 
@@ -67,7 +67,7 @@ Terminologi:
 
 - **Distribution%** = tilldelade licenser/sålda licenser
 
-- **Användning%** = aktiva rättigheter/totala rättigheter
+- **Användning%** = aktiva användare/totalt antal användare
 
    Ibland är användningen% inplattad eller större än 100%. Detta kan bero på flera orsaker:
 
@@ -85,17 +85,17 @@ Om du har ett fält med många hjälp-och instruktions frågor, är antagande nu
 
 ### <a name="considering-how-to-improve-customer-adoption-and-usage---a-couple-scenarios"></a>Fundera över hur du kan förbättra kundens antagande och användning – ett par scenarier
 
-**Problem** : användar priset för införande är lågt och många licenser används inte.
+**Problem**: användar priset för införande är lågt och många licenser används inte.
 
 **Vad du bör tänka** på: kunderna kanske inte förstår det värde som program varan kan tillhandahålla. De behöver hjälp med att skapa de sätt som de kan använda för att under lätta de uppgifter som de redan utför, eller för att aktivera nya typer av produktivitet.
 
-**Vad du kan prova** : fallstudier, användar åsikter om vissa scenarier, själv studie Bloggar eller videor.
+**Vad du kan prova**: fallstudier, användar åsikter om vissa scenarier, själv studie Bloggar eller videor.
 
-**Problem** : det finns en stor mängd support samtal för hjälp och instruktions frågor.
+**Problem**: det finns en stor mängd support samtal för hjälp och instruktions frågor.
 
 **Vad du bör tänka** på: kunder kan vara nya för program varan, produkt versionen eller uppgiften.
 
-**Vad du kan prova** : du kan använda en dubbel strategi för att erbjuda utbildning (personligen eller online) för att öka kundernas övergripande expertis och samtidigt marknadsföra några av de självbetjänings alternativ som är tillgängliga för kunderna.
+**Vad du kan prova**: du kan använda en dubbel strategi för att erbjuda utbildning (personligen eller online) för att öka kundernas övergripande expertis och samtidigt marknadsföra några av de självbetjänings alternativ som är tillgängliga för kunderna.
 
 Du kanske vill designa om support webbplatsen för att även inkludera de självbetjänings alternativ som beskrivs i [Customer Self support](customer-self-support.md) förutom support kontakt information.
 

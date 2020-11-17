@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 9702bef0a2fa753e37cfe305bc766ea64f0d0b3f
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 88d216f9e55b98f3c4818dd718c68f843c4098f0
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488154"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691307"
 ---
 # <a name="november-2020-announcements"></a>Meddelanden november 2020
 
@@ -23,6 +23,128 @@ Den här sidan innehåller information om Microsoft Partner Center-meddelanden f
 2020-meddelanden: [april](2020-april.md)  |  [maj](2020-may.md)den  |  [juni](2020-june.md)  |  [juli](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md)  |  [October](2020-October.md) | November
 
 ______________
+## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="10"></a>EU/EFTA-ändring av partner fakturerings valuta för nya Commerce-erbjudanden.  
+
+### <a name="categories"></a>Kategorier
+- Datum 2020-11-17
+- Funktioner
+
+### <a name="impacted-audience"></a>Förverkad mål grupp  
+
+Partner som går via Cloud Solution Provider-programmet i EU/EFTA-regionen 
+
+### <a name="summary"></a>Sammanfattning 
+
+I Europeiska unionen (EU)/European fri handels Association (EFTA) kan alla nya handels erbjudanden i Cloud Solution Provider-programmet använda partner fakturerings plats i stället för kund fakturerings plats. Det innebär att partner kommer att faktureras av Microsoft baserat på deras plats valuta, inte deras kunders plats valuta. Detta görs i två faser: 
+
+- **Fas 1: nya kunder som köper ett nytt handels erbjudande i CSP**
+
+Från och med 2021 januari debiteras partners som har nya kunder som köper nya Commerce-erbjudanden för dessa inköp i partner platsens valuta. Partner med befintliga kunder som redan har köpt nya Commerce-erbjudanden i CSP kommer att fortsätta att faktureras i valutan för kundens fakturerings plats under den här fasen. 
+
+ 
+
+- **Fas 2: befintliga kunder som köpte ett nytt Commerce-erbjudande i CSP före 2021** 
+
+Från och med fas 1 och under kalender året 2021 kommer Microsoft att övergå till faktureringen av nya Commerce-erbjudanden för partner med befintliga kunder, som köpte ett nytt handels erbjudande i CSP före den 2021, från kund platsens valuta till partner platsens valuta. Partners kommer att meddelas i förväg innan ändringen genomförs.  
+
+>Lägg Den här ändringen påverkar endast partner fakturerings valutan och inte priserna för nya handels erbjudanden i CSP. 
+
+De nya Commerce-erbjudandena i omfånget för den här ändringen är: Azure-prenumerationer som ingår i en Azure-prenumeration, Azure-reservationer, Server prenumerationer, beständig program vara och Microsofts kommersiella marknads marknads inköp i Cloud Solution Provider-programmet.
+
+### <a name="partner-benefits"></a>Partner förmåner  
+
+- Den här uppdateringen minskar komplexiteten och omkostnaderna med fakturering i flera valutor i EU/EFTA-regionen för den nya Commerce-upplevelsen.  
+
+- Partner får en konsol IDE rad faktura i en enskild valuta och får inte längre någon faktura för varje kunds plats valuta. 
+
+- Incitaments utbetalningar är i samma valuta som partnerns faktura valuta.
+
+- Partner kommer att meddela minskad fakturerings komplexitet som orsakas av multi-Currency-fakturering, vilket frigör tid och resurser som för närvarande är kopplade till att stämma av konton. 
+
+- För partner som ännu inte har antagit nya Commerce-erbjudanden justeras den här ändringen med föregående fakturerings modell för partner, vilket gör det möjligt för partner att enkelt övergå till den nya Commerce-upplevelsen i CSP. 
+
+### <a name="resources"></a>Resurser 
+
+Läs informationen om det här avsnittet i [Operations Gallery] ( https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/ på webbplatsen för Microsoft-partner.  
+
+## <a name="api-throttling-to-partners-calling-partner-center-apis"></a><a name="9"></a>API-begränsning till partners som anropar API: er för partner Center
+
+### <a name="categories"></a>Kategorier
+
+- Datum 2020-11-17
+- Funktioner
+
+### <a name="summary"></a>Sammanfattning
+
+Microsoft presenterar API-begränsning för partner som anropar API: er för partner Center för att få en mer konsekvent prestanda inom ett angivet tidsintervall.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Partner som går via Cloud Solution Provider-programmet
+
+### <a name="details"></a>Information
+
+Microsoft implementerar API-begränsning i Q1 2021 för att få en mer konsekvent prestanda inom ett tidsintervall för partner som anropar API: er för partner Center. Begränsning begränsar antalet begär anden till en tjänst inom en viss tids period för att förhindra överanvändning av resurser. När ett tröskelvärde överskrids, begränsar Partner Center eventuella ytterligare begär Anden från klienten under en viss tids period.  
+
+### <a name="partner-benefits"></a>Partner förmåner 
+
+Partner Center har utformats för att hantera en stor mängd begär Anden, men om ett överbelastat antal förfrågningar görs av några få partner, hjälper begränsningen till att upprätthålla optimala prestanda och tillförlitlighet för alla partner. Det garanterar minimal nedtid. Genom att minska den stora mängden begär Anden kan vi garantera en konsekvent prestanda för alla partner. 
+
+
+### <a name="apis-to-be-throttled"></a>API: er som ska begränsas
+
+|**Åtgärd**|**Dokumentation för Partnercenter**|
+|-------------------------|----------------------------------|
+|{baseURL}/v1/Customers/{customer_id}/subscriptions|[Hämta alla kunders prenumerationer](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Hämta en prenumeration efter ID](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
+|{baseURL}/v1/Customers/{customer_id}/Orders||[Hämta alla kund beställningar](https://docs.microsoft.com/artner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}|[Hämta en order efter ID](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
+|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}/provisioningstatus|[Hämta prenumerations etablerings status](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Hantera order och hantera en prenumeration](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/addons|[Hämta en lista med tilläggs komponenter för en prenumeration](https://docs.microsoft.com/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/azureEntitlements|[Hämta en lista över Azure-rättigheter för en prenumeration](https://docs.microsoft.com/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/registrationstatus|[Hämta status för prenumerations registrering](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/customers/{customer-tenant-id}/transfers|[Hämta alla kunders överföringar](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Hämta status för produkt uppgradering](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)| 
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[Hämta en lista över erbjudanden för utvärderings konvertering](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers) 
+  
+
+Det här meddelandet syftar till att tillhandahålla partners med tidiga medvetenhet om de kommande ändringarna, så att de kan förbereda sig. Vi rekommenderar starkt att partners bekantar sig med dessa API: er och funderar på att använda API: et för aktivitets loggen för mer effektivitet och undvika begränsning. Mer information om den här funktionen finns i informationen i vägledning för [API-begränsning](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance). 
+
+### <a name="next-steps"></a>Nästa steg
+
+Läs igenom [API begränsnings vägledningen](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)och vidta nödvändiga åtgärder. 
+
+
+
+## <a name="409-errors-due-to-duplicate-mca-requests"></a><a name="8"></a>409 fel på grund av duplicerade MCA-begäranden
+
+### <a name="categories"></a>Kategorier
+
+- Datum 2020-11-16
+- Funktioner
+
+### <a name="context"></a>Kontext
+
+- I februari uppmanades du att underteckna Microsofts kund avtal (MCuA). Detta var en migrering från det tidigare Microsoft Cloud avtalet (MCA). 
+- Som en del av den här ändrings partnern begärdes parterna att ta med avtals typ parametern som dokumenterad [här](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement).
+
+### <a name="what-happened-next"></a>Vad hände härnäst:
+
+- Alla partners inkluderade inte parameter förfrågan i sin implementering. Microsoft returnerade MCA till dessa partner.
+- Partnern skickar sedan begäran om signering till kunden och skickar MCA till Microsoft igen. 
+- Dupliceringen påverkar Microsofts förmåga att tillhandahålla tjänster till partner.
+- I 2020 september skickade vi ut ett meddelande till partner, via Yammer i flera forum, som begär att partner korrigerar-parametern. Microsoft kunde inte längre acceptera dubbletterna och de får 409 fel.
+
+>[OBS!] Detta var inte en ny kontrakt/API-ändring för partner.
+
+- I oktober arbetade vi nära med partner som skulle ha haft flest dubbla förfrågningar om att åtgärda problemet.
+- För närvarande kommer vi att påminna om partner, samt att skicka personliga e-postmeddelanden till de 10 populäraste, för att granska deras förfrågningar och kontakta oss så att vi kan hjälpa dem att testa och lösa problemet.
+- Den 10 november 2020 slutade vi att acceptera dubbletter, och partner som inte hade korrigerat parametrarna, fick 409 fel.
+- Vi har sedan gjort en ändring av ändringen för att inte ta emot dubbletter. 
+- Men den 14 januari 2021 kommer vi återigen inte längre att acceptera dubbletter. Detta gör det möjligt för partners ytterligare tid att göra eventuella justeringar i slutet. Vi har redan fått ett meddelande från en partner att de planerar att distribuera en uppdatering den 11/16 där vi kommer att arbeta nära dem.
+- Vi ber att partners når oss så att vi kan hjälpa dem att testa genom att lägga till sina klienter i en flygning med ändringarna så att de kan se till att deras lösnings uppdatering fungerar som förväntat.
+
 
 
 ## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Testning tillgänglig: API-uppdateringar och användar gränssnitts förbättringar i Partner Center för att kunna verifiera kund validerings processen

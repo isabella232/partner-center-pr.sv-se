@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 4839fbd6fac5f84e5a2ebc40d1f7f48da6114113
-ms.sourcegitcommit: 92be474db61cc12f684850c2a7a8a8bdd5c93f97
+ms.openlocfilehash: 8ae4bed8536907c59f1b22e72896cfbe7f7aff9a
+ms.sourcegitcommit: 445c7b70943f71cc4b2cb48a327b9dcc1814974d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/05/2020
-ms.locfileid: "93363630"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94670158"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Tilldela användare roller och behörigheter för ett företags användare som behöver arbeta i Partner Center
 
@@ -130,7 +130,7 @@ Dessa roller är inte Azure Active Directory roller. Dessa roller hanterar före
 ## <a name="manage-referrals"></a>Hantera referenser
 
 > [!Note]
->Användar rollen nya hänvisningar kommer att vara tillgänglig från 16 november 2020. Befintliga hänvisnings administratörer behåller sin hänvisnings administratörs roll som är begränsad till hela företaget.
+>Användar rollen nya hänvisningar kommer att vara tillgänglig från 18 november 2020. Befintliga hänvisnings administratörer behåller sin hänvisnings administratörs roll som är begränsad till hela företaget.
 
 |**Role** | **Det här kan du göra**|**Läs mer**
 |------------------------------|:-------------------------|---|
