@@ -614,7 +614,7 @@
           href: advisor-create-a-purchase-offer.md
 - name: Partnercenter – data och analys
   items:
-    - name: Åtkomst till användardata och analys
+    - name: Åtkomst till prenumerationsdata och analys
       href: data-analysis-lp.md
     - name: Analysapp för Power BI
       items:
@@ -628,7 +628,7 @@
       items:
         - name: Om Insights
           href: partner-center-insights.md
-          displayName: mpn
+          displayName: data
         - name: Insights – rollbaserad åtkomstkontroll
           href: pci-roles.md
         - name: Insights – rapporter
