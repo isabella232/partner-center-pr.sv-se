@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 1e6002354323d2c528cbf32271144bbf61d40ac8
-ms.sourcegitcommit: 4fd1ff569e22e5e10ba9896b4e63eead7dcc5f1e
+ms.openlocfilehash: 495ea6df347a5c2f6cf05a9f9efddaf33113e0b4
+ms.sourcegitcommit: 992b9e57e1abc26d2b835414278c96b3de61dd2b
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "94845347"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "94885602"
 ---
 # <a name="november-2020-announcements"></a>Meddelanden november 2020
 
@@ -22,6 +22,34 @@ Den här sidan innehåller information om Microsoft Partner Center-meddelanden f
 
 2020-meddelanden: [april](2020-april.md)  |  [maj](2020-may.md)den  |  [juni](2020-june.md)  |  [juli](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md)  |  [October](2020-October.md) | November
 
+______________
+
+## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>Office 365 E1 för erbjudande mellan marknaden (LATAM, APAC och Indien)
+
+### <a name="categories"></a>Kategorier
+- Datum 2020-11-18
+- Erbjudanden/marknader
+
+### <a name="summary"></a>Sammanfattning
+Vi presenterar en ny Office 365 E1-kampanj för Mid-marknaden, som är begränsad till de nya marknaderna i LATAM, Indien och APAC (exklusive utvecklade marknader inom APAC).
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+Alla partners som går via Cloud Solution Provider (CSP)-programmet på de deltagande marknaderna ovan.
+
+### <a name="details"></a>Information
+Kampanjens pris består av 30% rabatt på Office 365 E1 för CSP. Den startas den 1 december 2020 och kommer att vara tillgänglig i 6 månader fram till den 31 maj 2020. Den här kampanj är bara tillgänglig för kunder som är nya för MW-molnet och som har upp till 500 platser. Observera att detta är begränsat till nya marknader i LATAM, Indien och APAC, så att du kan aktivera över gången till molnet. 
+
+#### <a name="offer-details"></a>Erbjudande information
+
+   |**Erbjudandets namn**|**Erbjudande-ID**|
+   |-------------------|:------|
+   |Office 365 E1 för erbjudande mellan marknaden|d20fdad5-f524-45e4-97b1-59a94c21778f|
+
+### <a name="next-steps"></a>Nästa steg
+Detta kommer att vara tillgängligt den 1 december under tiden, dela den här informationen med alla lämpliga kontakter i organisationen (i de deltagande regionerna). Börja engagera med kunder som inte finns i molnet än i de deltagande regionerna. 
+
+### <a name="questions"></a>Har du några frågor?
+Kontakta [partner Center-supporten](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) om du har frågor, frågor eller ytterligare information.
 ______________
 
 ## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>API-uppdateringar och användar gränssnitts förbättringar i Partner Center för att förstärka kund gallringen i vissa länder
