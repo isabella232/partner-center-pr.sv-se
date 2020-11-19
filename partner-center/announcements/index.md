@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/10/2020
-ms.openlocfilehash: 4afc08135ee84792d62391251fdb87ec0ddd9ce6
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 183ee0fe5e14608b0b43024e5c07e5ee95d608cd
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488143"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691324"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -22,6 +22,9 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 
 | **Kategori** | **Meddelanden november 2020** | **Meddelande** |
 |---------|:---------|:---------|
+|Funktioner|[EU-/EFTA-ändring av partnerfaktureringsvaluta för nya handelserbjudanden](2020-november.md#10)|17 november|
+|Funktioner|[API-begränsning för Partner Center-API:er](2020-november.md#9)|17 november|
+|Funktioner|[409-fel på grund av flera MCA-begäranden](2020-november.md#8)|16 november|
 |Funktioner|[Tillgängliga tester: Uppdateringar av Partnercenter-API och förbättringar av användargränssnittet (UI) för valideringsprocessen för utbildningskunder](2020-november.md#7)|10 november|
 |Funktioner|[Expandera partnerinnehåll för kommersiell licensiering i galleriet för driftberedskap](2020-november.md#6)|2 november|
 |Erbjudanden/marknader|[Lansering av Premium-SKU för Microsoft Teams Rum](2020-november.md#5)|2 november|
