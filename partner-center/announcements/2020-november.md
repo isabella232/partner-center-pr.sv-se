@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 495ea6df347a5c2f6cf05a9f9efddaf33113e0b4
-ms.sourcegitcommit: 992b9e57e1abc26d2b835414278c96b3de61dd2b
+ms.openlocfilehash: 4524514177c636fbb2b613ed50323fd8f586c56d
+ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 11/19/2020
-ms.locfileid: "94885602"
+ms.locfileid: "94932828"
 ---
 # <a name="november-2020-announcements"></a>Meddelanden november 2020
 
@@ -23,6 +23,43 @@ Den här sidan innehåller information om Microsoft Partner Center-meddelanden f
 2020-meddelanden: [april](2020-april.md)  |  [maj](2020-may.md)den  |  [juni](2020-june.md)  |  [juli](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md)  |  [October](2020-October.md) | November
 
 ______________
+## <a name="new-unified-account-management-experience"></a><a name="13"></a>Ny, enhetlig konto hanterings upplevelse
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2020-11-18
+- Funktioner
+
+## <a name="summary"></a>Sammanfattning
+
+Från och med 18 november börjar Partner Center att ta bort den nya konto hanterings upplevelsen som förbättrar användar upplevelsen för partner. Partner kommer nu att kunna hantera sitt konto för alla program från inställningar-> konto inställningar.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Alla partner
+
+### <a name="details"></a>Information
+
+Nyckel ändringen i konto hantering är integrationen av den tidigare separata **partner inställningen** vy för partner som registrerats i kommersiella program (Microsoft Partner Network, Cloud Solution Provider, hänvisningar osv.) och vyn **Inställningar för utvecklare** för partner som har registrerats i utvecklarresurser (kommersiell marknads plats, Windows & Xbox osv.) i vyn enhetligt **konto inställningar** .
+
+### <a name="entry-point"></a>Start punkt
+
+Logga in på Partner Center-instrumentpanelen och välj sedan ikonen  **Inställningar**   och klicka på **konto inställningar**. Du måste inte längre välja mellan partner och utvecklare eftersom alla profiler och inställningar nu kombineras.
+
+### <a name="left-navigation-hierarchy"></a>Vänster navigerings-hierarki
+
+- Organisations profil
+   - Juridiskt – hantera din juridiska företags profil, partner profil och företagets platser.
+   - Klienter – all din information om dina Azure AD-klienter, kommersiella och utvecklare, spåras här.
+   - Identifierare – Partner Center identiteter för ditt företag – din MPNID, publisherId o.s.v.
+- Användar hantering – Hantera dina användare och tilldela dem rollen som affärs-och utvecklare från en och samma plats. Du kan också hantera grupper och Azure AD-program härifrån.
+
+### <a name="next-steps"></a>Nästa steg
+
+Dela den här informationen med alla lämpliga kontakter i företaget.
+
+
+
 
 ## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>Office 365 E1 för erbjudande mellan marknaden (LATAM, APAC och Indien)
 
@@ -303,6 +340,7 @@ Läs igenom [API begränsnings vägledningen](https://docs.microsoft.com/partner
 - Dela den här informationen med lämpliga team i din organisation för att hjälpa dem att förbereda för dessa ändringar.
 
 
+>>>>>>> b9adba1905026516f3b9d15ff488d1c383af219b
 
 ## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Testning är tillgängligt: API: er för API och användar gränssnitt (UI) för att testa kund validerings processen
 
