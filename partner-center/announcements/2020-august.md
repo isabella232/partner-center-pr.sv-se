@@ -1,5 +1,5 @@
 ---
-title: Meddelanden från augusti 2020
+title: Meddelanden augusti 2020
 description: Meddelanden i augusti 2020 för Microsoft Partner Center, till exempel nya funktioner, kampanjer, erbjudanden, marknader eller ändringar av befintliga erbjudanden.
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,14 +9,14 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: e469f3a99a07715ebadf3b6bcca7b1cf1db46c44
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: f3503e4edf9b5e9081eb53b80a32f451db861a70
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92531941"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947689"
 ---
-# <a name="august-2020-announcements"></a>Meddelanden från augusti 2020
+# <a name="august-2020-announcements"></a>Meddelanden augusti 2020
 
 Den här sidan innehåller information om Microsoft Partner Center-meddelanden för augusti 2020.
 
@@ -89,7 +89,7 @@ Direkta fakturerings partner och indirekta leverantörer som deltar i CSP-progra
 
 ### <a name="summary"></a>Sammanfattning
 
-Från och med den 21 juli 2020 kan partners börja hämta versionen av **.net standard SDK Microsoft Partner Center** .NET SDK v-1.16.1, tillsammans med uppdaterade offentliga **partner Center SDK GitHub-exempel** .
+Från och med den 21 juli 2020 kan partners börja hämta versionen av **.net standard SDK Microsoft Partner Center** .NET SDK v-1.16.1, tillsammans med uppdaterade offentliga **partner Center SDK GitHub-exempel**.
 
 ### <a name="details"></a>Information
 
@@ -103,7 +103,7 @@ Det har uppstått en enorm efter frågan från partners som begär SDK i .NET st
 - .NET Core är fördelaktig att använda med behållare på grund av dess Lightweight-natur.
 - Server körning med hög prestanda för Windows Server och Linux gör .NET Core till ett webb ramverk för bästa prestanda.
 
-### <a name="next-steps"></a>Efterföljande moment
+### <a name="next-steps"></a>Nästa steg
 
 - Ladda ned den senaste versionen av [.NET SDK v-1.16.1](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.1)
 - Version: .NET SDK v-1.16.1
@@ -167,8 +167,6 @@ Det nya Advanced Communications-tillägget för Microsoft Teams är nu tillgäng
 
 Lanserades vid lanseringen
 - Gränser för Live-händelser till 20 K deltagare (50 samtidiga, 16 timmar)
-- Integrering av kompatibilitets registrering (ISV) 
-- Integrering av kontakt Center lösning (ISV) 
 
 Släppt senare i CY2020
 - 1 000-persons interaktiva team-möte 
@@ -193,7 +191,7 @@ Släppt senare i CY2020
 - **Var kan den säljas?** Den kan säljas på alla aktuella marknader.
 - **Vilka är kraven?** Alla Microsoft 365/Office 365-paket som innehåller Microsoft Teams.
 
-### <a name="next-steps"></a>Efterföljande moment
+### <a name="next-steps"></a>Nästa steg
 
 - Dela den här informationen med relevanta kontakter i din organisation och förstå de merförsäljning och globala Sälj möjligheterna. Granska avsnittet resurser i [guiden team partner](https://aka.ms/teamscallingmeetingsguide).
 
@@ -218,7 +216,7 @@ Microsoft Defender Avancerat skydd (ATP) för servrar för utbildning som är ti
 - Erbjudandets namn: Microsoft Defender ATP för servrar för utbildning
 - Erbjudande-ID: c7b9ab7e-8f80-4b4b-8aed-dcad61f28995
 
-### <a name="next-steps"></a>Efterföljande moment
+### <a name="next-steps"></a>Nästa steg
 
 - Dela den här informationen med lämpliga kontakter i din organisation.
 - Läs [dokumentationen om Microsoft Defender ATP](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) för mer information om produkten.
@@ -250,7 +248,7 @@ Läs mer om dessa erbjudanden i [Dynamics CSP Offers-August 2020 Excel-dokumente
 - [Microsoft Dynamics 365 bedrägeri skydd](https://partner.microsoft.com/resources/collection/microsoft-dynamics-365-power-platform-offers-products-fraud-protection-vl-csp-collection#/)
 - [Microsoft Dynamics 365-licensiering](https://partner.microsoft.com/resources/collection/microsoft-dynamics-365-power-platform-offers-products-fraud-protection-vl-csp-collection#/)
 
-### <a name="next-steps"></a>Efterföljande moment
+### <a name="next-steps"></a>Nästa steg
 
 Dela den här informationen med lämpliga kontakter i din organisation och bekanta dig med pris listan för för hands versionen. 
 
@@ -295,7 +293,7 @@ Vi erbjuder en kostnads fri 30-dagars utvärderings version för Visio plan 1 oc
    |Utvärderings version av Visio plan 1|7b6bb5a6-15c9-4ede-8eba-e2dfe2118b69|
    |Utvärderings version av Visio plan 2|20f1b560-c19a-4fc7-abc0-d8a797c06338|
 
-### <a name="next-steps"></a>Efterföljande moment
+### <a name="next-steps"></a>Nästa steg
 
 - Lär dig mer om Visio-plan 1 och plan 2 i [Åtgärds resurs galleriet](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/) 
 - Vi rekommenderar också att du visar inspirera-sessionen för [att hjälpa kunder att återbindas och föreställa sig för företag med Microsoft Visio och Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform).

@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/06/2020
-ms.openlocfilehash: 9c03878ec69b9df06795054464ef7f76e038e780
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.openlocfilehash: cbd849001d128db1912a9bb61ef4c5217a5932ce
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94531995"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947672"
 ---
 # <a name="payout-schedules-and-policy-details"></a>Utbetalnings scheman och princip information
 
@@ -32,9 +32,9 @@ En utbetalning inträffar ofta innan Microsoft samlar in betalning från kunden.
 | --- | --- | --- | --- |
 | Användning eller månad för transaktion | Kunden använder eller köper en tjänst. | [Användnings](/azure/marketplace/partner-center-portal/usage-dashboard) -eller [order](/azure/marketplace/partner-center-portal/orders-dashboard) instrument panel | **Månad 1** |
 | Inköps order skapas | Fastställ total användning, totalt antal transaktioner | [Användnings](/azure/marketplace/partner-center-portal/usage-dashboard) -eller [order](/azure/marketplace/partner-center-portal/orders-dashboard) instrument panel | **Månad 2** |
-| ISV-betalning skapas | Fastställa utbetalnings avgiften och utbetalnings intäkterna | Markerade som obearbetade i transaktions historiken för utbetalnings instruktionen | **Månad 3 (1: e veckan)** |
-| Förbered utbetalning | Intäkterna är för beredda för månatlig betalning | Markerat som kommande i transaktions historik i utbetalnings instruktionen | **Månad 3 (1: e veckan)** |
-| **Utbetalnings datum** | **Betalningen skickas till utgivaren** | **Markerat som skickat i transaktions historik och i avsnittet betalningar i utbetalnings instruktionen** | **Månad 3 (senast den 15)** |
+| ISV-betalning skapas | Fastställa utbetalnings avgiften och utbetalnings intäkterna | Markerade som obearbetade i transaktions historiken för [utbetalnings instruktionen](payout-statement.md) | **Månad 3 (1: e veckan)** |
+| Förbered utbetalning | Intäkterna är för beredda för månatlig betalning | Markerat som kommande i transaktions historik i [utbetalnings instruktionen](payout-statement.md) | **Månad 3 (1: e veckan)** |
+| **Utbetalnings datum** | **Betalningen skickas till utgivaren** | **Markerat som skickat i transaktions historik och i avsnittet betalningar i [utbetalnings instruktionen](payout-statement.md)** | **Månad 3 (senast den 15)** |
 | Faktura betald per kund | Microsoft samlar in betalning från kunden | Ingen ändring | **Månad 4 till 12** |
 |
 
@@ -48,10 +48,10 @@ Alla inköp med ett kredit kort eller en månads faktura har en 30-dagars period
 | --- | --- | --- | --- |
 | Användning eller månad för transaktion | Kunden använder eller köper en tjänst. | [Användnings](/azure/marketplace/partner-center-portal/usage-dashboard) -eller [order](/azure/marketplace/partner-center-portal/orders-dashboard) instrument panel | **Månad 1** |
 | Faktura betald per kund | Fastställer total användning, totalt transaktions värde och kund betalar faktura | [Användnings](/azure/marketplace/partner-center-portal/usage-dashboard) -eller [order](/azure/marketplace/partner-center-portal/orders-dashboard) instrument panel | **Månad 2** |
-| ISV-betalning skapas | Fastställa utbetalnings avgiften och utbetalnings intäkterna | Markerade som obearbetade i transaktions historiken för utbetalnings instruktionen | **Månad 2** |
-| 30 dagars anläggnings period | Se till att insamling av fonder, eventuell åter betalning och åter betalnings förfrågningar | Markerade som obearbetade i transaktions historiken för utbetalnings instruktionen | **Månad 3** |
-| Förbered utbetalning | Intäkterna är för beredda för månatlig betalning | Markerat som kommande i transaktions historik i utbetalnings instruktionen | **Första veckan i månad 4** |
-| **Utbetalnings datum** | **Betalningen skickas till utgivaren** | **Markerat som skickat i transaktions historik och i avsnittet betalningar i utbetalnings instruktionen** | **Månad 4 (senast den 15)** |
+| ISV-betalning skapas | Fastställa utbetalnings avgiften och utbetalnings intäkterna | Markerade som obearbetade i transaktions historiken för [utbetalnings instruktionen](payout-statement.md) | **Månad 2** |
+| 30 dagars anläggnings period | Se till att insamling av fonder, eventuell åter betalning och åter betalnings förfrågningar | Markerade som obearbetade i transaktions historiken för [utbetalnings instruktionen](payout-statement.md) | **Månad 3** |
+| Förbered utbetalning | Intäkterna är för beredda för månatlig betalning | Markerat som kommande i transaktions historik i [utbetalnings instruktionen](payout-statement.md) | **Månad 4 (1: a veckan)** |
+| **Utbetalnings datum** | **Betalningen skickas till utgivaren** | **Markerat som skickat i transaktions historik och i avsnittet betalningar i [utbetalnings instruktionen](payout-statement.md)** | **Månad 4 (senast den 15)** |
 |
 
 \* Utbetalnings datumet är i PST (Pacific, normal tid).
@@ -97,4 +97,4 @@ Vi skickar vanligt vis ut alla betalningar som förfaller under en månad den 15
 
 ## <a name="next-steps"></a>Nästa steg
 
-Läs mer om [skatte information](tax-details-marketplace.md).
+- [Skatteinformation](tax-details-marketplace.md)

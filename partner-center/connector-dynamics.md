@@ -8,12 +8,12 @@ description: Synkronisera dina referenser i Partner Center med din co-sälje Con
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 8ea803e675ce7c2d21d680491bbdaedf792e631f
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: c92938bbb4ffa6875419d06a9bbf23010ee60724
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92531896"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947826"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Co-Sälj koppling för Dynamics 365 CRM – översikt
 
@@ -46,7 +46,7 @@ Lösningen baseras på Microsoft Power automatiserings lösning och använder AP
 
 4. Klicka på länken **Öppna AppSource** på den översta menyn.
 
-   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="Öppna AppSource&quot;:::
+   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="Öppna AppSource":::
 
 5. Sök efter **partner Center-referenser till kopplingar för Dynamics365** på popup-skärmen.  
 
@@ -54,21 +54,13 @@ Lösningen baseras på Microsoft Power automatiserings lösning och använder AP
 
 7. Då öppnas sidan där du kan välja CRM-miljön (Dynamics 365) för att installera programmet.  Godkänn de allmänna villkoren.
 
-8. Sedan dirigeras du till sidan **Hantera dina lösningar** .  Gå till &quot;Partner Center-referenser" genom att använda pilknapparna längst ned på sidan. **Installationen är schemalagd** bör visas bredvid lösningen för partner Center-hänvisningar. Installationen tar 10-15 minuter. 
+8. Sedan dirigeras du till sidan **Hantera dina lösningar** .  Gå till "Partner Center-referenser" genom att använda pilknapparna längst ned på sidan. **Installationen är schemalagd** bör visas bredvid lösningen för partner Center-hänvisningar. Installationen tar 10-15 minuter. 
 
 9. När installationen är klar navigerar du tillbaka till [Automatisera](https://flow.microsoft.com) och väljer **lösningar** från det vänstra navigerings fältet. Observera att **synkroniseringen av Partner Center för Dynamics 365** är tillgänglig i lösnings listan.
 
-10. Välj **synkronisering av Partner Center-referenser för Dynamics 365** . Följande energi flöden och entiteter är tillgängliga:
+10. Välj **synkronisering av Partner Center-referenser för Dynamics 365**. Följande energi flöden och entiteter är tillgängliga:
 
-    :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="Öppna AppSource&quot;:::
-
-5. Sök efter **partner Center-referenser till kopplingar för Dynamics365** på popup-skärmen.  
-
-6. Klicka på knappen **Hämta nu** och **Fortsätt** sedan.
-
-7. Då öppnas sidan där du kan välja CRM-miljön (Dynamics 365) för att installera programmet.  Godkänn de allmänna villkoren.
-
-8. Sedan dirigeras du till sidan **Hantera dina lösningar** .  Gå till &quot;Partner Center-referenser":::
+    :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="Tillgängliga CRMS":::
 
 ## <a name="best-practice-test-before-you-go-live"></a>Bästa praxis: testa innan du går live
 
@@ -83,6 +75,7 @@ Innan du installerar, konfigurerar och anpassar den automatiserade energi lösni
 
 1. När du har installerat lösningen i din CRM-instans går du tillbaka till [Energis par](https://flow.microsoft.com/).
 
+
 2. I list rutan **miljöer** i det högra hörnet väljer du den CRM-instans där du installerade den automatiserade energi lösningen.
 
 3. Du måste skapa anslutningar som associerar de tre användar kontona:
@@ -95,17 +88,9 @@ Innan du installerar, konfigurerar och anpassar den automatiserade energi lösni
 
       1. Välj **anslutningar** i det vänstra navigerings fältet och välj lösningen "Partner Center-hänvisningar" i listan.
 
-      2. Skapa en anslutning genom att klicka på **skapa en anslutning** .
+      2. Skapa en anslutning genom att klicka på **skapa en anslutning**.
 
-         :::image type="content" source="images/cosellconnectors/createconnection.png" alt-text="Öppna AppSource&quot;:::
-
-5. Sök efter **partner Center-referenser till kopplingar för Dynamics365** på popup-skärmen.  
-
-6. Klicka på knappen **Hämta nu** och **Fortsätt** sedan.
-
-7. Då öppnas sidan där du kan välja CRM-miljön (Dynamics 365) för att installera programmet.  Godkänn de allmänna villkoren.
-
-8. Sedan dirigeras du till sidan **Hantera dina lösningar** .  Gå till &quot;Partner Center-referenser":::
+         :::image type="content" source="images/cosellconnectors/dynamics1.png" alt-text="Skapa anslutning":::
 
       3. Sök efter **partner Center-referenser (för hands version)** i Sök fältet i det övre högra hörnet.
 
@@ -114,10 +99,31 @@ Innan du installerar, konfigurerar och anpassar den automatiserade energi lösni
       5. Skapa sedan en anslutning för partner Center-händelser för din partner Center-användare med autentiseringsuppgifterna för referral admin.
 
       6. Skapa en anslutning för Common Data Service (aktuell miljö) för CRM-administratörens användare.
+       
+     
+      7. När du har lagt till alla anslutningar bör du se följande anslutningar i din miljö:
 
-4. Om du vill associera de automatiserade energi flödena med anslutningarna redigerar du var och en av de automatiserade energi flödena för att ansluta till Common Data Service-och partner Center-referenser Spara ändringarna.
+:::image type="content" source="images/cosellconnectors/dynamics2.png" alt-text="Anslutningar":::
+   
+## <a name="edit-the-connections"></a>Redigera anslutningarna
 
-5. **Aktivera** Energis par automatiserings flöden.
+1. Gå tillbaka till sidan **lösningar** och välj **standard lösning**. Välj **anslutnings referens (för hands version)** genom att klicka på **alla**.
+
+:::image type="content" source="images/cosellconnectors/dynamics3.png" alt-text="Anslut":::
+
+2. Redigera varje anslutning en i taget genom att välja ikonen tre punkter. Lägg till relevanta anslutningar.
+
+:::image type="content" source="images/cosellconnectors/dynamics4.png" alt-text="Anslutningar i listan"::: 
+
+3.  Aktivera flödena i följande ordning:
+- Partner Center – registrering av webhook (Insider Preview)
+- Skapa samförsäljnings hänvisning – Dynamics 365 till Partner Center (Insider Preview)
+- Partner Center Microsoft Co-Sälj hänvisnings uppdateringar till Dynamics 365 (Insider Preview)
+- Partner Center till Dynamics 365 (Insider Preview)
+- Dynamics 365 till Partner Center (Insider Preview)
+- Dynamics 365-möjlighet till Partner Center (Insider Preview)
+- Dynamics 365 Microsoft-lösningar till Partner Center (Insider Preview)
+ 
 
 ## <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Använda webhook-API: er för att registrera för resurs ändrings händelser
 
@@ -127,49 +133,35 @@ Med API: er för webhook i Partner Center kan du registrera för resurs ändring
 
 2. Lägg till anslutningar för (a.) partner Center användare med referenser admin-autentiseringsuppgifter (b.) partner Center-händelser som marker ATS nedan
 
-   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Öppna AppSource&quot;:::
-
-5. Sök efter **partner Center-referenser till kopplingar för Dynamics365** på popup-skärmen.  
-
-6. Klicka på knappen **Hämta nu** och **Fortsätt** sedan.
-
-7. Då öppnas sidan där du kan välja CRM-miljön (Dynamics 365) för att installera programmet.  Godkänn de allmänna villkoren.
-
-8. Sedan dirigeras du till sidan **Hantera dina lösningar** .  Gå till &quot;Partner Center-referenser":::
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Utlösare":::
 
 3. När du gör dessa uppdateringar visas
 
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Öppna AppSource&quot;:::
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhooks":::
 
-5. Sök efter **partner Center-referenser till kopplingar för Dynamics365** på popup-skärmen.  
-
-6. Klicka på knappen **Hämta nu** och **Fortsätt** sedan.
-
-7. Då öppnas sidan där du kan välja CRM-miljön (Dynamics 365) för att installera programmet.  Godkänn de allmänna villkoren.
-
-8. Sedan dirigeras du till sidan **Hantera dina lösningar** .  Gå till &quot;Partner Center-referenser":::
-
-4. Spara ändringarna och välj **Aktivera** .
+4. Spara ändringarna och välj **Aktivera**.
 
    Gör så här om du vill aktivera att Webhooks i Partner Center ska lyssna på händelse ändringar:
 
-5. Välj **partner Center till Dynamics 365 (Insider Preview)** .
+5. Välj **partner Center till Dynamics 365 (Insider Preview)**.
 
-6. Välj **redigerings** ikonen och välj **när en http-begäran tas emot** .
+6. Välj **redigerings** ikonen och välj **när en http-begäran tas emot**.
 
 7. Välj **kopierings** ikonen för att kopiera den tillhandahållna HTTP post-URL: en.
 
-   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="Öppna AppSource&quot;:::
+   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="Kopiera URL":::
 
-5. Sök efter **partner Center-referenser till kopplingar för Dynamics365** på popup-skärmen.  
+8. Välj nu "partner för webhook-registrering (Insider Preview)" i Power Center och välj **Kör**.
 
-6. Klicka på knappen **Hämta nu** och **Fortsätt** sedan.
+9. Se till att fönstret kör flöde visas i den högra rutan och klicka på **Fortsätt**.
 
-7. Då öppnas sidan där du kan välja CRM-miljön (Dynamics 365) för att installera programmet.  Godkänn de allmänna villkoren.
+10. Ange följande uppgifter:
 
-8. Sedan dirigeras du till sidan **Hantera dina lösningar** .  Gå till &quot;Partner Center-referenser"
+    1. **Http-utlösare slut punkt**: URL kopierad från föregående steg
 
-    3. **Skriv över befintliga utlösare slut punkter om det finns** : Ja (detta skriver över alla befintliga slut punkter.)
+    2. **Händelser att registrera**: "referral-created" och "referral-updated"
+
+    3. **Skriv över befintliga utlösare slut punkter om det finns**: Ja (detta skriver över alla befintliga slut punkter.)
 
 11. Välj **Kör** och välj sedan **Slutför.**
 
@@ -189,13 +181,13 @@ Flera steg i vart och ett av de automatiserade energi flödena kan anpassas efte
 
     b. Välj **Redigera** för att redigera/anpassa det energi automatiserade flödet.
 
-    c. Välj **(omfång) synkronisera lead eller affärs möjlighet** .
+    c. Välj **(omfång) synkronisera lead eller affärs möjlighet**.
 
-2. Om du vill anpassa fält mappningar för CRM (baserat på fält mappnings guide) för skapa händelser väljer du **om den är ny delad affärs möjlighet och sedan** . Välj under steget **om ja** och expandera sedan **skapa en ny affärs möjlighet i CRM** . Du kan redigera mappningarna i det här avsnittet med hjälp av fält mappnings guiden.
+2. Om du vill anpassa fält mappningar för CRM (baserat på fält mappnings guide) för skapa händelser väljer du **om den är ny delad affärs möjlighet och sedan**. Välj under steget **om ja** och expandera sedan **skapa en ny affärs möjlighet i CRM**. Du kan redigera mappningarna i det här avsnittet med hjälp av fält mappnings guiden.
 
     d. För att anpassa fält mappningar för CRM (baserat på fält mappnings guide) för uppdaterings händelser, klicka på steget "(omfattning) synkronisera lead eller affärs möjlighet".
 
-    e. Välj **om det är en uppdatering av en affärs möjlighet och sedan** . Välj under steget **om ja** och expandera sedan **differensen mellan affärs möjlighets objekt i Partner Center och CRM** .  
+    e. Välj **om det är en uppdatering av en affärs möjlighet och sedan**. Välj under steget **om ja** och expandera sedan **differensen mellan affärs möjlighets objekt i Partner Center och CRM**.  
 
     f. Välj **om ja** följt av **Uppdatera befintlig affärs möjlighet**
 
@@ -203,11 +195,11 @@ Flera steg i vart och ett av de automatiserade energi flödena kan anpassas efte
 
     a. Välj **Redigera**  för att redigera/anpassa det energi automatiserade flödet.
 
-    b. Välj **(omfång) synkronisera affärs möjligheten** .
+    b. Välj **(omfång) synkronisera affärs möjligheten**.
 
-    c. Om du vill anpassa fält mappningar för CRM för uppdaterings händelser väljer du **om det finns skillnader mellan lead-objekten i Partner Center och CRM** . 
+    c. Om du vill anpassa fält mappningar för CRM för uppdaterings händelser väljer du **om det finns skillnader mellan lead-objekten i Partner Center och CRM**. 
 
-    d. Välj under steget **om ja** och expandera sedan steget **Uppdatera en referens med affärs möjlighets data** .
+    d. Välj under steget **om ja** och expandera sedan steget **Uppdatera en referens med affärs möjlighets data**.
 
    Du kan redigera mappningarna i det här avsnittet baserat på fält mappnings guiden.
 
@@ -217,9 +209,19 @@ Flera steg i vart och ett av de automatiserade energi flödena kan anpassas efte
 
    b. Välj **(omfång)-synkronisering av referenser.**
 
-   c. För att anpassa fält mappningar för CRM (baserat på fält mappnings guide) för skapa händelser väljer du **skapa Microsoft referral** .
+   c. För att anpassa fält mappningar för CRM (baserat på fält mappnings guide) för skapa händelser väljer du **skapa Microsoft referral**.
 
    Du kan redigera mappningarna i det här avsnittet baserat på fält mappnings guiden.
+
+Två miljövariabler har skapats:
+
+- Bock: anger om du behöver en bock ikon förutom affärs möjligheter som synkroniseras i bi-riktning mellan partner Center och Dynamics 365 CRM.
+
+- Synkronisera samförsäljnings möjligheter endast: anger om du bara vill synkronisera samförsäljnings möjligheter.
+
+Du kan välja att redigera standardvärdet för miljövariablerna.
+
+:::image type="content" source="images/cosellconnectors/dynamics5.png" alt-text="Redigerings ruta för standardvärden":::
 
 ## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>Slutförd dubbelriktad referens synkronisering från slut punkt till slut punkt
 
@@ -233,17 +235,23 @@ En uppsättning anpassade fält är tillgänglig som en del av entiteten **affä
 
 Följande anpassade fält ska ingå i CRM-avsnittet:
 
-- **Synkronisera med partner Center** : om du vill synkronisera affärs möjligheten med Microsoft Partner Center
+- **Synkronisera med partner Center**: om du vill synkronisera affärs möjligheten med Microsoft Partner Center
 
-- **Hänvisnings-ID** : ett skrivskyddat ID-fält för Microsoft Partner Center-hänvisning
+- **Hänvisnings-ID**: ett skrivskyddat ID-fält för Microsoft Partner Center-hänvisning
 
-- **Hänvisnings länk** : en skrivskyddad länk till hänvisningen i Microsoft Partner Center
+- **Hänvisnings länk**: en skrivskyddad länk till hänvisningen i Microsoft Partner Center
 
-- **Hur kan Microsoft hjälpa?** : hjälp krävs från Microsoft för hänvisning
+- **Hur kan Microsoft hjälpa?**: hjälp krävs från Microsoft för hänvisning
 
-- **Produkter** : lista över produkter som är kopplade till den här affärs möjligheten
+- **Produkter**: lista över produkter som är kopplade till den här affärs möjligheten
 
-- **Granskning** : en skrivskyddad Gransknings logg för synkronisering med partner Center-hänvisningar
+- **Granskning**: en skrivskyddad Gransknings logg för synkronisering med partner Center-hänvisningar
+
+Uppdatera affärs möjlighets formuläret i Dynamics 365 CRM för att ta med lösningar för fältet produkter.
+
+:::image type="content" source="images/cosellconnectors/dynamics6.png" alt-text="Affärs möjlighets formulär":::
+
+:::image type="content" source="images/cosellconnectors/dynamics7.png" alt-text="{alt-text}":::
 
 ### <a name="scenarios"></a>OLIKA
 
@@ -253,31 +261,21 @@ Följande anpassade fält ska ingå i CRM-avsnittet:
 
    2. Se till att följande avsnitt finns när du skapar en "ny affärs möjlighet" i Dynamics 365-miljön
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Öppna AppSource&quot;:::
-
-5. Sök efter **partner Center-referenser till kopplingar för Dynamics365** på popup-skärmen.  
-
-6. Klicka på knappen **Hämta nu** och **Fortsätt** sedan.
-
-7. Då öppnas sidan där du kan välja CRM-miljön (Dynamics 365) för att installera programmet.  Godkänn de allmänna villkoren.
-
-8. Sedan dirigeras du till sidan **Hantera dina lösningar** .  Gå till &quot;Partner Center-referenser":::
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Avsnittet exempel på möjlighet som visar information om Microsoft Partner Center i Dynamics 365.":::
 
    3. För att synkronisera den här affärs möjligheten med Microsoft Partner Center, se till att du anger följande fält i kort vyn:
 
-      - **Synkronisera med partner Center** : Ja
+      - **Synkronisera med partner Center**: Ja
 
-      - **Hur kan Microsoft hjälpa?** : Välj bland följande:
+      - **Hur kan Microsoft hjälpa?**: Välj bland följande:
 
-         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Öppna AppSource&quot;:::
+         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Avsnittet exempel på en affärs möjlighet i Dynamics 365 som visar hjälp alternativ för Microsoft Partner Center bredvid ett fält som kallas hur kan Microsoft hjälpa dig?":::
 
-5. Sök efter **partner Center-referenser till kopplingar för Dynamics365** på popup-skärmen.  
+      - **Produkter**: lösnings-ID för produkten
 
-6. Klicka på knappen **Hämta nu** och **Fortsätt** sedan.
+   4. När affärs möjligheten har skapats i Dynamics 365 med alternativet **Synkronisera med partner Center** inställt på **Ja**, vänta 10 minuter och logga sedan in på ditt partner Center-konto. Dina referenser kommer att synkroniseras med Dynamics 365.
 
-7. Då öppnas sidan där du kan välja CRM-miljön (Dynamics 365) för att installera programmet.  Godkänn de allmänna villkoren.
-
-8. Sedan dirigeras du till sidan **Hantera dina lösningar** .  Gå till &quot;Partner Center-referenser" inställt på "Ja", om du uppdaterar affärs möjligheten i Dynamics 365 CRM, kommer ändringarna att synkroniseras i ditt partner Center-konto.
+   5. För en affärs möjlighet som har alternativet "synkronisera med partner Center" inställt på "Ja", om du uppdaterar affärs möjligheten i Dynamics 365 CRM, kommer ändringarna att synkroniseras i ditt partner Center-konto.
 
    6. Möjligheter som har synkroniserats med partner Center identifieras med ✔-ikonen i Dynamics 365.
 
@@ -291,7 +289,7 @@ Följande anpassade fält ska ingå i CRM-avsnittet:
 
    4. Logga in på din Dynamics 365 CRM-miljö.
 
-   5. Navigera till **Öppna affärs möjligheter** . Den hänvisning som skapats i Microsoft Partner Center synkroniseras nu i Dynamics 365 CRM.
+   5. Navigera till **Öppna affärs möjligheter**. Den hänvisning som skapats i Microsoft Partner Center synkroniseras nu i Dynamics 365 CRM.
 
    6. När du väljer en synkroniserad referens fylls kort visnings informationen i.
 
