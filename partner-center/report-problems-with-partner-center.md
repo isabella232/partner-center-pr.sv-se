@@ -1,20 +1,20 @@
 ---
 title: Rapportera problem med Partner Center
 ms.topic: how-to
-ms.date: 06/05/2020
+ms.date: 11/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: Lär dig hur du rapporterar problem med partner Center och hur du samlar in diagnostisk information för partner support teamet.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1db695179915f8ee803ad4dfdcfd6278ce49238b
-ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
+ms.openlocfilehash: 7d978ca3c48ccadaabb7d714ea9a5d2900bef819
+ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94567098"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94983349"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Rapportera problem med partner Center och skicka in information om logg-eller diagnostikinformation
 
@@ -23,9 +23,7 @@ ms.locfileid: "94567098"
 - Partnercenter
 - Välkommen till Partnercenter för Microsoft Cloud for US Government
 
-Kontakta Partner Center-supporten om du hittar problem eller behöver hjälp med partner Center.
-
-**Användar roller**
+**Lämpliga roller**
 
 Alla inloggade Partner Center-användare kan skapa en support förfrågan för partner. Användare kan bara se support förfrågningar som de har skickat efter inloggning till Partner Center.
 
@@ -58,6 +56,12 @@ Om ditt problem kräver en konversation med din support rådgivare kan du schema
 1. När du schemalägger en avtalad tid skickar Partner Center en kalender-inbjudan med information om hur support organisationen kommer att kontakta dig, så att du kan spåra den här avtalade tiden i din egen arbets kalender.
 
 :::image type="content" source="images/support/ticket3.png" alt-text="Datum och tid":::
+
+## <a name="hours-of-operation"></a>Drift timmar
+
+**Support för partner**
+
+:::image type="content" source="images/support/hoop.png" alt-text="Support timmar för åtgärd":::
 
 ## <a name="send-diagnostics"></a>Skicka diagnostik
 
