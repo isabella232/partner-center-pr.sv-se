@@ -2,16 +2,16 @@
 title: Skapa och hantera privat Azure Marketplace i Azure Portal
 description: Lär dig mer om att skapa och hantera privata Azure Marketplace (för hands version) i Azure Portal.
 ms.prod: marketplace-customer
-ms.topic: article
+ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 09/18/2020
-ms.openlocfilehash: 1333bb2c8830cec83d7b7f05890af818d5c0ce5b
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: f62c9aef13b51ba2db42b267d7620f506bbdc1ec
+ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94487711"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "95006947"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Skapa och hantera privat Azure Marketplace (för hands version) i Azure Portal
 
@@ -37,8 +37,8 @@ Du måste uppfylla dessa krav innan du kan tilldela rollen Marketplace-administr
 
 - Du har åtkomst till en **Global administratörs** användare.
 - Klienten har minst en prenumeration (kan vara av valfri typ).
-- Den globala administratörs användaren tilldelas **deltagar** rollen eller högre för den prenumeration som valts i steg 2.
-- Den globala administratörs användaren har förhöjd åtkomst inställt på **Ja** (se [höjning-åtkomst-global-admin](/azure/role-based-access-control/elevate-access-global-admin)).
+- Den globala administratörs användaren tilldelas rollen **deltagare** eller högre för den valda prenumerationen.
+- Den globala administratörs användaren har förhöjd åtkomst inställt på **Ja** (se [öka åtkomsten för att hantera alla Azure-prenumerationer och hanterings grupper](/azure/role-based-access-control/elevate-access-global-admin)).
 
 ### <a name="assign-the-marketplace-admin-role-with-powershell"></a>Tilldela rollen Marketplace-administratör med PowerShell
 
@@ -105,7 +105,6 @@ Write-Output -Message "'$($MarketplaceAdminRoleDefinitionName)' role is availabl
 }
 
 Write-Output -Message "About to assign '$($MarketplaceAdminRoleDefinitionName)' role for $($UsernameToAssignRoleFor)..."
-
 $elevatedAccessOnRoot = Get-AzRoleAssignment | where {$_.RoleDefinitionName -eq "User Access Administrator" -and $_.Scope -eq "/" -and $_.SignInName.Trim().ToLower() -eq $GlobalAdminUsername.Trim().ToLower() } | ft -Property SignInName
 
 if($elevatedAccessOnRoot.Count -eq 0)
@@ -128,7 +127,7 @@ Mer information om de cmdletar som finns i AZ. Portal PowerShell-modulen finns [
 
 ## <a name="create-private-azure-marketplace"></a>Skapa en privat Azure Marketplace
 
-1. Logga in på [Azure Portal](https://portal.azure.com/).
+1. Logga in på [Azure-portalen](https://portal.azure.com/).
 2. Välj **alla tjänster** och sedan **Marketplace**.
 
    :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="Azure Portal huvud fönstret.":::

@@ -1,19 +1,19 @@
 ---
-title: Partner integreringar för Azure Marketplace
+title: Partnerintegreringar för Azure Marketplace
 description: Lär dig om Azure Marketplace-lösningar som integreras med din Azure-miljö och få länkar till distributions guider från Microsoft-partner.
 ms.service: partner-services
 ms.topic: conceptual
-author: dsindona
-ms.author: dsindona
+author: JasonWHowell
+ms.author: jasonh
 ms.date: 11/16/2020
-ms.openlocfilehash: 7c97936e7764361c21503eca174433029707cf69
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: b31486000e59f3d85ee30019ecea000252b297a8
+ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691696"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "95006913"
 ---
-# <a name="azure-marketplace-partner-integrations"></a>Partner integreringar för Azure Marketplace
+# <a name="azure-marketplace-partner-integrations"></a>Partnerintegreringar för Azure Marketplace
 
 Lär dig hur du integrerar partner lösningar i din Azure-miljö. Den här artikeln ger en översikt över varje lösning och länkar till detaljerade distributions guider. Lösningar visas i alfabetisk ordning. 
 
