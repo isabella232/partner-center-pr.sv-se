@@ -9,13 +9,13 @@ metadata:
   ms.topic: landing-page
   author: LauraBrenner
   ms.author: labrenne
-  ms.date: 10/16/2020
-  ms.openlocfilehash: a10616a60e74de88c2f4fda37062275e47fb59bc
-  ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+  ms.date: 11/19/2020
+  ms.openlocfilehash: 90f63b0411935c560ca4693cf372c3d2a3e1fafd
+  ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "92526829"
+  ms.lasthandoff: 11/20/2020
+  ms.locfileid: "94983325"
 landingContent:
 - title: Kom igång med Partnercenter
   linkLists:
@@ -85,22 +85,6 @@ landingContent:
       url: set-up-your-payout-account.md
     - text: Förstå fakturan
       url: read-your-bill.md
-- title: Resurser för utvecklare
-  linkLists:
-  - linkListType: reference
-    links:
-    - text: Gå med i Partnercenter-programmet för tidiga API- och SDK-användare
-      url: /partner-center/develop/early-adopter-program
-    - text: Dokumentation för Partnercenter-utvecklare
-      url: /partner-center/develop
-    - text: Partnercenter – REST API-referens
-      url: /partner-center/develop/partner-center-rest-api-reference
-    - text: Partnercenter – .NET API-referens
-      url: /dotnet/api/?view=partnercenter-dotnet-latest&preserve-view=true
-    - text: Partnercenter – SDK för Java
-      url: /java/partnercenter/overview
-    - text: Partnercenter – PowerShell
-      url: /powershell/partnercenter/overview
 - title: Läs mer om den kommersiella marknadsplatsen (oberoende programvaruleverantörer)
   linkLists:
   - linkListType: concept
