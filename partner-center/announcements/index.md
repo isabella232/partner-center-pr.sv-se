@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 11/17/2020
-ms.openlocfilehash: d8bd7be9d77f9c8d59af5d45821b9c0728457e52
-ms.sourcegitcommit: 992b9e57e1abc26d2b835414278c96b3de61dd2b
+ms.date: 11/19/2020
+ms.openlocfilehash: c3d811a32e2ddd9d7127fe331beb944e5e7b20fb
+ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
 ms.translationtype: HT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 11/19/2020
-ms.locfileid: "94885619"
+ms.locfileid: "94932777"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -22,6 +22,7 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 
 | **Kategori** | **Meddelanden november 2020** | **Meddelande** |
 |---------|:---------|:---------|
+|Funktioner|[Ny, enhetlig kontohanteringsupplevelse](2020-november.md#13)|18 november|
 |Erbjudanden/marknader|[Office 365 E1-erbjudande för medelstora företag (Latinamerika, Asien och stillahavsområdet och Indien)](2020-november.md#12)|18 november|
 |Funktioner|[Uppdateringar av Partnercenter-API och förbättringar av användargränssnittet (UI) för att styrka kundgranskning i vissa länder](2020-november.md#11)|17 november|
 |Funktioner|[EU-/EFTA-ändring av partnerfaktureringsvaluta för nya handelserbjudanden](2020-november.md#10)|17 november|
