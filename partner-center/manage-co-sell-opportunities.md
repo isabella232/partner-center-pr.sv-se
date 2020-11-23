@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9eb158163bb1a7ea5da0bc834e6bf7623f32a4dd
-ms.sourcegitcommit: 92be474db61cc12f684850c2a7a8a8bdd5c93f97
+ms.openlocfilehash: 61dab9f869d8bb9a26f1317fb1aec3013e915465
+ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/05/2020
-ms.locfileid: "93363647"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "95417276"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Hantera samförsäljnings möjligheter i Partner Center
 
@@ -40,7 +40,7 @@ Dra nytta av samförsäljnings möjligheter.  Samförsäljnings möjligheter är
 **Lösnings utvärdering (sa)** – de här typerna av avtal kan bara skapas av en uppsättning partner som är testats av affärs teamet för lösnings bedömningar för att utföra teknik utvärderingar för kunder som använder eller planerar att använda Microsoft-tekniker.
 
 > [!NOTE]
-> Privata erbjudanden, även om de inte är helt gemensamma, ingår här för att ge en enkel väg för att uppgradera en pipeline till en samförsäljnings möjlighet i alla icke-terminaler-steg ( **vunna, förlorade, avböjde och upphör att gälla** ).
+> Privata erbjudanden, även om de inte är helt gemensamma, ingår här för att ge en enkel väg för att uppgradera en pipeline till en samförsäljnings möjlighet i alla icke-terminaler-steg (**vunna, förlorade, avböjde och upphör att gälla**).
 
 ## <a name="navigating-the-co-sell-section"></a>Navigera i avsnittet Co-Sälj
 
@@ -100,14 +100,14 @@ I det här avsnittet måste du ange information om de lösningar som ska ingå i
 
 När du har angett lösnings informationen väljer du nästa för att gå till avsnittet där du kan välja försäljnings typ. Du har tre alternativ om du väljer lösningar från de första tre alternativen och inte en lösnings bedömning:
 
-**Privat handel** : om du inte bjuder in Microsoft och skapar ett engagemang i det här steget kommer det att vara av typen privat pipeline. Microsoft-säljarna kommer inte att ha någon insyn i detaljerna om detta avtal.
+**Privat handel**: om du inte bjuder in Microsoft och skapar ett engagemang i det här steget kommer det att vara av typen privat pipeline. Microsoft-säljarna kommer inte att ha någon insyn i detaljerna om detta avtal.
 
 > [!Important]
 > Avtals registrering är inte tillämpligt för privata avtal. Var försiktig när du skapar ett privat avtal med stimulans berättigade lösningar eftersom de inte är berättigade till avtals registrering i Partner Center.
 
-**Försäljnings avtal i Co-Sälj:** Om du väljer något annat alternativ än standard valet för frågan **"identifiera vilken typ av hjälp du vill ha från Microsoft"** , så förvandlas affären till ett co-försäljnings avtal där en Microsoft-säljare kan hjälpa dig med att stänga affären. En begäran om hjälp från Microsoft garanterar inte att en Microsoft-säljare kommer att delta i affären. Microsoft Sales-representanter har 14 dagar på dig att avgöra om de vill delta. I avsnittet anteckningar ser du till att identifiera vilken typ av hjälp du vill ha.
+**Försäljnings avtal i Co-Sälj:** Om du väljer något annat alternativ än standard valet för frågan **"identifiera vilken typ av hjälp du vill ha från Microsoft"**, så förvandlas affären till ett co-försäljnings avtal där en Microsoft-säljare kan hjälpa dig med att stänga affären. En begäran om hjälp från Microsoft garanterar inte att en Microsoft-säljare kommer att delta i affären. Microsoft Sales-representanter har 14 dagar på dig att avgöra om de vill delta. I avsnittet anteckningar ser du till att identifiera vilken typ av hjälp du vill ha.
 
-**Avtal för partner till partner (P2P)** : du kan bjuda in andra partner till affären genom att klicka på länken Bjud in partner. Nedan finns processen för att skapa ett P2P-avtal.
+**Avtal för partner till partner (P2P)**: du kan bjuda in andra partner till affären genom att klicka på länken Bjud in partner. Nedan finns processen för att skapa ett P2P-avtal.
 
 - **Välj en partner:** När du har klickat på Bjud in partner kan du börja skriva partner namnet för att få en lista över partners som matchar det namn som du anger. Välj den partner som du är intresse rad av för att fylla i ytterligare information för den partnern. Du kan bara söka efter partner som befinner sig i Microsoft Co-säljer eko system och som fungerar i Partner Center.
 
@@ -135,9 +135,9 @@ I det här steget kan du, om du har fått en ny samförsäljnings affärs möjli
 
 - **Acceptera:** Ange ett namn för affären, redigera det uppskattade värdet för avtal och beräknad inköps tidsram utifrån din granskning. När du har upprättat kontakten med kunden bör du ange information i fältet **anteckningar** och förklara mer om vad kunden söker efter. Du kan också ange ditt CRM-ID här (endast för din referens), ID för marknadsförings kampanj som ledde till respektive affärs möjlighet och lägga till kontakter från företaget som kommer att arbeta med detta avtal.
 
-- När du är klar väljer du **Nästa**. Vi flyttar hänvisningen till **Nästa steg** , vilket innebär att du planerar att aktivt engagera kunden för att möta behovet. Vi använder också den här informationen för att hjälpa dig att hitta liknande avtal i framtiden.
+- När du är klar väljer du **Nästa**. Vi flyttar hänvisningen till **Nästa steg**, vilket innebär att du planerar att aktivt engagera kunden för att möta behovet. Vi använder också den här informationen för att hjälpa dig att hitta liknande avtal i framtiden.
 
-- **Neka** : Välj anledningen till att du tackar nej till affären och Lägg till eventuella anteckningar som du vill ta med och välj sedan **Stäng affär**. Vi kommer att arkivera det som **avböjt** och meddela antingen Microsoft eller partnern som skickade dig den här möjligheten.
+- **Neka**: Välj anledningen till att du tackar nej till affären och Lägg till eventuella anteckningar som du vill ta med och välj sedan **Stäng affär**. Vi kommer att arkivera det som **avböjt** och meddela antingen Microsoft eller partnern som skickade dig den här möjligheten.
 
 - Om du inte svarar inom den tilldelade tiden (14 dagar) kommer vi att arkivera det som **upphört att gälla** och meddela antingen Microsoft eller partnern som skickade dig den här möjligheten.
 
@@ -214,13 +214,7 @@ Detta är det sista steget för alla affärs möjligheter. Du kan visa alla avta
 
 Nej, det går inte att ändra avtal när de flyttas till ett Terminal-tillstånd. Upphör Ande, nekas, vann och förlorad är Terminal-tillstånd där inga fler uppdateringar är möjliga för affären. Var försiktig när du flyttar affären till något av dessa terminaler-tillstånd.
 
-**Q2. Jag har fått ett nytt hänvisnings meddelande, men det går inte att hitta det i Partner Center?**
-
-Detta kan inträffa om ditt företag har flera klienter kopplade till samma MPN-konto. Gå till konto inställningarna för partner Center och kontrol lera de innehavare som är associerade med kontot. Skapa sedan ett support ärende med begäran om att länka klient organisationerna. Ange klient-ID: t dit du loggade in i support ärendet.
-
-:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Bild som visar konto inställningarna där klient information kan hittas.":::
-
-**Q3. Vem får ett e-postmeddelande från Partner Center?**
+**Q2. Vem får ett e-postmeddelande från Partner Center?**
 
 I arbets flödet nedan förklaras hur e-postmeddelandena skickas till partner från partner Centers hänvisnings system för nya partners inkommande hänvisningar.
 

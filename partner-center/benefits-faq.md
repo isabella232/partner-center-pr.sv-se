@@ -1,5 +1,5 @@
 ---
-title: Vanliga frågor om förmåner
+title: Vanliga frågor och svar om förmåner
 ms.topic: article
 ms.date: 09/08/2020
 description: Svar på frågor om förmånens förfallo datum, förnyelse och aktivering av licenser för Azure, molnet, Visual Studio och tekniska och support förmåner
@@ -9,19 +9,19 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 4af9e87ce02364f32f1aa41deb66d8935f657f40
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: 089d358b75d17c409d614ed63e92aee921b1c80f
+ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "92531409"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "95417259"
 ---
-# <a name="benefits-faq"></a>Vanliga frågor om förmåner
+# <a name="benefits-faq"></a>Vanliga frågor och svar om förmåner
 
 Gäller för:
 
 - Partnercenter
-- Partner Center för Microsoft Cloud för amerikanska myndigheter
+- Välkommen till Partnercenter för Microsoft Cloud for US Government
 
 ## <a name="general-questions"></a>Allmänna frågor
 
@@ -44,7 +44,7 @@ Använd följande procedur för att förnya dina förmåner:
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 
-2. I det vänstra navigerings fältet väljer du **MPN** .
+2. I det vänstra navigerings fältet väljer du **MPN**.
 
 3. På fliken **MPN** väljer du alternativet **förmåner** .
 
@@ -87,16 +87,16 @@ Du kan tilldela prenumerationer till alla i din användar hanterings lista i Par
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 
-2. I det vänstra navigerings fältet väljer du **MPN** .
+2. I det vänstra navigerings fältet väljer du **MPN**.
 
-3. Välj **förmåner** och välj sedan **Visual Studio** .
+3. Välj **förmåner** och välj sedan **Visual Studio**.
 
 4. Tilldela önskade användare till dina befintliga Visual Studio-prenumerationer tillgängliga.
 
 När du har tilldelat prenumerationen måste användaren logga in i Visual Studio för att kunna hantera den.
 
 >[!Note]
-> En användare som är tilldelad en Visual Studio-prenumeration på Partner Center kan inte tas bort förrän 90 dagar efter den ursprungliga tilldelningen.
+> Visual Studio-prenumerationer kan omtilldelas från en prenumerant till en annan efter 90 dagar från ursprunglig tilldelning
 
 ## <a name="technical-benefits-and-support"></a>Tekniska förmåner och support
 
@@ -106,9 +106,9 @@ Installation, aktivering och annan produkt relaterad hjälp tillhandahålls via 
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 
-2. I det vänstra navigerings fältet väljer du **MPN** .
+2. I det vänstra navigerings fältet väljer du **MPN**.
 
-3. Välj **förmåner** och välj sedan **tekniska förmåner** .
+3. Välj **förmåner** och välj sedan **tekniska förmåner**.
 
 4. Använd avsnittet tekniska förmåner för att aktivera och ta emot ett åtkomst-ID/kontrakt-ID.
 
