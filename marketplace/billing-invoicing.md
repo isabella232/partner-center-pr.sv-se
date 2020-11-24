@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: d0db9296157eb4a8f1d7ef7288d438cb39e1c026
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: d30678d38326a367b03cd81309c29c5b814a2f17
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007604"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514783"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Fakturering och fakturering i Azure Marketplace
 
@@ -57,7 +57,7 @@ När du får en faktura varierar:
 - Om ditt betalnings alternativ är kredit kort faktureras du omedelbart efter köpet av reservationen. Den här fakturan kommer att separeras från din månads faktura.
 - Om ditt betalnings instrument är kontroll/tråd, kommer det här inköpet att ingå i din månads marknads faktura.
 
-Fakturor skapas för faktureringskonton av typen Microsoft Online Service Program (MOSP), Microsoft-kundavtal (MCA) och Microsoft-partneravtal (MPA). Fakturor genereras baserat på din fakturerings konto typ. Azure Marketplace fakturerar dig några dagar efter [fakturerings periodens](/azure/cost-management-billing/understand/download-azure-invoice#why-you-might-not-see-an-invoice)slut. Fakturan för Azure Marketplace, reservationer och virtuella datorer skapas runt den [nionde dagen i månaden](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts). Det visar respektive avgifter från föregående månad. Till exempel, om en användare har köpt en reservation den 1 mars och en annan reservation den 30 mars, innehåller en enda faktura i april båda reservationer.
+Fakturor skapas för faktureringskonton av typen Microsoft Online Service Program (MOSP), Microsoft-kundavtal (MCA) och Microsoft-partneravtal (MPA). Fakturor genereras baserat på din fakturerings konto typ. Azure Marketplace fakturerar dig några dagar efter fakturerings periodens slut. Fakturan för Azure Marketplace, reservationer och virtuella datorer skapas runt den [nionde dagen i månaden](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts). Det visar respektive avgifter från föregående månad. Till exempel, om en användare har köpt en reservation den 1 mars och en annan reservation den 30 mars, innehåller en enda faktura i april båda reservationer.
 
 Mer information om fakturor finns i [förstå dina avgifter för Azures externa tjänster](/azure/cost-management-billing/understand/understand-azure-marketplace-charges).
 

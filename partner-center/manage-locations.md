@@ -1,7 +1,7 @@
 ---
 title: Hantera platser i ditt partner konto
-ms.topic: article
-ms.date: 10/12/2020
+ms.topic: how-to
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Lär dig hur du lägger till en ny plats och hur plats MPN ID används i stimulans program, CSP-verksamhet, prenumerationer och andra transaktioner.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6b0fc84636befedbc51aa0672ce19110eb4d9aa
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 03c4fb5a4adeb49602fe3736971e140ac6da6f4f
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92531972"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514810"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Hantera dina MPN-konto platser och Lägg till en ny plats
 
@@ -58,9 +58,9 @@ Ange juridisk information om företaget, inklusive juridisk företags namn, adre
 
 1. Logga in med MPN-kontot i Partner Center. MPN-kontot ska ha global administratör eller konto administratörs behörighet. 
 
-1. I **inställnings ikonen** väljer du **partner inställningar** .
+1. I **inställnings ikonen** väljer du **organisations inställningarna**.
 
-2. Välj **platser.**
+2. Välj **juridiskt** och välj sedan **platser.**
 
 3. Välj **Lägg till en plats** och Infoga adress information för den plats som du vill lägga till i företaget samt en primär kontakt för platsen.
 
@@ -69,18 +69,15 @@ Ange juridisk information om företaget, inklusive juridisk företags namn, adre
 
 ## <a name="change-global-partner-account-location"></a>Ändra plats för global partner konto
 
-1. På sidan **[platser](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)** kontrollerar du listan över platser för att se till att den plats som du vill använda som juridisk person visas. Om den inte är det lägger du till den.
+1. På **[företags platser](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn)** kontrollerar du listan över platser för att se till att den plats som du vill använda som juridisk person visas. Om den inte är det lägger du till den.
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Struktur för MPN-platser":::
+   :::image type="content" source="images/accountsettings/location1.png" alt-text="Skärm bild av sidan för konto platser i Partner Center med en lista över alla aktuella platser.":::
 
-2. Välj **partner profil** och välj sedan **Uppdatera juridisk företags profil**
-
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Struktur för MPN-platser":::
-
+2. Välj **juridisk** information och välj sedan **Uppdatera juridisk företags profil**
+  
 3. Välj region och juridisk person och **Skicka** den.
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="Struktur för MPN-platser":::
-
+  
 ## <a name="next-steps"></a>Nästa steg
 
 - Lär dig mer om [verifierings processen](verification-responses.md).

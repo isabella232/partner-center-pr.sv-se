@@ -7,14 +7,14 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
 ms.localizationpriority: high
-ms.date: 11/20/2020
+ms.date: 11/23/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e93d7c706c5281d239062a1eb4fa95d5fba92097
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: b9b23fc887b754bf4eb1d703026a24e294952f4c
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007015"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514715"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Verifiera din organisations profil information i Partner Center
 
@@ -53,9 +53,11 @@ Nu kan du uppdatera din juridiska adress i Partner Center.
 
 Om du under migreringen från Partner medlemskap Center till Partner Center har identifierats som juridiskt företag, kan du ändra den till rätt juridisk verksamhet.
 
-1. Från **konto inställningar** går du till **platser** och kontrollerar att företaget du vill ha som juridisk verksamhet finns i listan. Om den inte är det kan du lägga till den. Välj **Lägg till plats**. Lägg till plats informationen och **Spara**.
+1. Från **konto inställningar**, gå till **organisations profil** och gå sedan till **juridiskt**.
 
-2. Gå sedan till **organisations profil** och välj **Uppdatera juridisk företags profil**.
+1.  Rulla ned till **platser** och se till att företaget som du vill använda som juridisk verksamhet finns i listan. Om den inte är det kan du lägga till den. Välj **Lägg till plats**. Lägg till plats informationen och **Spara**.
+
+2. Nästa steg: rulla upp för att **Uppdatera juridisk företags profil**.
 
 3. Den plats som du nyss lade till visas. Välj det och den verksamhet som du vill använda som juridisk verksamhet och välj sedan **Spara**.
 

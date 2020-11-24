@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 2b089a666fdb312d49f26be0f9a47da8daad2715
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: d3057dc50ce1df4e4dbe1d3821904326b452e7cf
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947706"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514749"
 ---
 # <a name="november-2020-announcements"></a>Meddelanden november 2020
 
@@ -23,6 +23,32 @@ Den här sidan innehåller information om Microsoft Partner Center-meddelanden f
 2020-meddelanden: [april](2020-april.md)  |  [maj](2020-may.md)den  |  [juni](2020-june.md)  |  [juli](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md)  |  [October](2020-October.md) | November
 
 ______________
+## <a name="introducing-the-ability-to-purchase-saas-offers-with-metered-billing-in-partner-center"></a><a name="14"></a>Vi presenterar möjligheten att köpa SaaS-erbjudanden med avgiftsbelagd fakturering i Partner Center 
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2020-11-24
+- Funktioner
+
+## <a name="summary"></a>Sammanfattning
+
+Microsoft presenterar partner i Cloud Solution Provider-programmet för att köpa SaaS-erbjudanden med avgiftsbelagda fakturerings möjligheter i Partner Center. 
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Alla partner
+
+### <a name="details"></a>Information
+
+Microsoft presenterar möjligheterna för partner i Cloud Solution Provider-programmet, inklusive indirekta leverantörer och direkta fakturerings partner, för att köpa SaaS-erbjudanden med [avgiftsbelagd fakturering](https://docs.microsoft.com/azure/marketplace/partner-center-portal/saas-metered-billing)   i Partner Center. I dag kan partner i Cloud Solution Provider-programmet kunna visa och [köpa SaaS-erbjudanden med avgiftsbelagd fakturering via Azure Portal](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-purchase).Den här nya upplevelsen gör det möjligt för partner att köpa dessa erbjudanden via CSP Marketplace i Partner Center och API: et som de gör för andra typer av SaaS-erbjudanden. 
+
+### <a name="next-steps"></a>Nästa steg
+
+Dela den här informationen med alla lämpliga kontakter i företaget.
+
+
+
+
 ## <a name="new-unified-account-management-experience"></a><a name="13"></a>Ny, enhetlig konto hanterings upplevelse
 
 ### <a name="categories"></a>Kategorier

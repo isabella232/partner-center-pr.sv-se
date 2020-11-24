@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 8907d9a394c5679dad5115e03d4ee697d7a07e0f
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 40f9f90eb1da5d80b8df5a2a3d99979883060d81
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488149"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514766"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Konfigurera utbetalningskonto och deklarationsblanketter
 
@@ -44,7 +44,7 @@ Du kan slutföra och skicka in dina skatte formulär elektroniskt i Partner Cent
 > [!IMPORTANT]
 > Olika länder och regioner har olika skatte krav. Den exakta mängd som du måste betala i skatter beror på de länder och regioner där du säljer ditt erbjudande. Se [Microsoft Azure Marketplace Publisher-avtalet](https://go.microsoft.com/fwlink/p/?LinkID=699560) för att ta reda på vilka länder/regioner som Microsoft betalar och använder för att betala för din räkning. I andra länder/regioner, beroende på var du är registrerad, kan du behöva betala försäljnings-och användnings skatt för din erbjudande försäljning direkt till den lokala beskattnings-utfärdaren. Dessutom kan app Sales-processen som du får vara skattepliktig som intäkt. Vi rekommenderar starkt att du kontaktar den behöriga myndigheten för ditt land eller din region som bäst kan hjälpa dig att fastställa rätt skatte information för dina kommersiella Marketplace-aktiviteter.
 
-1. I [partner Center](https://partner.microsoft.com/dashboard)väljer du ikonen **konto inställningar** i det övre högra hörnet och väljer sedan inställningar för **utvecklare**.
+1. I [partner Center](https://partner.microsoft.com/dashboard)väljer du kugg hjuls ikonen **Inställningar** i det övre högra hörnet och sedan **konto inställningar**.
 
 2. Välj **betalning och skatt** på den vänstra navigerings menyn och välj sedan **utbetalning och skatte tilldelningar**.
 
@@ -81,7 +81,7 @@ Ett utbetalnings konto är det bank konto som vi skickar ett steg från din för
 
 ### <a name="create-a-payment-profile"></a>Skapa en betalnings profil
 
-1. I [partner Center](https://partner.microsoft.com/dashboard)väljer du kugg hjuls ikonen **Inställningar** i det övre högra hörnet och väljer sedan **konto inställningar**.
+1. I [partner Center](https://partner.microsoft.com/dashboard)väljer du kugg hjuls ikonen **Inställningar** i det övre högra hörnet och sedan **konto inställningar**.
 2. Under *utbetalnings-och skatte* rubriken väljer du **utbetalning och skatte profil tilldelning**.
 
     > [!NOTE]
@@ -124,7 +124,7 @@ För att se till att utbetalningen lyckas, se till att:
 
 Du kan redigera befintliga betalnings profiler om du behöver göra ändringar eller korrigera all felaktig information.
 
-1. I [partner Center](https://partner.microsoft.com/dashboard)väljer du kugg hjuls ikonen **Inställningar** i det övre högra hörnet och väljer sedan **Inställningar för utvecklare**.
+1. I [partner Center](https://partner.microsoft.com/dashboard)väljer du kugg hjuls ikonen **Inställningar** i det övre högra hörnet och sedan  **konto inställningar**.
 
 2. Under *utbetalnings-och skatte* rubriken väljer du **utbetalning och skatte profiler**.
 
