@@ -1,11 +1,35 @@
 - name: Kunddokumentation för Microsoft Marketplace
   href: index.yml
+- name: Microsoft AppSource
+  items:
+    - name: Om Microsoft AppSource
+      href: appsource-overview.md
+    - name: Köpa programvara på AppSource
+      href: purchase-software-appsource.md
 - name: Azure Marketplace
   items:
-    - name: Skapa en privat Azure-marknadsplats
+    - name: Om Azure Marketplace
+      href: azure-marketplace-overview.md
+    - name: Inköp
+      href: azure-purchasing-invoicing.md
+    - name: Fakturering
+      href: billing-invoicing.md
+    - name: Privata erbjudanden
+      href: private-offers.md
+    - name: Berättigande av prenumerationsöverföring
+      href: transfer-eligibility.md
+    - name: Skapa och hantera en privat Azure-marknadsplats
       href: create-manage-private-azure-marketplace.md
     - name: Partnerintegreringar för Azure Marketplace
       href: partner-integrations.md
+- name: Allmänna resurser
+  items:
+    - name: Principer för återbetalning
+      href: refund-policies.md
+    - name: Juridiska kontrakt
+      href: legal-contracts.md
+    - name: Få support
+      href: get-support.md
 - name: Referens
   items:
     - name: Azure PowerShell
