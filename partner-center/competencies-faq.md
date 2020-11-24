@@ -1,26 +1,26 @@
 ---
 title: Kompetenser – vanliga frågor och svar
 ms.topic: article
-ms.date: 10/19/2020
+ms.date: 11/23/2020
 description: Svar på frågor om hur du uppnår Microsoft Partner Network guld-och silver kompetens, förmåns utgång, förnyelse och aktivering av licenser för Azure, Cloud, Visual Studio och tekniska och support förmåner
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: bdcb1db0dbeb96a5b732decc11691364ade36c13
-ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
+ms.openlocfilehash: 0a20b464c9784b0939ba404019cab007310ad4bd
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92755276"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812821"
 ---
 # <a name="competencies---frequently-asked-questions"></a>Kompetenser – vanliga frågor och svar
 
-Gäller:
+Gäller för:
 
 - Partnercenter
-- Partner Center för Microsoft Cloud för amerikanska myndigheter
+- Välkommen till Partnercenter för Microsoft Cloud for US Government
 - Partner i Microsoft Partner Network-programmet (MPN)
 
 Den här artikeln ger svar på allmänna frågor om examina, certifieringar och program varu förmåner som är relaterade till att uppnå en Microsoft Partner Network kompetens.
@@ -44,17 +44,17 @@ De kan göra det från Partner Center på följande sätt:
 
 1. Logga in på [instrument panelen](https://partner.microsoft.com/dashboard)för partner Center.
 
-1. Välj **MPN** följt av **kompetenser** .
+1. Välj **MPN** följt av **kompetenser**.
 
 1. Leta upp och välj alternativet **Hämta kunskaps rapport** överst på sidan kompetenser.
 
-Andra rapporter i din organisations kunskaper är också tillgängliga i [partner Center Insights](partner-center-insights.md) -avsnittet i Partner Center. Om du vill visa de här rapporterna kan du behöva tilldela en Insights-speciell roll i **rapport visnings programmet** eller **rapport visnings programmet** . Du kan behöva be MPN-partner administratören att ge dig åtkomst till någon av dessa roller.
+Andra rapporter i din organisations kunskaper är också tillgängliga i [partner Center Insights](partner-center-insights.md) -avsnittet i Partner Center. Om du vill visa de här rapporterna kan du behöva tilldela en Insights-speciell roll i **rapport visnings programmet** eller **rapport visnings programmet**. Du kan behöva be MPN-partner administratören att ge dig åtkomst till någon av dessa roller.
 
 Visa insikter-rapporterna på följande sätt:
 
 1. Logga in på [instrument panelen](https://partner.microsoft.com/dashboard)för partner Center.
 
-1. Välj **insikter** från menyn Partner Center, följt av **organisationens färdigheter** . En mindre meny visas.
+1. Välj **insikter** från menyn Partner Center, följt av **organisationens färdigheter**. En mindre meny visas.
 
 1. Välj antingen **Training** eller **Microsoft Learn** på menyn.
 
@@ -64,7 +64,7 @@ Visa insikter-rapporterna på följande sätt:
 
 ## <a name="q-how-long-does-it-take-to-see-the-latest-user-assessments-in-the-partner-center-user-skills-report"></a>F. Hur lång tid tar det att se de senaste användar utvärderingarna i användar kunskaps rapporten för partner Center?
 
-Partner University-kontot kommer att associeras med användar kontot för partner Center. Användarens bedömningar visas i rapporten kunskaps Center för användar kunskaper inom **72 timmar** .
+Partner University-kontot kommer att associeras med användar kontot för partner Center. Användarens bedömningar visas i rapporten kunskaps Center för användar kunskaper inom **72 timmar**.
 
 Endast de kunskaper som är relevanta för kompetenserna och programmen i Partner Center visas i den här rapporten. (Vissa invecklade kunskaper kan också visas i 12 månader eller mer när de dras tillbaka).
 
@@ -79,7 +79,7 @@ Se följande resurser:
 
 - [Ladda ned](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) licens tabeller för kompetens partner.
 
-- [Hämta](https://assetsprod.microsoft.com/MPN-MAPS-Software-IUR-License-Table.xlsx) licens tabellen för Microsoft Action Pack prenumerations partner.
+- [Hämta](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf) licens tabellen för Microsoft Action Pack prenumerations partner.
 
 ## <a name="q-how-do-i-link-a-microsoft-certification-profile-id-mcp-id-or-mcid-to-my-microsoft-partner-center-account"></a>F. Hur gör jag för att länkar du ett Microsoft-certifierings profil-ID (MCP-ID eller MCID) till mitt Microsoft Partner Center-konto?
 

@@ -1,7 +1,7 @@
 ---
 title: Köp eller förnya Microsoft Action Pack-erbjudanden
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Lär dig att köpa en prenumeration på Microsoft Action Pack och börja använda Action Pack-förmåner. Lär dig också hur du förnyar, avbryter, visar din faktura med mera.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73827cdbf49535d9594fa4951d2abd56bf00a96a
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 658524b9f916d929fc7e07701ca339d64de95fca
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "92531232"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812855"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Köp eller förnya en Microsoft Action Pack-prenumeration eller silver- eller guldkompetens
 
@@ -52,7 +52,7 @@ Bli [kompetens partner](https://partner.microsoft.com/membership/competencies).
 ### <a name="check-your-renewal-eligibility"></a>Kontrol lera din berättigande för förnyelse
 
 >[!IMPORTANT]
->Om du är inbjuden att förnya din prenumeration i Partner Center, Tänk på att vi har ändrat vår princip för förnyelse fönster och att du bara kan förnya prenumerationen när den har gått ut. Om din prenumeration till exempel går ut den 22 juni kan du förnya den från och med den 23 juni och i 30 dagar efter.       
+>Om du är inbjuden att förnya din prenumeration i Partner Center, Tänk på att vi har ändrat vår princip för förnyelse fönster och att du bara kan förnya prenumerationen när den har gått ut. Om din prenumeration till exempel går ut den 22 juni kan du förnya den från och med den 23 juni och i 30 dagar efter.
 >Du kan hitta prenumerationens förfallo datum på sidan för [**medlemskaps erbjudanden**](https://partnercenter.microsoft.com/pcv/partnership/offers) (inloggning krävs). När du är behörig att förnya i Partner Center följer du stegen nedan.  
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Förnya en prenumeration på Microsoft Action Pack i Partner Center
@@ -64,13 +64,13 @@ Bli [kompetens partner](https://partner.microsoft.com/membership/competencies).
     >[!NOTE]
     >Om **förnya prenumeration** inte visas eller är nedtonad, är du ännu inte behörig att förnya Action Pack prenumerationen. Vi har ändrat vår policy för förnyelse fönster och du kan bara förnya prenumerationen när den har gått ut. Om din prenumeration till exempel går ut den 22 juni kan du förnya den från och med den 23 juni och i 30 dagar efter.  
 
-3. Om du betalar med kredit kort följer du anvisningarna för att lägga till kreditkorts information. Om du betalar per elektronisk bank överföring anger du ett kontakt namn, telefonnummer och e-postadress och väljer sedan **Skicka** . 
-     
+3. Om du betalar med kredit kort följer du anvisningarna för att lägga till kreditkorts information. Om du betalar per elektronisk bank överföring anger du ett kontakt namn, telefonnummer och e-postadress och väljer sedan **Skicka**.
+
 4. Granska din beställnings information och välj sedan **köp** när du är redo att köpa Action Pack. Ditt kredit kort debiteras omedelbart.
 
-5. Din beställning bekräftas. Välj **Stäng** .
+5. Din beställning bekräftas. Välj **Stäng**.
 
-Din Action Pack prenumeration förnyas automatiskt varje år den här dagen. Du kan stänga av den automatiska förnyelsen när som helst från listan med **inköps** erbjudanden. du kommer dock inte att kunna aktivera automatisk prenumerations förnyelse igen förrän du förnyar prenumerationen igen. 
+Din Action Pack prenumeration förnyas automatiskt varje år den här dagen.
 
 ### <a name="update-your-bill-to-address"></a>Uppdatera din fakturerings adress
 
@@ -80,39 +80,29 @@ I processen för att förnya eller köpa Action Pack har du möjlighet att verif
   
  1. Uppdatera din adress på sidan **partner profil** .
 
-## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Inaktivera automatisk förnyelse av Action Pack prenumeration
-
-1. Gå till sidan med [**medlemskaps erbjudanden**](https://partnercenter.microsoft.com/pcv/partnership/offers) .  Välj **Microsoft Action Pack-prenumeration** för att visa din prenumerations information. 
-
-2. Välj **inaktivera automatisk förnyelse** om du inte vill att din Action Pack prenumeration ska förnyas automatiskt varje år. 
-
-    >[!NOTE]
-    >Om du inaktiverar automatisk förnyelse av prenumerationen kan du inte aktivera den igen förrän du förnyar prenumerationen igen. Vi kommer att påminna dig om att förnya innan prenumerationen upphör att gälla.
-
-
 ## <a name="cancel-your-action-pack-subscription"></a>Avbryta din Action Pack-prenumeration
 
 Du kan behöva kontakta partner support om du vill avbryta prenumerationen på Microsoft Action Pack.
 
 1. Gå till sidan med [**medlemskaps erbjudanden**](https://partnercenter.microsoft.com/pcv/partnership/offers) . Välj **Microsoft Action Pack-prenumeration** för att visa din prenumerations information. 
 
-3. Välj **Avbryt prenumeration** . Följ anvisningarna för att skapa en supportbegäran. 
+3. Välj **Avbryt prenumeration**. Följ anvisningarna för att skapa en supportbegäran. 
 
 4. I formuläret support förfrågan väljer du följande värden för att dirigera din begäran korrekt:
 
     -  Välj **rapportera problem med partner Center** och välj sedan **ny begäran** på nästa sida.
 
-    -  Expandera listan **typ av problem** och välj **hjälp med partner faktura, betalnings-eller avstämnings fil** . 
+    -  Expandera listan **typ av problem** och välj **hjälp med partner faktura, betalnings-eller avstämnings fil**. 
 
-5. Fyll i informationen som krävs och välj sedan **Skicka** . Support teamet för partner Center kommer att kontakta dig för att hjälpa dig att avbryta prenumerationen.
+5. Fyll i informationen som krävs och välj sedan **Skicka**. Support teamet för partner Center kommer att kontakta dig för att hjälpa dig att avbryta prenumerationen.
 
-Om du vill kontrol lera statusen för din tjänstbegäran väljer du **partner Center-begäranden** från **supporten** och väljer sedan **Öppna** . Välj lämplig tjänstbegäran i listan.  
+Om du vill kontrol lera statusen för din tjänstbegäran väljer du **partner Center-begäranden** från **supporten** och väljer sedan **Öppna**. Välj lämplig tjänstbegäran i listan.  
 
 ## <a name="download-your-action-pack-invoice"></a>Ladda ned din Action Pack faktura
 
 1. Gå till sidan med [**medlemskaps erbjudanden**](https://partnercenter.microsoft.com/pcv/partnership/offers) . Välj **Microsoft Action Pack-prenumeration** för att visa din prenumerations information. 
 
-3. Välj **Hämta faktura** .
+3. Välj **Hämta faktura**.
  
 ## <a name="next-steps"></a>Nästa steg
 

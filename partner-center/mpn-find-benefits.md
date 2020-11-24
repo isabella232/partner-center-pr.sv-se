@@ -1,7 +1,7 @@
 ---
 title: Hitta dina förmåner
 ms.topic: how-to
-ms.date: 09/02/2020
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Lär dig hur du hittar dina MPN-förmåner på Partner Center-instrumentpanelen. Innehåller information om hur du hittar ditt åtkomst-ID och kontrakts-ID för tekniska förmåner.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a7d53da2f83fcd5c85732b24843365717e66429d
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 0162766018087112ebe34c82f29902b3225822b1
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532080"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812829"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Hitta dina Microsoft Partner Network-förmåner 
 
@@ -36,7 +36,7 @@ Den här artikeln beskriver medlemmar i Microsoft Partner Network (MPN) hur man 
 
 Som Microsoft Partner Network medlem har företaget till gång till många fördelar som kan vara till hjälp för att växa ditt företag. Ta reda på vad dessa fördelar är:
 
-1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard/home), Välj **MPN** och välj sedan **förmåner** .
+1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard/home), Välj **MPN** och välj sedan **förmåner**.
 
 2. Från förmåner kan du granska, aktivera, sortera eller ladda ned fördelarna med intresse som tillhör en av de kategorier som är tillgängliga för dig. Det gör du genom att välja det förmåns utrymme som du vill lära dig mer om:
 
@@ -68,13 +68,13 @@ För tekniska förmåner kommer du att se Microsofts produkt support-ID: n, till
 
 1. Logga in i Partnercenter och öppna [instrumentpanelen](https://partner.microsoft.com/dashboard/home)
 
-2. Välj **MPN** , sedan **förmåner** , följt av **tekniska fördelar** .
+2. Välj **MPN**, sedan **förmåner**, följt av **tekniska fördelar**.
 
 3. Välj en förmån i listan. Expandera förmånen för att visa mer information. 
 
    Du bör se det aktuella support **avtals-ID: t** och **åtkomst-ID: t** för den här förmånen.  
 
-   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Utökade förmåner":::
+   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Exempel på guld Core-support teknisk förmån som visar Microsofts produkt support-ID som kontrakt-ID och åtkomst-ID":::
 
    > [!NOTE]
    > Håll koll på dessa support-ID: n. Vissa system kan be om dem första gången du (eller någon av företagets användare) loggar en supportbegäran som är kopplad till en specifik teknisk förmån. Alla användare i företaget kan förmodligen använda samma åtkomst-ID och kontrakt-ID.
@@ -83,7 +83,7 @@ För tekniska förmåner kommer du att se Microsofts produkt support-ID: n, till
 
 För att ta reda på vilka förmåner som är tillgängliga med Microsoft Action Pack, silver och/eller guld kompetenser, se följande resurser:
 
-- [Licens tabell för Microsoft Action Pack-partner](https://assetsprod.microsoft.com/mpn/MPN-MAPS-Software-IUR-License-Table.xlsx)
+- [Licens tabell för Microsoft Action Pack-partner](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf)
 
 - [Licens tabell för kompetens partner](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx)
 
