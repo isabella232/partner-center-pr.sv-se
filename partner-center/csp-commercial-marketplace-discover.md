@@ -9,14 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb7b4ffdb4edf75e3e121e4ddea6b9de191ddbbf
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e89473cf095be4cc87c96f1c2a6d0da224eccedd
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531661"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038869"
 ---
-# <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>Identifiera erbjudanden och priser i Partner Center handels Marketplace
+# <a name="discover-offers-and-pricing-in-partner-center-commercial-marketplace"></a>Identifiera erbjudanden och priser i Partner Center kommersiell marknads plats
 
 **Gäller för**
 
@@ -28,25 +28,25 @@ ms.locfileid: "92531661"
 - Global administratör
 - Administratörs agent
 
-När oberoende program varu leverantörer (ISV) väljer att publicera ett erbjudande i den kommersiella marknads platsen kan de också avgöra om de vill att erbjudandet ska göras tillgängligt i CSP-programmet. Om de väljer att sälja erbjudandet via CSP-programmet, bör CSP-partners se erbjudandet i Marketplace-regionen för partner Center.
+När oberoende program varu leverantörer (ISV) väljer att publicera ett erbjudande i den kommersiella marknads platsen kan de också avgöra om de vill att erbjudandet ska göras tillgängligt i CSP-programmet. Om de väljer att sälja erbjudandet via CSP-programmet bör CSP-partners se erbjudandet i Partner Center Marketplace-avsnittet.
 
-Om ett ISV-erbjudande inte visas som du förväntar dig i partner centret kan det bero på att:
+Om ett ISV-erbjudande inte visas som du förväntar dig i Partner Center kan det bero på att:
 
-- ISV valde att inte sälja erbjudandet via CSP-programmet. Vissa ISV-produkter kan till exempel ha gjorts tillgängliga i andra områden av den kommersiella marknads platsen (till exempel i [Microsoft AppSource](https://appsource.microsoft.com/) och [Azure Marketplace](https://azuremarketplace.microsoft.com/)), men kanske inte visas för kryptografiproviders på Partner Center Marketplace.
+- ISV valde att inte sälja erbjudandet via CSP-programmet. Vissa ISV-produkter kan till exempel ha gjorts tillgängliga i andra områden av den kommersiella marknads platsen (till exempel i [Microsoft AppSource](https://appsource.microsoft.com/) och [Azure Marketplace](https://azuremarketplace.microsoft.com/)), men de visas inte för partner i CSP-programmet på Partner Center Marketplace.
 
 - ISV valde att göra erbjudandet exklusivt till endast ett SELECT-antal CSP-partner. Mer information om exklusiva erbjudanden finns längre fram i det här hjälp avsnittet.
 
-- Erbjudande typen kanske inte går att använda i ett läge via partner centret eller Azure Portal (t. ex. behållare eller vissa användnings erbjudanden).
+- Erbjudande typen kanske inte går att använda i ett läge genom Partner Center eller Azure Portal (t. ex. behållare eller vissa användnings erbjudanden).
 
 - Fakturerings landet för dina associerade kunder kanske inte stöds för det här ISV-erbjudandet.
 
 ## <a name="view-marketplace-offers-in-partner-center"></a>Visa Marketplace-erbjudanden i Partner Center
 
-För att visa tillgängliga kommersiella Marketplace-erbjudanden i CSP-programmet: 
+För att visa tillgängliga kommersiella Marketplace-erbjudanden i CSP-programmet:
 
 1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard)och välj **CSP** i den vänstra navigerings menyn.
 
-2. Välj **Sälj** , följt av **Marketplace** . Som standard visas produkter av alla typer och kategorier.
+2. Välj **Sälj**, följt av **Marketplace**. Som standard visas produkter av alla typer och kategorier.
 
 3. Välj ett filter efter typ eller kategori. Du kan också använda **Sök** för att hitta vissa nyckelord, erbjudande namn eller namn på ISV-utgivare.
 
@@ -78,9 +78,9 @@ Följ de här stegen för de senaste pris uppgifter som är associerade med ett 
 
 1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard)och välj **CSP** i den vänstra navigerings menyn.
 
-2. Välj **försäljning** följt av **priser och erbjudanden** .
+2. Välj **försäljning** följt av **priser och erbjudanden**.
 
-3. Rulla ned till **Marketplace** -avsnittet, Välj en plats och ladda ned **Marketplace-priser** . Detta genererar ett kalkyl blad med de senaste pris uppgifterna för SaaS, licensbaserade erbjudanden som är tillgängliga från ISV-utgivare. Vissa priser för Azure-program kan också visas här. Den här informationen uppdateras varje dag, så du kan kontrol lera den efter aktuella priser så ofta som du väljer.
+3. Rulla ned till **Marketplace** -avsnittet, Välj en plats och ladda ned **Marketplace-priser**. Detta genererar ett kalkyl blad med de senaste pris uppgifterna för SaaS, licensbaserade erbjudanden och avgiftsbelagda erbjudanden som är tillgängliga från ISV-utgivare. Vissa priser för Azure-program kan också visas här. Den här informationen uppdateras varje dag, så du kan kontrol lera den efter aktuella priser så ofta som du väljer.
 
 4. Om en ISV-produkt innehåller en kostnads fri utvärderings period visar kalkyl bladet två rader för produkten:
 

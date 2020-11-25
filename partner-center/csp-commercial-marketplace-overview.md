@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 66fc51901e6c6e72698eaf4a669627b228ee63ba
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: c8d64167261fe9f425a1430ac0c109b446b50913
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531656"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038837"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Översikt över den kommersiella marknads platsen i Partner Center
 
@@ -68,7 +68,7 @@ Gå till [grunderna för fakturering](billing-basics.md) för att lära dig mer 
 
 Se följande tabeller för att lära dig var du ska slutföra en speciell Marketplace-aktivitet för licensbaserade eller användnings ISV-erbjudanden.
 
-|**För licensbaserade SaaS-erbjudanden från ISV: er**  |**Användning**  |
+|**För licensbaserade eller avgiftsbelagda SaaS-erbjudanden från ISV: er**  |**Användning**  |
 |:------------------------------------|:------------------|
 |Identifiera eller Sök efter tillgängliga erbjudanden  | API: er för partner Center eller partner Center  |
 |Köpa ett erbjudande  | API: er för partner Center eller partner Center  |
