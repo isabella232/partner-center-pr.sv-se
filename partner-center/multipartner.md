@@ -1,7 +1,7 @@
 ---
 title: Stöd för flera partner
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 11/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: En kund kanske vill arbeta med flera partner i Cloud Solution Provider-programmet som specialiserar sig på olika tjänster.
@@ -9,26 +9,27 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5e34a8f8c85b1ad7826869a50f79a26550cf4790
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 728a1b7ec4d6b51174f1d3f6fcf21a6385fc4e7a
+ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "92529192"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "96322125"
 ---
 # <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>Stöd för flera partner för kunder som vill arbeta med fler än en partner
 
 **Gäller för**
 
--  Partnercenter
--  Partner Center för Microsoft Cloud för amerikanska myndigheter
+- Partnercenter
+- Välkommen till Partnercenter för Microsoft Cloud for US Government
 
 **Lämpliga roller**
--   Global administratör
--   Användaradministratör
--   Försäljnings agent
 
-Partner centrets funktioner för flera partners stöder scenarier när en kund vill arbeta med fler än en partner. En kund kan till exempel vilja anlita en partner för sina kunskaper i Office 365, men anlita en annan partner som specialiserar sig på Microsoft Azure. 
+- Global administratör
+- Användaradministratör
+- Försäljnings agent
+
+Partner centrets funktioner för flera partners stöder scenarier när en kund vill arbeta med fler än en partner. En kund kan till exempel vilja anlita en partner för sina kunskaper i Office 365, men anlita en annan partner som specialiserar sig på Microsoft Azure.
 
 En Azure CSP-klient kan inkludera ytterligare en Azure-prenumeration från en annan CSP-partner.
 
@@ -45,10 +46,4 @@ Funktioner för flera partners gör inte följande:
 - Ändra partner av en post för en prenumeration
 
 > [!IMPORTANT]  
-> En partner i CSP-programmet kan inte sälja onlinetjänster till en annan partner i CSP-programmet för närvarande. Microsoft granskar kontinuerligt principerna och funktionerna i alla program. Alla nyheter om funktions uppdateringar eller princip ändringar kommer att meddelas via de vanligaste kommunikations kanalerna, inklusive [meddelanden i Partner Center](announcements/index.md).
-
-
-
-
-
-
+> En partner i CSP-programmet kan inte sälja onlinetjänster till en annan partner i CSP-programmet för närvarande. Den här begränsningen gäller endast för den klient som används för att utföra CSP-transaktioner. CSP-partner som använder en icke-CSP-klient för deras företags användning kan köpa onlinetjänster från en annan CSP-partner. Microsoft granskar kontinuerligt principerna och funktionerna i alla program. Alla nyheter om funktions uppdateringar eller princip ändringar kommer att meddelas via de vanligaste kommunikations kanalerna, inklusive [meddelanden i Partner Center](announcements/index.md).
