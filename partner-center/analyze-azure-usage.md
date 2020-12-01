@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: 670146b30c953e579cb5a8638cdb820dd8262258
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: a87b6cdde7fb339dd498bfa4834e618c19f504f3
+ms.sourcegitcommit: 32612717e2b62dd307741933afa580a622ef7787
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92531929"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "96354232"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Hämta data om hur bra dina kunder och Azure-prenumerationer gör
 
@@ -32,7 +32,7 @@ ms.locfileid: "92531929"
 
 Data enheter affärs beslut. Använd måtten på sidan **Azure-användning** för att identifiera dina framgångar och områden som behöver mer uppmärksamhet. Använd den här informationen när du planerar nya affärs mål.
 
-Logga in på Partner Center- [instrumentpanelen](https:/partner.microsoft.com/dashboard)för att komma till **Azure-användning** . Välj **analys** på menyn Partner Center och välj sedan Azure- **användning** .
+Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard)för att komma till **Azure-användning**. Välj **analys** på menyn Partner Center och välj sedan Azure- **användning**.
 
 > [!NOTE]
 > Användnings analys i Azure är endast tillgängligt för partner i Cloud Solution Provider-programmet.
@@ -41,9 +41,9 @@ Vi spårar följande mått:
 
 ## <a name="summary"></a>Sammanfattning
 
-- **Totalt antal sålda Azure-prenumerationer** : antal prenumerationer som sålts under den angivna tids perioden  
-- **Kunder med användning** : antalet kunder med Azure-användning under den angivna tids perioden  
-- **Kunder utan användning** : antalet kunder utan Azure-användning under den angivna tids perioden  
+- **Totalt antal sålda Azure-prenumerationer**: antal prenumerationer som sålts under den angivna tids perioden  
+- **Kunder med användning**: antalet kunder med Azure-användning under den angivna tids perioden  
+- **Kunder utan användning**: antalet kunder utan Azure-användning under den angivna tids perioden  
 
 ## <a name="top-5-customers-in-category"></a>De fem främsta kunderna i kategorin
 
@@ -59,8 +59,8 @@ Det här avsnittet visar den beräknade omsättnings risken för Azure-prenumera
 
 ## <a name="azure-subscription-churn"></a>Azure-prenumerationens omsättning
 
-- **Aktiva prenumerationer** : antal aktiva prenumerationer efter datum  
-- **Avetablerade prenumerationer** : antal avetablerade eller inaktiverade prenumerationer efter datum  
+- **Aktiva prenumerationer**: antal aktiva prenumerationer efter datum  
+- **Avetablerade prenumerationer**: antal avetablerade eller inaktiverade prenumerationer efter datum  
 
 ## <a name="customer-count"></a>Kund antal
 
