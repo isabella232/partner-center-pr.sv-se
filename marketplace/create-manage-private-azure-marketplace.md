@@ -1,56 +1,56 @@
 ---
 title: Skapa och hantera privat Azure Marketplace i Azure Portal
-description: Lär dig mer om att skapa och hantera privata Azure Marketplace (för hands version) i Azure Portal.
+description: Lär dig mer om att skapa och hantera privata Azure Marketplace (för hands version) i Azure Portal. Med privat Azure Marketplace (för hands version) kan administratörer styra vilka lösningar från tredje part som användarna kan använda.
 ms.prod: marketplace-customer
 ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 09/18/2020
-ms.openlocfilehash: f62c9aef13b51ba2db42b267d7620f506bbdc1ec
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 2459e7841c2c33227ad38f9d6fa1fc139fc0326e
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95006947"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439256"
 ---
-# <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a><span data-ttu-id="f30c7-103">Skapa och hantera privat Azure Marketplace (för hands version) i Azure Portal</span><span class="sxs-lookup"><span data-stu-id="f30c7-103">Create and manage Private Azure Marketplace (preview) in the Azure portal</span></span>
+# <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a><span data-ttu-id="2650b-104">Skapa och hantera privat Azure Marketplace (för hands version) i Azure Portal</span><span class="sxs-lookup"><span data-stu-id="2650b-104">Create and manage Private Azure Marketplace (preview) in the Azure portal</span></span>
 
-<span data-ttu-id="f30c7-104">Med privat Azure Marketplace (för hands version) kan administratörer styra vilka lösningar från tredje part som användarna kan använda.</span><span class="sxs-lookup"><span data-stu-id="f30c7-104">Private Azure Marketplace (preview) lets administrators govern which third-party solutions their users can use.</span></span> <span data-ttu-id="f30c7-105">Det gör det genom att låta dig distribuera endast erbjudanden som du godkänner och som uppfyller företagets principer.</span><span class="sxs-lookup"><span data-stu-id="f30c7-105">It does this by allowing you to deploy only offers that you approve and that comply with your enterprise's policies.</span></span> <span data-ttu-id="f30c7-106">Med en privat Azure Marketplace kan användarna söka i onlinebutiken efter kompatibla erbjudanden för köp och distribution.</span><span class="sxs-lookup"><span data-stu-id="f30c7-106">With Private Azure Marketplace, your users can search the online store for compliant offers to purchase and deploy.</span></span> 
+<span data-ttu-id="2650b-105">Med privat Azure Marketplace (för hands version) kan administratörer styra vilka lösningar från tredje part som användarna kan använda.</span><span class="sxs-lookup"><span data-stu-id="2650b-105">Private Azure Marketplace (preview) lets administrators govern which third-party solutions their users can use.</span></span> <span data-ttu-id="2650b-106">Det gör det genom att låta dig distribuera endast erbjudanden som du godkänner och som uppfyller företagets principer.</span><span class="sxs-lookup"><span data-stu-id="2650b-106">It does this by allowing you to deploy only offers that you approve and that comply with your enterprise's policies.</span></span> <span data-ttu-id="2650b-107">Med en privat Azure Marketplace kan användarna söka i onlinebutiken efter kompatibla erbjudanden för köp och distribution.</span><span class="sxs-lookup"><span data-stu-id="2650b-107">With Private Azure Marketplace, your users can search the online store for compliant offers to purchase and deploy.</span></span> 
 
-<span data-ttu-id="f30c7-107">Som Marketplace-administratör (tilldelad roll) börjar du med en inaktive rad och en tom privat lagrings plats där du kan lägga till godkända erbjudanden och planer.</span><span class="sxs-lookup"><span data-stu-id="f30c7-107">As a Marketplace admin (assigned role), you will start with a disabled and empty Private Store where you can add your approved offers and plans.</span></span> <span data-ttu-id="f30c7-108">Den här artikeln beskriver hur du skapar, hanterar och aktiverar privat Azure Marketplace för dina användare.</span><span class="sxs-lookup"><span data-stu-id="f30c7-108">This article explains how to create, manage, and enable Private Azure Marketplace for your users.</span></span>
+<span data-ttu-id="2650b-108">Som Marketplace-administratör (tilldelad roll) börjar du med en inaktive rad och en tom privat lagrings plats där du kan lägga till godkända erbjudanden och planer.</span><span class="sxs-lookup"><span data-stu-id="2650b-108">As a Marketplace admin (assigned role), you will start with a disabled and empty Private Store where you can add your approved offers and plans.</span></span> <span data-ttu-id="2650b-109">Den här artikeln beskriver hur du skapar, hanterar och aktiverar privat Azure Marketplace för dina användare.</span><span class="sxs-lookup"><span data-stu-id="2650b-109">This article explains how to create, manage, and enable Private Azure Marketplace for your users.</span></span>
 
-<span data-ttu-id="f30c7-109">Obs!</span><span class="sxs-lookup"><span data-stu-id="f30c7-109">Notes:</span></span>
+<span data-ttu-id="2650b-110">Obs!</span><span class="sxs-lookup"><span data-stu-id="2650b-110">Notes:</span></span>
 
-- <span data-ttu-id="f30c7-110">En privat Azure Marketplace finns på klient nivå, så alla användare under klienten ser samma granskade lista.</span><span class="sxs-lookup"><span data-stu-id="f30c7-110">Private Azure Marketplace is at a tenant level, so all users under the tenant will see the same curated list.</span></span>
-- <span data-ttu-id="f30c7-111">Alla Microsoft-lösningar läggs automatiskt till i privata Azure Marketplace.</span><span class="sxs-lookup"><span data-stu-id="f30c7-111">All Microsoft solutions are automatically added to Private Azure Marketplace.</span></span>
+- <span data-ttu-id="2650b-111">En privat Azure Marketplace finns på klient nivå, så alla användare under klienten ser samma granskade lista.</span><span class="sxs-lookup"><span data-stu-id="2650b-111">Private Azure Marketplace is at a tenant level, so all users under the tenant will see the same curated list.</span></span>
+- <span data-ttu-id="2650b-112">Alla Microsoft-lösningar läggs automatiskt till i privata Azure Marketplace.</span><span class="sxs-lookup"><span data-stu-id="2650b-112">All Microsoft solutions are automatically added to Private Azure Marketplace.</span></span>
 
-## <a name="assign-the-marketplace-admin-role"></a><span data-ttu-id="f30c7-112">Tilldela rollen Marketplace-administratör</span><span class="sxs-lookup"><span data-stu-id="f30c7-112">Assign the Marketplace admin role</span></span>
+## <a name="assign-the-marketplace-admin-role"></a><span data-ttu-id="2650b-113">Tilldela rollen Marketplace-administratör</span><span class="sxs-lookup"><span data-stu-id="2650b-113">Assign the Marketplace admin role</span></span>
 
-<span data-ttu-id="f30c7-113">Den globala klient organisationen måste tilldela rollen **Marketplace-administratör** till den privata Azure Marketplace-administratören som ska hantera den privata lagringen.</span><span class="sxs-lookup"><span data-stu-id="f30c7-113">The tenant Global administrator must assign the **Marketplace admin** role to the Private Azure Marketplace admin who will manage the private store.</span></span>
+<span data-ttu-id="2650b-114">Den globala klient organisationen måste tilldela rollen **Marketplace-administratör** till den privata Azure Marketplace-administratören som ska hantera den privata lagringen.</span><span class="sxs-lookup"><span data-stu-id="2650b-114">The tenant Global administrator must assign the **Marketplace admin** role to the Private Azure Marketplace admin who will manage the private store.</span></span>
 
 >[!IMPORTANT]
-> <span data-ttu-id="f30c7-114">Åtkomst till privat Azure Marketplace-hantering är bara tillgänglig för IT-administratörer med rollen Marketplace-administratör tilldelad.</span><span class="sxs-lookup"><span data-stu-id="f30c7-114">Access to Private Azure Marketplace management is only available to IT admins with the Marketplace admin role assigned.</span></span>
+> <span data-ttu-id="2650b-115">Åtkomst till privat Azure Marketplace-hantering är bara tillgänglig för IT-administratörer med rollen Marketplace-administratör tilldelad.</span><span class="sxs-lookup"><span data-stu-id="2650b-115">Access to Private Azure Marketplace management is only available to IT admins with the Marketplace admin role assigned.</span></span>
 
-### <a name="prerequisites"></a><span data-ttu-id="f30c7-115">Förutsättningar</span><span class="sxs-lookup"><span data-stu-id="f30c7-115">Prerequisites</span></span>
+### <a name="prerequisites"></a><span data-ttu-id="2650b-116">Förutsättningar</span><span class="sxs-lookup"><span data-stu-id="2650b-116">Prerequisites</span></span>
 
-<span data-ttu-id="f30c7-116">Du måste uppfylla dessa krav innan du kan tilldela rollen Marketplace-administratör till en användare i klient omfånget:</span><span class="sxs-lookup"><span data-stu-id="f30c7-116">You must meet these prerequisites before you can assign the Marketplace Admin role to a user on the tenant scope:</span></span>
+<span data-ttu-id="2650b-117">Du måste uppfylla dessa krav innan du kan tilldela rollen Marketplace-administratör till en användare i klient omfånget:</span><span class="sxs-lookup"><span data-stu-id="2650b-117">You must meet these prerequisites before you can assign the Marketplace Admin role to a user on the tenant scope:</span></span>
 
-- <span data-ttu-id="f30c7-117">Du har åtkomst till en **Global administratörs** användare.</span><span class="sxs-lookup"><span data-stu-id="f30c7-117">You have access to a **Global administrator** user.</span></span>
-- <span data-ttu-id="f30c7-118">Klienten har minst en prenumeration (kan vara av valfri typ).</span><span class="sxs-lookup"><span data-stu-id="f30c7-118">The tenant has at least one subscription (can be any type).</span></span>
-- <span data-ttu-id="f30c7-119">Den globala administratörs användaren tilldelas rollen **deltagare** eller högre för den valda prenumerationen.</span><span class="sxs-lookup"><span data-stu-id="f30c7-119">The Global administrator user is assigned the **Contributor** role or higher for the chosen subscription.</span></span>
-- <span data-ttu-id="f30c7-120">Den globala administratörs användaren har förhöjd åtkomst inställt på **Ja** (se [öka åtkomsten för att hantera alla Azure-prenumerationer och hanterings grupper](/azure/role-based-access-control/elevate-access-global-admin)).</span><span class="sxs-lookup"><span data-stu-id="f30c7-120">The Global administrator user has elevated access set to **Yes** (see [Elevate access to manage all Azure subscriptions and management groups](/azure/role-based-access-control/elevate-access-global-admin)).</span></span>
+- <span data-ttu-id="2650b-118">Du har åtkomst till en **Global administratörs** användare.</span><span class="sxs-lookup"><span data-stu-id="2650b-118">You have access to a **Global administrator** user.</span></span>
+- <span data-ttu-id="2650b-119">Klienten har minst en prenumeration (kan vara av valfri typ).</span><span class="sxs-lookup"><span data-stu-id="2650b-119">The tenant has at least one subscription (can be any type).</span></span>
+- <span data-ttu-id="2650b-120">Den globala administratörs användaren tilldelas rollen **deltagare** eller högre för den valda prenumerationen.</span><span class="sxs-lookup"><span data-stu-id="2650b-120">The Global administrator user is assigned the **Contributor** role or higher for the chosen subscription.</span></span>
+- <span data-ttu-id="2650b-121">Den globala administratörs användaren har förhöjd åtkomst inställt på **Ja** (se [öka åtkomsten för att hantera alla Azure-prenumerationer och hanterings grupper](/azure/role-based-access-control/elevate-access-global-admin)).</span><span class="sxs-lookup"><span data-stu-id="2650b-121">The Global administrator user has elevated access set to **Yes** (see [Elevate access to manage all Azure subscriptions and management groups](/azure/role-based-access-control/elevate-access-global-admin)).</span></span>
 
-### <a name="assign-the-marketplace-admin-role-with-powershell"></a><span data-ttu-id="f30c7-121">Tilldela rollen Marketplace-administratör med PowerShell</span><span class="sxs-lookup"><span data-stu-id="f30c7-121">Assign the Marketplace admin role with PowerShell</span></span>
+### <a name="assign-the-marketplace-admin-role-with-powershell"></a><span data-ttu-id="2650b-122">Tilldela rollen Marketplace-administratör med PowerShell</span><span class="sxs-lookup"><span data-stu-id="2650b-122">Assign the Marketplace admin role with PowerShell</span></span>
 
-<span data-ttu-id="f30c7-122">Använd följande PowerShell-skript för att tilldela rollen Marketplace-administratör; den kräver följande parametrar:</span><span class="sxs-lookup"><span data-stu-id="f30c7-122">Use the following PowerShell script to assign the Marketplace Admin role; it requires the following parameters:</span></span>
+<span data-ttu-id="2650b-123">Använd följande PowerShell-skript för att tilldela rollen Marketplace-administratör; den kräver följande parametrar:</span><span class="sxs-lookup"><span data-stu-id="2650b-123">Use the following PowerShell script to assign the Marketplace Admin role; it requires the following parameters:</span></span>
 
-- <span data-ttu-id="f30c7-123">**TenantId:** ID: t för klient organisationen i omfånget (Marketplace admin-rollen kan tilldelas i klientens omfång).</span><span class="sxs-lookup"><span data-stu-id="f30c7-123">**TenantId:** The ID of the tenant in scope (Marketplace admin role is assignable on the tenant scope).</span></span>
-- <span data-ttu-id="f30c7-124">**SubscriptionId:** En prenumeration som den globala administratören har rollen **deltagare** eller högre tilldelad.</span><span class="sxs-lookup"><span data-stu-id="f30c7-124">**SubscriptionId:** A subscription of which the global admin has **Contributor** role or higher assigned.</span></span>
-- <span data-ttu-id="f30c7-125">**GlobalAdminUsername:** Användar namnet för den globala administratören.</span><span class="sxs-lookup"><span data-stu-id="f30c7-125">**GlobalAdminUsername:** The username of the global admin.</span></span>
-- <span data-ttu-id="f30c7-126">**UsernameToAssignRoleFor:** Det användar namn som Marketplace-administratörskonsolen ska tilldelas till.</span><span class="sxs-lookup"><span data-stu-id="f30c7-126">**UsernameToAssignRoleFor:** The user name to which the Marketplace admin role will be assigned.</span></span>
+- <span data-ttu-id="2650b-124">**TenantId:** ID: t för klient organisationen i omfånget (Marketplace admin-rollen kan tilldelas i klientens omfång).</span><span class="sxs-lookup"><span data-stu-id="2650b-124">**TenantId:** The ID of the tenant in scope (Marketplace admin role is assignable on the tenant scope).</span></span>
+- <span data-ttu-id="2650b-125">**SubscriptionId:** En prenumeration som den globala administratören har rollen **deltagare** eller högre tilldelad.</span><span class="sxs-lookup"><span data-stu-id="2650b-125">**SubscriptionId:** A subscription of which the global admin has **Contributor** role or higher assigned.</span></span>
+- <span data-ttu-id="2650b-126">**GlobalAdminUsername:** Användar namnet för den globala administratören.</span><span class="sxs-lookup"><span data-stu-id="2650b-126">**GlobalAdminUsername:** The username of the global admin.</span></span>
+- <span data-ttu-id="2650b-127">**UsernameToAssignRoleFor:** Det användar namn som Marketplace-administratörskonsolen ska tilldelas till.</span><span class="sxs-lookup"><span data-stu-id="2650b-127">**UsernameToAssignRoleFor:** The user name to which the Marketplace admin role will be assigned.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="f30c7-127">För gäst användare som har bjudits in till klienten kan det ta upp till 48 timmar tills deras konto är tillgängligt för att tilldela Marketplace-administratörskonsolen.</span><span class="sxs-lookup"><span data-stu-id="f30c7-127">For guest users invited to the tenant, it may take up to 48 hours until their account is available for assigning the Marketplace admin role.</span></span> <span data-ttu-id="f30c7-128">Mer information finns i [Egenskaper för en Azure Active Directory B2B-samarbets användare](/azure/active-directory/b2b/user-properties).</span><span class="sxs-lookup"><span data-stu-id="f30c7-128">For more information, see [Properties of an Azure Active Directory B2B collaboration user](/azure/active-directory/b2b/user-properties).</span></span>
+> <span data-ttu-id="2650b-128">För gäst användare som har bjudits in till klienten kan det ta upp till 48 timmar tills deras konto är tillgängligt för att tilldela Marketplace-administratörskonsolen.</span><span class="sxs-lookup"><span data-stu-id="2650b-128">For guest users invited to the tenant, it may take up to 48 hours until their account is available for assigning the Marketplace admin role.</span></span> <span data-ttu-id="2650b-129">Mer information finns i [Egenskaper för en Azure Active Directory B2B-samarbets användare](/azure/active-directory/b2b/user-properties).</span><span class="sxs-lookup"><span data-stu-id="2650b-129">For more information, see [Properties of an Azure Active Directory B2B collaboration user](/azure/active-directory/b2b/user-properties).</span></span>
 
 ```PowerShell
 function Assign-MarketplaceAdminRole {
@@ -123,104 +123,104 @@ New-AzRoleAssignment -SignInName $UsernameToAssignRoleFor -RoleDefinitionName $M
 Assign-MarketplaceAdminRole
 ```
 
-<span data-ttu-id="f30c7-129">Mer information om de cmdletar som finns i AZ. Portal PowerShell-modulen finns [Microsoft Azure PowerShell: portalens instrument panels-cmdletar](/powershell/module/az.portal/).</span><span class="sxs-lookup"><span data-stu-id="f30c7-129">For more information about the cmdlets contained in the Az.Portal PowerShell module, see [Microsoft Azure PowerShell: Portal Dashboard cmdlets](/powershell/module/az.portal/).</span></span>
+<span data-ttu-id="2650b-130">Mer information om de cmdletar som finns i AZ. Portal PowerShell-modulen finns [Microsoft Azure PowerShell: portalens instrument panels-cmdletar](/powershell/module/az.portal/).</span><span class="sxs-lookup"><span data-stu-id="2650b-130">For more information about the cmdlets contained in the Az.Portal PowerShell module, see [Microsoft Azure PowerShell: Portal Dashboard cmdlets](/powershell/module/az.portal/).</span></span>
 
-## <a name="create-private-azure-marketplace"></a><span data-ttu-id="f30c7-130">Skapa en privat Azure Marketplace</span><span class="sxs-lookup"><span data-stu-id="f30c7-130">Create Private Azure Marketplace</span></span>
+## <a name="create-private-azure-marketplace"></a><span data-ttu-id="2650b-131">Skapa en privat Azure Marketplace</span><span class="sxs-lookup"><span data-stu-id="2650b-131">Create Private Azure Marketplace</span></span>
 
-1. <span data-ttu-id="f30c7-131">Logga in på [Azure-portalen](https://portal.azure.com/).</span><span class="sxs-lookup"><span data-stu-id="f30c7-131">Sign in to the [Azure portal](https://portal.azure.com/).</span></span>
-2. <span data-ttu-id="f30c7-132">Välj **alla tjänster** och sedan **Marketplace**.</span><span class="sxs-lookup"><span data-stu-id="f30c7-132">Select **All services** and then **Marketplace**.</span></span>
+1. <span data-ttu-id="2650b-132">Logga in på [Azure-portalen](https://portal.azure.com/).</span><span class="sxs-lookup"><span data-stu-id="2650b-132">Sign in to the [Azure portal](https://portal.azure.com/).</span></span>
+2. <span data-ttu-id="2650b-133">Välj **alla tjänster** och sedan **Marketplace**.</span><span class="sxs-lookup"><span data-stu-id="2650b-133">Select **All services** and then **Marketplace**.</span></span>
 
    :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="Azure Portal huvud fönstret.":::
 
-3. <span data-ttu-id="f30c7-134">Välj **privat Marketplace** från alternativen till vänster.</span><span class="sxs-lookup"><span data-stu-id="f30c7-134">Select **Private Marketplace** from the options on the left.</span></span>
+3. <span data-ttu-id="2650b-135">Välj **privat Marketplace** från alternativen till vänster.</span><span class="sxs-lookup"><span data-stu-id="2650b-135">Select **Private Marketplace** from the options on the left.</span></span>
 
     :::image type="content" source="media/private-azure/private-marketplace.png" alt-text="Välja Privat Marketplace i Azure Portal huvud fönstret.":::
 
-4. <span data-ttu-id="f30c7-136">Välj **Kom igång** för att skapa en privat Azure Marketplace (du behöver bara göra det här en gång).</span><span class="sxs-lookup"><span data-stu-id="f30c7-136">Select **Get Started** to create Private Azure Marketplace (you only have to do this once).</span></span>
+4. <span data-ttu-id="2650b-137">Välj **Kom igång** för att skapa en privat Azure Marketplace (du behöver bara göra det här en gång).</span><span class="sxs-lookup"><span data-stu-id="2650b-137">Select **Get Started** to create Private Azure Marketplace (you only have to do this once).</span></span>
 
     :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Välj kom igång i Azure Portal huvud fönstret.":::
 
-    <span data-ttu-id="f30c7-138">Om den privata Azure Marketplace redan finns för den här klienten, är **Hantera Marketplace** valt som standard.</span><span class="sxs-lookup"><span data-stu-id="f30c7-138">If Private Azure Marketplace already exists for this tenant, **Manage Marketplace** will be selected by default.</span></span>
+    <span data-ttu-id="2650b-139">Om den privata Azure Marketplace redan finns för den här klienten, är **Hantera Marketplace** valt som standard.</span><span class="sxs-lookup"><span data-stu-id="2650b-139">If Private Azure Marketplace already exists for this tenant, **Manage Marketplace** will be selected by default.</span></span>
 
-5. <span data-ttu-id="f30c7-139">När du är klar har du en tom och inaktive rad privat Azure Marketplace.</span><span class="sxs-lookup"><span data-stu-id="f30c7-139">Once completed you will have an empty and disabled Private Azure Marketplace.</span></span>
+5. <span data-ttu-id="2650b-140">När du är klar har du en tom och inaktive rad privat Azure Marketplace.</span><span class="sxs-lookup"><span data-stu-id="2650b-140">Once completed you will have an empty and disabled Private Azure Marketplace.</span></span>
 
     :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="Den tomma privata Azure Marketplace-skärmen.":::
 
-## <a name="add-items-from-gallery"></a><span data-ttu-id="f30c7-141">Lägg till objekt från galleriet</span><span class="sxs-lookup"><span data-stu-id="f30c7-141">Add items from gallery</span></span>
+## <a name="add-items-from-gallery"></a><span data-ttu-id="2650b-142">Lägg till objekt från galleriet</span><span class="sxs-lookup"><span data-stu-id="2650b-142">Add items from gallery</span></span>
 
-<span data-ttu-id="f30c7-142">Ett objekt är en kombination av ett erbjudande och en plan.</span><span class="sxs-lookup"><span data-stu-id="f30c7-142">An item is a combination of an offer and a plan.</span></span> <span data-ttu-id="f30c7-143">Du kan söka efter och lägga till objekt på sidan Hantera Marketplace.</span><span class="sxs-lookup"><span data-stu-id="f30c7-143">You can search for and add item in the Manage Marketplace page.</span></span>
+<span data-ttu-id="2650b-143">Ett objekt är en kombination av ett erbjudande och en plan.</span><span class="sxs-lookup"><span data-stu-id="2650b-143">An item is a combination of an offer and a plan.</span></span> <span data-ttu-id="2650b-144">Du kan söka efter och lägga till objekt på sidan Hantera Marketplace.</span><span class="sxs-lookup"><span data-stu-id="2650b-144">You can search for and add item in the Manage Marketplace page.</span></span>
 
-1. <span data-ttu-id="f30c7-144">Välj **Lägg till objekt**.</span><span class="sxs-lookup"><span data-stu-id="f30c7-144">Select **Add items**.</span></span>
+1. <span data-ttu-id="2650b-145">Välj **Lägg till objekt**.</span><span class="sxs-lookup"><span data-stu-id="2650b-145">Select **Add items**.</span></span>
 
-2. <span data-ttu-id="f30c7-145">Bläddra i **galleriet** eller Använd Sök fältet för att hitta det objekt som du vill använda.</span><span class="sxs-lookup"><span data-stu-id="f30c7-145">Browse the **Gallery** or use the search field to find the item you want.</span></span>
+2. <span data-ttu-id="2650b-146">Bläddra i **galleriet** eller Använd Sök fältet för att hitta det objekt som du vill använda.</span><span class="sxs-lookup"><span data-stu-id="2650b-146">Browse the **Gallery** or use the search field to find the item you want.</span></span>
 
     :::image type="content" source="media/private-azure/marketplace-gallery.png" alt-text="Bläddra i galleriet eller Använd Sök fältet.":::
 
-3. <span data-ttu-id="f30c7-147">Som standard kommer alla aktuella planer att läggas till i listan över tillåtna när du lägger till ett nytt erbjudande.</span><span class="sxs-lookup"><span data-stu-id="f30c7-147">As default, when adding a new offer, all current plans will be added to the allowed list.</span></span> <span data-ttu-id="f30c7-148">Om du vill ändra plan urvalet innan du lägger till de valda objekten väljer du den nedrullningsbara menyn i erbjudande panelen och uppdaterar de nödvändiga planerna.</span><span class="sxs-lookup"><span data-stu-id="f30c7-148">To modify the plan selection before adding the selected items, select the drop-down menu in the offer’s tile and update the required plans.</span></span>
+3. <span data-ttu-id="2650b-148">Som standard kommer alla aktuella planer att läggas till i listan över tillåtna när du lägger till ett nytt erbjudande.</span><span class="sxs-lookup"><span data-stu-id="2650b-148">As default, when adding a new offer, all current plans will be added to the allowed list.</span></span> <span data-ttu-id="2650b-149">Om du vill ändra plan urvalet innan du lägger till de valda objekten väljer du den nedrullningsbara menyn i erbjudande panelen och uppdaterar de nödvändiga planerna.</span><span class="sxs-lookup"><span data-stu-id="2650b-149">To modify the plan selection before adding the selected items, select the drop-down menu in the offer’s tile and update the required plans.</span></span>
 
     :::image type="content" source="media/private-azure/update-plans-400.png" alt-text="Uppdatera nödvändiga planer.":::
 
-4. <span data-ttu-id="f30c7-150">Välj **klar** längst ned till vänster när du har gjort dina val.</span><span class="sxs-lookup"><span data-stu-id="f30c7-150">Select **Done** at the bottom-left after you've made your selections.</span></span>
+4. <span data-ttu-id="2650b-151">Välj **klar** längst ned till vänster när du har gjort dina val.</span><span class="sxs-lookup"><span data-stu-id="2650b-151">Select **Done** at the bottom-left after you've made your selections.</span></span>
 
 >[!Note]
-> <span data-ttu-id="f30c7-151">**Lägg till objekt** till Marketplace kommer endast att vara tillgängligt för erbjudanden som inte kommer från Microsoft.</span><span class="sxs-lookup"><span data-stu-id="f30c7-151">**Add Items** to the Marketplace will be available for non-Microsoft offers only.</span></span> <span data-ttu-id="f30c7-152">Microsoft-erbjudanden tillåts som standard.</span><span class="sxs-lookup"><span data-stu-id="f30c7-152">Microsoft offers are allowed by default.</span></span>
+> <span data-ttu-id="2650b-152">**Lägg till objekt** till Marketplace kommer endast att vara tillgängligt för erbjudanden som inte kommer från Microsoft.</span><span class="sxs-lookup"><span data-stu-id="2650b-152">**Add Items** to the Marketplace will be available for non-Microsoft offers only.</span></span> <span data-ttu-id="2650b-153">Microsoft-erbjudanden tillåts som standard.</span><span class="sxs-lookup"><span data-stu-id="2650b-153">Microsoft offers are allowed by default.</span></span>
 
-## <a name="edit-item-plans"></a><span data-ttu-id="f30c7-153">Redigera artikel planer</span><span class="sxs-lookup"><span data-stu-id="f30c7-153">Edit item plans</span></span>
+## <a name="edit-item-plans"></a><span data-ttu-id="2650b-154">Redigera artikel planer</span><span class="sxs-lookup"><span data-stu-id="2650b-154">Edit item plans</span></span>
 
-<span data-ttu-id="f30c7-154">Du kan redigera ett objekts planer på sidan Hantera Marketplace.</span><span class="sxs-lookup"><span data-stu-id="f30c7-154">You can edit an item's plans in the Manage Marketplace page.</span></span>
+<span data-ttu-id="2650b-155">Du kan redigera ett objekts planer på sidan Hantera Marketplace.</span><span class="sxs-lookup"><span data-stu-id="2650b-155">You can edit an item's plans in the Manage Marketplace page.</span></span>
 
-1. <span data-ttu-id="f30c7-155">I kolumnen **planer** granskar du de tillgängliga planerna från List menyn för det objektet.</span><span class="sxs-lookup"><span data-stu-id="f30c7-155">In the **Plans** column, review the available plans from the dropdown menu for that item.</span></span>
-2. <span data-ttu-id="f30c7-156">Markera eller avmarkera kryss rutorna för att välja vilka planer som ska vara tillgängliga för dina användare.</span><span class="sxs-lookup"><span data-stu-id="f30c7-156">Select or clear the checkboxes to choose which plans to make available to your users.</span></span>
+1. <span data-ttu-id="2650b-156">I kolumnen **planer** granskar du de tillgängliga planerna från List menyn för det objektet.</span><span class="sxs-lookup"><span data-stu-id="2650b-156">In the **Plans** column, review the available plans from the dropdown menu for that item.</span></span>
+2. <span data-ttu-id="2650b-157">Markera eller avmarkera kryss rutorna för att välja vilka planer som ska vara tillgängliga för dina användare.</span><span class="sxs-lookup"><span data-stu-id="2650b-157">Select or clear the checkboxes to choose which plans to make available to your users.</span></span>
 
     :::image type="content" source="media/private-azure/edit-items.png" alt-text="Markera eller avmarkera kryss rutan för det begärda objektet.":::
 
 > [!NOTE]
-> <span data-ttu-id="f30c7-158">Varje erbjudande måste ha minst en plan vald för att uppdateringen ska ske.</span><span class="sxs-lookup"><span data-stu-id="f30c7-158">Each offer needs at least one plan selected in order for the update to occur.</span></span> <span data-ttu-id="f30c7-159">Ta bort alla planer som är relaterade till ett erbjudande genom att ta bort hela erbjudandet (se nästa avsnitt).</span><span class="sxs-lookup"><span data-stu-id="f30c7-159">To remove all plans related to an offer, delete the entire offer (see next section).</span></span>
+> <span data-ttu-id="2650b-159">Varje erbjudande måste ha minst en plan vald för att uppdateringen ska ske.</span><span class="sxs-lookup"><span data-stu-id="2650b-159">Each offer needs at least one plan selected in order for the update to occur.</span></span> <span data-ttu-id="2650b-160">Ta bort alla planer som är relaterade till ett erbjudande genom att ta bort hela erbjudandet (se nästa avsnitt).</span><span class="sxs-lookup"><span data-stu-id="2650b-160">To remove all plans related to an offer, delete the entire offer (see next section).</span></span>
 
-## <a name="delete-offers"></a><span data-ttu-id="f30c7-160">Ta bort erbjudanden</span><span class="sxs-lookup"><span data-stu-id="f30c7-160">Delete offers</span></span>
+## <a name="delete-offers"></a><span data-ttu-id="2650b-161">Ta bort erbjudanden</span><span class="sxs-lookup"><span data-stu-id="2650b-161">Delete offers</span></span>
 
-<span data-ttu-id="f30c7-161">På sidan Hantera marknads plats markerar du kryss rutan bredvid namnet på erbjudandet (se skärmen ovan) och väljer **ta bort objekt**.</span><span class="sxs-lookup"><span data-stu-id="f30c7-161">In the Manage Marketplace page, select the check box next to the offer name (see screen above) and select **Delete items**.</span></span>
+<span data-ttu-id="2650b-162">På sidan Hantera marknads plats markerar du kryss rutan bredvid namnet på erbjudandet (se skärmen ovan) och väljer **ta bort objekt**.</span><span class="sxs-lookup"><span data-stu-id="2650b-162">In the Manage Marketplace page, select the check box next to the offer name (see screen above) and select **Delete items**.</span></span>
 
-## <a name="enabledisable-private-azure-marketplace"></a><span data-ttu-id="f30c7-162">Aktivera/inaktivera privat Azure Marketplace</span><span class="sxs-lookup"><span data-stu-id="f30c7-162">Enable/disable Private Azure Marketplace</span></span>
+## <a name="enabledisable-private-azure-marketplace"></a><span data-ttu-id="2650b-163">Aktivera/inaktivera privat Azure Marketplace</span><span class="sxs-lookup"><span data-stu-id="2650b-163">Enable/disable Private Azure Marketplace</span></span>
 
-<span data-ttu-id="f30c7-163">På sidan Hantera Marketplace visas en av dessa banderoller som visar det aktuella läget för privat Azure Marketplace:</span><span class="sxs-lookup"><span data-stu-id="f30c7-163">In the Manage Marketplace page you will see one of these banners, which show the current state of Private Azure Marketplace:</span></span>
+<span data-ttu-id="2650b-164">På sidan Hantera Marketplace visas en av dessa banderoller som visar det aktuella läget för privat Azure Marketplace:</span><span class="sxs-lookup"><span data-stu-id="2650b-164">In the Manage Marketplace page you will see one of these banners, which show the current state of Private Azure Marketplace:</span></span>
 
 :::image type="content" source="media/private-azure/state-disable.png" alt-text="Inaktivera State-banderoll":::
 
 :::image type="content" source="media/private-azure/state-enable.png" alt-text="Aktivera State-banderoll":::
 
-<span data-ttu-id="f30c7-166">Du kan aktivera eller inaktivera privat Azure Marketplace efter behov.</span><span class="sxs-lookup"><span data-stu-id="f30c7-166">You can enable or disable Private Azure Marketplace as needed.</span></span>
+<span data-ttu-id="2650b-167">Du kan aktivera eller inaktivera privat Azure Marketplace efter behov.</span><span class="sxs-lookup"><span data-stu-id="2650b-167">You can enable or disable Private Azure Marketplace as needed.</span></span>
 
-1. <span data-ttu-id="f30c7-167">Om det är inaktiverat väljer du **aktivera privat Marketplace** för att aktivera.</span><span class="sxs-lookup"><span data-stu-id="f30c7-167">If disabled, select **Enable Private Marketplace** to enable.</span></span>
-2. <span data-ttu-id="f30c7-168">Om aktive rad väljer du **Inaktivera privat Marketplace** för att inaktivera.</span><span class="sxs-lookup"><span data-stu-id="f30c7-168">If enabled, select **Disable Private Marketplace** to disable.</span></span>
+1. <span data-ttu-id="2650b-168">Om det är inaktiverat väljer du **aktivera privat Marketplace** för att aktivera.</span><span class="sxs-lookup"><span data-stu-id="2650b-168">If disabled, select **Enable Private Marketplace** to enable.</span></span>
+2. <span data-ttu-id="2650b-169">Om aktive rad väljer du **Inaktivera privat Marketplace** för att inaktivera.</span><span class="sxs-lookup"><span data-stu-id="2650b-169">If enabled, select **Disable Private Marketplace** to disable.</span></span>
 
-## <a name="browsing-private-azure-marketplace"></a><span data-ttu-id="f30c7-169">Bläddra i privat Azure Marketplace</span><span class="sxs-lookup"><span data-stu-id="f30c7-169">Browsing Private Azure Marketplace</span></span>
+## <a name="browsing-private-azure-marketplace"></a><span data-ttu-id="2650b-170">Bläddra i privat Azure Marketplace</span><span class="sxs-lookup"><span data-stu-id="2650b-170">Browsing Private Azure Marketplace</span></span>
 
-<span data-ttu-id="f30c7-170">När privat Azure Marketplace är aktiverat ser användarna vilka planer som Marketplace-administratören har tillåtit.</span><span class="sxs-lookup"><span data-stu-id="f30c7-170">When Private Azure Marketplace is enabled, users will see which plans the Marketplace admin has allowed.</span></span>
+<span data-ttu-id="2650b-171">När privat Azure Marketplace är aktiverat ser användarna vilka planer som Marketplace-administratören har tillåtit.</span><span class="sxs-lookup"><span data-stu-id="2650b-171">When Private Azure Marketplace is enabled, users will see which plans the Marketplace admin has allowed.</span></span>
 
-- <span data-ttu-id="f30c7-171">Ett grönt **tillåtet** meddelande anger ett erbjudande för partner (inte Microsoft) som är tillåtet.</span><span class="sxs-lookup"><span data-stu-id="f30c7-171">A green **Allowed** notice indicates a Partner (non-Microsoft) offer that is allowed.</span></span>
-- <span data-ttu-id="f30c7-172">Ett blått **tillåtet** meddelande indikerar ett Microsoft-erbjudande som är tillåtet.</span><span class="sxs-lookup"><span data-stu-id="f30c7-172">A blue **Allowed** notice indicates a Microsoft offer that is allowed.</span></span>
+- <span data-ttu-id="2650b-172">Ett grönt **tillåtet** meddelande anger ett erbjudande för partner (inte Microsoft) som är tillåtet.</span><span class="sxs-lookup"><span data-stu-id="2650b-172">A green **Allowed** notice indicates a Partner (non-Microsoft) offer that is allowed.</span></span>
+- <span data-ttu-id="2650b-173">Ett blått **tillåtet** meddelande indikerar ett Microsoft-erbjudande som är tillåtet.</span><span class="sxs-lookup"><span data-stu-id="2650b-173">A blue **Allowed** notice indicates a Microsoft offer that is allowed.</span></span>
 
-<span data-ttu-id="f30c7-173">Användare kan filtrera mellan erbjudanden som är och inte tillåtna:</span><span class="sxs-lookup"><span data-stu-id="f30c7-173">Users can filter between offers that are and are not allowed:</span></span>
+<span data-ttu-id="2650b-174">Användare kan filtrera mellan erbjudanden som är och inte tillåtna:</span><span class="sxs-lookup"><span data-stu-id="2650b-174">Users can filter between offers that are and are not allowed:</span></span>
 
 :::image type="content" source="media/private-azure/filter-option.png" alt-text="Filtrerings alternativ.":::
 
-## <a name="buy-or-deploy-in-private-azure-marketplace"></a><span data-ttu-id="f30c7-175">Köp eller distribuera i privat Azure Marketplace</span><span class="sxs-lookup"><span data-stu-id="f30c7-175">Buy or deploy in Private Azure Marketplace</span></span>
+## <a name="buy-or-deploy-in-private-azure-marketplace"></a><span data-ttu-id="2650b-176">Köp eller distribuera i privat Azure Marketplace</span><span class="sxs-lookup"><span data-stu-id="2650b-176">Buy or deploy in Private Azure Marketplace</span></span>
 
-<span data-ttu-id="f30c7-176">Även om produkt informationens sid upplevelse liknar den offentliga Azure Marketplace finns det tre privata Azure Marketplace-scenarier.</span><span class="sxs-lookup"><span data-stu-id="f30c7-176">While the product details page experience is similar to the public Azure Marketplace, there are three Private Azure Marketplace specific scenarios.</span></span>
+<span data-ttu-id="2650b-177">Även om produkt informationens sid upplevelse liknar den offentliga Azure Marketplace finns det tre privata Azure Marketplace-scenarier.</span><span class="sxs-lookup"><span data-stu-id="2650b-177">While the product details page experience is similar to the public Azure Marketplace, there are three Private Azure Marketplace specific scenarios.</span></span>
 
-- <span data-ttu-id="f30c7-177">När en användare väljer en tillåten plan aktive ras knappen **skapa** :</span><span class="sxs-lookup"><span data-stu-id="f30c7-177">When a user selects an allowed plan, the **Create** button is enabled:</span></span>
+- <span data-ttu-id="2650b-178">När en användare väljer en tillåten plan aktive ras knappen **skapa** :</span><span class="sxs-lookup"><span data-stu-id="2650b-178">When a user selects an allowed plan, the **Create** button is enabled:</span></span>
 
     :::image type="content" source="media/private-azure/button-create-enabled.png" alt-text="Erbjudande banderoll med en plan kan skapas.":::
 
-- <span data-ttu-id="f30c7-179">När en användare väljer en icke-tillåten plan, visar en banderoll om att planen inte är tillåten och knappen **skapa** är inaktive rad.</span><span class="sxs-lookup"><span data-stu-id="f30c7-179">When a user selects a non-allowed plan, a banner notes that the plan is not allowed and the **Create** button is disabled.</span></span>
+- <span data-ttu-id="2650b-180">När en användare väljer en icke-tillåten plan, visar en banderoll om att planen inte är tillåten och knappen **skapa** är inaktive rad.</span><span class="sxs-lookup"><span data-stu-id="2650b-180">When a user selects a non-allowed plan, a banner notes that the plan is not allowed and the **Create** button is disabled.</span></span>
 
    :::image type="content" source="media/private-azure/button-create-disabled.png" alt-text="Erbjudande banderollen det går inte att skapa en plan.":::
 
-- <span data-ttu-id="f30c7-181">Om ett val av produkt plan inte visas på sidan produkt information men administratören har godkänt en eller flera planer, visar en banderoll vilka planer som är tillåtna och knappen **skapa** är aktive rad:</span><span class="sxs-lookup"><span data-stu-id="f30c7-181">If a product plan selection does not appear in the product details page but the admin approved one or more plans, a banner notes which plans are allowed and the **Create** button is enabled:</span></span>
+- <span data-ttu-id="2650b-182">Om ett val av produkt plan inte visas på sidan produkt information men administratören har godkänt en eller flera planer, visar en banderoll vilka planer som är tillåtna och knappen **skapa** är aktive rad:</span><span class="sxs-lookup"><span data-stu-id="2650b-182">If a product plan selection does not appear in the product details page but the admin approved one or more plans, a banner notes which plans are allowed and the **Create** button is enabled:</span></span>
 
     :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="Erbjudande banderoll som visar att en plan kan skapas och visar tillgängliga planer.":::
 
-## <a name="contact-support"></a><span data-ttu-id="f30c7-183">Kontakta supporten</span><span class="sxs-lookup"><span data-stu-id="f30c7-183">Contact support</span></span>
+## <a name="contact-support"></a><span data-ttu-id="2650b-184">Kontakta supporten</span><span class="sxs-lookup"><span data-stu-id="2650b-184">Contact support</span></span>
 
-<span data-ttu-id="f30c7-184">Besök [Microsoft Q&A](/answers/products/)för support för Azure Marketplace.</span><span class="sxs-lookup"><span data-stu-id="f30c7-184">For Azure Marketplace support, visit [Microsoft Q&A](/answers/products/).</span></span> 
+<span data-ttu-id="2650b-185">Besök [Microsoft Q&A](/answers/products/)för support för Azure Marketplace.</span><span class="sxs-lookup"><span data-stu-id="2650b-185">For Azure Marketplace support, visit [Microsoft Q&A](/answers/products/).</span></span> 
