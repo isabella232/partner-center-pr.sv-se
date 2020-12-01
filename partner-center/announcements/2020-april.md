@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 1f73dc184ba38647061bf63dd573d8dc2e088ba3
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: cf83cd6eedf982a416f683fa1767e7afa23200c1
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133005"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439129"
 ---
 # <a name="april-2020-announcements"></a>Meddelanden april 2020
 
@@ -30,8 +30,8 @@ _________________
 
 - Datum: 2020-04-30
 - Typ: funktioner
-- Status: kommer snart
-- [Läs mer](https://aka.ms/CSPCOVIDPromo)
+
+
 
 ### <a name="summary"></a>Sammanfattning
 
@@ -49,7 +49,7 @@ Den 4 maj 2020 kommer Microsoft att införa nya rabatt kampanjer för Office 365
 Dessa kampanjer ersätter det aktuella Office 365 E1-utvärderings erbjudandet och skiljer sig åt på följande sätt:
 
 - Partner kommer att använda Transact årliga Office 365 E1 eller Microsoft 365 Business Basic SKU: er som använder en CSP-kampanj som tillämpar en rabatt på 100% för de första 6 månaderna, i stället för en unik 6-månaders provs-SKU. [Läs mer om CSP-kampanjer](../promotions.md).
-- Ordningen kommer att vara tekniskt begränsad till "nya kunder", i stället för Office 365 E1-utvärderings versionen, som var begränsad till nya kunder genom en skriftlig princip. Läs mer i [vanliga frågor och svar om Microsoft-partner](https://aka.ms/CSPCOVIDPromo).
+- Ordningen kommer att vara tekniskt begränsad till "nya kunder", i stället för Office 365 E1-utvärderings versionen, som var begränsad till nya kunder genom en skriftlig princip. 
 - För SMB-kunder kommer Microsoft 365 Business Basic att ingå i den här kampanjen. Detta säkerställer att partners kan starta kunder med färre än 300 platser i rätt produkt familj med Microsoft 365 för företag.
 Kunder som för närvarande är licensierade med Office 365 E1-utvärderings versionen (tillgänglig fram till den 4, 2020) kommer att finnas kvar i sin nuvarande plan – ändringen påverkar endast nya kunder.
 
@@ -58,12 +58,13 @@ Definition av nya kunder
 Nya kunder som är berättigade till den här kampanjen är:
 
 1. NET New kund klient organisationer
-2. Befintliga kunder som inte har en för tillfället betald eller nyligen Annullerad (under de senaste 30 dagarna) prenumerationen för någon av de produkter som definieras i [Microsoft partner vanliga frågor och svar (FAQ)](https://aka.ms/CSPCOVIDPromo).
+2. Befintliga kunder som inte har en för tillfället betald eller nyligen Annullerad (under de senaste 30 dagarna) prenumerationen för någon av de produkter som definieras i Microsoft partner vanliga frågor och svar (FAQ)
 
+ 
 ### <a name="additional-resources"></a>Ytterligare resurser
 
 - Besök [partnerns fjär arbets resurs Center](https://www.microsoft.com/microsoft-365/partners/remotework) och lär dig mer om säkert fjärran slutet arbete.
-- Läs mer om de här ändringarna i de [relaterade vanliga frågorna om partner](https://aka.ms/CSPCOVIDPromo).
+
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -168,11 +169,11 @@ Större och fort löp ande säkerhets-och integritets skydd är bland våra frä
 
 Nyligen har vi slutfört aktiveringen av säkerhets åtgärder för ADMINISTRATE-funktioner (admin on-of-of) för alla partner innehavare, skydda sina företag och kunder från problem med identitets stöld.
 
-För att ytterligare hjälpa partner och kunder, med **början den 1 maj 2020, kommer vi att påbörja aktiveringen av skydd för partner Center-transaktioner i CSP** . Aktiveringen av ytterligare säkerhets skydd innebär att partners kommer att begära att använda Multi-Factor Authentication (MFA) för alla transaktioner i CSP som använder användar upplevelsen eller API: er i partner centret, vilket förhindrar obehörig åtkomst och skyddar sina kunder och klienter från säkerhets incidenter relaterade till identitets stöld. Läs mer information [här](../partner-security-requirements-mandating-mfa.md).
+För att ytterligare hjälpa partner och kunder, med **början den 1 maj 2020, kommer vi att påbörja aktiveringen av skydd för partner Center-transaktioner i CSP**. Aktiveringen av ytterligare säkerhets skydd innebär att partners kommer att begära att använda Multi-Factor Authentication (MFA) för alla transaktioner i CSP som använder användar upplevelsen eller API: er i partner centret, vilket förhindrar obehörig åtkomst och skyddar sina kunder och klienter från säkerhets incidenter relaterade till identitets stöld. Läs mer information [här](../partner-security-requirements-mandating-mfa.md).
 
 ### <a name="next-steps"></a>Nästa steg
 
-- **Om du inte har aktiverat de rekommenderade säkerhets kraven för att skydda din klient och användare** , gör du det omedelbart för att hålla dig informerad och undvika eventuella affärs avbrott i hanteringen av kunder eller att kunna agera i CSP. Partner som inte implementerar säkerhets kraven kan sätta sitt deltagande i CSP-programmet i risk zonen.
+- **Om du inte har aktiverat de rekommenderade säkerhets kraven för att skydda din klient och användare**, gör du det omedelbart för att hålla dig informerad och undvika eventuella affärs avbrott i hanteringen av kunder eller att kunna agera i CSP. Partner som inte implementerar säkerhets kraven kan sätta sitt deltagande i CSP-programmet i risk zonen.
 - Indirekta leverantörer måste införa dessa säkerhets krav för sina egna företag och arbeta med åter försäljare för att säkerställa att de implementerar kraven även med hjälp av e-postmallen. Vi kommer också direkt att kontakta dina åter försäljare via e-postkommunikation.
 - Gå till [status sidan för säkerhets krav för partner Center](https://partner.microsoft.com/commerce/security/compliance) för att identifiera dina framsteg och viktiga åtgärder att vidta. Arbeta med din globala administratör för att kontrol lera förloppet för dina säkerhets krav regelbundet för var och en av dina klienter.
 - Om du använder en lösning för en kontroll panels leverantör (CPV) bör du kontakta din CPV.

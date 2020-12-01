@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: d3057dc50ce1df4e4dbe1d3821904326b452e7cf
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 0c8bf1c31a2662d5dcf65eed40e9c4f82c2ee80b
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514749"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439090"
 ---
 # <a name="november-2020-announcements"></a>Meddelanden november 2020
 
@@ -30,7 +30,7 @@ ______________
 - Datum: 2020-11-24
 - Funktioner
 
-## <a name="summary"></a>Sammanfattning
+### <a name="summary"></a>Sammanfattning
 
 Microsoft presenterar partner i Cloud Solution Provider-programmet för att köpa SaaS-erbjudanden med avgiftsbelagda fakturerings möjligheter i Partner Center. 
 
@@ -46,8 +46,7 @@ Microsoft presenterar möjligheterna för partner i Cloud Solution Provider-prog
 
 Dela den här informationen med alla lämpliga kontakter i företaget.
 
-
-
+______________
 
 ## <a name="new-unified-account-management-experience"></a><a name="13"></a>Ny, enhetlig konto hanterings upplevelse
 
@@ -56,7 +55,7 @@ Dela den här informationen med alla lämpliga kontakter i företaget.
 - Datum: 2020-11-18
 - Funktioner
 
-## <a name="summary"></a>Sammanfattning
+### <a name="summary"></a>Sammanfattning
 
 Från och med 18 november börjar Partner Center att ta bort den nya konto hanterings upplevelsen som förbättrar användar upplevelsen för partner. Partner kommer nu att kunna hantera sitt konto för alla program från inställningar-> konto inställningar.
 
@@ -84,8 +83,7 @@ Logga in på Partner Center-instrumentpanelen och välj sedan ikonen  **Instä
 
 Dela den här informationen med alla lämpliga kontakter i företaget.
 
-
-
+______________
 
 ## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>Office 365 E1 för erbjudande mellan marknaden (LATAM, APAC och Indien)
 
@@ -113,6 +111,7 @@ Detta kommer att vara tillgängligt den 1 december under tiden, dela den här in
 
 ### <a name="questions"></a>Har du några frågor?
 Kontakta [partner Center-supporten](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) om du har frågor, frågor eller ytterligare information.
+
 ______________
 
 ## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>API-uppdateringar och användar gränssnitts förbättringar i Partner Center för att förstärka kund gallringen i vissa länder
@@ -254,8 +253,6 @@ I Europeiska unionen (EU)/European fri handels Association (EFTA) kan alla nya h
 
 Från och med 2021 januari debiteras partners som har nya kunder som köper nya Commerce-erbjudanden för dessa inköp i partner platsens valuta. Partner med befintliga kunder som redan har köpt nya Commerce-erbjudanden i CSP kommer att fortsätta att faktureras i valutan för kundens fakturerings plats under den här fasen. 
 
- 
-
 - **Fas 2: befintliga kunder som köpte ett nytt Commerce-erbjudande i CSP före 2021** 
 
 Från och med fas 1 och under kalender året 2021 kommer Microsoft att övergå till faktureringen av nya Commerce-erbjudanden för partner med befintliga kunder, som köpte ett nytt handels erbjudande i CSP före den 2021, från kund platsens valuta till partner platsens valuta. Partners kommer att meddelas i förväg innan ändringen genomförs.  
@@ -279,6 +276,8 @@ De nya Commerce-erbjudandena i omfånget för den här ändringen är: Azure-pre
 ### <a name="resources"></a>Resurser 
 
 Läs informationen om det här avsnittet i [Operations Gallery] ( https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/ på webbplatsen för Microsoft-partner.  
+
+______________
 
 ## <a name="api-throttling-to-partners-calling-partner-center-apis"></a><a name="9"></a>API-begränsning till partners som anropar API: er för partner Center
 
@@ -310,7 +309,7 @@ Partner Center har utformats för att hantera en stor mängd begär Anden, men o
 |-------------------------|----------------------------------|
 |{baseURL}/v1/Customers/{customer_id}/subscriptions|[Hämta alla kunders prenumerationer](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Hämta en prenumeration efter ID](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/Customers/{customer_id}/Orders||[Hämta alla kund beställningar](https://docs.microsoft.com/artner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/Customers/{customer_id}/Orders||[Hämta alla kund beställningar](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-orders)|  
 |{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}|[Hämta en order efter ID](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
 |{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}/provisioningstatus|[Hämta prenumerations etablerings status](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
 |{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Hantera order och hantera en prenumeration](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
@@ -328,7 +327,7 @@ Det här meddelandet syftar till att tillhandahålla partners med tidiga medvete
 
 Läs igenom [API begränsnings vägledningen](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)och vidta nödvändiga åtgärder. 
 
-
+______________
 
 ## <a name="409-errors-due-to-duplicate-mca-requests"></a><a name="8"></a>409 fel på grund av duplicerade MCA-begäranden
 
@@ -365,8 +364,7 @@ Läs igenom [API begränsnings vägledningen](https://docs.microsoft.com/partner
 
 - Dela den här informationen med lämpliga team i din organisation för att hjälpa dem att förbereda för dessa ändringar.
 
-
->>>>>>> b9adba1905026516f3b9d15ff488d1c383af219b
+______________
 
 ## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Testning är tillgängligt: API: er för API och användar gränssnitt (UI) för att testa kund validerings processen
 
@@ -405,17 +403,17 @@ Förutom dessa förbättringar är vi glada att kunna tillkännage att vi är i 
 
 Microsoft förbehåller sig rätten att granska statusen för alla kunder eller föreslagna kunder som en kvalificerad utbildnings användare. Mer information finns i [användar kraven för akademiska utbildningar](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) .
 
-## <a name="next-steps"></a>Nästa steg
+### <a name="next-steps"></a>Nästa steg
 
-Granska det nya användar gränssnittet för partner Center och API-ändringar, samt test guiden i [partner Center-utbildning för kund validerings process förbättringar innehålls samling](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- Granska det nya användar gränssnittet för partner Center och API-ändringar, samt test guiden i [partner Center-utbildning för kund validerings process förbättringar innehålls samling](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
 
-• Registrera dig för att delta i testningen. (Mer information finns i [test guiden](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) .) 
+- Registrera dig för att delta i testningen. (Mer information finns i [test guiden](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) .) 
 
-• Se till att organisationen är bekant med de [akademiska användar kraven för utbildning](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7). 
+- Se till att din organisation är bekant med de [akademiska användar kraven för utbildning](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7). 
 
-• Dela den här informationen med lämpliga team i din organisation, tillsammans med dina åter försäljare för att hjälpa dem att förbereda för dessa ändringar.
+- Dela den här informationen med lämpliga team i din organisation, tillsammans med dina åter försäljare för att hjälpa dem att förbereda för dessa ändringar.
 
-
+______________
 
 ## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>Expandera innehåll för kommersiell licensierings partner i galleriet över drift beredskap
 
@@ -471,19 +469,19 @@ Med Premium-erbjudandet har kunder till gång till de nyligen utgivna tjänstern
 
    |****|**Microsoft Teams-enheter standard USD15-enhet per månad**|**Microsoft Teams-rum Premium USD50-enhet per månad**|
    |-------------------|:------|:------|
-   |Skype för företag|Ja| |
+   |Skype för företag|Yes| |
    |Microsoft Teams|Ja|Ja|
    |Telefon system|Ja|Ja|
    |Ljud konferens|Ja|Ja|
    |Microsoft Intune|Ja|Ja|
    | |Microsoft Teams-standarder USD15 per enhet per månad|Microsoft Teams-rum Premium-USD50 per enhet per månad|
-   |Microsoft Teams rum hanterade tjänster| |Ja|
-   |Tillgänglighet i hela världen|Ja|På utvalda marknader|
+   |Microsoft Teams rum hanterade tjänster| |Yes|
+   |Tillgänglighet i hela världen|Yes|På utvalda marknader|
 
 #### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft Teams rum hanterade tjänster
 
 - Proaktiv hantering: 24x7x365 hantering av dina rums system inklusive uppdatering, konfigurations hantering med mera.
-• Övervakning i real tid och rotor Saks analys: övervakning och identifiering med dirigerad incident hanterings svar som drivs av Microsoft i samordning med kunden, vid behov. Med mobilappen kan du hålla koll på igång.
+- Övervakning i real tid och rotor Saks analys: övervakning och identifiering med dirigerad incident hanterings svar som drivs av Microsoft i samordning med kunden, vid behov. Med mobilappen kan du hålla koll på igång.
 - Hanterade uppdateringar: hantering och leverans av program, Windows KB och uppdateringar av inbyggd program vara.
 - Skydd mot säkerhetshot: skydd mot säkerhetshot via Microsoft Defender Avancerat skydd.
 - Kund support: 24x7x365 Ticket-support via vårt dedikerade Service Operations Center med hjälp av incident reparation för icke-automatiserade fall. Detaljerad rollbaserad åtkomst kontroll.

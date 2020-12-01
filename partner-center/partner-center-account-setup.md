@@ -9,18 +9,18 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 81ca02a0fb93f88893e7339d63deec55b6913d9c
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: 45b924fa9143d1b4947e5b88c2e14c41c4451d19
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038931"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439003"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Hantera ditt partner Center-konto – företags profil, bank information, roller, behörigheter med mera
 
-Det konto som du skapar i partner centret när du registrerar dig är ditt e-post och din företags information. När du har skapat ett konto slutför du konfigurationen av företagets fullständiga profil, inklusive support information, fil skatte undantag om det behövs och primär kontakt information. Ditt företags konto innehåller också användar konton för alla som kommer att använda Partner Center för att lägga till eller hantera kunder, Sälj prenumerationer, arbeta med fakturering och fakturering, skapa affärs profiler, hantera hänvisningar, arbeta med stimulans program och tillhandahålla support.
-
 **Lämpliga roller** – global administratör, MPN-administratör
+
+Det konto som du skapar i partner centret när du registrerar dig är ditt e-post och din företags information. När du har skapat ett konto slutför du konfigurationen av företagets fullständiga profil, inklusive support information, fil skatte undantag om det behövs och primär kontakt information. Ditt företags konto innehåller också användar konton för alla som kommer att använda Partner Center för att lägga till eller hantera kunder, Sälj prenumerationer, arbeta med fakturering och fakturering, skapa affärs profiler, hantera hänvisningar, arbeta med stimulans program och tillhandahålla support.
 
 Se även artiklar [Bjud in anställda till Partner Center](guide-to-migration.md) och [lägga till en ny användare](create-user-accounts-and-set-permissions.md).
 

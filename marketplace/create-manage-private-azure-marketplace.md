@@ -1,17 +1,17 @@
 ---
 title: Skapa och hantera privat Azure Marketplace i Azure Portal
-description: Lär dig mer om att skapa och hantera privata Azure Marketplace (för hands version) i Azure Portal.
+description: Lär dig mer om att skapa och hantera privata Azure Marketplace (för hands version) i Azure Portal. Med privat Azure Marketplace (för hands version) kan administratörer styra vilka lösningar från tredje part som användarna kan använda.
 ms.prod: marketplace-customer
 ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 09/18/2020
-ms.openlocfilehash: f62c9aef13b51ba2db42b267d7620f506bbdc1ec
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 2459e7841c2c33227ad38f9d6fa1fc139fc0326e
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95006947"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439256"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Skapa och hantera privat Azure Marketplace (för hands version) i Azure Portal
 
