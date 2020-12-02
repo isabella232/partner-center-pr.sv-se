@@ -9,19 +9,15 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4fabdc52056b4b4bd9fe612dfa2d299a357be213
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 316fee641e321311c13e29a01f2e9091c69e67a6
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92531132"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474282"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Partner Center har två konto nivåer för MPN-partner
 
-**Gäller för**
-
-- Partnercenter
-- MPN-partner
 
 **Lämpliga roller**
 
@@ -34,7 +30,7 @@ Ditt företag har två konto nivåer i Partner Center.
 ## <a name="the-top-level-is-the-partner-global-account-pga"></a>Den översta nivån är partnerns globala konto (PGA).
 
 - Partnerns globala konto innehåller den juridiska företags adressen och den primära kontakten för ditt företag. 
-- Visa information om ditt globala partner konto från **Inställningar**  ->  **organisations profil** , **juridisk profil** .
+- Visa information om ditt globala partner konto från **Inställningar**  ->  **organisations profil**, **juridisk profil**.
 - Informationen kommer även att innehålla partnerns globala konto MPN-ID. 
 - PGA är överordnat företaget och används inte för att associeras med stimulans program eller moln lösnings leverantörer. 
 - Platser ska användas för sådana associationer.
@@ -44,7 +40,7 @@ Ditt företag har två konto nivåer i Partner Center.
 Din PGA kan ha ytterligare företags platser under den. Varje plats har sitt eget MPN-ID eller partner plats konto (PLA). Du använder platsens MPN-ID för transaktions företag och registrering i incitaments program.
 
 - Varje partner plats konto kan ha sin egen juridiska adress och primär kontakt. Platser kan också dela den juridiska adressen med det globala kontot eller med andra platser.
-- Visa listan över partners plats konton från **inställningarna**  ->  **platser** .
+- Visa listan över partners plats konton från **inställningarna**  ->  **platser**.
 - Alla plats konton är på samma nivå och under det globala partner kontot.
 - Konto administratörer kan lägga till platser.
 

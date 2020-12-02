@@ -9,20 +9,14 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43ee23fe23b75946fa960f68fe41f7e490761f5c
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 1eaa7fee628015eb633cac3a2796e371f6046585
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92531141"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474248"
 ---
 # <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Visa eller exportera kund aktivitets loggar för mer insikter om kund transaktioner
-
-**Gäller för**
-
-- Partnercenter
-- Partner Center för Microsoft Cloud för amerikanska myndigheter
-- Cloud Solution Provider program partners
 
 **Lämpliga roller**
 
@@ -41,7 +35,7 @@ Aktivitets loggar innehåller poster för partner åtgärder på kund konton och
 
 1. Logga in på [instrument panelen](https://partner.microsoft.com/dashboard)för partner Center.
 
-2. Från menyn **konto inställningar** väljer du **aktivitets logg** .
+2. Från menyn **konto inställningar** väljer du **aktivitets logg**.
 
 3. Välj aktivitets logg perioden i fälten **från** och **till** . Aktivitets logg exportens standardinställningar är den senaste månaden.
 
@@ -50,10 +44,10 @@ Aktivitets loggar innehåller poster för partner åtgärder på kund konton och
    Välj en nedåtpil för aktivitets loggen om du vill visa information om en loggad åtgärd. En enda aktivitets logg kan visa en stor mängd data, till exempel sortering av flera produkter.
 
 4. Data kolumnerna i loggen innehåller följande:
-   - **Datum/tid** -datum och tid för åtgärden.
-   - **Berörd kund** – kundens företags namn;
-   - **Åtgärd** – åtgärden som vidtas av kunden, till exempel "skapa en hänvisning";
-   - **Partner användare** – partnern som är kopplad till aktiviteten.
+   - **Datum/tid**-datum och tid för åtgärden.
+   - **Berörd kund**– kundens företags namn;
+   - **Åtgärd**– åtgärden som vidtas av kunden, till exempel "skapa en hänvisning";
+   - **Partner användare**– partnern som är kopplad till aktiviteten.
 
 5. Välj **Exportera logg** för att kopiera kundens prenumerations data till en. csv-fil och ladda ned den till standardmappen för hämtning på din dator.
 

@@ -9,19 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53aa25ab0c318efde13788013df09d003b234347
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 7b6c5f1f6d86398ab65e60a498614bfc9f42976e
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531580"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474231"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>Lägga till licenser eller fler tjänster till en kunds prenumeration
-
-**Gäller för**
-
-- Partnercenter
-- Cloud Solution Provider program partners
 
 **Lämpliga roller**
 
@@ -35,7 +30,7 @@ Om kunden behöver fler licenser än den aktuella prenumerationen erbjuder, elle
 
 ## <a name="upgrades-supported-in-the-csp-program"></a>Uppgraderingar som stöds i CSP-programmet <a id="upgradesubscription"></a>
 
-Följande uppgraderingar stöds i moln lösnings leverantören:
+Följande uppgraderingar stöds i Cloud Solution Provider-programmet:
 
 | Erbjudande | Möjliga uppgraderingar|
 |---:|:---|
@@ -66,9 +61,9 @@ Mer information om hur du påverkar faktureringen finns i så här avbryter du e
 
 1. Om du vill se om en prenumeration är tillgänglig för uppgradering väljer du din kund och öppnar sedan en lista över prenumerationer.
 
-2. Om prenumerationen kan uppgraderas visas en informations ikon direkt efter prenumerations namnet. Hovra över den här ikonen och välj sedan **Uppgradera nu** .
+2. Om prenumerationen kan uppgraderas visas en informations ikon direkt efter prenumerations namnet. Hovra över den här ikonen och välj sedan **Uppgradera nu**.
 
-3. Välj det nya erbjudandet och välj **Skicka** .
+3. Välj det nya erbjudandet och välj **Skicka**.
 
 4. Det kan finnas ytterligare arbete för att överföra vissa användar konton för vissa tjänster. I så fall, innehåller Partner Center en lista över konton och tjänster som påverkades. Mer information finns i Knowledge Base-artikeln [problem när du omtilldelar licenser när du byter plan i Office 365](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
 

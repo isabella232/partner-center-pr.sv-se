@@ -9,19 +9,15 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a9b2ed89b10e43c31d00777054839f3208e5c16
-ms.sourcegitcommit: 32516c30e90ee78415e5537d2b8ccf467f56a82d
+ms.openlocfilehash: 9f1d6e2a59bd892b7b79a1e3aa532242cdd0e302
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92531172"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474197"
 ---
 # <a name="upload-a-csv-file-of-users-to-a-customers-account"></a>Ladda upp en. csv-fil för användare till ett kund konto
 
-
-**Gäller för**
-
-- Partnercenter
 
 **Lämpliga roller**
 
@@ -37,18 +33,18 @@ Lägg till flera användare till ett kund konto samtidigt, genom att ladda upp e
 
 3. Från menyn Partner Center väljer du **kunder** och väljer sedan en kund i listan.
 
-4. Välj fliken **användare och licenser** för kunden och välj sedan **överför användare** .
+4. Välj fliken **användare och licenser** för kunden och välj sedan **överför användare**.
 
-5. Under **överför användar information** väljer du **Bläddra** .
+5. Under **överför användar information** väljer du **Bläddra**.
 
-6. Välj data fil i fil väljaren och välj sedan **Öppna** .
+6. Välj data fil i fil väljaren och välj sedan **Öppna**.
 
-7. Välj **Verifiera** .
+7. Välj **Verifiera**.
 
-    **Obs!**    De flesta fel uppstår på grund av problem med att skapa filer, inklusive information om saknade data, felaktiga eller dubbla e-postadresser eller för många poster i filen.
+    **Obs!**  De flesta fel uppstår på grund av problem med att skapa filer, inklusive information om saknade data, felaktiga eller dubbla e-postadresser eller för många poster i filen.
 
 8. När Partner Center har verifierat filen väljer du den geografiska **platsen** för de nya användarna.
-9. Välj **Spara** .
+9. Välj **Spara**.
 10. Ladda ned den tillfälliga lösen ords informationen för användarna.
 
     >[!IMPORTANT]

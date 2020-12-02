@@ -9,28 +9,29 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02bd7ca573be4b0b61da546f66c6102fbc752c2d
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 8cac2a6edc9199befeae940ed271c3236440c260
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92531157"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96473959"
 ---
 # <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>Tilldela Azure-prenumerationer till kunder i Partner Center
 
-**Gäller för**
+**Lämpliga roller**
 
-- Partnercenter
+- Global administratör
+- Försäljnings agent
 
 ## <a name="assign-azure-subscriptions-to-your-customers"></a>Tilldela Azure-prenumerationer till dina kunder
 
 1. Välj **kunder** från menyn **partner Center** och leta upp den kund som du vill hantera.
 
-2. Välj nedåtpilen i slutet av raden för att expandera kundens post och välj sedan **Microsoft Azure-hanteringsportal** . Du dirigeras till [Azure Portal](https://portal.azure.com/) där du kan hantera kundens prenumerationer.
+2. Välj nedåtpilen i slutet av raden för att expandera kundens post och välj sedan **Microsoft Azure-hanteringsportal**. Du dirigeras till [Azure Portal](https://portal.azure.com/) där du kan hantera kundens prenumerationer.
 
 3. Välj **prenumerationer** från Azure Portal.
 
-4. Välj den prenumeration som du vill tilldela och välj **Access Control** .
+4. Välj den prenumeration som du vill tilldela och välj **Access Control**.
 
 5. Välj **Lägg till** för att lägga till en användare i prenumerationen. 
 
@@ -40,7 +41,7 @@ ms.locfileid: "92531157"
 
 När du har skapat en Microsoft Azure-prenumeration för en kund kan du göra det möjligt för dem att hantera prenumerationen. För att göra detta måste du logga in på kundens Microsoft Azure hanterings Portal. 
 
-1. Öppna kundens Azure Portal genom att antingen expandera kundens lista i din kund lista eller Välj kundens namn och välj sedan **Microsoft Azure-hanteringsportal** .
+1. Öppna kundens Azure Portal genom att antingen expandera kundens lista i din kund lista eller Välj kundens namn och välj sedan **Microsoft Azure-hanteringsportal**.
 
    > [!NOTE]  
    > Om du uppmanas att logga in på Azure Portal kanske du inte har delegerad administratörs behörighet. Välj **begär en relation** för att bjuda in kunden att identifiera dig som sin partner av posten. När kunden har accepterat din inbjudan beviljas du automatiskt delegerad administratörs behörighet.

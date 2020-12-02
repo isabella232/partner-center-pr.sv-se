@@ -1,5 +1,5 @@
 ---
-title: Skapa en utvärderings version av Office 365
+title: Skapa en inbjudan om att utvärdera Office 365
 ms.topic: article
 ms.date: 04/28/2020
 ms.service: partner-dashboard
@@ -9,19 +9,16 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: db32f3d48089457cb9c49196bcb190ccd4308582
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: e180485a6ee769c911b3d2119869661ea118ccc1
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92531124"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474163"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Rådgivare: skapa och skicka en testinbjudan för klienter för att testa Office 365
 
-**Gäller för**
 
-- Partnercenter
- 
 **Lämpliga roller**
 
 - Rådgivare
@@ -35,19 +32,19 @@ Om du är certifierad för att erbjuda delegerad administration kan du lägga ti
 
 ## <a name="to-create-a-trial-invitation"></a>Så här skapar du en testinbjudan
 
-1. Navigera till **test och Köp erbjudanden**  >  **skapa inbjudningar** .
+1. Navigera till **test och Köp erbjudanden**  >  **skapa inbjudningar**.
 
 2. På sidan **skapa testinbjudan** väljer du de alternativ för utvärdering av inbjudan som du vill ta med:
 
-    - **Partner kontor** : om företaget har flera kontor väljer du det kontor som du vill koppla till den här testinbjudan.
+    - **Partner kontor**: om företaget har flera kontor väljer du det kontor som du vill koppla till den här testinbjudan.
 
         Om du vill lägga till partner kontorets platser, se [Lägg till en plats](manage-locations.md). Nya Office-platser kan kräva upp till 24 timmar efter att de skapats för att visas i listan partner kontor.
 
-    - **Användnings plats** : Välj den plats där klienten ska använda tjänsterna.
-    - **Utvärderings prenumerationer** : listan över utvärderings prenumerationer som du kan välja bestäms av användnings platsen för klientens land eller region.
-    - **Delegerad administration** : det här alternativet är bara tillgängligt för partner som är certifierade att erbjuda delegerad administration. Välj det här alternativet om du vill erbjuda klienten delegerad administration. Om du gör det kan din klient acceptera testinbjudan med eller utan godkännande av delegerad administration. Mer information om delegerad administration finns i [erbjuda delegerad administration](customers-revoke-admin-privileges.md).
+    - **Användnings plats**: Välj den plats där klienten ska använda tjänsterna.
+    - **Utvärderings prenumerationer**: listan över utvärderings prenumerationer som du kan välja bestäms av användnings platsen för klientens land eller region.
+    - **Delegerad administration**: det här alternativet är bara tillgängligt för partner som är certifierade att erbjuda delegerad administration. Välj det här alternativet om du vill erbjuda klienten delegerad administration. Om du gör det kan din klient acceptera testinbjudan med eller utan godkännande av delegerad administration. Mer information om delegerad administration finns i [erbjuda delegerad administration](customers-revoke-admin-privileges.md).
 
-3. Klicka på **Nästa** .
+3. Klicka på **Nästa**.
 
 4. På sidan **utvärdering av inbjudan** kopierar du informationen om testinbjudan och URL: en och klistrar in den i ett e-postmeddelande, ett dokument eller en webb sida för att skapa en anpassad testinbjudan.
 
@@ -57,3 +54,7 @@ Om du är certifierad för att erbjuda delegerad administration kan du lägga ti
 5. Anpassa ditt meddelande genom att inkludera företagets logo typ, introduktion, avslutande anmärkningar eller annan information.
 
 6. Skicka test inbjudan till klienten.
+
+## <a name="next-steps"></a>Nästa steg
+
+- [Skapa ett inköps erbjudande](advisor-create-a-purchase-offer.md)

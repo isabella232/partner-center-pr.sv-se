@@ -1,5 +1,5 @@
 ---
-title: Lägg till klienter med utvärderings versioner av Office 365
+title: Lägga till klienter med erbjudanden om att utvärdera Office 365
 ms.topic: article
 ms.date: 05/06/2020
 ms.service: partner-dashboard
@@ -9,19 +9,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5631e141f3b232ddfb0afd7dab6acc6a08f59df
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 83acde5e5cb29ea8249bfbba78a15cf3efbdf271
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92531121"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474180"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Rådgivare: utveckla din klient bas med test inbjudningar för Office 365 och inköps erbjudanden
 
-**Gäller för**
 
-- Partnercenter
- 
 **Lämpliga roller**
 
 - Rådgivare
@@ -29,7 +26,7 @@ ms.locfileid: "92531121"
 
 Som auktoriserad Microsoft Advisor ger **partner Center** dig en möjlighet att utveckla klient basen och skapa bestående relationer med dina klienter. Med partner Center kan du skicka test inbjudningar och inköps erbjudanden för klienter och erbjuda dem delegerade administrations tjänster, beroende på vilka tjänster du har behörighet att tillhandahålla.
 
-När du loggar in på Partner Center kan du gå till **utvärderings-och inköps erbjudanden** . du ser några verktyg och aktiviteter som hjälper dig att utveckla din verksamhet.
+När du loggar in på Partner Center kan du gå till **utvärderings-och inköps erbjudanden**. du ser några verktyg och aktiviteter som hjälper dig att utveckla din verksamhet.
 
 ## <a name="create-and-send-trial-invitations"></a>Skapa och skicka test inbjudningar
 
@@ -53,5 +50,7 @@ När du har skickat en testinbjudan till dina kunder följer du upp med ett ink�
 När du skapar inköps erbjudandet skapas en anpassad URL åt dig. URL: en har en inbäddad kod som identifierar dig som prenumerations rådgivare. Du kan använda den här URL: en för en kund eller många kunder. Skicka URL: en till din kund i ett e-postmeddelande eller publicera den på din webbplats.
 
 Om din kund vill ha ett annat antal licenser kan du skicka ett nytt erbjudande eller ändra antalet licenser när de köper prenumerationen.
+
+## <a name="next-steps"></a>Nästa steg
 
 Mer information om inköps erbjudanden finns i [skapa ett inköps erbjudande](advisor-create-a-purchase-offer.md).

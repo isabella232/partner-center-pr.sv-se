@@ -1,25 +1,21 @@
 ---
 title: Incitaments utbetalningar och frågor om skatte profil
 ms.topic: article
-ms.date: 10/27/2020
+ms.date: 12/01/2020
 description: Vanliga frågor om att uppmuntra utbetalningar och skatte profiler. Frågor inkluderar varför du inte kan se din utbetalnings-och skatte profil och vad du kan göra med det.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 7fae97fb1a527ab557d76bd3b5fd738315271899
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: d7a5e5ae5fa8bd23c3158efe7c0880f67544f9b9
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133141"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474333"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>Vanliga frågor och svar om incitaments utbetalningar och skatte profiler
-
-Gäller:
-
-- Partnercenter
 
 Lämpliga roller:
 
@@ -35,7 +31,7 @@ För att få inbetalningar för Microsofts stimulans program måste du slutföra
 
 Alla partner som registrerar sig i ett nytt incitaments program måste ange giltiga utbetalnings-och skatte information för att kunna slutföra registreringen.
 
-Du kan också behöva ange uppdaterad information om reglerna för ditt incitaments program ändras eller om delar av profilen går ut eller blir inaktuella. Om detta händer visar sidan Översikt en status som **krävs – uppdatera bank och/eller skatte profil** .
+Du kan också behöva ange uppdaterad information om reglerna för ditt incitaments program ändras eller om delar av profilen går ut eller blir inaktuella. Om detta händer visar sidan Översikt en status som **krävs – uppdatera bank och/eller skatte profil**.
 
 ## <a name="how-do-i-provide-update-my-payout-and-or-tax-details"></a>Hur anger/uppdaterar jag min utbetalnings- och/eller skatteinformation?
 
@@ -51,11 +47,11 @@ Använd följande procedur för att se utbetalnings-och skatte profiler:
 
 1. Logga in på [instrument panelen för partner Center](https://partner.microsoft.com/dashboard).
 
-2. Välj kugghjulsikonen för att öppna menyn **Inställningar** .
+2. Välj kugghjulsikonen för att öppna menyn **Inställningar**.
 
-3. Välj **partner inställningar** .
+3. Välj **partner inställningar**.
 
-4. Under **Kontoinställningar** väljer du först alternativet för **utbetalningar och skatter** följt av alternativet för **utbetalnings- och skatteprofil** . Du ser alla befintliga betalnings- och skatteprofiler tillsammans med status och redigeringsmöjligheter.
+4. Under **Kontoinställningar** väljer du först alternativet för **utbetalningar och skatter** följt av alternativet för **utbetalnings- och skatteprofil**. Du ser alla befintliga betalnings- och skatteprofiler tillsammans med status och redigeringsmöjligheter.
 
 ## <a name="my-organization-is-participating-in-multiple-incentive-programs-do-i-need-to-provide-my-payment-and-tax-profile-multiple-times"></a>Min organisation deltar i flera incitaments program. Måste jag ange min betalnings-och skatte profil flera gånger?
 
@@ -75,17 +71,19 @@ Om en skatte profil har upphört att gälla eller om den upphör att gälla, inn
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 
-2. Välj kugghjulsikonen för att öppna menyn **Inställningar** .
+2. Välj kugghjulsikonen för att öppna menyn **Inställningar**.
 
-3. Under **Kontoinställningar** väljer du först alternativet för **utbetalningar och skatter** följt av alternativet för **utbetalnings- och skatteprofil** .
+3. Under **Kontoinställningar** väljer du först alternativet för **utbetalningar och skatter** följt av alternativet för **utbetalnings- och skatteprofil**.
 
-4. Välj **avgifts profil** .
+4. Välj **avgifts profil**.
 
 5. Välj kolumnen **förfallo datum** och gå sedan till den skatte profil som har upphört att gälla eller som upphör att gälla.
 
 6. Välj **Redigera** för att påbörja redigerings processen för skatte profil.
 
-7. Uppdatera skatte formulären genom att ange den information som krävs.
+7. Leta upp avsnittet **skatte formulär** och välj sedan **Starta moms form**.
+
+8. Uppdatera skatte formulären genom att ange den information som krävs.
 
 ## <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>Hur ser Microsoft till att bank informationen verkligen är företagets och inte ett personligt bank konto för en medarbetare?
 

@@ -9,20 +9,15 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: b60ea73bc5fa7c4a25c61aa9651c303aa5087faf
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 85a1e7c456435b56c76ebbeb8c2e526773dbe236
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92531856"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474265"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Så här lägger du till en ny kund post i Partner Center
 
-**Gäller för**
-
-- Partnercenter
-- Partner Center för Microsoft Cloud för amerikanska myndigheter
-- Cloud Solution Provider program partners
 
 **Lämpliga roller**
 
@@ -31,14 +26,14 @@ ms.locfileid: "92531856"
 - Administratörs agent
 - Försäljnings agent
 
-Den här artikeln beskriver hur du lägger till en ny kund i din lista över kunder i Partner Center. Följ de här stegen innan du kan sälja prenumerationer, hantera fakturering eller ge support till en kund.
+Den här artikeln beskriver hur du lägger till en ny kund i din lista över kunder i Partner Center. De här stegen krävs innan du kan sälja prenumerationer, hantera fakturering eller ge support till en kund.
 
 >[!NOTE]
->För befintliga kunder, inklusive de som redan har kund poster i Partner Center genom ett scenario med [flera kanaler eller flera](multichannel.md) [partner](multipartner.md) , kan du [begära en relation med dem](request-a-relationship-with-a-customer.md)i stället för att följa stegen här.
+>För befintliga kunder, inklusive de som redan har kund poster i Partner Center genom ett scenario med [flera kanaler eller flera](multichannel.md) [partner](multipartner.md) , måste du [begära en relation med dem](request-a-relationship-with-a-customer.md)i stället för att följa stegen här.
 
 ## <a name="to-add-a-new-customer-in-partner-center"></a>Så här lägger du till en ny kund i Partnercenter
 
-1. Välj **kunder** från menyn Partner Center och välj sedan **Lägg till kund** .
+1. Välj **kunder** från menyn Partner Center och välj sedan **Lägg till kund**.
 
 2. På sidan **konto information** anger du kundens information och primär kontakt information. Kontrol lera även att kunden har godkänt och undertecknat det senaste [kund avtalet från Microsoft](agreements.md).
 
@@ -58,7 +53,7 @@ Den här artikeln beskriver hur du lägger till en ny kund i din lista över kun
 
 4. Välj **Nästa: prenumerationer** när du har angett all information som krävs.
 
-5. På sidan **prenumerationer** väljer du de erbjudanden som kunden vill köpa från dig, ange antalet licenser och välj sedan **Nästa: granska** .
+5. På sidan **prenumerationer** väljer du de erbjudanden som kunden vill köpa från dig, ange antalet licenser och välj sedan **Nästa: granska**.
 
 6. På sidan **Granska** kontrollerar du dina poster efter precision och väljer **Skicka** om informationen är korrekt.
 
