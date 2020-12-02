@@ -2,6 +2,8 @@
   href: index.yml
 - name: Meddelanden
   href: announcements/TOC.md
+- name: Om Partnercenter
+  href: overview.md
 - name: Medlemskap i partnernätverk
   items:
     - name: Partnersamarbete med Microsoft
@@ -60,8 +62,13 @@
         - name: Undantag för apputvecklarkompetens
           href: app-dev-isv.md
     - name: Avancerade specialiseringar
-      href: advanced-specializations.md
-      displayName: mpn
+      items:
+        - name: Demonstrera dina kunskaper
+          href: advanced-specializations.md
+          displayName: mpn
+        - name: Tillämpa eller kontrollera status
+          href: advanced-specializations-apply.md
+          displayName: mpn
     - name: Bli en Azure Expert MSP
       href: azure-expert-msp.md
     - name: Fördelar
