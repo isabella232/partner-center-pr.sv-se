@@ -9,16 +9,21 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4bbeb417fdc5964d66f754a789873c1dbc8b1d25
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 31e9c6862a5aa19407fa6da5e15333bb7e696720
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531717"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534938"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Hantera prenumerationer och resurser under Azure-planen
 
-När du övergår till en kund i Azure-planen tilldelas du som standard privilegierade administratörs rättigheter i Azure (prenumerations ägarens rättigheter via admin).
+**Lämpliga roller**
+
+- Administratörs agent
+
+
+Den här artikeln förklarar hur CSP-partner kan använda olika alternativ för rollbaserad åtkomst kontroll (RBAC) för att få drift kontroll och hantering av en kunds Azure-resurser. När du övergår till en kund i Azure-planen tilldelas du som standard privilegierade administratörs rättigheter i Azure (prenumerations ägarens rättigheter via admin).
 
  > [!NOTE]
  > Administratörs behörighet till Azure-prenumerationen kan tas bort av kunden på en prenumeration, resurs grupp eller arbets belastnings nivå. 
@@ -27,9 +32,9 @@ När du övergår till en kund i Azure-planen tilldelas du som standard privileg
 
 - **Administratör på uppdrag av (administrate)** – med [administrate](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO), kommer alla användare med rollen admin agent i partner klienten att ha RBAC-ägare till gång till Azure-prenumerationer som du skapar via CSP-programmet.
 
-- **Azure Lighthouse** : administrate tillåter inte flexibiliteten att skapa distinkta grupper som fungerar med olika kunder, eller för att aktivera olika roller för grupper eller användare. Med Azure Lighthouse kan du tilldela olika grupper till olika kunder eller roller. Eftersom användarna får rätt åtkomst nivå via Azure-delegerad resurs hantering kan du minska antalet användare som har rollen administratörs agent (och därmed ha fullständig ADMINISTRATE-åtkomst). Detta bidrar till att förbättra säkerheten genom att begränsa onödig åtkomst till dina kunders resurser. Det ger dig också större flexibilitet att hantera flera kunder i stor skala. Mer information finns i [Azure-Lighthouse och Cloud Solution Provider-programmet](/azure/lighthouse/concepts/cloud-solution-provider).
+- **Azure Lighthouse**: administrate tillåter inte flexibiliteten att skapa distinkta grupper som fungerar med olika kunder, eller för att aktivera olika roller för grupper eller användare. Med Azure Lighthouse kan du tilldela olika grupper till olika kunder eller roller. Eftersom användarna får rätt åtkomst nivå via Azure-delegerad resurs hantering kan du minska antalet användare som har rollen administratörs agent (och därmed ha fullständig ADMINISTRATE-åtkomst). Detta bidrar till att förbättra säkerheten genom att begränsa onödig åtkomst till dina kunders resurser. Det ger dig också större flexibilitet att hantera flera kunder i stor skala. Mer information finns i [Azure-Lighthouse och Cloud Solution Provider-programmet](/azure/lighthouse/concepts/cloud-solution-provider).
 
--  **Katalog-eller gäst användare eller [tjänst huvud namn](/azure/active-directory/develop/app-objects-and-service-principals)** : du kan delegera detaljerad åtkomst till CSP-prenumerationer genom att lägga till användare i kund katalogen eller lägga till gäst användare och tilldela specifika RBAC-roller.
+- **Katalog-eller gäst användare eller [tjänst huvud namn](/azure/active-directory/develop/app-objects-and-service-principals)**: du kan delegera detaljerad åtkomst till CSP-prenumerationer genom att lägga till användare i kund katalogen eller lägga till gäst användare och tilldela specifika RBAC-roller.
 
 Microsoft rekommenderar att användarna har de lägsta behörigheter som de behöver för att utföra sitt arbete som säkerhets praxis. Se [Azure Active Directory Privileged Identity Management-resurser](/azure/active-directory/privileged-identity-management/pim-configure).
 
@@ -60,11 +65,11 @@ Du behöver administratörs behörighet för att hantera kundens tjänster och t
 
 2. Välj den typ av åtgärd som du vill att aviseringen ska utföra. Om du till exempel anger att du vill ha ett e-postmeddelande får du ett meddelande om att borttagning av roll tilldelningar sker.
 
-   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="Azure-avisering":::
+   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="Konfigurera avisering":::
 
 ### <a name="aobo-removal"></a>Borttagning av ADMINISTRATE
 
-Kunder kan hantera åtkomsten till sina prenumerationer genom att gå till **Access Control** på Azure Portal. På fliken **roll tilldelningar** väljer du **ta bort åtkomst** . I så fall kan du:
+Kunder kan hantera åtkomsten till sina prenumerationer genom att gå till **Access Control** på Azure Portal. På fliken **roll tilldelningar** väljer du **ta bort åtkomst**. I så fall kan du:
 
 - Prata med kunden för att se om administratörs åtkomst kan återställas.
 

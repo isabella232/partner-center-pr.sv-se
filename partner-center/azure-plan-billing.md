@@ -9,36 +9,36 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5d8bb85357d796ae4917faf91c93db8fef4369c2
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 1dc683c194de158dc7a4dac541b37631f3be1f1e
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531556"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534700"
 ---
-# <a name="new-commerce-experience-in-csp---azure-billing"></a>Ny Commerce-upplevelse i CSP – Azure-fakturering 
+# <a name="new-commerce-experience-in-csp---azure-billing"></a>Ny handelsupplevelse i CSP – Azure-fakturering 
 
-**Lämpliga roller:**
+**Lämpliga roller**
 
 - Administratörs agent
 - Faktureringsadministratör
 - Global administratör
 
-Faktureringen enligt Azure-planen är en förenklad fakturerings upplevelse med ett justerat fakturerings datum och en månads-baserad fakturerings period.
+Den här artikeln förklarar hur du får åtkomst till och förstår strukturen på fakturan och avstämnings filen som är relaterad till faktureringen för Azure-prenumerationen. Faktureringen enligt Azure-planen är en förenklad fakturerings upplevelse med ett justerat fakturerings datum och en månads-baserad fakturerings period.
 
 ## <a name="summary-of-billing-essentials"></a>Sammanfattning av fakturerings grunderna
 
-- **Faktura datum** : faktura-och avstämnings fil kommer att finnas i Partner Center Dashboard/API med 8 (midnatt UTC).
+- **Faktura datum**: faktura-och avstämnings fil kommer att finnas i Partner Center Dashboard/API med 8 (midnatt UTC).
 
-- **Fakturerings period för faktura** : faktura fakturerings perioden justeras till kalender månaden, till exempel 10/1-10/31, 11/1-11/30.
+- **Fakturerings period för faktura**: faktura fakturerings perioden justeras till kalender månaden, till exempel 10/1-10/31, 11/1-11/30.
 
-- **Debitering av service perioder** : avgifterna justeras till kalender månaden. Om den fakturerade partnern till exempel lägger till Azure-tjänster via en Azure-plan på 10/15 och kunden börjar förbrukningen av Azure-tjänster på 10/15, får fakturerad partner faktura-rekognoseringar på 11/8 för kund förbrukning för service perioden 10/15-10/31. Nästa månads faktura som ska genereras på 12/8 innehåller alla avgifter för service perioden 11/1-11/31.
+- **Debitering av service perioder**: avgifterna justeras till kalender månaden. Om den fakturerade partnern till exempel lägger till Azure-tjänster via en Azure-plan på 10/15 och kunden börjar förbrukningen av Azure-tjänster på 10/15, får fakturerad partner faktura-rekognoseringar på 11/8 för kund förbrukning för service perioden 10/15-10/31. Nästa månads faktura som ska genereras på 12/8 innehåller alla avgifter för service perioden 11/1-11/31.
 
-- **Faktura betalnings villkor** : net 60 dagar.
+- **Faktura betalnings villkor**: net 60 dagar.
 
-- **Faktura valuta** : partner kommer fortsätta att faktureras i kundens country's-tilldelade valuta. Om den fakturerade partnern till exempel är i Irland med kunder i Storbritannien, Norge och Tyskland får den fakturerade partnern ett GBP, NOK och faktura/rekognoseringar EUR.
+- **Faktura valuta**: partner kommer fortsätta att faktureras i kundens country's-tilldelade valuta. Om den fakturerade partnern till exempel är i Irland med kunder i Storbritannien, Norge och Tyskland får den fakturerade partnern ett GBP, NOK och faktura/rekognoseringar EUR.
 
-- **Partner incitament** : betalda 45 dagar från slutet av faktura månaden.
+- **Partner incitament**: betalda 45 dagar från slutet av faktura månaden.
 
 ## <a name="access-your-invoices-and-reconciliation-files"></a>Få åtkomst till dina fakturor och avstämnings filer
 
@@ -48,13 +48,13 @@ För att få åtkomst till fakturan och avstämnings filen:
 
 1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard/).
 
-2. Från menyn Partner Center väljer du **fakturering** .
+2. Från menyn Partner Center väljer du **fakturering**.
 
 3. Välj fliken för den **återkommande** **tiden** och den valuta som du är intresse rad av.
 
    :::image type="content" source="images/azure/billing3.png" alt-text="fakturerings":::
 
-4. Välj **faktura** eller **avstämnings fil** .  
+4. Välj **faktura** eller **avstämnings fil**.  
 
    Om du vill visa historiska fakturor och rekognoseringar-filer expanderar du raden för fakturerings historiken nedan.
 
@@ -106,7 +106,7 @@ För att få åtkomst till fakturan och avstämnings filen:
 
 5. Granska fakturan rekognoseringar-filen och den dagliga, beräknade användnings filen för ytterligare fakturerings information.
 
-   :::image type="content" source="images/azure/invoice1.png" alt-text="fakturerings":::
+   :::image type="content" source="images/azure/invoice1.png" alt-text="Voice":::
 
 ## <a name="read-the-invoice-reconciliation-file"></a>Läs faktura avstämnings filen
 
@@ -134,7 +134,7 @@ För att få åtkomst till fakturan och avstämnings filen:
 
   - Mätning som är kvalificerad för **partner intjänad kredit för tjänster som hanteras** från 7/8-7/31 (Observera att det effektiva enhets priset är åter försäljnings pris minus partner intjänad kredit)
 
-   :::image type="content" source="images/azure/pecfinal.png" alt-text="fakturerings":::
+   :::image type="content" source="images/azure/pecfinal.png" alt-text="recon2":::
 
 ## <a name="invoice-in-customer-currency"></a>Faktura i kund valuta
 
@@ -142,7 +142,7 @@ Azure-tjänster via en Azure-prenumeration priss ätts i USD och faktureras i ku
 
 Microsoft använder Thomson-Reuters för att fastställa de FX-priser som används för att fastställa pris valuta för konvertering av fakturerings valuta. FX-priserna kommer att uppdateras och vara tillgängliga på dagen före den första av den månad som de gäller.
 
-**Exempel** : användnings debitering för service perioden 1 augusti 31 debiteras med den FX-taxa som publicerades den 31 juli. De här avgifterna visas på fakturan i september och FX-priset anges på den sista sidan i fakturan.
+**Exempel**: användnings debitering för service perioden 1 augusti 31 debiteras med den FX-taxa som publicerades den 31 juli. De här avgifterna visas på fakturan i september och FX-priset anges på den sista sidan i fakturan.
 
 ## <a name="azure-reservations"></a>Azure-reservationer
 
@@ -160,7 +160,7 @@ Den befintliga Azure-utgifts upplevelsen uppdateras för att stödja den nya fak
 
 Eftersom fakturerings modellen för Azure-tjänster via en Azure-plan är efter löne förbrukning, för att undvika en större faktura än förväntat, kan partner tillämpa en månads budget och spåra procent andelen av användningen. En budget kan tillämpas på en kund eller flera kunder på en och samma tidpunkt. 
 
-:::image type="content" source="images/azure/azurespend.png" alt-text="fakturerings":::
+:::image type="content" source="images/azure/azurespend.png" alt-text="Utgift i Azure":::
 
 ## <a name="next-steps"></a>Nästa steg
 

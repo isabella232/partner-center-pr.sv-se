@@ -9,18 +9,14 @@ ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: 2cc30c3681f0310f738ed937c15e0142b20cdc4c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: bc837db5a9dbcf92fbfead54b552695a218ae675
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531560"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534802"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Skapa ett arbets konto som länkar ditt företag till ditt partner Center-konto
-
-**Gäller för**
-
-- Partnercenter
 
 **Lämpliga roller**
 
@@ -71,3 +67,8 @@ När du köper en Azure-prenumeration hyr du i princip ett dedikerat, säkert ut
 Ett Azure-arbetskonto är en dedikerad och isolerad virtuell representation av ditt företag i det offentliga Azure-molnet som skapas åt dig när du prenumererar på en moln tjänst från Microsoft, till exempel Azure, Microsoft Intune eller Office 365.
 
 Ditt arbets konto är värd för Azure AD-användare och information om dem – deras lösen ord, profil data, behörigheter och så vidare. Arbets kontot innehåller också grupper, program och annan information som rör ett företag och dess säkerhet.
+
+## <a name="next-steps"></a>Nästa steg
+
+- [Hantera ditt Partnercenter-konto](partner-center-account-setup.md)
+- [Spåra verifierings status](verification-responses.md)

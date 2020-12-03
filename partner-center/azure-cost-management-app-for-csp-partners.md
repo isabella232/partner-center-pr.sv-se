@@ -1,5 +1,5 @@
 ---
-title: Azure Cost Management av Cloudyn för kryptografiproviders
+title: Azure Cost Management av Cloudyn för CSP
 ms.topic: article
 ms.date: 05/04/2020
 ms.service: partner-dashboard
@@ -9,19 +9,14 @@ author: aparnagkrishnan
 ms.author: aparnag
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ea156ef0932fe1af20f3e3c4b9be1a5f931cdde
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: defa691a3bc70cbda45f01cb447d89364a49e3b8
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92530996"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96535004"
 ---
 # <a name="track-customer-azure-usage-and-costs-with-the-azure-cost-management-app-for-csp-partners"></a>Spåra kund Azure-användning och-kostnader med Azure Cost Management-appen för CSP-partner  
-
-**Gäller för**
-
-- Partnercenter
-- Cloud Solution Provider program partners
 
 **Lämpliga roller**
 
@@ -42,15 +37,15 @@ Cloudyn är en webbapp som gör att du kan spåra och hantera hur mycket dina ku
 
 ## <a name="register-your-web-app-in-the-partner-center"></a>Registrera din webbapp i Partner Center
 När du registrerar en Azure Active Directory webbapp i Partner Center ger du åtkomst till Partner Center-API: et. 
-1.  Logga in [på Partner Center](https://partnercenter.microsoft.com/pcv/dashboard/overview) med ett [globalt administratörs-eller administratörs agent konto](create-user-accounts-and-set-permissions.md).
-2.  Från **partner Center** väljer du **konto inställningar** &gt; **[hantering av appar](https://partnercenter.microsoft.com/pcv/apiintegration/appmanagement)** .
-3.  I avsnittet **webbapp** klickar du på **Lägg till ny webbapp** .
-<br> **Obs** : om du tidigare har skapat en webbapp kan du hoppa över steg 3.
+1.  Logga in på [partner Center](https://partnercenter.microsoft.com/pcv/dashboard/overview) med ett [globalt administratörs-eller administratörs agent konto](create-user-accounts-and-set-permissions.md).
+2.  Från **partner Center** väljer du **konto inställningar** &gt; **[app Management](https://partnercenter.microsoft.com/pcv/apiintegration/appmanagement)**.
+3.  I avsnittet **webbapp** klickar du på **Lägg till ny webbapp**.
+<br> **Obs**: om du tidigare har skapat en webbapp kan du hoppa över steg 3.
 4.  Kopiera och spara **handels-ID-** GUID och GUID för **app-ID** för din webbapp. Du behöver båda ID: na för att använda den 30 dagars kostnads fria utvärderings versionen av Azure Cost Management-appen.
 
 ## <a name="add-a-secret-key-to-your-app"></a>Lägg till en hemlig nyckel i appen
 1. I list rutan bredvid knappen **Lägg till nyckel** väljer du varaktigheten 1 eller 2 år.
-2. Klicka på **Lägg till nyckel** . 
+2. Klicka på **Lägg till nyckel**. 
 3. Kopiera och spara värdet för den hemliga nyckeln. Du behöver detta för den 30-dagars kostnads fria utvärderings versionen.<br>
    > [!NOTE]  
    > Programmets hemliga nycklar liknar lösen ord med längre förfallo datum. Spara nyckelvärdet på en säker plats för framtida användning.

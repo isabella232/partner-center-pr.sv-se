@@ -9,12 +9,12 @@ ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: 5390e950689e930b246aaaddcb1a9ef1b1ab6d46
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4e22386dc8bddd9662a0d80020a5c90c464e9d39
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531633"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534819"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Överföring av kunder till Azure-plan från befintliga CSP Azure-erbjudanden
 
@@ -27,9 +27,9 @@ ms.locfileid: "92531633"
 - Försäljnings agent
 - Administratör för användar hantering
 
-Indirekta leverantörer och direkta fakturerings partner kan övergå till den nya Commerce-upplevelsen som finns i Microsoft Cloud Service Provider-program (CSP) för Azure. (Indirekta åter försäljare måste arbeta via sina indirekta leverantörer.) Kunder kommer att ha ett förenklat sätt att köpa moln tjänster, om de köper från partner, från Microsoft-säljare eller direkt på webben.
+Den här artikeln förklarar hur CSP-partner kan använda Partner Center för att flytta kunder från befintliga CSP Azure-erbjudanden till Azure-tjänster under Azure-prenumerationen. Indirekta leverantörer och direkta fakturerings partner kan övergå till den nya Commerce-upplevelsen som finns i Microsoft Cloud Service Provider-program (CSP) för Azure. (Indirekta åter försäljare måste arbeta via sina indirekta leverantörer.) Kunder kommer att ha ett förenklat sätt att köpa moln tjänster, om de köper från partner, från Microsoft-säljare eller direkt på webben.
 
-Över gångs funktionen är endast till för kunder som övergår till den nya Commerce-upplevelsen för Azure och som har undertecknat Microsofts kund avtal och inte för andra erbjudanden i CSP som Office 365 eller Dynamics 365.
+Över gångs funktionen är endast för kunder som övergår till den nya Commerce-upplevelsen för Azure och som har undertecknat Microsofts kund avtal. Det är inte för andra erbjudanden i CSP som Office 365 eller Dynamics 365.
 
 ## <a name="transition-existing-csp-offers-to-an-azure-plan"></a>Över gång av befintliga CSP-erbjudanden till en Azure-plan
 
@@ -39,17 +39,17 @@ Du kan överföra en kund från sina befintliga CSP Azure-erbjudanden till Azure
 
 1. Välj Azure-plan för din kund.
 
-2. Välj **över gångs fakturering till Azure-plan** .
+2. Välj **över gångs fakturering till Azure-plan**.
 
    :::image type="content" source="images/azure/transition1.png" alt-text="Skärm bild som visar rapport information om användnings prenumerationer med ett valbart alternativ som kallas: överför Azure-prenumerations fakturering till Azure-plan.":::
 
 3. Välj **Fortsätt**
 
-   :::image type="content" source="images/azure/transition2.png" alt-text="Skärm bild som visar rapport information om användnings prenumerationer med ett valbart alternativ som kallas: överför Azure-prenumerations fakturering till Azure-plan.":::
+   :::image type="content" source="images/azure/transition2.png" alt-text="Dialog rutan med rubriken över gång till Azure-plan med konsekvenser för att läsa över över gången och två alternativ att välja, fortsätta eller Avbryt.":::
 
    Kunden kommer att överföras till Azure-prenumerationen.
 
-   **Över gångs arbets flödet automatiserar de nödvändiga stegen** :
+   **Över gångs arbets flödet automatiserar de nödvändiga stegen**:
 
    - Köp av Azure-plan (er)
    - En plan per kund i direkta CSP-scenarier  
@@ -63,7 +63,7 @@ Du kan överföra en kund från sina befintliga CSP Azure-erbjudanden till Azure
 
 4. Gå tillbaka till kundns Partner Center- **prenumerationer** för att uppdatera budget gränsen med hjälp av sin lokala valuta.
 
-   :::image type="content" source="images/azure/transition3.png" alt-text="Skärm bild som visar rapport information om användnings prenumerationer med ett valbart alternativ som kallas: överför Azure-prenumerations fakturering till Azure-plan.":::
+   :::image type="content" source="images/azure/transition3.png" alt-text="En delvis vy över partner Center-prenumerationer med budget gränser inställda i lokal valuta för en fakturerings period.":::
 
    >[!NOTE]
    >Den budget som du ställer in i Partner Center överför inte till Azure Portal. Du bör också ställa in budget och avisering i Azure Portal.
@@ -77,7 +77,7 @@ Du kan överföra en kund från sina befintliga CSP Azure-erbjudanden till Azure
 
 Följ över gångs förloppet i Azure Portal såväl som i Partner Center.
 
-:::image type="content" source="images/azure/details1.png" alt-text="Skärm bild som visar rapport information om användnings prenumerationer med ett valbart alternativ som kallas: överför Azure-prenumerations fakturering till Azure-plan.":::
+:::image type="content" source="images/azure/details1.png" alt-text="Skärm bild som visar en tabell med en lista över över gångs information per prenumeration – innehåller prenumeration I D, över gångs datum och över gångs status.":::
 
 ### <a name="billing-impact-to-partners"></a>Fakturerings påverkan för partner
 

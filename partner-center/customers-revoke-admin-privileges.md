@@ -1,7 +1,7 @@
 ---
 title: Skaffa en kunds administratörs behörighet
 ms.topic: how-to
-ms.date: 06/19/2020
+ms.date: 12/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Få de behörigheter du behöver för att hantera en kunds tjänst eller prenumeration åt dig. Lär dig hur behörigheter beviljas, återkallas och hanteras.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: dcfc552016560ecc3167deebf96f7a75a72048bc
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 6f99c9ed9fb43136bccf0d3024377ba2208ed1a1
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "92531188"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534887"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Få behörighet att hantera en kunds tjänst eller prenumeration
 
@@ -31,7 +31,7 @@ Kunden måste bevilja administratörs behörighet för tjänsten för att kunna 
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Bjud in en kund för att upprätta en åter försäljares relation med dig
 
-1.  Välj **kunder** och välj sedan **begär en åter försäljares relation** .
+1.  Välj **kunder** och välj sedan **begär en åter försäljares relation**.
 
 2.  På nästa sida granskar du utkastet till e-postmeddelandet. Du kan öppna utkastet i ditt vanliga e-postprogram, eller så kan du kopiera meddelandet till Urklipp och klistra in det i ett e-postmeddelande. 
 
@@ -47,13 +47,13 @@ Kunden måste bevilja administratörs behörighet för tjänsten för att kunna 
 6.  Om du vill hantera kundens konto, tjänster, användare och licenser expanderar du kundens post genom att välja nedåtpilen nära deras namn och välj sedan administrations portalen för den tjänst som du vill hantera.
 
 >[!IMPORTANT]  
->Kunder kan omtilldela eller ta bort administratörs behörighet på en tjänsts administrations Portal. Men om du inte har omförhandlat ditt avtal med kunden fortsätter du att tillhandahålla kund support och följer villkoren i moln åter försäljar avtalet, även när en kund tilldelar om eller tar bort administratörs behörighet. I så fall kontaktar du Microsoft Support för att öppna en tjänstbegäran för kunden om kunden behöver hjälp.
+>Kunder kan omtilldela eller ta bort administratörs behörighet på en tjänsts administrations Portal. Men du måste meddela kunden att borttagning av administratörs behörighet innebär att du inte längre kan öppna en tjänstbegäran till Microsoft för deras räkning. Du kommer inte att kunna öppna de här typerna av tjänst begär Anden på kundens ställe förrän du omförhandlar ditt avtal med kunden.
 
 Dina kunder kan ta reda på vilken av sina partners som har administratörs behörighet för deras klient organisation i administrations portalen för Office 365. Gör så här:
 
 1. Kunden måste logga in på administrations portalen för Office 365 som global administratör.
 
-2. Välj **Inställningar**  >  **partner relationer** .
+2. Välj **Inställningar**  >  **partner relationer**.
 
 3. På sidan **partner relationer** kommer kunden att se en lista över de partner som de arbetar med och de som har beviljats delegerade administrations behörigheter till klienten.
 
@@ -68,8 +68,8 @@ Kunden kan välja att ta bort dina delegerade administratörs behörigheter frå
 Så här tar du bort delegerade administrations behörigheter från en partner:
 
 1. På sidan **partner relationer** väljer du intresse partner.
-2. I informations fönstret väljer du **ta bort delegerad administratör** .
-3. I bekräftelse fönstret väljer du **ta bort** .
+2. I informations fönstret väljer du **ta bort delegerad administratör**.
+3. I bekräftelse fönstret väljer du **ta bort**.
 
 >[!IMPORTANT]  
 >Azure AD-roll tilldelningar till partnern är implicita. Om du försöker visa medlemmar i Azure AD-rollerna med Azure AD Portal/PowerShell/Graph returneras inte partnern. Om du vill ta reda på om partner tilldelas till Azure AD-roller måste du referera till sidan partner relationer i administrations portalen för Office 365 för att ta reda på om delegerad administrations behörighet har beviljats till partnern eller inte.

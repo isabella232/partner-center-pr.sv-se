@@ -9,20 +9,14 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 317d1f0295b79b79bf06f1091ae365bc7012b749
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 9dc92685503fd4b9b05e40337f72e810c1693779
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531628"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534904"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Sälj Microsoft Azure reservationer till kunder som använder Partner Center, Azure Portal eller API: er
-
-**Gäller för**
-
-- Partnercenter
-- Microsoft Azure-portalen
-- Partner i CSP-programmet
 
 **Lämpliga roller**
 
@@ -32,8 +26,10 @@ ms.locfileid: "92531628"
 - Försäljnings agent
 - Administratör för användar hantering
 
+Som partner i Cloud Solution Provider-programmet (CSP) kan du köpa, sälja eller hantera Azure-reservationer för kunder. Använd partner Center, Azure Portal eller partner Center API.
+
 > [!NOTE]
-> Den här artikeln gäller endast partner i Cloud Solution Provider (CSP)-programmet. Kunder som använder andra typer av prenumerationer (t. ex. betala per användning, enskilda, Microsoft-kundavtal eller Enterprise-avtal prenumerationer) bör i stället läsa [denna dokumentation om Azure-reservationer](/azure/cost-management-billing/reservations).
+> Den här artikeln gäller endast partner i CSP. Kunder som använder andra typer av prenumerationer (t. ex. betala per användning, enskilda, Microsoft-kundavtal eller Enterprise-avtal prenumerationer) bör i stället läsa [denna dokumentation om Azure-reservationer](/azure/cost-management-billing/reservations).
 
 Partner i CSP-programmet kan erbjuda sina kunder Microsoft Azure reservationer. Kunder kan få betydande besparingar när de reserverar i förväg. Azure-reservationer ger kunderna enkelhet och flexibilitet på följande sätt:
 

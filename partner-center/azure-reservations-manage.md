@@ -9,20 +9,14 @@ ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 937a7268caa5ae7872f8a3ec6dcb05f56dd9fbe5
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: c377fca3e38161258c836d14202ac4db21484526
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531632"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534768"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Hantera, avbryta, byta ut eller återbetala Microsoft Azure reservationer för kunder
-
-**Gäller för**
-
-- Partnercenter
-- Microsoft Azure-portalen 
-- Partner i CSP
 
 **Lämpliga roller**
 
@@ -31,6 +25,8 @@ ms.locfileid: "92531632"
 - Support agent
 - Försäljnings agent
 - Administratör för användar hantering
+
+Den här artikeln beskriver hur du hanterar Azure-reservationer för en kund, inklusive hur du avbryter en reservation, utbyter en reservation eller ber om en åter betalning.
 
 > [!NOTE]
 > Den här artikeln gäller endast partner i Cloud Solution Provider (CSP)-programmet. Kunder som använder andra typer av prenumerationer (t. ex. betala per användning, enskilda, Microsoft-kundavtal eller Enterprise-avtal prenumerationer) bör i stället läsa [denna dokumentation om Azure-reservationer](/azure/cost-management-billing/reservations).
@@ -43,7 +39,7 @@ Om du vill hantera dina kunders Azure-reservationer efter köp väljer du den ku
 
 3. Under **åtgärder** väljer du **Hantera** för att gå till kundens reservations post i Azure Portal. På sidan reservations information följer du stegen nedan för att slutföra aktiviteterna.  
 
-    | **Välj**   | **Om du vill**    |
+    | **Välj**   | **Att**    |
     |:-----------------------------|:-----------------|
     | **Översikt**   | Visa information om en kunds reservation, inklusive förfallo datum, omfattning och användnings data. **Obs!** Välj **åter betalning** för att skapa en supportbegäran för en proportionell åter betalning. Välj **Exchange** om du vill skapa en supportbegäran för att utbyta den oanvända delen av din reservations term.  
     | **Access Control (IAM)**   | Hantera åtkomst till kundens reservations information.|
@@ -66,10 +62,10 @@ Se nedan för att avbryta information och avgifter.
 
 |**Datum för annullering**<br> antalet   |**Användning**    |**Kredit**  |**Tidig uppsägning**<br> betalning    |**Bidrags Kap** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5 eller färre                         | No          | 100 %       | No                              | $50 000 USD   |
-|5 eller färre                         | Yes         | Proportionellt beräknad  | No                              | $50 000 USD   |
-|Mer än 5                        | No          | Proportionellt beräknad  | 12 %                             | $50 000 USD   |
-|Mer än 5                        | Yes         | Proportionellt beräknad  | 12 %                             | $50 000 USD   |
+|5 eller färre                         | Nej          | 100 %       | Nej                              | $50 000 USD   |
+|5 eller färre                         | Ja         | Proportionellt beräknad  | Nej                              | $50 000 USD   |
+|Mer än 5                        | Nej          | Proportionellt beräknad  | 12 %                             | $50 000 USD   |
+|Mer än 5                        | Ja         | Proportionellt beräknad  | 12 %                             | $50 000 USD   |
 
 ### <a name="how-exchanges-work"></a>Hur utbyte fungerar 
 

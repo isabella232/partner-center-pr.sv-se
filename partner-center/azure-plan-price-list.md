@@ -9,14 +9,14 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 57e976f2968f0bd6b13f36eb04be9f68577d1389
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 02cea980626ec32d3dd60f646b1f8744130792ea
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531640"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534734"
 ---
-# <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Pris lista för den nya Commerce-upplevelsen i CSP för Azure
+# <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Prislista för den nya handelsupplevelsen i CSP för Azure
 
 **Lämpliga roller**
 
@@ -31,16 +31,16 @@ Pris listan för den nya Azure Commerce-upplevelsen i CSP publiceras i Partner C
 
 ## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>Se prissättning för prenumerationer under priser för Azure-prenumeration
 
-1. Från menyn Partner Center till vänster väljer du **försäljning** och sedan **Marketplace** .
+1. Från menyn Partner Center till vänster väljer du **försäljning** och sedan **Marketplace**.
 
 2. Under priser för Azure-prenumeration väljer du det land som du vill ha prissättning för.
 
-3. Bredvid **export typ** väljer du **priser för Azure plan förbrukning** , **priser för Azure-prenumerations reservationer** eller **FX-priser** . 
+3. Bredvid **export typ** väljer du **priser för Azure plan förbrukning**, **priser för Azure-prenumerations reservationer** eller **FX-priser**. 
 
 >[!NOTE] 
 >**FX-priser** är inte land-/regionsspecifika.
 
-4. Välj det datum som du vill ha, till exempel **aktuell** , bredvid **prissättning för datum** .
+4. Välj det datum som du vill ha, till exempel **aktuell**, bredvid **prissättning för datum**.
 
    :::image type="content" source="images/azure/pricingnew.png" alt-text="lands information":::
 
@@ -49,21 +49,21 @@ Pris listan för den nya Azure Commerce-upplevelsen i CSP publiceras i Partner C
 
 ## <a name="azure-price-list-specifics"></a>Information om Azure pris lista
 
-- Priser för Azure-abonnemang kommer att vara tillgängliga från Marketplace-sidan i Partner Center under **Sälj** .
+- Priser för Azure-abonnemang kommer att vara tillgängliga från Marketplace-sidan i Partner Center under **Sälj**.
 
 - Exporter kommer att vara tillgängliga för Azure plan förbruknings tjänster, Azure Reservations och FX-priser.
 
 - Alternativen för export är:
 
-  - **Dagens pris** : Detta omfattar alla mätare och priser från den 1: e i månaden till det aktuella datumet för den aktuella månaden. Detta omfattar nya priser, ändrade priser eller borttagna priser. Alla priser kommer att ha effektiva start-och slutdatum för att förklara om de är nya eller borttagna.
+  - **Dagens pris**: Detta omfattar alla mätare och priser från den 1: e i månaden till det aktuella datumet för den aktuella månaden. Detta omfattar nya priser, ändrade priser eller borttagna priser. Alla priser kommer att ha effektiva start-och slutdatum för att förklara om de är nya eller borttagna.
 
-  - **Föregående månads priser** : hämtningar av varje typ av resurs kommer att vara per månad. För filer med priser ingår alla mätare som var tillgängliga under den månaden. Om en ny mätare visas i mitten av månaden visas en mätare med ett effektivt datum som visar dess tillgänglighet. Liknande för priser som är avvecklade, och som visar ett effektivt slutdatum som beskriver när de inte längre är tillgängliga.
+  - **Föregående månads priser**: hämtningar av varje typ av resurs kommer att vara per månad. För filer med priser ingår alla mätare som var tillgängliga under den månaden. Om en ny mätare visas i mitten av månaden visas en mätare med ett effektivt datum som visar dess tillgänglighet. Liknande för priser som är avvecklade, och som visar ett effektivt slutdatum som beskriver när de inte längre är tillgängliga.
 
-  - **FX-priser** : FX-priser kommer att vara tillgängliga för hämtning av dagen före den 1: e i månaden,. 18:00 PST. Om du till exempel vill ha priserna för november laddar du ned priserna den 31 oktober. Tidigare månads FX-priser kommer också att vara tillgängliga.
+  - **FX-priser**: FX-priser kommer att vara tillgängliga för hämtning av dagen före den 1: e i månaden,. 18:00 PST. Om du till exempel vill ha priserna för november laddar du ned priserna den 31 oktober. Tidigare månads FX-priser kommer också att vara tillgängliga.
 
 - Priserna i pris listorna är direkt priser. Vissa partner kan vara berättigade till partner intjänade krediter. Mer information om hur den intjänade partner krediten beräknas finns [i så här beräknas och betalas den intjänade krediten](partner-earned-credit-explanation.md).
 
-- **Berättigade tjänster** : partner intjänad kredit gäller för tjänster som anges i **pris sättnings** samarbets [partners för](https://partner.microsoft.com/commerce/sales) Azure-prenumerationen. Obs! det finns undantag inklusive, men inte begränsat till, produkter från tredje part som identifieras som "tredje part" i kolumnen Taggar i pris listan för Azure plan-förbrukning och Azure plan-reservationer.
+- **Berättigade tjänster**: partner intjänad kredit gäller för tjänster som anges i **pris sättnings** samarbets [partners för](https://partner.microsoft.com/commerce/sales) Azure-prenumerationen. Obs! det finns undantag inklusive, men inte begränsat till, produkter från tredje part som identifieras som "tredje part" i kolumnen Taggar i pris listan för Azure plan-förbrukning och Azure plan-reservationer.
 
 ## <a name="price-list-data"></a>Pris List data
 
@@ -114,3 +114,7 @@ Det här API: et gör det också möjligt för partner att hämta månatliga vä
 > Prissättnings-API: et är bara för pris information för Azure-prenumeration. Du bör fortfarande använda de befintliga RateCard-API: erna och pris listorna som publicerats på sidan "priser och erbjudanden" i partner centret för Azure-resurser eller-reservationer som distribueras till prenumerationer som inte tillhör Azure. Prissättnings-API: et för Azure-prenumerationen stöder inte program vara, marknads plats eller licensbaserade priser, till exempel Microsoft 365 eller Dynamics 365.
 
 Mer information om priser för Azure-prenumeration och API: er för externa växelkurser finns i fullständig [prissättnings-API-dokumentation](/partner/develop/pricing).
+
+## <a name="next-steps"></a>Nästa steg
+
+- [Hantera prenumerationer och resurser under Azure-planen](azure-plan-manage.md)

@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 0ae61db0ca040afe67faa3a0883ea033b8f67562
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 12057d50e4456dd2450ff497e00c89a9afa5dc4d
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531565"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96535005"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Använd Windows Autopilot-profiler på nya enheter för att anpassa kundens välkomstupplevlese (OOBE, Out-Of-Box Experience)
-
-**Gäller för**
-
-- KRYPTOGRAFIPROVIDERs direkta fakturerings partners, indirekta leverantörer och indirekta åter försäljare
 
 **Lämpliga roller**
 
@@ -31,13 +27,13 @@ ms.locfileid: "92531565"
 
 Om du hanterar kund enheter kan du behöva anpassa OOBE (out-of-Box Experience) för kundens användare. Du kan förkonfigurera nya enheter med Windows autopilot-profiler innan du levererar enheterna till kunder och tillämpa nya profiler på enheter som kunder redan har köpt. 
 
-Observera att OEM-tillverkare har börjat inklusive en leverans etikett utanför den autopilot-rutan som visar enhetens **produkt nyckel-ID (PKID)** .  Den här 1-dimensionella och läsbara streckkoden ger underordnade partner ett sätt att registrera enheter för autopilot utan att behöva avpaketera enheterna och skörda enhets-ID: t på alternativa sätt.
+Observera att OEM-tillverkare har börjat inklusive en leverans etikett utanför den autopilot-rutan som visar enhetens **produkt nyckel-ID (PKID)**.  Den här 1-dimensionella och läsbara streckkoden ger underordnade partner ett sätt att registrera enheter för autopilot utan att behöva avpaketera enheterna och skörda enhets-ID: t på alternativa sätt.
 
 Den här artikeln förklarar hur du skapar och använder autopilot-profiler för enheter i Partner Center.
 
 Om du inte redan är bekant med autopilot kan du läsa informationen i följande artiklar:
 
-- [Översikt över Windows autopilot](/windows/deployment/windows-10-auto-pilot)
+- [Översikt över Windows Autopilot](/windows/deployment/windows-10-auto-pilot)
 - [Referens guide för autopilot-distribution](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
 ## <a name="overview"></a>Översikt
@@ -73,9 +69,9 @@ I Partner Center kan du skapa distributions profiler för Windows autopilot och 
 
 1. Välj **kunder** från menyn Partner Center och välj sedan den kund som du vill skapa autopilot-profilen för.
 
-2. På kundens informations sida väljer du **enheter** .
+2. På kundens informations sida väljer du **enheter**.
 
-3. Under **Windows autopilot-profiler** väljer du **Lägg till ny profil** .
+3. Under **Windows autopilot-profiler** väljer du **Lägg till ny profil**.
 
 4. Ange profilens namn och beskrivning och konfigurera sedan OOBE-inställningarna. Välj mellan:  
 
@@ -84,7 +80,7 @@ I Partner Center kan du skapa distributions profiler för Windows autopilot och 
    - Inaktivera lokalt administratörs konto i installationen
   
    - Hoppa över sidor i installationen automatiskt<br>
-        (Inkluderar *automatiskt Välj inställningar för arbete eller skola* och *hoppa över inställningar för Cortana, OneDrive och OEM-registrering* )
+        (Inkluderar *automatiskt Välj inställningar för arbete eller skola* och *hoppa över inställningar för Cortana, OneDrive och OEM-registrering*)
   
    - Hoppa över licens avtal för slutanvändare (EULA)<br> 
        >[!IMPORTANT] 
@@ -101,9 +97,9 @@ När du har skapat en autopilot-profil för en kund kan du använda den på kund
 
 1. Välj **kunder** från menyn Partner Center och välj sedan den kund som du skapade autopilot-profilen för.
 
-2. På kundens informations sida väljer du **enheter** .
+2. På kundens informations sida väljer du **enheter**.
 
-3. Under **Använd profiler på enheter** väljer du de enheter eller enhets grupper som du vill lägga till profiler i och väljer sedan **Använd profil** . Den profil du nyss använde visas i kolumnen **profil** .
+3. Under **Använd profiler på enheter** väljer du de enheter eller enhets grupper som du vill lägga till profiler i och väljer sedan **Använd profil**. Den profil du nyss använde visas i kolumnen **profil** .
 
 4. Följ stegen nedan för att kontrol lera att profilen kommer att tillämpas på enheten.
 
@@ -117,9 +113,9 @@ När du har skapat en autopilot-profil för en kund kan du använda den på kund
 
 1. Välj **kunder** från menyn Partner Center och välj sedan den kund som du skapade autopilot-profilen för.
 
-2. På kundens informations sida väljer du **enheter** .
+2. På kundens informations sida väljer du **enheter**.
 
-3. Under **Använd profiler på enheter** väljer du de enheter som du vill ta bort profilen från och väljer sedan **ta bort profil** .
+3. Under **Använd profiler på enheter** väljer du de enheter som du vill ta bort profilen från och väljer sedan **ta bort profil**.
 
    >[!NOTE]
    >Om du tar bort en profil från en enhet tas inte profilen bort från listan. Om du vill ta bort en profil följer du anvisningarna i [Uppdatera eller ta bort en autopilot-profil](#update-or-delete-an-autopilot-profile).
@@ -132,9 +128,9 @@ När kundens enhet ansluter till Internet hämtar den den senaste profil version
 
 1. Välj **kunder** från menyn Partner Center och välj sedan den kund som vill ändra en autopilot-profil.
 
-2. På kundens informations sida väljer du **enheter** .
+2. På kundens informations sida väljer du **enheter**.
 
-3. Under **Windows autopilot-profiler** väljer du den profil som du vill uppdatera. Gör de ändringar som krävs och välj sedan **Skicka** .
+3. Under **Windows autopilot-profiler** väljer du den profil som du vill uppdatera. Gör de ändringar som krävs och välj sedan **Skicka**.
 
 Om du vill ta bort profilen väljer du **ta bort profil** i det övre högra hörnet på sidan.
 
@@ -149,22 +145,22 @@ Om du planerar att använda kombinationen av OEM-namn, serie nummer och modell b
 
 - Denna tupel fungerar bara för nyare enheter (t. ex. 4K-hashs) och stöds inte för 128B-hashar (RS2 och tidigare enheter).
 
-- Tuple-registreringen är Skift läges känslig, så data i filen måste matcha modell-och tillverkarens namn ***exakt*** som de anges av OEM-leverantören (maskin varu leverantören).
+- Tuple-registreringen är Skift läges känslig, så data i filen måste matcha modell-och tillverkarens namn **_exakt_* _ som anges av OEM-leverantören (maskin varu leverantören).
 
 Följ anvisningarna nedan om du vill lägga till enheter till ett kund konto i Partner Center.
 
-1. Välj **kunder** från menyn Partner Center och välj sedan den kund vars enheter du vill hantera.
+1. Välj _ *kunder** på menyn Partner Center och välj sedan den kund vars enheter du vill hantera.
 
-2. På kundens informations sida väljer du **enheter** .
+2. På kundens informations sida väljer du **enheter**.
 
-3. Under **Använd profiler på enheter** väljer du **Lägg till enheter** .
+3. Under **Använd profiler på enheter** väljer du **Lägg till enheter**.
 
 4. Ange ett namn på enhets listan och välj sedan **Bläddra** för att överföra kundens lista (i CSV-filformat) till Partner Center.
 
     >[!NOTE]
     >Du bör ha tagit emot den här CSV-filen med enhets köpet. Om du inte har fått en. csv-fil kan du skapa en själv genom att följa stegen i [lägga till enheter i autopilot i Windows](/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell).  
 
-5. Ladda upp CSV-filen och välj sedan **Spara** .
+5. Ladda upp CSV-filen och välj sedan **Spara**.
 
 Om du får ett felmeddelande när du försöker ladda upp CSV-filen kontrollerar du filformatet. Du kan använda bara maskinvaruhashen, eller OEM-namnet, serienumret och modellen (i den kolumnordningen) eller produkt-ID:t för Windows. Du kan också använda den exempel-. csv-fil som tillhandahålls från länken bredvid **Lägg till enheter** för att skapa en enhets lista.
 
