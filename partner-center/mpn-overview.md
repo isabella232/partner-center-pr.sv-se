@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Lär dig mer om Microsoft Partner Network (MPN)-förmåner, inklusive Microsoft Action Pack, kompetenser och program alternativ för att gå till marknaden och sälja dina lösningar.
+description: Lär dig mer om Microsoft Partner Network (MPN)-förmåner, till exempel Microsoft Action Pack, kompetenser eller program alternativ för att gå till marknaden och sälja dina lösningar.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0678a7f59620c951fc7595f0ff7437d64a433a05
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 4a3b00db6b48d95da58cdc130832ba5dc1ab990f
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532104"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556386"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Partner med Microsoft och identifiera medlemskaps förmåner
 
@@ -31,7 +31,7 @@ När du ansluter till ett Microsoft partner program blir du en del av en global 
 
 ## <a name="join-the-microsoft-partner-network"></a>Gå med i Microsoft Partner Network
 
-Om du vill ansluta till Microsoft Partner Network går du till [sidan **medlemskap**](https://partner.microsoft.com/membership) på MPN-webbplatsen och väljer **Registrera** eller **Anslut nu** .
+Om du vill ansluta till Microsoft Partner Network går du till [sidan **medlemskap**](https://partner.microsoft.com/membership) på MPN-webbplatsen och väljer **Registrera** eller **Anslut nu**.
 
 ## <a name="action-pack"></a>Action Pack
 

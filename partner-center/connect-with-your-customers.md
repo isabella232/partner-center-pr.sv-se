@@ -1,6 +1,6 @@
 ---
-title: Anslut till dina kunder
-description: Lär dig hur du ansluter till nya och befintliga kunder som en indirekt åter försäljare
+title: Få kontakt med dina kunder
+description: Om du är en indirekt åter försäljare i CSP-programmet hjälper den här artikeln dig att ansluta till dina nya och befintliga kunder.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,14 +9,14 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: dc0d5af728b5e17bc8070fae9c895adc2bf8db4c
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: cb8a3403968ddf5c83c7fdbd1d1af6f6f740d1ff
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92531857"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556318"
 ---
-# <a name="connect-with-customers"></a>Ansluta till kunder
+# <a name="connect-with-customers"></a>Få kontakt med kunder
 
 **Gäller för:**
 
@@ -38,7 +38,7 @@ När du ansluter till en indirekt Provider får du inte automatiskt kunderna om 
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Bjud in en kund för att upprätta en åter försäljares relation med dig
 
-1. Välj **kunder** från menyn **partner Center** och välj sedan **begär en åter försäljare relation** .
+1. Välj **kunder** från menyn **partner Center** och välj sedan **begär en åter försäljare relation**.
 
 2. På nästa sida granskar du utkastet till e-postmeddelandet. Du kan öppna utkast meddelandet via e-post eller så kan du kopiera meddelandet till Urklipp och klistra in det i ett e-postmeddelande.
 
@@ -64,7 +64,7 @@ Om du vill få administratörs behörighet för att hantera en ny kunds prenumer
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-your-indirect-provider-at-the-same-time"></a>Bjud in en kund för att upprätta en åter försäljares relation med dig och din indirekta leverantör på samma tid
 
-1. Välj **indirekta leverantörer** från **menyn i Partner Center** .
+1. Välj **indirekta leverantörer** från **menyn i Partner Center**.
 
 2. Välj **Bjud in nya kunder** för att bjuda in en kund att upprätta en åter försäljares relation med både du och den indirekta providern på samma tid. Leverantören måste ha en åter försäljar relation med kunden så att de kan skicka beställningar på kundens vägnar när kunden vill köpa nya prenumerationer eller lägga till nya licenser i befintliga prenumerationer.
 
@@ -82,9 +82,9 @@ Om du vill ta bort relationen med en kund slutför du stegen nedan:
 
 1.  Gå till **kunder** från Partner Center och välj den kund vars relation du vill ta bort.
 
-2.  Välj **kontot** .
+2.  Välj **kontot**.
 
-3.  Välj **ta bort kund relation** .
+3.  Välj **ta bort kund relation**.
 
 4.  Kunden visas inte längre i listan kund.
 
@@ -95,4 +95,4 @@ Om du vill ta bort relationen med en kund slutför du stegen nedan:
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Lägg till en ny kund](add-a-new-customer.md)
+- [Lägga till en ny kund](add-a-new-customer.md)

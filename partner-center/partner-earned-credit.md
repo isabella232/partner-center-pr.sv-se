@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig hur partner-intjänad kredit (PEC) erbjuder förenklade, enhetliga Azure-priser, erbjuder mervärdes tjänster och bidrar till att eliminera konkurrens på marginaler.
+description: Lär dig hur partner-intjänad kredit (PEC) erbjuder förenklade, enhetliga Azure-priser och mervärdes tjänster, samtidigt som du bidrar till att undvika konkurrens på marginaler.
 author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 45a9e4eb4a2e2ddb3419a2c8b1342725964ec39a
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 464a277cc62f8b3349e8f7957106b902081eded8
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92531309"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556403"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Partner intjänad kredit – en översikt över hur det fungerar i den nya Commerce-upplevelsen i CSP
 
@@ -51,20 +51,20 @@ När kunderna övergår till molnbaserad data behandlings plattform är de rikta
 
 Kunderna ser till att hjälpa dem att få ut mesta möjliga av deras verksamhet i Azure. Med hanterade tjänster kan du regelbundet förse dina kunder med White-assisterad-tjänsten. Några av de dagliga åtgärderna och supporten som du kan tillhandahålla inkluderar:
 
-- **Moln drifts-och hanterings tjänster** : kunder tittar på Microsoft-partner för att minska kostnaderna i Azure samtidigt som du återskapar isolerings-, säkerhets principer och gransknings modeller som de har idag. De förväntar sig också partner att ha till gång till vuxen verktyg för att identifiera arbets belastnings lämplighet och drifts kostnaderna för Azure i taget. Dessutom behöver kunderna stöd för automatisering och dirigering, uppdaterings uppdateringar, konfigurations hantering, säkerhets kopiering och haveri beredskap samt identitets hantering. 
+- **Moln drifts-och hanterings tjänster**: kunder tittar på Microsoft-partner för att minska kostnaderna i Azure samtidigt som du återskapar isolerings-, säkerhets principer och gransknings modeller som de har idag. De förväntar sig också partner att ha till gång till vuxen verktyg för att identifiera arbets belastnings lämplighet och drifts kostnaderna för Azure i taget. Dessutom behöver kunderna stöd för automatisering och dirigering, uppdaterings uppdateringar, konfigurations hantering, säkerhets kopiering och haveri beredskap samt identitets hantering. 
 
-- **Övervakning av molnet och teknisk support** : i en moln förbruknings värld har verktygen och kraven utvecklats, men det är viktigt att hitta rätt resurs för hantering av IT-infrastrukturen. De flesta organisationer har bara den tid, de resurser eller den särskilda personal som krävs för att övervaka varje aspekt av den, och det är där du, som den betrodda partnern, lägger till det mest aktuella värdet. Azure erbjuder många inbyggda partner partner som tillhandahåller ytterligare, djupare övervaknings verktyg, prioritering falska positiva identifieringar från de verkliga aviseringarna och proaktivt agera på aviseringarna innan det behövs mätbara förluster i prestanda. 
+- **Övervakning av molnet och teknisk support**: i en moln förbruknings värld har verktygen och kraven utvecklats, men det är viktigt att hitta rätt resurs för hantering av IT-infrastrukturen. De flesta organisationer har bara den tid, de resurser eller den särskilda personal som krävs för att övervaka varje aspekt av den, och det är där du, som den betrodda partnern, lägger till det mest aktuella värdet. Azure erbjuder många inbyggda partner partner som tillhandahåller ytterligare, djupare övervaknings verktyg, prioritering falska positiva identifieringar från de verkliga aviseringarna och proaktivt agera på aviseringarna innan det behövs mätbara förluster i prestanda. 
 
 
 ### <a name="included-in-monitoring-and-technical-support"></a>Ingår i övervakning och teknisk support:
 
-- **Övervakning av system hälsa** : fullständig övervakning av virtuella datorer, processor användning, minnes användning, Storage IOPS och operativ systemets prestanda. Innehåller övervakning av program prestanda och drifts hälsa, samt instrument paneler och rapporter om system hälsan.
+- **Övervakning av system hälsa**: fullständig övervakning av virtuella datorer, processor användning, minnes användning, Storage IOPS och operativ systemets prestanda. Innehåller övervakning av program prestanda och drifts hälsa, samt instrument paneler och rapporter om system hälsan.
 
-- **Log Analytics och aviseringar** : varje klient, enhet och användare som har åtkomst till ett nätverk skapar data som loggas. Analys av loggar kan ge djupare insikt i prestanda, säkerhet, resursanvändning och andra meningsfulla mått.
+- **Log Analytics och aviseringar**: varje klient, enhet och användare som har åtkomst till ett nätverk skapar data som loggas. Analys av loggar kan ge djupare insikt i prestanda, säkerhet, resursanvändning och andra meningsfulla mått.
 
-- **Databas övervakning** : en vy till kundens databas som hjälper partner att garantera hög tillgänglighet för databas servrar. Processen omfattar att bevara loggar av storlek, anslutnings tid och användare av databaser, analysera användnings trender och använda data för att proaktivt åtgärda problem.
+- **Databas övervakning**: en vy till kundens databas som hjälper partner att garantera hög tillgänglighet för databas servrar. Processen omfattar att bevara loggar av storlek, anslutnings tid och användare av databaser, analysera användnings trender och använda data för att proaktivt åtgärda problem.
 
-- **Övervakning av program prestanda** : slut punkt till slut punkt – spårning av alla aspekter av ett program (eller webb sida). Övervakning av appar innebär att du tittar på varje del – från shopping vagnar till registrerings sidor – i en kunds app (er) för prestanda problem för att ge bästa möjliga användar upplevelse.
+- **Övervakning av program prestanda**: slut punkt till slut punkt – spårning av alla aspekter av ett program (eller webb sida). Övervakning av appar innebär att du tittar på varje del – från shopping vagnar till registrerings sidor – i en kunds app (er) för prestanda problem för att ge bästa möjliga användar upplevelse.
 
 Lär dig mer om hur du utökar din [portfölj med hanterade tjänster med Azure](https://partner.microsoft.com/campaigns/cloud-playbooks-thank-you).
 
@@ -75,6 +75,6 @@ Dessa tjänster ger en lämplig nivå av åtkomst för partner i kundens Azure-m
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Hur den intjänade krediten för partner beräknas och betalas](partner-earned-credit-explanation.md)
+- [Hur partnerintjänad kredit beräknas och betalas](partner-earned-credit-explanation.md)
 - [Hantera prenumerationer och resurser under Azure-planen](azure-plan-manage.md)
 - [Pris lista för den nya Azure Commerce-upplevelsen i CSP](azure-plan-price-list.md)

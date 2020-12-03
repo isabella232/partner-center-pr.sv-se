@@ -1,20 +1,20 @@
 ---
-title: Effektiv enhets pris beräkning
+title: Effektiv enhetsprisberäkning
 ms.topic: how-to
 ms.date: 11/10/2020
-description: Läs om den effektiva pris enheten och hur den beräknas. Innehåller en exempel beräkning.
+description: Läs om det effektiva enhets priset och hur det beräknas. Den här artikeln innehåller även en exempel beräkning.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7b65a79232656af6ddb69fede7a9ee35fe426a9d
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 6ca6e9bf6a49e695314a3e33e36d2d1d5d4d2a25
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94499148"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556335"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Effektiv enhets pris beräkning för Azure plan-förbrukning
 
@@ -35,7 +35,7 @@ Eftersom vi övervakar förbrukning dagligen under hela fakturerings perioden ko
 Om du inte vet om mätaren använder nivå priser använder du proceduren nedan för att ta reda på det. 
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
-2. Välj **sälja** , Välj **priser och erbjudanden** och välj sedan **pris för Azure-prenumeration**.
+2. Välj **sälja**, Välj **priser och erbjudanden** och välj sedan **pris för Azure-prenumeration**.
 3. Leta upp din mätning efter ID och ladda ned dina pris data. 
 
 ## <a name="sample-calculation"></a>Exempel beräkning

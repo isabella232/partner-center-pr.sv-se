@@ -1,22 +1,22 @@
 ---
-title: Uppgradera Windows 10 Home-kunder till Windows 10-utbildning
+title: Uppgradera Windows 10 Home till Windows 10-utbildning
 ms.topic: article
 ms.date: 10/28/2020
-description: Uppgradera Windows 10 Home-kunder till Windows 10-utbildning
+description: Lär dig hur leverantörer av moln lösningar (CSP) kan uppgradera några av sina utbildnings kunder från Windows 10 Home till Windows 10-utbildning
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a65dcceea688094089ad06dacfd2abf13173ca5c
-ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
+ms.openlocfilehash: eff687f59e433e3465048173e3f74821280bde41
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "94360011"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556421"
 ---
-# <a name="upgrade-windows-10-home-customers-to-windows-10-education"></a>Uppgradera Windows 10 Home-kunder till Windows 10-utbildning
+# <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Uppgradera vissa utbildnings kunder från Windows 10 Home till Windows 10-utbildning
 
 **Gäller för**
 
@@ -63,7 +63,7 @@ Partner bör skapa en support förfrågan och hämta nycklar från supporten. Pa
 - **Beskrivning:** Begär [INSERT Number]-nycklar för att aktivera uppgradering till Windows 10-utbildning. (Observera att antalet nycklar som begärs inte får vara större än dina prenumerations licenser för Microsoft 365 a3/A5 eller Windows 10 Enterprise a3/A5.) Kundens prenumerations-ID [INSERT Customer Subscription ID GUID för sina Microsoft 365 a3/A5 eller Windows 10 Enterprise a3/A5-prenumeration.]
 - **Kontakt nummer:** Detta kommer att vara förifyllt. Granska för att bekräfta eller uppdatera.
 - **E-post:** Detta kommer att vara förifyllt och ska vara det e-postmeddelande som du använder som administratör för Microsoft-portalen (endast global administratör eller fakturerings administratör).
-- **Önskad kontakt metod** : Välj **telefon** eller **Schemalägg en motringning**.
+- **Önskad kontakt metod**: Välj **telefon** eller **Schemalägg en motringning**.
 
 8. Välj **kontakta mig**. Den förväntade vänte tiden anges i fönstret **behöver hjälp?** .
 

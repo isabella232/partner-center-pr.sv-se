@@ -4,16 +4,16 @@ ms.topic: how-to
 ms.date: 05/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Synkronisera dina referenser i Partner Center med din co-sälje Connector för Dynamics 365 CRM. Säljare kan sedan sälja tillsammans med Microsoft från dina CRM-system.
+description: Synkronisera referenser i Partner Center med ditt Co-sälje Connector för Dynamics 365 CRM. Säljare kan sedan sälja tillsammans med Microsoft från dina CRM-system.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: c92938bbb4ffa6875419d06a9bbf23010ee60724
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: 18a54bf777cb987e8f486f85afcf277e04c1055c
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947826"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556369"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Co-Sälj koppling för Dynamics 365 CRM – översikt
 
@@ -28,7 +28,7 @@ Lösningen baseras på Microsoft Power automatiserings lösning och använder AP
 
 ## <a name="before-you-install---pre-requisites"></a>Innan du installerar-krav
 
-|**Ämnen**   |**Detaljer**   |**Länkar**   |
+|**Ämnen**   |**Information**   |**Länkar**   |
 |--------------|--------------------|------|
 |Microsoft Partner Network-ID |Du behöver ett giltigt MPN-ID|För att ansluta till [MPN](https://partner.microsoft.com/)|
 |Samförsäljnings klar|Din lösning för IP/tjänster måste vara samförsäljnings klar.|[Sälj med Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
