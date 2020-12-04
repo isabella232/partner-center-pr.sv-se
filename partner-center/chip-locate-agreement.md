@@ -1,22 +1,22 @@
 ---
-title: Leta upp antal skriv bord och avgifts nivå för ett avtal
+title: Sök antal skriv bord, avgifts nivå i CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Där är information om Skriv bordet och avgifts nivån i kretsen.
+description: Lär dig hur du använder kanal incitaments plattform (CHIP) för att hitta information om Skriv bordet och avgifts nivån för ett avtal.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6eb763593427070fa309efe78fd39a294e9a6d99
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 51307be51de3c41aca9fb9d39ab623f4dac318a7
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94422256"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570560"
 ---
-# <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Leta upp antal skriv bord och avgifts nivå för ett avtal
+# <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Leta upp antal skrivbordsenheter och avgiftsnivå för ett avtal
 
 Du kan ladda ned till Excel, en fil som tillhandahåller avtals information för antal skriv bord och avgifts nivåer.
 

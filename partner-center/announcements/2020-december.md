@@ -9,18 +9,61 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/02/2020
-ms.openlocfilehash: d0bc790e31cf38aabc1703f073c42f8946c316ee
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 38a9b83c5c13ed0a0c0f27db409335f9b86b8173
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556729"
+ms.locfileid: "96570781"
 ---
 # <a name="december-2020-announcements"></a>Meddelanden i december 2020
 
 Den här sidan innehåller information om Microsoft Partner Center-meddelanden för november 2020.
 
-2020-meddelanden: [april](2020-april.md)  |  [maj](2020-may.md)den  |  [juni](2020-june.md)  |  [juli](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md)  |  [October](2020-October.md)  |  [November](2020-november.md)| Utgången
+2020-meddelanden: [april](2020-april.md)  |  [maj](2020-may.md)den  |  [juni](2020-june.md)  |  [juli](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md)  |  [October](2020-October.md)  |  [November](2020-november.md) | Utgången
+
+
+______________
+
+## <a name="an-update-of-the-us-microsoft-365-business-voice-with-calling-plan-offer-is-coming-soon"></a><a name="2"></a>En uppdatering av US Microsoft 365 Business röst med erbjudandet om samtals plan kommer snart
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2020-12-3
+- Erbjudanden/marknader
+
+### <a name="summary"></a>Sammanfattning 
+
+Den 1 januari 2021 kommer Microsoft att börja överföra våra partner och kunder till en ny Microsoft 365 Business röst med erbjudandet om samtals plan. Ingen partner åtgärd krävs.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp 
+
+Alla partner som går via program varan för Cloud Solution Provider (CSP)
+
+### <a name="details"></a>Information
+
+Microsoft kommer att ersätta den befintliga affärs rösten med erbjudandet om samtals plan i USA med ett nytt erbjudande för att stödja interna krav för Telco-produkter. Det nya erbjudandet kommer att ha samma funktions uppsättning och priser. Erbjudande ändringarna är interna för Microsoft och bör inte påverka sättet som CSP-partner marknad, säljer eller stöder affärs rösten med erbjudandet om samtals plan. Ändringen gäller bara för det här erbjudandet.
+
+För ny försäljning använder du det nya erbjudandet från den 1 januari 2021. Det gamla erbjudandet kommer att ersättas med det nya erbjudandet för pris listan.
+
+Befintliga kunder överförs automatiskt till det nya erbjudandet vid förnyelse datumet. Ingen åtgärd krävs från partner och kunder som förnyas.
+
+
+* * Ny erbjudande information
+ 
+   |**Erbjudandets namn**|**Erbjudande-ID**|**Material-ID**|
+   |-------------------|:------|:------|
+   |Microsoft 365 Business röst (US)|86713ec1-ad33-42cf-a1ce-8397d4d875fe|PZW-00023|
+   
+* * Gammal erbjudande information
+
+   |**Erbjudandets namn**|**Erbjudande-ID**|**Material-ID**|
+   |-------------------|:------|:------|
+   |Microsoft 365 Business röst (US)|9f9f2c7b-c961-402b-9421-8e3c9207eeb3|PZW-00009|
+
+### <a name="next-steps"></a>Nästa steg
+
+Bekanta dig med pris listan och dela den här informationen med alla lämpliga kontakter i din organisation.
 
 ______________
 

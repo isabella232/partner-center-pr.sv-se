@@ -1,20 +1,20 @@
 ---
-title: Navigera i kanal incitaments plattformen (CHIP)
+title: Använda kanal incitaments plattform (CHIP)
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Lär dig hur du använder CHIP för dina stimulans arbeten.
+description: Lär dig hur du använder en kanal incitaments plattform (CHIP) för dina stimulans arbeten. OBS! den här plattformen kommer att dras tillbaka i slutet av 2021.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8ca669cb62995b84dc246cbc5db5d1b9ada8b8ed
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 386acaadc74c1c8247a42cebc98c3d325ba43511
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94422247"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570408"
 ---
 # <a name="navigate-the-channel-incentives-platform-chip"></a>Navigera till kanal incitaments plattformen (CHIP)
 
@@ -41,4 +41,4 @@ Härifrån kan du Visa dina **prestanda** och **intäkter** för det program som
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Lägg till användare i ditt krets konto](chip-users.md)
+- [Lägg till användare i ditt CHIP-konto](chip-users.md)

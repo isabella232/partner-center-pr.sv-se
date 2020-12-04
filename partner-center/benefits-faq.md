@@ -9,19 +9,21 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 089d358b75d17c409d614ed63e92aee921b1c80f
-ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
+ms.openlocfilehash: 61ceb869d2268b441d990049b9956da8ea87f8f5
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "95417259"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570696"
 ---
 # <a name="benefits-faq"></a>Vanliga frågor och svar om förmåner
 
-Gäller för:
+**Lämpliga roller**
 
-- Partnercenter
-- Välkommen till Partnercenter för Microsoft Cloud for US Government
+- MPN-administratör
+
+Många vanliga frågor om Microsoft Partner Network (MPN)-förmåner behandlas i den här artikeln.
+
 
 ## <a name="general-questions"></a>Allmänna frågor
 
@@ -87,7 +89,7 @@ Du kan tilldela prenumerationer till alla i din användar hanterings lista i Par
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 
-2. I det vänstra navigerings fältet väljer du **MPN**.
+2. Från menyn Partner Center väljer du **MPN**.
 
 3. Välj **förmåner** och välj sedan **Visual Studio**.
 
@@ -96,7 +98,7 @@ Du kan tilldela prenumerationer till alla i din användar hanterings lista i Par
 När du har tilldelat prenumerationen måste användaren logga in i Visual Studio för att kunna hantera den.
 
 >[!Note]
-> Visual Studio-prenumerationer kan omtilldelas från en prenumerant till en annan efter 90 dagar från ursprunglig tilldelning
+> Visual Studio-prenumerationer kan omtilldelas från en prenumerant till en annan 90 dagar efter den ursprungliga tilldelningen.
 
 ## <a name="technical-benefits-and-support"></a>Tekniska förmåner och support
 
@@ -106,7 +108,7 @@ Installation, aktivering och annan produkt relaterad hjälp tillhandahålls via 
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 
-2. I det vänstra navigerings fältet väljer du **MPN**.
+2. Från menyn Partner Center väljer du **MPN**.
 
 3. Välj **förmåner** och välj sedan **tekniska förmåner**.
 
@@ -115,3 +117,7 @@ Installation, aktivering och annan produkt relaterad hjälp tillhandahålls via 
 5. Logga in på [Microsoft Support](https://support.microsoft.com/supportforbusiness/productselection).
 
 6. Välj den produkt som du försöker installera och skapa sedan ett support ärende.
+
+## <a name="next-steps"></a>Nästa steg
+
+- [Få en avancerad specialisering för att presentera dina kunskaper](advanced-specializations.md)

@@ -9,19 +9,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ff64c265aadacca5389c16168d1e161936f5e88
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 254543c353669166ed9971d57e6255bd589ccb7d
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "92531112"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570713"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Faktureringsöversikt för CSP-programpartner som arbetar i Partnercenter 
-
-**Gäller för**
-
-- Partnercenter
-- Partner i CSP-programmet (Cloud Solution Provider)
 
 **Lämpliga roller**
 
@@ -31,13 +26,16 @@ ms.locfileid: "92531112"
 - Support agent
 - Försäljnings agent
 
+Den här artikeln innehåller information om fakturering och faktura för CSP-partner i Partner Center, inklusive hur du fakturerar kunder och hur du hittar och läser din faktura.
+
+
 ## <a name="find-your-bill"></a>Hitta din faktura
 
 Så här hittar du din faktura:
 
-1. [Logga in på Partner Center-instrumentpanelen](https://partner.microsoft.com/dashboard/home).
+1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
 
-2. Välj **fakturering** på menyn till vänster.
+2. Från menyn Partner Center väljer du **fakturering**.
 
 3. På sidan **fakturering** kan du ladda ned din senaste faktura eller hämta tidigare fakturor i avsnittet **fakturerings historik** .
 
@@ -45,17 +43,17 @@ Så här hittar du din faktura:
 
 Microsoft har inga krav eller villkor för hur du hanterar din egen fakturering.
 
-[Se dina avstämnings filer](#find-your-bill)för att fastställa en kunds användning. Du kan använda kundens namn och andra relevanta fält för att fastställa användningen.
+Se dina [avstämnings filer](#find-your-bill)för att fastställa en kunds användning. Använd kundens namn och andra relevanta fält för att fastställa användningen.
 
 ### <a name="billing-types"></a>Fakturerings typer
 
-Fakturerings typer i Partner Center inkluderar **licensbaserade fakturerings-** , **användnings** fakturerings-och **engångs fakturering** . 
+Fakturerings typer i Partner Center inkluderar **licensbaserade fakturerings-**, **användnings** fakturerings-och **engångs fakturering**. 
 
 ### <a name="billing-currency"></a>Fakturerings valuta
 
-**Licens-och användnings fakturering** : du debiteras för produkt (er) i valutan för det land eller den region där du befinner dig. Du faktureras samma oavsett var kunden finns till vilken du sålde produkten/erna.
+**Licens-och användnings fakturering**: du debiteras för produkt (er) i valutan för det land eller den region där du befinner dig. Du faktureras samma oavsett var kunden finns till vilken du sålde produkten/erna.
 
-**Fakturering vid ett tillfälle** : din faktura skapas i samband med kundens valuta. Det innebär att om du är en partner som kommunicerar med kunder från olika fakturerbara valutor får du en faktura för varje kund valuta typ. Läs mer om [Databasmigrering och återkommande](azure-plan-billing.md). 
+**Fakturering vid ett tillfälle**: din faktura skapas i samband med kundens valuta. Det innebär att om du är en partner som kommunicerar med kunder från olika fakturerbara valutor får du en faktura för varje kund valuta typ. Läs mer om [Databasmigrering och återkommande](azure-plan-billing.md). 
 
 ## <a name="invoices"></a>Fakturor
 
@@ -72,7 +70,7 @@ Pris listor uppdateras varje månad. För hands versionen av pris listor är til
 Så här visar du pris listor:
 
 1. [Logga in på Partner Center-instrumentpanelen](https://partner.microsoft.com/dashboard/home).
-2. Välj **försäljning** på menyn till vänster och välj sedan **priser och erbjudanden** .
+2. Välj **försäljning** på menyn till vänster och välj sedan **priser och erbjudanden**.
 3. På sidan **priser och erbjudanden** kan du se 6 månader av pris listor (inklusive aktuell månad) och för hands versions pris listor (där det är tillämpligt).
 
 **Licensbaserade** priser garanteras för prenumerationens mandat period, vanligt vis 12 månader från inköps datumet. 
@@ -153,7 +151,7 @@ Avgiftsbelagda tjänste priser kan ändras inom faktura cykeln.
 Så här visar du dina aktuella fakturerings status, fakturor och avstämnings filer:
 
 1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
-2. Välj **fakturering** på menyn till vänster och välj sedan **återkommande och engångs köp** .
+2. Välj **fakturering** på menyn till vänster och välj sedan **återkommande och engångs köp**.
 3. På sidan fakturerings status väljer du en faktura eller en avstämnings fil för att visa mer detaljerad information.
 
 ### <a name="customer-order-history"></a>Kund order historik
@@ -173,3 +171,8 @@ Du kan behöva begära en kredit eller omstrukturering av följande orsaker:
 - En skatte åter betalning tillämpades när fakturan genererades. Du kan begära en kredit eller fakturera för att få moms åter betalningen tillbaka till den ursprungliga fakturan. Samma sak gäller även för åter betalningar. Du kan begära en kredit eller en omräkning av den ursprungliga fakturan och sedan hämta en åter betalning.
 
 **För alla engångs-och återkommande transaktioner** kan Microsoft utfärda en kredit faktura när du begär en kredit eller fakturera. Fakturan annulleras när krediten utfärdas. 
+
+## <a name="next-steps"></a>Nästa steg
+
+- [Förstå din faktura-och avstämnings fil](read-your-bill.md)
+- [Vanliga fakturerings scenarier för CSP-programpartner](common-billing-scenarios.md)

@@ -1,6 +1,6 @@
 ---
 title: Bekräfta kundens samtycke till Microsofts kundavtal
-description: Lär dig hur du bekräftar kund godkännande av Microsofts kund avtal. Leverantörer av moln lösnings leverantörer (CSP) behöver detta för att beställa Microsofts produkter och tjänster för kunder.
+description: Leverantörer av moln lösningar (CSP) behöver bekräfta kund godkännande av Microsofts kund avtal innan de beställer Microsoft-tjänster för kunder.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 45a34473ff63875af8bd07962ea836661bc948ee
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 423cf1aab281ad8e77e03aa386b43360e1b99b3c
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532112"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570577"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>Bekräfta kund godkännande av Microsofts kund avtal i CSP partner-programmet
 
@@ -32,9 +32,9 @@ Den 1 oktober 2019 introducerade Microsoft **kund avtalet** till CSP-programmet 
 
 Kunder har två alternativ för att godkänna Microsofts kund avtal. 
 
-**Alternativ 1** : partner attestering för kund godkännande – partner kan bekräfta kund acceptansen med hjälp av Partner Center API/SDK eller via instrument panelen för partner Center.
+**Alternativ 1**: partner attestering för kund godkännande – partner kan bekräfta kund acceptansen med hjälp av Partner Center API/SDK eller via instrument panelen för partner Center.
 
-**Alternativ 2** : Kunddirekt godkännande – partner kan bjuda in kunden via en URL för att granska och godkänna avtalet i Microsoft 365 administrations centret.
+**Alternativ 2**: Kunddirekt godkännande – partner kan bjuda in kunden via en URL för att granska och godkänna avtalet i Microsoft 365 administrations centret.
 
 ## <a name="access-microsoft-customer-agreement-template"></a>Få åtkomst till Microsofts kundavtals mall
 
@@ -48,13 +48,13 @@ Partner kan bekräfta kund godkännande av Microsofts kund avtal i Partner Cente
 
 När du skapar en ny kund klient i Partner Center kan du använda följande steg för att bekräfta kundens godkännande av Microsofts kund avtal. Du måste vara administratörs agent eller försäljnings agent för att kunna utföra dessa steg.
 
-1. Välj **kunder** och sedan **ny kund** .
+1. Välj **kunder** och sedan **ny kund**.
 
 2. Under **konto information** anger du information för företaget och den primära kontakten.
 
 3. Under **Microsoft-avtal** markerar du kryss rutan för att bekräfta att kunden har godkänt Microsofts kund avtal.
 
-4. Ange ett datum under **avtalets godkännande datum** . Du kan inte ange ett framtida datum.
+4. Ange ett datum under **avtalets godkännande datum**. Du kan inte ange ett framtida datum.
 
 5. Kontrol lera att den primära användar kontakt informationen som visas är korrekt. Om den är felaktig väljer du **Uppdatera** och anger korrekt information för den person som har godkänt avtalet.
 
@@ -66,17 +66,17 @@ När du skapar en ny kund klient i Partner Center kan du använda följande steg
 
 Du måste vara administratörs agent eller försäljnings agent för att göra detta:
 
-1. Välj **Kunder** . Sök efter och välj kunden.
+1. Välj **Kunder**. Sök efter och välj kunden.
 
-2. Välj **konto information** .
+2. Välj **konto information**.
 
-3. Under **Microsofts kund avtal** väljer du **Uppdatera** .
+3. Under **Microsofts kund avtal** väljer du **Uppdatera**.
 
-4. Ange **förnamn** , **efter namn** , **e-postadress** och **telefonnummer** (valfritt) för den person som har godkänt avtalet. Ange ett datum under **avtalets godkännande datum** . Du kan inte ange ett framtida datum.
+4. Ange **förnamn**, **efter namn**, **e-postadress** och **telefonnummer** (valfritt) för den person som har godkänt avtalet. Ange ett datum under **avtalets godkännande datum**. Du kan inte ange ett framtida datum.
 
 5. Välj **Spara** och fortsätt.
 
-   :::image type="content" source="images/mcua2-update2.png" alt-text="Ny kund":::
+   :::image type="content" source="images/mcua2-update2.png" alt-text="Befintlig kund":::
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>Hämta bekräftelse av kund godkännande
 
@@ -84,7 +84,7 @@ Du kan hämta en bekräftelse på att en befintlig kund har godkänt Microsofts 
 
 1. Välj **kunder** och leta upp och välj den kund som du vill se.
 
-2. Välj **konto information** .
+2. Välj **konto information**.
 
 3. Under **Microsofts kund avtal** kan du Visa om bekräftelsen har eller inte har tillhandahållits av den här kunden.
 
@@ -121,14 +121,14 @@ Använd följande steg för att skapa en ny kund i Partner Center och sedan bjud
 
 2. Under **konto information** anger du information om den nya kunden i alla obligatoriska fält, inklusive kundens företags namn och primär kontakt.
 
-3. Under **kund avtal** väljer du det första alternativet. **kunden uppmanas att godkänna Microsofts kund avtal i Microsoft 365 administrations Center** . Fyll i alla andra obligatoriska fält på sidan.
+3. Under **kund avtal** väljer du det första alternativet. **kunden uppmanas att godkänna Microsofts kund avtal i Microsoft 365 administrations Center**. Fyll i alla andra obligatoriska fält på sidan.
 
 4. Välj **Nästa: granska** och fortsätt sedan stegen för att skapa kund klienten. 
 
 >[!NOTE] 
 >Nya kunder kan inte göra ett nytt inköp förrän de accepterar Microsofts kund avtal.  
 
-   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="Ny kund":::
+   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="Skapa ny kund":::
 
 5. När du når **bekräftelse** skärmen i det nya kund arbets flödet sparar du kundens autentiseringsuppgifter. Du måste ange autentiseringsuppgifterna för din kund senare.
 
@@ -152,21 +152,21 @@ Använd följande steg för att bjuda in en ny kund att granska och godkänna å
 
 2. En mall för automatisk e-post kommer att skapas, inklusive text och en parametriserad URL som leder kunden till Microsoft 365 administrations Center.
 
-3. Du kan anpassa den automatiskt genererade e-postmallen och sedan välja **Kopiera till Urklipp** eller **Öppna i e-post** .
+3. Du kan anpassa den automatiskt genererade e-postmallen och sedan välja **Kopiera till Urklipp** eller **Öppna i e-post**.
 
-4. Använd den här e-postmallen för att bjuda in kunden att acceptera **åter försäljarens Relations** förfrågan och **Microsofts kund avtal** . (Obs! i e-postinbjudanen ser du till att partnern även innehåller den URL som angavs automatiskt samt de autentiseringsuppgifter för kunden som nyligen har skapats.)
+4. Använd den här e-postmallen för att bjuda in kunden att acceptera **åter försäljarens Relations** förfrågan och **Microsofts kund avtal**. (Obs! i e-postinbjudanen ser du till att partnern även innehåller den URL som angavs automatiskt samt de autentiseringsuppgifter för kunden som nyligen har skapats.)
 
-   :::image type="content" source="images/mca/createrelationship.png" alt-text="Ny kund":::
+   :::image type="content" source="images/mca/createrelationship.png" alt-text="skapa en relation":::
 
 5. Kunden tar emot inbjudan via e-post och klickar på URL: en för parametern. 
 
 6. Kunden använder autentiseringsuppgifter från partnern i e-postmeddelandet för att logga in på Microsoft 365 administrations Center.
 
-7. Kunden kontrollerar rutan för att godkänna **åter försäljarens relation** och **Microsofts kund avtal** . 
+7. Kunden kontrollerar rutan för att godkänna **åter försäljarens relation** och **Microsofts kund avtal**. 
 
 8. Inom samma URL kan kunden se en lista över olika partners som de arbetar med. De kan välja en partner för att se information.
 
-   :::image type="content" source="images/mca/accept.jpg" alt-text="Ny kund":::
+   :::image type="content" source="images/mca/accept.jpg" alt-text="Godkänna avtal":::
 
 
 ## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>Bjud in en befintlig kund för att granska och godkänna avtalet
@@ -183,14 +183,14 @@ Använd följande steg för att bjuda in en befintlig kund att granska och godk�
 
 5. I samma URL kan kunden se den konsoliderade listan över olika partners som de arbetar med. De kan välja en partner för att se information.
 
-   :::image type="content" source="images/mca/customeraccept.png" alt-text="Ny kund":::
+   :::image type="content" source="images/mca/customeraccept.png" alt-text="kund":::
 
 >[!NOTE]
 >I vissa fall kanske kunderna inte kan acceptera Microsofts kund avtal direkt. Mer information om de här situationerna finns i [två scenarier där du behöver intyga för kundens räkning](attest-acceptance-customer-agreement.md).
 
 ### <a name="historical-timeline-details"></a>Information om historisk tids linje
 
-| Date | Gränser | Information |
+| Datum | Gränser | Information |
 |------------|------------|--------------------------------|
 |01 augusti 2019| UX-förhandsgranskning som är tillgänglig i sandbox| Partner kan bekräfta kund godkännande av Microsofts kund avtal med hjälp av Partner Center-instrumentpanelen i sand Box miljön för KRYPTOGRAFI. Partner med åtkomst till CSP sandbox-miljön för hands versions ändringar av användar upplevelsen. Partner utan sandbox-åtkomst kan lära sig mer om ändringarna i det här avsnittet.|
 |September 03 2019|API Preview är tillgängligt i begränsat läge.|Partner kan bekräfta kund godkännande av Microsofts kund avtal med hjälp av API för partner Center i sand Box miljö. API-partner kan använda den här möjligheten för att förhandsgranska API-ändringar och börja arbeta med API-integrering för att stödja det nya avtalet.|

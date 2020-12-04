@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f94b11c4feb9cd1bedd97bebc537a504f9c4d127
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e3f04708d3b7e2c86c88541931c120a6649674fb
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531545"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570798"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Skapa ett partner Center-konto för att hantera nätverks förmåner och-kompetenser
 
@@ -25,25 +25,29 @@ ms.locfileid: "92531545"
 
 Innan du kan skapa ett konto på Partner Center måste företaget vara medlem i Microsoft Partner Network. Om du inte redan är medlem i nätverket kan du [ansluta nu](https://partner.microsoft.com/commercial#). När du har skapat ett partner Center-konto kan du titta på den här korta videon [identifiera din instrument panel](https://vimeo.com/290338211).
 
-## <a name="before-you-begin"></a>Innan du börjar
+## <a name="get-a-work-email-address-before-setting-up-a-partner-center-account"></a>Få en e-postadress till arbetet innan du konfigurerar ett partner Center-konto
+
+Företaget behöver köpa en e-postdomän för att kunna skapa e-postadresser för arbetet för dina anställda. Arbeta med IT-avdelningen för att köpa en e-postdomän eftersom det är en teknisk process. Använd det nya e-postmeddelandet för att konfigurera din Azure AD-klient och ditt partner Center-konto.
+
+## <a name="get-started"></a>Kom igång
 
 Om du vill skapa ett konto i Partner Center måste du ha till gång till följande information. Det kan vara bra att ta några minuter att samla in dessa objekt innan du börjar:
 
--   Global administratörs e-postadress för arbete.
+- Global administratörs e-postadress för arbete.
 
--   Om du inte är säker på vad ditt företags arbets konto är, kan du skapa ett när ditt företag inte har ett arbets konto, [men](azure-active-directory-tenants-and-partner-center.md) du kan skapa ett när du skapar kontot. 
+- Om du inte är säker på vad ditt företags arbets konto är, kan du skapa ett när ditt företag inte har ett arbets konto, [men](azure-active-directory-tenants-and-partner-center.md) du kan skapa ett när du skapar kontot. 
 
--   Företagets juridiska företags namn och adress.  
+- Företagets juridiska företags namn och adress.  
 
--   Myndighet för att signera juridiska avtal. Se till att du har behörighet att signera juridiska avtal på ditt företag när du blir ombedd att göra det under registrerings processen.
+- Myndighet för att signera juridiska avtal. Se till att du har behörighet att signera juridiska avtal på ditt företag när du blir ombedd att göra det under registrerings processen.
 
--   Namn och företagets e-postadress för den person som du vill ska fungera som din primära kontakt. För att säkerställa ditt företags säkerhet och sekretess skickar vi din primära kontakt för att verifiera att (1) han eller hon registrerat sig för ett partner Center-konto och att (2) den här e-postadressen tillhör ditt företag. När den primära kontakten har verifierat sin e-postadress kommer vi att fortsätta med vår granskning av den information som du har angett.
+- Namn och företagets e-postadress för den person som du vill ska fungera som din primära kontakt. För att säkerställa ditt företags säkerhet och sekretess skickar vi din primära kontakt för att verifiera att (1) han eller hon registrerat sig för ett partner Center-konto och att (2) den här e-postadressen tillhör ditt företag. När den primära kontakten har verifierat sin e-postadress kommer vi att fortsätta med vår granskning av den information som du har angett.
 
-Vi ska kontrol lera den här informationen när kontot skapas. 
+Vi ska kontrol lera den här informationen när kontot skapas. Information om verifierings processen finns i [konto verifiering](verification-responses.md)
  
 ## <a name="create-a-partner-center-account"></a>Skapa ett Partnercenter-konto
 
-1.  Granska informationen på **välkomst** sidan och välj sedan **Nästa** .
+1.  Granska informationen på **välkomst** sidan och välj sedan **Nästa**.
 
 2.  Logga in som global administratör till ditt företags arbets konto. Om du inte är säker på vad ditt företags arbets konto är, kan du gå [till ditt företags arbets konto och partner Center](azure-active-directory-tenants-and-partner-center.md).
 
@@ -51,7 +55,7 @@ Vi ska kontrol lera den här informationen när kontot skapas.
 
     Om ditt företag inte har ett arbets konto väljer du **skapa ett** för att ställa in det nu. När du har skapat ett arbets konto loggar du in med dina autentiseringsuppgifter för din globala administratör för det arbets konto som du nyss skapade.
 
-3.  Ange eller uppdatera företagets juridiska företags profil och primär kontakt information och välj sedan **Registrera nu** . 
+3.  Ange eller uppdatera företagets juridiska företags profil och primär kontakt information och välj sedan **Registrera nu**. 
 
     Den primära kontakten bör vara den person i företaget som vi kan kontakta om ditt program (det kan vara du eller någon annan person i företaget). Vi använder också den här informationen för att kontrol lera att personen fungerar på företaget och har registrerat sig för ett partner Center-konto.
 
@@ -62,9 +66,9 @@ Vi ska kontrol lera den här informationen när kontot skapas.
 
 5.  Kontrol lera att du har lagts till i administratörs Agent gruppen. För att slutföra konfigurationen av ditt konto, inklusive att lägga till andra användare, måste du ha administratörs agent behörighet. Följ dessa steg om du vill visa eller uppdatera dina behörigheter:
 
-    a. Välj ikonen **Inställningar** på [instrument panelen](https://partner.microsoft.com/dashboard/home**)för partner Center och välj sedan **användar hantering** .  
+    a. Välj ikonen **Inställningar** på [instrument panelen](https://partner.microsoft.com/dashboard/home**)för partner Center och välj sedan **användar hantering**.  
 
-    b. Välj ditt namn i listan användare och välj sedan **admin agent** om det inte redan är valt. Välj **Uppdatera** .  
+    b. Välj ditt namn i listan användare och välj sedan **admin agent** om det inte redan är valt. Välj **Uppdatera**.  
 
 ## <a name="view-mpn-account-details"></a>Visa information om MPN-kontot
 
@@ -91,16 +95,16 @@ Följ dessa steg om du vill visa konto information eller Visa och ladda ned MPN-
 
 2. En översikts sida visas. (Om du inte ser sidan Översikt väljer du **Översikt** på menyn till vänster-navigerings.)
 
-3. Välj kugg hjuls ikonen i det övre högra hörnet på instrument panelen och välj sedan **partner inställningar** . Då går du till sidan partner profil.
+3. Välj kugg hjuls ikonen i det övre högra hörnet på instrument panelen och välj sedan **partner inställningar**. Då går du till sidan partner profil.
 
 4. På sidan partner profil kan du se olika områden. Dessa inkluderar ett område för **juridiska företags profiler** och ett informations område för **program** .
 
-5. Leta upp fältet **MPN program status** under **program information** . Då visas en länk till ditt Microsoft Partner Networks avtal. Den beskriver också din aktuella status i programmet.
+5. Leta upp fältet **MPN program status** under **program information**. Då visas en länk till ditt Microsoft Partner Networks avtal. Den beskriver också din aktuella status i programmet.
 
 
    :::image type="content" source="images/accountsettings/mpn-program-info-download-mpn-agreement.png" alt-text="Bild som visar området program information på sidan partner profil med en röd ruta som markerar fältet MPN program status i det här området tillsammans med dess associerade länk till Microsoft Partner Network avtalet.":::
 
-6. Om du vill visa eller hämta det här avtalet väljer du **Microsoft Partner Network avtal** .  
+6. Om du vill visa eller hämta det här avtalet väljer du **Microsoft Partner Network avtal**.  
 
 > [!NOTE]
 > Du kan också använda stegen ovan för att visa eller ladda ned andra avtal för andra, registrerade program, till exempel Microsoft partner Agreement om du råkar registrera dig i CSP-programmet (Cloud Solution Provider).

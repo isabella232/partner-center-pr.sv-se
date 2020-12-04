@@ -1,20 +1,20 @@
 ---
-title: Lösnings bedömnings status för kanal incitaments plattform (CHIP)
+title: Status för utvärdering av CHIPs lösning
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Lär dig hur du hittar affärs möjlighets statusen för din lösnings bedömning i CHIP.
+description: Lär dig hur du hittar en status utvärderings affärs möjlighet i en kanal incitaments plattform (CHIP).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 035d500e41e3b28ac566ab42b3406c095dea7b11
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 8f453243d7d59fde84a6660f7160447fc05d68d1
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94422250"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570390"
 ---
 # <a name="find-your-solution-assessments-opportunity-status-on-chip"></a>Hitta affärs möjlighets status för lösnings bedömning på CHIP
 
@@ -62,7 +62,7 @@ Om du har ytterligare frågor eller vill skicka in ett support ärende klickar d
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Kontrol lera betalnings status i CHIP](chip-payment-status.md)
+- [Kontrollera betalningsstatus i CHIP](chip-payment-status.md)
 - [Support](report-problems-with-partner-center.md)
 
 .

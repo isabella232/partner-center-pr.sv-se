@@ -1,24 +1,24 @@
 ---
-title: Information om betalnings status och beräkning för lösnings utvärdering
+title: Betalnings status för lösnings utvärdering
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Lär dig hitta information om utvärderings betalningar för lösningen.
+description: Använd en kanal incitaments plattform (CHIP) för att hitta information om utvärderings möjligheter för lösningar, deras beräkningar och deras betalnings status.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 50aadcb667ff931e53b08a7902bb247798975e2d
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 6ab0cd74e3955a71383b2ba758dc76b1b37fdee6
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94422241"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570475"
 ---
 # <a name="solution-assessment-payment-status-and-calculation-info"></a>Information om betalnings status och beräkning för lösnings utvärdering
 
-Du kan granska betalnings status för en status för utvärdering av utvärderings möjligheter i CHIP. 
+Du kan granska betalnings status för en status för utvärdering av utvärderings möjligheter i CHIP.
 
 ## <a name="how-to-review-your-payment-status"></a>Granska din betalnings status
 
@@ -52,4 +52,4 @@ Affärs möjligheter måste ha följande attribut för att visas i den här rapp
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Problem med att komma åt kretsen](chip-access-trouble.md) 
+- [Problem med att komma åt CHIP](chip-access-trouble.md) 

@@ -2,21 +2,21 @@
 title: Visa intäkter i CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Rikt linjer för att Visa intäkter i CHIP
+description: Lär dig hur du visar ditt incitament och intäkter i verktyget kanal incitaments plattform (CHIP).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b860b8ccd932e23bd12e17e1441a3113cc29400f
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: a78fb9d13d149cba75fc616b93cdfe0b47dfafc4
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94422259"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570509"
 ---
-# <a name="view-earnings-in-chip"></a>Visa intäkter i CHIP
+# <a name="view-earnings-using-the-chip-tool"></a>Visa intäkter med hjälp av verktyget CHIP
 
 Du kan komma åt din incitaments instruktion via verktyget kanal incitaments plattform (CHIP).
 
@@ -41,4 +41,4 @@ Du kan komma åt din incitaments instruktion via verktyget kanal incitaments pla
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Kontrol lera betalnings status i CHIP](chip-payment-status.md)
+- [Kontrollera betalningsstatus i CHIP](chip-payment-status.md)

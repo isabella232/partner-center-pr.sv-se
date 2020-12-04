@@ -1,22 +1,22 @@
 ---
-title: Hantera användare och användar licenser för kund konton
+title: Hantera användare för kund konton
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig hur du hanterar användare för dina kunder i Partner Center, till exempel skapa användar konton, lägga till eller ta bort användar licenser, återställa användar lösen ord och ta bort eller återställa användar konton.
+description: Hantera användare för dina kunder i Partner Center – skapa användar konton, lägga till eller ta bort användar licenser, återställa lösen ord och ta bort eller återställa användar konton.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fb7906b006540ef939e443a21855488e9d2c36f9
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: cea1ac8bff9690edfe4b257c910fc3c335d2836c
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474078"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570747"
 ---
-# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Hantera användare och användar licenser för kund konton
+# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Hantera användare och användar licenser för kund konton 
 
 **Lämpliga roller**
 
@@ -72,25 +72,25 @@ Följande steg gäller för att lägga till eller ta bort användar licenser fö
 
 ## <a name="reset-a-users-password-for-a-customer"></a>Återställa en användares lösen ord för en kund
 
-1. Logga in på [instrument panelen](https://partner.microsoft.com/dashboard)för partner Center.
+1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard).
 
 2. Från menyn Partner Center väljer du **kunder** och väljer sedan en kund i listan.
 
-3.  I menyn kund väljer **du användare och licenser**. Välj användaren i listan.
+3. I menyn kund väljer **du användare och licenser**. Välj användaren i listan.
 
-4.  Längst ned på skärmen väljer du **Återställ lösen ord**. 
+4. Längst ned på skärmen väljer du **Återställ lösen ord**. 
 
-5.  Skicka det nya tillfälliga lösen ordet till användaren.
+5. Skicka det nya tillfälliga lösen ordet till användaren.
 
 <a href="" id="deleteuseraccounts"></a>
 
 ## <a name="delete-user-accounts-for-a-customer"></a>Ta bort användar konton för en kund
 
-1.  Från menyn **partner Center** väljer du **kunder**. Välj kund i listan.
+1. Från menyn **partner Center** väljer du **kunder**. Välj kund i listan.
 
-2.  I menyn kund väljer **du användare och licenser**. Välj användaren i listan.
+2. I menyn kund väljer **du användare och licenser**. Välj användaren i listan.
 
-3.  Längst ned på skärmen väljer du **ta bort användar konto**.
+3. Längst ned på skärmen väljer du **ta bort användar konto**.
 
 Om du behöver återställa det här kontot kan du hitta det på fliken **borttagna användare** i listan kund **användare och licenser** . Du har 30 dagar på dig att återställa en borttagen användare.
 
@@ -98,19 +98,18 @@ Om du behöver återställa det här kontot kan du hitta det på fliken **bortta
 
 ## <a name="restore-deleted-user-accounts"></a>Återställa borttagna användar konton
 
-1.  Från menyn **partner Center** väljer du **kunder** och väljer sedan kunden i listan.
+1. Från menyn **partner Center** väljer du **kunder** och väljer sedan kunden i listan.
 
-2.  Välj **användare och licenser**.
+2. Välj **användare och licenser**.
 
-3.  Välj fliken **borttagna användare ()** . Den bör läsa **(1)** eller större när det finns borttagna användare som kan återställas.
+3. Välj fliken **borttagna användare ()** . Den bör läsa **(1)** eller större när det finns borttagna användare som kan återställas.
 
-4.  Välj en eller flera av kryss rutorna för borttagna användare och välj sedan **Återställ**.
+4. Välj en eller flera av kryss rutorna för borttagna användare och välj sedan **Återställ**.
 
     Alla valda användar konton kommer att visas på sidan **användare och licenser** .
 
-## <a name="related-topics"></a>Relaterade ämnen
+## <a name="next-steps"></a>Nästa steg
 
+- [Tilldela eller återkalla licenser till flera användare](bulk-license-provisioning-for-multiple-users.md)
 
-[Tilldela eller återkalla licenser till flera användare](bulk-license-provisioning-for-multiple-users.md)
-
-[Skapa flera användare för ett kund konto](adding-multiple-users-to-a-customer-account.md)
+- [Skapa flera användare för ett kund konto](adding-multiple-users-to-a-customer-account.md)
