@@ -8,20 +8,23 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 11/19/2020
-ms.openlocfilehash: c3d811a32e2ddd9d7127fe331beb944e5e7b20fb
-ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
+ms.date: 12/03/2020
+ms.openlocfilehash: caf7527e82b6474c19714345ff9c3339a344704a
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "94932777"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570764"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
 Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här informationen regelbundet så återkom ofta!
 
-| **Kategori** | **Meddelanden november 2020** | **Meddelande** |
+| **Kategori** | **Meddelanden december 2020** | **Meddelande** |
 |---------|:---------|:---------|
+|Erbjudanden/marknader|[En uppdatering av amerikanska Microsoft 365 Business Voice med ett erbjudande om samtalsplan kommer snart](2020-december.md#2)|3 december|
+|Funktioner|[Nya uppdateringar: Uppdateringar av Partnercenter-API och förbättringar av användargränssnittet för valideringsprocessen för utbildningskunder](2020-december.md#1)|3 december|
+| **Kategori** | **Meddelanden november 2020** | **Meddelande** |
 |Funktioner|[Ny, enhetlig kontohanteringsupplevelse](2020-november.md#13)|18 november|
 |Erbjudanden/marknader|[Office 365 E1-erbjudande för medelstora företag (Latinamerika, Asien och stillahavsområdet och Indien)](2020-november.md#12)|18 november|
 |Funktioner|[Uppdateringar av Partnercenter-API och förbättringar av användargränssnittet (UI) för att styrka kundgranskning i vissa länder](2020-november.md#11)|17 november|
