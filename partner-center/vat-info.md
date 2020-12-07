@@ -1,19 +1,19 @@
 ---
-title: Mervärdes skatt (moms) information i Partner Center-registrering
+title: Momsinformation i Partnercenter-registrering
 description: Om du måste ange ett moms-ID-nummer under registrerings processen för partner Center kan du komma igång med den här informationen.
 ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
-ms.date: 10/31/2018
-ms.openlocfilehash: e455110d0ef631c4eb4eaefd67bd209c7f1b1abf
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.date: 12/04/2020
+ms.openlocfilehash: 2f46213cb72717c36461f58c159fa6a5803e3bb2
+ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "92531825"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "96755647"
 ---
-# <a name="vat-info"></a>MOMS information
+# <a name="value-added-tax-vat-information"></a>Mervärdes skatt (moms) information
 
 **Gäller för:**
 
@@ -25,6 +25,24 @@ Om du måste ange ett moms-ID-nummer under registrerings processen för partner 
 ## <a name="understanding-vat-numbers"></a>Förstå moms nummer
 
 Ett mervärdes skatt (moms) är en identifierare som används för länder eller regioner inom EU. Mer information finns i Europeiska unionens officiella [kvartals webbplats](http://ec.europa.eu/taxation_customs/vies/vieshome.do).
+
+## <a name="location-specific-vat-information"></a>Platsspecifika moms information
+
+Följande uppgifter är unika för de länder eller regioner som anges nedan.
+
+### <a name="european-union"></a>Europeiska unionen
+
+I Europeiska unionens medlems stater måste partner ange sitt giltiga moms-ID-nummer för omvänd fakturering och korrekt fakturering. MOMS numret måste godkännas som giltigt.
+
+Microsoft stöder inte kredit och åter betalning. Innan du säljer några prenumerationer måste du [Registrera ditt moms-ID-nummer](organization-tax-info.md) i Partner Center.
+
+### <a name="south-africa"></a>Sydafrika
+
+Microsoft använder nu standard moms på digitalt innehåll och tjänster som köpts av partner i Sydafrika. Om du vill undanta MOMSen från dina fakturor och hantera dem själv måste du uppdatera din partner fakturerings profil genom [att skicka Microsoft ditt moms-ID-nummer](organization-tax-info.md).
+
+### <a name="turkey"></a>Turkiet
+
+Microsoft tillämpar nu standard MOMSen på digitalt innehåll och tjänster som köpts av partner i Turkiet. Om du vill undanta MOMSen från dina fakturor och hantera dem själv måste du uppdatera din partner fakturerings profil genom [att skicka Microsoft ditt moms-ID-nummer](organization-tax-info.md).
 
 ## <a name="accepted-formats-for-vat-numbers"></a>Godkända format för moms nummer
 
