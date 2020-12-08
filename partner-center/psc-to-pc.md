@@ -8,13 +8,13 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 12/04/2020
-ms.openlocfilehash: 5a1b27f108440fc9adfc2cefefd2e4c2bf79ff48
-ms.sourcegitcommit: 558533fb39b13aefc3ab2b015145a908f86f8d7d
+ms.date: 12/07/2020
+ms.openlocfilehash: bbd2d1035bdcde691b0db620949d0e973667627b
+ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "96612830"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "96776924"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guide till samförsäljning i Partner Center (PC) för partners som migrerar från partner Sales Connect (PSC)
 
@@ -66,22 +66,22 @@ Välj alternativet **hänvisningar** från menyn i den vänstra navigerings meny
   >[!Note]
   > Du kan behöva logga ut från Partner Center och logga in igen för att uppdatera dina autentiseringsuppgifter för åtkomst till sidorna med referenser.
 
-Om du inte ser alternativet " **referenser** " på menyn för partner Center eller hänvisnings sidor kontaktar du företagets [globala administratör](permissions-overview.md) och ber dem att ge dig åtkomst till alternativet för **referenser** och relaterat utrymme. 
+Om du inte ser alternativet " **referenser** " på menyn för partner Center eller hänvisnings sidor kontaktar du företagets [konto administratör](permissions-overview.md) och ber dem att ge dig åtkomst till alternativet för **referenser** och relaterat utrymme.
 
-Så här hittar du företagets globala administratör:
+Så här hittar du ditt företags konto administratör:
 
 1. Välj **konto inställningar** från kugg hjuls ikonen längst upp till höger i instrument panelen för partner Center.
 
-1. Välj **användar hantering** från den andra menyn i den vänstra navigerings menyn. 
+1. Välj **användar hantering** från den andra menyn i den vänstra navigerings menyn.
 
-1. Välj den nedrullningsbara menyn **filter** högst upp i listan användare. Ändra alternativet till **Global administratör**.
+1. Välj den nedrullningsbara menyn **filter** högst upp i listan användare. Ändra alternativet till **konto administratör**.
 
-   På sidan visas alla globala administratörer med deras respektive e-postadresser. Skicka ett e-postmeddelande till en av dem och be dem att tilldela rollen som referens administratör för ditt arbets konto.
+   På sidan visas alla konto administratörer med deras respektive e-postadresser. Skicka ett e-postmeddelande till en av dem och be dem att tilldela rollen som referens administratör för ditt arbets konto.
 
   :::image type="content" source="images/pscmigration/account-admin.png" alt-text="Bild som visar konto administratörer på sidan användar hantering för partner inställningar.":::
 
 >[!Important]
->- Om rollen bara omfattar hantering av användare i PSC kan du be ditt företags globala administratör att tilldela dig rollen som [konto administratör](permissions-overview.md#manage-mpn-membership-and-your-company) i Partner Center. 
+>- Om din roll bara omfattar hantering av användare i PSC, be ditt företags konto administratör att tilldela dig rollen som [konto administratör](permissions-overview.md#manage-mpn-membership-and-your-company) i Partner Center. 
 >- Om din roll även omfattar att hantera samförsäljnings möjligheter, ber vi dig tilldela rollen som [referens administratör](permissions-overview.md#manage-referrals) .
 > - Det är en bra idé att även utse ett lead för ändrings hantering bland PSC-administratörerna. Om du gör det hindras alla PSC-administratörer från att kontakta sig individuellt för partner Center-konto administratörer. I stället kan ett lead för ändrings hantering vara den primära personen som arbetar med partner Center-kontots administratör.
 
@@ -129,7 +129,7 @@ Ibland kan migreringen misslyckats och resultera i fel. Här följer några orsa
 
 När du är klar med migreringen av användare kan du använda följande vägledning för att bestämma strategin för migreringen:
 
-Om ditt företag har ett PDM – när ditt partner Center-konto har kon figurer ATS och dina användare har flyttat och har roller och behörigheter, kan du flytta dina samförsäljnings aktiviteter till Partner Center. Informera PDM för att göra växeln i stället för att vänta tills migreringen har slutförts, vilket gör det möjligt för alla nya avtal att flöda till Partner Center.
+Om ditt företag har en partner utvecklings chef (PDM) – när ditt partner Center-konto har kon figurer ATS och dina användare har flyttat och har roller och behörigheter, kan du flytta dina samförsäljnings aktiviteter till Partner Center. Informera PDM för att göra växeln i stället för att vänta tills migreringen har slutförts, vilket gör det möjligt för alla nya avtal att flöda till Partner Center.
 
 >[!Note]
 >När du har gjort den här växeln kommer du bara att kunna agera på befintliga aktiva avtal i PSC. Du kan varken skapa nya eller få några avtal från Microsofts säljare i PSC.
@@ -137,7 +137,7 @@ Om ditt företag har ett PDM – när ditt partner Center-konto har kon figurer 
 Om ditt företag inte har en PDM – se till att alla användar konton är inställda och verifierade av alla användare. Du kommer att meddelas via ett e-postmeddelande och en banderoll i PSC om det exakta datumet när du kan påbörja samförsäljning i Partner Center. Kom ihåg att du fortfarande måste hantera befintliga aktiva avtal i PSC.
 
 >[!Important]
->Aktiva avtal kommer inte att migreras till datorn. Du har till och med den 31 december 2020 att stänga och registrera avtalen.
+>Aktiva avtal kommer inte att migreras till datorn. Du har fram till den 31 mars 2021 att stänga och registrera avtalen.
 
 ## <a name="next-steps-for-psc-admins-psc-deal-managers-and-psc-sellers"></a>Nästa steg för PSC-administratörer, PSC-chefer och PSC-säljare
 
@@ -263,7 +263,7 @@ Du kan kontakta dina administratörer på sidan "ingen åtkomst" för att hämta
 
 ### <a name="2---who-can-grant-me-access-to-the-referrals-section-in-partner-center"></a>2 – vem kan ge mig åtkomst till avsnittet referenser i Partner Center?
 
-Din [konto administratör](permissions-overview.md#manage-mpn-membership-and-your-company) kan ge dig åtkomst till fliken hänvisningar. Om du vill hitta din globala administratör väljer du **konto inställningar** från kugg hjuls ikonen längst upp till höger i [instrument panelen](https://partner.microsoft.com/dashboard)för partner Center. Välj sedan **användar hantering** från den andra nivån i det vänstra navigerings fältet. Längst upp i listan användare väljer du List rutan **filter** och ändrar alternativet till **Global administratör**. På sidan visas alla globala administratörer med deras respektive e-postadresser. Be en av dem att tilldela rollen som referens administratör för ditt arbets konto.
+Din [konto administratör](permissions-overview.md#manage-mpn-membership-and-your-company) kan ge dig åtkomst till fliken hänvisningar. Om du vill hitta din konto administratör väljer du **konto inställningar** från kugg hjuls ikonen längst upp till höger i [instrument panelen](https://partner.microsoft.com/dashboard)för partner Center. Välj sedan **användar hantering** från den andra nivån i det vänstra navigerings fältet. Längst upp i listan användare väljer du List rutan **filter** och ändrar alternativet till **konto administratör**. På sidan visas alla konto administratörer med deras respektive e-postadresser. Be en av dem att tilldela rollen som referens administratör för ditt arbets konto.
 
 ### <a name="3---the-new-deal-button-is-greyed-out-for-our-account-what-should-i-do-to-start-creating-deals"></a>3 – knappen + ny affär är nedtonad för vårt konto. Vad ska jag göra om jag vill börja skapa avtal?
 
