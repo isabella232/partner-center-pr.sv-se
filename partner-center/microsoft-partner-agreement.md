@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: e706c85a31967c163c2b147b0f40bfc4c99f67e2
-ms.sourcegitcommit: 5cbea13b9f5b34e8588382caab9a08537b4ca36f
+ms.openlocfilehash: 7f9ab107a622cfe8cc7ef3f1d1d2877810f749ed
+ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/17/2020
-ms.locfileid: "92531985"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "96869341"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Lär dig mer om Microsoft partner Agreement (MPA) för CSP-programpartner
 
@@ -30,22 +30,26 @@ Om du vill fortsätta delta i CSP-programmet måste du logga Microsoft partner A
 
 ## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>Kontrol lera att ditt MPN-ID är aktivt och migrerat till Partner Center
 
+1. Om du inte har migrerat ditt MPN-konto från partner Membership Center (PMC) till Partner Center, måste du [migrera ditt MPN-konto till Partner Center](move-pmc-pc-map.md). Du kommer att slutföra resten av stegen när du har slutfört migreringen. 
+
 1. Logga in på Partner Center med dina MPN-kontoautentiseringsuppgifter.
  
 1. Välj [partner profil](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile)från **Inställningar** .
 
 1. Se avsnittet **program information** . Om MPN program status är **aktiv** är du en aktiv MPN-partner i Partner Center.
  
-1. Om status för MPN program **nekas/avvisas** eller **väntar** , har konto verifieringen misslyckats. Läs [verifierings processen](verification-responses.md) för att ta reda på hur du kan lösa verifierings problemet.
+1. Om status för MPN program **nekas/avvisas** eller **väntar**, har konto verifieringen misslyckats. Läs [verifierings processen](verification-responses.md) för att ta reda på hur du kan lösa verifierings problemet.
 
-1. Om du inte ser status för MPN-kontot eller om du inte har migrerat ditt MPN-konto från partner medlemskaps Center (PMC) till Partner Center, måste du [migrera ditt MPN-konto till Partner Center](move-pmc-pc-map.md).
+
 
 >[!NOTE]
 >Autentiseringsuppgifterna för ditt MPN-ID kan inte vara samma som dina autentiseringsuppgifter för ditt CSP-konto.
 
 ## <a name="confirm-you-are-enrolled-as-a-csp-indirect-reseller"></a>Bekräfta att du har registrerats som en indirekt CSP-återförsäljare
 
-1. Logga in på Partner Center med autentiseringsuppgifterna för ditt CSP-konto.
+1. Om du inte redan har registrerats som en [indirekt åter försäljare för CSP](enrolling-in-the-csp-program.md)  i Partner Center, måste du göra det först. Slutför resten av stegen efter registreringen som indirekt åter försäljare av CSP i Partner Center.
+
+1. Logga in på Partner Center med autentiseringsuppgifterna för ditt globala administratörs konto för CSP.
 
 1. Välj [partner profil](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)från **Inställningar** .
 
@@ -57,7 +61,7 @@ Om du vill fortsätta delta i CSP-programmet måste du logga Microsoft partner A
  
 1. Om den indirekta åter försäljarens status **avvisas** eller **nekas** , har konto verifieringen misslyckats. Läs [verifierings processen](verification-responses.md) för att ta reda på hur du kan lösa verifierings problemet.
 
-1. Om du tidigare har registrerat dig för partner Center som en indirekt åter försäljare godkänner du Microsofts partner avtal i Översikt över instrument panelen för partner Center med hjälp av autentiseringsuppgifter för global administratör. Du kan kontrol lera om Microsoft partner Agreement redan har signerats från information om [partner profil](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) **program** eller om meddelandets informations meddelande på sidan CSP-översikt.
+1. Om du tidigare har flyttat till Partner Center som en indirekt åter försäljare accepterar du Microsofts partner avtal i Översikt över instrument panelen för partner Center med hjälp av autentiseringsuppgifter för global administratör. Du kan kontrol lera om Microsoft partner Agreement redan har signerats från information om [partner profil](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) **program** eller om meddelandets informations meddelande på sidan CSP-översikt.
 
 Kom ihåg att acceptera begäran om CSP-relation med den indirekta providern.
 
@@ -65,23 +69,23 @@ Kom ihåg att acceptera begäran om CSP-relation med den indirekta providern.
 
 För att se om du har signerat MPA:
 
-1. Som global administratör för ditt företag loggar du in på [instrument panelen](https://partner.microsoft.com/dashboard/home)för partner Center.
+ Som global administratör för ditt företag går du till din [CSP-översikt](https://partner.microsoft.com/pcv/dashboard/overview) och kontrollerar om du vill se den gröna banderollen som meddelar dig att du har accepterat MPa.
 
-2. Gå till din **CSP-översikt** och kontrol lera att du ser den gröna banderollen som meddelar dig att du har accepterat MPa.
  
 :::image type="content" source="images/mpagreen.png" alt-text="Grön banderoll som visar MPA-godkännande":::
 
 >[!NOTE]
 >Endast den globala administratören i företaget kan visa och signera MPA. Om du inte är den globala administratören måste du be din globala administratör att verifiera MPA.
 
-## <a name="microsoft-customer-agreement"></a>Microsoft-kundavtal
 
-Kund godkännande av Microsofts kund avtal (MCuA) krävs i CSP för köp av Azure-tjänster via en Azure-prenumeration och för alla andra erbjudanden i CSP som köpts efter 31 januari 2020. Mer information finns i [bekräfta kund godkännande av Microsofts kund avtal](confirm-customer-agreement.md).
+## <a name="downloadable-step-by-step-guides"></a>Nedladdnings bara steg-för-steg-guider
 
+1. [Migrera från PMC till Partnercenter och godkänn Microsoft-partneravtalet](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
+
+2. [Registrering för MPN-medlemmar och Microsoft-partneravtalet](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
+
+3. [Kontrollera Microsofts-partneravtalets godkännandestatus](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
+ 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Migrera från PMC till Partnercenter och godkänn Microsoft-partneravtalet](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
-
-- [Registrering för MPN-medlemmar och Microsoft-partneravtalet](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
-
-- [Kontrollera Microsofts-partneravtalets godkännandestatus](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
+- [Gå med i Cloud Solution Provider-programmet](enrolling-in-the-csp-program.md)
