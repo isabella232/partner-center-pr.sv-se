@@ -1,7 +1,7 @@
 ---
 title: Planeringstjänster för Software Assurance
 ms.topic: article
-ms.date: 06/03/2020
+ms.date: 12/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Lär dig hur du registrerar och kvalificerar Microsoft Planning Services-engagemang så att du kan leverera utbildning och andra tjänster till kunder med Software Assurance.
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4c61a649da7e4983be1a478fdd963ba937e7783b
-ms.sourcegitcommit: 2254b8c18c34254ed14db55ec20dcb2ccb287663
+ms.openlocfilehash: 03292d00864e30fd4941320748aef1590c9e2a80
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "92531241"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926652"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Software Assurance Planning Services i Partner-centrum
 
@@ -42,10 +42,9 @@ I den här artikeln förklaras hur du Slutför varje steg.
 
 ## <a name="verify-eligibility-new-partners"></a>Verifiera berättigande (nya partner)
 
-Innan partner företag och konsulter kan registrera sig i något av tjänsterna för planerings tjänster måste de uppfylla båda utbildnings kraven för efterlevnad och kompetens krav:
+Innan partner företag och konsulter kan registrera sig i ett av planerings tjänst erbjudandena måste de uppfylla kompetens krav, enligt följande:
 
-- **Utbildnings krav för efterlevnad.** Utbildnings kraven för efterlevnad av programmet måste vara uppfyllda på företags nivå.
-- **Kompetens krav.** Kompetens krav är särskilda för det engagemang som ska levereras. Ditt företag kan till exempel vara registrerat i DDPS-erbjudandet (Desktop Deployment Planning Services). Men du kommer bara att vara berättigad att leverera ett enskilt engagemang i DDPS-erbjudandet om ditt företag också har en kvalificerings kompetens för det aktuella åtagandet.
+**Kompetens krav.** Kompetens krav är särskilda för det engagemang som ska levereras. Ditt företag kan till exempel vara registrerat i DDPS-erbjudandet (Desktop Deployment Planning Services). Men du kommer bara att vara berättigad att leverera ett enskilt engagemang i DDPS-erbjudandet om ditt företag också har en kvalificerings kompetens för det aktuella åtagandet.
 
 >[!NOTE]
 > Om du vill veta mer om berättigande krav för särskilda åtaganden kan du [Visa krav för att planera tjänster](software-assurance-dps-requirements.md).
@@ -53,8 +52,8 @@ Innan partner företag och konsulter kan registrera sig i något av tjänsterna 
 För att hjälpa dig att kontrol lera att ditt företags behörighet är att registrera dig i ett särskilt planerings tjänst engagemang:
 
 1. Logga in på [instrument panelen](https://partner.microsoft.com/dashboard/home)för partner Center.
-2. Välj **MPN** på menyn och välj sedan **program** .
-3. Välj **Software Assurance-registrering** .
+2. Välj **MPN** på menyn och välj sedan **program**.
+3. Välj **Software Assurance-registrering**.
 4. Välj fliken **planerings tjänst program registrering** överst på sidan. Du ser en grön bock bredvid eventuella krav eller kompetenser som du redan har slutfört.
 
 ## <a name="enroll-new-partners"></a>Registrera (nya partner)

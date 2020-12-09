@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a4472702104d3d4596d57633e80b8e652c624297
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 98ad8e3f78b8181013b21d6146744337de6976bd
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92531025"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926669"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Cloud Solution Provider program regionala marknader och valutor där du kan sälja CSP-erbjudanden
 
@@ -43,23 +43,23 @@ Om ditt företags plats finns i listan nedan kan du sälja CSP-erbjudanden till 
 
 | Land/region           | Valuta |
 | ------------------------ |:--------:|
-| Angola                   |          |
+| Angola                   |   USD    |
 | Benin                    |   USD    |
-| Botswana                 |          |
+| Botswana                 |   USD    |
 | Burkina Faso             |   USD    |
 | Burundi                  |   USD    |
 | Kamerun                 |   USD    |
-| Cabo Verde               |          |
+| Cabo Verde               |   USD    |
 | Centralafrikanska Republiken |   USD    |
 | Tchad                     |   USD    |
 | Komorerna                  |   USD    |
 | Kongo                    |   USD    |
 | Kongo (DR)              |   USD    |
-| Côte d'Ivoire            |          |
+| Côte d'Ivoire            |   USD    |
 | Djibouti                 |   USD    |
 | Ekvatorialguinea        |   USD    |
 | Eritrea                  |   USD    |
-| Etiopien                 |          |
+| Etiopien                 |   USD    |
 | Franska Polynesien         |   USD    |
 | Gabon                    |   USD    |
 | Gambia                   |   USD    |
@@ -80,7 +80,7 @@ Om ditt företags plats finns i listan nedan kan du sälja CSP-erbjudanden till 
 | Réunion                  |   USD    |
 | Rwanda                   |   USD    |
 | São Tomé och Príncipe    |   USD    |
-| Senegal                  |          |
+| Senegal                  |   USD    |
 | Seychellerna               |   USD    |
 | Sierra Leone             |   USD    |
 | Somalia                  |   USD    |
@@ -88,8 +88,8 @@ Om ditt företags plats finns i listan nedan kan du sälja CSP-erbjudanden till 
 | Saint Helena, Ascension, Tristan da Cunha|    USD   |
 | Tanzania                 |   USD    |
 | Togo                     |   USD    |
-| Uganda                   |          |
-| Zambia                   |          |
+| Uganda                   |   USD    |
+| Zambia                   |   USD    |
 |
 
 ## <a name="asia-and-pacific-region-and-market"></a>Asien och Stilla havs området och marknaden
@@ -99,17 +99,17 @@ Om ditt företags plats finns i listan nedan kan du sälja CSP-erbjudanden till 
 | Land/region     | Valuta |
 | --------------     |:--------:|
 |  Bangladesh        |   USD    |
-|  Bhutan            |          |
+|  Bhutan            |   USD    |
 |  Brunei Darussalam |   USD    |
-|  Kambodja          |          |
+|  Kambodja          |   USD    |
 |  Hongkong         |   USD    |
 |  Indonesien         |   USD    |
-|  Laos              |          |
+|  Laos              |   USD    |
 |  Macao             |   USD    |
 |  Malaysia          |   USD    |
-|  Maldiverna          |          |
-|  Myanmar           |          |
-|  Nepal             |          |
+|  Maldiverna          |   USD    |
+|  Myanmar           |   USD    |
+|  Nepal             |   USD    |
 |  Filippinerna       |   USD    |
 |  Singapore         |   USD    |
 |  Sri Lanka         |   USD    |
@@ -179,9 +179,9 @@ Om ditt företags plats finns i listan nedan kan du sälja CSP-erbjudanden till 
 |  Österrike        |   EUR    |
 |  Belgien        |   EUR    |
 |  Bouvetön  |   EUR    |
-|  Bulgarien       |          |
+|  Bulgarien       |   EUR    |
 |  Kroatien        |   EUR    |
-|  Cypern         |          |
+|  Cypern         |   EUR    |
 |  Tjeckien |   EUR    |
 |  Danmark        |   DKK    |
 |  Estland        |   EUR    |
@@ -191,7 +191,7 @@ Om ditt företags plats finns i listan nedan kan du sälja CSP-erbjudanden till 
 |  Tyskland        |   EUR    |
 |  Gibraltar      |   GBP    |
 |  Grekland         |   EUR    |
-|  Grönland      |          |
+|  Grönland      |   EUR    |
 |  Guernsey       |   GBP    |
 |  Ungern        |   EUR    |
 |  Island        |   EUR    |
@@ -203,8 +203,8 @@ Om ditt företags plats finns i listan nedan kan du sälja CSP-erbjudanden till 
 |  Liechtenstein  |   EUR    |
 |  Litauen      |   EUR    |
 |  Luxemburg     |   EUR    |
-|  Malta          |          |
-|  Monaco         |          |
+|  Malta          |   EUR    |
+|  Monaco         |   EUR    |
 |  Nederländerna    |   EUR    |
 |  Norge         |   NOK    |
 |  Polen         |   EUR    |
@@ -278,13 +278,13 @@ Om ditt företags plats finns i listan nedan kan du sälja CSP-erbjudanden till 
 |  Falklandsöarna|  USD    |
 |  Franska Guyana  |   USD    |
 |  Grenada        |   USD    |
-|  Guadeloupe     |          |
+|  Guadeloupe     |   USD    |
 |  Guatemala      |   USD    |
 |  Guyana         |   USD    |
 |  Haiti          |   USD    |
 |  Honduras       |   USD    |
 |  Jamaica        |   USD    |
-|  Martinique     |          |
+|  Martinique     |   USD    |
 |  Mexico         |   USD    |
 |  Montserrat     |   USD    |
 |  Nicaragua      |   USD    |
@@ -315,9 +315,9 @@ Om ditt företags plats finns i listan nedan kan du sälja CSP-erbjudanden till 
 
 |  Land/region | Valuta |
 |  -------------- |:--------:|
-|  Afghanistan    |          |
+|  Afghanistan    |   USD    |
 |  Albanien        |   USD    |
-|  Algeriet        |          |
+|  Algeriet        |   USD    |
 |  Armenien        |   USD    |
 |  Azerbajdzjan     |   USD    |
 |  Bahrain        |   USD    |
@@ -328,21 +328,21 @@ Om ditt företags plats finns i listan nedan kan du sälja CSP-erbjudanden till 
 |  Georgia        |   USD    |
 |  Irak           |   USD    |
 |  Israel         |   USD    |
-|  Jordanien         |          |
+|  Jordanien         |   USD    |
 |  Kazakstan     |   USD    |
 |  Kosovo         |   USD    |
 |  Kuwait         |   USD    |
 |  Kirgizistan     |   USD    |
 |  Libanon        |   USD    |
 |  Lesotho        |   USD    |
-|  Libyen          |          |
+|  Libyen          |   USD    |
 |  Republiken Makedonien|   |
 |  Mauretanien     |   USD    |
-|  Moldavien        |          |
-|  Mongoliet       |          |
-|  Montenegro     |          |
+|  Moldavien        |   USD    |
+|  Mongoliet       |   USD    |
+|  Montenegro     |   USD    |
 |  Marocko        |   USD    |
-|  Moçambique     |          |
+|  Moçambique     |   USD    |
 |  Oman           |   USD    |
 |  Pakistan       |   USD    |
 |  Ockuperade palestinska territoriet |        |
@@ -351,15 +351,15 @@ Om ditt företags plats finns i listan nedan kan du sälja CSP-erbjudanden till 
 |  Serbien         |   USD    |
 |  Sydafrika   |   USD    |
 |  Swaziland      |   USD    |
-|  Tadzjikistan     |          |
+|  Tadzjikistan     |   USD    |
 |  Tunisien        |   USD    |
 |  Turkiet         |   USD    |
-|  Turkmenistan   |          |
+|  Turkmenistan   |   USD    |
 |  Ukraina        |   USD    |
 |  Förenade Arabemiraten| USD |
-|  Uzbekistan     |          |
+|  Uzbekistan     |   USD    |
 |  Jemen          |   USD    |
-|  Zimbabwe       |          |
+|  Zimbabwe       |   USD    |
 |
 
 ## <a name="new-zealand-region-and-market"></a>Nya Zeelands region och marknad

@@ -1,7 +1,7 @@
 ---
 title: Program vara för utbildnings kuponger för Software Assurance
 ms.topic: article
-ms.date: 06/12/2020
+ms.date: 12/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Lär dig hur du registrerar dig i programmet för utbildnings kuponger för Software Assurance så att du kan kompensera för att leverera utbildning och planera till företags kunder.
@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 9470918fd868d9e8759f62b37e0bf30a21eaf540
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 786f69858dc90a9c0993e88c4900a647a07ba81f
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "92531212"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926615"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>SATV-programmet (Software Assurance Training Voucher) i Partner-centrum
 
@@ -45,11 +45,11 @@ Du kan kontrol lera företagets kvalifikationer, inklusive tillämpliga krav på
 
 ## <a name="enroll-in-the-training-program"></a>Registrera dig i utbildnings programmet
 
-När ditt företag uppfyller berättigandekraven och dina programdeltagare är klara med efterlevnadsutbildningen, är du redo att signera Software Assurance Training Voucher-avtalet och registrera dig. Se till att granska alla [principer för SATV-program](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)och följ sedan anvisningarna i [steg 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) i arbets flödet för att slutföra registrerings processen för SATV i Partner Center.
+När ditt företag uppfyller kraven för behörighet är det dags att signera program varans program avtal för Software Assurance-utbildning och registrera dig. Se till att granska alla [principer för SATV-program](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)och följ sedan anvisningarna i [steg 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) i arbets flödet för att slutföra registrerings processen för SATV i Partner Center.
 
 
 ## <a name="confirm-course-eligibility"></a>Bekräfta kurs berättigande
-När de har registrerats i SATV-programmet kan partners erbjuda utbildningar för SATV-berättigade kurser, för vilka kunder kan använda sina utbildnings kuponger. Berättigade kurser visas i SATV- [katalogen för kurs berättigande](https://savl-catalog.microsoft.com/). Granska [steg 3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) i arbets flödet för att förstå vilka typer av kurser som är SATV.
+När de har registrerats i SATV-programmet kan partners erbjuda utbildningar för SATV-berättigade kurser, för vilka kunder kan använda sina utbildnings kuponger. Berättigade kurser visas i SATV-katalogen för kurs berättigande. Granska [steg 3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) i arbets flödet för att förstå vilka typer av kurser som är SATV eller för att hämta en länk till kursens Berättiganderegler.
 
 ## <a name="have-customer-create-and-assign-voucher"></a>Låt kunden skapa och tilldela verifikation
 
