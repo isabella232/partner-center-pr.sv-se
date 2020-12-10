@@ -9,12 +9,12 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c694f48fb62fc031bfaf78be6a1c4e43629a7adb
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 13fdeb01ecd73dc1a63d174a4ad5cb8e1bdc813a
+ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "92531225"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "97011510"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Återställa administratörs behörighet för en kunds Azure CSP-prenumeration  
 
@@ -29,7 +29,7 @@ Som CSP-partner förväntar sig kunderna ofta att du ska hantera sin Azure-anvä
 
 Det finns två nivåer av administratörs behörighet för Azure i CSP.
 
-**Administratörs behörighet för klient organisation** ( **delegerad administratörs behörighet** ) – CSP-partner får de här privilegierna när du skapar en CSP-återförsäljares relation med kunder. Detta ger CSP-partner åtkomst till sina kunders klienter, vilket gör att de kan utföra administrativa funktioner, till exempel lägga till/hantera användare, återställa lösen ord och hantera användar licenser.
+**Administratörs behörighet för klient organisation** (**delegerad administratörs behörighet**) – CSP-partner får de här privilegierna när du skapar en CSP-återförsäljares relation med kunder. Detta ger CSP-partner åtkomst till sina kunders klienter, vilket gör att de kan utföra administrativa funktioner, till exempel lägga till/hantera användare, återställa lösen ord och hantera användar licenser.
 
 **Administratörs behörighet på prenumerations nivå** – CSP-partners får de här behörigheterna när de skapar Azure CSP-prenumerationer för sina kunder. Med dessa behörigheter får CSP-partner fullständig åtkomst till dessa prenumerationer, vilket gör att de kan etablera och hantera Azure-resurser.
 
@@ -47,7 +47,7 @@ Du måste arbeta med din kund för att återställa delegerade administratörs b
 
 ## <a name="adding-the-admin-agents-group-as-an-owner-for-the-azure-csp-subscription"></a>Lägga till gruppen admin agents som ägare för Azure CSP-prenumerationen
 
-Kunden måste lägga till din administratörs agent grupp som ägare av Azure CSP-prenumerationen.
+Kunden måste lägga till din administratörs agent grupp som ägare av en Azure CSP-prenumeration, en resurs grupp eller en resurs. 
 
 1. Använd antingen PowerShell-konsolen eller PowerShell-integrering (Integrated Scripting Environment). Se till att AzureAD-moduler är installerade.
 
@@ -67,13 +67,20 @@ Kunden måste lägga till din administratörs agent grupp som ägare av Azure CS
 4. Användaren med ägar åtkomst till Azure CSP-prenumerationen loggar in på Azure med sina autentiseringsuppgifter.
 
    ```powershell
-   Connect-AzAccount
+   Connect-AzureRmAccount
    ```
 
-5. Hon kan sedan lägga till din administratörs agent grupp som ägare till Azure-prenumerationen för CSP.
+5. Hon kan sedan lägga till din administratörs agent grupp som ägare till CSP: n Azure-prenumeration, resurs grupp eller resurs genom att använda en korrekt resurs-URI i omfattnings parametern. 
 
     ```powershell
-    New-AzureRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
+    # Grant owner role at subscription level
+    New-AzureRmRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
+
+    # Grant owner role at resource group level
+    New-AzureRmRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>/resourceGroups/<Resource group name>"
+
+    # Grant owner role at resource level
+    New-AzureRmRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "<Resource Uri>"
     ```
 
 ## <a name="next-steps"></a>Nästa steg

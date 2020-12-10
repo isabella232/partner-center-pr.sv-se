@@ -9,18 +9,18 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 55046b21e70ad04f47bf4cd191736aa12335060e
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 0a59849fdf1937c1a4ec5d619a95f9321fe58fa0
+ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556454"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "97011539"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Hantera ditt partner Center-konto – företags profil, bank information, roller, behörigheter med mera
 
 **Lämpliga roller** – global administratör, MPN-administratör
 
-Det konto som du skapar i partner centret när du registrerar dig är ditt e-post och din företags information. När du har skapat ett konto slutför du konfigurationen av företagets fullständiga profil, inklusive support information, fil skatte undantag om det behövs och primär kontakt information. Ditt företags konto innehåller också användar konton för alla som kommer att använda Partner Center för att lägga till eller hantera kunder, Sälj prenumerationer, arbeta med fakturering och fakturering, skapa affärs profiler, hantera hänvisningar, arbeta med stimulans program och tillhandahålla support.
+Det konto som du skapar i Partner Center när du registrerar dig är ditt e-post och din företags information. När du har skapat ett konto slutför du konfigurationen av företagets fullständiga profil, inklusive support information, fil skatte undantag om det behövs och primär kontakt information. Ditt företags konto innehåller också användar konton för alla som kommer att använda Partner Center för att lägga till eller hantera kunder, Sälj prenumerationer, arbeta med fakturering och fakturering, skapa affärs profiler, hantera hänvisningar, arbeta med stimulans program och tillhandahålla support.
 
 Se även artiklar [Bjud in anställda till Partner Center](guide-to-migration.md) och [lägga till en ny användare](create-user-accounts-and-set-permissions.md).
 
@@ -41,9 +41,19 @@ Då visas sidan konto inställningar.
 
 Oavsett om du är partner eller utvecklar kan du använda ditt MPN-ID för att logga support biljetter. Ditt MPN-ID finns på Thee-sidan för **juridisk information** . Du kan också hitta den i **identitets profilen**.
 
+## <a name="account-settings---partners-resellers"></a>Konto inställningar – partner, åter försäljare
+
+När du väljer ikonen **Inställningar** och öppnar menyn **konto inställningar** , är standardvyn, om ditt företag är en del av Cloud Solution Provider-programmet, är **juridisk information** som visar två flikar, **partner** och **åter försäljare**. Varje flik innehåller aspekter av ditt företag.
+
+:::image type="content" source="images/accountsettings/reseller.png" alt-text="Menyn visar flikar för partner och åter försäljare":::
+
+Fliken partner kommer att innehålla all juridisk information, till exempel registrerat juridiskt namn och adress för ditt företag, samt primär kontakt och affärs platser. Fliken åter försäljare för partner som utför CSP-verksamhet innehåller **kund support profilen**.
+
+Om ditt företag inte deltar i CSP, kommer standardvyn endast att visa fliken **partner** som innehåller **kund support profilen**.
+
 ## <a name="organization-profile"></a>Organisations profil
 
-Använd dessa sidor för att hantera sådana områden som juridisk företags profil, partner profil och företags platser. Välj flikar som **juridiska** eller **innehavare** (beskrivs i detalj nedan) om du vill redigera det här fältet. Välj fliken för det program som du är intresse rad av (MPN, CSP eller kommersiell marknads plats) för att se information och först konsumentsajter status.
+Använd dessa sidor för att hantera djupgående områden i ditt företag, inklusive juridisk företags profil, partner profil och klient organisationer. Hantera varje enskilt områden separat. De beskrivs nedan. 
 
 :::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Meny för juridisk information.":::
 
@@ -81,7 +91,7 @@ Vad du arbetar med i Partner Center och vilka områden som du kan uppdatera elle
 
 Så här uppdaterar du önskat e-postmeddelande för att ta emot Partner Center-meddelanden:
 
-1. Logga in på [instrument panelen för partner Center](https://partner.microsoft.com/dashboard).
+1. Logga in på [partner Center-instrumentpanelen](https://partner.microsoft.com/dashboard).
 1. Gå till [**Inställningar för engagemang**](https://partner.microsoft.com/dashboard/engagement/preference), Välj länken **ändra** , uppdatera e-postadressen och välj **Spara**.
 
 ### <a name="find-your-user-role"></a>Hitta din användar roll
