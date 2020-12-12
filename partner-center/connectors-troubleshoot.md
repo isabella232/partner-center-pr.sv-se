@@ -8,18 +8,17 @@ description: Lär dig svar på vanliga frågor om att använda samförsäljnings
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 988a696a8a0a0abb4d37e3915c76f905ec5b35b0
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: b8977f7c602b8587a619236b37a760a55bf87e53
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92531889"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354550"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Felsöka samsäljande referral-kopplingar
 
 **Gäller för:**
 
-- Partnercenter
 - Dynamics 365 CRM
 - Salesforce CRM
 
@@ -80,7 +79,7 @@ Följ det här fel söknings steget:
 
 3. Vad ska du göra om du får följande fel meddelande när du aktiverar Partner Center till CRM-flödet i en automatiserad plattform?
  
-:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Fel meddelande som kräver inloggning":::
+:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Fel meddelande som kräver uppdateringar":::
 
 Följ dessa fel söknings steg:
 
@@ -95,11 +94,11 @@ Du lägger till anslutningar till flödet när flödet körs och du lägger till
 - Välj varje flöde och redigera dem individuellt.
 - Expandera alla steg i flödet 
 
-:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Fel meddelande som kräver inloggning":::
+:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Steg som behöver anslutningar":::
 
 - Välj de steg där du ser en varnings ikon som uppmanar dig att associera anslutningar och lägga till anslutningar. 
 
-:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Fel meddelande som kräver inloggning":::
+:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Redigera flöde-steg per steg":::
 
 
 5. Vad ska jag göra om flödena för den samsälje referral Connector-lösningen inte aktive ras?
@@ -114,9 +113,9 @@ A. I energi spar läge måste du redigera flöden i följande ordning och uppdat
 - Salesforce-möjlighet till Partner Center (Insider Preview)
 - Salesforce Microsoft-lösningar till Partner Center (Insider Preview)
 
- B. För varje flöde väljer du alternativet **Kör endast användare** . Välj **Använd anslutning** i stället för att **tillhandahållas av endast körnings användare** .  
+ B. För varje flöde väljer du alternativet **Kör endast användare** . Välj **Använd anslutning** i stället för att **tillhandahållas av endast körnings användare**.  
 
-:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Fel meddelande som kräver inloggning":::
+:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Aktivera ett flöde":::
 
 
 C. Aktivera följande flöden:
@@ -128,7 +127,7 @@ C. Aktivera följande flöden:
     
 D. Aktivera alla återstående flöden.
 
-E. I Flow Partner Center-webhook-registrering väljer du **Kör** . Ange **http-URL:** en från den första åtgärden i **partner Center till Salesforce** -flöde. Välj alla fyra alternativen under **händelser som ska registreras** och välj **Ja** för Skriv över.
+E. I Flow Partner Center-webhook-registrering väljer du **Kör**. Ange **http-URL:** en från den första åtgärden i **partner Center till Salesforce** -flöde. Välj alla fyra alternativen under **händelser som ska registreras** och välj **Ja** för Skriv över.
 
 ## <a name="questions-and-answers-about-runmaintenance"></a>Frågor och svar om körning/underhåll
 
@@ -140,7 +139,7 @@ För att se till att dina energi scheman körs som du förväntar dig och Felsö
  
 Välj **granskning** för att fastställa status för referens synkroniseringen. 
 
-:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Fel meddelande som kräver inloggning":::
+:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Så här synkroniserar du referenser":::
 
 Se till att följande villkor är uppfyllda:
 
@@ -156,7 +155,53 @@ Gör så här:
 
 - Partner leverantörer måste se till att de har aktiverat alternativet **Synkronisera med alternativet för partner Center** i avsnittet CRM.
 
-:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Fel meddelande som kräver inloggning" i Partner Center.
+:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Se till att du har aktiverat Synch":::
+
+- Säljare måste ange intäkter och UB-datum när de kvalificerar sig för ett lead.
+
+- Om CRM-ID: t anges i steget **skapa** eller **Uppdatera** stadium av samförsäljning, men det inte gick att hitta en lead-möjlighet med detta ID i CRM, så ignoreras uppdatering eller skapande.
+
+- Se till att fältet hänvisnings valuta har kon figurer ATS i Salesforce-miljö. 
+
+4. Vad gör du om anslutningen kopplas från och du saknar en referens synkronisering. 
+
+Nedan följer några av de alternativ som du kan prova:
+
+- Kontrol lera om användar namnet eller lösen ordet har upphört att gälla för partner Center-användaren med referens administratörs roller.
+
+- Du kan gå till den icke-synkroniserade möjligheten, göra en mindre uppdatering och kontrol lera om hänvisningen har synkroniserats.
+
+- Om flödena har körts och misslyckats väljer du flödet och skickar om körningen som har misslyckats.
+
+5. Vad bör du göra när du får åtkomst nekade fel?
+
+Kontrol lera att rätt roller finns
+
+- Referens administratörs roll för partner Center-säljaren 
+ 
+- Rollen system administratör eller systemanpassare på din CRM-instans
+
+- Se till att energischemat flödes konto användare loggar in https://flow.microsoft.com minst en gång på förhand
+
+6. Vad gör du om du ser att **land koden för kund kontot** saknas när du skapar en samförsäljnings möjlighet?
+
+Du måste lägga till ISO-koden med två bokstäver till kund kontot i CRM.
+
+7. Vad bör du göra om du ser felet att **lösnings-ID krävs** när du skapar en samförsäljnings möjlighet?
+
+För att kunna skapa en samförsäljnings hänvisning behöver du en Microsoft Co-försäljnings klar lösning. 
+
+8. Vad bör du göra när du ser samförsäljnings möjligheter som skapats i Partner Center som inte synkroniseras till CRM trots att det inte finns några Flow-fel:
+
+Gör följande:
+
+- När du har skapat en ny co-sälje-affär i Partner Center kontrollerar du om Partner Center till Dynamics 365 Flow anropas (det kan komma att anropas flera gånger).
+
+- Om flödet anropas kontrollerar du alla anropade flöden och identifierar körningen av flödet som uppdaterar CRM. Du kan följa instruktionerna och kontrol lera om det har uppdaterats i CRM eller ett problem har uppstått.
+
+- Titta på *nytt erbjudande** i Partner Center för att se om det fylls med CRM-ID.
+
+- Se till att affären inte stängs av misstag som "vunnen" eller "förlorad" i Partner Center.
 
 ## <a name="next-steps"></a>Nästa steg
 

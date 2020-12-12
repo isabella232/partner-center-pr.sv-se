@@ -9,18 +9,14 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: a415c62619a486361168adb07d0d2e2cb94c5cf1
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 00761df0cb51e8fcd3238141a51a53107c7c8523
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133090"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354516"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Skaffa samarbets marknadsförings medel
-
-**Gäller för**
-
-- Partnercenter
 
 **Lämpliga roller**
 
@@ -52,7 +48,7 @@ Tids linjen för samop-fonder är uppdelad i 2 6 månads perioder, H1 och H2. ("
 - H1 är första hälften av räkenskapsåret, 1 juli 31 december.
 - H2 är den andra halvan av räkenskapsåret, 1 januari – 30 juni.
 
-Den sex månaders period under vilken du periodiserar dina intäkter blir din **tjänande period** . Du måste använda dessa intäkter vid något tillfälle under följande sex månaders **användnings period** . Om du inte använder dina intäkter i slutet av användnings perioden förverkar du dem. **Anspråks perioden** är den sex månaders period under vilken du kan göra en åter betalning för dina stimulans program aktiviteter.
+Den sex månaders period under vilken du periodiserar dina intäkter blir din **tjänande period**. Du måste använda dessa intäkter vid något tillfälle under följande sex månaders **användnings period**. Om du inte använder dina intäkter i slutet av användnings perioden förverkar du dem. **Anspråks perioden** är den sex månaders period under vilken du kan göra en åter betalning för dina stimulans program aktiviteter.
 
 I tabellen nedan visas olika perioder för förbrukning, användning och anspråk. Om inget annat anges sträcker sig perioder från den första dagen i den första månaden till den sista dagen i den senaste månaden.
 

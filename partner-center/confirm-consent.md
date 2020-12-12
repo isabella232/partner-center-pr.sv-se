@@ -9,18 +9,15 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/30/2020
-ms.openlocfilehash: aacca72e9af45b2777364734c2b07dbe8101989d
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: f2513213bff38a6296832253a13725ff2508f1f8
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532124"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354618"
 ---
 # <a name="updated-method-to-confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Uppdaterad metod för att bekräfta kund godkännande av Microsofts kund avtal
 
-**Gäller för**
-
--  Partnercenter
 
 **Lämpliga roller**
 
@@ -30,8 +27,8 @@ ms.locfileid: "92532124"
 > [!NOTE]
 > Avtals resursen stöds för närvarande av Partner Center i det offentliga Microsoft-molnet. Det gäller inte för:
 > * Partner Center som drivs av 21Vianet
-> * Partner Center för Microsoft Cloud Germany
-> * Partner Center för Microsoft Cloud för amerikanska myndigheter
+> * Partnercenter för Microsoft Cloud Tyskland
+> * Välkommen till Partnercenter för Microsoft Cloud for US Government
 
 >[!NOTE]
 >Från och med den 31 januari 2020 måste alla kunder, befintliga och nya, signera det nya Microsofts kund avtal. Läs mer i [bekräfta kund godkännande av Microsofts kund avtal](confirm-customer-agreement.md).
@@ -48,7 +45,7 @@ Som partner måste du inhämta kundens godkännande av Microsofts kund avtal inn
 
 - Datum för godkännande
 
-Direkta fakturerings partner och indirekta leverantörer måste bekräfta kund godkännande av Microsofts kund avtal vid kommunikation via partner Center eller API för partner Center. Bekräftelse är *obligatorisk* .
+Direkta fakturerings partner och indirekta leverantörer måste bekräfta kund godkännande av Microsofts kund avtal vid kommunikation via partner Center eller API för partner Center. Bekräftelse är *obligatorisk*.
 
 Om ingen bekräftelse anges för en angiven kund:
 
@@ -70,21 +67,21 @@ Detta gäller för både produktions-och sandbox-miljöer.
 
 Använd följande procedur för att bekräfta kund godkännande när du skapar en ny kund klient i Partner Center. Du måste vara administratörs agent eller försäljnings agent för att göra detta.
 
-1. Välj **kunder** och sedan **ny kund** och välj sedan **konto information** .
+1. Välj **kunder** och sedan **ny kund** och välj sedan **konto information**.
 
-2. Ange information om **företaget** och den **primära kontakten** .
+2. Ange information om **företaget** och den **primära kontakten**.
 
    :::image type="content" source="images/mca/mca1.png" alt-text="Företags information":::
 
-3. Under **Microsofts kund avtal** väljer **du kunden har accepterat det senaste kund avtalet från Microsoft** .
+3. Under **Microsofts kund avtal** väljer **du kunden har accepterat det senaste kund avtalet från Microsoft**.
 
-4. Ange ett datum under **avtalets godkännande datum** . Du kan inte ange ett framtida datum.
+4. Ange ett datum under **avtalets godkännande datum**. Du kan inte ange ett framtida datum.
 
 5. Ange information om den användare som tillhandahöll godkännandet.
 
-   :::image type="content" source="images/mca/MCA3.png" alt-text="Företags information":::
+   :::image type="content" source="images/mca/MCA3.png" alt-text="Lägg till godkännande datum":::
 
-   Som standard visas den primära kontaktens användar information. Om detta inte är korrekt väljer du **Uppdatera** och anger sedan **förnamn** , **efter namn** , **e-postadress** och * *telefonnummer* (valfritt) för den person som har godkänt avtalet.
+   Som standard visas den primära kontaktens användar information. Om detta inte är korrekt väljer du **Uppdatera** och anger sedan **förnamn**, **efter namn**, **e-postadress** och **telefonnummer* (valfritt) för den person som har godkänt avtalet.
 
 6. Välj **Nästa** för att fortsätta med de återstående stegen för att skapa kund klienten.
 
@@ -94,27 +91,27 @@ Du måste vara administratörs agent eller försäljnings agent för att göra d
 
 1. Välj **kunder** och leta upp och välj den kund som du vill se.
 
-2. Välj **konto information** .
+2. Välj **konto information**.
 
-3. Under **Microsofts kund avtal** väljer du **Uppdatera** .
+3. Under **Microsofts kund avtal** väljer du **Uppdatera**.
 
-   :::image type="content" source="images/mca/mca4.png" alt-text="Företags information":::
+   :::image type="content" source="images/mca/mca4.png" alt-text="Uppdatera":::
 
-4. Ange **förnamn** , **efter namn** , **e-postadress** och **telefonnummer** (valfritt) för den användare som har godkänt avtalet.
+4. Ange **förnamn**, **efter namn**, **e-postadress** och **telefonnummer** (valfritt) för den användare som har godkänt avtalet.
 
-5. Ange ett datum under **avtalets godkännande datum** . Du kan inte ange ett framtida datum.
+5. Ange ett datum under **avtalets godkännande datum**. Du kan inte ange ett framtida datum.
 
-6. Välj **Spara och fortsätt** .
+6. Välj **Spara och fortsätt**.
 
 ## <a name="confirm-customer-acceptance-while-creating-new-order-for-an-existing-customer"></a>Bekräfta kund godkännande när du skapar en ny order för en befintlig kund
 
 Om du försöker skapa en ny order för en befintlig kund som du inte har bekräftat tidigare får du ett meddelande om att slutföra bekräftelsen. Använd följande procedur för att göra detta.
 
-1. Ange **förnamn** , **efter namn** , **e-postadress** och **telefonnummer** (valfritt) för den användare som har godkänt avtalet.
+1. Ange **förnamn**, **efter namn**, **e-postadress** och **telefonnummer** (valfritt) för den användare som har godkänt avtalet.
 
-2. Ange ett datum under **avtalets godkännande datum** . Du kan inte ange ett framtida datum.
+2. Ange ett datum under **avtalets godkännande datum**. Du kan inte ange ett framtida datum.
 
-3. Välj **Spara och fortsätt** .
+3. Välj **Spara och fortsätt**.
 
 ## <a name="retrieve-confirmation-of-customer-acceptance-for-an-existing-customer"></a>Hämta bekräftelse av kund godkännande för en befintlig kund
 
@@ -122,7 +119,7 @@ Du kan hämta bekräftelse på kund godkännande för en befintlig kund som du h
 
 1. Välj **kunder** och leta upp och välj den kund som du vill se.
 
-2. Välj **konto information** .
+2. Välj **konto information**.
 
 3. Under **Microsofts kund avtal** ser du om en bekräftelse har angetts för kunden.
 

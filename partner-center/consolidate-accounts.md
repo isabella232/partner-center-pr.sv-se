@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 3b20f29fcde9c910fd72d0aa86a1242b9c00859c
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 6d8fca11f2db40e7f8b4ebcd4580d8f0aba115eb
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92531168"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354533"
 ---
 # <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>Konsolidera företagets konton när du migrerar från PMC till Partner Center
 
@@ -62,3 +62,9 @@ I PMC var det möjligt för varje plats att ha sin egen kompetens, sina egna kar
 I Partner Center konsol IDE ras alla plats konton till ett globalt konto. Det innebär också att alla erbjudanden, program och kompetenser för go-to-marknad konsol IDE ras. ABTKs (extra Benefits Tool) är inte tillgängliga. Du kan dock organisera distributionen av marknadsförings resurser, erbjudanden, program och kompetenser som krävs för ditt företag. När du konsoliderar anges ett tillägg. Med det här tillägget kan företaget njuta av marknadsförings resurser, erbjudanden och program som används i PMC under ytterligare ett år.
 
 Mer information om skillnaderna mellan PMC och partner Center finns i [flytta från PMC till Partner Center](guide-to-migration.md).
+
+## <a name="next-steps"></a>Nästa steg
+
+- [Hantera ditt Partnercenter-konto](partner-center-account-setup.md)
+
+- [Hantera platser](manage-locations.md)

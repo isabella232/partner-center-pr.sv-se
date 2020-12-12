@@ -1,5 +1,5 @@
 ---
-title: Berättigande till lösnings bedömning
+title: Berättigande till lösningsbedömning
 ms.topic: how-to
 ms.date: 11/09/2020
 description: Lär dig hur du kontrollerar kraven för att delta i programmet för utvärdering av Solution Assessment.
@@ -9,14 +9,18 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f5feb30b62cb6b862cd3e474d46980f8654ba1c1
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: 7d40b09ee8b452cb75be216f83ddc700596b93d7
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94447293"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354482"
 ---
 # <a name="eligibility-requirements-for-the-solution-assessment-incentives-program"></a>Krav för berättigande för programmet för utvärdering av Solution Assessment
+
+**Lämpliga roller**
+
+- Primär kontakt eller program administratör
 
 Partner med aktiv och registrerad status i stimulans programmet för lösnings bedömning i FY20 kommer att fortsätta vara berättigade till stimulans i FY21 om de har ett aktivt MPN-medlemskap och en aktiv silver-eller Gold MPN-kompetens. Partner kvalifikationer granskas för att vara berättigade till varje år. Om etablerade partners inte uppfyller kraven för berättigande och medverkan under det aktuella året kommer de att tas bort under nästa årliga granskning. Alla nya partner registreras via den lokala SAS-specialisten (Solution Assessment specialist) i sitt område. SAS identifierar de partner som ska registreras baserat på matchande kunskaper och expertis i partner företaget och affärs behoven hos de dotter bolag som stöds av SAS.
 

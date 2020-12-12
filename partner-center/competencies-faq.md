@@ -8,20 +8,18 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 3f18378428ab681938f23c3a11341b2deac36226
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: adce1c8740489731c12e705c71962aba004b5bd3
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570492"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354465"
 ---
 # <a name="competencies---frequently-asked-questions"></a>Kompetenser – vanliga frågor och svar
 
-Gäller för:
+**Lämpliga roller**
 
-- Partnercenter
-- Välkommen till Partnercenter för Microsoft Cloud for US Government
-- Partner i Microsoft Partner Network-programmet (MPN)
+- MPN-partner administratör
 
 Den här artikeln ger svar på allmänna frågor om examina, certifieringar och program varu förmåner som är relaterade till att uppnå en Microsoft Partner Network kompetens.
 
