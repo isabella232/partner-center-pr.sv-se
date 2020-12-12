@@ -9,19 +9,19 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 12310b8c89f593122cdd9caec0aa74a712953219
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: baeb53d237ba1aeb987b08097526eda5c6235512
+ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532012"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "97153153"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Rapportera ett tjänst problem för en kunds räkning, inklusive när och hur du gör det
 
 **Gäller för**
 
 - Partnercenter
-- Partner Center för Microsoft Cloud för amerikanska myndigheter
+- Välkommen till Partnercenter för Microsoft Cloud for US Government
 
 **Lämpliga roller**
 
@@ -31,11 +31,13 @@ Om kunden drabbas av ett tjänst problem som du inte kan lösa, och som uppfylle
 
 ## <a name="submit-a-service-request-for-a-customer"></a>Skicka en tjänstbegäran för en kund
 
-1. I menyn **partner Center** väljer du **tjänst begär Anden** och sedan **kund förfrågan** . 
+1. Från menyn Partner Center under KRYPTOGRAFIPROVIDER väljer du **kunder**
 
-2. På sidan kund förfrågningar söker du efter den kund du vill ha.
+2. På sidan kunder väljer eller söker du efter den kund du vill
+    
+3. Från menyn kund väljer du **tjänst begär Anden**
 
-3. Välj antingen **Azure** eller **Office 365, Dynamics 365, Enterprise Mobility Suite** från List menyn **ny begäran** . Du omdirigeras till antingen Microsoft Azure-portalen eller administrations centret för Office 365.
+4. Välj antingen **Azure** eller **Office 365, Dynamics 365, Enterprise Mobility Suite** från List menyn **ny begäran** . Du omdirigeras till antingen Microsoft Azure-portalen eller administrations centret för Office 365.
 
 >[!NOTE]
 >Support åtgärds partner som samverkar med Dynamics 365 i CSP krävs för att upprätthålla ett support avtal med en ASfP-plan (Advanced support for partner) eller högre. Detta support avtal krävs för att skicka Dynamics 365-incidenter för en CSP-kunds räkning. [Läs mer](https://partner.microsoft.com/support/partnersupport) om alternativen för support avtal.
@@ -49,15 +51,15 @@ Om kunden drabbas av ett tjänst problem som du inte kan lösa, och som uppfylle
 >
 >- Även om supportavdelningen i Partner Center inte kan skapa tjänst begär anden i Azure Service Portal, vad de kan göra är att skapa en support grupp i Azure Service Portal och ge gruppen behörighet att logga support förfrågningar.
 
-1. Välj **Ny supportbegäran** .
+1. Välj **Ny supportbegäran**.
 
-2. Fyll i support förfrågan med lämplig information och välj sedan **skapa** :
+2. Fyll i support förfrågan med lämplig information och välj sedan **skapa**:
 
    - I avsnittet **grundläggande** information om support begär du att välja **Cloud Solution Provider** i fältet **Support plan** .
 
    - I avsnittet **kontakt** information i support förfrågan anger du din information, inte kundens information.
 
-3. Granska sedan kundens tjänst begär anden i Microsoft Azure-portalen genom att välja **Hantera support förfrågningar** .
+3. Granska sedan kundens tjänst begär anden i Microsoft Azure-portalen genom att välja **Hantera support förfrågningar**.
 
 Du kan behöva skapa en support förfrågan för en kund när du inte har administratörs behörighet för den kunden. Detta kan inträffa i något av två fall:
 
@@ -79,12 +81,12 @@ I något av dessa fall kan du använda följande procedur för att skapa en supp
 
 1. Välj lämplig support kategori i avsnittet **skapa en tjänstbegäran** . Du kan behöva välja **fler...** om du vill visa fler artiklar.
 
-2. Slutför formuläret för tjänstbegäran och välj **Skicka** .
+2. Slutför formuläret för tjänstbegäran och välj **Skicka**.
 
    > [!TIP]
    > Se till att ta med din kontakt information, inte kundens.
 
-3. Granska din kunds tjänst begär Anden senare genom att gå till administrations centret för Office 365 och välja **Se alla support ärenden** .
+3. Granska din kunds tjänst begär Anden senare genom att gå till administrations centret för Office 365 och välja **Se alla support ärenden**.
 
 ### <a name="support-for-commercial-marketplace-products"></a>Stöd för kommersiella Marketplace-produkter
 
@@ -100,7 +102,7 @@ Så här hittar du ISV: s kontakt information:
     - Ett support-e-postmeddelande
     - Telefonnummer till support kontakt
 
-## <a name="faq"></a>Vanliga frågor
+## <a name="faq"></a>VANLIGA FRÅGOR OCH SVAR
 
 Se följande för vanliga frågor om tjänst begär Anden som du kan skicka till en kunds räkning. 
 
@@ -116,7 +118,7 @@ Den här förmånen gäller alla partner som deltar i Cloud Solution Provider-pr
 
 Våra första svars tider beror på allvarlighets graden för den inskickade incidenten. Problemets allvarlighets grad bestäms av ditt val av affärs påverkan när du skickar en tjänstbegäran.
 
-Första svars tider för **tekniska brotts lösa incidenter** :
+Första svars tider för **tekniska brotts lösa incidenter**:
 
 - Kritisk påverkan (allvarlighets grad A): 2 timmar (betydande förlust eller försämring av tjänster. Produktions tjänster är nere.)
 - Måttlig påverkan (allvarlighets grad B): fyra timmar (måttlig förlust eller försämring av tjänster. Produktions tjänster som påverkas delvis.)
@@ -150,4 +152,4 @@ Läs [Microsoft Dynamics-support](https://support.microsoft.com/help/4052881/faq
 ## <a name="next-steps"></a>Nästa steg
 
 - [Ge support till dina kunder](customer-support.md)
-- [Kontrol lera tjänstens hälsa](check-service-health.md)
+- [Kontrollera tjänststatus](check-service-health.md)
