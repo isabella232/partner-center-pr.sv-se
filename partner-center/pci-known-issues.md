@@ -9,21 +9,49 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f098058f5ddd00de9633633d9bcc0fdd8502e538
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 6337d4998fea20eed756183a3eb3adfbfe70585b
+ms.sourcegitcommit: 0eae5734b0e50bd5a7ef39ec7738d1e997c5a02d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532085"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "97389313"
 ---
-# <a name="known-issues-with-partner-center-insights"></a>Kända problem med partner Center Insights
+# <a name="partner-insights--frequently-asked-questions"></a>Partner Insights – vanliga frågor och svar
+
+**Lämpliga roller**
+- Rapport visnings program
+- Rapport visnings program för chefer
 
 Detta relaterar till kända problem som visar eller återger rapporter som är associerade med insikter.
 
-- Det finns inget stöd för att aktivera insikter-rapporter för klienter med endast CSP. Endast klienter med åtkomst till MPN-programmet kan komma åt dessa rapporter.
-- Rapporterna har åter givnings problem med Internet Explorer. De fungerar bra med Microsoft Edge och andra webbläsare.
-- Prestanda data för moln affärs program kompetensen är ofullständiga på grund av ett överordnat data problem.
+Q) **Jag ser inte Insights-hubben i mitt Partner Center-konto. Vad ska jag göra?**
 
-## <a name="next-steps"></a>Nästa steg
+A) kontrol lera att du har loggat in på MPN-kontot för din organisation. Du kan inte komma åt instrument panelen för insikter från ditt CSP-konto. Kontrol lera också att du har angett Report Viewer-rollen eller rapport visnings rollens roll åtkomst av din globala administratör.  Mer information om roller finns i [den här artikeln](https://docs.microsoft.com/partner-center/pci-roles).
+
+F) **det går inte att se information om fakturerade intäkter eller Azures förbrukade intäkter (ACR) i Mina rapporter. Varför är det?**
+
+A) fakturerad intäkt och ACR data är bara tillgängliga för användare som är chefer för rapport.  Mer information om roller finns i [den här artikeln](https://docs.microsoft.com/partner-center/pci-roles).
+
+F) **det går inte att se information om fakturerade intäkter eller Azures förbrukade intäkter (ACR) i Mina rapporter. Varför är det?**
+
+A) fakturerad intäkt och ACR data är bara tillgängliga för användare som är chefer för rapport. Mer information om roller finns i [den här artikeln](https://docs.microsoft.com/partner-center/pci-roles).
+
+F) **det land som har rapporter ATS för min kund verkar vara felaktigt. Varför är det?**
+
+A) kund landet härleds från landet för den globala överordnade organisationen för kunden. Det här landet kan skilja sig från det land där kunden finns, med vilken du kanske har handlat om. Därför kan kund rapporteras land skilja sig från vad du förväntar dig.
+
+F) **Jag ser att några kundnamn är fördunklade i rapporterna. Förväntas det?**
+
+A) kund namn är fördunklade för vissa prenumerationer på grund av olika orsaker. Kund TPID är dock tillgänglig och du kan använda det för att söka efter Kundnamn från den.
+
+F) **Vad är rapporternas typiska svars tid?**
+
+A) prenumerationer och kunders data uppdateras dagligen och data rapporteras med en fördröjning på en vecka. Azures användnings data rapporteras med en veckas svars tid. Office365, teams, Dynamic365, EMS och Power BI användnings data rapporteras med en svars tid på en månad.
+
+F) **rapporterna återges inte i Internet Explorer – är det som förväntat?**
+
+A) rapporterna har åter givnings problem med Internet Explorer. De fungerar bra med Microsoft Edge och andra webbläsare.
+
+**Nästa steg**
 
 - Lär dig mer om [partner Center Insights](partner-center-insights.md).
