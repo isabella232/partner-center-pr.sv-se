@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 66177c6e3cd0091081866e1508d28346f49ec713
-ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
+ms.openlocfilehash: 1e97e2e9db798e5ef90858cf96dc06602bbfe427
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "94626039"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492474"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Skapa och hantera incitaments utbetalningar och skatte profiler i Partner Center
 
@@ -72,7 +72,7 @@ I avsnitten nedan får du stegvisa anvisningar genom processen att skapa och han
 
 1. Logga in på [partner Center-instrumentpanelen](https://partner.microsoft.com/dashboard/)och välj sedan kugg hjuls ikonen för att öppna menyn **Inställningar** . 
 
-2. Välj **partner inställningar** , expandera **avsnittet utbetalning och skatt** och välj sedan **utbetalning och skatte profil tilldelning**. 
+2. Välj **partner inställningar**, expandera **avsnittet utbetalning och skatt** och välj sedan **utbetalning och skatte profil tilldelning**. 
    
    En lista över dina program kommer att visas. Välj pilen bredvid ett program om du vill se profil information. 
 
@@ -152,4 +152,4 @@ För partner företag i Amerika, om du behöver information om hur du fyller i W
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Incitaments utbetalningar och frågor om skatte profil](incentives-payout-tax-profile-faqs.md)
+- [Vanliga frågor om utbetalningar och skatter](payout-faq.md)

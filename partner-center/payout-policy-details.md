@@ -1,22 +1,27 @@
 ---
-title: Utbetalnings scheman och princip information – Azure Marketplace
-description: Läs mer om information som rör utbetalnings principer för kommersiella Marketplace, inklusive scheman och återkoppling.
+title: Utbetalnings scheman och processer
+description: Lär dig mer om utbetalningar och transaktioner, till exempel betalnings planer och återställnings processer för handels Marketplace och andra transaktioner.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/06/2020
-ms.openlocfilehash: bd8153ffd368c1f67b27eaeb44d383409bd59e97
-ms.sourcegitcommit: 2e880efb02a48afc4f234ec27da34519407f87c6
+ms.date: 11/25/2020
+ms.openlocfilehash: bb7a6673d2dee5a35f1c5be96f354451633eecf5
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96513305"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492678"
 ---
-# <a name="payout-schedules-and-policy-details"></a>Utbetalnings scheman och princip information
+# <a name="payout-schedules-and-processes"></a>Utbetalnings scheman och processer
 
-I den här artikeln beskrivs Microsofts utbetalnings process, ett utbetalnings schema, var du hittar status för en utbetalning och processen för kund utebliven betalning.
+**Lämpliga roller:**
+
+- Kontoadministratör
+- Global administratör
+
+I den här artikeln beskrivs Microsofts betalnings schema, var du hittar status för en utbetalning och processen för kund utebliven betalning.
 
 ## <a name="payment-schedules"></a>Betalnings scheman
 
@@ -74,10 +79,10 @@ Följande är ett exempel schema:
 | --- | --- | --- |
 | Exempel på utbetalnings datum | 10/15/2020 | Markerat som **skickat** i transaktions historik och i avsnittet betalningar i instrument panelen för utbetalning |
 | <font color="red">Om kunden inte betalar Microsoft</font> | 12/2/2020 – 12/5/2020 | Ingen ändring, samma som ovan |
-| Kunden får ett e-postmeddelande om betalning för första sent | 12/6/2020 | Inget |
-| Kunden får regelbundna e-postmeddelanden med ökande angelägenhets grad | 12/7/2020 – 1/31/2021 | Inget |
+| Kunden får ett e-postmeddelande om betalning för första sent | 12/6/2020 | Inga |
+| Kunden får regelbundna e-postmeddelanden med ökande angelägenhets grad | 12/7/2020 – 1/31/2021 | Inga |
 | Utgivaren har meddelats att skriva av är troligt vis | 1/7/2021 | E-postmeddelande som skickas till utgivaren om att deras kunder ännu inte har skickat någon betalning. Transaktions-ID och dollar belopp ingår. |
-| Kund mottar uppsägnings meddelande | 2/1/2021 | Inget |
+| Kund mottar uppsägnings meddelande | 2/1/2021 | Inga |
 | Samlings processens slut/medel skrivs av | 2/15/2021 | E-postmeddelande som skickas till utgivare som fonder har skrivits av. Transaktions-ID och dollar belopp ingår. |
 | Utbetalningen dras av | 3/1/2021 | I Publisher visas en negativ transaktion i Partner Center utbetalnings instruktion |
 | Utbetalningen nekas | 3/15/2021 | Framtida utbetalningar visas i utbetalnings instruktionen för partner Center. Utgivare får ingen betalning förrän saldot inte längre är negativt.  |
@@ -90,7 +95,7 @@ Följande är ett exempel schema:
 Vi skickar vanligt vis ut alla betalningar som förfaller under en månad den 15: e dagen i månaden, men det tar ytterligare tid för betalningen att komma åt ditt konto. Antalet dagar beror på betalnings metoden som vi använder för ditt konto, enligt beskrivningen nedan.
 
 > [!NOTE]
-> De dagar som visas nedan är ungefärliga; alla betalningar kan ta längre eller kortare tid att komma åt ditt konto.
+> De dagar som visas nedan är ungefärliga; alla betalningar kan ta mer eller mindre tid att komma åt ditt konto.
 
 | Betalningsmetod     | Antal dagar för att uppnå utbetalnings konto     |
 |--------------------|--------------------------------------------|

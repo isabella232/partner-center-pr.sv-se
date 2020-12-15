@@ -6,22 +6,20 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lär dig hur indirekta åter försäljare kan arbeta med Microsofts indirekta leverantörer (eller distributörer) för att få hjälp med kund support och fakturering.
 ms.prod: ''
-ms.custom: contperfq2
+ms.custom: contperf-fy21q2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 74edfbfd766e6969b278c9ad83b3a12b7ef95abd
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 082574f381186731cee023cfcdfa04b46d0ba1c5
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795856"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492406"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Lär dig att samar beta med indirekta leverantörer i Cloud Solution Provider-programmet
 
-**Gäller för**
 
-- Partnercenter
 
 **Lämpliga roller**
 
@@ -70,26 +68,26 @@ Från och med oktober 2020 registreras alla Microsoft-partners som är nya för 
 
 1. Om du vill starta registrerings processen går du till [**Välkomst sidan**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) för att registrera dig.
 
-2. Granska **Välkomst sidan** för att se till att du har den information du behöver för att registrera dig och välj sedan **Nästa** .
+2. Granska **Välkomst sidan** för att se till att du har den information du behöver för att registrera dig och välj sedan **Nästa**.
 
 3. Logga in med ditt arbets konto. Välj **Logga** in och ange det användar namn och lösen ord som du använder för att logga in som global administratör för Office 365, Microsoft Azure eller Microsoft Dynamics CRM.
 
    Om du inte har ett arbets konto väljer du **skapa ett** för att ställa in det nu. När du har skapat ditt arbets konto loggar du in med den globala administratörens autentiseringsuppgifter för ditt nya konto.
 
-4. Granska informationen om hur du kopplar ditt Microsoft Partner Network-ID (MPN-ID) till ditt nya partner Center-konto. Vi behöver länka ditt företags MPN-ID med ditt nya partner Center-konto så att du kan hantera dina medlemskaps förmåner och incitament till partner centret. Välj **Logga in** .
+4. Granska informationen om hur du kopplar ditt Microsoft Partner Network-ID (MPN-ID) till ditt nya partner Center-konto. Vi behöver länka ditt företags MPN-ID med ditt nya partner Center-konto så att du kan hantera dina medlemskaps förmåner och incitament till partner centret. Välj **Logga in**.
 
-5. Ange det användar namn som du använder för att logga in på webbplatsen för partner medlemskap Center (PMC). Platsen för partner medlemskap Center är där du för närvarande hanterar ditt Microsoft partner-konto. Genom att logga in på partner medlemskaps Center kan vi hämta ditt MPN-ID och koppla det till ditt nya partner Center-konto. Välj **Nästa** .
+5. Ange det användar namn som du använder för att logga in på webbplatsen för partner medlemskap Center (PMC). Platsen för partner medlemskap Center är där du för närvarande hanterar ditt Microsoft partner-konto. Genom att logga in på partner medlemskaps Center kan vi hämta ditt MPN-ID och koppla det till ditt nya partner Center-konto. Välj **Nästa**.
 
 6. Ange lösen ordet för ditt partner medlemskaps Center konto och välj sedan **Logga** in.
 
-7. Välj företags profilen med MPN-ID som är kopplat till dina incitament, medlemskaps förmåner och kompetenser. Vi kan sedan flytta den här informationen till ditt partner Center-konto. Välj **Fortsätt** .
+7. Välj företags profilen med MPN-ID som är kopplat till dina incitament, medlemskaps förmåner och kompetenser. Vi kan sedan flytta den här informationen till ditt partner Center-konto. Välj **Fortsätt**.
 
    Om det MPN-ID som du vill använda inte visas på den här sidan väljer du **Avbryt** och loggar in igen med användar namnet och lösen ordet för den företags profil som du vill använda.
 
    > [!IMPORTANT]  
    > Välj det MPN-ID som är associerat med en aktiv företags profil som finns i samma land/region som din Azure AD-klient.
 
-8. Ange eller uppdatera företagets juridiska företags profil, primär kontakt information och kund support information. Välj **Registrera nu** .
+8. Ange eller uppdatera företagets juridiska företags profil, primär kontakt information och kund support information. Välj **Registrera nu**.
 
    Den primära kontakten bör vara den person i företaget som vi kan kontakta om ditt program. Den primära kontakten kan vara du eller någon annan person i företaget. OBS! vi accepterar inte e-postadresser från webbaserade e-posttjänster som Gmail, Yahoo! E-post, iCloud Mail, AOL-e-post eller Outlook-e-post.
 
@@ -98,9 +96,9 @@ Från och med oktober 2020 registreras alla Microsoft-partners som är nya för 
 
 9. När ditt partner Center-konto är klart att använda kontrollerar du att du har lagts till i administratörs Agent gruppen. För att slutföra konfigurationen av ditt konto, inklusive att lägga till andra användare, måste du ha administratörs agent behörighet. Följ dessa steg om du vill visa eller uppdatera dina behörigheter:
 
-   1. Välj ikonen **Inställningar** i **partner Center** och välj sedan **användar hantering** .
+   1. Välj ikonen **Inställningar** i **partner Center** och välj sedan **användar hantering**.
 
-   2. Välj ditt namn i listan med användare. Välj sedan **admin agent** om den inte redan är vald. Välj **Uppdatera** .
+   2. Välj ditt namn i listan med användare. Välj sedan **admin agent** om den inte redan är vald. Välj **Uppdatera**.
 
 ## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>Alla indirekta åter försäljare måste signera Microsofts partner avtal
 
@@ -125,7 +123,7 @@ Om en indirekt Provider vill ansluta till dig på Partner Center, kommer de att 
 
 2. Följ länken i providerns e-postadress om du vill acceptera inbjudan. Du kan behöva logga in på Partner Center igen.
 
-3. Om du vill bekräfta samarbetet med providern markerar du kryss rutan och väljer sedan **auktorisera indirekt Provider** . Providern visas nu på sidan för **indirekta leverantörer** och ditt företag visas nu på sidan för leverantörens **indirekta åter försäljare** .
+3. Om du vill bekräfta samarbetet med providern markerar du kryss rutan och väljer sedan **auktorisera indirekt Provider**. Providern visas nu på sidan för **indirekta leverantörer** och ditt företag visas nu på sidan för leverantörens **indirekta åter försäljare** .
 
    > [!NOTE]  
    > När du upprättar ett partnerskap med en indirekt Provider kan du godkänna dem för att skicka in beställningar och lägga till prenumerationer på uppdrag av dina kunder och du beviljar dem administratörs åtkomst till ditt företags arbets konto. När ditt partnerskap med providern har upprättats kan du ta bort leverantörens administratörs åtkomst till ditt arbets konto på Office 365-portalen.
@@ -146,9 +144,9 @@ Om en indirekt Provider vill ansluta till dig på Partner Center, kommer de att 
 
 - [Hantera ditt Partnercenter-konto](partner-center-account-setup.md)
 
-- [Anslut till dina kunder](connect-with-your-customers.md)
+- [Få kontakt med dina kunder](connect-with-your-customers.md)
 
-- [Skapa en affärs profil](create-a-marketing-profile.md)
+- [Skapa en affärsprofil](create-a-marketing-profile.md)
 
 - [Läs mer om verifierings processen](verification-responses.md)
  

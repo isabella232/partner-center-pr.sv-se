@@ -1,28 +1,36 @@
 ---
-title: Utbetalnings instruktion för den kommersiella marknads platsen i Partner Center
-description: Lär dig mer om utbetalnings instruktioner och sammanfattningar och hur du visar och exporterar dina betalnings data för den kommersiella Marketplace
+title: Utbetalningsinstruktioner
+description: Lär dig mer om utbetalnings instruktioner och sammanfattningar och hur du visar och exporterar dina betalnings data från Microsoft Partner Center
 ms.subservice: partnercenter-marketplace-publisher
 ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 09/23/2020
-ms.openlocfilehash: 34d7d162673992601267db03beaddda1573b73c0
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.date: 10/29/2020
+ms.openlocfilehash: f74dcdc240553cea2c9d226364a8bd6242acc200
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94532063"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492644"
 ---
 # <a name="payout-statements"></a>Utbetalningsinstruktioner
 
+**Lämpliga roller:**
+
+- Kontoadministratör
+- Global administratör
+
 **Utbetalnings instruktionen** visar en översikt över dina utbetalningar från erbjudanden som säljs via den kommersiella marknads platsen. Den visar transaktions historik för dina intäkter, uppskattar nästa betalning och visar betalnings trender. Du kan också hämta transaktions historik och betalnings uttryck. Den här artikeln förklarar hur du får åtkomst till din utbetalnings instruktion och de olika utbetalnings sidorna och nedladdningarna som är tillgängliga för dig i Partner Center.
+
+>[!NOTE]
+>Du ser bara data för MPN-ID: n och program som du är associerad med. Om du vill visa ytterligare data kan du arbeta med konto administratören för behörigheter. 
 
 ## <a name="roles-and-permissions"></a>Roller och behörigheter
 
 För att få åtkomst till en utbetalnings instruktion måste du tilldelas rollen **konto ägare** eller **finansiell deltagare** .
 
-| Rapporter/sidor | Kontoägare | Ansvarig | Utvecklare | Företags deltagare | Ekonomi deltagare | Rika marknads föraren |
+| Rapporter/sidor | Kontoinnehavare | Ansvarig | Utvecklare | Företags deltagare | Ekonomi deltagare | Rika marknads föraren |
 | --- | --- | --- | --- | --- | --- | --- |
 | Anskaffnings rapport (inklusive data i nära real tid) | Kan visa | Kan visa | Ingen åtkomst | Ingen åtkomst | Kan visa | Ingen åtkomst |
 | Feedback-rapport/svar | Kan visa och skicka feedback | Kan visa och skicka feedback | Kan visa och skicka feedback | Ingen åtkomst | Ingen åtkomst | Kan visa och skicka feedback |
@@ -50,6 +58,7 @@ Du kan också använda [API: et för partner utbetalning](https://apidocs.micros
 
 På sidan **transaktions historik** visas en översikt över dina intäkter, uppskattad nästa betalning och din prenumeration på intäkter och betalningar under de senaste 36 månaderna. Du kan också hämta transaktions information från det här avsnittet.
 
+
 :::image type="content" source="images/payouts/transaction-overview.png" alt-text="Transaktions översikt.":::
 
 - **Intäkter som skickats detta år** – totala intäkter och nedbrytning av intäkter som har betalats och som kommer att betalas under den kommande månaden.
@@ -57,9 +66,11 @@ På sidan **transaktions historik** visas en översikt över dina intäkter, upp
 - **Vinst-och betalnings trend** – månatliga och betalnings belopp för de senaste 36 månaderna.
 - **Hämta** – Hämta transaktions information i CSV-eller TSV-format.
 
-Använd datum intervall markeringen i det övre högra hörnet på sidan för att filtrera utdata från sidan för att visa de senaste 3, 6, 12 eller 36 månaderna. Eller Välj ett anpassat datum intervall upp till 36 månader. Standard datum intervallet är 12 månader.
+Använd datum intervall markeringen i det övre högra hörnet på sidan för att filtrera utdata från sidan för att visa de senaste 3, 6, 12 eller 36 månaderna. Eller Välj ett anpassat datum intervall upp till 36 månader. Standard datum intervallet är 12 månader. Du kan också filtrera efter registrerings-ID, program, betalnings-ID, typ, spaken och status. Data är tillgängliga för innevarande räkenskapsår (1 juli 30 juni) och de föregående två räkenskapsåren.
 
 :::image type="content" source="images/payouts/search-filter.png" alt-text="Sök filtret längst upp till höger på sidan.":::
+
+Om du vill se mer information om ett som du väljer väljer du nedåtpilen till höger på sidan. På så sätt visas spaken, intäkts belopp, produkter och kund. Om någon av dessa data inte är tillgänglig, men du behöver åtkomst till den, kan du kontakta supporten. Om resultatet är resultatet av en justering, och inte en transaktion, kommer fälten produkt och kund inte att visas.
 
 ### <a name="transaction-history-summary"></a>Sammanfattning av transaktions historik
 
@@ -74,13 +85,49 @@ Detta visar information, inklusive ursprunget för att betala från produktens s
     - **Kommande** – intäkter är i väntande kylnings period.
     - **Bearbetad** – intäkter förbereds för nästa betalning.
     - **Skickat** – intäkterna har betalats.
-- **Beräknad betalnings månad** – månaden då intäkterna förväntas betalas.
+- **Beräknad betalnings månad** – månaden då intäkterna förväntas betalas. Mer information finns i [Nästa avsnitt](#estimated-payment-month) .
 
 Tjänande transaktioner visas när transaktionen uppfyller utbetalnings berättigande. För att förstå varför du kan sakna eller oväntade intäkter, se [vanliga frågor om utbetalningar på kommersiella platser](payout-faq.md#why-are-my-earnings-missing).
+
+#### <a name="estimated-payment-month"></a>Beräknad betalnings månad
+
+Sidan transaktions historik innehåller nu en tabell som visar de uppskattade betalnings beloppen för de kommande månaderna. Du kan också visa och hämta informationen i exporten av transaktions historik och sammanfattnings rapporter. Den här informationen gör avstämningar och betalnings projekt enklare.
+
+Den uppskattade betalnings månaden beräknas utifrån program konfigurations regler och tids linjer och bearbetas i nästa/kommande betalnings cykel.
+
+Den uppskattade betalnings månaden är för närvarande tillgänglig för alla typer av typer förutom samop, som visas som **ej tillämpligt**. Den uppskattade betalnings månaden visas som **ej tillgänglig** för intäkter före den 1 juli 2020.
+
+I följande tabell visas ett exempel på en uppskattad betalnings månad.
+
+| Månad | Belopp |
+| ------ | :-----------: |
+|  Sep-2020 |  $7 273,99   |
+|  Okt-2020 | $8 692,30  |
+|  Nov-2020 | $107,89  |
+
+Det beräknade beloppet kan variera från den faktiska mängden av olika orsaker:
+
+- Tilldelad omberäkning: om intäkter beräknas om, kommer den faktiska mängden att vara olika
+- Justeringar: den faktiska mängden varierar beroende på justeringar som har inträffat eller skickats.
+- Regel ändring: en ändring i reglerna kan återspegla omberäkningen av faktiskt betalt belopp
+- Debiterad: om betalnings fel inträffar kan den faktiska mängden vara olika
+
+Observera att din betalning endast lanseras under den beräknade månaden om programmets tröskel och regler för betalnings kvalifikationer är uppfyllda. Dessa regler inkluderar, men är inte begränsade till listan nedan:
+
+- Din skatte profil måste vara aktuell
+- Dina intäkter måste uppfylla eller överskrida det lägsta gräns värde som definierats i din program guide.
+- Utbetalning väntar: om du väljer alternativet "Behåll min betalning" på sidan profil tilldelning.
+- Utbetalnings instrument inte tillgängligt: betalnings-eller/och skatte profil har inte slutförts.
 
 ### <a name="transaction-history-download"></a>Hämtning av transaktions historik
 
 Om du vill se mer information om ett sådant väljer du **Ladda ned** överst på sidan. I följande tabell beskrivs varje kolumn i rapporten.
+
+>[!NOTE]
+>Exporten av transaktions historiken har två nya fält från augusti 2020:
+>
+>- **lastPaymentCurrency**  Den valuta i vilken den senaste betalningen togs emot, över alla MPNs som partnern som för tillfället är inloggad med har åtkomst. Om ingen betalning tas emot kommer den sista betalnings valutan att vara US-dollar.
+>- **earningAmountInLastPaymentCurrency**  Det totala antalet i den senaste betalnings valutan.
 
 | Kolumnnamn | Beskrivning | Tillämplighet för stimulans program/marknads platser |
 | --- | --- | --- |
@@ -164,6 +211,21 @@ Om du vill se mer information om ett sådant väljer du **Ladda ned** överst p�
 | workload | Arbetsbelastning | Incitament – endast vissa program |
 |
 
+### <a name="transaction-adjustment-codes"></a>Transaktions justerings koder
+
+I följande tabell visas orsaks koder för justeringar och deras beskrivningar.
+
+|**Orsaks kod**   |**Beskrivning**   |
+|------------------|:-------------------------------------|
+| Efterlevnad av P.A. | Justering som minskar intäkterna när Microsoft-fakturor inte betalas i tid av partnern. |
+| Ko-förnyelse | Justering som överför samförsäljnings intäkter till en annan period eller omvandlar samsiga intäkter till rabatter. |
+| OPS-justering | Justering som korrigerar Microsofts system beräknings fel. |
+| OPS-justering Microsoft felaktig calc | Justering som korrigerar fel beräkningar. |
+| OPS-justering Microsoft felaktig registrering | Justering för registrering av relaterade felberäkningar. |
+| Partner mappning (prenumeration) MCI/CSP | Justering som korrigerar felaktig justering av prenumeration. |
+| Princip undantag | Justering som åsidosätter en program regel.  |
+| Föregående period vinst | Justering för intäkter utanför den aktuella perioden. |
+
 ## <a name="payments"></a>Betalningar
 
 På sidan **betalningar** finns information om de pengar du har fått med Microsoft. Det visar även när och hur mycket du kommer att betala.
@@ -214,7 +276,7 @@ I följande tabell förklaras de olika ställnings statusarna.
 
 ### <a name="payments-download"></a>Hämtning av betalningar
 
-Om du vill se mer information om dina betalningar väljer du **Hämta** överst på sidan. I följande tabell beskrivs varje kolumn i rapporten.
+ I följande tabell beskrivs varje kolumn i rapporten. Om du vill se mer information om dina betalningar väljer du **Hämta** överst på sidan betalningar.
 
 | Kolumnnamn | Beskrivning |
 | --- | --- |
@@ -238,7 +300,7 @@ Om du vill se mer information om dina betalningar väljer du **Hämta** överst 
 
 ## <a name="export-data"></a>Exportera data
 
-Sidan **Exportera data** uppdateras inte på egen hand. Du kan behöva uppdatera sidan manuellt för att se de senaste data. Välj från de tre flikarna för att exportera antingen **transaktions historik** , **betalningar** , **transaktions Sammanfattning** eller **historisk instruktion**.
+Sidan **Exportera data** uppdateras inte på egen hand. Du kan behöva uppdatera sidan manuellt för att se de senaste data. Välj från de tre flikarna för att exportera antingen **transaktions historik**, **betalningar**, **transaktions Sammanfattning** eller **historisk instruktion**.
 
 Filtret kan resultera i att det **inte finns några tillgängliga data** fel. Detta kan inträffa om du har lämnat standard tids perioden som valts vid tre månader och sedan valt ett betalnings-ID från ett som ligger utanför den perioden. Om detta inträffar expanderar du din tids period och försöker igen.
 
@@ -274,7 +336,7 @@ I följande tabell beskrivs varje kolumn i en historisk instruktion.
 | Namn på överordnad produkt | Namnet på den överordnade produkten. Om det inte finns någon överordnad produkt för transaktionen får du ett överordnat produkt namn = produkt namn. |
 | Produktnamn | Produktens namn |
 | Produkttyp | Typ av produkt, till exempel app, tillägg eller spel |
-| Quantity | När intäkts källan är Microsoft Store för företag, representerar kvantiteten antalet licenser som har köpts. För alla andra intäkts källor är antalet alltid 1. Även om en enskild transaktion delas upp i två rad objekt eftersom två olika betalnings metoder användes, visar varje rad objekt en kvantitet på 1. |
+| Kvantitet | När intäkts källan är Microsoft Store för företag, representerar kvantiteten antalet licenser som har köpts. För alla andra intäkts källor är antalet alltid 1. Även om en enskild transaktion delas upp i två rad objekt eftersom två olika betalnings metoder användes, visar varje rad objekt en kvantitet på 1. |
 | Transaktionstyp | Transaktions typ, till exempel köp, åter betalning, återföring eller åter betalning |
 | Betalnings metod | Kund betalnings instrument som används för transaktionen, till exempel kort, fakturering av mobil företag eller PayPal |
 | Land/region | Land/region där transaktionen ägde rum |

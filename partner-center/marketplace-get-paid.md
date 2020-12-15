@@ -1,23 +1,28 @@
 ---
-title: Få betalt på den kommersiella marknadsplatsen
-description: Lär dig mer om att få betalningar för intäkter på den kommersiella Marketplace – Azure Marketplace. Inkluderar utbetalnings princip, utbetalnings status och utbetalnings instruktioner.
+title: Få betalt i Partner Center
+description: Lär dig mer om att ta emot betalningar för intäkter som en Microsoft-partner, t. ex. via kommersiella Marketplace-erbjudanden, stimulans program och Cloud Solution Provider-program. Inkluderar utbetalnings princip, utbetalnings status och utbetalnings instruktioner.
 ms.service: marketplace
 ms.topic: conceptual
-ms.date: 09/28/2020
+ms.date: 11/25/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: e998ae248b5b09340cb4a7b57c8fbd77b59731d4
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: fc1eea0d8a90bb2b5e11dad24a71c9c34fd1a4a0
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514732"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492457"
 ---
-# <a name="getting-paid-in-the-commercial-marketplace"></a>Få betalt på den kommersiella marknadsplatsen
+# <a name="getting-paid-in-partner-center"></a>Få betalt i Partner Center
+
+**Lämpliga roller:**
+
+- Kontoadministratör
+- Global administratör
 
 Den här artikeln innehåller viktig information om att ta emot betalning för dina erbjudanden, tillägg och marknadsförings intäkter. Den sammanfattar en utbetalnings princip, steg som krävs innan du betalar och utbetalnings översikt.
 
-## <a name="commercial-marketplace-payout-policies-and-agreements"></a>Principer och avtal för utbetalning av kommersiella marknads platser
+## <a name="payout-policies-and-agreements"></a>Utbetalnings principer och avtal
 
 För att få betalt måste du följa avtalen och utbetalnings principen.
 
@@ -49,4 +54,4 @@ Utbetalnings instruktionen visar dina intäkter från försäljningen från dina
 ## <a name="next-steps"></a>Nästa steg
 
 - [Partner utbetalnings-API](https://apidocs.microsoft.com/services/partnerpayouts)
-- [Vanliga frågor och svar om Marketplace](payout-faq.md)
+- [Vanliga frågor och svar om utbetalning](payout-faq.md)

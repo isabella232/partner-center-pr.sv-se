@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 4f4a82d4b8a94e960befb55bdd4a99e0cdcc9bb0
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 2444f2d6ff75340b7a9826828d28a4bb316d87a8
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "92531245"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492610"
 ---
 # <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>Använd dessa resurser för att komma igång med incitament
 
@@ -48,8 +48,8 @@ Innan du kan betala för ditt arbete i ett incitaments program måste du ge deta
 | Lär dig om ditt incitament uppfyller berättiganderegler för ett bestämt incitaments program | [Fastställa behörighet för program](incentives-determined-your-program-eligibility.md)  |
 | Hitta och ange de data som Microsoft kräver innan du kan ta emot dina incitaments utbetalningar | [Skapa och hantera utbetalnings-och skatte profiler i Partner Center](incentives-create-and-manage-your-payout-and-tax-profiles.md)  |
 | Bekräfta att du har angett all information som du behöver vara berättigad till att ta emot incitaments vinster | [Bekräfta ditt intäktsberättigande](incentives-confirm-your-earnings-eligibility.md)  |
-| Se alla data och rapporter för ditt incitaments program | [Visa incitamentsbetalningar och program](understand-incentive-payouts.md)  |
-| Få åtkomst till din programspecifice-sida med incitaments utbetalningar | [Gå till sidan med dina incitaments utbetalningar](incentives-unified-user-guide.md)  |
+| Se alla data och rapporter för ditt incitaments program | [Visa dina stimulans program och-betalningar](understand-incentive-payouts.md)  |
+| Få åtkomst till din programspecifice-sida med incitaments utbetalningar | [Få åtkomst till din utbetalnings instruktion](payout-statement.md)  |
 
 ## <a name="next-steps"></a>Nästa steg
 

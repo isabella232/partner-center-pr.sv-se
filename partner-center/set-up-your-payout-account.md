@@ -6,14 +6,19 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 40f9f90eb1da5d80b8df5a2a3d99979883060d81
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 58a981dbed3aa9a38a29cdd2b085d661b9341232
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514766"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492695"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Konfigurera utbetalningskonto och deklarationsblanketter
+
+**Lämpliga roller:**
+
+- Kontoadministratör
+- Global administratör
 
 För att få pengarna från försäljning av erbjudandet på den kommersiella marknads platsen måste du konfigurera ditt utbetalnings konto och fylla i de nödvändiga skatte formulären i [partner Center](https://partner.microsoft.com/dashboard).
 
@@ -32,19 +37,16 @@ När du har konfigurerat ditt konto finns det två saker du måste göra innan d
 
 ## <a name="tax-forms"></a>Skatte former
 
-### <a name="fill-out-your-tax-forms"></a>Fyll i dina skatte formulär
+Du hanterar din skatte profil och dina skatte formulär på sidan **utbetalning och skatt** i Partner Center. Organisationens behörigheter avgör vilka profiler och information som visas.
 
-Först måste du skapa en skatte profil och tilldela den till de program som du deltar i. Du kan skapa din *skatte profil* för den kommersiella marknads platsen genom att utföra följande steg:
+### <a name="create-or-update-your-tax-profile"></a>Skapa eller uppdatera din skatte profil
 
-- Ange land/region för bosättning och medborgarskap.
-- Fyll i lämpliga skatte formulär.
-
-Du kan slutföra och skicka in dina skatte formulär elektroniskt i Partner Center. i de flesta fall behöver du inte skriva ut och skicka e-post till några formulär.
+Först måste du skapa en skatte profil och tilldela den till de program som du deltar i. Använd följande steg för att skapa eller uppdatera din *moms profil* i Partner Center. Du kan slutföra och skicka in dina skatte formulär elektroniskt på instrument panelen för partner Center. i de flesta fall behöver du inte skriva ut och skicka e-post till några formulär.
 
 > [!IMPORTANT]
 > Olika länder och regioner har olika skatte krav. Den exakta mängd som du måste betala i skatter beror på de länder och regioner där du säljer ditt erbjudande. Se [Microsoft Azure Marketplace Publisher-avtalet](https://go.microsoft.com/fwlink/p/?LinkID=699560) för att ta reda på vilka länder/regioner som Microsoft betalar och använder för att betala för din räkning. I andra länder/regioner, beroende på var du är registrerad, kan du behöva betala försäljnings-och användnings skatt för din erbjudande försäljning direkt till den lokala beskattnings-utfärdaren. Dessutom kan app Sales-processen som du får vara skattepliktig som intäkt. Vi rekommenderar starkt att du kontaktar den behöriga myndigheten för ditt land eller din region som bäst kan hjälpa dig att fastställa rätt skatte information för dina kommersiella Marketplace-aktiviteter.
 
-1. I [partner Center](https://partner.microsoft.com/dashboard)väljer du kugg hjuls ikonen **Inställningar** i det övre högra hörnet och sedan **konto inställningar**.
+1. I [instrument panelen för partner Center](https://partner.microsoft.com/dashboard)väljer du kugg hjuls ikonen **Inställningar** i det övre högra hörnet och sedan **konto inställningar**.
 
 2. Välj **betalning och skatt** på den vänstra navigerings menyn och välj sedan **utbetalning och skatte tilldelningar**.
 
