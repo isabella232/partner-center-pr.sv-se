@@ -279,18 +279,12 @@
         - name: Om utbetalning och skatteprofiler
           href: incentives-create-and-manage-your-payout-and-tax-profiles.md
           displayName: incentives
-        - name: Vanliga frågor och svar om utbetalning och skatteprofiler
-          href: incentives-payout-tax-profile-faqs.md
-          displayName: incentives
         - name: Kontrollera intäktsberättigande
           href: incentives-confirm-your-earnings-eligibility.md
           displayName: incentives
-        - name: Visa betalningar och program
+        - name: Visa program och betalningar
           href: understand-incentive-payouts.md
           displayName: 'mpn, incentives'
-        - name: Åtkomst till sidan med utbetalningar
-          href: incentives-unified-user-guide.md
-          displayName: incentives
     - name: Planer och bevis på utförande
       items:
         - name: Om planer och bevis på utförande
@@ -433,23 +427,21 @@
       displayName: csp
 - name: Få betalt
   items:
+    - name: Få betalt
+      href: marketplace-get-paid.md
+    - name: Utbetalningsinstruktioner
+      href: payout-statement.md
     - name: 'Hantera uteblivna betalningar, bedrägeri eller missbruk'
       href: non-payment-fraud-misuse.md
     - name: Hantera ej allokerade betalningar
       href: unallocated-payment.md
-    - name: Utbetalningar på kommersiell marknadsplats
-      items:
-        - name: Få betalt – marknadsplats
-          href: marketplace-get-paid.md
-        - name: Information om utbetalningsprincip
-          href: payout-policy-details.md
-        - name: 'Betalningströsklar, metoder och tidsramar'
-          href: payment-thresholds-methods-timeframes.md
-        - name: Utbetalningsinstruktioner
-          href: payout-statement.md
-          displayName: invoice
-        - name: Vanliga frågor och svar om utbetalning
-          href: payout-faq.md
+    - name: Utbetalningsscheman och -processer
+      href: payout-policy-details.md
+    - name: 'Betalningströsklar, metoder och tidsramar'
+      href: payment-thresholds-methods-timeframes.md
+      displayName: invoice
+    - name: Vanliga frågor och svar om utbetalningar och skatteprofiler
+      href: payout-faq.md
 - name: Få kontakt med kunder
   items:
     - name: Få kontakt med dina kunder
@@ -663,10 +655,12 @@
               displayName: 'indirect, reseller'
             - name: Utbildning
               href: pci-training-dashboard.md
-        - name: Kända problem
+        - name: Vanliga frågor och svar om insikter
           href: pci-known-issues.md
         - name: Ladda ned insiktsrapporter
           href: pci-download-reports.md
+        - name: Datadefinitioner för insikter
+          href: pci-data-definitions.md
     - name: Indikatorer för partnerbidrag
       href: partner-contribution-indicators.md
       displayName: mpn
