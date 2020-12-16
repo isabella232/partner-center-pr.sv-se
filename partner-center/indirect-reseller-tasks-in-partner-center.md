@@ -1,7 +1,7 @@
 ---
 title: Arbeta med indirekta leverantörer i CSP-programmet
 ms.topic: how-to
-ms.date: 10/09/2020
+ms.date: 12/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lär dig hur indirekta åter försäljare kan arbeta med Microsofts indirekta leverantörer (eller distributörer) för att få hjälp med kund support och fakturering.
@@ -10,16 +10,14 @@ ms.custom: contperf-fy21q2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 082574f381186731cee023cfcdfa04b46d0ba1c5
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 3fc6b50280ac07f7c68c5a0913d0938d5eadd7f5
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492406"
+ms.locfileid: "97514746"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Lär dig att samar beta med indirekta leverantörer i Cloud Solution Provider-programmet
-
-
 
 **Lämpliga roller**
 
@@ -70,33 +68,22 @@ Från och med oktober 2020 registreras alla Microsoft-partners som är nya för 
 
 2. Granska **Välkomst sidan** för att se till att du har den information du behöver för att registrera dig och välj sedan **Nästa**.
 
-3. Logga in med ditt arbets konto. Välj **Logga** in och ange det användar namn och lösen ord som du använder för att logga in som global administratör för Office 365, Microsoft Azure eller Microsoft Dynamics CRM.
+3. Logga in med ditt arbets konto – det användar namn och lösen ord som du använder för att logga in som global administratör för Office 365, Microsoft Azure eller Microsoft Dynamics CRM. Om du inte har ett arbets konto väljer du **skapa ett** för att ställa in det nu. När du har skapat ditt arbets konto loggar du in med den globala administratörens autentiseringsuppgifter för ditt nya konto.
 
-   Om du inte har ett arbets konto väljer du **skapa ett** för att ställa in det nu. När du har skapat ditt arbets konto loggar du in med den globala administratörens autentiseringsuppgifter för ditt nya konto.
-
-4. Granska informationen om hur du kopplar ditt Microsoft Partner Network-ID (MPN-ID) till ditt nya partner Center-konto. Vi behöver länka ditt företags MPN-ID med ditt nya partner Center-konto så att du kan hantera dina medlemskaps förmåner och incitament till partner centret. Välj **Logga in**.
-
-5. Ange det användar namn som du använder för att logga in på webbplatsen för partner medlemskap Center (PMC). Platsen för partner medlemskap Center är där du för närvarande hanterar ditt Microsoft partner-konto. Genom att logga in på partner medlemskaps Center kan vi hämta ditt MPN-ID och koppla det till ditt nya partner Center-konto. Välj **Nästa**.
-
-6. Ange lösen ordet för ditt partner medlemskaps Center konto och välj sedan **Logga** in.
-
-7. Välj företags profilen med MPN-ID som är kopplat till dina incitament, medlemskaps förmåner och kompetenser. Vi kan sedan flytta den här informationen till ditt partner Center-konto. Välj **Fortsätt**.
-
-   Om det MPN-ID som du vill använda inte visas på den här sidan väljer du **Avbryt** och loggar in igen med användar namnet och lösen ordet för den företags profil som du vill använda.
 
    > [!IMPORTANT]  
-   > Välj det MPN-ID som är associerat med en aktiv företags profil som finns i samma land/region som din Azure AD-klient.
+   > Välj det MPN-ID som är kopplat till den aktiva företags profilen som finns i samma land/region som din Azure AD-klient.
 
-8. Ange eller uppdatera företagets juridiska företags profil, primär kontakt information och kund support information. Välj **Registrera nu**.
+4. Ange eller uppdatera företagets juridiska företags profil, primär kontakt information och kund support information. (Om du vill hitta din juridiska företags information väljer du **organisations profil** och väljer sedan **juridisk information**.) Välj **Registrera nu**.
 
-   Den primära kontakten bör vara den person i företaget som vi kan kontakta om ditt program. Den primära kontakten kan vara du eller någon annan person i företaget. OBS! vi accepterar inte e-postadresser från webbaserade e-posttjänster som Gmail, Yahoo! E-post, iCloud Mail, AOL-e-post eller Outlook-e-post.
+   Den primära kontakten är den person i företaget som vi kan kontakta om ditt program. Det kan vara du eller någon annan person i företaget. OBS! vi accepterar inte e-postadresser från webbaserade e-posttjänster som Gmail, Yahoo! E-post, iCloud Mail, AOL-e-post eller Outlook-e-post.
 
    > [!IMPORTANT]  
    > För att säkerställa ditt företags säkerhet och sekretess skickar vi din primära kontakt för att verifiera att (1) han eller hon registrerat sig för ett partner Center-konto och (2) att den här e-postadressen tillhör ditt företag. När den primära kontakten har verifierat sin e-postadress kommer vi att fortsätta med vår granskning av den information som du har angett. Vi kommer att e-posta status uppdateringar till den primära kontakten.
 
-9. När ditt partner Center-konto är klart att använda kontrollerar du att du har lagts till i administratörs Agent gruppen. För att slutföra konfigurationen av ditt konto, inklusive att lägga till andra användare, måste du ha administratörs agent behörighet. Följ dessa steg om du vill visa eller uppdatera dina behörigheter:
+5. När ditt partner Center-konto är klart att använda kontrollerar du att du har lagts till i administratörs Agent gruppen. För att slutföra konfigurationen av ditt konto, inklusive att lägga till andra användare, måste du ha administratörs agent behörighet. Följ dessa steg om du vill visa eller uppdatera dina behörigheter:
 
-   1. Välj ikonen **Inställningar** i **partner Center** och välj sedan **användar hantering**.
+   1. Välj ikonen **Inställningar** på instrument panelen för partner Center och välj sedan **användar hantering** under **konto inställningar**.
 
    2. Välj ditt namn i listan med användare. Välj sedan **admin agent** om den inte redan är vald. Välj **Uppdatera**.
 
@@ -136,6 +123,10 @@ Om en indirekt Provider vill ansluta till dig på Partner Center, kommer de att 
 
    > [!IMPORTANT]  
    > Din indirekta leverantör måste ha en åter försäljares relation med dina kunder för att kunna skicka in beställningar för deras räkning.
+
+## <a name="your-csp-country-and-the-csp-regions-where-you-do-business"></a>Ditt CSP-land och de CSP-regioner där du gör affärer
+
+Din juridiska företags plats som en indirekt åter försäljare av CSP avgör vilka indirekta leverantörer du kan arbeta med och i vilka regioner du kan göra CSP-verksamhet. Lär dig mer genom att läsa [Cloud Solution Provider-program regionala marknader och valutor där du kan sälja CSP-erbjudanden](regional-authorization-overview.md).
 
 
 ## <a name="next-steps"></a>Nästa steg

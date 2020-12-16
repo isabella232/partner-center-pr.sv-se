@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: d8dac9e5d8720a39d6bf585a1f6cd9bd5c70465a
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: 09653cbe4db15678db94a1012861924a6c7cf6c9
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926686"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514760"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Lär dig mer om Microsoft partner Agreement (MPA) för CSP-programpartner
 
@@ -56,7 +56,7 @@ Om du vill fortsätta delta i CSP-programmet måste du logga Microsoft partner A
 
 1. Välj [partner profil](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)från **Inställningar** .
 
-1. Se avsnittet **program information** . Om informationen inte visar **indirekt åter försäljar** status måste du [Registrera dig som en indirekt åter försäljare](https://partner.microsoft.com/cloud-solution-provider/whats-required).
+1. Se avsnittet **program information** . Om informationen inte visar **indirekt åter försäljar** status måste du [Registrera dig som en indirekt åter försäljare](indirect-reseller-tasks-in-partner-center.md).
 
 1. Om den  **indirekta åter försäljarens** status är **aktiv** är du en aktiv indirekt åter försäljare i Partner Center.
  

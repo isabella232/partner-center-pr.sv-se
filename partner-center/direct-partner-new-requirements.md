@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 10/29/2020
-ms.openlocfilehash: 882617433f7cf2bce01de8dce608951a9a13c77e
-ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
+ms.date: 12/15/2020
+ms.openlocfilehash: 7efd3ab2303f66fbd2b02e872e51be6c0e64993c
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "94360028"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514713"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Krav för att registrera dig som CSP-partner med direktfakturering
 
@@ -57,7 +57,6 @@ Om du väljer att flytta från en direkt fakturerings verksamhet till en indirek
 
 - [Nytt intäkts krav för direkta fakturerings partner](./announcements/2020-october.md#13)
  
-
 - [Ytterligare information om att bli en indirekt åter försäljare](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 
-- [Vanliga frågor och svar om direkt fakturering till indirekt åter försäljare](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)
+- [Ny prestanda standard för direkta fakturerings partner krav i CSP](https://partner.microsoft.comresources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)

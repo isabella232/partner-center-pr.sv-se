@@ -1,7 +1,7 @@
 ---
 title: Vanliga frågor och svar om förmåner
 ms.topic: article
-ms.date: 09/08/2020
+ms.date: 12/15/2020
 description: Svar på frågor om förmånens förfallo datum, förnyelse och aktivering av licenser för Azure, molnet, Visual Studio och tekniska och support förmåner
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 61ceb869d2268b441d990049b9956da8ea87f8f5
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: f4ed4fe8946c6cacba1277921aececd84863c465
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570696"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514683"
 ---
 # <a name="benefits-faq"></a>Vanliga frågor och svar om förmåner
 
@@ -98,7 +98,7 @@ Du kan tilldela prenumerationer till alla i din användar hanterings lista i Par
 När du har tilldelat prenumerationen måste användaren logga in i Visual Studio för att kunna hantera den.
 
 >[!Note]
-> Visual Studio-prenumerationer kan omtilldelas från en prenumerant till en annan 90 dagar efter den ursprungliga tilldelningen.
+> Visual Studio-prenumerationer kan omtilldelas från en prenumerant till en annan om 90 dagar har passerat sedan tidpunkten för den ursprungliga tilldelningen.
 
 ## <a name="technical-benefits-and-support"></a>Tekniska förmåner och support
 
