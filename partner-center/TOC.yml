@@ -738,6 +738,8 @@
     - name: Kräva multifaktorautentisering för din partnerorganisation
       href: partner-security-requirements-mandating-mfa.md
       displayName: csp
+    - name: Ge användarna MFA
+      href: mfa-for-users.md
     - name: Status för krav
       href: partner-security-compliance.md
       displayName: csp
