@@ -1,7 +1,7 @@
 ---
 title: Bidrags indikatorer för partner
 ms.topic: article
-ms.date: 11/03/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lär dig mer om sju partner bidrags indikatorer (PCI) som visar hur du gör med Dynamics 365 kund engagemang eller Dynamics 365 ekonomi och åtgärder.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e5e3c0ad1a1abae49b05394d569b67840a01ecca
-ms.sourcegitcommit: fc4d94b2a9575808745f8fb8c7ee5ae88be6803c
+ms.openlocfilehash: 336481cf390fb467c4768edfff9d9c38e8dd8f31
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "93344399"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97636049"
 ---
 # <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>Partner bidrags indikatorer (PCI) visar partner påverkan på sju viktiga mått för kund framgångar
 
@@ -42,23 +42,23 @@ PCI ger en sofistikerad vy över en partners tekniska funktioner, deras förmåg
 
 *Prestanda indikatorer:*
 
-1. **Netto nya intäkter** : netto nya intäkter i alla försäljnings kanaler för Microsoft Dynamics 365-produkter. (Mer information om det här måttet finns i [definitioner för nya netto intäkter](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue).)
+1. **Netto nya intäkter**: netto nya intäkter i alla försäljnings kanaler för Microsoft Dynamics 365-produkter. (Mer information om det här måttet finns i [definitioner för nya netto intäkter](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue).)
 
-2. **Net-kunden lägger till** : net-kunder som förvärv ATS för Dynamics 365 i alla försäljnings kanaler. (Mer information om det här måttet finns i [definitioner för net Custom lägger till](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds).)
+2. **Net-kunden lägger till**: net-kunder som förvärv ATS för Dynamics 365 i alla försäljnings kanaler. (Mer information om det här måttet finns i [definitioner för net Custom lägger till](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds).)
 
 *Funktions indikatorer:*
 
-3. **Funktionella konsulter** : antal personer som innehar en för närvarande aktiv funktionell konsult som associerar certifiering för Dynamics 365. (Mer information om det här måttet finns i [definitioner av funktionella konsulter](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants).)
+3. **Funktionella konsulter**: antal personer som innehar en för närvarande aktiv funktionell konsult som associerar certifiering för Dynamics 365. (Mer information om det här måttet finns i [definitioner av funktionella konsulter](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants).)
 
-4. **Funktionell konsult tillväxt** : tillväxt i antalet funktionella konsult partner.  Bas linje ögonblicks bilden för den funktionella konsultens tillväxt mått i PCI kommer nu att göras den 1 oktober 2020. (Mer information om det här måttet finns i [definitionerna för den funktionella konsultens tillväxt](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).)
+4. **Funktionell konsult tillväxt**: tillväxt i antalet funktionella konsult partner. Det finns några alternativ för att få poäng för den här indikatorn. Ett alternativ kräver att bas linje ögonblicks bilden för det funktionella konsult måttet för den funktionella konsulten i PCI tas från den 1 oktober 2020. (Mer information om alla alternativ för att få poäng för det här måttet finns i [definitionerna för funktionell konsult tillväxt](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).)
 
-5. **Utvecklare** : antal personer som innehar en aktiv utvecklare som har associerat certifikat för Dynamics 365. (Mer information om det här måttet finns i [definitioner för utvecklare](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers).)
+5. **Utvecklare**: antal personer som innehar en aktiv utvecklare som har associerat certifikat för Dynamics 365. (Mer information om det här måttet finns i [definitioner för utvecklare](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers).)
 
 *Kundernas lyckade indikatorer:*
 
-6. **Nya stora distributioner** : antalet produktions innehavare som överskrider tröskelvärdet för hög användning under de senaste 12 månaderna. (Mer information om det här måttet finns i [definitionerna för nya stora distributioner](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments).)
+6. **Nya stora distributioner**: antalet produktions innehavare som överskrider tröskelvärdet för hög användning under de senaste 12 månaderna. (Mer information om det här måttet finns i [definitionerna för nya stora distributioner](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments).)
 
-7. **Månatlig aktiv användar tillväxt** : tillväxt i månatliga aktiva användare över alla dina kunder under de senaste 12 månaderna. (Mer information om det här måttet finns i [definitionerna för månatlig aktiv användar tillväxt](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth).)
+7. **Månatlig aktiv användar tillväxt**: tillväxt i månatliga aktiva användare över alla dina kunder under de senaste 12 månaderna. (Mer information om det här måttet finns i [definitionerna för månatlig aktiv användar tillväxt](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth).)
 
 ### <a name="how-pci-score-impacts-competency-eligibility"></a>Hur PCI-poängen påverkar kompetens berättigande
 Poäng beviljas för varje uppnådd indikator som resulterar i ett PCI-poäng med en siffra. 100 maximalt antal punkter är möjliga. 
@@ -98,12 +98,12 @@ Varje PCI-mått har Microsoft-uppsättnings tröskelvärden som kan tjäna ditt 
 Poäng över varje mått beräknas för att ge en distinkt PCI-Poäng för kund engagemang och ekonomi och verksamhet. Resultatet kommer att uppdateras varje månad.
 
 Partner kan få maximalt antal poäng för ett angivet mått om de uppfyller eller överskrider tröskelvärdena som anges nedan. Partiella punkter kan intjänas för alla mått utom för en funktionell konsult-tillväxt.
+
 En utvecklad marknads partner med $150 000 i nya netto intäkter kommer till exempel att tjäna hälften ($ 150000/$ 300000) av max 10 punkter.
 
 Mer information finns i följande tabeller:
 - [Tabell 1. Tröskelvärden för kund engagemang](partner-contribution-indicators.md#table-1-customer-engagement-thresholds)
 - [Tabell 2. Tröskelvärden för ekonomi och åtgärder](partner-contribution-indicators.md#table-2-finance-and-operations-thresholds)
-- [Tabell 3. Funktionell konsult tillväxt](partner-contribution-indicators.md#table-3-functional-consultant-growth)
 
 ### <a name="table-1-customer-engagement-thresholds"></a>Tabell 1 tröskelvärden för kund engagemang
 
@@ -114,7 +114,7 @@ Mer information finns i följande tabeller:
 | **Utifrån** | $300 000 | 10 | 10 | *\* Se Obs!* | 5 | 5 | 25 % |
 | **Länder** | $150 000 | 5  | 5  |*\* Se Obs!* | 2 | 1 | 25 % |
 
-*\* Obs! tillväxt målen varierar beroende på antalet bas linje konsulter. Se [tabell 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) för tillväxt mål.*
+*\* Obs! tillväxt målen varierar beroende på antalet bas linje konsulter och det alternativ som en partner använder för att få poäng. Om du vill veta mer om alternativ för att få poäng eller varje alternativs angivna tillväxt mål, se [definitioner för funktionell konsult tillväxt](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).*
 
 ### <a name="table-2-finance-and-operations-thresholds"></a>Tabell 2-tröskelvärden för ekonomi och åtgärder
 
@@ -125,19 +125,7 @@ Mer information finns i följande tabeller:
 | **Utifrån** | $300 000 | 3 | 15 | *\* Se Obs!* | 5  | 3 | 25 % |
 | **Länder** | $150 000 | 1 | 5 |*\* Se Obs!* | 2 | 1 | 25 % |
 
-*\* Obs! tillväxt målen varierar beroende på antalet bas linje konsulter. Se [tabell 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) för tillväxt mål.*
-
-### <a name="table-3-functional-consultant-growth"></a>Tabell 3 funktionell konsult-tillväxt
-
->[!NOTE]
-> I följande tabell **visas en** utvecklad och **utveckling** av kolumn med den funktionella konsultens bas linje som krävs för att tjäna poäng. Datumet för den ursprungliga bas linjen tas från den 1 oktober 2020.
-
-
-| Utifrån | Länder | Tillväxt krävs för att få alla 15 Poäng *
-|:---:|:---:|:---:|
-| 15-29 | 5-14 | 35 % |
-| 30-49 | 15-24 | 25 % |
-| 50 och uppåt | 25 och över | 15 % |
+*\* Obs! tillväxt målen varierar beroende på antalet bas linje konsulter och det alternativ som en partner använder för att få poäng. Om du vill veta mer om alternativ för att få poäng eller varje alternativs angivna tillväxt mål, se [definitioner för funktionell konsult tillväxt](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).*
 
 ## <a name="detailed-definitions-of-pci-metrics"></a>Detaljerade definitioner av PCI-mått
 
@@ -208,13 +196,30 @@ Funktionella konsult konsulter är en kapacitets indikator och en av sju viktiga
 
 - Funktionella konsulter definieras som antalet personer som innehar en för närvarande aktiv funktionell konsult som associerar certifiering, till exempel en kund engagemang funktionell konsult certifiering eller en finans-och drifts funktionell konsult-certifiering.
 
-- Kund engagemang funktionell konsult certifiering kräver att en person skickar: MB-200 **och** något av följande: mb-210, MB-220, mb-230, mb-240 eller MB6-898.
+- Engagerande konsult certifiering för kund engagemang kräver att en person skickas:
+  - MB-200 \* eller pl-200<br/>
+  **och** en av följande examina:
+  - MB-210, MB-220, MB-230, MB-240 eller MB6-898 \* \* .
 
-- Finans-och drifts funktionella konsult certifiering kräver att en person skickar: MB-300 **och** något av följande: mb-310, MB-320, mb-330, MB6-897 eller MB6-898.
+- Finans-och drifts funktioner för en fungerande konsult certifiering kräver att en person skickar:
+  - MB – 300<br/>
+  **och** en av följande examina:
+  - MB-310, MB-320, MB-330, MB-897 \* \* eller MB6-898 \* \* .
+
+> [!NOTE]
+> Examina som marker ATS med en asterisk ( \* ) dras tillbaka eller ersätts under de kommande månaderna. Se nedan för detaljerad information:
+>
+> - Examina som marker ATS med en enda asterisk ( \* ) tas ur bruk den 31 December 2020. Examina som tas ur kraft den 31 december 2020 är berättigade till kompetens och förlängning till och med den 31 december 2021, om de tas innan de dras tillbaka.
+> - Examina som marker ATS med två asterisker ( \* \* ) tas ur bruk 31 januari 2021. Examina som tas ur kraft den 31 januari 2021 är berättigade till kompetens och förnyelse till och med 31 januari 2022, om de tas innan de dras tillbaka.
+
 
 ### <a name="definitions-for-pci-metric-4---functional-consultant-growth"></a>Definitioner för PCI-mått #4-funktionell konsult tillväxt
 
-Funktionell konsult tillväxt är en kapacitets indikator och en av sju viktiga bidrags indikatorer för nyckel partner som [beskrivs ovan i den här artikeln](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Här är mer information om hur den funktionella konsultens tillväxt indikator definieras och hur den här kategorins punkter beräknas:
+Funktionell konsult tillväxt är en kapacitets indikator och en av sju viktiga bidrags indikatorer för nyckel partner som [beskrivs ovan i den här artikeln](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). En partner har ett av två alternativ för att uppnå alla-eller-Nothing-punkter (15 eller 0 punkter) som är tillgängliga för det här måttet. Inga delar av poäng kommer att tilldelas. 
+
+Här är mer information om hur den funktionella konsultens tillväxt indikator definieras och hur den här kategorins punkter beräknas.
+
+**Alternativ ett för att erhålla punkter:**
 
 - Den funktionella konsultens tillväxt definieras som tillväxten i antalet certifierade, certifierade funktionella konsult företag sedan en bas linje ögonblicks bild. Datum för bas linje ögonblicks bild tas från den 1 oktober 2020.
 
@@ -224,7 +229,19 @@ Funktionell konsult tillväxt är en kapacitets indikator och en av sju viktiga 
 
 - För att vara berättigad till poäng måste du ha minst **15** fungerande konsult partner för att utveckla marknads partner och **5** för att utveckla marknads partner när bas linje ögonblicks bilden tas.
 
-- **Inga delar av poäng kommer att tilldelas.** Tillväxten ovanpå bas linje ögonblicks bilden måste uppfylla eller överskrida tröskelvärdena som anges i [tabell 3. Funktionell konsult tillväxt](partner-contribution-indicators.md#table-3-functional-consultant-growth).
+- **Inga delar av poäng kommer att tilldelas.** Tillväxten ovanpå bas linje ögonblicks bilden måste uppfylla eller överskrida tröskelvärdena som anges i följande tabell. Tabellen visar en **utvecklad** och **utvecklad** kolumn med den funktionella konsultens bas linje som krävs för att tjäna poäng.
+
+  | Utifrån | Länder | Tillväxt krävs för att få alla 15 Poäng *
+  |:---:|:---:|:---:|
+  | 15-29 | 5-14 | 35 % |
+  | 30-49 | 15-24 | 25 % |
+  | 50 och uppåt | 25 och över | 15 % |
+
+**Alternativ två för att erhålla punkter:**
+
+- Utvecklade marknads partner kan certifiera 50 eller flera funktionella konsulter i tid för sin första PCI-baserade CBA-årsdag. (Utveckla marknads partner kan certifiera 25 eller flera funktionella konsulter i tid för den första PCI-baserade CBA-årsdagen.)
+
+- Om du når det här tröskelvärdet får du hela 15 poäng för funktionell konsult tillväxt i 24 månader från det datumet. Detta innebär att du får maximalt antal poäng för funktionell konsult tillväxt för två CBA jubileums dagar.
 
 ### <a name="definitions-for-pci-metric-5---developers"></a>Definitioner för PCI-mått #5 – utvecklare
 
@@ -234,9 +251,21 @@ Utvecklare är en funktions indikator och en av sju viktiga partner bidrags indi
 
 - Poäng för utvecklare-indikatorn baseras på den aktuella månads ögonblicks bilden med högst 5 punkter tillgängliga.
 
-- Customer Engagement-utvecklare får kredit när de passerar båda megabyte-200 **och** något av följande: MB-400 eller MB2-716.
+- Utvecklare av kund engagemang får kredit när de skickar:
+  - PL-400<br/>**eller**
+  - MB – 200 \* **och** en av följande examina:
+    - MB-400 \* eller MB2 – 716\*\*
 
-- Finans-och drift utvecklare får kredit när de passerar båda megabyte-300 **och** något av följande: MB-500 eller MB6-894.
+- Finans-och drift utvecklare får kredit när de passerar:
+  - MB – 300<br/>
+  **och** en av följande examina:
+  - MB – 500 eller MB-894\*\*
+
+> [!NOTE]
+> Examina som marker ATS med en asterisk ( \* ) dras tillbaka eller ersätts under de kommande månaderna. Se nedan för detaljerad information:
+>
+> - Examina som marker ATS med en enda asterisk ( \* ) tas ur bruk den 31 December 2020. Examina som tas ur kraft den 31 december 2020 är berättigade till kompetens och förlängning till och med den 31 december 2021, om de tas innan de dras tillbaka.
+> - Examina som marker ATS med två asterisker ( \* \* ) tas ur bruk 31 januari 2021. Examina som tas ur kraft den 31 januari 2021 är berättigade till kompetens och förnyelse till och med 31 januari 2022, om de tas innan de dras tillbaka.
 
 ### <a name="definitions-for-pci-metric-6---new-large-deployments"></a>Definitioner för PCI-mått #6 – nya stora distributioner
 

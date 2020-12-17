@@ -9,18 +9,157 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/02/2020
-ms.openlocfilehash: 841ef4701ef7c973cc7a4fffaa26bb24b8d6f7e9
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.openlocfilehash: c546885d74f5959dd02c0c7ce0fdbc22f9ff5313
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622158"
+ms.locfileid: "97635998"
 ---
 # <a name="december-2020-announcements"></a>Meddelanden december 2020
 
 Den här sidan innehåller information om Microsoft Partner Center-meddelanden för november 2020.
 
 2020-meddelanden: [april](2020-april.md)  |  [maj](2020-may.md)den  |  [juni](2020-june.md)  |  [juli](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  [](2020-October.md)  |  [](2020-november.md) | Utgången
+
+______________
+
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="8"></a>Ändringar i CSP-kundernas (Cloud Solution Provider) krav för kund onboarding
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2020-12-17
+- Erbjudanden/marknader
+ 
+### <a name="summary"></a>Sammanfattning
+
+Som en del av vårt åtagande att hjälpa partner och kunder att köra sin verksamhet baserat på förtroende kommer vi att begära ytterligare kund information, som är effektiv i slutet av mars 2021.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+CSP direkt fakturerings partner och indirekta leverantörer som har nya eller befintliga kunder i de länder som anges i nästa avsnitt
+
+### <a name="details"></a>Information
+
+Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för kund validering för att agera kund prenumerationer i CSP-programmet. I slutet av mars 2021 kommer vi att lansera förbättringar för API för API och användar gränssnitt (UI) som påverkar partner som uppfyller båda följande kriterier:
+
+1. Partnern har en direkt fakturerings relation med Microsoft (vilket innebär att partnern antingen är en direkt fakturerings partner eller en indirekt Provider).
+
+2. Partnern gör affärer med nya eller befintliga kunder i följande länder:
+    - Thailand
+    - Vietnam
+    - Turkiet
+    - Polen
+    - Sydafrika
+    - Indien
+    - Brasilien
+    - Irak
+    - Myanmar
+    - Sydsudan
+    - Saudiarabien
+    - Förenade Arabemiraten
+    - Venezuela
+
+Partner som uppfyller kriterierna måste skicka in en kunds **juridiska identifierare** (kallas även kundens **organisations Inn**) och **telefonnummer** när nästa uppdatering eller skapar en prenumeration för kunden. Dessa partner kan också ange ett valfritt **mellan namn** för kunden.
+
+Partner som gör affärer med nya eller befintliga kunder i följande länder har redan publicerats med en tidigare version i november 2020.
+
+- Armenien
+- Azerbajdzjan
+- Vitryssland
+- Ungern
+- Kazakstan
+- Kirgizistan
+- Moldavien
+- Ryssland
+- Tadzjikistan
+- Ukraina
+- Uzbekistan
+
+Partner med kunder i resten av världen kommer att ha möjlighet i slutet av mars 2021 att ange **juridisk identifierare**, **telefonnummer** och **mellan namn** för kunder som valfri information.
+
+### <a name="next-steps"></a>Nästa steg
+
+- Läs igenom den tekniska dokumentationen och vanliga frågor och svar i den dedikerade [partner samlingen](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) för mer detaljerad vägledning.
+- Förbered för att införliva ändringarna med partner Center API och webb användar upplevelsen. API/SDK: er kommer att vara tillgängliga för testning.
+- Se till att skicka in ytterligare data när du registrerar nya kunder eller ändrar befintlig kund information.
+- Om du använder en lösning för en kontroll panels leverantör (CPV) bör du kontakta din CPV.
+
+### <a name="questions"></a>Har du några frågor?
+
+Kontakta din skatte rådgivare eller ditt lokala skatte kontor om du har frågor som rör juridisk identifierare (även kallat INN eller tenn). Microsoft kan inte ge vägledning om skatte frågor. 
+
+Om du behöver stöd för dina åtgärder med Microsoft [öppnar du en tjänstbegäran](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+
+______________
+
+## <a name="reminder-perpetual-software-in-the-cloud-solution-provider-csp-program-broadly-available-from-january-2021"></a><a name="7"></a>Påminnelse: beständig program vara i program varan för Cloud Solution Provider (CSP) brett tillgänglig från 2021 januari
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2020-12-17
+- Utveckla din verksamhet
+ 
+### <a name="summary"></a>Sammanfattning
+
+Det här är en påminnelse från 19 januari 2021. alla CSP-partner kommer att kunna sälja kommersiella program varu licenser. Vi presenterar också nya produkter och geografiska områden.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Alla CSP-partner
+
+### <a name="details"></a>Information
+
+Vi vill påminna dig om att från **19 januari 2021** kommer alla partner som registrerats i CSP-programmet att kunna sälja kommersiella program varu licenser för lokal distribution via CSP. Detta ger kunderna den flexibilitet för licensiering som de behöver som en del av deras digitala omvandling.
+
+Följande sker också på samma datum:
+
+- Pris listan för beständig program vara för CSP kommer att publiceras om i Partner Center. Den finns i avsnittet **program vara** på sidan [Sälj > priser för pris &](https://partnercenter.microsoft.com/pcv/sales) , som innehåller ytterligare produkter och geografiska områden. Fullständig information finns [här](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
+
+- Kapaciteten för att uppfylla program-och licens nyckel för partner Center kommer att tas bort – se [meddelande](https://docs.microsoft.com/partner-center/announcements/2020-september#17) -och partners använder Microsoft 365 administrations Center exklusivt för detta ändamål. Detta säkerställer den säkraste och effektiva upplevelsen för kunderna. Läs mer om Microsoft 365 administrations Center-programvara genom att granska [översikten](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [vanliga aktiviteter](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true)och funktionerna för att [uppfylla licens](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)kraven.
+
+### <a name="perpetual-software-in-csp"></a>Beständig program vara i CSP
+
+Att lägga till beständig program vara i CSP-programmet i den nya Commerce-upplevelsen kommer att minska den tid och de kostnader som partners behöver ägna på att hantera flera licens program. Detta kommer att leda till förbättrade funktioner för försäljning, drift och hantering. Partner kan utöka sina företag genom att erbjuda olika lösningar och hanterade tjänster med flexibiliteten att kombinera licenser och hanterade tjänster för Hybrid moln miljöer, vilket påskyndar deras kunders över gång till molnet. Kunder i sin tur drar nytta av ett förenklat tillvägagångs sätt och större flexibilitet i att köpa program varu licenser. Den här inköps processen är lätt att förstå, förbättrar hanteringen av licens till gångar och har förutsägbara kostnader.
+
+### <a name="next-steps"></a>Nästa steg
+
+Granska följande resurser och dela dem med relevanta kontakter i din organisation:
+
+- [Programvarubaserade program varu produkter och geografiska](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf) områden som lades till den 19 januari 2021
+
+- [Översikt över](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)Microsoft 365 administrations Center, [vanliga uppgifter](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true)och [kapacitets krav för licens nyckel](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
+
+- [Expandera affärs möjligheter för partner i Cloud Solution Provider-programmet](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) (partner meddelande)
+
+- [Beständig program vara i moln lösnings leverantörens program](https://partner.microsoft.com/resources/collection/software-in-csp#/) beredskaps material, inklusive en översikts presentation, licensierings vägledning, vanliga frågor och svar om drift och teknik (SDK/API) webb seminarier och många fler användbara resurser. Använd den här [beredskaps kartan](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) för att snabbt hitta rätt information för din roll.
+
+### <a name="questions"></a>Har du några frågor?
+
+Om du har fler frågor om dessa erbjudanden kan du kontrol lera dina relevanta Yammer-communities.
+
+______________
+
+## <a name="online-services-and-software-channel-authorization-guide"></a><a name="6"></a>Guide för Auktoriseringsprinciper för online tjänster och program varu kanal
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2020-12-17
+- Funktioner
+ 
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Direkta fakturor, indirekta leverantörer och flera nivåer som ingår i program varan för Cloud Solution Provider (CSP).
+
+### <a name="details"></a>Information
+
+I enlighet med ditt Microsoft partner avtal (se avsnittet **online tjänster och program varu kanals auktorisering – meddelande om ändringar – ändringar i guiderna**), meddelar Microsoft härmed att guiden för Online Services och program varu kanal har uppdaterats. 
+
+En för hands version av den uppdaterade guiden finns [här](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-jan-pdf)med en Redline som visar vilka ändringar som [är tillgängliga här](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-jan-redline-pdf). Den här uppdateringen börjar gälla 30 dagar från dagen för detta meddelande. ingen ytterligare åtgärd krävs från dig för tillfället.
+
+### <a name="next-steps"></a>Nästa steg
+
+Ingen åtgärd krävs. Detta är endast för information.
 
 ______________
 
@@ -37,7 +176,7 @@ Alla partner som går via program varan för Cloud Solution Provider (CSP)
 
 ### <a name="details"></a>Information
 
-Power Apps kampanj erbjudande som ursprungligen planerades för 1 december försenades något. Erbjudandet bör vara tillgängligt 16 december 2020. Det här erbjudandet är tillgängligt till ett reducerat pris och har andra skillnader jämfört med vanliga erbjudanden i Partner Center.
+Power Apps-erbjudandet ursprungligen planerat den 1 december 2020 hade förskjutits något. Erbjudandet bör vara tillgängligt 16 december 2020. Det här erbjudandet är tillgängligt till ett reducerat pris och har andra skillnader jämfört med vanliga erbjudanden i Partner Center.
  
 **Erbjudande information**
 

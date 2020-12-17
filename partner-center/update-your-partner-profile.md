@@ -7,14 +7,14 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
 ms.localizationpriority: high
-ms.date: 11/23/2020
+ms.date: 12/16/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9b23fc887b754bf4eb1d703026a24e294952f4c
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 398e02e4d18df9e555a1576e845e1d0e0bdf1105
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514715"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97636015"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Verifiera din organisations profil information i Partner Center
 
@@ -65,16 +65,12 @@ Om du under migreringen från Partner medlemskap Center till Partner Center har 
 
 Så här uppdaterar du det MPN-ID som är associerat med ditt CSP-konto:
 
-1. Logga in på instrument panelen för partner Center.
+1. Logga in på Partner Center-instrumentpanelen och välj sedan **Inställningar**.
  
-1. Välj **organisations profil** från **konto inställningar**.
+1. Välj **identifierare** från **konto inställningar**.
 
-1. Välj **Uppdatera** bredvid **associerade MPNID**.
+1. Under avsnittet **CSP** använder du länken **Uppdatera** för att uppdatera det MPN-ID som är associerat med ditt CSP-konto.
  
-1. Välj **Fortsätt**.
- 
-1. Lägg till ditt MPN-ID.
-
 
 ## <a name="update-your-billing-address"></a>Uppdatera din fakturerings adress
 

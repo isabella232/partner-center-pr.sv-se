@@ -1,7 +1,7 @@
 ---
 title: Arbeta med indirekta leverantörer i CSP-programmet
 ms.topic: how-to
-ms.date: 12/11/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lär dig hur indirekta åter försäljare kan arbeta med Microsofts indirekta leverantörer (eller distributörer) för att få hjälp med kund support och fakturering.
@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 3fc6b50280ac07f7c68c5a0913d0938d5eadd7f5
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: c1929a68146c09beae16e5aabd96b1f192db3a31
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514746"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97636032"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Lär dig att samar beta med indirekta leverantörer i Cloud Solution Provider-programmet
 
@@ -69,10 +69,7 @@ Från och med oktober 2020 registreras alla Microsoft-partners som är nya för 
 2. Granska **Välkomst sidan** för att se till att du har den information du behöver för att registrera dig och välj sedan **Nästa**.
 
 3. Logga in med ditt arbets konto – det användar namn och lösen ord som du använder för att logga in som global administratör för Office 365, Microsoft Azure eller Microsoft Dynamics CRM. Om du inte har ett arbets konto väljer du **skapa ett** för att ställa in det nu. När du har skapat ditt arbets konto loggar du in med den globala administratörens autentiseringsuppgifter för ditt nya konto.
-
-
-   > [!IMPORTANT]  
-   > Välj det MPN-ID som är kopplat till den aktiva företags profilen som finns i samma land/region som din Azure AD-klient.
+  
 
 4. Ange eller uppdatera företagets juridiska företags profil, primär kontakt information och kund support information. (Om du vill hitta din juridiska företags information väljer du **organisations profil** och väljer sedan **juridisk information**.) Välj **Registrera nu**.
 
@@ -81,7 +78,16 @@ Från och med oktober 2020 registreras alla Microsoft-partners som är nya för 
    > [!IMPORTANT]  
    > För att säkerställa ditt företags säkerhet och sekretess skickar vi din primära kontakt för att verifiera att (1) han eller hon registrerat sig för ett partner Center-konto och (2) att den här e-postadressen tillhör ditt företag. När den primära kontakten har verifierat sin e-postadress kommer vi att fortsätta med vår granskning av den information som du har angett. Vi kommer att e-posta status uppdateringar till den primära kontakten.
 
-5. När ditt partner Center-konto är klart att använda kontrollerar du att du har lagts till i administratörs Agent gruppen. För att slutföra konfigurationen av ditt konto, inklusive att lägga till andra användare, måste du ha administratörs agent behörighet. Följ dessa steg om du vill visa eller uppdatera dina behörigheter:
+5. Koppla ditt MPN-ID till din Azure ID-klient.
+
+    1. Välj **identifierare** från **konto inställningar**.
+
+    1. Under avsnittet **CSP** använder du länken **Uppdatera** för att uppdatera det MPN-ID som är associerat med ditt CSP-konto. 
+ 
+ > [!IMPORTANT]  
+   > Välj det MPN-ID som är kopplat till den aktiva företags profilen som finns i samma land/region som din Azure AD-klient.
+
+6. När ditt partner Center-konto är klart att använda kontrollerar du att du har lagts till i administratörs Agent gruppen. För att slutföra konfigurationen av ditt konto, inklusive att lägga till andra användare, måste du ha administratörs agent behörighet. Följ dessa steg om du vill visa eller uppdatera dina behörigheter:
 
    1. Välj ikonen **Inställningar** på instrument panelen för partner Center och välj sedan **användar hantering** under **konto inställningar**.
 
