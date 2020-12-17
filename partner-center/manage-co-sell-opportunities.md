@@ -1,7 +1,7 @@
 ---
 title: Hantera säljsamarbete
 ms.topic: article
-ms.date: 06/02/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Som kvalificerad Microsoft-partner kan du samsälja med Microsoft. Lär dig hur du definierar avtal, bjuder in Microsoft för att samar beta eller Visa skickade avtal.
@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 61dab9f869d8bb9a26f1317fb1aec3013e915465
-ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
+ms.openlocfilehash: 52a1ac20b0370e1dd4a1de85087303090c1b7eb4
+ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "95417276"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97622209"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Hantera samförsäljnings möjligheter i Partner Center
 
@@ -44,13 +44,19 @@ Dra nytta av samförsäljnings möjligheter.  Samförsäljnings möjligheter är
 
 ## <a name="navigating-the-co-sell-section"></a>Navigera i avsnittet Co-Sälj
 
-Det finns tre flikar på den översta nivån i avsnittet Co-Sälj.
+Följ dessa steg om du vill komma åt avsnittet Co-Sälj:
 
-**Inkommande** – alla affärs möjligheter som skickas till partnern från Microsofts säljare för samverkande försäljning är tillgängliga på den här fliken.
+1. Logga in på [instrument panelen](https://partner.microsoft.com/dashboard)för partner Center.
 
-**Utgående** – alla affärs möjligheter som skapas av partnern är tillgängliga på den här fliken. Partner kan skapa tre olika kategorier av affärs möjligheter – samförsäljning, privat och partner till partner.
+2. I den vänstra navigerings menyn väljer du **referenser**, följt av **affärs möjligheter för samförsäljning**.
 
-**Favoriter** – affärs möjligheter som har marker ATS som favoriter i flikarna ingående eller utgående samförsäljnings möjligheter visas på den här fliken. Markera en affärs möjlighet som favorit genom att klicka på ikonen hjärta i vyn lista. Du kan ta bort affärs möjligheten från favoriter genom att bara klicka på samma ikon igen.
+   Tre, översta flikar visas i det här avsnittet:
+
+   - **Inkommande** – alla affärs möjligheter som skickas till partnern från Microsofts säljare för samverkande försäljning är tillgängliga på den här fliken.
+
+   - **Utgående** – alla affärs möjligheter som skapas av partnern är tillgängliga på den här fliken. Partner kan skapa tre olika kategorier av affärs möjligheter – samförsäljning, privat och partner till partner.
+
+   - **Favoriter** – affärs möjligheter som har marker ATS som favoriter i flikarna ingående eller utgående samförsäljnings möjligheter visas på den här fliken. Markera en affärs möjlighet som favorit genom att klicka på ikonen hjärta i vyn lista. Du kan ta bort affärs möjligheten från favoriter genom att bara klicka på samma ikon igen.
 
 ## <a name="creating-a-co-sell-opportunity"></a>Skapa en gemensam Sälj möjlighet
 
@@ -72,7 +78,7 @@ När du klickar på **Välj kund** uppmanas du att ange namn, telefonnummer och 
 
 Ange information om det aktuella erbjudandet. Fälten som definieras nedan kan ändras när du arbetar aktivt med kunden för att avsluta affären.
 
-| **Fältnamn** | **Obligatorisk/valfri** | **Detaljer** |
+| **Fältnamn** | **Obligatorisk/valfri** | **Information** |
 |-------------|--------|-------|
 |**Avtals namn** | Obligatorisk | Det egna namnet för att identifiera ditt avtal vid ett senare tillfälle. |
 |**Plats**| Obligatorisk | MPN plats omfattning för referensen. Hänvisnings användare med denna plats omfattning kan visa hänvisningarna om de ingår i teamet. Hänvisnings administratörer och referens administratörer med global omfattning kan se hänvisningarna oavsett var de befinner sig. Platsen kan inte redige ras efter att hänvisningen har skapats.|

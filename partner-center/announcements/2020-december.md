@@ -9,18 +9,72 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/02/2020
-ms.openlocfilehash: 1341e60fd9914f421fd59335a8f037f3d915b72f
-ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
+ms.openlocfilehash: 841ef4701ef7c973cc7a4fffaa26bb24b8d6f7e9
+ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "96869307"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97622158"
 ---
 # <a name="december-2020-announcements"></a>Meddelanden december 2020
 
 Den här sidan innehåller information om Microsoft Partner Center-meddelanden för november 2020.
 
-2020-meddelanden: [april](2020-april.md)  |  [maj](2020-may.md)den  |  [juni](2020-june.md)  |  [juli](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md)  |  [October](2020-October.md)  |  [November](2020-november.md) | Utgången
+2020-meddelanden: [april](2020-april.md)  |  [maj](2020-may.md)den  |  [juni](2020-june.md)  |  [juli](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  [](2020-October.md)  |  [](2020-november.md) | Utgången
+
+______________
+
+## <a name="power-apps-promo-offer-now-available"></a><a name="5"></a>Erbjudande för Power Apps-erbjudande är nu tillgängligt
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2020-12-16
+- Erbjudanden/marknader
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Alla partner som går via program varan för Cloud Solution Provider (CSP)
+
+### <a name="details"></a>Information
+
+Power Apps kampanj erbjudande som ursprungligen planerades för 1 december försenades något. Erbjudandet bör vara tillgängligt 16 december 2020. Det här erbjudandet är tillgängligt till ett reducerat pris och har andra skillnader jämfört med vanliga erbjudanden i Partner Center.
+ 
+**Erbjudande information**
+
+- Erbjudandet blir tillgängligt för köp fram till den 30 juni 2021.
+- Erbjudandet är 12 månaders period till ett reducerat pris, precis som andra CSP-erbjudanden.
+- Erbjudandet förnyas inte automatiskt och upphör att gälla i slutet av 12-månaders perioden. Inlednings vis ställs egenskapen autoförnyelse till **True** , men detta ändras så att erbjudandet upphör att gälla i slutet av erbjudandets 12-månaders period.
+- Partner måste köpa erbjudandet om pris vad som inte är kampanj erbjudande (erbjudande-ID: 5e1087b6-246b-4503-b88a-b60bdf0b3840) före det sista giltighets datumet för 12 månader om de vill fortsätta använda de tjänster som tillhandahålls av det första kampanj erbjudandet.
+
+**Prisinformation**
+
+Pris informationen för erbjudandet nedan för det här erbjudandet visas i pris listan i januari 2021.
+
+- Erbjudandets visnings namn: Power Apps per app plan-befordran (200 plats min)
+- Erbjudande-ID: 988b7b06-e034-4b3e-89ea-51198cb2723e
+- Licens avtals typ: företags
+- Inköps enhet: 1 månad (er)
+- Sekundär licens typ: icke-speciell
+- Visa priser: list priser kan hämtas från [den här platsen](https://partnercenter.microsoft.com/pc/api/cms/rtdownload?id=sales/RE4Lr1n). Obs! Du måste vara inloggad i Partner Center för att kunna hämta priserna. Om du inte är inloggad i Partner Center får du ett fel meddelande om **status obehörig** .
+- ERP-pris: inte tillgängligt ännu, leta efter det här erbjudandet för ERP i nästa pris List uppdatering för januari 1/1/2021
+- Material-ID: SEQ-00016
+ 
+**Erbjudande information**
+
+Erbjudande informationen nedan för det här erbjudandet är i matrisen januari 2021-erbjudande lista.
+
+- Etablerings-ID: POWERAPPS_PER_APP
+- Varaktighet: 1 år
+- Fakturerings frekvens: varje månad; Basis
+- Minsta antal platser: 200
+- Högsta antal platser: 10000000
+- Erbjudande gräns: ingen
+- Tillåtna länder: U.S. Islands öar; Engelska (franska södra territorier); Bouvet-öarna Brittiska territoriet i Indiska oceanen; Jemen Hörda och Mc Donald Islands; Wallis och Futuna; Vanuatu Antarktis Tuvalu Somalia Tokelau; Sierra Leone; Swaziland Saint Helena, Ascension, Tristan da Cunha; São Tomé och Príncipe; Pitcairn; Palau Salomonöarna; Nauru Niue; Norfolkön, Julön; Fiskezon Nordmarianerna; Lesotho Kiribati Ekvatorialguinea; Guinea-Bissau; Cooköarna; Eritrea Julön; Burkina Faso; Centralafrikanska republiken; Kosovo Kokos öarna Svalbard och Jan Mayen; Åland; Sydsudan; Södra Georgien och Sydsandwichöarna; Samoa Sankt Barthélemy; Brittiska Jungfru öarna Saint Pierre och Miquelon; Tchad Niger Montserrat Guyana Haiti Gambia Guam Ekvatorialguinea Gabon Grenada Gibraltar Guernseypund Liberia Mikronesien Falk lands öarna; Dominica; Djibouti; Demokratiska Kongo (Dr); Zimbabwe Amerikanska Samoa; Zambia Sydafrika; Mayotte Vietnam Saint Vincent och Grenadinerna i USA, amerikanska jungfru öarna; Venezuela Heliga stolen (Vatikanstaten) Ukraina Uganda Regering USA; Rundan Tanzania Taiwanesisk Trinidad och Tobago; Turkiet Tunisien Tonga Timor-Leste; Turkmenistan Tadzjikistan « Togo El Salvador; Sint Maarten; Turks-och Caicosöarna; Surinam Singapore Slovenien San Marino; Senegal Slovakien Sverige Seychellerna Saudiarabien; – Rwanda Federation Rumänska Réunion Qatar Paraguay Portugisiska Filippinerna Ockuperade palestinska territoriet; Polens Puerto Rico; Pakistan Peru Panama Papua Nya Guinea; Franska Polynesien; Nya Zeeland; Oman; Nepal Nederländerna Norges Nigeria Nicaragua Nya Kaledonien; Namibia Moçambique Malaysia Mexiko Martinique Malawi Maldiverna Mauritius Maltas Myanmar Macao SAR; Mongol Mali Madagaskar Marshall öarna; F.d. jugoslaviska republiken Makedonien; Montenegro Saint Martin; Marocko Monaco Moldavien Lettlands Libyen Utfärda Libanon Saint Lucia; Litauens Sri Lanka; Cayman öarna Liechtenstein Laos Kazakstan Kuwait Korea Komorerna Kambodja Saint Kitts och Nevis; Kenya Kirgizistan Japan Jordanien Jamaica Jersey; Italien; Island; Irak; Irland; Indien; Indonesien; Isle of man; Honduras; Israel; Ungern Hong Kong SAR; Kroatien Guatemala Grekiska Guadeloupe Franska Guyana; Grön Ghana Färöarna; Storbritannien; Sydgeorgien Frankrike Fiji Etiopien Sverige Frankrike Egypten Estlands Ecuador; Dominikanska Republiken; Algeriet Tyskland; Danmark; Cypern Tjeckiska republiken; Curaçao; Kap Verde; Costa Rica; Chile Kamerun Colombia Côte D' Ivoire; Kanadas Schweiz Belize Vitryska Botswana Bhutan Bahamas Bonaire, Sint Eustatius och Saba; Brasilien Benin Darussalam Snygg Bolivia Belgien Bulgarien Bahrain Burundi Bosnien och Hercegovina; Bangladesh Barbados Azerbajdzjan Aruba Ske Argentina Österrike Angola Armenien Afghanistan Albanien Anguilla Andorra Förenade Arabemiraten; Antigua och Barbuda
+
+### <a name="next-steps"></a>Nästa steg
+
+- Kampanj erbjudandet är tillgängligt i den 1 januari 2021 officiella CSP Partner Center licens-pris lista och lista över erbjudande listor. 
+- Frågor eller uppföljning om den här kampanjen kan publiceras i [Microsofts meddelande om community](https://www.microsoftpartnercommunity.com/t5/Pricing-Licensing-Incentives/Announcing-a-new-Power-Apps-promotional-offer-to-accelerate-FY21/m-p/32540).
 
 ______________
 
@@ -37,7 +91,7 @@ Direkta fakturerings partner och indirekta leverantörer som deltar i CSP-progra
 
 ### <a name="details"></a>Information
 
-Från och med december 08 2020 kan partners börja hämta versionen av [MicrosoftPartnerCenter. NETSDK (NuGet Galleri | Microsoft. Store. PartnerCenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3)tillsammans med uppdaterade offentliga partners Center SDK [GitHub-exempel](https://github.com/Microsoft/Partner-Center-DotNet-Samples). Den här versionen innehåller uppdateringar av följande:
+Från och med december 08 2020 kan partners börja hämta versionen av [MicrosoftPartnerCenter. NETSDK (NuGet Galleri | Microsoft. Store. PartnerCenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3)tillsammans med uppdaterade offentliga partners Center SDK [GitHub-exempel](https://github.com/Microsoft/Partner-Center-DotNet-Samples). Den här versionen innehåller uppdateringar av följande metoder:
  
 **SelfServePolicies – nya funktioner har lagts till**
 
@@ -83,7 +137,7 @@ De licensbaserade licens listorna och erbjudande listan i december innehåller n
 
 #### <a name="incorrect-offers-in-the-license-based-price-list"></a>Felaktiga erbjudanden i den licensierade pris listan
 
-De licensbaserade pris listorna för december innehåller följande erbjudanden som inte ska ingå i pris listorna. Dessa erbjudanden har tidigare inkluderats i pris listorna och bör inte ha publicerats. Det finns inget schema när det kan vara tillgängligt. Om de läggs till i framtiden visas de som tillägg i kommande pris listor för för hands versioner.
+De licensbaserade pris listorna för december innehåller följande erbjudanden som inte ska ingå i pris listorna. Dessa erbjudanden har tidigare inkluderats i pris listorna och bör inte ha publicerats. Det finns inget schema för när de här erbjudandena kan vara tillgängliga. Om de läggs till i framtiden visas de som tillägg i kommande pris listor för för hands versioner.
 
    |**Erbjudandets namn**|**Erbjudande-ID**|
    |-------------------|:------|
@@ -96,7 +150,7 @@ De licensbaserade pris listorna för december innehåller följande erbjudanden 
    
 #### <a name="incorrect-offers-in-the-offer-list-matrix"></a>Felaktiga erbjudanden i listan över erbjudande listor
    
-Under erbjudanden finns i matrisen med listan över erbjudanden som fel. De är inte tillgängliga, det finns inget mål datum ännu för tillgänglighet. Partner bör ignorera dessa.
+Under erbjudanden finns i matrisen med listan över erbjudanden som fel. De är inte tillgängliga, det finns inget mål datum ännu för tillgänglighet. Partner ska ignorera dessa rad objekt.
 
    |**Erbjudandets namn**|**Erbjudande-ID**|
    |-------------------|:------|
@@ -176,7 +230,7 @@ Partner som säljer akademiska erbjudanden via Cloud Solution Provider-programme
 
 ### <a name="summary"></a>Sammanfattning 
 
-Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för kund validering för att kunna agera akademiska erbjudanden i Cloud Solution Provider-programmet. Som en del av detta åtagande introducerar vi API: er för API: er och användar gränssnitts förbättringar som ger klarhet och insyn i kundens först konsumentsajter-process samt möjligheten att mata in mer exakta data som kommer att ge bättre kund först konsumentsajter. 
+Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för kund validering för att kunna agera akademiska erbjudanden i Cloud Solution Provider-programmet. Som en del av detta åtagande introducerar vi API: er för API: er och användar gränssnitts förbättringar som ger klarhet och insyn i kundens först konsumentsajter-process samt möjligheten att mata in mer exakta data, vilket kommer att ge bättre kund först konsumentsajter. 
 
 **Förbättringar i Partner Center** 
 
@@ -196,7 +250,7 @@ För att få en bättre förståelse för de API: er och data som krävs för ly
 
 Förutom de ovanstående förbättringarna är vi glada att kunna meddela att vi kommer att möjliggöra pris värda erbjudanden för biblioteks-och Museum-kunder, vilket utökar de utbildnings kunder som du kan använda för att få till exempel på Transact CSP-erbjudanden. 
 
-Microsoft förbehåller sig rätten att granska statusen för alla kunder eller föreslagna kunder som en kvalificerad utbildnings användare. Mer information finns i de [akademiska användar kraven för utbildning](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) . 
+Microsoft förbehåller sig rätten att granska statusen för alla kunder eller föreslagna kunder som en kvalificerad utbildnings användare. Mer information finns i [användar kraven för akademiska utbildningar](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) . 
 
 ### <a name="next-stepsadditional-resources"></a>Nästa steg/ytterligare resurser
 
