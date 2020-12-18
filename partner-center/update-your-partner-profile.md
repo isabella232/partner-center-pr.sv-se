@@ -6,15 +6,15 @@ description: Lär dig hur du verifierar företagets information, till exempel in
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
+ms.date: 12/17/2020
 ms.localizationpriority: high
-ms.date: 12/16/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 398e02e4d18df9e555a1576e845e1d0e0bdf1105
-ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
+ms.openlocfilehash: 938713a08b52d7f5d601ef7801f300eec223b921
+ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97636015"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "97666799"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Verifiera din organisations profil information i Partner Center
 
@@ -27,13 +27,13 @@ Första gången du loggar in på Partner Center som global administratör bör d
 
 Din partner profil består av din juridiska företags information, det primära kontakt namnet och e-postmeddelandet, de program som företaget deltar i och, om så är tillämpligt, dina andra företag som nu är sammanslagna under din juridiska verksamhet. Kontrol lera att företags namnet och adressen i din juridiska affärs profil är fria från stavfel och att de matchar dina formella företags registrerings poster exakt. Om du arbetar som en enda ägare måste du använda ditt företags namn som juridiskt namn.
 
-1. Gå till **Inställningar** och välj **konto inställningar**.
+1. Gå till **inställnings** ikonen och välj **konto inställningar**.
  
 1. Välj **organisations profil**. 
 
 2. Granska din **juridiska företags profil**, **primär kontakt information** och **programinformation**.
 
-Om du har sammanfogat andra företag under din juridiska verksamhet kan du också granska informationen. 
+Om du har sammanfogat andra företag under din juridiska verksamhet kan du även granska informationen. 
 
 ## <a name="update-your-legal-business-profile"></a>Uppdatera din juridiska företags profil
 
@@ -69,8 +69,8 @@ Så här uppdaterar du det MPN-ID som är associerat med ditt CSP-konto:
  
 1. Välj **identifierare** från **konto inställningar**.
 
-1. Under avsnittet **CSP** använder du länken **Uppdatera** för att uppdatera det MPN-ID som är associerat med ditt CSP-konto.
- 
+1. Under avsnittet **CSP** använder du länken **Uppdatera** för att uppdatera det MPN-ID som är associerat med ditt CSP-konto 
+
 
 ## <a name="update-your-billing-address"></a>Uppdatera din fakturerings adress
 

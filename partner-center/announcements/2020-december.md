@@ -8,19 +8,110 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/02/2020
-ms.openlocfilehash: c546885d74f5959dd02c0c7ce0fdbc22f9ff5313
-ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
+ms.date: 12/17/2020
+ms.openlocfilehash: 0712c2b8aa3a22dd4a6f327759c383257cb6605a
+ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97635998"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "97666782"
 ---
 # <a name="december-2020-announcements"></a>Meddelanden december 2020
 
 Den här sidan innehåller information om Microsoft Partner Center-meddelanden för november 2020.
 
 2020-meddelanden: [april](2020-april.md)  |  [maj](2020-may.md)den  |  [juni](2020-june.md)  |  [juli](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  [](2020-October.md)  |  [](2020-november.md) | Utgången
+
+______________
+
+## <a name="perpetual-software-in-csp--new-products-and-geographies"></a><a name="10"></a>Beständig program vara i CSP: nya produkter och geografiska områden
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2020-12-17
+- Erbjudanden
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+CSP, direkta fakturerings partners, indirekta leverantörer och indirekta åter försäljare
+
+### <a name="details"></a>Information
+
+När vi förbättrar våra handels möjligheter för att ge kunder och partners en bättre inköps upplevelse, expanderar vi vår portfölj för att ta med tillgängligheten för program varu licenser i Cloud Solution Provider-programmet (CSP). Genom att lägga till program varu licenser inom CSP kan deltagande partners fokusera på att erbjuda olika lösningar och hanterade tjänster till sina kunder. Den ger också kunderna över gång till molnet och ger samarbets partners den flexibilitet som krävs för Hybrid moln miljöer.
+
+Från och med 19 januari 2021 kommer Microsoft att aktivera alla leverantörer av KRYPTOGRAFIPROVIDERs, indirekta leverantörer och indirekta åter försäljare för att sälja program varu licenser inom CSP-programmet och vi lägger även till ytterligare produkter och geografiska områden. 
+
+Hitta fullständig information om beständig program vara i CSP se beredskaps samlingen:  [beständig program vara i Cloud Solution Provider-programmet](https://partner.microsoft.com/resources/collection/software-in-csp#/).
+
+### <a name="products"></a>Produkter
+
+Dessa ytterligare produkter visas i pris listan i januari 2021 CSP för att publiceras 19 januari 2020.  Det här är en ny publicering av den första januari 2021 CSP-pris listan som publicerats 1 januari 2021.
+
+- Exchange Server Enterprise 2019
+- Exchange Server Enterprise 2019-enhets-CAL
+- Exchange Server Enterprise 2019-användar-CAL
+- Exchange Server standard 2019
+- Exchange Server standard 2019-enhets-CAL
+- Exchange Server standard 2019 användar-CAL
+
+### <a name="geographies"></a>Geografiska områden
+
+Ytterligare geografiska områden som är tillgängliga från och med 19 januari 2021 för beständig program vara i CSP:
+
+|**Tillgängliga geografiska områden**|| | |
+|-----------------------------|-------------------------------|------------|----------------------|
+|Azerbajdzjan|Vitryssland|Benin|Bhutan|
+|Bonaire, Sint Eustatius och Saba|Bouvetön|Brasilien|
+|Brittiska territoriet i Indiska Oceanen|Burkina Faso|Burundi|Kambodja|
+|Centralafrikanska Republiken|Tchad|Julön|Kokosöarna|
+|Komorerna|Kongo|Republiken Kongo, demokratiska republiken|Cooköarna|
+|Djibouti|Ekvatorialguinea|Eritrea|Falklandsöarna|
+|Franska Guyana|Franska Polynesien|Franska sydterritorierna|Gabon|
+|Gambia|Georgia|Gibraltar|Grönland|
+|Grenada|Guadeloupe|Guam|Guernsey|
+|Guinea|Guinea-Bissau|Haiti|Heard- och McDonaldöarna|
+Heliga stolen|Ungern|Indien|Irak|
+|Isle of Man|Jersey|Kazakstan|Kiribati|
+|Sydkorea|Kirgizistan|Liberia|Madagaskar|
+|Malawi|Maldiverna|Mali|Marshallöarna|
+|Martinique|Mauretanien|Mayotte|Mikronesien (federerade tillstånd)|
+|Moldavien|Mongoliet|Montserrat|Moçambique|
+|Myanmar|Nauru|Bonaire, Curaçao, Saba, Sint Eustatius och Sint Maarten|Nya Kaledonien|
+|Niger|Niue|Norfolkön|Nordmarianerna|
+|Palau|Papua Nya Guinea|Pitcairn|Polen|
+|Qatar|Réunion|Ryssland|Saint Barthélemy|
+|Saint Helena, Ascension och Tristan da Cunha|Saint Lucia|Saint Martin (fransk del)|Saint-Pierre och Miquelon|
+|Saint Vincent och Grenadinerna|Samoa|San Marino|São Tomé och Príncipe|
+|Saudiarabien|Seychellerna|Sierra Leone|Sint Maarten (nederländsk del)|Solomonöarna|
+|Somalia|Sydafrika|Sydgeorgien och Sydsandwichöarna|Sydsudan|
+|Surinam|Svalbard och Jan Mayen|Swaziland|Taiwan|
+|Tadzjikistan|Thailand|Timor-Leste|Togo|
+|Tokelau|Tonga|Turkiet|Turkmenistan|
+|Turks- och Caicosöarna|Tuvalu|Ukraina|USA mindre öar|
+|Uzbekistan|Vanuatu|Venezuela|Vietnam|
+|Jungfruöarna, Storbritannien|Wallis och Futuna
+
+
+____________
+
+## <a name="government-academic-and-non-profit-continuing-the-open-license-program-changes-and-evolution-of-csp"></a><a name="9"></a>Myndigheter, akademiska och ideella: fortsätta att öppna licens program ändringar och utveckling av CSP
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2020-12-17
+- Utveckla din verksamhet
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Alla CSP-partner
+
+### <a name="details"></a>Information
+
+Idag, eftersom vi fortsätter att [prioritera för molnet](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/), ger vi ett meddelande om framtida ändringar för offentlig sektor (myndigheter, utbildning och ideella kunder) som köper genom Open License-programmet, samt relaterade ändringar i Cloud Solution Provider-programmet.
+
+### <a name="next-steps"></a>Nästa steg
+
+Det fullständiga meddelandet är bara tillgängligt för Microsoft-partner. [Logga in för att få åtkomst till hela meddelandet](https://partner.microsoft.com/resources/detail/public-sector-open-license-csp-evolution-to-a-better-experience-pc-announcement-pdf).
 
 ______________
 
