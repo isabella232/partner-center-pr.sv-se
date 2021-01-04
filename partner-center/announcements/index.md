@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/03/2020
-ms.openlocfilehash: a373a6a956e8c8a8e8052a946cc82a8d82213da0
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.date: 12/17/2020
+ms.openlocfilehash: ea08eb3ab860c0ed4c34ee3818b7db42307c3b4e
+ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622192"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "97666748"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -22,6 +22,11 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 
 | **Kategori** | **Meddelanden december 2020** | **Meddelande** |
 |---------|:---------|:---------|
+|Erbjudanden/marknader|[Evig programvara i CSP:  Nya produkter och geografiska områden](2020-december.md#10)|17 december|
+|Utveckla verksamheten|[Myndigheter, akademiska institut och ideella organisationer: Fortsätter med ändringar i Open License-programmet och utveckling av CSP](2020-december.md#9)|17 december|
+|Erbjudanden/marknader|[Ändringar i Molnlösningsleverantör-kunders krav för onboarding](2020-december.md#8)|17 december|
+|Utveckla verksamheten|[Påminnelse: Evig programvara i Molnlösningsleverantör-programmet (CSP) finns tillgängligt i bred utsträckning från och med januari 2021](2020-december.md#7)|17 december|
+|Funktioner|[Guiden för onlinetjänster och programkanalsauktorisering](2020-december.md#6)|17 december|
 |Erbjudanden/marknader|[Power Apps-erbjudande är nu tillgängligt](2020-december.md#5)|16 december|
 |Funktioner|[Ny .NET Standard SDK-version (v1.16.3)](2020-december.md#4)|8 december|
 |Erbjudanden/marknader|[Viktig information om licensbaserad prislista för december 2020](2020-december.md#3)|8 december|
