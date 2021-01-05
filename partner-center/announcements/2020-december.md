@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/17/2020
-ms.openlocfilehash: 0712c2b8aa3a22dd4a6f327759c383257cb6605a
-ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
+ms.date: 12/21/2020
+ms.openlocfilehash: c186c61fa6a583284884020bf442517e9bb38182
+ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "97666782"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97736550"
 ---
 # <a name="december-2020-announcements"></a>Meddelanden december 2020
 
@@ -22,75 +22,148 @@ Den här sidan innehåller information om Microsoft Partner Center-meddelanden f
 
 2020-meddelanden: [april](2020-april.md)  |  [maj](2020-may.md)den  |  [juni](2020-june.md)  |  [juli](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  [](2020-October.md)  |  [](2020-november.md) | Utgången
 
-______________
+________________
 
-## <a name="perpetual-software-in-csp--new-products-and-geographies"></a><a name="10"></a>Beständig program vara i CSP: nya produkter och geografiska områden
+## <a name="unused-channel-incentive-co-operative-marketing-fund-co-op-funds-from-the-fy21-h1-usage-period-to-be-rolled-over-to-the-h2-usage-period"></a><a name="13"></a>Outnyttjad kanal medveten samskotts fond (co-op) fonder från FY21 H1-användnings perioden som ska överföras till H2-användnings perioden
 
 ### <a name="categories"></a>Kategorier
 
-- Datum: 2020-12-17
+- Datum: 2020-12-22
 - Erbjudanden
+
+### <a name="summary"></a>Sammanfattning
+
+Oanvända co-op-medel för FY21 H1-användnings perioden (1 juli 31 december 2020) överförs till FY21 H2-användnings perioden (1 januari till 30 juni, 2021)
 
 ### <a name="impacted-audience"></a>Förverkad mål grupp
 
-CSP, direkta fakturerings partners, indirekta leverantörer och indirekta åter försäljare
+Partner som deltar i moln lösnings leverantörens (CSP) direkta fakturerings partner, indirekt leverantör och indirekt åter försäljare incitaments program
 
 ### <a name="details"></a>Information
 
-När vi förbättrar våra handels möjligheter för att ge kunder och partners en bättre inköps upplevelse, expanderar vi vår portfölj för att ta med tillgängligheten för program varu licenser i Cloud Solution Provider-programmet (CSP). Genom att lägga till program varu licenser inom CSP kan deltagande partners fokusera på att erbjuda olika lösningar och hanterade tjänster till sina kunder. Den ger också kunderna över gång till molnet och ger samarbets partners den flexibilitet som krävs för Hybrid moln miljöer.
+Vi känner igen den fortsatta effekten av de här utmanande tiderna på våra partner och kunder. För att ge partner ytterligare flexibilitet får vi en engångs förnyelse av outnyttjade samfunds medel från den aktuella FY21 H1-användnings perioden, som körs från 1 juli till 31 december 2021. Co-op-fonder fördelas som en del av dina incitaments vinster och kan begäras för att erhålla en berättigad marknadsföring, efter frågan och beredskaps aktiviteter.
 
-Från och med 19 januari 2021 kommer Microsoft att aktivera alla leverantörer av KRYPTOGRAFIPROVIDERs, indirekta leverantörer och indirekta åter försäljare för att sälja program varu licenser inom CSP-programmet och vi lägger även till ytterligare produkter och geografiska områden. 
+I samband med den här förnyelsen är oanvända samop-fonder kvar i ditt konto efter att du har slutet av H1-anspråks perioden som kan användas för kvalificerade samop-aktiviteter under FY21 H2-användnings perioden, som körs från 1 januari till 30 juni 2021.  
 
-Hitta fullständig information om beständig program vara i CSP se beredskaps samlingen:  [beständig program vara i Cloud Solution Provider-programmet](https://partner.microsoft.com/resources/collection/software-in-csp#/).
+Anspråk måste skickas via verktyget Partner Center- [anspråk](https://partner.microsoft.com/dashboard/incentives/claims/web/) inom 45 dagar från det att aktiviteten slutförts och kommer att godkännas fram till den 15 augusti 2021.
 
-### <a name="products"></a>Produkter
+Du kan kontrol lera ditt co-op-saldo i din [instrument panel](https://partner.microsoft.com/dashboard/incentives/enrollment/summary)för partner Center-intäkter. Se [co-op till gångs samlingen](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) på webbplatsen för Microsoft-partner om du vill ha mer information om kvalificerade aktiviteter, anspråk som skickas med mera.
 
-Dessa ytterligare produkter visas i pris listan i januari 2021 CSP för att publiceras 19 januari 2020.  Det här är en ny publicering av den första januari 2021 CSP-pris listan som publicerats 1 januari 2021.
+### <a name="next-steps"></a>Nästa steg
 
-- Exchange Server Enterprise 2019
-- Exchange Server Enterprise 2019-enhets-CAL
-- Exchange Server Enterprise 2019-användar-CAL
-- Exchange Server standard 2019
-- Exchange Server standard 2019-enhets-CAL
-- Exchange Server standard 2019 användar-CAL
+- Fortsätt till att driva marknadsföring, efter frågan och beredskaps ansträngningar och skicka anspråk för berättigade aktiviteter inom 45 dagar efter slut för ande.
+- Kontrol lera ditt co-op-kontosaldo regelbundet för att säkerställa att du använder hela beloppet i slutet av den H2 användnings perioden den 30 juni 2021.
 
-### <a name="geographies"></a>Geografiska områden
+### <a name="questions"></a>Har du några frågor?
 
-Ytterligare geografiska områden som är tillgängliga från och med 19 januari 2021 för beständig program vara i CSP:
+Du hittar rekommenderade steg och självhjälps artiklar för stimulans frågor genom att skriva "incitament" i Sök fältet på Start sidan för partner Center. Om du behöver ytterligare hjälp kan du skapa en [supportbegäran](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) direkt i Partner Center. Läs mer på [aka.MS/IncentivesSupport](https://aka.ms/IncentivesSupport).
 
-|**Tillgängliga geografiska områden**|| | |
-|-----------------------------|-------------------------------|------------|----------------------|
-|Azerbajdzjan|Vitryssland|Benin|Bhutan|
-|Bonaire, Sint Eustatius och Saba|Bouvetön|Brasilien|
-|Brittiska territoriet i Indiska Oceanen|Burkina Faso|Burundi|Kambodja|
-|Centralafrikanska Republiken|Tchad|Julön|Kokosöarna|
-|Komorerna|Kongo|Republiken Kongo, demokratiska republiken|Cooköarna|
-|Djibouti|Ekvatorialguinea|Eritrea|Falklandsöarna|
-|Franska Guyana|Franska Polynesien|Franska sydterritorierna|Gabon|
-|Gambia|Georgia|Gibraltar|Grönland|
-|Grenada|Guadeloupe|Guam|Guernsey|
-|Guinea|Guinea-Bissau|Haiti|Heard- och McDonaldöarna|
-Heliga stolen|Ungern|Indien|Irak|
-|Isle of Man|Jersey|Kazakstan|Kiribati|
-|Sydkorea|Kirgizistan|Liberia|Madagaskar|
-|Malawi|Maldiverna|Mali|Marshallöarna|
-|Martinique|Mauretanien|Mayotte|Mikronesien (federerade tillstånd)|
-|Moldavien|Mongoliet|Montserrat|Moçambique|
-|Myanmar|Nauru|Bonaire, Curaçao, Saba, Sint Eustatius och Sint Maarten|Nya Kaledonien|
-|Niger|Niue|Norfolkön|Nordmarianerna|
-|Palau|Papua Nya Guinea|Pitcairn|Polen|
-|Qatar|Réunion|Ryssland|Saint Barthélemy|
-|Saint Helena, Ascension och Tristan da Cunha|Saint Lucia|Saint Martin (fransk del)|Saint-Pierre och Miquelon|
-|Saint Vincent och Grenadinerna|Samoa|San Marino|São Tomé och Príncipe|
-|Saudiarabien|Seychellerna|Sierra Leone|Sint Maarten (nederländsk del)|Solomonöarna|
-|Somalia|Sydafrika|Sydgeorgien och Sydsandwichöarna|Sydsudan|
-|Surinam|Svalbard och Jan Mayen|Swaziland|Taiwan|
-|Tadzjikistan|Thailand|Timor-Leste|Togo|
-|Tokelau|Tonga|Turkiet|Turkmenistan|
-|Turks- och Caicosöarna|Tuvalu|Ukraina|USA mindre öar|
-|Uzbekistan|Vanuatu|Venezuela|Vietnam|
-|Jungfruöarna, Storbritannien|Wallis och Futuna
+________________
 
+## <a name="docusign-migration-to-adobe-sign-in-2021-for-partners-who-have-microsoft-partner-agreements-mpas"></a><a name="12"></a>DocuSign migrering till Adobe Sign in 2021 för partner som har Microsoft partner Agreement (MPAs)
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2020-12-22
+- Funktioner – förbättrar efterlevnaden av säkerhets &
+
+### <a name="summary"></a>Sammanfattning
+
+Microsoft kommer att överföra all bearbetning av elektroniska signaturer från DocuSign till Adobe Sign
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Leverantörer av moln lösningar (CSP) med Microsofts partner avtal (MPAs)
+
+### <a name="details"></a>Information
+
+Adobe Sign är Microsofts prioriterade lösning för elektroniska signaturer (ESS). I januari 2021 börjar Microsoft överföra all bearbetning av elektroniska signaturer från DocuSign till Adobe Sign, från och med MPAs. Du bör förvänta dig en smidig över gång. Vid migrering får du e-postmeddelanden från ett [adobesign@adobesign.com](mailto:adobesign@adobesign.com) konto, vilket ger dig en länk till en ny signerings miljö. För bästa möjliga upplevelse lägger [adobesign@adobesign.com](mailto:adobesign@adobesign.com) du till i listan Betrodda avsändare.
+
+Över gången till Adobe Sign garanterar en säker och effektiv elektronisk signatur som ger större värde till våra kunder och partner. Du får mer information om konto migrations planer till Adobe-inloggning i januari 2021.  
+
+### <a name="next-steps"></a>Nästa steg
+
+Dela den här informationen med lämpliga intressenter i din organisation. Vi kommer att skicka mer information om migreringen i januari 2021.
+
+### <a name="questions"></a>Har du några frågor?
+
+Om du har några frågor kan du kontakta ditt regionala drift Center med hjälp av verktyget för samtals loggning (CLT) på [https://clt.partners.extranet.microsoft.com/CLT](https://clt.partners.extranet.microsoft.com/CLT) eller via [Explore.MS](https://www.explore.ms/publichome.aspx). Följ standard CLT-processen nära så att vi kan lösa din fråga så snabbt som möjligt.
+
+______________
+
+## <a name="january-2021-pricing-and-catalog-schedules"></a><a name="11"></a>Priser och katalog scheman i januari 2021
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2020-12-22
+- Funktioner
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Direkta fakturerings-och indirekta leverantörer ingår i program varan för Cloud Solution Provider (CSP).
+
+### <a name="details"></a>Information
+
+Priser och katalog uppdateringar för partner Center som normalt är schemalagda att ske den första i månaden har små ändringar i schemat för januari 2021. Alla prisfiler är tillgängliga som vanligt, tillgängliga den 31 december 2020 vid cirka. 18:00 Pacific, normal tid (PST). Men de här uppdateringarna som normalt inträffar på den första månaden kommer att bli något försenade. 
+
+- Pris listorna för Azure Usage kommer att förskjutas fram till slutet av arbets dagen den 4 januari 2021. De Azure Usage-baserade prisfilerna den 1 januari 2021 kommer bara att ha priser upp till 21 2020 december. Den 4 januari kommer filerna att uppdateras.
+- De licensbaserade prisfilerna är uppdaterade den 1 januari 2021, men det blir en liten fördröjning tills nya erbjudanden är tillgängliga i katalogen för köp. Licensbaserade katalog uppdateringar har schemalagts för den 5 januari 2021 17 PST. 
+
+Tänk på att alla andra pris listor är schemalagda för att bli tillgängliga enligt det vanliga schemat, och bara de två slut produkterna kommer att bli något försenade.
+
+### <a name="next-steps"></a>Nästa steg
+
+I sammanfattningen är de lägre prisfilerna tillgängliga som vanligt den 31 december 2020 på ungefär. 18:00 PST:
+
+- Licensierade pris lista filer och lista matris för erbjudande
+- Användnings licensfiler, men endast med uppdateringar upp till den 21 december 2020
+- Pris listor för användnings reservationer
+- Pris listor för program varu prenumerationer
+- Pris listor för beständig program vara
+- Pris listor för Azure plan-förbrukning
+- Pris listor för Azure plan-reservationer
+- Utländska växelkurser för Azure plan-förbrukning
+
+Följande pris fil kommer att uppdateras av. 18:00 PST januari 2021:
+
+- Användnings Price filer
+
+Partner Center-katalogen kommer att uppdateras med januari 2021-uppdateringar av. 18:00 PST januari 2021.
+ 
+______________
+
+## <a name="microsoft-365-apps-and-services-support-of-internet-explorer-11-and-microsoft-edge-legacy-announcement"></a><a name="10"></a>Microsoft 365 appar och tjänster stöd för Internet Explorer 11 och Microsoft Edge äldre meddelande
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2020-12-21
+- Funktioner
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+IT-administratörer, besluts fattare, chefs informations befäl och slutanvändare
+
+### <a name="details"></a>Information
+
+Microsoft 365 prenumeranter, både i konsument-och kommersiell kontext, kommer att hanteras med den här ändringen via snabbare och mer tillgänglig webb åtkomst till fler uppsättningar funktioner i vardagliga verktyg som Outlook, teams, SharePoint med mera.
+
+Den nya Microsoft Edge är vårt bästa uttryck för en modern webbläsare och vi är nöjda för kunderna att uppleva det. Nu när vi har levererat den nya Microsoft Edge och uppgraderat de flesta av våra Windows 10-kunder till den nya webbläsaren, avslutar vi support för Microsoft Edge Legacy Desktop-appen.
+
+**Effekt av ändringen**
+
+- Från och med **30 2020 november** kan kunder inte längre ansluta till Microsoft Teams webb program i Internet Explorer 11. Microsoft anser att kunderna får ut mesta möjliga av Microsoft 365 och det bästa uttrycket i en modern webbläsare när de använder den [nya Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
+- Efter **mars 9 2021** kommer appar och platser som har skapats för Microsoft Edge äldre att fortsätta att fungera i den nya Microsoft Edge, men om det uppstår kompatibilitetsproblem kan [appen](https://aka.ms/appassure) garantera att det finns stöd för.
+- Efter **17 2021 augusti** får kunderna en försämrad upplevelse eller kan inte ansluta till Microsoft 365 appar och tjänster i Internet Explorer 11. Microsoft anser att kunderna får ut mesta möjliga av Microsoft 365 och det bästa uttrycket i en modern webbläsare när de använder den [nya Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
+
+### <a name="next-steps"></a>Nästa steg
+
+- Läs blogg inlägget om du vill veta mer om meddelandet.
+- Använd den här möjligheten för att kontakta dina partner för att distribuera den nya Microsoft Edge.
+- Ytterligare resurser och mer information: [Edge YouTube](https://www.youtube.com/channel/UCIGx7oT8p6-jUpOfg98yelA) eller [Edge adoption](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)
+
+### <a name="questions"></a>Frågor
+
+Kontakta [GTM-teamet för kommersiell sökning](mailto:CommercialSearchGTM@microsoft.com?subject=Internet%20Explorer%2011%20and%20Microsoft%20Edge%20legacy%20announcement) om du har frågor.
 
 ____________
 
@@ -99,7 +172,7 @@ ____________
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-12-17
-- Utveckla din verksamhet
+- Utveckla verksamheten
 
 ### <a name="impacted-audience"></a>Förverkad mål grupp
 
@@ -189,7 +262,7 @@ ______________
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-12-17
-- Utveckla din verksamhet
+- Utveckla verksamheten
  
 ### <a name="summary"></a>Sammanfattning
 
@@ -295,16 +368,16 @@ Erbjudande informationen nedan för det här erbjudandet är i matrisen januari 
 
 - Etablerings-ID: POWERAPPS_PER_APP
 - Varaktighet: 1 år
-- Fakturerings frekvens: varje månad; Basis
+- Fakturerings frekvens: varje månad eller per år
 - Minsta antal platser: 200
 - Högsta antal platser: 10000000
 - Erbjudande gräns: ingen
-- Tillåtna länder: U.S. Islands öar; Engelska (franska södra territorier); Bouvet-öarna Brittiska territoriet i Indiska oceanen; Jemen Hörda och Mc Donald Islands; Wallis och Futuna; Vanuatu Antarktis Tuvalu Somalia Tokelau; Sierra Leone; Swaziland Saint Helena, Ascension, Tristan da Cunha; São Tomé och Príncipe; Pitcairn; Palau Salomonöarna; Nauru Niue; Norfolkön, Julön; Fiskezon Nordmarianerna; Lesotho Kiribati Ekvatorialguinea; Guinea-Bissau; Cooköarna; Eritrea Julön; Burkina Faso; Centralafrikanska republiken; Kosovo Kokos öarna Svalbard och Jan Mayen; Åland; Sydsudan; Södra Georgien och Sydsandwichöarna; Samoa Sankt Barthélemy; Brittiska Jungfru öarna Saint Pierre och Miquelon; Tchad Niger Montserrat Guyana Haiti Gambia Guam Ekvatorialguinea Gabon Grenada Gibraltar Guernseypund Liberia Mikronesien Falk lands öarna; Dominica; Djibouti; Demokratiska Kongo (Dr); Zimbabwe Amerikanska Samoa; Zambia Sydafrika; Mayotte Vietnam Saint Vincent och Grenadinerna i USA, amerikanska jungfru öarna; Venezuela Heliga stolen (Vatikanstaten) Ukraina Uganda Regering USA; Rundan Tanzania Taiwanesisk Trinidad och Tobago; Turkiet Tunisien Tonga Timor-Leste; Turkmenistan Tadzjikistan « Togo El Salvador; Sint Maarten; Turks-och Caicosöarna; Surinam Singapore Slovenien San Marino; Senegal Slovakien Sverige Seychellerna Saudiarabien; – Rwanda Federation Rumänska Réunion Qatar Paraguay Portugisiska Filippinerna Ockuperade palestinska territoriet; Polens Puerto Rico; Pakistan Peru Panama Papua Nya Guinea; Franska Polynesien; Nya Zeeland; Oman; Nepal Nederländerna Norges Nigeria Nicaragua Nya Kaledonien; Namibia Moçambique Malaysia Mexiko Martinique Malawi Maldiverna Mauritius Maltas Myanmar Macao SAR; Mongol Mali Madagaskar Marshall öarna; F.d. jugoslaviska republiken Makedonien; Montenegro Saint Martin; Marocko Monaco Moldavien Lettlands Libyen Utfärda Libanon Saint Lucia; Litauens Sri Lanka; Cayman öarna Liechtenstein Laos Kazakstan Kuwait Korea Komorerna Kambodja Saint Kitts och Nevis; Kenya Kirgizistan Japan Jordanien Jamaica Jersey; Italien; Island; Irak; Irland; Indien; Indonesien; Isle of man; Honduras; Israel; Ungern Hong Kong SAR; Kroatien Guatemala Grekiska Guadeloupe Franska Guyana; Grön Ghana Färöarna; Storbritannien; Sydgeorgien Frankrike Fiji Etiopien Sverige Frankrike Egypten Estlands Ecuador; Dominikanska Republiken; Algeriet Tyskland; Danmark; Cypern Tjeckiska republiken; Curaçao; Kap Verde; Costa Rica; Chile Kamerun Colombia Côte D' Ivoire; Kanadas Schweiz Belize Vitryska Botswana Bhutan Bahamas Bonaire, Sint Eustatius och Saba; Brasilien Benin Darussalam Snygg Bolivia Belgien Bulgarien Bahrain Burundi Bosnien och Hercegovina; Bangladesh Barbados Azerbajdzjan Aruba Ske Argentina Österrike Angola Armenien Afghanistan Albanien Anguilla Andorra Förenade Arabemiraten; Antigua och Barbuda
+- Tillåtna länder: U.S. Islands, engelska (franska södra territorier), Bouvet, Julön, territoriet i Indiska oceanen, Jemen, hörda och Mc Donald öarna, Wallis och Futuna, Vanuatu, Antarktis, Tuvalu, Somalia, Tokelau, Sierra Leone, Swaziland, Saint Helena, Ascension, Tristan da Cunha, SÃ £ o TomÃ © och PrÃncipe, Pitcairn, Palau, Salomonöarna, Nauru, Niue, Norfolkön, Mauretanien, Nordirland, Lesotho, Kiribati, Ekvatorialguinea, Guinea-Bissau , Cooköarna, Eritrea, Julön, Burkina Faso, Centralafrikanska republiken, Kosovo, kokos öarna, Svalbard och Jan Mayen, Ã... land öarna, Sydsudan, södra Georgien och Sydsandwichöarna, Samoa, Sankt BarthÃ © Lemy, Brittiska Jungfru öarna, Saint Pierre och Miquelon. Tchad, Niger, Montserrat, Guyana, Haiti, Gambia, Guam, Guinea, Gabon, Grenada, Gibraltar, Guernseypund, Liberia, Mikronesien, Falk lands öarna, Dominica, Djibouti, Kongo, Kongo (Dr), Zimbabwe, Amerikanska Samoa, Zambia, Sydafrika, Mayotte, Vietnam, Saint Vincent och Grenadinerna, amerikanska jungfru öarna, Venezuela, Heliga stolen (Vatikanstaten) , Ukraina, Uganda, Uzbekistan, USA, Uruguay, Tanzania, Taiwan, Trinidad och Tobago, Turkiet, Tunisien, Tonga, Timor-Leste, Turkmenistan, Tadzjikistan, Thailand, Togo, El Salvador, Sint Maarten, Turks-och Caicosöarna, Surinam, Singapore, Slovenien, San Marino, Senegal, Slovakien, Sverige, Republiken, Saudiarabien, Serbien, Rwanda, Ryssland, Rumänien, RÃ © union, Qatar, Paraguay, Portugal, Filippinerna, palestinska territoriet, ockuperade, Polen, Puerto Rico, Pakistan, Peru, Panama, Papua Nya Guinea, franska Polynesien , Nya Zeeland, Oman, Nepale, Nederländerna, Norge, Nigeria, Nicaragua, Nya Kaledonien, Namibia, Moçambique, Malaysia, Mexiko, Martinique, Malawi, Maldiverna, Mauritius, Malta, Myanmar, Macao SAR, Mongoliet, Mali, Madagaskar, Marshall öarna, F.d. jugoslaviska republiken Makedonien, Montenegro, Saint Martin, Marocko, Monaco, Moldavien, Lettland, Libyen, Luxemburg, Libanon, Saint Lucia, Litauen, Sri Lanka, Cayman öarna, Liechtenstein, Laos, Kazakstan, Kuwait, Korea, Komorerna, Lettland, Sankt Kitts och Nevis, Kenya, Kirgizistan, Japan, Jordanien , Jamaica, Jersey, Italien, Island, Irak, Irland, Indien, Indonesien, Isle of man, Honduras, Israel, Ungern, Hongkong SAR, Kroatien, Guatemala, Grekland, Guadeloupe, Franska Guyana, Grönland, Ghana, Färöarna, Förenade kungariket, Georgien, Frankrike, Fiji, Etiopien, Finland, Spanien, Egypten, Estland, Ecuador, Dominikanska republiken, Tyskland, Danmark, Cypern, Tjeckien, CuraÃ § Ao, Kap Verde, Costa Rica, Chile, Kamerun, Colombia, CÃ ́te Dâ €™ Ivoire, Kanada, Schweiz , Belize, vitryska, Botswana, Bhutan, Bahamas, Bonaire, Sint Eustatius och Saba, Brasilien, Benin, Brunei, snyggare, Bolivia, Belgien, Bulgarien, Bahrain, Burundi, Bosnien och Hercegovina, Bangladesh, Barbados, Azerbajdzjan, Aruba, Australien, Argentina, Angola, Armenien
 
-### <a name="next-steps"></a>Nästa steg
+### <a name="next-steps"></a>Efterföljande moment
 
 - Kampanj erbjudandet är tillgängligt i den 1 januari 2021 officiella CSP Partner Center licens-pris lista och lista över erbjudande listor. 
-- Frågor eller uppföljning om den här kampanjen kan publiceras i [Microsofts meddelande om community](https://www.microsoftpartnercommunity.com/t5/Pricing-Licensing-Incentives/Announcing-a-new-Power-Apps-promotional-offer-to-accelerate-FY21/m-p/32540).
+- Frågor om befordran kan publiceras i [Microsoft Community-meddelandet](https://www.microsoftpartnercommunity.com/t5/Pricing-Licensing-Incentives/Announcing-a-new-Power-Apps-promotional-offer-to-accelerate-FY21/m-p/32540).
 
 ______________
 
@@ -339,7 +412,7 @@ Från och med december 08 2020 kan partners börja hämta versionen av [Microsof
 
 - Lade till MiddleName
  
-### <a name="next-steps"></a>Nästa steg
+### <a name="next-steps"></a>Efterföljande moment
 
 - Ladda ned den senaste versionen [MicrosoftPartnerCenter. NETSDK (NuGet Gallery | Microsoft. Store. PartnerCenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3)
 - Hämta och granska [GitHub-exemplen](https://github.com/Microsoft/Partner-Center-DotNet-Samples)
@@ -375,7 +448,7 @@ De licensbaserade pris listorna för december innehåller följande erbjudanden 
    |Dynamics 365-personal som är anslutna till att kvalificera Dynamics 365-bas erbjudandet (priser för icke-täckning)|8bf0b826-e05b-45aa-9cd1-9a9f742f7731|
    |Dynamics 365-personal som är anslutna till att kvalificera Dynamics 365-bas erbjudandet (priser för icke-täckning) (kvalificerat erbjudande)|f906435d-9dc9-42ba-bea6-2a2b08ca60db|
    |Dynamics 365-sand Box (priser för icke-täckning)|079ec5ba-d726-4384-95af-62d135c210d2|
-   |Dynamics 365 självbetjäning för Human Resources (priser för icke-täckning)|931acecc-34c3-4f83-913e-c7fdbfd7e2a1|
+   |Dynamics 365 personal Self-Service (priser för icke-täckning)|931acecc-34c3-4f83-913e-c7fdbfd7e2a1|
    |Dynamics 365-åtgärder – order rader (priser för icke-täckning)|7dd6b78a-3d53-47f8-8a64-bd84609a9a70|
    
 #### <a name="incorrect-offers-in-the-offer-list-matrix"></a>Felaktiga erbjudanden i listan över erbjudande listor

@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: da6a3ab2a2fab99f49b9f5ba22824e5e61f6d482
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: db35696483c8a1e67f173ec7953cfa33a428a022
+ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92531992"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97720840"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>Partner administrations centret flyttas till partner centret
 
@@ -41,13 +41,10 @@ Under den 2018 april kommer PAC att tas ur bruk och CSP-partners kommer att bör
 
 - Leverantörer av moln lösningar: om du är en CSP-partner kommer vi automatiskt att omdirigera dig till Partner Center från och med april 2018.
 
-- Advisor-partner (om du inte använder Transact via CSP och använder PAC för att tillhandahålla försök/offerter för dina kunder): så snart vi bestämmer sig för den automatiska omdirigeringen till Partner Center kommer vi att meddela den här.
+- Advisor-partner (om du inte använder Transact via CSP och använder PAC för att tillhandahålla försök/offerter för dina kunder): om du är en rådgivare-partner omdirigeras du automatiskt till Partner Center från och med juni 2020.
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>Börja använda Microsoft Partner Center nu!
 
 Börja använda [Microsoft Partner Center](https://partnercenter.microsoft.com/) nu för att komma igång med att flytta från PAC.  Du använder samma autentiseringsuppgifter för det Partner Center som du använder för PAC.
 
-> [!IMPORTANT]  
-> Vissa funktioner och funktioner som var tillgängliga i PAC är inte tillgängliga i Partner Center.
-
- Läs igenom [jämförelse sidan sida vid sida](moving-from-pac-to-pc.md) för att förstå och bekanta dig med de här ändringarna. 
+Läs igenom [jämförelse sidan sida vid sida](moving-from-pac-to-pc.md) för att förstå och bekanta dig med de här ändringarna.

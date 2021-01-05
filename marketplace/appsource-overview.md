@@ -6,18 +6,18 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 5769326965955762d2c262fd42a099cf745417e6
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 9559e1e2b0511d52b1535efa6513bbb61c6c5fec
+ms.sourcegitcommit: 0dfbb9717bd67f710652e4af11867857c930b2fa
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007657"
+ms.lasthandoff: 12/25/2020
+ms.locfileid: "97771700"
 ---
 # <a name="what-is-microsoft-appsource"></a>Vad är Microsoft AppSource?
 
 Microsoft AppSource är en onlinebutik som innehåller tusentals affärs program och tjänster som skapats av branschledande program varu leverantörer. Du kan använda AppSource för att hitta, prova, köpa och distribuera affärs program och tjänster som hjälper dig att köra din verksamhet.
 
-AppSource-katalogen innehåller program vara som en tjänst (SaaS), lösningar som skapats för Microsoft Azure, Dynamics 365, Microsoft 365, Power BI, Power Apps och konsult tjänster från Microsoft-partner. Du kan komma åt produkt katalogen för AppSource på [https://appsource.microsoft.com](https://appsource.microsoft.com) , samt genom produkt upplevelsen i Microsoft 365, Dynamics 365 och Microsoft Power Platform. Lösningar från AppSource kan också vara tillgängliga från Microsofts åter försäljare i Cloud Solution Provider-programmet.
+AppSource-katalogen innehåller program vara som en tjänst (SaaS), lösningar som skapats för Microsoft Azure, Dynamics 365, Microsoft 365, Power BI, Power Apps och konsult tjänster från Microsoft-partner. Få åtkomst till produkt katalogen för AppSource på [https://appsource.microsoft.com](https://appsource.microsoft.com) eller genom produkt upplevelsen i Microsoft 365, Dynamics 365 och Microsoft Power Platform. Lösningar från AppSource kan också vara tillgängliga från Microsofts åter försäljare i Cloud Solution Provider-programmet.
 
 ## <a name="find-what-you-need-on-appsource"></a>Hitta vad du behöver på AppSource
 
@@ -44,12 +44,16 @@ Varje produkt som är tillgänglig i AppSource har certifierats enligt vissa kri
 
 ## <a name="terms-and-conditions"></a>Villkor
 
-Program varu leverantören definierar pris, slut användar licens avtal och sekretess principer. Varje erbjudande på AppSource innehåller länkar till utgivarens licens avtal och sekretess policy. Att bekräfta dessa avtal, samt att ha möjlighet att visa dem, är en del av inköps flödet. Mer information finns i [juridiska avtal](legal-contracts.md) .
+Program varu leverantören definierar pris, slut användar licens avtal och sekretess principer. Varje erbjudande på AppSource innehåller länkar till utgivarens licens avtal och sekretess policy. Att visa och bekräfta dessa avtal är en del av inköps flödet. Mer information finns i [juridiska avtal](legal-contracts.md).
+
+## <a name="discover-saas-and-m365-integrated-apps"></a>Identifiera SaaS-och M365-integrerade appar
+
+Våra partner kan länka mellan SaaS-och M365-integrerade appar. På så sätt kan du hämta och använda integrerade appar när du hämtar den länkade SaaS-appen. I det här fallet kan Sök resultatet bara returnera SaaS-appen som visar ikonerna för de integrerade appar som ingår. Du kan navigera mellan SaaS och den integrerade appen på produkt informations sidan för var och en. Om en SaaS-app kräver köp, se [så här köper du SaaS-erbjudanden på Microsoft AppSource](purchase-software-appsource.md).
 
 ## <a name="find-ratings-and-reviews"></a>Hitta klassificeringar och recensioner
 
-På varje listsida hittar du betyg och recensioner från andra kunder. Klassificeringar använder en 5-stjärn skala och den genomsnittliga klassificeringen visas på varje erbjudande kort. Orda Grant-granskningar är också tillgängliga så att du kan lära dig mer om andra kunders upplevelser. När du har köpt en lösning kan du lämna en klassificering och granskning för att hjälpa andra kunder att fatta beslut.
+På varje listsida hittar du betyg och recensioner från andra kunder. Klassificeringen använder en 5-stjärn skala och den genomsnittliga klassificeringen visas på varje erbjudande kort. Orda Grant-granskningar är också tillgängliga så att du kan lära dig mer om andra kunders upplevelser. När du har köpt en lösning kan du lämna en klassificering och granskning för att hjälpa andra kunder att fatta beslut.
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Köp program vara på Microsoft AppSource](purchase-software-appsource.md)
+- [Köpa programvara på Microsoft AppSource](purchase-software-appsource.md)
