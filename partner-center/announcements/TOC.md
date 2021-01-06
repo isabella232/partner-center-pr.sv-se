@@ -1,4 +1,5 @@
 # [Partnercenter-meddelanden](index.md)
+# [Januari 2021](2021-january.md)
 # [December 2020](2020-december.md)
 # [November 2020](2020-november.md)
 # [Oktober 2020](2020-october.md)
