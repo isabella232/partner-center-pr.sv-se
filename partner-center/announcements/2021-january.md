@@ -9,20 +9,39 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 7a499c8c0fc64d00dcc8efe56f4bd5830d5e23bd
-ms.sourcegitcommit: 87677b45535a7b9d9ebd9afcbe4ea2491b4a1f52
+ms.openlocfilehash: 827d4d732e8aa5ff7e343ef3732ff0036eb8d628
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "97902672"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916804"
 ---
 # <a name="january-2021-announcements"></a>Meddelanden i januari 2021
 
 Den här sidan innehåller information om Microsoft Partner Center-meddelanden för januari 2021.
 
+2021-meddelanden: [januari](2021-january.md)
+
 2020-meddelanden: [maj](2020-may.md)juli den%  |  [](2020-june.md)  |  [](2020-july.md)  |  [augusti](2020-august.md)  |  [](2020-september.md)  |  [](2020-October.md)  |  [](2020-november.md)  |  [](2020-december.md) | Datumet
 
 ________________
+## <a name="deprecation-and-retirement-of-existing-get-and-put-qualification-apis-for-the-education-customer-validation-process-by-the-end-of-february-2021"></a><a name="2"></a>Utfasning och pensionering av befintliga API: er för GET-och GET-kvalificering för kundens validerings process i slutet av februari 2021
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Partner som säljer akademiska erbjudanden via Cloud Solution Provider-programmet med partner Center API
+
+### <a name="details"></a>Information 
+
+Detta är en uppföljning av de API-förbättringar som lanseras i december 2020. I december 2020 nya GET-och POST-API: er släpptes, och därför kommer de gamla API: erna för GET och GET att dras tillbaka i slutet av februari 2021. Vid detta tillfälle måste du använda de nya API: erna hämta och publicera Partner Center för att kunna köpa utbildnings erbjudanden. 
+
+## <a name="next-steps"></a>Nästa steg
+
+- Om du inte redan har gjort det kan du uppdatera till de nya API: erna för en lyckad och forts över gång.
+- Granska de nya API: erna för partner Center och [guiden för drift beredskap: Partner Center utbildning av kund validerings processer](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
+- Dela den här informationen med lämpliga team i din organisation och med dina åter försäljare för att hjälpa dem att förbereda för dessa ändringar.
+
+_____________
 
 ## <a name="dynamics-365-offers-for-february-2021"></a><a name="1"></a>Dynamics 365-erbjudanden i februari 2021
 

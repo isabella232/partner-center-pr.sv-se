@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: bbd2d1035bdcde691b0db620949d0e973667627b
-ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
+ms.openlocfilehash: cdd840089d1937c3168c60a361e3d77e37c688ed
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96776924"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916855"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guide till samförsäljning i Partner Center (PC) för partners som migrerar från partner Sales Connect (PSC)
 
@@ -320,6 +320,20 @@ Det går inte att komma åt Partner Center från PDM direkt till skillnad från 
 - OCP Insights – om PDM bara visar de avtal och framsteg som är relaterade till dem kan de använda OCP Insights-portalen för att få din organisations vy. Det här är ett internt verktyg som endast är tillgängligt för PDM. Observera att OCP Insights inte är tillgängliga för ditt företags användare.
 - Gäst användare i Partner Center – du kan lägga till ditt PDM- @microsoft.com konto som gäst användare i Partner Center och tilldela rollen som referens administratör så att de kan visa och agera på hänvisningar.
 - Skapa en [ny användare](./create-user-accounts-and-set-permissions.md#add-a-new-user) i din klient organisation – du kan skapa en ny användare i din egen klient och dela den informationen med PDM så att de kan visa och agera på referenser som liknar andra hänvisnings användare i ditt konto.
+
+## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-an-invalid-mpn"></a>Hitta rätt MPN-ID om ditt konto i PSC inte är associerat med en ogiltig MPN
+
+Om du är här eftersom du har sett en banderoll i PSC som nämner "PSC ogiltigt MPN-ID Association-problem", är du på rätt plats.
+
+Börja med att hitta rätt MPN-ID genom att följa stegen nedan
+
+- Logga in på ditt partner Center-konto
+- Använd rikt linjerna i dokumentationen för [konto inställningar](./partner-center-account-setup.md#locate-your-mpn-id) för att hitta MPN-ID: t.
+
+Nästa
+
+- Om du har en PDM kan du be dem att få ditt MPN-ID korrigerat med rätt MPN-ID från ditt partner Center-konto.
+- Om du inte har en PDM skickar du ett e-postmeddelande till adressen som anges i PSC-banderollen med både PSC-kontonamnet som visas i PSC-banderollen och rätt MPN-ID från ditt partner Center-konto.
 
 ## <a name="resources-to-help-you-create-and-manage-your-deals-in-partner-center"></a>Resurser som hjälper dig att skapa och hantera dina avtal i Partner Center
 
