@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: cdd840089d1937c3168c60a361e3d77e37c688ed
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: 8ab1e2f2abae8af4c3949615653f83553e65fe25
+ms.sourcegitcommit: e4f30d29073cc0bcc28c4fe48791a19aa28ba734
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916855"
+ms.locfileid: "97950594"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guide till samförsäljning i Partner Center (PC) för partners som migrerar från partner Sales Connect (PSC)
 
@@ -321,7 +321,7 @@ Det går inte att komma åt Partner Center från PDM direkt till skillnad från 
 - Gäst användare i Partner Center – du kan lägga till ditt PDM- @microsoft.com konto som gäst användare i Partner Center och tilldela rollen som referens administratör så att de kan visa och agera på hänvisningar.
 - Skapa en [ny användare](./create-user-accounts-and-set-permissions.md#add-a-new-user) i din klient organisation – du kan skapa en ny användare i din egen klient och dela den informationen med PDM så att de kan visa och agera på referenser som liknar andra hänvisnings användare i ditt konto.
 
-## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-an-invalid-mpn"></a>Hitta rätt MPN-ID om ditt konto i PSC inte är associerat med en ogiltig MPN
+## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-a-valid-mpn"></a>Hitta rätt MPN-ID om ditt konto i PSC inte är associerat med en giltig MPN
 
 Om du är här eftersom du har sett en banderoll i PSC som nämner "PSC ogiltigt MPN-ID Association-problem", är du på rätt plats.
 
