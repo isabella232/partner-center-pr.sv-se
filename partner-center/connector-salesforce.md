@@ -1,19 +1,19 @@
 ---
 title: Co-Sälj koppling för Salesforce CRM-partner Center
 ms.topic: how-to
-ms.date: 09/29/2020
+ms.date: 01/06/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Synkronisera dina referenser i Partner Center med Salesforce CRM. Säljare kan sedan sälja tillsammans med Microsoft från dina CRM-system.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: b73f0b24538daa18b93fa206fce5eda1ab9bc9b9
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: 68b8bdf7a88c1ca8d063cf3198fc49bf87552edb
+ms.sourcegitcommit: de2ac2eea26426ae8f962d29ab50b68850318ce6
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947859"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "97960959"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Co-Sälj koppling för Salesforce CRM – översikt
 
@@ -28,7 +28,7 @@ Lösningen baseras på Microsoft Power automatiserings lösning och använder AP
 
 ## <a name="before-you-install---pre-requisites"></a>Innan du installerar-krav
 
-|**Ämnen**   |**Detaljer**   |**Länkar**   |
+|**Ämnen**   |**Information**   |**Länkar**   |
 |--------------|--------------------|------|
 |Microsoft Partner Network-ID |Du behöver ett giltigt MPN-ID|För att ansluta till [MPN](https://partner.microsoft.com/)|
 |Färdiga försäljnings produkter|Din lösning för IP/tjänster måste vara samförsäljnings klar.|[Sälj med Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
@@ -51,7 +51,7 @@ Om du vill synkronisera hänvisningarna över partner Center och Salesforce CRM 
 
 3. I Salesforce installerar du anpassade fält och objekt med hjälp av Package Installer nedan.
   
-Gå [hit](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006Vs9a) om du vill installera paketet i valfritt företag:
+Gå [hit](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV) om du vill installera paketet i alla företag.
 
 
 Obs! Om du installerar i ett begränsat läge måste du ersätta den inledande delen av URL: en med http://test.salesforce.com
@@ -179,7 +179,7 @@ Med API: er för webhook i Partner Center kan du registrera för resurs ändring
 
 9. Se till att fönstret kör flöde visas i den högra rutan och klicka på **Fortsätt**.
 
-10. Ange följande uppgifter:
+10. Ange följande information:
 
     1. **Http-utlösare slut punkt**: URL kopierad från föregående steg
 
