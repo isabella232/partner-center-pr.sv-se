@@ -301,6 +301,9 @@
         - name: Incitamentsäljsamarbetsanspråk
           href: claims-overview.md
           displayName: incentives
+        - name: Visa tillgängliga co-op-medel
+          href: incentives-view-funds.md
+          displayName: incentives
         - name: Hantera säljsamarbetsanspråk
           href: create-incentives-claims.md
           displayName: incentives
