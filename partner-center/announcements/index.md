@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/17/2020
-ms.openlocfilehash: ea08eb3ab860c0ed4c34ee3818b7db42307c3b4e
-ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
+ms.date: 12/21/2020
+ms.openlocfilehash: 7cc78142e05667ca9072b25fb5ed94822d5f7c62
+ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "97666748"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97736554"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -22,7 +22,10 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 
 | **Kategori** | **Meddelanden december 2020** | **Meddelande** |
 |---------|:---------|:---------|
-|Erbjudanden/marknader|[Evig programvara i CSP:  Nya produkter och geografiska områden](2020-december.md#10)|17 december|
+|Erbjudanden|[Oanvända medel för kanalincitamentsfond för samarbetsmarknadsföring (co-op) från användningsperioden FY21 H1 som ska överföras till användningsperioden H2](2020-december.md#13)|22 december|
+|Funktioner|[DocuSign-migrering till Adobe Sign in 2021 för partner som har Microsoft-partneravtal (MPA)](2020-december.md#12)|22 december|
+|Erbjudanden/marknader|[Priser och katalogscheman för januari 2021](2020-december.md#11)|22 december|
+|Funktioner|[Meddelande om stöd hos Microsoft 365-appar och -tjänster för Internet Explorer 11 och äldre Microsoft Edge](2020-december.md#10)|21 december|
 |Utveckla verksamheten|[Myndigheter, akademiska institut och ideella organisationer: Fortsätter med ändringar i Open License-programmet och utveckling av CSP](2020-december.md#9)|17 december|
 |Erbjudanden/marknader|[Ändringar i Molnlösningsleverantör-kunders krav för onboarding](2020-december.md#8)|17 december|
 |Utveckla verksamheten|[Påminnelse: Evig programvara i Molnlösningsleverantör-programmet (CSP) finns tillgängligt i bred utsträckning från och med januari 2021](2020-december.md#7)|17 december|
