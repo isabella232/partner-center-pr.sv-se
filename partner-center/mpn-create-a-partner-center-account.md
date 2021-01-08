@@ -1,7 +1,7 @@
 ---
 title: Skapa ett Partnercenter-konto
 ms.topic: article
-ms.date: 08/07/2020
+ms.date: 01/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Lär dig hur Microsoft Partner Network-medlemmar kan skapa ett partner Center-konto för att hantera sina nätverks förmåner och-kompetenser.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e3f04708d3b7e2c86c88541931c120a6649674fb
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: c7aa97760be9fdb2cc004ffd5612826f777c05c5
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570798"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979744"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Skapa ett partner Center-konto för att hantera nätverks förmåner och-kompetenser
 
@@ -55,16 +55,20 @@ Vi ska kontrol lera den här informationen när kontot skapas. Information om ve
 
     Om ditt företag inte har ett arbets konto väljer du **skapa ett** för att ställa in det nu. När du har skapat ett arbets konto loggar du in med dina autentiseringsuppgifter för din globala administratör för det arbets konto som du nyss skapade.
 
-3.  Ange eller uppdatera företagets juridiska företags profil och primär kontakt information och välj sedan **Registrera nu**. 
+3.  Ange eller uppdatera företagets juridiska företags profil.
+
+    Du kan antingen söka efter företagets profil eller ange företags information manuellt. Om ditt företag är registrerat med [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)använder du duns-ID: t för att söka efter företagets information. Om du vill ange företagets information själv väljer du **manuell**.
+
+4. När du har angett företags information anger du den primära kontakt informationen och väljer sedan **Registrera nu**.
 
     Den primära kontakten bör vara den person i företaget som vi kan kontakta om ditt program (det kan vara du eller någon annan person i företaget). Vi använder också den här informationen för att kontrol lera att personen fungerar på företaget och har registrerat sig för ett partner Center-konto.
 
     > [!IMPORTANT]  
     > För att säkerställa ditt företags säkerhet och sekretess skickar vi din primära kontakt för att verifiera att (1) han eller hon registrerat sig för ett partner Center-konto och (2) att den här e-postadressen tillhör ditt företag. När den primära kontakten har verifierat sin e-postadress kommer vi att fortsätta med vår granskning av den information som du har angett.
 
-4.  Läs och godkänn de allmänna villkoren i Microsoft Partner Network avtalet. 
+5.  Läs och godkänn de allmänna villkoren i Microsoft Partner Network avtalet. 
 
-5.  Kontrol lera att du har lagts till i administratörs Agent gruppen. För att slutföra konfigurationen av ditt konto, inklusive att lägga till andra användare, måste du ha administratörs agent behörighet. Följ dessa steg om du vill visa eller uppdatera dina behörigheter:
+6.  Kontrol lera att du har lagts till i administratörs Agent gruppen. För att slutföra konfigurationen av ditt konto, inklusive att lägga till andra användare, måste du ha administratörs agent behörighet. Följ dessa steg om du vill visa eller uppdatera dina behörigheter:
 
     a. Välj ikonen **Inställningar** på [instrument panelen](https://partner.microsoft.com/dashboard/home**)för partner Center och välj sedan **användar hantering**.  
 

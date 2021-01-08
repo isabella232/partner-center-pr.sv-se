@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/04/2021
-ms.openlocfilehash: 827d4d732e8aa5ff7e343ef3732ff0036eb8d628
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.date: 01/07/2021
+ms.openlocfilehash: 17c4e19216218d070515b34d326dcca6596e94a8
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916804"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979812"
 ---
 # <a name="january-2021-announcements"></a>Meddelanden i januari 2021
 
@@ -23,6 +23,64 @@ Den här sidan innehåller information om Microsoft Partner Center-meddelanden f
 2021-meddelanden: [januari](2021-january.md)
 
 2020-meddelanden: [maj](2020-may.md)juli den%  |  [](2020-june.md)  |  [](2020-july.md)  |  [augusti](2020-august.md)  |  [](2020-september.md)  |  [](2020-October.md)  |  [](2020-november.md)  |  [](2020-december.md) | Datumet
+
+________________
+## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="3"></a> EU/EFTA-ändring av partner fakturerings valuta för nya Commerce-erbjudanden
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-01-07
+- Modern arbets plats
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+- Direkt leverantör, indirekt Provider, indirekt åter försäljare
+- Alla partner som samverkar via Cloud Solution Provider-programmet i EU/EFTA-regionen 
+
+### <a name="details"></a>Information
+
+I Europeiska unionen (EU)/European fri handels Association (EFTA) kan alla nya handels erbjudanden i Cloud Solution Provider-programmet använda partner fakturerings plats i stället för kund fakturerings plats. Det innebär att partner kommer att faktureras av Microsoft baserat på deras plats valuta, inte deras kunders plats valuta. Detta görs i två faser:
+
+**Fas 1:**
+
+- Ny kund som köper ett nytt handels erbjudande i CSP
+
+- Befintliga kunder första gången inköp av nya Commerce-erbjudanden – innehavare skapade före 11 maj 2020
+
+Från och med 2021 28 januari kommer partners som har nya kunder att köpa ett nytt handels erbjudande, eller befintliga kunder med klienter som skapats före den 11 maj 2020 att göra sina första inköp av nya handels erbjudanden, debiteras för dessa inköp i partner platsens valuta.  
+
+Partner med befintliga kunder som redan har köpt nya Commerce-erbjudanden i CSP kommer att fortsätta att faktureras i valutan för kundens fakturerings plats under den här fasen. Dessutom fortsätter partner med befintliga kunder att köpa ett nytt handels erbjudande första gången, vars innehavare har skapats på eller efter 11 maj 2020, men kommer att fortsätta faktureras i kundens valuta.
+
+**Fas 2:**
+
+- Befintliga kunder som redan har köpt ett nytt Commerce-erbjudande i CSP före fas 1
+- Befintliga kunder första gången köp av nya Commerce-erbjudanden – innehavare som skapats på eller efter 11 maj 2020
+
+I samband med fas 1 och under kalender året 2021 kommer Microsoft att överföra nya Commerce-erbjudanden för partner med befintliga kunder, som har köpt ett nytt handels erbjudande i CSP före fas 1, samt kunder som hade sina klienter som skapats på eller efter den 11 maj 2020, från kund platsens valuta till partner platsens valuta. Partners kommer att bli väl informerade innan ändringen implementeras.
+
+Efter fas 2 kommer partners i EU/EFTA-regionen att faktureras i partner platsens valuta för alla kunder och alla CSP-inköp.
+
+>[!NOTE]
+>Den här ändringen påverkar endast partner fakturerings valutan och inte priserna för nya handels erbjudanden i CSP.
+
+De nya Commerce-erbjudandena i omfånget för den här ändringen är: Azure-prenumerationer som ingår i en Azure-prenumeration, Azure-reservationer, Server prenumerationer, beständig program vara och Microsofts kommersiella marknads marknads inköp i Cloud Solution Provider-programmet.
+
+### <a name="partner-benefits"></a>Partner förmåner
+
+Den här uppdateringen minskar komplexiteten och omkostnaderna med fakturering i flera valutor i EU/EFTA-regionen för den nya Commerce-upplevelsen.
+
+- Partner får en konsol IDE rad faktura i en enskild valuta och får inte längre någon faktura för varje kunds plats valuta
+- Incitaments utbetalningar är i samma valuta som partnerns faktura valuta
+- Partner kommer att meddela minskad fakturerings komplexitet som orsakas av multi-Currency-fakturering, vilket frigör tid och resurser som för närvarande är kopplade till att stämma av konton
+- För partner som ännu inte har antagit nya Commerce-erbjudanden justeras den här ändringen med föregående fakturerings modell för partner, vilket gör det möjligt för partner att lättare övergå till den nya Commerce-upplevelsen i CSP
+
+### <a name="next-steps"></a>Nästa steg
+
+Granska informationen om det här avsnittet i [Åtgärds galleriet](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) (inloggning krävs) på webbplatsen för Microsoft-partner.  
+
+### <a name="questions"></a>Har du några frågor?
+
+För alla frågor som rör detta meddelande kontaktar du [Support för partner Center](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) (inloggning krävs).
 
 ________________
 ## <a name="deprecation-and-retirement-of-existing-get-and-put-qualification-apis-for-the-education-customer-validation-process-by-the-end-of-february-2021"></a><a name="2"></a>Utfasning och pensionering av befintliga API: er för GET-och GET-kvalificering för kundens validerings process i slutet av februari 2021

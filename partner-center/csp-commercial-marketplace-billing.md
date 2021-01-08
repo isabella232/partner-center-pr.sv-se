@@ -9,19 +9,15 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c03ab358b8fb6ab0f23ea5f42b9d35c6f6c2b80c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 10592c7f8a3b1f075bc726161603859552b29961
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531664"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979540"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Fakturering för produkter och prenumerationer på kommersiella platser i Partner Center
 
-**Gäller för**
-
-- Partnercenter
-- Partner i CSP-programmet
 
 **Lämpliga roller**
 
@@ -35,7 +31,7 @@ Du kan komma åt fakturor från antingen [instrument panelen](https://partner.mi
 Partner i CSP-programmet debiteras för ISV-lösningar för kommersiella marknads platser som köpts för en kund när de köper dessa produkter från antingen Partner Center eller från Azure Portal (med hjälp av kundens tidigare CSP-köpta Azure-klient).
 
 >[!NOTE]
->Om kunderna använder sin egen Azure AD-klient (inte en som köpts från en partner i CSP-programmet) kan kunderna också välja att köpa sin egen ISV SaaS-lösning direkt från ([Microsoft AppSource](https://appsource.microsoft.com/) eller [Azure Marketplace](https://azuremarketplace.microsoft.com/)). Om de gör det kommer de att få sin egen faktura direkt från Microsoft. Om en partner i CSP-programmet säljer en Azure-prenumeration eller den nya Azure-prenumerationen till kunden och ger kunden (eller den indirekta åter försäljaren) [rollbaserad åtkomst](/azure/role-based-access-control/built-in-roles) till den innehavaren (tilldela en roll till kunden förutom **läsaren** ) kan den kunden (eller indirekta åter försäljaren) även köpa kommersiella Marketplace-erbjudanden utan föregående godkännande eller meddelande till CSP-partnern. I dessa fall kommer Microsoft inte att meddela partners i CSP-programmet om köp som görs av deras kunder. Microsoft erbjuder dock en valfri [Azure Monitor](/azure/azure-monitor/platform/alerts-activity-log) mekanism som du kan använda för att ställa in aviseringar eller meddelanden om aktiviteter på en Azure-prenumeration.
+>Om kunderna använder sin egen Azure AD-klient (inte en som köpts från en partner i CSP-programmet) kan kunderna också välja att köpa sin egen ISV SaaS-lösning direkt från ([Microsoft AppSource](https://appsource.microsoft.com/) eller [Azure Marketplace](https://azuremarketplace.microsoft.com/)). Om de gör det kommer de att få sin egen faktura direkt från Microsoft. Om en partner i CSP-programmet säljer en Azure-prenumeration eller den nya Azure-prenumerationen till kunden och ger kunden (eller den indirekta åter försäljaren) [rollbaserad åtkomst](/azure/role-based-access-control/built-in-roles) till den innehavaren (tilldela en roll till kunden förutom **läsaren**) kan den kunden (eller indirekta åter försäljaren) även köpa kommersiella Marketplace-erbjudanden utan föregående godkännande eller meddelande till CSP-partnern. I dessa fall kommer Microsoft inte att meddela partners i CSP-programmet om köp som görs av deras kunder. Microsoft erbjuder dock en valfri [Azure Monitor](/azure/azure-monitor/platform/alerts-activity-log) mekanism som du kan använda för att ställa in aviseringar eller meddelanden om aktiviteter på en Azure-prenumeration.
 
 ## <a name="access-billing-information-for-commercial-marketplace-products"></a>Få åtkomst till fakturerings information för kommersiella Marketplace-produkter
 
@@ -43,9 +39,9 @@ Den globala administratörs-eller fakturerings administratören för ditt föret
 
 1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard/).
 
-2. Från menyn Partner Center väljer du **fakturering** . 
+2. Från menyn Partner Center väljer du **fakturering**. 
 
-    Du kommer att se två flikar överst på sidan fakturering: **återkommande** och **återkommande och engångs köp** . På varje flik kan du komma åt faktura-och avstämnings-filer (rekognoseringar) för olika Marketplace-produkter:
+    Du kommer att se två flikar överst på sidan fakturering: **återkommande** och **återkommande och engångs köp**. På varje flik kan du komma åt faktura-och avstämnings-filer (rekognoseringar) för olika Marketplace-produkter:
 
     - Fliken **återkommande** : visar faktura-och avstämnings filer för prenumerationer relaterade till Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, Power BI Pro och Microsoft Azure.
 
@@ -53,7 +49,7 @@ Den globala administratörs-eller fakturerings administratören för ditt föret
   
 3. Välj fliken **återkommande och en-tid-inköp** . Om du har köpt prenumerationer för en kund i en annan valuta, visas en flik för varje valuta. Du kan göra några saker fr: om den här sidan:
 
-    - Om du vill se den senaste fakturan och avstämnings filen väljer du **faktura** eller **avstämnings fil** . (Om du vill kan du också komma åt de senaste faktura-och rekognoseringar-fildata med hjälp av [API: er för partner Center](/partner-center/develop/).
+    - Om du vill se den senaste fakturan och avstämnings filen väljer du **faktura** eller **avstämnings fil**. (Om du vill kan du också komma åt de senaste faktura-och rekognoseringar-fildata med hjälp av [API: er för partner Center](/partner-center/develop/).
 
     - Om du vill se tidigare fakturor och rekognoseringar-filer expanderar du raden för **fakturerings historiken** nedan.
 

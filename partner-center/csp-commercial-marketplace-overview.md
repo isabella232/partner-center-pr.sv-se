@@ -9,19 +9,18 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c8d64167261fe9f425a1430ac0c109b446b50913
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: 6b914d6dbd69f374976584d1261382ef8fe9ded9
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038837"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979455"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Översikt över den kommersiella marknads platsen i Partner Center
 
-**Gäller för**
+**Lämpliga roller**
 
-- Partnercenter
-- Partner i CSP-programmet
+- Global administratör
 
 Att vara en partner i ett CSP-program (Cloud Solution Provider) gör att du kan paketera och sälja Microsoft-produkter tillsammans med lösningar som publicerats av oberoende program varu leverantörer (ISV: er). Att kunna paketera lösningar på det här sättet gör att du bättre kan betjäna slutanvändare och utveckla din verksamhet för CSP-tjänster.
 

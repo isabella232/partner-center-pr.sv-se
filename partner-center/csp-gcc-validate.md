@@ -1,5 +1,5 @@
 ---
-title: Office 365 myndigheter GCC-partner och kund berättigande kriterier
+title: Office 365 Government GCC – berättigandekriterier för partner och kunder
 ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
@@ -9,19 +9,14 @@ author: BillLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cae255b05b00739ee7db15c8ba298df11ca74788
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 8614b321b453d280b8af0c548ea61c049708a6db
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92531033"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979645"
 ---
-# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria---partner-center"></a>Office 365 myndigheter GCC för CSP-partner och kund berättigande kriterier – Partner Center
-
-**Gäller för**
-
-- Partnercenter
-- CSP-partner
+# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Office 365 myndigheter för GCC för CSP-partner och kund villkor 
 
 **Lämpliga roller**
 
@@ -32,7 +27,7 @@ ms.locfileid: "92531033"
 >[!NOTE]
 >Validerings processen och kriterierna som beskrivs nedan är specifika för direkta fakturerings partner. Direkt fakturerings partner inkluderar direkt åter försäljare och indirekta leverantörer.  Om du är en indirekt åter försäljare kan du arbeta med din indirekta leverantör.
 
-Om du är intresse rad av din organisation (eller din kunds organisation) som godkänts för GCC för Office 365 myndigheter för CSP, kan du läsa igenom kraven nedan.
+Om du är intresse rad av att företaget (eller ditt kunds företag) är godkänt för Office 365 myndighets GCC för CSP, kan du läsa igenom kraven nedan.
 
 Du kan godkännas om du är en partner som betjänar amerikanska federala, statliga, lokala eller stambaserad myndighets enheter. Om du vill att din organisations berättigande ska verifieras, fyller du i kort form [här](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner).
 
@@ -49,7 +44,7 @@ Office 365 myndigheter GCC för CSP-partner och kunder kommer att val IDE ras f�
 2.  Tjänar amerikanska myndighets kunder genom GSA eller andra avtals fordon
 
 **Kundkriterier**
-1.  AMERIKANSKA myndigheters enheter i dess myndighets förmåga. Exempel:
+1.  AMERIKANSKA myndigheters enheter i dess myndighets förmåga. Ett exempel:
  
     -  Federala myndigheter (t. ex. Bureau, agentur, avdelning eller annan enhet från amerikanska myndigheter)
     -   Tillstånd/lokal entitet 
@@ -68,3 +63,6 @@ Office 365 myndigheter GCC för CSP-partner och kunder kommer att val IDE ras f�
 
 En internationell kommersiell entitet kan vara berättigad om de uppfyller de krav som anges ovan och har verifierat amerikansk närvaro (till exempel e-postadress, fysisk plats osv.).
 
+## <a name="next-steps"></a>Nästa steg
+
+- [Sälj Office 365 myndigheters GCC för CSP-prenumerationer till kvalificerade kunder](csp-gcc-overview.md)

@@ -9,14 +9,24 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9d5d0841914f0a8a5dc155307b177606a4a6de6
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 386df8e19a7c66403770f94f2656bc52feb15564
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531648"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979574"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>Ansök om försäljning i Microsofts nationella moln som en del av CSP-programmet
+
+**Gäller för**
+
+- Partner Center för Microsoft myndighets moln
+- Partner Center för Microsoft Cloud Germany
+
+
+**Lämpliga roller**
+
+- Global administratör
 
 Förutom att sälja till kunder som en del av programmet global Cloud Solution Provider kan kvalificerade Microsoft-partner även sälja moln lösningar till kunder i tre separata nationella moln. Nationella moln är fysiska och logiska nätverks instanser av Microsoft Enterprise Cloud Services, som är begränsade inom de geografiska gränserna för specifika länder och drivs av lokal personal. 
 
@@ -49,3 +59,7 @@ Kvalificerade partner kan sälja Microsofts moln lösningar till kunder i dessa 
     Microsoft är teknik leverantören, men den använder inte tjänsten. 21Vianet fungerar oberoende av, tillhandahåller och hanterar leverans av Microsofts moln tjänster. Genom att licensiera Microsofts tekniker kan 21Vianet erbjuda Azure-och Office 365-tjänster och använda Azure-och Office 365-datacenter som håller data i Kina. 21Vianet tillhandahåller även prenumerations-och fakturerings tjänster samt support.
 
     Information om hur du registrerar i och säljer till kunder i Azure och Office 365 som drivs av 21Vianet i Kina finns i [partner Center som drivs av 21Vianet](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11)).
+
+## <a name="next-steps"></a>Nästa steg
+
+- [Vanliga frågor och svar om Partner Center för Microsoft Cloud för amerikanska myndigheter](faq-for-us-govt-cloud.md)

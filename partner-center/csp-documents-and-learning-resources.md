@@ -9,19 +9,19 @@ author: billLinzbach
 ms.author: billli
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: afb3fad6f0345ef8a602c78b891634a64a2adf84
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.openlocfilehash: 8d4984f3a4612e8b0b0023f8cbfcb9a2805a3177
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92531065"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979701"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guide, avtal, prislistor och erbjudanden för molnlösningsleverantörer
 
 **Gäller för**
 
 - Partnercenter
-- Partner Center för Microsoft Cloud för amerikanska myndigheter
+- Välkommen till Partnercenter för Microsoft Cloud for US Government
 
 
 Läs informationen i den här artikeln för att förstå kraven för att delta i Microsofts program vara för Cloud Solution Provider (CSP).
@@ -77,3 +77,8 @@ Som partner i CSP kan du sälja en mängd olika Microsoft-produkter, tjänster o
 För CSP-partner som använder sig av en post med topp användnings post publicerar Microsoft även en lista över Azure-tjänsterna i CSP på sidan **priser och erbjudanden** .
 
 Om du vill veta mer om Azure Marketplace-erbjudanden som publiceras av oberoende program varu leverantörer (ISV: er) går du till **Marketplace** -sidan i den vänstra navigerings menyn. För närvarande kan endast SaaS (program vara som en tjänst) användas för att köpa produkt typer i Partner Center. Du måste besöka Azure Portal för att få andra typer av Azure Marketplace-erbjudanden.
+
+## <a name="next-steps"></a>Nästa steg
+
+- [Lär dig mer om Microsofts partner avtal](microsoft-partner-agreement.md)
+- [Gå med i Cloud Solution Provider-programmet](enrolling-in-the-csp-program.md)

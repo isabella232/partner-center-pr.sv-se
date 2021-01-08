@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a05b1ba1a4fb92e30a7a21609a4794d8b3b8fd4c
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: fc5a34bbb8326b38c13cc73ca9fff099f9b1c0db
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916838"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979772"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Lär dig mer om Microsoft partner Agreement (MPA) för CSP-programpartner
 
@@ -54,7 +54,7 @@ Om du vill fortsätta delta i CSP-programmet måste du logga Microsoft partner A
 
 1. Logga in på Partner Center med autentiseringsuppgifterna för ditt globala administratörs konto för CSP.
 
-1. Välj [partner profil](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)från **Inställningar** .
+1. Från **Inställningar** väljer du **konto inställningar** och väljer sedan [partner profil](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
 
 1. Se avsnittet **program information** . Om informationen inte visar **indirekt åter försäljar** status måste du [Registrera dig som en indirekt åter försäljare](indirect-reseller-tasks-in-partner-center.md).
 
@@ -79,6 +79,10 @@ För att se om du har signerat MPA:
 
 >[!NOTE]
 >Endast den globala administratören i företaget kan visa och signera MPA. Om du inte är den globala administratören måste du be din globala administratör att verifiera MPA.
+
+Du kan också se om du har undertecknat avtalet genom att välja **avtal** från **konto inställningar**.
+
+:::image type="content" source="images/agreements/agreements.png" alt-text="Indikerar att MPA är signerat":::
 
 
 ## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>Hämta steg-för-steg-guiden som passar för var du befinner dig i processen

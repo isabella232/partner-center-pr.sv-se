@@ -9,19 +9,15 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d32f42b2c4bd8e4ec6c659326d1a21385c0642f
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 5e6ca188aeb50cec6f847afb08be4a9d62b36984
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531688"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979684"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Hantera kommersiella Marketplace-produkter och erbjudanden för dina kunder
 
-**Gäller för**
-
-- Partnercenter
-- Partner i CSP-programmet
 
 **Lämpliga roller**
 
@@ -36,7 +32,7 @@ När du har köpt en prenumeration från en tredjeparts ISV-utgivare kan du gran
 
 1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard)och välj sedan **kunder** i den vänstra navigerings menyn.
 
-2. Välj en lämplig kund och välj sedan **prenumerationer** . Här listas alla licensbaserade prenumerationer som du har köpt för kunden.
+2. Välj en lämplig kund och välj sedan **prenumerationer**. Här listas alla licensbaserade prenumerationer som du har köpt för kunden.
 
 3. I kolumnen **prenumeration** väljer du den prenumeration som du vill visa eller redigera. Detta ger dig mer information om hur du konfigurerar eller tillhandahåller erbjudandet. (Om det krävs mer åtgärd för erbjudandet kan du också se statusen "åtgärd krävs" i kolumnen Status. Detta kan också åtföljas av en länk till ISV-utgivarens webbplats.)
 
@@ -63,7 +59,7 @@ Utgivaren bör förse dig med en anpassad länk och en auktoriseringskod som ide
 
 1. Du kan hitta den här anpassade länken från ISV-utgivaren på några få sätt:
 
-   - Du kan se länken från bekräftelse sidan som visas när du har köpt ett ISV SaaS-erbjudande. Du hittar den här länken på sidan genom att leta efter och välja **gå till utgivarens webbplats** .
+   - Du kan se länken från bekräftelse sidan som visas när du har köpt ett ISV SaaS-erbjudande. Du hittar den här länken på sidan genom att leta efter och välja **gå till utgivarens webbplats**.
 
    - Du kan se länken från den specifika kundens prenumerations sida. Den här Publisher-länken visas på den rad som är kopplad till ISV-erbjudandet eller prenumerationen som har köpts för kunden.
 
@@ -102,13 +98,13 @@ Om du har SaaS kan du lägga till eller ta bort användar licenser för en kund 
 
 1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard)och välj sedan **kunder** i den vänstra navigerings menyn.
 
-2. Välj en lämplig kund och välj sedan **prenumerationer** . Här listas alla licensbaserade prenumerationer som du har köpt för kunden.
+2. Välj en lämplig kund och välj sedan **prenumerationer**. Här listas alla licensbaserade prenumerationer som du har köpt för kunden.
 
 3. I kolumnen **prenumeration** väljer du den prenumeration som du vill ändra.
 
 4. Leta upp fältet **kvantitet** på sidan prenumerations information. Här kan du öka eller minska antalet licenser.
 
-5. Ändra antalet och välj sedan **Skicka** .
+5. Ändra antalet och välj sedan **Skicka**.
 
 ## <a name="manage-subscriptions-using-partner-center-apis"></a>Hantera prenumerationer med API: er för partner Center
 

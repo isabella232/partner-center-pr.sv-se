@@ -1,7 +1,7 @@
 ---
 title: Priser och erbjudanden
 ms.topic: article
-ms.date: 07/10/2020
+ms.date: 01/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Se aktuella pris listor för licensbaserade tjänster som Office 365, Microsoft Dynamics CRM och Enterprise Mobility Suite och användnings tjänster som Azure.
@@ -9,18 +9,15 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18c671b7903914bbbca49ded24f54b808833a92e
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: bf2630ffcdd36aee17b74a07ac03782ae4d9c9f0
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "92531093"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979829"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Priser och erbjudanden för Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure med mera
 
-**Gäller för**
-
-- Partnercenter
 
 **Lämpliga roller**
 
@@ -31,7 +28,7 @@ ms.locfileid: "92531093"
 - Försäljnings agent
 - Faktureringsadministratör
 
-Om du vill se de senaste program och erbjudanden för Cloud solution providers från partner portalen går du till **sälja > priser och erbjudanden** . Du hittar separata pris listor för de olika typerna av produkter som är tillgängliga. Följande pris listor finns på sidan **priser och erbjudanden** :
+Om du vill se de senaste program och erbjudanden för Cloud solution providers från partner portalen går du till **sälja > priser och erbjudanden**. Du hittar separata pris listor för de olika typerna av produkter som är tillgängliga. Följande pris listor finns på sidan **priser och erbjudanden** :
 
 - **Licensbaserade tjänster** innehåller pris information för Office 365, Enterprise Mobility och Security E3 samt och Dynamics 365. Licensbaserade prissättnings avsnitt innehåller aktuell och för hands versions prissättning samt matrisen för erbjudande listan. Pris listor inkluderar List pris och uppskattade detaljhandelspriser (ERP) för erbjudanden i alla valutor som stöds. Matrisen med erbjudande listan innehåller marknads tillgänglighet och annan viktig information om erbjudandena. De här filerna uppdateras den första dagen i varje månad.
 - **Användnings tjänster** innehåller pris information för Microsoft Azure och Visual Studio. Du kan också använda [Azure-tjänsterna i pris Kalkylatorn för CSP](https://azure.microsoft.com/pricing/calculator/). Den användnings hämtningen innehåller både CSP-pris listorna för alla valutor som stöds och de delade tjänsterna i ERP. De här filerna uppdateras den första dagen i varje månad.
@@ -46,7 +43,7 @@ Om du vill se de senaste program och erbjudanden för Cloud solution providers f
 
 ## <a name="price-list-preview-and-change-frequency"></a>Förhands granskning av pris lista och ändrings frekvens 
 
-Licensbaserade tjänster inkluderar en förhands granskning av pris listan, som tillhandahålls 30 dagar i förväg av eventuella ändringar. Om du vill se förhands granskningen av pris listan går du till **försäljning > priser och erbjudanden** . Det finns ingen pris för hands version för användnings tjänster eftersom dessa tjänster är dynamiska. I följande tabell beskrivs hur du läser pris List tabellen.
+Licensbaserade tjänster inkluderar en förhands granskning av pris listan, som tillhandahålls 30 dagar i förväg av eventuella ändringar. Om du vill se förhands granskningen av pris listan går du till **försäljning > priser och erbjudanden**. Det finns ingen pris för hands version för användnings tjänster eftersom dessa tjänster är dynamiska. I följande tabell beskrivs hur du läser pris List tabellen.
 
 |**Objekt**        |**Definition**      |
 |:-----------   |:-----------   |
@@ -105,7 +102,7 @@ Licensbaserade tjänster kan förvärvas antingen som bas erbjudanden eller-till
 3. Navigera till din kund från kund listan. Klicka på prenumerationen för bas erbjudandet som du just har köpt. På sidan Hantera prenumeration visas tillgängliga tillägg som kan användas för bas erbjudandet.
 
 > [!Note] 
-> Vissa bas erbjudanden har **enhets typs** värden för **tilläggs licenser** . För en bas erbjudande innebär det bara att du inte tilldelar användar licenser efter köpet. Om erbjudandet kan köpas i katalogen är det ett **bas erbjudande** oavsett enhets typ i användar gränssnittet.
+> Vissa bas erbjudanden har **enhets typs** värden för **tilläggs licenser**. För en bas erbjudande innebär det bara att du inte tilldelar användar licenser efter köpet. Om erbjudandet kan köpas i katalogen är det ett **bas erbjudande** oavsett enhets typ i användar gränssnittet.
 
 ## <a name="pricing-between-azure-and-non-azure"></a>Prissättning mellan Azure och icke-Azure
 
@@ -169,7 +166,7 @@ Nedan visas en sammanfattning av hur dessa erbjudanden fungerar:
 - Prenumerationen förnyas inte och upphör att gälla efter 6 år
 - Fakturerings frekvensen för erbjudandet visas som årlig, men partnern faktureras direkt på den första fakturan efter att prenumerationen har förvärv ATS
 - Prenumerationer för a1 72-månads erbjudanden är låsta efter köpet och kan inte annulleras och det går inte att lägga till licens antalet i prenumerationen efter det första köpet
-- Partner som behöver avbryta måste skapa ett support ärende med orsaken till annulleringen och det prenumerations-ID som de behöver hjälp med.
+- Den här prenumerationen kan inte avbrytas och kan inte återbetalas.
 
 ## <a name="estimated-retail-price-erp"></a>Beräknat detalj handels pris (ERP)
 
