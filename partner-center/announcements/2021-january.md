@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/07/2021
-ms.openlocfilehash: 17c4e19216218d070515b34d326dcca6596e94a8
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 0f03ae17b9dd4b7a9097c7531dc6b519de70acef
+ms.sourcegitcommit: e4dea28c06da7677ea6a8615afdfd82d0151bd00
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979812"
+ms.locfileid: "98041015"
 ---
 # <a name="january-2021-announcements"></a>Meddelanden i januari 2021
 
@@ -25,21 +25,59 @@ Den här sidan innehåller information om Microsoft Partner Center-meddelanden f
 2020-meddelanden: [maj](2020-may.md)juli den%  |  [](2020-june.md)  |  [](2020-july.md)  |  [augusti](2020-august.md)  |  [](2020-september.md)  |  [](2020-October.md)  |  [](2020-november.md)  |  [](2020-december.md) | Datumet
 
 ________________
+
+## <a name="license-base-price-list-updates-for-january-2021"></a><a name="4"></a>Licens – uppdatering av pris lista för januari 2021 
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-01-08
+- Erbjudanden/marknader
+
+### <a name="summary"></a>Sammanfattning
+
+Pris listorna i januari och februari för licensbaserade erbjudanden har uppdaterats för att korrigera vissa felaktiga List priser.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Alla partners som går via Cloud Solution Provider (CSP)-programmet.
+
+### <a name="details"></a>Information 
+
+Licensbaserade pris listor för januari 2021 och februari 2021 innehöll några fel List priser. De påverkade erbjudandena och valutorna visas nedan. Korrekt prissättning har uppdaterats och var tillgängligt från och med 7 januari 2021 2PM PST (Pacific, normal tid). 
+
+   |**Erbjudandets namn**|**Erbjudande-ID**|**Material-ID**|
+   |-------------------|:------|:------|
+   |Microsoft 365 E3|2b3b8d2d-10aa-4be4-b5fd-7f2feb0c3091|AAA-35638| 
+   |Microsoft 365 Business Basic|bd938f12-058f-4927-bba3-ae36b1d2501c|AAA-10624|
+
+Valutor som påverkas: 
+
+- Microsoft 365 E3 pris problem var begränsade till de här valutorna: JPY (japanska yen), GBP (fantastiska brittiska pund), EUR (Europeiska unionen), AUD (australiska dollar). 
+- Microsoft 365 Business grundläggande problem begränsade till endast USD (USA dollar). 
+
+Partner ska referera till pris listorna för för hands versionen för närvarande tillgängliga januari och februari för de korrekta priserna. 
+
+### <a name="next-steps"></a>Nästa steg
+
+- Partner bör ladda ned de senaste pris List filerna från Partner Center för att få de korrigerade januari-och februari-priserna. 
+- Globala administratörer för påverkade innehavare som har köpt prenumerationer mellan 1 januari och den 6 januari kommer att meddelas via ett e-postmeddelande i Partner Center före slutet av januari med mer information. 
+
+_____________ 
+
 ## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="3"></a> EU/EFTA-ändring av partner fakturerings valuta för nya Commerce-erbjudanden
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2021-01-07
-- Modern arbets plats
+- Funktioner
 
 ### <a name="impacted-audience"></a>Förverkad mål grupp
 
-- Direkt leverantör, indirekt Provider, indirekt åter försäljare
 - Alla partner som samverkar via Cloud Solution Provider-programmet i EU/EFTA-regionen 
 
 ### <a name="details"></a>Information
 
-I Europeiska unionen (EU)/European fri handels Association (EFTA) kan alla nya handels erbjudanden i Cloud Solution Provider-programmet använda partner fakturerings plats i stället för kund fakturerings plats. Det innebär att partner kommer att faktureras av Microsoft baserat på deras plats valuta, inte deras kunders plats valuta. Detta görs i två faser:
+I Europeiska unionen (EU)/European fri handels Association (EFTA) kan alla nya handels erbjudanden i Cloud Solution Provider-programmet använda partner fakturerings plats i stället för kund fakturerings plats. Det innebär att partner debiteras av Microsoft baserat på deras plats valuta, inte deras kunders plats valuta. Detta görs i två faser:
 
 **Fas 1:**
 
@@ -47,7 +85,7 @@ I Europeiska unionen (EU)/European fri handels Association (EFTA) kan alla nya h
 
 - Befintliga kunder första gången inköp av nya Commerce-erbjudanden – innehavare skapade före 11 maj 2020
 
-Från och med 2021 28 januari kommer partners som har nya kunder att köpa ett nytt handels erbjudande, eller befintliga kunder med klienter som skapats före den 11 maj 2020 att göra sina första inköp av nya handels erbjudanden, debiteras för dessa inköp i partner platsens valuta.  
+Från och med 2021 28 januari kommer partners som har nya kunder som köper ett nytt handels erbjudande, eller befintliga kunder med klienter som skapats före den 11 maj, 2020 att göra sina första inköp av nya Commerce-erbjudanden debiteras för dessa inköp i partner platsens valuta.  
 
 Partner med befintliga kunder som redan har köpt nya Commerce-erbjudanden i CSP kommer att fortsätta att faktureras i valutan för kundens fakturerings plats under den här fasen. Dessutom fortsätter partner med befintliga kunder att köpa ett nytt handels erbjudande första gången, vars innehavare har skapats på eller efter 11 maj 2020, men kommer att fortsätta faktureras i kundens valuta.
 
@@ -61,9 +99,8 @@ I samband med fas 1 och under kalender året 2021 kommer Microsoft att överför
 Efter fas 2 kommer partners i EU/EFTA-regionen att faktureras i partner platsens valuta för alla kunder och alla CSP-inköp.
 
 >[!NOTE]
->Den här ändringen påverkar endast partner fakturerings valutan och inte priserna för nya handels erbjudanden i CSP.
+>Den här ändringen påverkar endast partner fakturerings valutan och inte priserna för nya handels erbjudanden i CSP. De nya Commerce-erbjudandena i omfånget för den här ändringen är: Azure-prenumerationer som ingår i en Azure-prenumeration, Azure-reservationer, Server prenumerationer, beständig program vara och Microsofts kommersiella marknads marknads inköp i Cloud Solution Provider-programmet.
 
-De nya Commerce-erbjudandena i omfånget för den här ändringen är: Azure-prenumerationer som ingår i en Azure-prenumeration, Azure-reservationer, Server prenumerationer, beständig program vara och Microsofts kommersiella marknads marknads inköp i Cloud Solution Provider-programmet.
 
 ### <a name="partner-benefits"></a>Partner förmåner
 
@@ -82,6 +119,13 @@ Granska informationen om det här avsnittet i [Åtgärds galleriet](https://part
 
 För alla frågor som rör detta meddelande kontaktar du [Support för partner Center](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) (inloggning krävs).
 
+### <a name="change-log"></a>Ändringslogg
+
+- 17 november 2020: ursprunglig publikation
+ 
+- 7 januari 2021: ytterligare scenario som ingår i fas 1 och fas 2
+
+
 ________________
 ## <a name="deprecation-and-retirement-of-existing-get-and-put-qualification-apis-for-the-education-customer-validation-process-by-the-end-of-february-2021"></a><a name="2"></a>Utfasning och pensionering av befintliga API: er för GET-och GET-kvalificering för kundens validerings process i slutet av februari 2021
 
@@ -91,9 +135,9 @@ Partner som säljer akademiska erbjudanden via Cloud Solution Provider-programme
 
 ### <a name="details"></a>Information 
 
-Detta är en uppföljning av de API-förbättringar som lanseras i december 2020. I december 2020 nya GET-och POST-API: er släpptes, och därför kommer de gamla API: erna för GET och GET att dras tillbaka i slutet av februari 2021. Vid detta tillfälle måste du använda de nya API: erna hämta och publicera Partner Center för att kunna köpa utbildnings erbjudanden. 
+Detta är en uppföljning av de API-förbättringar som lanseras i december 2020. I december 2020 har nya GET-och POST-API: er släppts, och därför kommer de gamla API: erna för GET och GET att dras tillbaka i slutet av februari 2021. Vid detta tillfälle måste du använda de nya API: erna hämta och publicera Partner Center för att kunna köpa utbildnings erbjudanden. 
 
-## <a name="next-steps"></a>Nästa steg
+### <a name="next-steps"></a>Nästa steg
 
 - Om du inte redan har gjort det kan du uppdatera till de nya API: erna för en lyckad och forts över gång.
 - Granska de nya API: erna för partner Center och [guiden för drift beredskap: Partner Center utbildning av kund validerings processer](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
@@ -157,7 +201,7 @@ Dessa SKU: er har tagits bort från den slutgiltiga pris listan 1 januari 2021 o
    |Dynamics 365-åtgärder – enhet för AX-migrering|8c8b7c8f-cb3a-4737-8319-1752938c7be3|
    |Dynamics 365-team medlemmar för AX migration program|1eb3ad0b-9de3-419d-8bfe-0d61bdd945b2|
 
-## <a name="next-steps"></a>Nästa steg
+### <a name="next-steps"></a>Nästa steg
 
 Granska resurserna om det här avsnittet och dela dem med lämpliga intressenter i din organisation. 
 
