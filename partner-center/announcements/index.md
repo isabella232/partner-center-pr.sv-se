@@ -8,20 +8,24 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/21/2020
-ms.openlocfilehash: 7cc78142e05667ca9072b25fb5ed94822d5f7c62
-ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
+ms.date: 01/04/2021
+ms.openlocfilehash: 93deb404cd056aab2a14015a4c89fad22f9d0c72
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97736554"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979795"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
 Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här informationen regelbundet så återkom ofta!
 
-| **Kategori** | **Meddelanden december 2020** | **Meddelande** |
+| **Kategori** | **Meddelanden januari 2021** | **Meddelande** |
 |---------|:---------|:---------|
+|Modern arbetsplats|[EU-/EFTA-ändring av partnerfaktureringsvaluta för nya handelserbjudanden](2021-january.md#3)|7 januari|
+|Funktioner|[Utfasning och tillbakadragning av befintliga API:er för GET-och PUT-kvalificering för Educations kundvalideringsprocess i slutet av februari 2021](2021-january.md#2)|5 januari|
+|Erbjudanden/marknader|[Dynamics 365-erbjudanden i februari 2021](2021-january.md#1)|4 januari|
+| **Kategori** | **Meddelanden december 2020** | **Meddelande** |
 |Erbjudanden|[Oanvända medel för kanalincitamentsfond för samarbetsmarknadsföring (co-op) från användningsperioden FY21 H1 som ska överföras till användningsperioden H2](2020-december.md#13)|22 december|
 |Funktioner|[DocuSign-migrering till Adobe Sign in 2021 för partner som har Microsoft-partneravtal (MPA)](2020-december.md#12)|22 december|
 |Erbjudanden/marknader|[Priser och katalogscheman för januari 2021](2020-december.md#11)|22 december|
