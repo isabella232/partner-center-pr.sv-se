@@ -1,5 +1,5 @@
 ---
-title: Meddelanden i januari 2021
+title: Meddelanden januari 2021
 description: I januari 2021-meddelanden för Microsoft Partner Center, inklusive nya funktioner, kampanjer, erbjudanden, marknader eller ändringar av befintliga erbjudanden.
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,22 +9,81 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/07/2021
-ms.openlocfilehash: 0f03ae17b9dd4b7a9097c7531dc6b519de70acef
-ms.sourcegitcommit: e4dea28c06da7677ea6a8615afdfd82d0151bd00
+ms.openlocfilehash: 042ef617bfde17c1a28ab91d89ae9151e339cefc
+ms.sourcegitcommit: 0e8abea7445b7d3f0c4a6320380ecc7d0ef049f9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "98041015"
+ms.lasthandoff: 01/11/2021
+ms.locfileid: "98062458"
 ---
-# <a name="january-2021-announcements"></a>Meddelanden i januari 2021
+# <a name="january-2021-announcements"></a>Meddelanden januari 2021
 
 Den här sidan innehåller information om Microsoft Partner Center-meddelanden för januari 2021.
 
-2021-meddelanden: [januari](2021-january.md)
+2021-meddelanden: januari
 
-2020-meddelanden: [maj](2020-may.md)juli den%  |  [](2020-june.md)  |  [](2020-july.md)  |  [augusti](2020-august.md)  |  [](2020-september.md)  |  [](2020-October.md)  |  [](2020-november.md)  |  [](2020-december.md) | Datumet
+2020-meddelanden: [maj](2020-may.md)  |  [](2020-june.md)  |  [juli](2020-july.md)  |  [augusti](2020-august.md)  |  [september](2020-september.md)  |  [](2020-October.md)  |  [](2020-november.md)  |  [](2020-december.md)  
+
+_____________ 
+
+## <a name="commercial-pricing-update-for-the-indian-rupee"></a><a name="6"></a>Kommersiell pris uppdatering för den indiska rupien 
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-01-08
+- Erbjudanden/marknader
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+CSP-partner agerar i Indien.
+
+### <a name="details"></a>Information 
+
+Microsoft gör ändringar i pris listan för indiska rupier för att justera priserna för kommersiell program vara och onlinetjänster i Indien och den asiatiska regionen.
+
+Det fullständiga meddelandet är bara tillgängligt för Microsoft-partner. [Logga in för att få åtkomst till hela meddelandet](https://partner.microsoft.com/resources/detail/price-update-indian-rupee.pdf).
 
 ________________
+
+## <a name="calling-plan-and-phone-system-updates-for-february-1-20201"></a><a name="5"></a>Samtals plan och uppdateringar av telefon systemet för den 1 februari 20201
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-01-08
+- Erbjudanden/marknader
+
+### <a name="summary"></a>Sammanfattning
+
+Ett tilläggs erbjudande till Microsoft 365, som innehåller telefon system och inhemsk samtals plan och en fristående inhemsk samtals plan kommer snart att gå till utvalda länder.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Alla partners som går via Cloud Solution Provider (CSP)-programmet.
+
+### <a name="details"></a>Information 
+
+Erbjudandet som ingår i paketet till Microsoft 365 E1, E3 och E5 innehåller telefon system och inhemsk samtals plan. Dessutom är ett nytt, fristående inhemskt samtals plan erbjudande endast tillgängligt för E5. De nya erbjudandena är endast tillgängliga för kunder i USA, Puerto Rico och Kanada. de befintliga globala fristående SKU: erna och priserna är desamma för alla andra länder och regioner. 
+
+Dessa erbjudanden är tillgängliga för kommersiell, Student, fakultet, GCC (community Cloud Cloud) och ideella kunder i USA, Puerto Rico och Kanada. Samtals planer är inte tillgängliga i någon av de andra amerikanska områdena.
+
+   |**Erbjudandets namn**|**Erbjudande-ID**|**Material-ID**|
+   |-------------------|:------|:------|
+   |Microsoft Teams som anropar Essentials för USA och Kanada|1ee81de6-4d8b-4cf1-b926-2fd2a774a4ca|8N2-00010|
+   |Microsoft Teams Call Essentials för USA och Kanada (ideella personal priser)|0c2ece0d-39b7-40ec-8c08-87c2b6c75d62|8N2-00011|
+   |Microsoft Teams som anropar Essentials för USA och Kanada för lärare|b8baa3b8-8cc2-4f26-a212-7fbeb28e7895|8N3-00003|
+   |Microsoft Teams som anropar Essentials för oss och Kanada för studenter|26956da8-eeb5-44e3-aa79-d36e0e42b930|8N3-00004|
+   |Microsoft Teams som anropar Essentials för USA och Kanada för GCC|7a2e2d5a-41b5-4b20-a0d1-0d06d34b5fe1|8N4-00002|
+   |Microsoft 365 inhemsk samtals plan för USA och Kanada|60d2919e-427a-46c9-bd03-89cbad27d53f|TK2-00050|
+   |Microsoft 365 inhemskt samtals plan för lärare för USA och Kanada|602e7548-375b-4e01-bf79-a9a8b8ff16d4|LM7-00006|
+   |Microsoft 365 inhemsk samtals plan för studenter i USA och Kanada|1f4b4375-3185-40cf-b044-117fe3b102c6|LM7-00007|
+   |Microsoft 365 inhemsk samtals plan för GCC för USA och Kanada|594ed84e-ddf8-4e40-9726-76c04bd29e3b|LM9-00023|
+
+### <a name="next-steps"></a>Nästa steg
+
+- Dela den här informationen med relevanta kontakter i din organisation och förstå de merförsäljning och globala Sälj möjligheterna. 
+- Granska avsnittet resurser i [guiden team partner](https://aka.ms/teamscallingmeetingsguide).
+
+_____________ 
 
 ## <a name="license-base-price-list-updates-for-january-2021"></a><a name="4"></a>Licens – uppdatering av pris lista för januari 2021 
 
@@ -77,24 +136,24 @@ _____________
 
 ### <a name="details"></a>Information
 
-I Europeiska unionen (EU)/European fri handels Association (EFTA) kan alla nya handels erbjudanden i Cloud Solution Provider-programmet använda partner fakturerings plats i stället för kund fakturerings plats. Det innebär att partner debiteras av Microsoft baserat på deras plats valuta, inte deras kunders plats valuta. Detta görs i två faser:
+I Europeiska unionen (EU)/European fri handels Association (EFTA) kan alla nya handels erbjudanden i Cloud Solution Provider-programmet använda partner fakturerings plats i stället för kund fakturerings plats. Det innebär att partner debiteras av Microsoft baserat på deras plats valuta, inte deras kunders plats valuta. Dessa ändringar görs i två faser:
 
 **Fas 1:**
 
 - Ny kund som köper ett nytt handels erbjudande i CSP
 
-- Befintliga kunder första gången inköp av nya Commerce-erbjudanden – innehavare skapade före 11 maj 2020
+- Befintliga kunder första gången köp av nya Commerce-erbjudanden – innehavare som skapats före 11 maj 2020
 
-Från och med 2021 28 januari kommer partners som har nya kunder som köper ett nytt handels erbjudande, eller befintliga kunder med klienter som skapats före den 11 maj, 2020 att göra sina första inköp av nya Commerce-erbjudanden debiteras för dessa inköp i partner platsens valuta.  
+Från och med den 28 januari 2021 debiteras partners som har nya kunder som köper ett nytt handels erbjudande, eller befintliga kunder med klienter som skapats före den 11 maj 2020, och som gör att de första inköpen av nya Commerce-erbjudanden faktureras för dessa inköp i partner platsens valuta.  
 
 Partner med befintliga kunder som redan har köpt nya Commerce-erbjudanden i CSP kommer att fortsätta att faktureras i valutan för kundens fakturerings plats under den här fasen. Dessutom fortsätter partner med befintliga kunder att köpa ett nytt handels erbjudande första gången, vars innehavare har skapats på eller efter 11 maj 2020, men kommer att fortsätta faktureras i kundens valuta.
 
 **Fas 2:**
 
 - Befintliga kunder som redan har köpt ett nytt Commerce-erbjudande i CSP före fas 1
-- Befintliga kunder första gången köp av nya Commerce-erbjudanden – innehavare som skapats på eller efter 11 maj 2020
+- Befintliga kunders första inköp av nya Commerce-erbjudanden – innehavare som skapats den 11 maj 2020
 
-I samband med fas 1 och under kalender året 2021 kommer Microsoft att överföra nya Commerce-erbjudanden för partner med befintliga kunder, som har köpt ett nytt handels erbjudande i CSP före fas 1, samt kunder som hade sina klienter som skapats på eller efter den 11 maj 2020, från kund platsens valuta till partner platsens valuta. Partners kommer att bli väl informerade innan ändringen implementeras.
+I samband med fas 1 och under kalender året 2021 kommer Microsoft att övergå till faktureringen av nya Commerce-erbjudanden för partner med befintliga kunder, som har köpt ett nytt handels erbjudande i CSP före fas 1, samt kunder som hade sina klienter skapade den 11 maj 2020, från kund platsens valuta till partner platsens valuta. Partners kommer att bli väl informerade innan ändringen implementeras.
 
 Efter fas 2 kommer partners i EU/EFTA-regionen att faktureras i partner platsens valuta för alla kunder och alla CSP-inköp.
 
@@ -122,7 +181,6 @@ För alla frågor som rör detta meddelande kontaktar du [Support för partner C
 ### <a name="change-log"></a>Ändringslogg
 
 - 17 november 2020: ursprunglig publikation
- 
 - 7 januari 2021: ytterligare scenario som ingår i fas 1 och fas 2
 
 
@@ -170,7 +228,7 @@ Microsoft presenterar kommande nya Dynamics 365-erbjudanden som kommer att lanse
 
 **Dynamics 365-ytterligare svar för Customer Voice**
 
-Den 2021 1 februari kommer Microsoft att skapa ett nytt erbjudande för "ytterligare svar" med en svars rättighet för att ersätta det befintliga erbjudandet med 2 000 undersöknings svar, slutet av försäljning som kommer att vara den 1 februari 2021.
+Den 2021 1 februari kommer Microsoft att skapa ett nytt erbjudande för "ytterligare svar" med svars rättigheten 1 – K för att ersätta det befintliga erbjudandet med 2-K undersöknings svar, slutet av försäljning som kommer att vara den 1 februari 2021.
 
 Se fliken "Customer Voice addl-svar" i [Excel-dokumentet Dynamics CSP Offers-February 2021](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) för SKU-information. Mer information finns på [Start sidan för Microsoft Dynamics 365 Customer Voice](https://dynamics.microsoft.com/en-us/customer-voice/overview/) .
 
