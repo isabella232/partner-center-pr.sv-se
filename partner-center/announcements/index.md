@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 93deb404cd056aab2a14015a4c89fad22f9d0c72
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 5de6dd2acff560a0093e51dfccb2454ea9cb71f4
+ms.sourcegitcommit: e4dea28c06da7677ea6a8615afdfd82d0151bd00
 ms.translationtype: HT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979795"
+ms.locfileid: "98040998"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -22,6 +22,7 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 
 | **Kategori** | **Meddelanden januari 2021** | **Meddelande** |
 |---------|:---------|:---------|
+|Erbjudanden/marknader|[Uppdateringar för licensbaserad prislista för januari 2021](2021-january.md#4)|8 januari|
 |Modern arbetsplats|[EU-/EFTA-ändring av partnerfaktureringsvaluta för nya handelserbjudanden](2021-january.md#3)|7 januari|
 |Funktioner|[Utfasning och tillbakadragning av befintliga API:er för GET-och PUT-kvalificering för Educations kundvalideringsprocess i slutet av februari 2021](2021-january.md#2)|5 januari|
 |Erbjudanden/marknader|[Dynamics 365-erbjudanden i februari 2021](2021-january.md#1)|4 januari|
