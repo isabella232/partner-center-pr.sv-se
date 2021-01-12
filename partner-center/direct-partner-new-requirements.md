@@ -9,22 +9,22 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 12/15/2020
-ms.openlocfilehash: 7efd3ab2303f66fbd2b02e872e51be6c0e64993c
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: 9c2ec0c7204a275f6b32e75b86eae775eb87bb55
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514713"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105536"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Krav för att registrera dig som CSP-partner med direktfakturering
 
-**Gäller för**
+**Lämpliga roller**
 
-- Direkt fakturerings partner i Cloud Solution Provider-programmet
+- Global administratör
 
 ## <a name="enroll-as-a-direct-partner"></a>Registrera som en direkt partner
 
-Som en direkt fakturerings partner äger du relationen från slut punkt till slut punkt med kunden och med Microsoft. Som en direkt fakturerings partner äger du relationen från slut punkt till slut punkt med kunden och med Microsoft. Vi har uppdaterat registrerings kraven för direkta fakturerings partner den 27 oktober 2020. Dessa krav hjälper dig att påskynda företagets tillväxt med rätt modell för moln lösnings leverantören och stärka dina kund relationer med mervärdes tjänster och support.  
+Som en direkt fakturerings partner äger du relationen från slut punkt till slut punkt med kunden och med Microsoft. Vi har uppdaterat registrerings kraven för direkta fakturerings partner den 27 oktober 2020. Dessa krav hjälper dig att påskynda företagets tillväxt med rätt modell för moln lösnings leverantören och stärka dina kund relationer med mervärdes tjänster och support.  
 
 ### <a name="minimum-requirements"></a>Minimikrav
 

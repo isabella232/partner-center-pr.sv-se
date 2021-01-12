@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: fc5a34bbb8326b38c13cc73ca9fff099f9b1c0db
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: c557e517f46be09a9f903273d8bec37ce5ec0d04
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979772"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105519"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Lär dig mer om Microsoft partner Agreement (MPA) för CSP-programpartner
 
@@ -95,4 +95,4 @@ Du kan också se om du har undertecknat avtalet genom att välja **avtal** från
  
 ## <a name="next-steps"></a>Nästa steg
 
-- [Gå med i Cloud Solution Provider-programmet](enrolling-in-the-csp-program.md)
+- [Gå med i Cloud Solution Provider-programmet](indirect-reseller-tasks-in-partner-center.md)
