@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 9559e1e2b0511d52b1535efa6513bbb61c6c5fec
-ms.sourcegitcommit: 0dfbb9717bd67f710652e4af11867857c930b2fa
+ms.openlocfilehash: 652873492452d19e2a6f71607233989a16f04815
+ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/25/2020
-ms.locfileid: "97771700"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98146395"
 ---
 # <a name="what-is-microsoft-appsource"></a>Vad är Microsoft AppSource?
 
@@ -48,7 +48,18 @@ Program varu leverantören definierar pris, slut användar licens avtal och sekr
 
 ## <a name="discover-saas-and-m365-integrated-apps"></a>Identifiera SaaS-och M365-integrerade appar
 
-Våra partner kan länka mellan SaaS-och M365-integrerade appar. På så sätt kan du hämta och använda integrerade appar när du hämtar den länkade SaaS-appen. I det här fallet kan Sök resultatet bara returnera SaaS-appen som visar ikonerna för de integrerade appar som ingår. Du kan navigera mellan SaaS och den integrerade appen på produkt informations sidan för var och en. Om en SaaS-app kräver köp, se [så här köper du SaaS-erbjudanden på Microsoft AppSource](purchase-software-appsource.md).
+Våra partner kan länka mellan ett SaaS-program och dess motsvarande tillägg för Microsoft 365. På så sätt kan du hämta och använda tilläggen från vissa Microsoft 365 tjänster eller produkter när du får en SaaS-app som är länkad till tillägg.
+
+I det här fallet kan Sök resultatet bara returnera SaaS-appen med motsvarande tilläggs produkt ikoner på produkt kortet för SaaS-appen. Du kan navigera mellan produkt informations sidorna i SaaS-programmet och integrerade appar.
+
+Om du letar efter de fristående tilläggen kan du hitta dem på något av följande sätt:
+
+- Öppna [produkt katalogen för AppSource](https://appsource.microsoft.com/marketplace/apps/)och gå till den vänstra navigeringen under **produkter** Välj **Microsoft 365**. I listan över produkter som visas under **Microsoft 365** väljer du rutorna för de produkter som du vill använda.
+- Eller Välj produkt ikonen för tillägg i program produkt kortet SaaS för att gå till det specifika tillägg som har dolts från Sök skärmen.
+
+Om en SaaS-app kräver köp, se [så här köper du SaaS-erbjudanden på Microsoft AppSource](purchase-software-appsource.md).
+
+Microsoft 365 administratörs användare kan distribuera både SaaS och tillägg på en och samma plats. Mer information finns i [testa och distribuera Microsoft 365 Apps-Microsoft 365 admin](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps.md).
 
 ## <a name="find-ratings-and-reviews"></a>Hitta klassificeringar och recensioner
 
