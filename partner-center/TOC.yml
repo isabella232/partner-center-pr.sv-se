@@ -635,29 +635,39 @@
           href: pci-roles.md
         - name: Insights – rapporter
           items:
+            - name: Översikt
+              href: pci-overview-report.md
+            - name: Kund
+              href: pci-customer-report.md
+            - name: Resultat för återförsäljare
+              href: pci-resellers-performance.md
+              displayName: 'indirect, reseller'
+            - name: Produktprenumerationer
+              href: pci-product-subscriptions-report.md
             - name: Azure-användning
               href: pci-azure-usage-report.md
+            - name: Teams-användning
+              href: pci-teams-usage-report.md
+            - name: Office 365-användning
+              href: pci-office-365-usage-report.md
+            - name: Dynamics-användning
+              href: pci-dynamics-usage-report.md
+            - name: Enterprise Mobility + Security-användning
+              href: pci-enterprise-mobility-security-usage-report.md
+            - name: Power BI-användning
+              href: pci-power-bi-usage-report.md
+            - name: Utbildning
+              href: pci-training-dashboard.md
+            - name: Microsoft Learn – analys
+              href: ms-learn-analytics.md
+            - name: Kompetenser
+              href: pci-competencies-report.md
             - name: Fördelar
               href: pci-benefits-report.md
             - name: CloudAscent – benägenhet
               href: pci-customer-opportunities.md
-            - name: Kompetenser
-              href: pci-competencies-report.md
-            - name: Kund
-              href: pci-customer-report.md
-            - name: Microsoft Learn – analys
-              href: ms-learn-analytics.md
-            - name: Översikt
-              href: pci-overview-report.md
             - name: Produktlicenser
               href: pci-product-licenses-report.md
-            - name: Produktprenumerationer
-              href: pci-product-subscriptions-report.md
-            - name: Resultat för återförsäljare
-              href: pci-resellers-performance.md
-              displayName: 'indirect, reseller'
-            - name: Utbildning
-              href: pci-training-dashboard.md
         - name: Vanliga frågor och svar om insikter
           href: pci-known-issues.md
         - name: Ladda ned insiktsrapporter
