@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: b93ce1394326887b4265114c58527c36379101d9
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 8f7962b1b040be90f7dc1b2696a2ced3830d25b9
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007622"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182485"
 ---
 # <a name="azure-marketplace-purchasing"></a>Köp av Azure Marketplace
 
@@ -25,7 +25,7 @@ När du köper via Azure Marketplace eliminerar du komplexiteten med att hantera
 
 ## <a name="permission-to-purchase"></a>Behörighet att köpa
 
-När du har hittat rätt program vara är det enkelt att slutföra köpet. Du kommer dock att behöva lämpliga behörigheter i Azure-prenumerationen. Eftersom Azure fungerar på en [rollbaserad Access Control](https://docs.microsoft.com/azure/role-based-access-control/overview) (RBAC)-modell måste ditt konto ha **prenumerations ägarens** eller **deltagar** behörighet för att göra ett köp.
+När du har hittat rätt program vara är det enkelt att slutföra köpet. Du kommer dock att behöva lämpliga behörigheter i Azure-prenumerationen. Eftersom Azure fungerar på en [rollbaserad Access Control](/azure/role-based-access-control/overview) (RBAC)-modell måste ditt konto ha **prenumerations ägarens** eller **deltagar** behörighet för att göra ett köp.
 
 Innan du slutför ett köp måste du se till att användaren har rätt konfiguration i Azure-klienten. Detta bidrar till att förhindra fel under köpet.
 
@@ -55,7 +55,7 @@ De här inställningarna gäller för alla användare som har åtkomst till din 
 
 ## <a name="cost-management"></a>Kostnadshantering
 
-När du köper produkter från Azure Marketplace vill du få insikter som hjälper dig att hantera kostnader. Azure Cost Management är ett kostnads fritt verktyg för att visa information om de produkter som du har köpt. Du kan använda Cost Management för att se information om vilka tjänster du kostar pengar på, och hur dessa kostnader går igenom de budgetar som du har angett. Förutom att ställa in budgetar kan du schemalägga rapporter och analysera prenumerations kostnader. Läs mer om Azure Cost Management genom att fylla i modulen Microsoft Learn på [Analysera kostnader och skapa budgetar med Azure Cost Management](https://docs.microsoft.com/learn/modules/analyze-costs-create-budgets-azure-cost-management/).
+När du köper produkter från Azure Marketplace vill du få insikter som hjälper dig att hantera kostnader. Azure Cost Management är ett kostnads fritt verktyg för att visa information om de produkter som du har köpt. Du kan använda Cost Management för att se information om vilka tjänster du kostar pengar på, och hur dessa kostnader går igenom de budgetar som du har angett. Förutom att ställa in budgetar kan du schemalägga rapporter och analysera prenumerations kostnader. Läs mer om Azure Cost Management genom att fylla i modulen Microsoft Learn på [Analysera kostnader och skapa budgetar med Azure Cost Management](/learn/modules/analyze-costs-create-budgets-azure-cost-management/).
 
 Du kan visa dina Azure Marketplace-avgifter och fakturor i kostnadsanalysverktyget under Azure Cost Management.
 
@@ -63,4 +63,4 @@ Du kan visa dina Azure Marketplace-avgifter och fakturor i kostnadsanalysverktyg
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Fakturering och fakturering](billing-invoicing.md)
+- [Fakturering](billing-invoicing.md)

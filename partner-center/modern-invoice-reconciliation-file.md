@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 71ffee8426244c211338e97becab516c07251e45
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 29574dad6c3dd5eedbcf93dd555509cb04144ef5
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94499142"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182587"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Fält för att avstämnings fil för CSP vid en tidpunkt
 
@@ -28,9 +28,9 @@ Mer information om avstämnings filer finns i [använda avstämnings filer](use-
 | CustomerId | Unikt Microsoft-ID för kunden i GUID-format. | *196e2273-9651-43a3-ba7e-7cbcd918fc40* |
 | CustomerName | Kundens organisations namn som rapporteras i Partner Center. Den här kolumnen är viktig för att stämma av fakturan med din system information. | *Johnny modern kund-DE2* |
 | CustomerDomainName | Kundens domän namn. | *testcustomerdomain.onmicrosoft.com* |
-| CustomerCountry | Det land där kunden befinner sig. Se den fullständiga [listan över länder](/partner-center/regional-authorization-overview) för din region.  | *DE* |
+| CustomerCountry | Det land där kunden befinner sig. Se den fullständiga [listan över länder](./regional-authorization-overview.md) för din region.  | *DE* |
 | InvoiceNumber | Faktura numret som är kopplat till avstämnings filen.  | *G002297372* |
-| MpnId | MPN identifierare för CSP-partnern. Mer information finns i [så här specificerar du en partner](/partner-center/use-the-reconciliation-files#itemize-reconciliation-files-by-partner). | *6034453* |
+| MpnId | MPN identifierare för CSP-partnern. Mer information finns i [så här specificerar du en partner](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *6034453* |
 | ResellerMpnId | MPN identifierare för åter försäljaren av posten för prenumerationen. | *6048879* |
 | OrderId | Unik identifierare för en beställning i Microsofts fakturerings plattform. Kan vara användbart för att identifiera ordningen när du kontaktar supporten. Används inte för avstämning. | *0ET2qaZvJGfF9wgSKnWzR5JLmhp10lOc1* |
 | OrderDate | Datum då ordern placerades. | *10/3/2020* |
@@ -39,9 +39,9 @@ Mer information om avstämnings filer finns i [använda avstämnings filer](use-
 | AvailabilityId | Unikt ID för tillgänglighet. | *DZH318Z08B80* |
 | SkuName | SKU-namn. | *Tabeller – LRS* |
 | ProductName | Produkt namnet. | *Tabeller* |
-| ChargeType | [Typ av kostnad](/partner-center/recon-file-charge-types) eller justering. | *Nytt* |
+| ChargeType | [Typ av kostnad](./recon-file-charge-types.md) eller justering. | *Nytt* |
 | UnitPrice | Pris per licens, som publicerat i pris listan vid inköps tillfället. Se till att detta matchar informationen som lagras i fakturerings systemet under avstämning. | *0,045* |
-| Quantity | Antalet licenser. Se till att detta matchar informationen som lagras i fakturerings systemet under avstämning. | *1* |
+| Antal | Antalet licenser. Se till att detta matchar informationen som lagras i fakturerings systemet under avstämning. | *1* |
 | Delsumma | Totalt före skatt. Del summan ska vara lika med det fakturerbara antalet multiplicerat med det effektiva enhets priset. | *0* |
 | TaxTotal | Avgift för moms belopp. Baserat på marknadens skatte regler och särskilda omständigheter. | *0* |
 | Totalt | Den totala mängden är lika med del summan plus moms beloppet. | *0* |
@@ -54,7 +54,7 @@ Mer information om avstämnings filer finns i [använda avstämnings filer](use-
 | ChargeStartDate | Det datum då partner avgiften debiteras för prenumerations avgiften. Om prenumerationen köps med en årlig fakturerings period och en fakturerings plan per månad, är det den dag då prenumerationen köps. Från och med nästa avstämnings fil kommer den att ökas med 30 dagar. | *9/1/2020* |
 | ChargeEndDate | Slut dag för avgifterna för prenumerationens fakturerings period. Om prenumerationen köps med en årlig fakturerings period och en fakturerings plan per månad, så är det i den första avstämnings filen den 30: e dagen efter det att prenumerationen har köpts. Från och med nästa avstämnings fil kommer den att ökas med 30 dagar. | *2020-09-30* |
 | TermAndBillingCycle | Varaktighets åtagandet för att fortsätta prenumerationen vid tidpunkten för köpet. | *Lagrade data (GB/månad)* |
-| EffectiveUnitPrice | Det beräknade enhets priset för att beräkna kostnaden för fakturerings perioden. Rabatter, justeringar av fakturerings dagar och andra faktorer fastställer det effektiva enhets priset. Mer information finns i [pris beräkning för effektiv enhet](/partner-center/effective-unit-price-calculation).  | *0,03825* |
+| EffectiveUnitPrice | Det beräknade enhets priset för att beräkna kostnaden för fakturerings perioden. Rabatter, justeringar av fakturerings dagar och andra faktorer fastställer det effektiva enhets priset. Mer information finns i [pris beräkning för effektiv enhet](./effective-unit-price-calculation.md).  | *0,03825* |
 | UnitType | Den typ av enhet som mätaren debiteras i. | *1 GB/månad* |
 | AlternateId | Alternativt-ID för det refererade order rads objektet. | *6dc5c039750a* |
 | BillableQuantity | Det totala antalet som faktureras.  | *0,005001* |

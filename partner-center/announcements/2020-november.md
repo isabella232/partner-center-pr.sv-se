@@ -9,18 +9,18 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 0c8bf1c31a2662d5dcf65eed40e9c4f82c2ee80b
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: 8d247d4f39b85423bfd128056595b414238b113c
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439090"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182553"
 ---
 # <a name="november-2020-announcements"></a>Meddelanden november 2020
 
 Den här sidan innehåller information om Microsoft Partner Center-meddelanden för november 2020.
 
-2020-meddelanden: [april](2020-april.md)  |  [maj](2020-may.md)den  |  [juni](2020-june.md)  |  [juli](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md)  |  [October](2020-October.md) | November
+2020-meddelanden: [april](2020-april.md)  |  [maj](2020-may.md)den  |  [juni](2020-june.md)  |  [juli](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  [](2020-October.md) | November
 
 ______________
 ## <a name="introducing-the-ability-to-purchase-saas-offers-with-metered-billing-in-partner-center"></a><a name="14"></a>Vi presenterar möjligheten att köpa SaaS-erbjudanden med avgiftsbelagd fakturering i Partner Center 
@@ -40,7 +40,7 @@ Alla partner
 
 ### <a name="details"></a>Information
 
-Microsoft presenterar möjligheterna för partner i Cloud Solution Provider-programmet, inklusive indirekta leverantörer och direkta fakturerings partner, för att köpa SaaS-erbjudanden med [avgiftsbelagd fakturering](https://docs.microsoft.com/azure/marketplace/partner-center-portal/saas-metered-billing)   i Partner Center. I dag kan partner i Cloud Solution Provider-programmet kunna visa och [köpa SaaS-erbjudanden med avgiftsbelagd fakturering via Azure Portal](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-purchase).Den här nya upplevelsen gör det möjligt för partner att köpa dessa erbjudanden via CSP Marketplace i Partner Center och API: et som de gör för andra typer av SaaS-erbjudanden. 
+Microsoft presenterar möjligheterna för partner i Cloud Solution Provider-programmet, inklusive indirekta leverantörer och direkta fakturerings partner, för att köpa SaaS-erbjudanden med [avgiftsbelagd fakturering](/azure/marketplace/partner-center-portal/saas-metered-billing)   i Partner Center. I dag kan partner i Cloud Solution Provider-programmet kunna visa och [köpa SaaS-erbjudanden med avgiftsbelagd fakturering via Azure Portal](../csp-commercial-marketplace-purchase.md).Den här nya upplevelsen gör det möjligt för partner att köpa dessa erbjudanden via CSP Marketplace i Partner Center och API: et som de gör för andra typer av SaaS-erbjudanden. 
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -309,23 +309,23 @@ Partner Center har utformats för att hantera en stor mängd begär Anden, men o
 |-------------------------|----------------------------------|
 |{baseURL}/v1/Customers/{customer_id}/subscriptions|[Hämta alla kunders prenumerationer](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Hämta en prenumeration efter ID](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/Customers/{customer_id}/Orders||[Hämta alla kund beställningar](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-orders)|  
-|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}|[Hämta en order efter ID](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
-|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}/provisioningstatus|[Hämta prenumerations etablerings status](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Hantera order och hantera en prenumeration](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/addons|[Hämta en lista med tilläggs komponenter för en prenumeration](https://docs.microsoft.com/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/azureEntitlements|[Hämta en lista över Azure-rättigheter för en prenumeration](https://docs.microsoft.com/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/registrationstatus|[Hämta status för prenumerations registrering](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
-|{baseURL}/v1/customers/{customer-tenant-id}/transfers|[Hämta alla kunders överföringar](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
-|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Hämta status för produkt uppgradering](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)| 
-|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[Hämta en lista över erbjudanden för utvärderings konvertering](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers) 
+|{baseURL}/v1/Customers/{customer_id}/Orders||[Hämta en kunds alla beställningar](/partner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}|[Hämta en beställning efter ID](/partner-center/develop/get-an-order-by-id)|  
+|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}/provisioningstatus|[Hämta status för prenumerationsetablering](/partner-center/develop/get-subscription-provisioning-status)|  
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Hantera order och hantera en prenumeration](/partner-center/develop/manage-orders#manage-a-subscription)| 
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/addons|[Hämta en lista över tillägg för en prenumeration](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/azureEntitlements|[Hämta en lista över Azure-berättigande för en prenumeration](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/registrationstatus|[Hämta status för prenumerationsregistrering](/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/customers/{customer-tenant-id}/transfers|[Hämta alla kunders överföringar](/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Hämta status för produktuppgradering](/partner-center/develop/get-all-of-a-customer-s-transfers)| 
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[Hämta en lista över erbjudanden för utvärderingskonvertering](/partner-center/develop/get-all-of-a-customer-s-transfers) 
   
 
-Det här meddelandet syftar till att tillhandahålla partners med tidiga medvetenhet om de kommande ändringarna, så att de kan förbereda sig. Vi rekommenderar starkt att partners bekantar sig med dessa API: er och funderar på att använda API: et för aktivitets loggen för mer effektivitet och undvika begränsning. Mer information om den här funktionen finns i informationen i vägledning för [API-begränsning](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance). 
+Det här meddelandet syftar till att tillhandahålla partners med tidiga medvetenhet om de kommande ändringarna, så att de kan förbereda sig. Vi rekommenderar starkt att partners bekantar sig med dessa API: er och funderar på att använda API: et för aktivitets loggen för mer effektivitet och undvika begränsning. Mer information om den här funktionen finns i informationen i vägledning för [API-begränsning](/partner-center/develop/api-throttling-guidance). 
 
 ### <a name="next-steps"></a>Nästa steg
 
-Läs igenom [API begränsnings vägledningen](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)och vidta nödvändiga åtgärder. 
+Läs igenom [API begränsnings vägledningen](/partner-center/develop/api-throttling-guidance)och vidta nödvändiga åtgärder. 
 
 ______________
 
@@ -339,7 +339,7 @@ ______________
 ### <a name="context"></a>Kontext
 
 - I februari uppmanades du att underteckna Microsofts kund avtal (MCuA). Detta var en migrering från det tidigare Microsoft Cloud avtalet (MCA). 
-- Som en del av den här ändrings partnern begärdes parterna att ta med avtals typ parametern som dokumenterad [här](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement).
+- Som en del av den här ändrings partnern begärdes parterna att ta med avtals typ parametern som dokumenterad [här](/partner-center/develop/get-confirmation-of-customer-agreement).
 
 ### <a name="what-happened-next"></a>Vad hände härnäst:
 

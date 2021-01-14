@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 355258fd20f867052fa8598e688630005262bb16
-ms.sourcegitcommit: ab2ca3c5990b7f920df4ecb9c611d5b1046ec111
+ms.openlocfilehash: f42c97be88a1a505f7e0ae9b8af0d4a9167d8447
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "97579982"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182383"
 ---
 # <a name="set-up-your-users-with-multi-factor-authentication"></a>Ge användarna multifaktorautentisering
 
@@ -39,11 +39,10 @@ Detta aktiverar MFA för den här användaren. Aktive rad innebär att användar
 :::image type="content" source="images/MFA/securityverification.png" alt-text="Ange hur du vill verifiera":::
 
 >[!NOTE]
->Du kan **tvinga** dina användare att använda MFA genom att använda samma steg som ovan och välja **tvinga**. Läs mer i [Aktivera Azure-Multi-Factor Authentication per användare för att skydda inloggnings händelser](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userstates). 
+>Du kan **tvinga** dina användare att använda MFA genom att använda samma steg som ovan och välja **tvinga**. Läs mer i [Aktivera Azure-Multi-Factor Authentication per användare för att skydda inloggnings händelser](/azure/active-directory/authentication/howto-mfa-userstates). 
 
 Alla användare börjar vara **inaktiverade**. När du registrerar användare i Azure-Multi-Factor Authentication per användare, ändras deras status till **aktive rad**. När aktiverade användare loggar in och slutför registrerings processen ändras deras status till **tvingande**. 
 
 ## <a name="next-steps"></a>Nästa steg
 
 - [Tilldela roller och behörigheter till användare](permissions-overview.md)
-

@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6337d4998fea20eed756183a3eb3adfbfe70585b
-ms.sourcegitcommit: 0eae5734b0e50bd5a7ef39ec7738d1e997c5a02d
+ms.openlocfilehash: a5aaa7c7190615d1b7497fd92e0d844cc553c491
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "97389313"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182332"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>Partner Insights – vanliga frågor och svar
 
@@ -26,15 +26,15 @@ Detta relaterar till kända problem som visar eller återger rapporter som är a
 
 Q) **Jag ser inte Insights-hubben i mitt Partner Center-konto. Vad ska jag göra?**
 
-A) kontrol lera att du har loggat in på MPN-kontot för din organisation. Du kan inte komma åt instrument panelen för insikter från ditt CSP-konto. Kontrol lera också att du har angett Report Viewer-rollen eller rapport visnings rollens roll åtkomst av din globala administratör.  Mer information om roller finns i [den här artikeln](https://docs.microsoft.com/partner-center/pci-roles).
+A) kontrol lera att du har loggat in på MPN-kontot för din organisation. Du kan inte komma åt instrument panelen för insikter från ditt CSP-konto. Kontrol lera också att du har angett Report Viewer-rollen eller rapport visnings rollens roll åtkomst av din globala administratör.  Mer information om roller finns i [den här artikeln](./pci-roles.md).
 
 F) **det går inte att se information om fakturerade intäkter eller Azures förbrukade intäkter (ACR) i Mina rapporter. Varför är det?**
 
-A) fakturerad intäkt och ACR data är bara tillgängliga för användare som är chefer för rapport.  Mer information om roller finns i [den här artikeln](https://docs.microsoft.com/partner-center/pci-roles).
+A) fakturerad intäkt och ACR data är bara tillgängliga för användare som är chefer för rapport.  Mer information om roller finns i [den här artikeln](./pci-roles.md).
 
 F) **det går inte att se information om fakturerade intäkter eller Azures förbrukade intäkter (ACR) i Mina rapporter. Varför är det?**
 
-A) fakturerad intäkt och ACR data är bara tillgängliga för användare som är chefer för rapport. Mer information om roller finns i [den här artikeln](https://docs.microsoft.com/partner-center/pci-roles).
+A) fakturerad intäkt och ACR data är bara tillgängliga för användare som är chefer för rapport. Mer information om roller finns i [den här artikeln](./pci-roles.md).
 
 F) **det land som har rapporter ATS för min kund verkar vara felaktigt. Varför är det?**
 

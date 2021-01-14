@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3acc078b3de3c0443ee64fdaaba2d486d9c466c8
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.openlocfilehash: f274103feeadfa6fd135f99632f3013c29601972
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622175"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182417"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Hur partnerintjänad kredit beräknas och betalas
 
@@ -36,7 +36,7 @@ Följande krav gäller för att få partner företaget intjänade kredit (PEC):
 
 - Du måste ha ett aktivt MPN-avtal och en giltig rollbaserad åtkomst kontroll (RBAC) för att få intjänad kredit för de Azure-tillgångar som du hanterar.
 
-- Du måste ha dygnet runt drifts kontroll och hantering av kundens Azure-resurser i CSP. Det innebär att du måste ha administratörs behörighet för kundens Azure-prenumeration, Azure-resurs grupp, Azure-resurs. Om det gäller indirekta leverantörer och deras indirekta åter försäljare är den indirekta leverantören berättigad till PEC om antingen den indirekta leverantören eller den indirekta åter försäljaren eller båda har denna operativa kontroll. Läs mer om det här i [återställa administratörs behörigheter för Azure CSP-prenumerationer](https://docs.microsoft.com/partner-center/revoke-reinstate-csp).
+- Du måste ha dygnet runt drifts kontroll och hantering av kundens Azure-resurser i CSP. Det innebär att du måste ha administratörs behörighet för kundens Azure-prenumeration, Azure-resurs grupp, Azure-resurs. Om det gäller indirekta leverantörer och deras indirekta åter försäljare är den indirekta leverantören berättigad till PEC om antingen den indirekta leverantören eller den indirekta åter försäljaren eller båda har denna operativa kontroll. Läs mer om det här i [återställa administratörs behörigheter för Azure CSP-prenumerationer](./revoke-reinstate-csp.md).
 
 - Utöver kraven ovan gäller PEC endast för tjänster som anges i prissättningen för Azure-abonnemang, som du kan exportera från pris sidan för [Azure-prenumerationen](https://partner.microsoft.com/commerce/sales) .
 
@@ -48,7 +48,7 @@ Följande krav gäller för att få partner företaget intjänade kredit (PEC):
 
 - PEC är intjänad på Azure-resursnivå. Om du har giltig åtkomst på antingen prenumerations-eller resurs grupps nivå får du PEC genom att varje resurs som slås samman till den högre enheten.
 
-- Information om PEC finns också på sidan för [Azure Cost Management](https://docs.microsoft.com/azure/cost-management-billing/costs/get-started-partners) .
+- Information om PEC finns också på sidan för [Azure Cost Management](/azure/cost-management-billing/costs/get-started-partners) .
 
 ### <a name="calculation"></a>Beräkning
 

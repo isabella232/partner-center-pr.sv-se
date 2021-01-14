@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a59849fdf1937c1a4ec5d619a95f9321fe58fa0
-ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
+ms.openlocfilehash: 3c5541323d691799d3f89b94ed9556c2458c737d
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "97011539"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182468"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Hantera ditt partner Center-konto – företags profil, bank information, roller, behörigheter med mera
 
@@ -122,9 +122,9 @@ Det finns många tillgängliga Partner Center-program. Varje program har olika k
 
 Information om hur du registrerar i vissa partner Center-program finns i följande ofullständiga lista:
 
-- [Program för kommersiella marknads platser](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
+- [Program för kommersiella marknads platser](/azure/marketplace/partner-center-portal/create-account)
 - [Microsoft Partner Network medlemskaps förmåner](mpn-overview.md)
-- [CSP-program](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
+- [CSP-program](./enrolling-in-the-csp-program.md)
 - [Office Store](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
 Mer information om hur du registrerar i Partner Center-program finns även i [partner nätverks resurser](https://partner.microsoft.com/).

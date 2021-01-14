@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0434ad2e6494f5efc1b1e5e2aa003dc6587d7b4e
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 1d5386dd4b2b19e641cc9d731d4a3d0f44ab5ad6
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691358"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182502"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Hämta, etablera & hantera reserverade VM-instanser (RI) + Server prenumerationer för kunder
 
@@ -47,7 +47,7 @@ Med [Azure Reserved VM instances](https://azure.microsoft.com/pricing/reserved-v
 
 Med en omatchad kombination av tvingande priser och oöverträffad distribution, ser kunderna det bästa generella värdet när de väljer Azure Reservations.
 
-- Se [inköps reservationer](https://docs.microsoft.com/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) på Azure-portalen.
+- Se [inköps reservationer](/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) på Azure-portalen.
 
 - Se den **kommersiella pris listan för Azure RI-CSP** i kategorin **Microsoft Azure reserverade instanser** på sidan [priser och erbjudanden](https://partner.microsoft.com/dashboard/sell/pricingandoffers) i Partner Center för program varu prenumerationer och årliga prenumerationer för Linux ISV.
 
@@ -69,24 +69,24 @@ För att förstå hur du kan placera Azure Reservations med dina kunder och komm
 
 1. Läs och förstå [partner Center New Commerce Operations Guide](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
 
-2. Förstå uppdateringar för Azure Reservations-och Server prenumerationer i [partner Center API (API/SDK)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances).
+2. Förstå uppdateringar för Azure Reservations-och Server prenumerationer i [partner Center API (API/SDK)](/partner-center/develop/purchase-azure-reserved-vm-instances).
 
 
 ### <a name="sales-readiness"></a>Sälj beredskap
 
 - [Fjärrskrivbordstjänster (RDS) klient åtkomst licens (CAL) (meddelande)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
 
-- [Azure Reserved VM Instances (Azure Portal)](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
+- [Azure Reserved VM Instances (Azure Portal)](/azure/virtual-machines/windows/prepay-reserved-vm-instances)
 
-- [Server prenumerationer](https://docs.microsoft.com/partner-center/csp-software-subscriptions)
+- [Server prenumerationer](./csp-software-subscriptions.md)
 
-- [SQL DB-reservationer (Azure Portal)](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
+- [SQL DB-reservationer (Azure Portal)](/azure/sql-database/sql-database-reserved-capacity)
 
-- [Azure Cosmos DB (Azure Portal)](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
+- [Azure Cosmos DB (Azure Portal)](/azure/cosmos-db/cosmos-db-reserved-capacity)
 
-- [SQL-hanterad instans (Azure Portal)](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance)
+- [SQL-hanterad instans (Azure Portal)](/azure/sql-database/sql-database-managed-instance)
 
-- [SUSE och Red Hat Enterprise Linux (Azure Portal)](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
+- [SUSE och Red Hat Enterprise Linux (Azure Portal)](/azure/virtual-machines/linux/prepay-suse-software-charges)
 
 - [Red Hat Linux på Azure](https://azure.com/redhat)
 
@@ -98,7 +98,7 @@ För att förstå hur du kan placera Azure Reservations med dina kunder och komm
 
 - [Pris kalkylator för Azure](https://azure.microsoft.com/pricing/calculator)
 
-- [Azure Databricks enhets reservationer](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
+- [Azure Databricks enhets reservationer](/azure/billing/billing-prepay-databricks-reserved-capacity)
 
 
 ## <a name="training"></a>Utbildning

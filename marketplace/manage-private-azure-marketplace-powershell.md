@@ -8,12 +8,12 @@ ms.prod: marketplace-customer
 ms.devlang: azurepowershell
 ms.date: 11/24/2020
 ms.custom: devx-track-azurepowershell
-ms.openlocfilehash: c5b8b9fcc247818315887109e2163c0722bfbd97
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: d0021be17ab12b6e549b0e5263772a4a1e42f8a3
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96536267"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182349"
 ---
 # <a name="quickstart-manage-a-private-azure-marketplace-using-powershell"></a>Snabb start: hantera en privat Azure Marketplace med PowerShell
 
@@ -30,10 +30,10 @@ Den här artikeln beskriver hur du kan hantera erbjudanden i en privat Azure Mar
   * [Installera AZ PowerShell-modulen](/powershell/azure/install-az-ps).
   * Anslut till ditt Azure-konto med hjälp av cmdleten [Connect-AzAccount](/powershell/module/az.accounts/connect-azaccount) .
 * Om du väljer att använda Azure Cloud Shell:
-  * Mer information finns i [Översikt över Azure Cloud Shell](https://docs.microsoft.com/azure/cloud-shell/overview) .
+  * Mer information finns i [Översikt över Azure Cloud Shell](/azure/cloud-shell/overview) .
 
   > [!IMPORTANT]
-  > Även om PowerShell-modulen **AZ. Marketplace** är i för hands version måste du installera den separat med hjälp av `Install-Module` cmdleten. När den här PowerShell-modulen blir allmänt tillgänglig kommer den att ingå i framtida versioner av AZ PowerShell-modulen och är tillgängliga som standard i Azure Cloud Shell.
+  > Även om PowerShell-modulen **AZ. Marketplace** är i för hands version måste du installera den separat med hjälp av `Install-Module` cmdleten. När modulen blir allmänt tillgänglig kommer den att ingå i framtida versioner av Az PowerShell-modulen och vara tillgänglig som standard i Azure Cloud Shell.
 
   ```azurepowershell-interactive
   Install-Module -Name Az.Marketplace

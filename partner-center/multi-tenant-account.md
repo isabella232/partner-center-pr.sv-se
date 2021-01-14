@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22f85bda0a651559da1717ae1e5365da40d62aff
-ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
+ms.openlocfilehash: f9852b4e1c3997b82f744555db25fe64e1afc8ad
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "98105564"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182446"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Lägga till och hantera flera klienter i ditt partner Center-konto
 
@@ -22,8 +22,9 @@ ms.locfileid: "98105564"
 **Lämpliga roller**
 
 - Global administratör
+- Kontoadministratör
 
-Med den här funktionen kan du hantera flera klientorganisationer i ditt företag och konsolidera dem till ditt Partner Center-konto. Det finns många orsaker till varför du kan behöva hantera flera Azure AD-klienter i ditt partner Center-konto. Till exempel:
+Med den här funktionen kan du hantera flera klientorganisationer i ditt företag och konsolidera dem till ditt Partner Center-konto. Det finns många orsaker till varför du kan behöva hantera flera Azure AD-klienter i ditt partner Center-konto. Exempel:
 
 - Företaget kan köpa ett annat företag och du vill att de anställda i det nya företaget ska kunna använda Partner Center. Men du vill att de två företagen ska vara åtskilda. I det här fallet associerar du det nya företagets Azure AD-klient med ditt partner globala konto (PGA). Den här kopplingen gör det möjligt för användare i båda företagen att arbeta i Partner Center.
 

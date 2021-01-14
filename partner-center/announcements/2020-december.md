@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/21/2020
-ms.openlocfilehash: c186c61fa6a583284884020bf442517e9bb38182
-ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
+ms.openlocfilehash: f20015fff92e200bce1d17fd6fda7b7ced618e00
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97736550"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182570"
 ---
 # <a name="december-2020-announcements"></a>Meddelanden december 2020
 
@@ -152,7 +152,7 @@ Den nya Microsoft Edge är vårt bästa uttryck för en modern webbläsare och v
 **Effekt av ändringen**
 
 - Från och med **30 2020 november** kan kunder inte längre ansluta till Microsoft Teams webb program i Internet Explorer 11. Microsoft anser att kunderna får ut mesta möjliga av Microsoft 365 och det bästa uttrycket i en modern webbläsare när de använder den [nya Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
-- Efter **mars 9 2021** kommer appar och platser som har skapats för Microsoft Edge äldre att fortsätta att fungera i den nya Microsoft Edge, men om det uppstår kompatibilitetsproblem kan [appen](https://aka.ms/appassure) garantera att det finns stöd för.
+- Efter **mars 9 2021** kommer appar och platser som har skapats för Microsoft Edge äldre att fortsätta att fungera i den nya Microsoft Edge, men om det uppstår kompatibilitetsproblem kan [appen](/fasttrack/products-and-capabilities#app-assure) garantera att det finns stöd för.
 - Efter **17 2021 augusti** får kunderna en försämrad upplevelse eller kan inte ansluta till Microsoft 365 appar och tjänster i Internet Explorer 11. Microsoft anser att kunderna får ut mesta möjliga av Microsoft 365 och det bästa uttrycket i en modern webbläsare när de använder den [nya Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
 
 ### <a name="next-steps"></a>Nästa steg
@@ -280,7 +280,7 @@ Följande sker också på samma datum:
 
 - Pris listan för beständig program vara för CSP kommer att publiceras om i Partner Center. Den finns i avsnittet **program vara** på sidan [Sälj > priser för pris &](https://partnercenter.microsoft.com/pcv/sales) , som innehåller ytterligare produkter och geografiska områden. Fullständig information finns [här](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
 
-- Kapaciteten för att uppfylla program-och licens nyckel för partner Center kommer att tas bort – se [meddelande](https://docs.microsoft.com/partner-center/announcements/2020-september#17) -och partners använder Microsoft 365 administrations Center exklusivt för detta ändamål. Detta säkerställer den säkraste och effektiva upplevelsen för kunderna. Läs mer om Microsoft 365 administrations Center-programvara genom att granska [översikten](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [vanliga aktiviteter](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true)och funktionerna för att [uppfylla licens](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)kraven.
+- Kapaciteten för att uppfylla program-och licens nyckel för partner Center kommer att tas bort – se [meddelande](./2020-september.md#17) -och partners använder Microsoft 365 administrations Center exklusivt för detta ändamål. Detta säkerställer den säkraste och effektiva upplevelsen för kunderna. Läs mer om Microsoft 365 administrations Center-programvara genom att granska [översikten](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [vanliga aktiviteter](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)och funktionerna för att [uppfylla licens](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)kraven.
 
 ### <a name="perpetual-software-in-csp"></a>Beständig program vara i CSP
 
@@ -292,7 +292,7 @@ Granska följande resurser och dela dem med relevanta kontakter i din organisati
 
 - [Programvarubaserade program varu produkter och geografiska](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf) områden som lades till den 19 januari 2021
 
-- [Översikt över](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)Microsoft 365 administrations Center, [vanliga uppgifter](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true)och [kapacitets krav för licens nyckel](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
+- [Översikt över](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)Microsoft 365 administrations Center, [vanliga uppgifter](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)och [kapacitets krav för licens nyckel](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
 
 - [Expandera affärs möjligheter för partner i Cloud Solution Provider-programmet](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) (partner meddelande)
 
@@ -374,7 +374,7 @@ Erbjudande informationen nedan för det här erbjudandet är i matrisen januari 
 - Erbjudande gräns: ingen
 - Tillåtna länder: U.S. Islands, engelska (franska södra territorier), Bouvet, Julön, territoriet i Indiska oceanen, Jemen, hörda och Mc Donald öarna, Wallis och Futuna, Vanuatu, Antarktis, Tuvalu, Somalia, Tokelau, Sierra Leone, Swaziland, Saint Helena, Ascension, Tristan da Cunha, SÃ £ o TomÃ © och PrÃncipe, Pitcairn, Palau, Salomonöarna, Nauru, Niue, Norfolkön, Mauretanien, Nordirland, Lesotho, Kiribati, Ekvatorialguinea, Guinea-Bissau , Cooköarna, Eritrea, Julön, Burkina Faso, Centralafrikanska republiken, Kosovo, kokos öarna, Svalbard och Jan Mayen, Ã... land öarna, Sydsudan, södra Georgien och Sydsandwichöarna, Samoa, Sankt BarthÃ © Lemy, Brittiska Jungfru öarna, Saint Pierre och Miquelon. Tchad, Niger, Montserrat, Guyana, Haiti, Gambia, Guam, Guinea, Gabon, Grenada, Gibraltar, Guernseypund, Liberia, Mikronesien, Falk lands öarna, Dominica, Djibouti, Kongo, Kongo (Dr), Zimbabwe, Amerikanska Samoa, Zambia, Sydafrika, Mayotte, Vietnam, Saint Vincent och Grenadinerna, amerikanska jungfru öarna, Venezuela, Heliga stolen (Vatikanstaten) , Ukraina, Uganda, Uzbekistan, USA, Uruguay, Tanzania, Taiwan, Trinidad och Tobago, Turkiet, Tunisien, Tonga, Timor-Leste, Turkmenistan, Tadzjikistan, Thailand, Togo, El Salvador, Sint Maarten, Turks-och Caicosöarna, Surinam, Singapore, Slovenien, San Marino, Senegal, Slovakien, Sverige, Republiken, Saudiarabien, Serbien, Rwanda, Ryssland, Rumänien, RÃ © union, Qatar, Paraguay, Portugal, Filippinerna, palestinska territoriet, ockuperade, Polen, Puerto Rico, Pakistan, Peru, Panama, Papua Nya Guinea, franska Polynesien , Nya Zeeland, Oman, Nepale, Nederländerna, Norge, Nigeria, Nicaragua, Nya Kaledonien, Namibia, Moçambique, Malaysia, Mexiko, Martinique, Malawi, Maldiverna, Mauritius, Malta, Myanmar, Macao SAR, Mongoliet, Mali, Madagaskar, Marshall öarna, F.d. jugoslaviska republiken Makedonien, Montenegro, Saint Martin, Marocko, Monaco, Moldavien, Lettland, Libyen, Luxemburg, Libanon, Saint Lucia, Litauen, Sri Lanka, Cayman öarna, Liechtenstein, Laos, Kazakstan, Kuwait, Korea, Komorerna, Lettland, Sankt Kitts och Nevis, Kenya, Kirgizistan, Japan, Jordanien , Jamaica, Jersey, Italien, Island, Irak, Irland, Indien, Indonesien, Isle of man, Honduras, Israel, Ungern, Hongkong SAR, Kroatien, Guatemala, Grekland, Guadeloupe, Franska Guyana, Grönland, Ghana, Färöarna, Förenade kungariket, Georgien, Frankrike, Fiji, Etiopien, Finland, Spanien, Egypten, Estland, Ecuador, Dominikanska republiken, Tyskland, Danmark, Cypern, Tjeckien, CuraÃ § Ao, Kap Verde, Costa Rica, Chile, Kamerun, Colombia, CÃ ́te Dâ €™ Ivoire, Kanada, Schweiz , Belize, vitryska, Botswana, Bhutan, Bahamas, Bonaire, Sint Eustatius och Saba, Brasilien, Benin, Brunei, snyggare, Bolivia, Belgien, Bulgarien, Bahrain, Burundi, Bosnien och Hercegovina, Bangladesh, Barbados, Azerbajdzjan, Aruba, Australien, Argentina, Angola, Armenien
 
-### <a name="next-steps"></a>Efterföljande moment
+### <a name="next-steps"></a>Nästa steg
 
 - Kampanj erbjudandet är tillgängligt i den 1 januari 2021 officiella CSP Partner Center licens-pris lista och lista över erbjudande listor. 
 - Frågor om befordran kan publiceras i [Microsoft Community-meddelandet](https://www.microsoftpartnercommunity.com/t5/Pricing-Licensing-Incentives/Announcing-a-new-Power-Apps-promotional-offer-to-accelerate-FY21/m-p/32540).
@@ -412,7 +412,7 @@ Från och med december 08 2020 kan partners börja hämta versionen av [Microsof
 
 - Lade till MiddleName
  
-### <a name="next-steps"></a>Efterföljande moment
+### <a name="next-steps"></a>Nästa steg
 
 - Ladda ned den senaste versionen [MicrosoftPartnerCenter. NETSDK (NuGet Gallery | Microsoft. Store. PartnerCenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3)
 - Hämta och granska [GitHub-exemplen](https://github.com/Microsoft/Partner-Center-DotNet-Samples)
@@ -573,4 +573,4 @@ _ Den 31 augusti 2020: ursprunglig publikation
 
 - 10 november 2020: påminnelse om att registrera sig för testning 
 
-- 3 december 2020: API-uppdateringar Live 
+- 3 december 2020: API-uppdateringar Live

@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 47827b6aa3bb9853355a6e2fa4f8816e1dd701a1
-ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
+ms.openlocfilehash: ad5cc0e9c8642ceb309cac3f5fc7c99534c3dcda
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "93189755"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182604"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Slå samman ditt partnerkonto med ett annat partnerkonto
 
@@ -77,6 +77,8 @@ Om du väljer att acceptera inbjudan att slå samman konton: · Dina MPN-ID: n (
 
 - Alla Software Assurance-kuponger behålls i båda kontona. 
 
+- Det finns ingen inverkan på DPOR-eller PAL-associationen. Eventuella associerade intäkts bidrag börjar flöda in i det nya globala partner kontot
+
 ## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>Bjud in ett företag för att koppla sitt Partner Center-konto till ditt partner Center-konto
 
 >[!Note]
@@ -84,11 +86,11 @@ Om du väljer att acceptera inbjudan att slå samman konton: · Dina MPN-ID: n (
 
 1. Välj **Inställningar** på instrument panelen för partner Center. 
 
-2. Välj **konto sammanslagning** .
+2. Välj **konto sammanslagning**.
 
 3. Lägg till MPN-ID: t som finns i **partner profilen** för det konto som du vill bjuda in till att koppla med dig. Du måste använda sitt globala MPN-ID för partner. Du kan inte använda ett plats MPN-ID.
 
-4. När du väljer **sammanfoga** skickas en inbjudan till partner företaget. När de accepterar din begäran kan du initiera sammanslagningen av konton i Partner Center. Om företaget avvisar din begäran om att slå samman konton kan de förklara varför de avvisade begäran. En lista över alla dina konto sammanslagningar är tillgänglig för dig under **sammanslagnings historik** .
+4. När du väljer **sammanfoga** skickas en inbjudan till partner företaget. När de accepterar din begäran kan du initiera sammanslagningen av konton i Partner Center. Om företaget avvisar din begäran om att slå samman konton kan de förklara varför de avvisade begäran. En lista över alla dina konto sammanslagningar är tillgänglig för dig under **sammanslagnings historik**.
  
 ### <a name="example-of-two-companies-merging-accounts"></a>Exempel på två företag som slår samman konton
 
