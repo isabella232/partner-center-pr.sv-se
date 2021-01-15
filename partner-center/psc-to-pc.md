@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 8ab1e2f2abae8af4c3949615653f83553e65fe25
-ms.sourcegitcommit: e4f30d29073cc0bcc28c4fe48791a19aa28ba734
+ms.openlocfilehash: 3475d606b3a59cf88bb9fb864ee765e4e9a20063
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97950594"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215959"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guide till samförsäljning i Partner Center (PC) för partners som migrerar från partner Sales Connect (PSC)
 
@@ -26,7 +26,7 @@ ms.locfileid: "97950594"
 - Administratör för partner Sales Connect (PSC)
 - Avtals chef för partner Sales Connect (PSC)
 
-Den här artikeln hjälper partners att migrera från partner Sales Connect till Partner Center så att de kan fortsätta att skapa och hantera samförsäljnings avtal i Partner Center.
+Den här artikeln innehåller vägledning för partner som migrerar från partner Sales Connect till Partner Center så att de kan fortsätta att skapa och hantera samförsäljnings avtal i Partner Center.
 
 Som du vet kommer företaget att förlora åtkomsten till PSC efter den 31 mars 2021. Men du kommer fortfarande att hitta allt du vill göra i Partner Center, till exempel skapa samförsäljnings avtal, hantera dina avtal och agera på avtal som skickas till dig av Microsofts säljare.
 
@@ -353,7 +353,6 @@ Om du inte redan har läst de samsäljiga hjälp avsnitten kan följande resurse
 
 ## <a name="next-steps"></a>Nästa steg
 
-Följ dessa ytterligare resurser:
 
 - [Partner försäljning Anslut till Partner Center arbets bok](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx) – arbets bok för att anpassa partners försäljnings processer och roller med nya försäljnings processer via partner Center eller partner Sales Connect.
 - [Samarbets guide för partner Center](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) – rikt linjer för att identifiera en drifts modell via partner Center för att hantera leads eller samförsäljnings möjligheter och registrera avtal.

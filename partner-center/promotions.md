@@ -9,19 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 11d31ba8fc33c965be7d5a6eeb4b5a32e5a4fa77
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 48521424fd695f20192e69e11a980505873768c2
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "92529227"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215874"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Använd kampanjer för att locka nya kunder och skicka besparingarna till dem
 
-**Gäller för**
 
-- Partnercenter
-- Partner i CSP-programmet (Cloud Solution Provider)
 
 **Lämpliga roller**
 
@@ -47,16 +44,16 @@ Kampanj priset tillämpas automatiskt på ditt netto pris när du köper nya pre
 
 ## <a name="see-available-promotions"></a>Se tillgängliga kampanjer
 
-Du kan se vilka kampanjer som du är berättigad till, om det finns någon på sidan om **kampanjer** . Välj **kampanjer** från menyn i **partner centret** för att se en lista över aktuella kampanjer, tillsammans med rabatt, befordrings typ och start-och slutdatum för prenumerationen. Om inga kampanjer är tillgängliga visas ett meddelande som anger detta. 
+Du kan se vilka kampanjer som du är berättigad till, om det finns någon på sidan om **kampanjer**. Välj **kampanjer** från menyn i **partner centret** för att se en lista över aktuella kampanjer, tillsammans med rabatt, befordrings typ och start-och slutdatum för prenumerationen. Om inga kampanjer är tillgängliga visas ett meddelande som anger detta. 
 
 > [!NOTE]  
-> Du kan också se kampanjer när du gör ett köp. När du väljer en prenumeration visas kampanjpriset på sidan **Granska** .
+> Du kan också se kampanjer när du gör ett köp. När du väljer en prenumeration visas kampanjpriset på sidan **Granska**.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>Köp prenumerationer till kampanjpriser
 
 1. Välj **kunder** på **partner Center** -menyn och välj sedan den kund som köper prenumerationen. 
 
-2. Välj **Lägg till prenumeration** .
+2. Välj **Lägg till prenumeration**.
 
 3. På sidan **ny prenumeration** väljer du den prenumeration som befordran gäller.
 
@@ -67,3 +64,6 @@ Du kan se vilka kampanjer som du är berättigad till, om det finns någon på s
 6. Välj **Skicka** till köp. Kunden kommer att se kampanj priset på nästa faktura.  
 
 
+## <a name="next-steps"></a>Nästa steg
+
+- [Sälj till specialiserade mål grupper](sell-to-education-customers.md)

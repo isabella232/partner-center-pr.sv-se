@@ -9,28 +9,25 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 82eaf215bcbc107da6a3f9f5049e4eb89c952ab0
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 11a17550ed5c0ab2154ec0daa03818236b26e820
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "92529186"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215942"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Ge fakturerings support för dina kunder och hjälp med att besvara sina fakturerings frågor
 
-**Gäller för**
-
-- Partnercenter
-- Partner Center för Microsoft Cloud för amerikanska myndigheter
 
 **Lämpliga roller**
+
 - Global administratör
 - Användaradministratör
 - Support agent
 - Faktureringsadministratör
 - Försäljnings agent
 
-Du äger fakturerings förhållandet hos kunderna och du ansvarar för att besvara fakturerings frågor från dina kunder.
+Du äger fakturerings förhållandet hos kunderna och du ansvarar för att besvara de fakturerings frågor som dina kunder kan ha.
 
 - Du ansvarar för att betala för tillfället till Microsoft.
 
@@ -66,4 +63,7 @@ Varje online tjänst har särskilda och detaljerade krav för att tillhandahåll
 - [Azure-prenumerationer som säljs via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
 - [Office 365-prenumerationer som säljs via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
- 
+ 
+## <a name="next-steps"></a>Nästa steg
+
+- [Ge teknisk support](provide-technical-support.md)
