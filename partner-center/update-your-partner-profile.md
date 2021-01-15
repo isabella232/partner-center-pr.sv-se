@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 01/14/2021
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3b0c9611927d644cc7a5beecc89e0a8cc6f066b7
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: 3dc16fe12a722a7e926dcb72d46eeb9be6b7d4ea
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215891"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235927"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Verifiera din organisations profil information i Partner Center
 
@@ -27,8 +27,9 @@ Första gången du loggar in på Partner Center som global administratör bör d
 
 Din partner profil består av din juridiska företags information, det primära kontakt namnet och e-postmeddelandet, de program som företaget deltar i och, om så är tillämpligt, dina andra företag som nu är sammanslagna under din juridiska verksamhet. Kontrol lera att företags namnet och adressen i din juridiska affärs profil är fria från stavfel och att de matchar dina formella företags registrerings poster exakt. Om du arbetar som en enda ägare måste du använda ditt företags namn som juridiskt namn.
 
-- För MPN-konton kan både den globala administratören och konto administratören uppdatera det juridiska företags namnet.
-- För indirekta CSP-konton kan den globala administratören uppdatera det juridiska företags namnet. 
+>[!Important]
+>- För MPN-konton kan både den globala administratören och konto administratören uppdatera det juridiska företags namnet.
+>- För indirekta CSP-konton kan den globala administratören uppdatera det juridiska företags namnet. 
 
 ## <a name="locate-the-legal-business-profile"></a>Leta upp den juridiska företags profilen
 
@@ -83,12 +84,7 @@ Om du är global administratör, fakturerings administratör eller administratö
 
 ## <a name="next-steps"></a>Nästa steg
 
-
 - [Kontrol lera verifierings status](verification-responses.md)
  
 - [Hantera MPN-platser](manage-locations.md)
 
-
-
-För MPN-program kan global administratör och konto administratör uppdatera det juridiska företags namnet.
-För den indirekta CSP-åter försäljaren kan den globala administratören uppdatera det juridiska företags namnet.

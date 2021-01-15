@@ -1,7 +1,7 @@
 ---
 title: Hantera ditt Partnercenter-konto
 ms.topic: conceptual
-ms.date: 11/20/2020
+ms.date: 01/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Lär dig hur du använder Partner Center för att hantera företagets profil, bank och skatte information, roller, behörigheter med mera.
@@ -9,16 +9,17 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3c5541323d691799d3f89b94ed9556c2458c737d
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 9c1a17b6703981dee93acbb057bff2405d1f4f11
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182468"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235978"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Hantera ditt partner Center-konto – företags profil, bank information, roller, behörigheter med mera
 
-**Lämpliga roller** – global administratör, MPN-administratör
+**Lämpliga roller** – global administratör
+- MPN-konto administratör
 
 Det konto som du skapar i Partner Center när du registrerar dig är ditt e-post och din företags information. När du har skapat ett konto slutför du konfigurationen av företagets fullständiga profil, inklusive support information, fil skatte undantag om det behövs och primär kontakt information. Ditt företags konto innehåller också användar konton för alla som kommer att använda Partner Center för att lägga till eller hantera kunder, Sälj prenumerationer, arbeta med fakturering och fakturering, skapa affärs profiler, hantera hänvisningar, arbeta med stimulans program och tillhandahålla support.
 
@@ -60,6 +61,10 @@ Använd dessa sidor för att hantera djupgående områden i ditt företag, inklu
 ### <a name="legal-info"></a>Juridisk information
 
 När du först ansluter till Partner Center går företaget igenom en verifierings process med Microsoft. Du kan spåra status för verifieringen på sidan **juridisk information** . Den visar den primära kontakten (som Microsoft kommer att kontakta angående partner frågor) samt den primära juridiska kontakten (den person som hanterar din juridiska information och status). Alla företagets företags platser visas och du kan lägga till dem här.
+
+### <a name="primary-contact-email"></a>E-postadress till primär kontakt
+
+E-postadressen för primär kontakt är vad vi ska använda för att meddelas om verifiering av ditt konto. Det är mycket viktigt att e-postmeddelandet som du anger för den primära kontakten är en som hanteras och bevakas regelbundet.  
 
 Läs mer om [verifiering och din konto information](verification-responses.md).
 
