@@ -675,8 +675,12 @@
         - name: Datadefinitioner för insikter
           href: pci-data-definitions.md
     - name: Indikatorer för partnerbidrag
-      href: partner-contribution-indicators.md
-      displayName: mpn
+      items:
+        - name: Kompetens för molnbaserade företagsprogram
+          href: partner-contribution-indicators.md
+        - name: Kompetens för molnlösningar för liten marknad och mellanmarknad
+          href: partner-contribution-indicators-small-and-midmarket-cloud-business-option.md
+      displayName: 'mpn, cloud business applications competency, small and midmarket cloud solutions competency, CBA SMB option'
     - name: Analysera andra data
       items:
         - name: Kunders Azure-användning
