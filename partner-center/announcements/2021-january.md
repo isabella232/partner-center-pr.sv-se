@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/07/2021
-ms.openlocfilehash: f92b801d5e3294e461d07f9089b545a41efc4d6a
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.date: 01/15/2021
+ms.openlocfilehash: 60a0f0a3c2d26d431cd4a79e606d96ae01fb50a1
+ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235944"
+ms.lasthandoff: 01/18/2021
+ms.locfileid: "98560484"
 ---
 # <a name="january-2021-announcements"></a>Meddelanden januari 2021
 
@@ -23,6 +23,112 @@ Den här sidan innehåller information om Microsoft Partner Center-meddelanden f
 2021-meddelanden: januari
 
 2020-meddelanden: [maj](2020-may.md)  |  [](2020-june.md)  |  [juli](2020-july.md)  |  [augusti](2020-august.md)  |  [september](2020-september.md)  |  [](2020-October.md)  |  [](2020-november.md)  |  [](2020-december.md)  
+
+_____________ 
+
+## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="9"></a>Säkerhet, efterlevnad och identitet (området) lanseras den 1 februari 2021 
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-01-15
+- Erbjudanden/marknader
+
+### <a name="summary"></a>Sammanfattning
+
+Flera Microsoft 365-lanseringar tas med i för hands versionen av pris listan i januari och kommer att vara tillgänglig från den 1 februari 2021.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Alla partner som går via program varan för Cloud Solution Provider (CSP)
+
+### <a name="details"></a>Information
+
+#### <a name="microsoft-365-g5-compliance-component-skus-for-government"></a>[Microsoft 365 G5-komponenten SKU: er för myndigheter](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
+
+Vi kommer att lansera tre nya komponent erbjudanden för Community-molnet (GCC) och GCC höga kunder, som kommer att vara tillgängliga från den 1 februari 2021. Dessa SKU: er motsvarar Microsoft 365 E5 Information Protection och styrning, M365 E5 Insider riskhantering och Microsoft 365 E5 eDiscovery & granskning som för närvarande är tillgängligt i kommersiellt. 
+
+   |**Erbjudandets namn**|**Erbjudande-ID**|**Material-ID**|
+   |-------------------|:------|:------|
+   |Microsoft 365 E5 Information Protection och styrning för GCC|9e5397ab-f309-4d90-97f3-6fb5d53074d6|8QL-00002|
+   |Microsoft 365 E5 eDiscovery och granskning för GCC|5c9ef884-6307-47e7-a914-f5092feae51e|8RI-00002|
+   |Microsoft 365 E5 Insider risk hantering för GCC|11ccfdb3-80cb-4c80-8146-c9775045df17|8RF-00002|
+   |Microsoft 365 E5 Information Protection och DLP (tillägg) för GCC|911d3177-53a9-42ec-a0e9-3b73fce527f0|8QY-00002|
+
+#### <a name="10-year-audit-log-retention-add-on"></a>[10 års granskning logg kvarhållning tillägg](https://docs.microsoft.com/microsoft-365/compliance/)
+
+Ett tillägg som är tillgängligt med en förutsättning för Microsoft 365 E5 gör att kunderna kan lagra sina data i 10 år. 
+
+   |**Erbjudandets namn**|**Erbjudande-ID**|**Material-ID**|
+   |-------------------|:------|:------|
+   |10 års Gransknings logg kvarhållning Lägg till på för EDU|879b5e1a-eaa2-4ea9-a628-0b429b2e8732|8LC-00002|
+   |10 års Gransknings logg kvarhållning Lägg till på|e14ce8d1-09f4-42d2-9b5e-ee85f32e7be4|8LB-00003|
+   
+#### <a name="frontline-worker-add-ons"></a>Frontline Worker-tillägg
+
+Från den 1 februari 2021 kan kunder köpa tre nya programmerings erbjudanden för säkerhet och efterlevnad för Frontline-anställda som tillägg till [Microsoft 365 F1-och F3-SKU: er](https://www.microsoft.com/microsoft-365/firstline-workers).
+
+Dessa programmerings erbjudanden ersätter den aktuella erbjudandet om [säkerhet och efterlevnad](https://microsoft.sharepoint.com/teams/M365LicensingNews/SitePages/Security-and-Compliance-Promotion-for-Firstline-Workers-Update.aspx) som upphör att gälla den **28 februari 2021**. Till skillnad från den aktuella befordran ger F5-tilläggen kunderna mer förutsägbara för prognoser när deras Frontline personal växer.
+
+   
+   |**Erbjudandets namn**|**Erbjudande-ID**|**Material-ID**|
+   |-------------------|:------|:------|
+   |Microsoft 365 F5-säkerhet|a8fba59e-1fc2-4658-8684-5f3d0c71c490|8RQ-00003|
+   |Microsoft 365 F5-kompatibilitet|6dc6cb1d-7bcb-4234-80cc-9c7a9cded044|8RL-00003|
+   |Microsoft 365 F5 säkerhet & efterlevnad|ad396924-ee4e-4059-b779-efe43dfa24d2|8RU-00003|
+   
+### <a name="next-steps"></a>Nästa steg
+
+Granska för hands versionen av pris listan och dela med lämpliga intressenter i din organisation. Mer information finns på [Microsofts tekniska community för säkerhet och efterlevnad](https://techcommunity.microsoft.com/t5/microsoft-security-and/ct-p/MicrosoftSecurityandCompliance).
+
+### <a name="questions"></a>Har du några frågor?
+
+Om du har fler frågor om dessa erbjudanden kan du kontrol lera dina relevanta Yammer-communities. 
+
+_____________ 
+
+## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="8"></a>DocuSign migrering till Adobe Sign för partner under Microsoft partner Agreement (MPAs) 
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-01-15
+- Funktioner
+
+### <a name="summary"></a>Sammanfattning
+
+Microsoft kommer att överföra all bearbetning av elektroniska signaturer från DocuSign till Adobe Sign.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Befintliga leverantörer av direkta och indirekta leverantörer av moln lösningar (CSP) under MPA. Partner i Ukraina, Ryssland och Kazakstan kommer att krävas för att fysiskt eller elektroniskt signera om föraren varje år.
+
+### <a name="details"></a>Information
+
+I februari 2021 börjar Microsoft överföra all bearbetning av elektroniska signaturer från DocuSign till Adobe Sign för CSP-partner. 
+
+Du bör förvänta dig en smidig över gång. Vid migreringen kommer du att få ett e-postmeddelande från adobesign@adobesign.com , i stället för DocuSign, när din elektroniska signatur krävs. I det här e-postmeddelandet får du en länk till Adobe Sign-webbsidan där du kommer att behöva logga in. Microsoft-partner kommer inte behöva signera om befintliga avtal, bara framtida kanal avtal. 
+
+Du hittar ett exempel på ett e-postmeddelande om en Adobe Sign Signature-begäran i [resurs galleriet](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf). 
+
+**För bästa möjliga upplevelse, se till att göra följande:**
+
+1. Lägg till adobesign@adobesign.com i listan Betrodda avsändare för att undvika att e-postmeddelanden från det här kontot går direkt till din skräp post-mapp.
+2. Arbeta med IT-avdelningen för att:
+   - Lägg till adobesign@adobesign.com e-postadressen i listan Betrodda avsändare för att se till att den inte ingår i en företablerad phishing-regel.
+   - Uppdatera befintliga säkerhets principer och se till att alla mottagare som krävs kan signera dokumentation under din Adobe Sign Enterprise-licens.
+
+Adobe Sign är Microsofts prioriterade lösning för elektroniska signaturer (ESS). Över gången till Adobe Sign garanterar en säker och effektiv elektronisk signatur som ger större värde till våra kunder och partner.
+
+Mer information om hur du elektroniskt signerar dokument och delegering av elektroniska signaturer finns i följande **självstudier**: 
+- [Signera ett dokument elektroniskt | Adobe Sign-självstudier](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
+- [Delegera någon annan att signera ett dokument | Adobe Sign-självstudier](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+
+### <a name="next-steps"></a>Nästa steg
+
+Dela den här informationen med lämpliga intressenter i din organisation.
+
+### <a name="questions"></a>Har du några frågor?
+
+Om du har några frågor kan du kontakta ditt regionala drift Center med hjälp av [verktyget för samtals loggning (CLT)](https://clt.partners.extranet.microsoft.com/CLT) eller [utforska MS](https://www.explore.ms/). Följ standard CLT-processen nära så att vi kan lösa din fråga så snabbt som möjligt.
 
 _____________ 
 
