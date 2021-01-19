@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 6c7255f1bece1b107d173b8f1dc8a2b77defa992
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.openlocfilehash: bc85c2537201c3fab95541798932fe1be0a9a231
+ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235961"
+ms.lasthandoff: 01/18/2021
+ms.locfileid: "98560501"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -22,6 +22,8 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 
 | **Kategori** | **Meddelanden januari 2021** | **Meddelande** |
 |---------|:---------|:---------|
+|Erbjudanden/marknader|[Säkerhet, efterlevnad och identitet (SCI) lanseras den 1 februari 2021](2021-january.md#9)|15 januari|
+|Funktioner|[DocuSign-migrering till Adobe Sign för partner under Microsoft-partneravtalet (MPA)](2021-january.md#8)|15 januari|
 |Erbjudanden/marknader|[Kommersiell prisuppdatering för norska kronor](2021-january.md#7)|14 januari|
 |Erbjudanden/marknader|[Kommersiell prisuppdatering för INR](2021-january.md#6)|8 januari|
 |Erbjudanden/marknader|[Uppdateringar för samtalsplan och telefonsystem för 1 februari 2021](2021-january.md#5)|8 januari|
