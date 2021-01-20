@@ -5,13 +5,13 @@ ms.prod: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 8f7962b1b040be90f7dc1b2696a2ced3830d25b9
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.date: 01/18/2021
+ms.openlocfilehash: de58fad7af7dd2cd6b8c98e5763557d54cc776a2
+ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182485"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "98584210"
 ---
 # <a name="azure-marketplace-purchasing"></a>Köp av Azure Marketplace
 
@@ -60,6 +60,20 @@ När du köper produkter från Azure Marketplace vill du få insikter som hjälp
 Du kan visa dina Azure Marketplace-avgifter och fakturor i kostnadsanalysverktyget under Azure Cost Management.
 
 :::image type="content" source="media/overview/azure-cost-management.png" alt-text="Använd Azure Cost Management för att få insikter om dina köpta produkter.":::
+
+## <a name="purchase-validation-checks"></a>Verifierings kontroller för inköp
+
+Att köpa ett erbjudande via Azure Marketplace kan inte utföras av olika orsaker. Att använda kommando rads gränssnittet (CLI) för ett köp är mer sannolikt att orsaka fel eftersom du kanske försöker köpa ett erbjudande som inte är tillgängligt eller synligt i Azure Marketplace. Nedan visas de kontroller som kan göra att ett köp inte kan utföras:
+
+1. Prenumerationen tillhör ett Enterprise-avtal (EA) och EA-administratören inaktiverade Azure Marketplace-köp.
+1. Funktionen EA admin har endast aktiverat inköp för kostnads fria erbjudanden och erbjudandet är ett betalt erbjudande.
+1. Erbjudandet finns inte på Marketplace.
+1. Oberoende program varu leverantörer (ISV) slutade sälja erbjudandet, minst i din region.
+1. Den prenumeration som du använder tillhör ett fakturerings konto i en region där erbjudandet inte är tillgängligt.
+1. Prenumerations-/fakturerings kontot är inte associerat med en giltig betalnings metod (till exempel ett giltigt kredit kort).
+1. Prenumerationen tillhör en leverantör av moln lösningar (CSP) och ISV nekade att sälja via en KRYPTOGRAFIPROVIDER.
+1. En privat Marketplace har Aktiver ATS för prenumerationen och erbjudandet finns inte i listan över tillåtna erbjudanden.
+1. Erbjudandet är privat/för hands version för vissa kunder och prenumerationen finns inte i listan över tillåtna kunder.
 
 ## <a name="next-steps"></a>Nästa steg
 

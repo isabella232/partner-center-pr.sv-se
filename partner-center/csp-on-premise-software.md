@@ -1,7 +1,7 @@
 ---
 title: Sälja lokal program vara via CSP
 ms.topic: how-to
-ms.date: 05/05/2020
+ms.date: 01/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lär dig hur partner i CSP-programmet kan köpa, hantera, sälja och avbryta lokala program varu prenumerationer på uppdrag av kunder i Partner Center.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 179527f2edc710420be0b7119b758389dddf6947
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: b1d9cddd46ac6ee23a92fab41fc41b1e7eb613a1
+ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "92531176"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "98584163"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Sälja lokal program vara via Cloud Solution Provider (CSP)-programmet
 
@@ -40,17 +40,12 @@ Om du vill köpa program varu prenumerationer för en kunds räkning går du til
 När du har köpt program varan måste du och dina kunder Ladda ned det. Använd följande procedur för att göra detta. 
 
 >[!NOTE]
->Du måste vara administratörs agent för att kunna hämta nycklar och nedladdningar. 
+>Du måste vara administratörs agent för att kunna hämta nycklar och nedladdningar.
 
-1. Gå till din kunds informations sida och välj sedan **program vara** . Du ser en lista över all program vara som du har köpt för kundens räkning. 
-2.  Expandera den produkt som du vill ladda ned. I fältet **Välj produkt** väljer du den **version** , **språk** och **filtyp/OS** som du vill använda. 
-3.  Välj **Skicka** för att visa de aktuella produkterna. 
-4.  Välj **Hämta nycklar och nedladdningar** . 
-5.  Välj **Ladda ned** för att börja ladda ned eller Välj **Kopiera länk** för att kopiera länken och skicka den till kunden. 
+1. Gå till din kunds informations sida och välj sedan **program vara**. Du ser en lista över all program vara som du har köpt för kundens räkning.
+2. Kopiera länken från en **länk till program varu produkt nycklar och hämta** och dela länken med kunden. När de väljer den här länken omdirigeras de till Microsoft admin-portalen för att hämta och hämta sina produkt nycklar.
 
->[!NOTE]
->Den här länken upphör att gälla efter två veckor eller 50 nedladdningar, beroende på vilket som kommer först. När länken går ut går du tillbaka till den här sidan och väljer **Hämta nycklar och nedladdningar** igen för att aktivera ytterligare två veckor eller 50 hämtningar. Det kan du göra så många gånger du behöver. 
-
+Om du eller dina kunder vill lära dig mer om att hämta licens nycklar, se [Hämta program vara och produkt licens nycklar](https://go.microsoft.com/fwlink/p/?linkid=2152525).
 
 ## <a name="cancel-a-purchase"></a>Avbryta ett köp
 
@@ -67,9 +62,9 @@ Använd följande procedur för att avbryta ett köp. När annulleringen är kla
 
 2.  Välj **program vara** på sidan kund information. Du ser en lista över all program vara som du har köpt. 
 
-3.  Leta upp den program vara som du vill avbryta och välj **Avbryt** . Sidan **rapportera ett problem med partner Center** öppnas. 
+3.  Leta upp den program vara som du vill avbryta och välj **Avbryt**. Sidan **rapportera ett problem med partner Center** öppnas. 
 
-4.  Under **information** går du till listan **typ av problem** och väljer **CSP Purchase/återbetala för kundernas räkning** .
+4.  Under **information** går du till listan **typ av problem** och väljer **CSP Purchase/återbetala för kundernas räkning**.
 
 5.  Fyll i fälten **effekt** och **rubrik** . 
 
@@ -81,6 +76,6 @@ Använd följande procedur för att avbryta ett köp. När annulleringen är kla
 
 7.  I fältet **kontakt** anger du ditt namn, din e-postadress och ditt telefonnummer. 
 
-8.  Om du behöver bifoga en fil av någon anledning väljer du **Lägg till filer** . Det här är valfritt. 
+8.  Om du behöver bifoga en fil av någon anledning väljer du **Lägg till filer**. Det här är valfritt. 
 
-9.  När du är klar väljer du **Skicka** .
+9.  När du är klar väljer du **Skicka**.

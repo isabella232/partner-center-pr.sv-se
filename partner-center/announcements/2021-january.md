@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/15/2021
-ms.openlocfilehash: 60a0f0a3c2d26d431cd4a79e606d96ae01fb50a1
-ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
+ms.openlocfilehash: 9b972354fb21dbdfa4780717cee54bac14acdb0e
+ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "98560484"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "98571677"
 ---
 # <a name="january-2021-announcements"></a>Meddelanden januari 2021
 
@@ -24,7 +24,84 @@ Den här sidan innehåller information om Microsoft Partner Center-meddelanden f
 
 2020-meddelanden: [maj](2020-may.md)  |  [](2020-june.md)  |  [juli](2020-july.md)  |  [augusti](2020-august.md)  |  [september](2020-september.md)  |  [](2020-October.md)  |  [](2020-november.md)  |  [](2020-december.md)  
 
-_____________ 
+________________
+## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a> Beständig program vara är nu allmänt tillgänglig för Cloud Solution Provider-programmet
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-01-19
+- Utveckla verksamheten
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Alla CSP-partner
+
+### <a name="details"></a>Information
+
+Som ni [presenterade](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) idag är vi glada att informera dig om att kommersiella program varu licenser nu är allmänt tillgängliga för alla CSP-partner att sälja. Pris listan för listad program vara för partner Center CSP har återpublicerats och innehåller nu ytterligare produkter och geografiska områden.
+
+Tänk också på att från och med idag har kapaciteten för partner Center-program och licens nyckel upphört att gälla och att partners och kunder bör använda Microsoft 365 administrations Center för detta ändamål.
+Mer information och nästa steg hittar du nedan.
+
+### <a name="next-steps"></a>Nästa steg
+
+- Hämta listan med **program varu** pris med kryptografiprovider i **program varu** avsnittet på sidan med pris information för Partner Center på [pris &s erbjudande](https://partnercenter.microsoft.com/en-us/pcv/sales) . Du hittar en lista över de nyligen tillagda produkterna och geografierna [här](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
+- Granska [Microsoft 365 administrations Center beständig program vara och produkt licens nycklar Ladda ned instruktions artiklar](https://go.microsoft.com/fwlink/p/?linkid=2152525) och dela med dina kunder när de är redo att ladda ned sina program och licens nycklar.
+- Granska den tidsständiga [program varan i Cloud solution providers program](https://partner.microsoft.com/resources/collection/software-in-csp#/) readiness material. Använd den här [beredskaps kartan](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) för att snabbt hitta rätt information för din roll.
+
+### <a name="questions"></a>Har du några frågor?
+
+Om du behöver fler frågor kontrollerar du dina relevanta CSP-communities.
+
+_____________
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="10"></a> Påminnelse: Introduktion till API-begränsning till partners som anropar API: er för partner Center 
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-01-19
+- Utveckla verksamheten
+
+### <a name="summary"></a>Sammanfattning
+
+Microsoft kommer att implementera API-begränsning för att ge en mer konsekvent prestanda inom ett tidsintervall för partner som anropar API: er för partner Center.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Alla partner som går via program varan för Cloud Solution Provider (CSP)  
+
+### <a name="details"></a>Information
+
+Från och med februari 2021 kommer Microsoft att implementera API-begränsning för att ge en mer konsekvent prestanda inom ett tidsintervall för partner som anropar API: er för partner Center.Begränsning begränsar antalet begär anden till en tjänst i ett tidsintervall för att förhindra överanvändning av resurser.När ett tröskelvärde överskrids begränsar Partner Center eventuella ytterligare förfrågningar från klienten under en viss tids period.
+  
+**Partner förmåner:** Partner Center har utformats för att hantera en stor mängd begär Anden, men om ett överbelastat antal förfrågningar görs av några få partner, hjälper begränsningen till att upprätthålla optimala prestanda och tillförlitlighet för alla partner.  
+
+- Begränsning garanterar minimal nedtid.
+- Begränsning minskar antalet stora volymer, vilket hjälper till att säkerställa en konsekvent prestanda för alla partner.
+
+**API: er som ska begränsas:**
+
+| Åtgärd | Dokumentation för Partnercenter |
+| ------ | ------- |
+|{baseURL}/v1/Customers/{customer_id}/subscriptions  | [Get-all-a-kund-s-subscriptions](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}  | [Hämta en prenumeration efter ID](/partner-center/develop/get-a-subscription-by-id) |
+|{baseURL}/v1/Customers/{customer_id}/Orders  | [Hämta alla kund beställningar](/partner-center/develop/get-all-of-a-customer-s-orders) |
+|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}  | [Hämta en beställning efter ID](/partner-center/develop/get-an-order-by-id) |
+|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}/provisioningstatus  | [Hämta status för prenumerationsetablering](/partner-center/develop/get-subscription-provisioning-status) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}  | [Hantera order och hantera en prenumeration](/partner-center/develop/manage-orders#manage-a-subscription) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/addons  | [Hämta en lista över tillägg för en prenumeration](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/azureEntitlements | [Hämta en lista över Azure-rättigheter för en prenumeration](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/registrationstatus  | [Hämta status för prenumerationsregistrering](/partner-center/develop/get-subscription-registration-status) |
+|{baseURL}/v1/customers/{customer-tenant-id}/transfers  | [Hämta alla kunders överföringar](/partner-center/develop/get-all-of-a-customer-s-transfers) |
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status  | [Hämta status för produktuppgradering](/partner-center/develop/get-product-upgrade-status) |
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions   | [Hämta en lista över erbjudanden för utvärderingskonvertering](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
+ 
+Vi rekommenderar starkt att partners använder API: et för aktivitets loggen för att öka effektiviteten och undvika begränsning.Mer information om den här funktionen finns i informationen [här](/partner-center/develop/api-throttling-guidance).  
+
+### <a name="next-steps"></a>Nästa steg
+
+Granska [resurserna](/partner-center/develop/api-throttling-guidance)   för det här avsnittet och vidta nödvändiga åtgärder.  
+
+_____________
 
 ## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="9"></a>Säkerhet, efterlevnad och identitet (området) lanseras den 1 februari 2021 
 
@@ -43,7 +120,7 @@ Alla partner som går via program varan för Cloud Solution Provider (CSP)
 
 ### <a name="details"></a>Information
 
-#### <a name="microsoft-365-g5-compliance-component-skus-for-government"></a>[Microsoft 365 G5-komponenten SKU: er för myndigheter](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
+#### <a name="microsoft-365-g5-compliance-component-skus-for-government"></a>[Microsoft 365 G5-komponenten SKU: er för myndigheter](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
 
 Vi kommer att lansera tre nya komponent erbjudanden för Community-molnet (GCC) och GCC höga kunder, som kommer att vara tillgängliga från den 1 februari 2021. Dessa SKU: er motsvarar Microsoft 365 E5 Information Protection och styrning, M365 E5 Insider riskhantering och Microsoft 365 E5 eDiscovery & granskning som för närvarande är tillgängligt i kommersiellt. 
 
@@ -54,7 +131,7 @@ Vi kommer att lansera tre nya komponent erbjudanden för Community-molnet (GCC) 
    |Microsoft 365 E5 Insider risk hantering för GCC|11ccfdb3-80cb-4c80-8146-c9775045df17|8RF-00002|
    |Microsoft 365 E5 Information Protection och DLP (tillägg) för GCC|911d3177-53a9-42ec-a0e9-3b73fce527f0|8QY-00002|
 
-#### <a name="10-year-audit-log-retention-add-on"></a>[10 års granskning logg kvarhållning tillägg](https://docs.microsoft.com/microsoft-365/compliance/)
+#### <a name="10-year-audit-log-retention-add-on"></a>[10 års granskning logg kvarhållning tillägg](/microsoft-365/compliance/)
 
 Ett tillägg som är tillgängligt med en förutsättning för Microsoft 365 E5 gör att kunderna kan lagra sina data i 10 år. 
 
