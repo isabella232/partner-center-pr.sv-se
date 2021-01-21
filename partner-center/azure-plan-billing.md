@@ -1,7 +1,7 @@
 ---
 title: Fakturering av Azure-plan – faktura & rekognoseringar-filer
 ms.topic: article
-ms.date: 07/02/2020
+ms.date: 01/20/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lär dig hur du får åtkomst till och förstår den faktura och avstämnings fil struktur som är relaterad till faktureringen för Azure-prenumerationen.
@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1dc683c194de158dc7a4dac541b37631f3be1f1e
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: e230cc0d8ff3afea4bf2cc7b55d3847814696af6
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534700"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658441"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Ny handelsupplevelse i CSP – Azure-fakturering 
 
@@ -46,7 +46,7 @@ Den globala administratörs-eller fakturerings administratören för ditt föret
 
 För att få åtkomst till fakturan och avstämnings filen:
 
-1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard/).
+1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard/).
 
 2. Från menyn Partner Center väljer du **fakturering**.
 
@@ -140,9 +140,7 @@ För att få åtkomst till fakturan och avstämnings filen:
 
 Azure-tjänster via en Azure-prenumeration priss ätts i USD och faktureras i kund landets tilldelade valuta. Om fakturerings valutan är icke-USD visas den utländska växelkursen (FX) som används på den sista sidan i fakturan. FX-priser fastställs varje månad och tillämpas på följande faktura. En fullständig lista över lands valutor finns i den [nya Commerces tillgänglighet för land och kund valuta mat ris](https://go.microsoft.com/fwlink/?linkid=2112354).
 
-Microsoft använder Thomson-Reuters för att fastställa de FX-priser som används för att fastställa pris valuta för konvertering av fakturerings valuta. FX-priserna kommer att uppdateras och vara tillgängliga på dagen före den första av den månad som de gäller.
-
-**Exempel**: användnings debitering för service perioden 1 augusti 31 debiteras med den FX-taxa som publicerades den 31 juli. De här avgifterna visas på fakturan i september och FX-priset anges på den sista sidan i fakturan.
+Microsoft följer Londons aktie kurs för konvertering. Vi använder växelkursen, som är lika med den växelkurs som inhämtats den senaste sekunden i månaden för den senaste arbets dagen i månaden för Londons fondbörs. FX-priserna kommer att uppdateras och vara tillgängliga på dagen före den första av den månad som de gäller.
 
 ## <a name="azure-reservations"></a>Azure-reservationer
 

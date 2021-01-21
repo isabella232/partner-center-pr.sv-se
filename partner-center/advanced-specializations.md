@@ -1,7 +1,7 @@
 ---
 title: Lär dig mer om avancerade specialiseringar
 ms.topic: article
-ms.date: 01/12/2021
+ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Förbättra företags profilen i Microsoft partner Directory. Lär dig mer om de avancerade specialiseringar som du kan uppnå tillsammans med din befintliga guld-och silver kompetens.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ce29c533869214a15f18852c8946f46c0656a38
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: 61bb4bf8b340ac35c929738c43e8ef2da2e64aca
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204027"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658407"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Få en avancerad specialisering för att presentera dina verifierade funktioner
 
@@ -45,6 +45,7 @@ Varje avancerad specialisering motsvarar ett lösnings utrymme:
 
 I **Azures** avancerade specialisering ingår:
 
+- Analys på Microsoft Azure
 - Migrering av informationslager till Microsoft Azure
 - Kubernetes på Microsoft Azure
 - Migrering av Linux-och öppen källkod-databaser till Microsoft Azure
