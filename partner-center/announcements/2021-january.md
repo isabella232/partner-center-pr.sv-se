@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/15/2021
-ms.openlocfilehash: 9b972354fb21dbdfa4780717cee54bac14acdb0e
-ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
+ms.date: 01/20/2021
+ms.openlocfilehash: 02b1e93c84065b6223ffc06cf36ddfec757f9a6a
+ms.sourcegitcommit: 37a18fb999bfc713b4fe514d082c63fe58ef9236
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "98571677"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98685930"
 ---
 # <a name="january-2021-announcements"></a>Meddelanden januari 2021
 
@@ -23,6 +23,92 @@ Den här sidan innehåller information om Microsoft Partner Center-meddelanden f
 2021-meddelanden: januari
 
 2020-meddelanden: [maj](2020-may.md)  |  [](2020-june.md)  |  [juli](2020-july.md)  |  [augusti](2020-august.md)  |  [september](2020-september.md)  |  [](2020-October.md)  |  [](2020-november.md)  |  [](2020-december.md)  
+
+________________
+## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="12"></a> Ändringar i Azures erbjudande tillgänglighet i CSP som är relaterade till den nya Commerce-upplevelsen i CSP för Azure
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-01-21
+- Funktioner
+ 
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Alla partners som går via Cloud Solution Provider (CSP)-programmet.
+
+### <a name="details"></a>Information:
+
+#### <a name="the-new-commerce-experience-for-azure-in-csp"></a>Den nya Commerce Experience för Azure i CSP
+
+Den nya Microsoft Commerce-upplevelsen kommer att skapa en konsekvent och förenklad köp upplevelse för kunder och göra det möjligt för dem att transformera digitalt, med större flexibilitet för hur och var de köper. Partners spelar en viktig roll i kundens moln resa, oavsett vilka kanaler som kunderna bestämmer sig för i Transact med Microsoft. När den uppdaterade handels plattformen och-modellen har startats så att partner kan delta genom Sälj rörelserna för större företags kunder, samt små och medel stora företag, och det ger partner möjligheter att utöka sitt deltagande till att driva kund framgång.
+
+Den nya Commerce-upplevelsen för Azure i Cloud Solution Provider-programmet utökar partner möjligheter att bygga och leverera hanterade tjänster, utöka sin kund bas och hjälpa kunder på sin digitala omvandling.
+
+Den nya Commerce-upplevelsen ger följande fördelar:
+
+- Fören klar inköps processen för Azure med Azure-prenumerationen.
+- Skapar bättre pris justering för alla kanaler. Baserat på feedback från kunder och partner kommer den nya Azure-upplevelsen i Cloud Solution Provider-programmet att använda en enda pris lista i USD, vilket ger kunder och partners konsekventa priser i global skala.
+- Minskar risken för kund förvärv genom att tillhandahålla verktyg som innehåller lämplig styrning, kund upplevelse och principer för att flytta dem till den nya Azure-upplevelsen i Cloud Solution Provider-programmet.
+- Gör att partner kan hantera sina kunder mer effektivt genom att använda funktioner som Azure Lighthouse och Azure Cost Management. 
+- Expanderar åtkomst till Azure Marketplace.
+
+Genom att utöka den nya Commerce-upplevelsen för Azure har vi aktiverat över gångs verktyg för att förbättra flexibiliteten att hantera Azure på ett sätt som anpassar sig efter kunders föränderliga affärs behov och hjälper till att hjälpa kunderna att få till gång till det nya Azure-erbjudandet i Cloud Solution Provider-programmet. Visa en översikt över de verktyg som finns för att stödja över gången av kund Azure-prenumerationer i Cloud Solution Provider-programmet.
+
+#### <a name="new-azure-in-cloud-solution-provider-program-offer-azure-plan"></a>Nytt Azure i program erbjudandet för Cloud Solution Provider (Azure-plan)
+
+Med den nya Commerce-upplevelsen får partners till gång till Azure-tjänster med betala per användning-pris för kunder enligt Microsofts kund avtal via en Azure-prenumeration. Den här planen fören klar inköps upplevelsen genom att göra det möjligt att skapa flera Azure-prenumerationer i en Azure-plan. Det finns inte längre behov av att skicka en separat order per Azure-prenumeration i Partner Center.
+
+#### <a name="changes-to-the-previous-azure-offer-availability-in-the-cloud-solution-provider-program"></a>Ändringar i föregående Azure-erbjudande tillgänglighet i Cloud Solution Provider-programmet
+
+När vi presenterade det nya Azure-erbjudandet i Cloud Solution Provider-programmet (Azure-plan) har vi informerat partners om att det tidigare Azure-erbjudandet och plattformen skulle fortsätta att vara tillgängligt, tillsammans med den nya Azure-upplevelsen, under en viss tid, och att vi informerar våra partners i förväg innan eventuella ändringar skulle göras till föregående Azure-erbjudande.
+
+Även om det nya Azure-erbjudandet i Cloud Solution Provider-programmet (Azure plan) ger partners en bättre upplevelse vill vi ge partner tid att införliva nya Azure-funktioner med sina tjänster och överföra sina kunder till den nya upplevelsen.
+
+Det finns tre ändrings faser i det föregående Azure-erbjudandet. Idag delar vi mer information i dessa tre faser.
+
+#### <a name="three-phases"></a>Tre faser
+
+**Fas 1 – från och med 21 juli 2021**
+
+I fas 1 kommer alla nya Azure Cloud Solution Provider-program företag att vara på det nya erbjudandet för Azure-prenumerationen. Följande rikt linjer gäller:
+
+- För alla befintliga åter försäljares relationer mellan partner och kunder i Cloud Solution Provider-programmet, om kunden redan har köpt det tidigare Azure-erbjudandet, kan partnern fortsätta till Transact och kunden kan fortsätta att köpa det tidigare Azure-erbjudandet från den partnern.
+- Det tidigare Azure-erbjudandet kommer inte längre att vara tillgängligt för nya partners som agerar i CSP
+- Det tidigare Azure-erbjudandet kommer inte längre att vara tillgängligt för nya kunder som köper via en partner i CSP
+- För alla nya åter försäljares relationer eller nya kund förvärv, kan partner bara Transact det nya Azure-erbjudandet (Azure-prenumerationen)
+- För alla befintliga åter försäljares relationer mellan partner och kunder, om kunden aldrig har köpt Azure tidigare, kan partnern bara komma att köpa det nya Azure-erbjudandet från den partnern.
+
+**Fas 2 – under kalender året 2022**
+
+I fas 2, som kommer att inledas under kalender året 2022, kommer stimulans-och partner marginal möjligheten att tas bort från det tidigare Azure-erbjudandet. Vi kommer att kommunicera med start datum för fas 2 till partner 6 månader i förväg.
+
+**Fas 3 – datum TBD**
+
+I fas 3 kommer alla återstående kunder på det tidigare Azure-erbjudandet att migreras till det nya Azure-erbjudandet i Cloud Solution Provider-programmet (Azure-abonnemang). Precis som i föregående faser kommer vi att kommunicera fas 3 start datum till partner 6 månader i förväg.
+
+#### <a name="partner-earned-credit-pec"></a>Partner intjänad kredit (PEC)
+
+Med den nya Commerce-upplevelsen kan våra partners identifiera differentierade mervärdes tjänster kontinuerligt genom att använda den partner som har intjänad kredit modell. Partner belönade kredit utmärkelser partner som fokuserar på att driva kund framgång via mervärdes tjänster som genererar en hållbar lönsamhet.
+
+### <a name="next-steps"></a>Nästa steg:
+
+Partners rekommenderas att bekanta sig med följande resurser:
+
+#### <a name="partner-earned-credit-pec"></a>Partner intjänad kredit (PEC)
+
+- [Förstå intjänad kredit för partner (guide) (Microsoft. com)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf)
+- [Partner intjänad kredit – översikt – Partner Center | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit?branch=main )
+- [Partner intjänad kredit för hanterade tjänster – Partner Center | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit-explanation?branch=main)
+- [Roller, behörigheter för partner intjänad kredit – Partner Center | Microsoft Docs](https://docs.microsoft.com/partner-center/azure-roles-perms-pec)
+- [Training-modul på begäran på partner intjänad kredit i Azure i CSP-moduler (eventbuilder.com)](https://commercial_licensing.eventbuilder.com/NewcommerceinCSPforAzuretrainingmodules)
+
+#### <a name="the-new-commerce-experience"></a>Den nya Commerce-upplevelsen
+
+- [Partner resurs Galleri: en ny Commerce-upplevelse i CSP för Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
+
+### <a name="questions"></a>Har du några frågor?
+
+För alla frågor som rör detta meddelande kontaktar du [Support för partner Center](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
 
 ________________
 ## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a> Beständig program vara är nu allmänt tillgänglig för Cloud Solution Provider-programmet

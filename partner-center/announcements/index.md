@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: aa06fa03b29bb43d5b3c9d2c64e7208ebe9a9d5f
-ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
-ms.translationtype: HT
+ms.openlocfilehash: 83d2abd4c799a9776087efc4fb4f5e755ecbadad
+ms.sourcegitcommit: 37a18fb999bfc713b4fe514d082c63fe58ef9236
+ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "98571660"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98685913"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -22,6 +22,7 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 
 | **Kategori** | **Meddelanden januari 2021** | **Meddelande** |
 |---------|:---------|:---------|
+|Funktioner|[Ändringar i Azures erbjudande tillgänglighet i CSP som är relaterade till den nya Commerce-upplevelsen i CSP för Azure](2021-january.md#12)|21 januari|
 |Utveckla verksamheten|[Evig programvara finns nu tillgänglig i Molnlösningsleverantör-programmet ](2021-january.md#11)|19 januari|
 |Utveckla verksamheten|[Påminnelse: Introduktion till API-begränsning till partner som anropar API:er för Partnercenter](2021-january.md#10)|19 januari|
 |Erbjudanden/marknader|[Säkerhet, efterlevnad och identitet (SCI) lanseras den 1 februari 2021](2021-january.md#9)|15 januari|
