@@ -1,7 +1,7 @@
 ---
 title: Ansök för avancerade specialiseringar
 ms.topic: how-to
-ms.date: 11/30/2020
+ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Förbättra företags profilen i Microsoft partner Directory. Lär dig hur du använder Partner Center för att söka efter och tjäna avancerade specialiseringar.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dea98a5268feecbbea448592637a24f180d8eff2
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: aa616678832341ea38f5da6d5062c460ad4d22d9
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96440064"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658424"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Använd partner Center för att tillämpa avancerade specialiseringar och kontrol lera deras status
 
@@ -37,7 +37,7 @@ För att få åtkomst till det här avsnittet måste du ha rollen **MPN-konto ad
 
 ### <a name="follow-these-steps-to-access-this-area"></a>Följ dessa steg för att komma åt det här avsnittet:
 
-1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
+1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
 
 2. Välj avsnittet **MPN** i menyn Partner Center följt av **adv. specialisering**. Menyn expanderar för att visa alla avancerade specialiseringar som är tillgängliga för dig.
 
@@ -60,20 +60,21 @@ Båda uppgifterna kan utföras i Partner Center.
 
 Avancerade specialiseringar som kräver en granskning med en tredje parts revisor är:
 
-- Migrering av informations lager till Microsoft Azure
+- Analys på Microsoft Azure
+- Migrering av informationslager till Microsoft Azure
 - Kubernetes på Microsoft Azure
-- Linux och migrering av databas med öppen källkod till Microsoft Azure
-- Microsoft Windows Virtual Desktop
-- Modernisering för webb program som ska Microsoft Azure
+- Migrering av Linux-databaser och databaser med öppen källkod till Microsoft Azure
+- Microsofts virtuella Windows-datorer
+- Modernisering för webbprogram till Microsoft Azure
 - Migrering av Windows Server och SQL Server till Microsoft Azure
 
 Avancerade specialiseringar som kräver kund referenser är:
 
-- Införande och ändrings hantering
-- Anrop för Microsoft Teams
+- Hantering av införande och ändring
+- Anropa Microsoft Teams
 - Möten och mötes rum för Microsoft Teams
 - SAP på Azure
-- Distribution av arbete
+- Distribution av samarbete
 - Identitets- och åtkomsthantering
 - Hotskydd
 
@@ -85,7 +86,7 @@ Förutom sina egna krav, behöver vissa avancerade specialiseringar också för 
 
 Följ sedan de här stegen för att schemalägga en granskning i Partner Center:
 
-1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
+1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
 
 2. Välj avsnittet **MPN** i menyn Partner Center följt av **adv. specialisering**. Menyn expanderar för att visa alla avancerade specialiseringar som är tillgängliga för dig.
 
@@ -104,7 +105,7 @@ Förutom sina egna krav måste du också tillhandahålla *Kund referenser* för 
 
 Följ sedan de här stegen för att tillhandahålla kund referenser i Partner Center:
 
-1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
+1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
 
 2. Välj avsnittet **MPN** i menyn Partner Center följt av **adv. specialisering**. Menyn expanderar för att visa alla avancerade specialiseringar som är tillgängliga för dig.
 
