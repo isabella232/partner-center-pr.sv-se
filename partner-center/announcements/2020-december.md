@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/21/2020
-ms.openlocfilehash: f20015fff92e200bce1d17fd6fda7b7ced618e00
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 8cb81778c352e4e173cc70177675c7ee9bac4410
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182570"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98705053"
 ---
 # <a name="december-2020-announcements"></a>Meddelanden december 2020
 
@@ -224,7 +224,7 @@ Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompat
     - Förenade Arabemiraten
     - Venezuela
 
-Partner som uppfyller kriterierna måste skicka in en kunds **juridiska identifierare** (kallas även kundens **organisations Inn**) och **telefonnummer** när nästa uppdatering eller skapar en prenumeration för kunden. Dessa partner kan också ange ett valfritt **mellan namn** för kunden.
+Partner som uppfyller kriterierna måste skicka in en kunds **juridiska identifierare** (kallas även kundens **organisations Inn**) och **telefonnummer** när nästa uppdatering eller skapar en prenumeration för kunden. Dessa partner kan också ange ett **mellannamn** för kunden (valfritt).
 
 Partner som gör affärer med nya eller befintliga kunder i följande länder har redan publicerats med en tidigare version i november 2020.
 
@@ -280,7 +280,7 @@ Följande sker också på samma datum:
 
 - Pris listan för beständig program vara för CSP kommer att publiceras om i Partner Center. Den finns i avsnittet **program vara** på sidan [Sälj > priser för pris &](https://partnercenter.microsoft.com/pcv/sales) , som innehåller ytterligare produkter och geografiska områden. Fullständig information finns [här](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
 
-- Kapaciteten för att uppfylla program-och licens nyckel för partner Center kommer att tas bort – se [meddelande](./2020-september.md#17) -och partners använder Microsoft 365 administrations Center exklusivt för detta ändamål. Detta säkerställer den säkraste och effektiva upplevelsen för kunderna. Läs mer om Microsoft 365 administrations Center-programvara genom att granska [översikten](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [vanliga aktiviteter](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)och funktionerna för att [uppfylla licens](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)kraven.
+- Kapaciteten för att uppfylla program-och licens nyckel för partner Center kommer att tas ur bruk – se [meddelande](./2020-september.md#17) – och partner kommer att peka kunderna att använda Microsoft 365 administrations Center exklusivt för detta ändamål. Detta säkerställer den säkraste och effektiva upplevelsen för kunderna. Läs mer om Microsoft 365 administrations Center-programvara genom att granska [översikten](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [vanliga aktiviteter](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)och funktionerna för att [uppfylla licens](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)kraven.
 
 ### <a name="perpetual-software-in-csp"></a>Beständig program vara i CSP
 

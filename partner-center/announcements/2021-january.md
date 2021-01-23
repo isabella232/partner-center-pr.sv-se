@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/20/2021
-ms.openlocfilehash: 02b1e93c84065b6223ffc06cf36ddfec757f9a6a
-ms.sourcegitcommit: 37a18fb999bfc713b4fe514d082c63fe58ef9236
+ms.openlocfilehash: b31191aa5d6f6a09b3f5708044df17f5efe69d7a
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 01/22/2021
-ms.locfileid: "98685930"
+ms.locfileid: "98705036"
 ---
 # <a name="january-2021-announcements"></a>Meddelanden januari 2021
 
@@ -126,8 +126,7 @@ Alla CSP-partner
 
 Som ni [presenterade](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) idag är vi glada att informera dig om att kommersiella program varu licenser nu är allmänt tillgängliga för alla CSP-partner att sälja. Pris listan för listad program vara för partner Center CSP har återpublicerats och innehåller nu ytterligare produkter och geografiska områden.
 
-Tänk också på att från och med idag har kapaciteten för partner Center-program och licens nyckel upphört att gälla och att partners och kunder bör använda Microsoft 365 administrations Center för detta ändamål.
-Mer information och nästa steg hittar du nedan.
+Tänk också på att från och med idag har kapaciteten för partner Center-program och licens nyckel upphört att gälla och att prenumerations partners måste peka kunderna Microsoft 365 administrations centret för detta ändamål. Mer information och nästa steg hittar du nedan.
 
 ### <a name="next-steps"></a>Nästa steg
 

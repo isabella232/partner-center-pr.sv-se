@@ -9,18 +9,18 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/30/2020
-ms.openlocfilehash: ee876a479834b3538d2c0f8cf447a07fa2a59394
-ms.sourcegitcommit: 13d8e977f48448a7018747b39ec6eb3eeae123bc
+ms.openlocfilehash: 65f0d6a25811928a3639dc2ac6bacae31293e58f
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "94878808"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98705019"
 ---
 # <a name="september-2020-announcements"></a>Meddelanden september 2020
 
 Den här sidan innehåller information om Microsoft Partner Center-meddelanden för september 2020.
 
-2020-meddelanden: [februari](2020-february.md)  |  [mars](2020-march.md)  |  [april](2020-april.md)som den  |  [May](2020-may.md)  |  [juni](2020-june.md)  |  [juli](2020-july.md)  |  [August](2020-august.md) | September
+2020-meddelanden: [februari](2020-february.md)  |  [mars](2020-march.md)  |  [april](2020-april.md)som den  |  [](2020-may.md)  |  [juni](2020-june.md)  |  [juli](2020-july.md)  |  [](2020-august.md) | September
 
 ________________
 ## <a name="partner-center-software-license-key-and-download-fulfillment-notice"></a><a name="17"></a>Partner Center licens nyckel för program vara och hämtnings meddelande
@@ -36,7 +36,7 @@ Alla leverantörer av moln lösnings partner (CSP) som agerar för program varu 
 
 ### <a name="details"></a>Information
 
-Idag-partner kan använda antingen Partner Center eller Microsoft 365 administrations Center för hämtning av program vara och licens nyckel för CSP-programordningar. Från och med **19 januari 2021** kommer Partner Center-program och licens nyckel att uppfyllas, och partner kommer att använda **Microsoft 365 administrations Center** exklusivt för detta ändamål. Sidan kund program vara i Partner Center kommer att innehålla en "djup länk" till Microsoft 365 administrations Center där du kan hämta kund licenser och hämtnings bara filer. Detta säkerställer den säkraste och effektiva upplevelsen för kunderna.
+Idag-partner kan använda antingen Partner Center eller Microsoft 365 administrations Center för hämtning av program vara och licens nyckel för CSP-programordningar. Från och med **19 januari 2021** kommer Partner Center-program och licens nyckel att uppfyllas, och partner kommer att peka kunderna att använda **Microsoft 365 administrations Center** exklusivt för detta ändamål. Sidan kund program vara i Partner Center kommer att innehålla en "djup länk" till Microsoft 365 administrations Center där du kan peka kunder för att hämta kund licenser och program varu nedladdningar. Detta säkerställer den säkraste och effektiva upplevelsen för kunderna.
 
 Program licens nycklar och nedladdnings länkar är värdefulla och har sökts efter efter intellektuell ägande rätt. Om de läcker ut kan de snabbt bli uttömda sina aktiverings gränser och orsaka en negativ kund-och partner upplevelse. Därför är det viktigt att partners använder den säkraste tekniken och bästa praxis för att skydda dessa värdefulla till gångar och skydda sina kunder.
 
