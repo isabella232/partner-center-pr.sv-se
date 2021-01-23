@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/20/2021
-ms.openlocfilehash: b31191aa5d6f6a09b3f5708044df17f5efe69d7a
-ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.openlocfilehash: 2716c4724528714cdc64a6a36ae85bee3cd92712
+ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98705036"
+ms.lasthandoff: 01/23/2021
+ms.locfileid: "98717836"
 ---
 # <a name="january-2021-announcements"></a>Meddelanden januari 2021
 
@@ -23,6 +23,38 @@ Den här sidan innehåller information om Microsoft Partner Center-meddelanden f
 2021-meddelanden: januari
 
 2020-meddelanden: [maj](2020-may.md)  |  [](2020-june.md)  |  [juli](2020-july.md)  |  [augusti](2020-august.md)  |  [september](2020-september.md)  |  [](2020-October.md)  |  [](2020-november.md)  |  [](2020-december.md)  
+
+________________
+## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="13"></a> Gransknings logg ändringar i Partner Center innehåller två nya åtgärds typer för DAP
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-01-25
+- Funktioner
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Alla CSP-partner
+
+### <a name="details"></a>Information
+
+Som ni presenterade idag är vi glada att informera dig om att vi har lanserat två nya åtgärds typer i aktivitets loggarna i partner centret för att ge insyn till partner när kunden har godkänt eller tagit bort de delegerade administratörs relationerna.
+
+Nedan visas de nya åtgärds typerna:
+
+"operationType": "dap_admin_relationship_terminated"
+
+"operationType": "dap_admin_relationship_approved",
+
+### <a name="next-steps"></a>Nästa steg
+
+- Använd de nya åtgärds typerna för att spåra händelser när DAP har godkänts av kunden och avslut ATS av kunden.  
+- [Hämta en post över partner Center Activity – app Developer för partner Center | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
+- [Gransknings resurser – app-utvecklare för partner Center | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/auditing-resources)
+
+### <a name="questions"></a>Har du några frågor?
+
+Om du behöver fler frågor kontrollerar du dina relevanta CSP-communities.
 
 ________________
 ## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="12"></a> Ändringar i Azures erbjudande tillgänglighet i CSP som är relaterade till den nya Commerce-upplevelsen i CSP för Azure
@@ -130,7 +162,7 @@ Tänk också på att från och med idag har kapaciteten för partner Center-prog
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Hämta listan med **program varu** pris med kryptografiprovider i **program varu** avsnittet på sidan med pris information för Partner Center på [pris &s erbjudande](https://partnercenter.microsoft.com/en-us/pcv/sales) . Du hittar en lista över de nyligen tillagda produkterna och geografierna [här](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
+- Hämta listan med **program varu** pris med kryptografiprovider i **program varu** avsnittet på sidan med pris information för Partner Center på [pris &s erbjudande](https://partnercenter.microsoft.com/pcv/sales) . Du hittar en lista över de nyligen tillagda produkterna och geografierna [här](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
 - Granska [Microsoft 365 administrations Center beständig program vara och produkt licens nycklar Ladda ned instruktions artiklar](https://go.microsoft.com/fwlink/p/?linkid=2152525) och dela med dina kunder när de är redo att ladda ned sina program och licens nycklar.
 - Granska den tidsständiga [program varan i Cloud solution providers program](https://partner.microsoft.com/resources/collection/software-in-csp#/) readiness material. Använd den här [beredskaps kartan](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) för att snabbt hitta rätt information för din roll.
 
@@ -516,7 +548,7 @@ Microsoft presenterar kommande nya Dynamics 365-erbjudanden som kommer att lanse
 
 Den 2021 1 februari kommer Microsoft att skapa ett nytt erbjudande för "ytterligare svar" med svars rättigheten 1 – K för att ersätta det befintliga erbjudandet med 2-K undersöknings svar, slutet av försäljning som kommer att vara den 1 februari 2021.
 
-Se fliken "Customer Voice addl-svar" i [Excel-dokumentet Dynamics CSP Offers-February 2021](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) för SKU-information. Mer information finns på [Start sidan för Microsoft Dynamics 365 Customer Voice](https://dynamics.microsoft.com/en-us/customer-voice/overview/) .
+Se fliken "Customer Voice addl-svar" i [Excel-dokumentet Dynamics CSP Offers-February 2021](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) för SKU-information. Mer information finns på [Start sidan för Microsoft Dynamics 365 Customer Voice](https://dynamics.microsoft.com/customer-voice/overview/) .
 
 **Dynamics 365 kund tjänst insikter om livs längd**
 

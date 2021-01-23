@@ -110,6 +110,9 @@
     - name: Microsoft-partneravtal – molnlösningsleverantörer
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
+    - name: Hur indirekta leverantörer kan hjälpa sina åter försäljare att anta MPA
+      href: mpa-indirect-provider-faq.md
+      displayName: 'csp, mpa, indirect, provider'
     - name: Krav för CSP-direktpartner
       href: direct-partner-new-requirements.md
       displayName: 'indirect, reseller, csp'

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 83d2abd4c799a9776087efc4fb4f5e755ecbadad
-ms.sourcegitcommit: 37a18fb999bfc713b4fe514d082c63fe58ef9236
+ms.openlocfilehash: 205f882cccb2375a7ad2681556103e39b9a88185
+ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98685913"
+ms.lasthandoff: 01/23/2021
+ms.locfileid: "98717853"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -22,6 +22,7 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 
 | **Kategori** | **Meddelanden januari 2021** | **Meddelande** |
 |---------|:---------|:---------|
+|Funktioner|[Gransknings logg ändringar i Partner Center innehåller två nya åtgärds typer för DAP](2021-january.md#13)|25 januari|
 |Funktioner|[Ändringar i Azures erbjudande tillgänglighet i CSP som är relaterade till den nya Commerce-upplevelsen i CSP för Azure](2021-january.md#12)|21 januari|
 |Utveckla verksamheten|[Evig programvara finns nu tillgänglig i Molnlösningsleverantör-programmet ](2021-january.md#11)|19 januari|
 |Utveckla verksamheten|[Påminnelse: Introduktion till API-begränsning till partner som anropar API:er för Partnercenter](2021-january.md#10)|19 januari|
