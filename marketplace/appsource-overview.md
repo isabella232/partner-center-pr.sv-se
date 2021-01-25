@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: b1eb9eeed676cc07b042659dffd77d04ebd50326
-ms.sourcegitcommit: 4e8e5a18e6e64892761dadcf182e179a128dcbc7
+ms.openlocfilehash: 5c89ef94977882b72563763744c6437c6c7f368a
+ms.sourcegitcommit: 79e45aa581ad7785e2417660ed6c73689988f58b
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98166706"
+ms.lasthandoff: 01/25/2021
+ms.locfileid: "98759872"
 ---
 # <a name="what-is-microsoft-appsource"></a>Vad är Microsoft AppSource?
 
@@ -46,7 +46,7 @@ Varje produkt som är tillgänglig i AppSource har certifierats enligt vissa kri
 
 Program varu leverantören definierar pris, slut användar licens avtal och sekretess principer. Varje erbjudande på AppSource innehåller länkar till utgivarens licens avtal och sekretess policy. Att visa och bekräfta dessa avtal är en del av inköps flödet. Mer information finns i [juridiska avtal](legal-contracts.md).
 
-## <a name="discover-saas-and-m365-integrated-apps"></a>Identifiera SaaS-och M365-integrerade appar
+## <a name="discover-saas-and-microsoft-365-integrated-apps"></a>Identifiera SaaS och Microsoft 365 integrerade appar
 
 Våra partner kan länka mellan ett SaaS-program och dess motsvarande tillägg för Microsoft 365. På så sätt kan du hämta och använda tilläggen från vissa Microsoft 365 tjänster eller produkter när du får en SaaS-app som är länkad till tillägg.
 
