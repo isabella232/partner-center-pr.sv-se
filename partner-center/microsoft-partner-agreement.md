@@ -1,20 +1,20 @@
 ---
 title: Microsoft partner Agreement (MPA) för CSP
 ms.topic: how-to
-ms.date: 12/09/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Läs om krav för Microsoft CSP-partner för att signera och verifiera detta enhetliga, digitalt accepterade Microsoft partner Agreement (MPA).
-author: BillLinzbach
-ms.author: BillLi
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: c557e517f46be09a9f903273d8bec37ce5ec0d04
-ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
+ms.openlocfilehash: 68d7bfa23a03d46afe44475023c91109f2f1cfa6
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "98105519"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773485"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Lär dig mer om Microsoft partner Agreement (MPA) för CSP-programpartner
 
@@ -68,6 +68,20 @@ Om du vill fortsätta delta i CSP-programmet måste du logga Microsoft partner A
 
 Kom ihåg att acceptera begäran om CSP-relation med den indirekta providern.
 
+## <a name="sign-the-mpa"></a>Signera MPA
+
+1. Logga in på Partner Center med ditt konto för indirekt åter försäljare av CSP. Du måste vara global administratör.
+1. Gå till **[översikts](https://partner.microsoft.com/pcv/dashboard/overview)** sidan för CSP.  Om du inte ser **acceptera och fortsätta** eller den gröna banderollen som visar att MPA är signerat har du inte rätt roll för att logga in MPa. Kontakta din globala administratör för att signera MPA.
+
+1. Om du vill visa och hämta **Microsoft partner Agreement** innan du signerar det klickar du på länken Microsoft partner Agreement (se nedan).
+
+:::image type="content" source="images/agreement-three.png" alt-text="Ny licens plats för MPA":::
+
+>[!NOTE]
+>Om du inte ser länken för **Microsoft partner Agreement** , kontrollerar du din roll i Partner Center. Endast globala administratörer på CSP-klienten kan visa och signera MPA i Partner Center. Om du vill kontrol lera din roll går du till **användar hantering** och kontrollerar att det inloggade kontot är markerat som **Global administratör**. Om inte, kan det här kontot inte användas för att signera MPA. Du kan söka efter globala administratörer i företaget på sidan användar hantering.
+
+:::image type="content" source="images/user-management-clean.png" alt-text="Så här hittar du din roll":::
+
 ## <a name="verify-that-you-have-signed-the-mpa"></a>Kontrol lera att du har signerat MPA
 
 För att se om du har signerat MPA:
@@ -75,17 +89,17 @@ För att se om du har signerat MPA:
  Som global administratör för ditt företag går du till din [CSP-översikt](https://partner.microsoft.com/pcv/dashboard/overview) och kontrollerar om du vill se den gröna banderollen som meddelar dig att du har accepterat MPa.
 
  
-:::image type="content" source="images/mpagreen.png" alt-text="Grön banderoll som visar MPA-godkännande":::
+:::image type="content" source="images/banner-boxed.png" alt-text="Grön banderoll som visar MPA-godkännande":::
 
 >[!NOTE]
 >Endast den globala administratören i företaget kan visa och signera MPA. Om du inte är den globala administratören måste du be din globala administratör att verifiera MPA.
 
 Du kan också se om du har undertecknat avtalet genom att välja **avtal** från **konto inställningar**.
 
-:::image type="content" source="images/agreements/agreements.png" alt-text="Indikerar att MPA är signerat":::
+:::image type="content" source="images/agreement-new.png" alt-text="Indikerar att MPA är signerat":::
 
 
-## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>Hämta steg-för-steg-guiden som passar för var du befinner dig i processen
+## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process"></a>Hämta steg-för-steg-guiden som passar för var du befinner dig i processen för MPA-signering
 
 1. Om du migrerar ditt MPN-konto från PMC till Partnercenter: [Migrera från PMC till Partnercenter och godkänn Microsoft-partneravtalet](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 

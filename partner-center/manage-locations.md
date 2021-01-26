@@ -1,7 +1,7 @@
 ---
 title: Hantera platser i ditt partner konto
 ms.topic: how-to
-ms.date: 11/23/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Lär dig hur du lägger till en ny plats och hur plats MPN ID används i stimulans program, CSP-verksamhet, prenumerationer och andra transaktioner.
@@ -9,18 +9,15 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 03c4fb5a4adeb49602fe3736971e140ac6da6f4f
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 38ea8a451f51d80998643e2a023420ea3efaa6ba
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514810"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773437"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Hantera dina MPN-konto platser och Lägg till en ny plats
 
-**Gäller för**
-
-- Partnercenter
 
 **Lämpliga roller**
 
@@ -38,7 +35,7 @@ Contoso har sitt globala partner konto (PGA) i Storbritannien. Detta är deras r
 
 :::image type="content" source="images/locations/locations1.png" alt-text="Struktur för MPN-platser":::
 
-## <a name="prerequisites-in-order-to-add-a-new-location-for-a-csp-business"></a>Krav för att lägga till en ny plats för en CSP-verksamhet
+## <a name="prerequisites-in-order-to-add-a-new-account-location-for-a-csp-business"></a>Krav för att lägga till en ny konto plats för en CSP-verksamhet
 
 För att lägga till en ny KRYPTOGRAFIPROVIDERs affärs plats finns det flera krav:
 
