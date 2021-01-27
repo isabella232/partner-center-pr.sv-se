@@ -1,7 +1,7 @@
 ---
 title: Indikatorer för partner bidrag – SMMCS
 ms.topic: article
-ms.date: 01/13/2021
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lär dig mer om partner bidrags indikatorerna (PCI)-partner måste mötas innan de kan uppnå en liten och Midmarket kompetens för moln lösningar.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cbde581a5a2d0b79b92be54abfba4920b53cbba4
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: e7fc9961c74d11e3bb36332d0cfff5ea4f9378be
+ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204150"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98861435"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Använd samarbets indikatorer för partner för att uppnå kompetensen för små och Midmarket moln lösningar
 
@@ -157,11 +157,10 @@ Netto nya intäkter är en [prestanda indikator](partner-contribution-indicators
 - Netto nya intäkter definieras som netto nya fakturerade intäkter i alla försäljnings kanaler för att kvalificera Dynamics 365-produkter.
 - Netto nya intäkter summeras över en efterföljande 12-månaders period med maximalt antal tillåtna 10 punkter.
 - Poäng för nya netto intäkter beräknas som fakturor minus krediter och sammanställs över 12 månader.
-- Netto nya intäkter beräknas utifrån följande och kvalificerar produkter som följer antingen kund åtagandets sökväg eller ekonomi-och drift Sök väg:
+- Netto nya intäkter beräknas utifrån valfri kombination av följande, kvalificerings produkter:
   - Dynamics 365 kund engagemang – kvalificerings produkter omfattar: försäljning, marknadsföring, kund tjänst, fält tjänst, Project Server, plan 1, automation, marknadsföring, Microsoft Relations försäljning
-  - Finans-och åtgärds kvalificerings produkter omfattar: Business Central, kapacitet och lagring, ekonomi och verksamhet (inklusive bedrägeri skydd, åtgärder, detalj handel, HR, plan 2), Mixed verklighet, grupp medlem
-  - Dynamics 365 Business Central
-
+  - Finans-och åtgärds kvalificerings produkter omfattar: Dynamics 365 Business Central, kapacitet och lagring, ekonomi och drift (inklusive bedrägeri skydd, åtgärder, detalj handel, HR, plan 2), Mixed verklighet, grupp medlem
+  
 - Försäljnings kanaler innefattar Enterprise-avtal (EA), Cloud Solution Provider (CSP) och Web Direct.
 - Endast för Enterprise-avtal intäkter: denna intäkt omfattar intäkter från det första året i avtalet. Återkommande intäkter från det andra och tredje året ingår inte.
 
