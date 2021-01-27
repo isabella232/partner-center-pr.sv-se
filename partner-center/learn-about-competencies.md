@@ -1,7 +1,7 @@
 ---
 title: Microsoft Gold, silver kompetens krav
 ms.topic: article
-ms.date: 11/03/2020
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lär dig hur du får en bättre kunskap om Microsofts partner status och locka nya kunder genom att uppfylla kompetens krav för att få guld-och silver medlemskaps nivåer.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51a0e1d1e726444597d99a55e8c62b6788549073
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 10d2cbf848cb2c9a5d9aafb98f1ab6869f417182
+ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691341"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98912547"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Särskilja din verksamhet genom att uppnå Microsoft-kompetenser
 
@@ -38,7 +38,7 @@ Att uppnå en kompetens kan också vara en post för ytterligare förmåner och 
 
 Du kan se krav och vad företaget har uppnått från kompetens avsnittet på instrument panelen i partner centret.
 
-1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
+1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
 
 2. Under avsnittet MPN på menyn i Partnercenter väljer du **Kompetenser**.
 
@@ -68,6 +68,8 @@ Mer information om vad som behövs för att uppnå silver-och guld-kompetens fin
 - Lär dig mer om vissa [Go-to-Marketing-resurser](mpn-learn-about-go-to-market-benefits.md) som ingår i kompetensen.
 
 - Lär dig om [fakturor och skatter för kompetenser](mpn-view-print-maps-invoice.md).
+
+- Lär dig hur du [betalar avgiften](mpn-pay-fee-silver-gold-competency.md) som är kopplad till ett silver-eller guld kompetens medlemskap.
 
 - Visa en rapport om Partner Center Insights- [kompetenser](pci-competencies-report.md) som visar aktuell status för din kompetens.
 
