@@ -51,6 +51,9 @@
         - name: Hitta dina MPN-förmåner
           href: mpn-find-benefits.md
           displayName: mpn
+        - name: Betala kompetens avgifter
+          href: mpn-pay-fee-silver-gold-competency.md
+          displayName: mpn
     - name: Kompetenser
       items:
         - name: Lär dig mer om kompetenser
