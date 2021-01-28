@@ -1,7 +1,7 @@
 ---
 title: Arbeta med indirekta leverantörer i CSP-programmet
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 01/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lär dig hur indirekta åter försäljare kan arbeta med Microsofts indirekta leverantörer (eller distributörer) för att få hjälp med kund support och fakturering.
@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: 7717f51504563ebb0193f693728229252827d7e3
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: a2fc1fee31a72364179deee5d18f9af3c5b626fc
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773452"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924980"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Lär dig att samar beta med indirekta leverantörer i Cloud Solution Provider-programmet
 
@@ -76,30 +76,39 @@ Från och med oktober 2020 registreras alla Microsoft-partners som är nya för 
    > [!IMPORTANT]  
    > För att säkerställa ditt företags säkerhet och sekretess skickar vi din primära kontakt för att verifiera att (1) han eller hon registrerat sig för ett partner Center-konto och (2) att den här e-postadressen tillhör ditt företag. När den primära kontakten har verifierat sin e-postadress kommer vi att fortsätta med vår granskning av den information som du har angett. Vi kommer att e-posta status uppdateringar till den primära kontakten.
 
-5. Koppla ditt MPN-ID till din Azure ID-klient.
+5. Koppla ditt MPN-ID till ditt CSP-konto. 
+  Ditt CSP-konto och tillhör ande MPN-ID måste finnas i samma land.
 
-    1. Logga in med ditt MPN-konto. Gå till **Inställningar**  ->  **konto inställningar**  ->  **organisations profil**  ->  **identifierare**. Visa dina MPN-ID: n och välj det land som är detsamma som för ditt CSP-konto. Med andra ord måste ditt CSP-konto och tillhör ande MPN-ID finnas i samma land/region.
+   a. Logga in på Partner Center med dina "MPN"-konto uppgifter (dina MPN-autentiseringsuppgifter kan skilja sig från dina autentiseringsuppgifter för CSP).
+   
+   b. Gå till **Inställningar**  ->  **konto inställningar**  ->  **organisations profil**  ->  **identifierare**.
+ 
+    c. Hitta MPN-ID: t med typen "location" som matchar landet för det här CSP-kontot. 
+
+    d. Om du inte hittar platsens MPN-ID som matchar det CSP-konto som du vill använda, kan du lägga till en ny plats som skapar ett nytt MPN-ID. Läs mer, [Hantera platser](manage-locations.md).
+
+    e. Du kan skjuta upp det här steget för tillfället, men du kan inte signera Microsoft partner Agreement (MPA) eller Transact i CSP förrän du är klar med att associera ditt MPN-ID med ditt CSP-konto.
     
      
  > [!IMPORTANT]  
-   > Välj det MPN-ID som finns i samma land/region som ditt CSP-konto.
+   > Välj det MPN-ID som finns i samma land som ditt CSP-konto.
 
-6. När ditt partner Center-konto är klart att använda kontrollerar du att du har lagts till i administratörs Agent gruppen. För att slutföra konfigurationen av ditt konto, inklusive att lägga till andra användare, måste du ha administratörs agent behörighet. Följ dessa steg om du vill visa eller uppdatera dina behörigheter:
+6. När Microsoft har slutfört registreringen av registreringen, vilket tar 3-5 arbets dagar, måste du logga Microsoft partner Agreement i [översikten över instrument panelen i Partner Center](https://partner.microsoft.com/pcv/dashboard/overview) med hjälp av global administratörs behörighet. Om du vill visa och hämta **Microsoft partner Agreement** innan du signerar det klickar du på länken Microsoft partner Agreement (se nedan).  Om ditt konto har fastnat i verifiering efter fem arbets dagar kan [du läsa konto verifierings processen](verification-responses.md).
+
+
+:::image type="content" source="images/agreement-three.png" alt-text="Ny licens plats för MPA":::
+
+ 
+7. Bekräfta att du har undertecknat Microsoft partner Agreement i avsnittet **program information** i partner profilen. Dessutom visas ett meddelande om aviseringar på sidan CSP-översikt. 
+
+:::image type="content" source="images/mpagreen.png" alt-text="Grön godtagen banderoll":::
+
+
+8. När ditt partner Center-konto är klart att använda kontrollerar du att du har lagts till i administratörs Agent gruppen. För att slutföra konfigurationen av ditt konto, inklusive att lägga till andra användare, måste du ha administratörs agent behörighet. Följ dessa steg om du vill visa eller uppdatera dina behörigheter:
 
    1. Välj ikonen **Inställningar** på instrument panelen för partner Center och välj sedan **användar hantering** under **konto inställningar**.
 
    2. Välj ditt namn i listan med användare. Välj sedan **admin agent** om den inte redan är vald. Välj **Uppdatera**.
-
-## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>Alla indirekta åter försäljare måste signera Microsofts partner avtal
-
-1.  Om du ännu inte har flyttat till Partner Center från partner Membership Center gör du det nu. Om du vill ha hjälp med att flytta till Partner Center kan du läsa [guiden för att migrera från PMC till Partner Center](guide-to-migration.md). 
-
-2.  Om du har ett konto för partner Center-medlemskap (MPN-ID) behöver du fortfarande officiellt registrera dig i Cloud Solution Provider-programmet. Du kontrollerar medlemskapets status genom att gå till din [**partner profil**](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) och bekräfta konto typen. [Registrera sedan i CSP som en indirekt åter försäljare](enrolling-in-the-csp-program.md). När du har registrerat dig som en indirekt åter försäljare [accepterar du begäran om CSP-relation från den indirekta providern](indirect-reseller-tasks-in-partner-center.md).
-
-3.  Om du redan har registrerat dig i Partner Center som en indirekt åter försäljare accepterar du Microsofts partner avtal i [Översikt över instrument panelen för partner Center](https://partner.microsoft.com/pcv/dashboard/overview) med hjälp av globala administratörsautentiseringsuppgifter. Bekräfta att du har undertecknat Microsoft partner Agreement i avsnittet **program information** i partner profilen. Dessutom visas ett meddelande om aviseringar på sidan CSP-översikt. 
-
-:::image type="content" source="images/mpagreen.png" alt-text="Grön godtagen banderoll":::
-
 
 ## <a name="connect-with-an-indirect-provider"></a>Ansluta till en indirekt leverantör
 
@@ -145,3 +154,4 @@ Din juridiska företags plats som en indirekt åter försäljare av CSP avgör v
 - [Läs mer om verifierings processen](verification-responses.md)
 
 - [Se krav för direkt fakturerings partner](direct-partner-new-requirements.md)
+- [Microsoft-partneravtal](microsoft-partner-agreement.md)

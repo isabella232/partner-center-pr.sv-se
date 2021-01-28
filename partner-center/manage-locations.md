@@ -1,7 +1,7 @@
 ---
 title: Hantera platser i ditt partner konto
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Lär dig hur du lägger till en ny plats och hur plats MPN ID används i stimulans program, CSP-verksamhet, prenumerationer och andra transaktioner.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38ea8a451f51d80998643e2a023420ea3efaa6ba
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: e39f264485e71c5a96916c224c0ea1a85c17a55b
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773437"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98925022"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Hantera dina MPN-konto platser och Lägg till en ny plats
 
@@ -35,45 +35,51 @@ Contoso har sitt globala partner konto (PGA) i Storbritannien. Detta är deras r
 
 :::image type="content" source="images/locations/locations1.png" alt-text="Struktur för MPN-platser":::
 
-## <a name="prerequisites-in-order-to-add-a-new-account-location-for-a-csp-business"></a>Krav för att lägga till en ny konto plats för en CSP-verksamhet
+## <a name="prerequisites-in-order-to-add-a-new-account-for-a-csp-business"></a>Krav för att lägga till ett nytt konto för en CSP-verksamhet
 
-För att lägga till en ny KRYPTOGRAFIPROVIDERs affärs plats finns det flera krav:
+Om du vill lägga till ett nytt CSP-affärskonto börjar du med att se till att du uppfyller kraven.
 
-1. Du måste ha ett plats MPN-ID i det land där du vill göra affärer.
-
-1. Du behöver en ny Azure AD-klient i [affärs området](regional-authorization-overview.md) som inte redan har registrerats i CSP. Skapa det när du registrerar i CSP.
- 
-3. Använd den nya AAD-klienten för att registrera i CSP-programmet i regionen.
-Ange juridisk information om företaget, inklusive juridisk företags namn, adress, primär kontakt information. Det här kontot kommer att genomgå verifiering, så se till att lägga till giltig information.
+1. Du måste ha ett plats MPN-ID i det land där du vill göra CSP-verksamhet. Om du vill skapa en ny MPN plats läser du "Lägg till en MPN plats" nedan.
+  
+1. Om du vill skapa en ny CSP indirekt åter försäljares registrering, Läs [arbeta med indirekta leverantörer](indirect-reseller-tasks-in-partner-center.md#get-started) 
 
 >[!NOTE] 
- >Kom ihåg att logga in med de **nya** autentiseringsuppgifterna för den **nya** Azure AD-klienten. Använd inte dina befintliga autentiseringsuppgifter eftersom Partner Center känner igen att du redan har ett konto.
+ >Kom ihåg att logga in med de **nya** autentiseringsuppgifterna för det **nya** CSP-kontot. Använd inte dina befintliga autentiseringsuppgifter eftersom Partner Center känner igen att du redan har ett konto.
 
-4. Godkänn Microsoft partner Agreement och aktivera kontot.
+2. Godkänn Microsoft partner Agreement och aktivera kontot.
 
 ## <a name="add-an-mpn-location"></a>Lägg till en MPN-plats
 
-1. Logga in med MPN-kontot i Partner Center. MPN-kontot ska ha global administratör eller konto administratörs behörighet. 
+1. Logga in med MPN-kontot i Partner Center. (Dina MPN-autentiseringsuppgifter kan skilja sig från dina autentiseringsuppgifter för din CSP). MPN-kontot ska ha global administratör eller konto administratörs behörighet. 
 
-1. I **inställnings ikonen** väljer du **organisations inställningarna**.
+1. Från **inställnings ikonen** väljer du **konto inställningarna** och väljer sedan **organisations profil**.
 
-2. Välj **juridiskt** och välj sedan **platser.**
+2. Välj **juridiskt** och sedan på fliken **partner** väljer du **företags platser** och klickar på **Lägg till en plats.**
 
-3. Välj **Lägg till en plats** och Infoga adress information för den plats som du vill lägga till i företaget samt en primär kontakt för platsen.
+3. Ange nödvändig information, inklusive företags namn, adress och kontakt för den plats som du vill lägga till i företaget.
+ 
+1. Klicka på **Lägg till plats**. Då skapas ett nytt MPN-ID för den nya platsen som du kan använda för CSP-transaktioner och-incitament.
+
+:::image type="content" source="images/legal-biz.png" alt-text="Lägg till en ny juridisk verksamhet":::
 
 > [!NOTE]
 > Det går inte att ta bort en plats som har lagts till i Partner Center. Du kommer att se **MPN** på den vänstra menyn i Partner Center om du har använt rätt MPN-ID för att logga in.
 
-## <a name="change-global-partner-account-location"></a>Ändra plats för global partner konto
+## <a name="change-country-of-partner-global-account"></a>Ändra land för globalt partner konto 
 
-1. På **[företags platser](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn)** kontrollerar du listan över platser för att se till att den plats som du vill använda som juridisk person visas. Om den inte är det lägger du till den.
+1. Logga in med MPN-kontot i Partner Center. (Dina MPN-autentiseringsuppgifter kan skilja sig från dina autentiseringsuppgifter för din CSP). MPN-kontot ska ha global administratör eller konto administratörs behörighet. 
 
-   :::image type="content" source="images/accountsettings/location1.png" alt-text="Skärm bild av sidan för konto platser i Partner Center med en lista över alla aktuella platser.":::
+2. På fliken **partner** går du till **företags platser** och kontrollerar listan över platser för att se till att den plats som du vill använda som juridisk person visas. 
+ 
+1. Om du vill lägga till en plats klickar du på **Lägg till en plats** och anger den information som krävs, till exempel företags namn, adress och primär kontakt för den plats som du vill lägga till i företaget. 
+ 
+1. Välj **ändra ditt land** bredvid List rutan **land/region** och följ stegen. 
 
-2. Välj **juridisk** information och välj sedan **Uppdatera juridisk företags profil**
-  
-3. Välj region och juridisk person och **Skicka** den.
+:::image type="content" source="images/lbp.png" alt-text="Information om juridisk företags profil, flyg ut":::
 
+5. Klicka på **Spara**.
+
+6. MPN globalt konto land kommer att ändras till det nya juridiska landet.
   
 ## <a name="next-steps"></a>Nästa steg
 

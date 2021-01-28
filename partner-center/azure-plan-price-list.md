@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02cea980626ec32d3dd60f646b1f8744130792ea
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: f11031c6071dadb427d2d5b93edd90af1a844131
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534734"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924976"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Prislista för den nya handelsupplevelsen i CSP för Azure
 
@@ -27,7 +27,7 @@ ms.locfileid: "96534734"
 - Försäljnings agent
 - Administratör för användar hantering
 
-Pris listan för den nya Azure Commerce-upplevelsen i CSP publiceras i Partner Center. Pris listan levereras dynamiskt i real tid och priserna visas endast i USD. Faktureringen görs dock i den valuta som stöds och är tillämplig på kundens valuta plats. För ytterligare information om faktureringen på kundens valuta plats, Läs [Azure plan-fakturering](azure-plan-billing.md).
+Pris listan för den nya Azure Commerce-upplevelsen i CSP publiceras i Partner Center. Pris listan levereras dynamiskt i real tid och priserna visas endast i USD. Från januari 28 2021 debiteras partners i EU/EFTA-och Storbritannien-regionen som har nya kunder och befintliga CSP-kunder som köper nya Commerce-erbjudanden för första gången vars innehavare skapades före 11 maj 2020, faktureras för dessa inköp i partner platsens valuta.  Partner som finns utanför EU/EFTA-och Storbritannien-regionen fortsätter att faktureras i partner platsens valuta. Läs [Azure plan-fakturering](azure-plan-billing.md).
 
 ## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>Se prissättning för prenumerationer under priser för Azure-prenumeration
 

@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e230cc0d8ff3afea4bf2cc7b55d3847814696af6
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 819f90ca9a8467de4a8001a1b10f8409d3fb1b81
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658441"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98925006"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Ny handelsupplevelse i CSP – Azure-fakturering 
 
@@ -36,7 +36,7 @@ Den här artikeln förklarar hur du får åtkomst till och förstår strukturen 
 
 - **Faktura betalnings villkor**: net 60 dagar.
 
-- **Faktura valuta**: partner kommer fortsätta att faktureras i kundens country's-tilldelade valuta. Om den fakturerade partnern till exempel är i Irland med kunder i Storbritannien, Norge och Tyskland får den fakturerade partnern ett GBP, NOK och faktura/rekognoseringar EUR.
+- **Faktura valuta**: från januari 28 2021, partners i EU/Efta-och Storbritannien-regionen som har nya kunder och befintliga CSP-kunder som köper nya Commerce-erbjudanden för första gången vars innehavare skapades före 11 maj 2020, debiteras för dessa inköp i partner platsens valuta. Partner som finns utanför EU/EFTA-och Storbritannien-regionen fortsätter att faktureras i partner platsens valuta.
 
 - **Partner incitament**: betalda 45 dagar från slutet av faktura månaden.
 

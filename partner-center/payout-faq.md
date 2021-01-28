@@ -1,5 +1,5 @@
 ---
-title: Vanliga frågor och svar om betalning och skatte profil
+title: Vanliga frågor och svar om utbetalningar och skatteprofiler
 description: Få svar på vanliga frågor om utbetalningar och skatte information i Partner Center. Innehåller svar om varför din vinst är annorlunda än förväntat.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/25/2020
-ms.openlocfilehash: 3b09f0a08cd974f88afe5c5708df307830491f3f
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: a1dda9c49486d9da92b7f7f5623a37739736873f
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492593"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924917"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Vanliga frågor om utbetalningar och skatter
 
@@ -128,10 +128,6 @@ Leta reda på kolumnen Skattemodell i den nedladdade transaktionshistoriken. Dä
 
 Gå till sidan **Payout Payment** (Utbetalning) och sedan till avsnittet **List of Payment** (Lista över betalningar). En länk till skatteformuläret för serviceavgifter för en betalning som har serviceavgifter/skatt.
 
-#### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Hur gör jag för att ladda ned ett källskatteformulär i PDF-format?
-
-Gå till sidan *Payout Payment* (Utbetalning) och sedan till avsnittet **List of Payment** (Lista över betalningar). En länk till ett källskatteformulär visas bredvid en betalning.
-
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Var hittar jag skatteblanketter för slutet av beskattningsåret?
 
 Gå till [profilsidan](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage) för att visa dina skatteblanketter för slutet av beskattningsåret.
@@ -170,7 +166,7 @@ Gå till sidan **Payout Payment** (Utbetalning) och sedan till avsnittet **List 
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Hur gör jag för att ladda ned ett käll skatte formulär i PDF-filen?
 
-Gå till sidan **Payout Payment** (Utbetalning) och sedan till avsnittet **List of Payment** (Lista över betalningar). En länk till ett källskatteformulär visas bredvid en betalning.
+Gå till sidan **Payout Payment** (Utbetalning) och sedan till avsnittet **List of Payment** (Lista över betalningar). En länk till ett källskatteformulär visas bredvid en betalning. Ett käll skatte formulär gäller endast valda incitaments program, inte en kommersiell marknads plats utbetalning.
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Var hittar jag skatteblanketter för slutet av beskattningsåret?
 

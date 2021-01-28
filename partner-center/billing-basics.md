@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 254543c353669166ed9971d57e6255bd589ccb7d
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: d34a264f366cc21109bb0f0ae379d34130f6f590
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570713"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924945"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Faktureringsöversikt för CSP-programpartner som arbetar i Partnercenter 
 
@@ -33,7 +33,7 @@ Den här artikeln innehåller information om fakturering och faktura för CSP-pa
 
 Så här hittar du din faktura:
 
-1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
+1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
 
 2. Från menyn Partner Center väljer du **fakturering**.
 
@@ -53,7 +53,7 @@ Fakturerings typer i Partner Center inkluderar **licensbaserade fakturerings-**,
 
 **Licens-och användnings fakturering**: du debiteras för produkt (er) i valutan för det land eller den region där du befinner dig. Du faktureras samma oavsett var kunden finns till vilken du sålde produkten/erna.
 
-**Fakturering vid ett tillfälle**: din faktura skapas i samband med kundens valuta. Det innebär att om du är en partner som kommunicerar med kunder från olika fakturerbara valutor får du en faktura för varje kund valuta typ. Läs mer om [Databasmigrering och återkommande](azure-plan-billing.md). 
+**Engångs fakturering**: från januari 28, 2021, partners i regionen EU/Efta och Storbritannien som har nya kunder och befintliga CSP-kunder som köper nya Commerce-erbjudanden för första gången vars innehavare skapades före 11 maj 2020, faktureras för dessa inköp i partner platsens valuta.  Partner som finns utanför EU/EFTA-och Storbritannien-regionen fortsätter att faktureras i partner platsens valuta. Läs mer om [Databasmigrering och återkommande](azure-plan-billing.md). 
 
 ## <a name="invoices"></a>Fakturor
 
@@ -150,15 +150,15 @@ Avgiftsbelagda tjänste priser kan ändras inom faktura cykeln.
 
 Så här visar du dina aktuella fakturerings status, fakturor och avstämnings filer:
 
-1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
+1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
 2. Välj **fakturering** på menyn till vänster och välj sedan **återkommande och engångs köp**.
-3. På sidan fakturerings status väljer du en faktura eller en avstämnings fil för att visa mer detaljerad information.
+3. På sidan för faktureringsstatus väljer du en faktura eller avstämningsfil som du vill se mer detaljerad information för.
 
 ### <a name="customer-order-history"></a>Kund order historik
 
 Så här visar du en kunds order historik:
 
-1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
+1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
 2. Välj **kunder** på menyn till vänster.
 3. På sidan **kunder** letar du reda på kunden vars order historik du vill visa. Välj nedpilen för att expandera kundens post.
 4. Välj **Visa beställningar** för att visa kundens order historik.

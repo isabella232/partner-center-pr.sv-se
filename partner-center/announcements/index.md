@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/04/2021
-ms.openlocfilehash: 205f882cccb2375a7ad2681556103e39b9a88185
-ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
+ms.date: 01/27/2021
+ms.openlocfilehash: 6001199d4da9d000f82f16f9fcf2f945c3c3e08b
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "98717853"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924923"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -22,17 +22,18 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 
 | **Kategori** | **Meddelanden januari 2021** | **Meddelande** |
 |---------|:---------|:---------|
-|Funktioner|[Gransknings logg ändringar i Partner Center innehåller två nya åtgärds typer för DAP](2021-january.md#13)|25 januari|
-|Funktioner|[Ändringar i Azures erbjudande tillgänglighet i CSP som är relaterade till den nya Commerce-upplevelsen i CSP för Azure](2021-january.md#12)|21 januari|
-|Utveckla verksamheten|[Evig programvara finns nu tillgänglig i Molnlösningsleverantör-programmet ](2021-january.md#11)|19 januari|
-|Utveckla verksamheten|[Påminnelse: Introduktion till API-begränsning till partner som anropar API:er för Partnercenter](2021-january.md#10)|19 januari|
-|Erbjudanden/marknader|[Säkerhet, efterlevnad och identitet (SCI) lanseras den 1 februari 2021](2021-january.md#9)|15 januari|
-|Funktioner|[DocuSign-migrering till Adobe Sign för partner under Microsoft-partneravtalet (MPA)](2021-january.md#8)|15 januari|
-|Erbjudanden/marknader|[Kommersiell prisuppdatering för norska kronor](2021-january.md#7)|14 januari|
-|Erbjudanden/marknader|[Kommersiell prisuppdatering för INR](2021-january.md#6)|8 januari|
-|Erbjudanden/marknader|[Uppdateringar för samtalsplan och telefonsystem för 1 februari 2021](2021-january.md#5)|8 januari|
-|Erbjudanden/marknader|[Uppdateringar för licensbaserad prislista för januari 2021](2021-january.md#4)|8 januari|
-|Modern arbetsplats|[EU-/EFTA-ändring av partnerfaktureringsvaluta för nya handelserbjudanden](2021-january.md#3)|7 januari|
+|Modern arbetsplats|[EU-/EFTA-ändring av partnerfaktureringsvaluta för nya handelserbjudanden](2021-january.md#14)|27 januari|
+|Funktioner|[Microsoft partner Agreement (MPA) – uppdatering av indirekt åter försäljare & nya frågor och svar](2021-january.md#13)|27 januari|
+|Funktioner|[Gransknings logg ändringar i Partner Center innehåller två nya åtgärds typer för DAP](2021-january.md#12)|25 januari|
+|Funktioner|[Ändringar i Azures erbjudande tillgänglighet i CSP som är relaterade till den nya Commerce-upplevelsen i CSP för Azure](2021-january.md#11)|21 januari|
+|Utveckla verksamheten|[Evig programvara finns nu tillgänglig i Molnlösningsleverantör-programmet ](2021-january.md#10)|19 januari|
+|Utveckla verksamheten|[Påminnelse: Introduktion till API-begränsning till partner som anropar API:er för Partnercenter](2021-january.md#9)|19 januari|
+|Erbjudanden/marknader|[Säkerhet, efterlevnad och identitet (SCI) lanseras den 1 februari 2021](2021-january.md#8)|15 januari|
+|Funktioner|[DocuSign-migrering till Adobe Sign för partner under Microsoft-partneravtalet (MPA)](2021-january.md#7)|15 januari|
+|Erbjudanden/marknader|[Kommersiell prisuppdatering för norska kronor](2021-january.md#6)|14 januari|
+|Erbjudanden/marknader|[Kommersiell prisuppdatering för INR](2021-january.md#5)|8 januari|
+|Erbjudanden/marknader|[Uppdateringar för samtalsplan och telefonsystem för 1 februari 2021](2021-january.md#4)|8 januari|
+|Erbjudanden/marknader|[Uppdateringar för licensbaserad prislista för januari 2021](2021-january.md#3)|8 januari|
 |Funktioner|[Utfasning och tillbakadragning av befintliga API:er för GET-och PUT-kvalificering för Educations kundvalideringsprocess i slutet av februari 2021](2021-january.md#2)|5 januari|
 |Erbjudanden/marknader|[Dynamics 365-erbjudanden i februari 2021](2021-january.md#1)|4 januari|
 | **Kategori** | **Meddelanden december 2020** | **Meddelande** |
