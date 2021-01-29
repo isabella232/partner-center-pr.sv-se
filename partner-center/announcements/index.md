@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/27/2021
-ms.openlocfilehash: 6001199d4da9d000f82f16f9fcf2f945c3c3e08b
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.date: 01/28/2021
+ms.openlocfilehash: 6e5a9f4bcc9918a78833121c22c410aac9fac79c
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924923"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042709"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -22,7 +22,8 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 
 | **Kategori** | **Meddelanden januari 2021** | **Meddelande** |
 |---------|:---------|:---------|
-|Modern arbetsplats|[EU-/EFTA-ändring av partnerfaktureringsvaluta för nya handelserbjudanden](2021-january.md#14)|27 januari|
+|Modern arbetsplats|[Fas 1 är Live: EU/EFTA & UK ändring av partner fakturerings valuta för nya Commerce-erbjudanden](2021-january.md#15)|28 januari|
+|Modern arbetsplats|[Ändringar i Molnlösningsleverantör-kunders krav för onboarding](2021-january.md#14)|28 januari|
 |Funktioner|[Microsoft partner Agreement (MPA) – uppdatering av indirekt åter försäljare & nya frågor och svar](2021-january.md#13)|27 januari|
 |Funktioner|[Gransknings logg ändringar i Partner Center innehåller två nya åtgärds typer för DAP](2021-january.md#12)|25 januari|
 |Funktioner|[Ändringar i Azures erbjudande tillgänglighet i CSP som är relaterade till den nya Commerce-upplevelsen i CSP för Azure](2021-january.md#11)|21 januari|

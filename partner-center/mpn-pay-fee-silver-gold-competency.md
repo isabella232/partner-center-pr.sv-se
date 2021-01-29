@@ -1,19 +1,19 @@
 ---
 title: Betala avgiften för en MPN-kompetens
 ms.topic: how-to
-ms.date: 01/26/2021
+ms.date: 01/28/2021
 description: Lär dig hur du betalar avgiften eller uppdatera betalnings information som är associerad med att uppnå eller förnya en eller flera silver-eller guld kompetenser.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ad807f958dd568fe098e341b80429bf517fb87d
-ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
+ms.openlocfilehash: 490cb13b99b15f9c88fdab4d7bca79d1ab018eca
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98921196"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042692"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Så här betalar du avgiften som är kopplad till en silver-eller guld kompetens
 
@@ -25,7 +25,7 @@ ms.locfileid: "98921196"
 Den här artikeln beskriver hur och när du betalar avgiften för att uppnå en silver eller guld Microsoft Partner Network kompetens. Artikeln beskriver också hur du ändrar önskad betalnings metod, hur du avbryter en order och hur du får en avgifts rabatt på 25 procent när du flyttar från en silver till guld-kompetens.
 
 > [!NOTE]
-> Mer information om fördelarna med att uppnå en silver-eller guld kompetens, vilka specifika kompetenser som är tillgängliga och deras unika krav finns i [Microsoft Partner Network kompetenser](https://partner.microsoft.com/membership/competencies). Du kan också kontrol lera Microsoft Partner Network [licens tabeller för kompetenser] för att läsa mer om fördelarna för varje tillgänglig kompetens.
+> Mer information om fördelarna med att uppnå en silver-eller guld kompetens, vilka specifika kompetenser som är tillgängliga och deras unika krav finns i [Microsoft Partner Network kompetenser](https://partner.microsoft.com/membership/competencies). Du kan också kontrol lera Microsoft Partner Network [licens tabeller för kompetenser](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) för att läsa mer om fördelarna för varje tillgänglig kompetens.
 
 ## <a name="meet-a-competencys-requirements-and-pay-the-fee"></a>Uppfylla krav på kompetens och betala avgiften
 
@@ -43,7 +43,7 @@ Annars följer du de här stegen för att betala avgiften för en silver-eller g
 
 2. Välj [medlemskaps erbjudanden](https://partner.microsoft.com/dashboard/mpn/offers) från navigerings menyn. 
 
-3. Under **erbjudanden som är tillgängliga för köp**, leta upp panelen silver medlemskap * * panel eller **guld medlemskap** som är associerad med din egen kompetens. 
+3. Under **erbjudanden som är tillgängliga för köp** letar du upp panelen för **silver medlemskap** eller **Gold-medlemskap** som är kopplad till din egen kompetens. 
 
 4. Välj alternativet **Prenumerera** längst ned till höger på panelen för det aktuella silver-eller Gold-medlemskapet.
 
@@ -54,7 +54,7 @@ Annars följer du de här stegen för att betala avgiften för en silver-eller g
 
 4. På sidan **köp information** granskar du och bekräftar dina uppgifter.
 
-   (Läs mer om hur [du uppdaterar företagets **skatte-ID-** information](https://docs.microsoft.com/partner-center/organization-tax-info) eller företagets [ **fakturerings-till-/säljs till** företagets adress](https://docs.microsoft.com/partner-center/mpn-get-action-pack).
+   (Läs mer om hur [du uppdaterar ditt företags **skatte-ID-** information](https://docs.microsoft.com/partner-center/organization-tax-info) eller företagets [ **faktura till/säljs till** företagets adress](https://docs.microsoft.com/partner-center/mpn-get-action-pack).)
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="Sidan med inköps information om medlemskapet innehåller betalnings inställningar." border="false":::
 
@@ -130,7 +130,7 @@ Om du betalar din Silver-eller guld avgifts avgift via elektronisk överföring 
 
    :::image type="content" source="images/offers/7-mpn-competency-payment-upload-proof.png" alt-text="Informations sida med fält för att överföra bevis på att visa ett valbart alternativ, ladda upp betalnings bevis för varje inköpt erbjudande." border="false":::
 
-1. Fyll i informationen för de andra fälten som är relaterade till din senaste elektroniska överförings transaktion, till exempel **betalnings datum**, * betalat till konto nummer * * och **transaktion/Ref nr.**
+1. Fyll i informationen för de andra fälten som är relaterade till din senaste elektroniska överförings transaktion, till exempel **betalnings datum**, **betalt till konto nummer** och **transaktion/Ref nr**.
 
   Ett grönt meddelande kan tyckas som visar att din begäran har slutförts.
 

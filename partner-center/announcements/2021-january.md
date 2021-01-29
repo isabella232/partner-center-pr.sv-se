@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/20/2021
-ms.openlocfilehash: 555ccc81fcce924b44d6e4da5db3e3ff4aeb87d7
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.date: 01/28/2021
+ms.openlocfilehash: 2879a129879f894da89f57dc79366d2122a4a160
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924900"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042743"
 ---
 # <a name="january-2021-announcements"></a>Meddelanden januari 2021
 
@@ -26,7 +26,7 @@ Den här sidan innehåller information om Microsoft Partner Center-meddelanden f
 
 _____________ 
 
-## <a name="phase-1-now-live-euefta--uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="14"></a> Fas 1 är Live: EU/EFTA & UK ändring av partner fakturerings valuta för nya Commerce-erbjudanden
+## <a name="phase-1-now-live-euefta--uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="15"></a> Fas 1 är Live: EU/EFTA & UK ändring av partner fakturerings valuta för nya Commerce-erbjudanden
 
 ### <a name="categories"></a>Kategorier
 
@@ -87,6 +87,74 @@ För alla frågor som rör detta meddelande kontaktar du [Support för partner C
 - 28 januari 2021: 
     -    Vi presenterar fas 1 är Live 
     -    Att klargöra att Storbritannien inte ingår i EU/EFTA är en del av [Microsofts europeiska region och marknad](https://docs.microsoft.com/partner-center/regional-authorization-overview) och kommer att påverkas
+
+
+________________
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="14"></a> Ändringar i CSP-kundernas (Cloud Solution Provider) krav för kund onboarding
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-01-28
+- Förbättrad säkerhet och efterlevnad
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+KRYPTOGRAFIPROVIDERs direkta fakturerings partner och indirekta leverantörer som har nya eller befintliga kunder i de länder som anges i nästa avsnitt.
+
+### <a name="summary"></a>Sammanfattning
+
+Som en del av vårt åtagande att hjälpa partner och kunder att köra verksamhet utifrån förtroende kommer vi att begära ytterligare kund information, från och med mars 2021.
+
+### <a name="details"></a>Information
+
+Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för kund validering för att agera kund prenumerationer i CSP-programmet. I slutet av mars 2021 kommer vi att lansera förbättringar för API för API och användar gränssnitt (UI) som påverkar partner som uppfyller båda följande kriterier:
+
+1. Partnern har en direkt fakturerings relation med Microsoft (vilket innebär att partnern antingen är en direkt fakturerings partner eller en indirekt Provider).
+2. Partnern gör affärer med nya eller befintliga kunder i följande länder:
+    - Thailand
+    - Vietnam
+    - Turkiet
+    - Polen
+    - Sydafrika
+    - Indien
+    - Brasilien
+    - Irak
+    - Myanmar
+    - Sydsudan
+    - Saudiarabien
+    - Förenade Arabemiraten
+    - Venezuela
+
+Partner som uppfyller kriterierna måste skicka in en kunds **juridiska identifierare** (kallas även kundens **organisations Inn**) och **telefonnummer** när de registrerar nya kunder eller ändrar befintlig kund information. Dessa partner kan också ange ett **mellannamn** för kunden (valfritt).
+
+Partner som gör affärer med nya eller befintliga kunder i följande länder har redan publicerats med en tidigare version i november 2020.
+
+- Armenien
+- Azerbajdzjan
+- Vitryssland
+- Ungern
+- Kazakstan
+- Kirgizistan
+- Moldavien
+- Ryssland
+- Tadzjikistan
+- Ukraina
+- Uzbekistan
+
+Partner med kunder i resten av världen kommer att ha möjlighet i slutet av mars 2021 att ange **juridisk identifierare**, **telefonnummer** och **mellan namn** för kunder som valfri information.
+
+### <a name="next-steps"></a>Nästa steg
+
+- Läs igenom den tekniska dokumentationen och vanliga frågor och svar i den dedikerade [partner samlingen](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) (inloggning krävs) för mer detaljerad vägledning.
+- Förbered för att införliva ändringarna med partner Center API och webb användar upplevelsen. API/SDK: er kommer att vara tillgängliga för testning.
+- Se till att skicka in ytterligare data när du registrerar nya kunder eller ändrar befintlig kund information.
+- Om du använder en lösning för en kontroll panels leverantör (CPV) bör du kontakta din CPV.
+
+### <a name="questions"></a>Har du några frågor?
+
+Kontakta din skatte rådgivare eller ditt lokala skatte kontor om du har frågor som rör juridisk identifierare (även kallat INN eller tenn). Microsoft kan inte ge vägledning om skatte frågor.
+
+Om du behöver stöd för dina åtgärder med Microsoft [öppnar du en tjänstbegäran](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8) (inloggning krävs).
 
 ________________
 ## <a name="microsoft-partner-agreement-mpa--indirect-reseller-update--new-faqs"></a><a name="13"></a> Microsoft partner Agreement (MPA) – uppdatering av indirekt åter försäljare & nya frågor och svar 
@@ -453,7 +521,7 @@ Det fullständiga meddelandet är bara tillgängligt för Microsoft-partner. [Lo
 
 ________________
 
-## <a name="calling-plan-and-phone-system-updates-for-february-1-20201"></a><a name="4"></a>Samtals plan och uppdateringar av telefon systemet för den 1 februari 20201
+## <a name="calling-plan-and-phone-system-updates-for-february-1-2021"></a><a name="4"></a>Samtals plan och uppdateringar av telefon systemet för den 1 februari 2021
 
 ### <a name="categories"></a>Kategorier
 

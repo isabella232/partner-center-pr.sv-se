@@ -1,7 +1,7 @@
 ---
 title: Översikt över fakturering i Partner Center
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 01/28/2021
 description: Lär dig mer om fakturerings-och faktura information för CSP-partner i Partner Center. Innehåller information om hur du fakturerar kunder och hur du hittar och läser din faktura.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d34a264f366cc21109bb0f0ae379d34130f6f590
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: 21cc9ddcffe2e9a29e920e235e79a5ce0bbd86b8
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924945"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042726"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Faktureringsöversikt för CSP-programpartner som arbetar i Partnercenter 
 
@@ -86,6 +86,8 @@ Du ser justeringar och **krediter** i **efterhand** på nästa fakturerings fakt
 Betalnings villkoren är netto 60 dagar. Fakturor måste betalas efter fakturans förfallo datum (60 dagar efter fakturerings datumet), eller så kommer ditt konto att bli eftersatta, vilket kan påverka registreringen i CSP. 
 
 Du kan få full funktionalitet för dina inaktiverade konton när du betalar den senaste förfallo mängden.
+
+När den korrigerade fakturerings informationen har angetts visas din betalning på sidan för partner Center-fakturering inom 5 arbets dagar.
 
 ### <a name="taxes-and-vat"></a>Skatter och moms
 
