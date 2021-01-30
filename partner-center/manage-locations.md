@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e39f264485e71c5a96916c224c0ea1a85c17a55b
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: 21d82fc3ec4470d4941d3ca7436089d3e892439e
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98925022"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098898"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Hantera dina MPN-konto platser och Lägg till en ny plats
 
@@ -47,6 +47,20 @@ Om du vill lägga till ett nytt CSP-affärskonto börjar du med att se till att 
  >Kom ihåg att logga in med de **nya** autentiseringsuppgifterna för det **nya** CSP-kontot. Använd inte dina befintliga autentiseringsuppgifter eftersom Partner Center känner igen att du redan har ett konto.
 
 2. Godkänn Microsoft partner Agreement och aktivera kontot.
+
+## <a name="view-your-mpn-locations"></a>Visa dina MPN-platser
+
+1. Logga in på [instrument panelen](https://partner.microsoft.com/dashboard/home) för partner Center med dina MPN-kontoautentiseringsuppgifter. (Dina MPN-autentiseringsuppgifter kan skilja sig från dina autentiseringsuppgifter för CSP) 
+ 
+1. I **inställnings** ikonen väljer du **konto inställningar**, **organisations profil**, **Legal**. 
+
+1. På fliken **partner** kontrollerar du att det inte finns något informations fel meddelande som ber dig att åtgärda migrerade platser från PMC. Följ anvisningarna och åtgärda dessa platser. 
+
+3. Om det inte finns något fel meddelande väljer du **konto inställningar**, **organisations profil** och **identifierare** i **Inställningar**.
+
+4. Hitta MPN-ID: t med typen "location" som stämmer överens med det här CSP-kontots land och Använd det för att söka efter och slutföra associationen.
+
+5. Om du inte hittar platsens MPN-ID som matchar det CSP-konto som du vill använda, kan du lägga till en ny plats som skapar ett nytt MPN-ID. Se **lägga till en MPN plats** nedan.
 
 ## <a name="add-an-mpn-location"></a>Lägg till en MPN-plats
 

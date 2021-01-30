@@ -1,19 +1,19 @@
 ---
 title: Rekognoseringar-filfält för CSP-inköp med ett tillfälle
 ms.topic: conceptual
-ms.date: 11/10/2020
+ms.date: 01/29/2021
 description: Lär dig mer om alla objekt i din CSP-fil för inköps avstämning vid en tidpunkt i Partner Center, inklusive exempel värden.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 29574dad6c3dd5eedbcf93dd555509cb04144ef5
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: f1606cceaf9dec1f04850fd85b3924ef75bbfda0
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182587"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098813"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Fält för att avstämnings fil för CSP vid en tidpunkt
 
@@ -41,7 +41,7 @@ Mer information om avstämnings filer finns i [använda avstämnings filer](use-
 | ProductName | Produkt namnet. | *Tabeller* |
 | ChargeType | [Typ av kostnad](./recon-file-charge-types.md) eller justering. | *Nytt* |
 | UnitPrice | Pris per licens, som publicerat i pris listan vid inköps tillfället. Se till att detta matchar informationen som lagras i fakturerings systemet under avstämning. | *0,045* |
-| Antal | Antalet licenser. Se till att detta matchar informationen som lagras i fakturerings systemet under avstämning. | *1* |
+| Kvantitet | Antalet licenser. Se till att detta matchar informationen som lagras i fakturerings systemet under avstämning. | *1* |
 | Delsumma | Totalt före skatt. Del summan ska vara lika med det fakturerbara antalet multiplicerat med det effektiva enhets priset. | *0* |
 | TaxTotal | Avgift för moms belopp. Baserat på marknadens skatte regler och särskilda omständigheter. | *0* |
 | Totalt | Den totala mängden är lika med del summan plus moms beloppet. | *0* |
@@ -64,6 +64,9 @@ Mer information om avstämnings filer finns i [använda avstämnings filer](use-
 | PCToBCExchangeRateDate | Det datum då pris nivån för fakturerings valutan fastställs. | *2020-09-30* |
 | MeterDescription | Beskrivning av mätare.  | *Tabeller – LRS data lagring (GB/månad)* |
 | ReservationOrderId | ID för reservations order. | *E21A6344E398FFC1C4D7...* |
+
+>[!NOTE]
+>Du kan stämma av din Azure-förbrukning i din rekognoseringar-fil för inköp i taget. Det gör du genom att gå till din dagliga rekognoseringar-fil för användning och söka efter ditt SubscriptionID. Detta visar alla kostnader som är kopplade till ditt Azure-Plans-ID. Ditt Azure-SubscriptionID visas som EntitlementID.
 
 ## <a name="next-steps"></a>Nästa steg
 

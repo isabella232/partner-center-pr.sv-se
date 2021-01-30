@@ -1,7 +1,7 @@
 ---
 title: Sälja programvaruprenumerationer via CSP
 ms.topic: how-to
-ms.date: 06/18/2020
+ms.date: 01/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lär dig hur partner i CSP-programmet kan använda Partner Center för att köpa, hantera, sälja och avbryta reserverade Azure-instanser och Server prenumerationer för kunder.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bd14a82472f1a102902f1962479640b1437ef495
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 07fdc40ae9232a5cf2636b309dae45a52538edf2
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531685"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098847"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Sälj program varu prenumerationer via Cloud Solution Provider (CSP)-programmet
 
@@ -46,12 +46,12 @@ Azure Hybrid-förmån hjälper dig att få mer värde från dina Windows Server-
 > | Amerikanska Samoa     | Grenada     | Pitcairn     |
 > | Andorra     | Guadeloupe     | Réunion     |
 > | Anguilla     | Guam     | Saba   |
-> | Antarktis     | Guernsey     | Sankt Barthélemy   |
+> | Antarktis     | Guernsey     | Saint Barthélemy   |
 > | Antigua och Barbuda       | Guinea     | Saint Lucia   |
 > | Aruba       | Guinea-Bissau     | Saint Martin   |
-> | Azerbajdzjan       | Guyana     | Saint Pierre och Miquelon   |
+> | Azerbajdzjan       | Guyana     | Saint-Pierre och Miquelon   |
 > | Benin     | Haiti       | Saint Vincent och Grenadinerna     |
-> | Bhutan     | Heard-och McDonaldöarna       | Samoa     |
+> | Bhutan     | Heard- och McDonaldöarna       | Samoa     |
 > | Bonaire     | Isle of Man     | San Marino     |
 > | Bouvetön     | Jan Mayen     | São Tomé och Príncipe   |
 > | Brittiska territoriet i Indiska Oceanen       | Jersey     | Seychellerna   |
@@ -60,7 +60,7 @@ Azure Hybrid-förmån hjälper dig att få mer värde från dina Windows Server-
 > | Burundi     | Laos     | Sint Maarten     |
 > | Kambodja     | Lesotho     | Solomonöarna     |
 > | Centralafrikanska Republiken     | Liberia     | Somalia     |
-> | Tchad     | Madagaskar     | Södra Georgien och Sydsandwichöarna     |
+> | Tchad     | Madagaskar     | Sydgeorgien och Sydsandwichöarna     |
 > | Kina     | Malawi     | Sydsudan     |
 > | Julön     | Maldiverna     | Saint Helena, Ascension, Tristan da Cunha     |
 > | Kokosöarna     | Mali     | Surinam     |
@@ -72,7 +72,7 @@ Azure Hybrid-förmån hjälper dig att få mer värde från dina Windows Server-
 > | Dominica     | Montserrat     | Tonga   |
 > | Ekvatorialguinea     | Moçambique     | Turks- och Caicosöarna   |
 > | Eritrea     | Myanmar     | Tuvalu   |
-> | Falklandsöarna     | Nauru     | USA:s yttre öar   |
+> | Falklandsöarna     | Nauru     | Amerikanska öar   |
 > | Franska Guyana     | Nya Kaledonien     | Vanuatu   |
 > | Franska Polynesien     | Niger     | Vatikanstaten   |
 > | Franska sydterritorierna     | Niue     | Wallis och Futuna   |
@@ -92,31 +92,22 @@ Så här köper du program varu prenumerationer för en kunds räkning:
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Aktivera och hantera programvaruprenumerationer
 
-När du har köpt program prenumerationen följer du stegen nedan för att hämta den.
+När du har köpt program varan måste kunderna Ladda ned den. Använd följande procedur för att göra detta.
 
 >[!NOTE]
->Du måste vara administratörs agent för att ladda ned program vara och få aktiverings nycklar.
+>Du måste vara administratörs agent för att kunna hämta nycklar och nedladdningar.
 
-1. Logga in på [instrument panelen](https://partner.microsoft.com/dashboard)för partner Center.
-
-2. Från menyn Partner Center väljer du **kunder** och väljer sedan en kund i listan.
-
-3. Gå till din kunds informations sida och välj sedan **program vara** . Du ser en lista över all program vara som du har köpt för kundens räkning. 
-
-4. Expandera den produkt som du vill ladda ned. I fältet **Välj produkt** väljer du den **version** , **språk** och **filtyp/OS** som du vill använda. 
-
-5. Välj **Skicka** för att visa de aktuella produkterna. 
-
-6. Välj **Hämta nycklar och nedladdningar** . 
-
-7. Välj **Ladda ned** för att börja ladda ned eller Välj **Kopiera länk** för att kopiera länken och skicka den till kunden. 
+1. Gå till din kunds informations sida och välj sedan **program vara**. Du ser en lista över all program vara som du har köpt för kundens räkning.
+2. Kopiera "djup länk" från en **länk till program varu produkt nycklar och nedladdningar** och dela länken med kunden. När de väljer den här länken omdirigeras de till Microsoft administrations Center för att hämta och hämta sina produkt nycklar.
 
 >[!NOTE]
->Den här länken upphör att gälla efter två veckor eller 50 nedladdningar, beroende på vilket som kommer först. När länken går ut går du tillbaka till den här sidan och väljer **Hämta nycklar och nedladdningar** igen för att aktivera ytterligare två veckor eller 50 hämtningar. Det kan du göra så många gånger du behöver. 
+>Endast kunder kan se produkt nycklarna och hämta information i Microsoft administrations Center. Partner kan inte se den här informationen.
+
+Om du eller dina kunder vill lära dig mer om att hämta licens nycklar, se [Hämta program vara och produkt licens nycklar](https://go.microsoft.com/fwlink/p/?linkid=2152525).
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Hämtning och licens nycklar för Server prenumeration är tillgängliga via Microsoft 365 administrations Center för kunder 
 
-Dina kunder kommer att kunna hämta licens nycklar och hämtningar för CSP-serverns prenumeration från Microsoft 365 administrations Center. Om du vill se licens nycklar och nedladdningar för prenumerationen av CSP-serverns prenumeration måste kunden gå till Microsoft 365 administrations Center > **fakturering > dina produkter > fliken** . Mer information finns på [fliken program vara under fakturering](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
+Dina kunder kommer att kunna hämta licens nycklar och hämtningar för CSP-serverns prenumeration från Microsoft 365 administrations Center. Om du vill se licens nycklar och nedladdningar för prenumerationen av CSP-serverns prenumeration måste kunden gå till Microsoft 365 administrations Center > **fakturering > dina produkter > fliken**. Mer information finns på [fliken program vara under fakturering](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Visa aktivitet för åtkomst till program varu nycklar och hämtning av program vara
 
@@ -129,7 +120,7 @@ I gransknings-eller efterlevnads syfte kan du behöva kontrol lera en lista med 
 
 2. Välj kugg hjuls ikonen i det övre högra hörnet.
 
-3. I menyn väljer du **aktivitets logg** .
+3. I menyn väljer du **aktivitets logg**.
 
 4. Ange datum intervallet för den aktivitet som du vill se. Aktivitets loggen visar en lista över användare som antingen har åtkomst till program varu nycklar eller Hämtad program vara under den tid som du har angett. 
 
@@ -159,7 +150,7 @@ Följ stegen nedan om du vill avbryta ett köp:
 
 4. På sidan med information om kunden väljer du **program vara** för att se listan över program varor som köpts för kunden. 
 
-5. Leta upp det program varu köp som du vill avbryta och välj sedan **Avbryt** . En dialog ruta visas.
+5. Leta upp det program varu köp som du vill avbryta och välj sedan **Avbryt**. En dialog ruta visas.
 
 6. I list rutan order nummer väljer du rätt ordnings-ID-nummer som du vill avbryta. (Du kan lära dig mer om ett order-eller order-ID-nummer från kundens **order historik** sida.)
 
@@ -194,7 +185,7 @@ Om du försökte säga upp ett program varu köp via partner Center men uppmanas
 
 1. När du väljer länken **kund support förfrågan** från fönstret Avbryt inköp öppnas sidan **rapportera ett problem med partner Center** .
 
-2. Under **information** går du till listan typ av problem och väljer **CSP Purchase/återbetala för kundernas räkning** .
+2. Under **information** går du till listan typ av problem och väljer **CSP Purchase/återbetala för kundernas räkning**.
 
 3. Fyll i fälten effekt och rubrik.
 
@@ -210,9 +201,9 @@ Om du försökte säga upp ett program varu köp via partner Center men uppmanas
 
 5. I fältet kontakt anger du ditt namn, din e-postadress och ditt telefonnummer.
 
-6. Om du behöver bifoga en fil av någon anledning väljer du **Lägg till filer** . Det här är valfritt.
+6. Om du behöver bifoga en fil av någon anledning väljer du **Lägg till filer**. Det här är valfritt.
 
-7. När du är klar väljer du **Skicka** .
+7. När du är klar väljer du **Skicka**.
 
 ## <a name="next-steps"></a>Nästa steg
 

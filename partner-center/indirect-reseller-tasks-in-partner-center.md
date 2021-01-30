@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: a2fc1fee31a72364179deee5d18f9af3c5b626fc
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: d93a94ce1171770d76617a9ec8bed9a1dd96d287
+ms.sourcegitcommit: 1aeabd40513f06809cb111131b4e6bc188975ce6
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924980"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99065479"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Lär dig att samar beta med indirekta leverantörer i Cloud Solution Provider-programmet
 
@@ -76,8 +76,8 @@ Från och med oktober 2020 registreras alla Microsoft-partners som är nya för 
    > [!IMPORTANT]  
    > För att säkerställa ditt företags säkerhet och sekretess skickar vi din primära kontakt för att verifiera att (1) han eller hon registrerat sig för ett partner Center-konto och (2) att den här e-postadressen tillhör ditt företag. När den primära kontakten har verifierat sin e-postadress kommer vi att fortsätta med vår granskning av den information som du har angett. Vi kommer att e-posta status uppdateringar till den primära kontakten.
 
-5. Koppla ditt MPN-ID till ditt CSP-konto. 
-  Ditt CSP-konto och tillhör ande MPN-ID måste finnas i samma land.
+5. Koppla ditt MPN-ID till ditt CSP-konto. Ditt CSP-konto och tillhör ande MPN-ID måste finnas i samma land, och ditt MPN-ID måste finnas i Partner Center.
+  
 
    a. Logga in på Partner Center med dina "MPN"-konto uppgifter (dina MPN-autentiseringsuppgifter kan skilja sig från dina autentiseringsuppgifter för CSP).
    
@@ -88,10 +88,9 @@ Från och med oktober 2020 registreras alla Microsoft-partners som är nya för 
     d. Om du inte hittar platsens MPN-ID som matchar det CSP-konto som du vill använda, kan du lägga till en ny plats som skapar ett nytt MPN-ID. Läs mer, [Hantera platser](manage-locations.md).
 
     e. Du kan skjuta upp det här steget för tillfället, men du kan inte signera Microsoft partner Agreement (MPA) eller Transact i CSP förrän du är klar med att associera ditt MPN-ID med ditt CSP-konto.
-    
-     
+
  > [!IMPORTANT]  
-   > Välj det MPN-ID som finns i samma land som ditt CSP-konto.
+ > Välj det MPN-ID som är tillgängligt i Partner Center och i samma land som ditt CSP-konto och kontrol lera att ditt MPN-ID är i Partner Center.
 
 6. När Microsoft har slutfört registreringen av registreringen, vilket tar 3-5 arbets dagar, måste du logga Microsoft partner Agreement i [översikten över instrument panelen i Partner Center](https://partner.microsoft.com/pcv/dashboard/overview) med hjälp av global administratörs behörighet. Om du vill visa och hämta **Microsoft partner Agreement** innan du signerar det klickar du på länken Microsoft partner Agreement (se nedan).  Om ditt konto har fastnat i verifiering efter fem arbets dagar kan [du läsa konto verifierings processen](verification-responses.md).
 
