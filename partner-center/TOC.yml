@@ -64,6 +64,8 @@
           displayName: 'renew, mpn'
         - name: Undantag för apputvecklarkompetens
           href: app-dev-isv.md
+        - name: Använda kunskaps rapporten
+          href: mpn-skills-report.md
     - name: Avancerade specialiseringar
       items:
         - name: Demonstrera dina kunskaper
