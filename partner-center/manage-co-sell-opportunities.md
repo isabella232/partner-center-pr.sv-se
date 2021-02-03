@@ -9,38 +9,37 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 52a1ac20b0370e1dd4a1de85087303090c1b7eb4
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.openlocfilehash: 7ab3d1ab3f29e01303a9a039b9e9b21b9cfad07f
+ms.sourcegitcommit: 2c8d1bca0737a3d73f2888dfeaf099176bf9e9ae
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622209"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "99480076"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Hantera samförsäljnings möjligheter i Partner Center
 
-**Gäller för**
-
-- Partnercenter
 
 **Lämpliga roller**
 
 - MPN-partner administratör
 - Referens administratör
 
-Dra nytta av samförsäljnings möjligheter.  Samförsäljnings möjligheter är ett samarbete mellan flera parter för att sälja produkter som uppfyller ett kund behov. Den här artikeln hjälper dig att förstå hur du kan använda kraften i Co-försäljningen i Partner Center för att effektivt samsälja och förvärva nya kunder.
+Dra nytta av samförsäljnings möjligheter.  En samförsäljnings möjlighet är ett samarbete mellan flera parter för att sälja produkter som uppfyller ett kund behov. Den här artikeln hjälper dig att förstå hur du kan använda kraften i Co-försäljningen i Partner Center för att effektivt samsälja och förvärva nya kunder.
 
 ## <a name="types-of-co-sell-opportunities"></a>Typer av affärs möjligheter för samförsäljning
 
-**Co-** Sales – det är här som en eller flera av Microsofts försäljnings representanter arbetar aktivt i affären för att hjälpa till att lösa ett kund problem. Affärs möjligheterna kan komma från ett kund konto där en Microsoft-säljare bjuder in partnern att delta i en samförsäljnings aktivitet eller från en partner där de behöver ytterligare hjälp från Microsoft Sales för att avsluta affären.
+**Samförsäljnings möjligheter** – det är här som en eller flera av Microsofts försäljnings representanter arbetar aktivt i affären för att hjälpa till att lösa ett kund problem. Affärs möjligheterna kan komma från ett kund konto där en Microsoft-säljare bjuder in partnern att delta i en samförsäljnings aktivitet eller från en partner där de behöver mer hjälp från Microsoft Sales för att avsluta affären.
 
 **Partner till partner (P2P)** – det är här som en partner kan bjuda in andra partner i Microsoft Co-försäljnings eko system för att samar beta. Partner kan välja att bjuda in en Microsoft-säljare till affären för att hjälpa till med att avsluta affären. Både partner och Microsoft kan bjudas in även efter att du har skapat ett erbjudande, så länge det är innan det slutförs. (Observera att fullständig omfattar vunnen, förlorad, avböjd och upphör ande).
 
-**Privat handel** – det här är när en partner bestämmer sig för att arbeta oberoende av ett avtal som har skapats i Partner Center. Partner har möjlighet att bjuda in Microsoft-säljare när du har skapat affären för att göra den till en samarbets försäljnings aktivitet. Informationen om affären delas inte med Microsoft Sales-teamet förrän Microsoft Sales-hjälpen uttryckligen eftersträvas av partnern.
+**Privat handel** – det här är när en partner bestämmer sig för att arbeta oberoende av ett avtal som har skapats i Partner Center. Partner kan ge dig insyn i Microsofts säljteam eller bjuda in Microsoft-säljare som söker efter aktiva hjälp när du har skapat affären. Informationen om erbjudandet delas inte med Microsoft Sales-teamet förrän tids partnern uttryckligen väljer Ja för frågan "vill du att Microsoft-säljare ska kunna se detta avtal?" eller be Microsoft Sales team-hjälpen genom att välja något av alternativen för frågan "identifiera vilken typ av hjälp du behöver från Microsoft?".
+
+**Samarbets partner** – det här är ett avtal där en partner bestämmer sig för att arbeta oberoende av ett erbjudande, men det är ett bra sätt att ge insyn om avtals detaljerna till Microsoft Sales team-medlemmar. Partner kan bjuda in Microsoft-säljare när du har skapat affären. Dessa avtal är berättigade till avtals registrering när en incitaments berättigad lösning är en del av affären. Det krävs ingen inbjudan till Microsoft-säljare för avtals registrering om de incitament som uppfyller lösnings kriterierna är uppfyllda. Du kan göra en avtals partner genom att svara ja på frågan "vill du att Microsoft-säljare ska kunna se detta avtal?"
 
 **Lösnings utvärdering (sa)** – de här typerna av avtal kan bara skapas av en uppsättning partner som är testats av affärs teamet för lösnings bedömningar för att utföra teknik utvärderingar för kunder som använder eller planerar att använda Microsoft-tekniker.
 
 > [!NOTE]
-> Privata erbjudanden, även om de inte är helt gemensamma, ingår här för att ge en enkel väg för att uppgradera en pipeline till en samförsäljnings möjlighet i alla icke-terminaler-steg (**vunna, förlorade, avböjde och upphör att gälla**).
+> Privata erbjudanden, även om de inte är helt gemensamma, ingår i fliken affärs möjligheter för samförsäljning för att ge en enkel väg för att uppgradera en pipeline till en samförsäljnings möjlighet i alla icke-terminaler-steg (**vunna, förlorade, avböjde och upphör att gälla**).
 
 ## <a name="navigating-the-co-sell-section"></a>Navigera i avsnittet Co-Sälj
 
@@ -67,7 +66,7 @@ Du kan skapa tre typer av affärs möjligheter.
 
 ### <a name="select-your-customer"></a>Välj din kund
 
-Välj kunden för det här specifika erbjudandet. Ange deras plats och börja skriva namnet. Den automatiska rekommendationen kommer att börja Visa rekommendationer baserat på Sök villkoren. Eftersom många företag har fler än en affär senhet på samma plats kan du se flera resultat. Om du inte är säker på vilken du ska välja kan du kontrol lera att D-U-N-S-numret tillhör kunden. Se till att välja den exakta matchningen för kunden som du arbetar med.
+Välj kunden för ett bestämt avtal. Ange deras plats och börja skriva namnet. Förslags rutan börjar Visa rekommendationer baserat på Sök villkoren. Eftersom många företag har fler än en affär senhet på samma plats kan du se flera resultat. Om du inte är säker på vilken du ska välja kan du kontrol lera att D-U-N-S-numret tillhör kunden. Se till att välja den exakta matchningen för kunden som du arbetar med.
 
 När du klickar på **Välj kund** uppmanas du att ange namn, telefonnummer och e-postadress för den person som är din huvudsakliga kontakt punkt för det här erbjudandet. Den här informationen är valfri och krävs endast om du planerar att bjuda in Microsoft Sales för att hjälpa dig med ärendet. Välj **Nästa**.
 
@@ -104,18 +103,20 @@ I det här avsnittet måste du ange information om de lösningar som ska ingå i
 > [!Important]
 > Det går bara att välja en utvärderings typ för ett erbjudande för lösnings utvärdering och det går inte att lägga till några andra lösningar. När du har valt en lösnings bedömning måste partnern välja den plats som utvärderingen skapas för. Detta krävs för korrekta incitaments utbetalningar.
 
-När du har angett lösnings informationen väljer du nästa för att gå till avsnittet där du kan välja försäljnings typ. Du har tre alternativ om du väljer lösningar från de första tre alternativen och inte en lösnings bedömning:
+När du har angett lösnings informationen väljer du nästa för att gå till avsnittet där du kan välja försäljnings typ. Du har fyra alternativ om du väljer lösningar från de tre första alternativen i lösnings typen och inte en lösnings bedömning:
 
-**Privat handel**: om du inte bjuder in Microsoft och skapar ett engagemang i det här steget kommer det att vara av typen privat pipeline. Microsoft-säljarna kommer inte att ha någon insyn i detaljerna om detta avtal.
+**Privat handel**: om du inte bjuder in Microsoft och skapar ett engagemang i det här steget kommer det att vara av typen privat pipeline. Microsoft-säljarna kommer inte att ha någon insyn i detaljerna om detta avtal. Du kan skapa ett privat avtal genom att välja **ingen hjälp som krävs vid den här tidpunkten** för frågan **"identifiera vilken typ av hjälp du behöver från Microsoft?"** och **Nej** för frågan **"vill du att Microsoft-säljare ska kunna se detta avtal?"**. Du kan alltid uppgradera ett privat avtal till ett samordnat eller aktivt Co-försäljnings avtal innan avtalet når ett terminalfönster (vann, förlorat).
 
 > [!Important]
 > Avtals registrering är inte tillämpligt för privata avtal. Var försiktig när du skapar ett privat avtal med stimulans berättigade lösningar eftersom de inte är berättigade till avtals registrering i Partner Center.
 
-**Försäljnings avtal i Co-Sälj:** Om du väljer något annat alternativ än standard valet för frågan **"identifiera vilken typ av hjälp du vill ha från Microsoft"**, så förvandlas affären till ett co-försäljnings avtal där en Microsoft-säljare kan hjälpa dig med att stänga affären. En begäran om hjälp från Microsoft garanterar inte att en Microsoft-säljare kommer att delta i affären. Microsoft Sales-representanter har 14 dagar på dig att avgöra om de vill delta. I avsnittet anteckningar ser du till att identifiera vilken typ av hjälp du vill ha.
+**Branschledande avtal**: om du inte vill söka efter någon aktiv hjälp från Microsoft Sales-teamet, men vill ge dem insyn i din pipeline, kan du skapa en partner ledande affär. Du kan skapa en samarbets partner genom att välja **ingen hjälp som krävs vid den här tidpunkten** för frågan **"identifiera vilken typ av hjälp du behöver från Microsoft?"** och **Ja** för frågan **"vill du att Microsoft-säljare ska kunna se detta avtal?"**. Dessa avtal är berättigade till avtals registrering även om Microsoft-säljaren inte är aktivt engagerad i att hjälpa partnern. Kraven för avtals registrering har en berättigad lämplig lösning i affären och vunnit status för affären.
+
+**Försäljnings avtal i Co-Sälj:** Om du väljer något annat alternativ än standard valet för frågan **"identifiera vilken typ av hjälp du vill ha från Microsoft"**, kommer affären att förvandlas till ett samförsäljnings avtal där en Microsoft-säljare kan hjälpa dig med att stänga affären. En begäran om hjälp från Microsoft garanterar inte att en Microsoft-säljare kommer att delta i affären. Microsoft Sales-representanter har 14 dagar på dig att avgöra om de vill delta. I avsnittet anteckningar ser du till att identifiera vilken typ av hjälp du vill ha.
 
 **Avtal för partner till partner (P2P)**: du kan bjuda in andra partner till affären genom att klicka på länken Bjud in partner. Nedan finns processen för att skapa ett P2P-avtal.
 
-- **Välj en partner:** När du har klickat på Bjud in partner kan du börja skriva partner namnet för att få en lista över partners som matchar det namn som du anger. Välj den partner som du är intresse rad av för att fylla i ytterligare information för den partnern. Du kan bara söka efter partner som befinner sig i Microsoft Co-säljer eko system och som fungerar i Partner Center.
+- **Välj en partner:** När du har klickat på Bjud in partner kan du börja skriva partner namnet för att få en lista över partners som matchar det namn som du anger. Välj den partner som du är intresse rad av att fylla i mer information för den partnern. Du kan bara söka efter partner som befinner sig i Microsoft Co-säljer eko system och som fungerar i Partner Center.
 
 - **Beräknat stängnings datum:** Detta är det datum då du förväntar dig att den inbjudna partnern ska kunna slutföra sin del av affären. Datumet fylls i i förväg så att du kan välja att ändra datumet, om det behövs. Det är ett obligatoriskt fält och kan redige ras av partnern som du bjuder in när du har skapat affären. Du kan inte ändra det här fältet när du har skapat affären.
 
@@ -129,7 +130,7 @@ När du har angett lösnings informationen väljer du nästa för att gå till a
 
 - **Identifiera typen av hjälp:** Identifiera typen av hjälp: slutligen, identifiera den hjälp du behöver från den inbjudna partnern.
 
-Upprepa detta för alla partner som du vill bjuda in som en del av detta avtal. En partner till partner erbjudandet kan också ha Microsoft-säljare som är engagerad där du bjuder in både Microsoft och samarbets partner. Du kan också bjuda in både Microsoft och partners senare när du har skapat affären.
+Upprepa detta för alla partner som du vill bjuda in till detta avtal. En partner till partner erbjudandet kan också ha Microsoft-säljare som är engagerad där du bjuder in både Microsoft och samarbets partner. Du kan också bjuda in både Microsoft och partners senare när du har skapat affären.
 
 ## <a name="responding-to-a-co-sell-opportunity"></a>Svara på en samförsäljnings möjlighet
 
@@ -149,7 +150,7 @@ I det här steget kan du, om du har fått en ny samförsäljnings affärs möjli
 
 ### <a name="accepted-stage"></a>Godkänt steg
 
-Arbeta för att avsluta affären med kunden. Om du vill ändra någon information som du har angett för en godkänd referens väljer du **Redigera**. Du kan sedan uppdatera avtals namnet, det beräknade inköps datumet, det beräknade värdet, noteringarna, CRM-ID: t och/eller marknadsförings kampanjens ID.  Du kan också välja **Lägg till ditt team** för att ange namn, telefonnummer och e-postadresser till alla ytterligare personer som arbetar med erbjudandet. Lösningar kan också redige ras baserat på kund behovet.
+Arbeta för att avsluta affären med kunden. Om du vill ändra någon information som du har angett för en godkänd referens väljer du **Redigera**. Du kan sedan uppdatera avtals namnet, det beräknade inköps datumet, det beräknade värdet, noteringarna, CRM-ID: t och/eller marknadsförings kampanjens ID.  Du kan också välja **Lägg till ditt team** för att ange namn, telefonnummer och e-postadresser till alla personer som arbetar med erbjudandet. Lösningar kan också redige ras baserat på kund behovet.
 
 Alla avtal som du har skapat är i godkända steg som standard.
 
@@ -182,14 +183,15 @@ När du är klar kan du utföra en av de två åtgärderna, som markerar affäre
 
 Ett avtal kommer endast att vara berättigat till avtals registrering om det uppfyller kriterierna nedan.
 
-1. Microsoft bjuds in till erbjudandet.
-2. Microsoft har antingen accepterat inbjudan eller markerat erbjudandet som vunnit. Du kan förstå Microsofts status genom att titta på Microsofts kort under din avtals information.
-3. Det finns en incitaments berättigad lösning i affären.
+- Avtals typen är antingen Co-Sälj eller partner lampa.
+- Det finns en incitaments berättigad lösning i affären.
+- Statusen för affären är uppnådd.
+- Om typen av avtal är samförsäljning har Microsoft antingen accepterat inbjudan eller markerat erbjudandet som vunnit. Du kan förstå Microsofts status genom att titta på Microsofts kort under din avtals information.
 
 > [!Important]
 > Registrera bara avtalet om ditt företags namn och den berättigade berättigade lösningen i affären är tydligt angivna i kontraktet med kunden.
 
-Om affären är berättigad till avtals registrering kommer ytterligare mil stolpar att läggas till i livs cykeln för det avtal som kallas "avtals registrering" som visas nedan.
+Om affären är berättigad till avtals registrering kommer det att finnas en annan mil stolpe som har lagts till i livs cykeln för det avtal som kallas "avtals registrering" som visas nedan.
 
 :::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Bild som visar avtals livs cykeln, den plats från vilken avtals registreringen kan initieras.":::
 
@@ -206,6 +208,8 @@ Tabellen nedan visar de kombinationer av som kan bjudas in i det här skedet av 
 |**Ursprunglig avtals typ**|**Vem som kan bjudas in**|**Kommentarer**|
 |-----|:-----|:-----|
 |Privat|Microsoft och/eller andra partner|Affären kommer att uppgraderas till co-försäljning om Microsoft är inbjuden.|
+|Privat|Microsoft-säljteam för att se avtalen|Affären kommer att uppgraderas till partner lampan när Microsoft Sales team ges insyn i avtalen.|
+|Partner-lampa|Microsoft och/eller andra partner|Affären kommer att uppgraderas till co-försäljning om Microsoft är inbjuden.|
 |Co-försäljning|Andra partner|Andra partner kan bara bjudas in om ditt företag har initierat affären. Det går inte att bjuda in partners för avtal på fliken inkommande.|
 |Partner till partner utan Microsoft|Microsoft|Affären kommer att uppgraderas till ett försäljnings avtal.|
 |Partner till partner utan Microsoft|Andra partner||
@@ -216,17 +220,25 @@ Detta är det sista steget för alla affärs möjligheter. Du kan visa alla avta
 
 ## <a name="frequently-asked-questions"></a>Vanliga frågor och svar
 
-**Bästa. Kan ett avtal redige ras efter att det har marker ATS som vunnen eller förlorad?**
+**C. Kan ett avtal redige ras efter att det har marker ATS som vunnen eller förlorad?**
 
 Nej, det går inte att ändra avtal när de flyttas till ett Terminal-tillstånd. Upphör Ande, nekas, vann och förlorad är Terminal-tillstånd där inga fler uppdateringar är möjliga för affären. Var försiktig när du flyttar affären till något av dessa terminaler-tillstånd.
 
-**Q2. Vem får ett e-postmeddelande från Partner Center?**
+**C. Vem får ett e-postmeddelande från Partner Center?**
 
 I arbets flödet nedan förklaras hur e-postmeddelandena skickas till partner från partner Centers hänvisnings system för nya partners inkommande hänvisningar.
 
 :::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Bild som visar logiken för hur e-postmeddelanden skickas till partner för nya inkommande hänvisningar.":::
 
-## <a name="getting-more-co-sell-opportunities"></a>Få fler samförsäljnings möjligheter
+**C. Vilken typ av incitament är berättigade till avtals registrering?**
+
+Endast IP-incitament är berättigade till avtals registrering. Dessa inkluderar
+
+- Azure IP Co-Sälj
+- BIZ-appar Premium
+- BIZ Apps standard
+
+## <a name="get-more-co-sell-opportunities"></a>Få fler samförsäljnings möjligheter
 
 Här följer några tips som hjälper dig att få fler samförsäljnings möjligheter som passar din verksamhet:
 
