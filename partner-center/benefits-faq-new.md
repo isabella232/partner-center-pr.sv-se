@@ -1,7 +1,7 @@
 ---
 title: Vanliga frågor om Microsoft Partner Network förmåner
 ms.topic: article
-ms.date: 12/10/2020
+ms.date: 02/04/2021
 description: Frågor besvarade om principer angående Microsoft Partner Network förmåner.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: ''
-ms.openlocfilehash: ef57b282a1a062ac34d48e7fc247175aa9dab32c
-ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
+ms.openlocfilehash: 521e3a3adb51f528fd7b2a35103f78b0c193f1d1
+ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "97349551"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99552403"
 ---
 # <a name="microsoft-partner-network-benefits-faq"></a>Vanliga frågor om Microsoft Partner Network förmåner
 
@@ -22,8 +22,13 @@ ms.locfileid: "97349551"
 
 - MPN-partner administratör
 
-
 I följande artikel besvaras några av de viktigaste frågorna Microsoft Partner Network-partners (MPN) om sina MPN medlemskap, kompetenser och produkt licenser.
+
+## <a name="responding-to-covid-19"></a>Svara på COVID-19
+
+**F.** **vårt dags giltighets datum för kompetensen kommer fram och vi kan inte uppfylla kompetens kraven på grund av påverkan som rör COVID-19. Vad ska vi göra?**
+
+A. Om ditt kompetens jubileums datum infaller mellan 1 januari och den 30 juni 2021, utökar vi din befintliga kompetens eller kompetens (med undantag för moln Business Applications kompetensen) via nästa årsdags datum i 2022. Du behöver inte uppfylla krav på examen eller prestanda, men du betalar fortfarande kompetens avgiften.Mer information finns i vårt [blogg inlägg](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
 
 ## <a name="membership"></a>Medlemskap
 
@@ -140,18 +145,7 @@ A. Kompetens uppnående och Action Pack inköp slutförs i Partner Center via pa
 
 A. Du kan gå till [support avsnittet i Partner Center](https://partner.microsoft.com/support) för att få länkar till resurser som kan vara till hjälp eller öppna ett ärende med vårt partner support team om det behövs.
 
-## <a name="competency-extension-to-offset-effects-of-covid-19"></a>Kompetens tillägg för förskjutnings effekter av COVID-19
-
-**F: erbjuder Microsoft Support för partner mot Hardship?**
-
-S: för partner med ett förfallo datum för kompetensen mellan 1 juli och 31 december 2020 utökas partnerns befintliga kompetens eller kompetens genom nästa jubileums datum i 2021. Partnern får en förnyad påminnelse som visar det nya erbjudandet. Partnern måste betala sin kompetens avgift inom 30 dagar från förnyelse perioden.
-
-**F: Vad händer om en partner missade förnyelse perioden på 30 dagar?**
-
-A: partnern kan återaktivera sin kompetens och få till gång till resurser och förmåner genom att betala sin avgift på sidan för medlemskaps erbjudanden i Partner Center upp till 30 dagar efter förfallo datum. Om en partner har missat en respitperiod för 30 dagar efter förfallo datum, ska de skicka in ett support ärende via partner Center som anger information om sin begäran om att få en COVID åsidosättning efter att förnyelse perioden på 30 dagar har löpt ut.
-
-Om du vill ha mer information kan du läsa [förnya MPN-erbjudandet](renew-mpn-offers.md).
-
 ## <a name="next-steps"></a>Nästa steg
 
-- [Hitta dina Microsoft Partner Network-förmåner](mpn-find-benefits.md) 
+- [Hitta dina Microsoft Partner Network-förmåner](mpn-find-benefits.md)
+- [Förnya MPN-erbjudandet](renew-mpn-offers.md)

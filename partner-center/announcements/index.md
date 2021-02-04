@@ -8,20 +8,24 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/28/2021
-ms.openlocfilehash: 6e5a9f4bcc9918a78833121c22c410aac9fac79c
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.date: 02/03/2021
+ms.openlocfilehash: 9002e77d364985ffec170dbf3887dde0ab324746
+ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042709"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99552419"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
 Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här informationen regelbundet så återkom ofta!
 
-| **Kategori** | **Meddelanden januari 2021** | **Meddelande** |
+|**Kategori**|**Meddelanden från februari 2021**|**Meddelande**|
 |---------|:---------|:---------|
+|Funktioner|[Svara på COVID-19: Microsoft Partner Network Update](2021-february.md#3)|4 februari|
+|Funktioner|[Nya uppdateringar av Referrals-modulen i Partner Center](2021-february.md#2)|4 februari|
+|Modern arbetsplats|[Utfasning och borttagning av kvalificerings-API: er för kund validerings processen för utbildningen senast den 25 februari 2021 och ERHÅLLer kvalificering från 4 maj, 2021](2021-february.md#1)|4 februari|
+| **Kategori** | **Meddelanden januari 2021** | **Meddelande** |
 |Modern arbetsplats|[Fas 1 är Live: EU/EFTA & UK ändring av partner fakturerings valuta för nya Commerce-erbjudanden](2021-january.md#15)|28 januari|
 |Modern arbetsplats|[Ändringar i Molnlösningsleverantör-kunders krav för onboarding](2021-january.md#14)|28 januari|
 |Funktioner|[Microsoft partner Agreement (MPA) – uppdatering av indirekt åter försäljare & nya frågor och svar](2021-january.md#13)|27 januari|

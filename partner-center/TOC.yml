@@ -118,6 +118,9 @@
     - name: Microsoft-partneravtal – molnlösningsleverantörer
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
+    - name: Hantera platser
+      href: manage-locations.md
+      displayName: 'mpn, csp'
     - name: Hur indirekta leverantörer kan hjälpa sina åter försäljare att anta MPA
       href: mpa-indirect-provider-faq.md
       displayName: 'csp, mpa, indirect, provider'
@@ -197,9 +200,6 @@
         - name: Uppdatera din partnerprofil
           href: update-your-partner-profile.md
           displayName: mpn
-        - name: Hantera platser
-          href: manage-locations.md
-          displayName: 'mpn, csp'
         - name: Bli en kontrollpanelsleverantör
           href: enroll-as-cpv.md
           displayName: csp
