@@ -9,14 +9,14 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: c3ca88d367ea9dea8df1bb2bb4945ecc7b900b26
-ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
+ms.openlocfilehash: 1f8d9f04920a4f2a0fab40523c217835d9b0e4ef
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96776859"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530841"
 ---
-# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analysera dina leads – se hur bra du får mål kunder och potentiella referenser
+# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analysera dina leads – se hur bra du är på att locka kunder och potentiella referenser
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
@@ -24,11 +24,6 @@ https://go.microsoft.com/fwlink/?linkid=849120
 **Lämpliga roller**
 
 - Referens administratör
-
-**Gäller för**
-
-- Marketplace-leads
-- Kvalificerade leads
 
 På sidan **leads** i avsnittet **analys** i hänvisningar kan du se hur dina referenser fungerar. Granska dessa mått regelbundet för att identifiera trender eller områden som behöver åtgärdas och börja rikta mot dina affärs mål.
 
@@ -115,3 +110,7 @@ Det kan finnas flera orsaker till att du får ett tomt diagram som nedan när du
 
 > [!TIP]
 > Om du vill se hur dina samförsäljnings möjligheter fungerar går du till [sidan för affärs möjligheter för samförsäljning](referral-insights.md).
+
+## <a name="next-steps"></a>Nästa steg
+
+- [Hantera leads](manage-leads.md)

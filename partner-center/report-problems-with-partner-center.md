@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d978ca3c48ccadaabb7d714ea9a5d2900bef819
-ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
+ms.openlocfilehash: c06b11a3ddd6a91d4e939b21d603dd33aa138716
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94983349"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530671"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Rapportera problem med partner Center och skicka in information om logg-eller diagnostikinformation
 
@@ -53,7 +53,7 @@ Om ditt problem kräver en konversation med din support rådgivare kan du schema
 
 2. Partner Center söker efter tillgänglighet i support advokatens kalender.
 
-1. När du schemalägger en avtalad tid skickar Partner Center en kalender-inbjudan med information om hur support organisationen kommer att kontakta dig, så att du kan spåra den här avtalade tiden i din egen arbets kalender.
+1. När du schemalägger en avtalad tid skickar Partner Center en kalender-inbjudan med information om hur support organisationen kommer att kontakta dig, så att du kan spåra den här avtalade tiden i din egen arbets kalender.  Även om den här funktionen fortfarande finns i förhands granskningen, är inbjudan till e-post och kalender på engelska, men rådgivaren kan stödja dig på det språk som du valde när du skapade din biljett.
 
 :::image type="content" source="images/support/ticket3.png" alt-text="Datum och tid":::
 

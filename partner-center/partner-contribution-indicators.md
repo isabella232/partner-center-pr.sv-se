@@ -1,7 +1,7 @@
 ---
 title: Indikatorer för partner bidrag – CBA
 ms.topic: article
-ms.date: 01/13/2021
+ms.date: 02/03/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lär dig mer om sju partner bidrags indikatorer (PCI) som visar partner hur man uppnår en silver eller guld Business Applications kompetens.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 853af76627fcd2554492fbc918e147b8464a3e1f
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: c6698d955433e8fe180fe5537c52d1aba6deea3b
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204078"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530824"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Använd partner bidrags indikatorer för att uppnå moln Business Applications kompetens
 
@@ -125,7 +125,7 @@ Mer information finns i följande tabeller:
 | PCI-mått | Prestanda indikator: netto nya intäkter | Prestanda indikator: nya kunder lägger till | Funktions indikator: funktionella konsulter | Funktions indikator: funktionell konsult tillväxt | Funktions indikator: utvecklare | Lyckad kund indikator: nya stora distributioner | Lyckad kund indikator: månatlig aktiv användar tillväxt |
 |---|---|---|---|---|---|---|---|
 | **Maximalt antal punkter** | 10 punkter | 10 punkter | 15 punkter | 15 punkter | 5 punkter | 20 punkter | 25 punkter |
-| **Utifrån** | $300 000 | 10 | 10 | *\* Se Obs!* | 5 | 5 | 25 % |
+| **Utifrån** | $300 000 | 10 | 15 | *\* Se Obs!* | 5 | 5 | 25 % |
 | **Länder** | $150 000 | 5  | 5  |*\* Se Obs!* | 2 | 1 | 25 % |
 
 *\* Obs! tillväxt målen varierar beroende på antalet bas linje konsulter och det alternativ som en partner använder för att få poäng. Om du vill veta mer om alternativ för att få poäng eller varje alternativs angivna tillväxt mål, se [definitioner för funktionell konsult tillväxt](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).*
