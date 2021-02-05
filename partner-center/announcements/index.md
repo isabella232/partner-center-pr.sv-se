@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/03/2021
-ms.openlocfilehash: 9002e77d364985ffec170dbf3887dde0ab324746
-ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
+ms.date: 02/05/2021
+ms.openlocfilehash: 9dd646b693f718f47c2f5edd4778836694fb0954
+ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99552419"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "99588741"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -22,6 +22,7 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 
 |**Kategori**|**Meddelanden från februari 2021**|**Meddelande**|
 |---------|:---------|:---------|
+|Funktioner|[Premium-utvärderingar, ett tillägg till Compliance Manager, kommer att tas den 1 mars 2021](2021-february.md#4)|5 februari|
 |Funktioner|[Svara på COVID-19: Microsoft Partner Network Update](2021-february.md#3)|4 februari|
 |Funktioner|[Nya uppdateringar av Referrals-modulen i Partner Center](2021-february.md#2)|4 februari|
 |Modern arbetsplats|[Utfasning och borttagning av kvalificerings-API: er för kund validerings processen för utbildningen senast den 25 februari 2021 och ERHÅLLer kvalificering från 4 maj, 2021](2021-february.md#1)|4 februari|

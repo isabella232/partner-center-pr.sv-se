@@ -9,18 +9,54 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/03/2021
-ms.openlocfilehash: dd389d0857f1ddf391086155ea5a595f0fa5b2d6
-ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
+ms.openlocfilehash: 30dc62c9c4b6ca2997f60da0caa2706f66d02961
+ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99554350"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "99588724"
 ---
 # <a name="february-2021-announcements"></a>Meddelanden från februari 2021
 
 Den här sidan innehåller information om Microsoft Partner Center-meddelanden för februari 2021.
 
 _______________
+
+## <a name="premium-assessments-an-add-on-to-compliance-manager-is-coming-on-march-1-2021"></a><a name="4"></a>Premium-utvärderingar, ett tillägg till Compliance Manager, kommer att tas den 1 mars 2021
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-02-05
+- Funktioner
+
+### <a name="affected-audience"></a>Berörd mål grupp
+
+Alla partner som går via program varan för Cloud Solution Provider (CSP)
+
+### <a name="summary"></a>Sammanfattning
+
+Premium-utvärderingar tas med i för hands versionen av pris listan i februari och kommer att vara tillgänglig från den 1 mars 2021.
+
+### <a name="details"></a>Information
+
+Premium-utvärderingar är ett valfritt tillägg till Compliance Manager och kan hjälpa kunder att uppfylla nationella, regionala och branschspecifika krav som reglerar insamling och användning av data. Premium-utvärderingar är reserverade för Office 365 E5, A5 och G5 och Microsoft 365 E5-, A5-och G5-kunder.
+
+|**Erbjudandets namn**|**Erbjudande-ID**|**Material-ID**|
+|------------------|:--------------------|:------------------|
+|CSP – Corp-addon|[76be61a7-2c03-4b3e-8330-63b11bd904ed](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/76be61a7-2c03-4b3e-8330-63b11bd904ed)|8JA-00003|
+|CSP – Corp-test|[f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4)|8JA-00004|
+|CSP – utbildning-fakultet-tillägg|[fa7f5773-063a-48cf-b3e2-de509ea1262f](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/fa7f5773-063a-48cf-b3e2-de509ea1262f)|8JB-00003|
+|CSP – utbildning – lärare – utvärdering|[828cecbd-8728-4339-B0C2-51e009a67d88](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/828cecbd-8728-4339-b0c2-51e009a67d88)|8JB-00004|
+
+### <a name="next-steps"></a>Nästa steg
+
+Granska följande resurser för det här avsnittet och dela informationen med lämpliga intressenter i din organisation.   
+
+- [Microsoft 365 E5-säkerhet och efterlevnad](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?rtc=1&activetab=m365-enterprise:primaryr5)
+- [Bygga och hantera utvärderingar i Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments&preserve-view=true=o365-worldwide)
+
+_________________________________________________________
+
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a><a name="3"></a> Svara på COVID-19: Microsoft Partner Network Update
 
 ### <a name="categories"></a>Kategorier

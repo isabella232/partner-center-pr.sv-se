@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 3475d606b3a59cf88bb9fb864ee765e4e9a20063
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: f84ceb4d17be7e02a4380e4da55d7ac199f43515
+ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215959"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "99588758"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guide till samförsäljning i Partner Center (PC) för partners som migrerar från partner Sales Connect (PSC)
 
@@ -127,7 +127,70 @@ Ibland kan migreringen misslyckats och resultera i fel. Här följer några orsa
 3. Användaren har redan en hänvisnings roll tilldelad i Partner Center.
     - Du kan verifiera användarens befintliga roll. I det övre högra hörnet av Partner Center väljer du **Inställningar** (kugg hjuls ikonen) och sedan **konto inställningar**. När du ser en andra vänster-navigerings meny väljer du **användar hantering** och söker efter användaren.
 
-När du är klar med migreringen av användare kan du använda följande vägledning för att bestämma strategin för migreringen:
+## <a name="psc-deals-migration"></a>PSC-migrering
+
+När du är klar med migreringen av användare använder du guiden för att migrera erbjudanden på sidan samförsäljnings möjligheter för att få alla berättigade öppna avtal från PSC till PC. **Länken för att migrera länkar visas bara som referens administratörer med hela organisationens omfattning i Partner Center.** Det kommer att finnas en länk med namnet **"PSC-migrering"** längst upp till höger på sidan samförsäljnings möjligheter, som öppnar guiden för att migrera avtal.
+
+Läs det här avsnittet innan du påbörjar den avtalade migreringen.
+
+**Tillgänglig för migrering**
+
+Endast vissa erbjudanden är berättigade till migrering från PSC till PC. Den här migreringsguiden är byggd för att hjälpa partner att ta sina erbjudanden till Partner Center där de fortfarande arbetar med sina kunder för att avsluta affären. **Endast avtal som är i öppet tillstånd med giltiga partner konto detaljer (giltigt MPN-ID) och inte genomgått avtals registrering är berättigade till migrering.**
+
+**Inte tillgänglig för migrering**
+
+- Lösningar för utvärdering av lösningar är inte berättigade till att delta i avtal
+- Affärs erbjudanden för OEM-licensiering är inte berättigade till avtals migration
+- Alla avtal som har marker ATS som vunna i PSC är inte tillgängliga för migrering. Avtals registrering om berättigade till de avtal som marker ATS som vunnen bör slutföras i PSC.
+
+## <a name="pre-requisites-for-deal-migration"></a>Krav för att tilldela en affär i förväg
+
+Innan du påbörjar den avtalade migreringen från datorn följer du anvisningarna nedan för att konfigurera avtalen i PSC för en lyckad migrering.
+
+1. Alla sälj team medlemmar i företaget som arbetar med de öppna avtalen informeras om migreringen.
+2. Medlemmarna i försäljnings gruppen tränas att använda Partner Center för avtals hantering.
+3. Avtalen innehåller all information som krävs enligt beskrivningen nedan.
+    - Information om kund företag, inklusive namn och adress
+    - Kundens kontakt uppgifter om det är ett erbjudande om samma försäljning
+    - Minst en lösning
+    - Minst en grupp medlem med all information – förnamn, efter namn, e-post-ID och telefonnummer
+    - Avtals värde
+    - Beräknat avtals stängnings datum
+    - Partner anteckningar
+
+Du kan använda funktionerna för hämtning och uppladdning i PSC för att rensa data för alla berättigade avtal.
+
+>[!Note]
+> Den avtalade migreringen kommer att lyckas även om ovanstående krav inte uppfylls. Men du kan inte ändra statusen för affären om något av de ovan nämnda obligatoriska fälten i Partner Center inte är tillgängliga. Sedan måste du ange all nödvändig information som saknas i avtalen i partner centret för att börja arbeta med dem. **Vi rekommenderar starkt att du rensar de berättigade avtalen i PSC innan du migrerar dem till Partner Center.**
+
+Den avtalade migreringen i Partner Center skapas som en klicknings upplevelse. Allt du behöver göra är att klicka på knappen **"migrera avtal"** när ditt företag är redo att migrera de berättigade avtalen. **Du kan inte välja de avtal som du vill migrera från PSC. Om du inte vill migrera några avtal till Partner Center flyttar du dem till stängt tillstånd i PSC innan du påbörjar migreringen.**
+
+>[!Note]
+> När migreringen har påbörjats **kan det ta upp till 24 timmar innan avtalen migreras**.
+
+När migreringen har slutförts har meddelandets status ändrats till slutförd med en länk till migreringstabellen. Hämta rapporten om du vill visa information om avtal som har migrerats från PSC till PC.
+
+Rapporten innehåller informationen nedan.
+
+1. **Partner Center-ID för engagemang** – den unika identifieraren i Partner Center för alla avtal i ett engagemang. Det finns två avtal – en för partnern och en för Microsoft i ett samförsäljnings engagemang i Partner Center.
+2. **Partner Center hänvisnings-ID** – den unika identifieraren i Partner Center för det avtal som hör till partnern.
+3. **Avtals namn** – identifierare som tilldelats i PSC-erbjudandet.
+4. **PSC-erbjudande-ID** – den unika identifieraren i PSC för affären.
+5. **Fel** – visar om det finns något fel under migreringen av ett särskilt avtal.
+
+Alla avtal som har migrerats visas inte i PSC. Du kan arbeta med de migrerade avtalen i PC. Det kommer inte att ske några ändringar av interaktionerna med Microsofts säljare för samförsäljnings avtal.
+
+Avtal som migrerats från PSC är tillgängliga i flikarna inkommande och utgående baserat på affären. Alla partner skapade avtal kommer att finnas tillgängliga på fliken utgående och Microsofts initierade avtal kommer att finnas på fliken inkommande i Partner Center. Det finns två typer av avtal som ska skapas efter migreringen.
+
+1. **Samförsäljnings avtal** – avtal som marker ATS som samförsäljning i PSC skapas som samförsäljnings avtal i Partner Center.
+2. **Partner – ledde** till avtal som inte är markerade som samförsäljning skapas som partner led i Partner Center. Partnerbaserade avtal är synliga för Microsoft-säljare och kan uppgraderas till samförsäljnings avtal innan de når Terminal-tillstånd (vunnen, förlorad). Dessutom är partner lampor berättigade till avtals registrering om det finns en incitaments berättigad lösning i affären.
+
+>[!Important]
+> Om det finns några fel på grund av att vissa avtal inte kunde migreras **kan du starta om affären genom att klicka på knappen migrera avtal**. Det kommer bara att aktive ras om det finns vissa stödberättigade avtal som kan migreras. Detta är också användbart om du befinner dig i över gångs fasen där vissa nya avtal skapas i PSC efter det att du har initierat en kundmigrering.
+
+När alla avtal har migrerats visas en banderoll som visar **"inga avtal att migrera"** med knappen **"migrera avtal"** **inaktive rad**.
+
+När du har slutfört migreringen av användare och/eller behandlar migrering använder du följande rikt linjer för att bestämma strategin för migreringen:
 
 Om ditt företag har en partner utvecklings chef (PDM) – när ditt partner Center-konto har kon figurer ATS och dina användare har flyttat och har roller och behörigheter, kan du flytta dina samförsäljnings aktiviteter till Partner Center. Informera PDM för att göra växeln i stället för att vänta tills migreringen har slutförts, vilket gör det möjligt för alla nya avtal att flöda till Partner Center.
 
