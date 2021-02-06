@@ -8,18 +8,14 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: b16fb54ede696ac623f68cff933daf8aaf1666e7
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 166e120af2f00cef50ec0681913dd3787a4f9f39
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133073"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624229"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Vanliga frågor och svar om incitament
-
-**Gäller för:**
-
-- Partnercenter
 
 **Lämpliga roller:**
 
@@ -35,7 +31,7 @@ Nej. Både den globala administratören och konto administratören kan tilldela 
 
 Om du försöker ansluta till MPN och ditt företag redan är medlem kommer MPN att identifiera domänen och koppla dig till det befintliga kontot. Det befintliga kontot kan vara samma företag eller ett relaterat företag som använder samma e-postdomän, eller samma Azure Activity Directory (Azure AD) för att hantera flera domäner.
 
-Du kan identifiera den primära kontakten från sidan partner profil. Om din plats är MPNHQ-platsen behöver du bara konfigurera med de behörigheter som krävs för att hantera incitament. Mer information om roller och behörigheter finns i [Översikt över behörigheter](permissions-overview.md).
+Du kan identifiera den primära kontakten från sidan juridisk profil. Om din plats är MPNHQ-platsen behöver du bara konfigurera med de behörigheter som krävs för att hantera incitament. Mer information om roller och behörigheter finns i [Översikt över behörigheter](permissions-overview.md).
 
 Om du inte befinner dig i samma land som MPNHQ-platsen läser du [instruktionerna för flera nationella konton](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) för mer information om det här scenariot.
 
@@ -52,8 +48,8 @@ Mer information finns i [Översikt över behörigheter](permissions-overview.md)
 Hitta en global administratör eller konto administratör som kan göra roll ändringar eller tilldela roller till en ny användare:
 
 1. Välj **användar hantering** på ikonen konto inställningar längst upp till höger i Partner Center.
-2. Filtrera på antingen **Global administratör** eller **konto administratör** .
-3. Du kan också gå till **min profil** , välja **roller och behörigheter** och se en lista över de olika administratörer som kan hjälpa dig att öka dina behörigheter.
+2. Filtrera på antingen **Global administratör** eller **konto administratör**.
+3. Du kan också gå till **min profil**, välja **roller och behörigheter** och se en lista över de olika administratörer som kan hjälpa dig att öka dina behörigheter.
  
 Mer information finns i [hitta din roll](find-your-role.md).  
 
@@ -63,9 +59,9 @@ Den troliga orsaken till att du inte kan se incitament är att du inte har rätt
 
 1. Logga in på [instrument panelen för partner Center](https://partner.microsoft.com/dashboard/) med dina autentiseringsuppgifter för Azure AD-klienten (dina autentiseringsuppgifter för arbetet). Om du inte kan logga in kontaktar du företagets globala administratör.
 
-2. Om du uppmanas att välja från ditt **arbets konto** eller **personliga konto** när du loggar in väljer du **arbets konto** .
+2. Om du uppmanas att välja från ditt **arbets konto** eller **personliga konto** när du loggar in väljer du **arbets konto**.
 
-3. På menyn Partner Center väljer du **incitament** och väljer sedan **Översikt** . Om du inte har någon incitaments administratör eller incitament över användar behörigheter visas kontakt information för alla globala administratörer och konto administratörer för ditt företag. Kontakta en av de här administratörerna för att få stimulans rollen för nödvändiga MPN-ID: n och incitaments program.
+3. På menyn Partner Center väljer du **incitament** och väljer sedan **Översikt**. Om du inte har någon incitaments administratör eller incitament över användar behörigheter visas kontakt information för alla globala administratörer och konto administratörer för ditt företag. Kontakta en av de här administratörerna för att få stimulans rollen för nödvändiga MPN-ID: n och incitaments program.
 
 4. Om du redan har en roll för stimulans administration visas registreringar för ditt företag för de MPN-ID: n och de incitaments program som du har åtkomst till.
 

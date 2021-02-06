@@ -9,27 +9,22 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 673728ad03d6617fa60ba4119f0ebbbaaa4ce328
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 3f521e05fbf0b3a6c209a84ed9ab53d2502960a5
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132987"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624161"
 ---
 # <a name="security-requirements-status-report"></a>Status rapport för säkerhets krav
 
-**Gäller för**
-
-- Alla partner i Cloud Solution Provider-programmet
-- Alla leverantörer på kontroll panelen
-- Alla rådgivare
-
-**Lämpliga användare**
-- Alla aktiverade användare, inklusive gäst användare
+**Lämpliga roller**
+- Leverantörer på kontroll panelen
+- Globala administratörer
 
 I den här artikeln beskrivs status rapporten säkerhets krav i Partner Center. Den här rapporten ger Mät värden som följer [kraven på partner säkerhet](partner-security-requirements.md) för Multi-Factor Authentication (MFA) för användare i din partner klient.
 
-Du kommer åt den här rapporten i [partner Center](https://partner.microsoft.com/dashboard)genom att gå till **Inställningar**  >  **partner inställningar**  >  **säkerhets krav status** . Rapporten uppdateras dagligen och visar inloggnings data från de senaste sju dagarna.
+Om du vill få åtkomst till den här rapporten i [partner Center](https://partner.microsoft.com/dashboard)går du till **Inställningar**  >  **konto inställningar**  >  **säkerhets krav status**. Rapporten uppdateras dagligen och visar inloggnings data från de senaste sju dagarna.
 
 >[!NOTE]
 >Status rapporten för säkerhets krav stöds bara i Partner Center. Den är inte tillgänglig i Microsoft Cloud för amerikanska myndigheter eller Microsoft Cloud Tyskland. Vi rekommenderar starkt att alla partner som agerar genom ett suveränt moln (amerikanska myndigheter och Tyskland) inför dessa nya säkerhets krav direkt. Dessa partner krävs dock för närvarande inte för att uppfylla de nya säkerhets kraven. Microsoft tillhandahåller ytterligare information om verk ställandet av dessa säkerhets krav för suveräna moln i framtiden.
@@ -107,7 +102,7 @@ Ta reda på om den aktuella implementeringen endast tillämpar MFA under vissa v
 
 Om du använder MFA-lösningen från tredje part kan du identifiera hur du integrerar den med Azure AD. I allmänhet finns det två metoder, inklusive Federation och anpassade kontroller:
 
-* **Identitets Federation** – när Azure AD tar emot en autentiseringsbegäran omdirigerar Azure AD användaren till den federerade identitets leverantören för autentisering. Vid lyckad autentisering omdirigerar den federerade identitets leverantören användaren tillbaka till Azure AD tillsammans med en SAML-token. För att Azure AD ska kunna identifiera att användaren har slutfört MFA-verifiering vid autentisering till den federerade identitets leverantören, måste SAML-token innehålla *authenticationmethodsreferences* -anspråket (med värdet *multipleauthn* ). Kontrol lera om den federerade identitets leverantören stöder utfärdande av ett sådant anspråk. Om så är fallet kontrollerar du om den federerade identitets leverantören har kon figurer ATS att göra det. Om anspråket saknas vet inte Azure AD (och därför Partner Center) att användaren har slutfört MFA-verifieringen och att det saknas ett anspråk kan orsaka att måttet inte är 100%.
+* **Identitets Federation** – när Azure AD tar emot en autentiseringsbegäran omdirigerar Azure AD användaren till den federerade identitets leverantören för autentisering. Vid lyckad autentisering omdirigerar den federerade identitets leverantören användaren tillbaka till Azure AD tillsammans med en SAML-token. För att Azure AD ska kunna identifiera att användaren har slutfört MFA-verifiering vid autentisering till den federerade identitets leverantören, måste SAML-token innehålla *authenticationmethodsreferences* -anspråket (med värdet *multipleauthn*). Kontrol lera om den federerade identitets leverantören stöder utfärdande av ett sådant anspråk. Om så är fallet kontrollerar du om den federerade identitets leverantören har kon figurer ATS att göra det. Om anspråket saknas vet inte Azure AD (och därför Partner Center) att användaren har slutfört MFA-verifieringen och att det saknas ett anspråk kan orsaka att måttet inte är 100%.
 
 * **Anpassad kontroll** – det går inte att använda anpassad kontroll för Azure AD för att identifiera om en användare har SLUTFÖRt MFA-verifiering via en MFA-lösning från tredje part. Därför kommer alla användare som har slutfört MFA-verifiering via en anpassad kontroll alltid att visas i Azure AD (och i sin tur Partner Center) som att de inte har slutfört MFA-verifiering. Där det är möjligt rekommenderar vi att du växlar till att använda identitets Federation i stället för anpassad kontroll vid integrering med Azure AD.
 

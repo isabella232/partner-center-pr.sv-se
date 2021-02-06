@@ -1,7 +1,7 @@
 ---
 title: Hantera platser i ditt partner konto
 ms.topic: how-to
-ms.date: 01/26/2021
+ms.date: 02/05/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Lär dig hur du lägger till en ny plats och hur plats MPN ID används i stimulans program, CSP-verksamhet, prenumerationer och andra transaktioner.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21d82fc3ec4470d4941d3ca7436089d3e892439e
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: c5ac31b772c6757468c5ea9d463643731571b31f
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098898"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624280"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Hantera dina MPN-konto platser och Lägg till en ny plats
 
@@ -47,6 +47,8 @@ Om du vill lägga till ett nytt CSP-affärskonto börjar du med att se till att 
  >Kom ihåg att logga in med de **nya** autentiseringsuppgifterna för det **nya** CSP-kontot. Använd inte dina befintliga autentiseringsuppgifter eftersom Partner Center känner igen att du redan har ett konto.
 
 2. Godkänn Microsoft partner Agreement och aktivera kontot.
+
+1. Läs [krav för direkt fakturerings](direct-partner-new-requirements.md) partner om du vill registrera dig som en direkt fakturerings partner
 
 ## <a name="view-your-mpn-locations"></a>Visa dina MPN-platser
 

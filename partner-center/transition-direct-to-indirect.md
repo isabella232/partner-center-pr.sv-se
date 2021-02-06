@@ -9,21 +9,18 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e3cd791f5f9f781980d73c79f0ec18627585372a
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: ceaf3fd0819937177648814a02df4a2a266ee06f
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795873"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624314"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Övergå från en CSP-partner med direktfakturering till en indirekt CSP-återförsäljare
 
-**Gäller:**
-- Partnercenter
-
 **Lämpliga roller**
 
-- Alla leverantörer av KRYPTOGRAFIPROVIDERs direkt fakturering
+- Globala administratörer
 
 >[!Note]
 >Den här artikeln är avsedd för direkta fakturerings partner som har valt att övergå till indirekta åter försäljare. Men även om du inte har gjort ett explicit beslut än att registrera sig som en indirekt åter försäljare, kommer direkta fakturerings partner som inte uppfyller de nya [kraven](direct-partner-new-requirements.md) för fakturerings programmet för CSP: n att informeras av Microsoft när deras [direkta fakturerings kapacitet är begränsad](restricted-direct-bill-capabilities.md).
@@ -41,7 +38,7 @@ Du kommer att kunna registrera i det indirekta åter försäljar programmet med 
 
 3. Granska din partner information i registrerings formuläret.
 
-   :::image type="content" source="images/direct/direct2a.png" alt-text="Översikt":::
+   :::image type="content" source="images/direct/direct2a.png" alt-text="Registrera dig nu":::
 
 4. Välj Registrera nu. Den indirekta åter försäljaren kommer att använda samma AAD-klient som du använder för din direkta verksamhet.
 
@@ -51,13 +48,13 @@ Du kommer att kunna registrera i det indirekta åter försäljar programmet med 
 5. När registreringen är godkänd loggar du in på Partner Center igen.
 
     > [!NOTE]
-    > Även om godkännandet ofta är omedelbart kan det ta upp till fem arbets dagar. När den har godkänts får du ett meddelande till den e-postadress som du har angett under primär kontakt i registrerings formuläret. Du kan också kontrol lera registrerings statusen under **Inställningar**  >  **partner inställningar**  >  **partner profil** > program information.
+    > Även om godkännandet ofta är omedelbart kan det ta upp till fem arbets dagar. När den har godkänts får du ett meddelande till den e-postadress som du har angett under primär kontakt i registrerings formuläret. Du kan också kontrol lera registrerings statusen under **Inställningar**  >  **konto inställningar**  >  **partner profil** > program information.
 
-6. På sidan **Översikt** visas avtalet om indirekt åter försäljare. Välj **Godkänn och fortsätt** . Den här åtgärden aktiverar funktioner för indirekt åter försäljare.
+6. På sidan **Översikt** visas avtalet om indirekt åter försäljare. Välj **Godkänn och fortsätt**. Den här åtgärden aktiverar funktioner för indirekt åter försäljare.
 
 När du har godkänt avtalet för den indirekta åter försäljaren ser du att din partner profil identifierar dig som **både** en direkt fakturerings-och indirekt åter försäljare.
 
-:::image type="content" source="images/direct/direct3.png" alt-text="Översikt":::
+:::image type="content" source="images/direct/direct3.png" alt-text="Indirekt åter försäljar avtal":::
 
 > [!IMPORTANT]
 > När du har registrerat dig som en indirekt åter försäljare med den nya funktionen finns det inget alternativ för att återställa till en direkt fakturerings klient. Se till att du utvärderar dina affärs behov fullständigt innan du registrerar dig som en indirekt åter försäljare.
@@ -66,7 +63,7 @@ När du har godkänt avtalet för den indirekta åter försäljaren ser du att d
 
 Under den här fasen kommer du fortsätta att hantera dina direkta kunders prenumerations behov, inklusive fakturerings processen. Du kan också börja acceptera kunder från den indirekta leverantören och arbeta som en indirekt åter försäljare.
 
-:::image type="content" source="images/direct/direct4.png" alt-text="Översikt":::
+:::image type="content" source="images/direct/direct4.png" alt-text="Du är både en direkt fakturerings-och indirekt åter försäljare":::
 
 ## <a name="find-an-indirect-provider"></a>Hitta en indirekt leverantör
 
@@ -172,21 +169,21 @@ Du kan använda funktionen för Relations tillägg för åter försäljare för 
 
 Så här använder du den här funktionen på en befintlig kund klient organisation:
 
-1. Logga in på Partner Center som **Administratörs agent** .
+1. Logga in på Partner Center som **Administratörs agent**.
 
 2. På **sidan kunder** väljer du en befintlig kund och klickar på dess **snabb länkars** ikon för att expandera kundens sammanfattningsvy.
 
-3. Under **indirekta providers** klickar du på **överför kund på en indirekt Provider** .
+3. Under **indirekta providers** klickar du på **överför kund på en indirekt Provider**.
 
-    :::image type="content" source="images/direct/direct5-1.png" alt-text="Översikt":::
+    :::image type="content" source="images/direct/direct5-1.png" alt-text="Överför kunden till en indirekt Provider":::
 
 4. I popup-dialogrutan väljer du den **indirekta providern** som du vill ha åter försäljarens relation med kunden.
 
-5. Klicka på **Spara och fortsätt** .
+5. Klicka på **Spara och fortsätt**.
 
-6. Kontrol lera att den valda indirekta providern visas under **indirekta providers** .
+6. Kontrol lera att den valda indirekta providern visas under **indirekta providers**.
 
-    :::image type="content" source="images/direct/direct5-2.png" alt-text="Översikt":::
+    :::image type="content" source="images/direct/direct5-2.png" alt-text="Indirekt Provider listad":::
 
 ### <a name="send-an-indirect-reseller-invitation-to-the-customer"></a>Skicka en indirekt åter försäljares inbjudan till kunden
 
@@ -196,7 +193,7 @@ Din indirekta leverantör kan inte skicka in beställningar för dina befintliga
 
 2. Välj **Bjud in nya kunder** för att bjuda in en kund att upprätta en åter försäljares relation med både du och den indirekta providern på samma tid. Leverantören måste ha en åter försäljar relation med din kund, så att de kan skicka beställningar på din kunds räkning när kunden vill köpa nya prenumerationer eller lägga till nya licenser i befintliga prenumerationer.
 
-    :::image type="content" source="images/direct/direct6.png" alt-text="Översikt":::
+    :::image type="content" source="images/direct/direct6.png" alt-text="Bjud in nya kunder":::
 
 3. På nästa sida granskar du utkastet till e-postmeddelandet. Du kan öppna utkast meddelandet i ett e-postmeddelande, eller så kan du kopiera meddelandet till Urklipp och klistra in det i ett e-postmeddelande.
 
@@ -251,7 +248,7 @@ Funktionen är en fyra stegs process där:
 > [!NOTE]
 > Du kan också använda [partner Center API/SDK](/partner-center/develop/manage-customers) för att överföra befintliga prenumerationer till den indirekta providern.
 >
-> - [Få en kunds tillstånd för överföring av prenumerationer](/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
+> - [Hämta en kunds prenumerationers överföringsberättigande](/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
 > - [Skapa en kunds överföring](/partner-center/develop/create-a-transfer)
 > - [Återkalla en kunds överföring](/partner-center/develop/withdraw-a-transfer)
 > - [Acceptera en kunds överföring](/partner-center/develop/accept-a-transfer)
@@ -263,29 +260,29 @@ Funktionen är en fyra stegs process där:
 
 Så här skapar du en överföringsbegäran som över gångs partner:
 
-1. Logga in på Partner Center som **Administratörs agent** .
+1. Logga in på Partner Center som **Administratörs agent**.
 
 2. På sidan **kunder** väljer du den avsedda kunden och klickar på ikonen snabb Länkar för att expandera kundens sammanfattningsvy.
 
 3. Under **indirekta providers** kontrollerar du att den avsedda indirekta providern visas.
 
-4. Klicka på **Visa prenumerationer** .
+4. Klicka på **Visa prenumerationer**.
 
-5. På sidan **prenumerationer** söker du efter **prenumerations överföring** .
+5. På sidan **prenumerationer** söker du efter **prenumerations överföring**.
 
-6. Under **prenumerations överföring** klickar du på **begär prenumerations överföring** .
+6. Under **prenumerations överföring** klickar du på **begär prenumerations överföring**.
 
-    :::image type="content" source="images/direct/direct8.png" alt-text="Översikt":::
+    :::image type="content" source="images/direct/direct8.png" alt-text="Begär prenumerations överföring":::
 
 7. I dialog rutan överför begäran väljer du en eller flera prenumerationer som ska överföras.
 
-    :::image type="content" source="images/direct/direct9.png" alt-text="Översikt":::
+    :::image type="content" source="images/direct/direct9.png" alt-text="Skapa överföringsbegäran":::
 
-8. Klicka på **Skapa** .
+8. Klicka på **Skapa**.
 
-9. En aktiv begäran om prenumerations överföring visas under **prenumerations överföring** .
+9. En aktiv begäran om prenumerations överföring visas under **prenumerations överföring**.
 
-    :::image type="content" source="images/direct/direct10.png" alt-text="Översikt":::
+    :::image type="content" source="images/direct/direct10.png" alt-text="Lista över överförings begär Anden":::
 
 10. Informera den indirekta leverantören att du har skapat en begäran om prenumerations överföring.
 
@@ -293,29 +290,29 @@ Så här skapar du en överföringsbegäran som över gångs partner:
 
 Så här granskar och godkänner du en överföringsbegäran som den indirekta providern:
 
-1. Logga in på Partner Center som **Administratörs** agent eller **försäljnings agent** .
+1. Logga in på Partner Center som **Administratörs** agent eller **försäljnings agent**.
 
 2. På sidan **kunder** väljer du den avsedda kunden och klickar på dess snabb länkars ikon för att expandera kundens sammanfattningsvy.
 
 3. Under **indirekta åter försäljare** bekräftar du att över gångs partnern visas.
 
-4. Klicka på **Visa prenumerationer** .
+4. Klicka på **Visa prenumerationer**.
 
-5. På sidan **prenumerationer** söker du efter **prenumerations överföring** .
+5. På sidan **prenumerationer** söker du efter **prenumerations överföring**.
 
-    :::image type="content" source="images/direct/direct11.png" alt-text="Översikt":::
+    :::image type="content" source="images/direct/direct11.png" alt-text="Visa överförings förfrågan":::
 
 6. Under **prenumerations överföring** klickar du på den överföringsbegäran som ska granskas.
 
-7. Klicka på **acceptera** (eller **avvisa** ) efter behov.
+7. Klicka på **acceptera** (eller **avvisa**) efter behov.
 
-    :::image type="content" source="images/direct/direct12.png" alt-text="Översikt":::
+    :::image type="content" source="images/direct/direct12.png" alt-text="Godkänn överföringsbegäran":::
 
 8. Vänta tills överförings förfrågan har slutförts.
 
 ### <a name="indirect-provider---verify-transfer-request-is-complete"></a>Indirekt provider-Kontrol lera att överföringsbegäran har slutförts
 
-1. När överföringsbegäran har slutförts kontrollerar du att du kan se att prenumerationerna visas under **prenumerationer** .
+1. När överföringsbegäran har slutförts kontrollerar du att du kan se att prenumerationerna visas under **prenumerationer**.
 
 2. Informera över gångs partnern.
 
@@ -323,23 +320,23 @@ Så här granskar och godkänner du en överföringsbegäran som den indirekta p
 
 Över gångs partner bör göra följande:
 
-1. Logga in på Partner Center som **Administratörs agent** eller **försäljnings agent** .
+1. Logga in på Partner Center som **Administratörs agent** eller **försäljnings agent**.
 
 2. På sidan **kunder** väljer du den avsedda kunden och klickar på ikonen **snabb länkar** för att expandera kundens sammanfattningsvy.
 
-3. Klicka på **Visa prenumerationer** .
+3. Klicka på **Visa prenumerationer**.
 
-4. På sidan **prenumerationer** söker du efter **prenumerations överföring** .
+4. På sidan **prenumerationer** söker du efter **prenumerations överföring**.
 
-5. Kontrol lera att överföringsbegäran har marker ATS som **slutförd** .
+5. Kontrol lera att överföringsbegäran har marker ATS som **slutförd**.
 
 6. Kontrol lera att prenumerationerna inte längre visas som aktiva på sidan **prenumerationer** :
 
    1. Om det här är en Azure-prenumeration (MS-AZR-0145P) visas den inte längre.
 
-   2. Om det här är en licens baserad prenumeration (Office 365, Dynamics, Intune) visas den med tillståndet **pausad** .
+   2. Om det här är en licens baserad prenumeration (Office 365, Dynamics, Intune) visas den med tillståndet **pausad**.
 
-   :::image type="content" source="images/direct/direct13.png" alt-text="Översikt":::
+   :::image type="content" source="images/direct/direct13.png" alt-text="Prenumerationen har pausats":::
 
 ### <a name="considerations"></a>Överväganden
 

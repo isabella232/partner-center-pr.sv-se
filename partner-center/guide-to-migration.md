@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8b6646ff943ff219c41c975d60e66a46d1e0f595
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: dd566a6d9ef60747eb7fd515b4d63d87d991da2a
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532044"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624195"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guide för att flytta från PMC till Partnercenter
 
@@ -53,9 +53,9 @@ Om ditt företag inte har en e-postklient för arbete och AAD, kan vi hjälpa di
 >[!NOTE]
 >Om du är en partner i Kina och registrerat i både Microsoft Partner Network-och Cloud Solution Provider (CSP)-programmet har du en separat klient för varje konto. Ditt konto med Cloud Solution Provider-programmet hanteras i det nationella molnet och ditt Microsoft Partner Networks konto hanteras i det globala molnet. De två kontona kan inte länkas.
 
-:::image type="content" source="images/migration/newtellusabout.png" alt-text="Komma igång":::
+:::image type="content" source="images/migration/newtellusabout.png" alt-text="Berätta för oss om ditt företag":::
 
-När du har verifierat eller uppdaterat informationen väljer du **Godkänn och fortsätt** .
+När du har verifierat eller uppdaterat informationen väljer du **Godkänn och fortsätt**.
 Villkoren på den här sidan är **exakt samma** som det avtal som ditt företag redan har loggat in på PMC.  
 Det här steget startar skapandet av din Azure AD-klient och ger ditt arbets konto.
 
@@ -71,7 +71,7 @@ När du väljer **Godkänn och fortsätt** görs även följande:
 
 När du har skapat din nya Azure AD-klient kan du bjuda in dina anställda att logga in på Partner Center.
 
-:::image type="content" source="images/migration/invite.png" alt-text="Komma igång":::
+:::image type="content" source="images/migration/invite.png" alt-text="Bjud in anställda":::
 
 Om du har loggat in med en befintlig AAD-klient har dina anställda flyttat med dig. I det här fallet tilldelar du dina anställda roller som avgör vad de kan göra i Partner Center. 
 
@@ -84,23 +84,23 @@ Om din AAD-klient är ny, tilldelas ingen rollen global administratör. För att
 
 Även om du kan använda de erbjudanden du redan har köpt kommer du inte att kunna köpa några nya erbjudanden förrän du har slutfört steget med att tilldela en global administratör.
 
-:::image type="content" source="images/migration/takecontrol.png" alt-text="Komma igång":::
+:::image type="content" source="images/migration/takecontrol.png" alt-text="Ta kontroll":::
 
 När du väljer kom igång visas följande skärm bild:
 
-:::image type="content" source="images/migration/verifytxt.png" alt-text="Komma igång":::
+:::image type="content" source="images/migration/verifytxt.png" alt-text="Verifiera domänägarskap":::
 
 Din domän registrator är redan ifylld för dig. Det är bara domän ägaren som kan uppdatera DNS-filen, så genom att kopiera och lägga till text filen i din DNS-post kan vi verifiera att du är ägare. Det tar några minuter innan uppdateringen sker. Du måste logga ut från Partner Center och sedan logga in igen. Din roll kommer att ha ändrats till global administratör.
 
 ## <a name="get-acquainted-with-your-dashboard-and-partner-center"></a>Bekanta dig med instrument panelen och partner Center
 
-Ta en rundtur på din instrument panel. Här kan du hantera ditt medlemskap, lägga till en affärs profil för hänvisningarna, registrera dig i Cloud Solution Provider-programmet och se meddelanden och erbjudanden som är relevanta för din verksamhet när som helst genom att välja **instrument panel** . Du kan också hantera incitament, köpa på Marketplace och registrera dig för go-to-Marketing-tjänster med mera.  
+Ta en rundtur på din instrument panel. Här kan du hantera ditt medlemskap, lägga till en affärs profil för hänvisningarna, registrera dig i Cloud Solution Provider-programmet och se meddelanden och erbjudanden som är relevanta för din verksamhet när som helst genom att välja **instrument panel**. Du kan också hantera incitament, köpa på Marketplace och registrera dig för go-to-Marketing-tjänster med mera.  
 
-:::image type="content" source="images/migration/fre.png" alt-text="Komma igång":::
+:::image type="content" source="images/migration/fre.png" alt-text="Ta en rundtur":::
 
 ## <a name="sign-the-microsoft-partner-agreement"></a>Signera Microsoft partner Agreement
 
-Om du är en indirekt åter försäljare måste du fortfarande officiellt registrera dig i Cloud Solution Provider-programmet när du har konfigurerat ditt partner Center-konto. Du kontrollerar medlemskapets status genom att gå till din [partner profil](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) och bekräfta konto typen. Registrera sedan i CSP som en [indirekt åter försäljare](enrolling-in-the-csp-program.md).
+Om du är en indirekt åter försäljare måste du fortfarande officiellt registrera dig i Cloud Solution Provider-programmet när du har konfigurerat ditt partner Center-konto. Kontrol lera medlemskapets status genom att gå till din [juridiska profil](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) och bekräfta konto typen. Registrera sedan i CSP som en [indirekt åter försäljare](enrolling-in-the-csp-program.md).
 
  När du har registrerat dig som en indirekt åter försäljare accepterar du [begäran om CSP-relation med den indirekta providern](indirect-reseller-tasks-in-partner-center.md).
 
@@ -112,7 +112,7 @@ Godkänn sedan Microsoft partner Agreement i Översikt över [instrument panelen
 
 - [Microsoft-partneravtal](microsoft-partner-agreement.md)
 
-- [Skapa användar konton](create-user-accounts-and-set-permissions.md)
+- [Skapa användarkonton](create-user-accounts-and-set-permissions.md)
 
 - [Tilldela användarroller och behörigheter](permissions-overview.md)
 

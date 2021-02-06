@@ -8,18 +8,15 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 1e97e2e9db798e5ef90858cf96dc06602bbfe427
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 282fdacc8689ff71e885a2f0ea01ce9570611707
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492474"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624246"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Skapa och hantera incitaments utbetalningar och skatte profiler i Partner Center
 
-**Gäller för:**
-
-- Partnercenter
 
 **Lämpliga roller:**
 
@@ -64,7 +61,7 @@ I avsnitten nedan får du stegvisa anvisningar genom processen att skapa och han
    - Om du bara kan logga in med @onmicrosoft.com domänen kontaktar du konto administratören för att lägga till ytterligare domäner i Azure AD-kontot.
    - Om du uppmanas att välja **arbets-eller skol konto** eller **personligt konto** väljer du **arbets-eller skol konto**.
 
-2. Välj kugg hjuls ikonen för att öppna menyn **Inställningar** och välj sedan **partner inställningar**.
+2. Välj kugg hjuls ikonen för att öppna menyn **Inställningar** och välj sedan **konto inställningar**.
 
 3. I menyn **konto inställningar** väljer du **utbetalning och skatt**. 
 
@@ -72,7 +69,7 @@ I avsnitten nedan får du stegvisa anvisningar genom processen att skapa och han
 
 1. Logga in på [partner Center-instrumentpanelen](https://partner.microsoft.com/dashboard/)och välj sedan kugg hjuls ikonen för att öppna menyn **Inställningar** . 
 
-2. Välj **partner inställningar**, expandera **avsnittet utbetalning och skatt** och välj sedan **utbetalning och skatte profil tilldelning**. 
+2. Välj **konto inställningar**, expandera **avsnittet utbetalning och skatt** och välj sedan **utbetalning och skatte profil tilldelning**. 
    
    En lista över dina program kommer att visas. Välj pilen bredvid ett program om du vill se profil information. 
 

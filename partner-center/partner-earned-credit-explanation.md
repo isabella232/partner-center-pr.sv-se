@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f274103feeadfa6fd135f99632f3013c29601972
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 010f74164b0428a5cd6ffcde5000b52ac6a6993f
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182417"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624008"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Hur partnerintjänad kredit beräknas och betalas
 
@@ -52,7 +52,7 @@ Följande krav gäller för att få partner företaget intjänade kredit (PEC):
 
 ### <a name="calculation"></a>Beräkning
 
-PEC beräknas dagligen och kan visas i den dagliga användnings filen och en månads faktura rekognoseringar-fil. En partner (indirekt provider eller indirekt åter försäljare) måste ha åtkomst för hela dagen (dygnet runt) för att säkerställa att de får PEC. PEC beräknas dagligen på de hanterade Azure-resurserna. Högsta PEC för en viss fakturerings period (månad) är 15%. Partner som bevarar beständig privilegie rad åtkomst under månaden (omfånget för åtkomst) och för alla berättigade resurser (åtkomstscope) får fullständig PEC på 15%. Omfångs-och span-reducering ger lägre PEC-pris för månaden. Dagligt klassificerad användnings fil visas dagligen på en Azure-till gång, oavsett om PEC används eller inte. Partner kan också registrera aviseringar för att övervaka ändringar i beständig privilegie rad åtkomst.
+PEC beräknas dagligen och kan visas i den dagliga användnings filen och en månads faktura rekognoseringar-fil. En partner (indirekt provider eller indirekt åter försäljare) måste ha åtkomst för hela dagen (dygnet runt) för att säkerställa att de får PEC. PEC beräknas dagligen på de hanterade Azure-resurserna. Partner som bevarar beständig privilegie rad åtkomst under månaden (åtkomstscope) och för alla tillgängliga resurser (åtkomstscope) kommer att få fullständig PEC. Omfångs-och span-reducering ger lägre PEC-pris för månaden. Dagligt klassificerad användnings fil visas dagligen på en Azure-till gång, oavsett om PEC används eller inte. Partner kan också registrera aviseringar för att övervaka ändringar i beständig privilegie rad åtkomst.
 
 ## <a name="azure-cost-management"></a>Azure Cost Management
 

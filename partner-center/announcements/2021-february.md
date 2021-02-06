@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/03/2021
-ms.openlocfilehash: 30dc62c9c4b6ca2997f60da0caa2706f66d02961
-ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
+ms.date: 02/04/2021
+ms.openlocfilehash: cb9bc726acb5d76f4774c9a515443d58f7947fbd
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "99588724"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624178"
 ---
 # <a name="february-2021-announcements"></a>Meddelanden från februari 2021
 
@@ -70,22 +70,7 @@ Alla partner
 
 ### <a name="details"></a>Information
 
-Microsoft kommer att avstå från kompetens och avancerade specialiserings krav för alla partner som har ett årsdags datum (AD) mellan 1 januari 2021 och 30 juni 2021. Undantaget till detta är CBA-kompetensen (Cloud Business Applications), för vilka fall partner som har en annons på eller efter den 1 april 2021, till och med den 30 juni 2021, kommer att bli belönad med de 15 punkterna mot de funktionella kraven för att uppfylla den funktionella konsultens tillväxt mått i PCI-konstruktionen.  
-
-**Partner med kompetenser (med undantag för Cloud Business Applications-kompetensen) som har datum per dag mellan 1 januari 2021 och 30 juni 2021** är berättigade till ett ettårig kompetens tillägg. Vi utökar din befintliga kompetens eller dina färdigheter genom nästa årsdags datum i 2022.Information som är specifik för din organisation kommer att vara tillgänglig i Partner Center från och med februari och justerad till din förnyelse tidsram.Du behöver. om du vill vidta åtgärder i Partner Center för att betala kompetens avgiften och slutföra förnyelsen.Kontakta [partner support](https://partner.microsoft.com/support) för att få hjälp om du närmar dig slutet av din 30 dagars förnyelse tidsram och inte kan förnya i Partner Center.  
-
-**För partner med moln Business Applications kompetensen:** Som tidigare har meddelats börjar PCI-poängen (partner bidrags indikatorer) att gälla den 1 april 2021. Om ditt jubileums datum för molnet Business Applications kompetensen är mellan 1 januari 2021 och 31 mars 2021 måste du uppfylla kraven som publicerats i Partner Center och betala kompetens avgiften för att slutföra förnyelsen. Om din jubileums dag för moln Business Applications kompetensen är mellan 1 april 2021 och 30 juni 2021, beviljas du 15 poäng för det funktionella måttet för den funktionella konsulten. Du måste uppfylla de återstående kraven som publiceras i Partner Center och betala avgifts avgiften för att slutföra förnyelsen.  
-
-**För partner som förnyar en avancerad specialisering i 2021:** Partner med avancerade dagliga årsdags datum mellan 1 januari 2021 och 30 juni 2021 är berättigade till ett ettårigt tillägg i 2022, förutsatt att du behåller den nödvändiga guld kompetensen som motsvarar den avancerade specialiseringen, som kan omfatta betalning av kompetens avgiften som ska förnyas. Information som är specifik för din organisation kommer att vara tillgänglig i Partner Center från och med februari och justerad till din förnyelse tidsram.  
-
-### <a name="next-steps"></a>Nästa steg
-
-- Mer uppdateringar finns i [Svara till COVID-19: Microsoft Partner Network Update-Microsoft Partner Network](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
-
-### <a name="questions"></a>Har du några frågor?
-
-För alla frågor som rör detta meddelande kontaktar du [Support för partner Center](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
-
+Microsoft erbjuder kompetens tillägg (med undantag av Cloud Business Applications-kompetensen) och avancerad specialisering för partner med årsdags datum (AD) mellan 1 januari 2021 och 30 juni 2021. Mer information hittar du i blogg inlägget för [partner](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) .
 ________________
 ## <a name="new-updates-to-the-referrals-module-in-partner-center"></a><a name="2"></a> Nya uppdateringar av Referrals-modulen i Partner Center
 
@@ -124,12 +109,12 @@ Här är what's nya i modulen Partner Center-referenser:
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du behöver hjälp med någon av de nya funktionerna kan du titta närmare på [avsnittet om hänvisningarna](https://docs.microsoft.com/partner-center/referrals) i vår kunskaps bas eller vår instruktion för att få support i vårt [Co-Sälj Experience Gallery](https://aka.ms/CoSellExperience) (inloggning krävs).
+Om du behöver hjälp med att använda någon av de nya funktionerna kan du titta närmare på [avsnittet om hänvisningarna](https://docs.microsoft.com/partner-center/referrals) i vår kunskaps bas eller vår instruktion för att få support i vårt [Co-Sälj Experience Gallery](https://aka.ms/CoSellExperience) (inloggning krävs).
 
 För ytterligare support kan du [öppna ett ärende med vårt partner support team](https://partner.microsoft.com/support/?stage=1).
 
 ________________
-## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25th-2021-and-get-qualification-by-may-4th-2021"></a><a name="1"></a> Utfasning och pensionering av kvalificerings-API: er för kundens validerings process senast den 25 februari 2021 och får kvalificering från 4 maj, 2021.
+## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25-2021-and-get-qualification-by-may-4-2021"></a><a name="1"></a> Utfasning och pensionering av kvalificerings-API: er för kundens validerings process senast 25 februari 2021 och få kvalificering senast 4 maj 2021.
 
 ### <a name="categories"></a>Kategorier
 
@@ -138,11 +123,11 @@ ________________
 
 ### <a name="impacted-audience"></a>Förverkad mål grupp
 
-Partner som säljer akademiska, ideella och GCC erbjudanden via Cloud Solution Provider-programmet med partner Center API
+Partner som säljer akademiska, icke-vinst-och GCC-erbjudanden via Cloud Solution Provider-programmet med partner Center API
 
 ### <a name="details"></a>Information
 
-Detta är en uppföljning av de förbättringar i Partner Center som [lanseras i december](https://docs.microsoft.com/partner-center/announcements/2020-december#1). Som en del av den här versionen har nya API: er för GET-och POST-kompetensen distribuerats, och de befintliga API: er för placering av API: er för **utrangering upphör att att användas den 25 februari 2021 och får kvalificering från 4 maj 2021**. Vid detta tillfälle måste du ha övergått till att använda de nya API: erna för POST Partner Center för att kunna köpa utbildnings erbjudanden och det nya GET-kompetens-API: et för att köpa Förkvalificerade icke-vinst-och GCC erbjudanden.
+Det här meddelandet är en uppföljning av de förbättringar i Partner Center som [lanseras i december](https://docs.microsoft.com/partner-center/announcements/2020-december#1). Som en del av den här versionen har nya API: er för GET-och POST-kvalifikationer distribuerats, och därför kommer de befintliga API: er för **utranging API: er att överges den 25 februari 2021 och få kvalificering senast 4 maj 2021**. Vid detta tillfälle måste du ha övergått till att använda de nya API: erna för POST Partner Center för att kunna köpa utbildnings erbjudanden och det nya GET-kompetens-API: et för att köpa Förkvalificerade icke-vinst-och GCC erbjudanden.
 
 ### <a name="next-steps"></a>Nästa steg
 

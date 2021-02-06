@@ -1,5 +1,5 @@
 ---
-title: Sälj till specialiserade branscher
+title: Sälja till specialiserade branscher
 description: Lär dig mer om Microsofts särskilda, lägre priser för vissa kund grupper, inklusive utbildnings kunder, ideella kunder och myndighets användare.
 ms.topic: how-to
 ms.date: 06/05/2020
@@ -9,18 +9,14 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c25bafc4b152ce0ca205860b3692293aaadf3636
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 24343b4cf7d51398410c33403efa7dc596adf891
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "92531364"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624059"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Sälj till specialiserade branscher såsom utbildning, ideella organisationer och myndighetsanvändare
-
-**Gäller för**
-
-- Partnercenter
 
 **Lämpliga roller**
 
@@ -42,19 +38,19 @@ Microsoft tillhandahåller särskilda, lägre priser för utvalda grupper av kun
 
 Följande steg gäller endast för indirekta leverantörer och direkta fakturerings partner. Indirekta åter försäljare måste ansluta till en indirekt leverantör för att leverera pris värda erbjudanden till kvalificerade utbildnings användare.
 
-1. I [instrument panelen](https://partner.microsoft.com/dashboard)för partner Center väljer du kugg hjuls ikonen i det övre högra hörnet i fönstret för att öppna **konto inställningar** .
+1. I [instrument panelen](https://partner.microsoft.com/dashboard)för partner Center väljer du kugg hjuls ikonen i det övre högra hörnet i fönstret för att öppna **konto inställningar**.
 
-2. I din **partner profil** går du till avsnittet **program information** och letar efter **åter försäljares kvalifikationer** .
+2. I den **juridiska profilen** går du till avsnittet **program information** och letar efter **åter försäljares kvalifikationer**.
 
 3. Om du inte ser **åter försäljarnas kvalifikationer** har du ännu inte auktoriserats att köpa några Special erbjudanden.
 
 ## <a name="check-the-customer-qualifications"></a>Kontrol lera kund kvalifikationerna
 
-1. Från menyn **partner Center** väljer du **kunder** . Välj kund i listan.
+1. Från menyn **partner Center** väljer du **kunder**. Välj kund i listan.
 
-2. I menyn kund väljer du **konto** . I avsnittet **företags information** letar du efter **särskilda kvalifikationer** .
+2. I menyn kund väljer du **konto**. I avsnittet **företags information** letar du efter **särskilda kvalifikationer**.
 
-3. Om **särskilda kvalifikationer** har angetts till **ingen** , men kunden faktiskt uppfyller kvalificeringarna, kan du **Uppdatera** informationen för att inkludera dem.
+3. Om **särskilda kvalifikationer** har angetts till **ingen**, men kunden faktiskt uppfyller kvalificeringarna, kan du **Uppdatera** informationen för att inkludera dem.
 
 ## <a name="where-to-find-special-offers"></a>Var hittar du Special erbjudanden
 
@@ -81,4 +77,4 @@ Inköps regler för att sälja Special erbjudanden till kunder:
 
 - [Sälj Minecraft: utbildnings Edition-prenumerationer på utbildnings kunder](minecraft-subscriptions.md)
 
-- [Partner Center för Microsoft Cloud för amerikanska myndigheter](partner-center-for-microsoft-us-govt-cloud.md)
+- [Välkommen till Partnercenter för Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)

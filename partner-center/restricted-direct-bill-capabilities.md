@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ee6f4fdb537752cccbceb68716ed22bb8c5fb3a
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 38fe5d03784d0fcf0796545d31e8272f316d2878
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795784"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99623991"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Begränsade direkta fakturerings möjligheter och de krav som krävs för CSP Direct-fakturerings partner  
 
@@ -31,9 +31,9 @@ Följ dessa steg för att kontrol lera om åtkomsten från direkt fakturerings p
 
 1. Logga in på [partner Center-instrumentpanelen](https://partner.microsoft.com/dashboard).
 
-2. Gå till partner **Inställningar**  ->  **partner profil** .
+2. Gå till **konto inställningar**  ->  **juridisk profil**.
 
-3. Leta efter **Microsoft Cloud lösnings leverantörens status** under **programinformation** .
+3. Leta efter **Microsoft Cloud lösnings leverantörens status** under **programinformation**.
 
 4. Om programmets status har värdet **begränsat** innebär det att din direkt fakturerings partners klient organisations åtkomst till direkta fakturerings funktioner har begränsats.
 
