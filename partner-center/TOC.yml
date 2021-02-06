@@ -129,7 +129,7 @@
       displayName: 'indirect, reseller, csp'
     - name: 'Microsoft-kundavtal (efter region, språk)'
       href: agreements.md
-      displayName: 'regio, region'
+      displayName: 'regio, region, MPA'
     - name: Begränsad åtkomst till direktfakturering
       href: restricted-direct-bill-capabilities.md
       displayName: 'indirect, reseller'
