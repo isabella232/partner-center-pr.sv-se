@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/28/2021
-ms.openlocfilehash: e450e109205481ff9c973935583307bf965e02ee
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 7195dbd9bb9a862b7b3064ed641739f04bcab512
+ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098881"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "99974764"
 ---
 # <a name="january-2021-announcements"></a>Meddelanden januari 2021
 
@@ -587,8 +587,8 @@ Licensbaserade pris listor för januari 2021 och februari 2021 innehöll några 
 
 Valutor som påverkas: 
 
-- Microsoft 365 E3 pris problem var begränsade till de här valutorna: JPY (japanska yen), GBP (fantastiska brittiska pund), EUR (Europeiska unionen), AUD (australiska dollar). 
-- Microsoft 365 Business grundläggande problem begränsade till endast USD (USA dollar). 
+- Microsoft 365 E3 pris problem var begränsade till de här valutorna: japanska yen (JPY), fantastiska brittiska pund (GBP), Europeiska unionen (EUR), australiska dollar (AUD). 
+- Microsoft 365 Business grundläggande problem var begränsade till endast USA dollar (USD). 
 
 Partner ska referera till pris listorna för för hands versionen för närvarande tillgängliga januari och februari för de korrekta priserna. 
 

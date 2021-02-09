@@ -59,6 +59,9 @@
         - name: Lär dig mer om kompetenser
           href: learn-about-competencies.md
           displayName: mpn
+        - name: Registrera dig som en utbildnings partner
+          href: mpn-benefits-map-competency-learning-option-enroll.md
+          displayName: mpn
         - name: Vanliga frågor och svar om kompetenser
           href: competencies-faq.md
           displayName: 'renew, mpn'
