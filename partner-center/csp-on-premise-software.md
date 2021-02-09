@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e0ca730da28f320de50a1990a1bcfe13b195bbbf
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 412abdd0de9154d897252004440f7d8d153ec74b
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098864"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99834827"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Sälja lokal program vara via Cloud Solution Provider (CSP)-programmet
 
@@ -40,7 +40,7 @@ Om du vill köpa program varu prenumerationer för en kunds räkning går du til
 När du har köpt program varan måste kunderna Ladda ned den. Använd följande procedur för att göra detta.
 
 >[!NOTE]
->Du måste vara administratörs agent för att kunna hämta nycklar och nedladdningar.
+>Du måste vara administratörs agent för att hämta länken till nycklar och nedladdningar.
 
 1. Gå till din kunds informations sida och välj sedan **program vara**. Du ser en lista över all program vara som du har köpt för kundens räkning.
 2. Kopiera "djup länk" från en **länk till program varu produkt nycklar och nedladdningar** och dela länken med kunden. När de väljer den här länken omdirigeras de till Microsoft administrations Center för att hämta och hämta sina produkt nycklar.

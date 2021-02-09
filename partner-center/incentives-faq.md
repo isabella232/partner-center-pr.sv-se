@@ -1,19 +1,19 @@
 ---
 title: Vanliga frågor och svar
 ms.topic: how-to
-ms.date: 10/29/2020
+ms.date: 02/05/2021
 description: Vanliga frågor och svar om Microsofts incitament. Den här artikeln innehåller frågor om användar roller, hur du registrerar dig eller vad du kan göra om fel meddelanden.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 166e120af2f00cef50ec0681913dd3787a4f9f39
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 332832b14e3434824aee2b1a6bcf7eb321fb7a60
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624229"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99835075"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Vanliga frågor och svar om incitament
 
@@ -67,17 +67,11 @@ Den troliga orsaken till att du inte kan se incitament är att du inte har rätt
 
 ## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>Vissa registreringar saknas på sidan incitaments översikt.
 
-Om du ser färre registreringar än vad du förväntat dig på sidan incitaments **Översikt** kan du göra följande.
+Om du antingen har fått en inbjudan från, eller om du har registrerat dig i, ett incitaments program som inte längre visas i instrument panelen, bör du kontrol lera att du har rätt åtkomst. Endast användare med rollen stimulans användare eller incitaments administratör kan se programmet. Se [hitta din roll](https://docs.microsoft.com/partner-center/find-your-role).
 
-1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
+Kontakta företagets globala eller konto administratör om du behöver ändra din roll eller behörighet. Läs [hitta din globala administratör](https://docs.microsoft.com/partner-center/find-your-role#find-your-global-admin)för att lära dig mer om vem dessa personer är.
 
-2. Under **Inställningar** väljer du [användar hantering](https://partner.microsoft.com/pcv/users).
-
-3. Välj ditt namn om du vill se dina behörigheter.
-
-Om du behöver ändra din roll eller behörighet, se företagets globala eller konto administratör.
-
-Observera att den här sidan endast visar registreringar som är associerade med det globala partner kontot (PGA) som är associerat med Azure AD-klienten. Om ditt företag har fler än en PGA måste du ha olika autentiseringsuppgifter för var och en.
+Observera att översikts sidan endast visar registreringar som är associerade med det globala partner kontot (PGA) som är associerat med Azure AD-klienten. Om ditt företag har fler än en PGA måste du ha olika autentiseringsuppgifter för var och en.
 
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>Vem ska jag kontakta om jag får ett fel meddelande eller behöver hjälp under registrerings processen?
 

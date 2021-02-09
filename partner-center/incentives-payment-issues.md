@@ -1,27 +1,27 @@
 ---
 title: Felsöka problem med betalningar och intäkter
 ms.topic: article
-ms.date: 10/30/2020
+ms.date: 02/05/2021
 description: Lär dig hur du löser problem som saknade eller felaktiga intäkter, berättigande problem och hur du kan stämma av dina incitament.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: e3a8890127ce9ff73fd09b7a35d4e167b5629f45
-ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
+ms.openlocfilehash: 971b053119a263ed5c7f8e25fb532b4137e1cb13
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "93189772"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99834891"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Felsöka saknade betalningar, felaktiga intäkter och andra problem
 
-**Gäller för** :
+**Gäller för**:
 
 - Partnercenter
 
-**Lämpliga roller** :
+**Lämpliga roller**:
 
 - Incitaments administratör
 
@@ -37,7 +37,7 @@ Det kan ta upp till 48 timmar innan godkännandet går igenom. Under den här ti
 
 ## <a name="how-do-i-know-if-i-have-completed-my-payout-and-tax-profile-correctly"></a>Hur vet jag om jag har fyllt i uppgifterna för min utbetalnings- och skatteprofil korrekt?
 
-Statusen för din registrering visas på översiktssidan. När du har skapat dina profiler kommer din status att **Verifiera registreringen** . När vi har verifierat din information ändras statusen till **registrerad** . Denna status anger att din utbetalnings-och skatte profil och registreringen har slutförts.
+Statusen för din registrering visas på översiktssidan. När du har skapat dina profiler kommer din status att **Verifiera registreringen**. När vi har verifierat din information ändras statusen till **registrerad**. Denna status anger att din utbetalnings-och skatte profil och registreringen har slutförts.
 
 ## <a name="why-do-i-need-to-update-my-tax-profile-to-use-it-with-a-new-incentive-program"></a>Varför måste jag uppdatera min skatteprofil för att använda den med ett nytt incitamentprogram?
 
@@ -62,17 +62,35 @@ Om en betalning saknas eller är fel, så beror det ofta på något av följande
   
   3. Välj den dokument länk som du vill använda och granska sedan avsnitten 
 
-Regler för **partner berättigade** och **berättigade intäkter** .
+Regler för **partner berättigade** och **berättigade intäkter**.
 
 - **Din betalnings profil kan vara ofullständig.** Startdatumet för dina incitamentintäkter är den första dagen i månaden då du uppfyllde alla behörighetskrav, inklusive registrering av utbetalnings- och skatteuppgifter. Intäkter är inte tillgängliga under månaderna innan utbetalnings- och skatteuppgifterna registrerats. Om du till exempel uppfyller alla krav under april 2020 blir startdatumet för intäkter 1 april 2020.
-- **Du kan ha en utestående åtgärd** .  Dina incitament kanske inte behandlas eftersom det finns en väntande åtgärd som du behöver utföra.
+- **Du kan ha en utestående åtgärd**.  Dina incitament kanske inte behandlas eftersom det finns en väntande åtgärd som du behöver utföra.
 
   **Så här visar du dina utestående åtgärder**
 
   1. Logga in på [partner incitament](https://partner.microsoft.com/membership/partner-incentives).
-  2. Öppna **transaktions historik** sidan. Granska fälten på den här sidan för eventuella utestående åtgärder som ska slutföras, till exempel **väntande skatte profil** , **väntande betalnings profil** eller **överföring av väntande moms faktura** .
+  2. Öppna **transaktions historik** sidan. Granska fälten på den här sidan för eventuella utestående åtgärder som ska slutföras, till exempel **väntande skatte profil**, **väntande betalnings profil** eller **överföring av väntande moms faktura**.
 
 Kontakta [supporten](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)om dessa åtgärder inte hjälper och dina betalningar fortfarande saknas eller är felaktiga.
+
+## <a name="how-can-i-reconcile-my-adjustments"></a>Hur kan jag synkronisera mina justeringar?
+
+Du kan hitta och synkronisera dina justeringar genom att hämta information om dina uppgifter och transaktioner.
+
+1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
+2. Välj Money-ikonen i det övre navigerings fältet och välj sedan **transaktions historik**.
+3. Tillämpa lämpliga filter. (Se den **viktiga** kommentaren nedan.)
+4. När du har filtrerat dina data väljer du **Starta hämtning** och väljer **Exportera data**. Dina data kommer att öppnas i en CSV-fil.
+5. I CSV-filen navigerar du till kolumn P, **typ av typ**.
+6. Filtrera den här kolumnen för **justering – rabatt**. Du kan se månad för varje justering i kolumn S.
+
+>[!IMPORTANT]
+>Justeringar som tillämpas på föregående intäkts perioder visas inte i intäkterna för den månad då justeringen tillämpades. Justeringar kommer alltid att avspeglas i vinst rapporten för den månad då justeringen tillämpades.
+>
+>Till exempel kommer en justering för januari 2019-intäkter som bearbetades i september 2019 inte att avspeglas i intäkts beloppet för september 2019. Men när betalningen för september 2019 tas emot kommer det att ta med justeringen för januari 2019 som tillämpades i september. I det här scenariot måste du hämta transaktions informationen för januari 2019 för att se den justering som tillämpades.
+>
+>Tänk på detta när du anger dina datum filter. Som nämnts ovan visas justeringar för föregående perioder bara under den månad då justeringen tillämpades. Kontrol lera att det valda datum intervallet motsvarar månads justeringen som du försöker hitta. Du kan behöva välja **Rensa alla** för att ta bort dina filter och sedan använda nya.
 
 ## <a name="why-are-my-co-op-claim-payments-made-in-two-different-currencies"></a>Varför görs mina betalningar på gemensamma anspråk i två olika valutor?
 
@@ -123,7 +141,7 @@ Med den här vyn kan du Visa betalningar för alla program och MPN-ID: n. Data v
 | Visa betalnings information per rad, inklusive kostnader för betalning och betalning i lokal valuta  | Se **listan över betalnings** fält   |
 | Ladda ned en remitterings bokstav   |  Välj **betalnings remittering**  |
 | Visa information om transaktions nivå för en speciell betalning |  Välj **vy**  |
-| Exportera transaktions information till Excel  |  Välj **starta nedladdning** och klicka sedan på **Exportera data** . Observera att alla valda filter kommer att tillämpas på exporterade data. När statusen har ändrats till slutförd väljer du **Hämta** och följer anvisningarna för att exportera rapporten detaljerade transaktioner. Uppdatera sidan om statusen inte uppdateras inom fem minuter.  |
+| Exportera transaktions information till Excel  |  Välj **starta nedladdning** och klicka sedan på **Exportera data**. Observera att alla valda filter kommer att tillämpas på exporterade data. När statusen har ändrats till slutförd väljer du **Hämta** och följer anvisningarna för att exportera rapporten detaljerade transaktioner. Uppdatera sidan om statusen inte uppdateras inom fem minuter.  |
 
 ### <a name="missing-or-incorrect-earnings-and-payments"></a>Saknad eller felaktig vinst och betalning
 
@@ -151,7 +169,7 @@ Kontakta [supporten](https://partner.microsoft.com/dashboard/support/incentives/
 
 3. Välj dokument länken för respektive program.
 
-4. I dokumentet refererar du till avsnittets **program struktur och priser** .
+4. I dokumentet refererar du till avsnittets **program struktur och priser**.
 
 ## <a name="next-steps"></a>Nästa steg
 
