@@ -1,7 +1,7 @@
 ---
 title: Hantera platser i ditt partner konto
 ms.topic: how-to
-ms.date: 02/05/2021
+ms.date: 02/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Lär dig hur du lägger till en ny plats och hur plats MPN ID används i stimulans program, CSP-verksamhet, prenumerationer och andra transaktioner.
@@ -9,14 +9,14 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5ac31b772c6757468c5ea9d463643731571b31f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 41ffaeaf0fb46659142949872295523546bb91c1
+ms.sourcegitcommit: 5768f10cd122a20fe3df3062ea34e7096d99f639
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624280"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "100005916"
 ---
-# <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Hantera dina MPN-konto platser och Lägg till en ny plats
+# <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Hantera dina MPN-konto platser och lägga till (ta bort) en plats
 
 
 **Lämpliga roller**
@@ -79,7 +79,11 @@ Om du vill lägga till ett nytt CSP-affärskonto börjar du med att se till att 
 :::image type="content" source="images/legal-biz.png" alt-text="Lägg till en ny juridisk verksamhet":::
 
 > [!NOTE]
-> Det går inte att ta bort en plats som har lagts till i Partner Center. Du kommer att se **MPN** på den vänstra menyn i Partner Center om du har använt rätt MPN-ID för att logga in.
+> När en plats har lagts till i Partner Center kan du inte ta bort den. Du kommer att se **MPN** på den vänstra menyn i Partner Center om du har använt rätt MPN-ID för att logga in.
+
+## <a name="delete-a-location"></a>Ta bort en plats
+
+Om du vill ta bort en plats från ditt konto måste du kontakta [partner support](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b). Se till att du förstår den påverkan den här åtgärden har. Det går inte att hämta borttagna platser och något som är knutet till det aktuella MPN-ID: t kan inte längre identifieras eller vara aktivt för ditt företag.
 
 ## <a name="change-country-of-partner-global-account"></a>Ändra land för globalt partner konto 
 

@@ -9,7 +9,7 @@
     - name: Partnersamarbete med Microsoft
       href: mpn-overview.md
       displayName: mpn
-    - name: Skapa ett Partnercenter-konto
+    - name: Skapa ett MPN-konto i Partner Center
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
     - name: Skaffa en e-postadress för arbetet
@@ -47,6 +47,9 @@
           displayName: 'renew, mpn'
         - name: Förnya dina erbjudanden
           href: renew-mpn-offers.md
+          displayName: mpn
+        - name: Begär åter betalning
+          href: mpn-refund-request.md
           displayName: mpn
         - name: Hitta dina MPN-förmåner
           href: mpn-find-benefits.md
@@ -86,6 +89,9 @@
           displayName: mpn
         - name: Marknadslanseringsförmåner
           href: mpn-learn-about-go-to-market-benefits.md
+          displayName: mpn
+        - name: Demonstrationer för MPN-partner
+          href: mpn-demos.md
           displayName: mpn
         - name: Vanliga frågor och svar om förmåner
           href: benefits-faq.md
