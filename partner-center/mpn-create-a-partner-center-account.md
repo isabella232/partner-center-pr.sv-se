@@ -1,5 +1,5 @@
 ---
-title: Skapa ett Partnercenter-konto
+title: Skapa ett MPN-konto i Partner Center
 ms.topic: article
 ms.date: 02/08/2021
 ms.service: partner-dashboard
@@ -9,23 +9,23 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 129cdd337f9b475b37d14c4e68058736b473fe33
-ms.sourcegitcommit: 5768f10cd122a20fe3df3062ea34e7096d99f639
+ms.openlocfilehash: 39ff18e82782dcc19e1bda5cd774012f241a0b3a
+ms.sourcegitcommit: df3360786b46f9c2724dbd521e11366ffcbda307
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "100005946"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "100013698"
 ---
-# <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Skapa ett partner Center-konto för att hantera nätverks förmåner och-kompetenser
+# <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Skapa ett MPN-konto i Partner Center för att hantera nätverks förmåner och-kompetenser
 
 
-Om du är nybörjare på Microsoft Partner Network och inte har något MPN-ID kan du starta registreringen genom att följa [registrerings anvisningarna](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership).
+Om du inte har använt Microsoft Partner Network (MPN) och inte har något MPN-ID kan du starta registreringen genom att följa [registrerings anvisningarna](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership).
 
 ## <a name="prerequisites"></a>Förutsättningar 
 
 När du är redo att skapa ett konto på Partner Center måste du ha följande för att komma igång.  Det kan vara bra att ta några minuter att samla in dessa objekt innan du börjar:
 
-- Företagets arbets-e-post eller kontor 365 arbets konto. Läs mer information [i ditt företags arbets konto och partner Center](azure-active-directory-tenants-and-partner-center.md) 
+- Företagets arbets-e-post eller kontor 365 arbets konto. Mer information finns [i företagets arbets konto och partner Center](azure-active-directory-tenants-and-partner-center.md) 
  
 - Företagets juridiska företags namn och adress.
 
@@ -61,7 +61,7 @@ När du har angett företags information anger du den primära kontakt informati
 Den primära kontakten bör vara den person i företaget som vi kan kontakta om ditt program (det kan vara du eller någon annan person i företaget).
 
 >[!IMPORTANT]
->För att säkerställa ditt företags säkerhet och sekretess skickar vi din primära kontakt för att verifiera e-postadressen och se till att e-postadressen tillhör ditt företag. när den primära kontakten har verifierat e-postadressen fortsätter vi med vår granskning av den information som du har angett. Verifiering tar vanligt vis 3-5 arbets dagar. 
+>För att säkerställa ditt företags säkerhet och sekretess skickar vi din primära kontakt för att verifiera e-postadressen och se till att e-postadressen tillhör ditt företag. När den primära kontakten har verifierat e-postadressen fortsätter vi med vår granskning av den information du har angett. Verifiering tar vanligt vis 3-5 arbets dagar. 
 
 ## <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Visa konto information eller Visa och ladda ned MPN-avtalet
 
