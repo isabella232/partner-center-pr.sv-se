@@ -127,9 +127,6 @@
     - name: Microsoft-partneravtal – molnlösningsleverantörer
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
-    - name: Hantera platser
-      href: manage-locations.md
-      displayName: 'mpn, csp'
     - name: Hur indirekta leverantörer kan hjälpa sina åter försäljare att anta MPA
       href: mpa-indirect-provider-faq.md
       displayName: 'csp, mpa, indirect, provider'
@@ -197,6 +194,9 @@
           displayName: mpn
         - name: Länka ditt arbetskonto
           href: azure-active-directory-tenants-and-partner-center.md
+        - name: Hantera platser
+          href: manage-locations.md
+          displayName: 'mpn, csp'
         - name: Verifiera domänägarskap
           href: become-global-admin.md
         - name: Verifiera kontoinformation
@@ -262,6 +262,8 @@
       items:
         - name: Om säljsamarbete
           href: manage-co-sell-opportunities.md
+        - name: Mass åtgärder
+          href: bulk-operations.md
         - name: Använda CRM-anslutningsprogram för säljsamarbete
           items:
             - name: För Dynamics 365

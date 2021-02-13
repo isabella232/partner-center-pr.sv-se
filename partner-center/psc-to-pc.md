@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: f84ceb4d17be7e02a4380e4da55d7ac199f43515
-ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
+ms.openlocfilehash: 03271459ccdea5b62192ec176557a6c3b8f1a556
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "99588758"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281344"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guide till samförsäljning i Partner Center (PC) för partners som migrerar från partner Sales Connect (PSC)
 
@@ -158,7 +158,7 @@ Innan du påbörjar den avtalade migreringen från datorn följer du anvisningar
     - Beräknat avtals stängnings datum
     - Partner anteckningar
 
-Du kan använda funktionerna för hämtning och uppladdning i PSC för att rensa data för alla berättigade avtal.
+Du kan använda funktionerna för hämtning och uppladdning i PSC för att lägga till all information som saknas i affären för alla berättigade avtal.
 
 >[!Note]
 > Den avtalade migreringen kommer att lyckas även om ovanstående krav inte uppfylls. Men du kan inte ändra statusen för affären om något av de ovan nämnda obligatoriska fälten i Partner Center inte är tillgängliga. Sedan måste du ange all nödvändig information som saknas i avtalen i partner centret för att börja arbeta med dem. **Vi rekommenderar starkt att du rensar de berättigade avtalen i PSC innan du migrerar dem till Partner Center.**
@@ -178,9 +178,9 @@ Rapporten innehåller informationen nedan.
 4. **PSC-erbjudande-ID** – den unika identifieraren i PSC för affären.
 5. **Fel** – visar om det finns något fel under migreringen av ett särskilt avtal.
 
-Alla avtal som har migrerats visas inte i PSC. Du kan arbeta med de migrerade avtalen i PC. Det kommer inte att ske några ändringar av interaktionerna med Microsofts säljare för samförsäljnings avtal.
+Alla avtal som har migrerats visas inte i PSC. Du kan fortsätta att arbeta med de migrerade avtalen i PC, inklusive att slutföra avtals registrering i PC. Det kommer inte att ske några ändringar av interaktionerna med Microsofts säljare för samförsäljnings avtal.
 
-Avtal som migrerats från PSC är tillgängliga i flikarna inkommande och utgående baserat på affären. Alla partner skapade avtal kommer att finnas tillgängliga på fliken utgående och Microsofts initierade avtal kommer att finnas på fliken inkommande i Partner Center. Det finns två typer av avtal som ska skapas efter migreringen.
+Avtal som migrerats från PSC är tillgängliga i flikarna inkommande och utgående baserat på affären. Alla erbjudanden som delas av ditt företag är tillgängliga på fliken utgående och Microsofts initierade avtal kommer att vara tillgängliga på fliken inkommande i Partner Center. Det finns två typer av avtal som ska skapas efter migreringen.
 
 1. **Samförsäljnings avtal** – avtal som marker ATS som samförsäljning i PSC skapas som samförsäljnings avtal i Partner Center.
 2. **Partner – ledde** till avtal som inte är markerade som samförsäljning skapas som partner led i Partner Center. Partnerbaserade avtal är synliga för Microsoft-säljare och kan uppgraderas till samförsäljnings avtal innan de når Terminal-tillstånd (vunnen, förlorad). Dessutom är partner lampor berättigade till avtals registrering om det finns en incitaments berättigad lösning i affären.
@@ -386,12 +386,20 @@ Det går inte att komma åt Partner Center från PDM direkt till skillnad från 
 
 ## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-a-valid-mpn"></a>Hitta rätt MPN-ID om ditt konto i PSC inte är associerat med en giltig MPN
 
-Om du är här eftersom du har sett en banderoll i PSC som nämner "PSC ogiltigt MPN-ID Association-problem", är du på rätt plats.
+Om du är här eftersom du har sett en banderoll i PSC som nämner "PSC ogiltigt MPN-ID Association-problem", är du på rätt plats. Ditt konto kan ha länkats till ett ogiltigt MPN-ID på grund av följande orsaker
+
+- Ditt företag har inget Partner Center-konto.
+- PDM har gjort ett misstag när du angett MPN-ID: t för ditt konto i de interna systemen som länkar ditt PSC-konto till ditt partner Center-konto (MPNID).
+- Företaget slutförde inte migreringen från partner medlemskaps Center (PMC) till PC.
 
 Börja med att hitta rätt MPN-ID genom att följa stegen nedan
 
 - Logga in på ditt partner Center-konto
 - Använd rikt linjerna i dokumentationen för [konto inställningar](./partner-center-account-setup.md#locate-your-mpn-id) för att hitta MPN-ID: t.
+
+Nedan visas en skärm bild som visar den exakta platsen där du kan hitta ditt partner Center MPN-ID
+
+:::image type="content" source="images/pscmigration/findingMPNID.png" alt-text="Bild som visar konto inställningarna där partnern kan hitta sitt MPN-ID."  lightbox="images/pscmigration/findingMPNID.png":::
 
 Nästa
 

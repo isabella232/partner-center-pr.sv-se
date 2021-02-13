@@ -1,7 +1,7 @@
 ---
 title: Microsoft partner Agreement (MPA) för CSP
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 02/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Läs om krav för Microsoft CSP-partner för att signera och verifiera detta enhetliga, digitalt accepterade Microsoft partner Agreement (MPA).
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 68d7bfa23a03d46afe44475023c91109f2f1cfa6
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: 829b444f1990058cd323e3effec6da6d7585155a
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773485"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281321"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Lär dig mer om Microsoft partner Agreement (MPA) för CSP-programpartner
 
@@ -34,6 +34,8 @@ Om du vill fortsätta delta i CSP-programmet måste du logga Microsoft partner A
 ## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>Kontrol lera att ditt MPN-ID är aktivt och migrerat till Partner Center
 
 1. Om du inte har migrerat ditt MPN-konto från partner Membership Center (PMC) till Partner Center, måste du [migrera ditt MPN-konto till Partner Center](move-pmc-pc-map.md). Du kommer att slutföra resten av stegen när du har slutfört migreringen. 
+
+1. Om du inte har ett MPN-konto eller tillhörande ID måste du först gå med i Microsoft Partner Network-programmet. [Lär dig hur du ansluter till MPN](mpn-create-a-partner-center-account.md).
 
 1. Logga in på Partner Center med dina MPN-kontoautentiseringsuppgifter.
  

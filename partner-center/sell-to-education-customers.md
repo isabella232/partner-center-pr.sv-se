@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5af6ae0d3c11d2ea59e4b8ef2224393e48d6a3df
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: a101c3d29b947950179ca0ae446f049ccf785bb8
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916924"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281300"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Hur du säljer erbjudanden till utbildnings kunder och hur man skapar en utbildnings kund i Partner Center
 
@@ -27,7 +27,7 @@ ms.locfileid: "97916924"
 
 ## <a name="create-an-education-customer"></a>Skapa en utbildningskund
 
-Den här artikeln beskriver hur du skapar en utbildnings kund i Partner Center och säljer utbildnings produkter till dem. Det beskriver också hur du visar verifierings statusen och skickar om verifierings förfrågan om det behövs.
+Den här artikeln beskriver hur du skapar en utbildnings kund i Partner Center och säljer utbildnings produkter till dem. Det beskriver också hur du visar verifierings statusen och skickar om verifierings förfrågan om det behövs. Utbildnings erbjudanden är för närvarande **endast tillgängliga för licensbaserade tjänster** som Microsoft 365, Dynamics, Intune osv. Den är inte tillgänglig för andra typer (program varu prenumerationer, beständig program vara eller Azure-produkter).
 
 > [!IMPORTANT]
 > Microsoft verifierar varje nyskapad kund klient organisation för att säkerställa att de är kvalificerade för utbildnings erbjudanden.  Se till att du anger den information som krävs så fort som möjligt för att förhindra fördröjningar i verifierings processen.
@@ -75,7 +75,7 @@ Status exempel:
 
 Om kunden inte kan utföra den första verifieringen kan du nu korrigera informationen och skicka den igen.
 
-### <a name="correct-the-customer-account-information"></a>Korrigera kund konto informationen
+### <a name="correct-the-customer-account-information"></a>Rätta till informationen om kundkontot
 
 Du måste ha global administratörs behörighet för att uppdatera kundens information. Du uppdaterar informationen på Office 365-portalen eftersom det inte går att uppdatera data från Partner Center-portalen.
 
@@ -87,7 +87,7 @@ Du måste ha global administratörs behörighet för att uppdatera kundens infor
 
 4. Du omdirigeras till administrations centret för Office 365 på en ny flik i webbläsaren. Du kan uppmanas att logga in med dina autentiseringsuppgifter.
 
-5. Välj **Inställningar**.
+5. Välj **inställningar**.
 
 6. Välj fliken **organisations profil** överst på skärmen och sedan **organisations information**. Nu kan du uppdatera kund informationen.
 

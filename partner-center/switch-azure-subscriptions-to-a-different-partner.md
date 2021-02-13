@@ -9,18 +9,18 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/29/2020
-ms.openlocfilehash: 992dd7f9901efd0176395fb626e4048d5229e82b
-ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
+ms.openlocfilehash: 94df138eb94d79fb0e472744f19337ad536eb90d
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92531844"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281261"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Läs om hur du överför en Azure-prenumeration för en kund till en annan partner
 
 **Gäller för**
 
-- Partner Center för Microsoft Cloud för amerikanska myndigheter
+- Välkommen till Partnercenter för Microsoft Cloud for US Government
 - Partner Center för Microsoft Global Cloud
 - Partner i CSP-programmet (Cloud Solution Provider)
 
@@ -43,9 +43,9 @@ Följ dessa manuella steg om du vill byta en kunds Azure-tjänster eller prenume
 
    Skapa en Azure Service-biljett från Partner Center för att begära en prenumerations överföring:
 
-   1. Från menyn Partner Center väljer du **kunder** , väljer din kund i listan och väljer sedan **tjänst hantering** . 
+   1. Från menyn Partner Center väljer du **kunder**, väljer din kund i listan och väljer sedan **tjänst hantering**. 
 
-   2. Under avsnittet **support biljetter** väljer du List rutan **New Ticket** och väljer **Microsoft Azure** .
+   2. Under avsnittet **support biljetter** väljer du List rutan **New Ticket** och väljer **Microsoft Azure**.
    
    3. Välj **nytt support ärende** från [Azure Portal](https://portal.azure.com).
    
@@ -53,26 +53,26 @@ Följ dessa manuella steg om du vill byta en kunds Azure-tjänster eller prenume
    
    5. I steg 2 väljer du **C-minimal påverkan** och väljer **andra allmänna frågor** som problem typ.
    
-   6. Hämta [överförings formuläret för CSP-prenumeration](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA).
+   6. Hämta [överförings formuläret för CSP-prenumeration](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC).
 
-3. Partnern för prenumerationen: Fyll i [formuläret för prenumerations överföring i CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA), signera det och skicka det till kunden. 
+3. Partnern för prenumerationen: Fyll i [formuläret för prenumerations överföring i CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC), signera det och skicka det till kunden. 
 
    Du behöver följande information för att fylla i formuläret:
 
-   - Den aktuella partnerns kontakt uppgifter och Microsoft ID. I menyn Partner Center väljer du **konto inställningar** &gt; **organisations profil** och använder **Microsoft ID** , **organisations namn** och **adress** som visas där.
+   - Den aktuella partnerns kontakt uppgifter och Microsoft ID. I menyn Partner Center väljer du **konto inställningar** &gt; **organisations profil** och använder **Microsoft ID**, **organisations namn** och **adress** som visas där.
 
-   - Kundens Microsoft-ID. I menyn Partner Center väljer du **kunder** och expanderar sedan kund listan för att se deras **Microsoft-ID** .
+   - Kundens Microsoft-ID. I menyn Partner Center väljer du **kunder** och expanderar sedan kund listan för att se deras **Microsoft-ID**.
 
-   - Prenumerations-ID som ska överföras. I den expanderade kund listan väljer du **Visa prenumerationer** och expandera sedan den valda prenumerationen för att se **prenumerations-ID: t** .
+   - Prenumerations-ID som ska överföras. I den expanderade kund listan väljer du **Visa prenumerationer** och expandera sedan den valda prenumerationen för att se **prenumerations-ID: t**.
 
    >[!Note]
-   >Överföring av prenumerations resultat i två prenumerations-ID: n som visas på sidan **Redigera prenumeration** för den överförda prenumerationen: **1** – prenumerations-ID för partner Center används i fakturerings syfte. **2** – det ursprungliga ID: t för Azure-prenumerationen behålls och visas i Partner Center och i hanterings portalen för Azure. Det här ID: t visas i din rekognoseringar-fil.  **När du loggar support biljetter måste du använda båda ID: na.**
+   >Överföring av prenumerations resultat i två prenumerations-ID: n som visas på sidan **Redigera prenumeration** för den överförda prenumerationen: **1**– prenumerations-ID för partner Center används i fakturerings syfte. **2**– det ursprungliga ID: t för Azure-prenumerationen behålls och visas i Partner Center och i hanterings portalen för Azure. Det här ID: t visas i din rekognoseringar-fil.  **När du loggar support biljetter måste du använda båda ID: na.**
 
 4. Prenumerationens kund och nya partner:
 
    Granska formuläret, Fyll i information om den nya partnern och signera den. Bekräfta att den nya kunden har ett kontrakts avtal på plats. Skicka tillbaka formuläret till den aktuella partnern av posten.
 
-   *Viktigt* : om den nya CSP-partnern inte har en åter försäljares relation med kunden måste han eller hon upprätta en innan prenumerationen överförs. [Du hittar information om hur du gör detta här](request-a-relationship-with-a-customer.md).
+   *Viktigt*: om den nya CSP-partnern inte har en åter försäljares relation med kunden måste han eller hon upprätta en innan prenumerationen överförs. [Du hittar information om hur du gör detta här](request-a-relationship-with-a-customer.md).
 
    >[!Note]
    >Den nya CSP-partnern och kund klienten måste vara i samma land. 
@@ -92,7 +92,7 @@ Följ dessa manuella steg om du vill byta en kunds Azure-tjänster eller prenume
      ```
 
      >[!NOTE]
-     > Kundens **klient-ID** visas i Partner Center som kundens **Microsoft-ID** . Om du vill hitta Microsoft ID (klient-ID) för en specifik kund loggar du in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard). Välj sedan **kunder** på menyn. Leta upp kunden i listan. Välj nedpilen för att expandera kundens lista. Du kommer att se information om kundens *domän namn* och kundens **Microsoft-ID** . Använd det 16-siffriga **Microsoft-ID: t** i PowerShell-kommandot.
+     > Kundens **klient-ID** visas i Partner Center som kundens **Microsoft-ID**. Om du vill hitta Microsoft ID (klient-ID) för en specifik kund loggar du in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard). Välj sedan **kunder** på menyn. Leta upp kunden i listan. Välj nedpilen för att expandera kundens lista. Du kommer att se information om kundens *domän namn* och kundens **Microsoft-ID**. Använd det 16-siffriga **Microsoft-ID: t** i PowerShell-kommandot.
 
    - Visa roller för kontot, inklusive tidigare CSP-partner:
 
@@ -102,10 +102,10 @@ Följ dessa manuella steg om du vill byta en kunds Azure-tjänster eller prenume
 
 7. Ta bort föråldrade åtkomst behörigheter
 
-   - I menyn Partner Center väljer du **kunder** .
+   - I menyn Partner Center väljer du **kunder**.
    - Leta upp kunden i listan. Välj företagets namn genom att välja (dubbelklicka). Då öppnas sidan kund **prenumerationer** .
    - Välj **tjänst hantering** på menyn kund information.
-   - Under **Microsoft Azure** klickar du på länken för att gå till **Microsoft Azure-hanteringsportal** .
+   - Under **Microsoft Azure** klickar du på länken för att gå till **Microsoft Azure-hanteringsportal**.
 
 ## <a name="next-steps"></a>Nästa steg
 

@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf2630ffcdd36aee17b74a07ac03782ae4d9c9f0
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 086f5423d748ca2a84062577cd934987decc88f8
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979829"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281288"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Priser och erbjudanden för Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure med mera
 
@@ -82,7 +82,7 @@ Användnings priser kan ändras under en månad. För att få aktuellt dags pris
 
 ## <a name="pricing-and-special-segments"></a>Prissättning och särskilda segment
 
-CSP erbjuder vissa tjänster till särskilda marknads segment, till exempel utbildning, ideella organisationer eller offentliga community-moln. Alla tjänster är inte tillgängliga i varje kanal. Inget segment är standardvärdet för det vi kallar "kommersiell"-segmentet. Alla licensbaserade priser är tillgängliga i den licensierade pris listan på sidan priser och erbjudanden. Azure Government prissättning är tillgängligt i den användnings pris listan när den är inloggad på den Azure Government aktiverade CSP-klienten.
+CSP erbjuder vissa tjänster till särskilda marknads segment, till exempel utbildning, ideella organisationer eller offentliga community-moln. Alla tjänster är inte tillgängliga i varje kanal. Inget segment är standardvärdet för det vi kallar "kommersiell"-segmentet. Alla licensbaserade priser är tillgängliga i den licensierade pris listan på sidan priser och erbjudanden. Azure Government prissättning är tillgängligt i den användnings pris listan när den är inloggad på den Azure Government aktiverade CSP-klienten. Program varu prenumerationer och beständig program vara har ännu inte stöd för dessa särskilda segment.
 
 |**Segment**   |**som behöver kvalificera sig**   |**Partner kvalificerar kund**|**Aktiverade produkt typer**|
 |-------------------|-----------------------|----------------------------|-----------------------------|

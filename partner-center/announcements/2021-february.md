@@ -9,16 +9,66 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/04/2021
-ms.openlocfilehash: cb9bc726acb5d76f4774c9a515443d58f7947fbd
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: ac5c82887ddf17e66045e36c0f4de607529f6024
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624178"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281220"
 ---
 # <a name="february-2021-announcements"></a>Meddelanden från februari 2021
 
 Den här sidan innehåller information om Microsoft Partner Center-meddelanden för februari 2021.
+
+_______________
+
+## <a name="microsoft-365-e3-price-changes-coming-for-march-2021"></a><a name="6"></a>Microsoft 365 E3 pris ändringar som kommer från mars 2021
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-02-11
+- Erbjudanden/marknader
+
+### <a name="affected-audience"></a>Berörd mål grupp
+
+Alla partner samverkar med program varan för Cloud Solution Provider (CSP) i EUR, AUD, GBP och JPY.
+
+### <a name="details"></a>Information
+
+Den licensbaserade för hands versions pris listan för mars 2021 har uppdaterats till att omfatta pris ändringarna för Microsoft 365 E3. Det påverkade erbjudandet och valutorna visas nedan. 
+ 
+Erbjudandets namn: Microsoft 365 E3 erbjudande-ID: 2b3b8d2d-10aa-4BE4-b5fd-7f2feb0c3091-material-ID: AAA-35638
+
+Dessa Microsoft 365 E3-prisuppdateringar är begränsade till dessa valutor: JPY (japanska yen), GBP (fantastiska brittiska pund), EUR (Europeiska unionen), AUD (australiska dollar). Det finns andra pris ändringar i mars-filen och-partner bör hämta den senaste för hands versionen för att visa de andra förväntade ändringarna.
+
+### <a name="next-steps"></a>Nästa steg
+
+Partner bör hämta de senaste pris List filerna från Partner Center för att få de senaste mars priserna. 
+
+_______________
+
+## <a name="license-based-preview-price-list-updated-for-norwegian-krone"></a><a name="5"></a>Licensbaserade för hands versions pris lista har uppdaterats för norska kronor
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-02-10
+- Erbjudanden/marknader
+
+### <a name="affected-audience"></a>Berörd mål grupp
+
+Alla partner som går via program varan för Cloud Solution Provider (CSP)
+
+### <a name="summary"></a>Sammanfattning
+
+Licensbaserade pris lista för för hands versionen har uppdaterats för norska kronor-priser den 1 mars 2021.
+
+### <a name="details"></a>Information
+
+Ändringar i FX-pris för mars inkluderades inte i föregående licensbaserade pris listor för mars. Den här filen har uppdaterats för att återspegla de förväntade pris ändringarna i norska kronor. Partner bör hämta den senaste aktuella för hands versionen av pris filen för att se de här ändringarna som förväntas för den 1 mars 2021. Dessa ändringar är bara för priser för norska kronor-valuta.
+
+### <a name="next-steps"></a>Nästa steg
+
+Partner bör hämta den aktuella pris listans förhands gransknings fil för förväntade ändringar den 1 mars 2021.
 
 _______________
 

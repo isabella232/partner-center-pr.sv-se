@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 24343b4cf7d51398410c33403efa7dc596adf891
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 2c1cb2adc28a19f265643c5e2756fbdf1195b970
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624059"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281277"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Sälj till specialiserade branscher såsom utbildning, ideella organisationer och myndighetsanvändare
 
@@ -24,7 +24,7 @@ ms.locfileid: "99624059"
 - Administratörs agent
 - Försäljnings agent
 
-Microsoft tillhandahåller särskilda, lägre priser för utvalda grupper av kunder, inklusive utbildnings kunder, ideella kunder, små företag och myndighets enheter. Både du och kunden måste kvalificeras innan du kan erbjuda dem särskilda priser. 
+Microsoft tillhandahåller särskilda, lägre priser för utvalda grupper av kunder, inklusive utbildnings kunder, ideella kunder, små företag och myndighets enheter. Både du och kunden måste kvalificeras innan du kan erbjuda dem särskilda priser. Dessa särskilda pris erbjudanden är för närvarande **endast tillgängliga för licensbaserade tjänster** som Microsoft 365, Dynamics, Intune osv. Den är inte tillgänglig för andra typer (program varu prenumerationer, beständig program vara eller Azure-produkter).
 
 ## <a name="requirements-to-sell-to-specialized-industries"></a>Krav för att sälja till specialiserade branscher
 
