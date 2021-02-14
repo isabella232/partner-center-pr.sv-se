@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/04/2021
-ms.openlocfilehash: ac5c82887ddf17e66045e36c0f4de607529f6024
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: f1822a0bba6c14f48da3dfca3081bba5da3c6a2e
+ms.sourcegitcommit: b41c8e1715bc55cb263af17f2781722a143d29bc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281220"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "100490180"
 ---
 # <a name="february-2021-announcements"></a>Meddelanden från februari 2021
 
@@ -22,11 +22,49 @@ Den här sidan innehåller information om Microsoft Partner Center-meddelanden f
 
 _______________
 
+## <a name="introducing-microsoft-viva-topics"></a><a name="7"></a>Introduktion till Microsoft Viva-ämnen
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 12 februari 2021
+- Funktioner
+
+### <a name="affected-audience"></a>Berörd mål grupp
+
+Alla partner som går via program varan för Cloud Solution Provider (CSP)
+
+### <a name="details"></a>Information
+
+I Microsoft Viva-avsnitten används artificiell intelligens (AI) för att identifiera kunskap och expertis från hela organisationen och granska den i delade ämnen som produkter, kunder eller projekt. Med hjälp av kort och ämnes sidor för fördjupad information hittar du en kunskap om dina team, projekt och dokument. AI och människa arbetar tillsammans för att förbättra kunskapen och ytan i de appar som du använder varje dag. 
+
+Användarna måste ha licens för något av följande för att bli berättigat till Viva ämnen:   
+- Microsoft 365 F1, F3, E3, A3, E5 eller A5 
+- Office 365 F3, E1, a1, E3, A3, E5 eller A5 
+- Microsoft 365 Business Basic, standard eller Premium 
+- SharePoint K, plan 1 eller Plan2 
+
+**Erbjudande information**
+
+Dessa erbjudanden har "ämnes upplevelser" i sina erbjudande namn i pris listorna för februari 1. Dessa erbjudande namn kommer att uppdateras med "Viva ämnen" när pris listorna uppdateras den 1 mars.
+
+|**Erbjudandets namn**|**Erbjudande-ID**|**Material-ID**|
+|------------------|:--------------------|:------------------|
+|Viva ämnen|b9ef0c81-9ca6-45fd-a6c1-627745ba8b8a|1JV-00005|
+|Viva ämnen för lärare|8c930d38-db61-4afa-83f9-77c595c5cdfc|1TK-00006|
+|Viva ämnen för studenter|5de461d5-8ccc-4a8e-98ae-58a3ad400a57|1TK-00007|
+
+### <a name="next-steps"></a>Nästa steg
+
+- Granska resurserna för det här avsnittet och dela den här informationen med lämpliga intressenter i din organisation.  
+- Du hittar mer information i Viva- [ämnena Resource Center](https://resources.techcommunity.microsoft.com/viva-topics).
+
+_______________
+
 ## <a name="microsoft-365-e3-price-changes-coming-for-march-2021"></a><a name="6"></a>Microsoft 365 E3 pris ändringar som kommer från mars 2021
 
 ### <a name="categories"></a>Kategorier
 
-- Datum: 2021-02-11
+- Datum: 11 februari 2021
 - Erbjudanden/marknader
 
 ### <a name="affected-audience"></a>Berörd mål grupp
@@ -51,7 +89,7 @@ _______________
 
 ### <a name="categories"></a>Kategorier
 
-- Datum: 2021-02-10
+- Datum: 10 februari 2021
 - Erbjudanden/marknader
 
 ### <a name="affected-audience"></a>Berörd mål grupp
@@ -76,7 +114,7 @@ _______________
 
 ### <a name="categories"></a>Kategorier
 
-- Datum: 2021-02-05
+- Datum: 5 februari 2021
 - Funktioner
 
 ### <a name="affected-audience"></a>Berörd mål grupp
@@ -111,7 +149,7 @@ _________________________________________________________
 
 ### <a name="categories"></a>Kategorier
 
-- Datum: 2021-02-04
+- Datum: 4 februari 2021
 - Funktioner
 
 ### <a name="impacted-audience"></a>Förverkad mål grupp
@@ -120,13 +158,13 @@ Alla partner
 
 ### <a name="details"></a>Information
 
-Microsoft erbjuder kompetens tillägg (med undantag av Cloud Business Applications-kompetensen) och avancerad specialisering för partner med årsdags datum (AD) mellan 1 januari 2021 och 30 juni 2021. Mer information hittar du i blogg inlägget för [partner](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) .
+Microsoft erbjuder kompetens tillägg (förutom för Cloud Business Applications-kompetensen) och avancerad specialisering för partner med årsdags datum (AD) mellan 1 januari 2021 och 30 juni 2021. Läs vår [blogg](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) inlägg om partner för mer information.
 ________________
 ## <a name="new-updates-to-the-referrals-module-in-partner-center"></a><a name="2"></a> Nya uppdateringar av Referrals-modulen i Partner Center
 
 ### <a name="categories"></a>Kategorier
 
-- Datum: 2021-02-03
+- Datum: 5 februari 2021
 - Funktioner
  
 ### <a name="impacted-audience"></a>Förverkad mål grupp
@@ -151,7 +189,7 @@ Här är what's nya i modulen Partner Center-referenser:
 
 #### <a name="partners-with-co-sell-ready-offers"></a>Partner med medförsäljnings färdiga erbjudanden
 
-- [Samar beta med andra partner](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities): Bjud in en annan partner från vårt kraftfulla partner eko system till samförsäljning med dig och lås upp åtkomst till ytterligare kund mål grupper.  
+- [Samar beta med andra partner](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities): Bjud in en annan partner från vårt kraftfulla partner eko system till samförsäljning med dig och lås upp åtkomst till fler kund mål grupper.  
 
 #### <a name="partners-with-a-transactable-offer-using-an-azure-incentive-eligible-solution-in-the-commercial-marketplace"></a>Partner med ett transactable-erbjudande med hjälp av en Azure-berättigad lösning på den kommersiella marknaden
 
@@ -161,14 +199,14 @@ Här är what's nya i modulen Partner Center-referenser:
 
 Om du behöver hjälp med att använda någon av de nya funktionerna kan du titta närmare på [avsnittet om hänvisningarna](https://docs.microsoft.com/partner-center/referrals) i vår kunskaps bas eller vår instruktion för att få support i vårt [Co-Sälj Experience Gallery](https://aka.ms/CoSellExperience) (inloggning krävs).
 
-För ytterligare support kan du [öppna ett ärende med vårt partner support team](https://partner.microsoft.com/support/?stage=1).
+Du kan [öppna ett ärende med vårt partner support team](https://partner.microsoft.com/support/?stage=1) för support.
 
 ________________
 ## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25-2021-and-get-qualification-by-may-4-2021"></a><a name="1"></a> Utfasning och pensionering av kvalificerings-API: er för kundens validerings process senast 25 februari 2021 och få kvalificering senast 4 maj 2021.
 
 ### <a name="categories"></a>Kategorier
 
-- Datum: 2021-02-04
+- Datum: 4 februari 2021
 - Funktioner
 
 ### <a name="impacted-audience"></a>Förverkad mål grupp
@@ -181,7 +219,7 @@ Det här meddelandet är en uppföljning av de förbättringar i Partner Center 
 
 ### <a name="next-steps"></a>Nästa steg
 
-- **Uppdatera till de nya API: erna**, om du inte redan har gjort det, för en lyckad och forts över gång
+- **Uppdatera till de nya API: erna** för en lyckad och forts över gång
 - **Granska de nya API: erna för partner Center och guiden** för drift beredskap: [partner Center utbildning av kund validerings process](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
 - **Dela den här informationen med lämpliga team** i din organisation och med dina åter försäljare för att hjälpa dem att förbereda för dessa ändringar.
 

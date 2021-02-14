@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/05/2021
-ms.openlocfilehash: 5a5f2ee73c84a3d50e20e6319b07ee2f90aa4972
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 6698a56aa90c20db22c2dd6765cbec9b310bc40a
+ms.sourcegitcommit: b41c8e1715bc55cb263af17f2781722a143d29bc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281230"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "100490163"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -22,6 +22,7 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 
 |**Kategori**|**Meddelanden från februari 2021**|**Meddelande**|
 |---------|:---------|:---------|
+|Funktioner|[Introduktion till Microsoft Viva-ämnen](2021-february.md#7)|12 februari|
 |Erbjudanden/marknader|[Microsoft 365 E3 pris ändringar som kommer från mars 2021](2021-february.md#6)|11 februari|
 |Erbjudanden/marknader|[Licensbaserade för hands versions pris lista har uppdaterats för norska kronor](2021-february.md#5)|10 februari|
 |Funktioner|[Premium-utvärderingar, ett tillägg till Compliance Manager, kommer att tas den 1 mars 2021](2021-february.md#4)|5 februari|
