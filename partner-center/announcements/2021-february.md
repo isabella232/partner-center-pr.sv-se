@@ -9,16 +9,120 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/04/2021
-ms.openlocfilehash: f1822a0bba6c14f48da3dfca3081bba5da3c6a2e
-ms.sourcegitcommit: b41c8e1715bc55cb263af17f2781722a143d29bc
+ms.openlocfilehash: 8348179438ad65449ea75cd5ebce8ba0a92d7b9a
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "100490180"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100541006"
 ---
 # <a name="february-2021-announcements"></a>Meddelanden från februari 2021
 
 Den här sidan innehåller information om Microsoft Partner Center-meddelanden för februari 2021.
+
+________________
+## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a> Nu Live: DocuSign migrering till Adobe Sign för partner under Microsoft partner Agreement (MPAs)
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-02-16
+- Funktioner
+
+### <a name="summary"></a>Sammanfattning
+
+Microsoft kommer att överföra all bearbetning av elektroniska signaturer från DocuSign till Adobe Sign.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Befintliga leverantörer av direkta och indirekta leverantörer av moln lösningar (CSP) under MPA.
+
+### <a name="details"></a>Information
+
+I februari 2021 börjar Microsoft överföra all bearbetning av elektroniska signaturer från DocuSign till Adobe Sign för CSP-partner.
+
+Du bör förvänta dig en smidig över gång. Vid migreringen kommer du att få ett e-postmeddelande från adobesign@adobesign.com , i stället för DocuSign, när din elektroniska signatur krävs. I det här e-postmeddelandet får du en länk till Adobe Sign-webbsidan där du kommer att behöva logga in. Microsoft-partner kommer inte behöva signera om befintliga avtal, bara framtida kanal avtal. Partner i Ukraina, Ryssland och Kazakstan kommer att krävas för att fysiskt eller elektroniskt signera om föraren varje år.
+
+Du hittar ett exempel på ett e-postmeddelande om en Adobe Sign Signature-begäran i [resurs galleriet](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf).
+
+För bästa möjliga upplevelse, se till att göra följande:
+
+1. Lägg till adobesign@adobesign.com i listan Betrodda avsändare för att undvika att e-postmeddelanden från det här kontot går direkt till din skräp post-mapp.
+2. Arbeta med IT-avdelningen för att:
+    - Lägg till adobesign@adobesign.com e-postadressen i listan Betrodda avsändare för att se till att den inte ingår i en företablerad phishing-regel.
+    - Uppdatera befintliga säkerhets principer och se till att alla mottagare som krävs kan signera dokumentation under din Adobe Sign Enterprise-licens.
+
+Resurser som rör onboarding-, funktions-och affärs process frågor finns på [sidan Adobe Sign migration partner](https://aka.ms/eSignature/External).
+
+Adobe Sign är Microsofts prioriterade lösning för elektroniska signaturer (ESS). Över gången till Adobe Sign garanterar en säker och effektiv elektronisk signatur som ger större värde till våra kunder och partner.
+
+Mer information om hur du elektroniskt signerar dokument och delegering av elektroniska signaturer finns i följande Självstudier:
+
+- [Signera ett dokument elektroniskt | Adobe Sign-självstudier](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
+- [Delegera någon annan att signera ett dokument | Adobe Sign-självstudier](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+
+### <a name="next-steps"></a>Nästa steg
+
+Dela den här informationen med lämpliga intressenter i din organisation.
+
+### <a name="questions"></a>Har du några frågor?
+
+Om du har några frågor kan du kontakta ditt regionala drift Center med hjälp av [verktyget för samtals loggning (CLT)](https://clt.partners.extranet.microsoft.com/CLT) eller [utforska MS](https://www.explore.ms/). Följ standard CLT-processen nära så att vi kan lösa din fråga så snabbt som möjligt.
+
+### <a name="change-log"></a>Ändrings logg
+
+- 15 januari 2021: ursprunglig publikation 
+- 16 februari 2021: nu Live, ny resurs: Sidan Adobe Sign migration partner 
+
+_____________
+
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="8"></a> Påminnelse: Introduktion till API-begränsning till partners som anropar API: er för partner Center
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-02-16
+- Utveckla verksamheten
+
+### <a name="summary"></a>Sammanfattning
+
+Microsoft kommer att implementera API-begränsning för att ge en mer konsekvent prestanda inom ett tidsintervall för partner som anropar API: er för partner Center.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Alla partner som går via program varan för Cloud Solution Provider (CSP)  
+
+### <a name="details"></a>Information
+
+Från och med februari 2021 kommer Microsoft att implementera API-begränsning för att ge en mer konsekvent prestanda inom ett tidsintervall för partner som anropar API: er för partner Center.Begränsning begränsar antalet begär anden till en tjänst i ett tidsintervall för att förhindra överanvändning av resurser.När ett tröskelvärde överskrids begränsar Partner Center eventuella ytterligare förfrågningar från klienten under en viss tids period.
+
+**Partner förmåner:**
+
+Partner Center har utformats för att hantera en stor mängd begär Anden, men om ett överbelastat antal förfrågningar görs av några få partner, hjälper begränsningen till att upprätthålla optimala prestanda och tillförlitlighet för alla partner.  
+
+- Begränsning garanterar minimal nedtid.
+- Begränsning minskar antalet stora volymer, vilket hjälper till att säkerställa en konsekvent prestanda för alla partner.
+
+**API: er som ska begränsas:**
+
+| Åtgärd | Dokumentation för Partnercenter |
+| ------ | ------- |
+|{baseURL}/v1/Customers/{customer_id}/subscriptions  | [Get-all-a-kund-s-subscriptions](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}  | [Hämta en prenumeration efter ID](/partner-center/develop/get-a-subscription-by-id) |
+|{baseURL}/v1/Customers/{customer_id}/Orders  | [Hämta alla kund beställningar](/partner-center/develop/get-all-of-a-customer-s-orders) |
+|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}  | [Hämta en beställning efter ID](/partner-center/develop/get-an-order-by-id) |
+|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}/provisioningstatus  | [Hämta status för prenumerationsetablering](/partner-center/develop/get-subscription-provisioning-status) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}  | [Hantera order och hantera en prenumeration](/partner-center/develop/manage-orders#manage-a-subscription) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/addons  | [Hämta en lista över tillägg för en prenumeration](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/azureEntitlements | [Hämta en lista över Azure-rättigheter för en prenumeration](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/registrationstatus  | [Hämta status för prenumerationsregistrering](/partner-center/develop/get-subscription-registration-status) |
+|{baseURL}/v1/customers/{customer-tenant-id}/transfers  | [Hämta alla kunders överföringar](/partner-center/develop/get-all-of-a-customer-s-transfers) |
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status  | [Hämta status för produktuppgradering](/partner-center/develop/get-product-upgrade-status) |
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions   | [Hämta en lista över erbjudanden för utvärderingskonvertering](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
+ 
+Vi rekommenderar starkt att partners använder API: et för aktivitets loggen för att öka effektiviteten och undvika begränsning.Mer information om den här funktionen finns i informationen [här](/partner-center/develop/api-throttling-guidance).  
+
+### <a name="next-steps"></a>Nästa steg
+
+Granska [resurserna](/partner-center/develop/api-throttling-guidance)   för det här avsnittet och vidta nödvändiga åtgärder.  
 
 _______________
 

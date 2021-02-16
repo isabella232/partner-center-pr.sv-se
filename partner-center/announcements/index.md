@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/05/2021
-ms.openlocfilehash: 6698a56aa90c20db22c2dd6765cbec9b310bc40a
-ms.sourcegitcommit: b41c8e1715bc55cb263af17f2781722a143d29bc
+ms.openlocfilehash: 7974d6f02951db944a44634543cda5bba49df976
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "100490163"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100540989"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -22,6 +22,8 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 
 |**Kategori**|**Meddelanden från februari 2021**|**Meddelande**|
 |---------|:---------|:---------|
+|Funktioner|[Nu Live: DocuSign migrering till Adobe Sign för partner under Microsoft partner Agreement (MPAs)](2021-february.md#9)|16 februari|
+|Utveckla din verksamhet|[Påminnelse: Introduktion till API-begränsning till partner som anropar API:er för Partnercenter](2021-february.md#8)|16 februari|
 |Funktioner|[Introduktion till Microsoft Viva-ämnen](2021-february.md#7)|12 februari|
 |Erbjudanden/marknader|[Microsoft 365 E3 pris ändringar som kommer från mars 2021](2021-february.md#6)|11 februari|
 |Erbjudanden/marknader|[Licensbaserade för hands versions pris lista har uppdaterats för norska kronor](2021-february.md#5)|10 februari|

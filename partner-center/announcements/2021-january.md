@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/28/2021
-ms.openlocfilehash: 7195dbd9bb9a862b7b3064ed641739f04bcab512
-ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
+ms.openlocfilehash: f6179e76e9bcb05f75551056fa7a9e81f6d74d12
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "99974764"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100541039"
 ---
 # <a name="january-2021-announcements"></a>Meddelanden januari 2021
 
@@ -348,7 +348,9 @@ Alla partner som går via program varan för Cloud Solution Provider (CSP) 
 
 Från och med februari 2021 kommer Microsoft att implementera API-begränsning för att ge en mer konsekvent prestanda inom ett tidsintervall för partner som anropar API: er för partner Center.Begränsning begränsar antalet begär anden till en tjänst i ett tidsintervall för att förhindra överanvändning av resurser.När ett tröskelvärde överskrids begränsar Partner Center eventuella ytterligare förfrågningar från klienten under en viss tids period.
   
-**Partner förmåner:** Partner Center har utformats för att hantera en stor mängd begär Anden, men om ett överbelastat antal förfrågningar görs av några få partner, hjälper begränsningen till att upprätthålla optimala prestanda och tillförlitlighet för alla partner.  
+**Partner förmåner:**
+
+Partner Center har utformats för att hantera en stor mängd begär Anden, men om ett överbelastat antal förfrågningar görs av några få partner, hjälper begränsningen till att upprätthålla optimala prestanda och tillförlitlighet för alla partner.  
 
 - Begränsning garanterar minimal nedtid.
 - Begränsning minskar antalet stora volymer, vilket hjälper till att säkerställa en konsekvent prestanda för alla partner.
