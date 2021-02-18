@@ -1,7 +1,7 @@
 ---
 title: Hur indirekta leverantörer kan hjälpa sina åter försäljare att anta Microsofts partner avtal – vanliga frågor och svar
 ms.topic: article
-ms.date: 02/04/2021
+ms.date: 02/17/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Viktiga frågor om Microsoft-partner avtal besvarade
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c1c8ea56307dcac64842e2485099e525efa3145a
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 3572056d38966427f8970cf48268ac21a261b505
+ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624297"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "100645902"
 ---
 # <a name="how-indirect-providers-can-help-their-indirect-resellers-accept-the-microsoft-partner-agreement-mpa"></a>Hur indirekta leverantörer kan hjälpa sina indirekta åter försäljare att godkänna Microsoft partner Agreement (MPA)
 
@@ -117,7 +117,7 @@ Om du har dotter bolag i olika länder kan du skapa MPN-platser i dessa länder 
 
 •[Hantera platser i ditt partner konto](manage-locations.md)
 
-I händelse av problem kan du generera ett [support ärende](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b) inifrån Partner Center. 
+Om du får problem kan du generera ett [support ärende](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b) inifrån Partner Center. 
 
 
 #### <a name="i-dont-know-which-mpn-id-to-use-while-enrolling-into-csp-indirect-reseller-program"></a>Jag vet inte vilket MPN-ID som ska användas under registreringen i det indirekta CSP-programmet för åter försäljare?
@@ -142,21 +142,21 @@ Om du är en CSP-indirekt åter försäljare måste du partner med en indirekt P
 
 #### <a name="why-cant-i-associate-my-mpn-id-to-my-tenant"></a>Varför kan jag inte koppla mitt MPN-ID till min klient organisation?
 
-**Svar**  Om du inte kan associera ditt MPN-ID till din klient och du ser ett fel, innebär det att MPN-ID och klienten inte finns i samma land. För att associationen ska fungera måste båda vara i samma land. Detta beror på att Microsoft-incitament betalas per land-och MPN-ID-nivå. Om du till exempel har ett CSP-konto i Frankrike behöver du en MPN-plats (MPN-ID) också i Frankrike för att få betalda incitament. Ett MPN-ID i brittiskt fungerar inte trots att de finns i samma CSP-region. 
+**Svar**  Om du inte kan associera ditt MPN-ID till din klient och du ser ett fel, innebär det att MPN-ID och klienten inte finns i samma land. För att associationen ska fungera måste båda vara i samma land. Detta krav beror på att Microsoft-incitament betalas per land-och MPN-ID-nivå. Om du till exempel har ett CSP-konto i Frankrike behöver du en MPN-plats (MPN-ID) också i Frankrike för att få betalda incitament. Ett MPN-ID i brittiskt fungerar inte trots att de finns i samma CSP-region. 
 
 Lös detta genom att skapa en MPN-plats i samma land som CSP-landet. Läs mer om hur du [hanterar MPN-platser](manage-locations.md).
 
 #### <a name="i-have-a-csp-indirect-reseller-account-in-france-can-i-partner-with-indirect-provider-in-germany"></a>Jag har ett konto med indirekt åter försäljare för CSP i Frankrike. Kan jag samar beta med en indirekt Provider i Tyskland?
 
-**Svar** Ja. När CSP-indirekt åter försäljarens konto är aktivt i en CSP-region kan samma konto användas för att göra affärer i hela regionen. Läs mer om [CSP-region](regional-authorization-overview.md).
+**Svar** Ja. När ditt indirekta CSP-konto för åter försäljare är aktivt i en CSP-region kan samma konto användas för att göra affärer i hela regionen. Läs mer om [CSP-region](regional-authorization-overview.md).
 
 #### <a name="i-am-an-indirect-reseller-in-the-us-can-i-partner-with-an-indirect-provider-in-uk"></a>Jag är en indirekt åter försäljare i USA. Kan jag samar beta med en indirekt Provider i Storbritannien?
 
 **Svar** Nej. CSP är ett regionalt program. CSP-kontot för både den indirekta åter försäljaren och den indirekta providern måste finnas i samma CSP-region för att göra affärer. För att lösa detta måste du skapa ett nytt CSP-konto i den europeiska regionen och skapa en MPN-plats i samma land som CSP-kontots land och sedan acceptera Relations förfrågan från den indirekta providern. Du kan till exempel skapa ett konto för indirekt åter försäljare av CSP i Frankrike, skapa en MPN-plats i Frankrike och sedan godkänna inbjudan från en indirekt provider som är antingen i Frankrike eller något av de andra länderna i den europeiska regionen för CSP.
 
-#### <a name="can-i-have-more-than-1-mpn-and-csp-accounts-in-partner-center"></a>Kan jag ha fler än 1 MPN-och CSP-konton i Partner Center?
+#### <a name="can-i-have-more-than-one-mpn-and-csp-accounts-in-partner-center"></a>Kan jag ha fler än ett MPN-och CSP-konton i Partner Center?
 
-**Svar** Du kan bara ha ett MPN-konto (logga in) och ett eller flera CSP-konton (inloggningar) beroende på de CSP-regioner i företag som du gör. Du kan t. ex. ha ditt MPN-konto i USA (HQ) med platser i USA (dotter bolag), brittiskt (dotter bolag) och Australien (dotter bolag).
+**Svar** Du kan bara ha ett MPN-konto (inloggning) och ett eller flera CSP-konton (inloggningar) beroende på de CSP-regioner i företag som du gör. Du kan till exempel ha ditt MPN-konto i USA (HQ) med platser i USA (dotter bolag), brittiskt (dotter bolag) och Australien (dotter bolag).
 Du kan ha ett CSP-konto (Office 365 arbets konto) i USA som har samma inloggnings uppgifter som ditt MPN-konto. Du kan ha andra CSP-konton i Storbritannien som har olika inloggnings uppgifter för att hantera CSP-verksamhet i den europeiska regionen, och tredje i Australien som har olika inloggnings uppgifter från andra två för att hantera CSP-verksamhet i Australien.
 
 Alla de tre CSP-kontona måste vara kopplade till MPN-ID-plats konton för att göra affärer och få incitament i dessa dotter bolag. MPN-kompetenser och-förmåner kan endast hanteras av MPN-kontot.
@@ -169,9 +169,9 @@ Alla de tre CSP-kontona måste vara kopplade till MPN-ID-plats konton för att g
 
 #### <a name="i-want-to-migrate-my-mpn-account-from-partner-membership-center-to-partner-center-how-can-i-do-it-i-do-not-know-who-was-my-mpn-admin-in-pmc--how-can-i-migrate-"></a>Jag vill migrera mitt MPN-konto från partner Membership Center till Partner Center. Hur kan jag göra det? Jag vet inte vem som var MPN-administratör i PMC, hur kan jag migrera? 
 
-**Svar** Hämta steg-för-steg-guide om hur du [migrerar MPN från PMC till PC](guide-to-migration.md). Det finns olika länkar till HEP som du migrerar. https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx"
+**Svar** Hämta steg-för-steg-guide om hur du [migrerar MPN från PMC till PC](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx).
 
-När du har migrerat MPN-kontot kan du läsa mer om hur du signerar MPA, läser [Microsoft-partner-Agreement] 9microsoft-partner-Agreement. MD # Download-Step-by-Step-Guide – som är rätt för-in-the-MPa-Sign-process)
+När du har migrerat ditt MPN-konto kan du läsa mer om hur du loggar MPA, läser [Microsoft-partner-Agreement](microsoft-partner-agreement.md#download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process).
 
 I händelse av problem kan du generera ett [support ärende](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) inifrån Partner Center.
 
@@ -179,7 +179,7 @@ I händelse av problem kan du generera ett [support ärende](https://partner.mic
 
 **Svar**  Logga in på ditt MPN-konto med valfri roll (MPN och autentiseringsuppgifter för CSP-inloggning kan vara olika). 
 
-Från **konto inställningar** väljer du sidan **juridisk profil** under fliken **partner** . Om du ser "MPN program status" under programinfo finns ditt MPN-ID i Partner Center. Om du inte ser "MPN program status" på fliken "partner" sedan har du loggat in med ditt CSP-konto eller om ditt MPN-konto fortfarande inte finns i Partner Center. Du kanske fortfarande måste migrera ditt MPN-konto från PMC till PC.
+Från **konto inställningar** väljer du sidan **juridisk profil** under fliken **partner** . Om du ser "MPN program status" under programinfo finns ditt MPN-ID i Partner Center. Om du inte ser "MPN program status" på fliken "partner" kan du antingen ha loggat in med ditt CSP-konto eller så är ditt MPN-konto fortfarande inte i Partner Center. Du kanske fortfarande måste migrera ditt MPN-konto från PMC till PC.
 
 
 :::image type="content" source="images/legal-info-mpn.png" alt-text="Visar information om MPN-program":::
@@ -204,11 +204,11 @@ Om du inte kan lösa problemet på egen hand kan du utlösa ett support ärende 
 
 #### <a name="i-enrolled-in-mpn-program--csp-indirect-reseller-program-but-my-legal-business-profile-verification-status-seems-to-be-stuck-in-the-pending-state-what-should-i-do"></a>Jag har registrerat sig i MPN program/CSP-indirekt åter försäljare, men min juridiska organisations profil verifierings status verkar fastnar i det väntande tillståndet. Vad ska jag göra?
 
-**Svar**  Om din indirekta CSP-återförsäljare är i **väntande kvalificering** efter fler än fem arbets dagar, kan du generera ett support ärende inifrån Partner Center genom att klicka på [Support för partner Center](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=345795c0-26bd-dd95-d291-b78ed4a8edce).
+**Svar**  Om den indirekta CSP-försäljarens juridiska företags profil är i **väntande kvalificerings** status efter fler än fem arbets dagar, kan du generera ett support ärende inifrån Partner Center genom att klicka på [Support för partner Center](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=345795c0-26bd-dd95-d291-b78ed4a8edce).
 
 :::image type="content" source="images/pending.png" alt-text="Status är väntande":::
 
-## <a name="question-about-working-in-partner-center"></a>Fråga om att arbeta i Partner Center
+## <a name="questions-about-working-in-partner-center"></a>Frågor om att arbeta i Partner Center
 
 #### <a name="i-dont-know-who-the-partner-center-admin-is-who-can-accept-mpa-"></a>Jag vet inte vem Partner Center-administratören är som kan acceptera MPA?
 
