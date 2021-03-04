@@ -1,5 +1,5 @@
 ---
-title: Bekräfta kund godkännande av Microsofts kund avtal
+title: Bekräfta kundgodkännande av Microsoft-kundavtal
 description: Lär dig hur du bekräftar kund godkännande av Microsofts kund avtal. Det kan vara nödvändigt att beställa Microsoft-produkter och-tjänster för kunder.
 ms.topic: how-to
 ms.service: partner-dashboard
@@ -8,15 +8,15 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 06/30/2020
-ms.openlocfilehash: f2513213bff38a6296832253a13725ff2508f1f8
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.date: 03/02/2021
+ms.openlocfilehash: ab2f5be77f6480b4a8b47bef0e0fd5096f7c1776
+ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354618"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102029924"
 ---
-# <a name="updated-method-to-confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Uppdaterad metod för att bekräfta kund godkännande av Microsofts kund avtal
+# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Bekräfta kundens samtycke till Microsofts kundavtal
 
 
 **Lämpliga roller**
@@ -30,8 +30,6 @@ ms.locfileid: "97354618"
 > * Partnercenter för Microsoft Cloud Tyskland
 > * Välkommen till Partnercenter för Microsoft Cloud for US Government
 
->[!NOTE]
->Från och med den 31 januari 2020 måste alla kunder, befintliga och nya, signera det nya Microsofts kund avtal. Läs mer i [bekräfta kund godkännande av Microsofts kund avtal](confirm-customer-agreement.md).
 
 Som partner måste du inhämta kundens godkännande av Microsofts kund avtal innan du kan beställa Microsofts produkter och tjänster för kunden. För att bättre hjälpa partners att uppfylla kraven för efterlevnad ber Microsoft partners att bekräfta godkännande genom att tillhandahålla följande information om den person som har godkänt avtalet:
 
@@ -46,6 +44,9 @@ Som partner måste du inhämta kundens godkännande av Microsofts kund avtal inn
 - Datum för godkännande
 
 Direkta fakturerings partner och indirekta leverantörer måste bekräfta kund godkännande av Microsofts kund avtal vid kommunikation via partner Center eller API för partner Center. Bekräftelse är *obligatorisk*.
+
+>[!NOTE]
+>Från och med den 31 januari 2020 måste alla kunder, befintliga och nya, signera det nya Microsofts kund avtal. Läs mer i [bekräfta kund godkännande av Microsofts kund avtal](confirm-customer-agreement.md).
 
 Om ingen bekräftelse anges för en angiven kund:
 

@@ -8,20 +8,22 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/25/2021
-ms.openlocfilehash: df9cbea19ff51839e6624aba3e5050c41a55f32e
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.date: 03/03/2021
+ms.openlocfilehash: 5db9dc04f6ff4bf1020eb7a97778b152275d5ea5
+ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756146"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102029941"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
 Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här informationen regelbundet så återkom ofta!
 
-|**Kategori**|**Meddelanden från februari 2021**|**Meddelande**|
+|**Kategori**|**Meddelanden i mars 2021**|**Meddelande**|
 |---------|:---------|:---------|
+|Funktioner|[Microsoft Universal Print finns nu i vissa paket](2021-march.md#1)|3 mars|
+|**Kategori**|**Meddelanden från februari 2021**|**Meddelande**|
 |Funktioner|[Att placera kvalificerings-API: er tas ur bruk, tas ur bruk i maj](2021-february.md#14)|25 februari|
 |Funktioner|[Dela samförsäljnings avtal i stor skala med hjälp av funktionen för Mass åtgärder i Partner Center](2021-february.md#13)|25 februari|
 |Funktioner|[Migrera dina avtal från partner Sales Connect (PSC) med hjälp av den nya funktionen för att migrera en affär](2021-february.md#12)|25 februari|
