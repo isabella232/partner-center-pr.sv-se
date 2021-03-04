@@ -1,19 +1,19 @@
 ---
 title: Co-Sälj koppling för Dynamics 365 CRM-partner Center
 ms.topic: how-to
-ms.date: 02/16/2021
+ms.date: 03/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Synkronisera referenser i Partner Center med ditt Co-sälje Connector för Dynamics 365 CRM. Säljare kan sedan sälja tillsammans med Microsoft från dina CRM-system.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: e465130b96886cf2bb77bcd94f56c1a12545a5d5
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: 10062fd20e3553856d8b595efd3224ff456c2c49
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645848"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756795"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Co-Sälj koppling för Dynamics 365 CRM – översikt
 
@@ -31,11 +31,11 @@ Lösningen baseras på Microsoft Power automatiserings lösning och använder AP
 |**Ämnen**   |**Information**   |**Länkar**   |
 |--------------|--------------------|------|
 |Microsoft Partner Network-ID |Du behöver ett giltigt MPN-ID|För att ansluta till [MPN](https://partner.microsoft.com/)|
-|Samförsäljnings klar|Din lösning för IP/tjänster måste vara samförsäljnings klar.|[Sälj med Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
+|Färdiga försäljnings produkter|Din lösning för IP/tjänster måste vara samförsäljnings klar.|[Sälj med Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |Partnercenter-konto|Det MPN-ID som är kopplat till Partner Center-klienten måste vara samma som det MPN-ID som är kopplat till din co-Sälj-lösning. Kontrol lera att du kan se dina samförsäljnings referenser på Partner Center-portalen innan du distribuerar anslutningarna.|[Hantera ditt konto](create-user-accounts-and-set-permissions.md)|
 |Användar roller för partner Center|Den medarbetare som ska installera och använda anslutningarna måste vara en referens administratör|[Tilldela användarroller och -behörigheter](create-user-accounts-and-set-permissions.md)| 
 |Dynamics 365 CRM|Användar rollen CRM är system administratör eller systemanpassare|[Tilldela roller i Dynamics 365](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
-|Flödes konto för automatiserad energi|Skapa en ny produktions miljö med databasen för test/mellanlagring och produktion. Om du har en befintlig produktions miljö med databas kan den användas igen. Användaren som ska installera anslutnings lösningen måste ha en automatisk energi licens och åtkomst till den här miljön. Du kan övervaka förloppet och få mer information om att installationen Miss kan [automatiseras](https://flow.microsoft.com/) genom att klicka på Visa historik under lösningar.|[Skapa eller hantera miljö](https://docs.microsoft.com/power-platform/admin/create-environment#create-an-environment-with-a-database)|
+|Flödes konto för automatiserad energi|Skapa en ny produktions miljö med databasen för test/mellanlagring och produktion. Om du har en befintlig produktions miljö med databas kan den användas igen. Användaren som ska installera anslutnings lösningen måste ha en automatisk energi licens och åtkomst till den här miljön. Du kan övervaka förloppet och få mer information om att installationen Miss kan [automatiseras](https://flow.microsoft.com/) genom att klicka på Visa historik under lösningar.|[Skapa eller hantera miljö](/power-platform/admin/create-environment#create-an-environment-with-a-database)|
 
 ## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>Installera synkronisering av Partner Center-referenser för Dynamics 365 (energi automatiserings lösning)
 
@@ -110,7 +110,7 @@ Innan du installerar, konfigurerar och anpassar den automatiserade energi lösni
 
 1. Gå tillbaka till sidan **lösningar** och välj **standard lösning**. Välj **anslutnings referens (för hands version)** genom att klicka på **alla**.
 
-:::image type="content" source="images/cosellconnectors/dynamics-3.png" alt-text="Anslut":::
+:::image type="content" source="images/connection-reference-video.gif" alt-text="Redigera anslutningarna":::
 
 2. Redigera varje anslutning en i taget genom att välja ikonen tre punkter. Lägg till relevanta anslutningar.
 
@@ -141,9 +141,9 @@ Med API: er för webhook i Partner Center kan du registrera för resurs ändring
 
 3. Välj **kopierings** ikonen för att kopiera den tillhandahållna HTTP post-URL: en.
 
-   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="Kopiera URL":::
+ :::image type="content" source="images/webhook-video.gif" alt-text="Registrera resurs ändringar med hjälp av Webhooks":::
 
-4. Välj nu "partner för webhook-registrering (Insider Preview)" i Power Center och välj **Kör**.
+4. Välj flödet "partner för webhook-registrering (Insider Preview)" i Power Center och välj **Kör**.
 
 5. Se till att fönstret kör flöde visas i den högra rutan och klicka på **Fortsätt**.
 
@@ -205,7 +205,7 @@ Så här uppdaterar du ett miljö variabel värde:
 
 3. Uppdatera **aktuellt värde** (uppdatera inte standardvärdet) med alternativet **nytt värde** och ange värdet. Värdet måste matcha data typen för variabeln, t. ex. Ja/Nej-data typen accepterar antingen ja eller inget värde.
 
-:::image type="content" source="images/cosellconnectors/dynamics-5.png" alt-text="Redigerings ruta för standardvärden":::
+:::image type="content" source="images/environment-variables-video.gif" alt-text="Uppdatera miljövariabler":::
 
 - Slutförd dubbelriktad referens synkronisering från slut punkt till slut punkt
 

@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: c7e4f2b395ac421c9c01a813689723901374124a
-ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
+ms.openlocfilehash: 12fea98deb0b4ad0fc85783d04912ac7f76b8115
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "99975990"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756129"
 ---
 # <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>Använda Partner Center för att registrera sig som en Microsoft Learning-partner
 
@@ -115,7 +115,7 @@ Att uppfylla en KPI är inte relaterat till utbildningens varaktighet. Om du vil
 
 ### <a name="q-why-dont-i-appear-as-a-microsoft-learning-partner-in-the-learning-partner-directory"></a>F. Varför visas inte som en Microsoft Learning-partner i Learning partner-katalogen?
 
-Vi kan behöva lägga till dig i [Learning partner-katalogen](https://docs.microsoft.com/learn/certifications/partners). Sedan kan du länka till din webbplats från sidan Learning partner Directory.
+Vi kan behöva lägga till dig i [Learning partner-katalogen](/learn/certifications/partners). Sedan kan du länka till din webbplats från sidan Learning partner Directory.
 
 Det här är en manuell process som bara skickas en gång per månad, under den tredje veckan. Den efterföljande uppdateringen visas i slutet av den första veckan i följande månad. Kontakta [partner Frontline support](https://partner.microsoft.com/support)om du behöver hjälp med att lösa problemet. Var beredd på att ange följande information:
 

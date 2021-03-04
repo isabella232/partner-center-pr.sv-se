@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 332832b14e3434824aee2b1a6bcf7eb321fb7a60
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: 2ee2ba7c3a04453927bd8e508190f23ec295da1d
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99835075"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756706"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Vanliga frågor och svar om incitament
 
@@ -67,9 +67,9 @@ Den troliga orsaken till att du inte kan se incitament är att du inte har rätt
 
 ## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>Vissa registreringar saknas på sidan incitaments översikt.
 
-Om du antingen har fått en inbjudan från, eller om du har registrerat dig i, ett incitaments program som inte längre visas i instrument panelen, bör du kontrol lera att du har rätt åtkomst. Endast användare med rollen stimulans användare eller incitaments administratör kan se programmet. Se [hitta din roll](https://docs.microsoft.com/partner-center/find-your-role).
+Om du antingen har fått en inbjudan från, eller om du har registrerat dig i, ett incitaments program som inte längre visas i instrument panelen, bör du kontrol lera att du har rätt åtkomst. Endast användare med rollen stimulans användare eller incitaments administratör kan se programmet. Se [hitta din roll](./find-your-role.md).
 
-Kontakta företagets globala eller konto administratör om du behöver ändra din roll eller behörighet. Läs [hitta din globala administratör](https://docs.microsoft.com/partner-center/find-your-role#find-your-global-admin)för att lära dig mer om vem dessa personer är.
+Kontakta företagets globala eller konto administratör om du behöver ändra din roll eller behörighet. Läs [hitta din globala administratör](./find-your-role.md#find-your-global-admin)för att lära dig mer om vem dessa personer är.
 
 Observera att översikts sidan endast visar registreringar som är associerade med det globala partner kontot (PGA) som är associerat med Azure AD-klienten. Om ditt företag har fler än en PGA måste du ha olika autentiseringsuppgifter för var och en.
 

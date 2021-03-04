@@ -8,12 +8,12 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 490cb13b99b15f9c88fdab4d7bca79d1ab018eca
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 5ce5dadfc7fbb22ffc206e2dd48cccc0b274c499
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042692"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101757397"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Så här betalar du avgiften som är kopplad till en silver-eller guld kompetens
 
@@ -37,7 +37,7 @@ Annars följer du de här stegen för att betala avgiften för en silver-eller g
 
 - Du har redan uppfyllt [kraven](https://partner.microsoft.com/membership/competencies) för att uppnå en speciell silver-eller guld kompetens.
 
-- Du har tilldelats rollen Partner Center för [Global administratör eller MPN partner administratör](https://docs.microsoft.com/partner-center/permissions-overview). Om du är gäst användare utan någon av dessa roller nekas du åtkomst till några av de partner Center-sidor som beskrivs nedan. Om detta inträffar kan du [Kontakta din globala administratör](https://docs.microsoft.com/partner-center/find-your-role) och be dem att tilldela dig rätt roll. 
+- Du har tilldelats rollen Partner Center för [Global administratör eller MPN partner administratör](./permissions-overview.md). Om du är gäst användare utan någon av dessa roller nekas du åtkomst till några av de partner Center-sidor som beskrivs nedan. Om detta inträffar kan du [Kontakta din globala administratör](./find-your-role.md) och be dem att tilldela dig rätt roll. 
 
 1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard)med hjälp av autentiseringsuppgifterna för din organisations arbets konto.
 
@@ -54,7 +54,7 @@ Annars följer du de här stegen för att betala avgiften för en silver-eller g
 
 4. På sidan **köp information** granskar du och bekräftar dina uppgifter.
 
-   (Läs mer om hur [du uppdaterar ditt företags **skatte-ID-** information](https://docs.microsoft.com/partner-center/organization-tax-info) eller företagets [ **faktura till/säljs till** företagets adress](https://docs.microsoft.com/partner-center/mpn-get-action-pack).)
+   (Läs mer om hur [du uppdaterar ditt företags **skatte-ID-** information](./organization-tax-info.md) eller företagets [ **faktura till/säljs till** företagets adress](./mpn-get-action-pack.md).)
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="Sidan med inköps information om medlemskapet innehåller betalnings inställningar." border="false":::
 

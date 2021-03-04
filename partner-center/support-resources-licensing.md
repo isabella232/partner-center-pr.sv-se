@@ -1,25 +1,22 @@
 ---
 title: Microsoft licens resurser
 ms.topic: article
-ms.date: 08/25/2020
+ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Som Microsoft-partner kan du ha frågor om att använda olika Microsoft-licensierings program. Den här artikeln innehåller resurser som kan hjälpa dig.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 70b9381cf67a54f2e8c7e1c7764610c91fca1b1b
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: a00ae527b1ac89e14f33960517ec20f8a5bec624
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531584"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756820"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Guide till licensieringsresurser för Microsoft-partner 
 
-**Gäller för**
-
-- Microsoft MPN-partner, CSP-partner och andra
 
 Den här artikeln delar resurser som kan hjälpa dig att besvara partner licensierings frågor.
 
@@ -32,7 +29,7 @@ Om du har frågor om hur dessa program fungerar kan dessa resurser hjälpa dig.
 > [!NOTE]
 > Om du behöver hjälp med mer detaljerade licensierings frågor eller med en kund offert börjar du med licens programmets tilldelade indirekta Provider (för CSP-programmet) eller din program distributör. De är ofta dina bästa, inledande kontakt punkter för specifika licens frågor eller frågor om att skapa kund offerter, SKU-inköp eller krav. Om du inte har en partner som betjänar den här rollen åt dig kan du läsa [hitta en partner](find-a-partner.md) för att hitta en.
 >
-> Du kan också kontakta dina Microsoft-kontakter för att utnyttja ett internt team av licensierings experter. Om du inte har specifika Microsoft-kontakter går du till [partner support](https://partner.microsoft.com/support/v2/?stage=1) och skriver **licens** på support sidans **problem** fält. Där kan du lära dig mer om andra support resurser för licensiering som kan vara tillgängliga för dig. Om du fortfarande behöver hjälp kan du logga ett support ärende för att få hjälp med att besvara vissa licens frågor eller hjälpa dig att hitta rätt produkt-SKU.
+> Du kan också kontakta dina Microsoft-kontakter för att utnyttja ett internt team av licensierings experter. Om du inte har specifika Microsoft-kontakter går du till [partner support](https://partner.microsoft.com/support/v2/?stage=1) och skriver **licens** på support sidans **problem** fält. 
 
 ## <a name="general-resources-about-licensing-and-license-training"></a>Allmänna resurser om licensiering och licens utbildning
 
@@ -43,7 +40,7 @@ Du kan lära dig mer om olika licensierings program från följande resurser.
 
 |Gör så här:  | Läs detta  |
 |:------------------|:--------------- |
-|Jämför licenser för CSP-program till andra licensierings modeller *(översikt på hög nivå)* | Gå till [sidan CSP-registrering](https://partner.microsoft.com/licensing/). Rulla nedåt tills du ser avsnittet *Jämför CSP till andra licensierings modeller* .  |
+|Jämför licenser för CSP-program till andra licensierings modeller *(översikt på hög nivå)* | Gå till [sidan CSP-registrering](https://partner.microsoft.com/licensing/). Rulla nedåt tills du ser avsnittet *Jämför CSP till andra licensierings modeller*.  |
 |Jämför olika partner licens avtal för Microsofts moln tjänster och lokala program *(detaljerad vy)*  | [Microsofts licens avtal](https://partner.microsoft.com/licensing/licensing-agreements)  |
 |Läs mer om volym licensiering (VL) och licensiering för vissa lösningar  | [Microsoft-licensiering – produkter och lösningar](https://www.microsoft.com/licensing/default) |
 |Lär dig mer om utbildning och resurser för volym licensiering som kan hjälpa dig med VL-priser, offerter, avtal, produkt aktivering och andra verktyg  | [Microsoft Partner Network utbildning och resurser](https://partner.microsoft.com/licensing/training-and-resources) |

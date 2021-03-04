@@ -6,19 +6,209 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: brentserbus
 ms.author: brserbus
-ms.custom: announcement
+ms.custom: references_regions
 ms.localizationpriority: high
-ms.date: 02/04/2021
-ms.openlocfilehash: 8348179438ad65449ea75cd5ebce8ba0a92d7b9a
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.date: 02/25/2021
+ms.openlocfilehash: dcdbbda3a93bdf80dfe2c8eacc74ea4f78a7d07e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100541006"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756332"
 ---
 # <a name="february-2021-announcements"></a>Meddelanden från februari 2021
 
 Den här sidan innehåller information om Microsoft Partner Center-meddelanden för februari 2021.
+
+________________
+## <a name="put-qualification-apis-are-retired-get-to-retire-in-may"></a><a name="14"></a> Att placera kvalificerings-API: er tas ur bruk, tas ur bruk i maj
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 25 februari 2021
+- Funktioner
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Partner som säljer akademiska, icke-vinst-och GCC-erbjudanden via Cloud Solution Provider-programmet med partner Center API
+
+### <a name="details"></a>Information
+
+Det här meddelandet är en uppföljning av de förbättringar i Partner Center som [lanseras i december](2020-december.md#1). Som en del av den här versionen distribuerades nya API: er för GET-och POST-kvalifikationer, och därför **har de befintliga API: erna för placeringen dragits tillbaka, och erhållen kvalificering kommer att dras tillbaka den 4 maj 2021**. När detta inträffar måste du gå över till att använda de nya API: erna för POST Partner Center för att köpa utbildnings erbjudanden. På samma sätt behöver du använda det nya API: et för att få ett förkvalificerat erbjudande för icke-vinst och GCC.
+
+### <a name="next-steps"></a>Nästa steg
+
+- **Uppdatera till de nya API: erna** för en lyckad och forts över gång
+- **Granska de nya API: erna för partner Center och guiden** för drift beredskap: [partner Center utbildning av kund validerings process](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- **Dela den här informationen med lämpliga team** i din organisation och med dina åter försäljare för att hjälpa dem att förbereda för dessa ändringar
+
+### <a name="questions"></a>Har du några frågor?
+
+För alla frågor som rör detta meddelande kontaktar du [Support för partner Center](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+
+### <a name="change-log"></a>Ändringslogg
+
+- Februari: uppdaterade tids linjer för utfasning av GET & placera kvalifikationer
+- Januari: påminnelse om kommande utfasningar av GET & placera kvalifikationer
+
+________________
+## <a name="share-co-sell-deals-at-scale-using-the-partner-center-bulk-operations-capability"></a><a name="13"></a> Dela samförsäljnings avtal i stor skala med hjälp av funktionen för Mass åtgärder i Partner Center
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-02-25
+- Förbättrad säkerhet och efterlevnad
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Partner samförsäljning i Partner Center
+
+### <a name="summary"></a>Sammanfattning
+
+Partner företag kan nu exportera och importera affärs möjligheter i stor skala med hjälp av den nya partner Center CSV-funktionen Mass åtgärder.
+
+### <a name="details"></a>Information
+
+Partner företag kan nu exportera och importera affärs möjligheter i stor skala med hjälp av den nya partner Center CSV-funktionen Mass åtgärder. Detta ger en enhetlig delnings upplevelse för din hänvisning och garanterar affärs kontinuitet när du flyttar från partner Sales Connect. Det är också ett alternativ till att investera i Partner Center-API: et.
+
+Mer information finns i artikeln som nämns i nästa avsnitt. 
+
+### <a name="next-steps"></a>Nästa steg
+
+Läs mer om funktionerna för Mass åtgärder genom att läsa [Mass åtgärder för samförsäljnings möjligheter med hjälp av CSV-filer (kommaavgränsade värden)](https://docs.microsoft.com/partner-center/bulk-operations).
+
+### <a name="questions"></a>Har du några frågor?
+
+Kontakta [supporten](https://partner.microsoft.com/support/?stage=1) om du har fler frågor.
+
+________________
+## <a name="migrate-your-deals-from-partner-sales-connect-psc-using-the-new-deal-migration-feature"></a><a name="12"></a>Migrera dina avtal från partner Sales Connect (PSC) med hjälp av den nya funktionen för att migrera en affär
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-02-25
+- Funktioner
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Partner med avtal i PSC
+
+### <a name="summary"></a>Sammanfattning
+
+Partner med avtal i partner Sales Connect (PSC) kan dra nytta av den nya samförsäljnings upplevelsen i Partner Center genom att migrera sina samförsäljnings avtal med hjälp av funktionen för att migrera i samarbete.
+
+### <a name="details"></a>Information
+
+Partner med avtal i PSC kan nu förflytta sig snabbare för att dra nytta av den nya samförsäljnings upplevelsen i Partner Center och slippa arbeta på två plattformar genom att migrera sina samförsäljnings avtal till Partner Center med hjälp av funktionen för att migrera en affär i samarbete.
+
+Mer information finns i artikeln som nämns i nästa avsnitt.
+
+### <a name="next-steps"></a>Nästa steg
+
+Lär dig mer om funktionen för att migrera i PSC genom att granska avsnittet om **migrering av PSC** i [guiden för Samförsäljning i Partner Center (PC) för partner som migrerar från partner Sales Connect (PSC)](https://docs.microsoft.com/partner-center/psc-to-pc).
+
+### <a name="questions"></a>Har du några frågor?
+
+Kontakta [supporten](https://partner.microsoft.com/support/?stage=1) om du har fler frågor.
+
+________________
+## <a name="increased-flexibility-with-partner-led-co-sell-deals"></a><a name="11"></a>Ökad flexibilitet med partner ledde till samförsäljnings avtal
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-02-25
+- Funktioner
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Partner med samförsäljnings klara lösningar
+
+### <a name="summary"></a>Sammanfattning
+
+Partner kan nu bjuda in Microsoft-säljare efter att du har skapat en samarbets partner i Co-försäljning för att göra den till en samarbets Sälj aktivitet.
+
+### <a name="details"></a>Information
+
+Nu har partner möjlighet att bjuda in Microsoft-säljare efter att du har skapat en samordnad samarbets partner för att göra den till en samarbets försäljnings aktivitet. Informationen om affären delas inte med Microsoft Sales-teamet förrän partnern uttryckligen söker Microsoft Sales-hjälpen. Det här scenariot är också berättigat till Microsofts stimulans.
+
+Observera att partner ledde till samförsäljnings avtal kan uppgraderas till en aktiv Co-försäljning när som helst innan det handlar om stängning.
+
+Mer information finns i artikeln som nämns i nästa avsnitt.
+
+### <a name="next-steps"></a>Nästa steg
+
+Lär dig mer genom att visa vår guide för att [Hantera samförsäljnings möjligheter i Partner Center](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities).
+
+### <a name="questions"></a>Har du några frågor?
+
+Kontakta [supporten](https://partner.microsoft.com/support/?stage=1) om du har fler frågor.
+
+________________
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="10"></a> Ändringar i CSP-kundernas (Cloud Solution Provider) krav för kund onboarding
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-02-25
+- Förbättrad säkerhet och efterlevnad
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+KRYPTOGRAFIPROVIDERs direkta fakturerings partner och indirekta leverantörer som har nya eller befintliga kunder i de länder som anges i nästa avsnitt.
+
+### <a name="summary"></a>Sammanfattning
+
+Som en del av vårt åtagande att hjälpa partner och kunder att köra verksamhet utifrån förtroende kommer vi att begära ytterligare kund information, från och med den 25 mars 2021.
+
+### <a name="details"></a>Information
+
+Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för kund validering för att agera kund prenumerationer i CSP-programmet. Den 25 mars 2021 kommer vi att introduktion till API: er och användar gränssnitts förbättringar i Partner Center som påverkar partner som uppfyller båda följande kriterier:
+
+1. Partnern har en direkt fakturerings relation med Microsoft (vilket innebär att partnern antingen är en direkt fakturerings partner eller en indirekt Provider).
+2. Partnern gör affärer med nya eller befintliga kunder i följande länder:
+    - Thailand
+    - Vietnam
+    - Turkiet
+    - Polen
+    - Sydafrika
+    - Indien
+    - Brasilien
+    - Irak
+    - Myanmar
+    - Sydsudan
+    - Saudiarabien
+    - Förenade Arabemiraten
+    - Venezuela
+
+Partner som uppfyller kriterierna måste skicka in en kunds **juridiska identifierare** (kallas även kundens **organisations Inn**) och **telefonnummer** när de registrerar nya kunder eller ändrar befintlig kund information. Dessa partner kan också ange ett **mellannamn** för kunden (valfritt).
+
+Partner som gör affärer med nya eller befintliga kunder i följande länder har redan publicerats med en tidigare version i november 2020.
+
+- Armenien
+- Azerbajdzjan
+- Vitryssland
+- Ungern
+- Kazakstan
+- Kirgizistan
+- Moldavien
+- Ryssland
+- Tadzjikistan
+- Ukraina
+- Uzbekistan
+
+Partner med kunder i resten av världen kommer att ha möjlighet den 25 mars 2021 att ange **juridisk identifierare**, **telefonnummer** och **mellan namn** för kunder som valfri information.
+
+### <a name="next-steps"></a>Nästa steg
+
+- Läs igenom den tekniska dokumentationen och vanliga frågor och svar i den dedikerade [partner samlingen](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) (inloggning krävs) för mer detaljerad vägledning.
+- Förbered för att införliva ändringarna med partner Center API och webb användar upplevelsen. API/SDK: er kommer att vara tillgängliga för testning.
+- Se till att skicka in ytterligare data när du registrerar nya kunder eller ändrar befintlig kund information.
+- Om du använder en lösning för en kontroll panels leverantör (CPV) bör du kontakta din CPV.
+
+### <a name="questions"></a>Har du några frågor?
+
+Kontakta din skatte rådgivare eller ditt lokala skatte kontor om du har frågor som rör juridisk identifierare (även kallat INN eller tenn). Microsoft kan inte ge vägledning om skatte frågor.
+
+Om du behöver stöd för dina åtgärder med Microsoft [öppnar du en tjänstbegäran](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8) (inloggning krävs).
 
 ________________
 ## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a> Nu Live: DocuSign migrering till Adobe Sign för partner under Microsoft partner Agreement (MPAs)
@@ -245,7 +435,7 @@ Premium-utvärderingar är ett valfritt tillägg till Compliance Manager och kan
 Granska följande resurser för det här avsnittet och dela informationen med lämpliga intressenter i din organisation.   
 
 - [Microsoft 365 E5-säkerhet och efterlevnad](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?rtc=1&activetab=m365-enterprise:primaryr5)
-- [Bygga och hantera utvärderingar i Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments&preserve-view=true=o365-worldwide)
+- [Bygga och hantera utvärderingar i Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments?preserve-view=true&view=o365-worldwide)
 
 _________________________________________________________
 
@@ -285,23 +475,23 @@ Här är what's nya i modulen Partner Center-referenser:
 
 #### <a name="all-partners-using-the-referrals-module-in-partner-center"></a>Alla partner som använder modulen för referenser i Partner Center  
 
-- [Skapa nya SMB-anslutningar](https://docs.microsoft.com/partner-center/connect-with-your-customers): samförsäljning och samar beta med Microsoft-säljare för att få ingående möjligheter som rör SMB-kunder.
+- [Skapa nya SMB-anslutningar](../connect-with-your-customers.md): samförsäljning och samar beta med Microsoft-säljare för att få ingående möjligheter som rör SMB-kunder.
 
-- [Expandera hänvisnings behörigheter](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals): tilldela användare referens behörigheter baserat på om du vill att de ska ha administratörs behörighet (åtkomst till alla samförsäljnings möjligheter) eller användar behörigheter (åtkomst till användarens egna affärs möjligheter för samförsäljning).
+- [Expandera hänvisnings behörigheter](../permissions-overview.md#manage-referrals): tilldela användare referens behörigheter baserat på om du vill att de ska ha administratörs behörighet (åtkomst till alla samförsäljnings möjligheter) eller användar behörigheter (åtkomst till användarens egna affärs möjligheter för samförsäljning).
 
-- [Partner Sales Connect User migration](https://docs.microsoft.com/partner-center/psc-to-pc#user-migration): Map befintlig partner Sales Connect User Permissions to the Partner Center referral admin och referral User Permissions, och sedan kan du använda de nya behörigheterna för användare. Läs mer om referens hantering i [dokumentationen om referens behörighet](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) .  
+- [Partner Sales Connect User migration](../psc-to-pc.md#user-migration): Map befintlig partner Sales Connect User Permissions to the Partner Center referral admin och referral User Permissions, och sedan kan du använda de nya behörigheterna för användare. Läs mer om referens hantering i [dokumentationen om referens behörighet](../permissions-overview.md#manage-referrals) .  
 
 #### <a name="partners-with-co-sell-ready-offers"></a>Partner med medförsäljnings färdiga erbjudanden
 
-- [Samar beta med andra partner](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities): Bjud in en annan partner från vårt kraftfulla partner eko system till samförsäljning med dig och lås upp åtkomst till fler kund mål grupper.  
+- [Samar beta med andra partner](../manage-co-sell-opportunities.md): Bjud in en annan partner från vårt kraftfulla partner eko system till samförsäljning med dig och lås upp åtkomst till fler kund mål grupper.  
 
 #### <a name="partners-with-a-transactable-offer-using-an-azure-incentive-eligible-solution-in-the-commercial-marketplace"></a>Partner med ett transactable-erbjudande med hjälp av en Azure-berättigad lösning på den kommersiella marknaden
 
-- [Använd automatisk avtals registrering](https://docs.microsoft.com/partner-center/register-deals): Spara tid och säkerställ precision genom att registrera ett Transactable Microsoft Marketplace Azure-erbjudanden med hjälp av kryss rutan, "detta avtal/Vinn har eller kommer att införlivas via Azure Marketplace eller AppSource". Så länge ditt transaktions datum är korrekt kommer informationen för avtals registrering att hämtas direkt från Microsofts kommersiella marknads plats.
+- [Använd automatisk avtals registrering](../register-deals.md): Spara tid och säkerställ precision genom att registrera ett Transactable Microsoft Marketplace Azure-erbjudanden med hjälp av kryss rutan, "detta avtal/Vinn har eller kommer att införlivas via Azure Marketplace eller AppSource". Så länge ditt transaktions datum är korrekt kommer informationen för avtals registrering att hämtas direkt från Microsofts kommersiella marknads plats.
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du behöver hjälp med att använda någon av de nya funktionerna kan du titta närmare på [avsnittet om hänvisningarna](https://docs.microsoft.com/partner-center/referrals) i vår kunskaps bas eller vår instruktion för att få support i vårt [Co-Sälj Experience Gallery](https://aka.ms/CoSellExperience) (inloggning krävs).
+Om du behöver hjälp med att använda någon av de nya funktionerna kan du titta närmare på [avsnittet om hänvisningarna](../referrals.md) i vår kunskaps bas eller vår instruktion för att få support i vårt [Co-Sälj Experience Gallery](https://aka.ms/CoSellExperience) (inloggning krävs).
 
 Du kan [öppna ett ärende med vårt partner support team](https://partner.microsoft.com/support/?stage=1) för support.
 
@@ -319,7 +509,7 @@ Partner som säljer akademiska, icke-vinst-och GCC-erbjudanden via Cloud Solutio
 
 ### <a name="details"></a>Information
 
-Det här meddelandet är en uppföljning av de förbättringar i Partner Center som [lanseras i december](https://docs.microsoft.com/partner-center/announcements/2020-december#1). Som en del av den här versionen har nya API: er för GET-och POST-kvalifikationer distribuerats, och därför kommer de befintliga API: er för **utranging API: er att överges den 25 februari 2021 och få kvalificering senast 4 maj 2021**. Vid detta tillfälle måste du ha övergått till att använda de nya API: erna för POST Partner Center för att kunna köpa utbildnings erbjudanden och det nya GET-kompetens-API: et för att köpa Förkvalificerade icke-vinst-och GCC erbjudanden.
+Det här meddelandet är en uppföljning av de förbättringar i Partner Center som [lanseras i december](./2020-december.md#1). Som en del av den här versionen har nya API: er för GET-och POST-kvalifikationer distribuerats, och därför kommer de befintliga API: er för **utranging API: er att överges den 25 februari 2021 och få kvalificering senast 4 maj 2021**. Vid detta tillfälle måste du ha övergått till att använda de nya API: erna för POST Partner Center för att kunna köpa utbildnings erbjudanden och det nya GET-kompetens-API: et för att köpa Förkvalificerade icke-vinst-och GCC erbjudanden.
 
 ### <a name="next-steps"></a>Nästa steg
 

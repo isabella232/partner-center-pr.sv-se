@@ -1,19 +1,19 @@
 ---
 title: Utbetalnings- och skatteprofiler i Partnercenter
 ms.topic: how-to
-ms.date: 11/12/2020
+ms.date: 02/24/2021
 description: Skapa och hantera din utbetalnings-och skatte profil så att du kan betala för dina stimulans arbeten. Inkluderar att skapa, hantera och använda olika profiler.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 282fdacc8689ff71e885a2f0ea01ce9570611707
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: ba8c1a811d66a5e6233f625c3981283341ea546c
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624246"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756590"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Skapa och hantera incitaments utbetalningar och skatte profiler i Partner Center
 
@@ -86,10 +86,22 @@ I avsnitten nedan får du stegvisa anvisningar genom processen att skapa och han
 
     >[!NOTE]
     >Tillgängligheten för betalnings metoden är beroende av reglerna i stimulans programmet.
+
+    - Om din plats MPN-ID betalas av ett lokalt Microsoft-dotter bolag för ett särskilt incitaments program och tillåter LRD (begränsad risk distributör) kredit Nota som betalnings metod, fylls din betalnings profil i förväg med betalnings metoden LRD kredit faktura. På raden för betalnings metoden LRD kredit NOTE för respektive incitament program och plats MPN ID visas **bekräftad** eller **verifiering nödvändig** som status i avsnittet betalnings profil.
+    
+       Välj **verifiering som krävs** för att bekräfta och kontrol lera den information om CSP-innehavare som är associerad med plats-MPN och betalnings metoden för att ta emot kredit faktura betalningen. I dialog rutan **kredit kommentars information** granskar och kontrollerar du att CSP-klient-ID och information som angetts är korrekta. Om du visas med fler än ett klient-ID bör du noga välja det klient-ID för CSP som du vill ta emot betalningar för. Välj sedan **Bekräfta** för att bekräfta att företagets information är korrekt och att incitaments betalningen ska göras till det CSP-klient-ID som du har valt.
+ 
+      Om status visas som **bekräftad** har tilldelningen av CSP-klient-ID slutförts och ingen ytterligare åtgärd krävs. Du kan fortfarande välja bekräfta för att se information om tilldelningen.
+   
+      I länder som kräver att partner uttryckligen begär att ett skatte undantag ska tillämpas kan du välja att tillämpa skatte befrielse bredvid skatte profilen i avsnittet skatte profil i stimulans programmet och platsen MPN. Om du markerar den här kryss rutan används skatte befrielse förmåner för din incitaments kredit anteckning. 
+   
+      Den här betalnings metoden är för närvarande endast tillgänglig för Australien, Nya Zeeland och Kanada-partner för Microsoft Commerce incitaments program. Om du är en direkt fakturerings partner eller en indirekt leverantör i dessa tre länder som registrerats för MCI-programmet och du inte ser LRD kredit anmärkning som den tillgängliga betalnings metoden, kontrollerar du att klient-ID: t är associerat med det relevanta partner MPN location-kontot. Mer information om det här finns i [så här uppdaterar du din organisations profil](update-your-partner-profile.md).
+
     
 5. Välj **valuta**.
 
 6. När du har slutfört alla betalnings fält väljer du **Skicka**.
+
 
 ## <a name="create-your-bank-profile"></a>Skapa din bank profil
 

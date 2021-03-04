@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2ae635b77acc82ea705f3405d1c15aa7d02684dd
-ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
+ms.openlocfilehash: 944f02af414a2865cadf94cd4fbf41c2555e066b
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "96322108"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755715"
 ---
 # <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>Olika sätt att arbeta med andra partner i Partner Center
 
-**Gäller för**
+**Lämpliga roller**
 
-- Partnercenter
+- konto administratör
 
 Microsofts leverantör av moln lösnings leverantör (CSP) erbjuder möjligheter för partner att samar beta på följande sätt.
 

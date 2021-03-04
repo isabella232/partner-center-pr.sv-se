@@ -9,18 +9,14 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 4bf1c7a2abceffc812666456ddae252fca70d8f1
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 3d163271329e2f2a117d7df3abcf9b31f2c4979f
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492729"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755857"
 ---
 # <a name="view-your-incentives-program-details"></a>Visa information om stimulans programmet
-
-**Gäller för**
-
-- Partnercenter
 
 **Lämpliga roller**
 
@@ -76,4 +72,5 @@ I den här informationen ingår totala incitamentsintäkter och betalningar seda
 Du kan också använda [API: et för partner utbetalning](https://apidocs.microsoft.com/services/partnerpayouts) för att ansluta och hämta utbetalnings transaktion och betalnings data direkt. Mer information finns i [utbetalnings instruktioner](payout-statement.md) .
 
 ## <a name="next-steps"></a>Nästa steg
+
 - [Utbetalningsinstruktioner](payout-statement.md)

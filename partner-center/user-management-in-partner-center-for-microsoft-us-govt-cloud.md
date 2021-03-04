@@ -10,27 +10,22 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5f81022c3ea32eefc0e1f85bea1b1830603620e7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e3cf34aa52bd1d0359736dbcf6cc5ed9029f6d9e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531645"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756756"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Hantering av användare och licenser i Partner Center för Microsoft Cloud för amerikanska myndigheter
 
 **Gäller för**
 
-- Partner Center för Microsoft Cloud för amerikanska myndigheter
+- Välkommen till Partnercenter för Microsoft Cloud for US Government
 
-Följande uppgifter hanteras i Microsoft Azure admin-portalen för Microsoft Cloud för amerikanska myndigheter:
+**Lämpliga roller**
 
-- Hantering av partner användare
-
-- Kund användar-och licens hantering
-
-- Återställa användarnas lösen ord
-
+- Global administratör
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>Hantera användare i Azure Portal för Microsoft Cloud för amerikanska myndigheter
 
@@ -49,6 +44,6 @@ När du har loggat in till Azure Portal för Microsoft Cloud för amerikanska my
 
 **Närliggande information**
 
--  [**Partner Center för Microsoft Cloud för amerikanska myndigheter**](partner-center-for-microsoft-us-govt-cloud.md)
+-  [**Välkommen till Partnercenter för Microsoft Cloud for US Government**](partner-center-for-microsoft-us-govt-cloud.md)
 
 -  [**Registrera dig i Cloud Solution Provider-programmet för Microsoft Cloud för amerikanska myndigheter**](enroll-in-csp-for-microsoft-us-govt-cloud.md)

@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 03271459ccdea5b62192ec176557a6c3b8f1a556
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 84863e96278ba17ecc9922ff9589abc504ff1fe0
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281344"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756179"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guide till samförsäljning i Partner Center (PC) för partners som migrerar från partner Sales Connect (PSC)
 
@@ -28,12 +28,15 @@ ms.locfileid: "100281344"
 
 Den här artikeln innehåller vägledning för partner som migrerar från partner Sales Connect till Partner Center så att de kan fortsätta att skapa och hantera samförsäljnings avtal i Partner Center.
 
-Som du vet kommer företaget att förlora åtkomsten till PSC efter den 31 mars 2021. Men du kommer fortfarande att hitta allt du vill göra i Partner Center, till exempel skapa samförsäljnings avtal, hantera dina avtal och agera på avtal som skickas till dig av Microsofts säljare.
-
-Det kommer dock att finnas skillnader. Följande rikt linjer hjälper dig att göra över gången till Partner Center mjukare och mer enkelt.
+>[!Note]
+> Om du är här eftersom du såg en banderoll i PSC om migreringen är du på rätt plats. Den här guiden gäller inte för lösnings utvärdering (SA) och OEM-licensieringens affärs partner som hanterar sina avtal i PSC.
 
 >[!Important]
-> Om du är här eftersom du såg en banderoll i PSC om migreringen är du på rätt plats. Den här guiden gäller inte för lösnings bedömning (SA) och OEM IOT-partner som hanterar sina avtal i PSC.
+> Från och med den 1 maj 2021 kommer företaget inte att kunna skapa eller redigera avtal i PSC. **Du kommer fortfarande att kunna hämta befintliga avtals data med hjälp av Mass export funktionen i PSC. Du kan också [migrera öppna avtal](psc-to-pc.md#psc-deals-migration) från PSC till Partner Center efter det här datumet.** <br><br> Om det finns avtal som du aktivt arbetar med och som innehåller IP-Co-sälja stödberättigade lösningar, har du två alternativ: <br><br> 1. Markera affären som vunnen och fullständig avtals registrering i PSC före 30 april 2021. <br> 2. [migrera avtalen](psc-to-pc.md#psc-deals-migration) till Partner Center så att du får mer tid att arbeta med affären och för att påbörja avtals registrering.
+
+Som du vet **kommer företaget att förlora åtkomsten till PSC efter den 31 maj 2021**. Men du kommer fortfarande att hitta allt du vill göra i Partner Center, till exempel skapa samförsäljnings avtal, hantera dina avtal och agera på avtal som skickas till dig av Microsofts säljare.
+
+Det kommer dock att finnas skillnader. Följande rikt linjer hjälper dig att göra över gången till Partner Center mjukare och mer enkelt.
 
 ## <a name="before-you-move-things-you-need-to-know"></a>Innan du flyttar, saker du behöver känna till
 
@@ -90,7 +93,7 @@ Så här hittar du ditt företags konto administratör:
 När du har konfigurerat ditt konto i Partner Center använder du guiden användarmigrering på sidan samförsäljnings möjligheter för att automatiskt tilldela Partner Center roller till anställda i företaget.
 
 >[!Note]
-> Användarmigrering kan bara utföras av [konto administratörer](permissions-overview.md#manage-mpn-membership-and-your-company) för ditt företag. Om du inte har rollen konto administratör kan du söka efter en konto administratör som kan hjälpa dig att skapa användar konton med hjälp av guiden Migrera användare. Funktionen för användarmigrering kommer att vara tillgänglig från den 18 november 2020.
+> Användarmigrering kan bara utföras av [konto administratörer](permissions-overview.md#manage-mpn-membership-and-your-company) för ditt företag. Om du inte har rollen konto administratör kan du söka efter en konto administratör som kan hjälpa dig att skapa användar konton med hjälp av guiden Migrera användare.
 
 :::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Bild som visar guiden användarmigrering.":::
 
@@ -135,7 +138,7 @@ Läs det här avsnittet innan du påbörjar den avtalade migreringen.
 
 **Tillgänglig för migrering**
 
-Endast vissa erbjudanden är berättigade till migrering från PSC till PC. Den här migreringsguiden är byggd för att hjälpa partner att ta sina erbjudanden till Partner Center där de fortfarande arbetar med sina kunder för att avsluta affären. **Endast avtal som är i öppet tillstånd med giltiga partner konto detaljer (giltigt MPN-ID) och inte genomgått avtals registrering är berättigade till migrering.**
+Endast vissa erbjudanden är berättigade till migrering från PSC till PC. Den här migreringsguiden är byggd för att hjälpa partner att ta sina erbjudanden till Partner Center där de fortfarande arbetar med sina kunder för att avsluta affären. **Endast avtal som är i öppet tillstånd skapade från den 1 januari 2020 med giltig partner konto information (giltigt MPN-ID) och inte genomgått avtals registrering är berättigade till migrering.**
 
 **Inte tillgänglig för migrering**
 
@@ -200,7 +203,7 @@ Om ditt företag har en partner utvecklings chef (PDM) – när ditt partner Cen
 Om ditt företag inte har en PDM – se till att alla användar konton är inställda och verifierade av alla användare. Du kommer att meddelas via ett e-postmeddelande och en banderoll i PSC om det exakta datumet när du kan påbörja samförsäljning i Partner Center. Kom ihåg att du fortfarande måste hantera befintliga aktiva avtal i PSC.
 
 >[!Important]
->Aktiva avtal kommer inte att migreras till datorn. Du har fram till den 31 mars 2021 att stänga och registrera avtalen.
+> Du har fram till den 30 april 2021 att registrera de avtal som marker ATS som vunna.
 
 ## <a name="next-steps-for-psc-admins-psc-deal-managers-and-psc-sellers"></a>Nästa steg för PSC-administratörer, PSC-chefer och PSC-säljare
 

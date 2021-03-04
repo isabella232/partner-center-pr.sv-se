@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 8d247d4f39b85423bfd128056595b414238b113c
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 8c9e978fb636392d7cfd1ad48c101eadeececcc6
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182553"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756411"
 ---
 # <a name="november-2020-announcements"></a>Meddelanden november 2020
 
@@ -98,7 +98,7 @@ Vi presenterar en ny Office 365 E1-kampanj för Mid-marknaden, som är begränsa
 Alla partners som går via Cloud Solution Provider (CSP)-programmet på de deltagande marknaderna ovan.
 
 ### <a name="details"></a>Information
-Kampanjens pris består av 30% rabatt på Office 365 E1 för CSP. Den startas den 1 december 2020 och kommer att vara tillgänglig i 6 månader fram till den 31 maj 2020. Den här kampanj är bara tillgänglig för kunder som är nya för MW-molnet och som har upp till 500 platser. Observera att detta är begränsat till nya marknader i LATAM, Indien och APAC, så att du kan aktivera över gången till molnet. 
+Kampanjens pris består av 30% rabatt på Office 365 E1 för CSP. Den startas den 1 december 2020 och kommer att vara tillgänglig i 6 månader fram till den 31 maj 2021. Den här kampanj är bara tillgänglig för kunder som är nya för MW-molnet och som har upp till 500 platser. Observera att detta är begränsat till nya marknader i LATAM, Indien och APAC, så att du kan aktivera över gången till molnet. 
 
 #### <a name="offer-details"></a>Erbjudande information
 
@@ -469,14 +469,14 @@ Med Premium-erbjudandet har kunder till gång till de nyligen utgivna tjänstern
 
    |****|**Microsoft Teams-enheter standard USD15-enhet per månad**|**Microsoft Teams-rum Premium USD50-enhet per månad**|
    |-------------------|:------|:------|
-   |Skype för företag|Yes| |
+   |Skype för företag|Ja| |
    |Microsoft Teams|Ja|Ja|
    |Telefon system|Ja|Ja|
    |Ljud konferens|Ja|Ja|
    |Microsoft Intune|Ja|Ja|
    | |Microsoft Teams-standarder USD15 per enhet per månad|Microsoft Teams-rum Premium-USD50 per enhet per månad|
-   |Microsoft Teams rum hanterade tjänster| |Yes|
-   |Tillgänglighet i hela världen|Yes|På utvalda marknader|
+   |Microsoft Teams rum hanterade tjänster| |Ja|
+   |Tillgänglighet i hela världen|Ja|På utvalda marknader|
 
 #### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft Teams rum hanterade tjänster
 

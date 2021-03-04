@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d09c1e57d16937c5656579f3932e9c8feb3ecf24
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: d927b138c32b3e5f6f5d906db898e17f89a85aae
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488099"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755770"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Lär dig hur du läser rad objekt i dina avstämnings filer för partner Center
 
@@ -23,20 +23,20 @@ Gäller för:
 - Partnercenter
 - Välkommen till Partnercenter för Microsoft Cloud for US Government
 
-Du kan ladda ned dina avstämnings filer från Partner Center för en detaljerad, rad objekt visning av varje debitering i en fakturerings period. Information om rad objekt inkluderar avgifter för varje kunds prenumerationer och detaljerade händelser (till exempel ett omslags kort tillägg av licenser till en prenumeration).
-
-Lämpliga roller:
+**Lämpliga roller**
 
 - Faktureringsadministratör
 - Global administratör
+
+Du kan ladda ned dina avstämnings filer från Partner Center för en detaljerad, rad objekt visning av varje debitering i en fakturerings period. Information om rad objekt inkluderar avgifter för varje kunds prenumerationer och detaljerade händelser (till exempel ett omslags kort tillägg av licenser till en prenumeration).
 
 Information om hur du läser fakturan finns i [läsa din](read-your-bill.md) **faktura**.
 
 ## <a name="understand-reconciliation-file-fields"></a>Förstå fält för avstämnings fil
 
-- [Fil fält för licensbaserade avstämning](license-based-recon-files.md)
-- [Fil fält för användnings-baserad avstämning](usage-based-recon-files.md)
-- [Fil fält för dagligt Beräknad användnings avstämning](daily-rated-usage-recon-files.md)
+- [Fält för licensbaserad avstämningsfil](license-based-recon-files.md)
+- [Fält för användningsbaserad avstämningsfil](usage-based-recon-files.md)
+- [Fält i fil för dagligt beräknad användningsavstämning](daily-rated-usage-recon-files.md)
 - [Fil fält för CSP-avstämning för inköp vid ett tillfälle](modern-invoice-reconciliation-file.md)
 
 ## <a name="understand-charge-types-in-reconciliation-files"></a>Förstå debiterings typer i avstämnings filer
@@ -85,7 +85,7 @@ Om en CSP-partner har en åter försäljare utan **MPN-ID** är det här värdet
 
 Om CSP-partnern tar bort ett **MPN-ID för åter försäljaren** anges värdet *-1*.
 
-Visa eller uppdatera **MPN-ID: t för åter försäljaren** :
+Visa eller uppdatera **MPN-ID: t för åter försäljaren**:
 
 1. Logga in på Partner Center.
 2. I menyn Partner Center väljer du **kunder**.
@@ -93,3 +93,7 @@ Visa eller uppdatera **MPN-ID: t för åter försäljaren** :
 4. I menyn kund väljer du **prenumerationer**.
 5. Välj prenumerationen i listan.
 6. Välj **Uppdatera** för att ändra **åter försäljaren (MPN-ID)**.
+
+## <a name="next-steps"></a>Nästa steg
+
+- [Så här läser du rekognoseringar-filen för Bill &](read-your-bill.md) 

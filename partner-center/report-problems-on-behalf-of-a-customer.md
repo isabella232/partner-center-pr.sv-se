@@ -1,7 +1,7 @@
 ---
 title: Rapportera problem för en kunds räkning
 ms.topic: how-to
-ms.date: 06/05/2020
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lär dig när du ska eskalera ett kund service problem till Microsoft och hur du kan använda ett support ärende för olika typer av Microsoft-tjänster.
@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: baeb53d237ba1aeb987b08097526eda5c6235512
-ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
+ms.openlocfilehash: 30670f44ddfeb2a798b191fb646ff894434537cb
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "97153153"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756441"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Rapportera ett tjänst problem för en kunds räkning, inklusive när och hur du gör det
 
@@ -102,7 +102,7 @@ Så här hittar du ISV: s kontakt information:
     - Ett support-e-postmeddelande
     - Telefonnummer till support kontakt
 
-## <a name="faq"></a>VANLIGA FRÅGOR OCH SVAR
+## <a name="faq"></a>Vanliga frågor
 
 Se följande för vanliga frågor om tjänst begär Anden som du kan skicka till en kunds räkning. 
 
@@ -146,8 +146,6 @@ Om du loggar in på administrations centret för Office 365 direkt visas Center 
 Om du har problem som rör: Dynamics 365 planera prenumerationer, licensiering, fakturering, ekonomi & åtgärder, Dynamics 365 produkt licenser eller om du behöver ytterligare teknisk support:
  
 Kontakta [Dynamics support](/dynamics365/customer-engagement/admin/contact-technical-support)
-
-Läs [Microsoft Dynamics-support](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)
 
 ## <a name="next-steps"></a>Nästa steg
 

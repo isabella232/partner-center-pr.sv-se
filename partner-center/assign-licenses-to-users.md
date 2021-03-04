@@ -1,7 +1,7 @@
 ---
 title: Hantera användare för kund konton
 ms.topic: how-to
-ms.date: 05/13/2020
+ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Hantera användare för dina kunder i Partner Center – skapa användar konton, lägga till eller ta bort användar licenser, återställa lösen ord och ta bort eller återställa användar konton.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cea1ac8bff9690edfe4b257c910fc3c335d2836c
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 0e2bb4ceb146174da83e9c08a9ff030380298bd0
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570747"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756089"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Hantera användare och användar licenser för kund konton 
 
@@ -29,11 +29,14 @@ Du kan skapa och ta bort nya användare i ett kund konto. Du kan också återst�
 
 När du köper nya prenumerationer för en kund bör kunden ge dig en lista över alla användare som behöver konton, deras användar behörigheter och vilka tjänster varje användare behöver.  
 
+>[!NOTE]
+>Avsnittet **användare och licenser** på fliken **kund** visar alla användare som skapats i en specifik kunds klient, inklusive användare med licenser som har köpts från en annan CSP-partner eller från en annan inköps kanal.
+
 Du kan [tilldela prenumerationer till flera användare](bulk-license-provisioning-for-multiple-users.md) i taget genom att importera namnen med en [Excel-kompatibel. csv-kalkylbladsfilen](adding-multiple-users-to-a-customer-account.md).
 
 <a href="" id="createuseraccounts"></a>
 
-## <a name="create-user-accounts-for-a-customer"></a>Skapa användar konton för en kund
+## <a name="create-user-accounts-for-a-customer"></a>Skapa användarkonton för en kund
 
 1. Logga in på [instrument panelen](https://partner.microsoft.com/dashboard)för partner Center.
 
@@ -72,7 +75,7 @@ Följande steg gäller för att lägga till eller ta bort användar licenser fö
 
 ## <a name="reset-a-users-password-for-a-customer"></a>Återställa en användares lösen ord för en kund
 
-1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard).
+1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard).
 
 2. Från menyn Partner Center väljer du **kunder** och väljer sedan en kund i listan.
 

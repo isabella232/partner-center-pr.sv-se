@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: 09e1301cb106c9e1ed40ff1fb6f70da92d2695ee
-ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
+ms.openlocfilehash: 9c4ad89eb25e811c4bea11e7e7e5d3845ceafee6
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98861418"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756848"
 ---
 # <a name="payout-schedules-and-processes"></a>Utbetalningsscheman och -processer
 
@@ -33,11 +33,10 @@ När en kund köper en produkt från Microsoft AppSource eller Azure Marketplace
 
 En utbetalning inträffar ofta innan Microsoft samlar in betalning från kunden. Se [processen för kund ej inbetalning](#process-for-customer-non-payment) nedan för de åtgärder som vi vidtar om kunden inte betalar Microsoft men vi redan har utfärdat en utbetalning.
 
-| Händelse | Description | Rapporterings synlighet | Ordning |
+| Händelse | Beskrivning | Rapporterings synlighet | Ordning |
 | --- | --- | --- | --- |
 | Användning eller månad för transaktion | Kunden använder eller köper en tjänst. | [Användnings](/azure/marketplace/partner-center-portal/usage-dashboard) -eller [order](/azure/marketplace/partner-center-portal/orders-dashboard) instrument panel | **Månad 1** |
 | Microsoft beräknar fakturerings beloppet | Fastställ total användning, totalt antal transaktioner | [Användnings](/azure/marketplace/partner-center-portal/usage-dashboard) -eller [order](/azure/marketplace/partner-center-portal/orders-dashboard) instrument panel | **Månad 2** |
-| Faktura betald per kund | Microsoft samlar in betalning från kunden | Ingen ändring | **Månad 2** |
 | Utbetalning bokförd | Fastställa utbetalnings avgiften och utbetalnings intäkterna | Markerade som obearbetade i transaktions historiken för [utbetalnings instruktionen](payout-statement.md) | **Månad 3 (1: e veckan)** |
 | Förbered utbetalning | Intäkterna är för beredda för månatlig betalning | Markerat som kommande i transaktions historik i [utbetalnings instruktionen](payout-statement.md) | **Månad 3 (1: e veckan)** |
 | **Utbetalning har skickats** | **Betalningen skickas till utgivaren** | **Markerat som skickat i transaktions historik och i avsnittet betalningar i [utbetalnings instruktionen](payout-statement.md)** | **Månad 3 (senast den 15)** |
@@ -52,7 +51,7 @@ En utbetalning inträffar ofta innan Microsoft samlar in betalning från kunden.
 
 Alla inköp med ett kredit kort eller en månads faktura har en 30-dagars period för att säkerställa att fonder samlas in från kunden.
 
-| Händelse | Description | Rapporterings synlighet | Ordning |
+| Händelse | Beskrivning | Rapporterings synlighet | Ordning |
 | --- | --- | --- | --- |
 | Användning eller månad för transaktion | Kunden använder eller köper en tjänst. | [Användnings](/azure/marketplace/partner-center-portal/usage-dashboard) -eller [order](/azure/marketplace/partner-center-portal/orders-dashboard) instrument panel | **Månad 1** |
 | Faktura betald per kund | Fastställer total användning, totalt transaktions värde och kund betalar faktura | [Användnings](/azure/marketplace/partner-center-portal/usage-dashboard) -eller [order](/azure/marketplace/partner-center-portal/orders-dashboard) instrument panel | **Månad 2** |

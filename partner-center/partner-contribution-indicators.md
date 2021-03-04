@@ -1,7 +1,7 @@
 ---
 title: Indikatorer för partner bidrag – CBA
 ms.topic: article
-ms.date: 02/03/2021
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lär dig mer om sju partner bidrags indikatorer (PCI) som visar partner hur man uppnår en silver eller guld Business Applications kompetens.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6698d955433e8fe180fe5537c52d1aba6deea3b
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: 53711ce9c480c195886096f0445c048307bee9db
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530824"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756564"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Använd partner bidrags indikatorer för att uppnå moln Business Applications kompetens
 
@@ -155,7 +155,7 @@ Du kan bara ta emot kredit för dessa PCI-mått för en bestämd kund om du har 
 - Du är anspråks partner för Record (CPOR) för en betald prenumeration som tillhör kundens klient organisation
 - Du är en digital partner av Record (DPOR) för en betald prenumeration som tillhör kundens klient organisation
 
-En partner blir CPOR om de har upprättat en koppling till en kund på prenumerations nivå via stöd för Dynamics 365 [Online Services Advisor](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) eller Dynamics 365 [Online Services Usage](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq) (Osu).
+En partner blir CPOR om de har upprättat en koppling till en kund på prenumerations nivå via stöd för Dynamics 365 Online Services Advisor (OSA) eller Dynamics 365 Online Services Usage (OSU). Mer information finns i [förstå CPOR-associationer](incentives-customer-associations-intro.md).
 
 En partner blir DPOR om de har upprättat en koppling till en kund på prenumerations nivån inom produkten.
 

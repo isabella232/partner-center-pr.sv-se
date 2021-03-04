@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/05/2021
-ms.openlocfilehash: 7974d6f02951db944a44634543cda5bba49df976
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.date: 02/25/2021
+ms.openlocfilehash: df9cbea19ff51839e6624aba3e5050c41a55f32e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100540989"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756146"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -22,6 +22,11 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 
 |**Kategori**|**Meddelanden från februari 2021**|**Meddelande**|
 |---------|:---------|:---------|
+|Funktioner|[Att placera kvalificerings-API: er tas ur bruk, tas ur bruk i maj](2021-february.md#14)|25 februari|
+|Funktioner|[Dela samförsäljnings avtal i stor skala med hjälp av funktionen för Mass åtgärder i Partner Center](2021-february.md#13)|25 februari|
+|Funktioner|[Migrera dina avtal från partner Sales Connect (PSC) med hjälp av den nya funktionen för att migrera en affär](2021-february.md#12)|25 februari|
+|Funktioner|[Ökad flexibilitet med partner ledde till samförsäljnings avtal](2021-february.md#11)|25 februari|
+|Funktioner|[Ändringar i din CSP-kund onboarding (Cloud Solution Provider)](2021-february.md#10)|25 februari|
 |Funktioner|[Nu Live: DocuSign migrering till Adobe Sign för partner under Microsoft partner Agreement (MPAs)](2021-february.md#9)|16 februari|
 |Utveckla din verksamhet|[Påminnelse: Introduktion till API-begränsning till partner som anropar API:er för Partnercenter](2021-february.md#8)|16 februari|
 |Funktioner|[Introduktion till Microsoft Viva-ämnen](2021-february.md#7)|12 februari|

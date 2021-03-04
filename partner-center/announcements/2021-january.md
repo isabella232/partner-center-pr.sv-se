@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/28/2021
-ms.openlocfilehash: f6179e76e9bcb05f75551056fa7a9e81f6d74d12
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.openlocfilehash: d07555d3559b2f8dbbb15f9cfe90753e50db0c04
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100541039"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756285"
 ---
 # <a name="january-2021-announcements"></a>Meddelanden januari 2021
 
@@ -86,7 +86,7 @@ För alla frågor som rör detta meddelande kontaktar du [Support för partner C
 - 7 januari 2021: ytterligare scenario som ingår i fas 1 och fas 2
 - 28 januari 2021: 
     -    Vi presenterar fas 1 är Live 
-    -    Att klargöra att Storbritannien inte ingår i EU/EFTA är en del av [Microsofts europeiska region och marknad](https://docs.microsoft.com/partner-center/regional-authorization-overview) och kommer att påverkas
+    -    Att klargöra att Storbritannien inte ingår i EU/EFTA är en del av [Microsofts europeiska region och marknad](../regional-authorization-overview.md) och kommer att påverkas
 
 
 ________________
@@ -170,13 +170,13 @@ Alla indirekta åter försäljare & indirekta leverantörer som agerar genom Clo
 
 ### <a name="details"></a>Information
 
-Implementering av Microsoft partner Agreement (MPA) för indirekta åter försäljare pågår för närvarande. För att ytterligare stödja leverantörer och åter försäljare har vi hört din feedback och har nu sammanställt vanliga frågor om hur du accepterar MPA på en ny [sida med vanliga frågor och svar](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq).
+Implementering av Microsoft partner Agreement (MPA) för indirekta åter försäljare pågår för närvarande. För att ytterligare stödja leverantörer och åter försäljare har vi hört din feedback och har nu sammanställt vanliga frågor om hur du accepterar MPA på en ny [sida med vanliga frågor och svar](../mpa-indirect-provider-faq.md).
 
 ### <a name="next-steps"></a>Nästa steg
 
-**Indirekta åter försäljare:** Om du inte har accepterat MPA kan du läsa igenom [vanliga frågor och svar](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) och följa de steg-för-steg-guider som finns [här](https://docs.microsoft.com/partner-center/microsoft-partner-agreement) för att godkänna MPa.
+**Indirekta åter försäljare:** Om du inte har accepterat MPA kan du läsa igenom [vanliga frågor och svar](../mpa-indirect-provider-faq.md) och följa de steg-för-steg-guider som finns [här](../microsoft-partner-agreement.md) för att godkänna MPa.
 
-**Indirekta leverantörer:** Engagera dig med dina indirekta åter försäljare och få support för dem med hjälp av [vanliga frågor och svar om MPa](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) och stegvisa anvisningar [här](https://docs.microsoft.com/partner-center/microsoft-partner-agreement).
+**Indirekta leverantörer:** Engagera dig med dina indirekta åter försäljare och få support för dem med hjälp av [vanliga frågor och svar om MPa](../mpa-indirect-provider-faq.md) och stegvisa anvisningar [här](../microsoft-partner-agreement.md).
 
 ### <a name="questions"></a>Har du några frågor?
 
@@ -207,8 +207,8 @@ Nedan visas de nya åtgärds typerna:
 ### <a name="next-steps"></a>Nästa steg
 
 - Använd de nya åtgärds typerna för att spåra händelser när DAP har godkänts av kunden och avslut ATS av kunden.  
-- [Hämta en post över partner Center Activity – app Developer för partner Center | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
-- [Gransknings resurser – app-utvecklare för partner Center | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/auditing-resources)
+- [Hämta en post över partner Center Activity – app Developer för partner Center | Microsoft Docs](/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
+- [Gransknings resurser – app-utvecklare för partner Center | Microsoft Docs](/partner-center/develop/auditing-resources)
 
 ### <a name="questions"></a>Har du några frågor?
 
@@ -287,9 +287,9 @@ Partners rekommenderas att bekanta sig med följande resurser:
 #### <a name="partner-earned-credit-pec"></a>Partner intjänad kredit (PEC)
 
 - [Förstå intjänad kredit för partner (guide) (Microsoft. com)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf)
-- [Partner intjänad kredit – översikt – Partner Center | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit?branch=main )
-- [Partner intjänad kredit för hanterade tjänster – Partner Center | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit-explanation?branch=main)
-- [Roller, behörigheter för partner intjänad kredit – Partner Center | Microsoft Docs](https://docs.microsoft.com/partner-center/azure-roles-perms-pec)
+- [Partner intjänad kredit – översikt – Partner Center | Microsoft Docs](../partner-earned-credit.md?branch=main)
+- [Partner intjänad kredit för hanterade tjänster – Partner Center | Microsoft Docs](../partner-earned-credit-explanation.md?branch=main)
+- [Roller, behörigheter för partner intjänad kredit – Partner Center | Microsoft Docs](../azure-roles-perms-pec.md)
 - [Training-modul på begäran på partner intjänad kredit i Azure i CSP-moduler (eventbuilder.com)](https://commercial_licensing.eventbuilder.com/NewcommerceinCSPforAzuretrainingmodules)
 
 #### <a name="the-new-commerce-experience"></a>Den nya Commerce-upplevelsen
@@ -321,7 +321,7 @@ Tänk också på att från och med idag har kapaciteten för partner Center-prog
 ### <a name="next-steps"></a>Nästa steg
 
 - Hämta listan med **program varu** pris med kryptografiprovider i **program varu** avsnittet på sidan med pris information för Partner Center på [pris &s erbjudande](https://partnercenter.microsoft.com/pcv/sales) . Du hittar en lista över de nyligen tillagda produkterna och geografierna [här](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
-- Granska [Microsoft 365 administrations Center beständig program vara och produkt licens nycklar Ladda ned instruktions artiklar](https://go.microsoft.com/fwlink/p/?linkid=2152525) och dela med dina kunder när de är redo att ladda ned sina program och licens nycklar.
+- Granska [Microsoft 365 administrations Center beständig program vara och produkt licens nycklar Ladda ned instruktions artiklar](/microsoft-365/admin/setup/download-software-licenses-csp) och dela med dina kunder när de är redo att ladda ned sina program och licens nycklar.
 - Granska den tidsständiga [program varan i Cloud solution providers program](https://partner.microsoft.com/resources/collection/software-in-csp#/) readiness material. Använd den här [beredskaps kartan](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) för att snabbt hitta rätt information för din roll.
 
 ### <a name="questions"></a>Har du några frågor?

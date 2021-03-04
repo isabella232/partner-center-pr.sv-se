@@ -6,19 +6,19 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 12/04/2020
-ms.openlocfilehash: 2f46213cb72717c36461f58c159fa6a5803e3bb2
-ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
+ms.openlocfilehash: 6ed9f7b9bbe33e209a2e482ab4f3035decb46245
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96755647"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755740"
 ---
 # <a name="value-added-tax-vat-information"></a>Mervärdes skatt (moms) information
 
-**Gäller för:**
+**Lämpliga roller**
 
-- Partnercenter
-- Kommersiell marknadsplats
+- Kontoadministratör
+
 
 Om du måste ange ett moms-ID-nummer under registrerings processen för partner Center kan du komma igång med följande information.
 
@@ -78,6 +78,7 @@ Observera att Microsoft inte tillhandahåller skatte rådgivning och att följan
 |Spanien |– MOMS format: 9 siffror<br/>– Landskod: ES<br/>-Exempel: X12345678, 12345678X eller X1234567X<br/>– Kommentarer: innehåller 1 eller 2 bokstäver: antingen First, Last eller First och Last. |
 |Sverige |– MOMS format: 12 siffror<br/>– Landskod: SE<br/>-Exempel: 123456789001<br/>– Kommentarer: de sista 2 tecknen måste vara "01". |
 |Storbritannien |– MOMS format: 9 eller 12 siffror<br/>– Landskod: GB<br/>-Exempel: 123456789 eller 123456789001<br/>– Kommentarer: 9 siffror generellt, men 12 siffror om talet representerar ett under företag i en grupp. |
+
 ## <a name="next-steps"></a>Nästa steg
 
 - [Företagets skatte information och hur du lägger till eller skickar moms-ID för partner Center-inköp](organization-tax-info.md)

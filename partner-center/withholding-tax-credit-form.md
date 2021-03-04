@@ -9,18 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd718377fad435b72ff62e61604f58a3d302dc11
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 064a5ea1e712ca66504536652543c0523fc73eae
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92531993"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755728"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Ta emot kredit på ditt partner Center-konto för käll skatt
 
-Gäller för:
+**Lämpliga roller**
 
-- Partnercenter
+- Kontoadministratör
+- Faktureringsadministratör
 
 ## <a name="overview"></a>Översikt
 
@@ -35,9 +36,9 @@ Partner som används för att skicka begäran om käll skatter genom att skapa t
 
 Följ dessa steg om du vill skicka en ny käll indrags deklaration:
 
-1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
+1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
 
-2. Välj **fakturering** på menyn till vänster och gå till **fakturerings historiken** .
+2. Välj **fakturering** på menyn till vänster och gå till **fakturerings historiken**.
 
 3. Klicka på **Skicka ny** bredvid fakturan som du vill skicka en rensning för. Den nya länken skickas till sidan **ny begäran om käll-och käll begäran** .
 
@@ -45,7 +46,9 @@ Följ dessa steg om du vill skicka en ny käll indrags deklaration:
 
 4. Granska faktura informationen för att se till att du skickar in begäran om rätt faktura.
 
-   :::image type="content" source="images/wht2.png" alt-text="Skicka ny moms avdrag för en faktura" är den mängd du förväntar dig att kreditera.
+   :::image type="content" source="images/wht2.png" alt-text="Fullständig information om moms avdrag för en faktura":::
+
+5. Ange "käll total" under **moms käll information**. "Käll totalen" är den mängd du förväntar dig att kreditera.
 
 6. **Bifoga** ett skatte certifikat. Du måste inkludera en **digital kopia** av ditt **käll skatte certifikat** i din begäran om moms inskrivning. Du har fått det här certifikatet från din lokala skatte byrå när du betalar dina skatter till din lokala skattemyndighet. Fakturans skatte belopp i käll skatte certifikatet måste matcha det totala antalet i din begäran om käll skatt.
 
@@ -60,17 +63,17 @@ Följ dessa steg om du vill skicka en ny käll indrags deklaration:
 
 ## <a name="update-request-and-resubmit"></a>Uppdatera begäran och skicka igen
 
-Gransknings teamet kan kräva att du gör korrigeringar och skickar en begäran igen innan den kan godkännas. De ändrar statusen till den **väntande partner åtgärden** . Korrigera och skicka begäran på nytt:
+Gransknings teamet kan kräva att du gör korrigeringar och skickar en begäran igen innan den kan godkännas. De ändrar statusen till den **väntande partner åtgärden**. Korrigera och skicka begäran på nytt:
 
-1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
+1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
 
 2. Välj **fakturering** på menyn till vänster.
 
-3. På **fakturerings** sidans **fakturerings historik** , Sök efter begäran om moms inbetalning. Begär Anden som kräver din uppmärksamhet kommer att ha statusen "väntande partner åtgärd".
+3. På **fakturerings** sidans **fakturerings historik**, Sök efter begäran om moms inbetalning. Begär Anden som kräver din uppmärksamhet kommer att ha statusen "väntande partner åtgärd".
 
 4. Klicka på begäran om käll-ID för begäran och status som tar dig till sidan för begäran.
 
-5. Välj **Uppdatera och skicka** om under **status** .
+5. Välj **Uppdatera och skicka** om under **status**.
 
 6. Granska de kommentarer som lämnats av granskarna som markerar vad som behöver ändras.
 
@@ -84,7 +87,7 @@ Om du skickar begäran skickas den tillbaka till gransknings teamet där de anti
 
 Godkända käll begär Anden för begäran kommer att utföras mot nästa faktura, vilket skriver av skulder-beloppet. Begär Anden som flaggats som **slutförda** ska tillämpas inom 10 arbets dagar. 
 
-Rensade belopp visas på sidan fakturerings **historik för fakturerings sida** . De belopp som är rensade visas i den **sista betalnings** kolumnen bredvid fakturan som begäran skickades till.
+Rensade belopp visas på sidan fakturerings **historik för fakturerings sida**. De belopp som är rensade visas i den **sista betalnings** kolumnen bredvid fakturan som begäran skickades till.
 
    > [!IMPORTANT]
    > Tidigare fakturor återskapas inte eller återutfärdas. Clearace-beloppet tillämpas helt enkelt på föregående månads betalningar.
@@ -108,4 +111,4 @@ Partner som skickar tyska skattemyndighets begär Anden bör komma ihåg att ski
 Partner bör använda den nya processen som beskrivs ovan för att skicka nya begär Anden och inte längre använda support förfrågan för nya moms indrags begär Anden. Partner med ytterligare frågor om moms käll begär Anden kan [Skicka support förfrågningar](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed). Support förfrågningar är avsedda att hjälpa partners för befintliga begär Anden så att de måste ha sitt **begäran-ID** för att kunna skicka in en ny biljett. Om partners inte kan skicka en begäran med den nya processen, ska de ange ett värde (alla 1) i support förfrågnings formuläret. 
 
    > [!IMPORTANT]
-   > Partners behöver inte kontakta supporten om deras status för begäran har **slutförts** . Den här statusen visas i **fakturerings historiken** bredvid fakturan för inlämningen. De **senaste betalnings** beloppen bredvid fakturan ska avspegla moms käll beloppet inom tio dagar efter det att begäran marker ATS som **slutförd** .
+   > Partners behöver inte kontakta supporten om deras status för begäran har **slutförts**. Den här statusen visas i **fakturerings historiken** bredvid fakturan för inlämningen. De **senaste betalnings** beloppen bredvid fakturan ska avspegla moms käll beloppet inom tio dagar efter det att begäran marker ATS som **slutförd**.

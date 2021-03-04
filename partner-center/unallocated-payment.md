@@ -9,18 +9,19 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bddf0482e20817f9087a3610104652dabdef72c4
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: d3920cbdc52a844477aacac9c7ac2122c14edeba
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "92531204"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755804"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Hantera ej allokerade betalningar på din fakturerings sida för partner Center
 
-**Gäller för**
+**Lämpliga roller**
 
-- Partnercenter
+- Faktureringsadministratör
+- Kontoadministratör
 
 Ibland kan du se en ej tilldelad betalning på din fakturerings sida. En ej tilldelad betalning är en betalning som du har gjort till Microsoft och som du inte har tillämpat på en speciell faktura.
 
@@ -35,3 +36,7 @@ Ibland kan du se en ej tilldelad betalning på din fakturerings sida. En ej till
 Om du vill tillämpa detta belopp på en viss faktura, e-post bposcapp@microsoft.com och berätta vilken faktura som ska användas för den här betalningen. Se till att inkludera all information som du skulle göra om du gjorde en betalning. Din fakturerings sida kommer att uppdateras om 5-6 dagar. 
 
 Ej allokerade betalningar förblir avallokerade tills du tilldelar dem till en faktura. 
+
+## <a name="next-steps"></a>Nästa steg
+
+- [Fakturering för produkter och prenumerationer på kommersiella platser i Partner Center](csp-commercial-marketplace-billing.md)

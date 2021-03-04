@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
-ms.openlocfilehash: 80aeb62ba875d4ecd7c11063663f7c2d29912bdf
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 964c0e6be3003c2b3c9da8828d6e896e2fff82f9
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492712"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756454"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Tilldela användare roller och behörigheter för ett företags användare som behöver arbeta i Partner Center
 
@@ -129,18 +129,15 @@ Dessa roller är inte Azure Active Directory roller. Dessa roller hanterar före
 
 ## <a name="manage-referrals"></a>Hantera referenser
 
-> [!Note]
->Användar rollen nya hänvisningar kommer att vara tillgänglig från 18 november 2020. Befintliga hänvisnings administratörer behåller sin hänvisnings administratörs roll som är begränsad till hela företaget.
-
 |**Role** | **Det här kan du göra**|**Läs mer**
 |------------------------------|:-------------------------|---|
-|Referens administratör|Skapa och hantera allt under fliken referenser i Partner Center|[Hantera säljsamarbete](manage-co-sell-opportunities.md)
+|Referens administratör|Skapa och hantera allt under fliken referenser i Partner Center|[Hantera möjligheter till säljsamarbete](manage-co-sell-opportunities.md)
 ||    Kan visa och redigera alla samförsäljnings möjligheter och leads
 ||    Kan tilldela team medlemmar för ett erbjudande
 ||    Kan visa och redigera affärs profiler
 ||    Kan visa och registrera erbjudanden för affärs möjligheter som marker ATS som vunna och berättigade för avtals registrering
 ||    Kan skapa och Visa support biljetter
-|Referent användare|Skapa och hantera samförsäljnings möjligheter endast om de ingår i teamet |[Hantera säljsamarbete](manage-co-sell-opportunities.md)
+|Referent användare|Skapa och hantera samförsäljnings möjligheter endast om de ingår i teamet |[Hantera möjligheter till säljsamarbete](manage-co-sell-opportunities.md)
 ||    Kan skapa samförsäljnings möjligheter för de platser där de tilldelas rollen.
 ||    Kan visa och registrera erbjudanden för affärs möjligheter som är markerade som vunna och berättigade till avtals registrering om de är team medlemmar.
 ||    Kan skapa och Visa support biljetter

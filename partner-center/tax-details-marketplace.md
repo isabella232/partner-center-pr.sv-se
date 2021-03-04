@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 01/29/2021
-ms.openlocfilehash: 075099d80802352efdf7184a7c550d730945b35f
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: d720b7388cbb814402a2c78d07865e4184dec1ab
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530779"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756831"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Skatteinformation för utgivare på kommersiell marknadsplats
 
@@ -65,7 +65,6 @@ Microsoft samlar in skatt på butiks avgifter i följande länder där utgivare/
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Vanliga frågor och svar om Publisher](https://docs.microsoft.com/azure/marketplace/marketplace-faq-publisher-guide) 
+- [Vanliga frågor och svar om Publisher](/azure/marketplace/marketplace-faq-publisher-guide) 
 
-- [Instruktioner för att skapa betalnings-och skatte profiler](https://docs.microsoft.com/partner-center/set-up-your-payout-account?context=/azure/marketplace/context/context#create-a-payment-profile) 
-
+- [Instruktioner för att skapa betalnings-och skatte profiler](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)

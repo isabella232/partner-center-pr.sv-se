@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 10/29/2020
-ms.openlocfilehash: f74dcdc240553cea2c9d226364a8bd6242acc200
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 4a511dc026e3c71f05c5b18ca6d8915bd2654826
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492644"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756174"
 ---
 # <a name="payout-statements"></a>Utbetalningsinstruktioner
 
@@ -30,7 +30,7 @@ ms.locfileid: "97492644"
 
 För att få åtkomst till en utbetalnings instruktion måste du tilldelas rollen **konto ägare** eller **finansiell deltagare** .
 
-| Rapporter/sidor | Kontoinnehavare | Ansvarig | Utvecklare | Företags deltagare | Ekonomi deltagare | Rika marknads föraren |
+| Rapporter/sidor | Kontoägare | Ansvarig | Utvecklare | Företags deltagare | Ekonomi deltagare | Rika marknads föraren |
 | --- | --- | --- | --- | --- | --- | --- |
 | Anskaffnings rapport (inklusive data i nära real tid) | Kan visa | Kan visa | Ingen åtkomst | Ingen åtkomst | Kan visa | Ingen åtkomst |
 | Feedback-rapport/svar | Kan visa och skicka feedback | Kan visa och skicka feedback | Kan visa och skicka feedback | Ingen åtkomst | Ingen åtkomst | Kan visa och skicka feedback |
@@ -99,7 +99,7 @@ Den uppskattade betalnings månaden är för närvarande tillgänglig för alla 
 
 I följande tabell visas ett exempel på en uppskattad betalnings månad.
 
-| Månad | Belopp |
+| Månad | Amount |
 | ------ | :-----------: |
 |  Sep-2020 |  $7 273,99   |
 |  Okt-2020 | $8 692,30  |
@@ -129,7 +129,7 @@ Om du vill se mer information om ett sådant väljer du **Ladda ned** överst p�
 >- **lastPaymentCurrency**  Den valuta i vilken den senaste betalningen togs emot, över alla MPNs som partnern som för tillfället är inloggad med har åtkomst. Om ingen betalning tas emot kommer den sista betalnings valutan att vara US-dollar.
 >- **earningAmountInLastPaymentCurrency**  Det totala antalet i den senaste betalnings valutan.
 
-| Kolumnnamn | Beskrivning | Tillämplighet för stimulans program/marknads platser |
+| Kolumnnamn | Description | Tillämplighet för stimulans program/marknads platser |
 | --- | --- | --- |
 | agreementEndDate | Datum för avtals slutdatum | Incitament – endast vissa program |
 | agreementNumber | Avtals nummer | Incitament – endast vissa program |
@@ -138,7 +138,7 @@ Om du vill se mer information om ett sådant väljer du **Ladda ned** överst p�
 | claimId | Unikt ID för anspråk | Incitament – endast vissa program |
 | customerCountry | Kund land/-region | marknads platser |
 | customerEmail |  |  |
-| customerName | Är alltid tomt | Incitaments program (undantag: OEM) och marknads platser |
+| customerName | Kan vara tomt | Incitaments program (undantag: OEM) och marknads platser. För CSP-transaktioner visar Marketplace namnet på KRYPTOGRAFIPROVIDERn |
 | customerTenantId |  |  |
 | distributorId | Distributions-ID | Incitament – endast vissa program |
 | distributorName | Namn på distributör | Incitament – endast vissa program |
@@ -257,7 +257,7 @@ För att förstå varför du kan sakna eller oväntade intäkter, se [vanliga fr
 
 I följande tabell förklaras de olika ställnings statusarna.
 
-| Status för att tjäna | Orsak | Krävs partner åtgärd? |
+| Status för att tjäna | Anledning | Krävs partner åtgärd? |
 | --- | --- | --- |
 | Obearbetade | Betalningen är berättigad till betalning. Den förblir i det här läget för en kylnings period som definieras i program guiden för stimulans programmet. | Inga |
 | Planer | Betalnings order som genererats som väntande interna granskningar innan betalningen bearbetas. | Inga |
@@ -278,7 +278,7 @@ I följande tabell förklaras de olika ställnings statusarna.
 
  I följande tabell beskrivs varje kolumn i rapporten. Om du vill se mer information om dina betalningar väljer du **Hämta** överst på sidan betalningar.
 
-| Kolumnnamn | Beskrivning |
+| Kolumnnamn | Description |
 | --- | --- |
 | participantID | Den primära identiteten för partnern enligt programmet |
 | participantIDType | Normalt program-ID för stimulans program och säljar-ID för Store-program |
