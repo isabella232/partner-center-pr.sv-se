@@ -6,13 +6,13 @@ ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 10/29/2020
-ms.openlocfilehash: 4a511dc026e3c71f05c5b18ca6d8915bd2654826
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.date: 3/2/2021
+ms.openlocfilehash: 681080b654ca1a12523a7ff63fc75a44daaab9b7
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756174"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185357"
 ---
 # <a name="payout-statements"></a>Utbetalningsinstruktioner
 
@@ -56,8 +56,7 @@ Du kan också använda [API: et för partner utbetalning](https://apidocs.micros
 
 ## <a name="transaction-history"></a>Transaktions historik
 
-På sidan **transaktions historik** visas en översikt över dina intäkter, uppskattad nästa betalning och din prenumeration på intäkter och betalningar under de senaste 36 månaderna. Du kan också hämta transaktions information från det här avsnittet.
-
+På sidan **transaktions historik** visas en översikt över dina intäkter, uppskattad nästa betalning och din prenumeration på intäkter och betalningar under de senaste 36 månaderna. Du kan också hämta transaktions information från det här avsnittet.<br><br>Den här rapporten innehåller alla intäkter som är berättigade till utbetalning, inklusive betalningar som ännu inte skickats. Intäkter är berättigade till betalning när en ISV har slutfört all bank-och skatte information i Partner Center, har fått >$50, ISV-kontot är aktivt och kunden har fakturerats (för EA-transaktioner) eller om betalningen har tagits emot (för transaktioner som inte är EA-transaktioner).
 
 :::image type="content" source="images/payouts/transaction-overview.png" alt-text="Transaktions översikt.":::
 
