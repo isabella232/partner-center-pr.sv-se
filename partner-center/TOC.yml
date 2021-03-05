@@ -102,8 +102,12 @@
         - name: Visual Studio-förmåner
           href: mpn-benefits-visual-studio.md
           displayname: 'visual studio, mpn, activate'
-        - name: Tekniska försäljnings-och distributions förmåner
+        - name: Teknisk support och distributionshjälp
           href: technical-benefits.md
+          displayname: 'TPD, presales, deployment, technical'
+        - name: Tekniska förmåner
+          href: mpn-benefits-technical-support.md
+          displayname: 'support, incidents, technical'
     - name: Marketplace Rewards
       href: marketplace-rewards.md
     - name: Software Assurance

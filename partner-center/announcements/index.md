@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/03/2021
-ms.openlocfilehash: 5db9dc04f6ff4bf1020eb7a97778b152275d5ea5
-ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
+ms.date: 03/04/2021
+ms.openlocfilehash: 2911dadc6efb2ad03d775d4476c50e8ca887c174
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102029941"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185289"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -22,6 +22,7 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 
 |**Kategori**|**Meddelanden i mars 2021**|**Meddelande**|
 |---------|:---------|:---------|
+|Funktioner|[Nya Microsoft Dynamics 365-produkter och erbjudanden som är tillgängliga den 1 april 2021](2021-march.md#2)|4 mars|
 |Funktioner|[Microsoft Universal Print finns nu i vissa paket](2021-march.md#1)|3 mars|
 |**Kategori**|**Meddelanden från februari 2021**|**Meddelande**|
 |Funktioner|[Att placera kvalificerings-API: er tas ur bruk, tas ur bruk i maj](2021-february.md#14)|25 februari|

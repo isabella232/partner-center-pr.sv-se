@@ -9,16 +9,83 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/03/2021
-ms.openlocfilehash: 1a386a97d0e55818b2226fd453cfca3b63753247
-ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
+ms.openlocfilehash: 0ffc09fc6496fc053a8ca150bd85235976153c03
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102055819"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185272"
 ---
 # <a name="march-2021-announcements"></a>Meddelanden i mars 2021
 
 Den här sidan innehåller meddelandena för Microsoft Partner Center för mars 2021.
+
+________________
+## <a name="new-microsoft-dynamics-365-products-and-offers-available-on-april-1-2021"></a><a name="2"></a>Nya Microsoft Dynamics 365-produkter och erbjudanden som är tillgängliga den 1 april 2021
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-03-04
+- Funktioner
+
+### <a name="summary"></a>Sammanfattning
+
+Den 1 april 2021 kommer Microsoft att lansera flera nya produkter och erbjudanden för Cloud Solution Provider (CSP)-programmet.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Alla partner som går via program varan för Cloud Solution Provider (CSP)
+
+### <a name="details"></a>Information
+
+Den 1 april 2021 kommer Microsoft att lansera följande nya produkter och erbjudanden:
+
+- Power BI Premium per användare
+- Kund röst och marknadsföring dem Geo-och segment expansion
+
+**Power BI Premium per användare**
+
+Microsoft kommer att introducera de första Power BI Premium erbjudandena per användare. Power BI Premium säljs för närvarande endast i en kapacitets konstruktion. Power BI Premium per användare ger till gång till Enterprise-Business Intelligence (BI) och analys funktioner. Den flexibla enskilda klient licensieringen tillgodoser små och medel stora företag.
+
+Läs mer om det här erbjudandet i [Power BI versions informationen](https://docs.microsoft.com/power-platform-release-plan/2020wave2/power-bi/planned-features) .
+
+
+**Erbjudande information**
+
+Observera att namnet på erbjudandet skiljer sig något från för hands versionen av pris listan.
+
+| Erbjudandets namn | Erbjudande-ID |
+| ------ |----------- |
+| Power BI Premium per användare | 9c810018-9356-4903-95ab-eeb956289290 | 
+| Power BI Premium per användare för lärare | 3affc44f-f372-4ad5-8657-aadd9574fce0 | 
+| Power BI Premium per användare för studenter | 657eea87-d0b0-4c89-8c8e-9b04395bd940 | 
+| Power BI Premium per användare (prissättning i ideell personal) | 7a0a856c-059f-45dd-9d26-ae27992e706a | 
+| Power BI Premium per användare Add-On | 244ff87e-5925-44a0-bf31-cea189719b58 | 
+| Power BI Premium per användare Add-On för lärare | 5da849bd-b8f7-4340-b4f4-3a9eaeb8987e | 
+| Power BI Premium per användare Add-On för studenter | cf62d70d-5af5-422a-bda8-97936402ac8e | 
+| Power BI Premium per användare Add-On (prissättning i ideell personal) | 31c03289-47ab-4ab0-8df1-03742c127ac6 | 
+
+**Kund röst och marknadsföring dem Geo-och segment expansion**
+
+Som en uppföljning till lanseringen av december 2020 har Dynamics 365 Customer Voice och Marketing dem-erbjudanden ändrats för att lägga till nya länder och fler ideella och utbildnings-SKU: er.
+
+| Erbjudandets namn | Erbjudande-ID |
+| ------ |----------- |
+| Dynamics 365 Customer Voice-dem (pris för ideell personal) | 7a8642a5-481e-4906-a642-b56dbeeb62a0 |
+| Dynamics 365 Customer Voice-dem för lärare | 85162d70-9676-4cf6-a4bc-a0d6672f2657 |
+
+Besök följande sidor för att få mer information om dessa erbjudanden:
+
+- [Dynamics 365-röstens start sida för kund service](https://dynamics.microsoft.com/customer-voice/overview/)
+- [Start sida för Dynamics 365-marknadsföring](https://dynamics.microsoft.com/customer-voice/overview/)
+
+### <a name="next-steps"></a>Nästa steg
+
+Granska resurserna i det här avsnittet och dela den här informationen med lämpliga intressenter i din organisation.  
+
+### <a name="questions"></a>Har du några frågor?
+
+Om du har frågor om dessa erbjudanden kan du kontrol lera dina relevanta Yammer-communities. 
 
 ________________
 ## <a name="microsoft-universal-print-now-available-in-some-suites"></a><a name="1"></a> Microsoft Universal Print finns nu i vissa paket
