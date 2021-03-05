@@ -8,17 +8,91 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/03/2021
-ms.openlocfilehash: 0ffc09fc6496fc053a8ca150bd85235976153c03
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.date: 03/04/2021
+ms.openlocfilehash: 8b86623c6af832de654e3c4ad9fea666427eb51d
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185272"
+ms.locfileid: "102220303"
 ---
 # <a name="march-2021-announcements"></a>Meddelanden i mars 2021
 
 Den här sidan innehåller meddelandena för Microsoft Partner Center för mars 2021.
+
+________________
+## <a name="partner-center-software-license-key-and-download-fulfillment"></a><a name="4"></a>Partner Center licens nyckel för program vara och hämtnings klara
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-03-04
+- Funktioner
+
+### <a name="summary"></a>Sammanfattning
+
+Hämtningen av Partner Center-program varan och licens nyckelns uppfyllelse funktion har återställts.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Alla leverantörer av moln lösnings leverantörer (CSP) samverkar med program varu beställningar för beständig och Server prenumeration via partner Center
+
+### <a name="details"></a>Information
+
+Som svar på feedback från partnern är vi återinför för att få program vara och licens nycklar för program varu beställningar med beständig och Server prenumeration. Det kommer att återställas till sitt tidigare tillstånd innan det tas bort den 19 januari 2021. (Se [meddelandet](2020-september.md#17).)
+
+Observera att program licens nycklar och nedladdnings länkar är värdefulla och har sökts efter efter immateriella till gångar. Om de läcker ut kan de snabbt bli uttömda sina aktiverings gränser och orsaka en negativ kund-och partner upplevelse.
+
+### <a name="next-steps"></a>Nästa steg
+
+Läs följande resurser för användnings instruktioner och viktig vägledning om program varu nyckel distribution:
+
+- [Sälja lokal program vara via CSP-programmet](https://docs.microsoft.com/partner-center/csp-on-premise-software)
+- [Partner Center New Commerce Operations Guide](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) (se avsnittet **vägledning om distribution av program varu nycklar** ).
+
+### <a name="questions"></a>Har du några frågor?
+
+Om du har ytterligare frågor om det här meddelandet kan du kontrol lera dina relevanta Yammer-communities.
+
+________________
+## <a name="migrate-your-deals-from-partner-sales-connect-psc-to-partner-center"></a><a name="3"></a>Migrera dina avtal från partner Sales Connect (PSC) till Partner Center
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-03-04
+- Funktioner
+
+### <a name="summary"></a>Sammanfattning
+
+Partner Sales Connect (PSC) flyttas till skrivskyddad åtkomst från den 31 mars 2021, så vi uppmanar dig att börja migrera dina avtal från PSC till Partner Center.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Partner med avtal i PSC
+
+### <a name="details"></a>Information
+
+Som en del av vårt gemensamma åtagande att växa, är **samförsäljning med Microsoft** att du kan **identifiera, leverera dina kunskaper och utöka dina kunders** behov av positiva kund resultat. Med ett genomsnittligt avtal som är **3,5 gånger snabbare** än vanligt, kan du med hantera din samkunds upplevelse i Partner Center sälja över den direkta kunden, partnern och Microsofts försäljnings kanaler och hantera hela din Hänvisnings pipeline på en plats.
+
+**PSC** kommer att flyttas till **skrivskyddad åtkomst** från den **31 mars 2021**, så vi uppmanar dig att påbörja din flytt till Partner Center och få till gång till dessa förbättringar: 
+
+- **Mer exakt routning** av de avtal som du delar med Microsoft till den högra säljaren, baserat på vilken typ av hjälp du behöver.
+- Krav **verifiering för direkt** behandling för incitaments berättigade lösningar och för att uppfylla kraven på ISV Connect-program, vilket fören klar godkännande processen och det slutliga Poe-attesteringen (proof of Execution).
+- **Smidig användar upplevelse** för att hantera alla dina samförsäljnings möjligheter och Sälj kvalificerade leads på ett och samma ställe.
+
+Vi har också nyligen lagt till nya funktioner i Partner Center som hjälper dig att flytta:
+
+- [Mass åtgärder för samförsäljnings möjligheter](https://docs.microsoft.com/partner-center/bulk-operations)
+- [Funktionen](https://docs.microsoft.com/partner-center/psc-to-pc) för att migrera en funktion (se avsnittet **PSC-migrering** .)
+
+Med hjälp av co-Sales-upplevelsen i Partner Center får Sälj teamen mer tid på att fokusera på Nurturing-leads och affärs möjligheter, avsluta avtal och skapa långsiktiga kund relationer.
+
+### <a name="next-steps"></a>Nästa steg
+
+Använd [över gångs guiden](https://docs.microsoft.com/partner-center/psc-to-pc) för partner Center för att gå igenom stegen för att migrera dina avtal från PSC till Partner Center.
+
+### <a name="questions"></a>Har du några frågor?
+
+Kontakta [supporten](https://partner.microsoft.com/support/?stage=1)om du vill ha fler frågor.
 
 ________________
 ## <a name="new-microsoft-dynamics-365-products-and-offers-available-on-april-1-2021"></a><a name="2"></a>Nya Microsoft Dynamics 365-produkter och erbjudanden som är tillgängliga den 1 april 2021
