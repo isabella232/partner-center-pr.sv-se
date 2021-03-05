@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 84863e96278ba17ecc9922ff9589abc504ff1fe0
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 495d9899db36d0e4911647b337a99105a063236c
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756179"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124830"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guide till samförsäljning i Partner Center (PC) för partners som migrerar från partner Sales Connect (PSC)
 
@@ -32,9 +32,9 @@ Den här artikeln innehåller vägledning för partner som migrerar från partne
 > Om du är här eftersom du såg en banderoll i PSC om migreringen är du på rätt plats. Den här guiden gäller inte för lösnings utvärdering (SA) och OEM-licensieringens affärs partner som hanterar sina avtal i PSC.
 
 >[!Important]
-> Från och med den 1 maj 2021 kommer företaget inte att kunna skapa eller redigera avtal i PSC. **Du kommer fortfarande att kunna hämta befintliga avtals data med hjälp av Mass export funktionen i PSC. Du kan också [migrera öppna avtal](psc-to-pc.md#psc-deals-migration) från PSC till Partner Center efter det här datumet.** <br><br> Om det finns avtal som du aktivt arbetar med och som innehåller IP-Co-sälja stödberättigade lösningar, har du två alternativ: <br><br> 1. Markera affären som vunnen och fullständig avtals registrering i PSC före 30 april 2021. <br> 2. [migrera avtalen](psc-to-pc.md#psc-deals-migration) till Partner Center så att du får mer tid att arbeta med affären och för att påbörja avtals registrering.
+> Från och med den 1 april 2021 kommer företaget inte att kunna skapa eller redigera avtal i PSC. **Du kommer fortfarande att kunna hämta befintliga avtals data med hjälp av Mass export funktionen i PSC. Du kan också [migrera öppna avtal](psc-to-pc.md#psc-deals-migration) från PSC till Partner Center efter det här datumet.** <br><br> Om det finns avtal som du aktivt arbetar med och som innehåller IP-Co-sälja stödberättigade lösningar, har du två alternativ: <br><br> 1. Markera affären som vunnen och slutför avtals registrering i PSC före 31 mars 2021. <br> 2. [migrera avtalen](psc-to-pc.md#psc-deals-migration) till Partner Center så att du får mer tid att arbeta med affären och för att påbörja avtals registrering.
 
-Som du vet **kommer företaget att förlora åtkomsten till PSC efter den 31 maj 2021**. Men du kommer fortfarande att hitta allt du vill göra i Partner Center, till exempel skapa samförsäljnings avtal, hantera dina avtal och agera på avtal som skickas till dig av Microsofts säljare.
+Som du vet **kommer företaget att förlora åtkomsten till PSC efter den 30 April 2021**. Men du kommer fortfarande att hitta allt du vill göra i Partner Center, till exempel skapa samförsäljnings avtal, hantera dina avtal och agera på avtal som skickas till dig av Microsofts säljare.
 
 Det kommer dock att finnas skillnader. Följande rikt linjer hjälper dig att göra över gången till Partner Center mjukare och mer enkelt.
 

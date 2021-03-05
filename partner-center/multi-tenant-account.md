@@ -1,20 +1,20 @@
 ---
-title: Lägg till ytterligare klienter till ditt partner Center-konto
+title: Lägga till klienter till ditt partner Center-konto
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig hur du lägger till, konsoliderar eller hanterar flera Azure AD-klienter i ditt partner Center-konto. Lär dig också om några av de orsaker du kanske vill göra det.
+description: Lär dig hur du lägger till, konsoliderar eller hanterar flera Azure AD-klienter i ditt partner Center-konto och lär dig varför du kanske vill göra det.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9852b4e1c3997b82f744555db25fe64e1afc8ad
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 2f3094489f65b7164b4a55804047f9a4ab5f11cb
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182446"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124813"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Lägga till och hantera flera klienter i ditt partner Center-konto
 
@@ -24,57 +24,58 @@ ms.locfileid: "98182446"
 - Global administratör
 - Kontoadministratör
 
-Med den här funktionen kan du hantera flera klientorganisationer i ditt företag och konsolidera dem till ditt Partner Center-konto. Det finns många orsaker till varför du kan behöva hantera flera Azure AD-klienter i ditt partner Center-konto. Exempel:
+Den här artikeln beskriver hur du konsoliderar flera Azure Active Directory (Azure AD)-klienter för företaget och sedan lägger till och hanterar dem i ditt partner Center-konto. Det finns många skäl att göra det. Exempel:
 
-- Företaget kan köpa ett annat företag och du vill att de anställda i det nya företaget ska kunna använda Partner Center. Men du vill att de två företagen ska vara åtskilda. I det här fallet associerar du det nya företagets Azure AD-klient med ditt partner globala konto (PGA). Den här kopplingen gör det möjligt för användare i båda företagen att arbeta i Partner Center.
+- Låt oss säga att ditt företag, contoso, har förvärvat ett annat företag, Fabrikam. Du vill att de två företagen ska vara åtskilda, men du vill att de nya anställda ska kunna använda Partner Center. I det här fallet associerar du det nya företagets Azure AD-klient med ditt partner globala konto (PGA). Den här kopplingen gör det möjligt för användare i båda företagen att arbeta i Partner Center.
 
-- Om du har fler än en klient för att köra företaget (t. ex. contoso.com, contoso.uk, contoso.in) kan du använda flera innehavare för att koppla ihop dem under samma PC-konto.
+- Om du kör din verksamhet med fler än en klient (till exempel *contoso.com*, *contoso.uk* och *contoso.in*) kan du använda flera innehavare för att gruppera dem i samma PC-konto.
 
-- Sammanslagningar och förvärv kräver att du arbetar med fler än en klient (t. ex. om contoso förvärvar Fabrikam måste du kunna använda både Constoso.com och Fabrikam.com respektive klienter).
+- Om rikt linjerna för sammanslagning och förvärv kräver att du arbetar med klienter för båda företagen, använder du både *constoso.com* -och *fabrikam.com* -klienterna.
 
-- Användare från någon av klient organisationerna måste kunna:
-    1.  Åtkomst till Partner Center för utbildning, digital hämtning, MCP-Association
-    2.  Tilldelas Partner Center-roller som MPN-administratör, incitaments administratör osv.
+- Användare av någon av klienterna måste kunna:
+    * Få åtkomst till Partner Center för utbildning, digital hämtning eller Microsoft Certified Professional (MCP)-Association.
+    * Tilldelas Partner Center-roller som Microsoft Partner Network (MPN) admin eller incitaments administratör.
 
+## <a name="add-an-azure-ad-tenant-to-your-account"></a>Lägg till en Azure AD-klient i ditt konto
 
-## <a name="add-another-azure-ad-tenant-to-your-account"></a>Lägg till en annan Azure AD-klient i ditt konto
+1. Logga in som global administratör till [Microsoft Partner Center](https://partner.microsoft.com/dashboard).
 
-1. Logga in på [instrument panelen](https://partner.microsoft.com/dashboard)för partner Center som global administratör.
-1. Från **inställnings** ikonen väljer du **konto inställningar** och väljer sedan **klienter**.
+1. I det övre högra hörnet väljer du **Inställningar**, sedan **konto inställningar** och väljer sedan **klienter**.
  
-:::image type="content" source="images/merge-accounts/multitenantNew.png" alt-text="koppla klienter"::: 
+   :::image type="content" source="images/merge-accounts/multitenantNew.png" alt-text="Skärm bild av knappen associera i fönstret Azure AD-profil."::: 
 
-3. Välj **associera en annan AD-klient** och ange den klient som du vill koppla.
+1. Välj **associera** och ange den klient som du vill associera.
 
-1. Logga in på den klient som du vill associera och bekräfta associationen som global administratör. 
+1. Vid prompten loggar du in som global administratör till den klient som du vill associera och väljer sedan **Bekräfta**. 
 
-:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="bekräfta koppling av klienter"::: 
+   :::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="Skärm bild av knappen Bekräfta i fönstret Bekräfta nytt Azure AD-Association."::: 
 
-5. När **du har bekräftat visas ett meddelande** om detta.  Välj **återgå till klient hantering** så visas den nyligen tillagda klienten i listan. 
+   När du har bekräftat associationen visas ett meddelande om att **alla anges** . Om du vill visa den nyligen tillagda klienten väljer du **återgå till klient organisations hantering**. 
  
-
 >[!NOTE]
->Du kan inte koppla en klient till ett konto om det redan är kopplat till ett annat Partner Center-konto.
+>Du kan inte associera en klient med ett konto om det redan är kopplat till ett annat Partner Center-konto.
 
 
 ## <a name="remove-a-tenant-from-your-account"></a>Ta bort en klient från ditt konto
  
-1. Logga in på [instrument panelen](https://partner.microsoft.com/dashboard)för partner Center som global administratör.
+1. Logga in som global administratör till [Microsoft Partner Center](https://partner.microsoft.com/dashboard).
 
-1. I ikonen **Inställningar** väljer du **konto inställningar** -> klienter och klickar på fliken **partner** .
+1. Klicka på ikonen **Inställningar** längst upp till höger och välj sedan **konto inställningar**.
+
+1. Välj **innehavare** i det vänstra fönstret. Under **Hantera Azure AD-klienter** väljer du fliken **partner** .
  
-3. Klicka på **ta bort** för den klient som du vill koppla bort.
+1. Välj **ta bort** bredvid den klient vars Association du vill ta bort.
 
-4. Att koppla från en klient organisation innebär att användare av den klienten inte längre har åtkomst till Partner Center-kontot, och detta kan påverka din kompetens. 
+   :::image type="content" source="images/disassociate.png" alt-text="Skärm bild av de aktuella klient kopplingarna och deras borttagnings länkar.":::
 
-Knappen **ta bort** är aktive rad för alla associerade klienter, förutom den primära klienten och klienten som du för närvarande är inloggad på.
+   Som du ser i föregående skärm bild är **ta bort** länkar aktiverade för alla associerade klienter, förutom den primära klienten och klienten som du för närvarande är inloggad på. 
 
-:::image type="content" source="images/disassociate.png" alt-text="innehavare med knappen Ta bort":::
- 
+   > [!NOTE]   
+   > När du tar bort en klient har användarna på den innehavaren inte längre åtkomst till Partner Center-kontot, och borttagningen kan påverka din kompetens. 
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Lägg till användare](create-user-accounts-and-set-permissions.md)
+- [Skapa användarkonton](create-user-accounts-and-set-permissions.md)
 
 
 
