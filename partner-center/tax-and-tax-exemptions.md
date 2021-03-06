@@ -1,7 +1,7 @@
 ---
 title: Regionala skatter och skatte befrielser
 ms.topic: article
-ms.date: 12/04/2020
+ms.date: 03/05/2021
 description: För CSP-Programpartners, lär dig mer om skatte ansvar per region, hur du skickar skatte befrielser för CSP Sales och hur du får support för skatte frågor.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,15 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3777ea3dbf6d889787c942e584087b2378659adb
-ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
+ms.openlocfilehash: f423687cacb1f1b2d53750075ff7db9837e8125c
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96755596"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247681"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Läs om skatter och skatte befrielse detaljer per region eller land för partner i CSP-programmet
 
-Gäller för:
-
-- Partnercenter
-- Välkommen till Partnercenter för Microsoft Cloud for US Government
 
 Cloud Solution Provider (CSP)-programmet är en försäljnings kanal som fokuserar på partner åter försäljning av produkter. Därför behöver Microsoft inte alltid debitera moms på partner fakturor. Reglerna varierar beroende på land och/eller region. Du kan granska [landsspecifika och landsspecifika uppgifter om skatte befrielser](#country-and-region-tax-details).
 
@@ -33,7 +29,6 @@ En detaljerad information finns tillgänglig för Kanada och USA. För Taiwan oc
 
 Om du befinner dig i ett annat land eller region som debiterar skatt, se [informationen för andra regioner](#other-regions).
 
-Om du vill ha fler frågor kan du [begära support i Partner Center](#support).
 
 ### <a name="canada"></a>Kanada
 

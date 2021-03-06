@@ -6,13 +6,13 @@ ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/25/2020
-ms.openlocfilehash: a1dda9c49486d9da92b7f7f5623a37739736873f
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.date: 03/05/2021
+ms.openlocfilehash: 4cbbf89ef0df9c3fd1c1d4c59977a8ba34317673
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924917"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247661"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Vanliga frågor om utbetalningar och skatter
 
@@ -63,7 +63,14 @@ Det är företagets ansvar att se till att rollen som incitaments administratör
 
 #### <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>Min moms profil har upphört att gälla. Hur gör jag för att åtgärda detta?
 
-Använd stegen i [skapa eller uppdatera din moms profil](set-up-your-payout-account.md#create-or-update-your-tax-profile) för att uppdatera din avgifts profil. På sidan **skatte profil** kan du se profiler som har upphört att gälla eller som upphör att gälla i kolumnen **förfallo datum** . 
+Om en skatte profil har upphört att gälla eller om den upphör att gälla, innebär det att skatte formuläret som du tillhandahöll till Microsoft måste uppdateras. Använd följande steg för att uppdatera din avgifts profil:
+
+1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard/home)och välj sedan kugg hjuls ikonen för att öppna menyn **Inställningar** .
+2. Välj **konto inställningar**, expandera avsnittet **utbetalning och skatt** och välj sedan **utbetalnings-och skatte** profil.
+3. Välj **skatte** profil
+4. Kontrol lera **förfallo datumet** för kolumnen och navigera till den skatte profil som har upphört att gälla eller håller på att gå ut.
+5. Välj **Redigera** för att starta redigerings processen för skatte profil.
+6. Ange den uppdaterade informationen i avsnittet skatte formulär.
 
 ## <a name="earnings-incorrect-or-missing"></a>Inkomsten är felaktig eller saknas
 

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: 93ee3e142bf11c3b329fd27ec7320b93aea780b8
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.openlocfilehash: a59cf0b271a0ccf5fd5a1d8e3e85ff43818a3801
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94532046"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247705"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Lägg till delade Azure partner-tjänster så att partner kan köpa Azure-prenumerationer för egen användning
 
@@ -45,7 +45,7 @@ Delade Azure partner-tjänster är en ny erbjudande typ för partner i CSP-progr
 
 - Azure – interna/delade tjänster prenumerationen är en ny Azure-erbjudande typ i CSP som nås via partner Center som partner kan använda för sin egen användning av Azure.
 
-- Azure – interna/delade tjänster erbjudandet är berättigat till rabatter och incitament.  Prenumerationer på delade Azure partner-tjänster är berättigade och kan användas för att köpa RIs.
+- Prenumerationer på delade Azure partner-tjänster är berättigade och kan användas för att köpa RIs.
 
 - Azure – interna/delade tjänster erbjudandet kan bara tillämpas på den delade tjänstens klient organisation.
 
