@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 103b21e92ea32f251812770d66abcd413254cb36
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: 71deeb121fdc8b95499a7f12e08f2d116c370c7c
+ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475236"
+ms.locfileid: "102514127"
 ---
 # <a name="january-2021-announcements"></a>Meddelanden januari 2021
 
@@ -330,6 +330,12 @@ Tänk också på att från och med idag har kapaciteten för partner Center-prog
 ### <a name="questions"></a>Har du några frågor?
 
 Om du behöver fler frågor kontrollerar du dina relevanta CSP-communities.
+
+### <a name="change-log"></a>Ändrings logg:
+
+- 19 januari 2021: ursprunglig publikation 
+
+- Den 5 mars 2021: lades märke till överst i samband med återtagning av Partner Center-program och kapacitet för licens nyckels uppfyllelse
 
 _____________
 ## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="9"></a> Påminnelse: Introduktion till API-begränsning till partners som anropar API: er för partner Center 

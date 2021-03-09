@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: b8fd7fdea5cfbbc43826e7ebe05eeca11b5fddc4
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: 3702c362090b1764b6b9d6595fbe9f9a5f0aa55d
+ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475287"
+ms.locfileid: "102514093"
 ---
 # <a name="september-2020-announcements"></a>Meddelanden september 2020
 
@@ -57,6 +57,12 @@ Microsoft 365 administrations Center förbättrar den säkra leveransen av progr
 
 För alla frågor som rör detta meddelande kontaktar du [Support för partner Center](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
 
+### <a name="change-log"></a>Ändrings logg:
+
+- 30 september 2020: ursprunglig publikation 
+
+- 5 mars 2021: Lägg till anteckning längst upp för att återställa Partner Center-program och kapacitet för licens nyckel.
+
 ________________
 ## <a name="cloud-solution-provider-csp-program-evolution-and-open-license-program-changes-journey-to-a-better-partner-and-customer-experience"></a><a name="16"></a>Cloud Solution Provider (CSP)-program utveckling och öppna licens program ändringar: resa till en bättre partner och kund upplevelse
 
@@ -71,6 +77,9 @@ Alla partner i CSP och öppna program
 
 ### <a name="details"></a>Information
 
+>[!NOTE]
+>På grund av feedback från partnern är vi återinför för att få program vara och licens nycklar för program varu beställningar med beständig och Server prenumeration. Det kommer att återställas till sitt tidigare tillstånd innan det tas bort den 19 januari 2021. Mer information finns i [mars 2021-meddelandet](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
+
 Microsoft CSP-programmet har vuxit exponentiellt, med fler än 90 000 deltagande företag. Det är vår huvudsakliga partner Sälj rörelse för små och medel stora företag och för mindre företags kunder inom den nya Commerce-upplevelsen. När vi bygger på det här momentet tillkännagede vi idag att vi utökar möjligheterna för partner i CSP-programmet. Information finns i vårt [partner blogg inlägg](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/).
 
 ### <a name="next-steps"></a>Nästa steg
@@ -83,6 +92,11 @@ Microsoft CSP-programmet har vuxit exponentiellt, med fler än 90 000 deltagande
 
 För frågor som rör detta meddelande kontaktar du [Support för partner Center](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
 
+### <a name="change-log"></a>Ändrings logg:
+
+- 30 september 2020: ursprunglig publikation.
+
+- 5 mars 2021: Lägg till anteckning längst upp för att återställa Partner Center-program och kapacitet för licens nyckel.
 
 ________________
 ## <a name="availability-of-new-subscriptions-transition-tool-between-partners-for-azure-plan"></a><a name="15"></a>Tillgänglighet för nya prenumerations över gångs verktyg mellan partner för Azure-prenumeration 
