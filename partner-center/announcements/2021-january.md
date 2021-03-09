@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/28/2021
-ms.openlocfilehash: d07555d3559b2f8dbbb15f9cfe90753e50db0c04
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.date: 03/08/2021
+ms.openlocfilehash: 103b21e92ea32f251812770d66abcd413254cb36
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756285"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475236"
 ---
 # <a name="january-2021-announcements"></a>Meddelanden januari 2021
 
@@ -313,6 +313,9 @@ ________________
 Alla CSP-partner
 
 ### <a name="details"></a>Information
+
+>[!NOTE]
+>På grund av feedback från partnern är vi återinför för att få program vara och licens nycklar för program varu beställningar med beständig och Server prenumeration. Det kommer att återställas till sitt tidigare tillstånd innan det tas bort den 19 januari 2021. Mer information finns i [mars 2021-meddelandet](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
 
 Som ni [presenterade](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) idag är vi glada att informera dig om att kommersiella program varu licenser nu är allmänt tillgängliga för alla CSP-partner att sälja. Pris listan för listad program vara för partner Center CSP har återpublicerats och innehåller nu ytterligare produkter och geografiska områden.
 

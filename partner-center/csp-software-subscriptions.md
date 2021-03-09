@@ -1,7 +1,7 @@
 ---
 title: Sälja programvaruprenumerationer via CSP
 ms.topic: how-to
-ms.date: 01/29/2021
+ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lär dig hur partner i CSP-programmet kan använda Partner Center för att köpa, hantera, sälja och avbryta reserverade Azure-instanser och Server prenumerationer för kunder.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b6e08baf11061bc027b52d4662311bdc91ee0202
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: a095f35c58cb6eb0c45f888bdf379edfd3cfe379
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756101"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475203"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Sälj program varu prenumerationer via Cloud Solution Provider (CSP)-programmet
 
@@ -92,18 +92,25 @@ Så här köper du program varu prenumerationer för en kunds räkning:
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Aktivera och hantera programvaruprenumerationer
 
-När du har köpt program varan måste kunderna Ladda ned den. Använd följande procedur för att göra detta.
+När du har köpt program varan måste du eller dina kunder Ladda ned den (partner som använder Partner Center). kunder som använder Microsoft 365 administrations Center). Använd följande procedur för att göra detta. Det är viktigt att förstå de risker som är kopplade till att kopiera länkar och hämta program vara. Mer information finns i **använda Partner Center för att hämta hämtnings program och licens nycklar för kund program vara** i [partner Center New Commerce Operations Guide](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
 
 >[!NOTE]
->Du måste vara administratörs agent för att hämta länken till nycklar och nedladdningar.
+>Du måste vara administratörs agent i Partner Center för att få länken till nycklar och nedladdningar.
 
 1. Gå till din kunds informations sida och välj sedan **program vara**. Du ser en lista över all program vara som du har köpt för kundens räkning.
-2. Kopiera "djup länk" från en **länk till program varu produkt nycklar och nedladdningar** och dela länken med kunden. När de väljer den här länken omdirigeras de till Microsoft administrations Center för att hämta och hämta sina produkt nycklar.
+
+2. Välj produkt **version**, **språk**, **bit** och välj **Hämta nycklar och nedladdningar**. 
+
+3. Välj **Hämta nyckel** som visar den 32-siffriga produkten i en popup-dialog som du kan kopiera och skicka till kunden. 
+
+4. Välj **Hämta** för att ladda ned bitarna. 
+
+5. Välj **Kopiera länk** om du vill skicka en länk till länken till BITS-nedladdningen. 
+
+6. Du kan också **avbryta** program varu beställningen och ta emot 100% kredit (om detta sker inom 60 dagar som uppsägnings policy perioden).
 
 >[!NOTE]
->Endast kunder kan se produkt nycklarna och hämta information i Microsoft administrations Center. Partner kan inte se den här informationen.
-
-Om du eller dina kunder vill lära dig mer om att hämta licens nycklar, se [Hämta program vara och produkt licens nycklar](/microsoft-365/admin/setup/download-software-licenses-csp).
+>Endast kunder har åtkomst för att se produkt nycklarna och hämta information i Microsoft 365 administrations Center (global administratörs roll krävs). Partner måste använda Partner Center för att se den här informationen.
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Hämtning och licens nycklar för Server prenumeration är tillgängliga via Microsoft 365 administrations Center för kunder 
 

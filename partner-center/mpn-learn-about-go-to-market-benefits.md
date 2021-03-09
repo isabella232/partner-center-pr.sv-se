@@ -1,7 +1,7 @@
 ---
 title: Lär dig mer om go-to-Marketing med Microsoft-erbjudanden
 ms.topic: article
-ms.date: 06/15/2020
+ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Lär dig hur go-to-Marketing med Microsoft-erbjudanden kan hjälpa dig att påskynda tiden till marknaden, generera leads och utöka din verksamhet.
@@ -9,19 +9,14 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d09dce7f4a80ed3014ecc8345d6f2bdf93da214d
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: d4f06f1983ab4bf3b6f9f77d02e7ae94817feeab
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92531041"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475270"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Utforska din go-to-Marketing med Microsoft-erbjudanden
-
-**Gäller för**
-
-- Partnercenter
-- Microsoft Partner Network medlemmar
 
 **Lämpliga roller**
 
@@ -39,18 +34,18 @@ Med erbjudanden till marknaden får du till gång till exklusiva försäljnings-
 
 Din go-to-Marketing-erbjudanden varierar beroende på din speciella MPN-medlemskap, dina specialisering och alla [befogenheter](learn-about-competencies.md) som du har.
 
-Alla MPN-medlemmar har åtkomst till vissa standard resurser för GTM. Dessa omfattar till gång till marknadsförings resurser som är färdiga att användas, en plattform för försäljnings aktivering och digital marknadsföring på begäran. Det finns också ännu fler go-to-Marketing-erbjudanden och program som är tillgängliga för partner som har till gång till silver-eller guld-kompetenser och/eller ISV-partner med en försäljnings klar lösning.
+Alla MPN-medlemmar har åtkomst till vissa standard resurser för GTM. Dessa omfattar till gång till marknadsförings resurser som är färdiga att användas, en plattform för försäljnings aktivering och digital marknadsföring på begäran. Det finns också ännu fler go-to-Marketing-erbjudanden och program som är tillgängliga för partner som har till gång till silver-eller guld-kompetenser och/eller ISV-partner med ett medförsäljnings erbjudande.
 
 >[!NOTE]
->Go-to-Marketing-resurser, erbjudanden och program omfattas av tillägg och ändringar. Gå till sidan Microsoft Partner Network [Go-to-Marketing](https://partner.microsoft.com/membership/go-to-market) och lär dig mer om de senaste go-to-Marketing-resurserna och erbjudanden som är tillgängliga för partner som uppnår olika kompetens nivåer och/eller ISV-partner med en försäljnings klar lösning.
+>Go-to-Marketing-resurser, erbjudanden och program omfattas av tillägg och ändringar. Gå till sidan Microsoft Partner Network [Go-to-Marketing](https://partner.microsoft.com/membership/go-to-market) och lär dig mer om de senaste go-to-Marketing-resurserna och erbjudanden som är tillgängliga för partner som uppnår olika kompetens nivåer och/eller ISV-partner med ett erbjudande för ett medförsäljnings erbjudande.
 
-Ytterligare erbjudande till marknaden som är tillgängliga för dem med **silver** kompetens nivåer och/eller ISV-partner med en samförsäljnings klar lösning:
+Ytterligare erbjudanden till marknaden som är tillgängliga för dem med **silver** kompetens nivåer och/eller en ISV-partner med ett samförsäljnings berättigat berättigande erbjudande:
 
 - Alla MPN standard resurser för go-to-marknad
 - Optimering av affärs profiler och referens hantering
 - Så här marknadsför du med Microsoft
 
-Ytterligare erbjudande till marknaden som är tillgängliga för partner med **guld** kompetens nivåer och/eller ISV-partner med en färdig lösning för IP-partner:
+Ytterligare erbjudanden till marknaden som är tillgängliga för partner med **guld** kompetens nivåer och/eller ISV-partner med samsäljande incitament som berättigar till erbjudandet:
 
 - Alla MPN standard resurser för go-to-marknad
 - Alla erbjudanden om go-to-marknad i silver/ISV är färdiga
@@ -68,24 +63,24 @@ Så här visar du din go-to-Marketing-erbjudanden:
 
 2. Välj **MPN** på menyn till vänster. Utför sedan något av följande steg:
 
-   - Välj **Översikt** . Bläddra till avsnittet **snabb länkar** och välj sedan fliken **gå till marknaden** .
+   - Välj **Översikt**. Bläddra till avsnittet **snabb länkar** och välj sedan fliken **gå till marknaden** .
 
      eller
 
-   - Välj **förmåner** följt av **Go-to-Marketing** .
+   - Välj **förmåner** följt av **Go-to-Marketing**.
 
 Du kommer att se en lista med go-to-Marketing-erbjudanden som antingen redan är aktiva eller som är tillgängliga för aktivering.
 
 ## <a name="manage-or-activate-go-to-market-offers-in-partner-center"></a>Hantera eller aktivera go-to-Marketing-erbjudanden i Partner Center
 
-Information om hur du aktiverar eller hanterar din go-to-Marketing-erbjudanden finns i [så här hanterar du erbjudanden till marknaden](manage-your-partner-network-benefits.md#manage-go-to-market-offers). En del av den här processen kräver att du tilldelar en marknadsförings person som kontakt för uppföljnings-e-post och kommunikation om go-to-Marketing-erbjudanden som du aktiverar.
+Information om hur du aktiverar eller hanterar din go-to-Marketing-erbjudanden finns i [så här hanterar du erbjudanden till marknaden](manage-your-partner-network-benefits.md#manage-go-to-market-offers). En del av aktiverings processen kräver att du tilldelar en marknadsförings person som kontakt för uppföljnings-e-post och kommunikation om go-to-Marketing-erbjudanden som du aktiverar.
 
 >[!IMPORTANT]
 >Du måste vara global administratör eller MPN partner administratör för att kunna aktivera ett särskilt erbjudande till marknaden och tilldela en relaterad marknadsförings kontakt. Om det behövs kan du bli global administratör genom att följa anvisningarna på [sidan **förmåner**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (inloggning krävs). Företaget kanske redan har en global administratör för att kunna kontakta ditt team.
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Hantera dina partner nätverks förmåner](manage-your-partner-network-benefits.md)
+- [Hantera dina förmåner i partnernätverket](manage-your-partner-network-benefits.md)
 
 - [Köpa eller förnya en prenumeration på Microsoft Action Pack](mpn-get-action-pack.md)
 
