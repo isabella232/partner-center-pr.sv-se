@@ -8,12 +8,12 @@ description: Synkronisera referenser i Partner Center med ditt Co-sälje Connect
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 10062fd20e3553856d8b595efd3224ff456c2c49
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 3724b53f527ebe294590c09d7ad77d0dbcfd9c34
+ms.sourcegitcommit: 5e9ca304cce4575eed05ca3b17fb77c9711402a5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756795"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102532079"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Co-Sälj koppling för Dynamics 365 CRM – översikt
 
@@ -104,7 +104,7 @@ Innan du installerar, konfigurerar och anpassar den automatiserade energi lösni
      
       7. När du har lagt till alla anslutningar bör du se följande anslutningar i din miljö:
 
-:::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="Anslutningar":::
+         :::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="Anslutningar":::
    
 ## <a name="edit-the-connections"></a>Redigera anslutningarna
 
@@ -141,7 +141,7 @@ Med API: er för webhook i Partner Center kan du registrera för resurs ändring
 
 3. Välj **kopierings** ikonen för att kopiera den tillhandahållna HTTP post-URL: en.
 
- :::image type="content" source="images/webhook-video.gif" alt-text="Registrera resurs ändringar med hjälp av Webhooks":::
+   :::image type="content" source="images/webhook-video.gif" alt-text="Registrera resurs ändringar med hjälp av Webhooks":::
 
 4. Välj flödet "partner för webhook-registrering (Insider Preview)" i Power Center och välj **Kör**.
 
@@ -205,7 +205,7 @@ Så här uppdaterar du ett miljö variabel värde:
 
 3. Uppdatera **aktuellt värde** (uppdatera inte standardvärdet) med alternativet **nytt värde** och ange värdet. Värdet måste matcha data typen för variabeln, t. ex. Ja/Nej-data typen accepterar antingen ja eller inget värde.
 
-:::image type="content" source="images/environment-variables-video.gif" alt-text="Uppdatera miljövariabler":::
+ :::image type="content" source="images/environment-variables-video.gif" alt-text="Uppdatera miljövariabler":::
 
 - Slutförd dubbelriktad referens synkronisering från slut punkt till slut punkt
 
