@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 3d163271329e2f2a117d7df3abcf9b31f2c4979f
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 4c4b3a9a71027f5fb02bc29566c20c214e3df371
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755857"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022816"
 ---
 # <a name="view-your-incentives-program-details"></a>Visa information om stimulans programmet
 
@@ -22,18 +22,17 @@ ms.locfileid: "101755857"
 
 - Stimulans administratör
 - Stimulans användare
-- Incitament skrivskyddad visning
 - Global administratör
 - MPN-partner administratör
 
-Den här artikeln beskriver hur du kommer åt sidan **Mina incitament-översikter** som visar övergripande status för dina stimulans program, samt status för varje program på varje plats. Den ger också de olika registrerings statusarna. 
+I den här artikeln förklaras **översikts sidan mina incitament** , som visar övergripande status för dina stimulans program, samt status för varje program på varje plats. Den ger också de olika registrerings statusarna.
 
 >[!NOTE]
 >Mer information om stimulans-och stimulans funktioner i Partner Center finns i [partner investeringar och incitament](https://partner.microsoft.com/membership/partner-incentives) (inloggning krävs).
 
 ## <a name="access-the-incentives-overview-page"></a>Öppna sidan incitaments översikt
 
-1. Logga in på [partner Center-instrumentpanelen](https://partner.microsoft.com/dashboard).
+1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard).
 1. Välj **incitament** och sedan **Översikt** på menyn.
 1. Du ser en sammanfattning av dina intäkter och betalningar längst upp på sidan och ytterligare information i tabellen nedtill. Du kan också sortera, gruppera och expandera den tillhör ande tabellen:
 

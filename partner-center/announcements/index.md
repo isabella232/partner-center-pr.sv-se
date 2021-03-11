@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/04/2021
-ms.openlocfilehash: c504c3b7ed0cffe8b698b308ca66ab591e55cccf
-ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
+ms.date: 03/09/2021
+ms.openlocfilehash: a524dbf8162886d88a4a9548653d32e094d8620f
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102220285"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102619434"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -22,6 +22,7 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 
 |**Kategori**|**Meddelanden i mars 2021**|**Meddelande**|
 |---------|:---------|:---------|
+|Funktioner|[Expandera den nya Commerce-upplevelsen i Cloud Solution Provider (CSP)-programmet för Azure till Ryssland](2021-march.md#5)|10 mars|
 |Funktioner|[Partner Center licens nyckel för program vara och hämtnings klara](2021-march.md#4)|5 mars|
 |Funktioner|[Migrera dina avtal från partner Sales Connect (PSC) till Partner Center](2021-march.md#3)|5 mars|
 |Funktioner|[Nya Microsoft Dynamics 365-produkter och erbjudanden som är tillgängliga den 1 april 2021](2021-march.md#2)|4 mars|

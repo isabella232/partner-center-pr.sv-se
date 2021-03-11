@@ -1,19 +1,19 @@
 ---
 title: Co-Sälj koppling för Dynamics 365 CRM-partner Center
+description: Synkronisera referenser i Partner Center med ditt Co-sälje Connector för Dynamics 365 CRM. Säljare kan sedan sälja tillsammans med Microsoft från dina CRM-system.
 ms.topic: how-to
-ms.date: 03/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Synkronisera referenser i Partner Center med ditt Co-sälje Connector för Dynamics 365 CRM. Säljare kan sedan sälja tillsammans med Microsoft från dina CRM-system.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 3724b53f527ebe294590c09d7ad77d0dbcfd9c34
-ms.sourcegitcommit: 5e9ca304cce4575eed05ca3b17fb77c9711402a5
+ms.date: 03/01/2021
+ms.openlocfilehash: 1b0f8f12cf60db0dcc03aae24316e869cbf34376
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 03/10/2021
-ms.locfileid: "102532079"
+ms.locfileid: "102619417"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Co-Sälj koppling för Dynamics 365 CRM – översikt
 
@@ -88,7 +88,7 @@ Innan du installerar, konfigurerar och anpassar den automatiserade energi lösni
 
    - CRM-administratören med de energi automatiserade flödena i lösningen.
 
-      1. Välj **anslutningar** i det vänstra navigerings fältet och välj lösningen "Partner Center-hänvisningar" i listan.
+      1. Välj **anslutningar** i det vänstra navigerings fältet och välj lösningen **partner Center referral** i listan.
 
       2. Skapa en anslutning genom att klicka på **skapa en anslutning**.
 
@@ -110,11 +110,11 @@ Innan du installerar, konfigurerar och anpassar den automatiserade energi lösni
 
 1. Gå tillbaka till sidan **lösningar** och välj **standard lösning**. Välj **anslutnings referens (för hands version)** genom att klicka på **alla**.
 
-:::image type="content" source="images/connection-reference-video.gif" alt-text="Redigera anslutningarna":::
+   :::image type="content" source="images/connection-reference-video.gif" alt-text="Redigera anslutningarna":::
 
 2. Redigera varje anslutning en i taget genom att välja ikonen tre punkter. Lägg till relevanta anslutningar.
 
-:::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="Anslutningar i listan"::: 
+   :::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="Anslutningar i listan"::: 
 
 3.  Gå tillbaka till sidan lösningar, Välj Partner Center-synkronisering för Dynamics 365 och aktivera flödet genom att klicka på tre punkter-ikon bredvid varje flöde i följande ordning. Om du stöter på problem när du aktiverar flödet kan du läsa [anpassnings steg](connector-dynamics.md#customize-synchronization-steps) och [fel söknings steg](connectors-troubleshoot.md). 
 
@@ -171,19 +171,19 @@ Följande är tillgängliga anpassningar:
 
 - Avtals värde: som standard synkroniseras det avtalade värdet från Partner Center till och från **estimatedvalue** i CRM. Om du har ett annat fält i CRM för att behandlas som synkroniseras från:
 
-    a.    Uppdatera fältet för ett värde fält i Dynamics 365-miljövariabeln med CRM: s fält namn. Observera att du ska ange fältets namn utan visnings namn.
+  a. Uppdatera fältet för ett värde fält i Dynamics 365-miljövariabeln med CRM: s fält namn. Observera att du ska ange fältets namn utan visnings namn.
 
-    b.    Redigera **[anpassa] skapa eller hämta information från Dynamics 365-flödet**  och navigera till **skapa eller uppdatera** affärs möjlighet i CRM och uppdatera **skapa en ny affärs möjlighet** och **Uppdatera befintliga affärs möjlighets** åtgärder för att tilldela **DealValue** -värde till rätt fält i CRM. Ta också bort **DealValue tilldelning** från fältet **uppskattat intäkt** .
+  b. Redigera **[anpassa] skapa eller hämta information från Dynamics 365-flödet**  och navigera till **skapa eller uppdatera** affärs möjlighet i CRM och uppdatera **skapa en ny affärs möjlighet** och **Uppdatera befintliga affärs möjlighets** åtgärder för att tilldela **DealValue** -värde till rätt fält i CRM. Ta också bort **DealValue tilldelning** från fältet **uppskattat intäkt** .
 
 - Landskod för kund konto: det är obligatoriskt att ange en landskod på två bokstäver (ISO 3166) när du skapar en ny hänvisning. Som standard synkroniseras lands koden till och från kontots address1_country fält i CRM. Om du har ett annat fält i CRM för lands kod som ska synkroniseras från:
 
-   a.    För ett fält för lands koder som inte är uppslag i ett konto som innehåller två tecken:
+   a. För ett fält för lands koder som inte är uppslag i ett konto som innehåller två tecken:
 
    - Uppdatera kund kontot lands kod fält namn i Dynamics 365-miljövariabeln med CRM: s fält namn. Observera att du ska ange fältets namn utan visnings namn.
 
    - Redigera **[anpassa] skapa eller hämta information från Dynamics 365-flödet**  och gå till skapa eller hämta kund konto i CRM-åtgärden för att tilldela lands värde till rätt fält i CRM. Ta också bort lands värde tilldelning från adress 1: fältet land/region.
 
-   b.    För ett lookup-baserat lands kod fält i kontot:
+   b. För ett lookup-baserat lands kod fält i kontot:
 
    - Lägg till ett nytt anpassat fält i kontot och fyll i det automatiskt med lands koden i två bokstäver (ISO 3166) baserat på värdet som valts i det uppslagna fältet och vice versa.
 
@@ -205,7 +205,7 @@ Så här uppdaterar du ett miljö variabel värde:
 
 3. Uppdatera **aktuellt värde** (uppdatera inte standardvärdet) med alternativet **nytt värde** och ange värdet. Värdet måste matcha data typen för variabeln, t. ex. Ja/Nej-data typen accepterar antingen ja eller inget värde.
 
- :::image type="content" source="images/environment-variables-video.gif" alt-text="Uppdatera miljövariabler":::
+   :::image type="content" source="images/environment-variables-video.gif" alt-text="Uppdatera miljövariabler":::
 
 - Slutförd dubbelriktad referens synkronisering från slut punkt till slut punkt
 
@@ -242,13 +242,11 @@ Följande anpassade fält ska ingå i CRM-avsnittet:
 
   :::image type="content" source="images/cosellconnectors/dynamics-7.png" alt-text="{alt-text}":::
 
-
-
 - När du har lagt till Microsoft-lösningar kan du fylla i samförsäljnings klara lösnings information så att säljarna inte behöver lägga till dem. Om du vill lägga till en ny lösnings information går du till Microsoft Solution information-objekt i CRM och klickar på **Lägg till post** för att lägga till en post eller använda **Excel upload** för att lägga till flera poster.
 
-:::image type="content" source="images/dynamic-1a.png" alt-text="Lösnings information":::
+  :::image type="content" source="images/dynamic-1a.png" alt-text="Lösnings information":::
 
-### <a name="scenarios"></a>OLIKA
+### <a name="scenarios"></a>Scenarier:
 
 1. Hänvisnings-synkronisering när hänvisning skapas eller uppdateras i CRM och synkroniseras i Partner Center:
 
@@ -265,6 +263,7 @@ Följande anpassade fält ska ingå i CRM-avsnittet:
          :::image type="content" source="images/dynamic-3a.png" alt-text="Så här hämtar du lämpliga fält i kort vy":::
 
       - **Kund kontakt**: om du vill skapa en samförsäljnings referens lägger du till en kund kontakt i affärs möjligheten.
+
       - **Synkronisera med partner Center**: Ja
 
       - Microsoft-lösningar: om du vill dela en hänvisning med Microsoft lägger du till en giltig samförsäljnings-eller Microsoft-lösning för affärs möjligheten.

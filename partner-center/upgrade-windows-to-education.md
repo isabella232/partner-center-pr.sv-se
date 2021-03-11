@@ -9,19 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c66a0d4ed7aa798321c42de34d879dc63de6a16b
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 6b5741ba09cedccd5f421374c4aa5ca609823bcd
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755821"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022748"
 ---
 # <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Uppgradera vissa utbildnings kunder från Windows 10 Home till Windows 10-utbildning
 
 **Lämpliga roller**
 
 - Administratörs agent
-- Support agent
+- Faktureringsadministratör
 
 ## <a name="overview"></a>Översikt
 
@@ -57,8 +57,8 @@ Partner bör skapa en support förfrågan och hämta nycklar från supporten. Pa
 
 - **Rubrik:** Produkt nyckel för Windows 10 Home till Windows 10 Education Upgrade
 - **Beskrivning:** Begär [INSERT Number]-nycklar för att aktivera uppgradering till Windows 10-utbildning. (Observera att antalet nycklar som begärs inte får vara större än dina prenumerations licenser för Microsoft 365 a3/A5 eller Windows 10 Enterprise a3/A5.) Kundens prenumerations-ID [INSERT Customer Subscription ID GUID för sina Microsoft 365 a3/A5 eller Windows 10 Enterprise a3/A5-prenumeration.]
-- **Kontakt nummer:** Detta kommer att vara förifyllt. Granska för att bekräfta eller uppdatera.
-- **E-post:** Detta kommer att vara förifyllt och ska vara det e-postmeddelande som du använder som administratör för Microsoft-portalen (endast global administratör eller fakturerings administratör).
+- **Kontakt nummer:** Detta fylls i automatiskt. Granska för att bekräfta eller uppdatera.
+- **E-post:** Detta kommer att fyllas i och bör vara det e-postmeddelande som du använder som administratör för Microsoft-portalen (endast global administratör eller fakturerings administratör).
 - **Önskad kontakt metod**: Välj **telefon** eller **Schemalägg en motringning**.
 
 8. Välj **kontakta mig**. Den förväntade vänte tiden anges i fönstret **behöver hjälp?** .
@@ -92,8 +92,9 @@ Utbildnings kunder bör överväga att få kostnads färdiga Windows 10-utbildni
 **Finns det en tids gräns för när du ska kontakta supporten och ta emot uppgraderings nyckeln?**
 Uppgraderingen av Windows 10-utbildningen baseras på kundens aktiva Microsoft 365 a3/A5-eller Windows 10 Enterprise a3/A5-licens prenumerationer. Om kunden inte utökar eller förnyar prenumerationen avslutas även behörigheten att uppgradera.
 
+## <a name="next-steps"></a>Nästa steg
+
 **Var kan partner lära sig mer om utbildning för Windows 10?**
-Ta reda på mer genom att följa dessa länkar:
 
 - [Windows Eduction-funktioner](https://www.microsoft.com/education/products/windows/features)
 - [Windows Education Hub](/education/windows/)

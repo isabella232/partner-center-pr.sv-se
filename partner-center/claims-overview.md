@@ -1,7 +1,7 @@
 ---
 title: Incitaments översikt över medop och anspråk
 ms.topic: article
-ms.date: 10/29/2020
+ms.date: 03/10/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Lär dig hur du skickar in ett lyckat samordnat anspråk för dina incitament genom att organisera rätt dokumentation, fakturor, utdrag och körnings bevis.
@@ -9,12 +9,12 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 00761df0cb51e8fcd3238141a51a53107c7c8523
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 99098b49ded4808edfd4ee895565d1563c52675a
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354516"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022714"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Skaffa samarbets marknadsförings medel
 
@@ -54,10 +54,10 @@ I tabellen nedan visas olika perioder för förbrukning, användning och ansprå
 
 |  Om din intjänande/periodiseringsperiod är  |Din räkenskaps halva-års period är  |  Din användnings period är  |  Din anspråks period är  |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-|**Juli – dec 2020**| FY20 H1  |  Jan – 2021 juni  |  Feb 16-aug 15 2021  |
-|**Jan – 2021 juni** |  FY20 H2  |  Juli – dec 2021  |  Aug 16 2021-Feb 15 2022  |
-|**Juli – dec 2021**|  FY21 H1  |  Jan – 2022 juni  |  Feb 16-aug 15 2022  |
-|**Jan – 2022 juni** |  FY21 H2  |  Juli – dec 2022  |  Aug 16 2022-Feb 15 2023  |
+|**Juli – dec 2020**| FY21 H1  |  Jan – 2021 juni  |  Feb 16-aug 15 2021  |
+|**Jan – 2021 juni** |  FY21 H2  |  Juli – dec 2021  |  Aug 16 2021-Feb 15 2022  |
+|**Juli – dec 2021**|  FY22 H1  |  Jan – 2022 juni  |  Feb 16-aug 15 2022  |
+|**Jan – 2022 juni** |  FY22 H2  |  Juli – dec 2022  |  Aug 16 2022-Feb 15 2023  |
 
 >[!NOTE]
 >Microsoft förbehåller sig rätten att begära ursprungliga PoE-dokument (proof of Execution). Du bör behålla alla dina ursprungliga dokument i 24 månader efter aktivitets datumet.

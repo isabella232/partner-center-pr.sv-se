@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 495d9899db36d0e4911647b337a99105a063236c
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: adbe4bf9fd329f7443608dd1a1e123208212ef43
+ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124830"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "102770284"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guide till samförsäljning i Partner Center (PC) för partners som migrerar från partner Sales Connect (PSC)
 
@@ -81,7 +81,7 @@ Så här hittar du ditt företags konto administratör:
 
    På sidan visas alla konto administratörer med deras respektive e-postadresser. Skicka ett e-postmeddelande till en av dem och be dem att tilldela rollen som referens administratör för ditt arbets konto.
 
-  :::image type="content" source="images/pscmigration/account-admin.png" alt-text="Bild som visar konto administratörer på sidan användar hantering för partner inställningar.":::
+  :::image type="content" source="images/pscmigration/account-admin.gif" alt-text="Bild som visar konto administratörer på sidan användar hantering för partner inställningar.":::
 
 >[!Important]
 >- Om din roll bara omfattar hantering av användare i PSC, be ditt företags konto administratör att tilldela dig rollen som [konto administratör](permissions-overview.md#manage-mpn-membership-and-your-company) i Partner Center. 
@@ -95,7 +95,7 @@ När du har konfigurerat ditt konto i Partner Center använder du guiden använd
 >[!Note]
 > Användarmigrering kan bara utföras av [konto administratörer](permissions-overview.md#manage-mpn-membership-and-your-company) för ditt företag. Om du inte har rollen konto administratör kan du söka efter en konto administratör som kan hjälpa dig att skapa användar konton med hjälp av guiden Migrera användare.
 
-:::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Bild som visar guiden användarmigrering.":::
+:::image type="content" source="images/pscmigration/user-migration.gif" alt-text="Bild som visar guiden användarmigrering.":::
 
 Konto administratörer ser en länk till guiden PSC-användarmigrering på sidan samförsäljnings möjligheter bredvid instruktions guiden. Användaren kan initiera migreringen genom att välja länken. Administratörer kan välja länken för att initiera användarmigrering. De kan utföra det här steget för migrering flera gånger tills alla användare har tilldelats lämpliga roller i Partner Center.
 

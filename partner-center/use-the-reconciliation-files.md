@@ -1,7 +1,7 @@
 ---
 title: Använd dina avstämnings filer
 ms.topic: article
-ms.date: 06/08/2020
+ms.date: 03/10/2021
 description: Lär dig mer om avstämnings filer i Partner Center och hur du tolkar de detaljerade vyerna för rad artikel med debiteringar för en fakturerings period.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d927b138c32b3e5f6f5d906db898e17f89a85aae
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: e6b9e466402d71c988729052bd72ba2346a9d977
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755770"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022782"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Lär dig hur du läser rad objekt i dina avstämnings filer för partner Center
-
-Gäller för:
-
-- Partnercenter
-- Välkommen till Partnercenter för Microsoft Cloud for US Government
 
 **Lämpliga roller**
 

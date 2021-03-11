@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9828c791cf1b1ee99eb8a23ec84869472a2c8114
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 515a35584d8c31538b6722a282c53181c7809420
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756569"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022731"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Länka eller ta bort en länk till ett MCID-konto (Microsoft Certificate Profile ID) till ett Microsoft Partner Network-konto (MPN)
 
@@ -33,8 +33,7 @@ Använd proceduren nedan för att få åtkomst till partner University.
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 2. Välj ikonen för blått **min profil** i det övre högra hörnet
-3. I fältet **inlärning** väljer du **få åtkomst till partner University**.
-Ditt partner universitet-konto kommer nu att associeras med ditt användar konto för partner Center. Dina utvärderingar visas i rapporten användar kompetens för partner Center i 72hrs. Nyligen skickade utvärderingar kan ta 7-10 dagar att avspeglas i rapporten.
+3. I fältet **inlärning** väljer du **få åtkomst till partner University**. Du måste ange ditt partner universitets konto uppgifter (inte ditt partner Center-konto) ditt partner universitet-konto kommer nu att associeras med ditt användar konto för partner Center. Dina utvärderingar visas i rapporten användar kompetens för partner Center i 72hrs. Nyligen skickade utvärderingar kan ta 7-10 dagar att avspeglas i rapporten.
 4. Om du vill ta bort associationen väljer du **ta bort åtkomst**.
 
 ## <a name="associate-a-microsoft-learning-account"></a>Associera ett Microsoft Learning-konto
@@ -48,6 +47,10 @@ Använd följande procedur för att associera ett Microsoft Learning-konto.
 >[!NOTE]
 >Om Microsoft Learning-kontots autentiseringsuppgifter är samma som partner University-kontots autentiseringsuppgifter väljer **email@address du Använd för att koppla mitt Microsoft Learning-konto**.
 
+## <a name="download-skills-report-microsoft-certification-list"></a>Hämta kunskaps rapport (Microsoft-certifierings lista)
+Om du behöver information kan skillsreport nås och hämtas av en global administratör eller MPN partner administratör från Partner Center. Om du vill [veta mer](https://docs.microsoft.com/partner-center/mpn-skills-report#view-skills-report-data).
+
+
 ## <a name="frequently-asked-questions-about-linking-accounts"></a>Vanliga frågor om att länka konton
 
 ### <a name="how-can-a-user-link-their-microsoft-certification-profile-id-mcid-with-the-microsoft-partner-network-mpn-organization-they-work-for"></a>Hur kan en användare länka sitt Microsoft Certificate Profile-ID (MCID) med den Microsoft Partner Network (MPN) som de arbetar för?
@@ -60,7 +63,7 @@ Logga in på Partner Center, gå till **min profil** och välj sedan **ta bort �
 
 ### <a name="the-user-left-company-a-and-now-works-for-company-b-how-can-they-link-their-microsoft-certification-profile-id-mcid-with-company-b"></a>Användaren lämnade företaget A och arbetar nu för företag B. Hur kan de länka sitt Microsoft Certificate Profile-ID (MCID) med företag B?
 
-Användaren måste länka sin MCID till företag B genom att följa anvisningarna ovan. När användaren länkar sina MCID med företag B tas de automatiskt bort från företagets A.
+Användaren måste koppla sina MCID till företaget B genom att följa anvisningarna ovan. När användaren länkar sina MCID med företag B tas de automatiskt bort från företagets A.
 
 ### <a name="the-user-left-company-a-and-no-longer-has-access-to-partner-center-they-want-to-unlink-their-mcid-from-company-a-and-are-not-planning-to-link-it-with-another-mpn-organization-at-the-moment"></a>Användaren lämnade företaget A och har inte längre åtkomst till Partner Center. De vill avlänka sin MCID från företag A och planerar inte att länka den till en annan MPN-organisation för tillfället.
 

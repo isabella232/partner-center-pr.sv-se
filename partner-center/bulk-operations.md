@@ -1,38 +1,38 @@
 ---
-title: Mass åtgärder via Excel-filer i hänvisningar
+title: Mass export och import av samförsäljnings möjligheter via Excel/CSV-filer i hänvisningar
+description: Lär dig hur du hämtar, skapar eller uppdaterar samförsäljnings möjligheter med hjälp av Excel-filer (CSV) i Partner Center
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig hur du hämtar, skapar eller uppdaterar samförsäljnings möjligheter med Excel-filer
 author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: d601fec4bbdaad72f02c16b399cc320cc607d8ed
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 8b69b430344c64f3d74e0b5058d561358bdd2b45
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756072"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102619400"
 ---
-# <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-valuecsv-files"></a>Mass åtgärder för samförsäljnings möjligheter med hjälp av CSV-filer (kommaavgränsade värden)
+# <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Mass åtgärder för samförsäljnings möjligheter med hjälp av CSV-filer (kommaavgränsade värden)
 
 **Lämpliga roller**
 
 - Referens administratör
 - Referent användare
 
-Mass åtgärder i Partner Center hjälper företaget att exportera och importera affärs möjlighets data. Gå till sidan affärs möjligheter för samförsäljning för att hitta import-och export länkarna längst upp till höger i banderollen för sid rubriken. Användare med både **referral admin** och **referral User** -behörigheter kan använda den här funktionen.
+Mass åtgärder i Partner Center hjälper företaget att exportera och importera affärs möjligheter data. Gå till sidan **affärs möjligheter för samförsäljning** för att hitta **import** -och **export** länkarna längst upp till höger i banderollen för sid rubriken. Användare med både **referral admin** och **referral User** -behörigheter kan använda den här funktionen.
 
 > [!IMPORTANT]
 > Det går inte att ångra åtgärderna för att skapa/uppdatera som görs via Mass import. Var försiktig när du ändrar eller skapar ett stort antal poster. Endast en delmängd av fälten kan ändras efter att du har skapat ett avtal. **Inga åtgärder tillåts när något avtal når ett Terminal-tillstånd som nekad/upphört/uppnådd/förlorad/förlorad.**
 
-## <a name="exporting-co-sell-opportunities"></a>Exportera samförsäljnings möjligheter
+## <a name="export-co-sell-opportunities"></a>Exportera samförsäljnings möjligheter
 
-Nedan visas information om export funktionen
+Följande information beskriver export funktionen:
 
-- Du kan exportera **högst 5000 poster** genom att klicka på knappen Exportera.
+- Du kan exportera **högst 5000 poster** genom att klicka på knappen **Exportera** .
 - De avtal som hämtas kommer att baseras på dina åtkomst nivåer. Hänvisnings administratörer och hänvisnings användare kan få olika resultat baserat på deras omfattning och inkluderas som grupp medlemmar i avtalen. Läs mer om [referens behörigheter](permissions-overview.md#manage-referrals).
 - Funktionen export tar i att ta hänsyn till den aktuella fliken på sidan samförsäljnings möjligheter och de filter som har tillämpats.
 - En CSV-fil med alla data som baseras på de filter som används skapas.
@@ -40,7 +40,7 @@ Nedan visas information om export funktionen
 - Du behöver inte vänta på att nedladdnings åtgärden ska slutföras. Även om du navigerar till andra sidor i Partner Center hämtas filen så snart export funktionen har slutförts.
 - Du kan återanvända den nedladdade filen för att ändra avtals informationen och ladda upp för att uppdatera alla poster.
 
-## <a name="importing-co-sell-opportunities"></a>Importera affärs möjligheter för försäljning
+## <a name="import-co-sell-opportunities"></a>Importera samförsäljnings möjligheter
 
 - Du kan skapa eller uppdatera **högst 1000 poster** med hjälp av import funktionen.
 - Du kan bygga mallen från grunden genom att hämta mallen från import sidan på Partner Center.
@@ -95,3 +95,10 @@ Anteckningar till Microsoft|Inga|Alla speciella anteckningar till Microsoft om d
 Medgivande för att dela kund-/partner kontakt|Ja|Medgivande för att dela kund kontakt uppgifter och företagets anställda kontakt uppgifter som arbetar med erbjudandet. **Det går inte att skapa eller uppdatera avtal om du väljer Nej för den här kolumnen.** |Ja
 Lösning 1|Ja|Lösnings-ID (krävs), den valuta (valfritt) som det avtalade värdet anges i. Du hittar valuta koderna [här](https://en.wikipedia.org/wiki/ISO_4217), priset på SKU (valfritt) och antal för SKU (valfritt)  |SOL-1234-PQRS, USD, 10, 100
 Team medlem 1|Ja|Förnamn, efter namn, mobiltelefon nummer och e-post-ID för respektive grupp medlem.| Bob, partner, 999999, Bob.partner@Contoso.com
+
+## <a name="next-steps"></a>Nästa steg
+
+Du kan använda de här samarbets kopplingarna för partner Center till att samsälja med Microsoft från dina CRM-system.
+
+- [Co-Sälj koppling för Dynamics 365 CRM – översikt](connector-dynamics.md)
+- [Co-Sälj koppling för Salesforce CRM – översikt](connector-salesforce.md)

@@ -8,17 +8,37 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/04/2021
-ms.openlocfilehash: 8b86623c6af832de654e3c4ad9fea666427eb51d
-ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
+ms.date: 03/09/2021
+ms.openlocfilehash: 2f3fd11125619ca3eaf3e0c870f5460a0abe2b4d
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102220303"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102619451"
 ---
 # <a name="march-2021-announcements"></a>Meddelanden i mars 2021
 
 Den här sidan innehåller meddelandena för Microsoft Partner Center för mars 2021.
+
+________________
+## <a name="expanding-the-new-commerce-experience-in-the-cloud-solution-provider-csp-program-for-azure-to-russia"></a><a name="5"></a>Expandera den nya Commerce-upplevelsen i Cloud Solution Provider (CSP)-programmet för Azure till Ryssland
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-03-10
+- Funktioner
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Alla partner i Ryssland går igenom programmet för Cloud Solution Provider (CSP).
+
+### <a name="details"></a>Information
+
+Från och med den 10 2021 mars är vi glada att kunna meddela att den **nya Commerce-upplevelsen i CSP för Azure i Ryssland** är tillgänglig. Den här upplevelsen kommer att effektivisera och förbättra hur kunderna köper och använder Azure-tjänster. Det ger också partner i CSP-programmet en konsekvent vy över Azures priser i Sälj rörelserna, priset USD för global konsekvens, justering av fakturerings datum och åtkomst till Azure Cost Management.
+
+### <a name="next-steps"></a>Nästa steg
+
+Det finns flera tillgängliga resurser som introducerar den nya Azure Commerce-upplevelsen och ger ytterligare information. Hitta de senaste frågorna, kortlek, video och mycket mer i [CSP-programmet uppdateringar resurs Galleri](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/).
 
 ________________
 ## <a name="partner-center-software-license-key-and-download-fulfillment"></a><a name="4"></a>Partner Center licens nyckel för program vara och hämtnings klara
