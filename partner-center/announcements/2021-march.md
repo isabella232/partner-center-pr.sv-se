@@ -8,17 +8,51 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/09/2021
-ms.openlocfilehash: 2f3fd11125619ca3eaf3e0c870f5460a0abe2b4d
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.date: 03/11/2021
+ms.openlocfilehash: 479f18318a2cc85ca16c399a0379e5528090d229
+ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619451"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103193638"
 ---
 # <a name="march-2021-announcements"></a>Meddelanden i mars 2021
 
 Den här sidan innehåller meddelandena för Microsoft Partner Center för mars 2021.
+
+________________
+## <a name="migrate-your-solutions-from-one-commercial-partner-ocp-go-to-market-gtm-to-the-microsoft-commercial-marketplace"></a><a name="6"></a> Migrera dina lösningar från en kommersiell partner (OCP) go-to-Marketing (GTM) till Microsofts kommersiella marknads plats
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-03-12
+- Funktioner
+
+### <a name="summary"></a>Sammanfattning
+
+Från och med den 29 mars 2021 kommer du att börja uppleva begränsade en OCP-funktion (kommersiell partner) (GTM). Vi rekommenderar att du migrerar dina lösningar till den kommersiella marknads platsen i Partner Center.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Organisationer som samsäljs med lösningar i OCP-GTM
+
+### <a name="details"></a>Information
+
+I december 2020 startade vi vår resa från Microsoft OCP GTM-verktyget till Microsofts kommersiella marknads plats i Partner Center. Den här över gången utökar funktionerna i den kommersiella marknads platsen där du kan presentera dina lösningar på miljon tals kunder, som dubbelriktat delar affärs möjligheter med andra Microsoft-och partner-säljare, och gemensamt säljer innovativa lösningar.
+
+Nästa mil stolpe i över gången kommer att ske den 29 mars 2021. Det är när du börjar uppleva begränsade OCP GTM-funktioner, och vissa fält blir skrivskyddade. Om du för närvarande samverkar med lösningar i OCP GTM, rekommenderar vi att du migrerar dina lösningar till den kommersiella marknaden för att dra nytta av dess funktioner och förenkla publicerings upplevelsen. 
+
+Om du flyttar till den kommersiella marknads platsen blir partner Center det främsta målet för publicerings upplevelsen i Co-försäljningen. Det är här du kan fortsätta att växa din verksamhet genom att ansluta dina lösningar till våra delade kunder via samma kanaler och produkt upplevelser som vi använder för Microsoft-produkter. [Läs mer om den kommersiella marknads platsen](https://blogs.partner.microsoft.com/mpn/getting-started-with-the-microsoft-commercial-marketplace/).
+
+### <a name="next-steps"></a>Nästa steg
+
+- Om du inte har flyttat dina lösningar än följer du instruktionerna som beskrivs i [över gångs guiden](https://docs.microsoft.com/azure/marketplace/co-sell-solution-migration) eller visar [själv studie kursen](https://partner.microsoft.com/asset/detail/ocp-gtm-to-the-microsoft-commercial-marketplace-mp4) för att slutföra alla migreringsåtgärder och börja publicera dina lösningar på den kommersiella Marketplace.
+
+- Om du har frågor om den begränsade kapacitets upplevelsen i OCP-GTM kan du Visa [samförsäljnings kraven för att publicera på vanliga frågor och svar om Microsoft kommersiella Marketplace](https://partner.microsoft.com/resources/detail/co-sell-requirements-publish-commercial-marketplace-faq-pdf). (Mer information finns i avsnittet "OCP GTM Limited capabilitity Started 29 mars 2021.")
+
+### <a name="questions"></a>Har du några frågor?
+
+Kontakta [supporten](https://partner.microsoft.com/support/?stage=1) om du har några frågor eller behöver mer information.
 
 ________________
 ## <a name="expanding-the-new-commerce-experience-in-the-cloud-solution-provider-csp-program-for-azure-to-russia"></a><a name="5"></a>Expandera den nya Commerce-upplevelsen i Cloud Solution Provider (CSP)-programmet för Azure till Ryssland
