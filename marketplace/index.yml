@@ -4,17 +4,17 @@ summary: Lär dig att hitta och köpa lösningar, program och tjänster från Mi
 metadata:
   title: Välkommen till kunddokumentation för Microsoft Marketplace
   description: Lär dig att hitta och köpa lösningar, program och tjänster från Microsoft-partner i våra onlinebutiker.
-  ms.service: marketplace
+  ms.service: marketplace-customer
   ms.topic: landing-page
   author: JasonWHowell
   ms.author: jasonh
-  ms.date: 11/17/2020
-  ms.openlocfilehash: 00d4786e234f9ede011032a71233fdafa6724ab8
-  ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
-  ms.translationtype: HT
+  ms.date: 03/12/2021
+  ms.openlocfilehash: febc75e7dde3441ba96436a85b713d8a03796f21
+  ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+  ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 11/21/2020
-  ms.locfileid: "95006930"
+  ms.lasthandoff: 03/12/2021
+  ms.locfileid: "103412547"
 landingContent:
 - title: Microsoft AppSource
   linkLists:

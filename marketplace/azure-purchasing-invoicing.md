@@ -1,17 +1,17 @@
 ---
 title: Köpa program vara och lösningar från Azure Marketplace
 description: Lär dig mer om verktyg som fören klar och effektiviserar program varu inköp och-hantering i Azure Marketplace.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 01/18/2021
-ms.openlocfilehash: de58fad7af7dd2cd6b8c98e5763557d54cc776a2
-ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
+ms.openlocfilehash: ac20b3c0603f886104499ab8de6da1d3459bbd57
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "98584210"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412581"
 ---
 # <a name="azure-marketplace-purchasing"></a>Köp av Azure Marketplace
 

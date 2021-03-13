@@ -1,19 +1,19 @@
 ---
 title: Juridiska avtal i Azure Marketplace
 description: Läs om juridiska avtal i Azure Marketplace.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: article
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 022216177c3eb307117d6339d50e61f578b2114e
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 728b2119b6b9a80146fbe3313d7fd79c77c5dcc8
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007699"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412649"
 ---
-# <a name="legal-contracts"></a>Juridiska avtal
+# <a name="legal-contracts"></a>Juridiska kontrakt
 
 Den här artikeln beskriver typer av juridiska villkor och kund medgivande till villkor i Azure Marketplace.
 

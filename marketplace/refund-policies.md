@@ -1,17 +1,17 @@
 ---
 title: Åter betalnings principer för Microsoft AppSource och Azure Marketplace
 description: Lär dig mer om åter betalnings principer för produkter som säljs på Microsoft AppSource och Azure Marketplace
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: article
 author: anbene
 ms.author: jeweber
 ms.date: 11/20/2020
-ms.openlocfilehash: 28792f2666f8d7fd2171002dc71b62b151b44c7b
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 10055b164610d5a9d0eb9da5e7240164581afbee
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007660"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412683"
 ---
 # <a name="refund-policies-for-microsoft-appsource-and-azure-marketplace"></a>Åter betalnings principer för Microsoft AppSource och Azure Marketplace
 
@@ -39,7 +39,7 @@ Azure-hanterade program återbetalas inte.
 
 Åter betalnings principer för Azure reserverad instans (RI) är tillgängliga via [självbetjänings utbyte och åter betalningar för Azure reservations](/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations).
 
-## <a name="azure-support-plans"></a>Azure-supportplaner
+## <a name="azure-support-plans"></a>Azure-supportavtal
 
 Om du överför eller ändrar ditt support avtal för Azure kan du vara berättigad till en delvis åter betalning. Det belopp som återbetalas baseras på den återstående delen av prenumerations perioden.
 
