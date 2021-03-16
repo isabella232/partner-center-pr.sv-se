@@ -1,7 +1,7 @@
 ---
 title: Hantera ditt Partnercenter-konto
 ms.topic: conceptual
-ms.date: 01/14/2021
+ms.date: 03/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Lär dig hur du använder Partner Center för att hantera företagets profil, bank och skatte information, roller, behörigheter med mera.
@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c1a17b6703981dee93acbb057bff2405d1f4f11
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.openlocfilehash: c2acc97a5f509f97b0ffeb6904f511cf755e4ca5
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235978"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103487028"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Hantera ditt partner Center-konto – företags profil, bank information, roller, behörigheter med mera
 
@@ -26,7 +26,7 @@ Det konto som du skapar i Partner Center när du registrerar dig är ditt e-post
 Se även artiklar [Bjud in anställda till Partner Center](guide-to-migration.md) och [lägga till en ny användare](create-user-accounts-and-set-permissions.md).
 
 >[!NOTE]
->Menyn konto inställningar ändras beroende på vilka program som du har registrerat i. Om du till exempel är partner i Cloud Solution Provider-programmet (CSP) kan du hantera dina Azure-delade tjänster från konto inställningar.
+>Menyn konto inställningar ändras beroende på vilka program som du har registrerat i. Om du till exempel är partner i Cloud Solution Provider-programmet (CSP) kan du hantera dina Azure-delade tjänster från **konto inställningar**.
 
 ## <a name="account-management"></a>Kontohantering
 
@@ -51,6 +51,20 @@ När du väljer ikonen **Inställningar** och öppnar menyn **konto inställning
 Fliken partner kommer att innehålla all juridisk information, till exempel registrerat juridiskt namn och adress för ditt företag, samt primär kontakt och affärs platser. Fliken åter försäljare för partner som utför CSP-verksamhet innehåller **kund support profilen**.
 
 Om ditt företag inte deltar i CSP, kommer standardvyn endast att visa fliken **partner** som innehåller **kund support profilen**.
+
+### <a name="when-you-are-in-more-than-one-account"></a>När du har mer än ett konto
+
+Du kan vara en del av mer än ett konto. Du kan kontrol lera om du är en del av flera konton genom att Visa "konto väljaren" i den vänstra navigerings menyn.
+
+:::image type="content" source="images/accountsettings/account-picker.png" alt-text="Identifiera konto väljaren":::
+
+Om du inte ser konto väljaren är du bara en del av ett konto. 
+
+När du klickar på den här väljaren visas alla konton som du är en del av som en lista. Sedan kan du klicka på någon av dem och växla till det kontot. Allt efter det som visas i kontexten för det kontot.  
+
+I exemplet nedan är den inloggade användaren del av de tre markerade kontona. Användaren kan växla mellan dem genom att klicka på ett konto.
+
+:::image type="content" source="images/accountsettings/picked-accounts.png" alt-text="De konton som du ingår i":::
 
 ## <a name="organization-profile"></a>Organisations profil
 
@@ -90,13 +104,13 @@ Den här sidan innehåller information om utbetalnings-och skatte information, i
 
 ## <a name="user-management"></a>Användarhantering
 
-Vad du arbetar med i Partner Center och vilka områden som du kan uppdatera eller se beror på din roll och de behörigheter som är kopplade till den rollen. Om du till exempel inte är en incitaments administratör kan du inte ändra något på sidan incitament, men du kanske kan visa data.
+Vad du arbetar med i Partner Center och vilka områden som du kan uppdatera eller se beror på din roll och de behörigheter som är kopplade till den rollen. Om du till exempel inte är en incitaments administratör kan du inte ändra något på sidan incitament, men du kanske kan visa data. Läs mer om [roller och behörigheter](permissions-overview.md)
 
 ### <a name="update-preferred-email"></a>Uppdatera prioriterad e-post
 
 Så här uppdaterar du önskat e-postmeddelande för att ta emot Partner Center-meddelanden:
 
-1. Logga in på [partner Center-instrumentpanelen](https://partner.microsoft.com/dashboard).
+1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard).
 1. Gå till [**Inställningar för engagemang**](https://partner.microsoft.com/dashboard/engagement/preference), Välj länken **ändra** , uppdatera e-postadressen och välj **Spara**.
 
 ### <a name="find-your-user-role"></a>Hitta din användar roll

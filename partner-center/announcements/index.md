@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/11/2021
-ms.openlocfilehash: 801ec42953279ca52d0f0a9631e41a811d09fd4c
-ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
+ms.date: 03/12/2021
+ms.openlocfilehash: bbc4d02d4834a4bb13f7c58de709b74ce09e1f4d
+ms.sourcegitcommit: e75c09f539ba4ead74db9c729be0485e71b7b6b1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103193621"
+ms.lasthandoff: 03/15/2021
+ms.locfileid: "103481004"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -22,6 +22,8 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 
 |**Kategori**|**Meddelanden i mars 2021**|**Meddelande**|
 |---------|:---------|:---------|
+|Funktioner|[Uppdatera till program utveckling i Cloud Solution Provider (CSP) och öppna licens programs ändringar](2021-march.md#8)|15 mars|
+|Utveckla din verksamhet|[Uppdatera till ett tidigare meddelande: Premium-utvärderingar, ett tillägg till Compliance Manager](2021-march.md#7)|15 mars|
 |Funktioner|[Migrera dina lösningar från en kommersiell partner (OCP) go-to-Marketing (GTM) till Microsofts kommersiella marknads plats](2021-march.md#6)|12 mars|
 |Funktioner|[Expandera den nya Commerce-upplevelsen i Cloud Solution Provider (CSP)-programmet för Azure till Ryssland](2021-march.md#5)|10 mars|
 |Funktioner|[Partner Center licens nyckel för program vara och hämtnings klara](2021-march.md#4)|5 mars|

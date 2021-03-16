@@ -8,17 +8,91 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/11/2021
-ms.openlocfilehash: 479f18318a2cc85ca16c399a0379e5528090d229
-ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
+ms.date: 03/12/2021
+ms.openlocfilehash: f5b9069ffe0ebfa15053a3ed18fc2ee3706d9c96
+ms.sourcegitcommit: e75c09f539ba4ead74db9c729be0485e71b7b6b1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103193638"
+ms.lasthandoff: 03/15/2021
+ms.locfileid: "103480984"
 ---
 # <a name="march-2021-announcements"></a>Meddelanden i mars 2021
 
 Den här sidan innehåller meddelandena för Microsoft Partner Center för mars 2021.
+
+________________
+## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="8"></a> Uppdatera till program utveckling i Cloud Solution Provider (CSP) och öppna licens programs ändringar
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-03-15
+- Funktioner
+
+### <a name="summary"></a>Sammanfattning
+
+Nya program varor från kommersiell och offentlig sektor kommer till program vara från Cloud Solution Provider (CSP) tillsammans med ändringar i Open License-programmet.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Kommersiella åter försäljare och hanterade åter försäljare som säljer genom Open License-programmet, samt alla CSP-partner som agerar beständig program vara
+
+### <a name="details"></a>Information
+
+I september 2020 [presenterade](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) Microsoft en serie steg i vår digitala omvandlings resa för att utöka möjligheterna till partner i CSP-programmet, inklusive tillgängligheten för lokala program för partner. De här ändringarna gör det möjligt för partner att växa sin verksamhet och utöka sin räckvidd genom att använda program varu licenser i CSP och placera dem på framgång i dagens moln – första världen. De ger också kunderna till gång till molnet och ger partner den flexibilitet som krävs för kundernas hybrid moln miljöer.
+
+Vi presenterar följande ändringar i fortsättningen på den här digitala omvandlingen:
+
+- 1 juli 2021: inga nya SKU: er, produkter eller kampanjer läggs till i pris listan öppna licens program.
+
+- 7 juli 2021: två kommersiella erbjudanden, få äkta Windows-och Visual Studio Professional-erbjudanden och offentliga sektor erbjudanden (myndigheter, utbildning och icke-vinst – se [meddelande](https://docs.microsoft.com/partner-center/announcements/2020-december#9)) läggs till i listan med program varu pris listan med kryptografiprovider.  Pris listan finns i avsnittet program vara på sidan [sälj > priser för pris &](https://partnercenter.microsoft.com/pcv/sales) i Partner Center och kommer att publiceras på detta datum igen.
+
+Fullständig information om hur du kan utveckla CSP-program och öppna licens program ändringar finns i **Nästa steg** nedan.
+
+### <a name="next-steps"></a>Nästa steg:
+
+- Utveckling av CSP-program: granska den ständiga [program varan i Cloud solution providers program](https://partner.microsoft.com/resources/collection/software-in-csp#/) beredskap material. Använd den här [beredskaps kartan](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) för att snabbt hitta rätt information för din roll.
+
+- Öppna licens program ändringar: granska [CSP-programmets utveckling och öppna licens programmet ändrar](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/) beredskaps material. Använd den här [beredskaps kartan](https://partner.microsoft.com/resources/detail/csp-open-evolution-to-a-better-experience-readiness-map-pdf) för att snabbt hitta rätt information för din roll.
+
+### <a name="questions"></a>Frågor
+
+Om du behöver fler frågor kontrollerar du dina relevanta CSP-communities.
+
+_______________
+## <a name="update-to-a-previous-announcement-premium-assessments-an-add-on-to-compliance-manager"></a><a name="7"></a>Uppdatera till ett tidigare meddelande: Premium-utvärderingar, ett tillägg till Compliance Manager
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-03-15
+- Utveckla verksamheten
+
+### <a name="summary"></a>Sammanfattning
+
+Utvärderings versionen har inte listats i pris listan och kommer att tas bort.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Partner som agerar via Cloud Solution Provider
+
+### <a name="details"></a>Information
+
+Utvärderings versionen får inte ha inkluderats i pris listan. De kommer att tas bort från pris listan 1 maj 2021.
+
+Det ursprungliga meddelandet är [här](https://docs.microsoft.com/partner-center/announcements/2021-february#4).
+
+### <a name="additional-resources"></a>Ytterligare resurser
+
+- [Microsoft 365 E5-säkerhet och efterlevnad](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?activetab=m365-enterprise:primaryr5)
+
+- [Bygga och hantera utvärderingar i Microsoft Compliance Manager – Microsoft 365 kompatibilitet | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments?view=o365-worldwide)
+
+### <a name="next-steps"></a>Nästa steg
+
+Granska resurserna om det här avsnittet och dela den här informationen med lämpliga intressenter i din organisation.
+
+### <a name="questions"></a>Har du några frågor?
+
+Om du har frågor om dessa erbjudanden kan du kontrol lera dina relevanta Yammer-communities.
 
 ________________
 ## <a name="migrate-your-solutions-from-one-commercial-partner-ocp-go-to-market-gtm-to-the-microsoft-commercial-marketplace"></a><a name="6"></a> Migrera dina lösningar från en kommersiell partner (OCP) go-to-Marketing (GTM) till Microsofts kommersiella marknads plats

@@ -5,13 +5,14 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 6e0ca8e63276d63230b3862d7618ad0c649d8ffe
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.date: 03/12/2021
+ms.custom: contperf-fy21q3
+ms.openlocfilehash: 26de300413e9b718545489b1ab4a3aa6a0286bf3
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412530"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103486892"
 ---
 # <a name="what-is-microsoft-appsource"></a>Vad är Microsoft AppSource?
 
@@ -21,13 +22,25 @@ AppSource-katalogen innehåller program vara som en tjänst (SaaS), lösningar s
 
 ## <a name="find-what-you-need-on-appsource"></a>Hitta vad du behöver på AppSource
 
-AppSource erbjuder enkla Sök-och filtrerings alternativ som hjälper dig att snabbt hitta det du söker. Använd Sök fältet högst upp på sidan för att hitta lösningar efter leverantör, produkt namn eller nyckelord. Använd filtren längst upp på sidan för att begränsa resultaten baserat på tillgängligheten för en kostnads fri utvärderings version eller test enhet, pris modell (kostnads fri eller betald) och betyg.
+AppSource erbjuder enkla Sök-och filtrerings alternativ som hjälper dig att snabbt hitta det du söker. Använd **Sök** fältet högst upp på sidan för att hitta lösningar efter leverantör, produkt namn eller nyckelord.
 
-I fönstret längst till vänster kan du filtrera resultaten baserat på en lista med produkt typer, kategorier och branscher. AppSource produkt typer baseras på produkter som Microsoft 365 och Power Apps. Kategorier baseras på affärs funktioner som samarbete och marknadsföring. Du kan också välja från en lista över branscher, till exempel jordbruk och tillverkning.
+[![Visar Microsoft Appsource-landnings sidan.](media/appsource-overview/appsource-home-page.png)](media/appsource-overview/appsource-home-page.png#lightbox)
+
+När du utforskar [app-galleriet](https://appsource.microsoft.com/marketplace/apps)använder du filtren längst upp på sidan för att begränsa resultaten baserat på tillgängligheten för en kostnads fri utvärderings version eller test enhet, pris modell (kostnads fri eller betald) och kund värderingar.
+
+I fönstret längst till vänster kan du filtrera resultaten baserat på en lista med produkt typer, kategorier och branscher. AppSource produkt typer baseras på produkter som Microsoft 365, Dynamics 365 och Power Platform. Kategorier baseras på affärs funktioner som försäljning, samarbete eller marknadsföring. Du kan också välja från en lista över branscher, till exempel finansiella tjänster, sjukvård och distribution.
+
+## <a name="microsoft-preferred-solutions"></a>Microsofts önskade lösningar
+
+När du söker efter eller filtrerar katalogen, kan resultaten omfatta Microsofts önskade lösningar, som identifieras med hjälp av den rekommenderade lösnings ikonen i det nedre högra hörnet av app-kortet eller aktivitets ikonen på produkt informations sidan.
+
+:::image type="content" source="media/appsource-overview/preferred-solution-badge.png" alt-text="Visar AppSource-huvudprovider-märket.":::
+
+Önskade lösningar väljs av en grupp Microsoft-experter och publiceras av Microsoft-partner med djupgående, beprövad expertis och kapacitet för att tillgodose specifika kund behov i en kategori, bransch eller bransch vertikal.
 
 ## <a name="take-action-on-a-listing"></a>Vidta åtgärder på en lista
 
-När du väljer en app från _appens resultat_ visas registrerings sidan för appen. Alla listor i AppSource stöder ett eller flera av följande List alternativ:
+Välj en app från *appens resultat* för att se registrerings sidan för appen. Vidta åtgärder för en lista genom att välja ett eller flera av följande:
 
 - **Hämta nu**: Köp lösningen direkt.
 - **Test enhet**: utforska en granskad demo. En testen het använder inte produktions data eller miljön, men du kan avgöra om lösningen uppfyller dina affärs behov.
