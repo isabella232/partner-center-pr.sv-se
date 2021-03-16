@@ -1,5 +1,5 @@
 ---
-title: Rapportera problem med Partner Center
+title: Partner Center-Portal begär Anden och diagnostikverktyg
 ms.topic: how-to
 ms.date: 11/19/2020
 ms.service: partner-dashboard
@@ -9,14 +9,14 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c06b11a3ddd6a91d4e939b21d603dd33aa138716
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: e680856c0bf1f1ed4e8eb5acea3833255576f5e3
+ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530671"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103582044"
 ---
-# <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Rapportera problem med partner Center och skicka in information om logg-eller diagnostikinformation
+# <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Partner Center-Portal begär Anden och diagnostikverktyg
 
 **Gäller för**
 
@@ -26,6 +26,7 @@ ms.locfileid: "99530671"
 **Lämpliga roller**
 
 Alla inloggade Partner Center-användare kan skapa en support förfrågan för partner. Användare kan bara se support förfrågningar som de har skickat efter inloggning till Partner Center.
+Kontakta Partner Center-supporten om du hittar problem eller behöver hjälp med fel i Partner Center-portalen. Skicka diagnostik för att göra det möjligt att korrigera problemet snabbt.
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Rapportera ett problem med partner Center
 
