@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/12/2021
-ms.openlocfilehash: bbc4d02d4834a4bb13f7c58de709b74ce09e1f4d
-ms.sourcegitcommit: e75c09f539ba4ead74db9c729be0485e71b7b6b1
+ms.date: 03/15/2021
+ms.openlocfilehash: f7cca5e0d026ad78fb66c4a5eb623c279d3d2c98
+ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "103481004"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103570183"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -22,6 +22,7 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 
 |**Kategori**|**Meddelanden i mars 2021**|**Meddelande**|
 |---------|:---------|:---------|
+|& skala för enhets effektivitet|[Uppdatera ett juridiskt företags namn via partner Center](2021-march.md#9)|16 mars|
 |Funktioner|[Uppdatera till program utveckling i Cloud Solution Provider (CSP) och öppna licens programs ändringar](2021-march.md#8)|15 mars|
 |Utveckla din verksamhet|[Uppdatera till ett tidigare meddelande: Premium-utvärderingar, ett tillägg till Compliance Manager](2021-march.md#7)|15 mars|
 |Funktioner|[Migrera dina lösningar från en kommersiell partner (OCP) go-to-Marketing (GTM) till Microsofts kommersiella marknads plats](2021-march.md#6)|12 mars|

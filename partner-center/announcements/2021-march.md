@@ -8,17 +8,60 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/12/2021
-ms.openlocfilehash: f5b9069ffe0ebfa15053a3ed18fc2ee3706d9c96
-ms.sourcegitcommit: e75c09f539ba4ead74db9c729be0485e71b7b6b1
+ms.date: 03/15/2021
+ms.openlocfilehash: 435d14ec89a9582f16f77f5a63af90ceac9e2e4c
+ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "103480984"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103570200"
 ---
 # <a name="march-2021-announcements"></a>Meddelanden i mars 2021
 
 Den här sidan innehåller meddelandena för Microsoft Partner Center för mars 2021.
+
+________________
+## <a name="update-a-legal-company-name-through-partner-center"></a><a name="9"></a> Uppdatera ett juridiskt företags namn via partner Center
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-03-16
+- & skala för enhets effektivitet
+
+### <a name="summary"></a>Sammanfattning
+
+Från och med 2021 mars, Microsoft Partner Network (MPN) partner och indirekt åter försäljare av moln lösnings leverantör kan uppdatera sitt juridiska företags namn via partner Center.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+MPN-partner och indirekta CSP-åter försäljare (gäller inte för CSP direkt fakturerings partner)
+
+### <a name="details"></a>Information
+
+Från och med 2021 mars kan MPN-partner och indirekta CSP-återförsäljare uppdatera sitt juridiska företags namn via partner Center på ett kompatibelt och självständigt sätt. Med den här nya funktionen behöver partners inte längre skicka ett support ärende för partner Center för att uppdatera företagets namn. Detta sparar en betydande del av tiden för partner när du utför dessa aktiviteter.
+
+Följ dessa steg för att uppdatera det juridiska företags namnet:
+
+1. Den globala administratören eller konto administratören måste logga in på Partner Center och gå till [konto inställningar](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn).
+
+2. Uppdatera det juridiska företags namnet.
+
+3. När det uppdaterade namnet har sparats, kommer Microsoft att verifiera den information som tillhandahålls. Verifiering kan vänta i fem till sju dagar.
+
+4. När verifieringen är klar kommer det uppdaterade juridiska namnet att associeras med partner innehavaren.
+
+5. Om verifierings statusen ändras till avvisad, se [Verifiera din konto information](https://docs.microsoft.com/partner-center/verification-responses) för att lösa problemet.
+
+>[!NOTE]
+>Se till att företags namnet i din juridiska företags profil är fritt från stavfel och förkortningar, och exakt matchar dina formella företags registrerings poster. Mer information om hur du uppdaterar din organisations profil finns i [Verifiera din organisations profil](https://docs.microsoft.com/partner-center/update-your-partner-profile#update-your-legal-business-profile).
+
+### <a name="next-steps"></a>Nästa steg
+
+Dela den här informationen i din organisation så att rätt team kan granska och uppdatera sina processer.
+
+### <a name="questions"></a>Har du några frågor?
+
+Kontakta [supporten](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) om du har frågor, frågor eller mer information.
 
 ________________
 ## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="8"></a> Uppdatera till program utveckling i Cloud Solution Provider (CSP) och öppna licens programs ändringar

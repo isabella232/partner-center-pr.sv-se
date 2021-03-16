@@ -1,7 +1,7 @@
 ---
 title: Skapa ett MPN-konto i Partner Center
 ms.topic: article
-ms.date: 02/08/2021
+ms.date: 03/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Lär dig hur Microsoft Partner Network-medlemmar kan skapa ett partner Center-konto för att hantera sina nätverks förmåner och-kompetenser.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 39ff18e82782dcc19e1bda5cd774012f241a0b3a
-ms.sourcegitcommit: df3360786b46f9c2724dbd521e11366ffcbda307
+ms.openlocfilehash: 16d19ce353c081359ab59a34bf0a21392fc7d484
+ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "100013698"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103570217"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Skapa ett MPN-konto i Partner Center för att hantera nätverks förmåner och-kompetenser
 
@@ -23,7 +23,7 @@ Om du inte har använt Microsoft Partner Network (MPN) och inte har något MPN-I
 
 ## <a name="prerequisites"></a>Förutsättningar 
 
-När du är redo att skapa ett konto på Partner Center måste du ha följande för att komma igång.  Det kan vara bra att ta några minuter att samla in dessa objekt innan du börjar:
+När du är redo att skapa ett konto i Partner Center måste du ha följande artiklar i handen.  Det kan vara bra att ta några minuter att samla in dessa objekt innan du börjar:
 
 - Företagets arbets-e-post eller kontor 365 arbets konto. Mer information finns [i företagets arbets konto och partner Center](azure-active-directory-tenants-and-partner-center.md) 
  
@@ -40,7 +40,8 @@ När du är redo att skapa ett konto på Partner Center måste du ha följande f
 
 ## <a name="get-started"></a>Kom igång
 
-1. Börja med din e-postadress för arbetet som du fått av ditt företag you@yourcompanyname.com .
+1. På sidan [**Kom igång**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) börjar du med ditt arbets-e-postmeddelande som du fått av ditt företag, till exempel you@yourcompanyname.com .
+
  
     a.  E-postadressen måste vara giltig och tillgänglig för dig när vi ska skicka en verifierings kod för att fortsätta.
 
