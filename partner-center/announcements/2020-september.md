@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 3702c362090b1764b6b9d6595fbe9f9a5f0aa55d
-ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
+ms.openlocfilehash: b8f6f565e92ca4ac95d0787dff99893208722f02
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102514093"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712519"
 ---
 # <a name="september-2020-announcements"></a>Meddelanden september 2020
 
@@ -37,7 +37,7 @@ Alla leverantörer av moln lösnings partner (CSP) som agerar för program varu 
 ### <a name="details"></a>Information
 
 >[!NOTE]
->På grund av feedback från partnern är vi återinför för att få program vara och licens nycklar för program varu beställningar med beständig och Server prenumeration. Det kommer att återställas till sitt tidigare tillstånd innan det tas bort den 19 januari 2021. Mer information finns i [mars 2021-meddelandet](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
+>På grund av feedback från partnern är vi återinför för att få program vara och licens nycklar för program varu beställningar med beständig och Server prenumeration. Det kommer att återställas till sitt tidigare tillstånd innan det tas bort den 19 januari 2021. Mer information finns i [mars 2021-meddelandet](./2021-march.md#4).
 
 Idag-partner kan använda antingen Partner Center eller Microsoft 365 administrations Center för hämtning av program vara och licens nyckel för CSP-programordningar. Från och med **19 januari 2021** kommer Partner Center-program och licens nyckel att uppfyllas, och partner kommer att peka kunderna att använda **Microsoft 365 administrations Center** exklusivt för detta ändamål. Sidan kund program vara i Partner Center kommer att innehålla en "djup länk" till Microsoft 365 administrations Center där du kan peka kunder för att hämta kund licenser och program varu nedladdningar. Detta säkerställer den säkraste och effektiva upplevelsen för kunderna.
 
@@ -78,7 +78,7 @@ Alla partner i CSP och öppna program
 ### <a name="details"></a>Information
 
 >[!NOTE]
->På grund av feedback från partnern är vi återinför för att få program vara och licens nycklar för program varu beställningar med beständig och Server prenumeration. Det kommer att återställas till sitt tidigare tillstånd innan det tas bort den 19 januari 2021. Mer information finns i [mars 2021-meddelandet](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
+>På grund av feedback från partnern är vi återinför för att få program vara och licens nycklar för program varu beställningar med beständig och Server prenumeration. Det kommer att återställas till sitt tidigare tillstånd innan det tas bort den 19 januari 2021. Mer information finns i [mars 2021-meddelandet](./2021-march.md#4).
 
 Microsoft CSP-programmet har vuxit exponentiellt, med fler än 90 000 deltagande företag. Det är vår huvudsakliga partner Sälj rörelse för små och medel stora företag och för mindre företags kunder inom den nya Commerce-upplevelsen. När vi bygger på det här momentet tillkännagede vi idag att vi utökar möjligheterna för partner i CSP-programmet. Information finns i vårt [partner blogg inlägg](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/).
 

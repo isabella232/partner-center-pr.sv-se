@@ -9,12 +9,12 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 12/15/2020
-ms.openlocfilehash: 9c2ec0c7204a275f6b32e75b86eae775eb87bb55
-ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
+ms.openlocfilehash: ac4b6ef6a061a68ef623c7666804a4db1582785f
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "98105536"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712214"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Krav för att registrera dig som CSP-partner med direktfakturering
 
@@ -28,7 +28,7 @@ Som en direkt fakturerings partner äger du relationen från slut punkt till slu
 
 ### <a name="minimum-requirements"></a>Minimikrav
 
-|**Krav**|                |
+|**Krav**|  **Beskrivning**  |
 |--------------------------------|--------------------------------------------------------------|
 |**MPN-ID**   |Ett aktivt medlemskap i Microsoft Partner Network-och MPN-ID för den plats som du vill sälja i.   |
 |**Erkännande**   |Myndigheten att godkänna och signera juridiska avtal för din organisations räkning.|

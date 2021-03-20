@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/21/2020
-ms.openlocfilehash: 8cb81778c352e4e173cc70177675c7ee9bac4410
-ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.date: 03/08/2021
+ms.openlocfilehash: a74c08fcd64b1de99226353cca1f16d5c79b6bcd
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98705053"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712553"
 ---
 # <a name="december-2020-announcements"></a>Meddelanden december 2020
 
@@ -274,6 +274,9 @@ Alla CSP-partner
 
 ### <a name="details"></a>Information
 
+>[!NOTE]
+>På grund av feedback från partnern är vi återinför för att få program vara och licens nycklar för program varu beställningar med beständig och Server prenumeration. Det kommer att återställas till sitt tidigare tillstånd innan det tas bort den 19 januari 2021. Mer information finns i [mars 2021-meddelandet](./2021-march.md#4).
+
 Vi vill påminna dig om att från **19 januari 2021** kommer alla partner som registrerats i CSP-programmet att kunna sälja kommersiella program varu licenser för lokal distribution via CSP. Detta ger kunderna den flexibilitet för licensiering som de behöver som en del av deras digitala omvandling.
 
 Följande sker också på samma datum:
@@ -301,6 +304,12 @@ Granska följande resurser och dela dem med relevanta kontakter i din organisati
 ### <a name="questions"></a>Har du några frågor?
 
 Om du har fler frågor om dessa erbjudanden kan du kontrol lera dina relevanta Yammer-communities.
+
+### <a name="change-log"></a>Ändrings logg:
+
+- 17 december 2020: ursprunglig publikation 
+
+- 5 mars 2021: Lägg till anteckning längst upp för att återställa Partner Center-program och kapacitet för licens nyckel.
 
 ______________
 

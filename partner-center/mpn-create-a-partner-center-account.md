@@ -1,7 +1,7 @@
 ---
 title: Skapa ett MPN-konto i Partner Center
 ms.topic: article
-ms.date: 03/15/2021
+ms.date: 03/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Lär dig hur Microsoft Partner Network-medlemmar kan skapa ett partner Center-konto för att hantera sina nätverks förmåner och-kompetenser.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 16d19ce353c081359ab59a34bf0a21392fc7d484
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.openlocfilehash: a099b30753d2ea6de217001e7b13e4a333e40f55
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570217"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712927"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Skapa ett MPN-konto i Partner Center för att hantera nätverks förmåner och-kompetenser
 
@@ -43,11 +43,11 @@ När du är redo att skapa ett konto i Partner Center måste du ha följande art
 1. På sidan [**Kom igång**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) börjar du med ditt arbets-e-postmeddelande som du fått av ditt företag, till exempel you@yourcompanyname.com .
 
  
-    a.  E-postadressen måste vara giltig och tillgänglig för dig när vi ska skicka en verifierings kod för att fortsätta.
+    a.  E-postadressen måste vara giltig och tillgänglig för dig eftersom vi skickar en verifierings kod till e-postmeddelandet för att fortsätta.
 
-    b.  E-postadressen får inte innehålla ord som "information", "admin" " email@. ." Eller " marketing@.. ." eftersom dessa inte stöds.
+    b.  E-postadressen får inte innehålla ord som "information", "admin" " email@ ." Eller " marketing@.. ."; dessa adress format stöds inte.
 
-    c.  Om du vill köpa kartor eller hantera kompetenser måste du uppgradera det här kontot genom att verifiera din domän och bli administratör. 
+    c.  Om du vill köpa kartor eller hantera kompetenser måste du uppgradera det här kontot genom [att verifiera din domän](become-global-admin.md) och bli administratör. 
 
 2. Du kan logga in med ditt arbets konto för Office 365, till exempel you@contoso.onmicrosoft.com .
 
@@ -58,8 +58,11 @@ När du är redo att skapa ett konto i Partner Center måste du ha följande art
 
 Du kan antingen söka efter företagets profil eller ange företags information manuellt. Om ditt företag är registrerat med [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)använder du duns-ID: t för att söka efter företagets information. Om du vill ange företagets information själv väljer du **manuell**.
 
-När du har angett företags information anger du den primära kontakt informationen och väljer sedan **Registrera nu**.
-Den primära kontakten bör vara den person i företaget som vi kan kontakta om ditt program (det kan vara du eller någon annan person i företaget).
+Om ditt företag finns i **Armenien**, **Ungern**, **Kirgizistan**, **Moldavien**, **Uzbekistan** eller **Ryssland** och du anger din adress manuellt, kommer vi att validera din adress åt dig. Om den som du anger, skiljer sig från den validerade, rekommenderar vi att du använder den verifierade adressen. Detta säkerställer att elementen i adressen är standardiserade så som de definieras av landets post utfärdare, korrekt formaterade och kan utföras.  
+
+När du har angett företags information anger du den primära kontakt informationen. Den primära kontakten bör vara den person i företaget som vi kan kontakta om ditt program (den här kontakten kan vara du eller någon annan person i företaget).
+
+4. Välj **Registrera nu**.
 
 >[!IMPORTANT]
 >För att säkerställa ditt företags säkerhet och sekretess skickar vi din primära kontakt för att verifiera e-postadressen och se till att e-postadressen tillhör ditt företag. När den primära kontakten har verifierat e-postadressen fortsätter vi med vår granskning av den information du har angett. Verifiering tar vanligt vis 3-5 arbets dagar. 
@@ -75,14 +78,14 @@ Du kan också visa annan viktig information som MPN-ID, hantera MPN-platser och 
 
 ## <a name="next-steps"></a>Nästa steg
 
--   [Lägg till konto användare och tilldela behörigheter till dem](create-user-accounts-and-set-permissions.md)
+-  [Lägg till konto användare och tilldela behörigheter till dem](create-user-accounts-and-set-permissions.md)
 
--   [Köpa eller förnya en prenumeration på Microsoft Action Pack](mpn-get-action-pack.md)
+-  [Köpa eller förnya en prenumeration på Microsoft Action Pack](mpn-get-action-pack.md)
 
--   [Hantera dina medlemskaps förmåner](manage-your-partner-network-benefits.md)
+-  [Hantera dina medlemskaps förmåner](manage-your-partner-network-benefits.md)
 
--   [Lär dig mer om kompetens krav för guld-och silver-medlemskap](https://partner.microsoft.com/membership/competencies)
+-  [Lär dig mer om kompetens krav för guld-och silver-medlemskap](https://partner.microsoft.com/membership/competencies)
 
--   [Skapa en företagsprofil för att få kundämnen från Microsoft](create-a-marketing-profile.md)
+-  [Skapa en företagsprofil för att få kundämnen från Microsoft](create-a-marketing-profile.md)
 
--   [Hämta och hantera Sälj leads från Microsoft](manage-leads.md)
+-  [Hämta och hantera Sälj leads från Microsoft](manage-leads.md)

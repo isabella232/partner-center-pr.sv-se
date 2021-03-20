@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 85287746381ee0ac18bc570650cc310df7ef6219
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.openlocfilehash: ea26eb7755aebea67bad1b4bc97e9662c2054591
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102187368"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712910"
 ---
 # <a name="technical-support-benefits"></a>Tekniska support förmåner
 
@@ -58,12 +58,10 @@ Teknisk support tillhandahåller fel sökning för ett särskilt problem, fel me
 Som en del av det Microsoft Partner Network medlemskapet är partner berättigade till följande tekniska support
 
 
-|                           Teknisk support                          |  Action Pack |                                      Silver kompetens                                      |                                        Guld kompetens                                        |   |
-|:--------------------------------------------------------------------:|:------------:|:-------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-:|
-| Microsofts produkt support<br>För senaste lokala <br>endast produkter | 10 incidenter | 15 incidenter                                                                                | 20 incidenter                                                                                  |   |
-| Signature Cloud Support<br>Endast för moln produkter                   |              | Moln kompetenser:<br>Obegränsat<br>         <br>Andra kompetenser:<br>5 incidenter         | Moln kompetenser:<br>Obegränsat<br>          <br>Andra kompetenser:<br>10 incidenter   
-
-
+| Teknisk support |  Action Pack | Silver kompetens | Guld kompetens |
+|:---:|:---:|:---:|:---:|
+| Microsofts produkt support<br>För senaste lokala <br>endast produkter | 10 incidenter | 15 incidenter  | 20 incidenter |
+| Signature Cloud Support<br>Endast för moln produkter |  | Moln kompetenser:<br>Obegränsat<br><br>Andra kompetenser:<br>5 incidenter  | Moln kompetenser:<br>Obegränsat<br>          <br>Andra kompetenser:<br>10 incidenter  |
 
 * Moln kompetenser omfattar: säkerhets kompetens, moln Business Applications, moln plattform, moln produktivitet, företags mobilitets hantering, små och Midmarket moln lösningar.
 

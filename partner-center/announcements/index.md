@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/15/2021
-ms.openlocfilehash: f7cca5e0d026ad78fb66c4a5eb623c279d3d2c98
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.date: 03/18/2021
+ms.openlocfilehash: 87d71434a44bcfe66f7a928291007237e9c958c6
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570183"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712298"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -22,6 +22,9 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 
 |**Kategori**|**Meddelanden i mars 2021**|**Meddelande**|
 |---------|:---------|:---------|
+|Funktioner|[Erbjudande om kommersiella Marketplace-erbjudanden och FY21 för berättigade erbjudanden](2021-march.md#12)|18 mars|
+|Funktioner|[Power BI Premium erbjuder namngivning och nödvändig uppdatering](2021-march.md#11)|18 mars|
+|Erbjudanden/marknader|[Pris uppdateringar i mars för Microsoft 365 F3](2021-march.md#10)|16 mars|
 |& skala för enhets effektivitet|[Uppdatera ett juridiskt företags namn via partner Center](2021-march.md#9)|16 mars|
 |Funktioner|[Uppdatera till program utveckling i Cloud Solution Provider (CSP) och öppna licens programs ändringar](2021-march.md#8)|15 mars|
 |Utveckla din verksamhet|[Uppdatera till ett tidigare meddelande: Premium-utvärderingar, ett tillägg till Compliance Manager](2021-march.md#7)|15 mars|

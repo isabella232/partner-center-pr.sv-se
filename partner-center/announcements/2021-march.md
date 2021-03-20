@@ -8,19 +8,154 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/15/2021
-ms.openlocfilehash: 435d14ec89a9582f16f77f5a63af90ceac9e2e4c
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.date: 03/18/2021
+ms.openlocfilehash: eb6f57ed9a1b3031aeaaff51260e718ce3420ae3
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570200"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712315"
 ---
 # <a name="march-2021-announcements"></a>Meddelanden i mars 2021
 
 Den här sidan innehåller meddelandena för Microsoft Partner Center för mars 2021.
 
 ________________
+## <a name="csp-commercial-marketplace-offer-and-fy21-csp-incentives-for-eligible-offers"></a><a name="12"></a>Erbjudande om kommersiella Marketplace-erbjudanden och FY21 för berättigade erbjudanden
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-03-18
+- Funktioner
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Indirekta leverantörer och direkta fakturerings partner i Cloud Solution Provider-programmet 
+
+### <a name="details"></a>Information
+
+Indirekta leverantörer och direkta fakturerings partner i Cloud Solution Provider-programmet kan sälja tredje parts erbjudanden och få rabatt incitament för varje berättigad tredje parts erbjudande i Partner Center eller Azure Portal. Stimulans beloppet är i form av en rabatt på fakturerad försäljning för berättigade erbjudanden och är **tillgänglig fram till den 30 juni 2021**.  
+
+Fortsätt att lära dig det här erbjudandet om erbjudandet om marknads plats erbjudande nedan och kontakta kunderna idag för att identifiera de rätta erbjudandena för att möjliggöra fortsatt lyckad och digital omvandling.
+
+Vi samarbetar med oberoende program varu leverantörer (ISV) för att få de senaste IaaS-och SaaS-lösningarna till marknaden för Microsoft-kunder. ISV-utgivare kan välja att aktivera försäljning av sina erbjudanden via Microsoft Partner Channel. Våra incitaments berättigade erbjudanden delas in i två kategorier:
+
+- Välj SaaS-och IaaS-erbjudanden från tredje part med Azure IP Co-Sälj motiverade status. 
+
+- SaaS-program som är integrerade med team eller minst två Microsoft 365 produktivitets appar, till exempel PowerPoint, Word, Excel, Outlook eller SharePoint.
+
+### <a name="next-steps-and-resources"></a>Nästa steg och resurser
+
+- Lär dig om bidrags [partner incitament](https://partner.microsoft.com/membership/partner-incentives) för att sälja berättigade Marketplace-appar till de incitament som är berättigade till appar. Nya erbjudanden läggs till varje månad.  
+- [Vår leverantör av moln lösningar direkt fakturerings partner stimulans resurser](https://partner.microsoft.com/asset/collection/cloud-solution-provider-direct-partner-incentive-resources#/)
+- [Moln lösnings leverantörs tjänst för indirekt leverantörs stimulans](https://partner.microsoft.com/asset/collection/cloud-solution-provider-indirect-provider-incentive-resources#/)
+- Läs igenom den här [presentationen](https://partner.microsoft.com/resources/detail/partner-center-cm-for-csp-overview-pdf) om du vill veta mer om hur du säljer kommersiella Marketplace-appar. Kolla in ytterligare resurser [här](https://partner.microsoft.com/resources/collection/partner-center-cm-for-csp-collection#/). 
+- Utforska den kommersiella Marketplace-katalogen i [partner Center](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-discover) eller [Azure Portal](https://ms.portal.azure.com/#home)
+- Använd [API: er](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market) för att integrera appar i ditt företags marknads plats
+- Kontakta ISV: er som du är intresse rad av att göra affärer med
+- Indirekta leverantörer måste integreras med API: er och guide åter försäljare där appar kan säljas
+
+### <a name="questions"></a>Har du några frågor?  
+
+I [den här artikeln](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-overview) hittar du en översikt över den kommersiella marknads platsen i Partner Center.
+
+Om du behöver ytterligare hjälp kan du skapa en supportbegäran i Partner Center. Läs mer på [https://aka.ms/IncentivesSupport](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=1) .
+
+________________
+## <a name="power-bi-premium-offer-naming-and-prerequisite-update"></a><a name="11"></a>Power BI Premium erbjuder namngivning och nödvändig uppdatering
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-03-18
+- Funktioner
+
+### <a name="summary"></a>Sammanfattning
+
+Den slutgiltiga pris listan 1 april 2021 kommer att uppdateras för att lägga till klarhet i namngivnings-och/eller nödvändig information för Power BI Premium per användare-erbjudanden.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Leverantörer av moln lösningar (CSP), direkta och indirekta partner
+
+### <a name="details"></a>Information
+
+Den slutgiltiga pris listan 1 april 2021 kommer att uppdateras för att lägga till klarhet i namngivnings-och/eller nödvändig information för Power BI Premium per användare-erbjudanden.
+
+Innan den slutgiltiga pris listan har uppdaterats kan du använda informationen i det här avsnittet för att se till att rätt produkt beställs.
+
+Följande information visar den berörda SKU: n och nödvändig information.
+
+| Visnings namn för erbjudande 1 mars för hands version av pris lista |  Uppdaterat erbjudandets visnings namn den 1 april, slutgiltiga pris listan| Erbjudande-ID |
+| ------ | ----------- | ----------- |
+| Power BI Premium per användare Add-On (prissättning i ideell personal)  |  Power BI Premium per användare Add-On **(Office)** (prissättning i ideell personal)   | 31c03289-47ab-4ab0-8df1-03742c127ac6   |
+
+Kunder måste ha något av följande krav för att köpa erbjudandet:
+
+| Erbjudandets visnings namn | Erbjudande-ID |
+| ------ | ----------- |
+| Microsoft 365 E5 (pris för ideell personal)  |  31bedf01-9e57-4ece-a53a-d3656a563931   |
+|   Microsoft 365 E5 utan ljud konferens (pris för ideell personal)|  b456810a-c414-4e07-98fc-ef74e8175a09|
+|   Office 365 E5-pris (ideell personal)| ce139fe5-8bd5-47ed-a5be-07c286f8b9e    |
+|   Utvärderings version av Office 365 E5 (ideell personal)|  2f192efe-608a-4c9c-9d19-2b0b70b0962e|
+|   Office 365 E5 utan ljud konferens (pris för ideell personal)|  c3897426-9f49-4eaf-9b4d-7d9a1c72aef7|
+
+Följande Power BI Premiums erbjudande måste ha ett krav för köp:
+
+| Erbjudandets visnings namn | Erbjudande-ID |
+| ------ | ----------- |
+|   Power BI Premium per användare Add-On (prissättning i ideell personal)|  ef0b895b-681B-4026-a5b1-dda182a57d40 |
+
+Kunder måste ha denna förutsättning för att kunna köpa detta erbjudande:
+
+| Erbjudandets visnings namn | Erbjudande-ID |
+| ------ |----------|
+| Power BI Pro (pris för ideell personal)  |   cabdfc93-5786-4224-bfd3-35d58f833b35 |
+
+### <a name="next-steps"></a>Nästa steg
+
+Granska resurserna om det här avsnittet och dela den här informationen med lämpliga intressenter i din organisation.  
+
+### <a name="questions"></a>Har du några frågor?
+
+Om du har frågor om dessa erbjudanden kan du kontrol lera dina relevanta Yammer-communities. 
+
+## <a name="march-price-updates-for-microsoft-365-f3"></a><a name="10"></a> Pris uppdateringar i mars för Microsoft 365 F3
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-03-16
+- Erbjudanden/marknader
+
+### <a name="summary"></a>Sammanfattning
+
+Felaktigt mars 2021-pris har korrigerats för Microsoft 365 F3 Storbritannien (GBP) och euro (EUR).
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Partner köper Microsoft 365 F3 i GBP eller EUR mellan 1 mars och 17 mars 2021 med hjälp av CSP-programmet (Cloud Solution Provider).
+
+### <a name="details"></a>Information
+
+Microsoft har löst felaktig prissättning för Microsoft 365 F3. De felaktiga priserna var för GBP och EUR och endast för erbjudanden som köpts mellan 1 mars och 17 mars 2021. De påverkade erbjudandena och valutorna visas nedan. 
+
+| Erbjudandets namn | Valuta | Erbjudande-ID | Material-ID |
+| ------ |----------- |----------- |----------- |
+| Microsoft 365 F3 (välgörenhet) | GBP | 57b722c2-c435-4bfb-9bc8-80509213a13a | AAD-11626 |
+| Microsoft 365 F3 (kommersiell) | EUR| 3451a3b0-8cda-44a7-bad7-c30be81c4aaa | AAA-89898 |
+ 
+Licensen för för hands versionen av mars och april har uppdaterats 16 mars, 17 Pacific, normal tid.
+
+### <a name="next-steps"></a>Nästa steg
+
+- Partner bör hämta de aktuella licensbaserade pris listorna, både mars och för hands versionen av april, med dessa pris korrigeringar om det är tillämpligt.  
+- Microsoft kontaktar berörda partner i kommande veckor via e-post för att informera dem om nästa steg som rör korrigering av berörda transaktioner.
+
+### <a name="questions"></a>Har du några frågor?
+
+Om du behöver fler frågor kontrollerar du dina relevanta CSP-communities.
+
+________________
+
 ## <a name="update-a-legal-company-name-through-partner-center"></a><a name="9"></a> Uppdatera ett juridiskt företags namn via partner Center
 
 ### <a name="categories"></a>Kategorier
@@ -38,22 +173,12 @@ MPN-partner och indirekta CSP-åter försäljare (gäller inte för CSP direkt f
 
 ### <a name="details"></a>Information
 
-Från och med 2021 mars kan MPN-partner och indirekta CSP-återförsäljare uppdatera sitt juridiska företags namn via partner Center på ett kompatibelt och självständigt sätt. Med den här nya funktionen behöver partners inte längre skicka ett support ärende för partner Center för att uppdatera företagets namn. Detta sparar en betydande del av tiden för partner när du utför dessa aktiviteter.
+Från och med 2021 mars kan MPN-partner och indirekta CSP-återförsäljare uppdatera sitt juridiska företags namn via partner Center på ett kompatibelt och självständigt sätt. Med den här nya funktionen behöver partners inte längre skicka ett support ärende för partner Center för att uppdatera företagets namn. Detta sparar en betydande del av tiden för partner när du utför dessa aktiviteter. 
 
-Följ dessa steg för att uppdatera det juridiska företags namnet:
-
-1. Den globala administratören eller konto administratören måste logga in på Partner Center och gå till [konto inställningar](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn).
-
-2. Uppdatera det juridiska företags namnet.
-
-3. När det uppdaterade namnet har sparats, kommer Microsoft att verifiera den information som tillhandahålls. Verifiering kan vänta i fem till sju dagar.
-
-4. När verifieringen är klar kommer det uppdaterade juridiska namnet att associeras med partner innehavaren.
-
-5. Om verifierings statusen ändras till avvisad, se [Verifiera din konto information](https://docs.microsoft.com/partner-center/verification-responses) för att lösa problemet.
+Mer information finns i [Uppdatera din juridiska företags profil](../update-your-partner-profile.md#update-your-legal-business-profile).
 
 >[!NOTE]
->Se till att företags namnet i din juridiska företags profil är fritt från stavfel och förkortningar, och exakt matchar dina formella företags registrerings poster. Mer information om hur du uppdaterar din organisations profil finns i [Verifiera din organisations profil](https://docs.microsoft.com/partner-center/update-your-partner-profile#update-your-legal-business-profile).
+>Se till att företags namnet i din juridiska företags profil är fritt från stavfel och förkortningar, och exakt matchar dina formella företags registrerings poster. Mer information om hur du uppdaterar din organisations profil finns i [Verifiera din organisations profil](../update-your-partner-profile.md#update-your-legal-business-profile).
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -61,7 +186,7 @@ Dela den här informationen i din organisation så att rätt team kan granska oc
 
 ### <a name="questions"></a>Har du några frågor?
 
-Kontakta [supporten](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) om du har frågor, frågor eller mer information.
+Om du behöver fler frågor kontrollerar du dina relevanta CSP-communities.
 
 ________________
 ## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="8"></a> Uppdatera till program utveckling i Cloud Solution Provider (CSP) och öppna licens programs ändringar
@@ -87,7 +212,7 @@ Vi presenterar följande ändringar i fortsättningen på den här digitala omva
 
 - 1 juli 2021: inga nya SKU: er, produkter eller kampanjer läggs till i pris listan öppna licens program.
 
-- 7 juli 2021: två kommersiella erbjudanden, få äkta Windows-och Visual Studio Professional-erbjudanden och offentliga sektor erbjudanden (myndigheter, utbildning och icke-vinst – se [meddelande](https://docs.microsoft.com/partner-center/announcements/2020-december#9)) läggs till i listan med program varu pris listan med kryptografiprovider.  Pris listan finns i avsnittet program vara på sidan [sälj > priser för pris &](https://partnercenter.microsoft.com/pcv/sales) i Partner Center och kommer att publiceras på detta datum igen.
+- 7 juli 2021: två kommersiella erbjudanden, få äkta Windows-och Visual Studio Professional-erbjudanden och offentliga sektor erbjudanden (myndigheter, utbildning och icke-vinst – se [meddelande](./2020-december.md#9)) läggs till i listan med program varu pris listan med kryptografiprovider.  Pris listan finns i avsnittet program vara på sidan [sälj > priser för pris &](https://partnercenter.microsoft.com/pcv/sales) i Partner Center och kommer att publiceras på detta datum igen.
 
 Fullständig information om hur du kan utveckla CSP-program och öppna licens program ändringar finns i **Nästa steg** nedan.
 
@@ -121,13 +246,13 @@ Partner som agerar via Cloud Solution Provider
 
 Utvärderings versionen får inte ha inkluderats i pris listan. De kommer att tas bort från pris listan 1 maj 2021.
 
-Det ursprungliga meddelandet är [här](https://docs.microsoft.com/partner-center/announcements/2021-february#4).
+Det ursprungliga meddelandet är [här](./2021-february.md#4).
 
 ### <a name="additional-resources"></a>Ytterligare resurser
 
 - [Microsoft 365 E5-säkerhet och efterlevnad](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?activetab=m365-enterprise:primaryr5)
 
-- [Bygga och hantera utvärderingar i Microsoft Compliance Manager – Microsoft 365 kompatibilitet | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments?view=o365-worldwide)
+- [Bygga och hantera utvärderingar i Microsoft Compliance Manager – Microsoft 365 efterlevnad](/microsoft-365/compliance/compliance-manager-assessments)
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -163,7 +288,7 @@ Om du flyttar till den kommersiella marknads platsen blir partner Center det fr�
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Om du inte har flyttat dina lösningar än följer du instruktionerna som beskrivs i [över gångs guiden](https://docs.microsoft.com/azure/marketplace/co-sell-solution-migration) eller visar [själv studie kursen](https://partner.microsoft.com/asset/detail/ocp-gtm-to-the-microsoft-commercial-marketplace-mp4) för att slutföra alla migreringsåtgärder och börja publicera dina lösningar på den kommersiella Marketplace.
+- Om du inte har flyttat dina lösningar än följer du instruktionerna som beskrivs i [över gångs guiden](/azure/marketplace/co-sell-solution-migration) eller visar [själv studie kursen](https://partner.microsoft.com/asset/detail/ocp-gtm-to-the-microsoft-commercial-marketplace-mp4) för att slutföra alla migreringsåtgärder och börja publicera dina lösningar på den kommersiella Marketplace.
 
 - Om du har frågor om den begränsade kapacitets upplevelsen i OCP-GTM kan du Visa [samförsäljnings kraven för att publicera på vanliga frågor och svar om Microsoft kommersiella Marketplace](https://partner.microsoft.com/resources/detail/co-sell-requirements-publish-commercial-marketplace-faq-pdf). (Mer information finns i avsnittet "OCP GTM Limited capabilitity Started 29 mars 2021.")
 
@@ -217,7 +342,7 @@ Observera att program licens nycklar och nedladdnings länkar är värdefulla oc
 
 Läs följande resurser för användnings instruktioner och viktig vägledning om program varu nyckel distribution:
 
-- [Sälja lokal program vara via CSP-programmet](https://docs.microsoft.com/partner-center/csp-on-premise-software)
+- [Sälja lokal program vara via CSP-programmet](../csp-on-premise-software.md)
 - [Partner Center New Commerce Operations Guide](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) (se avsnittet **vägledning om distribution av program varu nycklar** ).
 
 ### <a name="questions"></a>Har du några frågor?
@@ -252,14 +377,14 @@ Som en del av vårt gemensamma åtagande att växa, är **samförsäljning med M
 
 Vi har också nyligen lagt till nya funktioner i Partner Center som hjälper dig att flytta:
 
-- [Mass åtgärder för samförsäljnings möjligheter](https://docs.microsoft.com/partner-center/bulk-operations)
-- [Funktionen](https://docs.microsoft.com/partner-center/psc-to-pc) för att migrera en funktion (se avsnittet **PSC-migrering** .)
+- [Mass åtgärder för samförsäljnings möjligheter](../bulk-operations.md)
+- [Funktionen](../psc-to-pc.md) för att migrera en funktion (se avsnittet **PSC-migrering** .)
 
 Med hjälp av co-Sales-upplevelsen i Partner Center får Sälj teamen mer tid på att fokusera på Nurturing-leads och affärs möjligheter, avsluta avtal och skapa långsiktiga kund relationer.
 
 ### <a name="next-steps"></a>Nästa steg
 
-Använd [över gångs guiden](https://docs.microsoft.com/partner-center/psc-to-pc) för partner Center för att gå igenom stegen för att migrera dina avtal från PSC till Partner Center.
+Använd [över gångs guiden](../psc-to-pc.md) för partner Center för att gå igenom stegen för att migrera dina avtal från PSC till Partner Center.
 
 ### <a name="questions"></a>Har du några frågor?
 
@@ -292,7 +417,7 @@ Den 1 april 2021 kommer Microsoft att lansera följande nya produkter och erbjud
 
 Microsoft kommer att introducera de första Power BI Premium erbjudandena per användare. Power BI Premium säljs för närvarande endast i en kapacitets konstruktion. Power BI Premium per användare ger till gång till Enterprise-Business Intelligence (BI) och analys funktioner. Den flexibla enskilda klient licensieringen tillgodoser små och medel stora företag.
 
-Läs mer om det här erbjudandet i [Power BI versions informationen](https://docs.microsoft.com/power-platform-release-plan/2020wave2/power-bi/planned-features) .
+Läs mer om det här erbjudandet i [Power BI versions informationen](/power-platform-release-plan/2020wave2/power-bi/planned-features) .
 
 
 **Erbjudande information**

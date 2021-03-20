@@ -6,12 +6,12 @@ ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 02/24/2021
-ms.openlocfilehash: dbd67ee1d4e9775d37318ec6389888f03a50b6ec
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: 8cfe0e95d1655530c9bc9d24b1efe85e6432236b
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412717"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712774"
 ---
 # <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>Skapa och hantera privata Azure Marketplace i Azure Portal
 
@@ -21,7 +21,7 @@ Som Marketplace-administratör (tilldelad roll) börjar du med en inaktive rad o
 
 > [!NOTE]
 > - En privat Azure Marketplace finns på klient nivå, så alla användare under klienten ser samma granskade lista.
-> - Alla Microsoft-lösningar (inklusive godkända [Linux-distributioner](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)) läggs automatiskt till i privata Azure Marketplace.
+> - Alla Microsoft-lösningar (inklusive godkända [Linux-distributioner](/azure/virtual-machines/linux/endorsed-distros)) läggs automatiskt till i privata Azure Marketplace.
 
 ## <a name="assign-the-marketplace-admin-role"></a>Tilldela rollen Marketplace-administratör
 
@@ -187,7 +187,7 @@ Ett objekt är en kombination av ett erbjudande och en plan. Du kan söka efter 
 4. Välj **klar** längst ned till vänster när du har gjort dina val.
 
 >[!Note]
-> **Lägg till objekt** till Marketplace kommer endast att vara tillgängligt för erbjudanden som inte kommer från Microsoft. Microsoft-lösningar (inklusive godkända [Linux-distributioner](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)) märks som "godkända som standard" och kan inte hanteras i privat Marketplace.
+> **Lägg till objekt** till Marketplace kommer endast att vara tillgängligt för erbjudanden som inte kommer från Microsoft. Microsoft-lösningar (inklusive godkända [Linux-distributioner](/azure/virtual-machines/linux/endorsed-distros)) märks som "godkända som standard" och kan inte hanteras i privat Marketplace.
 
 ## <a name="edit-items-plans"></a>Redigera objektets planer
 
@@ -249,7 +249,7 @@ För att komma åt meddelande centret:
 När privat Azure Marketplace är aktiverat ser användarna vilka planer som Marketplace-administratören har godkänt.
 
 - Ett grönt **godkänt** meddelande anger ett erbjudande för partner (inte Microsoft) som är godkänt.
-- Ett blått **godkänt** meddelande anger ett Microsoft-erbjudande (inklusive godkända [Linux-distributioner](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)) som är godkänt.
+- Ett blått **godkänt** meddelande anger ett Microsoft-erbjudande (inklusive godkända [Linux-distributioner](/azure/virtual-machines/linux/endorsed-distros)) som är godkänt.
 
 Användare kan filtrera mellan erbjudanden som är och inte är godkända:
 
@@ -304,7 +304,7 @@ Det finns för närvarande två sätt att begränsa tjänster från tredje part 
 
     :::image type="content" source="media/private-azure/disable-services-other-view.png" alt-text="Visar hur du begränsar tjänster i E-portalen.":::
 
-2. Skapa en Azure-princip för att bara tillåta vissa virtuella datorer. Mer information om hur du tillämpar principer för virtuella Windows-datorer finns i [tillämpa principer på virtuella Windows-datorer med Azure Resource Manager](https://docs.microsoft.com/azure/virtual-machines/windows/policy).
+2. Skapa en Azure-princip för att bara tillåta vissa virtuella datorer. Mer information om hur du tillämpar principer för virtuella Windows-datorer finns i [tillämpa principer på virtuella Windows-datorer med Azure Resource Manager](/azure/virtual-machines/windows/policy).
 
 Privata Azure Marketplace ger större flexibilitet när det gäller att begränsa och tillåta vissa erbjudanden och planer. Det informerar slutanvändarna om tillgänglighet för distribution i Marketplace-galleriet även innan de försöker distribuera tjänster från tredje part. Om du vill tillåta distribution av tjänster från tredje part ställer du in Azure Marketplace till på/aktiverat i EA-portalen och Azure Portal.
 
@@ -314,7 +314,7 @@ Privata Azure Marketplace ger större flexibilitet när det gäller att begräns
 
 #### <a name="whats-the-difference-between-a-private-offer-and-private-azure-marketplace"></a>Vad är skillnaden mellan ett privat erbjudande och en privat Azure Marketplace?
 
-Med ett **privat erbjudande** kan utgivare skapa planer som endast är synliga för riktade kunder. Detta gör det möjligt för dem att dela anpassade lösningar med förhandlad prissättning, privata villkor och specialiserade konfigurationer. Mer information finns [i privata erbjudanden på den kommersiella marknaden](https://docs.microsoft.com/azure/marketplace/private-offers).
+Med ett **privat erbjudande** kan utgivare skapa planer som endast är synliga för riktade kunder. Detta gör det möjligt för dem att dela anpassade lösningar med förhandlad prissättning, privata villkor och specialiserade konfigurationer. Mer information finns [i privata erbjudanden på den kommersiella marknaden](/azure/marketplace/private-offers).
 
 Med den **privata Azure Marketplace** i Azure Portal kan administratörer godkänna vilka lösningar från tredje part som användarna kan distribuera. Med en privat Azure Marketplace kan användarna dra nytta av fördelarna med Azure Marketplace genom att söka efter, köpa och distribuera kompatibla erbjudanden. För att hantera prenumerations privata erbjudanden i privat Marketplace måste Marketplace-administratören ha minst "Läs"-rollen för den aktuella prenumerationen.
 
@@ -326,16 +326,16 @@ Prenumerations privata erbjudanden visas bara för de listade prenumerationerna 
 
 #### <a name="can-we-include-custom-images-in-private-azure-marketplace"></a>Kan vi inkludera anpassade bilder i privata Azure Marketplace?
 
-Nej. Med privata Azure Marketplace kan IT-administratörer hantera och granska lösningar från tredje part från globala Azure Marketplace. Eftersom anpassade avbildningar inte finns på globala Azure Marketplace kan IT-administratören inte välja och välja anpassade avbildningar. Använd [delat avbildnings Galleri](https://docs.microsoft.com/azure/virtual-machines/shared-image-galleries)om du vill dela anpassade avbildningar.
+Nej. Med privata Azure Marketplace kan IT-administratörer hantera och granska lösningar från tredje part från globala Azure Marketplace. Eftersom anpassade avbildningar inte finns på globala Azure Marketplace kan IT-administratören inte välja och välja anpassade avbildningar. Använd [delat avbildnings Galleri](/azure/virtual-machines/shared-image-galleries)om du vill dela anpassade avbildningar.
 
-1. Steg-för-steg-guide skapa ett delat bild galleri (SIG) ([CLI](https://docs.microsoft.com/azure/virtual-machines/shared-images-cli), [PowerShell](https://docs.microsoft.com/azure/virtual-machines/shared-images-powershell)).
-2. Skapa en avbildnings definition i en SIG. Kunden bör välja **generaliserad** för fältet OS-tillstånd. ([CLI](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-cli#create-an-image-definition), [PowerShell](https://docs.microsoft.com/azure/virtual-machines/image-version-vm-powershell#create-an-image-definition)).
-3. Placera hanterade avbildningar i det delade bild galleriet ([CLI](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-cli), [PowerShell](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-powershell)).
-4. Avbildningarna för SIG-VM finns i en prenumeration. Använd en app-registrering ([CLI](https://docs.microsoft.com/azure/virtual-machines/linux/share-images-across-tenants), [PowerShell](https://docs.microsoft.com/azure/virtual-machines/windows/share-images-across-tenants)) för att göra det tillgängligt för andra prenumerationer.
+1. Steg-för-steg-guide skapa ett delat bild galleri (SIG) ([CLI](/azure/virtual-machines/shared-images-cli), [PowerShell](/azure/virtual-machines/shared-images-powershell)).
+2. Skapa en avbildnings definition i en SIG. Kunden bör välja **generaliserad** för fältet OS-tillstånd. ([CLI](/azure/virtual-machines/image-version-managed-image-cli#create-an-image-definition), [PowerShell](/azure/virtual-machines/image-version-vm-powershell#create-an-image-definition)).
+3. Placera hanterade avbildningar i det delade bild galleriet ([CLI](/azure/virtual-machines/image-version-managed-image-cli), [PowerShell](/azure/virtual-machines/image-version-managed-image-powershell)).
+4. Avbildningarna för SIG-VM finns i en prenumeration. Använd en app-registrering ([CLI](/azure/virtual-machines/linux/share-images-across-tenants), [PowerShell](/azure/virtual-machines/windows/share-images-across-tenants)) för att göra det tillgängligt för andra prenumerationer.
 
 #### <a name="why-do-i-see-some-offers-approved-by-default-even-though-the-publisher-is-not-microsoft"></a>Varför visas vissa erbjudanden som har **godkänts som standard** även om utgivaren inte är Microsoft?
 
-Microsoft stöder Linux och teknik med öppen källkod i Azure. Godkända [Linux-distributioner](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros) stöds i Azure och priset är integrerat i virtuella datorer. Eftersom Azure Linux-agenten redan är förinstallerad på Azure Marketplace, behandlas det som ett Microsoft-erbjudande. Eftersom Microsoft-erbjudanden har godkänts som standard kan inte godkända Linux-distributioner hanteras i privata Azure Marketplace och godkänns som standard.
+Microsoft stöder Linux och teknik med öppen källkod i Azure. Godkända [Linux-distributioner](/azure/virtual-machines/linux/endorsed-distros) stöds i Azure och priset är integrerat i virtuella datorer. Eftersom Azure Linux-agenten redan är förinstallerad på Azure Marketplace, behandlas det som ett Microsoft-erbjudande. Eftersom Microsoft-erbjudanden har godkänts som standard kan inte godkända Linux-distributioner hanteras i privata Azure Marketplace och godkänns som standard.
 
 ## <a name="contact-support"></a>Kontakta supporten
 

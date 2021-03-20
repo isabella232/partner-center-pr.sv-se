@@ -9,18 +9,18 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a7cc7d6335cdda0cec19a7676d2b6103592842e
-ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
+ms.openlocfilehash: b60b86bec70b5c33d65532599fa0421604d9ba12
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "98584182"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712893"
 ---
 # <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>Om du inte kan logga in på Partner Center och behöver återställa ditt lösen ord
 
 **Lämpliga roller**
 
-- Partner Center-användare
+- Alla partner som är intresserade av Partner Center
 
 Om du har glömt ditt lösen ord och inte kan logga in på Partner Center måste du kontakta supporten. Hitta lämplig kontakt vid [Support för företags produkter](/microsoft-365/admin/contact-support-for-business-products). 
 

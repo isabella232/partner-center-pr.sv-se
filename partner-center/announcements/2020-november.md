@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 8c9e978fb636392d7cfd1ad48c101eadeececcc6
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 08eb760769f86f6568703590b28142c1581583a8
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756411"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712536"
 ---
 # <a name="november-2020-announcements"></a>Meddelanden november 2020
 
@@ -305,11 +305,11 @@ Partner Center har utformats för att hantera en stor mängd begär Anden, men o
 
 ### <a name="apis-to-be-throttled"></a>API: er som ska begränsas
 
-|**Åtgärd**|**Dokumentation för Partnercenter**|
+| **Åtgärd** | **Dokumentation för Partnercenter** |
 |-------------------------|----------------------------------|
 |{baseURL}/v1/Customers/{customer_id}/subscriptions|[Hämta alla kunders prenumerationer](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Hämta en prenumeration efter ID](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/Customers/{customer_id}/Orders||[Hämta en kunds alla beställningar](/partner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/Customers/{customer_id}/Orders|[Hämta en kunds alla beställningar](/partner-center/develop/get-all-of-a-customer-s-orders)|  
 |{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}|[Hämta en beställning efter ID](/partner-center/develop/get-an-order-by-id)|  
 |{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}/provisioningstatus|[Hämta status för prenumerationsetablering](/partner-center/develop/get-subscription-provisioning-status)|  
 |{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Hantera order och hantera en prenumeration](/partner-center/develop/manage-orders#manage-a-subscription)| 
@@ -318,7 +318,7 @@ Partner Center har utformats för att hantera en stor mängd begär Anden, men o
 |{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/registrationstatus|[Hämta status för prenumerationsregistrering](/partner-center/develop/get-subscription-registration-status)| 
 |{baseURL}/v1/customers/{customer-tenant-id}/transfers|[Hämta alla kunders överföringar](/partner-center/develop/get-subscription-registration-status)| 
 |{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Hämta status för produktuppgradering](/partner-center/develop/get-all-of-a-customer-s-transfers)| 
-|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[Hämta en lista över erbjudanden för utvärderingskonvertering](/partner-center/develop/get-all-of-a-customer-s-transfers) 
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[Hämta en lista över erbjudanden för utvärderingskonvertering](/partner-center/develop/get-all-of-a-customer-s-transfers) |
   
 
 Det här meddelandet syftar till att tillhandahålla partners med tidiga medvetenhet om de kommande ändringarna, så att de kan förbereda sig. Vi rekommenderar starkt att partners bekantar sig med dessa API: er och funderar på att använda API: et för aktivitets loggen för mer effektivitet och undvika begränsning. Mer information om den här funktionen finns i informationen i vägledning för [API-begränsning](/partner-center/develop/api-throttling-guidance). 

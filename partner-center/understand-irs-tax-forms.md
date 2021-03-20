@@ -4,14 +4,16 @@ description: Lär dig mer om de skatte former som utfärdats av Microsoft, inklu
 ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 5543ec62397a72a042c5aa64c6c8f77ce7286f4c
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 42c5d6f0d31e6509253fe44d5b97606fc688f177
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94487881"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712825"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Om IRS-skatteformulär som utfärdats av Microsoft
 
@@ -23,8 +25,8 @@ Den här artikeln förklarar mer om dessa formulär, inklusive vem som kommer at
 
 | Formulär för IRS-skatt | Beskrivning | Tillgänglighet |
 |--------------|-------------|--------------|
-|1099-DIVERSE, 1099-K | Relaterat till försäljnings aktivitet och/eller betalningar som gjorts till dig för deltagande i Microsofts marknads platser | De utskrivna formulären kommer att postmarked på eller före **31 januari** , och. pdf-kopior kommer att vara tillgängliga i [partner Center](https://partner.microsoft.com/dashboard) (i **konto inställningar för partner Center** under **utbetalningar och skatte >s betalning och skatte profiler** ) på samma gång |
-|1042-S | Relaterat till betalningar som har gjorts till dig som omfattas USA käll skatt | De utskrivna formulären kommer att postmarked den **15 mars** , och. pdf-kopior kommer att vara tillgängliga i Partner Center (i **partner Centers inställningar för utvecklare** under **utbetalningar och skatte >s betalning och skatte profiler** ) på samma gång  |
+|1099-DIVERSE, 1099-K | Relaterat till försäljnings aktivitet och/eller betalningar som gjorts till dig för deltagande i Microsofts marknads platser | De utskrivna formulären kommer att postmarked på eller före **31 januari**, och. pdf-kopior kommer att vara tillgängliga i [partner Center](https://partner.microsoft.com/dashboard) (i **konto inställningar för partner Center** under **utbetalningar och skatte >s betalning och skatte profiler**) på samma gång |
+|1042-S | Relaterat till betalningar som har gjorts till dig som omfattas USA käll skatt | De utskrivna formulären kommer att postmarked den **15 mars**, och. pdf-kopior kommer att vara tillgängliga i Partner Center (i **partner Centers inställningar för utvecklare** under **utbetalningar och skatte >s betalning och skatte profiler**) på samma gång  |
 
 > [!NOTE]
 > Adressen som vi använder på formulär för IRS-moms kommer från adressen i din skatte profil när du [ställer in ditt konto för utbetalning och skatte former](set-up-your-payout-account.md). Om din adress har ändrats, se till att uppdatera adressen i din **avgifts profil**.
@@ -53,7 +55,7 @@ Skatte formulären kommer att skickas till dig från följande adresser:
 
 | Om jag är en USA utvecklare som säljer betalda appar och...   | Jag bör få det här formuläret: |
 |------------------------|-----------------------|
-| Jag hade **större än 200 app Sales** med en total inköps mängd som är **större än $20 000 USD** under det aktuella beskattnings året ( **inte** inventering av försäljning som gjorts i Brasilien och Kina genom Microsoft Store i Windows 10.)| **1099-K:**<br/>Filer: Microsoft Corporation<br/>Ein: \* \* \* \* \* 4442<br/><br/>**Viktigt:** Form 1099-K innehåller **brutto inköps** belopp, inte betalningar som gjorts till dig.| 
+| Jag hade **större än 200 app Sales** med en total inköps mängd som är **större än $20 000 USD** under det aktuella beskattnings året (**inte** inventering av försäljning som gjorts i Brasilien och Kina genom Microsoft Store i Windows 10.)| **1099-K:**<br/>Filer: Microsoft Corporation<br/>Ein: \* \* \* \* \* 4442<br/><br/>**Viktigt:** Form 1099-K innehåller **brutto inköps** belopp, inte betalningar som gjorts till dig.| 
 | Jag fick **minst $10 i betalningar** för (i) app Sales som gjorts i Brasilien och kina via Microsoft Store på Windows 10-eller (II) försäljning i Minecraft Marketplace.<br/><br/>**OR**<br/><br/>Jag fick minst $600 i betalningar som inte är relaterade till app Sales från Microsoft under det tillämpliga skatte året (till exempel incitaments betalningar eller betalningar från en tävling eller befordran)| **1099 – DIVERSE:**<br/>Betalare: Microsoft Corporation<br/>Ein: \* \* \* \* \* 4442<br/><br/>**Viktigt:** Vissa affärsentiteter får inte vara 1099-Diverse-formulär oavsett de betalnings belopp som har tagits emot från Microsoft.  Kontakta din skatte rådgivare om du vill ha mer information.| 
 | Inget av ovanstående gäller.| Inget |
 | <br/><br/>**Om jag är en USA utvecklare som säljer annonser i appar och...** |<br/><br/>**Jag bör få det här formuläret:** |
@@ -64,7 +66,7 @@ Skatte formulären kommer att skickas till dig från följande adresser:
 ## <a name="for-developers-located-outside-of-the-united-states"></a>För utvecklare som finns utanför USA
 
 
-| | |
+| **Fråga** | **Svar** |
 |---|---|
 | **Jag har fått ett formulär 1042-S från Microsoft. Vad är det för?** | Microsoft har gett dig ett 1042-S-formulär eller-formulär eftersom vi har betalat dig intäkt som rapporteras till USA skattemyndigheten och omfattas av käll skatt.  Formulär 1042-S används för detta rapporterings krav. | 
 | **Vad ska jag göra med formulären?** | I allmänhet krävs ingen speciell åtgärd på din sida. Formatet 1042-S kan vara användbart för dig om du vill använda dina lokala skattemyndigheter för alla former av moms kredit.  Kontakta dina egna skatte rådgivare om du vill ha mer information om det här ämnet. | 

@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 02/25/2021
-ms.openlocfilehash: 43614ebde27b6b0df0878bd7041163f1b7ca8882
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: c4ea0af46aa2dee02e2270e1f2d58eeff0f59ff4
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124796"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712485"
 ---
 # <a name="february-2021-announcements"></a>Meddelanden från februari 2021
 
@@ -77,7 +77,7 @@ Mer information finns i artikeln som nämns i nästa avsnitt.
 
 ### <a name="next-steps"></a>Nästa steg
 
-Läs mer om funktionerna för Mass åtgärder genom att läsa [Mass åtgärder för samförsäljnings möjligheter med hjälp av CSV-filer (kommaavgränsade värden)](https://docs.microsoft.com/partner-center/bulk-operations).
+Läs mer om funktionerna för Mass åtgärder genom att läsa [Mass åtgärder för samförsäljnings möjligheter med hjälp av CSV-filer (kommaavgränsade värden)](../bulk-operations.md).
 
 ### <a name="questions"></a>Har du några frågor?
 
@@ -107,7 +107,7 @@ Mer information finns i artikeln som nämns i nästa avsnitt.
 
 ### <a name="next-steps"></a>Nästa steg
 
-Lär dig mer om funktionen för att migrera i PSC genom att granska avsnittet om **migrering av PSC** i [guiden för Samförsäljning i Partner Center (PC) för partner som migrerar från partner Sales Connect (PSC)](https://docs.microsoft.com/partner-center/psc-to-pc).
+Lär dig mer om funktionen för att migrera i PSC genom att granska avsnittet om **migrering av PSC** i [guiden för Samförsäljning i Partner Center (PC) för partner som migrerar från partner Sales Connect (PSC)](../psc-to-pc.md).
 
 ### <a name="questions"></a>Har du några frågor?
 
@@ -139,7 +139,7 @@ Mer information finns i artikeln som nämns i nästa avsnitt.
 
 ### <a name="next-steps"></a>Nästa steg
 
-Lär dig mer genom att visa vår guide för att [Hantera samförsäljnings möjligheter i Partner Center](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities).
+Lär dig mer genom att visa vår guide för att [Hantera samförsäljnings möjligheter i Partner Center](../manage-co-sell-opportunities.md).
 
 ### <a name="questions"></a>Har du några frågor?
 

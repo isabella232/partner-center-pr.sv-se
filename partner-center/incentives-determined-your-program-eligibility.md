@@ -1,27 +1,23 @@
 ---
 title: Incitament för program berättigande
-description: Kontrol lera att incitaments programmet är berättigat så att du kan betala. Den här processen omfattar att kontrol lera berättigande i din program guide.
+description: Kontrol lera att du har uppfyllt kraven för stimulans programmet. Den här processen omfattar att kontrol lera berättigande i din program guide.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 09/11/2020
-ms.openlocfilehash: 89d523d637a5a7641e9a9a8be255a1525ca66752
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.date: 03/16/2021
+ms.openlocfilehash: 405f7603639a3d460a307fab467872550487e936
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532052"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712177"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>Ta reda på vilka incitaments program som är berättigade
 
-**Gäller för** :
-
-- Partnercenter
-
-**Lämpliga roller** :
+**Lämpliga roller**:
 
 - Global administratör
 - Incitaments administratör
@@ -40,7 +36,11 @@ Du kan hitta de särskilda behörighetskraven för ditt program i programguiden.
 
 3. Välj det program som du vill använda.
 
-4. Välj **Programguide** i fältet **Programinformation** .
+4. I fältet **status** väljer du **berättigande krav**.
+
+   :::image type="content" source="images/incentives/eligibility.png" alt-text="Skärm bild är ett exempel på incitaments krav.":::
+
+5. Du måste slutföra alla områden som är avmarkerade för att uppfylla berättiganden. Varje incitaments program har en egen uppsättning krav.
 
 ## <a name="next-steps"></a>Nästa steg
 

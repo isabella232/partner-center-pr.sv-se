@@ -7,19 +7,19 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8b45ef4767e4bde28befd35c5294ed19149bf034
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 531f28ae2bceed2d854c6fb139d0abb837a047b5
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92531949"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712247"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Lär dig mer om att läsa dagliga, klassificerade användnings avstämnings filer i Partner Center
 
 **Gäller för**
 
 - Partnercenter
-- Partner Center för Microsoft Cloud för amerikanska myndigheter
+- Välkommen till Partnercenter för Microsoft Cloud for US Government
 
 **Lämpliga roller**
 
@@ -53,7 +53,7 @@ I den här artikeln förklaras hur du läser filer med dagligt Beräknad använd
 | ProductName | Produktens namn. |
 | PublisherName | Utgivarens namn. |
 | PublisherId | Identifieraren för utgivaren i GUID-format. |
-| SubscriptionDescription | Namnet på det tjänst erbjudande som kunden har köpt, enligt definitionen i pris listan. (Den här kolumnen är ett identiskt fält för **OfferName** ). |
+| SubscriptionDescription | Namnet på det tjänst erbjudande som kunden har köpt, enligt definitionen i pris listan. (Den här kolumnen är ett identiskt fält för **OfferName**). |
 | SubscriptionId | Unikt ID för en prenumeration i Microsofts fakturerings plattform. Används inte för avstämning. *Den här identifieraren är inte samma som **prenumerations-ID: t** i partner administratörs konsolen.* |
 | ChargeStartDate | Start datum för fakturerings perioden (utom när du presenterar datum för tidigare avlastade latens användnings data från föregående fakturerings period). Tiden är alltid början på dagen, 0:00. |
 | ChargeEndDate | Slutdatum för fakturerings perioden (utom när du presenterar datum för tidigare avlastade latens användnings data från föregående fakturerings period). Tiden är alltid slutet på dagen, 23:59. |
@@ -64,7 +64,7 @@ I den här artikeln förklaras hur du läser filer med dagligt Beräknad använd
 | MeterSubCategory | Typen av Azure-tjänst, vilket kan påverka priset. |
 | MeterName | Mått enheten för mätaren som används. |
 | MeterRegion | Den här kolumnen identifierar platsen för ett Data Center i regionen för tjänster där MeterRegion är tillämpligt och ifyllt. |
-| Enhet | Enhet för resurs **namnet** . |
+| Enhet | Enhet för resurs **namnet**. |
 | ResourceLocation | Data centret där mätaren körs. |
 | ConsumedService | Den Azure-plattform som du använde. |
 | ResourceGroup | Representerar en behållare som innehåller relaterade resurser för en Azure-lösning. |
@@ -73,7 +73,7 @@ I den här artikeln förklaras hur du läser filer med dagligt Beräknad använd
 | UnitPrice | Pris per licens, som publicerat i pris listan vid inköps tillfället. Se till att det här priset överensstämmer med informationen som lagras i fakturerings systemet under avstämningen. |
 | Kvantitet | Antal licenser. Se till att det här priset överensstämmer med informationen som lagras i fakturerings systemet under avstämningen. |
 | UnitType | Den typ av enhet som mätaren debiteras i.  |
-| BillingPreTaxTotal | Totalt fakturerings belopp före skatt.<br/> _**BillingPreTaxTotal** = golv (([ @EffectiveUnitPrice ] *[ @Quantity ]* [ @PCToBCExchangeRate ]), 2)_ |
+| BillingPreTaxTotal | Totalt fakturerings belopp före skatt.<br/> _**BillingPreTaxTotal** = golv (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
 | BillingCurrency | Valutan i kundens geografiska region. |
 | PricingPreTaxTotal | Priserna, innan skatter läggs till. |
 | PricingCurrency | Valutan i prislistan. |
@@ -87,7 +87,8 @@ I den här artikeln förklaras hur du läser filer med dagligt Beräknad använd
 | EntitlementId | Representerar ID för Azure-prenumerationen. |
 | EntitlementDescription | Representerar namnet på ID för Azure-prenumerationen. |
 | PartnerEarnedCreditPercentage | Visar PartnerEarnedCredit för rad objektet. Den intjänade krediten är antingen 0 eller 15 procent |
-
+| CreditPercentage | Visar Azures förbruknings kredit. Den intjänade krediten är antingen 0 eller 100 procent. |
+| CreditType | Typ av kredit. Till exempel använder **Azure-krediten.** |
 >[!NOTE]
 >Dagligt Beräknad användning tar normalt 24 timmar att visas i Partner Center eller nås via API.
 

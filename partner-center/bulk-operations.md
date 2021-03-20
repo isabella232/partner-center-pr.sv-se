@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 8b69b430344c64f3d74e0b5058d561358bdd2b45
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.openlocfilehash: 39a1370ad4e5da9120c74b46dfb0c20cd93df4e3
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619400"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712197"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Mass åtgärder för samförsäljnings möjligheter med hjälp av CSV-filer (kommaavgränsade värden)
 
@@ -89,7 +89,7 @@ CRM-ID|Inga|Identifierare för den här aktuella hänvisningen i CRM-systemet om
 ID för marknadsförings kampanj|Inga|I det här fältet anges marknadsförings kampanjen som resulterade i den här referensen. Används vanligt vis för ROI-beräkning|BingSummer2020
 Kommentarer|Inga|Detaljerade kommentarer som visar vilka uppdateringar som är relaterade till hänvisningen|Detta är ett exempel på en anteckning
 Krävs Microsoft-hjälp?|Ja|Detta är att ange om du vill att Microsoft ska hjälpa dig att göra den här samförsäljnings förfrågan|Ja
-Vilken hjälp från Microsoft?|Väggen|Ett av sex olika sätt som Microsoft kan hjälpa dig med. Detta gäller endast om du väljer Nej för frågan "Microsoft-Hjälp krävs? " <br/> **Ange ett tal baserat på alternativen nedan** <br/><br/> **1**– eget värde för arbets belastning  <br/> **2**– teknisk arkitektur för kunder  <br/> **3**– proof of Concept/demo  <br/> **4**– offerter och licensiering  <br/> **5**– kund slutförd efter försäljning  <br/> **6**-allmänt eller annat|1|
+Vilken hjälp från Microsoft?|Väggen|Ett av sex olika sätt som Microsoft kan hjälpa dig med. Detta gäller endast om du väljer Ja för frågan "Microsoft-Hjälp krävs? " <br/> **Ange ett tal baserat på alternativen nedan** <br/><br/> **1**– eget värde för arbets belastning  <br/> **2**– teknisk arkitektur för kunder  <br/> **3**– proof of Concept/demo  <br/> **4**– offerter och licensiering  <br/> **5**– kund slutförd efter försäljning  <br/> **6**-allmänt eller annat|1|
 Dela med Microsoft Sales-teamet|Ja|Detta är att ange om du vill dela information om erbjudandet med Microsoft Sales-teamet eller inte. Detta gäller endast om du väljer Nej för frågan "Microsoft-Hjälp krävs? "|Ja
 Anteckningar till Microsoft|Inga|Alla speciella anteckningar till Microsoft om du behöver hjälp från Microsoft|Behöver hjälp med en POC för Contoso-kund
 Medgivande för att dela kund-/partner kontakt|Ja|Medgivande för att dela kund kontakt uppgifter och företagets anställda kontakt uppgifter som arbetar med erbjudandet. **Det går inte att skapa eller uppdatera avtal om du väljer Nej för den här kolumnen.** |Ja
