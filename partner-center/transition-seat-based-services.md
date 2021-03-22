@@ -9,24 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 68ed2e839a55206fe9e0692d0fbfd086e15fb0ff
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: ebcd04e5612de350e103cbfd5f8c7e272c19a785
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531737"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768694"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Flytta licensbaserade kunder från andra kanaler & partner till Cloud Solution Provider-programmet
-
-**Gäller för**
-
-- Partnercenter
 
 Om kunden vill anställa flera partner, överföra sina prenumerationer till en annan partner eller hantera sina prenumerationer någon annan stans, kan du flytta dem manuellt. Du kan också flytta kunder till Partner Center från en annan kanal.
 
 ## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>Flytta din kunds licensbaserade prenumerationer till Cloud Solution Provider-programmet (CSP)
 
-1. Välj **kunder** från menyn Partner Center och välj sedan **begär en åter försäljare relation** . För att ge stöd för flera kanal konton gör du samma sak.
+1. Välj **kunder** från menyn Partner Center och välj sedan **begär en åter försäljare relation**. För att ge stöd för flera kanal konton gör du samma sak.
 
 2. När kunden har accepterat din inbjudan kan du tillhandahålla önskade prenumerationer och licenser för kunden (till exempel samma Office 365-erbjudande som kunden köpte tidigare).
 
@@ -34,7 +30,7 @@ Om kunden vill anställa flera partner, överföra sina prenumerationer till en 
 
 
    >[!NOTE]
-   >Kunden kan vara berättigad till en kredit om de har köpts via Microsoft 365 (M365) administrations portal (till exempel via månatlig eller årlig fakturering direkt från Microsoft). Krediter för prenumerationer som köpts direkt från Microsoft hanteras av **M365 fakturerings support** . Se M365-vägledning om hur du [avbryter din M365-prenumeration](/microsoft-365/commerce/subscriptions/cancel-your-subscription). Om du har delegerad administrations behörighet för kunden kan du kontakta M65-supporten för kundens räkning. Om inte, ber du kunden att kontakta M365 support direkt för att ta reda på hur mycket kredit de är berättigade till och hur den här krediten kommer att ges till dem. Läs information om [delegerade administratörs privilegier](customers-revoke-admin-privileges.md).
+   >Kunden kan vara berättigad till en kredit om de har köpts via Microsoft 365 (M365) administrations portal (till exempel via månatlig eller årlig fakturering direkt från Microsoft). Krediter för prenumerationer som köpts direkt från Microsoft hanteras av **M365 fakturerings support**. Se M365-vägledning om hur du [avbryter din M365-prenumeration](/microsoft-365/commerce/subscriptions/cancel-your-subscription). Om du har delegerad administrations behörighet för kunden kan du kontakta M65-supporten för kundens räkning. Om inte, ber du kunden att kontakta M365 support direkt för att ta reda på hur mycket kredit de är berättigade till och hur den här krediten kommer att ges till dem. Läs information om [delegerade administratörs privilegier](customers-revoke-admin-privileges.md).
 
 
 4. Kunden fortsätter sedan att vidarebefordra med de prenumerationer som du har etablerad utan avbrott.

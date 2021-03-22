@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9622f02039360e8ab39f459c9a2fe082ec70c854
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 7d80651c4e5e4afb476dada388f23c118e0bdf25
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756749"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768711"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Felsöka konto inställningar eller problem med MPN förnyelse
 
@@ -28,20 +28,20 @@ Här följer några förslag på hur du felsöker vanliga problem som uppstår n
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>Vad händer om du migrerar från partner medlemskaps Center och du inte kan redigera företags informations fält
 
-I de fall där ditt företag redan har en närvaro i Partner Center (säg CSP-konto) – visas en skrivskyddad skärm. Den här skärmen visar all information om ditt företag som finns i Partner Center.
+I de fall där företaget redan har en närvaro i Partner Center (till exempel ett CSP-konto) – visas en skrivskyddad skärm. Den här skärmen visar all information om ditt företag som finns i Partner Center.
 
 Du kan inte ändra informationen på den här skärmen. Detta är avsiktligt och inte ett fel.
 
 Välj **Godkänn** och **Fortsätt** för att fortsätta.
 
 
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Om IT-avdelningen har inaktiverat **registrering för partner Center**.
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Om IT-avdelningen har inaktiverat **registrering för partner Center**
 
 Du ser det här meddelandet eftersom virusbaserade användare är inaktiverade, eller om du har inaktiverat virus registrering på Azure AD-klienten. Den globala administratören för ditt Azure AD-konto kan aktivera nödvändiga funktioner genom att köra följande PowerShell-kommando:
 
 **Set-MsolCompanySettings-AllowEmailVerifiedUsers $true-AllowAdHocSubscriptions $true**
 
-Mer information finns i självbetjänings [registrering](/azure/active-directory/users-groups-roles/directory-self-service-signup)
+Mer information finns i självbetjänings [registrering](/azure/active-directory/users-groups-roles/directory-self-service-signup).
 
 ## <a name="you-forgot-your-password"></a>Du har glömt ditt lösen ord
 

@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 316fee641e321311c13e29a01f2e9091c69e67a6
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 9ed503fbeee6264e1127163b7cc44b7b351d3b89
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474282"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768677"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Partner Center har två konto nivåer för MPN-partner
 
@@ -37,7 +37,7 @@ Ditt företag har två konto nivåer i Partner Center.
 
 ## <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>Kontot på den andra nivån är plats kontot som kallas för partner plats konto (PLA).
 
-Din PGA kan ha ytterligare företags platser under den. Varje plats har sitt eget MPN-ID eller partner plats konto (PLA). Du använder platsens MPN-ID för transaktions företag och registrering i incitaments program.
+Din PGA kan ha extra företags platser under den. Varje plats har sitt eget MPN-ID eller partner plats konto (PLA). Du använder platsens MPN-ID för transaktions företag och registrering i incitaments program.
 
 - Varje partner plats konto kan ha sin egen juridiska adress och primär kontakt. Platser kan också dela den juridiska adressen med det globala kontot eller med andra platser.
 - Visa listan över partners plats konton från **inställningarna**  ->  **platser**.

@@ -9,18 +9,15 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 422f2d662d8fa8d992532bf5945acdd5bf6683ca
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 3872f3398516b6a437d570c6949bef8541cdedd4
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92531052"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768813"
 ---
 # <a name="test-drive-new-partner-center-features-and-help-shape-the-future-of-partner-center"></a>Testa nya partner Center-funktioner och hjälp form till framtiden för partner Center
 
-**Gäller för**
-
-- Partnercenter
 
 ## <a name="help-shape-the-future-of-partner-center"></a>Hjälp till att forma framtiden för partner Center!
 
@@ -30,11 +27,11 @@ Vi ber dig att testa nya funktioner innan de släpps till Worldwide Partner Cent
 
 ### <a name="test-drive-a-feature"></a>Testa en funktion på enheten
 
-1. Från **konto inställningar** väljer du **Testkör nya funktioner** .
+1. Från **konto inställningar** väljer du **Testkör nya funktioner**.
 
-2. Välj **funktions versioner** . Du kommer att kunna se vilka funktioner som släpps för testning och om du är intresse rad av att delta.
+2. Välj **funktions versioner**. Du kommer att kunna se vilka funktioner som släpps för testning och om du är intresse rad av att delta.
 
-3. Om du är intresse rad av att testa en viss funktion drar du knappen till **på** .
+3. Om du är intresse rad av att testa en viss funktion drar du knappen till **på**.
 
 > [!NOTE]  
 > Endast globala administratörer och administratörs agenter kan aktivera funktions för hands versioner. Alla dina partner Center-användare kan dock se och använda förhands gransknings funktioner om de har de behörigheter som krävs.

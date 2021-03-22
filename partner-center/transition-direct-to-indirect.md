@@ -9,18 +9,18 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ceaf3fd0819937177648814a02df4a2a266ee06f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 0e7676df62aa6ea91492f9904ac810397fb0e5aa
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624314"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768762"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Övergå från en CSP-partner med direktfakturering till en indirekt CSP-återförsäljare
 
 **Lämpliga roller**
 
-- Globala administratörer
+- Global administratör
 
 >[!Note]
 >Den här artikeln är avsedd för direkta fakturerings partner som har valt att övergå till indirekta åter försäljare. Men även om du inte har gjort ett explicit beslut än att registrera sig som en indirekt åter försäljare, kommer direkta fakturerings partner som inte uppfyller de nya [kraven](direct-partner-new-requirements.md) för fakturerings programmet för CSP: n att informeras av Microsoft när deras [direkta fakturerings kapacitet är begränsad](restricted-direct-bill-capabilities.md).
@@ -127,9 +127,9 @@ Du hanterar dina kunder med direkt fakturering och dina indirekta åter försäl
 
 ### <a name="to-identify-customers-that-you-acquired-as-a-direct-bill-partner"></a>Identifiera kunder som du har köpt som en direkt fakturerings partner
 
-1. Välj **kunder**
+1. Välj **Kunder**.
 
-2. Välj en kund för att visa information om den
+2. Välj en kund om du vill visa information om dem.
 
 3. Om den här kunden är en direkt fakturerings partner kan du se alternativ för att **lägga till** eller **Visa produkter** och du kommer att se deras prenumerationer.
 
@@ -162,7 +162,7 @@ Du kan använda funktionen för Relations tillägg för åter försäljare för 
 
 - Den indirekta providern kommer inte att tillhandahållas med [delegerad administrations behörighet](customers-revoke-admin-privileges.md) till kund klienten. Om den indirekta leverantören kräver delegerad administrations behörighet måste du skicka en indirekt åter försäljare-inbjudan till kunden i stället.
 
-- När åter försäljarens relation har upprättats visas den indirekta providern som en CSP-partner till kunden på sidan partner relationer i [M365 administrations Center](https://admin.microsoft.com/AdminPortal/Home#/partners) och [Microsoft Store för företag](/microsoft-store/work-with-partner-microsoft-store-business).
+- När åter försäljarens relation har upprättats visas den indirekta providern som en CSP-partner till kunden på sidan partner relationer i [Microsoft 365 administrations Center](https://admin.microsoft.com/AdminPortal/Home#/partners) och [Microsoft Store för företag](/microsoft-store/work-with-partner-microsoft-store-business).
 
     > [!IMPORTANT]
     > För att undvika förvirring och missförstånd är du avtals enlig avtal av ditt partner avtal för att informera och erhålla medgivande från direkt fakturerings kunden innan du använder funktionen för Relations tillägg för att upprätta åter försäljarens relation mellan en befintlig direkt fakturerings kund och en indirekt leverantör.
@@ -223,9 +223,9 @@ Microsoft Cloud avtalet gäller till och med 31 januari 2020. Efter det datumet 
 
 Under KRYPTOGRAFIPROVIDERns indirekta modell har indirekta åter försäljare inga fakturerings relationer med Microsoft. I stället får indirekta åter försäljare prenumerationer för sina kunder via sina indirekta leverantörer. Vid över gång från direkt fakturerings partner till indirekt åter försäljare måste du överföra de befintliga prenumerationerna som du har som direkt fakturerings partner till din indirekta leverantör. Du kan använda funktionen för att överföra prenumerationer på Partner Center-instrumentpanelen.
 
-### <a name="pre-requisites"></a>Förutsättningar
+### <a name="prerequisites"></a>Förutsättningar
 
-- Den här funktionen är bara tillgänglig för att överföra partner som har slutfört registreringen av den indirekta åter försäljaren med sina befintliga leverantörer av direkt fakturerings partner
+- Den här funktionen är bara tillgänglig för att överföra partner som har slutfört registreringen av den indirekta åter försäljaren med sina befintliga leverantörer av direkt fakturerings partner.
 
 - Innan prenumerationer som är kopplade till en specifik kund överförs måste övergående partner flytta kunden till en indirekt Provider.
 
