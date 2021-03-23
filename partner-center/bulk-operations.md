@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 39a1370ad4e5da9120c74b46dfb0c20cd93df4e3
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: c8910b98e32abe10ae3bc86f24aae7bec2630741
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712197"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880726"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Mass åtgärder för samförsäljnings möjligheter med hjälp av CSV-filer (kommaavgränsade värden)
 
@@ -82,7 +82,7 @@ Under status för partner referral|Ja|Anger den exakta statusen för affären. A
 Microsoft referral-status|Väggen|Anger statusen för den samförsäljnings förfrågan som du skickade till Microsoft som söker hjälp. Detta är ett skrivskyddat fält. Alla ändringar som görs i fältet när data importeras ignoreras.| Väntar
 Nekad/förlorad orsak|Väggen| Du behöver bara ange den här informationen om du ändrar under status för fältet till antingen avböjt eller förlorat. Du kan ignorera den här kolumnen annars. <br/> **Ange ett tal baserat på alternativen nedan** <br/><br/> **1**– projekt budgeten är inte tillräcklig  <br/> **2**– kunden svarade inte  <br/> **3**– kunden valde en annan leverantör  <br/> **4** – kund krav har inte uppfyllts  <br/> **5** – inte en kund <br/> **6**-föreslagen tids linje var för kort <br/> **7** -rapportera som missbruk, skräp post eller nätfiske <br/> **8** – andra |6|
 Försäljningsstadie|Inga|Det här är fältet för att ange det detaljerade försäljnings steget för hänvisningen. Läs mer om försäljnings faserna [här](./manage-co-sell-opportunities.md)|40
-Uppskattat avtals värde|Ja|"Värdet för affären baserat på de första samtalen med kunden. Detta kan ändras tills avtalet når ett av Terminal-tillstånden| vunnen eller förlorad. "|12563
+Uppskattat avtals värde|Ja|Värdet för affären baserat på de första samtalen med kunden. Detta kan ändras tills avtalet når ett av de terminaler-tillstånd som **vunnits** eller **förlorats.**|12563
 Valuta|Ja|Den valuta i vilken det avtalade värdet anges. Du hittar valuta koderna [här](https://en.wikipedia.org/wiki/ISO_4217).|USD
 Beräknat stängnings datum|Ja|Det beräknade stängnings datumet för affären baserat på de första samtalen med kunden i formatet MM/DD/ÅÅÅÅ. <br/> **Datumet bör vara i UTC-tidszonen. Alla datum som visas i Partner Center-ANVÄNDARGRÄNSSNITTET baseras på lokaliserade tids zoner. Det kan finnas en skillnad på +/-en dag i användar gränssnittet för partner Center om du tittar på den referens som du angav för datumet i UTC-tidszonen.**|1/30/2020
 CRM-ID|Inga|Identifierare för den här aktuella hänvisningen i CRM-systemet om det finns någon. Det här är ett kostnads fritt text inmatnings fält.|34234324-sdfsdf-345345-SFD

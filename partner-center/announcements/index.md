@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/18/2021
-ms.openlocfilehash: 87d71434a44bcfe66f7a928291007237e9c958c6
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 03/22/2021
+ms.openlocfilehash: 669bf079b095cff1c7198aa63dc900453bbd745a
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712298"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880760"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -22,6 +22,8 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 
 |**Kategori**|**Meddelanden i mars 2021**|**Meddelande**|
 |---------|:---------|:---------|
+|Erbjudanden/marknader|[Korrigeringar gjorda till den 1 mars 2021-pris listan för beständig program vara](2021-march.md#14)|23 mars|
+|Funktioner|[SDK-version på .NET standard (v 1.17.0)](2021-march.md#13)|23 mars|
 |Funktioner|[Erbjudande om kommersiella Marketplace-erbjudanden och FY21 för berättigade erbjudanden](2021-march.md#12)|18 mars|
 |Funktioner|[Power BI Premium erbjuder namngivning och nödvändig uppdatering](2021-march.md#11)|18 mars|
 |Erbjudanden/marknader|[Pris uppdateringar i mars för Microsoft 365 F3](2021-march.md#10)|16 mars|

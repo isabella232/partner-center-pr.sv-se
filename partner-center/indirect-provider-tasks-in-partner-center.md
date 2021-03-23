@@ -8,13 +8,13 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.date: 07/01/2020
-ms.openlocfilehash: 12b902f8134a4fcf6d93439658da95fff6d80c4f
-ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
+ms.date: 03/23/2021
+ms.openlocfilehash: ece0e5f3bedf1496a252ac8e8c1545fb22ec8108
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94567057"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880777"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Samarbeta med indirekta återförsäljare i programmet Cloud Solution Provider
 
@@ -168,6 +168,10 @@ När kunderna vill köpa nya prenumerationer, uppgradera befintliga eller köpa 
 7. Välj **Skicka** när du är färdig.
 
 ## <a name="next-steps"></a>Nästa steg
+
+Hitta svar på dina frågor om Microsofts partner avtal
+
+- [Hur indirekta leverantörer kan hjälpa sina åter försäljare att anta Microsofts partner avtal – vanliga frågor och svar](mpa-indirect-provider-faq.md)
 
 Mer information om hur du hanterar kund konton och prenumerationer finns i:
 

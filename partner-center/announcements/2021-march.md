@@ -8,17 +8,105 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/18/2021
-ms.openlocfilehash: eb6f57ed9a1b3031aeaaff51260e718ce3420ae3
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 03/22/2021
+ms.openlocfilehash: a3172b78d41a966b52a824703a7f15f163467d63
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712315"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880743"
 ---
 # <a name="march-2021-announcements"></a>Meddelanden i mars 2021
 
 Den här sidan innehåller meddelandena för Microsoft Partner Center för mars 2021.
+
+________________
+## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="14"></a>Korrigeringar gjorda till den 1 mars 2021-pris listan för beständig program vara
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-03-23
+- Erbjudanden/marknader
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Indirekta leverantörer och direkta fakturerings partner som agerar med beständig program vara i Cloud Solution Provider-programmet 
+
+### <a name="details"></a>Information
+
+Pris listan för beständig program vara som publicerades den 1 mars 2021 ingår marknader som inte borde ha funnits där. Pris listan för beständig program vara uppdaterades den 17 mars 2021 med korrigeringarna. Dessa korrigeringar gäller endast:
+
+- Produkt-ID: DF77X4D43RKT 
+- Produkt namn: Windows 10 Home till Pro-uppgradering för Microsoft 365 Business
+- Borttagna eller ej stödda marknader: AE, AF, AL, AM, AO, BA, BB, BD, BH, BM, BN, BO, BR, BS, BW, BZ, CI, CL, CM, CO, CR, FV, DZ, EG, tex, ET, FJ, FO, GE, Last, GT, HN, IL, i, SWEETIQ, JM, Eva, KE, KG, KN, KW, KY, KZ, LB, LK, LY, MA, MC, MD, MN, MO, MK, NA , NI, NP, OM, PA, PE, PH, PK, PR, PY, FRÅGOR OCH SVAR, RS, RU, RW, TG, SN, SA, TH, TJ, TM, TN, TT, TZ, UA, ΜG, UY, UZ, VE, VN, JULEN, ZM, ZW
+
+Dessa ändringar gäller endast för produkten ovan. Andra produkter hade inga ändringar. 
+
+### <a name="next-steps-and-resources"></a>Nästa steg och resurser
+
+- Partner som har en Transact-beständig program vara bör ladda ned den senaste pris listan för beständig program vara.
+- Se [lands koderna för regioner](https://docs.microsoft.com/azure/marketplace/commercial-marketplace-co-sell-countries) för en egen mappning av den två bokstavs förkortningen till länder.
+________________
+## <a name="sdk-release-on-net-standard-v1170"></a><a name="13"></a> SDK-version på .NET standard (v 1.17.0)
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-03-23
+
+- Funktioner
+ 
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Direkta fakturerings partner och indirekta leverantörer som deltar i CSP-programmet som använder Partner Center .NET SDK.
+
+### <a name="details"></a>Information
+
+Från och med mars 23 2020 kan partners börja hämta versionen av [MicrosoftPartnerCenter. NETSDK (NuGet Galleri | Microsoft. Store. PartnerCenter 1.17.0)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.17.0)tillsammans med uppdaterade offentliga partners Center SDK [GitHub-exempel](https://github.com/Microsoft/Partner-Center-DotNet-Samples). Den här versionen innehåller uppdateringar av följande metoder:
+
+#### <a name="audit-updated-new-operation-types"></a>Granskning uppdaterad: nya åtgärds typer
+
+Nya [Åtgärds typer](https://docs.microsoft.com/partner-center/develop/auditing-resources) har lagts till för att veta när kunden godkände och avslutade DAP.
+
+- DapAdminRelationshipApproved
+
+- DapAdminRelationshipTerminated
+
+#### <a name="audit-updated-new-resource-and-operation-types"></a>Granskning uppdaterad: nya resurs-och åtgärds typer
+
+Nya [resurs-och åtgärds typer](https://docs.microsoft.com/partner-center/develop/auditing-resources) har lagts till för att stödja scenariot för kund katalog roller.
+
+- Ny resurs typ "CustomerDirectoryRole"
+
+- Åtgärds typer "AddUserMember" och "RemoveUserMember"
+
+#### <a name="sdk-updates-to-customer-accounts"></a>SDK-uppdateringar till kund konton
+
+- Stöd för GET/customers/{customer-tenant-id}/directSignedMicrosoftCustomerAgreementStatus
+
+- Hämta/Customers/{Customer-Tenant-ID}/Qualifications
+
+- PUBLICERA/Customers/{customer_id}/Qualifications? Code = {validationCode}
+
+#### <a name="additional-changes"></a>Ytterligare ändringar
+
+Följande ändringar införs som en del av New Commerce och är för närvarande endast tillgängliga genom inbjudan till partner som är en del av M365/D365 nya Commerce Experience Technical Preview. Partner som inte ingår i den nya Commerce Technical Preview bör inte märkas och bör vara bakåtkompatibla.
+
+- Katalog ändringar:
+
+  - Hämta/Products/{Product-ID}/SKUs/{SKU-ID}
+
+- Köp och hantera:
+  - Hämta/customers/{customerId}/subscriptions
+  - Hämta/customers/{customerId}/subscriptions/{subscriptionId}
+  - KORRIGERINGs/customers/{customerId}/subscriptions/{subscriptionId}
+  - Hämta/customers/{customerId}/subscriptions/{subscriptionId}/transitioneligibilities
+  - Hämta/customers/{customerId}/subscriptions/{subscriptionId}/transitions
+  - PUBLICERA/customers/{customerId}/subscriptions/{subscriptionId}/transitions
+
+### <a name="next-steps"></a>Nästa steg
+
+- Ladda ned den senaste versionen [MicrosoftPartnerCenter. NETSDK (NuGet Gallery | Microsoft. Store. PartnerCenter 1.17.0)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.17.0)
+- Hämta och granska [GitHub-exemplen](https://github.com/Microsoft/Partner-Center-DotNet-Samples)
 
 ________________
 ## <a name="csp-commercial-marketplace-offer-and-fy21-csp-incentives-for-eligible-offers"></a><a name="12"></a>Erbjudande om kommersiella Marketplace-erbjudanden och FY21 för berättigade erbjudanden

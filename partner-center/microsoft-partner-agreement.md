@@ -1,7 +1,7 @@
 ---
 title: Microsoft partner Agreement (MPA) för CSP
 ms.topic: how-to
-ms.date: 02/11/2021
+ms.date: 03/23/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Läs om krav för Microsoft CSP-partner för att signera och verifiera detta enhetliga, digitalt accepterade Microsoft partner Agreement (MPA).
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 829b444f1990058cd323e3effec6da6d7585155a
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 34f43895da6b25ca62e32b0d56eaa401564cca92
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281321"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880811"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Lär dig mer om Microsoft partner Agreement (MPA) för CSP-programpartner
 
@@ -110,5 +110,7 @@ Du kan också se om du har undertecknat avtalet genom att välja **avtal** från
 3. Så här verifierar du din MPA-status i Partnercenter när du har slutfört steg 1 och/eller steg 2 ovan: [Kontrollera Microsofts-partneravtalets godkännandestatus](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
  
 ## <a name="next-steps"></a>Nästa steg
+
+- [Hur indirekta leverantörer kan hjälpa sina åter försäljare att anta Microsofts partner avtal – vanliga frågor och svar](mpa-indirect-provider-faq.md)
 
 - [Gå med i Cloud Solution Provider-programmet](indirect-reseller-tasks-in-partner-center.md)
