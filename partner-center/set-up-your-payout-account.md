@@ -2,20 +2,21 @@
 title: Konfigurera utbetalnings konto & skatte former – Microsoft Commercial Marketplace
 description: Om du vill ta emot pengar från erbjudandet i den kommersiella Marketplace kan du lära dig hur du konfigurerar ditt utbetalnings konto och fyller i de nödvändiga skatte formulären.
 ms.topic: conceptual
-ms.service: marketplace
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 58a981dbed3aa9a38a29cdd2b085d661b9341232
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: c08dfb816e08efdc194dbeff8800a2cbcec2b972
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492695"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028442"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Konfigurera utbetalningskonto och deklarationsblanketter
 
-**Lämpliga roller:**
+**Lämpliga roller**
 
 - Kontoadministratör
 - Global administratör
@@ -91,7 +92,7 @@ Ett utbetalnings konto är det bank konto som vi skickar ett steg från din för
 
 3. Välj den betalnings metod som du vill konfigurera.
 
-4. Välj en befintlig betalnings profil eller klicka på **skapa en ny betalnings profil** för att skapa en ny profil för den valda betalnings metoden.
+4. Välj en befintlig betalnings profil eller Välj **skapa en ny betalnings profil** för att skapa en ny profil för den valda betalnings metoden.
 
 ### <a name="create-a-bank-based-payment-profile"></a>Skapa en bank-baserad betalnings profil
 
@@ -111,7 +112,7 @@ Om du valde att använda ett bank konto för att ta emot utbetalningar slutför 
 
 5. Du måste välja en betalnings profil för varje program som du deltar i, men du kan använda samma profil för flera program.
 
-6. Klicka på Skicka för att spara ändringarna.
+6. Välj Skicka för att spara ändringarna.
 
    > [!NOTE]
    > Det kan ta upp till 48 timmar för Microsoft att verifiera informationen i din profil. När den här processen har slutförts *verifieras statusen* **slutförd**
@@ -130,7 +131,7 @@ Du kan redigera befintliga betalnings profiler om du behöver göra ändringar e
 
 2. Under *utbetalnings-och skatte* rubriken väljer du **utbetalning och skatte profiler**.
 
-3. Dina betalnings profiler visas tillsammans med deras status. Hitta den profil som du vill redigera och klicka på **Redigera** längst till höger
+3. Dina betalnings profiler visas tillsammans med deras status. Hitta den profil som du vill redigera och välj **Redigera** längst till höger
 
 > [!IMPORTANT]
 > Att ändra ditt utbetalnings konto kan försena dina betalningar med upp till en betalnings cykel. Den här fördröjningen inträffar eftersom vi behöver verifiera konto ändringen, precis som vi gjorde när du först konfigurerade kontot för utbetalning. Du betalar fortfarande för hela beloppet när ditt konto har verifierats. alla betalningar som förfaller för den aktuella betalnings cykeln läggs till nästa. Mer information finns i [få betalt i den kommersiella Marketplace](marketplace-get-paid.md).
@@ -203,7 +204,7 @@ Om du valde att använda ett bank konto för att ta emot utbetalningar slutför 
 3. Ange mottagarens information.
 4. Gå tillbaka till sidan *profil tilldelning* och välj den valuta som du vill att vi ska använda när vi utfärdar dina utbetalningar.
 5. Du måste välja en betalnings profil för varje program som du deltar i, men du kan använda samma profil för flera program.
-6. Klicka på Skicka för att spara ändringarna.
+6. Välj Skicka för att spara ändringarna.
 
 ## <a name="next-steps"></a>Nästa steg
 
