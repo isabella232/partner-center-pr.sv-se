@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d362e78cccf1372760a38f849b0a29a0a31c1ac
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: 194ae71b026b3dc5419ad86d0988249223137462
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "92531080"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028255"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Återställa ett inaktiverat Partnercenter-konto – ta reda på varför det hände och vad du kan göra åt det
 
@@ -22,8 +22,7 @@ Den här artikeln beskriver vad du gör om ditt Partnercenter-konto har inaktive
 
 **Gäller för**
 
--  Partnercenter
--  Partner Center för Microsoft Cloud för amerikanska myndigheter
+- Partner Center för Microsoft myndighets moln
 
 **Lämpliga roller**
 
@@ -37,7 +36,7 @@ Den här artikeln beskriver vad du gör om ditt Partnercenter-konto har inaktive
 
 Microsoft kommer att pausa ett partner Center-konto av någon av följande orsaker:
 
-- När den aktuella fakturerings summan är mer än 60 dagar försenad 
+- När den aktuella fakturerings summan är mer än 60 dagar försenad
 - När betydande konto missbruk identifieras
 - När problem påverkar indirekta Provider-åtgärder och påverkar ditt konto negativt (endast indirekt åter försäljare)
 - När din konto profil är i ett fel tillstånd eller nekas
@@ -48,7 +47,7 @@ Om du vet att ditt konto är aktuellt kontrollerar du dina [partner profil](http
 
 Om du inte är säker på om ditt konto är aktuellt väljer du **fakturering** från menyn **partner Center** för att kontrol lera din faktura. På sidan fakturering visas din fakturerings historik och dina trender, den förfallna saldot för den aktuella månaden, länkar till din faktura och avstämnings fil och din senaste betalning.
 
-Om ditt konto är försenat följer du anvisningarna på din faktura för att sortera betalningen och sedan skicka in en supportbegäran för att be att ditt konto återupprättas. 
+Om ditt konto är försenat följer du anvisningarna på din faktura för att se betalning och sedan skicka en supportbegäran för att återställa ditt konto. 
 
 Kontakta [supporten](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create)om du vill ha mer hjälp med att återaktivera ditt konto.
 

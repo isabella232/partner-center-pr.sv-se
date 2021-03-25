@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6955f28c78978e1f9f9e887ef612d38d57568d77
-ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
+ms.openlocfilehash: 2cf45807c6347ad62ad343d2be8a477ab8ea9d33
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92531352"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028272"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Visa berättigande krav för planering av service engagemang
 
@@ -23,7 +23,7 @@ ms.locfileid: "92531352"
 - Global administratör
 - MPN-partner administratör
 
-Det här avsnittet hjälper dig att lära dig om de behörighets krav som du behöver uppfylla innan företaget kan registrera eller leverera Software Assurance planerings tjänster för Microsoft.
+Den här artikeln hjälper dig att lära dig om de behörighets krav som du behöver uppfylla innan företaget kan registrera eller leverera Software Assurance planerings tjänster för Microsoft.
 
 >[!NOTE]
 > Utöver de krav som ställs för ett planerings tjänst erbjudande måste du också följa flera andra steg innan du kan leverera service avtal för Software Assurance-planering. En översikt över alla steg som krävs finns i [Software Assurance Planning Services i Partner Center](software-assurance-dps.md).

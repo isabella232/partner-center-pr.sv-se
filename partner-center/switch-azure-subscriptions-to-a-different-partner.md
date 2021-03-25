@@ -9,20 +9,19 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 02/09/2021
-ms.openlocfilehash: b9058b00708e0ed745c7d6343dfd9c04382cfa9e
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: 20e00034e9c20a5d41500892df059b34a9347a63
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645664"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028306"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Läs om hur du överför en Azure-prenumeration för en kund till en annan partner
 
 **Gäller för**
 
-- Välkommen till Partnercenter för Microsoft Cloud for US Government
+- Partner Center för Microsoft myndighets moln
 - Partner Center för Microsoft Global Cloud
-- Partner i CSP-programmet (Cloud Solution Provider)
 
 I den här artikeln beskrivs hur en kund kan byta Microsoft Azure-tjänster från en leverantör av moln lösningar till en annan.
 
@@ -43,7 +42,7 @@ Följ dessa manuella steg om du vill byta en kunds Azure-tjänster eller prenume
 
    Skapa en Azure Service-biljett från Partner Center för att begära en prenumerations överföring:
 
-   1. Från menyn Partner Center väljer du **kunder**, väljer din kund i listan och väljer sedan **tjänst hantering**. 
+   1. Från menyn Partner Center väljer du **kunder**, väljer din kund i listan och väljer sedan **tjänst hantering**.
 
    2. Under avsnittet **support biljetter** väljer du List rutan **New Ticket** och väljer **Microsoft Azure**.
    
@@ -100,12 +99,12 @@ Följ dessa manuella steg om du vill byta en kunds Azure-tjänster eller prenume
      Get-AzRoleAssignment
      ```
 
-7. Ta bort föråldrade åtkomst behörigheter
+7. Ta bort föråldrade åtkomst behörigheter:
 
    - I menyn Partner Center väljer du **kunder**.
-   - Leta upp kunden i listan. Välj företagets namn genom att välja (dubbelklicka). Då öppnas sidan kund **prenumerationer** .
+   - Leta upp kunden i listan. Välj företagets namn genom att välja (dubbelklicka). Den här åtgärden öppnar sidan kund **prenumerationer** .
    - Välj **tjänst hantering** på menyn kund information.
-   - Under **Microsoft Azure** klickar du på länken för att gå till **Microsoft Azure-hanteringsportal**.
+   - Under **Microsoft Azure** väljer du länken för att gå till **Microsoft Azure-hanteringsportal**.
 
 ## <a name="next-steps"></a>Nästa steg
 
