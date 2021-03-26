@@ -9,19 +9,15 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7be44a0f67258989e4a55d6d34a93019712b341b
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: cf3514d394dc49efb967632baa277df94bbfdfbd
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92531292"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105548996"
 ---
 # <a name="reset-a-users-password-in-partner-center"></a>Återställa en användares lösen ord i Partner Center
 
-**Gäller för**
-
-- Partnercenter
- 
 **Lämpliga roller**
 
 - Global administratör
@@ -33,13 +29,13 @@ Om användarna glömmer bort sina lösen ord tilldelar du dem ett tillfälligt l
 
 ## <a name="reset-a-user-password-as-an-admin"></a>Återställa ett användar lösen ord som administratör
 
-1. Gå till **Inställningar** &gt; **användar hantering** .
+1. Gå till **Inställningar** &gt; **användar hantering**.
 
 2. Välj användaren i listan.
 
 3. Välj **Återställ lösen ord** längst ned på sidan.
 
-4. En bekräftelse skärm visas med ett tillfälligt lösen ord för den nya inloggningen. Du måste kopiera den här och skicka den till den nya användaren – den är inte tillgänglig när du har lämnat skärmen. Första gången de loggar in uppmanas de att uppdatera sitt lösen ord.
+4. En bekräftelse skärm visas med ett tillfälligt lösen ord. Kopiera det tillfälliga lösen ordet och skicka det till den nya användaren – det tillfälliga lösen ordet är inte tillgängligt när du har lämnat skärmen. När användaren först loggar in uppmanas de att uppdatera sitt lösen ord.
 
 ## <a name="next-steps"></a>Nästa steg
 

@@ -9,19 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 30670f44ddfeb2a798b191fb646ff894434537cb
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 0cf8769bcf45ba90a714231a7c9db7660efce0b0
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756441"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549064"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Rapportera ett tjänst problem för en kunds räkning, inklusive när och hur du gör det
 
 **Gäller för**
 
-- Partnercenter
-- Välkommen till Partnercenter för Microsoft Cloud for US Government
+- Partner Center för Microsoft myndighets moln
 
 **Lämpliga roller**
 
@@ -104,7 +103,7 @@ Så här hittar du ISV: s kontakt information:
 
 ## <a name="faq"></a>Vanliga frågor
 
-Se följande för vanliga frågor om tjänst begär Anden som du kan skicka till en kunds räkning. 
+Se följande vanliga frågor om tjänst begär Anden som du kan skicka till en kunds räkning. 
 
 ### <a name="what-is-included-as-part-of-the-support-entitlement"></a>Vad ingår som en del av support rättigheten?
 
@@ -120,7 +119,7 @@ Våra första svars tider beror på allvarlighets graden för den inskickade inc
 
 Första svars tider för **tekniska brotts lösa incidenter**:
 
-- Kritisk påverkan (allvarlighets grad A): 2 timmar (betydande förlust eller försämring av tjänster. Produktions tjänster är nere.)
+- Kritisk påverkan (allvarlighets grad A): två timmar (betydande förlust eller försämring av tjänster. Produktions tjänster är nere.)
 - Måttlig påverkan (allvarlighets grad B): fyra timmar (måttlig förlust eller försämring av tjänster. Produktions tjänster som påverkas delvis.)
 - Minimal påverkan (allvarlighets grad C): åtta timmar (minimal förlust eller försämring av tjänster. Tjänster som fortfarande är tillgängliga eller icke-produktions tjänster påverkas.)
 

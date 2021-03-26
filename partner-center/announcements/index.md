@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/22/2021
-ms.openlocfilehash: 669bf079b095cff1c7198aa63dc900453bbd745a
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: e2cba4baf497fb51ecd05c01f10e67632bb05c39
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880760"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549047"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -22,6 +22,8 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 
 |**Kategori**|**Meddelanden i mars 2021**|**Meddelande**|
 |---------|:---------|:---------|
+|Erbjudanden/modern arbets plats|[Microsoft-åtgärder: Introduktion till produkt lanserings kalender](2021-march.md#16)|25 mars|
+|Funktioner|[Ändringar av CSP-kundens onboarding-krav](2021-march.md#15)|25 mars|
 |Erbjudanden/marknader|[Korrigeringar gjorda till den 1 mars 2021-pris listan för beständig program vara](2021-march.md#14)|23 mars|
 |Funktioner|[SDK-version på .NET standard (v 1.17.0)](2021-march.md#13)|23 mars|
 |Funktioner|[Erbjudande om kommersiella Marketplace-erbjudanden och FY21 för berättigade erbjudanden](2021-march.md#12)|18 mars|

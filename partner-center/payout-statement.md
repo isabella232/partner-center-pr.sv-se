@@ -6,13 +6,13 @@ ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 3/2/2021
-ms.openlocfilehash: 681080b654ca1a12523a7ff63fc75a44daaab9b7
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.date: 3/22/2021
+ms.openlocfilehash: afe9793e3a1ef9c0e3e8ecba6d1c3419b7e16604
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185357"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549251"
 ---
 # <a name="payout-statements"></a>Utbetalningsinstruktioner
 
@@ -169,7 +169,7 @@ Om du vill se mer information om ett sådant väljer du **Ladda ned** överst p�
 | participantName | Partnerns namn | Alla |
 | partnerCountryCode | Plats/land/region för partnern | Alla |
 | partNumber | Är alltid tomt | Vissa stimulans program och marknads platser |
-| paymentId | Unikt ID för betalningen. Det här numret visas vanligt vis i ditt konto utdrag | Endast SAP-betalningar |
+| paymentId | Unik identifierare för att korrelera alla transaktioner i transaktions rapporten med en angiven betalning i betalnings rapporten | Alla |
 | paymentStatus | Betalningstatus | Alla |
 | paymentStatusDescription | Egen beskrivning av betalnings status | Alla |
 | productId | Unikt produkt-ID | marknads platser |
@@ -258,18 +258,18 @@ I följande tabell förklaras de olika ställnings statusarna.
 
 | Status för att tjäna | Anledning | Krävs partner åtgärd? |
 | --- | --- | --- |
-| Obearbetade | Betalningen är berättigad till betalning. Den förblir i det här läget för en kylnings period som definieras i program guiden för stimulans programmet. | Inga |
-| Planer | Betalnings order som genererats som väntande interna granskningar innan betalningen bearbetas. | Inga |
+| Obearbetade | Betalningen är berättigad till betalning. Den förblir i det här läget för en kylnings period som definieras i program guiden för stimulans programmet. | No |
+| Planer | Betalnings order som genererats som väntande interna granskningar innan betalningen bearbetas. | No |
 | Väntande moms faktura | Din moms faktura är ofullständig eller ogiltig. | Du måste uppdatera din moms faktura innan du kan betala |
 | Avvisad under granskning | Betalningen avvisades under granskningen. | Kontakta Microsoft support om du vill ha mer information |
 | Misslyckad | Betalningen misslyckades på grund av ett fel i Microsoft-systemet. | Kontakta Microsoft support om du vill ha mer information |
-| Pågår | Betalningen pågår. | Inga |
-| Felaktig betalning | Betalnings återkoppling pågår. | Inga |
-| Skickat | Betalningen har skickats till din bank. | Inga |
-| Ombearbetning | Ett Microsoft-systemfel påträffades under betalningen och ombearbetas. | Inga |
-| Reversed | Betalningen återfördes av banken och skickas igen vid nästa betalnings cykel. | Inga |
+| Pågår | Betalningen pågår. | No |
+| Felaktig betalning | Betalnings återkoppling pågår. | No |
+| Skickat | Betalningen har skickats till din bank. | No |
+| Ombearbetning | Ett Microsoft-systemfel påträffades under betalningen och ombearbetas. | No |
+| Reversed | Betalningen återfördes av banken och skickas igen vid nästa betalnings cykel. | No |
 | Avvisad moms faktura | Din moms faktura avvisades under granskningen. Alla väntande betalningar stoppas tills moms granskningen är klar. | Kontakta Microsoft support om du vill ha mer information |
-| Moms faktura under granskning | Din moms faktura granskas. Din betalning frigörs när moms fakturan har godkänts. | Inga |
+| Moms faktura under granskning | Din moms faktura granskas. Din betalning frigörs när moms fakturan har godkänts. | No |
 | Avslagen | Betalningen avvisades av din bank. | Kontakta din bank om du vill ha mer information. |
 |
 
@@ -324,7 +324,7 @@ Sammanfattningen av **export data** ger även åtkomst till historiska instrukti
 
 I följande tabell beskrivs varje kolumn i en historisk instruktion.
 
-| Fältnamn | Beskrivning |
+| Fältnamn | Description |
 | --- | --- |
 | Intäkts källa | Källan till intäkterna baserat på var transaktionen ägde rum, till exempel Microsoft Store, Windows Phone butik, Windows Store 8 eller annonsering |
 | Order-ID | Unikt order-ID. Med det här ID: t kan du identifiera inköps transaktioner med deras respektive icke-inköps transaktioner, till exempel åter betalningar eller åter betalningar. Båda kommer att ha samma order-ID. Om det finns en aktie avgift där flera betalnings metoder användes för ett enda köp kan du länka inköps transaktionerna. |

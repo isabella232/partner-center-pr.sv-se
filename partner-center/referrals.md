@@ -9,18 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf832377cdaa6a680fef3ea3c2535f20a3ad65e1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 391768b14473c3cbdaf5049007c36bbf28dd1167
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531540"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549217"
 ---
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>Låt företaget växa med hänvisningar från Microsoft
-
-**Gäller för**
-
-- Partnercenter
 
 Många kunder söker efter kvalificerade experter som hjälper dig att implementera Microsofts teknik och affärs lösningar. Här på Microsoft får vi ofta direkt förfrågningar om hjälp från kunder via vår marknadsförings verksamhet och från våra interna Microsoft-försäljnings agenter. Kunderna använder även [ **en lösnings leverantörs** upplevelse](https://www.microsoft.com/solution-providers/search) för att hitta företag som kan hjälpa dem att uppfylla sina affärs behov. 
 

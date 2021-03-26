@@ -9,21 +9,22 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e680856c0bf1f1ed4e8eb5acea3833255576f5e3
-ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
+ms.openlocfilehash: 33955d85e4b3bd713d15807911067c643d12c912
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103582044"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549183"
 ---
 # <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Partner Center-Portal begär Anden och diagnostikverktyg
 
 **Gäller för**
 
-- Partnercenter
-- Välkommen till Partnercenter för Microsoft Cloud for US Government
+- Partner Center för Microsoft myndighets moln
 
 **Lämpliga roller**
+
+- Alla partner som är intresserade av Partner Center
 
 Alla inloggade Partner Center-användare kan skapa en support förfrågan för partner. Användare kan bara se support förfrågningar som de har skickat efter inloggning till Partner Center.
 Kontakta Partner Center-supporten om du hittar problem eller behöver hjälp med fel i Partner Center-portalen. Skicka diagnostik för att göra det möjligt att korrigera problemet snabbt.
@@ -77,7 +78,7 @@ Om ett fel inträffar när du befinner dig på en partner Center-sida kan du upp
 
 Du kan förhandsgranska diagnostikinformation och sedan spara den till en fil som du kan bifoga i din support förfrågan. Så här skickar du oss informationen:
 
-3. Granska informationen i filen innan du skickar den eftersom den kan innehålla personligt identifierbar information som du kanske vill ta bort.
+3. Granska informationen i filen innan du skickar den eftersom den kan innehålla personliga data som du kanske vill ta bort.
 
     >[!NOTE]
     >I vissa webbläsare kan **sid visnings** avsnittet längst ned på sidan **förhands granskning** vara tomt. Detta är OK.

@@ -8,17 +8,139 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/22/2021
-ms.openlocfilehash: a3172b78d41a966b52a824703a7f15f163467d63
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.date: 03/24/2021
+ms.openlocfilehash: 8b9b034a7241bba5de54b28edb64c961a05a8f64
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880743"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549081"
 ---
 # <a name="march-2021-announcements"></a>Meddelanden i mars 2021
 
 Den här sidan innehåller meddelandena för Microsoft Partner Center för mars 2021.
+
+________________
+## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="16"></a>Microsoft-åtgärder: Introduktion till produkt lanserings kalender
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-03-25
+- Erbjudanden | Modern arbets plats
+
+### <a name="summary"></a>Sammanfattning
+
+Microsoft-åtgärder kommer att effektivisera kommunikationen för produkt lanseringar som svar på feedback från partnern.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Leverantörer av moln lösnings leverantörer (CSP)
+
+### <a name="details"></a>Information
+
+Microsoft strävar efter att ständigt förbättra partner upplevelserna. Vi har haft feedback från dig att du har fått för många meddelanden från Microsoft, inklusive dubbla meddelanden för produkt lansering.
+
+Som svar på din feedback har Microsoft effektiviserat beredskaps upplevelsen för produkt lanseringar för nya och befintliga erbjudanden.
+
+Nu ger vi dig en enda månatlig visning av produkt lanseringar som publiceras i resurs galleriet för drift beredskap. Den här månads [kalendern för produkt lansering](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) ersätter enskilda produkt lanserings kommunikation i resurs galleriet för drift beredskap och i Partner Center-meddelanden.
+
+Du kan också komma åt den här [produkt lanserings kalendern](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) från [Community-samlingar](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/), [kalendervyer](https://partner.microsoft.com/resources/assets#/?type=collection&search=Calendar&sort=updated)och [kryptografiproviders nyhets brev](https://partner.microsoft.com/resources/collection/csp-monthly-update#/). Vi meddelar dig när vi publicerar varje månads produkt lanserings kalender med ett meddelande i resurs galleriet för drift beredskap.
+
+Du kan fortfarande hitta information om nya och befintliga erbjudanden i pris listans för hands versions-och pris listans ändrings loggar, samt i produkt Bloggar, licens guider och produkt marknadsförings sidor.
+
+Ändringen gäller för lanseringar för följande produkter:
+
+- Lokalt Dynamics
+- Microsoft 365
+- Microsoft Dynamics 365
+- Windows
+- Server  
+- Verktyg
+- Team och Telco
+
+Vi kommer att fortsätta att skicka vissa meddelanden om produkt lanseringar som kräver information om drift beredskap.
+
+### <a name="next-steps"></a>Nästa steg
+
+Granska resurserna om det här avsnittet och dela den här informationen med lämpliga intressenter i din organisation.
+
+### <a name="questions"></a>Har du några frågor?
+
+Om du har fler frågor om dessa erbjudanden kan du kontrol lera dina relevanta Yammer-communities.
+
+________________
+## <a name="changes-to-csp-customer-onboarding-requirements"></a><a name="15"></a>Ändringar av CSP-kundens onboarding-krav
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-03-25
+- Funktioner
+
+### <a name="summary"></a>Sammanfattning
+
+Som en del av vårt åtagande att hjälpa partner och kunder att köra verksamheten baserat på förtroende kommer vi att begära ytterligare kund information, från och med den 25 mars 2021.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Cloud Solution Provider (CSP) direkta fakturerings partner och indirekta leverantörer som har nya eller befintliga kunder i de länder som anges i nästa avsnitt
+
+### <a name="details"></a>Information
+
+Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för kund validering för att agera kund prenumerationer i CSP-programmet. Den 25 mars 2021 kommer vi att introduktion till API: er och användar gränssnitts förbättringar i Partner Center som påverkar partner som uppfyller båda följande kriterier:
+
+1. Partnern har en direkt fakturerings relation med Microsoft (vilket innebär att partnern antingen är en direkt fakturerings partner eller en indirekt Provider).
+
+2. Partnern gör affärer med nya eller befintliga kunder i följande länder:
+
+    - Thailand
+    - Vietnam
+    - Turkiet
+    - Polen
+    - Sydafrika
+    - Indien
+    - Brasilien
+    - Irak
+    - Myanmar
+    - Sydsudan
+    - Saudiarabien
+    - Förenade Arabemiraten
+    - Venezuela
+
+Partner som uppfyller kriterierna måste skicka in en kunds **företags registrerings-ID** (även kallat kundens **organisations Inn**) och **telefonnummer** när de utsätter nya kunder eller modifierar befintlig kund information. Dessa partner kan också ange ett **mellannamn** för kunden (valfritt).
+
+Observera att när du lägger till ditt företags registrerings-ID bör du använda företagets skatte-ID och inte kundens personliga ID.
+
+Partner som gör affärer med nya eller befintliga kunder i följande länder har redan publicerats med en tidigare version i november 2020.
+
+- Armenien
+- Azerbajdzjan
+- Vitryssland
+- Ungern
+- Kazakstan
+- Kirgizistan
+- Moldavien
+- Ryssland
+- Tadzjikistan
+- Ukraina
+- Uzbekistan
+
+Partner med kunder i resten av världen kommer att ha möjlighet den 25 mars 2021 att ange **företagets registrerings-ID**, **telefonnummer** och **mellan namn** för kunder som valfri information.
+
+### <a name="next-steps"></a>Nästa steg
+
+- Läs igenom den tekniska dokumentationen och vanliga frågor och svar i den [dedikerade partner samlingen](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) för mer detaljerad vägledning.
+
+- Förbered för att införliva ändringarna med partner Center API och webb användar upplevelsen. API/SDK: er kommer att vara tillgängliga för testning.
+
+- Se till att skicka in ytterligare data när du registrerar nya kunder eller ändrar befintlig kund information.
+
+- Om du använder en lösning för en kontroll panels leverantör (CPV) bör du kontakta din CPV.
+
+### <a name="questions"></a>Har du några frågor?
+
+Kontakta din skatte rådgivare eller ditt lokala skatte kontor om du har frågor som rör juridisk identifierare (även kallat INN eller tenn). Microsoft kan inte ge vägledning om skatte frågor.
+
+Om du behöver stöd för dina åtgärder med Microsoft [öppnar du en tjänstbegäran](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
 
 ________________
 ## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="14"></a>Korrigeringar gjorda till den 1 mars 2021-pris listan för beständig program vara

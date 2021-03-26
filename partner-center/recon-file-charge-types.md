@@ -1,25 +1,26 @@
 ---
-title: Avstämnings fil debiterings typer
+title: Debiteringstyper i avstämningsfiler
 ms.topic: article
 ms.date: 06/05/2020
 description: Identifiera typer av avgifter (till exempel licensbaserade, användnings och engångs), krediter och rabatter i filer för partner Center-avstämning.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f65c4a6496082934e8c38fbd924b96ef969be95b
-ms.sourcegitcommit: e7931fbe7ce16a62124e00b2802520a17d7285b8
+ms.openlocfilehash: ba42ac5beb28a3cf819c54a86385fb79853cdcd0
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "92531116"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549234"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Förstå de olika debiterings typerna i filer för partner Center-avstämning
 
 **Gäller för**
 
-- Partnercenter
-- Partner Center för Microsoft Cloud för amerikanska myndigheter
+- Partner Center för Microsoft myndighets moln
 
 **Lämpliga roller**
 
@@ -27,7 +28,7 @@ ms.locfileid: "92531116"
 - Faktureringsadministratör
 - Global administratör
 
-I det här avsnittet beskrivs mappningarna mellan avsnittet faktura och associerade avgifts typer som kan finnas i avstämnings filen. Fakturan innehåller en sammanfattning av avgifter. Din avstämnings fil innehåller en detaljerad uppdelning av rad artikel transaktioner, inklusive avgifts typer. Mer information om avstämnings filer finns i [så här använder du avstämnings filer](use-the-reconciliation-files.md).
+I den här artikeln beskrivs mappningarna mellan avsnittet faktura och tillhör ande avgifts typer som kan finnas i avstämnings filen. Fakturan innehåller en sammanfattning av avgifter. Din avstämnings fil innehåller en detaljerad uppdelning av rad artikel transaktioner, inklusive avgifts typer. Mer information om avstämnings filer finns i [så här använder du avstämnings filer](use-the-reconciliation-files.md).
 
 Både [användnings avstämnings filer](usage-based-recon-files.md) och [licensbaserade avstämnings filer](license-based-recon-files.md) visar bara användnings-relaterade transaktioner och avgifter (förbrukade enheter och relaterade avgifter).
 

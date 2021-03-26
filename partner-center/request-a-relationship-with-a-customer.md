@@ -8,22 +8,18 @@ description: Be om en relation med en kund för flera partners, scenarier med fl
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 26f39943ecc06f70b0194f1e892c4cfa218f5ee9
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 2403ec6cdb2776ab04fa76a37d690a748de38714
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531748"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105548979"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Så här begär du en återförsäljarrelation från en kund i Partnercenter
 
-**Gäller för**
-
-- Partnercenter
-
 Om du vill hantera en kunds tjänst eller prenumeration åt kunden måste du bevilja administratörs behörighet för tjänsten eller prenumerationen och underteckna Microsofts kund avtal.
 
-Om du vill upprätta en åter försäljare relation med en kund och bara hantera de Azure-prenumerationer som du etablerar, behöver du inte skaffa administratörs behörighet.
+Om du vill upprätta en åter försäljare relation med en kund och bara hantera de Azure-prenumerationer som du etablerar behöver du inte skaffa administratörs behörighet.
 
 >[!NOTE] 
 >Möjligheten att inte begära behörigheter är inte tillgänglig för partner som arbetar i Microsoft Cloud för amerikanska myndigheter eller Microsoft Cloud Tyskland. Mer information finns i [kunder delegera administrations behörighet till partner](customers-revoke-admin-privileges.md).
@@ -32,9 +28,9 @@ Om du vill upprätta en åter försäljare relation med en kund och bara hantera
 
 Du kan begära en åter försäljares relation med en kund inifrån ditt land eller samma region.
 
-1. Välj **kunder** från menyn **partner Center** och välj sedan **begär en åter försäljare relation** .
+1. Välj **kunder** från menyn **partner Center** och välj sedan **begär en åter försäljare relation**.
 
-2. Om du vill begära administratörs behörighet från den här kunden väljer du **Inkludera delegerade administrations behörigheter för Azure Active Directory och Office 365** . Avmarkera det här alternativet om du vill upprätta relationen utan att begära administratörsbehörighet.
+2. Om du vill begära administratörs behörighet från den här kunden väljer du **Inkludera delegerade administrations behörigheter för Azure Active Directory och Office 365**. Avmarkera det här alternativet om du vill upprätta relationen utan att begära administratörsbehörighet.
 
 3. På nästa sida granskar du utkastet till e-postmeddelandet. Du kan öppna utkastet i ditt vanliga e-postprogram, eller så kan du kopiera meddelandet till Urklipp och klistra in det i ett e-postmeddelande.
 
@@ -65,6 +61,6 @@ Kund upplevelsen för att acceptera en inbjudan till en åter försäljare av en
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Tilldela support kontakter](assign-support-contacts.md)
+- [Tilldela supportkontakter](assign-support-contacts.md)
 
 - [Ta bort en relation med en kund](remove-a-relationship.md)

@@ -9,19 +9,14 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b09f661cfc091732dddb2d7cb79303af60d3919a
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: f58a7cc34b5b5b5755f652faf220d290ec2a355d
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756488"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549268"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Få referensinformation om Partner Center och ta reda på hur dina hänvisningar fungerar
-
-**Gäller för**
-
-- Samförsäljnings möjligheter
-- Privata erbjudanden
 
 På sidan för **samförsäljnings möjligheter** under avsnittet **analys** i hänvisningar kan du se hur dina hänvisningar fungerar. Granska dessa mått regelbundet för att identifiera trender eller områden som behöver åtgärdas och börja rikta mot dina affärs mål.
 
@@ -32,9 +27,9 @@ Om du vill se dina samordnade affärs möjligheter insikter från menyn Partner 
 
 ## <a name="apply-filters"></a>Använda filter
 
-Längst upp på sidan **samförsäljnings möjligheter** kan du välja den tids period som du vill visa data för. Standard valet är **3m** (tre månader), men du kan välja att visa data för en period på sex månader eller ett år i stället. Du kan också välja **anpassad** om du vill se data för alla referenser under en viss tids period.
+Längst upp på sidan **samförsäljnings möjligheter** kan du välja den tids period som du vill visa data för. Standard valet är **3m** (tre månader), men du kan välja att visa data i sex månader eller ett år i stället. Du kan också välja **anpassad** om du vill se data för alla referenser under en viss tids period.
 
-Du kan klicka på knappen filter för att öppna panelen där du kan filtrera alla data på den här sidan med kund namn, land, avtals typ, avtals riktning, lösnings namn och status. Nedan visas information om dessa filter.
+Du kan välja knappen **filter** för att öppna panelen där du kan filtrera alla data på den här sidan med kund namn, land, avtals typ, avtals riktning, lösnings namn och status. Nedan visas information om dessa filter.
 
 - **Kund namn**: standardvärdet är **alla**, men du kan begränsa data till en eller flera kunder som du väljer.
 - **Land**: standardvärdet är **alla**, men du kan begränsa data till ett eller flera länder för kunden som du väljer.
@@ -43,11 +38,11 @@ Du kan klicka på knappen filter för att öppna panelen där du kan filtrera al
 - **Lösnings namn**: standardvärdet är **alla**, men du kan välja att begränsa data till referenser som innehåller en eller flera lösningar som du väljer.
 - **Status**: standardvärdet är **alla**, men du kan välja att begränsa data till referenser som innehåller en eller flera hänvisnings status typer som accepterade, nekade, förfallna, förlorade och uppnådda som du väljer.
 
-Informationen i alla diagram som visas nedan visar datum intervallet och eventuella filter som du har valt, förutom vad som anges nedan. I vissa avsnitt kan du också använda ytterligare filter, till exempel filtrera till en viss lösning.
+Informationen i alla diagram som visas nedan visar datum intervallet och eventuella filter som du har valt, förutom vad som anges nedan. I vissa avsnitt kan du också använda extra filter, till exempel filtrera till en viss lösning.
 
 ## <a name="referrals-summary"></a>Sammanfattning av referenser
 
-Det här kortet visar en översikt över hur dina samförsäljnings möjligheter presterar.
+Det här kortet visar en översikt över hur dina samförsäljnings möjligheter fungerar.
 
 Diagrammet visar det totala antalet avtal, det antal som vanns, antalet förlorade och den totala avtals volymen (i USD) för den valda tids perioden.
 
@@ -63,7 +58,7 @@ Det här avsnittet visar en visuell indikator för hur dina avtal flyttas från 
 
 ## <a name="deals-by-geography"></a>Avtal per geografi
 
-I det här avsnittet visas de länder/regioner där avtal kom från, tillsammans med information för varje land/region. Det finns en tabellvy över avtals detaljerna för varje land, tillsammans med en karta över alla länder. Du kan klicka på ett särskilt land i tabellen eller klicka på vyn karta för att zooma till ett särskilt land.
+I det här avsnittet visas de länder/regioner där avtal kom från, tillsammans med information för varje land/region. Det finns en tabellvy över avtals detaljerna för varje land, tillsammans med en karta över alla länder. Du kan välja ett särskilt land i tabellen eller välja vyn mappa för att zooma till ett särskilt land.
 
 :::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="Bild som visar geo-distributionen av hänvisningar.":::
 
@@ -94,7 +89,7 @@ De tre dimensionerna som du kan välja för att jämföra data är
 - Marknaden
 - Lösningar
 
-När du har valt den här typen av avtal har du möjlighet att jämföra hänvisnings prestandan i med avseende på samförsäljnings möjligheter och privata avtal. För både marknader och lösningar kan du hämta upp till tre olika alternativ för att jämföra deras prestanda. Det första diagrammet, som är ett stapeldiagram, kommer att ha data som visas i månaden på månads trend, baserat på huvud Pivot, som är volym eller uppnådda avtals värde. Det finns också ett cirkel diagram till höger om stapeldiagrammet, som visar fördelningen i procent för samma data.
+När du väljer avtals typ kan du jämföra hänvisnings prestandan för med avseende på samförsäljnings möjligheter och privata avtal. För både marknader och lösningar kan du hämta upp till tre olika alternativ för att jämföra deras prestanda. Det första diagrammet, som är ett stapeldiagram, kommer att ha data som visas i månaden på månads trend, baserat på huvud Pivot, som är volym eller uppnådda avtals värde. Det finns också ett cirkel diagram till höger om stapeldiagrammet, som visar fördelningen i procent för samma data.
 
 :::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="Bild som visar jämförelse avsnittet.":::
 
