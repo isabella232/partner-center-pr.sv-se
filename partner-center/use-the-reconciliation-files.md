@@ -1,7 +1,7 @@
 ---
 title: Använd dina avstämnings filer
 ms.topic: article
-ms.date: 03/10/2021
+ms.date: 03/26/2021
 description: Lär dig mer om avstämnings filer i Partner Center och hur du tolkar de detaljerade vyerna för rad artikel med debiteringar för en fakturerings period.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6b9e466402d71c988729052bd72ba2346a9d977
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 4a6a1455304f12e364d71e666cbd548821f8be55
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022782"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633904"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Lär dig hur du läser rad objekt i dina avstämnings filer för partner Center
 
@@ -56,6 +56,27 @@ Följ dessa steg för att åtgärda eventuella formateringsfel i dina avstämnin
 
 Avstämnings filer kan vara mycket stora och är ibland svåra att ladda ned. Information om hur du hämtar avstämnings filer program mässigt finns i [Hämta faktura rads objekt](/partner-center/develop/get-invoiceline-items).
 
+## <a name="if-your-file-exceeds-the-row-limit-in-excel"></a>Om filen överskrider rad gränsen i Excel
+
+Om du kan ladda ned en avstämnings fil men inte öppna den i Microsoft Excel, betyder det förmodligen att filen innehåller fler rader än vad Excel tillåter. I så fall kan du använda någon av stegen nedan för att öppna filen.
+
+### <a name="open-a-recon-file-in-power-bi"></a>Öppna en rekognoseringar-fil i Power BI
+
+1. Ladda ned avstämnings filen precis som vanligt.
+2. Ladda ned, installera och öppna en instans av Power BI.
+3. På fliken Power BI **Start** väljer du **Hämta data**.
+4. I listan med **vanliga data källor** väljer du **text/CSV**.
+5. Öppna din rekognoseringar-fil när du uppmanas till det.
+
+### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Öppna en rekognoseringar-fil i en pivottabell i Excel
+
+1. Ladda ned avstämnings filen precis som vanligt.
+2. Öppna en ny fil i Microsoft Excel.
+3. På fliken **data** väljer du **Hämta data**, Välj **från fil** och välj sedan **text/CSV**.
+4. Öppna din rekognoseringar-fil när du uppmanas till det. Dina data kommer att visas.
+5. I list **Rute** menyn väljer **du Läs in till** och sedan **OK**.
+6. I dialog rutan **Importera data** väljer du **Pivot** -registerrapport för att öppna filen.
+
 ## <a name="map-taxes-or-vat"></a>Mappa skatter eller moms
 
 Så här mappar du skatter eller mervärdes skatt (moms) till din faktura:
@@ -67,7 +88,7 @@ Så här mappar du skatter eller mervärdes skatt (moms) till din faktura:
 
 Partner i den **indirekta modellen** kan använda dessa ytterligare fält i både licensbaserade och användnings bara avstämnings filer för att specificera filerna efter åter försäljare.
 
-| MPN-ID | Beskrivning |
+| MPN-ID | Description |
 | ------ | ----------- |
 | MPN-ID | Microsoft Partner Network-ID (MPN) för Cloud Solution Provider (CSP)-partner (direkt eller indirekt). |
 | [MPN-ID för åter försäljare](#reseller-mpn-id) | [MPN identifierare för åter försäljaren av posten för prenumerationen](#reseller-mpn-id). Det här fältet motsvarar det åter försäljar-ID som anges för den aktuella prenumerationen i Partner Center. Visas endast i avstämnings filer för partner i den indirekta modellen. |

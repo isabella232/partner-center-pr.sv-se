@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Läs om vilken kund fakturerings support som krävs från CSP-programpartner. Detta innefattar att äga kund fakturerings relationen och besvara fakturerings frågor.
+description: Läs om kund fakturerings support som krävs från CSP-programpartner. Detta stöd omfattar att äga kund fakturerings relationen och besvara fakturerings frågor.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 11a17550ed5c0ab2154ec0daa03818236b26e820
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: b369cd263f1852c54c260fa39860e7acafae5f90
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215942"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633666"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Ge fakturerings support för dina kunder och hjälp med att besvara sina fakturerings frågor
 
@@ -22,7 +22,7 @@ ms.locfileid: "98215942"
 **Lämpliga roller**
 
 - Global administratör
-- Användaradministratör
+- Administratör för användar hantering
 - Support agent
 - Faktureringsadministratör
 - Försäljnings agent
@@ -44,7 +44,7 @@ För att uppfylla support kravet kan partnern sälja supporten från en annan en
 >[!Note]
 >Om du inte är CSP och har frågor om kund fakturering kan du läsa den specifika portalen för lämpliga produkter eller tjänster.
 
-Partner krävs för att ta emot inkommande support förfrågningar från kunder, diagnostisera problem med det bästa av partnerns förmåga och sedan lösa problem som ligger inom omfånget för bas linje support gränserna. Om partnern inte kan lösa ett problem kan de eskalera problem till Microsoft via följande support fordon:
+Partner måste ta emot inkommande support förfrågningar från kunder, diagnostisera problem med det bästa av partnerns förmåga och sedan lösa problem som ligger inom omfånget för bas linje support gränserna. Om partnern inte kan lösa ett problem kan de eskalera problem till Microsoft via följande support fordon:
 
 - Support för **kommersiella** problem är tillgängligt för alla partner i CSP-programmet
 

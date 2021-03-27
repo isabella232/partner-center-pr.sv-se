@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e7488720bf0028dcccd86ee51b18d2a42b753e76
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: 2750e7ce06b04042c9f8953f65202a3c4ce718d0
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215840"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633853"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Ge teknisk support för att hjälpa kunder att konfigurera, hantera och använda sina prenumerationer
 
@@ -22,7 +22,7 @@ ms.locfileid: "98215840"
 **Lämpliga roller**
 
 - Global administratör
-- Användaradministratör
+- Administratör för användar hantering
 - Support agent
 - Administratörs agent
 
@@ -47,7 +47,7 @@ Partner som agerar i CSP-modellen är betrodda rådgivare till sina kunder och �
 
 För att uppfylla support kravet kan partnern sälja supporten från en annan entitet, de kan lägga ut hela eller delar av sin support struktur och/eller så kan de skapa en struktur för att ge stöd direkt.  Partnern kan debiteras för hela eller delar av supporten som tillhandahålls för kunderna. Partnern bör tydliggör till sina kunder, vilket ger support för att tillhandahålla, service timmar och kontakt metod samt prissättningen (om du debiteras för support). 
 
-Partner krävs för att ta emot inkommande support förfrågningar från kunder, diagnostisera problem med det bästa av partnerns förmåga och sedan lösa problem som ligger inom omfånget för bas linje support gränserna. Om partnern inte kan lösa ett problem kan de eskalera problem till Microsoft via följande support fordon:
+Partner måste ta emot inkommande support förfrågningar från kunder, diagnostisera problem med det bästa av partnerns förmåga och sedan lösa problem som ligger inom omfånget för bas linje support gränserna. Om partnern inte kan lösa ett problem kan de eskalera problem till Microsoft via följande support fordon:
 
 - Support för **kommersiella** problem är tillgängligt för alla partner i CSP-programmet
 

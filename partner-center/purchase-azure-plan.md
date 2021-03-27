@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 04d47cef596b2c0a0ae13ff3f087d4b1b5f0437c
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: 7645495e481010a92cc4f9cd95bf26f5e3783b70
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215908"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633836"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Köp Azure-planen för kunder & få till gång till de senaste Azure-tjänsterna enligt priser enligt principen betala per användning
 
 **Lämpliga roller**
 - Global administratör
-- Användaradministratör
+- Administratör för användar hantering
 - Försäljnings agent
 
 När du köper en Azure-plan för dina kunder enligt Microsofts kund avtal har du till gång till den fullständiga katalogen med de senaste Azure-tjänsterna enligt priser enligt principen betala per användning. CSP-partner kommer nu att kunna komma åt alla Azure-tjänster när de blir allmänt tillgängliga. En partner kan ha flera Azure-prenumerationer under en Azure-plan. 
@@ -79,7 +79,7 @@ Azure-reservationer måste associeras med en aktiv Azure-plan. Välj den Azure-p
 >Om kunden inte redan har en aktiv Azure-plan väljer du Azure för att lägga till en nu. Mer information finns i [köpa Azure-reservationer](azure-reservations-buying.md#purchase-azure-reservations).
 
 >[!Note]
->En reservations omfattning kan bara anges som **delad**, för närvarande i Partner Center. Om du vill välja en enskild prenumerations omfattning eller uppdatera från delad till en enda prenumeration går du till **Microsoft Azure hanterings Portal** med hjälp av följande instruktioner. 
+>En reservations omfattning kan bara anges som **delad**, för närvarande i Partner Center. Om du vill välja en enskild prenumerations omfattning eller uppdatera från delad till en enskild prenumeration går du till **Microsoft Azure hanterings Portal** med hjälp av följande instruktioner. 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="Inställning av delade omfångs reservationer":::
 

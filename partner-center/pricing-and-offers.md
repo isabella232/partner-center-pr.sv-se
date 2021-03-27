@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 086f5423d748ca2a84062577cd934987decc88f8
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 8aeb47f6968e364eecb05efd2c0d4a1b3e1ba267
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281288"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633768"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Priser och erbjudanden för Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure med mera
 
@@ -22,7 +22,7 @@ ms.locfileid: "100281288"
 **Lämpliga roller**
 
 - Global administratör
-- Användaradministratör
+- Administratör för användar hantering
 - Administratörs agent
 - MPN-partner administratör
 - Försäljnings agent
@@ -30,7 +30,7 @@ ms.locfileid: "100281288"
 
 Om du vill se de senaste program och erbjudanden för Cloud solution providers från partner portalen går du till **sälja > priser och erbjudanden**. Du hittar separata pris listor för de olika typerna av produkter som är tillgängliga. Följande pris listor finns på sidan **priser och erbjudanden** :
 
-- **Licensbaserade tjänster** innehåller pris information för Office 365, Enterprise Mobility och Security E3 samt och Dynamics 365. Licensbaserade prissättnings avsnitt innehåller aktuell och för hands versions prissättning samt matrisen för erbjudande listan. Pris listor inkluderar List pris och uppskattade detaljhandelspriser (ERP) för erbjudanden i alla valutor som stöds. Matrisen med erbjudande listan innehåller marknads tillgänglighet och annan viktig information om erbjudandena. De här filerna uppdateras den första dagen i varje månad.
+- **Licensbaserade tjänster** omfattar pris information för Office 365, Enterprise Mobility och Security E3, samt Dynamics 365. Licensbaserade prissättnings avsnitt innehåller aktuell och för hands versions prissättning samt matrisen för erbjudande listan. Pris listor inkluderar List pris och uppskattade detaljhandelspriser (ERP) för erbjudanden i alla valutor som stöds. Matrisen med erbjudande listan innehåller marknads tillgänglighet och annan viktig information om erbjudandena. De här filerna uppdateras den första dagen i varje månad.
 - **Användnings tjänster** innehåller pris information för Microsoft Azure och Visual Studio. Du kan också använda [Azure-tjänsterna i pris Kalkylatorn för CSP](https://azure.microsoft.com/pricing/calculator/). Den användnings hämtningen innehåller både CSP-pris listorna för alla valutor som stöds och de delade tjänsterna i ERP. De här filerna uppdateras den första dagen i varje månad.
 - **Microsoft Azure reserverade instanser** innehåller pris information för alla valutor som stöds för reserverade Azure-instanser. Pris hämtningen omfattar även priset för delade tjänster i ERP. De här filerna uppdateras den första dagen i varje månad.
 - **Program varu prenumerationer** innehåller priser för termbaserade program varu prenumerationer för alla valutor som stöds. Pris filen innehåller alla valutor som stöds med list pris-och MSRP. De här filerna uppdateras den första dagen i varje månad.
@@ -95,7 +95,7 @@ Partner marginaler, skillnaden mellan list priset och de uppskattade inköps pri
 
 ## <a name="add-on-offer-types"></a>Erbjudande typer för tillägg
 
-Licensbaserade tjänster kan förvärvas antingen som bas erbjudanden eller-tillägg. Endast bas erbjudanden är synliga och köpbara via partner Center-katalogen. Tillägg måste användas när du har köpt bas erbjudandet. Den licensbaserade pris listans kolumn för **sekundär licens typ** innehåller information om varje erbjudande och dess typ. Bas erbjudanden har **icke-speciella** värden i kolumnen pris lista för sekundär licens typ och kan köpas i katalogen. Det går inte att köpa de sekundära licens typs värdena för **tillägget** i katalogen. Så här köper du de här tilläggen:
+Licensbaserade tjänster kan förvärvas antingen som bas erbjudanden eller-tillägg. Endast bas erbjudanden är synliga och köpbara via partner Center-katalogen. Du måste lägga till tillägg när du har köpt bas erbjudandet. Den licensbaserade pris listans kolumn för **sekundär licens typ** innehåller information om varje erbjudande och dess typ. Bas erbjudanden har **icke-speciella** värden i kolumnen pris lista för sekundär licens typ och kan köpas i katalogen. Det går inte att köpa de sekundära licens typs värdena för **tillägget** i katalogen. Så här köper du de här tilläggen:
 
 1. I matrisen med erbjudande listan kan du se en lista över erbjudande-ID: n som behöver köpas innan du kan köpa ett tillägg.
 2. Köp bas erbjudandet från katalogen
@@ -143,7 +143,7 @@ Alla priser i pris listorna för partner Center CSP är skatt inklusive. Mer inf
 
 ### <a name="36-month-offers"></a>36 månads erbjudanden
 
-Det finns cirka 50 Dynamics-erbjudanden som har tre års villkor. Dessa identifieras av **(36 Mo)** i rubriken för erbjudandena. Dessa erbjudanden liknar de årliga period erbjudandena. Den enda skillnaden är runt deras villkor. Dessa erbjudanden har tre års period, vilket innebär att prenumerationerna förnyas automatiskt efter tre år i stället för ett. Nedan visas en sammanfattning av hur dessa erbjudanden fungerar:
+Det finns cirka 50 Dynamics-erbjudanden som har tre års villkor. Dessa identifieras av **(36 Mo)** i rubriken för erbjudandena. Dessa erbjudanden liknar de årliga period erbjudandena. Den enda skillnaden är runt deras villkor. Dessa erbjudanden har tre års villkor så att prenumerationerna förnyas automatiskt efter tre år i stället för ett. Nedan visas en sammanfattning av hur dessa erbjudanden fungerar:
 
 - Villkoren är 36 månader, prenumerationer förnyas automatiskt efter tre år
 - Partner kan avbryta eller ändra antalet licenser under prenumerationens villkor
@@ -162,8 +162,8 @@ Microsoft 365 a1-bas erbjudandet har sex års period.  Office 365 a1-tilläggen 
 
 Nedan visas en sammanfattning av hur dessa erbjudanden fungerar:
 
-- Perioden är i 72 månader eller 6 år
-- Prenumerationen förnyas inte och upphör att gälla efter 6 år
+- Perioden är i 72 månader eller sex år
+- Prenumerationen förnyas inte och upphör att gälla efter sex år
 - Fakturerings frekvensen för erbjudandet visas som årlig, men partnern faktureras direkt på den första fakturan efter att prenumerationen har förvärv ATS
 - Prenumerationer för a1 72-månads erbjudanden är låsta efter köpet och kan inte annulleras och det går inte att lägga till licens antalet i prenumerationen efter det första köpet
 - Den här prenumerationen kan inte avbrytas och kan inte återbetalas.

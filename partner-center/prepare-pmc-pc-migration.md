@@ -9,18 +9,19 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: be4250864bd07e555b0eb2079c28f3dfb4920805
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: b267f89ec1c7b27e87eaaf3d7b594ebbd0fd6942
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531600"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633887"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Förbered dig för flytt från Partner medlemskap Center (PMC) till Partner Center
 
 **Lämpliga roller**
+
 - Global administratör
-- Användaradministratör
+- Administratör för användar hantering
 - Försäljnings agent
 - Administratörs agent
 
@@ -120,7 +121,7 @@ Gäst användare kan tilldelas användnings prenumerationer av Visual Studio av 
 
 ### <a name="how-should-we-manage-our-mcp-associations-and-our-partner-university-access"></a>Hur ska vi hantera våra MCP-associationer och vår partner University-åtkomst?
 
-Det finns inga ändringar i MCP-associationerna som flyttas från PMC. Alla nya nya medarbetare efter att du har flyttat till Partner Center måste dock vara kopplade till Partner Center. Alla dina partner University-behörigheter för befintliga användare är kvar men eventuella nya medarbetare bör gå till [utbildnings centret](https://partner.microsoft.com/training) för information om hur du får åtkomst till partner University.
+Det finns inga ändringar i MCP-associationerna som flyttas från PMC. Alla nya medarbetare efter att du har flyttat till Partner Center måste dock vara kopplade till Partner Center. Alla dina partner University-behörigheter för befintliga användare är kvar men eventuella nya medarbetare bör gå till [utbildnings centret](https://partner.microsoft.com/training) för information om hur du får åtkomst till partner University.
 
 ### <a name="how-do-i-view-mcp-information-once-i-move-to-partner-center"></a>Hur gör jag för att Visa MCP-information när jag flyttar till Partner Center?
 
@@ -158,7 +159,7 @@ Företaget kan skapa så många affärs profiler som du behöver för att helt k
 
 ### <a name="how-will-referrals-be-assigned-what-changes-can-i-expect-for-example-if-i-have-a-global-company-in-one-market-and-locations-in-other-markets-how-will-referrals-be-assigned"></a>Hur kommer hänvisningarna att tilldelas, vilka ändringar kan jag förväntar mig? Om jag till exempel har ett globalt företag på en marknad och platser på andra marknader, hur kommer hänvisningarna att tilldelas?
 
-Hänvisningar tilldelas baserat på de Sök parametrar som kunden definierar. Oavsett om du har en plats eller många, och om kunderna anger en önskad plats och du har ett företag där de uppfyller de andra parametrarna, kommer hänvisningen att gå till den platsen.
+Hänvisningar tilldelas baserat på de Sök parametrar som kunden definierar. Oavsett om du har en plats eller många, och om kunden anger en önskad plats och du har ett företag där de uppfyller de andra parametrarna, kommer hänvisningen att gå till den platsen.
 
 ### <a name="i-am-migrating-to-partner-center-from-within-russia-i-get-an-error-message-about-web-direct-how-do-i-continue-with-the-migration"></a>Jag migrerar till Partner Center i Ryssland. Jag får ett fel meddelande om webb Direct. Hur gör jag för att fortsätta med migreringen?
 

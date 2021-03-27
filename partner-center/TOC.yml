@@ -167,13 +167,9 @@
     - name: Instruktioner för CSP-auktorisering för konsolidering av klientorganisationer
       href: csp-regional-authorization-tenant-consolidation.md
       displayName: 'regio, region, csp'
-    - name: Uppdateringsmetod för att bekräfta godkännande av Microsoft-kundavtalet
-      href: confirm-consent.md
-    - name: Bekräfta godkännande av Microsoft-kundavtalet
+    - name: Bekräfta kund godkännande av Microsofts kund avtal
       href: confirm-customer-agreement.md
-      displayName: csp
-    - name: När du ska intyga godkännande av kundavtalet för en kunds räkning
-      href: attest-acceptance-customer-agreement.md
+      displayName: 'csp, agreement'
     - name: Ansök om att sälja i nationella moln
       href: csp-national-clouds-overview.md
       items:
