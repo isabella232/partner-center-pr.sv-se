@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a6a1455304f12e364d71e666cbd548821f8be55
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: aefd5258c778fd8a7b92bfe49f245bf818497fb8
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633904"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730099"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Lär dig hur du läser rad objekt i dina avstämnings filer för partner Center
 
@@ -77,6 +77,15 @@ Om du kan ladda ned en avstämnings fil men inte öppna den i Microsoft Excel, b
 5. I list **Rute** menyn väljer **du Läs in till** och sedan **OK**.
 6. I dialog rutan **Importera data** väljer du **Pivot** -registerrapport för att öppna filen.
 
+## <a name="negative-amount-displayed"></a>Negativt belopp visas
+
+Du kan se ett negativt belopp i avstämnings filen. Detta beror troligen på någon av följande saker:
+
+- Du har nyligen avbrutit eller minskat antalet licenser
+- Du har fått kredit för antingen ett service licens avtal (SLA) eller för Azure-förbrukning
+
+Om du vill ha mer information om den här transaktionen granskar du ett attribut för debiterings typ i avstämnings filen.
+
 ## <a name="map-taxes-or-vat"></a>Mappa skatter eller moms
 
 Så här mappar du skatter eller mervärdes skatt (moms) till din faktura:
@@ -88,7 +97,7 @@ Så här mappar du skatter eller mervärdes skatt (moms) till din faktura:
 
 Partner i den **indirekta modellen** kan använda dessa ytterligare fält i både licensbaserade och användnings bara avstämnings filer för att specificera filerna efter åter försäljare.
 
-| MPN-ID | Description |
+| MPN-ID | Beskrivning |
 | ------ | ----------- |
 | MPN-ID | Microsoft Partner Network-ID (MPN) för Cloud Solution Provider (CSP)-partner (direkt eller indirekt). |
 | [MPN-ID för åter försäljare](#reseller-mpn-id) | [MPN identifierare för åter försäljaren av posten för prenumerationen](#reseller-mpn-id). Det här fältet motsvarar det åter försäljar-ID som anges för den aktuella prenumerationen i Partner Center. Visas endast i avstämnings filer för partner i den indirekta modellen. |

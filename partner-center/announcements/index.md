@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/22/2021
-ms.openlocfilehash: e2cba4baf497fb51ecd05c01f10e67632bb05c39
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 0020a43bd17e42bdfc13ab6745a65f63637c702b
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549047"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730069"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -22,6 +22,7 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 
 |**Kategori**|**Meddelanden i mars 2021**|**Meddelande**|
 |---------|:---------|:---------|
+|Erbjudanden/modern arbets plats|[Ny upplevelse för Exchange administrations Center (UK)](2021-march.md#17)|Den 29 mars|
 |Erbjudanden/modern arbets plats|[Microsoft-åtgärder: Introduktion till produkt lanserings kalender](2021-march.md#16)|25 mars|
 |Funktioner|[Ändringar av CSP-kundens onboarding-krav](2021-march.md#15)|25 mars|
 |Erbjudanden/marknader|[Korrigeringar gjorda till den 1 mars 2021-pris listan för beständig program vara](2021-march.md#14)|23 mars|

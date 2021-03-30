@@ -1,7 +1,7 @@
 ---
 title: Indikatorer för partner bidrag – CBA
 ms.topic: article
-ms.date: 03/11/2021
+ms.date: 03/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lär dig mer om sju partner bidrags indikatorer (PCI) som visar partner hur man uppnår en silver eller guld Business Applications kompetens.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9a70d723c3b12bfcf279f63da3ab22f8a8d1601
-ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
+ms.openlocfilehash: 8c050a14e258675369d8ff847c806192f44c7509
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103193655"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730271"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Använd partner bidrags indikatorer för att uppnå moln Business Applications kompetens
 
@@ -25,6 +25,8 @@ ms.locfileid: "103193655"
 - Kontoadministratör
 
 Den här artikeln beskriver sju viktiga partner bidrags indikatorer (PCI) som används för att bedöma en partners framsteg mot att uppnå eller behålla en silver eller guld Business Applications kompetens.
+
+Du kan se din PCI-förloppet på instrument panelen för partner bidrag. Data uppdateras den 20 varje månad, med data från föregående månad. Till exempel kommer februari data att publiceras den 20 mars.
 
 > [!NOTE]
 > Lär dig hur partner kan använda en annan uppsättning indikator mått för partner bidrag för att uppnå kompetensen Silver eller Gold små och Midmarket moln lösningar via alternativet för moln Business Applications SMB. Mer information finns i [använda partner bidrags indikatorer för den små och Midmarket-kompetensen för moln lösningar](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md). Du kan också [läsa mer](https://partner.microsoft.com/membership/competencies) om kompetenser och deras krav.
@@ -109,6 +111,20 @@ Följande bild ger en snabb och visuell referens.
 
 Varje PCI-mått har Microsoft-uppsättnings tröskelvärden som kan tjäna ditt företags maximala poäng. Dessa tröskelvärden skiljer sig åt för kund engagemang och finans-och drift Sök vägar som används för att uppnå moln Business Applications kompetensen. Tröskelvärdena skiljer sig också åt för partner som arbetar i utvecklade marknader jämfört med partners som endast arbetar på att utveckla marknader. Den **utvecklade** eller **utvecklingen** av marknads kategoriseringen för ett land baseras på [Microsoft Partner Network definitioner](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
 
+Observera att 4 mått mäts baserat på den plats där partnern gör affärer och inte var MPN-platsen är registrerad. Det innebär att en partner som är registrerad på en utvecklings marknad, som har kunder från en utvecklad marknad, måste uppfylla PCI-poängen för utvecklade länder.
+
+Tabellen nedan visar vilken plats som gäller för mått.
+
+| Måttnamn | Location |
+|:-------|:--------|
+| Netto nya intäkter | Kund plats |
+| Netto kund Lägg till | Kund plats |
+| Funktionell konsult | Partner plats |
+| Utvecklare | Partner plats |
+| Funktionell konsult tillväxt | Partner plats |
+| MAU-tillväxt | Kund plats |
+| Nya stora distributioner | Kund plats |
+
 Poäng över varje mått beräknas för att ge en distinkt PCI-Poäng för kund engagemang och ekonomi och verksamhet. Resultatet kommer att uppdateras varje månad.
 
 Partner kan få maximalt antal poäng för ett angivet mått om de uppfyller eller överskrider tröskelvärdena som anges nedan. Partiella punkter kan intjänas för alla mått utom för en funktionell konsult-tillväxt.
@@ -160,7 +176,7 @@ En partner blir CPOR om de har upprättat en koppling till en kund på prenumera
 En partner blir DPOR om de har upprättat en koppling till en kund på prenumerations nivån inom produkten.
 
 > [!NOTE]
-> När både CPOR och DPOR finns för en bestämd kund prenumeration får CPOR kredit för relevanta PCI-mått som är kopplade till den prenumerationen. Om associationen var via OSA tar CPOR emot krediten för nya netto intäkter och netto kunden lägger till. Om kopplingen skedde via OSU tar CPOR emot krediten för nya distributioner och månatlig aktiv användar tillväxt.
+> När både CPOR och DPOR finns för en bestämd kund prenumeration får CPOR kredit för relevanta PCI-mått som är kopplade till den prenumerationen. Om associationen var via OSA (intäkts anspråk) tar CPOR emot krediten för nya netto intäkter och netto kunden lägger till. Om associationen skedde via OSU (användnings anspråk) tar CPOR emot krediten för nya distributioner och månatlig aktiv användar tillväxt. Anspråk före försäljning är inte berättigade till PCI.
 
 ## <a name="detailed-pci-metrics-definitions-for-this-competency"></a>Detaljerade PCI-mått definitioner för den här kompetensen
 
@@ -324,9 +340,10 @@ Nya stora distributioner är en [lyckad kund indikator](partner-contribution-ind
   
   (Mer information om utveckla och utveckla marknader finns i följande [Microsoft Partner Network definitioner](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).)
 
-- En klient anses ha överskridit det månatliga tröskelvärdet för aktiva användare om klienten var: 
+- En klient anses ha överskridit det månatliga tröskelvärdet för aktiva användare om klienten var:
 
-  - Under det angivna tröskelvärdet för 12 månader sedan *och*
+  - Under det angivna tröskelvärdet för 12 månader sedan **och**
+
   - Överskrids tröskelvärdet minst en gång under de efterföljande 11 månaderna.
 
 - Månatliga aktiva användare räknas på klient nivå och summeras enbart för de betalda prenumerationerna under klienten.

@@ -9,16 +9,59 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/24/2021
-ms.openlocfilehash: 8b9b034a7241bba5de54b28edb64c961a05a8f64
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: e2e40807ddeb7fc3aa0fcfb20f34eb71d0a9e118
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549081"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730100"
 ---
 # <a name="march-2021-announcements"></a>Meddelanden i mars 2021
 
 Den här sidan innehåller meddelandena för Microsoft Partner Center för mars 2021.
+
+________________
+## <a name="new-exchange-admin-center-eac-experience"></a><a name="17"></a>Ny upplevelse för Exchange administrations Center (UK)
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-03-29
+- Funktioner
+
+### <a name="summary"></a>Sammanfattning
+
+Från och med den 27 april 2021 kommer Exchange administrations Center (UK) att distribuera en ny upplevelse som förbättrar den dagliga effektiviteten för användarna.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Delegerade administratörer åtkomst till Exchange via partner Center
+
+### <a name="details"></a>Information
+
+Från och med den 27 april 2021 kommer partners som navigerar till Exchange via partner Center att omdirigeras till nya UK.
+
+Den här nya upplevelsen är för närvarande tillgänglig som en för hands version och administratörer kan aktivera den här funktionen genom att välja växla i det övre högra hörnet i den klassiska UK. De kan också navigera till den nya UKn genom att välja "Prova nu"-banderollen som visas på alla sidor.
+
+Fördelarna med nya UK är:
+
+- Ytterligare insikter, rapporter och aviserings metoder för e-postflöden – relaterade problem. 
+
+- Anpassade instrument paneler för att öka produktiviteten.
+
+För att hjälpa dig att navigera genom den nya upplevelsen är videor tillgängliga i avsnittet **utbildning &s guide** på den nya UK-upplevelsen. Du får en översikt över hur du bäst använder den nya portalen.
+
+>[!NOTE]
+>Med den här ändringen är den klassiska UK-upplevelsen inte föråldrad. Du får ett meddelande i förväg innan någon ändring implementeras.
+
+### <a name="next-steps"></a>Nästa steg
+
+- Kolla in [resurserna om det här avsnittet](https://partner.microsoft.com/resources/collection/new-exchange-admin-center-experience#/)där du kan visa skärm dum par av den nya upplevelsen.
+
+- Dela den här informationen med lämpliga intressenter i din organisation. 
+
+### <a name="questions"></a>Har du några frågor?
+
+Om du har frågor om dessa ändringar kan du kontrol lera dina relevanta Yammer-communities.
 
 ________________
 ## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="16"></a>Microsoft-åtgärder: Introduktion till produkt lanserings kalender
