@@ -1,21 +1,22 @@
 ---
 title: Få betalt i Partner Center
 description: Lär dig mer om att ta emot betalningar för intäkter som en Microsoft-partner, t. ex. via kommersiella Marketplace-erbjudanden, stimulans program och Cloud Solution Provider-program. Inkluderar utbetalnings princip, utbetalnings status och utbetalnings instruktioner.
-ms.service: marketplace
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.topic: conceptual
 ms.date: 11/25/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: fc1eea0d8a90bb2b5e11dad24a71c9c34fd1a4a0
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 94ed17106b64b078c51de351d1e44e29d3745921
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492457"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133088"
 ---
 # <a name="getting-paid-in-partner-center"></a>Få betalt i Partner Center
 
-**Lämpliga roller:**
+**Lämpliga roller**
 
 - Kontoadministratör
 - Global administratör
@@ -38,7 +39,7 @@ Innan du börjar betala första gången måste du ställa in ditt utbetalnings k
 
 ### <a name="payout-hold-status"></a>Status för utbetalning
 
-Som standard skickar vi betalningar varje månad enligt beskrivningen ovan. Du kan dock välja att ställa in dina utbetalningar för ett program som är parkerat och att Microsoft inte släpper ut dina betalningar på ditt konto. Om du väljer att spärra dina inbetalningar kommer vi att fortsätta att registrera intäkter på sidan **utbetalningar** . Vi kommer dock inte att skicka några betalningar till ditt konto förrän du tar bort spärren.
+Som standard skickar vi betalningar varje månad enligt beskrivningen ovan. Du kan dock ange dina utbetalningar för ett program som är spärrat och Microsoft kommer inte att släppa ut dina betalningar till ditt konto. Om du väljer att spärra dina inbetalningar kommer vi att fortsätta att registrera intäkter på sidan **utbetalningar** . Vi kommer dock inte att skicka några betalningar till ditt konto förrän du tar bort spärren.
 
 Om du vill sätta igång dina betalningar väljer du kugg hjuls ikonen **Inställningar** längst upp till höger och sedan **konto inställningar**. Välj **utbetalning och skatt** i den vänstra menyn och leta upp det program som du vill ha betalningar för i avsnittet **utbetalning och skatte profil tilldelning** . Markera kryss rutan **Behåll min betalning** för att hålla betalningarna för det här programmet. Du kan ändra din utbetalnings status när som helst, men ditt beslut kommer att påverka nästa månads utbetalning. Om du till exempel vill ha en utbetalning av april, se till att ställa in din utbetalnings status **till före slutet** av mars.
 

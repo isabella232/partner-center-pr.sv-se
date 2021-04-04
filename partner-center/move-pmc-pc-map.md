@@ -9,21 +9,22 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6fc3fbfbc5ebf874460fbf2f0065150089db39d
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: dae147c45aca27657f1e88b6943279f9771313d6
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92531004"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133003"
 ---
 # <a name="moving-from-partner-membership-center-pmc-to-partner-center"></a>Flytta från partner medlemskaps Center (PMC) till Partner Center
 
 **Lämpliga roller**
--    Global administratör
+
+- Global administratör
 
 Vi gör det enklare för dig att göra affärer med oss genom att introducera en enda webbplats (partner Center) som fungerar som en central punkt i ärendet. Du hittar allt du gjorde i partner Membership Center (PMC) kan utföras från din instrument panel i Partner Center. 
 
-Du kan också göra mycket mer och allt utan att lämna en webbplats. Vissa terminologier och funktioner kan se annorlunda ut. För att minimera eventuella inledande problem om var och vad saker är, se till att ta plats visning av instrument panelen.
+Du kan också göra mycket mer utan att lämna en webbplats. Vissa terminologier och funktioner kan se annorlunda ut. Om du vill veta var du kan göra vissa uppgifter och vilka funktioner som är tillgängliga, bör du ta plats visningen av din instrument panel.
 
 I den här tabellen presenteras några av skillnaderna mellan PMC-och partner Center.
 
@@ -43,14 +44,14 @@ I den här tabellen presenteras några av skillnaderna mellan PMC-och partner Ce
 
 |**PMC**   |**Partnercenter**|
 |----------------------|:-----------------------------|
-|Kan använda dina Microsoft-konto (MSA) eller personliga konto uppgifter joe@outlook.com|Du måste använda dina autentiseringsuppgifter för ditt arbets konto, ( joe@joescompany.com ). Mer information finns [i företagets arbets konto och partner Center](azure-active-directory-tenants-and-partner-center.md).|
+|Kan använda dina Microsoft-konto (MSA) eller personliga konto uppgifter joe@outlook.com|Du måste använda dina autentiseringsuppgifter för ditt arbets konto (till exempel joe@joescompany.com ). Mer information finns [i företagets arbets konto och partner Center](azure-active-directory-tenants-and-partner-center.md).|
 
 ## <a name="user-roles"></a>Användarroller
 
 |**PMC**   |**Partnercenter**|
 |----------------------|:-----------------------------|
 |Många roller i PMC används inte i Partner Center|Administratören som utför flytten till Partner Center tilldelas automatiskt administratörs rollerna MPN admin, Account admin och referral. De kan sedan tilldela andra användare till användar roller.|
-|Användare hanterades på plats nivå|Användare hanteras på företags nivå (PGA) i stället för på plats nivån. Undantaget är den stimulans administratör som fungerar på plats nivå.|
+|Användare hanterades på plats nivå|Användare hanteras på företags nivå (PGA) i stället för på plats nivån. Undantaget är stimulans administratören, som fungerar på plats nivå.|
 |   |Partner Center har två breda uppsättningar roller: de roller som administrerar Azure AD-klienten och de roller som administrerar företagets verksamhet. Organisera rollerna på det sätt som passar ditt företag. En person kan göra allt eller många personer som kan tilldelas separata roller och behörigheter. Mer information finns i [Tilldela användar roller och behörigheter](permissions-overview.md). 
 
 ## <a name="how-competencies-and-benefits-are-accounted-for"></a>Hur kompetenser och förmåner redovisas
@@ -61,14 +62,14 @@ I den här tabellen presenteras några av skillnaderna mellan PMC-och partner Ce
 |Det kan finnas ytterligare verktyg för Benefits Tool (ABTKs) tills de har dragits tillbaka i oktober 2018.|Ingen ABTKs; ett MAPS per företag; en silver kompetens per företag en guld-kompetens per företag|
 ||Så länge du inte redan har MAPS kan du köpa den. MAPS-ägarskap är inte knutna till kompetenser.  
 |Förmåner har öppnats på partner Digital Download (PDD) |Alla förmåner nås i Partner Center|
-|Kompetenser och fördelar sprids och delas upp på flera platser|Dina kunskaper och förmåner från alla dina platser samlas på företagets (PGA) nivå och kommer att behållas tills din jubileums dag. Vid detta tillfälle måste du köpa eller förnya på företags nivå. Prestanda och kunskaper, samt kompetenser, är samlade globalt|
+|Kompetenser och fördelar sprids och delas upp på flera platser|Dina kunskaper och förmåner från alla dina platser samlas på företagets (PGA) nivå och kommer att behållas tills din jubileums dag. Vid detta tillfälle måste du köpa eller förnya på företags nivå. Prestanda, kunskaper och kompetenser samlas globalt|
 |Anspråk för Software Assurance-verifikationer görs i VVR-verktyget (verifikations verifiering och inlösen)|Nu kan du komma åt och hantera Software Assurance Training-kuponger (SATV) och/eller distribuerade planerings tjänster (DPS) i Partner Center.  Det äldre VVR-verktyget tas ur drift den 1 oktober 2019.  |
 
 ## <a name="associating-mcp-ids-to-partner-center"></a>Associera MCP-ID: n till Partner Center
 
 |**PMC**   |**Partnercenter**   |
 |-------------------------|:-------------------|
-|Du kan associera samma MCP-ID till flera företag.| Endast ett MCP-ID kan associeras med ett enda partner Center-konto. Du måste skapa kopplingen manuellt. Från instrument panelen för partner Center väljer du **ditt konto** -ikonen i det högra hörnet av instrument panelen och väljer **min profil** . Under **din utbildning** kommer du att kunna associera ditt Microsoft Learning-konto och ansluta din Microsoft-konto till partner University.
+|Du kan associera samma MCP-ID till flera företag.| Endast ett MCP-ID kan associeras med ett enda partner Center-konto. Du måste skapa kopplingen manuellt. Från instrument panelen för partner Center väljer du **ditt konto** -ikonen i det högra hörnet av instrument panelen och väljer **min profil**. Under **din utbildning** kommer du att kunna associera ditt Microsoft Learning-konto och ansluta din Microsoft-konto till partner University.
 
 ## <a name="visual-studio-benefits-and-msa"></a>Visual Studio-förmåner och MSA
 
@@ -83,7 +84,7 @@ I den här tabellen presenteras några av skillnaderna mellan PMC-och partner Ce
 |**PMC**   |**Partnercenter**|
 |----------------------|:-----------------------------|
 |PDD  |Fördelar|
-|CHIP, ICP, CIRKEL | Lättnad|
+|CHIP, ICP, CIRKEL | Incitament|
 ||Referenser|
 |Partner Insights| Analys|
 |Verktyg för validering och inlösen av verifikationer| Verktyg för validering och inlösen av verifikationer|

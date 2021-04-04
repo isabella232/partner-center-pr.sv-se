@@ -1,5 +1,5 @@
 ---
-title: Hantera icke-betalning, bedrägeri eller missbruk
+title: Hantera uteblivna betalningar, bedrägeri eller missbruk
 description: Lär dig mer om de olika riskerna i onlinetransaktioner och de bästa metoderna för att hantera och minimera riskerna i Partner Center.
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,27 +9,27 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: 43a35f91be9ce656157065a3d19b3643ddeff68a
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 75881544097abdfac8d6f96bde37e9700eb28cf7
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531541"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132357"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Hantera icke-betalning, bedrägeri eller missbruk i Partnercenter
 
 Gäller för:
 
-- Partnercenter
-- Partner Center för Microsoft Cloud för amerikanska myndigheter
+- Partner Center för Microsoft myndighets moln
 
 **Lämpliga roller**
+
 - Global administratör
-- Användaradministratör
+- Administratör för användar hantering
 - Administratörs agent
 - Faktureringsadministratör
 
-Du är ekonomiskt ansvarig för bedrägliga köp av dina kunder och/eller kunders utebliven betalning av köpta tjänster. Därför *rekommenderar vi starkt att du inför kontroller av bedrägeri skydd och identifiering av risker* .
+Du är ekonomiskt ansvarig för bedrägliga köp av dina kunder och/eller kunders utebliven betalning av köpta tjänster. Därför *rekommenderar vi starkt att du inför kontroller av bedrägeri skydd och identifiering av risker*.
 
 För att undvika och/eller adressera bedräglig aktivitet eller missbruk är det viktigt att förstå potentiella risker och utveckla principer och metoder som kan minska exponeringen.
 

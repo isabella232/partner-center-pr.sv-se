@@ -9,23 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a51504a5e560f8a8041c448c3e5d9e7f0cfdae07
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 53f4a16ac5d0f33fd534d7fd9a13eaf5a25cf3ea
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531536"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132340"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Ge kunderna 30 dagars kostnads fria utvärderings versioner av Microsofts produkter
 
-**Gäller för**
-
-- Partnercenter
-
 **Lämpliga roller**
--   Global administratör 
--   Användaradministratör
--   Försäljnings agent
+
+- Global administratör
+- Administratör för användar hantering
+- Försäljnings agent
 
 Ett bra sätt att lansera kunder på nya Microsoft-produkter är att erbjuda 30 dagars kostnads fria utvärderings versioner. Du kan registrera dig för test versioner i katalogen precis som många andra onlinetjänster. Alla partner kan delta.
 
@@ -54,12 +51,12 @@ Utvärderings licenser ska tilldelas till användare på samma sätt som betalda
 Få en utvärderings version av din kund i Partner Center:
 
 1. Gå till **katalogen** från **Sälj** Partner Center. 
-2. I katalogen, från **fakturerings frekvens** , klickar du på **utvärderings erbjudande** . Detta gör att endast kostnads fria utvärderings versioner visas och inaktiverar andra erbjudanden som inte är kostnads fria. Test versioner visas på fliken **försök** i katalogen.
-3. Välj den kostnads fria utvärderings version som du vill erbjuda och välj sedan **Skicka** . Alla utvärderingar är i trettio dagar under vilka du inte debiteras. Du kan också konvertera den till en betald prenumeration när som helst under utvärderings perioden.
+2. I katalogen, från **fakturerings frekvens**, väljer du **utvärderings erbjudande**. Detta gör att endast kostnads fria utvärderings versioner visas och inaktiverar andra erbjudanden som inte är kostnads fria. Test versioner visas på fliken **försök** i katalogen.
+3. Välj den kostnads fria utvärderings version som du vill erbjuda och välj sedan **Skicka**. Alla utvärderingar är i 30 dagar under vilka du inte debiteras. Du kan också konvertera den till en betald prenumeration när som helst under utvärderings perioden.
 
 ## <a name="converting-trials-to-paid-subscriptions"></a>Konvertera utvärderingar till betalda prenumerationer
 
-En kostnads fri utvärderings version konverteras inte automatiskt till en betald prenumeration. Efter trettio dagar måste en kostnads fri utvärderings version konverteras till en betald prenumeration eller [upphör att gälla](#expiring-offers). Det går inte att utöka kostnads fria utvärderings versioner.
+En kostnads fri utvärderings version konverteras inte automatiskt till en betald prenumeration. Efter 30 dagar måste en kostnads fri utvärderings version konverteras till en betald prenumeration eller [upphör att gälla](#expiring-offers). Det går inte att utöka kostnads fria utvärderings versioner.
 
 Du måste konvertera utvärderings versionen till en betald prenumeration själv. Du kan göra detta [med hjälp av Partner Center](#convert-trials-using-partner-center) eller [via API: er för partner Center](#convert-trials-using-apis).
 
@@ -71,16 +68,16 @@ Du måste konvertera utvärderings versionen till en betald prenumeration själv
 Du kan konvertera utvärderingar till betalda prenumerationer med hjälp av Partner Center:
 
 1. Gå till sidan för kundens prenumeration och välj den kostnads fria utvärderings versionen.
-2. Välj **konvertera utvärderings version till betald prenumeration** .
-3. Ange önskad licens antal och fakturerings frekvens och välj **Använd** .
-4. Faktureringen för den betalda prenumerationen börjar på konverterings datumet och prenumerationen förnyar autoprenumerationen 12 månader från konverterings datumet. 
+2. Välj **konvertera utvärderings version till betald prenumeration**.
+3. Ange önskad licens antal och fakturerings frekvens och välj **Använd**.
+4. Faktureringen för den betalda prenumerationen börjar på konverterings datumet och prenumerationen förnyas automatiskt 12 månader från konverterings datumet. 
 
 ### <a name="convert-trials-using-apis"></a>Konvertera försök med API: er
 
 Du kan behöva ändra dina API: er för att passa konverteringen av en kostnads fri utvärderings version till en betald prenumeration. Mer information finns i följande dokumentation om utvecklare:
 
-- [Konvertera en utvärderings prenumeration till betald](/partner-center/develop/convert-a-trial-subscription-to-paid)
-- [Hämta en lista över erbjudanden för utvärderings konvertering](/partner-center/develop/get-a-list-of-trial-conversion-offers)
+- [Konvertera en utvärderingsprenumeration till betald](/partner-center/develop/convert-a-trial-subscription-to-paid)
+- [Hämta en lista över erbjudanden för utvärderingskonvertering](/partner-center/develop/get-a-list-of-trial-conversion-offers)
 
 ### <a name="trials-without-conversions"></a>Försök utan konverteringar
 
@@ -88,7 +85,7 @@ Alla utvärderings versioner kan inte konverteras till betalda prenumerationer. 
 
 |**Utvärdering**   |**Kompatibla små företags erbjudanden**   |**Kompatibla företags erbjudanden**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Utvärderings version av Microsoft Teams kommersiella moln (användaren har initierats)   |Microsoft 365 Business Basic, Microsoft 365 Business Standard, Microsoft 365 Business Premium   | F3 (tidigare F1), Office 365 för Enterprise (E1, E3 och E5), M365 F1/F3, M365 Enterprise (E3)   |
+|Utvärderings version av Microsoft Teams kommersiella moln (användaren har initierats)   |Microsoft 365 Business Basic, Microsoft 365 Business Standard, Microsoft 365 Business Premium   | F3 (tidigare F1), Office 365 för Enterprise (E1, E3 och E5), Microsoft 365 F1/F3, Microsoft 365 Enterprise (E3)   |
 
 >[!NOTE]
 >Erbjudandena ovan har liknande Service planer med liknande funktioner, men det kan finnas vissa skillnader mellan erbjudandena.
@@ -107,13 +104,13 @@ När en utvärderings version har upphört att gälla kan en kund som försöker
 
 Kostnads fria utvärderings versioner kan användas för både månatliga och årligen fakturerade prenumerationer. Du kan välja fakturerings frekvensen när du konverterar utvärderings versionen till en betald prenumeration.
 
-Prenumerationens start datum baseras på konverterings datumet. Om den kostnads fria utvärderings versionen konverteras till ett betalt erbjudande med årlig fakturering, kommer prenumerationens förnyelse datum att vara tolv månader från konverterings datumet. Om den kostnads fria utvärderings versionen konverteras till ett betalt erbjudande med månatlig fakturering, kommer prenumerationens förnyelse datum att vara tolv månader från fakturerings datumet efter konverterings datumet.
+Prenumerationens start datum baseras på konverterings datumet. Om den kostnads fria utvärderings versionen konverteras till ett betalt erbjudande med årlig fakturering, blir prenumerationens förnyelse datum 12 månader från konverterings datumet. Om den kostnads fria utvärderings versionen konverteras till ett betalt erbjudande med månatlig fakturering, kommer prenumerationens förnyelse datum att vara tolv månader från fakturerings datumet efter konverterings datumet.
 
 ### <a name="invoices"></a>Fakturor
 
 Inga kostnads fria utvärderings versioner visas i din faktura eller licensbaserade avstämnings fil. Kostnads fria utvärderings versioner visas bara på din faktura och licensbaserade avstämnings fil när du har konverterat en kostnads fri utvärderings version till en betald prenumeration. Den konverterade prenumerationen kommer att visas på samma sätt som en ny prenumeration.
 
-### <a name="incentives"></a>Lättnad
+### <a name="incentives"></a>Incitament
 
 Kostnads fria utvärderings versioner har ingen påverkan på incitament.
 

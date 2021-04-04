@@ -9,19 +9,20 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ea26eb7755aebea67bad1b4bc97e9662c2054591
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 6adf7039f6ad389f61c9cd0b5e4ad9454db06a5b
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712910"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133037"
 ---
 # <a name="technical-support-benefits"></a>Tekniska support förmåner
 
 **Lämpliga roller**
--   Global administratör 
--   MPN-partner administratör 
--   Administratörs agent 
+
+- Global administratör
+- MPN-partner administratör
+- Administratörs agent
 
 ## <a name="overview"></a>Översikt
 
@@ -38,11 +39,11 @@ Så här visar du och aktiverar dina tekniska förmåner i Partner Center:
 2. Expandera förmåner i den vänstra navigerings menyn och välj **tekniska fördelar**. Sidan tekniska förmåner visas med en lista över tekniska support förmåner som är tillgängliga för dina guld-, silver-eller Microsoft Action Pack-medlemskap. 
 
     > [!NOTE]
-    >Om du inte har några aktiva medlemskap visas meddelandet "det verkar som om du inte har några förmåner än". Om ditt företag har aktiva medlemskaps erbjudanden men du inte kan se dem kan du ha loggat in med fel konto. Kontrol lera ditt konto genom att klicka på **konto** ikonen längst upp till höger på sidan och klicka på **Logga in med ett annat konto** (om det behövs).
+    >Om du inte har några aktiva medlemskap visas meddelandet "det verkar som om du inte har några förmåner än". Om ditt företag har aktiva medlemskaps erbjudanden men du inte kan se dem kan du ha loggat in med fel konto. Om du vill kontrol lera ditt konto väljer du **konto** ikonen längst upp till höger på sidan och väljer **Logga in med ett annat konto** (om det behövs).
 
 3. Du måste aktivera förmånen för att komma igång med en produkt support för Microsoft eller en signatur. Åtkomst-ID och kontrakt-ID visas efter lyckad aktivering. 
 
-    -   Aktivera förmånen genom att klicka på knappen Aktivera. Det användar konto som används för aktivering kräver administratörs rollerna global administratör eller MPN-partner. Tillåt några dagar för att bearbeta din aktiveringsbegäran. 
+    -   Aktivera förmånen genom att välja knappen Aktivera. Det användar konto som används för aktivering kräver administratörs rollerna global administratör eller MPN-partner. Tillåt några dagar för att bearbeta din aktiveringsbegäran. 
 
     - Du kan använda Microsoft produkt support och Signature Product Support (guld-och Silver medlemmar) när åtkomst-ID och kontrakt-ID visas. 
 
@@ -73,7 +74,7 @@ Du behöver åtkomst-ID och kontrakt-ID första gången du använder förmånen.
 
 Alla användar konton (AAD eller MSA) kan använda teknisk support för lokala produkter om de har åtkomst-ID och kontrakt-ID
 
-Klicka på [Support för företag](https://support.serviceshub.microsoft.com/supportforbusiness/create) om du vill skapa en supportbegäran för en lokal produkt.
+Välj [Support för företag](https://support.serviceshub.microsoft.com/supportforbusiness/create) om du vill skapa en supportbegäran för en lokal produkt.
 
 ## <a name="signature-cloud-support-cloud-only"></a>Signature Cloud Support (endast moln)
 
@@ -83,13 +84,13 @@ Du behöver åtkomst-ID och kontrakt-ID första gången du använder förmånen.
 
 CSP-partner som skapar Azure-begäranden kan använda support avtalet "Cloud Solution Provider" utan att lägga till ett support avtal.
 
-Användare med **Administratörs agent** rollen kan välja [kunder](https://partner.microsoft.com/commerce/customers/list) under CSP i den vänstra navigerings menyn, välja **tjänst hantering** och klicka på **ny begäran**.  När du väljer relevant arbets belastning öppnas den arbets belastnings bara portalen och du lägger till ett Support kontrakt och skapar en begäran.
+Användare med **Administratörs agent** rollen kan välja [kunder](https://partner.microsoft.com/commerce/customers/list) under CSP i den vänstra navigerings menyn, välja **tjänst hantering** och välja **ny begäran**.  När du väljer relevant arbets belastning öppnas den arbets belastnings bara portalen och du lägger till ett Support kontrakt och skapar en begäran.
 
 ## <a name="partner-support-plans"></a>Partner support planer
 
 Du kan betala support från Microsoft som omfattar teknisk support och ett utbud av extra tjänst alternativ. 
 
-Du kan [jämföra support](https://partner.microsoft.com/support/partnersupport) avtalen för partner eller se nedan för partner planer:
+Du kan [jämföra support](https://partner.microsoft.com/support/partnersupport) avtalen för partner eller se nedan för partner-/regionsspecifika planer:
 
 - [Premier Support för partner](https://partner.microsoft.com/support/microsoft-services-premier-support) – den högsta nivån av teknisk support från Microsoft
 - [Avancerad support för partner](https://partner.microsoft.com/support/advanced-cloud-support) – endast moln produkter

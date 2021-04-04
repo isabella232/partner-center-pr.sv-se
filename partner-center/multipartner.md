@@ -9,24 +9,23 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 728a1b7ec4d6b51174f1d3f6fcf21a6385fc4e7a
-ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
+ms.openlocfilehash: c2f8e4d3351c9905d7066534946b24bd9a8c8cd4
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "96322125"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132272"
 ---
 # <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>Stöd för flera partner för kunder som vill arbeta med fler än en partner
 
 **Gäller för**
 
-- Partnercenter
-- Välkommen till Partnercenter för Microsoft Cloud for US Government
+- Partner Center för Microsoft myndighets moln
 
 **Lämpliga roller**
 
 - Global administratör
-- Användaradministratör
+- Administratör för användar hantering
 - Försäljnings agent
 
 Partner centrets funktioner för flera partners stöder scenarier när en kund vill arbeta med fler än en partner. En kund kan till exempel vilja anlita en partner för sina kunskaper i Office 365, men anlita en annan partner som specialiserar sig på Microsoft Azure.

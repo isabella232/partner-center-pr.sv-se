@@ -9,18 +9,19 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 42c7af80ab49cee6e7043587207e553d2ffaa3ac
-ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
+ms.openlocfilehash: 5b9a0ea8c4eefee1a87b9ccd626b1f2864234521
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/21/2020
-ms.locfileid: "92532184"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132323"
 ---
 # <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>Rapporten Microsoft Learn Analytics visar status för elever i företaget
 
 **Lämpliga roller**
--   Global administratör
--   MPN-partner administratör
+
+- Global administratör
+- MPN-partner administratör
 
 Microsoft Learn rapporten innehåller information om de lärare i företaget, inklusive moduler som har slutförts och de inlärnings vägar som de är på. Rapporten visar status för varje enskild persons elev. Den globala administratören och MPN-administratören för ditt företag kan visa data.
 
@@ -31,19 +32,19 @@ Microsoft Learn rapporten innehåller information om de lärare i företaget, in
 De här diagrammen sammanfattar antal och månatliga ackumulerade trender för inutbildade individer, komplettering av moduler och utbildnings vägar.
 
 
-**Antal utbildade individer** : ett antal distinkta elever som har slutfört minst en modul under det valda datum intervallet 
+**Antal utbildade individer**: ett antal distinkta elever som har slutfört minst en modul under det valda datum intervallet 
 
-**Utbildade Individer Trends mini-diagram** : månads Visa månad ackumulerat antal aktiva elever 
+**Utbildade Individer Trends mini-diagram**: månads Visa månad ackumulerat antal aktiva elever 
 
-**Antal slutförda moduler** : antal moduler som slutförs av lärarna i partner företaget under det valda datum intervallet.
+**Antal slutförda moduler**: antal moduler som slutförs av lärarna i partner företaget under det valda datum intervallet.
 Om t. ex. "modul 1" har slutförts av 15 individer och "modul 2" har slutförts av samma 15 individer, är antalet slutförda moduler 30. Utgångs datumet för modulen ska ligga inom det valda datum intervallet.
 
-**Modulen för att slutföra modulen trend diagrammet** : månads Visa månad ackumulerat antal slutförda moduler 
+**Modulen för att slutföra modulen trend diagrammet**: månads Visa månad ackumulerat antal slutförda moduler 
 
 **Antal slutförda inlärnings Sök** vägar: antal inlärnings Sök vägar för utbildning i partner företaget under det valda datum intervallet.
 Exempel: om utbildnings Sök vägen "sökväg 1" har slutförts av 20 individer och inlärnings Sök vägen "sökväg 2" har slutförts av samma 20 individer, är antalet slutförda utbildnings vägar 40. Utbildnings Sök vägens avslutnings datum ska ligga inom det valda datum intervallet.
 
-**Trend linje för inlärnings Sök väg Trends mini-diagram** : månads Visa månad, totalt antal av utbildnings Sök vägens slut för ande 
+**Trend linje för inlärnings Sök väg Trends mini-diagram**: månads Visa månad, totalt antal av utbildnings Sök vägens slut för ande 
 
 ### <a name="trained-individuals-monthly-trend"></a>Intränade individers månatliga trend
 
@@ -73,7 +74,7 @@ Dessa data är trenden för utbildnings vägar som slutförs av ditt företags a
 
 **Fliken modul**
 
-Den här fliken innehåller en uppdelning av moduler som har slutförts i företaget med de 5 främsta modulernas namn. produkten som modulen är associerad med. och användar rollen som är relevant för modulen.  
+På den här fliken finns en uppdelning av moduler som har slutförts i företaget med de fem främsta modulernas namn. produkten som modulen är associerad med. och användar rollen som är relevant för modulen.  
 
 - Avslutnings diagram för modulen: nedbrytning av modulen slutförs (antal som visas i avsnittet Sammanfattning) av modulnamnet.
 
@@ -89,7 +90,7 @@ Talet som visas i diagrammets mitt är antalet distinkta produkter för att slut
 
 **Fliken utbildnings Sök väg**   
 
-På den här fliken finns en uppdelning av utbildnings Sök vägar som har slutförts i företaget med de 5 främsta modulernas namn. produkten som utbildnings vägen är mappad till; och rollen som är relevant för den här utbildnings vägen.  
+På den här fliken finns en uppdelning av utbildnings vägar som har slutförts i företaget med de fem främsta modulnamnna. produkten som utbildnings vägen är mappad till; och rollen som är relevant för den här utbildnings vägen.  
 
 - Slut för ande av utbildnings vägar ring diagram: nedbrytning av utbildnings Sök vägens slut för ande (antal som visas i avsnittet Sammanfattning) efter namn.
 
@@ -125,13 +126,13 @@ Den globala administratören och MPN-administratören kan visa rapporten.
 
 När den globala administratören lägger till en ny användare måste användaren gå till **min profil** för att associera sitt Microsoft Learn-konto.
 
-- Välj **din konto** -ikon i det högra hörnet på instrument panelen och välj **min profil** . 
+- Välj **din konto** -ikon i det högra hörnet på instrument panelen och välj **min profil**. 
 
 -  Under **din utbildning** kommer användaren att kunna associera sitt Microsoft Learning-konto och ansluta sina Microsoft-konto till partner University.
 
 3. Kan jag se alla företagets användare som loggar in på Microsoft Learn med ett MSA-konto i den här rapporten?
 
-För närvarande är det bästa sättet att göra detta är att lägga till dessa användare till din Azure AD-klient och lägga till dem i Partner Center så att de kan associera sina Microsoft Learn-konton via **min profil** i Partner Center. 
+För närvarande är det bästa sättet att göra detta är att lägga till dessa användare i Azure AD-klienten och sedan lägga till dem i Partner Center så att de kan associera sina Microsoft Learn-konton via **min profil** i Partner Center. 
 
 För användare som bara använder sitt MSA-konto för utbildning, kommer Microsoft Learns teamet att göra det möjligt för dem att associera sitt arbets-e-postmeddelande till sin Microsoft Learn-profil. 
 

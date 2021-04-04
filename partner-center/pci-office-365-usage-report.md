@@ -8,16 +8,17 @@ description: Se vad du gör bra och var du kan förbättra användningen av Offi
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 727c370fbb787f1a63f50b28b4ef6ae703b7f1a3
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: d1710215f5fd1d7058232c81ae68ae9cd1ba5240
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98147171"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086319"
 ---
 # <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>Office 365-användnings rapport som är tillgänglig från Partner Center Insights-instrumentpanelen
 
 **Lämpliga roller**
+
 - Global administratör
 - Administratörs agent
 - Rapport visnings program
@@ -54,7 +55,7 @@ Avsnittet Sammanfattning visar en ögonblicks bild av de viktigaste indikatorern
 
 ## <a name="office-365-usage-by-geography"></a>Office 365-användning efter geografi
 
-**Office 365-användningen per geografi** visar distributionen av månatliga aktiva användare (MAU) och betalda tillgängliga enheter (Pau) av kund land. MAU refererar till antalet licenser som använts under föregående månad och PAU refererar till antalet betalda platser som säljs eller hanteras under den valda tids ramen. Ljusare färger på kartan representerar lägre värden, medan mörkare färger representerar högre värden. Du kan söka efter och välja ett land i rutnätet. Du kan också zooma in för att se en närmare titt.
+**Office 365-användningen per geografi** visar distributionen av månatliga aktiva användare (MAU) och betalda tillgängliga enheter (Pau) av kund land. MAU refererar till antalet licenser som använts under föregående månad och PAU refererar till antalet betalda platser som säljs eller hanteras under den valda tids perioden. Ljusare färger på kartan representerar lägre värden, medan mörkare färger representerar högre värden. Du kan söka efter och välja ett land i rutnätet. Du kan också zooma in för att se en närmare titt.
 
 Tabellen **land/region** visar det totala antalet länder/regioner där Azures användnings händelser genereras.
 

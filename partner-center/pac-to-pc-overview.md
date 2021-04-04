@@ -9,22 +9,19 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db35696483c8a1e67f173ec7953cfa33a428a022
-ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
+ms.openlocfilehash: c266d3e271cd114bd771f17280e1390fb5f765d3
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97720840"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086506"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>Partner administrations centret flyttas till partner centret
 
-**Gäller för**
-
-- Partnercenter
-
 **Lämpliga roller**
+
 - Global administratör
-- Användaradministratör
+- Administratör för användar hantering
 - Administratörs agent
 - Försäljnings agent
 

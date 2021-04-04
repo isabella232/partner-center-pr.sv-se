@@ -9,18 +9,18 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a60d83a79151d90ff98ead8d5be00c259a9cf4b3
-ms.sourcegitcommit: 673c467aa8ef4e02ff24fbc3e7d4f904316141e4
+ms.openlocfilehash: 40b2867695a7692cb863a00062101c2b5521c657
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104924273"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132408"
 ---
 # <a name="how-to-create-a-partner-logo-certified-letter-or-award-using-logo-builder"></a>Så här skapar du en partner logo typ, certifierad brev eller Award med hjälp av logo Builder
 
 **Lämpliga roller**
 
-- Alla partner Center-användare som är intresserade av att lära sig mer om logo Builder
+- Alla partner som är intresserade av att lära sig mer om logo Builder
 
 Värdet för att uppnå en silver-eller guld kompetens är möjligheten att du ska kunna särskilja kunderna. En logo typ som du kan använda på ditt försäljnings-och marknadsförings material och din företags profil i Partner Center för att presentera kompetensen eller kompetenserna som du har uppnått ingår i dina kompetens förmåner. 
 
@@ -28,7 +28,7 @@ Om du har accepterat till Azure expert MSP-programmet har du fått en partner av
 
 ## <a name="what-is-available-in-logo-builder"></a>Vad är tillgängligt i logo Builder
 
-Vad som är tillgängligt för ditt företag i logo Builder anpassas till ditt Microsoft Partner Network-medlemskap (MPN). Det tar upp till 24 timmar för en ändring i ditt MPN-medlemskap, till exempel att en ny kompetens uppnås.  
+De logo typer som är tillgängliga för ditt företag i logo Builder är anpassade till ditt Microsoft Partner Network-medlemskap (MPN). Det tar upp till 24 timmar för en ändring i ditt MPN-medlemskap, till exempel att en ny kompetens uppnås.
 
 De till gångar du kan skapa i logo Builder innehåller följande:
 

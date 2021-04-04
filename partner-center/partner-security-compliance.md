@@ -9,20 +9,20 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3f521e05fbf0b3a6c209a84ed9ab53d2502960a5
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: d56b9675ea405b29190f68420037ea9a92f3d831
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624161"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086557"
 ---
 # <a name="security-requirements-status-report"></a>Status rapport för säkerhets krav
 
 **Lämpliga roller**
-- Leverantörer på kontroll panelen
-- Globala administratörer
+- CPV-administratör
+- Global administratör
 
-I den här artikeln beskrivs status rapporten säkerhets krav i Partner Center. Den här rapporten ger Mät värden som följer [kraven på partner säkerhet](partner-security-requirements.md) för Multi-Factor Authentication (MFA) för användare i din partner klient.
+I den här artikeln beskrivs status rapporten säkerhets krav i Partner Center. Den här rapporten ger statistik för efterlevnad av [partner säkerhets krav](partner-security-requirements.md) för Multi-Factor Authentication (MFA) för användare i din partner klient.
 
 Om du vill få åtkomst till den här rapporten i [partner Center](https://partner.microsoft.com/dashboard)går du till **Inställningar**  >  **konto inställningar**  >  **säkerhets krav status**. Rapporten uppdateras dagligen och visar inloggnings data från de senaste sju dagarna.
 
@@ -53,7 +53,7 @@ Måttet **via partner Center-portalen** är relaterat till aktiviteter i Partner
 - Den andra dagen är John inloggad på instrument panelen i Partner Center utan MFA-verifiering och gjort fem åtgärder.
 - Den tredje dagen är Jane inloggad på instrument panelen i Partner Center med MFA-verifiering och gjort två åtgärder.
 - Inga åtgärder har gjorts av någon av agenterna under de återstående fyra dagarna.
-- Med de 10 åtgärder som gjorts i 7-dagars perioden har två gjorts av användaren med MFA-verifiering. Måttet visar därför 20%.
+- Med de 10 åtgärder som gjorts i fönstret sju dagar har två gjorts av användaren med MFA-verifiering. Måttet visar därför 20%.
 
 Använd fil **Portal förfrågningar utan MFA** för att förstå vilken användare som är inloggad på Partner Center-instrumentpanelen utan att ha MFA-verifiering och tid för senaste besök i rapporterings fönstret.
 

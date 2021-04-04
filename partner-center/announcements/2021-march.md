@@ -8,17 +8,130 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/24/2021
-ms.openlocfilehash: e2e40807ddeb7fc3aa0fcfb20f34eb71d0a9e118
-ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
+ms.date: 04/02/2021
+ms.openlocfilehash: 5b8c5f52207a7b9a49d07885a36b61486be45497
+ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "105730100"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "106280878"
 ---
 # <a name="march-2021-announcements"></a>Meddelanden i mars 2021
 
 Den här sidan innehåller meddelandena för Microsoft Partner Center för mars 2021.
+
+________________
+## <a name="updated-csp-customer-address-validation-api-now-available-for-testing"></a><a name="18"></a>Uppdaterat API för kund adress validering för CSP nu tillgängligt för testning
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-03-31
+- Funktioner
+
+### <a name="summary"></a>Sammanfattning
+
+Som en del av vårt åtagande att hjälpa partner och kunder att köra verksamheten baserat på förtroende kommer vi att bjuda in partners över hela världen för att testa ändringarna i ValidateAddress-API: et.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Alla leverantörer av CSP-direkt fakturering och indirekta leverantörer som skapar nya eller uppdaterade befintliga kund adress uppgifter
+
+### <a name="details"></a>Information
+
+Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för att skicka in kund adress validering för att agera kund prenumerationer i CSP-programmet. Idag den 31 mars 2021 har vi infört ändringar i ValidateAddress-API: et som vi vill bjuda in dig att testa, innan du fortsätter med ändringarna i juni 2021. 
+
+Observera att dessa ändringar påverkar endast ValidateAddress-API: et. CreateCustomer-och UpdateBillingProfile-API: er påverkas inte.
+
+Svaret returnerar ett av följande status meddelanden:
+
+| Status | Beskrivning | Antal föreslagna adresser som returneras |
+|----------|-------------|-------------------|
+| VerifiedShippable | Adressen verifieras och kan skickas till. | Enkel |
+| Kontrol | Adressen har verifierats. | Enkel |
+| InteractionRequired | Föreslagen adress (er) har ändrats avsevärt och användar bekräftelsen behöver bekräftas. | Enkel |
+| StreetPartial | Den gatuadress som anges i adressen är delvis och behöver mer information. | Flera – högst tre|
+| PremisesPartial | De lokala anläggningarna (build Number, Suite Number osv.) är delvis och behöver mer information. | Flera – högst tre |
+| Flera | Det finns flera fält som är partiella i adressen (kan även inkludera StreetPartial och PremisesPartial). | Flera – högst tre |
+| Inget | Adressen är felaktig. | Inget |
+| NotValidated | Adressen kunde inte skickas genom validerings processen.  | Inget |
+
+När en adress har skickats för att verifieras via ValidateAddress-API: et kommer följande svars schema att returneras:
+
+```csharp
+
+// <summary>
+/// Object represents the address validation response.
+/// </summary>
+
+public class AddressValidationResponse
+{
+   /// <summary>
+   /// Gets or sets the original address
+   /// </summary>
+   /// <value>
+   /// Original Address
+   /// </value>
+   public Address OriginalAddress { get; set; }
+
+   /// <summary>
+   /// Gets or sets the suggested addresses
+   /// </summary>
+   /// <value>
+   /// Suggested Addresses
+   /// </value>
+   public List<Address> SuggestedAddresses { get; set; }
+
+   /// <summary>
+   /// Gets or sets the validation status
+   /// </summary>
+   /// <value>
+   /// Status
+   /// </value>
+   public string Status { get; set; }
+
+   /// <summary>
+   /// Gets or sets the validation message
+   /// </summary>
+   /// <value>
+   /// Validation Message
+   /// </value>
+   public string ValidationMessage { get; set; }
+   ```
+
+Ta en titt på det här exempel svaret. Observera att för oss kommer svaret att returnera ytterligare fyrsiffrigt suffix för post nummer linjen om du bara anger fem siffror för post numret.
+
+```csharp
+// IAggregatePartner partnerOperations;
+// string customerId;
+// s{
+"suggested_address": {
+    "Country": "US",
+    "region": "WA",
+    "city": "Redmond",
+    "address_line1": "1 Microsoft Way",
+    "postal_Code": "98052-8300"
+},
+"original_address": {
+    "Country": "US",
+    "region": "WA",
+    "city": "Redmond",
+    "address_line1": "1 Micro Way",
+    "postal_Code": "98052"
+},
+"status":  "InteractionRequired",
+"validation_message": "Address field invalid for property: ‘Street’"
+}
+```
+
+### <a name="next-steps"></a>Nästa steg
+
+- Dela ditt sandbox-klient-ID med vår ämnes expert (SMF), Ali khaki, som ska ingå i test flygningen så att du kan börja förbereda för uppdateringen.
+
+- Om du använder en lösning för en kontroll panels leverantör (CPV) bör du kontakta din CPV.
+
+### <a name="questions"></a>Har du några frågor?
+
+Om du har några frågor eller behöver support för dina åtgärder med Microsoft, kontakta din partner support Yammer-grupp.
 
 ________________
 ## <a name="new-exchange-admin-center-eac-experience"></a><a name="17"></a>Ny upplevelse för Exchange administrations Center (UK)

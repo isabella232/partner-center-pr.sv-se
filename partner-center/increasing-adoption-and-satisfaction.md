@@ -9,24 +9,19 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 494c9d7ff8e726e8bd183456926761c3cebf10ee
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 7a42381e6c7f3b33acae887f78fb87b5d309279e
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691375"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178943"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Använd mått i Partner Center för att öka implementeringen och nöjdheten
-
-**Gäller för**
-
-- Partnercenter
-- Cloud Solution Provider-program
 
 **Lämpliga roller**
 
 - Global administratör
-- Användaradministratör
+- Administratör för användar hantering
 - Administratörs agent
 - Försäljnings agent
 
@@ -61,7 +56,7 @@ Du kan hitta licens-och användar data för en enskild kund eller över hela din
 
 Terminologi:
 
-- **Berättigande** = en licens som användaren har rätt att använda (den är inte inaktive rad för bedrägerier eller utebliven betalning, den har inte uppgraderats till en annan licens, den har inte avbrutits av användaren osv.)
+- **Berättigande** = en licens som användaren har rätt att använda (den är inte inaktive rad för bedrägerier eller utebliven betalning, den har inte uppgraderats till en annan licens, den har inte avbrutits av användaren eller något annat problem).
 
 - **Active** = om den prenumererade användaren har använt rättigheten för en aktivitet under de senaste 28 kalender dagarna.
 
@@ -69,7 +64,7 @@ Terminologi:
 
 - **Användning%** = aktiva användare/totalt antal användare
 
-   Ibland är användningen% inplattad eller större än 100%. Detta kan bero på flera orsaker:
+   Ibland är användningen% inplattad eller större än 100%. Det här problemet kan bero på flera orsaker:
 
   - Om kunden hade omsättningen för den anställda och licensen överfördes till en ny användare.
 
@@ -77,7 +72,7 @@ Terminologi:
 
   - Om kunden har en utvärderings prenumeration räknas aktiviteten men prenumerationen räknas inte in i det totala antalet rättigheter.
 
-  - Om vissa kunder använder Yammer betydligt mer än vad de har rätt till av sin licens kan de skeva data dramatiskt.
+  - Om vissa kunder använder Yammer betydligt mer än vad de har rätt till av sin licens, kan det skeva data dramatiskt.
 
 ## <a name="next-steps"></a>Nästa steg
 

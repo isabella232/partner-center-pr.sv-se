@@ -9,22 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d441d121c28c2762d1f1c71d6f6a1e81d089f99c
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: e83c06c11638bdde508fd27904038bcb6d8c9e9c
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92531005"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132646"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Migrera Dynamics 365 Business Edition-erbjudanden till nyare versioner
 
-**Gäller för**
-
-- Partnercenter
-
 **Lämpliga roller**
+
 - Global administratör
-- Användaradministratör
+- Administratör för användar hantering
 - Administratörs agent
 - Försäljnings agent
 
@@ -55,20 +52,20 @@ Dynamics 365 Business Edition-kunder är berättigade till rabatterad över gån
 ## <a name="purchase-the-new-plan-for-your-customer"></a>Köp det nya avtalet för kunden
 
 1. Välj **kunder** i det vänstra navigerings fältet och välj sedan den kund som du vill flytta till den nya prenumerationen.
-2. Välj **Lägg till prenumeration** .
-3. Välj den prenumeration som du vill köpa från katalogen (i det här fallet ett av alternativen ovan), ange antalet licenser och välj sedan **Skicka** . 
+2. Välj **Lägg till prenumeration**.
+3. Välj den prenumeration som du vill köpa från katalogen (i det här fallet ett av alternativen ovan), ange antalet licenser och välj sedan **Skicka**. 
 
 Din kund kommer nu att ha både den gamla och den nya prenumerationen. Nästa steg är att omtilldela licenser till kundens användare.
 
 1. Välj **kunder** i det vänstra navigerings fältet och välj sedan den kund som du flyttar.
-2. Välj **användare och licenser** .
-3. Om du vill tilldela en licens till en användare igen väljer du användaren och väljer sedan **Hantera licenser** . 
+2. Välj **användare och licenser**.
+3. Om du vill tilldela en licens till en användare igen väljer du användaren och väljer sedan **Hantera licenser**. 
 4. På sidan **Hantera licenser** avmarkerar du kryss rutan Dynamics 365 för sälj-/kund engagemang från Basic-licens (kvalificerad erbjudande) och väljer en ny service plan för den prenumeration som kunden flyttar till. 
-5. Välj **Skicka** . Du kommer att göra detta för varje användare som behöver den nya licensen. 
+5. Välj **Skicka**. Du kommer att göra detta för varje användare som behöver den nya licensen. 
 
 När du har flyttat licenserna till den nya prenumerationen kan du avbryta den gamla prenumerationen. 
 
 1. Välj **kunder** i det vänstra navigerings fältet och välj sedan den kund som du flyttar.
-2. På sidan prenumerations information anger du att den gamla prenumerationen har **pausats** och väljer **Skicka** .
+2. På sidan prenumerations information anger du att den gamla prenumerationen har **pausats** och väljer **Skicka**.
 
 Den gamla prenumerationen är nu inaktive rad och den nya prenumerationen är aktiv. Den inaktiverade prenumerationen kommer att avetableras automatiskt efter 120 dagar. Kunden debiteras inga ytterligare kostnader för den gamla prenumerationen.

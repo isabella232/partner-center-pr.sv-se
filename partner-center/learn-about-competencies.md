@@ -9,18 +9,19 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10d2cbf848cb2c9a5d9aafb98f1ab6869f417182
-ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
+ms.openlocfilehash: a642c9fc8b920668bd6883c01573e5fbf5523e53
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98912547"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178875"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Särskilja din verksamhet genom att uppnå Microsoft-kompetenser
 
 **Lämpliga roller**
+
 - Global administratör
-- Användaradministratör
+- Administratör för användar hantering
 
 Demonstrera dina beprövade kunskaper i att leverera kvalitets lösningar i ett eller flera specialiserade företags områden. Microsoft-kompetenser är utformade för att förbereda dig för att möta kundernas behov och för att hjälpa dig att locka nya kunder som letar efter Microsoft-certifierade lösnings leverantörer. Gå med på Elite-nivån hos Microsoft-partner och ta del av dina kollegor.
 

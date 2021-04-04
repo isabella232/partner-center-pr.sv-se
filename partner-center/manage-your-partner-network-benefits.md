@@ -9,23 +9,19 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c42533027977853322a0bf815e3b1d387d8ad88
-ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
+ms.openlocfilehash: 8fc5566b780c10a953cfb322ad13ce7373dc87cd
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "94932852"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133105"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Hantera dina Microsoft Partner Network medlemskaps förmåner och erbjudanden i Partner Center
-
-**Gäller för**
-
-- Partnercenter
 
 **Lämpliga roller**
 
 - Global administratör
-- Användaradministratör
+- Administratör för användar hantering
 - Administratörs agent
 - MPN-partner administratör
 
@@ -41,11 +37,11 @@ När du har köpt ett medlemskaps förmåns paket måste du hämta program varu 
 >[!IMPORTANT]
 >Även om du inte behöver vara global administratör i din organisation för att köpa förmåner, måste du vara global administratör för att tilldela förmåner till anställda. Om det behövs kan du bli global administratör genom att följa anvisningarna på [sidan **förmåner**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (inloggning krävs). Företaget kanske redan har en global administratör för att kunna kontakta ditt team.
 
-Förmåns paket inkluderar allokeringar av licensierad program vara, moln tjänster, Visual Studio-prenumerationer och teknisk support. Förmåns paket kan också omfatta vissa resurser för go-to-marknad, erbjudanden och marknads relaterade program. Du kan få Action Pack prenumerations information på [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software) webbplatsen.  
+Förmåns paket omfattar allokering av licensierad program vara, moln tjänster, Visual Studio-prenumerationer och teknisk support. Förmåns paket kan också omfatta vissa resurser för go-to-marknad, erbjudanden och marknads relaterade program. Du kan få Action Pack prenumerations information på [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software) webbplatsen.  
 
 Om du vill visa och hantera alla dina medlemskaps förmåner går du till [sidan **förmåner**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (inloggning krävs). Alternativt kan du logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard), välja alternativet [**förmåner**] på menyn till vänster och sedan välja eventuella förmåns alternativ som visas.  
 
-För att aktivera de flesta förmåner eller hämta relaterade program varu nycklar osv., kräver Partner Center vanligt vis någon som har tilldelats rollen som global administratör eller MPN partner administratör. Om du inte kan se några förmåner eller inte kan aktivera förmåner kan du kontakta din partner Center Global-administratör för att se till att du har rätt behörigheter. [Läs mer om Partner Center-roller](permissions-overview.md).
+För att aktivera de flesta förmåner eller hämta relaterade program varu nycklar kräver Partner Center vanligt vis att någon har tilldelats rollen som global administratör eller MPN partner administratör. Om du inte kan se några förmåner eller inte kan aktivera förmåner kan du kontakta din partner Center Global-administratör för att se till att du har rätt behörigheter. [Läs mer om Partner Center-roller](permissions-overview.md).
 
 ## <a name="manage-software-benefits"></a>Hantera program varu förmåner
 
@@ -76,18 +72,18 @@ Det finns två typer av användnings prenumerationer som du kan få, beroende p�
 Du kan tillhandahållas med:
 
 - $100/månad (eller motsvarande i lokal valuta) Azure månads kredit eller/och
-- $6000, $12000 eller/och $13000/år (eller var och en av dem motsvarande i lokal valuta) Azure Mass kredit
+- $6 000, $12 000 eller/och $13000/år (eller var och en av dem motsvarande i lokal valuta) Azure Mass kredit
 
 Om du vill aktivera en Microsoft Azure-prenumeration i Partner Center tilldelar du åtkomst till en användare i företaget (inklusive gäst användare) som har en användar post som skapats i din Azure Active Directory.
 För den $100/månad (eller motsvarande i lokal valuta) Azure månads kredit, kan du när som helst lägga till eller ta bort användare från den här prenumerationen. 
 
-För Azure bulk (årlig) kredit är alternativet ta bort inte tillgängligt i Partner Center, men du kan överföra Mass krediten till någon annan under ditt registrerings år. Kredit prenumerationen för Azure bulk (år) kan inte kombineras med andra erbjudanden för licens, förbetald eller kredit (t. ex. Microsoft Enterprise-avtal, Cloud Solution Partner, Azure i Open, Azure-pass, Action Pack osv.).
+För Azure bulk (årlig) kredit är alternativet ta bort inte tillgängligt i Partner Center, men du kan överföra Mass krediten till någon annan under ditt registrerings år. Kredit prenumerationen för Azure bulk (år) kan inte kombineras med andra erbjudanden för licens, förbetald eller kredit (det vill säga Microsoft Enterprise-avtal, Cloud Solution Partner, Azure i Open, Azure-pass, Action Pack osv.).
 
 ## <a name="license-based-subscriptions"></a>Licensbaserade prenumerationer
 
-I avsnittet licensbaserade prenumerationer på fliken Azure & Cloud Products hittar du alla moln produkter som kräver en produkt nyckel för aktivering, till exempel Microsoft O365, Microsoft Dynamics, Microsoft Intune, Azure AD Basic, Power BI osv., som erbjuds, beroende på vilken typ av erbjudande du har aktiverat som MPN-partner – kartor, silver eller guld.
+I avsnittet licensbaserade prenumerationer på fliken Azure & Cloud Products visas alla moln produkter som kräver en produkt nyckel för aktivering, till exempel Microsoft Office 365, Microsoft Dynamics, Microsoft Intune, Azure AD Basic och Power BI. Den typ av erbjudande som du har aktiverat som MPN-partner – kartor, silver eller guld-styr vilka produkter som listas.
 
-Om du vill aktivera licensbaserade prenumerationer klickar du på den nedrullningsbara symbolen i linje med produkten av intresse och läser anvisningarna om hur du löser in nycklarna. När du har läst instruktionerna väljer du den länk som omdirigerar dig till portalen för att lösa in nycklar samt den tilldelade nyckeln för produkten.
+Om du vill aktivera licensbaserade prenumerationer klickar du på den nedrullningsbara symbolen i linje med produkten av intresse och läser anvisningarna om hur du löser in nycklarna. När du har läst instruktionerna väljer du den länk som omdirigerar dig till portalen för att lösa in nycklar och den tilldelade nyckeln för produkten.
 
 >[!IMPORTANT]
 >Observera att när en nyckel har lösts kan inte samma nyckel lösas igen en andra gång, så se till att du är klar på om du behöver lägga till fler licenser (platser) eller förlänga slutdatumet. Om du väljer att lägga till fler licenser och inte utökar slutdatum kommer systemet att förse dig med färre än 12 månaders aktiva prenumerationer. Kontrol lera att du är inloggad med rätt autentiseringsuppgifter för att aktivera nycklarna på rätt klient organisation.

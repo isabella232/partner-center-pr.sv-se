@@ -4,27 +4,28 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Se vad du gör bra och var du kan förbättra användningen av Azure-prenumerationer som du säljer eller hanterar för dina kunder.
+description: Se vad du gör bra och var du kan förbättra din användning av Azure-prenumerationer som du säljer eller hanterar för dina kunder.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 932fdc0efa2b28f5c57f81b33eac166dc5f4eda8
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: ef72aa2e44797c906cdd0a216cf2d8355668c0a9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92531320"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086217"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Azures användnings rapport som är tillgänglig från Partner Center Insights-instrumentpanelen
 
 **Lämpliga roller**
+
 - Global administratör
 - Administratörs agent
 - Rapport visnings program
 - Rapport visnings program för chefer
 
-I rapporten Azure Usage visas mått som är relaterade till dina kunders Azure-prenumerationer. Detta omfattar Azures förbruknings intäkter och användning efter mätnings kategorier. Du kan visa följande avsnitt från rapporten Azure Usage.
+I rapporten Azure Usage visas mått som är relaterade till dina kunders Azure-prenumerationer. Den här rapporten inkluderar Azures förbruknings intäkter och användning efter mätnings kategorier. Du kan visa följande avsnitt från rapporten Azure Usage.
 
 - Sammanfattning
 - Användning av geografi i Azure
@@ -37,9 +38,10 @@ I rapporten Azure Usage visas mått som är relaterade till dina kunders Azure-p
 
 Avsnittet Sammanfattning visar en ögonblicks bild av KPI: er (nyckeltal) som relaterar till Azure-prenumerationer som säljs eller hanteras av dig för dina kunder.  
 
-- Azure-prenumerationer: Aktuellt antal Azure-kundprenumerationer som säljs eller hanteras av procentuell tillväxt eller avböjdering av Azure-prenumerationer under det valda datum intervallet.
+- Azure-prenumerationer: Aktuellt antal Azure kund prenumerationer som säljs eller hanteras av dig.
+Procentuell tillväxt eller avböja de här Azure-prenumerationerna under det valda datum intervallet.
 
-Micro-diagrammet presenterar en månads månads trend för antalet Azure-prenumerationer för det valda datum intervallet
+Micro-diagrammet presenterar en månads månads trend för antalet Azure-prenumerationer för det valda datum intervallet.
 - Aktiva Azure-prenumerationer: Aktuellt antal Azure-prenumerationer som har sålts eller hanteras av dig som haft aktiv användning under de senaste 30 dagarna.
 Procentuell tillväxt eller avböja de här prenumerationerna under det valda datum intervallet.
 
@@ -64,7 +66,7 @@ Tabellen **land/region** visar det totala antalet länder/regioner där Azures a
 
 Du kan söka efter och välja ett land i rutnätet för att zooma till platsen i kartan. Välj alternativet **Start** på kartan för att återgå till den ursprungliga vyn.
 
-:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Översikt över Azure-användning":::
+:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Användning av geografi i Azure":::
 
 ## <a name="azure-utilization"></a>Azure-användning
 
@@ -72,7 +74,7 @@ I den här vyn visas trender per månads användning av Azure-förbrukning eller
 
 I stapeldiagrammet visas en trend för månads intäkterna/förbrukning per timme. Linje diagrammet presenterar tillväxt trenden jämfört med föregående månad för de valda kategorierna för Azure Service nivå/meter.
 
-:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Översikt över Azure-användning":::
+:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Användnings användning i Azure":::
 
 ## <a name="next-steps"></a>Nästa steg
 

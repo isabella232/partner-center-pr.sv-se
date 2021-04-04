@@ -8,16 +8,17 @@ description: Se vad du gör bra och var du kan förbättra användningen av Powe
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 03224c029104101c2187d07bfce720294e43cf88
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: e05ea33665ded2e52eae2ef8f096b30d3bfe9ee5
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98147174"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086302"
 ---
 # <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Power BI användnings rapport som är tillgänglig från Partner Center Insights-instrumentpanelen
 
 **Lämpliga roller**
+
 - Global administratör
 - Administratörs agent
 - Rapport visnings program
@@ -38,19 +39,19 @@ Power BI användnings rapporten innehåller användnings data för de Power BI p
 
 Avsnittet Sammanfattning visar en ögonblicks bild av de viktigaste indikatorerna för Power BI användnings prenumerationer som du har sålt eller hanterat för dina kunder. 
 
-- Tillgängliga platser: totalt antal sålda licenser under den valda tids ramen.
+- Tillgängliga platser: totalt antal sålda licenser under den valda tids perioden.
 
    Micro-diagrammet presenterar en månads månads trend för tillgängliga antal platser för det valda datum intervallet.
 
-- Tilldelade platser: totalt antal licenser som tilldelats under den valda tids ramen.
+- Tilldelade platser: totalt antal licenser som tilldelats under den valda tids perioden.
 
    Micro-diagrammet presenterar en månads månads trend för tilldelade platser under det valda datum intervallet.
 
-- Aktiva platser: totalt antal licenser som hade användning under den valda tids ramen. 
+- Aktiva platser: totalt antal licenser som hade användning under den valda tids perioden. 
 
    Micro-diagrammet presenterar en månatlig trend för månatliga aktiva platser under den valda tids perioden.
 
-- Aktiv användning%: totalt antal aktiva platser som uttryckts som en procent andel tillgängliga platser för den valda tids ramen. 
+- Aktiv användning%: totalt antal aktiva platser som uttryckts som en procent andel tillgängliga platser för den valda tids perioden. 
 
    Micro-diagrammet presenterar en månatlig trend för aktiv användnings procent under den valda tids perioden.
 

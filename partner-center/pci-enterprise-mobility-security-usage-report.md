@@ -8,16 +8,17 @@ description: Se vad du gör bra och var du kan förbättra användningen av Ente
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 48577571e77bd0181b78e01558a07edd1a3b925d
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: c62e074c7329ada33390b77be13c523660344d49
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98147177"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086285"
 ---
 # <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security användnings rapport som är tillgänglig från Partner Center Insights-instrumentpanelen
 
 **Lämpliga roller**
+
 - Global administratör
 - Administratörs agent
 - Rapport visnings program
@@ -38,11 +39,11 @@ Enterprise Mobility + Security användnings rapporten innehåller användnings d
 
 Avsnittet Sammanfattning visar en ögonblicks bild av de viktigaste indikatorerna för Enterprise Mobility + Security användnings prenumerationer som du har sålt eller hanterat för dina kunder. 
 
-- Nya prenumerationer: totalt antal prenumerationer som sålts eller hanterats under den valda tids ramen.
+- Nya prenumerationer: totalt antal prenumerationer som sålts eller hanterats under den valda tids perioden.
 
    Micro-diagrammet presenterar en månads månads trend för en ny prenumeration för det valda datum intervallet.
 
-- Tillgängliga platser: totalt antal sålda licenser under den valda tids ramen.
+- Tillgängliga platser: totalt antal sålda licenser under den valda tids perioden.
 
    Micro-diagrammet presenterar en månads månads trend för antalet tillgängliga platser under det valda datum intervallet.
 

@@ -8,13 +8,13 @@ ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.date: 07/08/2020
-ms.openlocfilehash: 45a088129d09395abf355efde08c772744b98672
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.date: 03/31/2021
+ms.openlocfilehash: 3f84026cc6402bea71837b06a5e330f2c879a06b
+ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474095"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106103799"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analysera prenumerationer och licenser för att hjälpa dig att köra affärs beslut och nya mål
 
@@ -28,6 +28,10 @@ ms.locfileid: "96474095"
 Data enheter affärs beslut. Använd måtten på sidan **prenumerations-och licens analys** för att identifiera dina framgångar och områden som behöver mer uppmärksamhet. Använd den här informationen när du planerar nya affärs mål.
 
 **TTM intäkt för CSP (USD)**: det här måttet representerar den sammanlagda summan av CSP-fakturerade intäkter (USD) för de efterföljande 12 månaderna (TTM) för de partner plats konton och globala partner kontot (pga) som detta CSP-konto är associerat med. Om du har andra CSP-konton med en annan PGA måste du logga in till var och en av dem för att kunna visa motsvarande aggregerade TTM-intäkter.  Klicka på länken Hämta information för att få en uppdelning av TTM-intäkterna per MPN-ID.
+
+>[!NOTE]
+>Lokala valuta priser (äldre Commerce FX) i kommersiellt läge hanteras i +/-5% av amerikanska dollar. Den äldre Commerce Exchange Rate (FX) skiljer sig från debiterings FX-priser som används av Azure i den moderna Commerce-upplevelsen. Taxan för modern Commerce-fakturerings FX baseras på Microsoft P&L-priser (Reuters FX-priser från stats matningar). Äldre priser för Commerce FX är Microsoft-konfidentiella.
+
 
 Resten av rapporten kan pivotera utifrån följande produkter:
 
@@ -82,6 +86,8 @@ Vi spårar följande mått:
 **Utvärderings prenumerationer som slutar på 30 dagar**  
 
  - Lista över försök som startades, där slutdatum ligger inom 30 dagar, och det inte finns något betalt start datum för prenumerationen  
+
+
 
 ## <a name="next-steps"></a>Nästa steg
 

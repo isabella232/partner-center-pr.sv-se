@@ -9,19 +9,19 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 464a277cc62f8b3349e8f7957106b902081eded8
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 5561c2e183c1dc50b573f89769da27317c83ba00
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556403"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086540"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Partner intjänad kredit – en översikt över hur det fungerar i den nya Commerce-upplevelsen i CSP
 
 **Lämpliga roller**
 
 - Global administratör
-- Användaradministratör
+- Administratör för användar hantering
 - Administratörs agent
 - Faktureringsadministratör
 - Försäljnings agent
@@ -30,7 +30,7 @@ Partner intjänad kredit i den nya Commerce-upplevelsen i CSP är en affärs mod
 
 Prissättningen kan vara en utmaning för många kunder och partner, särskilt när du funderar på tusentals tjänster i Azure och flera alternativ att köpa. I den nya Commerce-upplevelsen för Azure har vi justerat sig till de globala pris principer som gäller för alla rörelseinterpoleringar som vi Transact. CSP-partner kan erbjuda Azure i de publicerade priserna. Detta ger bättre insyn i kunderna och skapar förtroende.
 
-Våra kunders digitala omvandlings behov ändrar vilken typ av värde som partner erbjuder. Många kunder ser till att partners tillhandahåller tjänster ovanför och bortom transaktionen. Sådana tjänster kan hjälpa dem att jämna ut sin moln resa och hjälpa dem att använda Azure-tjänster på ett effektivt sätt. De här tjänsterna är i drift och innefattar hantering av Azure-egendom, princip-och styrnings hantering, installation och konfiguration fin justering, teknisk support och flera olika tjänster. 
+Våra kunders digitala omvandlings behov ändrar vilken typ av värde som partner erbjuder. Många kunder ser till att partners tillhandahåller tjänster ovanför och bortom transaktionen. Sådana tjänster kan hjälpa dem att jämna ut sin moln resa och hjälpa dem att använda Azure-tjänster på ett effektivt sätt. De här tjänsterna är igång och innefattar Azure fastighets övervakning, princip-och styrnings hantering, installation och konfiguration fin justering, teknisk support och andra tjänster. 
 
 Dessa tjänster kräver att en partner är både bekant med kundens Azure-miljö och har kontinuerlig och lämplig styrning och kontroll över de underliggande resurser som de hanterar. Fakturerings partner som tillhandahåller den här 24 X 7-aktiviteten för moln drifts hantering kommer att bli berättigade till en **partner med intjänad kredit för tjänster som hanteras** på kundernas Azure-egendom och som styrs av partnern.
 
@@ -51,7 +51,7 @@ När kunderna övergår till molnbaserad data behandlings plattform är de rikta
 
 Kunderna ser till att hjälpa dem att få ut mesta möjliga av deras verksamhet i Azure. Med hanterade tjänster kan du regelbundet förse dina kunder med White-assisterad-tjänsten. Några av de dagliga åtgärderna och supporten som du kan tillhandahålla inkluderar:
 
-- **Moln drifts-och hanterings tjänster**: kunder tittar på Microsoft-partner för att minska kostnaderna i Azure samtidigt som du återskapar isolerings-, säkerhets principer och gransknings modeller som de har idag. De förväntar sig också partner att ha till gång till vuxen verktyg för att identifiera arbets belastnings lämplighet och drifts kostnaderna för Azure i taget. Dessutom behöver kunderna stöd för automatisering och dirigering, uppdaterings uppdateringar, konfigurations hantering, säkerhets kopiering och haveri beredskap samt identitets hantering. 
+- **Moln drifts-och hanterings tjänster**: kunder tittar på Microsoft-partner för att minska kostnaderna i Azure samtidigt som du återskapar isolerings-, säkerhets principer och gransknings modeller som de har idag. De förväntar sig också partner att ha till gång till vuxen verktyg för att identifiera arbets belastnings lämplighet och drifts kostnaderna för Azure. Dessutom behöver kunderna stöd för automatisering och dirigering, uppdaterings uppdateringar, konfigurations hantering, säkerhets kopiering och haveri beredskap samt identitets hantering. 
 
 - **Övervakning av molnet och teknisk support**: i en moln förbruknings värld har verktygen och kraven utvecklats, men det är viktigt att hitta rätt resurs för hantering av IT-infrastrukturen. De flesta organisationer har bara den tid, de resurser eller den särskilda personal som krävs för att övervaka varje aspekt av den, och det är där du, som den betrodda partnern, lägger till det mest aktuella värdet. Azure erbjuder många inbyggda partner partner som tillhandahåller ytterligare, djupare övervaknings verktyg, prioritering falska positiva identifieringar från de verkliga aviseringarna och proaktivt agera på aviseringarna innan det behövs mätbara förluster i prestanda. 
 

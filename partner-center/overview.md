@@ -8,16 +8,16 @@ description: Använd partner Center till att använda Microsoft och dina kunder 
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 3b5627e9ade9a1e7fd8b5576ed8fd80202b974eb
-ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
+ms.openlocfilehash: 992e02e2ae27e4cf03071e114de22f42f11f7601
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103582656"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132255"
 ---
 # <a name="what-is-partner-center"></a>Vad är Partnercenter?
 
-##### <a name="appropriate-roles"></a>Lämpliga roller
+**Lämpliga roller**
 
 - Alla partner som är intresserade av Partner Center
 
@@ -53,7 +53,7 @@ Bygg din företags profil för att visa ditt företags expert områden. Fokusera
 
 ## <a name="co-sell-with-microsoft-and-other-partners"></a>Co-Sälj med Microsoft och andra partner
 
-Co-försälj är sökvägen till partner för att gemensamt sälja till Microsoft och andra partner för samarbete, bättre försäljning och positiva kund resultat. Med samförsäljning kan du utnyttja Microsofts globala varumärke, sälj team, funktioner för generering av efter frågan och den kommersiella marknads platsen för att uppnå nya kunder över hela världen. Sälj både med andra partner och med oss. Läs mer i [Hantera samförsäljnings möjligheter](manage-co-sell-opportunities.md).
+Co-försälj är sökvägen till partner för att gemensamt sälja till Microsoft och andra partner för samarbete, bättre försäljning och positiva kund resultat. Co-Sales gör att du kan använda Microsofts globala varumärke, sälj team, funktioner för att skapa och använda och den kommersiella marknads platsen för att uppnå nya kunder över hela världen. Sälj både med andra partner och med oss. Läs mer i [Hantera samförsäljnings möjligheter](manage-co-sell-opportunities.md).
 
 ## <a name="manage-customer-software-needs"></a>Hantera kund program varu behov
 

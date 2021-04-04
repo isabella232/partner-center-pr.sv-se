@@ -9,25 +9,25 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: ece0e5f3bedf1496a252ac8e8c1545fb22ec8108
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: 6ba6fce58df6ab6047a5ec6e7c46e1538b49756d
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880777"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178960"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Samarbeta med indirekta återförsäljare i programmet Cloud Solution Provider
 
 **Lämpliga roller**
 
 - Global administratör
-- Användaradministratör
+- Administratör för användar hantering
 - Administratörs agent
 - Försäljnings agent
 
 Med en sådan komplicerad och snabbt föränderlig teknik Marketplace vill kunderna att de ska kunna erbjuda den konkurrens kraftiga gränsen för teknik lösningar. I ett sådant klimat är det klokt för partner att investera i partner till partner engagemang för att utöka erbjudandena och göra det möjligt för kunderna att göra ännu mer.
 
-Nya åter försäljare förs in på marknaden och söker efter sätt att erbjuda sina lösningar till kunder utanför sina marknader och nationella inställningar. Som en etablerad teknik leverantör är du väl placerad för att vara på marknaden. Partner med indirekta åter försäljare i leverantören av moln lösnings leverantörer (CSP) för att ansluta till andra partner, få nya lösningar på marknaden och fortsätta kundernas antagande av moln tjänster.
+Nya åter försäljare förs in på marknaden och söker efter sätt att erbjuda sina lösningar till kunder utanför sina marknader och nationella inställningar. Som en etablerad teknik leverantör är det bra att vara väl placerad till marknads vägen. Partner med indirekta åter försäljare i leverantören av moln lösnings leverantörer (CSP) för att ansluta till andra partner, få nya lösningar på marknaden och fortsätta kundernas antagande av moln tjänster.
 
 I modellen för indirekt Provider-åter försäljare (två nivåer) samarbetar du med indirekta åter försäljare för att erbjuda kunderna Microsofts moln lösningar. Du köper produkter och prenumerationer direkt från Microsoft och erbjuder sedan dessa lösningar till kunder via dina åter försäljare.
 
@@ -45,7 +45,7 @@ Information om vad som krävs för att delta i CSP-programmet som en indirekt å
 
 ## <a name="indirect-provider-tasks-in-the-partner-center"></a>Uppgifter för indirekt leverantör i Partner Center
 
-Utför följande steg för att upprätta och hantera ditt partnerskap med indirekta åter försäljare och kunder. Steg två och tre beskrivs i detalj nedan.
+Utför följande steg för att upprätta och hantera ditt partnerskap med indirekta åter försäljare och kunder. Steg 2 och 3 beskrivs i detalj nedan.
 
 1. Granska företagets profil på [Microsofts officiella lista över indirekta leverantörer](https://partnercenter.microsoft.com/partner/find-a-provider).
 
@@ -111,7 +111,7 @@ Följ stegen nedan om du vill ta bort partnerskap med en befintlig indirekt åte
 
 1. I menyn Partner Center på instrument panelen väljer du **indirekta åter försäljare**. 
 
-2. På sidan **indirekt åter försäljare** väljer du **ta bort koppling**. Ett meddelande visas där du ombeds bekräfta genom att välja Ja.
+2. På sidan **indirekt åter försäljare** väljer du **ta bort koppling**. Ett meddelande visas som ber om bekräftelse. Välj **Ja** om du vill fortsätta.
 
 :::image type="content" source="images/ip-ir-relationship.png" alt-text="Ta bort koppling":::
 
@@ -151,7 +151,7 @@ När du associerar en åter försäljare med ett nytt kund konto delegerar du ko
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Lägg till nya prenumerationer till kund konton
 
-När kunderna vill köpa nya prenumerationer, uppgradera befintliga eller köpa ytterligare licenser gör du dessa ändringar i kundens konto via M365-portalen. Du kan inte göra det här i Azure Portal.
+När kunderna vill köpa nya prenumerationer, uppgradera befintliga eller köpa ytterligare licenser gör du dessa ändringar i kundens konto via Microsoft 365 portalen. Du kan inte göra det här i Azure Portal.
 
 1. Välj **kunder** från menyn **partner Center** .
 

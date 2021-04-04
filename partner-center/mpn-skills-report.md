@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 419dba1490e19c8895fce35a031c7424114e5125
-ms.sourcegitcommit: 493130f8b8e9cf9b6ad31035bb4d7f78863788ac
+ms.openlocfilehash: 76b540364b1a47de66d0343f0646ab035b8de97c
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "99474347"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132442"
 ---
 # <a name="using-the-skills-report"></a>Använda kunskaps rapporten
 
@@ -61,7 +61,7 @@ Följ dessa steg om du vill visa kunskaps rapport data från Partner Center.
 2. Från menyn till vänster-navigering väljer du **MPN** följt av **kompetenser**.
 3. Leta upp följande alternativ längst upp till höger på sidan kompetenser:  **kompetens prestanda rapport** och **Hämta kunskaps rapport**. Du har möjlighet att Visa kunskaps rapport data i användar gränssnittet i partner centret eller som ett hämtat kalkyl blad.
    :::image type="content" source="images/competencies/mpn-skills-report-1.png" alt-text="Sidan Partner Center-kompetenser med två alternativ markerade i det övre högra hörnet." border="true":::
-   - För en lättläst vy över kunskaps rapport data väljer du **kompetens prestanda rapport**, följt av **användar kunskaps data** längst upp till vänster på sidan kompetens rapport. 
+   - För en lättläst vy över kunskaps rapport data väljer du **kompetens prestanda rapport**, följt av **användar kunskaper** i den övre vänstra delen av kompetens rapport sidan. 
       :::image type="content" source="images/competencies/mpn-skills-report-2.png" alt-text="Sidan kompetens rapport för partner Center med användar kompetens data i det övre vänstra hörnet." border="true":::
    - Hämta rapporten i kalkyl blads format genom att välja **Hämta kunskaps rapport**. När filen laddas ned och öppnas visas en tabell med information om varje användares färdigheter. Kolumnerna **som är kopplade till PMC** och **kopplade till datorn**, anger om användarens kunskaper redan har kopplats till deras tidigare konto för partner medlemskaps Center (PMC) och deras partner Center (PC). Om du har användare som fortfarande arbetar i PMC kan du läsa avsnittet senare på PMC-användare.
    
@@ -94,7 +94,7 @@ Om kunskaps rapportens data visar inga kunskaper för en användare kan använda
 
 - Kan ha sammanfogat sina kunskaper till en annan MCID som **inte** är kopplad till användar kontot för partner Center
 
-Om användaren har dubbla konton kan de kunskaper som krävs delas upp i två eller flera konton. Du kan till exempel ha MSA kopplad till en MCID (som visas i **kolumnen MCID** i kunskaps rapporten), men certifieringen av avskrifter samma MSA refererar till en annan MCID. I så fall måste du sammanfoga MCID från avskriften till MCID som redan visas i kunskaps rapporten. Det gör du genom att kontakta [Microsoft Certificate Training support team](https://trainingsupport.microsoft.com/mcp/forum). När MCP-kopplingen har bekräftats behöver du inte associera din MSA igen. Det är redan associerat i Partner Center. Den här processen kan ta upp till 24 timmar innan den visas i Partner Center.
+Om användaren har dubbla konton kan de kunskaper som krävs delas upp i två eller flera konton. Du kan till exempel ha MSA kopplad till en MCID (som visas i **kolumnen MCID** i kunskaps rapporten), men certifieringen av avskrifter samma MSA refererar till en annan MCID. I så fall måste du sammanfoga MCID från avskriften till MCID som redan visas i kunskaps rapporten. Det gör du genom att kontakta [Microsoft Certificate Training support team](https://trainingsupport.microsoft.com/mcp/forum). När du har bekräftat MCP-kopplingen behöver du inte associera om din MSA. Det är redan associerat i Partner Center. Den här processen kan ta upp till 24 timmar innan den visas i Partner Center.
 
 ### <a name="why-do-i-see-an-error-message-when-i-try-to-download-the-skills-report"></a>Varför visas ett fel meddelande när jag försöker hämta kunskaps rapporten?
 

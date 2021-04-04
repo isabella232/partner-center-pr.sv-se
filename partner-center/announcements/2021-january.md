@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/08/2021
-ms.openlocfilehash: 2dd1563aab9d2505932bf35a9f1fe7ef22c1be28
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 04/01/2021
+ms.openlocfilehash: 9f0292efc6646e4abd85a6fab1e53ac9e139a915
+ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712468"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "106280844"
 ---
 # <a name="january-2021-announcements"></a>Meddelanden januari 2021
 
@@ -88,29 +88,30 @@ För alla frågor som rör detta meddelande kontaktar du [Support för partner C
     -    Vi presenterar fas 1 är Live 
     -    Att klargöra att Storbritannien inte ingår i EU/EFTA är en del av [Microsofts europeiska region och marknad](../regional-authorization-overview.md) och kommer att påverkas
 
-
 ________________
 ## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="14"></a> Ändringar i CSP-kundernas (Cloud Solution Provider) krav för kund onboarding
 
 ### <a name="categories"></a>Kategorier
 
-- Datum: 2021-01-28
+- Datum: 2021-04-02
 - Förbättrad säkerhet och efterlevnad
-
-### <a name="impacted-audience"></a>Förverkad mål grupp
-
-KRYPTOGRAFIPROVIDERs direkta fakturerings partner och indirekta leverantörer som har nya eller befintliga kunder i de länder som anges i nästa avsnitt.
 
 ### <a name="summary"></a>Sammanfattning
 
-Som en del av vårt åtagande att hjälpa partner och kunder att köra verksamhet utifrån förtroende kommer vi att begära ytterligare kund information, från och med mars 2021.
+Som en del av vårt åtagande att hjälpa partner och kunder att köra verksamheten baserat på förtroende kommer vi att begära ytterligare kund information, från och med den 25 mars 2021.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+CSP direkt fakturerings partner och indirekta leverantörer som har nya eller befintliga kunder i de länder som anges i nästa avsnitt
 
 ### <a name="details"></a>Information
 
-Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för kund validering för att agera kund prenumerationer i CSP-programmet. I slutet av mars 2021 kommer vi att lansera förbättringar för API för API och användar gränssnitt (UI) som påverkar partner som uppfyller båda följande kriterier:
+Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för kund validering för att agera kund prenumerationer i CSP-programmet. Den 25 mars 2021 kommer vi att introduktion till API: er och användar gränssnitts förbättringar i Partner Center som påverkar partner som uppfyller båda följande kriterier:
 
 1. Partnern har en direkt fakturerings relation med Microsoft (vilket innebär att partnern antingen är en direkt fakturerings partner eller en indirekt Provider).
+
 2. Partnern gör affärer med nya eller befintliga kunder i följande länder:
+
     - Thailand
     - Vietnam
     - Turkiet
@@ -125,7 +126,9 @@ Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompat
     - Förenade Arabemiraten
     - Venezuela
 
-Partner som uppfyller kriterierna måste skicka in en kunds **juridiska identifierare** (kallas även kundens **organisations Inn**) och **telefonnummer** när de registrerar nya kunder eller ändrar befintlig kund information. Dessa partner kan också ange ett **mellannamn** för kunden (valfritt).
+Partner som uppfyller kriterierna måste skicka in en kunds företags registrerings-ID (även kallat kundens organisations INN) och telefonnummer när nästa uppdatering eller skapar en prenumeration för kunden. Dessa partner kan också ange ett mellannamn för kunden (valfritt).
+
+Observera att när du lägger till ditt företags registrerings-ID bör du använda företagets skatte-ID och inte kundens personliga ID.
 
 Partner som gör affärer med nya eller befintliga kunder i följande länder har redan publicerats med en tidigare version i november 2020.
 
@@ -141,20 +144,32 @@ Partner som gör affärer med nya eller befintliga kunder i följande länder ha
 - Ukraina
 - Uzbekistan
 
-Partner med kunder i resten av världen kommer att ha möjlighet i slutet av mars 2021 att ange **juridisk identifierare**, **telefonnummer** och **mellan namn** för kunder som valfri information.
+Partner med kunder i resten av världen kommer att ha möjlighet i slutet av mars 2021 att ange företagets registrerings-ID, telefonnummer och mellan namn för kunder som valfri information.
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Läs igenom den tekniska dokumentationen och vanliga frågor och svar i den dedikerade [partner samlingen](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) (inloggning krävs) för mer detaljerad vägledning.
+- Läs igenom den tekniska dokumentationen och vanliga frågor och svar i den dedikerade [partner samlingen](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) för mer detaljerad vägledning.
 - Förbered för att införliva ändringarna med partner Center API och webb användar upplevelsen. API/SDK: er kommer att vara tillgängliga för testning.
 - Se till att skicka in ytterligare data när du registrerar nya kunder eller ändrar befintlig kund information.
 - Om du använder en lösning för en kontroll panels leverantör (CPV) bör du kontakta din CPV.
 
 ### <a name="questions"></a>Har du några frågor?
 
-Kontakta din skatte rådgivare eller ditt lokala skatte kontor om du har frågor som rör juridisk identifierare (även kallat INN eller tenn). Microsoft kan inte ge vägledning om skatte frågor.
+Kontakta din skatte rådgivare eller ditt lokala skatte kontor om du har frågor som rör företagets registrerings-ID (kallas även INN eller tenn). Microsoft kan inte ge vägledning om skatte frågor.
 
-Om du behöver stöd för dina åtgärder med Microsoft [öppnar du en tjänstbegäran](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8) (inloggning krävs).
+Om du behöver stöd för dina åtgärder med Microsoft öppnar du en [tjänstbegäran](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+
+### <a name="change-log"></a>Ändrings logg:
+
+17 december 2020: ursprunglig publikation
+
+28 januari 2021: republicing; inga ändringar.
+
+2 april 2021: uppdateringar omfattar följande:
+
+- Start datum angivet
+- Rubriken för organisationen INN har uppdaterats till företagets registrerings-ID
+- Anteckning lades till för att ge klargörande för företagets registrerings-ID
 
 ________________
 ## <a name="microsoft-partner-agreement-mpa--indirect-reseller-update--new-faqs"></a><a name="13"></a> Microsoft partner Agreement (MPA) – uppdatering av indirekt åter försäljare & nya frågor och svar 

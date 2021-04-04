@@ -9,16 +9,17 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c7b0be301b9c0fc56200c128b225fc849a2f04c2
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: b7d963bffcfeebed3b7540dfd02aadd876dfcaa6
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532064"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086234"
 ---
-# <a name="download-reports"></a>Hämta rapporter
+# <a name="download-reports"></a>Ladda ned rapporter
 
 **Lämpliga roller**
+
 - Rapport visnings program för chefer
 - Rapport visnings program
 
@@ -30,11 +31,11 @@ När rapporten har skapats är den tillgänglig i avsnittet **genererade rapport
 
 **Skapa ny rapport**
 
-Om du vill generera en rapport väljer du först rapporten i list rutan **Välj rapport** . Välj sedan datum intervallet i list rutan **Välj datum intervall** . Välj **generera** . Rapporten skapas i TSV-format (tabbavgränsadt värde) och kommer att vara tillgänglig för hämtning i avsnittet **genererade rapporter** inom några minuter. Rapporter som genererats under de senaste 14 dagarna kommer att vara tillgängliga för hämtning.
+Om du vill generera en rapport väljer du först rapporten i list rutan **Välj rapport** . Välj sedan datum intervallet i list rutan **Välj datum intervall** . Välj **generera**. Rapporten skapas i TSV-format (tabbavgränsadt värde) och kommer att vara tillgänglig för hämtning i avsnittet **genererade rapporter** inom några minuter. Rapporter som genererats under de senaste 14 dagarna kommer att vara tillgängliga för hämtning.
 
 :::image type="content" source="images/pci/create-new-report.png" alt-text="Skapa ny rapport":::
 
-:::image type="content" source="images/pci/generated-reports.png" alt-text="Skapa ny rapport":::
+:::image type="content" source="images/pci/generated-reports.png" alt-text="Genererade rapporter":::
 
 >[!NOTE] 
 >Endast de användare som är chefs rapporter kan hämta rapporter. Mer information om rollbaserad åtkomst till insikter instrument panels rapporter finns i [PCI-roller](pci-roles.md). 
@@ -43,7 +44,7 @@ Om du vill generera en rapport väljer du först rapporten i list rutan **Välj 
 
 Följande rapporter är tillgängliga för hämtning:
 
-**Partner profilen** innehåller information som är relaterad till partnern. Information som partner-ID, partner namn, partner ort, partner land och så vidare finns i rapporten. Ingen agg regering eller lookback kommer att användas för den här rapporten.
+**Partner profilen** innehåller information som är relaterad till partnern. Information som partner-ID, partner namn, partner ort och partner land är tillgängliga i rapporten. Ingen agg regering eller lookback kommer att användas för den här rapporten.
 
 **Kund information** innehåller information om kunder som en partner är kopplad till. Den innehåller också viktiga mått som licenser som säljs, aggregerade ACR och så vidare. Rapporten sammanställs per månad.
 

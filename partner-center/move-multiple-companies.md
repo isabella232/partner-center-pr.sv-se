@@ -9,19 +9,19 @@ author: parthpandyaMSFT
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 459f347d960a06f78a30a398dc51b67f2fa7d27b
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0787056d8d32db4a2975f7488bb65141c240ff88
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531604"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132663"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Flytta flera företag till Partner Center från partner medlemskaps Center (PMC)
 
 **Lämpliga roller**
 
 - Global administratör
-- Användaradministratör
+- Administratör för användar hantering
 - Administratörs agent
 - Försäljnings agent
 
@@ -47,11 +47,11 @@ Om du upptäcker att fel företags konto har angetts som juridisk verksamhet nä
 
 Du ser ditt befintliga konto och en anteckning som visar att företagets information (det konto som du loggar in med) samlas in i det här kontot.
 
-:::image type="content" source="images/migration/existingaccount2.png" alt-text="Befintligt konto":::
+:::image type="content" source="images/migration/existingaccount2.png" alt-text="Konto i Partner Center":::
 
 På den här skärmen visas information om det befintliga kontot (namn och adress) som redan har skapats i Partner Center tillsammans med information om den primära kontakten.
 
-Välj **Fortsätt** .
+Välj **Fortsätt**.
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>Vad händer under konsolidering av konton
 
@@ -76,11 +76,11 @@ Kontrol lera informationen om ditt företag och redigera vid behov.  Information
 Informationen baseras på informationen i PMC och kommer att kontrol leras för att säkerställa att företaget är legitimt.
 
 
-:::image type="content" source="images/migration/review.png" alt-text="Befintligt konto":::
+:::image type="content" source="images/migration/review.png" alt-text="Granska information":::
 
 Om kontot du flyttar finns i samma land eller region som det befintliga kontot kan du välja om du vill använda adressen eller lägga till en annan. Om du väljer att använda en annan adress kommer den adressen att verifieras. Om du vill använda samma adress kommer den befintliga adressen och den primära kontakten att användas.
 
-När du har verifierat/redigerat informationen på den här skärmen klickar du på Skicka så kommer dina konton att konsol IDE ras.
+När du har verifierat/redigerat informationen på den här skärmen väljer du **Skicka** och dina konton konsol IDE ras.
 
 ## <a name="partner-profile"></a>Partner profil
 
@@ -89,7 +89,7 @@ När du visar din profil visas informationen för din juridiska verksamhet (i PM
 ## <a name="next-steps"></a>Nästa steg
 
 - [Flytta från PMC till Partnercenter](move-pmc-pc-map.md)
-- [Skapa användar konton](create-user-accounts-and-set-permissions.md)
+- [Skapa användarkonton](create-user-accounts-and-set-permissions.md)
 - [Tilldela användarroller och behörigheter](permissions-overview.md)
 - [Hantera dina medlemskaps program](renew-mpn-offers.md)
 - [Skapa företagets företags profil](create-a-marketing-profile.md)

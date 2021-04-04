@@ -1,5 +1,5 @@
 ---
-title: Partner Center för Microsoft Cloud Germany
+title: Partnercenter för Microsoft Cloud Tyskland
 ms.topic: article
 ms.date: 10/12/2020
 ms.service: partner-dashboard
@@ -9,23 +9,23 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 606806f3796796873c37f6dfcac35e5993efe575
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: f36d7c0e99600d9de63d4e6377a2b3688a043885
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92531997"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086523"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany-for-partners-selling-to-customers-in-eu--efta-countries"></a>Partner Center för Microsoft Cloud Tyskland för partner som säljer till kunder i EU & EFTA-länder
 
 **Gäller för**
 
--  Partner Center för Microsoft Cloud Germany
+- Partnercenter för Microsoft Cloud Tyskland
 
 **Lämpliga roller**
 
 - Global administratör
-- Användaradministratör
+- Administratör för användar hantering
 - Administratörs agent
 - Försäljnings agent
 - Faktureringsadministratör
@@ -41,7 +41,7 @@ Microsoft Cloud Tyskland tillhandahåller en separat instans av [Microsoft Azure
 
 ## <a name="migrate-customers-from-microsoft-cloud-germany-to-another-european-region"></a>Migrera kunder från Microsoft Cloud Tyskland till en annan europeisk region
 
-Innan du kan migrera en kund prenumeration från Microsoft Cloud Tyskland till en annan europeisk region måste du ha ett befintligt CSP-konto som finns i regionen och det är aktivt. Om du inte har en, uppmanas du att skapa ett under val av CSP-konto i Partner Center. När du har skapat det nya kontot kommer dina kunder att associeras med den valda klient organisationen.
+Innan du kan migrera en kund prenumeration från Microsoft Cloud Tyskland till en annan europeisk region måste du ha ett befintligt CSP-konto (Cloud Solution Provider) som finns i regionen och som är aktivt. Om du inte har en, uppmanas du att skapa ett under val av CSP-konto i Partner Center. När du har skapat det nya kontot kommer dina kunder att associeras med den valda klient organisationen.
 
 ### <a name="you-already-have-a-csp-account"></a>Du har redan ett CSP-konto
 
@@ -49,11 +49,11 @@ Innan du kan migrera en kund prenumeration från Microsoft Cloud Tyskland till e
 
 1. Gå till översikts sidan för CSP på den vänstra menyn.
  
-1. När du uppmanas väljer **du jag redan har en klient i den europeiska regionen** och väljer sedan **Nästa** . Du uppmanas att logga in på den nya klienten. 
+1. När du uppmanas väljer **du jag redan har en klient i den europeiska regionen** och väljer sedan **Nästa**. Du uppmanas att logga in på den nya klienten. 
 
 1. Logga in på klienten som global administratör.
  
-1. Läs informationen på sidan bekräftelse och välj sedan **Bekräfta** .
+1. Läs informationen på sidan bekräftelse och välj sedan **Bekräfta**.
  
 6.  Om det lyckas uppmanas du att välja **Visa information** eller **Visa instrument panelen** för mer information. 
 
@@ -72,8 +72,8 @@ Innan du kan migrera en kund prenumeration från Microsoft Cloud Tyskland till e
 1. Logga in på CSP Microsoft Cloud Germany-klient som global administratör.
 
 1. Gå till sidan CSP-översikt på den vänstra menyn.
-. 
-1. När du uppmanas väljer **du att jag inte har en klient i den europeiska regionen** och väljer sedan **Skapa nytt konto** . 
+ 
+1. När du uppmanas väljer **du att jag inte har en klient i den europeiska regionen** och väljer sedan **Skapa nytt konto**. 
  
 1. Du kommer till sidan för registrering av Partner Center där du kan skapa en ny klient och ett CSP-konto i en europeisk region.
   

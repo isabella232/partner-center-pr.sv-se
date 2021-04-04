@@ -1,21 +1,21 @@
 ---
 title: Fakturering av mobil operatör – Microsoft Store
 description: Microsoft Store erbjuder mobil operatörs fakturering som betalnings metod för mobila operatörer som har stöd för den här funktionen.
-ms.date: 05/29/2020
+ms.date: 04/01/2021
 ms.service: partner-dashboard
 ms.topic: article
 ms.author: hickeys
 author: hickeys
 keywords: Windows 10, UWP, mobila operatörer, mobil fakturering, fakturering av mobil operatör
 ms.localizationpriority: medium
-ms.openlocfilehash: 010451506df0d6115a8e1b4781e6fb40ab8853bb
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: 5556da39b252f5004cd7d1828310743875a8da7f
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "92531760"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178824"
 ---
-# <a name="mobile-operator-billing"></a>Fakturering av mobil operatör
+# <a name="mobile-operator-billing"></a>Mobiloperatörsfakturering
 
 > [!NOTE]
 > Om du letar efter stöd för utbetalningar, inklusive hur du konfigurerar utbetalnings konton, saknade inbetalningar, påträffar undantag eller annat, kontaktar du support [här](https://developer.microsoft.com/windows/support).
@@ -35,17 +35,19 @@ Följande mobila operatörer stöder för närvarande mobil operatörs faktureri
 | Österrike              | A1 telekom, Hutchison 3G Österrike, T-Mobile/tele. Ring  |
 | Belgien              | Bas, Proximus                                          |
 | Kanada               | Telus                                                   |
-| Czechia              | T-Mobile                                                |
+| Czechia              | T-Mobile, Vodafone, O2                                  |
 | Danmark              | 3, TDC/YouSee, Telenor, Telia                         |
 | Finland              | DNA, Elisa                                              |
 | Frankrike               | Orange                                                  |
 | Tyskland              | O2, telekom Deutschland, Vodafone                       |
 | Ungern              | Telenor                                                 |
-| Italien                | Tre, vind                                               |
+| Italien                | Tre, vind, Vodafone                                     |
+| Korea                | SK telekom                                              |
 | Malaysia             | -                                                    |
-| Nederländerna          | KPN/Telfort                                           |
+| Nederländerna          | KPN/Telfort, Vodafone                                 |
 | Norge               | Telenor/TalkMore, Telia/OneCall                     |
-| Polen               | Orange, Play                                            |
+| Polen               | Orange, Play, T-Mobile                                  |
+| Saudiarabien         | STC                                                     |
 | Singapore            | M1 Limited, StarHub                                     |
 | Slovakien             | Slovakiska telekom                                          |
 | Sydafrika         | Vodacom                                                 |
@@ -56,4 +58,4 @@ Följande mobila operatörer stöder för närvarande mobil operatörs faktureri
 | Turkiet               | Turkcell                                                |
 | Förenade Arabemiraten | Etisalat                                                |
 | USA        | Sprint, Verizon                                         |
-| Storbritannien       | 3 Storbritannien, EE, O2, Vodaphone                                 |
+| Storbritannien       | 3 Storbritannien, EE, O2, Vodafone                                 |

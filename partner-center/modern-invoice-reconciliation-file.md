@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 74974c68c607ddcee4aff6abd53284a60653fb0b
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 66159d886914336180e8531ec07db3a9d8880a88
+ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712264"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106103782"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Fält för att avstämnings fil för CSP vid en tidpunkt
 
@@ -51,8 +51,8 @@ Mer information om avstämnings filer finns i [använda avstämnings filer](use-
 | PublisherId | En unik identifierare som partner Center använder för att identifiera utgivaren. | *NA* |
 | SubscriptionDescription | Namnet på det tjänst erbjudande som kunden har köpt, enligt definitionen i pris listan. Den här kolumnen är ett identiskt fält för OfferName. | *Azure-plan* |
 | SubscriptionId | Unikt ID för en prenumeration i Microsofts fakturerings plattform. Används inte för avstämning. Observera att den här identifieraren inte är samma som prenumerations-ID: t i partner administratörs konsolen. | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |
-| ChargeStartDate | Det datum då partner avgiften debiteras för prenumerations avgiften. Om prenumerationen köps med en årlig fakturerings period och en fakturerings plan per månad, är det den dag då prenumerationen köps. Från och med nästa avstämnings fil kommer den att ökas med 30 dagar. | *9/1/2020* |
-| ChargeEndDate | Slut dag för avgifterna för prenumerationens fakturerings period. Om prenumerationen köps med en årlig fakturerings period och en fakturerings plan per månad, så är det i den första avstämnings filen den 30: e dagen efter det att prenumerationen har köpts. Från och med nästa avstämnings fil kommer den att ökas med 30 dagar. | *2020-09-30* |
+| ChargeStartDate | Datumet då en prenumerations fakturerings period börjar. | *9/1/2020* |
+| ChargeEndDate | Datumet då en prenumerations fakturerings period upphör. | *2020-09-30* |
 | TermAndBillingCycle | Varaktighets åtagandet för att fortsätta prenumerationen vid tidpunkten för köpet. | *Lagrade data (GB/månad)* |
 | EffectiveUnitPrice | Det beräknade enhets priset för att beräkna kostnaden för fakturerings perioden. Rabatter, justeringar av fakturerings dagar och andra faktorer fastställer det effektiva enhets priset. Mer information finns i [pris beräkning för effektiv enhet](./effective-unit-price-calculation.md).  | *0,03825* |
 | UnitType | Den typ av enhet som mätaren debiteras i. | *1 GB/månad* |

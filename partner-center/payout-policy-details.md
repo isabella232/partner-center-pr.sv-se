@@ -1,22 +1,22 @@
 ---
 title: Utbetalningsscheman och -processer
 description: Lär dig mer om utbetalningar och transaktioner, till exempel betalnings planer och återställnings processer för handels Marketplace och andra transaktioner.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: 9c4ad89eb25e811c4bea11e7e7e5d3845ceafee6
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: f4d31a5cf0752d03248b0efddb98ce621f9174f9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756848"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086183"
 ---
 # <a name="payout-schedules-and-processes"></a>Utbetalningsscheman och -processer
 
-**Lämpliga roller:**
+**Lämpliga roller**
 
 - Kontoadministratör
 - Global administratör
@@ -73,7 +73,7 @@ Efter utbetalnings processen som har framställts här kan Microsoft redan betal
 
 Microsoft kommer att koppla tillbaka eventuella utbetalningar som redan betalats till dig med någon av följande metoder: (1) Microsoft kan subtrahera de obetalda beloppen från framtida utbetalningar. om till exempel $1 000 i utbetalningar betraktas som ej kan samlas in och skrivs av, kommer dina framtida utbetalningar att bli kvar tills $1 000 återställs eller (2) Microsoft kan begära en åter betalning eller faktura utgivare för alla insamlade belopp.
 
-Följande är ett exempel schema:
+Följande schema är ett exempel:
 
 | Händelse | Ungefärligt datum * | Partner synlighet |
 | --- | --- | --- |
@@ -92,7 +92,7 @@ Följande är ett exempel schema:
 
 ## <a name="number-of-days-for-payments-to-reach-a-payout-account"></a>Antal dagar för betalningar för att uppnå ett utbetalnings konto
 
-Vi skickar vanligt vis ut alla betalningar som förfaller under en månad den 15: e dagen i månaden, men det tar ytterligare tid för betalningen att komma åt ditt konto. Antalet dagar beror på betalnings metoden som vi använder för ditt konto, enligt beskrivningen nedan.
+Vi skickar vanligt vis ut alla betalningar som förfaller under en månad den 15: e dagen i månaden, men det tar en stund innan betalningen når ditt konto. Antalet dagar beror på betalnings metoden som vi använder för ditt konto, enligt beskrivningen nedan.
 
 > [!NOTE]
 > De dagar som visas nedan är ungefärliga; alla betalningar kan ta mer eller mindre tid att komma åt ditt konto.

@@ -8,19 +8,19 @@ ms.subservice: partnercenter-csp
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 12fea98deb0b4ad0fc85783d04912ac7f76b8115
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: de833ae713fe88335103e9dbaa96153ad20ec84e
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756129"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133054"
 ---
 # <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>Använda Partner Center för att registrera sig som en Microsoft Learning-partner
 
 **Lämpliga roller**
 
 - MPN-partner administratör
-- MPN-konto administratör
+- Kontoadministratör
 
 I den här artikeln beskrivs de olika sätt som en partner i Microsoft Partner Network kan registrera sig i Learning partner-programmet.
 
@@ -50,7 +50,7 @@ Learning Action Pack är en post på grund nivå i programmet för utbildnings p
 
 Learning Action Pack har stöd för partner som vill tillhandahålla utbildnings tjänster, erbjudanden eller rabatter på marknads plats Marketplace och fördelar för att hjälpa våra partner att bli experter på olika produkt linjer i Microsoft.
 
-Partner som inte är utbildnings partner kan köpa kurs material till fullt pris enbart för intern utbildning. Om du vill leverera innehållet utanför organisationen behöver du en Microsoft Certified Trainer (1 MCT) och du måste registrera dig för Learning-Action Pack.
+Partner som inte är utbildnings partner kan köpa kurs material till fullt pris enbart för intern utbildning. Om du vill leverera innehållet utanför din organisation behöver du en Microsoft Certified Trainer (en MCT) och du måste registrera dig för Learning-Action Pack.
 
 När du har nått de nödvändiga KPI: erna kan du sedan slutföra de ytterligare kraven och välja att uppgradera till ett silver/guld-inlärnings alternativ.
 
@@ -109,7 +109,7 @@ Kontakta [partner Frontline-supporten](https://partner.microsoft.com/support). D
 
 KPI-rapporter uppdateras en gång i månaden under mitten av månaden. Godkännande av inlärnings program mäts för KPI: er som uppnås under de föregående 12 månaderna av prestanda aktivitet, baserat på din jubileums dag. Om du till exempel startar 15 januari 2020 visas KPI-data under perioden januari 2019 till december 2019. Om din faktura var daterad januari 2020 skulle motsvarande KPI: er vara synliga från och med 15 februari 2019. **Order bekräftelser och partner rapporter kommer inte att godkännas.** Endast faktiska fakturor kommer att godkännas.
 
-### <a name="q-does-a-one-day-training-equate-to-1-kpi"></a>F. Motsvarar en 1-dagars utbildning en KPI?
+### <a name="q-does-a-one-day-training-equate-to-one-kpi"></a>F. Motsvarar en utbildning på en dag en KPI?
 
 Att uppfylla en KPI är inte relaterat till utbildningens varaktighet. Om du vill veta mer om hur KPI: er mäts kontrollerar du prestanda exemplen i [registrerings guiden för utbildnings partner](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/).
 

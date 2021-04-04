@@ -2,20 +2,22 @@
 title: Slå samman ditt partnerkonto med ett annat partnerkonto
 description: Lär dig hur du kopplar ditt partner konto till ett annat partner konto i Partner Center – för företag som är aktiva Microsoft-partner i Partner Center.
 ms.topic: article
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: ad5cc0e9c8642ceb309cac3f5fc7c99534c3dcda
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 90d1fe9728c43d2f34b6cfe2d9e4c9613d865aeb
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182604"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133071"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Slå samman ditt partnerkonto med ett annat partnerkonto
 
-**Tillämpliga roller**
+**Lämpliga roller**
 
 - Kontoadministratör
 
@@ -35,7 +37,7 @@ Två eller flera företag som är aktiva Microsoft-partner och har konton i Part
 
 - Användarens roller förs över. Om en användare exempelvis hade varit incitaments administratör för en speciell plats, skulle de fortfarande ha rollen efter fusionen och kunna se de incitament som de såg före fusionen.
 
-- Azure AD-klienter och CSP-konton slås inte samman och har ingen effekt.
+- Azure AD-klienter och CSP-konton slås inte samman och har ingen påverkan.
 
 - Publicerade erbjudanden och samförsäljnings pipeline-data som är kopplade till båda företagen bevaras
 
@@ -65,7 +67,7 @@ Om du väljer att acceptera inbjudan att slå samman konton: · Dina MPN-ID: n (
 
   - Kompetens: partner företaget får ett paket med grund förmåner, som är kopplat till deras högsta, och kompetens specifika fördelar som partnern är berättigad till per partner globalt konto.
 
-- Alla förmåner omfattas av [Microsoft Partner Network Benefits Usage Guide](https://aka.ms/partner-benefits-use-guide). Exempel: en aktive rad O365 E3-token fungerar i tolv (12) månader efter aktiveringen. När en token har Aktiver ATS för licenser på en klient organisation kan dessa licenser inte flyttas till en annan klient.
+- Alla förmåner omfattas av [Microsoft Partner Network Benefits Usage Guide](https://aka.ms/partner-benefits-use-guide). Exempel: en aktive rad O365 E3-token fungerar i 12 månader efter aktiveringen. När en token har Aktiver ATS för licenser på en klient organisation kan dessa licenser inte flyttas till en annan klient.
 
 - MCP ID-associationerna för båda företagen behålls och associeras med PGA MPN-ID: t.
 
@@ -94,33 +96,33 @@ Om du väljer att acceptera inbjudan att slå samman konton: · Dina MPN-ID: n (
  
 ### <a name="example-of-two-companies-merging-accounts"></a>Exempel på två företag som slår samman konton
 
-1. Contoso har 
+1. Contoso, Ltd. har 
 
     a. ett [globalt MPN-ID på 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) och en underordnad [plats MPN-id: n 2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile).
   
     b. en Azure AD-klient = @contoso.com
  
     c. en guld-kompetens som upphör att gälla den 1 oktober 2020
-2. Fabricam har
+2. Fabrikam, Inc. har
  
     a.  ett globalt MPN-ID på 3333333 och två underordnade platser MPN-ID: n 4444444 och 5555555
 
-    b.  en Azure AD-klient = @fabricam.com
+    b.  en Azure AD-klient = @fabrikam.com
 
     c.  två guld kompetenser som upphör att gälla den 1 december 2020
-3.  Contoso köper fabricam och går [hit](https://partner.microsoft.com/dashboard/account/merger) för att initiera en merge-begäran.
-4.  Fabricam loggar in på Partner Center och går till samma sida som contoso gjorde i steg #3 för att godkänna Contosos begäran.
+3.  Contoso köper Fabrikam och går [hit](https://partner.microsoft.com/dashboard/account/merger) för att initiera en merge-begäran.
+4.  Fabrikam loggar in på Partner Center och går till samma sida som contoso gjorde i steg #3 för att godkänna Contosos begäran.
 5.  Contoso granskar informationen om sammanslagningen på samma sida och ger bekräftelse på att gå vidare med konto fusionen.
 6.  Efter sammanslagningen visas företags kontot som:
 
     a.  Ett företag som heter Contoso med ett globalt MPN-ID på 1111111 och fyra underordnade platser MPN-ID: n 2222222, 3333333, 4444444 och 5555555
     
-    b.  Det kommer att ha två Azure AD-klienter ( @contoso.com + @fabricam.com ) som har åtkomst till samma Partner Center-konto
+    b.  Det kommer att ha två Azure AD-klienter ( @contoso.com + @fabrikam.com ) som har åtkomst till samma Partner Center-konto
     
     c.  Det kommer att ha två kompetens förmåns paket, ett som upphör att gälla den 1 oktober 2020 och en annan som upphör att gälla den 1 december 2020. De kommer att kunna förnyas som ett enda förmåns paket den 1 december 2020. När de förnyas behåller contoso alla tre kompetenser även om de bara kan ha ett enda förmåns paket.
     
-7.  Contosos administratörer fortsätter att hantera roller för partner Center för @contoso.com användarna. Fabricam-administratörer fortsätter att hantera roller i partner centret för @fabricam.com användare. Contosos administratörer kan bara administrera fabricam användare om de bjuds in som gäst i fabricam-klienten.
-8.  Contoso kunde välja att ignorera @fabricam.com klienten och sedan utfärda fabricam-anställda nya @contoso.com autentiseringsuppgifter med nya roller och behörigheter.
+7.  Contosos administratörer fortsätter att hantera roller för partner Center för @contoso.com användarna. Fabrikams administratörer fortsätter att hantera roller för partner Center för @fabrikam.com användarna. Contosos administratörer kan bara administrera Fabrikams användare om de bjuds in som gäst i Fabrikams klient organisation.
+8.  Contoso kunde välja att ignorera @fabrikam.com klienten och utfärda nya autentiseringsuppgifter för Fabrikam Employees @contoso.com med nya roller och behörigheter.
 
 ## <a name="next-steps"></a>Nästa steg
 

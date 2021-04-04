@@ -9,24 +9,23 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5f743834578b4a4b40453704a9ca1ef5adf4bc82
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 925532881b6f28b2e7a9d06372a92eed95716d48
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "92529234"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132731"
 ---
 # <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>Stöd för flera kanaler – använda andra partner för att stödja kund prenumerationer som köpts någon annan stans
 
 **Gäller för**
 
-- Partnercenter
-- Partner Center för Microsoft Cloud för amerikanska myndigheter
+- Partner Center för Microsoft myndighets moln
 
 **Lämpliga roller**
 
 - Global administratör
-- Användaradministratör
+- Administratör för användar hantering
 - Försäljnings agent
 
 Partner Centers Multi-Channel-funktion stöder scenarier när en kund vill anlita en partner för att hantera och stödja en prenumeration som de har köpt någon annan stans. Stöd för flera kanaler gäller när kunden:

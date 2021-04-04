@@ -9,17 +9,19 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 514c8d1e1c94c0a500384502ad57bad977dcc368
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 8e62462b6d35e8e6994e5e596ce433b37d222fc2
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712868"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132289"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Hantera ditt partner Center-konto – företags profil, bank information, roller, behörigheter med mera
 
-**Lämpliga roller** – global administratör
-- MPN-konto administratör
+**Lämpliga roller** 
+
+- Global administratör
+- Kontoadministratör
 
 Det konto som du skapar i Partner Center när du registrerar dig är ditt e-post och din företags information. När du har skapat ett konto slutför du konfigurationen av företagets fullständiga profil, inklusive support information, fil skatte undantag om det behövs och primär kontakt information. Ditt företags konto innehåller även användar konton för alla i teamet som ska använda Partner Center. Arbetet som de kan göra är att lägga till eller hantera kunder, Sälj prenumerationer, arbeta med fakturering och fakturering, skapa affärs profiler, hantera hänvisningar, arbeta med stimulans program, tillhandahålla support med mera.
 
@@ -48,7 +50,7 @@ När du väljer ikonen **Inställningar** och öppnar menyn **konto inställning
 
 :::image type="content" source="images/accountsettings/reseller.png" alt-text="Menyn visar flikar för partner och åter försäljare":::
 
-Fliken partner kommer att innehålla all juridisk information, till exempel registrerat juridiskt namn och adress för ditt företag, samt primär kontakt och affärs platser. Fliken åter försäljare för partner som utför CSP-verksamhet innehåller **kund support profilen**.
+Fliken partner innehåller all juridisk information, till exempel registrerat juridiskt namn och adress för ditt företag, samt primär kontakt och affärs platser. Fliken åter försäljare för partner som utför CSP-verksamhet innehåller **kund support profilen**.
 
 Om ditt företag inte deltar i CSP, kommer standardvyn endast att visa fliken **partner** , som innehåller **kund support profilen**.
 
@@ -60,7 +62,7 @@ Du kan vara en del av mer än ett konto. Du kan kontrol lera om du är en del av
 
 Om du inte ser konto väljaren är du bara en del av ett konto. 
 
-När du klickar på den här väljaren visas alla konton som du är en del av som en lista. Sedan kan du klicka på någon av dem och växla till det kontot. Allt efter det som visas i kontexten för det kontot.  
+När du väljer den här väljaren visas alla konton som du är en del av som en lista. Du kan sedan välja vilken som helst av dem och växla till det kontot. Allt efter det som visas i kontexten för det kontot.  
 
 I exemplet nedan är den inloggade användaren del av de tre markerade kontona. Användaren kan växla mellan dem genom att klicka på ett konto.
 
@@ -74,17 +76,17 @@ Använd dessa sidor för att hantera djupgående områden i ditt företag, inklu
 
 ### <a name="legal-info"></a>Juridisk information
 
-När du först ansluter till Partner Center går företaget igenom en verifierings process med Microsoft. Du kan spåra status för verifieringen på sidan **juridisk information** . Den visar den primära kontakten (som Microsoft kommer att kontakta angående partner frågor) och den primära juridiska kontakten (den person som hanterar din juridiska information och status). Alla företagets företags platser visas och du kan lägga till dem här. 
+När du först ansluter till Partner Center går företaget igenom en verifierings process med Microsoft. Du kan spåra status för verifieringen på sidan **juridisk information** . Den visar den primära kontakten (som Microsoft kommer att kontakta om partner frågor) och den primära juridiska kontakten (den person som hanterar din juridiska information och status). Alla företagets företags platser visas och du kan lägga till dem här. 
 
 ### <a name="provide-your-companys-legal-business-details"></a>Ange företagets juridiska företags information
 
 Du kan antingen söka efter företagets profil eller ange företags information manuellt. Om ditt företag är registrerat med [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)använder du duns-ID: t för att söka efter företagets information. Om du vill ange företagets information själv väljer du **manuell**.
 
-Om ditt företag finns i **Armenien**, **Ungern**, **Kirgizistan**, **Moldavien**, **Uzbekistan** eller **Ryssland** och du anger din adress manuellt, kommer vi att validera din adress åt dig. Om den som du anger, skiljer sig från den validerade, rekommenderar vi att du använder den verifierade adressen. Verifiering säkerställer att adressen är både korrekt och kan skickas till.
+Om ditt företag finns i **Armenien**, **Ungern**, **Kirgizistan**, **Moldavien**, **Uzbekistan** eller **Ryssland** och du anger din adress manuellt, kommer vi att validera din adress åt dig. Om den som du anger skiljer sig från den validerade, rekommenderar vi att du använder den verifierade adressen. Verifiering säkerställer att adressen är både korrekt och kan skickas till.
 
 ### <a name="primary-contact-email"></a>E-postadress till primär kontakt
 
-Den primära kontaktens e-postadress är vad vi ska använda för att meddela dig om verifiering av ditt konto. Det är viktigt att e-postmeddelandet som du anger för den primära kontakten är en som hanteras och bevakas regelbundet.  
+Den primära kontaktens e-postadress är det vi ska använda för att meddela dig om verifiering av ditt konto. Det är viktigt att e-postmeddelandet som du anger för den primära kontakten är en som hanteras och bevakas regelbundet.  
 
 Läs mer om [verifiering och din konto information](verification-responses.md).
 

@@ -8,24 +8,21 @@ description: Sälj Minecraft Education Edition-prenumerationer på kvalificerade
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: dc4fa7c3828bc6c6bc3fb711184a876c0b92b925
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 2c1c49dee1e9531a725f679b52adc18d4e5d856b
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531608"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133020"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Sälj Minecraft: utbildnings Edition-prenumerationer på utbildnings kunder
 
-**Gäller för**
-
--  Partnercenter
-
 **Lämpliga roller**
--   Global administratör
--   Användaradministratör
--   Försäljnings agent
--   Administratörs agent
+
+- Global administratör
+- Administratör för användar hantering
+- Försäljnings agent
+- Administratörs agent
 
 Partner som arbetar med utbildnings institutioner kan erbjuda **Minecraft: Education Edition** -prenumerationer. Du köper prenumerationen på kundens vägnar i Partner Center och sedan laddar kunden ned program varan från [Microsoft Store för utbildning](https://educationstore.microsoft.com). 
 
@@ -40,16 +37,16 @@ Följ stegen nedan för att köpa **Minecraft: Education Edition** -prenumeratio
 
   1.  Välj **kunder** från menyn Partner Center.
   
-  2.  Välj din utbildnings kund från kund listan och välj sedan **Lägg till prenumerationer** .
+  2.  Välj din utbildnings kund från kund listan och välj sedan **Lägg till prenumerationer**.
   
   3.  Välj den fakturerings frekvens som bäst uppfyller dina behov och välj sedan **utbildning** i **katalog** avsnittet.
 
-  4.  Välj den Minecraft-prenumeration som du vill köpa åt kunden och ange antalet licenser. Välj **Nästa: Granskning** .
+  4.  Välj den Minecraft-prenumeration som du vill köpa åt kunden och ange antalet licenser. Välj **Nästa: Granskning**.
 
       >[!NOTE]
       >Du kommer att kunna se och hantera de här licenserna i Partner Center. Din cucstomer kommer att se och hantera dessa licenser från inventeringen på [informations sidan Minecraft: Education Edition](https://educationstore.microsoft.com/store/details/minecraft-education-edition/9nblggh4r2r6) (du måste vara inloggad i butiken för utbildning för att kunna se informations sidan). 
 
-  5.  Om ordern är korrekt väljer du **Skicka** . Om du behöver göra ändringar i ordningen väljer du **Avbryt** och gör önskade ändringar.   
+  5.  Om ordern är korrekt väljer du **Skicka**. Om du behöver göra ändringar i ordningen väljer du **Avbryt** och gör önskade ändringar.   
 
   6.  När du har köpt prenumerationen kan du dirigera din utbildnings kund till sitt lager på [Microsoft Store för utbildning](https://educationstore.microsoft.com) för att ladda ned program varan och distribuera licenserna.
 

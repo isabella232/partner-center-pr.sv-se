@@ -9,22 +9,23 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8df91ec4072b1873a240d42fa2382ebcc00b9bc5
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 019e489b4738515639bf181591dfbc671e1b795d
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92531288"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086200"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Produkt prenumerations rapport som är tillgänglig från Partner Center Insights-instrumentpanelen
 
 **Lämpliga roller**
+
 - Global administratör
 - Administratörs agent
 - Rapport visnings program
 - Rapport visnings program för chefer
 
-Rapporten produkt prenumerationer visar analyser av moln prenumerationer som du har sålt eller som du hanterar för dina kunder. Det här är en produktspecifik rapport som innehåller prestanda för prenumerationer som är kopplade till moln produkter som Office 365, Azure, Dynamics osv.
+Rapporten produkt prenumerationer visar analyser av moln prenumerationer som du har sålt eller som du hanterar för dina kunder. Det här är en produktspecifik rapport som innehåller prestanda för prenumerationer som är kopplade till moln produkter som Office 365, Azure, Dynamics och andra.
 
 Du kan visa följande avsnitt från rapporten produkt prenumerationer.
 
@@ -44,7 +45,7 @@ Avsnittet Sammanfattning visar en Snapshot-vy över KPI: er (nyckeltal) som rör
 
 :::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="rapport Sammanfattning för prenumerationer":::
 
-Se nedan för mer information om varje del av sammanfattningen.
+Mer information om varje avsnitt i sammanfattningen finns nedan:
 
 - Prenumerationer:
   - Aktuellt antal moln produkt prenumerationer som säljs eller hanteras av dig.
@@ -76,27 +77,27 @@ Tabellen **land/region** visar det totala antalet länder/regioner där du har p
 
 Du kan söka efter och välja ett land i rutnätet för att zooma till platsen i kartan. Tryck på **Start** alternativet på kartan för att återgå till den ursprungliga vyn. Hovra över kartan för att visa alla prenumerationer och aktiva prenumerationer efter land. Båda fälten i rutnätet kan sorteras.
 
-:::image type="content" source="images/pci/pci-sub-report-sub-by-geography-2.png" alt-text="rapport Sammanfattning för prenumerationer":::
+:::image type="content" source="images/pci/pci-sub-report-sub-by-geography-2.png" alt-text="prenumerationer per geografi":::
 
 ## <a name="subscription-addschurns"></a>Prenumerations tillägg/omsättning
 
 I den här vyn presenteras en trend för prenumerationer. Dessa delas upp i olika kategorier (nya, befintliga, uppdelade) för det valda datum intervallet. X-axeln representerar månader i det valda datum intervallet. Y-axeln representerar antalet prenumerationer. Omsättnings bara prenumerationer representeras på den negativa skalan på Y-axeln. 
 
-Det liggande stapeldiagrammet visar en uppdelning av nya, befintliga och brutna prenumerationer för månaden. Du kan återskapa stapeldiagrammet, uppdelat med specifika stack-objekt. Det gör du genom att markera de aktuella objekten i förklaringen. Du kan också använda skjutreglaget ovanpå diagrammet för att zooma in en viss period.
+Det liggande stapeldiagrammet visar en uppdelning av nya, befintliga och brutna prenumerationer för månaden. Du kan återskapa stapeldiagrammet, uppdelat med specifika stack-objekt. Det gör du genom att markera de aktuella objekten i förklaringen. Du kan också använda skjutreglaget ovanpå diagrammet för att zooma in i en viss period.
 
-:::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="rapport Sammanfattning för prenumerationer":::
+:::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="prenumerations tillägg och omsättning":::
 
 ## <a name="subscription-distribution"></a>Prenumerations distribution
 
-I den här vyn presenteras en uppdelning av dina aktuella prenumerationer av dina MPN-platser, kund segment, försäljnings kanaler/Azures pris modell och typ av behörighet (t. ex. DPOR, DAP osv.). Klicka på respektive flik för att Visa uppdelningen efter dessa kategorier. Om du vill bygga cirkel diagrammet med en uppdelning av specifika objekt kategorier väljer du dessa objekt kategorier i förklaringen.
+I den här vyn presenteras en uppdelning av dina aktuella prenumerationer av dina MPN-platser, kund segment, försäljnings kanaler/Azures pris modell och behörighets typ (till exempel DPOR, DAP och andra). Välj respektive flikar för att Visa uppdelningen efter dessa kategorier. Om du vill bygga cirkel diagrammet med en uppdelning av specifika objekt kategorier väljer du dessa objekt kategorier i förklaringen.
 
-:::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="rapport Sammanfattning för prenumerationer":::
+:::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="prenumerations distribution":::
 
 ## <a name="subscription-state-distribution"></a>Distribution av prenumerations tillstånd
 
-Den här vyn visar distributionen av dina aktuella kund prenumerationer efter prenumerations status eller status. Detta omfattar följande prenumerations tillstånd: **aktiva** , **inaktiverade** , **avetablerade** , **Öppna** , **statusen ingraceperiod** , **stängda** och **andra** .
+Den här vyn visar distributionen av dina aktuella kund prenumerationer efter prenumerations status eller status. Detta omfattar följande prenumerations tillstånd: **aktiva**, **inaktiverade**, **avetablerade**, **Öppna**, **statusen ingraceperiod**, **stängda** och **andra**.
 
-:::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="rapport Sammanfattning för prenumerationer":::
+:::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="distribution av prenumerations tillstånd":::
 
 ## <a name="products-trend"></a>Produkter trend
 
@@ -104,7 +105,7 @@ I den här vyn visas ett liggande stapeldiagram och två cirkel diagram. Stapeld
 
 De två cirkel diagrammen visar en uppdelning av dina aktuella kund prenumerationer. Det första cirkel diagrammet delar upp prenumerationer efter produkter. Det andra cirkel diagrammet delar upp prenumerationer efter SKU: er eller planer. När du väljer en produkt i cirkel diagrammet dela **efter produkter** visar det intilliggande cirkel diagrammet en uppdelning av produktens prenumerationer efter SKU: er.
 
-:::image type="content" source="images/pci/pci-sub-report-prods-trend-6.png" alt-text="rapport Sammanfattning för prenumerationer":::
+:::image type="content" source="images/pci/pci-sub-report-prods-trend-6.png" alt-text="produkter trend":::
 
 > [!NOTE]
  > Antalet prenumerationer som delas upp av SKU: er kanske inte alltid matchar det totala antalet prenumerationer för produkten. Detta kan inträffa om en kund har köpt flera SKU: er under samma produkt prenumeration.
