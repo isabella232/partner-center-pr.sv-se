@@ -8,84 +8,85 @@ description: Se vad du gör bra och var du kan förbättra användningen av Powe
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 03224c029104101c2187d07bfce720294e43cf88
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: e05ea33665ded2e52eae2ef8f096b30d3bfe9ee5
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98147174"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086302"
 ---
-# <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a><span data-ttu-id="cc813-103">Power BI användnings rapport som är tillgänglig från Partner Center Insights-instrumentpanelen</span><span class="sxs-lookup"><span data-stu-id="cc813-103">Power BI usage report available from the Partner Center Insights dashboard</span></span>
+# <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a><span data-ttu-id="f7be4-103">Power BI användnings rapport som är tillgänglig från Partner Center Insights-instrumentpanelen</span><span class="sxs-lookup"><span data-stu-id="f7be4-103">Power BI usage report available from the Partner Center Insights dashboard</span></span>
 
-<span data-ttu-id="cc813-104">**Lämpliga roller**</span><span class="sxs-lookup"><span data-stu-id="cc813-104">**Appropriate roles**</span></span>
-- <span data-ttu-id="cc813-105">Global administratör</span><span class="sxs-lookup"><span data-stu-id="cc813-105">Global admin</span></span>
-- <span data-ttu-id="cc813-106">Administratörs agent</span><span class="sxs-lookup"><span data-stu-id="cc813-106">Admin agent</span></span>
-- <span data-ttu-id="cc813-107">Rapport visnings program</span><span class="sxs-lookup"><span data-stu-id="cc813-107">Report Viewer</span></span>
-- <span data-ttu-id="cc813-108">Rapport visnings program för chefer</span><span class="sxs-lookup"><span data-stu-id="cc813-108">Executive Report Viewer</span></span>
+<span data-ttu-id="f7be4-104">**Lämpliga roller**</span><span class="sxs-lookup"><span data-stu-id="f7be4-104">**Appropriate roles**</span></span>
 
-<span data-ttu-id="cc813-109">Power BI användnings rapporten innehåller användnings data för de Power BI prenumerationer som du sålde eller hanterar för dina kunder.</span><span class="sxs-lookup"><span data-stu-id="cc813-109">The Power BI usage report provides usage data for the Power BI subscriptions that you sold or manage for your customers.</span></span> <span data-ttu-id="cc813-110">Du kan visa följande avsnitt från rapporten Power BI användning.</span><span class="sxs-lookup"><span data-stu-id="cc813-110">You can view the following sections from the Power BI usage report.</span></span>
+- <span data-ttu-id="f7be4-105">Global administratör</span><span class="sxs-lookup"><span data-stu-id="f7be4-105">Global admin</span></span>
+- <span data-ttu-id="f7be4-106">Administratörs agent</span><span class="sxs-lookup"><span data-stu-id="f7be4-106">Admin agent</span></span>
+- <span data-ttu-id="f7be4-107">Rapport visnings program</span><span class="sxs-lookup"><span data-stu-id="f7be4-107">Report viewer</span></span>
+- <span data-ttu-id="f7be4-108">Rapport visnings program för chefer</span><span class="sxs-lookup"><span data-stu-id="f7be4-108">Executive report viewer</span></span>
 
-- <span data-ttu-id="cc813-111">Sammanfattning</span><span class="sxs-lookup"><span data-stu-id="cc813-111">Summary</span></span>
-- <span data-ttu-id="cc813-112">Power BI användning efter geografi</span><span class="sxs-lookup"><span data-stu-id="cc813-112">Power BI usage by geography</span></span>
-- <span data-ttu-id="cc813-113">Power BI användning per SKU</span><span class="sxs-lookup"><span data-stu-id="cc813-113">Power BI usage by SKU</span></span>
-- <span data-ttu-id="cc813-114">Prenumerations prestanda</span><span class="sxs-lookup"><span data-stu-id="cc813-114">Subscriptions performance</span></span>
-- <span data-ttu-id="cc813-115">Power BI användnings distribution</span><span class="sxs-lookup"><span data-stu-id="cc813-115">Power BI usage distribution</span></span>
+<span data-ttu-id="f7be4-109">Power BI användnings rapporten innehåller användnings data för de Power BI prenumerationer som du sålde eller hanterar för dina kunder.</span><span class="sxs-lookup"><span data-stu-id="f7be4-109">The Power BI usage report provides usage data for the Power BI subscriptions that you sold or manage for your customers.</span></span> <span data-ttu-id="f7be4-110">Du kan visa följande avsnitt från rapporten Power BI användning.</span><span class="sxs-lookup"><span data-stu-id="f7be4-110">You can view the following sections from the Power BI usage report.</span></span>
+
+- <span data-ttu-id="f7be4-111">Sammanfattning</span><span class="sxs-lookup"><span data-stu-id="f7be4-111">Summary</span></span>
+- <span data-ttu-id="f7be4-112">Power BI användning efter geografi</span><span class="sxs-lookup"><span data-stu-id="f7be4-112">Power BI usage by geography</span></span>
+- <span data-ttu-id="f7be4-113">Power BI användning per SKU</span><span class="sxs-lookup"><span data-stu-id="f7be4-113">Power BI usage by SKU</span></span>
+- <span data-ttu-id="f7be4-114">Prenumerations prestanda</span><span class="sxs-lookup"><span data-stu-id="f7be4-114">Subscriptions performance</span></span>
+- <span data-ttu-id="f7be4-115">Power BI användnings distribution</span><span class="sxs-lookup"><span data-stu-id="f7be4-115">Power BI usage distribution</span></span>
 
  > [!NOTE]
- > <span data-ttu-id="cc813-116">Den här rapporten är tillgänglig från insikts instrument panelen.</span><span class="sxs-lookup"><span data-stu-id="cc813-116">This report is available from the Insights dashboard.</span></span> <span data-ttu-id="cc813-117">Om du vill visa den här rapporten måste du ha tilldelats en speciell roll i Partner Center, till exempel global administratör, konto administratör, rapport visnings program eller Executive Report Viewer.</span><span class="sxs-lookup"><span data-stu-id="cc813-117">To view this report, you must be assigned a specific role in Partner Center, such as Global Admin, Account Admin, Report Viewer or Executive Report Viewer.</span></span> <span data-ttu-id="cc813-118">Mer information finns i företagets globala administratör. vissa typer av data i den här rapporten kan också endast vara tillgängliga för användare med behörigheten Executive Report Viewer.</span><span class="sxs-lookup"><span data-stu-id="cc813-118">For more information, see your company's Global Admin. Specific types of data in this report may also be available only to users with Executive Report Viewer privileges.</span></span>
+ > <span data-ttu-id="f7be4-116">Den här rapporten är tillgänglig från insikts instrument panelen.</span><span class="sxs-lookup"><span data-stu-id="f7be4-116">This report is available from the Insights dashboard.</span></span> <span data-ttu-id="f7be4-117">Om du vill visa den här rapporten måste du ha tilldelats en speciell roll i Partner Center, till exempel global administratör, konto administratör, rapport visnings program eller Executive Report Viewer.</span><span class="sxs-lookup"><span data-stu-id="f7be4-117">To view this report, you must be assigned a specific role in Partner Center, such as Global Admin, Account Admin, Report Viewer or Executive Report Viewer.</span></span> <span data-ttu-id="f7be4-118">Mer information finns i företagets globala administratör. vissa typer av data i den här rapporten kan också endast vara tillgängliga för användare med behörigheten Executive Report Viewer.</span><span class="sxs-lookup"><span data-stu-id="f7be4-118">For more information, see your company's Global Admin. Specific types of data in this report may also be available only to users with Executive Report Viewer privileges.</span></span>
 
-## <a name="summary"></a><span data-ttu-id="cc813-119">Sammanfattning</span><span class="sxs-lookup"><span data-stu-id="cc813-119">Summary</span></span>
+## <a name="summary"></a><span data-ttu-id="f7be4-119">Sammanfattning</span><span class="sxs-lookup"><span data-stu-id="f7be4-119">Summary</span></span>
 
-<span data-ttu-id="cc813-120">Avsnittet Sammanfattning visar en ögonblicks bild av de viktigaste indikatorerna för Power BI användnings prenumerationer som du har sålt eller hanterat för dina kunder.</span><span class="sxs-lookup"><span data-stu-id="cc813-120">The summary section presents a snapshot view of the key indicators related to Power BI usage subscriptions that you sold or manage for your customers.</span></span> 
+<span data-ttu-id="f7be4-120">Avsnittet Sammanfattning visar en ögonblicks bild av de viktigaste indikatorerna för Power BI användnings prenumerationer som du har sålt eller hanterat för dina kunder.</span><span class="sxs-lookup"><span data-stu-id="f7be4-120">The summary section presents a snapshot view of the key indicators related to Power BI usage subscriptions that you sold or manage for your customers.</span></span> 
 
-- <span data-ttu-id="cc813-121">Tillgängliga platser: totalt antal sålda licenser under den valda tids ramen.</span><span class="sxs-lookup"><span data-stu-id="cc813-121">Available seats: Total number of licenses sold during the selected timeframe.</span></span>
+- <span data-ttu-id="f7be4-121">Tillgängliga platser: totalt antal sålda licenser under den valda tids perioden.</span><span class="sxs-lookup"><span data-stu-id="f7be4-121">Available seats: Total number of licenses sold during the selected time frame.</span></span>
 
-   <span data-ttu-id="cc813-122">Micro-diagrammet presenterar en månads månads trend för tillgängliga antal platser för det valda datum intervallet.</span><span class="sxs-lookup"><span data-stu-id="cc813-122">The Micro chart presents a month-over-month trend of available seats count for your selected date range.</span></span>
+   <span data-ttu-id="f7be4-122">Micro-diagrammet presenterar en månads månads trend för tillgängliga antal platser för det valda datum intervallet.</span><span class="sxs-lookup"><span data-stu-id="f7be4-122">The Micro chart presents a month-over-month trend of available seats count for your selected date range.</span></span>
 
-- <span data-ttu-id="cc813-123">Tilldelade platser: totalt antal licenser som tilldelats under den valda tids ramen.</span><span class="sxs-lookup"><span data-stu-id="cc813-123">Assigned seats: Total number of licenses assigned during the selected timeframe.</span></span>
+- <span data-ttu-id="f7be4-123">Tilldelade platser: totalt antal licenser som tilldelats under den valda tids perioden.</span><span class="sxs-lookup"><span data-stu-id="f7be4-123">Assigned seats: Total number of licenses assigned during the selected time frame.</span></span>
 
-   <span data-ttu-id="cc813-124">Micro-diagrammet presenterar en månads månads trend för tilldelade platser under det valda datum intervallet.</span><span class="sxs-lookup"><span data-stu-id="cc813-124">The Micro chart presents a month-over-month trend of the assigned seats count during your selected date range.</span></span>
+   <span data-ttu-id="f7be4-124">Micro-diagrammet presenterar en månads månads trend för tilldelade platser under det valda datum intervallet.</span><span class="sxs-lookup"><span data-stu-id="f7be4-124">The Micro chart presents a month-over-month trend of the assigned seats count during your selected date range.</span></span>
 
-- <span data-ttu-id="cc813-125">Aktiva platser: totalt antal licenser som hade användning under den valda tids ramen.</span><span class="sxs-lookup"><span data-stu-id="cc813-125">Active seats: Total number of licenses that had usage during the selected timeframe.</span></span> 
+- <span data-ttu-id="f7be4-125">Aktiva platser: totalt antal licenser som hade användning under den valda tids perioden.</span><span class="sxs-lookup"><span data-stu-id="f7be4-125">Active seats: Total number of licenses that had usage during the selected time frame.</span></span> 
 
-   <span data-ttu-id="cc813-126">Micro-diagrammet presenterar en månatlig trend för månatliga aktiva platser under den valda tids perioden.</span><span class="sxs-lookup"><span data-stu-id="cc813-126">The Micro chart presents a monthly trend of monthly active seats over the selected time period.</span></span>
+   <span data-ttu-id="f7be4-126">Micro-diagrammet presenterar en månatlig trend för månatliga aktiva platser under den valda tids perioden.</span><span class="sxs-lookup"><span data-stu-id="f7be4-126">The Micro chart presents a monthly trend of monthly active seats over the selected time period.</span></span>
 
-- <span data-ttu-id="cc813-127">Aktiv användning%: totalt antal aktiva platser som uttryckts som en procent andel tillgängliga platser för den valda tids ramen.</span><span class="sxs-lookup"><span data-stu-id="cc813-127">Active Usage %: Total number of active seats expressed as a percentage of the available seats for the selected timeframe.</span></span> 
+- <span data-ttu-id="f7be4-127">Aktiv användning%: totalt antal aktiva platser som uttryckts som en procent andel tillgängliga platser för den valda tids perioden.</span><span class="sxs-lookup"><span data-stu-id="f7be4-127">Active Usage %: Total number of active seats expressed as a percentage of the available seats for the selected time frame.</span></span> 
 
-   <span data-ttu-id="cc813-128">Micro-diagrammet presenterar en månatlig trend för aktiv användnings procent under den valda tids perioden.</span><span class="sxs-lookup"><span data-stu-id="cc813-128">The Micro chart presents a monthly trend of active usage percentage over the selected time period.</span></span>
+   <span data-ttu-id="f7be4-128">Micro-diagrammet presenterar en månatlig trend för aktiv användnings procent under den valda tids perioden.</span><span class="sxs-lookup"><span data-stu-id="f7be4-128">The Micro chart presents a monthly trend of active usage percentage over the selected time period.</span></span>
 
 :::image type="content" source="images/pci/pci-pbi-usage-summary.png" alt-text="Sammanfattning av Power BI användning":::
 
-## <a name="power-bi-usage-by-geography"></a><span data-ttu-id="cc813-130">Power BI användning efter geografi</span><span class="sxs-lookup"><span data-stu-id="cc813-130">Power BI usage by geography</span></span>
+## <a name="power-bi-usage-by-geography"></a><span data-ttu-id="f7be4-130">Power BI användning efter geografi</span><span class="sxs-lookup"><span data-stu-id="f7be4-130">Power BI usage by geography</span></span>
 
-<span data-ttu-id="cc813-131">**Power BI användning per geografi** visar distributionen av tillgängliga platser och aktiva platser efter kund land.</span><span class="sxs-lookup"><span data-stu-id="cc813-131">The **Power BI usage by geography** depicts the distribution of available seats and active seats by customer country.</span></span> <span data-ttu-id="cc813-132">Ljusare färger på kartan representerar lägre värden, medan mörkare färger representerar högre värden.</span><span class="sxs-lookup"><span data-stu-id="cc813-132">Lighter colors on the map represent lower values, while darker colors represent higher values.</span></span> <span data-ttu-id="cc813-133">Du kan söka efter och välja ett land i rutnätet för att zooma till.</span><span class="sxs-lookup"><span data-stu-id="cc813-133">You can search and select a country in the grid to zoom to.</span></span>
+<span data-ttu-id="f7be4-131">**Power BI användning per geografi** visar distributionen av tillgängliga platser och aktiva platser efter kund land.</span><span class="sxs-lookup"><span data-stu-id="f7be4-131">The **Power BI usage by geography** depicts the distribution of available seats and active seats by customer country.</span></span> <span data-ttu-id="f7be4-132">Ljusare färger på kartan representerar lägre värden, medan mörkare färger representerar högre värden.</span><span class="sxs-lookup"><span data-stu-id="f7be4-132">Lighter colors on the map represent lower values, while darker colors represent higher values.</span></span> <span data-ttu-id="f7be4-133">Du kan söka efter och välja ett land i rutnätet för att zooma till.</span><span class="sxs-lookup"><span data-stu-id="f7be4-133">You can search and select a country in the grid to zoom to.</span></span>
 
-<span data-ttu-id="cc813-134">Tabellen **land/region** visar det totala antalet länder/regioner där Azures användnings händelser genereras.</span><span class="sxs-lookup"><span data-stu-id="cc813-134">The **Number of countries/region** table presents the total countries/regions where Azure usage events are generated.</span></span>
+<span data-ttu-id="f7be4-134">Tabellen **land/region** visar det totala antalet länder/regioner där Azures användnings händelser genereras.</span><span class="sxs-lookup"><span data-stu-id="f7be4-134">The **Number of countries/region** table presents the total countries/regions where Azure usage events are generated.</span></span>
 
-<span data-ttu-id="cc813-135">Du kan söka efter och välja ett land i rutnätet för att zooma till platsen i kartan.</span><span class="sxs-lookup"><span data-stu-id="cc813-135">You can search and select a country in the grid to zoom to the location in the map.</span></span> <span data-ttu-id="cc813-136">Välj alternativet **Start** på kartan för att återgå till den ursprungliga vyn.</span><span class="sxs-lookup"><span data-stu-id="cc813-136">Select the **Home** option on the map to revert to the original view.</span></span>
+<span data-ttu-id="f7be4-135">Du kan söka efter och välja ett land i rutnätet för att zooma till platsen i kartan.</span><span class="sxs-lookup"><span data-stu-id="f7be4-135">You can search and select a country in the grid to zoom to the location in the map.</span></span> <span data-ttu-id="f7be4-136">Välj alternativet **Start** på kartan för att återgå till den ursprungliga vyn.</span><span class="sxs-lookup"><span data-stu-id="f7be4-136">Select the **Home** option on the map to revert to the original view.</span></span>
 
 :::image type="content" source="images/pci/pci-pbi-usage-geography.png" alt-text="Power BI användning efter geografi":::
 
-## <a name="power-bi-usage-by-sku"></a><span data-ttu-id="cc813-138">Power BI användning per SKU</span><span class="sxs-lookup"><span data-stu-id="cc813-138">Power BI usage by SKU</span></span>
+## <a name="power-bi-usage-by-sku"></a><span data-ttu-id="f7be4-138">Power BI användning per SKU</span><span class="sxs-lookup"><span data-stu-id="f7be4-138">Power BI usage by SKU</span></span>
 
-<span data-ttu-id="cc813-139">Power BI användning per SKU visar månads trenden för tillgängliga platser, aktiva platser och tilldelade platser med SKU: er.</span><span class="sxs-lookup"><span data-stu-id="cc813-139">The Power BI usage by SKU depicts monthly trend of available seats, active seats, and assigned seats by SKUs.</span></span>
+<span data-ttu-id="f7be4-139">Power BI användning per SKU visar månads trenden för tillgängliga platser, aktiva platser och tilldelade platser med SKU: er.</span><span class="sxs-lookup"><span data-stu-id="f7be4-139">The Power BI usage by SKU depicts monthly trend of available seats, active seats, and assigned seats by SKUs.</span></span>
 
 :::image type="content" source="images/pci/pci-pbi-usage-sku.png" alt-text="Power BI användning per SKU":::
 
-## <a name="subscriptions-performance"></a><span data-ttu-id="cc813-141">Prenumerations prestanda</span><span class="sxs-lookup"><span data-stu-id="cc813-141">Subscriptions performance</span></span>
+## <a name="subscriptions-performance"></a><span data-ttu-id="f7be4-141">Prenumerations prestanda</span><span class="sxs-lookup"><span data-stu-id="f7be4-141">Subscriptions performance</span></span>
 
-<span data-ttu-id="cc813-142">Prenumerations prestandan visar månads trenden för aktiv användning per kund prenumeration.</span><span class="sxs-lookup"><span data-stu-id="cc813-142">The Subscriptions performance depicts monthly trend of active usage per customer subscription.</span></span> <span data-ttu-id="cc813-143">Data för de främsta 100 kunderna med fakturerad intäkt visas i tabellen och du kan söka efter en kund eller ladda ned rå data för att visa information om alla prenumerationer.</span><span class="sxs-lookup"><span data-stu-id="cc813-143">Data for the top 100 customers by billed revenue is shown in the table and you can search for any customer or download the raw data to view details for all subscriptions.</span></span>
+<span data-ttu-id="f7be4-142">Prenumerations prestandan visar månads trenden för aktiv användning per kund prenumeration.</span><span class="sxs-lookup"><span data-stu-id="f7be4-142">The Subscriptions performance depicts monthly trend of active usage per customer subscription.</span></span> <span data-ttu-id="f7be4-143">Data för de främsta 100 kunderna med fakturerad intäkt visas i tabellen och du kan söka efter en kund eller ladda ned rå data för att visa information om alla prenumerationer.</span><span class="sxs-lookup"><span data-stu-id="f7be4-143">Data for the top 100 customers by billed revenue is shown in the table and you can search for any customer or download the raw data to view details for all subscriptions.</span></span>
 
 :::image type="content" source="images/pci/pci-pbi-usage-subscription.png" alt-text="Power BI prenumerations prestanda":::
 
-## <a name="power-bi-usage-distribution"></a><span data-ttu-id="cc813-145">Power BI användnings distribution</span><span class="sxs-lookup"><span data-stu-id="cc813-145">Power BI usage distribution</span></span>
+## <a name="power-bi-usage-distribution"></a><span data-ttu-id="f7be4-145">Power BI användnings distribution</span><span class="sxs-lookup"><span data-stu-id="f7be4-145">Power BI usage distribution</span></span>
 
-<span data-ttu-id="cc813-146">Den Power BI användnings fördelningen illustrerar fördelningen av tillgängliga platser, aktiva platser och tilldelade platser med SKU: er.</span><span class="sxs-lookup"><span data-stu-id="cc813-146">The Power BI usage distribution depicts the breakdown of available seats, active seats, and assigned seats by SKUs.</span></span>
+<span data-ttu-id="f7be4-146">Den Power BI användnings fördelningen illustrerar fördelningen av tillgängliga platser, aktiva platser och tilldelade platser med SKU: er.</span><span class="sxs-lookup"><span data-stu-id="f7be4-146">The Power BI usage distribution depicts the breakdown of available seats, active seats, and assigned seats by SKUs.</span></span>
 
 :::image type="content" source="images/pci/pci-pbi-usage-distribution.png" alt-text="Power BI användnings distribution":::
 
-## <a name="next-steps"></a><span data-ttu-id="cc813-148">Nästa steg</span><span class="sxs-lookup"><span data-stu-id="cc813-148">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="f7be4-148">Nästa steg</span><span class="sxs-lookup"><span data-stu-id="f7be4-148">Next steps</span></span>
 
-- <span data-ttu-id="cc813-149">Mer information finns i [partner Center Insights](partner-center-insights.md).</span><span class="sxs-lookup"><span data-stu-id="cc813-149">For more reports, see [Partner Center Insights](partner-center-insights.md).</span></span>
+- <span data-ttu-id="f7be4-149">Mer information finns i [partner Center Insights](partner-center-insights.md).</span><span class="sxs-lookup"><span data-stu-id="f7be4-149">For more reports, see [Partner Center Insights](partner-center-insights.md).</span></span>
 
-- <span data-ttu-id="cc813-150">Du kan ladda ned rå data från den här rapporten från avsnittet hämta rapporter på instrument panelen insikter.</span><span class="sxs-lookup"><span data-stu-id="cc813-150">You can download the raw data powering this report from the Download Reports section in the Insights dashboard.</span></span> [<span data-ttu-id="cc813-151">Läs mer</span><span class="sxs-lookup"><span data-stu-id="cc813-151">Learn More</span></span>](pci-download-reports.md) 
+- <span data-ttu-id="f7be4-150">Du kan ladda ned rå data från den här rapporten från avsnittet hämta rapporter på instrument panelen insikter.</span><span class="sxs-lookup"><span data-stu-id="f7be4-150">You can download the raw data powering this report from the Download Reports section in the Insights dashboard.</span></span> [<span data-ttu-id="f7be4-151">Läs mer</span><span class="sxs-lookup"><span data-stu-id="f7be4-151">Learn More</span></span>](pci-download-reports.md) 
