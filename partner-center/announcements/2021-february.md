@@ -10,13 +10,13 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 02/25/2021
-ms.openlocfilehash: c4ea0af46aa2dee02e2270e1f2d58eeff0f59ff4
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 04/02/2021
+ms.openlocfilehash: 79d492fa907f9d2b9318ba9fa9850401b61a2b7d
+ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712485"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "106280912"
 ---
 # <a name="february-2021-announcements"></a>Meddelanden från februari 2021
 
@@ -150,23 +150,25 @@ ________________
 
 ### <a name="categories"></a>Kategorier
 
-- Datum: 2021-02-25
+- Datum: 2021-04-02
 - Förbättrad säkerhet och efterlevnad
-
-### <a name="impacted-audience"></a>Förverkad mål grupp
-
-KRYPTOGRAFIPROVIDERs direkta fakturerings partner och indirekta leverantörer som har nya eller befintliga kunder i de länder som anges i nästa avsnitt.
 
 ### <a name="summary"></a>Sammanfattning
 
-Som en del av vårt åtagande att hjälpa partner och kunder att köra verksamhet utifrån förtroende kommer vi att begära ytterligare kund information, från och med den 25 mars 2021.
+Som en del av vårt åtagande att hjälpa partner och kunder att köra verksamheten baserat på förtroende kommer vi att begära ytterligare kund information, från och med den 25 mars 2021.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+CSP direkt fakturerings partner och indirekta leverantörer som har nya eller befintliga kunder i de länder som anges i nästa avsnitt
 
 ### <a name="details"></a>Information
 
 Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för kund validering för att agera kund prenumerationer i CSP-programmet. Den 25 mars 2021 kommer vi att introduktion till API: er och användar gränssnitts förbättringar i Partner Center som påverkar partner som uppfyller båda följande kriterier:
 
 1. Partnern har en direkt fakturerings relation med Microsoft (vilket innebär att partnern antingen är en direkt fakturerings partner eller en indirekt Provider).
+
 2. Partnern gör affärer med nya eller befintliga kunder i följande länder:
+
     - Thailand
     - Vietnam
     - Turkiet
@@ -181,7 +183,9 @@ Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompat
     - Förenade Arabemiraten
     - Venezuela
 
-Partner som uppfyller kriterierna måste skicka in en kunds **juridiska identifierare** (kallas även kundens **organisations Inn**) och **telefonnummer** när de registrerar nya kunder eller ändrar befintlig kund information. Dessa partner kan också ange ett **mellannamn** för kunden (valfritt).
+Partner som uppfyller kriterierna måste skicka in en kunds företags registrerings-ID (även kallat kundens organisations INN) och telefonnummer när nästa uppdatering eller skapar en prenumeration för kunden. Dessa partner kan också ange ett mellannamn för kunden (valfritt).
+
+Observera att när du lägger till ditt företags registrerings-ID bör du använda företagets skatte-ID och inte kundens personliga ID.
 
 Partner som gör affärer med nya eller befintliga kunder i följande länder har redan publicerats med en tidigare version i november 2020.
 
@@ -197,20 +201,35 @@ Partner som gör affärer med nya eller befintliga kunder i följande länder ha
 - Ukraina
 - Uzbekistan
 
-Partner med kunder i resten av världen kommer att ha möjlighet den 25 mars 2021 att ange **juridisk identifierare**, **telefonnummer** och **mellan namn** för kunder som valfri information.
+Partner med kunder i resten av världen kommer att ha möjlighet i slutet av mars 2021 att ange företagets registrerings-ID, telefonnummer och mellan namn för kunder som valfri information.
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Läs igenom den tekniska dokumentationen och vanliga frågor och svar i den dedikerade [partner samlingen](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) (inloggning krävs) för mer detaljerad vägledning.
+- Läs igenom den tekniska dokumentationen och vanliga frågor och svar i den dedikerade [partner samlingen](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) för mer detaljerad vägledning.
 - Förbered för att införliva ändringarna med partner Center API och webb användar upplevelsen. API/SDK: er kommer att vara tillgängliga för testning.
 - Se till att skicka in ytterligare data när du registrerar nya kunder eller ändrar befintlig kund information.
 - Om du använder en lösning för en kontroll panels leverantör (CPV) bör du kontakta din CPV.
 
 ### <a name="questions"></a>Har du några frågor?
 
-Kontakta din skatte rådgivare eller ditt lokala skatte kontor om du har frågor som rör juridisk identifierare (även kallat INN eller tenn). Microsoft kan inte ge vägledning om skatte frågor.
+Kontakta din skatte rådgivare eller ditt lokala skatte kontor om du har frågor som rör företagets registrerings-ID (kallas även INN eller tenn). Microsoft kan inte ge vägledning om skatte frågor.
 
-Om du behöver stöd för dina åtgärder med Microsoft [öppnar du en tjänstbegäran](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8) (inloggning krävs).
+Om du behöver stöd för dina åtgärder med Microsoft öppnar du en [tjänstbegäran](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+
+### <a name="change-log"></a>Ändrings logg:
+
+17 december 2020: ursprunglig publikation
+
+28 januari 2021: ompublicering inga ändringar
+
+25 februari 2021: visst start datum lanseras
+
+2 april 2021: uppdateringar omfattar följande:
+
+- Start datum angivet
+- Rubriken för organisationen INN har uppdaterats till företagets registrerings-ID 
+- Anteckning lades till för att ge klargörande för företagets registrerings-ID
+
 
 ________________
 ## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a> Nu Live: DocuSign migrering till Adobe Sign för partner under Microsoft partner Agreement (MPAs)
@@ -377,7 +396,7 @@ Dessa Microsoft 365 E3-prisuppdateringar är begränsade till dessa valutor: JPY
 
 ### <a name="next-steps"></a>Nästa steg
 
-Partner bör hämta de senaste pris List filerna från Partner Center för att få de senaste mars priserna. 
+Partner bör hämta de senaste pris List filerna från Partner Center för att få de senaste mars priserna.
 
 _______________
 

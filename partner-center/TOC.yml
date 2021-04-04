@@ -93,6 +93,8 @@
         - name: Demonstrationer för MPN-partner
           href: mpn-demos.md
           displayName: mpn
+        - name: Fördelar principer och användning – vanliga frågor och svar
+          href: benefits-faq-new.md
         - name: Vanliga frågor och svar om förmåner
           href: benefits-faq.md
           displayName: 'renew, license,'

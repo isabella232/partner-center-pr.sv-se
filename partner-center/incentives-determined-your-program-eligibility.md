@@ -8,16 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 03/16/2021
-ms.openlocfilehash: 405f7603639a3d460a307fab467872550487e936
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: cd54249e1fb53fdf3a753b38d1e9999008b9d79a
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712177"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179231"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>Ta reda på vilka incitaments program som är berättigade
 
-**Lämpliga roller**:
+**Lämpliga roller**
 
 - Global administratör
 - Incitaments administratör
@@ -40,7 +40,7 @@ Du kan hitta de särskilda behörighetskraven för ditt program i programguiden.
 
    :::image type="content" source="images/incentives/eligibility.png" alt-text="Skärm bild är ett exempel på incitaments krav.":::
 
-5. Du måste slutföra alla områden som är avmarkerade för att uppfylla berättiganden. Varje incitaments program har en egen uppsättning krav.
+5. Slutför alla områden som är avmarkerade för att uppfylla berättiganden. Varje incitaments program har en egen uppsättning krav.
 
 ## <a name="next-steps"></a>Nästa steg
 

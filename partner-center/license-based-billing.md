@@ -1,28 +1,27 @@
 ---
-title: Licensbaserade fakturering
+title: Licensbaserad fakturering
 description: Lär dig hur licensbaserade fakturor skiljer sig från användnings faktureringar i Partner Center, inklusive hur du faktureras per licens (inte efter licens användning).
 ms.topic: article
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 1fd6d9e4a9115757382e79f884a14d23e4545419
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 007a15091a018755c60c4e02c394ad31868d4233
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "92531376"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179419"
 ---
 # <a name="license-based-billing-in-partner-center"></a>Licensierad fakturering i Partner Center
 
-**Gäller för**
+**Lämpliga roller**
 
-- Partnercenter
-- Partner i CSP-programmet
-
-**Lämpliga roller** – global administratör
-- Användaradministratör
+- Global administratör
+- Administratör för användar hantering
 - Faktureringsadministratör
 - Administratörs agent
 
@@ -30,11 +29,11 @@ När du köper produkter eller onlinetjänster i Partner Center som kräver **li
 
 ## <a name="license-billing-frequency"></a>Licens fakturerings frekvens
 
-Du kan välja att faktureras för licenser en gång i månaden ( **månatlig fakturering** ) eller en gång om året ( **årlig fakturering** ). 
+Du kan välja att faktureras för licenser en gång i månaden (**månatlig fakturering**) eller en gång om året (**årlig fakturering**). 
 
 ## <a name="billing-date-for-licenses"></a>Fakturerings datum för licenser
 
-Licensbaserade prenumerationer faktureras i förväg för prenumerationens **jubileums dag** . Årsdagen är den dag i månaden som du har köpt prenumerationen.
+Licensbaserade prenumerationer faktureras i förväg för prenumerationens **jubileums dag**. Årsdagen är den dag i månaden som du har köpt prenumerationen.
 
 Exempel:
 
@@ -61,6 +60,6 @@ Alla licensbaserade prenumerationer förnyas automatiskt 12 månader efter det a
 
 - [Översikt över fakturering i Partner Center](billing-basics.md)
 
-- [Typer av fakturering i Partner Center](billing-different-types.md)
+- [Typer av fakturering i Partnercenter](billing-different-types.md)
 
 - [Huvud artiklar för fakturering och moms](billing.md)

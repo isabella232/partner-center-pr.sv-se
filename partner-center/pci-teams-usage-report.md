@@ -8,16 +8,17 @@ description: Se vad du gör bra och var du kan förbättra användningen av team
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 345e721ebec5396a0681ec2f357b8778169c0887
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: 2292e9640224a2bdf333cb8ddb0e2245f34564e9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98147159"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086727"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Team användnings rapport som är tillgänglig från Partner Center Insights-instrumentpanelen
 
 **Lämpliga roller**
+
 - Global administratör
 - Administratörs agent
 - Rapport visnings program
@@ -51,19 +52,19 @@ I sammanfattnings avsnittet visas en ögonblicks bild av de viktigaste indikator
 
 ## <a name="conversations-trend"></a>Konversations trend
 
-Konversations trenden visar den månatliga trenden för team möten, samtal och telefon system tillsammans med den genomsnittliga Mötes tiden på några minuter.
+I trend rapporten konversationer visas månads trenden för team möten, samtal och telefon system tillsammans med genomsnittlig Mötes tid i minuter.
 
 :::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="trender för team användnings konversationer":::
 
 ## <a name="teams-usage-by-workloads"></a>Team användning per arbets belastning
 
-Team användningen av arbets belastningar visar den månatliga delningen av Skriv bords-, mobil-och webb användare för team som delas av arbets belastningar.
+I rapporten team användning per arbets belastning visas den månatliga delningen av Skriv bords-, mobil-och webb användare för team som delas av arbets belastningar.
 
 :::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="Team användning per arbets belastning":::
 
 ## <a name="top-customers-by-usage"></a>Främsta kunder efter användning
 
-De främsta kunderna efter användning beskriver användningen av främsta kunder vad gäller team möten, samtal och telefon system och appar från tredje part.
+Rapporten främsta kunder per användning visar användningen av främsta kunder för team möten, samtal och telefon system och appar från tredje part.
 
 :::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="Främsta kunder efter användning":::
 

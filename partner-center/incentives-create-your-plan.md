@@ -8,20 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e3d2ec916a8c8a9d29b5ba82db6542d55bd84e8
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 1ad11a42a91cfacb625a05b850b0cdfee3d48d0b
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92531457"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179266"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Skapa en marknadsförings plan för ditt incitaments program
 
-**Gäller för:**
-
-- Partnercenter
-
-**Lämpliga roller:**
+**Lämpliga roller**
 
 - Incitaments administratör
 - Faktureringsadministratör
@@ -44,21 +40,21 @@ Mer information om planer för ditt specifika incitaments program finns i progra
 
 2. Under **incitament** i det vänstra navigeringsfönstret väljer du **Program** och väljer sedan ditt program. 
 
-3. På sidan **program** letar du rätt på marknaden för din plan och väljer sedan **Skapa plan** . 
+3. På sidan **program** letar du rätt på marknaden för din plan och väljer sedan **Skapa plan**. 
 
-4. Fyll i de obligatoriska fälten på sidan **ny plan** . **Valuta** är det värde som du vill att planen ska avspegla. E-postadressen för **granskare** bör vara Microsoft-e-postadressen till din konto hanterare. Observera att endast en plan kan skapas per MPN-ID, fond, program och period. Välj **Spara** .
+4. Fyll i de obligatoriska fälten på sidan **ny plan** . **Valuta** är det värde som du vill att planen ska avspegla. E-postadressen för **granskare** bör vara Microsoft-e-postadressen till din konto hanterare. Observera att endast en plan kan skapas per MPN-ID, fond, program och period. Välj **Spara**.
 
 5. Gå igenom informationen på planens statussida. Välj **Redigera** om du behöver uppdatera informationen.
 
-6. När informationen på den här sidan är korrekt väljer du **ny kampanj** .
+6. När informationen på den här sidan är korrekt väljer du **ny kampanj**.
 
-7. Fyll i de obligatoriska fälten på sidan **ny kampanj** och välj sedan **Spara** .
+7. Fyll i de obligatoriska fälten på sidan **ny kampanj** och välj sedan **Spara**.
 
 8. Välj **Ny aktivitet** på statussidan. 
 
-9. Fyll i de obligatoriska fälten på sidan **Ny aktivitet** . Du kan välja flera länder. När du är klar väljer du **Spara** . 
+9. Fyll i de obligatoriska fälten på sidan **Ny aktivitet**. Du kan välja flera länder. När du är klar väljer du **Spara**. 
 
-10. Gå igenom informationen på statussidan igen. När du har skickat en plan kan du inte redigera den. När du är klar väljer du **Skicka** och väljer sedan **Bekräfta** .
+10. Gå igenom informationen på statussidan igen. När du har skickat en plan kan du inte redigera den. När du är klar väljer du **Skicka** och väljer sedan **Bekräfta**.
 
 Nu har din plan skickats. Microsoft meddelar din incitamentsadministratör när den har godkänts eller om vi behöver mer information. Du kan visa planens förlopp i fönstret Status på statussidan.
 
@@ -68,7 +64,7 @@ Nu har din plan skickats. Microsoft meddelar din incitamentsadministratör när 
 
 2. Välj alternativet för **planhantering** på sidan **Incitament** och välj sedan önskat program. Statussidan öppnas.
 
-3. I avsnittet **Planer** visas statusen för varje plan i kolumnen **Status** .
+3. I avsnittet **Planer** visas statusen för varje plan i kolumnen **Status**.
 
    Följande är de olika möjliga statusarna för din co-op-anspråks plan.
 
@@ -90,9 +86,9 @@ Du måste skapa och skicka din plan senast den sista dagen på programåret. Om 
 
 Microsoft betalar dig varje månad baserat på hur mycket du tjänar och gränserna för ditt prenumerationsavtal. Betalningar görs den 15:e dagen i efterföljande månad.
 
-Om ditt prenumerationsavtal exempelvis har en godkänd gräns på 10 000 USD och du tjänade 5 000 USD under april, så får du 5 000 USD den 15 maj.
+Om ditt abonnemang till exempel är godkänt för $10 000 och du har intjänat $5 000 i månaden april får du $5 000 den 15 maj.
 
-Om du med samma prenumerationsavtal tjänar 15 000 USD under april, får du 10 000 USD den 15 maj eftersom 10 000 USD var gränsen för ditt prenumerationsavtal. För att få större betalningar måste du höja gränsen för ditt prenumerationsavtal för den efterföljande månaden.
+Under samma plan kan du, om du tar $15 000 i april, ta emot $10 000 den 15 maj eftersom $10 000 var gränsen för ditt abonnemang. För att få större betalningar måste du höja gränsen för ditt prenumerationsavtal för den efterföljande månaden.
 
 ## <a name="next-steps"></a>Nästa steg
 

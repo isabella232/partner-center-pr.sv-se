@@ -9,23 +9,18 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9f60b6e2624bd4f9020181a936842bdb46db8aa9
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: f2bf6823fdd976632fb8ad9c8f11ce99835d76a5
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133056"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087084"
 ---
 # <a name="common-questions-about-partner-security-requirements"></a>Vanliga frågor om säkerhets krav för partner
 
-**Gäller för**
+**Lämpliga roller**
 
-- Partnercenter
-
-**Lämpliga användare**
-
-- Alla aktiverade användare, inklusive gäst användare
-
+- Alla partner Center-användare
 
 I den här artikeln besvaras några vanliga frågor om [partnerns säkerhets krav](partner-security-requirements.md).
 
@@ -53,14 +48,14 @@ Nej, det går inte att undanta något användar konto från kravet på att anvä
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>Hur gör jag för att veta om jag har uppfyllt kraven för partner säkerhet?
 
-Du måste utföra följande steg:
+Slutför följande steg:
 
 - Du måste uppfylla alla krav som beskrivs i [partner säkerhets kraven](partner-security-requirements.md).
 - Du måste se till att alla användar konton i din partner klient har Multi-Factor Authentication.
 
 För att hjälpa till att identifiera de viktiga områden där du kan vidta åtgärder tillhandahåller vi [status rapporten säkerhets krav](https://partner.microsoft.com/commerce/security/compliance) som är tillgänglig via partner Center.
 
-Information om status rapporten finns i [säkerhets krav för partner](partner-security-compliance.md) .
+Mer information om status rapporten finns i status för [partner säkerhets krav](partner-security-compliance.md).
 
 ## <a name="required-actions"></a>Nödvändiga åtgärder
 
@@ -77,7 +72,7 @@ Alla partner i CSP-programmet (direkta fakturor, indirekta providers och indirek
     - Indirekta leverantörer behöver arbeta med indirekta åter försäljare för att publicera till Partner Center om de inte redan har gjort det, och uppmuntrar deras åter försäljare att uppfylla kraven.
     - Azure MFA görs tillgängligt för alla användare i partner innehavaren utan kostnad genom Azure AD Security-standardvärden med den enda verifierings metoden för ett Authenticator-program som har stöd för tidsbaserad en tid lösen ord (TOTP mobilapp).
     - Ytterligare verifierings metoder är tillgängliga via [Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium) SKU: er, om andra metoder som ett telefonsamtal eller SMS krävs.
-    - Partner kan också utnyttja en MFA-lösning från tredje part för varje konto vid åtkomst till Microsofts kommersiella moln tjänster.
+    - Partner kan också använda en MFA-lösning från tredje part för varje konto vid åtkomst till Microsofts kommersiella moln tjänster.
 
 2. **Anta ramverket för säker program modell**
 
@@ -94,11 +89,11 @@ Alla partner i CSP-programmet (direkta fakturor, indirekta providers och indirek
 
     Kontroll panels leverantörer krävs för att [publicera](enroll-as-cpv.md) till Partner Center som leverantör av kontroll panelen och börja implementera det här kravet direkt. Se [partner Center: säker program modell ramverk](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Kontroll panels leverantörer måste acceptera och hantera CSP-partners medgivande i stället för autentiseringsuppgifter och rensa alla befintliga CSP-partners autentiseringsuppgifter.
 
-## <a name="multi-factor-authentication"></a>Multi-Factor Authentication
+## <a name="multi-factor-authentication"></a>Multifaktorautentisering
 
 ### <a name="what-is-multi-factor-authentication-mfa"></a>Vad är Multi-Factor Authentication (MFA)?
 
-MFA är en säkerhetsmekanism som innebär att individer autentiseras genom mer än en nödvändig säkerhets-och validerings procedur. Det fungerar genom att kräva två eller fler av följande autentiseringsmetoder:
+MFA är en säkerhetsmekanism för att autentisera individer genom mer än en nödvändig säkerhets-och validerings procedur. Det fungerar genom att kräva två eller fler av följande autentiseringsmetoder:
 
 - Något som du känner till (vanligt vis ett lösen ord)
 - Något du har (en betrodd enhet som inte enkelt dupliceras, till exempel en telefon)
@@ -106,7 +101,7 @@ MFA är en säkerhetsmekanism som innebär att individer autentiseras genom mer 
 
 ### <a name="what-is-the-cost-of-enabling-mfa"></a>Vad kostar det att aktivera MFA?
 
-Microsoft tillhandahåller MFA utan kostnad genom implementering av säkerhets inställningar i Azure AD. Det enda verifierings alternativ som är tillgängligt i den här versionen av MFA är ett Authenticator-program. Om ett telefonsamtal eller SMS-meddelande krävs måste du köpa en [Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium) -licens. Du kan också använda en lösning från tredje part för att tillhandahålla MFA för varje användare i din partner klient – i det här fallet är det ditt ansvar att se till att din MFA-lösning upprätthålls och att du är kompatibel.
+Microsoft tillhandahåller MFA utan kostnad genom implementering av säkerhets inställningar i Azure AD. Det enda verifierings alternativ som är tillgängligt med den här versionen av MFA är ett Authenticator-program. Om ett telefonsamtal eller SMS-meddelande krävs måste du köpa en [Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium) -licens. Du kan också använda en lösning från tredje part för att tillhandahålla MFA för varje användare i din partner klient – i det här fallet är det ditt ansvar att se till att din MFA-lösning upprätthålls och att du är kompatibel.
 
 ### <a name="what-actions-do-i-need-to-take-if-i-already-have-an-mfa-solution"></a>Vilka åtgärder måste jag vidta om jag redan har en MFA-lösning?
 
@@ -165,7 +160,7 @@ Ja, partnerns säkerhets krav gäller för integration sandbox. Det innebär att
 
 ### <a name="how-do-i-configure-an-emergency-access-break-glass-account"></a>Hur gör jag för att konfigurerar du ett konto för nöd åtkomst (Break glas)?
 
-Vi rekommenderar att du skapar ett eller två nödfalls åtkomst konton för att förhindra oavsiktligt utelåst av din Azure AD-klient. Med avseende på partner säkerhets kraven krävs att varje användare autentiseras med MFA. Detta krav innebär att du måste ändra definitionen för ett konto för nöd åtkomst. Det kan vara ett konto som utnyttjar en lösning från tredje part för MFA.
+Vi rekommenderar att du skapar ett eller två nödfalls åtkomst konton för att förhindra oavsiktligt utelåst av din Azure AD-klient. Med avseende på partner säkerhets kraven krävs att varje användare autentiseras med MFA. Detta krav innebär att du måste ändra definitionen för ett konto för nöd åtkomst. Det kan vara ett konto som använder en lösning från tredje part för MFA.
 
 ### <a name="is-active-directory-federation-service-adfs-required-if-i-am-using-a-third-party-solution"></a>Krävs Active Directory Federationstjänst (ADFS) om jag använder en lösning från tredje part?
 
@@ -177,7 +172,7 @@ Nej, det krävs inte att du aktiverar standardinställningar för Azure AD-säke
 
 ### <a name="can-conditional-access-be-used-to-meet-the-mfa-requirement"></a>Kan villkorlig åtkomst användas för att uppfylla MFA-kravet?
 
-Ja, du kan använda villkorlig åtkomst för att verkställa MFA för varje användare, inklusive tjänst konton, i din partner klient. Men med tanke på den mycket privilegierade typen av partner behöver vi se till att varje användare har en MFA-utmaning för varje enskild autentisering. Det innebär att du inte kan utnyttja funktionen för villkorlig åtkomst som kringgår kravet för MFA.
+Ja, du kan använda villkorlig åtkomst för att verkställa MFA för varje användare, inklusive tjänst konton, i din partner klient. Men med tanke på den mycket privilegierade typen av partner behöver vi se till att varje användare har en MFA-utmaning för varje enskild autentisering. Det innebär att du inte kan använda funktionen för villkorlig åtkomst som kringgår kravet för MFA.
 
 ### <a name="will-the-service-account-used-by-azure-ad-connect-be-impacted-by-the-partner-security-requirements"></a>Kommer det tjänst konto som används av Azure AD Connect påverkas av partner säkerhets kraven?
 
@@ -187,7 +182,7 @@ Nej, det tjänst konto som används av Azure AD Connect påverkas inte av partne
 
 ### <a name="who-should-adopt-the-secure-application-model-to-meet-the-requirements"></a>Vem bör använda den säkra program modellen för att uppfylla kraven?
 
-Microsoft presenterar ett säkert, skalbart ramverk för att autentisera leverantörer av moln lösningar (CSP) och kontroll panels leverantörer (CPV) som utnyttjar Multi-Factor Authentication. Mer information finns i [guiden för säker program modell](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) . Alla partner som har utvecklat anpassad integrering med hjälp av API: er (till exempel Azure Resource Manager, Microsoft Graph, Partner Center API osv.) eller implementerad anpassad automatisering med verktyg som denna PowerShell måste använda verktyg för [säker program modell](/partner-center/develop/enable-secure-app-model) för att integrera med Microsofts moln tjänster.
+Microsoft presenterar ett säkert, skalbart ramverk för autentisering av CSP-partner (Cloud Solution Provider) och på kontroll panelens leverantörer (CPV) som använder Multi-Factor Authentication. Mer information finns i den [säkra program modell guiden](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Alla partner som har utvecklat anpassad integrering med hjälp av API: er (till exempel Azure Resource Manager, Microsoft Graph, Partner Center API osv.) eller implementerad anpassad automatisering med verktyg som denna PowerShell måste använda verktyg för [säker program modell](/partner-center/develop/enable-secure-app-model) för att integrera med Microsofts moln tjänster.
 
 ### <a name="what-is-the-secure-application-model"></a>Vad är en säker program modell?
 
@@ -210,7 +205,7 @@ Kontroll panels leverantörer krävs för att [publicera](enroll-as-cpv.md) till
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>Behöver den säkra program modellen implementeras enbart för partner Center API/SDK?
 
-Genom att tvinga Multi-Factor Authentication för alla användar konton kommer all automatisering eller integrering som är avsedd att köras icke-interaktivt att påverkas. Även om säkerhets kraven för partner kräver att du aktiverar den säkra program modellen för API: et för partner Center, kan det användas för att åtgärda behovet av en andra faktor för autentisering med automatisering och integrering.
+Genom att tvinga Multi-Factor Authentication för alla användar konton kommer all automatisering eller integrering som är avsedd att köras icke-interaktivt att påverkas. Även om säkerhets kraven för partner kräver att du aktiverar den säkra program modellen för partner Center API, kan den användas för att åtgärda behovet av en andra faktor för autentisering med automatisering och integrering.
 
 >[!Note] 
 >Resurser som används måste ha stöd för åtkomst till tokenbaserad autentisering.
@@ -246,7 +241,7 @@ CPVs måste kontaktas [CPVHelp@microsoft.com](mailto:CPVHelp@microsoft.com) för
 
 När du har registrerat dig i Partner Center och registrerat dina program har du till gång till API: er för partner Center. Du får din sandbox-information via ett meddelande om att du är en ny CPV. När du har slutfört registreringen som Microsoft CPV och godkänt CPV-avtalet kan du:
 
-1. Hantera program med flera innehavare (Lägg till program i Azure Portal, registrera och avregistrera program i Partner Center).
+1. Hantera program med flera innehavare (Lägg till program i Azure Portal och registrera och avregistrera program i Partner Center).
 
    >[!Note]
    >CPVs måste registrera sina program i Partner Center för att få behörighet för API: er för partner Center. Att lägga till program till enbart Azure Portal tillåter inte CPV-program för API: er för partner Center.
@@ -299,7 +294,7 @@ Se [testa säkerhets kraven för partner](/powershell/partnercenter/test-partner
 
 ### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>MFA hindrar mig från att stödja min kund med ADMINISTRATE, vad ska jag göra?
 
-Den tekniska tillämpningen av partner säkerhets kraven kontrol leras om det autentiserade kontot har anropats för Multi-Factor Authentication. Om kontot inte har angetts omdirigeras du till inloggnings sidan och uppmanas att autentisera igen. Läs ytterligare erfarenhet och vägledning i den här [kräva Multi-Factor Authentication (MFA) för din partner klient](partner-security-requirements-mandating-mfa.md#partner-delegated-administration) dokumentation. I scenariot där domänen inte är federerad uppmanas du att konfigurera Multi-Factor Authentication efter att autentiseringen har autentiserats. När den är klar kan du hantera dina kunder med ADMINISTRATE. I scenariot där din domän är federerad måste du se till att kontot anropas för Multi-Factor Authentication.
+Den tekniska tillämpningen av partner säkerhets kraven kontrol leras om det autentiserade kontot har anropats för Multi-Factor Authentication. Om kontot inte har varit omdirigeras du till inloggnings sidan och uppmanas att autentisera igen. Läs ytterligare erfarenhet och vägledning i den här [kräva Multi-Factor Authentication (MFA) för din partner klient](partner-security-requirements-mandating-mfa.md#partner-delegated-administration) dokumentation. I scenariot där domänen inte är federerad uppmanas du att konfigurera Multi-Factor Authentication efter att autentiseringen har autentiserats. När den är klar kan du hantera dina kunder med ADMINISTRATE. I scenariot där din domän är federerad måste du se till att kontot anropas för Multi-Factor Authentication.
 
 ## <a name="security-defaults-transition"></a>Säkerhets Standards över gång
 

@@ -8,20 +8,16 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 10/29/2020
-ms.openlocfilehash: 54c90cce33a1eabc87357048c348ffa2cc03de19
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 29e67bbeca2b136146a1d9d1ee7eef4d0f9d3b0c
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133158"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179164"
 ---
 # <a name="manage-incentives-co-op-claims"></a>Hantera incitaments samordnings anspråk
 
-**Gäller för:**
-
-- Partnercenter
-
-**Lämpliga roller:**
+**Lämpliga roller**
 
 - Incitaments administratör
 
@@ -65,13 +61,13 @@ Om det material som du skickade in med ditt co-op-anspråk bedöms vara otillrä
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 
-2. Under **incitament** väljer du **co-op Management** .
+2. Under **incitament** väljer du **co-op Management**.
 
 3. Välj det co-op-anspråk som du vill bestrida. Sidan co-op-anspråk öppnas.
 
 4. Välj alternativet för att **bestrida** anspråket längst ned på sidan.
 
-Valideringsteamet för co-op-anspråk granskar anspråket inom fem affärsdagar. Under den här tiden visas statusen som **Omtvistad** . Vi kan kontakta dig för att be om mer information. När granskningen är klar uppdaterar valideringsteamet statusen till antingen **Godkänd** , **Avvisad** eller **Partneråtgärd krävs** .
+Valideringsteamet för co-op-anspråk granskar anspråket inom fem affärsdagar. Under den här tiden visas statusen som **Omtvistad**. Vi kan kontakta dig för att be om mer information. När granskningen är klar uppdaterar valideringsteamet statusen till antingen **Godkänd**, **Avvisad** eller **Partneråtgärd krävs**.
 
 ## <a name="next-steps"></a>Nästa steg
 

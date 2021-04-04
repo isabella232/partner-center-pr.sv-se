@@ -9,20 +9,21 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a5aaa7c7190615d1b7497fd92e0d844cc553c491
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: c5ca9a00c5eafcbc155df20b08269cefd93c14d3
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182332"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086880"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>Partner Insights – vanliga frågor och svar
 
 **Lämpliga roller**
+
 - Rapport visnings program
 - Rapport visnings program för chefer
 
-Detta relaterar till kända problem som visar eller återger rapporter som är associerade med insikter.
+Den här artikeln beskriver kända problem med att visa eller återge rapporter som är associerade med insikter.
 
 Q) **Jag ser inte Insights-hubben i mitt Partner Center-konto. Vad ska jag göra?**
 

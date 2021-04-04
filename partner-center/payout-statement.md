@@ -1,22 +1,22 @@
 ---
 title: Utbetalningsinstruktioner
 description: Lär dig mer om utbetalnings instruktioner och sammanfattningar och hur du visar och exporterar dina betalnings data från Microsoft Partner Center
-ms.subservice: partnercenter-marketplace-publisher
-ms.service: marketplace
+ms.subservice: partnercenter-mpn
+ms.service: partner-dashboard
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: afe9793e3a1ef9c0e3e8ecba6d1c3419b7e16604
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: fd0aaeb84651a84aba4748795309512295f9485a
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549251"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087101"
 ---
 # <a name="payout-statements"></a>Utbetalningsinstruktioner
 
-**Lämpliga roller:**
+**Lämpliga roller**
 
 - Kontoadministratör
 - Global administratör
@@ -69,11 +69,11 @@ Använd datum intervall markeringen i det övre högra hörnet på sidan för at
 
 :::image type="content" source="images/payouts/search-filter.png" alt-text="Sök filtret längst upp till höger på sidan.":::
 
-Om du vill se mer information om ett som du väljer väljer du nedåtpilen till höger på sidan. På så sätt visas spaken, intäkts belopp, produkter och kund. Om någon av dessa data inte är tillgänglig, men du behöver åtkomst till den, kan du kontakta supporten. Om resultatet är resultatet av en justering, och inte en transaktion, kommer fälten produkt och kund inte att visas.
+Om du vill se mer information om ett som du väljer väljer du nedåtpilen till höger på sidan. På så sätt visas spaken, intäkts belopp, produkter och kund. Om någon av dessa data inte är tillgänglig, men du behöver åtkomst till den, kan du kontakta supporten. Om resultatet är resultatet av en justering och inte en transaktion visas inte fälten produkt och kund.
 
 ### <a name="transaction-history-summary"></a>Sammanfattning av transaktions historik
 
-Detta visar information, inklusive ursprunget för att betala från produktens sålda datum, status och beräknad betalnings månad.
+I den här vyn visas mer information, inklusive ursprunget för att betala från produktens försäljnings datum, status och beräknad betalnings månad.
 
 :::image type="content" source="images/payouts/transaction-history.png" alt-text="Transaktions historik.":::
 
@@ -111,7 +111,7 @@ Det beräknade beloppet kan variera från den faktiska mängden av olika orsaker
 - Regel ändring: en ändring i reglerna kan återspegla omberäkningen av faktiskt betalt belopp
 - Debiterad: om betalnings fel inträffar kan den faktiska mängden vara olika
 
-Observera att din betalning endast lanseras under den beräknade månaden om programmets tröskel och regler för betalnings kvalifikationer är uppfyllda. Dessa regler inkluderar, men är inte begränsade till listan nedan:
+Observera att din betalning endast lanseras under den beräknade månaden om programmets tröskel och regler för betalnings kvalifikationer är uppfyllda. Reglerna omfattar men är inte begränsade till listan nedan:
 
 - Din skatte profil måste vara aktuell
 - Dina intäkter måste uppfylla eller överskrida det lägsta gräns värde som definierats i din program guide.
@@ -220,7 +220,7 @@ I följande tabell visas orsaks koder för justeringar och deras beskrivningar.
 | Ko-förnyelse | Justering som överför samförsäljnings intäkter till en annan period eller omvandlar samsiga intäkter till rabatter. |
 | OPS-justering | Justering som korrigerar Microsofts system beräknings fel. |
 | OPS-justering Microsoft felaktig calc | Justering som korrigerar fel beräkningar. |
-| OPS-justering Microsoft felaktig registrering | Justering för registrering av relaterade felberäkningar. |
+| OPS-justering Microsoft felaktig registrering | Justering för registrerings-relaterade felberäkningar. |
 | Partner mappning (prenumeration) MCI/CSP | Justering som korrigerar felaktig justering av prenumeration. |
 | Princip undantag | Justering som åsidosätter en program regel.  |
 | Föregående period vinst | Justering för intäkter utanför den aktuella perioden. |
@@ -258,18 +258,18 @@ I följande tabell förklaras de olika ställnings statusarna.
 
 | Status för att tjäna | Anledning | Krävs partner åtgärd? |
 | --- | --- | --- |
-| Obearbetade | Betalningen är berättigad till betalning. Den förblir i det här läget för en kylnings period som definieras i program guiden för stimulans programmet. | No |
-| Planer | Betalnings order som genererats som väntande interna granskningar innan betalningen bearbetas. | No |
+| Obearbetade | Betalningen är berättigad till betalning. Den förblir i det här läget för en kylnings period som definieras i program guiden för stimulans programmet. | Inga |
+| Planer | Betalnings order som genererats som väntande interna granskningar innan betalningen bearbetas. | Inga |
 | Väntande moms faktura | Din moms faktura är ofullständig eller ogiltig. | Du måste uppdatera din moms faktura innan du kan betala |
 | Avvisad under granskning | Betalningen avvisades under granskningen. | Kontakta Microsoft support om du vill ha mer information |
 | Misslyckad | Betalningen misslyckades på grund av ett fel i Microsoft-systemet. | Kontakta Microsoft support om du vill ha mer information |
-| Pågår | Betalningen pågår. | No |
-| Felaktig betalning | Betalnings återkoppling pågår. | No |
-| Skickat | Betalningen har skickats till din bank. | No |
-| Ombearbetning | Ett Microsoft-systemfel påträffades under betalningen och ombearbetas. | No |
-| Reversed | Betalningen återfördes av banken och skickas igen vid nästa betalnings cykel. | No |
+| Pågår | Betalningen pågår. | Inga |
+| Felaktig betalning | Betalnings återkoppling pågår. | Inga |
+| Skickat | Betalningen har skickats till din bank. | Inga |
+| Ombearbetning | Ett Microsoft-systemfel påträffades under betalningen och ombearbetas. | Inga |
+| Reversed | Betalningen återfördes av banken och skickas igen vid nästa betalnings cykel. | Inga |
 | Avvisad moms faktura | Din moms faktura avvisades under granskningen. Alla väntande betalningar stoppas tills moms granskningen är klar. | Kontakta Microsoft support om du vill ha mer information |
-| Moms faktura under granskning | Din moms faktura granskas. Din betalning frigörs när moms fakturan har godkänts. | No |
+| Moms faktura under granskning | Din moms faktura granskas. Din betalning frigörs när moms fakturan har godkänts. | Inga |
 | Avslagen | Betalningen avvisades av din bank. | Kontakta din bank om du vill ha mer information. |
 |
 
@@ -324,7 +324,7 @@ Sammanfattningen av **export data** ger även åtkomst till historiska instrukti
 
 I följande tabell beskrivs varje kolumn i en historisk instruktion.
 
-| Fältnamn | Description |
+| Fältnamn | Beskrivning |
 | --- | --- |
 | Intäkts källa | Källan till intäkterna baserat på var transaktionen ägde rum, till exempel Microsoft Store, Windows Phone butik, Windows Store 8 eller annonsering |
 | Order-ID | Unikt order-ID. Med det här ID: t kan du identifiera inköps transaktioner med deras respektive icke-inköps transaktioner, till exempel åter betalningar eller åter betalningar. Båda kommer att ha samma order-ID. Om det finns en aktie avgift där flera betalnings metoder användes för ett enda köp kan du länka inköps transaktionerna. |

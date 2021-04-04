@@ -8,20 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 82d1db0175a8038d0297eddd8f86dfba26bb8401
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 2eb0fe92b5b62b56742ef06617275451e6850011
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532024"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179283"
 ---
 # <a name="confirm-your-incentives-earnings-eligibility"></a>Bekräfta dina incitaments intäkts kvalifikationer
 
-**Gäller för:**
-
-- Partnercenter
-
-**Lämpliga roller:**
+**Lämpliga roller**
 
 - Incitaments administratör
 - Global administratör
@@ -31,9 +27,9 @@ Innan du kan betala för ditt arbete i stimulans programmet måste du först slu
 ## <a name="how-do-i-check-my-earning-eligibility-and-revenue-rules"></a>Hur vet jag om jag är berättigad till intäkter och vilka intäktsregler som gäller?
 
 1. Logga in på [partner incitament](https://partner.microsoft.com/membership/partner-incentives).
-2. Rulla ned för att komma åt dokumenten för det program du vill ha och klicka på dokument länken för respektive program.
-3. I dokumentet läser du avsnittet **partner kvalifikationer** och **berättigade intäkts regler** .
+2. Rulla ned för att komma åt dokumenten för programmet som intresserar dig och välj dokument länken för respektive program.
+3. I dokumentet läser du avsnittet **partner kvalifikationer** och **berättigade intäkts regler**.
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Kom igång med incitament](incentives-get-started-intro.md)
+- [Komma igång med incitament](incentives-get-started-intro.md)

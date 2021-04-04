@@ -9,24 +9,21 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ee7ca469619e548dc59db390566d19a1b1c8cc24
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: e769758e14f48f6f7deb9dfe3354fa377a559c87
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92531296"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087118"
 ---
 # <a name="activate-microsoft-partner-network-technical-benefits-outside-of-partner-center"></a>Aktivera Microsoft Partner Network tekniska förmåner utanför Partner Center
 
+
+**Lämpliga roller**
+
+- Alla partner Center-användare
+
 Den här artikeln är för Microsoft Partner Network-medlemmar (MPN) som fortfarande använder partner medlemskaps Center (PMC). Dessa medlemmar behöver hjälp med att aktivera vissa MPN-medlemskaps förmåner, till exempel tekniska fördelar, utanför den aktuella [instrument panelen för partner Center](https://partner.microsoft.com/dashboard).
-
-### <a name="applies-to"></a>Gäller för
-
-- Användare av partner medlemskaps Center
-
-### <a name="appropriate-roles"></a>Lämpliga roller
-
-- MPN-partner som använder partner medlemskaps Center (PMC)
 
 Många Microsoft Partner Network-medlemmar (MPN) har redan [migrerat från partner medlemskaps Center till Partner Center](prepare-pmc-pc-migration.md) för att hjälpa till att hantera sina användare, kunder och MPN-förmåner.
 
@@ -48,7 +45,7 @@ Om du är en PMC-användare kan du läsa den här tabellen om du vill ha hjälp 
 
 \***För partner i Europa, Mellanöstern och Afrika:** Vid e-RegForm, inkludera: partner-ID, MPN tillhör ande e-postadress, namn, företags namn, telefon, ort och land. Använd RegForm om du vill ha hjälp med att skapa eller med aktivera Support kontrakt. Om du har andra MPN-relaterade problem kan du kontakta [partner Frontline support](https://partner.microsoft.com/support?issueid=300-0042).
 
-När din förmån har Aktiver ATS får den program kontakt som är kopplad till ditt företags viktiga förmåner ett produkt support-ID för den förmånen. Dessa ID: n kommer att innehålla ett **åtkomst-ID** och **kontrakt-ID** . 
+När din förmån har Aktiver ATS får den program kontakt som är kopplad till ditt företags viktiga förmåner ett produkt support-ID för den förmånen. Dessa ID: n kommer att innehålla ett **åtkomst-ID** och **kontrakt-ID**. 
 
 Du eller ditt företags användare kan behöva dela dessa support-ID första gången du skickar en support förfrågan för vissa typer av produkter eller tjänster.
 

@@ -1,28 +1,28 @@
 ---
 title: Vanliga frågor och svar om utbetalningar och skatteprofiler
 description: Få svar på vanliga frågor om utbetalningar och skatte information i Partner Center. Innehåller svar om varför din vinst är annorlunda än förväntat.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-incentives
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 03/05/2021
-ms.openlocfilehash: 4cbbf89ef0df9c3fd1c1d4c59977a8ba34317673
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: 00cb707dd6d94cc6cbae889e2db1a700d246e2ed
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102247661"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087050"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Vanliga frågor om utbetalningar och skatter
 
-**Lämpliga roller**:
+**Lämpliga roller**
 
 - Kontoadministratör
 - Global administratör
 - Incitaments administratör
 
-I den här artikeln besvaras vanliga frågor om utbetalningar och skatte information i Partner Center. ämnen som omfattas är betalnings sätt, kontrollerar kompensations berättigande och vikten av att ställa in dina utbetalningar och skatte profiler korrekt.
+I den här artikeln får du svar på vanliga frågor om utbetalningar och skatte information i Partner Center. Ämnen som omfattas inkluderar tids inställning för betalningar, kontroll av intäkts berättigande och betydelsen av att ställa in dina utbetalnings-och skatte profiler korrekt.
 
 ## <a name="profile-management"></a>Profil hantering
 
@@ -42,7 +42,7 @@ Det kan vara att du inte har rätt behörighet eller att du är inloggad med ett
 
 #### <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Jag kan bara logga in med min @onmicrosoft.com domän. Vad ska jag göra?
 
-Kontakta kontoadministratören om du vill lägga till fler domäner till AAD-kontot.
+Kontakta konto administratören om du vill lägga till fler domäner i AAD-kontot.
  
 #### <a name="my-organization-is-participating-in-multiple-programs-do-i-need-to-provide-my-payment-and-tax-profile-multiple-times"></a>Min organisation deltar i flera program. Måste jag ange min betalnings-och skatte profil flera gånger?
 
@@ -61,7 +61,7 @@ Om ditt företag är inbjudet till flera program kan du använda samma betalning
 
 Det är företagets ansvar att se till att rollen som incitaments administratör, som har behörighet att redigera den här informationen, endast får lämpliga anställda.
 
-#### <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>Min moms profil har upphört att gälla. Hur gör jag för att åtgärda detta?
+#### <a name="my-tax-profile-has-expired-how-do-i-fix-update-it"></a>Min moms profil har upphört att gälla. Hur gör jag för att korrigera uppdateringen?
 
 Om en skatte profil har upphört att gälla eller om den upphör att gälla, innebär det att skatte formuläret som du tillhandahöll till Microsoft måste uppdateras. Använd följande steg för att uppdatera din avgifts profil:
 
@@ -83,7 +83,7 @@ Om en skatte profil har upphört att gälla eller om den upphör att gälla, inn
 #### <a name="why-is-my-earnings-amount-different-than-what-i-expected"></a>Varför är min intäkts mängd annorlunda än vad jag förväntade mig?
 
 - Om ordern delvis betalades av din kund baseras ditt belopp på det delvis betalda beloppet efter avdrag av avgift och lämplig skatt.
-- Kontrol lera ansvars skatte ansvars per land. I de länder där skatten är Microsoft-ansvarig samlar Microsoft in och drar av skatten från utgivarintäkterna. Transaktionsbeloppet som visas i utdraget är efter skattebeloppet. Se [Skatteinformation](tax-details-marketplace.md).
+- Kontrol lera ansvars skatte ansvars per land. I länder där skatt är Microsoft-ansvarig samlar Microsoft in och avdrager skatten från utgivar intäkterna. Transaktionsbeloppet som visas i utdraget är efter skattebeloppet. Se [Skatteinformation](tax-details-marketplace.md).
 - SaaS och IaaS erbjuder en rabatt byrå avgift på 10% i stället för standard 20%, vilket lämnar en inkomst avgift på 90%. Erbjudandet gäller fram till den 30 juni 2021.
 
 **Mer läsning**: [publicerings avtal för handels Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560), [utbetalnings princip information](payout-policy-details.md), [betalnings tröskel, metod](payment-thresholds-methods-timeframes.md)och [](marketplace-get-paid.md)tidsram, betalning, [skatte information](tax-details-marketplace.md), [utbetalnings instruktioner](payout-statement.md)
@@ -113,7 +113,7 @@ Använd AssetID, Ordernr och rad objekt-ID som visas i historik rapporten för u
 
 
 #### <a name="how-do-i-set-my-account-to-not-receive-payment"></a>Vill du Hur gör jag för att ange att mitt konto inte ska ta emot betalning?
-Du kan lagra betalningar i [utbetalnings profil](https://partner.microsoft.com/dashboard/commercial-marketplace/overview). kontrol lera bara **Håll**. Microsoft kommer att betala till dig tills du släpper upp spärren.
+Du kan lagra betalningar i [utbetalnings profilen](https://partner.microsoft.com/dashboard/commercial-marketplace/overview). Det gör du genom att markera **Kvarhåll** och Microsoft kommer att ha betalning till dig tills du släpper upp undantaget.
 
 #### <a name="why-do-i-receive-in-a-different-currency-than-the-purchase-currency"></a>Varför får jag betalningar i en annan valuta än inköpsvalutan?
 
@@ -121,7 +121,7 @@ Utbetalningsvalutan baseras på den valuta som du valde i utbetalningsprofilen. 
 
 #### <a name="how-do-i-reconcile-adjustments"></a>Hur gör jag för att stämma av justeringar?
 
-Betalningsjusteringar är betalningskorrigeringar för att hantera kompensationsjusteringar, till exempel systemproblem. I utbetalningsutdraget anges orsaken till justeringen av ReasonCode. Dessa är inte avsedda för avstämning direkt till enskilda transaktioner.
+Betalningsjusteringar är betalningskorrigeringar för att hantera kompensationsjusteringar, till exempel systemproblem. I utbetalnings instruktionen anger ReasonCode orsaken till justeringen. De är inte avsedda att stämma av direkt till enskilda transaktioner.
 
 **Mer läsning**: [publicerings avtal för handels Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560), [utbetalnings princip information](payout-policy-details.md), [skatte information](tax-details-marketplace.md), [betalnings tröskel, metod och tidsram](payment-thresholds-methods-timeframes.md)
 
@@ -199,7 +199,7 @@ Använd [API för partner utbetalning](https://apidocs.microsoft.com/services/pa
 
 #### <a name="how-do-i-find-the-current-agency-fee-and-the-payout-rate"></a>Hur gör jag för att hitta aktuellt arvode och utbetalningsfrekvens?
 
-- Kontrollera utgivaravtalet för kommersiell marknadsplats. Standardarvodet är 20 %. SaaS Co-Sell berättigade transaktioner har en rabatterad avgift på 10%. Sök efter meddelanden om arvoden för PR-byråer.
+- Kontrollera utgivaravtalet för kommersiell marknadsplats. Standardarvodet är 20 %. SaaS-berättigade transaktioner har en rabatterad avgift på 10%. Sök efter meddelanden om arvoden för PR-byråer.
 - I din utbetalnings instruktion anger kostnaden den faktiska utbetalnings takten för en specifik transaktion.
 
 #### <a name="when-can-i-expect-a-payment-from-microsoft-once-earnings-appear-on-my-statement"></a>När kan jag vänta mig en betalning från Microsoft när intäkterna visas i mitt utdrag?

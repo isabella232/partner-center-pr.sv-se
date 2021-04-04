@@ -8,20 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 37b64d686549562a26aa818a576bad6c85f86670
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 91ff0d9b0696e1ef77cf21ce288afbc51c3fe528
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92531440"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179487"
 ---
 # <a name="manage-incentives-customer-associations"></a>Hantera incitament för kund associationer
 
-**Gäller för:**
-
-- Partnercenter
-
-**Lämpliga roller:**
+**Lämpliga roller**
 
 - Faktureringsadministratör
 - Global administratör
@@ -79,7 +75,7 @@ Om 30 dagar har passerat och du fortfarande vill ifrågasätta ett avvisat anspr
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 2. Öppna det anspråk som du vill tvista.
-3. På sidan anspråk väljer du **tvist** .
+3. På sidan anspråk väljer du **tvist**.
 4. Ange en affärs justering och/eller en uppdaterad PoE som förklarar varför avvisningen bör övervägas igen.
 5. När du är klar med att lägga till information väljer du **Dispute** (Bestrid). Våra granskare bör kontakta dig med resultat inom fem arbets dagar.
 
@@ -87,7 +83,7 @@ Om 30 dagar har passerat och du fortfarande vill ifrågasätta ett avvisat anspr
 
 Det finns tre huvudsakliga orsaker till att ett CPOR Associations anspråk avvisas.
 
-**Partner förfrågan:** Partner kan begära att deras associering avvisas. Den här rationella användningen används främst när partnern har skapat ett CPOR Associations anspråk av misstag med en felaktig MPN, valt en felaktig aktivitet (exempel.... Du har valt intäkts koppling i stället för förförsäljning) eller arbetar inte med kunden längre.
+**Partner förfrågan:** Partner kan begära att deras associering avvisas. Den här rationella användningen används främst när partnern har skapat ett CPOR Associations anspråk av misstag med hjälp av en felaktig MPN, valt en felaktig aktivitet (till exempel valt intäkts koppling i stället för försäljning) eller inte arbetar med kunden längre.
 
 **Neka kund:** När CPOR Association-anspråket har gått genom PoE-godkännandet ändras dess status till godkänd medan kunden ges möjlighet att neka associeringen tillstånd. Om kunden nekar till medgivande avvisas associationen.
 
@@ -125,4 +121,4 @@ I CPOR Associations anspråk finns det en **Historik** knapp på den övre högr
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Kom igång med incitament](incentives-get-started-intro.md)
+- [Komma igång med incitament](incentives-get-started-intro.md)

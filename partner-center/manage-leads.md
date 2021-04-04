@@ -9,21 +9,14 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 84dcb87f4a5594fdcd3a7099e12331a9e4459b38
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 94bcde2402b7276bef8eaaf84975f2a5677723fe
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "92531020"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133122"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Hantera olika leads som kundfrågor, marknadskvalificerade leads och säljkvalificerade leads
-
-**Gäller för**
-
-- Partnercenter
-- Referenser
-- Microsoft Solution Provider
-- Affärs profiler
 
 **Lämpliga roller**
 
@@ -46,9 +39,9 @@ Krav för att ta emot leads är att [skapa en affärs profil](create-a-marketing
 
 Det finns tre flikar på översta nivån i avsnittet leads. 
 
-**Marketplace-leads** – alla leads som kommer från sidan Sök efter Microsoft Solution Provider, som är kund frågor.
+**Marknads platser** – det här är alla leads som härstammar från Microsoft Solution providers sid sökningar, som är kund frågor.
 
-**Kvalificerade leads** – alla leads av typen marknadsföring som kvalificeras och Sälj kvalificerade är tillgängliga på den här fliken.
+**Kvalificerade leads** – dessa är alla leads av typen saluför kvalificerad och Sälj kvalificering.
 
 **Favoriter** – alla leads som är markerade som favoriter på fliken marknads platser eller kvalificerade leads visas på den här fliken. Du kan markera alla leads som favorit genom att klicka på ikonen hjärta på leadet i listvyn. Du kan ta bort ett lead från favoriter genom att bara klicka på samma ikon igen.
 
@@ -62,9 +55,9 @@ I det här steget har du fått ett nytt lead antingen direkt från kunden eller 
 
 Du kan utföra två åtgärder i det här steget, antingen acceptera eller avvisa hänvisningen:
 
-- **Acceptera:** Ange ett namn för affären, uppskattat avtals värde och beräknad inköps tidsram. Du bör också ange information i fältet **anteckningar** om du vill förklara mer om vad kunden söker efter. Om du vill kan du ange ditt CRM-ID här (endast för din referens), marknadsförings kampanjens ID, som ledde till respektive lead och lägger till ytterligare kontakter från företaget. När du är klar väljer du **Nästa** . Vi flyttar hänvisningen till **Nästa steg** , vilket innebär att du planerar att aktivt engagera kunden för att möta behovet. Vi använder också den här informationen för att hjälpa dig att hitta liknande avtal i framtiden. 
+- **Acceptera**: Ange ett namn för affären, det beräknade värdet och den uppskattade inköps tids ramen. Du bör också ange information i fältet **anteckningar** om du vill förklara mer om vad kunden söker efter. Om du vill kan du ange ditt CRM-ID här (endast för din referens), marknadsförings kampanjens ID, som ledde till respektive lead och lägger till ytterligare kontakter från företaget. När du är klar väljer du **Nästa**. Vi flyttar hänvisningen till **Nästa steg**, vilket innebär att du planerar att aktivt engagera kunden för att möta behovet. Vi använder också den här informationen för att hjälpa dig att hitta liknande avtal i framtiden. 
 
-- **Neka** : Välj anledningen till att du tackar nej till affären och Lägg till eventuella anteckningar som du vill ta med och välj sedan **Stäng** affär. Vi kommer att arkivera det som **avböjt** och meddela kunden att välja en annan partner.
+- **Neka**: Välj anledningen till att du tackar nej till affären och Lägg till eventuella anteckningar som du vill ta med och välj sedan **Stäng** affär. Vi kommer att arkivera det som **avböjt** och meddela kunden att välja en annan partner.
 
 - Om du inte svarar inom den tilldelade tiden (14 dagar) kommer vi att arkivera det som **upphört att gälla** och meddela antingen Microsoft eller partnern som skickade dig den här möjligheten.
 
@@ -85,15 +78,15 @@ Det här är ett Terminal steg där alla affärs möjligheter slutligen når sig
 
 Här följer några tips som hjälper dig att få mer relevanta hänvisningar:
 
-- **Välj nyckelord och inställningar som representerar din unika expertis och affärs modell** i din [affärs profil](create-a-marketing-profile.md). Ta bort nyckelord som genererar referenser som du inte är intresse rad av. Om du inte är intresse rad av att hantera företag av en viss storlek uppdaterar du den här inställningen.
+- **Välj nyckelord och inställningar som representerar din unika expertis och affärs modell i din [affärs profil](create-a-marketing-profile.md)**. Ta bort nyckelord som genererar referenser som du inte är intresse rad av. Om du inte är intresse rad av att hantera företag av en viss storlek uppdaterar du den här inställningen.
 
-- **Granska din kontakt information i din [företags profil](create-a-marketing-profile.md) för varje plats** Se till att ditt team får inkommande aviseringar.
+- **Granska din kontakt information i din [företags profil](create-a-marketing-profile.md) för varje plats**. Se till att ditt team får inkommande aviseringar.
 
-- **Svara snabbt på referenser** När du svarar i tid på inkommande förfrågningar ökar vi din synlighet i framtida kund Sök resultat. Se till att ditt team svarar snabbt med din avsikt.
+- **Svara snabbt på hänvisningar**. När du svarar i tid på inkommande förfrågningar ökar vi din synlighet i framtida kund Sök resultat. Se till att ditt team svarar snabbt med din avsikt.
 
-- **Bli choosy med de avtal som du accepterar** Vi övervakar de typer av avtal som du accepterar och avvisar och använder den här informationen för att hjälpa dig att hitta liknande avtal. Att acceptera avtal som inte är bra får inte förbättra dina Sök Resultat och kan påverka kvaliteten på de leads du får.
+- **Var choosy med de avtal som du accepterar**. Vi övervakar de typer av avtal som du accepterar och avvisar och använder den här informationen för att hjälpa dig att hitta liknande avtal. Att acceptera avtal som inte är bra får inte förbättra dina Sök Resultat och kan påverka kvaliteten på de leads du får.
 
-- **Rapportera tillbaka de uppskattade avtals storlekarna, UB-datum och slut status för dina avtal** (vunna eller förlorade). Vi använder den här informationen för att fortsätta att ge dig kvalitets hänvisningar.
+- **Rapportera tillbaka de uppskattade avtals storlekarna, UB-datum och slut status för dina avtal (vunna eller förlorade)**. Vi använder den här informationen för att fortsätta att ge dig kvalitets hänvisningar.
 
 ## <a name="next-steps"></a>Nästa steg
 

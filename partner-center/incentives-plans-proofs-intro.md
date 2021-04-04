@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 971d3fbc4b172b66e5b5099bc16999eefc57279c
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 3cd9ee73da3432b88c2ef3669f12451d675a319a
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92531436"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179181"
 ---
 # <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Använd dessa resurser för att hjälpa dig att skapa incitaments planer och korrektur för körning
-
-**Gäller för**
-
-- Partnercenter
-- Partner i Microsoft Partner Network (MPN)
 
 **Lämpliga roller**
 
@@ -40,7 +35,7 @@ En incitaments plan för co-op-anspråk beskriver marknadsförings kampanjer, ak
 
 ## <a name="what-is-a-proof-of-execution-poe"></a>Vad är ett korrektur för körning (PoE)?
 
-När du har betalat för dina stimulans arbeten måste du skicka in ett utförligt korrektur för körning (PoE) till Microsoft. Din PoE kan innehålla information om en relaterad kampanj, datum för en incitaments aktivitet, det belopp som begärs osv. 
+När du har betalat för dina stimulans arbeten måste du skicka in ett utförligt korrektur för körning (PoE) till Microsoft. Din PoE kan innehålla information om en relaterad kampanj, datum för en incitaments aktivitet och det begärda beloppet. 
 
 Läs mer om hur du [förbereder korrektur av körning](incentives-prepare-your-proof-of-execution.md).
 

@@ -8,19 +8,18 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ee2ba7c3a04453927bd8e508190f23ec295da1d
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 1c3cafa6b5ea280a924a0142da78483d54a18ab9
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756706"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179504"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Vanliga frågor och svar om incitament
 
-**Lämpliga roller:**
+**Lämpliga roller**
 
 - Incitaments administratör
-
 - Incitaments användare
 
 ## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>Måste jag vara global administratör för att kunna registrera sig på incitament?
@@ -55,7 +54,7 @@ Mer information finns i [hitta din roll](find-your-role.md).
 
 ## <a name="i-cant-access-incentives-using-my-credentials"></a>Jag kan inte komma åt incitament med mina autentiseringsuppgifter.
 
-Den troliga orsaken till att du inte kan se incitament är att du inte har rätt behörighet. Använd följande procedur för att se åtgärda detta.
+Den troliga orsaken till att du inte kan se incitament är att du inte har rätt behörighet. Använd följande procedur för att åtgärda detta.
 
 1. Logga in på [instrument panelen för partner Center](https://partner.microsoft.com/dashboard/) med dina autentiseringsuppgifter för Azure AD-klienten (dina autentiseringsuppgifter för arbetet). Om du inte kan logga in kontaktar du företagets globala administratör.
 
@@ -71,7 +70,7 @@ Om du antingen har fått en inbjudan från, eller om du har registrerat dig i, e
 
 Kontakta företagets globala eller konto administratör om du behöver ändra din roll eller behörighet. Läs [hitta din globala administratör](./find-your-role.md#find-your-global-admin)för att lära dig mer om vem dessa personer är.
 
-Observera att översikts sidan endast visar registreringar som är associerade med det globala partner kontot (PGA) som är associerat med Azure AD-klienten. Om ditt företag har fler än en PGA måste du ha olika autentiseringsuppgifter för var och en.
+Översikts sidan visar bara registreringar som är associerade med det globala partner kontot (PGA) som är associerat med Azure AD-klienten. Om ditt företag har fler än en PGA måste du ha olika autentiseringsuppgifter för var och en.
 
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>Vem ska jag kontakta om jag får ett fel meddelande eller behöver hjälp under registrerings processen?
 

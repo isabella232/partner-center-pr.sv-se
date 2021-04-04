@@ -8,24 +8,20 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 971b053119a263ed5c7f8e25fb532b4137e1cb13
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: c6ff8915384f8c7ab98fa058f2e45e3d0b4f7214
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99834891"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179521"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Felsöka saknade betalningar, felaktiga intäkter och andra problem
 
-**Gäller för**:
-
-- Partnercenter
-
-**Lämpliga roller**:
+**Lämpliga roller**
 
 - Incitaments administratör
 
-Den här artikeln hjälper dig att lösa eventuella intäkter eller betalnings problem i stimulans programmet. De avsnitt som beskrivs är en tids period för betalningar, kontroll av dina intäkter och betydelsen av att ställa in dina utbetalnings-och skatte profiler korrekt.
+Den här artikeln hjälper dig att lösa eventuella intäkter eller betalnings problem i stimulans programmet. Ämnen som omfattas inkluderar tids inställning för betalningar, kontroll av intäkts berättigande och betydelsen av att ställa in dina utbetalnings-och skatte profiler korrekt.
 
 ## <a name="who-can-create-or-update-payout-and-tax-profiles-for-my-organization"></a>Vem kan skapa eller uppdatera utbetalnings-och skatte profiler för min organisation?
 
@@ -141,11 +137,11 @@ Med den här vyn kan du Visa betalningar för alla program och MPN-ID: n. Data v
 | Visa betalnings information per rad, inklusive kostnader för betalning och betalning i lokal valuta  | Se **listan över betalnings** fält   |
 | Ladda ned en remitterings bokstav   |  Välj **betalnings remittering**  |
 | Visa information om transaktions nivå för en speciell betalning |  Välj **vy**  |
-| Exportera transaktions information till Excel  |  Välj **starta nedladdning** och klicka sedan på **Exportera data**. Observera att alla valda filter kommer att tillämpas på exporterade data. När statusen har ändrats till slutförd väljer du **Hämta** och följer anvisningarna för att exportera rapporten detaljerade transaktioner. Uppdatera sidan om statusen inte uppdateras inom fem minuter.  |
+| Exportera transaktions information till Excel  |  Välj **starta nedladdning** och välj sedan **Exportera data**. Alla valda filter kommer att tillämpas på exporterade data. När statusen har ändrats till slutförd väljer du **Hämta** och följer anvisningarna för att exportera rapporten detaljerade transaktioner. Uppdatera sidan om statusen inte uppdateras inom fem minuter.  |
 
 ### <a name="missing-or-incorrect-earnings-and-payments"></a>Saknad eller felaktig vinst och betalning
 
-Om du inte kan hitta någon betalnings-eller transaktions information kontrollerar du om du har tillämpat rätt filter. Observera att eftersom vissa program namn har ändrats (t. ex. är CSP 1T Direct-partnern nu KRYPTOGRAFIPROVIDERns direkta fakturerings partner), kan du behöva använda flera val.
+Om du inte kan hitta någon betalnings-eller transaktions information kontrollerar du om du har tillämpat rätt filter. Eftersom vissa program namn har ändrats (t. ex. är CSP 1T Direct-partnern nu KRYPTOGRAFIPROVIDERns direkta fakturerings partner), kan du behöva använda flera val.
 
 Om du fortfarande inte kan hitta dina intäkter eller om du anser att de intäkter som visas är felaktiga, kan du kontakta [supporten](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 

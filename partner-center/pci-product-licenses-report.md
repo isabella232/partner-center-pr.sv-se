@@ -9,22 +9,23 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4f1709d9a95e3509edbc431a851a2f1fdc0aae01
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 14cd4664ecfb140b82dfd27994ff99c7a62d2261
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92531293"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086914"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Rapporten produkt licenser på Partner Center Insights-instrumentpanelen
 
 **Lämpliga roller**
+
 - Global administratör
 - Administratörs agent
 - Rapport visnings program
 - Rapport visnings program för chefer
 
-Rapporten produkt licenser visar licens analys för licensbaserade moln produkter, till exempel O365, Dynamics, M365, Power BI osv. De analyser som presenteras här är kopplade till användningen av de licenser som du har sålt eller som du hanterar för dina kunder. Du kan visa följande avsnitt från rapporten produkt licenser.
+Rapporten produkt licenser visar licens analys för licensbaserade moln produkter, till exempel Office 365, Dynamics, Microsoft 365, Power BI och andra. De analyser som presenteras här är kopplade till användningen av de licenser som du har sålt eller som du hanterar för dina kunder. Du kan visa följande avsnitt från rapporten produkt licenser.
 
 - Sammanfattning
 - Geografiskt spridning av licenser
@@ -40,10 +41,10 @@ Sammanfattnings avsnittet innehåller en Snapshot-vy över KPI: er (nyckeltal) s
 
 :::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="Sammanfattning av licens rapport":::
 
-Se nedan för mer information om varje del av sammanfattningen.
+Mer information om varje avsnitt i sammanfattningen finns nedan:
 
 - Licenser 
-  - Aktuellt antal licenser som säljs eller hanteras av dig för licensbaserade moln produkter, till exempel O365, Dynamics, M365, Power BI osv.
+  - Aktuellt antal licenser som säljs eller hanteras av dig för licensbaserade moln produkter, till exempel Office 365, Dynamics, Microsoft 365, Power BI och andra.
   - Procentuell tillväxt eller avböja de här licenserna under det valda datum intervallet.
   - Micro-diagram för licens trend: Micro-diagrammet presenterar månads månads trenden för licens antal under det valda datum intervallet
 
@@ -65,7 +66,7 @@ I vyn över **licenser för geografiskt uppslag** visas den geografiska distribu
 
 Du kan söka efter och välja ett land i rutnätet för att zooma till platsen i kartan. Tryck på **Start** alternativet på kartan för att återgå till standardvyn. Hovra över kartan för att visa aktuella licenser och aktiva licenser per kund land. Båda fälten i rutnätet kan sorteras.
 
-:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="Sammanfattning av licens rapport":::
+:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="licens för geografiskt uppslag":::
 
 ## <a name="license-adds"></a>Licens tillägg
 
@@ -75,13 +76,13 @@ För att presentera trenden efter produkt och tjänst/arbets belastning, väljer
 
 X-axeln representerar månader i det valda datum intervallet. Y-axeln representerar antalet licenser som lagts till. Om du vill zooma in i en viss period använder du skjutreglaget överst i diagrammet.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Sammanfattning av licens rapport":::
+:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="licens tillägg":::
 
 ## <a name="license-distribution"></a>Licens distribution
 
 I den här vyn visas en uppdelning av kund licenser efter produkt och kund land/region. När du väljer en produkt i cirkel diagrammet **licens per produkt** visas en licens uppdelning per kund region i det intilliggande diagrammet.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="Sammanfattning av licens rapport":::
+:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="licens distribution":::
 
 ## <a name="next-steps"></a>Nästa steg
 

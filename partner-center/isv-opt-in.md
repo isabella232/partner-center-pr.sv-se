@@ -4,28 +4,28 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig hur oberoende program varu leverantör (ISV) gör vissa erbjudanden exklusivt och bara tillgängliga för specifika CSP-partner.
+description: Lär dig hur oberoende program varu leverantörer (ISV) gör vissa erbjudanden exklusivt och bara tillgängliga för specifika CSP-partner.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 87863efd5c4d15c560a488f3cf6ec817c5e34ddc
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 53a166ec3cd380c8f9afd39c9b274f7022202500
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531612"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179470"
 ---
-# <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>Fristående marknads erbjudanden från oberoende program varu leverantörer
+# <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>Exklusiva Marketplace-erbjudanden från oberoende programvaruleverantörer
 
 **Lämpliga roller**
 
 - Global administratör
-- Användaradministratör
+- Administratör för användar hantering
 - Administratörs agent
 - Försäljnings agent
 
-En oberoende program varu leverantör (ISV) har möjlighet att göra exklusiva erbjudanden som bara är tillgängliga för vissa CSP-partner.
+En oberoende program varu leverantör (ISV) kan göra exklusiva erbjudanden som bara är tillgängliga för vissa CSP-partner.
 
 CSP-partner kan visa alla ISV-erbjudanden i partner Centers kommersiella marknads platser. Erbjudanden som marker ATS som **exklusiva** kan dock bara köpas av vissa partners som valts av ISV. Om ett erbjudande inte har marker ATS som **exklusiv** kan alla partner köpa det.
 

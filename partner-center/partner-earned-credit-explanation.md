@@ -9,24 +9,24 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 010f74164b0428a5cd6ffcde5000b52ac6a6993f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 022e7aabd0d850660f8236dce9a4fab9069af01b
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624008"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087135"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Hur partnerintjänad kredit beräknas och betalas
 
 **Lämpliga roller**
 
 - Global administratör
-- Användaradministratör
+- Administratör för användar hantering
 - Administratörs agent
 - Faktureringsadministratör
 - Försäljnings agent
 
-Partner intjänad kredit för hanterade tjänster (PEC) känner av och fördelar partner som äger den dygnet runt IT-operativa styrning och hantering av delar av, eller hela, Azure-miljön för kunderna. Som standard beviljas partner i CSP de nödvändiga åtkomst rättigheterna till kundens prenumeration så att de kan utföra 24 X 7 drifts hantering och kontroll över resurserna i prenumerationen. Ytterligare sätt som kunden kan använda för att etablera åtkomst för att agera partner beskrivs i följande avsnitt. Det månatliga fakturabeloppet är efter av partner intjänad kredit. Partner kan se PEC-information om sina månatliga rekognoseringar-filer. Läs [Hantera prenumerationer och resurser i Azure-prenumerationen](azure-plan-manage.md)för ytterligare sätt som en kund kan använda för att etablera åtkomst för den inhandlande partnern.
+Partner intjänad kredit för hanterade tjänster (PEC) känner av och fördelar partner som äger den dygnet runt IT-operativa styrning och hantering av delar av, eller hela, Azure-miljön för kunderna. Som standard beviljas partner i CSP de nödvändiga åtkomst rättigheterna till kundens prenumeration så att de kan utföra 24 X 7 drifts hantering och kontroll över resurserna i prenumerationen. Andra sätt som kunder kan använda för att etablera åtkomst för partners beskrivs i följande avsnitt. Månads fakturan är netto beloppet för den intjänade krediten. Partner kan se PEC-information om sina månatliga rekognoseringar-filer. Läs [Hantera prenumerationer och resurser i Azure-prenumerationen](azure-plan-manage.md)för ytterligare sätt som en kund kan använda för att etablera åtkomst för den inhandlande partnern.
 
 Läs även [återställa administratörs behörighet för Azure CSP-prenumerationer](revoke-reinstate-csp.md)
 
@@ -79,10 +79,10 @@ Azure Cost Management (ACM) med hjälp av kostnads analys kan du som partner se 
 
 - [Partner intjänad kredit – översikt](partner-earned-credit.md)
 
-- Detaljerade exempel på intjänade kredit beräkningar för partner finns i pris listan som du kan komma åt via instrument panelen för partner Center (inloggning krävs).
+- Detaljerade exempel på partner intjänade kredit beräkningar finns i pris listan som du kan komma åt via instrument panelen för partner Center (inloggning krävs).
 
 - [Flytta till Azure plan – kom igång](azure-plan-get-started.md)
 
 - [Hantera prenumerationer och resurser under Azure-planen](azure-plan-manage.md)
 
-- [Återkalla eller Omtillstånd administratörs behörighet för Azure CSP-prenumerationer](revoke-reinstate-csp.md)
+- [Återkalla eller återställa administratörs behörighet för Azure CSP-prenumerationer](revoke-reinstate-csp.md)
