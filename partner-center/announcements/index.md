@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/01/2021
-ms.openlocfilehash: a345ae94c5765231ac69e703941770855a1df878
-ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
+ms.date: 04/02/2021
+ms.openlocfilehash: f550a1b145a4de7a6ecd13dd42241b059da55533
+ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "106280861"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "106374424"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -22,6 +22,7 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 
 |**Kategori**|**April 2021-meddelanden**|**Meddelande**|
 |---------|:---------|:---------|
+|Funktioner|[Nytt format för den nya Commerce PDF-fakturan i CSP](2021-april.md#3)|April 5|
 |Funktioner|[Ändringar i Molnlösningsleverantör-kunders krav för onboarding](2021-april.md#2)|2 april|
 |Funktioner|[Visa den här månadens produkt lanseringar och erbjudanden](2021-april.md#1)|1 april|
 |**Kategori**|**Meddelanden i mars 2021**|**Meddelande**|

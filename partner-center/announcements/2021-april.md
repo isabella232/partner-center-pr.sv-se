@@ -11,17 +11,64 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/02/2021
-ms.openlocfilehash: 091ba83408ccd7896a0395b6d77c7f3a40f9d985
-ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
+ms.openlocfilehash: 2cd791425fd30d18b8db5f999eb773fc0e2f37e6
+ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "106280895"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "106374441"
 ---
 # <a name="april-2021-announcements"></a>April 2021-meddelanden
 
 Den här sidan innehåller meddelandena för Microsoft Partner Center för april 2021.
 
+________________
+## <a name="new-format-for-the-new-commerce-pdf-invoice-in-csp"></a><a name="3"></a>Nytt format för den nya Commerce PDF-fakturan i CSP
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-04-05
+- Funktioner
+
+### <a name="summary"></a>Sammanfattning
+
+Microsoft presenterar ett nytt format för den nya Commerce PDF-fakturan i Cloud Solution Provider (CSP)-programmet för att Visa fakturerings information efter produkt information i stället för SKU-beskrivningen.
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Partner som agerar via CSP-programmet
+
+### <a name="details"></a>Information
+
+Från maj 2021 kommer Microsoft att introducera ett nytt format för den nya Commerce PDF-fakturan i CSP-programmet för att Visa fakturerings information efter produkt information i stället för SKU-beskrivningen. Med den nya uppdateringen aggregerar vi rad artiklarna efter produkt typ och visar varje produkt på en enskild rad.
+
+Partner kommer att notera att den här ändringen kommer att gälla för fakturerings perioden mellan den 1 april 2021 och den 30 april 2021. De påverkade erbjudandena är Microsoft Azure reserverad instans, Azure-prenumerationer (Azure-plan) och Marketplace.
+
+Alla kredit korts begär Anden som görs när faktura formatet har uppdaterats kommer att genereras i det nya formatet.
+
+#### <a name="partner-benefits"></a>Partner förmåner
+
+Den här uppdateringen ger följande förbättringar av fakturerings upplevelsen för partner:
+
+- Minskat faktura storlek och behåller viktiga data
+
+- Justering av formatet för bransch standarder för kompakta och användarvänliga fakturor 
+
+Följande element kommer inte att påverkas:
+
+- Sidan fakturerings sammanfattning på PDF-fakturan
+
+- Befintliga fakturerings-API: er
+
+- Avstämnings filer (rekognoseringar-filer kan användas för att hämta detaljerade data.) 
+
+- Användnings-och licensbaserade avgifts fakturor
+
+### <a name="next-steps"></a>Nästa steg
+
+Läs informationen om det här avsnittet i [resurs galleriet för drift beredskap](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/) på webbplatsen för Microsoft-partner. Mer information om fakturerings-och moms ämnen, inklusive fakturerings resurser, fakturor, CSP-fakturering och skatter, finns i [fakturerings avsnittet](https://docs.microsoft.com/partner-center/billing) i Partner Center.
+
+________________
 ## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="2"></a>Ändringar i CSP-kundernas (Cloud Solution Provider) krav för kund onboarding
 
 ### <a name="categories"></a>Kategorier
