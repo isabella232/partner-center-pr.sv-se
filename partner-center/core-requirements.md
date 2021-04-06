@@ -9,18 +9,14 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 645b07fe7ccdc550cba252507962a5a82ae708af
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 47a670c97acce757270076cf0ae01067db544e2f
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92531425"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502960"
 ---
 # <a name="core-requirements-for-the-activities-in-your-incentive-program"></a>Grundläggande krav för aktiviteterna i stimulans programmet
-
-**Gäller för**
-
-- Partnercenter
 
 **Lämpliga roller**
 
@@ -46,7 +42,7 @@ Följande tabeller beskriver kärn kraven för var och en av de accepterade akti
 
 | Kategori | Bevis för körning    |
 | ------ | ----------- |
-| Core-krav | Ej tillämpligt |
+| Core-krav | NA |
 | Kommunikations krav | Skärm bild av digital annons<br><br>AND<br><br>URL till landnings sidan, som visar programsärskilda kärn krav |
 | Mått     | Sammanfattning av resultat (t. ex. genom att klicka igenom rapporten) |
 |Berättigade utgifter    | Media placering från tredje part<br><br>Avgifts byrå: marknadsföring och kreativa tjänster, inklusive byrå avgifter |
@@ -55,7 +51,7 @@ Följande tabeller beskriver kärn kraven för var och en av de accepterade akti
 
 | Kategori | Bevis för körning    |
 | ------ | ----------- |
-| Core-krav    | Ej tillämpligt |
+| Core-krav    | NA |
 | Kommunikations krav | 1) kopia av slutlig kommunikations del som visar programspecifika kärn krav<br><br>2) distributions beviset kan omfatta postmarked frakt kuvert eller annat e-postmeddelande (direkt e-post), slutlig e-post som visar överordnad rubrik eller annat e-postmeddelande (e-post) eller ett foto av telefon meddelande (SMS) |
 | Mått     | Uppskattad kund (eller partner) räckvidd |
 |Berättigade utgifter    | Databas hämtning<br><br>Tryckt material<br><br>Porto<br><br>Avgifts byrå: marknadsföring och kreativa tjänster, inklusive byrå avgifter |
@@ -64,7 +60,7 @@ Följande tabeller beskriver kärn kraven för var och en av de accepterade akti
 
 | Kategori | Bevis för körning    |
 | ------ | ----------- |
-| Core-krav    | Ej tillämpligt |
+| Core-krav    | NA |
 | Kommunikations krav | URL: er och/eller skärm bilder av webbplats sidor som visar URL<br><br>Beskrivning av arbets-eller tjänste avtal för SEO-projekt (endast SEO-aktivitet) |
 | Mått     | Sammanfattning av resultat (t. ex. genom att klicka igenom rapporten) |
 |Berättigade utgifter    | Avgifts byrå: marknadsförings tjänster, inklusive byrå avgifter<br><br>Programmering/utveckling: avgifter för programmering och utveckling<br><br>Avgift – SEO: optimerings-och underhålls avgifter  |
@@ -73,7 +69,7 @@ Följande tabeller beskriver kärn kraven för var och en av de accepterade akti
 
 | Kategori | Bevis för körning    |
 | ------ | ----------- |
-| Core-krav    | Ej tillämpligt |
+| Core-krav    | NA |
 | Kommunikations krav | URL och/eller skärm bilder av webbplats sidor som visar URL |
 | Mått     | Sammanfattning av resultat (t. ex. genom att klicka igenom rapporten) |
 |Berättigade utgifter    | Faktiska kostnader upp till USD18, 750 per användnings period för: avgifts byrå marknadsförings tjänster, inklusive byrå avgifter<br><br>Avgifter för programmering och utveckling<br><br>Medie placering  |
@@ -82,9 +78,9 @@ Följande tabeller beskriver kärn kraven för var och en av de accepterade akti
 
 | Kategori | Bevis för körning    |
 | ------ | ----------- |
-| Core-krav    |Ej tillämpligt |
+| Core-krav    |NA |
 | Kommunikations krav | All bevisning för körningen som beskrivs på sidan för tillämplig aktivitet krävs<br><br>Digital annonsering<br><br>Direkt e-post<br><br>Optimering av partner webbplats och sökmotor<br><br>Telemarketing  |
-| Mått     | Ej tillämpligt |
+| Mått     | NA |
 |Berättigade utgifter    | Media placering från tredje part<br><br>Avgifts byrå: marknadsföring och kreativa tjänster, inklusive byrå avgifter<br><br>Databas hämtning<br><br>Programmering/utveckling: avgifter för programmering och utveckling<br><br>Avgift – SEO: optimerings-och underhålls avgifter<br><br>Avgift – avgifter från tredje part för samtals Center |
 
 ## <a name="market-development"></a>Marknads utveckling
@@ -140,7 +136,7 @@ Följande tabeller beskriver kärn kraven för var och en av de accepterade akti
 | ------ | ----------- |
 | Core-krav    | Tjänster med fokus på 100% på Microsoft-produkter | 
 | Kommunikations krav | Exempel på slut produkter (baserat på vad som beskrivs i Champ-formuläret på plats) |
-| Mått     | Ej tillämpligt |
+| Mått     | NA |
 |Berättigade utgifter    | Faktiska kostnader upp till 100% för yta och 50% för alla andra program av intjänade co-op-fonder per användnings period för: avgifter-tjänster: tjänster som tillhandahålls av Champ-resurser på plats |
 
 ### <a name="proof-of-concept"></a>Konceptbevis
@@ -156,10 +152,10 @@ Följande tabeller beskriver kärn kraven för var och en av de accepterade akti
 
 | Kategori | Bevis för körning    |
 | ------ | ----------- |
-| Core-krav    | Ej tillämpligt |
+| Core-krav    | NA |
 | Kommunikations krav | URL-landnings sida eller skärm bild av webbplats sidor. Inte kvalificerat för att lägga till Surface |
 | Mått     | Avgifts byrå: marknadsförings tjänster, inklusive byrå avgifter<br><br>Programmering/utveckling: avgifter för programmering och utveckling<br><br>Avgifts tjänst: arbets tjänster som tillhandahålls av partner eller leverantörer från tredje part som stöd för webb installationen |
-|Berättigade utgifter    | Ej tillämpligt |
+|Berättigade utgifter    | NA |
 
 ## <a name="partner-readiness"></a>Partner beredskap
 
@@ -168,8 +164,8 @@ Följande tabeller beskriver kärn kraven för var och en av de accepterade akti
 | Kategori | Bevis för körning    |
 | ------ | ----------- |
 | Core-krav    | Ursprunglig Microsoft-faktura |
-| Kommunikations krav | Ej tillämpligt |
-| Mått     | Ej tillämpligt |
+| Kommunikations krav | NA |
+| Mått     | NA |
 |Berättigade utgifter    | Avgift – årlig registrering: MPN årliga registrerings avgifter<br><br>Plakett och DVD (First set): MPN-medlemskaps plakett och första uppsättningen DVD-skivor<br><br>Ytterligare förmåns verktyg |
 
 ### <a name="microsoft-exams-and-tuition"></a>Microsoft-examina och Tuition
@@ -196,7 +192,7 @@ Följande tabeller beskriver kärn kraven för var och en av de accepterade akti
 | ------ | ----------- |
 | Core-krav    | Microsoft-värdbaserade konferenser. Flyg/hotell-utgifter är begränsade till USD 5 000 per person per konferens, begränsad till 3 deltagare, med en total Kap på USD 45 000 för flyg/träna pris-/hotell kostnader per period per program. Värd tjänster kan ha olika avdrag. |
 | Kommunikations krav | Kopia av konferens-/händelse inbjudan eller registrerings bekräftelse som visar bevis om att konferensen är värd för Microsoft<br><br>Transport rutt med rese datum (endast flyg utgifter) |
-| Mått     | Ej tillämpligt |
+| Mått     | NA |
 |Berättigade utgifter    | Avgifts registrering: för upp till tre deltagare per konferens<br><br>Res-flyg/hotell: transport (flyg eller tåg pris och tillämpliga skatter) och hotell (endast rums taxa och tillämpliga skatter)<br><br>Obs! res-flyg/hotell utgifter är begränsade till USD 5 000 per person per konferens, begränsad till 3 deltagare, med en total Kap på USD 45 000 för flyg/träna pris-/hotell kostnader per period per program. Värd tjänster kan ha olika avdrag. |
 
 ### <a name="product-seedingdemo-units"></a>Enheter för produkt dirigering/demonstration
@@ -205,11 +201,11 @@ Följande tabeller beskriver kärn kraven för var och en av de accepterade akti
 | ------ | ----------- |
 | Core-krav    | Du kan begära upp till 10% av de totala upplupna co-op-fonderna eller USD 3 000, beroende på vilket som är högre eller per program period. Surface PC & Hub-partners har ingen anspråks gräns. |
 | Kommunikations krav | System specifikationer för demo enheter som skapats internt.<br><br>Leverans bevis för demo enheter från tredje part.<br><br>Bevis på tredje parts demo enhet. |
-| Mått     | Ej tillämpligt |
-|Berättigade utgifter    | Ej tillämpligt |
+| Mått     | NA |
+|Berättigade utgifter    | NA |
 
  Om du vill ha mer information laddar du ned [partner stimulans Guidebook](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) (inloggning krävs).
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Hantera samop-anspråk](incentives-managing-co-op-claims.md)
+- [Hantera säljsamarbetsanspråk](incentives-managing-co-op-claims.md)

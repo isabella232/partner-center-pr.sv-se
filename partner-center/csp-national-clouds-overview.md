@@ -9,26 +9,25 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 386df8e19a7c66403770f94f2656bc52feb15564
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: cf5c64893bd5a55d842b2c426d05480a5a943a36
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979574"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502909"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>Ansök om försäljning i Microsofts nationella moln som en del av CSP-programmet
 
 **Gäller för**
 
-- Partner Center för Microsoft myndighets moln
+- Välkommen till Partnercenter för Microsoft Cloud for US Government
 - Partner Center för Microsoft Cloud Germany
-
 
 **Lämpliga roller**
 
 - Global administratör
 
-Förutom att sälja till kunder som en del av programmet global Cloud Solution Provider kan kvalificerade Microsoft-partner även sälja moln lösningar till kunder i tre separata nationella moln. Nationella moln är fysiska och logiska nätverks instanser av Microsoft Enterprise Cloud Services, som är begränsade inom de geografiska gränserna för specifika länder och drivs av lokal personal. 
+Förutom att sälja till kunder som en del av programmet global Cloud Solution Provider kan kvalificerade Microsoft-partner även sälja moln lösningar till kunder i tre separata nationella moln. Nationella moln är fysiska och logiska nätverks instanser av Microsoft Enterprise Cloud Services, som är begränsade inom de geografiska gränserna för specifika länder och drivs av lokal personal.
 
 Mer information om Microsofts nationella moln erbjudanden finns i [Microsofts nationella moln](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud).
 
@@ -56,7 +55,7 @@ Kvalificerade partner kan sälja Microsofts moln lösningar till kunder i dessa 
     
 -   [**Azure och Office 365 som drivs av 21Vianet i Kina**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China) Microsoft tillhandahåller moln tjänster i Kina genom ett unikt partnerskap med Shanghai Blue Cloud Technology Co., Ltd. (21Vianet), ett helägt dotter bolag till Beijing 21Vianet Broadband Data Center co., Ltd. 21Vianet är den största lufttrafikiga Internet leverantören av data Center, värd tjänster, hanterade nätverk och infrastruktur tjänster för data behandling i Kina. 
 
-    Microsoft är teknik leverantören, men den använder inte tjänsten. 21Vianet fungerar oberoende av, tillhandahåller och hanterar leverans av Microsofts moln tjänster. Genom att licensiera Microsofts tekniker kan 21Vianet erbjuda Azure-och Office 365-tjänster och använda Azure-och Office 365-datacenter som håller data i Kina. 21Vianet tillhandahåller även prenumerations-och fakturerings tjänster samt support.
+    Microsoft är teknik leverantören, men den använder inte tjänsten. 21Vianet fungerar oberoende av, tillhandahåller och hanterar leverans av Microsofts moln tjänster. Genom att licensiera Microsofts tekniker kan 21Vianet erbjuda Azure-och Office 365-tjänster och använda Azure-och Office 365-datacenter som håller data i Kina. 21Vianet tillhandahåller även prenumerations-och fakturerings tjänster och support.
 
     Information om hur du registrerar i och säljer till kunder i Azure och Office 365 som drivs av 21Vianet i Kina finns i [partner Center som drivs av 21Vianet](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11)).
 

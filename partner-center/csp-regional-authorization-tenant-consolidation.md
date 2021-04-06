@@ -10,19 +10,18 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0ae107c005eaf6b8ff8a6d99a91075ebc560cf81
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 2171e2b10101e99bdd8d415a936ba98af65c2a1b
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92531853"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502578"
 ---
-# <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Instruktioner för CSP regional auktorisering av klient organisations konsolidering
+# <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Instruktioner för CSP-auktorisering för konsolidering av klientorganisationer
 
 **Gäller för**
 
--  Partnercenter
--  Partner Center för Microsoft Cloud för amerikanska myndigheter
+- Välkommen till Partnercenter för Microsoft Cloud for US Government
 
 **Lämpliga roller**
 
@@ -46,9 +45,9 @@ Du kan konsolidera klienter för ditt företag. Använd de här anvisningarna f�
 
 1. Logga in på **partner Center** **med det nya kontot (det** som du använder för att överföra kunder till).
 
-2. Välj **Kunder** .
+2. Välj **Kunder**.
 
-3. Klicka på **begär en åter försäljare relation** . Du får ett e-postmeddelande som standard för att skicka till dina kunder. Det här meddelandet innehåller en URL med det org-ID som är unikt för ditt nya partner Center-konto.
+3. Välj **begär en åter försäljare relation**. Du får ett e-postmeddelande som standard för att skicka till dina kunder. Det här meddelandet innehåller en URL med det org-ID som är unikt för ditt nya partner Center-konto.
 
 4. **Kund åtgärd:** Se till att alla aktiva kunder som du vill migrera besöker den här URL: en. När du öppnar webb adressen uppmanas kunden att logga in på Office 365-portalen. Kunden loggar in med samma organisations-ID som de använder för att få åtkomst till Azure-och Office 365-administrations portalerna.
 
@@ -60,17 +59,17 @@ Kunderna kommer att visas i partnerns kund lista när de har skickat in avtalet,
 
 1. När din kund har undertecknat avtalet kan du återskapa deras prenumerationer under din centraliserade partner klient.
 
-2. Välj **kunder** från **partner Center** .
+2. Välj **kunder** från **partner Center**.
 
 3. Öppna företags namnet för den kund som du vill migrera.
 
-4. Välj **Lägg till prenumeration** .
+4. Välj **Lägg till prenumeration**.
 
 5. Lägg till rätt prenumerationer och licens antal från katalogen. Kontrol lera med den information som finns i **över gången från** partner konton.
 
    :::image type="content" source="images/regionalcustomer2.png" alt-text="kund lista":::
 
-6. Klicka på **Skicka.**
+6. Välj **Skicka.**
 
    Tjänsterna tillhandahålls nu till kunden från **över gången till** partner kontot.
 
@@ -89,7 +88,7 @@ Om du inaktiverar CSP-prenumerationen under **över gången från** partner kont
 
 2. Öppna kunden med prenumerationer som du vill inaktivera och välj sedan det första erbjudandet som ska inaktive ras.
 
-3. Ställ in prenumerationen på **pausad** och klicka sedan på **Skicka** .
+3. Ställ in prenumerationen på **pausad** och välj sedan **Skicka**.
 
    >[!Note]
    >Om du avbryter prenumerationen säkerställs dubbel fakturering.
@@ -102,7 +101,7 @@ Om du inaktiverar CSP-prenumerationen under **över gången från** partner kont
 
 ## <a name="migrating-azure-usage-based-subscriptions"></a>Migrera Azure Usage-baserade prenumerationer
 
-Till skillnad från Office 365 CSP-prenumerationer behöver Azure, användnings CSP-prenumerationer inte migreras manuellt. Microsoft Azure-support migrerar Azure-prenumerationerna samt alla distribuerade tjänster eller resurser från **över gången från** CSP: er åter försäljar konton till kontot för **över gång till** CSP-återförsäljare. Det sker ingen avbrott i tjänsten för kunden under över gången.
+Till skillnad från Office 365 CSP-prenumerationer behöver Azure, användnings CSP-prenumerationer inte migreras manuellt. Microsoft Azure-support migrerar Azure-prenumerationerna och alla distribuerade tjänster eller resurser från **över gången från** CSP-återförsäljarens konton till **över gången till** CSP-återförsäljarens konto. Det sker ingen avbrott i tjänsten för kunden under över gången.
 
 1. Se till att de kund konton som kommer att ha Azure-prenumerationer migrerats har godkänt att avtalet associeras med den nya **över gången till** CSP-kontot.
 
@@ -134,11 +133,11 @@ Till skillnad från Office 365 CSP-prenumerationer behöver Azure, användnings 
 
 Med hjälp av **funktionen Exportera** kan du samla in de prenumerationer som du behöver använda i din nya konsoliderade struktur:
 
-1. Klicka på **kunder** i Partner Center för att se listan över kunder. 
+1. Välj **kunder** i Partner Center för att se listan över kunder. 
 
 2. Öppna det önskade kund namnet.
 
-3. På sidan **prenumerationer** klickar du på **Exportera prenumerationer** för att exportera information om prenumerationer till en Excel-fil.
+3. På sidan **prenumerationer** väljer du **Exportera prenumerationer** för att exportera information om prenumerationer till en Excel-fil.
 
 4. Använd den här listan för att återskapa prenumerationerna i den nya konsoliderade klienten.
 

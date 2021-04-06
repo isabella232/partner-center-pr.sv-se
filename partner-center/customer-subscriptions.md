@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1521f9b14f6ae01a69d625f308f9eed9d677a45e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 6ae63c2cacbdea7a1aa2bf08ffff8a3cde512668
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92530969"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502755"
 ---
 # <a name="how-csp-program-partners-can-sell-subscriptions-to-customers"></a>Hur CSP-programpartner kan sälja prenumerationer till kunder
-
-**Gäller för**
-
--  Partnercenter
 
 **Lämpliga roller**
 
@@ -33,11 +29,11 @@ Som CSP-partner erbjuder en av de centrala saker du behöver prenumerationer fö
 
 |**För att göra detta**   |**Läs detta**   |
 |----------------------|:----------------------|
-|Skapa och hantera prenumerationer för befintliga kunder i Partner Center|[Skapa en ny prenumeration](create-a-new-subscription.md)|
-|När du har lagt till prenumerationen kan du tilldela licenser till kundens anställda  |[Tilldela licenser till användare](assign-licenses-to-users.md)|
-|Du kan också hantera Mass licens uppdateringar   |[Tilldela eller återkalla licenser till flera användare](bulk-license-provisioning-for-multiple-users.md)|
-|När kunden lägger till nya anställda kan du lägga till ytterligare licenser till befintliga prenumerationer   |[Lägga till licenser eller tjänster i en befintlig prenumeration](add-licenses-or-services-to-an-existing-subscription.md)|
-|Din kund kanske vill testa program varan innan du genomför den, så vi erbjuder utvärderings prenumerationer    |[Erbjud dina kunders utvärdering av Microsoft-produkter](offer-your-customers-trials-of-microsoft-products.md)|
-|Du kan starta processen för Azure-prenumerationen i Partner Center   |[Tilldela Azure-prenumerationer i Partner Center](assign-azure-subscriptions.md)|
-|Lär dig mer om Special priser för erbjudanden   |[Hämta Special priser för erbjudanden](get-special-pricing-for-offers.md)|
-|Lär dig hur dina kunder använder sin program vara för att hjälpa dem att bli mer effektiva.   | [Öka införandet och nöjdheten](increasing-adoption-and-satisfaction.md)   |
+|Skapa och hantera prenumerationer för befintliga kunder i Partner Center.|[Skapa en ny prenumeration](create-a-new-subscription.md)|
+|När du har lagt till prenumerationen kan du tilldela licenser till kundens anställda.  |[Tilldela licenser till användare](assign-licenses-to-users.md)|
+|Du kan också hantera Mass licens uppdateringar.   |[Tilldela eller återkalla licenser till flera användare](bulk-license-provisioning-for-multiple-users.md)|
+|När kunden lägger till nya anställda kan du lägga till fler licenser i befintliga prenumerationer.   |[Lägga till licenser eller tjänster i en befintlig prenumeration](add-licenses-or-services-to-an-existing-subscription.md)|
+|Kunden kanske vill testa program varan innan du genomför den, så vi erbjuder utvärderings prenumerationer.    |[Erbjuda kunder utvärderingsversioner av Microsoft-produkter](offer-your-customers-trials-of-microsoft-products.md)|
+|Du kan starta processen för Azure-prenumerationen i Partner Center.   |[Tilldela Azure-prenumerationer i Partner Center](assign-azure-subscriptions.md)|
+|Lär dig mer om Special priser för erbjudanden.   |[Hämta Special priser för erbjudanden](get-special-pricing-for-offers.md)|
+|Lär dig hur dina kunder använder sin program vara för att hjälpa dem att bli mer effektiva.   | [Öka användningen och nöjdheten](increasing-adoption-and-satisfaction.md)   |

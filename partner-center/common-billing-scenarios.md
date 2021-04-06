@@ -9,18 +9,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dcac190570d42fa165d33226c3ad33ec836f521b
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 44f4e45b53d6da7c8ed08678f8b05719cc9c2d7a
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "92531084"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502454"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Vanliga fakturerings scenarier för KRYPTOGRAFIPROVIDERs program partners som arbetar i Partner Center
-
-Gäller för:
-
-- Fakturerings program för Cloud Solution Provider (CSP)
 
 **Lämpliga roller**
 
@@ -29,7 +25,7 @@ Gäller för:
 - Support agent
 - Försäljnings agent
 
-I de här avsnitten beskrivs vad du bör förvänta dig när du har lagt till nya prenumerationer, justerar antalet licenser till en prenumeration eller avbryter en prenumeration. Andra [fakturerings typer för partner Center](billing-different-types.md), till exempel användnings-och licensbaserade prenumerationer, faktureras på olika sätt.
+I de här artiklarna beskrivs vad du bör förvänta dig när du har lagt till nya prenumerationer, justerar antalet licenser till en prenumeration eller avbryter en prenumeration. Andra [fakturerings typer för partner Center](billing-different-types.md), till exempel användnings-och licensbaserade prenumerationer, faktureras på olika sätt.
 
 | Typ av fakturering | Scenarier som omfattas |
 | --------------- | ----------------- |

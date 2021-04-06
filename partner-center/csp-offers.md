@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 59e84162b85df197b135bcf5792fd2e730b53e56
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: e6b0de64a9ac3d86c77cc47f6b69b8a132606309
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "92531016"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502875"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Översikt över partnererbjudanden i programmet för molnlösningsleverantörer
-
-**Gäller för**
-
-- CSP-partner
 
 **Lämpliga roller**
 
@@ -28,7 +24,7 @@ ms.locfileid: "92531016"
 - Global administratör
 - Försäljnings agent
 
-Microsoft-partner i Cloud Solution Provider-programmet (CSP) har en växande katalog med erbjudanden som är tillgängliga för dem. Du kan sälja hela [Microsofts moln tjänster](https://partner.microsoft.com/cloud-solution-provider/products-and-services)och en rad olika ytterligare erbjudanden som ofta förändras. Om du vill se CSP-erbjudandet för den aktuella månaden loggar du in på Partner Center och går till sidan [**priser och erbjudanden**](https://partnercenter.microsoft.com/pcv/sales) .  
+Microsoft-partner i Cloud Solution Provider-programmet (CSP) har en växande katalog med erbjudanden som är tillgängliga för dem. Du kan sälja hela [Microsofts moln tjänster](https://partner.microsoft.com/cloud-solution-provider/products-and-services)och andra erbjudanden som ändras ofta. Om du vill se CSP-erbjudandet för den aktuella månaden loggar du in på Partner Center och går till sidan [**priser och erbjudanden**](https://partnercenter.microsoft.com/pcv/sales) .  
 
 Har du ännu inte registrerats i Cloud Solution Provider-programmet? Besök [Cloud Solution Provider](https://partner.microsoft.com/cloud-solution-provider) om du vill ha mer information om hur du registrerar. 
 
@@ -53,13 +49,13 @@ För närvarande kan du sälja följande typer av produkter och tjänster till d
 
 ### <a name="online-services"></a>Onlinetjänster
 
-   *Online tjänster* är det nya namnet på det som för närvarande kallas *prenumerationer* . För att göra det enklare för dig att beställa flera typer av produkter på ett och samma ställe har vi integrerat uppgifts flödet "Lägg till prenumeration" i aktivitets flödet "Lägg till produkter".
+   *Online tjänster* är det nya namnet på det som för närvarande kallas *prenumerationer*. För att göra det enklare för dig att beställa flera typer av produkter på ett och samma ställe har vi integrerat uppgifts flödet "Lägg till prenumeration" i aktivitets flödet "Lägg till produkter".
 
    Mer information finns i [kund prenumerationer](customer-subscriptions.md).
 
 ### <a name="software-as-a-service-saas-and-other-azure-marketplace-products"></a>Program vara som en tjänst (SaaS) och andra [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace) -produkter
 
-   Du kan sälja prenumerationer till SaaS-produkter från oberoende program varu leverantörer (ISV). Om du bara vill se SaaS erbjudanden i **Online Services** använder du filtren för att ställa in **utgivare** för **partner** . Då visas alla SaaS-erbjudanden som kan köpas för kunden.
+   Du kan sälja prenumerationer till SaaS-produkter från oberoende program varu leverantörer (ISV). Om du bara vill se SaaS erbjudanden i **Online Services** använder du filtren för att ställa in **utgivare** för **partner**. Då visas alla SaaS-erbjudanden som kan köpas för kunden.
 
    Du kan också hitta information om de här produkterna på **Marketplace** -sidan.
 
@@ -95,13 +91,13 @@ Om du vill köpa produkter och tjänster åt dina CSP-kunder väljer du de objek
 
 1. Välj **kunder** från menyn Partner Center och leta upp kunden som vill köpa från dig. 
 
-2. Välj nedåtpilen i slutet av kundens rad för att expandera kundens post och välj sedan **Lägg till produkter** . Från och med nu så skapar du en order. En order kan omfatta flera objekt av olika typer, men de måste vara till samma kund.
+2. Välj nedåtpilen i slutet av kundens rad för att expandera kundens post och välj sedan **Lägg till produkter**. Från och med nu så skapar du en order. En order kan omfatta flera objekt av olika typer, men de måste vara till samma kund.
 
-3. På sidan **Lägg till produkter** väljer du från **Azure** , **online tjänster** eller **program vara** .
+3. På sidan **Lägg till produkter** väljer du från **Azure**, **online tjänster** eller **program vara**.
 
 4. Finjustera de tillgängliga filtren för att lättare hitta de produkter som du letar efter. Om du vill **se en fullständig** lista över vad som är tillgängligt anger du tillämpliga filter.
 
-5. Välj den produkt som kunden vill ha, ange önskad kvantitet och välj sedan **Lägg till i kundvagn** .
+5. Välj den produkt som kunden vill ha, ange önskad kvantitet och välj sedan **Lägg till i kundvagn**.
 
 6. Upprepa steg 4 och 5 tills du har lagt till alla nödvändiga objekt i din varukorg. Välj **Granska** för att kontrol lera att din beställning är korrekt.  
 
@@ -117,10 +113,10 @@ Vissa licensbaserade erbjudanden kan bara köpas under vissa omständigheter. S�
 
 Det kan finnas olika orsaker till att du inte kan hitta erbjudandet som du letar efter i katalogen. Nedan visas saker att se om du inte hittar det erbjudande du förväntar dig.
 
-- **Verifiera att din kund är kvalificerad** . Många erbjudanden kräver särskilda kvalifikationer för att säljas till kunder. Dessa särskilda segment omfattar utbildning, ideella organisationer och GCC (Government Community Cloud). Innan du loggar ett problem kontrollerar du först att kundens kvalifikationer har angetts korrekt. Du kan kontrollera det här genom att klicka på kunden i kundlistan och titta på kontot. Kontot kommer att ha en speciell kvalificering angiven om det är tillämpligt. Om du försöker köpa utbildning för en kund som inte är kvalificerad så kan du inte se dessa erbjudanden i katalogen. Se de [särskilda segmenten enhetsplattformar](get-special-pricing-for-offers.md) för mer information om att kvalificera dina kunder.
-- **Bestäm om du försöker köpa ett tillägg eller ett baserbjudande** . För många av de licensbaserade tjänsterna såsom Microsoft 365 och Dynamics 365 erbjuds katalogköp av både baserbjudanden och tillägg. Endast baserbjudanden kan köpas i katalogen. Köp tillägg genom att först se till att du köper baserbjudandet i katalogen, sedan väljer du kunden från kundlistan och väljer prenumerationen för baserbjudandet. Tillägg kan användas för baserbjudandet på den här sidan för prenumerationshantering. 
-- **Kontrollera att produkterna är tillgängliga på din marknad** . Många produkter och tjänster har konfigurerats för att endast säljas till kunder i vissa länder. Du hittar en lista över länder som stöds i de olika prislistefilerna. Länder med stöd för licensbaserade tjänster finns i matrisen för erbjudandelistan på sidan med priser och erbjudanden.
-- **Kontrollera att erbjudandena är tillgängliga i prislistan.** Den tillgängliga listan med erbjudanden kan ändras från månad till månad. Om du inte kan hitta ett erbjudande i katalogen måste du kontrollera att det är tillgängligt i de aktuella prislistorna på sidan **Sälj > Priser och erbjudanden** .
+- **Verifiera att din kund är kvalificerad**. Många erbjudanden kräver särskilda kvalifikationer för att säljas till kunder. Dessa särskilda segment omfattar utbildning, ideella organisationer och GCC (community Cloud Cloud). Innan du loggar ett problem kontrollerar du först att kundens kvalifikationer har angetts korrekt. Du kan kontrol lera detta genom att välja kunden i listan kund och Visa kontot. Kontot kommer att ha en speciell kvalificering angiven om det är tillämpligt. Om du försöker köpa utbildning för en kund som inte är kvalificerad så kan du inte se dessa erbjudanden i katalogen. Mer information om att kvalificera dina kunder finns i dokumentationen för [Special segment](get-special-pricing-for-offers.md).
+- **Bestäm om du försöker köpa ett tillägg eller ett baserbjudande**. Många av de licensbaserade tjänsterna, till exempel Microsoft 365 och Dynamics 365, aktiverar båda katalog inköpen av bas erbjudanden och-tillägg. Endast baserbjudanden kan köpas i katalogen. Om du vill köpa tillägg måste du först köpa bas erbjudandet i katalogen och sedan välja kunden från kund listan och sedan välja prenumerationen för bas erbjudandet. Tillägg kan användas för baserbjudandet på den här sidan för prenumerationshantering. 
+- **Kontrollera att produkterna är tillgängliga på din marknad**. Många produkter och tjänster har konfigurerats för att endast säljas till kunder i vissa länder. Du hittar en lista över länder som stöds i de olika prislistefilerna. Länder med stöd för licensbaserade tjänster finns i matrisen för erbjudandelistan på sidan med priser och erbjudanden.
+- **Kontrollera att erbjudandena är tillgängliga i prislistan.** Den tillgängliga listan med erbjudanden kan ändras från månad till månad. Om du inte hittar något erbjudande i katalogen kontrollerar du att det är tillgängligt i de aktuella pris listorna på sidan **sälj > priser och erbjudanden** .
 
 ### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>Rekommenderade dokument som rör köp av objekt i Partner Center
 

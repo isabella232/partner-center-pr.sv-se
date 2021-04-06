@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a095f35c58cb6eb0c45f888bdf379edfd3cfe379
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: ac6169ea6680ea0b36cd5caa3f3e8276f557bea2
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475203"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502560"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Sälj program varu prenumerationer via Cloud Solution Provider (CSP)-programmet
-
-**Gäller för**
-
-- Leverantörer av molnlösningar
 
 **Lämpliga roller**
 
@@ -31,7 +27,7 @@ Med Azure-reservationer och Server prenumerationer (Windows Server och SQL Serve
 
 Du kan nu hämta, etablera och hantera Azure-reservationer och Server prenumerationer åt kommersiella kunder via partner Center och Azure Portal genom att dra nytta av Azure Hybrid-förmån.
 
-Azure Hybrid-förmån hjälper dig att få mer värde från dina Windows Server-licenser och Spara upp till 40 procent på virtuella datorer. Du kan använda fördelarna med Windows Server Data Center och Standard Edition-licenser som omfattas av Software Assurance. Beroende på vilken version du har, kan du konvertera eller återanvända dina licenser för att köra virtuella Windows Server-datorer i Azure och betala en lägre bas beräknings taxa (t. ex. priser för virtuella Linux-datorer).
+Azure Hybrid-förmån hjälper dig att få mer värde från dina Windows Server-licenser och Spara upp till 40 procent på virtuella datorer. Du kan använda fördelarna med Windows Server Data Center och Standard Edition-licenser som omfattas av Software Assurance. Beroende på versionen kan du konvertera eller återanvända dina licenser för att köra virtuella Windows Server-datorer i Azure och betala en lägre bas beräknings taxa (till exempel pris för virtuella Linux-datorer).
 
 ## <a name="azure-reservations-unavailable-markets"></a>Azure-reservationer ej tillgängliga marknader
 
@@ -101,7 +97,7 @@ När du har köpt program varan måste du eller dina kunder Ladda ned den (partn
 
 2. Välj produkt **version**, **språk**, **bit** och välj **Hämta nycklar och nedladdningar**. 
 
-3. Välj **Hämta nyckel** som visar den 32-siffriga produkten i en popup-dialog som du kan kopiera och skicka till kunden. 
+3. Välj **Hämta nyckel** för att visa den 32-siffriga produkten i en popup-dialog ruta som du kan kopiera och skicka till kunden. 
 
 4. Välj **Hämta** för att ladda ned bitarna. 
 
