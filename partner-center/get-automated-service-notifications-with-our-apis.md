@@ -9,35 +9,29 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7bb97c696c4694c9052403444eec0e27f65d325c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: bdcc9feb9f6f022642ece217aa1ba17e24bd20da
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531677"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441446"
 ---
-# <a name="use-apis-for-automated-service-notifications-for-azure-insights--office-365-service-communications"></a><span data-ttu-id="66dfa-103">Använda API: er för automatiserade tjänst aviseringar för Azure Insights & Office 365 service Communications</span><span class="sxs-lookup"><span data-stu-id="66dfa-103">Use APIs for automated service notifications for Azure Insights & Office 365 service communications</span></span>
+# <a name="use-apis-for-automated-service-notifications-for-azure-insights--office-365-service-communications"></a><span data-ttu-id="b17d1-103">Använda API: er för automatiserade tjänst aviseringar för Azure Insights & Office 365 service Communications</span><span class="sxs-lookup"><span data-stu-id="b17d1-103">Use APIs for automated service notifications for Azure Insights & Office 365 service communications</span></span>
 
-<span data-ttu-id="66dfa-104">**Gäller för**</span><span class="sxs-lookup"><span data-stu-id="66dfa-104">**Applies to**</span></span>
+<span data-ttu-id="b17d1-104">**Lämpliga roller**</span><span class="sxs-lookup"><span data-stu-id="b17d1-104">**Appropriate roles**</span></span>
 
--  <span data-ttu-id="66dfa-105">Partnercenter</span><span class="sxs-lookup"><span data-stu-id="66dfa-105">Partner Center</span></span>
+- <span data-ttu-id="b17d1-105">Administratörs agent</span><span class="sxs-lookup"><span data-stu-id="b17d1-105">Admin agent</span></span>
+- <span data-ttu-id="b17d1-106">Global administratör</span><span class="sxs-lookup"><span data-stu-id="b17d1-106">Global admin</span></span>
+- <span data-ttu-id="b17d1-107">Försäljnings agent</span><span class="sxs-lookup"><span data-stu-id="b17d1-107">Sales agent</span></span>
+- <span data-ttu-id="b17d1-108">Support agent</span><span class="sxs-lookup"><span data-stu-id="b17d1-108">Helpdesk agent</span></span>
 
-<span data-ttu-id="66dfa-106">**Lämpliga roller**</span><span class="sxs-lookup"><span data-stu-id="66dfa-106">**Appropriate roles**</span></span>
+<span data-ttu-id="b17d1-109">Office 365 och Microsoft Azure var och en tillhandahåller ett API som partner kan använda för att hämta real tids service Health, meddelande Center kommunikation och planerade underhålls händelser.</span><span class="sxs-lookup"><span data-stu-id="b17d1-109">Office 365 and Microsoft Azure each provide an API that partners can use to retrieve real-time service health, message center communications, and planned maintenance events.</span></span> <span data-ttu-id="b17d1-110">Dessa API: er är allmänt tillgängliga och partner kan använda dem för kundernas räkning på grund av deras delegerade administratörs privilegier.</span><span class="sxs-lookup"><span data-stu-id="b17d1-110">These APIs are publicly available, and partners can use them on behalf of their customers because of their delegated admin privileges.</span></span>
 
-- <span data-ttu-id="66dfa-107">Administratörs agent</span><span class="sxs-lookup"><span data-stu-id="66dfa-107">Admin agent</span></span>
-- <span data-ttu-id="66dfa-108">Global</span><span class="sxs-lookup"><span data-stu-id="66dfa-108">Global</span></span> 
-- <span data-ttu-id="66dfa-109">Försäljnings agent</span><span class="sxs-lookup"><span data-stu-id="66dfa-109">Sales agent</span></span>
-- <span data-ttu-id="66dfa-110">Support agent</span><span class="sxs-lookup"><span data-stu-id="66dfa-110">Helpdesk agent</span></span>
+<span data-ttu-id="b17d1-111">Dessa API: er är tillgängliga för dina utvecklare:</span><span class="sxs-lookup"><span data-stu-id="b17d1-111">These APIs are available for your developers:</span></span>
 
-<span data-ttu-id="66dfa-111">Office 365 och Microsoft Azure var och en tillhandahåller ett API som partner kan använda för att hämta real tids service Health, meddelande Center kommunikation och planerade underhålls händelser.</span><span class="sxs-lookup"><span data-stu-id="66dfa-111">Office 365 and Microsoft Azure each provide an API that partners can use to retrieve real-time service health, message center communications, and planned maintenance events.</span></span> <span data-ttu-id="66dfa-112">Dessa API: er är allmänt tillgängliga och partner kan använda dem för kundernas räkning på grund av deras delegerade administratörs privilegier.</span><span class="sxs-lookup"><span data-stu-id="66dfa-112">These APIs are publicly available, and partners can use them on behalf of their customers because of their delegated admin privileges.</span></span>
+- [<span data-ttu-id="b17d1-112">Office 365 service Communications API</span><span class="sxs-lookup"><span data-stu-id="b17d1-112">Office 365 service communications API</span></span>](/office/office-365-management-api/office-365-service-communications-api-reference)
+- <span data-ttu-id="b17d1-113">REST [API-referens](/rest/api/monitor/) för Azure Insights</span><span class="sxs-lookup"><span data-stu-id="b17d1-113">Azure Insights REST [API reference](/rest/api/monitor/)</span></span>
 
-<span data-ttu-id="66dfa-113">Dessa API: er är tillgängliga för dina utvecklare:</span><span class="sxs-lookup"><span data-stu-id="66dfa-113">These APIs are available for your developers:</span></span>
+ 
 
-[<span data-ttu-id="66dfa-114">Office 365 service Communications API</span><span class="sxs-lookup"><span data-stu-id="66dfa-114">Office 365 service communications API</span></span>](/office/office-365-management-api/office-365-service-communications-api-reference)
-
-
-<span data-ttu-id="66dfa-115">REST [API-referens](/rest/api/monitor/) för Azure Insights</span><span class="sxs-lookup"><span data-stu-id="66dfa-115">Azure Insights REST [API reference](/rest/api/monitor/)</span></span>
-
- 
-
- 
+ 
