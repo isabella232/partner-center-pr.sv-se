@@ -8,18 +8,18 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.date: 11/20/2019
-ms.openlocfilehash: bdce3cd4b2095a0c2d87521a879a15bcbbd7d0fd
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 97e7e19f54e3dd98a37409747cfac5464080c86e
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531713"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441480"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Vanliga frågor och svar om Partner Center för Microsoft Cloud för amerikanska myndigheter
 
 **Gäller för**
 
-- Partner Center för Microsoft Cloud för amerikanska myndigheter
+- Välkommen till Partnercenter för Microsoft Cloud for US Government
 
 ## <a name="general-questions"></a>Allmänna frågor
 
@@ -27,11 +27,11 @@ Använd de här vanliga frågorna för att lära dig mer om program varan för C
 
 ### <a name="what-is-microsoft-cloud-for-us-government"></a>Vad är Microsoft Cloud för amerikanska myndigheter?
 
-Microsoft Cloud för myndigheter som har utformats för amerikanska myndigheter från grunden, gör det möjligt för myndigheter i offentlig sektor att i USA – från stora federala myndigheter till små stads myndigheter – för att välja mellan olika typer av tjänster för molnbaserad data behandling. För att tillgodose kundernas särskilda behov har Microsoft gjort betydande investeringar i Data Center och är engagerade i att uppfylla amerikanska federala och statliga principer, uppdrag och krav.
+Microsoft Cloud för amerikanska myndigheter som har utformats för USA: s myndigheter, gör det möjligt för kunder i den offentliga sektorn att i USA – från stora federala myndigheter till små myndigheter – att välja mellan olika typer av tjänster för molnbaserad data behandling. För att tillgodose kundernas särskilda behov har Microsoft gjort betydande investeringar i Data Center och är engagerade i att uppfylla amerikanska federala och statliga principer, uppdrag och krav.
 
 ### <a name="who-is-eligible-for-the-csp-program-for-microsoft-cloud-for-us-government"></a>Vem är berättigad till CSP-programmet för Microsoft Cloud för amerikanska myndigheter?
 
-Partner i den USA som betjänar amerikanska federala, statliga och lokala myndighets enheter i deras statliga kapacitet är berättigade till CSP-programmet för Microsoft myndighets moln. Microsoft har ett strikt validerings program för att fastställa berättigande innan partner kan komma åt Microsofts myndighets moln. För att kvalificera dig måste du bevisa att du arbetar med myndighets kunder. Registrerings processen för CSP-programmet i Microsoft kunde amerikanska myndigheter ha förbättrats för att samla in ytterligare data för att utföra verifieringen. Typer av bevis kan inkludera, men är inte begränsade till, myndighets kontrakts nummer och en skrivelse från din myndighets kund.
+Partner i den USA som betjänar amerikanska federala, statliga och lokala myndighets enheter i deras statliga kapacitet är berättigade till CSP-programmet för Microsoft Cloud för amerikanska myndigheter. Microsoft har ett strikt validerings program för att fastställa berättigande innan partner kan komma åt Microsoft Cloud för amerikanska myndigheter. För att kvalificera dig måste du bevisa att du arbetar med myndighets kunder. Registrerings processen för CSP-programmet i Microsoft kunde amerikanska myndigheter ha förbättrats för att samla in ytterligare data för att utföra verifieringen. Typer av bevis kan inkludera, men är inte begränsade till, myndighets kontrakts nummer och en skrivelse från din myndighets kund.
 
 ### <a name="is-customer-pricing-the-same-as-for-csp-commercial"></a>Är kund priset samma som för CSP-kommersiella?
 
@@ -43,13 +43,13 @@ Ja. Partner rabatt modellen för CSP-programmet för Microsoft Cloud för amerik
 
 ### <a name="csp-commercial-is-an-existing-partner-program-how-is-the-csp-program-for-microsoft-government-cloud-different"></a>CSP kommersiella är ett befintligt partner program. Hur skiljer sig CSP-programmet för Microsoft myndighets moln?
 
-CSP-programmet för Microsoft myndighets moln skiljer sig från CSP-kommersiella i följande områden:
+CSP-programmet för Microsoft Cloud för amerikanska myndigheter är annorlunda än CSP: s kommersiella i följande områden:
 
-- Berättigande: CSP-programmet för Microsoft myndighets moln är endast tillgängligt för partner i USA som har amerikanska federala, statliga och lokala myndighets enheter i deras statliga kapacitet. Microsoft har ett validerings program för att fastställa berättigande innan partner kan komma åt det amerikanska myndighets molnet.
+- Berättigande: CSP-programmet för Microsoft Cloud för amerikanska myndigheter är endast tillgängligt för partner i USA som betjänar amerikanska federala, statliga och lokala myndighets enheter i deras statliga kapacitet. Microsoft har ett validerings program för att fastställa berättigande innan partner kan komma åt det amerikanska myndighets molnet.
 
 - Onboarding: partner måste publicera till CSP-programmet för Microsoft Cloud för amerikanska myndigheter separat från CSP-kommersiella.
 
-- Produkt tillgänglighet: både Azure Government-och licensbaserade tjänster som Office 365, Enterprise Mobility + Security och Dynamics 365 är tillgängliga i CSP-programmet för Microsoft myndighets moln.
+- Produkt tillgänglighet: både Azure Government-och licensbaserade tjänster som Office 365, Enterprise Mobility + Security och Dynamics 365 är tillgängliga i CSP-programmet för Microsoft Cloud för amerikanska myndigheter.
 
 - Avtals slutande: Microsoft Cloud åter försäljar avtal (MCRA) har uppdaterats för att avspegla unika myndighets villkor.
 
@@ -93,7 +93,7 @@ MCDA för Microsoft Cloud för amerikanska myndigheter skiljer sig från standar
 
 ### <a name="what-are-the-qualifications-to-sell-microsoft-cloud-for-us-government"></a>Vilka är kvalifikationerna att sälja Microsoft Cloud för amerikanska myndigheter?
 
-Kvalificerings kriterier för att sälja CSP-programmet för Microsoft myndighets moln är detsamma som kvalificerings kriterierna för CSP-kommersiell, öppen för både direkta partner och indirekta åter försäljare. Du behöver inte utses på nytt för att vara en indirekt åter försäljare för CSP-programmet för Microsoft myndighets moln om du är godkänd som en indirekt åter försäljare för CSP-kommersiell.
+Kvalificerings kriterier för att sälja CSP-programmet för Microsoft Cloud för amerikanska myndigheter är detsamma som kvalificerings kriterierna för CSP-kommersiell, öppen för både direkta partner och indirekta åter försäljare. Du behöver inte utses på nytt för att vara en indirekt åter försäljare för CSP-programmet för Microsoft Cloud för amerikanska myndigheter om du är godkänd som en indirekt åter försäljare för CSP-kommersiella.
 
 ### <a name="i-am-an-existing-partner-what-do-i-need-to-do-to-sell-microsoft-cloud-for-us-government"></a>Jag är en befintlig partner. Vad behöver jag för att sälja Microsoft Cloud för amerikanska myndigheter?
 
@@ -133,15 +133,15 @@ API: er och integrerings krav för CSP-programmet för Microsoft Cloud för amer
 >TOPP-API: er är inte tillgängliga för CSP-programmet för Microsoft Cloud för amerikanska myndigheter. Dessa API: er är inaktuella i CSP och är därför inte tillgängliga för Microsoft Cloud för amerikanska myndigheter. Följande API: er är inte tillgängliga i CSP-programmet för Microsoft Cloud för amerikanska myndigheter för att uppfylla krav på efterlevnad och efterlevnad.
 >
 > **Hantering av användar konton**
->- Skapa användar konton för en kund
+>- Skapa användarkonton för en kund
 >- Ta bort användar konton för en kund
->- Uppdatera användar konton för en kund
->- Hämta en lista över alla användar konton för en kund
->- Återställ användar lösen ord för en kund
->- Hämta användar roller för en kund
->- Ange användar roller för en kund
+>- Uppdatera användarkonton för en kund
+>- Hämta en lista över alla användarkonton för en kund
+>- Återställ användarlösenord för en kund
+>- Hämta användarroller för en kund
+>- Ange användarroller för en kund
 >- Visa borttagna användare för en kund
->- Återställa en borttagen användare för en kund
+>- Återställ en borttagen användare för en kund
 >
 > **Licens hantering**
 >- Hämta en lista över tillgängliga licenser

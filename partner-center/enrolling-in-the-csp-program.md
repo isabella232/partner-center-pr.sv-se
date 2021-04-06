@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c1296c0e28412bfece328be2d8033c2d080bfdc
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 8cc74ac7549dd9c58827eac4ca7ff780062cc519
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712281"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441820"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Gå med i Cloud Solution Provider-programmet
-
-**Gäller för**
-
-- Partnercenter  
 
 **Lämpliga roller**
 
@@ -34,7 +30,7 @@ För att registrera dig i Cloud Solution Provider-programmet måste du först ha
 
 För att slutföra CSP-programmet behöver du ditt företags MPN-ID, fullständig företags adress, bank information och e-postmeddelandet för den anställde som ska fungera som administratör för partner Center.
 
-1. Logga in på Partner Center med din e-postadress för arbetet (t. ex. dina autentiseringsuppgifter för Azure AD-klient).
+1. Logga in på Partner Center med din e-postadress för arbetet (det vill säga dina autentiseringsuppgifter för Azure AD-klient).
 
 2. Skapa din partner profil och koppla ditt MPN-ID till din profil.
 Det kan ta flera dagar att granska och verifiera den information som du har angett. Vi skickar e-post när vi har slutfört vår granskning.
@@ -73,7 +69,7 @@ Som en direkt fakturerings partner äger du relationen från slut punkt till slu
 |**MPN-ID**   |Ett aktivt medlemskap i Microsoft Partner Network-och MPN-ID för den plats som du vill sälja i.    |
 |**Erkännande**   |Myndigheten att godkänna och signera juridiska avtal för din organisations räkning.|
 |**Support**   |Möjlighet att tillhandahålla den första nivån av moln produkt support för dina kunder. <br>Microsoft support avtal, antingen avancerad support för partner (ASfP) eller Premier Support för partner (PSfP), beroende på dina behov. [Jämför support](https://partner.microsoft.com/support/partnersupport)avtal.<br> VIKTIGT: du måste godkänna en kredit kontroll innan du köper en Support plan. Vi skickar e-post när du har slutfört kredit kontrollen. |
-|**Intäkts krav**|Måste uppfylla minst USD300K i Cloud Solution Provider-programmets årliga intäkter under de närmast föregående tolv månaderna som en indirekt åter försäljare. Partner kan granska sina efterföljande tolv månaders intäkter på Partner Center.<br/>Den försäljning som utgör en USD300K som slutar på tolv månader kan granskas och verifieras av Microsoft och du kan uppmanas att ange ytterligare information. Kravet på USD300K intäkt beräknas utifrån moln intäkterna och kommer att utesluta beständig program vara i CSP.|
+|**Intäkts krav**|Måste uppfylla minst USD300K i Cloud Solution Provider-programmets årliga intäkter under de närmast föregående 12 månaderna som en indirekt åter försäljare. Partner kan granska de efterföljande 12 månaderna av intäkter på Partner Center.<br/>Den försäljning som utgör din USD300K efterföljande 12-månaders intäkt är underkastad granskning och verifiering av Microsoft och du kan uppmanas att ange ytterligare information. Kravet på USD300K intäkt beräknas utifrån moln intäkterna och kommer att utesluta beständig program vara i CSP.|
 |**Kund reskontra** |Organisationens infrastruktur på plats för att hantera fakturering och etablering av kunder.|
 |**Rekommendation**|             |
 |**Hanterad tjänst**   |Minst en hanterad tjänst, IP-tjänst eller kund lösnings program. Läs mer om att lägga till [hanterade tjänster](https://partner.microsoft.com/business-opportunities/managed-services-provider).|

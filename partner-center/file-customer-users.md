@@ -9,18 +9,14 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07a28e5310716f3df11caa36e51339e877e65627
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 8ba08d97f1d360eae5af1941ed36753addd24939
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92531160"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441429"
 ---
 # <a name="add-multiple-users-to-a-customer-account-by-creating-a-csv-file"></a>Lägg till flera användare till ett kund konto genom att skapa en. csv-fil
-
-**Gäller för**
-
-- Partnercenter
 
 **Lämpliga roller**
 
@@ -35,7 +31,7 @@ Om du vill lägga till flera användare till ett kund konto med processen för M
 - Du måste ha global administratörs behörighet till kund kontot.
 - Varje användare måste ha en unik e-postadress som läggs till kundens e-postdomän.
 - Du kan ladda upp upp till 100 poster i taget. Om du behöver lägga till fler än 100 användare skapar du och laddar upp ytterligare datafiler.
-- Alla användare måste finnas på samma geografiska **plats** .
+- Alla användare måste finnas på samma geografiska **plats**.
 - Ange endast de data som beskrivs nedan. Främmande data gör att överföringen Miss fungerar.
 
 Ange följande data i data filen:
@@ -46,7 +42,7 @@ Ange följande data i data filen:
 | Efternamn  | Användarens efter namn (valfritt fält)  | 50 – tecken gräns  |
 | Visningsnamn    | Namn som visas i Partner Center (obligatoriskt fält)                            | 50 – tecken gräns                         |
 | E-post   | Användarens företags-e-postadress på kund företaget (obligatoriskt fält)           | Varje användare måste ha en unik e-postadress |
-| Status uppdatering   | Används för att ange om den nya användar posten har skapats eller inte | \*\*Lämna tomt\*\*                        |
+| Status uppdatering   | Används för att ange om den nya användar posten har skapats | \*\*Lämna tomt\*\*                        |
 
 ## <a name="next-steps"></a>Nästa steg
 

@@ -9,18 +9,20 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 03cd603cf65b1e999cf95fd10d76e6ccc6c403e8
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 3702ebd5a9421036a053a9a142a2f40d3e488137
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531537"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106442007"
 ---
 # <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>Vad ska jag göra om den enda administratören för ditt MPN-program har lämnat företaget?
 
-**Gäller för**
+**Lämpliga roller**
 
-- Partnercenter
+- MPN-partner administratör
+- Kontoadministratör
+- Global administratör
 
 I följande artikel får du stegvisa instruktioner om vad du kan göra om din MPN-administratör har lämnat företaget.
 
@@ -28,7 +30,7 @@ I följande artikel får du stegvisa instruktioner om vad du kan göra om din MP
 
 I det här fallet kan en annan person i företaget tilldelas rollen som MPN-partner administratör. Tilldelas rollen som roll för en speciell MPN-partner admin/konto-administratör:
 
-1. Logga in på ditt partner Center-konto med ditt arbets konto (t. ex. tom@contoso.com ).
+1. Logga in på ditt partner Center-konto med ditt arbets konto (till exempel tom@contoso.com ).
 1. Från sid filtret för **användar hantering** på global administratör för att se vilka globala administratörer för ditt företag är. 
 1. Kontakta en av de globala administratörerna och be dem att tilldela dig den MPN roll du behöver. 
 
@@ -55,7 +57,7 @@ Följ stegen i [Administratörs](/azure/active-directory/users-groups-roles/doma
 Om du inte är säker på om ditt företag har ett arbets konto följer du de här stegen för att kontrol lera.
 
 1. Logga in på [Azure admin-portalen](https://ms.portal.azure.com).
-2. Välj **Azure Active Directory** på menyn till vänster och välj sedan **domän namn** .
+2. Välj **Azure Active Directory** på menyn till vänster och välj sedan **domän namn**.
 Om du redan har ett arbets konto visas ditt domän namn.
 
 >[!Note]

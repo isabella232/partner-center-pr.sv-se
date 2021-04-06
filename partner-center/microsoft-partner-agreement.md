@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 34f43895da6b25ca62e32b0d56eaa401564cca92
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: a3c8b1df8b14d2a1647982ea8d6f27ca59ff6195
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880811"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441276"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Lär dig mer om Microsoft partner Agreement (MPA) för CSP-programpartner
 
@@ -24,7 +24,7 @@ ms.locfileid: "104880811"
 
 Microsofts partner avtal tillhandahåller Microsoft-partner med ett enhetligt, elektroniskt godtagande partner avtal. Microsofts partner avtal innehåller en central uppsättning med tidsinställda villkor som hjälper Microsoft, partners och kunder att stödja data sekretess och säkerhet, främja efterlevnad och uppmuntra god affärs praxis.
 
-Alla program partner för Cloud Solution Provider (inklusive indirekta leverantörer, indirekta åter försäljare och direkta fakturerings partner) kan signera MPA online i Partner Center. Direkta fakturerings-och indirekta leverantörs partner som arbetar i myndighets molnet kan också signera MPA inifrån Partner Center.
+Alla program partner för Cloud Solution Provider (inklusive indirekta leverantörer, indirekta åter försäljare och direkta fakturerings partner) kan signera MPA online i Partner Center. Direkt fakturerings-och indirekta leverantörs partner som arbetar i Microsoft Cloud för amerikanska myndigheter kan också signera MPA inifrån Partner Center.
 
 Om du vill fortsätta delta i CSP-programmet måste du logga Microsoft partner Agreement före 31 januari 2020. Partner Center kommer att påminna dig om att du nu enkelt kan signera avtalet från Partner Center.
 
@@ -60,11 +60,11 @@ Om du vill fortsätta delta i CSP-programmet måste du logga Microsoft partner A
 
 1. Se avsnittet **program information** . Om informationen inte visar **indirekt åter försäljar** status måste du [Registrera dig som en indirekt åter försäljare](indirect-reseller-tasks-in-partner-center.md).
 
-1. Om den  **indirekta åter försäljarens** status är **aktiv** är du en aktiv indirekt åter försäljare i Partner Center.
+1. Om den  **indirekta åter försäljarens** status är **aktiv**, är du en aktiv indirekt åter försäljare i Partner Center.
  
 4. Om den  **indirekta åter försäljarens** status är **kvalificerad** går du till [**instrument panelens översikt**](https://partner.microsoft.com/pcv/dashboard/overview) och accepterar MPa för att aktivera ditt konto.
  
-1. Om den indirekta åter försäljarens status **avvisas** eller **nekas** , har konto verifieringen misslyckats. Läs [verifierings processen](verification-responses.md) för att ta reda på hur du kan lösa verifierings problemet.
+1. Om den indirekta åter försäljarens status **avvisas** eller **nekas**, har konto verifieringen misslyckats. Läs [verifierings processen](verification-responses.md) för att ta reda på hur du kan lösa verifierings problemet.
 
 1. Om du tidigare har flyttat till Partner Center som en indirekt åter försäljare accepterar du Microsofts partner avtal i Översikt över instrument panelen för partner Center med hjälp av autentiseringsuppgifter för global administratör. Du kan kontrol lera om Microsoft partner Agreement redan har signerats från information om [partner profil](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) **program** eller om meddelandets informations meddelande på sidan CSP-översikt.
 
@@ -75,7 +75,7 @@ Kom ihåg att acceptera begäran om CSP-relation med den indirekta providern.
 1. Logga in på Partner Center med ditt konto för indirekt åter försäljare av CSP. Du måste vara global administratör.
 1. Gå till **[översikts](https://partner.microsoft.com/pcv/dashboard/overview)** sidan för CSP.  Om du inte ser **acceptera och fortsätta** eller den gröna banderollen som visar att MPA är signerat har du inte rätt roll för att logga in MPa. Kontakta din globala administratör för att signera MPA.
 
-1. Om du vill visa och hämta **Microsoft partner Agreement** innan du signerar det klickar du på länken Microsoft partner Agreement (se nedan).
+1. Om du vill visa och hämta **Microsoft partner Agreement** innan du signerar det väljer du länken Microsoft partner Agreement (se nedan).
 
 :::image type="content" source="images/agreement-three.png" alt-text="Ny licens plats för MPA":::
 

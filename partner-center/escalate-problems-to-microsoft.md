@@ -9,19 +9,18 @@ ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 77695d061c9ce42f32c95abfd8475064991954f9
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 4422c5b002f8233f9d6225e7d4e7a82f6e37a280
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "92531184"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441854"
 ---
 # <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Eskalera problem till Microsoft och lär dig mer om vilka problem som är mer lämpliga för Microsoft-eskalering  
 
 **Gäller för**
 
-- Partnercenter
-- Partner Center för Microsoft Cloud för amerikanska myndigheter
+- Välkommen till Partnercenter för Microsoft Cloud for US Government
 
 **Lämpliga roller**
 
@@ -50,13 +49,13 @@ Det finns dock flera kategorier av problem som du måste lämna till Microsoft f
 
 2. Från menyn Partner Center väljer du **kunder** och väljer sedan den kund som behöver support.
 
-3. Välj **tjänst hantering** och välj **tjänst begär Anden** .
+3. Välj **tjänst hantering** och välj **tjänst begär Anden**.
 
-4. Välj **ny begäran** och välj sedan **Microsoft Office 365** .
+4. Välj **ny begäran** och välj sedan **Microsoft Office 365**.
 
 5. Du kommer till Office 365-portalen där du behöver logga in med dina autentiseringsuppgifter för ditt partner Center.
 
-6. Välj **support** , **ny tjänstbegäran** från menyn till vänster.
+6. Välj **support**, **ny tjänstbegäran** från menyn till vänster.
 
 7. Välj support avsnittet.
 

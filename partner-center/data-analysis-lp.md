@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19e7cf9442660a24d36b5f7c20fab156fdc0d59a
-ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
+ms.openlocfilehash: 3aec8c8abe6184be48fd54e0f76bc7e0c08e4792
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "94626080"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441888"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Använd Analytics för att lära dig mer om prenumerations intäkter
 
@@ -36,7 +36,7 @@ När du planerar sätt att utveckla CSP-verksamheten behöver du vara införstå
 
 ## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Avslutande Twelve-Month (TTM) CSP-intäkter
 
-Efterföljande 12-månaders CSP-intäkt representerar den efterföljande moln lösnings leverantörens program intäkt i USD på en global partners konto nivå. Data uppdateras den 8: a varje månad för att visa den efterföljande tolv månaders intäkten fram till föregående månad. I nionde september 2020 bör du till exempel kunna se TTM för den fasta perioden från september 2019 till augusti 2020.
+Efterföljande 12-månaders CSP-intäkt representerar den efterföljande moln lösnings leverantörens program intäkt i USD på en global partners konto nivå. Data uppdateras den åttonde månaden i varje månad för att visa den efterföljande tolv månaders intäkten fram till föregående månad. Den 9 september 2020 bör du till exempel kunna se TTM för den fasta perioden från september 2019 till augusti 2020.
 
 Den intäkt som visas på Partner Center beräknas för ett fast tidsintervall på 12 månader och kan inte ändras till en kortare tidsram.
 
@@ -51,14 +51,14 @@ Om du vill se en uppdelning av intäkterna på din partner plats konto nivå:
 
 Den nedre halvan av skärmen visar en sammanfattning av prenumerationerna. Använd följande filter för att se nödvändig prenumerations information:  
 
-1. **Varaktighet** : du kan välja att se prenumerations sammanfattningen för 
+1. **Varaktighet**: du kan välja att se prenumerations sammanfattningen för 
 
 - 30D – de senaste 30 dagarna
 - 3M – de senaste 3 månaderna
 - 6 M – senaste 6 månaderna
 - 12M – de senaste 12 månaderna
 
-2. **Produkt typ** :
+2. **Produkt typ**:
  
 - Office 365
 - Microsoft 365

@@ -7,24 +7,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5817e5bb010cee0ab280c83408167f28915a6237
-ms.sourcegitcommit: 9b36128fdbd24e4bfe4597b1e6104bd560583c5c
+ms.openlocfilehash: 411932923e6bd35732e64521abe567f40f7499e9
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "92531421"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441497"
 ---
 # <a name="regional-taxes-regulations-for-public-switched-telephone-network-ptsn-services"></a>Regionala skatter, bestämmelser för PTSN-tjänster (Public Switched Phone Network)
 
-**Gäller för**
-
-- Partnercenter
-- Office 365-partner som agerar Microsoft 365 röst produkter
-
 **Lämpliga roller**
--    Global administratör
--    Användaradministratör
--    Administratörs agent
+
+- Global administratör
+- Användaradministratör
+- Administratörs agent
 
 PSTN-tjänster (Public Switched Phone Network) i vissa jurisdiktioner kan omfattas av särskilda skatte-och reglerings krav som kan påverka partner order och fakturering. I USA, inklusive Puerto Rico, är PSTN-tjänster, som omfattar ljud konferens, samtals planer och kommunikations krediter, särskilda skatte-och reglerings krav. I USA och Puerto Rico är Microsofts priser PSTN-tjänster som skatt.  Unika PSTN-skatter och-föreskrifter påverkar Office 365-partner som agerar Microsoft 365 röst produkter.  Om en partner anger priset för en Microsoft PSTN-tjänst kan de vara ansvariga för att beräkna och remittera PSTN-skatter och-avgifter.
 
@@ -34,7 +30,7 @@ Engagera din skatte-och juridisk rådgivning för att förstå organisationens a
 
 ## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Faktura presentation och partner avstämnings fil
 
-CSP-fakturor och CSP-avstämnings filer i USA, Puerto Rico och Kanada som innehåller Skype för företag-PSTN och Microsoft 365 röst tjänster tillhandahåller separata rad objekt för PSTN-och icke-PSTN-komponenter.
+CSP-fakturor och CSP-avstämnings filer i USA, Puerto Rico och Kanada, som inkluderar Skype för företag PSTN och Microsoft 365 röst tjänster, innehåller separata rad objekt för PSTN-och icke-PSTN-komponenterna.
 
 Dessutom visas följande fotnot i CSP-fakturor:
 

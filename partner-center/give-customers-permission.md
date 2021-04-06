@@ -9,19 +9,14 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19f86ec5353abc21e14a3a8ac2ef17dd17924cfe
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4feaa8cba8ba17f553b5e936dcf892ffbf7ccc82
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531673"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441310"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Ge kunderna tillstånd i Partner Center att köpa sina egna produkter eller tjänster
-
-**Gäller för**
-
-- Partnercenter
-- Partner i CSP-programmet
 
 **Lämpliga roller**
 
@@ -78,7 +73,7 @@ Nu har du möjlighet att köpa Azure-reservationer för kundernas räkning, efte
 
 2. Verifiera att kunden har tilldelats **ägar** rollen för den här prenumerationen.
 
-3. Aktivera kund behörigheter (aktivera den här funktionen **på** ) för att köpa sina egna Azure-reservationer.
+3. Aktivera kund behörigheter (aktivera den här funktionen **på**) för att köpa sina egna Azure-reservationer.
 
 Varje steg visas nedan.
 
@@ -86,7 +81,7 @@ Varje steg visas nedan.
 
 Innan du ger kunderna tillstånd att köpa sina egna Azure-reservationer måste du kontrol lera att kunden har en befintlig Azure-plan eller Global Azure-prenumeration. Om kunden inte visar någon aktuell Azure-prenumeration i Partner Center måste du köpa en prenumeration för dem innan du aktiverar deras kund behörigheter.
 
-- Om du vill se om en kund redan har en Azure-prenumeration loggar du in på Partner Center-instrumentpanelen och väljer sedan **CSP** följt av **kunder** . Välj den specifika kunden i listan. Välj sedan **prenumerationer** och leta efter eventuella användnings prenumerationer för antingen Azure-plan eller Azure Global.
+- Om du vill se om en kund redan har en Azure-prenumeration loggar du in på Partner Center-instrumentpanelen och väljer sedan **CSP** följt av **kunder**. Välj den specifika kunden i listan. Välj sedan **prenumerationer** och leta efter eventuella användnings prenumerationer för antingen Azure-plan eller Azure Global.
 
 - Om en kund inte har en befintlig Azure-prenumeration kan du köpa en prenumeration för dem. Se [köpa Azure-prenumerationen](purchase-azure-plan.md).
 
@@ -103,7 +98,7 @@ För att verifiera att kunden har tilldelats **ägar** rollen för en Azure-pren
 
 1. Logga in på [instrument panelen](https://partner.microsoft.com/dashboard)för partner Center.
 
-2. Välj **CSP** , sedan **kunder** och välj den specifika kunden.
+2. Välj **CSP**, sedan **kunder** och välj den specifika kunden.
 
 3. Välj **prenumerationer** för kunden och leta upp den specifika Azure-prenumerationen.
 
@@ -119,7 +114,7 @@ Aktivera (eller inaktivera) kund behörigheter i Partner Center:
 
 1. Logga in på [instrument panelen](https://partner.microsoft.com/dashboard)för partner Center.
 
-2. I den vänstra navigerings menyn väljer du **CSP** och sedan **kunder** . En kund lista visas.
+2. I den vänstra navigerings menyn väljer du **CSP** och sedan **kunder**. En kund lista visas.
 
 3. Välj ett namn på en specifik kund.
 

@@ -9,23 +9,19 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7bb97c696c4694c9052403444eec0e27f65d325c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: bdcc9feb9f6f022642ece217aa1ba17e24bd20da
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531677"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441446"
 ---
 # <a name="use-apis-for-automated-service-notifications-for-azure-insights--office-365-service-communications"></a>Använda API: er för automatiserade tjänst aviseringar för Azure Insights & Office 365 service Communications
-
-**Gäller för**
-
--  Partnercenter
 
 **Lämpliga roller**
 
 - Administratörs agent
-- Global 
+- Global administratör
 - Försäljnings agent
 - Support agent
 
@@ -33,11 +29,9 @@ Office 365 och Microsoft Azure var och en tillhandahåller ett API som partner k
 
 Dessa API: er är tillgängliga för dina utvecklare:
 
-[Office 365 service Communications API](/office/office-365-management-api/office-365-service-communications-api-reference)
+- [Office 365 service Communications API](/office/office-365-management-api/office-365-service-communications-api-reference)
+- REST [API-referens](/rest/api/monitor/) för Azure Insights
 
+ 
 
-REST [API-referens](/rest/api/monitor/) för Azure Insights
-
- 
-
- 
+ 
