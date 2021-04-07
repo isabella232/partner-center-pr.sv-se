@@ -9,19 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: e180485a6ee769c911b3d2119869661ea118ccc1
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 8c6f6cb5ba700618aebe773cffd566e4077a676d
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474163"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557723"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Rådgivare: skapa och skicka en testinbjudan för klienter för att testa Office 365
 
 
 **Lämpliga roller**
 
-- Rådgivare
+- Advisor
 
 > [!NOTE]
 > Den här funktionen är endast tillgänglig för Microsoft-partner som är auktoriserade prenumerations rådgivare.
@@ -44,7 +44,7 @@ Om du är certifierad för att erbjuda delegerad administration kan du lägga ti
     - **Utvärderings prenumerationer**: listan över utvärderings prenumerationer som du kan välja bestäms av användnings platsen för klientens land eller region.
     - **Delegerad administration**: det här alternativet är bara tillgängligt för partner som är certifierade att erbjuda delegerad administration. Välj det här alternativet om du vill erbjuda klienten delegerad administration. Om du gör det kan din klient acceptera testinbjudan med eller utan godkännande av delegerad administration. Mer information om delegerad administration finns i [erbjuda delegerad administration](customers-revoke-admin-privileges.md).
 
-3. Klicka på **Nästa**.
+3. Välj **Nästa**.
 
 4. På sidan **utvärdering av inbjudan** kopierar du informationen om testinbjudan och URL: en och klistrar in den i ett e-postmeddelande, ett dokument eller en webb sida för att skapa en anpassad testinbjudan.
 

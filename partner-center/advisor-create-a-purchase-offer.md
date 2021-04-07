@@ -9,19 +9,19 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 56a8438ad2503ab22151ed4da7e8ef4b43794543
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: a60b75c9eee3601b488fd52fe22b4d2551b526e3
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474146"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557757"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Rådgivare: skapa ett inköps erbjudande
 
  
 **Lämpliga roller**
 
-- Rådgivare
+- Advisor
 
 
 > [!NOTE]
@@ -48,7 +48,7 @@ Om din klient vill ha ett annat antal licenser kan du skicka ett nytt erbjudande
     - **Licens antal**: när du väljer en prenumeration anger du antalet licenser som du vill inkludera i inköps erbjudandet.
     - **Delegerad administration**: det här alternativet är bara tillgängligt för partner som är certifierade att erbjuda delegerad administration. Välj det här alternativet om du vill erbjuda klienten delegerad administration. Om du gör det kan din klient acceptera inköps erbjudandet med eller utan godkännande av delegerad administration.
 
-3. Klicka på **Nästa**.
+3. Välj **Nästa**.
 
 4. På sidan **Skicka** kopierar du inköps erbjudandets information och URL och klistrar in den i ett e-postmeddelande, ett dokument eller en webb sida för att skapa ett anpassat inköps erbjudande.
 

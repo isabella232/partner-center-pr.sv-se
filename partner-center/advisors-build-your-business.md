@@ -9,19 +9,19 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 83acde5e5cb29ea8249bfbba78a15cf3efbdf271
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 31d8be49e0270f32c472f3fbe0a54d5ceadc9098
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474180"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557740"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Rådgivare: utveckla din klient bas med test inbjudningar för Office 365 och inköps erbjudanden
 
 
 **Lämpliga roller**
 
-- Rådgivare
+- Advisor
 
 
 Som auktoriserad Microsoft Advisor ger **partner Center** dig en möjlighet att utveckla klient basen och skapa bestående relationer med dina klienter. Med partner Center kan du skicka test inbjudningar och inköps erbjudanden för klienter och erbjuda dem delegerade administrations tjänster, beroende på vilka tjänster du har behörighet att tillhandahålla.
@@ -45,7 +45,7 @@ Mer information om test inbjudningar finns i [skapa en testinbjudan](advisors-cr
 > [!NOTE]
 > Den här funktionen är endast tillgänglig för Microsoft-partner som är auktoriserade prenumerations rådgivare.
 
-När du har skickat en testinbjudan till dina kunder följer du upp med ett inköps erbjudande. Du kan anpassa ett erbjudande så att det innehåller de specifika tjänster som kunden behöver, samt rätt antal användar licenser. Om du är certifierad för att erbjuda delegerad administration kan du lägga till ett alternativ i inköps erbjudandet som gör att du kan administrera prenumerationen åt kunden.
+När du har skickat en testinbjudan till dina kunder följer du upp med ett inköps erbjudande. Du kan anpassa ett erbjudande så att det innehåller de specifika tjänster som kunden behöver och rätt antal användar licenser. Om du är certifierad för att erbjuda delegerad administration kan du lägga till ett alternativ i inköps erbjudandet som gör att du kan administrera prenumerationen åt kunden.
 
 När du skapar inköps erbjudandet skapas en anpassad URL åt dig. URL: en har en inbäddad kod som identifierar dig som prenumerations rådgivare. Du kan använda den här URL: en för en kund eller många kunder. Skicka URL: en till din kund i ett e-postmeddelande eller publicera den på din webbplats.
 

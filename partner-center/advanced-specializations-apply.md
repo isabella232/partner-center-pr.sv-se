@@ -9,19 +9,19 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aa616678832341ea38f5da6d5062c460ad4d22d9
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 62dab81a265a4bf1fe926cd1a8f583153821d0ef
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658424"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557791"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Använd partner Center för att tillämpa avancerade specialiseringar och kontrol lera deras status
 
 **Lämpliga roller**
 
 - Global administratör
-- MPN-konto administratör
+- Kontoadministratör
 
 Den här artikeln beskriver hur du använder instrument panelen för partner Center för att söka efter en [Avancerad specialisering](advanced-specializations.md), kontrollerar dina framsteg och slutför nödvändiga steg och valideringar. Du ser också exempel på att använda Partner Center för att uppnå vissa avancerade specialiseringar som kräver antingen en gransknings-eller kund referens.
 
