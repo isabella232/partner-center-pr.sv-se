@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43c2605d750d35bc2e0095b1fed413ed91a1a28e
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: e93bc59d4ddb8ac2323807a716d7ba6404b00fce
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215823"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964365"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Förstå din faktura-och avstämnings fil – lär dig hur du hittar dem i Partner Center
 
@@ -27,6 +27,20 @@ ms.locfileid: "98215823"
 
 
 Din **faktura** är en **Sammanfattning av alla dina partner Center-avgifter** (över hela programmet, alla produkter och alla kunder). 
+
+## <a name="find-your-bill-and-reconciliation-file"></a>Hitta din faktura-och avstämnings fil 
+
+Du kan hitta din faktura på sidan fakturering på instrument panelen i Partner Center. Du kan också hitta fakturerings historik, utgifts trender och avstämnings filer på den här sidan. 
+
+1. Logga in på [instrument panelen](https://partner.microsoft.com/dashboard/home)för partner Center. 
+
+2. Välj **fakturering** på menyn till vänster. 
+
+3. På sidan för faktureringsstatus väljer du en faktura eller avstämningsfil som du vill se mer detaljerad information för. 
+
+Du kan hitta en länk till den senaste fakturan högst upp på sidan under kontosaldo per senaste faktura datum. 
+
+Du kan hitta tidigare fakturor i avsnittet fakturerings historik. Välj lämpligt år och välj sedan listpilen bredvid lämplig fakturerings period. Välj länken bredvid fakturor (. pdf) för att hämta periodens faktura. 
 
 ## <a name="invoice-types"></a>Faktura typer
 
@@ -52,19 +66,6 @@ Exempel:
 
 - Partner får en annan faktura PDF och en avstämnings fil som täcker sina avgifter för 145p-erbjudandet i EUR (eller partner fakturerings valuta). 
 
-## <a name="find-your-bill"></a>Hitta din faktura 
-
-Du kan hitta din faktura på sidan fakturering på instrument panelen i Partner Center. Du kan också hitta fakturerings historik, utgifts trender och avstämnings filer på den här sidan. 
-
-1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard/home). 
-
-2. Välj **fakturering** på menyn till vänster. 
-
-3. På sidan fakturering väljer du den faktura som du vill ladda ned. 
-
-Du kan hitta en länk till den senaste fakturan högst upp på sidan under kontosaldo per senaste faktura datum. 
-
-Du kan hitta tidigare fakturor i avsnittet fakturerings historik. Välj lämpligt år och välj sedan listpilen bredvid lämplig fakturerings period. Välj länken bredvid fakturor (. pdf) för att hämta periodens faktura. 
 
 ## <a name="understanding-invoice-pdf"></a>Förstå faktura-PDF 
 
