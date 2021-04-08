@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6b0de64a9ac3d86c77cc47f6b69b8a132606309
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: c5617bbec82bd8e4b6fbeb2e6a33608889f14502
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502875"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964348"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Översikt över partnererbjudanden i programmet för molnlösningsleverantörer
 
@@ -105,6 +105,15 @@ Om du vill köpa produkter och tjänster åt dina CSP-kunder väljer du de objek
 
 8. Informationen om din beställning, inklusive ditt beställnings nummer, visas på nästa sida. Välj **OK** för att gå till sidan **order historik** .
 
+### <a name="customer-order-history"></a>Kund order historik
+
+Så här visar du en kunds order historik:
+
+1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
+2. Välj **kunder** på menyn till vänster.
+3. På sidan **kunder** letar du reda på kunden vars order historik du vill visa. Välj nedpilen för att expandera kundens post.
+4. Välj **Visa beställningar** för att visa kundens order historik.
+ 
 ## <a name="rules-for-special-segments"></a>Regler för särskilda segment
 
 Vissa licensbaserade erbjudanden kan bara köpas under vissa omständigheter. Särskilda segment erbjudanden omfattar utbildning, ideella organisationer eller GCC-erbjudanden (community Cloud Cloud). Information om dessa inköps villkor finns i [avsnittet inköps regler för särskilda segment](get-special-pricing-for-offers.md#purchase-rules-for-special-segments).

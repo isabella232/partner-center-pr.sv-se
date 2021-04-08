@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80f7882da44c8072db1dd287f6fbee4f79341d29
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.openlocfilehash: db9166b0d2c4fe1c9f61921a9632c9704eaca74d
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570166"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964402"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Skapa en affärs profil för att få Microsoft Sales-leads och hjälpa kunder att hitta dig
 
@@ -84,16 +84,7 @@ Börja med att lägga till egna taggar i avsnittet partner expert kunskaper. Tag
 
 Andra taggar som används i sökningen:
 
--  **Kompetens Taggar** är en intjänande beteckning som demonstrerar ditt företags funktioner.
--  **Påskrift-Taggar** förbrukas när Microsoft eller dina kunder har arbetat med ditt arbete.
-
-#### <a name="allow-microsoft-to-endorse-my-areas-of-expertise"></a>Tillåt Microsoft att påteckna mina expert områden
-
-Vi rekommenderar att du låter den här inställningen vara markerad. 
-
-När du demonstrerar kunder via partner Center eller deltar i andra Microsoft-certifieringar eller program, lägger vi automatiskt till godkännanden för dina aktuella produkter, tjänster och branscher som bidrar till detta. Attesteringar är en viktig faktor i Sök resultaten.
-
-Om det finns produkter som du tillhandahåller tjänster för som du inte vill ska visas i din profil, kan du avmarkera den här kryss rutan och hantera din profil manuellt. Dessa attesteringar är dolda från vyn kunder, men du kan när som helst lägga till dem i din profil senare.
+- **Kompetens Taggar** är en intjänande beteckning som demonstrerar ditt företags funktioner.
 
 ### <a name="customer-preferences"></a>Kund inställningar
 
@@ -121,13 +112,12 @@ Om du har fem översta platser och du behöver ändra en, tar du först **bort**
 
 När du har publicerat din profil visas uppdateringar i [Sök efter en Solution Provider](https://www.microsoft.com/solution-providers/home) inom 24 timmar.
 
-## <a name="improve-the-visibility-of-your-profile"></a>Förbättra synligheten för din profil 
+## <a name="improve-the-visibility-of-your-profile"></a>Förbättra synligheten för din profil
 
 - **[Svara snabbt på begär Anden](manage-leads.md)**. När du får en kund hänvisning kan ett snabbare svar leda till bättre resultat på Sök sidorna för framtida kunder.
 
 - **Var selektiv med taggarna**.  Det är bättre att ha färre taggar som bäst motsvarar ditt företags erbjudanden, lösningar, värde propositioner och unik position där du konsekvent kan visa framgång.  Det innebär att du betalar utdelning i framtida Sök resultat.
 - Få **kompetens etiketter** via Microsoft för att demonstrera dina kunskaper i våra produkter.
-- Få **bekräftelse märkningar** från kunder som uppskattar ditt arbete.
 
 ## <a name="next-steps"></a>Nästa steg
 

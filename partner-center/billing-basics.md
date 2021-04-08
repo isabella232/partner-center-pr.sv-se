@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21cc9ddcffe2e9a29e920e235e79a5ce0bbd86b8
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 051d638024200fe58ca5e07f42b758b304b58219
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042726"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964383"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Faktureringsöversikt för CSP-programpartner som arbetar i Partnercenter 
 
@@ -67,11 +67,7 @@ Vid engångsfakturering och återkommande fakturering justeras faktureringsperio
 
 Pris listor uppdateras varje månad. För hands versionen av pris listor är tillgängliga en (1) månad i förväg.
 
-Så här visar du pris listor:
-
-1. [Logga in på Partner Center-instrumentpanelen](https://partner.microsoft.com/dashboard/home).
-2. Välj **försäljning** på menyn till vänster och välj sedan **priser och erbjudanden**.
-3. På sidan **priser och erbjudanden** kan du se 6 månader av pris listor (inklusive aktuell månad) och för hands versions pris listor (där det är tillämpligt).
+Om du vill se de senaste programmen och erbjudandena från partner portalen går du till **försäljning > priser och erbjudanden**. Du hittar separata pris listor för de olika typerna av produkter som är tillgängliga. Följande pris listor finns på sidan **priser och erbjudanden** :
 
 **Licensbaserade** priser garanteras för prenumerationens mandat period, vanligt vis 12 månader från inköps datumet. 
 
@@ -99,19 +95,6 @@ För **mervärde skatte befrielse** måste du skicka in ditt moms-ID (validerat 
 
 Du hittar ytterligare skatte information från ditt lokala skatte kontor eller skatte rådgivare.
 
-### <a name="change-billing-frequency"></a>Ändra faktureringsfrekvens
-
-Fakturerings frekvensen ändras på order nivå och när frekvensen ändras, kommer den ändrade fakturerings perioden att tillämpas på alla prenumerationer i ordern. 
-
-Ändra fakturerings frekvensen för en online tjänst för en kund:
-
-1. [Logga in på Partner Center-instrumentpanelen](https://partner.microsoft.com/dashboard/home).
-2. Välj **kunder** på menyn till vänster.
-3. Välj den kund vars fakturerings frekvens du vill ändra.
-4. På sidan **prenumerationer** för kunden väljer du den prenumeration som du vill ändra.
-5. Välj **månatlig** eller **årlig** under **fakturerings frekvens** på sidan **information** . Du ser en bekräftelse sida med viktig information om hur du ändrar fakturerings frekvensen, samt en lista över prenumerationer som ska ändras.
-6. Välj **OK** för att göra ändringen (eller **Avbryt** om du vill ångra den).
-
 ### <a name="adjustmentscreditscancellations"></a>Justeringar/krediter/uppsägningar
 
 Annullerings krediter för licensierade tjänster är proportionellt för oanvända dagar för uppsägningar i medel hög grad (samt licens minskning enligt följande formel:
@@ -121,6 +104,7 @@ Annullerings krediter för licensierade tjänster är proportionellt för oanvä
 Microsoft debiterar inte avgifter för tidig uppsägning för annullering av licensbaserade tjänster.
 
 ### <a name="billing-rules"></a>Fakturerings regler
+
 Det finns två typer av fakturerings frekvenser idag: årlig & varje månad.  
 Avgiftsbelagda tjänste priser kan ändras inom faktura cykeln.
 
@@ -146,24 +130,6 @@ Avgiftsbelagda tjänste priser kan ändras inom faktura cykeln.
 
 - Fakturan du tar emot har bara de avgifter som debiteras för den månaden. 
 
-## <a name="manage-one-time-billing"></a>Hantera engångs fakturering
-
-### <a name="billing-status-invoices-and-reconciliation-files"></a>Fakturerings status, fakturor och avstämnings filer
-
-Så här visar du dina aktuella fakturerings status, fakturor och avstämnings filer:
-
-1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
-2. Välj **fakturering** på menyn till vänster och välj sedan **återkommande och engångs köp**.
-3. På sidan för faktureringsstatus väljer du en faktura eller avstämningsfil som du vill se mer detaljerad information för.
-
-### <a name="customer-order-history"></a>Kund order historik
-
-Så här visar du en kunds order historik:
-
-1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
-2. Välj **kunder** på menyn till vänster.
-3. På sidan **kunder** letar du reda på kunden vars order historik du vill visa. Välj nedpilen för att expandera kundens post.
-4. Välj **Visa beställningar** för att visa kundens order historik.
 
 ### <a name="credit-notes"></a>Kredit kommentarer
 
@@ -178,3 +144,6 @@ Du kan behöva begära en kredit eller omstrukturering av följande orsaker:
 
 - [Förstå din faktura-och avstämnings fil](read-your-bill.md)
 - [Vanliga fakturerings scenarier för CSP-programpartner](common-billing-scenarios.md)
+- [Ändra faktureringsfrekvens](common-billing-scenarios.md)
+- [Kund order historik](csp-offers.md) 
+- [Priser och erbjudanden](pricing-and-offers.md)

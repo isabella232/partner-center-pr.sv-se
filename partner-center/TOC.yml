@@ -390,8 +390,6 @@
     - name: Grundläggande information om fakturering
       href: billing-basics.md
       displayName: invoice
-    - name: Typer av fakturering i Partnercenter
-      href: billing-different-types.md
     - name: Förstå fakturan
       href: read-your-bill.md
       displayName: invoice

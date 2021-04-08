@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8aeb47f6968e364eecb05efd2c0d4a1b3e1ba267
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: b960a903c2ba85963047033094636da6dc599f90
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633768"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964433"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Priser och erbjudanden för Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure med mera
 
@@ -28,7 +28,7 @@ ms.locfileid: "105633768"
 - Försäljnings agent
 - Faktureringsadministratör
 
-Om du vill se de senaste program och erbjudanden för Cloud solution providers från partner portalen går du till **sälja > priser och erbjudanden**. Du hittar separata pris listor för de olika typerna av produkter som är tillgängliga. Följande pris listor finns på sidan **priser och erbjudanden** :
+Om du vill se de senaste programmen och erbjudandena från partner portalen går du till **försäljning > priser och erbjudanden**. Du hittar separata pris listor för de olika typerna av produkter som är tillgängliga. Följande pris listor finns på sidan **priser och erbjudanden** :
 
 - **Licensbaserade tjänster** omfattar pris information för Office 365, Enterprise Mobility och Security E3, samt Dynamics 365. Licensbaserade prissättnings avsnitt innehåller aktuell och för hands versions prissättning samt matrisen för erbjudande listan. Pris listor inkluderar List pris och uppskattade detaljhandelspriser (ERP) för erbjudanden i alla valutor som stöds. Matrisen med erbjudande listan innehåller marknads tillgänglighet och annan viktig information om erbjudandena. De här filerna uppdateras den första dagen i varje månad.
 - **Användnings tjänster** innehåller pris information för Microsoft Azure och Visual Studio. Du kan också använda [Azure-tjänsterna i pris Kalkylatorn för CSP](https://azure.microsoft.com/pricing/calculator/). Den användnings hämtningen innehåller både CSP-pris listorna för alla valutor som stöds och de delade tjänsterna i ERP. De här filerna uppdateras den första dagen i varje månad.
