@@ -1,31 +1,43 @@
 ---
-title: Planeringstjänster för Software Assurance
+title: Pensions tjänster för Software Assurance-planering
 ms.topic: article
-ms.date: 12/02/2020
+ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Lär dig hur du registrerar och kvalificerar Microsoft Planning Services-engagemang så att du kan leverera utbildning och andra tjänster till kunder med Software Assurance.
+description: Microsoft Planning Services dras tillbaka.
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b931f616417d8781b8864d7bcb9b0d6d47560ec
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: cb3f6d6d4b719a8c4988ef935bde07c9660942c5
+ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028237"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "107025001"
 ---
-# <a name="software-assurance-planning-services-in-partner-center"></a>Software Assurance Planning Services i Partner-centrum
+# <a name="software-assurance-planning-services-retirement"></a>Pensions tjänster för Software Assurance-planering
 
 **Lämpliga roller**
 
 - Global administratör
 - MPN-partner administratör
 
-Som en godkänd planerings tjänst partner kompenserar Microsoft dig för att tillhandahålla planerings engagemang för företags kunder. Delta i det här programmet kan hjälpa dig att locka fler kunder, bli deras betrodda planerings partner och leda till ytterligare kund engagemang.
 
-## <a name="get-started"></a>Kom igång
+Planerings tjänsterna dras tillbaka helt från Software Assurance-förmånerna, men kunderna kan fortsätta att arbeta med partner för att använda planerings tjänster för åtaganden när verifikationerna är giltiga. Detta är de signifikanta datumen som leder upp till att programmet upphör: 
+
+- Den 1 februari 2020: planerings tjänster moln åtaganden drogs tillbaka.  
+- Den 1 februari 2020: utbildnings kuponger kan inte längre konverteras till Planning Services-dagar.  
+- Den 1 februari 2021: kunder inte längre kommer att Periodisera fördelarna med planerings tjänsterna. 
+- 30 juni 2021: sista dagen för kunderna att skapa/tilldela planerings tjänst verifikationer. Alla återstående dagar för planerings tjänster tas bort den 1 juli 2021.
+- 1 januari 2022: sista dagen för partner att lösa in planerings tjänstens verifikationer. Partnern kommer att ha 60 dagar efter inlösen för att slutföra processen för betalnings förfrågningar.  
+
+>[!NOTE]
+>Det finns ingen ändring i verifikations livs cykeln. När en verifikation har skapats/tilldelats, måste reservationer för kund engagemang och verifikations inlösen av verifikationen slutföras inom 180 dagar innan förfallo datum för verifikation.  Mer information om hur du drar tillbaka planeringen av service program finns i vanliga frågor och svar finns [här](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) för mer information (inloggning krävs).  Dirigera eventuella frågor till support teamet för regional partner: [stöd för EMEA-partner](mailto:savoucher@msdirectservices.com); [Support för allmän partner](https://partner.microsoft.com/dashboard/support/servicerequests)
+
+## <a name="until-june-30-2021"></a>Till den 30 juni 2021
+
+### <a name="get-started"></a>Kom igång
 
 Om du inte har arbetat med Software Assurance Planning Services följer du alla steg nedan. Om du redan är aktiv i planerings tjänst programmen börjar du med varje nytt engagemang i steg fyra (4) nedan.
 
@@ -62,8 +74,6 @@ När ditt företag uppfyller krav kraven är du redo att signera program varan f
 
 Se först till att granska alla [principer för planerings tjänst program](https://go.microsoft.com/fwlink/?linkid=2115984). Följ sedan anvisningarna i [steg 2](https://go.microsoft.com/fwlink/?linkid=2115983) i arbets flödet för att slutföra registreringen av planerings tjänster i Partner Center.
 
->[!NOTE]
-> Du måste förnya dina krav och registrera dem på nytt i Planning Services-programmen varje år.
 
 ## <a name="create-or-update-your-companys-business-profile-new-partners"></a>Skapa eller uppdatera företagets företags profil (nya partner)
 

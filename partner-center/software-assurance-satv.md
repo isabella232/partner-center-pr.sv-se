@@ -1,28 +1,37 @@
 ---
-title: Program vara för utbildnings kuponger för Software Assurance
+title: Indragnings program för utbildningsprogram för Software Assurance-utbildning
 ms.topic: article
-ms.date: 12/09/2020
+ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Lär dig hur du registrerar dig i programmet för utbildnings kuponger för Software Assurance så att du kan kompensera för att leverera utbildning och planera till företags kunder.
+description: Program varan för utbildnings kuponger för Software Assurance dras tillbaka.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 786f69858dc90a9c0993e88c4900a647a07ba81f
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: ddff97664474230224c788f732ac1f32f377abf7
+ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926615"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "107024984"
 ---
-# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>SATV-programmet (Software Assurance Training Voucher) i Partner-centrum
+# <a name="training-vouchers-program-retirement"></a>Dra tillbaka program för utbildnings kuponger
 
-Utöka verksamheten genom att registrera dig i Software Assurance-partnerprogram. Microsoft kompenserar partner för att leverera utbildning, planering och andra tjänster till företags kunder som har Software Assurance.
+Utbildnings kuponger dras tillbaka helt från Software Assurance-förmåner, men kunder kan fortsätta att använda verifikations dagar för lärarledd utbildning medan verifikationerna är giltiga. Detta är de signifikanta datumen som leder upp till att programmet upphör: 
 
-Som en godkänd Software Assurance-utbildnings partner, kompenserar Microsoft dig för att tillhandahålla teknisk utbildning till företags kunder i Exchange för kuponger som de får med Software Assurance. Delta i det här programmet kan hjälpa dig att locka fler kunder och bli en betrodd utbildnings partner.
+- Den 1 februari 2020: Azure-utbildning dras tillbaka från kursens verifikations katalog.
+- Den 1 februari 2020: utbildnings kuponger kan inte längre konverteras till Planning Services-dagar.  
+- Den 1 februari 2021: kunderna kommer inte längre att Periodisera utbildnings förmåner. 
+- 30 juni 2021: sista dagen för kunderna att skapa/tilldela utbildnings kuponger. Alla återstående utbildnings verifikations dagar tas bort den 1 juli 2021.
+- 1 januari 2022: sista dagen för partner för att lösa in utbildnings kuponger. Partnern kommer att ha 60 dagar efter inlösen för att slutföra processen för betalnings förfrågningar.  
 
-## <a name="get-started"></a>Kom igång
+>[!NOTE]
+>Det finns ingen ändring i verifikations livs cykeln. När en verifikation har skapats/tilldelats måste du slutföra kuponger, utbildningar och åter inlösen av verifikationen inom 180 dagar innan förfallo datumet för verifikationen har upphört att gälla.  Mer information om hur du drar tillbaka utbildnings kuponger finns i vanliga frågor och svar finns [här](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) för mer information (inloggning krävs).  Se den fullständiga listan med SATV utbildnings kurser i utbildnings förmåns produkt katalogen.  Dirigera eventuella frågor till support teamet för regional partner: [stöd för EMEA-partner](mailto:savoucher@msdirectservices.com); [Support för allmän partner](https://partner.microsoft.com/dashboard/support/servicerequests).
+
+## <a name="until-june-30-2021"></a>Till den 30 juni 2021
+
+### <a name="get-started"></a>Kom igång
 
 Om du inte har arbetat med Software Assurance-utbildningstjänster följer du alla steg nedan. Om du redan är aktiv i programmet för utbildnings kuponger börjar du med steg fyra (4) nedan. 
 
