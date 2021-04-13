@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: ddff97664474230224c788f732ac1f32f377abf7
-ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
+ms.openlocfilehash: b08ac8d76324270f32db481a92387b20650f42f5
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "107024984"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266494"
 ---
 # <a name="training-vouchers-program-retirement"></a>Dra tillbaka program för utbildnings kuponger
 
@@ -29,7 +29,7 @@ Utbildnings kuponger dras tillbaka helt från Software Assurance-förmåner, men
 >[!NOTE]
 >Det finns ingen ändring i verifikations livs cykeln. När en verifikation har skapats/tilldelats måste du slutföra kuponger, utbildningar och åter inlösen av verifikationen inom 180 dagar innan förfallo datumet för verifikationen har upphört att gälla.  Mer information om hur du drar tillbaka utbildnings kuponger finns i vanliga frågor och svar finns [här](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) för mer information (inloggning krävs).  Se den fullständiga listan med SATV utbildnings kurser i utbildnings förmåns produkt katalogen.  Dirigera eventuella frågor till support teamet för regional partner: [stöd för EMEA-partner](mailto:savoucher@msdirectservices.com); [Support för allmän partner](https://partner.microsoft.com/dashboard/support/servicerequests).
 
-## <a name="until-june-30-2021"></a>Till den 30 juni 2021
+
 
 ### <a name="get-started"></a>Kom igång
 
