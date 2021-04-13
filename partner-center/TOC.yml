@@ -12,8 +12,6 @@
     - name: Skapa ett MPN-konto i Partner Center
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
-    - name: Skaffa en e-postadress för arbetet
-      href: buy-email-domain.md
     - name: Felsöka kontokonfiguration
       href: troubleshoot-account-sign-n.md
     - name: Flytt till Partnercenter
@@ -246,7 +244,7 @@
           href: reset-a-user-password.md
         - name: Återställa mitt lösenord
           href: reset-my-pasword.md
-        - name: Användaren kan inte logga in
+        - name: Felsöka inloggnings problem
           href: unable-to-sign-in.md
         - name: Användaren har ingen MPN-administratör
           href: no-mpn-admin.md
