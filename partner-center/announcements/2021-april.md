@@ -10,17 +10,51 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/02/2021
-ms.openlocfilehash: 2cd791425fd30d18b8db5f999eb773fc0e2f37e6
-ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
+ms.date: 04/08/2021
+ms.openlocfilehash: 441d41e6212399657124b6116e1f2c05ce734211
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "106374441"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266528"
 ---
 # <a name="april-2021-announcements"></a>April 2021-meddelanden
 
 Den här sidan innehåller meddelandena för Microsoft Partner Center för april 2021.
+
+________________
+## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="4"></a>Påminnelse: utfasning av Erhåll kvalificering den 4 maj 2021
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-04-09
+- Funktioner
+
+### <a name="impacted-audience"></a>Förverkad mål grupp
+
+Partner som säljer akademiska, ideella och offentliga community-moln (GCC) erbjuder via Cloud Solution Provider-programmet med partner Center API
+
+### <a name="details"></a>Information
+
+Det här meddelandet är en uppföljning av de förbättringar i Partner Center som [lanseras i december](https://docs.microsoft.com/partner-center/announcements/2020-december#1). Som en del av den här versionen har nya API: er för GET och POST-kvalifikationer distribuerats och den befintliga ERHÅLLna kvalificeringen kommer därför att dras tillbaka den 4 maj 2021. Vid den tiden måste du ha övergått till att använda de nya POST Partner Center-API: erna i köp utbildnings erbjudanden, och det nya erbjudandet om att köpa för närvarande icke-vinst-och GCC-erbjudanden.
+
+### <a name="next-steps"></a>Nästa steg
+
+- Uppdatera till de nya API: erna för en lyckad och forts över gång.
+
+- Granska de nya API: erna för partner Center i API: er för drift beredskap: [partner Center utbildning av kund validerings processer](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
+
+- Dela den här informationen med lämpliga team i din organisation och med dina åter försäljare för att hjälpa dem att förbereda för dessa ändringar.
+
+### <a name="questions"></a>Har du några frågor?
+
+Kontakta [supporten för partner Center](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)om du har frågor som rör detta meddelande.
+
+### <a name="change-log"></a>Ändringslogg
+
+- April: påminnelse om kommande utfasning av Erhåll kvalificering 
+- Februari: uppdaterade tids linjer för utfasning av GET & placera kvalifikationer
+- Januari: påminnelse om kommande utfasningar av GET & placera kvalifikationer
 
 ________________
 ## <a name="new-format-for-the-new-commerce-pdf-invoice-in-csp"></a><a name="3"></a>Nytt format för den nya Commerce PDF-fakturan i CSP

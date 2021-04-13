@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb3f6d6d4b719a8c4988ef935bde07c9660942c5
-ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
+ms.openlocfilehash: 9ab6afc85a696b3b614ea5c3b5edc644d92bfc21
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "107025001"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266511"
 ---
 # <a name="software-assurance-planning-services-retirement"></a>Pensions tjänster för Software Assurance-planering
 
@@ -35,7 +35,6 @@ Planerings tjänsterna dras tillbaka helt från Software Assurance-förmånerna,
 >[!NOTE]
 >Det finns ingen ändring i verifikations livs cykeln. När en verifikation har skapats/tilldelats, måste reservationer för kund engagemang och verifikations inlösen av verifikationen slutföras inom 180 dagar innan förfallo datum för verifikation.  Mer information om hur du drar tillbaka planeringen av service program finns i vanliga frågor och svar finns [här](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) för mer information (inloggning krävs).  Dirigera eventuella frågor till support teamet för regional partner: [stöd för EMEA-partner](mailto:savoucher@msdirectservices.com); [Support för allmän partner](https://partner.microsoft.com/dashboard/support/servicerequests)
 
-## <a name="until-june-30-2021"></a>Till den 30 juni 2021
 
 ### <a name="get-started"></a>Kom igång
 

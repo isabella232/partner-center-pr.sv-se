@@ -10,48 +10,52 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/02/2021
-ms.openlocfilehash: 79d492fa907f9d2b9318ba9fa9850401b61a2b7d
-ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
+ms.date: 04/08/2021
+ms.openlocfilehash: b72d736fdeafc438fbfa848c0b2b1e51ab66b261
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "106280912"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266477"
 ---
 # <a name="february-2021-announcements"></a>Meddelanden från februari 2021
 
 Den här sidan innehåller information om Microsoft Partner Center-meddelanden för februari 2021.
 
 ________________
-## <a name="put-qualification-apis-are-retired-get-to-retire-in-may"></a><a name="14"></a> Att placera kvalificerings-API: er tas ur bruk, tas ur bruk i maj
+## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="14"></a>Påminnelse: utfasning av Erhåll kvalificering den 4 maj 2021
 
 ### <a name="categories"></a>Kategorier
 
-- Datum: 25 februari 2021
+- Datum: 2021-04-09
 - Funktioner
 
 ### <a name="impacted-audience"></a>Förverkad mål grupp
 
-Partner som säljer akademiska, icke-vinst-och GCC-erbjudanden via Cloud Solution Provider-programmet med partner Center API
+Partner som säljer akademiska, ideella och offentliga community-moln (GCC) erbjuder via Cloud Solution Provider-programmet med partner Center API
 
 ### <a name="details"></a>Information
 
-Det här meddelandet är en uppföljning av de förbättringar i Partner Center som [lanseras i december](2020-december.md#1). Som en del av den här versionen distribuerades nya API: er för GET-och POST-kvalifikationer, och därför **har de befintliga API: erna för placeringen dragits tillbaka, och erhållen kvalificering kommer att dras tillbaka den 4 maj 2021**. När detta inträffar måste du gå över till att använda de nya API: erna för POST Partner Center för att köpa utbildnings erbjudanden. På samma sätt behöver du använda det nya API: et för att få ett förkvalificerat erbjudande för icke-vinst och GCC.
+Det här meddelandet är en uppföljning av de förbättringar i Partner Center som [lanseras i december](https://docs.microsoft.com/partner-center/announcements/2020-december#1). Som en del av den här versionen har nya API: er för GET och POST-kvalifikationer distribuerats och den befintliga ERHÅLLna kvalificeringen kommer därför att dras tillbaka den 4 maj 2021. Vid den tiden måste du ha övergått till att använda de nya POST Partner Center-API: erna i köp utbildnings erbjudanden, och det nya erbjudandet om att köpa för närvarande icke-vinst-och GCC-erbjudanden.
 
 ### <a name="next-steps"></a>Nästa steg
 
-- **Uppdatera till de nya API: erna** för en lyckad och forts över gång
-- **Granska de nya API: erna för partner Center och guiden** för drift beredskap: [partner Center utbildning av kund validerings process](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
-- **Dela den här informationen med lämpliga team** i din organisation och med dina åter försäljare för att hjälpa dem att förbereda för dessa ändringar
+- Uppdatera till de nya API: erna för en lyckad och forts över gång.
+
+- Granska de nya API: erna för partner Center i API: er för drift beredskap: [partner Center utbildning av kund validerings processer](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
+
+- Dela den här informationen med lämpliga team i din organisation och med dina åter försäljare för att hjälpa dem att förbereda för dessa ändringar.
 
 ### <a name="questions"></a>Har du några frågor?
 
-För alla frågor som rör detta meddelande kontaktar du [Support för partner Center](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+Kontakta [supporten för partner Center](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)om du har frågor som rör detta meddelande.
 
 ### <a name="change-log"></a>Ändringslogg
 
+- April: påminnelse om kommande utfasning av Erhåll kvalificering 
 - Februari: uppdaterade tids linjer för utfasning av GET & placera kvalifikationer
 - Januari: påminnelse om kommande utfasningar av GET & placera kvalifikationer
+
 
 ________________
 ## <a name="share-co-sell-deals-at-scale-using-the-partner-center-bulk-operations-capability"></a><a name="13"></a> Dela samförsäljnings avtal i stor skala med hjälp av funktionen för Mass åtgärder i Partner Center

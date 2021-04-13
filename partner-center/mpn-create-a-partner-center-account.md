@@ -1,7 +1,7 @@
 ---
 title: Skapa ett MPN-konto i Partner Center
 ms.topic: article
-ms.date: 03/18/2021
+ms.date: 04/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Lär dig hur Microsoft Partner Network-medlemmar kan skapa ett partner Center-konto för att hantera sina nätverks förmåner och-kompetenser.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a099b30753d2ea6de217001e7b13e4a333e40f55
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 00d45b18dc4c2d55ec4af0456512a685ba111ee1
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712927"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266545"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Skapa ett MPN-konto i Partner Center för att hantera nätverks förmåner och-kompetenser
 
@@ -25,7 +25,7 @@ Om du inte har använt Microsoft Partner Network (MPN) och inte har något MPN-I
 
 När du är redo att skapa ett konto i Partner Center måste du ha följande artiklar i handen.  Det kan vara bra att ta några minuter att samla in dessa objekt innan du börjar:
 
-- Företagets arbets-e-post eller kontor 365 arbets konto. Mer information finns [i företagets arbets konto och partner Center](azure-active-directory-tenants-and-partner-center.md) 
+- Företagets arbets-e-post eller kontor 365 arbets konto. Företaget kan behöva köpa en e-postdomän för att du ska kunna ställa in e-postadresser för arbetet för dina anställda. Mer information finns [i företagets arbets konto och partner Center](azure-active-directory-tenants-and-partner-center.md). 
  
 - Företagets juridiska företags namn och adress.
 
