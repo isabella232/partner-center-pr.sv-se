@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8e62462b6d35e8e6994e5e596ce433b37d222fc2
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 08499c306079d0cb900d528247309afdf21b23bb
+ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132289"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "107315906"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Hantera ditt partner Center-konto – företags profil, bank information, roller, behörigheter med mera
 
@@ -42,7 +42,7 @@ Då visas sidan konto inställningar.
 
 ### <a name="locate-your-mpn-id"></a>Hitta ditt MPN-ID
 
-Oavsett om du är partner eller utvecklar kan du använda ditt MPN-ID för att logga support biljetter. Ditt MPN-ID finns på Thee-sidan för **juridisk information** . Du kan också hitta den i **identitets profilen**.
+Oavsett om du är partner eller utvecklar kan du använda ditt MPN-ID för att logga support biljetter. Ditt MPN-ID finns på sidan **juridisk information** . Du kan också hitta den i **identitets profilen**.
 
 ## <a name="account-settings---partners-resellers"></a>Konto inställningar – partner, åter försäljare
 

@@ -14,14 +14,6 @@
       displayName: mpn
     - name: Felsöka kontokonfiguration
       href: troubleshoot-account-sign-n.md
-    - name: Flytt till Partnercenter
-      items:
-        - name: Flytta från PAC – översikt
-          href: pac-to-pc-overview.md
-        - name: Jämföra uppgifter i PAC och PC
-          href: moving-from-pac-to-pc.md
-        - name: Utföra PAC-uppgifter i PC
-          href: o365-partner-admin-center-to-partner-center.md
     - name: Flytta från PMC
       items:
         - name: Förbereda migrering från PMC
@@ -159,8 +151,6 @@
     - name: 'CSP-avtal, prislistor, erbjudanden'
       href: csp-documents-and-learning-resources.md
       displayName: csp
-    - name: Azure Cost Management av Cloudyn för CSP
-      href: azure-cost-management-app-for-csp-partners.md
     - name: 'Regionala CSP-marknader, valutor'
       href: regional-authorization-overview.md
       displayName: 'regio, region, csp'
