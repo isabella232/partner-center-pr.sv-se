@@ -1,6 +1,6 @@
 ---
-title: Krav för KRYPTOGRAFIPROVIDERs direkta fakturerings partner
-description: Lär dig hur du uppfyller de senaste support-och tjänst kraven för att bli en direkt fakturerings partner i CSP-programmet (Microsoft Cloud Solution Provider).
+title: Krav för CSP-partner med direktfakturering
+description: Lär dig hur du uppfyller de senaste kraven för support och tjänster för att bli en partner för direktfakturering i Leverantör av Microsoft-molnlösningar-programmet (CSP).
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 12/15/2020
-ms.openlocfilehash: ac4b6ef6a061a68ef623c7666804a4db1582785f
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 04/15/2021
+ms.openlocfilehash: 2f6fd9ef3fdcc88627b2eb2d257a837d28e097ee
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712214"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528583"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Krav för att registrera dig som CSP-partner med direktfakturering
 
@@ -22,41 +22,43 @@ ms.locfileid: "104712214"
 
 - Global administratör
 
-## <a name="enroll-as-a-direct-partner"></a>Registrera som en direkt partner
+## <a name="enroll-as-a-direct-partner"></a>Registrera dig som en direkt partner
 
-Som en direkt fakturerings partner äger du relationen från slut punkt till slut punkt med kunden och med Microsoft. Vi har uppdaterat registrerings kraven för direkta fakturerings partner den 27 oktober 2020. Dessa krav hjälper dig att påskynda företagets tillväxt med rätt modell för moln lösnings leverantören och stärka dina kund relationer med mervärdes tjänster och support.  
+Som partner för direktfakturering äger du relationen från slutet till slut med din kund och med Microsoft. Vi har uppdaterat registreringskraven för direktfaktureringspartner från och med 27 oktober 2020. Dessa krav hjälper dig att påskynda din verksamhetstillväxt med rätt Molnlösningsleverantör och stärka dina kundrelationer med mervärdestjänster och support.  
 
 ### <a name="minimum-requirements"></a>Minimikrav
 
 |**Krav**|  **Beskrivning**  |
 |--------------------------------|--------------------------------------------------------------|
-|**MPN-ID**   |Ett aktivt medlemskap i Microsoft Partner Network-och MPN-ID för den plats som du vill sälja i.   |
-|**Erkännande**   |Myndigheten att godkänna och signera juridiska avtal för din organisations räkning.|
-|**Support**   |Möjlighet att tillhandahålla den första nivån av moln produkt support för dina kunder. <br/>Microsoft support avtal, antingen avancerad support för partner (ASfP) eller Premier Support för partner (PSfP), beroende på dina behov. [Jämför support](https://partner.microsoft.com/support/partnersupport)avtal.<br/>VIKTIGT: du måste godkänna en kredit kontroll innan du kan köpa en Support plan. Vi skickar e-post när du har slutfört kredit kontrollen. |
-|**Intäkts krav**|Måste uppfylla minst USD300K i Cloud Solution Provider-programmets årliga intäkter under de närmast föregående tolv månaderna som en indirekt åter försäljare. Partner kan granska sina efterföljande tolv månaders intäkter på Partner Center.<br/>Den försäljning som utgör en USD300K som slutar på tolv månader kan granskas och verifieras av Microsoft och du kan uppmanas att ange ytterligare information. Kravet på USD300K intäkt beräknas utifrån moln intäkterna och kommer att utesluta beständig program vara i CSP.|
-|**Kund reskontra** |Organisationens infrastruktur på plats för att hantera fakturering och etablering av kunder.|
+|**MPN-ID**   |Ett aktivt medlemskap i Microsoft Partner Network och MPN-ID för den plats där du vill sälja.   |
+|**Godkännande**   |Behörighet att godkänna och signera juridiska avtal åt din organisation.|
+|**Support**   |Möjligheten att tillhandahålla den första nivån av molnproduktsupport till dina kunder. <br/>En Microsoft-supportplan, antingen Avancerad support för partner (ASfP) eller Premier Support for Partners (PSfP), beroende på dina behov. [Jämför supportplaner.](https://partner.microsoft.com/support/partnersupport)<br/>VIKTIGT! Du måste klara en kreditkontroll innan du kan köpa en supportplan. Vi skickar ett e-postmeddelande till dig när du har godkänt kreditkontrollen. |
+|**Intäktskrav**|Måste uppfylla minst 300 000 USD Molnlösningsleverantör årliga intäkter under de föregående tolv månaderna som en indirekt återförsäljare. Kontrollera att din organisation uppfyller intäktskravet i [Partnercenter Analytics.](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf) Partner kan granska sina avslutande tolv månaders intäkter i Partnercenter.<br/>Den försäljning som utgör dina usd 300 000 avslutande tolvmånadersintäkter kan granskas och verifieras av Microsoft och du kan bli ombedd att ange ytterligare information. Intäktskravet USD 300 000 beräknas baserat på molnintäkter och exkluderar permanent programvara i CSP.|
+|**Krav för CSP**|Måste vara en indirekt återförsäljare i minst 12 månader.| 
+|**Kundreskontra** |Organisationsinfrastrukturen på plats för att hantera kundfakturering och etablering.|
 |**Rekommendation**|             |
-|**Hanterad tjänst**   |Minst en hanterad tjänst, IP-tjänst eller kund lösnings program. Läs mer om att lägga till [hanterade tjänster](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
+|**Hanterad tjänst**   |Minst en hanterad tjänst, IP-tjänst eller ett kundlösningsprogram. Läs mer om att lägga till [hanterade tjänster.](https://partner.microsoft.com/business-opportunities/managed-services-provider)|
 
 
-### <a name="verify-direct-bill-eligibility"></a>Verifiera direkt fakturerings berättigande
+### <a name="verify-direct-bill-eligibility"></a>Verifiera direktfaktureringsberättigande
 
-När du har kontrollerat att du uppfyller minimi kraven för att registrera dig som en direkt fakturerings partner kan du fortsätta till [registrerings formuläret](https://partner.microsoft.com/pcv/register/joinnow/enrollmentwelcome/Reseller/migrate?cloudInstance=Global).
+När du har kontrollerat att du uppfyller minimikraven för att registrera dig som direktfaktureringspartner kan du gå vidare till [registreringsformuläret](https://forms.office.com/r/0fP4fFT8n8).
 
-När vi har kontrollerat att ditt företag uppfyller kraven för behörighet att registrera sig som en direkt fakturerings partner, och du har slutfört registrerings programmet, granskar vi och kontrollerar den företags information som du har angett i registrerings processen. Som en del av den här recensionen kontrollerar vi ditt företags kredit. Vi meddelar dig via e-post när företaget har godkänt kredit kontrollen.
+När vi har kontrollerat att ditt företag uppfyller behörighetskraven för att registrera sig som direktfaktureringspartner och du har slutfört registreringsprogrammet granskar och verifierar vi den affärsinformation som du angav i registreringsprocessen. Som en del av den här granskningen kontrollerar vi företagets kredit. Vi kommer att meddela dig via e-post när ditt företag har godkänts i kreditkontrollen.
+
 >[!IMPORTANT]
->Att kontrol lera företagets kredit kan ta flera dagar eller mer att slutföra. Under den här tiden är det viktigt att du inte köper en Microsoft Support-plan. Du bör bara köpa en Support plan från Microsoft när vi har informerat dig om att du har gått igenom kredit kontrollen.
+>Det kan ta flera dagar eller mer att kontrollera företagets kredit. Under den här tiden är det viktigt att du INTE köper en Microsoft-supportplan. Du bör köpa en Microsoft-supportplan först när vi har informerat dig om att du har godkänts i kreditkontrollen.
 
-## <a name="transition-from-direct-to-indirect-reseller"></a>Över gång från direkt till indirekt åter försäljare
+## <a name="transition-from-direct-to-indirect-reseller"></a>Övergång från direkt till indirekt återförsäljare
 
-Aktuella direkta fakturerings partner måste uppfylla de nya kraven för att finnas kvar i CSP: n för fakturerings program för CSP. I annat fall [kommer deras åtkomst till direkta fakturerings möjligheter att bli begränsad](restricted-direct-bill-capabilities.md) och kan utföra vissa uppgifter, till exempel för att göra nya inköp för kunderna.
+Nuvarande partner för direktfakturering måste uppfylla de nya kraven för att finnas kvar i CSP-partnerprogrammet för direktfakturering. Annars kommer [deras åtkomst till direktfaktureringsfunktionerna](restricted-direct-bill-capabilities.md) så småningom att begränsas och kan längre utföra specifika uppgifter, till exempel att göra nya inköp för sina kunder.
 
-Om du väljer att flytta från en direkt fakturerings verksamhet till en indirekt åter försäljare, finns det flera steg som du måste vidta. Om du vill veta mer om över gången läser du [över gången från providern för moln lösnings leverantör (CSP) till en indirekt åter försäljare av CSP](transition-direct-to-indirect.md).
+Om du bestämmer dig för att flytta från en direktfakturering till en indirekt återförsäljares verksamhet finns det flera steg som du måste vidta. Mer information om övergången finns i [Transition from Molnlösningsleverantör (CSP) direct partner to CSP indirect reseller .](transition-direct-to-indirect.md)
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Nytt intäkts krav för direkta fakturerings partner](./announcements/2020-october.md#13)
+- [Nya intäktskrav för direktfaktureringspartner](./announcements/2020-october.md#13)
  
-- [Ytterligare information om att bli en indirekt åter försäljare](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
+- [Ytterligare information om hur du blir en indirekt återförsäljare](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 
-- [Ny prestanda standard för direkta fakturerings partner krav i CSP](https://partner.microsoft.comresources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)
+- [Ny prestandastandard för partnerkrav för direktfakturering i CSP](https://partner.microsoft.comresources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)

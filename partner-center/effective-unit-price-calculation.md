@@ -2,64 +2,66 @@
 title: Effektiv enhetsprisberäkning
 ms.topic: how-to
 ms.date: 04/02/2021
-description: Läs om det effektiva enhets priset och hur det beräknas. Den här artikeln innehåller även en exempel beräkning.
+description: Lär dig mer om det effektiva enhetspriset och hur det beräknas. Den här artikeln innehåller även en exempelberäkning.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a662e0b815c979b3454762c5b35eb510887c96ad
-ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
+ms.openlocfilehash: 6c3c3a672de015c9f38fa0e34232da8d9913177c
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "106374406"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528565"
 ---
-# <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Effektiv enhets pris beräkning för Azure plan-förbrukning
+# <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Effektiv enhetsprisberäkning för Förbrukning i Azure-plan
 
-## <a name="the-effective-unit-price"></a>Det effektiva enhets priset
+## <a name="the-effective-unit-price"></a>Det effektiva enhetspriset
 
-Det effektiva enhets priset beräknas på mätar nivån (till skillnad från resurs nivån) och justeras dagligen enligt mätnings användningen.
+Det effektiva enhetspriset beräknas på mätarnivå (till skillnad från resursnivån) och justeras dagligen enligt mätaranvändningen.
 
-Vi beräknar det effektiva enhets priset med följande tre faktorer:
+Vi beräknar det effektiva enhetspriset med hjälp av följande tre faktorer:
 
-- Förbrukning, som övervakas dagligen under fakturerings perioden
+- Förbrukning, som övervakas dagligen under faktureringsperioden
 - Fakturerbar kostnad för mätaren
-- Skiktning (om tillämpligt)
+- Nivåindelad (om tillämpligt)
 
-Eftersom vi övervakar förbrukning dagligen under hela fakturerings perioden kommer det effektiva enhets priset att variera. Det slutgiltiga priset för en viss fakturerings cykel blir tillgängligt efter att du har stoppat förbruknings beräkningen och stängt fakturerings perioden. Du ser de flesta förändringar i förbrukningen efter den fjärde eller femte decimalen.
+Eftersom vi övervakar förbrukningen varje dag under faktureringsperioden varierar det effektiva enhetspriset. Det slutliga priset för en viss faktureringsperiod blir tillgängligt när vi stoppar förbrukningsberäkningen och stänger faktureringsperioden. Du ser de flesta förbrukningsändringarna efter den fjärde eller femte decimalen.
 
-## <a name="find-out-whether-your-meter-uses-tiered-pricing"></a>Ta reda på om din mätning använder nivå priser
+## <a name="find-out-whether-your-meter-uses-tiered-pricing"></a>Ta reda på om din mätare använder nivåindelade priser
 
-Om du inte vet om mätaren använder nivå priser använder du proceduren nedan för att ta reda på det. 
+Om du inte vet om mätaren använder nivåindelad prissättning kan du använda proceduren nedan för att ta reda på det. 
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
-2. Välj **sälja**, Välj **priser och erbjudanden** och välj sedan **pris för Azure-prenumeration**.
-3. Leta upp din mätning efter ID och ladda ned dina pris data. 
+2. Välj **Sälj,** välj **Priser och erbjudanden** och välj sedan Priser för **Azure-plan.**
+3. Leta upp din mätare efter ID och ladda sedan ned dina prisdata. 
 
-## <a name="sample-calculation"></a>Exempel beräkning
+## <a name="sample-calculation"></a>Exempelberäkning
 
-Tabellen nedan visar ett exempel på hur vi beräknar det effektiva enhets priset under den öppna perioden.
+Tabellen nedan ger ett exempel på hur vi beräknar det effektiva enhetspriset under den öppna perioden.
 
 I tabellen gäller följande värden: 
 
-- **Upp** = enhets priset för resursen/timmen = 0,868
+- **UP** = Enhetspris för resursen/timmen = 0,868
 
-- **BCU** = fakturerbar förbruknings enhet för mätaren
+- **BCU** = Fakturerbar förbrukningsenhet för mätaren
 
-- **BC** = fakturerbar kostnad för mätaren = BCU * upp * 0,85. Detta motsvarar en justering för 15% PEC-rabatten. Vi använder sedan den nedre gränsen för funktionen för att begränsa värdet till två siffror efter decimal tecknet, för att debitera minimi beloppet. 
+- **BC** = Fakturerbar kostnad för mätaren = BCU * UP * 0,85. Detta återspeglar en justering för 15 % PEC-rabatten. Sedan använder vi den nedre gränsen för funktionen för att begränsa värdet till två siffror efter decimaltecknet för att debitera det minsta beloppet. 
 
-- **Effektivt enhets pris** = BCU/BC
+- **Gällande enhetspris** = BCU/BC
 
 >[!NOTE]
->Mätaren i det här exemplet saknar nivåer i prissättningen. De effektiva enhets pris faktorerna i rabatt procent och andra justeringar.
 
-| Datum | BCU (fakturerbar förbruknings enhet) | BC (fakturerbar kostnad) | Effektivt enhets pris |
+>Obs! Mätaren i det här exemplet har inga prisnivåer eller andra rabatter – de effektiva enhetsprisfaktorerna i rabattprocent och andra justeringar.
+
+
+| Datum | BCU (fakturerbar förbrukningsenhet) | BC (fakturerbar kostnad) | Effektivt enhetspris |
 | ------ | ----------- | ----------- | ----------- |  
-| 3 – aug | 29 | 21,39 | 0.737586206896552 |
-| 10 – aug | 210,950039 | 155,63 | 0.737757626107858 |
-| 25 – aug | 555,950039 | 410,17 | 0.737782122900436 |
+| 3 augusti | 29 | 21.39 | 0.737586206896552 |
+| 10 augusti | 210.950039 | 155.63 | 0.737757626107858 |
+| 25 augusti | 555.950039 | 410.17 | 0.737782122900436 |
 
 ## <a name="next-steps"></a>Nästa steg
 

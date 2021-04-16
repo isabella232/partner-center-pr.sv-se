@@ -1,60 +1,63 @@
 ---
-title: Incitaments registrering
+title: Incitamentsregistrering
 ms.topic: how-to
-ms.date: 11/12/2020
-description: Registrera dig för stimulans programmet och tilldela nödvändiga roller för användar hantering. I den här artikeln beskrivs registrerings processen.
+ms.date: 04/15/2021
+description: Registrera dig i incitamentsprogrammet och tilldela de roller som krävs för användarhantering. I den här artikeln beskrivs registreringsprocessen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 22233b8dd41776b34bb4ec1d202f6e84a6ded3fc
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: c4e24c22790edddef02e7936eaef9ed788489a37
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179147"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528532"
 ---
-# <a name="enrollment-and-user-management-in-the-incentives-program"></a>Registrering och användar hantering i stimulans programmet
+# <a name="enrollment-and-user-management-in-the-incentives-program"></a>Registrering och användarhantering i incitamentsprogrammet
 
 **Lämpliga roller**
 
-- Incitaments administratör
+- Incitamentsadministratör
 
 >[!NOTE]
->Innan du kan registrera dig i stimulans programmet måste du ha slutfört partner medlemskaps centret till Partner Center- [migreringen](prepare-pmc-pc-migration.md).
+>Innan du kan registrera dig i incitamentsprogrammet måste du ha slutfört migreringen Partner Membership Center [partnercenter.](prepare-pmc-pc-migration.md)
 
-Registrerings processen består av två steg.
+Registreringsprocessen består av två steg.
 
-**Steg 1. Användar hantering:** det här steget innebär att du skapar stimulans administratören i Partner Center.
+**Steg 1. Användarhantering: Det** här steget handlar om att upprätta incitamentsadministratören i Partnercenter.
 
-**Steg 2. Registrering:** Microsoft skickar en inbjudan till att registrera dig i stimulans programmet.
+**Steg 2. Registrering:** Microsoft skickar dig en inbjudan att registrera dig i ditt incitamentprogram.
 
 ## <a name="user-management"></a>Användarhantering
 
-För att registrera dig i ett incitaments program för partner Center måste den globala administratören eller konto administratören konfigurera företagets användare som stimulans administratörer. Information om partner konton, roller och behörigheter finns i [Hantera ditt partner Center-konto](partner-center-account-setup.md). Den globala administratören kan också ställa in företagets användare via Azure Active Directory (Azure AD).
-
-När din organisation är berättigad till stimulans kommer Microsoft att skicka inbjudningar till konto administratören och stimulans administratören.
+För att kunna registrera sig i ett incitamentprogram i Partnercenter Global administratör kontoadministratören konfigurera företagets användare som incitamentadministratörer. Information om partnerkonton, roller och behörigheter finns i [Hantera ditt Partnercenter-konto.](partner-center-account-setup.md) Den Global administratör kan också konfigurera företagsanvändare via Azure Active Directory (Azure AD).
 
 >[!NOTE]
->Endast incitaments administratören kan registrera sig i incitaments program. Om det inte finns någon incitaments administratör för din plats måste den globala administratören och konto administratören tilldela en. Incitaments administratören måste tilldelas platsen MPN-ID: n. Den globala administratören eller konto administratören kan också tilldelas som stimulans administratör. Mer information om olika roller finns i [Hantera incitament](permissions-overview.md#manage-incentives).
+>Endast incitamentadministratören kan registrera sig i incitamentprogram. Om det inte finns någon incitamentadministratör för din plats Global administratör kontoadministratören tilldela en. Incitamentadministratören måste tilldelas för platsens MPN-IP-nummer. Administratören Global administratör konto kan också tilldelas som incitamentadministratör. Mer information om olika roller finns i [Hantera incitament.](permissions-overview.md#manage-incentives)
 
-## <a name="enrollment-process"></a>Registrerings process
+## <a name="enrollment-process"></a>Registreringsprocess
 
-När din organisation är berättigad till stimulans, kommer Microsoft att skicka en inbjudan till incitaments administratören för den berättigade MPNLocationID att börja registrera processen. Det här e-postmeddelandet kommer att skickas från **Microsoft Partner Center** och kommer att ha en inbjudan till ämnes **partner stimulans registrering**. Öppna inbjudan och välj **Kom igång**.
+När din organisation är berättigad till incitament skickar Microsoft en inbjudan till incitamentadministratören för det berättigade MPNLocationID för att påbörja registreringsprocessen. Det här e-postmeddelandet skickas **från Microsoft Partner Center** och har ämnesinbjudan för **partnerinbjudan för incitamentregistrering.** Öppna inbjudan och välj **Kom igång.**
 
-Du ser också en inbjudan på Start sidan för partner Center. När du har valt det meddelandet kan du inte se det igen. Incitaments administratören kan dock fortfarande slutföra processen genom att logga in på [instrument panelen för partner Center](https://partner.microsoft.com/dashboard/) och välja **Översikt** under **incitament** i det vänstra navigerings fältet. Välj **Registrera** och slutför sedan utbetalnings-och skatte profilen för programmet.
+Du ser också en inbjudan på startsidan för Partnercenter. När du har valt meddelandet kan du inte se det igen. Incitamentadministratören kan dock fortfarande slutföra processen genom att logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/) och välja **Översikt** under **Incitament** i det vänstra navigeringsfältet. Välj **Registrera** och slutför sedan utbetalnings- och skatteprofilen för programmet.
 
-En registrering betraktas bara som slutförd när utbetalnings-och skatte profilen som du anger för registreringen verifieras av Microsoft.
+**Om** du redan har en standardinställning för bankprofilen för en MPN-plats och försöker registrera dig för samma MPN-plats i ett incitamentprogram visas standardbankprofilen när du väljer Registrera och acceptera inbjudan. Du kommer också att se alla tillgängliga skatteprofiler om du har skapat den för den MPN-platsen. Om Microsoft har all information om bank- och skatteprofilen uppmanas du att välja **Skicka för** att slutföra registreringen. Se [Konfigurera en standardbankprofil.](incentives-create-and-manage-your-payout-and-tax-profiles.md#set-up-a-default-bank-profile)
 
-Vissa incitaments program har inga berättigande villkor och är öppna för alla partner. Stimulans administratören ser inbjudningar för dessa program på sidan incitaments översikt, förutsatt att de har behörighet för det relevanta stimulans programmet och MPN. Microsoft skickar inte e-postinbjudningar för dessa program.
+Du kan också välja en annan bankprofil än standardbankprofilen. Om Microsoft kräver ytterligare information för betalnings- eller skatteprofilerna  eller valutan uppmanas  du att fortsätta och omdirigeras till sidan Betalnings- och skatteprofil för att ange den saknade informationen. 
 
-Om du vill ha mer information om registrerings processen laddar du ned den [incitaments registrerings guiden](https://partner.microsoft.com/resources/detail/partner-center-incentives-enrollment-pdf) (inloggning krävs).
+En registrering anses vara fullständig endast när utbetalnings- och skatteprofilen som du anger för registreringen valideras av Microsoft.
 
-## <a name="expiration-and-renewal"></a>Förfallo datum och förnyelse
+Vissa incitamentprogram har inga behörighetsvillkor och är öppna för alla partner. Incitamentadministratören ser inbjudningar för dessa program på översiktssidan för incitament, förutsatt att de har behörighet för relevant incitamentprogram och MPN. Microsoft skickar inte e-postinbjudningar för dessa program.
 
-Incitaments registrering upphör att gälla i slutet av räkenskapsåret. Så länge som du är berättigad till en kvalificerad partner med ett aktivt avtal, kommer Microsoft att vidarebefordra dina incitament till nästa räkenskapsår. Du behöver inte vidta några åtgärder, så länge det utbetalnings-och skatte krav som krävs för stimulans programmet har slutförts enligt reglerna i stimulans programmet.
+Om du vill ha mer information om registreringsprocessen laddar du ned [incitamentsregistreringsguiden](https://partner.microsoft.com/resources/detail/partner-center-incentives-enrollment-pdf) (inloggning krävs).
+
+## <a name="expiration-and-renewal"></a>Förfallotid och förnyelse
+
+Incitamentsregistreringen upphör att gälla i slutet av räkenskapsåret. Så länge du är en berättigad partner med ett aktivt avtal kommer Microsoft dock att vidarebefordra din incitamentsregistrering till nästa räkenskapsår. Du behöver inte vidta några åtgärder, så länge utbetalnings- och skatteinformationen som krävs för incitamentprogrammet är slutförd enligt reglerna för incitamentprogrammet.
 
 ## <a name="next-steps"></a>Nästa steg
 
 - [Fastställa behörighet för program](incentives-determined-your-program-eligibility.md)
+- [Skapa och hantera dina utbetalnings- och skatteprofiler](incentives-create-and-manage-your-payout-and-tax-profiles.md)
