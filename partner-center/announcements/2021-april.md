@@ -1,6 +1,6 @@
 ---
-title: April 2021-meddelanden
-description: April 2021-meddelanden för Microsoft Partner Center, inklusive nya funktioner, kampanjer, erbjudanden, marknader eller ändringar av befintliga erbjudanden.
+title: Meddelanden april 2021
+description: April 2021-meddelanden för Microsoft Partner Center, inklusive nya funktioner, kampanjer, erbjudanden, marknader eller ändringar i befintliga erbjudanden.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -10,54 +10,148 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/08/2021
-ms.openlocfilehash: 441d41e6212399657124b6116e1f2c05ce734211
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.date: 04/16/2021
+ms.openlocfilehash: 68635b4c02ddbbcaa6cbf02166a7cf123aaf2c6e
+ms.sourcegitcommit: 4212cd168f3a9a73f6ed05109b0eecb96827ec04
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266528"
+ms.lasthandoff: 04/17/2021
+ms.locfileid: "107584175"
 ---
-# <a name="april-2021-announcements"></a>April 2021-meddelanden
+# <a name="april-2021-announcements"></a>Meddelanden april 2021
 
-Den här sidan innehåller meddelandena för Microsoft Partner Center för april 2021.
+Den här sidan innehåller meddelanden för Microsoft Partner Center för april 2021.
 
 ________________
-## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="4"></a>Påminnelse: utfasning av Erhåll kvalificering den 4 maj 2021
+## <a name="now-live-global-promo-readiness-guide"></a><a name="6"></a>Nu live: Guide för global kampanjberedskap
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-04-16
+- Funktioner
+
+### <a name="summary"></a>Sammanfattning
+
+Launch Readiness har publicerat en ny [global guide för kampanjberedskap](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) i resursgalleriet för driftberedskap. Den här guiden innehåller en samlad vy över alla aktiva [globala kampanjer.](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/)
+
+### <a name="impacted-audience"></a>Målgruppen som påverkas
+
+Alla partner för volymlicensiering (VL), Dynamics Price List (DPL) Molnlösningsleverantör (CSP)
+
+### <a name="details"></a>Information
+
+Microsoft-partner har delat med oss om behovet av att tillhandahålla en samlad vy över alla globala kampanjer med kompletterande information. Du ville ha den här konsoliderade guiden för att hjälpa dig att använda kampanjer med tillförsikt att all tillgänglig information är lättillgänglig på en central och praktisk plats.
+
+Från och med april 2021 uppdaterar Microsoft den här guiden månadsvis, och den kommer att vara tillgänglig i en dedikerad samling global kampanjberedskapsguide i resursgalleriet för driftberedskap.
+
+Länkar till den här guiden kommer också att ingå i följande samlingar:
+
+- [Starta kalendersamlingen](https://partner.microsoft.com/resources/collection/csp-announcement-calendar#/), som ger en centraliserad vy över kommande ändringar och uppskjutningar.
+
+- [Community-samlingar](https://partner.microsoft.com/resources/collection/april-2021-csp-partner-community-content#/), som innehåller stödmaterial för våra månatliga partnersamtal, med fokus på kommande ändringar och aktuella ämnen av drifts intresse.
+
+- [Partnerns nyhetsbrev,](https://partner.microsoft.com/resources/collection/csp-monthly-update#/)till exempel månadsuppdatering för CSP
+
+Som en månatlig påminnelse kommer vi också att publicera ett Partnercenter-meddelande med varje nytt ärende i guiden för global kampanjberedskap.
+
+### <a name="next-steps"></a>Nästa steg
+
+I början av varje månad hittar du den senaste guiden för global [kampanjberedskap](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) i [resursgalleriet för driftberedskap.](https://partner.microsoft.com/resources)
+
+Dela den här informationen med lämpliga kontakter i dina organisationer och berätta för oss hur användbar guiden är genom "Var den här sidan användbar?" i slutet av varje sida.
+
+________________
+## <a name="april-cloud-solution-provider-csp-community-update-and-reminders"></a><a name="5"></a>Community-Molnlösningsleverantör för April Molnlösningsleverantör (CSP) och påminnelser
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-04-16
+- Community-| Inbjudningar och påminnelser
+
+### <a name="summary"></a>Sammanfattning
+
+CSP-communityresurser är tillgängliga på begäran och uppdateras varje månad för att hålla dig informerad och förberedd för ändringar i CSP-programmet.
+
+### <a name="impacted-audience"></a>Målgrupp som påverkas
+
+CSP-direktfaktureringspartner och indirekta leverantörer
+
+### <a name="details"></a>Information
+
+Den här månaden innehåller resurserna följande viktiga ämnen:
+
+- [Uppdatera till utveckling av CSP-program och ändringar i Open License-programmet](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/)
+
+- [Ändringar av CSP-kunders registreringskrav i vissa regioner](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/)
+
+- [Nytt format för den nya PDF-fakturan för handel i CSP-programmet](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/)
+
+I [CSP-communitysamlingen](https://partner.microsoft.com/resources/collection/april-2021-csp-partner-community-content#/)hittar du:
+
+- Det nedladdningsbara [nyhetsbrevet CSP Monthly Update](https://partner.microsoft.com/resources/detail/csp-monthly-update-april-2021-global), som sammanställer de senaste CSP-meddelandena, uppdateringarna, händelserna och påminnelserna i ett lättläst dokument.
+
+- [CSP-meddelande kalender](https://partner.microsoft.com/resources/detail/csp-announcement-calendar-april-2021), som ger en tidslinjevy över kommande ändringar som påverkar programmet.
+
+- Den nya [kalendern för produktlansering,](https://partner.microsoft.com/resources/detail/product-launch-calendar-april-pdf)där du kan se kommande produktlanseringar och erbjudanden.
+
+- [CSP startar uppdateringsresurser](https://partner.microsoft.com/resources/collection/april-2021-csp-launch-topics-collection#/) med lätt att använda innehåll om viktiga operativa ändringar.
+
+- [Uppdaterare och påminnelser om](https://partner.microsoft.com/resources/detail/csp-april-2021-refreshers-and-reminders-pdf) viktiga CSP-ämnen som tar emot intresse och frågor.
+
+#### <a name="csp-community-call-qas"></a>CSP Community Call Q&As
+
+Community Call Q&As are available to help you with questions related to upcoming changes. Registrera dig nu för CSP Community Call Q&As som äger rum i april, maj och juni. Dessa fokuserar på de senaste uppskjutningar, viktiga uppdateringsuppdateringar och påminnelser.
+
+[Registrera dig här.](https://globalpbocomm.eventbuilder.com/GlobalCSP)
+
+### <a name="next-steps"></a>Nästa steg
+
+Granska communityresurserna och registrera dig för Community Call Q&A.
+
+För att säkerställa att du får ut mesta av Community Call Q&A granskar du communityinnehållet på begäran och skickar dina frågor upp till 48 timmar före samtalet.
+
+### <a name="questions"></a>Har du några frågor?
+
+Det månatliga CSP Community Call Q&A är den bästa platsen för frågor som rör ändringar i CSP-programmet. Varje månad granskar du materialet och skickar dina frågor i förväg så att vi kan ägna sessionen åt de ämnen som är viktigast för dig.
+
+Kontakta supporten för [mer information.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)
+
+________________
+## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="4"></a>Påminnelse: Utfasning av GET-kvalificering den 4 maj 2021
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2021-04-09
 - Funktioner
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Partner som säljer akademiska, ideella och offentliga community-moln (GCC) erbjuder via Cloud Solution Provider-programmet med partner Center API
+Partner som säljer erbjudanden för Academic, Nonprofit och Government Community Cloud (GCC) via Molnlösningsleverantör-programmet med partnercenter-API:et
 
 ### <a name="details"></a>Information
 
-Det här meddelandet är en uppföljning av de förbättringar i Partner Center som [lanseras i december](https://docs.microsoft.com/partner-center/announcements/2020-december#1). Som en del av den här versionen har nya API: er för GET och POST-kvalifikationer distribuerats och den befintliga ERHÅLLna kvalificeringen kommer därför att dras tillbaka den 4 maj 2021. Vid den tiden måste du ha övergått till att använda de nya POST Partner Center-API: erna i köp utbildnings erbjudanden, och det nya erbjudandet om att köpa för närvarande icke-vinst-och GCC-erbjudanden.
+Det här meddelandet är en uppföljning av partnercenterförbättringarna [som släpptes i december](https://docs.microsoft.com/partner-center/announcements/2020-december#1). Som en del av den versionen distribuerades nya GET- och POST-kvalificerings-API:er och därför kommer den befintliga GET-kvalificeringen att dras tillbaka den 4 maj 2021. Då måste du ha gått över till att använda de nya API:erna för POST Partner Center i inköpserbjudanden för Education och det nya GET-api:et för kvalificering för att köpa förhandskvalificerade erbjudanden för ideella organisationer och GCC.
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Uppdatera till de nya API: erna för en lyckad och forts över gång.
+- Uppdatera till de nya API:erna för en lyckad övergång i rätt tid.
 
-- Granska de nya API: erna för partner Center i API: er för drift beredskap: [partner Center utbildning av kund validerings processer](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
+- Granska de nya partnercenter-API-ändringarna och guiden i resurserna för driftberedskap: Förbättringar av [kundvalideringsprocessen i PartnerCenter Education.](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
 
-- Dela den här informationen med lämpliga team i din organisation och med dina åter försäljare för att hjälpa dem att förbereda för dessa ändringar.
+- Dela den här informationen med lämpliga team i din organisation och med dina återförsäljare för att hjälpa dem att förbereda sig för dessa ändringar.
 
 ### <a name="questions"></a>Har du några frågor?
 
-Kontakta [supporten för partner Center](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)om du har frågor som rör detta meddelande.
+Om du har frågor om det här meddelandet kontaktar du [supporten för Partnercenter.](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)
 
 ### <a name="change-log"></a>Ändringslogg
 
-- April: påminnelse om kommande utfasning av Erhåll kvalificering 
-- Februari: uppdaterade tids linjer för utfasning av GET & placera kvalifikationer
-- Januari: påminnelse om kommande utfasningar av GET & placera kvalifikationer
+- April: Påminnelse om kommande utfasning av GET-kvalificering 
+- Februari: Uppdaterade tidslinjer för utfasning av GET & PUT-kvalificeringar
+- Januari: Påminnelse om kommande utfasningar av GET & PUT-kvalificeringar
 
 ________________
-## <a name="new-format-for-the-new-commerce-pdf-invoice-in-csp"></a><a name="3"></a>Nytt format för den nya Commerce PDF-fakturan i CSP
+## <a name="new-format-for-the-new-commerce-pdf-invoice-in-csp"></a><a name="3"></a>Nytt format för den nya PDF-fakturan för handel i CSP
 
 ### <a name="categories"></a>Kategorier
 
@@ -66,44 +160,44 @@ ________________
 
 ### <a name="summary"></a>Sammanfattning
 
-Microsoft presenterar ett nytt format för den nya Commerce PDF-fakturan i Cloud Solution Provider (CSP)-programmet för att Visa fakturerings information efter produkt information i stället för SKU-beskrivningen.
+Microsoft introducerar ett nytt format för den nya PDF-fakturan för handel i programmet Molnlösningsleverantör (CSP) för att visa faktureringsinformation efter produktinformation i stället för SKU-beskrivning.
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Partner som agerar via CSP-programmet
+Partner som gör en överträdelse via CSP-programmet
 
 ### <a name="details"></a>Information
 
-Från maj 2021 kommer Microsoft att introducera ett nytt format för den nya Commerce PDF-fakturan i CSP-programmet för att Visa fakturerings information efter produkt information i stället för SKU-beskrivningen. Med den nya uppdateringen aggregerar vi rad artiklarna efter produkt typ och visar varje produkt på en enskild rad.
+Från och med maj 2021 introducerar Microsoft ett nytt format för den nya PDF-fakturan för handel i CSP-programmet för att visa faktureringsinformation efter produktinformation i stället för SKU-beskrivning. Med den här nya uppdateringen kommer vi att aggregera radobjekten efter produkttyp samtidigt som vi visar varje produkt på en enskild rad.
 
-Partner kommer att notera att den här ändringen kommer att gälla för fakturerings perioden mellan den 1 april 2021 och den 30 april 2021. De påverkade erbjudandena är Microsoft Azure reserverad instans, Azure-prenumerationer (Azure-plan) och Marketplace.
+Partner kommer att märka att ändringen börjar gälla på fakturan för maj för faktureringsperioden mellan den 1 april 2021 och den 30 april 2021. De berörda erbjudandena är Microsoft Azure Reserverad instans, Azure-prenumerationer (Azure-plan) och Marketplace.
 
-Alla kredit korts begär Anden som görs när faktura formatet har uppdaterats kommer att genereras i det nya formatet.
+Eventuella begäranden om kreditrefakturering som görs efter att fakturaformatet har uppdaterats genereras i det nya formatet.
 
-#### <a name="partner-benefits"></a>Partner förmåner
+#### <a name="partner-benefits"></a>Partnerförmåner
 
-Den här uppdateringen ger följande förbättringar av fakturerings upplevelsen för partner:
+Den här uppdateringen kommer att erbjuda följande förbättringar av faktureringsupplevelsen för partner:
 
-- Minskat faktura storlek och behåller viktiga data
+- Minskad fakturastorlek samtidigt som kritiska data bevaras
 
-- Justering av formatet för bransch standarder för kompakta och användarvänliga fakturor 
+- Anpassning av formatet till branschstandarderna för kompakta och användarvänliga fakturor 
 
-Följande element kommer inte att påverkas:
+Följande element påverkas inte:
 
-- Sidan fakturerings sammanfattning på PDF-fakturan
+- Sidan med faktureringssammanfattning i PDF-filen med faktura
 
-- Befintliga fakturerings-API: er
+- Befintliga fakturerings-API:er
 
-- Avstämnings filer (rekognoseringar-filer kan användas för att hämta detaljerade data.) 
+- Avstämningsfiler (rekognoseringsfiler kan användas för att hämta detaljerade data.) 
 
-- Användnings-och licensbaserade avgifts fakturor
+- Fakturor för användnings- och licensbaserade avgifter
 
 ### <a name="next-steps"></a>Nästa steg
 
-Läs informationen om det här avsnittet i [resurs galleriet för drift beredskap](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/) på webbplatsen för Microsoft-partner. Mer information om fakturerings-och moms ämnen, inklusive fakturerings resurser, fakturor, CSP-fakturering och skatter, finns i [fakturerings avsnittet](https://docs.microsoft.com/partner-center/billing) i Partner Center.
+Granska informationen om det här avsnittet i [resursgalleriet för driftberedskap](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/) på Microsofts partnerwebbplats. Mer information om fakturerings- och skatteämnen som faktureringsresurser, fakturor, CSP-fakturering och skatter finns i [avsnittet Fakturering](https://docs.microsoft.com/partner-center/billing) i Partnercenter.
 
 ________________
-## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="2"></a>Ändringar i CSP-kundernas (Cloud Solution Provider) krav för kund onboarding
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="2"></a>Ändringar i CSP Molnlösningsleverantör(CSP) för kund-onboarding
 
 ### <a name="categories"></a>Kategorier
 
@@ -112,17 +206,17 @@ ________________
 
 ### <a name="summary"></a>Sammanfattning
 
-Som en del av vårt åtagande att hjälpa partner och kunder att köra verksamheten baserat på förtroende kommer vi att begära ytterligare kund information, från och med den 25 mars 2021.
+Som en del av vårt åtagande att hjälpa partner och kunder att driva sin verksamhet baserat på förtroende begär vi ytterligare kundinformation från och med den 25 mars 2021.
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
-CSP direkt fakturerings partner och indirekta leverantörer som har nya eller befintliga kunder i de länder som anges i nästa avsnitt
+CSP:s direktfaktureringspartner och indirekta leverantörer som har nya eller befintliga kunder i de länder som anges i nästa avsnitt
 
 ### <a name="details"></a>Information
 
-Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för kund validering för att agera kund prenumerationer i CSP-programmet. Den 25 mars 2021 kommer vi att introduktion till API: er och användar gränssnitts förbättringar i Partner Center som påverkar partner som uppfyller båda följande kriterier:
+Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för kundvalidering för att omvandla kundprenumerationer i CSP-programmet. Den 25 mars 2021 introducerar vi förbättringar av Partner Center API och användargränssnitt som påverkar partner som uppfyller båda följande kriterier:
 
-- Partnern har en direkt fakturerings relation med Microsoft (vilket innebär att partnern antingen är en direkt fakturerings partner eller en indirekt Provider).
+- Partnern har en direkt faktureringsrelation med Microsoft (vilket innebär att partnern antingen är en partner för direktfakturering eller en indirekt leverantör).
 
 - Partnern gör affärer med nya eller befintliga kunder i följande länder:
 
@@ -140,11 +234,11 @@ Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompat
     - Förenade Arabemiraten
     - Venezuela
 
-Partner som uppfyller kriterierna måste skicka in en kunds företags registrerings-ID (även kallat kundens organisations INN) och telefonnummer när nästa uppdatering eller skapar en prenumeration för kunden. Dessa partner kan också ange ett mellannamn för kunden (valfritt).
+Partner som uppfyller villkoren måste skicka en kunds företagsregistrerings-ID (kallas även kundens organisation INN) och telefonnummer nästa gång de uppdaterar eller skapar en prenumeration för kunden. Dessa partner kan också ange ett mellannamn för kunden (valfritt).
 
-Observera att när du lägger till ditt företags registrerings-ID bör du använda företagets skatte-ID och inte kundens personliga ID.
+Observera att när du lägger till ditt företagsregistrerings-ID bör du använda ditt företags skatte-ID och inte kundens personliga ID.
 
-Partner som gör affärer med nya eller befintliga kunder i följande länder har redan publicerats med en tidigare version i november 2020.
+Partner som gör affärer med nya eller befintliga kunder i följande länder har redan introducerats med en tidigare version i november 2020.
 
 - Armenien
 - Azerbajdzjan
@@ -158,22 +252,22 @@ Partner som gör affärer med nya eller befintliga kunder i följande länder ha
 - Ukraina
 - Uzbekistan
 
-Partner med kunder i resten av världen kommer att ha möjlighet i slutet av mars 2021 att ange företagets registrerings-ID, telefonnummer och mellan namn för kunder som valfri information.
+Partner med kunder i resten av världen kan i slutet av mars 2021 ange företagets registrerings-ID, telefonnummer och mellannamn för kunder som valfri information.
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Läs igenom den tekniska dokumentationen och vanliga frågor och svar i den dedikerade [partner samlingen](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) för mer detaljerad vägledning.
-- Förbered för att införliva ändringarna med partner Center API och webb användar upplevelsen. API/SDK: er kommer att vara tillgängliga för testning.
-- Se till att skicka in ytterligare data när du registrerar nya kunder eller ändrar befintlig kund information.
-- Om du använder en lösning för en kontroll panels leverantör (CPV) bör du kontakta din CPV.
+- Mer detaljerad vägledning finns i den tekniska dokumentationen och vanliga frågor [och svar i](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) den dedikerade partnersamlingen.
+- Förbered för att införliva ändringarna med partnercenter-API:et och webbanvändarupplevelsen. API/SDK:er kommer att vara tillgängliga för testning.
+- Se till att skicka in ytterligare data när du registrera nya kunder eller ändrar befintlig kundinformation.
+- Om du använder en CPV-lösning (Kontrollpanelen) bör du kontakta din CPV.
 
 ### <a name="questions"></a>Har du några frågor?
 
-Kontakta din skatte rådgivare eller ditt lokala skatte kontor om du har frågor som rör företagets registrerings-ID (kallas även INN eller tenn). Microsoft kan inte ge vägledning om skatte frågor.
+Kontakta skatterådgivaren eller det lokala skattekontoret om du har frågor som rör id:t för företagsregistrering (kallas även INN eller TIN). Microsoft kan inte ge vägledning om skattefrågor.
 
-Om du behöver stöd för dina åtgärder med Microsoft öppnar du en [tjänstbegäran](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+Om du behöver support för dina åtgärder med Microsoft öppnar du en [tjänstbegäran.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
 
-## <a name="view-this-months-product-launches-and-offers"></a><a name="1"></a>Visa den här månadens produkt lanseringar och erbjudanden
+## <a name="view-this-months-product-launches-and-offers"></a><a name="1"></a>Visa den här månadens produktlanseringar och erbjudanden
 
 ### <a name="categories"></a>Kategorier
 
@@ -182,20 +276,20 @@ Om du behöver stöd för dina åtgärder med Microsoft öppnar du en [tjänstbe
  
 ### <a name="summary"></a>Sammanfattning
 
-Produkt lanserings kalendern från april 2021 har nu publicerats.
+Produktlanserings kalender för april 2021 publiceras nu.
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Alla partner som går via program varan för Cloud Solution Provider (CSP)
+Alla partner som gör en Molnlösningsleverantör (CSP)
 
 ### <a name="details"></a>Information
 
-[Produkt lanserings kalendern](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) från april 2021 är nu tillgänglig i resurs galleriet för drift beredskap. Visa kommande produkt lanseringar och erbjudanden här.
+Kalendern för produktlansering i [april](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) 2021 är nu tillgänglig i resursgalleriet för driftberedskap. Visa kommande produktlanseringar och erbjudanden här.
 
 ### <a name="next-steps"></a>Nästa steg
 
-Granska [produkt lanserings kalendern](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/)och dela informationen med lämpliga intressenter i din organisation.  
+Granska kalendern [för produktlansering](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/)och dela informationen med lämpliga intressenter i din organisation.  
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har fler frågor om dessa erbjudanden kan du kontrol lera dina relevanta Yammer-communities.
+Om du vill ha fler frågor om dessa erbjudanden kan du läsa dina relevanta Yammer-communities.
