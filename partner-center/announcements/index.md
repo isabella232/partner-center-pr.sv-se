@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/19/2021
-ms.openlocfilehash: b96832fe4450cadd2da83e4cf9697f1f16bc81a3
-ms.sourcegitcommit: 8dec892d3ff82c4d4753082a603f3b7b4c13c248
+ms.date: 04/20/2021
+ms.openlocfilehash: 47723bd4b2deed703e224f7151a1d85a478aa8a7
+ms.sourcegitcommit: 0488a6cca02dafbfc84211643035212296df9689
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "107728954"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "107823375"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -22,6 +22,7 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 
 |**Kategori**|**Meddelanden april 2021**|**Meddelande**|
 |---------|:---------|:---------|
+|Funktioner|[Molnlösningsleverantör princip för programvarureturperiod (CSP) och förfallomeddelande om nedladdningslänk](2021-april.md#8)|21 april|
 |Utveckla din verksamhet|[Open Licensing Program: Övergångsåterförsäljare till Molnlösningsleverantör (CSP)-programmet](2021-april.md#7)|Den 19 april|
 |Funktioner|[Nu live: Guide för global kampanjberedskap](2021-april.md#6)|Den 16 april|
 |Community: Inbjudningar och påminnelser|[Community-Molnlösningsleverantör för April Molnlösningsleverantör (CSP) och påminnelser](2021-april.md#5)|Den 16 april|
@@ -40,7 +41,7 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 |Funktioner|[Power BI Premium för namngivning och kravuppdatering](2021-march.md#11)|18 mars|
 |Erbjudanden/marknader|[Prisuppdateringar mars för Microsoft 365 F3](2021-march.md#10)|16 mars|
 |Skala för & effektivitet|[Uppdatera ett juridiskt företagsnamn via Partnercenter](2021-march.md#9)|16 mars|
-|Funktioner|[Uppdatering av Molnlösningsleverantör programutveckling (CSP) och ändringar i Open License-programmet](2021-march.md#8)|Den 15 mars|
+|Funktioner|[Uppdatera till Molnlösningsleverantör programutveckling (CSP) och ändringar i Open License-programmet](2021-march.md#8)|15 mars|
 |Utveckla din verksamhet|[Uppdatera till ett tidigare meddelande: Premium Assessments, ett tillägg till Compliance Manager](2021-march.md#7)|Den 15 mars|
 |Funktioner|[Migrera dina lösningar från EN kommersiell partner (OCP) till Microsofts kommersiella marknadsplats](2021-march.md#6)|Den 12 mars|
 |Funktioner|[Utöka den nya handelsupplevelsen i programmet Molnlösningsleverantör (CSP) för Azure till Ryssland](2021-march.md#5)|Den 10 mars|
@@ -58,11 +59,11 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 |Utveckla din verksamhet|[Påminnelse: Introduktion till API-begränsning till partner som anropar API:er för Partnercenter](2021-february.md#8)|16 februari|
 |Funktioner|[Introduktion till Microsoft Viva-ämnen](2021-february.md#7)|12 februari|
 |Erbjudanden/marknader|[Microsoft 365 E3-prisändringar kommer för mars 2021](2021-february.md#6)|11 februari|
-|Erbjudanden/marknader|[Prislistan för licensbaserad förhandsversion har uppdaterats för norska kronor](2021-february.md#5)|10 februari|
+|Erbjudanden/marknader|[Den licensbaserade prislistan för förhandsversionen har uppdaterats för norska kronor](2021-february.md#5)|10 februari|
 |Funktioner|[Premium assessments, ett tillägg till Compliance Manager, kommer den 1 mars 2021](2021-february.md#4)|5 februari|
 |Funktioner|[Svara på COVID-19: Microsoft Partner Network uppdatering](2021-february.md#3)|4 februari|
 |Funktioner|[Nya uppdateringar av referensmodulen i Partnercenter](2021-february.md#2)|4 februari|
-|Modern arbetsplats|[Utfasning och tillbakadragning av PUT-kvalificerings-API:er för kundvalideringsprocessen för Education den 25 februari 2021 och GET-kvalificering den 4 maj 2021](2021-february.md#1)|4 februari|
+|Modern arbetsplats|[Utfasning och tillbakadragning av PUT-kvalificerings-API:er för valideringsprocessen för Education-kunder senast den 25 februari 2021 och GET-kvalificering den 4 maj 2021](2021-february.md#1)|4 februari|
 | **Kategori** | **Meddelanden januari 2021** | **Meddelande** |
 |Modern arbetsplats|[Fas 1 nu live: EU/EFTA & Ändring av partnerfaktureringsvaluta för nya handelserbjudanden](2021-january.md#15)|Den 28 januari|
 |Modern arbetsplats|[Ändringar i Molnlösningsleverantör-kunders krav för onboarding](2021-january.md#14)|Den 28 januari|
