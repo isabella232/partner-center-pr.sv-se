@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/20/2021
-ms.openlocfilehash: 47723bd4b2deed703e224f7151a1d85a478aa8a7
-ms.sourcegitcommit: 0488a6cca02dafbfc84211643035212296df9689
+ms.date: 04/22/2021
+ms.openlocfilehash: 4e5faf1467ea12aac8f4dfaa4c35455159f64632
+ms.sourcegitcommit: 1e1aea329fdeef526e5273d2a4d8f5ec767ac49c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "107823375"
+ms.lasthandoff: 04/23/2021
+ms.locfileid: "107917624"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -34,14 +34,14 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 |Funktioner|[Uppdaterat VALIDERINGs-API för kundadresser för CSP är nu tillgängligt för testning](2021-march.md#18)|Den 31 mars|
 |Erbjudanden/Modern Arbetsplats|[Ny upplevelse för Administrationscenter för Exchange (EAC)](2021-march.md#17)|Den 29 mars|
 |Erbjudanden/Modern Arbetsplats|[Microsoft Operations: Introduktion till kalendern för produktlansering](2021-march.md#16)|25 mars|
-|Funktioner|[Ändringar av CSP-krav för kund-onboarding](2021-march.md#15)|25 mars|
+|Funktioner|[Ändringar av krav för CSP-kund-onboarding](2021-march.md#15)|25 mars|
 |Erbjudanden/marknader|[Korrigeringar som gjorts för 1 mars 2021 permanent programvaruprislista](2021-march.md#14)|23 mars|
 |Funktioner|[SDK-version på .NET Standard (v1.17.0)](2021-march.md#13)|23 mars|
 |Funktioner|[CSP Commercial Marketplace-erbjudande och FY21 CSP-incitament för berättigade erbjudanden](2021-march.md#12)|18 mars|
-|Funktioner|[Power BI Premium för namngivning och kravuppdatering](2021-march.md#11)|18 mars|
+|Funktioner|[Power BI Premium namn och kravuppdatering](2021-march.md#11)|18 mars|
 |Erbjudanden/marknader|[Prisuppdateringar mars för Microsoft 365 F3](2021-march.md#10)|16 mars|
-|Skala för & effektivitet|[Uppdatera ett juridiskt företagsnamn via Partnercenter](2021-march.md#9)|16 mars|
-|Funktioner|[Uppdatera till Molnlösningsleverantör programutveckling (CSP) och ändringar i Open License-programmet](2021-march.md#8)|15 mars|
+|Skala & enhetseffektivitet|[Uppdatera ett juridiskt företagsnamn via Partnercenter](2021-march.md#9)|16 mars|
+|Funktioner|[Uppdatering av Molnlösningsleverantör programutveckling (CSP) och ändringar i Open License-programmet](2021-march.md#8)|Den 15 mars|
 |Utveckla din verksamhet|[Uppdatera till ett tidigare meddelande: Premium Assessments, ett tillägg till Compliance Manager](2021-march.md#7)|Den 15 mars|
 |Funktioner|[Migrera dina lösningar från EN kommersiell partner (OCP) till Microsofts kommersiella marknadsplats](2021-march.md#6)|Den 12 mars|
 |Funktioner|[Utöka den nya handelsupplevelsen i programmet Molnlösningsleverantör (CSP) för Azure till Ryssland](2021-march.md#5)|Den 10 mars|
@@ -59,7 +59,7 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 |Utveckla din verksamhet|[Påminnelse: Introduktion till API-begränsning till partner som anropar API:er för Partnercenter](2021-february.md#8)|16 februari|
 |Funktioner|[Introduktion till Microsoft Viva-ämnen](2021-february.md#7)|12 februari|
 |Erbjudanden/marknader|[Microsoft 365 E3-prisändringar kommer för mars 2021](2021-february.md#6)|11 februari|
-|Erbjudanden/marknader|[Den licensbaserade prislistan för förhandsversionen har uppdaterats för norska kronor](2021-february.md#5)|10 februari|
+|Erbjudanden/marknader|[Prislistan för licensbaserad förhandsversion har uppdaterats för norska kronor](2021-february.md#5)|10 februari|
 |Funktioner|[Premium assessments, ett tillägg till Compliance Manager, kommer den 1 mars 2021](2021-february.md#4)|5 februari|
 |Funktioner|[Svara på COVID-19: Microsoft Partner Network uppdatering](2021-february.md#3)|4 februari|
 |Funktioner|[Nya uppdateringar av referensmodulen i Partnercenter](2021-february.md#2)|4 februari|
@@ -76,7 +76,7 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 |Funktioner|[DocuSign-migrering till Adobe Sign för partner under Microsoft-partneravtalet (MPA)](2021-january.md#7)|15 januari|
 |Erbjudanden/marknader|[Kommersiell prisuppdatering för norska kronor](2021-january.md#6)|14 januari|
 |Erbjudanden/marknader|[Kommersiell prisuppdatering för INR](2021-january.md#5)|8 januari|
-|Erbjudanden/marknader|[Uppdateringar för samtalsplan och telefonsystem för 1 februari 2021](2021-january.md#4)|8 januari|
+|Erbjudanden/marknader|[Samtalsplan- och telefonsystemuppdateringar för 1 februari 2021](2021-january.md#4)|8 januari|
 |Erbjudanden/marknader|[Uppdateringar för licensbaserad prislista för januari 2021](2021-january.md#3)|8 januari|
 |Funktioner|[Utfasning och tillbakadragning av befintliga API:er för GET-och PUT-kvalificering för Educations kundvalideringsprocess i slutet av februari 2021](2021-january.md#2)|5 januari|
 |Erbjudanden/marknader|[Dynamics 365-erbjudanden i februari 2021](2021-january.md#1)|4 januari|
