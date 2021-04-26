@@ -1,6 +1,6 @@
 ---
 title: Migrera vissa Skype för företag-prenumerationer
-description: Lär dig hur och när du ska migrera vissa kunder med att gå ut prenumerationer på Skype för företag Online abonnemang 1 till nya Office 365-versioner.
+description: Lär dig hur och när du ska migrera vissa kunder med utgående Prenumerationer på Skype för företag – Online, abonnemang 1 till nya Office 365-versioner.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,70 +9,79 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/03/2020
-ms.openlocfilehash: 67c1689136892443937748b6cc9e31e4f0ac9983
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: f395987ef647fa6f7ed264c6476ddae419eabc34
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028425"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002866"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrera Skype för företag – Online, plan 1-prenumerationer till senare Office 365-versioner
 
-Abonnemang 1 för Skype för företag – Online kommer att dras tillbaka den 1 augusti 2018. Efter det datumet kan kunder inte längre köpa nya prenumerationer på Skype för företag, och befintliga prenumerationer förnyas inte automatiskt när de går ut och kommer inte att tillhandahålla ett förnyelse alternativ. På prenumerationens informations sida har prenumerations statusen för Skype för Business Online abonnemang 1 ändrats till "upphör att gälla [datum]" från "Auto renyheterna på [Date]".  
+**Lämpliga roller**
 
-För att säkerställa kontinuitet för kunderna bör du gå över till kunder med att gå ut för prenumerationer på Skype för företag Online abonnemang 1 till ett SKU-alternativ som stöds, som anges nedan. Vi rekommenderar att du flyttar kunder till nya prenumerationer före prenumerationens årliga slutdatum för att undvika eventuella avbrott i tjänsten för kunderna. 
+- Försäljningsagent
+
+Skype för företag – Online, abonnemang 1 dras tillbaka från och med 1 augusti 2018. Efter det datumet kan kunder inte längre köpa nya Prenumerationer i Skype för företag, abonnemang 1, och befintliga prenumerationer förnyas inte automatiskt när de upphör att gälla och kommer inte att tillhandahålla ett förnyelsealternativ. På prenumerationens informationssida har prenumerationsstatusen för Skype för företag – Online, abonnemang 1 ändrats till "Upphör [datum]" från "Förnyas automatiskt [datum]".  
+
+För att säkerställa kontinuitet för kunder bör du ge kunderna möjlighet att gå ut prenumerationer på Skype för företag – Online, abonnemang 1 till ett SKU-alternativ som stöds, som anges nedan. Vi rekommenderar att du flyttar kunder till nya prenumerationer före prenumerationens årliga slutdatum för att undvika eventuella tjänstavbrott för kunder. 
 
 >[!NOTE]
->Både Skype for Business Online abonnemang 1 är kommersiellt och myndighets SKU: er dras tillbaka.
+>Både kommersiella SKU:er och myndighets-SKU:er för Skype för företag – Online, abonnemang 1 dras tillbaka.
 
-Om du använder API: et (topp-eller partner Center) hittar du prenumerationer som upphör att gälla genom att utvärdera slutdatumet för prenumerationen tillsammans med egenskapen Auto renew = false. Prenumeration 1 på Skype för företag – Online abonnemang 1 kommer att ställas in på automatisk förnyelse = falskt den 1 september 2018. Du kan när som helst flytta kunder till en ny plan. 
+Om du använder API:et (antingen PARTNERS eller Partnercenter) hittar du prenumerationer som går ut genom att utvärdera slutdatumet för prenumerationen tillsammans med egenskapen för automatisk förnyelse = Falskt. Skype för företag – Online, abonnemang 1 kommer att ställas in på förnya automatiskt = Falskt den 1 september 2018. Du kan när som helst flytta kunder till en ny plan. 
 
-## <a name="skype-for-business-online-plan-1-replacement-plans"></a>Ersättnings planer för Skype för företag – Online abonnemang 1
+## <a name="skype-for-business-online-plan-1-replacement-plans"></a>Ersättningsplaner för Skype för företag – Online, abonnemang 1
 
-Med de nya planerna kan dina kunder dra nytta av nya funktioner och funktioner i Office 365. Pris information finns i matrisen pris lista och erbjudande lista i Partner Center. 
+Med de nya planerna kan dina kunder dra nytta av nyare funktioner i Office 365. Prisinformation finns i matrisen för prislistan och erbjudandelistan i Partnercenter. 
 
 - Alternativ 1: Office 365 Enterprise F1
 - Alternativ 2: Microsoft 365 Enterprise F1
-- Alternativ 3: andra Office 365-planer
+- Alternativ 3: Andra Office 365-abonnemang
 
 |**Funktion**    |**Alternativ 1**   |**Alternativ 2**   |**Alternativ 3**   |
 |:-----------------|:-----------------|:-------------|:------------|
-|Hämta alla funktioner som ingår i Skype för företag – Online abonnemang 1|Ja   |Ja   |Ja   |
-|Snabb meddelanden och närvaro |Ja   |Ja   |Ja   |
-|Peer-to-peer-ljud och video över IP|Ja   |Ja   |Ja   
-|Anslut till möten som en autentiserad användare| Ja   |Ja   |Ja   |
+|Hämta alla funktioner som ingår i Skype för företag – Online, abonnemang 1|Ja   |Ja   |Ja   |
+|Snabbmeddelanden och närvaro |Ja   |Ja   |Ja   |
+|Peer-to-peer-ljud och video via IP|Ja   |Ja   |Ja   
+|Ansluta till möten som en autentiserad användare| Ja   |Ja   |Ja   |
 
-## <a name="transition-customers-to-new-product-plans"></a>Överföra kunder till nya produkt planer
+## <a name="transition-customers-to-new-product-plans"></a>Övergå kunder till nya produktplaner
 
-Microsoft erbjuder kontinuerligt nya produkter och tjänster till våra partner. I dessa fall kan du behöva uppgradera kunder till nya tjänster eller migrera sina prenumerationer från SKU: er som slutligen kommer att stängas av. Migrering av kunder från tillbakadragna SKU: er till nyare kräver följande steg:
+Microsoft erbjuder kontinuerligt nya produkter och tjänster till våra partner. I dessa fall kan du behöva uppgradera kunder till nya tjänster eller migrera sina prenumerationer från SKU:er som så småningom kommer att stängas av. Migrering av kunder från tillbakadragna SKU:er till nyare kräver följande steg:
 
-- Köp den nya prenumerationen
-- Tilldela om aktuella användar licenser
-- Avbryt gammal prenumeration
+- Köpa den nya prenumerationen
+- Tilldela om aktuella användarlicenser
+- Avbryta gammal prenumeration
 
 ### <a name="migrate-your-customers-to-new-plans"></a>Migrera dina kunder till nya planer
 
-1. Om du vill köpa den nya prenumerationen väljer du **kunder** från **menyn Partner Center** och väljer kunden som du vill flytta. Välj sedan **Lägg till prenumerationer**.
+1. Om du vill köpa den nya prenumerationen går du till **Menyn i Partnercenter** och väljer **Kunder,** väljer den kund som du vill flytta och väljer sedan **Lägg till prenumerationer.**
 
-2. Välj den prenumeration som du vill köpa från katalogen (i det här fallet ett av alternativen ovan), ange antalet licenser och välj sedan **Skicka**. 
+2. Välj den prenumeration som du vill köpa från katalogen (i det här fallet något av alternativen ovan), ange antalet licenser och välj sedan **Skicka.** 
 
-Kunden bör nu ha både gamla och nya prenumerationer, den gamla prenumerationen på Skype för företag – Online abonnemang 1 och den nya mål prenumerationen, till exempel alternativ 1 – Office 365 Enterprise F1.
+Kunden bör nu ha både gamla och nya prenumerationer, den gamla Skype för företag – Online, abonnemang 1 och den nya målprenumerationen, till exempel Alternativ 1 – Office 365 Enterprise F1.
 
-3. Om du vill tilldela om kundens användares licenser går du till menyn **partner Center** och väljer **kunder**, väljer kunden som du flyttar och väljer sedan **användare och licenser**. Sidan kund användare och licenser öppnas.
+3. Om du vill tilldela om kundens användarlicenser går du till **Menyn i Partnercenter,** väljer **Kunder,** väljer den kund som du flyttar och väljer sedan **Användare och licenser.** Kundens sida Användare och licenser öppnas.
 
-4. Om du vill omtilldela användar licensen väljer du den användare som ska omtilldelas och väljer sedan **Hantera licenser.**
+4. Om du vill tilldela om användarlicensen väljer du den användare som ska tilldelas om och väljer sedan **Hantera licenser.**
 
-5. På sidan **Hantera licenser** avmarkerar du kryss rutan licens för Skype för företag – Online abonnemang 1 och väljer en ny service plan för den prenumeration som kunden flyttar till.
+5. På sidan **Hantera licenser** avmarkerar du kryssrutan Skype för företag – Online, abonnemang 1 och väljer en ny tjänstplan för prenumerationen som kunden flyttar till.
 
-6. Välj **Skicka**. En bekräftelse sida listar de nya licens tilldelningarna. Fortsätt med samma process för andra användare som behöver licens tilldelningar.
+6. Välj **Skicka**. En bekräftelsesida visar de nya licenstilldelningarna. Fortsätt samma process för andra användare som behöver licenstilldelningar.
 
-När du har flyttat användar licensen till den nya tjänsten kan du på ett säkert sätt avbryta den tillbakadragna prenumerationen på kund nivå.
+När du har flyttat användarlicensen till den nya tjänsten kan du på ett säkert sätt avbryta den tillbakadragna prenumerationen på kundnivå.
 
-7. Från menyn **partner Center** väljer du **kunder**. Välj den kund vars prenumeration du vill avbryta.
+7. I **menyn i Partnercenter** väljer du **Kunder.** Välj den kund vars prenumeration du avbryter.
 
-8. På sidan prenumerations information ställer du in prenumerationen på **pausad**.
+8. På sidan med prenumerationsdetaljer ställer du in prenumerationen på **Pausat.**
 
 9. Välj **Skicka.**
 
-Den gamla prenumerationen har pausats och den nya prenumerationen är aktiv. Den inaktiverade prenumerationen kommer att avetableras automatiskt efter 120 dagar. Kunden debiteras inga ytterligare kostnader för den gamla prenumerationen.
+Den gamla prenumerationen pausas och den nya prenumerationen är aktiv. Den pausade prenumerationen avetableeras automatiskt efter 120 dagar. Kunden medför inga ytterligare kostnader för den gamla prenumerationen.
 
+## <a name="next-steps"></a>Nästa steg
+
+- [Rådgivare: Skapa och skicka en utvärderingsinbjudan för klienter att prova Office 365](advisors-create-a-trial-invitation.md)
+- [Rådgivare: Skapa din klientbas med office 365-utvärderingsinbjudningar och inköpserbjudanden](advisors-build-your-business.md)
+- [Rådgivare: Skapa ett inköpserbjudande](advisor-create-a-purchase-offer.md)

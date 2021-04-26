@@ -4,38 +4,41 @@ ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: När du stöter på problem med en Microsoft-tjänst eller med partner Center kan du eskalera till Microsoft för att få hjälp och spåra problemet tills det är löst.
+description: När du har problem med en Microsoft-tjänst eller partnercenter kan du eskalera till Microsoft för att få hjälp och spåra problemet tills det har lösts.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6f10d1266d9de0cb166580f070f3d05e8f61092b
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: a22dd2a8ec8ce3da3aa0967741685a2f28cc0a15
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441615"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002815"
 ---
-# <a name="support-from-microsoft---when-to-escalate-issues-how-to-report-them-or-how-to-check-service-health"></a>Support från Microsoft – när du ska eskalera problem, hur du rapporterar dem eller hur du kontrollerar tjänstens hälsa
+# <a name="support-from-microsoft"></a>Support från Microsoft
 
 **Gäller för**
 
 - Välkommen till Partnercenter för Microsoft Cloud for US Government
 
-Om du stöter på problem med en Microsoft-tjänst eller partner Center kan du eskalera till Microsoft för att få hjälp och spåra problemet tills det är löst.
+**Lämpliga roller**
 
-[Support för partner Center](report-problems-with-partner-center.md) – få hjälp och skapa biljetter för alla partner Center-program.
+- Hjälpagent
 
-[Support för kunders räkning](report-problems-on-behalf-of-a-customer.md) – få hjälp och rapportera problem på din kund.
+Om du har problem med en Microsoft-tjänst eller partnercenter kan du rapportera problemet till Microsoft, eskalera problemet till Microsoft för hjälp och spåra problemet tills det har lösts.
 
-[Kontrol lera tjänstens hälso tillstånd](check-service-health.md) – kontrol lera om det finns några aktuella kända tjänst avbrott i Partner Center.
+[Support för Partnercenter](report-problems-with-partner-center.md) – Få hjälp och skapa biljetter för alla Partner Center-program.
 
-[Hämta automatiserade tjänst meddelanden med våra API: er](get-automated-service-notifications-with-our-apis.md) – moln lösnings leverantörer kan få automatiska tjänst aviseringar för kundens tjänster.
+[Support åt kunder –](report-problems-on-behalf-of-a-customer.md) Få hjälp och rapportera problem till kunden.
 
+[Kontrollera tjänstens](check-service-health.md) hälsotillstånd – Kontrollera om det finns några kända tjänstavbrott i Partnercenter.
 
- 
+[Få automatiserade tjänstmeddelanden med våra API:er](get-automated-service-notifications-with-our-apis.md) – Molnlösningsleverantörer kan få automatiserade tjänstmeddelanden för sina kunders tjänster.
 
- 
+## <a name="next-steps"></a>Nästa steg
 
-
-
+- [Visa fler supportresurser](https://partner.microsoft.com/support/?stage=1)
+- [Hitta en partner](find-a-partner.md)
+- [Lär dig mer om eller registrera dig i MPN-programmet](https://partner.microsoft.com/membership)
+- [Lär dig mer om eller registrera dig i CSP-programmet](https://partner.microsoft.com/membership/cloud-solution-provider)

@@ -1,20 +1,20 @@
 ---
-title: Överför Azure-prenumeration till en annan partner
+title: Överföra En Azure-prenumeration till en annan partner
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig hur du ändrar program partner för Cloud Solution Provider som är associerad med kundens Azure-prenumerationer.
+description: Lär dig hur du ändrar Molnlösningsleverantör programpartner som är associerad med en kunds Azure-prenumerationer.
 ms.custom: SEOMAY.20
 ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 02/09/2021
-ms.openlocfilehash: 886c39d192316987dcb68bff4d75302cc18a1305
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: b21bfcae4472763c19481ad506ae1c72d238e8f0
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441922"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002916"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Läs om hur du överför en Azure-prenumeration för en kund till en annan partner
 
@@ -22,75 +22,79 @@ ms.locfileid: "106441922"
 
 - Välkommen till Partnercenter för Microsoft Cloud for US Government
 
-I den här artikeln beskrivs hur en kund kan byta Microsoft Azure-tjänster från en leverantör av moln lösningar till en annan.
+**Lämpliga roller**
+
+- Global administratör
+
+Den här artikeln beskriver hur en kund kan byta Microsoft Azure tjänster från en Molnlösningsleverantör (CSP) till en annan.
 
 Följ dessa manuella steg om du vill byta en kunds Azure-tjänster eller prenumerationer till en annan partner. Både partnern och kunden måste slutföra stegen.
 
 >[!Note]  
 >För närvarande kan endast direkta eller indirekta leverantörer överföra prenumerationer.
->Du kan inte ändra partner för prenumerationer på moln lösnings leverantörer som är associerade med Azure plan, Office 365, Enterprise Mobility Suite eller Microsoft Dynamics CRM-prenumerationer.
+>Du kan inte byta partner för Molnlösningsleverantör prenumerationer som är associerade med Azure-plan, Office 365, Enterprise Mobility Suite eller Microsoft Dynamics CRM-prenumerationer.
 
 ## <a name="switch-partners-for-azure-subscriptions"></a>Byta partner för Azure-prenumerationer
 
-1. För att överföra en Azure-prenumeration till en ny partner, måste kunden starta processen och kontakta sin nuvarande partner av posten i skriftlig form.
+1. För att kunna överföra en Azure-prenumeration till en ny partner måste kunden starta processen och kontakta sin aktuella partner med en post genom att skriva.
 
    >[!Note]
-   > Det är den aktuella partnerns ansvar att skapa tjänst biljetten som initierar överförings processen. Microsoft kan inte ingripa för kundens räkning eller den nya partnern. Kunden bör planera att samar beta med den aktuella partnern för att få över gången att gå smidigt.
+   > Det är den aktuella partnerns ansvar att skapa tjänstbiljetten som initierar överföringsprocessen. Microsoft kan inte ingriper för kundens eller den nya partnerns räkning. Kunden bör planera att samarbeta med den aktuella partnern för att övergången ska gå smidigt.
 
 2. Partnern för prenumerationen måste utföra följande uppgifter:
 
-   Skapa en Azure Service-biljett från Partner Center för att begära en prenumerations överföring:
+   Skapa en Azure-tjänstbiljett från Partnercenter för att begära en prenumerationsöverföring:
 
-   1. Från menyn Partner Center väljer du **kunder**, väljer din kund i listan och väljer sedan **tjänst hantering**.
+   1. I menyn i Partnercenter väljer **du Kunder,** väljer kunden i listan och väljer sedan **Tjänsthantering.**
 
-   2. Under avsnittet **support biljetter** väljer du List rutan **New Ticket** och väljer **Microsoft Azure**.
+   2. Under avsnittet **Supportärenden** väljer du **listrutan Nytt** ärende och väljer **Microsoft Azure**.
    
-   3. Välj **nytt support ärende** från [Azure Portal](https://portal.azure.com).
+   3. Från den [Azure Portal](https://portal.azure.com)väljer du **Ny supportbegäran.**
    
-   4. I steg 1 väljer du **prenumerations hantering** som typ av ärende, anger det PRENUMERATIONS-ID som du vill överföra och väljer sedan **Cloud Solution Provider** som support avtal.
+   4. I steg 1 väljer du **Prenumerationshantering** som problemtyp, anger det prenumerations-ID som du vill överföra och väljer **Molnlösningsleverantör** som supportplan.
    
-   5. I steg 2 väljer du **C-minimal påverkan** och väljer **andra allmänna frågor** som problem typ.
+   5. I steg 2 väljer du **C-Minimal påverkan** och **väljer Andra allmänna** frågor som problemtyp.
    
-   6. Hämta [överförings formuläret för CSP-prenumeration](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC).
+   6. Ladda ned [formuläret CSP Subscription Transfer (Överföring av CSP-prenumeration).](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC)
 
-3. Partnern för prenumerationen: Fyll i [formuläret för prenumerations överföring i CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC), signera det och skicka det till kunden. 
+3. Partnern för prenumerationen: Fyll i formuläret [Överföring av CSP-prenumeration,](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC)signera den och skicka den sedan till kunden. 
 
-   Du behöver följande information för att fylla i formuläret:
+   Om du vill fylla i formuläret behöver du följande information:
 
-   - Den aktuella partnerns kontakt uppgifter och Microsoft ID. I menyn Partner Center väljer du **konto inställningar** &gt; **organisations profil** och använder **Microsoft ID**, **organisations namn** och **adress** som visas där.
+   - Den aktuella partnerns kontaktuppgifter och Microsoft-ID. I menyn i Partnercenter väljer du **Kontoinställningar** &gt; **Organisationsprofil** och använder **Microsoft-ID,** **Organisationsnamn** och **Adress som** visas där.
 
-   - Kundens Microsoft-ID. I menyn Partner Center väljer du **kunder** och expanderar sedan kund listan för att se deras **Microsoft-ID**.
+   - Kundens Microsoft-ID. I menyn i Partnercenter väljer du **Kunder** och expanderar sedan kundens lista för att se kundens **Microsoft-ID.**
 
-   - Prenumerations-ID som ska överföras. I den expanderade kund listan väljer du **Visa prenumerationer** och expandera sedan den valda prenumerationen för att se **prenumerations-ID: t**.
+   - Prenumerations-ID:t som ska överföras. I den expanderade kundlistan väljer du Visa prenumerationer och **expanderar** sedan den valda prenumerationen för att se **Prenumerations-ID.**
 
    >[!Note]
-   >Överföring av prenumerations resultat i två prenumerations-ID: n som visas på sidan **Redigera prenumeration** för den överförda prenumerationen: **1**– prenumerations-ID för partner Center används i fakturerings syfte. **2**– det ursprungliga ID: t för Azure-prenumerationen behålls och visas i Partner Center och i hanterings portalen för Azure. Det här ID: t visas i din rekognoseringar-fil.  **När du loggar support biljetter måste du använda båda ID: na.**
+   >Överföring av en prenumeration resulterar i två prenumerations-ID:n som visas på sidan Redigera prenumeration för den överförda prenumerationen: **1**– Prenumerations-ID för Partnercenter används i faktureringssyfte.  **2**– Det ursprungliga Azure-prenumerations-ID:t behålls och visas i Partnercenter samt i Azure-hanteringsportalen. Detta ID visas i rekognoseringsfilen.  **När du loggar supportärenden måste du använda båda-ID:erna.**
 
-4. Prenumerationens kund och nya partner:
+4. Kunden och den nya partnern för prenumerationen:
 
-   Granska formuläret, Fyll i information om den nya partnern och signera den. Bekräfta att den nya kunden har ett kontrakts avtal på plats. Skicka tillbaka formuläret till den aktuella partnern av posten.
+   Granska formuläret, fyll i information om den nya partnern och signera det. Bekräfta att den nya kunden har ett avtal på plats. Skicka formuläret tillbaka till den aktuella partnern för posten.
 
-   *Viktigt*: om den nya CSP-partnern inte har en åter försäljares relation med kunden måste han eller hon upprätta en innan prenumerationen överförs. [Du hittar information om hur du gör detta här](request-a-relationship-with-a-customer.md).
+   *Viktigt!* Om den nya CSP-partnern inte har en återförsäljarrelation med kunden måste den upprättas innan prenumerationen överförs. [Du hittar information om hur du gör detta här.](request-a-relationship-with-a-customer.md)
 
    >[!Note]
-   >Den nya CSP-partnern och kund klienten måste vara i samma land. 
+   >Den nya CSP-partnern och kundklientorganisationen måste finnas i samma land. 
 
 5. Aktuell partner:
 
-   Se till att formuläret innehåller kontakt information för båda partner administratörerna. Microsoft Support kommer att kontakta båda administratörerna för att verifiera överföringen. Kontrol lera att du har alla tre signaturer. Använd sedan alternativet för **fil uppladdning** för att bifoga det färdiga formuläret till din befintliga tjänstbegäran. En Microsoft-support tekniker kommer tillbaka till dig inom åtta arbets timmar för att validera inbetalnings-och slut för ande.
+   Kontrollera att formuläret innehåller kontaktinformation för båda partneradministratörerna. Microsoft Support båda administratörerna för att verifiera överföringen. Kontrollera att du har alla tre signaturerna. Använd sedan alternativet **Filuppladdning** för att koppla det ifyllda formuläret till din befintliga tjänstbegäran. En Microsoft-supporttekniker kommer tillbaka till dig inom åtta timmar för att verifiera kvitto och slutförande.
 
 6. Ny partner:
 
-   Uppdatera inställningarna för Azure-prenumerationen för att ta bort den gamla partnern från kontot. Du kan se vilka roll tilldelningar som är etablerade genom att köra två PowerShell-cmdletarna.
+   Uppdatera inställningarna för Azure-prenumerationen för att ta bort den gamla partnern från kontot. Om du vill se vilka rolltilldelningar som har etablerats kör du två PowerShell-kommandon.
 
-   - Lägg till den nya partnern som åter försäljare för kontot:
+   - Lägg till den nya partnern som återförsäljare på kontot:
 
      ```powershell
      Connect-AzAccount -Tenant 'xxxx-xxxx-xxxx-xxxx'
      ```
 
      >[!NOTE]
-     > Kundens **klient-ID** visas i Partner Center som kundens **Microsoft-ID**. Om du vill hitta Microsoft ID (klient-ID) för en specifik kund loggar du in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard). Välj sedan **kunder** på menyn. Leta upp kunden i listan. Välj nedpilen för att expandera kundens lista. Du kommer att se information om kundens *domän namn* och kundens **Microsoft-ID**. Använd det 16-siffriga **Microsoft-ID: t** i PowerShell-kommandot.
+     > Kundens **klientorganisations-ID** visas i Partnercenter som kundens **Microsoft-ID.** Om du vill hitta Microsoft-ID:t (klient-ID) för en specifik kund loggar du in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard) Välj sedan **Kunder** på menyn. Leta upp kunden i listan. Välj nedåtpilen för att expandera kundens lista. Du ser information om kundens domännamn *och kundens* **Microsoft-ID.** Använd det 16-siffriga **Microsoft-ID:t** i PowerShell-kommandot.
 
    - Visa roller för kontot, inklusive tidigare CSP-partner:
 
@@ -98,19 +102,19 @@ Följ dessa manuella steg om du vill byta en kunds Azure-tjänster eller prenume
      Get-AzRoleAssignment
      ```
 
-7. Ta bort föråldrade åtkomst behörigheter:
+7. Ta bort inaktuella åtkomstbehörigheter:
 
-   - I menyn Partner Center väljer du **kunder**.
-   - Leta upp kunden i listan. Välj företagets namn genom att välja (dubbelklicka). Den här åtgärden öppnar sidan kund **prenumerationer** .
-   - Välj **tjänst hantering** på menyn kund information.
+   - I menyn i Partnercenter väljer du **Kunder.**
+   - Leta upp kunden i listan. Välj (dubbelklicka på) företagets namn. Den här åtgärden öppnar sidan **Kundprenumerationer.**
+   - I menyn med kundinformation väljer du **Tjänsthantering.**
    - Under **Microsoft Azure** väljer du länken för att gå till **Microsoft Azure-hanteringsportal**.
 
 ## <a name="next-steps"></a>Nästa steg
 
-- Hämta [överförings formuläret för CSP-prenumeration](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA).
+- Ladda ned [formuläret CSP Subscription Transfer (Överföring av CSP-prenumeration).](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)
 
-- Läs mer om [stöd för flera partner](multipartner.md).
+- Lär dig [mer om stöd för flera partner.](multipartner.md)
 
-- [stöd för flera partner](multipartner.md).
-- [stöd för flera kanaler](multichannel.md).
+- [stöd för flera partner.](multipartner.md)
+- [stöd för flera kanaler.](multichannel.md)
 - [Överföra Azure-prenumerationer](/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp)

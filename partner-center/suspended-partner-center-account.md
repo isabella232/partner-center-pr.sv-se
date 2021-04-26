@@ -4,21 +4,19 @@ ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig hur du återställer ett inaktiverat Partner Center-konto, varför inskjutningen av partner kontot sker och hur du kan använda ditt konto under SUS pension.
+description: Lär dig hur du återställer ett inaktiverat Partnercenter-konto, varför ett partnerkonto har inaktiverats och hur du kan använda ditt konto under indragningen.
 author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd0f1065e426a77beafe031c1e7b304fa910eeb0
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: d9366ccb7c091fded16387c963dc2f2eab4b2d88
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441565"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002832"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Återställa ett inaktiverat Partnercenter-konto – ta reda på varför det hände och vad du kan göra åt det
-
-Den här artikeln beskriver vad du gör om ditt Partnercenter-konto har inaktiverats.
 
 **Gäller för**
 
@@ -28,31 +26,32 @@ Den här artikeln beskriver vad du gör om ditt Partnercenter-konto har inaktive
 
 - Global administratör
 
+Den här artikeln beskriver vad du gör om ditt Partnercenter-konto har inaktiverats.
 
 > [!IMPORTANT]  
 > Även om ditt Partnercenter-konto är inaktiverat kan du fortsätta att hantera dina befintliga distributioner, licenser och tjänster. Men du kommer inte att kunna auktorisera eller sälja nya licenser eller tjänster förrän ditt konto är i gott anseende igen.
 
-## <a name="why-partner-center-accounts-are-suspended"></a>Varför Partner Center-konton har pausats
+## <a name="why-partner-center-accounts-are-suspended"></a>Varför Partnercenter-konton inaktiveras
 
-Microsoft kommer att pausa ett partner Center-konto av någon av följande orsaker:
+Microsoft inaktiverar ett Partnercenter-konto av någon av följande skäl:
 
-- När den aktuella fakturerings summan är mer än 60 dagar försenad
-- När betydande konto missbruk identifieras
-- När problem påverkar indirekta Provider-åtgärder och påverkar ditt konto negativt (endast indirekt åter försäljare)
-- När din konto profil är i ett fel tillstånd eller nekas
+- När det aktuella faktureringsbeloppet är mer än 60 dagar förfallet
+- När betydande kontomissbruk upptäcks
+- När problem påverkar indirekt leverantörs verksamhet och påverkar ditt konto negativt (endast indirekta återförsäljare)
+- När din kontoprofil är i ett misslyckat eller avvisat tillstånd
 
-## <a name="what-to-do-if-your-account-is-suspended"></a>Vad du gör om ditt konto har pausats
+## <a name="what-to-do-if-your-account-is-suspended"></a>Vad du gör om ditt konto har inaktiverats
 
-Om du vet att ditt konto är aktuellt kontrollerar du dina [partner profil](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) inställningar för att bekräfta att din aktiva information är klar. 
+Om du vet att ditt konto är aktuellt kontrollerar du inställningarna [för partnerprofilen](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) för att bekräfta att din aktiva information är klar. 
 
-Om du inte är säker på om ditt konto är aktuellt väljer du **fakturering** från menyn **partner Center** för att kontrol lera din faktura. På sidan fakturering visas din fakturerings historik och dina trender, den förfallna saldot för den aktuella månaden, länkar till din faktura och avstämnings fil och din senaste betalning.
+Om du inte är säker på om ditt konto är aktuellt väljer du **Fakturering** i **Partnercenter-menyn** för att kontrollera fakturan. På faktureringssidan visas din faktureringshistorik och dina trender, det förfallna saldot för den aktuella månaden, länkar till dina faktura- och avstämningsfiler samt din senaste betalning.
 
-Om ditt konto är försenat följer du anvisningarna på din faktura för att se betalning och sedan skicka en supportbegäran för att återställa ditt konto. 
+Om ditt konto är förfallet följer du anvisningarna på fakturan för att ordna betalningen och skickar sedan en supportbegäran för att återställa ditt konto. 
 
-Kontakta [supporten](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create)om du vill ha mer hjälp med att återaktivera ditt konto.
+Kontakta supporten om du vill ha mer hjälp med att [återaktivera ditt konto.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create)
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Verifiera din partner profil](update-your-partner-profile.md)
+- [Verifiera din partnerprofil](update-your-partner-profile.md)
 
-- [Verifiera din konto information när du registrerar dig i ett nytt Partner Center-program](verification-responses.md)
+- [Verifiera din kontoinformation när du registrerar dig i ett nytt Partnercenter-program](verification-responses.md)
