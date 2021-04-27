@@ -1,82 +1,86 @@
 ---
-title: Begränsade direkta fakturerings funktioner
+title: Begränsade funktioner för direktfakturering
 ms.topic: article
 ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig mer om krav för CSP direkt fakturerings partner och vad du kan göra för att undvika att funktioner begränsas. Ta reda på om dina funktioner har begränsats.
+description: Lär dig mer om CSP-partnerkrav för direktfakturering och vad du kan göra för att undvika att funktioner begränsas. Ta reda på om dina funktioner har begränsats.
 author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38fe5d03784d0fcf0796545d31e8272f316d2878
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 05ccc6016e9dcd6e7582cdd31dbc4d0054c43f8d
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99623991"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018075"
 ---
-# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Begränsade direkta fakturerings möjligheter och de krav som krävs för CSP Direct-fakturerings partner  
+# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Begränsade funktioner för direktfakturering och de krav som krävs för CSP-partner med direktfakturering
+
+**Lämpliga roller**
+
+- Global administratör
 
 ## <a name="overview"></a>Översikt
 
-Direkta faktura partner måste uppfylla de nya [kraven](direct-partner-new-requirements.md) för att finnas kvar i CSP: n för fakturerings program för CSP. I annat fall kommer deras åtkomst till direkta fakturerings möjligheter att bli begränsad och kan utföra vissa uppgifter, till exempel för att göra nya inköp för kunderna.
+Direktfaktureringspartner måste uppfylla de [nya kraven](direct-partner-new-requirements.md) för att finnas kvar i CSP-partnerprogrammet för direktfakturering. Annars kommer deras åtkomst till direktfaktureringsfunktionerna så småningom att begränsas och kan längre utföra specifika uppgifter, till exempel att göra nya inköp för sina kunder.
 
 > [!Note]
-> Direkt fakturerings partner som inte uppfyller de nya kraven för CSP: n för fakturerings program för CSP kommer att informeras av Microsoft när deras direkta fakturerings funktioner kommer att begränsas. Detta gäller för alla direkta fakturerings partner, oavsett om de har valt att [övergå från direkt fakturerings partner till indirekta åter försäljare](transition-direct-to-indirect.md) eller inte.  
+> Direktfaktureringspartner som inte uppfyller de nya kraven för CSP-partnerprogrammet för direktfakturering informeras av Microsoft när deras funktioner för direktfakturering kommer att begränsas. Detta gäller för alla direktfaktureringspartner, oavsett om de har valt en övergång från [direktfaktureringspartner till indirekta återförsäljare](transition-direct-to-indirect.md) eller inte.  
 
-## <a name="how-to-tell-if-your-direct-bill-capabilities-has-been-restricted"></a>Så här ser du om dina direkta fakturerings funktioner har begränsats
+## <a name="how-to-tell-if-your-direct-bill-capabilities-has-been-restricted"></a>Så här ser du om dina direktfaktureringsfunktioner har begränsats
 
-Följ dessa steg för att kontrol lera om åtkomsten från direkt fakturerings partnerns klient organisation till direkta fakturerings funktioner har begränsats.
+Följ dessa steg för att bekräfta om åtkomsten från partnerklientorganisationen för direktfakturering till direktfakturering har begränsats.
 
-1. Logga in på [partner Center-instrumentpanelen](https://partner.microsoft.com/dashboard).
+1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard).
 
-2. Gå till **konto inställningar**  ->  **juridisk profil**.
+2. Gå till **Kontoinställningar**  ->  **Juridisk profil**.
 
-3. Leta efter **Microsoft Cloud lösnings leverantörens status** under **programinformation**.
+3. Under **Programinfo** letar du upp **Leverantör av Microsoft-molnlösningar status**.
 
-4. Om programmets status har värdet **begränsat** innebär det att din direkt fakturerings partners klient organisations åtkomst till direkta fakturerings funktioner har begränsats.
+4. Om programstatusen har värdet **begränsad** innebär det att direktfaktureringspartnerns åtkomst till direktfaktureringsfunktioner har begränsats.
 
-## <a name="affected-direct-bill-capabilities"></a>Berörda direkt fakturerings funktioner
+## <a name="affected-direct-bill-capabilities"></a>Funktioner för direktfakturering som påverkas
 
-Om dina direkta fakturerings funktioner har begränsats kan du inte längre göra nya inköp för dina kunder i Partner Center. Den här begränsningen omfattar:
+Om dina direktfaktureringsfunktioner har begränsats kan du inte längre göra nya inköp för dina kunder i Partnercenter. Den här begränsningen omfattar:
 
 - Azure-prenumerationer
 
 - Licensbaserade prenumerationer
 
-- Lägg till nya tillägg i befintliga licensbaserade prenumerationer.
+- Lägg till nya tillägg till befintliga licensbaserade prenumerationer.
 
-- Gör engångs inköp av program varu-och reservations produkter (till exempel program varu prenumerationer, beständig program vara och reserverade instanser av virtuella Azure-datorer).
+- Gör ett köp av programvara och reservationsprodukter (till exempel programvaruprenumerationer, permanent programvara och instanser av reserverade virtuella Azure-datorer).
 
-Du kan inte heller använda [Azure partners delade tjänster-erbjudandet](shared-services.md) under CSP-programmet för att köpa nya Azure-prenumerationer för eget bruk.
+Du kan inte heller använda [erbjudandet om delade Azure-partnertjänster](shared-services.md) under CSP-programmet för att köpa nya Azure-prenumerationer för eget bruk.
 
-Befintliga prenumerationer på direkt fakturering påverkas inte. De förblir giltiga och förnyas automatiskt. Du kommer fortsätta att faktureras direkt av Microsoft tills de har annullerats. Du kan fortfarande hantera befintliga prenumerationer på följande sätt:
+Befintliga prenumerationer på direktfakturering påverkas inte. De förblir giltiga och förnyas automatiskt. Du fortsätter att debiteras direkt av Microsoft tills de avbryts. Du kan fortfarande hantera befintliga prenumerationer på följande sätt:
 
 - Pausa befintliga prenumerationer
 
-- Justera licens antalet för befintliga licensbaserade prenumerationer
+- Justera licensantalet för befintliga licensbaserade prenumerationer
 
-- Justera licens antalet för befintliga tillägg i en prenumeration. 
- 
-    >[!Note] 
-    >Du kan inte lägga till nya tillägg i befintliga prenumerationer eftersom det behandlas som ett nytt köp.
+- Justera antalet licenser för befintliga tillägg till en prenumeration. 
 
-- Distribuera nya Azure-resurser och hantera befintliga Azure-resurser under befintliga Azure-prenumerationer. Detta inkluderar resurser som är tillgängliga via Azure Marketplace-och Visual Studio-prenumerationer.
+    >[!Note]
+    >Du kan inte lägga till nya tillägg till befintliga prenumerationer eftersom det behandlas som ett nytt köp.
 
-Förutom nya köp kan du inte komma åt följande direkta fakturerings funktioner i Partner Center:
+- Distribuera nya Azure-resurser och hantera befintliga Azure-resurser under befintliga Azure-prenumerationer. Detta omfattar resurser som är tillgängliga via Azure Marketplace och Visual Studio prenumerationer.
 
-- Du kan inte skapa nya kund klienter. Alternativet **Skapa kund** på sidan **kunder** i Partner Center är inte tillgängligt.
+Förutom nya köp kan du inte komma åt följande funktioner för direktfakturering i Partnercenter:
 
-- Du kan inte skapa inbjudan till kund förfrågan om direkt åter försäljarens relation. Alternativet **begär en åter försäljare-relation** på sidan **kunder** i Partner Center är inte tillgängligt.
+- Du kan inte skapa nya kundklienter. Alternativet **Skapa kund** under **sidan** Kunder i Partnercenter är inte tillgängligt.
+
+- Du kan inte skapa en inbjudan till en kund som begär en direkt återförsäljarrelation. Alternativet **Begär en återförsäljarrelation** under **sidan** Kunder i Partnercenter är inte tillgängligt.
 
     >[!NOTE]
-    >Som en del av över gången från direkt fakturerings partner till indirekt åter försäljare, om du redan har registrerat din leverantör av direkt fakturerings partner som indirekt åter försäljare, kan du generera inbjudan till kund förfrågan om indirekt åter försäljarens relation i stället.
+    >Som en del av övergången från direktfaktureringspartner till indirekt återförsäljare kan du, om du redan har registrerat din partnerklient för direktfakturering som indirekt återförsäljare, generera en inbjudan till kunden som begär en indirekt återförsäljarrelation i stället.
 
-- Du kan inte skapa en ny Sand Box klient. Varje leverantör av direkt fakturerings partner kan skapa en sand Box klient för syftet med direkt fakturerings-API-integrering. Om du inte har skapat någon tidigare, kan du inte göra det när du har fått en begränsad kapacitet för fakturerings partner.  
+- Du kan inte skapa en ny sandbox-klientorganisation. Varje partnerklient för direktfakturering kan skapa en sandbox-klientorganisation för API-integrering med direktfakturering. Om du inte har skapat en tidigare kan du inte göra det när din partnerfunktion för direktfakturering har begränsats.  
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Ytterligare information om att bli en indirekt åter försäljare](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
+- [Ytterligare information om hur du blir en indirekt återförsäljare](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 
-- [CSP Direct-partner nya krav](direct-partner-new-requirements.md)
+- [Nya krav för CSP-direktpartner](direct-partner-new-requirements.md)

@@ -2,85 +2,90 @@
 title: Begär en SLA-kredit från Microsoft
 ms.topic: article
 ms.date: 03/31/2021
-description: Lär dig fördelarna, begränsningarna och procedurerna för att begära ett service avtal (SLA) kredit från Microsoft om kunderna upplever ett tjänst avbrott.
+description: Lär dig fördelarna, begränsningarna och procedurerna för att begära en SLA-kredit (serviceavtal) från Microsoft om dina kunder drabbas av ett tjänstavbrott.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: d33188510b127873864260199ff92018e1a4d995
-ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
+ms.openlocfilehash: 1046d8afc8889461f75fb4c837d0e5af94c13e9f
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106103833"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018160"
 ---
-# <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Hur och när du ska begära en kredit på service nivå avtal från Microsoft
+# <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Hur och när du ska begära en SLA-kredit (serviceavtal) från Microsoft
 
-Du kan begära **service avtals krediter (SLA)** från Microsoft om en tjänst som du tillhandahåller för dina kunder har ett avbrott.
+**Lämpliga roller**
+
+- Administratörsagent
+- Global administratör
+
+Du kan begära **serviceavtalskrediter (SLA)** från Microsoft om en tjänst som du tillhandahåller för dina kunder har ett avbrott.
 
 ## <a name="sla-credit-calculation"></a>Beräkning av SLA-kredit
 
-SLA-krediter från Microsoft bestäms utifrån vilken eller vilka tjänster som påverkades. Om din kund exempelvis har en Office 365-svit men bara har drabbats av ett SharePoint-avbrott, godkänns SLA-krediten endast för SharePoint och inte kundens hela plan.
+SLA-krediter från Microsoft bestäms baserat på vilka tjänster som har påverkats. Om kunden till exempel har en Office 365-svit men bara upplever ett SharePoint-avbrott godkänns SLA-krediten endast för SharePoint och inte för kundens hela plan.
 
-*Krediterna klassificeras baserat på den berörda tjänsten och drifts tiden.* Information om vilka typer av scenarier som är kvalificerade för SLA-krediter finns i [Online Services-konsoliderade SLA-dokument](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37). Den här informationen gäller endast tjänster som säljs via Cloud Solution Provider-programmet.
+*Krediter är pro-klassificerade baserat på den tjänst som påverkas och varaktigheten för avbrottet.* Information om vilka typer av scenarier som är kvalificerade för SLA-krediter finns i [dokumentet Konsoliderat serviceavtal för Online Services.](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37) Den här informationen gäller även för tjänster som säljs Molnlösningsleverantör programmet.
 
 
-## <a name="request-an-sla-credit"></a>Begär en kredit service avtal
+## <a name="request-an-sla-credit"></a>Begära en SLA-kredit
 
-*Leverantören av moln lösnings leverantören (CSP) måste skicka in anspråket och all nödvändig information i slutet av kalender månaden efter den månad då incidenten inträffade.* Om incidenten exempelvis skedde 15 februari måste Microsoft ta emot anspråket och all nödvändig information från 31 mars. Slutanvändare och indirekta åter försäljare kan inte skicka anspråk på SLA kredit. antingen måste den indirekta providern eller direkt fakturerings partnern skicka anspråk för deras räkning.
+*CSP Molnlösningsleverantör partnern (CSP) måste skicka anspråket och all nödvändig information i slutet av kalendermånaden efter den månad då incidenten inträffade.* Om incidenten till exempel inträffade den 15 februari måste Microsoft ta emot anspråket och all nödvändig information senast den 31 mars. Slutanvändare och indirekta återförsäljare kan inte skicka anspråk på SLA-kredit; antingen den indirekta leverantören eller partnern med direktfakturering måste skicka anspråk för sin räkning.
 
 >[!NOTE]
->Råd givande incidenter ([hur man kontrollerar Microsoft 365 tjänstens hälsa](https://docs.microsoft.com/microsoft-365/enterprise/view-service-health?&preserve-view=trueo365-worldwide#incidents-and-advisories)) är inte berättigade till SLA-krediter.
+>[Rådgivningsincidenter (Så här kontrollerar du Microsoft 365 servicehälsa)](https://docs.microsoft.com/microsoft-365/enterprise/view-service-health?&preserve-view=trueo365-worldwide#incidents-and-advisories)är inte berättigade till SLA-krediter.
 
 ### <a name="required-information"></a>Nödvändig information
 
-Kund namn, klient-ID, partner biljett nummer och biljett skapad datum/tidstämpel är inte tillräckliga för att ett anspråk ska bearbetas.
+Kundnamn, klientorganisationsidentifierare, partnerbiljett# och biljett som skapats för datum/tid-stämpel är inte tillräckliga för att ett anspråk ska bearbetas.
 
-Innan du [skickar en kredit förfrågan för SLA](#submit-sla-credit-request) till Microsoft måste du samla in **all** följande information som du kan ta med i support ärendet:
+Innan du [skickar en SLA-kreditbegäran](#submit-sla-credit-request) till Microsoft måste du samla in **all** följande information som ska ingå i din supportbegäran:
 
-- Kundens klient-GUID
-- [Incident identifieraren för avbrott](#outage-incident-identifier)?
-- Bevisa att kunden har påverkats av avbrottet och har begärt en SLA-kredit.
-- Har de påverkade prenumerationerna köpts via CSP? (*Ja* eller *Nej*)
+- Kundklientens GUID
+- Identifieraren [för avbrottsincidenten](#outage-incident-identifier)?
+- Bevis på att kunden har påverkats av avbrottet och har begärt en SLA-kredit.
+- Köptes de påverkade prenumerationerna via CSP? (*Ja* eller *nej*)
 
-#### <a name="evidence-that-proves-customer-impact"></a>Bevis som visar kund påverkan
+#### <a name="evidence-that-proves-customer-impact"></a>Bevis som bevisar kundpåverkan
 
-- Information om tid och varaktighet för stillestånds tiden
+- Information om tid och varaktighet för stilleståndstiden
 - Antal och platser för berörda användare (om tillämpligt)
 - Beskrivningar av dina försök att lösa incidenten vid tidpunkten för händelsen
 - Ett e-postmeddelande från den påverkade kunden som begär support och därefter kredit
-- Support ärendets nummer och information om kundens kontakt vad gäller att lösa tjänst påverkan
+- Supportbiljettens nummer och information om kundkontakten för att lösa påverkan på tjänsten
 
 
-#### <a name="outage-incident-identifier"></a>Incident identifierare för avbrott
+#### <a name="outage-incident-identifier"></a>Identifierare för avbrottsincident
 
-Du hittar identifieraren för avbrotts incidenten på sidan **service Health** i Microsoft 365 administrations Center. **Incident-ID: t för avbrott** är ett tal som föregås av en förkortning med två bokstäver som indikerar den berörda tjänsten (till exempel *EX25194* för ett Exchange Online-avbrott). I följande tabell beskrivs vanliga tjänst förkortningar:
+Du hittar identifieraren för avbrottsincidenten på **Service Health** i Administrationscenter för Microsoft 365. **Id:t för** avbrottsincidenten är ett tal som föregås av en förkortning med två bokstäver som anger den berörda tjänsten (till exempel *EX25194* för ett avbrott i Exchange Online). I följande tabell beskrivs vanliga förkortningar för tjänsten:
 
 | Förkortning med två bokstäver | Microsoft-tjänst |
 | ----------------------- | ----------------- |
-| PRISET | Exchange Online |
-| DETALJERADE | Exchange Online-skydd |
-| SA | Skype för företag – Online (tidigare Lync Online) |
+| Ex | Exchange Online |
+| Fo | Exchange Online Protection |
+| Sb | Skype för företag – Online (tidigare Lync Online) |
 | Operativsystem | Office-prenumeration |
 | PB | Power BI för Office 365 |
-| SP | sharepoint online |
-| YA | Yammer Enterprise |
-| MO | Portal fel |
+| Sp | sharepoint online |
+| Ya | Yammer Enterprise |
+| MO | Portalfel |
 
-### <a name="submit-sla-credit-request"></a>Skicka in SLA kredit förfrågan
+### <a name="submit-sla-credit-request"></a>Skicka en SLA-kreditbegäran
 
-Skicka din begäran om SLA kredit till Microsoft via instrument panelen för partner Center:
+Så här skickar du din SLA-kreditbegäran till Microsoft via instrumentpanelen i Partnercenter:
 
 1. Logga in på instrumentpanelen i Partnercenter.
-2. I den vänstra menyn väljer du **tjänst begär Anden** och väljer sedan **partner support förfrågningar**.
-3. På sidan **partner förfrågan** väljer du **ny begäran**.
-4. På sidan **Starta begäran** hittar du avsnittet **CSP-kunder, beställningar och prenumerationer**. I det här avsnittet väljer du **Välj en ärende typ** och väljer sedan **kund tjänster kredit förfrågningar**.
-5. På sidan **rekommenderade lösningar** under **behöver du mer hjälp?**, Välj **Ja**.
-6. Fyll i avsnittet **problem information** på sidan **information** . I text rutan **information** , se till att ange den [information](#required-information) som du tidigare har samlat in.
-7. Välj **Skicka** för att skicka i din kredit förfrågan för SLA.
+2. I den vänstra menyn väljer du **Tjänstförfrågningar och** sedan **Partnersupportbegäranden.**
+3. På sidan **Partnerbegäran** väljer du **Ny begäran.**
+4. På sidan **Starta begäran hittar** du avsnittet **CSP – kunder, beställningar och prenumerationer**. I det här avsnittet väljer **du Välj en typ av problem** och sedan **Kreditförfrågningar för kundtjänster.**
+5. På sidan **Rekommenderade lösningar,** under **Behöver du mer hjälp?** väljer du **Ja.**
+6. På sidan **Information** fyller du i **avsnittet Probleminformation.** I **textrutan** Information måste du ange den information som [du samlade](#required-information) in tidigare.
+7. Välj **Skicka** för att skicka i din SLA-kreditförfrågan.
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Rapportera problem åt kunden](report-problems-on-behalf-of-a-customer.md)
+- [Rapportera problem åt din kund](report-problems-on-behalf-of-a-customer.md)
