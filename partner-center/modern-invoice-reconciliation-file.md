@@ -1,73 +1,78 @@
 ---
-title: Rekognoseringar-filfält för CSP-inköp med ett tillfälle
+title: Rekognoseringsfilfält för CSP-köp en gång
 ms.topic: conceptual
 ms.date: 01/29/2021
-description: Lär dig mer om alla objekt i din CSP-fil för inköps avstämning vid en tidpunkt i Partner Center, inklusive exempel värden.
+description: Lär dig mer om alla objekt i CSP-filen för engångsköpsavstämning i Partnercenter, inklusive exempelvärden.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 66159d886914336180e8531ec07db3a9d8880a88
-ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
+ms.openlocfilehash: 7ff320124230ec8e0b3505b1c1dbbb7c811cb67f
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106103782"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120727"
 ---
-# <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Fält för att avstämnings fil för CSP vid en tidpunkt
+# <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Fält för inköpsavstämningsfil för CSP en gång
 
-## <a name="using-the-recon-file"></a>Använda rekognoseringar-filen
-Tabellen nedan innehåller beskrivningar och exempel värden för fälten i avstämnings filen för ett köp av CSP-tid.
+**Lämpliga roller**
 
-Mer information om avstämnings filer finns i [använda avstämnings filer](use-the-reconciliation-files.md).
+- Kontoadministratör
+- Faktureringsagent
+
+## <a name="using-the-recon-file"></a>Använda rekognoseringsfilen
+Tabellen nedan innehåller beskrivningar och exempelvärden för fälten i avstämningsfilen för CSP-köp en gång.
+
+Mer information om avstämningsfiler finns i [Använda avstämningsfilerna](use-the-reconciliation-files.md).
 
 | Kolumn | Beskrivning | Exempelvärde |
 | ------ | ----------- | ------------ |
-| Partner | Unikt ID i GUID-format för en angiven fakturerings enhet. Krävs inte för avstämning. Samma i alla rader. | *0e195b37-4574-4539-bc42-0e539b9684c0* |
-| CustomerId | Unikt Microsoft-ID för kunden i GUID-format. | *196e2273-9651-43a3-ba7e-7cbcd918fc40* |
-| CustomerName | Kundens organisations namn som rapporteras i Partner Center. Den här kolumnen är viktig för att stämma av fakturan med din system information. | *Johnny modern kund-DE2* |
-| CustomerDomainName | Kundens domän namn. | *testcustomerdomain.onmicrosoft.com* |
-| CustomerCountry | Det land där kunden befinner sig. Se den fullständiga [listan över länder](./regional-authorization-overview.md) för din region.  | *DE* |
-| InvoiceNumber | Faktura numret som är kopplat till avstämnings filen.  | *G002297372* |
-| MpnId | MPN identifierare för CSP-partnern. Mer information finns i [så här specificerar du en partner](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *6034453* |
-| ResellerMpnId | MPN identifierare för åter försäljaren av posten för prenumerationen. | *6048879* |
-| OrderId | Unik identifierare för en beställning i Microsofts fakturerings plattform. Kan vara användbart för att identifiera ordningen när du kontaktar supporten. Används inte för avstämning. | *0ET2qaZvJGfF9wgSKnWzR5JLmhp10lOc1* |
-| OrderDate | Datum då ordern placerades. | *10/3/2020* |
+| PartnerId | Unik identifierare i GUID-format för en specifik faktureringsentitet. Krävs inte för avstämning. Samma i alla rader. | *0e195b37-4574-4539-bc42-0e539b9684c0* |
+| CustomerId | Unik Microsoft-identifierare för kunden i GUID-format. | *196e2273-9651-43a3-ba7e-7cbcd918fc40* |
+| CustomerName | Kundens organisationsnamn enligt vad som rapporteras i Partnercenter. Den här kolumnen är viktig för att stämma av fakturan med systeminformationen. | *Johnny Modern Cust DE2* |
+| CustomerDomainName | Kundens domännamn. | *testcustomerdomain.onmicrosoft.com* |
+| CustomerCountry | Det land där kunden finns. Se den fullständiga [listan över länder](./regional-authorization-overview.md) för din region.  | *DE* |
+| InvoiceNumber | Det fakturanummer som är associerat med avstämningsfilen.  | *G002297372* |
+| MpnId | MPN-identifierare för CSP-partnern. Mer information finns i [hur du specificerar efter partner.](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner) | *6034453* |
+| ResellerMpnId | MPN-identifierare för återförsäljaren av posten för prenumerationen. | *6048879* |
+| OrderId | Unik identifierare för en beställning på Microsofts faktureringsplattform. Kan vara användbart för att identifiera beställningen när du kontaktar supporten. Används inte för avstämning. | *0ET2qaZvJGfF9wgSKnWzR5JLmhp10lOc1* |
+| OrderDate | Det datum då beställningen gjordes. | *10/3/2020* |
 | ProductId | Produktens unika identifierare. | *DZH318Z0BNZ5* |
-| SkuId | SKU: n unika identifierare. | *006G* |
-| AvailabilityId | Unikt ID för tillgänglighet. | *DZH318Z08B80* |
-| SkuName | SKU-namn. | *Tabeller – LRS* |
-| ProductName | Produkt namnet. | *Tabeller* |
-| ChargeType | [Typ av kostnad](./recon-file-charge-types.md) eller justering. | *Nytt* |
-| UnitPrice | Pris per licens, som publicerat i pris listan vid inköps tillfället. Se till att detta matchar informationen som lagras i fakturerings systemet under avstämning. | *0,045* |
-| Kvantitet | Antalet licenser. Se till att detta matchar informationen som lagras i fakturerings systemet under avstämning. | *1* |
-| Delsumma | Totalt före skatt. Del summan ska vara lika med det fakturerbara antalet multiplicerat med det effektiva enhets priset. | *0* |
-| TaxTotal | Avgift för moms belopp. Baserat på marknadens skatte regler och särskilda omständigheter. | *0* |
-| Totalt | Den totala mängden är lika med del summan plus moms beloppet. | *0* |
-| Valuta | Din faktura skapas i samband med kundens valuta. Det innebär att om du är en partner som kommunicerar med kunder från olika fakturerbara valutor får du en faktura för varje kund valuta typ.  | *EUR* |
-| PriceAdjustmentDescription | Orsakerna till justeringarna i enhets priset. Detta är de viktigaste orsakerna, men inte begränsat till att fastställa det effektiva enhets priset. | *["15,0% partner intjänad kredit för tjänster som hanteras"]* |
-| PublisherName | Produkt utgivare.  | *Microsoft* |
-| PublisherId | En unik identifierare som partner Center använder för att identifiera utgivaren. | *NA* |
-| SubscriptionDescription | Namnet på det tjänst erbjudande som kunden har köpt, enligt definitionen i pris listan. Den här kolumnen är ett identiskt fält för OfferName. | *Azure-plan* |
-| SubscriptionId | Unikt ID för en prenumeration i Microsofts fakturerings plattform. Används inte för avstämning. Observera att den här identifieraren inte är samma som prenumerations-ID: t i partner administratörs konsolen. | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |
-| ChargeStartDate | Datumet då en prenumerations fakturerings period börjar. | *9/1/2020* |
-| ChargeEndDate | Datumet då en prenumerations fakturerings period upphör. | *2020-09-30* |
-| TermAndBillingCycle | Varaktighets åtagandet för att fortsätta prenumerationen vid tidpunkten för köpet. | *Lagrade data (GB/månad)* |
-| EffectiveUnitPrice | Det beräknade enhets priset för att beräkna kostnaden för fakturerings perioden. Rabatter, justeringar av fakturerings dagar och andra faktorer fastställer det effektiva enhets priset. Mer information finns i [pris beräkning för effektiv enhet](./effective-unit-price-calculation.md).  | *0,03825* |
-| UnitType | Den typ av enhet som mätaren debiteras i. | *1 GB/månad* |
-| AlternateId | Alternativt-ID för det refererade order rads objektet. | *6dc5c039750a* |
-| BillableQuantity | Det totala antalet som faktureras.  | *0,005001* |
-| BillingFrequency | Den fakturerings plan som valts vid inköps tillfället. | *NA*  |
+| SkuId | Unik SKU-identifierare. | *006G* |
+| AvailabilityId | Den unika identifieraren för tillgänglighet. | *DZH318Z08B80* |
+| SkuName | SKU-namnet. | *Tabeller – LRS* |
+| ProductName | Produktnamnet. | *Tabeller* |
+| ChargeType | Typ [av avgift eller](./recon-file-charge-types.md) justering. | *Nytt* |
+| UnitPrice | Pris per licens, enligt vad som publicerades i prislistan vid tidpunkten för köpet. Se till att detta matchar den information som lagras i faktureringssystemet under avstämningen. | *0.045* |
+| Kvantitet | Antalet licenser. Se till att detta matchar den information som lagras i faktureringssystemet under avstämningen. | *1* |
+| Delsumma | Totalsumma före skatt. Delsummorna ska vara lika med den fakturerbara kvantiteten multiplicerat med det effektiva enhetspriset. | *0* |
+| TaxTotal | Avgift skattebelopp. Baserat på din marknads skatteregler och specifika omständigheter. | *0* |
+| Totalt | Det totala beloppet är lika med delsumman plus skattebeloppet. | *0* |
+| Valuta | Fakturan genereras i kontexten för kundens valuta. Det innebär att om du är en partner som handlar med kunder från olika fakturerbara valutor får du en faktura för varje kundvalutatyp.  | *EUR* |
+| PriceAdjustmentDescription | Orsakerna till justeringarna i enhetspriset. Det här är de huvudsakliga orsakerna, men inte begränsade till att fastställa det effektiva enhetspriset. | *["15,0 % partner intjänad kredit för hanterade tjänster"]* |
+| PublisherName | Utgivare av produkten.  | *Microsoft* |
+| PublisherId | En unik identifierare som partnercentret använder för att identifiera utgivaren. | *NA* |
+| SubscriptionDescription | Namnet på det tjänsterbjudande som köpts av kunden enligt definitionen i prislistan. Den här kolumnen är ett identiskt fält med OfferName. | *Azure-plan* |
+| SubscriptionId | Unik identifierare för en prenumeration på Microsofts faktureringsplattform. Används inte för avstämning. Observera att den här identifieraren inte är samma som prenumerations-ID:t i partneradministratörskonsolen. | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |
+| ChargeStartDate | Det datum då faktureringsperioden för en prenumeration startar. | *9/1/2020* |
+| ChargeEndDate | Det datum då faktureringsperioden för en prenumeration upphör. | *2020-09-30* |
+| TermAndBillingCycle | Varaktigheten för åtagandet att fortsätta prenumerationen vid tidpunkten för köpet. | *Lagrade data (GB/månad)* |
+| EffectiveUnitPrice | Det prorrerade enhetspriset för att beräkna kostnaden för faktureringsperioden. Rabatter, justeringar i faktureringsdagar och andra faktorer avgör det effektiva enhetspriset. Mer information finns i [Effective Unit Price Calculation](./effective-unit-price-calculation.md).  | *0.03825* |
+| UnitType | Typ av enhet där mätaren debiteras. | *1 GB/månad* |
+| AlternateId | Alternativt ID för det refererade orderradsobjektet. | *6dc5c039750a* |
+| BillableQuantity | Den totala kvantitet som faktureras.  | *0.005001* |
+| BillingFrequency | Den faktureringsplan som valdes vid inköpet. | *NA*  |
 | PricingCurrency | Valutan i prislistan. | *USD* |
-| PCToBCExchangeRate | Växelkursen som används för pris valutan till fakturerings valutan. | *0,846202666* |
-| PCToBCExchangeRateDate | Det datum då pris nivån för fakturerings valutan fastställs. | *2020-09-30* |
-| MeterDescription | Beskrivning av mätare.  | *Tabeller – LRS data lagring (GB/månad)* |
-| ReservationOrderId | ID för reservations order. | *E21A6344E398FFC1C4D7...* |
-| CreditReasonCode | Kredit beskrivningen. | *Azures förbruknings kredit* |
+| PCToBCExchangeRate | Växelkursen som tillämpas för prissättningsvalutan för faktureringsvalutan. | *0.846202666* |
+| PCToBCExchangeRateDate | Det datum då prissättningsvalutan för faktureringsvalutan bestäms. | *2020-09-30* |
+| MeterDescription | Mätarbeskrivning.  | *Tabeller – LAGRADE LRS-data (GB/månad)* |
+| ReservationOrderId | Reservationsbeställnings-ID. | *E21A6344E398FFC1C4D7...* |
+| CreditReasonCode | Kreditbeskrivning. | *Azure-förbrukningskredit* |
 
 >[!NOTE]
->Du kan stämma av din Azure-förbrukning i din rekognoseringar-fil för inköp i taget. Det gör du genom att gå till din dagliga rekognoseringar-fil för användning och söka efter ditt SubscriptionID. Detta visar alla kostnader som är kopplade till ditt Azure-Plans-ID. Ditt Azure-SubscriptionID visas som EntitlementID.
+>Du kan stämma av din Azure-förbrukning i din rekognoseringsfil för ett köp. Det gör du genom att gå till din dagliga klassificerade rekognoseringsfil och söka efter ditt SubscriptionID. Då visas alla kostnader som är kopplade till ditt Azure-plan-ID. Ditt Azure SubscriptionID visas som EntitlementID.
 
 ## <a name="next-steps"></a>Nästa steg
 
