@@ -1,139 +1,142 @@
 ---
-title: Partner Center Insights – CloudAscent benägenhet-rapporter
-description: Lär dig mer om CloudAscent benägenhet-rapporter i Partner Center. Innehåller information om en kunds benägenhet för att köpa Microsoft-produkter.
+title: Partner Center-insikter – Rapporter om cloudAscent Propensity
+description: Lär dig mer om cloudAscent Propensity-rapporter i Partnercenter. Innehåller information om en kunds ighet att köpa Microsoft-produkter.
 ms.topic: conceptual
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.date: 09/18/2020
-ms.openlocfilehash: 2cdb63c8f7e29fc8a56e920b587e47c382c6eacb
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.date: 04/27/2021
+ms.openlocfilehash: 91f64faeec0b97be2797d489e152cb84cbb2e192
+ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086965"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "108213464"
 ---
-# <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>CloudAscent benägenhet-rapporter som är tillgängliga från instrument panelen för partner Center
+# <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>CloudAscent Propensity-rapporter som är tillgängliga från instrumentpanelen i Partnercenter
 
 **Lämpliga roller**
 
-- Rapport visnings program för chefer
-- Rapport visnings program
+- Visningsprogram för exekutiv rapport
+- Rapportvisningsprogram
 
-Instrument panelen för partner Center innehåller nedladdnings bara benägenhet-data från CloudAscent-programmet. Data visar kundernas benägenhet för att köpa Microsoft-produkter.  Den här artikeln beskriver hur du analyserar data, hur du använder den och vad det innebär.
+Instrumentpanelen i Partnercenter innehåller nedladdningsbara beständiga data från CloudAscent-programmet. Data visar kundernas sannolikhet att köpa Microsoft-produkter.  I den här artikeln beskrivs uppdelningen av dessa data, hur bedömning används och vad det innebär.
 
-## <a name="summary-definitions"></a>Sammanfattnings definitioner
+## <a name="summary-definitions"></a>Sammanfattningsdefinitioner
 
-- **SMC-kunder**– detta är det totala antalet kunder i benägenhet nedladdning.  Kunderna identifieras av en partner av posten.
-- **Avtalet upphör** att gälla – inom innevarande räkenskapsår tillhandahåller vi antalet avtals engångs avtal.
-- **Förfallo datum för intäkter**– den intäkt som är kopplad till avtalets upphör Ande.
-- **Öppna förfallo** datum för intäkt – intäkten som är kopplad till Open agreementd-avtal.
+- **SMC-kunder**– Det här är det totala antalet kunder som har ighetsnedladdningar.  Kunder identifieras av en postpartner.
+- **Upphör att** gälla – Under det aktuella räkenskapsåret tillhandahåller vi antalet utgångna avtal.
+- **Öppna Förfallande intäkter**– De intäkter som är associerade med de öppna utgångna avtalen.
 
-:::image type="content" source="images/pci/cust-oppor-1.png" alt-text="Skärm bild av instrument panelen Sammanfattning av kund möjligheter.":::
+:::image type="content" source="images/pci/cust-oppor-11.png" alt-text="Skärmbild av instrumentpanelen Sammanfattning av kundmöjligheter.":::
 
 ## <a name="cloudascent-smb-segmentation"></a>CloudAscent SMB-segmentering
 
-Det lilla till mellanliggande segmentet (SMB) är indelat i tre distinkta del segment.
+SMB-segmentet (small to medium business) är indelat i tre distinkta delsegment.
 
-1. De mest **ohanterade** innehåller de största SMB-kunderna med flest möjligheter för Microsoft. Vanliga ohanterade kunder delar liknande egenskaper som hanterade konton, med ett stort antal anställda, stora IT-budgetar och utgifter och stora mängder potentiella intäkter för Microsoft.
+1. **De mest ohanterade** innehåller de största SMB-kunderna med flest möjligheter för Microsoft. Vanliga kunder som inte är mest ohanterade har liknande egenskaper som hanterade konton, med ett stort antal anställda, stora IT-budgetar och -utgifter samt stora mängder potentiella intäkter för Microsoft.
 
-   Vi definierar de vanligaste ohanterade två sätten:
+   Vi definierar Top Unmanaged på två sätt:
 
-   - **Topp ohanterad användare baserad**– inkluderar konton med 300 eller fler anställda. User-Based konton är bra mål för första inköpet, eller en utbyggnad av användarbaserade prenumerations produkter som Microsoft 365, Dynamics 365 eller Surface.
-   - **Topp ohanterad beräkning baserad** – innehåller konton med Azure-potential som är större än $10 000. Compute-baserade konton inkluderar befintliga Azure. konton med betydande framtida års potential och konton som ännu inte har köpt Azure men som har potential för Azure större än $10 000.
+   - **Top Unmanaged User Based**– innehåller konton med 300 eller fler anställda. User-Based-konton är bra mål för första gången köp eller expansion av användarbaserade prenumerationsprodukter som Microsoft 365, Dynamics 365 eller Surface.
+   - **Top Unmanaged Compute Based –** innehåller konton med azure-potential som är större än 10 000 USD. Beräkningsbaserade konton omfattar befintliga Azure. konton med betydande framtida års potential och konton som ännu inte har köpt Azure men som har potential för Azure som är större än 10 000 USD.
 
-2. **Medel stora företag** inkluderar befintliga kunder och kund konton med 25 till 300 anställda.
+2. **Medelstort** företag innehåller befintliga kunder och potentiell kundkonton med 25 till 300 anställda.
 
-3. **Små företag** omfattar alla återstående företag med färre än 25 anställda.
+3. **Små företag** omfattar företag med 10–25 anställda.
 
-:::image type="content" source="images/pci/cust-oppor-2.png" alt-text="Kund av SMC-typ.":::
+4. **I Very Small Business** finns företag med 1–9 anställda.
 
-**De främsta** del segmenten med ohanterade och **medel stora företag** representerar höga LTV-kunder (Life-Time-Time) för Microsoft och Microsoft-partner. Därför är de de ledande områdena i fokus för att öka tillväxten i det här segmentet. I de här två del segmenten har vi bättre möjligheter att förvärva socketen med Microsoft 365, köpa ytterligare med D365/Azure line of Business (LOB)-appar och inse en hög LTV för Microsoft.
+:::image type="content" source="images/pci/cust-oppor-2.png" alt-text="Kund efter SMC-typ.":::
 
-Idag har vi två viktiga områden i affärs möjligheten – 1. vår kund ökar tillväxten; 11.2. Vi har också bra att köpa moln platser som leder till Microsoft 365, men vi har en stor möjlighet i D365 och Azure.
+**De främsta undersegmenten ohanterade** och medelstora företag representerar LTV-kunder (High Life-Time Value) för Microsoft och Microsoft-partner.  Därför är de de huvudfokusområden som ligger till grund för att öka tillväxten i det här segmentet. I de här två delsegmenten är vi bättre positionerade för att skaffa socketen med Microsoft 365, tjäna pengar ytterligare med D365-/Azure-verksamhetsappar (LOB) och realisera en hög LTV för Microsoft.
 
-Följande skärm bild visar de tre SMB-undersegmenten och optimerade vägar till marknaden. CloudAscent prioriterar profileringen, poängsättningen och modelleringen av alla topp ohanterade och medel stora företags konton.
+Idag har vi två viktiga affärsmöjlighetsområden – 1. vår kund ökar tillväxten; 2. Även om det går bra att skaffa molnsocketar som leder Microsoft 365, har vi stora möjligheter i Dynamics 365 och Azure.
 
-:::image type="content" source="images/pci/cust-oppor-3.png" alt-text="Skärm bild av SMB-undersegment.":::
+Följande skärmbild representerar de fyra SMB-undersegmenten. CloudAscent prioriterar profilering, bedömning och modellering av alla konton i de främsta ohanterade och medelstora företagarna.
+
+:::image type="content" source="images/pci/cust-oppor-32.png" alt-text="Skärmbild av SMB-undersegment.":::
 
 ## <a name="cloudascent-machine-learning"></a>CloudAscent Machine Learning
 
-SMB använder maskin inlärnings teknik för att driva försäljnings-och marknadsförings kund förutsägelser inom de högsta ohanterade och medel stora affärs segmenten. Hur samlas signaler in och omvandlas till benägenhet-rekommendationer?
+SMB använder maskininlärningsteknik för att driva kundförutsägelser för försäljning och marknadsföring i de viktigaste segmenten för ohanterade och medelstora företag. Hur samlas signaler in och omvandlas till rekommendationer för rekommendationer om rekommendationer för rekommendationer?
 
-- **Data insamling**: webbcrawler genomsöker och samlar in miljarder kund signaler genom att skicka ping till företagets domäner och övervakning: blogg inlägg, pressmeddelanden, sociala data strömmar och tekniska forum.  Utöver de insamlade signalerna samlas firmographics information in från både interna och externa källor som D&B, Microsoft intern prenumeration och transaktions data.
+- **Datainsamling:** Webb crawlers söker igenom och samlar in miljarder kundsignaler genom att pinga företagsdomänerna och övervaka blogginlägg, pressutgåor, sociala strömmar och tekniska forum.  Förutom insamlade signaler samlas företagsinformation in från både interna och externa källor som D&B, Microsofts interna prenumeration och transaktionsdata.
 
-- **Machine Learning**: signalerna matas in i Machine Learning-modellen som ger en strukturerad data uppsättning av försäljnings-och marknadsförings förutsägelser för varje kund enligt moln produkt och-kluster.  Varje kund betygs ätter en valfri modell till Microsofts främsta SMB som fastställer kundens anpassnings-och Machine Learning-algoritmer som integrerar kundens beteende för online-beteendet. Poängen slås samman i kluster som visar en kunds benägenhet att köpa Microsoft Cloud produkter.
+- **Machine Learning:** Signalerna matas in i maskininlärningsmodellen som matar ut en strukturerad datauppsättning med försäljnings- och marknadsföringsförutsägelser för varje kund efter molnprodukt och kluster.  Varje kund poängsätts med hjälp av en modell av samma utseende som Microsofts främsta SMB som avgör kundens anpassa, och maskininlärningsalgoritmer som integrerar kundens onlinebeteende definieras som avsikt. Poängen slås samman i kluster som visar en kunds ighet att köpa Microsoft Cloud Products.
 
-- **Optimering**: Machine Learning systemet optimerar modellerna genom att förbruka transaktions data varje månad och prenumerations data kvartals vis.  Med hjälp av vinst-/förlust data justerar Machine Learning algoritmerna och validerar att modellerna fungerar som förväntat genom att jämföra kluster rekommendationer med affärs möjligheter som har bearbetats i MSX.
+- **Optimering:** Machine Learning optimerar modellerna genom att förbruka transaktionsdata månadsvis och prenumerationsdata kvartalsvis.  Med hjälp av win/loss-data justerar Machine Learning algoritmerna och verifierar att modellerna fungerar som förväntat genom att jämföra klusterrekommendationerna med affärsmöjligheter som åtgärdats i MSX.
 
-:::image type="content" source="images/pci/cust-oppor-4.png" alt-text="Skärm bild av SMB Machine Learning.":::
+:::image type="content" source="images/pci/cust-oppor-4.png" alt-text="Skärmbild av SMB-maskininlärning.":::
 
-## <a name="cloudascent-propensity"></a>CloudAscent benägenhet
+## <a name="cloudascent-propensity"></a>CloudAscent-propensitet
 
-Hur skapas benägenhet-rekommendationer?
+Hur skapas rekommendationer för rekommendationer om rekommendationer för rekommendationer?
 
-Genom att använda signaler som samlats in via webbcrawler och data från olika källor konsoliderar vi firmographics-data och kundens sociala medie signaler.  Poängen använder dessa signaler och data i jämförelse modeller för anpassningar och bedömnings modeller för avsikten.
+Med hjälp av signaler som samlas in via webb crawlers och data från olika källor konsoliderar vi företagets data och kundens sociala mediesignaler.  Poängsättningen använder dessa signaler och data i jämförelsemodeller för anpassa och bedömningsmodeller för avsikt.
 
-1. Kund konto passning
+1. Anpassa kundkonto
 
-   - Interna och externa data punkter som definierar firmographics.
+   - Interna och externa datapunkter som definierar företagsgrafiska data.
 
-   - Anpassnings bedömnings använder en modell som liknar vår bästa SMB för att jämföra kunder och se om de är en potentiell anpassning för Microsoft Cloud produkter.
+   - Fit scoring använder en modell av samma utseende som vår bästa SMB för att jämföra kunder och se om de är lämpliga för Microsoft Cloud Products.
 
-   - Anpassnings resultat uppdateras varje kvartal
+   - Bedömning av passning uppdateras kvartalsvis
 
-2. Avsikt för kund konto
+2. Avsikt för kundkonto
 
-   - Signaler som rör sociala medier och en kunds beteende för online-beteende definierar avsikt.
+   - Signaler relaterade till sociala medier och en kunds onlinebeteende definierar Intent.
 
-   - Poängen för avsikten är överordnad för att definiera klustren.
+   - Avsiktsbedömningen överlagras ovanpå fit för att definiera klustren.
 
-   - Avsikts poängen uppdateras varje månad.
+   - Avsiktsbedömningen uppdateras varje månad.
 
-   :::image type="content" source="images/pci/cust-oppor-5.png" alt-text="CloudAscent SMB förutsägande modeller.":::
+   :::image type="content" source="images/pci/cust-oppor-5.png" alt-text="CloudAscent SMB-förutsägelsemodeller.":::
 
 3. Klustring
 
-   Signalerna för passa och avsikten samlas in i ett kluster poäng. CloudAscent har fyra kluster:
+   Signalerna för passning och avsikt konsolideras till en klustringspoäng. CloudAscent har fyra kluster:
 
-      - Handla nu – försäljnings klara kunder
-      - Utvärdera – marknadsförings klara kunder
-      - Nurture – disk medvetenhets kampanjer
-      - Utbilda – utbilda och övervaka för avsikt
+      - Agera nu – säljklara kunder
+      - Utvärdera – marknadsföringsklara kunder
+      - Vård – främja medvetenhetskampanjer
+      - Utbilda – utbilda och övervaka avsikter
 
-   Med klustringen kan användarna rikta in sig på specifika kunder för försäljnings-och marknadsförings initiativ baserat på segment faktorer, till exempel: produkt, geo, bransch och vertikal.
+   Klustringen gör att användare kan rikta in sig på specifika kunder för sälj- och marknadsföringsinitiativ baserat på segmentfaktorer, till exempel produkt, geo, bransch och vertikal.
 
-   Fliken **benägenhet modell** i arbets böckerna CloudAscent delar benägenhet och den beräknade intäkten på tomt utrymme. Vi går igenom följande steg för att definiera klustring av anpassning och avsikt:
+   Fliken **För ständiga modeller** i CloudAscent-arbetsböcker delar heten och de beräknade utrymmesintäkterna. För att definiera klustringen av Anpassa och Avsikt går vi igenom följande steg:
 
-      1. Med hjälp av ML-modeller beräknar vi först kund anpassnings poängen och avsikts poängen på en skala på 100.  Exakta resultat varierar beroende på ML-modeller.  Exempel resultat nedan:
+      1. Med hjälp av ML-modeller beräknar vi först kundpoäng och avsiktspoäng på en skala på 100.  De exakta poängen varierar beroende på ML-modeller.  Exempelresultat nedan:
 
-         |**Klassificering**|**Resultat**|
+         |**Klassificering**|**Poäng**|
          |---------|:---------|
-         |Högt|75 – 100|
-         |Medel|55 – 74|
+         |Högt|75 - 100|
+         |Medel|55 - 74|
          |Låg|30 - 54|
          |Mycket låg|0 - 29|
 
-      2. Med regeln ovan klassificerar vi företag som hög, medel, låg och mycket låg i både kund anpassningar och avsikts signaler.
+      2. Med hjälp av regeln ovan klassificerar vi företag som Hög, Medel, Låg och Mycket låg för både Customer Fit och Intent Signals.
 
-      3. Vi åker kundernas passnings-och avsikts signaler på en 2D-matris med varje skärnings punkt som representerar benägenhet. Till exempel hög passning + hög avsikt = a1 som representerar den högsta benägenhet.
+      3. Vi ritar kundpassnings- och avsiktssignaler på en 2D-matris där varje skärningspunkt representerar återgivningen. Till exempel hög passning + hög avsikt = A1, som representerar den högsta återgivningen.
 
-      4. Slutligen är segment gruppen till att bilda kluster.  Till exempel a1, a2, A3, A4 form fungerar nu-klustret.
+      4. Slutligen grupperar dessa segment för att bilda kluster.  Till exempel, A1, A2, A3 och A4 utgör act now-klustret.
 
          :::image type="content" source="images/pci/cust-oppor-6.png" alt-text="CloudAscent-modeller.":::
 
-   För dessa kunder rekommenderar vi att du riktar in dig på målet och utvärderar kunderna.
+   För dessa kunder rekommenderar vi att du riktar in dig på Agera nu och Utvärdera kunder.
 
-## <a name="cloudascent-products--models"></a>CloudAscent-produkter & modeller
+## <a name="cloudascent-products--models"></a>CloudAscent Products & Models
 
-Följande bild visar en vy över varje benägenhet-modell i CloudAscent:
+Följande bild visar en vy över varje stående modell i CloudAscent:
 
-:::image type="content" source="images/pci/cust-oppor-7.png" alt-text="CloudAscent benägenhet-modell.":::
+:::image type="content" source="images/pci/cust-oppor-7.png" alt-text="CloudAscent-ighetsmodell.":::
 
-Blank stegs modeller består av förutsägelser för befintliga Microsoft-kunder där de inte har en produkt och/eller är kunder med nya kunder.
+Tomt utrymmesmodeller består av förutsägelser för befintliga Microsoft-kunder där de inte har en produkt och/eller är netto nya kunder.
 
-Merförsäljning-modeller använder transaktions data för att förutsäga potentialen för merförsäljning i Azure och Microsoft 365 SKU: er.
+Modeller för merförsäljning använder transaktionsdata för att förutsäga potentialen för merförsäljning i Azure och Microsoft 365 SKU:er.
 
-EOS delar tjänst kundernas slut för Windows 7, Office 2010, SQL Server och Windows Server. EOS-data hämtas från MS Sales och överlappar med CloudAscent benägenhet-modellen där det är möjligt. EOS data liv i det moderna arbetet och Azure Sales spelar.
+Dessa kunder kommer redan att ha både Azure Microsoft 365 och modellen för merförsäljning visar att de sannolikt kommer att köpa mer av sin befintliga SKU.
+
+EOS delar EOS-kunder (end of service) för Win 7, Office 2010, SQL Server och Windows Server. EOS-data hämtas från MS Sales och överlagras med CloudAscent propensity modeling där det är tillgängligt. EOS-data finns i Modern Work och Azure Sales.
