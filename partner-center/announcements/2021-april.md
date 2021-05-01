@@ -10,17 +10,64 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/27/2021
-ms.openlocfilehash: 99fcf5ae00458b890d6ed3b16849d6cb253e6cbe
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.date: 04/29/2021
+ms.openlocfilehash: d26d1af994ae9a3f951ee9428ee6fd092b2c91d8
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172327"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328057"
 ---
 # <a name="april-2021-announcements"></a>Meddelanden april 2021
 
 Den här sidan innehåller meddelanden för Microsoft Partner Center för april 2021.
+
+## <a name="readiness-updated-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="10"></a>Beredskap: Uppdaterade CSP-kundadressvaliderings-API:et går i drift i juni. nu tillgänglig testfunktion
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-04-30
+- Beredskap
+
+### <a name="summary"></a>Sammanfattning
+
+För att hjälpa partner och kunder att driva sin verksamhet baserat på förtroende kommer vi att bjuda in partner att testa ändringar i API:et validate address för alla länder över hela världen.
+
+### <a name="impacted-audience"></a>Påverkad målgrupp
+
+CSP-direktfaktureringspartner och indirekta leverantörer som skapar nya eller uppdaterar befintliga kunders adressinformation
+
+### <a name="details"></a>Information
+
+Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för kundadressvalidering för att hantera kundprenumerationer i CSP-programmet. Från och med 31 mars 2021 har vi infört ändringar i API:et validate address. Vi bjuder in partner att testa API:et före go-live i slutet av juni 2021. 
+
+Observera att dessa ändringar endast påverkar API:et verifiera adress. API:er för att skapa kund och uppdatera faktureringsprofil påverkas inte. Även om den föreslagna adressen för närvarande inte behöver användas med API:et för att skapa kund rekommenderas det starkt.
+
+Svaret returnerar något av följande statusmeddelanden:
+
+| Status     | Beskrivning |    Antal föreslagna adresser som returneras |
+|-------|---------------|-------------------|
+|Verifierad shippable | Adressen är verifierad och kan skickas till. | Enkel |
+|Verifierat | Adressen är verifierad. | Enkel |
+|Interaktion krävs | Den föreslagna adressen har ändrats avsevärt och kräver användarbekräftelse. | Enkel |
+|Partiell gatuadress | Den angivna gatuadressen är delvis och behöver mer information. | Flera – högst tre |
+|Delvis lokal | De angivna lokalerna (byggnadsnummer, svitnummer och andra) är ofullständiga och behöver mer information. | Flera – högst tre |
+|Flera | Det finns flera fält som är partiella i adressen (inklusive delvis gatuadress och delvis lokal). | Flera – högst tre |
+|Inget | Adressen är felaktig. | Inget |
+|Inte validerat | Adressen kunde inte skickas via verifieringsprocessen. | Inget |
+
+Amerikanska postkoder returnerar ytterligare fyra siffror + bindestreck, till exempel 12345-6789.
+
+### <a name="next-steps"></a>Nästa steg
+
+- Mer detaljerad vägledning finns i den tekniska dokumentationen och vanliga frågor [och svar i](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) den dedikerade partnersamlingen.
+- Förbered för att införliva ändringarna med partnercenter-API:et och webbanvändarupplevelsen. 
+- Dela ditt sandbox-klientorganisations-ID med ämnesexperten (Ali Firmwareki) som ska ingå i testresan, så att du kan börja förbereda dig för uppdateringen. 
+- Om du använder en CPV-lösning (Kontrollpanelen) bör du kontakta din CPV.
+
+### <a name="questions"></a>Har du några frågor?
+
+Om du behöver support för dina åtgärder med Microsoft kan du kontakta din yammer-grupp för partnersupport eller öppna en [tjänstbegäran.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
 
 _______________
 ## <a name="new-location-for-partner-center-api-swagger-documentation"></a><a name="9"></a>Ny plats för Swagger-dokumentation för Partner Center API
@@ -36,7 +83,7 @@ Partner Center API Swagger-dokument har migrerats från den tidigare [Webbplatse
 
 ### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Partner för direktfakturering och indirekta leverantörer som deltar i Molnlösningsleverantör-programmet (CSP) som använder Partner Center-API:erna
+Direktfaktureringspartner och indirekta leverantörer som deltar i Molnlösningsleverantör-programmet (CSP) som använder Partner Center-API:erna
 
 ### <a name="details"></a>Information
 
@@ -44,7 +91,7 @@ Från och med 26 april 2021 finns Partner Center API Swagger-dokumentationen, in
 
 ### <a name="benefits"></a>Fördelar
 
-Swagger-dokumentationen för Partnercenter-API:et innehåller en **Try It-funktion.** Om du vill använda den här funktionen måste du ha en bearer-token som du kan generera genom att följa stegen i [Partner Center-autentisering.](https://docs.microsoft.com/partner-center/develop/partner-center-authentication#app--user-authentication)
+Swagger-dokumentationen för Partnercenter-API:et tillhandahåller **en Try It-funktion.** Om du vill använda den här funktionen måste du ha en bearer-token som du kan generera genom att följa stegen i [Partner Center-autentisering.](https://docs.microsoft.com/partner-center/develop/partner-center-authentication#app--user-authentication)
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -66,19 +113,19 @@ ________________
 
 Det finns ändringar i CSP-principen för programvarureturperiod och nedladdningslänken upphör att gälla.
 
-### <a name="impacted-audience"></a>Målgruppen som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
 Partner som gör permanenta programvaru- eller programvaruprenumerationserbjudanden i CSP
 
 ### <a name="details"></a>Information
 
-Observera följande viktiga meddelanden om kontinuerliga programvaru- och programvaruprenumerationsköp via Partnercenter:
+Observera följande viktiga meddelanden om löpande programvaru- och programvaruprenumerationsköp via Partnercenter:
 
 #### <a name="software-return-period-policy"></a>Princip för programvarureturperiod
 
-Från och med 1 juni 2021 ändras returperioden för programvaruerbjudanden i CSP enligt vad som anges i Microsoft-partneravtal (MPA) från 60 dagar från orderdatumet till 30 dagar från orderdatumet.
+Från den 1 juni 2021 ändras returperioden för programvaruerbjudanden i CSP enligt vad som anges i Microsoft-partneravtal (MPA) från 60 dagar från orderdatumet till 30 dagar från orderdatumet.
 
-När en beställning för ett programvaruerbjudande har skickats har partner 30 dagar från orderdatumet för att skicka ändringar i en sådan order:
+När en beställning av ett programvaruerbjudande har skickats har partnern 30 dagar från orderdatumet för att skicka eventuella ändringar till en sådan beställning:
 
 - Alla permanent programvarulicens som returneras inom 30-dagars returperioden får en fullständig kredit av det betalda inköpspriset.
 
@@ -116,7 +163,7 @@ CSP- och Open License-partner
 
 ### <a name="details"></a>Information
 
-2020 meddelade [Microsoft](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) att permanenta programvarulicenser kommer att vara allmänt tillgängliga för partner och kunder via programmet Molnlösningsleverantör (CSP). Den första milstolpen nåddes i januari 2021, när kommersiella permanenta programvaruerbjudanden blev tillgängliga. Nästa viktiga milstolpe sker i juli 2021 när erbjudanden [inom den offentliga](https://aka.ms/openlicensepublicsector) sektorn blir tillgängliga. Vi har [också](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) meddelat att från och med den 1 januari 2022 kan inga nya köp eller förnyelser av Software Assurance eller onlinetjänster göras via Open License-programmet.
+2020 meddelade [Microsoft](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) att permanenta programvarulicenser kommer att vara allmänt tillgängliga för partner och kunder via programmet Molnlösningsleverantör (CSP). Den första milstolpen nåddes i januari 2021, när kommersiella permanenta programvaruerbjudanden blev tillgängliga. Nästa viktiga milstolpe sker i juli 2021 när erbjudanden [inom den offentliga sektorn](https://aka.ms/openlicensepublicsector) blir tillgängliga. Vi har [också](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) meddelat att från och med den 1 januari 2022 kan inga nya inköp eller förnyelser av Software Assurance eller onlinetjänster göras via Open License-programmet.
 
 Övergången av permanent programvara till CSP-programmet i den nya handelsupplevelsen hjälper partner att utöka möjligheterna att erbjuda olika lösningar och hanterade tjänster. Detta påskyndar även kundernas övergång till molnet.  För att säkerställa en smidig övergång för både våra partner och kunder har vi gjort dessa justeringar och material för att påskynda den här digitala omvandlingen:
 
@@ -194,7 +241,7 @@ Länkar till den här guiden kommer också att ingå i följande samlingar:
 
 - [Community-samlingar](https://partner.microsoft.com/resources/collection/april-2021-csp-partner-community-content#/), som innehåller stödmaterial för våra månatliga partnersamtal, med fokus på kommande ändringar och aktuella ämnen av driftsmässiga intresse.
 
-- [Partnerns nyhetsbrev,](https://partner.microsoft.com/resources/collection/csp-monthly-update#/)till exempel månadsuppdatering för CSP
+- [Nyhetsbrev för partner,](https://partner.microsoft.com/resources/collection/csp-monthly-update#/)till exempel månadsuppdatering för CSP
 
 Som en månatlig påminnelse kommer vi också att publicera ett Partnercenter-meddelande med varje nytt ärende i guiden för global kampanjberedskap.
 
@@ -224,7 +271,7 @@ CSP-direktfaktureringspartner och indirekta leverantörer
 
 Den här månaden innehåller resurserna följande viktiga avsnitt:
 
-- [Uppdatera till CSP-programutveckling och ändringar i Open License-programmet](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/)
+- [Uppdatering av CSP-programutveckling och ändringar i Open License-programmet](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/)
 
 - [Ändringar av CSP-kundernas registreringskrav i vissa regioner](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/)
 
@@ -304,7 +351,7 @@ ________________
 
 ### <a name="summary"></a>Sammanfattning
 
-Microsoft introducerar ett nytt format för den nya PDF-handelsfakturan i Molnlösningsleverantör-programmet (CSP) för att visa faktureringsinformation efter produktinformation i stället för SKU-beskrivning.
+Microsoft introducerar ett nytt format för den nya PDF-fakturan för handel i Molnlösningsleverantör-programmet (CSP) för att visa faktureringsinformation efter produktinformation i stället för SKU-beskrivning.
 
 ### <a name="impacted-audience"></a>Påverkad målgrupp
 
@@ -314,7 +361,7 @@ Partner som gör en överträdelse via CSP-programmet
 
 Från och med maj 2021 introducerar Microsoft ett nytt format för den nya PDF-fakturan för handel i CSP-programmet för att visa faktureringsinformation efter produktinformation i stället för SKU-beskrivning. Med den här nya uppdateringen kommer vi att aggregera radobjekten efter produkttyp samtidigt som vi visar varje produkt på en enskild rad.
 
-Partner kommer att märka att ändringen börjar gälla på fakturan för faktureringsperioden mellan 1 april 2021 och 30 april 2021. De berörda erbjudandena är Microsoft Azure reserverad instans, Azure-prenumerationer (Azure-plan) och Marketplace.
+Partner kommer att märka att ändringen börjar gälla på fakturan för faktureringsperioden mellan 1 april 2021 och 30 april 2021. De berörda erbjudandena är Microsoft Azure Reserverad instans, Azure-prenumerationer (Azure-plan) och Marketplace.
 
 Eventuella begäranden om kreditrefakturering som görs efter att fakturaformatet har uppdaterats genereras i det nya formatet.
 
@@ -328,7 +375,7 @@ Den här uppdateringen kommer att erbjuda följande förbättringar av faktureri
 
 Följande element påverkas inte:
 
-- Sidan med faktureringssammanfattning i PDF-filen med faktura
+- Sidan Med faktureringssammanfattning på PDF-fakturan
 
 - Befintliga fakturerings-API:er
 
@@ -396,7 +443,7 @@ Partner som gör affärer med nya eller befintliga kunder i följande länder ha
 - Ukraina
 - Uzbekistan
 
-Partner med kunder i resten av världen kan i slutet av mars 2021 ange företagets registrerings-ID, telefonnummer och mellannamn för kunder som valfri information.
+Partner med kunder i resten av världen kommer att ha möjlighet i slutet av mars 2021 att ange företagets registrerings-ID, telefonnummer och mellannamn för kunder som valfri information.
 
 ### <a name="next-steps"></a>Nästa steg
 

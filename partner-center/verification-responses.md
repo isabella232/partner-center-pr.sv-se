@@ -4,58 +4,56 @@ ms.topic: article
 ms.date: 01/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Följ status för konto verifieringen när du försöker registrera dig i ett nytt Partner Center-program. Lär dig hur du anger ytterligare information, om det behövs.
+description: Följ statusen för din kontoverifiering när du försöker registrera dig i ett nytt Partnercenter-program. Lär dig hur du tillhandahåller ytterligare information om det behövs.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 49c9d6730dd221ea81806644c8d05ff65442272f
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: 0f5520dec7c5af80817223797c14c9f2c16f96c6
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215806"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284544"
 ---
-# <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Verifiera din konto information när du registrerar dig i ett nytt Partner Center-program
+# <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Verifiera din kontoinformation när du registrerar dig i ett nytt Partnercenter-program
 
 **Lämpliga roller**
 
 - Global administratör
-- MPN-konto administratör
+- MPN-partneradministratör
 
-När du registrerar i ett nytt program i Partner Center, verifierar Microsoft konto registrerings informationen som du har angett, till exempel företagets namn, företags adress och primär kontakt information. Under den här processen kan Microsoft skicka e-post till din primära kontakt för att informera denne om statusen och begära ytterligare verifieringsdokumentation.
+När du registrerar dig i ett nytt program i Partnercenter verifierar Microsoft den kontoregistreringsinformation som du har angett, till exempel företagets namn, företagsadress och primära kontaktuppgifter. Under den här processen kan Microsoft skicka e-post till din primära kontakt för att informera dem om statusen och begära mer verifieringsdokumentation.
 
 >[!NOTE]
->För att säkerställa att du får e-postmeddelandet måste du flagga e-post från Microsoft.com som en "säker" domän och kontrol lera skräp post mapparna.
+>Se till att du får e-postmeddelandet genom att flagga e-post Microsoft.com en "säker" domän och markera Skräppostmappar.
 
-Om du är den primära kontakten (global administratör eller konto administratör) rekommenderar vi att du går till din partner profil för att övervaka verifierings status och spåra förloppet.
+Om du är den primära kontakten (global administratör eller kontoadministratör) rekommenderar vi att du går till din partnerprofil för att övervaka verifieringsstatus och spåra förloppet.
 
-För MPN-program går du till [den här sidan](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile).
+För MPN-program går du till [sidan Juridisk](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) information.
 
-För CSP-program, gå till [den här sidan](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
+För CSP-program går du till [sidan Juridisk](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) information.
 
 
 ## <a name="what-is-verified-and-how-to-respond"></a>Vad som verifieras och hur du svarar
 
-|**Typ av verifiering**   |**Vad som verifieras**   |**Vad du gör om det avvisas**   |
+|**Typ av verifiering**   |**Vad som har verifierats**   |**Vad du kan göra om det avvisas**   |
 |----------------------------|:-----------------------------------|:--------------------------------------|
-|E-postägarskap   |E-postäganderätten verifierar att den primära kontaktadressen (primär e-postadress) är giltig. Den primära e-postadressen för kontakt måste vara ett arbetskonto som övervakas och kan skicka/ta emot e-post. **Partner får inte använda följande**: (1) en personlig e-postadress som inte är associerad med företagsdomänen. (2) en klient användar inloggning som inte är kopplad till e-post (till exempel jsmith@testcompany.onmicrosoft.com ).  |Om du inte får e-postmeddelandet för att verifiera e-post inom en arbets dag, kan du begära att vi skickar igen med följande länkar: för [MPN](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile)för [CSP](https://partner.microsoft.com/pcv/accountsettings/partnerprofile). På sidan profil klickar du på länken för att skicka e-postbekräftelse igen för Microsoft för att skicka e-postmeddelandet till dig igen. Säkerställ att e-postmeddelandet tas emot genom att flagga e-post från Microsoft.com som en "säker" domän och kontrol lera skräp post mappar.|
-|Perioder |Personal verifiering bekräftar att den primära kontakten är anställd hos det registrerade företaget genom att ha en aktiv e-postadress i en e-postdomän som ägs av företaget.|Om personal verifieringen avvisas måste den primära kontakten (vanligt vis din globala eller konto administratör) tillhandahålla dokumentation som bekräftar att kontaktens e-postdomän är under ägande av deras arbetsgivare. [Skapa ett support ärende](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b).|
-|Företag   | Verksamhets verifiering bekräftar att det registrerade företaget är en legitim affär senhet och att den är på den adress som används för registreringen.|Bekräfta att företags namnet och adressen i din [juridiska affärs profil](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) är fria från stavfel och förkortningar och matcha dina formella företags registrerings poster exakt. Den primära kontakten (vanligt vis din globala eller konto administratör) uppmanas att tillhandahålla officiell dokumentation, till exempel en affärs registrering eller ett certifikat för skatte registrering eller ett kvitto, från företagets hem land eller kommun som bekräftar att företaget har behörighet att göra affärer under det entitetsnamnet och finns på registrerings adressen. [Skapa ett support ärende](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)|
+|E-postägarskap   |E-postäganderätten verifierar att den primära kontaktadressen (primär e-postadress) är giltig. Den primära e-postadressen för kontakt måste vara ett arbetskonto som övervakas och kan skicka/ta emot e-post. **Partner får inte använda följande**: (1) en personlig e-postadress som inte är associerad med företagsdomänen. (2) en klientanvändares autentiseringsuppgifter som inte är associerade med e-post (till exempel jsmith@testcompany.onmicrosoft.com ).  |Om du inte får e-postmeddelandet för verifiering av e-postägarskap inom en arbetsdag kan du begära att vi skickar igen med hjälp av följande länkar: för [MPN](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile), för [CSP](https://partner.microsoft.com/pcv/accountsettings/partnerprofile). På profilsidan väljer du länken "Skicka om verifieringsmeddelandet" för Microsoft för att skicka e-postmeddelandet till dig igen. Säkerställ att du får e-postmeddelandet genom att flagga e-post från Microsoft.com som en säker domän och kontrollera eventuella skräppostmappar.|
+|Sysselsättning |Anställningsverifiering bekräftar att den primära kontakten är anställd på det registrerade företaget genom att ha en aktiv e-postadress i en e-postdomän som ägs av företaget.|Om anställningsverifieringen avvisas måste den primära kontakten (vanligtvis din globala administratör eller kontoadministratör) tillhandahålla dokumentation som bekräftar att kontaktens e-postdomän är under arbetsgivares ägarskap. [Skapa en supportbiljett](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b).|
+|Företag   | Företagsverifiering bekräftar att det registrerade företaget är en legitim affärsenhet och är på den adress som används för registreringen.|Kontrollera att företagets namn och [](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) adress i företagsprofilen Juridiskt är fria från stavningsfel och förkortningar och matcha företagets formella registreringsposter exakt. Den primära kontakten (vanligtvis din globala administratör eller kontoadministratör) uppmanas att tillhandahålla officiell dokumentation, till exempel ett företagsregistrerings- eller skatteregistreringscertifikat eller skatteregistreringscertifikat eller kvitto, från företagets hemland eller organisationskonto som bekräftar att företaget har behörighet att göra affärer under det entitetsnamnet och finns på registreringsadressen. [Skapa en supportbiljett](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)|
 
 >[!NOTE]
->Lär dig hur du uppdaterar din [företags profil (adress)](update-your-partner-profile.md).
+>Lär dig hur du uppdaterar [din juridiska företagsprofil (adress).](update-your-partner-profile.md)
 
-## <a name="when-verification-concludes"></a>När verifieringen avslutas
+## <a name="when-verification-concludes"></a>När verifieringen är slut
 
-När verifierings processen är klar ändras verifierings statusen för registreringen på profil sidan från "väntar" till "auktoriserad", och process stegen med statusen som visas på sidan försvinner.
-Den primära kontakten får ett e-postmeddelande från Microsoft inom några arbets dagar efter att verifieringen har slutförts. 
+När verifieringsprocessen är klar ändras verifieringsstatusen för din registrering på profilsidan från "väntande" till "auktoriserad" och processstegen med statusen som visas på sidan försvinner.
+Den primära kontakten får ett e-postmeddelande från Microsoft inom några arbetsdagar efter att verifieringen har slutförts. 
 
-När du har loggat in i din profil, om du ser **väntande åtgärder**, slutför du de nödvändiga ändringarna enligt följande:
+Om du ser Väntande åtgärder när du **har loggat in på** din profil slutför du de nödvändiga ändringarna enligt följande:
 
-- För MPN-program går du [hit](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile).  
-- För CSP-program, går du [hit](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
+- För MPN-programmet går du till [sidan Juridisk](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) information.  
+- För CSP-programmet går du till [sidan Juridisk](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) information.
 
-Om du behöver hjälp med att utföra de här stegen i Partner Center kan du kontakta support teamet för partner genom att öppna en biljett i support avsnittet i Partner Center.  Börja [här](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=21655de7-7dbb-4927-33a2-f60f45feadf3).
-
-
+Om du behöver hjälp med att slutföra de här stegen i Partnercenter kan du kontakta partnersupportteamet genom att öppna ett ärende i supportavsnittet i Partnercenter. Det gör du genom att börja på [sidan Hjälp och](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=21655de7-7dbb-4927-33a2-f60f45feadf3) support.

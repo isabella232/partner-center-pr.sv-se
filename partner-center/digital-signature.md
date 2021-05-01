@@ -4,53 +4,57 @@ ms.topic: how-to
 ms.date: 07/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig hur Partner Center partner i Indien kan visa digitalt signerade fakturor och ta emot digitala kopior av fakturor för beställningar som skapats i Partner Center.
+description: Lär dig hur Partnercenter-partner i Indien kan visa digitalt signerade fakturor och ta emot digitala kopior av fakturor för beställningar som skapats i Partnercenter.
 author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0696a3820a873ca213b4c2e0be847c0518095466
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: b0d8a560c048f1a1dbb783560cf419145754a6fe
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92531945"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284306"
 ---
 # <a name="view-digitally-signed-invoices"></a>Visa digitalt signerade fakturor
 
 **Gäller för**
 
-- Partnercenter
-- Partner Center, Indien
+- Partner Center Indien
+
+**Lämpliga roller**
+
+- Kontoadministratör
+- Faktureringsagent
+- Försäljningsagent
+
+Partner i Indien ser nu att Microsoft har digitalt signerade fakturor. Du måste använda Adobe Acrobat Reader Document Cloud (DC) för att visa en signatur.
+
+## <a name="how-to-view-and-insure-a-valid-digital-signature"></a>Visa och försäkra dig om en giltig digital signatur
 
 
-Partner i Indien ser nu att Microsoft har digitalt signerade fakturor. Du måste använda Adobe Acrobat Reader-dokumentets moln (DC) för att visa en signatur.
-
-## <a name="how-to-view-and-insure-a-valid-digital-signature"></a>Så här visar och kontrollerar du en giltig digital signatur
+1. Om du har skapat beställningen i Partnercenter får du en digital kopia av en faktura via e-post. Välj fakturan som öppnas från Adobe Acrobat Reader DC.
 
 
-1. Om du har skapat ordern i Partner Center får du en digital kopia av en faktura i e-postmeddelandet. Välj den faktura som ska öppnas från Adobe Acrobat Reader DC.
-
-
-2. Överst på fakturan bör du se **signerad och alla signaturer är giltiga** .
+2. Överst på fakturan bör du se Signerad **och alla signaturer är giltiga.**
  
- :::image type="content" source="images/digitalsig/digital1.png" alt-text="Exempel på faktura med en aviserings banderoll med giltig signatur som visar den gröna bocken och frasen som säger, signerad och alla signaturer är giltiga.":::
+ :::image type="content" source="images/digitalsig/digital1.png" alt-text="Exempelfaktura med en giltig signaturmeddelandebanderoll som visar en grön bocksignatur och fras som säger Signerad och alla signaturer är giltiga.":::
 
-3. Klicka på signaturen. Certifikatets giltighets tid kommer att visas.
+3. Välj signaturen. Certifikatet som anger giltigheten visas.
 
-:::image type="content" source="images/digitalsig/digital2.png" alt-text="Exempel på faktura med en aviserings banderoll med giltig signatur som visar den gröna bocken och frasen som säger, signerad och alla signaturer är giltiga."::: 
+:::image type="content" source="images/digitalsig/digital2.png" alt-text="Signerad faktura med fältet Authorized Uppsent och dialogrutan Signaturvalideringsstatus med information, alternativet Signaturegenskaper, alternativet Avbryt."::: 
 
-4. Välj **Egenskaper för signaturen** om du vill visa mer information om signaturens giltighet.
+4. Välj **Signaturegenskaper om** du vill visa mer information om signaturens giltighet.
 
-:::image type="content" source="images/digitalsig/digital4.png" alt-text="Exempel på faktura med en aviserings banderoll med giltig signatur som visar den gröna bocken och frasen som säger, signerad och alla signaturer är giltiga."::: 
+:::image type="content" source="images/digitalsig/digital4.png" alt-text="Informationsvyn för signaturegenskaper visar information om vem, var, när dokumentet signerades, dess verifieringsprocess och signerarcertifikat."::: 
 
-4. Du kan också se till att certifierings Sök vägarna är korrekta och att certifikatet är betrott.
+4. Du kan också se till att certifieringssökvägarna är korrekta och att certifikatet är betrott.
 
- :::image type="content" source="images/digitalsig/digital3.png" alt-text="Exempel på faktura med en aviserings banderoll med giltig signatur som visar den gröna bocken och frasen som säger, signerad och alla signaturer är giltiga.":::
+ :::image type="content" source="images/digitalsig/digital3.png" alt-text="Dialogrutan Certifikatvisare visar flera flikar med mer information om ett certifikat och hela utfärdandekedjan.":::
 
 ### <a name="additional-information-on-invoices-and-digital-signatures"></a>Ytterligare information om fakturor och digitala signaturer
 
-En digital kopia kommer att skickas till den person som skapade ordern i Partner Center. Du kan inte hämta digitalt signerade fakturor för fakturor som har utfärdats före den 17 juli 2020. Även manuellt signerade fakturor är inte tillgängliga.
+En digital kopia skickas till den person som skapade beställningen i Partnercenter. Du kan inte få digitalt signerade fakturor för fakturor som utfärdats före den 17 juli 2020. Dessutom är manuellt signerade fakturor inte tillgängliga.
 
 ## <a name="next-steps"></a>Nästa steg
 

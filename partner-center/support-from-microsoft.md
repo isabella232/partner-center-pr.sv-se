@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a22dd2a8ec8ce3da3aa0967741685a2f28cc0a15
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: e863a5dbb86dae2c1cd3395589b4d4318eb0dba1
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002815"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284153"
 ---
 # <a name="support-from-microsoft"></a>Support från Microsoft
 
@@ -24,13 +24,13 @@ ms.locfileid: "108002815"
 
 **Lämpliga roller**
 
-- Hjälpagent
+- Supportagent
 
 Om du har problem med en Microsoft-tjänst eller partnercenter kan du rapportera problemet till Microsoft, eskalera problemet till Microsoft för hjälp och spåra problemet tills det har lösts.
 
 [Support för Partnercenter](report-problems-with-partner-center.md) – Få hjälp och skapa biljetter för alla Partner Center-program.
 
-[Support åt kunder –](report-problems-on-behalf-of-a-customer.md) Få hjälp och rapportera problem till kunden.
+[Support för kunder –](report-problems-on-behalf-of-a-customer.md) Få hjälp och rapportera problem till kunden.
 
 [Kontrollera tjänstens](check-service-health.md) hälsotillstånd – Kontrollera om det finns några kända tjänstavbrott i Partnercenter.
 
@@ -40,5 +40,5 @@ Om du har problem med en Microsoft-tjänst eller partnercenter kan du rapportera
 
 - [Visa fler supportresurser](https://partner.microsoft.com/support/?stage=1)
 - [Hitta en partner](find-a-partner.md)
-- [Lär dig mer om eller registrera dig i MPN-programmet](https://partner.microsoft.com/membership)
+- [Läs mer om eller registrera dig i MPN-programmet](https://partner.microsoft.com/membership)
 - [Lär dig mer om eller registrera dig i CSP-programmet](https://partner.microsoft.com/membership/cloud-solution-provider)

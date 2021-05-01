@@ -1,7 +1,7 @@
 ---
 title: Hämta insikter om hänvisningar
 ms.topic: article
-ms.date: 02/26/2021
+ms.date: 04/30/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Granska dina hänvisningsinformationsdata regelbundet i Partnercenter för att se trender för att åtgärda eller förbättringsområden som hjälper dig att nå dina affärsmål.
@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a8227fecae05d3752d65651dea4cdc62c9ea672
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 5793e865105b59b2772fd6af5187a92115659e1d
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120859"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328091"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Få information om hänvisningar i Partnercenter och ta reda på hur dina hänvisningar fungerar
 
@@ -27,7 +27,7 @@ På **sidan Möjligheter till säljförsäljning** under avsnittet **Analys** i 
 Om du vill se dina insiktersdata om möjligheter till säljförsäljning går du till Referenser i Partnercenter **> Analytics > Möjligheter till säljförsäljning.**
 
 > [!Important]
-> Filtret för avtalstyp tillämpas i förväg **med säljförsäljningstypen** vald för alla data. Ta bort filtret om du vill lagra data som rör privata avtal och partnerledda avtal.
+> Filtret för avtalstyp tillämpas i förväg med **den säljförsäljningstyp** som valts för alla data. Ta bort filtret om du vill analysera data relaterade till privata och partnerledda avtal.
 
 ## <a name="apply-filters"></a>Använda filter
 
@@ -44,13 +44,13 @@ Du kan välja **knappen Filter** för att öppna panelen där du kan filtrera al
 
 Informationen i alla diagram som anges nedan återspeglar datumintervallet och eventuella filter som du har valt, förutom vad som anges nedan. I vissa avsnitt kan du också använda extra filter, till exempel filtrering för en specifik lösning.
 
-## <a name="referrals-summary"></a>Sammanfattning av hänvisningar
+## <a name="referrals-summary"></a>Referenssammanfattning
 
 Det här kortet visar en översikt över hur det går för dina möjligheter till säljförsäljning.
 
 Diagrammet visar det totala antalet avtal, det antal som vanns, antalet som förlorades och den totala avtalsvolymen (i USD) för den valda tidsperioden.
 
-Måtten för procentuell ändring (visas i rött eller grönt med  en pilindikator) anger skillnaden mellan den senaste fullständiga månaden i det valda datumintervallet och den första fullständiga månaden i **intervallet**. Säg till exempel att det aktuella datumet är 15 juni och att du har valt **3M-filtret** för att visa data för de senaste tre månaderna. I det här fallet skulle dessa mått visa skillnaden mellan maj (den senaste fullständiga månaden under den valda tidsperioden) och mars (den första fullständiga månaden under den valda tidsperioden) det valda datumintervallet är senaste **3** miljoner , jämförelsen skulle vara mellan data för maj och data för mars.
+Måtten för procentuell ändring (visas i rött eller grönt med  en pilindikator) anger skillnaden mellan den senaste fullständiga månaden i det valda datumintervallet och den första fullständiga månaden i **intervallet**. Säg till exempel att det aktuella datumet är 15 juni och att du har valt **3M-filtret** för att visa data för de senaste tre månaderna. I det här fallet skulle de här måtten visa skillnaden mellan maj (den sista fullständiga månaden under den valda tidsperioden) och mars (den första fullständiga månaden under den valda tidsperioden) det valda datumintervallet är senaste **3** miljoner , jämförelsen blir mellan data för maj och data för mars.
 
 :::image type="content" source="images/referrals/cosellanalyticssummary.png" alt-text="Bild som visar sammanfattningskortet för analys av möjligheter till säljförsäljning.":::
 
@@ -94,14 +94,13 @@ Det här avsnittet hjälper dig att analysera orsakerna till att avtal markeras 
 
 ## <a name="comparison-charts"></a>Jämförelsediagram
 
-Jämförelseavsnittet hjälper dig att jämföra data relaterade till hänvisningar baserat på flera dimensioner både på volymen och det avtalsvärde som vunnits i USD-pivot.
-De tre dimensioner som du kan välja för att jämföra data är
+Jämförelseavsnittet hjälper dig att jämföra data relaterade till hänvisningar baserat på flera dimensioner både på volymen och det avtalsvärde som vunnits i USD-pivot. De tre dimensioner som du kan välja för att jämföra data är:
 
 - Avtalstyp
 - Marknader
 - Lösningar
 
-När avtalstyp har valts kan du jämföra referensprestandan för med avseende på möjligheter till säljförsäljning, partnerledda och privata avtal. För både marknader och lösningar kan du välja mellan tre olika alternativ för att jämföra deras prestanda. Det första diagrammet, som är ett stapeldiagram, har data som visas med en månadstrend baserat på huvud pivoten, som är volym eller det avtalsvärde som vunnits. Det finns också ett cirkeldiagram till höger om stapeldiagrammet, som visar fördelningen efter procentandel för samma data.
+När avtalstyp har valts kan du jämföra referensprestanda med avseende på möjligheter till säljförsäljning, partnerledda och privata avtal. För både marknader och lösningar kan du välja mellan tre olika alternativ för att jämföra deras prestanda. Det första diagrammet, som är ett stapeldiagram, har data som visas med en månadstrend baserat på huvud pivoten, som är volym eller det avtalsvärde som vunnits. Det finns också ett cirkeldiagram till höger om stapeldiagrammet, som visar fördelningen efter procentandel för samma data.
 
 :::image type="content" source="images/referrals/cosell-analytics-compare-v2.png" alt-text="Bild som visar jämförelseavsnittet.":::
 
@@ -128,3 +127,8 @@ Det kan finnas flera orsaker till varför du får ett tomt diagram som nedan nä
 
 > [!TIP]
 > Om du vill se hur din företagsprofil presterar i [Hitta en lösningsleverantör](https://www.microsoft.com/solution-providers/home) kan du gå till [sidan Affärsprofilinsikter.](analyze-your-marketing-profile.md)
+
+## <a name="next-steps"></a>Nästa steg
+
+- [Utveckla din verksamhet med Microsoft-hänvisningar](referrals.md)
+- [Analysera dina leads](analyze-your-marketing-profile.md)

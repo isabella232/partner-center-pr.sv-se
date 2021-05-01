@@ -1,34 +1,37 @@
 ---
-title: Kund kommunikation från Microsoft
+title: Kundkommunikation från Microsoft
 ms.topic: article
 ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig hur Microsoft förväntar sig att kund kommunikationen ska ske mellan kunder och partners i Cloud Solution Provider-programmet.
+description: Lär dig hur Microsoft förväntar sig att kundkommunikation sker mellan kunder och partner i Molnlösningsleverantör program.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 7b4e244a090b401afe2b0c86a532f5ecc6b5a154
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 6de0d50364930999a7d0f335016a7c5a1864d8ab
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "92531180"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284357"
 ---
-# <a name="guidelines-for-successful-customer-communication-with-microsoft"></a>Rikt linjer för lyckad kund kommunikation med Microsoft
+# <a name="guidelines-for-successful-customer-communication-with-microsoft"></a>Riktlinjer för lyckad kundkommunikation med Microsoft
 
 **Gäller för**
 
--  Partnercenter
--  Partner Center för Microsoft Cloud för amerikanska myndigheter
+- Välkommen till Partnercenter för Microsoft Cloud for US Government
 
-I allmänhet förväntar vi oss all kommunikation med kunden att komma från moln lösnings leverantörens partner. Eftersom du äger kund fakturerings relationen kommer Microsoft inte att skicka kommunikation direkt till dina kunder som är relaterade till deras prenumerationer.
+**Lämpliga roller**
 
-Microsoft kan kommunicera direkt med kunder om tjänste incidenter eller annan drift information.
+- Supportagent
 
-För kunder som redan har befintliga kommersiella relationer med Microsoft kommer Microsoft att fortsätta att kommunicera direkt med dem om sina produkter och tjänster som inte är CSP.
+I allmänhet förväntar vi oss att all kommunikation med kunden kommer från Molnlösningsleverantör partner. Eftersom du äger kundfaktureringsrelationen skickar Microsoft inte kommunikation direkt till dina kunder som är relaterade till deras prenumerationer.
+
+Microsoft kan kommunicera direkt med kunder om tjänstincidenter eller annan driftsinformation.
+
+För kunder som redan har befintliga kommersiella relationer med Microsoft fortsätter Microsoft att kommunicera direkt med dem om sina icke-CSP-produkter och -tjänster.
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Customer Self support via Microsoft Office 365 administrations Center eller via Azure Portal](customer-self-support.md)
+- [Kundens självsupport via Microsoft Office 365-administrationscentret eller via Azure Portal](customer-self-support.md)
