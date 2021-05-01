@@ -447,7 +447,7 @@
           displayName: 'region, regio'
         - name: Begär en SLA-kredit från Microsoft
           href: request-credit.md
-        - name: Hur skatteprinciper påverkar utbetalning
+        - name: Så här påverkar skatteprinciper utbetalningen
           href: tax-policies-affect-payout.md
     - name: Ange en Azure-utgiftsbudget för dina kunder
       href: set-an-azure-spending-budget-for-your-customers.md
@@ -513,6 +513,9 @@
           displayName: csp
         - name: Köpa Marketplace-erbjudanden
           href: csp-commercial-marketplace-purchase.md
+          displayName: csp
+        - name: Hantera licensiering i Marketplace-erbjudanden
+          href: csp-commercial-marketplace-licensing.md
           displayName: csp
         - name: Exklusiva Marketplace-erbjudanden från oberoende programvaruleverantörer
           href: isv-opt-in.md
