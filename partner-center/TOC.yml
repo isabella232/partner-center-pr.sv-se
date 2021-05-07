@@ -30,8 +30,11 @@
         - name: Aktivera förmåner för PMC
           href: partner-membership-center-tech-benefits-activate.md
           displayName: mpn
-    - name: Medlemserbjudanden
+    - name: Medlemsförmåner
       items:
+        - name: Översikt över förmåner
+          href: manage-your-partner-network-benefits.md
+          displayName: mpn
         - name: Action Pack
           href: mpn-get-action-pack.md
           displayName: 'renew, mpn'
@@ -44,50 +47,21 @@
         - name: Hitta dina MPN-förmåner
           href: mpn-find-benefits.md
           displayName: mpn
-        - name: Avgifter för betalning av kompetens
-          href: mpn-pay-fee-silver-gold-competency.md
-          displayName: mpn
-    - name: Kompetenser
+        - name: Princip och användning för förmåner – Vanliga frågor och svar
+          href: benefits-faq-new.md
+        - name: Vanliga frågor och svar om förmåner
+          href: benefits-faq.md
+          displayName: 'renew, license,'
+        - name: Visa eller ladda ned DIN MPN-faktura
+          href: mpn-view-print-maps-invoice.md
+    - name: Tillgängliga fördelar
       items:
-        - name: Lär dig mer om kompetenser
-          href: learn-about-competencies.md
-          displayName: mpn
-        - name: Registrera dig som utbildningspartner
-          href: mpn-benefits-map-competency-learning-option-enroll.md
-          displayName: mpn
-        - name: Vanliga frågor och svar om kompetenser
-          href: competencies-faq.md
-          displayName: 'renew, mpn'
-        - name: Undantag för apputvecklarkompetens
-          href: app-dev-isv.md
-        - name: Använda kunskapsrapporten
-          href: mpn-skills-report.md
-    - name: Avancerade specialiseringar
-      items:
-        - name: Demonstrera dina kunskaper
-          href: advanced-specializations.md
-          displayName: mpn
-        - name: Tillämpa eller kontrollera status
-          href: advanced-specializations-apply.md
-          displayName: mpn
-    - name: Bli en Azure Expert MSP
-      href: azure-expert-msp.md
-    - name: Fördelar
-      items:
-        - name: Översikt över förmåner
-          href: manage-your-partner-network-benefits.md
-          displayName: mpn
         - name: Marknadslanseringsförmåner
           href: mpn-learn-about-go-to-market-benefits.md
           displayName: mpn
         - name: Demonstrationer för MPN-partner
           href: mpn-demos.md
           displayName: mpn
-        - name: Princip och användning för förmåner – Vanliga frågor och svar
-          href: benefits-faq-new.md
-        - name: Vanliga frågor och svar om förmåner
-          href: benefits-faq.md
-          displayName: 'renew, license,'
         - name: Fördelar med Azure och molnet
           href: mpn-benefits-azure-cloud.md
           displayname: 'activate, azure license, mpn, renew'
@@ -118,11 +92,33 @@
           items:
             - name: Behörighetskrav
               href: software-assurance-dps-requirements.md
-    - name: Fakturor och skatter
-      href: mpn-view-print-maps-invoice.md
-      displayName: 'invoice, mpn'
-    - name: Testa nya funktioner
-      href: test-drive-new-features.md
+    - name: Kompetenser
+      items:
+        - name: Lär dig mer om kompetenser
+          href: learn-about-competencies.md
+          displayName: mpn
+        - name: Registrera dig som utbildningspartner
+          href: mpn-benefits-map-competency-learning-option-enroll.md
+          displayName: mpn
+        - name: Vanliga frågor och svar om kompetenser
+          href: competencies-faq.md
+          displayName: 'renew, mpn'
+        - name: Betala avgifter för kompetens
+          href: mpn-pay-fee-silver-gold-competency.md
+          displayName: mpn
+        - name: Undantag för apputvecklarkompetens
+          href: app-dev-isv.md
+        - name: Använda kunskapsrapporten
+          href: mpn-skills-report.md
+    - name: Avancerade specialiseringar
+      items:
+        - name: Demonstrera dina kunskaper
+          href: advanced-specializations.md
+        - name: Tillämpa eller kontrollera status
+          href: advanced-specializations-apply.md
+          displayName: mpn
+    - name: Bli en Azure Expert MSP
+      href: azure-expert-msp.md
 - name: Leverantör av molnlösningar (CSP)
   href: csp-overview.md
   displayName: csp
@@ -141,7 +137,7 @@
       displayName: 'indirect, reseller, csp'
     - name: 'Microsoft-kundavtal (efter region, språk)'
       href: agreements.md
-      displayName: 'regio, region, MPA'
+      displayName: 'region, MPA'
     - name: Begränsad åtkomst till direktfakturering
       href: restricted-direct-bill-capabilities.md
       displayName: 'indirect, reseller'
@@ -447,7 +443,7 @@
           displayName: 'region, regio'
         - name: Begär en SLA-kredit från Microsoft
           href: request-credit.md
-        - name: Så här påverkar skatteprinciper utbetalningen
+        - name: Hur skatteprinciper påverkar utbetalning
           href: tax-policies-affect-payout.md
     - name: Ange en Azure-utgiftsbudget för dina kunder
       href: set-an-azure-spending-budget-for-your-customers.md
@@ -579,6 +575,8 @@
         - name: Överföra Azure-prenumerationer
           href: switch-azure-subscriptions-to-a-different-partner.md
           displayName: csp
+        - name: Överföra en kunds Azure-planprenumerationer till en annan partner
+          href: transfer-azure-subscriptions-under-azure-plan.md
     - name: Programvaruprenumerationer
       href: csp-software-subscriptions.md
       displayName: 'subscription, cancel'
