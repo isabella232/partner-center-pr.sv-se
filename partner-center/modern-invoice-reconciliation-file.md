@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 7ff320124230ec8e0b3505b1c1dbbb7c811cb67f
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 559b5334eb23ad76fe8cc51fc1beeaa3a86c6fa1
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120727"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702798"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Fält för inköpsavstämningsfil för CSP en gång
 
@@ -38,7 +38,7 @@ Mer information om avstämningsfiler finns i [Använda avstämningsfilerna](use-
 | MpnId | MPN-identifierare för CSP-partnern. Mer information finns i [hur du specificerar efter partner.](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner) | *6034453* |
 | ResellerMpnId | MPN-identifierare för återförsäljaren av posten för prenumerationen. | *6048879* |
 | OrderId | Unik identifierare för en beställning på Microsofts faktureringsplattform. Kan vara användbart för att identifiera beställningen när du kontaktar supporten. Används inte för avstämning. | *0ET2qaZvJGfF9wgSKnWzR5JLmhp10lOc1* |
-| OrderDate | Det datum då beställningen gjordes. | *10/3/2020* |
+| OrderDate | Det datum i UTC som beställningen gjordes. | *10/3/2020* |
 | ProductId | Produktens unika identifierare. | *DZH318Z0BNZ5* |
 | SkuId | Unik SKU-identifierare. | *006G* |
 | AvailabilityId | Den unika identifieraren för tillgänglighet. | *DZH318Z08B80* |
@@ -72,7 +72,7 @@ Mer information om avstämningsfiler finns i [Använda avstämningsfilerna](use-
 | CreditReasonCode | Kreditbeskrivning. | *Azure-förbrukningskredit* |
 
 >[!NOTE]
->Du kan stämma av din Azure-förbrukning i din rekognoseringsfil för ett köp. Det gör du genom att gå till din dagliga klassificerade rekognoseringsfil och söka efter ditt SubscriptionID. Då visas alla kostnader som är kopplade till ditt Azure-plan-ID. Ditt Azure SubscriptionID visas som EntitlementID.
+>Du kan stämma av din Azure-förbrukning i din rekognoseringsfil för ett köp. Det gör du genom att gå till din dagliga klassificerade rekognoseringsfil för användning och söka efter ditt SubscriptionID. Då visas alla kostnader som är kopplade till ditt Azure-plan-ID. Ditt Azure SubscriptionID visas som EntitlementID.
 
 ## <a name="next-steps"></a>Nästa steg
 

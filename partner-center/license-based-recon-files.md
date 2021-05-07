@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig mer om att läsa licensbaserade avstämnings filer i Partner Center. I den här artikeln beskrivs innebörden av varje fält i din licensbaserade rekognoseringar-fil.
+description: Lär dig hur du läser licensbaserade avstämningsfiler i Partnercenter. Den här artikeln förklarar innebörden av varje fält i din licensbaserade rekognoseringsfil.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4c311de4a504785e15cefc7a93f1ee3da396ea7d
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 117acfa8c50496ddaa75789b2bb3f55c642e4fe6
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441293"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702917"
 ---
-# <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Förstå fälten i licensbaserade, licensierade filer för partner Center
+# <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Förstå fälten i partnercenters licensbaserade avstämningsfiler
 
 **Gäller för**
 
@@ -25,41 +25,41 @@ ms.locfileid: "106441293"
 **Lämpliga roller**
 
 - Global administratör
-- Administratör för användar hantering
+- Administratör för användarhantering
 - Faktureringsadministratör
-- Administratörs agent
+- Administratörsagent
 
-Om du vill stämma av dina ändringar mot en kunds order jämför du **Syndication_Partner_Subscription_Number** från avstämnings filen mot **prenumerations-ID: t** från Partner Center.
+Om du vill stämma av ändringarna mot en kunds beställningar jämför **du Syndication_Partner_Subscription_Number** från avstämningsfilen mot **prenumerations-ID:t** från Partnercenter.
 
-## <a name="fields-in-license-based-reconciliation-files"></a>Fält i licensbaserade avstämnings filer
+## <a name="fields-in-license-based-reconciliation-files"></a>Fält i licensbaserade avstämningsfiler
 
 | Kolumn | Beskrivning | Exempelvärde |
 | ------ | ----------- | ------------ |
-| Partner | Unikt ID i GUID-format för en angiven fakturerings enhet. Krävs inte för avstämning. Samma i alla rader. | *8ddd03642-test-test-test-test-46b58d356b4e* |
-| CustomerId | Unikt Microsoft-ID för kunden i GUID-format. | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
-| CustomerName | Kundens organisations namn, enligt rapporter i Partner Center. *Mycket viktigt fält för att stämma av fakturan med system information.* | *Testa kund A* |
-| MpnId | MPN identifierare för CSP-partnern. Se [hur du specificerar en partner](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
-| ResellerMpnId | MPN identifierare för åter försäljaren av posten för prenumerationen.  |
-| OrderId | Unik identifierare för en beställning i Microsofts fakturerings plattform. Kan vara användbart för att identifiera ordningen när du kontaktar supporten. Används inte för avstämning. | *566890604832738111* |
-| SubscriptionId | Unikt ID för en prenumeration i Microsofts fakturerings plattform. Kan vara användbart för att identifiera prenumerationen när du kontaktar supporten. Används inte för avstämning. *Värdet är inte samma som **prenumerations-ID: t** i partner administratörs konsolen. Se **SyndicationPartnerSubscriptionNumber** i stället.* | *usCBMgAAAAAAAAIA* |
-| SyndicationPartnerSubscriptionNumber | Unik identifierare för prenumerationer. En kund kan ha flera prenumerationer för samma plan. Den här kolumnen är viktig för analys av fil avstämning. Det här fältet mappar till **prenumerations-ID: t** i partner administratörs konsolen. | *fb977ab5-test-test-test-test-24c8d9591708* |
-| OfferId | Unikt erbjudande-ID. Standard identifierare för erbjudande, enligt definitionen i pris listan. *Det här värdet matchar inte **erbjudande-ID** från pris listan. Se **DurableOfferID** i stället.* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
-| DurableOfferId | Unikt ID för beständiga erbjudanden, enligt definitionen i pris listan. *Det här värdet matchar **erbjudande-ID: t** från pris listan.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
-| OfferName | Namnet på det tjänst erbjudande som kunden har köpt, enligt definitionen i pris listan. | *Microsoft Office 365 (plan E3)* |
-| SubscriptionStartDate | Prenumerationens start datum. Tiden är alltid början på dagen, 0:00. Det här fältet är inställt på dagen efter det att ordern skickades. Används tillsammans med **SubscriptionEndDate** för att fastställa: om kunden fortfarande är under det första året i prenumerationen eller om prenumerationen har förnyats under följande år. | *2/1/2019 0:00* |
-| SubscriptionEndDate | Prenumerationens slutdatum. Tiden är alltid början på dagen, 0:00. *12 månader plus **x** dagar efter start datumet* för att justeras till partnerns fakturerings datum eller *12 månader från förnyelse datumet*. Vid förnyelsen uppdateras priserna till den aktuella pris listan. Kundens kommunikation kan krävas i förväg för automatisk förnyelse. | *2/1/2019 0:00* |
-| ChargeStartDate | Start dag för avgifterna. Tiden är alltid början på dagen, 0:00. Används för att beräkna dagliga avgifter *(* proportionella avgifter) när en kund ändrar licens nummer. | *2/1/2019 0:00* |
-| ChargeEndDate | Slutdatum för avgifterna. Tiden är alltid slutet på dagen, 23:59. Används för att beräkna dagliga avgifter *(* proportionella avgifter) när en kund ändrar licens nummer. | *2/28/2019 23:59* |
-| ChargeType | [Typ av kostnad](recon-file-charge-types.md) eller justering. | Se [debiterings typer](recon-file-charge-types.md). |
-| UnitPrice | Pris per licens, som publicerat i pris listan vid inköps tillfället. Se till att detta matchar informationen som lagras i fakturerings systemet under avstämning. | *6,82* |
-| Kvantitet | Antal licenser. Se till att detta matchar informationen som lagras i fakturerings systemet under avstämning. | *2* |
-| Amount | Total pris för kvantitet. Används för att kontrol lera om mängd beräkningen matchar hur du beräknar det här värdet för dina kunder. | *13,32* |
-| TotalOtherDiscount | Rabatt belopp som tillämpas på dessa kostnader. Produkt licenser som ingår i en kompetens eller kartor, eller nya prenumerationer som är berättigade till ett incitament, kommer också att innehålla ett rabatt belopp i den här kolumnen. | *2,32* |
-| Delsumma | Totalt före skatt. Kontrollerar om din delsumma motsvarar den förväntade summan, i händelse av en rabatt. | *11* |
-| Skatt | Avgift för moms belopp. Baserat på marknadens skatte regler och särskilda omständigheter. | *0* |
-| TotalForCustomer | Totalt efter skatt. Kontrollerar om du debiteras skatt på fakturan. | *11* |
-| Valuta | Typ av valuta. Varje fakturerings enhet har bara en valuta. Kontrol lera om den matchar din första faktura. Kontrol lera igen efter eventuella större fakturerings plattforms uppdateringar. | *EUR* |
-| DomainName | Kundens domän namn. Det här fältet kan vara tomt fram till den andra fakturerings perioden. *Använd inte det här fältet som en unik identifierare för kunden. Kunden/partnern kan uppdatera anpassad eller standard domänen via Office 365-portalen.* | *example.onmicrosoft.com* |
-| SubscriptionName | Prenumerationens smek namn. Om inget smek namn anges använder Partner Center **OfferName**. | *PROJECT ONLINE* |
-| SubscriptionDescription | Namnet på det tjänst erbjudande som kunden har köpt, enligt definitionen i pris listan. (Det här är ett identiskt fält för **OfferName**.) | *PROJECT ONLINE PREMIUM UTAN PROJECT-KLIENT* |
-| BillingCycleType | Fakturerings frekvens vid en tidpunkt.| *Varje månad* |
+| PartnerId | Unik identifierare i GUID-format för en specifik faktureringsentitet. Krävs inte för avstämning. Samma i alla rader. | *8ddd03642-test-test-test-46b58d356b4e* |
+| CustomerId | Unik Microsoft-identifierare för kunden i GUID-format. | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
+| CustomerName | Kundens organisationsnamn, enligt vad som rapporteras i Partnercenter. *Mycket viktigt fält för att stämma av fakturan med systeminformationen.* | *Testa kund A* |
+| MpnId | MPN-identifierare för CSP-partnern. Se [hur du specificerar efter partner](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
+| ResellerMpnId | MPN-identifierare för återförsäljaren av posten för prenumerationen.  |
+| OrderId | Unik identifierare för en beställning på Microsofts faktureringsplattform. Kan vara användbart för att identifiera beställningen när du kontaktar supporten. Används inte för avstämning. | *566890604832738111* |
+| SubscriptionId | Unik identifierare för en prenumeration på Microsofts faktureringsplattform. Kan vara användbart för att identifiera prenumerationen när du kontaktar supporten. Används inte för avstämning. *Det här värdet är inte samma som **prenumerations-ID:t** i partneradministratörskonsolen. Se **SyndicationPartnerSubscriptionNumber i** stället.* | *usCBMgAAAAAAIA* |
+| SyndicationPartnerSubscriptionNumber | Unik identifierare för prenumerationer. En kund kan ha flera prenumerationer för samma plan. Den här kolumnen är viktig för avstämningsfilanalys. Det här fältet mappar till **prenumerations-ID:t** i partneradministratörskonsolen. | *fb977ab5-test-test-test-24c8d9591708* |
+| OfferId | Unikt erbjudande-ID. Standarderbjudandeidentifierare enligt definitionen i prislistan. *Det här värdet matchar inte **erbjudande-ID** från prislistan. Se **DurableOfferID i** stället.* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
+| DurableOfferId | Unik identifierare för beständigt erbjudande enligt definitionen i prislistan. *Det här värdet matchar **erbjudande-ID** från prislistan.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
+| OfferName | Namnet på det tjänsterbjudande som köpts av kunden enligt definitionen i prislistan. | *Microsoft Office 365 (Plan E3)* |
+| SubscriptionStartDate | Prenumerationens startdatum i UTC. Tiden är alltid början på dagen, 0:00. Det här fältet anges till dagen efter att ordern skickades. Används med **SubscriptionEndDate** för att avgöra om kunden fortfarande är inom det första året i prenumerationen, eller om prenumerationen har förnyats för följande år. | *2/1/2019 0:00* |
+| SubscriptionEndDate | Prenumerationens slutdatum i UTC. Tiden är alltid början på dagen, 0:00. Antingen *12 månader **plus x*** dagar efter startdatumet för att justera med partnerns faktureringsdatum eller *12 månader från förnyelsedatumet.* Vid förnyelse uppdateras priserna till den aktuella prislistan. Kundkommunikation kan krävas i förväg för automatisk förnyelse. | *2/1/2019 0:00* |
+| ChargeStartDate | Startdag för avgifterna. Tiden är alltid början på dagen, 0:00. Används för att beräkna dagliga avgifter *(proportionella* avgifter) när en kund ändrar licensnummer. | *2/1/2019 0:00* |
+| ChargeEndDate | Slutdag för avgifterna. Tiden är alltid dagens slut, 23:59. Används för att beräkna dagliga avgifter *(proportionella* avgifter) när en kund ändrar licensnummer. | *2/28/2019 23:59* |
+| ChargeType | Typ [av avgift eller](recon-file-charge-types.md) justering. | Se [avgiftstyper.](recon-file-charge-types.md) |
+| UnitPrice | Pris per licens, enligt publiceringen i prislistan vid tidpunkten för köpet. Se till att detta matchar den information som lagras i ditt faktureringssystem under avstämningen. | *6.82* |
+| Kvantitet | Antal licenser. Se till att detta matchar den information som lagras i ditt faktureringssystem under avstämningen. | *2* |
+| Amount | Totalt pris för kvantitet. Används för att kontrollera om beloppsberäkningen matchar hur du beräknar det här värdet för dina kunder. | *13.32* |
+| TotalOtherDiscount | Rabattbelopp som tillämpas på dessa avgifter. Produktlicenser som ingår i en kompetens eller MAPS, eller nya prenumerationer som är berättigade till ett incitament, innehåller också ett rabattbelopp i den här kolumnen. | *2.32* |
+| Delsumma | Totalsumma före skatt. Kontrollerar om delsummorna matchar din förväntade summa, om det finns en rabatt. | *11* |
+| Skatt | Avgiftsbelopp för skatt. Baserat på din marknads skatteregler och specifika omständigheter. | *0* |
+| TotalForCustomer | Totalsumma efter skatt. Kontrollerar om du debiteras skatt på fakturan. | *11* |
+| Valuta | Valutatyp. Varje faktureringsenhet har bara en valuta. Kontrollera om den matchar din första faktura. Kontrollera igen efter eventuella större uppdateringar av faktureringsplattformen. | *EUR* |
+| DomainName | Kundens domännamn. Det här fältet kan visas som tomt fram till den andra faktureringsperioden. *Använd inte det här fältet som en unik identifierare för kunden. Kunden/partnern kan uppdatera standarddomänen via Office 365-portalen.* | *example.onmicrosoft.com* |
+| SubscriptionName | Smeknamn för prenumeration. Om inget smeknamn har angetts använder Partner Center **OfferName**. | *PROJECT ONLINE* |
+| SubscriptionDescription | Namnet på det tjänsterbjudande som köpts av kunden enligt definitionen i prislistan. (Det här är ett identiskt fält **med OfferName**.) | *PROJECT ONLINE PREMIUM UTAN PROJEKTKLIENT* |
+| BillingCycleType | Faktureringsfrekvens en gång.| *Varje månad* |

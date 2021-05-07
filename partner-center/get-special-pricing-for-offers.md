@@ -1,80 +1,84 @@
 ---
 title: Sälja till specialiserade branscher
-description: Lär dig mer om Microsofts särskilda, lägre priser för vissa kund grupper, inklusive utbildnings kunder, ideella kunder och myndighets användare.
+description: Lär dig mer om Microsofts särskilda, reducerade priser för vissa kundgrupper, inklusive utbildningskunder, ideella kunder och myndighetsanvändare.
 ms.topic: how-to
-ms.date: 06/05/2020
+ms.date: 05/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2c1cb2adc28a19f265643c5e2756fbdf1195b970
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: bff69796cb753f93225bb44324629180d981a721
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281277"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702696"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Sälj till specialiserade branscher såsom utbildning, ideella organisationer och myndighetsanvändare
 
 **Lämpliga roller**
 
 - Global administratör
-- Administratörs agent
-- Försäljnings agent
+- Administratörsagent
+- Försäljningsagent
 
-Microsoft tillhandahåller särskilda, lägre priser för utvalda grupper av kunder, inklusive utbildnings kunder, ideella kunder, små företag och myndighets enheter. Både du och kunden måste kvalificeras innan du kan erbjuda dem särskilda priser. Dessa särskilda pris erbjudanden är för närvarande **endast tillgängliga för licensbaserade tjänster** som Microsoft 365, Dynamics, Intune osv. Den är inte tillgänglig för andra typer (program varu prenumerationer, beständig program vara eller Azure-produkter).
+Microsoft erbjuder särskilda, reducerade priser för utvalda grupper av kunder, inklusive utbildningskunder, ideella kunder, små företag och myndigheter. Både du och kunden måste vara kvalificerade innan du kan erbjuda dem särskilda priser. Dessa specialerbjudanden är för närvarande **endast tillgängliga för licensbaserade** tjänster som Microsoft 365, Dynamics, Intune osv. Den är inte tillgänglig för andra typer (programvaruprenumerationer, permanent programvara eller Azure-produkter).
 
 ## <a name="requirements-to-sell-to-specialized-industries"></a>Krav för att sälja till specialiserade branscher
 
-|**Särskilda priser**   |**Försäljares obligatoriska kvalifikationer**   |**Krav på kund krav**   |
+|**Specialpriser**   |**Kvalificering som krävs av återförsäljare**   |**Kundkvalifikationer som krävs**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Education   |Inget   | Måste vara en [kvalificerad utbildnings användare](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
-|Myndigheter   |För att sälja Azure, registrera dig med hjälp av [moln validerings formuläret i Microsoft amerikanska myndigheter](https://azuregov.microsoft.com/csp). Det finns ingen kvalificering som krävs för att sälja licensbaserade prenumerationer till myndigheter.|   Inget|
-|Ideell verksamhet  |Inget<br/> Måste ha en klient som inte är vinst Azure Active Directory.<br/> Läs mer om [specialerbjudanden för ideella föreningar](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Registrera dig för [Microsoft-programmet utan vinst syfte](https://nonprofit.microsoft.com/#/register) .   |
+|Education   |Inget   | Måste vara en [kvalificerad utbildningsanvändare.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)   |
+|Myndigheter   |Om du vill sälja Azure registrerar du med hjälp av [formuläret Microsoft US Government Cloud Validation](https://azuregov.microsoft.com/csp). För att sälja licensbaserade prenumerationer till myndigheter krävs ingen kvalificering.|   Inget|
+|Ideell verksamhet  |Inget<br/> Måste ha en ideell Azure Active Directory klientorganisation.<br/> Läs mer om [specialerbjudanden för ideella föreningar](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Registrera dig via [Microsofts program för ideella organisationer för](https://nonprofit.microsoft.com/#/register) att bli berättigad.   |
 
-## <a name="check-your-reseller-qualifications"></a>Kontrol lera dina åter försäljares kvalifikationer
+## <a name="check-your-reseller-qualifications"></a>Kontrollera återförsäljarkvalifikationer
 
-Följande steg gäller endast för indirekta leverantörer och direkta fakturerings partner. Indirekta åter försäljare måste ansluta till en indirekt leverantör för att leverera pris värda erbjudanden till kvalificerade utbildnings användare.
+Följande steg gäller endast för indirekta leverantörer och direktfaktureringspartner. Indirekta återförsäljare måste ansluta till en indirekt leverantör för att leverera akademiska erbjudanden till kvalificerade utbildningsanvändare.
 
-1. I [instrument panelen](https://partner.microsoft.com/dashboard)för partner Center väljer du kugg hjuls ikonen i det övre högra hörnet i fönstret för att öppna **konto inställningar**.
+1. På instrumentpanelen i [Partnercenter](https://partner.microsoft.com/dashboard)väljer du kugghjulsikonen i det övre högra hörnet i fönstret för att **öppna Kontoinställningar.**
 
-2. I den **juridiska profilen** går du till avsnittet **program information** och letar efter **åter försäljares kvalifikationer**.
+2. I din **juridiska profil** går du till **avsnittet Programinformation** och letar efter **återförsäljarkvalifikationer.**
 
-3. Om du inte ser **åter försäljarnas kvalifikationer** har du ännu inte auktoriserats att köpa några Special erbjudanden.
+3. Om du inte ser **återförsäljarkvalifikationer** har du ännu inte fått behörighet att köpa specialerbjudanden.
 
-## <a name="check-the-customer-qualifications"></a>Kontrol lera kund kvalifikationerna
+## <a name="check-the-customer-qualifications"></a>Kontrollera kundkvalifikationerna
 
-1. Från menyn **partner Center** väljer du **kunder**. Välj kund i listan.
+1. I **menyn i Partnercenter** väljer du **Kunder.** Välj kunden i listan.
 
-2. I menyn kund väljer du **konto**. I avsnittet **företags information** letar du efter **särskilda kvalifikationer**.
+2. I kundmenyn väljer du **Konto**. I avsnittet **Företagsinformation** letar du upp **Särskilda kvalificeringar.**
 
-3. Om **särskilda kvalifikationer** har angetts till **ingen**, men kunden faktiskt uppfyller kvalificeringarna, kan du **Uppdatera** informationen för att inkludera dem.
+3. Om **Specialkvalifikationer** har **angetts** till Ingen, men kunden i själva verket uppfyller kvalificeringarna, kan du **uppdatera** deras information så att de inkluderas.
 
-## <a name="where-to-find-special-offers"></a>Var hittar du Special erbjudanden
+## <a name="where-to-find-special-offers"></a>Var du hittar specialerbjudanden
 
-När du och din kund är kvalificerad för ett Special erbjudande program följer du stegen för att [lägga till en prenumeration](create-a-new-subscription.md). I avsnittet **katalog** på sidan **ny prenumeration** väljer du en specialiserad bransch för att se de Special erbjudanden som du kan sälja.
+När du och din kund är kvalificerade för ett specialerbjudandeprogram följer du stegen för att lägga [till en prenumeration.](create-a-new-subscription.md) I avsnittet **Katalog** på sidan **Ny prenumeration väljer** du en specialiserad bransch för att se de specialerbjudanden som du kan sälja.
 
 ## <a name="purchase-rules-for-special-segments"></a>Inköpsregler för särskilda segment
 
 Partner kan bara sälja specialerbjudanden till kunder om de uppfyller vissa kriterier. 
 
-- Utbildnings erbjudanden kan bara köpas om kunden är auktoriserad som utbildnings institution. En utbildnings kund kan bara ta emot utbildning och kommersiella erbjudanden, men inte ideella organisationer eller GCC (community-molnet).
-- Partner kan bara köpa GCC-prenumerationer för GCC-kunder. När en kund har en GCC-prenumeration kan partner inte köpa kommersiella, utbildnings-eller ideella prenumerationer. 
-- Partner kan bara köpa kommersiella eller ideella prenumerationer för kunder som inte är vinst drivande. Partner kan inte köpa GCC eller utbildnings prenumerationer för kunder som inte är vinst drivande.
+- Utbildningserbjudanden kan bara köpas om kunden har auktoriserats som utbildningsnämnd. En Education-kund kan bara ta emot utbildnings- och kommersiella erbjudanden, men inte GCC (Non-Profit eller Government Community Cloud).
+- Partner kan bara köpa GCC-prenumerationer för GCC-kunder. När en kund har en GCC-prenumeration kan partner inte köpa kommersiella prenumerationer, utbildningsprenumerationer eller prenumerationer för ideella organisationer.
+- Partner kan bara köpa kommersiella eller ideella prenumerationer för ideella kunder. Partner kan inte köpa GCC- eller utbildningsprenumerationer för ideella kunder.
+- Tillståndsägda entiteter måste uppfylla [behörighetskriterierna](https://www.microsoft.com/legal/compliance/anticorruption/criteria).
 
-Inköps regler för att sälja Special erbjudanden till kunder:
+Köpregler för att sälja specialerbjudanden till kunder:
 
-|**Typ av kund**   |**Kan säljas**   |**Kan inte säljas**   |
+|**Kundtyp**   |**Kan säljas**   |**Det går inte att sälja**   |
 |:----------------------------|:---------------------------------|:------------------------------------------|
-| Kommersiellt |Kommersiellt | Moln för ideella organisationer eller samhälls myndigheter |
-| Ideellt |Kommersiell, ej vinst | Utbildnings-eller regerings grupp moln |
-| Education |Kommersiell utbildning | Moln för ideella organisationer eller offentliga organisationer |
-| Statligt community-moln |Statligt community-moln | Ideella institutioner eller kommersiella |
+| Kommersiellt |Kommersiellt | Ideella organisationer, utbildning eller Government Community Cloud |
+| Ideell |Kommersiell, Ideell | Utbildning eller Government Community Cloud |
+| Education |Commercial, Education | Ideella organisationer eller Government Community Cloud |
+| Government Community Cloud |Government Community Cloud | Ideell verksamhet, utbildning eller kommersiell |
+| Tillståndsägd entitet  | Kommersiellt  | Ideella organisationer, utbildning eller Government Community Cloud  |
+| Om utbildning och tillståndsägd entitet | Commercial, Education | Ideella organisationer eller Government Community Cloud |
+| Om tillståndsägd entitet och Government Community Cloud | Government Community Cloud | Ideell verksamhet, utbildning eller kommersiell |
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Sälj Minecraft: utbildnings Edition-prenumerationer på utbildnings kunder](minecraft-subscriptions.md)
+- [Sälja Minecraft: Education Edition prenumerationer till utbildningskunder](minecraft-subscriptions.md)
 
 - [Välkommen till Partnercenter för Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
