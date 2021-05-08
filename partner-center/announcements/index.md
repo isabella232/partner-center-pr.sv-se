@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 05/05/2021
-ms.openlocfilehash: 1aad6d1384e7043f13ad5f023d06f5e7fa1301e5
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.date: 05/07/2021
+ms.openlocfilehash: 0263522eed42dbbdd11dc43f6aed490ce61b261d
+ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702781"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "109630142"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -27,7 +27,7 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 |Funktioner|[Sista påminnelse: Utfasning av GET-kvalificering den 6 maj 2021](2021-may.md#4)|4 maj|
 |Erbjudanden/marknader|[Korrigeringar av prislistan för licensbaserade tjänster den 1 maj 2021](2021-may.md#3)|4 maj|
 |Funktioner|[Meddelande om kvalificering av tillståndsägd entitet](2021-may.md#2)|4 maj|
-| Erbjudanden/Business Applications|[Visa den här månadens produktlanseringar och erbjudanden](2021-may.md#1)|Den 3 maj|
+| Erbjudanden/Business Applications|[Visa den här månadens produktlanseringar och erbjudanden](2021-may.md#1)|3 maj, uppdaterad 7 maj|
 |**Kategori**|**Meddelanden april 2021**|**Meddelande**|
 |Beredskap|[Uppdaterade VALIDERINGs-API:et för kundadresser för CSP live i juni; nu tillgänglig testfunktion](2021-april.md#10)|30 april|
 |Funktioner|[Ny plats för Swagger-dokumentation för Partner Center API](2021-april.md#9)|Den 26 april|

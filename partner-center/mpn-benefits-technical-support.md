@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e8f99028fbb26003c0f18a85c5a6d7e416fecd60
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 9aa451a3267cee70282aaad5e018e2f377edb82f
+ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172208"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "109630125"
 ---
 # <a name="technical-support-benefits"></a>Fördelar med teknisk support
 
@@ -77,13 +77,13 @@ Alla användarkonton (AAD eller MSA) kan använda teknisk support för lokala pr
 Välj [Support för företag](https://support.serviceshub.microsoft.com/supportforbusiness/create) för att skapa en supportbegäran för en lokal produkt.
 
 ## <a name="how-many-partner-support-incidents-are-remaining"></a>Hur många partnersupportärenden som återstår
-Du kan bara hämta den här informationen från supportportalen för lokal support för företag. Tyvärr visar inte molnportalerna, till exempel Azure, LCS osv. den här informationen.
+Du kan bara hämta den här informationen från supportportalen för lokal support för företag. Tyvärr visar inte molnportalerna, t.ex. Azure, LCS osv. den här informationen.
 
 Du måste använda Support för företag och starta processen för att skapa en lokal supportincident. Vi skapar ingen supportbegäran eftersom vi inte slutför processen. Den information vi behöver visas i steg 2.
 
-Steg 1 Välj Windows 10 och ange dummyinformation
+Steg 1 Öppna [support för företag](https://support.serviceshub.microsoft.com/supportforbusiness/create) och välj Windows 10 och ange dummyinformation
 
-Steg 2 Lägg till supportavtalet med hjälp av åtkomst-ID och kontrakt-ID. För lokal support kan du se partnersupportavtalet som innehåller startdatum, slutdatum och återstående incidenter. Expandera "Vill du se otillgängliga supportplaner?" för att se information om partnersignatur. Partnersupporten visas bara här om kontrakten har upphört att gälla, om du inte har några återstående incidenter eller om du har valt en gammal lokal produkt (se [aka.ms/n-1](https://aka.ms/n-1) för supportprodukter)
+Steg 2 Om ditt supportavtal redan är kopplat till ditt konto bör du se supportärendena. För lokal support bör partnersupportavtalet visas (om det inte längre är giltigt) och detta inkluderar startdatum, slutdatum och återstående incidenter. Om du behöver associera ditt supportavtal expanderar du "Behöver du köpa eller lägga till fler supportavtal" och klickar på knappen Lägg till kontrakt för att ange ditt åtkomst-ID och kontrakt-ID. Expandera "Vill du se otillgängliga supportplaner?" för att se information om partnersignatur. Partnersupporten visas bara här om kontrakten har upphört att gälla, om du inte har några återstående incidenter eller om du har valt en gammal lokal produkt (se [aka.ms/n-1](https://aka.ms/n-1) för supportprodukter)
 
 **Mer detaljerad information finns i [Hur många partnersupportärenden återstår?](https://support.microsoft.com/topic/how-many-partner-support-incidents-are-remaining-e8220db5-14f6-93db-4b4a-35766e11b3c3)** 
 
@@ -109,7 +109,7 @@ Du ser ovanstående "Åtkomst-ID är redan associerat ..." fel om du associerar 
 
 1. Om du har tekniska guld- eller silverförmåner och tidigare har lagt till kontraktet för lokal support använder du Azure Portal och lägger till kontraktet en andra gång till samma konto. Du behöver bara associera supportavtalet med ett konto en gång och därför behöver du inte länka supportförmåner i Azure. Om du använder Link-supportförmåner när kontraktet redan är kopplat till kontot visas felet och det bör ignoreras. Använd + Ny Supportbegäran och skapa en supportincident som vanligt så visas supportplanen.
 
-2. Om supportavtalet har upphört att gälla eller signaturen 10pack (guldhybridkompetens) eller signatur 5pack (silverhybridkompetens) inte har några incidenter kvar kommer supportavtalet att döljas eftersom det är ogiltigt. Om du länkar supportförmåner igen visas felet eftersom kontraktet redan är associerat. Du måste köpa en ny supportplan för att få supportärenden i Azure. 
+2. Om supportavtalet har upphört att gälla eller om signaturen 10pack (guldhybridkompetens) eller signatur 5pack (Silver hybridkompetens) inte har några incidenter kvar kommer supportavtalet att döljas eftersom det är ogiltigt. Om du länkar supportförmåner igen visas felet eftersom kontraktet redan är associerat. Du måste köpa en ny supportplan för att få supportärenden i Azure. 
 
 Se Partnersupportplaner nedan för partnerbetalda supporterbjudanden
 

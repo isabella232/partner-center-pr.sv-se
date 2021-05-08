@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b4c96f2099d50d05360320070d7c0d96f4590f6
-ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
+ms.openlocfilehash: 432a71c3fa7384996e557f56070921557aaca229
+ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "108213405"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "109630176"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Skapa ett MPN-konto i Partnercenter för att hantera nätverksförmåner och kompetenser
 
@@ -45,7 +45,6 @@ När du är redo att skapa ett konto i Partnercenter måste du ha följande till
 
 1. På sidan [**Kom igång börjar**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) du med din e-postadress till arbetet som du fått av ditt företag, till exempel you@yourcompanyname.com .
 
- 
     a.  E-postadressen måste vara giltig och tillgänglig för dig eftersom vi kommer att skicka en verifieringskod till det e-postmeddelandet för att fortsätta.
 
     b.  E-postadressen får inte innehålla ord som "info", "admin", email@ "." Eller " marketing@.. ."; dessa adressformat stöds inte.
@@ -72,33 +71,33 @@ Om du är en indirekt leverantör, partner för direktfakturering eller indirekt
 Följande tabell innehåller exempel på registreringsnumren som samlats in för varje land. I de fall där flera-ID:er visas krävs bara ett.
 
 | **Land eller region** | **Information** | 
-|:--|:--|:--|:--|:--|:--|
-| **Armenien** | INN – Skattenummer<br>Momsregistreringsnummer – även kallat momsregistreringsnummer. Det här är det unika nummer som identifierar en skattebar person (företag) eller en icke-skattebar juridisk enhet som är registrerad för moms.<br>Nummer för offentlig tjänst |  |  | |  |
-| **Azerbajdzjan**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) – Skatteidentifieringsnummer<br>INN – Skattenummer |  |  |  |  |
-| **Vitryssland**  | UNP – Det här är ett niosiffrigt tal (numeriskt för organisationer, alfanumeriskt för enskilda användare) som innehåller en regionsidentifierare, en serie per region och en kontrollsiffra. |  |  |  |  |
-|**Brasilien** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) – (Cadastro Nacional da Pessoa Jurica, eller National Registry of Legal Entities). Det här är ett identifieringsnummer som utfärdats till brasiliens företag av Brasiliens avdelning för federala intäkter  |  |  |  |  |
-| **Kina** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/China-TIN.pdf) – Skatteidentifieringsnummer |  |  |  |  |
-| **Ungern**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Hungary-TIN.pdf) – Skatteidentifieringsnummer |  |  |  |  |
-| **Indien** | Skatte-ID<br>[PAN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) – (Presence Across Nations) PAN India Involvement innebär att det finns en organisation som arbetar på flera platser i Indien. |  |  |  |  |
-| **Irak** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Skatteidentifieringsnummer |  |  |  |  |
-| **Kazakstan**  | BIN – Bank-ID-nummer<br>IIN – Utfärdarens id-nummer |  |  |  |  |
-| **Kirgizistan**  | INN – Skatteidentifieringsnummer |  |  |  |  |
-| **Moldavien**  | IDNO – Det unika identifieringsnumret för den juridiska personen (kallas även för . Räkenskapskod).<br>IDNP – Personlig kod för födelse ("Numarul de Identificare") |  |  |  |  |
-| **Myanmar** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Skatteidentifieringsnummer |  |  |  |  |
-| **Polen**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) – Skatteidentifieringsnummer<br>[PESEL](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) – Det nationella identifieringsnumret som används i Förlamning (polska Powszechny Elektroniczny System EwidencjiIstannoistan, Universal Electronic System for Registration of the Population) |  |  |  |  |
-| **Ryssland**  | [INN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Russia-TIN.pdf) – Skatteidentifieringsnummer (ryska "Individualiy Nomer Nalogoplatelshika") |  |  |  |  |
-| **Saudiarabien** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Saudi-Arabia-TIN.pdf) – Skatteidentifieringsnummer |  |  |  |  |
-| **Sydafrika** | TRN – trafikregistreringsnummer |  |  |  |  |
-| **Sydsudan** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Skatteidentifieringsnummer |  |  |  |  |
-| **Tadzjikistan**  | INN – Skatteidentifieringsnummer<br>HAR – Arbetsgivares id-nummer<br>KPP – Det här är en kod som återspeglar orsaken till organisationsregistreringen. |  |  |  |  |
-| **Thailand** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Skatteidentifieringsnummer |  |  |  |  |
-| **Turkiet** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) – Skatteidentifieringsnummer<br>Nin |  |  |  |  |
-| **Ukraina**  | EGRPOU<br>EDRPOU – lokalt ID |  |  |  |  |
-| **Förenade Arabemiraten** | Skatte-ID<br>[Momsregistreringsnummer](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) – även kallat momsregistreringsnummer. Det här är det unika nummer som identifierar en skattebar person (företag) eller en icke-skattebar juridisk enhet som är registrerad för moms. |  |  |  |  |
-| **USA** | [ING](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) – Arbetsgivares id-nummer |  |  |  |  |
-| **Uzbekistan**  | INN – Skatteidentifieringsnummer |  |  |  |  |
-| **Vietnam** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Skatteidentifieringsnummer |  |  |  |  |
-| **Venezuela** | DECENTRALIS – är ett skattenummer ("Registro de Identificacigån Fiscal") |  |  |  |  |
+|:--|:--|
+| **Armenien** | INN – Skattenummer<br>Momsregistreringsnummer – även kallat momsregistreringsnummer. Det här är det unika nummer som identifierar en skattebar person (företag) eller en icke-skattebar juridisk enhet som är registrerad för moms.<br>Nummer för offentlig tjänst |
+| **Azerbajdzjan**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) – Skatteidentifieringsnummer<br>INN – Skattenummer |
+| **Vitryssland**  | UNP – Det här är ett niosiffrigt tal (numeriskt för organisationer, alfanumeriskt för enskilda användare) som innehåller en regionsidentifierare, en serie per region och en kontrollsiffra. |
+|**Brasilien** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) – (Cadastro Nacional da Pessoa Jurica, eller National Registry of Legal Entities). Det här är ett identifieringsnummer som utfärdats till brasiliens företag av Brasiliens avdelning för federala intäkter  |
+| **Kina** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/China-TIN.pdf) – Skatteidentifieringsnummer |
+| **Ungern**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Hungary-TIN.pdf) – Skatteidentifieringsnummer |
+| **Indien** | Skatte-ID<br>[PAN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) – (Presence Across Nations) PAN India Involvement innebär att det finns en organisation som arbetar på flera platser i Indien. |
+| **Irak** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Skatteidentifieringsnummer |
+| **Kazakstan**  | BIN – Bankidentifieringsnummer<br>IIN – Utfärdarens id-nummer |
+| **Kirgizistan**  | INN – Skatteidentifieringsnummer |
+| **Moldavien**  | IDNO – Det unika identifieringsnumret för den juridiska personen (kallas även för . Räkenskapskod).<br>IDNP – Personlig kod för födelse ("Numarul de Identificare") |
+| **Myanmar** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Skatteidentifieringsnummer | 
+| **Polen**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) – Skatteidentifieringsnummer<br>[PESEL](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) – Det nationella identifieringsnumret som används i Förlamning (polska Powszechny Elektroniczny System EwidencjiIstannoistan, Universal Electronic System for Registration of the Population) |
+| **Ryssland**  | [INN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Russia-TIN.pdf) – Skatteidentifieringsnummer (ryska "Individualiy Nomer Nalogoplatelshika") |
+| **Saudiarabien** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Saudi-Arabia-TIN.pdf) – Skatteidentifieringsnummer |
+| **Sydafrika** | TRN – trafikregistreringsnummer |
+| **Sydsudan** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Skatteidentifieringsnummer |
+| **Tadzjikistan**  | INN – Skatteidentifieringsnummer<br>HAR – Arbetsgivares id-nummer<br>KPP – Det här är en kod som återspeglar orsaken till organisationsregistreringen. |
+| **Thailand** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Skatteidentifieringsnummer |
+| **Turkiet** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) – Skatteidentifieringsnummer<br>Nin |
+| **Ukraina**  | EGRPOU<br>EDRPOU – lokalt ID |
+| **Förenade Arabemiraten** | Skatte-ID<br>[Momsregistreringsnummer](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) – även kallat momsregistreringsnummer. Det här är det unika nummer som identifierar en skattebar person (företag) eller en icke-skattebar juridisk enhet som är registrerad för moms. |
+| **USA** | [ING](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) – Arbetsgivares id-nummer |
+| **Uzbekistan**  | INN – Skatteidentifieringsnummer |
+| **Vietnam** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Skatteidentifieringsnummer |
+| **Venezuela** | DECENTRALIS – är ett skattenummer ("Registro de Identificacigån Fiscal") |
 
 4. Välj **Registrera nu.**
 
@@ -107,7 +106,7 @@ Följande tabell innehåller exempel på registreringsnumren som samlats in för
 
 ## <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Visa kontoinformation eller visa och ladda ned MPN-avtalet
 
-Logga in på Partner Center med dina MPN-autentiseringsuppgifter. Välj [**Partnerprofil**](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) för att visa företagets juridiska information, din verifieringsstatus, DINA MPN-ID:er och skapa även nya MPN-platser om det behövs. 
+Logga in på Partnercenter med dina MPN-autentiseringsuppgifter. Välj [**Partnerprofil**](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) för att visa företagets juridiska information, verifieringsstatus, DINA MPN-ID:er och skapa även nya MPN-platser om det behövs. 
 
 Du kan också visa annan viktig information som MPN-ID:n, hantera MPN-platser och visa Microsoft-partneravtal med hjälp av de vänstra menylänkarna som visas i följande skärmbild.
 
