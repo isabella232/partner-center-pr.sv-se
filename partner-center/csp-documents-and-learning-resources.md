@@ -1,20 +1,20 @@
 ---
-title: CSP-avtal, pris listor och erbjudanden
+title: CSP-avtal, prislistor och erbjudanden
 ms.topic: article
 ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Hitta länkar till program guider för Cloud Solution Provider, partner avtal, kund avtal, pris listor och erbjudanden.
+description: Hitta länkar till Molnlösningsleverantör guider, partneravtal, kundavtal, prislistor och erbjudanden.
 author: billLinzbach
 ms.author: billli
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 77d56a22e12b369b5df6fc50a8ee28b7db73192b
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: d40acba3e45cfa90cbf0c5ffb8cdb0d4f484421b
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502892"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686236"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guide, avtal, prislistor och erbjudanden för molnlösningsleverantörer
 
@@ -22,62 +22,66 @@ ms.locfileid: "106502892"
 
 - Välkommen till Partnercenter för Microsoft Cloud for US Government
 
+**Lämpliga roller**
 
-Läs informationen i den här artikeln för att förstå kraven för att delta i Microsofts program vara för Cloud Solution Provider (CSP).
+- Global administratör
+- Administratörsagent
+
+Läs informationen i den här artikeln för att förstå kraven för att delta i Microsofts Molnlösningsleverantör -program (CSP).
 
 ## <a name="cloud-solution-provider-program-guide"></a>Programguide för molnlösningsleverantörer
 
-Granska kraven för att bli en partner i Cloud Solution Provider-programmet.
+Gå igenom kraven för att bli partner i Molnlösningsleverantör program.
 
-[Program guide för leverantörer av moln lösningar](https://go.microsoft.com/fwlink/p/?LinkId=617100)
+[Programguide för Molnlösningsleverantör partner](https://go.microsoft.com/fwlink/p/?LinkId=617100)
 
 >[!Note]
->Om du behöver en affärs skrivelse som bekräftar eller certifierar din status som en godkänd Microsoft-partner i Cloud Solution Provider-programmet, [kontaktar du supporten](https://partner.microsoft.com/pcv/servicerequests/create) för att begära ett.
+>Om du behöver ett företagsbrev som bekräftar eller certifierar din status som godkänd Microsoft-partner i Molnlösningsleverantör-programmet kan du kontakta [supporten](https://partner.microsoft.com/pcv/servicerequests/create) för att begära ett.
 
-### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Ytterligare villkor för erbjudandet till Microsoft partner Agreement
+### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Ytterligare villkor för Microsoft-partneravtal
 
-[Villkors guide för kompletterande erbjudanden till Online Services-prenumerationer och Software Channel-auktorisering](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
+[Kompletterande villkorsguide för erbjudandet för onlinetjänstprenumerationer och auktorisering av programvarukanal](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
 
-## <a name="microsoft-customer-agreement-customer-templates"></a>Kundmallar för Microsofts kund avtal
+## <a name="microsoft-customer-agreement-customer-templates"></a>Microsoft-kundavtal kundmallar
 
-Innan du kan placera en order för en kunds räkning måste kunden godkänna och signera tillämpligt Microsoft-kundavtal. Microsofts kund avtal är landsspecifika. Se till att välja rätt land baserat på kundens plats.
+Innan du kan göra en beställning åt en kund måste kunden godkänna och signera Microsoft-kundavtal. Microsoft-kundavtal är regionspecifika. Se till att välja rätt land baserat på kundens plats.
 
-Om du vill hämta den senaste versionen av Microsoft Customer Agreement-mallen manuellt väljer du den här [URL: en](https://aka.ms/customeragreement).
+Om du vill ladda ned den senaste versionen av Microsoft-kundavtal manuellt väljer du den här [URL:en](https://aka.ms/customeragreement).
 
 >[!IMPORTANT]
->Du måste bekräfta att en kund har godkänt Microsofts kund avtal. Du kan bekräfta genom att antingen bekräfta att kunden har godkänt avtalet eller genom att bjuda in kunden att godkänna avtalet direkt. Se [Bekräfta en kunds godkännande av Microsofts kund avtal](confirm-customer-agreement.md).
+>Du måste bekräfta att en kund har accepterat Microsoft-kundavtal. Du kan bekräfta genom att antingen bekräfta att kunden har godkänt avtalet eller genom att bjuda in kunden att godkänna avtalet direkt. Se [Bekräfta en kunds godkännande av Microsoft-kundavtal](confirm-customer-agreement.md).
 
-### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Ändring av tystnads plikt till Microsoft Cloud avtalet (Tyskland)
+### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Tillägg om professionell sekretess till Microsoft Cloud-avtal (Tyskland)
 
-I Tyskland kräver brottmåls koden (avsnitt 203) och professionella uppförandekoder att vissa klient relationer hålls konfidentiella, till exempel förhållandet mellan patienter och medicinska läkare samt förhållandet mellan jurister och deras kunder. Dessa yrkes grupper måste garantera tystnads plikt. För dessa och andra yrkes organisationer för att köpa molnbaserade tjänster från moln lösnings leverantörer måste moln tjänst leverantören ingå ett skriftligt avtal med kunden som garanterar tystnads plikt.
+I Tyskland kräver brottskoden (avsnitt 203) och professionella uppförandekoder att vissa klientrelationer ska hållas konfidentiella, till exempel relationen mellan patienter och deras läkare och relationen mellan jurister och deras klienter. Dessa grupper måste garantera professionell sekretess. För att dessa och andra länder ska kunna köpa molnbaserade tjänster från molnlösningsleverantörer måste molntjänstleverantören ingå ett skriftligt avtal med kunden som garanterar professionell sekretess.
 
-Om du gör affärer i Tyskland kan du behöva ange den här sekretess ändringen för dina kunder, förutom Microsoft Cloud avtalet.
+Om du gör affärer i Tyskland kan du behöva ge dessa tillägg om professionell sekretess till dina kunder där utöver Microsoft Cloud-avtal.
 
-[Microsoft Cloud avtals ändringar av tystnads plikt för Tyskland (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
+[Microsoft Cloud-avtal tillägg om professionell sekretess för Tyskland (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
 
-[Microsoft Cloud avtals ändringar av tystnads plikt för Tyskland (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+[Microsoft Cloud-avtal tillägg om professionell sekretess för Tyskland (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
 ## <a name="pricing"></a>Priser
 
-Hämta pris information för licensbaserade, användnings och engångs köp från sidan **priser och erbjudanden** , som finns på menyn **partner Center** .
+Ladda ned prisinformation för licensbaserade, användningsbaserade och  en-gång-köp från sidan Priser och erbjudanden, som finns på **menyn i Partnercenter.**
 
-Den licensbaserade pris listan uppdateras varje månad och Microsoft släpper nya priser 30 dagar innan den börjar gälla. Exempel på licensbaserade tjänster är Office 365, Enterprise Mobility Suite och Microsoft Dynamics CRM. 
+Den licensbaserade prislistan uppdateras varje månad och Microsoft släpper nya priser 30 dagar innan den börjar gälla. Exempel på licensbaserade tjänster är Office 365, Enterprise Mobility Suite och Microsoft Dynamics CRM. 
 
-Användnings priset är dynamiskt och ändras ofta. Exempel på användnings tjänster är Microsoft Azure.
+Användningsbaserad prissättning är dynamisk och ändras ofta. Exempel på användningsbaserade tjänster är Microsoft Azure.
 
-Inköps priset vid en tidpunkt är också dynamiskt. Exempel på engångs köp är Microsoft Azure reservationer och motsvarande prenumerationer på Windows Server och SQL-programvara.
+Prissättningen för köp en gång är också dynamisk. Exempel på inköp vid en enda tidpunkt är Microsoft Azure reservationer och motsvarande prenumerationer på Windows Server och SQL-programvara.
 
-Pris information om erbjudanden för Azure Marketplace finns på **Marketplace** på den vänstra navigerings menyn i Partner Center. Välj en produkt om du vill visa information om utgivare, SKU: er och priser. Priserna för dessa Azure Marketplace-produkter kan ändras ofta. Om du vill hämta aktuell pris information för alla Marketplace-produkter väljer du **Exportera pris lista** för att generera ett kalkyl blad med alla pris uppgifter. Den här informationen uppdateras dagligen, så du kan kontrol lera den så ofta du vill.
+Information om priser för Azure Marketplace-erbjudanden finns på **Marketplace** i den vänstra navigeringsmenyn i Partnercenter. Välj en produkt för att se information om utgivare, SKU:er och priser. Priserna för dessa Azure Marketplace kan ändras ofta. Om du vill visa aktuell prisinformation för alla Marketplace-produkter väljer **du Exportera prislista** för att generera ett kalkylblad med alla prisdata. Den här informationen uppdateras dagligen, så du kan kontrollera den så ofta du vill.
 
 ## <a name="offers"></a>Erbjudanden
 
-Som partner i CSP kan du sälja en mängd olika Microsoft-produkter, tjänster och lösningar, inklusive Office 365, Enterprise Mobility Suite, Microsoft Dynamics och Microsoft Azure. Mer information om vilka erbjudanden som är tillgängliga för dig att sälja i dessa produkt familjer finns i matrisen CSP-erbjudande på sidan **priser och erbjudanden** , som du hittar på menyn **partner Center** . Det här dokumentet uppdateras varje månad.
+Som partner i CSP kan du sälja en mängd olika Microsoft-produkter, tjänster och lösningar, inklusive Office 365, Enterprise Mobility Suite, Microsoft Dynamics och Microsoft Azure. Mer information om vilka erbjudanden som är tillgängliga för försäljning inom dessa produktfamiljer finns i CSP-erbjudandematrisen på sidan Priser och erbjudanden på **menyn i Partnercenter.**  Det här dokumentet uppdateras varje månad.
 
-För CSP-partner som använder sig av en post med topp användnings post publicerar Microsoft även en lista över Azure-tjänsterna i CSP på sidan **priser och erbjudanden** .
+För CSP-partner som använder Api:et För Användningspost för användning publicerar Microsoft även en lista över Azure-tjänsterna i CSP på **sidan Med priser och** erbjudanden.
 
-Om du vill veta mer om Azure Marketplace-erbjudanden som publiceras av oberoende program varu leverantörer (ISV: er) går du till **Marketplace** -sidan i den vänstra navigerings menyn. För närvarande kan endast SaaS (program vara som en tjänst) användas för att köpa produkt typer i Partner Center. Du måste besöka Azure Portal för att få andra typer av Azure Marketplace-erbjudanden.
+Mer information om Azure Marketplace erbjudanden som publicerats av oberoende programvaruleverantörer (ISV: er) finns på **Marketplace-sidan** i den vänstra navigeringsmenyn. För närvarande kan endast SaaS-produkttyper (programvara som en tjänst) köpas i Partnercenter. Du måste besöka den här Azure Portal skaffa andra typer av Azure Marketplace erbjudanden.
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Lär dig mer om Microsofts partner avtal](microsoft-partner-agreement.md)
+- [Läs mer om Microsoft-partneravtal](microsoft-partner-agreement.md)
 - [Gå med i Cloud Solution Provider-programmet](enrolling-in-the-csp-program.md)

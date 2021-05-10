@@ -1,117 +1,118 @@
 ---
-title: Status rapport för säkerhets krav
+title: Statusrapport för säkerhetskrav
 ms.date: 10/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig att kontrol lera efterlevnaden av säkerhets kraven i rapporten säkerhets krav status och MFA-rapport för partner Center
+description: Lär dig hur du kontrollerar dina säkerhetskravs kompatibilitet med statusrapporten för säkerhetskrav och MFA-rapporten i Partnercenter
 author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d56b9675ea405b29190f68420037ea9a92f3d831
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: e9ff61b34a9154cf305efbb42147e99b9579a17f
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086557"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686287"
 ---
-# <a name="security-requirements-status-report"></a>Status rapport för säkerhets krav
+# <a name="security-requirements-status-report"></a>Statusrapport för säkerhetskrav
 
 **Lämpliga roller**
+
 - CPV-administratör
 - Global administratör
 
-I den här artikeln beskrivs status rapporten säkerhets krav i Partner Center. Den här rapporten ger statistik för efterlevnad av [partner säkerhets krav](partner-security-requirements.md) för Multi-Factor Authentication (MFA) för användare i din partner klient.
+I den här artikeln förklaras statusrapporten för säkerhetskrav i Partnercenter. Den här rapporten ger mått om efterlevnad av [partnersäkerhetskrav för](partner-security-requirements.md) multifaktorautentisering (MFA) för användare i din partnerklientorganisation.
 
-Om du vill få åtkomst till den här rapporten i [partner Center](https://partner.microsoft.com/dashboard)går du till **Inställningar**  >  **konto inställningar**  >  **säkerhets krav status**. Rapporten uppdateras dagligen och visar inloggnings data från de senaste sju dagarna.
+Om du vill komma åt den [här rapporten i Partnercenter](https://partner.microsoft.com/dashboard)går du **till Inställningar**  >    >  **Kontoinställningar Säkerhetskravstatus**. Rapporten uppdateras dagligen och visar inloggningsdata från de senaste sju dagarna.
 
 >[!NOTE]
->Status rapporten för säkerhets krav stöds bara i Partner Center. Den är inte tillgänglig i Microsoft Cloud för amerikanska myndigheter eller Microsoft Cloud Tyskland. Vi rekommenderar starkt att alla partner som agerar genom ett suveränt moln (amerikanska myndigheter och Tyskland) inför dessa nya säkerhets krav direkt. Dessa partner krävs dock för närvarande inte för att uppfylla de nya säkerhets kraven. Microsoft tillhandahåller ytterligare information om verk ställandet av dessa säkerhets krav för suveräna moln i framtiden.
+>Statusrapporten för säkerhetskrav stöds endast i Partnercenter. Den är inte tillgänglig i Microsoft Cloud for US Government Microsoft Cloud Tyskland. Vi rekommenderar starkt att alla partner som gör en överträdelse via ett suveränt moln (amerikanska myndigheter och Tyskland) inför dessa nya säkerhetskrav omedelbart. Dessa partner behöver dock för närvarande inte uppfylla de nya säkerhetskraven. Microsoft tillhandahåller ytterligare information om tillämpningen av dessa säkerhetskrav för nationella moln i framtiden.
 
-## <a name="security-status-metrics"></a>Mått för säkerhets status
+## <a name="security-status-metrics"></a>Mått för säkerhetsstatus
 
-Status rapporten säkerhets krav ger insikter om MFA-implementering av partner och tillhandahåller mått på MFA-konfiguration och partners Center aktiviteter på partner klienter. I följande avsnitt beskrivs dessa mått i detalj.
+Statusrapporten för säkerhetskrav ger insikter om implementering av partner-MFA och innehåller mått om MFA-konfiguration och Partnercenter-aktiviteter på partnerklienter. I följande avsnitt förklaras de här måtten i detalj.
 
-### <a name="mfa-configuration-on-a-partner-tenant"></a>MFA-konfiguration på en partner klient
+### <a name="mfa-configuration-on-a-partner-tenant"></a>MFA-konfiguration på en partnerklientorganisation
 
-Mått **procent andelen aktiverade användar konton med MFA som framtvingas med alternativ som anges här:** visar procent andelen aktiverade användar konton på din partner klient som har MFA-tvång. Du kan använda något av dessa [MFA-alternativ](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) för att uppnå efterlevnad. Dessa data samlas in och rapporteras dagligen. Exempel:
+Måttet **Procentandel aktiverade användarkonton** med MFA framtvingat med hjälp av alternativen som anges här: visar procentandelen aktiverade användarkonton på din partnerklientorganisation som har MFA framtvingat. Du kan använda något av dessa [MFA-alternativ för](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) att uppnå efterlevnad. Dessa data samlas in och rapporteras dagligen. Exempel:
 
-- Contoso är en CSP-partner med 110 användar konton i klienten, 10 av dessa användar konton är inaktiverade. 
-- Från resten av 100-användar kontona tillämpas MFA med de tillhandahållna [MFA-alternativen](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)i 90. Måttet visar därför 90%. 
+- Contoso är en CSP-partner med 110 användarkonton i klientorganisationen och 10 av dessa användarkonton är inaktiverade. 
+- Av resten av 100 användarkonton tillämpas 90 MFA med de tillhandahållna [MFA-alternativen](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started). Därför visar måttet 90 %. 
 
 ### <a name="partner-center-requests-with-mfa"></a>Partner Center-begäranden med MFA
 
-Varje gång dina anställda loggar in på Partner Center för att arbeta eller, via API: er, hämta eller skicka data via partner Center, har deras säkerhets status och spårats. I säkerhets status spårning ingår även program och alla program på kontroll panelen. Dessa data visas i mått under **procent av begär anden till Partner Center med MFA** och de senaste sju dagarna.
+Varje gång dina anställda loggar in på Partnercenter för att arbeta eller, via API:er, hämta eller skicka data via Partnercenter, måste deras säkerhetsstatus utvärderas och spåras. Dina program och eventuella program från kontrollpanelen ingår även i spårning av säkerhetsstatus. Dessa data visas i mått under Procent **av begäranden till Partnercenter** med MFA och visar de senaste sju dagarna.
 
-#### <a name="dashboard-mfa-verification"></a>Instrument panel MFA-verifiering
+#### <a name="dashboard-mfa-verification"></a>MFA-verifiering på instrumentpanelen
 
-Måttet **via partner Center-portalen** är relaterat till aktiviteter i Partner Center-instrumentpanelen. Det mäter procent andelen åtgärder som utförs av användare som har slutfört MFA-verifieringen. Exempel:
+Måttet **via Partnercenter-portalen** är relaterat till aktiviteter i instrumentpanelen i Partnercenter. Den mäter procentandelen åtgärder som utförs av användare som har slutfört MFA-verifiering. Exempel:
 
-- Contoso är en CSP-partner med två administratörs agenter, Jane och John.
-- Den första dagen är Jane inloggad på instrument panelen i Partner Center utan MFA-verifiering och gjort tre åtgärder.
-- Den andra dagen är John inloggad på instrument panelen i Partner Center utan MFA-verifiering och gjort fem åtgärder.
-- Den tredje dagen är Jane inloggad på instrument panelen i Partner Center med MFA-verifiering och gjort två åtgärder.
-- Inga åtgärder har gjorts av någon av agenterna under de återstående fyra dagarna.
-- Med de 10 åtgärder som gjorts i fönstret sju dagar har två gjorts av användaren med MFA-verifiering. Måttet visar därför 20%.
+- Contoso är CSP-partner med två administratörsagenter, Jane och John.
+- Den första dagen loggade Jane in på Partner Center-instrumentpanelen utan MFA-verifiering och gjorde tre åtgärder.
+- Den andra dagen loggade John in på Partner Center-instrumentpanelen utan MFA-verifiering och gjorde fem åtgärder.
+- Den tredje dagen loggade Jane in på instrumentpanelen i Partnercenter med MFA-verifiering och gjorde två åtgärder.
+- Ingen av agenterna gjorde några åtgärder under de återstående fyra dagarna.
+- Av de 10 åtgärderna som gjordes i sjudagarsfönstret gjordes två av användaren med MFA-verifiering. Därför visar måttet 20 %.
 
-Använd fil **Portal förfrågningar utan MFA** för att förstå vilken användare som är inloggad på Partner Center-instrumentpanelen utan att ha MFA-verifiering och tid för senaste besök i rapporterings fönstret.
+Använd **filportalbegäranden** utan MFA för att förstå vilken användare som loggade in på Partnercenter-instrumentpanelen utan att ha MFA-verifiering och tiden för senaste besök under rapportfönstret.
 
-#### <a name="appuser-mfa-verification"></a>App + MFA-verifiering av användare
+#### <a name="appuser-mfa-verification"></a>Verifiering av MFA för app+användare
 
-Måttet **via API eller SDK** är relaterat till app + User Authentication via API-begäranden i Partner Center. Den mäter procent andelen API-begäranden som gjorts med hjälp av en åtkomsttoken med MFA-anspråk. Exempel:
+Måttet **Via API eller SDK är** relaterat till app- och användarautentisering via PARTNER Center API-begäranden. Den mäter procentandelen API-begäranden som görs med hjälp av en åtkomsttoken med MFA-anspråk. Exempel:
 
-- Fabrikam är en CSP-partner och har ett CSP-program som använder en blandning av autentiseringsmetoder för App + användare och appar.
-- Den första dagen gjorde programmet tre API-begäranden som har säkerhetskopierats av en åtkomsttoken som erhållits via app + User Authentication-metoden utan MFA-verifiering.
-- Den andra dagen gjorde programmet fem API-begäranden som har säkerhetskopierats av en åtkomsttoken som hämtades med endast app-autentisering.
-- På den tredje dagen gjorde programmet två API-begäranden som har säkerhetskopierats av en åtkomsttoken som erhållits med hjälp av MFA-verifieringen app + User.
-- Inga åtgärder har gjorts av någon av agenterna under de återstående fyra dagarna.
-- De fem API-begärandena den andra dagen, som har säkerhetskopierats av en åtkomsttoken som hämtats via endast app-autentisering, utelämnas från måttet eftersom den inte använder användarautentiseringsuppgifter. Två av de återstående fem åtgärderna har säkerhetskopierats med en åtkomsttoken som erhållits med MFA-verifiering. Måttet visar därför 40%.
+- Fabrikam är en CSP-partner och har ett CSP-program som använder en blandning av app- och användarautentisering och appskyddade autentiseringsmetoder.
+- Den första dagen gjorde programmet tre API-begäranden, som backades upp av en åtkomsttoken som erhölls via autentiseringsmetoden App+User utan MFA-verifiering.
+- Den andra dagen gjorde programmet fem API-begäranden, som backades upp av en åtkomsttoken som erhölls med appbaserad autentisering.
+- Den tredje dagen gjorde programmet två API-begäranden, som backades upp av en åtkomsttoken som erhölls med hjälp av autentiseringsmetoden App+Användare med MFA-verifiering.
+- Ingen av agenterna har gjort några åtgärder under de återstående fyra dagarna.
+- De fem API-begärandena den andra dagen, som backades upp av en åtkomsttoken som erhållits via appbaserad autentisering, utelämnas från måttet eftersom den inte använder autentiseringsuppgifter för användaren. Av de återstående fem åtgärderna backades två av dem upp av en åtkomsttoken som erhölls med MFA-verifiering. Därför visar måttet 40 %.
 
-Om du vill veta vilka app + User-aktiviteter som resulterar i en icke-100% på det här måttet använder du filer:
+Om du vill förstå vilka App+ användaraktiviteter som resulterar i icke-100 % för det här måttet använder du filer:
 
-- **Översikt över API-begäranden** för att förstå den övergripande MFA-statusen per program.
-- **Alla API-begäranden** för att förstå detaljerna i varje API-begäranden som görs av användare av din klient, resultatet är begränsat till maximalt 10 000 senaste begär Anden för bättre nedladdning.
+- **Sammanfattning av API-begäranden** för att förstå övergripande MFA-status per program.
+- **Alla API-begäranden** för att förstå detaljnivån för varje API-begäranden som görs av användare i din klientorganisation är resultatet begränsat till högst 10 000 senaste begäranden för bättre nedladdningsupplevelse.
 
-## <a name="actions-for-mfa-status-below-100"></a>Åtgärder för MFA-status under 100%
+## <a name="actions-for-mfa-status-below-100"></a>Åtgärder för MFA-status under 100 %
 
-Vissa partner som har implementerat MFA kan se rapport måtten under 100%. Här följer några faktorer att ta reda på varför.
+Vissa partner som har implementerat MFA kan se rapportmått under 100 %. Här är några faktorer att tänka på för att förstå varför.
 
 > [!NOTE]
-> Du måste arbeta med någon från din organisation som är bekant med identitets hantering och MFA-implementering för din partner klient.
+> Du måste arbeta med någon från din organisation som är bekant med identitetshantering och MFA-implementering för din partnerklientorganisation.
 
-### <a name="implemented-mfa-for-your-partner-tenant"></a>Implementera MFA för din partner klient
+### <a name="implemented-mfa-for-your-partner-tenant"></a>Implementerat MFA för din partnerklientorganisation
 
-Du måste implementera MFA för att din partner klient ska kunna uppnå efterlevnad. Mer information om hur du implementerar MFA finns i [säkerhets krav för att använda API: er för partner Center eller partner Center](partner-security-requirements.md).
+Du måste implementera MFA för din partnerklientorganisation för att uppnå efterlevnad. Mer information om hur du implementerar MFA finns i [Säkerhetskrav för att använda Partner Center eller Partner Center-API:er.](partner-security-requirements.md)
 
 >[!NOTE]
-> MFA-mått beräknas dagligen och tar hänsyn till de åtgärder som utförts under de senaste sju dagarna. Om du bara har slutfört MFA-implementeringen för din partner klient kanske måtten ännu inte visar 100%.
+> MFA-mått beräknas dagligen och tar hänsyn till åtgärder som utförts under de senaste sju dagarna. Om du bara nyligen har slutfört MFA-implementeringen för din partnerklientorganisation kanske måtten ännu inte visar 100 %.
 
-### <a name="verify-mfa-on-all-user-accounts"></a>Verifiera MFA på alla användar konton
+### <a name="verify-mfa-on-all-user-accounts"></a>Verifiera MFA för alla användarkonton
 
-Ta reda på om din aktuella MFA-implementering omfattar alla användar konton eller bara vissa. Vissa MFA-lösningar är principbaserad och stöder användar undantag, medan andra kan kräva att du uttryckligen aktiverar MFA för varje användare. Kontrol lera att du inte har uteslutit någon användare från din aktuella MFA-implementering. Alla användar konton som undantas och loggar in på Partner Center för att utföra alla CSP-, CPV-eller Advisor-relaterade aktiviteter kan orsaka att måtten inte är 100%.
+Förstå om din aktuella MFA-implementering omfattar alla användarkonton eller bara vissa. Vissa MFA-lösningar är principbaserade och stöder användar exkludering, medan andra kan kräva att du uttryckligen aktiverar MFA per användare. Kontrollera att du inte har exkluderat någon användare från din aktuella MFA-implementering. Alla användarkonton som undantas och loggar in på Partnercenter för att utföra aktiviteter relaterade till CSP, CPV eller Advisor kan orsaka att måtten inte är 100 %.
 
 ### <a name="review-your-mfa-conditions"></a>Granska dina MFA-villkor
 
-Ta reda på om den aktuella implementeringen endast tillämpar MFA under vissa villkor. Vissa MFA-lösningar ger flexibilitet att endast genomdriva MFA när vissa villkor är uppfyllda. Till exempel kan användaren komma åt från okänd enhet eller okänd plats. En användare, som är aktive rad för MFA men inte krävs för att slutföra MFA-verifiering vid åtkomst till Partner Center, kan orsaka att måtten inte är 100%.
+Förstå om den aktuella implementeringen endast tillämpar MFA under specifika villkor. Vissa MFA-lösningar ger flexibilitet att endast framtvinga MFA när vissa villkor uppfylls. Användaren kan till exempel komma åt från en okänd enhet eller en okänd plats. En användare som är aktiverad för MFA men inte behöver slutföra MFA-verifiering vid åtkomst till Partnercenter kan orsaka att måtten inte är 100 %.
 
 >[!NOTE]
->För partner som har implementerat MFA med hjälp av Azure AD Security-standardvärden är det viktigt att Observera att Multi-Factor Authentication för icke-administratörskonton kommer att tvingas utifrån risk. Användare tillfrågas endast om MFA under riskfyllda inloggnings försök (till exempel att användaren loggar in från en annan plats). Dessutom har användarna upp till 14 dagar på sig att registrera sig för MFA. Användare som inte har slutfört MFA-registrering kommer inte att begära MFA-verifiering under 14-dagars perioden. Därför förväntas vi att måtten inte får vara 100% för partner som har implementerat MFA med hjälp av standardinställningar för Azure AD-säkerhet.
+>För partner som har implementerat MFA med standardvärden för Azure AD-säkerhet är det viktigt att observera att multifaktorautentisering för icke-administratörskonton tillämpas baserat på risk. Användarna uppmanas endast att ange MFA vid riskfyllda inloggningsförsök (till exempel om användaren loggar in från en annan plats). Dessutom har användarna upp till 14 dagar på sig att registrera sig för MFA. Användare som inte har slutfört MFA-registreringen kommer inte att behöva verifiera MFA under 14-dagarsperioden. Därför förväntas måtten inte vara 100 % för partner som har implementerat MFA med hjälp av Azure AD-säkerhetsstandarder.
 
-### <a name="review-third-party-mfa-configurations"></a>Granska konfigurationer från tredje part MFA
+### <a name="review-third-party-mfa-configurations"></a>Granska MFA-konfigurationer från tredje part
 
-Om du använder MFA-lösningen från tredje part kan du identifiera hur du integrerar den med Azure AD. I allmänhet finns det två metoder, inklusive Federation och anpassade kontroller:
+Om du använder en MFA-lösning från tredje part identifierar du hur du integrerar den med Azure AD. I allmänhet finns det två metoder, inklusive federationskontroller och anpassade kontroller:
 
-* **Identitets Federation** – när Azure AD tar emot en autentiseringsbegäran omdirigerar Azure AD användaren till den federerade identitets leverantören för autentisering. Vid lyckad autentisering omdirigerar den federerade identitets leverantören användaren tillbaka till Azure AD tillsammans med en SAML-token. För att Azure AD ska kunna identifiera att användaren har slutfört MFA-verifiering vid autentisering till den federerade identitets leverantören, måste SAML-token innehålla *authenticationmethodsreferences* -anspråket (med värdet *multipleauthn*). Kontrol lera om den federerade identitets leverantören stöder utfärdande av ett sådant anspråk. Om så är fallet kontrollerar du om den federerade identitets leverantören har kon figurer ATS att göra det. Om anspråket saknas vet inte Azure AD (och därför Partner Center) att användaren har slutfört MFA-verifieringen och att det saknas ett anspråk kan orsaka att måttet inte är 100%.
+* **Identitetsfederation** – När Azure AD tar emot en autentiseringsbegäran omdirigerar Azure AD användaren till den federerade identitetsprovidern för autentisering. Vid lyckad autentisering omdirigerar den federerade identitetsprovidern användaren tillbaka till Azure AD tillsammans med en SAML-token. För att Azure AD ska kunna identifiera att användaren har slutfört MFA-verifieringen vid autentisering till den federerade identitetsprovidern måste SAML-token innehålla *autentiseringsmethodsreferences-anspråket* (med värdet *multipleauthn*). Kontrollera om den federerade identitetsprovidern stöder utfärdande av ett sådant anspråk. I så fall kontrollerar du om den federerade identitetsprovidern har konfigurerats för att göra det. Om anspråket saknas vet Inte Azure AD (och därför Partnercenter) att användaren har slutfört MFA-verifieringen och att anspråket saknas kan göra att måttet inte är 100 %.
 
-* **Anpassad kontroll** – det går inte att använda anpassad kontroll för Azure AD för att identifiera om en användare har SLUTFÖRt MFA-verifiering via en MFA-lösning från tredje part. Därför kommer alla användare som har slutfört MFA-verifiering via en anpassad kontroll alltid att visas i Azure AD (och i sin tur Partner Center) som att de inte har slutfört MFA-verifiering. Där det är möjligt rekommenderar vi att du växlar till att använda identitets Federation i stället för anpassad kontroll vid integrering med Azure AD.
+* **Anpassad kontroll** – Azure AD Custom Control kan inte användas för att identifiera om en användare har slutfört MFA-verifiering via en MFA-lösning från tredje part. Därför visas alla användare som har slutfört MFA-verifiering via en anpassad kontroll alltid för Azure AD (och i sin tur Partnercenter) som att de inte har slutfört MFA-verifieringen. Där det är möjligt rekommenderar vi att du växlar till att använda identitetsfederation i stället för anpassad kontroll vid integrering med Azure AD.
 
-### <a name="identify-which-users-have-signed-in-to-partner-center-without-mfa"></a>Identifiera vilka användare som har loggat in på Partner Center utan MFA
+### <a name="identify-which-users-have-signed-in-to-partner-center-without-mfa"></a>Identifiera vilka användare som har loggat in på Partnercenter utan MFA
 
-Det kan vara bra att identifiera vilka användare som loggar in på Partner Center utan MFA-verifiering och verifiera dem mot din aktuella MFA-implementering. Du kan använda [Azure AD-inloggnings rapporten](/azure/active-directory/reports-monitoring/concept-sign-ins) för att ta reda på om en användare har SLUTFÖRt MFA-verifiering eller inte. Azure AD-inloggnings rapporten är för närvarande bara tillgänglig för partner som prenumererar på Azure AD Premium eller en O365-SKU, som innehåller Azure AD Premium (till exempel EMS).
+Det kan vara bra att identifiera vilka användare som loggar in på Partnercenter utan MFA-verifiering och verifiera dem mot din aktuella MFA-implementering. Du kan använda [Azure AD-inloggningsrapporten för att](/azure/active-directory/reports-monitoring/concept-sign-ins) ta reda på om en användare har slutfört MFA-verifieringen eller inte. Azure AD-inloggningsrapporten är för närvarande endast tillgänglig för partner som prenumererar på Azure AD Premium eller en O365-SKU, vilket omfattar Azure AD Premium (till exempel EMS).
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Community för säkerhets vägledning för partner Center](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)
+- [Gruppgrupp för säkerhetsvägledning i Partnercenter](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)
 - [Säkerhetskrav för Partnercenter](partner-security-requirements.md)
-- [Vanliga frågor och svar om säkerhets krav för partner Center](partner-security-requirements-faq.md)
+- [Vanliga frågor och svar om säkerhetskrav för Partnercenter](partner-security-requirements-faq.md)

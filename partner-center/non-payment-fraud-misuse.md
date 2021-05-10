@@ -1,6 +1,6 @@
 ---
 title: Hantera uteblivna betalningar, bedrägeri eller missbruk
-description: Lär dig mer om de olika riskerna i onlinetransaktioner och de bästa metoderna för att hantera och minimera riskerna i Partner Center.
+description: Lär dig mer om de olika riskerna med onlinetransaktioner och metodtipsen för att hantera och minska riskerna i Partnercenter.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,94 +9,94 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: 9b3beef70052ad204327dd53c4aa9f477056bbcb
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: c3b7db95bbbd039f8328ddd2785579bb533197cc
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441871"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686304"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Hantera icke-betalning, bedrägeri eller missbruk i Partnercenter
 
-Gäller för:
+**Gäller för**
 
 - Välkommen till Partnercenter för Microsoft Cloud for US Government
 
 **Lämpliga roller**
 
 - Global administratör
-- Administratör för användar hantering
-- Administratörs agent
+- Administratör för användarhantering
+- Administratörsagent
 - Faktureringsadministratör
 
-Du är ekonomiskt ansvarig för bedrägliga köp av dina kunder och/eller kunders utebliven betalning av köpta tjänster. Därför *rekommenderar vi starkt att du inför kontroller av bedrägeri skydd och identifiering av risker*.
+Du är ekonomiskt ansvarig för bedrägliga köp av dina kunder och/eller kunders icke-betalning av köpta tjänster. Därför rekommenderar *vi starkt att du använder kontroller för bedrägeriskydd och identifiering av riskreducering.*
 
-För att undvika och/eller adressera bedräglig aktivitet eller missbruk är det viktigt att förstå potentiella risker och utveckla principer och metoder som kan minska exponeringen.
+För att undvika och/eller åtgärda bedräglig aktivitet eller missbruk är det viktigt att förstå potentiella risker och utveckla principer och metoder som kan minska exponeringen.
 
-## <a name="enforcement-of-microsoft-acceptable-use-policy"></a>Tillämpning av Microsofts acceptabla användnings princip
+## <a name="enforcement-of-microsoft-acceptable-use-policy"></a>Framtvingande av Microsofts policy för godtagbar användning
 
-Om Microsoft identifierar partner-eller kund aktivitet som vi bekräftar eller misstänker strider mot principen för godkänd användning, vidtar vi tillämpnings anvisningar. Kunden kan inaktive ras omedelbart. Du får ett meddelande om tvingande åtgärder eller uppdaterad på dina begär Anden från Microsoft.
+Om Microsoft upptäcker partner- eller kundaktivitet som vi bekräftar eller misstänker bryter mot principen för acceptabel användning, kommer vi att vidta tvingande åtgärder. Kunden kan omedelbart pausas. Microsoft kommer att meddela dig om tvingande åtgärder eller uppdatera dina begäranden.
 
-## <a name="abuse-of-service-risks"></a>Missbruk av tjänste risker
+## <a name="abuse-of-service-risks"></a>Missbruk av tjänstrisker
 
-**Missbruk av tjänste** risker innebär att kunder som använder moln tjänster strider mot Microsofts acceptabla användnings princip.
+**Missbruk av tjänstrisker** innebär kunder som använder molntjänster i strid med Microsofts policy för acceptabel användning.
 
 ### <a name="examples-of-abuse-of-service"></a>Exempel på missbruk av tjänsten
 
-Exempel på följande överträdelser av Microsofts acceptable use policy kan vara:
+Exempel på dessa överträdelser av Microsofts acceptable use policy kan vara:
 
-- Mass utskick
-- Hackning
-- DDoS-attacker (distributed denial-of-Service)
+- Spamming
+- Hacking
+- Distribuerade DDoS-attacker (Denial-of-Service)
 - Bitcoin-utvinning
 - Distribution av skadlig kod
-- Åter försäljning av piratkopierade prenumerationer
+- Omförsäljning av snedfördelade prenumerationer
 
-## <a name="theft-of-service-risks"></a>Stöld av tjänst risker
+## <a name="theft-of-service-risks"></a>Stöld av tjänstrisker
 
-**Stöld av tjänste** risker innebär att kunder som inte har avsikt att betala för förbrukade tjänster. Den här stölden kan innebära att använda stulna betalnings instrument, tillhandahålla falsk fakturerings information och/eller standardvärden på utestående saldon.
+**Stöld av tjänstrisker** innebär kunder som inte har för avsikt att betala för förbrukade tjänster. Den här stölden kan handla om att använda stulna betalningsmedel, tillhandahålla falsk faktureringsinformation och/eller att betala utestående saldon som standard.
 
-### <a name="examples-of-service-theft"></a>Exempel på tjänst stöld
+### <a name="examples-of-service-theft"></a>Exempel på tjänststöld
 
-Exempel på sådana online transaktions risker kan vara:
+Exempel på dessa onlinetransaktionsrisker kan vara:
 
-- Transaktioner som inte inträffar personligen ("kredit kort finns inte"-transaktioner)
-- Felvisade identiteter
-- Tjänster som tillhandahålls och används före första betalningen tas emot
-- Nya marknader och/eller hög risk regioner för bedrägerier online
-- Automatisera konto skapande och köp av felaktiga aktörer
+- Transaktioner som inte sker personligen ("kreditkortet finns inte")
+- Felrepresenterade identiteter
+- Tjänster som etablerats och används innan den första betalningen tas emot
+- Nya marknader och/eller högriskregioner för onlinebedrägerier
+- Automatisera kontoskapande och köp av dåliga aktörer
 
-## <a name="managing-online-risk"></a>Hantera online-risk
+## <a name="managing-online-risk"></a>Hantera onlinerisker
 
-Du kan använda följande rekommendationer för att hjälpa dig att utveckla principer och metoder för att minska exponeringen för transaktions risker online i livs cykeln för dina kund relationer.
+Du kan använda följande rekommendationer för att hjälpa dig att utveckla principer och metoder för att minska din exponering för onlinetransaktionsrisker under livscykeln för dina kundrelationer.
 
-### <a name="onboarding-new-customers"></a>Publicera nya kunder
+### <a name="onboarding-new-customers"></a>Registrera nya kunder
 
-Förslag på att minska antalet online-risker när du registrerar nya kunder är:
+Här är några förslag på hur du kan minska onlineriskerna vid registrering av nya kunder:
 
 - Upprätta personliga relationer med kunder när det är möjligt (till exempel kontakta kunder via telefon).
-- Verifiera kundernas autentiseringsuppgifter och bakgrund genom bättre metoder (t. ex. genom att använda kredit byråer eller affärsmässiga rapport byråer).
-- Använd Multi-Factor Authentication (till exempel SMS-verifiering) under registreringen för att minimera exponeringen för att skapa och köpa automatiska konton.
-- Hantera och spåra identiteter med hjälp av tjänster (t. ex. digitala identitets tjänster).
-- Utvärdera kundens finansiella styrka genom rigorösa kredit korts identifierings system.
-- Upprätta en princip för att rensa samlingar. Beskriv insamlings processen och när åtkomst till prenumerationer kommer att påverkas av utebliven betalning. (Du kan inaktivera åtkomst eller [pausa en kunds prenumerationer](create-a-new-subscription.md#suspend-a-subscription) för icke-betalning.)
+- Verifiera kundernas autentiseringsuppgifter och bakgrund med bättre metoder (till exempel genom att använda kreditkontor eller kommersiella företagsrapportorgan).
+- Använd multifaktorautentisering (till exempel SMS-verifiering) under registrering för att minimera exponeringen för skapande och inköp av robotkonto.
+- Hantera och spåra identiteter med hjälp av tjänster (till exempel digitala identitetstjänster).
+- Utvärdera kundernas ekonomiska styrka genom rigorösa system för identifiering av kreditkortsbedrägerier.
+- Upprätta en princip för rensade samlingar. Beskriva dina samlingar och när åtkomsten till prenumerationer påverkas av utebliven betalning. (Du kan inaktivera åtkomst [eller inaktivera en kunds prenumerationer vid](create-a-new-subscription.md#suspend-a-subscription) utebliven betalning.)
 
 ### <a name="managing-customer-accounts"></a>Hantera kundkonton
 
-Förslag på att hantera kund konton efter köpet är:
+Här är några förslag på hur du kan hantera kundkonton efter köpet:
 
-- Implementera en process för att snabbt få, granska, agera på och svara på Microsoft-meddelanden.
-- Arbeta med kunder för att förstå deras behov av moln användnings verksamhet medan inställningarna är lämpliga för övervaknings trösklar. (Du kan till exempel [Ange en månatlig Azure utgifts budget](set-an-azure-spending-budget-for-your-customers.md) i Partner Center. Med den här överenskommelsen kan du övervaka kund användning under månaden och bli informerad när kunderna är nära sina budget.)
-- Övervaka [kund aktivitets loggar](activity-logs.md) regelbundet för att hjälpa att upptäcka bedrägerier tidigt.
-- Vidta snabb åtgärd när misstänkta aktiviteter identifieras.
-- Undvik att ge kunderna fullständig administrativ åtkomst till prenumerationer utan att först implementera risk minsknings kontroller.
+- Implementera en process för att snabbt ta emot, granska, agera på och svara på Microsoft-meddelanden.
+- Arbeta med kunder för att förstå sina affärsbehov för molnanvändning samtidigt som du ser lämpliga övervakningströsklar. (Du kan till exempel ange [en månatlig Azure-utgiftsbudget](set-an-azure-spending-budget-for-your-customers.md) i Partnercenter. Den här förståelsen gör att du kan övervaka kundanvändningen under månaden och bli meddelad när kunderna är nära sin budget.)
+- Övervaka [kundaktivitetsloggar](activity-logs.md) regelbundet för att upptäcka bedrägerier tidigt.
+- Vidta snabba åtgärder när misstänkta aktiviteter identifieras.
+- Undvik att ge kunderna fullständig administrativ åtkomst till prenumerationer utan att först implementera riskreduceringskontroller.
 
-### <a name="managing-customer-billing"></a>Hantera kund fakturering
+### <a name="managing-customer-billing"></a>Hantera kundfakturering
 
-Förslag på hantering av kund fakturerings post-inköp inkluderar:
+Här är några förslag på hur du kan hantera kundfakturering efter köpet:
 
-- Begär förskotts betalningar före första transaktioner och fakturering.
-- Godkänn inte högrisk betalnings instrument (till exempel förbetalda kort eller lagrings värde kort).
-- Övervaka kund betalningar och kund fordringar för ålders konton. Använd aggressivt standardiserade Dunning-processer för sena betalningar eller utebliven betalning.
+- Begär förskottsbetalningar före inledande transaktioner och fakturering.
+- Acceptera inte betalningsmedel med hög risk (till exempel förbetalda kort eller kort med lagrat värde).
+- Övervaka kundbetalningar och äldre kundreskontra. Aggressivt framtvinga standardiserade dunningsprocesser för försenade betalningar eller utebliven betalning.
 
-Mer detaljerad information om hur du kan åtgärda online-risker finns i [hand boken för transaktions riskhantering.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhtt)
+Mer detaljerade strategier för att minimera onlinerisk finns i [onlineguiden för transaktionsriskhantering.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhtt)

@@ -9,18 +9,18 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 01/22/2021
-ms.openlocfilehash: 2c44581b1c2d7fcf2e4a10de9194a8c7288791a2
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: ae39190e47b48a69e103da6d899b11c224a56d22
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172276"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686151"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Tillhandahålla olika typer av support till dina kunder
 
 **Gäller för**
 
--  Välkommen till Partnercenter för Microsoft Cloud for US Government
+- Välkommen till Partnercenter för Microsoft Cloud for US Government
 
 **Lämpliga roller**
 
@@ -38,13 +38,13 @@ CSP-kunder kan inte själva skapa supportärenden. De måste kontakta dig för a
 
 - **Teknisk** support – du kan [jämföra partnersupportplaner](https://partner.microsoft.com/support/partnersupport) eller mer information på följande länkar om en specifik supportplan:
 
-  - [Premier Support för partner](https://partner.microsoft.com/support/microsoft-services-premier-support) (avgiftsbas, användning för alla produkter)
+  - [Premier Support partner](https://partner.microsoft.com/support/microsoft-services-premier-support) (avgiftsbas, användning för alla produkter)
 
-  - [Avancerat stöd för partner](https://partner.microsoft.com/support/advanced-cloud-support) (avgiftsbas, användning endast för molnprodukter)
+  - [Avancerad support för partner](https://partner.microsoft.com/support/advanced-cloud-support) (avgiftsbas, användning endast för molnprodukter)
 
-  - [Signature Cloud Support](manage-your-partner-network-benefits.md) (ingår i MPN-förmåner för guld- eller silverkompetenser, använd endast för molnprodukter)
+  - [Signature Cloud Support](manage-your-partner-network-benefits.md) (ingår i MPN-förmåner för guld- eller silverkompetenser och används endast för molnprodukter)
 
-  - [Produktsupportärenden](manage-your-partner-network-benefits.md) (ingår i MPN-förmåner för Guld-, Silver- eller Microsoft Action Pack-partner och används endast för de senaste lokala produkterna)
+  - [Produktsupportärenden](manage-your-partner-network-benefits.md) (ingår i MPN-förmåner för guld-, silver- eller Microsoft Action Pack-partner och används endast för de senaste lokala produkterna)
 
 ## <a name="providing-billing-subscription-management-and-technical-support"></a>Tillhandahålla fakturering, prenumerationshantering och teknisk support 
 
@@ -54,4 +54,4 @@ Varje onlinetjänst har specifika och detaljerade krav för att tillhandahålla 
 
 - [Azure-prenumerationer sålda via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
-- [Microsoft Office 365-prenumerationer sålda via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+- [Microsoft Office 365 prenumerationer sålda via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
