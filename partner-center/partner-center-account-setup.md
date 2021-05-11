@@ -4,164 +4,164 @@ ms.topic: conceptual
 ms.date: 03/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Lär dig hur du använder Partner Center för att hantera företagets profil, bank och skatte information, roller, behörigheter med mera.
+description: Lär dig hur du använder Partnercenter för att hantera företagets profil, bank- och skatteinformation, roller, behörigheter med mera.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 08499c306079d0cb900d528247309afdf21b23bb
-ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
+ms.openlocfilehash: b59d18a62ce6a775e97f88708467d07e9c351a66
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "107315906"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740394"
 ---
-# <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Hantera ditt partner Center-konto – företags profil, bank information, roller, behörigheter med mera
+# <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Hantera ditt Partnercenter-konto – företagsprofil, bankinformation, roller, behörigheter med mera
 
 **Lämpliga roller** 
 
 - Global administratör
 - Kontoadministratör
 
-Det konto som du skapar i Partner Center när du registrerar dig är ditt e-post och din företags information. När du har skapat ett konto slutför du konfigurationen av företagets fullständiga profil, inklusive support information, fil skatte undantag om det behövs och primär kontakt information. Ditt företags konto innehåller även användar konton för alla i teamet som ska använda Partner Center. Arbetet som de kan göra är att lägga till eller hantera kunder, Sälj prenumerationer, arbeta med fakturering och fakturering, skapa affärs profiler, hantera hänvisningar, arbeta med stimulans program, tillhandahålla support med mera.
+Det konto som du skapar i Partnercenter när du registrerar är din e-postadress till arbetet plus din affärsinformation. När du har skapat ett konto är du klar med att konfigurera företagets fullständiga profil, inklusive supportinformation, undantag vid skattebefrielse vid behov och primär kontaktinformation. Ditt företags konto innehåller även användarkonton för alla i ditt team som ska använda Partnercenter. De kan bland annat lägga till eller hantera kunder, sälja prenumerationer, arbeta med fakturering, skapa företagsprofiler, hantera hänvisningar, arbeta med incitamentsprogram, tillhandahålla support och mycket mer.
 
-Se även artiklar [Bjud in anställda till Partner Center](guide-to-migration.md) och [lägga till en ny användare](create-user-accounts-and-set-permissions.md).
+Se även artiklarna [Bjud in anställda att gå med i Partnercenter](guide-to-migration.md) och Lägga till en ny [användare.](create-user-accounts-and-set-permissions.md)
 
 >[!NOTE]
->Menyn konto inställningar ändras beroende på vilka program som du har registrerat i. Om du till exempel är partner i Cloud Solution Provider-programmet (CSP) kan du hantera dina Azure-delade tjänster från **konto inställningar**.
+>Menyn Kontoinställningar ändras beroende på vilka program du har registrerat dig i. Om du till exempel är en partner i Molnlösningsleverantör-programmet (CSP) kan du hantera dina Azure Shared-tjänster från **Kontoinställningar**.
 
 ## <a name="account-management"></a>Kontohantering
 
-Alla kommersiella och utvecklare får åtkomst till **konto hantering** i Partner Center genom att logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard) och välja **Inställningar** (kugg hjuls ikonen) i det övre högra hörnet på skärmen och sedan **konto inställningar**. Du behöver inte längre välja mellan inställningar för partner och utvecklare. Alla profiler och inställningar kombineras nu.
+Alla kommersiella partner och utvecklarpartner får åtkomst till [](https://partner.microsoft.com/dashboard) Kontohantering i Partnercenter genom att logga **in** på instrumentpanelen i Partnercenter och välja Inställningar  (kugghjulsikonen) i det övre högra hörnet på skärmen och sedan **Kontoinställningar**. Du behöver inte längre välja mellan inställningar för Partner och Utvecklare. Alla profiler och inställningar kombineras nu.
 
-:::image type="content" source="images/accountsettings/opening.png" alt-text="inställnings ikon":::
+:::image type="content" source="images/accountsettings/opening.png" alt-text="inställningsikon":::
 
-Då visas sidan konto inställningar.
+Då visas sidan kontoinställningar.
 
 :::image type="content" source="images/accountsettings/account-settings-sv.png" alt-text="Menyn Inställningar.":::
 
-### <a name="locate-your-mpn-id"></a>Hitta ditt MPN-ID
+### <a name="locate-your-mpn-id"></a>Leta upp ditt MPN-ID
 
-Oavsett om du är partner eller utvecklar kan du använda ditt MPN-ID för att logga support biljetter. Ditt MPN-ID finns på sidan **juridisk information** . Du kan också hitta den i **identitets profilen**.
+Oavsett om du är partner eller utvecklare kan du använda ditt MPN-ID för sådant som att logga supportärenden. Ditt MPN-ID finns på **sidan Juridisk** information. Du hittar den även i **identitetsprofilen**.
 
-## <a name="account-settings---partners-resellers"></a>Konto inställningar – partner, åter försäljare
+## <a name="account-settings---partners-resellers"></a>Kontoinställningar – partner, återförsäljare
 
-När du väljer ikonen **Inställningar** och öppnar menyn **konto inställningar** , är standardvyn, om ditt företag är en del av Cloud Solution Provider-programmet, är **juridisk information** som visar två flikar, **partner** och **åter försäljare**. Varje flik innehåller aspekter av ditt företag.
+När du  väljer ikonen Inställningar  och öppnar menyn Kontoinställningar är standardvyn, om ditt företag är en del av Molnlösningsleverantör-programmet, juridisk **information** som visar två flikar, **Partner** och **Återförsäljare.** Varje flik innehåller aspekter av din verksamhet.
 
-:::image type="content" source="images/accountsettings/reseller.png" alt-text="Menyn visar flikar för partner och åter försäljare":::
+:::image type="content" source="images/accountsettings/reseller.png" alt-text="Menyn visar flikar för partner och återförsäljare":::
 
-Fliken partner innehåller all juridisk information, till exempel registrerat juridiskt namn och adress för ditt företag, samt primär kontakt och affärs platser. Fliken åter försäljare för partner som utför CSP-verksamhet innehåller **kund support profilen**.
+Fliken Partner innehåller all juridisk företagsinformation, till exempel registrerat juridiskt namn och adress för ditt företag, samt primär kontakt och företagsplatser. Fliken Reseller (Återförsäljare) för partner som utför CSP-verksamhet **innehåller profilen Kundsupport**.
 
-Om ditt företag inte deltar i CSP, kommer standardvyn endast att visa fliken **partner** , som innehåller **kund support profilen**.
+Om ditt företag inte deltar i CSP visas standardvyn endast fliken **Partner,** som innehåller **profilen Kundsupport.**
 
-### <a name="when-you-are-in-more-than-one-account"></a>När du har mer än ett konto
+### <a name="when-you-are-in-more-than-one-account"></a>När du är i mer än ett konto
 
-Du kan vara en del av mer än ett konto. Du kan kontrol lera om du är en del av flera konton genom att Visa "konto väljaren" i den vänstra navigerings menyn.
+Du kan ingå i mer än ett konto. Du kan kontrollera om du är en del av flera konton genom att använda "kontoväljaren" i den vänstra navigeringsmenyn.
 
-:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Identifiera konto väljaren":::
+:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Identifiera kontoväljaren":::
 
-Om du inte ser konto väljaren är du bara en del av ett konto. 
+Om du inte ser kontoväljaren ingår du bara i ett konto. 
 
-När du väljer den här väljaren visas alla konton som du är en del av som en lista. Du kan sedan välja vilken som helst av dem och växla till det kontot. Allt efter det som visas i kontexten för det kontot.  
+När du väljer den här väljaren visas alla konton som du ingår i som en lista. Du kan sedan välja någon av dem och växla till det kontot. Allt efter det visas i kontexten för det kontot.  
 
-I exemplet nedan är den inloggade användaren del av de tre markerade kontona. Användaren kan växla mellan dem genom att klicka på ett konto.
+I exemplet nedan är den inloggade användaren en del av de tre markerade kontona. Användaren kan växla mellan dem genom att klicka på ett konto.
 
 :::image type="content" source="images/accountsettings/picker-two.png" alt-text="De konton som du ingår i":::
 
-## <a name="organization-profile"></a>Organisations profil
+## <a name="organization-profile"></a>Organisationsprofil
 
-Använd dessa sidor för att hantera djupgående områden i ditt företag, inklusive juridisk företags profil, partner profil och klient organisationer. Hantera varje enskilt områden separat. De beskrivs nedan. 
+Använd dessa sidor för att hantera djupgående delar av din verksamhet, inklusive den juridiska företagsprofilen, partnerprofilen och klienterna. Hantera varje område separat. De beskrivs nedan. 
 
-:::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Meny för juridisk information.":::
+:::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Menyn Juridisk information.":::
 
 ### <a name="legal-info"></a>Juridisk information
 
-När du först ansluter till Partner Center går företaget igenom en verifierings process med Microsoft. Du kan spåra status för verifieringen på sidan **juridisk information** . Den visar den primära kontakten (som Microsoft kommer att kontakta om partner frågor) och den primära juridiska kontakten (den person som hanterar din juridiska information och status). Alla företagets företags platser visas och du kan lägga till dem här. 
+När du först går med i Partnercenter går företaget igenom en verifieringsprocess med Microsoft. Du kan spåra statusen för verifieringen på **sidan Juridisk** information. Den visar den primära kontakten (vem Microsoft ska kontakta om partnerfrågor) och den primära juridiska kontakten (den person som hanterar din juridiska information och status). Alla företagets företagsplatser visas och kan läggas till här. 
 
-### <a name="provide-your-companys-legal-business-details"></a>Ange företagets juridiska företags information
+### <a name="provide-your-companys-legal-business-details"></a>Ange företagets juridiska information
 
-Du kan antingen söka efter företagets profil eller ange företags information manuellt. Om ditt företag är registrerat med [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)använder du duns-ID: t för att söka efter företagets information. Om du vill ange företagets information själv väljer du **manuell**.
+Du kan antingen leta upp din företagsprofil eller ange företagsinformation manuellt. Om ditt företag är registrerat med [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)använder du DUNS-ID:t för att leta upp din företagsinformation. Om du vill ange företagsinformation själv väljer du **Manuell.**
 
-Om ditt företag finns i **Armenien**, **Ungern**, **Kirgizistan**, **Moldavien**, **Uzbekistan** eller **Ryssland** och du anger din adress manuellt, kommer vi att validera din adress åt dig. Om den som du anger skiljer sig från den validerade, rekommenderar vi att du använder den verifierade adressen. Verifiering säkerställer att adressen är både korrekt och kan skickas till.
+Om ditt företag finns i  **Det** begynnande, begynnande, **kyrgyzstan,** Underegien,  **Anten** eller Ryssland, och du anger din adress manuellt, kommer vi att verifiera din adress åt dig.  Om den som du anger skiljer sig från den verifierade, föreslår vi att du använder den verifierade adressen. Verifieringen säkerställer att adressen är både korrekt och kan skickas till.
 
-### <a name="primary-contact-email"></a>E-postadress till primär kontakt
+### <a name="primary-contact-email"></a>E-postadress för primär kontakt
 
-Den primära kontaktens e-postadress är det vi ska använda för att meddela dig om verifiering av ditt konto. Det är viktigt att e-postmeddelandet som du anger för den primära kontakten är en som hanteras och bevakas regelbundet.  
+Den primära kontaktens e-postadress är det vi använder för att meddela dig om verifieringen av ditt konto. Det är viktigt att e-postmeddelandet som du anger för den primära kontakten regelbundet hanteras och övervakas.  
 
-Läs mer om [verifiering och din konto information](verification-responses.md).
+Läs mer om [Verifiering och din kontoinformation.](verification-responses.md)
 
-### <a name="tenants-profile"></a>Klient organisations profil
+### <a name="tenants-profile"></a>Klientorganisationsprofil
 
-Den här sidan innehåller all information om dina Azure AD-klienter, både kommersiella och utvecklare. Den här profilen är den globala administratören som kan associera nya klienter till det globala partner kontot.
+Den här sidan innehåller all information om dina Azure AD-klienter, både kommersiella och utvecklare. I den här profilen kan den globala administratören associera nya klienter med partnerns globala konto.
 
 ### <a name="identifiers"></a>Identifierare
 
-Den här sidan innehåller Partner Center identiteter för ditt företag: MPN-ID, Publisher-ID, Windows Publisher ID med mera.  Varje område kan expanderas och redige ras så att till exempel den primära kontakten för din publicerings verksamhet är lätt att hitta.
+Den här sidan innehåller Partnercenter-identiteter för ditt företag: MPN-ID, utgivar-ID, Windows utgivar-ID med mera.  Varje område kan utökas och redigeras så att till exempel den primära kontakten för din publiceringsverksamhet är lätt att hitta.
 
-### <a name="company-profile"></a>Företags profil
+### <a name="company-profile"></a>Företagsprofil
 
-På den här sidan identifieras den typ av partnerskap som du har med Microsoft, till exempel oberoende program varu leverantör eller CSP-programpartner. Det visar antalet kunder som du arbetar med, årlig intäkt och företagets aktuella storlek. Expandera företags information på sidan **företags information** för att berätta för Microsoft vilken typ av arbete du vill göra med Microsoft, t. ex. skapa program, sälja Microsoft och tredjepartsprogram eller vara en System Integrator. Du kan också definiera var du för närvarande gör affärer och de lokala där du vill utöka verksamheten i framtiden.
+Den här sidan visar vilken typ av samarbete du har med Microsoft, till exempel oberoende programvaruleverantör eller CSP-programpartner. Den visar antalet kunder som du arbetar med, årliga intäkter och företagets aktuella storlek. Expandera företagsinformation  på sidan Företagsinformation för att berätta för Microsoft vilken typ av arbete du vill göra med Microsoft, till exempel skapa program, sälja programvara från Microsoft och tredje part eller vara systemintegratör. Du kan också definiera var du för närvarande gör affärer och de språk där du vill expandera din verksamhet i framtiden.
 
-### <a name="account-merge-profile"></a>Konto sammanslagnings profil
+### <a name="account-merge-profile"></a>Kontosammanslagningsprofil
 
-När du bjuder in ett företag som har ett aktivt konto i Partner Center att slå samman sitt konto med ditt, hanteras informationen på sidan **koppla konto** . Leta upp MPN-ID: t för företaget som du vill bjuda in till att koppla ihop med dina, Visa aktuella fusioner och skicka inbjudningar till företag. Acceptera eller avvisa en inbjudan att slå samman ditt företags konto till ett annat företags konto här. Mer information finns i [koppla ditt partner konto till ett annat partner konto](merge-accounts.md).
+När du bjuder in ett företag som har ett aktivt konto i Partnercenter för att slå samman sitt konto med ditt, hanteras den informationen på **sidan Kontosammanslagning.** Leta upp MPN-ID:t för det företag som du vill bjuda in att sammanfoga med ditt företag, visa aktuella sammanslagningar och skicka inbjudningar till företag. Godkänn eller avvisa en inbjudan att slå samman ditt företagskonto med ett annat företags konto här. Mer information finns i Sammanfoga [ditt partnerkonto med ett annat partnerkonto.](merge-accounts.md)
 
 ## <a name="payout-and-tax"></a>Utbetalning och skatt
 
-Den här sidan innehåller information om utbetalnings-och skatte information, inklusive **faktura till** information, **inköps order nummer**, skatte-ID för ditt företag, moms-ID-nummer om du har en och den valuta som du använder.
+Den här sidan innehåller din  utbetalnings- och skatteinformation, inklusive fakturainformation, IO-nummer, skatte-ID-information för ditt företag, momsregistreringsnummer om du har ett och den valuta som du använder. 
 
 ## <a name="user-management"></a>Användarhantering
 
-Vad du arbetar med i Partner Center och vilka områden som du kan uppdatera eller se beror på din roll och de behörigheter som är kopplade till den rollen. Om du till exempel inte är en incitaments administratör kan du inte ändra något på sidan incitament, men du kanske kan visa data. Läs mer om [roller och behörigheter](permissions-overview.md)
+Vad du arbetar med i Partnercenter och de områden som du kan uppdatera eller se beror på din roll och de behörigheter som är kopplade till den rollen. Om du till exempel inte är incitamentsadministratör kan du inte ändra något på incitamentsidorna, även om du kanske kan visa data. Läs mer om [roller och behörigheter](permissions-overview.md)
 
-### <a name="update-preferred-email"></a>Uppdatera prioriterad e-post
+### <a name="update-preferred-email"></a>Uppdatera önskad e-post
 
-Så här uppdaterar du önskat e-postmeddelande för att ta emot Partner Center-meddelanden:
+Så här uppdaterar du din önskade e-postadress för att ta emot Partner Center-meddelanden:
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard).
-1. Gå till [**Inställningar för engagemang**](https://partner.microsoft.com/dashboard/engagement/preference), Välj länken **ändra** , uppdatera e-postadressen och välj **Spara**.
+1. Gå till [**Engagement-inställningar,**](https://partner.microsoft.com/dashboard/engagement/preference)välj **länken** Ändra, uppdatera e-postadressen och välj **Spara.**
 
-### <a name="find-your-user-role"></a>Hitta din användar roll
+### <a name="find-your-user-role"></a>Hitta din användarroll
 
-1. Gå till **Inställningar** och välj **min profil**.
+1. Gå till **Inställningar** och välj **Min profil**.
 
-1. På sidan **information** visas din personliga information som den gäller för ditt arbete och din utbildning, dina tentor och certifierings data.
+1. På **sidan Information** ser du din personliga information om ditt arbete och dina utbildnings-, prov- och certifieringsdata.
 
-1. Välj fliken **roller och behörigheter** för att se alla roller som du har tilldelats och de behörigheter som dessa roller tillhandahåller.
+1. Välj fliken **Roller och behörigheter** för att se alla roller som du har tilldelats och de behörigheter som rollerna ger.
 
-## <a name="programs-in-which-you-are-enrolled"></a>Program som du har registrerat i
+## <a name="programs-in-which-you-are-enrolled"></a>Program som du har registrerats i
 
-Det arbete som du hanterar ditt partner Center-konto relaterar till de program som du har registrerat i och de användar roller och behörigheter som du har tilldelats i Partner Center.
+Det arbete du gör för att hantera ditt Partnercenter-konto relaterar till de specifika program som du är registrerad i och de användarroller och behörigheter som du har tilldelats i Partnercenter.
 
-Se vilka program som du har åtkomst till:
+Så här ser du vilka program du har åtkomst till:
 
-1. Logga in på [instrument panelen](https://partner.microsoft.com/dashboard)för partner Center.
+1. Logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard)
 
-2. Den vänstra navigerings menyn visar de program som du har registrerat i och kommer att visa tillgängliga alternativ för varje program.
+2. Den vänstra navigeringsmenyn återspeglar de program som du är registrerad i och visar tillgängliga alternativ för varje program.
 
-Här är ett exempel. Anta att en användare har åtkomst till tre program på Partner Center-instrumentpanelen: **MPN** -programmet, programmet för **hänvisning** och programmet för **kommersiella marknads platser** . När de loggar in på Partner Center-instrumentpanelen visas dessa tre program till vänster på skärmen.
+Här är ett exempel. Anta att en användare har åtkomst till tre program på instrumentpanelen i Partnercenter: **MPN-programmet,** programmet **Referenser** och **Programmet Commercial Marketplace.** När de loggar in på instrumentpanelen i Partnercenter visas dessa tre program till vänster på skärmen.
 
-:::image type="content" source="images/accountsettings/programs-enrolled-left-nav.png" alt-text="Program registrerade-menyn.":::
+:::image type="content" source="images/accountsettings/programs-enrolled-left-nav.png" alt-text="Menyn Program som registrerats.":::
 
-### <a name="enrolling-in-programs"></a>Registrera i program
+### <a name="enrolling-in-programs"></a>Registrering i program
 
-Det finns många tillgängliga Partner Center-program. Varje program har olika krav som företaget behöver uppfylla innan det kan registreras i det programmet.
+Det finns många Partner Center-program. Varje program har olika krav som företaget måste uppfylla innan det kan registreras i programmet.
 
-Information om hur du registrerar i vissa partner Center-program finns i följande ofullständiga lista:
+Mer information om registrering i vissa Partner Center-program finns i följande ofullständiga lista:
 
-- [Program för kommersiella marknads platser](/azure/marketplace/partner-center-portal/create-account)
-- [Microsoft Partner Network medlemskaps förmåner](mpn-overview.md)
+- [Commercial Marketplace-program](/azure/marketplace/partner-center-portal/create-account)
+- [Microsoft Partner Network medlemsförmåner](mpn-overview.md)
 - [CSP-program](./enrolling-in-the-csp-program.md)
 - [Office Store](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
-Mer information om hur du registrerar i Partner Center-program finns även i [partner nätverks resurser](https://partner.microsoft.com/).
+Mer information om registrering i Partner Center-program finns i även [Partnernätverksresurser.](https://partner.microsoft.com/)
 
 ## <a name="next-steps"></a>Nästa steg
 
 - [Uppdatera din partnerprofil](update-your-partner-profile.md)
-- [Skapa användar konton och ange behörigheter](create-user-accounts-and-set-permissions.md)
+- [Skapa användarkonton och ange behörigheter](create-user-accounts-and-set-permissions.md)
 - [Tilldela användarroller och -behörigheter](permissions-overview.md)
-- [Hantera ditt MPN-konto: platser](manage-locations.md)
+- [Hantera ditt MPN-konto: Platser](manage-locations.md)
 - [Återställa ett användarlösenord](reset-a-user-password.md)
-- [API: Hämta juridisk företags profil för partner](https://docs.microsoft.com/partner-center/develop/get-legal-business-profile.md)
-- [Identifiera erbjudanden och priser i Partner Center handels Marketplace](csp-commercial-marketplace-discover.md)
+- [API: Hämta partnerns juridiska affärsprofil](/partner-center/develop/get-legal-business-profile)
+- [Upptäck erbjudanden och priser på den kommersiella marknadsplatsen i Partnercenter](csp-commercial-marketplace-discover.md)

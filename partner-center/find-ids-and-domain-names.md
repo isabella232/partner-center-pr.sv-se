@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 17b0100bf5e45e931a765a73fb98afddf6dba656
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 643b1eeb96a47ee4c438f733efe3be22234d02ff
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172259"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740292"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Hitta viktiga ID:er för en användare
 
@@ -32,7 +32,7 @@ Den här artikeln beskriver hur du använder [Azure Portal](https://portal.azure
 
 ## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a>Hitta Microsoft Azure AD klientorganisations-ID och primärt domännamn
 
-Följ dessa steg för att hitta Azure AD-klientorganisations-ID:t eller det primära domännamnet i Azure Portal. (Om du vill hitta ett klient-ID programmässigt kan du se [Hitta klient-ID med PowerShell eller CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant.md#find-tenant-id-with-powershell).)
+Följ dessa steg för att hitta Azure AD-klientorganisations-ID:t eller det primära domännamnet i Azure Portal. (Om du vill hitta ett klientorganisations-ID programmässigt kan du se [Hitta klient-ID med PowerShell eller CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant#find-tenant-id-with-powershell).)
 
 > [!NOTE]
 > Klientorganisations-ID:t kan kallas olika namn i olika program eller resurser. Klientorganisations-ID:t kan till exempel kallas katalog-ID, Azure Active Directory-klientorganisation (Azure AD), Microsoft-ID eller för vissa rapporter, även *tenantguid*.
@@ -43,9 +43,9 @@ Följ dessa steg för att hitta Azure AD-klientorganisations-ID:t eller det prim
 
    :::image type="content" source="images/id/1-find-id-azure-portal-home-screen.png" alt-text="Visar Azure Portal väljer Azure Active Directory på menyn.":::
 
-3. En Azure Active Directory **översiktssida** visas. Om du vill hitta Azure AD-klient-ID:t eller det primära domännamnet letar du upp fältet **Klientorganisations-ID** och **fältet Primär** domän. Dessa fält visas i avsnittet Klientinformation.
+3. En Azure Active Directory **översiktssida** visas. Om du vill hitta Azure AD-klientorganisations-ID:t eller det primära domännamnet letar du upp fältet **Klientorganisations-ID** och **fältet Primär** domän. Dessa fält visas i avsnittet Klientinformation.
 
-   :::image type="content" source="images/id/2-find-id-azure-portal-azure-ad-overview-tenant-id-partial-screen.png" alt-text="Visar översiktssidan med två markerade fält, klientorganisations-ID och primärt domännamn.":::
+   :::image type="content" source="images/id/2-find-id-azure-portal-azure-ad-overview-tenant-id-partial-screen.png" alt-text="Visar sidan Översikt med två markerade fält, klientorganisations-ID och primärt domännamn.":::
 
 4. Du hittar klientorganisations-ID:t i Azure Portal på några andra sätt. Välj **Azure Active Directory** på menyn. Leta sedan upp **avsnittet** Hantera på menyn och välj **Egenskaper.**
 
@@ -65,13 +65,13 @@ Att bara hitta domännamnet och klientorganisations-ID:t kanske inte alltid räc
 
       :::image type="content" source="images/id/4-find-id-azure-portal-aad-manage-users-option.png" alt-text="Visar Azure Active Directory meny med markerat alternativ Användare.":::
 
-4. På sidan Användare skriver du in användarens namn i sökrutan.
+4. På sidan Användare skriver du användarens namn i sökrutan.
 
       :::image type="content" source="images/id/5-find-id-azure-portal-aad-all-users-search.png" alt-text="Visar sidan Användare med sökruta för att söka efter en viss användare.":::
 
 5. Välj användarens namn där det visas i listan.  
 
-      :::image type="content" source="images/id/6-find-id-azure-portal-select-user-name-partial.png" alt-text="Visar sidan Användare som visar en rad för den genomsökta användaren.":::
+      :::image type="content" source="images/id/6-find-id-azure-portal-select-user-name-partial.png" alt-text="Visar sidan Användare som visar en rad för den sökte användaren.":::
 
 6. Leta upp avsnittet Identitet på användarens profilsida. Fältet Objekt-ID visas här med användarens unika objekt-ID.
 
