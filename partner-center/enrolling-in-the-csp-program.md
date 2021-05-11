@@ -1,7 +1,7 @@
 ---
 title: Gå med i Cloud Solution Provider-programmet
 ms.topic: how-to
-ms.date: 04/19/2021
+ms.date: 05/10/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lär dig hur du registrerar dig i den Molnlösningsleverantör-programförsäljningsmodell (CSP) som passar bäst för din verksamhet, till exempel indirekt återförsäljare eller direktfaktureringspartner.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9307f57c0d356dbbce16de2f1566b4491867c361
-ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
+ms.openlocfilehash: 5be78c55a10e6db1ff0ec057b2a6a06e4373f7a7
+ms.sourcegitcommit: a78e9934dd06a6f14ef00e621a82685e2a80dc83
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "108213388"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109712489"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Gå med i Cloud Solution Provider-programmet
 
@@ -24,7 +24,7 @@ ms.locfileid: "108213388"
 
 ## <a name="get-started"></a>Kom igång
 
-Den snabbt växande efterfrågan på molnbaserade lösningar och tjänster ger många möjligheter för Microsoft-partner av alla storlekar att skapa lönsamma molnlösningsföretag. Partner som är redo att komma ut på marknaden, men som inte vill behöva hantera flera leverantörer, eller som kanske inte har en infrastruktur för hantering av kundrelationer från början till slut, kan registrera sig i Microsofts Molnlösningsleverantör-program (CSP) som indirekta återförsäljare.
+Den snabbt växande efterfrågan på molnbaserade lösningar och tjänster ger många möjligheter för Microsoft-partner av alla storlekar att skapa lönsamma företag som erbjuder molnlösningar. Partner som är redo att komma ut på marknaden, men som inte vill behöva hantera flera leverantörer, eller som kanske inte har en infrastruktur för hantering av kundrelationer från början till slut, kan registrera sig i Microsofts Molnlösningsleverantör-program (CSP) som indirekta återförsäljare.
 
 Om du vill registrera dig Molnlösningsleverantör programmet behöver du först ett MPN-ID. Har du inte en ännu? Gå [med här.](https://partner.microsoft.com/)
 
@@ -40,11 +40,11 @@ Det kan ta flera dagar att granska och verifiera den information som du har ange
 > [!IMPORTANT]  
 > En partner i CSP-programmet kan för närvarande inte sälja onlinetjänster till en annan partner i CSP-programmet. Den här begränsningen gäller endast för den klientorganisation som används för att utföra CSP-transaktioner. CSP-partner som använder en icke-CSP-klient för företagsanvändning kan köpa onlinetjänster en annan CSP-partner. Microsoft granskar kontinuerligt principer och funktioner i alla program. Alla nyheter om funktions- eller principändringar kommer att meddelas via de vanliga kommunikationskanalerna, inklusive [Partner Center-meddelanden.](announcements/index.md)
 
-## <a name="enroll-as-an-indirect-reseller"></a>Registrera dig som indirekt återförsäljare
+## <a name="enroll-as-an-indirect-reseller"></a>Registrera dig som en indirekt återförsäljare
 
 Om du registrerar dig i CSP-programmet som en indirekt återförsäljare kommer du inte att köpa produkter direkt från eller faktureras direkt av Microsoft. I stället arbetar du med indirekta leverantörer (även kallade distributörer) som gör direkta kontakt med Microsoft.
 
-Genom att samarbeta med en indirekt leverantör behöver du inte ha infrastrukturen på plats för att gå till marknaden eller köpa direkt från Microsoft, utan kan i stället samarbeta med en erfaren teknikleverantör för att hjälpa dig att nå framgång. I modellen med leverantörer och återförsäljare köper leverantören molnlösningar och -tjänster från Microsoft och förlitar sig på att du distribuerar och serar produkterna.
+Att samarbeta med en indirekt leverantör innebär att du inte behöver ha infrastrukturen på plats för att gå till marknaden eller köpa direkt från Microsoft, utan i stället kan samarbeta med en erfaren teknikleverantör för att säkerställa att du lyckas. I modellen med leverantörer och återförsäljare köper leverantören molnlösningar och -tjänster från Microsoft och förlitar sig på att du distribuerar och serar produkterna.
 
 Olika indirekta leverantörer erbjuder olika support och tjänster, så du bör utvärdera leverantörerna i ditt område för att avgöra vilka som bäst uppfyller dina behov. I allmänhet kommer de flesta leverantörer att:
 
@@ -69,14 +69,14 @@ Som partner för direktfakturering äger du relationen från slutet till slut me
 |**MPN-ID**   |Ett aktivt medlemskap i Microsoft Partner Network och MPN-ID för den plats som du vill sälja i.    |
 |**Godkännande**   |Behörighet att godkänna och signera juridiska avtal för din organisations räkning.|
 |**Support**   |Möjligheten att tillhandahålla den första nivån av molnproduktsupport till dina kunder. <br>En Microsoft-supportplan, antingen Avancerad support för partner (ASfP) eller Premier Support for Partners (PSfP), beroende på dina behov. [Jämför supportplaner.](https://partner.microsoft.com/support/partnersupport)<br> VIKTIGT! Du måste klara en kreditkontroll innan du köper en supportplan. Vi skickar ett e-postmeddelande till dig när du har godkänt kreditkontrollen. |
-|**Intäktskrav**|Måste uppfylla minst 300 000 USD Molnlösningsleverantör programintäkter under de senaste 12 månaderna som en indirekt återförsäljare. Partner kan granska sina avslutande 12 månaders intäkter i Partnercenter.<br/>Den försäljning som utgör dina USD300 000 efterföljande intäkter på 12 månader kan granskas och verifieras av Microsoft och du kan bli ombedd att ange ytterligare information. Intäktskravet USD 300 000 beräknas baserat på molnintäkter och exkluderar permanent programvara i CSP.|
+|**Intäktskrav**|Måste uppfylla minst 300 000 USD Molnlösningsleverantör programintäkter under de senaste 12 månaderna som en indirekt återförsäljare. Partner kan granska sina avslutande 12 månaders intäkter i Partnercenter.<br/>Den försäljning som utgör dina USD300 000 efterföljande 12-månadersintäkter kan granskas och verifieras av Microsoft och du kan bli ombedd att ange ytterligare information. Intäktskravet USD 300 000 beräknas baserat på molnintäkter och exkluderar permanent programvara i CSP.|
 |**Kundreskontra** |Organisationsinfrastrukturen på plats för att hantera kundfakturering och etablering.|
 |**Rekommendation**|             |
 |**Hanterad tjänst**   |Minst en hanterad tjänst, EN IP-tjänst eller ett kundlösningsprogram. Läs mer om att lägga till [hanterade tjänster.](https://partner.microsoft.com/business-opportunities/managed-services-provider)|
 
 ### <a name="verify-direct-bill-eligibility"></a>Kontrollera direktfaktureringsberättigande
 
-När du har kontrollerat att du uppfyller minimikraven för att registrera dig som partner för direktfakturering kan du gå vidare till [registreringsformuläret](https://partner.microsoft.com/pcv/register/joinnow/enrollmentwelcome/Reseller/migrate?cloudInstance=Global).
+När du har kontrollerat att du uppfyller minimikraven för att registrera dig som partner för direktfakturering kan du gå vidare till [registreringsformuläret](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR39X9dQFZ3FMghsMA7GOTNJUQVRPMk9KUVJZRDA1T1pSTkRSMzIzRUlOWSQlQCN0PWcu).
 
 När vi har kontrollerat att ditt företag uppfyller behörighetskraven för att registrera sig som en partner för direktfakturering och du har slutfört registreringsprogrammet granskar och verifierar vi den affärsinformation som du angav i registreringsprocessen. Som en del av den här granskningen kontrollerar vi företagets kredit. Vi kommer att meddela dig via e-post när ditt företag har passerat kreditkontrollen.
 >[!IMPORTANT]
