@@ -1,79 +1,76 @@
 ---
-title: Användning-baserade avstämnings filer
+title: Användningsbaserade avstämningsfiler
 ms.topic: article
 ms.date: 06/08/2020
-description: Lär dig mer om alla objekt i din användnings-baserade avstämnings fil i Partner Center. Innehåller några exempel.
+description: Lär dig mer om alla objekt i din användningsbaserade avstämningsfil i Partnercenter. Innehåller några exempel.
 author: sodeb
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 403b2704c600f21fc06576e679ff538a74ae5046
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: fc31915660b6a82954daee5fcc8fb2d5292e725c
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712978"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109795014"
 ---
-# <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Förstå användnings avstämnings filer och deras respektive fält i Partner Center
+# <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Förstå användningsbaserade avstämningsfiler och deras specifika fält i Partnercenter
 
-**Lämpliga roller**
+**Lämpliga roller:** Kontoadministratörsroller | Faktureringsadministratör
 
-- Kontoadministratör
-- Faktureringsadministratör
+Om du vill stämma av dina avgifter mot en kunds användning jämför du **ResellerID**,  **ResellerName** och **ResellerBillableAccount** från avstämningsfilen med kundnamnet och prenumerations-ID:t från Partnercenter. 
 
-För att stämma av dina avgifter mot kundens användning, jämför **ResellerID**, **ResellerName** och **ResellerBillableAccount** från avstämnings filen med **kund namnet** och **prenumerations-ID: t** från Partner Center.
-
-## <a name="fields-in-usage-based-reconciliation-files"></a>Fält i användnings avstämnings filer
+## <a name="fields-in-usage-based-reconciliation-files"></a>Fält i användningsbaserade avstämningsfiler
 
 I följande fält förklaras vilka tjänster som användes och priset.
 
-| Kolumn | Beskrivning | Exempel värde (n) |
+| Kolumn | Beskrivning | Exempelvärden |
 | ------ | ----------- | ------------ |
-| Partner | Partner-ID i GUID-format. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
+| PartnerId | Partneridentifierare i GUID-format. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
 | PartnerName | Partnerns namn. | *Contoso, Ltd.* |
-| PartnerBillableAccountId | Partner konto identifierare. | *1010578050* |
-| CustomerCompanyName | Kundens organisations namn, enligt rapporter i Partner Center. *Mycket viktigt för att stämma av fakturan med din system information.* | *Testa kund* |
-| MpnId | MPN identifierare för CSP-partnern. | *4390934* |
-| ResellerMpnId | MPN identifierare för åter försäljaren av posten för prenumerationen.  |
-| InvoiceNumber | Faktura nummer där den angivna transaktionen visas. | *D020001IVK* |
-| ChargeStartDate | Start datum för fakturerings perioden, förutom vid presentation av datum för tidigare avlastade latens användnings data (från föregående fakturerings cykel). Tiden är alltid början på dagen, 0:00. | *2/1/2019 0:00* |
-| ChargeEndDate | Slutdatum för fakturerings perioden, förutom vid presentation av datum för tidigare avlastade latens användnings data (från föregående fakturerings cykel). Tiden är alltid slutet på dagen, 23:59. | *2/28/2019 23:59* |
-| SubscriptionId | Unikt ID för en prenumeration i Microsofts fakturerings plattform. Kan vara användbart för att identifiera prenumerationen när du kontaktar supporten. Används inte för avstämning. *Detta är inte samma som **prenumerations-ID: t** i partner administratörs konsolen.* | *usCBMgAAAAAAAAIA* |
-| SubscriptionName | Smek namn för tjänst erbjudandet. | *Microsoft Azure* |
-| SubscriptionDescription | Tjänste utbudets verksamhets nivå. | *Microsoft Azure* |
-| OrderID | Unik identifierare för en beställning i Microsofts fakturerings plattform. Kan vara användbart för att identifiera prenumerationen när du kontaktar supporten. Används inte för avstämning. | *566890604832738111* |
-| ServiceName | Namnet på den aktuella Azure-tjänsten. | *VIRTUELLA DATORER* |
-| ServiceType | Den speciella typen av Azure-tjänst. | *Service Bus – individ eller Pack*, *SQL Azure Database – Business eller Web Edition* |
-| ResourceGuid | Specifika unika identifierare för alla tjänst data och pris strukturen. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
-| ResourceName | Namnet på Azure-resursen. | *Dataöverföring i (GB)* *utgående dataöverföring (GB)* |
-| Region | Den region som användningen gäller. Används främst för att tilldela priser till data överföringar, eftersom priserna varierar mellan olika regioner. | *Asien och Stillahavsområdet*, *Europa*, *Latinamerika*, *Nordamerika* |
-| Sku | Unikt Microsoft-ID för ett erbjudande. | *7UD – 00001* |
-| DetailLineItemId | En identifierare och kvantitet för att specificera olika taxa för en tjänst eller resurs under en viss fakturerings period. För priser på Azure-nivå, kan det finnas en avgift för upp till en viss kvantitet fakturerbara enheter, sedan en annan kostnad efter den kvantiteten. | *1* |
-| ConsumedQuantity | Mängden förbrukad tjänst (till exempel timmar eller GB) under rapporterings perioden. Inkluderar även eventuell ej fakturerad användning från föregående rapporterings perioder. | *11* |
-| IncludedQuantity | Enheter som ingår som en del av erbjudandet. Förekommer vanligt vis inte i CSP. | *0* |
-| OverageQuantity | Enheter som inte ingår som en del av erbjudandet. Dessa måste betalas av partnern. Lika med **ConsumedQuantity** minus **IncludedQuantity**. | *11* |
-| ListPrice | Erbjudande priset som påverkas av prenumerationens start datum. | *$0,0808* |
-| PretaxCharges | Lika med **ListPrist** multiplicerat med **OverageQuantity**, avrundat till närmaste cent. | *$0,085* |
-| TaxAmount | Debiteras skatte belopp. Baserat på marknadens skatte regler och särskilda omständigheter. | *$0,08* |
-| PostTaxTotal | Totalt efter skatt, när skatt är tillämpligt. | *$0,93* |
-| Valuta | Typ av valuta. Varje fakturerings enhet har bara en valuta. Kontrol lera att den matchar din första faktura och sedan efter eventuella större fakturerings plattforms uppdateringar. | *EUR* |
-| PretaxEffectiveRate | Pretax pris per enhet. Lika med **PretaxCharges** dividerat med **OverageQuantity**, avrundat till närmaste cent. | *$0,08* |
-| PostTaxEffectiveRate | Bokför skatt pris per enhet. Lika med **PostTaxTotal** dividerat med **OverageQuantity**, avrundat till närmaste cent. Eller, lika med **PretaxEffectiveRate** plus skatte satsen per enhets belopp, avrundat till närmaste procent. | *$0,08* |
-| ChargeType | [Typ av kostnad](recon-file-charge-types.md) eller justering. | Se [debiterings typer](recon-file-charge-types.md). |
-| CustomerId | Unikt Microsoft-ID för kunden i GUID-format. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
-| DomainName | Kundens domän namn. Det här fältet kan vara tomt fram till den andra fakturerings perioden. | *example.onmicrosoft.com* |
-| BillingCycleType | Tids fakturerings frekvens.| **Varje månad**  |
-| Enhet | Enhet för resurs **namnet**. | *GB* eller *timmar* |
-| CustomerBillableAccount | Unikt konto-ID på Microsofts fakturerings plattform. | *1280018095* |
-| UsageDate | Datum för tjänst distribution. | *2/1/2019 0:00* |
-| MeteredRegion | Identifierar platsen för ett Data Center i regionen (för tjänster där det här värdet är tillämpligt och ifyllt). | *Asien, östra*, *Asien, sydöstra*, *Nord Europa*, *Västeuropa,* *norra centrala USA*, *södra centrala USA* |
-| MeteredService | Identifierar den enskilda användningen av Azure-tjänsten när den inte identifieras särskilt i kolumnen **ServiceName** . Data överföringar rapporteras till exempel som *Microsoft Azure – alla tjänster* i kolumnen **ServiceName** . | *AccessControl*, *CDN*, *Compute*, *databas*, *Service Bus*, *Storage* |
-| MeteredServiceType | Under rubrik för **MeteredService** -fältet som ger ytterligare klargörande av användning av Azure-tjänster. | *5,25* |
-| Project | Kunddefinierat namn för tjänst instansen. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
-| ServiceInfo | Antalet Azure Service Bus anslutningar som etablerades och utnyttjas på en bestämd dag. | *1,000000 anslutningar/30 dagar* (om du hade en individuellt etablerad anslutning under en 30-dagars månad), *25 anslutningar/30 dagar – använt: 1,000000* (om du har ett 25-paket med Service Bus anslutningar etablerade och du använder 1 under den dagen) |
+| PartnerBillableAccountId | Partnerkontoidentifierare. | *1010578050* |
+| CustomerCompanyName | Kundens organisationsnamn enligt det som rapporteras i Partnercenter. *Mycket viktigt för att stämma av fakturan med systeminformationen.* | *Testa kund* |
+| MpnId | MPN-identifierare för CSP-partnern. | *4390934* |
+| ResellerMpnId | MPN-identifierare för återförsäljaren av posten för prenumerationen.  |
+| InvoiceNumber | Fakturanummer där den angivna transaktionen visas. | *D020001IVK* |
+| ChargeStartDate | Startdatum för faktureringsperioden, förutom när du presenterar datum för tidigare ej debiterade latent användningsdata (från föregående faktureringsperiod). Tiden är alltid början på dagen, 0:00. | *2/1/2019 0:00* |
+| ChargeEndDate | Slutdatum för faktureringsperioden, förutom när du presenterar datum för tidigare ej debiterade latent användningsdata (från föregående faktureringsperiod). Tiden är alltid dagens slut, 23:59. | *2/28/2019 23:59* |
+| SubscriptionId | Unik identifierare för en prenumeration på Microsofts faktureringsplattform. Kan vara användbart för att identifiera prenumerationen när du kontaktar supporten. Används inte för avstämning. *Detta är inte samma som **prenumerations-ID:t** i partneradministratörskonsolen.* | *usCBMgAAAAAAIA* |
+| SubscriptionName | Smeknamn för tjänsterbjudandet. | *Microsoft Azure* |
+| SubscriptionDescription | Verksamhetsraden för tjänsteerbjudandet. | *Microsoft Azure* |
+| OrderID | Unik identifierare för en beställning på Microsofts faktureringsplattform. Kan vara användbart för att identifiera prenumerationen när du kontaktar supporten. Används inte för avstämning. | *566890604832738111* |
+| ServiceName | Namnet på den azure-tjänst som är i fråga. | *VIRTUELLA DATORER* |
+| ServiceType | Den specifika typen av Azure-tjänst. | *Service Bus – individuell eller paket,* *SQL Azure-databas – Business eller Web Edition* |
+| ResourceGuid | Specifik unik identifierare för alla tjänstdata och prisstrukturen. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
+| ResourceName | Namnet på Azure-resursen. | *Dataöverföring i (GB)*, *dataöverföring ut (GB)* |
+| Region | Den region som användningen gäller för. Används främst för att tilldela priser till dataöverföringar, eftersom priserna varierar beroende på region. | *Asien och stillahavsområdet*, *Europa,* *Latinamerika*, *Nordamerika* |
+| Sku | Unik Microsoft-identifierare för ett erbjudande. | *7UD-00001* |
+| DetailLineItemId | En identifierare och kvantitet för att specificera olika priser för en tjänst eller resurs under en viss faktureringsperiod. För nivåindelade Azure-priser kan det finnas ett pris för upp till en viss kvantitet fakturerbara enheter och sedan ett annat pris efter den kvantiteten. | *1* |
+| ConsumedQuantity | Mängden tjänst som förbrukas (till exempel timmar eller GB) under rapporteringsperioden. Omfattar även eventuell ej fakturerad användning från tidigare rapporteringsperioder. | *11* |
+| IncludedQuantity | Enheter som ingår i erbjudandet. Finns vanligtvis inte i CSP. | *0* |
+| OverageQuantity | Enheter som inte ingår i erbjudandet. Dessa måste betalas av partnern. Lika med **ConsumedQuantity** minus **IncludedQuantity**. | *11* |
+| ListPrice | Erbjudandets pris gäller på prenumerationens startdatum. | *0,0808 USD* |
+| PretaxCharges | Lika med **ListPrist multiplicerat** med **OverageQuantity**, avrundat till närmaste cent. | *0,085 USD* |
+| TaxAmount | Debiterat skattebelopp. Baserat på din marknads skatteregler och specifika omständigheter. | *0,08 USD* |
+| PostTaxTotal | Totalsumma efter skatt, när skatt är tillämplig. | *0,93 USD* |
+| Valuta | Valutatyp. Varje faktureringsentitet har bara en valuta. Kontrollera att den matchar din första faktura och sedan efter eventuella större uppdateringar av faktureringsplattformen. | *EUR* |
+| PretaxEffectiveRate | Pris före skatt per enhet. Lika med **PretaxCharges dividerat** med **OverageQuantity**, avrundat till närmaste cent. | *0,08 USD* |
+| PostTaxEffectiveRate | Efter skatt per enhet. Lika med **PostTaxTotal dividerat** med **OverageQuantity**, avrundat till närmaste cent. Eller lika med **PretaxEffectiveRate** plus skattesatsen per enhetsbelopp, avrundat till närmaste cent. | *0,08 USD* |
+| ChargeType | Typ [av avgift eller](recon-file-charge-types.md) justering. | Se [avgiftstyper.](recon-file-charge-types.md) |
+| CustomerId | Unik Microsoft-identifierare för kunden i GUID-format. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
+| DomainName | Kundens domännamn. Det här fältet kan visas tomt fram till den andra faktureringsperioden. | *example.onmicrosoft.com* |
+| BillingCycleType | Tidsfaktureringsfrekvens.| **Varje månad**  |
+| Enhet | Resursnamnets **enhet.** | *GB* eller *TIMMAR* |
+| CustomerBillableAccount | Unikt konto-ID på Microsofts faktureringsplattform. | *1280018095* |
+| UsageDate | Datum för tjänstdistribution. | *2/1/2019 0:00* |
+| MeteredRegion | Identifierar platsen för ett datacenter i regionen (för tjänster där det här värdet är tillämpligt och ifylld). | *Asien, östra*, *Asien, sydöstra, Europa,* *norra,* *Europa, västra,* *USA, norra centrala,* *USA, södra centrala* |
+| MeteredService | Identifierar den enskilda Azure-tjänstanvändningen när den inte har identifierats specifikt i **kolumnen ServiceName.** Dataöverföringar rapporteras till exempel som *Microsoft Azure – Alla tjänster* i kolumnen **ServiceName.** | *AccessControl,* *CDN,* *Compute,* *Database,* *ServiceBus*, *Storage* |
+| MeteredServiceType | Jag vill **veta mer om fältet MeteredService** som ger ytterligare förtydligande av användning av Azure-tjänster. | *Externa* |
+| Project | Kunddefinierat namn för tjänstinstansen. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
+| ServiceInfo | Antalet anslutningar Azure Service Bus som etablerades och används en viss dag. | *1.000000 anslutningar/30* dagar (om du har en individuellt etablerad anslutning under en 30-dagars månad), *25 anslutningar/30 dagar – används: 1.000000* (om du hade ett 25-paket med Service Bus-anslutningar etablerade och du använde 1 under den dagen) |
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Förstå fälten i licensbaserade, licensierade filer för partner Center](license-based-recon-files.md)
+- [Förstå fälten i partnercenters licensbaserade avstämningsfiler](license-based-recon-files.md)

@@ -1,114 +1,111 @@
 ---
-title: Få krediter ATS för käll skatt
+title: Krediteras för källskatt
 ms.topic: article
 ms.date: 06/05/2020
-description: Ta emot kredit på ditt partner Center-konto för käll skatt. Informationen omfattar steg för att skicka en begäran om moms käll förfrågan.
+description: Få kredit på ditt Partnercenter-konto för källskatt. Informationen omfattar steg för att skicka en begäran om källskatt.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 064a5ea1e712ca66504536652543c0523fc73eae
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 63aea520279dc6d126253969cb3175a253b9b3c6
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755728"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109795031"
 ---
-# <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Ta emot kredit på ditt partner Center-konto för käll skatt
+# <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Få kredit på ditt Partnercenter-konto för källskatt
 
-**Lämpliga roller**
-
-- Kontoadministratör
-- Faktureringsadministratör
+**Lämpliga roller:** Kontoadministratörsroller | Faktureringsadministratör
 
 ## <a name="overview"></a>Översikt
 
-CSP-partner i vissa länder får faktura belopp som inkluderar skatter. Några av dessa partner betalar sin lokala skattemyndighet i stället för Microsoft. Om du betalar din lokala skattemyndighet måste du skicka en begäran om moms avdrag, inklusive ditt skatte certifikat för att rensa den skattepliktiga mängden från föregående fakturor. Dessa rensade belopp visas i den **sista betalnings** kolumnen på **fakturerings sidan** i Partner Center.
+CSP-partner i vissa länder får fakturabelopp som inkluderar skatter. Vissa av dessa partner betalar sin lokala skatteutfärdare i stället för Microsoft. Om du betalar din lokala skatteutfärdare måste du skicka en begäran om källskatt, inklusive ditt skattecertifikat, för att rensa det skattade beloppet från tidigare fakturor. Dessa rensade belopp visas i kolumnen **Senaste betalning** på sidan **Fakturering i** Partnercenter.
 
-Partner som används för att skicka begäran om käll skatter genom att skapa tjänst begär Anden (partner support biljetter) i Partner Center. Den här processen ändrades i januari 2020. Nu ska CSP-partner skicka begäran om käll skatter på **fakturerings sidan** i stället för att skapa support förfrågningar.
+Partner som används för att skicka begäranden om källskatt genom att skapa tjänstbegäranden (partnersupportärenden) i Partnercenter. Den här processen ändrades i januari 2020. Nu bör CSP-partner skicka begäranden om källskatt på sidan **Fakturering i stället** för att skapa supportbegäranden.
 
 > [!IMPORTANT]
-> Partner kan bara skicka käll skatte förfrågningar för **betalda** fakturor.
+> Partner kan endast skicka källskatteförfrågningar för **betalda** fakturor.
 
-## <a name="submit-a-tax-withholding-request"></a>Skicka en begäran om moms käll förfrågan
+## <a name="submit-a-tax-withholding-request"></a>Skicka en begäran om källskatt
 
-Följ dessa steg om du vill skicka en ny käll indrags deklaration:
+Följ dessa steg för att skicka en ny källskatt:
 
 1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
 
-2. Välj **fakturering** på menyn till vänster och gå till **fakturerings historiken**.
+2. I den vänstra menyn väljer du Fakturering **och** går till **Faktureringshistorik.**
 
-3. Klicka på **Skicka ny** bredvid fakturan som du vill skicka en rensning för. Den nya länken skickas till sidan **ny begäran om käll-och käll begäran** .
+3. Klicka **på Skicka ny** bredvid den faktura som du vill skicka ett tillstånd för. Länken Skicka ny tar dig till sidan **Ny begäran om källskatt.**
 
-   :::image type="content" source="images/wht1.png" alt-text="Skicka ny moms avdrag för en faktura":::
+   :::image type="content" source="images/wht1.png" alt-text="Skicka ny källskatt för en faktura":::
 
-4. Granska faktura informationen för att se till att du skickar in begäran om rätt faktura.
+4. Granska fakturainformationen för att se till att du skickar begäran om rätt faktura.
 
-   :::image type="content" source="images/wht2.png" alt-text="Fullständig information om moms avdrag för en faktura":::
+   :::image type="content" source="images/wht2.png" alt-text="Fullständig källskattsinformation för en faktura":::
 
-5. Ange "käll total" under **moms käll information**. "Käll totalen" är den mängd du förväntar dig att kreditera.
+5. Ange "Källsumma" under **Information om källskatt.** "Källsumman" är det belopp som du förväntar dig att krediteras.
 
-6. **Bifoga** ett skatte certifikat. Du måste inkludera en **digital kopia** av ditt **käll skatte certifikat** i din begäran om moms inskrivning. Du har fått det här certifikatet från din lokala skatte byrå när du betalar dina skatter till din lokala skattemyndighet. Fakturans skatte belopp i käll skatte certifikatet måste matcha det totala antalet i din begäran om käll skatt.
+6. **Bifoga** ett skattecertifikat. Du måste inkludera en **digital kopia** av **källskattecertifikatet** i begäran om källskatt. Du har fått det här certifikatet från ditt lokala skatteorgan när du betalar dina skatter till din lokala skatteutfärdare. Fakturaskattebeloppet i källskattecertifikatet måste matcha det totala beloppet i begäran om källskatt.
 
    > [!IMPORTANT]
-   > Antalet summor som partnern tillhandahåller måste matcha faktura rads objektet från det kopplade moms certifikatet. Bifogade skatte certifikat måste vara i något av följande fil format:. Endast PDF eller bild (. JPEG,. PNG och. GIF). Dessutom får filernas namn inte innehålla blank steg eller specialtecken. Fil storleken får inte överstiga 1 MB.
+   > Summan som partnern tillhandahåller ska matcha fakturaradsposten från det bifogade skattecertifikatet. Bifogade skattecertifikatfiler måste ha något av följande filformat: . Endast PDF eller Bild (. Jpeg. PNG och . GIF). Dessutom får namn på filer inte innehålla blanksteg eller specialtecken. Filstorlekar får inte överskrida 1 MB.
 
-7. **Skicka** begäran om moms käll förfrågan.
+7. **Skicka** begäran om källskatt.
 
-   När begäran har skickats hamnar begäran i godkännande processen där den kommer att godkännas för slut för ande eller skickas tillbaka till dig om det behövs ändringar. Visa förfrågan-ID och status för dina begär Anden och i **fakturerings historiken** där du skickade den nya begäran från.
+   När den har skickats går den vidare till godkännandeprocessen där den godkänns för slutförande eller skickas tillbaka till dig om det behövs korrigeringar. Visa begärande-ID och status för dina begäranden och i **faktureringshistoriken** som du skickade den nya begäran från.
 
-   Om din begäran skickas tillbaka till dig, kan du ändra käll beloppet och ersätta certifikatet om det är problem med det.
+   Om din begäran skickas tillbaka till dig kan du ändra källbeloppet och ersätta certifikatet om det är problem med det.
 
 ## <a name="update-request-and-resubmit"></a>Uppdatera begäran och skicka igen
 
-Gransknings teamet kan kräva att du gör korrigeringar och skickar en begäran igen innan den kan godkännas. De ändrar statusen till den **väntande partner åtgärden**. Korrigera och skicka begäran på nytt:
+Granskningsteamet kan kräva att du gör ändringar och skickar en begäran igen innan den kan godkännas. De ändrar statusen till **Väntande partneråtgärd**. Så här korrigerar du och skickar begäran igen:
 
 1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
 
-2. Välj **fakturering** på menyn till vänster.
+2. I den vänstra menyn väljer du **Fakturering**
 
-3. På **fakturerings** sidans **fakturerings historik**, Sök efter begäran om moms inbetalning. Begär Anden som kräver din uppmärksamhet kommer att ha statusen "väntande partner åtgärd".
+3. På sidan **Faktureringshistorik** **hittar du** begäran om källskatt. Begäranden som kräver din uppmärksamhet har statusen "Väntande partneråtgärd".
 
-4. Klicka på begäran om käll-ID för begäran och status som tar dig till sidan för begäran.
+4. Klicka på id och status för begäran om källskatt som tar dig till begärans sida.
 
-5. Välj **Uppdatera och skicka** om under **status**.
+5. Välj **Uppdatera och skicka igen** under **Status**.
 
-6. Granska de kommentarer som lämnats av granskarna som markerar vad som behöver ändras.
+6. Granska kommentarerna som granskarna lämnar och markera vad som behöver ändras.
 
-7. Gör korrigeringarna genom att antingen skicka om ett uppdaterat certifikat eller justera käll beloppen.
+7. Gör korrigeringarna genom att antingen skicka ett uppdaterat certifikat på nytt eller justera källbeloppen.
 
 8. **Skicka** begäran.
 
-Om du skickar begäran skickas den tillbaka till gransknings teamet där de antingen godkänner eller ber om fler ändringar.
+Om du skickar begäran skickas den tillbaka till granskningsteamet där de antingen godkänner eller ber om fler ändringar.
 
-### <a name="approved-requests"></a>Godkända begär Anden
+### <a name="approved-requests"></a>Godkända begäranden
 
-Godkända käll begär Anden för begäran kommer att utföras mot nästa faktura, vilket skriver av skulder-beloppet. Begär Anden som flaggats som **slutförda** ska tillämpas inom 10 arbets dagar. 
+Godkända begäranden om källskatt körs mot nästa faktura och skriver av det försummade beloppet. Begäranden som flaggas som **Slutförda** ska tillämpas inom 10 arbetsdagar. 
 
-Rensade belopp visas på sidan fakturerings **historik för fakturerings sida**. De belopp som är rensade visas i den **sista betalnings** kolumnen bredvid fakturan som begäran skickades till.
-
-   > [!IMPORTANT]
-   > Tidigare fakturor återskapas inte eller återutfärdas. Clearace-beloppet tillämpas helt enkelt på föregående månads betalningar.
-
-Bearbetning av moms käll begär Anden bör ta två dagar att slutföra förutsatt att skatte certifikat och belopp är korrekta. Om det krävs ändringar tar det längre tid på grund av de korrigeringar som måste göras och skickas igen.
-
-Om du har frågor om kredit förfrågnings processen för käll skatt skickar du en biljett till partner support. Du behöver ID: t för skatte käll förfrågan för att lösa frågor.
-
-## <a name="german-tax-withholding"></a>Tysk moms avdrag
-
-Partner som skickar tyska skattemyndighets begär Anden bör komma ihåg att skicka hård kopior av ditt käll skatte certifikat till följande adress:
-
-- ATTN: EOC Tax team Marianne Gannon
-- Microsoft EMEA drifts Center
-- En Microsoft-plats,
-- Södra County Business Park
-- Leopardstown, Dublin 18, Irland
-
-### <a name="questions-and-assistance-for-tax-withholding-requests"></a>Frågor och hjälp vid begäran om skatte avdrag
-
-Partner bör använda den nya processen som beskrivs ovan för att skicka nya begär Anden och inte längre använda support förfrågan för nya moms indrags begär Anden. Partner med ytterligare frågor om moms käll begär Anden kan [Skicka support förfrågningar](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed). Support förfrågningar är avsedda att hjälpa partners för befintliga begär Anden så att de måste ha sitt **begäran-ID** för att kunna skicka in en ny biljett. Om partners inte kan skicka en begäran med den nya processen, ska de ange ett värde (alla 1) i support förfrågnings formuläret. 
+Rensade belopp visas i avsnittet **Faktureringshistorik** på sidan Fakturering. De belopp som rensas visas i **kolumnen Senaste betalning** bredvid fakturan som begäran skickades mot.
 
    > [!IMPORTANT]
-   > Partners behöver inte kontakta supporten om deras status för begäran har **slutförts**. Den här statusen visas i **fakturerings historiken** bredvid fakturan för inlämningen. De **senaste betalnings** beloppen bredvid fakturan ska avspegla moms käll beloppet inom tio dagar efter det att begäran marker ATS som **slutförd**.
+   > Tidigare fakturor återskapas inte eller återskapas inte. Beloppsbeloppet tillämpas helt enkelt på de föregående månadernas betalningar.
+
+Bearbetningen av begäranden om källskatt bör ta två dagar att slutföra, förutsatt att skattecertifikatet och beloppet är korrekta. Om det krävs ändringar tar det längre tid på grund av de korrigeringar som måste göras och skickas på nytt.
+
+Om du har frågor om processen för begäran om källskattekredit skickar du en begäran till partnersupporten. Du behöver begärande-ID:t för källskatt för att lösa frågor.
+
+## <a name="german-tax-withholding"></a>Tyska källskatter
+
+Partner som skickar begäranden om tyska källskatter bör komma ihåg att skicka papperskopior av ditt källskattecertifikat till följande adress:
+
+- ATTN: EOC-skatteteamet För skatteteamet
+- Microsoft EMEA Operations Centre
+- One Microsoft Place,
+- South County Business Park
+- Harten, Dublin 18, Irland
+
+### <a name="questions-and-assistance-for-tax-withholding-requests"></a>Frågor och hjälp med begäranden om källskatt
+
+Partner bör använda den nya process som beskrivs ovan för att skicka nya begäranden och inte längre använda skapande av supportbegäran för nya begäranden om källskatt. Partner med ytterligare frågor om begäranden om källskatt kan skicka [supportbegäranden](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed). Supportbegäranden är avsedda att hjälpa partner för befintliga begäranden så att de måste ha sitt begärande-ID **för** att skicka en ny begäran. Om partner inte kan skicka en begäran med hjälp av den nya processen bör de ange ett visst antal (alla 1:ar) i formuläret för supportbegäran. 
+
+   > [!IMPORTANT]
+   > Partner behöver inte kontakta supporten om deras begärandestatus är **Slutförd.** Den här statusen visas **i faktureringshistoriken** bredvid fakturan för överföringen. **De senaste** betalningsbeloppen bredvid fakturan ska återspegla källskattebeloppet inom tio dagar efter att begäran har markerats som **Slutförd.**

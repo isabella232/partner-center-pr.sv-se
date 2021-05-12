@@ -1,124 +1,121 @@
 ---
-title: Använd dina avstämnings filer
+title: Använda dina avstämningsfiler
 ms.topic: article
 ms.date: 03/26/2021
-description: Lär dig mer om avstämnings filer i Partner Center och hur du tolkar de detaljerade vyerna för rad artikel med debiteringar för en fakturerings period.
+description: Lär dig mer om avstämningsfiler i Partnercenter och hur du tolkar detaljerade radobjektsvyer av avgifter för en viss faktureringsperiod.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aefd5258c778fd8a7b92bfe49f245bf818497fb8
-ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
+ms.openlocfilehash: 755881d0bd96b9d601346ebb6271bd524c31d0a3
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "105730099"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109794963"
 ---
-# <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Lär dig hur du läser rad objekt i dina avstämnings filer för partner Center
+# <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Lär dig hur du läser radobjekten i avstämningsfilerna i Partnercenter
 
-**Lämpliga roller**
+**Lämpliga roller:** Faktureringsadministratörsroller | Global administratör
 
-- Faktureringsadministratör
-- Global administratör
+Du kan ladda ned dina avstämningsfiler från Partnercenter för en detaljerad radobjektsvy för varje avgift i en faktureringsperiod. Information om radobjekt omfattar avgifter för varje kunds prenumerationer och detaljerade händelser (till exempel ett halvtids tillägg av licenser i en prenumeration).
 
-Du kan ladda ned dina avstämnings filer från Partner Center för en detaljerad, rad objekt visning av varje debitering i en fakturerings period. Information om rad objekt inkluderar avgifter för varje kunds prenumerationer och detaljerade händelser (till exempel ett omslags kort tillägg av licenser till en prenumeration).
+Information om hur du läser din **faktura finns** i [Läsa fakturan.](read-your-bill.md)
 
-Information om hur du läser fakturan finns i [läsa din](read-your-bill.md) **faktura**.
-
-## <a name="understand-reconciliation-file-fields"></a>Förstå fält för avstämnings fil
+## <a name="understand-reconciliation-file-fields"></a>Förstå avstämningsfilfält
 
 - [Fält för licensbaserad avstämningsfil](license-based-recon-files.md)
 - [Fält för användningsbaserad avstämningsfil](usage-based-recon-files.md)
 - [Fält i fil för dagligt beräknad användningsavstämning](daily-rated-usage-recon-files.md)
-- [Fil fält för CSP-avstämning för inköp vid ett tillfälle](modern-invoice-reconciliation-file.md)
+- [Fält för CSP-avstämningsfil vid köp en gång](modern-invoice-reconciliation-file.md)
 
-## <a name="understand-charge-types-in-reconciliation-files"></a>Förstå debiterings typer i avstämnings filer
+## <a name="understand-charge-types-in-reconciliation-files"></a>Förstå avgiftstyper i avstämningsfiler
 
-Information om vilka typer av kostnader som finns i avstämnings filer (kolumnen **ChargeType** ) finns i [fil avgifts typer för avstämning](recon-file-charge-types.md).
+Information om vilka typer av avgifter som finns i avstämningsfiler **(kolumnen ChargeType)** finns i [Avgiftstyper för avstämningsfiler.](recon-file-charge-types.md)
 
-## <a name="fix-formatting-issues"></a>Åtgärda problem med formatering
+## <a name="fix-formatting-issues"></a>Åtgärda formateringsproblem
 
-Ibland kan en avstämnings fil innehålla formateringsfel. Det här problemet kan till exempel inträffa om en-US locale inte används.
+Ibland kan en avstämningsfil innehålla formateringsproblem. Det här problemet kan till exempel inträffa om språken en-US inte används.
 
-Följ dessa steg för att åtgärda eventuella formateringsfel i dina avstämnings filer:
+Följ de här stegen för att åtgärda eventuella formateringsproblem i dina avstämningsfiler:
 
-1. Öppna avstämnings filen (i CSV-format) i Microsoft Excel.
-2. Markera den första kolumnen i filen.
-3. Öppna **guiden Omvandla text till kolumner**. Välj **data** i menyfliksområdet och välj sedan **text till kolumner**.
-4. Välj **avgränsad filtyp** i guiden. Välj **Nästa**.
-5. I fältet **avgränsare** väljer du **kommatecken**. (Om **fliken** redan har valts kan du lämna det här alternativet markerat.) Välj sedan **Nästa**.
-6. I fältet **kolumn data format** väljer du **datum: MDÅ**. Välj **Nästa**.
-7. I fältet **kolumn data format** väljer du **text** för alla belopps kolumner. Välj sedan **Slutför**.
+1. Öppna avstämningsfilen (i CSV-format) i Microsoft Excel.
+2. Välj den första kolumnen i filen.
+3. Öppna guiden **Konvertera text till kolumner.** I menyfliksområdet väljer du **Data** och sedan **Text till kolumner.**
+4. I guiden väljer du **Avgränsad filtyp.** Välj **Nästa**.
+5. I **fältet Avgränsare** väljer du **kommatecken**. (Om **Tabb** redan är markerat kan du lämna det här alternativet markerat.) Välj sedan **Nästa.**
+6. I fältet **Kolumndataformat** väljer du **Datum:MDY.** Välj **Nästa**.
+7. I fältet **Kolumndataformat** väljer du **Text för** alla mängdkolumner. Välj sedan **Slutför**.
 
-## <a name="download-reconciliation-files-programmatically"></a>Ladda ned filer för avstämning program mässigt
+## <a name="download-reconciliation-files-programmatically"></a>Ladda ned avstämningsfiler programmatiskt
 
-Avstämnings filer kan vara mycket stora och är ibland svåra att ladda ned. Information om hur du hämtar avstämnings filer program mässigt finns i [Hämta faktura rads objekt](/partner-center/develop/get-invoiceline-items).
+Avstämningsfiler kan vara mycket stora och ibland svåra att ladda ned. Information om hur du laddar ned avstämningsfiler programmatiskt [finns i Hämta fakturaradsobjekt.](/partner-center/develop/get-invoiceline-items)
 
-## <a name="if-your-file-exceeds-the-row-limit-in-excel"></a>Om filen överskrider rad gränsen i Excel
+## <a name="if-your-file-exceeds-the-row-limit-in-excel"></a>Om filen överskrider radgränsen i Excel
 
-Om du kan ladda ned en avstämnings fil men inte öppna den i Microsoft Excel, betyder det förmodligen att filen innehåller fler rader än vad Excel tillåter. I så fall kan du använda någon av stegen nedan för att öppna filen.
+Om du kan ladda ned en avstämningsfil men inte öppna den i Microsoft Excel, innebär det förmodligen att filen innehåller fler rader än Vad som tillåts i Excel. Om detta inträffar kan du använda någon av procedurerna nedan för att öppna filen.
 
-### <a name="open-a-recon-file-in-power-bi"></a>Öppna en rekognoseringar-fil i Power BI
+### <a name="open-a-recon-file-in-power-bi"></a>Öppna en rekognoseringsfil i Power BI
 
-1. Ladda ned avstämnings filen precis som vanligt.
+1. Ladda ned avstämningsfilen som vanligt.
 2. Ladda ned, installera och öppna en instans av Power BI.
-3. På fliken Power BI **Start** väljer du **Hämta data**.
-4. I listan med **vanliga data källor** väljer du **text/CSV**.
-5. Öppna din rekognoseringar-fil när du uppmanas till det.
+3. På Power BI **Start** väljer du **Hämta data.**
+4. I listan över **vanliga datakällor väljer** du **Text/CSV.**
+5. Öppna rekognoseringsfilen när du uppmanas till det.
 
-### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Öppna en rekognoseringar-fil i en pivottabell i Excel
+### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Öppna en rekognoseringsfil i en Excel-pivottabell
 
-1. Ladda ned avstämnings filen precis som vanligt.
+1. Ladda ned avstämningsfilen som vanligt.
 2. Öppna en ny fil i Microsoft Excel.
-3. På fliken **data** väljer du **Hämta data**, Välj **från fil** och välj sedan **text/CSV**.
-4. Öppna din rekognoseringar-fil när du uppmanas till det. Dina data kommer att visas.
-5. I list **Rute** menyn väljer **du Läs in till** och sedan **OK**.
-6. I dialog rutan **Importera data** väljer du **Pivot** -registerrapport för att öppna filen.
+3. På fliken **Data** väljer du **Hämta data,** väljer **Från fil** och sedan **Text/CSV.**
+4. Öppna rekognoseringsfilen när du uppmanas till det. Dina data visas.
+5. I **listrutan Läs** in väljer du **Läs in till** och sedan **OK.**
+6. I dialogrutan **Importera data** väljer du **Pivottabellrapport för** att öppna filen.
 
 ## <a name="negative-amount-displayed"></a>Negativt belopp visas
 
-Du kan se ett negativt belopp i avstämnings filen. Detta beror troligen på någon av följande saker:
+Du kan se ett negativt belopp i avstämningsfilen. Detta beror troligtvis på något av följande:
 
 - Du har nyligen avbrutit eller minskat antalet licenser
-- Du har fått kredit för antingen ett service licens avtal (SLA) eller för Azure-förbrukning
+- Du har fått kredit för antingen ett servicelicensavtal (SLA) eller för Azure-förbrukning
 
-Om du vill ha mer information om den här transaktionen granskar du ett attribut för debiterings typ i avstämnings filen.
+Om du vill få mer information om den här transaktionen granskar du dess attribut av avgiftstyp i avstämningsfilen.
 
 ## <a name="map-taxes-or-vat"></a>Mappa skatter eller moms
 
-Så här mappar du skatter eller mervärdes skatt (moms) till din faktura:
+Så här mappar du skatter eller moms till din faktura:
 
-- Summera **moms** kolumnen från den licensbaserade filen.
-- Summera kolumnen **TaxAmount** från den Usage-baserade filen.
+- Summera **kolumnen** Skatt från den licensbaserade filen.
+- Summera **kolumnen TaxAmount** från den användningsbaserade filen.
 
-## <a name="itemize-reconciliation-files-by-partner"></a>Specificera avstämnings filer efter partner
+## <a name="itemize-reconciliation-files-by-partner"></a>Specificera avstämningsfiler efter partner
 
-Partner i den **indirekta modellen** kan använda dessa ytterligare fält i både licensbaserade och användnings bara avstämnings filer för att specificera filerna efter åter försäljare.
+Partner i den **indirekta modellen** kan använda dessa ytterligare fält i både licensbaserade och användningsbaserade avstämningsfiler för att specificera filerna efter återförsäljare.
 
-| MPN-ID | Beskrivning |
+| MPN-ID | Description |
 | ------ | ----------- |
-| MPN-ID | Microsoft Partner Network-ID (MPN) för Cloud Solution Provider (CSP)-partner (direkt eller indirekt). |
-| [MPN-ID för åter försäljare](#reseller-mpn-id) | [MPN identifierare för åter försäljaren av posten för prenumerationen](#reseller-mpn-id). Det här fältet motsvarar det åter försäljar-ID som anges för den aktuella prenumerationen i Partner Center. Visas endast i avstämnings filer för partner i den indirekta modellen. |
+| MPN-ID | Mpn Microsoft Partner Network(Mpn) för CSP-partnern (direkt eller indirekt) Molnlösningsleverantör partner). |
+| [MPN-ID för återförsäljare](#reseller-mpn-id) | [MPN-identifieraren för återförsäljaren av posten för prenumerationen](#reseller-mpn-id). Det här fältet motsvarar det återförsäljar-ID som anges för den specifika prenumerationen i Partnercenter. Visas endast i avstämningsfiler för partner i den indirekta modellen. |
 
-### <a name="reseller-mpn-id"></a>MPN-ID för åter försäljare
+### <a name="reseller-mpn-id"></a>MPN-ID för återförsäljare
 
-Om en CSP-partner sålde prenumerationen direkt till kunden visas deras **MPN-ID** två gånger, som både **MPN-ID** och **åter försäljarens MPN-ID**.
+Om en CSP-partner sålde prenumerationen direkt till kunden visas deras **MPN-ID** två gånger, både som **MPN-ID** och **ÅTERFÖRSÄLJAREns MPN-ID.**
 
-Om en CSP-partner har en åter försäljare utan **MPN-ID** är det här värdet inställt på partnerns **MPN-ID** i stället.
+Om en CSP-partner har en återförsäljare utan **MPN-ID** anges det här värdet till partnerns **MPN-ID i** stället.
 
-Om CSP-partnern tar bort ett **MPN-ID för åter försäljaren** anges värdet *-1*.
+Om CSP-partnern tar bort **ett MPN-ID** för återförsäljare anges det här värdet till *-1.*
 
-Visa eller uppdatera **MPN-ID: t för åter försäljaren**:
+Så här visar eller uppdaterar du **MPN-ID:t för återförsäljare:**
 
 1. Logga in på Partner Center.
-2. I menyn Partner Center väljer du **kunder**.
-3. Välj kund i listan.
-4. I menyn kund väljer du **prenumerationer**.
+2. I menyn i Partnercenter väljer du **Kunder.**
+3. Välj kunden i listan.
+4. I kundmenyn väljer du **Prenumerationer.**
 5. Välj prenumerationen i listan.
-6. Välj **Uppdatera** för att ändra **åter försäljaren (MPN-ID)**.
+6. Välj **uppdatera** för att ändra **Reseller (MPN ID)**.
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Så här läser du rekognoseringar-filen för Bill &](read-your-bill.md) 
+- [Så här läser du fakturan & rekognoseringsfilen](read-your-bill.md) 
