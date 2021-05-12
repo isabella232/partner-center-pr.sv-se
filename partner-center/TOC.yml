@@ -52,7 +52,7 @@
         - name: Vanliga frågor och svar om förmåner
           href: benefits-faq.md
           displayName: 'renew, license,'
-        - name: Visa eller ladda ned DIN MPN-faktura
+        - name: Visa eller ladda ned din MPN-faktura
           href: mpn-view-print-maps-invoice.md
     - name: Tillgängliga fördelar
       items:
@@ -103,7 +103,7 @@
         - name: Vanliga frågor och svar om kompetenser
           href: competencies-faq.md
           displayName: 'renew, mpn'
-        - name: Betala avgifter för kompetens
+        - name: Avgifter för betalning av kompetens
           href: mpn-pay-fee-silver-gold-competency.md
           displayName: mpn
         - name: Undantag för apputvecklarkompetens
@@ -119,45 +119,40 @@
           displayName: mpn
     - name: Bli en Azure Expert MSP
       href: azure-expert-msp.md
-- name: Leverantör av molnlösningar (CSP)
+- name: Molnlösningsleverantör program (CSP)
   href: csp-overview.md
   displayName: csp
   items:
     - name: Registrera dig för Molnlösningsleverantör-programmet
       href: enrolling-in-the-csp-program.md
       displayName: 'indirect, reseller, csp'
-    - name: Microsoft-partneravtal – molnlösningsleverantörer
-      href: microsoft-partner-agreement.md
-      displayName: 'csp, mpn'
-    - name: Hur indirekta leverantörer kan hjälpa sina återförsäljare att införa MPA
-      href: mpa-indirect-provider-faq.md
-      displayName: 'csp, mpa, indirect, provider'
     - name: Krav för CSP-direktpartner
       href: direct-partner-new-requirements.md
-      displayName: 'indirect, reseller, csp'
-    - name: 'Microsoft-kundavtal (efter region, språk)'
-      href: agreements.md
-      displayName: 'region, MPA'
     - name: Begränsad åtkomst till direktfakturering
       href: restricted-direct-bill-capabilities.md
-      displayName: 'indirect, reseller'
+      displayName: 'indirect, reseller, direct'
     - name: Växla CSP-direktfakturering till indirekt återförsäljare
       href: transition-direct-to-indirect.md
       displayName: csp
+- name: CSP-avtal
+  href: microsoft-partner-agreement.md
+  items:
+    - name: Hur indirekta leverantörer kan hjälpa sina återförsäljare att införa MPA
+      href: mpa-indirect-provider-faq.md
+      displayName: 'csp, mpa, indirect, provider'
     - name: 'CSP-avtal, prislistor, erbjudanden'
       href: csp-documents-and-learning-resources.md
       displayName: csp
-    - name: Information om registrerings-ID-nummer
-      href: reg-number-id.md
+    - name: 'Microsoft-kundavtal (efter region, språk)'
+      href: agreements.md
+    - name: Så här bekräftar du kundens godkännande av Microsoft-kundavtal
+      href: confirm-customer-agreement.md
     - name: 'Regionala CSP-marknader, valutor'
       href: regional-authorization-overview.md
       displayName: 'regio, region, csp'
     - name: Instruktioner för CSP-auktorisering för konsolidering av klientorganisationer
       href: csp-regional-authorization-tenant-consolidation.md
       displayName: 'regio, region, csp'
-    - name: Så här bekräftar du kundens godkännande av Microsoft-kundavtal
-      href: confirm-customer-agreement.md
-      displayName: 'csp, agreement'
     - name: Ansök om att sälja i nationella moln
       href: csp-national-clouds-overview.md
       items:
@@ -207,6 +202,8 @@
         - name: Uppdatera din partnerprofil
           href: update-your-partner-profile.md
           displayName: mpn
+        - name: Information om registrerings-ID-nummer
+          href: reg-number-id.md
         - name: Bli en kontrollpanelsleverantör
           href: enroll-as-cpv.md
           displayName: csp
@@ -443,7 +440,7 @@
           displayName: 'region, regio'
         - name: Begär en SLA-kredit från Microsoft
           href: request-credit.md
-        - name: Hur skatteprinciper påverkar utbetalning
+        - name: Så här påverkar skatteprinciper utbetalningen
           href: tax-policies-affect-payout.md
     - name: Ange en Azure-utgiftsbudget för dina kunder
       href: set-an-azure-spending-budget-for-your-customers.md
