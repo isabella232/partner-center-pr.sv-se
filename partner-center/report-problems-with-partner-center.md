@@ -1,94 +1,90 @@
 ---
-title: Partner Center-Portal begär Anden och diagnostikverktyg
+title: Partnercenter– portalförfrågningar och diagnostikverktyg
 ms.topic: how-to
 ms.date: 11/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Lär dig hur du rapporterar problem med partner Center och hur du samlar in diagnostisk information för partner support teamet.
+description: Lär dig hur du rapporterar problem med Partnercenter och hur du samlar in diagnostikinformation för partnersupportteamet.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b009d7131f9d6941513a04e866006d1908ba741
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 5d71d3efe10d38cfc0b5ce8dd60c3c51e2be9f1b
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441650"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855615"
 ---
-# <a name="partner-center-portal-requests-and-diagnostic-tool"></a><span data-ttu-id="927bf-103">Partner Center-Portal begär Anden och diagnostikverktyg</span><span class="sxs-lookup"><span data-stu-id="927bf-103">Partner Center portal requests and diagnostic tool</span></span>
+# <a name="partner-center-portal-requests-and-diagnostic-tool"></a><span data-ttu-id="0d5d2-103">Partnercenter– portalförfrågningar och diagnostikverktyg</span><span class="sxs-lookup"><span data-stu-id="0d5d2-103">Partner Center portal requests and diagnostic tool</span></span>
 
-<span data-ttu-id="927bf-104">**Gäller för**</span><span class="sxs-lookup"><span data-stu-id="927bf-104">**Applies to**</span></span>
+<span data-ttu-id="0d5d2-104">**Gäller för**: Partner Center-| Partnercenter för Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="0d5d2-104">**Applies to**: Partner Center | Partner Center for Microsoft Cloud for US Government</span></span>
 
-- <span data-ttu-id="927bf-105">Välkommen till Partnercenter för Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="927bf-105">Partner Center for Microsoft Cloud for US Government</span></span>
+<span data-ttu-id="0d5d2-105">**Lämpliga roller:** Alla partner som är intresserade av Partnercenter</span><span class="sxs-lookup"><span data-stu-id="0d5d2-105">**Appropriate roles**: All partners interested in Partner Center</span></span>
 
-<span data-ttu-id="927bf-106">**Lämpliga roller**</span><span class="sxs-lookup"><span data-stu-id="927bf-106">**Appropriate roles**</span></span>
+<span data-ttu-id="0d5d2-106">Alla inloggade i Partnercenter-användare kan skapa en partnersupportbegäran.</span><span class="sxs-lookup"><span data-stu-id="0d5d2-106">All logged in Partner Center users can create a partner support request.</span></span> <span data-ttu-id="0d5d2-107">Användare kan bara visa supportbegäranden som de har skickat efter att ha loggat in på Partnercenter.</span><span class="sxs-lookup"><span data-stu-id="0d5d2-107">Users can only view support requests they have submitted after logging into Partner Center.</span></span>
+<span data-ttu-id="0d5d2-108">Kontakta Partnercenter-supporten om du hittar problem eller behöver hjälp med fel i Partnercenter-portalen.</span><span class="sxs-lookup"><span data-stu-id="0d5d2-108">Contact Partner Center Support if you find problems or need help with Partner Center portal errors.</span></span> <span data-ttu-id="0d5d2-109">Skicka diagnostik så att problemet kan åtgärdas snabbare.</span><span class="sxs-lookup"><span data-stu-id="0d5d2-109">Send diagnostics to enable the problem to be fixed quicker.</span></span>
 
-- <span data-ttu-id="927bf-107">Alla partner som är intresserade av Partner Center</span><span class="sxs-lookup"><span data-stu-id="927bf-107">All partners interested in Partner Center</span></span>
+## <a name="report-a-problem-with-the-partner-center"></a><span data-ttu-id="0d5d2-110">Rapportera ett problem med Partnercenter</span><span class="sxs-lookup"><span data-stu-id="0d5d2-110">Report a problem with the Partner Center</span></span>
 
-<span data-ttu-id="927bf-108">Alla inloggade Partner Center-användare kan skapa en support förfrågan för partner.</span><span class="sxs-lookup"><span data-stu-id="927bf-108">All logged in Partner Center users can create a partner support request.</span></span> <span data-ttu-id="927bf-109">Användare kan bara se support förfrågningar som de har skickat efter inloggning till Partner Center.</span><span class="sxs-lookup"><span data-stu-id="927bf-109">Users can only view support requests they have submitted after logging into Partner Center.</span></span>
-<span data-ttu-id="927bf-110">Kontakta Partner Center-supporten om du hittar problem eller behöver hjälp med fel i Partner Center-portalen.</span><span class="sxs-lookup"><span data-stu-id="927bf-110">Contact Partner Center Support if you find problems or need help with Partner Center portal errors.</span></span> <span data-ttu-id="927bf-111">Skicka diagnostik för att göra det möjligt att korrigera problemet snabbt.</span><span class="sxs-lookup"><span data-stu-id="927bf-111">Send diagnostics to enable the problem to be fixed quicker.</span></span>
+1. <span data-ttu-id="0d5d2-111">Från **instrumentpanelen i Partnercenter** väljer du **Support** och sedan **Partnersupportbegäranden.**</span><span class="sxs-lookup"><span data-stu-id="0d5d2-111">From your **Partner Center** dashboard, select **Support** and then select **Partner support requests**.</span></span>
 
-## <a name="report-a-problem-with-the-partner-center"></a><span data-ttu-id="927bf-112">Rapportera ett problem med partner Center</span><span class="sxs-lookup"><span data-stu-id="927bf-112">Report a problem with the Partner Center</span></span>
+2. <span data-ttu-id="0d5d2-112">Välj **Ny begäran** och sök sedan efter den typ av problem som bäst beskriver problemet.</span><span class="sxs-lookup"><span data-stu-id="0d5d2-112">Select **New request** and then search for the issue type that best describes your problem.</span></span> <span data-ttu-id="0d5d2-113">Välj typ av problem och **Granska lösningar.**</span><span class="sxs-lookup"><span data-stu-id="0d5d2-113">Select the issue type and **Review solutions**.</span></span>
 
-1. <span data-ttu-id="927bf-113">Från instrument panelen för **partner Center** väljer du **support** och väljer sedan support **förfrågningar för partner**.</span><span class="sxs-lookup"><span data-stu-id="927bf-113">From your **Partner Center** dashboard, select **Support** and then select **Partner support requests**.</span></span>
+3. <span data-ttu-id="0d5d2-114">På sidan **Rekommenderade lösningar** hittar du anvisningar eller relaterade dokument som kan hjälpa dig att lösa problemet.</span><span class="sxs-lookup"><span data-stu-id="0d5d2-114">Review the **Recommended solutions** page for steps or related documents that may help you solve your issue.</span></span>
 
-2. <span data-ttu-id="927bf-114">Välj **ny begäran** och Sök sedan efter den typ av problem som bäst beskriver problemet.</span><span class="sxs-lookup"><span data-stu-id="927bf-114">Select **New request** and then search for the issue type that best describes your problem.</span></span> <span data-ttu-id="927bf-115">Välj ärende typ och **Granska lösningar**.</span><span class="sxs-lookup"><span data-stu-id="927bf-115">Select the issue type and **Review solutions**.</span></span>
+4. <span data-ttu-id="0d5d2-115">Om de **rekommenderade lösningarna** löste problemet kan du gå tillbaka **till instrumentpanelen**.</span><span class="sxs-lookup"><span data-stu-id="0d5d2-115">If the **Recommended solutions** solved your problem, you can select **return to the Dashboard**.</span></span> <span data-ttu-id="0d5d2-116">Om du fortfarande behöver hjälp kan du fortsätta och **ange information om problemet.**</span><span class="sxs-lookup"><span data-stu-id="0d5d2-116">If you still need help you can continue and **Provide issue details**.</span></span>
 
-3. <span data-ttu-id="927bf-116">Gå igenom sidan **rekommenderade lösningar** för steg eller relaterade dokument som kan hjälpa dig att lösa problemet.</span><span class="sxs-lookup"><span data-stu-id="927bf-116">Review the **Recommended solutions** page for steps or related documents that may help you solve your issue.</span></span>
+5. <span data-ttu-id="0d5d2-117">Slutför **probleminformationen och** skicka **sedan**.</span><span class="sxs-lookup"><span data-stu-id="0d5d2-117">Complete the **issue details** and then **Submit**.</span></span> <span data-ttu-id="0d5d2-118">En partnersupportrepresentant följer upp med dig.</span><span class="sxs-lookup"><span data-stu-id="0d5d2-118">A Partner Support representative will follow up with you.</span></span>
 
-4. <span data-ttu-id="927bf-117">Om de **rekommenderade lösningarna** löste problemet kan du välja **återgå till instrument panelen**.</span><span class="sxs-lookup"><span data-stu-id="927bf-117">If the **Recommended solutions** solved your problem, you can select **return to the Dashboard**.</span></span> <span data-ttu-id="927bf-118">Om du fortfarande behöver hjälp kan du fortsätta och **Ange information om problemet**.</span><span class="sxs-lookup"><span data-stu-id="927bf-118">If you still need help you can continue and **Provide issue details**.</span></span>
+## <a name="schedule-a-support-appointment"></a><span data-ttu-id="0d5d2-119">Schemalägga en supporttid</span><span class="sxs-lookup"><span data-stu-id="0d5d2-119">Schedule a support appointment</span></span> 
 
-5. <span data-ttu-id="927bf-119">Slutför **problem informationen** och **Skicka** sedan.</span><span class="sxs-lookup"><span data-stu-id="927bf-119">Complete the **issue details** and then **Submit**.</span></span> <span data-ttu-id="927bf-120">En partner support ansvarig kommer att följa upp med dig.</span><span class="sxs-lookup"><span data-stu-id="927bf-120">A Partner Support representative will follow up with you.</span></span>
+<span data-ttu-id="0d5d2-120">\**För närvarande i förhandsversion*</span><span class="sxs-lookup"><span data-stu-id="0d5d2-120">\**Currently in preview*</span></span>
 
-## <a name="schedule-a-support-appointment"></a><span data-ttu-id="927bf-121">Schemalägg en support avtalad tid</span><span class="sxs-lookup"><span data-stu-id="927bf-121">Schedule a support appointment</span></span> 
+<span data-ttu-id="0d5d2-121">Om ditt problem kräver en konversation med din support advocate kan du schemalägga den avtalade tiden från din biljettinformation.</span><span class="sxs-lookup"><span data-stu-id="0d5d2-121">If your issue requires a conversation with your support advocate, you can schedule the appointment from your ticket details.</span></span>
 
-<span data-ttu-id="927bf-122">\**För hands version*</span><span class="sxs-lookup"><span data-stu-id="927bf-122">\**Currently in preview*</span></span>
+:::image type="content" source="images/support/ticket.png" alt-text="Schemalägg en avtalad supporttid":::
 
-<span data-ttu-id="927bf-123">Om ditt problem kräver en konversation med din support rådgivare kan du schemalägga en avtalad tid från din biljett information.</span><span class="sxs-lookup"><span data-stu-id="927bf-123">If your issue requires a conversation with your support advocate, you can schedule the appointment from your ticket details.</span></span>
+1.  <span data-ttu-id="0d5d2-123">På sidan med ärendeinformation i Partnercenter väljer du ett tillgängligt datum och tid i supportens kalender.</span><span class="sxs-lookup"><span data-stu-id="0d5d2-123">From the ticket details page in Partner Center, select an available date and time on the support advocate's calendar.</span></span> <span data-ttu-id="0d5d2-124">Du ser bara tillgängliga datum och tider i din lokala tidszon.</span><span class="sxs-lookup"><span data-stu-id="0d5d2-124">You will see only available dates and times in your local time zone.</span></span>
 
-:::image type="content" source="images/support/ticket.png" alt-text="Schemalägg en support avtalad tid":::
+:::image type="content" source="images/support/ticket2.png" alt-text="Schemalägg avtalad tid":::
 
-1.  <span data-ttu-id="927bf-125">På sidan biljett information i Partner Center väljer du ett tillgängligt datum och en tid på Supportens kalender.</span><span class="sxs-lookup"><span data-stu-id="927bf-125">From the ticket details page in Partner Center, select an available date and time on the support advocate's calendar.</span></span> <span data-ttu-id="927bf-126">Du kommer bara att se tillgängliga datum och tider i din lokala tidszon.</span><span class="sxs-lookup"><span data-stu-id="927bf-126">You will see only available dates and times in your local time zone.</span></span>
+2. <span data-ttu-id="0d5d2-126">Partnercenter kontrollerar supportens kalender för tillgänglighet.</span><span class="sxs-lookup"><span data-stu-id="0d5d2-126">Partner Center checks the support advocate’s  calendar for availability.</span></span>
 
-:::image type="content" source="images/support/ticket2.png" alt-text="Schemalägg möte":::
-
-2. <span data-ttu-id="927bf-128">Partner Center söker efter tillgänglighet i support advokatens kalender.</span><span class="sxs-lookup"><span data-stu-id="927bf-128">Partner Center checks the support advocate’s  calendar for availability.</span></span>
-
-1. <span data-ttu-id="927bf-129">När du schemalägger en avtalad tid skickar Partner Center en kalender-inbjudan med information om hur support organisationen kommer att kontakta dig, så att du kan spåra den här avtalade tiden i din egen arbets kalender.</span><span class="sxs-lookup"><span data-stu-id="927bf-129">When you schedule an appointment, Partner Center sends you a calendar invitation with information on how the support advocate will contact you, so you can track this appointment on your own work calendar.</span></span>  <span data-ttu-id="927bf-130">Även om den här funktionen fortfarande finns i förhands granskningen, är inbjudan till e-post och kalender på engelska, men rådgivaren kan stödja dig på det språk som du valde när du skapade din biljett.</span><span class="sxs-lookup"><span data-stu-id="927bf-130">While this capability is still in Preview, the email and calendar invitation will be in English, but the advocate will be able to support you in the language you selected when creating your ticket.</span></span>
+1. <span data-ttu-id="0d5d2-127">När du schemalägger en avtalad tid skickar Partner Center en kalenderinbjudan med information om hur supporten kontaktar dig, så att du kan spåra den här avtalade tiden i din egen arbets kalender.</span><span class="sxs-lookup"><span data-stu-id="0d5d2-127">When you schedule an appointment, Partner Center sends you a calendar invitation with information on how the support advocate will contact you, so you can track this appointment on your own work calendar.</span></span>  <span data-ttu-id="0d5d2-128">Även om den här funktionen fortfarande är i förhandsversion kommer e-postmeddelandet och kalenderinbjudan att vara på engelska, men supporten kommer att kunna hjälpa dig på det språk som du valde när du skapade ditt ärende.</span><span class="sxs-lookup"><span data-stu-id="0d5d2-128">While this capability is still in Preview, the email and calendar invitation will be in English, but the advocate will be able to support you in the language you selected when creating your ticket.</span></span>
 
 :::image type="content" source="images/support/ticket3.png" alt-text="Datum och tid":::
 
-## <a name="hours-of-operation"></a><span data-ttu-id="927bf-132">Drift timmar</span><span class="sxs-lookup"><span data-stu-id="927bf-132">Hours of operation</span></span>
+## <a name="hours-of-operation"></a><span data-ttu-id="0d5d2-130">Antal drifttimmar</span><span class="sxs-lookup"><span data-stu-id="0d5d2-130">Hours of operation</span></span>
 
-<span data-ttu-id="927bf-133">**Support för partner**</span><span class="sxs-lookup"><span data-stu-id="927bf-133">**Partner support**</span></span>
+<span data-ttu-id="0d5d2-131">**Partnersupport**</span><span class="sxs-lookup"><span data-stu-id="0d5d2-131">**Partner support**</span></span>
 
-:::image type="content" source="images/support/hoop.png" alt-text="Support timmar för åtgärd":::
+:::image type="content" source="images/support/hoop.png" alt-text="Supporttimmar":::
 
-## <a name="send-diagnostics"></a><span data-ttu-id="927bf-135">Skicka diagnostik</span><span class="sxs-lookup"><span data-stu-id="927bf-135">Send diagnostics</span></span>
+## <a name="send-diagnostics"></a><span data-ttu-id="0d5d2-133">Skicka diagnostik</span><span class="sxs-lookup"><span data-stu-id="0d5d2-133">Send diagnostics</span></span>
 
-<span data-ttu-id="927bf-136">Om ett fel inträffar när du befinner dig på en partner Center-sida kan du uppmanas att samla in logg information.</span><span class="sxs-lookup"><span data-stu-id="927bf-136">If an error occurs while you're on a Partner Center page, you may be prompted to gather log information.</span></span> <span data-ttu-id="927bf-137">Välj **samla in mer information** från länken som visas längst upp på sidan för att öppna verktyget för klient diagnos.</span><span class="sxs-lookup"><span data-stu-id="927bf-137">Select **Collect more information** from the link that drops down from the top of the page to open the Client Diagnostic tool.</span></span> <span data-ttu-id="927bf-138">Det här verktyget samlar in information som Partnersupportteamet behöver för att fastställa orsaken till felet.</span><span class="sxs-lookup"><span data-stu-id="927bf-138">This tool gathers information that the Partner Support team needs to determine the cause of the error.</span></span> 
+<span data-ttu-id="0d5d2-134">Om ett fel inträffar när du är på en Partnercenter-sida kan du uppmanas att samla in logginformation.</span><span class="sxs-lookup"><span data-stu-id="0d5d2-134">If an error occurs while you're on a Partner Center page, you may be prompted to gather log information.</span></span> <span data-ttu-id="0d5d2-135">Välj **Samla in mer information** från länken som visas längst upp på sidan för att öppna verktyget Klientdiagnostik.</span><span class="sxs-lookup"><span data-stu-id="0d5d2-135">Select **Collect more information** from the link that drops down from the top of the page to open the Client Diagnostic tool.</span></span> <span data-ttu-id="0d5d2-136">Det här verktyget samlar in information som Partnersupportteamet behöver för att fastställa orsaken till felet.</span><span class="sxs-lookup"><span data-stu-id="0d5d2-136">This tool gathers information that the Partner Support team needs to determine the cause of the error.</span></span> 
 
 >[!NOTE]
-><span data-ttu-id="927bf-139">På Partner Center-sidor som innehåller **/PCV/** i URL: en kan du öppna verktyget manuellt för att samla in den här informationen.</span><span class="sxs-lookup"><span data-stu-id="927bf-139">On Partner Center pages that include **/pcv/** in the URL, you can open the tool manually to collect this information.</span></span>
+><span data-ttu-id="0d5d2-137">På Partnercenter-sidor som **innehåller /pcv/** i URL:en kan du öppna verktyget manuellt för att samla in den här informationen.</span><span class="sxs-lookup"><span data-stu-id="0d5d2-137">On Partner Center pages that include **/pcv/** in the URL, you can open the tool manually to collect this information.</span></span>
 
-1. <span data-ttu-id="927bf-140">Gå till sidan med problemet.</span><span class="sxs-lookup"><span data-stu-id="927bf-140">Go to the page with the issue.</span></span>
+1. <span data-ttu-id="0d5d2-138">Gå till sidan med problemet.</span><span class="sxs-lookup"><span data-stu-id="0d5d2-138">Go to the page with the issue.</span></span>
 
-2. <span data-ttu-id="927bf-141">Tryck på **CTRL + ALT + D** för att öppna diagnostikverktyget för klient.</span><span class="sxs-lookup"><span data-stu-id="927bf-141">Press **Ctrl+Alt+D** to open the Client Diagnostic tool.</span></span>
+2. <span data-ttu-id="0d5d2-139">Tryck **på Ctrl+Alt+D** för att öppna diagnostikverktyget för klienten.</span><span class="sxs-lookup"><span data-stu-id="0d5d2-139">Press **Ctrl+Alt+D** to open the Client Diagnostic tool.</span></span>
 
-<span data-ttu-id="927bf-142">Du kan förhandsgranska diagnostikinformation och sedan spara den till en fil som du kan bifoga i din support förfrågan.</span><span class="sxs-lookup"><span data-stu-id="927bf-142">You can preview the diagnostic information and then save it to a file that you can attach in your support request.</span></span> <span data-ttu-id="927bf-143">Så här skickar du oss informationen:</span><span class="sxs-lookup"><span data-stu-id="927bf-143">To send us the information:</span></span>
+<span data-ttu-id="0d5d2-140">Du kan förhandsgranska diagnostikinformationen och sedan spara den i en fil som du kan bifoga i din supportbegäran.</span><span class="sxs-lookup"><span data-stu-id="0d5d2-140">You can preview the diagnostic information and then save it to a file that you can attach in your support request.</span></span> <span data-ttu-id="0d5d2-141">Så här skickar du informationen till oss:</span><span class="sxs-lookup"><span data-stu-id="0d5d2-141">To send us the information:</span></span>
 
-3. <span data-ttu-id="927bf-144">Granska informationen i filen innan du skickar den eftersom den kan innehålla personliga data som du kanske vill ta bort.</span><span class="sxs-lookup"><span data-stu-id="927bf-144">Review the information in the file before sending it as it can contain personal data that you may want to remove.</span></span>
+3. <span data-ttu-id="0d5d2-142">Granska informationen i filen innan du skickar den eftersom den kan innehålla personuppgifter som du kanske vill ta bort.</span><span class="sxs-lookup"><span data-stu-id="0d5d2-142">Review the information in the file before sending it as it can contain personal data that you may want to remove.</span></span>
 
     >[!NOTE]
-    ><span data-ttu-id="927bf-145">I vissa webbläsare kan **sid visnings** avsnittet längst ned på sidan **förhands granskning** vara tomt.</span><span class="sxs-lookup"><span data-stu-id="927bf-145">In some browsers, the **Page View** section at the bottom of the **Preview** page may appear empty.</span></span> <span data-ttu-id="927bf-146">Detta är OK.</span><span class="sxs-lookup"><span data-stu-id="927bf-146">This is OK.</span></span>
+    ><span data-ttu-id="0d5d2-143">I vissa webbläsare kan **avsnittet Sidvisning** längst ned på förhandsgranskningssidan verka tomt. </span><span class="sxs-lookup"><span data-stu-id="0d5d2-143">In some browsers, the **Page View** section at the bottom of the **Preview** page may appear empty.</span></span> <span data-ttu-id="0d5d2-144">Det här är ok.</span><span class="sxs-lookup"><span data-stu-id="0d5d2-144">This is OK.</span></span>
 
-4. <span data-ttu-id="927bf-147">Spara filen genom att följa anvisningarna på skärmen.</span><span class="sxs-lookup"><span data-stu-id="927bf-147">Follow the on-screen instructions to save the file.</span></span>
+4. <span data-ttu-id="0d5d2-145">Följ anvisningarna på skärmen för att spara filen.</span><span class="sxs-lookup"><span data-stu-id="0d5d2-145">Follow the on-screen instructions to save the file.</span></span>
 
-5. <span data-ttu-id="927bf-148">Bifoga filen till din support förfrågan.</span><span class="sxs-lookup"><span data-stu-id="927bf-148">Attach the file to your support request.</span></span>
+5. <span data-ttu-id="0d5d2-146">Bifoga filen i din supportbegäran.</span><span class="sxs-lookup"><span data-stu-id="0d5d2-146">Attach the file to your support request.</span></span>
 
-<span data-ttu-id="927bf-149">Support för partner kan be dig att köra verktyget flera gånger så att de kan få den senaste informationen.</span><span class="sxs-lookup"><span data-stu-id="927bf-149">Partner Support may ask you to run this tool several times so they can get the most up-to-date information.</span></span>
+<span data-ttu-id="0d5d2-147">Partnersupporten kan be dig att köra det här verktyget flera gånger så att de kan få den senaste informationen.</span><span class="sxs-lookup"><span data-stu-id="0d5d2-147">Partner Support may ask you to run this tool several times so they can get the most up-to-date information.</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="927bf-150">Nästa steg</span><span class="sxs-lookup"><span data-stu-id="927bf-150">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="0d5d2-148">Nästa steg</span><span class="sxs-lookup"><span data-stu-id="0d5d2-148">Next steps</span></span>
 
-- [<span data-ttu-id="927bf-151">Rapportera ett tjänst problem för en kunds räkning</span><span class="sxs-lookup"><span data-stu-id="927bf-151">Report a service problem on behalf of a customer</span></span>](report-problems-on-behalf-of-a-customer.md)
+- [<span data-ttu-id="0d5d2-149">Rapportera ett tjänstproblem åt en kund</span><span class="sxs-lookup"><span data-stu-id="0d5d2-149">Report a service problem on behalf of a customer</span></span>](report-problems-on-behalf-of-a-customer.md)
