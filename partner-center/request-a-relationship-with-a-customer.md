@@ -8,19 +8,16 @@ description: Begär en relation med en kund för scenarier med flera partner, fl
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 55f86e6e48b0b897410826e22564e2d27e25258b
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: f8265973157540cff698790ddb2effa912abeeb7
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018143"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856125"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Så här begär du en återförsäljarrelation från en kund i Partnercenter
 
-**Lämpliga roller**
-
-- Administratörsagent
-- Global administratör
+**Lämpliga roller:** Administratörsagent | Global administratör
 
 Om du vill hantera en kunds tjänst eller prenumeration för kundens räkning måste kunden ge dig administratörsbehörighet för den tjänsten eller prenumerationen och signera Microsoft-kundavtal.
 
@@ -46,12 +43,12 @@ Du kan begära en återförsäljarrelation med en kund från ditt land eller i s
 5. När kunden har accepterat din inbjudan visas den på sidan **Kunder** och kan etablera och hantera tjänsten för kunden därifrån.
 
    > [!NOTE]
-   > Om kunden inte redan har accepterat Microsoft-kundavtal uppmanas de att göra det när de godkänner din inbjudan. Kunden måste vara global administratör för att acceptera inbjudan.
+   > Om kunden inte redan har accepterat Microsoft-kundavtal uppmanas de att göra det när de accepterar din inbjudan. Kunden måste vara global administratör för att acceptera inbjudan.
 
-6. Om du vill hantera kundens konto, tjänster, användare och licenser expanderar du kundens post genom att välja nedåtpilen nära namnet.
+6. Om du vill hantera kundens konto, tjänster, användare och licenser expanderar du kundens post genom att välja nedåtpilen nära kundens namn.
 
 > [!IMPORTANT]  
-> Kunder kan tilldela om eller ta bort administratörsbehörigheter i en tjänsts administratörsportal. Men såvida inte och tills du omförhandling av ditt avtal med kunden fortsätter du att vara ansvarig för att tillhandahålla kundsupport och följa villkoren i Microsoft-partneravtal, även efter att en kund omtilldelar eller tar bort administratörsbehörigheter. I så fall kan du, om kunden behöver hjälp, ringa Microsoft-supporten för att öppna en tjänstbegäran för kundens räkning.
+> Kunder kan tilldela om eller ta bort administratörsbehörigheter i en tjänsts administratörsportal. Men såvida inte och tills du omförhandling av ditt avtal med kunden fortsätter du att vara ansvarig för att tillhandahålla kundsupport och följa villkoren i Microsoft-partneravtal, även när en kund omtilldelar eller tar bort administratörsbehörigheter. I så fall kan du, om kunden behöver hjälp, ringa Microsoft-supporten för att öppna en tjänstbegäran för kundens räkning.
 
 ## <a name="changes-to-the-customer-invitation-experience"></a>Ändringar i kundinbjudan
 

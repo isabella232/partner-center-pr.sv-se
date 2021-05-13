@@ -9,41 +9,39 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 515591f37cb15e8af69acf8d30affd9300429e42
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 7e6db20296075774a6254116df898e15ecc50034
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284476"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856040"
 ---
-# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Läs mer om skatter och momsbefrielse per region eller land för partner i CSP-programmet
+# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Läs mer om skatte- och skattebefrielseinformation efter region eller land för partner i CSP-programmet
 
-**Lämpliga roller**
-
-- Global administratör
+**Lämpliga roller:** Global administratör
 
 Programmet Molnlösningsleverantör (CSP) är en försäljningskanal som fokuserar på partnerförsäljning av produkter. Därför är Microsoft inte alltid nödvändigt för att debitera moms på partnerfakturor. Reglerna varierar beroende på land och/eller region. Du kan granska [landsspecifik och regionsspecifik information för momsbefrielse.](#country-and-region-tax-details)
 
-Arbeta med skatterådgivaren [för att göra skattebefrielse](#file-a-tax-exemption) baserat på din plats och dina kunders platser.
+Arbeta med din skatterådgivare [för att göra skattebefrielse](#file-a-tax-exemption) baserat på din plats och dina kunders platser.
 
 ## <a name="country-and-region-tax-details"></a>Skatteinformation för land och region
 
-Specifik skatterelaterad information är tillgänglig för Kanada och USA. För Taiwan och Korea, se [information om skattekvitton.](#tax-receipts-and-daf)
+Specifik skatterelaterad information är tillgänglig för Kanada och USA. Information om skattekvitton för Taiwan [och](#tax-receipts-and-daf)Korea finns i .
 
-Om du är i ett annat land eller en annan region som debiterar skatter kan [du se informationen för andra regioner.](#other-regions)
+Om du är i ett annat land eller en annan region som debiterar skatter, [se informationen för andra regioner.](#other-regions)
 
 
 ### <a name="canada"></a>Kanada
 
-De flesta återförsäljare är inte undantagna från GST/HST/QST. Kontakta skatterådgivaren för att avgöra om du är kvalificerad för undantag och vilken dokumentation du ska tillhandahålla Microsoft.
+De flesta återförsäljare är inte undantagna från GST/HST/QST. Kontakta skatterådgivaren för att avgöra om du är kvalificerad för undantag och vilken dokumentation du bör tillhandahålla Microsoft.
 
 För ett BC PST-undantag kan du göra ett skattebefrielse enligt beskrivningen. Ange din BC PST# eller ett slutfört och signerat *certifikat för undantag allmänt*.
 
 ### <a name="united-states"></a>USA
 
-Alla återförsäljare i USA tillhandahålla dokumentation om momsbefrielse inom 30 dagar från det att Microsoft-återförsäljaravtalet har accepterats. Varje delstat har olika undantagscertifikat för omförsäljning. Ta hjälp av skatterådgivaren för att avgöra vad som är relevant för din juridiska adress och registrerade tillstånd.
+Alla återförsäljare i USA tillhandahålla dokumentation om momsbefrielse inom 30 dagar från det att Microsoft-återförsäljaravtalet har accepterats. Varje delstat har olika undantagscertifikat för omförsäljning. Ta hjälp av skatterådgivaren för att avgöra vad som är relevant för din juridiska adress och registrerade delstater.
 
-Detta kan omfatta certifikat för omförsäljningsundantag som fungerar i flera delstater, till exempel Streamline *Sales* and *Use Tax Agreement Certificate of Exemption* eller *MTC Uniform Sales & Use Tax Exemption Certificate*.
+Detta kan omfatta certifikat för omförsäljningsundantag som fungerar över flera delstater, till exempel Streamline *Sales* and *Use Tax Agreement Certificate of Exemption* eller *MTC Uniform Sales & Use Tax Exemption Certificate*.
 
 ### <a name="other-regions"></a>Andra regioner
 

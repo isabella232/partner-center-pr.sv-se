@@ -9,22 +9,18 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 02/09/2021
-ms.openlocfilehash: b21bfcae4472763c19481ad506ae1c72d238e8f0
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: 94f79762e7fabb377b8d7b559ff9ba2623b135fe
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002916"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856074"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Läs om hur du överför en Azure-prenumeration för en kund till en annan partner
 
-**Gäller för**
+**Gäller för**: Partner Center-| Partnercenter för Microsoft Cloud for US Government
 
-- Välkommen till Partnercenter för Microsoft Cloud for US Government
-
-**Lämpliga roller**
-
-- Global administratör
+**Lämpliga roller:** Global administratör
 
 Den här artikeln beskriver hur en kund kan byta Microsoft Azure tjänster från en Molnlösningsleverantör (CSP) till en annan.
 
@@ -51,7 +47,7 @@ Följ dessa manuella steg om du vill byta en kunds Azure-tjänster eller prenume
    
    3. Från den [Azure Portal](https://portal.azure.com)väljer du **Ny supportbegäran.**
    
-   4. I steg 1 väljer du **Prenumerationshantering** som problemtyp, anger det prenumerations-ID som du vill överföra och väljer **Molnlösningsleverantör** som supportplan.
+   4. I Steg 1 väljer du **Prenumerationshantering** som problemtyp, anger det prenumerations-ID som du vill överföra och väljer **Molnlösningsleverantör** som supportplan.
    
    5. I steg 2 väljer du **C-Minimal påverkan** och **väljer Andra allmänna** frågor som problemtyp.
    
@@ -61,7 +57,7 @@ Följ dessa manuella steg om du vill byta en kunds Azure-tjänster eller prenume
 
    Om du vill fylla i formuläret behöver du följande information:
 
-   - Den aktuella partnerns kontaktuppgifter och Microsoft-ID. I menyn i Partnercenter väljer du **Kontoinställningar** &gt; **Organisationsprofil** och använder **Microsoft-ID,** **Organisationsnamn** och **Adress som** visas där.
+   - Den aktuella partnerns kontaktinformation och Microsoft-ID. I menyn i Partnercenter väljer du **Kontoinställningar** &gt; **Organisationsprofil** och använder **Microsoft-ID,** **Organisationsnamn** och **Adress som** visas där.
 
    - Kundens Microsoft-ID. I menyn i Partnercenter väljer du **Kunder** och expanderar sedan kundens lista för att se kundens **Microsoft-ID.**
 
