@@ -1,112 +1,109 @@
 ---
-title: Verifiera företagets profil
+title: Verifiera din företagsprofil
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig hur du verifierar företagets information, till exempel information om primär kontakt, adress och program. Du kan också uppdatera dina juridiska och fakturerings adresser.
+description: Lär dig hur du verifierar företagets information, till exempel primär kontakt, adress och programinformation. Du kan också uppdatera dina juridiska adresser och faktureringsadresser.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: 08e35e24dc94c81db56807b4211874996f0f487e
-ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
+ms.openlocfilehash: c700176ced0710f621dbdfab65513767976aff3d
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "107315885"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818617"
 ---
-# <a name="verify-or-update-your-company-profile-information"></a>Verifiera eller uppdatera företagets profil information 
+# <a name="verify-or-update-your-company-profile-information"></a>Verifiera eller uppdatera företagets profilinformation 
 
-**Lämpliga roller**
+**Lämpliga roller:** Globala | MPN-kontoadministratör
 
-- Global administratör
-- MPN-konto administratör
+Första gången du loggar in på Partner Center som global administratör bör du bekräfta att all företagsinformation är korrekt. Dessa omfattar primär kontakt, juridiskt företagsnamn, adress och programinformation. Om ditt företag har fler än en plats granskar du platsdata för att se om de är korrekta. Som global administratör, faktureringsadministratör eller administratörsagent kan du också se och uppdatera din fakturerings- och skatteinformation.
 
-Första gången du loggar in på Partner Center som global administratör bör du kontrol lera att all företags information är korrekt. Detta omfattar primär kontakt, juridiskt företags namn, adress och programinformation. Om ditt företag har fler än en plats granskar du dina plats data för att se om det är korrekt. Som global administratör, fakturerings administratör eller administratörs agent kan du också se och uppdatera din fakturerings-och skatte information.
-
-Din partner profil består av din juridiska företags information, det primära kontakt namnet och e-postmeddelandet, de program som företaget deltar i och, om så är tillämpligt, dina andra företag som nu är sammanslagna under din juridiska verksamhet. Kontrol lera att företags namnet och adressen i din juridiska affärs profil är fria från stavfel och att de matchar dina formella företags registrerings poster exakt. Om du arbetar som en enda ägare måste du använda ditt företags namn som juridiskt namn.
+Din partnerprofil består av din juridiska affärsinformation, primära kontaktnamn och e-postadress, de program som ditt företag deltar i och, om det är relevant, dina andra företag som nu slås samman under din juridiska verksamhet. Kontrollera att företagsnamnet och adressen i din juridiska företagsprofil är fria från stavningsfel och förkortningar och matcha företagets formella registreringsposter exakt. Om du arbetar som enskild ägare måste du använda företagets namn som juridiskt namn.
 
 
-## <a name="locate-the-legal-business-profile"></a>Leta upp den juridiska företags profilen
+## <a name="locate-the-legal-business-profile"></a>Leta upp den juridiska företagsprofilen
 
-1. Gå till **inställnings** ikonen och välj **konto inställningar**.
+1. Gå till ikonen **Inställningar** och välj **Kontoinställningar.**
  
-1. Välj **organisations profil**. 
+1. Välj **Organisationsprofil**. 
 
-2. Granska din **juridiska företags profil**, **primär kontakt information** och **programinformation**.
+2. Granska din **juridiska företagsprofil,** **primär kontaktinformation** och **programinformationen**.
 
-Om du har sammanfogat andra företag under din juridiska verksamhet kan du även granska informationen. 
+Om du har slagit samman dina andra företag under din juridiska verksamhet kan du granska den informationen också. 
 
-## <a name="update-your-legal-business-profile"></a>Uppdatera din juridiska företags profil 
+## <a name="update-your-legal-business-profile"></a>Uppdatera din juridiska företagsprofil 
 
-Uppdatera ditt juridiska företags namn eller din adress i Partner Center.
+Uppdatera företagets juridiska namn eller adress på Partnercenter.
 
 >[!Important]
->- För MPN-konton kan både den globala administratören och konto administratören uppdatera det juridiska företags namnet.
->- För konton med indirekt åter försäljare av CSP kan bara den globala administratören uppdatera det juridiska företags namnet. 
->- Direkt fakturerings partner och indirekta leverantörer kan inte ändra det juridiska namnet på företaget om konto verifierings statusen är **auktoriserad**. Om du behöver ändra namnet måste du skapa ett [support ärende](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
+>- För MPN-konton kan både den globala administratören och kontoadministratören uppdatera företagets juridiska namn.
+>- För konton för indirekta CSP-återförsäljare kan endast den globala administratören uppdatera företagets juridiska namn. 
+>- Direktfaktureringspartner och indirekta leverantörer kan inte ändra företagets juridiska namn om kontoverifieringsstatusen **är Auktoriserad**. Om du behöver ändra namnet måste du skapa en [supportbiljett.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)
 
 
 
-1. Gå till **Inställningar**, **konto inställningar** och välj **organisations profil**.
+1. Gå till **Inställningar,** **Kontoinställningar** och välj **Organisationsprofil.**
 
-2. Välj **juridisk**  information och välj sedan den juridiska företags profil (partner eller åter försäljare) som du vill uppdatera.
+2. Välj **Juridiskt**  och välj sedan den juridiska företagsprofil (partner eller återförsäljare) som du vill uppdatera.
 
-1. Klicka på **Uppdatera**  bredvid företags namn/adress och ändra informationen.
+1. Klicka på **Uppdatera**  bredvid företagets namn/adress och ändra informationen.
  
-1. När du väljer **Skicka**, kommer din juridiska identitet att utvärderas igen. Vi återbedömer bara det du har ändrat.
+1. När du **väljer** Skicka kommer din juridiska identitet att omvärderas. Vi gör bara en ny bedömning av vad du har ändrat.
 
-1. Om verifieringen Miss lyckas kan du läsa om hur du [åtgärdar problemet](verification-responses.md).
+1. Om verifieringen misslyckas kan du läsa om [hur du åtgärdar problemet](verification-responses.md).
 
 >[!Important]
->Om du är en partner av en moln lösnings leverantör kan du inte ändra det land som är associerat med din juridiska adress. Ditt juridiska adress land är knutet till din klient och dina tjänster samt den valuta som du gör affärer med. Mer information om MPN finns i  [land uppdateringar för MPN](manage-locations.md#change-country-of-partner-global-account).
+>Om du är en Molnlösningsleverantör partner (CSP) kan du inte ändra det land som är associerat med din juridiska adress. Ditt land för juridiska adresser är kopplat till din klientorganisation och dina tjänster samt den valuta som du gör affärer med. Mer information om MPN-landsuppdateringar finns i [MPN-landsuppdateringar.](manage-locations.md#change-country-of-partner-global-account)
 
 
-### <a name="who-can-update-legal-business-name-and-when"></a>Vem kan uppdatera juridisk företags namn och när
+### <a name="who-can-update-legal-business-name-and-when"></a>Vem kan uppdatera företagets juridiska namn och när
 
-|**Program**|**Vem kan uppdatera företags namn**|**När (status) kan uppdateras**|**Tillåts**|
+|**Program**|**Vem kan uppdatera företagets namn**|**När (status) kan den uppdateras**|**Tillåts**|
 |---------------------|:-------------------------------|:------------|:-----------------|
-MPN|Global administratör; Konto administratör|Auktorisation väntande slagit| Tillåts|
-|CSP: indirekt åter försäljare|Global administratör|Auktorisation väntande slagit| Tillåts|
+MPN|Global administratör; Kontoadministratör|Auktoriserad; väntande; Avvisade| Tillåts|
+|CSP: Indirekt återförsäljare|Global administratör|Auktoriserad; väntande; Avvisade| Tillåts|
 
 
-## <a name="update-your-mpn-global-business-account"></a>Uppdatera ditt MPN globala företags konto
+## <a name="update-your-mpn-global-business-account"></a>Uppdatera ditt globala MPN-företagskonto
 
-Om fel företags kontot under migreringen från partner medlemskaps Center till Partner Center har identifierats som juridiskt företag, kan du ändra det till rätt juridiskt företags konto.
+Om fel affärskonto identifierades som det juridiska företaget under migreringen från Partner Membership Center till PartnerCenter kan du ändra det till rätt juridiskt affärskonto.
 
-Om du vill göra dessa uppdateringar måste du vara antingen den globala administratören eller konto administratören. Lär dig hur du [hanterar dina MPN globala plats konton](manage-locations.md)
+Om du vill göra de här uppdateringarna måste du vara antingen global administratör eller kontoadministratör. Lär dig hur du [hanterar dina globala MPN-platskonton](manage-locations.md)
 
 
 ## <a name="update-your-mpn-id-associated-with-your-csp-account"></a>Uppdatera MPN-ID:t som är associerat med ditt CSP-konto
 
-Så här uppdaterar du det MPN-ID som är associerat med ditt CSP-konto:
+Så här uppdaterar du MPN-ID:t som är associerat med ditt CSP-konto:
 
-1. Logga in på [instrument panelen](https://partner.microsoft.com/dashboard/home) för partner Center som global administratör med dina AUTENTISERINGSUPPGIFTER för CSP-kontot och välj sedan **Inställningar**. (Dina autentiseringsuppgifter för MPN och CSP kan vara olika.)
+1. Logga in på instrumentpanelen i [Partnercenter](https://partner.microsoft.com/dashboard/home) som global administratör med autentiseringsuppgifterna för ditt CSP-konto och välj **sedan Inställningar.** (Dina MPN- och CSP-autentiseringsuppgifter kan vara annorlunda.)
  
-1. Välj **identifierare** från **konto inställningar**.
+1. Välj **Identifierare** i **Kontoinställningar.**
 
-1. Under avsnittet **CSP** använder du länken **Uppdatera** för att uppdatera det MPN-ID som är associerat med ditt CSP-konto 
+1. I **avsnittet CSP använder** du länken Uppdatera **för att uppdatera** DET MPN-ID som är associerat med ditt CSP-konto 
 
 
-## <a name="update-your-csp-legal-billing-address"></a>Uppdatera din CSP-juridiska fakturerings adress
+## <a name="update-your-csp-legal-billing-address"></a>Uppdatera din juridiska faktureringsadress för CSP
 
-Om du är global administratör, fakturerings administratör eller administratörs agent kan du ändra adressen som visas på fakturan i din **utbetalnings-och skatte profil**. Du kan dock inte ändra företagsnamnet på fakturan på grund av en begränsning i fakturasystemet.
+Om du är global administratör, faktureringsadministratör eller administratörsagent kan du ändra adressen som visas på din faktura i **din utbetalnings- och skatteprofil.** Du kan dock inte ändra företagsnamnet på fakturan på grund av en begränsning i fakturasystemet.
 
-:::image type="content" source="images/billing-profile.png" alt-text="Skärm bild av ett utrymme där fakturerings information läggs till":::
+:::image type="content" source="images/billing-profile.png" alt-text="Skärmdump av det område där faktureringsinformation läggs till":::
 
 |**Fält**  |**Beskrivning**|  
 |---------------------|:------------------|
-|Fakturera till företags namn|Företags namnet som visas i Bill-To information på din CSP-faktura.  Detta kan inte redige ras i Partner Center.  Skapa ett support ärende om du vill uppdatera.|
-|Fakturerings adress|Fakturerings adressen som visas på CSP-fakturan. Uppdatering – möjligt från [fakturerings profil](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
-|Fakturerings kontakt|Fakturerings kontakt uppgifter (förnamn, efter namn, primärt nummer) för CSP-kontot.  Uppdatering – möjligt från [fakturerings profil](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
-|INKÖPs nummer|Inköps order numret som visas på partner fakturan.  Uppdatering – möjligt från [fakturerings profil](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
-|Företagets skatte-ID|Företag i vissa länder kan tillhandahålla mervärdes [skatt (moms) eller lokala motsvarigheter](https://docs.microsoft.com/partner-center/organization-tax-info#submit-vat-id-number). Om du vill uppdatera ditt momsregistreringsnummer måste du vara global administratör, faktureringsadministratör eller administratörsagent.|
-|Fakturerings valuta|Fakturerings valutan för ditt CSP-konto bestäms av det juridiska landet för CSP-kontot.  Detta kan inte ändras när CSP-kontot har skapats.|
+|Faktureringsföretagets namn|Företagsnamnet som visas i Bill-To på CSP-fakturan.  Detta kan inte redigeras i Partnercenter.  Om du vill uppdatera skapar du en supportbiljett.|
+|Faktureringsadress|Faktureringsadressen som visas på CSP-fakturan. Uppdatera från [Faktureringsprofil](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
+|Faktureringskontakt|Faktureringskontaktinformationen (förnamn, efternamn, primärt nummer) för CSP-kontot.  Uppdatera från [Faktureringsprofil](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
+|IO-nummer|Inköpsordernumret som visas på partnerfakturan.  Uppdatera från [Faktureringsprofil](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
+|Företagets skatte-ID|Företag i vissa länder kan ange [sitt momsregistreringsnummer eller lokal motsvarighet.](https://docs.microsoft.com/partner-center/organization-tax-info#submit-vat-id-number) Om du vill uppdatera ditt momsregistreringsnummer måste du vara global administratör, faktureringsadministratör eller administratörsagent.|
+|Faktureringsvaluta|Faktureringsvalutan för ditt CSP-konto bestäms av det juridiska landet för CSP-kontot.  Detta kan inte ändras när CSP-kontot har skapats.|
 
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Kontrol lera verifierings status](verification-responses.md)
+- [Kontrollera verifieringsstatusen](verification-responses.md)
 
 - [Hantera MPN-platser](manage-locations.md)

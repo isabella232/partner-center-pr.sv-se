@@ -9,19 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 1046d8afc8889461f75fb4c837d0e5af94c13e9f
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: 74dd5c2c9457961f07dd0dd8d5a6ead9047c5579
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018160"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855564"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Hur och när du ska begära en SLA-kredit (serviceavtal) från Microsoft
 
-**Lämpliga roller**
-
-- Administratörsagent
-- Global administratör
+**Lämpliga roller:** Administratörsagent | Global administratör
 
 Du kan begära **serviceavtalskrediter (SLA)** från Microsoft om en tjänst som du tillhandahåller för dina kunder har ett avbrott.
 
@@ -37,7 +34,7 @@ SLA-krediter från Microsoft bestäms baserat på vilka tjänster som har påver
 *CSP Molnlösningsleverantör partnern (CSP) måste skicka anspråket och all nödvändig information i slutet av kalendermånaden efter den månad då incidenten inträffade.* Om incidenten till exempel inträffade den 15 februari måste Microsoft ta emot anspråket och all nödvändig information senast den 31 mars. Slutanvändare och indirekta återförsäljare kan inte skicka anspråk på SLA-kredit; antingen den indirekta leverantören eller partnern med direktfakturering måste skicka anspråk för sin räkning.
 
 >[!NOTE]
->[Rådgivningsincidenter (Så här kontrollerar du Microsoft 365 servicehälsa)](https://docs.microsoft.com/microsoft-365/enterprise/view-service-health?&preserve-view=trueo365-worldwide#incidents-and-advisories)är inte berättigade till SLA-krediter.
+>[Rådgivningsincidenter (Så här kontrollerar Microsoft 365 servicehälsa)](https://docs.microsoft.com/microsoft-365/enterprise/view-service-health?&preserve-view=trueo365-worldwide#incidents-and-advisories)är inte berättigade till SLA-krediter.
 
 ### <a name="required-information"></a>Nödvändig information
 
@@ -61,7 +58,7 @@ Innan du [skickar en SLA-kreditbegäran](#submit-sla-credit-request) till Micros
 
 #### <a name="outage-incident-identifier"></a>Identifierare för avbrottsincident
 
-Du hittar identifieraren för avbrottsincidenten på **Service Health** i Administrationscenter för Microsoft 365. **Id:t för** avbrottsincidenten är ett tal som föregås av en förkortning med två bokstäver som anger den berörda tjänsten (till exempel *EX25194* för ett avbrott i Exchange Online). I följande tabell beskrivs vanliga förkortningar för tjänsten:
+Du hittar identifieraren för avbrottsincidenten på **Service Health** i Administrationscenter för Microsoft 365. **Id:t för** avbrottsincident är ett tal som föregås av en förkortning med två bokstäver som anger den berörda tjänsten (till exempel *EX25194* för ett avbrott i Exchange Online). I följande tabell beskrivs vanliga förkortningar för tjänsten:
 
 | Förkortning med två bokstäver | Microsoft-tjänst |
 | ----------------------- | ----------------- |
@@ -74,17 +71,17 @@ Du hittar identifieraren för avbrottsincidenten på **Service Health** i Admini
 | Ya | Yammer Enterprise |
 | MO | Portalfel |
 
-### <a name="submit-sla-credit-request"></a>Skicka en SLA-kreditbegäran
+### <a name="submit-sla-credit-request"></a>Skicka en begäran om SLA-kredit
 
 Så här skickar du din SLA-kreditbegäran till Microsoft via instrumentpanelen i Partnercenter:
 
 1. Logga in på instrumentpanelen i Partnercenter.
 2. I den vänstra menyn väljer du **Tjänstförfrågningar och** sedan **Partnersupportbegäranden.**
 3. På sidan **Partnerbegäran** väljer du **Ny begäran.**
-4. På sidan **Starta begäran hittar** du avsnittet **CSP – kunder, beställningar och prenumerationer**. I det här avsnittet väljer **du Välj en typ av problem** och sedan **Kreditförfrågningar för kundtjänster.**
+4. På sidan **Starta begäran hittar** du avsnittet **CSP – kunder, beställningar och prenumerationer**. I det här avsnittet väljer **du Välj en problemtyp** och sedan Customer services credit requests (Kreditförfrågningar **för kundtjänster).**
 5. På sidan **Rekommenderade lösningar,** under **Behöver du mer hjälp?** väljer du **Ja.**
-6. På sidan **Information** fyller du i **avsnittet Probleminformation.** I **textrutan** Information måste du ange den information som [du samlade](#required-information) in tidigare.
-7. Välj **Skicka** för att skicka i din SLA-kreditförfrågan.
+6. På sidan **Information** fyller du i **avsnittet Probleminformation.** I **textrutan** Information måste du ange den information som [du](#required-information) samlade in tidigare.
+7. Välj **Skicka** för att skicka i din SLA-kreditbegäran.
 
 ## <a name="next-steps"></a>Nästa steg
 

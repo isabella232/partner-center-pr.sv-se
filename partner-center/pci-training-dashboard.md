@@ -1,69 +1,66 @@
 ---
-title: Instrument panel för insikter
+title: Instrumentpanel för insights training
 ms.topic: article
 ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Utforska utbildnings instrument panelen för partner Center. Utbildning är en av de rapporter som är tillgängliga i PCI-ytan (partner Center Insights).
+description: Utforska instrumentpanelen Utbildning i Partnercenter. Utbildning är en av de rapporter som är tillgängliga i området Partner Center Insights (PCI).
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bad11a2f480aaa229708a3e9a108466a130b4127
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: e3beb1d051d2407229deebbb94b938a8f8b7218e
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086251"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854561"
 ---
-# <a name="trainings-dashboard"></a>Instrument panel för utbildning
+# <a name="trainings-dashboard"></a>Instrumentpanel för träningar
 
-**Lämpliga roller**
+**Lämpliga roller:** Användare av | Rapportvisningsprogram
 
-- Rapport visnings program för chefer
-- Rapport visnings program
-
-Instrument panelen för utbildning ger insikter om certifieringar, utvärderingar och undersökningar som tagits av företagets anställdas företag. Instrument panelen för utbildning innehåller följande avsnitt:
+Instrumentpanelen Utbildning ger insikter om certifieringar, utvärderingar och undersökningar som gjorts av företagets anställda. Instrumentpanelen Träningar innehåller följande avsnitt:
 
 - Sammanfattning
-- Inlärnings prestanda delas av certifieringar, utvärderingar, examina
-- Individer efter autentiseringsuppgifter som certifieringar, utvärderingar, examina
+- Träningsprestanda uppdelat efter certifieringar, utvärderingar och prov
+- Individer efter autentiseringsuppgifter som certifieringar, utvärderingar och prov
 - Aktivitetsinformation
 
 >[!NOTE] 
->Den här rapporten är tillgänglig under Insights-hubben i Partner Center. Om du vill visa den här rapporten ska du ha tilldelats rollen Report Viewer eller Executive Report Viewer. Några avsnitt i den här rapporten visas bara för användare som har rapport visnings program för chefer. Mer information om åtkomst kontroll för insikts rapporterna finns i [PCI-roller](pci-roles.md).
+>Den här rapporten är tillgänglig under Insights-hubben i Partnercenter. Om du vill visa den här rapporten bör du tilldelas rollen Rapportvisningsprogram eller Visningsprogram för rapporter. Få avsnitt i den här rapporten är bara synliga för användare som är användare av executive-rapporter. Mer information om åtkomstkontroll för Insights-rapporterna finns i [PCI-roller.](pci-roles.md)
 
 ## <a name="summary"></a>Sammanfattning
 
-I sammanfattnings avsnittet visas en numerisk ögonblicks bild av olika prestanda indikatorer relaterade till dina utbildningar. De olika prestanda indikatorerna är certifierade individer, certifieringar, individer med autentiseringsuppgifter för examen, autentiseringsuppgifter för examen, individer med bedömnings referenser och autentiseringsuppgifter för bedömning. Informationen i det här avsnittet uppdateras baserat på det valda datum intervallet, som kan vara tre månader (3M), sex månader (6 M) och 12 månader (1: a) eller ett anpassat data intervall (anpassat). 
+I sammanfattningsavsnittet visas en numerisk ögonblicksbild av olika prestandaindikatorer som är relaterade till dina träningar. De olika prestandaindikatorerna är certifierade individer, certifieringar, individer med provautentiseringsuppgifter, provautentiseringsuppgifter, individer med autentiseringsuppgifter för utvärdering och autentiseringsuppgifter för utvärdering. Data i det här avsnittet uppdateras baserat på det valda datumintervallet, som kan vara tre månader (3M), sex månader (6M) och 12 månader (1Y) eller ett anpassat dataintervall (anpassat). 
 
 :::image type="content" source="images/pci/td-summary.png" alt-text="Sammanfattning":::
 
-- **Personer med certifieringar**: representerar antalet distinkta individer med certifieringar i företaget.
-- **Antal certifieringar**: motsvarar det totala antalet certifieringar som tagits av enskilda personer i företaget.
-- **Individer med utvärderingar**: visar antalet distinkta individer med autentiseringsuppgifter för bedömning i företaget. 
-- **Antal utvärderingar**: motsvarar det totala antalet utvärderingar som har vidtagits av enskilda personer i företaget.
-- **Individer med undersökningar**: representerar antalet distinkta individer med autentiseringsuppgifter för avsökning i företaget. 
-- **Antal undersökningar**: motsvarar det totala antalet undersökningar som tagits av enskilda personer i företaget.
+- **Individer med certifieringar:** representerar antalet distinkta personer med certifieringar i ditt företag.
+- **Antal certifieringar:** representerar det totala antalet certifieringar som enskilda personer i företaget har tagit.
+- **Personer med utvärderingar:** representerar antalet distinkta personer med autentiseringsuppgifter för utvärdering i ditt företag. 
+- **Antal utvärderingar:** representerar det totala antalet utvärderingar som gjorts av enskilda personer i företaget.
+- **Individer med undersökningar:** representerar antalet distinkta individer med undersökningsautentiseringsuppgifter i företaget. 
+- **Antal undersökningar:** representerar det totala antalet undersökningar som har tagits av personer i företaget.
 
-## <a name="training-performance"></a>Utbildnings prestanda
+## <a name="training-performance"></a>Träningsprestanda
 
-I övnings prestandan presenteras månads Visa per månad för individer och de utbildningar som har utförts av personer i företaget. Den delas med certifieringar, utvärderingar och examina i form av ett diagram för det valda datum intervallet. X-axeln representerar månaderna för det valda datum intervallet. Y-axeln representerar det distinkta antalet individer och antalet utförda utbildningar, för den valda utbildnings typen. Välj respektive flik ovanför diagrammet för att Visa uppdelningen efter tränings typ. Diagram data kan hämtas via nedladdnings ikonen i. tsv-format för det valda datum intervallet.
+Träningsprestanda visar antalet individer under månaden och de utbildningar som har genomförts av individer i företaget. Den delas upp efter certifieringar, utvärderingar och prov i form av ett diagram för det valda datumintervallet. X-axeln representerar månaderna för det valda datumintervallet. Y-axeln representerar det distinkta antalet individer och antalet träningar som har vidtagits för den valda träningstypen. Välj respektive flikar ovanför diagrammet för att visa uppdelningen efter träningstyp. Diagramdata kan laddas ned via nedladdningsikonen i .tsv-format för det valda datumintervallet.
 
-:::image type="content" source="images/pci/td-training-performance.png" alt-text="Utbildnings prestanda":::
+:::image type="content" source="images/pci/td-training-performance.png" alt-text="Träningsprestanda":::
 
 ## <a name="individuals-performance"></a>Individers prestanda
 
-I avsnittet "prestanda" visas information om utbildning som tas av enskilda personer i företaget för det valda datum intervallet. Sök och välj en persons namn på den vänstra panelen i avsnittet. Tränings informationen för den valda personen visas på den högra panelen i avsnittet.
+Avsnittet Individers prestanda visar information om den utbildning som enskilda personer i företaget har tagit för det valda datumintervallet. Sök och välj en individs namn i den vänstra panelen i avsnittet. Träningsinformationen för den valda personen visas på den högra panelen i avsnittet.
 
-:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Indiviual prestanda":::
+:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Indelade prestanda":::
 
 >[!NOTE] 
-> Avsnittet individers prestanda är bara tillgängligt för användare som är rapport visnings program för chefer. 
+> Prestandaavsnittet Enskilda användare är endast tillgängligt för användare som är rapportanvändare. 
 
 ## <a name="next-steps"></a>Nästa steg
 
 [Rapporter i Partner Center Insights](partner-center-insights.md)
 
 >[!NOTE] 
-> Du kan ladda ned rå data från den här rapporten från avsnittet hämta rapporter på instrument panelen insikter. [Läs mer](pci-download-reports.md)
+> Du kan ladda ned rådata som driver den här rapporten från avsnittet Ladda ned rapporter på instrumentpanelen Insights. [Läs mer](pci-download-reports.md)

@@ -103,7 +103,7 @@
         - name: Vanliga frågor och svar om kompetenser
           href: competencies-faq.md
           displayName: 'renew, mpn'
-        - name: Avgifter för betalning av kompetens
+        - name: Betala avgifter för kompetens
           href: mpn-pay-fee-silver-gold-competency.md
           displayName: mpn
         - name: Undantag för apputvecklarkompetens
@@ -390,6 +390,8 @@
       href: modern-invoice-reconciliation-file.md
     - name: Effektiv enhetsprisberäkning
       href: effective-unit-price-calculation.md
+    - name: Tvingande kreditgräns
+      href: credit-limit-enforcement.md
     - name: Vanliga faktureringsscenarier
       href: common-billing-scenarios.md
       displayName: 'trial, subscription'
@@ -440,7 +442,7 @@
           displayName: 'region, regio'
         - name: Begär en SLA-kredit från Microsoft
           href: request-credit.md
-        - name: Så här påverkar skatteprinciper utbetalningen
+        - name: Hur skatteprinciper påverkar utbetalning
           href: tax-policies-affect-payout.md
     - name: Ange en Azure-utgiftsbudget för dina kunder
       href: set-an-azure-spending-budget-for-your-customers.md

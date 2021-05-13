@@ -1,94 +1,90 @@
 ---
-title: Partner Center-Portal begär Anden och diagnostikverktyg
+title: Partnercenter– portalförfrågningar och diagnostikverktyg
 ms.topic: how-to
 ms.date: 11/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Lär dig hur du rapporterar problem med partner Center och hur du samlar in diagnostisk information för partner support teamet.
+description: Lär dig hur du rapporterar problem med Partnercenter och hur du samlar in diagnostikinformation för partnersupportteamet.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b009d7131f9d6941513a04e866006d1908ba741
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 5d71d3efe10d38cfc0b5ce8dd60c3c51e2be9f1b
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441650"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855615"
 ---
-# <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Partner Center-Portal begär Anden och diagnostikverktyg
+# <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Partnercenter– portalförfrågningar och diagnostikverktyg
 
-**Gäller för**
+**Gäller för**: Partner Center-| Partnercenter för Microsoft Cloud for US Government
 
-- Välkommen till Partnercenter för Microsoft Cloud for US Government
+**Lämpliga roller:** Alla partner som är intresserade av Partnercenter
 
-**Lämpliga roller**
+Alla inloggade i Partnercenter-användare kan skapa en partnersupportbegäran. Användare kan bara visa supportbegäranden som de har skickat efter att ha loggat in på Partnercenter.
+Kontakta Partnercenter-supporten om du hittar problem eller behöver hjälp med fel i Partnercenter-portalen. Skicka diagnostik så att problemet kan åtgärdas snabbare.
 
-- Alla partner som är intresserade av Partner Center
+## <a name="report-a-problem-with-the-partner-center"></a>Rapportera ett problem med Partnercenter
 
-Alla inloggade Partner Center-användare kan skapa en support förfrågan för partner. Användare kan bara se support förfrågningar som de har skickat efter inloggning till Partner Center.
-Kontakta Partner Center-supporten om du hittar problem eller behöver hjälp med fel i Partner Center-portalen. Skicka diagnostik för att göra det möjligt att korrigera problemet snabbt.
+1. Från **instrumentpanelen i Partnercenter** väljer du **Support** och sedan **Partnersupportbegäranden.**
 
-## <a name="report-a-problem-with-the-partner-center"></a>Rapportera ett problem med partner Center
+2. Välj **Ny begäran** och sök sedan efter den typ av problem som bäst beskriver problemet. Välj typ av problem och **Granska lösningar.**
 
-1. Från instrument panelen för **partner Center** väljer du **support** och väljer sedan support **förfrågningar för partner**.
+3. På sidan **Rekommenderade lösningar** hittar du anvisningar eller relaterade dokument som kan hjälpa dig att lösa problemet.
 
-2. Välj **ny begäran** och Sök sedan efter den typ av problem som bäst beskriver problemet. Välj ärende typ och **Granska lösningar**.
+4. Om de **rekommenderade lösningarna** löste problemet kan du gå tillbaka **till instrumentpanelen**. Om du fortfarande behöver hjälp kan du fortsätta och **ange information om problemet.**
 
-3. Gå igenom sidan **rekommenderade lösningar** för steg eller relaterade dokument som kan hjälpa dig att lösa problemet.
+5. Slutför **probleminformationen och** skicka **sedan**. En partnersupportrepresentant följer upp med dig.
 
-4. Om de **rekommenderade lösningarna** löste problemet kan du välja **återgå till instrument panelen**. Om du fortfarande behöver hjälp kan du fortsätta och **Ange information om problemet**.
+## <a name="schedule-a-support-appointment"></a>Schemalägga en supporttid 
 
-5. Slutför **problem informationen** och **Skicka** sedan. En partner support ansvarig kommer att följa upp med dig.
+**För närvarande i förhandsversion*
 
-## <a name="schedule-a-support-appointment"></a>Schemalägg en support avtalad tid 
+Om ditt problem kräver en konversation med din support advocate kan du schemalägga den avtalade tiden från din biljettinformation.
 
-**För hands version*
+:::image type="content" source="images/support/ticket.png" alt-text="Schemalägg en avtalad supporttid":::
 
-Om ditt problem kräver en konversation med din support rådgivare kan du schemalägga en avtalad tid från din biljett information.
+1.  På sidan med ärendeinformation i Partnercenter väljer du ett tillgängligt datum och tid i supportens kalender. Du ser bara tillgängliga datum och tider i din lokala tidszon.
 
-:::image type="content" source="images/support/ticket.png" alt-text="Schemalägg en support avtalad tid":::
+:::image type="content" source="images/support/ticket2.png" alt-text="Schemalägg avtalad tid":::
 
-1.  På sidan biljett information i Partner Center väljer du ett tillgängligt datum och en tid på Supportens kalender. Du kommer bara att se tillgängliga datum och tider i din lokala tidszon.
+2. Partnercenter kontrollerar supportens kalender för tillgänglighet.
 
-:::image type="content" source="images/support/ticket2.png" alt-text="Schemalägg möte":::
-
-2. Partner Center söker efter tillgänglighet i support advokatens kalender.
-
-1. När du schemalägger en avtalad tid skickar Partner Center en kalender-inbjudan med information om hur support organisationen kommer att kontakta dig, så att du kan spåra den här avtalade tiden i din egen arbets kalender.  Även om den här funktionen fortfarande finns i förhands granskningen, är inbjudan till e-post och kalender på engelska, men rådgivaren kan stödja dig på det språk som du valde när du skapade din biljett.
+1. När du schemalägger en avtalad tid skickar Partner Center en kalenderinbjudan med information om hur supporten kontaktar dig, så att du kan spåra den här avtalade tiden i din egen arbets kalender.  Även om den här funktionen fortfarande är i förhandsversion kommer e-postmeddelandet och kalenderinbjudan att vara på engelska, men supporten kommer att kunna hjälpa dig på det språk som du valde när du skapade ditt ärende.
 
 :::image type="content" source="images/support/ticket3.png" alt-text="Datum och tid":::
 
-## <a name="hours-of-operation"></a>Drift timmar
+## <a name="hours-of-operation"></a>Antal drifttimmar
 
-**Support för partner**
+**Partnersupport**
 
-:::image type="content" source="images/support/hoop.png" alt-text="Support timmar för åtgärd":::
+:::image type="content" source="images/support/hoop.png" alt-text="Supporttimmar":::
 
 ## <a name="send-diagnostics"></a>Skicka diagnostik
 
-Om ett fel inträffar när du befinner dig på en partner Center-sida kan du uppmanas att samla in logg information. Välj **samla in mer information** från länken som visas längst upp på sidan för att öppna verktyget för klient diagnos. Det här verktyget samlar in information som Partnersupportteamet behöver för att fastställa orsaken till felet. 
+Om ett fel inträffar när du är på en Partnercenter-sida kan du uppmanas att samla in logginformation. Välj **Samla in mer information** från länken som visas längst upp på sidan för att öppna verktyget Klientdiagnostik. Det här verktyget samlar in information som Partnersupportteamet behöver för att fastställa orsaken till felet. 
 
 >[!NOTE]
->På Partner Center-sidor som innehåller **/PCV/** i URL: en kan du öppna verktyget manuellt för att samla in den här informationen.
+>På Partnercenter-sidor som **innehåller /pcv/** i URL:en kan du öppna verktyget manuellt för att samla in den här informationen.
 
 1. Gå till sidan med problemet.
 
-2. Tryck på **CTRL + ALT + D** för att öppna diagnostikverktyget för klient.
+2. Tryck **på Ctrl+Alt+D** för att öppna diagnostikverktyget för klienten.
 
-Du kan förhandsgranska diagnostikinformation och sedan spara den till en fil som du kan bifoga i din support förfrågan. Så här skickar du oss informationen:
+Du kan förhandsgranska diagnostikinformationen och sedan spara den i en fil som du kan bifoga i din supportbegäran. Så här skickar du informationen till oss:
 
-3. Granska informationen i filen innan du skickar den eftersom den kan innehålla personliga data som du kanske vill ta bort.
+3. Granska informationen i filen innan du skickar den eftersom den kan innehålla personuppgifter som du kanske vill ta bort.
 
     >[!NOTE]
-    >I vissa webbläsare kan **sid visnings** avsnittet längst ned på sidan **förhands granskning** vara tomt. Detta är OK.
+    >I vissa webbläsare kan **avsnittet Sidvisning** längst ned på förhandsgranskningssidan verka tomt.  Det här är ok.
 
-4. Spara filen genom att följa anvisningarna på skärmen.
+4. Följ anvisningarna på skärmen för att spara filen.
 
-5. Bifoga filen till din support förfrågan.
+5. Bifoga filen i din supportbegäran.
 
-Support för partner kan be dig att köra verktyget flera gånger så att de kan få den senaste informationen.
+Partnersupporten kan be dig att köra det här verktyget flera gånger så att de kan få den senaste informationen.
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Rapportera ett tjänst problem för en kunds räkning](report-problems-on-behalf-of-a-customer.md)
+- [Rapportera ett tjänstproblem åt en kund](report-problems-on-behalf-of-a-customer.md)

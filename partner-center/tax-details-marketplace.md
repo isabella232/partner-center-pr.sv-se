@@ -1,37 +1,35 @@
 ---
 title: Skatteinformation för Microsofts kommersiella marknadsplats
-description: Lär dig mer om skatteöverväganden för val av pris, utbetalningskonsekvenser och skatteansvar för dina länder/regioner för distribution.
+description: Lär dig mer om skatteöverväganden för prisval, utbetalningskonsekvenser och skatteansvar för dina länder/regioner i distributionen.
 ms.topic: conceptual
 ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/26/2021
-ms.openlocfilehash: b63d252dd4a33d6ef9053aa4f93089b615f02ee8
-ms.sourcegitcommit: f74b56dd296a53a144a1120f29106b08376a00d4
+ms.openlocfilehash: f96f765596024e2df5f1c9e2418ff331dbcd51eb
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108067488"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854816"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Skatteinformation för utgivare på kommersiell marknadsplats
 
-**Lämpliga roller**
+**Lämpliga roller:** Global administratör
 
-- Global administratör
-
-På den här sidan beskrivs skatteansvar och skatteöverväganden för kommersiella Marketplace-utgivare (utgivare) och utvecklare av konsumentmarknadsplatsen (utvecklare) i samband med slutköp av utgivar-/utvecklarprodukter som tillhör [Microsoft Azure Marketplace Publisher-avtalet](https://go.microsoft.com/fwlink/p/?LinkID=699560) respektive [Avtal för apputvecklare.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH)  Informationen nedan är utöver och är inte avsedd att ersätta villkoren i Microsoft Publisher-avtalet och Avtal för apputvecklare.  Om inget annat anges gäller informationen nedan både kommersiella marknadsplatsutgivare och utvecklare av konsumentmarknadsplatsen som gör sina produkter/erbjudanden tillgängliga för försäljning via Microsoft Marketplaces. 
+Den här sidan beskriver skatteansvar och skatteöverväganden för utgivare på den kommersiella marknadsplatsen (utgivare) och utvecklare av konsumentmarknadsplatsen (utvecklare) i samband med slutköp av utgivar-/utvecklarprodukter från [Microsoft Azure Marketplace Publisher-avtalet](https://go.microsoft.com/fwlink/p/?LinkID=699560) respektive [Avtal för apputvecklare.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH)  Informationen nedan är utöver, och är inte avsedd att ersätta, villkoren i Microsoft Publisher-avtalet och Avtal för apputvecklare.  Om inget annat anges gäller informationen nedan för både Commercial Marketplace Publishers och Consumer Marketplace-utvecklare som gör sina produkter/erbjudanden tillgängliga för försäljning via Microsoft Marketplaces. 
 
 ## <a name="end-customer-taxation"></a>Slutkundsskatt
 
-Vart och ett av Microsofts och utgivares/utvecklares ansvar för försäljning, användning, varor och tjänster, mervärdesskatter eller liknande skatter, om sådana finns, på slutkundsförsäljning(slutkundsförsäljning) beror på i vilket land utgivare/utvecklare väljer att göra produkter/erbjudanden tillgängliga för försäljning till slutkunder via Microsoft Marketplace/s. I tabellen nedan anges omständigheter och ansvar för slutkundberättigade i länder där försäljning är berättigad via Microsoft Marketplace.s.  Informationen nedan kan komma att ändras och utgivare/utvecklare ansvarar för att granska den här sidan för aktuell, korrekt information.
+Vart och ett av Microsofts och utgivares/utvecklares ansvar för försäljning, användning, varor och tjänster, mervärdesskatter eller liknande skatter, om sådana finns, på slutkundsförsäljning(slutkundsförsäljning) beror på i vilket land utgivare/utvecklare väljer att göra produkter/erbjudanden tillgängliga för försäljning till slutkunder via Microsoft Marketplace/s. I tabellen nedan anges omständigheter och ansvar för slutkundsbeskattning i länder med säljberättigande via Microsoft Marketplace/s.  Informationen nedan kan komma att ändras och utgivare/utvecklare ansvarar för att granska den här sidan för aktuell, korrekt information.
 
-I **utgivar-/utvecklar-hanterade** länder fungerar Microsoft som agent eller provision (efter tillämpligt) utgivare/utvecklare. Utgivare/utvecklare bekräftar och godkänner att utgivare/utvecklare har ensamt ansvar för att fastställa all efterlevnad som krävs för och att hantera slutkundens skattestatus, inklusive men inte begränsat till registrering, skatteberäkning, skatteinsamling, skatteinsamling, validering av affärsstatus för kunder och att tillhandahålla skattefakturor till kunder. Utgivare/utvecklare bekräftar att Microsoft för närvarande inte kan tillhandahålla den transaktionsinformation som krävs för att utgivare/utvecklare ska kunna ge kunder skattefakturor för all försäljning i ett utgivar-/utvecklar-hanterat land. 
+I **utgivar-/utvecklar-hanterade** länder fungerar Microsoft som agent eller provisioner (i tillämpliga fall) för utgivare/utvecklare. Utgivare/utvecklare godkänner och godkänner att utgivare/utvecklare har det enda ansvaret för att fastställa all efterlevnad som krävs för och hantera slutanvändaransvaret, inklusive men inte begränsat till registrering, skatteberäkning, skatteinsamling, skatteöverföring, validering av kundstatus och att tillhandahålla fakturor till kunder. Utgivare/utvecklare bekräftar att Microsoft för närvarande inte kan tillhandahålla de transaktionsuppgifter som krävs för att utgivare/utvecklare ska kunna ge kunder skattefakturor vid all försäljning i ett utgivar-/utvecklarland. 
 
-I **Microsoft-hanterade** länder fungerar Microsoft som agent för utgivaren/utvecklaren. Microsoft ansvarar för att hantera slutkundsskatter, inklusive beräkning, insamling och/eller betalning av vissa skatter. För den kommersiella marknadsplatsen kan detta även omfatta validering av slutkunders affärsstatus genom att erhålla skatteregistreringsnummer eller undantagscertifikat. Microsoft hanterar slutkundskattning antingen via lokala dotterbolag eller fjärranslutna samarbetspartners som är registrerade lokalt. Microsoft-fakturor under Microsofts registreringsnummer. Microsoft inkluderar alla skatter som samlas in från slutkunder på Microsofts deklarationen.
+I **Microsoft-hanterade** länder fungerar Microsoft som utgivarens/utvecklarens agent. Microsoft ansvarar för att hantera slutkundskatter, inklusive att beräkna, samla in och/eller överföra vissa skatter. För Den kommersiella marknadsplatsen kan detta även omfatta validering av affärsstatus för slutkunder genom att erhålla skatteregistreringsnummer eller undantagscertifikat. Microsoft hanterar slutanvändarskattning via lokala samarbetspartners eller fjärranslutna dotterbolag som är registrerade lokalt. Microsoft-fakturor under Microsofts registreringsnummer. Microsoft inkluderar alla skatter som samlas in från slutkunder på Microsofts skattedeklaration.
 
-Microsoft garanterar inte att Microsofts åtgärder helt uppfyller utgivares/utvecklares skyldigheter i Microsoft-hanterade länder.  För alla Microsoft-hanterade länder rekommenderar Microsoft starkt utgivare/utvecklare att arbeta med sina egna skatterådgivare för att fastställa om Microsoft-hanterade skatteöverföringar tillräckligt uppfyller utgivares/utvecklares efterlevnadskrav. Detta är särskilt viktigt för alla Microsoft-hanterade länder som utgivare/utvecklare säljer sina produkter/erbjudanden från.  Microsoft fungerar som agent för utgivare/utvecklare i Microsoft-hanterade länder.
+Microsoft garanterar inte att Microsofts åtgärder helt uppfyller utgivares/utvecklares skyldigheter i Microsoft-hanterade länder.  För alla Microsoft-hanterade länder rekommenderar Microsoft starkt utgivare/utvecklare att arbeta med sina egna skatterådgivare för att fastställa om Microsoft-hanterad skatteöverföring är tillräckligt för att uppfylla utgivares/utvecklares efterlevnadskrav. Detta är särskilt viktigt för alla Microsoft-hanterade länder som utgivare/utvecklare säljer sina produkter/erbjudanden från.  Microsoft fungerar som utgivare/utvecklare i Microsoft-hanterade länder.
 
-I **återförsäljar länder** fungerar Microsoft som återförsäljare i stället för utgivare/utvecklares agent för att göra utgivar-/utvecklarprodukter/-erbjudanden tillgängliga för försäljning till slutanvändare via Microsoft Marketplace/s.  Utgivare/utvecklare ansvarar för försäljning, användning, varor och tjänster, mervärde eller liknande skatter, om sådana finns, vid försäljning av produkter/erbjudanden till Microsoft och Microsoft ansvarar för all slutkundsskatt vid omförsäljning till slutkunder.
+I **återförsäljar länder** fungerar Microsoft som återförsäljare i stället för utgivare/utvecklares agent för att göra produkter/erbjudanden för utgivare/utvecklare tillgängliga för försäljning till slutkunder via Microsoft Marketplace/s.  Utgivare/utvecklare ansvarar för försäljning, användning, varor och tjänster, mervärdesskatter eller liknande skatter, om sådana finns, vid försäljning av produkter/erbjudanden till Microsoft och Microsoft ansvarar för all slutkundsskatt på återförsäljningen till slutkunder.
 
 
 ### <a name="publisherdeveloper-managed-countries"></a>Utgivar-/utvecklar-hanterade länder: 
@@ -45,7 +43,7 @@ I **återförsäljar länder** fungerar Microsoft som återförsäljare i ställ
 |Amerikanska Samoa|Curacao|Kiribati|Vatikanstaten|
 |Andorra|Düüüti|Kuwait|Venezuela|
 |Angola|Dominica|Kirgizistan|Vietnam|
-|Anguilla|Dominikanska republiken|Laos|Wallis & Spanuna|
+|Anguilla|Dominikanska republiken|Laos|Wallis & Una|
 |Antarktis|Ecuador|Libanon|Jemen|
 |Antigua & Barbuda|Egypten|Lesotho|Zambia|
 |Aruba|El Salvador|Liberia|Uruguay|
@@ -58,7 +56,7 @@ I **återförsäljar länder** fungerar Microsoft som återförsäljare i ställ
 |Bhutan|Gabon|Marshallöarna|
 |Bolivia|Ghana|Martinque|
 |Bonaire|Georgia|Mauretanien|
-|Det här är & kvinna|Gibraltar|Mauritius|
+|På vilket sätt & På så sätt?|Gibraltar|Mauritius|
 |Botswana|Grönland|Ma Ote|
 |Bouvetön|Grenada|Mikronesien|
 |Brittiska Jungfruöarna|Guadeloupe|Moldavien
@@ -93,68 +91,68 @@ I **återförsäljar länder** fungerar Microsoft som återförsäljare i ställ
 |Cypern|Italien|Rumänien|Turkiet|
 Tjeckien|Lettland|Ryssland|UAE|
 |Danmark|Liechtenstein|Saudiarabien|Storbritannien|
-|Estland|Litauen|Serbien|USA inklusive Puerto Puerto|
+|Estland|Litauen|Serbien|USA, inklusive Kant|
 
 
-### <a name="end-customer-taxation-with-differences-in-marketplace"></a>Slutkundsskatter med skillnader på marknadsplatsen
+### <a name="end-customer-taxation-with-differences-in-marketplace"></a>Slutanvändarskatt med skillnader på marknadsplatsen
 
 |**Land**|**Kommersiell marknadsplats (Azure Marketplace & AppSource)**| **Konsumentmarknadsplatsen (Microsoft Store)**|
 |------------------|:-----------------|:---------------|
 |Brasilien|Återförsäljare utom: Utgivare som hanteras för inköp som görs via CSP-kundinköpsscenario|Hanteras av utvecklare förutom: Återförsäljare för inköp som görs via enheter som körs på Windows 10|
 |Mexico|Microsoft-hanterad förutom: Återförsäljare för inköp via scenariot för kundköp med Enterprise-avtal|Microsoft-hanterad|
 |Australien|Microsoft-hanterad förutom: Återförsäljare för inköp via scenariot för kundköp med Enterprise-avtal|Microsoft-hanterad|
-Kina|Marketplace är inte aktiverat|Återförsäljare aktiverad förutom: utvecklare som hanteras för mobila kommunikationsenheter som kör Windows Phone 7.x och på persondatorer som kör Windows 8.x|
+Kina|Marketplace är inte aktiverat|Återförsäljare aktiverad förutom: utvecklaren hanteras för mobila kommunikationsenheter som kör Windows Phone 7.x och på persondatorer som kör Windows 8.x|
 |Bahrain|Hanterad utgivare|Microsoft-hanterad|
 |Oman|Hanterad utgivare|Microsoft-hanterad|
 
 
 ## <a name="tax-considerations-on-payouts"></a>Skatteöverväganden för utbetalning
 
-I utgivar-/utvecklar-hanterade länder är Microsofts utbetalning till utgivare/utvecklare netto från butiksavgiften och eventuella tillämpliga skatter, som kan omfatta något av följande: källskatt och försäljning, användning, varor och tjänster, mervärde eller liknande skatter på butiksavgiften.
+I utgivare/utvecklare-hanterade länder är Microsofts utbetalning till utgivare/utvecklare netto från butiksavgiften och eventuella tillämpliga skatter som kan omfatta något av följande: källskatt och försäljning, användning, varor och tjänster, mervärde eller liknande skatter på butiksavgiften.
 
-I tillämpliga Microsoft-hanterade länder och återförsäljare är Microsofts utbetalning till utgivare/utvecklare netto från butiksavgiften och eventuella tillämpliga skatter, som kan innehålla något av följande: Slutkundskatt, källskatt och försäljning, användning, varor och tjänster, mervärdes- eller liknande skatter på butiksavgiften. De [rapporter](payout-statement.md) som Microsoft gör tillgängliga för utgivare/utvecklare identifierar beloppet för dessa skatter. 
+I tillämpliga Microsoft-hanterade länder och återförsäljare är Microsofts utbetalning till utgivare/utvecklare netto från butiksavgiften och eventuella tillämpliga skatter som kan innehålla något av följande: Slutkundskatt, källskatt och försäljning, användning, varor och tjänster, mervärdesskatt eller liknande skatter på butiksavgiften. De [rapporter](payout-statement.md) som Microsoft gör tillgängliga för utgivare/utvecklare identifierar beloppet för dessa skatter. 
 
-Microsoft samlar in skatt på butiksavgifter i följande länder där utgivare/utvecklare väljer att göra produkter/erbjudanden tillgängliga för försäljning till slutanvändare via Microsoft Marketplace:
+Microsoft samlar in skatt på butiksavgifter i följande länder där utgivare/utvecklare väljer att göra produkter/erbjudanden tillgängliga för försäljning till slutkunder via Microsoft Marketplace/s):
 
 |**Land**|**Kommersiell marknadsplats**|**Marketplace för konsumenter**|
 |----------------|-----------------------------|-----------------------|
-|Australien|Skatt på serviceavgift|Skatt på serviceavgift|
-|Kanada|Skatt på serviceavgift|Skatt på serviceavgift|
-|Mexico|Ej tillämpligt|Skatt på serviceavgifter|
-|Nya Zeeland|Skatt på serviceavgift|Skatt på serviceavgift|
-|Singapore|Skatt på serviceavgift|Skatt på serviceavgift|
+|Australien|Skatt på tjänstavgift|Skatt på tjänstavgift|
+|Kanada|Skatt på tjänstavgift|Skatt på tjänstavgift|
+|Mexico|Ej tillämpligt|Skatt på tjänstavgift|
+|Nya Zeeland|Skatt på tjänstavgift|Skatt på tjänstavgift|
+|Singapore|Skatt på tjänstavgift|Skatt på tjänstavgift|
 
 ## <a name="commercial-marketplace-payout-scenarios"></a>Utbetalningsscenarier på den kommersiella marknadsplatsen
 
 ### <a name="end-customer-taxation"></a>Slutkundsskatt
 
-- Scenario ett: Kund i ett utgivar-hanterat erbjudande för inköp i ett land
+- Scenario ett: Kund i ett inköpserbjudande som hanteras av utgivare
 
-  :::image type="content" source="images/tax/scenario-one.png" alt-text="Diagram som visar hur utgivare betalar.":::
+  :::image type="content" source="images/tax/scenario-one.png" alt-text="Diagram som visar hur utgivaren betalar.":::
 
-- Scenario två: Kund i ett Microsoft-hanterat land med inköpserbjudande (utgivarland irrelevant)
+- Scenario två: Kund i ett Microsoft-hanterat land – inköpserbjudande (utgivarens land är irrelevant)
 
   :::image type="content" source="images/tax/scenario-two.png" alt-text="Diagram som visar skatte in Microsoft-hanterat land":::
 
-- Scenario tre: En utgivare gör en försäljning över gränserna till en registrerad kund i EU-moms i ett Microsoft-hanterat land
+- Scenario tre: Den externa utgivaren gör en försäljning över gränserna till en registrerad kund som är registrerad i EU-moms i ett Microsoft-hanterat land
 
-  :::image type="content" source="images/tax/scenario-three.png" alt-text="Diagram som visar hur eu-moms påverkar skatt"::: 
+  :::image type="content" source="images/tax/scenario-three.png" alt-text="Diagram som visar hur EU-moms påverkar skatt"::: 
 
-- Scenario fyra: Utgivaren gör en nationell försäljning till en kund i ett Microsoft-hanterat land eller en icke-nationell försäljning till en kund i Schweiz
+- Scenario fyra: En utgivare gör en nationell försäljning till en kund i ett Microsoft-hanterat land eller en icke-nationell försäljning till en kund i Schweiz
 
   :::image type="content" source="images/tax/scenario-four.png" alt-text="Diagram som visar hur momsen hanteras":::
 
-- Scenario fem: Kunder i ett Microsoft-hanterat land där det finns skatt på Store-tjänstavgifter
+- Scenario fem: Kunder i ett Microsoft-hanterat land erbjuder inköp där det finns skatt på butikstjänstavgiften
 
-  :::image type="content" source="images/tax/scenario-five.png" alt-text="Diagram som visar hur avgifter för butikstjänst påverkar skatt":::
+  :::image type="content" source="images/tax/scenario-five.png" alt-text="Diagram som visar hur butikstjänstavgiften påverkar skatt":::
 
 ### <a name="withholding-tax"></a>Källskatt
 
-- Scenario ett: Den externa utgivaren (utan tillämpliga skatteförmåner i skatteprofilen) gör en försäljning till en amerikansk kund. 
+- Scenario ett: En annan utgivare (utan tillämpliga skatteförmåner i skatteprofilen) säljer till en amerikansk kund. 
 
-  :::image type="content" source="images/tax/withholding-one.png" alt-text="Diagram som visar källskatt utan skatteuppskattning":::
+  :::image type="content" source="images/tax/withholding-one.png" alt-text="Diagram som visar källskatt utan moms":::
 
-- Scenario två: En annan utgivare (med tillämpliga skatteförmåner i skatteprofilen till noll procent) med en skatteförsening säljer till en amerikansk kund. 
+- Scenario två: En annan utgivare (med tillämpliga skatteförmåner i skatteprofilen till noll procent) med ett skattetillägg säljer till en amerikansk kund. 
 
   :::image type="content" source="images/tax/withholding-two.png" alt-text="Diagram som visar källskatt med skatteuppskattning":::
 

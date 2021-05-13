@@ -1,5 +1,5 @@
 ---
-title: Enterprise Mobility + Security användnings rapport för partner Center Insights
+title: Partner Center Insights Enterprise Mobility + Security användningsrapport
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
@@ -8,81 +8,76 @@ description: Se vad du gör bra och var du kan förbättra användningen av Ente
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: c62e074c7329ada33390b77be13c523660344d49
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 8b0784e2d81b4483eb374120be2411729d922a47
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086285"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854629"
 ---
-# <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security användnings rapport som är tillgänglig från Partner Center Insights-instrumentpanelen
+# <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security användningsrapport som är tillgänglig från instrumentpanelen i Partnercenter Insights
 
-**Lämpliga roller**
+**Lämpliga roller:** Global | Administratörsagent | Rapportvisningsprogram | Rapportvisningsprogram för chefer
 
-- Global administratör
-- Administratörs agent
-- Rapport visnings program
-- Rapport visnings program för chefer
-
-Enterprise Mobility + Security användnings rapporten innehåller användnings data för de Enterprise Mobility + Security prenumerationer som du sålde eller hanterar för dina kunder. Du kan visa följande avsnitt från rapporten Enterprise Mobility + Security användning.
+Rapporten Enterprise Mobility + Security användning innehåller användningsdata för de Enterprise Mobility + Security prenumerationer som du har sålt eller hanterar för dina kunder. Du kan visa följande avsnitt från Enterprise Mobility + Security användningsrapport.
 
 - Sammanfattning
-- Enterprise Mobility + Security användning efter geografi
-- Enterprise Mobility + Security användning per SKU
-- Prenumerations prestanda
-- Enterprise Mobility + Security användnings distribution
+- Enterprise Mobility + Security användning per geografiskt område
+- Enterprise Mobility + Security användning efter SKU
+- Prenumerationsprestanda
+- Enterprise Mobility + Security användningsdistribution
 
  > [!NOTE]
- > Den här rapporten är tillgänglig från insikts instrument panelen. Om du vill visa den här rapporten måste du ha tilldelats en speciell roll i Partner Center, till exempel global administratör, konto administratör, rapport visnings program eller Executive Report Viewer. Mer information finns i företagets globala administratör. vissa typer av data i den här rapporten kan också endast vara tillgängliga för användare med behörigheten Executive Report Viewer.
+ > Den här rapporten är tillgänglig från instrumentpanelen Insights. Om du vill visa den här rapporten måste du ha tilldelats en viss roll i Partnercenter, till exempel Global administratör, Kontoadministratör, Rapportvisningsprogram eller Visningsprogram för verkställande rapporter. Mer information finns i företagets globala administratör. Specifika typer av data i den här rapporten kan också vara tillgängliga endast för användare med privilegier i visningsprogrammet för verkställande rapporter.
 
 ## <a name="summary"></a>Sammanfattning
 
-Avsnittet Sammanfattning visar en ögonblicks bild av de viktigaste indikatorerna för Enterprise Mobility + Security användnings prenumerationer som du har sålt eller hanterat för dina kunder. 
+I sammanfattningsavsnittet visas en ögonblicksbild av kpi:erna relaterade Enterprise Mobility + Security användningsprenumerationer som du har sålt eller hanterar åt dina kunder. 
 
-- Nya prenumerationer: totalt antal prenumerationer som sålts eller hanterats under den valda tids perioden.
+- Nya prenumerationer: Totalt antal sålda eller hanterade prenumerationer under den valda tidsramen.
 
-   Micro-diagrammet presenterar en månads månads trend för en ny prenumeration för det valda datum intervallet.
+   Micro-diagrammet visar en trend för månad över månad för den nya prenumerationen för det valda datumintervallet.
 
-- Tillgängliga platser: totalt antal sålda licenser under den valda tids perioden.
+- Tillgängliga platser: Totalt antal sålda licenser under den valda tidsramen.
 
-   Micro-diagrammet presenterar en månads månads trend för antalet tillgängliga platser under det valda datum intervallet.
+   Micro-diagrammet visar en trend för månad över månad över antalet tillgängliga platser under det valda datumintervallet.
 
-- Månatlig aktiv användning: antalet licenser som användes under föregående månad.
+- Månatlig aktiv användning: Antalet licenser som användes under föregående månad.
 
-   Micro-diagrammet presenterar en månatlig trend för de licenser som använts under den valda tids perioden.
+   Mikrodiagrammet visar en månatlig trend för licenser som används under den valda tidsperioden.
 
-:::image type="content" source="images/pci/pci-ems-usage-summary.png" alt-text="Översikt över EMS-användning":::
+:::image type="content" source="images/pci/pci-ems-usage-summary.png" alt-text="Sammanfattning av EMS-användning":::
 
-## <a name="enterprise-mobility--security-usage-by-geography"></a>Enterprise Mobility + Security användning efter geografi
+## <a name="enterprise-mobility--security-usage-by-geography"></a>Enterprise Mobility + Security användning per geografiskt område
 
-**Enterprise Mobility + Security användning per geografi** visar distributionen av månatliga aktiva användare (MAU) och betalda tillgängliga enheter (Pau) av kund land. MAU refererar till antalet licenser som använts under föregående månad och PAU refererar till antalet betalda platser som säljs eller hanteras under den valda tids ramen. Ljusare färger på kartan representerar lägre värden, medan mörkare färger representerar högre värden. Du kan söka efter och välja ett land i rutnätet. Du kan också zooma in för att se en närmare titt.
+I **Enterprise Mobility + Security användning** per geografisk plats visas fördelningen av månatliga aktiva användare (MAU) och betalda tillgängliga enheter (PAU) efter kundland. MAU avser antalet licenser som använts under föregående månad och PAU avser antalet sålda eller hanterade betalplatser under den valda tidsramen. Ljusare färger på kartan representerar lägre värden, medan mörkare färger representerar högre värden. Du kan söka efter och välja ett land i rutnätet. Du kan också zooma in för en närmare titt.
 
-Tabellen **land/region** visar det totala antalet länder/regioner där Azures användnings händelser genereras.
+I **tabellen Antal länder/regioner** visas det totala antalet länder/regioner där Azure-användningshändelser genereras.
 
-Du kan söka efter och välja ett land i rutnätet för att zooma till platsen i kartan. Välj alternativet **Start** på kartan för att återgå till den ursprungliga vyn.
+Du kan söka efter och välja ett land i rutnätet för att zooma till platsen på kartan. Välj alternativet **Start** på kartan för att återgå till den ursprungliga vyn.
 
-:::image type="content" source="images/pci/pci-ems-usage-geography.png" alt-text="EMS-användning efter geografi":::
+:::image type="content" source="images/pci/pci-ems-usage-geography.png" alt-text="EMS-användning efter geografiskt område":::
 
 ## <a name="enterprise-mobility--security-usage-by-sku"></a>Enterprise Mobility + Security användning per SKU
 
-I Enterprise Mobility + Security användningen av SKU visas månads fördelningen av MAU och PAU med SKU: er.
+Den Enterprise Mobility + Security användning per SKU visar månatlig uppdelning av MAU och PAU efter SKU:er.
 
-:::image type="content" source="images/pci/pci-ems-usage-sku.png" alt-text="EMS-användning med SKU":::
+:::image type="content" source="images/pci/pci-ems-usage-sku.png" alt-text="EMS-användning efter SKU":::
 
-## <a name="subscriptions-performance"></a>Prenumerations prestanda
+## <a name="subscriptions-performance"></a>Prenumerationsprestanda
 
-Prenumerations prestandan visar nedbrytning av MAU och PAU med SKU: er per kund prenumeration. Data för de främsta 100 kunderna med fakturerad intäkt visas i tabellen och du kan söka efter en kund eller ladda ned rå data för att visa information om alla kunder.
+Prenumerationsprestanda visar uppdelning av MAU och PAU efter SKU:er per kundprenumeration. Data för de 100 främsta kunderna efter fakturerade intäkter visas i tabellen och du kan söka efter valfri kund eller ladda ned rådata för att visa information för alla kunder.
 
 :::image type="content" source="images/pci/pci-ems-usage-subscription.png" alt-text="Prestanda för EMS-prenumeration":::
 
-## <a name="enterprise-mobility--security-usage-distribution"></a>Enterprise Mobility + Security användnings distribution
+## <a name="enterprise-mobility--security-usage-distribution"></a>Enterprise Mobility + Security användningsdistribution
 
-Enterprise Mobility + Security användnings fördelningen illustrerar fördelningen av PAU och prenumerationer efter SKU: er.
+Den Enterprise Mobility + Security användningsdistributionen visar uppdelningen av PAU och prenumerationer efter SKU:er.
 
 :::image type="content" source="images/pci/pci-ems-usage-distribution.png" alt-text="Distribution av EMS-användning":::
 
 ## <a name="next-steps"></a>Nästa steg
 
-- Mer information finns i [partner Center Insights](partner-center-insights.md).
+- Fler rapporter finns i [Partner Center Insights.](partner-center-insights.md)
 
-- Du kan ladda ned rå data från den här rapporten från avsnittet hämta rapporter på instrument panelen insikter. [Läs mer](pci-download-reports.md) 
+- Du kan ladda ned rådata som driver den här rapporten från avsnittet Ladda ned rapporter på instrumentpanelen Insights. [Läs mer](pci-download-reports.md) 

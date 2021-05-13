@@ -1,75 +1,70 @@
 ---
-title: Användnings rapport för partner Center Insights-team
+title: Användningsrapport för partnercenterinsiktsteam
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Se vad du gör bra och var du kan förbättra användningen av team prenumerationer som du säljer eller hanterar för dina kunder.
+description: Se vad du gör bra och var du kan förbättra användningen av Teams-prenumerationer som du säljer eller hanterar för dina kunder.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 2292e9640224a2bdf333cb8ddb0e2245f34564e9
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: c4bf8a3aa0365b30d7de56cb599e3db087cb4c05
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086727"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855190"
 ---
-# <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Team användnings rapport som är tillgänglig från Partner Center Insights-instrumentpanelen
+# <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Teams-användningsrapport som är tillgänglig från instrumentpanelen i Partnercenter Insights
 
-**Lämpliga roller**
+**Lämpliga roller:** Global | Administratörsagent | Rapportvisningsprogram | Rapportvisningsprogram för chefer
 
-- Global administratör
-- Administratörs agent
-- Rapport visnings program
-- Rapport visnings program för chefer
-
-Användnings rapporten team innehåller mått som rör dina team arbets belastningar som du har sålt eller hanterat för dina kunder. Du kan visa följande avsnitt från rapporten användnings grupper.
+Rapporten Teams-användning visar mått som rör dina Teams-arbetsbelastningar som du har sålt eller hanterar åt dina kunder. Du kan visa följande avsnitt från teams-användningsrapporten.
 
 - Sammanfattning
-- Konversations trend
-- Team användning per arbets belastning
-- Främsta kunder efter användning
+- Konversationstrend
+- Teams-användning efter arbetsbelastningar
+- De främsta kunderna efter användning
 
  > [!NOTE]
- > Den här rapporten är tillgänglig från insikts instrument panelen. Om du vill visa den här rapporten måste du ha tilldelats en speciell roll i Partner Center, till exempel global administratör, konto administratör, rapport visnings program eller Executive Report Viewer. Mer information finns i företagets globala administratör. vissa typer av data i den här rapporten kan också endast vara tillgängliga för användare med behörigheten Executive Report Viewer.
+ > Den här rapporten är tillgänglig från instrumentpanelen Insights. Om du vill visa den här rapporten måste du ha tilldelats en viss roll i Partnercenter, till exempel Global administratör, Kontoadministratör, Rapportvisningsprogram eller Visningsprogram för verkställande rapporter. Mer information finns i företagets globala administratör. Specifika typer av data i den här rapporten kan också vara tillgängliga endast för användare med privilegier i visningsprogrammet för verkställande rapporter.
 
 ## <a name="summary"></a>Sammanfattning
 
-I sammanfattnings avsnittet visas en ögonblicks bild av de viktigaste indikatorerna för arbets belastningar i team som säljs eller hanteras av dig för dina kunder.  
+I sammanfattningsavsnittet visas en ögonblicksbild av de kpi:er som är relaterade till Teams-arbetsbelastningar som säljs eller hanteras av dig åt dina kunder.  
 
-- Kunder: distinkt antal kunder som använder team som arbets belastning för den valda varaktigheten.
+- Kunder: Distinkt antal kunder som använder Teams som en arbetsbelastning under den valda varaktigheten.
 
-- Antal möten: antalet team möten som utförs av dina kunder.
+- Antal möten: Antal Teams-möten som utförs av dina kunder.
 
-- Dagligt Genomsnittligt antal möten per kund: Genomsnittligt antal möten per kund. 
+- Dagligt genomsnittligt mötesantal per kund: Dagligt genomsnittligt antal möten per kund. 
 
-- Mötets varaktighet (timmar): total mötets varaktighet i timmar. 
+- Mötesvaraktighet (timmar): Total varaktighet för möte i timmar. 
 
-- Genomsnittligt Mötes tid (minuter): Genomsnittligt Mötes tid i minuter. 
+- Genomsnittlig mötesvaraktighet (minuter): Genomsnittlig mötesvaraktighet i minuter. 
 
-:::image type="content" source="images/pci/pci-teams-usage-summary.png" alt-text="Sammanfattning av team användning":::
+:::image type="content" source="images/pci/pci-teams-usage-summary.png" alt-text="Sammanfattning av Teams-användning":::
 
-## <a name="conversations-trend"></a>Konversations trend
+## <a name="conversations-trend"></a>Konversationstrend
 
-I trend rapporten konversationer visas månads trenden för team möten, samtal och telefon system tillsammans med genomsnittlig Mötes tid i minuter.
+Trendrapporten Konversationer visar den månatliga trenden för Teams möten, samtal och telefonsystem tillsammans med genomsnittlig mötesvaraktighet i minuter.
 
-:::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="trender för team användnings konversationer":::
+:::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="teams-användningskonversationstrender":::
 
-## <a name="teams-usage-by-workloads"></a>Team användning per arbets belastning
+## <a name="teams-usage-by-workloads"></a>Teams-användning efter arbetsbelastningar
 
-I rapporten team användning per arbets belastning visas den månatliga delningen av Skriv bords-, mobil-och webb användare för team som delas av arbets belastningar.
+Rapporten Teams-användning efter arbetsbelastningar visar den månatliga uppdelningen av användare på datorer, mobila enheter och webben i Teams uppdelade efter arbetsbelastningar.
 
-:::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="Team användning per arbets belastning":::
+:::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="Teams-användning efter arbetsbelastningar":::
 
-## <a name="top-customers-by-usage"></a>Främsta kunder efter användning
+## <a name="top-customers-by-usage"></a>De främsta kunderna efter användning
 
-Rapporten främsta kunder per användning visar användningen av främsta kunder för team möten, samtal och telefon system och appar från tredje part.
+Rapporten Främsta kunder efter användning visar användningen av de främsta kunderna för Teams-möten, samtal, telefonsystem och appar från tredje part.
 
-:::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="Främsta kunder efter användning":::
+:::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="De främsta kunderna efter användning":::
 
 ## <a name="next-steps"></a>Nästa steg
 
-- Mer information finns i [partner Center Insights](partner-center-insights.md).
+- Fler rapporter finns i [Partner Center Insights.](partner-center-insights.md)
 
-- Du kan ladda ned rå data från den här rapporten från avsnittet hämta rapporter på instrument panelen insikter. [Läs mer](pci-download-reports.md) 
+- Du kan ladda ned rådata som driver den här rapporten från avsnittet Ladda ned rapporter på instrumentpanelen Insights. [Läs mer](pci-download-reports.md) 

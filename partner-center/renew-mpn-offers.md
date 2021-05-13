@@ -4,23 +4,21 @@ ms.topic: article
 ms.date: 02/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Förnya Microsoft Partner Network (MPN) för kompetenser och avancerade specialiseringar – förnyelsefönstret börjar på årsdagen för inköpet plus en dag.
+description: Förnya Microsoft Partner Network (MPN) för kompetenser och avancerade specialiseringar – förnyelsefönstret börjar årsdagen för inköpsdatum plus en dag.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 779f785899039765ba4a9da42d3e6bb4a828976d
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: 72e5c797f292329e779924177b0500e80754e3df
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018092"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855683"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Förnya dina MPN-erbjudanden för kompetenser och avancerade specialiseringar under förnyelseperioden
 
-**Lämpliga roller**
-
-- MPN-partneradministratör
+**Lämpliga roller:** MPN-partneradministratör
 
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>Svara på COVID-19: Microsoft Partner Network uppdatering
 
@@ -28,15 +26,15 @@ Microsoft erbjuder kompetenstillägg (förutom Cloud Business Applications-kompe
 
 ## <a name="renewal-reminders"></a>Påminnelser om förnyelse
 
-Du har 30 dagar efter årsdagen på dig att förnya. Dina fördelar fortsätter under den tiden. 15 dagar före årsdagen kommer Microsoft att påminna dig om din kommande årsdag. Du får ytterligare en påminnelse 23 dagar efter årsdagen. När du förnyar under årsdagen plus 30-dagars fönster förblir dina förmåner intakta. Om du inte förnyar inom förnyelseperioden förlorar du dina förmåner och kompetenser.
+Du har 30 dagar efter årsdagen att förnya. Dina fördelar fortsätter under den tiden. 15 dagar före årsdagen påminner Microsoft dig om din kommande årsdag. Du får ytterligare en påminnelse 23 dagar efter årsdagen. När du förnyar under årsdagen plus 30-dagars fönster förblir dina förmåner intakta. Om du inte förnyar inom förnyelseperioden förlorar du dina förmåner och kompetenser.
 
-När du förnyar under förnyelseperioden är ditt nya årsdagsdatum 365 dagar efter din aktuella årsdag.
+När du förnyar under förnyelseperioden blir det nya årsdagen 365 dagar efter din aktuella årsdag.
 
 ### <a name="how-to-view-competency-renewal-information"></a>Så här visar du information om kompetensförnyelse
 
 1. I menyn i Partnercenter på instrumentpanelen väljer du **Kompetenser.**  
 
-2. I listan över tillgängliga kompetenser ska dina kompetenser markeras som Slutförd.  
+2. I listan över kompetenser som är tillgängliga ska dina kompetenser markeras som Slutförd.  
 
 3. Välj en av dina kompetenser. Du ser ett meddelande om att du har fått ett undantag från att uppfylla kraven fram till nästa förnyelsedatum.
 

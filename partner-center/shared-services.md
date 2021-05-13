@@ -1,6 +1,6 @@
 ---
-title: Lägg till delade Azure-partner tjänster
-description: Använd Azure partners delade tjänster för att köpa Azure-prenumerationer för eget bruk och för att få en enhetlig metod för att köpa, spåra och hantera Azure.
+title: Lägga till Azure Partner Shared Services
+description: Använd Azure Partner Shared Services att köpa Azure-prenumerationer för eget bruk och för att ha en enhetlig metod för att köpa, spåra och hantera Azure.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,71 +9,67 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: 756fbfda3438933b50fc51936b396291986472a7
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 929907c7c6f238fb84a13622227534797f0ac949
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028289"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855343"
 ---
-# <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Lägg till delade Azure partner-tjänster så att partner kan köpa Azure-prenumerationer för egen användning
+# <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Lägg Azure Partner Shared Services så att partner kan köpa Azure-prenumerationer för eget bruk
 
-**Lämpliga roller**
+**Lämpliga roller:** Global | Administratörsagent | Försäljningsagent
 
-- Global administratör
-- Administratörs agent
-- Försäljnings agent
+Azure Partner Shared Services är en ny erbjudandetyp för partner i CSP-programmet som gör det möjligt för partner att köpa Azure-prenumerationer för eget bruk.Det skapar en möjlighet för partner att använda en enhetlig metod för att köpa, spåra och hantera Azure, utöver möjligheten att konsolidera sina Azure-licensierings- och vidareförsäljningsavtal med Microsoft. Med Azure Partner Shared Services har partner nu samma flexibilitet att använda Azure-prenumerationer i CSP som i Microsoft Enterprise-avtal och Web Direct-program, vilket öppnar scenarier som: skapa utvecklings- och testmiljöer, distribuera interna arbetsbelastningar och vara värd för delade tjänster eller program för flera innehavare.  
 
-Delade Azure partner-tjänster är en ny erbjudande typ för partner i CSP-programmet och gör det möjligt för partner att köpa Azure-prenumerationer för eget bruk.Det skapar möjligheten för partner att använda en enhetlig metod för att köpa, spåra och hantera Azure förutom möjligheten att konsolidera sin Azure-licens och sälja avtal med Microsoft. Med Azure partners delade tjänster har partner nu samma flexibilitet att använda Azure-prenumerationer i CSP som de gör i Microsoft Enterprise-avtal-och WebDirect-program, öppna scenarier som: skapa utvecklings-och test miljöer, distribuera interna arbets belastningar och värdbaserade delade tjänster eller program med flera klienter.  
+## <a name="create-the-shared-services-tenant"></a>Skapa klientorganisationen för delade tjänster
 
-## <a name="create-the-shared-services-tenant"></a>Skapa klienten för delade tjänster
+1. Gå till **Inställningar**  >  **Kontoinställningar**  >  **Delade tjänster.**
 
-1. Gå till **Inställningar**  >  **konto inställningar**  >  **delade tjänster**.
+   :::image type="content" source="images/sharedservices2.png" alt-text="Kontoinställningar > delade tjänster":::
 
-   :::image type="content" source="images/sharedservices2.png" alt-text="Konto inställningar > delade tjänster":::
-
-2. Om du inte redan har en klient för delade tjänster, klickar du på **skapa delade tjänster**.
+2. Om du inte redan har en klientorganisation för delade tjänster klickar du på **Skapa delade tjänster.**
 
    :::image type="content" source="images/sharedservices3.png" alt-text="Skapa delade tjänster":::
 
-3. Detta skapar en klient för delade tjänster och köper prenumerationen på delade Azure CSP-tjänster, som ska användas för delade resurser och intern arbets belastning.
+3. Detta skapar en klientorganisation för delade tjänster och köper Azure CSP Shared Services-prenumerationen som ska användas för delade resurser och intern arbetsbelastning.
 
-   :::image type="content" source="images/sharedservices5.png" alt-text="Skapa klienten och Köp prenumerationen":::
+   :::image type="content" source="images/sharedservices5.png" alt-text="Skapa klientorganisationen och köpa prenumerationen":::
 
 ## <a name="about-the-azure--internalshared-services-offer"></a>Om Azure – interna/delade tjänster erbjudandet
 
-- Azure – interna/delade tjänster prenumerationen är en ny Azure-erbjudande typ i CSP som nås via partner Center som partner kan använda för sin egen användning av Azure.
+- Prenumerationen Azure – interna/delade tjänster en ny Azure-erbjudandetyp i CSP som nås via Partnercenter och som partner får för sin egen användning av Azure.
 
-- Prenumerationer på delade Azure partner-tjänster är berättigade och kan användas för att köpa RIs.
+- Azure Partner Shared Services prenumerationer är berättigade och kan användas för att köpa RU:er.
 
-- Azure – interna/delade tjänster erbjudandet kan bara tillämpas på den delade tjänstens klient organisation.
+- Det Azure – interna/delade tjänster erbjudandet kan endast tillämpas på klientorganisationen för delade tjänster.
 
-- Den primära användningen för Azure – interna/delade tjänster prenumerationen är så att du kan använda Azure i dina egna utvecklings syfte. Den delade klient organisation som du använder för att etablera det här erbjudandet kan inte användas för andra tjänster, till exempel Office 365 eller Dynamics-licenser.
+- Den primära användningen för Azure – interna/delade tjänster-prenumerationen är så att du kan använda Azure i dina egna utvecklingssyften. Den delade klientorganisation som du använder för att etablera det här erbjudandet kan inte användas för andra tjänster, till exempel Office 365- eller Dynamics-licenser.
 
-- Du kan avbryta prenumerationen på samma sätt som andra prenumerationer. Gå till **Inställningar**  >  **Visa alla inställningar**  >  **delade tjänster**. Välj Azure – interna/delade tjänster prenumerationen och Avbryt den.
+- Du kan avbryta prenumerationen precis som vilken annan prenumeration som helst. Gå till inställningarna **Visa alla**  >    >  **Delade tjänster**. Välj den Azure – interna/delade tjänster prenumerationen och avbryt den.
 
-## <a name="accessing-azure-partner-shared-services-consumption-details"></a>Åtkomst till förbruknings information om Azure partner Shared Services
+## <a name="accessing-azure-partner-shared-services-consumption-details"></a>Åtkomst till Azure Partner Shared Services förbrukningsinformation
 
-Du hittar Azure-förbrukningen på din CSP-faktura och i avstämnings filen. Den ingår som en del av Microsoft Azure rads objekt på fakturan. Den detaljerade förbruknings informationen är tillgänglig i avstämnings filen som loggats mot den klient som skapades för erbjudandet.
+Du hittar Azure-förbrukningen på CSP-fakturan och avstämningsfilen. Den inkluderas som en del Microsoft Azure i radobjektet på fakturan. Den detaljerade förbrukningsinformationen blir tillgänglig i avstämningsfilen som loggas mot klientorganisationen som skapades för det här erbjudandet.
 
-## <a name="azure-partner-shared-services-pricing"></a>Priser för delade Azure-partner tjänster
+## <a name="azure-partner-shared-services-pricing"></a>Azure Partner Shared Services prissättning
 
-Om du vill se den nya pris filen för Azure-partner delade tjänster går du till **försäljnings**  >  **priser och erbjudanden** och väljer den aktuella månadens pris lista. Under de närmaste veckorna frigörs ett särskilt pris-API.
+Om du vill se den nya prisfilen Azure Partner Shared Services du **till Säljpriser** och erbjudanden och  >   väljer den aktuella månadens prislista. Under de kommande veckorna släpps även ett specifikt priskort-API.
 
-## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Marketplace-erbjudanden och delade Azure-partner tjänster
+## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Marketplace-erbjudanden och Azure Partner Shared Services
 
-Från och med den 1 mars 2019 stöder inte längre Azure partners delade tjänster (APSS) Marketplace-erbjudanden.
+Från och med 1 mars 2019 stöder Azure Partner Shared Services (APSS) inte längre Marketplace-erbjudanden.
 
-|**Marketplace-support**   |**APSS som stöds före den 1 mars 2019**|**Efter den 1 mars 2019**|
+|**Marketplace-support**   |**APSS stöds före 1 mars 2019**|**Efter den 1 mars 2019**|
 |---------------------------|:----------------------------|:-------------------|
-|Bring your own license (BYOL) och kostnads fria tjänster   | Ja   | Inga|
-|Andra tredje parts Marketplace-erbjudanden   | Inga   |Inga|
+|Bring your own license (BYOL) och kostnadsfria tjänster   | Ja   | Inga|
+|Andra Marketplace-erbjudanden från tredje part   | Inga   |Inga|
 
-Partner som har BYOL eller kostnads fria tjänster som distribueras med APSS påverkas inte. men efter den 1 mars 2019 kommer de inte att kunna köpa nya BYOL eller kostnads fria tjänster.
+Partner som har BYOL eller kostnadsfria tjänster som distribueras med APSS påverkas inte. Efter den 1 mars 2019 kommer de dock inte att kunna köpa nya BYOL eller kostnadsfria tjänster.
 
-För att kunna dra nytta av den fullständiga katalogen med Marketplace-erbjudanden (inte bara BYOL och kostnads fria tjänster) rekommenderar vi att CSP-partner distribuerar delade tjänster med hjälp av Web Direct Azure-prenumerationer.  CSP-partner som har distribuerat BYOL från tredje part och kostnads fria tjänster från Marketplace tidigare och som vill fortsätta använda dem och distribuera fler erbjudanden från tredje part uppmanas att migrera APSS-prenumerationen till webb direkt [migrering av befintliga Azure-prenumerationer](/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions).
+Om du vill dra nytta av den fullständiga katalogen med Marketplace-erbjudanden (inte bara BYOL och kostnadsfria tjänster) rekommenderar vi att CSP-partner distribuerar delade tjänster med Azure-prenumerationer för web direct.  CSP-partner som tidigare har distribuerat BYOL från tredje part och kostnadsfria tjänstresurser från Marketplace och vill fortsätta att använda dem och distribuera fler tredjepartserbjudanden uppmanas att migrera APSS-prenumerationen till webb direktMigrering av befintliga [Azure-prenumerationer.](/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions)
 
-Partner, som planerar att fortsätta använda APSS-prenumerationen efter den 1 mars 2019 och vill distribuera nya [BYOL-tjänster](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) från tredje part eller kostnads fria tjänster, kan följa anvisningarna från ISV: er för att distribuera dessa till sina APSS-prenumerationer.
+Partner som planerar att fortsätta använda APSS-prenumerationen efter den 1 mars 2019 och vill distribuera nya [BYOL-tjänster](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) från tredje part eller kostnadsfria tjänster kan följa instruktionerna från ISV:er för att distribuera dem till sina APSS-prenumerationer.
 
 ## <a name="next-steps"></a>Nästa steg
 

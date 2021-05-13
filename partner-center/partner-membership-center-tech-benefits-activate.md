@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5773432f829a701baf4b36bdbae026241d0357a2
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 17fe2496c88adf4a1e271f1dc8275e7e0643e16a
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172191"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818651"
 ---
 # <a name="activate-microsoft-partner-network-technical-benefits-outside-of-partner-center"></a>Aktivera Microsoft Partner Network tekniska förmåner utanför Partnercenter
 
@@ -23,9 +23,9 @@ ms.locfileid: "108172191"
 
 - Alla PartnerCenter-användare
 
-Den här artikeln är Microsoft Partner Network medlemmar (MPN) som fortfarande använder Partner Membership Center (PMC). Dessa medlemmar behöver hjälp med att aktivera vissa MPN-medlemsförmåner, till exempel tekniska fördelar, utanför den aktuella [instrumentpanelen i Partnercenter.](https://partner.microsoft.com/dashboard)
+Den här artikeln är Microsoft Partner Network medlemmar (MPN) som fortfarande använder Partner Membership Center (PMC). Dessa medlemmar behöver hjälp med att aktivera vissa MPN-medlemskapsförmåner, till exempel tekniska fördelar, utanför den aktuella [instrumentpanelen i Partnercenter.](https://partner.microsoft.com/dashboard)
 
-Många Microsoft Partner Network (MPN)-medlemmar har redan migrerat från Partner Membership Center till [Partnercenter](prepare-pmc-pc-migration.md) för att hantera sina användare, kunder och MPN-förmåner.
+**De Microsoft Partner Network (MPN)-medlemmarna har redan migrerat från Partner Membership Center till [Partnercenter](prepare-pmc-pc-migration.md) för att hantera sina användare, kunder och MPN-förmåner.**
 
 Om ditt MPN-medlemskap fortfarande Partner Membership Center (PMC) behöver du hjälp med att aktivera några av dina MPN-förmåner.
 
@@ -33,7 +33,7 @@ Om ditt MPN-medlemskap fortfarande Partner Membership Center (PMC) behöver du h
 
 Om du är PMC-användare kan du få hjälp med att aktivera dina tekniska fördelar i den här tabellen.
 
-(Om du redan har ett Partnercenter-konto med åtkomst som global administratör eller MPN-partneradministratör kan du dock se [Hantera dina tekniska fördelar](https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits#manage-technical-benefits)
+(Om du redan har ett Partnercenter-konto med åtkomst som global administratör eller MPN-partneradministratör kan du dock se Visa och [aktivera dina tekniska supportförmåner](mpn-benefits-technical-support.md#view-and-activate-your-technical-support-benefits))
 
 |För den här regionen  | Kontakt |
 |:--------|:------------|

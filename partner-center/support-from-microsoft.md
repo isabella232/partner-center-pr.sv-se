@@ -9,22 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e863a5dbb86dae2c1cd3395589b4d4318eb0dba1
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: d9ae853b095339b54f7b4d2eb0f41fecd5f53f80
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284153"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854782"
 ---
 # <a name="support-from-microsoft"></a>Support från Microsoft
 
-**Gäller för**
+**Gäller för**: Partner Center-| Partnercenter för Microsoft Cloud for US Government
 
-- Välkommen till Partnercenter för Microsoft Cloud for US Government
-
-**Lämpliga roller**
-
-- Supportagent
+**Lämpliga roller:** Supportagent
 
 Om du har problem med en Microsoft-tjänst eller partnercenter kan du rapportera problemet till Microsoft, eskalera problemet till Microsoft för hjälp och spåra problemet tills det har lösts.
 
@@ -40,5 +36,5 @@ Om du har problem med en Microsoft-tjänst eller partnercenter kan du rapportera
 
 - [Visa fler supportresurser](https://partner.microsoft.com/support/?stage=1)
 - [Hitta en partner](find-a-partner.md)
-- [Läs mer om eller registrera dig i MPN-programmet](https://partner.microsoft.com/membership)
+- [Lär dig mer om eller registrera dig i MPN-programmet](https://partner.microsoft.com/membership)
 - [Lär dig mer om eller registrera dig i CSP-programmet](https://partner.microsoft.com/membership/cloud-solution-provider)

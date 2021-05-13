@@ -1,57 +1,54 @@
 ---
-title: Berättigande till planering av service engagemang
+title: Berättigande till planeringstjänster
 ms.topic: article
 ms.date: 09/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Lär dig mer om krav krav för varje Software Assurance planerings tjänst engagemang ett företag kanske vill erbjuda till företags kunder.
+description: Lär dig mer om behörighetskraven för varje Software Assurance Planning Services som ett företag kanske vill erbjuda företagskunder.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2cf45807c6347ad62ad343d2be8a477ab8ea9d33
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 844a795330a0c10ef51f6b47ce15afa37d3d71f5
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028272"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855258"
 ---
-# <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Visa berättigande krav för planering av service engagemang
+# <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Visa behörighetskrav för Planning Services-engagemang
 
-**Lämpliga roller**
+**Lämpliga roller:** Globala | MPN-partneradministratör
 
-- Global administratör
-- MPN-partner administratör
-
-Den här artikeln hjälper dig att lära dig om de behörighets krav som du behöver uppfylla innan företaget kan registrera eller leverera Software Assurance planerings tjänster för Microsoft.
+Den här artikeln hjälper dig att lära dig om de behörighetskrav som du måste uppfylla innan ditt företag kan registrera eller leverera Software Assurance Planning Services för Microsoft.
 
 >[!NOTE]
-> Utöver de krav som ställs för ett planerings tjänst erbjudande måste du också följa flera andra steg innan du kan leverera service avtal för Software Assurance-planering. En översikt över alla steg som krävs finns i [Software Assurance Planning Services i Partner Center](software-assurance-dps.md).
+> Förutom att uppfylla behörighetskraven för ett Planning Services-erbjudande måste du också följa flera andra steg innan du kan leverera Software Assurance Planning Services-engagemang. En översikt över alla steg som krävs finns i [Software Assurance Planning Services i Partner Center.](software-assurance-dps.md)
 
 ## <a name="learn-more-about-each-engagement"></a>Läs mer om varje engagemang
 
-Varje planerings tjänst engagemang har sina egna, specifika krav för berättigande och den egna tillåtna maximala varaktigheten.
+Varje Planning Services-engagemang har sina egna, specifika behörighetskrav och sina egna tillåtna maximala varaktigheter.
 
-Om du vill veta mer om dessa krav för engagemang, se följande tabell.
+Mer information om de här engagemangsspecifika kompetenskraven finns i följande tabell.
 
-| Namn på engagemang | Kompetens som krävs för det här åtagandet | Mer information finns i data bladet för det här erbjudandet |
+| Namn på engagemang | Nödvändiga kompetenser för det här engagemanget | Mer information finns i databladet för det här erbjudandet |
 |:--- |:--- |:--- |
-| Distributions planering för Windows och Office  | Silver-eller Gold-fönster och-enheter  |  [DDPS-engagemang (Desktop Deployment Planning Services)](https://go.microsoft.com/fwlink/?linkid=2116072)
-| Distributions planering för mobil produktivitet  | Silver eller Gold Enterprise Mobility Management eller Windows och enheter  | [DDPS-engagemang (Desktop Deployment Planning Services)](https://go.microsoft.com/fwlink/?linkid=2116072) |  
-| Modern IT-affärssäkra koncept för säkerhets bevis |  Silver eller Gold Enterprise Mobility Management  | [DDPS-engagemang (Desktop Deployment Planning Services)](https://go.microsoft.com/fwlink/?linkid=2116072) |  
-| Uppgradera Microsoft Dynamics 365 för kund engagemang  | Silver eller Gold Cloud Business Applications eller Cloud Customer Relations hantering  | [DYDPS-engagemang (Dynamics Deployment Planning Services)](https://go.microsoft.com/fwlink/?linkid=2116073)
-| Migrera till Microsoft Dynamics 365 för kund engagemang  | Silver eller Gold Cloud Business Applications eller Cloud Customer Relations hantering  | [DYDPS-engagemang (Dynamics Deployment Planning Services)](https://go.microsoft.com/fwlink/?linkid=2116073)
-| Uppgradera Microsoft Dynamics 365 för finansiering och åtgärder  | Gold Enterprise Resource Planning (ERP)  | [DYDPS-engagemang (Dynamics Deployment Planning Services)](https://go.microsoft.com/fwlink/?linkid=2116073)  |
-| Använda Windows Server-plattformen | Silver-eller Gold-datacenter | [Hanterings tjänster för privata moln, hanterings-och Virtualization-tjänster (PVDPS)](https://go.microsoft.com/fwlink/?linkid=2115982) |
-| Planering av SharePoint-distribution  | Silver-eller guld samarbete och innehåll  | [SharePoint Deployment Planning Services (SDPS)-engagemang](https://go.microsoft.com/fwlink/?linkid=2116074)  |
-| Planering av lösning för projekt-och portfölj hantering (PPM)  | Silver-eller guld projekt och portfölj hantering (PPM)  | [SharePoint Deployment Planning Services (SDPS)-engagemang](https://go.microsoft.com/fwlink/?linkid=2116074)  |
-| Planering av Exchange-distribution  | Silver-eller Gold-meddelanden  | [Skype för företag och Exchange Deployment Planning Services (S-EDPS) engagemang](https://go.microsoft.com/fwlink/?linkid=2116075)  |
-Distributions planering för Skype för företag  | Silver-eller Gold-kommunikation  | [Skype för företag och Exchange Deployment Planning Services (S-EDPS) engagemang](https://go.microsoft.com/fwlink/?linkid=2116075)  |
-| Datafastighets modernisering  | Gold data Analytics eller data plattform  | [SQL Server distributions planerings tjänster (SSDP)](https://go.microsoft.com/fwlink/?linkid=2116076)  |
+| Distributionsplanering för Windows och Office  | Silver- eller guldfönster och enheter  |  [DDPS-engagemang (Desktop Deployment Planning Services)](https://go.microsoft.com/fwlink/?linkid=2116072)
+| Planering för mobil produktivitetsdistribution  | Silver eller Gold Enterprise Mobility Management ELLER Windows och enheter  | [DDPS-engagemang (Desktop Deployment Planning Services)](https://go.microsoft.com/fwlink/?linkid=2116072) |  
+| Moderna IT Enterprise Security Proof of Concept |  Silver eller Gold Enterprise Mobility Management  | [DDPS-engagemang (Desktop Deployment Planning Services)](https://go.microsoft.com/fwlink/?linkid=2116072) |  
+| Uppgradera Microsoft Dynamics 365 for Customer Engagement  | Hantering av silver- Business Applications guldmoln eller kundrelationshantering i molnet  | [Dynamics Deployment Planning Services (DYDPS)-engagemang](https://go.microsoft.com/fwlink/?linkid=2116073)
+| Migrera till Microsoft Dynamics 365 for Customer Engagement  | Hantering av silver- Business Applications guldmoln eller kundrelationshantering i molnet  | [Dynamics Deployment Planning Services (DYDPS)-engagemang](https://go.microsoft.com/fwlink/?linkid=2116073)
+| Uppgradera Microsoft Dynamics 365 for Finance and Operations  | Resursplanering för guldföretag (ERP)  | [Dynamics Deployment Planning Services (DYDPS)-engagemang](https://go.microsoft.com/fwlink/?linkid=2116073)  |
+| Modernisera din Windows Server-plattform | Silver- eller Gold Datacenter | [PvDPS-engagemang (Private Cloud, Management and Virtualization Planning Services)](https://go.microsoft.com/fwlink/?linkid=2115982) |
+| Distributionsplanering för SharePoint  | Silver- eller guldsamarbete och innehåll  | [Interaktioner med SharePoint Deployment Planning Services (SDPS)](https://go.microsoft.com/fwlink/?linkid=2116074)  |
+| Planering av projekt- och portföljhantering (PPM)  | Hantering av silver- eller guldprojekt och portfölj (PPM)  | [Interaktioner med SharePoint Deployment Planning Services (SDPS)](https://go.microsoft.com/fwlink/?linkid=2116074)  |
+| Planering för Exchange-distribution  | Silver- eller guldmeddelanden  | [Interaktioner mellan Skype för företag och Exchange Deployment Planning Services (S-EDPS)](https://go.microsoft.com/fwlink/?linkid=2116075)  |
+Distributionsplanering för Skype för företag  | Silver- eller Guldkommunikation  | [Interaktioner mellan Skype för företag och Exchange Deployment Planning Services (S-EDPS)](https://go.microsoft.com/fwlink/?linkid=2116075)  |
+| Modernisering av datae egendom  | Gold Data Analytics ELLER Data Platform  | [SQL Server SSDPS-engagemang (Deployment Planning Services)](https://go.microsoft.com/fwlink/?linkid=2116076)  |
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Arbets flöde för Software Assurance Planning Services](https://go.microsoft.com/fwlink/?linkid=2115983)
-- [Vanliga frågor om Software Assurance Planning Services](https://go.microsoft.com/fwlink/?linkid=2116077)
-- [Principer för planerings tjänster för Software Assurance](https://go.microsoft.com/fwlink/?linkid=2115984)
-- [Avtals pensioner för Software Assurance Planning Services](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)
+- [Software Assurance Planning Services-arbetsflöde](https://go.microsoft.com/fwlink/?linkid=2115983)
+- [Vanliga frågor Software Assurance planeringstjänster](https://go.microsoft.com/fwlink/?linkid=2116077)
+- [Software Assurance Planning Services-principer](https://go.microsoft.com/fwlink/?linkid=2115984)
+- [Software Assurance Indragna engagemang i Planning Services](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)

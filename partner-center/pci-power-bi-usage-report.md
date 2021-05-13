@@ -1,92 +1,87 @@
 ---
-title: Power BI användnings rapport för partner Center Insights
+title: Partnercenterinsikter Power BI användningsrapport
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Se vad du gör bra och var du kan förbättra användningen av Power BI prenumerationer som du säljer eller hanterar för dina kunder.
+description: Se vad du gör bra och var du kan förbättra användningen av Power BI prenumerationer som du säljer eller hanterar åt dina kunder.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: e05ea33665ded2e52eae2ef8f096b30d3bfe9ee5
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 9626ceda405b54ea2043814fef3d7f5c81bc35af
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086302"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854598"
 ---
-# <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Power BI användnings rapport som är tillgänglig från Partner Center Insights-instrumentpanelen
+# <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Power BI tillgänglig användningsrapport från instrumentpanelen i Partnercenter Insights
 
-**Lämpliga roller**
+**Lämpliga roller:** Global | Administratörsagent | Rapportvisningsprogram | Rapportvisningsprogram för chefer
 
-- Global administratör
-- Administratörs agent
-- Rapport visnings program
-- Rapport visnings program för chefer
-
-Power BI användnings rapporten innehåller användnings data för de Power BI prenumerationer som du sålde eller hanterar för dina kunder. Du kan visa följande avsnitt från rapporten Power BI användning.
+Den Power BI användningsrapporten innehåller användningsdata för de Power BI prenumerationer som du har sålt eller hanterar åt dina kunder. Du kan visa följande avsnitt från Power BI användningsrapport.
 
 - Sammanfattning
-- Power BI användning efter geografi
-- Power BI användning per SKU
-- Prenumerations prestanda
-- Power BI användnings distribution
+- Power BI användning per geografiskt område
+- Power BI användning efter SKU
+- Prenumerationsprestanda
+- Power BI användningsdistribution
 
  > [!NOTE]
- > Den här rapporten är tillgänglig från insikts instrument panelen. Om du vill visa den här rapporten måste du ha tilldelats en speciell roll i Partner Center, till exempel global administratör, konto administratör, rapport visnings program eller Executive Report Viewer. Mer information finns i företagets globala administratör. vissa typer av data i den här rapporten kan också endast vara tillgängliga för användare med behörigheten Executive Report Viewer.
+ > Den här rapporten är tillgänglig från instrumentpanelen Insights. Om du vill visa den här rapporten måste du ha tilldelats en viss roll i Partnercenter, till exempel Global administratör, Kontoadministratör, Rapportvisningsprogram eller Visningsprogram för verkställande rapporter. Mer information finns i företagets globala administratör. Specifika typer av data i den här rapporten kan också vara tillgängliga endast för användare med privilegier i visningsprogrammet för verkställande rapporter.
 
 ## <a name="summary"></a>Sammanfattning
 
-Avsnittet Sammanfattning visar en ögonblicks bild av de viktigaste indikatorerna för Power BI användnings prenumerationer som du har sålt eller hanterat för dina kunder. 
+I sammanfattningsavsnittet visas en ögonblicksbild av kpi:erna relaterade Power BI användningsprenumerationer som du har sålt eller hanterar åt dina kunder. 
 
-- Tillgängliga platser: totalt antal sålda licenser under den valda tids perioden.
+- Tillgängliga platser: Totalt antal sålda licenser under den valda tidsramen.
 
-   Micro-diagrammet presenterar en månads månads trend för tillgängliga antal platser för det valda datum intervallet.
+   Micro-diagrammet visar en trend för antalet tillgängliga platser per månad för det valda datumintervallet.
 
-- Tilldelade platser: totalt antal licenser som tilldelats under den valda tids perioden.
+- Tilldelade platser: Totalt antal licenser som tilldelats under den valda tidsramen.
 
-   Micro-diagrammet presenterar en månads månads trend för tilldelade platser under det valda datum intervallet.
+   Micro-diagrammet visar en trend för månad över månad för antalet tilldelade platser under det valda datumintervallet.
 
-- Aktiva platser: totalt antal licenser som hade användning under den valda tids perioden. 
+- Aktiva platser: Totalt antal licenser som har haft användning under den valda tidsramen. 
 
-   Micro-diagrammet presenterar en månatlig trend för månatliga aktiva platser under den valda tids perioden.
+   Mikrodiagrammet visar en månatlig trend över månatliga aktiva platser under den valda tidsperioden.
 
-- Aktiv användning%: totalt antal aktiva platser som uttryckts som en procent andel tillgängliga platser för den valda tids perioden. 
+- Aktiv användning %: Totalt antal aktiva platser uttryckt som en procentandel av de tillgängliga platserna för den valda tidsramen. 
 
-   Micro-diagrammet presenterar en månatlig trend för aktiv användnings procent under den valda tids perioden.
+   Micro-diagrammet visar en månatlig trend för aktiv användning i procent under den valda tidsperioden.
 
-:::image type="content" source="images/pci/pci-pbi-usage-summary.png" alt-text="Sammanfattning av Power BI användning":::
+:::image type="content" source="images/pci/pci-pbi-usage-summary.png" alt-text="Power BI användningssammanfattning":::
 
-## <a name="power-bi-usage-by-geography"></a>Power BI användning efter geografi
+## <a name="power-bi-usage-by-geography"></a>Power BI användning per geografiskt område
 
-**Power BI användning per geografi** visar distributionen av tillgängliga platser och aktiva platser efter kund land. Ljusare färger på kartan representerar lägre värden, medan mörkare färger representerar högre värden. Du kan söka efter och välja ett land i rutnätet för att zooma till.
+Den **Power BI användning per geografisk** plats visar fördelningen av tillgängliga platser och aktiva platser per kundland. Ljusare färger på kartan representerar lägre värden, medan mörkare färger representerar högre värden. Du kan söka efter och välja ett land i rutnätet som du vill zooma till.
 
-Tabellen **land/region** visar det totala antalet länder/regioner där Azures användnings händelser genereras.
+I **tabellen Antal länder/regioner** visas det totala antalet länder/regioner där Azure-användningshändelser genereras.
 
-Du kan söka efter och välja ett land i rutnätet för att zooma till platsen i kartan. Välj alternativet **Start** på kartan för att återgå till den ursprungliga vyn.
+Du kan söka efter och välja ett land i rutnätet för att zooma till platsen på kartan. Välj alternativet **Start** på kartan för att återgå till den ursprungliga vyn.
 
-:::image type="content" source="images/pci/pci-pbi-usage-geography.png" alt-text="Power BI användning efter geografi":::
+:::image type="content" source="images/pci/pci-pbi-usage-geography.png" alt-text="Power BI användning per geografiskt område":::
 
 ## <a name="power-bi-usage-by-sku"></a>Power BI användning per SKU
 
-Power BI användning per SKU visar månads trenden för tillgängliga platser, aktiva platser och tilldelade platser med SKU: er.
+Den Power BI användning per SKU visar månatliga trenden för tillgängliga platser, aktiva platser och tilldelade platser efter SKU:er.
 
 :::image type="content" source="images/pci/pci-pbi-usage-sku.png" alt-text="Power BI användning per SKU":::
 
-## <a name="subscriptions-performance"></a>Prenumerations prestanda
+## <a name="subscriptions-performance"></a>Prenumerationsprestanda
 
-Prenumerations prestandan visar månads trenden för aktiv användning per kund prenumeration. Data för de främsta 100 kunderna med fakturerad intäkt visas i tabellen och du kan söka efter en kund eller ladda ned rå data för att visa information om alla prenumerationer.
+Prenumerationsprestanda visar den månatliga trenden för aktiv användning per kundprenumeration. Data för de 100 främsta kunderna efter fakturerade intäkter visas i tabellen och du kan söka efter en kund eller ladda ned rådata för att visa information om alla prenumerationer.
 
-:::image type="content" source="images/pci/pci-pbi-usage-subscription.png" alt-text="Power BI prenumerations prestanda":::
+:::image type="content" source="images/pci/pci-pbi-usage-subscription.png" alt-text="Power BI prenumerationsprestanda":::
 
-## <a name="power-bi-usage-distribution"></a>Power BI användnings distribution
+## <a name="power-bi-usage-distribution"></a>Power BI användningsdistribution
 
-Den Power BI användnings fördelningen illustrerar fördelningen av tillgängliga platser, aktiva platser och tilldelade platser med SKU: er.
+Distributionen Power BI användning visar uppdelningen av tillgängliga platser, aktiva platser och tilldelade platser efter SKU:er.
 
-:::image type="content" source="images/pci/pci-pbi-usage-distribution.png" alt-text="Power BI användnings distribution":::
+:::image type="content" source="images/pci/pci-pbi-usage-distribution.png" alt-text="Power BI användningsdistribution":::
 
 ## <a name="next-steps"></a>Nästa steg
 
-- Mer information finns i [partner Center Insights](partner-center-insights.md).
+- Fler rapporter finns i [Partner Center Insights.](partner-center-insights.md)
 
-- Du kan ladda ned rå data från den här rapporten från avsnittet hämta rapporter på instrument panelen insikter. [Läs mer](pci-download-reports.md) 
+- Du kan ladda ned rådata som driver den här rapporten från avsnittet Ladda ned rapporter på instrumentpanelen Insights. [Läs mer](pci-download-reports.md) 

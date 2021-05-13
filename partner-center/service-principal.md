@@ -1,48 +1,46 @@
 ---
-title: Azure AD-tjänstens huvud namn
+title: Azure AD-tjänstens huvudnamn
 ms.topic: how-to
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Ta reda på hur du lägger till ett huvud namn för tjänsten i Azure AD-klienten. Det innebär att du lägger till ett Azure AD-program (tjänstens huvud namn) i Partner Center.
+description: Lär dig hur du lägger till ett huvudnamn för tjänsten i din Azure AD-klientorganisation. Det innebär att du lägger till ett Azure AD-program (tjänstens huvudnamn) i Partnercenter.
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ef5373fd9a606cd25345cbe80a55f28fc1f753f
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 7d12bb66574e6bcee60b2a1df1673dc9171fbee2
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028476"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854935"
 ---
-# <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>Lägga till ett Azure AD-program (tjänstens huvud namn) i Partner Center
+# <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>Lägga till ett Azure AD-program (tjänstens huvudnamn) i Partnercenter
 
-**Lämpliga roller**
+**Lämpliga roller:** Global administratör
 
-- Global administratör
-
-I programmet för kommersiella marknads platser i Partner Center kan du nu lägga till ett Azure AD-program (tjänstens huvud namn) som en användare i ditt partner Center-konto. (Du kunde göra det tidigare i din Cloud Partner Portal eller CPP, konto. Nu när du har migrerat till Partner Center är kontot CPP skrivskyddat.)
+I Commercial Marketplace-programmet i Partnercenter kan du nu lägga till ett Azure AD-program (tjänstens huvudnamn) som en användare i ditt Partnercenter-konto. (Du kunde göra det tidigare i ditt Cloud Partner Portal CPP-konto. Nu när du har migrerat till Partnercenter är CPP-kontot skrivskyddat.)
  
 >[!Note] 
->Tjänstens huvud namn är synonymt med Azure AD-programmet.
+>Tjänstens huvudnamn är synonymt med Azure AD-programmet.
 
-## <a name="add-an-azure-ad-application-service-principal"></a>Lägg till ett Azure AD-program (tjänstens huvud namn)
+## <a name="add-an-azure-ad-application-service-principal"></a>Lägga till ett Azure AD-program (tjänstens huvudnamn)
 
-1. Välj **Inställningar** på instrument panelen för partner Center och välj sedan inställningar för **utvecklare**.
+1. På instrumentpanelen i Partnercenter väljer **du Inställningar** och sedan Inställningar **för utvecklare.**
 
-2. Välj **användare** och välj sedan **Lägg till Azure AD-program**.
+2. Välj **Användare** och sedan Lägg **till Azure AD-program.**
 
 3. Välj ett befintligt Azure AD-program eller skapa ett nytt.
 
-4. Om du skapar ett nytt Azure AD-program inkluderar du följande information:  
+4. Om du skapar ett nytt Azure AD-program ska du inkludera följande information:  
 
-   - **Svars-URL**: URL: en där användarna kan logga in för att använda ditt Azure AD-program.
+   - **Svars-URL:** Den URL där användare kan logga in för att använda ditt Azure AD-program.
 
-   - **App-ID-URI**: ett logiskt ID för Azure AD-programmet som presenteras när den skickar en begäran om enkel inloggning till Azure AD.
+   - **App-ID-URI:** En logisk identifierare för Azure AD-programmet som visas när den skickar en begäran om enkel inloggning till Azure AD.
 
-   - **Säkerhets roller**: roll **hanteraren** (samma som ägar rollen i cpp) och **utvecklaren** (samma som rollen deltagare i cpp) gäller för programmet för kommersiella marknads platser i Partner Center, och de kan ASSOCIERAs med det här Azure AD-programmet.  
+   - **Säkerhetsroller:** Rollhanteraren **(samma** som rollen Ägare i CPP) och **Utvecklare** (samma som rollen Deltagare i CPP) gäller för Commercial Marketplace-programmet i Partnercenter och kan associeras med det här Azure AD-programmet.  
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Översikt över den kommersiella marknads platsen i Partner Center](csp-commercial-marketplace-overview.md)
+- [Översikt över den kommersiella marknadsplatsen i Partnercenter](csp-commercial-marketplace-overview.md)

@@ -1,118 +1,113 @@
 ---
-title: Rapporten Partner Center Insights-prenumerationer
+title: Rapport för Partner Center Insights-prenumerationer
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Se vad du gör bra och var du kan förbättra de moln prenumerationer du säljer eller hanterar för dina kunder.
+description: Se vad du gör bra och var du kan förbättra dina kunders molnprenumerationer.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 019e489b4738515639bf181591dfbc671e1b795d
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 89806b08485bc4bd286c2e14a19924ca0e281b6d
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086200"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854476"
 ---
-# <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Produkt prenumerations rapport som är tillgänglig från Partner Center Insights-instrumentpanelen
+# <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Rapport för produktprenumerationer som är tillgänglig från instrumentpanelen i Partnercenter Insights
 
-**Lämpliga roller**
+**Lämpliga roller:** Global | Administratörsagent | Rapportvisningsprogram | Rapportvisningsprogram för chefer
 
-- Global administratör
-- Administratörs agent
-- Rapport visnings program
-- Rapport visnings program för chefer
+Rapporten Produktprenumerationer visar analys av molnprenumerationer som du har sålt eller som du hanterar för dina kunder. Det här är en produktspecifik rapport som innehåller prestanda för prenumerationer som är associerade med molnprodukter som Office 365, Azure, Dynamics med flera.
 
-Rapporten produkt prenumerationer visar analyser av moln prenumerationer som du har sålt eller som du hanterar för dina kunder. Det här är en produktspecifik rapport som innehåller prestanda för prenumerationer som är kopplade till moln produkter som Office 365, Azure, Dynamics och andra.
-
-Du kan visa följande avsnitt från rapporten produkt prenumerationer.
+Du kan visa följande avsnitt i rapporten Produktprenumerationer.
 
 - Sammanfattning
-- Geografiskt spridning av prenumerationer
-- Trend för prenumerations tillägg/omsättning
-- Prenumerations distribution efter partner platser, försäljnings kanal, SKU: er, partner kopplings typ, segment
+- Geografisk spridning av prenumerationer
+- Lägg till/omsättningstrend för prenumerationer
+- Prenumerationsdistribution efter partnerplatser, försäljningskanal, SKU:er, partner attach-typ, segment
 - Trend efter prenumerations tillstånd
-- Produkter trend
+- Produkttrend
 
  > [!NOTE]
- > Den här rapporten är tillgänglig från insikts instrument panelen. Om du vill visa den här rapporten måste du ha tilldelats en speciell roll i Partner Center, till exempel global administratör, konto administratör, rapport visnings program eller Executive Report Viewer. Mer information finns i företagets globala administratör. vissa typer av data i den här rapporten kan också endast vara tillgängliga för användare med behörigheten Executive Report Viewer.
+ > Den här rapporten är tillgänglig från instrumentpanelen Insights. Om du vill visa den här rapporten måste du ha tilldelats en viss roll i Partnercenter, till exempel Global administratör, Kontoadministratör, Rapportvisningsprogram eller Visningsprogram för verkställande rapporter. Mer information finns i företagets globala administratör. Specifika typer av data i den här rapporten kan också vara tillgängliga endast för användare med privilegier i visningsprogrammet för verkställande rapporter.
 
 ## <a name="summary"></a>Sammanfattning
 
-Avsnittet Sammanfattning visar en Snapshot-vy över KPI: er (nyckeltal) som rör prenumerationer som säljs eller hanteras av dig för dina kunder.  
+I sammanfattningsavsnittet visas en ögonblicksbild av KPI:er (Key Performance Indicators) relaterade till prenumerationer som säljs eller hanteras av dig för dina kunder.  
 
-:::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="rapport Sammanfattning för prenumerationer":::
+:::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="rapportsammanfattning för prenumerationer":::
 
 Mer information om varje avsnitt i sammanfattningen finns nedan:
 
 - Prenumerationer:
-  - Aktuellt antal moln produkt prenumerationer som säljs eller hanteras av dig.
-  - Procentuell tillväxt eller neka prenumerationer under det valda datum intervallet.
-  - Micro-diagrammet presenterar en månads månads trend av prenumerations antalet under det valda datum intervallet.
+  - Aktuellt antal molnproduktprenumerationer sålda eller hanterade av dig.
+  - Procentuell ökning eller minskning av prenumerationer under det valda datumintervallet.
+  - Micro-diagrammet visar en trend för antalet prenumerationer månad för månad under det valda datumintervallet.
 
 - Aktiva prenumerationer:
-  - Aktuellt antal moln produkt prenumerationer med aktiv användning mätt baserat på produkt telemetri. Detta utesluter alla utvärderings prenumerationer om Azure-prenumerationer.
-  - Procentuell tillväxt eller avböja aktiva prenumerationer under den valda tids perioden.
-  - Micro-diagrammet presenterar en månads månads trend för aktiva prenumerationer under det valda datum intervallet.
+  - Aktuellt antal molnproduktprenumerationer med aktiv användning mätt baserat på produkttelemetri. Detta exkluderar alla utvärderingsprenumerationer för Azure-prenumerationer.
+  - Procentuell ökning eller minskning av aktiva prenumerationer under den valda tidsperioden.
+  - Micro-diagrammet visar en månad över månad-trend för aktiva prenumerationer under det valda datumintervallet.
 
 - Prenumerationer har lagts till:
-  - Totalt antal kund prenumerationer som har lagts till (säljs eller hanteras) av dig under det valda datum intervallet. Nya prenumerationer med **aktiv** eller **förnyad** status räknas som prenumerationer som läggs till.
-  - Procentuell tillväxt eller avböja prenumerationer som lagts till under den senaste fullständiga månaden jämfört med den första fullständiga månaden.
-  - Micro-diagrammet presenterar en månatlig trend för prenumerationer som lagts till under det valda datum intervallet.
+  - Totalt antal kundprenumerationer som du har lagt till (sålt eller hanterat) under det valda datumintervallet. Nya prenumerationer med tillståndet **Aktiv** **eller Förnyad** räknas som prenumerationer som läggs till.
+  - Procentuell ökning eller minskning av prenumerationer som lagts till under den senaste fullständiga månaden jämfört med den första fullständiga månaden.
+  - Micro-diagrammet visar en månatlig trend för prenumerationer som lagts till under det valda datumintervallet.
 
-- Överomsättnings prenumerationer:
-  - Totalt antal kund prenumerationer som har omsättningen under det valda datum intervallet. Prenumerationer med tillstånd **avetablerade** eller **inaktiverade** under den månaden räknas som en uppdelad prenumeration.  
-  - Procent andel prenumerationer som har överomsättnings under det valda datum intervallet.
-  - Micro-diagrammet presenterar en månatlig trend för prenumerationer som är uppdelade under det valda datum intervallet.
+- Omsade prenumerationer:
+  - Totalt antal kundprenumerationer som omsörjts under det valda datumintervallet. Prenumerationer med tillståndet **Avetablerade eller** **Pausade** under den månaden räknas som en omsedd prenumeration.  
+  - Procentandel prenumerationer som omsörts under det valda datumintervallet.
+  - Micro-diagrammet visar en månatlig trend för prenumerationer som omsörts över det valda datumintervallet.
 
-- Prenumerationer per produkter: analys av det aktuella antalet prenumerationer efter moln produkter.
+- Prenumerationer efter produkter: Uppdelning av det aktuella prenumerationsantalet efter molnprodukter.
 
-## <a name="geographical-spread-of-subscriptions"></a>Geografiskt spridning av prenumerationer
+## <a name="geographical-spread-of-subscriptions"></a>Geografisk spridning av prenumerationer
 
-Vyn **prenumerationer per geografi** visar den geografiska fördelningen av de totala prenumerationerna av kund marknader. Det totala prenumerations beloppet omfattar både sålda prenumerationer och aktiva prenumerationer.
+I **vyn Prenumerationer efter geografisk** plats visas den geografiska fördelningen av det totala antalet prenumerationer efter kundmarknad. Det totala prenumerationsbeloppet omfattar både sålda prenumerationer och aktiva prenumerationer.
 
-Tabellen **land/region** visar det totala antalet länder/regioner där du har prenumerationer och belopp per land för totalt antal och aktiva prenumerationer.
+I **tabellen Antal länder/regioner** visas det totala antalet länder/regioner där du har prenumerationer och beloppet per land för totalt antal och aktiva prenumerationer.
 
-Du kan söka efter och välja ett land i rutnätet för att zooma till platsen i kartan. Tryck på **Start** alternativet på kartan för att återgå till den ursprungliga vyn. Hovra över kartan för att visa alla prenumerationer och aktiva prenumerationer efter land. Båda fälten i rutnätet kan sorteras.
+Du kan söka efter och välja ett land i rutnätet för att zooma till platsen på kartan. Tryck på **alternativet** Start på kartan för att återgå till den ursprungliga vyn. Hovra över kartan för att visa alla prenumerationer och aktiva prenumerationer efter land. Båda fälten i rutnätet är sorterbara.
 
-:::image type="content" source="images/pci/pci-sub-report-sub-by-geography-2.png" alt-text="prenumerationer per geografi":::
+:::image type="content" source="images/pci/pci-sub-report-sub-by-geography-2.png" alt-text="prenumerationer efter geografiskt område":::
 
-## <a name="subscription-addschurns"></a>Prenumerations tillägg/omsättning
+## <a name="subscription-addschurns"></a>Prenumeration lägger till/omsättningar
 
-I den här vyn presenteras en trend för prenumerationer. Dessa delas upp i olika kategorier (nya, befintliga, uppdelade) för det valda datum intervallet. X-axeln representerar månader i det valda datum intervallet. Y-axeln representerar antalet prenumerationer. Omsättnings bara prenumerationer representeras på den negativa skalan på Y-axeln. 
+Den här vyn visar en trend för prenumerationer. Dessa är uppdelade i olika kategorier (Ny, Befintlig, Omsättning) för det valda datumintervallet. X-axeln representerar månader för det valda datumintervallet. Y-axeln representerar antalet prenumerationer. Omkastade prenumerationer representeras på den negativa skalan för Y-axeln. 
 
-Det liggande stapeldiagrammet visar en uppdelning av nya, befintliga och brutna prenumerationer för månaden. Du kan återskapa stapeldiagrammet, uppdelat med specifika stack-objekt. Det gör du genom att markera de aktuella objekten i förklaringen. Du kan också använda skjutreglaget ovanpå diagrammet för att zooma in i en viss period.
+Det staplade stapeldiagrammet visar en analys av nya, befintliga och omkastade prenumerationer för månaden. Du kan återskapa stapeldiagrammet, uppdelat med specifika stackobjekt. Det gör du genom att välja de specifika objekten i förklaringen. Du kan också använda skjutreglaget överst i diagrammet för att zooma in en viss punkt.
 
-:::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="prenumerations tillägg och omsättning":::
+:::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="prenumeration lägger till och omsättningar":::
 
-## <a name="subscription-distribution"></a>Prenumerations distribution
+## <a name="subscription-distribution"></a>Prenumerationsdistribution
 
-I den här vyn presenteras en uppdelning av dina aktuella prenumerationer av dina MPN-platser, kund segment, försäljnings kanaler/Azures pris modell och behörighets typ (till exempel DPOR, DAP och andra). Välj respektive flikar för att Visa uppdelningen efter dessa kategorier. Om du vill bygga cirkel diagrammet med en uppdelning av specifika objekt kategorier väljer du dessa objekt kategorier i förklaringen.
+I den här vyn visas en analys av dina aktuella prenumerationer efter mpn-platser, kundsegment, försäljningskanal/Azure-prismodell och attributionstyp (till exempel DPOR, DAP med flera). Välj respektive flikar för att visa uppdelningen efter dessa kategorier. Om du vill skapa cirkeldiagrammet med en analys av specifika objektkategorier väljer du de objektkategorierna i förklaringen.
 
-:::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="prenumerations distribution":::
+:::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="prenumerationsdistribution":::
 
-## <a name="subscription-state-distribution"></a>Distribution av prenumerations tillstånd
+## <a name="subscription-state-distribution"></a>Distribution av prenumerationstillstånd
 
-Den här vyn visar distributionen av dina aktuella kund prenumerationer efter prenumerations status eller status. Detta omfattar följande prenumerations tillstånd: **aktiva**, **inaktiverade**, **avetablerade**, **Öppna**, **statusen ingraceperiod**, **stängda** och **andra**.
+I den här vyn visas distributionen av dina aktuella kundprenumerationer efter prenumerationsstatus eller prenumerationsstatus. Detta inkluderar följande prenumerations tillstånd: **Aktiv**, **Inaktiverad**, **Avetablerade**, **Öppna,** **InGracePeriod,** **Stängd** och **andra**.
 
-:::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="distribution av prenumerations tillstånd":::
+:::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="distribution av prenumerationstillstånd":::
 
-## <a name="products-trend"></a>Produkter trend
+## <a name="products-trend"></a>Produkttrend
 
-I den här vyn visas ett liggande stapeldiagram och två cirkel diagram. Stapeldiagrammet visar en månatlig trend för prenumerationer som delas upp av kommersiella produkter, till exempel Azure, Office, Dynamics osv.
+I den här vyn visas ett stapeldiagram och två cirkeldiagram. Stapeldiagrammet visar en månatlig trend för prenumerationer uppdelade efter kommersiella produkter, till exempel Azure, Office, Dynamics osv.
 
-De två cirkel diagrammen visar en uppdelning av dina aktuella kund prenumerationer. Det första cirkel diagrammet delar upp prenumerationer efter produkter. Det andra cirkel diagrammet delar upp prenumerationer efter SKU: er eller planer. När du väljer en produkt i cirkel diagrammet dela **efter produkter** visar det intilliggande cirkel diagrammet en uppdelning av produktens prenumerationer efter SKU: er.
+De två cirkeldiagrammen visar en analys av dina aktuella kundprenumerationer. Det första cirkeldiagrammet delar upp prenumerationer efter produkter. Det andra cirkeldiagrammet delar upp prenumerationer efter SKU:er eller planer. När du väljer en  produkt i detalj efter cirkeldiagrammet Produkter visar det intilliggande cirkeldiagrammet en analys av den produktens prenumerationer efter SKU:er.
 
-:::image type="content" source="images/pci/pci-sub-report-prods-trend-6.png" alt-text="produkter trend":::
+:::image type="content" source="images/pci/pci-sub-report-prods-trend-6.png" alt-text="produkttrend":::
 
 > [!NOTE]
- > Antalet prenumerationer som delas upp av SKU: er kanske inte alltid matchar det totala antalet prenumerationer för produkten. Detta kan inträffa om en kund har köpt flera SKU: er under samma produkt prenumeration.
+ > Antalet prenumerationer uppdelade efter SKU:er överensstämmer kanske inte alltid med det totala antalet prenumerationer för den produkten. Detta kan inträffa om en kund har köpt flera SKU:er under samma produktprenumeration.
 
 ## <a name="next-steps"></a>Nästa steg
 
-- Mer information finns i [partner Center Insights](partner-center-insights.md).
+- Fler rapporter finns i [Partner Center Insights.](partner-center-insights.md)
 
 >[!NOTE] 
-> Du kan ladda ned rå data från den här rapporten från avsnittet hämta rapporter på instrument panelen insikter. [Läs mer](pci-download-reports.md) 
+> Du kan ladda ned rådata som driver den här rapporten från avsnittet Ladda ned rapporter på Insights-instrumentpanelen. [Läs mer](pci-download-reports.md) 

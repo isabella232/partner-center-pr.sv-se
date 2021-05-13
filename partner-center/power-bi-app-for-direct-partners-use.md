@@ -1,169 +1,164 @@
 ---
-title: Använd partner Center Analytics för Power BI
+title: Använda Partner Center Analytics för Power BI
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig hur du visar dina affärs data med hjälp av Partner Center Analytics-appen för Power BI (för direkta partner i CSP).
+description: Lär dig hur du visar dina affärsdata med hjälp av appen Partnercenteranalys för Power BI (för direkta partner i CSP).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
 author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f5bdb166562593b970f40c23921dc80b2a1cb8ad
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: 96fe57f6e89928a69051c2e201c444882500b844
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633870"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855037"
 ---
-# <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Visa dina affärs data med partner Center Analytics-appen för Microsoft Power BI
+# <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Visa dina affärsdata med PartnerCenter Analytics-appen för Microsoft Power BI
 
 
 
-**Lämpliga roller**
+**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Försäljningsagentens | Administratörsagent
 
-- Global administratör
-- Administratör för användar hantering
-- Försäljnings agent
-- Administratörs agent
+## <a name="view-your-business-data"></a>Visa dina affärsdata
 
-## <a name="view-your-business-data"></a>Visa dina affärs data
+Hämta en visuell representation av dina affärsdata med appen Partnercenteranalys för Power BI, inklusive:
 
-Få en visuell representation av dina affärs data med partner Center Analytics-appen för Power BI, inklusive:
-
-- Tillväxt av kund basen, prenumerationer och licenser
+- Tillväxt av kundbasen, prenumerationer och licenser
 
 - Användning av Office 365, Microsoft Dynamics och Microsoft Azure produkter
 
-- Dagliga förbruknings enheter för varje avgiftsbelagd resurs i varje Azure-prenumeration under de senaste 60 dagarna
+- Dagliga förbrukningsenheter för varje förbrukningsresurs i varje Azure-prenumeration under de senaste 60 dagarna
 
-- Beräknad kostnad (baserat på senaste pris kortet)
+- Uppskattad kostnad (baserat på det senaste priskortet)
 
-- Möjlighet att exportera data uppsättningar och skapa anpassade rapporter, inklusive per kund.
+- Möjlighet att exportera datauppsättningar och skapa anpassade rapporter, inklusive per kund.
 
-### <a name="about-the-partner-center-analytics-app-preview-release"></a>Om för hands versionen av Partner Center Analytics-appen
+### <a name="about-the-partner-center-analytics-app-preview-release"></a>Om förhandsversionen av Partner Center Analytics-appen
 
-- Den här appen är endast för direkta partner i Cloud Solution Provider-programmet. Andra partner i CSP (indirekt åter försäljare, till exempel) kan inte logga in.
+- Den här appen är endast för direkta partner i Molnlösningsleverantör program. Andra partner i CSP (indirekta återförsäljare till exempel) kommer inte att kunna logga in.
 
-- Eventuella beräknade kostnader är fakturerings-och faktura data för moms, och är inte juridiskt bindande. Uppskattade kostnader är avsedda att användas enbart för data insikter.
+- Uppskattade kostnader är fakturerings-/fakturadata före skatt och är inte juridiskt bindningsbaserade. Uppskattade kostnader är endast avsedda att användas för datainsikter.
 
-- Kund information baseras på prenumerationer. Alla kunder som du nyligen har skapat konton för, men som ännu inte har några prenumerationer, ingår inte i antal.
+- Kundinformation baseras på prenumerationer. Alla kunder som du nyligen har skapat konton för, men som ännu inte har prenumerationer, ingår inte i antalet.
 
-- Den uppskattade kostnaden baseras på det senaste avgifts kortet, som baseras på CSP-priset.
+- Den uppskattade kostnaden baseras på det senaste priskortet, som baseras på CSP-priser.
 
-- Dagar är kalender dagar.
+- Dagar är kalenderdagar.
 
-### <a name="business-insights-report"></a>Rapporten affärs insikter
+### <a name="business-insights-report"></a>Business Insights-rapport
 
-- **Kund klienter**: antal olika Azure AD-klienter med kunder som har köpt prenumerationer
+- **Kundklienter:** Antal distinkta Azure AD-klienter för kunder som har köpt prenumerationer
 
-- **Nytt (senaste 30 dagarna)**: nya kunder som köper minst en prenumeration under de senaste 30 dagarna
+- **Nytt (senaste 30 dagarna)**: Nya kunder har köpt minst en prenumeration under de senaste 30 dagarna
 
-- **Omsättning (senaste 30 dagarna)**: kunder utan några "aktiva", "i respittiden" eller "inaktiverade" prenumerationer
+- **Omsättning (senaste 30 dagarna):** Kunder utan "aktiva", "i respit" eller "inaktiverade" prenumerationer
 
-- **Nytt (senaste 24 timmarna)**: nya kunder som köper minst en prenumeration under de senaste 24 timmarna
+- **Nytt (senaste 24 timmarna)**: Nya kunder har köpt minst en prenumeration under de senaste 24 timmarna
 
-- **Beräknad månads kostnad under de senaste 12 månaderna**: månads Visa månads trend för uppskattat belopp för förskotts betalning per månad under perioden de senaste 12 månaderna
+- **Uppskattad månatlig kostnad under de senaste 12** månaderna: Månads- och månadstrend för beräknat belopp före skatt i dollar aggregerat månadsvis under de senaste 12 månaderna
 
-- **Uppskattad kostnad per produkt under de senaste 12 månaderna**: produkter som säljs sorterade efter uppskattat belopp för moms belopp som sammanställs under perioden de senaste 12 månaderna. Den här statusen anger de främsta produkterna som visar de flesta intäkter.
+- **Uppskattad kostnad per produkt under de senaste 12** månaderna: Produkter som sålts sorterade efter beräknat fakturabelopp före skatt aggregerat under de senaste 12 månaderna. Den här statusen anger de främsta produkterna som har störst intäkter.
 
-- **Kunder under de senaste 12 månaderna**: månads Visa månads trend för nya kunder och omsättnings kunder sammanlagt månads vis under perioden de senaste 12 månaderna
+- **Kunder under de senaste 12 månaderna:** Månad över månad-trenden för nya kunder och omsättningskunder aggregerade månadsvis under de senaste 12 månaderna
 
-- **Uppskattad kostnad per kund under de senaste 12 månaderna**: kunder sorteras efter uppskattat belopp för moms belopp som sammanställs under perioden de senaste 12 månaderna. Den här statusen anger de främsta kunderna som har störst intäkt.
+- **Uppskattad kostnad per kund under de senaste 12** månaderna: Kunder sorterade efter beräknat belopp i dollar före skatt aggregerat under de senaste 12 månaderna. Den här statusen anger att de främsta kunderna har störst intäkter.
 
-- **Kund antal per produkt**: produkter som säljs sorterade efter associerade kunder. Denna status anger de produkter som säljs till de flesta kunder.
+- **Antal kunder efter produkt:** Produkter sålda sorterade efter associerade kunder. Den här statusen anger de främsta produkterna som sålts till de flesta kunder.
 
-### <a name="subscription-insights-report"></a>Rapport om prenumerations Insights
+### <a name="subscription-insights-report"></a>Prenumerationsinformationsrapport
 
-- **Prenumerations status**:
+- **Prenumerationsstatus:**
 
-- Aktiv: prenumerationer som tillhör status "aktiv" eller "i respittid"
+- Aktiv: Prenumerationer som hör till antingen "aktiv" eller "i respittillstånd"
 
-  - Pausad: prenumerationer som tillhör tillståndet "inaktiverat"
+  - Inaktiverad: Prenumerationer som hör till tillståndet "inaktiverad"
 
-  - Insamlad: prenumerationer som hör till statusen företablerad eller upphört att gälla
+  - Avetablerat: Prenumerationer som tillhör statusen "avetablerat" eller "upphört att gälla"
 
-- **Förfallo status**:
+- **Förfallostatus:**
 
-  - Utgånget: prenumerationer som redan har upphört att gälla (där prenumerationens slutdatum har passerat)
+  - Upphört: Prenumerationer som redan har upphört att gälla (där prenumerationens slutdatum har passerat)
 
-  - Upphör att gälla efter 30 dagar: prenumerationer som upphör att gälla efter 30 dagar (där prenumerationens slutdatum är efter nästa 30 dagar)
+  - Upphör att gälla efter 30 dagar: Prenumerationer som upphör att gälla efter 30 dagar (där prenumerationens slutdatum infaller efter de kommande 30 dagarna)
 
-  - Går ut om 30 dagar: prenumerationer som upphör att gälla inom de närmaste 30 dagarna (där prenumerationens slutdatum infaller mellan idag och de närmaste 30 dagarna)
+  - Upphör att gälla om 30 dagar: Prenumerationer som upphör att gälla inom de närmaste 30 dagarna (där slutdatumet för prenumerationen är mellan i dag och nästa 30 dagar)
 
-- **Totalt antal prenumerationer**: prenumerationer i "aktiv", "i respittiden" eller "inaktive rad" status
+- **Totalt antal** prenumerationer: Prenumerationer i statusen "aktiv", "i respit" eller "inaktiverad"
 
-- **Nytt (senaste 30 dagarna)**: nya prenumerationer som har köpts av kunder under de senaste 30 dagarna
+- **Nytt (senaste 30 dagarna): Nya** prenumerationer som köpts av kunder under de senaste 30 dagarna
 
-- **Nytt (senaste 24 timmarna)**: nya prenumerationer som har köpts av kunder inom de senaste 24 timmarna
+- **Nytt (senaste 24 timmarna)**: Nya prenumerationer som köpts av kunder under de senaste 24 timmarna
 
-- **Upphör att gälla om 30 dagar**: prenumerationer som upphör att gälla inom de närmaste 30 dagarna
+- **Går ut om 30 dagar:** Prenumerationer som upphör att gälla inom 30 dagar
 
-- **Omsättning (senaste 30 dagarna)**: prenumerationer som har avbrutits eller skjutits upp (inaktiverade) inom de senaste 30 dagarna
+- **Omsättning (senaste 30 dagarna):** Prenumerationer som har avetablerades eller inaktiverats (inaktiverats) under de senaste 30 dagarna
 
-- **Distribution efter prenumerations typer**:% distribution av totala prenumerationer efter licens typ och användnings beroende prenumerations typ
+- **Fördelning efter prenumerationstyper:**% fördelning av totalt antal prenumerationer efter licensbaserad och användningsbaserad prenumerationstyp
 
-- **Antal aktiva prenumerationer per produkt**: produkter som säljs sorterade efter antal aktiva prenumerationer
+- **Antal aktiva prenumerationer efter produkt:** Sålda produkter sorterade efter antal aktiva prenumerationer
 
-- **Prenumerationer under de senaste 12 månaderna**: månads Visa månads trend för nya prenumerationer och omsättnings prenumerationer sammanlagt månads vis under perioden de senaste 12 månaderna
+- **Prenumerationer under de senaste 12 månaderna:** Månad över månad-trenden för nya prenumerationer och omsättningsprenumerationer aggregerade månadsvis under de senaste 12 månaderna
 
-- **Kund prenumerations information**: detaljerad vy över kunder, prenumerationer och erbjudanden
+- **Information om** kundprenumeration: Detaljerad vy över kunder, prenumerationer och erbjudanden
 
-### <a name="license-insights-report"></a>Licens insikts rapport:
+### <a name="license-insights-report"></a>License Insights-rapport:
 
-- **Totalt antal licenser**: totalt antal licenser som sammanställts i alla licensbaserade prenumerationer
+- **Totalt antal** licenser: Totalt antal licenser aggregerade för alla licensbaserade prenumerationer
 
-- **Ny (senaste 30 dagarna)**: licens tillägget inom de senaste 30 dagarna
+- **Nytt (senaste 30 dagarna):** Licens utöver de senaste 30 dagarna
 
-- **Omsättning (senaste 30 dagarna)**: licens minskning inom de senaste 30 dagarna
+- **Omsättning (senaste 30 dagarna): Licensminskning** under de senaste 30 dagarna
 
-- **Nytt (senaste 24 timmarna)**: licens tillägget inom de senaste 24 timmarna
+- **Nytt (senaste 24 timmarna)**: Licens utöver de senaste 24 timmarna
 
-- **Licenser under de senaste 90 dagarna**: månads Visa månads trend för licens tillägg och minskning sammanlagt månads vis under perioden de senaste 90 dagarna
+- **Licenser under de senaste 90 dagarna:** Trenden månad för månad för licens tillägg och minskningar aggregeras månadsvis under de senaste 90 dagarna
 
-- **Antal aktiva licenser per produkt**: produkter som säljs sorterade efter aktiva licens antal
+- **Antal aktiva licenser efter produkt:** Sålda produkter sorterade efter antal aktiva licenser
 
-- **Antal aktiva licenser per kund**: kunder sorterade efter aktiva licens antal
+- **Antal aktiva licenser per kund:** Kunder sorterade efter antal aktiva licenser
 
-- **Information om kund licens händelser under de senaste 90 dagarna**: detaljerad vy över kunder, prenumerationer och prenumerations händelser, inklusive händelse datum, händelse namn, kvantitet och ändring av kvantitet.
+- **Information om kundlicenshändelser under de senaste 90** dagarna: Detaljerad vy över kunder, prenumerationer och prenumerationshändelser, inklusive händelsedatum, händelsenamn, kvantitet och ändring i kvantitet.
 
-### <a name="licenses-usage-report"></a>Licens användnings rapport:
+### <a name="licenses-usage-report"></a>Användningsrapport för licenser:
 
-- **Licenser som tilldelas av produkten**: produkter som säljs sorterade efter licens tilldelnings antal
+- **Licenser tilldelade efter produkt:** Produkter sålda sorterade efter antal licenstilldelningar
 
-- **Licenser som används av produkten**: produkter som säljs sorterade efter licens användning
+- **Licenser som används efter produkt:** Sålda produkter sorterade efter licensanvändningsantal
 
-- **Kund distribution av tilldelade licenser**:% distribution av totalt antal kunder som brutits i Bucket med 20% intervall av licens tilldelningen%
+- **Kunddistribution av tilldelade licenser:**% fördelning av totalt antal kunder uppdelade i bucketar på 20 % intervall efter licenstilldelning %
 
-- **Kund distribution av licenser som används**:% distribution av totalt antal kunder som är brutna i Bucket med 20% intervall med licens användning%
+- **Kunddistribution av licenser som används:**% fördelning av det totala antalet kunder uppdelade i bucketar på 20 % intervall efter licensanvändning %
 
-- **Licenser tilldelade av kunden**: detaljerad vy över licenser som har sålts och licenser tilldelade av kunder och produkter
+- **Licenser som tilldelats av kunden:** Detaljerad vy över sålda licenser och licenser som tilldelats av kunder och produkter
 
-- **Licenser som används av kunden**: detaljerad vy över licenser som har sålts och licenser som används av kunder och produkter
+- **Licenser som används av kunden:** Detaljerad vy över sålda licenser och licenser som används av kunder och produkter
 
 ### <a name="azure-insights-report"></a>Azure Insights-rapport:
 
-- **Användnings kunder under de senaste 12 månaderna**: månads Visa månads trend för nya användnings kunder och omsättnings bara användnings kunder sammanställda månads vis under perioden de senaste 12 månaderna
+- **Användningsbaserade kunder under** de senaste 12 månaderna: Trenden månad för månad för nya användningsbaserade kunder och omsade användningsbaserade kunder aggregerade månadsvis under de senaste 12 månaderna
 
-- **Användnings prenumerationer under de senaste 12 månaderna**: månads Visa månads trend för nya användnings prenumerationer och indelade användnings prenumerationer sammanställda månads vis under perioden de senaste 12 månaderna
+- **Användningsbaserade prenumerationer under de senaste 12** månaderna: Trenden månad för månad för nya användningsbaserade prenumerationer och omsvlade användningsbaserade prenumerationer aggregerade månadsvis under de senaste 12 månaderna
 
-- **Uppskattad kostnad för användning av kunden under de senaste 60 dagarna**: användnings kunder sorteras efter uppskattat belopp belopp för förskotts betalning som sammanställs under perioden senaste 60 dagar. Denna status anger de mest använda användnings kunderna som tar de flesta intäkter
+- **Uppskattad kostnad för kundanvändning** under de senaste 60 dagarna: Användningsbaserade kunder sorterade efter beräknat belopp före skatt i dollar som aggregerats under de senaste 60 dagarna. Den här statusen anger de främsta användningsbaserade kunderna som har störst intäkter
 
-- **Uppskattad kostnad för användning per kategori över de senaste 60 dagarna**: mätar kategorier med användnings prenumerationer sorterade efter uppskattat belopp för förskotts betalning som sammanställs under perioden senaste 60 dagar.
+- Uppskattad kostnad för användning efter kategori under de **senaste 60** dagarna: Mäta kategorier av användningsbaserade prenumerationer sorterade efter beräknat belopp före skatt i dollar som aggregerats under de senaste 60 dagarna.
 
-- **Uppskattad kostnad för användning av prenumeration under de senaste 60 dagarna**: användnings prenumerationer efter uppskattat belopp belopp för förskotts betalning som sammanställts under perioden senaste 60 dagar.
+- Uppskattad kostnad för användning per prenumeration under de **senaste 60** dagarna: Användningsbaserade prenumerationer efter beräknat belopp före skatt i dollar aggregerat under de senaste 60 dagarna.
 
-- **Kund Beräknad användnings kostnad per utgifts budget**: kunderna sorteras efter procent andel av den aktuella förbruknings utgifts budgeten som överskrider tröskelvärdet (100%).
+- **Kundens uppskattade användningskostnad efter utgiftsbudget:** Kunder sorterade efter procentandel av den aktuella användningsbudgeten överskrider tröskelvärdet (100 %).
 
-### <a name="azure-resource-usage-report"></a>Azure-resurs användnings rapport:
+### <a name="azure-resource-usage-report"></a>Rapport om Azure-resursanvändning:
 
-- **Användning av Azure-resurser per dag för vald period**: dagliga förbruknings enheter för varje mätnings resurs i varje Använd prenumeration för vald period under de senaste 60 dagarna.
+- **Användning av Azure-resurser per dag** för den valda perioden: Dagliga förbrukningsenheter för varje förbrukningsresurs i varje användningsbaserad prenumeration under den valda perioden under de senaste 60 dagarna.
 
-- **Uppskattad användnings kostnad för Azure-resurser för vald period**: uppskattad kostnad baserat på det senaste kortet för varje mätnings resurs i varje Använd prenumeration för den valda perioden under de senaste 60 dagarna. 
+- **Uppskattad användningskostnad för Azure-resurser** för den valda perioden: Uppskattad kostnad baserat på det senaste priskortet för varje avgiftsbaserad resurs i varje användningsbaserad prenumeration för den valda perioden under de senaste 60 dagarna. 
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Översikt över partner Center-analys för Power BI app](power-bi-app-for-direct-partners.md)
+- [Översikt över partnercenteranalys Power BI app](power-bi-app-for-direct-partners.md)
 
 - [Installera och förhandsgranska partnercenteranalysappen för Microsoft Power BI](power-bi-app-for-direct-partners-install.md)

@@ -4,44 +4,41 @@ ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig hur du återställer ditt partner Center-lösenord eller får hjälp från företagets globala administratör. Lär dig också hur du lägger till en ny global administratör för partner Center.
+description: Lär dig hur du återställer ditt partnercenterlösenord eller får hjälp från företagets globala administratör. Lär dig också hur du lägger till en ny global partnercenteradministratör.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b95ce4a3070414807e31a1aa12a213a332c2a1cc
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: db178f668efcf519264d9ba46dbcb5277cc5b8cd
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105548945"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855530"
 ---
 # <a name="reset-my-password"></a>Återställa mitt lösenord
  
-**Lämpliga roller**
-
-- Global administratör
-- Alla partner som är intresserade av Partner Center
+**Lämpliga roller:** Global | Alla partner som är intresserade av Partnercenter
 
 
-Om du inte kommer ihåg ditt partner Center-lösenord kan du återställa det.
+Om du inte kommer ihåg lösenordet för Partnercenter kan du återställa det.
 
-## <a name="to-reset-your-partner-center-password"></a>Återställa ditt partner Center-lösenord
+## <a name="to-reset-your-partner-center-password"></a>Återställa partnercenterlösenordet
 
-Om du vill använda den här metoden måste din globala administratör redan ha konfigurerat möjligheten för att återställa lösen ordet själv. (Om din globala administratör inte har utfört den här funktionen ber du dem att [återställa ditt lösen ord åt dig](reset-a-user-password.md).)
+Om du vill använda den här metoden måste din globala administratör redan ha ställt in möjligheten att återställa lösenordet själv. (Om din globala administratör inte har gjort den här funktionen ber du dem [att återställa lösenordet åt dig](reset-a-user-password.md).)
 
-1. På **inloggnings** skärmen väljer du **kan inte komma åt ditt konto?** och väljer sedan **Nästa**.
+1. På skärmen **Logga in** väljer du Kan du inte komma åt **ditt konto?** och väljer sedan **Nästa.**
 
-2. Välj **arbets-eller skol konto**.
+2. Välj **Arbets- eller skolkonto.**
 
 3. Ange ditt användar-ID och tecknen i bilden eller ljudet. Välj sedan **Nästa**.
 
-4. Konfigurera det nya lösen ordet.
+4. Konfigurera ditt nya lösenord.
 
 ## <a name="if-your-global-admin-has-left-the-company"></a>Om din globala administratör har lämnat företaget
 
-Om din globala administratör har lämnat företaget eller flyttat till en annan roll och du behöver lägga till en ny global administratör måste du logga en tjänstbegäran på [Microsoft Partner Network portal](https://partner.microsoft.com/commercial#/). Support agenten kan begära höjning av en användare till global administratör om din begär Ande kan tillhandahålla nödvändig personlig identitets information och ge ytterligare information om ditt företag. 
+Om din globala administratör har lämnat företaget eller flyttat till en annan roll och du behöver lägga till en ny global administratör måste du logga en tjänstbegäran på [Microsoft Partner Network portalen.](https://partner.microsoft.com/commercial#/) Supportagenten kan begära utökade privilegier för en användare till global administratör om din beställare kan ange nödvändig personlig identitetsinformation och ange ytterligare information om ditt företag. 
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Om du inte kan logga in på Partner Center och behöver återställa ditt lösen ord](unable-to-sign-in.md)
+- [Om du inte kan logga in på Partnercenter och behöver återställa ditt lösenord](unable-to-sign-in.md)
