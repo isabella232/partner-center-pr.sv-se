@@ -1,48 +1,46 @@
 ---
-title: Fält för. csv-fil för att importera flera användare för ett kund konto
+title: Fält för CSV-fil för att importera flera användare för ett kundkonto
 ms.topic: article
 ms.date: 08/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Om du vill lägga till flera användare i ett kund konto skapar du en fil med kommaavgränsade värden (. csv) med lämpliga fält.
+description: Om du vill lägga till flera användare till ett kundkonto skapar du en fil med kommaavgränsade värden (.csv) med lämpliga fält.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8ba08d97f1d360eae5af1941ed36753addd24939
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 152daadde25a9325937797f7a3daa90dfb59a9b4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441429"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150989"
 ---
-# <a name="add-multiple-users-to-a-customer-account-by-creating-a-csv-file"></a>Lägg till flera användare till ett kund konto genom att skapa en. csv-fil
+# <a name="add-multiple-users-to-a-customer-account-by-creating-a-csv-file"></a>Lägga till flera användare till ett kundkonto genom att skapa en CSV-fil
 
-**Lämpliga roller**
+**Lämpliga roller:** Global administratör
 
-- Global administratör
+Lägg till flera användare till en kunds konto samtidigt genom att ladda upp en datafil i filformatet med kommaavgränsade värden (.csv) till Partnercenter. Du kan ladda ned en exempeldatafil från Partnercenter och sedan redigera den för din användning, eller så kan du skapa en ny datafil med hjälp av den datamodell som definieras nedan.
 
-Lägg till flera användare till ett kund konto samtidigt, genom att ladda upp en datafil i det kommaavgränsade värde fil formatet (. csv) till Partner Center. Du kan ladda ned en exempel data fil från Partner Center och sedan redigera den för din användning, eller så kan du skapa en ny datafil med hjälp av den data modell som anges nedan.
+## <a name="data-file-requirements"></a><a href="" id="creatingtheimportcsvfile"></a>Krav för datafiler
 
-## <a name="data-file-requirements"></a><a href="" id="creatingtheimportcsvfile"></a>Krav för data fil
+Om du vill lägga till flera användare till en kunds konto med massuppladdningsprocessen måste du uppfylla följande krav:
 
-Om du vill lägga till flera användare till ett kund konto med processen för Mass uppladdning måste du uppfylla följande krav:
+- Du måste ha behörighet som global administratör för kundkontot.
+- Varje användare måste ha en unik e-postadress som läggs till i kundens e-postdomäner;
+- Du kan ladda upp upp till 100 poster i taget. Om du behöver lägga till fler än 100 användare kan du skapa och ladda upp ytterligare datafiler.
+- Alla användare måste finnas på samma geografiska **plats.**
+- Ange endast de data som beskrivs nedan. Överflödiga data gör att uppladdningen misslyckas.
 
-- Du måste ha global administratörs behörighet till kund kontot.
-- Varje användare måste ha en unik e-postadress som läggs till kundens e-postdomän.
-- Du kan ladda upp upp till 100 poster i taget. Om du behöver lägga till fler än 100 användare skapar du och laddar upp ytterligare datafiler.
-- Alla användare måste finnas på samma geografiska **plats**.
-- Ange endast de data som beskrivs nedan. Främmande data gör att överföringen Miss fungerar.
-
-Ange följande data i data filen:
+Ange följande data i datafilen:
 
 | **Kolumnnamn** | **Beskrivning**  | **Begränsning**  |
 |:-------- |:------  |:----- |
-| Förnamn  | Användarens förnamn (valfritt fält)  | 50 – tecken gräns  |
-| Efternamn  | Användarens efter namn (valfritt fält)  | 50 – tecken gräns  |
-| Visningsnamn    | Namn som visas i Partner Center (obligatoriskt fält)                            | 50 – tecken gräns                         |
-| E-post   | Användarens företags-e-postadress på kund företaget (obligatoriskt fält)           | Varje användare måste ha en unik e-postadress |
-| Status uppdatering   | Används för att ange om den nya användar posten har skapats | \*\*Lämna tomt\*\*                        |
+| Förnamn  | Användarens förnamn (valfritt fält)  | Gräns på 50 tecken  |
+| Efternamn  | Användarens efternamn (valfritt fält)  | Gräns på 50 tecken  |
+| Visningsnamn    | Namn som visas i Partnercenter (obligatoriskt fält)                            | Gräns på 50 tecken                         |
+| E-post   | Användarens företags-e-postadress på kundföretaget (obligatoriskt fält)           | Varje användare måste ha en unik e-postadress |
+| Statusuppdatering   | Används för att ange om den nya användarposten har skapats | \*\*Lämna tomt\*\*                        |
 
 ## <a name="next-steps"></a>Nästa steg
 

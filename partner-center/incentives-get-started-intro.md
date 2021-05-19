@@ -1,6 +1,6 @@
 ---
 title: Komma igång – incitament
-description: Hitta resurser som hjälper dig att komma igång med stimulans åtgärder. Stegen omfattar att bekräfta att du uppfyller kraven för behörighet och att skicka information om bank, skatt och utbetalning.
+description: Hitta resurser som du kan använda för att komma igång med incitament. Stegen omfattar att bekräfta att du uppfyller behörighetskraven och skicka bank-, skatte- och utbetalningsinformation.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
@@ -8,43 +8,40 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 1b595afdba9ab9192c859c00fc35757ea2e24244
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 53ae5c3cf47ab74ad7dc61777ce512b37f4269fa
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179132"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152043"
 ---
-# <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>Använd dessa resurser för att komma igång med incitament
+# <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>Använd de här resurserna för att komma igång med incitament
 
-**Lämpliga roller**
+**Lämpliga roller:** Incitamentsadministratörsroller | Incitamentsanvändare
 
-- Incitaments administratör
-- Incitaments användare
+Den här artikeln ger en snabb introduktion till Microsofts incitamentsprogram och beskriver några incitamentsresurser som hjälper dig att komma igång.
 
-Den här artikeln ger en snabb introduktion till Microsoft incitaments program och beskriver vissa stimulans resurser som hjälper dig att komma igång.
+## <a name="about-the-incentives-program"></a>Om Incitamentsprogram
 
-## <a name="about-the-incentives-program"></a>Om stimulans programmet
+Som partner i Microsoft Partner Network (MPN) har du tillgång till olika incitamentsprogram som kan hjälpa dig att leverera tjänster till kunder. Dessa program kan också hjälpa dig att expandera din verksamhet.
 
-Som partner i Microsoft Partner Network (MPN) har du till gång till olika incitaments program som kan ge dig en belöning för att leverera tjänster till kunder. Dessa program kan också hjälpa dig att utöka verksamheten.
-
-Om du inte har använt incitament och vill lära dig mer om de tillgängliga stimulans programmen loggar du in på [Microsofts investeringar och incitament](https://partner.microsoft.com/membership/partner-incentives).
+Om du är nybörjare på incitament och vill lära dig mer om tillgängliga incitamentsprogram kan du logga in på [Microsofts investeringar och incitament.](https://partner.microsoft.com/membership/partner-incentives)
 
 > [!NOTE]
-> Om du inte ännu är partner kan du [ansluta till Microsoft Partner Network](https://partner.microsoft.com/membership). På så sätt kan du börja dra nytta av incitament och andra förmåner som är tillgängliga för partner i Microsoft Partner Network.  
+> Om du ännu inte är en partner kan du [ansluta till Microsoft Partner Network](https://partner.microsoft.com/membership). På så sätt kan du börja dra nytta av incitament och andra fördelar som är tillgängliga för partner i Microsoft Partner Network.  
 
-## <a name="incentives-resources-to-help-you-get-started"></a>Uppmuntra resurser som hjälper dig att komma igång
+## <a name="incentives-resources-to-help-you-get-started"></a>Incitamentsresurser som hjälper dig att komma igång
 
-Innan du kan betala för ditt arbete i ett incitaments program måste du ge detaljerad information till Microsoft om ditt program, intäkts berättigande, bank-och skatte profiler med mera. Följande resurser kan hjälpa dig.
+Innan du kan få betalt för ditt arbete i ett incitamentsprogram måste du ge Microsoft specifik information om ditt program, intäktsberättigande, din bank och skatteprofiler med mera. Följande resurser kan vara till hjälp.
 
-|  **För att göra detta**  |  **Läs detta**  |
+|  **Så här gör du**  |  **Läs detta**  |
 |--------------|-----------|
-| Läs mer om att registrera i stimulans programmet | [Registrera dig i stimulans programmet](incentives-enroll.md)  |
-| Lär dig om ditt incitament uppfyller berättiganderegler för ett bestämt incitaments program | [Fastställa behörighet för program](incentives-determined-your-program-eligibility.md)  |
-| Hitta och ange de data som Microsoft kräver innan du kan ta emot dina incitaments utbetalningar | [Skapa och hantera utbetalnings-och skatte profiler i Partner Center](incentives-create-and-manage-your-payout-and-tax-profiles.md)  |
-| Bekräfta att du har angett all information som du behöver vara berättigad till att ta emot incitaments vinster | [Bekräfta ditt intäktsberättigande](incentives-confirm-your-earnings-eligibility.md)  |
-| Se alla data och rapporter för ditt incitaments program | [Visa dina stimulans program och-betalningar](understand-incentive-payouts.md)  |
-| Få åtkomst till din programspecifice-sida med incitaments utbetalningar | [Få åtkomst till din utbetalnings instruktion](payout-statement.md)  |
+| Lär dig mer om registrering i incitamentsprogrammet | [Registrera dig i incitamentsprogrammet](incentives-enroll.md)  |
+| Lär dig om ditt incitamentsarbete uppfyller behörighetskraven för ett specifikt incitamentsprogram | [Fastställa behörighet för program](incentives-determined-your-program-eligibility.md)  |
+| Leta upp och ange de data som Microsoft kräver innan du kan få dina incitamentsbetalningar | [Skapa och hantera utbetalnings- och skatteprofiler i Partnercenter](incentives-create-and-manage-your-payout-and-tax-profiles.md)  |
+| Bekräfta att du har angett all information som du behöver för att få incitamentsintäkter | [Bekräfta ditt intäktsberättigande](incentives-confirm-your-earnings-eligibility.md)  |
+| Se alla data och rapporter för ditt incitamentsprogram | [Visa incitamentprogram och betalningar](understand-incentive-payouts.md)  |
+| Få åtkomst till din programspecifika sida med incitamentsbetalningar | [Få åtkomst till ditt utbetalningsutdrag](payout-statement.md)  |
 
 ## <a name="next-steps"></a>Nästa steg
 

@@ -1,6 +1,6 @@
 ---
-title: Incitament för program berättigande
-description: Kontrol lera att du har uppfyllt kraven för stimulans programmet. Den här processen omfattar att kontrol lera berättigande i din program guide.
+title: Incitamentsprogram behörighet
+description: Kontrollera att du har uppfyllt behörighetskraven för incitamentsprogrammet. Den här processen omfattar kontroll av berättigande i programguiden.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -8,27 +8,24 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 03/16/2021
-ms.openlocfilehash: cd54249e1fb53fdf3a753b38d1e9999008b9d79a
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 8b9442a99aaf1ed23242eb568859d3113a8262d4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179231"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152111"
 ---
-# <a name="determine-your-incentives-program-eligibility"></a>Ta reda på vilka incitaments program som är berättigade
+# <a name="determine-your-incentives-program-eligibility"></a>Fastställa behörighet för incitamentsprogrammet
 
-**Lämpliga roller**
+**Lämpliga roller:** Globala | Incitamentsadministratör
 
-- Global administratör
-- Incitaments administratör
-
- Varje incitamentprogram har särskilda behörighetskrav. Programmets behörighetskrav syftar till att säkerställa att nödvändiga avtal är undertecknade, att det finns nödvändig kompetens, att det finns en rimlig intäktsprognos och andra saker som krävs för att incitamentsprogrammet ska bli framgångsrikt.
+Varje incitamentprogram har särskilda behörighetskrav. Programmets behörighetskrav syftar till att säkerställa att nödvändiga avtal är undertecknade, att det finns nödvändig kompetens, att det finns en rimlig intäktsprognos och andra saker som krävs för att incitamentsprogrammet ska bli framgångsrikt.
 
 ## <a name="determining-your-program-eligibility"></a>Fastställa behörighet för program
 
 Du kan hitta de särskilda behörighetskraven för ditt program i programguiden. 
 
-### <a name="to-see-your-program-guide"></a>Så här visar du din program guide
+### <a name="to-see-your-program-guide"></a>Så här visar du programguiden
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 
@@ -36,12 +33,12 @@ Du kan hitta de särskilda behörighetskraven för ditt program i programguiden.
 
 3. Välj det program som du vill använda.
 
-4. I fältet **status** väljer du **berättigande krav**.
+4. I fältet **Status** väljer du **Behörighetskrav.**
 
-   :::image type="content" source="images/incentives/eligibility.png" alt-text="Skärm bild är ett exempel på incitaments krav.":::
+   :::image type="content" source="images/incentives/eligibility.png" alt-text="Skärmbild är ett exempel på incitamentskrav.":::
 
-5. Slutför alla områden som är avmarkerade för att uppfylla berättiganden. Varje incitaments program har en egen uppsättning krav.
+5. Slutför alla områden som är avmarkerade för att uppfylla behörighetskraven. Varje incitamentsprogram har en egen uppsättning krav.
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Utbetalning och skatte profiler för stimulans program](incentives-create-and-manage-your-payout-and-tax-profiles.md)
+- [Utbetalnings- och skatteprofiler för incitamentsprogram](incentives-create-and-manage-your-payout-and-tax-profiles.md)

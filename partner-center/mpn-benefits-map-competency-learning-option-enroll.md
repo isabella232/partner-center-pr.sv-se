@@ -1,136 +1,133 @@
 ---
-title: Registrera dig som en utbildnings partner
+title: Registrera dig som utbildningspartner
 ms.topic: how-to
 ms.date: 02/05/2021
-description: Använd partner Center för att registrera dig i programmet för utbildnings partner. Du kan göra detta baserat på inlärnings Action Pack eller inlärnings alternativet för silver eller guld kompetens.
+description: Använd Partnercenter för att registrera dig i Utbildningsprogram. Du kan göra det baserat på utbildnings-Action Pack eller utbildningsalternativet för silver- eller guldkompetenser.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: de833ae713fe88335103e9dbaa96153ad20ec84e
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 5043e26b578f2d2dcaa45cd86105e4c540a82ab8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133054"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151448"
 ---
-# <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>Använda Partner Center för att registrera sig som en Microsoft Learning-partner
+# <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>Använd Partnercenter för att registrera dig Microsoft Learning partner
 
-**Lämpliga roller**
+**Lämpliga roller:** MPN-partneradministratör | Kontoadministratör
 
-- MPN-partner administratör
-- Kontoadministratör
+Den här artikeln beskriver de olika sätt som en partner i Microsoft Partner Network kan registrera sig i programmet för utbildningspartner.
 
-I den här artikeln beskrivs de olika sätt som en partner i Microsoft Partner Network kan registrera sig i Learning partner-programmet.
+Framgången i programmet för utbildningspartner mäts av KPI:er (Key Performance Indicators) som är utformade för att ge utbildning till utbildningspartner när de slutför viss Microsoft-utbildning. KPI:er spåras baserat på partnerinköp av kvalificerande Official Microsoft Learning Products (OMLP) från Courseware Marketplace.
 
-Lyckad i utbildnings partner programmet mäts av KPI: er (nyckeltal) som är utformade för att belöna utbildnings partners när de har slutfört vissa Microsoft-utbildningar. KPI: er spåras baserat på partner köp av kvalificerade officiella Microsoft Learning-produkter (OMLP) från Marketplace för kurs litteratur.
+Partner kan använda Partnercenter för att registrera sig i utbildningsprogram. De gör det via utbildningsalternativet som finns under Microsoft Action Pack-prenumerationen eller under utbildningsalternativet som är associerat med vissa silver- eller guldkompetenser.
 
-Partner kan använda Partner Center för att registrera sig i Learning partner-programmet. De gör detta via det inlärnings alternativ som finns under Microsoft Action Pack-prenumerationen eller under det inlärnings alternativ som är kopplat till vissa silver-eller guld kompetensar.
+Den här processen är helt automatiserad i Partnercenter och kräver inte längre ett affärsprogram som det brukade göra i Partner Membership Center.
 
-Den här processen är helt automatiserad i Partner Center och kräver inte längre ett affärs program som det används för att göra i partner medlemskaps Center.
+När du registrerar dig i programmet för utbildningspartner finns det några saker att tänka på:
 
-När du registrerar dig i programmet för utbildnings partner är några saker att tänka på:
+- KPI-kraven för utbildningspartnerprogram kan ändras varje år.
 
-- KPI-krav för utbildnings partner program kan komma att ändras varje år.
+- KPI:er för inlärning måste uppfyllas i Partnercenter från och med det första registreringsåret.
 
-- Utbildnings-KPI: er måste vara uppfyllda i Partner Center med början av det första året med registreringen.
+- **Resurser för nya partner:** Om du är en ny partner som är intresserad av att få en kompetens under alternativet Utbildning kan du lära dig mer om processen med tillgångssamlingen för [inlärningsalternativ.](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/)
 
-- **Resurser för nya partner:** Om du är en ny partner som vill uppnå en kompetens under inlärnings alternativet kan du lära dig mer om processen med hjälp av [inlärnings alternativet till gångs samling](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/).
+**COVID-19 UPDATE**
 
-**COVID-19-UPPDATERING**
+Microsoft erbjuder kompetenstillägg (med undantag för Cloud Business Applications-kompetensen) och ett avancerat specialiseringstillägg för partner med årsdagar (AD) mellan den 1 januari 2021 och den 30 juni 2021. Mer information [finns i vårt partnerblogginlägg.](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)
 
-Microsoft erbjuder kompetens tillägg (med undantag av Cloud Business Applications-kompetensen) och avancerad specialisering för partner med årsdags datum (AD) mellan 1 januari 2021 och 30 juni 2021. Mer information hittar du i blogg inlägget för [partner](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) .
+Om du vill hålla dig uppdaterad med meddelanden om utbildningsprogram kan du läsa vår [blogg](https://techcommunity.microsoft.com/t5/microsoft-learn/ct-p/MicrosoftLearn) och kolla in vår [Yammer-sida för utbildningspartner.](https://web.yammer.com/main/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiI4NDU0NDI3In0/all) Du kan också hitta programdokument och månatliga community-samtalsinspelningar på vår [utbildningsresurser-sida.](https://partner.microsoft.com/marketing/learning-resources#/)
 
-För att hålla dig uppdaterad med inlärnings program, bör du [läsa vår blogg](https://techcommunity.microsoft.com/t5/microsoft-learn/ct-p/MicrosoftLearn) och kolla vår [utbildnings partner Yammer-sida](https://web.yammer.com/main/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiI4NDU0NDI3In0/all). Du kan också hitta program dokument och inspelade community-telefonsamtal på vår [utbildnings resurser-sida](https://partner.microsoft.com/marketing/learning-resources#/).
+## <a name="enroll-with-the-learning-action-pack"></a>Registrera med learning-Action Pack
 
-## <a name="enroll-with-the-learning-action-pack"></a>Registrera dig för Learning-Action Pack
+Utbildnings Action Pack är grundnivån i utbildningsprogrammet för partner. Om du är nybörjare på utbildningslinjen och din organisation inte har gjort någon Microsoft Courseware-utbildning tidigare ger Microsoft dig den här möjligheten att registrera dig som Microsoft Learning partner. Du behöver bara köpa learning-Action Pack.
 
-Learning Action Pack är en post på grund nivå i programmet för utbildnings partner. Om du är nybörjare på inlärnings linjen och din organisation inte har utfört någon Microsoft kurs Materials utbildning tidigare ger Microsoft dig den här möjligheten att registrera sig som en Microsoft Learning-partner. Du behöver bara köpa Learning-Action Pack.
+Learning Action Pack har stöd för partner som vill tillhandahålla utbildningstjänster, erbjudanden eller rabatter på marknadsplatsen för kursprogram och fördelar som hjälper partner att bli experter på olika Microsoft-produktlinjer.
 
-Learning Action Pack har stöd för partner som vill tillhandahålla utbildnings tjänster, erbjudanden eller rabatter på marknads plats Marketplace och fördelar för att hjälpa våra partner att bli experter på olika produkt linjer i Microsoft.
+Icke-utbildningspartner kan köpa kursprogram till fullpris endast för intern utbildning. Om du vill leverera innehållet utanför din organisation behöver du en Microsoft Certified Trainer (en MCT) och du måste registrera dig för Action Pack.
 
-Partner som inte är utbildnings partner kan köpa kurs material till fullt pris enbart för intern utbildning. Om du vill leverera innehållet utanför din organisation behöver du en Microsoft Certified Trainer (en MCT) och du måste registrera dig för Learning-Action Pack.
+När du når de KPI:er som krävs kan du slutföra de ytterligare kraven och välja att uppgradera till ett silver-/guldinlärningsalternativ.
 
-När du har nått de nödvändiga KPI: erna kan du sedan slutföra de ytterligare kraven och välja att uppgradera till ett silver/guld-inlärnings alternativ.
+- Om du vill kvalificera Action Pack utbildning i Partnercenter måste du ha minst en (1) MCT. Du behöver inte uppfylla några andra KPI:er för inlärning.
+- Använd följande steg för Action Pack aktivera din utbildnings- och Action Pack:
+   1. Följ stegen som beskrivs i Köp [eller förnya en Microsoft Action Pack prenumeration.](mpn-get-action-pack.md)
+   2. Kontakta [supportteamet för Partner Frontline](https://partner.microsoft.com/support) för att få hjälp med att konfigurera en ny kontoprofil. Detta ger dig åtkomst till Microsoft Courseware-utbildningen på Courseware Marketplace.
 
-- För att kunna använda utbildnings Action Pack i Partner Center måste du ha minst en (1) MCT. Du behöver inte uppfylla några andra utbildnings-KPI: er.
-- Använd följande steg för att aktivera din utbildnings Action Pack:
-   1. Följ de steg som beskrivs i [köpa eller förnya en prenumeration på Microsoft Action Pack](mpn-get-action-pack.md).
-   2. Kontakta [partner Frontline support](https://partner.microsoft.com/support) team för att hjälpa dig att skapa en ny konto profil. Detta ger dig till gång till Microsoft kurs Materials utbildning på kurs litteratur marknaden.
+## <a name="enroll-with-a-silver-competency-learning-option"></a>Registrera med ett alternativ för silverkompetensinlärning
 
-## <a name="enroll-with-a-silver-competency-learning-option"></a>Registrera dig med ett utbildnings alternativ för silver kompetens
-
-Utbildnings partner som vill uppnå en silver nivå av medlemskap kan registreras i det silver inlärnings alternativ som är associerat med en speciell kompetens. För att göra detta måste de uppfylla de silver Learning Options-krav som gäller för den aktuella kompetensen.
+Utbildningspartner som vill uppnå en silvernivå av medlemskap kan registrera sig i silverutbildningsalternativet som är associerat med en specifik kompetens. För att göra det måste de uppfylla kraven för Silver Learning-alternativet för den specifika kompetensen.
 
 > [!NOTE]
-> Mer information om vilka kompetenser som erbjuder ett silver-eller guld inlärnings alternativ finns på sidan med senaste [kompetens](https://partner.microsoft.com/membership/competencies). 
+> Mer information om vilka kompetenser som erbjuder ett silver- eller guldutbildningsalternativ finns på den senaste [kompetenssidan.](https://partner.microsoft.com/membership/competencies) 
 
-Om du vill kvalificera och registrera dig för en speciell silver kompetenss utbildnings alternativ, granskar du kompetensens silver-krav för att se till att du uppfyller dem. Följ sedan dessa steg:
+Om du vill kvalificera dig för och registrera dig för ett specifikt utbildningsalternativ för silverkompetens kan du läsa igenom kompetensens silverkrav för att se till att du uppfyller dem. Följ sedan dessa steg:
 
-- Genomför de **prestanda krav** som beskrivs i prestanda rikt linjerna för inlärnings program. Dessa rikt linjer är tillgängliga från [webbplatsen utbildnings resurser](https://partner.microsoft.com/marketing/learning-resources#/).
+- Genomför de **prestandakrav som beskrivs** i prestandariktlinjerna för utbildningsprogram. Dessa riktlinjer finns på webbplatsen [för utbildningsresurser.](https://partner.microsoft.com/marketing/learning-resources#/)
 
-- Uppfylla **MCT-kraven (Microsoft Certified Trainer)**
+- Uppfylla **kraven för Microsoft Certified Trainer (MCT)**
 
-- Uppfylla **Tentamens kraven**
+- Uppfylla **provkraven**
 
-- Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard)och välj sedan **MPN** från menyn till vänster-navigering följt av **medlemskaps erbjudanden**. Följ sedan de här [stegen](mpn-get-action-pack.md) för att prenumerera på Silver kompetens nivån. Den här artikeln om [kompetens avgifts betalning](mpn-pay-fee-silver-gold-competency.md) kan också vara användbar.
+- Logga in på instrumentpanelen i [Partnercenter](https://partner.microsoft.com/dashboard)och välj **SEDAN MPN** på den vänstra navigeringsmenyn följt av **Medlemskapserbjudanden.** Följ sedan de här [stegen](mpn-get-action-pack.md) för att prenumerera på silverkompetensnivån. Den här artikeln [om betalning med kompetensavgifter](mpn-pay-fee-silver-gold-competency.md) kan också vara användbar.
 
-## <a name="enroll-with-a-gold-competency-learning-option"></a>Registrera dig med ett utbildnings alternativ för guld kompetens
+## <a name="enroll-with-a-gold-competency-learning-option"></a>Registrera med ett utbildningsalternativ med guldkompetens
 
-Innan du kan registrera dig för alternativet guld kompetens inlärning måste du se till att du uppfyller de krav som gäller för utbildnings alternativ i Gold-nivå.
+Innan du kan registrera dig med utbildningsalternativet guldkompetens måste du se till att du uppfyller den specifika kompetensens krav på utbildningsalternativ på guldnivå.
 
-Att registrera i (eller förnya) ett guld kompetens alternativ har olika krav än att registrera dig i Learning Action Pack-eller silver kompetens inlärnings alternativet. För att uppfylla kraven för ett guld kompetens inlärnings alternativ måste du också uppfylla kompetens kraven på Gold-utbildnings-KPI. Om du inte har uppfyllt KPI: erna eller andra krav måste du registrera dig i Learning Action Pack eller silver alternativ beroende på vilken nivå av krav som uppfylls, om du vill bli en utbildnings partner.
+Registrering i (eller förnyelse) av ett utbildningsalternativ med guldkompetens har andra krav än registrering i utbildningsalternativet Learning Action Pack eller silver competency Learning. För att uppfylla kraven för ett utbildningsalternativ med guldkompetens måste du också uppfylla kompetensens kpi-krav på guldnivåinlärning. Om du inte har uppfyllt KPI:erna eller andra krav måste du registrera dig i alternativet Learning Action Pack eller Silver beroende på vilken nivå av krav som uppfylls om du vill bli utbildningspartner.
 
 > [!NOTE]
-> Du kanske redan är registrerad i en ny kompetens och redan har uppfyllt kraven för inlärnings alternativ för silver Learning för den kompetensen. Om du sedan vill gå vidare till det inlärnings alternativ för Gold-nivån för den kompetensen måste du fortsätta att uppfylla kompetensens nyckeltal på guld nivå och andra guld nivå krav. När kraven på guld nivån är uppfyllda kan du dra nytta av [MPN-erbjudandet – uppgradera silver-till-guld-rabatten](mpn-pay-fee-silver-gold-competency.md#apply-upgrade-discount-when-moving-from-silver-to-gold).
+> Du kanske redan har registrerat dig för en ny kompetens och redan har uppnått kraven för silverinlärning för den kompetensen. Om du sedan vill uppnå utbildningsalternativet på guldnivå för den kompetensen måste du fortfarande uppfylla kompetensens KPI:er på guldnivå och andra krav på guldnivå. När kraven på guldnivå är uppfyllda kan du dra nytta av MPN-erbjudandet – uppgradera [silver-till-guld-rabatten.](mpn-pay-fee-silver-gold-competency.md#apply-upgrade-discount-when-moving-from-silver-to-gold)
 
-## <a name="frequently-asked-questions-about-learning-partner-enrollment"></a>Vanliga frågor och svar om registrering av utbildnings partner
+## <a name="frequently-asked-questions-about-learning-partner-enrollment"></a>Vanliga frågor och svar om registrering av utbildningspartner
 
-### <a name="q-do-i-need-to-submit-a-business-application-plan-in-partner-center-to-enroll-in-a-learning-option"></a>F. Måste jag skicka in en affärs program plan i Partner Center för att kunna registrera sig i ett utbildnings alternativ?
+### <a name="q-do-i-need-to-submit-a-business-application-plan-in-partner-center-to-enroll-in-a-learning-option"></a>F. Måste jag skicka en plan för affärsprogram i Partnercenter för att registrera mig för ett utbildningsalternativ?
 
-Nej. I Partner Center krävs ingen affärs program plan för att uppnå en kompetens via inlärnings alternativet. Du måste uppfylla utbildnings-KPI: er från det första året vid registreringen.
+Nej. I Partnercenter krävs ingen plan för affärsprogram för att uppnå en kompetens med hjälp av utbildningsalternativet. Du behöver uppfylla KPI:er för inlärning från det första registreringsåret.
 
-### <a name="q-if-i-am-a-net-new-partner-and-decide-to-buy-courseware-trainings-or-certifications-before-applying-for-the-learning-option-will-the-kpis-be-recognized-by-partner-center-automatically"></a>F: om jag är en net-New-partner och vill köpa kurs material, utbildningar eller certifieringar innan du ansöker om inlärnings alternativet, kommer KPI: erna att identifieras av Partner Center automatiskt?
+### <a name="q-if-i-am-a-net-new-partner-and-decide-to-buy-courseware-trainings-or-certifications-before-applying-for-the-learning-option-will-the-kpis-be-recognized-by-partner-center-automatically"></a>F: Om jag är en ny nettopartner och väljer att köpa kursprogram, utbildningar eller certifieringar innan jag söker utbildningsalternativet, kommer KPI:erna att identifieras automatiskt av Partnercenter?
 
-Ja, KPI: er bör identifieras i Partner Center.
+Ja, KPI:erna ska kännas igen i Partnercenter.
 
-### <a name="q-where-should-i-go-in-case-there-is-a-discrepancy-between-kpis-in-partner-center-under-the-learning-option-and-my-kpi-dashboard"></a>F. Var ska jag få en avvikelse mellan KPI: er i Partner Center under utbildnings alternativet och min KPI-instrumentpanel?
+### <a name="q-where-should-i-go-in-case-there-is-a-discrepancy-between-kpis-in-partner-center-under-the-learning-option-and-my-kpi-dashboard"></a>F. Var ska jag gå om det finns en avvikelse mellan KPI:er i Partnercenter under utbildningsalternativ och min KPI-instrumentpanel?
 
-Kontakta [partner Frontline-supporten](https://partner.microsoft.com/support). Du måste ange följande information (från KPI-instrumentpanelen) för att hjälpa oss att spåra dina KPI: er:
+Kontakta [supporten för partnerns frontlinje.](https://partner.microsoft.com/support) Du måste ange följande information (från KPI-instrumentpanelen) som hjälper oss att spåra dina KPI:er:
 
 - Månad
 - Year
-- Typ av OMLP
-- Inköps enhet
-- Voice #
+- OMLP-typ
+- Inköpsenhet
+- Faktura #
 - KPI-värde
-- Intäkts värde
+- Intäktsvärde
 
-KPI-rapporter uppdateras en gång i månaden under mitten av månaden. Godkännande av inlärnings program mäts för KPI: er som uppnås under de föregående 12 månaderna av prestanda aktivitet, baserat på din jubileums dag. Om du till exempel startar 15 januari 2020 visas KPI-data under perioden januari 2019 till december 2019. Om din faktura var daterad januari 2020 skulle motsvarande KPI: er vara synliga från och med 15 februari 2019. **Order bekräftelser och partner rapporter kommer inte att godkännas.** Endast faktiska fakturor kommer att godkännas.
+KPI-rapporter uppdateras en gång i månaden i mitten av månaden. Behörighet för förnyelse av utbildningsprogram mäts för KPI:er som uppnåtts under de senaste 12 månadernas prestandaaktivitet, baserat på årsdagen. Från och med 15 januari 2020 skulle KPI-data till exempel visas för perioden januari 2019 till december 2019. Om din faktura är daterad januari 2020 visas motsvarande KPI:er från och med den 15 februari 2019. **Orderbekräftelser och partnerrapporter godkänns inte.** Endast faktiska fakturor accepteras.
 
-### <a name="q-does-a-one-day-training-equate-to-one-kpi"></a>F. Motsvarar en utbildning på en dag en KPI?
+### <a name="q-does-a-one-day-training-equate-to-one-kpi"></a>F. Motsvarar en endagarsträning en KPI?
 
-Att uppfylla en KPI är inte relaterat till utbildningens varaktighet. Om du vill veta mer om hur KPI: er mäts kontrollerar du prestanda exemplen i [registrerings guiden för utbildnings partner](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/).
+Att uppfylla ett KPI gäller inte varaktigheten för träningen. Mer information om hur KPI:er mäts finns i prestandaexempel i [registreringsguiden för utbildningspartner.](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/)
 
-### <a name="q-why-dont-i-appear-as-a-microsoft-learning-partner-in-the-learning-partner-directory"></a>F. Varför visas inte som en Microsoft Learning-partner i Learning partner-katalogen?
+### <a name="q-why-dont-i-appear-as-a-microsoft-learning-partner-in-the-learning-partner-directory"></a>F. Varför visas jag inte som en Microsoft Learning i katalogen Utbildningspartner?
 
-Vi kan behöva lägga till dig i [Learning partner-katalogen](/learn/certifications/partners). Sedan kan du länka till din webbplats från sidan Learning partner Directory.
+Vi kan behöva lägga till dig i katalogen [Utbildningspartner.](/learn/certifications/partners) Du kan sedan länka till din webbplats från katalogsidan för utbildningspartner.
 
-Det här är en manuell process som bara skickas en gång per månad, under den tredje veckan. Den efterföljande uppdateringen visas i slutet av den första veckan i följande månad. Kontakta [partner Frontline support](https://partner.microsoft.com/support)om du behöver hjälp med att lösa problemet. Var beredd på att ange följande information:
+Det här är en manuell process som endast skickas en gång i månaden under den tredje veckan. Den efterföljande uppdateringen visas i slutet av den första veckan i efterföljande månad. Du kan lösa problemet genom att kontakta [supporten för partner på frontlinjen.](https://partner.microsoft.com/support) Var beredd på att ange följande information:
 
-- Det namn som ska visas i katalogen
+- Namnet som ska visas i katalogen
 
 - Det associerade landet
 
-- URL: en för den tillhör ande landnings sidan för Microsoft-teman
+- URL:en för den associerade landningssidan med Microsoft-tema
 
    > [!NOTE]
-   > URL: en ska vara till en webbplats som ägs av partner med en Microsoft-landnings sida. Den Microsoft-angivna sidan måste också:
-   > - Är bara **"partner X"**
+   > URL:en ska vara till en partnerägd webbplats med en Microsoft-landningssida. Den Microsoft-specifika sidan måste också:
+   > - Handlar **bara om "Partner X"**
    > - Visa **inga konkurrenter**
-   > - **Ägas av** "partner X"
+   > - Ägs **av** "Partner X"
 
 ## <a name="next-steps"></a>Nästa steg
 
-[Läs mer](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/) om registrering av utbildnings alternativ
+[Läs mer om](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/) registrering av utbildningsalternativ

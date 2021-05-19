@@ -1,96 +1,91 @@
 ---
-title: Migrera företag från PMC till Partner Center
+title: Migrera företag från PMC till Partnercenter
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Vad du behöver veta när du migrerar flera företag från partner medlemskaps Center (PMC) till Partner Center och konsoliderar dem till ett globalt partner konto.
+description: Vad du behöver veta när du migrerar flera företag från Partner Membership Center (PMC) till Partnercenter och konsoliderar dem till ett partner globalt konto.
 author: parthpandyaMSFT
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0787056d8d32db4a2975f7488bb65141c240ff88
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 2c9973bf82957cd017abfc59c25b0c17173cb3f8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132663"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151601"
 ---
-# <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Flytta flera företag till Partner Center från partner medlemskaps Center (PMC)
+# <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Flytta flera företag till Partnercenter från Partner Membership Center (PMC)
 
-**Lämpliga roller**
+**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Administratörsagent | Försäljningsagent
 
-- Global administratör
-- Administratör för användar hantering
-- Administratörs agent
-- Försäljnings agent
+När du flyttar ditt företagskonto från PMC till Partnercenter kan du behöva flytta flera konton. I Partnercenter konsolideras dessa konton till ett globalt konto (PGA). Det första kontot du flyttar betraktas som partnerns globala konto och alla efterföljande konton konsolideras till det första kontot som platser. Starta flytten med PMC-kontot för företagets huvudkontor. Mer information finns i [Guide to migrating from PMC to Partner Center](guide-to-migration.md) (Guide för att migrera från PMC till Partnercenter) eller titta på den här korta videon Om konton för flera platser på ett enkelt [sätt.](https://vimeo.com/290335248)
 
-När du flyttar ditt företagskonto från PMC till Partnercenter kan du behöva flytta flera konton. Dessa konton samlas in i ett globalt konto (PGA) i Partner Center. Det första kontot som du flyttar kommer att anses som globalt konto för partnern och alla efterföljande konton samlas in i det första kontot som platser. Starta flytten med PMC-kontot för företagets huvud kontor. Mer information finns i [Guide för att migrera från PMC till Partner Center](guide-to-migration.md) eller titta på det här korta video [kontot för flera platser](https://vimeo.com/290335248).
+## <a name="move-your-additional-accounts-into-partner-center"></a>Flytta dina ytterligare konton till Partnercenter
 
-## <a name="move-your-additional-accounts-into-partner-center"></a>Flytta ytterligare konton till Partner Center
+Eftersom du redan har flyttat ett företagskonto till Partnercenter kommer vi att meddela dig vilket konto som redan finns i Partnercenter när du loggar in.
 
-Eftersom du redan har flyttat ett företags konto till Partner Center, kommer vi att meddela dig vilket konto som redan finns i Partner Center när du loggar in.
+Om du upptäcker att fel företagskonto har angetts som juridisk verksamhet när du har migrerat kan du ändra den benämningen.
 
-Om du upptäcker att fel företags konto har angetts som juridisk verksamhet när du har migrerat, kan du ändra den beteckningen.
+1. Gå till din **partnerprofil.**
 
-1. Gå till din **partner profil.**
+2. Kontrollera att den plats som du vill utse som Juridisk verksamhet finns i listan över platser. Om den inte är det lägger du till den.
 
-2. Kontrol lera att den plats som du vill ange som juridisk verksamhet finns i listan över platser. Om den inte är det lägger du till den.
+3. Välj **Uppdatera juridisk företagsprofil.**
 
-3. Välj **Uppdatera juridisk företags profil.**
-
-4. Välj företag och region och spara.
+4. Välj företag och region och spara den.
 
 :::image type="content" source="images/migration/accountwithus.png" alt-text="Befintligt konto":::
 
-## <a name="your-company-has-an-account-in-partner-center"></a>Ditt företag har ett konto i Partner Center
+## <a name="your-company-has-an-account-in-partner-center"></a>Ditt företag har ett konto i Partnercenter
 
-Du ser ditt befintliga konto och en anteckning som visar att företagets information (det konto som du loggar in med) samlas in i det här kontot.
+Du ser ditt befintliga konto och en anteckning som talar om att din företagsinformation (det konto som du för närvarande loggar in med) kommer att konsolideras till det här kontot.
 
-:::image type="content" source="images/migration/existingaccount2.png" alt-text="Konto i Partner Center":::
+:::image type="content" source="images/migration/existingaccount2.png" alt-text="Konto i Partnercenter":::
 
-På den här skärmen visas information om det befintliga kontot (namn och adress) som redan har skapats i Partner Center tillsammans med information om den primära kontakten.
+Den här skärmen visar information om det befintliga kontot (namn och adress) som redan har skapats i Partnercenter tillsammans med information om den primära kontakten.
 
 Välj **Fortsätt**.
 
-## <a name="what-happens-during-consolidation-of-accounts"></a>Vad händer under konsolidering av konton
+## <a name="what-happens-during-consolidation-of-accounts"></a>Vad händer vid konsolidering av konton
 
 - Du kan inte ändra någon information på den här skärmen.
 
-- Kontot i PMC (som du flyttar för närvarande) kommer att samlas in i det här befintliga kontot
+- Kontot i PMC (som du flyttar) konsolideras till det befintliga kontot
 
-- Din HQ och alla platser i PMC kommer att flyttas till det här befintliga partner Center-kontot som platser
+- Ditt HQ och alla platser i PMC kommer att flyttas till det befintliga Partner Center-kontot som platser
 
-- När konsolideringen är klar visas alla konto uppgifter som platser i det befintliga partner Center-kontot
+- När konsolideringen är klar visas all din kontoinformation som platser i det befintliga Partnercenter-kontot
 
-- Alla MPN-ID: n bevaras under denna konsolidering
+- Alla MPN-ID:er bevaras under den här konsolideringen
 
-- Alla dina befintliga kompetenser (Gold/Silver), inköp (kartor/guld/silver) och tillhör ande förmåner bevaras under konsolideringen
+- Alla befintliga kompetenser (Guld/Silver), inköp (MAPS/Guld/Silver) och tillhörande förmåner bevaras under konsolideringen
 
-- Du (användaren som loggade in med e-postadressen för arbetet) läggs automatiskt till som MPN-administratör och en konto administratör till det befintliga partner Center-kontot så att du kan administrera kontot efter behov
+- Du (användaren som loggade in med e-post-ID:t för arbetet) läggs automatiskt till som MPN-administratör och kontoadministratör för det befintliga Partnercenter-kontot så att du kan administrera kontot efter behov
 
-## <a name="review-your-company-information"></a>Granska företagets information
+## <a name="review-your-company-information"></a>Granska företagsinformation
 
-Kontrol lera informationen om ditt företag och redigera vid behov.  Informationen kommer att användas för att migrera ditt konto till Partner Center, så se till att informationen är korrekt.
+Kontrollera informationen om ditt företag och redigera om det behövs.  Den här informationen används för att migrera ditt konto till Partnercenter, så se till att informationen är korrekt.
 
-Informationen baseras på informationen i PMC och kommer att kontrol leras för att säkerställa att företaget är legitimt.
+Informationen baseras på informationen i PMC och kommer att verifieras för att säkerställa att företaget är legitimt.
 
 
 :::image type="content" source="images/migration/review.png" alt-text="Granska information":::
 
-Om kontot du flyttar finns i samma land eller region som det befintliga kontot kan du välja om du vill använda adressen eller lägga till en annan. Om du väljer att använda en annan adress kommer den adressen att verifieras. Om du vill använda samma adress kommer den befintliga adressen och den primära kontakten att användas.
+Om det konto som du flyttar finns i samma land eller region som det befintliga kontot kan du bestämma om du vill använda den adressen eller lägga till en annan. Om du väljer att använda en annan adress verifieras den adressen. Om du vill använda samma adress används den befintliga adressen och den primära kontakten.
 
-När du har verifierat/redigerat informationen på den här skärmen väljer du **Skicka** och dina konton konsol IDE ras.
+När du har verifierat/redigerat informationen på den här skärmen väljer **du Skicka** så konsolideras dina konton.
 
-## <a name="partner-profile"></a>Partner profil
+## <a name="partner-profile"></a>Partnerprofil
 
-När du visar din profil visas informationen för din juridiska verksamhet (i PMC detta var huvud kontor) och information för alla ytterligare platser.
+När du visar din profil visas informationen för ditt juridiska företag (i PMC var det här huvudkontoret) och informationen för alla ytterligare platser.
 
 ## <a name="next-steps"></a>Nästa steg
 
 - [Flytta från PMC till Partnercenter](move-pmc-pc-map.md)
 - [Skapa användarkonton](create-user-accounts-and-set-permissions.md)
 - [Tilldela användarroller och behörigheter](permissions-overview.md)
-- [Hantera dina medlemskaps program](renew-mpn-offers.md)
-- [Skapa företagets företags profil](create-a-marketing-profile.md)
+- [Hantera dina medlemskapsprogram](renew-mpn-offers.md)
+- [Skapa företagets företagsprofil](create-a-marketing-profile.md)
 - [Ansluta till kunder via hänvisningar](manage-leads.md)

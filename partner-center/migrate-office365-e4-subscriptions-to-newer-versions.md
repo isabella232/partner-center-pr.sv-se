@@ -4,105 +4,100 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Microsoft Office 365 Enterprise E4 Edition dras tillbaka den 7 april 2017. Lär dig hur du migrerar kund prenumerationer till nyare versioner av Office 365.
+description: Microsoft Office 365 Enterprise E4-versionen dras tillbaka den 7 april 2017. Lär dig hur du migrerar dina kundprenumerationer till nyare versioner av Office 365.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a9662e0ce99fc054149dfbd4149532ce336eff6
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: f738ddace805838cdf202c23cca8535c11cbdf54
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132629"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151567"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrera Office 365 E4-prenumerationer till senare Office 365-versioner
 
-**Lämpliga roller**
+**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Administratörsagent | Försäljningsagent
 
-- Global administratör
-- Administratör för användar hantering
-- Administratörs agent
-- Försäljnings agent
+Office 365 Enterprise E4-planen dras tillbaka från och med den 7 april 2017. Du kan inte längre köpa nya Office 365 E4-prenumerationer efter detta datum, och befintliga E4-prenumerationer förnyas inte automatiskt när de upphör att gälla.
 
-Office 365 Enterprise E4 plan dras tillbaka, från och med 7 april 2017. Du kan inte längre köpa nya Office 365 E4-prenumerationer efter det här datumet och befintliga E4-prenumerationer kommer inte att förnyas automatiskt när de upphör att gälla.
-
-När E4-prenumerationer slutar, kommer de att avbrytas. För att säkerställa kontinuitet för kunderna bör du överföra kunder med att förfalla E4-prenumerationer till ett SKU-alternativ som stöds, som anges nedan. Vi rekommenderar att du flyttar kunder till nya prenumerationer före prenumerationens årliga slutdatum för att undvika eventuella avbrott i tjänsten för kunderna. 
+När E4-prenumerationer avslutas avbryts de. För att säkerställa kontinuitet för kunder bör du föra över kunder med utgående E4-prenumerationer till ett SKU-alternativ som stöds, som anges nedan. Vi rekommenderar att du flyttar kunder till nya prenumerationer före prenumerationens årliga slutdatum för att undvika eventuella tjänstavbrott för kunder. 
 
 > [!NOTE]  
-> Både Office 365 Enterprise E4-kommersiella och offentliga SKU: er dras tillbaka.
+> Både kommersiella SKU:er och myndighets-SKU:er för Office 365 Enterprise E4 dras tillbaka.
  
-På prenumerationens informations sida har status för E4-prenumerationen ändrats till "upphör att gälla [datum]" från "Auto News på [Date]". 
+På prenumerationens informationssida har E4-prenumerationens status ändrats till "Upphör att gälla [datum]" från "Förnyas automatiskt [datum]". 
 
-Om du använder API: et (topp eller partner Center) kan du identifiera prenumerationer som upphör att gälla genom att utvärdera slutdatumet för prenumerationen tillsammans med egenskapen Auto renew = false. 
+Om du använder API:et (antingen KANT eller Partnercenter) kan du identifiera utgående prenumerationer genom att utvärdera slutdatumet för prenumerationen tillsammans med egenskapen för automatisk förnyelse = Falskt. 
 
-E4-prenumerationerna ställs in på automatisk förnyelse = falskt i den 7 april 2017. Du kan när som helst flytta kunder till en ny plan. 
+E4-prenumerationerna ställs in på automatisk förnyelse =Falskt den 7 april 2017. Du kan när som helst flytta kunder till en ny plan. 
 
-## <a name="office-365-enterprise-e4-edition-replacement-plans"></a>Ersättnings planer för Office 365 Enterprise E4 Edition
+## <a name="office-365-enterprise-e4-edition-replacement-plans"></a>Ersättningsplaner för Office 365 Enterprise E4-versionen
 
-Du kan välja att behålla samma funktioner med E4 eller låta dina kunder dra nytta av nya funktioner i Office 365 och Skype för företag – online. Pris information finns i matrisen pris lista och erbjudande lista i Partner Center. Säker produkt Enterprise E3 eller Secure produktiv Enterprise E5 kan ersättas med följande alternativ för Office 365 Enterprise E3 eller Office 365 Enterprise E5.
+Du kan välja att behålla samma funktioner med E4 eller så kan dina kunder dra nytta av nyare funktioner i Office 365 och Skype för företag – Online. Prisinformation finns i prislistan och erbjudandelistan i Partnercenter. Secure Product Enterprise E3 eller Secure Productive Enterprise E5 kan ersättas med följande alternativ för Office 365 Enterprise E3 respektive Office 365 Enterprise E5.
 
 - Alternativ 1: Office 365 Enterprise E5
 
-- Alternativ 2: Office 365 Enterprise E3 + Skype för företag Cloud PBX
+- Alternativ 2: Office 365 Enterprise E3 + Skype för företag – Cloud PBX
 
-- Alternativ 3: Office 365 Enterprise E3 + Skype för företag Plus CAL (pris-och funktions paritet med E4)
+- Alternativ 3: Office 365 Enterprise E3 + Skype för företag Plus CAL (pris- och funktionsparitet med E4)
 
 - Alternativ 4: Office 365 Enterprise E3
 
 
 | Funktion | Alternativ 1 | Alternativ 2 | Alternativ 3 | Alternativ 4 |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
-| Hämta alla funktioner som ingår i Office 365 Enterprise E4? | Ja | Ja | Ja | Inga |
-| Telefonnummer som hanteras i Office 365? | Ja | Ja | Inga | Inga |
-| De telefonnummer som hanteras både lokalt och i Office 365 (hybrid distribution)? | Ja | Ja | Inga | Inga |
-| Alternativ för att lägga till en PSTN-röst samtals plan? | Ja | Ja | Inga | Inga |
-| PSTN-konferens? | Ja | Inga | Inga | Inga |
-| Avancerade verktyg för samarbete, analys och säkerhet? | Ja | Inga | Inga | Inga |
-| Interaktiva rapporter, instrument paneler och data visualiseringar? | Ja | Inga | Inga | Inga | 
-| Mer kontroll över data säkerhet och efterlevnad med inbyggda sekretess-, genomskinlighets-och raffinerade användar kontroller? | Ja | Inga | Inga | Inga | 
+| Hämta alla funktioner som ingår i Office 365 Enterprise E4? | Ja | Ja | Ja | Nej |
+| Telefonnummer som hanteras i Office 365? | Ja | Ja | Nej | Nej |
+| Telefonnummer som hanteras både lokalt och i Office 365 (hybriddistribution)? | Ja | Ja | Nej | Nej |
+| Alternativ för att lägga till en pstn-plan för röstsamtal? | Ja | Ja | Nej | Nej |
+| PSTN-konferens? | Ja | Nej | Nej | Nej |
+| Avancerade verktyg för samarbete, analys och säkerhet? | Ja | Nej | Nej | Nej |
+| Interaktiva rapporter, instrumentpaneler och datavisualiseringar? | Ja | Nej | Nej | Nej | 
+| Mer kontroll över datasäkerhet och efterlevnad med inbyggd sekretess, transparens och förfinade användarkontroller? | Ja | Nej | Nej | Nej | 
 
-## <a name="transition-customers-to-new-product-plans"></a>Överföra kunder till nya produkt planer
+## <a name="transition-customers-to-new-product-plans"></a>Övergå kunder till nya produktplaner
 
-Microsoft erbjuder kontinuerligt nya produkter och tjänster till våra partner. I dessa fall kan du behöva uppgradera kunder till nya tjänster eller migrera sina prenumerationer från SKU: er som slutligen kommer att stängas av. Migrering av kunder från tillbakadragna SKU: er till nyare kräver följande steg:
+Microsoft erbjuder kontinuerligt nya produkter och tjänster till våra partner. I dessa fall kan du behöva uppgradera kunder till nya tjänster eller migrera sina prenumerationer från SKU:er som så småningom kommer att stängas av. Migrering av kunder från tillbakadragna SKU:er till nyare kräver följande steg:
 
--   Köp den nya prenumerationen
--   Tilldela om aktuella användar licenser
--   Avbryt den gamla prenumerationen
+-   Köpa den nya prenumerationen
+-   Tilldela om aktuella användarlicenser
+-   Avbryta den gamla prenumerationen
 
 Följ dessa steg om du vill migrera en kunds Office 365 Enterprise E4-prenumeration till något av alternativen i tabellen ovan.
 
 ### <a name="step-1---purchase-the-new-subscription"></a>Steg 1 – Köp den nya prenumerationen
 
-1. Från menyn **partner Center** väljer du **kunder**, väljer kunden som du vill flytta och väljer sedan **Lägg till prenumerationer**.
+1. I **menyn i Partnercenter** väljer du **Kunder,** väljer den kund som du vill flytta och väljer sedan Lägg **till prenumerationer.**
 
-2. Välj den prenumeration som du vill köpa från katalogen (i det här fallet ett av alternativen ovan), ange antalet licenser och välj sedan **Skicka**.
+2. Välj den prenumeration som du vill köpa från katalogen (i det här fallet något av alternativen ovan), ange antalet licenser och välj sedan **Skicka.**
 
-   Kunden bör nu ha både gamla och nya prenumerationer, den gamla Office 365 Enterprise E4-prenumerationen och den nya mål prenumerationen, till exempel alternativ 1-Office 365 Enterprise E5.
+   Kunden bör nu ha både gamla och nya prenumerationer, den gamla Office 365 Enterprise E4-prenumerationen och den nya målprenumerationen, till exempel Alternativ 1 – Office 365 Enterprise E5.
 
-### <a name="step-2---reassign-the-customers-users-licenses"></a>Steg 2 – tilldela om kundens användares licenser
+### <a name="step-2---reassign-the-customers-users-licenses"></a>Steg 2 – Tilldela om kundens användarlicenser
 
-1. Från menyn **partner Center** väljer du **kunder**, väljer kunden som du vill flytta och väljer sedan **användare och licenser**. Sidan kund användare och licenser öppnas.
+1. I **menyn i Partnercenter** väljer **du Kunder,** väljer den kund som du vill flytta och väljer sedan **Användare och licenser.** Kundens sida Användare och licenser öppnas.
 
-2. Om du vill omtilldela användar licenser väljer du den användare som ska omtilldelas och väljer sedan **Hantera licenser**.
+2. Om du vill tilldela om användarlicenser väljer du den användare som du vill tilldela om och väljer sedan **Hantera licenser.**
 
-3. På sidan **Hantera licenser** avmarkerar du kryss rutan **Office 365 Enterprise E4** -licens och väljer en ny service plan för den prenumeration som kunden flyttar till.
+3. På sidan **Hantera licenser** avmarkerar du kryssrutan **Office 365 Enterprise E4-licens** och väljer en ny tjänstplan för prenumerationen som kunden flyttar till.
 
-4. Välj **Skicka**. En bekräftelse sida listar de nya licens tilldelningarna.
+4. Välj **Skicka**. En bekräftelsesida visar de nya licenstilldelningarna.
 
-5. Fortsätt på samma sätt med andra kund användare som behöver omtilldela licenser.
+5. Fortsätt på samma sätt med andra kundanvändare som behöver licensomtilldeling.
 
-När du har flyttat användar licenserna till den nya tjänsten kan du på ett säkert sätt avbryta den tillbakadragna prenumerationen på den översta kund nivån.
+När du har flyttat användarlicenserna till den nya tjänsten kan du på ett säkert sätt avbryta den tillbakadragna prenumerationen på den högsta kundnivån.
 
 ### <a name="step-3---cancel-the-old-subscription"></a>Steg 3 – Avbryt den gamla prenumerationen
 
-1. Från menyn **partner Center** väljer du **kunder**. Välj den kund som du vill flytta och välj den prenumeration som du vill avbryta.
+1. I **menyn i Partnercenter** väljer du **Kunder.** Välj den kund som du vill flytta och välj den prenumeration som du vill avbryta.
 
-2. På sidan prenumerations information anger du prenumerations statusen **pausad**.
+2. På sidan med prenumerationsinformation anger du prenumerationsstatusen Till **Pausad.**
 
 3. Välj **Skicka**.
 
-Den gamla prenumerationen har pausats och den nya prenumerationen är aktiv. Den inaktiverade prenumerationen kommer att avetableras automatiskt efter 120 dagar. Kunden debiteras inga ytterligare kostnader för den gamla prenumerationen.
+Den gamla prenumerationen pausas och den nya prenumerationen är aktiv. Den pausade prenumerationen avetableeras automatiskt efter 120 dagar. Kunden medför inga ytterligare kostnader för den gamla prenumerationen.
 
 
 

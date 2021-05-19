@@ -8,20 +8,18 @@ description: Som Microsoft-partner kan du ha frågor om hur du kan hjälpa dina 
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: df7ae61a88852d6ef2e4c1cb210b689a20235d0c
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: be12ede0c725a859892985e4cfb9032d7fb2abe8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172344"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150955"
 ---
 # <a name="find-a-partner-or-solution-provider-to-answer-questions-about-programs-licensing-or-customer-deals"></a>Hitta en partner eller lösningsleverantör för att besvara frågor om program, licensiering eller kundavtal 
 
-**Lämpliga roller**
+**Lämpliga roller:** Alla Microsoft-partner
 
-- Alla Microsoft-partner
-
-Den här artikeln beskriver för Microsoft-partner hur du hittar andra partner som kan hjälpa dem och deras kunder att lyckas med Microsofts produkter och tjänster.
+Den här artikeln talar om för Microsoft-partner hur de kan hitta andra partner som kan hjälpa dem och deras kunder att lyckas med Microsofts produkter och tjänster.
 
 ## <a name="different-microsoft-partners-and-solution-providers"></a>Olika Microsoft-partner och lösningsleverantörer
 
@@ -41,7 +39,7 @@ Se följande tabell som hjälper dig att hitta en partner eller distributör.
 |:------------------|:--------------- |
 |Hitta en indirekt *CSP-leverantör (för indirekta CSP-återförsäljare som ännu inte har en tilldelad indirekt leverantör)* | [Microsoft Partner Network söksida för indirekt leverantör](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)  |
 |Hitta en leverantör eller distributör av volymlicensieringsprogram  | [Söksida för Microsoft-lösningsleverantör](https://www.microsoft.com/solution-providers/home)  |
-|Hitta en Microsoft-auktoriserad OEM-kanaldistributör  | [OEM-söksida för Microsoft Device Partner Center](https://devicepartner.microsoft.com/connect/distributor)  |
+|Hitta en Microsoft-auktoriserad OEM-kanaldistributör  | [Microsoft Device Partner Center OEM-söksida](https://devicepartner.microsoft.com/connect/distributor)  |
 
 ## <a name="next-steps"></a>Nästa steg
 

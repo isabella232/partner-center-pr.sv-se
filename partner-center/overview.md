@@ -4,77 +4,75 @@ ms.topic: overview
 ms.date: 12/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Använd partner Center till att använda Microsoft och dina kunder för att hantera Transact Business
+description: Använda Partnercenter för att göra affärer med Microsoft och dina kunder
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 992e02e2ae27e4cf03071e114de22f42f11f7601
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 7d476404bbfdb5814f325b7fdafd34d44780fb66
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132255"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151125"
 ---
 # <a name="what-is-partner-center"></a>Vad är Partnercenter?
 
-**Lämpliga roller**
+**Lämpliga roller:** Alla partner som är intresserade av Partnercenter
 
-- Alla partner som är intresserade av Partner Center
-
-[Partner Center](https://partner.microsoft.com/dashboard/home) effektiviserar flera affärs processer för att göra det enklare för Microsofts partner att hantera sin relation med Microsoft och deras kunder. Med partner Center kan du enkelt komma åt de verktyg du behöver för att få jobbet gjort. Använd partner Center för att:
+[Partner Center](https://partner.microsoft.com/dashboard/home) effektiviserar flera affärsprocesser för att göra det enklare för Microsoft-partner att hantera sin relation med Microsoft och sina kunder. Med Partnercenter får du enkel åtkomst till de verktyg du behöver för att få arbetet gjort. Använd Partnercenter för att:
 
 - Hantera dina Microsoft-konto och användare
-- Engagera kunder
-- Bygg relationer med andra partner
-- Registrera dig för stimulans program
+- Interagera med kunder
+- Skapa relationer med andra partner
+- Registrera dig för incitamentprogram
 - Hantera ditt medlemskap i Microsoft Partner Network
 - Hantera kundprenumerationer
-- Fakturera och betala
+- Fakturera och få betalt
 - Kontakta supporten
-- Publicera eller utforska erbjudanden på [Microsofts kommersiella marknads](/azure/marketplace)plats, en katalog med tusentals kund riktade tjänster och program som skapats och levererats av våra oberoende program varu leverantörer (ISV).
+- Publicera eller utforska erbjudanden på [Microsofts](/azure/marketplace)kommersiella marknadsplats , en katalog med tusentals kundriktade transactable-tjänster och program som skapats och levererats av våra oberoende programvaruleverantörer (ISV).
 
-:::image type="content" source="images/home.png" alt-text="Översikt över partner Center":::
+:::image type="content" source="images/home.png" alt-text="Översikt över Partnercenter":::
 
 ## <a name="manage-your-account"></a>Hantera ditt konto
 
-Oavsett om du är partner i Cloud Solution Provider-programmet eller en partner för utvecklare som säljer dina appar, kan du hantera ditt partner Center-konto från en plats för konto inställningar: [instrument panelen](https://partner.microsoft.com/dashboard/home)för partner Center. Därifrån kan du ändra juridisk information, skatte information, innehavare, företags platser, användare och behörigheter och specifika program där ditt företag är registrerat.
+Oavsett om du är en partner i Molnlösningsleverantör-programmet eller en utvecklarpartner som säljer dina appar hanterar du ditt Partnercenter-konto från en plats för kontoinställningar: instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard/home) Därifrån kan du ändra juridisk information, skatteinformation, klienter, företagsplatser, användare och behörigheter samt specifika program där ditt företag har registrerats.
 
-Vad du kan se och hantera i Partner Center beror på din roll och behörigheter. Läs mer i [roller och behörigheter](permissions-overview.md).
+Vad du kan se och hantera i Partnercenter beror på din roll och dina behörigheter. Läs mer i [Roller och behörigheter.](permissions-overview.md)
 
 :::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Menyn Inställningar.":::
 
-## <a name="membership-programs"></a>Medlemskaps program
+## <a name="membership-programs"></a>Medlemskapsprogram
 
-I Partner Center kan du köpa en Microsoft Action Pack som tillhandahåller program vara och verktyg från Microsoft för att utveckla expertis, till exempel utveckla kunskaper för att uppnå kompetens och tjäna avancerade specialiseringar. De fördelar som ingår i dessa program hjälper dig att bygga lösningar och gå till marknaden. granska och hantera dem i Partner Center. [Jämför Microsoft Partner Network medlemskaps program](https://partner.microsoft.com/membership/compare-offers).
+I Partnercenter kan du köpa en Microsoft Action Pack som tillhandahåller programvara och verktyg från Microsoft för att utveckla expertis, till exempel att utveckla färdigheter för att få kompetenser och tjäna avancerade specialiseringar. Fördelarna med dessa program hjälper dig att skapa lösningar och ta dig ut på marknaden. granska och hantera dem i Partnercenter. [Jämför Microsoft Partner Network medlemskapsprogram](https://partner.microsoft.com/membership/compare-offers).
 
 ## <a name="connect-with-customers"></a>Få kontakt med kunder
 
-Bygg din företags profil för att visa ditt företags expert områden. Fokusera på dina kunskaper om teknik och lösnings område, lär dig bredden och djupet i dina kunskaper och leda till nya marknads möjligheter. Via partner Center har partners ökat åtkomst till marknadsförings resurser för att hjälpa dem att påskynda tiden till marknaden, generera leads och utveckla sin moln verksamhet. Produkt katalogen för kommersiell marknads plats, som innehåller Microsoft AppSource och Azure Marketplace, gör det möjligt att erbjuda information och Köp upplevelser i produkten. Dina lösningar visas i våra onlinebutiker inom våra egna Microsoft-lösningar, som ansluter dig till företag, organisationer och myndighets myndigheter runtom i världen. Om du vill veta mer om hänvisningar kan du läsa [hantera olika leads som kund förfrågningar, marknadsförings-kvalificerade leads och Sälj kvalificerade leads](manage-leads.md). Om du vill veta mer om din företags profil läser du [skapa en affärs profil](create-a-marketing-profile.md).
+Skapa din företagsprofil för att visa företagets expertområden. Markera dina tekniska expertkunskaper och lösningsområdesexpertis, visa upp bredden och djupet i dina färdigheter och ta del av nya möjligheter på marknaden. Via Partnercenter har partner ökad åtkomst till marknadsföringsresurser för att hjälpa dem att påskynda tiden till marknad, generera leads och utöka sin molnverksamhet. Med produktkatalogen på den kommersiella marknadsplatsen, Microsoft AppSource och Azure Marketplace, kan du erbjuda information och köpupplevelser i produkten. Dina lösningar listas i våra onlinebutiker bredvid våra egna Microsoft-lösningar, vilket kopplar dig till företag, organisationer och myndigheter runtom i världen. Mer information om hänvisningar finns i Hantera olika leads som [kundfrågor, marknadsföringskvalificerade leads och säljkvalificerade leads.](manage-leads.md) Mer information om din företagsprofil finns i [Skapa en företagsprofil.](create-a-marketing-profile.md)
 
-## <a name="co-sell-with-microsoft-and-other-partners"></a>Co-Sälj med Microsoft och andra partner
+## <a name="co-sell-with-microsoft-and-other-partners"></a>Samförsäljning med Microsoft och andra partner
 
-Co-försälj är sökvägen till partner för att gemensamt sälja till Microsoft och andra partner för samarbete, bättre försäljning och positiva kund resultat. Co-Sales gör att du kan använda Microsofts globala varumärke, sälj team, funktioner för att skapa och använda och den kommersiella marknads platsen för att uppnå nya kunder över hela världen. Sälj både med andra partner och med oss. Läs mer i [Hantera samförsäljnings möjligheter](manage-co-sell-opportunities.md).
+Samförsäljning är den väg som partner kan använda för att gemensamt sälja med Microsoft och andra partner för samarbete, bättre försäljning och positiva kundresultat. Med säljförsäljning kan du använda Microsofts globala varumärke, säljteam, funktioner för att generera efterfrågan och den kommersiella marknadsplatsen för att nå nya kunder över hela världen. Sälja både med andra partner och med oss. Läs mer i [Hantera möjligheter till säljförsäljning.](manage-co-sell-opportunities.md)
 
-## <a name="manage-customer-software-needs"></a>Hantera kund program varu behov
+## <a name="manage-customer-software-needs"></a>Hantera kundernas programvarubehov
 
-Som betrodd partner spelar du en viktig roll i alla stadier av kund livs cykeln, oavsett hur kunderna väljer att köpa Microsoft-program och-tjänster. Om kunden ger dig administratörs behörighet kan du distribuera och hantera prenumerationer, underhålla prestanda, ställa in användare och till och med skapa support biljetter för dem. Partner Center ger snabb och enkel åtkomst till Microsoft support på begäran för att hjälpa dig att lösa utmaningar och möta kund behov. Läs mer på att [erbjuda kund support](customer-support.md).
+Som betrodd partner spelar du en viktig roll i alla steg i kundens livscykel, oavsett hur kunderna väljer att köpa programvara och tjänster från Microsoft. Om din kund ger dig administratörsbehörighet kan du distribuera och hantera prenumerationer, upprätthålla prestanda, konfigurera användarna och till och med skapa supportärenden åt dem. Partnercenter ger snabb och enkel åtkomst till Microsofts support på begäran för att hjälpa dig att bättre lösa utmaningar och uppfylla kundernas behov. Läs mer i [Erbjuda kundsupport.](customer-support.md)
 
-## <a name="maintain-a-secure-environment"></a>Underhålla en säker miljö
+## <a name="maintain-a-secure-environment"></a>Upprätthålla en säker miljö
 
-Se till att teamet använder [Multi-Factor Authentication](partner-security-requirements-mandating-mfa.md) för att skydda data med Azure Active Directory som ett huvud element i ditt partner Center-konto. Integritets skydd och säkerhet är bland våra främsta prioriteringar.
+Med Azure Active Directory en viktig del av ditt Partnercenter-konto bör du se till att ditt team använder [multifaktorautentisering](partner-security-requirements-mandating-mfa.md) för att skydda data. Sekretessskydd och säkerhet är bland våra högsta prioriteter.
 
 ## <a name="data-and-analytics"></a>Data och analys
 
-Åtkomst till flera olika typer av data rapporter från instrument panelen för partner Center:
+Få åtkomst till flera olika typer av datarapporter från instrumentpanelen i Partnercenter:
 
-- Partner bidrags indikatorer (PCI) visar partner påverkan på sju viktiga mått för kund framgångar
-- Data rapporter för partner Insights identifierar var din försäljning är hög, hjälper dig att ta reda på vilka kunder som har distribuerat sina prenumerationer eller behöver support, samt visar hur väl dina produkter säljs.
+- Partnerbidragsindikatorer (PCI) visar partnerpåverkan på sju viktiga mått på kundframgång
+- Partner Insights-datarapporter identifierar var försäljningen är hög, hjälper dig att ta reda på vilka kunder som har distribuerat sina prenumerationer eller behöver support och visa hur väl dina produkter säljer.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Avgöra var dina licenser finns":::
+:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Ta reda på var dina licenser finns":::
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Anslut Microsoft Partner Network och skapa ett partner Center-konto](mpn-create-a-partner-center-account.md)
-- [Skapa din företags profil](create-a-marketing-profile.md)
+- [Anslut till Microsoft Partner Network och skapa ett Partnercenter-konto](mpn-create-a-partner-center-account.md)
+- [Skapa din företagsprofil](create-a-marketing-profile.md)
 - [Utforska registrering i CSP](csp-overview.md)
-- [Läs mer om den kommersiella Marketplace](csp-commercial-marketplace-overview.md)
+- [Läs mer om den kommersiella marknadsplatsen](csp-commercial-marketplace-overview.md)

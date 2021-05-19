@@ -4,31 +4,29 @@ ms.topic: how-to
 ms.date: 01/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig hur du associerar ditt MCP-ID till ditt Partnercenter-konto så att ditt företag kan se utbildningsvägarna som du har tagit mot kompetenser.
+description: Lär dig hur du associerar ditt MCP-ID till ditt Partnercenter-konto så att ditt företag kan se utbildningsvägarna som du har valt för kompetenser.
 author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 74fc22180aabf15dc6dd4109afb51518ccad5f10
-ms.sourcegitcommit: f74b56dd296a53a144a1120f29106b08376a00d4
+ms.openlocfilehash: b5487addd5bf4cd53eacaa95c4e2e602a7279bad
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108067515"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151244"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Länka eller avlänka ett Microsoft-certifikatprofil-ID (MCID) till Microsoft Partner Network (MPN)-konto
 
-**Lämpliga roller**
-
-- Alla PartnerCenter-användare
+**Lämpliga roller:** Alla Partner Center-användare
 
 Den här artikeln beskriver hur kunder som har aktiva certifieringar i Microsofts certifieringsprogram kan länka eller ta bort länk till sitt Microsoft-certifieringsprofil-ID (MCID) med en Microsoft Partner Network-organisation (MPN).
 
-Du måste vara MPN-partneradministratör eller global administratör för att kunna granska kompetensstatus [(inloggning](https://partner.microsoft.com/pcv/partnership/competencies) krävs) för prov eller för att ladda ned kunskapsrapporter för att granska associerade prov. Partnerorganisationen uppfyller kompetenskraven genom att ha personer med länkade MCID:er kopplade till organisationen. Ett MCID kan bara länkas till ett enda MPN-medlemskap i taget.
+Du måste vara MPN-partneradministratör eller global administratör för att kunna granska kompetensstatus [(inloggning](https://partner.microsoft.com/pcv/partnership/competencies) krävs) för prov eller för att ladda ned kunskapsrapporter för att granska associerade prov. Partnerorganisationen uppfyller kompetenskraven genom att ha personer med länkade MCID:er som är kopplade till organisationen. Ett MCID kan bara länkas till ett enda MPN-medlemskap i taget.
 
 ## <a name="get-partner-university-access"></a>Få åtkomst till Partner University
 
-För att kunna associera din Microsoft-certifiering måste du ha ett Partnercenter-konto (Active AD) associerat med din partnerorganisation. Medlemmar i MPN-partnerorganisationer bör använda sitt mpn-partnerorganisations användarnamn och lösenord (arbetskonto) för att logga in på Partnercenter.
+För att kunna associera din Microsoft-certifiering måste du ha ett Partnercenter-konto (Active AD) associerat med din partnerorganisation. Medlemmar i MPN-partnerorganisationer bör använda sitt användarnamn och lösenord för MPN-partnerorganisationens arbete (arbetskonto) för att logga in på Partnercenter.
 Använd proceduren nedan för att få åtkomst till Partner University.
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
@@ -75,7 +73,7 @@ Administratören bör först verifiera den e-postadress som används och sedan k
 
 ### <a name="a-user-tries-to-associate-their-mcp-learning-account-to-their-profile-in-partner-center-and-receives-a-message-that-their-association-is-limited-for-example-you-have-attempted-to-associate-with-a-partner-organization-however-we-require-a-period-of-30-days-between-associations-your-next-available-date-for-a-subsequent-association-is-xxx"></a>En användare försöker associera sitt MCP Learning-konto med sin profil i Partnercenter och får ett meddelande om att associationen är begränsad. Till exempel "Du har försökt associera med en partnerorganisation. Vi kräver dock en period på 30 dagar mellan associationer. Ditt nästa tillgängliga datum för en efterföljande association är XXX"
 
-För att skydda mot missbruk har en MCP-individ ett begränsat antal 3 associationer som tillåts varje år och det finns en nedspolningsperiod på 30 dagar mellan varje association som börjar i början av associationen. Varje användare kan kontrollera datumet i sin profil för att se när de kan starta en ny association. Om användaren har problem med att associera efter det datumet bör han eller hon kontakta supporten.  
+För att skydda mot missbruk har en MCP-individ ett begränsat antal 3 associationer som tillåts varje år och det finns en nedspolningsperiod på 30 dagar mellan varje association som börjar i början av associationen. Varje användare kan kontrollera datumet i sin profil för att se när de kan starta en ny association. Om användaren har problem med att associera efter det datumet bör de kontakta supporten.  
 
 ## <a name="how-to-get-support"></a>Hur du kan få support
 

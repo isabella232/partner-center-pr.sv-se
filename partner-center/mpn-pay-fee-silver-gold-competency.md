@@ -2,189 +2,186 @@
 title: Betala avgiften för en MPN-kompetens
 ms.topic: how-to
 ms.date: 01/28/2021
-description: Lär dig hur du betalar avgiften eller uppdatera betalnings information som är associerad med att uppnå eller förnya en eller flera silver-eller guld kompetenser.
+description: Lär dig hur du betalar avgiften eller uppdaterar betalningsinformationen för att uppnå eller förnya en eller flera silver- eller guldkompetenser.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: b8e7d7e7bdd5cb8bc9b90b3461528859eb801d0d
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: b6dab5fb57d26c00928441d7962511e6530fa3b1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132493"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152332"
 ---
-# <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Så här betalar du avgiften som är kopplad till en silver-eller guld kompetens
+# <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Så här betalar du avgiften för en silver- eller guldkompetens
 
-**Lämpliga roller**
+**Lämpliga roller:** MPN-partneradministratör | Kontoadministratör
 
-- MPN-partner administratör
-- Kontoadministratör
-
-Den här artikeln beskriver hur och när du betalar avgiften för att uppnå en silver eller guld Microsoft Partner Network kompetens. Artikeln beskriver också hur du ändrar önskad betalnings metod, hur du avbryter en order och hur du får en avgifts rabatt på 25 procent när du flyttar från en silver till guld-kompetens.
+I den här artikeln beskrivs hur och när du ska betala avgiften för att uppnå en silver- Microsoft Partner Network guldkompetens. Artikeln beskriver också hur du ändrar önskad betalningsmetod, hur du annullerar en beställning och hur du får en rabatt på 25 procent när du flyttar från silver till guldkompetens.
 
 > [!NOTE]
-> Mer information om fördelarna med att uppnå en silver-eller guld kompetens, vilka specifika kompetenser som är tillgängliga och deras unika krav finns i [Microsoft Partner Network kompetenser](https://partner.microsoft.com/membership/competencies). Du kan också kontrol lera Microsoft Partner Network [licens tabeller för kompetenser](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) för att läsa mer om fördelarna för varje tillgänglig kompetens.
+> Mer information om fördelarna med att uppnå en silver- eller guldkompetens, de specifika kompetenser som är tillgängliga och deras unika krav finns i [Microsoft Partner Network kompetenser.](https://partner.microsoft.com/membership/competencies) Du kan också läsa Microsoft Partner Network [för kompetenser](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) för att läsa mer om fördelarna för varje tillgänglig kompetens.
 
-## <a name="meet-a-competencys-requirements-and-pay-the-fee"></a>Uppfylla krav på kompetens och betala avgiften
+## <a name="meet-a-competencys-requirements-and-pay-the-fee"></a>Uppfylla kraven för en kompetens och betala avgiften
 
-Om du redan har uppfyllt kraven för att uppnå en speciell silver-eller guld kompetens (eller om du redan har en silver-eller guld kompetens) kan du snabbt kontrol lera kompetens avgiften. Välj bara fliken [Comparer-erbjudanden](https://partner.microsoft.com/membership/compare-offers) i Partner Center.
+Om du redan har uppfyllt kraven för att uppnå en viss silver- eller guldkompetens (eller om du redan har en silver- eller guldkompetens) kan du snabbt kontrollera avgiften för kompetensen. Välj bara [fliken jämför-erbjudanden](https://partner.microsoft.com/membership/compare-offers) i Partnercenter.
 
-Annars följer du de här stegen för att betala avgiften för en silver-eller guld kompetens. Stegen förutsätter att du uppfyller följande krav:
+Annars följer du de här stegen för att betala avgiften för en silver- eller guldkompetens. Stegen förutsätter att du har uppfyllt följande krav:
 
-- Du är en partner som redan har [anslutit](https://partner.microsoft.com/membership) till Microsoft Partner Network.
+- Du är en partner som redan har [anslutit sig](https://partner.microsoft.com/membership) till Microsoft Partner Network.
 
-- Du har redan uppfyllt [kraven](https://partner.microsoft.com/membership/competencies) för att uppnå en speciell silver-eller guld kompetens.
+- Du har redan uppfyllt [kraven för](https://partner.microsoft.com/membership/competencies) att uppnå en specifik silver- eller guldkompetens.
 
-- Du har tilldelats rollen Partner Center för [Global administratör eller MPN partner administratör](./permissions-overview.md). Om du är gäst användare utan någon av dessa roller nekas du åtkomst till några av de partner Center-sidor som beskrivs nedan. Om detta inträffar kan du [Kontakta din globala administratör](./find-your-role.md) och be dem att tilldela dig rätt roll. 
+- Du har tilldelats rollen Partnercenter som [global administratör eller MPN-partneradministratör.](./permissions-overview.md) Om du är en gästanvändare utan någon av dessa roller kommer du att nekas åtkomst till några av partnercentersidorna som beskrivs nedan. Om detta inträffar [kontaktar du din globala administratör](./find-your-role.md) och ber dem tilldela dig lämplig roll. 
 
-1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard)med hjälp av autentiseringsuppgifterna för din organisations arbets konto.
+1. Logga in på instrumentpanelen i Partnercenter med hjälp av organisationens autentiseringsuppgifter för [arbetskontot.](https://partner.microsoft.com/dashboard)
 
-2. Välj [medlemskaps erbjudanden](https://partner.microsoft.com/dashboard/mpn/offers) från navigerings menyn. 
+2. Välj [Medlemskapserbjudanden](https://partner.microsoft.com/dashboard/mpn/offers) på navigeringsmenyn. 
 
-3. Under **erbjudanden som är tillgängliga för köp** letar du upp panelen för **silver medlemskap** eller **Gold-medlemskap** som är kopplad till din egen kompetens. 
+3. Under **Erbjudanden som är tillgängliga för köp** hittar du panelen **silvermedlemskap** eller guldmedlemskapspanel som är associerad med din specifika kompetens.  
 
-4. Välj alternativet **Prenumerera** längst ned till höger på panelen för det aktuella silver-eller Gold-medlemskapet.
+4. Välj alternativet **Prenumerera** längst ned till höger på den specifika panelen silver- eller guldmedlemskap.
 
-   :::image type="content" source="images/offers/1-mpn-competency-payment-offers-available-for-purchase.png" alt-text="Sidan medlemskaps erbjudanden med silver-eller guld-medlemskap som partnern kan prenumerera på eller köpa." border="false":::
+   :::image type="content" source="images/offers/1-mpn-competency-payment-offers-available-for-purchase.png" alt-text="Sidan med medlemskapserbjudanden visar silver- eller guldmedlemskap som partnern kan prenumerera på eller köpa." border="false":::
 
    > [!Note]
-   > Om du inte har uppfyllt kraven än för den önskade silver-eller guld kompetensen kan du inte prenumerera på silver-eller guld-medlemskapet eller betala den tillhör ande kompetens avgiften. Om du redan är en guld kompetens partner tilldelas du dessutom de stegvisa fördelarna med en silver kompetens automatiskt. I det här scenariot är alternativet för att betala silver kompetens avgiften inte heller tillgängligt.
+   > Om du inte har uppfyllt kraven ännu för önskad silver- eller guldkompetens kan du inte prenumerera på silver-/guldmedlemskapet eller betala den associerade kompetensavgiften. Om du redan är en partner med guldkompetens tilldelas du automatiskt de inkrementella förmånerna för en silverkompetens. I det här scenariot är alternativet att betala avgiften för silverkompetens också otillgängligt.
 
-4. På sidan **köp information** granskar du och bekräftar dina uppgifter.
+4. Granska **och bekräfta din** information på sidan Köpinformation.
 
-   (Läs mer om hur [du uppdaterar ditt företags **skatte-ID-** information](./organization-tax-info.md) eller företagets [ **faktura till/säljs till** företagets adress](./mpn-get-action-pack.md).)
+   (Läs mer om att [uppdatera ditt företags **skatte-ID** eller](./organization-tax-info.md) ditt företags faktura [ **till/såld till företagets** adress](./mpn-get-action-pack.md).)
 
-   :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="Sidan med inköps information om medlemskapet innehåller betalnings inställningar." border="false":::
+   :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="Sidan med köpinformation om medlemskapserbjudanden med betalningsinställningar." border="false":::
 
-5. Längst ned till vänster på sidan letar du upp avsnittet **Välj ditt betalnings alternativ** . Välj antingen alternativet **kredit kort** eller alternativet **elektronisk bank överföring** och välj sedan **Nästa**. Se följande avsnitt för ytterligare steg som är associerade med något av alternativen.
+5. Längst ned till vänster på sidan letar du upp avsnittet **Välj betalningsinställningar.** Välj antingen **kreditkortsalternativet** eller **alternativet Elektronisk banköverföring** och välj sedan **Nästa.** Se följande avsnitt för ytterligare steg som är associerade med något av alternativen.
 
-### <a name="use-a-credit-card-as-your-payment-preference"></a>Använd ett kredit kort som betalnings inställning
+### <a name="use-a-credit-card-as-your-payment-preference"></a>Använd ett kreditkort som betalningspreferens
 
-Följ de här stegen för att slutföra din kredit korts betalning för ett associerat silver-eller guld kompetens medlemskap.
+Följ de här stegen för att slutföra kreditkortsbetalningen för ett associerat medlemskap i silver- eller guldkompetens.
 
-1. Om du har valt **kredit kort** som önskad betalnings metod visas sidan kredit korts information. 
+1. Om du **har valt Kreditkort** som betalningsmetod visas sidan Kreditkortsinformation. 
 
-   :::image type="content" source="images/offers/3-mpn-competency-payment-credit-card-details.png" alt-text="Medlemskaps sidan för information om kredit korts erbjudande." border="false":::
+   :::image type="content" source="images/offers/3-mpn-competency-payment-credit-card-details.png" alt-text="Sidan Med medlemskapserbjudanden med kreditkortsinformation." border="false":::
 
-2. Välj **avtals** länken längst upp på sidan och granska MPN för erbjudandet för ditt företags räkning. Det här avtalet innehåller viktig information om ditt fakturerings konto, förnyelse, bidrags berättigande och skatter.
+2. Välj **avtalslänken** längst upp på den här sidan och granska villkoren för köp av MPN-erbjudande för ditt företags räkning. Det här avtalet innehåller viktig information om ditt faktureringskonto, förnyelse, berättigande till återbetalning och skatter.
 
-3. Ange information om kredit kort och fakturerings information i de relaterade fälten och välj sedan **betala**.
+3. Ange kreditkortsinformation och faktureringsinformation i de relaterade fälten och välj sedan **Betala.**
 
-   Din betalning kommer att samlas in via en tredje part, säker betalnings-gateway.
-
-   > [!NOTE]
-   > Kontrol lera att adressen som du anger på den här sidan motsvarar adressen på ditt kredit kort. Om den juridiska adressen skiljer sig från adressen på ditt kredit kort ska du inte använda din juridiska enhets adress på den här kredit korts informations sidan. Kontrol lera också att post numret är korrekt och motsvarar adressen som du anger på den här sidan.
-
-Så snart kredit korts informationen tas emot och transaktionen har slutförts, aktive ras din Silver-eller guld kompetens prenumeration direkt.
-
-### <a name="use-electronic-bank-transfer-as-your-payment-preference"></a>Använd elektronisk bank överföring som betalnings inställning
-
-Följ de här stegen för att slutföra din elektroniska bank överföring för ett associerat silver-eller guld kompetens medlemskap.
-
-1. Om du har valt **elektronisk bank överföring** som önskad betalnings metod visas sidan **Granska inköps information** .
-
-   :::image type="content" source="images/offers/4-mpn-competency-payment-review-purchase-details.png" alt-text="Medlemskapet erbjuder elektroniska bank överförings informations sidor." border="false":::
-
-1. Välj **avtals** länken längst ned på sidan och granska villkoren för MPN-erbjudandet för ditt företags räkning. Det här avtalet innehåller viktig information om ditt fakturerings konto, förnyelse, bidrags berättigande och skatter.
-
-1. Granska den bank överförings information som du behöver. 
-
-1. I **ditt valda inköps** utrymme noterar du beloppet på grund av Microsoft och den speciella valuta avgiften. Du måste överföra beloppet i den aktuella valutan från ditt bank konto.
-
-1. När du är nöjd med all information du behöver väljer du **Skicka**.
+   Din betalning samlas in via en säker betalningsgateway från tredje part.
 
    > [!NOTE]
-   > Ditt **order nummer** och **MPN-ID** visas så snart du har **skickat** beställningen. Anteckna den här informationen. Du kommer att behöva den senare för att slutföra din bank överföring.
+   > Kontrollera att adressen som du anger på den här sidan motsvarar adressen på ditt kreditkort. Om den juridiska personens adress skiljer sig från adressen på ditt kreditkort ska du inte använda adressen till den juridiska personen på den här kreditkortsinformationen. Kontrollera också att postnumret är korrekt och motsvarar den adress som du anger på den här sidan.
 
-1. En bekräftelse sida visas som anger att ditt bidrag har slutförts. När du har slutfört överförings överföringen med din bank måste du gå tillbaka till den här sidan för att ladda upp ditt betalnings bevis.
+Så snart kreditkortsinformationen tas emot och transaktionen har slutförts aktiveras din prenumeration på silver- eller guldkompetens omedelbart.
 
-   :::image type="content" source="images/offers/5-mpn-competency-payment-thank-you-confirmation.png" alt-text="Bekräftelse sida för överföring." border="false":::
+### <a name="use-electronic-bank-transfer-as-your-payment-preference"></a>Använd elektronisk banköverföring som betalningspreferens
 
-1. Slutför överförings överföringen från ditt bank konto. Se till att göra följande:
+Följ dessa steg för att slutföra din elektroniska banköverföring för ett associerat medlemskap med silver- eller guldkompetens.
 
-   - Ta med både **order numret** och **MPN-ID: t** i referens informationen för din överförings överföring.
+1. Om du **valde Elektronisk banköverföring** som betalningsmetod visas sidan **Granska köpinformation.**
 
-   - Överför förfallet belopp (i den valuta som nämnts tidigare) till det Microsoft bank-konto som visas i den föregående sidans **anvisningar för överförings** plats.
+   :::image type="content" source="images/offers/4-mpn-competency-payment-review-purchase-details.png" alt-text="Sidan köpinformation om medlemskapserbjudanden för elektronisk banköverföring." border="false":::
 
-1. När din bank bekräftar transaktionen, tar du ett foto av bank bekräftelsen som bevis. Se till att dokumentet för bekräftelse bevis för bank visar information om: 
-   - Datumet då överförings betalningen genomfördes
-   - Microsofts bank konto som används för att ta emot din överförings överföring
-   - Överförings beloppet som visas i rätt valuta
-   - Ditt order nummer och MPN-ID-nummer
+1. Välj **avtalslänken** längst ned på den här sidan och granska köpvillkoren för MPN-erbjudandet för ditt företags räkning. Det här avtalet innehåller viktig information om ditt faktureringskonto, förnyelse, berättigande till återbetalning och skatter.
 
-1. Se nästa avsnitt för steg för att ladda upp ditt bevis på betalnings dokument för överföring.
+1. Granska banköverföringsinformationen som du behöver. 
 
-### <a name="upload-proof-of-wire-transfer-payment"></a>Ladda upp bevis för betalnings överföring
+1. I **Det valda inköpsområdet** noterar du beloppet som beror på Microsoft och den specifika valutaavgiften. Du måste överföra beloppet i den specifika valutan från ditt bankkonto.
 
-Om du betalar din Silver-eller guld avgifts avgift via elektronisk överföring måste du ladda upp betalnings bevis till Partner Center. Följ dessa steg för att göra det:
+1. När du är nöjd har du all information du behöver och väljer **Skicka**.
 
-1. Gå tillbaka till Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard)och välj alternativet **medlemskaps erbjudanden** på menyn till vänster-navigering.
+   > [!NOTE]
+   > Ordernumret **och** **MPN-ID:t** visas när du **har skickat** ordern. Anteckna den här informationen. Du behöver den senare för att slutföra banköverföringen.
 
-1. Leta upp ditt Special erbjudande i listan köpta erbjudanden. Under kolumnen åtgärd för erbjudandet väljer du **Ladda upp betalnings bevis**.
+1. Du ser en bekräftelsesida som anger att din överföring lyckades. När du har slutfört banköverföringen med din bank måste du gå tillbaka till den här sidan för att ladda upp ditt betalningsbevis.
 
-   :::image type="content" source="images/offers/6-mpn-competency-payment-show-purchased-offers.png" alt-text="Lista med inköpta medlemskaps erbjudanden som visar ett valbart alternativ, ladda upp betalnings bevis för varje inköpt erbjudande." border="false":::
+   :::image type="content" source="images/offers/5-mpn-competency-payment-thank-you-confirmation.png" alt-text="Bekräftelsesida för överföring." border="false":::
 
-1. På sidan information letar du reda på fältet **betalnings bevis** . Välj **Bläddra** för att leta upp och ladda upp ditt korrektur dokument till Partner Center.
+1. Slutför banköverföringen från ditt bankkonto. Se till att göra följande:
 
-   :::image type="content" source="images/offers/7-mpn-competency-payment-upload-proof.png" alt-text="Informations sida med fält för att överföra bevis på att visa ett valbart alternativ, ladda upp betalnings bevis för varje inköpt erbjudande." border="false":::
+   - Inkludera både **ordernumret och** **MPN-ID:t** i referensinformationen för banköverföringen.
 
-1. Fyll i informationen för de andra fälten som är relaterade till din senaste elektroniska överförings transaktion, till exempel **betalnings datum**, **betalt till konto nummer** och **transaktion/Ref nr**.
+   - Överför det förfallna beloppet (i den valuta som antecknades tidigare) till Det Microsoft-bankkonto som visas på föregående sidas område med instruktioner **för banköverföring.**
 
-  Ett grönt meddelande kan tyckas som visar att din begäran har slutförts.
+1. När din bank har bekräftat transaktionen tar du ett foto av bankbekräftelsen som bevis. Kontrollera att bevisdokumentet för bankbekräftelse visar information om: 
+   - Det datum då banköverföringsbetalningen skedde
+   - Det Microsoft-bankkonto som används för att ta emot banköverföringen
+   - Det överföringsbelopp som visas i rätt valuta
+   - Ordernummer och MPN-ID-nummer
 
-När betalningen har slutförts visas ditt köp normalt som aktivt mellan 48 och 72 timmar efter det att Microsofts bank konto har nåtts. Den fullständiga processen kan ta upp till **en vecka** att slutföra, men. 
+1. Se nästa avsnitt för steg för att ladda upp ditt betalningsbevis för banköverföring.
 
-Om du anger den information som krävs i din referens information för överförings överföring (till exempel order nummer och MPN-ID) och laddar upp betalnings bevis till Partner Center, kan betalningen aktive ras tidigare.
+### <a name="upload-proof-of-wire-transfer-payment"></a>Ladda upp betalningsbevis för banköverföring
 
-Om betalnings processen inte är fullständigt slutförd inom 30 dagar från det datum då ordern skapades ändras statusen för din beställning till **upphör** Ande. Om din beställning har **upphört att gälla** måste du skapa en ny order från Partner Center direkt, utan att behöva skicka betalningen en gång till. 
+Om du betalar din medlemsavgift för silver eller guld via elektronisk banköverföring måste du ladda upp betalningsbeviset till Partnercenter. Följ dessa steg för att göra det:
 
-## <a name="switch-from-electronic-bank-transfer-payment-to-credit-card-payment-method"></a>Växel från betalnings metod för elektronisk bank överföring till kredit kort
+1. Gå tillbaka till instrumentpanelen [i Partnercenter](https://partner.microsoft.com/dashboard)och välj **sedan alternativet Medlemskapserbjudanden** i den vänstra navigeringsmenyn.
 
-Du kan senare välja att ändra betalnings metoder för avgiften som är kopplad till ett silver-eller guld kompetens medlemskap. Du kan till exempel välja att använda en kredit korts betalning i stället för en elektronisk bank överföring. Eller så kanske du redan har en transaktionell elektronisk bank överförings order som skapats i systemet.
+1. I listan över köpta erbjudanden letar du upp ditt specifika erbjudande. Under kolumnen Åtgärd för erbjudandet väljer du sedan Ladda upp **betalningsbevis.**
 
-Om du vill ändra betalnings inställningarna för en befintlig order måste du först annullera ordern och sedan köpa den igen med hjälp av önskad betalnings metod.
+   :::image type="content" source="images/offers/6-mpn-competency-payment-show-purchased-offers.png" alt-text="Lista över köpta medlemskapserbjudanden som visar ett valbart alternativ, ladda upp betalningsbevis, för varje köpt erbjudande." border="false":::
 
-Gör följande om du vill avbryta en befintlig, utan åtgärdad elektronisk bank överföring och ändra betalnings inställningarna:
+1. På informationssidan hittar du fältet **Betalningsbevis.** Välj **Bläddra** för att hitta och ladda upp ditt bevisdokument till Partnercenter.
+
+   :::image type="content" source="images/offers/7-mpn-competency-payment-upload-proof.png" alt-text="Informationssidan med fält för att ladda upp bevis för att visa ett valbart alternativ, ladda upp betalningsbevis för varje köpt erbjudande." border="false":::
+
+1. Fyll i informationen för de andra fälten som är relaterade till din senaste elektroniska överföringstransaktion, till exempel Betalningsdatum, Betalt till **kontonummer** och **Transaction/Ref nej.**
+
+  Ett grönt meddelande kan visas som talar om att din begäran har slutförts.
+
+När betalningen har slutförts visas köpet vanligtvis som aktivt mellan 48 och 72 timmar efter att det når Microsofts bankkonto. Den fullständiga processen kan dock ta **upp till en** vecka att slutföras. 
+
+Om du anger nödvändig information i referensinformationen för banköverföringen (till exempel ordernummer och MPN-ID) och laddar upp betalningsbeviset till Partnercenter kan betalningen eventuellt aktiveras tidigare.
+
+Om betalningsprocessen inte slutförs helt inom 30 dagar efter orderskapandet ändras orderstatusen till **Upphört att gälla.** Om din beställning **har upphört** att gälla måste du skapa en ny order direkt från Partnercenter, utan att behöva skicka betalningen en gång till. 
+
+## <a name="switch-from-electronic-bank-transfer-payment-to-credit-card-payment-method"></a>Byta från elektronisk banköverföring till betalningsmetod för kreditkort
+
+Du kan senare bestämma dig för att ändra betalningsmetoderna för avgiften som är kopplad till ett medlemskap med silver- eller guldkompetens. Du kan till exempel välja att använda en kreditkortsbetalning i stället för en elektronisk banköverföring. Eller så kanske du redan har en oåtgärdad elektronisk banköverföringsorder som skapats i systemet.
+
+Om du vill ändra betalningsinställningarna för en befintlig order måste du först annullera beställningen och sedan göra ett omköp med den betalningsmetod som du föredrar.
+
+Gör följande för att avbryta en befintlig, ej åtgärdad elektronisk banköverföring och ändra dina betalningsinställningar:
 
 1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard).
 
-2. Välj **medlemskaps erbjudanden** från menyn till vänster-navigering.
+2. Välj **Medlemskapserbjudanden** på den vänstra navigeringsmenyn.
 
-3. I listan köpta erbjudanden letar du upp det önskade erbjudandet som du vill avbryta. Under kolumnen åtgärd för erbjudandet väljer du sedan **Avbryt order**.
+3. I listan köpta erbjudanden letar du reda på det specifika erbjudande som du vill avbryta. Under kolumnen Åtgärd för erbjudandet väljer du sedan **Avbryt beställning.**
 
-   :::image type="content" source="images/offers/8-mpn-competency-payment-cancel-order.png" alt-text="Lista över inköpta medlemskaps erbjudanden visar alternativet annullera order." border="false":::
+   :::image type="content" source="images/offers/8-mpn-competency-payment-cancel-order.png" alt-text="Listan över köpta medlemskapserbjudanden visar alternativet Avbryt beställning." border="false":::
 
 4. Följ de återstående stegen för att avbryta beställningen. 
 
-5. Se tidigare avsnitt för att skapa en ny order med nya betalnings inställningar, baserat på ett av silver-eller guld medlemskaps erbjudanden som är tillgängliga för dig.
+5. Se tidigare avsnitt för att skapa en ny order med nya betalningsinställningar, baserat på ett av de silver- eller guldmedlemskapserbjudanden som fortfarande är tillgängliga för dig.
 
-## <a name="apply-upgrade-discount-when-moving-from-silver-to-gold"></a>Använd uppgraderings rabatt när du flyttar från silver till guld
+## <a name="apply-upgrade-discount-when-moving-from-silver-to-gold"></a>Tillämpa uppgraderingsrabatt vid flytt från silver till guld
 
-Om din organisation har en aktiv silver kompetens och har uppfyllt behörighets kraven för den tillhör ande guld kompetensen, är du berättigad att uppgradera från silver till guld för rabatt. Du får 25 procents rabatt på priset för guld kompetensen.
+Om din organisation har en aktiv silverkompetens och har uppfyllt behörighetskraven för den associerade guldkompetensen, är du berättigad att uppgradera från silver till guld för en rabatt. Du får 25 procent rabatt på priset för guldkompetensen.
 
-Det nya guld jubileums datumet kommer att schemaläggas i ett år från inköps datumet. Du får fullständiga guld förmåner.
+Det nya guldårsdatumet schemaläggs för ett år från inköpsdatum. Du får fullständiga guldfördelar.
 
 > [!NOTE]
-> Det finns några undantag för den här uppgraderings rabatten. Om du har ett silver medlemskaps erbjudande och du sedan har använt 25% rabatt på guld medlemskap för att uppgradera till ett erbjudande för guld medlemskap, är du inte berättigad till en silver åter betalning. Detta gäller även om du har betalat för ditt silver-medlemskap inom 30 dagar och ännu inte har använt de relaterade fördelarna.
+> Det finns några undantag till den här uppgraderingsrabatten. Om du hade ett silvermedlemskapserbjudande och sedan använde 25 procents rabatt för guldmedlemskap för att uppgradera till ett guldmedlemskapserbjudande är du inte berättigad till en silveråterbetalning. Detta gäller även om du har betalat för ditt Silver-medlemskap inom 30 dagar och ännu inte har använt de relaterade förmånerna.
 
-Gör så här om du vill se var din 25% rabatt används:
+Om du vill se var rabatten på 25 procent tillämpas gör du följande:
 
 1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard).
 
-2. Välj **medlemskaps erbjudanden** från menyn till vänster-navigering.
+2. Välj **Medlemskapserbjudanden** på den vänstra navigeringsmenyn.
 
-3. Leta upp en panel för guld medlemskap under erbjudanden som är tillgängliga för köp. Om du tidigare har uppnått och betalat för ett silver-medlemskap, justeras guld medlemskapet så att det motsvarar 25 procent rabatten.
+3. Under Erbjudanden som är tillgängliga för köp letar du efter en guldmedlemskapspanel. Om du tidigare har uppnått och betalat för ett Silver-medlemskap justeras medlemskapsbeloppet för guld för att återspegla rabatten på 25 procent.
 
-   :::image type="content" source="images/offers/9-mpn-competency-silver-to-gold-discount.png" alt-text="Inköpta medlemskaps erbjudanden visar guld panels erbjudande med silver till guld 25 procent rabatt." border="false":::
+   :::image type="content" source="images/offers/9-mpn-competency-silver-to-gold-discount.png" alt-text="Köpta medlemskapserbjudanden visar ett erbjudande om guldpanel med 25 procents rabatt från silver till guld." border="false":::
 
-4. Välj **Prenumerera** på panelen medlemskap i guld som återspeglar rabatten. På sidan med inköps information visas även rabatten för det valda köpet.
+4. Välj **Prenumerera** i panelen Guldmedlemskap som återspeglar rabatten. Sidan med köpinformation visar även rabatten för det valda köpet.
 
-   :::image type="content" source="images/offers/10-mpn-competency-silver-to-gold-discount-2.png" alt-text="Sidan information visar erbjudandet med 25 procent rabatt." border="false":::
+   :::image type="content" source="images/offers/10-mpn-competency-silver-to-gold-discount-2.png" alt-text="Informationssidan visar erbjudande med 25 procents rabatt." border="false":::
 
-5. Välj **Nästa** för att slutföra köpet av erbjudandet och få rabatten.
+5. Välj **Nästa** för att slutföra köpet av det här erbjudandet och få rabatten.
 
 ## <a name="next-steps"></a>Nästa steg
 
-Lär dig mer om [kompetenser](https://partner.microsoft.com/membership/competencies), deras fördelar och unika krav
+Läs mer om [kompetenser,](https://partner.microsoft.com/membership/competencies)deras fördelar och unika krav

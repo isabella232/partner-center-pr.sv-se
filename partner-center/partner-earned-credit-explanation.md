@@ -1,88 +1,82 @@
 ---
-title: Partner intjänad kredit för hanterade tjänster
+title: Partner-intjänad kredit för hanterade tjänster
 ms.topic: article
 ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig hur Microsoft partner intjänad kredit (PEC) för hanterade tjänster beräknas och betalas och hur du garanterar att du är berättigad.
+description: Lär dig hur Microsoft-partners intjänade kredit (PEC) för hanterade tjänster beräknas och betalas och hur du säkerställer att du är berättigad.
 author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 022e7aabd0d850660f8236dce9a4fab9069af01b
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: ba422a2feae2affb9c2b60ad345c4d6bb0d525c7
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087135"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110145872"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Hur partnerintjänad kredit beräknas och betalas
 
-**Lämpliga roller**
+**Lämpliga roller:** Globala | Administratörsbehörighet för | Administratörsagent | Faktureringsadministratörskonto | Försäljningsagent
 
-- Global administratör
-- Administratör för användar hantering
-- Administratörs agent
-- Faktureringsadministratör
-- Försäljnings agent
+Partnerns intjänade kredit för hanterade tjänster (PEC) identifierar och delar ut förmåner till partner som äger DEN operativa kontrollen och hanteringen av delar av, eller hela Azure-miljön för sina kunder, dygnet runt. Som standard beviljas partner i CSP de nödvändiga åtkomsträttigheterna till kundens prenumeration så att de kan utföra drifthantering dygnet runt och kontrollera resurserna i prenumerationen. Andra sätt på vilka kunder kan etablera åtkomst för att köpa partners beskrivs i följande avsnitt. Det månatliga fakturabeloppet är nettot av partnerns intjänade kredit. Partner kan se PEC-informationen i sin månatliga rekognoseringsfil. Mer information om hur en kund kan etablera åtkomst för den hanterande partnern finns i [Hantera prenumerationer och resurser i Azure-planen.](azure-plan-manage.md)
 
-Partner intjänad kredit för hanterade tjänster (PEC) känner av och fördelar partner som äger den dygnet runt IT-operativa styrning och hantering av delar av, eller hela, Azure-miljön för kunderna. Som standard beviljas partner i CSP de nödvändiga åtkomst rättigheterna till kundens prenumeration så att de kan utföra 24 X 7 drifts hantering och kontroll över resurserna i prenumerationen. Andra sätt som kunder kan använda för att etablera åtkomst för partners beskrivs i följande avsnitt. Månads fakturan är netto beloppet för den intjänade krediten. Partner kan se PEC-information om sina månatliga rekognoseringar-filer. Läs [Hantera prenumerationer och resurser i Azure-prenumerationen](azure-plan-manage.md)för ytterligare sätt som en kund kan använda för att etablera åtkomst för den inhandlande partnern.
+Läs även [Återställa administratörsbehörigheter för Azure CSP prenumerationer](revoke-reinstate-csp.md)
 
-Läs även [återställa administratörs behörighet för Azure CSP-prenumerationer](revoke-reinstate-csp.md)
+## <a name="eligibility"></a>Stödberättigande
 
-## <a name="eligibility"></a>Behörighet
+För att få partnerns intjänade kredit (PEC) gäller följande krav: 
 
-Följande krav gäller för att få partner företaget intjänade kredit (PEC): 
+- Du måste ha ett aktivt MPN-avtal och en giltig rollbaserad åtkomstkontrollroll (RBAC) för att få intjänad kredit för de Azure-tillgångar som du hanterar.
 
-- Du måste ha ett aktivt MPN-avtal och en giltig rollbaserad åtkomst kontroll (RBAC) för att få intjänad kredit för de Azure-tillgångar som du hanterar.
+- Du måste ha driftkontroll dygnet runt och hantering av kundens Azure-resurser i CSP. Det innebär att du måste ha administratörsbehörighet för kundens Azure-prenumeration, Azure-resursgrupp och Azure-resurs. När det gäller indirekta leverantörer och deras indirekta återförsäljare är den indirekta leverantören berättigad till PEC om antingen den indirekta leverantören eller den indirekta återförsäljaren eller båda har denna operativa kontroll. Mer information om detta finns i [Återställa administratörsbehörigheter för Azure CSP prenumerationer.](./revoke-reinstate-csp.md)
 
-- Du måste ha dygnet runt drifts kontroll och hantering av kundens Azure-resurser i CSP. Det innebär att du måste ha administratörs behörighet för kundens Azure-prenumeration, Azure-resurs grupp, Azure-resurs. Om det gäller indirekta leverantörer och deras indirekta åter försäljare är den indirekta leverantören berättigad till PEC om antingen den indirekta leverantören eller den indirekta åter försäljaren eller båda har denna operativa kontroll. Läs mer om det här i [återställa administratörs behörigheter för Azure CSP-prenumerationer](./revoke-reinstate-csp.md).
+- Utöver kraven ovan gäller PEC endast för tjänster som anges i prissättningen för Azure-planförbrukning, som du kan exportera från sidan med priser [för Azure-plan.](https://partner.microsoft.com/commerce/sales)
 
-- Utöver kraven ovan gäller PEC endast för tjänster som anges i prissättningen för Azure-abonnemang, som du kan exportera från pris sidan för [Azure-prenumerationen](https://partner.microsoft.com/commerce/sales) .
+- PEC **gäller** inte för följande tjänster:
+    - Azure-planreservationer
+    - Produkter från tredje part som identifierats som tredje part i kolumnen Taggar i Azure-planens förbrukningspris
+    - Produkter i Marketplace-prislistan
+    - [Azure Spot Virtual Machines](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)
 
-- PEC gäller **inte** för följande tjänster:
-    - Azure plan-reservationer
-    - Produkter från tredje part som identifieras som tredje part i kolumnen Taggar i pris för Azure plan-förbrukning
-    - Produkter i pris listan för Marketplace
-    - [Virtual Machines för Azure-plats](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)
+- PEC intjänas till Azure-resursnivån. Om du har giltig åtkomst på prenumerations- eller resursgruppsnivå får varje resurs som ingår i den högre entiteten PEC.
 
-- PEC är intjänad på Azure-resursnivå. Om du har giltig åtkomst på antingen prenumerations-eller resurs grupps nivå får du PEC genom att varje resurs som slås samman till den högre enheten.
-
-- Information om PEC finns också på sidan för [Azure Cost Management](/azure/cost-management-billing/costs/get-started-partners) .
+- Information om PEC finns också på sidan [Azure Cost Management.](/azure/cost-management-billing/costs/get-started-partners)
 
 ### <a name="calculation"></a>Beräkning
 
-PEC beräknas dagligen och kan visas i den dagliga användnings filen och en månads faktura rekognoseringar-fil. En partner (indirekt provider eller indirekt åter försäljare) måste ha åtkomst för hela dagen (dygnet runt) för att säkerställa att de får PEC. PEC beräknas dagligen på de hanterade Azure-resurserna. Partner som bevarar beständig privilegie rad åtkomst under månaden (åtkomstscope) och för alla tillgängliga resurser (åtkomstscope) kommer att få fullständig PEC. Omfångs-och span-reducering ger lägre PEC-pris för månaden. Dagligt klassificerad användnings fil visas dagligen på en Azure-till gång, oavsett om PEC används eller inte. Partner kan också registrera aviseringar för att övervaka ändringar i beständig privilegie rad åtkomst.
+PEC beräknas dagligen och kan visas i filen med daglig användning och månatliga fakturarekognoseringsfiler. En partner (indirekt leverantör eller indirekt återförsäljare) måste ha åtkomst för hela dagen (dygnet runt) för att säkerställa att de tjänar PEC. PEC beräknas dagligen utifrån de hanterade Azure-tillgångarna. Partner som behåller beständig privilegierad åtkomst under månaden (åtkomstomfånget) och för alla berättigade resurser (åtkomstomfång) får fullständig PEC. Omfångs- och spannminskning resulterar i lägre PEC-frekvens för månaden. Den dagliga klassificerade användningsfilen visas dagligen på en Azure-tillgång, oavsett om PEC tillämpas eller inte. Partner kan också registrera sig i aviseringar för att övervaka ändringar av beständig privilegierad åtkomst.
 
 ## <a name="azure-cost-management"></a>Azure Cost Management
 
-Azure Cost Management (ACM) med hjälp av kostnads analys kan du som partner se de kostnader som har fått fördelen med PEC.  
+Azure Cost Management (ACM) med hjälp av kostnadsanalys kan du som partner visa de kostnader som har fått förmånen av PEC.  
 
-1. Logga in på partner klienten i [Azure Portal](https://portal.azure.com)och välj **Cost Management + fakturering**.
+1. I den [Azure Portal](https://portal.azure.com)loggar du in på din partnerklientorganisation och **väljer Cost Management + Billing**.
 
-2. Välj **kostnads hantering**
+2. Välj **Kostnadshantering**
 
-3. Välj **kostnads analys**
+3. Välj **Kostnadsanalys**
 
-   I vyn kostnads analys visas kostnaderna för ditt fakturerings konto för alla tjänster som köpts och förbrukas enligt de priser som du betalar för Microsoft.
+   I vyn Kostnadsanalys visas kostnaderna för ditt faktureringskonto för alla tjänster som köpts och förbrukats till de priser som du betalar Microsoft.
 
-4. Välj **PartnerEarnedCreditApplied** i list rutan i ett pivot-diagram för att Visa kostnader där PEC har tillämpats. När **PartnerEarnedCreditApplied** -egenskapen är true, har den tillhör ande kostnaden nytta av partner intjänade kredit. 
+4. Välj **PartnerEarnedCreditApplied** i listrutan i ett pivotdiagram för att se kostnader som har tillämpats av PEC. När **egenskapen PartnerEarnedCreditApplied** är True får den associerade kostnaden fördelen med partnerns intjänade kredit. 
 
-   När PartnerEarnedCreditApplied-egenskapen har värdet false har den tillhör ande kostnaden inte uppfyllt den nödvändiga behörigheten för krediten eller så är den köpta tjänsten inte berättigad till partner intjänad kredit.
+   När egenskapen PartnerEarnedCreditApplied är False har den tillhörande kostnaden inte uppfyllt den berättigande som krävs för krediten, eller så är den köpta tjänsten inte berättigad till partnerintjänad kredit.
 
    >[!NOTE] 
-   >Normalt tar användningen av tjänster 8-24 timmar innan den visas i **Cost Management** och PEC-krediterna visas inom 48 timmar från tiden för åtkomst i Azure Cost Management.
+   >Användningen av tjänster tar vanligtvis 8–24 timmar att visas **i Cost Management** och PEC-krediterna visas inom 48 timmar från åtkomsten i Azure Cost Management.
 
-5. Du kan också gruppera efter och filtrera efter, egenskapen **PartnerEarnedCreditApplied** med hjälp av **Group by och lägga till** filter funktioner för att öka detalj nivån för kostnader som har PEC och kostnader som inte har använts.
+5. Du kan också gruppera efter och filtrera efter egenskapen **PartnerEarnedCreditApplied** med hjälp av funktionerna **Gruppera** efter och Lägg till filter för att granska kostnader som har PEC och de kostnader som inte har någon tillämpad PEC.
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Partner intjänad kredit – översikt](partner-earned-credit.md)
+- [Partner-intjänad kredit – översikt](partner-earned-credit.md)
 
-- Detaljerade exempel på partner intjänade kredit beräkningar finns i pris listan som du kan komma åt via instrument panelen för partner Center (inloggning krävs).
+- Detaljerade exempel på beräkning av partners intjänade kredit finns i prislistan som du kan nå via instrumentpanelen i Partnercenter (inloggning krävs).
 
-- [Flytta till Azure plan – kom igång](azure-plan-get-started.md)
+- [Flytta till Azure-plan – kom igång](azure-plan-get-started.md)
 
 - [Hantera prenumerationer och resurser under Azure-planen](azure-plan-manage.md)
 
-- [Återkalla eller återställa administratörs behörighet för Azure CSP-prenumerationer](revoke-reinstate-csp.md)
+- [Återkalla eller återställa administratörsbehörigheter för Azure CSP prenumerationer](revoke-reinstate-csp.md)

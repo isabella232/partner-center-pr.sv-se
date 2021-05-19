@@ -4,61 +4,55 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Lär dig hur du visar eller laddar ned din MPN-medlemskaps faktura, hur du filen för skatte befrielse och hur du skickar Microsoft ditt moms-ID-nummer.
+description: Lär dig hur du visar eller laddar ned din MPN-medlemskapsfaktura, hur du filar för skattebefrielse och hur du skickar ditt momsregistreringsnummer till Microsoft.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b61fd5c3c68b3bbd9396cf55a53c22b85523d976
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: c3ea3fae2ae8052b517bfb80e16614c4708a253b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132799"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151295"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Fakturor och skatter i Microsoft Partner Network
 
-**Lämpliga roller**
+**Lämpliga roller:** Globala | Administratörsbehörighet för | MPN-partneradministratör | Faktureringsadministratörskonto | Administratörsagent
 
-- Global administratör
-- Administratör för användar hantering
-- MPN-partner administratör
-- Faktureringsadministratör
-- Administratörs agent
+## <a name="view-or-download-your-mpn-membership-invoice"></a>Visa eller ladda ned din MPN-medlemskapsfaktura
 
-## <a name="view-or-download-your-mpn-membership-invoice"></a>Visa eller ladda ned din MPN-medlemskaps faktura
+Använd stegen nedan för att visa eller ladda ned den slutliga fakturan för en order som rör ditt medlemskap i Microsoft Partner Network. Fakturor är allmänt tillgängliga 10 dagar efter att betalningen har slutförts. Kontakta ditt regionala servicecenter om du vill ha mer information.  
 
-Använd stegen nedan för att visa eller hämta den slutgiltiga fakturan för en order som är relaterad till ditt medlemskap i Microsoft Partner Network. Fakturor är allmänt tillgängliga 10 dagar efter att betalningen har slutförts. Kontakta ditt regionala Service Center om du vill ha mer information.  
+Du måste vara administratör Global administratör MPN-partner för att utföra den här proceduren. 
 
-Du måste vara global administratör eller MPN partner administratör för att kunna utföra den här proceduren. 
+1.  Logga in [på Partnercenter](https://partner.microsoft.com/dashboard/home) med ditt arbetskonto och välj **MPN** på den vänstra menyn.
 
-1.  Logga in på [partner Center](https://partner.microsoft.com/dashboard/home) med ditt arbets konto och välj **MPN** på den vänstra menyn.
+4.  I listrutan väljer du **Medlemskapserbjudanden för att** se de erbjudanden som är tillgängliga för inköp och de fakturor som är tillgängliga för det aktuella registreringsåret. Om du vill se fakturor för föregående år väljer du **Inaktuella**.
 
-4.  I list rutan väljer du **medlemskaps erbjudanden** för att se de erbjudanden som är tillgängliga för inköp och de fakturor som är tillgängliga för det aktuella året för registrering. Om du vill se fakturor för föregående år väljer du **Inaktuella**.
+6.  Välj den faktura du vill ha och välj sedan **Ladda ned faktura.** 
 
-6.  Välj den faktura som du vill använda och välj sedan **Hämta faktura**. 
+## <a name="file-a-tax-exemption"></a>Skapa ett skattebefrielseundantag
 
-## <a name="file-a-tax-exemption"></a>Filen är ett skatte undantag
+1.  I Partnercenter väljer du **Inställningar.**
+    - Om du vill hitta ditt MPN-ID väljer **du Partnerprofil**.
 
-1.  I Partner Center väljer du **Inställningar**.
-    - Välj **partner profil** för att hitta ditt MPN-ID.
+2.  Skapa en ny supportbiljett. I Partnercenter väljer du **Tjänstförfrågningar,** **Partnercenter-begäranden** och sedan **Ny begäran.**
 
-2.  Skapa ett nytt support ärende. I Partner Center väljer du **tjänst begär** Anden, väljer **partner Center-begäranden** och väljer sedan **ny begäran**.
+3.  Fyll i formuläret. För Typ **av problem väljer** du Kan inte hantera min **profil.** I beskrivningen tar du med ditt MPN-ID.
 
-3.  Fyll i formuläret. Välj **kan inte hantera min profil** för **typ av problem**. I beskrivningen inkluderar du ditt MPN-ID.
+4.  När du har skickat din begäran skickar Microsoft ett e-postmeddelande till dig för att få mer information. När du svarar bifogar du lämplig stöddokumentation för dina skattebefrielsecertifikat.
 
-4.  När du har skickat in biljetten kommer Microsoft att be dig att få mer information. Bifoga lämplig support dokumentation för dina skatte befrielse certifikat när du svarar.
+## <a name="send-microsoft-your-vat-id-number"></a>Skicka ditt momsregistreringsnummer till Microsoft
 
-## <a name="send-microsoft-your-vat-id-number"></a>Skicka Microsofts ID-nummer för moms
+1.  På instrumentpanelen i [Partnercenter](https://partner.microsoft.com/dashboard/home)väljer **du Medlemskapserbjudanden** och sedan **Tillgänglig.** 
 
-1.  I [instrument panelen](https://partner.microsoft.com/dashboard/home)för partner Center väljer du **medlemskaps erbjudanden** och väljer sedan **tillgängligt**. 
+2.  Välj **Lägg till ditt momsregistreringsnummer.** 
 
-2.  Välj **Lägg till ditt moms-ID**. 
-
-3.  Ange företagets moms-ID, Välj **Lägg till** och välj sedan **Nästa**. 
+3.  Ange momsregistrerings-ID för ditt företag, **välj Lägg** till och välj sedan **Nästa.** 
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Översikt över fakturering i Partner Center](billing-basics.md)
+- [Översikt över fakturering i Partnercenter](billing-basics.md)
 
-- [Få krediter ATS för käll skatt](withholding-tax-credit-form.md)
+- [Krediteras för källskatt](withholding-tax-credit-form.md)

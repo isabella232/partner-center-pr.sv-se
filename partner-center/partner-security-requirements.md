@@ -1,142 +1,140 @@
 ---
-title: Säkerhets krav för partner
+title: Säkerhetskrav för partner
 ms.topic: article
 ms.date: 10/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Introducerar säkerhets krav för partner för att aktivera Multi-Factor Authentication (MFA) och anta ramverket för säker program modell.
+description: Introducerar partnersäkerhetskrav för att aktivera multifaktorautentisering (MFA) och införa Modell för säkra program ramverket.
 author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b7fa76999d2e071f80c0175a8dfcbc1afe527bfc
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 201ea34d30814974936da032805f1ee7dfa590be
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087067"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110145855"
 ---
-# <a name="security-requirements-for-using-partner-center-or-partner-center-apis"></a>Säkerhets krav för att använda API: er för partner Center eller partner Center
+# <a name="security-requirements-for-using-partner-center-or-partner-center-apis"></a>Säkerhetskrav för att använda PARTNER Center- eller Partner Center-API:er
 
-**Lämpliga roller**
+**Lämpliga roller:** Alla Partner Center-användare
 
-- Alla partner Center-användare
+Den här artikeln förklarar de obligatoriska säkerhetskraven för rådgivare, Kontrollpanelen-leverantörer och partner som deltar i Molnlösningsleverantör-programmet, samt autentiseringsalternativ och andra säkerhetsöverväganden. Sekretessskydd och säkerhet är bland våra högsta prioriteter. Vi vet att det bästa skydd är att förebygga och att vi bara är lika starka som vår svagaste länk. Därför behöver vi att alla i vårt ekosystem agerar och ser till att rätt säkerhetsskydd finns på plats.
 
-Den här artikeln beskriver de obligatoriska säkerhets kraven för rådgivare, kontroll panels leverantörer och partner som ingår i Cloud Solution Provider-programmet, samt autentiseringsalternativ och andra säkerhets aspekter. Integritets skydd och säkerhet är bland våra främsta prioriteringar. Vi vet att det bästa skyddet är förebyggande och att vi bara är lika starka som vår svagaste länk. Därför behöver vi alla i vårt eko system för att agera och se till att lämpliga säkerhets skydd är på plats.
+## <a name="mandatory-security-requirements"></a>Obligatoriska säkerhetskrav
 
-## <a name="mandatory-security-requirements"></a>Obligatoriska säkerhets krav
+Partner som inte implementerar de obligatoriska säkerhetskraven kommer inte att kunna utföra transaktioner i Molnlösningsleverantör-programmet eller hantera kundklienter med delegerade administratörsrättigheter. Dessutom kan partner som inte implementerar säkerhetskraven riskera deras deltagande i program. De termer som är associerade med partnersäkerhetskraven har lagts till i Microsoft-partneravtal. När det gäller rådgivare gäller samma avtalskrav.
 
-Partner som inte implementerar de obligatoriska säkerhets kraven kommer inte att kunna använda Transact i Cloud Solution Provider-programmet eller hantera kund klienter med hjälp av delegerade administratörs rättigheter. Dessutom kan partner som inte implementerar säkerhets kraven ge sitt deltagande i program i risk zonen. Villkoren som är kopplade till partner säkerhets kraven har lagts till i Microsoft partner Agreement. När det gäller rådgivare är samma avtals krav på plats.
+För att skydda dig och dina kunder kräver vi att partner omedelbart vidta följande åtgärder:  
 
-För att skydda dig och dina kunder, kräver vi partner att vidta följande åtgärder omedelbart:  
+1. **Aktivera multifaktorautentisering (MFA) för alla användarkonton i din partnerklientorganisation.** Du måste tillämpa MFA på alla användarkonton i dina partnerklienter. Användare måste uppmanas av MFA när de loggar in på Microsofts kommersiella molntjänster eller när de gör en överträdelse i Molnlösningsleverantör-programmet via Partnercenter eller via API:er.
 
-1. **Aktivera Multi-Factor Authentication (MFA) för alla användar konton i din partner klient**. Du måste tillämpa MFA på alla användar konton i din partner klient (er). Användarna måste ha en utmaning när de loggar in på Microsofts kommersiella moln tjänster eller när de använder sig av Transact i Cloud Solution Provider-programmet via partner Center eller via API: er.
-
-2. **Anta ramverket för säker program modell**. Alla partners som integreras med API: er för partner Center måste anta modell program för [säker program modell](/partner-center/develop/enable-secure-app-model) för appar och program för användarautentisering.
+2. **Anta Modell för säkra program ramverket**. Alla partner som integrerar med Partner Center-API:er [måste Modell för säkra program ramverket](/partner-center/develop/enable-secure-app-model) för alla program för app- och användarauth-modeller.
 
     > [!IMPORTANT]
-    > Vi rekommenderar starkt att partners implementerar den säkra program modellen för integrering med ett Microsoft API, till exempel Azure Resource Manager eller Microsoft Graph eller när du använder automatisering, till exempel PowerShell med hjälp av användarautentiseringsuppgifter, för att undvika störningar när MFA tillämpas.
+    > Vi rekommenderar starkt att partner implementerar Modell för säkra program för integrering med ett Microsoft API, till exempel Azure Resource Manager eller Microsoft Graph, eller när de använder automatisering som PowerShell med användarautentiseringsuppgifter, för att undvika störningar när MFA tillämpas.
 
-Dessa säkerhets krav hjälper till att skydda din infrastruktur och skydda dina kunders data från potentiella säkerhets risker, till exempel att identifiera stölder eller andra bedrägeri incidenter.  
+Dessa säkerhetskrav hjälper till att skydda din infrastruktur och dina kunders data mot potentiella säkerhetsrisker, till exempel identifiera stöld eller andra bedrägeriincidenter.  
 
-## <a name="implementing-multi-factor-authentication"></a>Implementera Multi-Factor Authentication
+## <a name="implementing-multi-factor-authentication"></a>Implementera multifaktorautentisering
 
-För att uppfylla partner säkerhets kraven måste du implementera och verkställa MFA för varje användar konto i din partner klient. Det kan du göra på något av följande sätt:
+För att uppfylla partnersäkerhetskraven måste du implementera och framtvinga MFA för varje användarkonto i din partnerklientorganisation. Du kan göra detta på något av följande sätt:
 
-- Implementera [säkerhets inställningar för Azure Active Directory (Azure AD)](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults). Mer information finns i [Nästa avsnitt](#security-defaults).
+- Implementera [Azure Active Directory (Azure AD) som standard.](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults) Mer information finns i [nästa avsnitt.](#security-defaults)
 
-- Köp Azure Active Directory Premium för varje användar konto. Mer information finns i [Planera en Azure AD Multi-Factor Authentication-distribution](/azure/active-directory/authentication/howto-mfa-getstarted).
+- Köp Azure Active Directory Premium för varje användarkonto. Mer information finns i Planera [en Azure AD Multi-Factor Authentication-distribution.](/azure/active-directory/authentication/howto-mfa-getstarted)
 
-- Använd en lösning från tredje part för att genomdriva MFA för varje användar konto i din partner klient. För att säkerställa att lösningen tillhandahåller den förväntade lösningen, se [Hur säkerhets kraven kommer att verkställas](#how-the-requirements-are-enforced).
+- Använd en lösning från tredje part för att framtvinga MFA för varje användarkonto i din partnerklientorganisation. För att säkerställa att lösningen ger den förväntade lösningen kan [du se hur säkerhetskraven tillämpas.](#how-the-requirements-are-enforced)
 
 > [!NOTE]
-> Även om Multi-Factor Authentication inte enligt avtal krävs för ett suveränt moln (amerikanska myndigheter och Tyskland) rekommenderar vi att du antar dessa säkerhets krav.
+> Även om multifaktorautentisering inte krävs enligt avtal för ett suveränt moln (amerikanska myndigheter och Tyskland) rekommenderar vi starkt att du antar dessa säkerhetskrav.
 
 ### <a name="security-defaults"></a>Standardinställningar för säkerhet
 
-Ett av de alternativ som partner kan välja för att implementera MFA-krav är att aktivera säkerhets inställningar i Azure AD. Säkerhets standarder erbjuder en grundläggande säkerhets nivå utan extra kostnad. Läs om hur du aktiverar MFA för din organisation med Azure AD och viktiga överväganden nedan innan du aktiverar säkerhets inställningarna.
+Ett av alternativen som partner kan välja att implementera MFA-krav på är att aktivera standardinställningar för säkerhet i Azure AD. Standardinställningarna för säkerhet ger en grundläggande säkerhetsnivå utan extra kostnad. Läs om hur du aktiverar MFA för din organisation med Azure AD och de viktigaste övervägandena nedan innan du aktiverar standardvärden för säkerhet.
 
-- Partner som redan har infört bas linje principer måste vidta åtgärder för att gå över till säkerhets inställningarna.
+- Partner som redan har infört baslinjeprinciper måste vidta åtgärder för att övergå till standardvärden för säkerhet.
 
-- Säkerhets standarder är den allmänna tillgänglighets ersättningen för för hands versions bas linjerna. När en partner aktiverar säkerhets inställningarna kommer de inte längre att kunna aktivera bas linje principer.
+- Standardvärden för säkerhet är allmän tillgänglighetsersättning av baslinjeprinciperna för förhandsversioner. När en partner aktiverar standardinställningarna för säkerhet kommer de inte längre att kunna aktivera baslinjeprinciper.
 
-- Med säkerhets inställningar aktive ras alla principer samtidigt.
+- Med standardvärden för säkerhet aktiveras alla principer samtidigt.
 
-- För partner som använder [villkorlig åtkomst](/azure/active-directory/conditional-access/concept-conditional-access-policy-common)är [säkerhets inställningar inte tillgängliga](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults).
+- För partner som använder [villkorlig åtkomst](/azure/active-directory/conditional-access/concept-conditional-access-policy-common) [är standardinställningarna för säkerhet inte tillgängliga.](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults)
 
-- Vi blockerar inte äldre autentisering för tillfället. Men eftersom de flesta händelser relaterade till komprometterade identiteter kommer från inloggnings försök med hjälp av äldre autentisering, uppmuntras partner att gå vidare från dessa äldre protokoll.
+- Vi blockerar inte äldre autentisering just nu. Men eftersom de flesta händelser som rör komprometterade identiteter kommer från inloggningsförsök med äldre autentisering, uppmuntras partner att flytta från dessa äldre protokoll.
 
-- Azure AD Connect-synkroniseringsschemat är exkluderat från säkerhets inställningarna.
+- Azure AD Connect synkroniseringskonto undantas från standardinställningarna för säkerhet.
 
-Detaljerad information finns [i Översikt över Azure AD Multi-Factor Authentication för din organisation](/azure/active-directory/authentication/concept-mfa-get-started) och [Vad är säkerhets inställningar?](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
+Detaljerad information finns i [Översikt över Azure AD Multi-Factor Authentication för din organisation](/azure/active-directory/authentication/concept-mfa-get-started) och Vad är [standardinställningar för säkerhet?](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
 > [!NOTE]
-> Standardvärden i Azure AD är utvecklingen av principer för grundläggande säkerhet. Om du redan har aktiverat principerna för bas linjen rekommenderas det starkt att du aktiverar [säkerhets inställningarna](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
+> Standardvärden för Azure AD-säkerhet är utvecklingen av förenklade baslinjeskyddsprinciper. Om du redan har aktiverat baslinjeskyddsprinciperna rekommenderar vi starkt att du aktiverar [standardinställningarna för säkerhet.](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 
 ## <a name="implementation-considerations"></a>Att tänka på vid implementering
 
-Eftersom dessa krav gäller för alla användar konton i din partner klient måste du överväga flera saker för att säkerställa en smidig distribution. Identifiera till exempel användar konton i Azure AD som inte kan utföra MFA och program och enheter i din organisation som inte stöder modern autentisering.
+Eftersom dessa krav gäller för alla användarkonton i din partnerklientorganisation måste du överväga flera saker för att säkerställa en smidig distribution. Du kan till exempel identifiera användarkonton i Azure AD som inte kan utföra MFA och program och enheter i din organisation som inte stöder modern autentisering.
 
-Innan du utför någon åtgärd rekommenderar vi att du utför följande verifieringar. 
+Innan du utför någon åtgärd rekommenderar vi att du slutför följande verifieringar. 
 
 #### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-modern-authentication"></a>Har du ett program eller en enhet som inte stöder användning av modern autentisering?
 
-När du tillämpar MFA kommer äldre autentisering att använda protokoll som IMAP, POP3, SMTP och andra blockeras eftersom de inte stöder MFA. Om du vill åtgärda den här begränsningen använder du [appens lösen ord](/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords) för att se till att programmet eller enheten fortfarande kommer att autentiseras. Granska [överväganden för att använda applösenord](/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords) för att avgöra om de kan användas i din miljö.
+När du tillämpar MFA blockeras äldre autentiseringsprotokoll som IMAP, POP3, SMTP och andra eftersom de inte stöder MFA. Du kan åtgärda den här begränsningen [genom att använda funktionen för applösenord](/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords) för att säkerställa att programmet eller enheten fortfarande autentiseras. Granska överväganden [för att använda applösenord](/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords) för att avgöra om de kan användas i din miljö.
 
-#### <a name="do-you-have-office-365-users-with-licenses-associated-with-your-partner-tenant"></a>Har du Office 365-användare med licenser som är kopplade till din partner klient?
+#### <a name="do-you-have-office-365-users-with-licenses-associated-with-your-partner-tenant"></a>Har du Office 365-användare med licenser som är associerade med din partnerklientorganisation?
 
-Innan du implementerar någon lösning rekommenderar vi att du fastställer vilka versioner av Microsoft Office användare i din partner klient organisation använder. Det finns en chans att användarna får problem med anslutningen till program som Outlook. Innan du framtvingar MFA är det viktigt att se till att du använder Outlook 2013 SP1 eller senare och att din organisation har modern autentisering aktive rad. Mer information finns i [Aktivera modern autentisering i Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online). 
+Innan du implementerar någon lösning rekommenderar vi att du bestämmer vilka versioner Microsoft Office användare i din partnerklientorganisation använder. Det finns en risk att användarna får anslutningsproblem med program som Outlook. Innan du framtvingar MFA är det viktigt att du använder Outlook 2013 SP1 eller senare och att din organisation har modern autentisering aktiverad. Mer information finns i [Aktivera modern autentisering i Exchange Online.](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online) 
 
-Om du vill aktivera modern autentisering för enheter som kör Windows som har Microsoft Office 2013 installerat måste du skapa två register nycklar. Se [Aktivera modern autentisering för Office 2013 på Windows-enheter](/office365/admin/security-and-compliance/enable-modern-authentication).
+Om du vill aktivera modern autentisering för enheter som kör Windows Microsoft Office 2013 måste du skapa två registernycklar. Se [Aktivera modern autentisering för Office 2013 på Windows-enheter.](/office365/admin/security-and-compliance/enable-modern-authentication)
 
-#### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>Finns det någon princip som hindrar användarna från att använda sina mobila enheter när de arbetar?
+#### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>Finns det någon princip som hindrar någon av användarna från att använda sina mobila enheter när de arbetar?
 
-Det är viktigt att identifiera företags principer som hindrar anställda från att använda mobila enheter medan de arbetar eftersom det påverkar vilken MFA-lösning du implementerar. Det finns lösningar, till exempel den som tillhandahålls via implementeringen av [säkerhets inställningarna i Azure AD](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults), som endast tillåter användning av en Authenticator-app för verifiering. Om din organisation har en princip som förhindrar användning av mobila enheter, bör du överväga något av följande alternativ:
+Det är viktigt att identifiera företagspolicyer som förhindrar anställda från att använda mobila enheter när de arbetar, eftersom det påverkar vilken MFA-lösning du implementerar. Det finns lösningar, till exempel den som tillhandahålls via implementeringen av Standardinställningar för Azure AD-säkerhet, som endast tillåter användning av en [autentiseringsapp](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)för verifiering. Om din organisation har en princip som förhindrar användning av mobila enheter bör du överväga något av följande alternativ:
 
-- Distribuera ett tidsbaserat TOTP mobilapp-program (Base Password) som kan köras på ett säkert system.
+- Distribuera ett tidsbaserat TOTP-program (engångsbaserat baslösenord) som kan köras på ett säkert system.
 
-- Implementera en lösning från tredje part som tillämpar MFA för varje användar konto i partner klienten som tillhandahåller det mest lämpliga verifierings alternativet.
+- Implementera en lösning från tredje part som tillämpar MFA för varje användarkonto i partnerklientorganisationen som tillhandahåller det lämpligaste verifieringsalternativet.
 
-- Köp [Azure Active Directory Premium](https://azure.microsoft.com/pricing/details/active-directory/) licenser för berörda användare.
+- Köp [Azure Active Directory Premium](https://azure.microsoft.com/pricing/details/active-directory/) licenser för de berörda användarna.
 
-#### <a name="what-automation-or-integration-do-you-have-to-leverage-user-credentials-for-authentication"></a>Vilken Automation eller integrering behöver du använda användarautentiseringsuppgifter för autentisering?
+#### <a name="what-automation-or-integration-do-you-have-to-leverage-user-credentials-for-authentication"></a>Vilken automatisering eller integrering behöver du för att utnyttja användarautentiseringsuppgifter för autentisering?
 
-Eftersom vi tillämpar MFA för varje användare, inklusive tjänst konton, i din partner katalog, kommer detta att påverka all automatisering eller integrering som använder användarautentiseringsuppgifter för autentisering. Det är därför viktigt att du identifierar vilka konton som används i dessa situationer. Se följande lista över exempel program eller tjänster som du bör tänka på:
+Eftersom vi framtvingar MFA för varje användare, inklusive tjänstkonton, i din partnerkatalog, påverkar detta all automatisering eller integrering som använder användarautentiseringsuppgifter för autentisering. Därför är det viktigt att du identifierar vilka konton som används i dessa situationer. Se följande lista över exempelprogram eller tjänster att tänka på:
 
-- Kontroll panelen används för att etablera resurser för kundernas räkning
+- Kontrollpanelen som används för att etablera resurser åt dina kunder
 
-- Integrering med vilken plattform som helst som används för fakturering (som den är kopplad till CSP-programmet) och support för dina kunder
+- Integrering med alla plattformar som används för fakturering (i enlighet med CSP-programmet) och stöd för dina kunder
 
-- PowerShell-skript som använder AZ, AzureRM, Azure AD, MS online och andra moduler
+- PowerShell-skript som använder Az, AzureRM, Azure AD, MS Online och andra moduler
 
-Listan ovan är inte fullständig. Det är därför viktigt att du utför en fullständig utvärdering av alla program eller tjänster i din miljö som använder användarautentiseringsuppgifter för autentisering. Om du vill tävla med kravet för MFA bör du implementera rikt linjerna i [säkra program modell ramverk](/partner-center/develop/enable-secure-app-model) där det är möjligt.
+Listan ovan är inte omfattande. Därför är det viktigt att du utför en fullständig utvärdering av alla program eller tjänster i din miljö som använder användarautentiseringsuppgifter för autentisering. För att uppfylla kravet på MFA bör du implementera vägledningen i det Modell för säkra program [ramverket](/partner-center/develop/enable-secure-app-model) där det är möjligt.
 
 ## <a name="accessing-your-environment"></a>Åtkomst till din miljö
 
-För att bättre förstå vad eller vem som autentiseras utan att bli tillfrågad för MFA, rekommenderar vi att du granskar inloggnings aktiviteten. Du kan använda inloggnings rapporten via Azure Active Directory Premium. Mer information om det här ämnet finns i [rapporter om inloggnings aktiviteter i Azure Active Directory-portalen](/azure/active-directory/reports-monitoring/concept-sign-ins). Om du inte har Azure Active Directory Premium eller om du letar efter ett sätt att hämta denna inloggnings aktivitet via PowerShell måste du använda cmdleten [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) från [partner centret PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) -modulen.
+För att bättre förstå vad eller vem som autentiserar utan att behöva använda MFA rekommenderar vi att du granskar inloggningsaktiviteten. Via Azure Active Directory Premium kan du använda inloggningsrapporten. Mer information om det här ämnet finns i [Inloggningsaktivitetsrapporter i Azure Active Directory portalen.](/azure/active-directory/reports-monitoring/concept-sign-ins) Om du inte har Azure Active Directory Premium, eller om du letar efter ett sätt att hämta den här inloggningsaktiviteten via PowerShell, måste du använda cmdleten [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) från [Partner Center PowerShell-modulen.](https://www.powershellgallery.com/packages/PartnerCenter/)
 
-## <a name="how-the-requirements-are-enforced"></a>Så här framtvingas kraven
+## <a name="how-the-requirements-are-enforced"></a>Hur kraven tillämpas
 
-Partner säkerhets krav upprätthålls av Azure AD och i sin tur i sin tur kan du söka efter MFA-anspråk för att identifiera att MFA-kontrollen har ägt rum. Från och med 18 november 2019 har Microsoft aktiverat ytterligare säkerhets skydd (kallades tidigare "tekniskt tvång") till partner klienter.
+Partnersäkerhetskraven tillämpas av Azure AD, och i sin tur Partnercenter, genom att söka efter förekomsten av MFA-anspråket för att identifiera att MFA-verifiering har skett. Från och med den 18 november 2019 aktiverade Microsoft ytterligare säkerhetsskydd (tidigare kallat "teknisk tillämpning") till partnerklienter.
 
-Vid aktivering begärs användare i partner innehavaren att slutföra MFA-verifiering när de utför en administratör på uppdrag av (ADMINISTRATE) åtgärder, åtkomst till Partner Center-portalen eller anropar API: er för partner Center. Mer information finns i [kräva Multi-Factor Authentication (MFA) för din partner klient](partner-security-requirements-mandating-mfa.md). 
+Vid aktiveringen uppmanas användare i partnerklientorganisationen att slutföra MFA-verifieringen när de utför en administratör för AOBO-åtgärder, öppnar Partner Center-portalen eller anropar Partner Center-API:er. Mer information finns i [Flerfaktorautentisering (MFA) för din partnerklientorganisation.](partner-security-requirements-mandating-mfa.md) 
 
-Partner som inte har uppfyllt kraven bör genomföra dessa åtgärder så snart som möjligt för att undvika eventuella affärs avbrott. Om du använder Azure Active Directory Multi-Factor Authentication eller standardinställningar för Azure AD-säkerhet finns det inga ytterligare åtgärder som du behöver vidta.
+Partner som inte har uppfyllt kraven bör implementera dessa åtgärder så snart som möjligt för att undvika verksamhetsavbrott. Om du använder Azure Active Directory multifaktorautentisering eller Standardinställningar för Azure AD-säkerhet behöver du inte vidta några ytterligare åtgärder.
 
-Om du använder en MFA-lösning från tredje part, kan MFA-anspråk inte utfärdas. Om detta påstående saknas, kan inte Azure AD avgöra om autentiseringsbegäran har anropats av MFA. Information om hur du verifierar att lösningen utfärdar det förväntade anspråket finns [i testa säkerhets kraven för partner](/powershell/partnercenter/test-partner-security-requirements). 
+Om du använder en MFA-lösning från tredje part finns det en risk att MFA-anspråket inte utfärdas. Om det här anspråket saknas kan Azure AD inte avgöra om autentiseringsbegäran har begärts av MFA. Information om hur du verifierar din lösning som utfärdar det förväntade anspråket finns [i Testa partnersäkerhetskraven.](/powershell/partnercenter/test-partner-security-requirements) 
 
 > [!IMPORTANT]
-> Om din lösning från tredje part inte utfärdar det förväntade anspråket måste du arbeta med leverantören som utvecklade lösningen för att fastställa vilka åtgärder som ska vidtas.
+> Om din lösning från tredje part inte utfärdar det förväntade anspråket måste du samarbeta med leverantören som utvecklade lösningen för att avgöra vilka åtgärder som ska vidtas.
 
 ## <a name="resources-and-samples"></a>Resurser och exempel
 
-Se följande resurser för support och exempel kod:
+Se följande resurser för support och exempelkod:
 
-- [Community för säkerhets guide för partner Center](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance): communityn för säkerhets vägledning för partner Center är en online-community där du kan lära dig om kommande händelser och ställa frågor som du kan ha.
-- [Partner Center .net-exempel](https://github.com/microsoft/partner-center-dotnet-samples): den här GitHub-lagringsplatsen innehåller exempel som har utvecklats med .net, som visar hur du kan implementera säkra program modell ramverk.
-- [Partner Center Java-exempel](https://github.com/microsoft/partner-center-java-samples): den här GitHub-lagringsplatsen innehåller exempel som har utvecklats med Java, som visar hur du kan implementera säkra program modell ramverk.
-- [Partner Center PowerShell – Multi-Factor Authentication](/powershell/partnercenter/multi-factor-auth): den här Multi-Factor Authentication artikeln innehåller information om hur du implementerar den säkra program modell ramverket med PowerShell.
+- [Communityn för säkerhetsvägledning i Partnercenter:](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)Communityn för säkerhetsvägledning i Partnercenter är en online-community där du kan lära dig mer om kommande händelser och ställa eventuella frågor.
+- [Partner Center .NET-exempel:](https://github.com/microsoft/partner-center-dotnet-samples)Den här GitHub-lagringsplatsen innehåller exempel som utvecklats med .NET och som visar hur du kan implementera Modell för säkra program ramverket.
+- [Partner Center Java-exempel:](https://github.com/microsoft/partner-center-java-samples)Den här GitHub-lagringsplatsen innehåller exempel, utvecklade med Java, som visar hur du kan implementera Modell för säkra program ramverket.
+- [Partner Center PowerShell – Multifaktorautentisering:](/powershell/partnercenter/multi-factor-auth)Den här artikeln om multifaktorautentisering innehåller information om hur du implementerar Modell för säkra program ramverket med PowerShell.
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Kräva Multi-Factor Authentication (MFA) för din partner klient](partner-security-requirements-mandating-mfa.md)
+- [Använda multifaktorautentisering (MFA) för din partnerklientorganisation](partner-security-requirements-mandating-mfa.md)

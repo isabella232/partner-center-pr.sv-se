@@ -1,40 +1,37 @@
 ---
-title: Bidrag för en MPN-förmån
+title: Återbetalning för en MPN-förmån
 ms.topic: article
 ms.date: 02/05/2021
-description: Lär dig hur du begär en åter betalning för en MPN-förmån och de kriterier som krävs för att vara berättigade.
+description: Lär dig hur du begär en återbetalning för en MPN-förmån och de kriterier som krävs för att vara berättigad.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 39a925bbfccb720951a63f4e11207df4a3252200
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 919a0187d3d999e935667bdbd6d565fb093fe6dd
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132918"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151329"
 ---
-# <a name="request-a-refund-for-an-mpn-benefit"></a>Begär en åter betalning för en MPN-förmån
+# <a name="request-a-refund-for-an-mpn-benefit"></a>Begära en återbetalning för en MPN-förmån
 
-**Lämpliga roller**
+**Lämpliga roller:** MPN-partneradministratör | Kontoadministratör
 
-- MPN-partner administratör
-- Kontoadministratör
+Den här artikeln innehåller de kriterier som du måste uppfylla när du begär en återbetalning för en MPN-förmån.
 
-Den här artikeln innehåller de kriterier som du måste uppfylla när du begär en åter betalning för en MPN-förmån.
+## <a name="criteria-for-a-refund"></a>Kriterier för återbetalning
+När du begär en återbetalning för en MPN-förmån (Action Pack-, silver- eller guldnivå) som du har köpt, måste din begäran uppfylla följande kriterier:
 
-## <a name="criteria-for-a-refund"></a>Kriterier för åter betalning
-När du begär en åter betalning för en MPN-förmån (Action Pack, silvernivå eller Gold-nivå) som du har köpt måste din begäran matcha följande kriterier:
+- Köpet har gjorts under de senaste 30 dagarna
+- Alla fördelar får inte aktiveras/användas
+- Produktnycklar får inte visas (även om de inte är aktiverade)
 
-- Köpet skedde under de senaste 30 dagarna
-- Alla förmåner får inte aktive ras/användas
-- Produkt nycklar får inte visas (även om de inte är aktiverade)
-
-Skatte åter betalningar för skatte fria partner är tillgängliga i ett år.
+Skatteåterbäring för skattebefriade partner är tillgängliga i ett år.
 
 >[!NOTE]
->Om du har ett silver-medlemskap, och du använde 25% guld medlemskaps rabatt för att uppgradera till ett guld medlemskaps erbjudande, är du inte berättigad till en silver åter betalning (även om du har betalat för silver-medlemskap inom 30 dagar och inte har använt fördelarna).
+>Om du har ett silvermedlemskapserbjudande och du har använt 25 % guldmedlemskapsrabatt för att uppgradera till ett guldmedlemskapserbjudande är du inte berättigad till en Silver-återbetalning (även om du har betalat för Silvermedlemskap inom 30 dagar och inte har använt förmånerna).
 
 ## <a name="next-steps"></a>Nästa steg
 

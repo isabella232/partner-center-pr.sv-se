@@ -8,20 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 4a931f1d971ea3e3bc288f70e85a6600596761cc
-ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+ms.openlocfilehash: b167b0e65f3339a29f0227f6135ed70931300d8e
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "107528556"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152162"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Skapa och hantera incitament för utbetalnings- och skatteprofiler i Partnercenter
 
-**Lämpliga roller**
-
-- Incitamentsadministratör
-- Kontoadministratör
-- Global administratör
+**Lämpliga roller:** Incitamentsadministratörsroller | Kontoadministratörskonto | Global administratör
 
 Innan du kan erhålla betalningar för dina incitamentprogram för en viss MPN-plats måste du slutföra registreringen genom att associera en giltig utbetalnings- och skatteprofil med programmet och MPN-platsen. Microsoft använder den här utbetalnings- och skatteprofilen för att utfärda betalningar. Eventuellt kan du välja att använda elektronisk banköverföring eller en kreditfaktura för betalningar, beroende på reglerna för incitamentprogrammet. 
 
@@ -50,14 +46,14 @@ Om ditt företag har registrerats i flera incitamentprogram kan du använda samm
 Avsnitten nedan beskriver steg för steg hur du skapar och hanterar betalnings- och skatteprofiler i Partnercenter.
 
 >[!IMPORTANT]
->Du måste vara incitamentsadministratör för att skapa eller hantera betalnings- och skatteprofiler i Partnercenter. Incitamentroller måste tilldelas till varje MPN-plats under varje incitamentprogram. Mer information om hur du lägger till incitamentsadministratörer i Partnercenter finns [i Skapa användarkonton.](create-user-accounts-and-set-permissions.md)
+>Du måste vara incitamentadministratör för att skapa eller hantera betalnings- och skatteprofiler i Partnercenter. Incitamentroller måste tilldelas till varje MPN-plats under varje incitamentprogram. Mer information om hur du lägger till incitamentsadministratörer i Partnercenter finns [i Skapa användarkonton.](create-user-accounts-and-set-permissions.md)
 
 ## <a name="access-the-payout-and-tax-section-in-partner-center"></a>Få åtkomst till utbetalnings- och skatteavsnittet i Partnercenter
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/) med ditt Azure Active Directory-konto (Azure AD) (företagskonto) eller lämplig e-postadress om en sådan har tilldelats.
 
    - Flera domäner kan registreras i ett Azure AD-konto. Kontakta den globala administratören för att ta reda på vilka domäner som är associerade.
-   - Om du bara kan logga in med domänen och du behöver ytterligare domäner kontaktar du kontoadministratören för att lägga till ytterligare domäner @onmicrosoft.com i Azure AD-kontot.
+   - Om du bara kan logga in med domänen och du behöver ytterligare domäner kontaktar du kontoadministratören för att lägga till ytterligare domäner i @onmicrosoft.com Azure AD-kontot.
    - Om du uppmanas att välja **Arbets- eller skolkonto eller** **Personligt konto** väljer du **Arbets- eller skolkonto.**
 
 2. Välj kugghjulsikonen för att **öppna menyn** Inställningar och välj sedan **Kontoinställningar.**
@@ -74,32 +70,32 @@ Avsnitten nedan beskriver steg för steg hur du skapar och hanterar betalnings- 
 
 3. I **listrutan Skatteprofil** väljer du den skatteprofil som du vill använda eller väljer alternativet för att skapa en ny profil. När du väljer alternativet för att skapa en ny profil omdirigeras du på rätt sätt.  Välj **Fortsätt** i popup-fönstret. Processen för att skapa en ny skatteprofil anges nedan.
 
-4. Välj **Betalningsmetod.**
+4. Välj **Betalningsmetod**.
 
-   - Om du har valt **Elektronisk banköverföring** som betalningsmetod väljer du den betalningsprofil som du vill använda eller väljer alternativet för att skapa en ny profil. När du väljer alternativet för att skapa en ny profil omdirigeras du på lämpligt sätt. Välj Fortsätt i popup-fönstret. Processen för att skapa en ny betalningsprofil har angetts nedan.
+   - Om du har valt **Elektronisk banköverföring** som betalningsmetod väljer du den betalningsprofil som du vill använda eller väljer alternativet för att skapa en ny profil. När du väljer alternativet för att skapa en ny profil omdirigeras du på rätt sätt. Välj Fortsätt i popup-fönstret. Processen för att skapa en ny betalningsprofil anges nedan.
 
    - Om du har valt **Kreditfaktura** som betalningsmetod slutför du verifieringen. Detta bekräftar att det refererade SAP-numret tillhör din organisation.
 
     >[!NOTE]
-    >Om det finns flera Microsoft-affärsenheter i listan måste du välja en betalningsprofil för varje entitet.
+    >Om flera Microsoft-affärsenheter visas måste du välja en betalningsprofil för varje entitet.
 
     >[!NOTE]
     >Tillgängligheten för betalningsmetoden beror på reglerna för incitamentprogrammet.
 
-    - Om ditt PLATS-MPN-ID betalas av ett lokalt Dotterbolag till Microsoft för ett visst incitamentprogram och tillåter LRD-kreditnota (begränsad riskdistributör) som betalningsmetod, fylls din betalningsprofil i förväg med betalningsmetoden LRD Credit Note. På raden med betalningsmetoden för LRD-kreditnotan för respektive incitamentprogram och platsens MPN-ID ser du **Bekräftad** eller **Verifiering krävs** som status i avsnittet betalningsprofil.
+    - Om ditt PLATS-MPN-ID betalas av ett lokalt Dotterbolag till Microsoft för ett visst incitamentprogram och tillåter LRD-kreditnota (begränsad riskdistributör) som betalningsmetod, fylls din betalningsprofil i förväg med betalningsmetoden LRD Credit Note. På raden med betalningsmetoden för LRD-kreditnotan för respektive incitamentprogram och  platsens MPN-ID visas **Bekräftad** eller Verifiering krävs som status i avsnittet betalningsprofil.
     
-       Välj **Verifiering krävs för** att bekräfta och verifiera CSP-klientorganisations-ID:t som är associerade med platsens MPN och betalningsmetod för att ta emot betalningen av kreditfakturan. I dialogrutan **Information om kreditnotering** granskar och kontrollerar du att klientorganisations-ID:t och informationen för CSP är korrekta. Om du ser fler än ett klientorganisations-ID väljer du noggrant det CSP-klient-ID som du vill ta emot betalningar för. Välj sedan **Bekräfta för** att bekräfta att företagets information är korrekt och att incitamentsbetalningen ska göras till det CSP-klient-ID som du har valt.
+       Välj **Verifiering krävs för** att bekräfta och verifiera CSP-klientorganisations-ID:t som är associerade med platsens MPN och betalningsmetod för att ta emot betalningen av kreditfakturan. I dialogrutan **Information om kreditnota** granskar och kontrollerar du att klientorganisations-ID och tillhandahållen information för CSP är korrekta. Om du ser fler än ett klientorganisations-ID väljer du noggrant det CSP-klient-ID som du vill ta emot betalningar för. Välj sedan Bekräfta **för** att bekräfta att företagets information är korrekt och att incitamentsbetalningen ska göras till det CSP-klient-ID som du har valt.
  
       Om statusen visar **Bekräftad** har tilldelningen av CSP-klient-ID:t slutförts och ingen ytterligare åtgärd krävs. Du kan fortfarande välja Bekräftad för att se information om tilldelningen.
    
-      I länder som kräver att partner uttryckligen begär att ett skattebefrielse ska tillämpas, finns det ett alternativ för att tillämpa skattebefrielse bredvid skatteprofilen i skatteprofilavsnittet i incitamentprogrammet och platsen för MPN. Om du markera den här rutan tillämpas momsbefrielseförmåner på din anteckning om incitamentkredit. 
+      I länder som kräver att partner uttryckligen begär att ett skattebefrielse ska tillämpas, finns det ett alternativ för att tillämpa skattebefrielse bredvid skatteprofilen i skatteprofilavsnittet i incitamentprogrammet och platsen för MPN. Om du markera den här rutan tillämpas skattebefrielseförmåner på din anteckning om incitamentkredit. 
    
-      För närvarande är betalningsmetoden LRD Credit Note endast tillgänglig för partner i Australien, Nya Zeeland och Kanada för Microsoft Commerce Incentive-programmet. Om du är en partner för direktfakturering eller indirekt leverantör i dessa tre länder som registrerats för MCI-programmet och du inte ser LRD-kreditnotan som tillgänglig betalningsmetod, bekräftar du att ditt klientorganisations-ID är associerat med relevant PARTNER MPN-platskonto. Mer information om detta finns i [Uppdatera din organisationsprofil.](update-your-partner-profile.md)
+      För närvarande är betalningsmetoden LRD Credit Note endast tillgänglig för partner i Australien, Nya Zeeland och Kanada för Microsoft Commerce Incentive-programmet. Om du är en partner för direktfakturering eller indirekt leverantör i dessa tre länder som registrerats för MCI-programmet och du inte ser LRD-kreditnotan som tillgänglig betalningsmetod, bekräftar du att ditt klientorganisations-ID är associerat med relevant PARTNER MPN-platskonto. Mer information om detta finns i [Så här uppdaterar du din organisationsprofil.](update-your-partner-profile.md)
 
     
 5. Välj **Valuta.**
 
-6. När du har slutfört alla betalningsfält väljer du **Skicka**.
+6. När du har slutfört alla betalningsfält väljer du **Skicka.**
 
 ## <a name="set-up-a-default-bank-profile"></a>Konfigurera en standardbankprofil
 
@@ -107,20 +103,20 @@ Du kan konfigurera standardbankprofiler och tilldela dem till MPN-platser. Dessa
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/)och välj sedan kugghjulsikonen för att öppna **menyn**   Inställningar. 
 
-2. Välj **Kontoinställningar**, expandera avsnittet **Utbetalning och** skatt och välj sedan **Utbetalnings- och skatteprofiler.** 
+2. Välj **Kontoinställningar,** expandera avsnittet **Utbetalning och** skatt och välj sedan **Utbetalnings- och skatteprofiler.** 
 
 3. Välj **Hantera standardprofiler** under **avsnittet Betalningsprofiler.** 
 
-4. Om du vill skapa en standardbankprofil väljer **du Lägg till en standardbankprofil.** 
+4. Om du vill skapa en standardbankprofil väljer du **Lägg till en standardbankprofil.** 
 
 5. Välj en bankprofil i listan över tillgängliga bankprofiler för ditt företag, välj den valuta som ska användas med den här bankprofilen och välj sedan listan över MPN-platser som du vill att standardprofilen ska gälla för.
 
-6. Välj **Klar** när du har slutfört valen. Knappen Klar går inte att klicka på förrän alla obligatoriska fält har slutförts. 
+6. Välj **Klar** när du har slutfört valen. Knappen Klar kan inte klickas förrän alla obligatoriska fält har slutförts. 
 
 >[!NOTE]
 >Samma bank- och valutakoppling kan tillämpas på flera platser. Om platsens MPN har tilldelats en standardprofil och valutakombination en gång visas den inte längre i listrutan plats för framtida standardprofiltilldelningar. Om standardvalet tas bort visas platsens MPN igen för framtida standardprofiltilldelningar. Varje bankprofil och valutakombination läggs till som en unik, redigerbar rad.
 
-7. När alla nödvändiga ändringar har lagts till väljer du **Spara.**  
+7. När alla nödvändiga ändringar har lagts till väljer du **Spara**.  
 
 ## <a name="create-your-bank-profile"></a>Skapa din bankprofil
 
@@ -129,17 +125,17 @@ Bankprofiler skapas på företagsnivå. Detta gör att en bankprofil kan tilldel
 >[!NOTE]
 >På följande sidor krävs fält med en asterisk. Om du inte vet vad ett fält är väljer du informationsikonen. 
 
-1. På sidan **Information** fyller du i följande fält: **Profilnamn: Ange** ett unikt namn för att identifiera den här betalningsprofilen.
+1. På sidan **Information** fyller du i följande fält: **Profilnamn: Ange ett** unikt namn för att identifiera den här betalningsprofilen.
     **Bankkontoplats:** Det land där företagets bank finns.
     **Betalningsmetod:** Den föredragna betalningsmetoden för Partnercenter är elektronisk banköverföring.
 
 2. Välj **Nästa**.
 
-3. På **sidan Bankkonto** anger du din information. Fälten som visas på den här sidan varierar beroende på land. 
+3. Ange **din information på** sidan Bankkonto. Fälten som visas på den här sidan varierar beroende på land. 
 
 4. Välj **Nästa**.
 
-5. Ange **lämplig** information på sidan Försent. Den som vill prata om ditt konto är den person i företaget som banken kontaktar.
+5. Ange **lämplig** information på sidan Förser dig med information. Personen i företaget som banken kontaktar om han/hon behöver diskutera ditt konto.
 
 6. När fälten har slutförts väljer du **Slutför** och sedan Bekräfta **för att** skapa din bankprofil.
 

@@ -1,109 +1,104 @@
 ---
-title: Köp eller förnya Microsoft Action Pack-erbjudanden
+title: Köp eller förnya Microsoft Action Pack erbjudanden
 ms.topic: how-to
 ms.date: 12/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Lär dig att köpa en prenumeration på Microsoft Action Pack och börja använda Action Pack-förmåner. Lär dig också hur du förnyar, avbryter, visar din faktura med mera.
+description: Lär dig hur du köper en Microsoft Action Pack-prenumeration och börjar använda Action Pack förmåner. Lär dig också hur du förnyar, avbryter, visar din faktura med mera.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3b75bffcab2c51ac81e3c2f623ad74a9314339b9
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: dc7be1fdf92249c31e8b2c6aa6611015e8b9b42f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132306"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152315"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Köp eller förnya en Microsoft Action Pack-prenumeration eller silver- eller guldkompetens
 
 
-**Lämpliga roller**
-
-- Global administratör
-- Administratör för användar hantering
-- MPN-partner administratör
-- Administratörs agent
+**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | MPN-partneradministratör | Administratörsagent
 
 
-På [instrument panelen](https://partner.microsoft.com/dashboard)för partner Center kan medlemmar i Microsoft Partner Network (MPN)) köpa eller förnya förmåns erbjudanden, inklusive Microsoft Action Pack-prenumeration och silver-och guld kompetens.
+På instrumentpanelen i [Partnercenter](https://partner.microsoft.com/dashboard)kan medlemmar i Microsoft Partner Network (MPN)) köpa eller förnya förmånserbjudanden, inklusive Microsoft Action Pack-prenumerationen och silver- och guldkompetenser.
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Köp Microsoft Action Pack för första gången
 
-Om du inte har använt Microsoft för att samar beta med Microsoft är det första steget att ansluta till Microsoft Partner Network. Om du vill ansluta till MPN går du till [sidan medlemskap](https://partner.microsoft.com/membership) i partner nätverkets plats och väljer **Anslut nu** när du är redo att registrera dig.
+Om du inte har samarbetat med Microsoft är det första steget att gå med i Microsoft Partner Network. Om du vill ansluta till MPN [går](https://partner.microsoft.com/membership) du  till medlemskapssidan på partnernätverksplatsen och väljer Anslut nu när du är redo att registrera dig.
 
-När du har anslutit till partner nätverket följer du [anvisningarna på webbplatsen för partner nätverket](https://partner.microsoft.com/membership/action-pack) (inloggning krävs) för att köpa din första Action Pack prenumeration. 
+När du har anslutit till partnernätverket [](https://partner.microsoft.com/membership/action-pack) följer du anvisningarna på partnernätverksplatsen (inloggning krävs) för att köpa din första Action Pack prenumeration. 
 
-Du hittar mer information om Action Pack på [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-3) webbplatsen.
+Du hittar mer information om Action Pack på [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-3) webbplats.
 
-Bli [kompetens partner](https://partner.microsoft.com/membership/competencies). 
+Bli [en kompetenspartner.](https://partner.microsoft.com/membership/competencies) 
 
-## <a name="renew-a-microsoft-action-pack-subscription"></a>Förnya en prenumeration på Microsoft Action Pack
-
->[!IMPORTANT]
->Nu hanterar du din Action Pack-prenumeration på Partner Center.
-
-### <a name="check-your-renewal-eligibility"></a>Kontrol lera din berättigande för förnyelse
+## <a name="renew-a-microsoft-action-pack-subscription"></a>Förnya en Microsoft Action Pack prenumeration
 
 >[!IMPORTANT]
->Om du är inbjuden att förnya din prenumeration i Partner Center, Tänk på att vi har ändrat vår princip för förnyelse fönster och att du bara kan förnya prenumerationen när den har gått ut. Om din prenumeration till exempel går ut den 22 juni kan du förnya den från och med den 23 juni och i 30 dagar efter.
->Du kan hitta prenumerationens förfallo datum på sidan för [**medlemskaps erbjudanden**](https://partnercenter.microsoft.com/pcv/partnership/offers) (inloggning krävs). När du är behörig att förnya i Partner Center följer du stegen nedan.  
+>Nu hanterar du Action Pack prenumeration på Partnercenter.
 
-### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Förnya en prenumeration på Microsoft Action Pack i Partner Center
+### <a name="check-your-renewal-eligibility"></a>Kontrollera din behörighet för förnyelse
 
-1. Gå till sidan med [**medlemskaps erbjudanden**](https://partnercenter.microsoft.com/pcv/partnership/offers) . Leta upp **prenumerations panelen för Microsoft Action Pack** .  
+>[!IMPORTANT]
+>Om du uppmanas att förnya din prenumeration i Partnercenter bör du observera att vi har ändrat principen för förnyelseperiod och att du bara kan förnya prenumerationen när den upphör att gälla. Om din prenumeration till exempel upphör att gälla den 22 juni kan du förnya den från och med 23 juni och med 30 dagar senare.
+>Du hittar förfallodatumet för prenumerationen på sidan [**med medlemskapserbjudanden**](https://partnercenter.microsoft.com/pcv/partnership/offers) (inloggning krävs). Följ stegen nedan när du är berättigad att förnya i Partnercenter.  
 
-2. Välj **förnya prenumeration** och välj sedan din betalnings metod. Du kan betala med hjälp av ett kredit kort eller en elektronisk bank överföring.
+### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Förnya en Microsoft Action Pack prenumeration i Partnercenter
+
+1. Gå till sidan [**med medlemskapserbjudanden.**](https://partnercenter.microsoft.com/pcv/partnership/offers) Leta upp **panelen Microsoft Action Pack Subscription (Microsoft Action Pack-prenumeration).**  
+
+2. Välj **Förnya prenumeration** och välj sedan din betalningsmetod. Du kan betala med ett kreditkort eller en elektronisk banköverföring.
 
     >[!NOTE]
-    >Om **förnya prenumeration** inte visas eller är nedtonad, är du ännu inte behörig att förnya Action Pack prenumerationen. Vi har ändrat vår princip för förnyad fönster så att du bara kan förnya prenumerationen **när** den har gått ut. Om din prenumeration till exempel går ut den 22 juni kan du förnya den från och med den 23 juni och i 30 dagar efter.  
+    >Om **Förnya prenumeration** inte visas eller är nedtonad är du ännu inte berättigad att förnya din prenumeration Action Pack prenumerationen. Vi har ändrat principen för förnyelsefönstret så att du bara kan förnya din prenumeration **när den** upphör att gälla. Om din prenumeration till exempel upphör att gälla den 22 juni kan du förnya den från och med 23 juni och för 30 dagar efter.  
 
-3. Om du betalar med kredit kort följer du anvisningarna för att lägga till kreditkorts information. Om du betalar per elektronisk bank överföring anger du ett kontakt namn, telefonnummer och e-postadress och väljer sedan **Skicka**.
+3. Om du betalar med kreditkort följer du anvisningarna för att lägga till din kreditkortsinformation. Om du betalar med elektronisk banköverföring anger du kontaktnamn, telefonnummer och e-postadress och väljer sedan **Skicka.**
 
-4. Granska din beställnings information och välj sedan **köp** när du är redo att köpa Action Pack. Ditt kredit kort debiteras omedelbart.
+4. Granska beställningsinformationen och välj **sedan Köp** när du är redo att köpa Action Pack. Ditt kreditkort debiteras omedelbart.
 
-5. Din beställning bekräftas. Välj **Stäng**.
+5. Din order har bekräftats. Välj **Stäng**.
 
-### <a name="update-your-bill-to-address"></a>Uppdatera din fakturerings adress
+### <a name="update-your-bill-to-address"></a>Uppdatera din faktureringsadress
 
-I processen för att förnya eller köpa Action Pack har du möjlighet att verifiera din fakturerings adress.
+När du förnyar eller köper Action Pack har du möjlighet att verifiera din faktureringsadress.
 
- 1. När du har valt **Skicka** kan du granska informationen om ditt köp. Välj **Uppdatera** om du ser att din adress måste uppdateras.
+ 1. När du **har** valt Skicka kan du granska informationen om köpet. Välj **Uppdatera** om du ser att din adress måste uppdateras.
   
- 1. Uppdatera din adress på sidan **juridisk profil** .
+ 1. På sidan **Juridisk profil** uppdaterar du din adress.
 
 ## <a name="cancel-your-action-pack-subscription"></a>Avbryta din Action Pack-prenumeration
 
-Du kan behöva kontakta partner support om du vill avbryta prenumerationen på Microsoft Action Pack.
+Om du vill avbryta din Microsoft Action Pack-prenumeration kan du behöva kontakta partnersupporten.
 
-1. Gå till sidan med [**medlemskaps erbjudanden**](https://partnercenter.microsoft.com/pcv/partnership/offers) . Välj **Microsoft Action Pack-prenumeration** för att visa din prenumerations information. 
+1. Gå till sidan [**med medlemskapserbjudanden.**](https://partnercenter.microsoft.com/pcv/partnership/offers) Välj **Microsoft Action Pack prenumeration** för att visa din prenumerationsinformation. 
 
-3. Välj **Avbryt prenumeration**. Följ anvisningarna för att skapa en supportbegäran. 
+3. Välj **Avbryt prenumeration.** Följ anvisningarna för att skapa en supportbegäran. 
 
-4. I formuläret support förfrågan väljer du följande värden för att dirigera din begäran korrekt:
+4. I formuläret för supportbegäran väljer du följande värden för att dirigera din begäran korrekt:
 
-    -  Välj **rapportera problem med partner Center** och välj sedan **ny begäran** på nästa sida.
+    -  Välj **Rapportera problem med Partnercenter** och välj sedan Ny **begäran** på nästa sida.
 
-    -  Expandera listan **typ av problem** och välj **hjälp med partner faktura, betalnings-eller avstämnings fil**. 
+    -  Expandera listan **Typ av problem och** välj Hjälp med **partnerfaktura, betalning eller avstämningsfil.** 
 
-5. Fyll i informationen som krävs och välj sedan **Skicka**. Support teamet för partner Center kommer att kontakta dig för att hjälpa dig att avbryta prenumerationen.
+5. Fyll i informationen som krävs och välj sedan **Skicka.** Supportteamet för Partnercenter kontaktar dig för att hjälpa dig att avbryta prenumerationen.
 
-Om du vill kontrol lera statusen för din tjänstbegäran väljer du **partner Center-begäranden** från **supporten** och väljer sedan **Öppna**. Välj lämplig tjänstbegäran i listan.  
+Om du vill kontrollera statusen för din tjänstbegäran väljer **du Partner Center-begäranden** **från Support** och väljer sedan **Öppna**. Välj lämplig tjänstbegäran i listan.  
 
-## <a name="download-your-action-pack-invoice"></a>Ladda ned din Action Pack faktura
+## <a name="download-your-action-pack-invoice"></a>Ladda ned Action Pack faktura
 
-1. Gå till sidan med [**medlemskaps erbjudanden**](https://partnercenter.microsoft.com/pcv/partnership/offers) . Välj **Microsoft Action Pack-prenumeration** för att visa din prenumerations information. 
+1. Gå till sidan [**med medlemskapserbjudanden.**](https://partnercenter.microsoft.com/pcv/partnership/offers) Välj **Microsoft Action Pack prenumeration** för att visa din prenumerationsinformation. 
 
-3. Välj **Hämta faktura**.
+3. Välj **Ladda ned faktura.**
  
 ## <a name="next-steps"></a>Nästa steg
 
--   [Börja använda dina Action Pack-förmåner](manage-your-partner-network-benefits.md)
+-   [Börja använda dina Action Pack förmåner](manage-your-partner-network-benefits.md)
 
 -   [Kompetenser](learn-about-competencies.md)
 
--   [Läs mer om medlemskaps nivåer för silver och guld kompetens](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-2)
+-   [Lär dig mer om medlemskapsnivåer för silver- och guldkompetens](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-2)
 
 -   [Lägga till användare och tilldela behörigheter till dem](create-user-accounts-and-set-permissions.md)
 
