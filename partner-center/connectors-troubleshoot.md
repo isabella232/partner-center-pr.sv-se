@@ -8,24 +8,18 @@ description: Få svar på vanliga frågor om hur du använder anslutningsappar f
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 939654202a370f6d9ba15d9e62a11be44884b613
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 49a2b6e5461dacbe87c34b36805a5c240c2e5fd1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284221"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148354"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Felsöka anslutningsappar för hänvisningar till säljförsäljning
 
-**Gäller för**
+**Gäller för**: Dynamics 365 CRM | Salesforce CRM
 
-- Dynamics 365 CRM
-- Salesforce CRM
-
-**Lämpliga roller**
-
-- Referensadministratör
-- Systemadministratör eller systemanpassare för CRM
+**Lämpliga roller:** Referensadministratörsroller | Systemadministratör eller systemanpassare för CRM
 
  ## <a name="questions-and-answers-about-pre-requisites"></a>Frågor och svar om förutsättningar
 
@@ -39,11 +33,11 @@ Användare som är systemadministratörer eller systemanpassare kan tillämpa ä
 
 3. Behöver partnerförsäljare särskilda roller för att arbeta i Partnercenter?
  
-Partner säljare måste tilldelas rollen referensadministratör. Mer information finns i Översikt [över behörigheter.](create-user-accounts-and-set-permissions.md)
+Partner säljare måste tilldelas rollen "Referensadministratör". Mer information finns i Översikt [över behörigheter.](create-user-accounts-and-set-permissions.md)
 
-4. Vilka fält måste konfigureras först i din CRM-miljö? 
+4. Vilka fält måste konfigureras först i crm-miljön? 
 
-• Kontrollera att din valuta är lämplig för din plats och att den är korrekt i DIN CRM-miljö. • Säljteamet bör listas i din CRM-miljö som CRM-användare.
+• Kontrollera att din valuta är lämplig för din plats och är korrekt i CRM-miljön. • Säljteamet bör listas i din CRM-miljö som CRM-användare.
 
 5. Vilka förutsättningar krävs för att skapa Power Automate miljön?
 
@@ -83,7 +77,7 @@ Följ det här felsökningssteget:
 
 Följ dessa felsökningssteg:
 
-- Aktivera följande två underordnade flöden först innan du aktiverar Partnercenter till CRM-flödet.
+- Aktivera följande två underordnade flöden först innan du aktiverar Partnercenter för CRM-flödet.
       - Partner Center till CRM – Helper (Insider Preview)
       - Partner Center Microsoft Co-sell Referral Updates to CRM (Insider Preview)
 
@@ -101,12 +95,12 @@ Du lägger till anslutningar till flödet medan flödet körs och lägger till i
 :::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Redigera flödet steg för steg":::
 
 
-5. Vad ska du göra om flödena i lösningen för anslutningsappar för säljförsäljning inte är på?
+5. Vad ska du göra om flödena i lösningen anslutningsappar för säljförsäljning inte är på?
 
 A. I Power Automate måste du redigera flöden i följande ordning och uppdatera dem så att de använder rätt anslutningar:
 
-- Partner Center Webhook Registration (Insider Preview)
-- Skapa hänvisning till säljpartner – Salesforce till Partner Center (insiderförhandsvisning)
+- Registrering av Webhook i Partnercenter (insiderförhandsvisning)
+- Skapa hänvisning till säljförsäljning – Salesforce till Partner Center (insiderförhandsvisning)
 - Partner center Microsoft co-sell hänvisningsuppdateringar till Salesforce (insiderförhandsvisning)
 - Partner center till Salesforce (insiderförhandsvisning)
 - Salesforce till Partner Center (Insider Preview)
@@ -120,22 +114,22 @@ A. I Power Automate måste du redigera flöden i följande ordning och uppdatera
 
 C. Aktivera dessa nedanstående flöden:
 
- - Partner center Microsoft co-sell hänvisningsuppdateringar till Salesforce (insiderförhandsvisning)
+ - Partner center Microsoft Co-sell Hänvisningsuppdateringar till Salesforce (Insider Preview)
 
 - Salesforce till Partner Center (Insider Preview)
 
     
 D. Aktivera alla återstående flöden.
 
-E. Välj Kör i flödet Partner center Webhook Registration (Registrering av Partnercenter-webhook). Ange **HTTP-URL:en** från den första åtgärden **i Partnercenter till Salesforce-flödet.** Välj alla fyra alternativen under **Händelser att registrera** och välj **Ja** för Overwrite (Skriva över).
+E. Välj Kör vid flödesregistrering för Partnercenter-webhook. Ange **HTTP-URL:en** från den första åtgärden **i Partnercenter till Salesforce-flödet.** Välj alla fyra alternativen under **Händelser att registrera** och välj **Ja** för Överskrivning.
 
 ## <a name="questions-and-answers-about-runmaintenance"></a>Frågor och svar om körning/underhåll
 
-1. Hur felsöker du fel Power Automate körningen av flödet?
+1. Hur felsöker du fel Power Automate körningen av flöde?
 
-Information om hur du Power Automate körs som förväntat och felsöker fel under körningen finns i Åtgärda [flödesfel.](/power-automate/fix-flow-failures)
+Information om hur du Power Automate förväntar dig och felsöker fel under körningen finns i Åtgärda [flödesfel.](/power-automate/fix-flow-failures)
 
-2. Vad ska du göra om du ser referenser som inte synkroniseras korrekt i Partner Center eller CRM-miljön?
+2. Vad ska du göra om du ser hänvisningar som inte synkroniseras korrekt i Partner Center eller CRM-miljön?
  
 Välj Granska för att fastställa statusen för **referenssynkronisering.** 
 
@@ -147,7 +141,7 @@ Kontrollera att följande villkor är uppfyllda:
 
 - Landskod med två bokstäver krävs.
 
-- När hjälp från Microsoft har valts för affärsmöjligheten krävs kundens kontaktinformation.
+- När hjälp från Microsoft har valts för affärsmöjligheten krävs kundkontaktinformation.
 
 3. Hur ser du till att en hänvisning synkroniseras i dubbelriktad riktning?
 
@@ -159,9 +153,9 @@ Gör följande:
 
 - Säljare måste ange intäkter och slutdatum när de kvalificerar en lead.
 
-- Om CRM-ID anges  i  fasen skapa eller uppdatera samförsäljningsmöjlighet, men en lead-affärsmöjlighet med det ID:t inte hittas i CRM, ignoreras uppdatering eller skapa.
+- Om CRM-ID anges  i  fasen för att skapa eller uppdatera säljförsäljning, men en lead-affärsmöjlighet med det ID:t inte hittas i CRM, ignoreras uppdatering eller skapa.
 
-- Se till att hänvisningsvalutafältet har konfigurerats i Salesforce-miljön. 
+- Se till att fältet hänvisningsvaluta har konfigurerats i Salesforce-miljön. 
 
 4. Vad ska du göra om anslutningsappen kopplas från och du missar en hänvisningssynkronisering.?
 
@@ -191,7 +185,7 @@ Du måste lägga till ISO-landskoden med två bokstäver till kundkontot i CRM.
 
 För att kunna skapa en hänvisning till säljförsäljning behöver du en lösning som är redo för Microsofts säljförsäljning. 
 
-8. Vad ska du göra när du ser möjligheter till säljförsäljning som skapats i Partnercenter och som inte synkroniseras med CRM trots att det inte finns några flödesfel?
+8. Vad ska du göra när du ser möjligheter till säljförsäljning som skapats i Partnercenter som inte synkroniseras med CRM trots att det inte finns några flödesfel?
 
 Gör följande:
 
@@ -201,7 +195,7 @@ Gör följande:
 
 - Markera **Nytt avtal i** Partnercenter för att se om det fylls med CRM-ID.
 
-- Kontrollera att avtalet inte har stängts av misstag som **won (vunnits)** **eller Lost (förlorad)** i Partnercenter.
+- Kontrollera att avtalet inte har stängts av misstag som won **(vunnits)** **eller Lost (förlorad)** i Partnercenter.
 
 ## <a name="next-steps"></a>Nästa steg
 

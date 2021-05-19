@@ -4,28 +4,23 @@ ms.topic: article
 ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Hitta länkar till Molnlösningsleverantör guider, partneravtal, kundavtal, prislistor och erbjudanden.
+description: Hitta länkar till Molnlösningsleverantör programguider, partneravtal, kundavtal, prislistor och erbjudanden.
 author: billLinzbach
 ms.author: billli
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d40acba3e45cfa90cbf0c5ffb8cdb0d4f484421b
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: d7811decea89ecee8bc1db565fb9952a8d62e572
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686236"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147793"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guide, avtal, prislistor och erbjudanden för molnlösningsleverantörer
 
-**Gäller för**
+**Gäller för:** Partner Center-| Partnercenter för Microsoft Cloud for US Government
 
-- Välkommen till Partnercenter för Microsoft Cloud for US Government
-
-**Lämpliga roller**
-
-- Global administratör
-- Administratörsagent
+**Lämpliga roller:** Globala | Administratörsagent
 
 Läs informationen i den här artikeln för att förstå kraven för att delta i Microsofts Molnlösningsleverantör -program (CSP).
 
@@ -36,7 +31,7 @@ Gå igenom kraven för att bli partner i Molnlösningsleverantör program.
 [Programguide för Molnlösningsleverantör partner](https://go.microsoft.com/fwlink/p/?LinkId=617100)
 
 >[!Note]
->Om du behöver ett företagsbrev som bekräftar eller certifierar din status som godkänd Microsoft-partner i Molnlösningsleverantör-programmet kan du kontakta [supporten](https://partner.microsoft.com/pcv/servicerequests/create) för att begära ett.
+>Om du behöver ett företagsbrev som bekräftar eller certifierar din status som godkänd Microsoft-partner i Molnlösningsleverantör-programmet kan du kontakta [supporten](https://partner.microsoft.com/pcv/servicerequests/create) för att begära en sådan.
 
 ### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Ytterligare villkor för Microsoft-partneravtal
 
@@ -59,9 +54,9 @@ Om du gör affärer i Tyskland kan du behöva ge dessa tillägg om professionell
 
 [Microsoft Cloud-avtal tillägg om professionell sekretess för Tyskland (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
 
-[Microsoft Cloud-avtal tillägg om professionell sekretess för Tyskland (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+[Microsoft Cloud-avtal om professionell sekretess för Tyskland (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
-## <a name="pricing"></a>Priser
+## <a name="pricing"></a>Prissättning
 
 Ladda ned prisinformation för licensbaserade, användningsbaserade och  en-gång-köp från sidan Priser och erbjudanden, som finns på **menyn i Partnercenter.**
 

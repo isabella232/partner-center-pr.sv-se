@@ -8,19 +8,16 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 559b5334eb23ad76fe8cc51fc1beeaa3a86c6fa1
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 85946f44e1265ad5012faf9d782609904100c80e
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702798"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146263"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Fält för inköpsavstämningsfil för CSP en gång
 
-**Lämpliga roller**
-
-- Kontoadministratör
-- Faktureringsagent
+**Lämpliga roller:** Kontoadministratörsroller | Faktureringsagent
 
 ## <a name="using-the-recon-file"></a>Använda rekognoseringsfilen
 Tabellen nedan innehåller beskrivningar och exempelvärden för fälten i avstämningsfilen för CSP-köp en gång.
@@ -35,7 +32,7 @@ Mer information om avstämningsfiler finns i [Använda avstämningsfilerna](use-
 | CustomerDomainName | Kundens domännamn. | *testcustomerdomain.onmicrosoft.com* |
 | CustomerCountry | Det land där kunden finns. Se den fullständiga [listan över länder](./regional-authorization-overview.md) för din region.  | *DE* |
 | InvoiceNumber | Det fakturanummer som är associerat med avstämningsfilen.  | *G002297372* |
-| MpnId | MPN-identifierare för CSP-partnern. Mer information finns i [hur du specificerar efter partner.](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner) | *6034453* |
+| MpnId | MPN-identifierare för CSP-partnern. Mer information finns i [så här specificerar du efter partner.](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner) | *6034453* |
 | ResellerMpnId | MPN-identifierare för återförsäljaren av posten för prenumerationen. | *6048879* |
 | OrderId | Unik identifierare för en beställning på Microsofts faktureringsplattform. Kan vara användbart för att identifiera beställningen när du kontaktar supporten. Används inte för avstämning. | *0ET2qaZvJGfF9wgSKnWzR5JLmhp10lOc1* |
 | OrderDate | Det datum i UTC som beställningen gjordes. | *10/3/2020* |
@@ -47,14 +44,14 @@ Mer information om avstämningsfiler finns i [Använda avstämningsfilerna](use-
 | ChargeType | Typ [av avgift eller](./recon-file-charge-types.md) justering. | *Nytt* |
 | UnitPrice | Pris per licens, enligt vad som publicerades i prislistan vid tidpunkten för köpet. Se till att detta matchar den information som lagras i faktureringssystemet under avstämningen. | *0.045* |
 | Kvantitet | Antalet licenser. Se till att detta matchar den information som lagras i faktureringssystemet under avstämningen. | *1* |
-| Delsumma | Totalsumma före skatt. Delsummorna ska vara lika med den fakturerbara kvantiteten multiplicerat med det effektiva enhetspriset. | *0* |
-| TaxTotal | Avgift skattebelopp. Baserat på din marknads skatteregler och specifika omständigheter. | *0* |
+| Delsumma | Totalsumma före skatt. Delsumman ska vara lika med den fakturerbara kvantiteten multiplicerat med det effektiva enhetspriset. | *0* |
+| TaxTotal | Avgiftsbelopp för skatt. Baserat på din marknads skatteregler och specifika omständigheter. | *0* |
 | Totalt | Det totala beloppet är lika med delsumman plus skattebeloppet. | *0* |
 | Valuta | Fakturan genereras i kontexten för kundens valuta. Det innebär att om du är en partner som handlar med kunder från olika fakturerbara valutor får du en faktura för varje kundvalutatyp.  | *EUR* |
 | PriceAdjustmentDescription | Orsakerna till justeringarna i enhetspriset. Det här är de huvudsakliga orsakerna, men inte begränsade till att fastställa det effektiva enhetspriset. | *["15,0 % partner intjänad kredit för hanterade tjänster"]* |
 | PublisherName | Utgivare av produkten.  | *Microsoft* |
 | PublisherId | En unik identifierare som partnercentret använder för att identifiera utgivaren. | *NA* |
-| SubscriptionDescription | Namnet på det tjänsterbjudande som köpts av kunden enligt definitionen i prislistan. Den här kolumnen är ett identiskt fält med OfferName. | *Azure-plan* |
+| SubscriptionDescription | Namnet på det tjänsterbjudande som kunden har köpt, enligt definitionen i prislistan. Den här kolumnen är ett identiskt fält med OfferName. | *Azure-plan* |
 | SubscriptionId | Unik identifierare för en prenumeration på Microsofts faktureringsplattform. Används inte för avstämning. Observera att den här identifieraren inte är samma som prenumerations-ID:t i partneradministratörskonsolen. | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |
 | ChargeStartDate | Det datum då faktureringsperioden för en prenumeration startar. | *9/1/2020* |
 | ChargeEndDate | Det datum då faktureringsperioden för en prenumeration upphör. | *2020-09-30* |

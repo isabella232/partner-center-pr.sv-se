@@ -4,39 +4,36 @@ ms.topic: how-to
 ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig hur partner i CSP-programmet kan använda Partner Center för att köpa, hantera, sälja och avbryta reserverade Azure-instanser och Server prenumerationer för kunder.
+description: Lär dig hur partner i CSP-programmet kan använda Partnercenter för att köpa, hantera, sälja och avbryta reserverade Azure-instanser och serverprenumerationer för kunder.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ac6169ea6680ea0b36cd5caa3f3e8276f557bea2
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: bdf6495d86da09b7d1d167c3fa1b3b5f15a35ab6
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502560"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147504"
 ---
-# <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Sälj program varu prenumerationer via Cloud Solution Provider (CSP)-programmet
+# <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Sälja programvaruprenumerationer via Molnlösningsleverantör-programmet (CSP)
 
-**Lämpliga roller**
+**Lämpliga roller:** Administratörsagent | Global administratör
 
-- Administratörs agent
-- Global administratör
+Med Azure-reservationer och Server-prenumerationer (Windows Server- och SQL Server-prenumerationer) kan partner i CSP-programmet bättre hantera den snabbt växande kundefterfrågan på mer kostnadseffektiva lösningar för att stödja mycket förutsägbara och beständiga molnarbetsbelastningar. 
 
-Med Azure-reservationer och Server prenumerationer (Windows Server och SQL Server-prenumerationer) kan partner i CSP-programmet bättre hantera den snabbväxande kundens efter frågan för mer kostnads effektiva lösningar för att stödja mycket förutsägbara och beständiga moln arbets belastningar. 
+Nu kan du skaffa, etablera och hantera Azure-reservationer och serverprenumerationer åt kommersiella kunder via Partnercenter och Azure Portal genom att dra nytta av Azure Hybrid-förmån.
 
-Du kan nu hämta, etablera och hantera Azure-reservationer och Server prenumerationer åt kommersiella kunder via partner Center och Azure Portal genom att dra nytta av Azure Hybrid-förmån.
+Den Azure Hybrid-förmån dig att få mer värde från dina Windows Server-licenser och spara upp till 40 procent på virtuella datorer. Du kan använda förmånen med Windows Server Datacenter- och Standard Edition-licenser som omfattas av Software Assurance. Beroende på utgåva kan du konvertera eller återanvända dina licenser för att köra virtuella Windows Server-datorer i Azure och betala en lägre baspris för beräkning (till exempel linux-priser för virtuella datorer).
 
-Azure Hybrid-förmån hjälper dig att få mer värde från dina Windows Server-licenser och Spara upp till 40 procent på virtuella datorer. Du kan använda fördelarna med Windows Server Data Center och Standard Edition-licenser som omfattas av Software Assurance. Beroende på versionen kan du konvertera eller återanvända dina licenser för att köra virtuella Windows Server-datorer i Azure och betala en lägre bas beräknings taxa (till exempel pris för virtuella Linux-datorer).
-
-## <a name="azure-reservations-unavailable-markets"></a>Azure-reservationer ej tillgängliga marknader
+## <a name="azure-reservations-unavailable-markets"></a>Otillgängliga marknader för Azure-reservationer
 
 >[!IMPORTANT]
->Azure-reservationer **är inte** tillgängliga på följande marknader:  
+>**Azure-reservationer är** inte tillgängliga på följande marknader:  
 >  
-> **Ej tillgängliga marknader (i alfabetisk ordning)**
+> **Otillgängliga marknader (i alfabetisk ordning)**
 >
-> |A till GI   | Gr till PAL  | PAP till Z |
+> |A till Gi   | Gr till Pal  | Pap till Z |
 > |--------------------------------|-----------------------------------|------------------------------------------|
 > | Åland     | Grönland     | Papua Nya Guinea     |
 > | Amerikanska Samoa     | Grenada     | Pitcairn     |
@@ -49,7 +46,7 @@ Azure Hybrid-förmån hjälper dig att få mer värde från dina Windows Server-
 > | Benin     | Haiti       | Saint Vincent och Grenadinerna     |
 > | Bhutan     | Heard- och McDonaldöarna       | Samoa     |
 > | Bonaire     | Isle of Man     | San Marino     |
-> | Bouvetön     | Jan Mayen     | São Tomé och Príncipe   |
+> | Bouvetön     | Jan Mayen     | Séo Tomé och Prñncipe   |
 > | Brittiska territoriet i Indiska Oceanen       | Jersey     | Seychellerna   |
 > | Brittiska Jungfruöarna     | Kiribati       | Sierra Leone   |
 > | Burkina Faso     | Kosovo     | Sint Eustatius     |
@@ -58,7 +55,7 @@ Azure Hybrid-förmån hjälper dig att få mer värde från dina Windows Server-
 > | Centralafrikanska Republiken     | Liberia     | Somalia     |
 > | Tchad     | Madagaskar     | Sydgeorgien och Sydsandwichöarna     |
 > | Kina     | Malawi     | Sydsudan     |
-> | Julön     | Maldiverna     | Saint Helena, Ascension, Tristan da Cunha     |
+> | Julön     | Maldiverna     | StDirigering, Ascension, Tristan da Cunha     |
 > | Kokosöarna     | Mali     | Surinam     |
 > | Komorerna     | Marshallöarna     | Svalbard     |
 > | Kongo     | Martinique     | Swaziland     |
@@ -68,148 +65,148 @@ Azure Hybrid-förmån hjälper dig att få mer värde från dina Windows Server-
 > | Dominica     | Montserrat     | Tonga   |
 > | Ekvatorialguinea     | Moçambique     | Turks- och Caicosöarna   |
 > | Eritrea     | Myanmar     | Tuvalu   |
-> | Falklandsöarna     | Nauru     | Amerikanska öar   |
+> | Falklandsöarna     | Nauru     | U.S. Outlying Islands   |
 > | Franska Guyana     | Nya Kaledonien     | Vanuatu   |
 > | Franska Polynesien     | Niger     | Vatikanstaten   |
-> | Franska sydterritorierna     | Niue     | Wallis och Futuna   |
+> | Franska sydterritorierna     | Niue     | Wallis ochUna   |
 > | Gabon     | Norfolkön     | Jemen   |
 > | Gambia     | Nordmarianerna     |    |
 > | Gibraltar     | Palau       |    |
 
-## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Köp program varu prenumerationer för kundernas räkning
+## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Köp programvaruprenumerationer för kunders räkning
 
-Så här köper du program varu prenumerationer för en kunds räkning:
+Så här köper du programvaruprenumerationer för en kunds räkning:
 
-1. Logga in på [instrument panelen](https://partner.microsoft.com/dashboard)för partner Center.
+1. Logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard)
 
-2. Från menyn Partner Center väljer du **kunder** och väljer sedan en kund i listan.
+2. I menyn i Partnercenter väljer **du Kunder** och sedan en kund i listan.
 
-3. På kundens informations sida väljer du **Lägg till produkter** och följer sedan anvisningarna på skärmen för att skapa och betala för din beställning. Alla kommersiella priser exkluderar skatt med undantag av Australien och Brasilien. För Australien och Brasilien inkluderar priset skatt.
+3. På kundens informationssida väljer du Lägg **till produkter** och följer sedan anvisningarna på skärmen för att skapa och betala för din beställning. All kommersiell prissättning exkluderar skatt med undantag för Australien och Brasilien. För Australien och Brasilien inkluderar priset skatt.
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Aktivera och hantera programvaruprenumerationer
 
-När du har köpt program varan måste du eller dina kunder Ladda ned den (partner som använder Partner Center). kunder som använder Microsoft 365 administrations Center). Använd följande procedur för att göra detta. Det är viktigt att förstå de risker som är kopplade till att kopiera länkar och hämta program vara. Mer information finns i **använda Partner Center för att hämta hämtnings program och licens nycklar för kund program vara** i [partner Center New Commerce Operations Guide](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
+När du har köpt din programvara måste du eller dina kunder ladda ned den (partner med Partnercenter; kunder som använder Microsoft 365 Administrationscenter). Gör detta på följande sätt. Det är viktigt att förstå riskerna med att kopiera länkar och ladda ned programvara. Mer information finns i **Använda Partnercenter för att hämta** nedladdningar av kundprogramvara och licensnycklar i [partnercentrets nya handbok för handel.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
 
 >[!NOTE]
->Du måste vara administratörs agent i Partner Center för att få länken till nycklar och nedladdningar.
+>Du måste vara administratörsagent i Partnercenter för att få en länk till nycklar och nedladdningar.
 
-1. Gå till din kunds informations sida och välj sedan **program vara**. Du ser en lista över all program vara som du har köpt för kundens räkning.
+1. Gå till kundens informationssida och välj sedan **Programvara**. Du ser en lista över all programvara som du har köpt för kundens räkning.
 
-2. Välj produkt **version**, **språk**, **bit** och välj **Hämta nycklar och nedladdningar**. 
+2. Välj **produktversion,** **språk**, **bit** och välj **Hämta nycklar och nedladdningar.** 
 
-3. Välj **Hämta nyckel** för att visa den 32-siffriga produkten i en popup-dialog ruta som du kan kopiera och skicka till kunden. 
+3. Välj **Hämta nyckel** för att visa den 32-siffriga produkten i en popup-dialogruta som du kan kopiera och skicka till kunden. 
 
-4. Välj **Hämta** för att ladda ned bitarna. 
+4. Välj **Ladda ned** för att ladda ned bitarna. 
 
-5. Välj **Kopiera länk** om du vill skicka en länk till länken till BITS-nedladdningen. 
+5. Välj **Kopiera länk** om du vill skicka kunden länken till bithämtningen. 
 
-6. Du kan också **avbryta** program varu beställningen och ta emot 100% kredit (om detta sker inom 60 dagar som uppsägnings policy perioden).
-
->[!NOTE]
->Endast kunder har åtkomst för att se produkt nycklarna och hämta information i Microsoft 365 administrations Center (global administratörs roll krävs). Partner måste använda Partner Center för att se den här informationen.
-
-## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Hämtning och licens nycklar för Server prenumeration är tillgängliga via Microsoft 365 administrations Center för kunder 
-
-Dina kunder kommer att kunna hämta licens nycklar och hämtningar för CSP-serverns prenumeration från Microsoft 365 administrations Center. Om du vill se licens nycklar och nedladdningar för prenumerationen av CSP-serverns prenumeration måste kunden gå till Microsoft 365 administrations Center > **fakturering > dina produkter > fliken**. Mer information finns på [fliken program vara under fakturering](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
-
-## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Visa aktivitet för åtkomst till program varu nycklar och hämtning av program vara
-
-I gransknings-eller efterlevnads syfte kan du behöva kontrol lera en lista med användare som antingen har åtkomst till program varu nycklar eller hämtade Server prenumerations program. Använd proceduren nedan för att få åtkomst till den här informationen. 
+6. Du kan också **avbryta programvarubeställningen** och få 100 % kredit (om det görs inom 60-dagarsperioden för annulleringspolicyn).
 
 >[!NOTE]
->Du måste vara global administratör, konto administratör, referens administratör eller marknadsförings innehålls administratör för att se dessa aktivitets loggar. 
+>Endast kunder har åtkomst till att se produktnycklarna och ladda ned information i Microsoft 365 Administrationscenter (global administratörsroll krävs). Partner måste använda Partnercenter för att se den här informationen.
 
-1. Logga in på [instrument panelen](https://partner.microsoft.com/dashboard)för partner Center.
+## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Nedladdning av serverprenumeration och licensnycklar som är tillgängliga via Microsoft 365 Administrationscenter för kunder 
 
-2. Välj kugg hjuls ikonen i det övre högra hörnet.
+Dina kunder kommer att kunna hämta licensnycklar och nedladdningar för CSP-serverprenumeration Microsoft 365 administrationscentret. Om du vill se licensnycklarna och nedladdningarna för prenumerationen på CSP-servern måste kunden gå till Microsoft 365 Administrationscenter för > Fakturering > Dina **produkter > fliken Programvara**. Mer information finns på [fliken Programvara under Fakturering.](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)  
 
-3. I menyn väljer du **aktivitets logg**.
+## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Visa aktivitet för åtkomst till programvarunyckel och nedladdning av programvara
 
-4. Ange datum intervallet för den aktivitet som du vill se. Aktivitets loggen visar en lista över användare som antingen har åtkomst till program varu nycklar eller Hämtad program vara under den tid som du har angett. 
+I gransknings- eller efterlevnadssyfte kan du behöva kontrollera en lista över användare som antingen har åtkomst till programvarunycklar för serverprenumeration eller nedladdad programvara för serverprenumeration. Använd proceduren nedan för att få åtkomst till den här informationen. 
+
+>[!NOTE]
+>Du måste vara en Global administratör, kontoadministratör, referensadministratör eller marknadsföringsadministratör för att kunna se dessa aktivitetsloggar. 
+
+1. Logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard)
+
+2. Välj kugghjulsikonen i det övre högra hörnet.
+
+3. I menyn väljer du **Aktivitetslogg.**
+
+4. Ange datumintervallet för den aktivitet som du vill se. Aktivitetsloggen visar en lista över användare som antingen har åtkomst till programvarunycklar eller nedladdad programvara under den tid som du har angett. 
 
 ## <a name="cancel-a-purchase"></a>Avbryta ett köp
 
-Du kan säga upp ett program varu köp inom 60 dagar från inköps datumet. Om du avbryter inom den första 60-dagars perioden debiteras du inte en avgift för tidig uppsägning. Efter 60 dagar kan du inte längre avbryta ett köp. (Mer information finns i Observera nyckel begränsningar för den här regeln. Om du vill veta mer om vad som händer när du har avbrutit ett program varu köp, se även viktiga kommentarer efter dessa steg.) 
+Du kan avbryta ett programvaruköp inom 60 dagar från inköpsdatum. Om du avbryter inom den första 60-dagarsperioden debiteras du inte någon avgift för tidig uppsägning. Efter 60 dagar kan du inte längre avbryta ett köp. (Se Anteckning om nyckelbegränsningar för den här annulleringsregeln. Mer information om vad som händer när du har avbrutit ett programvaruköp finns i Viktigt efter de här stegen.) 
 
 >[!NOTE]
->Följande steg för att avbryta ett köp gäller endast för program vara som uppfyller kraven för annullering inom ett bestämt avboknings fönster, till exempel inom de första 60 dagarna efter köpet. De här stegen gäller inte för en SUSE Linux-eller RedHat-programplan i Azure. För tillfället går det inte att avbryta eller byta ut en SUSE eller RedHat program plan. [Lär dig mer](/azure/virtual-machines/linux/prepay-suse-software-charges) om att använda SUSE Linux-eller RedHat-planer.
+>Följande steg för att avbryta ett köp gäller endast för programvara som är berättigad till annullering inom en viss uppsägningsfönster, till exempel inom de första 60 dagarna efter köpet. De här stegen gäller inte heller för en SUSE Linux- eller RedHat-programvaruplan i Azure. Just nu kan du inte avbryta eller byta en SUSE- eller RedHat-programvaruplan. [Läs mer](/azure/virtual-machines/linux/prepay-suse-software-charges) om hur du använder SUSE Linux- eller RedHat-planer.
 
-Följ stegen nedan om du vill avbryta ett köp:
+Följ stegen nedan för att avbryta ett köp:
 
 >[!NOTE]
->Du måste vara administratörs agent för att avbryta ett köp. Följande steg beskriver hur du avbryter ett köp i instrument panelen för partner Center. Du kan också göra detta med hjälp av [partner Center-API: et](/partner-center/develop/cancel-software-purchases).
+>Du måste vara administratörsagent för att kunna avbryta ett köp. Följande steg beskriver hur du avbryter ett köp på instrumentpanelen i Partnercenter. Du kan också göra detta med [partnercenter-API:et](/partner-center/develop/cancel-software-purchases).
 
-1. Kontrol lera att du har följande innan du påbörjar avbrotts processen:
+1. Kontrollera att du har följande innan du startar annulleringen:
 
-    - Kundens namn, klient-GUID eller domän namn
+    - Kundens namn, klientorganisations-GUID eller domännamn
 
-    - Namnet på produkten som du vill avbryta
+    - Namnet på den produkt som du vill avbryta
     
     - Order-ID
 
-2. Logga in på [instrument panelen](https://partner.microsoft.com/dashboard)för partner Center.
+2. Logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard)
 
-3. Från menyn Partner Center väljer du **kunder** och väljer sedan en kund i listan.
+3. I menyn i Partnercenter väljer **du Kunder** och sedan en kund i listan.
 
-4. På sidan med information om kunden väljer du **program vara** för att se listan över program varor som köpts för kunden. 
+4. På kundens informationssida väljer du Programvara **för att** se listan över programvara som har köpts för kunden. 
 
-5. Leta upp det program varu köp som du vill avbryta och välj sedan **Avbryt**. En dialog ruta visas.
+5. Leta upp det programvaruköp som du vill avbryta och välj sedan **Avbryt.** En dialogruta visas.
 
-6. I list rutan order nummer väljer du rätt ordnings-ID-nummer som du vill avbryta. (Du kan lära dig mer om ett order-eller order-ID-nummer från kundens **order historik** sida.)
+6. I listrutan Ordernummer väljer du rätt order-ID-nummer som du vill avbryta. (Du kan läsa mer om ett order- eller order-ID-nummer på kundens **sida för orderhistorik.)**
 
-7. Markera kryss rutan för att bekräfta att du har läst det **viktiga** meddelandet om annullering. (Mer information om vad som händer när du avbryter ett köp hittar du i den **viktiga** kommentaren nedan.)
+7. Markera kryssrutan för att bekräfta att du har läst meddelandet **Viktigt om** annullering. (Se viktig information **nedan** om du vill veta mer om vad som händer när du har avbrutit ett köp.)
 
-8. Välj **Skicka** för att avbryta köpet. Om du vill avbryta flera beställningar för en kund måste du utföra steg 4 till och med 6 igen för varje, unikt order-ID-nummer.
+8. Välj **Skicka** för att avbryta köpet. Om du vill avbryta flera beställningar för en kund måste du utföra steg 4 till och med 6 igen för varje unikt order-ID.nummer.
 
-När du försöker avbryta en beställning kan Partner Center också ge dig annan information (som visas under List rutan order nummer). Den här informationen kan vara:
+När du försöker avbryta en beställning kan Partnercenter även ge dig annan information (som visas under listrutan Ordernummer). Den här informationen kan omfatta:
 
-- Hur många dagar som återstår för att du ska kunna avbryta den specifika ordningen
+- Hur många dagar som återstår för dig att annullera den specifika beställningen
 
-- Om du redan har slutfört avboknings fönstret och inte längre kan avbryta ordern
+- Om du redan har passerat annulleringsfönstret och inte längre kan avbryta beställningen
 
-- Om vi behöver mer information om din begäran om uppsägning kan du få en länk till ett formulär för **kund support ärende** .
+- Om vi behöver mer information om din uppsägningsbegäran kan du få en länk till ett **formulär för kundsupportbegäran.**
 
 >[!IMPORTANT]
->När du har avbrutit en order visas ett meddelande som bekräftar att ditt avbrott visas. Det kan finnas en fördröjning på upp till 15 minuter innan uppsägningen visas på Partner Center-instrumentpanelen. 
+>När du har avbrutit en beställning visas ett meddelande som bekräftar annulleringen. Det kan dock uppstå en fördröjning på upp till 15 minuter innan annulleringen visas på instrumentpanelen i Partnercenter. 
 
-### <a name="post-cancellation-details"></a>Uppgifter efter annullering
+### <a name="post-cancellation-details"></a>Information efter annullering
 
 När du har avbrutit ett köp:
 
-- Alla relaterade program varu nycklar och nedladdnings länkar kommer att återkallas. Det innebär att varken du eller din kund kan använda program varu nycklarna och ladda ned länkar som inte längre är relaterade till det här köpet. Du och din kund är ansvarig för att avbryta användningen av all avbruten program vara. Du ansvarar också för att avinstallera den avbrutna program varan och ta bort eventuella, relaterade hämtningar av program vara och länkar.
+- Alla relaterade programvarunycklar och nedladdningslänkar återkallas. Det innebär att varken du eller din kund kan använda programvarunycklarna och ladda ned länkar som är relaterade till köpet. Du och kunden ansvarar för att upphöra med användningen av all avbruten programvara. Du ansvarar också för att avinstallera den avbrutna programvaran och ta bort eventuella relaterade programhämtningar och länkar.
 
-- Det avbrutna objektet visas fortfarande på kundens program varu information, men aktiverings nyckeln är inte tillgänglig.
+- Det annullerade objektet visas fortfarande på kundens sida Programvaruinformation, men aktiveringsnyckeln är inte tillgänglig.
 
-- En kredit för den annullerade ordern visas på nästa månads faktura. Beständig program vara får en 100%-kredit och program varu prenumerationer får en proportionell kredit.
+- En kredit för den annullerade ordern visas på nästa månadsfaktura. Permanent programvara får en kredit på 100 % och programvaruprenumerationer får en prorated kredit.
 
-### <a name="submit-a-customer-support-request-to-cancel-a-purchase"></a>Skicka en kund support förfrågan om att avbryta ett köp
+### <a name="submit-a-customer-support-request-to-cancel-a-purchase"></a>Skicka en supportbegäran om att avbryta ett köp
 
-Om du försökte säga upp ett program varu köp via partner Center men uppmanas att tillhandahålla mer information och fylla i ett formulär för kund support ärende kan de här stegen hjälpa dig att:
+Om du försökte avbryta ett programvaruköp via Partnercenter men fick mer information och fyller i ett formulär för kundsupport kan de här stegen hjälpa dig:
 
-1. När du väljer länken **kund support förfrågan** från fönstret Avbryt inköp öppnas sidan **rapportera ett problem med partner Center** .
+1. När du väljer **länken för kundsupportbegäran** i fönstret Avbryt köp öppnas sidan Rapportera ett problem med **Partnercenter.**
 
-2. Under **information** går du till listan typ av problem och väljer **CSP Purchase/återbetala för kundernas räkning**.
+2. Under **Information** går du till listan Typ av problem och väljer **CSP Purchase/Refund on behalf of customers (Köp/återbetalning** för CSP för kunders räkning).
 
-3. Fyll i fälten effekt och rubrik.
+3. Fyll i fälten Påverkan och Rubrik.
 
 4. I fältet Beskrivning anger du följande:
 
-    - Kundens klient-GUID eller domän namn
+    - Kundens klientorganisations-GUID eller domännamn
     
     - Order-ID eller prenumerations-ID
     
     - Orsak till återbetalning
 
-    - Begärt belopp
+    - Begärd mängd
 
-5. I fältet kontakt anger du ditt namn, din e-postadress och ditt telefonnummer.
+5. I fältet Kontakt anger du ditt namn, din e-postadress och ditt telefonnummer.
 
-6. Om du behöver bifoga en fil av någon anledning väljer du **Lägg till filer**. Det här är valfritt.
+6. Om du behöver bifoga en fil av någon anledning väljer du Lägg **till filer**. Det här är valfritt.
 
 7. När du är klar väljer du **Skicka**.
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Använd partner Center för att sälja kund prenumerationer till kommersiella Marketplace-produkter](sell-marketplace-products.md)
+- [Använda Partnercenter för att sälja kundprenumerationer till produkter på den kommersiella marknadsplatsen](sell-marketplace-products.md)
  
-- [Tilldela Azure-prenumerationer till kunder i Partner Center](assign-azure-subscriptions.md)
+- [Tilldela Azure-prenumerationer till kunder i Partnercenter](assign-azure-subscriptions.md)

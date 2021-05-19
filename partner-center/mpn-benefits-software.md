@@ -1,68 +1,65 @@
 ---
-title: MPN-förmåner – program vara
+title: MPN-förmåner – programvara
 ms.topic: article
 ms.date: 03/05/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Lär dig mer om lokala program produkter som erbjuds som Microsoft Partner Network (MPN)-förmåner
+description: Lär dig mer om lokala programvaruprodukter som erbjuds som Microsoft Partner Network (MPN)-förmåner
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b559c1e8493c274204f1bdd219eae8bab994953e
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.openlocfilehash: 846bad6bdde080288bc7dd916e389dd86b5315f0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619383"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146297"
 ---
-# <a name="mpn-benefits---software"></a>MPN-förmåner – program vara
+# <a name="mpn-benefits---software"></a>MPN-förmåner – programvara
 
-**Lämpliga roller**
-
-- Global administratör
-- MPN-partner administratör
+**Lämpliga roller:** Global | MPN-partneradministratör
 
 ## <a name="overview"></a>Översikt
 
-I den här artikeln beskrivs lokala program varu förmåner som är tillgängliga för partner i Partner Center. Om du vill se alla program varu produkter som du är berättigad till som en del av ditt aktiva registrerings erbjudande går du till  [MPN>-förmåner och väljer sedan fliken program vara](https://partner.microsoft.com/dashboard/mpn/membership/benefits/software) på menyn Partner Center.  
+I den här artikeln beskrivs fördelarna med lokal programvara som är tillgängliga för partner i Partnercenter. Om du vill se alla programvaruprodukter som du är berättigad till som en del av ditt aktiva registreringserbjudande går du till  [MPN>-förmåner](https://partner.microsoft.com/dashboard/mpn/membership/benefits/software) och väljer sedan fliken Programvara i Partnercenter-menyn.  
 
-## <a name="manage-software-products-and-product-keys"></a>Hantera program varu produkter och produkt nycklar
+## <a name="manage-software-products-and-product-keys"></a>Hantera programvaruprodukter och produktnycklar
 
-Välj program produkt av intresse och hitta de specifika anvisningarna för varje produkt genom att klicka på den nedrullningsbara symbolen i linje med produkt namnet.
+Välj den intressanta programvaruprodukten och hitta de specifika instruktionerna för varje produkt genom att klicka på listrutan i linje med produktnamnet.
 
-Om en produkt behöver en produkt nyckel för installation uppmanas du att ange en produkt nyckel under installations processen. Du kan hämta från samma fönster i Partner Center där du har valt den version av program vara som du vill ladda ned.
+Om en produkt kräver en produktnyckel för installation uppmanas du att ange en produktnyckel under installationen. Du kan hämta från samma fönster i Partnercenter där du har valt den version av programvaran som du vill ladda ned.
 
-Produkt aktivering krävs för **Windows Server** -och klient **operativ system** och **alla Microsoft Office klient program**. Inte alla produkter kräver produkt aktivering.
+Produktaktivering krävs för **Windows Server- och** **klientoperativsystemet och** alla Microsoft Office **klientprogram**. Alla produkter kräver inte produktaktivering.
 
-:::image type="content" source="images/benefits/mpn-software-benefits-1.png" alt-text="Produkt förmåner för program vara som är tillgängliga på MPN." border="false":::
+:::image type="content" source="images/benefits/mpn-software-benefits-1.png" alt-text="Programvaruproduktförmåner som är tillgängliga för dig på MPN." border="false":::
 
-## <a name="how-activations-are-counted"></a>Hur aktiveringar räknas
+## <a name="how-activations-are-counted"></a>Så räknas aktiveringar
 
-Antalet aktiveringar som räknas mot en produkt nyckel baseras på följande scenarier
+Antalet aktiveringar som räknas mot en produktnyckel baseras på följande scenarier
 
-- Om program varan installeras på en ny dator ökas antalet produkt aktiveringar mot nyckeln med ett.
+- Om programvaran installeras på en ny dator ökas antalet produktaktiveringar mot nyckeln med en.
  
-- Om program varan är installerad på samma dator utan betydande maskin varu ändringar räknas produkt aktiveringen inte mot produkt nyckeln.
+- Om programvaran installeras på samma dator utan betydande maskinvaruändringar räknas inte produktaktiveringen mot produktnyckeln.
 
-- Om program varan är installerad på samma dator med betydande maskin varu ändringar räknas produkt aktiveringen in mot produkt nyckeln.
+- Om programvaran installeras på samma dator med betydande maskinvaruändringar räknas produktaktiveringen mot produktnyckeln.
 
 ## <a name="troubleshooting-scenarios"></a>Felsökningsscenarier
 
-- **Meddelandet "det finns ingen ytterligare information tillgänglig" för Cal (Windows Server Client Access License)**
+- **Meddelandet "Ingen ytterligare information tillgänglig" visas för cals-förmåner (Windows Server-klientåtkomstlicens)**
 
-    Cal är inte en nedladdnings bar produkt. Aktiveringen av Cal hanteras på själva Server produkten.
+    CALs är inte en nedladdningsbar produkt. Aktiveringen av CALs hanteras på själva serverprodukten.
 
-- **Du får ett meddelande om att du har nått maximalt antal tillgängliga aktiveringar för en produkt nyckel när du försöker aktivera program vara.**
+- **Du får ett meddelande om att du har nått maximalt antal tillgängliga aktiveringar för en produktnyckel när du försöker aktivera programvara.**
 
-    Du får ett angivet antal aktiveringar per produkt genom MPN medlemskaps förmåner. Om du har uppfyllt eller överskridit det maximala antalet aktiveringar, kan du inte aktivera fler licenser med hjälp av den angivna produkt nyckeln.
+    Du får ett specifikt antal aktiveringar per produkt via MPN-medlemskapsförmånerna. Om du har uppfyllt eller överskridit det maximala antalet aktiveringar kan du inte aktivera fler licenser med hjälp av den angivna produktnyckeln.
 
 
  ## <a name="next-steps"></a>Nästa steg
 
-- [Hantera dina Microsoft Partner Network-förmåner och erbjudanden](manage-your-partner-network-benefits.md)
+- [Hantera dina Microsoft Partner Network och erbjudanden](manage-your-partner-network-benefits.md)
 
-- [Använd tekniska support incidenter för att få teknisk support för produkter](mpn-benefits-technical-support.md)
+- [Använda tekniska supportärenden för att få produktspecifik teknisk support](mpn-benefits-technical-support.md)
 
 
 

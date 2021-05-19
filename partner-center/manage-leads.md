@@ -4,94 +4,91 @@ ms.topic: article
 ms.date: 06/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Använd partner Center för att svara på referenser och hantera nya, befintliga och arkiverade leads och hänvisningar. Lär dig också hur du får fler hänvisningar i framtiden.
+description: Använd Partnercenter för att svara på hänvisningar och hantera nya, befintliga och arkiverade leads och referenser. Lär dig även hur du får fler referenser i framtiden.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 94bcde2402b7276bef8eaaf84975f2a5677723fe
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: dd34a30cf21a90ac7781ed84945a208df13b3700
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133122"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146552"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Hantera olika leads som kundfrågor, marknadskvalificerade leads och säljkvalificerade leads
 
-**Lämpliga roller**
+**Lämpliga roller:** MPN-partneradministratör | Referensadministratör
 
-- MPN-partner administratör
-- Referens administratör
+Microsoft skickar miljontals leads per år till sina partner. Du har möjlighet att ta emot leads från Microsoft och skapa din verksamhet. Det här avsnittet hjälper dig att förstå hur du hanterar de leads som du får från Microsofts lösningsleverantörssida och agerar på dem.
 
-Microsoft skickar miljon tals leads per år till sina partners. Du har möjlighet att ta emot leads från Microsoft och utveckla din verksamhet. Det här avsnittet hjälper dig att förstå hur du hanterar de leads som du får från sidan Microsoft Solution Provider och arbetar med dem.
-
-Krav för att ta emot leads är att [skapa en affärs profil](create-a-marketing-profile.md) för ditt företag. Affärs profilen som du skapar för ditt företag hjälper dig att bli synlig för potentiella kunder, andra partner och Microsoft-säljare på webb sidan för [Microsoft Solution Provider](https://www.microsoft.com/solution-providers/home) . Din företags profil information kombineras med företagets medlemskaps information, till exempel kompetens data och ytterligare erkännanden från Microsoft som tillhandahåller en omfattande profil för kunderna när de söker efter en partner att arbeta med. Alla begär Anden som kommer från profil listan på sidan Microsoft Solution Provider är tillgängliga i avsnittet **leads** på fliken **hänvisningar** i det vänstra navigerings fönstret.
+Förutsättningen för att ta emot leads är [att skapa en företagsprofil](create-a-marketing-profile.md) för ditt företag. Företagsprofilen som du skapar för ditt företag hjälper dig att vara synlig för potentiella kunder, andra partner och Microsoft-säljare på [webbplatsen för Microsofts lösningsleverantör.](https://www.microsoft.com/solution-providers/home) Din företagsinformation kombineras med företagets medlemskapsinformation som kompetensdata och ytterligare godkännanden från Microsoft som ger en omfattande profil för kunderna när de söker efter en partner att arbeta med. Alla begäranden som kommer från profillistan på sidan För **Microsoft-lösningsleverantörer** är tillgängliga i avsnittet **Leads** under fliken Referenser i det vänstra navigeringsfönstret.
 
 ## <a name="types-of-leads"></a>Typer av leads
 
-**Kund förfrågningar** – det här är leads som kommer direkt från kunderna. Ett företag har sökt och hittat företagets profil och fyllt i formuläret som anger behovet och kontakt uppgifterna.
+**Kundfrågor** – det här är leads som kommer direkt från kunderna. Ett företag har sökt och hittat din företagsprofil och fyllt i formuläret med behovet och kontaktuppgifterna.
 
-**Kvalificerad marknadsföring** – dessa är leads som skickas till ditt företag av Microsoft-anställda som har tagit emot kund förfrågan via någon av de olika marknadsförings kanalerna.
+**Marknadsföringskvalificerad** – det här är leads som skickas till ditt företag av Microsoft-anställda som har tagit emot kundbegäran via någon av de olika marknadsföringskanalerna.
 
-**Kvalificerat försäljning** – dessa är leads som skickas till dig av Microsofts säljare som samlar in kraven från en kund och hjälper dem att hitta rätt partner för att lösa ett kund problem. Dessa leads är inte samma som samförsäljnings möjligheter, där en Microsoft-säljare aktivt samverkar med partnern och kunden tills avtalet stängs.
+**Säljkvalificerad** – det här är leads som skickas till dig av Microsoft-säljare som samlar in kraven från en kund och hjälper dem att hitta rätt partner för att lösa ett kundproblem. Dessa leads är inte samma sak som möjligheter till säljförsäljning där en Microsoft-säljare aktivt samarbetar med partnern och kunden fram till avtalsnedstängningen.
 
-## <a name="navigating-the-leads-section"></a>Navigera i avsnittet leads
+## <a name="navigating-the-leads-section"></a>Navigera i avsnittet Leads
 
-Det finns tre flikar på översta nivån i avsnittet leads. 
+Det finns tre översta flikar i leads-avsnittet. 
 
-**Marknads platser** – det här är alla leads som härstammar från Microsoft Solution providers sid sökningar, som är kund frågor.
+**Marketplace-leads** – Det här är alla leads från sökningar på Microsofts lösningsleverantörers sida, som är kundfrågor.
 
-**Kvalificerade leads** – dessa är alla leads av typen saluför kvalificerad och Sälj kvalificering.
+**Kvalificerade leads** – det här är alla leads av typen Marknadsföringskvalificerade och Säljkvalificerade.
 
-**Favoriter** – alla leads som är markerade som favoriter på fliken marknads platser eller kvalificerade leads visas på den här fliken. Du kan markera alla leads som favorit genom att klicka på ikonen hjärta på leadet i listvyn. Du kan ta bort ett lead från favoriter genom att bara klicka på samma ikon igen.
+**Favoriter** – Alla leads som är markerade som favoriter på fliken För Marketplace-leads eller Kvalificerade leads visas på den här fliken. Du kan markera ett lead som en favorit genom att klicka på hjärtikonen på leadet i listvyn. Du kan ta bort leadet från favoriter genom att klicka på samma ikon igen.
 
 ## <a name="responding-to-a-lead"></a>Svara på ett lead
 
-Varje lead flyttas genom en egen livs cykel. Det här avsnittet identifierar de olika stegen och de åtgärder som du kan utföra i varje steg.
+Varje lead går igenom en egen livscykel. Det här avsnittet identifierar de olika stegen och de åtgärder som du kan utföra i varje fas.
 
 ### <a name="received-stage"></a>Mottagen fas
 
-I det här steget har du fått ett nytt lead antingen direkt från kunden eller från en anställd från Microsoft. Granska informationen och kontakta kunden om du vill veta mer om deras affärs behov.
+I det här steget har du fått en ny lead antingen direkt från kunden eller från en Microsoft-anställd. Granska informationen och kontakta kunden om du vill veta mer om deras affärsbehov.
 
-Du kan utföra två åtgärder i det här steget, antingen acceptera eller avvisa hänvisningen:
+Du kan vidta två åtgärder i det här skedet– antingen acceptera eller neka hänvisningen:
 
-- **Acceptera**: Ange ett namn för affären, det beräknade värdet och den uppskattade inköps tids ramen. Du bör också ange information i fältet **anteckningar** om du vill förklara mer om vad kunden söker efter. Om du vill kan du ange ditt CRM-ID här (endast för din referens), marknadsförings kampanjens ID, som ledde till respektive lead och lägger till ytterligare kontakter från företaget. När du är klar väljer du **Nästa**. Vi flyttar hänvisningen till **Nästa steg**, vilket innebär att du planerar att aktivt engagera kunden för att möta behovet. Vi använder också den här informationen för att hjälpa dig att hitta liknande avtal i framtiden. 
+- **Acceptera:** Ange ett namn för avtalet, det uppskattade avtalsvärdet och den uppskattade tidsramen för köpet. Du bör också ange information i **fältet Anteckningar** för att förklara mer om vad kunden letar efter. Om du vill kan du ange ditt CRM-ID här (endast som referens), marknadsföringskampanjens ID, vilket resulterade i respektive lead och lägga till ytterligare kontakter från ditt företag. När du är klar väljer du **Nästa.** Vi flyttar hänvisningen till nästa **steg, vilket innebär att** du planerar att aktivt interagera med kunden för att hantera deras behov. Vi använder även den här informationen för att hjälpa dig att hitta liknande avtal i framtiden. 
 
-- **Neka**: Välj anledningen till att du tackar nej till affären och Lägg till eventuella anteckningar som du vill ta med och välj sedan **Stäng** affär. Vi kommer att arkivera det som **avböjt** och meddela kunden att välja en annan partner.
+- **Avböj:** Välj orsaken till att du avböjer avtalet och lägg till eventuella anteckningar som du vill inkludera och välj sedan **Stäng** avtalet. Vi arkiverar den som **Nekad** och meddelar kunden att den ska välja en annan partner.
 
-- Om du inte svarar inom den tilldelade tiden (14 dagar) kommer vi att arkivera det som **upphört att gälla** och meddela antingen Microsoft eller partnern som skickade dig den här möjligheten.
+- Om du inte svarar inom den tilldelade tiden (för närvarande 14  dagar) arkiverar vi den som Förfallen och meddelar antingen Microsoft eller den partner som skickade dig den här möjligheten.
 
 > [!TIP]
-> En kund har möjlighet att uttryckligen begära att intresserade partner kontaktar dem direkt. I så fall visas en avisering överst på sidan med en flamma-ikon. Vi rekommenderar starkt att nå ut för att kontakta kunden så snabbt som möjligt för att förbättra erbjudandet. Efter 72 timmar fortsätter hänvisningen att vara aktiv, men ikonen och meddelandet kommer att ändras. Du bör fortfarande kontakta kunden om du är intresse rad av hänvisningen.
+> En kund har möjlighet att uttryckligen begära att berörda partner kontaktar dem direkt. Om så är fallet visas en avisering överst på sidan med en ikonikon. Vi rekommenderar starkt att du kontaktar kunden så snabbt som möjligt för att förbättra dina möjligheter att vinna avtalet. Efter 72 timmar fortsätter hänvisningen att vara aktiv, men ikonen och meddelandet ändras. Du bör fortfarande kontakta kunden om du är intresserad av att följa upp hänvisningen.
 
-### <a name="accepted-stage"></a>Godkänt steg
+### <a name="accepted-stage"></a>Godkänd fas
 
-När du arbetar för att avsluta affären väljer du **Redigera** om du vill ändra någon information som du har angett för en godkänd referens. Du kan sedan uppdatera avtals namnet, det beräknade inköps datumet, det beräknade värdet, noteringarna, CRM-ID: t och/eller marknadsförings kampanjens ID.  Du kan också välja **Lägg till anställda** för att ange namn, telefonnummer och e-postadresser till ytterligare personer som arbetar med erbjudandet.
+När du arbetar för att stänga avtalet väljer du Redigera om du vill ändra den information som du har angett för en godkänd **hänvisning.** Du kan sedan uppdatera avtalets namn, beräknat inköpsdatum, beräknat värde, anteckningar, CRM-ID och/eller marknadsföringskampanjens ID.  Du kan också välja **Lägg till dina** anställda för att ange namn, telefonnummer och e-postadresser för ytterligare personer som arbetar med avtalet.
 
-När du är klar kan du utföra en av de två åtgärderna, som markerar affären som **vunnen** eller **förlorad** för att rapportera resultatet så att vi kan arkivera det.
+När du är klar kan du utföra någon av de två  åtgärderna, som markerar avtalet som Won (Vunnit) eller **Lost** (Förlorad) för att rapportera resultatet så att vi kan arkivera det därefter.
 
 ### <a name="archived-stage"></a>Arkiverad fas
 
-Det här är ett Terminal steg där alla affärs möjligheter slutligen når sig. Du kan visa alla leads som har **vunnits, förlorats, avböjts** och **upphört att gälla** i det här skedet. Det finns inga åtgärder som du kan vidta i det här steget.
+Det här är ett terminalsteg där alla affärsmöjligheter slutligen når. Du kan visa alla leads som har **vunnits, förlorats, avvisats** och **upphört att gälla** i det här steget. Det finns inga åtgärder som du kan vidta i det här steget.
 
 ## <a name="getting-more-leads"></a>Hämta fler leads
 
-Här följer några tips som hjälper dig att få mer relevanta hänvisningar:
+Här är några tips som hjälper dig att få lämpligare referenser:
 
-- **Välj nyckelord och inställningar som representerar din unika expertis och affärs modell i din [affärs profil](create-a-marketing-profile.md)**. Ta bort nyckelord som genererar referenser som du inte är intresse rad av. Om du inte är intresse rad av att hantera företag av en viss storlek uppdaterar du den här inställningen.
+- **Välj nyckelord och inställningar som representerar din unika expertis och affärsmodell i din [företagsprofil.](create-a-marketing-profile.md)** Ta bort nyckelord som genererar hänvisningar som du inte är intresserad av. Om du inte är intresserad av att hantera företag av en viss storlek kan du uppdatera den här inställningen.
 
-- **Granska din kontakt information i din [företags profil](create-a-marketing-profile.md) för varje plats**. Se till att ditt team får inkommande aviseringar.
+- **Granska dina kontaktuppgifter i din [företagsprofil](create-a-marketing-profile.md) för varje plats.** Se till att ditt team får inkommande aviseringar.
 
-- **Svara snabbt på hänvisningar**. När du svarar i tid på inkommande förfrågningar ökar vi din synlighet i framtida kund Sök resultat. Se till att ditt team svarar snabbt med din avsikt.
+- **Svara snabbt på hänvisningar**. När du svarar i rätt tid på inkommande begäranden kommer vi att öka din synlighet i framtida kundsökresultat. Se till att ditt team svarar snabbt med din avsikt.
 
-- **Var choosy med de avtal som du accepterar**. Vi övervakar de typer av avtal som du accepterar och avvisar och använder den här informationen för att hjälpa dig att hitta liknande avtal. Att acceptera avtal som inte är bra får inte förbättra dina Sök Resultat och kan påverka kvaliteten på de leads du får.
+- **Var oenig med de avtal som du accepterar.** Vi övervakar de typer av avtal som du accepterar och avböjer och använder den här informationen för att hitta liknande avtal. Att godkänna avtal som inte passar bra förbättrar inte sökresultaten och kan påverka kvaliteten på de leads som du får.
 
-- **Rapportera tillbaka de uppskattade avtals storlekarna, UB-datum och slut status för dina avtal (vunna eller förlorade)**. Vi använder den här informationen för att fortsätta att ge dig kvalitets hänvisningar.
+- **Rapportera tillbaka de uppskattade avtalsstorlekarna, slutdatumen och den slutliga statusen för dina avtal (vann eller förlorade).** Vi använder den här informationen för att fortsätta ge dig kvalitetsreferenser.
 
 ## <a name="next-steps"></a>Nästa steg
 
 - [Hantera möjligheter till samförsäljning](manage-co-sell-opportunities.md)
 
-- [Hämta Co-Sälj koppling för Dynamics 365 CRM](connector-dynamics.md)
+- [Hämta anslutningsappen för säljförsäljning för Dynamics 365 CRM](connector-dynamics.md)
 
-- [Hämta Co-sälje Connector för Salesforce CRM](connector-salesforce.md)
+- [Hämta anslutningsappen för säljförsäljning för Salesforce CRM](connector-salesforce.md)

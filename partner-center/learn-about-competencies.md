@@ -1,77 +1,74 @@
 ---
-title: Microsoft Gold, silver kompetens krav
+title: Microsoft guld- och silverkompetenskrav
 ms.topic: article
 ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig hur du får en bättre kunskap om Microsofts partner status och locka nya kunder genom att uppfylla kompetens krav för att få guld-och silver medlemskaps nivåer.
+description: Lär dig att skaffa sig en Microsoft-partnerstatus på topp och locka nya kunder genom att uppfylla kompetenskraven för att tjäna guld- och silvermedlemskapsnivåer.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a642c9fc8b920668bd6883c01573e5fbf5523e53
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 24dd96126ab96b3e3790e9ebc00c128cac07ad24
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106178875"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146603"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Särskilja din verksamhet genom att uppnå Microsoft-kompetenser
 
-**Lämpliga roller**
+**Lämpliga roller:** Globala | Administratör för användarhantering
 
-- Global administratör
-- Administratör för användar hantering
+Visa upp dina beprövade kunskaper om att leverera kvalitetslösningar inom ett eller flera specialiserade affärsområden. Microsoft-kompetenser är utformade för att förbereda dig för att uppfylla dina kunders behov och för att hjälpa dig att locka nya kunder som söker efter Microsoft-certifierade lösningsleverantörer. Gå med på toppnivån hos Microsoft-partner och stå ut från dina kollegor.
 
-Demonstrera dina beprövade kunskaper i att leverera kvalitets lösningar i ett eller flera specialiserade företags områden. Microsoft-kompetenser är utformade för att förbereda dig för att möta kundernas behov och för att hjälpa dig att locka nya kunder som letar efter Microsoft-certifierade lösnings leverantörer. Gå med på Elite-nivån hos Microsoft-partner och ta del av dina kollegor.
+- Uppnå en **silverkompetens** för att demonstrera din konsekventa funktion och åtagande.
 
-- Få en **silver** kompetens för att demonstrera din konsekventa kapacitet och engagemang.
+- Få en **guldkompetens** för att demonstrera dina förstklassiga funktioner i ett Microsoft-lösningsområde.
 
-- Få en **guld** kompetens för att demonstrera din bästa kapacitet inom ett Microsoft-lösnings områden.
+Att uppnå en kompetens kan också vara en del av ytterligare fördelar och affärsmöjligheter:
 
-Att uppnå en kompetens kan också vara en post för ytterligare förmåner och möjligheter:
+- Få tillgång [till kraftfulla erbjudanden och program](mpn-learn-about-go-to-market-benefits.md) på marknaden som kan hjälpa dig att expandera och utveckla din verksamhet. [Läs mer om hur du kommer till marknaden med Microsoft](https://partner.microsoft.com/solutions/go-to-market).
 
-- Lås upp kraftfulla erbjudanden [till marknaden](mpn-learn-about-go-to-market-benefits.md) och program som kan hjälpa dig att utöka och utveckla din verksamhet. [Lär dig mer om hur du går till marknaden med Microsoft](https://partner.microsoft.com/solutions/go-to-market).
+- Genom att uppnå en guldkompetens får du möjlighet att söka efter och lägga till [mer avancerade specialiseringar i](advanced-specializations.md) din portfölj. Avancerade specialiseringar hjälper dig att demonstrera din växande expertis för kunder. [Läs mer om avancerade specialiseringar.](https://partner.microsoft.com/membership/advanced-specialization)
 
-- Genom att uppnå en guld kompetens får du möjlighet att använda och lägga till mer [avancerade specialiseringar](advanced-specializations.md) i din portfölj. Avancerade specialiseringar hjälper dig att presentera din växande expertis för kunder. [Läs mer om avancerade specialiseringar](https://partner.microsoft.com/membership/advanced-specialization).
+## <a name="check-your-status-as-you-attain-a-competency"></a>Kontrollera din status när du har uppnått en kompetens
 
-## <a name="check-your-status-as-you-attain-a-competency"></a>Kontrol lera din status när du uppnår en kompetens
-
-Du kan se krav och vad företaget har uppnått från kompetens avsnittet på instrument panelen i partner centret.
+Du kan se kraven och vad ditt företag har uppnått från kompetensområdet på instrumentpanelen i Partnercenter.
 
 1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
 
 2. Under avsnittet MPN på menyn i Partnercenter väljer du **Kompetenser**.
 
-3. Välj kompetensnamn och specifikt kompetensalternativ för att visa informationen. Du kan se vad du har slutfört och du kan även se fullständiga krav och länkar till de särskilda testerna och de datum då examina för examen har dragits tillbaka.
+3. Välj kompetensnamn och specifikt kompetensalternativ för att visa informationen. Du kan se vad du har slutfört och du kan även se fullständiga krav och länkar till specifika prov och datum för indragna provvalideringsdatum.
 
-## <a name="competency-areas"></a>Kompetens områden
+## <a name="competency-areas"></a>Kompetensområden
 
-För att förvärva silver-eller guld medlemskaps kompetens, uppmanas du att Visa expert kunskaper i olika företags-och teknik områden.
+För att få kompetens inom silver- eller guldmedlemskap uppmanas du att visa upp expertis inom olika områden inom affärs- och teknikområdet.
 
-|**Område**            |**Skaffa**                    |
+|**Område**            |**Kompetens**                    |
 |--------------------|--------------------------------|
-|Program och infrastruktur| – Program utveckling<br/> – Program integrering<br/> – Moln plattform<br/> – DevOps<br/> – Datacenter |
-|Företagsprogram | – Moln Business Applications</br> – Företags resurs planering (ERP)</br> – Projekt och portfölj |
-|Data och AI| – Data analys<br/> – Data plattform |
-|Modern arbets plats och säkerhet | – Samarbete och innehåll<br/> – Kommunikation<br/> – Moln produktivitet<br/> – Enterprise Mobility Management (EMM)<br/> – Meddelanden<br/> -Säkerhet<br/> – Små och Midmarket moln lösningar<br/> – Windows och enheter |
+|Program och infrastruktur| – Programutveckling<br/> – Appintegrering<br/> – Molnplattform<br/> – DevOps<br/> – Datacenter |
+|Företagsprogram | – Business Applications</br> – Resursplanering för företag (ERP)</br> – Projekt och portfölj |
+|Data och AI| – Dataanalys<br/> – Dataplattform |
+|Modern arbetsplats och säkerhet | – Samarbete och innehåll<br/> – Kommunikation<br/> – Molnproduktivitet<br/> – Enterprise Mobility Management (EMM)<br/> – Meddelanden<br/> – Säkerhet<br/> – Små och medelstora molnlösningar<br/> – Windows och enheter |
 
-Silver-och guld kompetens nivåer har olika krav för varje område. Inom varje zon är klasser och examina som anställda i företaget kan vidta för att uppnå den kompetens nivå du vill ha. 
+Silver- och guldkompetensnivåer har olika krav för vart och ett av områdena. Inom varje område finns klasser och prov som anställda på företaget kan göra för att uppnå den kompetensnivå som du vill ha. 
 
-Mer information om vad som behövs för att uppnå silver-och guld-kompetens finns i [Microsoft Partner Network kompetenser](https://partner.microsoft.com/membership/competencies).
+Mer information om vad som behövs för att uppnå silver- och guldkompetenser finns [i Microsoft Partner Network kompetenser.](https://partner.microsoft.com/membership/competencies)
 
 ## <a name="next-steps"></a>Nästa steg
 
-- Lär dig mer om [krav för att uppnå silver-och guld kompetens](https://partner.microsoft.com/membership/competencies).
+- Läs mer om kraven [för att uppnå silver- och guldkompetenser.](https://partner.microsoft.com/membership/competencies)
 
-- Lär dig mer om hur du kan visa din expertis ytterligare genom att para ihop en guld-kompetens med en eller flera [avancerade specialiseringar](advanced-specializations.md).
+- Lär dig hur du ytterligare demonstrerar dina kunskaper genom att koppla samman en guldkompetens med en eller [flera avancerade specialiseringar.](advanced-specializations.md)
 
-- Lär dig mer om vissa [Go-to-Marketing-resurser](mpn-learn-about-go-to-market-benefits.md) som ingår i kompetensen.
+- Lär dig mer [om specifika marknadsresurser som ingår](mpn-learn-about-go-to-market-benefits.md) i kompetenser.
 
-- Lär dig om [fakturor och skatter för kompetenser](mpn-view-print-maps-invoice.md).
+- Lär dig mer [om fakturor och skatter för kompetenser.](mpn-view-print-maps-invoice.md)
 
-- Lär dig hur du [betalar avgiften](mpn-pay-fee-silver-gold-competency.md) som är kopplad till ett silver-eller guld kompetens medlemskap.
+- Lär dig hur [du betalar avgiften för](mpn-pay-fee-silver-gold-competency.md) ett medlemskap med silver- eller guldkompetens.
 
-- Visa en rapport om Partner Center Insights- [kompetenser](pci-competencies-report.md) som visar aktuell status för din kompetens.
+- Visa en Partner Center [Insights-kompetensrapport](pci-competencies-report.md) som visar den aktuella statusen för dina kompetenser.
 
-- Få svar på [vanliga frågor](competencies-faq.md) om kompetenser.
+- Få svar på [vanliga frågor om](competencies-faq.md) kompetenser.

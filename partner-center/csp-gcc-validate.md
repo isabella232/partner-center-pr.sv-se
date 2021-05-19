@@ -4,65 +4,61 @@ ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig stegen för direkt fakturerings partner (direkt åter försäljare, indirekta leverantörer) för att validera partner och kunder för Office 365 myndigheter GCC för CSP.
+description: Lär dig stegen för direktfaktureringspartner (direktåterförsäljare, indirekta leverantörer) för att verifiera partner och kunder för Office 365 Government GCC för CSP.
 author: BillLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8614b321b453d280b8af0c548ea61c049708a6db
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 442ba27776786bbd153360d20cb93574a3d4d4ec
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979645"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147708"
 ---
-# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Office 365 myndigheter för GCC för CSP-partner och kund villkor 
+# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Berättigandekriterier för Office 365 Government GCC för CSP-partner och kund 
 
-**Lämpliga roller**
-
-- Global administratör
-- Administratörs agent
-- Försäljnings agent
+**Lämpliga roller:** Global | Administratörsagent | Försäljningsagent
 
 >[!NOTE]
->Validerings processen och kriterierna som beskrivs nedan är specifika för direkta fakturerings partner. Direkt fakturerings partner inkluderar direkt åter försäljare och indirekta leverantörer.  Om du är en indirekt åter försäljare kan du arbeta med din indirekta leverantör.
+>Valideringsprocessen och kriterierna som beskrivs nedan är specifika för direkta fakturapartner. Partner för direktfakturering omfattar direkta återförsäljare och indirekta leverantörer.  Om du är en indirekt återförsäljare kan du arbeta med din indirekta leverantör.
 
-Om du är intresse rad av att företaget (eller ditt kunds företag) är godkänt för Office 365 myndighets GCC för CSP, kan du läsa igenom kraven nedan.
+Om du är intresserad av att ha ditt företag (eller kundens företag) godkänt för Office 365 Government GCC för CSP kan du läsa kraven nedan.
 
-Du kan godkännas om du är en partner som betjänar amerikanska federala, statliga, lokala eller stambaserad myndighets enheter. Om du vill att din organisations berättigande ska verifieras, fyller du i kort form [här](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner).
+Du kan godkännas om du är en partner som betjänar amerikanska federala, statliga, lokala eller stamägda myndigheter. Om du vill att organisationens behörighet ska verifieras fyller du i det korta formuläret [som finns här.](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner)
 
-Kunden kan godkännas om de är en organisation som hanterar myndighets kontrollerade data eller som är amerikanska federala, statliga, lokala eller stambaserad myndighets enheter. Om du vill att kundernas organisations berättigande ska verifieras, fyller du i kort form [här](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer). 
+Din kund kan godkännas om de är en organisation som hanterar myndighetskontrollerade data eller är en amerikansk federal, delstats- eller lokal myndighetsentitet. Om du vill att dina kunders organisationers berättigande ska verifieras fyller du i det korta formuläret [som finns här.](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer) 
 
--   Din organisation måste vara [registrerad](https://partnercenter.microsoft.com/partner/cloud-solution-provider) i Cloud Solution Provider-programmet eftersom det är ett krav för att godkännas för gcc av Office 365-myndigheter för CSP.
--   En steg-för-steg-validerings process guide för Office 365 myndighets GCC för CSP finns [här](https://go.microsoft.com/fwlink/?linkid=2007323).
--   Kontakta [RSC-support](mailto:usgcce@microsoft.com) för ytterligare verifierings frågor eller problem.
+-   Din organisation måste [vara registrerad i](https://partnercenter.microsoft.com/partner/cloud-solution-provider) Molnlösningsleverantör-programmet eftersom det är en förutsättning för att godkännas för Office 365 Government GCC för CSP.
+-   En stegvis valideringsprocessguide för Office 365 Government GCC för CSP finns [här.](https://go.microsoft.com/fwlink/?linkid=2007323)
+-   Kontakta [RSC Support Escalations för](mailto:usgcce@microsoft.com) ytterligare verifieringsfrågor eller frågor.
 
-Office 365 myndigheter GCC för CSP-partner och kunder kommer att val IDE ras för berättigande baserat på specifika kriterier som beskrivs nedan.
+Office 365 Government GCC för CSP-partner och kunder kommer att valideras för berättigande baserat på att uppfylla specifika kriterier som beskrivs nedan.
 
-**Partner kriterier**
-1.  Tillhandahåller tjänster eller lösningar för amerikanska myndighets kunder via direkta eller indirekta avtal
-2.  Tjänar amerikanska myndighets kunder genom GSA eller andra avtals fordon
+**Partnerkriterier**
+1.  Tillhandahåller tjänster eller lösningar till amerikanska myndighetskunder via direkta eller indirekta kontrakt
+2.  Betjänar amerikanska myndighetskunder via GSA eller andra kontraktfordon
 
 **Kundkriterier**
-1.  AMERIKANSKA myndigheters enheter i dess myndighets förmåga. Ett exempel:
+1.  Entitet för amerikanska myndigheter i dess myndighetskapacitet. Exempel:
  
-    -  Federala myndigheter (t. ex. Bureau, agentur, avdelning eller annan enhet från amerikanska myndigheter)
+    -  Federal myndighet (t.ex. bureau, agency, department eller annan enhet för amerikanska myndigheter)
     -   Tillstånd/lokal entitet 
-    -   Stambaserad-entitet
-    -   Regionala eller statsöverskridande myndighets organisationer (men inga internationella entiteter)
-    -   Federala finansierade forsknings-och utvecklings Center (FERDCs)
+    -   Stamentitet
+    -   Regionala eller interstate government-entiteter (men inga internationella entiteter)
+    -   Federalt finansierade forsknings- och utvecklingscenter (FERDC)
 
-2.  Kommersiell privat entitet med data som omfattas av föreskrifter. Godkända datatyper för myndigheter är: 
-    -   Internationell trafik i vapen (ITAR)
+2.  Kommersiell privat enhet med data som omfattas av föreskrifter. Godkända datatyper för myndigheter är: 
+    -   International Traffic in Arms (ITAR)
     -   Kontrollerad oklassificerad information (CUI)
-    -   Försvars departement (DoD) oklassificerad kontrollerad kärn information (UCNI)
-    -   Energy of Energy (berg) UCNI
-    -   Straffrättslig information (CJI)
-    -   Information om skydds nivå för skydds avdelningen
+    -   DoD (Department of Defense) UCNI (Unclassified Controlled Information)
+    -   Department of Energy (DoE) UCNI
+    -   CJI (Criminal Justice Information)
+    -   Data från försvarsdepartementets effektnivå
     -   Andra typer av data som kräver Azure Government
 
-En internationell kommersiell entitet kan vara berättigad om de uppfyller de krav som anges ovan och har verifierat amerikansk närvaro (till exempel e-postadress, fysisk plats osv.).
+En internationell kommersiell enhet kan kvalificera sig om den uppfyller kraven som anges ovan och har verifierat amerikansk närvaro (till exempel e-postadress, fysisk plats osv.).
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Sälj Office 365 myndigheters GCC för CSP-prenumerationer till kvalificerade kunder](csp-gcc-overview.md)
+- [Sälja Office 365 Government GCC för CSP-prenumerationer till kvalificerade kunder](csp-gcc-overview.md)

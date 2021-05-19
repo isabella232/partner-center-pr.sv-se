@@ -9,18 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1473b3c0b90cca1152b4dab0b8efec86dbc3d22d
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 84beac77d41b8c11be9ac3cad87460eec9632ac4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172225"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147130"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Effektiv enhetsprisberäkning för Förbrukning i Azure-plan
 
-**Lämpliga roller**
-
-- Faktureringsadministratör
+**Lämpliga roller:** Faktureringsadministratör
 
 ## <a name="the-effective-unit-price"></a>Det effektiva enhetspriset
 
@@ -54,7 +52,7 @@ I tabellen gäller följande värden:
 
 - **BC** = Fakturerbar kostnad för mätaren = BCU * UP * 0,85. Detta återspeglar en justering för 15 % PEC-rabatten. Sedan använder vi den nedre gränsen för funktionen för att begränsa värdet till två siffror efter decimaltecknet för att debitera det minsta beloppet. 
 
-- **Gällande enhetspris** = BCU/BC
+- **Effektivt enhetspris** = BCU/BC
 
 >[!NOTE]
 

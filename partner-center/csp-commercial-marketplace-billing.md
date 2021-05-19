@@ -1,109 +1,106 @@
 ---
-title: Fakturering för kommersiella Marketplace-produkter
+title: Fakturering för produkter på den kommersiella marknadsplatsen
 ms.topic: article
 ms.date: 05/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig hur faktureringen fungerar för ISV SaaS-produkter eller prenumerationer som köpts för kunder från den kommersiella marknads platsen i Partner Center.
+description: Lär dig hur fakturering fungerar för ISV SaaS-produkter eller -prenumerationer som köpts för kunder från den kommersiella marknadsplatsen i Partnercenter.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10592c7f8a3b1f075bc726161603859552b29961
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: c25d4ab3077c6a0f648c767472e8b7b60ef53a9c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979540"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148031"
 ---
-# <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Fakturering för produkter och prenumerationer på kommersiella platser i Partner Center
+# <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Fakturering för produkter och prenumerationer på den kommersiella marknadsplatsen i Partnercenter
 
 
-**Lämpliga roller**
+**Lämpliga roller:** Global | Faktureringsadministratör
 
-- Global administratör
-- Faktureringsadministratör
+Som partner i CSP-programmet kan du använda Partnercenter för att köpa licensbaserade SaaS-produkter från ISV-utgivare på den kommersiella marknadsplatsen. När du har gjort det kan du komma åt en faktura för dessa typer av inköp. Faktureringsperioden börjar den första dagen i kalendermånaden och slutar på den sista dagen i kalendermånaden. Fakturor görs tillgängliga den 8:e dagen i följande månad.
 
-Som partner i CSP-programmet kan du använda Partner Center för att köpa licensbaserade SaaS-produkter från ISV-utgivare på den kommersiella marknaden. När du har gjort det kan du komma åt en faktura för dessa typer av inköp. Fakturerings perioden börjar på den första dagen i kalender månaden och slutar den sista dagen i kalender månaden. Fakturor görs tillgängliga den åttonde dagen i följande månad.
+Du kan komma åt fakturor antingen från instrumentpanelen i [Partnercenter](https://partner.microsoft.com/dashboard/) eller med hjälp av [Partner Center-API:er.](/partner-center/develop/)
 
-Du kan komma åt fakturor från antingen [instrument panelen](https://partner.microsoft.com/dashboard/) för partner Center eller genom att använda [API: er för partner Center](/partner-center/develop/).
-
-Partner i CSP-programmet debiteras för ISV-lösningar för kommersiella marknads platser som köpts för en kund när de köper dessa produkter från antingen Partner Center eller från Azure Portal (med hjälp av kundens tidigare CSP-köpta Azure-klient).
+Partner i CSP-programmet debiteras för isv-lösningar på den kommersiella marknadsplatsen som köpts för en kund när de köper dessa produkter från antingen Partnercenter eller från Azure Portal (med hjälp av kundens tidigare CSP-köpta Azure-klient).
 
 >[!NOTE]
->Om kunderna använder sin egen Azure AD-klient (inte en som köpts från en partner i CSP-programmet) kan kunderna också välja att köpa sin egen ISV SaaS-lösning direkt från ([Microsoft AppSource](https://appsource.microsoft.com/) eller [Azure Marketplace](https://azuremarketplace.microsoft.com/)). Om de gör det kommer de att få sin egen faktura direkt från Microsoft. Om en partner i CSP-programmet säljer en Azure-prenumeration eller den nya Azure-prenumerationen till kunden och ger kunden (eller den indirekta åter försäljaren) [rollbaserad åtkomst](/azure/role-based-access-control/built-in-roles) till den innehavaren (tilldela en roll till kunden förutom **läsaren**) kan den kunden (eller indirekta åter försäljaren) även köpa kommersiella Marketplace-erbjudanden utan föregående godkännande eller meddelande till CSP-partnern. I dessa fall kommer Microsoft inte att meddela partners i CSP-programmet om köp som görs av deras kunder. Microsoft erbjuder dock en valfri [Azure Monitor](/azure/azure-monitor/platform/alerts-activity-log) mekanism som du kan använda för att ställa in aviseringar eller meddelanden om aktiviteter på en Azure-prenumeration.
+>Om kunderna använder sin egen Azure AD-klientorganisation (inte en som köpts från en partner i CSP-programmet) kan kunder också välja att köpa sin egen ISV SaaS-lösning direkt från ([Microsoft AppSource](https://appsource.microsoft.com/) [eller Azure Marketplace).](https://azuremarketplace.microsoft.com/) Om de gör det får de sin egen faktura direkt från Microsoft. Om en partner i CSP-programmet säljer en Azure-prenumeration eller den nya Azure-planen till kunden och ger kunden (eller den indirekta återförsäljaren) rollbaserad åtkomst till klientorganisationen (genom att tilldela någon roll till kunden förutom Läsare) kan kunden (eller den indirekta återförsäljaren) också köpa kommersiella marknadsplatserbjudanden utan föregående godkännande eller meddelande till [CSP-partnern.](/azure/role-based-access-control/built-in-roles) I dessa fall meddelar Microsoft inte direkt partner i CSP-programmet om inköp som görs av deras kunder. Microsoft erbjuder dock en valfri metod [Azure Monitor](/azure/azure-monitor/platform/alerts-activity-log) du kan använda för att ställa in aviseringar eller meddelanden om aktivitet i en Azure-prenumeration.
 
-## <a name="access-billing-information-for-commercial-marketplace-products"></a>Få åtkomst till fakturerings information för kommersiella Marketplace-produkter
+## <a name="access-billing-information-for-commercial-marketplace-products"></a>Få åtkomst till faktureringsinformation för produkter på den kommersiella marknadsplatsen
 
-Den globala administratörs-eller fakturerings administratören för ditt företag får ett e-postmeddelande när en faktura är klar att visa. För att få åtkomst till den senaste fakturan och avstämnings filen för produkt inköp på kommersiella platser:
+Den globala administratören eller faktureringsadministratören för ditt företag får ett e-postmeddelande när en faktura är redo att visas. Så här kommer du åt den senaste fakturan och avstämningsfilen för produktinköp på den kommersiella marknadsplatsen:
 
-1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard/).
+1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard/).
 
-2. Från menyn Partner Center väljer du **fakturering**. 
+2. I menyn i Partnercenter väljer du **Fakturering.** 
 
-    Du kommer att se två flikar överst på sidan fakturering: **återkommande** och **återkommande och engångs köp**. På varje flik kan du komma åt faktura-och avstämnings-filer (rekognoseringar) för olika Marketplace-produkter:
+    Du ser två flikar överst på sidan Fakturering: **Återkommande och** **Återkommande samt engångsköp.** På varje flik kan du komma åt faktura- och avstämningsfiler (avstämning) för olika Marketplace-produkter:
 
-    - Fliken **återkommande** : visar faktura-och avstämnings filer för prenumerationer relaterade till Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, Power BI Pro och Microsoft Azure.
+    - **Fliken Återkommande:** Visar faktura- och avstämningsfiler för prenumerationer relaterade till Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, Power BI Pro och Microsoft Azure.
 
-    - Fliken **återkommande och engångs inköp** : visar faktura-och avstämnings filer för Azure-prenumeration, Azure-reservationer, program vara och kommersiella Marketplace-produkter.
+    - **Fliken Återkommande köp och engångsköp:** Visar faktura- och avstämningsfiler för Azure-plan, Azure-reservationer, programvara och produkter på den kommersiella marknadsplatsen.
   
-3. Välj fliken **återkommande och en-tid-inköp** . Om du har köpt prenumerationer för en kund i en annan valuta, visas en flik för varje valuta. Du kan göra några saker fr: om den här sidan:
+3. Välj fliken **Återkommande och engångsköp.** Om du har köpt prenumerationer för en kund i en annan valuta visas en flik för varje valuta. Du kan göra några saker från den här sidan:
 
-    - Om du vill se den senaste fakturan och avstämnings filen väljer du **faktura** eller **avstämnings fil**. (Om du vill kan du också komma åt de senaste faktura-och rekognoseringar-fildata med hjälp av [API: er för partner Center](/partner-center/develop/).
+    - Om du vill se den senaste fakturan och avstämningsfilen väljer **du Faktura** eller **avstämningsfil**. (Om du vill kan du också komma åt den senaste fakturan och rekognoseringsdata med hjälp av [Partner Center-API:er.](/partner-center/develop/)
 
-    - Om du vill se tidigare fakturor och rekognoseringar-filer expanderar du raden för **fakturerings historiken** nedan.
+    - Om du vill se tidigare fakturor och rekognoseringsfiler **expanderar du raden Faktureringshistorik** nedan.
 
-    - Välj en länk under rubriken **uppskattningar** för att kontrol lera uppskattat saldo eller faktura när som helst baserat på den senaste konto aktiviteten.  
+    - Om du vill kontrollera ditt beräknade kontosaldo eller din faktura när som helst baserat på den senaste kontoaktiviteten väljer du en länk under **rubriken Uppskattningar.**  
 
     >[!NOTE]
-    > När vi publicerar din faktura den åttonde dagen i månaden inkluderar den skatter och eventuella andra tillämpliga kostnader och krediter. Det innebär att den slutliga förfallo mängden kan skilja sig från vad du ser under fakturerings perioden.
+    > När vi publicerar din faktura den 8:e dagen i månaden inkluderar den skatter och andra tillämpliga avgifter och krediter. Det innebär att det slutliga förfallna beloppet kan skilja sig från det du ser under faktureringsperioden.
 
-## <a name="more-about-invoices-and-recon-files-for-commercial-marketplace-products"></a>Mer om fakturor och rekognoseringar-filer för kommersiella Marketplace-produkter
+## <a name="more-about-invoices-and-recon-files-for-commercial-marketplace-products"></a>Mer om fakturor och rekognoseringsfiler för produkter på den kommersiella marknadsplatsen
 
-Det här avsnittet innehåller mer information om faktura-och avstämnings filer för SaaS-prenumerationer från tredje part som köpts av kunder från tredjeparts ISV-utgivare.
+Det här avsnittet innehåller mer information om faktura- och avstämningsfiler för SaaS-prenumerationer på den kommersiella marknadsplatsen som köpts för kunder från isv-utgivare från tredje part.
 
-När du väljer **återkommande och engångs köp** från **fakturerings** alternativet på Partner Center-menyn får du till gång till fakturor och avstämnings filer för avgifter som rör både Microsoft (första och från tredje part) inköp. Dessa inköp kan associeras med:
+När du väljer **Återkommande** och  engångsköp från alternativet Fakturering i Partnercenter-menyn får du åtkomst till fakturor och avstämningsfiler för avgifter som rör både Microsoft-köp (förstapart) och ISV-inköp (tredje part). Dessa köp kan associeras med:
 
-- SaaS-prenumerationer (från antingen Microsoft eller ISV-utgivare)
+- SaaS-prenumerationer (från Microsoft eller ISV-utgivare)
 
 - Azure-plan
 
 - Azure-reservationer
 
-- Annan prenumeration baserad på program vara (från antingen Microsoft eller ISV-utgivare)
+- Annan prenumerationsbaserad programvara (från Microsoft eller ISV-utgivare)
 
-Exempel på sådana inköp kan vara SUSE Linux-programvara (en program varu prenumeration) eller en Azure ISV SaaS-produkt prenumeration.
+Exempel på dessa köp kan vara SUSE Linux-programvara (en programvaruprenumeration) eller en Azure ISV SaaS-produktprenumeration.
 
 >[!NOTE]
-> Mer information om hur du läser faktura-och rekognoseringar-filer finns även i [fakturerings översikt](billing.md).
+> Mer information om hur du läser faktura- och rekognoseringsfiler finns även i [Faktureringsöversikt.](billing.md)
 
-### <a name="tips-on-reading-your-invoice"></a>Tips om att läsa din faktura
+### <a name="tips-on-reading-your-invoice"></a>Tips om hur du läser din faktura
 
-När du köper en licensbaserade SaaS-produkt från en tredjeparts ISV-utgivare kan du bara se avgifter för licens avgiften på din faktura. Detta gäller även när ISV: s SaaS-produkt använder (eller använder) underliggande infrastruktur resurser i Azure. Det beror på att din kunds användnings avgift för Azure-infrastruktur för en ISV: s SaaS-produkt faktureras direkt till ISV. (ISV: er kommer att se tillhör ande Azure förbruknings avgifter i sin egen Azure-användning dagligt Beräknad faktura avstämnings fil.)
+När du köper en licensbaserad SaaS-produkt från en ISV-utgivare från tredje part visas endast avgifter för licensavgiften på din faktura. Detta gäller även när ISV:ns SaaS-produkt använder (eller förbrukar) underliggande Azure-infrastrukturresurser. Det beror på att kundens användningsavgifter för Azure-infrastruktur för en ISV:s SaaS-produkt debiteras direkt till ISV:en. (ISV:er ser associerade Avgifter för Azure-förbrukning i sin egen fakturaavstämningsfil för Azure-användning per dag.)
 
-Din faktura kommer att innehålla flera sidor:
+Fakturan innehåller flera sidor:
 
-- **Sidan 1 på fakturan:** Innehåller en översikt över fakturerings information för CSP-programpartnern. Detta inkluderar en sammanfattning av debiteringar för fakturerings perioden, ett faktura nummer, betalnings villkor (netto 60 dagar) och fakturerings betalnings metoder som ska betalas per tråd eller av kontroll.
+- **Sida 1 på fakturan:** Innehåller en översikt över faktureringsinformationen för CSP-programpartnern. Detta inkluderar en sammanfattning av avgifterna för faktureringsperioden, ett fakturanummer, betalningsvillkor (efter 60 dagar) och faktureringsmetoder att betala med banköverföring eller check.
 
-- **Sidan 2 (och eventuella efterföljande sidor) av fakturan:** Information debiteras för både första köp av Microsoft-inköp och ISV-baserade (licensbaserade) inköp från den kommersiella marknads platsen. Du kan identifiera ISV licensbaserade inköp av **utgivar** raden under varje produkt namn. Den associerade avstämnings filen ger ytterligare fakturerings information för vissa faktura avgifter.
+- **Sida 2 (och eventuella efterföljande sidor) på fakturan:** Information om avgifter för både Microsoft-inköp från första part och isv-köp från tredje part (licensbaserade) från den kommersiella marknadsplatsen. Du kan identifiera ISV-licensbaserade inköp på **raden Utgivare** under varje produktnamn. Den associerade avstämningsfilen ger mer faktureringsinformation för specifika fakturaavgifter.
 
-- **Sista sidan i fakturan:** Om du debiteras för licensbaserade Marketplace-produkter från en ISV visas mer information om namnet och adressen för ISV-utgivaren på den sista sidan.
+- **Sista sidan på fakturan:** Om du har debiterats för licensbaserade Marketplace-produkter från en ISV visas mer information om ISV-utgivarens namn och adress på den här sista sidan.
 
-### <a name="tips-on-reading-your-reconciliation-file"></a>Tips om att läsa din avstämnings fil
+### <a name="tips-on-reading-your-reconciliation-file"></a>Tips om att läsa avstämningsfilen
 
-Den **återkommande och en** avstämnings fil för inköp innehåller flera kolumner med ytterligare information som mappar till avgifterna i din faktura. I kolumnen **PublisherName** visas om köpet är från Microsoft eller en tredjeparts-ISV-utgivare.
+**Avstämningsfilen för återkommande och** engångsköp innehåller flera kolumner med ytterligare information som mappar till avgifterna på din faktura. Kolumnen **PublisherName** visar om köpet kommer från Microsoft eller en ISV-utgivare från tredje part.
 
-Vissa kostnader i avstämnings filen kan visas med en kostnad på $0. Detta kan bero på ett kostnads fritt erbjudande om kostnads fri utvärdering (vanligt vis 30 eller 60 dagar) eller ett eget licens erbjudande.
+Vissa avgifter i avstämningsfilen kan visas med en kostnad på 0 USD. Detta kan bero på ett erbjudande om "kostnadsfri utvärderingsversion" av isv:en (vanligtvis 30 eller 60 dagar) eller ett Bring Your Own License-erbjudande.
 
-Om du har en kostnads fri utvärderings version av ISV:
+När det gäller isv-erbjudanden för kostnadsfria utvärderingsversion:
 
-- Den kostnads fria utvärderings perioden omfattar kostnaden för ISV: s licensbaserade SaaS-produkt under den tiden. Du kommer inte heller att debiteras för associerad Azure-infrastrukturs användning av den SaaS produkten.  Om du använder ett användnings oberoende ISV-erbjudande omfattar den kostnads fria utvärderings versionen inte kostnaden för den underliggande användningen av Azure-infrastrukturen. I det här fallet kommer Azure Infrastructure Usage-kostnader att visas i en separat Azure-avstämnings fil.
+- Den kostnadsfria utvärderingsperioden omfattar kostnaden för ISV:ens licensbaserade SaaS-produkt under den tiden. Du debiteras heller inte för associerad Användning av SaaS-produkten i Azure-infrastrukturen.  Om du använder ett användningsbaserat ISV-erbjudande inkluderar den kostnadsfria utvärderingsversionen dock inte kostnaden för underliggande användning av Azure-infrastrukturen. I det här fallet visas användningsavgifter för Azure-infrastruktur i en separat Azure-avstämningsfil.
 
-- När du köper och distribuerar en ISV: s kostnads fria utvärderings produkt för din kund registreras kunden automatiskt i den kostnads fria utvärderings versionen av ISV-utgivaren. Den kostnads fria utvärderings perioden upphör automatiskt efter den period som har definierats av ISV-utgivaren. När perioden är slut kommer kunden att debiteras. Det innebär att avstämnings filen kan visa två rader för en berättigad produkt: en som spårar utvärderings perioden och en som spårar det betalda erbjudandet (som visar kostnaden $0 fram till dess att utvärderings perioden är slut). När utvärderings versionen är slut börjar raden som visar det betalda erbjudandet att Visa avgifter. 
+- När du köper och distribuerar en ISV:s kostnadsfria utvärderingsversion för kunden registreras kunden automatiskt i den kostnadsfria utvärderingsversionen av ISV-utgivaren. Den kostnadsfria utvärderingsperioden upphör automatiskt efter den period som definierats av ISV-utgivaren. När perioden är slut debiteras kunden. Det innebär att avstämningsfilen kan visa två rader för en utvärderingsberättigad produkt: En som spårar utvärderingsperioden och en som spårar det betalda erbjudandet (som visar kostnaden 0 USD tills utvärderingsperioden har avslutats). När utvärderingsversionen är slut börjar raden som visar det betalda erbjudandet att visa avgifter. 
 
-Mer information om vad varje kolumn representerar finns i [Använd dina avstämnings filer](use-the-reconciliation-files.md). Se även [typer av fakturering i Partner Center](billing-different-types.md)
+Mer information om vad varje kolumn representerar finns i Använda [dina avstämningsfiler.](use-the-reconciliation-files.md) Se även [Typer av fakturering i Partnercenter](./billing-basics.md)
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Hantera kommersiella Marketplace-produkter för kunder](csp-commercial-marketplace-manage.md)
-- [Lär dig mer om stöd för kommersiella Marketplace-produkter](csp-commercial-marketplace-support.md)
+- [Hantera produkter på den kommersiella marknadsplatsen för kunder](csp-commercial-marketplace-manage.md)
+- [Läs mer om support för produkter på den kommersiella marknadsplatsen](csp-commercial-marketplace-support.md)

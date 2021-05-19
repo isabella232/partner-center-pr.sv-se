@@ -9,19 +9,16 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b59d18a62ce6a775e97f88708467d07e9c351a66
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.openlocfilehash: 6c5acad01490ca679fa0761aa015fe0142e476bd
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740394"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146382"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Hantera ditt Partnercenter-konto – företagsprofil, bankinformation, roller, behörigheter med mera
 
-**Lämpliga roller** 
-
-- Global administratör
-- Kontoadministratör
+**Lämpliga roller:** Global | Kontoadministratör
 
 Det konto som du skapar i Partnercenter när du registrerar är din e-postadress till arbetet plus din affärsinformation. När du har skapat ett konto är du klar med att konfigurera företagets fullständiga profil, inklusive supportinformation, undantag vid skattebefrielse vid behov och primär kontaktinformation. Ditt företags konto innehåller även användarkonton för alla i ditt team som ska använda Partnercenter. De kan bland annat lägga till eller hantera kunder, sälja prenumerationer, arbeta med fakturering, skapa företagsprofiler, hantera hänvisningar, arbeta med incitamentsprogram, tillhandahålla support och mycket mer.
 
@@ -32,7 +29,7 @@ Se även artiklarna [Bjud in anställda att gå med i Partnercenter](guide-to-mi
 
 ## <a name="account-management"></a>Kontohantering
 
-Alla kommersiella partner och utvecklarpartner får åtkomst till [](https://partner.microsoft.com/dashboard) Kontohantering i Partnercenter genom att logga **in** på instrumentpanelen i Partnercenter och välja Inställningar  (kugghjulsikonen) i det övre högra hörnet på skärmen och sedan **Kontoinställningar**. Du behöver inte längre välja mellan inställningar för Partner och Utvecklare. Alla profiler och inställningar kombineras nu.
+Alla kommersiella partner och utvecklarpartner får åtkomst till Kontohantering i Partnercenter genom att logga **in** på instrumentpanelen i [Partnercenter](https://partner.microsoft.com/dashboard) och välja Inställningar  (kugghjulsikonen) i det övre högra hörnet på skärmen och sedan **Kontoinställningar**. Du behöver inte längre välja mellan inställningar för Partner och Utvecklare. Alla profiler och inställningar kombineras nu.
 
 :::image type="content" source="images/accountsettings/opening.png" alt-text="inställningsikon":::
 
@@ -92,15 +89,15 @@ Läs mer om [Verifiering och din kontoinformation.](verification-responses.md)
 
 ### <a name="tenants-profile"></a>Klientorganisationsprofil
 
-Den här sidan innehåller all information om dina Azure AD-klienter, både kommersiella och utvecklare. I den här profilen kan den globala administratören associera nya klienter med partnerns globala konto.
+Den här sidan innehåller all information om dina Azure AD-klienter, både kommersiella och utvecklare. Det är i den här profilen som den globala administratören kan associera nya klienter med partnerns globala konto.
 
 ### <a name="identifiers"></a>Identifierare
 
-Den här sidan innehåller Partnercenter-identiteter för ditt företag: MPN-ID, utgivar-ID, Windows utgivar-ID med mera.  Varje område kan utökas och redigeras så att till exempel den primära kontakten för din publiceringsverksamhet är lätt att hitta.
+Den här sidan innehåller Partnercenter-identiteter för ditt företag: MPN-ID, utgivar-ID, Windows utgivar-ID med mera.  Varje område kan utökas och redigeras så att till exempel den primära kontakten för publiceringsbranschen är lätt att hitta.
 
 ### <a name="company-profile"></a>Företagsprofil
 
-Den här sidan visar vilken typ av samarbete du har med Microsoft, till exempel oberoende programvaruleverantör eller CSP-programpartner. Den visar antalet kunder som du arbetar med, årliga intäkter och företagets aktuella storlek. Expandera företagsinformation  på sidan Företagsinformation för att berätta för Microsoft vilken typ av arbete du vill göra med Microsoft, till exempel skapa program, sälja programvara från Microsoft och tredje part eller vara systemintegratör. Du kan också definiera var du för närvarande gör affärer och de språk där du vill expandera din verksamhet i framtiden.
+Den här sidan visar vilken typ av partnerskap du har med Microsoft, till exempel oberoende programvaruleverantör eller CSP-programpartner. Den visar antalet kunder som du arbetar med, årliga intäkter och företagets aktuella storlek. Expandera företagsinformation  på sidan Företagsinformation för att berätta för Microsoft vilken typ av arbete du vill göra med Microsoft, till exempel skapa program, sälja programvara från Microsoft och tredje part eller vara systemintegratör. Du kan också definiera var du för närvarande gör affärer och de språk där du vill expandera din verksamhet i framtiden.
 
 ### <a name="account-merge-profile"></a>Kontosammanslagningsprofil
 

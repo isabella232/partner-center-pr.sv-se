@@ -1,105 +1,102 @@
 ---
-title: Upptäck erbjudanden – kommersiell marknads plats
+title: Upptäck erbjudanden – kommersiell marknadsplats
 ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig hur CSP-partner kan använda Partner Center för att visa eller söka i Marketplace efter SaaS erbjudanden eller priser från oberoende program varu leverantörer (ISV).
+description: Lär dig hur CSP-partner kan använda Partnercenter för att visa eller söka på marknadsplatsen efter SaaS-erbjudanden eller priser från oberoende programvaruleverantörer (ISV).
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f741ef4e44632e1d239285b58e99fbb38a8f37e7
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: ab30f8391df58155c8511dc628b1fefd94c8d768
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979608"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147980"
 ---
-# <a name="discover-offers-and-pricing-in-partner-center-commercial-marketplace"></a>Identifiera erbjudanden och priser i Partner Center kommersiell marknads plats
+# <a name="discover-offers-and-pricing-in-partner-center-commercial-marketplace"></a>Upptäck erbjudanden och priser på den kommersiella marknadsplatsen i Partnercenter
 
-**Lämpliga roller**
+**Lämpliga roller:** Globala | Administratörsagent
 
-- Global administratör
-- Administratörs agent
+När oberoende programvaruleverantörer väljer att publicera ett erbjudande på den kommersiella marknadsplatsen kan de också avgöra om de vill att erbjudandet ska göras tillgängligt i CSP-programmet. Om de väljer att sälja erbjudandet via CSP-programmet bör CSP-partner se erbjudandet i Partnercenter Marketplace-området.
 
-När oberoende program varu leverantörer (ISV) väljer att publicera ett erbjudande i den kommersiella marknads platsen kan de också avgöra om de vill att erbjudandet ska göras tillgängligt i CSP-programmet. Om de väljer att sälja erbjudandet via CSP-programmet bör CSP-partners se erbjudandet i Partner Center Marketplace-avsnittet.
+Om ett ISV-erbjudande inte visas som förväntat i Partnercenter kan det beror på följande:
 
-Om ett ISV-erbjudande inte visas som du förväntar dig i Partner Center kan det bero på att:
+- ISV:en valde att inte sälja erbjudandet via CSP-programmet. Vissa ISV-produkter kan till exempel ha gjorts tillgängliga i andra områden på den kommersiella marknadsplatsen (till exempel [i Microsoft AppSource](https://appsource.microsoft.com/) och [Azure Marketplace](https://azuremarketplace.microsoft.com/)), men de kanske inte visas för partner i CSP-programmet på Partner Center Marketplace.
 
-- ISV valde att inte sälja erbjudandet via CSP-programmet. Vissa ISV-produkter kan till exempel ha gjorts tillgängliga i andra områden av den kommersiella marknads platsen (till exempel i [Microsoft AppSource](https://appsource.microsoft.com/) och [Azure Marketplace](https://azuremarketplace.microsoft.com/)), men de visas inte för partner i CSP-programmet på Partner Center Marketplace.
+- ISV:en bestämde sig för att göra erbjudandet exklusivt för ett visst antal CSP-partner. Mer information om exklusiva erbjudanden finns längre fram i det här hjälpavsnittet.
 
-- ISV valde att göra erbjudandet exklusivt till endast ett SELECT-antal CSP-partner. Mer information om exklusiva erbjudanden finns längre fram i det här hjälp avsnittet.
+- Erbjudandetypen kanske inte kan användas via Partnercenter eller Azure Portal (t.ex. containrar eller vissa användningsbaserade erbjudanden).
 
-- Erbjudande typen kanske inte går att använda i ett läge genom Partner Center eller Azure Portal (t. ex. behållare eller vissa användnings erbjudanden).
+- Faktureringsland för dina associerade kunder kanske inte stöds för det här ISV-erbjudandet.
 
-- Fakturerings landet för dina associerade kunder kanske inte stöds för det här ISV-erbjudandet.
+## <a name="view-marketplace-offers-in-partner-center"></a>Visa Marketplace-erbjudanden i Partnercenter
 
-## <a name="view-marketplace-offers-in-partner-center"></a>Visa Marketplace-erbjudanden i Partner Center
+Så här visar du tillgängliga erbjudanden på den kommersiella marknadsplatsen i CSP-programmet:
 
-För att visa tillgängliga kommersiella Marketplace-erbjudanden i CSP-programmet:
+1. Logga in på instrumentpanelen [i Partnercenter](https://partner.microsoft.com/dashboard)och välj **CSP** på den vänstra navigeringsmenyn.
 
-1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard)och välj **CSP** i den vänstra navigerings menyn.
+2. Välj **Sälj** följt av **Marketplace.** Som standard visas produkter av alla typer och kategorier.
 
-2. Välj **Sälj**, följt av **Marketplace**. Som standard visas produkter av alla typer och kategorier.
+3. Välj ett filter efter typ eller kategori. Du kan också använda **Sök för** att hitta specifika nyckelord, erbjudandenamn eller namnen på ISV-utgivare.
 
-3. Välj ett filter efter typ eller kategori. Du kan också använda **Sök** för att hitta vissa nyckelord, erbjudande namn eller namn på ISV-utgivare.
-
-4. Välj ett enskilt produkt erbjudande i listan. Detta tar dig till en produkt översikts flik där du kan lära dig mer om erbjudandet. Informationen på den här fliken kan vara: 
+4. Välj ett specifikt produkterbjudande i listan. Då kommer du till produktöversiktsfliken där du kan lära dig mer om erbjudandet. Informationen på den här fliken kan vara: 
 
     - En beskrivning av produkten eller erbjudandet
 
     - Mer information om ISV-utgivaren
 
-    - Länkar till dokumentation eller marknadsförings material som laddas upp av ISV-utgivaren
+    - Länkar till dokumentation eller marknadsföringsmaterial som laddats upp av ISV-utgivaren
 
-    - Andra möjliga ISV-kontakter för kund support, teknik eller en kontakt för CSP-programmet
+    - Andra möjliga ISV-kontakter för kundsupport, teknik eller en kontakt för CSP-programmet
 
-5. Om du vill se mer information om erbjudanden, SKU: er eller priser för erbjudandet väljer du fliken **abonnemang + prissättning** . På den här fliken visas:
+5. Om du vill se mer information om ett erbjudandes tillgängliga planer, SKU:er eller priser väljer du **fliken Planer +** priser. På den här fliken visas:
 
     - De marknader där det här erbjudandet är tillgängligt för dig
 
-    - En lista över SKU: er eller planer som är tillgängliga för erbjudandet
+    - En lista över SKU:er eller planer som är tillgängliga för erbjudandet
 
-    - Prissättning för varje SKU eller abonnemang som är tillgängligt
+    - Prissättning för varje tillgänglig SKU eller plan
 
-## <a name="view-marketplace-offers-via-partner-center-apis"></a>Visa Marketplace-erbjudanden via API: er för partner Center
+## <a name="view-marketplace-offers-via-partner-center-apis"></a>Visa Marketplace-erbjudanden via Partner Center-API:er
 
-CSP-programpartner kan också använda API: er för att returnera en lista över berättigade erbjudanden. Berättigade erbjudanden är bara de SaaS ISV-erbjudanden som är tillgängliga för partnern att sälja via partner Center Marketplace. För partner som använder API: er för att identifiera erbjudanden i katalogen, se rikt linjerna för att [få en lista över erbjudanden för en marknad](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market).
+CSP-programpartner kan också använda API:er för att returnera en lista över berättigade erbjudanden. Berättigade erbjudanden är endast de SaaS ISV-erbjudanden som är tillgängliga för partnern att sälja via Partner Center Marketplace. För partner som använder API:er för att identifiera erbjudanden i katalogen kan du gå till vägledningen för [att hämta en lista över erbjudanden för en marknad.](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market)
 
-## <a name="view-the-latest-marketplace-offer-pricing-in-partner-center"></a>Visa den senaste prissättningen för Marketplace i Partner Center
+## <a name="view-the-latest-marketplace-offer-pricing-in-partner-center"></a>Visa de senaste priserna för Marketplace-erbjudanden i Partnercenter
 
-Följ de här stegen för de senaste pris uppgifter som är associerade med ett erbjudande:
+Följ de här stegen för den senaste prisinformationen som är associerad med ett erbjudande:
 
-1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard)och välj **CSP** i den vänstra navigerings menyn.
+1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard)och välj **CSP** på den vänstra navigeringsmenyn.
 
-2. Välj **försäljning** följt av **priser och erbjudanden**.
+2. Välj **Sälj** följt av **Priser och erbjudanden.**
 
-3. Rulla ned till **Marketplace** -avsnittet, Välj en plats och ladda ned **Marketplace-priser**. Detta genererar ett kalkyl blad med de senaste pris uppgifterna för SaaS, licensbaserade erbjudanden och avgiftsbelagda erbjudanden som är tillgängliga från ISV-utgivare. Vissa priser för Azure-program kan också visas här. Den här informationen uppdateras varje dag, så du kan kontrol lera den efter aktuella priser så ofta som du väljer.
+3. Rulla ned till **avsnittet Marketplace,** välj en plats och ladda ned **Marketplace-priser.** Detta genererar ett kalkylblad med de senaste prisdata för SaaS, licensbaserade erbjudanden och uppmätta erbjudanden som är tillgängliga från ISV-utgivare. Vissa priser för Azure-program kan också visas här. Den här informationen uppdateras dagligen, så du kan kontrollera den för aktuella priser så ofta du väljer.
 
-4. Om en ISV-produkt innehåller en kostnads fri utvärderings period visar kalkyl bladet två rader för produkten:
+4. Om en ISV-produkt innehåller en kostnadsfri utvärderingsperiod visar kalkylbladet två rader för den produkten:
 
-    - En rad visar den kostnads fria utvärderings versionen på noll. Det innebär att en kostnads fri utvärderings period är tillgänglig.
+    - En rad visar priset för den kostnadsfria utvärderingsversionen på noll. Det innebär att en kostnadsfri utvärderingsperiod är tillgänglig.
 
-    - Den andra raden visar priset och villkoren som ska gälla när den kostnads fria utvärderings perioden är över.
+    - Den andra raden visar det pris och de villkor som gäller när den kostnadsfria utvärderingsperioden är slut.
 
-Som CSP-programpartner kan du vara berättigad till andra incitament som är kopplade till vissa kommersiella Marketplace-erbjudanden. Mer information om andra incitament finns i [stimulans guiden för CSP](https://aka.ms/partnerincentives) (kräver CSP-inloggning).
+Som CSP-programpartner kan du vara berättigad till andra incitament som är associerade med vissa erbjudanden på den kommersiella marknadsplatsen. Mer information om andra incitament finns i [CSP-incitamentguiden (kräver](https://aka.ms/partnerincentives) CSP-inloggning).
 
-## <a name="learn-about-marketplace-exclusive-offers"></a>Läs om exklusiva erbjudanden för Marketplace
+## <a name="learn-about-marketplace-exclusive-offers"></a>Läs mer om marketplace-exklusiva erbjudanden
 
-ISV: er har möjlighet att göra sina erbjudanden tillgängliga enbart för vissa partner i CSP-programmet. Detta kallas för ett exklusivt erbjudande. Alla partner i CSP-programmet kan fortfarande Visa alla ISV-erbjudanden i partner Centers kommersiella marknads platser, inklusive de som har marker ATS som exklusiva.
+ISV:er har möjlighet att endast göra sina erbjudanden tillgängliga för specifika partner i CSP-programmet. Detta kallas för ett exklusivt erbjudande. Alla partner i CSP-programmet kan fortfarande visa alla ISV-erbjudanden på den kommersiella marknadsplatsen i Partnercenter, inklusive de erbjudanden som har markerats som Exklusiva.
 
-Om ett erbjudande **inte** har marker ATS som exklusiv kan alla partner köpa det erbjudandet (förutsatt att den valda kundens fakturerings land matchar landets tillgänglighet för ISV: s erbjudande).
+Om ett erbjudande inte **är** markerat som Exklusivt kan alla partner köpa erbjudandet (förutsatt att den valda kundens faktureringsland matchar land tillgängligheten för ISV:ns erbjudande).
 
-För alla erbjudanden som marker ATS som exklusiva, kommer dock bara de partner som valts av ISV att kunna köpa det erbjudandet.
+För ett erbjudande som är markerat som Exklusivt kan dock endast de partner som väljs av ISV:en köpa erbjudandet.
 
 > [!NOTE]
-> Om du ser ett erbjudande som marker ATS som du vill sälja till dina kunder kan du kontakta ISV direkt och be om tillåtelse att sälja erbjudandet exklusivt. När du visar information om ett exklusivt erbjudande kan du se en kontakt- **ISV** -länk som du kan välja.
+> Om du ser ett erbjudande som är markerat som Exklusivt som du vill sälja till dina kunder kan du kontakta ISV direkt och be om tillstånd att sälja det exklusiva erbjudandet. När du visar information om ett exklusivt erbjudande kan du se en **kontakt-ISV-länk** som du kan välja.
 
-Läs mer om ISV-upplevelsen på den kommersiella marknads platsen genom att läsa [leverantörer av moln lösningar](/azure/marketplace/cloud-solution-providers).
+Mer information om ISV-upplevelsen på den kommersiella marknadsplatsen finns i [Molnlösningsleverantörer.](/azure/marketplace/cloud-solution-providers)
 
-Mer information om CSP-upplevelsen på Marketplace finns i [Översikt över kommersiella marknads platser](csp-commercial-marketplace-overview.md).
+Mer information om CSP-upplevelsen på marketplace finns i Översikt [över kommersiell marknadsplats.](csp-commercial-marketplace-overview.md)
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Köp kommersiella Marketplace-erbjudanden](csp-commercial-marketplace-purchase.md)
+- [Köpa erbjudanden på den kommersiella marknadsplatsen](csp-commercial-marketplace-purchase.md)

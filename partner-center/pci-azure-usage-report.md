@@ -1,5 +1,5 @@
 ---
-title: Azures användnings rapport för partner Center Insights
+title: Partner Center Insights Azure-användningsrapport
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
@@ -9,76 +9,71 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ef72aa2e44797c906cdd0a216cf2d8355668c0a9
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 0d9224e9d86c540cc463538acc435f682cdc2d58
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086217"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146858"
 ---
-# <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Azures användnings rapport som är tillgänglig från Partner Center Insights-instrumentpanelen
+# <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Azure-användningsrapport som är tillgänglig från instrumentpanelen i Partnercenter Insights
 
-**Lämpliga roller**
+**Lämpliga roller:** Globala | Administratörsagent | Rapportvisningsprogram | Visningsprogram för exekutiv rapport
 
-- Global administratör
-- Administratörs agent
-- Rapport visnings program
-- Rapport visnings program för chefer
-
-I rapporten Azure Usage visas mått som är relaterade till dina kunders Azure-prenumerationer. Den här rapporten inkluderar Azures förbruknings intäkter och användning efter mätnings kategorier. Du kan visa följande avsnitt från rapporten Azure Usage.
+Azure-användningsrapporten visar mått som rör dina kunders Azure-prenumerationer. Den här rapporten innehåller Azure-förbrukningsintäkter och -användning efter mätarkategorier. Du kan visa följande avsnitt från Azure-användningsrapporten.
 
 - Sammanfattning
-- Användning av geografi i Azure
+- Azure-användning efter geografiskt område
 - Azure-användning
 
  > [!NOTE]
- > Den här rapporten är tillgänglig från insikts instrument panelen. Om du vill visa den här rapporten måste du ha tilldelats en speciell roll i Partner Center, till exempel global administratör, konto administratör, rapport visnings program eller Executive Report Viewer. Mer information finns i företagets globala administratör. vissa typer av data i den här rapporten kan också endast vara tillgängliga för användare med behörigheten Executive Report Viewer.
+ > Den här rapporten är tillgänglig från Insights-instrumentpanelen. Om du vill visa den här rapporten måste du ha tilldelats en viss roll i Partnercenter, till exempel Global administratör, Kontoadministratör, Rapportvisare eller Rapportvisningsprogram. Mer information finns i företagets globala administratör. Specifika typer av data i den här rapporten kan också vara tillgängliga endast för användare med privilegier för visningsprogrammet för verkställande rapporter.
 
 ## <a name="summary"></a>Sammanfattning
 
-Avsnittet Sammanfattning visar en ögonblicks bild av KPI: er (nyckeltal) som relaterar till Azure-prenumerationer som säljs eller hanteras av dig för dina kunder.  
+I sammanfattningsavsnittet visas en ögonblicksbild av KPI:er (Key Performance Indicators) relaterade till Azure-prenumerationer som säljs eller hanteras av dig för dina kunder.  
 
-- Azure-prenumerationer: Aktuellt antal Azure kund prenumerationer som säljs eller hanteras av dig.
-Procentuell tillväxt eller avböja de här Azure-prenumerationerna under det valda datum intervallet.
+- Azure-prenumerationer: Aktuellt antal Azure-kundprenumerationer som säljs eller hanteras av dig.
+Procentuell tillväxt eller minskning av dessa Azure-prenumerationer under det valda datumintervallet.
 
-Micro-diagrammet presenterar en månads månads trend för antalet Azure-prenumerationer för det valda datum intervallet.
-- Aktiva Azure-prenumerationer: Aktuellt antal Azure-prenumerationer som har sålts eller hanteras av dig som haft aktiv användning under de senaste 30 dagarna.
-Procentuell tillväxt eller avböja de här prenumerationerna under det valda datum intervallet.
+Micro-diagrammet visar en månad för månad-trend för Antal Azure-prenumerationer för det valda datumintervallet.
+- Aktiva Azure-prenumerationer: Det aktuella antalet Sålda eller hanterade Azure-prenumerationer som har haft aktiv användning under de senaste 30 dagarna.
+Procentuell tillväxt eller minskning av dessa prenumerationer under det valda datumintervallet.
 
-Micro-diagrammet presenterar en månads månads trend för antalet Azure Active-prenumerationer under det valda datum intervallet.
+Micro-diagrammet visar en månad för månad-trend för antalet aktiva Azure-prenumerationer under det valda datumintervallet.
 
-- Förbrukade intäkter i Azure (ACR): total förbrukad Azure-intäkt (US $) som är tilldelad till dig under det valda datum intervallet.
-Procentuell tillväxt eller avböja av attributet ACR US $ under det valda datum intervallet. 
+- Azure-intäktsförbrukning (ACR): Totalt Azure-intäktsförbrukning (US$) som du har tilldelats under det valda datumintervallet.
+Procentuell tillväxt eller minskning av det tillskrivna ACR US$ under det valda datumintervallet. 
 
-Micro-diagrammet presenterar en månatlig trend för ACR US $ som är tilldelad till dig under den valda tids perioden
+Micro-diagrammet visar en månatlig trend för ACR US$ som du har tilldelats under den valda tidsperioden
 
 
 > [!NOTE]
- > Azures förbrukade intäkter (ACR) visas bara för användare som har tilldelats rollen Executive Report Viewer.
+ > Azure-intäktsförbrukning (ACR) är bara synligt för användare som har tilldelats rollen som visningsprogram för chefsrapport.
 
-:::image type="content" source="images/pci/pci-azure-usage-summary-1.png" alt-text="Översikt över Azure-användning":::
+:::image type="content" source="images/pci/pci-azure-usage-summary-1.png" alt-text="Sammanfattning av Azure-användning":::
 
-## <a name="azure-usage-by-geography"></a>Användning av geografi i Azure
+## <a name="azure-usage-by-geography"></a>Azure-användning per geografiskt område
 
-Vyn **för Azure-användning per geografi** visar den geografiska distributionen av Azures förbruknings intäkter (ACR US $) eller användnings timmar för alla eller valda Azure Service nivå/meter-kategorier. Ljusare färger på kartan representerar lägre värden, medan mörkare färger representerar högre värden. Du kan söka efter och välja ett land i rutnätet för att zooma till 
+Vyn **Azure-användning per geografi** visar den geografiska fördelningen av Azure-förbrukningsintäkter (ACR US$) eller användningstimmar för alla eller valda Azure-tjänstnivå-/mätarkategorier. Ljusare färger på kartan representerar lägre värden, medan mörkare färger representerar högre värden. Du kan söka efter och välja ett land i rutnätet för att zooma till 
 
-Tabellen **land/region** visar det totala antalet länder/regioner där Azures användnings händelser genereras.
+I **tabellen Antal länder/regioner** visas det totala antalet länder/regioner där Azure-användningshändelser genereras.
 
-Du kan söka efter och välja ett land i rutnätet för att zooma till platsen i kartan. Välj alternativet **Start** på kartan för att återgå till den ursprungliga vyn.
+Du kan söka efter och välja ett land i rutnätet för att zooma till platsen på kartan. Välj alternativet **Start** på kartan för att återgå till den ursprungliga vyn.
 
-:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Användning av geografi i Azure":::
+:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Azure-användning per geografiskt område":::
 
 ## <a name="azure-utilization"></a>Azure-användning
 
-I den här vyn visas trender per månads användning av Azure-förbrukning eller användnings timmar för de valda kategorierna för Azure Service nivå/meter. 
+Den här vyn visar trender för Azure-förbrukningsintäkter eller användningstimmar per månad efter valda Azure-tjänstnivå-/mätarkategorier. 
 
-I stapeldiagrammet visas en trend för månads intäkterna/förbrukning per timme. Linje diagrammet presenterar tillväxt trenden jämfört med föregående månad för de valda kategorierna för Azure Service nivå/meter.
+Stapeldiagrammet visar trenden för månatliga intäkter/användningstimmar. Linjediagrammet visar tillväxttrenden jämfört med föregående månad för de valda Azure-kategorierna för servicenivå/mätare.
 
-:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Användnings användning i Azure":::
+:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Användning av Azure":::
 
 ## <a name="next-steps"></a>Nästa steg
 
-- Mer information finns i [partner Center Insights](partner-center-insights.md).
+- Fler rapporter finns i [Partner Center Insights](partner-center-insights.md).
 
 >[!NOTE] 
-> Du kan ladda ned rå data från den här rapporten från avsnittet hämta rapporter på instrument panelen insikter. [Läs mer](pci-download-reports.md) 
+> Du kan ladda ned rådata som driver den här rapporten från avsnittet Ladda ned rapporter på instrumentpanelen Insights. [Läs mer](pci-download-reports.md) 

@@ -1,6 +1,6 @@
 ---
 title: Stöd för flera kanaler för kunder
-description: I vissa fall kanske kunderna vill anställa dig för att etablera och stödja en prenumeration som de har köpt någon annan stans.
+description: I vissa fall kanske kunderna vill anlita dig för att etablera och stödja en prenumeration som de har köpt någon annanstans.
 ms.topic: article
 ms.date: 06/17/2020
 ms.service: partner-dashboard
@@ -9,43 +9,37 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9bf577b6869a8b48215cb404df872d79f38e6a5e
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: bd0bb946c2f59f50c27aff58569d497bc21bf30b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441990"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146416"
 ---
-# <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>Stöd för flera kanaler – använda andra partner för att stödja kund prenumerationer som köpts någon annan stans
+# <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>Stöd för flera kanaler – använda andra partner för att stödja kundprenumerationer som köpts någon annanstans
 
-**Gäller för**
+**Gäller för:** Partner Center-| Partnercenter för Microsoft Cloud for US Government
 
-- Välkommen till Partnercenter för Microsoft Cloud for US Government
+**Lämpliga roller:** Globala | Administratörsbehörighet för | Försäljningsagent
 
-**Lämpliga roller**
+Partnercenter-funktionen för flera kanaler stöder scenarier när en kund vill anlita en partner för att hantera och stödja en prenumeration som de har köpt någon annanstans. Stöd för flera kanaler gäller när kunden:
 
-- Global administratör
-- Administratör för användar hantering
-- Försäljnings agent
+- Redan köpta prenumerationer direkt från Microsoft eller via Advisor-, Open- eller EA-programmen.
 
-Partner Centers Multi-Channel-funktion stöder scenarier när en kund vill anlita en partner för att hantera och stödja en prenumeration som de har köpt någon annan stans. Stöd för flera kanaler gäller när kunden:
-
-- Prenumerationer som redan har köpts direkt från Microsoft eller via Advisor-, Open-eller EA-program.
-
-- Har köpt prenumerationerna från en tredje part som inte är i Cloud Solution Provider-programmet eller inte en Microsoft-syndikerings partner. Kunder kan inte byta ut befintliga licensbaserade prenumerationer till en annan partner i Cloud Solution Provider-programmet – de måste vänta till slutet av prenumerations perioden eller avbryta innan de flyttas.
+- Köpt prenumerationerna från en tredje part som inte Molnlösningsleverantör programmet eller inte en Microsoft Syndication-partner. Kunder kan inte byta befintliga licensbaserade prenumerationer till en annan partner i Molnlösningsleverantör program – de måste vänta till slutet av prenumerationsperioden eller avbryta innan de flyttar.
 
 |För att stödja dessa tjänster  | Gör så här: |
 |:---------|:---------|
-|Licensbaserade tjänster    | Om du vill ge stöd för konton med flera kanaler måste du begära behörigheter från kunden för att kunna hantera sina prenumerationer. Mer information finns i [begära en åter försäljares relation med en kund](request-a-relationship-with-a-customer.md).   |
-|Användnings tjänster     |  För en kund som redan har en prenumeration på Microsoft Azure från en annan kanal, till exempel Advisor, Open eller EA, måste du skapa en ny Azure-prenumeration i Partner Center, manuellt ange prenumerations informationen och sedan avbryta de enskilda tjänsterna eller hela prenumerationen. Azure CSP kan samverka med olika kanaler.<br/><br/> För en kund som redan har en prenumeration på Microsoft Azure från en annan partner kan du till exempel byta Azure-tjänster till den andra partnern.  Mer information finns i [byta Azure-prenumerationer till en annan partner](switch-azure-subscriptions-to-a-different-partner.md). |
+|Licensbaserade tjänster    | Om du vill ge stöd för konton med flera kanaler måste du begära behörighet från kunden för att hantera deras prenumerationer. Mer information finns i Begär [en återförsäljarrelation med en kund](request-a-relationship-with-a-customer.md).   |
+|Användningsbaserade tjänster     |  För en kund som redan har en prenumeration på Microsoft Azure från en annan kanal, till exempel Advisor, Open eller EA, måste du skapa en ny Azure-prenumeration i Partnercenter, manuellt ange prenumerationsinformationen och sedan avbryta de enskilda tjänsterna eller hela prenumerationen. Azure CSP kan samexistera med olika kanaler.<br/><br/> För en kund som redan har en prenumeration på Microsoft Azure från en annan partner kan du till exempel byta Azure-tjänster till den andra partnern.  Mer information finns i Växla [Azure-prenumerationer till en annan partner.](switch-azure-subscriptions-to-a-different-partner.md) |
 
 > [!IMPORTANT]  
-> En CSP-partner kan för närvarande inte sälja onlinetjänster till en annan CSP-partner. Microsoft granskar kontinuerligt principer och funktioner i alla program. Eventuella meddelanden om funktions versioner kommer att meddelas via de vanligaste kommunikations kanalerna, inklusive Partner Center.
+> En CSP-partner kan för närvarande inte sälja onlinetjänster till en annan CSP-partner. Microsoft granskar kontinuerligt principer och funktioner i alla program. Alla meddelanden om funktionsutgåningar kommer att meddelas via de vanliga kommunikationskanalerna, inklusive Partnercenter.
 
 ## <a name="next-steps"></a>Nästa steg
 
 [Arbeta med andra partner](work-with-other-partners.md)
 
-- Om du är en indirekt åter försäljare, se [partner med indirekta leverantörer](indirect-reseller-tasks-in-partner-center.md).
+- Om du är en indirekt återförsäljare kan du gå till [Partner with indirect providers (Partner med indirekta leverantörer).](indirect-reseller-tasks-in-partner-center.md)
 
-- Om du är en indirekt Provider, se [partner med indirekta åter försäljare](indirect-provider-tasks-in-partner-center.md).
+- Om du är en indirekt leverantör kan du gå [till Partner with indirect resellers (Partner med indirekta återförsäljare).](indirect-provider-tasks-in-partner-center.md)

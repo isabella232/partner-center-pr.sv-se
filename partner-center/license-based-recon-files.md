@@ -9,25 +9,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 117acfa8c50496ddaa75789b2bb3f55c642e4fe6
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 041f0fadfea107027ae1d9796d235700e66e6834
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702917"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146586"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Förstå fälten i partnercenters licensbaserade avstämningsfiler
 
-**Gäller för**
+**Gäller för**: Partner Center-| Partnercenter för Microsoft Cloud for US Government
 
-- Välkommen till Partnercenter för Microsoft Cloud for US Government
-
-**Lämpliga roller**
-
-- Global administratör
-- Administratör för användarhantering
-- Faktureringsadministratör
-- Administratörsagent
+**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Faktureringsadministratörskonto | Administratörsagent
 
 Om du vill stämma av ändringarna mot en kunds beställningar jämför **du Syndication_Partner_Subscription_Number** från avstämningsfilen mot **prenumerations-ID:t** från Partnercenter.
 
@@ -41,7 +34,7 @@ Om du vill stämma av ändringarna mot en kunds beställningar jämför **du Syn
 | MpnId | MPN-identifierare för CSP-partnern. Se [hur du specificerar efter partner](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
 | ResellerMpnId | MPN-identifierare för återförsäljaren av posten för prenumerationen.  |
 | OrderId | Unik identifierare för en beställning på Microsofts faktureringsplattform. Kan vara användbart för att identifiera beställningen när du kontaktar supporten. Används inte för avstämning. | *566890604832738111* |
-| SubscriptionId | Unik identifierare för en prenumeration på Microsofts faktureringsplattform. Kan vara användbart för att identifiera prenumerationen när du kontaktar supporten. Används inte för avstämning. *Det här värdet är inte samma som **prenumerations-ID:t** i partneradministratörskonsolen. Se **SyndicationPartnerSubscriptionNumber i** stället.* | *usCBMgAAAAAAIA* |
+| SubscriptionId | Unik identifierare för en prenumeration på Microsofts faktureringsplattform. Kan vara användbart för att identifiera prenumerationen när du kontaktar supporten. Används inte för avstämning. *Det här värdet är inte samma som **prenumerations-ID:t** i partneradministratörskonsolen. Se **SyndicationPartnerSubscriptionNumber i** stället.* | *usCBMgAAAAAAAIA* |
 | SyndicationPartnerSubscriptionNumber | Unik identifierare för prenumerationer. En kund kan ha flera prenumerationer för samma plan. Den här kolumnen är viktig för avstämningsfilanalys. Det här fältet mappar till **prenumerations-ID:t** i partneradministratörskonsolen. | *fb977ab5-test-test-test-24c8d9591708* |
 | OfferId | Unikt erbjudande-ID. Standarderbjudandeidentifierare enligt definitionen i prislistan. *Det här värdet matchar inte **erbjudande-ID** från prislistan. Se **DurableOfferID i** stället.* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
 | DurableOfferId | Unik identifierare för beständigt erbjudande enligt definitionen i prislistan. *Det här värdet matchar **erbjudande-ID** från prislistan.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
@@ -50,8 +43,8 @@ Om du vill stämma av ändringarna mot en kunds beställningar jämför **du Syn
 | SubscriptionEndDate | Prenumerationens slutdatum i UTC. Tiden är alltid början på dagen, 0:00. Antingen *12 månader **plus x*** dagar efter startdatumet för att justera med partnerns faktureringsdatum eller *12 månader från förnyelsedatumet.* Vid förnyelse uppdateras priserna till den aktuella prislistan. Kundkommunikation kan krävas i förväg för automatisk förnyelse. | *2/1/2019 0:00* |
 | ChargeStartDate | Startdag för avgifterna. Tiden är alltid början på dagen, 0:00. Används för att beräkna dagliga avgifter *(proportionella* avgifter) när en kund ändrar licensnummer. | *2/1/2019 0:00* |
 | ChargeEndDate | Slutdag för avgifterna. Tiden är alltid dagens slut, 23:59. Används för att beräkna dagliga avgifter *(proportionella* avgifter) när en kund ändrar licensnummer. | *2/28/2019 23:59* |
-| ChargeType | Typ [av avgift eller](recon-file-charge-types.md) justering. | Se [avgiftstyper.](recon-file-charge-types.md) |
-| UnitPrice | Pris per licens, enligt publiceringen i prislistan vid tidpunkten för köpet. Se till att detta matchar den information som lagras i ditt faktureringssystem under avstämningen. | *6.82* |
+| ChargeType | Typ [av avgift eller](recon-file-charge-types.md) justering. | Se [avgiftstyper](recon-file-charge-types.md). |
+| UnitPrice | Pris per licens, enligt publicering i prislistan vid tidpunkten för köpet. Se till att detta matchar den information som lagras i ditt faktureringssystem under avstämningen. | *6.82* |
 | Kvantitet | Antal licenser. Se till att detta matchar den information som lagras i ditt faktureringssystem under avstämningen. | *2* |
 | Amount | Totalt pris för kvantitet. Används för att kontrollera om beloppsberäkningen matchar hur du beräknar det här värdet för dina kunder. | *13.32* |
 | TotalOtherDiscount | Rabattbelopp som tillämpas på dessa avgifter. Produktlicenser som ingår i en kompetens eller MAPS, eller nya prenumerationer som är berättigade till ett incitament, innehåller också ett rabattbelopp i den här kolumnen. | *2.32* |

@@ -9,22 +9,18 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 01/22/2021
-ms.openlocfilehash: ae39190e47b48a69e103da6d899b11c224a56d22
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: c4e1459b71016718533d02953691065332c4ad13
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686151"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147351"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Tillhandahålla olika typer av support till dina kunder
 
-**Gäller för**
+**Gäller för**: Partner Center-| Partnercenter för Microsoft Cloud for US Government
 
-- Välkommen till Partnercenter för Microsoft Cloud for US Government
-
-**Lämpliga roller**
-
-- Hjälpagent
+**Lämpliga roller:** Hjälpagent
 
 ## <a name="microsoft-partner-support-guidance"></a>Supportvägledning för Microsoft-partner
 
@@ -32,7 +28,7 @@ Partner som gör i CSP-modellen är betrodda rådgivare för sina kunder och, om
 
 För att uppfylla supportkravet kan du sälja support från ett annat företag, lägga ut hela eller delar av supportstrukturen och/eller konfigurera en struktur för att tillhandahålla support direkt. Du kan debitera för hela eller en del av den support som tillhandahålls till kunder. Var noga med att berätta för kunderna vilka typer av support du kommer att tillhandahålla, servicetimmar, kontaktmetod och priser (om du debiteras för support).
 
-CSP-kunder kan inte själva skapa supportärenden. De måste kontakta dig för att få support. CSP-partner måste ta emot inkommande supportförfrågningar från sina kunder, diagnostisera problem efter behov och sedan lösa problem som ligger inom ramen för baslinjens supportgränser. Om du inte kan lösa ett problem kan du eskalera problem till Microsoft via följande supportfordon:
+CSP-kunder kan inte själva skapa supportärenden. De måste kontakta dig för support. CSP-partner måste ta emot inkommande supportförfrågningar från sina kunder, diagnostisera problem efter behov och sedan lösa problem som ligger inom ramen för baslinjens supportgränser. Om du inte kan lösa ett problem kan du eskalera problem till Microsoft via följande supportfordon:
 
 - **Stöd** för kommersiella problem är tillgängligt för alla partner i CSP-programmet
 

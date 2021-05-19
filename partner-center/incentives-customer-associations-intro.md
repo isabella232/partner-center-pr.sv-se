@@ -1,6 +1,6 @@
 ---
 title: Översikt över CPOR-associationer
-description: Läs om resurser för partner som behöver associera kunder till vissa incitaments program via CPOR-modellen (anspråks partner).
+description: Läs mer om resurser för partner som behöver koppla kunder till specifika incitamentsprogram via Claiming Partner of Record (CPOR).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
@@ -8,51 +8,48 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 24c439d1c90663130e1676e8ceb6d503be5ea30d
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 1895f89933668e909748178dcdaf4a54e4843096
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179198"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146790"
 ---
-# <a name="use-these-resources-to-make-customer-association-claims-for-specific-incentives-programs"></a>Använd dessa resurser för att göra kund associerings anspråk för specifika incitaments program
+# <a name="use-these-resources-to-make-customer-association-claims-for-specific-incentives-programs"></a>Använd dessa resurser för att göra kundassociatytanspråk för specifika incitamentsprogram
 
-**Lämpliga roller**
-
-- Incitaments administratör
-- Incitaments användare
+**Lämpliga roller:** Incitamentsadministratörsroller | Incitamentsanvändare
 
 Den här artikeln delar resurser för Microsoft-partner som uppfyller följande kriterier:
 
-- Du är en del av följande Microsoft-incitament: Online Services Advisory (OSA) Sälj, Online Services Usage (OSU)-Microsoft 365 och OSU-Business program incitament.
+- Du ingår i följande Microsoft-incitamentsprogram: Online Services Advisory (OSA) Sell, Online Services Usage (OSU)-Microsoft 365 och OSU-Business Application incentives.
 
-- Du arbetar med Microsoft 365-eller Dynamics 365-kunder och vill referera till eller göra anspråk på en del av det här arbetet i de här stimulans programmen.
+- Du arbetar med Microsoft 365- eller Dynamics 365-kunder och vill referera till eller göra anspråk på en del av det här arbetet i ovanstående incitamentprogram.
 
-Om du uppfyller villkoren måste du använda CPOR-modellen (anspråks partner) för att skapa och hantera kund associationer för dessa incitaments program.
+Om du uppfyller kriterierna måste du använda CPOR-modellen (Claiming Partner of Record) för att skapa och hantera kundassociationer för dessa incitamentsprogram.
  
-## <a name="how-do-customer-associations-and-cpor-relate-to-incentives"></a>Hur relaterar kund associationer och CPOR till incitament?
+## <a name="how-do-customer-associations-and-cpor-relate-to-incentives"></a>Hur relaterar kundassociationer och CPOR till incitament?
 
-Microsoft använder nu CPOR-modellen (anspråks partner för Record) för att hantera de associationer du har med dina Microsoft 365-och Dynamics 365-kunder.
+Microsoft använder nu CPOR-modellen (Claiming Partner of Record) för att hantera de associationer som du har med dina Microsoft 365- och Dynamics 365-kunder.
 
-Den här modellen gäller för ditt arbete med kunder i följande incitaments program: Online Services Advisory (OSA) Sälj, Online Services Usage (OSU)-Microsoft 365 och OSU-Business program incitament.
+Den här modellen gäller för ditt arbete med kunder i följande incitamentsprogram: Online Services Advisory (OSA) Sell, OSU (Online Services Usage)-Microsoft 365 och OSU-Business Application-incitament.
 
-Microsoft verifierar alla incitaments anspråk.
+Microsoft validerar alla incitamentsanspråk.
 
-Vi kan nu be dig om mer information. Vi meddelar även kunden om din associerings förfrågan. Kunder har fem arbets dagar för att avanmäla sig. Om de inte avanmäler sig, kommer din Association med den här klient organisationen och arbets belastningen att bli officiell.
+Nu kan vi be dig om mer information. Vi meddelar även kunden om din associationsbegäran. Kunder har fem arbetsdagar på sig att avanmäla sig. Om de inte avanmäler sig blir din koppling till den här specifika klientorganisationen och arbetsbelastningen officiell.
 
-Genom att acceptera din begäran om Association ger kunden dig åtkomst till vissa av sina data så att du kan tillhandahålla hanterings tjänster för dem. 
+Genom att godkänna din begäran om association ger kunden dig åtkomst till vissa av deras data så att du kan tillhandahålla hanteringstjänster till dem. 
 
-## <a name="resources-to-help-you-create-and-manage-customer-associations"></a>Resurser som hjälper dig att skapa och hantera kund kopplingar
+## <a name="resources-to-help-you-create-and-manage-customer-associations"></a>Resurser som hjälper dig att skapa och hantera kundassociationer
 
-I artiklarna nedan visas hur du skapar, hanterar och felsöker kund kopplingar.
+Artiklarna nedan visar hur du skapar, hanterar och felsöker kundassociationer.
 
-|  **För att göra detta**  |  **Läs detta**  |
+|  **Så här gör du**  |  **Läs detta**  |
 |--------------|-----------|
-| Lär dig hur du skapar en kund koppling  | [Skapa en kund koppling med CPOR-modellen](submit-osa-claim.md)  |
-|Förstå hur du hanterar dina kund kopplingar  | [Hantera kundassociationer](incentives-manage-customer-associations.md)  |
-|Felsöka eventuella kund kopplings problem  | [Problem med kundassociationer](incentives-customer-association-issues.md)  |
+| Lär dig hur du skapar en kundassociaty  | [Skapa en kundassociaty med hjälp av CPOR-modellen](submit-osa-claim.md)  |
+|Förstå hur du hanterar dina kundassociationer  | [Hantera kundassociationer](incentives-manage-customer-associations.md)  |
+|Felsöka eventuella problem med kundassociatyer  | [Problem med kundassociationer](incentives-customer-association-issues.md)  |
 
 ## <a name="next-steps"></a>Nästa steg
 
-- Nytt att incitament? Identifiera vad du behöver för att [komma igång](incentives-get-started-intro.md)
-- Lär dig mer om att [uppmuntra samop-anspråk](claims-overview.md)
+- Är incitament nytt för dig? Upptäck vad du behöver för att [komma igång](incentives-get-started-intro.md)
+- Läs mer om [co-op-anspråk för incitament](claims-overview.md)

@@ -1,6 +1,6 @@
 ---
 title: Hantera säljsamarbetsanspråk
-description: Förstå den samordnade anspråks processen, inklusive deadlines, valuta problem och hur man ifrågasätter ett avvisat samop-anspråk.
+description: Förstå co-op-anspråksprocessen, inklusive tidsgränser, valutaproblem och hur du bestrider ett avvisat co-op-anspråk.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
@@ -8,38 +8,36 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 10/29/2020
-ms.openlocfilehash: 29e67bbeca2b136146a1d9d1ee7eef4d0f9d3b0c
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 952a6b327dd31b1155efe3c08bb52f9b300b0a93
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179164"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146773"
 ---
-# <a name="manage-incentives-co-op-claims"></a>Hantera incitaments samordnings anspråk
+# <a name="manage-incentives-co-op-claims"></a>Hantera co-op-anspråk för incitament
 
-**Lämpliga roller**
+**Lämpliga roller:** Incitamentsadministratör
 
-- Incitaments administratör
+Följande innehåll ger dig information för att hantera co-op-anspråk, inklusive tidslinjer, regler och hur du bestrider ett avvisat co-op-anspråk.
 
-Följande innehåll ger dig information om hur du hanterar samop-anspråk, inklusive tids linjer, regler och hur du ifrågasätter ett avvisat samop-anspråk.
+## <a name="co-op-claims-approval-and-payment-deadlines"></a>Godkännande av co-op-anspråk och tidsgränser för betalning
 
-## <a name="co-op-claims-approval-and-payment-deadlines"></a>Godkännande av samordnade anspråk och betalnings deadlines
+### <a name="when-will-my-co-op-claim-be-approved"></a>När godkänns mitt co-op-anspråk?
 
-### <a name="when-will-my-co-op-claim-be-approved"></a>När ska mitt co-op-anspråk godkännas?
-
-Co-op-anspråk granskas inom två arbets dagar efter att de har skickats. När de bedöms vara giltiga kommer de att ställas in på godkänd status.  
+Co-op-anspråk granskas inom två arbetsdagar efter att de har skickats. När de anses vara giltiga anges de till Godkänd-status.  
 
 Följande är de olika möjliga statusarna för dina co-op-anspråk.
 
 - Skickad
 - Under granskning
-  - Microsoft kommer att slutföra sin granskning inom två arbets dagar efter det att anspråket har skickats. Kontakta [supporten](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)om status är under granskning i mer än två dagar.
+  - Microsoft slutför sin granskning inom två arbetsdagar från det att anspråket skickades. Om din status är under granskning i mer än två dagar kontaktar du [supporten.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
 - Åtgärd som krävs
 - Redigering
 - Godkända
 - Avslagen
 
-## <a name="co-op-claim-payments"></a>Anspråk på samop-anspråk
+## <a name="co-op-claim-payments"></a>Betalningar av co-op-anspråk
 
 ### <a name="when-will-i-get-the-payment-for-the-approved-co-op-claim"></a>När får jag betalningen för det godkända gemensamma anspråket?
 
@@ -53,17 +51,17 @@ När gemensamma medel intjänas från olika Microsoft-enheter görs betalningar 
 
 Varje incitamentsprogram har en bankprofil som har skapats vid installationen. Den valuta som anges i profilen är den valuta du får betalt i.
 
-## <a name="rejected-co-op-claims"></a>Avvisade samop-anspråk
+## <a name="rejected-co-op-claims"></a>Avvisade co-op-anspråk
 
-Om det material som du skickade in med ditt co-op-anspråk bedöms vara otillräckligt så avvisas din begäran. Du kan se orsaken till avvisningen i fältet **Historik** på sidan för co-op-anspråket. Följ stegen nedan om du vill ifrågasätta avvisningen:
+Om det material som du skickade in med ditt co-op-anspråk bedöms vara otillräckligt så avvisas din begäran. Du kan se orsaken till avvisningen i fältet **Historik** på sidan för co-op-anspråket. Använd följande procedur för att bestrida avvisningen:
 
 ### <a name="dispute-a-rejected-co-op-claim"></a>Bestrida ett avvisat co-op-anspråk
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 
-2. Under **incitament** väljer du **co-op Management**.
+2. Under **Incitament** väljer **du Samhantering.**
 
-3. Välj det co-op-anspråk som du vill bestrida. Sidan co-op-anspråk öppnas.
+3. Välj det co-op-anspråk som du vill bestrida. Sidan för co-op-anspråk öppnas.
 
 4. Välj alternativet för att **bestrida** anspråket längst ned på sidan.
 

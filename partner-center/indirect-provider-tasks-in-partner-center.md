@@ -1,6 +1,6 @@
 ---
-title: Partner med indirekta åter försäljare i CSP
-description: Som en indirekt provider eller distributör lär du dig att utöka genom att samar beta med indirekta åter försäljare. Detta omfattar uppgifter som du kan utföra i Partner Center.
+title: Samarbeta med indirekta återförsäljare i CSP
+description: Som indirekt leverantör eller distributör kan du lära dig att expandera genom att samarbeta med indirekta återförsäljare. Detta omfattar uppgifter som du kan utföra i Partnercenter.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,170 +9,165 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: 6ba6fce58df6ab6047a5ec6e7c46e1538b49756d
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: bd11b65fb1f11839cba50d8bc1da94668009c56c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106178960"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146688"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Samarbeta med indirekta återförsäljare i programmet Cloud Solution Provider
 
-**Lämpliga roller**
+**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Administratörsagent | Försäljningsagent
 
-- Global administratör
-- Administratör för användar hantering
-- Administratörs agent
-- Försäljnings agent
+Med en sådan komplex och snabbt föränderlig teknikmarknad vill kunderna ha den konkurrens som tekniklösningarna kan ge dem. I ett sådant klimat är det klokt för partner att investera i partner-till-partner-engagemang för att utöka erbjudanden och göra det möjligt för kunder att göra ännu mer.
 
-Med en sådan komplicerad och snabbt föränderlig teknik Marketplace vill kunderna att de ska kunna erbjuda den konkurrens kraftiga gränsen för teknik lösningar. I ett sådant klimat är det klokt för partner att investera i partner till partner engagemang för att utöka erbjudandena och göra det möjligt för kunderna att göra ännu mer.
+Nya återförsäljare kommer ut på marknaden och söker sätt att erbjuda sina lösningar till kunder utanför deras marknader och platser. Som etablerad teknikleverantör är du väl positionerad att vara deras väg till marknaden. Samarbeta med indirekta återförsäljare i Molnlösningsleverantör-programmet (CSP) för att ansluta till andra partner, få nya lösningar på marknaden och påskynda kundernas implementering av molntjänster.
 
-Nya åter försäljare förs in på marknaden och söker efter sätt att erbjuda sina lösningar till kunder utanför sina marknader och nationella inställningar. Som en etablerad teknik leverantör är det bra att vara väl placerad till marknads vägen. Partner med indirekta åter försäljare i leverantören av moln lösnings leverantörer (CSP) för att ansluta till andra partner, få nya lösningar på marknaden och fortsätta kundernas antagande av moln tjänster.
+I modellen med indirekt leverantörsåterförsäljare (två nivåer) samarbetar du med indirekta återförsäljare för att erbjuda Microsofts molnlösningar till kunder. Du köper produkter och prenumerationer direkt från Microsoft och erbjuder sedan dessa lösningar till kunder via dina återförsäljare.
 
-I modellen för indirekt Provider-åter försäljare (två nivåer) samarbetar du med indirekta åter försäljare för att erbjuda kunderna Microsofts moln lösningar. Du köper produkter och prenumerationer direkt från Microsoft och erbjuder sedan dessa lösningar till kunder via dina åter försäljare.
+Som indirekt leverantör använder du Partnercenter för att:
 
-Som en indirekt leverantör använder du Partner Center för att:
+- Kontakta indirekta återförsäljare som kan hjälpa dig att utöka din räckvidd och kundbas
 
-- Anslut till indirekta åter försäljare som kan hjälpa dig att utöka din räckvidd och kund basen
+- Upprätta partnerskap med indirekta återförsäljare som gör att ni båda kan betjäna vanliga kunder
 
-- Upprätta partnerskap med indirekta åter försäljare som gör det möjligt för båda att betjäna vanliga kunder
+- Utse indirekta återförsäljare för att hantera specifika kunder och prenumerationer
 
-- Ange indirekta åter försäljare för att hantera vissa kunder och prenumerationer
+- Hantera dina relationer med Microsoft, kunder och indirekta återförsäljare på ett och samma ställe
 
-- Hantera dina relationer med Microsoft, kunder och indirekta åter försäljare på ett och samma ställe
-
-Information om vad som krävs för att delta i CSP-programmet som en indirekt åter försäljare finns i [komma igång som en indirekt åter försäljare](https://partner.microsoft.com/membership/cloud-solution-provider/) på den [Microsoft Partner Network webbplatsen](https://partner.microsoft.com).
+Information om vad som krävs för att delta i CSP-programmet som en indirekt återförsäljare finns i [Kom igång](https://partner.microsoft.com/membership/cloud-solution-provider/) som en indirekt återförsäljare [på Microsoft Partner Network webbplats.](https://partner.microsoft.com)
 
 ## <a name="indirect-provider-tasks-in-the-partner-center"></a>Uppgifter för indirekt leverantör i Partner Center
 
-Utför följande steg för att upprätta och hantera ditt partnerskap med indirekta åter försäljare och kunder. Steg 2 och 3 beskrivs i detalj nedan.
+Slutför följande steg för att upprätta och hantera ditt partnerskap med indirekta återförsäljare och kunder. Steg 2 och 3 beskrivs i detalj nedan.
 
-1. Granska företagets profil på [Microsofts officiella lista över indirekta leverantörer](https://partnercenter.microsoft.com/partner/find-a-provider).
+1. Granska företagets profil på [Microsofts lista över officiella indirekta leverantörer.](https://partnercenter.microsoft.com/partner/find-a-provider)
 
    - Kontakta din Microsoft-representant om du vill göra ändringar i företagets profil som indirekt leverantör.
 
-2. Ansluta till indirekta åter försäljare
+2. Ansluta med indirekta återförsäljare
 
-   - Innan du kan interagera och Transact med åter försäljare måste du upprätta partnerskap med dem i Partner Center.
+   - Innan du kan interagera och interagera med återförsäljare måste du upprätta samarbeten med dem i Partnercenter.
 
 3. Få kontakt med kunder
 
-   - Koppla nya kunder och prenumerationer till åter försäljare
+   - Associera nya kunder och prenumerationer med återförsäljare
 
-   - Upprätta åter försäljarens relationer med befintliga kunder
+   - Upprätta återförsäljarrelationer med befintliga kunder
 
-När du har slutfört de här stegen kan du hantera dina åter försäljares partnerskap på sidan **indirekt åter försäljare** från menyn i **partner Center** .
+När du har slutfört de här stegen kan du hantera dina återförsäljarpartner på sidan **Indirekta återförsäljare** från menyn **i Partnercenter.**
 
 > [!IMPORTANT]
-> Innan du kan börja arbeta med åter försäljare måste de registreras som indirekta åter försäljare i CSP-programmet och ha Partner Center-konton. Peka dina åter försäljare som [partner med indirekta providers i CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) för information om registrering i CSP.
+> Innan du kan börja arbeta med återförsäljare måste de registreras som indirekta återförsäljare i CSP-programmet och ha Partner Center-konton. Peka dina återförsäljare till Partner with indirect providers in CSP (Partner med indirekta leverantörer i [CSP)](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) för information om registrering i CSP.
 
-## <a name="connect-with-indirect-resellers"></a>Ansluta till indirekta åter försäljare
+## <a name="connect-with-indirect-resellers"></a>Ansluta med indirekta återförsäljare
 
-Om du vill interagera och Transact med indirekta åter försäljare i partner centret måste du upprätta ett partnerskap med dem. Att ha ett partnerskap med en indirekt åter försäljare låter dig och åter försäljaren att båda betjäna vanliga kunder.
+Om du vill interagera och interagera med indirekta återförsäljare i Partnercenter måste du upprätta ett partnerskap med dem. Genom att ha ett samarbete med en indirekt återförsäljare kan du och återförsäljaren båda betjäna vanliga kunder.
 
-För att upprätta ett partnerskap skickar du en kopplings förfrågan till åter försäljaren. Se till att ha åter försäljarens e-postadress innan du börjar.
+För att upprätta ett partnerskap skickar du en begäran om partnerskap via e-post till återförsäljaren. Se till att du har återförsäljarens e-postadress till hands innan du börjar.
 
-På sidan prenumerations information i fältet åter försäljare (MPN-ID) lägger du till den åter försäljare som du vill arbeta med. Se till att använda det MPN-ID som är kopplat till åter försäljarens konto för partner placering som de använde för att publicera till Partner Center. Detta säkerställer att åter försäljaren får lämpliga incitament och att de har ett aktivt Microsoft partner avtal för att delta i transaktionen.
+På sidan med prenumerationsinformation går du till fältet Reseller (MPN ID) och lägger till återförsäljaren som du vill arbeta med. Se till att använda DET MPN-ID som är associerat med återförsäljarens partnerplatskonto som de använde för att registrera till Partnercenter. Detta säkerställer att återförsäljaren får lämpliga incitament och de har en aktiv Microsoft-partneravtal att delta i transaktionen.
 
-1. Välj **indirekta åter försäljare** från menyn i **partner Center** .
+1. Välj **Indirekta återförsäljare på** menyn i **Partnercenter.**
 
-2. På sidan **indirekt åter försäljare** väljer du **begär ett partnerskap**. Ett e-postmeddelande med utkast visas.
+2. På sidan **Indirekta återförsäljare väljer** du Begär ett **partnerskap.** Ett utkast av e-postmeddelande visas.
 
-3. Välj **Öppna i e-post** för att öppna meddelandet i ditt standard-e-postprogram, eller Välj **Kopiera till Urklipp** för att kopiera och klistra in meddelandet i ett e-postmeddelande. Välj **klart** när du är färdig.
+3. Välj **Öppna i e-post** för att öppna meddelandet i ditt standardprogram för e-post eller välj Kopiera till **Urklipp** för att kopiera och klistra in meddelandet i ett e-postmeddelande. Välj **Klar när** du är klar.
     > [!IMPORTANT]  
-    >  Du kan redigera texten i e-postmeddelandet, men se till att inkludera länken som den är anpassad för ditt partner Center-konto.
+    >  Du kan redigera texten i e-postmeddelandet, men se till att inkludera länken eftersom den är anpassad för ditt Partnercenter-konto.
 
-4. När åter försäljaren accepterar din kopplings förfrågan visas den i listan över indirekta åter försäljare och du kan:
+4. När återförsäljaren har accepterat din partnerbegäran visas de i listan med indirekta återförsäljare. Sedan kan du:
 
-   - Lägg till nya kunder för deras räkning
+   - Lägga till nya kunder för deras räkning
 
-   - Skicka beställningar för kundernas räkning
+   - Skicka beställningar åt sina kunder
 
-   - Koppla dem till en prenumeration så att de kan hantera dem å uppdrag av kunden som köpte den
+   - Associera dem med en prenumeration så att de kan hantera den åt kunden som köpte den
 
-   - Ange dem som kundens support kontakt för specifika prenumerationer
+   - Ange dem som kundens supportkontakt för specifika prenumerationer
 
-Du kanske vill vidta en eller flera av de åtgärder som beskrivs nedan, beroende på vilken nivå av åtkomst och inblandning du vill att åter försäljaren ska ha.
+Beroende på vilken åtkomstnivå och engagemang du vill att återförsäljaren ska ha kan du vidta en eller flera av de åtgärder som beskrivs nedan.
 
-Om du väljer att arbeta med en indirekt åter försäljare för befintliga prenumerationer kan du uppdatera prenumerations informationen för att inkludera den indirekta åter försäljaren.
+Om du väljer att arbeta med en indirekt återförsäljare för befintliga prenumerationer kan du uppdatera prenumerationsinformationen så att den indirekta återförsäljaren ingår.
 
-- På sidan prenumerations information i fältet **åter försäljare (MPN-ID)** lägger du till den åter försäljare som du vill arbeta med. Detta säkerställer att åter försäljaren får lämpliga incitament.
+- På sidan med prenumerationsinformation går du till **fältet Reseller (MPN ID) (Återförsäljare (MPN-ID)** och lägger till den återförsäljare som du vill arbeta med. Detta säkerställer att återförsäljaren får lämpliga incitament.
 
-| **För att åstadkomma detta** | **Gör så här** | **Vilken** |
+| **För att åstadkomma detta** | **Gör så här** | **Där** |
 |   ------------------   |   -------   |   -----   |
-| Gör det möjligt för åter försäljaren att hantera ett kund konto och ha administratörs behörighet för att hantera sina prenumerationer | Koppla en åter försäljare till ett kund konto när du lägger till en ny kund | På sidan **ny kund** |
-| Aktivera åter försäljaren för att hantera en Azure-kunds konto|Koppla en åter försäljare till ett Azure-kundkonto när du lägger till en ny kund|På **Azure Service Portal** väljer du [användar inställningar](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) för att ge den indirekta åter försäljaren behörighet för **klient organisations ägare**|
-| Ge åter försäljaren kredit för incitament | Koppla åter försäljaren till prenumerationen (ny eller befintlig) | På sidan **ny prenumeration** |
-| Delegera kund support för specifika prenumerationer till åter försäljaren | Välj åter försäljaren från den **angivna support kontakt** listan | På prenumerationens informations sida: Välj kunden från sidan **kunder** och välj sedan prenumerationen på kundens **prenumerations** sida |
+| Gör det möjligt för återförsäljaren att hantera ett kundkonto och ha administratörsbehörighet för att hantera sina prenumerationer | Associera en återförsäljare med ett kundkonto när du lägger till en ny kund | På sidan **Ny** kund |
+| Gör det möjligt för återförsäljaren att hantera ett Azure-kundkonto|Associera en återförsäljare med ett Azure-kundkonto när du lägger till en ny kund|På **Azure-tjänstportalen** väljer du [Användarinställningar för att](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) ge den indirekta **återförsäljaren ägarbehörighet**|
+| Ge återförsäljaren kredit för incitament | Associera återförsäljaren med prenumerationen (ny eller befintlig) | På sidan **Ny** prenumeration |
+| Delegera kundsupport för specifika prenumerationer till återförsäljaren | Välj återförsäljaren från **kontaktlistan för utsedd support** | På prenumerationens informationssida: Välj kunden på sidan **Kunder** och välj sedan prenumerationen på kundens **prenumerationssida** |
 
 ## <a name="remove-partnership-with-indirect-resellers"></a>Ta bort partnerskap med indirekta återförsäljare
 
-Följ stegen nedan om du vill ta bort partnerskap med en befintlig indirekt åter försäljare. 
+Om du vill ta bort samarbetet med en befintlig indirekt återförsäljare följer du stegen nedan. 
 
-1. I menyn Partner Center på instrument panelen väljer du **indirekta åter försäljare**. 
+1. I menyn i Partnercenter på instrumentpanelen väljer **du Indirekta återförsäljare.** 
 
-2. På sidan **indirekt åter försäljare** väljer du **ta bort koppling**. Ett meddelande visas som ber om bekräftelse. Välj **Ja** om du vill fortsätta.
+2. På sidan **Indirekta återförsäljare väljer** du Ta bort **partnerskap**. Ett meddelande visas som ber om bekräftelse. Fortsätt genom att välja **Ja.**
 
-:::image type="content" source="images/ip-ir-relationship.png" alt-text="Ta bort koppling":::
+:::image type="content" source="images/ip-ir-relationship.png" alt-text="Ta bort partnerskap":::
 
 >[!IMPORTANT]
->Kunder som är kopplade till den indirekta åter försäljaren tas inte bort. Eventuella delegerade administratörs privilegier som beviljats förblir oförändrade.
->Du representerar att beslutet att avbryta relationen med partnern har gjorts i en godkänd tro, för ett legitimt affärs syfte och i enlighet med ditt avtal med din kund eller partner, och du samtycker till att försvara och hålla Microsoft ofarligt från och mot eventuella anspråk från tredje part till motsatsen.
->Du måste ange ett juridiskt meddelande om uppsägning till din kund eller partner om ditt avtal kräver det. Det här verktyget genererar inte något meddelande till kunden eller partnern.
+>Kunder som är kopplade till den indirekta återförsäljaren tas inte bort. Alla delegerade administratörsbehörigheter som beviljas förblir oförändrade.
+>Du representerar att beslutet att avbryta din relation med partner har gjorts i god tro, för ett legitimt affärssyfte och i enlighet med ditt avtal med din kund eller partner, och du samtycker till att skydda och hålla Microsoft oförseligt från och mot eventuella anspråk från tredje part till motsatsen.
+>Du måste tillhandahålla juridisk information om uppsägning till din kund eller partner om ditt avtal kräver det. Det här verktyget genererar inget meddelande till kunden eller partnern.
 
-3. Den indirekta åter försäljaren vars partnerskap du tog bort visas inte i listan.
-Beroende på nivån av åtkomst och engagemang kanske du vill kommunicera med den indirekta åter försäljaren samt avsluta kunden om den här ändringen.
+3. Den indirekta återförsäljare vars partnerskap du har tagit bort visas inte i listan.
+Beroende på åtkomstnivå och engagemang vill du kanske kommunicera med den indirekta återförsäljaren samt slutanvändaren om den här ändringen.
 
 
 ## <a name="connect-with-customers"></a>Få kontakt med kunder
 
-När du får nya kunder måste du skapa konton för dem i Partner Center. När du lägger till ett nytt kund konto kan du ange en specifik åter försäljare för att hantera kontot och administrera kundernas prenumerationer och tjänster för deras räkning.
+När du får nya kunder måste du skapa konton för dem i Partnercenter. När du lägger till ett nytt kundkonto kan du utse en specifik återförsäljare för att hantera kontot och administrera kundernas prenumerationer och tjänster för deras räkning.
 
-När du associerar en åter försäljare med ett nytt kund konto delegerar du konto-och prenumerations hantering till åter försäljaren. Det innebär att åter försäljaren har administratörs åtkomst till kundens prenumerationer och tjänster och kan hantera dem åt kunden.
+När du associerar en återförsäljare med ett nytt kundkonto delegerar du konto- och prenumerationshanteringen till återförsäljaren. Det innebär att återförsäljaren har administratörsåtkomst till kundens prenumerationer och tjänster och kan hantera dem för kundens räkning.
 
-### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>Lägg till nya kunder och koppla dem till indirekta åter försäljare
+### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>Lägga till nya kunder och koppla dem till indirekta återförsäljare
 
-1. Välj **indirekta åter försäljare** från menyn i **partner Center** .
+1. Välj **Indirekta återförsäljare på** menyn i **Partnercenter.**
 
-2. Hitta den indirekta åter försäljare som du vill tilldela nya kunder till och välj sedan **Lägg till ny kund**. Observera att den indirekta åter försäljaren redan har valts åt dig i formuläret för kund information. Ange kundens information och välj sedan **Nästa: prenumerationer**.
+2. Hitta den indirekta återförsäljare som du vill tilldela nya kunder till och välj sedan Lägg **till ny kund.** Observera att den indirekta återförsäljaren redan har valts åt dig i formuläret med kundinformation. Ange kundens information och välj sedan **Nästa: Prenumerationer**.
 
-3. På sidan **ny prenumeration** väljer du de prenumerationer som kunden vill köpa och anger sedan antalet licenser som kunden behöver.
+3. På **sidan Ny** prenumeration väljer du den eller de prenumerationer som kunden vill köpa och anger sedan det antal licenser som kunden behöver.
 
 4. Välj **Nästa: Granskning**.
 
-5. Om ordern är korrekt väljer du **Skicka**. Om ordningen är felaktig väljer du **Avbryt** för att avbryta hela åtgärden och börja om.
+5. Om ordern är korrekt väljer du **Skicka**. Om ordern är felaktig väljer du **Avbryt** för att avbryta hela åtgärden och börja om.
 
-6. När du har skickat beställningen visas **bekräftelse** sidan. Under **installations informationen** visas administratörens användar konto namn och tillfälliga lösen ord. Kopiera information om användar kontots namn och lösen ord så att du kan skicka den till den nya kunden.
+6. När du har skickat ordern visas **sidan** Bekräftelse. Under **Konfigurationsinformation** visas namnet på administratörsanvändarkontot och det tillfälliga lösenordet. Kopiera kontonamnet och lösenordsinformationen så att du kan skicka den till den nya kunden.
 
     > [!IMPORTANT]  
-    > Kom ihåg att anteckna användar kontots namn och lösen ord eftersom du inte kan komma åt den här informationen igen när du har stängt den här sidan.
+    > Se till att anteckna användarkontonamnet och lösenordet eftersom du inte kan komma åt den här informationen igen när du har stänga den här sidan.
 
-7. Välj **Klar**. Den nya kunden visas i kund listan, som är associerad med den indirekta åter försäljaren. Åter försäljaren har nu administratörs behörighet till kundens konto information och prenumerationer och kan hantera prenumerationerna på kundens räkning.
+7. Välj **Klar**. Den nya kunden visas i kundlistan som är associerad med den indirekta återförsäljaren. Återförsäljaren har nu administratörsåtkomst till kundens kontoinformation och prenumerationer och kan hantera prenumerationerna för kundens räkning.
 
-### <a name="add-new-subscriptions-to-customer-accounts"></a>Lägg till nya prenumerationer till kund konton
+### <a name="add-new-subscriptions-to-customer-accounts"></a>Lägga till nya prenumerationer till kundkonton
 
-När kunderna vill köpa nya prenumerationer, uppgradera befintliga eller köpa ytterligare licenser gör du dessa ändringar i kundens konto via Microsoft 365 portalen. Du kan inte göra det här i Azure Portal.
+När kunder vill köpa nya prenumerationer, uppgradera befintliga eller köpa ytterligare licenser gör du dessa ändringar i kundens konto via Microsoft 365 portalen. Du kan inte göra detta i Azure Portal.
 
-1. Välj **kunder** från menyn **partner Center** .
+1. Välj **Kunder** på menyn **i Partnercenter.**
 
-2. Hitta kunden vars konto du vill ändra. Du kan filtrera listan efter indirekt åter försäljare för att begränsa dina val. Expandera kundens post genom att välja nedpilen och välj sedan **Lägg till prenumeration**.
+2. Hitta den kund vars konto du vill ändra. Du kan filtrera listan efter indirekt återförsäljare för att begränsa dina val. Expandera kundens post genom att välja nedåtpilen och sedan välja Lägg **till prenumeration.**
 
-3. På sidan **ny prenumeration** väljer du prenumeration (er) och anger antalet licenser som kunden vill köpa.
+3. På **sidan Ny** prenumeration väljer du prenumerationerna och anger det antal licenser som kunden vill köpa.
 
-4. Om du vill associera prenumerationen med en åter försäljare väljer du åter försäljarens namn i listan och väljer sedan **Skicka**. Genom att associera åter försäljaren med prenumerationen kan de få incitament, om så är tillämpligt.
+4. Om du vill associera prenumerationen med en återförsäljare väljer du återförsäljarens namn i listan och väljer sedan **Skicka**. Genom att associera återförsäljaren med prenumerationen kan de få incitament, om tillämpligt.
 
-5. De nya prenumerationerna visas i listan med kund prenumerationer.
+5. De nya prenumerationerna visas i kundens prenumerationslista.
 
-6. Om du vill att åter försäljaren ska hantera kund support förfrågningar för den nya prenumerationen väljer du prenumerationen och väljer sedan åter försäljaren från listan med den **angivna support kontakten** . 
+6. Om du vill att återförsäljaren ska hantera förfrågningar om kundsupport för den nya prenumerationen väljer du prenumerationen och sedan återförsäljaren från **kontaktlistan för utsedd support.** 
 
-7. Välj **Skicka** när du är färdig.
+7. Välj **Skicka** när du är klar.
 
 ## <a name="next-steps"></a>Nästa steg
 
-Hitta svar på dina frågor om Microsofts partner avtal
+Få svar på dina frågor om Microsoft-partneravtal
 
-- [Hur indirekta leverantörer kan hjälpa sina åter försäljare att anta Microsofts partner avtal – vanliga frågor och svar](mpa-indirect-provider-faq.md)
+- [Hur indirekta leverantörer kan hjälpa sina återförsäljare att införa Microsoft-partneravtal – Vanliga frågor och svar](mpa-indirect-provider-faq.md)
 
-Mer information om hur du hanterar kund konton och prenumerationer finns i:
+Mer information om hur du hanterar kundkonton och prenumerationer finns i:
 
-- [Kund prenumerationer](customer-subscriptions.md)
+- [Kundprenumerationer](customer-subscriptions.md)

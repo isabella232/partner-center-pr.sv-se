@@ -1,6 +1,6 @@
 ---
-title: De 10 grunderna för att arbeta med incitament
-description: Följ dessa 10 förslag för att förbättra din stimulans program upplevelse och få inbetalningar snart.
+title: De 10 grundläggande för att arbeta med incitament
+description: Följ dessa 10 förslag för att förbättra din incitamentprogramupplevelse och få utbetalning tidigare.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
@@ -8,63 +8,60 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
-ms.openlocfilehash: 6000ba464a7751a159d8a390b13d2af6ffb59894
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 5aead530797d8d122ea871a693c774439b412171
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179113"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146722"
 ---
-# <a name="the-10-essentials-for-working-with-incentives"></a>De 10 grunderna för att arbeta med incitament
+# <a name="the-10-essentials-for-working-with-incentives"></a>De 10 grundläggande för att arbeta med incitament
 
-**Lämpliga roller**
+**Lämpliga roller:** Incitamentsadministratörsroller | Incitamentsanvändare
 
-- Incitaments administratör
-- Incitaments användare
+Microsoft Incitamentsprogram är ett kraftfullt verktyg som hjälper partner att engagera kunder med Microsofts produkter och tjänster. Ju mer du förstår programmet, desto bättre chans att lyckas.
 
-Microsoft incitaments program är ett kraftfullt verktyg som fördelar partner för att engagera kunder med Microsofts produkter och tjänster. Mer du förstår programmet, desto bättre chans att lyckas.
+Vi rekommenderar att du gör de 10 essentials som anges **nedan innan** du börjar med incitamentsprogrammet. De hjälper till att säkerställa att din incitamentsupplevelse är bra och bidrar till att förhindra fördröjningar i incitamentutbetalningarna.
 
-Vi rekommenderar att du gör 10 viktigare i listan nedan **innan** du börjar med stimulans programmet. De hjälper dig att se till att din stimulans upplevelse är en bra och hjälper till att förhindra fördröjningar i dina incitaments utbetalningar.
+## <a name="1-join-the-microsoft-partner-network"></a>1. Anslut Microsoft Partner Network
 
-## <a name="1-join-the-microsoft-partner-network"></a>1. gå med i Microsoft Partner Network
+Om du ännu inte är en Microsoft-partner måste du gå med i MPN för att dra nytta av incitament och andra fördelar. Mer information finns i [Microsoft Partner Network medlemskap](https://partner.microsoft.com/membership).
 
-Om du ännu inte är en Microsoft-partner måste du delta i MPN för att kunna dra nytta av incitament och andra förmåner. Läs mer i [Microsoft Partner Network medlemskap](https://partner.microsoft.com/membership).
+## <a name="2-read-your-incentives-program-guide"></a>2. Läs guiden för incitamentsprogrammet
 
-## <a name="2-read-your-incentives-program-guide"></a>2. Läs program guiden för incitament
+Varje incitamentprogram har en egen detaljerad programguide. I den här guiden hittar du behörighets- och registreringskrav, intäktsmöjligheter och annan information som är unik för ditt program. Följ den här proceduren för att få åtkomst [till programguiden.](incentives-determined-your-program-eligibility.md#determining-your-program-eligibility)
 
-Varje incitament program har sin egen detaljerade program guide. I den här guiden hittar du krav på berättigande och registrering, kostnads möjligheter och annan information som är unik för ditt program. Följ [den här proceduren](incentives-determined-your-program-eligibility.md#determining-your-program-eligibility)för att få åtkomst till din program guide.
+## <a name="3-set-up-your-tax-and-banking-profile"></a>3. Konfigurera din skatte- och bankprofil
 
-## <a name="3-set-up-your-tax-and-banking-profile"></a>3. Konfigurera din skatte-och bank profil
+Nästan alla utbetalningsfördröjningar eller andra avbrott i incitamentsprocessen beror på en felaktig eller ofullständig skatte- och bankprofil. Kontrollera att din profil är i gott skick innan du startar incitamentsprogrammet. Mer information finns i [Utbetalnings- och skatteprofiler i Partnercenter.](incentives-create-and-manage-your-payout-and-tax-profiles.md)
 
-Nästan alla utbetalnings förseningar eller andra avbrott i stimulans processen är resultatet av en felaktig eller ofullständig skatte-och bank profil. Kontrol lera att din profil är i en lämplig form innan du påbörjar stimulans programmet. Läs mer i avsnittet om [utbetalning och skatte profiler i Partner Center](incentives-create-and-manage-your-payout-and-tax-profiles.md).
+## <a name="4-learn-about-roles-and-permissions"></a>4. Lär dig mer om roller och behörigheter
 
-## <a name="4-learn-about-roles-and-permissions"></a>4. Läs mer om roller och behörigheter
-
-Det är viktigt att få en heltäckande förståelse för de roller och behörigheter som ingår i stimulans programmet. När du har gjort det kan du bestämma vilka roller som ska tilldelas till personer i företaget. Mer information finns i [vilka användar roller är tillgängliga?](incentives-faq.md#what-user-roles-are-available)
+Det är viktigt att få en gedigen förståelse för de roller och behörigheter som ingår i incitamentsprogrammet. När du har gjort detta kan du bestämma vilka roller som ska tilldelas till personerna i företaget. Mer information finns i Vilka [användarroller är tillgängliga?](incentives-faq.md#what-user-roles-are-available)
 
 ## <a name="5-review-the-incentives-faq"></a>5. Läs vanliga frågor och svar om incitament
 
-Få svar på vanliga incitaments frågor innan du får ens fråga. Vi uppdaterar vanliga frågor och svar genom att använda information från Microsoft Support och direkt kommunikation med partner. Du kan se vanliga frågor och svar [här](incentives-faq.md).
+Få svar på vanliga incitamentsfrågor innan du ens ställer dem. Vi uppdaterar vanliga frågor och svar om incitament med hjälp av information Microsoft Support och direkt kommunikation med partner. Du kan se vanliga frågor och svar [här.](incentives-faq.md)
 
-## <a name="6-confirm-your-program-eligibility"></a>6. bekräfta din program behörighet
+## <a name="6-confirm-your-program-eligibility"></a>6. Bekräfta behörigheten för programmet
 
-Detta omfattar vanligt vis att se till att du har fått Microsoft med all nödvändig dokumentation om företags profiler och att du har uppnått alla nödvändiga kunskaper. Se [Bekräfta din program](incentives-determined-your-program-eligibility.md)behörighet.
+Detta omfattar vanligtvis att se till att du har försedt Microsoft med all nödvändig företagsprofildokumentation och att du har uppnått nödvändiga kompetenser. Se [Bekräfta att du är berättigad till programmet.](incentives-determined-your-program-eligibility.md)
 
-## <a name="7-confirm-your-earnings-eligibility"></a>7. bekräfta din intäkts berättigande
+## <a name="7-confirm-your-earnings-eligibility"></a>7. Bekräfta din intäktsberättigande
 
-Precis som föregående uppgift innebär det vanligt vis att du ser till att du har gett Microsoft all den information vi behöver. Se [bekräfta dina intäkts kvalifikationer](incentives-confirm-your-earnings-eligibility.md).
+Precis som i föregående uppgift innebär detta vanligtvis att se till att du har försedt Microsoft med all information vi behöver. Se [Bekräfta din intäktsberättigande.](incentives-confirm-your-earnings-eligibility.md)
 
-## <a name="8-gather-the-necessary-enrollment-information"></a>8. samla in nödvändig registrerings information
+## <a name="8-gather-the-necessary-enrollment-information"></a>8. Samla in nödvändig registreringsinformation
 
-Att registrera i incitaments programmet kräver en viss mängd information om ditt företag. Kontrol lera att du har den på samma sätt innan du börjar. Om du vill veta mer kan du ladda ned och läsa [incitaments registreringen i Partner Center](https://assetsprod.microsoft.com/partner-center-incentives-enrollment.pdf) PDF-filen.
+Registrering i incitamentsprogrammet kräver en viss mängd information om ditt företag. Se till att allt är klart innan du börjar. Om du vill veta mer kan du ladda ned och [läsa pdf-filen för incitamentregistrering i Partnercenter.](https://assetsprod.microsoft.com/partner-center-incentives-enrollment.pdf)
 
-## <a name="9-learn-how-other-partners-do-it"></a>9. Lär dig hur andra partners gör det
+## <a name="9-learn-how-other-partners-do-it"></a>9. Lär dig hur andra partner gör det
 
-Det finns många bra artiklar som är tillgängliga för Microsoft-incitament och partner Center i allmänhet, till exempel [de fem attributen för lyckade Microsoft-partner](https://www.microsoft.com/en-us/us-partner-blog/2019/08/29/the-five-attributes-of-successful-microsoft-partners/).
+Det finns många bra artiklar om Microsoft-incitament och Partnercenter i allmänhet, till exempel [De fem attributen för lyckade Microsoft-partner.](https://www.microsoft.com/en-us/us-partner-blog/2019/08/29/the-five-attributes-of-successful-microsoft-partners/)
 
-## <a name="10-read-the-partner-center-online-help"></a>10. Läs onlinehjälpen för partner Center
+## <a name="10-read-the-partner-center-online-help"></a>10. Läs onlinehjälpen för Partnercenter
 
-Du hittar detaljerade procedurer för att utföra alla uppgifter som anges ovan. Du kan läsa hela stimulans avsnittet på ungefär en timme, och de flesta artiklarna tar bara en minut eller två. Information om hur du börjar läsa hjälpen finns i [komma igång](incentives-get-started-intro.md).
+Du hittar detaljerade procedurer för att utföra alla uppgifter som anges ovan. Du kan läsa hela incitamentsavsnittet på ungefär en timme, och de flesta artiklar tar bara en minut eller två. Om du vill börja läsa hjälpen kan du läsa [Komma igång.](incentives-get-started-intro.md)
 
 ## <a name="next-steps"></a>Nästa steg
 

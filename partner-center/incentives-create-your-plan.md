@@ -1,38 +1,34 @@
 ---
-title: Skapa din stimulans plan
+title: Skapa din incitamentsplan
 ms.topic: article
 ms.date: 09/11/2020
-description: Samla in och skapa den information som krävs för att skapa en lyckad marknadsförings plan för ditt incitaments program.
+description: Samla in och skapa nödvändig information för att skapa en lyckad marknadsföringsplan för ditt incitamentsprogram.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 1ad11a42a91cfacb625a05b850b0cdfee3d48d0b
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 31bed9eabcd63f80c7924b264e7abf04dab4b543
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179266"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146807"
 ---
-# <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Skapa en marknadsförings plan för ditt incitaments program
+# <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Skapa en marknadsföringsplan för ditt incitamentsprogram
 
-**Lämpliga roller**
+**Lämpliga roller:** Incitamentsadministratörsroller | Faktureringsadministratörskonto | Global administratör
 
-- Incitaments administratör
-- Faktureringsadministratör
-- Global administratör
+En plan för co-op-anspråk är en serie marknadsföringskampanjer, aktiviteter och annan information som beskriver hur du kommer att göra ditt program till ett lyckat resultat. När du har skapat din plan skickar du den till Microsoft för godkännande.
 
-En samordnad anspråks plan är en serie marknadsförings kampanjer, aktiviteter och annan information som beskriver hur du får ditt program att lyckas. När du har skapat din plan skickar du den till Microsoft för godkännande.
+## <a name="create-your-incentives-plan"></a>Skapa din incitamentsplan
 
-## <a name="create-your-incentives-plan"></a>Skapa din stimulans plan
-
-Du kan visa dina planer genom att välja **plan hantering** på sidan **incitament** och sedan öppna det program du vill.
+Du kan visa dina planer genom att **välja Planhantering** på **sidan Incitament** och sedan öppna det program som du vill använda.
 
 >[!NOTE]
->Du kanske inte ser plan hantering på sidan incitament. Detta beror på att instrument panelen för partner Center är dynamisk och bara visar vad som är lämpligt för din roll och dina egna aktiviteter. Om du inte ser plan hantering på sidan incitament betyder det förmodligen att du inte är registrerad i ett program som har planer. Kontakta din tjänst administratör om du behöver hjälp.
+>Du kanske inte ser Plan Management på sidan Incitament. Det beror på att instrumentpanelen i Partnercenter är dynamisk och bara visar vad som är lämpligt för din specifika roll och dina aktiviteter. Om du inte ser PlanHantering på sidan Incitament innebär det förmodligen att du inte är registrerad i ett program som har planer. Kontakta incitamentsadministratören om du behöver hjälp.
 
-Mer information om planer för ditt specifika incitaments program finns i program guiden.
+Mer information om planer för ditt specifika Incitamentsprogram finns i programguiden.
 
 ## <a name="how-to-submit-a-plan"></a>Så här skickar du en plan
 
@@ -40,15 +36,15 @@ Mer information om planer för ditt specifika incitaments program finns i progra
 
 2. Under **incitament** i det vänstra navigeringsfönstret väljer du **Program** och väljer sedan ditt program. 
 
-3. På sidan **program** letar du rätt på marknaden för din plan och väljer sedan **Skapa plan**. 
+3. På sidan **Program** letar du upp lämplig marknad för din plan och väljer sedan **Skapa plan.** 
 
-4. Fyll i de obligatoriska fälten på sidan **ny plan** . **Valuta** är det värde som du vill att planen ska avspegla. E-postadressen för **granskare** bör vara Microsoft-e-postadressen till din konto hanterare. Observera att endast en plan kan skapas per MPN-ID, fond, program och period. Välj **Spara**.
+4. På sidan **Ny plan** fyller du i de obligatoriska fälten. **Valuta** är det värde som du vill att planen ska återspegla. **Granskarens e-postadress** ska vara Microsofts e-postadress för din kontoansvariga. Observera att endast en plan kan skapas per MPN-ID, fond, program och period. Välj **Spara**.
 
 5. Gå igenom informationen på planens statussida. Välj **Redigera** om du behöver uppdatera informationen.
 
-6. När informationen på den här sidan är korrekt väljer du **ny kampanj**.
+6. När informationen på den här sidan är korrekt väljer du **Ny kampanj.**
 
-7. Fyll i de obligatoriska fälten på sidan **ny kampanj** och välj sedan **Spara**.
+7. Fyll i de obligatoriska fälten på **sidan Ny** kampanj och välj sedan **Spara.**
 
 8. Välj **Ny aktivitet** på statussidan. 
 
@@ -66,7 +62,7 @@ Nu har din plan skickats. Microsoft meddelar din incitamentsadministratör när 
 
 3. I avsnittet **Planer** visas statusen för varje plan i kolumnen **Status**.
 
-   Följande är de olika möjliga statusarna för din co-op-anspråks plan.
+   Följande är de olika möjliga statusarna för din plan för co-op-anspråk.
 
    - Skickad
    - Under granskning
@@ -75,20 +71,20 @@ Nu har din plan skickats. Microsoft meddelar din incitamentsadministratör när 
    - Godkända
    - Avslagen
 
-## <a name="plan-submission-timelines"></a>Planera tids linjer för överföring
+## <a name="plan-submission-timelines"></a>Tidslinjer för planinskickning
 
 Du måste skapa och skicka din plan senast den sista dagen på programåret. Om det behövs kan du ändra och skicka om planen under de efterföljande 90 dagarna, men planen måste skapas och skickas in första gången under programåret.
 
 >[!NOTE]
-> Du kan bara skapa en plan per fond typ för ett program år.
+> Du kan bara skapa en plan per typ av medel för ett programår.
 
 ## <a name="plan-payments"></a>Betalningar för prenumerationsavtal
 
 Microsoft betalar dig varje månad baserat på hur mycket du tjänar och gränserna för ditt prenumerationsavtal. Betalningar görs den 15:e dagen i efterföljande månad.
 
-Om ditt abonnemang till exempel är godkänt för $10 000 och du har intjänat $5 000 i månaden april får du $5 000 den 15 maj.
+Om din plan till exempel är godkänd för 10 000 USD och du tjänade 5 000 USD under april får du 5 000 USD den 15 maj.
 
-Under samma plan kan du, om du tar $15 000 i april, ta emot $10 000 den 15 maj eftersom $10 000 var gränsen för ditt abonnemang. För att få större betalningar måste du höja gränsen för ditt prenumerationsavtal för den efterföljande månaden.
+Om du under samma plan tjänar 15 000 USD under april får du 10 000 USD den 15 maj eftersom 10 000 USD var gränsen för ditt abonnemang. För att få större betalningar måste du höja gränsen för ditt prenumerationsavtal för den efterföljande månaden.
 
 ## <a name="next-steps"></a>Nästa steg
 

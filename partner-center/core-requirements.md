@@ -1,210 +1,207 @@
 ---
-title: Incitaments kärn krav
+title: Grundläggande krav för incitament
 ms.topic: article
 ms.date: 09/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Lär dig hur du kan generera behov, förstå marknads utveckling och maximera partner beredskap för aktiviteterna i ditt incitaments program.
+description: Lär dig hur du genererar efterfrågan, förstår marknadsutvecklingen och maximerar partnerberedskapen för aktiviteterna i ditt incitamentsprogram.
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 47a670c97acce757270076cf0ae01067db544e2f
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: a980d35104f2fe7aad0117f3515a61ecf217a2b9
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502960"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148303"
 ---
-# <a name="core-requirements-for-the-activities-in-your-incentive-program"></a>Grundläggande krav för aktiviteterna i stimulans programmet
+# <a name="core-requirements-for-the-activities-in-your-incentive-program"></a>Grundläggande krav för aktiviteter i ditt incitamentprogram
 
-**Lämpliga roller**
+**Lämpliga roller:** Incitamentsadministratörsroller | Incitamentsanvändare
 
-- Incitaments administratör
-- Incitaments användare
+Varje typ av aktivitet som du skickar ett incitamentsanspråk för har grundläggande krav. Du måste visa att du har uppfyllt dessa krav i dina körningsdokument. Vissa aktiviteter kräver även specifika kommunikationstyper och mått.
 
-Varje typ av aktivitet som du skickar ett incitament anspråk till har grundläggande krav. Du måste visa att du har uppfyllt dessa krav i ditt bevis på körnings dokument. Vissa aktiviteter kräver också vissa typer av kommunikation och mått.
+I följande tabeller beskrivs de grundläggande kraven för var och en av de godkända aktiviteterna. 
 
-Följande tabeller beskriver kärn kraven för var och en av de accepterade aktiviteterna. 
+## <a name="demand-generation"></a>Generering av efterfrågan
 
-## <a name="demand-generation"></a>Generering av efter frågan
+### <a name="print-advertising"></a>Utskriftsannonsering
 
-### <a name="print-advertising"></a>Skriv ut annonsering
-
-| Kategori | Bevis för körning    |
+| Kategori | Bevis på körning    |
 | ------ | ----------- |
-| Core-krav    | Företagets märke och kontakt information<br><br>Microsoft-innehåll |
-| Kommunikations krav | Kopia av slutlig kommunikations del (baserat på annonsering) som visar programspecifika kärn krav |
-| Mått     | Uppskattad kund (eller partner) räckvidd |
-|Berättigade utgifter    | Media placering från tredje part<br><br>Tryckt material<br><br>Avgifts byrå marknadsföring och kreativa tjänster inklusive Agen tur avgifter  |
+| Grundläggande krav    | Företagets varumärke och kontaktuppgifter<br><br>Microsoft-innehåll |
+| Kommunikationskrav | Kopia av den slutliga kommunikationsartikeln (baserat på annonsering) som visar programspecifika grundläggande krav |
+| Mått     | Uppskattad kund(eller partner) räckvidd |
+|Berättigade utgifter    | Medieplacering från tredje part<br><br>Tryckt material<br><br>Avgiftsbaserade marknadsförings- och reklamtjänster inklusive avgifter för agenturer  |
 
 ### <a name="digital-advertising"></a>Digital annonsering
 
-| Kategori | Bevis för körning    |
+| Kategori | Bevis på körning    |
 | ------ | ----------- |
-| Core-krav | NA |
-| Kommunikations krav | Skärm bild av digital annons<br><br>AND<br><br>URL till landnings sidan, som visar programsärskilda kärn krav |
-| Mått     | Sammanfattning av resultat (t. ex. genom att klicka igenom rapporten) |
-|Berättigade utgifter    | Media placering från tredje part<br><br>Avgifts byrå: marknadsföring och kreativa tjänster, inklusive byrå avgifter |
+| Grundläggande krav | NA |
+| Kommunikationskrav | Skärmbild av digital annons<br><br>AND<br><br>Webbadress till landningssida som visar programspecifika kärnkrav |
+| Mått     | Sammanfattning av resultat (till exempel klickningsrapport) |
+|Berättigade utgifter    | Medieplacering från tredje part<br><br>Avgift – myndighet: Marknadsförings- och reklamtjänster, inklusive avgifter för agenturer |
 
-### <a name="direct-mail-email-and-short-message-service-sms"></a>Direkt e-post, e-post och SMS (Short Message Service)
+### <a name="direct-mail-email-and-short-message-service-sms"></a>Direkt e-post, e-post och kort meddelandetjänst (SMS)
 
-| Kategori | Bevis för körning    |
+| Kategori | Bevis på körning    |
 | ------ | ----------- |
-| Core-krav    | NA |
-| Kommunikations krav | 1) kopia av slutlig kommunikations del som visar programspecifika kärn krav<br><br>2) distributions beviset kan omfatta postmarked frakt kuvert eller annat e-postmeddelande (direkt e-post), slutlig e-post som visar överordnad rubrik eller annat e-postmeddelande (e-post) eller ett foto av telefon meddelande (SMS) |
-| Mått     | Uppskattad kund (eller partner) räckvidd |
-|Berättigade utgifter    | Databas hämtning<br><br>Tryckt material<br><br>Porto<br><br>Avgifts byrå: marknadsföring och kreativa tjänster, inklusive byrå avgifter |
+| Grundläggande krav    | NA |
+| Kommunikationskrav | 1) Kopia av den slutliga kommunikationsartikeln som visar programspecifika kärnkrav<br><br>2) Bevis på distribution kan innehålla postmärkta leveranskuvert eller andra e-postbevis (e-post), slutligt e-postmeddelande med daterad rubrik eller annat e-postmeddelande (e-post) eller foto av telefonmeddelande (SMS) |
+| Mått     | Uppskattad kund-(eller partnerns) räckvidd |
+|Berättigade utgifter    | Databasförvärv<br><br>Tryckt material<br><br>Porto<br><br>Avgift – myndighet: Marknadsförings- och reklamtjänster, inklusive avgifter för agenturer |
 
-### <a name="partner-website-and-search-engine"></a>Partner webbplats och sökmotor
+### <a name="partner-website-and-search-engine"></a>Partnerwebbplats och sökmotor
 
-| Kategori | Bevis för körning    |
+| Kategori | Bevis på körning    |
 | ------ | ----------- |
-| Core-krav    | NA |
-| Kommunikations krav | URL: er och/eller skärm bilder av webbplats sidor som visar URL<br><br>Beskrivning av arbets-eller tjänste avtal för SEO-projekt (endast SEO-aktivitet) |
-| Mått     | Sammanfattning av resultat (t. ex. genom att klicka igenom rapporten) |
-|Berättigade utgifter    | Avgifts byrå: marknadsförings tjänster, inklusive byrå avgifter<br><br>Programmering/utveckling: avgifter för programmering och utveckling<br><br>Avgift – SEO: optimerings-och underhålls avgifter  |
+| Grundläggande krav    | NA |
+| Kommunikationskrav | URL och/eller skärmbilder av webbplatssidor som visar URL<br><br>Arbets- eller serviceavtal för SEO-projekt (endast SEO-aktivitet) |
+| Mått     | Sammanfattning av resultat (till exempel klickningsrapport) |
+|Berättigade utgifter    | Avgift – myndighet: Marknadsföringstjänster, inklusive agentavgifter<br><br>Programmering/utveckling: Avgifter för programmering och utveckling<br><br>Avgift – SEO: Optimerings- och underhållsavgifter  |
 
-### <a name="microsoft-syndicated-content"></a>Microsoft syndikerat innehåll
+### <a name="microsoft-syndicated-content"></a>Microsofts innehåll
 
-| Kategori | Bevis för körning    |
+| Kategori | Bevis på körning    |
 | ------ | ----------- |
-| Core-krav    | NA |
-| Kommunikations krav | URL och/eller skärm bilder av webbplats sidor som visar URL |
-| Mått     | Sammanfattning av resultat (t. ex. genom att klicka igenom rapporten) |
-|Berättigade utgifter    | Faktiska kostnader upp till USD18, 750 per användnings period för: avgifts byrå marknadsförings tjänster, inklusive byrå avgifter<br><br>Avgifter för programmering och utveckling<br><br>Medie placering  |
+| Grundläggande krav    | NA |
+| Kommunikationskrav | URL och/eller skärmbilder av webbplatssidor som visar URL |
+| Mått     | Sammanfattning av resultat (till exempel klickningsrapport) |
+|Berättigade utgifter    | Faktiska kostnader upp till 18 750 USD per användningsperiod för: avgift – marknadsföringstjänster för företag, inklusive avgifter för agenturer<br><br>Avgifter för programmering och utveckling<br><br>Medieplacering  |
 
-### <a name="multi-touch-digital-campaign"></a>Digital kampanj med flera touch
+### <a name="multi-touch-digital-campaign"></a>Digital kampanj för Multi-Touch
 
-| Kategori | Bevis för körning    |
+| Kategori | Bevis på körning    |
 | ------ | ----------- |
-| Core-krav    |NA |
-| Kommunikations krav | All bevisning för körningen som beskrivs på sidan för tillämplig aktivitet krävs<br><br>Digital annonsering<br><br>Direkt e-post<br><br>Optimering av partner webbplats och sökmotor<br><br>Telemarketing  |
+| Grundläggande krav    |NA |
+| Kommunikationskrav | Alla körningsbevis enligt beskrivningen på den aktuella aktivitetssidan krävs<br><br>Digital annonsering<br><br>Direkt e-post<br><br>Partnerwebbplats och sökmotoroptimering<br><br>Telemarketing  |
 | Mått     | NA |
-|Berättigade utgifter    | Media placering från tredje part<br><br>Avgifts byrå: marknadsföring och kreativa tjänster, inklusive byrå avgifter<br><br>Databas hämtning<br><br>Programmering/utveckling: avgifter för programmering och utveckling<br><br>Avgift – SEO: optimerings-och underhålls avgifter<br><br>Avgift – avgifter från tredje part för samtals Center |
+|Berättigade utgifter    | Medieplacering från tredje part<br><br>Avgift – myndighet: Marknadsförings- och reklamtjänster, inklusive myndighetsavgifter<br><br>Databasförvärv<br><br>Programmering/utveckling: Avgifter för programmering och utveckling<br><br>Avgift – SEO: Avgifter för optimering och underhåll<br><br>Avgift – Avgifter för kundtjänst från tredje part |
 
-## <a name="market-development"></a>Marknads utveckling
+## <a name="market-development"></a>Marknadsutveckling
 
-### <a name="telemarketing-and-expositions"></a>Telefonförsäljnings-och Expositions
+### <a name="telemarketing-and-expositions"></a>Telemarketing och expositioner
 
-| Kategori | Bevis för körning    |
+| Kategori | Bevis på körning    |
 | ------ | ----------- |
-| Core-krav    | Företagets namn/varumärke-information måste ingå i skriptet för telefonförsäljning, Microsoft-innehåll |
-| Kommunikations krav | Kopia av skript |
+| Grundläggande krav    | Företagets namn/varumärkesinformation måste ingå i teleförsäljningsskriptet, Microsoft-innehåll |
+| Kommunikationskrav | Kopia av skript |
 | Mått     | Sammanfattning av resultat (antal anrop och antal lyckade kontakter) |
-|Berättigade utgifter    | Avgifts byrå: marknadsförings tjänster, inklusive byrå avgifter<br><br>Avgift – tredje parts samtals Center: avgifter<br><br>Databas hämtning  |
+|Berättigade utgifter    | Avgift – myndighet: Marknadsföringstjänster, inklusive agentavgifter<br><br>Avgift – Kundtjänst från tredje part: avgifter<br><br>Databasförvärv  |
 
-### <a name="customer-seminars-and-boot-camps"></a>Kund seminarier och start Camps
+### <a name="customer-seminars-and-boot-camps"></a>Kundrelationer och startcamper
 
-| Kategori | Bevis för körning    |
+| Kategori | Bevis på körning    |
 | ------ | ----------- |
-| Core-krav    | Företagets märkes namn och kontakt information<br><br>Microsoft-innehåll  |
-| Kommunikations krav | Händelse inbjudning och Agenda/program<br><br>Händelse foton<br><br>Presentations material om Event inbjudning och Agenda inte uppfyller grund kraven |
+| Grundläggande krav    | Företagets varumärkesnamn och kontaktinformation<br><br>Microsoft-innehåll  |
+| Kommunikationskrav | Händelseinbjudan och evenemang/program<br><br>Händelsefoton<br><br>Presentationsmaterial om händelseinbjudan och presentationen inte uppfyller de grundläggande kraven |
 | Mått     | Antal registrerade gäster |
-|Berättigade utgifter    | Signering/visning/tryckt material<br><br>Giveaways<br><br>Avgifts byrå: marknadsförings tjänster, inklusive byrå avgifter<br><br>Avgift – registrering<br><br>Avgift – extern talare<br><br>Avgifts anläggning och utrustnings hyra, inklusive Surface-enheter som ägs och hanteras av en tredje part<br><br>Catering (exklusive alkohol) |
+|Berättigade utgifter    | Signering/visning/tryckt material<br><br>Giveaways<br><br>Avgift – myndighet: Marknadsföringstjänster, inklusive agentavgifter<br><br>Avgift – registrering<br><br>Avgift – extern talare<br><br>Avgift – anläggnings- och utrustningsuthyrning inklusive Surface-enheter som ägs och hanteras av en tredje part<br><br>Docka (exklusive dryck) |
 
-### <a name="tradeshows-and-exhibitions"></a>Tradeshows och utställningar
+### <a name="tradeshows-and-exhibitions"></a>Tradeshows och sporrar
 
-| Kategori | Bevis för körning    |
+| Kategori | Bevis på körning    |
 | ------ | ----------- |
-| Core-krav    | Företagets märkes namn och kontakt information<br><br>Microsoft-innehåll  |
-| Kommunikations krav | Händelse inbjudning och Agenda/program<br><br>Foto som visar händelse deltagande (till exempel foto av monter, Foto av presentation osv.) |
-| Mått     | Uppskattat antal deltagare eller Monte besökare  |
-|Berättigade utgifter    | Signering/visning/tryckt material<br><br>Giveaways<br><br>Avgifts byrå: marknadsförings tjänster, inklusive byrå avgifter<br><br>Avgift – registrering<br><br>Avgift – extern talare<br><br>Avgifts anläggning och utrustnings hyra, inklusive Surface-enheter som ägs och hanteras av en tredje part<br><br>Catering (exklusive alkohol) |
+| Grundläggande krav    | Företagets varumärkesnamn och kontaktuppgifter<br><br>Microsoft-innehåll  |
+| Kommunikationskrav | Händelseinbjudan och program<br><br>Foto som visar deltagande i evenemang (till exempel foto av bås, foto av presentation osv.) |
+| Mått     | Beräknat antal deltagare eller båsbesökare  |
+|Berättigade utgifter    | Signering/visning/tryckt material<br><br>Giveaways<br><br>Avgift – myndighet: Marknadsföringstjänster, inklusive agentavgifter<br><br>Avgift – registrering<br><br>Avgift – extern talare<br><br>Avgift – anläggnings- och utrustningsuthyrning inklusive Surface-enheter som ägs och hanteras av en tredje part<br><br>Docka (exklusive dryck) |
 
-### <a name="customer-offers"></a>Kund erbjudanden
+### <a name="customer-offers"></a>Kunderbjudanden
 
-| Kategori | Bevis för körning    |
+| Kategori | Bevis på körning    |
 | ------ | ----------- |
-| Core-krav    | Microsoft-innehåll |
-| Kommunikations krav | Visa erbjudande med allmänna villkor. Faktiska kostnader upp till 25% totalt antal intjänade co-op-fonder per användnings period. Surface-partner kan kräva upp till 100% av de intjänade co-op-medlen per användnings period för berättigade aktivitets utgifter. |
-| Mått     | Sammanfattning av resultaten |
-|Berättigade utgifter    | Signering/visning/tryckt material<br><br>Giveaways<br><br>Avgifts byrå: marknadsförings tjänster, inklusive byrå avgifter |
+| Grundläggande krav    | Microsoft-innehåll |
+| Kommunikationskrav | Visa erbjudande med allmänna villkor. Faktiska kostnader upp till 25 % totalt av intjänade co-op-medel per användningsperiod. Surface-partner kan göra anspråk på upp till 100 % av intjänade co-op-medel per användningsperiod för berättigade aktivitetsutgifter. |
+| Mått     | Sammanfattning av resultat |
+|Berättigade utgifter    | Signering/visning/tryckt material<br><br>Giveaways<br><br>Avgift – myndighet: Marknadsföringstjänster, inklusive agentavgifter |
 
-### <a name="internal-incentives-and-spiffs"></a>Interna incitament och SPIFFs
+### <a name="internal-incentives-and-spiffs"></a>Interna incitament och SPIFF:er
 
-| Kategori | Bevis för körning    |
+| Kategori | Bevis på körning    |
 | ------ | ----------- |
-| Core-krav    | Företagets märkes namn och kontakt information – interna tävlings regler räcker om företagets/märkes namnet ingår i kommunikations materialet<br><br>Microsoft-innehåll |
-| Kommunikations krav   | Visa erbjudande med allmänna villkor. Faktiska kostnader upp till 25% totalt antal intjänade co-op-fonder per användnings period. Surface-partner kan kräva upp till 100% av de intjänade co-op-medlen per användnings period för berättigade aktivitets utgifter. |
-| Mått     | Sammanfattning av resultaten |
-|Berättigade utgifter    | Faktiska kostnader upp till 25% totalt antal intjänade co-op-fonder per användnings period för: registrering, visning, tryckt material<br><br>Giveaways<br><br>Avgifts byrå: marknadsförings tjänster, inklusive byrå avgifter<br><br>Surface-partner kan kräva upp till 100% av de intjänade co-op-medlen per användnings period för berättigade aktivitets utgifter |
+| Grundläggande krav    | Företagets varumärkesnamn och kontaktinformation – interna regler för deltagare räcker om företagets/varumärkesnamnet ingår i kommunikationsmaterialet<br><br>Microsoft-innehåll |
+| Kommunikationskrav   | Visa erbjudande med allmänna villkor. Faktiska kostnader upp till 25 % totalt av intjänade co-op-medel per användningsperiod. Surface-partner kan göra anspråk på upp till 100 % av intjänade co-op-medel per användningsperiod för berättigade aktivitetsutgifter. |
+| Mått     | Sammanfattning av resultat |
+|Berättigade utgifter    | Faktiska kostnader på upp till 25 % totalt intjänade co-op-medel per användningsperiod för: Signering, visning, tryckt material<br><br>Giveaways<br><br>Avgift – myndighet: Marknadsföringstjänster, inklusive agentavgifter<br><br>Surface-partner kan göra anspråk på upp till 100 % av intjänade co-op-medel per användningsperiod för berättigade aktivitetsutgifter |
 
-### <a name="on-site-champ"></a>Champ på plats
+### <a name="on-site-champ"></a>On-site Champion
 
-| Kategori | Bevis för körning    |
+| Kategori | Bevis på körning    |
 | ------ | ----------- |
-| Core-krav    | Tjänster med fokus på 100% på Microsoft-produkter | 
-| Kommunikations krav | Exempel på slut produkter (baserat på vad som beskrivs i Champ-formuläret på plats) |
+| Grundläggande krav    | Tjänster som fokuserar 100 % på Microsoft-produkter | 
+| Kommunikationskrav | Exempel på slutbara produkter (baserat på vad som beskrivs i formuläret On-site Form ( På plats ) |
 | Mått     | NA |
-|Berättigade utgifter    | Faktiska kostnader upp till 100% för yta och 50% för alla andra program av intjänade co-op-fonder per användnings period för: avgifter-tjänster: tjänster som tillhandahålls av Champ-resurser på plats |
+|Berättigade utgifter    | Faktiska kostnader upp till 100 % för Surface och 50 % för alla andra program med intjänade co-op-medel per användningsperiod för: Avgifter – tjänster: Tjänster som tillhandahålls av resurser på plats |
 
 ### <a name="proof-of-concept"></a>Konceptbevis
 
-| Kategori | Bevis för körning    |
+| Kategori | Bevis på körning    |
 | ------ | ----------- |
-| Core-krav    | Konceptbevis |
-| Kommunikations krav  | Microsoft-innehåll |
-| Mått     | Kopia av material som har utvecklats för Concept explication eller marknads forsknings data: Fakta blad, fallstudie utveckling, marknads undersökning, kundens nedsänkande erfarenhet – Microsoft Customer Development Experience (CIE) är en berättigad Research kostnad.<br><br>Berättigade tjänste avgifter kan omfatta konfiguration av ett teknik demonstrations Center och distributions tjänster, inklusive installation, konfiguration, datamigrering, testning eller kundriktad system konfiguration.<br><br>Programmerings-/utvecklings utgifter kan omfatta API-systemutveckling. |
-|Berättigade utgifter    | Tryckt material: Forskning: Fakta blad, fallstudie utveckling, marknads undersökning, kund upplevelse<br><br>Programmering/utveckling<br><br>Avgifts byrå: marknadsförings tjänster, inklusive byrå avgifter<br><br>Avgifts tjänst: arbets tjänster som tillhandahålls av partner eller leverantörer från tredje part som stöd för koncept beviset |
+| Grundläggande krav    | Konceptbevis |
+| Kommunikationskrav  | Microsoft-innehåll |
+| Mått     | Kopia av material som utvecklats för konceptutökning eller marknadsundersökningsdata: Faktablad, fallstudieutveckling, marknadsundersökningar, Customer Experience - Microsoft Customer Experience (CIE) är en berättigad forskningskostnad.<br><br>Berättigade tjänstavgifter kan omfatta konfiguration av ett teknikdemocenter och distributionstjänster, inklusive installation, konfiguration, datamigrering, testning eller kundriktad systemkonfiguration.<br><br>Programmerings-/utvecklingsutgifter kan omfatta API-systemutveckling. |
+|Berättigade utgifter    | Tryckt material: Forskning: Faktabladet, fallstudieutveckling, marknadsundersökningar, kundupplevelsen<br><br>Programmering/utveckling<br><br>Avgift – myndighet: Marknadsföringstjänster, inklusive agentavgifter<br><br>Avgift – tjänst: Arbetstjänster som tillhandahålls av partner eller tredjepartsleverantör som stöd för konceptbeviset |
 
-### <a name="employee-purchase-web-setup-for-customers"></a>Medarbetares köp webb inställningar för kunder
+### <a name="employee-purchase-web-setup-for-customers"></a>Webbkonfiguration för medarbetarköp för kunder
 
-| Kategori | Bevis för körning    |
+| Kategori | Bevis på körning    |
 | ------ | ----------- |
-| Core-krav    | NA |
-| Kommunikations krav | URL-landnings sida eller skärm bild av webbplats sidor. Inte kvalificerat för att lägga till Surface |
-| Mått     | Avgifts byrå: marknadsförings tjänster, inklusive byrå avgifter<br><br>Programmering/utveckling: avgifter för programmering och utveckling<br><br>Avgifts tjänst: arbets tjänster som tillhandahålls av partner eller leverantörer från tredje part som stöd för webb installationen |
+| Grundläggande krav    | NA |
+| Kommunikationskrav | URL-landningssida eller skärmbild av webbplatssidor. Ej berättigad till Surface ADD |
+| Mått     | Avgift – myndighet: Marknadsföringstjänster, inklusive agentavgifter<br><br>Programmering/utveckling: Avgifter för programmering och utveckling<br><br>Avgift – tjänst: Arbetstjänster som tillhandahålls av partner eller tredjepartsleverantör som stöd för webbinstallationen |
 |Berättigade utgifter    | NA |
 
-## <a name="partner-readiness"></a>Partner beredskap
+## <a name="partner-readiness"></a>Partnerberedskap
 
 ### <a name="mpn-participation"></a>MPN-deltagande
 
-| Kategori | Bevis för körning    |
+| Kategori | Bevis på körning    |
 | ------ | ----------- |
-| Core-krav    | Ursprunglig Microsoft-faktura |
-| Kommunikations krav | NA |
+| Grundläggande krav    | Ursprunglig Microsoft-faktura |
+| Kommunikationskrav | NA |
 | Mått     | NA |
-|Berättigade utgifter    | Avgift – årlig registrering: MPN årliga registrerings avgifter<br><br>Plakett och DVD (First set): MPN-medlemskaps plakett och första uppsättningen DVD-skivor<br><br>Ytterligare förmåns verktyg |
+|Berättigade utgifter    | Avgift – årlig registrering: Årliga registreringsavgifter för MPN<br><br>Dvd och dvd (första uppsättning): MPN-medlemskapsmedlemskap och första uppsättning DVD-skivor<br><br>Verktyg för ytterligare fördelar |
 
-### <a name="microsoft-exams-and-tuition"></a>Microsoft-examina och Tuition
+### <a name="microsoft-exams-and-tuition"></a>Microsoft-prov och tuition
 
-| Kategori | Bevis för körning    |
+| Kategori | Bevis på körning    |
 | ------ | ----------- |
-| Core-krav    | Kurs kod/Tentamens kod på Microsoft Learning |
-| Kommunikations krav | Faktura från tredje part med kurs kod och datum för slut för ande eller faktura med Tentamens kod och datum för slut för ande |
-| Mått     | Deltagar lista och kostnad per person |
-|Berättigade utgifter    | Avgift – examen: Microsofts Tentamens avgifter för certifieringar och kompetenser<br><br>Avgift – utbildning/Tuition: Microsoft Tuition-avgifter för certifieringar och kompetenser, inklusive utbildnings utgifter på begäran<br><br>Utbildning av ISV-lösningar från tredje part – Tuition utgifter för utbildning av lösningar från tredje part som kan demonstreras för att utnyttja eller finnas i Microsofts program och plattformar<br><br>Avgift – MCT-förnyelse: Microsoft Certified Trainer förnyelse avgift (inget mått krävs)<br><br>|
+| Grundläggande krav    | Kurskod/provkod på Microsoft Learning |
+| Kommunikationskrav | Faktura från tredje part med kurskod och datum för slutförande eller faktura med provkod och slutförandedatum |
+| Mått     | Deltagarlista och kostnad per person |
+|Berättigade utgifter    | Avgift – prov: Microsoft-provavgifter för certifieringar och kompetenser<br><br>Avgift – utbildning/terminering: Microsoft-terminsavgifter för certifieringar och kompetenser, inklusive utbildningskostnader på begäran<br><br>Utbildning av isv-lösning från tredje part – kurskostnader för utbildning om lösningar från tredje part som kan visas för att utnyttja eller finnas på Microsofts program och plattformar<br><br>Avgift – MCT-förnyelse: Förnyelseavgift för Microsoft Certified Trainer (inget mått krävs)<br><br>|
 
-### <a name="internal-training-and-floor-days"></a>Intern utbildning och golv dagar
+### <a name="internal-training-and-floor-days"></a>Intern träning och golvdagar
 
-| Kategori | Bevis för körning    |
+| Kategori | Bevis på körning    |
 | ------ | ----------- |
-| Core-krav    | 100% Microsoft innehåll för tids ramen för dagen eller händelse utrymmet som begärs |
-| Kommunikations krav | Agenda-eller händelse program för utbildning<br><br>Microsoft presentations innehåll<br><br>|
+| Grundläggande krav    | 100 % Microsoft-innehåll för tidsramen för dag eller händelseutrymme som begärts |
+| Kommunikationskrav | Träningsträning eller händelseprogram<br><br>Microsoft-presentationsinnehåll<br><br>|
 | Mått     | Antal deltagare |
-|Berättigade utgifter    | Avgift – utbildning/Tuition/registrering/Digital utbildnings plattform eller digital tränings format<br><br>Signering/visning/tryckt material<br><br>Giveaways<br><br>Avgifts byrå: marknadsförings tjänster, inklusive byrå avgifter<br><br>Avgift – extern talare<br><br>Hyra av anläggning och utrustning<br><br>Catering (exklusive alkohol) |
+|Berättigade utgifter    | Avgift – utbildning/terminering/registrering/digital utbildningsplattform eller digital utbildningsformatering<br><br>Signering/visning/tryckt material<br><br>Giveaways<br><br>Avgift – myndighet: marknadsföringstjänster, inklusive agentavgifter<br><br>Avgift – extern talare<br><br>Avgift – anläggning och utrustningsuthyrning<br><br>Docka (exklusive dryck) |
 
-### <a name="microsoft-hosted-conferences"></a>Microsofts värdbaserade konferenser
+### <a name="microsoft-hosted-conferences"></a>Microsofts värdkonferenser
 
-| Kategori | Bevis för körning    |
+| Kategori | Bevis på körning    |
 | ------ | ----------- |
-| Core-krav    | Microsoft-värdbaserade konferenser. Flyg/hotell-utgifter är begränsade till USD 5 000 per person per konferens, begränsad till 3 deltagare, med en total Kap på USD 45 000 för flyg/träna pris-/hotell kostnader per period per program. Värd tjänster kan ha olika avdrag. |
-| Kommunikations krav | Kopia av konferens-/händelse inbjudan eller registrerings bekräftelse som visar bevis om att konferensen är värd för Microsoft<br><br>Transport rutt med rese datum (endast flyg utgifter) |
+| Grundläggande krav    | Microsofts värdbaserade konferenser. Flyg-/hotellkostnader är begränsade till upp till 5 000 USD per person och konferens, begränsat till 3 deltagare, med ett totalt tak på 45 000 USD för flygresor/flygpriser/hotellkostnader per period och program. Värdtjänster kan ha olika traktamenten. |
+| Kommunikationskrav | Kopia av en konferens-/händelseinbjudan eller registreringsbekräftelse som visar att Microsoft har en konferens som värd<br><br>Transportväg med resdatum (resa – endast flygkostnader) |
 | Mått     | NA |
-|Berättigade utgifter    | Avgifts registrering: för upp till tre deltagare per konferens<br><br>Res-flyg/hotell: transport (flyg eller tåg pris och tillämpliga skatter) och hotell (endast rums taxa och tillämpliga skatter)<br><br>Obs! res-flyg/hotell utgifter är begränsade till USD 5 000 per person per konferens, begränsad till 3 deltagare, med en total Kap på USD 45 000 för flyg/träna pris-/hotell kostnader per period per program. Värd tjänster kan ha olika avdrag. |
+|Berättigade utgifter    | Avgift – registrering: för upp till 3 deltagare per konferens<br><br>Resa – flygresa/hotell: Transport (flygresa eller färdmedel och tillämpliga skatter) och hotell (endast rumspriser och tillämpliga skatter)<br><br>Obs! Resor – Flyg-/hotellkostnader är begränsade till 5 000 USD per person och konferens, begränsat till 3 deltagare, med ett totalt tak på 45 000 USD för flygresa/hotellkostnader per period och program. Värdtjänster kan ha olika traktamenten. |
 
-### <a name="product-seedingdemo-units"></a>Enheter för produkt dirigering/demonstration
+### <a name="product-seedingdemo-units"></a>Produktseeding-/demoenheter
 
-| Kategori | Bevis för körning    |
+| Kategori | Bevis på körning    |
 | ------ | ----------- |
-| Core-krav    | Du kan begära upp till 10% av de totala upplupna co-op-fonderna eller USD 3 000, beroende på vilket som är högre eller per program period. Surface PC & Hub-partners har ingen anspråks gräns. |
-| Kommunikations krav | System specifikationer för demo enheter som skapats internt.<br><br>Leverans bevis för demo enheter från tredje part.<br><br>Bevis på tredje parts demo enhet. |
+| Grundläggande krav    | Du kan göra anspråk på upp till 10 % av det totala upplupna co-op-beloppet eller 3 000 USD beroende på vad som är större än eller per programperiod. Surface PC & Hub-partner har ingen anspråksgräns. |
+| Kommunikationskrav | Systemspecifikationer för inbyggda demoenheter.<br><br>Leveransbevis för demoenhet från tredje part.<br><br>Bevis på demoenhet från tredje part. |
 | Mått     | NA |
 |Berättigade utgifter    | NA |
 
- Om du vill ha mer information laddar du ned [partner stimulans Guidebook](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) (inloggning krävs).
+ Mer information finns i [Partner Incentives Co-op Guidebook](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) (inloggning krävs).
 
 ## <a name="next-steps"></a>Nästa steg
 

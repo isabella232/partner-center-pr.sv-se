@@ -9,21 +9,16 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f53661918508271901c6403e8270105c06d4246a
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 874d2e564b56acd37065c863fbf945b29c44167d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818770"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146535"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Hantera dina Microsoft Partner Network medlemsförmåner och erbjudanden i Partnercenter
 
-**Lämpliga roller**
-
-- Global administratör
-- Administratör för användarhantering
-- Administratörsagent
-- MPN-partneradministratör
+**Lämpliga roller:** Globala | Administratörsbehörighet för | Administratörsagent | MPN-partneradministratör
 
 >[!IMPORTANT]
 >Den här artikeln beskriver hur du börjar använda dina Microsoft Partner Network(MPN)-medlemskapsförmåner i Partnercenter – den här webbplatsen. Om du inte har fått någon inbjudan att flytta företagsinformation från Partner Membership Center (PMC) till Partnercenter bör du fortsätta att hantera dina MPN-medlemskapsförmåner i PMC. [Logga in](https://partner.microsoft.com/_login?authType=OpenIdConnect) på PMC nu.
@@ -106,7 +101,7 @@ Om du vill aktivera licensbaserade prenumerationer klickar du på listr listruta
 
 ## <a name="manage-technical-benefits---microsoft-product-support"></a>Hantera tekniska fördelar – Microsofts produktsupport
 
-I det här avsnittet beskrivs hur du aktiverar och hanterar tekniska supportförmåner på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard) Om ditt Microsoft Partner Network är kvar i Partner Membership Center (PMC), måste du dock kontakta en annan resurs som Partner Frontline för att hjälpa dig att aktivera dina tekniska fördelar. Se [Aktivera tekniska förmåner utanför Partnercenter.](https://docs.microsoft.com/partner-center/partner-membership-center-tech-benefits-activate)
+I det här avsnittet beskrivs hur du aktiverar och hanterar tekniska supportförmåner på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard) Om ditt Microsoft Partner Network är kvar i Partner Membership Center (PMC), måste du dock kontakta en annan resurs som Partner Frontline för att hjälpa dig att aktivera dina tekniska fördelar. Se [Aktivera tekniska förmåner utanför Partnercenter.](partner-membership-center-tech-benefits-activate.md)
 
 Gör följande om du vill se tekniska fördelar med produktsupporten i Partnercenter:
 
@@ -133,9 +128,10 @@ Gör följande om du vill se tekniska fördelar med produktsupporten i Partnerce
    - För både Action Pack och Guld-/Silver-kompetenspartner använder du **Microsofts produktsupportärenden** för de senaste lokala produkterna (endast aktuella och tidigare versioner). 
 
      >[!NOTE]
-     > Åtkomst-ID och kontrakt-ID krävs för tekniska supportbegäranden för lokala Azure-produkter (inte CSP) och Dynamics-produkter. För att hitta ditt åtkomst-ID och kontrakt-ID kan du även läsa Hitta dina förmåner i [framtiden.](mpn-find-benefits.md#find-access-id-and-contract-id-for-technical-benefits)
-     > 
-[Läs mer om teknisk support för lokala eller molnbaserade produkter](https://docs.microsoft.com/partner-center/mpn-benefits-technical-support)
+     > Åtkomst-ID och kontrakt-ID krävs för tekniska supportbegäranden för lokala Azure-produkter (inte CSP) och Dynamics-produkter. Mer information om Learm finns [i Tekniska supportförmåner.](mpn-benefits-technical-support.md)
+
+[Läs mer om teknisk support för lokala eller molnbaserade produkter](mpn-benefits-technical-support.md)
+
   
 ## <a name="manage-technical-benefits---partner-advisory-hours"></a>Hantera tekniska förmåner – rådgivningstimmar för partner
 Rådgivningstimmar för partner är den valuta som används för tekniska presales- och distributionstjänster **(TPD),** helt enkelt logga in för att skicka en begäran (aktivering eller användartilldelning krävs inte).
@@ -150,7 +146,7 @@ Om du vill se de tekniska förmånerna för dina rådgivningstimmar för partner
      >[!NOTE]
      > Om sidan tekniska fördelar visar meddelandet "Ser ut som om du inte har några förmåner *ännu"* har du loggat in med ett partnerkonto som inte har guld-, silver- eller Microsoft Action Pack-erbjudanden och du inte är berättigad att använda tjänsten eller om du har använt fel konto för att logga in.
      > 
-[Läs mer om tekniska tjänster för försäljning och distribution (TPD)](https://docs.microsoft.com/partner-center/technical-benefits)
+[Läs mer om tekniska tjänster för försäljning och distribution (TPD)](technical-benefits.md)
   
 ## <a name="manage-go-to-market-offers"></a>Hantera Go-To-Market-erbjudanden
 
@@ -169,9 +165,9 @@ Om du vill se de tekniska förmånerna för dina rådgivningstimmar för partner
 
    a. Välj en användare i listan. Om den användare som du vill tilldela inte finns i listan kan du lägga [till nya användare](create-user-accounts-and-set-permissions.md) i **Kontoinställningar.**
 
-   b. Ange en e-postadress för användaren som skiljer sig från den e-postadress som är kopplad till ditt företags Partnercenter-konto.
+   b. Ange en e-postadress för användaren som skiljer sig från den e-postadress som är associerad med ditt företags Partnercenter-konto.
 
-      Vi skickar e-postanvisningar för att använda ditt Go-To-Market-erbjudande till din avsedda marknadsföringskontakts e-postadress.
+      Vi skickar e-postanvisningar för användning av ditt Go-To-Market-erbjudande till din avsedda marknadsföringskontakts e-postadress.
 
    c.  Ange telefonnummer och språk för den här marknadsföringskontakten. När du har angett den här informationen väljer du **Tilldela användare**.
 

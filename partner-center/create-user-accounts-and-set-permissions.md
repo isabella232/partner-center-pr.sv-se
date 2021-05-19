@@ -1,6 +1,6 @@
 ---
-title: Skapa användar konton och tilldela roller
-description: Varje medarbetare måste tilldelas en roll innan de kan komma åt Partner Center. Lär dig hur du skapar användar konton, tilldelar roller och anger behörigheter.
+title: Skapa användarkonton och tilldela roller
+description: Varje medarbetare måste tilldelas en roll innan de kan komma åt Partnercenter. Lär dig hur du skapar användarkonton, tilldelar roller och anger behörigheter.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,47 +9,43 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: c8fad4432f9aabba69877d80038ec9e2665c639d
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 9621f0bc3283d7d3b08e2ebac62b4e5d8c95a4d4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492542"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148150"
 ---
 # <a name="create-user-accounts"></a>Skapa användarkonton  
 
-**Lämpliga roller**
+**Lämpliga roller:** Kontoadministratörsroller | Globala | Administratör för användarhantering
 
-- Kontoadministratör
-- Global administratör
-- Administratör för användar hantering
-
-Skapa användar konton för medarbetare som behöver åtkomst till Partner Center. Dessa uppgifter måste utföras av administratör för användar hantering, konto administratör eller global administratör. Användaren som utför dessa uppgifter måste också tilldelas Azure Active Directory-roller (AAD) för användar administratör eller global administratör. Mer information om AAD-roller finns [i administratörs roll behörigheter i Azure Active Directory](/azure/active-directory/users-groups-roles/directory-assign-admin-roles).
+Skapa användarkonton för anställda som behöver åtkomst till Partnercenter. Dessa uppgifter måste utföras av användarhanteringsadministratören, kontoadministratören eller den globala administratören. Användaren som utför dessa uppgifter måste också tilldelas AAD Azure Active Directory rollerna (Användaradministratör) eller Global administratör. Mer information om AAD-roller finns i [Administratörsrollbehörigheter i Azure Active Directory](/azure/active-directory/users-groups-roles/directory-assign-admin-roles).
 
 ## <a name="add-a-new-user"></a>Lägga till en ny användare
 
-1. Från **inställnings** ikonen längst upp till höger i Partner Center väljer du **konto inställningar** och väljer sedan **användar hantering**.
+1. Från ikonen **Inställningar** längst upp till höger i Partnercenter väljer du **Kontoinställningar** och sedan **Användarhantering.**
 
 2. Välj **Lägg till användare**.
 
 3. Ange användarens fullständiga namn och unika e-postadress.
 
-4. Välj typ av agent och/eller vilken typ av administratör som du vill tilldela till användaren. Åtkomst till Partner Center är rollbaserad, så du kan tilldela behörigheter för att anpassa användarens vy så att bara de funktioner som användaren behöver för att slutföra vissa uppgifter visas.  Om användarna vill ha en roll tilldelning kan de hitta globala administratörer att kontakta genom att gå till **användar hantering** och filtrering på global administratör.
+4. Välj typ av agent och/eller den typ av administratör som du vill tilldela till användaren. Åtkomst till Partnercenter är rollbaserad, så du kan tilldela behörigheter för att anpassa användarens vy så att endast de funktioner som användaren behöver för att slutföra specifika uppgifter visas.  Om användarna vill ha en rolltilldelning kan de hitta globala administratörer att kontakta genom att gå till **Användarhantering och** filtrering på global administratör.
 
 5. Välj **Lägg till** när du vill skapa användarkontot. Bekräfta användarens information på nästa sida.
 
 > [!IMPORTANT]  
-> Anteckna den nya användarens inloggnings information som visas på den här sidan. Se till att kopiera och skicka den här informationen till den nya användaren eftersom du inte kommer att kunna komma åt den igen senare. 
+> Anteckna den nya användarens inloggningsinformation som visas på den här sidan. Se till att kopiera och skicka den här informationen till den nya användaren eftersom du inte kan komma åt den igen senare. 
 
-Användaren måste logga in på Partner Center med sitt användar namn och tillfälliga lösen ord. När användaren loggar in på Partner Center för första gången uppmanas de att ändra sina lösen ord.
+Användaren måste logga in på Partnercenter med sitt användarnamn och tillfälliga lösenord. När användaren loggar in på Partnercenter för första gången uppmanas de att ändra sitt lösenord.
 
-## <a name="assign-user-roles"></a>Tilldela användar roller
+## <a name="assign-user-roles"></a>Tilldela användarroller
 
-Du måste ha en tilldelad roll för att kunna arbeta i Partner Center.  För närvarande inkluderar roller Azure Active Directory klient roller, CSP-roller (Cloud Solution Provider) och företags roller som inte är AAD-AAD. Ett enskilt företag kan ha behov av alla dessa roller.
+Om du vill arbeta i Partnercenter måste du ha en tilldelad roll.  För närvarande omfattar roller Azure Active Directory klientroller, Molnlösningsleverantör-roller (CSP) och icke-AAD-företagsroller. Ett enskilt företag kan ha behov av alla dessa roller.
 
 >[!Important]
->Individer måste anges i din klient organisation för att få åtkomst till Partner Center. Roll tilldelningar ger ytterligare åtkomst.
+>Enskilda användare måste anges i din klientorganisation för att få åtkomst till Partnercenter. Rolltilldelningar ger ytterligare åtkomst.
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Tilldela användar roller och behörigheter för medarbetare som behöver arbeta i Partner Center](permissions-overview.md)
+- [Tilldela användarroller och behörigheter för anställda som behöver arbeta i Partnercenter](permissions-overview.md)

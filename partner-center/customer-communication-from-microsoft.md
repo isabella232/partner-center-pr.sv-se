@@ -9,29 +9,25 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 6de0d50364930999a7d0f335016a7c5a1864d8ab
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 407b133d37d3f1c3ca46c8a9c15b3a75e93f2922
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284357"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147453"
 ---
 # <a name="guidelines-for-successful-customer-communication-with-microsoft"></a>Riktlinjer för lyckad kundkommunikation med Microsoft
 
-**Gäller för**
+**Gäller för**: Partner Center-| Partnercenter för Microsoft Cloud for US Government
 
-- Välkommen till Partnercenter för Microsoft Cloud for US Government
+**Lämpliga roller:** Supportagent
 
-**Lämpliga roller**
-
-- Supportagent
-
-I allmänhet förväntar vi oss att all kommunikation med kunden kommer från Molnlösningsleverantör partner. Eftersom du äger kundfaktureringsrelationen skickar Microsoft inte kommunikation direkt till dina kunder som är relaterade till deras prenumerationer.
+I allmänhet förväntar vi oss att all kommunikation med kunden kommer från Molnlösningsleverantör partner. Eftersom du äger kundfaktureringsrelationen skickar Microsoft inte någon kommunikation direkt till dina kunder som rör deras prenumerationer.
 
 Microsoft kan kommunicera direkt med kunder om tjänstincidenter eller annan driftsinformation.
 
-För kunder som redan har befintliga kommersiella relationer med Microsoft fortsätter Microsoft att kommunicera direkt med dem om sina icke-CSP-produkter och -tjänster.
+För kunder som redan har befintliga kommersiella relationer med Microsoft fortsätter Microsoft att kommunicera direkt med dem om sina produkter och tjänster som inte är CSP.
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Kundens självsupport via Microsoft Office 365-administrationscentret eller via Azure Portal](customer-self-support.md)
+- [Kundens självbetjäning via Microsoft Office 365-administrationscenter eller via Azure Portal](customer-self-support.md)

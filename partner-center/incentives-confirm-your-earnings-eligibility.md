@@ -1,34 +1,31 @@
 ---
-title: Bekräfta intäkts berättigande
+title: Bekräfta intäktsberättigande
 ms.topic: how-to
 ms.date: 09/11/2020
-description: Se till att du är berättigad till att skapa intäkter och få betalt i stimulans programmet. Kontrol lera dina intäkts-och intäkts regler i Partner Center.
+description: Kontrollera att du är berättigad att skapa intäkter och få betalt i incitamentsprogrammet. Kontrollera dina intäktsberättigande- och intäktsregler i Partnercenter.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 2eb0fe92b5b62b56742ef06617275451e6850011
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 0d9b83f2e834400e498ad7b419daf7c8bfbde305
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179283"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146824"
 ---
-# <a name="confirm-your-incentives-earnings-eligibility"></a>Bekräfta dina incitaments intäkts kvalifikationer
+# <a name="confirm-your-incentives-earnings-eligibility"></a>Bekräfta behörigheten för incitamentsintäkter
 
-**Lämpliga roller**
+**Lämpliga roller:** Incitamentsadministratörsroller | Global administratör
 
-- Incitaments administratör
-- Global administratör
-
-Innan du kan betala för ditt arbete i stimulans programmet måste du först slutföra alla nödvändiga krav.
+Innan du kan få betalt för ditt arbete i incitamentsprogrammet måste du först slutföra alla nödvändiga behörighetskrav.
 
 ## <a name="how-do-i-check-my-earning-eligibility-and-revenue-rules"></a>Hur vet jag om jag är berättigad till intäkter och vilka intäktsregler som gäller?
 
-1. Logga in på [partner incitament](https://partner.microsoft.com/membership/partner-incentives).
-2. Rulla ned för att komma åt dokumenten för programmet som intresserar dig och välj dokument länken för respektive program.
-3. I dokumentet läser du avsnittet **partner kvalifikationer** och **berättigade intäkts regler**.
+1. Logga in på [Partnerincitament](https://partner.microsoft.com/membership/partner-incentives).
+2. Rulla ned för att få åtkomst till dokumenten för ditt intresserade program och välj dokumentlänken för respektive program.
+3. I dokumentet går du till avsnitten **Partnerberättigande och** **Intäktsregler för berättigade partner.**
 
 ## <a name="next-steps"></a>Nästa steg
 

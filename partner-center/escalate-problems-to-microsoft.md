@@ -1,6 +1,6 @@
 ---
 title: Eskalera problem till Microsoft
-description: Lär dig vilka problem som Microsoft-partner förväntas lösa för sina kunder och vilka problem de kan behöva eskalera till Microsoft.
+description: Lär dig vilka problem Som Microsoft-partner förväntas lösa sig själva för sina kunder och vilka problem de kan behöva eskalera till Microsoft.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,58 +9,51 @@ ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 4422c5b002f8233f9d6225e7d4e7a82f6e37a280
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 9504f66a53b2dc2303303e3f82020b591ce1f94f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441854"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146977"
 ---
-# <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Eskalera problem till Microsoft och lär dig mer om vilka problem som är mer lämpliga för Microsoft-eskalering  
+# <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Eskalera problem till Microsoft och lär dig vilka problem som passar bättre för Microsoft-eskalering  
 
-**Gäller för**
+**Gäller för**: Partner Center-| Partnercenter för Microsoft Cloud for US Government
 
-- Välkommen till Partnercenter för Microsoft Cloud for US Government
+**Lämpliga roller:** Administratörsagent | Global | Försäljningsagentens | Supportagent
 
-**Lämpliga roller**
+Det förväntas att du kommer att lösa problem åt dina kunder. Dina första steg bör vara att [kontrollera tjänstens hälsotillstånd för](check-service-health.md) befintliga, dokumenterade problem. Om det inte tar upp kundproblemet kan du använda dina administratörsbehörigheter för att felsöka programvara, inställningar och konfiguration.
 
-- Administratörs agent
-- Global administratör
-- Försäljnings agent
-- Support agent
+Det finns dock flera typer av problem som du måste lämna över till Microsoft för att åtgärda:
 
-Det förväntas att du ska lösa problem på uppdrag av dina kunder. De första stegen bör vara att [kontrol lera tjänstens hälsa](check-service-health.md) för befintliga, dokumenterade problem. Om det inte löser kund problemet kan du använda administratörs behörigheterna för att felsöka program varan, inställningarna och konfigurationen.
+- Odokumenterade problem med tjänster som inte fungerar enligt tjänstbeskrivningar.
 
-Det finns dock flera kategorier av problem som du måste lämna till Microsoft för att åtgärda problemet:
+- Tjänster som inte är tillgängliga
 
-- Problem som inte har dokumenterats med tjänster som inte fungerar enligt tjänst beskrivningar.
+- Buggar och andra oregelbundenheter som påverkar tjänstens utseende eller drift
 
-- Ej tillgängliga tjänster
-
-- Buggar och andra överträdelser som påverkar tjänstens utseende eller åtgärd
-
-- Storskaliga nätverks avbrott
+- Storskaliga nätverksavbrott
 
 - Regionala problem med påverkan på flera klienter
 
-## <a name="submit-a-support-request"></a>Skicka en support förfrågan
+## <a name="submit-a-support-request"></a>Skicka en supportbegäran
 
-1. Logga in på [instrument panelen](https://partner.microsoft.com/dashboard)för partner Center.
+1. Logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard)
 
-2. Från menyn Partner Center väljer du **kunder** och väljer sedan den kund som behöver support.
+2. I menyn i Partnercenter väljer **du Kunder** och sedan den kund som behöver support.
 
-3. Välj **tjänst hantering** och välj **tjänst begär Anden**.
+3. Välj **Tjänsthantering** och välj **Tjänstförfrågningar.**
 
-4. Välj **ny begäran** och välj sedan **Microsoft Office 365**.
+4. Välj **Ny begäran** och välj sedan Microsoft Office **365.**
 
-5. Du kommer till Office 365-portalen där du behöver logga in med dina autentiseringsuppgifter för ditt partner Center.
+5. Du kommer till Office 365-portalen där du måste logga in med dina autentiseringsuppgifter för Partnercenter.
 
-6. Välj **support**, **ny tjänstbegäran** från menyn till vänster.
+6. Välj **Support**, **Ny tjänstbegäran** på den vänstra menyn.
 
-7. Välj support avsnittet.
+7. Välj supportämnet.
 
 >[!NOTE]
->Det är viktigt att du startar från Partner Center-instrumentpanelen så att relationen mellan partner och kund underhålls. 
+>Det är viktigt att börja från instrumentpanelen i Partnercenter så att relationen mellan partner och kund upprätthålls. 
 
-Information om rapporterings problem för kundens räkning finns i [rapportera problem för en kunds räkning](report-problems-on-behalf-of-a-customer.md).
+Information om rapportering av problem åt kunden finns i [Rapportera problem för en kunds räkning.](report-problems-on-behalf-of-a-customer.md)
 

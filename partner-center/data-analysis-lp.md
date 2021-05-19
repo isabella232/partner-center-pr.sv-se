@@ -1,71 +1,68 @@
 ---
-title: Använda analyser för prenumerations insikter
+title: Använda analyser för prenumerationsinformation
 ms.topic: article
 ms.date: 11/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig hur du använder analyser i Partner Center för att bättre förstå din verksamhet och hur dina kunder använder de licenser som du har köpt.
+description: Lär dig hur du använder analyser i Partnercenter för att bättre förstå din verksamhet och hur dina kunder använder de licenser som du har köpt.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3aec8c8abe6184be48fd54e0f76bc7e0c08e4792
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 7dab3469b885f693ba8498e8a07eb120b8f07021
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441888"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147215"
 ---
-# <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Använd Analytics för att lära dig mer om prenumerations intäkter
+# <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Använd analys för att lära dig mer om prenumerationsintäkter
 
-**Lämpliga roller**
+**Lämpliga roller:** Globala | MPN-partneradministratör
 
-- Global administratör
-- MPN-partner administratör
+När du planerar sätt att utveckla CSP-verksamheten behöver du vara införstådd med hur kunderna använder sina Microsoft-produkter. Du har flera alternativ för att samla in data i Partnercenter och du kan samla in data om både din verksamhet och om och hur dina kunder använder de licenser som de har köpt. Om du använder CSP-direktmodellen har du också möjlighet att installera och använda appen Partnercenteranalys för Power BI för att samla in ytterligare data.
 
-När du planerar sätt att utveckla CSP-verksamheten behöver du vara införstådd med hur kunderna använder sina Microsoft-produkter. Du har flera alternativ för att samla in data i Partner Center och du kan samla in data både i företaget och på om och hur dina kunder använder de licenser som de har köpt. Om du är i CSP Direct-modellen har du också möjlighet att installera och använda Partner Center Analytics-appen för Power BI att samla in ytterligare data.
+## <a name="access-to-the-subscription-analytics"></a>Åtkomst till prenumerationsanalys
 
-## <a name="access-to-the-subscription-analytics"></a>Åtkomst till prenumerations analys
+1. Logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard/home)
+1. Från CSP på Menyn i Partnercenter väljer **du Analysera** och sedan **Prenumerationsanalys.**
 
-1. Logga in på [instrument panelen](https://partner.microsoft.com/dashboard/home)för partner Center.
-1. Från CSP i menyn Partner Center väljer du **analysera** och väljer sedan **prenumerations analys**.
+1. De avslutande tolvmånaders CSP-intäkterna visas överst på sidan
 
-1. Den efterföljande CSP-intäkten för tolv månader visas överst på sidan
+:::image type="content" source="images/analytics/subscription1.png" alt-text="Prenumerationsskärm":::
 
-:::image type="content" source="images/analytics/subscription1.png" alt-text="Prenumerations skärmen":::
+## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Intäkter från Twelve-Month CSP (TTM)
 
-## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Avslutande Twelve-Month (TTM) CSP-intäkter
+Avslutande intäkter från 12 månaders CSP representerar de avslutande Molnlösningsleverantör i USD på partnernivå för globalt konto. Data uppdateras den åttonde i varje månad för att visa de avslutande tolvmånadersintäkterna fram till föregående månad. Den 9 september 2020 bör du till exempel kunna se TTM för den fasta perioden september 2019 till augusti 2020.
 
-Efterföljande 12-månaders CSP-intäkt representerar den efterföljande moln lösnings leverantörens program intäkt i USD på en global partners konto nivå. Data uppdateras den åttonde månaden i varje månad för att visa den efterföljande tolv månaders intäkten fram till föregående månad. Den 9 september 2020 bör du till exempel kunna se TTM för den fasta perioden från september 2019 till augusti 2020.
+Intäkterna som visas i Partnercenter beräknas för ett fast tidsintervall på 12 månader och kan inte ändras till en kortare tidsram.
 
-Den intäkt som visas på Partner Center beräknas för ett fast tidsintervall på 12 månader och kan inte ändras till en kortare tidsram.
+Så här ser du en uppdelning av intäkterna på din partnerplatskontonivå:
 
-Om du vill se en uppdelning av intäkterna på din partner plats konto nivå:
-
-- Välj länken "Ladda ned information" och ladda ned en. TSV-fil som visar TTM-intäkterna över alla dina platser.
+- Välj länken "Hämta information" och ladda ned en .tsv-fil som visar TTM-intäkterna för alla dina platser.
 
 >[!NOTE] 
->Att summera de enskilda TTM intäkts numren över MPN-ID: n i. tsv-filen kan förefalla vara större än de totala TTM-intäkterna som visas på Partner Center. Detta beror på att intäkterna kan ha dubbla räknats för prenumerationer med flera partner uppdrag i den nedladdade filen.
+>Summering av enskilda TTM-intäktsnummer över MPN-ID:er i .tsv-filen kan verka större än de totala TTM-intäkter som visas i Partnercenter. Det beror på att intäkterna kan räknas dubbelt för prenumerationer med flera partnerattributioner i den nedladdade filen.
 
-## <a name="subscription-summary"></a>Prenumerations Sammanfattning
+## <a name="subscription-summary"></a>Prenumerationssammanfattning
 
-Den nedre halvan av skärmen visar en sammanfattning av prenumerationerna. Använd följande filter för att se nödvändig prenumerations information:  
+Den nedre halvan av skärmen visar en sammanfattning av prenumerationerna. Använd följande filter för att se nödvändig prenumerationsinformation:  
 
-1. **Varaktighet**: du kan välja att se prenumerations sammanfattningen för 
+1. **Varaktighet:** Du kan välja att se prenumerationssammanfattningen för 
 
-- 30D – de senaste 30 dagarna
-- 3M – de senaste 3 månaderna
-- 6 M – senaste 6 månaderna
-- 12M – de senaste 12 månaderna
+- 30D – Senaste 30 dagarna
+- 3M – Senaste 3 månaderna
+- 6 M – Senaste 6 månaderna
+- 12 M – Senaste 12 månaderna
 
-2. **Produkt typ**:
+2. **Produkttyp:**
  
 - Office 365
 - Microsoft 365
 - Dynamics 365
 - EMS
 
-Att tillämpa dessa filter påverkar inte TTM intäkts måttet överst i den här rapporten.
+Om du använder de här filtren påverkas inte TTM-intäktsmåttet överst i den här rapporten.
 
 
  
@@ -73,7 +70,7 @@ Att tillämpa dessa filter påverkar inte TTM intäkts måttet överst i den hä
 
 - [Analysera hur dina kunder använder de licenser som de har köpt](increasing-adoption-and-satisfaction.md)  
 - [Visa kundaktivitetsloggar](activity-logs.md)
-- [Partner Center Analytics-app för Power BI](power-bi-app-for-direct-partners.md)
+- [appen Partnercenteranalys för Power BI](power-bi-app-for-direct-partners.md)
 
 
 

@@ -1,70 +1,65 @@
 ---
-title: Förstå fakturerings fakturor för partner Center
+title: Förstå faktureringsfakturor i Partnercenter
 ms.topic: article
 ms.date: 05/18/2020
-description: Förstå fälten i faktura filen för fakturering i Partner Center. Här ingår fält och definitioner för alla faktura fält och fält för engångs kostnad.
+description: Förstå fälten i din fakturafil för Fakturering i Partnercenter. Fälten och definitionerna för alla fakturafält och fält för en gång-avgifter ingår.
 author: sodeb
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 44bda5256b14722f143a5bf937e73b2533b8c9f5
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 5cb60c775bd8de38b8d7ca69c4dd97cf11b919fd
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106178909"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146620"
 ---
-# <a name="understand-partner-center-billing-invoice-fields"></a>Förstå fakturerings faktura fält i Partner Center
+# <a name="understand-partner-center-billing-invoice-fields"></a>Förstå faktureringsfakturafält i Partnercenter
 
-**Lämpliga roller**
+**Lämpliga roller:** Globala | Administratörsbehörighet för | Faktureringsadministratörskonto | Supportagent
 
-- Global administratör
-- Administratör för användar hantering
-- Faktureringsadministratör
-- Support agent
+Du kan använda följande tabeller för att förstå fälten i partnercentrets fakturafiler.
 
-Du kan använda följande tabeller för att förstå fälten i filer för partner Center-fakturor.
+## <a name="invoice-file-fields"></a>Fält för fakturafil
 
-## <a name="invoice-file-fields"></a>Fält för faktura fil
-
-Följande fält visas på dina faktura filer.
+Följande fält visas i dina fakturafiler.
 
 | Field | Definition |
 | ----- | ---------- |
-| US FEIN | Ditt federala arbetsgivares identifierings nummer (FEIN). Detta är ditt USA Federal Tax Identifier-nummer. |
-| Kund nummer | Ditt kund nummer. |
-| Fakturera till | Adressen dit vi skickar din faktura. Du kan ändra företagets namn och adress i din fakturerings profil för partner Center. |
-| Licensbaserade avgifter | De fasta månatliga eller årliga avgifterna för dina köpta användnings licenser, faktureras i förväg för tjänsten. Det här talet är summan av alla kostnader i kolumnen **delsumma** (kolumn **T**) i din licensbaserade avstämnings fil. |
-| Användnings avgifter | Din Azure-användning. Detta omfattar nya tjänster eller program som är aktiverade och används under fakturerings perioden. Det här talet är summan av alla kostnader i kolumnen **PretaxCharges** (kolumn **Z**) i din användnings-baserade avstämnings fil. |
-| Rabatter | Den rabatt som kunden får från prenumerationens normala pris. Det här antalet visas som ett *fast belopp*, inte som ett pris per enhet eller licens. |
-| Krediter | Krediter eller justeringar av ändringar som gjorts i prenumerationer (till exempel licens ökningar eller minskningar). |
-| Delsumma | Totalt före skatt och skatte exklusiva kostnader och krediter. |
-| Skatt | Den totala momsen för dina aktuella kostnader, totalt i avsnittet **information** som börjar på sidan 2 i din faktura. Det här talet är summan av alla kostnader i kolumnen **TaxAmount** (kolumn **AA**) i din användnings-baserade avstämnings fil och kolumnen **skatt** (kolumn **U**) i din licensbaserade avstämnings fil. |
-| Andra krediter | Skatte exklusiva krediter. |
-| Totalt antal aktuella avgifter | Det belopp som förfaller i fakturerings valutan för fakturerings perioden. Dessa avgifter förfaller efter förfallo datumet för betalning. |
-| Betalningsanvisningar | Beskrivning av hur du betalar din faktura baserat på din region. *Var alltid noga med att inkludera ditt faktura nummer när du gör en betalning.* |
-| Faktura nr | Numret på din faktura. |
-| Faktureringsperiod | Månads perioden som leder fram till fakturerings datumet. Detta är den period under vilken användnings tjänster förbrukas och licensbaserade tjänster stäms av för eventuella kredit justeringar eller ändringar i licens antalet. |
-| Fakturadatum | Det fakturerings datum eller den jubileums dag då din faktura genereras varje månad. |
-| Betalningsvillkor | Betalnings villkoret. För en engångs inköp är detta alltid 60 dagar. |
-| Förfallo datum för betalning | Datumet då din betalning måste tas emot. |
-| Kund inköps order | Din inköps nummer ordning. |
-| Kundtjänst | Webbplats adressen där du kan komma åt kund tjänsten. |
-| Tjänst mottagare | Adressen där tjänsten används. (Detta är den juridiska företags adressen som är kopplad till företagets först konsumentsajter.) |
+| US FEIN | Ditt FEIN (Federal Employer Identification Number). Det här är USA nummer för federal skatteidentifierare. |
+| Kundnummer | Ditt kundnummer. |
+| Fakturera till | Adressen där vi skickar din faktura. Du kan ändra företagets namn och adress i faktureringsprofilen för Partnercenter. |
+| Licensbaserade avgifter | De fasta månatliga eller årliga avgifterna för dina köpta användningsbaserade licenser som debiteras i förväg för tjänsten. Det här talet är summan av alla avgifter i **kolumnen Delsumma** (kolumn **T**) i din licensbaserade avstämningsfil. |
+| Användningsbaserade avgifter | Din Azure-användning. Detta inkluderar nya tjänster eller program som har aktiverats och används under faktureringsperioden. Det här numret är summan av alla avgifter i **kolumnen PretaxCharges** (kolumn **Z)** i din användningsbaserade avstämningsfil. |
+| Rabatter | Rabatten som kunden får från prenumerationens normala pris. Det här numret visas som ett *fast belopp*, inte som ett pris per enhet eller licens. |
+| Krediter | Krediter eller justeringar för ändringar som görs i prenumerationer (till exempel licensökningar eller minskningar). |
+| Delsumma | Totalsumma före skatter och skatte-exklusiva avgifter och krediter. |
+| Skatt | Den totala momsen för dina aktuella avgifter, enligt summan i avsnittet **Information** som börjar på sidan 2 på fakturan. Det här numret är summan av alla avgifter i **Kolumnen TaxAmount** (kolumn  **AA)** i din användningsbaserade avstämningsfil och kolumnen Skatt (kolumn **U)** i din licensbaserade avstämningsfil. |
+| Andra krediter | Skatte exklusiv kredit. |
+| Totalt antal aktuella avgifter | Det belopp som ska betalas i faktureringsvalutan för faktureringsperioden. Dessa avgifter förfaller efter betalningens förfallodatum. |
+| Betalningsanvisningar | Beskrivning av hur du betalar din faktura, baserat på din region. *Se alltid till att inkludera ditt fakturanummer när du gör en betalning.* |
+| Faktura nej | Numret på din faktura. |
+| Faktureringsperiod | Den månadsperiod som leder fram till fakturadatumet. Det här är den period då användningsbaserade tjänster förbrukas och licensbaserade tjänster stäms av för eventuella kreditjusteringar eller ändringar i licensantalet. |
+| Fakturadatum | Faktureringsdatum eller årsdag då fakturan genereras varje månad. |
+| Betalningsvillkor | Betalningsvillkoret. För köp som görs en gång är detta alltid 60 dagar. |
+| Förfallodatum för betalning | Det datum då betalningen måste tas emot. |
+| Kund-IO | Din inköpsorder. |
+| Kundtjänst | Den webbplatsadress där du kan komma åt kundtjänst. |
+| Tjänstmottagare | Adressen där tjänsten används. (Det här är den juridiska företagsadress som är associerad med företagets granskning.) |
 
-## <a name="one-time-charges-fields"></a>Fält för engångs kostnad
+## <a name="one-time-charges-fields"></a>Fält för one-time-avgifter
 
-Följande fält gäller endast för **engångs kostnader** i Partner Center:
+Följande fält gäller endast för **en-gång-avgifter** i Partnercenter:
 
 | Field | Definition |
 | ----- | ---------- |
-| Datum | Inköps datum. |
-| Beskrivning | Produkt namn. |
-| Kvantitet | Antalet produkter (till exempel reservationer) som köpts. |
+| Datum | Inköpsdatum. |
+| Description | Produktnamn. |
+| Kvantitet | Antal produkter (till exempel reservationer) som köpts. |
 | Enhetspris | Pris per produkt (till exempel en reservation). |
-| Rabatter | Alla tillämpliga rabatter. |
-| Belopp före skatt | Del summan av inköpen före skatt. |
-| Moms | Skatte belopp. |
+| Rabatter | Eventuella rabatter. |
+| Belopp före skatt | Delsummor av inköp före skatter. |
+| Moms | Skattebelopp. |
 | Totalt | Totalt belopp som ska betalas. |

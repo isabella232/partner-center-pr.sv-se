@@ -1,71 +1,63 @@
 ---
-title: Partner Center för Microsoft amerikanska myndigheter
+title: Partnercenter för Microsoft US Government Cloud
 ms.topic: article
 ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Den här Partner Center-platsen är för Microsoft-partner som erbjuder Microsofts moln lösningar till kunder som arbetar med myndighets myndigheter i USA.
+description: Den här Partnercenter-webbplatsen är för Microsoft-partner som erbjuder Microsoft-molnlösningar till kunder som arbetar med myndigheter i USA.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2d25fcb99695a726ab99fca4c4163e268a464526
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 0fc1176c6620300002afbc9bf218afcceb777538
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441837"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146280"
 ---
-# <a name="partner-center-for-microsoft-cloud-for-us-government-supports-partner-offers-to-government-agencies"></a>Partner Center för Microsoft Cloud för amerikanska myndigheter stöder partner erbjudanden till myndighets myndigheter
+# <a name="partner-center-for-microsoft-cloud-for-us-government-supports-partner-offers-to-government-agencies"></a>Partnercenter för Microsoft Cloud for US Government stöd för partnererbjudanden till myndigheter
 
-**Gäller för**
+**Gäller för**: PartnerCenter för Microsoft Cloud for US Government
 
-- Välkommen till Partnercenter för Microsoft Cloud for US Government
+**Lämpliga roller:** Globala | Administratörsbehörighet för | Administratörsagent | Försäljningsagent | Faktureringsadministratör
 
-**Lämpliga roller**
+## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>Microsoft Cloud for US Government: Uppfylla dataskyddskrav
 
-- Global administratör
-- Administratör för användar hantering
-- Administratörs agent
-- Försäljnings agent
-- Faktureringsadministratör
+Utformad för amerikanska myndigheter, Microsoft Cloud for US Government amerikanska federala, statliga, lokala eller stamägda enheter att välja bland entiteter från microsofts tjänster för molnbaserad databehandling. För att på bästa sätt hantera kundernas specifika behov inom den offentliga sektorn har Microsoft gjort betydande investeringar i datacenter och är dedikerad att uppfylla dataskyddsefterlevnaden med amerikanska federala och statliga principer, uppdrag och krav. Partnercenter för Microsoft Cloud for US Government gör det möjligt för partner att sälja Microsofts molntjänster till dessa kunder.
 
-## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>Microsoft Cloud för amerikanska myndigheter: uppfylla data skydds krav
+Observera att vissa av funktionerna i Partnercenter kanske ännu inte är tillgängliga i Partnercenter för Microsoft Cloud for US Government.
 
-Microsoft Cloud för amerikanska myndigheter som har utformats för amerikanska myndigheter och som gör det möjligt för amerikanska federala, statliga, lokala eller stambaserad entiteter att välja mellan olika Microsoft-tjänster för data behandling i molnet. För bästa adress för kundernas särskilda behov har Microsoft gjort betydande investeringar i Data Center och är engagerade i att uppfylla data skydds efterlevnad med amerikanska federala och statliga principer, mandat och krav. Partner Center för Microsoft Cloud för amerikanska myndigheter gör det möjligt för partner att sälja Microsofts moln tjänster till dessa kunder.
+Microsoft Cloud for US Government en separat instans av [Microsoft Azure](https://azure.microsoft.com/overview/clouds/government/) som uppfyller dataskyddsbehoven för myndigheters säkerhets-, sekretess- och efterlevnadskrav. 
 
-Observera att vissa av de funktioner som är tillgängliga i Partner Center kanske ännu inte är tillgängliga i Partner Center för Microsoft Cloud för amerikanska myndigheter.
+Mer information finns i [Microsoft Cloud for US Government databladet](https://download.microsoft.com/download/C/9/C/C9CA3002-DFC4-4ADA-841F-DF42AEC042FB/Microsoft_Azure_Government_Datasheet_EN_US.PDF).
 
-Microsoft Cloud för amerikanska myndigheter tillhandahåller en separat instans av [Microsoft Azure](https://azure.microsoft.com/overview/clouds/government/) som uppfyller data skydds behoven för myndighets säkerhet, sekretess och efterlevnad. 
+## <a name="partner-center-for-microsoft-cloud-for-us-government-selling-cloud-solutions-to-us-government-entities"></a>Partnercenter för Microsoft Cloud for US Government: Sälja molnlösningar till amerikanska myndigheter
 
-Mer information finns i [Microsoft Cloud för data bladet för amerikanska myndigheter](https://download.microsoft.com/download/C/9/C/C9CA3002-DFC4-4ADA-841F-DF42AEC042FB/Microsoft_Azure_Government_Datasheet_EN_US.PDF).
-
-## <a name="partner-center-for-microsoft-cloud-for-us-government-selling-cloud-solutions-to-us-government-entities"></a>Partner Center för Microsoft Cloud för amerikanska myndigheter: sälja moln lösningar till amerikanska myndigheter
-
-När du har registrerat i program varan för Cloud Solution Provider (CSP) för Microsoft Cloud för amerikanska myndigheter använder du Partner Center för att sälja molnbaserade lösningar och tjänster till dina amerikanska myndighets kunder. 
+När du har registrerat dig i Molnlösningsleverantör-programmet (CSP) för Microsoft Cloud for US Government använder du PartnerCenter för att sälja molnspecifika lösningar och tjänster till dina amerikanska myndighetskunder. 
 
 > [!NOTE]  
-> När den här artikeln publicerades var följande Partner Center-funktioner ännu inte tillgängliga i Partner Center för Microsoft Cloud för amerikanska myndigheter (sedan publiceringen, några av funktionerna kan ha lagts till i partner centret och den här listan kan vara inaktuell):
+> När den här artikeln publicerades var följande Partnercenter-funktioner ännu inte tillgängliga i Partnercenter för Microsoft Cloud for US Government (eftersom publiceringen kan vissa av funktionerna ha lagts till i Partnercenter och listan kan vara in föråldrad):
 
 - Hitta en partner
 - Affärsprofiler
 - Referenser
-- Begär en åter försäljares relation med en kund (flera kanaler, flera partner)
-- Licens analys
-- Customer Insights
-- Indirekt åter försäljare/leverantörs modell och inställningar
+- Begära en återförsäljarrelation med en kund (flera kanaler, flera partner)
+- Licensanalys
+- Kundinsikter
+- Modell och inställningar för indirekt återförsäljare/leverantör
 - Kontrollera tjänststatus
-- Oberoende program varu leverantör (ISV)-registrering
-- Special kvalificering för kund
+- Oberoende isv-registrering (Software Vendor)
+- Kundspecifik kvalificering
 
-Följande partners Center-uppgifter hanteras med Azure Admin Portal för Microsoft Cloud för amerikanska myndigheter: 
+Följande Partnercenter-uppgifter hanteras med hjälp av Azure-administratörsportalen för Microsoft Cloud for US Government: 
 
-- Hantering av partner användare
-- Kund användar-och licens hantering
-- Återställa användarnas lösen ord
+- Användarhantering för partner
+- Kundanvändar- och licenshantering
+- Återställa användarnas lösenord
 
-Information om hur du hanterar användare och licenser finns [i användar-och licens hantering i Partner Center för Microsoft Cloud för amerikanska myndigheter](user-management-in-partner-center-for-microsoft-us-govt-cloud.md).
+Information om hur du hanterar användare och licenser finns [i Användar- och licenshantering i Partnercenter för Microsoft Cloud for US Government](user-management-in-partner-center-for-microsoft-us-govt-cloud.md).
 
-Information om registrering i CSP för Microsoft stats moln finns i [Registrera i CSP för Microsoft Cloud för amerikanska myndigheter](enroll-in-csp-for-microsoft-us-govt-cloud.md).
+Information om hur du registrerar i CSP för Microsoft Government Cloud finns i Registrera i [CSP för Microsoft Cloud for US Government](enroll-in-csp-for-microsoft-us-govt-cloud.md).
 
-Vanliga frågor och svar [om CSP-programmet för Microsoft Cloud för amerikanska myndigheter](faq-for-us-govt-cloud.md).
+Vanliga frågor och svar [finns i Vanliga frågor och svar om CSP-programmet för Microsoft Cloud for US Government](faq-for-us-govt-cloud.md).

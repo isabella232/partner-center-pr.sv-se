@@ -1,150 +1,145 @@
 ---
-title: CSP regional auktorisering av klient konsolidering
+title: Konsolidering av CSP-regional auktoriseringsklient
 ms.topic: how-to
 ms.date: 07/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Använd de här anvisningarna för att konsolidera klienter för olika länder/regioner. Detta inkluderar steg för att migrera kund konton och kund prenumerationer.
+description: Använd de här instruktionerna för att konsolidera klienter för olika länder/regioner. Detta omfattar steg för att migrera kundkonton och kundprenumerationer.
 author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2171e2b10101e99bdd8d415a936ba98af65c2a1b
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: d2168dcd60b8675a21960918dab49b778025fa51
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502578"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147589"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Instruktioner för CSP-auktorisering för konsolidering av klientorganisationer
 
-**Gäller för**
+**Gäller för:** Partner Center-| Partnercenter för Microsoft Cloud for US Government
 
-- Välkommen till Partnercenter för Microsoft Cloud for US Government
+**Lämpliga roller:** Globala | Administratörsagent
 
-**Lämpliga roller**
+\[Viss information gäller för frisläppt produkt som kan ändras avsevärt innan den släpps kommersiellt. Microsoft lämnar inga garantier, uttryckliga eller underförstådda, avseende informationen som visas här.\]
 
-- Global administratör
-- Administratörs agent
-
-\[Viss information relaterar till en för hands fri produkt som kan ändras avsevärt innan den släpps kommersiellt. Microsoft lämnar inga garantier, uttryckliga eller underförstådda, avseende informationen som visas här.\]
-
-Du kan konsolidera klienter för ditt företag. Använd de här anvisningarna för att konsolidera klienter för olika länder/regioner.
+Du kan konsolidera klienter för din verksamhet. Använd de här instruktionerna för att konsolidera klienter för olika länder/regioner.
 
 >[!NOTE]  
->Du måste vara medveten om alla etablerade prenumerationer och licens antal för var och en av dina kunder i kontot som du övergår från. Du kommer att etablera om samma exakta prenumerationer med samma licens antal under det nya centrala CSP-kontot som en del av migreringsprocessen. Använd funktionen Exportera lista för att skapa en lista över kunder att gå över till den centraliserade klienten.  När konsolideringen är klar kan du inte återgå till det tidigare klient organisations läget. Det kan också krävas en kund åtgärd.
+>Du måste vara medveten om alla etablerade prenumerationer och licensantal för var och en av dina kunder i det konto som du övergår från. Du kommer att återetablering av samma exakta prenumerationer med samma licensantal under det nya centrala CSP-kontot som en del av migreringsprocessen. Använd exportlistefunktionen för att skapa en lista över kunder som ska flyttas över till den centraliserade klientorganisationen.  När konsolideringen är klar kan du inte återgå till det tidigare klientorganisationstillståndet. Kundåtgärder kan också krävas.
 
 ## <a name="prepare-for-migration"></a>Förbereda för migrering
 
-- Logga in på **partner Center**  med hjälp av kontot för **över gång** (det som du kommer att övergå till det nya kontot) och granska alla kunder och alla tjänster som tillhandahålls för dessa kunder.
+- Logga in på **Partnercenter** med övergångskontot (det konto som du övergår till det nya kontot) och granska alla kunder och alla tjänster som har etablerats för dessa kunder. 
 
 - Logga ut från det här kontot.
 
-## <a name="migrate-customer-accounts"></a>Migrera kund konton
+## <a name="migrate-customer-accounts"></a>Migrera kundkonton
 
-1. Logga in på **partner Center** **med det nya kontot (det** som du använder för att överföra kunder till).
+1. Logga in på **Partnercenter**  med **övergångskontot** (nytt) (det som du för över kunder till).
 
 2. Välj **Kunder**.
 
-3. Välj **begär en åter försäljare relation**. Du får ett e-postmeddelande som standard för att skicka till dina kunder. Det här meddelandet innehåller en URL med det org-ID som är unikt för ditt nya partner Center-konto.
+3. Välj **Begär en återförsäljarrelation**. Du får ett standardmeddelande som du kan skicka till dina kunder. Det här meddelandet innehåller en URL med organisations-ID:t som är unikt för ditt nya Partnercenter-konto.
 
-4. **Kund åtgärd:** Se till att alla aktiva kunder som du vill migrera besöker den här URL: en. När du öppnar webb adressen uppmanas kunden att logga in på Office 365-portalen. Kunden loggar in med samma organisations-ID som de använder för att få åtkomst till Azure-och Office 365-administrations portalerna.
+4. **Kundåtgärd:** Se till att var och en av de aktiva kunder som du vill migrera besöker denna URL. När du öppnar URL:en uppmanas kunden att logga in på Office 365-portalen. Kunden loggar in med samma organisations-ID som de använder för att få åtkomst till Azure- och Office 365-administratörsportalerna.
 
-5. När du har loggat in uppmanas den globala administratören för **kund kontot** att skicka ett avtal som ger delegerad administratörs behörighet till det nya CSP-kontot. Om de samtycker väljer kunden kryss rutan och accepterar att auktorisera relationen.
+5. När du har loggat  in uppmanas den globala administratören för kundkontot att skicka ett avtal som ger delegerade administratörsbehörigheter till det nya CSP-kontot. Om kunden accepterar markerar kunden kryssrutan och godkänner att relationen godkänns.
 
-Kunderna kommer att visas i partnerns kund lista när de har skickat in avtalet, ett i taget.
+Kunderna visas i partnerns kundlista när de har skickat avtalet, en i rad.
 
-## <a name="migrating-office-365-and-non-azure-usage-based-subscriptions"></a>Migrera Office 365 och användnings prenumerationer som inte använder Azure
+## <a name="migrating-office-365-and-non-azure-usage-based-subscriptions"></a>Migrera office 365- och icke-Azure-användningsbaserade prenumerationer
 
-1. När din kund har undertecknat avtalet kan du återskapa deras prenumerationer under din centraliserade partner klient.
+1. När kunden har signerat avtalet kan du återskapa deras prenumerationer under din centraliserade partnerklientorganisation.
 
-2. Välj **kunder** från **partner Center**.
+2. Från **Partnercenter** väljer du **Kunder.**
 
-3. Öppna företags namnet för den kund som du vill migrera.
+3. Öppna företagsnamnet för den kund som du vill migrera.
 
-4. Välj **Lägg till prenumeration**.
+4. Välj **Lägg till prenumeration.**
 
-5. Lägg till rätt prenumerationer och licens antal från katalogen. Kontrol lera med den information som finns i **över gången från** partner konton.
+5. Lägg till rätt prenumerationer och licensantal från katalogen. Kontrollera med informationen som anges i **Övergång från** partnerkonton.
 
-   :::image type="content" source="images/regionalcustomer2.png" alt-text="kund lista":::
+   :::image type="content" source="images/regionalcustomer2.png" alt-text="kundlista":::
 
 6. Välj **Skicka.**
 
-   Tjänsterna tillhandahålls nu till kunden från **över gången till** partner kontot.
+   Tjänsterna tillhandahålls nu till kunden från **övergångskontot till** partnerkontot.
 
 7. Upprepa de här stegen för att migrera prenumerationer för alla ytterligare kunder.
 
-Innan du fortsätter till nästa avsnitt bör du se till att alla kund prenumerationer som finns under **över gången från** partner konton etableras på nytt under **över gången till** partner kontot.
+Innan du fortsätter till nästa avsnitt ser du till att alla kundprenumerationer som finns under Övergångs från **partnerkonton** etableras på nytt under **övergångskontot till** partnerkontot.
 
 > [!NOTE]
-> Partners måste pausa prenumerationer på **över gången från** partner klient kontot i Partner Center samma dag som prenumerationerna övergår till och konfigureras under **över gången till** partner klient kontot i partner centret för att säkerställa att dubbel fakturering inte sker. Support förfrågningar kommer att nekas för krediter på grund av eventuella överlappningar i faktureringen som sker från att inte inaktivera **över gången från** prenumerationer.
+> Partner måste inaktivera  prenumerationer på kontot för övergång från partnerklientorganisation i Partnercenter samma dag som prenumerationerna övergår och konfigureras under övergångskontot till **partnerklientorganisationen** i Partnercenter för att säkerställa att dubbel fakturering inte sker. Supportbegäranden nekas för krediter på grund av eventuell överlappning i faktureringen som inträffar från att inte korrekt inaktivera **övergången från** prenumerationer.
 
-## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>Inaktiverar Office 365-prenumerationer under över gång från partner konto
+## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>Inaktivera Office 365-prenumerationer under övergångskontot från partner
 
-Om du inaktiverar CSP-prenumerationen under **över gången från** partner konton avbryts eventuell framtida fakturering. Du behöver inte inaktivera Azure-prenumerationer manuellt, eftersom Azure-prenumerationer inaktive ras automatiskt under migreringsprocessen.
+Om du inaktiverar CSP-prenumerationen under **övergången från** partnerkonton stoppas eventuell framtida fakturering. Du behöver inte inaktivera Azure-prenumerationer manuellt eftersom Azure-prenumerationer inaktiveras automatiskt under migreringsprocessen.
 
-1. Logga in på **partner Center** med **över gång från** CSP-konto och navigera till kund listan.
+1. Logga in på **Partnercenter med** **övergångskontot från** CSP och gå till kundlistan.
 
-2. Öppna kunden med prenumerationer som du vill inaktivera och välj sedan det första erbjudandet som ska inaktive ras.
+2. Öppna kunden med prenumerationer att inaktivera och välj sedan det första erbjudandet som ska inaktiveras.
 
-3. Ställ in prenumerationen på **pausad** och välj sedan **Skicka**.
+3. Ställ in prenumerationen **på pausad** och välj sedan **Skicka**.
 
    >[!Note]
-   >Om du avbryter prenumerationen säkerställs dubbel fakturering.
+   >Om du pausar prenumerationen säkerställer du att dubbel fakturering inte sker.
 
-   Prenumerationen visar **inaktive** rad i prenumerations listan.
+   Prenumerationen visas **som inaktiverad** i prenumerationslistan.
 
-4. Upprepa de här stegen för alla prenumerationer under kunden. Kontrol lera att alla visas **inaktiverade.**
+4. Upprepa dessa steg för alla prenumerationer under kunden. Kontrollera att alla visas som **inaktiverade.**
 
 5. Välj nästa kund i listan och upprepa processen för att inaktivera alla prenumerationer.
 
-## <a name="migrating-azure-usage-based-subscriptions"></a>Migrera Azure Usage-baserade prenumerationer
+## <a name="migrating-azure-usage-based-subscriptions"></a>Migrera azure-användningsbaserade prenumerationer
 
-Till skillnad från Office 365 CSP-prenumerationer behöver Azure, användnings CSP-prenumerationer inte migreras manuellt. Microsoft Azure-support migrerar Azure-prenumerationerna och alla distribuerade tjänster eller resurser från **över gången från** CSP-återförsäljarens konton till **över gången till** CSP-återförsäljarens konto. Det sker ingen avbrott i tjänsten för kunden under över gången.
+Till skillnad från Office 365 CSP-prenumerationer behöver inte användningsbaserade CSP-prenumerationer migreras manuellt i Azure. Microsoft Azure-supporten migrerar Azure-prenumerationerna och alla distribuerade  tjänster eller resurser från övergångskontot från CSP-återförsäljare till övergångskontot till CSP-återförsäljaren.  Det kommer inte att ske några avbrott i tjänsten för kunden under den här övergången.
 
-1. Se till att de kund konton som kommer att ha Azure-prenumerationer migrerats har godkänt att avtalet associeras med den nya **över gången till** CSP-kontot.
+1. Se till att de kundkonton som ska ha Migrerade Azure-prenumerationer har godkänt avtalet för att associeras med det nya **övergångskontot för** CSP.
 
-2. Du kommer att meddela Microsoft om vilka kund konton som är redo att migrera och ange kundens företags namn.
+2. Du meddelar Microsoft vilka kundkonton som är redo att migreras och anger kundens företagsnamn.
 
-3. Microsoft migrerar Azure Usage-baserade prenumerationer och meddelar dig när migreringen är klar.
+3. Microsoft migrerar azure-användningsbaserade prenumerationer och meddelar dig när migreringen är klar.
 
-4. Du måste bekräfta att Azure-prenumerationen under **över gången från** CSP Reporting-kontot nu har marker ATS som **inaktive** rad i Partner Center i avsnittet kund prenumerationer.
+4. Du måste bekräfta att Azure-prenumerationen under kontot för övergång  från  CSP-återförsäljare nu har markerats som inaktiverat i Partnercenter under avsnittet kundprenumerationer.
 
-5. Bekräfta att Azure-prenumerationen under **över gången till** CSP Reporting-kontot nu visar statusen **aktiv** i Partner Center i avsnittet kund prenumerationer.
+5. Bekräfta att Azure-prenumerationen under **kontot för övergång** till  CSP-återförsäljare nu visar statusen aktiv i Partnercenter under avsnittet kundprenumerationer.
 
    >[!Note]
-   > Om du inaktiverar prenumerationerna under kunden ändras inte utseendet på kunden i listan kunder. Det finns för närvarande inget alternativ att ta bort kunder från listan. Partner bör undvika att lägga till prenumerationer till dessa kunder från deras **över gång från** konto i framtiden.
+   > Om du inaktiverar prenumerationerna under kunden ändras inte utseendet på kunden i kundlistan. Det finns för närvarande inget alternativ för att ta bort kunder från listan. Partner bör undvika att lägga till prenumerationer till dessa kunder från **övergången från** konto i framtiden.
 
-6. Upprepa de här stegen för alla prenumerationer under alla kunder för att stoppa framtida avgifter på **över gången från** konton. Partnern får en sista faktura med en kredit för antalet oanvända dagar mellan dagen för annullering och den sista dagen i fakturerings perioden. Inga framtida fakturor skapas efter den sista fakturerings perioden.
+6. Upprepa dessa steg för alla prenumerationer under alla dina kunder för att stoppa framtida avgifter för **övergång från** konto. Partnern får en slutlig faktura med en kredit för antalet oanvända dagar mellan annulleringsdagen och den sista dagen i faktureringsperioden. Inga framtida fakturor genereras efter den sista faktureringsperioden.
 
 ### <a name="additional-information"></a>Ytterligare information
 
-- Inaktive ring av prenumerationen från **över gång från** CSP-konto påverkar inte den slutliga kundens tjänst så länge tjänsten etablerades från **över gången till** CSP-konto innan prenumerationen inaktiverades.
+- Om du inaktiverar prenumerationen från kontot för övergång från **CSP** påverkas inte slutanvändarens tjänst så länge tjänsten etablerades från övergångskontot till **CSP** innan prenumerationen inaktiverades.
 
-- Prenumerationer kan inte användas av kunden och genererar inga kostnader när de pausas eller avbryts.
+- Prenumerationer kan inte användas av kunden och genererar inte avgifter när de pausas eller avbryts.
 
-- Det finns för närvarande inget sätt att ta bort en kund helt från listan **kunder** .
+- Det finns för närvarande inget sätt att ta bort en kund helt från **kundlistan.**
 - 
     >[!Note]
-    > Partners måste pausa prenumerationer på **över gången från** partner klient kontot i Partner Center samma dag som dessa prenumerationer överförs till och konfigureras under **över gången till** konto för att säkerställa dubbel fakturering. Microsoft stöder inte förfrågningar om krediter på grund av eventuella överlappningar i faktureringen som sker från att inte ställa in **över gången från** prenumerationer till pausad.
+    > Partner måste inaktivera prenumerationer på kontot för övergång från **partnerklientorganisation** i Partnercenter samma  dag som prenumerationerna övergår till och konfigureras under övergångskontot för att säkerställa att dubbel fakturering inte sker. Microsoft kommer inte att stödja begäranden om krediter på grund av överlappande fakturering som inträffar från att inte korrekt ställa in övergången **från** prenumerationer till pausad.
 
-### <a name="simplify-migration-using-export"></a>Förenkla migreringen med hjälp av export
+### <a name="simplify-migration-using-export"></a>Förenkla migrering med export
 
-Med hjälp av **funktionen Exportera** kan du samla in de prenumerationer som du behöver använda i din nya konsoliderade struktur:
+Med hjälp **av exportfunktionen** kan du samla in de prenumerationer som du behöver använda i din nya konsoliderade struktur:
 
-1. Välj **kunder** i Partner Center för att se listan över kunder. 
+1. Välj **Kunder** i Partnercenter för att se listan över kunder. 
 
-2. Öppna det önskade kund namnet.
+2. Öppna önskat kundnamn.
 
-3. På sidan **prenumerationer** väljer du **Exportera prenumerationer** för att exportera information om prenumerationer till en Excel-fil.
+3. På sidan **Prenumerationer väljer** du Exportera **prenumerationer för** att exportera information om prenumerationer till en Excel-fil.
 
-4. Använd den här listan för att återskapa prenumerationerna i den nya konsoliderade klienten.
+4. Använd den här listan för att återskapa prenumerationerna i din nya konsoliderade klientorganisation.
 
 ### <a name="api-registration"></a>API-registrering
 
-Mer information om API-registrering finns i [Konfigurera API-åtkomst i Partner Center](/partner-center/develop/set-up-api-access-in-partner-center).
+Mer information om API-registrering finns i [Konfigurera API-åtkomst i Partnercenter.](/partner-center/develop/set-up-api-access-in-partner-center)
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Cloud Solution Provider program regionala marknader och valutor där du kan sälja CSP-erbjudanden](regional-authorization-overview.md)
+- [Molnlösningsleverantör programmets regionala marknader och valutor där du kan sälja CSP-erbjudanden](regional-authorization-overview.md)

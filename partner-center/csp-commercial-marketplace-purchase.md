@@ -1,64 +1,61 @@
 ---
-title: Köp kommersiella Marketplace-erbjudanden
+title: Köpa erbjudanden på den kommersiella marknadsplatsen
 ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig hur CSP-programpartner kan använda Partner Center Marketplace för att göra kund inköp av SaaS-erbjudanden från oberoende program varu leverantörer (ISV).
+description: Lär dig hur CSP-programpartner kan använda Partner Center Marketplace för att göra kundköp av SaaS-erbjudanden från oberoende programvaruleverantörer (ISV).
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 841308d535d4071ee0a8eabf3e70325edea5777c
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 3f5cf4895fa4d66c65215989d808a1dd18ef9064
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979725"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147861"
 ---
-# <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Köp kommersiella Marketplace-produkter för dina kunder i Partner Center
+# <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Köpa produkter på den kommersiella marknadsplatsen för dina kunder i Partnercenter
 
 
-**Lämpliga roller**
+**Lämpliga roller:** Globala | Administratörsagent
 
-- Global administratör
-- Administratörs agent
+Som partner i programmet Molnlösningsleverantör (CSP) kan du använda den kommersiella marknadsplatsen för att köpa prenumerationer för dina kunder till vissa SaaS-produkter (Programvara som en tjänst) som erbjuds av oberoende programvaruleverantörer (ISV:er).
 
-Som partner i ett CSP-program (Cloud Solution Provider) kan du använda den kommersiella Marketplace för att köpa prenumerationer för dina kunder till vissa SaaS-produkter (Software as a Service) som erbjuds av oberoende program varu leverantörer (ISV).
+Genom att erbjuda ISV SaaS-prenumerationer till dina kunder kan du hjälpa till att särskilja din verksamhet. Du kan också ge kunderna åtkomst till programvarupaket som tillgodoser deras specifika affärsbehov. Du hanterar licenser och prenumerationer för dessa Marketplace SaaS-produkter från ISV-utgivare på samma sätt som du hanterar licenser och prenumerationer för Microsoft-produkter.
 
-Genom att erbjuda ISV SaaS-prenumerationer till dina kunder kan du hjälpa företaget att särskilja din verksamhet. Du kan också ge kunderna till gång till program varu paket som åtgärdar sina specifika affärs behov. Du hanterar licenser och prenumerationer för dessa Marketplace SaaS-produkter från ISV-utgivare, precis som du hanterar licenser och prenumerationer för Microsoft-produkter.
+Du kan köpa **antingen licensbaserade** SaaS-prenumerationer **eller användningsbaserade** prenumerationer. Mer information om skillnaden mellan licensbaserad och användningsbaserad fakturering finns i [Fakturerings grunder.](billing-basics.md)
 
-Du kan köpa antingen **licensbaserade** SaaS-prenumerationer eller **användnings baserade** prenumerationer. Mer information om skillnaden mellan licensierad och Använd fakturering finns i [fakturerings grunderna](billing-basics.md).
+## <a name="purchase-license-based-and-metered-saas-subscriptions-in-partner-center"></a>Köpa licensbaserade och uppmätta SaaS-prenumerationer i Partnercenter
 
-## <a name="purchase-license-based-and-metered-saas-subscriptions-in-partner-center"></a>Köp licensbaserade och avgiftsbelagda SaaS-prenumerationer i Partner Center
+Du köper prenumerationer för licensbaserade eller uppmätta SaaS-produkter som erbjuds av ISV-utgivare med samma process som du använder för att köpa prenumerationer för Microsoft-produkter.
 
-Du köper prenumerationer för licensbaserade eller avgiftsbelagda SaaS-produkter som erbjuds av ISV-utgivare med samma process som du använder för att köpa prenumerationer för Microsoft-produkter.
+Om du vill köpa en licensbaserad eller uppmätt SaaS-prenumeration i Partnercenter kan du läsa [Skapa, pausa eller avbryta kundprenumerationer.](create-a-new-subscription.md#create-a-new-subscription)
 
-Om du vill köpa en licensierad eller avgiftsbelagd SaaS-prenumeration i Partner Center, se [skapa, pausa eller annullera kund prenumerationer](create-a-new-subscription.md#create-a-new-subscription).
-
-Du kan också använda [API: er för partner Center](/partner-center/develop/) för att skapa prenumerationer på kommersiella marknads platser för dina kunder. (Mer information om hur du använder API: er för partner Center finns i [skapa en prenumeration för kommersiella Marketplace-produkter](/partner-center/develop/create-subscription-azure-marketplace-products).)
+Du kan också använda [Partner Center-API:er för](/partner-center/develop/) att skapa prenumerationer på den kommersiella marknadsplatsen för dina kunder. (Mer information om hur du använder Partner Center-API:er finns i [Skapa en prenumeration för produkter på den kommersiella marknadsplatsen](/partner-center/develop/create-subscription-azure-marketplace-products).)
 
 >[!IMPORTANT]
-> Som partner i CSP-programmet kan du köpa **licensbaserade** eller **avgiftsbelagda** SaaS-prenumerationer från ISV-utgivare i Partner Center. Det innebär att du kan köpa alla **licensbaserade** eller **avgiftsbelagda** SaaS-erbjudanden som ISV-utgivaren har gjort tillgängligt för dig, inklusive [exklusiva erbjudanden](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) som du har åtkomst till. För att köpa eller hantera andra erbjudanden från kommersiella Marketplace från ISV: er (till exempel användnings erbjudanden som rör Azure-program, behållare eller virtuella datorer) måste du gå till [Azure Portal](https://portal.azure.com/).
+> Som partner i CSP-programmet kan du köpa  licensbaserade eller uppmätta SaaS-prenumerationer från **ISV-utgivare** i Partnercenter. Det innebär att du kan köpa alla licensbaserade eller **uppmätta** SaaS-erbjudanden [](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) som **ISV-utgivaren** har gjort tillgängliga för dig, inklusive exklusiva erbjudanden som du har åtkomst till. Om du vill köpa eller hantera andra erbjudanden på den kommersiella marknadsplatsen från ISV:er (till exempel användningsbaserade erbjudanden som rör Azure-program, containrar eller virtuella datorer) måste du [gå till Azure Portal](https://portal.azure.com/).
 
-## <a name="purchase-usage-based-subscriptions-in-the-azure-portal"></a>Köp användnings prenumerationer i Azure Portal
+## <a name="purchase-usage-based-subscriptions-in-the-azure-portal"></a>Köpa användningsbaserade prenumerationer i Azure Portal
 
-Till skillnad från SaaS-prenumerationer från tredjeparts ISV-utgivare kräver användnings-baserade prenumerationer först en kund som har en Azure-prenumeration. Fakturering för kommersiell marknads plats är användnings baserade resurser under kundens Azure-prenumeration. När kunden har en Azure-prenumeration kan en partner i CSP-programmet följa de här stegen för att köpa en prenumeration på kommersiell marknads plats för dem:
+Till skillnad från licensbaserade SaaS-prenumerationer från tredjeparts ISV-utgivare kräver användningsbaserade prenumerationer först att kunden har en Azure-prenumeration. Fakturering för den kommersiella marknadsplatsen, användningsbaserade resurser faller under kundens Azure-prenumeration. När kunden har en Azure-prenumeration kan en partner i CSP-programmet följa dessa steg för att köpa en prenumeration på den kommersiella marknadsplatsen för dem:
 
-1. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard)och välj sedan **kunder** på menyn till vänster.
+1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard)och **välj** sedan Kunder på den vänstra menyn.
 
-2. Välj den specifika kunden och välj sedan **prenumerationer**.  
+2. Välj den specifika kunden och välj sedan **Prenumerationer.**  
 
-3. Under de **användnings baserade prenumerationerna** väljer du **alla resurser**. Då går du till hanterings portalen för Azure.
+3. Under **Användningsbaserade prenumerationer väljer** du **Alla resurser**. Då kommer du till Azure-hanteringsportalen.
 
-4. I hanterings portalen för Azure väljer du **skapa en resurs** i den vänstra menyn.
+4. I Azure-hanteringsportalen **väljer du Skapa en** resurs på den vänstra menyn.
 
-5. Välj **Se alla** överst i listan Azure Marketplace.
+5. Välj **Visa alla** överst i listan Azure Marketplace listan.
 
-6. Om du vill begränsa listan använder du filter överst i Marketplace-listan. Du kan till exempel välja **Microsoft** eller **partner** i list rutan **utgivare** om du bara vill visa erbjudanden från Microsoft eller från en ISV-utgivare.
+6. Om du vill begränsa listan använder du filter överst i Marketplace-listan. Du kan till exempel välja **Microsoft** eller **Partner** i listrutan **Utgivare** om du bara vill visa erbjudanden från Microsoft eller från en ISV-utgivare.
 
-7. Välj ett Special erbjudande och välj sedan **skapa**.
+7. Välj ett specifikt erbjudande och välj sedan **Skapa.**
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Hantera kommersiella Marketplace-erbjudanden](csp-commercial-marketplace-purchase.md)
+- [Hantera erbjudanden på den kommersiella marknadsplatsen](csp-commercial-marketplace-purchase.md)

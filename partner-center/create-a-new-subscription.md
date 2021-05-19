@@ -1,181 +1,176 @@
 ---
-title: Skapa kund prenumerationer i Partner Center
+title: Skapa kundprenumerationer i Partnercenter
 ms.topic: how-to
-ms.date: 07/22/2020
+ms.date: 05/17/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 'Lär dig hur du säljer prenumerationer till dina kunder för produkter som publicerats av Microsoft samt SaaS-produkter som publicerats av tredjeparts-ISV: er.'
+description: Lär dig hur du säljer prenumerationer till dina kunder för produkter som publicerats av Microsoft samt SaaS-produkter som publicerats av tredjeparts-ISV:er.
 author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 559d1fbd2efc1417ae89931279b9d3c9a1d67f7c
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 3269fa994d704c0a0dae067087bad8589a7ce031
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502943"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148213"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Skapa, pausa eller avbryta kundprenumerationer
 
-**Gäller för**
+**Gäller för:** Partner Center-| Partnercenter för Microsoft Cloud for US Government
 
-- Välkommen till Partnercenter för Microsoft Cloud for US Government
+**Lämpliga roller:** Administratörsagent | Faktureringsadministratörskonto | Globala | Supportagent för | Försäljningsagent
 
-**Lämpliga roller**
+När du har skapat en post för kunden i Partnercenter kan du sälja dem prenumerationer till produkter i katalogen. Detta omfattar produkter som publicerats av Microsoft och SaaS-produkter (Software as a Service) som publicerats av oberoende programvaruleverantörer (ISV: er) från tredje part på den [kommersiella marknadsplatsen.](https://azuremarketplace.microsoft.com/marketplace)
 
-- Administratörs agent
-- Faktureringsadministratör
-- Global administratör
-- Support agent
-- Försäljnings agent
-
-När du har skapat en post för din kund i Partner Center kan du sälja prenumerationer till produkter i katalogen. Detta inkluderar produkter som publicerats av Microsoft och SaaS-produkter (program vara som en tjänst) som publicerats av tredjeparts oberoende program varu leverantörer (ISV) till den [kommersiella marknads platsen](https://azuremarketplace.microsoft.com/marketplace).
-
-Vissa erbjudanden är begränsade till en prenumeration per kund. Om du vill se en lista över vilka erbjudanden som är begränsade besöker du sidan priser och erbjudanden för partner Center.
+Vissa erbjudanden är begränsade till en prenumeration per kund. Om du vill se en lista över vilka erbjudanden som är begränsade går du till sidan Priser och erbjudanden för Partnercenter.
 
 >[!IMPORTANT]
-> Som partner i CSP-programmet kan du köpa **licensbaserade** eller **avgiftsbelagda** SaaS-prenumerationer från ISV-utgivare i Partner Center. Det innebär att du kan köpa alla **licensbaserade** eller **avgiftsbelagda** SaaS-erbjudanden som ISV-utgivaren har gjort tillgängligt för dig, inklusive [exklusiva erbjudanden](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) som du har åtkomst till. För att köpa eller hantera andra erbjudanden från kommersiella Marketplace från ISV: er (till exempel användnings erbjudanden som rör Azure-program, behållare eller virtuella datorer) måste du gå till [Azure Portal](https://portal.azure.com/).
+> Som partner i CSP-programmet kan du köpa  licensbaserade eller uppmätta SaaS-prenumerationer från **ISV-utgivare** i Partnercenter. Det innebär att du kan köpa alla licensbaserade eller uppmätta SaaS-erbjudanden [](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) som  **ISV-utgivaren** har gjort tillgängliga för dig, inklusive exklusiva erbjudanden som du har åtkomst till. Om du vill köpa eller hantera andra erbjudanden på den kommersiella marknadsplatsen från ISV:er (till exempel användningsbaserade erbjudanden som rör Azure-program, containrar eller virtuella datorer) [måste du gå till Azure Portal](https://portal.azure.com/).
 
 ## <a name="create-a-new-subscription"></a>Skapa en ny prenumeration
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard).
 
-2. Från menyn Partner Center väljer du **kunder** och väljer sedan en kund i listan.
+2. I menyn i Partnercenter väljer **du Kunder** och sedan en kund i listan.
 
-3. Välj **Lägg till prenumeration**. På fliken **online tjänster** visas alla tillgängliga Marketplace SaaS-erbjudanden.
+3. Välj **Lägg till prenumeration.** På **fliken Onlinetjänster** visas alla tillgängliga SaaS-erbjudanden på Marketplace.
 
-4. Om du bara vill se vissa typer av prenumerationer gör du inställningarna i de tillgängliga filtren:
-   - **Utgivare**: Välj **Microsoft** om du bara vill se erbjudanden från Microsoft eller **partner** för att se produkter för kommersiella Marketplace som publicerats av ISV: er.
-   - **Fakturerings typ**: Välj den typ av prenumerations fakturering som du vill använda: **licens** eller **användning**. Se [licensbaserade fakturerings](license-based-billing.md) information som hjälper dig att välja mellan månads-och års fakturerings frekvens.
-   - **Kategori**: Välj **företag**, **små företag** eller **utvärderings version**. Information om utvärderings prenumerationer finns i [erbjuda dina kunders utvärdering av Microsoft-produkter](offer-your-customers-trials-of-microsoft-products.md).
+4. Om du bara vill se vissa typer av prenumerationer gör du val i de tillgängliga filtren:
+   - **Utgivare:** Välj **Microsoft om** du bara vill se erbjudanden från Microsoft eller Partner om **du vill** se produkter från den kommersiella marknadsplatsen som publicerats av ISV:er.
+   - **Faktureringstyp:** Välj vilken typ av prenumerationsfakturering du vill använda: **Licens** eller **Användning.** Se [Licensbaserad fakturering för](license-based-billing.md) information som hjälper dig att välja mellan månatlig och årlig faktureringsfrekvens.
+   - **Kategori:** Välj **Företag,** **Litet företag** eller **Utvärderingsversion.** Information om utvärderingsprenumerationer finns [i Offer your customers trials of Microsoft products (Erbjuda dina kunder utvärderingsversioner av Microsoft-produkter).](offer-your-customers-trials-of-microsoft-products.md)
 
-5. Välj de produkt prenumerationer som du vill köpa för kunden. Vilka produkter som visas beror på typen av kund segment (utbildning, myndigheter osv.) och de filter som du har tillämpat. Vissa erbjudanden som visas på Marketplace kanske inte alltid är tillgängliga för en viss kund eller en specifik CSP-partner. Detta kan bero på att:
+5. Välj de produktprenumerationer som du vill köpa för kunden. Vilka produkter du ser beror på typen av kundsegment (utbildning, myndigheter osv.) och de filter som du har tillämpat. Vissa erbjudanden som visas på Marketplace kanske inte alltid är tillgängliga för en specifik kund eller en specifik CSP-partner. Det kan vara så här:
 
-   - Kunden har redan en prenumeration på produkten och är bara tillåten en
+   - Kunden har redan en prenumeration på produkten och tillåts bara en
 
    - Kundens prenumeration kan ha inaktiverats (i det här fallet kan du återaktivera prenumerationen i stället för att köpa en ny.)
 
-   - För ISV SaaS-erbjudanden kan det finnas några skäl till varför erbjudandet inte kan köpas: ISV kanske inte har stöd för kundens fakturerings land eller region. ISV: n kanske har valt att inte göra erbjudandet tillgängligt via CSP-programmet. eller så kan ISV: n ha gjort erbjudandet [exklusivt](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) för vissa CSP-partner. Det går inte heller att använda ISV-erbjudandet via partner Center (till exempel behållare eller vissa användnings erbjudanden).  
+   - För ISV SaaS-erbjudanden kan det finnas några orsaker till varför erbjudandet inte är tillgängligt att köpa: ISV:en kanske inte stöder kundens faktureringsland eller region; ISV:en kan ha valt att inte göra erbjudandet tillgängligt via CSP-programmet, eller så kan ISV:en ha gjort erbjudandet [exklusivt för](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) vissa CSP-partner. ISV-erbjudandet kanske inte heller kan göras via Partnercenter (till exempel containrar eller vissa användningsbaserade erbjudanden).  
 
-6. Ange antalet licenser (om det behövs) för varje prenumeration som du vill lägga till och välj **Lägg till i kundvagn**.
+6. För varje prenumeration som du vill lägga till anger du antalet licenser (om det behövs) och väljer Lägg **till i kundvagn.**
 
-7. När du har lagt till prenumerationerna väljer du **Granska** och granska din beställning.
+7. När du är klar med att lägga till prenumerationer väljer **du Granska** och granskar din beställning.
 
-8. När du har granskat dina beställningar och är redo att köpa dessa prenumerationer väljer du **köp**.
+8. När du har granskat dina beställningar och är redo att köpa dessa prenumerationer väljer du **Köp.**
 
-9. När du har köpt en prenumeration för en kund görs följande:
+9. När du har köpt en prenumeration för en kund sker följande:
 
-    - Du kan granska eller redigera prenumerationen genom att välja prenumerations namnet från kund **prenumerations** sidan. Härifrån kan du välja tilläggs licenser om de är tillgängliga, ändra antalet licenser eller pausa prenumerationen.
+    - Du kan granska eller redigera prenumerationen genom att välja prenumerationsnamnet på kundens **prenumerationssida.** Härifrån kan du välja tilläggslicenser om det finns några, ändra antalet licenser eller pausa prenumerationen.
 
-    **För ISV SaaS (licensbaserade och avgiftsbelagda) prenumerationer:**
-    - Du får en länk till ISV-utgivarens webbplats. Den här länken bör hjälpa dig att slutföra distributions-eller konto konfigurationen för kundens prenumeration.
+    **För ISV SaaS-prenumerationer (licensbaserade och uppmätta):**
+    - Du får en länk till ISV-utgivarens webbplats. Den här länken hjälper dig att slutföra distributionen eller kontokonfigurationen av kundens prenumeration.
       
     >[!NOTE]
-    > Varken du eller din kund får ett e-postmeddelande med instruktioner för att slutföra konto konfigurationen/etableringen för den här typen av ISV-prenumeration.)
+    > Varken du eller kunden får ett e-postmeddelande med instruktioner för att slutföra konto set up/provisioning för den här typen av ISV-prenumeration.)
 
-    - Om din prenumeration kommer med en 30-dagars kostnads fri utvärderings period, kommer den kostnads fria utvärderings perioden att tillämpas automatiskt. Som partner i CSP-programmet kan du inte avstå från den kostnads fria utvärderings perioden på erbjudanden som du köper för kunder. När den kostnads fria utvärderings perioden är slut börjar prenumerations perioden och prenumerationen kommer att konverteras till betald status. Prenumerationen förnyas då automatiskt enligt samma schema.
+    - Om din prenumeration har en 30-dagars kostnadsfri utvärderingsversion tillämpas den kostnadsfria utvärderingsperioden automatiskt. Som partner i CSP-programmet kan du inte undanta den kostnadsfria utvärderingsperioden för erbjudanden som du köper till kunder. När den kostnadsfria utvärderingsperioden har avslutats börjar prenumerationsperioden och prenumerationen konverteras till betald status. Prenumerationen förnyas sedan automatiskt enligt samma schema.
    
 ## <a name="update-subscriptions-with-add-ons"></a>Uppdatera prenumerationer med tillägg 
 
-För att köpa ett tillägg måste kunden först ha en aktiv bas prenumeration.  Det går inte att köpa tillägg via katalogen.
+För att kunna köpa ett tillägg måste kunden först ha en aktiv basprenumeration.  Det går inte att köpa tillägg via katalogen.
 
-1. Logga in på [instrument panelen](https://partner.microsoft.com/dashboard)för partner Center.
+1. Logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard)
 
-2. Från menyn Partner Center väljer du **kunder** och väljer sedan en kund i listan.
+2. I menyn i Partnercenter väljer **du Kunder** och sedan en kund i listan.
 
 3. Välj den prenumeration som du vill hantera.
 
-4. Under avsnittet **status** finns en lista över tillgängliga tilläggs komponenter för prenumerationen.  
+4. Under **avsnittet Status** finns en lista över tillgängliga tillägg för prenumerationen.  
 
-5. Uppdatera antalet licenser för varje nödvändigt tillägg. **Skicka** sedan dina ändringar.
+5. Uppdatera antalet licenser för varje obligatoriskt tillägg. **Skicka** sedan dina ändringar.
 
-Möjligheten att köpa tillägg via partner Center är bara tillgänglig för direkta fakturerings-och indirekta leverantörer.
-Endast kvalificerade tillägg visas baserat på grundläggande krav och regional tillgänglighet. Mer information om priser och erbjudanden finns i matrisen för moln åter försäljare. Om du avbryter basprenumerationen inaktiveras även eventuella associerade tillägg.
+Möjligheten att köpa tillägg via Partnercenter är endast tillgänglig för direkta fakturerade och indirekta leverantörer.
+Endast berättigade tillägg visas baserat på grundkraven och regional tillgänglighet. Mer information om priser och erbjudanden finns i erbjudandematrisen för molnåterförsäljare. Om du avbryter basprenumerationen inaktiveras även eventuella associerade tillägg.
 
-Startdatumen för tillägg följer basprenumerationen och avgifterna beräknas utifrån startdatumet för debitering och slutdatumet för debitering med proportionella avgifter på den första fakturan. Mer information finns i [licensbaserade fakturering](license-based-billing.md).
+Startdatumen för tillägg följer basprenumerationen och avgifterna beräknas utifrån startdatumet för debitering och slutdatumet för debitering med proportionella avgifter på den första fakturan. Mer information finns i [Licensbaserad fakturering.](license-based-billing.md)
 
 
 ## <a name="suspend-or-cancel-a-subscription"></a>Pausa eller avbryta en prenumeration
 
-Partner kan pausa eller avbryta en prenumeration om det begärs av kunden, eller i fall av inbetalning eller bedrägerier.
+Partner kan inaktivera eller avbryta en prenumeration om det begärs av kunden, eller i fall av utebliven betalning eller bedrägeri.
 
 ### <a name="suspend-a-subscription"></a>Inaktivera en prenumeration
 
-När du ändrar status för en prenumeration till **inaktive** rad kan användarna inte logga in eller komma åt tjänster.
+När du ändrar statusen för en prenumeration **till Inaktiverad** kan användarna inte logga in eller komma åt tjänster.
 
-1. Logga in på [instrument panelen](https://partner.microsoft.com/dashboard)för partner Center.
+1. Logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard)
 
-2. Från menyn Partner Center väljer du **kunder** och väljer sedan en kund i listan.
+2. I menyn i Partnercenter väljer **du Kunder** och sedan en kund i listan.
 
 3. Välj den prenumeration som du vill hantera.
 
 4. I avsnittet **Status** väljer du **Tillfälligt avbruten**. **Skicka** sedan dina ändringar.
 
-5. Alla data tas bort om inte prenumerationen återaktiveras inom 90 dagar, eller 90 dagar plus antalet dagar mellan den tidpunkt då kontot öppnades och den första fakturerings perioden (maximalt 120 dagar).
+5. Alla data tas bort om inte prenumerationen återaktiveras inom 90 dagar, eller 90 dagar plus antalet dagar mellan den tidpunkt då kontot öppnades och den första faktureringsperioden (högst 120 dagar).
 
-När du pausar en prenumeration visar datumet som visas under den **nedbrutna** knappen när prenumerationen upphör att gälla automatiskt om du inte återaktiverar den. 
+När du inaktiverar en prenumeration anger  datumet under knappen Pausad när prenumerationen upphör att gälla automatiskt om du inte återaktiverar den. 
+
+>[!NOTE]
+>CSP-prenumerationer har inte en förfallen period (så som web-direct-prenumerationer gör) då tjänsterna fortfarande fungerar men prenumerationen genererar inga faktureringsavgifter. CSP-prenumerationer är antingen aktiva eller inaktiverade (eller helt borttagna).
 
 ### <a name="cancel-a-subscription"></a>Avbryta en prenumeration
 
-Du kan avbryta licensbaserade SaaS-prenumerationer från tredjeparts ISV-utgivare i Partner Center- [kommersiella marknads platser](csp-commercial-marketplace-overview.md). Så länge som du avbryter inom uppsägnings perioden får du en fullständig åter betalning.
+Du kan avbryta licensbaserade SaaS-prenumerationer från isv-utgivare från tredje part på den kommersiella marknadsplatsen [i Partnercenter.](csp-commercial-marketplace-overview.md) Så länge du avbryter inom annulleringsperioden får du en fullständig återbetalning.
 
-För ISV-erbjudanden faktureras månads vis:
+För ISV-erbjudanden som faktureras månadsvis:
 
-- Om du avbryter mindre än 24 timmar efter att du har placerat beställningen får du en fullständig kredit på nästa faktura.
+- Om du avbryter mindre än 24 timmar efter att du har gjort beställningen får du en fullständig kredit på nästa faktura.
 
-- Om du avbryter senare än 24 timmar efter att du har placerat ordern schemaläggs annulleringen till att ske vid förnyelse.
+- Om du avbryter senare än 24 timmar efter att du har gjort beställningen schemaläggs annulleringen att ske vid förnyelsen.
 
-För fakturerade per år:
+För erbjudanden som faktureras per år:
 
-- Om du avbryter mindre än 14 dagar efter att du har placerat beställningen får du en fullständig kredit på nästa faktura.
+- Om du avbryter mindre än 14 dagar efter att du har beställt får du en fullständig kredit på nästa faktura.
 
-- Om du avbryter senare än 14 dagar efter att du har placerat ordern schemaläggs annulleringen till att ske vid förnyelse.
+- Om du avbryter senare än 14 dagar efter att du har beställt kommer annulleringen att schemaläggas att ske vid förnyelsen.
 
-När dessa perioder är över visas inte längre alternativet för att avbryta prenumerationen.
+När dessa perioder är över ser du inte längre alternativet att avbryta prenumerationen.
 
 > [!NOTE]
-> Användnings och avgiftsbelagda ISV-tjänster (som använder virtuella datorer eller behållare, till exempel) är inte tillgängliga för retur. Användnings tjänster kan avetableras som en avbrotts metod. Eftersom avgifter faktureras efter användningen är dessa tjänster inte berättigade till åter betalning.
+> Användningsbaserade och uppmätta ISV-tjänster från tredje part (som till exempel använder virtuella datorer eller containrar) är inte berättigade till retur. Användningsbaserade tjänster kan avetableas som en annulleringsmetod. Eftersom avgifter debiteras efter användning är dessa tjänster inte berättigade till återbetalning.
 
 Så här avbryter du en licensbaserad SaaS-prenumeration från en ISV-utgivare:
 
-1. Logga in på [instrument panelen](https://partner.microsoft.com/dashboard)för partner Center.
+1. Logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard)
 
-2. Från menyn Partner Center väljer du **kunder** och väljer sedan en kund i listan.
+2. I menyn i Partnercenter väljer **du Kunder** och sedan en kund i listan.
 
 3. Leta upp den prenumeration som du vill avbryta.
 
-4. I kolumnen **status** väljer du **Avbryt**. **Skicka** sedan dina ändringar.
+4. I kolumnen **Status** väljer du **Avbryt**. **Skicka** sedan dina ändringar.
 
-5. Om en dialog ruta visas, Fyll i all relevant information och välj sedan **Skicka**.
+5. Om en dialogruta visas fyller du i relevant information och väljer sedan **Skicka**.
 
-6. Bekräfta annulleringen genom att välja **Ja, Avbryt**.
+6. Bekräfta annulleringen genom att välja **Ja, avbryt**.
 
 > [!NOTE]
-> Du kan också välja att avbryta en Azure Marketplace-prenumeration med hjälp av API: er. För att göra det, se [avbryta en prenumeration på Azure Marketplace](/partner-center/develop/cancel-an-azure-marketplace-subscription).
+> Du kan också välja att avbryta en prenumeration Azure Marketplace med hjälp av API:er. Om du vill göra det kan [du läsa Avbryta en Azure Marketplace prenumeration.](/partner-center/develop/cancel-an-azure-marketplace-subscription)
 
-### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription"></a>Välj om du vill förnya en prenumeration på en extern Marketplace automatiskt
+### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription"></a>Välj om du vill förnya en prenumeration på den kommersiella marknadsplatsen automatiskt
 
-Som standard förnyas prenumerationer automatiskt när prenumerationstiden går ut. För [prenumerationer på kommersiella Marketplace-produkter](csp-commercial-marketplace-overview.md)kan du välja att inte förnya prenumerationen automatiskt.
+Som standard förnyas prenumerationer automatiskt när prenumerationstiden går ut. För [prenumerationer på kommersiella marknadsplatsprodukter](csp-commercial-marketplace-overview.md)kan du välja att inte förnya prenumerationen automatiskt.
 
-Så här stoppar du en aktiv prenumeration på kommersiell marknads plats från automatisk förnyelse:
+Så här stoppar du en aktiv prenumeration på den kommersiella marknadsplatsen från att förnyas automatiskt:
 
-1. Logga in på [instrument panelen](https://partner.microsoft.com/dashboard)för partner Center.
+1. Logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard)
 
-2. Från menyn Partner Center väljer du **kunder** och väljer sedan en kund i listan.
+2. I menyn i Partnercenter väljer **du Kunder** och sedan en kund i listan.
 
-3. Välj **Prenumerationer**. Här listas alla licensbaserade prenumerationer som du har köpt för kunden.
+3. Välj **Prenumerationer**. Här visas alla licensbaserade prenumerationer som du har köpt för kunden.
 
-4. I kolumnen **prenumeration** väljer du den prenumeration som du vill ändra.
+4. I kolumnen **Prenumeration** väljer du den prenumeration som du vill ändra.
 
-5. På sidan prenumerations information letar du reda på avsnittet **status** och avmarkerar rutan **förnya automatiskt** .
+5. På sidan med prenumerationsinformation letar du **upp avsnittet Status** och **avmarkerar rutan Förnya** automatiskt.
 
 6. Välj **Skicka**.
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Köp kommersiella Marketplace-produkter för dina kunder](csp-commercial-marketplace-purchase.md)
+- [Köpa produkter på den kommersiella marknadsplatsen för dina kunder](csp-commercial-marketplace-purchase.md)
 
-- [Hantera kommersiella Marketplace-produkter för dina kunder](csp-commercial-marketplace-manage.md)
+- [Hantera produkter på den kommersiella marknadsplatsen för dina kunder](csp-commercial-marketplace-manage.md)
 
 - [Översikt över kommersiell marknadsplats](csp-commercial-marketplace-overview.md)

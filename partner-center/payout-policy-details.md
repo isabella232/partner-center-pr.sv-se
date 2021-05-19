@@ -1,107 +1,104 @@
 ---
 title: Utbetalningsscheman och -processer
-description: Lär dig mer om utbetalningar och transaktioner, till exempel betalnings planer och återställnings processer för handels Marketplace och andra transaktioner.
-ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+description: Lär dig mer om utbetalning och transaktioner, till exempel betalningsscheman och återbetalningsprocesser för den kommersiella marknadsplatsen och andra transaktioner.
+ms.service: marketplace
+ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: f4d31a5cf0752d03248b0efddb98ce621f9174f9
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: f2ba8132677eb0a0368021b6d7065f5202589f24
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086183"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146960"
 ---
 # <a name="payout-schedules-and-processes"></a>Utbetalningsscheman och -processer
 
-**Lämpliga roller**
+**Lämpliga roller:** Kontoadministratörsroller | Global administratör
 
-- Kontoadministratör
-- Global administratör
+Den här artikeln beskriver Microsofts betalningsschema, var du hittar status för en utbetalning och processen för att inte betala av kunden.
 
-I den här artikeln beskrivs Microsofts betalnings schema, var du hittar status för en utbetalning och processen för kund utebliven betalning.
+## <a name="payment-schedules"></a>Betalningsscheman
 
-## <a name="payment-schedules"></a>Betalnings scheman
+I följande avsnitt beskrivs vår utbetalningsprocess för **Enterprise-avtal** **och kreditkorts-/fakturatransaktioner.**
 
-I följande avsnitt beskrivs vår utbetalnings process för **Enterprise-avtal** och **kredit kort/faktura** transaktioner.
+### <a name="enterprise-agreement-transactions"></a>Enterprise-avtalstransaktioner
 
-### <a name="enterprise-agreement-transactions"></a>Enterprise-avtal transaktioner
+När en kund köper en produkt från Microsoft AppSource eller Azure Marketplace med sitt befintliga Microsoft Enterprise-avtal för transaktioner, kommer vi att utfärda utbetalningar i nästa utbetalningscykel 30 dagar efter kundfakturan. Transaktioner där en kund använder ett kreditkort har en kvarhållningsperiod på 30 dagar före utbetalningen.
 
-När en kund köper en produkt från Microsoft AppSource eller Azure Marketplace med hjälp av sina befintliga Microsoft-Enterprise-avtal för transaktioner, kommer vi att utfärda utbetalningar i nästa utbetalnings cykel 30 dagar efter kund faktura. Transaktioner där en kund använder ett kredit kort har en 30-dagars företags period innan utbetalning.
+En utbetalning sker ofta innan Microsoft samlar in betalningar från kunden. Se [Process för kundens uteblivna betalning](#process-for-customer-non-payment) nedan för de åtgärder vi vidta om kunden inte betalar Microsoft men vi redan har utfärdat en utbetalning.
 
-En utbetalning inträffar ofta innan Microsoft samlar in betalning från kunden. Se [processen för kund ej inbetalning](#process-for-customer-non-payment) nedan för de åtgärder som vi vidtar om kunden inte betalar Microsoft men vi redan har utfärdat en utbetalning.
-
-| Händelse | Beskrivning | Rapporterings synlighet | Ordning |
+| Händelse | Description | Rapporteringssynlighet | Tidsinställning* |
 | --- | --- | --- | --- |
-| Användning eller månad för transaktion | Kunden använder eller köper en tjänst. | [Användnings](/azure/marketplace/partner-center-portal/usage-dashboard) -eller [order](/azure/marketplace/partner-center-portal/orders-dashboard) instrument panel | **Månad 1** |
-| Microsoft beräknar fakturerings beloppet | Fastställ total användning, totalt antal transaktioner | [Användnings](/azure/marketplace/partner-center-portal/usage-dashboard) -eller [order](/azure/marketplace/partner-center-portal/orders-dashboard) instrument panel | **Månad 2** |
-| Utbetalning bokförd | Fastställa utbetalnings avgiften och utbetalnings intäkterna | Markerade som obearbetade i transaktions historiken för [utbetalnings instruktionen](payout-statement.md) | **Månad 3 (1: e veckan)** |
-| Förbered utbetalning | Intäkterna är för beredda för månatlig betalning | Markerat som kommande i transaktions historik i [utbetalnings instruktionen](payout-statement.md) | **Månad 3 (1: e veckan)** |
-| **Utbetalning har skickats** | **Betalningen skickas till utgivaren** | **Markerat som skickat i transaktions historik och i avsnittet betalningar i [utbetalnings instruktionen](payout-statement.md)** | **Månad 3 (senast den 15)** |
-| Faktura betald per kund | Microsoft samlar in betalning från kunden | Ingen ändring | **Månad 4 till 12** |
+| Användning eller transaktionsmånad | Kunden använder eller köper en tjänst. | [Instrumentpanel](/azure/marketplace/partner-center-portal/usage-dashboard) för [användning eller](/azure/marketplace/partner-center-portal/orders-dashboard) beställning | **Månad 1** |
+| Microsoft beräknar faktureringsbeloppet | Fastställa total användning, totalt antal transaktioner | [Instrumentpanel](/azure/marketplace/partner-center-portal/usage-dashboard) för [användning eller](/azure/marketplace/partner-center-portal/orders-dashboard) beställning | **Månad 2** |
+| Utbetalning som har publicerats | Fastställa myndighetsavgifter och utbetalningsintäkter | Markerat som Obearbetat i transaktionshistoriken på [utbetalningsutdraget](payout-statement.md) | **Månad 3 (första veckan)** |
+| Förbereda utbetalning | Intäkter förbereds för månatlig betalning | Markerat som Kommande i transaktionshistoriken i [utbetalningsutdraget](payout-statement.md) | **Månad 3 (första veckan)** |
+| **Utbetalningen har skickats** | **Betalningen skickas till utgivaren** | **Markerat som Skickat i transaktionshistoriken och i avsnittet Betalningar i [utbetalningsutdrag](payout-statement.md)** | **Månad 3 (senast den 15:e)** |
+| Faktura som betalas av kunden | Microsoft samlar in betalning från kund | Ingen ändring | **Månad 4 till och med 12** |
 |
 
-\* Utbetalnings datumet är i Pacific, normal tid (PST).
+\* Utbetalningsdatumet är i Pacific Standard Time (PST).
 
-:::image type="content" source="images/payouts/timeline-enterprise.png" alt-text="Tids linje för betalningar för Enterprise Agreement-kunder.":::
+:::image type="content" source="images/payouts/timeline-enterprise.png" alt-text="Tidslinje för betalningar för Enterprise-avtalskunder.":::
 
-### <a name="transactions-with-credit-card-or-invoice-checkwire"></a>Transaktioner med kredit kort eller faktura (check/tråd)
+### <a name="transactions-with-credit-card-or-invoice-checkwire"></a>Transaktioner med kreditkort eller faktura (check/banköverföring)
 
-Alla inköp med ett kredit kort eller en månads faktura har en 30-dagars period för att säkerställa att fonder samlas in från kunden.
+Alla inköp med kreditkort eller månadsfaktura har en 30-dagars kvarhållningsperiod för att säkerställa att medel samlas in från kunden.
 
-| Händelse | Beskrivning | Rapporterings synlighet | Ordning |
+| Händelse | Description | Rapporteringssynlighet | Tidsinställning* |
 | --- | --- | --- | --- |
-| Användning eller månad för transaktion | Kunden använder eller köper en tjänst. | [Användnings](/azure/marketplace/partner-center-portal/usage-dashboard) -eller [order](/azure/marketplace/partner-center-portal/orders-dashboard) instrument panel | **Månad 1** |
-| Faktura betald per kund | Fastställer total användning, totalt transaktions värde och kund betalar faktura | [Användnings](/azure/marketplace/partner-center-portal/usage-dashboard) -eller [order](/azure/marketplace/partner-center-portal/orders-dashboard) instrument panel | **Månad 2** |
-| Utbetalning bokförd | Fastställa utbetalnings avgiften och utbetalnings intäkterna | Markerade som obearbetade i transaktions historiken för [utbetalnings instruktionen](payout-statement.md) | **Månad 2** |
-| 30 dagars jordbruks period | Se till att insamling av fonder, eventuella åter betalningar och åter betalnings förfrågningar | Markerade som obearbetade i transaktions historiken för [utbetalnings instruktionen](payout-statement.md) | **Månad 3** |
-| Förbered utbetalning | Intäkterna är för beredda för månatlig betalning | Markerat som kommande i transaktions historik i [utbetalnings instruktionen](payout-statement.md) | **Månad 4 (1: a veckan)** |
-| **Utbetalning har skickats** | **Betalningen skickas till utgivaren** | **Markerat som skickat i transaktions historik och i avsnittet betalningar i [utbetalnings instruktionen](payout-statement.md)** | **Månad 4 (senast den 15)** |
+| Användning eller transaktionsmånad | Kunden använder eller köper en tjänst. | [Instrumentpanel](/azure/marketplace/partner-center-portal/usage-dashboard) för [användning eller](/azure/marketplace/partner-center-portal/orders-dashboard) beställning | **Månad 1** |
+| Faktura som betalas av kunden | Fastställa total användning, totalt transaktionsvärde och kund betalar faktura | [Instrumentpanel](/azure/marketplace/partner-center-portal/usage-dashboard) för [användning eller](/azure/marketplace/partner-center-portal/orders-dashboard) beställning | **Månad 2** |
+| Utsänd utbetalning | Fastställa myndighetsavgifter och utbetalningsintäkter | Markerat som Obearbetat i transaktionshistoriken på [utbetalningsutdraget](payout-statement.md) | **Månad 2** |
+| 30-dagars innehavsperiod | Se till att medel, möjliga återbetalningar och återbetalningar görs | Markerat som Obearbetat i transaktionshistoriken på [utbetalningsutdraget](payout-statement.md) | **Månad 3** |
+| Förbereda utbetalning | Intäkter förbereds för månatlig betalning | Markerat som Kommande i transaktionshistoriken i [utbetalningsutdraget](payout-statement.md) | **Månad 4 (första veckan)** |
+| **Utbetalningen har skickats** | **Betalningen skickas till utgivaren** | **Markerat som Skickat i transaktionshistoriken och i avsnittet Betalningar i [utbetalningsutdrag](payout-statement.md)** | **Månad 4 (senast den 15:e)** |
 |
 
-\* Utbetalnings datumet är i PST (Pacific, normal tid).
+\* Utbetalningsdatumet är i Pacific Standard Time (PST).
 
-:::image type="content" source="images/payouts/timeline-credit-card-invoice.png" alt-text="Tids linje för betalningar av kredit kort och faktura kunder.":::
+:::image type="content" source="images/payouts/timeline-credit-card-invoice.png" alt-text="Tidslinje för betalningar för kreditkorts- och fakturakunder.":::
 
-## <a name="process-for-customer-non-payment"></a>Process för ej betalnings kund
+## <a name="process-for-customer-non-payment"></a>Process för utebliven kundbetalning
 
-I sällsynta fall kan Microsoft inte samla in betalningar från kunder för sina kommersiella marknads marknads inköp. När en kund inte betalar Microsoft enligt deras fakturerings schema påbörjar vi samlings processen. Den här processen tar cirka fyra månader och inbegriper beständig kommunikation från Microsoft. Om betalningen inte tas emot i slutet av den här processen, skriver Microsoft ut medlen som ej insamlade.
+I sällsynta fall kan Microsoft inte samla in betalningar från kunder för sina köp på den kommersiella marknadsplatsen. När en kund inte betalar Microsoft enligt sitt faktureringsschema påbörjar vi insamlingsprocessen. Den här processen tar cirka fyra månader och omfattar beständig kommunikation från Microsoft. Om betalningen inte tas emot i slutet av den här processen skriver Microsoft av beloppen som osamlade.
 
-Efter utbetalnings processen som har framställts här kan Microsoft redan betala ut pengar till utgivare (du) som slutligen inte kan samlas in. Därför har vi en process för att stämma av dessa belopp. För att se till att du har en varning om att din (redan inlevererad) betalning kan stämmas av får du ett meddelande när en kund befinner sig i Inkasso processen och köp kan förmodligen skrivas av.
+Enligt utbetalningsprocessen som formuleras här kanske Microsoft redan har betalat ut pengar till utgivare (du) som i slutänden inte går att samla in. Därför har vi en process för att stämma av dessa mängder. För att säkerställa att du har en varning om att din (redan mottagna) betalning kan stämmas av, får du ett meddelande när en kund är i samlingsprocessen och inköpen sannolikt skrivs av.
 
-Microsoft kommer att koppla tillbaka eventuella utbetalningar som redan betalats till dig med någon av följande metoder: (1) Microsoft kan subtrahera de obetalda beloppen från framtida utbetalningar. om till exempel $1 000 i utbetalningar betraktas som ej kan samlas in och skrivs av, kommer dina framtida utbetalningar att bli kvar tills $1 000 återställs eller (2) Microsoft kan begära en åter betalning eller faktura utgivare för alla insamlade belopp.
+Microsoft kommer att få tillbaka alla utbetalningar som redan har betalats till dig med någon av följande metoder: (1) Microsoft kan subtrahera de obetalt beloppen från framtida utbetalningar; Om till exempel 1 000 USD i utbetalning betraktas som osamlade och skrivs av, kommer dina framtida utbetalningar att uppsnaftas tills de 1 000 USD har återställts eller (2) Microsoft kan begära en återbetalning eller fakturautgivare för eventuella oupptäckta belopp.
 
 Följande schema är ett exempel:
 
-| Händelse | Ungefärligt datum * | Partner synlighet |
+| Händelse | Ungefärligt datum* | Partnersynlighet |
 | --- | --- | --- |
-| Exempel på utbetalnings datum | 10/15/2020 | Markerat som **skickat** i transaktions historik och i avsnittet betalningar i instrument panelen för utbetalning |
+| Exempel på utbetalningsdatum | 10/15/2020 | Markerat som **skickat i** transaktionshistoriken och i avsnittet Betalningar i utbetalningsinstrumentpanelen |
 | <font color="red">Om kunden inte betalar Microsoft</font> | 12/2/2020 – 12/5/2020 | Ingen ändring, samma som ovan |
-| Kunden får ett e-postmeddelande om betalning för första sent | 12/6/2020 | Inget |
-| Kunden får regelbundna e-postmeddelanden med ökande angelägenhets grad | 12/7/2020 – 1/31/2021 | Inget |
-| Utgivaren har meddelats att skriva av är troligt vis | 1/7/2021 | E-postmeddelande som skickas till utgivaren om att deras kunder ännu inte har skickat någon betalning. Transaktions-ID och dollar belopp ingår. |
-| Kund mottar uppsägnings meddelande | 2/1/2021 | Inget |
-| Samlings processens slut/medel skrivs av | 2/15/2021 | E-postmeddelande som skickas till utgivare som fonder har skrivits av. Transaktions-ID och dollar belopp ingår. |
-| Utbetalningen dras av | 3/1/2021 | I Publisher visas en negativ transaktion i Partner Center utbetalnings instruktion |
-| Utbetalningen nekas | 3/15/2021 | Framtida utbetalningar visas i utbetalnings instruktionen för partner Center. Utgivare får ingen betalning förrän saldot inte längre är negativt.  |
+| Kunden får sin första e-postadress för försenad betalning | 12/6/2020 | Ingen |
+| Kunden får regelbundna e-postmeddelanden om ökande angelägenhetsgrad | 12/7/2020 – 1/31/2021 | Ingen |
+| Utgivaren meddelas om troligen en nedskrivning | 1/7/2021 | E-postmeddelande som skickas till utgivaren om att kunden ännu inte har skickat betalningen. Transaktions-ID och belopp i dollar ingår. |
+| Kunden får ett meddelande om uppsägning | 2/1/2021 | Ingen |
+| Insamlingsprocessen avslutas/medel skrivs av | 2/15/2021 | E-postmeddelande som skickats till utgivaren om att medel har skrivits av. Transaktions-ID och belopp i dollar ingår. |
+| Utbetalning dras av | 3/1/2021 | Utgivaren ser en negativ transaktion i partnercentrets utbetalningsutdrag |
+| Utbetalningen är indragen | 3/15/2021 | Framtida utbetalningar visas i partnercentrets utbetalningsutdrag. Utgivaren får ingen betalning förrän saldot inte längre är negativt.  |
 |||
 
-\* Utbetalnings datumet är i PST (Pacific, normal tid).
+\* Utbetalningsdatumet är i Pacific Standard Time (PST).
 
-## <a name="number-of-days-for-payments-to-reach-a-payout-account"></a>Antal dagar för betalningar för att uppnå ett utbetalnings konto
+## <a name="number-of-days-for-payments-to-reach-a-payout-account"></a>Antal dagar som betalningar ska nå ett utbetalningskonto
 
-Vi skickar vanligt vis ut alla betalningar som förfaller under en månad den 15: e dagen i månaden, men det tar en stund innan betalningen når ditt konto. Antalet dagar beror på betalnings metoden som vi använder för ditt konto, enligt beskrivningen nedan.
+Vi skickar vanligtvis en betalning som förfaller under en viss månad den 15:e dagen i den månaden, men det tar en annan tid för betalningen att nå ditt konto. Antalet dagar beror på vilken betalningsmetod vi använder för ditt konto, enligt beskrivningen nedan.
 
 > [!NOTE]
-> De dagar som visas nedan är ungefärliga; alla betalningar kan ta mer eller mindre tid att komma åt ditt konto.
+> De dagar som visas nedan är ungefärliga; eventuell betalning kan ta mer eller mindre tid att nå ditt konto.
 
-| Betalningsmetod     | Antal dagar för att uppnå utbetalnings konto     |
+| Betalningsmetod     | Antal dagar som utbetalningskontot ska nås     |
 |--------------------|--------------------------------------------|
-| PayPal             | 1 arbets dag                             |
-| ACH/SEPA           | 2-3 arbets dagar                          |
-| Överföring av överföring      | 7-10 arbets dagar                         |
+| PayPal             | 1 arbetsdag                             |
+| ACH/SEPA           | 2–3 arbetsdagar                          |
+| Banköverföring      | 7–10 arbetsdagar                         |
 |
 
 ## <a name="next-steps"></a>Nästa steg

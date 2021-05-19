@@ -1,34 +1,28 @@
 ---
-title: Lägg till ett moms-ID för företags skatter
+title: Lägga till ett momsregistreringsnummer för företagsskatter
 ms.topic: article
 ms.date: 12/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Momsen för Partnercenter-köp bestäms av din företagsadress. Företag i vissa länder kan ange sina moms nummer eller lokala motsvarigheter.
+description: Momsen för Partnercenter-köp bestäms av din företagsadress. Företag i vissa länder kan ange sitt momsnummer eller lokal motsvarighet.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a7278e6dff35d7941fbe44b65609dc4a2443c1f3
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 1605072e35a96d8bc8ed2e9f507b38a6837fbd35
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132765"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146943"
 ---
-# <a name="add-a-vat-id-to-your-billing-profile"></a>Lägg till ett moms-ID i din fakturerings profil
+# <a name="add-a-vat-id-to-your-billing-profile"></a>Lägga till ett momsregistreringsnummer i din faktureringsprofil
 
-**Lämpliga roller**
+**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Faktureringsadministratörskonto | Administratörsagent | Försäljningsagent
 
-- Global administratör
-- Administratör för användar hantering
-- Faktureringsadministratör
-- Administratörs agent
-- Försäljnings agent
+Du kan använda följande procedur för att uppdatera din faktureringsprofil så att den inkluderar ditt momsregistreringsnummer. (Observera att detta kanske inte är möjligt i ditt land eller din region.)
 
-Du kan använda följande procedur för att uppdatera din fakturerings profil för att inkludera ditt moms-ID. (Observera att det kanske inte är möjligt i ditt land eller din region.)
-
-## <a name="update-your-billing-profile-with-your-vat-id"></a>Uppdatera din fakturerings profil med ditt moms-ID
+## <a name="update-your-billing-profile-with-your-vat-id"></a>Uppdatera din faktureringsprofil med ditt momsregistreringsnummer
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 2. I menyn **Inställningar** (kugghjulsikonen) väljer du **Kontoinställningar**.

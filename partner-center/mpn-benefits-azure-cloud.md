@@ -1,184 +1,181 @@
 ---
-title: Azure-och moln förmåner – MPN
+title: Fördelar med Azure och molnet – MPN
 ms.topic: article
 ms.date: 01/28/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Lär dig mer om Microsoft Partner Network (MPN)-förmåner för Azure-och moln produkter, inklusive hur du aktiverar prenumerationer.
+description: Lär dig Microsoft Partner Network (MPN)-förmåner för Azure- och Molnprodukter, inklusive hur du aktiverar prenumerationer.
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8f54956f71912b2b55bdbfa6be60baf92f417378
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.openlocfilehash: 1f575a79039ae78e64e28c680a8b533d575200bc
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185340"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146365"
 ---
-# <a name="explore-the-azure-and-cloud-products-benefits-area-in-partner-center"></a>Utforska Azure-och moln produkternas förmåns områden i Partner Center
+# <a name="explore-the-azure-and-cloud-products-benefits-area-in-partner-center"></a>Utforska området med fördelar med Azure- och molnprodukter i Partnercenter
 
-**Lämpliga roller**
+**Lämpliga roller:** Globala | MPN-partneradministratör
 
-- Global administratör
-- MPN-partner administratör
-
-I den här artikeln beskrivs de Azure-och moln förmåner som är tillgängliga för partner från Partner Center. Du får också lära dig hur du aktiverar vissa typer av Azure-och moln prenumerationer.
+I den här artikeln beskrivs de specifika fördelarna med Azure och molnet som är tillgängliga för partner i Partnercenter. Du får också lära dig hur du aktiverar vissa typer av Azure- och molnprenumerationer.
  
 ## <a name="overview"></a>Översikt
 
-Som partner i Microsoft Partner Network kan du ha till gång till många teknik-och go-to-marknad-förmåner för olika områden. Om du har tilldelats någon av rollerna ovan i Partner Center kan du utforska många av de här fördelarna direkt från instrument panelen för partner Center.
+Som partner i Microsoft Partner Network kan du ha tillgång till många tekniska och marknadsmässiga fördelar för olika områden. Om du har tilldelats någon av ovanstående roller i Partnercenter kan du utforska många av dessa fördelar direkt från instrumentpanelen i Partnercenter.
 
 > [!NOTE]
-> För att få åtkomst till Partner Center Benefits-områdena behöver du bara logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard) och välja **MPN** från menyn till vänster-navigering. Välj sedan **förmåner** på menyn, följt av de olika förmåner eller det områden som du vill utforska.
+> För att få åtkomst till området Partnercenter-förmåner behöver du bara logga in på instrumentpanelen i [Partnercenter](https://partner.microsoft.com/dashboard) och välja **MPN** på den vänstra navigeringsmenyn. Välj sedan **Förmåner** på menyn följt av det specifika förmånsalternativ eller område som du vill utforska.
 
-Ett av de förmåns alternativ som kan vara tillgängliga för dig är **Azure & moln produkter**. När du väljer **azure & Cloud** från menyn Partner Center- **förmåner** visas sidan **moln produkter för Azure &** .
+Ett av de alternativ för fördelar som kan vara tillgängliga för dig är **Azure &-molnprodukter**. När du väljer **Azure & cloud** (Azure & cloud) på menyn Partner center **Benefits** (Förmåner i Partnercenter) visas sidan Azure & cloud products **(Azure-molnprodukter).**
 
 Den här sidan visar följande information:
 
-- Olika Azure &-moln produkt prenumerations förmåner som är tillgängliga för dig, om licensbaserade prenumerationer eller användnings prenumerationer
-- Licens kvantitet som tilldelas för varje produkt
-- Erbjudande typen som etablerade en speciell förmåns produkt till dig
-- Förmåns typen (oavsett om den kommer från kärna eller stegvis)
-- Datumet då en bestämd förmån upphör att gälla
+- Olika Azure & molnproduktprenumerationsförmåner som är tillgängliga för dig, oavsett om det gäller licensbaserade prenumerationer eller användningsbaserade prenumerationer
+- Tilldelad licenskvantitet för varje produkt
+- Den erbjudandetyp som etablerade en specifik förmånsprodukt till dig
+- Förmånstypen (oavsett om den kommer från kärna eller inkrementell)
+- Det datum då en viss förmån upphör att gälla
 
-:::image type="content" source="images/benefits/mpn-benefits-azure-cloud-1.png" alt-text="Sidan Azure-och moln produkter visar prenumerations förmåner som är tillgängliga för dig." border="false":::
+:::image type="content" source="images/benefits/mpn-benefits-azure-cloud-1.png" alt-text="Sidan med Azure- och molnprodukter innehåller en lista över de prenumerationsförmåner som är tillgängliga för dig." border="false":::
 
-## <a name="usage-based-vs-license-based-subscriptions"></a>Användning-baserade eller licensbaserade prenumerationer
+## <a name="usage-based-vs-license-based-subscriptions"></a>Användningsbaserade kontra licensbaserade prenumerationer
 
-På sidan **Azure & Cloud Products** visas två typer av prenumerations förmåner som du kan tillhandahålla:
-- Användnings prenumerationer (Microsoft Azure kredit) 
+På **sidan & azure-molnprodukter** visas två typer av prenumerationsförmåner som har etablerats till dig:
+- Användningsbaserade prenumerationer (Microsoft Azure kredit) 
 - Licensbaserade prenumerationer (till exempel Office 365)
 
-### <a name="usage-based-subscriptions-with-two-types-of-microsoft-azure-credit"></a>Användnings prenumerationer med två typer av Microsoft Azure kredit
+### <a name="usage-based-subscriptions-with-two-types-of-microsoft-azure-credit"></a>Användningsbaserade prenumerationer med två typer av Microsoft Azure kredit
 
-Det finns två typer av användnings bara prenumerationer som du kan få, beroende på vilka aktiva erbjudanden som är tillgängliga för din Microsoft Partner Network medlemskap. Sådana aktiva erbjudanden kan vara Microsoft Action Pack, en silver kompetens eller en guld kompetens. 
+Det finns två typer av användningsbaserade prenumerationer som du kan få, beroende på vilka aktiva erbjudanden som är tillgängliga för ditt Microsoft Partner Network medlemskap. Sådana aktiva erbjudanden kan omfatta Microsoft Action Pack, en silverkompetens eller en guldkompetens. 
 
-De två typer av användnings prenumerationer som kan tillhandahållas för dessa erbjudanden är *Azures månatliga kredit* och/eller *Azure Mass kredit (årlig)*:
+De två typerna av användningsbaserade prenumerationer som kan  etableras för dessa erbjudanden är azure-månadskredit och/eller *Azure-masskredit (årsvis):*
 
-- **Etablering för månatlig Azure-kredit:** Detta kan visas som till exempel $100/månad (eller motsvarande i lokal valuta)<br/>
-*och/eller*
-- **Etablering för Azure bulk (årlig) kredit:** Detta kan visas som till exempel $6000/år, $12000/år och/eller $13000/år (eller var och en av dem motsvarande i lokal valuta)
+- **Etablering för azure-månadskredit:** Detta kan se ut ungefär som 100 USD/månad (eller motsvarande i lokal valuta)<br/>
+*Eller*
+- **Etablering för Azure-masskredit (år):** Detta kan se ut ungefär som 6 000 USD/år, 12 000 USD/år och/eller 1 3 000 USD/år (eller motsvarande i lokal valuta)
 
-Om du vill aktivera en Microsoft Azure-prenumeration i Partner Center måste du tilldela åtkomst till en användare i företaget (eller en gäst användare). Användaren måste redan ha en användar post som skapats i Azure Active Directory-klienten. Följ sedan dessa steg:
+Om du vill Microsoft Azure prenumeration i Partnercenter måste du tilldela åtkomst till en användare inom företaget (eller en gästanvändare). Användaren måste redan ha en användarpost som skapats i din Azure Active Directory klient. Följ sedan dessa steg:
 
-1. När du är säker på att användaren har en användar post i din Azure AD-klient loggar du in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard).
+1. När du är säker på att användaren har en användarpost i din Azure AD-klientorganisation loggar du in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard)
 
-1. Välj **MPN** från menyn till vänster-navigering, följt av **fördelar**, sedan **Azure och Cloud**.
+1. Välj **MPN** i den vänstra navigeringsmenyn, följt av **Förmåner**, sedan **Azure och molnet**.
 
-1. Välj nedåtpilen till höger, visa kolumnen **information** för den användnings-baserade prenumeration som du vill aktivera. 
+1. Välj nedåtpilen till höger, **kolumnen Visa information** för den användningsbaserade prenumeration som du vill aktivera. 
 
-1. Leta upp avsnittet **användar tilldelning** på sidan Partner Center **Azure och moln produkter** (nedan). Välj sedan alternativet **tilldela användare** för att tilldela användaren önskad användnings-baserade prenumerations förmån. 
+1. Leta upp **området Användartilldelning** på sidan **Azure- och molnprodukter i** Partnercenter (nedan). Välj sedan alternativet **Tilldela användare för** att tilldela användaren önskad användningsbaserad prenumerationsförmån. 
 
-   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-2.png" alt-text="Sidan Azure-och moln produkter visar användar tilldelnings områden." border="false":::
+   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-2.png" alt-text="Sidan med Azure- och molnprodukter visar området för användartilldelning." border="false":::
 
-- När du tilldelar en månatlig Azure-kredit på ungefär $100 per månad (eller motsvarande i lokal valuta) kan du lägga till eller ta bort användare från prenumerationen när du vill.
+- När du tilldelar en Azure-månadskredit på till exempel 100 USD per månad (eller motsvarande i lokal valuta) kan du lägga till eller ta bort användare från den här prenumerationen när som helst.
 
-- När du tilldelar Azure-krediten (årligen) är det viktigt att alternativet **ta bort** inte är tillgängligt i Partner Center. I stället måste du överföra Mass krediten till någon annan under ditt registrerings år. Kredit prenumerationen för Azure bulk (års) kan inte heller kombineras med andra erbjudanden för licensiering, förbetald eller kredit (till exempel Microsoft Enterprise-avtal, Cloud Solution Provider, Azure i Open, Azure-pass, Microsoft Action Pack, osv.).
+- När du tilldelar Azure-masskrediten (år) bör du observera att **alternativet Ta** bort inte är tillgängligt i Partnercenter. I stället måste du överföra masskrediten till någon annan under ditt registreringsår. Azure-masskreditprenumerationen (år) kan inte heller kombineras med andra licensierings-, förbetalda eller krediterbjudanden (till exempel Microsoft Enterprise-avtal, Molnlösningsleverantör, Azure i Open, Azure-pass, Microsoft Action Pack osv.).
 
 ### <a name="license-based-subscriptions"></a>Licensbaserade prenumerationer
 
-I avsnittet licensbaserade prenumerationer på sidan Azure-och moln produkter hittar du alla moln produkter som kräver en produkt nyckel för aktivering, till exempel Microsoft O365, Microsoft Dynamics, Microsoft Intune, Azure AD Basic, Power BI osv. Dessa produkter erbjuds baserat på vilken typ av aktivt erbjudande som är tillgänglig för dig som partner i Microsoft Partner Network. Sådana erbjudanden kan vara Microsoft Action Pack, silver kompetens medlemskap eller medlemskap i guld kompetens.
+I avsnittet licensbaserade prenumerationer på sidan med Azure- och molnprodukter hittar du alla molnprodukter som kräver en produktnyckel för aktivering, till exempel Microsoft O365, Microsoft Dynamics, Microsoft Intune, Azure AD Basic, Power BI osv. Dessa produkter erbjuds baserat på vilken typ av aktivt erbjudande som är tillgängligt för dig som partner i Microsoft Partner Network. Sådana erbjudanden kan omfatta Microsoft Action Pack, medlemskap i silverkompetens eller medlemskap i guldkompetens.
 
-Så här aktiverar du en licens baserad prenumeration: 
+Så här aktiverar du en licensbaserad prenumeration: 
 
-1. Leta upp den aktuella prenumerationen på sidan Azure-och moln produkter. 
+1. Leta upp den specifika prenumerationen på sidan för Azure- och molnprodukter. 
 
-1. Välj listpilen till höger, **Visa kolumnen information** för den prenumerationen. 
+1. Välj listrilen till höger, kolumnen **Visa information** för prenumerationen. 
 
-1. Läs anvisningarna på efterföljande sida. Om du gör det får du mer information om hur du löser in nycklarna. 
+1. Läs anvisningarna på nästa sida. Om du gör det får du mer information om hur du löser in nycklarna. 
 
-   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-3.png" alt-text="Sidan Azure-och moln produkter med Visa information." border="false":::
+   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-3.png" alt-text="Sidan med Azure- och molnprodukter med information om visning." border="false":::
 
 
-1. När du är redo att lösa in nyckeln väljer du alternativet för **aktiverings genom gång** längst ned på den här sidan.
-   - Om du vill aktivera en ny prenumeration eller om din befintliga prenumeration har inaktiverats/upphört att gälla, öppnar du en **privat eller Incognito webbläsare** och kopierar och klistrar in följande länk och följer anvisningarna:
+1. När du är redo att lösa in nyckeln väljer du alternativet **Aktiveringsgenomströmning** längst ned på den här sidan.
+   - Om du vill aktivera en ny prenumeration eller om din befintliga prenumeration är inaktiverad/har upphört att gälla öppnar du en privat eller **inkognito-webbläsare.** Kopiera och klistra sedan in följande länk och följ anvisningarna:
 
       [https://signup.microsoft.com/productkeystart](https://signup.microsoft.com/productkeystart)
       
-   - Om du vill utöka slutdatumet eller lägga till fler platser/licenser till en befintlig prenumerations kopia och klistra in länken nedan i ett **privat eller Incognito webbläsarfönster** och följa instruktionerna:
+   - Om du vill utöka slutdatumet eller lägga till fler platser/licenser i en befintlig prenumeration kopierar du och klistrar in länken nedan i ett privat eller **inkognito webbläsarfönster** och följer anvisningarna:
  
       [https://admin.microsoft.com/AdminPortal/Home#/subscriptions](https://admin.microsoft.com/AdminPortal/Home#/subscriptions)
 
 > [!Note]
-> När en nyckel har lösts in kan inte samma nyckel lösas igen en andra gång. Observera också följande viktiga punkter:
+> När en nyckel har lösts in går det inte att lösa in samma nyckel en andra gång. Observera även följande viktiga punkter:
 >
-> - Bekräfta huruvida du behöver lägga till fler licenser (platser), hur många och om du vill förlänga slutdatumet. Om du väljer att lägga till fler licenser (platser) och du **inte** utökar slutdatumet, kommer systemet att förse dig med färre än 12 månaders aktiva prenumerationer. 
+> - Kontrollera om du behöver lägga till fler licenser (platser), hur många och om slutdatumet ska utökas eller inte. Om du väljer att lägga till fler  licenser (platser) och inte utökar slutdatumet får du en aktiv prenumeration på mindre än 12 månader. 
 >
-> - Kontrol lera att du har loggat in med rätt autentiseringsuppgifter och att du aktiverar nycklarna på rätt Azure Active Directory-klient (AAD). Logga alltid in med ett privat/Incognito-webbläsarfönster för att se till att du aktiverar nycklar på rätt klient organisation.
+> - Kontrollera att du är inloggad med rätt autentiseringsuppgifter och att du aktiverar nycklarna på rätt AAD-klientorganisation (Azure Active Directory). Logga alltid in med ett privat/inkognito-webbläsarfönster för att se till att du aktiverar nycklar på rätt klientorganisation.
 >
-> - Förmånens förfallo datum som visas i Microsoft Partner Center anger det senaste datumet för användnings rättigheter för den förmånen. Datumet kan skilja sig från prenumerationens slutdatum som anges i M365 administrations Center-portalen. Detta kan bero på flera faktorer, t. ex. förmåns aktiverings datum, antalet licenser som är associerade med nyckeln och de licenser som lagts till eller utökats på administratörs portalen.
+> - Förfallodatumet för förmånen som visas i Microsoft Partner Center anger det sista datumet då användningsrättigheterna för förmånen skulle användas. Det här datumet kan skilja sig från slutdatumet för prenumerationen som anges i portalen för administrationscenter för M365. Detta kan bero på flera faktorer, till exempel aktiveringsdatum för förmånen, antalet licenser som är associerade med nyckeln och de licenser som lagts till eller utökats på administratörsportalen.
 
-## <a name="extend-the-end-date-or-add-more-licenses-to-an-existing-subscription"></a>Utöka slutdatumet eller Lägg till fler licenser till en befintlig prenumeration
+## <a name="extend-the-end-date-or-add-more-licenses-to-an-existing-subscription"></a>Utöka slutdatumet eller lägga till fler licenser i en befintlig prenumeration
 
 Följ dessa steg om du vill lägga till fler licenser eller utöka slutdatumet för en befintlig prenumeration:
 
-1. Kopiera och klistra in länken nedan i ett **privat eller Incognito webbläsarfönster**.
+1. Kopiera och klistra in länken nedan i ett **privat eller inkognito webbläsarfönster.**
 
    [https://admin.microsoft.com/AdminPortal/Home#/subscriptions](https://admin.microsoft.com/AdminPortal/Home#/subscriptions)
 
-1. När du loggar in på **M365 administrations Center-portalen** kontrollerar du att du loggar in med rätt Azure Active Directory klient. Välj sedan den aktuella moln prenumerationen i listan och gör något av följande (för att antingen förnya prenumerationen eller lägga till fler licenser):
+1. När du loggar in **på M365-administrationscenterportalen** kontrollerar du att du loggar in med rätt Azure Active Directory klientorganisation. Välj sedan den specifika molnprenumerationen i listan och gör något av följande (för att antingen förnya prenumerationen eller lägga till fler licenser):
 
-   - Om du vill förnya den befintliga prenumerationen väljer du alternativet **utöka slutdatum** i avsnittet licens. Om du utökar slutdatumet ökar prenumerationens varaktighet samtidigt som antalet licenser/platser hålls på samma sätt. 
+   - Om du vill förnya den befintliga **prenumerationen väljer du alternativet Utöka** slutdatum i området Licens. Om slutdatumet utökas ökar prenumerationens varaktighet samtidigt som antalet licenser/platser är detsamma. 
 
-   - Om du vill lägga till fler licenser (platser) till en befintlig prenumeration väljer du alternativet **Lägg till licenser** i avsnittet licens. Se till att du inte väljer **Lägg till licenser** om du även vill förnya den befintliga prenumerationen. Genom att välja **Lägg till licenser** minskar du prenumerationens varaktighet och ökar antalet licenser i prenumerationen.
+   - Om du vill lägga till fler licenser (platser) i en befintlig prenumeration väljer du **alternativet Lägg** till licenser i området Licens. Se till att du inte väljer **Lägg till** licenser om du även vill förnya den befintliga prenumerationen. Om **du väljer** Lägg till licenser minskar prenumerationens varaktighet och ökar antalet licenser i prenumerationen.
 
-   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-4.png" alt-text="Sidan Azure-och moln produkter visar hur du lägger till licenser." border="false":::
+   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-4.png" alt-text="Sidan med Azure- och molnprodukter visar hur du lägger till licenser." border="false":::
 
-1. På sido panelen väljer du **Lös in produkt nyckel**. 
+1. I sidopanelen väljer du **Lös in produktnyckel.** 
 
-1. Ange produkt nyckeln och välj sedan **Verifiera** för att verifiera nyckel informationen. 
+1. Ange produktnyckeln och välj sedan **Verifiera för** att verifiera nyckelinformationen. 
 
 1. Välj **Lös** in för att slutföra processen.
 
    > [!NOTE]
-   > Varje produkt nyckel ger användare med 12 månaders service från det datum då du löser in produkt nyckeln. Men om dina befintliga användare har ett datum för tidig förnyelse kommer två datum att beräknas för att göra det enklare att hantera dina prenumerationer baserat på ett enda slutdatum för alla dina användare. Ingen tid läggs till eller försvinner under beräkningen. Beräkningen som används för att beräkna medelvärdet för två datum är:
+   > Varje produktnyckel ger användarna 12 månaders tjänst från det datum då du löst in produktnyckeln. Men om dina befintliga användare har ett tidigt förnyelsedatum beräknas två datum för att göra det enklare att hantera dina prenumerationer baserat på ett enda slutdatum för alla dina användare. Ingen tid läggs till eller går förlorad under beräkningen. Beräkningen som används för att beräkna medelvärdet av två datum är:
    >
-   > **Beräkning:** \[ A (initial användare) x B (återstående tid i prenumerationen) \+ C (nya användare) x (12 månader) \] ÷ Totalt antal användare = ny återstående tid.
+   > **Beräkning:** \[ A (inledande användare) x B (återstående tid i prenumerationen) \+ C (nya användare) x (12 månader) ÷ totalt \] antal användare = ny tid som återstår.
 
 ## <a name="activate-a-subscription-for-the-first-time"></a>Aktivera en prenumeration för första gången
 
-Följ dessa steg om du aktiverar en prenumeration för första gången. Du kan också använda de här stegen om din prenumeration har tillståndet inaktiverat eller upphört att gälla:
+Följ dessa steg om du aktiverar en prenumeration för första gången. Du kan också använda de här stegen om din prenumeration är inaktiverad eller har upphört att gälla:
 
-1. Kopiera och klistra in länken nedan i ett **privat eller Incognito webbläsarfönster**.
+1. Kopiera och klistra in länken nedan i ett **privat webbläsarfönster eller inkognitofönster.**
    
    [https://signup.microsoft.com/productkeystart](https://signup.microsoft.com/productkeystart)
-1. Kontrol lera att du har loggat in på rätt Azure Active Directory klient konto. När du är inloggad kontrollerar du klient informationen.
+1. Kontrollera att du har loggat in på rätt Azure Active Directory klientkonto. När du har loggat in kontrollerar du klientinformationen.
 
-   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-5.png" alt-text="Sidan Azure-och moln produkter som visar var du ska lägga till nyckeln." border="false":::
+   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-5.png" alt-text="Sidan med Azure- och molnprodukter som visar var du lägger till nyckel." border="false":::
 
-1. Ange den 25-siffriga nyckel som hämtades från Partner Center och välj sedan **Nästa**.
+1. Ange den 25-siffriga nyckeln som du fick från Partnercenter och välj **sedan Nästa.**
 
-2. Kontrol lera att produkt informationen visas, antalet licenser och prenumerationens varaktighet. När du är klar väljer du **Lös** in för att aktivera prenumerationen.
+2. Kontrollera produktinformationen som visas, antalet licenser och prenumerationens varaktighet. När du är klar väljer du **Lös in** för att aktivera prenumerationen.
 
-   Den nyligen aktiverade prenumerationen är tillgänglig på fliken **produkter** i administrations centret för M365.
+   Den nyligen aktiverade prenumerationen är tillgänglig på **fliken Dina produkter** i administrationscentret för M365.
 
-## <a name="licensing-scenarios"></a>Licensierings scenarier
+## <a name="licensing-scenarios"></a>Licensieringsscenarier
 
-I det här avsnittet beskrivs några exempel på licensierings scenarier för prenumerationer som är kopplade till Azure-och moln produkter. I dessa scenarion får du lära dig hur prenumerationens slutdatum beräknas.
+I det här avsnittet beskrivs några exempel på licensieringsscenarier för prenumerationer som är associerade med Azure- och molnprodukter. I dessa scenarier får du lära dig hur prenumerationens slutdatum beräknas.
 
 ### <a name="scenario-1"></a>Scenario 1
 
-Om du har 100 licenser som är aktiva på en prenumeration och du försöker utöka slutdatumet med hjälp av en nyckel med 25 licenser, utökas slutdatumet med tre (3) månader för prenumerationen med 100-licenser.
+Om du har 100 licenser aktiva i en prenumeration och du försöker utöka slutdatumet med hjälp av en nyckel med 25 licenser, kommer slutdatumet att utökas med tre (3) månader för prenumerationen med 100 licenser.
 
 ### <a name="scenario-2"></a>Scenario 2
 
-Om du har 100 licenser som är aktiva på en prenumeration och du försöker utöka slutdatumet med hjälp av en nyckel med 100-licenser, kommer slutdatumet att utökas med 12 månader.
+Om du har 100 licenser aktiva i en prenumeration och du försöker utöka slutdatumet med hjälp av en nyckel med 100 licenser, kommer slutdatumet att utökas med 12 månader.
 
 ### <a name="scenario-3"></a>Scenario 3
 
-Om du har fem (5) licenser aktiva på en prenumeration och du försöker utöka slutdatumet med hjälp av en nyckel med 10 licenser, kommer slutdatumet att utökas med 24 månader för prenumerationen med fem (5) licenser (eller platser).
+Om du har fem (5) licenser som är aktiva i en prenumeration och du försöker utöka slutdatumet med hjälp av en nyckel med 10 licenser, kommer slutdatumet att utökas med 24 månader för prenumerationen med fem (5) licenser (eller platser).
 
 ### <a name="scenario-4"></a>Scenario 4
 
-Om du försöker utöka slutdatumet med hjälp av en nyckel med fler än 3x aktiva licenser/platser visas följande fel meddelande. Det här meddelandet är avsiktligt, eftersom prenumerationens slutdatum kan utökas med högst tre år.
+Om du försöker utöka slutdatumet med hjälp av en nyckel med fler än 3 gånger aktiva licenser/platser visas följande felmeddelande. Det här meddelandet är designat eftersom prenumerationens slutdatum kan utökas med högst 3 år.
 
-:::image type="content" source="images/benefits/mpn-benefits-azure-cloud-6.png" alt-text="Fel meddelande för Azure och moln produkter." border="false":::
+:::image type="content" source="images/benefits/mpn-benefits-azure-cloud-6.png" alt-text="Felmeddelande för Azure- och molnprodukter." border="false":::
 
 ## <a name="next-steps"></a>Nästa steg
 
-- Lär dig mer om [att migrera från Office 365 E3 till Microsoft 365 Business Premium](/microsoft-365/business/migrate-from-e3)
+- Lär dig [mer om att migrera från Office 365 E3 till Microsoft 365 Business Premium](/microsoft-365/business/migrate-from-e3)
    
-- Läs mer om [Microsoft 365 Business röst](/microsoftteams/business-voice/whats-business-voice)
+- Läs mer om [Microsoft 365 Business Voice](/microsoftteams/business-voice/whats-business-voice)
   
-- Lär dig mer om [land och region tillgänglighet för Business Voice](/microsoftteams/business-voice/country-region-availability)
+- Läs mer [om tillgänglighet för land och region för Business Voice](/microsoftteams/business-voice/country-region-availability)

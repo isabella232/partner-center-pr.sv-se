@@ -1,124 +1,121 @@
 ---
-title: Hämta försäljnings leads – skapa en affärs profil
+title: Hämta sälj leads – skapa en företagsprofil
 ms.topic: article
 ms.date: 03/09/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig hur du får försäljnings leads från Microsoft. En nyckel är att skapa en affärs profil i Partner Center som gör det lättare för kunderna att hitta dig.
+description: Lär dig hur du hämtar leads från Microsoft. En nyckel är att skapa en företagsprofil i Partnercenter som gör det enklare för kunderna att hitta dig.
 author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db9166b0d2c4fe1c9f61921a9632c9704eaca74d
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: f66a5c32f145be5a80de838dae2cd1926e6aebce
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964402"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148217"
 ---
-# <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Skapa en affärs profil för att få Microsoft Sales-leads och hjälpa kunder att hitta dig
+# <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Skapa en företagsprofil för att få microsofts sälj leads och hjälpa kunderna att hitta dig
 
-**Lämpliga roller**
+**Lämpliga roller:** Administratörsroller för | Referensadministratör
 
-- Företags profil administratör
-- Referens administratör
+Som kvalificerad Microsoft-partner kan du skapa en företagsprofil för att demonstrera din verksamhet för kunder som letar efter dina unika lösningar och expertis för att hantera deras affärsbehov.
 
-Som kvalificerad Microsoft-partner kan du skapa en affärs profil för att presentera din verksamhet för kunder som letar efter dina unika lösningar och expert kunskaper för att hantera sina affärs behov.
+Microsoft engagerar miljontals kunder varje år genom marknadsföring, försäljning och service. De flesta av dessa engagemang skapar möjligheter för oss att ge referenser till våra partner i form av sälj-leads. 
 
-Microsoft engagerar miljon tals kunder varje år genom marknadsföring, försäljning och tjänste insatser. De flesta av dessa engagemang skapar möjligheter för oss att tillhandahålla hänvisningar till våra partner i form av Sälj leads. 
+Att skapa en företagsprofil är det första steget mot att få referenser. Vi visar din profil för kunder som söker efter partner som kan hjälpa dem att implementera Microsofts produkter och lösningar via:
 
-Att skapa en affärs profil är det första steget mot att hämta hänvisningar. Vi visar din profil för kunder som söker efter partner som kan hjälpa dem att implementera Microsofts produkter och lösningar genom att:
+- **Sökfunktionen [Hitta en lösningsleverantör.](https://www.microsoft.com/solution-providers/home)** Potentiella kunder kan söka efter partnerlistor på egen hand för att hitta partner som uppfyller deras sökkriterier.
 
-- **Sök upplevelsen [hitta en lösnings leverantör](https://www.microsoft.com/solution-providers/home)**. Potentiella kunder kan söka i partner listor på egen hand för att hitta partner som uppfyller Sök villkoren.
-
-- **Hänvisningar från Microsoft Sales-och service personal**. Potentiella kunder som är intresserade av att distribuera molnbaserade teknik lösningar kontaktar Microsoft för att hitta proffs som kan uppfylla sina affärs behov. Dessa Microsoft-experter kan sedan referera till företagets kunder.
+- **Referenser från Microsofts sälj- och servicepersonal.** Potentiella kunder som är intresserade av att distribuera molnbaserade tekniklösningar kontaktar Microsoft för hjälp med att hitta experter som kan uppfylla deras affärsbehov. Dessa Microsoft-experter kan sedan hänvisa potentiella kunder till ditt företag.
 
 ## <a name="create-a-profile"></a>Skapa en profil
 
 > [!NOTE]  
-> Innan du kan skapa en affärs profil måste du ha ett partner Center-konto. Om du inte redan har ett partner Center-konto går du till [skapa ett partner Center-konto](mpn-create-a-partner-center-account.md) för att få hjälp med att skapa ett.
+> Innan du kan skapa en företagsprofil måste du ha ett Partnercenter-konto. Om du inte redan har ett Partnercenter-konto kan du få hjälp med att skapa ett i Skapa ett Partnercenter-konto. [](mpn-create-a-partner-center-account.md)
 
 Skapa profiler för varje region som du har behörighet att göra affärer i.
 
-1. Från menyn **partner Center** väljer du **referenter** &gt; **affärs profiler** &gt; Välj land/region > **[skapa en affärs profil](https://partner.microsoft.com/referrals/businessprofiles/)**.
+1. På menyn **i Partnercenter** väljer du **Referenser** &gt; **Företagsprofiler, välj** ett &gt; land/en region > **[Skapa en företagsprofil.](https://partner.microsoft.com/referrals/businessprofiles/)**
 
-2. På sidan **skapa en affärs profil** väljer du en region och anger sedan din profil information.
+2. På sidan **Skapa en företagsprofil** väljer du en region och anger sedan din profilinformation.
    > [!NOTE]  
-   >  Även om Partner Center stöder flera språk, kan vissa element, t. ex. Beskrivning och kostnads fria etiketter, behöva innehålla text från olika språk, enligt vad som anges i det här avsnittet.
+   >  Partnercenter stöder flera språk, men vissa element, till exempel beskrivning och taggar i fritt format, kan behöva inkludera text från olika språk, enligt vad som anges i det här avsnittet.
 
 ### <a name="partner-information"></a>Partnerinformation
 
-Presentera företaget, Lägg till en logo typ och en kort beskrivning och en länk till webbplatsen. 
+Introducera ditt företag, lägg till en logotyp och en kort beskrivning samt en länk till din webbplats. 
 
-Logo typen kan vara en GIF-, JPG-eller PNG-fil med en maximal bredd på 300 bild punkter. Vi rekommenderar att du använder fyrkantiga eller långa proportioner. Hög höjd-breddförhållandet rekommenderas inte.
+Logotypen kan vara en GIF-, JPG- eller PNG-fil med en maximal bredd på 300 bildpunkter. Vi rekommenderar att du använder kvadratiska eller långa proportioner. Höga bredd–höjd-förhållanden rekommenderas inte.
 
-Beskrivningen kan innehålla upp till 2500 tecken. Tips för en bra beskrivning: 
+Beskrivningen kan vara upp till 2 500 tecken. Tips för en bra beskrivning: 
 
--  **Var kort**, vilket är viktigt i den första meningen eller två. Detta bör vara rubriken som fångar kundernas uppmärksamhet. I Sök upplevelsen hitta en partner visar vi den första raden eller två i för hands versionen av Sök resultatet.
--  **Fokusera på ditt företags upplevelser med Microsoft-/regionsspecifika erbjudanden**. Kunder som söker efter hänvisningar söker i allmänhet efter partner med Microsoft-Specific Experience.
--  **Använd punkter**. Dela upp informationen i punkt listor för att göra det lättare att skanna.
--  **Undvik jargong**. Använd ett enkelt, vardagligt språk och namnge dina erbjudanden för vad de gör: företaget behöver de adressen eller uppgiften eller målet som de hjälper kunderna att uppnå.
--  **Bry dig inte om att fylla i beskrivningen med Sök Nyckelord**. Sök verktygen för kund söker efter nyckelord som skapats i avsnittet partner expertis, inte i beskrivningen.
--  **Håll din profil aktuell**. Uppdatera din profil med varje program-eller tjänst utgåva och håll den synkroniserad med företagets webbplats.
--  **Referera inte till något annat Microsoft partner företag efter namn**, såvida det inte är ett dotter bolag eller på annat sätt är anslutet till ditt företag, eller om du har ett aktuellt avtal med partner företaget att agera i partnerskapet och/eller befordra varandra för delade arbets möjligheter.
--  **För regioner med flera språk** bör du överväga att inkludera text från flera språk i beskrivningen.
+-  **Var kort**, med det som är viktigt i den första meningen eller två. Det här bör vara den rubrik som fångar kundernas uppmärksamhet. I sökupplevelsen Hitta en partner visar vi den första raden eller två i förhandsversionen av sökresultaten.
+-  **Fokusera på företagets upplevelser med Microsoft-specifika erbjudanden.** Kunder som söker efter referenser letar vanligtvis efter partner med Microsoft-specifika erfarenheter.
+-  **Använd punkter**. Dela upp information i punktlistor för att göra det enklare att skanna.
+-  **Undvik jargong**. Använd ett enkelt, dagligt språk och namnge dina erbjudanden för vad de gör: de affärsbehov som de åtgärdar, eller uppgift eller mål som de hjälper kunderna att uppnå.
+-  **Oroa dig inte för att fylla i beskrivningen med söknyckelord**. Kundsökningsverktygen söker efter nyckelord som genererats i avsnittet Partnerexpert, inte beskrivningen.
+-  **Håll din profil aktuell.** Uppdatera din profil med varje programvara eller tjänst, så att den är synkroniserad med företagets webbplats.
+-  Referera inte till ett annat **Microsoft-partnerföretag** efter namn, såvida det inte är ett dotterbolag eller på annat sätt är anslutet till ditt företag, eller om du har ett aktuellt avtal med det partnerföretaget om att agera i partnerskap och/eller befordra varandra för delade arbetsmöjligheter.
+-  **För regioner med flera språk bör** du överväga att inkludera text från flera språk i beskrivningen.
 
-#### <a name="linkedin-company-page-more-ways-to-connect"></a>LinkedIn-företags sida: fler sätt att ansluta
+#### <a name="linkedin-company-page-more-ways-to-connect"></a>LinkedIn-företagssida: fler sätt att ansluta
 
-Lägg till din LinkedIn-företags sida för att förstärka dina anslutningar till potentiella kunder. 
+Lägg till din LinkedIn-företagssida för att stärka dina anslutningar till potentiella kunder. 
 
-När du tar med den här länken kan kunderna snabbt se mer information om din organisation via LinkedIn-plattformen.
+När du inkluderar den här länken kan kunderna snabbt se mer om din organisation via LinkedIn-plattformen.
 
-Om du inte redan har en sida med LinkedIn-företag kan du [skapa en nu](https://www.linkedin.com/company/setup/new/).
+Om du inte redan har en LinkedIn-företagssidan kan du [skapa en nu.](https://www.linkedin.com/company/setup/new/)
 
-### <a name="partner-expertise"></a>Partner expert kunskaper
+### <a name="partner-expertise"></a>Partnerexpertis
 
-Sökverktygen **hitta en partner** söker efter expertis-taggar. Optimera de här taggarna för att hjälpa din profil att få insyn.
+**Sökverktygen Hitta en** partner söker efter experttaggar. Optimera de här taggarna för att hjälpa din profil att få insyn.
 
-Börja med att lägga till egna taggar i avsnittet partner expert kunskaper. Taggar som du kan lägga till: 
+Börja med att lägga till egna taggar i avsnittet Partnerexpertis. Taggar som du kan lägga till: 
 
--  **Taggar för bransch fokus**
+-  **Taggar för branschfokus**
 -  **Produkter**. Begränsad till Microsoft-produkter
 -  **Typ av tjänst**
--  **Lösningar, kunskaper och funktioner**. Taggarna är kostnads fria och ger dig möjlighet att lägga till sökord som är unika för dina funktioner.
+-  **Lösningar, färdigheter och funktioner**. De här taggarna är friform och ger dig möjlighet att lägga till sökord som är unika för dina funktioner.
 
-Andra taggar som används i sökningen:
+Andra taggar som används vid sökning:
 
-- **Kompetens Taggar** är en intjänande beteckning som demonstrerar ditt företags funktioner.
+- **Kompetenstaggar är** en intjänad beteckning som visar företagets funktioner.
 
-### <a name="customer-preferences"></a>Kund inställningar
+### <a name="customer-preferences"></a>Kundinställningar
 
-#### <a name="target-size"></a>Mål storlek
+#### <a name="target-size"></a>Målstorlek
 
-Du kan välja bort referenser från företag som inte uppfyller mål kundens storlek.
+Du kan välja bort hänvisningar från företag som inte uppfyller din målkundstorlek.
 
-Genom att väljer ut får du mer tid att spendera på företag som är en matchning för de företag som du föredrar att arbeta med.
+Genom att avanmäla dig har du mer tid att ägna åt företag som passar för de företag som du föredrar att arbeta med.
 
 #### <a name="locations"></a>Platser
 
-Du kan lägga till upp till 5 av företagets högsta platser per region. Dessa platser visas när kunder söker efter partners med närhet.
+Du kan lägga till upp till 5 av företagets främsta platser per region. Dessa platser visas när kunder söker efter partner via närhet.
 
-Ange platser som är officiella företags platser och som kan val IDE ras. Välj platser som är centrala för de marknader du betjänar och som bäst motsvarar ditt företags möjlighet att uppfylla.
+Ange platser som är officiella företagsplatser och som kan verifieras. Välj platser som är centrala för de marknader som du betjänar och representerar bäst ditt företags förmåga att uppfylla.
 
-När du är klar med att uppdatera plats informationen väljer du **Spara den här platsen** eller **sparar den här platsen och lägger till ytterligare** en plats (även om du bara lägger till en plats).
+När du är klar med att  uppdatera platsinformationen väljer du Spara den här platsen eller Spara den här platsen och lägger till en till **(även** om du bara lägger till en plats).
 
-Varje plats som du lägger till blir en separat profil sida. När du uppdaterar profil sidor ser du till att du uppdaterar dem för varje plats.
+Varje plats som du lägger till blir en separat profilsida. När du uppdaterar profilsidor bör du se till att du uppdaterar dem för varje plats.
 
-Om du vill uppdatera en platss adress måste du först **ta bort** platsen och sedan lägga till den igen.
+Om du vill uppdatera en platsadress måste du först **ta bort** platsen och lägga till den på nytt.
 
-Om du har fem översta platser och du behöver ändra en, tar du först **bort** en befintlig plats och lägger till den nya platsen.
+Om du har 5 översta platser och du behöver ändra en, tar du **bort** en befintlig plats först och lägger till den nya platsen.
 
 ## <a name="review-your-profile"></a>Granska din profil
 
-När du har publicerat din profil visas uppdateringar i [Sök efter en Solution Provider](https://www.microsoft.com/solution-providers/home) inom 24 timmar.
+När du har publicerat din profil visas uppdateringar i Sök efter [en lösningsleverantör](https://www.microsoft.com/solution-providers/home) inom 24 timmar.
 
 ## <a name="improve-the-visibility-of-your-profile"></a>Förbättra synligheten för din profil
 
-- **[Svara snabbt på begär Anden](manage-leads.md)**. När du får en kund hänvisning kan ett snabbare svar leda till bättre resultat på Sök sidorna för framtida kunder.
+- **[Svara snabbt på begäranden.](manage-leads.md)** När du får en kundreferens kan ett snabbare svar leda till bättre resultat på söksidorna för framtida kunder.
 
-- **Var selektiv med taggarna**.  Det är bättre att ha färre taggar som bäst motsvarar ditt företags erbjudanden, lösningar, värde propositioner och unik position där du konsekvent kan visa framgång.  Det innebär att du betalar utdelning i framtida Sök resultat.
-- Få **kompetens etiketter** via Microsoft för att demonstrera dina kunskaper i våra produkter.
+- **Var selektiv med taggarna**.  Det är bättre att ha färre taggar som bäst representerar ditt företags erbjudanden, lösningar, värdeförslag och unika position där du konsekvent kan visa framgång.  Det kommer att betala för framtida sökresultat.
+- **Skaffa kompetenstaggar** via Microsoft för att demonstrera dina kunskaper i våra produkter.
 
 ## <a name="next-steps"></a>Nästa steg
 
-[Svara på referenser](manage-leads.md)
+[Svara på hänvisningar](manage-leads.md)
