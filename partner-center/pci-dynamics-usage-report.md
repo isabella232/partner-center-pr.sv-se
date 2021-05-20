@@ -1,5 +1,5 @@
 ---
-title: Användnings rapport för partner Center Insights Dynamics
+title: Partnercenter – insikter om Dynamics-användningsrapport
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
@@ -8,85 +8,80 @@ description: Se vad du gör bra och var du kan förbättra användningen av Dyna
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 60c0eebccff963858b1af09318b5202016ea5291
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 0e2880f8548b220d708c61c08a0ea9fb37700240
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086931"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152808"
 ---
-# <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Användnings rapport för Dynamics som är tillgänglig från Partner Center Insights-instrumentpanelen
+# <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Dynamics-användningsrapport som är tillgänglig från instrumentpanelen i Partnercenter Insights
 
-**Lämpliga roller**
+**Lämpliga roller:** Globala | Administratörsagent | Rapportvisningsprogram | Visningsprogram för exekutiv rapport
 
-- Global administratör
-- Administratörs agent
-- Rapport visnings program
-- Rapport visnings program för chefer
-
-I användnings rapporten för Dynamics finns användnings data för de Dynamics 365-prenumerationer som du sålde eller hanterar för dina kunder. Du kan visa följande avsnitt från rapporten Dynamics Usage.
+Dynamics-användningsrapporten innehåller användningsdata för de Dynamics 365-prenumerationer som du sålde eller hanterar för dina kunder. Du kan visa följande avsnitt från Dynamics-användningsrapporten.
 
 - Sammanfattning
-- Dynamics-användning efter geografi
-- Dynamics-användning per SKU
-- Prenumerations prestanda
-- Distribution av Dynamics Usage
+- Dynamics-användning efter geografiskt område
+- Dynamics-användning efter SKU
+- Prenumerationsprestanda
+- Distribution av Dynamics-användning
 
  > [!NOTE]
- > Den här rapporten är tillgänglig från insikts instrument panelen. Om du vill visa den här rapporten måste du ha tilldelats en speciell roll i Partner Center, till exempel global administratör, konto administratör, rapport visnings program eller Executive Report Viewer. Mer information finns i företagets globala administratör. vissa typer av data i den här rapporten kan också endast vara tillgängliga för användare med behörigheten Executive Report Viewer.
+ > Den här rapporten är tillgänglig från Insights-instrumentpanelen. Om du vill visa den här rapporten måste du ha tilldelats en viss roll i Partnercenter, till exempel Global administratör, Kontoadministratör, Rapportvisare eller Rapportvisningsprogram. Mer information finns i företagets globala administratör. Specifika typer av data i den här rapporten kan också vara tillgängliga endast för användare med privilegier för visningsprogrammet för verkställande rapporter.
 
 ## <a name="summary"></a>Sammanfattning
 
-Avsnittet Sammanfattning visar en ögonblicks bild av de viktigaste indikatorerna som rör de Dynamics-användnings prenumerationer som du har sålt eller hanterar för dina kunder.  
+I sammanfattningsavsnittet visas en ögonblicksbildsvy över de kpi:er som är relaterade till De Dynamics-användningsprenumerationer som du har sålt eller hanterat för dina kunder.  
 
-- Tillgängliga platser: totalt antal sålda licenser under den valda tids perioden.
+- Tillgängliga platser: Totalt antal sålda licenser under den valda tidsramen.
 
-   Micro-diagrammet presenterar en månads månads trend för tillgängliga antal platser för det valda datum intervallet.
+   Micro-diagrammet visar en trend för antalet tillgängliga platser månad för månad för det valda datumintervallet.
 
-- Tilldelade platser: totalt antal licenser som tilldelats under den valda tids perioden.
+- Tilldelade platser: Totalt antal licenser som tilldelats under den valda tidsramen.
 
-   Micro-diagrammet presenterar en månads månads trend för tilldelade platser under det valda datum intervallet.
+   Micro-diagrammet visar en månad över månad-trend för antalet tilldelade platser under det valda datumintervallet.
 
-- Aktiva platser: totalt antal licenser som hade användning under den valda tids perioden. 
+- Aktiva platser: Totalt antal licenser som har haft användning under den valda tidsramen. 
 
-   Micro-diagrammet presenterar en månatlig trend för månatliga aktiva platser under den valda tids perioden.
+   Micro-diagrammet visar en månatlig trend för månatliga aktiva platser under den valda tidsperioden.
 
-- Aktiv användning%: totalt antal aktiva platser som uttryckts som en procent andel tillgängliga platser för den valda tids perioden. 
+- Aktiv användning %: Totalt antal aktiva platser uttryckt som en procentandel av de tillgängliga platserna för den valda tidsramen. 
 
-   Micro-diagrammet presenterar en månatlig trend för aktiv användnings procent under den valda tids perioden.
+   Mikrodiagrammet visar en månatlig trend för aktiv användning i procent under den valda tidsperioden.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-summary.png" alt-text="Sammanfattning av användning av Dynamics":::
+:::image type="content" source="images/pci/pci-dynamics-usage-summary.png" alt-text="Sammanfattning av Dynamics-användning":::
 
-## <a name="dynamics-usage-by-geography"></a>Dynamics-användning efter geografi
+## <a name="dynamics-usage-by-geography"></a>Dynamics-användning per geografiskt område
 
-**Dynamics-användningen per geografi** visar distributionen av tillgängliga platser och aktiva platser efter kund land. Ljusare färger på kartan representerar lägre värden, medan mörkare färger representerar högre värden. Du kan söka efter och välja ett land i rutnätet. Du kan också zooma in för att se en närmare titt.
+**Dynamics-användningen per geografisk** plats visar distributionen av tillgängliga platser och aktiva platser per kundland. Ljusare färger på kartan representerar lägre värden, medan mörkare färger representerar högre värden. Du kan söka efter och välja ett land i rutnätet. Du kan också zooma in för en närmare titt.
 
-Tabellen **land/region** visar det totala antalet länder/regioner där Azures användnings händelser genereras.
+I **tabellen Antal länder/regioner** visas det totala antalet länder/regioner där Azure-användningshändelser genereras.
 
-Du kan söka efter och välja ett land i rutnätet för att zooma till platsen i kartan. Välj alternativet **Start** på kartan för att återgå till den ursprungliga vyn.
+Du kan söka efter och välja ett land i rutnätet för att zooma till platsen på kartan. Välj alternativet **Start** på kartan för att återgå till den ursprungliga vyn.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-geography.png" alt-text="Dynamics-användning efter geografi":::
+:::image type="content" source="images/pci/pci-dynamics-usage-geography.png" alt-text="Dynamics-användning per geografiskt område":::
 
-## <a name="dynamics-usage-by-sku"></a>Dynamics-användning per SKU
+## <a name="dynamics-usage-by-sku"></a>Dynamics-användning efter SKU
 
-Användningen av Dynamics-SKU: n visar månads trenden för tillgängliga platser, aktiva platser och tilldelade platser med SKU: er.
+Dynamics-användningen av SKU visar månatlig trend för tillgängliga platser, aktiva platser och tilldelade platser efter SKU:er.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-sku.png" alt-text="Dynamics-användning per SKU":::
+:::image type="content" source="images/pci/pci-dynamics-usage-sku.png" alt-text="Dynamics-användning efter SKU":::
 
-## <a name="subscriptions-performance"></a>Prenumerations prestanda
+## <a name="subscriptions-performance"></a>Prenumerationsprestanda
 
-Prenumerations prestandan visar den månatliga trenden för aktiv användning per kund prenumeration. Data för de främsta 100 kunderna med fakturerad intäkt visas i tabellen och du kan söka efter en kund eller ladda ned rå data för att visa information om alla prenumerationer.
+Prenumerationsprestanda visar den månatliga trenden för aktiv användning per kundprenumeration. Data för de 100 främsta kunderna efter fakturerade intäkter visas i tabellen och du kan söka efter valfri kund eller ladda ned rådata för att visa information om alla prenumerationer.
 
 :::image type="content" source="images/pci/pci-dynamics-usage-subscription.png" alt-text="Prestanda för Dynamics-prenumeration":::
 
-## <a name="dynamics-usage-distribution"></a>Distribution av Dynamics Usage
+## <a name="dynamics-usage-distribution"></a>Dynamics-användningsdistribution
 
-Användnings fördelningen i Dynamics beskriver fördelningen av tillgängliga platser, aktiva platser och tilldelade platser med SKU: er.
+Dynamics-användningsdistributionen visar uppdelningen av tillgängliga platser, aktiva platser och tilldelade platser efter SKU:er.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-distribution.png" alt-text="Distribution av Dynamics Usage":::
+:::image type="content" source="images/pci/pci-dynamics-usage-distribution.png" alt-text="Dynamics-användningsdistribution":::
 
 ## <a name="next-steps"></a>Nästa steg
 
-- Mer information finns i [partner Center Insights](partner-center-insights.md).
+- Fler rapporter finns i [Partner Center Insights.](partner-center-insights.md)
 
-- Du kan ladda ned rå data från den här rapporten från avsnittet hämta rapporter på instrument panelen insikter. [Läs mer](pci-download-reports.md) 
+- Du kan ladda ned rådata som driver den här rapporten från avsnittet Ladda ned rapporter på instrumentpanelen Insights. [Läs mer](pci-download-reports.md) 

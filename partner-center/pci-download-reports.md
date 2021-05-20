@@ -1,70 +1,67 @@
 ---
-title: Instrument panel för hämtning av insikter
+title: Instrumentpanel för att ladda ned rapport för insikter
 ms.topic: article
 ms.date: 10/14/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig hur du hämtar och exporterar data från Partner Center Unified repor ting Dashboard och från Partner Center Insights-rapporter.
+description: Lär dig hur du laddar ned och exporterar data från instrumentpanelen för enhetlig rapportering i Partnercenter och från Partner Center Insights-rapporter.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b7d963bffcfeebed3b7540dfd02aadd876dfcaa6
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 266baf0eb3501cba984ec0fbaed4508366b92b8b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086234"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152791"
 ---
 # <a name="download-reports"></a>Ladda ned rapporter
 
-**Lämpliga roller**
-
-- Rapport visnings program för chefer
-- Rapport visnings program
+**Lämpliga roller:** Visningsprogram för | Rapportvisningsprogram
 
 ## <a name="introduction"></a>Introduktion
 
-Med hubben för att ladda ned rapporter i insikts instrument panelen kan du exportera rå data uppsättningar som Power partners Center Insights rapporterar till i tabbavgränsat (tabbavgränsad) format. På så sätt kan du göra djupare analyser av data baserat på affärs behoven.
+Med hubben Ladda ned rapporter på instrumentpanelen Insikter kan du exportera de rådatauppsättningar som driver Partner Center Insights-rapporterna i TSV-format (tabbavgränsat värde). På så sätt kan du göra djupare analyser av data baserat på affärsbehoven.
 
-När rapporten har skapats är den tillgänglig i avsnittet **genererade rapporter** där du kan ladda ned och analysera med verktyg som Microsoft Excel.
+När rapporten har genererats är den tillgänglig i avsnittet **Genererade rapporter** där du kan ladda ned och analysera med hjälp av verktyg som Microsoft Excel.
 
 **Skapa ny rapport**
 
-Om du vill generera en rapport väljer du först rapporten i list rutan **Välj rapport** . Välj sedan datum intervallet i list rutan **Välj datum intervall** . Välj **generera**. Rapporten skapas i TSV-format (tabbavgränsadt värde) och kommer att vara tillgänglig för hämtning i avsnittet **genererade rapporter** inom några minuter. Rapporter som genererats under de senaste 14 dagarna kommer att vara tillgängliga för hämtning.
+Om du vill generera en rapport väljer du först rapporten **i listrutan** Välj rapport. Välj sedan datumintervallet från **listrutan Välj datumintervall.** Välj **Generera.** Rapporten genereras i TSV-format (tab-separated value) och är tillgänglig för nedladdning i avsnittet **Genererade** rapporter inom några minuter. Rapporter som genererats under de senaste 14 dagarna kommer att vara tillgängliga för nedladdning.
 
 :::image type="content" source="images/pci/create-new-report.png" alt-text="Skapa ny rapport":::
 
 :::image type="content" source="images/pci/generated-reports.png" alt-text="Genererade rapporter":::
 
 >[!NOTE] 
->Endast de användare som är chefs rapporter kan hämta rapporter. Mer information om rollbaserad åtkomst till insikter instrument panels rapporter finns i [PCI-roller](pci-roles.md). 
+>Endast de användare som är rapportanvändare kan ladda ned rapporter. Mer information om rollbaserad åtkomst till rapporter på Insights-instrumentpanelen finns i [PCI-roller.](pci-roles.md) 
 
 ## <a name="available-reports"></a>Tillgängliga rapporter
 
-Följande rapporter är tillgängliga för hämtning:
+Följande rapporter är tillgängliga för nedladdning:
 
-**Partner profilen** innehåller information som är relaterad till partnern. Information som partner-ID, partner namn, partner ort och partner land är tillgängliga i rapporten. Ingen agg regering eller lookback kommer att användas för den här rapporten.
+**Partnerprofilen** innehåller information som är relaterad till partnern. Information som Partner-ID partnernamn, partnerstad och partnerland finns i rapporten. Ingen aggregering eller återställning kommer att gälla för den här rapporten.
 
-**Kund information** innehåller information om kunder som en partner är kopplad till. Den innehåller också viktiga mått som licenser som säljs, aggregerade ACR och så vidare. Rapporten sammanställs per månad.
+**Kundinformation** ger information om kunder som en partner är associerad med. Den innehåller också viktiga mått som sålda licenser, aggregerad ACR och så vidare. Rapporten sammanställs månadsvis.
 
-**Prenumerations informationen** innehåller information om de prenumerationer som säljs eller hanteras av partnern tillsammans med kund information. Rapporten sammanställs per månad.
+**Prenumerationsinformation** innehåller information om de prenumerationer som säljs eller hanteras av partnern tillsammans med kundinformation. Rapporten sammanställs månadsvis.
 
-**Azure-användning** tillhandahåller Azures användnings information. Informationen gäller för Azure-prenumerationerna som säljs eller hanteras av partnern. Användnings informationen delas efter mätar kategori och andra nyckel dimensioner. Rapporten sammanställs per månad.
+**Azure-användning** innehåller användningsinformation om Azure. Den här informationen gäller de Azure-prenumerationer som säljs eller hanteras av partnern. Användningsinformationen delas upp efter mätarkategori och andra viktiga dimensioner. Rapporten aggregeras månadsvis.
 
-**Office365 – licens användningen** tillhandahåller användnings information om O365-licenser som säljs eller hanteras av partnern. Den innehåller också kund information och viktiga Mät värden, till exempel månatliga aktiva användare (MAU), kvalificerade rättigheter och så vidare. Rapporten kommer att aggregeras per månad.
+**Office365 – Licensanvändning** innehåller användningsinformation om O365-licenser som säljs eller hanteras av partnern. Den innehåller också kundinformation och nyckelmått som Månatliga aktiva användare (MAU), kvalificerade rättigheter och så vidare. Rapporten aggregeras månadsvis.
 
-**Enterprise Mobility – licens användningen**  ger användnings information om Enterprise Mobility-licenser som säljs eller hanteras av partnern. Den innehåller också kund information och viktiga Mät värden, till exempel månatliga aktiva användare (MAU), kvalificerade rättigheter och så vidare. Rapporten sammanställs per månad.
+**Enterprise Mobility – Licensanvändning**  innehåller användningsinformation om Enterprise Mobility-licenser som säljs eller hanteras av partnern. Den innehåller också kundinformation och nyckelmått som Månatliga aktiva användare (MAU), kvalificerade rättigheter och så vidare. Rapporten sammanställs månadsvis.
 
-**Dynamics 365 – licens användningen** ger användnings information om D365-licenser som säljs eller hanteras av partnern. Den innehåller också kund information och viktiga Mät värden, till exempel månatliga aktiva användare (MAU), kvalificerade rättigheter och så vidare. Rapporten sammanställs per månad.
+**Dynamics 365 – Licensanvändning** innehåller användningsinformation om D365-licenser som säljs eller hanteras av partnern. Den innehåller också kundinformation och nyckelmått som Månatliga aktiva användare (MAU), kvalificerade rättigheter och så vidare. Rapporten sammanställs månadsvis.
 
-**Power BI-licens användningen** ger användnings information om Power BI licenser som säljs eller hanteras av partnern. Den innehåller också kund information och viktiga Mät värden, till exempel månatliga aktiva användare (MAU), kvalificerade rättigheter och så vidare. Rapporten sammanställs per månad.
+**Power BI – Licensanvändning innehåller** användningsinformation om Power BI licenser som säljs eller hanteras av partnern. Den innehåller också kundinformation och nyckelmått som Månatliga aktiva användare (MAU), kvalificerade rättigheter och så vidare. Rapporten sammanställs månadsvis.
 
-**Utbildningar** ger information som tentor, certifieringar, utvärderingar, spår, kurser som har slutförts eller tagits upp av partner anställda.
+**Utbildningarna** innehåller information som prov, certifieringar, utvärderingar, spår, kurser som har slutförts eller tagits upp av partnerns anställda.
 
-**Microsoft Learn** innehåller information om modulerna, information om slutförd inlärnings Sök väg tillsammans med användar information för partnern.
+**Microsoft Learn** innehåller information om modulerna, information om slutförande av utbildningsvägen samt användarinformation för partnern.
 
-**Kompetenser – Sammanfattning och historik** ger information om alla kompetenser som antingen är aktiva, pågående eller i risk för denna partner. Innehåller även historik över alla befogenheter som uppnås av partnern.
+**Kompetenser – Sammanfattning och historik** innehåller information om alla kompetenser som är aktiva, pågående eller utsatta för risk för den här partnern. Innehåller även historik över alla kompetenser som partnern har uppnått.
 
-**Kompetenser – prestanda information** innehåller information om hur partnern gör med avseende på KPI: er för att uppnå en viss uppsättning kompetenser.
+**Kompetenser – Prestandainformation** innehåller information om hur partnern gör med avseende på KPI:er för att uppnå en viss uppsättning kompetenser.
 

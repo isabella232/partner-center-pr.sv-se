@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8f8b3a086f968ed00deefa718d3abc18223ba600
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: ba2610280de4ed989ce2bd139e2021a62fbb008b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855751"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152995"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Registrera avtal som du har vunnit i Partnercenter så att du kan få fler möjligheter senare
 
@@ -30,18 +30,18 @@ Du kan också registrera nya avtal som du har vunnit och som använder en av din
 
 Om du vill registrera ett nytt avtal går **du till Referenser > avtalsregistreringar > åtgärd som krävs** och väljer **+Nytt avtal**.
 
-På **sidan Nytt avtal** anger du följande information.
+På sidan **Nytt avtal** anger du följande information.
 
-- **Kundinformation:** Ange **företagets namn** för kunden och välj **land/region.** Ange sedan **ort** och **delstat/provins.**
+- **Kundinformation:** Ange **företagets namn** för kunden och välj **land/region.** Ange sedan stad **och** **delstat/provins.**
 - **Lösning:** Välj den lösning som ska användas för avtalet. Kontakta supporten om du inte ser rätt lösning i listan.
 - **Kontrakttyp:** Ange om det här är **ett nytt** kontrakt eller **en förnyelse** av ett tidigare kontrakt.
-- **Totalt kontraktsvärde:** Det totala förväntade värdet för engagemanget. Detta bör omfatta alla programvaru- och tjänstavgifter, men inte maskinvarukostnader. Se till att välja lämplig valuta.
-- **Lösningsvärde:** Det totala värdet för den molnlösning som ska användas för avtalet. Se till att inkludera alla kostnader som är kopplade till programvaru- och underhållsavgifter, men inkludera inte återbetalningsbara objekt, icke-återkommande anpassningsavgifter eller direkt kopplade CSP-licensavgifter som betalas av Microsoft.
-- **Distribuerad på**: Välj antingen **Azure** eller **Annan**.
-- **Var ska lösningen distribueras?**: Välj antingen **kundklientorganisationen** eller **partnerklientorganisationen**.
-- **Kontraktets startdatum:** Det datum då kontraktet börjar. För pay-as-you-go-avtal (PAYG) använder du datumet för den första fakturan.
-- **Slutdatum för kontraktet:** Om kontraktet slutar på ett visst datum väljer du **Har ett slutdatum** och anger det datumet. Om kontraktet inte har något specifikt slutdatum väljer du **Beständiga**. För pay-as-you-go-avtal (PAYG) använder du datumet för den senaste eller senaste fakturan.
-- **Signerat kontraktsdatum:** Det datum då det slutliga kontraktet signerades av din organisation och av kunden. För pay-as-you-go-avtal (PAYG) använder du datumet för den första fakturan.
+- **Totalt kontraktsvärde:** Det totala förväntade värdet för engagemanget. Detta bör inkludera alla programvaru- och tjänstavgifter, men inte maskinvarukostnader. Se till att välja lämplig valuta.
+- **Lösningsvärde:** Det totala värdet för den molnlösning som ska användas för avtalet. Se till att inkludera alla kostnader som är kopplade till programvara och underhållsavgifter, men inkludera inte återbetalningsbara objekt, icke-återkommande anpassningsavgifter eller direkt kopplade CSP-licensavgifter som betalas av Microsoft.
+- **Distribuerad den:** Välj **antingen Azure** eller **Annan**.
+- **Var ska lösningen distribueras? :** Välj antingen **kundklienten** eller **partnerklientorganisationen**.
+- **Kontraktets startdatum:** Det datum då kontraktet börjar. För PAYG-avtal (Betala per användning) använder du datumet för den första fakturan. Partnercenter låter dig inte ange ett startdatum tidigare än kontraktstecknets datum. Detta kan påverka vissa avtal, till exempel IP-distributioner som startar före signeringsdatumet. För att kunna ingå dessa avtal använder du  kontraktsdatumet för både signeringsdatum- och startdatumfälten när du skickar in. (Kontraktet bör uttryckligen ange avtalets varaktighet så att ACV kan beräknas korrekt.)
+- **Kontraktets slutdatum:** Om kontraktet slutar på ett visst datum väljer du **Har ett slutdatum och** anger det datumet. Om kontraktet inte har något specifikt slutdatum väljer du **Beständig**. För PAYG-avtal (betala per användning) använder du datumet för den senaste eller senaste fakturan.
+- **Signerat kontraktsdatum:** Det datum då det slutliga kontraktet signerades av din organisation och av kunden. För PAYG-avtal (Betala per användning) använder du datumet för den första fakturan.
 - **Registreringskontakt:** **Förnamn,** **Efternamn,** Telefonnummer och  E-postadress för en person i din organisation som vi kan kontakta om vi behöver mer information om informationen som anges här. 
 
 När du har slutfört alla avsnitt på sidan väljer du **Registrera**. Avtalsregistreringen flyttas sedan till **sidan Pågår.** Microsoft granskar sedan den information som du har angett.
@@ -54,14 +54,14 @@ Du kan granska nya, aktiva och stängda avtalsregistreringar på de olika sidorn
 
 ### <a name="action-required"></a>Åtgärd som krävs
 
-På sidan > registreringar av > åtgärd krävs visas nya registreringar som ännu inte har **registrerats** eller som behöver uppdateras. Du kan använda filtren för att endast visa **ofullständiga eller** **uppdatera nödvändiga** avtalsregistreringar. **Ofullständiga** avtalsregistreringar är sådana som kommer från hänvisningar, men som inte har registrerats ännu. **Uppdatera nödvändiga** avtalsregistreringar är sådana som har skapats och registrerats, men som kräver att du uppdaterar den information som du har angett.
+På sidan **>-avtalsregistreringar > åtgärd** krävs visas nya registreringar som ännu inte har registrerats eller som behöver en uppdatering. Du kan använda filtren för att endast visa **Ofullständiga eller** **Uppdatera nödvändiga** avtalsregistreringar. **Ofullständiga** avtalsregistreringar är de som kommer från hänvisningar, men som inte har registrerats ännu. **Uppdatera nödvändiga** avtalsregistreringar är sådana som har skapats och registrerats, men som kräver att du uppdaterar den information som du har angett.
 
 ### <a name="in-progress"></a>Pågår
 
-På sidan **> avtalsregistreringar >** pågår visas de avtalsregistreringar som Microsoft granskar. Om vi behöver ytterligare information använder vi kontaktinformationen **för registrering** som du angav.
+På sidan **referenser > avtalsregistreringar > pågår** visas de avtalsregistreringar som Microsoft granskar. Om vi behöver ytterligare information använder vi kontaktinformationen **för registrering** som du angav.
 
-Om någon information behöver uppdateras kan vi flytta avtalsregistreringen till sidan **Åtgärd krävs.**
+Om någon information behöver uppdateras kan vi flytta avtalsregistreringen till **sidan Åtgärd krävs.**
 
 ### <a name="closed"></a>Stängd
 
-På sidan **referenser > avtalsregistreringar > stängd** ser du de avtal som registrerats och granskats av Microsoft. Du kan använda filtren för att endast visa **godkända eller** **avböjde** avtalsregistreringar.
+På sidan **referenser > avtalsregistreringar > stängd** ser du de avtal som registrerades och granskades av Microsoft. Du kan använda filtren för att endast visa **godkända eller** **avvisade** avtalsregistreringar.

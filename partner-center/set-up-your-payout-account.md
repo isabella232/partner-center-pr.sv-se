@@ -2,17 +2,17 @@
 title: Konfigurera utbetalningskonto & skatteformulär – Microsofts kommersiella marknadsplats
 description: Om du vill få pengar från erbjudandeförsäljningen på den kommersiella marknadsplatsen kan du lära dig hur du ställer in ditt utbetalningskonto och fyller i de skatteformulär som krävs.
 ms.topic: conceptual
-ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.service: marketplace
+ms.subservice: partnercenter-marketplace-publisher
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 255ae28af5b29645b06ad0ae6a1f9660ad334c3c
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 2dbbab72ea68246bf0cb99d57a5ce3640f25c867
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854851"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152927"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Konfigurera utbetalningskonto och deklarationsblanketter
 
@@ -42,7 +42,7 @@ Du hanterar din skatteprofil och dina skatteformulär på **sidan Utbetalning oc
 Först måste du skapa en skatteprofil och tilldela den till de program som du deltar i. Använd följande steg för att skapa eller uppdatera din *skatteprofil* i Partnercenter. Du kan fylla i och skicka skatteformulär elektroniskt på instrumentpanelen i Partnercenter. I de flesta fall behöver du inte skriva ut och skicka några formulär via e-post.
 
 > [!IMPORTANT]
-> Olika länder och regioner har olika skattekrav. Exakt hur mycket du måste betala i skatt beror på vilka länder och regioner där du säljer ditt erbjudande. Se Microsoft Azure Marketplace [Publisher-avtalet för att](https://go.microsoft.com/fwlink/p/?LinkID=699560) ta reda på vilka länder/regioner Microsoft erbjuder försäljning och använder skatt för din räkning. I andra länder/regioner kan du, beroende på var du är registrerad, behöva överföra försäljning och använda skatt för din erbjudandeförsäljning direkt till den lokala skatteutfärdaren. Dessutom kan appförsäljningen som du får vara momsbar som inkomst. Vi rekommenderar starkt att du kontaktar relevant myndighet för ditt land eller din region och som på bästa sätt kan hjälpa dig att fastställa rätt skatteinformation för dina aktiviteter på den kommersiella marknadsplatsen.
+> Olika länder och regioner har olika skattekrav. Exakt hur mycket du måste betala i skatt beror på vilka länder och regioner där du säljer ditt erbjudande. Se Microsoft Azure Marketplace [Publisher-avtalet för att](/legal/marketplace/msft-publisher-agreement) ta reda på vilka länder/regioner Microsoft erbjuder försäljning och användningsskatt åt dig. I andra länder/regioner kan du, beroende på var du är registrerad, behöva överföra försäljning och använda skatt för din erbjudandeförsäljning direkt till den lokala skatteutfärdaren. Dessutom kan appförsäljningen som du får vara momsbar som inkomst. Vi rekommenderar starkt att du kontaktar relevant myndighet för ditt land eller din region och som på bästa sätt kan hjälpa dig att fastställa rätt skatteinformation för dina aktiviteter på den kommersiella marknadsplatsen.
 
 1. På [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard)väljer du **kugghjulsikonen** Inställningar i det övre högra hörnet och sedan **Kontoinställningar.**
 
@@ -93,7 +93,7 @@ Ett utbetalningskonto är det bankkonto som vi skickar intäkter från din förs
 
 ### <a name="create-a-bank-based-payment-profile"></a>Skapa en bankbaserad betalningsprofil
 
-Om du valde att använda ett bankkonto för att ta emot utbetalning slutför du följande process för att konfigurera ditt bankkonto.
+Om du valde att använda ett bankkonto för att få utbetalning slutför du följande process för att konfigurera ditt bankkonto.
 
 1. På sidan *Bankprofil* anger du nödvändig information om din bank.
 2. Ange information om ditt bankkonto.
@@ -102,7 +102,7 @@ Om du valde att använda ett bankkonto för att ta emot utbetalning slutför du 
     > De fält som du använder för att ange din kontoinformation accepterar endast alfanumeriska tecken.
 
 3. Ange detaljerad information.
-4. På sidan *Profiltilldelning väljer* du den valuta som du vill att vi ska använda när vi utfärdar dina utbetalningsbetalningar.
+4. När du är *tillbaka på sidan* Profiltilldelning väljer du den valuta som du vill att vi ska använda när vi utfärdar dina utbetalningar.
 
     > [!WARNING]
     > Se till att din bank accepterar utbetalningsvalutan som du väljer.
@@ -114,11 +114,11 @@ Om du valde att använda ett bankkonto för att ta emot utbetalning slutför du 
    > [!NOTE]
    > Microsoft kan ta upp till 48 timmar att verifiera informationen i din profil. När den här processen är *klar visas verifieringsstatusen* **Slutförd**
 
-Se till att utbetalningen lyckas genom att se till att:
+För att säkerställa att utbetalningen lyckas ser du till att:
 
-- Namnet **på kontoinnehavaren** som angetts för ditt utbetalningskonto i Partnercenter måste vara exakt samma namn som är associerat med ditt bankkonto. Om ditt bankkontonamn till exempel innehåller ett mellannamn lägger du till ett mellannamn i namnet **på kontoinnehavaren.**
-- Utbetalningen överförs direkt från Microsoft till ditt bankkonto i USD-valuta.
-- Bankinformation som anges i Partnercenter med latinska tecken översätts till kyrilliska tecken.
+- **Kontoinnehavarens namn som** anges för ditt utbetalningskonto i Partnercenter måste vara exakt samma namn som är associerat med ditt bankkonto. Om ditt bankkontonamn till exempel innehåller ett mellannamn lägger du till ett mellannamn i namnet **på kontoinnehavaren.**
+- Utbetalningar överförs direkt från Microsoft till ditt bankkonto i USD-valuta.
+- Bankinformation som anges i Partner Center med latinska tecken översätts till kyrilliska tecken.
 
 ### <a name="editing-existing-payment-profiles"></a>Redigera befintliga betalningsprofiler
 
@@ -131,14 +131,14 @@ Du kan redigera befintliga betalningsprofiler om du behöver göra ändringar el
 3. Dina betalningsprofiler visas tillsammans med deras status. Hitta den profil som du vill redigera och **välj Redigera** längst till höger
 
 > [!IMPORTANT]
-> Om du ändrar ditt utbetalningskonto kan du fördröja dina betalningar med upp till en betalningscykel. Den här fördröjningen beror på att vi behöver verifiera kontoändringen, precis som vi gjorde när du först konfigurerade utbetalningskontot. Du får fortfarande betalt för hela beloppet när ditt konto har verifierats. eventuella betalningar som förfaller för den aktuella betalningscykeln läggs till i nästa. Mer [information finns i Få betalt på den](marketplace-get-paid.md)kommersiella marknadsplatsen.
+> Om du ändrar ditt utbetalningskonto kan du fördröja dina betalningar med upp till en betalningscykel. Den här fördröjningen beror på att vi behöver verifiera kontoändringen, precis som vi gjorde när du först konfigurerade utbetalningskontot. Du får fortfarande betalt för hela beloppet när ditt konto har verifierats. alla betalningar som förfaller för den aktuella betalningscykeln läggs till i nästa. Mer [information finns i Få betalt på den](marketplace-get-paid.md)kommersiella marknadsplatsen.
 
 ### <a name="paypal-info"></a>PayPal-information
 
 I utvalda länder och regioner kan du skapa ett betalningskonto genom att ange din PayPal-information. Men innan du väljer PayPal som ett betalningsalternativ:
 
-- Kontrollera [Tröskelvärden, metoder och tidsramar för](payment-thresholds-methods-timeframes.md) betalning för att bekräfta om PayPal är en betalningsmetod som stöds i ditt land eller din region.
-- Läs följande vanliga frågor och svar. Beroende på din situation är PayPal kanske inte det bästa betalningskontoalternativet för dig, och ett bankkonto kan vara att föredra.
+- Kontrollera [tröskelvärden, metoder och tidsramar för](payment-thresholds-methods-timeframes.md) betalning för att bekräfta om PayPal är en betalningsmetod som stöds i ditt land eller din region.
+- Läs följande vanliga frågor och svar. Beroende på din situation kanske PayPal inte är det bästa betalningskontoalternativet för dig, och ett bankkonto kan vara att föredra.
 
 Vanliga frågor om att använda PayPal som betalningsmetod:
 
@@ -148,49 +148,49 @@ Vanliga frågor om att använda PayPal som betalningsmetod:
 
 - **Måste mitt PayPal-konto registreras i samma land/region som mitt Partnercenter-konto?** Nej. När du ställer in ett PayPal-konto kan du acceptera standardkonfigurationen. Du bör inte ha några problem med andra länder/regioner och valutor om du inte har blockerat betalningen i vissa valutor. Den här inställningen hanteras på payPals sida för betalningstagandeinställningar.
 
-- **Måste jag acceptera PayPal-betalningar manuellt?** Nej. PayPal-konton är som standard inställda på att kräva att användarna accepterar betalningar manuellt, vilket innebär att om du inte accepterar betalningen inom 30 dagar returneras den. Du kan ändra den här inställningen genom att stänga av "Fråga mig" på Sidan Fler inställningar i PayPal.
+- **Måste jag acceptera PayPal-betalningar manuellt?** Nej. PayPal-konton är som standard inställda på att kräva att användarna accepterar betalningar manuellt, vilket innebär att om du inte accepterar betalningen inom 30 dagar returneras den. Du kan ändra den här inställningen genom att stänga av "Fråga mig" på sidan Fler inställningar i PayPal.
 
 - **Vilka valutor stöder PayPal?** Se [PayPals supportsida för](https://developer.paypal.com/docs/classic/api/currency-codes/#paypal) den aktuella listan
 
 ### <a name="specific-requirements-for-certain-countriesregions"></a>Särskilda krav för vissa länder/regioner
 
-I vissa länder och regioner måste ytterligare krav för utbetalningskonton följas. Observera följande krav om du är hemmahörande i Kina, Ryssland eller På vilket sätt du vill.
+I vissa länder och regioner måste ytterligare krav för utbetalningskonton följas. Observera följande krav om du är hemmahörande i Gränsen, Ryssland eller På vilket sätt du vill.
 
 #### <a name="pakistan"></a>Pakistan
 
-Form-R är ett regelkrav för Bankväsende för Företag. Den används för att ange syfte och orsak till att ta emot pengar från skatteintäkter. När du är berättigad till en månatlig utbetalning från Microsoft måste du därför skicka ett Formulär-R till din bank innan utbetalningen kan släppas till ditt konto. Kontakta din lokala bankavdelning för instruktioner om hur du hämtar en kopia av Form-R.
+Form-R är ett regelkrav för Bankväsende. Den används för att ange syftet med och orsaken till att pengar har mottagits från mig. När du är berättigad till en månatlig utbetalning från Microsoft måste du därför skicka ett formulär R till din bank innan utbetalningen kan släppas på ditt konto. Kontakta din lokala bankavdelning för instruktioner om hur du hämtar en kopia av Form-R.
 
 Du måste skicka ett formulär-R till din bank varje månad som du är berättigad till en utbetalning. Om du till exempel förväntar dig att få en utbetalning varje månad på året måste du skicka en Form-R 12 gånger (en gång i månaden).
 
-När utbetalningen har skickats till din bank har du 30 dagar på dig att skicka ett Formulär-R. Om den inte skickas inom 30 dagar returneras medel till Microsoft.
+När utbetalningen har skickats till din bank har du 30 dagar på dig att skicka ett Formulär-R. Om det inte skickas inom 30 dagar returneras pengarna till Microsoft.
 
 #### <a name="russia"></a>Ryssland
 
-Om du är utgivare och bor i Ryssland kan du behöva uppge dokumentation till din bank innan din bank sätter in pengar på ditt konto. När du är berättigad till betalning ger vi dig följande dokumentation i ett e-postmeddelande:
+Om du är utgivare och bor i Ryssland kan du behöva tillhandahålla dokumentation till din bank innan din bank sätter in pengar på ditt konto. När du är berättigad till betalning ger vi dig följande dokumentation i ett e-postmeddelande:
 
 - Godkännandecertifikat (AC) – innehåller den mängd utbetalning som överförs till ditt konto.
-- [Microsoft Azure Marketplace Publisher Agreement](https://go.microsoft.com/fwlink/p/?LinkID=699560)  – en signerad kopia av utgivaravtalet som måste motskrivas.
+- [Microsoft Azure Marketplace utgivaravtal](/legal/marketplace/msft-publisher-agreement)  – en signerad kopia av utgivaravtalet som måste motskrivas.
 
-För att säkerställa att utbetalningen lyckas ser du till att:
+Se till att utbetalningen lyckas genom att se till att:
 
-- Namnet **på kontoinnehavaren** som anges för ditt utbetalningskonto i Partnercenter måste vara exakt samma namn som är associerat med ditt bankkonto. Om ditt bankkontonamn till exempel innehåller ett mellannamn lägger du till ett mellannamn i namnet **på kontoinnehavaren.**
-- Utbetalningar överförs direkt från Microsoft till ditt bankkonto i valutan Föra.
-- Bankinformation som anges i Partner Center med latinska tecken översätts till kyrilliska tecken.
-- Utbetalningar måste göras till ett bankkonto och inte till ett bankkort.
+- Namnet **på kontoinnehavaren** som angetts för ditt utbetalningskonto i Partnercenter måste vara exakt samma namn som är associerat med ditt bankkonto. Om ditt bankkontonamn till exempel innehåller ett mellannamn lägger du till ett mellannamn i namnet **på kontoinnehavaren.**
+- Utbetalningen överförs direkt från Microsoft till ditt bankkonto i valutautbetalningen Förutbetalning (EDS).
+- Bankinformation som anges i Partnercenter med latinska tecken översätts till kyrilliska tecken.
+- Utbetalning måste göras till ett bankkonto och inte till ett bankkort.
 
 #### <a name="ukraine"></a>Ukraina
 
-Om du är en utgivare som bor i Påse kan du behöva tillhandahålla dokumentation till din bank innan din bank sätter in pengar på ditt konto. När du är berättigad till betalning ger vi dig följande dokumentation i ett e-postmeddelande:
+Om du är utgivare och bor i Entens kan du behöva tillhandahålla dokumentation till din bank innan din bank sätter in pengar på ditt konto. När du är berättigad till betalning ger vi dig följande dokumentation i ett e-postmeddelande:
 
 - Godkännandecertifikat (AC) – innehåller den mängd utbetalning som överförs till ditt konto.
-- [Microsoft Azure Marketplace Publisher Agreement](https://go.microsoft.com/fwlink/p/?LinkID=699560) – en signerad kopia av utgivaravtalet som måste motskrivas.
+- [Microsoft Azure Marketplace utgivaravtal](/legal/marketplace/msft-publisher-agreement) – en signerad kopia av utgivaravtalet som måste motskrivas.
 - Ändringsavtal (AA) – det här dokumentet kan användas av din bank för att identifiera dina utbetalningsmedel.
 
-Microsoft tillhandahåller alla tre dokumenten när din första utbetalningsförsök görs. För efterföljande utbetalningar får du bara AC-dokumentet. Behåll ADA- och AA-dokumenten om du behöver dem för att få framtida utbetalning från din bank.
+Microsoft tillhandahåller alla tre dokumenten när din första utbetalningsförsök görs. För efterföljande utbetalningar får du endast AC-dokumentet. Behåll ADA- och AA-dokumenten om du behöver dem för att få framtida utbetalning från din bank.
 
 ### <a name="create-a-paypal-payment-profile"></a>Skapa en PayPal-betalningsprofil
 
-Om du valde att använda ett bankkonto för att ta emot utbetalning slutför du följande process för att konfigurera ditt bankkonto.
+Om du valde att använda ett bankkonto för att få utbetalning slutför du följande process för att konfigurera ditt bankkonto.
 
 1. På *PayPal-sidan* anger du nödvändig information om ditt PayPal-konto.
 2. Ange din PayPal-kontoinformation.
@@ -199,7 +199,7 @@ Om du valde att använda ett bankkonto för att ta emot utbetalning slutför du 
     > De fält som du använder för att ange din kontoinformation accepterar endast alfanumeriska tecken.
 
 3. Ange detaljerad information.
-4. På sidan *Profiltilldelning väljer* du den valuta som du vill att vi ska använda när vi utfärdar dina utbetalningsbetalningar.
+4. När du är *tillbaka på sidan* Profiltilldelning väljer du den valuta som du vill att vi ska använda när vi utfärdar dina utbetalningar.
 5. Du måste välja en betalningsprofil för varje program som du deltar i, men du kan använda samma profil för flera program.
 6. Välj Skicka för att spara ändringarna.
 

@@ -1,6 +1,6 @@
 ---
 title: Hitta den roll som du har tilldelats
-description: Lär dig var du ska gå till Partner Center för att hitta den roll som du har tilldelats, dina behörigheter och din globala administratör.
+description: Lär dig vart du går i Partnercenter för att hitta den roll som du har tilldelats, dina behörigheter och din globala administratör.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,49 +9,47 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: 7f6cdab138e2213848acb36a66cb48d2dcee1ea6
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 10cb5971584378691e9cbe50029926944e023b51
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492525"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150836"
 ---
 # <a name="find-your-role-your-permissions-and-your-global-admin"></a>Hitta din roll, dina behörigheter och din globala administratör
 
 
-**Lämpliga roller**
-
-- Alla partner Center-användare
+**Lämpliga roller:** Alla Partner Center-användare
 
 ## <a name="find-the-role-youve-been-assigned"></a>Hitta den roll som du har tilldelats
 
-Om din globala administratör inte har fått något meddelande, kan du ta reda på vilken roll du har i Partner Center genom att göra följande:
+Om din globala administratör inte har sagt något kan du ta reda på vilken roll du har i Partnercenter genom att göra följande:
 
-1. Logga in på [instrument panelen](https://partner.microsoft.com/dashboard/home)för partner Center.
+1. Logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard/home)
 
-1. Välj ikonen **konto inställningar** och välj sedan **min profil**.
+1. Välj ikonen **Kontoinställningar** och välj sedan **Min profil**.
  
-1. Välj fliken **roller och behörigheter** . Du kommer att se dina roller och behörigheter.
+1. Välj **fliken Roller och** behörigheter. Du ser dina roller och behörigheter.
  
 >[!Note]
->Om du inte ser ett program när du loggar in, betyder det vanligt vis att du inte har rätt behörighet för att arbeta i det programmet. Om du till exempel inte ser sidan incitament när du loggar in, har du inte incitaments behörighet. Din globala administratör kan ge dig nödvändiga behörigheter.
+>Om du inte ser något program när du loggar in innebär det vanligtvis att du inte har rätt behörighet att arbeta i programmet. Om du till exempel inte ser sidan Incitament när du loggar in har du inte incitamentsbehörigheter. Din globala administratör kan ge dig nödvändiga behörigheter.
 
 ## <a name="find-your-global-admin"></a>Hitta din globala administratör
 
-Ibland kan en användare behöva ändra sin roll eller en ny användare kan vilja ha en speciell roll tilldelning.
+Ibland kan en användare behöva ändra sin roll eller så kanske en ny användare vill ha en viss rolltilldelning.
 
-Så här söker du efter en global administratör som kan göra roll ändringar eller tilldela roller till en ny användare: 
+Så här hittar du en global administratör som kan göra rolländringar eller tilldela roller till en ny användare: 
 
-1. Välj **användar hantering** på **ikonen konto inställningar** längst upp till höger i Partner Center.
+1. Från ikonen **Kontoinställningar** längst upp till höger i Partnercenter väljer du **Användarhantering.**
 
 1. Filtrera på global administratör
 
-1. Du kan också gå till **min profil**, välja **roller och behörigheter** och se en lista över de olika administratörer som kan hjälpa dig att öka dina behörigheter. 
+1. Du kan också gå **till Min profil,** välja **Roller** och behörigheter och se en lista över de olika administratörer som kan hjälpa dig att höja dina behörigheter. 
 
 
-## <a name="get-a-new-global-admin-assigned-to-your-company"></a>Skaffa en ny global administratör som har tilldelats ditt företag
+## <a name="get-a-new-global-admin-assigned-to-your-company"></a>Få en ny global administratör tilldelad till ditt företag
 
-Om din globala administratör lämnar företaget måste någon annan behöva fylla i den här rollen. Skicka in en biljett till antingen Azure-eller Office 365-teamet. Om du vill ha mer information om hur du gör detta väljer du något av alternativen nedan.
+Om din globala administratör lämnar företaget måste någon annan fylla den här rollen. Skicka ett ärende till antingen Azure- eller Office 365-teamet. Om du vill ha information om hur du gör detta väljer du något av alternativen nedan.
 
 [Ny global administratör för Azure](https://support.microsoft.com/help/4505981/what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company)
 

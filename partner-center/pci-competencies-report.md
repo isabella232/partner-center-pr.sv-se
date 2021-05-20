@@ -1,96 +1,91 @@
 ---
-title: Kompetens rapport för partner Center Insights
+title: Rapport om partnercenterinsikter
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Se vad du gör bra och var du kan förbättra Microsoft-kompetenser, kompetens nivåer och erbjudanden som hjälper dig att leverera Microsoft-lösningar.
+description: Se vad du gör bra och var du kan förbättra microsofts kompetenser, kompetensnivåer och erbjudanden som hjälper dig att leverera Microsoft-lösningar.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 292b5535bdcc40164e738ec967a689c51f6d8f47
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 2053c4b0a31232a6e2e9182a11fad2e2048d96f1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086268"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152893"
 ---
-# <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Kompetens rapport som är tillgänglig från Partner Center Insights-instrumentpanelen
+# <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Kompetensrapport som är tillgänglig från instrumentpanelen i PartnerCenter Insights
 
-**Lämpliga roller**
+**Lämpliga roller:** Global | Administratörsagent | Rapportvisningsprogram | Rapportvisningsprogram för chefer
 
-- Global administratör
-- Administratörs agent
-- Rapport visnings program
-- Rapport visnings program för chefer
+Kompetenser gör det möjligt för ditt företag att demonstrera din tekniska förmåga att leverera Microsoft-lösningar. Microsofts kompetenser är utformade för att uppfylla dina kunders behov och visa upp din expertis för potentiella kunder. De har en mängd fördelar från Microsoft, till exempel det inkluderade antalet Azure-förbrukning, rättigheter för molnprodukter som Office 365, teknisk support, Go-to-Market-erbjudanden med mera. Det finns i dag totalt 19 kompetenser i följande kategorier: **App** och Infrastruktur, **Företagsprogram,** **Data och AI** och Modern **arbetsplats.** Kompetenser är till exempel nivåindelade i silver- eller guldnivåer. Det finns en högre stapel för guldkompetens och en associerad högre nivå av marknadsföringsresurser, erbjudanden och program tillgängliga.  
 
-Med kompetenser kan ditt företag demonstrera din tekniska kapacitet för att leverera Microsoft-lösningar. Microsoft-kompetenser är utformade för att uppfylla kundernas behov och demonstrera dina kunskaper till potentiella kunder. De har en hel del fördelar från Microsoft, till exempel inkluderade kvantiteter av Azure-förbrukning, rättigheter för moln produkter som Office 365, teknisk support, go-to-Marketing-erbjudanden och andra. Det finns totalt 19 kompetenser i dag i följande kategorier: **app och infrastruktur**, **affärs program**, **data och AI** och **modern arbets plats**. Kompetenser är i nivå av silver-eller guld nivåer, till exempel. Det finns en högre stapel för guld kompetens och en associerad högre nivå av marknadsförings resurser, erbjudanden och program som är tillgängliga.  
+Du får mer användning av kompetensrapporten om du lär dig mer om kompetenslivscykeln, kompetensen och annan kompetensrapportinformation.
 
-Du får mer nytta av kompetens rapporten om du lär dig mer om kompetens livs cykeln, kompetens uppnående och andra kompetens rapport uppgifter.
+## <a name="competency-life-cycle"></a>Kompetenslivscykel
 
-## <a name="competency-life-cycle"></a>Livs cykel för kompetens
+Ur livscykelsynpunkt börjar partner med att bygga vidare på de nyckeltal (KPI:er) som krävs för att uppnå specifika kompetenser. När de når tröskelvärdet för en viss kompetens för alla nödvändiga mått blir de **kvalificerade** för en kompetens. Partner kan sedan betala för kompetenserbjudandet (silver eller guld) för att uppnå kompetensen och bli **aktiva** inom den kompetensen. Aktiv **kompetensstatus** är giltig i ett år från kompetensens giltighetsdatum (detta  kallas årsdagen för kompetensen). I slutet av årsdagen måste partner uppfylla kompetenskraven. Om de inte uppfyller dessa krav igen förlorar de kompetensen. Statusen **Risk för** en tidigare uppnått kompetens innebär att vissa nyckelmått beräknas hamna under tröskelvärdet vid **kompetensdatumet.**
 
-Från livs cykel synpunkt börjar partners genom att bygga på KPI: er (Key Performance Indicators) som krävs för att uppnå vissa kompetenser. När de har nått tröskelvärdet för en bestämd kompetens i alla nödvändiga mått, blir de **kvalificerade** för en kompetens. Partner kan sedan betala för kompetens erbjudandet (silver eller guld) för att nå kompetensen och bli **aktiv** i kompetensen. Kompetensens **aktiva** status är giltig i ett år från dagen för uppnående av kompetensen (Detta kallas för kompetensens **jubileums datum** ). I slutet av jubileums året måste partner uppfylla kompetens kraven. Om de inte uppfyller dessa krav igen förlorar de kompetensen. En **risk** status för en tidigare erhållen kompetens innebär att vissa nyckel värden projiceras för att falla under tröskelvärdet vid **förfallo datum** för kompetensen.
+## <a name="competency-attainment"></a>Kompetensutbildning
 
-## <a name="competency-attainment"></a>Kompetens uppnående
+Varje kompetens har en specifik uppsättning krav som ska uppfyllas. Kraven på molnkompetens är indela i två kategorier: färdigheter och prestanda.
 
-Varje kompetens har en speciell uppsättning krav för att uppfylla. Krav för moln kompetenser i två kategorier: kunskaper och prestanda.
+- Färdigheter: Kraven omfattar ofta prov, utvärderingar eller certifieringar som personer i företaget måste klara.
 
-- Kunskaper: krav omfattar ofta examina, utvärderingar eller certifieringar som personer inom företaget måste klara.
+- Prestanda: För att vara berättigat till en kompetens måste företaget uppfylla vissa tröskelvärden för prestanda som är justerade mot kompetensområdet. Ditt företag kan till exempel behöva uppfylla en minsta mängd Azure-förbrukning under de avslutande 12 månaderna.
 
-- Prestanda: företaget måste uppfylla vissa prestanda tröskelvärden som är justerade för kompetens områden för att vara berättigade till en kompetens. Företaget kan till exempel behöva uppfylla en minimal mängd Azure-förbrukning under de efterföljande 12 månaderna.
+## <a name="competencies-report-details"></a>Information om kompetenser
 
-## <a name="competencies-report-details"></a>Information om kompetens rapport
-
-Du kan se följande avsnitt från rapporten kompetenser:
+Du kan se följande avsnitt i rapporten Kompetenser:
 
 - Sammanfattning
-- Analys av kompetens mått
-- Kompetens historik
+- Analys av kompetensmått
+- Kompetenshistorik
 
  > [!NOTE]
- > Den här rapporten är tillgänglig från insikts instrument panelen. Om du vill visa den här rapporten måste du ha tilldelats en speciell roll i Partner Center, till exempel global administratör, konto administratör, rapport visnings program eller Executive Report Viewer. Mer information finns i företagets globala administratör. vissa typer av data i den här rapporten kan också endast vara tillgängliga för användare med behörigheten Executive Report Viewer.
+ > Den här rapporten är tillgänglig från Insights-instrumentpanelen. Om du vill visa den här rapporten måste du ha tilldelats en viss roll i Partnercenter, till exempel Global administratör, Kontoadministratör, Rapportvisare eller Rapportvisningsprogram. Mer information finns i företagets globala administratör. Specifika typer av data i den här rapporten kan också vara tillgängliga endast för användare med privilegier för visningsprogrammet för verkställande rapporter.
 
 ### <a name="summary"></a>Sammanfattning
 
-I sammanfattningsvyn presenteras ett antal kompetenser med sina namn på varje kompetens nivå (guld/silver) i alla faser i kompetens livs cykeln. Stadierna i kompetens livs cykeln är: **startade**, **kvalificerade**, **aktiva** och **på risk**. Exempel: krav på moln kompetens under två kategorier: kunskaper och prestanda.
+I vyn Sammanfattning visas antalet kompetenser med deras namn på varje kompetensnivå (Guld/Silver) för alla faser i kompetenslivscykeln. Faser i kompetensens livscykel är: **Startad**, **kvalificerad,** **aktiv** och **i riskzonen.** Exempel: Kraven på molnkompetens finns i två kategorier: färdigheter och prestanda.
 
-- Startade: antal kompetenser för vilka du har ett eller flera av de underliggande kraven som pågår.
-Nedbrytning av antal startade kompetenser efter kompetens nivå (silver/guld) med kompetens namn.
+- Startad: Antal kompetenser för vilka du har ett eller flera av de underliggande kraven som pågår.
+Uppdelning av antalet startade kompetenser efter kompetensnivå (Silver/Guld) med kompetensnamn.
 
-- Kvalificerad: kompetenser som du har uppfyllt kraven för, men som kanske ännu inte har köpt det tillhör ande silver/guld-erbjudandet. Uppdelning av kvalificerade kompetenser efter kompetens nivå (silver/guld) med kompetens namn.
+- Kvalificerad: Kompetenser som du har uppfyllt kraven för, men som kanske ännu inte har köpt det associerade Silver/Guld-erbjudandet. Uppdelning av antalet kvalificerade kompetenser efter kompetensnivå (Silver/Guld) med kompetensnamn.
 
-- Active: kompetenser för vilka du har uppfyllt kraven och köpt ett silver/guld-erbjudande. Nedbrytning av antal aktiva kompetenser efter kompetens nivå (silver/guld) med kompetens namn.
+- Aktiv: Kompetenser som du har uppfyllt kraven för och köpt ett Silver-/Guld-erbjudande. Uppdelning av antalet aktiva kompetenser efter kompetensnivå (Silver/Guld) med kompetensnamn.
 
-- I risk (nästa år): antal kompetenser som för närvarande är **aktiva** men som **är utsatta för att inte** uppfylla kraven för nästa år.
-Nedbrytning av kompetenser (efter kompetens nivå, till exempel silver/guld, med kompetens namn) som riskerar att inte kvalificera sig för nästa år.
+- Risk (nästa år): Antal kompetenser som för närvarande är **aktiva** men som också **riskerar** att inte uppfylla kraven för nästa år.
+Uppdelning av kompetenser (efter kompetensnivå, till exempel Silver/Guld, med kompetensnamn) som riskerar att inte kvalificera sig för nästa år.
 
-:::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="kompetens Sammanfattning":::
+:::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="sammanfattning av kompetenser":::
 
-### <a name="competency-metric-analysis"></a>Analys av kompetens mått
+### <a name="competency-metric-analysis"></a>Kompetensmåttanalys
 
-I den här vyn visas status för kompetens mått mot tröskelvärden som krävs för partner för att uppnå/behålla kompetensen på silver-/guld nivå. 
+Den här vyn visar status för kompetensmått mot de tröskelvärden som krävs för att partner ska uppnå/behålla kompetensen på silver-/guldnivå. 
 
-Rapporten kan pivoteras med följande två datum intervall:
+Rapporten kan pivoteras med följande två datumintervall:
 
-1. TTM vy: detta räknar upp partner prestanda under de senaste 12 månaderna (TTM).
-2. Års vy för jubileum: detta räknar upp partner prestanda från föregående jubileums datum till nästa jubileums datum.
+1. TTM-vy: Räknar upp partnerprestanda under de senaste 12 månaderna (TTM).
+2. Anniversary Year-vy: Här räknas partnerprestandan upp från föregående årsdag till nästa årsdag.
 
-:::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="analys av kompetens mått":::
+:::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="kompetensmåttanalys":::
 
 > [!NOTE]
- > Alla mått behandlas inte i analysen. För närvarande stöds inte mått som är kopplade till inlärning och certifiering i kompetens rapporten. CBA-kompetenser (Cloud Business Applications) stöds inte heller för närvarande i mått analysen för den **aktiva** kompetens statusen.
+ > Alla mått tas inte upp i analysen. För närvarande stöds inte mått som är associerade med inlärning och certifiering i rapporten Kompetenser. Cloud Business Applications (CBA)-kompetenser stöds inte heller för närvarande i måttanalysen **för aktiv** kompetensstatus.
 
-### <a name="competency-history"></a>Kompetens historik
+### <a name="competency-history"></a>Kompetenshistorik
 
-I den här vyn visas en detaljerad tabell över alla kompetenser som du har uppnått hittills, med kompetens nivå och kompetens steg.
+Den här vyn visar en detaljerad tabell över alla kompetenser som du har uppnått hittills, med kompetensnivå och kompetensfas.
 
-:::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="kompetens historik":::
+:::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="kompetenshistorik":::
 
 ## <a name="next-steps"></a>Nästa steg
 
-- Mer information finns i [partner Center Insights](partner-center-insights.md).
+- Fler rapporter finns i [Partner Center Insights.](partner-center-insights.md)
 
 >[!NOTE] 
-> Du kan ladda ned rå data från den här rapporten från avsnittet hämta rapporter på instrument panelen insikter. [Läs mer](pci-download-reports.md) 
+> Du kan ladda ned rådata som driver den här rapporten från avsnittet Ladda ned rapporter på Insights-instrumentpanelen. [Läs mer](pci-download-reports.md) 

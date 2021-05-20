@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: c700176ced0710f621dbdfab65513767976aff3d
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 46c2371e3a95b8840f14ebc5063d90bd5926fb8f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818617"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110153063"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Verifiera eller uppdatera företagets profilinformation 
 
@@ -70,7 +70,7 @@ MPN|Global administratör; Kontoadministratör|Auktoriserad; väntande; Avvisade
 
 ## <a name="update-your-mpn-global-business-account"></a>Uppdatera ditt globala MPN-företagskonto
 
-Om fel affärskonto identifierades som det juridiska företaget under migreringen från Partner Membership Center till PartnerCenter kan du ändra det till rätt juridiskt affärskonto.
+Om fel affärskonto identifierades som det juridiska företaget under migreringen från Partner Membership Center till Partnercenter kan du ändra det till rätt juridiskt affärskonto.
 
 Om du vill göra de här uppdateringarna måste du vara antingen global administratör eller kontoadministratör. Lär dig hur du [hanterar dina globala MPN-platskonton](manage-locations.md)
 
@@ -98,9 +98,8 @@ Om du är global administratör, faktureringsadministratör eller administratör
 |Faktureringsadress|Faktureringsadressen som visas på CSP-fakturan. Uppdatera från [Faktureringsprofil](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
 |Faktureringskontakt|Faktureringskontaktinformationen (förnamn, efternamn, primärt nummer) för CSP-kontot.  Uppdatera från [Faktureringsprofil](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
 |IO-nummer|Inköpsordernumret som visas på partnerfakturan.  Uppdatera från [Faktureringsprofil](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
-|Företagets skatte-ID|Företag i vissa länder kan ange [sitt momsregistreringsnummer eller lokal motsvarighet.](https://docs.microsoft.com/partner-center/organization-tax-info#submit-vat-id-number) Om du vill uppdatera ditt momsregistreringsnummer måste du vara global administratör, faktureringsadministratör eller administratörsagent.|
+|Företagets skatte-ID|Företag i vissa länder kan ange [sitt momsregistreringsnummer (VAT) eller lokal motsvarande](./organization-tax-info.md). Om du vill uppdatera ditt momsregistreringsnummer måste du vara global administratör, faktureringsadministratör eller administratörsagent.|
 |Faktureringsvaluta|Faktureringsvalutan för ditt CSP-konto bestäms av det juridiska landet för CSP-kontot.  Detta kan inte ändras när CSP-kontot har skapats.|
-
 
 ## <a name="next-steps"></a>Nästa steg
 

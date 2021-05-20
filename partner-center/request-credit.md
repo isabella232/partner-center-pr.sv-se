@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 74dd5c2c9457961f07dd0dd8d5a6ead9047c5579
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 100a3d2988c19d57f7426c7212b7464d8e96dc94
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855564"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152961"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Hur och när du ska begära en SLA-kredit (serviceavtal) från Microsoft
 
@@ -34,7 +34,7 @@ SLA-krediter från Microsoft bestäms baserat på vilka tjänster som har påver
 *CSP Molnlösningsleverantör partnern (CSP) måste skicka anspråket och all nödvändig information i slutet av kalendermånaden efter den månad då incidenten inträffade.* Om incidenten till exempel inträffade den 15 februari måste Microsoft ta emot anspråket och all nödvändig information senast den 31 mars. Slutanvändare och indirekta återförsäljare kan inte skicka anspråk på SLA-kredit; antingen den indirekta leverantören eller partnern med direktfakturering måste skicka anspråk för sin räkning.
 
 >[!NOTE]
->[Rådgivningsincidenter (Så här kontrollerar Microsoft 365 servicehälsa)](https://docs.microsoft.com/microsoft-365/enterprise/view-service-health?&preserve-view=trueo365-worldwide#incidents-and-advisories)är inte berättigade till SLA-krediter.
+>[Rådgivningsincidenter (Så här kontrollerar Microsoft 365 servicehälsa)](/microsoft-365/enterprise/view-service-health#incidents-and-advisories)är inte berättigade till SLA-krediter.
 
 ### <a name="required-information"></a>Nödvändig information
 
@@ -71,17 +71,17 @@ Du hittar identifieraren för avbrottsincidenten på **Service Health** i Admini
 | Ya | Yammer Enterprise |
 | MO | Portalfel |
 
-### <a name="submit-sla-credit-request"></a>Skicka en begäran om SLA-kredit
+### <a name="submit-sla-credit-request"></a>Skicka en SLA-kreditbegäran
 
 Så här skickar du din SLA-kreditbegäran till Microsoft via instrumentpanelen i Partnercenter:
 
 1. Logga in på instrumentpanelen i Partnercenter.
 2. I den vänstra menyn väljer du **Tjänstförfrågningar och** sedan **Partnersupportbegäranden.**
 3. På sidan **Partnerbegäran** väljer du **Ny begäran.**
-4. På sidan **Starta begäran hittar** du avsnittet **CSP – kunder, beställningar och prenumerationer**. I det här avsnittet väljer **du Välj en problemtyp** och sedan Customer services credit requests (Kreditförfrågningar **för kundtjänster).**
+4. På sidan **Starta begäran hittar** du avsnittet **CSP – kunder, beställningar och prenumerationer**. I det här avsnittet väljer **du Välj en typ av problem** och sedan **Kreditförfrågningar för kundtjänster.**
 5. På sidan **Rekommenderade lösningar,** under **Behöver du mer hjälp?** väljer du **Ja.**
-6. På sidan **Information** fyller du i **avsnittet Probleminformation.** I **textrutan** Information måste du ange den information som [du](#required-information) samlade in tidigare.
-7. Välj **Skicka** för att skicka i din SLA-kreditbegäran.
+6. På sidan **Information** fyller du i **avsnittet Probleminformation.** I **textrutan** Information måste du ange den information som [du samlade](#required-information) in tidigare.
+7. Välj **Skicka** för att skicka i din SLA-kreditförfrågan.
 
 ## <a name="next-steps"></a>Nästa steg
 

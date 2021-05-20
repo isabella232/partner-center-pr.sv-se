@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 15203b24188bd8303f61f362ff5f0f901714a813
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: c3467ec4cf056d04392d3cbe9a61c66a80fc9bdb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855785"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110153012"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Molnlösningsleverantör program regionala marknader och valutor där du kan sälja CSP-erbjudanden
 
@@ -31,7 +31,7 @@ Innan du kan beställa CSP-erbjudanden för en kunds räkning måste kunden sign
 Azure-planen för CSP är tillgänglig i färre regioner än Azure Software for CSP. De senaste uppdateringarna för regional tillgänglighet för Azure-planen finns i [Köpa Azure-planen.](purchase-azure-plan.md)
 
 >[!IMPORTANT]
-> Du måste bekräfta att en kund har godkänt Microsoft-kundavtal genom att ange information om den person som signerade den. Se [Bekräfta en kunds godkännande av Microsoft-kundavtal](confirm-consent.md) mer information.
+> Du måste bekräfta att en kund har godkänt Microsoft-kundavtal genom att ange information om den person som signerade den. Se [Bekräfta en kunds godkännande av Microsoft-kundavtal](./confirm-customer-agreement.md) mer information.
 
 För att avgöra var du kan sälja CSP-erbjudanden hittar du företagets plats i någon av listorna nedan. Du måste ha ett aktivt Microsoft Partner Network-ID (MPN) för den plats där du vill sälja.  
 
@@ -127,7 +127,7 @@ Om ditt företags plats finns i listan nedan kan du sälja CSP-erbjudanden till 
 
 ## <a name="australia-region-and-market"></a>Australien, region och marknad
 
-Om ditt företags plats finns i listan nedan kan du sälja CSP-erbjudanden till kunder på alla platser i listan.
+Om företagets plats finns i listan nedan kan du sälja CSP-erbjudanden till kunder på alla platser i listan.
 
 |  Land/region        | Valuta |
 |  --------------        |:--------:|
