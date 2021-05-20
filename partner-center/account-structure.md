@@ -9,41 +9,38 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a32dba704482dad34b689b21da9e41de74a6e051
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: fb2488f9a82e261997703c22bca7c3cd9e761db0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284170"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150666"
 ---
-# <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a><span data-ttu-id="9f078-103">Partnercenter har två kontonivåer för MPN-partner</span><span class="sxs-lookup"><span data-stu-id="9f078-103">Partner Center has two levels of accounts for MPN partners</span></span>
+# <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a><span data-ttu-id="a7fc0-103">Partnercenter har två kontonivåer för MPN-partner</span><span class="sxs-lookup"><span data-stu-id="a7fc0-103">Partner Center has two levels of accounts for MPN partners</span></span>
 
-<span data-ttu-id="9f078-104">**Lämpliga roller**</span><span class="sxs-lookup"><span data-stu-id="9f078-104">**Appropriate roles**</span></span>
+<span data-ttu-id="a7fc0-104">**Lämpliga roller:** Kontoadministratörsroller | Global administratör</span><span class="sxs-lookup"><span data-stu-id="a7fc0-104">**Appropriate roles**: Account admin | Global admin</span></span>
 
-- <span data-ttu-id="9f078-105">Kontoadministratör</span><span class="sxs-lookup"><span data-stu-id="9f078-105">Account admin</span></span>
-- <span data-ttu-id="9f078-106">Global administratör</span><span class="sxs-lookup"><span data-stu-id="9f078-106">Global admin</span></span>
+<span data-ttu-id="a7fc0-105">Ditt företag har två kontonivåer i Partnercenter.</span><span class="sxs-lookup"><span data-stu-id="a7fc0-105">Your company has two levels of accounts in Partner Center.</span></span>
 
-<span data-ttu-id="9f078-107">Ditt företag har två kontonivåer i Partnercenter.</span><span class="sxs-lookup"><span data-stu-id="9f078-107">Your company has two levels of accounts in Partner Center.</span></span>
+## <a name="the-top-level-account-is-the-partner-global-account-pga"></a><span data-ttu-id="a7fc0-106">Kontot på den översta nivån är partnerns globala konto (PGA)</span><span class="sxs-lookup"><span data-stu-id="a7fc0-106">The top-level account is the Partner global account (PGA)</span></span>
 
-## <a name="the-top-level-account-is-the-partner-global-account-pga"></a><span data-ttu-id="9f078-108">Kontot på den översta nivån är partnerns globala konto (PGA)</span><span class="sxs-lookup"><span data-stu-id="9f078-108">The top-level account is the Partner global account (PGA)</span></span>
+- <span data-ttu-id="a7fc0-107">Det globala partnerkontot innehåller den juridiska företagsadressen och den primära kontakten för ditt företag.</span><span class="sxs-lookup"><span data-stu-id="a7fc0-107">The Partner global account contains the legal business address and the primary contact for your company.</span></span> 
+- <span data-ttu-id="a7fc0-108">Visa information om ditt globala partnerkonto från **Inställningar**  >  **Organisationsprofil Juridisk**  >  **profil**.</span><span class="sxs-lookup"><span data-stu-id="a7fc0-108">View the details of your Partner global account from **Settings** > **Organization profile** > **Legal profile**.</span></span>
+- <span data-ttu-id="a7fc0-109">Informationen innehåller även MPN-ID:t för partnerns globala konto.</span><span class="sxs-lookup"><span data-stu-id="a7fc0-109">The details will also contain the Partner global account MPN ID.</span></span> 
+- <span data-ttu-id="a7fc0-110">PGA är överordnad till ditt företag och används inte för att associera för incitamentsprogram eller Molnlösningsleverantör.</span><span class="sxs-lookup"><span data-stu-id="a7fc0-110">The PGA is the parent of your company and is not used to associate for Incentives programs or Cloud Solution Provider.</span></span> 
+- <span data-ttu-id="a7fc0-111">Platser bör användas för sådana associationer.</span><span class="sxs-lookup"><span data-stu-id="a7fc0-111">Locations should be used for such associations.</span></span>
 
-- <span data-ttu-id="9f078-109">Det globala partnerkontot innehåller den juridiska företagsadressen och den primära kontakten för ditt företag.</span><span class="sxs-lookup"><span data-stu-id="9f078-109">The Partner global account contains the legal business address and the primary contact for your company.</span></span> 
-- <span data-ttu-id="9f078-110">Visa information om ditt globala partnerkonto från **Inställningar**  >  **Organisationsprofil Juridisk**  >  **profil**.</span><span class="sxs-lookup"><span data-stu-id="9f078-110">View the details of your Partner global account from **Settings** > **Organization profile** > **Legal profile**.</span></span>
-- <span data-ttu-id="9f078-111">Informationen innehåller även MPN-ID:t för partnerns globala konto.</span><span class="sxs-lookup"><span data-stu-id="9f078-111">The details will also contain the Partner global account MPN ID.</span></span> 
-- <span data-ttu-id="9f078-112">PGA är överordnad till ditt företag och används inte för att associera för incitamentsprogram eller Molnlösningsleverantör.</span><span class="sxs-lookup"><span data-stu-id="9f078-112">The PGA is the parent of your company and is not used to associate for Incentives programs or Cloud Solution Provider.</span></span> 
-- <span data-ttu-id="9f078-113">Platser bör användas för sådana associationer.</span><span class="sxs-lookup"><span data-stu-id="9f078-113">Locations should be used for such associations.</span></span>
+## <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a><span data-ttu-id="a7fc0-112">Det andra nivåkontot är platskontot med namnet Partnerplatskonto (PLA)</span><span class="sxs-lookup"><span data-stu-id="a7fc0-112">The second-level account is the location account called Partner Location Account (PLA)</span></span>
 
-## <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a><span data-ttu-id="9f078-114">Det andra nivåkontot är platskontot med namnet Partnerplatskonto (PLA)</span><span class="sxs-lookup"><span data-stu-id="9f078-114">The second-level account is the location account called Partner Location Account (PLA)</span></span>
+<span data-ttu-id="a7fc0-113">Din PGA kan ha extra företagsplatser under sig.</span><span class="sxs-lookup"><span data-stu-id="a7fc0-113">Your PGA may have extra business locations under it.</span></span> <span data-ttu-id="a7fc0-114">Varje plats har sitt eget MPN-ID eller partnerplatskonto (PLA).</span><span class="sxs-lookup"><span data-stu-id="a7fc0-114">Each location has its own MPN ID or Partner Location Account (PLA).</span></span> <span data-ttu-id="a7fc0-115">Du använder platsens MPN-ID för transaktionell verksamhet och registrering i incitamentprogram.</span><span class="sxs-lookup"><span data-stu-id="a7fc0-115">You use the location MPN ID for transactional business and enrollment in incentive programs.</span></span>
 
-<span data-ttu-id="9f078-115">Din PGA kan ha extra företagsplatser under sig.</span><span class="sxs-lookup"><span data-stu-id="9f078-115">Your PGA may have extra business locations under it.</span></span> <span data-ttu-id="9f078-116">Varje plats har sitt eget MPN-ID eller partnerplatskonto (PLA).</span><span class="sxs-lookup"><span data-stu-id="9f078-116">Each location has its own MPN ID or Partner Location Account (PLA).</span></span> <span data-ttu-id="9f078-117">Du använder platsens MPN-ID för transaktionell verksamhet och registrering i incitamentprogram.</span><span class="sxs-lookup"><span data-stu-id="9f078-117">You use the location MPN ID for transactional business and enrollment in incentive programs.</span></span>
-
-- <span data-ttu-id="9f078-118">Varje partnerplatskonto kan ha sin egen juridiska adress och primära kontakt.</span><span class="sxs-lookup"><span data-stu-id="9f078-118">Each Partner Location Account can have its own legal address and primary contact.</span></span> <span data-ttu-id="9f078-119">Platser kan också dela den juridiska adressen med det globala kontot eller med andra platser.</span><span class="sxs-lookup"><span data-stu-id="9f078-119">Locations can also share the legal address with the global account or with other locations.</span></span>
-- <span data-ttu-id="9f078-120">Visa listan över partnerplatskonton från   ->  **Inställningsplatser**.</span><span class="sxs-lookup"><span data-stu-id="9f078-120">View the list of Partner Location Accounts from **Settings** -> **Locations**.</span></span>
-- <span data-ttu-id="9f078-121">Alla platskonton finns på samma nivå och under det globala partnerkontot.</span><span class="sxs-lookup"><span data-stu-id="9f078-121">All location accounts are at the same level and under the Partner global account.</span></span>
-- <span data-ttu-id="9f078-122">Kontoadministratörer kan lägga till platser.</span><span class="sxs-lookup"><span data-stu-id="9f078-122">Account admins can add locations.</span></span>
+- <span data-ttu-id="a7fc0-116">Varje partnerplatskonto kan ha sin egen juridiska adress och primära kontakt.</span><span class="sxs-lookup"><span data-stu-id="a7fc0-116">Each Partner Location Account can have its own legal address and primary contact.</span></span> <span data-ttu-id="a7fc0-117">Platser kan också dela den juridiska adressen med det globala kontot eller med andra platser.</span><span class="sxs-lookup"><span data-stu-id="a7fc0-117">Locations can also share the legal address with the global account or with other locations.</span></span>
+- <span data-ttu-id="a7fc0-118">Visa listan över partnerplatskonton från   ->  **Inställningsplatser**.</span><span class="sxs-lookup"><span data-stu-id="a7fc0-118">View the list of Partner Location Accounts from **Settings** -> **Locations**.</span></span>
+- <span data-ttu-id="a7fc0-119">Alla platskonton finns på samma nivå och under det globala partnerkontot.</span><span class="sxs-lookup"><span data-stu-id="a7fc0-119">All location accounts are at the same level and under the Partner global account.</span></span>
+- <span data-ttu-id="a7fc0-120">Kontoadministratörer kan lägga till platser.</span><span class="sxs-lookup"><span data-stu-id="a7fc0-120">Account admins can add locations.</span></span>
 
 :::image type="content" source="images/accountstructure.png" alt-text="Kontostruktur" border="false":::
 
-## <a name="next-steps"></a><span data-ttu-id="9f078-124">Nästa steg</span><span class="sxs-lookup"><span data-stu-id="9f078-124">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="a7fc0-122">Nästa steg</span><span class="sxs-lookup"><span data-stu-id="a7fc0-122">Next steps</span></span>
 
-- <span data-ttu-id="9f078-125">Mer information om hur du hanterar platser finns [i Hantera ditt partnerkonto: Platser.](manage-locations.md)</span><span class="sxs-lookup"><span data-stu-id="9f078-125">For more information on managing locations, read [Manage your partner account: Locations](manage-locations.md).</span></span>
+- <span data-ttu-id="a7fc0-123">Mer information om hur du hanterar platser finns [i Hantera ditt partnerkonto: Platser.](manage-locations.md)</span><span class="sxs-lookup"><span data-stu-id="a7fc0-123">For more information on managing locations, read [Manage your partner account: Locations](manage-locations.md).</span></span>

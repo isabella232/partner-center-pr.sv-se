@@ -4,34 +4,29 @@ ms.topic: article
 ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig hur du kan använda för Azure expert Managed Services-providern för att ta del av andra partner och få bästa prioritet i referens motorn.
+description: Lär dig hur du söker Azure Expert-leverantör av hanterade tjänster program för att stå ut från andra partner och få högsta prioritet i hänvisningsmotorn.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 364add7e25052ce97bfb26b84b26c5fcc430637d
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 45908ef67beaf2f84ae4cddfe11bfdfe8886ab96
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534666"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149816"
 ---
-# <a name="azure-expert-managed-services-provider-program"></a><span data-ttu-id="0fffc-103">Programmet Azure Expert Managed Services Providers</span><span class="sxs-lookup"><span data-stu-id="0fffc-103">Azure Expert Managed Services Provider program</span></span>
+# <a name="azure-expert-managed-services-provider-program"></a><span data-ttu-id="cd990-103">Programmet Azure Expert Managed Services Providers</span><span class="sxs-lookup"><span data-stu-id="cd990-103">Azure Expert Managed Services Provider program</span></span>
 
-<span data-ttu-id="0fffc-104">**Lämpliga roller**</span><span class="sxs-lookup"><span data-stu-id="0fffc-104">**Appropriate roles**</span></span>
+<span data-ttu-id="cd990-104">**Lämpliga roller:** Kontoadministratörsroller | Administratörsbehörighet för | Global | MPN-partneradministratör</span><span class="sxs-lookup"><span data-stu-id="cd990-104">**Appropriate roles**: Account admin | Business profile admin | Global admin | MPN partner admin</span></span>
 
-- <span data-ttu-id="0fffc-105">Kontoadministratör</span><span class="sxs-lookup"><span data-stu-id="0fffc-105">Account admin</span></span>
-- <span data-ttu-id="0fffc-106">Företags profil administratör</span><span class="sxs-lookup"><span data-stu-id="0fffc-106">Business profile admin</span></span>
-- <span data-ttu-id="0fffc-107">Global administratör</span><span class="sxs-lookup"><span data-stu-id="0fffc-107">Global admin</span></span>
-- <span data-ttu-id="0fffc-108">MPN-partner administratör</span><span class="sxs-lookup"><span data-stu-id="0fffc-108">MPN partner admin</span></span>
+<span data-ttu-id="cd990-105">Om ditt företag är ett bra företag på att sälja och hantera Azure-tjänster till kunder kan du titta på hur du Azure Expert-leverantör av hanterade tjänster programmet.</span><span class="sxs-lookup"><span data-stu-id="cd990-105">If your company is a superstar at selling and managing Azure services to customers, look into applying to the Azure Expert Managed Services Provider program.</span></span> <span data-ttu-id="cd990-106">Azure Expert MSP partner får ett exklusivt märke som skiljer dem från andra Microsoft-partner och får högsta prioritet i hänvisningsmotorn.</span><span class="sxs-lookup"><span data-stu-id="cd990-106">Azure Expert MSP partners earn an exclusive badge differentiating them from other Microsoft partners and gain top priority in the referral engine.</span></span> <span data-ttu-id="cd990-107">De prioriteras för säljinteragemang, får support när nya metoder utvecklas och kan delta i exklusiva evenemang.</span><span class="sxs-lookup"><span data-stu-id="cd990-107">They are prioritized for co-sell engagements, receive support when developing new practices, and can attend exclusive events.</span></span>
 
-<span data-ttu-id="0fffc-109">Om ditt företag är en Superstar vid försäljning och hantering av Azure-tjänster till kunder, kan du läsa om att använda Azure expert Managed Services Provider-programmet.</span><span class="sxs-lookup"><span data-stu-id="0fffc-109">If your company is a superstar at selling and managing Azure services to customers, look into applying to the Azure Expert Managed Services Provider program.</span></span> <span data-ttu-id="0fffc-110">Azure expert MSP-partner får en exklusiv aktivitets ikon som skiljer dem från andra Microsoft-partner och får bästa prioritet i referens motorn.</span><span class="sxs-lookup"><span data-stu-id="0fffc-110">Azure Expert MSP partners earn an exclusive badge differentiating them from other Microsoft partners and gain top priority in the referral engine.</span></span> <span data-ttu-id="0fffc-111">De prioriteras för samförsäljnings ärenden, få support när nya metoder utvecklas och kan delta i exklusiva händelser.</span><span class="sxs-lookup"><span data-stu-id="0fffc-111">They are prioritized for co-sell engagements, receive support when developing new practices, and can attend exclusive events.</span></span>
+<span data-ttu-id="cd990-108">Starta processen med att tillämpa på Azure MSP från det vänstra navigeringsfältet.</span><span class="sxs-lookup"><span data-stu-id="cd990-108">To begin the process of applying to the Azure MSP, from the left nav.</span></span> <span data-ttu-id="cd990-109">välj **Kompetenser och program** och välj sedan **Azure Expert MSP**.</span><span class="sxs-lookup"><span data-stu-id="cd990-109">select **Competencies and programs** and then select **Azure Expert MSP**.</span></span> <span data-ttu-id="cd990-110">Läs mer [om förutsättningarna och programprocessen](https://partner.microsoft.com/membership/azure-expert-msp).</span><span class="sxs-lookup"><span data-stu-id="cd990-110">Learn more about [the prerequisites and application process](https://partner.microsoft.com/membership/azure-expert-msp).</span></span> 
 
-<span data-ttu-id="0fffc-112">För att börja tillämpa processen på Azure MSP från det vänstra navigerings fältet.</span><span class="sxs-lookup"><span data-stu-id="0fffc-112">To begin the process of applying to the Azure MSP, from the left nav.</span></span> <span data-ttu-id="0fffc-113">Välj **kompetenser och program** och välj sedan **Azure expert MSP**.</span><span class="sxs-lookup"><span data-stu-id="0fffc-113">select **Competencies and programs** and then select **Azure Expert MSP**.</span></span> <span data-ttu-id="0fffc-114">Läs mer om [kraven och program processen](https://partner.microsoft.com/membership/azure-expert-msp).</span><span class="sxs-lookup"><span data-stu-id="0fffc-114">Learn more about [the prerequisites and application process](https://partner.microsoft.com/membership/azure-expert-msp).</span></span> 
+<span data-ttu-id="cd990-111">Om du inte kvalificerar dig ännu kan du fortfarande skapa ditt Microsoft-partnerskap genom medlemskapsförbättringar, utbildning och andra tillväxtmöjligheter.</span><span class="sxs-lookup"><span data-stu-id="cd990-111">If you don't qualify yet, you can still build your Microsoft partnership through membership enhancements, training, and other growth opportunities.</span></span>
+<span data-ttu-id="cd990-112">Lär dig mer om de steg du kan vidta [för att utveckla din verksamhet och expertis.](https://partner.microsoft.com/membership/azure-expert-msp)</span><span class="sxs-lookup"><span data-stu-id="cd990-112">Learn about steps you can take to [develop your business and expertise](https://partner.microsoft.com/membership/azure-expert-msp).</span></span>
 
-<span data-ttu-id="0fffc-115">Om du inte kvalificerar ännu kan du fortfarande bygga ditt Microsoft-partnerskap genom medlemskaps förbättringar, utbildning och andra tillväxt möjligheter.</span><span class="sxs-lookup"><span data-stu-id="0fffc-115">If you don't qualify yet, you can still build your Microsoft partnership through membership enhancements, training, and other growth opportunities.</span></span>
-<span data-ttu-id="0fffc-116">Lär dig mer om de steg du kan vidta för att [utveckla din verksamhet och expertis](https://partner.microsoft.com/membership/azure-expert-msp).</span><span class="sxs-lookup"><span data-stu-id="0fffc-116">Learn about steps you can take to [develop your business and expertise](https://partner.microsoft.com/membership/azure-expert-msp).</span></span>
+## <a name="next-steps"></a><span data-ttu-id="cd990-113">Nästa steg</span><span class="sxs-lookup"><span data-stu-id="cd990-113">Next steps</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="0fffc-117">Nästa steg</span><span class="sxs-lookup"><span data-stu-id="0fffc-117">Next steps</span></span>
-
-<span data-ttu-id="0fffc-118">-[Lär dig mer om avancerade specialiseringar](advanced-specializations.md)</span><span class="sxs-lookup"><span data-stu-id="0fffc-118">-[Learn about advanced specializations](advanced-specializations.md)</span></span>
+<span data-ttu-id="cd990-114">-[Lär dig mer om avancerade specialiseringar](advanced-specializations.md)</span><span class="sxs-lookup"><span data-stu-id="cd990-114">-[Learn about advanced specializations](advanced-specializations.md)</span></span>

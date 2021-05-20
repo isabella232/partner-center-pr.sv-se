@@ -103,7 +103,7 @@
         - name: Vanliga frågor och svar om kompetenser
           href: competencies-faq.md
           displayName: 'renew, mpn'
-        - name: Betala avgifter för kompetens
+        - name: Avgifter för betalning av kompetens
           href: mpn-pay-fee-silver-gold-competency.md
           displayName: mpn
         - name: Undantag för apputvecklarkompetens
@@ -134,6 +134,8 @@
     - name: Växla CSP-direktfakturering till indirekt återförsäljare
       href: transition-direct-to-indirect.md
       displayName: csp
+    - name: Partner kan inte längre registrera sig som rådgivare
+      href: advisors-no-csp.md
 - name: CSP-avtal
   href: microsoft-partner-agreement.md
   items:
@@ -442,7 +444,7 @@
           displayName: 'region, regio'
         - name: Begär en SLA-kredit från Microsoft
           href: request-credit.md
-        - name: Hur skatteprinciper påverkar utbetalning
+        - name: Så här påverkar skatteprinciper utbetalningen
           href: tax-policies-affect-payout.md
     - name: Ange en Azure-utgiftsbudget för dina kunder
       href: set-an-azure-spending-budget-for-your-customers.md
