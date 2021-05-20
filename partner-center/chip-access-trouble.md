@@ -2,39 +2,37 @@
 title: Problem med att komma åt CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Läs dessa rikt linjer för att hjälpa dig att felsöka problem med verktyget för kanal incitaments plattform (CHIP).
+description: Läs dessa riktlinjer som hjälper dig att felsöka problem med att använda chip-verktyget (Channel Incentives Platform).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 87a39479d8a567759356e1b101fdab83a2fa0d94
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: eec04bb75a1c8b2979a6d543770fd31d21f607c2
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570611"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149068"
 ---
-# <a name="troubleshoot-issues-with-accessing-chip"></a>Felsök problem med att komma åt kretsen
+# <a name="troubleshoot-issues-with-accessing-chip"></a>Felsöka problem med åtkomst till CHIP
 
-**Lämpliga roller**
-
-- Primär kontakt eller program administratör
+**Lämpliga roller:** Primär kontakt eller programadministratör
 
 >[!NOTE]
->CHIPs plattformen kommer att dras tillbaka i slutet av 2021.
+>CHIP-plattformen dras tillbaka i slutet av 2021.
 
-Om du inte är primär kontakt eller PPA (primär program administratör) kontaktar du din primära kontakt eller PPA (primär program administratör) för åtkomst. Om du är aktuell PPA kontrollerar du att ditt företag är registrerat och har registrerats när din åtkomst är kopplad till företagets status.
+Om du inte är den primära kontakten eller PPA (primär programadministratör) kontaktar du din primära kontakt eller PPA (primär programadministratör) för åtkomst. Om du är aktuell PPA kontrollerar du att ditt företag är registrerat och registrerat eftersom din åtkomst är kopplad till företagets status.
 
-Om du är primär kontakt eller PPA (primär program administratör) bör du ha åtkomst till kretsen när alla meddelanden om registrering skickas till den aktuella primära kontakten eller PPA (primär program administratör). Åtkomsten fortsätter för varje period efter den första registrerings perioden.
+Om du är den primära kontakten eller PPA (primär programadministratör) bör du ha åtkomst till CHIP eftersom alla meddelanden om registrering skickas till den aktuella primära kontakten eller PPA (primär programadministratör). Den här åtkomsten fortsätter för varje period efter den första registreringsperioden.
 
-## <a name="troubleshooting-steps-to-assist-with-accessing-chip-if-you-had-prior-access"></a>Fel söknings steg som hjälper dig att komma åt CHIP om du hade tidigare åtkomst
+## <a name="troubleshooting-steps-to-assist-with-accessing-chip-if-you-had-prior-access"></a>Felsökningssteg som hjälper dig att komma åt CHIP om du tidigare har haft åtkomst
 
 1. Rensa alla cookies och öppna CHIP i en privat webbläsare.
-1. Välj **Inställningar för Kompatibilitetsvyn** i webbläsaren. KRETSEN ska redan visas under Microsoft.com, annars lägger du till webbplatsen.
+1. Välj **Kompatibilitetsvyn inställningar** i webbläsaren. CHIP bör redan visas under Microsoft.com, annars lägger du till webbplatsen.
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Navigera i kanal incitaments plattformen (CHIP)](chip-intro.md)
+- [Navigera på CHIP (Channel Incentives Platform)](chip-intro.md)
 - [Support](report-problems-with-partner-center.md)

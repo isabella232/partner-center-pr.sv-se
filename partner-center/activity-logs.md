@@ -1,56 +1,49 @@
 ---
-title: Få insikter med kund aktivitets loggar
+title: Få insikter med kundaktivitetsloggar
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig hur du visar och exporterar aktivitets loggar för att få insikt om kund konto transaktioner och andra kund relaterade aktiviteter för partner hantering.
+description: Lär dig hur du visar och exporterar aktivitetsloggar för att få insikter om kundkontotransaktioner och andra kundrelaterade partnerhanteringsaktiviteter.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1eaa7fee628015eb633cac3a2796e371f6046585
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 1bb98dd71c9e46914b90d5efbfe14404d08275f9
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474248"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150598"
 ---
-# <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Visa eller exportera kund aktivitets loggar för mer insikter om kund transaktioner
+# <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Visa eller exportera kundaktivitetsloggar för mer information om kundtransaktioner
 
-**Lämpliga roller**
+**Lämpliga roller:** Globala | Faktureringsadministratörskonto | Administratörsbehörighet för | Administratörsagent | Försäljningsagent | Supportagent
 
-- Global administratör
-- Faktureringsadministratör
-- Administratör för användar hantering
-- Administratörs agent
-- Försäljnings agent
-- Support agent
+Aktivitetsloggar ger information om transaktioner och partnerhanteringsåtgärder för kunder. Loggar för transaktioner innehåller detaljerad information om transaktionen, inklusive köpta prenumerationer. Du kan också exportera aktivitetsloggar till ett Excel-kompatibelt filformat med kommaavgränsade värden (.csv).
 
-Aktivitets loggar innehåller information om transaktioner och partner hanterings åtgärder för kunder. Loggar för transaktioner ger detaljerad information om transaktionen, inklusive köpta prenumerationer. Du kan också exportera aktivitets loggar till ett Excel-kompatibelt kommaavgränsat värde fil format (. csv).
+Aktivitetsloggar innehåller poster för partneråtgärder för kundkonton och produkttransaktioner. Du kan också exportera aktivitetsloggar till en CSV-fil.
 
-Aktivitets loggar innehåller poster för partner åtgärder på kund konton och produkt transaktioner. Du kan också exportera aktivitets loggar till en. csv-fil.
+## <a name="view-and-export-activity-logs"></a>Visa och exportera aktivitetsloggar
 
-## <a name="view-and-export-activity-logs"></a>Visa och exportera aktivitets loggar
+1. Logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard)
 
-1. Logga in på [instrument panelen](https://partner.microsoft.com/dashboard)för partner Center.
+2. På menyn **Kontoinställningar** väljer du **Aktivitetslogg.**
 
-2. Från menyn **konto inställningar** väljer du **aktivitets logg**.
+3. Välj aktivitetsloggperiod i fälten **Från** **och till.** Aktivitetsloggexporten är som standard den senaste månaden.
 
-3. Välj aktivitets logg perioden i fälten **från** och **till** . Aktivitets logg exportens standardinställningar är den senaste månaden.
+   Varje aktivitetslogg innehåller en länk till kundens **prenumerationssida i** listan.
 
-   Varje aktivitets logg innehåller en länk till kund **prenumerations** sidan.
+   Välj en nedåtpil för en aktivitetslogg om du vill visa information om en loggad åtgärd. En enda aktivitetslogg kan visa en stor mängd data, till exempel beställning av flera produkter.
 
-   Välj en nedåtpil för aktivitets loggen om du vill visa information om en loggad åtgärd. En enda aktivitets logg kan visa en stor mängd data, till exempel sortering av flera produkter.
+4. Loggens datakolumner omfattar följande:
+   - **Date-Time**– datum och tid för åtgärden;
+   - **Berörd** kund – kundens företagsnamn;
+   - **Åtgärd**– den åtgärd som vidtas av kunden, till exempel "skapad en hänvisning";
+   - **Partneranvändare**– partnern som är associerad med aktiviteten.
 
-4. Data kolumnerna i loggen innehåller följande:
-   - **Datum/tid**-datum och tid för åtgärden.
-   - **Berörd kund**– kundens företags namn;
-   - **Åtgärd**– åtgärden som vidtas av kunden, till exempel "skapa en hänvisning";
-   - **Partner användare**– partnern som är kopplad till aktiviteten.
-
-5. Välj **Exportera logg** för att kopiera kundens prenumerations data till en. csv-fil och ladda ned den till standardmappen för hämtning på din dator.
+5. Välj **Exportera logg** för att kopiera kundens prenumerationsdata till en CSV-fil och ladda ned dem till standardnedladdningsmappen på datorn.
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Analysera prenumerationer och licenser för att hjälpa till att driva affärs beslut](analyze-subscriptions-licenses.md)
+- [Analysera prenumerationer och licenser för att fatta affärsbeslut](analyze-subscriptions-licenses.md)

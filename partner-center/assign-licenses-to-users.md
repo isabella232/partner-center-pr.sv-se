@@ -1,118 +1,114 @@
 ---
-title: Hantera användare för kund konton
+title: Hantera användare för kundkonton
 ms.topic: how-to
 ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Hantera användare för dina kunder i Partner Center – skapa användar konton, lägga till eller ta bort användar licenser, återställa lösen ord och ta bort eller återställa användar konton.
+description: Hantera användare för dina kunder i Partnercenter – skapa användarkonton, lägga till eller ta bort användarlicenser, återställa lösenord och ta bort eller återställa användarkonton.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0e2bb4ceb146174da83e9c08a9ff030380298bd0
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: dc896ec3ce16ab0f05a8131de14f573ad96a8141
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756089"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149901"
 ---
-# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Hantera användare och användar licenser för kund konton 
+# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Hantera användare och användarlicenser för kundkonton 
 
-**Lämpliga roller**
-
-- Global administratör
-- Administratör för användar hantering
-- Administratörs agent
+**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Administratörsagent
 
 
-Du kan skapa och ta bort nya användare i ett kund konto. Du kan också återställa ett eller flera användar konton som du tidigare tog bort inom 30 dagar från borttagningen. Användarens tidigare prenumerations tilldelningar återställs också (förutsatt att deras tidigare allokeringar är tillgängliga).
+Du kan skapa och ta bort nya användare i en kunds konto. Du kan också återställa ett eller flera användarkonton som du tidigare har tagit bort inom 30 dagar efter borttagningen. Användarens tidigare prenumerationstilldelningar återställs också (förutsatt att deras tidigare allokeringar är tillgängliga).
 
-När du köper nya prenumerationer för en kund bör kunden ge dig en lista över alla användare som behöver konton, deras användar behörigheter och vilka tjänster varje användare behöver.  
+När du köper nya prenumerationer för en kund bör kunden ge dig en lista över alla användare som behöver konton, deras användarbehörigheter och vilka tjänster varje användare behöver.  
 
 >[!NOTE]
->Avsnittet **användare och licenser** på fliken **kund** visar alla användare som skapats i en specifik kunds klient, inklusive användare med licenser som har köpts från en annan CSP-partner eller från en annan inköps kanal.
+>Avsnittet **Användare och**  licenser på fliken Kund visar alla användare som skapats i en specifik kunds klientorganisation, inklusive användare som har köpt licenser från en annan CSP-partner eller från en annan inköpskanal.
 
-Du kan [tilldela prenumerationer till flera användare](bulk-license-provisioning-for-multiple-users.md) i taget genom att importera namnen med en [Excel-kompatibel. csv-kalkylbladsfilen](adding-multiple-users-to-a-customer-account.md).
+Du kan [tilldela prenumerationer till flera användare samtidigt](bulk-license-provisioning-for-multiple-users.md) genom att importera namnen med hjälp av en [Excel-kompatibel CSV-kalkylbladsfil.](adding-multiple-users-to-a-customer-account.md)
 
 <a href="" id="createuseraccounts"></a>
 
 ## <a name="create-user-accounts-for-a-customer"></a>Skapa användarkonton för en kund
 
-1. Logga in på [instrument panelen](https://partner.microsoft.com/dashboard)för partner Center.
+1. Logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard)
 
-2. Från menyn Partner Center väljer du **kunder** och väljer sedan en kund i listan.
+2. I menyn i Partnercenter väljer **du Kunder** och sedan en kund i listan.
 
-3. I menyn kund väljer **du användare och licenser**.
+3. I kundmenyn väljer du **Användare och licenser.**
 
-4. För varje användare som du lägger till väljer du **Lägg till prenumeration** och fyller sedan i informationen, inklusive behörigheter och licenser. **Spara** ändringarna.
+4. För varje användare som du lägger till **väljer du Lägg** till prenumeration och fyller sedan i informationen, inklusive behörigheter och licenser. **Spara** ändringarna.
 
-5. Se till att du registrerar användar namnet och det tillfälliga lösen ordet för att skicka till användaren.
+5. Se till att registrera användarnamnet och det tillfälliga lösenordet som ska skickas till användaren.
 
-6. Om du lägger till flera användare en i taget använder du **Lägg till en annan användare**.
+6. Om du lägger till flera användare en i taget använder du Lägg **till en annan användare.**
 
-7. Du kan också lägga till flera användare samtidigt genom att [Importera en Excel-kompatibel. csv-kalkylbladsfilen](adding-multiple-users-to-a-customer-account.md). Du kan vänta tills du är klar med hela uppsättningen innan du skickar eller skriver ut namn och lösen ord från bekräftelse skärmen.
+7. Du kan också lägga till flera användare samtidigt genom att [importera en Excel-kompatibel CSV-kalkylbladsfil.](adding-multiple-users-to-a-customer-account.md) Du kan vänta tills du är klar med hela uppsättningen innan du skickar e-post eller skriver ut namn och lösenord från bekräftelseskärmen.
 
 <a href="" id="userlicensing"></a>
 
-## <a name="add-or-remove-user-licenses-for-a-customer"></a>Lägga till eller ta bort användar licenser för en kund
+## <a name="add-or-remove-user-licenses-for-a-customer"></a>Lägga till eller ta bort användarlicenser för en kund
 
-Följande steg gäller för att lägga till eller ta bort användar licenser för Microsoft-produkter. Om du vill lägga till eller ta bort användar licenser för licensbaserade SaaS-prenumerationer på den kommersiella Marketplace, se [lägga till eller ta bort licenser för en SaaS-prenumeration](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription).
+Följande steg gäller för att lägga till eller ta bort användarlicenser för Microsoft-produkter. Om du vill lägga till eller ta bort användarlicenser för licensbaserade SaaS-prenumerationer på den kommersiella marknadsplatsen kan du läsa Lägga till eller ta bort licenser [för en SaaS-prenumeration.](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription)
 
-1. Logga in på [instrument panelen](https://partner.microsoft.com/dashboard)för partner Center.
+1. Logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard)
 
-2. Från menyn Partner Center väljer du **kunder** och väljer sedan en kund i listan.
+2. I menyn i Partnercenter väljer **du Kunder** och sedan en kund i listan.
 
-3. I menyn kund väljer **du användare och licenser**.
+3. I kundmenyn väljer du **Användare och licenser.**
 
-4. Välj en eller flera användare i listan. Om kunden till exempel precis har köpt nya licenser och du vill tilldela dem till personer som inte har dem än kan du använda alternativet **filtrera användare efter...** för att hitta rätt grupp.
+4. Välj en eller flera användare i listan. Om kunden till exempel precis har köpt nya licenser och du vill tilldela dem till personer som inte har dem ännu, kan du använda alternativet **Filtrera användare efter...** för att hitta rätt grupp.
 
-5. Välj **Hantera licenser**. Gör dina ändringar och **Spara** sedan.
+5. Välj **Hantera licenser**. Gör dina ändringar och sedan **Spara**.
 
 > [!NOTE]
-> För [Azure Marketplace-produkter](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)hanteras licens tilldelning och aktivering via den oberoende program varu leverantör (ISV) som publicerade produkten.
+> För [Azure Marketplace produkter](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)hanteras licenstilldelning och aktivering via isv:n (Independent Software Vendor) som publicerade produkten.
 
 <a href="" id="resetpassword"></a>
 
-## <a name="reset-a-users-password-for-a-customer"></a>Återställa en användares lösen ord för en kund
+## <a name="reset-a-users-password-for-a-customer"></a>Återställa en användares lösenord för en kund
 
 1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard).
 
-2. Från menyn Partner Center väljer du **kunder** och väljer sedan en kund i listan.
+2. I menyn i Partnercenter väljer **du Kunder** och sedan en kund i listan.
 
-3. I menyn kund väljer **du användare och licenser**. Välj användaren i listan.
+3. I kundmenyn väljer du **Användare och licenser.** Välj användaren i listan.
 
-4. Längst ned på skärmen väljer du **Återställ lösen ord**. 
+4. Längst ned på skärmen väljer du **Återställ lösenord.** 
 
-5. Skicka det nya tillfälliga lösen ordet till användaren.
+5. Skicka det nya tillfälliga lösenordet till användaren.
 
 <a href="" id="deleteuseraccounts"></a>
 
-## <a name="delete-user-accounts-for-a-customer"></a>Ta bort användar konton för en kund
+## <a name="delete-user-accounts-for-a-customer"></a>Ta bort användarkonton för en kund
 
-1. Från menyn **partner Center** väljer du **kunder**. Välj kund i listan.
+1. I **menyn i Partnercenter** väljer du **Kunder.** Välj kunden i listan.
 
-2. I menyn kund väljer **du användare och licenser**. Välj användaren i listan.
+2. I kundmenyn väljer du **Användare och licenser.** Välj användaren i listan.
 
-3. Längst ned på skärmen väljer du **ta bort användar konto**.
+3. Längst ned på skärmen väljer du **Ta bort användarkonto.**
 
-Om du behöver återställa det här kontot kan du hitta det på fliken **borttagna användare** i listan kund **användare och licenser** . Du har 30 dagar på dig att återställa en borttagen användare.
+Om du behöver återställa det här kontot  hittar du det på fliken Borttagna användare i listan Kundens **användare och** licenser. Du har 30 dagar på dig att återställa en borttagna användare.
 
 <a href="" id="restoreuseraccounts"></a>
 
-## <a name="restore-deleted-user-accounts"></a>Återställa borttagna användar konton
+## <a name="restore-deleted-user-accounts"></a>Återställa borttagna användarkonton
 
-1. Från menyn **partner Center** väljer du **kunder** och väljer sedan kunden i listan.
+1. I **menyn i Partnercenter** **väljer du** Kunder och sedan kunden i listan.
 
-2. Välj **användare och licenser**.
+2. Välj **Användare och licenser.**
 
-3. Välj fliken **borttagna användare ()** . Den bör läsa **(1)** eller större när det finns borttagna användare som kan återställas.
+3. Välj fliken **Borttagna** användare ( ). Den bör läsa **(1)** eller högre när det finns borttagna användare som kan återställas.
 
-4. Välj en eller flera av kryss rutorna för borttagna användare och välj sedan **Återställ**.
+4. Markera en eller flera av kryssrutorna för borttagna användare och välj sedan **Återställ.**
 
-    Alla valda användar konton kommer att visas på sidan **användare och licenser** .
+    Alla valda användarkonton visas igen på sidan **Användare och** licenser.
 
 ## <a name="next-steps"></a>Nästa steg
 
 - [Tilldela eller återkalla licenser till flera användare](bulk-license-provisioning-for-multiple-users.md)
 
-- [Skapa flera användare för ett kund konto](adding-multiple-users-to-a-customer-account.md)
+- [Skapa flera användare för ett kundkonto](adding-multiple-users-to-a-customer-account.md)

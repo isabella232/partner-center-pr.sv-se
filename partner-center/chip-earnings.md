@@ -2,46 +2,44 @@
 title: Visa intäkter i CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Lär dig hur du visar ditt incitament och intäkter i verktyget kanal incitaments plattform (CHIP).
+description: Lär dig hur du visar dina incitamentsutdrag och intäkter i verktyget CHIP (Channel Incentives Platform).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 09ed80e4be53f210341279193bae71dc47f87eec
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 74606a4c7f52e5aa23f7e963cab27e491c436b59
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354499"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149034"
 ---
-# <a name="view-earnings-using-the-chip-tool"></a>Visa intäkter med hjälp av verktyget CHIP
+# <a name="view-earnings-using-the-chip-tool"></a>Visa intäkter med hjälp av CHIP-verktyget
 
-**Lämpliga roller**
+**Lämpliga roller:** Primär kontakt eller programadministratör
 
-- Primär kontakt eller program administratör
-
-Du kan komma åt din incitaments instruktion via verktyget kanal incitaments plattform (CHIP).
+Du kan komma åt ditt incitamentsutdrag via verktyget Channel Incentives Platform (CHIP).
 
 ## <a name="view-earnings"></a>Visa intäkter
 
-1. Logga in på kretsen med din Microsoft-konto (tidigare Live ID).
+1. Logga in på CHIP med din Microsoft-konto (tidigare Live ID).
 
-2. Välj det incitaments program som du är intresse rad av.
+2. Välj det incitamentsprogram som du är intresserad av.
 
-3. Under **program Sammanfattning** väljer du period eller månad. 
-1. Välj beräknings information i den nedrullningsbara listan.
-1.  Öppna instruktionen genom att klicka på **Öppna** i meddelande fältet.
+3. Under **Programsammanfattning** väljer du period eller månad. 
+1. Välj Beräkningsinformation i listrutan.
+1.  Klicka **på** Öppna i meddelandefältet för att öppna instruktionen.
 
-### <a name="explanation-of-details-tabs"></a>Förklaring av informations flikar
+### <a name="explanation-of-details-tabs"></a>Förklaring av informationsflikar
 
-|**Tabbtecken**|**Definition**|
+|**Tabb**|**Definition**|
 |-------------|--------------------------|
-|DetailReport-Flatfile|Innehåller information om incitaments programmet för den valda tids perioden, inklusive kund namn, avtal, information om spaken|
-|DeltaReport – Pivot|Uppdateringar från senaste publicerade instruktionen endast för företag|
-|DetailReport – Pivot|Sammanfattning av betalnings information, inklusive valuta och betalnings belopp|
-|Utmärkelse information|Bas linje värde, utmärkelse och tillväxt i procent för endast SPLAR|
+|DetailReport-Flatfile|Innehåller information om incitamentsprogrammet för den valda tidsperioden, inklusive kundnamn, avtal, information om utnyttjad|
+|DeltaReport-pivot|Uppdateringar från den senaste publicerade instruktionen endast för Enterprise|
+|DetailReport-pivot|Sammanfattning av betalningsinformation, inklusive valuta och betalningsbelopp|
+|Achievement-information|Baslinjevärde, achievement och tillväxtprocent endast för SPLAR|
 
 ## <a name="next-steps"></a>Nästa steg
 

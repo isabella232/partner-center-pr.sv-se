@@ -1,68 +1,66 @@
 ---
-title: Status för utvärdering av CHIPs lösning
+title: Status för möjlighetsbedömning av CHIP-lösning
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Lär dig hur du hittar en status utvärderings affärs möjlighet i en kanal incitaments plattform (CHIP).
+description: Lär dig hur du hittar affärsmöjlighetsstatusen för lösningsutvärderingen på CHIP (Channel Incentives Platform).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: df7418e48832344fd6de052a7387a2f5c8368363
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 620490dfdd63b40957421e6df6432d480584658a
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354601"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148847"
 ---
-# <a name="find-your-solution-assessments-opportunity-status-on-chip"></a>Hitta affärs möjlighets status för lösnings bedömning på CHIP
+# <a name="find-your-solution-assessments-opportunity-status-on-chip"></a>Hitta affärsmöjlighetsstatusen för dina lösningsutvärderingar på CHIP
 
-**Lämpliga roller**
+**Lämpliga roller:** Primär kontakt eller programadministratör
 
-- Primär kontakt eller program administratör
+Partner kan granska affärsmöjlighetsstatusen för lösningsutvärderingar på CHIP.
 
-Partner kan granska en utvärderings status för en lösning på kretsen.
+## <a name="determine-the-status-of-your-deal"></a>Fastställa status för ditt avtal
 
-## <a name="determine-the-status-of-your-deal"></a>Fastställ status för ditt avtal
+Se till att ditt avtal har nått det kvalificerade försäljningssteget och har godkänts av Solution Assessment Specialist (SAS). Kontrollera ditt CHIP-konto.
 
-Se till att ditt avtal har nått den berättigade försäljnings fasen och godkänts av lösnings bedömnings specialisten (SAS). Kontrol lera ditt CHIPs konto.
-
-1. Logga in på kretsen med ditt Microsoft-konto (tidigare Live ID).
-1. I fältet **affärs möjlighets-ID** skriver eller klistrar du in affärs MÖJLIGHETENS ID-nummer.
+1. Logga in på CHIP med ditt Microsoft-konto (tidigare Live ID).
+1. I fältet **Affärsmöjlighets-ID** skriver eller klistrar du in ID-numret för affärsmöjligheten.
 3. Klicka på Sök.
 
-1. Klicka på **Visa** under kolumnen **Poe** om du vill visa information om affärs möjligheten. Granska status för affärs möjligheten. Om affärs möjligheten är i **sändnings** status, måste Poe-dokumenten skickas in för att kunna flyttas framåt i betalnings processen.
+1. Klicka **på Visa** under KOLUMNEN **POE** för att visa information om affärsmöjligheten. Granska affärsmöjlighetens status. Om affärsmöjligheten har **statusen** Skicka måste POE-dokumenten (Proof of Execution) skickas för att gå vidare i betalningsprocessen.
  
-1. Klicka på länken Redigera för att kontrol lera om alla POE-dokument har laddats upp. Anteckna om POE har laddats upp och att rutan EM-godkännande är markerad.
+1. Klicka på länken Redigera för att kontrollera om alla POE-dokument har laddats upp. Observera om POE har laddats upp och att rutan EM-godkännande är markerad.
  
-1. Gå tillbaka till Sök resultaten och klicka på det relevanta avtals namnet för att hämta information om erbjudandet. 
+1. Gå tillbaka till sökresultatet och klicka på relevant avtalsnamn för att hämta avtalsinformationen. 
 
-1. Utifrån den information som finns under steg 4 till 6, fastställer du om minimi kraven för stimulans avtal har uppfyllts. Om något krav inte har uppfyllts gör du följande:
+1. Baserat på informationen i steg 4 till och med 6 kan du avgöra om minimikraven för incitamentsintjäning har uppfyllts. Om något krav inte har uppfyllts gör du följande:
  
-     - Om POE inte har överförts måste du ladda upp den till kretsen.
+     - Om POE inte har laddats upp måste du ladda upp det till CHIP.
  
      - Öppna CHIP och logga in med ditt Microsoft-konto (tidigare Live ID).
  
-     - Välj **incitament för utvärdering av lösningar.**
+     - Välj **Solutions Assessments Incentives( Incitament för utvärdering av lösningar).**
 
-     - Under rutan **jag behöver..** . klickar du på **Sök efter avtal**.
+     - Under **behöver jag ...** klickar du på **Sökavtal**.
 
-     - Skriv ditt affärs möjlighets-ID i rutan **affärs möjlighet** och klicka på **Sök**.
+     - Skriv ditt affärsmöjlighets-ID i **rutan** Affärsmöjlighet och klicka på **Sök**.
 
-     - När affärs möjligheten visas klickar du på **Skicka**.
+     - När affärsmöjligheten visas klickar du på **Skicka**.
   
-     - På menyn ny POE bläddrar du till det begärda POE-dokumentet och väljer det.
+     - I den nya POE-menyn bläddrar du till det POE-dokument som krävs och väljer det.
 
-     - Klicka på Överför dokument.
+     - Klicka på Ladda upp dokument.
 
      - Upprepa åtgärden så många gånger som behövs för att ladda upp alla dokument som krävs.
 
-     - När alla dokument har överförts klickar du på **Skicka**.
+     - När alla dokument har laddats upp klickar du på **Skicka**.
 
-Om kryss rutan för EM-godkännande inte är markerad kontaktar du din lösning utvärderings specialist (SAS) för att granska och tillhandahålla godkännande.
+Om kryssrutan EM-godkännande inte är markerad kontaktar du din SAS (Solution Assessment Specialist) för att granska och godkänna.
  
-Om du har ytterligare frågor eller vill skicka in ett support ärende klickar du på [support](report-problems-with-partner-center.md).
+Om du har ytterligare frågor eller vill skicka en supportbiljett klickar du på [Support](report-problems-with-partner-center.md).
 
 ## <a name="next-steps"></a>Nästa steg
 

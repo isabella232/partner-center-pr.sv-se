@@ -1,76 +1,73 @@
 ---
-title: Incitaments översikt över medop och anspråk
+title: Översikt över co-op och anspråk för incitament
 ms.topic: article
 ms.date: 03/10/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Lär dig hur du skickar in ett lyckat samordnat anspråk för dina incitament genom att organisera rätt dokumentation, fakturor, utdrag och körnings bevis.
+description: Lär dig hur du skickar ett lyckat co-op-anspråk för dina incitament genom att organisera rätt dokumentation, fakturor, instruktioner och utförandebevis.
 author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 99098b49ded4808edfd4ee895565d1563c52675a
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 5e5f8000032fa09d7752f8c6206325630b995b63
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022714"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148728"
 ---
-# <a name="earn-cooperative-marketing-funds"></a>Skaffa samarbets marknadsförings medel
+# <a name="earn-cooperative-marketing-funds"></a>Tjäna marknadsföringsmedel
 
-**Lämpliga roller**
+**Lämpliga roller:** Incitamentsadministratörsroller | Incitamentsanvändare
 
-- Incitaments administratör
-- Incitaments användare
+Marknadsföringsmedel (co-op) är medel som du tjänar genom Microsofts incitamentprogram genom att begära att få aktiviteter som stöder Microsofts produktmedvetenhet. Exempel på incitamentsprogram är Molnlösningsleverantör, hanterad återförsäljare, värd och Surface.
 
-Samarbets fonder (co-op) är fonder som du får genom Microsofts stimulans program genom att kräva åter betalning för aktiviteter som stöder Microsofts produkt medvetenhet. Exempel på stimulans program är leverantörer av moln lösningar, hanterad åter försäljare, värd och yta.
+Med co-op-medel kan du genomföra marknadsföringsaktiviteter som ökar varumärkesmedvetenhet och ökar försäljningspipelinens tillväxt. Du kan investera co-op-medel i aktiviteter för att underlätta beredskap, utveckla specialiseringar eller uppnå Microsoft-certifieringar – aktiviteter som främjar fokuserade lösningsmetoder och center för utmärkthet.
 
-Med samop-medel kan du utföra marknadsförings aktiviteter som ökar varumärkes medvetenheten och ökar försäljnings förloppet. Du kan investera samordnings medel i aktiviteter för att under lätta beredskap, utveckla specialiseringar eller nå Microsoft-certifieringar – aktiviteter som främjar fokuserade lösnings metoder och expert Center.
-
-Du kan läsa mer på sidan med [resurser för co-op-medel](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) .
+Du kan läsa mer på [sidan Resurser för samordningsresurser.](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/)
 
 >[!Important]
->Samop-anspråk gäller inte för Online Services Advisory (OSA), OSU (Online Services Usage) – Microsoft 365 och OSU-Business program för program vara. Om du vill skicka ett anspråk för något av dessa program kan du läsa [skapa en kund-associearation med hjälp av CPOR-modellen](submit-osa-claim.md).
+>Co-op anspråk gäller inte för Online Services Advisory (OSA) Sell, Online Services Usage (OSU)-Microsoft 365 OSU-Business Application incitamentprogram. Information om hur du skickar ett anspråk för något av dessa program finns i Skapa en [kundassociearation med hjälp av CPOR-modellen](submit-osa-claim.md).
 
-## <a name="how-co-op-funds-are-calculated"></a>Hur samop-medel beräknas
+## <a name="how-co-op-funds-are-calculated"></a>Så här beräknas co-op-medel
 
-Microsoft beräknar berättigad incitaments inkomst med en delad procents ATS (till exempel 60% rabatt-40% co-op). Du får rabatt delen med hjälp av den befintliga takt för ditt enskilda program, medan Microsoft påbörjar den samopa delen av incitaments intäkterna.
+Microsoft beräknar berättigade incitamentintäkter med hjälp av en uppdelningsprocent (till exempel 60 % rabatt – 40 % co-op). Du får den extra delen med hjälp av den befintliga betalning takten för ditt enskilda program, medan Microsoft påförs den operativa delen av incitamentintäkterna.
 
-Du kan lära dig mer om betalnings takt och dela procent i din incitaments program guide. Använd [den här proceduren](incentives-determined-your-program-eligibility.md) för att få åtkomst till din program guide.
+Du kan lära dig mer om betalning i takt och uppdelning i procent i din programguide för incitament. Använd [den här proceduren](incentives-determined-your-program-eligibility.md) för att få åtkomst till programguiden.
 
 >[!NOTE]
->Om ditt co-op-belopp är lägre än tröskelvärdet för samordnings perioden, omvandlas medop-intäkterna till en rabatt i slutet av terminen. Mer information eller för att fastställa tröskel beloppet finns i program guiden för incitament.
+>Om dina co-op-intäkter ligger under tröskelvärdet i co-op-intäktsperioden konverteras co-op-intäkterna till en läkare i slutet av terminen. Mer information eller hur du fastställer tröskelvärdet finns i guiden för incitamentprogram.
 
-## <a name="when-to-claim-your-funds"></a>När du ska anspråka pengar
+## <a name="when-to-claim-your-funds"></a>När du ska göra anspråk på dina medel
 
-Tids linjen för samop-fonder är uppdelad i 2 6 månads perioder, H1 och H2. ("H" står för räkenskapsårets halvår.)
+Tidslinjen för co-op-medel är indelad i två sex månadersperioder, H1 och H2. ("H" står för räkenskapsår.)
 
-- H1 är första hälften av räkenskapsåret, 1 juli 31 december.
+- H1 är den första halvan av räkenskapsåret, 1 juli –31 december.
 - H2 är den andra halvan av räkenskapsåret, 1 januari – 30 juni.
 
-Den sex månaders period under vilken du periodiserar dina intäkter blir din **tjänande period**. Du måste använda dessa intäkter vid något tillfälle under följande sex månaders **användnings period**. Om du inte använder dina intäkter i slutet av användnings perioden förverkar du dem. **Anspråks perioden** är den sex månaders period under vilken du kan göra en åter betalning för dina stimulans program aktiviteter.
+Den sex månadersperiod då du ackumulerar dina intäkter blir **din intäktsperiod.** Du måste använda dessa intäkter någon gång under följande sex månaders **användningsperiod.** Om du inte använder dina intäkter i slutet av användningsperioden förlorar du dem. Anspråksperioden **är den** sex månadersperiod under vilken du kan göra anspråk på att få incitamentprogrammets aktiviteter.
 
-I tabellen nedan visas olika perioder för förbrukning, användning och anspråk. Om inget annat anges sträcker sig perioder från den första dagen i den första månaden till den sista dagen i den senaste månaden.
+Tabellen nedan visar olika perioder för intjäning, användning och anspråk. Om inget annat anges sträcker sig perioderna från den första dagen i den första månaden till den sista dagen i den senaste månaden.
 
-|  Om din intjänande/periodiseringsperiod är  |Din räkenskaps halva-års period är  |  Din användnings period är  |  Din anspråks period är  |
+|  Om din intjäningsperiod är  |Räkenskapsårets period är  |  Användningsperioden är  |  Din anspråksperiod är  |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-|**Juli – dec 2020**| FY21 H1  |  Jan – 2021 juni  |  Feb 16-aug 15 2021  |
-|**Jan – 2021 juni** |  FY21 H2  |  Juli – dec 2021  |  Aug 16 2021-Feb 15 2022  |
-|**Juli – dec 2021**|  FY22 H1  |  Jan – 2022 juni  |  Feb 16-aug 15 2022  |
-|**Jan – 2022 juni** |  FY22 H2  |  Juli – dec 2022  |  Aug 16 2022-Feb 15 2023  |
+|**Juli–dec 2020**| FY21 H1  |  Jan – juni 2021  |  16 feb – 15 augusti 2021  |
+|**Jan – juni 2021** |  FY21 H2  |  Juli – Dec 2021  |  16 augusti 2021 – 15 februari 2022  |
+|**Juli – Dec 2021**|  FY22 H1  |  Jan – juni 2022  |  16 feb – 15 augusti 2022  |
+|**Jan – juni 2022** |  FY22 H2  |  Juli–dec 2022  |  16 augusti 2022 – 15 februari 2023  |
 
 >[!NOTE]
->Microsoft förbehåller sig rätten att begära ursprungliga PoE-dokument (proof of Execution). Du bör behålla alla dina ursprungliga dokument i 24 månader efter aktivitets datumet.
+>Microsoft förbehåller sig rätten att begära poE-dokument (original proof of execution). Du bör behålla alla dina ursprungliga dokument i 24 månader efter aktivitetsdatumet.
 
-Följande resurser hjälper dig att komma igång med samop-anspråk.
+Följande resurser hjälper dig att komma igång med co-op-anspråk.
 
 | Gör så här: | Läs detta |
 | ------ | ----------- |
-| Skicka ett anspråk |  [Skapa och hantera ett incitaments program co-op-anspråk](create-incentives-claims.md)  |
-| Hantera ett skickat anspråk | [Skapa och hantera ett incitaments program co-op-anspråk](create-incentives-claims.md)    |
-| Förstå kärn kraven för aktivitets anspråket | [Grundläggande krav för aktiviteterna i stimulans programmet](core-requirements.md)   |
-| Granska informationen om stimulans programmet | [Partner stimulans Guidebook](https://assetsprod.microsoft.com/co-op-guidebook.pdf)  |
-| Skapa en kund koppling och skicka in ett anspråk | [Skapa en kund koppling med CPOR-modellen](submit-osa-claim.md)   |
+| Skicka ett anspråk |  [Skapa och hantera ett co-op-anspråk för incitamentsprogram](create-incentives-claims.md)  |
+| Hantera ett skickat anspråk | [Skapa och hantera ett co-op-anspråk för incitamentsprogram](create-incentives-claims.md)    |
+| Förstå grundläggande krav för aktivitetsanspråk | [Grundläggande krav för aktiviteter i ditt incitamentprogram](core-requirements.md)   |
+| Granska information om incitamentsprogrammet | [Guidebok för partnerincitament för co-op](https://assetsprod.microsoft.com/co-op-guidebook.pdf)  |
+| Skapa en kundassociaty och skicka ett anspråk | [Skapa en kundassociaty med hjälp av CPOR-modellen](submit-osa-claim.md)   |
 
 ## <a name="next-steps"></a>Nästa steg
 

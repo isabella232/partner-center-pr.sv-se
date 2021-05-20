@@ -1,57 +1,55 @@
 ---
-title: Lägg till flera användare för ett kund konto
+title: Lägga till flera användare för ett kundkonto
 ms.topic: how-to
 ms.date: 08/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Om du vill lägga till flera användare till ett kund konto laddar du upp en datafil till Partner Center med fil formatet kommaavgränsad (. csv).
+description: Om du vill lägga till flera användare till en kunds konto laddar du upp en datafil till Partnercenter med filformatet kommaavgränsade värden (.csv).
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9f1d6e2a59bd892b7b79a1e3aa532242cdd0e302
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 268cc9cb42bc72a444da6aec99425c2b29b71cb4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474197"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150479"
 ---
-# <a name="upload-a-csv-file-of-users-to-a-customers-account"></a>Ladda upp en. csv-fil för användare till ett kund konto
+# <a name="upload-a-csv-file-of-users-to-a-customers-account"></a>Ladda upp en CSV-fil med användare till en kunds konto
 
 
-**Lämpliga roller**
+**Lämpliga roller:** Global administratör
 
-- Global administratör
+Lägg till flera användare till en kunds konto samtidigt genom att ladda upp en datafil i filformatet med kommaavgränsade värden (.csv) till Partnercenter. 
 
-Lägg till flera användare till ett kund konto samtidigt, genom att ladda upp en datafil i det kommaavgränsade värde fil formatet (. csv) till Partner Center. 
+## <a name="create-the-file-of-customer-users-and-upload-to-customer-account"></a>Skapa filen med kundanvändare och ladda upp till kundkontot
 
-## <a name="create-the-file-of-customer-users-and-upload-to-customer-account"></a>Skapa filen med kund användare och överför till kund konto
+1. Skapa en datafil med kommaavgränsade värden (.csv) med de data som beskrivs ovan. Spara filen så att du kan bläddra till den i ett senare steg. Se [Fält för CSV-filen för att importera flera användare för ett kundkonto.](file-customer-users.md) 
 
-1. Skapa en datafil med kommaavgränsade värden (. csv) med de data som beskrivs ovan. Spara filen så att du kan bläddra till den i ett senare steg. Se [fält för. csv-filen om du vill importera flera användare för ett kund konto](file-customer-users.md). 
+2. Logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard)
 
-2. Logga in på [instrument panelen](https://partner.microsoft.com/dashboard)för partner Center.
+3. I menyn i Partnercenter väljer **du Kunder** och sedan en kund i listan.
 
-3. Från menyn Partner Center väljer du **kunder** och väljer sedan en kund i listan.
+4. Välj kundens flik **Användare och licenser och** välj sedan Ladda upp **användare.**
 
-4. Välj fliken **användare och licenser** för kunden och välj sedan **överför användare**.
+5. Under **Ladda upp användarinformation** väljer du **Bläddra**.
 
-5. Under **överför användar information** väljer du **Bläddra**.
-
-6. Välj data fil i fil väljaren och välj sedan **Öppna**.
+6. I filväljaren väljer du din datafil och sedan **Öppna**.
 
 7. Välj **Verifiera**.
 
-    **Obs!**  De flesta fel uppstår på grund av problem med att skapa filer, inklusive information om saknade data, felaktiga eller dubbla e-postadresser eller för många poster i filen.
+    **Obs!**  De flesta fel vid skapande av konton orsakas av problem med datafiler, inklusive information som saknas, felaktiga eller duplicerade e-postadresser eller för många poster i filen.
 
-8. När Partner Center har verifierat filen väljer du den geografiska **platsen** för de nya användarna.
+8. När Partnercenter har verifierat filen väljer du den geografiska **platsen för** de nya användarna.
 9. Välj **Spara**.
-10. Ladda ned den tillfälliga lösen ords informationen för användarna.
+10. Ladda ned den tillfälliga lösenordsinformationen för användarna.
 
     >[!IMPORTANT]
-    > Se till att ladda ned filen med de tillfälliga lösen orden nu eftersom du inte kommer att kunna göra detta senare. Nya användare måste logga in på sitt nya konto med det tillfälliga lösen ordet för sina nya konton.
+    > Se till att ladda ned filen med de tillfälliga lösenorden nu eftersom du inte kan göra det senare. Nya användare måste logga in på sitt nya konto med det tillfälliga lösenordet för sina nya konton.
 
-11. Nya användare tilldelas automatiskt behörigheter för **kan använda licenser och tjänster** . 
+11. Nya användare tilldelas automatiskt behörigheter för **Can use licenses and services (Kan använda licenser och tjänster).** 
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Ge kunderna tillstånd i Partner Center att köpa sina egna produkter eller tjänster](give-customers-permission.md)
+- [Ge kunderna behörighet i Partnercenter att köpa egna produkter eller tjänster](give-customers-permission.md)

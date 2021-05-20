@@ -1,6 +1,6 @@
 ---
-title: Sälj kunder Microsoft Azure reservationer
-description: Som en moln lösnings leverantör kan du köpa, sälja eller hantera Azure-reservationer för kunder. Använd partner Center, Azure Portal eller partner Center API.
+title: Sälja kunder Microsoft Azure reservationer
+description: Som en Molnlösningsleverantör kan du köpa, sälja eller hantera Azure-reservationer för kunder. Använd Partner Center, Azure Portal eller Partner Center-API:et.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,52 +9,46 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 9dc92685503fd4b9b05e40337f72e810c1693779
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: b97cafea9ad2f36718418c7c7cfca5f91ee8849c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534904"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149476"
 ---
-# <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Sälj Microsoft Azure reservationer till kunder som använder Partner Center, Azure Portal eller API: er
+# <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Sälja Microsoft Azure reservationer till kunder med partnercenter, Azure Portal eller API:er
 
-**Lämpliga roller**
+**Lämpliga roller:** Administratörsagent | Global | Supportagent | Försäljningsagentens | Administratör för användarhantering
 
-- Administratörs agent
-- Global administratör
-- Support agent
-- Försäljnings agent
-- Administratör för användar hantering
-
-Som partner i Cloud Solution Provider-programmet (CSP) kan du köpa, sälja eller hantera Azure-reservationer för kunder. Använd partner Center, Azure Portal eller partner Center API.
+Som partner i Molnlösningsleverantör program (CSP) kan du köpa, sälja eller hantera Azure-reservationer för kunder. Använd Partner Center, Azure Portal eller Partner Center-API:et.
 
 > [!NOTE]
-> Den här artikeln gäller endast partner i CSP. Kunder som använder andra typer av prenumerationer (t. ex. betala per användning, enskilda, Microsoft-kundavtal eller Enterprise-avtal prenumerationer) bör i stället läsa [denna dokumentation om Azure-reservationer](/azure/cost-management-billing/reservations).
+> Den här artikeln gäller endast för partner i CSP. Kunder som använder andra typer av prenumerationer (till exempel prenumerationer med användningsbaserade betalning, enskilda prenumerationer, Microsoft-kundavtal- eller Enterprise-avtal) bör i stället läsa dokumentationen om [Azure-reservationer.](/azure/cost-management-billing/reservations)
 
-Partner i CSP-programmet kan erbjuda sina kunder Microsoft Azure reservationer. Kunder kan få betydande besparingar när de reserverar i förväg. Azure-reservationer ger kunderna enkelhet och flexibilitet på följande sätt:
+Partner i CSP-programmet kan erbjuda sina kunder Microsoft Azure reservationer. Kunder kan få betydande besparingar när de reserverar i förväg. Azure-reservationer erbjuder kunderna enkelhet och flexibilitet på följande sätt:
 
-- En eller tre års reservations villkor
+- Ett eller tre års reservationsvillkor
 - Lätt att komma igång; installationen slutfördes på några sekunder
-- Avbryta eller byta ut reserverade instanser när som helst för justerad åter betalning
-- Hantera användning av reserverade instanser på organisations-eller individuell avdelnings nivå
+- Avbryta eller byta ut reserverade instanser när som helst för justerad återbetalning
+- Hantera användning av reserverade instanser på organisations- eller avdelningsnivå
 
-Azure-reservationer kan överklaga till kunder på följande sätt:
+Azure-reservationer kan tilltala kunder på följande sätt:
 
-- Reservationer kan erbjuda betydande besparingar jämfört med PAYG-priser (betala per användning)
-- Bättre budgetering och prognostisering med förskotts betalning för ett år eller tre års villkor
-- Prioriterad beräknings kapacitet i den Azure-region som ligger närmast deras kontor
-- Azure-reservationer ger grunden för lösningar från slut punkt till slut punkt för infrastrukturen i kombination med program vara som Microsoft Windows Server och Azure SQL Database
+- Reservationer kan ge betydande besparingar i prissättningen för betala per användning (PAYG)
+- Bättre budgetering och prognostiserade prognoser med förskottsbetalning för ett eller tre år
+- Prioriterad databehandlingskapacitet i Den Azure-region som är närmast deras kontor
+- Azure-reservationer utgör grunden för hela infrastrukturlösningar i kombination med programvara som Microsoft Windows Server och Azure SQL Database
 
 >[!NOTE]
-> Du kan köpa, sälja och hantera Azure-reservationer i både Partner Center och Azure Portal och med hjälp av Partner Center API. Du kan också ge dina kunder tillstånd att köpa sina egna Azure-reservationer från en Azure-prenumeration som du har köpt för dem. Följ länkarna nedan för att lära dig hur.
+> Du kan köpa, sälja och hantera Azure-reservationer i både Partnercenter och Azure Portal och med partnercenter-API:et. Du kan också ge dina kunder behörighet att köpa sina egna Azure-reservationer från en Azure-prenumeration som du har köpt åt dem. Följ länkarna nedan för att lära dig hur du gör.
 
 ## <a name="azure-reservations-resources"></a>Resurser för Azure-reservationer
 
 |**För information om**   |**Läs detta**    |
 |:-----------------------------|:-----------------|
 | Dokumentation om Azure-reservationer för dina kunder | [Vad är Azure-reservationer?](/azure/billing/billing-save-compute-costs-reservations)
-|Köpa Azure-reservationer för dina kunder i Partner Center   |[Köp Azure-reservationer](azure-reservations-buying.md)
-|Hantera Azure-reservationer i Partner Center | [Hantera Azure-reservationer i Partner Center](azure-reservations-manage.md)
-|Fastställa rätt VM-storlek och verifiera kunds VM-användning   |[Storlek på virtuell dator för maximal användning av Azure-reservationer](azure-usage.md)   |
-|Köpa Azure-reservationer med partner Center API | [Köp Azure Reserved VM instances](/partner-center/develop/purchase-azure-reservations) i dokumentationen för partner Center-utvecklare   |
-|Ge kunderna tillstånd att köpa sina egna Azure-reservationer från din CSP-prenumeration. | [Ge kunderna tillstånd att köpa sina egna Azure-reservationer](give-customers-permission.md)   |
+|Köpa Azure-reservationer för dina kunder i Partnercenter   |[Köpa Azure-reservationer](azure-reservations-buying.md)
+|Hantera Azure-reservationer i Partnercenter | [Hantera Azure-reservationer i Partnercenter](azure-reservations-manage.md)
+|Fastställa rätt VM-storlek och verifiera kundens VM-användning   |[VM-storlek för maximal användning av Azure-reservationer](azure-usage.md)   |
+|Köpa Azure-reservationer med partnercenter-API:et | [Köp Azure Reserved VM Instances](/partner-center/develop/purchase-azure-reservations) i utvecklardokumentationen för Partnercenter   |
+|Ge kunderna tillstånd att köpa sina egna Azure-reservationer från din CSP-prenumeration. | [Ge kunderna behörighet att köpa sina egna Azure-reservationer](give-customers-permission.md)   |

@@ -1,6 +1,6 @@
 ---
-title: Analysera Azure-användning för att öka din verksamhet
-description: Lär dig hur du använder Partner Center för att hämta data om användningen av dina kunders Azure-prenumerationer. Data innehåller prenumerationer som säljs, i risk och som används.
+title: Analysera Azure-användning för att hjälpa din verksamhet att växa
+description: Lär dig hur du använder Partnercenter för att hämta data om användningen av dina kunders Azure-prenumerationer. Data omfattar sålda prenumerationer, riskfyllda prenumerationer och användning.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: amitravat
@@ -9,64 +9,59 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: 0a7bc34ded62eb9e19dbbad8e214eb30534b8ea6
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: e2acdb777e0ef77ebf9d08eed3d3842c74af9e18
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439112"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150241"
 ---
-# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Hämta data om hur bra dina kunder och Azure-prenumerationer gör
+# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Hämta data om hur bra det går för dina kunder och Azure-prenumerationer
 
 
 
-**Lämpliga roller**
+**Lämpliga roller:** Globala | Administratörsbehörighet för | Administratörsagent | Försäljningsagent
 
-- Global administratör
-- Administratör för användar hantering
-- Administratörs agent
-- Försäljnings agent
+Data driver affärsbeslut. Använd måtten på **azure-användningssidan** för att identifiera dina framgångar och områden som behöver mer uppmärksamhet. Använd den här informationen när du planerar nya affärsmål.
 
-Data enheter affärs beslut. Använd måtten på sidan **Azure-användning** för att identifiera dina framgångar och områden som behöver mer uppmärksamhet. Använd den här informationen när du planerar nya affärs mål.
-
-Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard)för att komma till **Azure-användning**. Välj **analys** på menyn Partner Center och välj sedan Azure- **användning**.
+För att komma till **Azure-användning loggar** du in på Partnercenter-instrumentpanelen . [](https://partner.microsoft.com/dashboard) Välj **Analytics** på Menyn i Partnercenter och välj sedan **Azure-användning.**
 
 > [!NOTE]
-> Användnings analys i Azure är endast tillgängligt för partner i Cloud Solution Provider-programmet.
+> Användningsanalys i Azure är endast tillgängligt för partner i Molnlösningsleverantör program.
 
 Vi spårar följande mått:
 
 ## <a name="summary"></a>Sammanfattning
 
-- **Totalt antal sålda Azure-prenumerationer**: antal prenumerationer som sålts under den angivna tids perioden  
-- **Kunder med användning**: antalet kunder med Azure-användning under den angivna tids perioden  
-- **Kunder utan användning**: antalet kunder utan Azure-användning under den angivna tids perioden  
+- **Totalt antal sålda Azure-prenumerationer:** Antalet sålda prenumerationer under den angivna tidsperioden  
+- **Kunder med användning:** Antal kunder med Azure-användning under den angivna tidsperioden  
+- **Kunder utan användning:** Antal kunder utan Azure-användning under den angivna tidsperioden  
 
-## <a name="top-5-customers-in-category"></a>De fem främsta kunderna i kategorin
+## <a name="top-5-customers-in-category"></a>De 5 främsta kunderna i kategorin
 
-- De fem främsta kunderna för den angivna kategorin  
+- De 5 främsta kunderna för den angivna kategorin  
 
-## <a name="azure-subscriptions-at-risk"></a>Azure-prenumerationer i fara
+## <a name="azure-subscriptions-at-risk"></a>Azure-prenumerationer i riskzonen
 
-Det här avsnittet visar den beräknade omsättnings risken för Azure-prenumerationer. Den här informationen kan användas av partner för att engagera kunder och minimera omsättningen
+Det här avsnittet anger den förväntade omsättningsrisken för Azure-prenumerationer. Den här informationen kan användas av partner för att interagera med kunder och minimera omsättning
 
 ## <a name="subscriptions-without-usage"></a>Prenumerationer utan användning
 
-- Lista över specifika prenumerationer utan Azure-användning under den angivna tids perioden  
+- Lista över specifika prenumerationer utan Azure-användning under den angivna tidsperioden  
 
-## <a name="azure-subscription-churn"></a>Azure-prenumerationens omsättning
+## <a name="azure-subscription-churn"></a>Omsättning för Azure-prenumeration
 
-- **Aktiva prenumerationer**: antal aktiva prenumerationer efter datum  
-- **Avetablerade prenumerationer**: antal avetablerade eller inaktiverade prenumerationer efter datum  
+- **Aktiva prenumerationer:** Antal aktiva prenumerationer efter datum  
+- **Avetablera prenumerationer:** Antal prenumerationer som avetablerar eller pausas efter datum  
 
-## <a name="customer-count"></a>Kund antal
+## <a name="customer-count"></a>Antal kunder
 
-- Nya kunder som förvärv ATS under den angivna tids perioden  
+- Nya kunder som köpts under den angivna tidsperioden  
 
 ## <a name="azure-subscription-retention"></a>Kvarhållning av Azure-prenumeration
 
-- Antalet prenumerationer som har förnyats.
+- Antalet prenumerationer som förnyades.
 
  ## <a name="next-steps"></a>Nästa steg
 
-- [Köp Azure-planen för kunder & få till gång till de senaste Azure-tjänsterna enligt priser enligt principen betala per användning](purchase-azure-plan.md)
+- [Köp Azure-planen för kunder & få åtkomst till de senaste Azure-tjänsterna till betala-enligt användning-priser](purchase-azure-plan.md)

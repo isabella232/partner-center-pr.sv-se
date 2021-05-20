@@ -4,51 +4,48 @@ ms.topic: article
 ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Förbättra företags profilen i Microsoft partner Directory. Lär dig mer om de avancerade specialiseringar som du kan uppnå tillsammans med din befintliga guld-och silver kompetens.
+description: Förbättra din företagsprofil i Microsofts partnerkatalog. Lär dig mer om de avancerade specialiseringar som du kan uppnå tillsammans med dina befintliga guld- och silverkompetenser.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1f941894c8d4ac8611c4b1869bd731d6b56ec4ae
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: 785bed684e883c19782d820bf2644e050842b54b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557774"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150462"
 ---
-# <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Få en avancerad specialisering för att presentera dina verifierade funktioner
+# <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Få en avancerad specialisering för att demonstrera dina validerade funktioner
 
-**Lämpliga roller**
+**Lämpliga roller:** Global | Kontoadministratör
 
-- Global administratör
-- Kontoadministratör
+Microsofts avancerade specialiseringar bygger på de relaterade [guldkompetenser](learn-about-competencies.md) som en partner kan tjäna. Genom att tjäna guldkompetenser tillsammans med deras relaterade avancerade specialiseringar kan partner ytterligare särskilja sina funktioner till kunder.
 
-Microsofts avancerade specialisering bygger på de relaterade [guld kompetenserna](learn-about-competencies.md) som en partner kan tjäna på. Med hjälp av guld kompetenser, tillsammans med deras relaterade avancerade specialisering, kan partner ytterligare särskilja sina funktioner till kunder.
+För att få en avancerad specialisering måste en partner ofta uppfylla krävande krav, till exempel att hämta kundreferenser, genomgå en granskning från tredje part, bevisa att en relevant kompetensuppsättning uppnås och uppfylla vissa andra prestandamått.
 
-För att få en avancerad specialisering måste en partner ofta uppfylla krävande krav, till exempel för att erhålla kund referenser, genomgå en granskning från tredje part, som bevisar att en relevant kunskaps uppsättning har uppnåtts och uppfyller vissa andra prestanda mått.
+Genom att uppfylla dessa strikta krav kan partner verifiera sin djupa kunskap, omfattande erfarenhet och beprövade framgång med att leverera skräddarsydda kundlösningar för områden med hög kundefterfrågan och relevans.
 
-Genom att uppfylla dessa strikta krav kan partners sedan validera sin djupgående kunskap, omfattande erfarenhet och beprövad framgång vid leverans av skräddarsydda, kund lösningar för områden med hög kund efter frågan och relevans.
-
-Partner som har en avancerad specialisering får en kundriktad etikett som de kan visa på sin företags profil i [Microsoft Solution Provider Finder](https://www.microsoft.com/solution-providers/home). Den här etiketten validerar ytterligare partnerns funktioner, samtidigt som de ger åtkomst till kopplade förmåner, utökad kund räckvidd och större kund förtroende.
+Partner som får en avancerad specialisering får en kundriktad etikett som de kan visa i sin företagsprofil i [Microsofts lösningsleverantörs finder](https://www.microsoft.com/solution-providers/home). Den här etiketten validerar ytterligare partnerns funktioner, samtidigt som den ger dem åtkomst till associerade fördelar, utökad kund räckvidd och större kundförtroende.
 
 > [!NOTE]
-> Mer information om avancerade specialisering finns på [sidan Microsoft Partner Network avancerade specialiseringar](https://partner.microsoft.com/membership/advanced-specialization).
+> Mer information om avancerade specialiseringar finns på [sidan Microsoft Partner Network avancerade specialiseringar.](https://partner.microsoft.com/membership/advanced-specialization)
 
-## <a name="advanced-specialization-areas"></a>Avancerade specialiserings områden
+## <a name="advanced-specialization-areas"></a>Avancerade specialiseringsområden
 
-Varje avancerad specialisering motsvarar ett lösnings utrymme:
+Varje avancerad specialisering motsvarar ett lösningsområde:
 
 - Azure
 - Företagsprogram
-- Modern arbete
+- Modernt arbete
 - Säkerhet
 
-I **Azures** avancerade specialisering ingår:
+**Avancerade specialiseringar** i Azure omfattar:
 
 - Analys på Microsoft Azure
 - Migrering av informationslager till Microsoft Azure
 - Kubernetes på Microsoft Azure
-- Migrering av Linux-och öppen källkod-databaser till Microsoft Azure
+- Migrering av Linux- och databaser med öppen källkod till Microsoft Azure
 - Microsofts virtuella Windows-datorer
 - Modernisering för webbprogram till Microsoft Azure
 - SAP på Microsoft Azure
@@ -56,30 +53,30 @@ I **Azures** avancerade specialisering ingår:
 
 **Business Applications** avancerade specialiseringar är:
 
-- Utveckling av program med låg kod
-- Små och medel stora företags hantering
+- Programutveckling med lite kod
+- Small and Midsize Business Management
 
-**Moderna** arbetsavancerade specialiseringar omfattar:
+**Avancerade specialiseringar** för modernt arbete omfattar:
 
 - Hantering av införande och ändring
 - Anropa Microsoft Teams
 - Möten och mötesrum för Microsoft Teams
 - Distribution av samarbete
 
-Avancerad **säkerhets** specialisering omfattar:
+**Avancerade** specialiseringar för säkerhet omfattar:
 
 - Identitets- och åtkomsthantering
 - Hotskydd
 
 > [!NOTE]
-> Om du vill veta mer om varje avancerad specialisering, tillsammans med förutsättningarna och kraven, går du till [sidan avancerade specialiseringar](https://partner.microsoft.com/membership/advanced-specialization). När du är redo att tillämpa för en avancerad specialisering kontrollerar du förloppet genom att logga in på [instrument panelen](https://partner.microsoft.com/dashboard)för partner Center. Mer information om hur du kommer åt det här avsnittet av Partner Center finns i [tillämpa för en avancerad specialisering](advanced-specializations-apply.md).
+> Mer information om varje avancerad specialisering, tillsammans med dess krav och krav, finns på [sidan Avancerade specialiseringar.](https://partner.microsoft.com/membership/advanced-specialization) När du är redo att ansöka om en avancerad specialisering kontrollerar du förloppet genom att logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard) Mer information om hur du kommer åt det här området i Partnercenter finns [i Apply for an advanced specialization](advanced-specializations-apply.md).
 
 ## <a name="next-steps"></a>Nästa steg
 
-- Använd partner Center för att söka [efter och kontrol lera status för avancerade specialiseringar](advanced-specializations-apply.md)
+- Använd Partnercenter [för att söka efter och kontrollera status för avancerade specialiseringar](advanced-specializations-apply.md)
 
-- Lär dig mer om [avancerade specialiseringar, deras fördelar och unika krav](https://partner.microsoft.com/membership/advanced-specialization)
+- Läs mer [om avancerade specialiseringar, deras fördelar och unika krav](https://partner.microsoft.com/membership/advanced-specialization)
 
-- Lär dig mer om att [uppnå kompetens för Microsoft silver eller Gold-medlemskap](learn-about-competencies.md)
+- Lär dig hur [du uppnår Microsofts kompetenser för silver- eller guldmedlemskap](learn-about-competencies.md)
 
 - Läs mer om [Microsoft Partner Network kompetenser](https://partner.microsoft.com/membership/competencies)

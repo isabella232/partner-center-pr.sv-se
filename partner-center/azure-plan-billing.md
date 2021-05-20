@@ -1,169 +1,165 @@
 ---
-title: Fakturering av Azure-plan – faktura & rekognoseringar-filer
+title: Fakturering av Azure-plan – & rekognoseringsfiler
 ms.topic: article
 ms.date: 01/20/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig hur du får åtkomst till och förstår den faktura och avstämnings fil struktur som är relaterad till faktureringen för Azure-prenumerationen.
+description: Lär dig hur du får åtkomst till och förstår strukturen för faktura- och avstämningsfiler relaterade till fakturering för Azure-planen.
 author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 819f90ca9a8467de4a8001a1b10f8409d3fb1b81
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: 757383ee264e58e7b4dc8ffefafe213cb49acb79
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98925006"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149799"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Ny handelsupplevelse i CSP – Azure-fakturering 
 
-**Lämpliga roller**
+**Lämpliga roller:** Administratörsagent | Faktureringsadministratörskonto | Global administratör
 
-- Administratörs agent
-- Faktureringsadministratör
-- Global administratör
+Den här artikeln förklarar hur du kommer åt och förstår strukturen för faktura- och avstämningsfiler relaterade till fakturering för Azure-planen. Fakturering enligt Azure-planen är en förenklad faktureringsupplevelse med ett justerat enskilt faktureringsdatum och kalendermånadsbaserad faktureringsperiod.
 
-Den här artikeln förklarar hur du får åtkomst till och förstår strukturen på fakturan och avstämnings filen som är relaterad till faktureringen för Azure-prenumerationen. Faktureringen enligt Azure-planen är en förenklad fakturerings upplevelse med ett justerat fakturerings datum och en månads-baserad fakturerings period.
+## <a name="summary-of-billing-essentials"></a>Sammanfattning av faktureringsinformation
 
-## <a name="summary-of-billing-essentials"></a>Sammanfattning av fakturerings grunderna
+- **Fakturadatum:** Faktura- och avstämningsfilen blir tillgänglig i Partnercenter-instrumentpanelen/API:et den 8:e (midnatt UTC).
 
-- **Faktura datum**: faktura-och avstämnings fil kommer att finnas i Partner Center Dashboard/API med 8 (midnatt UTC).
+- **Faktureringsperiod för** faktura: Faktureringsperioden justeras till kalendermånaden, till exempel 10/1-10/31, 11/1-11/30.
 
-- **Fakturerings period för faktura**: faktura fakturerings perioden justeras till kalender månaden, till exempel 10/1-10/31, 11/1-11/30.
+- **Avgiftstjänstperioder:** Avgifterna justeras efter kalendermånaden. Om den fakturerade partnern till exempel lägger till Azure-tjänster via en Azure-plan den 10/15 och kunden börjar använda Azure-tjänster den 10/15, får den fakturerade partnern faktura/rekognosering den 11/8 för kundförbrukning för tjänstperioden 10/15–10/31. Nästa månads faktura som genereras den 12/8 innehåller alla avgifter för tjänstperioden 11/1–11/31.
 
-- **Debitering av service perioder**: avgifterna justeras till kalender månaden. Om den fakturerade partnern till exempel lägger till Azure-tjänster via en Azure-plan på 10/15 och kunden börjar förbrukningen av Azure-tjänster på 10/15, får fakturerad partner faktura-rekognoseringar på 11/8 för kund förbrukning för service perioden 10/15-10/31. Nästa månads faktura som ska genereras på 12/8 innehåller alla avgifter för service perioden 11/1-11/31.
+- **Fakturabetalning:** 60 dagar netto.
 
-- **Faktura betalnings villkor**: net 60 dagar.
+- **Fakturavaluta:** Från och med 28 januari 2021 debiteras partner i regionen EU/EFTA och Storbritannien som har nya kunder och befintliga CSP-kunder som köper nya handelserbjudanden för första gången vars klienter skapades före den 11 maj 2020. Partner som är belägna utanför EU/EFTA- och Storbritannien-regionen fortsätter att debiteras i partnerns platsvaluta.
 
-- **Faktura valuta**: från januari 28 2021, partners i EU/Efta-och Storbritannien-regionen som har nya kunder och befintliga CSP-kunder som köper nya Commerce-erbjudanden för första gången vars innehavare skapades före 11 maj 2020, debiteras för dessa inköp i partner platsens valuta. Partner som finns utanför EU/EFTA-och Storbritannien-regionen fortsätter att faktureras i partner platsens valuta.
+- **Partnerincitament:** Betalas 45 dagar från slutet av fakturamånaden.
 
-- **Partner incitament**: betalda 45 dagar från slutet av faktura månaden.
+## <a name="access-your-invoices-and-reconciliation-files"></a>Få åtkomst till dina fakturor och avstämningsfiler
 
-## <a name="access-your-invoices-and-reconciliation-files"></a>Få åtkomst till dina fakturor och avstämnings filer
+Den globala administratören eller faktureringsadministratören för ditt företag får ett e-postmeddelande när en faktura är redo att visas.
 
-Den globala administratörs-eller fakturerings administratören för ditt företag får ett e-postmeddelande när en faktura är klar att visa.
-
-För att få åtkomst till fakturan och avstämnings filen:
+Så här kommer du åt fakturan och avstämningsfilen:
 
 1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard/).
 
-2. Från menyn Partner Center väljer du **fakturering**.
+2. I menyn i Partnercenter väljer du **Fakturering.**
 
-3. Välj fliken för den **återkommande** **tiden** och den valuta som du är intresse rad av.
+3. Välj fliken för **Återkommande och** **Engångs och den** valuta som du är intresserad av.
 
-   :::image type="content" source="images/azure/billing3.png" alt-text="fakturerings":::
+   :::image type="content" source="images/azure/billing3.png" alt-text="Fakturering":::
 
-4. Välj **faktura** eller **avstämnings fil**.  
+4. Välj **Faktura eller** **Avstämningsfil**.  
 
-   Om du vill visa historiska fakturor och rekognoseringar-filer expanderar du raden för fakturerings historiken nedan.
+   Om du vill visa historiska fakturor och rekognoseringsfiler expanderar du raden Faktureringshistorik nedan.
 
-## <a name="understanding-usage-data"></a>Förstå användnings data 
+## <a name="understanding-usage-data"></a>Förstå användningsdata 
 
-1. Azure-prenumeration är rot-eller toppnivå behållaren för användning. All användning är bunden tillbaka till en enda Azure-plan.
+1. Azure-planen är rot- eller toppnivåcontainern för användning. All användning är kopplad till en enda Azure-plan.
 
-2. Inom en plan kommer det att finnas en eller flera Azure-prenumerationer. Dessa är behållare som används för resurs hantering och distribution. 
+2. Inom en plan finns det en eller flera Azure-prenumerationer. Det här är containrar som används för resurshantering och distribution. 
 
-3. I en prenumeration lägger resurs grupper till i grupp resurser. Varje resurs distribueras till en resurs grupp. 
+3. I en prenumeration lägger resursgrupper till i gruppresurser. Varje resurs distribueras till en resursgrupp. 
 
-4. Exempel på resurser är virtuella datorer och lagrings konton. 
+4. Exempel på resurser är virtuella datorer och lagringskonton. 
 
-5. Antal resurs utsändare: mätare är mätningar av förbrukningen av en resurs och en resurs kan generera användning för flera mätare. Mätare identifieras av ett ProductId-, SKUId-och AvailabilityId. 
+5. Resursavsändarmätare: Mätare är mätningar av förbrukningen för en resurs och en resurs kan generera användning för flera mätare. Mätare identifieras av ett ProductId, SKUId och AvailabilityId. 
 
-### <a name="hierarchy-of-subscription-resource-groups-and-metering"></a>Hierarki för resurs grupper för prenumerationer och mätning
+### <a name="hierarchy-of-subscription-resource-groups-and-metering"></a>Hierarki för prenumerationsresursgrupper och mätning
 
-**Azure-konto (klient organisation)**
+**Azure-konto (klient)**
 
 - Prenumeration A
     - ResourceGroup 1
         - Virtuell dator (resurs)
-            - Beräknings mätare
+            - Beräkningsmätare
         - Virtuellt nätverk (resurs)
-            - Ingen fakturerings mätare
+            - Ingen faktureringsmätare
 
     - ResourceGroup 2
         - Virtuell dator (resurs)
-            - Dator mätare
-        - Premium SSD-hanterad disk (resurs)
-            - Lagrings kapacitets mätare
-            - Lagrings åtgärds mätare
+            - Datormätare
+        - Premium SSD hanterad disk (resurs)
+            - Lagringskapacitetsmätare
+            - Mätare för lagringsåtgärder
 
-- Prenumeration B-ResourceGroup 1 – Azure SQL (resurs)-DTU-mätare-VPN Gateway (resurs) – VPN gateway-mätare
+- Prenumeration B – ResourceGroup 1 – Azure SQL (resurs) – DTU-mätare – VPN Gateway (resurs) – VPN-gatewaymätare
 
     - ResourceGroup 2
-        - Virtual Network gränssnitt (resurs)
-            - Ingen fakturerings mätare
+        - Virtual Network (resurs)
+            - Ingen faktureringsmätare
 
-## <a name="read-the-invoice"></a>Läs fakturan
+## <a name="read-the-invoice"></a>Läsa fakturan
 
-1. Fakturan kommer att vara tillgänglig senast den åttonde dagen i varje månad.
+1. Fakturan blir tillgänglig senast den åttonde i varje månad.
 
 2. Partner har 60 dagar på sig att betala.
 
-3. Fakturerings perioden kommer att avse en viss kalender månad, till exempel 10/1-10/31.
+3. Faktureringsperioden omfattar en viss kalendermånad, till exempel 10/1-10/31.
 
-4. Avgifterna är netto av justeringar (beloppet är netto av "partner intjänad kredit för tjänster som hanteras").
+4. Avgifterna är nettojusteringar (beloppet är netto efter "Partner-intjänad kredit för hanterade tjänster").
 
-5. Granska fakturan rekognoseringar-filen och den dagliga, beräknade användnings filen för ytterligare fakturerings information.
+5. Granska fakturans rekognoseringsfil och den dagliga klassificerade användningsfilen för ytterligare faktureringsinformation.
 
-   :::image type="content" source="images/azure/invoice1.png" alt-text="Voice":::
+   :::image type="content" source="images/azure/invoice1.png" alt-text="Faktura":::
 
-## <a name="read-the-invoice-reconciliation-file"></a>Läs faktura avstämnings filen
+## <a name="read-the-invoice-reconciliation-file"></a>Läsa fakturaavstämningsfilen
 
-1. Varje kombination av Azure-plan och-mätare kan ha upp till två fakturerings rader i rekognoseringar-filen.
+1. Varje kombination av Azure-plan och mätare kan ha upp till två faktureringsrader i rekognoseringsfilen.
 
-2. Om mätaren är kvalificerad för någon typ av rabatt eller kredit (till exempel rabatterade rabatter eller partner intjänade kredit för tjänster som hanteras) under hela kalender månaden, kommer rekognoseringar-filen bara att innehålla en fakturerings rad. Kolumnen **PriceAdjusmentDescription** kommer att referera till rabatten eller den intjänade krediten.
+2. Om mätaren är kvalificerad för någon typ av rabatt eller kredit (till exempel nivåindelade rabatter eller partnerintjänad kredit för tjänster som hanteras) under hela kalendermånaden innehåller rekognoseringsfilen endast en faktureringsrad. Kolumnen **PriceAdjusmentDescription refererar till** rabatten eller den intjänade krediten.
 
-3. Om det inte finns några resurser för en viss mätare som är kvalificerad för rabatt eller partner intjänad kredit, kommer rekognoseringar-filen bara innehålla en fakturerings rad och det effektiva enhets priset blir åter försäljnings priset (vilket är enhets priset).
+3. Om det inte finns några resurser för en viss mätare som är kvalificerade för rabatt eller partner-intjänad kredit innehåller rekognoseringsfilen bara en faktureringsrad och det effektiva enhetspriset är detaljhandelspriset (vilket är enhetspriset).
 
-4. Om mätaren eller eventuella resurser som avger denna mätare, kvalificerat för **partner intjänad kredit för tjänster som hanteras** i en del av månaden, innehåller rekognoseringar-filen två fakturerings rader. En rad representerar de dagar som mätaren kvalificeras och den andra raden visar de dagar som mätaren inte kvalificerade sig.
+4. Om mätaren, eller några resurser som  sänder mätaren, är kvalificerad för partner-intjänad kredit för tjänster som hanteras under en del av månaden, innehåller rekognoseringsfilen två faktureringsrader. En rad representerar de dagar då mätaren kvalificerades och den andra raden representerar de dagar då mätaren inte var kvalificerad.
 
-## <a name="read-the-daily-usage-file"></a>Läs den dagliga användnings filen
+## <a name="read-the-daily-usage-file"></a>Läsa filen för daglig användning
 
-- Prenumerations mätare enligt en Azure-plan klassificeras och ackumuleras per dag.
+- Prenumerationsmätare under en Azure-plan klassificeras och ackumuleras dagligen.
 
-- **Partner intjänad kredit för tjänster som hanteras** bestäms och tillämpas dagligen.
+- **Partnerns intjänade kredit för** tjänster som hanteras fastställs och tillämpas dagligen.
 
-- Varje prenumerations mätare har en rad för varje dag i månaden där förbrukningen pågick.
+- Varje prenumerationsmätare har en rad för varje dag i månaden där det fanns förbrukning.
 
 - I exemplet nedan:
 
-  - Mätar kvalificerare för **partner intjänade krediter för tjänster som hanteras** från 7/1-7/3 (Observera att det effektiva enhets priset är i detalj handels pris minus partner intjänande
+  - Mätare som är kvalificerade för partner-intjänad kredit för tjänster som hanteras från 7/1 till 7/3 (observera att det effektiva enhetspriset är återförsäljarpris minus partner-intjänad kredit. 
 
-  - Mätaren var inte berättigad till **partner intjänad kredit för tjänster som hanteras** från 7/4-7/7 (Observera att det effektiva enhets priset är försäljnings pris).
+  - Meter var inte  kvalificerat för partner-intjänad kredit för tjänster som hanteras 7/4–7/7 (observera att det effektiva enhetspriset är återförsäljarpris).
 
-  - Mätning som är kvalificerad för **partner intjänad kredit för tjänster som hanteras** från 7/8-7/31 (Observera att det effektiva enhets priset är åter försäljnings pris minus partner intjänad kredit)
+  - Mätare som är kvalificerad för partner-intjänad kredit för tjänster som hanteras från 7/8 till 7/31 (observera att det effektiva enhetspriset är återförsäljarpris minus partners intjänade kredit). 
 
    :::image type="content" source="images/azure/pecfinal.png" alt-text="recon2":::
 
-## <a name="invoice-in-customer-currency"></a>Faktura i kund valuta
+## <a name="invoice-in-customer-currency"></a>Faktura i kundvaluta
 
-Azure-tjänster via en Azure-prenumeration priss ätts i USD och faktureras i kund landets tilldelade valuta. Om fakturerings valutan är icke-USD visas den utländska växelkursen (FX) som används på den sista sidan i fakturan. FX-priser fastställs varje månad och tillämpas på följande faktura. En fullständig lista över lands valutor finns i den [nya Commerces tillgänglighet för land och kund valuta mat ris](https://go.microsoft.com/fwlink/?linkid=2112354).
+Azure-tjänster via en Azure-plan prissätts i USD och faktureras i kundens landstilldelade valuta. Om faktureringsvalutan inte är USD visas det valutautbytespris (FX) som används på den sista sidan på fakturan. FX-priser bestäms varje månad och tillämpas på följande faktura. En fullständig lista över valutor för länder finns i den nya handelslösningen med [landstillgänglighet och kundvalutamatrisen](https://go.microsoft.com/fwlink/?linkid=2112354).
 
-Microsoft följer Londons aktie kurs för konvertering. Vi använder växelkursen, som är lika med den växelkurs som inhämtats den senaste sekunden i månaden för den senaste arbets dagen i månaden för Londons fondbörs. FX-priserna kommer att uppdateras och vara tillgängliga på dagen före den första av den månad som de gäller.
+Microsoft följer London-börsen för konvertering. Vi använder växelkursen, som är lika med växelkursen som avbildades den sista sekunden av den sista arbetsdagen i månaden på London-börsen. FX-priserna uppdateras och är tillgängliga dagen före den första i månaden som de gäller för.
 
 ## <a name="azure-reservations"></a>Azure-reservationer
 
 
-Om du köper [Azure-reservationer](azure-reservations.md) via en Azure-prenumeration kan du välja antingen en gång eller månatlig fakturering.
+Om du [köper Azure-reservationer](azure-reservations.md) via en Azure-plan kan du välja antingen en gång eller månatlig fakturering.
 
 
 ## <a name="azure-spending"></a>Utgift i Azure
 
-Den befintliga Azure-utgifts upplevelsen uppdateras för att stödja den nya faktureringen av Azure-plan i Partner Center. Detta gör att partner kan:
+Den befintliga Azure-utgiftsupplevelsen har uppdaterats för att stödja den nya Azure-planfakturering i Partnercenter. Detta gör att partner kan:
 
-- Visa, hantera och ta emot aviseringar för budget uppsättning på en kund nivå 
+- Visa, hantera och ta emot aviseringar för budget som angetts på kundnivå 
 
-- Visa totala uppskattade utgifter i en Azure-plan (uppdelad efter resurs och mätar nivå)
+- Visa totala beräknade utgifter för en Azure-plan (uppdelade efter resurs- och mätarnivå)
 
-Eftersom fakturerings modellen för Azure-tjänster via en Azure-plan är efter löne förbrukning, för att undvika en större faktura än förväntat, kan partner tillämpa en månads budget och spåra procent andelen av användningen. En budget kan tillämpas på en kund eller flera kunder på en och samma tidpunkt. 
+Eftersom faktureringsmodellen för Azure-tjänster via en Azure-plan är förbrukning efter betalning kan partner använda en månatlig budget och spåra procentandelen av användningen för att undvika en större faktura än förväntat. En budget kan tillämpas på en kund eller flera kunder i taget. 
 
 :::image type="content" source="images/azure/azurespend.png" alt-text="Utgift i Azure":::
 
 ## <a name="next-steps"></a>Nästa steg
 
-- Se hur partnern för intjänad kredit (PEC) beräknas. Logga in på Partner Center- [instrumentpanelen](https://partner.microsoft.com/dashboard/) och leta upp pris listan som är tillgänglig.
+- Se hur partnerns intjänade kredit (PEC) beräknas. Logga in på instrumentpanelen [i Partnercenter](https://partner.microsoft.com/dashboard/) och leta upp den tillgängliga prislistan.
 
-- Lär dig mer om [att köpa Azure-prenumerationen](purchase-azure-plan.md)
+- Lär dig mer [om att köpa Azure-planen](purchase-azure-plan.md)
 
-- Se [pris listan för den nya Commerce-upplevelsen i CSP](azure-plan-price-list.md)
+- Se [prislistan för den nya handelsupplevelsen i CSP](azure-plan-price-list.md)

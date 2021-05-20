@@ -1,43 +1,41 @@
 ---
-title: Använda kanal incitaments plattform (CHIP)
+title: Använda CHIP (Channel Incentives Platform)
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Lär dig hur du använder en kanal incitaments plattform (CHIP) för dina stimulans arbeten. OBS! den här plattformen kommer att dras tillbaka i slutet av 2021.
+description: Lär dig hur du använder CHIP (Channel Incentives Platform) för ditt incitamentsarbete. Observera att den här plattformen kommer att dras tillbaka i slutet av 2021.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 386acaadc74c1c8247a42cebc98c3d325ba43511
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: ebee6f49a57eb56429f33291768347be505e3b37
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570408"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148966"
 ---
-# <a name="navigate-the-channel-incentives-platform-chip"></a>Navigera till kanal incitaments plattformen (CHIP)
+# <a name="navigate-the-channel-incentives-platform-chip"></a>Navigera på CHIP (Channel Incentives Platform)
+
+**Lämpliga roller:** CHIP-administratör
 
 >[!NOTE]
->CHIPs plattformen kommer att dras tillbaka i slutet av 2021.
+>CHIP-plattformen dras tillbaka i slutet av 2021.
 
-**Lämpliga roller**
+## <a name="sign-into-the-chip-dashboard"></a>Logga in på CHIP-instrumentpanelen
 
-- CHIPs administratör
+Chip (Channel Incentives Platform) ger åtkomst till incitamentsdata för specifika Microsoft Channel Incentives-program och visar uppdaterad intäktsinformation för försäljning av Microsoft-produkter.
 
-## <a name="sign-into-the-chip-dashboard"></a>Logga in på instrument panelen för CHIP
-
-Kanalen incitaments plattform (CHIP) ger till gång till stimulans data för vissa Microsoft Channel-incitament, och visar uppdaterad information om försäljning av Microsoft-produkter.
-
-För att registrera sig i CHIP får den primära kontakten för ditt företag en inbjudan som innehåller en unik Inbjudnings kod (UIC). Du måste använda koden för att få åtkomst till kretsen för första gången.
+För att registrera dig i CHIP får den primära kontakten för ditt företag en inbjudan som innehåller en unik inbjudningskod (UIC). Du måste använda koden för att få åtkomst till CHIP för första gången.
 
 
-Du kan logga in och navigera enligt följande:
+Du kan logga in och navigera på följande sätt:
 
-1. Öppna CHIP och ange ditt Microsoft-ID (tidigare Live ID) och lösen ord på inloggnings sidan och klicka sedan på Logga in.
+1. Öppna CHIP och ange ditt Microsoft-ID (tidigare Live ID) och lösenord på inloggningssidan och klicka sedan på Logga in.
  
-1. Välj det program som du vill få åtkomst till.
-Härifrån kan du Visa dina **prestanda** och **intäkter** för det program som du har valt. 
+1. Välj det program som du vill komma åt.
+Därifrån kan du visa prestanda **och** **intäkter för** det program som du har valt. 
 
 ## <a name="next-steps"></a>Nästa steg
 

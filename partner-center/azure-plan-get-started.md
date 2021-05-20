@@ -1,6 +1,6 @@
 ---
 title: Påbörja flytten till Azure-planen
-description: Lär dig mer om vad du och dina kunder behöver veta om hur du använder Azures betala per användning-plan, inklusive första stegen, säkerhets åtgärder och hur du kommer igång.
+description: Lär dig vad du och dina kunder behöver veta om att använda Azures betala enligt plan, inklusive första steg, säkerhetsåtgärder och hur du kommer igång.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,69 +9,66 @@ ms.author: amrava
 ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: fcf75acef4afb80c5aec889911ffc2b4a53b6edd
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 58feabdefb02660559c69f61190070310768b947
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534921"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149663"
 ---
-# <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Börja använda betala per användning-pris med Azure-prenumerationen
+# <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Börja använda Betala enligt användning-priser med Azure-planen
 
-**Lämpliga roller**
-
-- Administratörs agent
-- Försäljnings agent
+**Lämpliga roller:** Administratörsagent | Försäljningsagent
 
 
-Microsoft har lanserat en ny Commerce-upplevelse i Partner Center.  Med den nya Commerce-upplevelsen får partners till gång till Azure-tjänster med betala per användning-pris för kunder enligt Microsofts kund avtal.
+Microsoft har introducerat en ny handelsupplevelse i Partnercenter.  Med den här nya handelsupplevelsen får partner tillgång till Azure-tjänster till betala-enligt användning-priser för kunder under Microsoft-kundavtal.
 
-Den här planen fören klar köp upplevelsen – du kan ha flera Azure-prenumerationer i en Azure-plan. Du behöver inte längre skicka en separat order per Azure-prenumeration. I den här nya Commerce Experience för Azure har vi justerat till en enda global pris princip som gör det möjligt för CSP-partner att erbjuda Azure till de publicerade priserna.
+Den här planen förenklar köpupplevelsen – du kan ha flera Azure-prenumerationer i en Azure-plan. Du behöver inte längre skicka en separat order per Azure-prenumeration. Och i den här nya handelsupplevelsen för Azure har vi anpassat oss till en enda global prisprincip som gör det möjligt för CSP-partner att erbjuda Azure till de publicerade priserna.
 
-Våra kunders digitala omvandlings behov kräver nya kunskaper från partner. Många kunder letar efter partner för att tillhandahålla tjänster ovan och bortom transaktionen för att göra sin moln resa smidigare och hjälpa att använda Azure-tjänster på ett effektivt sätt. Microsoft-partner spelar en viktig roll i alla stadier av kund livs cykeln. De här typerna av partner tjänster är av olika slag och innefattar hantering av Azure-egendom, princip-och styrnings hantering, installation och konfiguration fin justering, teknisk support och flera olika tjänster. De kräver att en partner är väl bekant med kundens Azure-miljö och har kontinuerlig och lämplig styrning och kontroll över de underliggande resurser som de hanterar. Fakturerings partner som tillhandahåller den här 24 X 7-moln drifts hanteringen blir berättigade till en **partner med intjänad kredit för tjänster som hanteras** för det arbetet.
+Våra kunders behov av digital omvandling kräver nya kunskaper från partner. Många kunder letar efter partner som tillhandahåller tjänster utöver transaktionen för att göra molnresan smidigare och hjälpa till att använda Azure-tjänster effektivt. Microsoft-partner spelar en viktig roll i alla steg i kundens livscykel. Dessa typer av partnertjänster är på gång och omfattar övervakning av Azure-egendom, princip- och styrningshantering, konfigurationsjustering, teknisk support och en mängd andra tjänster. De kräver att en partner är bekant med kundens Azure-miljö och har kontinuerlig och lämplig styrning och kontroll över de underliggande resurser som de hanterar. Faktureringspartner som tillhandahåller den här molndriftshanteringen dygnet runt blir berättigade till partner-intjänad kredit för tjänster som **hanteras** för arbetet.
 
-## <a name="make-sure-your-customers-have-signed-the-microsoft-customer-agreement"></a>Se till att dina kunder har undertecknat Microsofts kund avtal
+## <a name="make-sure-your-customers-have-signed-the-microsoft-customer-agreement"></a>Kontrollera att dina kunder har signerat Microsoft-kundavtal
 
-Sedan den 1 oktober 2019 är Microsofts kund avtal ett avtal som gör det möjligt att förenkla och effektivisera kund inköps upplevelsen med en helt digital process. Alla kunder som vill dra nytta av den nya Commerce-upplevelsen i CSP för Azure måste teckna Microsofts kund avtal.
+Sedan den 1 oktober 2019 finns Microsoft-kundavtal ett permanent avtal som förenklar och effektiviserar kundernas köpupplevelse med en helt digital process. Alla kunder som vill dra nytta av den nya handelsupplevelsen i CSP för Azure måste signera Microsoft-kundavtal.
 
-Partner som vill använda Transact under den nya Azure-planen och göra en ny beställning bör bekräfta kund godkännande av Microsofts kund avtal med hjälp av instrument panelen för partner Center och API i produktion.
+Partner som vill göra en åtgärd enligt den nya Azure-planen och göra en ny beställning bör bekräfta kundens godkännande av Microsoft-kundavtal via instrumentpanelen i Partnercenter och API:et i produktion.
 
-Med början den 1 februari 2020 tas det befintliga Microsoft Clouds avtalet bort från CSP-programmet. Från och med den tiden krävs partner bekräftelse (attestering) av kundens godkännande för det nya Microsofts kund avtal för alla andra erbjudanden, inklusive Microsoft 365, Dynamics 365 och befintliga Azure. Partner i CSP kommer inte att kunna skapa en ny order för kunden utan attestering av Microsofts kund avtal.
+Från och med 1 februari 2020 tas Microsoft Cloud-avtal bort från CSP-programmet. Från och med då krävs en partnerbekräftelse (attestation) av kundens godkännande för den nya Microsoft-kundavtal för alla andra erbjudanden, inklusive Microsoft 365, Dynamics 365 och befintligt Azure. Partner i CSP:en kommer inte att kunna göra en ny beställning för kunden utan att Microsoft-kundavtal.
 
-För fullständig information, Läs [bekräfta kund godkännande av Microsofts kund avtal](confirm-customer-agreement.md)
+Fullständig information finns i [Bekräfta kundens godkännande av Microsoft-kundavtal](confirm-customer-agreement.md)
 
-## <a name="security-and-access-control-practices"></a>Säkerhets-och åtkomst kontroll metoder
+## <a name="security-and-access-control-practices"></a>Metoder för säkerhet och åtkomstkontroll
 
-För att hjälpa till att skydda partner och kunder, introducerar vi en uppsättning obligatoriska säkerhets krav för rådgivare, kontroll panels leverantörer och partner som ingår i Cloud Solution Provider-programmet.
+För att hjälpa till att skydda partner och kunder introducerar vi en uppsättning obligatoriska säkerhetskrav för rådgivare, Kontrollpanelen-leverantörer och partner som deltar i Molnlösningsleverantör program.
 
-Partner som inte implementerar de obligatoriska säkerhets kraven kommer inte att kunna använda Transact i Cloud Solution Provider-programmet eller hantera kund klienter som utnyttjar ombuds administratörs rättigheter när dessa krav tillämpas. Vi håller på att upprätta ett tekniskt tvångs datum för kraven och kommer att meddela partners om datumet med detaljerad information.
+Partner som inte implementerar de obligatoriska säkerhetskraven kommer inte att kunna genomföra transaktioner i Molnlösningsleverantör-programmet eller hantera kundklienter som utnyttjar delegerade administratörsrättigheter när dessa krav har verkställts. Vi håller på att upprätta ett tekniskt framtvingandedatum för kraven och kommer att meddela partner om datumet med detaljerad information.
 
-## <a name="actions-to-take-to-implement-mfa"></a>Åtgärder som ska vidtas för att implementera MFA
+## <a name="actions-to-take-to-implement-mfa"></a>Åtgärder att vidta för att implementera MFA
 
-Med hänsyn till att varje användare har en MFA-utmaning för varje enskild autentisering, är det viktigt att du har en partner som har hög privilegier. Detta kan åstadkommas på något av följande sätt:
+Eftersom vi är en partner med hög behörighet måste vi se till att varje användare har en MFA-utmaning för varje enskild autentisering. Detta kan åstadkommas på något av följande sätt:
 
-- Implementera Azure AD Premium och se till att Multi-Factor Authentication (MFA) tillämpas för varje användare
-- Implementera [standardinställningar för Azure AD-säkerhet](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
-- Implementera en lösning från tredje part och se till att MFA upprätthålls för varje användare
+- Implementera Azure AD Premium och se till att multifaktorautentisering (MFA) tillämpas för varje användare
+- Implementera [standardinställningarna för Azure AD-säkerhet](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
+- Implementera en lösning från tredje part och se till att MFA tillämpas för varje användare
 
-Från och med 1 augusti 2019 krävs alla partner för att genomdriva Multi-Factor Authentication för alla användare, inklusive tjänst konton, i sin partner klient. Detaljerad information om de här säkerhets kraven finns på [partner säkerhets krav](partner-security-requirements.md).
+Från och med 1 augusti 2019 måste alla partner framtvinga multifaktorautentisering för alla användare, inklusive tjänstkonton, i sin partnerklientorganisation. Detaljerad information om dessa säkerhetskrav finns i Säkerhetskrav [för partner.](partner-security-requirements.md)
 
-Microsoft rekommenderar att partners använder RBAC-och följande metod tips som är aktiverade via [Azure Active Directory Privileged Identity Management-resurser](/azure/active-directory/privileged-identity-management/pim-configure).
+Microsoft rekommenderar partner att noggrant använda RBAC enligt bästa praxis som aktiveras via Azure Active Directory Privileged Identity Management [resurser.](/azure/active-directory/privileged-identity-management/pim-configure)
 
-## <a name="read-more-about-the-azure-plan"></a>Läs mer om Azure-prenumerationen
+## <a name="read-more-about-the-azure-plan"></a>Läs mer om Azure-planen
 
 - [Köpa en Azure-plan](purchase-azure-plan.md)
 
 - [Jämföra Azure-erbjudanden](compare-azure-offers.md)
 
-- [Partner intjänad kredit – översikt](partner-earned-credit.md)
+- [Partner-intjänad kredit – översikt](partner-earned-credit.md)
 
-- Beräkningarna av partner intjänade kredit (PEC) och de roller och behörigheter som är berättigade till att tjäna partner intjänade krediter är tillgängliga från Partner Center Dashboard pris lista (inloggning krävs).
+- Beräkningarna av partners intjänade kredit (PEC) och de roller och behörigheter som är berättigade att tjäna partnertjänade krediter är tillgängliga från prislistan för instrumentpanelen i Partnercenter (inloggning krävs).
 
 ## <a name="next-steps"></a>Nästa steg 
 
-- [Hur den intjänade krediten för partner fastställs – information](partner-earned-credit-explanation.md)
-- [Förklaring av pris lista för Azure-plan](azure-plan-price-list.md)
+- [Så bestäms partnerns intjänade kredit – information](partner-earned-credit-explanation.md)
+- [Förklaring av prislista för Azure-plan](azure-plan-price-list.md)
 - [Överföra dina kunder till Azure-planen](azure-plan-transition.md)
 - [Hantera prenumerationer och resurser under Azure-planen](azure-plan-manage.md)
-- [En fullständig lista över länder/regioner där Azure plan är tillgängligt](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x)
+- [En fullständig lista över länder/regioner där Azure-planen är tillgänglig](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x)

@@ -1,50 +1,46 @@
 ---
-title: Tilldela support kontakter för kunder
+title: Tilldela supportkontakter för kunder
 ms.topic: how-to
 ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig hur du tilldelar en åter försäljare som teknisk support kontakt för kunder som har prenumerationer på Microsoft-tjänster.
+description: Lär dig hur du tilldelar en återförsäljare som en teknisk supportkontakt för kunder som har prenumerationer på Microsoft-tjänster.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d5e7adaf25376edb7d10d2deff9ed4e6f52badb4
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: c3ec63109f21c67c66719b8f145336617a948199
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96473891"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149918"
 ---
-# <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>Tilldela en åter försäljare som teknisk support kontakt för kunder
+# <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>Tilldela en återförsäljare som en teknisk supportkontakt för kunder
 
-**Lämpliga roller**
-
-- Administratörs agent
-- Global administratör
-- Support agent
+**Lämpliga roller:** Administratörsagent | Globala | Supportagent
 
 
-När du konfigurerar prenumerationer för Microsoft-tjänster för dina kunder kanske du vill tilldela teknisk support för dessa produkter till en utsedd åter försäljare i stället för att tillhandahålla supporten själv.
+När du ställer in prenumerationer för Microsoft-tjänster för dina kunder kanske du vill tilldela teknisk support för dessa produkter till en utsedd återförsäljare, i stället för att tillhandahålla supporten själv.
 
-När du har konfigurerat support kontakter kan kunderna se din tilldelad support kontakts information på sidan med produkt support. Till exempel, när Office 365-kunder behöver support, kan de gå till Office.com-sidan, logga in med sina administratörsautentiseringsuppgifter, välja **Administratörs** panelen och se tilldelad support kontakt information under avsnittet **support** .
+När du har ställt in supportkontakter kan kunderna se information om den tilldelade supportkontakten på produktsupportsidorna. När Office 365-kunder till exempel behöver support kan de gå till Office.com-sidan, logga  in med sina administratörsautentiseringsuppgifter, välja panelen Administratör och under avsnittet **Support** se tilldelad kontaktinformation för support.
 
-Detta kan användas för scenarier [med flera partners](multipartner.md) och [flera kanaler](multichannel.md) . 
+Detta kan användas för [scenarier med flera partner](multipartner.md) och [flera](multichannel.md) kanaler. 
 
 
 ## <a name="assign-contacts"></a>Tilldela kontakter
 
-1. Börja med att [begära en relation](request-a-relationship-with-a-customer.md) med den angivna produkt åter försäljaren. Förhandla ett support avtal med dem för hantering av teknisk support.
+1. Börja med [att begära en relation](request-a-relationship-with-a-customer.md) med din avsedda produktåterförsäljare. Förhandla fram ett supportavtal med dem för att hantera teknisk support.
 
-2. Från menyn **partner Center** väljer du **kunder**, väljer en kund och väljer sedan en prenumeration, till exempel Office 365 Business standard.
+2. I **menyn i Partnercenter** väljer **du Kunder,** väljer en kund och sedan en prenumeration, till exempel Office 365 Business Standard.
 
-3. I  **utsedd support kontakt** väljer du den valda produkt åter försäljaren och klickar sedan på **Skicka**. 
+3. I  **Avsedd supportkontakt väljer** du den avsedda produktåterförsäljaren och klickar sedan på **Skicka**. 
 
       >[!NOTE]  
-      >För nya prenumerationer har den angivna support kontakten standardvärdet för den indirekta providern. Du kan också ändra detta till en indirekt åter försäljare som har delegerad administratörs behörighet.    
-    >Om åter försäljarens namn inte visas i listan över tillgängliga support kontakter, lägger du till dem i genom att [begära en relation](request-a-relationship-with-a-customer.md). När relationen har skapats bör de visas i listan.  
+      >För nya prenumerationer använder den avsedda supportkontakten som standard den indirekta leverantören. Du kan också ändra detta till en indirekt återförsäljare som har delegerat administratörsbehörighet.    
+    >Om återförsäljarens namn inte visas i listan över tillgängliga supportkontakter lägger du till dem i genom att [begära en relation](request-a-relationship-with-a-customer.md). När relationen har upprättats bör de visas i listan.  
 
-4. Granska att ändringarna är korrekta och välj sedan **Stäng**.
+4. Kontrollera att ändringarna är korrekta och välj sedan **Stäng**.
 
 ## <a name="next-steps"></a>Nästa steg
 

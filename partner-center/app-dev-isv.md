@@ -1,73 +1,70 @@
 ---
-title: Tentamens undantag för program utvecklings kompetens
+title: Undantag från kompetensprov för programutveckling
 ms.topic: article
 ms.date: 05/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: För partner med en tidigare ISV-kompetens får du lära dig hur du får ett engångs krav för examen i program utvecklings kompetensen
+description: För partner med en tidigare ISV-kompetens kan du lära dig hur du får ett kravundantag för en engångsprov för kompetensen för programutveckling
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 20a8d701755e0211ced01aa714570e993bfe177d
-ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
+ms.openlocfilehash: 2d3dfbb409ec8a11d4152e9c064e0ce7a05711b5
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/21/2020
-ms.locfileid: "92532176"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150003"
 ---
-# <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Undantag för en engångs examen för program utvecklings kompetensen
+# <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Kravundantag vid en prov för kompetensen för programutveckling
 
-**Lämpliga roller**
+**Lämpliga roller:** Globala | MPN-partneradministratör
 
-- Global administratör
-- MPN-partner administratör
+Om du har uppnått den nu tillbakadragna ISV-kompetensen och något av följande scenarier gäller dig, erbjuder vi ditt företag ett undantagskrav för en prov för guld- eller silverkompetensen för [programutveckling.](https://partner.microsoft.com/membership/application-development-competency) 
 
-Om du har uppnått den nu tillbakadragna ISV-kompetensen och något av följande scenarion gäller för dig, erbjuder vi företaget ett engångs krav för examen för guld-eller silver [program utvecklings kompetensen](https://partner.microsoft.com/membership/application-development-competency). 
+Partner med ISV-kompetens:
 
-Partner med en ISV-kompetens:
+- **Din ISV-kompetens har** upphört att gälla – Undantaget för en provkrav är tillgängligt i Partnercenter från och med 22 november 2019. Du har 30 dagar på dig att dra nytta av erbjudandet. Logga in på Partnercenter för information som är specifik för ditt företag.
 
-- **Din ISV-kompetens har upphört att gälla** – undantags tiden för tentamens krav är tillgänglig i Partner Center från den 22 november 2019. Du har 30 dagar på dig att dra nytta av erbjudandet. Logga in på Partner Center för information som är speciell för ditt företag.
+- **Ditt kompetensmedlemskap är i förnyelsefönstret** – Undantaget för provkrav för en gång är tillgängligt i Partnercenter från och med 22 november 2019. Du har 30 dagar på dig att dra nytta av erbjudandet. Logga in på Partnercenter för information som är specifik för ditt företag.
 
-- **Ditt kompetens medlemskap är i sitt förnyelse fönster** – undantags tiden för tentamens krav är tillgänglig i Partner Center från och med 22 november 2019. Du har 30 dagar på dig att dra nytta av erbjudandet. Logga in på Partner Center för information som är speciell för ditt företag.
+- **Ditt kompetensmedlemskap måste** förnyas under de kommande månaderna – ditt krav på provundantag är tillgängligt när det är dags att förnya. Då har du 30 dagar på dig att hämta erbjudandet.
 
-- **Ditt kompetens medlemskap är på grund av förnyelsen under de kommande månaderna** – ditt undantag för tentamens krav blir tillgängligt när det är dags att förnya. Vid detta tillfälle kommer du att ha 30 dagar på dig att få erbjudandet.
+Partner med en programutvecklingskompetens som uppnås via certifikatets IP-sökväg:
 
-Partner med en program utvecklings kompetens som nås via certifikatets IP-sökväg:
+- **Om du har en lista** över Microsofts kommersiella marknadsplats kommer ditt krav på en provundantag att vara tillgängligt när du förnyar kompetensen. Då har du 30 dagar på dig att dra nytta av erbjudandet.
 
-- **Om du har en Microsoft-lista över kommersiella marknads platser** kommer ditt krav på en engångs examen att vara tillgängligt när du förnyar din kompetens. Vid detta tillfälle kommer du att ha 30 dagar på dig att dra nytta av erbjudandet.
+- Om du inte har en lista över **[Microsofts](https://azure.microsoft.com/overview/commercial-marketplace/)** kommersiella marknadsplats bör du publicera din lösning senast i februari 2020 för att vara berättigad till undantaget för ett provkrav.
 
-- **Om du inte har en [Microsoft Marketplace](https://azure.microsoft.com/overview/commercial-marketplace/) -lista kan du** publicera din lösning senast februari 2020 för att bli berättigad till undantag för en engångs examen.
+## <a name="how-to-take-advantage-of-your-offer"></a>Så här utnyttjar du ditt erbjudande
 
-## <a name="how-to-take-advantage-of-your-offer"></a>Hur du utnyttjar ditt erbjudande
+1. I menyn i Partnercenter på instrumentpanelen väljer du **Kompetenser.**
+2. I listan över kompetenser som är tillgängliga markeras Programutveckling som **Slutförd.**
 
-1. Från menyn Partner Center på instrument panelen väljer du **kompetenser** .
-2. I listan över tillgängliga kompetenser har program utveckling marker ATS som **slutförd** .
+3. Välj **Programutveckling.** Du ser meddelandet om att du har fått en åsidosättning som undantar ditt företag från att uppfylla provkraven. 
 
-3. Välj **program utveckling** . Du ser meddelandet att du har fått en åsidosättning som befriar ditt företag från att uppfylla Tentamens kraven. 
+4. Om du vill dra nytta av det här erbjudandet går du **till Medlemskapserbjudanden.** Du kan behöva betala kompetensavgiften för att slutföra processen beroende på din kompetensinköps- eller förnyelsestatus. 
 
-4. Om du vill dra nytta av det här erbjudandet går du till **medlemskaps erbjudanden** . Du kan behöva betala kompetens avgiften för att slutföra processen beroende på din kompetens inköp eller förnyelse status. 
+Det här erbjudandet är tillgängligt via Partnercenter.
 
-Det här erbjudandet är tillgängligt via partner Center.
-
-Kontakta [partner support](https://partner.microsoft.com/Support)om du behöver hjälp med att hämta ditt erbjudande eller har frågor om din behörighet för det här erbjudandet. 
+Om du behöver hjälp med att få ditt erbjudande eller har frågor om din behörighet för det här erbjudandet kan du kontakta [partnersupporten.](https://partner.microsoft.com/Support) 
 
 ## <a name="frequently-asked-questions"></a>Vanliga frågor och svar
 
-**Hur gör jag för att vet du om mitt företag är berättigat till det här erbjudandet?**
+**Hur gör jag för att om mitt företag är berättigat till det här erbjudandet?**
 
-Partner företag som är berättigade till det här erbjudandet meddelades via e-post och i Partner Center, med information om hur du hämtar erbjudandet. Berättigade partners är de som har uppnått den nu tillbakadragna ISV-kompetensen och de som har uppnått kompetensen för program utveckling via certifikatets IP-sökväg. 
+Partnerföretag som är berättigade till det här erbjudandet fick ett meddelande via e-post och i Partnercenter med information om hur du får erbjudandet. Berättigade partner är de som uppnått den nu tillbakadragna ISV-kompetensen och de som uppnått kompetensen för programutveckling via certifikatets IP-sökväg. 
 
-**Vilka är fördelarna med program utvecklings kompetensen?**
+**Vilka är fördelarna med kompetensen för programutveckling?**
 
-Du kan granska fördelarna för program utvecklings kompetens på webbplatsen för Microsoft-partner. 
+Du kan granska kompetensförmånerna för programutveckling på Microsofts partnerwebbplats. 
 
-**Vad händer när jag har tid att förnya min kompetens när jag får det här erbjudandet?** 
+**Vad händer när det är dags för mig att förnya min kompetens när jag får det här erbjudandet?** 
 
-Vi kommer att dela mer information om våra planer för ISV: er snart och ge vägledning för partner som har kompetensen program utveckling som ett resultat av detta erbjudande. * *  
+Vi kommer snart att dela mer information om våra planer för ISV:er och ge vägledning för partner som har kompetensen programutveckling som ett resultat av det här erbjudandet.**  
 
-**Hur kan jag få det här erbjudandet om mitt företag inte har ISV-kompetens?**
+**Hur får jag det här erbjudandet om mitt företag inte har ISV-kompetensen?**
 
-Det här erbjudandet är endast tillgängligt för berättigade partners – de som hade ISV-kompetensen eller program utvecklings kompetensen via certifikatets IP-sökväg. Vi tar aktivt över långsiktiga och långsiktiga omfattande lösningar för att betjäna ISV: er och kommer att dela mer information snart. 
+Det här erbjudandet är endast tillgängligt för berättigade partner – de som hade ISV-kompetensen eller programutvecklingskompetensen via certifikatets IP-sökväg. Vi överväger aktivt kortsiktiga och långsiktiga omfattande lösningar för att betjäna ISV:er och kommer snart att dela med oss av mer information. 
 
 
