@@ -1,50 +1,46 @@
 ---
 title: Privata erbjudanden i Azure Marketplace
-description: Lär dig om privata erbjudanden i Azure Marketplace.
+description: Läs mer om privata erbjudanden i Azure Marketplace.
 ms.service: marketplace-customer
 ms.topic: article
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 72e886a7cfad067b40674f30a9a21810d832994a
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.date: 06/03/2021
+ms.openlocfilehash: 55d0716b183e9e8905e631447e547396d6f55404
+ms.sourcegitcommit: 9cb6bc9df20540f812b7932f88e520976c1aa85a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412666"
+ms.lasthandoff: 06/06/2021
+ms.locfileid: "111534147"
 ---
-# <a name="private-offers-in-azure-marketplace"></a>Privata erbjudanden i Azure Marketplace
+# <a name="private-plans-in-azure-marketplace"></a>Privata planer i Azure Marketplace
 
-Privata erbjudanden ger utgivare anpassade planer för vissa kunder. Det här alternativet stöds för närvarande endast i Azure Marketplace-miljön i Azure Portal. Privata erbjudanden är bara tillgängliga för avgiftsbelagda erbjudanden som kan köpas och installeras direkt från Azure Portal. Det går inte att skapa privata erbjudanden för konsult tjänster, alla tjänster som har **kontakt mig** som en samtal till åtgärd eller en kostnads fri tjänst, oavsett om den kan installeras från portalen eller inte.
+Privata planer är hur utgivare tillhandahåller anpassade planer till specifika kunder. Privata abonnemang är endast tillgängliga för betalda erbjudanden som kan köpas och installeras direkt från Azure Portal. Utgivare kan inte skapa privata planer för  konsulttjänster, tjänster som har Kontakta mig som en call-to-action eller någon kostnadsfri tjänst, oavsett om de kan installeras från portalen eller inte.
 
-## <a name="find-private-offers-in-the-azure-portal"></a>Hitta privata erbjudanden i Azure Portal
+## <a name="find-private-plans-in-the-azure-portal"></a>Hitta privata planer i Azure Portal
 
-När en partner publicerar ett privat erbjudande, är det bara synligt för berättigade användare i **Marketplace** -avsnittet i Azure Portal. Dessa användare definieras av prenumerations-ID eller klient-ID, beroende på typen av erbjudande. Om du är berättigad till privata erbjudanden finns det två sätt att hitta dem i portalen.
+När en partner publicerar en privat plan visas den bara för berättigade användare i **Avsnittet Marketplace** i Azure Portal. Dessa användare definieras av prenumerations-ID eller klientorganisations-ID, beroende på erbjudandetyp. Om du är berättigad till privata planer finns det två sätt att hitta dem i portalen.
 
 > [!NOTE]
-> Privata erbjudanden är för närvarande inte sökbara eller filtrerings bara (efter kategori) i Azure Portal.
+> Privata planer är sökbara men inte filtrerbara (efter kategori) i Azure Portal.
 
-I Azure Portal väljer du **+ skapa en resurs** eller söker efter "Marketplace" för att gå till **Marketplace** -sidan. Om du är berättigad till privata erbjudanden visas banderollen för **privata erbjudanden** överst på sidan. Välj **Visa privata erbjudanden** för att gå till din privata erbjudande sida.
+I den Azure Portal väljer du **+ Skapa en resurs** eller söker efter "marketplace" för att gå till **Marketplace-sidan.** Om du är berättigad till privata planer visas banderollen Du har **tillgängliga privata** planer överst på sidan. Välj **Visa privata erbjudanden + planer för** att gå till sidan för dina privata planer.
 
-:::image type="content" source="media/private-offers/private-offers-banner.png" alt-text="Den banderoll som visas när du har privata erbjudanden tillgängliga.":::
-
-Alternativt kan du även Rulla längst ned på sidan produkt galleri och visa en delmängd av dina privata erbjudanden om du ser annonsen för privata erbjudanden. Välj länken om du vill **Visa mer** för att gå till din privata erbjudande sida.
-
-:::image type="content" source="media/private-offers/see-more-link.png" alt-text="Visar privata erbjudanden längst ned på skärmen, tillsammans med länken se mer.":::
+:::image type="content" source="media/private-offers/private-offers-banner.png" alt-text="Banderollen som visas när du har privata planer tillgängliga.":::
 
 ## <a name="review-private-plans"></a>Granska privata planer
 
-Ett privat erbjudande är i själva verket en privat plan inom ett erbjudande. Varje erbjudande kan ha flera planer, både offentliga och privata, men privata planer visas under en separat lista från offentliga planer.
+En privat plan är en del av flera planer i ett erbjudande. Varje erbjudande kan ha flera planer, både offentliga och privata, men privata planer visas under en separat lista från offentliga planer.
 
-Du kan se tillgängliga privata planer på fliken **planer** som marker ATS med ett **eget privat** märke:
+Du kan se tillgängliga privata planer under fliken **Planer,** markerade med ett privat **märke:**
 
-:::image type="content" source="media/private-offers/private-badge.png" alt-text="En sida med planer som marker ATS som privata.":::
+:::image type="content" source="media/private-offers/private-badge.png" alt-text="En sida med planer markerade som Privata.":::
 
-Om du har mer än en prenumeration visas alla privata erbjudanden som är tillgängliga för alla dina prenumerationer. När du väljer **skapa** dirigeras du till sidan för att skapa resurser för att börja konfigurera din resurs.
+Om du har fler än en prenumeration visas alla privata abonnemang som är tillgängliga för alla dina prenumerationer. När du väljer **Skapa** dirigeras du till sidan för resursskapande för att börja konfigurera resursen.
 
-Om du väljer **skapa** och har flera prenumerationer, men inte alla läggs till i den privata planen, kanske din standard prenumeration inte är den prenumeration som är berättigad till det privata erbjudandet. I det här fallet väljer du rätt prenumeration.
+Om du väljer **Skapa** och har flera prenumerationer, men inte alla läggs till i den privata planen, kanske din standardprenumeration inte är den prenumeration som är berättigad för den här privata planen. I det här fallet väljer du rätt prenumeration.
 
-:::image type="content" source="media/private-offers/select-correct-subscription.png" alt-text="Länken som visar att det finns fler privata erbjudanden tillgängliga.":::
+:::image type="content" source="media/private-offers/select-correct-subscription.png" alt-text="Länken som visar att det finns fler privata planer tillgängliga.":::
 
 ## <a name="next-steps"></a>Nästa steg
 
