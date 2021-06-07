@@ -1,6 +1,6 @@
 ---
 title: Meddelanden november 2020
-description: November 2020-meddelanden för Microsoft Partner Center, inklusive nya funktioner, kampanjer, erbjudanden, marknader eller ändringar av befintliga erbjudanden.
+description: November 2020-meddelanden för Microsoft Partner Center, inklusive nya funktioner, kampanjer, erbjudanden, marknader eller ändringar i befintliga erbjudanden.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,21 +9,21 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 08eb760769f86f6568703590b28142c1581583a8
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: a4a8d79c1a5b22eb0c053d8cfb0d5d7ec2aae44b
+ms.sourcegitcommit: 09799f1d13b07cd3d4c75da7e2a074644dd86977
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712536"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "111575838"
 ---
 # <a name="november-2020-announcements"></a>Meddelanden november 2020
 
-Den här sidan innehåller information om Microsoft Partner Center-meddelanden för november 2020.
+Den här sidan innehåller information om meddelanden för Microsoft Partner Center för november 2020.
 
-2020-meddelanden: [april](2020-april.md)  |  [maj](2020-may.md)den  |  [juni](2020-june.md)  |  [juli](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  [](2020-October.md) | November
+2020-meddelanden: [april juni](2020-april.md)  |  [](2020-may.md)  |  [juli](2020-june.md)  |  [](2020-july.md)  |  [augusti](2020-august.md)  |  [oktober](2020-september.md)  |  [](2020-October.md) | November
 
 ______________
-## <a name="introducing-the-ability-to-purchase-saas-offers-with-metered-billing-in-partner-center"></a><a name="14"></a>Vi presenterar möjligheten att köpa SaaS-erbjudanden med avgiftsbelagd fakturering i Partner Center 
+## <a name="introducing-the-ability-to-purchase-saas-offers-with-metered-billing-in-partner-center"></a><a name="14"></a>Introduktion till möjligheten att köpa SaaS-erbjudanden med förbrukningsfakturering i Partnercenter 
 
 ### <a name="categories"></a>Kategorier
 
@@ -32,23 +32,23 @@ ______________
 
 ### <a name="summary"></a>Sammanfattning
 
-Microsoft presenterar partner i Cloud Solution Provider-programmet för att köpa SaaS-erbjudanden med avgiftsbelagda fakturerings möjligheter i Partner Center. 
+Microsoft introducerar möjligheten för partner i Molnlösningsleverantör att köpa SaaS-erbjudanden med förbrukningsfakturering i Partnercenter. 
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
 Alla partner
 
 ### <a name="details"></a>Information
 
-Microsoft presenterar möjligheterna för partner i Cloud Solution Provider-programmet, inklusive indirekta leverantörer och direkta fakturerings partner, för att köpa SaaS-erbjudanden med [avgiftsbelagd fakturering](/azure/marketplace/partner-center-portal/saas-metered-billing)   i Partner Center. I dag kan partner i Cloud Solution Provider-programmet kunna visa och [köpa SaaS-erbjudanden med avgiftsbelagd fakturering via Azure Portal](../csp-commercial-marketplace-purchase.md).Den här nya upplevelsen gör det möjligt för partner att köpa dessa erbjudanden via CSP Marketplace i Partner Center och API: et som de gör för andra typer av SaaS-erbjudanden. 
+Microsoft introducerar möjligheten för partner i Molnlösningsleverantör-programmet, inklusive indirekta leverantörer och direktfaktureringspartner, att köpa SaaS-erbjudanden med [förbrukningsfakturering](/azure/marketplace/partner-center-portal/saas-metered-billing)   i Partnercenter. Idag kan partner i Molnlösningsleverantör-programmet visa och köpa [SaaS-erbjudanden med förbrukningsfakturering via Azure Portal](../csp-commercial-marketplace-purchase.md).Med den här nya upplevelsen kan partner köpa dessa erbjudanden via CSP Marketplace i Partnercenter och API:et på samma sätt som för andra SaaS-erbjudandetyper. 
 
 ### <a name="next-steps"></a>Nästa steg
 
-Dela den här informationen med alla lämpliga kontakter i företaget.
+Dela den här informationen med alla lämpliga kontakter i ditt företag.
 
 ______________
 
-## <a name="new-unified-account-management-experience"></a><a name="13"></a>Ny, enhetlig konto hanterings upplevelse
+## <a name="new-unified-account-management-experience"></a><a name="13"></a>Ny enhetlig kontohanteringsupplevelse
 
 ### <a name="categories"></a>Kategorier
 
@@ -57,149 +57,149 @@ ______________
 
 ### <a name="summary"></a>Sammanfattning
 
-Från och med 18 november börjar Partner Center att ta bort den nya konto hanterings upplevelsen som förbättrar användar upplevelsen för partner. Partner kommer nu att kunna hantera sitt konto för alla program från inställningar-> konto inställningar.
+Från och med 18 november kommer Partnercenter att börja lansera den nya kontohanteringsupplevelsen som förbättrar användarupplevelsen för partner. Partner kommer nu att kunna hantera sitt konto för alla program från Inställningar - > kontoinställningar.
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
 Alla partner
 
 ### <a name="details"></a>Information
 
-Nyckel ändringen i konto hantering är integrationen av den tidigare separata **partner inställningen** vy för partner som registrerats i kommersiella program (Microsoft Partner Network, Cloud Solution Provider, hänvisningar osv.) och vyn **Inställningar för utvecklare** för partner som har registrerats i utvecklarresurser (kommersiell marknads plats, Windows & Xbox osv.) i vyn enhetligt **konto inställningar** .
+Nyckeländringen i kontohanteringen är integreringen av den tidigare separata vyn **Partnerinställningar** för partner som registrerats i kommersiella  program (Microsoft Partner Network, Molnlösningsleverantör, referenser osv.) och inställningsvyn Utvecklare för partner som  har registrerats i utvecklarprogram (Kommersiell marknadsplats, Windows & Xbox osv.) i en enhetlig kontoinställningsvy.
 
-### <a name="entry-point"></a>Start punkt
+### <a name="entry-point"></a>Startpunkt
 
-Logga in på Partner Center-instrumentpanelen och välj sedan ikonen  **Inställningar**   och klicka på **konto inställningar**. Du måste inte längre välja mellan partner och utvecklare eftersom alla profiler och inställningar nu kombineras.
+Logga in på instrumentpanelen i Partnercenter och välj sedan ikonen  **Inställningar**   och klicka på **Kontoinställningar.** Du behöver inte längre välja mellan Partner och Utvecklare eftersom alla profiler och inställningar nu kombineras.
 
-### <a name="left-navigation-hierarchy"></a>Vänster navigerings-hierarki
+### <a name="left-navigation-hierarchy"></a>Vänster navigeringshierarki
 
-- Organisations profil
-   - Juridiskt – hantera din juridiska företags profil, partner profil och företagets platser.
-   - Klienter – all din information om dina Azure AD-klienter, kommersiella och utvecklare, spåras här.
-   - Identifierare – Partner Center identiteter för ditt företag – din MPNIDs, publisherIds osv.
-- Användar hantering – Hantera dina användare och tilldela dem rollen som affärs-och utvecklare från en och samma plats. Du kan också hantera grupper och Azure AD-program härifrån.
+- Organisationsprofil
+   - Juridisk information – Hantera din juridiska företagsprofil, partnerprofil och företagets platser.
+   - Klienter – All din information om dina Azure AD-klienter, kommersiella klienter och utvecklare, spåras här.
+   - Identifierare – PartnerCenter-identiteter för ditt företag – dina MPNID:er, publisherIds osv.
+- Användarhantering – Hantera dina användare och tilldela dem kommersiella roller och utvecklarroller från en och samma plats. Du kan också hantera grupper och Azure AD-program härifrån.
 
 ### <a name="next-steps"></a>Nästa steg
 
-Dela den här informationen med alla lämpliga kontakter i företaget.
+Dela den här informationen med alla lämpliga kontakter i ditt företag.
 
 ______________
 
-## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>Office 365 E1 för erbjudande mellan marknaden (LATAM, APAC och Indien)
+## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>Office 365 E1 för medelstor kampanj (LATAM, APAC och Indien)
 
 ### <a name="categories"></a>Kategorier
 - Datum 2020-11-18
 - Erbjudanden/marknader
 
 ### <a name="summary"></a>Sammanfattning
-Vi presenterar en ny Office 365 E1-kampanj för Mid-marknaden, som är begränsad till de nya marknaderna i LATAM, Indien och APAC (exklusive utvecklade marknader inom APAC).
+Vi introducerar en ny Office 365 E1-kampanj för medelmarknad, begränsad till de nya marknader som LATAM, Indien och APAC (exklusive utvecklade marknader i APAC).
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
-Alla partners som går via Cloud Solution Provider (CSP)-programmet på de deltagande marknaderna ovan.
+### <a name="impacted-audience"></a>Målgrupp som påverkas
+Alla partner som gör en överträdelse Molnlösningsleverantör CSP-programmet (CSP) på de deltagande marknader som anges ovan.
 
 ### <a name="details"></a>Information
-Kampanjens pris består av 30% rabatt på Office 365 E1 för CSP. Den startas den 1 december 2020 och kommer att vara tillgänglig i 6 månader fram till den 31 maj 2021. Den här kampanj är bara tillgänglig för kunder som är nya för MW-molnet och som har upp till 500 platser. Observera att detta är begränsat till nya marknader i LATAM, Indien och APAC, så att du kan aktivera över gången till molnet. 
+Kampanjerbjudandet består av 30 % rabatt på Office 365 E1 för CSP. Den startar den 1 december 2020 och kommer att vara tillgänglig i 6 månader fram till den 31 maj 2021. Denna kampanj är endast tillgänglig för kunder som är nya i CLOUD CLOUD och har upp till 500 platser. Observera att detta är begränsat till nya marknader i LATAM, Indien och APAC för att möjliggöra övergången till molnet. 
 
-#### <a name="offer-details"></a>Erbjudande information
+#### <a name="offer-details"></a>Erbjudandeinformation
 
    |**Erbjudandets namn**|**Erbjudande-ID**|
    |-------------------|:------|
-   |Office 365 E1 för erbjudande mellan marknaden|d20fdad5-f524-45e4-97b1-59a94c21778f|
+   |Office 365 E1 för medelstor kampanj|d20fdad5-f524-45e4-97b1-59a94c21778f|
 
 ### <a name="next-steps"></a>Nästa steg
-Detta kommer att vara tillgängligt den 1 december under tiden, dela den här informationen med alla lämpliga kontakter i organisationen (i de deltagande regionerna). Börja engagera med kunder som inte finns i molnet än i de deltagande regionerna. 
+Detta kommer att vara tillgängligt den 1 december – under tiden bör du dela den här informationen med alla lämpliga kontakter i din organisation (i deltagande regioner). Börja interagera med kunder som ännu inte finns i molnet i de deltagande regionerna. 
 
 ### <a name="questions"></a>Har du några frågor?
-Kontakta [partner Center-supporten](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) om du har frågor, frågor eller ytterligare information.
+Kontakta [Partnercenter-supporten](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) om du har frågor, frågor eller annan information.
 
 ______________
 
-## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>API-uppdateringar och användar gränssnitts förbättringar i Partner Center för att förstärka kund gallringen i vissa länder
+## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>Förbättringar av API:et och användargränssnittet i Partnercenter för att förbättra kundkontrollen i vissa länder
 
 ### <a name="categories"></a>Kategorier
 
 - Datum 2020-11-17
-- Funktioner | Förbättrad kund gallring
+- Funktioner | Förbättrad kundkontroll
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Direkta fakturerings partner eller indirekta leverantörer som deltar i det CSP-program (Cloud Solution Provider) som har nya eller befintliga kunder i följande länder:
+Direktfaktureringspartner eller indirekta leverantörer som deltar i Molnlösningsleverantör-programmet (CSP) som har nya eller befintliga kunder i följande länder:
 
-- Armenien (AM)
-- Azerbajdzjan (AZ)
-- Vitryssland (av)
-- Ungern (HU)
-- Kazakstan (KZ)
-- Kirgizistan (KG)
-- Moldavien (MD)
+- 1.00.00.00
+- NSS (AZ)
+- Aads (BY)
+- Jusend (HU)
+- Nniska (KZ)
+- Kyrgyzstan (KG)
+- ADE (Md)
 - Ryssland (RU)
-- Tadzjikistan (TJ)
-- Uzbekistan (UZ)
-- Ukraina (UA)
+- Formationikistan (TJ)
+- Jus (UZ)
+- Dår (UA)
 
 ### <a name="summary"></a>Sammanfattning
 
-Som en del av Microsofts fortsatta engagemang för kunder och partner som är kompatibla med affärs praxis kommer vissa partner med kunder i vissa länder nu att bli ombedda att fylla i några extra fält med data om dessa kunder när partnern nästa gång försöker uppdatera en befintlig kund prenumeration eller skapa en ny prenumeration för en ny kund. 
+Som en del av Microsofts fortsatta engagemang för kunder och partner kring kompatibla affärsmetoder kommer vissa partner med kunder i vissa länder nu att uppmanas att fylla i några extra fält med data om dessa kunder när partnern nästa försök att uppdatera en befintlig kundprenumeration eller skapa en ny prenumeration för en ny kund. 
 
 ### <a name="details"></a>Information
 
-Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för kund validering för att agera kund prenumerationer i CSP-programmet. Som en del av den här ansträngningen har vi introducerat API: er för API och användar gränssnitt som påverkar partner som uppfyller alla följande kriterier: 
+Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för kundvalidering för att kunna göra kundprenumerationer i CSP-programmet. Som en del av detta har vi introducerat förbättringar av Partnercenter-API:et och användargränssnittet som påverkar partner som uppfyller alla följande kriterier: 
 
-- Partnern har en direkt fakturerings relation med Microsoft (t. ex. en direkt fakturerings partner eller en indirekt Provider). särskilt
+- Partnern har en direkt faktureringsrelation med Microsoft (till exempel en partner för direktfakturering eller en indirekt leverantör). Och
 
-- Partnern gör affärer med nya eller befintliga kunder i följande länder: Armenien (AM), Azerbajdzjan (AZ), Vitryssland (av), Ungern (Slovakien), Kazakstan (KZ), Kirgizistan (KG), Moldavien (MD), Ryssland (RU), Tadzjikistan (TJ), Uzbekistan (UZ) och Ukraina (UA) 
+- Partnern gör affärer med nya eller befintliga kunder i följande länder: DoS (AM), DoS (AZ), DoS (BY), Förlamning (HU), Torgyzstan (KZ), Kyrgyzstan (KG), Hubs (MD), Ryssland (RU),Istanikistan (TJ), Hubs (UZ) och Hubs (UA) 
 
-För sådana partner med en kund i dessa länder kommer partnern nu att krävas att skicka den specifika kundens **juridiska identifierare** (kallas även kundens **organisation Inn**) och kundens **telefonnummer** när partnern nästa gång försöker uppdatera eller skapa en prenumeration för kunden. Dessa partner kan nu också välja att ange ett valfritt, **mellan namn** för kunden även.
+För sådana partner med en kund i dessa länder måste partnern nu skicka den specifika kundens juridiska **identifierare** (kallas även  kundens **organisations-INN)** och kundens telefonnummer när partnern nästa gång försöker uppdatera eller skapa en prenumeration för kunden. Dessa partner kan nu även välja att ange ett **valfritt mellannamn** för kunden.
 
-### <a name="partner-center-enhancements"></a>Förbättringar i Partner Center
+### <a name="partner-center-enhancements"></a>Förbättringar i Partnercenter
 
-- Förbättringar av Partner Center-gränssnittet för att förbättra valideringen av kunder i vissa länder
+- Förbättringar av partnercenters användargränssnitt för att förbättra valideringen av kunder i specifika länder
 
-- Nya API: er som stöder förbättrad validering av kunder i vissa länder
+- Nya API:er för att stödja förbättrad validering av kunder i specifika länder
 
-**Ändringar i Partner Center-gränssnittet – kund konto Sidan**
+**Ändringar i partnercentrets användargränssnitt – sidan Kundkonto**
 
-Sidan kund konto för partner Center har uppdaterats på följande sätt:
+Sidan Partnercenter-kundkonto har uppdaterats på följande sätt:
 
-1. **Organisationen Inn** (kallas även juridisk identifierare). Det här fältet krävs nu för kunder i vissa länder. 
+1. **Organisations-INN** (även kallat juridisk identifierare). Det här fältet krävs nu för kunder i vissa länder. 
 
    > [!NOTE]
-   > Data måste anges med alfanumeriska tecken, utan bindestreck, specialtecken eller blank steg. Partner kommer att behöva arbeta med sin kund kontakt i dessa länder för att bekräfta kundens juridiska ID-status, till exempel deras skatte-ID eller INN-nummer. Mer information om landsspecifika finns i följande tabell.  
+   > Data får endast anges med alfanumeriska tecken, utan bindestreck, specialtecken eller blanksteg. Partner måste samarbeta med sin kundkontakt i dessa länder för att bekräfta kundens status för juridisk person, till exempel deras skatte-ID eller INN-nummer. Mer landsspecifik information finns i följande tabell.  
 
-2. **Mellan namn.** Det här fältet är valfritt för alla kunder. Om du känner till kundens mellan namn eller initial kan partnern ange den här.
+2. **Mellannamn.** Det här fältet är valfritt för alla kunder. Om du känner till kundens mellannamn eller initial kan partnern ange det här.
 
-3. **Telefonnummer.** Det här fältet var tidigare valfritt, men det krävs nu för kunder i vissa länder.  
+3. **Telefonnummer.** Det här fältet var tidigare valfritt, men krävs nu för kunder i vissa länder.  
 
-Lands-/regionspecifika fält krav för **organisation Inn** (juridisk identifierare) visas nedan.
+Fältkraven för **landspecifika organisations-INN** (juridisk identifierare) visas nedan.
 
-| Land | A14-Area | ISO-landskod | Fält KRAVs krav | Landsspecifika fält namn på ursprungligt språk | Engelsk översättning eller kommentarer |
+| Land | A14-Area | ISO-landskod | Krav på fälttecken | Landsspecifikt fältnamn på det inbyggda språket | Engelsk översättning eller kommentarer |
 |---------|----------|------------------|------------------------|--------------------|--------------------------------------|
-| Armenien | CEE      | AM               | 8 eller 10 siffror         | :::no-loc text="УНН/NZOU/НЗОУ/ հանրային ծառայության համարանիշը"::: | UNN/offentligt tjänst nummer                     |
-| Azerbajdzjan| CEE      | AZ               | 7 eller 10 siffror         | :::no-loc text="ИНН/VOEN/ПИК"::: | TENN/INN/PIC              |
-| Vitryssland | CEE      | BY               | 9 siffror         | :::no-loc text="УНП"::: | UNP (Detta innebär skatte-ID)                    |
-| Ungern | CEE      | HU               | 10 eller 11 siffror         | :::no-loc text="TIN"::: | TENN (skatte-ID)                     |
-| Kazakstan | CEE      | KZ              | 12 siffror         | :::no-loc text="БИН/ИИН"::: | BIN/IIN                     |
-| Kirgizistan | CEE      | KG               | 14 siffror         | :::no-loc text="ИНН"::: | UNN/offentligt tjänst nummer                     |
-| Moldavien  | CEE        | MD               | 6, 7, 8 eller 13 siffror         | :::no-loc text="IDNO/IDNP"::: | Det unika tillstånds identifierings numret (IDNO) som tilldelas den juridiska enheten utgörs också av skatte kod. \"Stat register över Law-enheter om företag som är registrerade i Republiken Moldavien och som är registrerade i Republiken Moldavien och som är baserade på den statliga portalen med Open data data.gov.md.\"                    |
-| Ryssland | CEE      | RU               | 9, 10 eller 12 siffror         | :::no-loc text="ИНН"::: | INN                     |
-| Tadzjikistan | CEE      | TJ               | 9, 10 eller 12 siffror     | :::no-loc text="ИНН/ЕИН/КПП"::: | INN/EIN/KPP                     |
-| Uzbekistan | CEE     | UZ               | 9 siffror                 | :::no-loc text="INN":::         | INN                               |
-| Ukraina   | CEE      | UA               | 8, 10 eller 12 siffror      | :::no-loc text="EGRPOU/EDRPOU":::        | Identifierings kod för en juridisk person                             | 
+| Armenien | Cee      | AM               | 8 eller 10 siffror         | :::no-loc text="УНН/NZOU/НЗОУ/ հանրային ծառայության համարանիշը"::: | UNN/Offentligt tjänstnummer                     |
+| Azerbajdzjan| Cee      | AZ               | 7 eller 10 siffror         | :::no-loc text="ИНН/VOEN/ПИК"::: | TIN/INN/PIC              |
+| Vitryssland | Cee      | BY               | 9 siffror         | :::no-loc text="УНП"::: | UNP (detta innebär skatte-ID)                    |
+| Ungern | Cee      | HU               | 10 eller 11 siffror         | :::no-loc text="TIN"::: | TIN (skatte-ID)                     |
+| Kazakstan | Cee      | KZ              | 12 siffror         | :::no-loc text="БИН/ИИН"::: | BIN/IIN                     |
+| Kirgizistan | Cee      | KG               | 14 siffror         | :::no-loc text="ИНН"::: | UNN/Offentligt tjänstnummer                     |
+| Moldavien  | Cee        | MD               | 6, 7, 8 eller 13 siffror         | :::no-loc text="IDNO/IDNP"::: | Det unika id-numret (IDNO) som tilldelats den juridiska personen är också giltigt som skattekod. \"State Register of Law Units angående företag som är registrerade i Republiken Nederländska publicerat av Informations- och kommunikationsteknikavdelningen på myndighetsportalen för öppna data data.gov.md.\"                    |
+| Ryssland | Cee      | RU               | 9, 10 eller 12 siffror         | :::no-loc text="ИНН"::: | Inn                     |
+| Tadzjikistan | Cee      | Tj               | 9, 10 eller 12 siffror     | :::no-loc text="ИНН/ЕИН/КПП"::: | INN/SLAG/KPP                     |
+| Uzbekistan | Cee     | UZ               | 9 siffror                 | :::no-loc text="INN":::         | Inn                               |
+| Ukraina   | Cee      | UA               | 8, 10 eller 12 siffror      | :::no-loc text="EGRPOU/EDRPOU":::        | Identifieringskod för en juridisk enhet                             | 
 
-**Ändringar i Partner Center-API: et**
+**Ändringar i Partner Center-API:et**
 
-Följande kontrakts ändringar kommer att göras i Partner Center-API: et. Dessa ändringar är begränsade till partner som hanterar kund konton i de länder som tidigare nämnts.
+Följande kontraktsändringar kommer att göras i Partner Center-API:et. Dessa ändringar är begränsade till partner som hanterar kundkonton i de länder som nämnts tidigare.
 
 > [!NOTE]
-> Om du är en partner som använder en strikt tolkning av JSON-svaret från Partner Center, kan du påverkas av dessa ändringar om uppdateringarna inte slutförs på din sida. JSON är inte en rekommenderad integrering med API: er för partner Center.
+> Om du är en partner som använder en strikt tolkning av JSON-svaret från Partnercenter kan du påverkas av dessa ändringar om uppdateringarna inte slutförs i slutet. JSON är inte en rekommenderad integrering med Partner Center-API:er.
 
-| Uppdateringar av REST-resurser | Relaterad dokumentation om Partner Center |
+| Uppdateringar av REST-resurser | Relaterad partnercenterdokumentation |
 |---------------------------|-----------------------|
-| Nytt obligatoriskt fält: organizationRegistrationNumber | - [Skapa en kund](/partner-center/develop/create-a-customer#company-profile)<br/>- [Skapa en kund för en indirekt åter försäljare](/partner-center/develop/create-a-customer-for-an-indirect-reseller#request-headers)  <br/>- [Kund resurser](/partner-center/develop/customer-resources#customercompanyprofile) |
-| Uppdaterat fält krävs nu: telefonnummer<br/>Valfritt fält: MiddleName | - [Verktygs resurser](/partner-center/develop/utility-resources#address) |
-| Nya BadRequest REST-felkoder: 600002, 600049, 600050, 600051 | - [Fel koder för partner Center REST](/partner-center/develop/error-codes#error-codes) |
+| Nytt obligatoriskt fält: organizationRegistrationNumber | - [Skapa en kund](/partner-center/develop/create-a-customer#company-profile)<br/>- [Skapa en kund för en indirekt återförsäljare](/partner-center/develop/create-a-customer-for-an-indirect-reseller#request-headers)  <br/>- [Kundresurser](/partner-center/develop/customer-resources#customercompanyprofile) |
+| Uppdaterat fält krävs nu: PhoneNumber<br/>Valfritt fält: MiddleName | - [Verktygsresurser](/partner-center/develop/utility-resources#address) |
+| Nya BadRequest REST-felkoder: 600002, 600049, 600050, 600051 | - [Partner Center REST-felkoder](/partner-center/develop/error-codes#error-codes) |
 
-*Förslag på externt kontrakt för kunder:*
+*Föreslaget externt kontrakt för kunder:*
 
 ```
 public class CustomerCompanyProfile : ResourceBaseWithLinks
@@ -235,51 +235,51 @@ public class Address
 ```
 
 
-## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="10"></a>EU/EFTA-ändring av partner fakturerings valuta för nya Commerce-erbjudanden.  
+## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="10"></a>EU/EFTA Ändring av partnerfaktureringsvaluta för nya handelserbjudanden.  
 
 ### <a name="categories"></a>Kategorier
 - Datum 2020-11-17
 - Funktioner
 
-### <a name="impacted-audience"></a>Förverkad mål grupp  
+### <a name="impacted-audience"></a>Målgruppen som påverkas  
 
-Partner som går via Cloud Solution Provider-programmet i EU/EFTA-regionen 
+Partner som gör en Molnlösningsleverantör i REGIONEN EU/EFTA 
 
 ### <a name="summary"></a>Sammanfattning 
 
-I Europeiska unionen (EU)/European fri handels Association (EFTA) kan alla nya handels erbjudanden i Cloud Solution Provider-programmet använda partner fakturerings plats i stället för kund fakturerings plats. Det innebär att partner kommer att faktureras av Microsoft baserat på deras plats valuta, inte deras kunders plats valuta. Detta görs i två faser: 
+I REGIONEN EU(EU)/European Free Trade Association (EFTA) kommer alla nya handelserbjudanden i Molnlösningsleverantör-programmet att använda partnerfaktureringsplats i stället för kundens faktureringsplats. Det innebär att partner debiteras av Microsoft baserat på deras platsvaluta, inte kundernas platsvaluta. Detta görs i två faser: 
 
-- **Fas 1: nya kunder som köper ett nytt handels erbjudande i CSP**
+- **Fas 1: Nya kunder köper ett nytt handelserbjudande i CSP**
 
-Från och med 2021 januari debiteras partners som har nya kunder som köper nya Commerce-erbjudanden för dessa inköp i partner platsens valuta. Partner med befintliga kunder som redan har köpt nya Commerce-erbjudanden i CSP kommer att fortsätta att faktureras i valutan för kundens fakturerings plats under den här fasen. 
+Från och med januari 2021 faktureras partner som har nya kunder som köper nya handelserbjudanden för dessa inköp i partnerns platsvaluta. Partner med befintliga kunder som redan har köpt nya handelserbjudanden i CSP fortsätter att debiteras i valutan för kundens faktureringsplats under den här fasen. 
 
-- **Fas 2: befintliga kunder som köpte ett nytt Commerce-erbjudande i CSP före 2021** 
+- **Fas 2: Befintliga kunder som har köpt ett nytt handelserbjudande i CSP före januari 2021** 
 
-Från och med fas 1 och under kalender året 2021 kommer Microsoft att övergå till faktureringen av nya Commerce-erbjudanden för partner med befintliga kunder, som köpte ett nytt handels erbjudande i CSP före den 2021, från kund platsens valuta till partner platsens valuta. Partners kommer att meddelas i förväg innan ändringen genomförs.  
+Efter fas 1 och under kalenderåret 2021 kommer Microsoft att övergå till fakturering av nya handelserbjudanden för partner med befintliga kunder, som har köpt ett nytt handelserbjudande i CSP före januari 2021, från valuta för kundplats till valuta för partnerplats. Partner meddelas i förväg innan ändringen implementeras.  
 
->Lägg Den här ändringen påverkar endast partner fakturerings valutan och inte priserna för nya handels erbjudanden i CSP. 
+>[Obs! Den här ändringen påverkar endast partnerfaktureringsvalutan och inte prissättningen för nya handelserbjudanden i CSP. 
 
-De nya Commerce-erbjudandena i omfånget för den här ändringen är: Azure-prenumerationer som ingår i en Azure-prenumeration, Azure-reservationer, Server prenumerationer, beständig program vara och Microsofts kommersiella marknads marknads inköp i Cloud Solution Provider-programmet.
+De nya handelserbjudandena i omfånget för den här ändringen är: Azure-prenumerationer som ingår i en Azure-plan, Azure-reservationer, serverprenumerationer, permanent programvara och Microsofts köp på den kommersiella marknadsplatsen i Molnlösningsleverantör-programmet.
 
-### <a name="partner-benefits"></a>Partner förmåner  
+### <a name="partner-benefits"></a>Partnerförmåner  
 
-- Den här uppdateringen minskar komplexiteten och omkostnaderna med fakturering i flera valutor i EU/EFTA-regionen för den nya Commerce-upplevelsen.  
+- Den här uppdateringen minskar komplexiteten och omkostnaderna med fakturering för flera valutor i EU/EFTA-regionen för den nya handelsupplevelsen.  
 
-- Partner får en konsol IDE rad faktura i en enskild valuta och får inte längre någon faktura för varje kunds plats valuta. 
+- Partner får en konsoliderad faktura i en enda valuta och får inte längre en faktura för varje kundplatsvaluta. 
 
-- Incitaments utbetalningar är i samma valuta som partnerns faktura valuta.
+- Incitamentbetalningarna kommer att finnas i samma valuta som partnerns fakturavaluta.
 
-- Partner kommer att meddela minskad fakturerings komplexitet som orsakas av multi-Currency-fakturering, vilket frigör tid och resurser som för närvarande är kopplade till att stämma av konton. 
+- Partner kommer att märka minskad faktureringskomplexitet som orsakas av fakturering i flera valutor, vilket frigör tid och resurser som för närvarande är associerade med avstämning av konton. 
 
-- För partner som ännu inte har antagit nya Commerce-erbjudanden justeras den här ändringen med föregående fakturerings modell för partner, vilket gör det möjligt för partner att enkelt övergå till den nya Commerce-upplevelsen i CSP. 
+- För partner som ännu inte har infört nya handelserbjudanden överensstämmer den här ändringen med den tidigare partnerfaktureringsmodellen, vilket gör det enklare för partner att övergå till den nya handelsupplevelsen i CSP. 
 
 ### <a name="resources"></a>Resurser 
 
-Läs informationen om det här avsnittet i [Operations Gallery] ( https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/ på webbplatsen för Microsoft-partner.  
+Granska informationen om det här avsnittet i [Operations Gallery]( https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/ på Microsofts partnerwebbplats.  
 
 ______________
 
-## <a name="api-throttling-to-partners-calling-partner-center-apis"></a><a name="9"></a>API-begränsning till partners som anropar API: er för partner Center
+## <a name="api-throttling-to-partners-calling-partner-center-apis"></a><a name="9"></a>API-begränsning till partner som anropar Partner Center-API:er
 
 ### <a name="categories"></a>Kategorier
 
@@ -288,48 +288,48 @@ ______________
 
 ### <a name="summary"></a>Sammanfattning
 
-Microsoft presenterar API-begränsning för partner som anropar API: er för partner Center för att få en mer konsekvent prestanda inom ett angivet tidsintervall.
+Microsoft introducerar API-begränsning för partner som anropar Partner Center-API:er för en mer konsekvent prestanda inom ett visst tidsintervall.
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Målgruppen som påverkas
 
-Partner som går via Cloud Solution Provider-programmet
+Partner som gör en transact genom Molnlösningsleverantör-programmet
 
 ### <a name="details"></a>Information
 
-Microsoft implementerar API-begränsning i Q1 2021 för att få en mer konsekvent prestanda inom ett tidsintervall för partner som anropar API: er för partner Center. Begränsning begränsar antalet begär anden till en tjänst inom en viss tids period för att förhindra överanvändning av resurser. När ett tröskelvärde överskrids, begränsar Partner Center eventuella ytterligare begär Anden från klienten under en viss tids period.  
+Microsoft implementerar API-begränsning under det första kvartalet 2021 för att tillåta en mer konsekvent prestanda inom ett tidsintervall för partner som anropar Partner Center-API:erna. Begränsning begränsar antalet begäranden till en tjänst inom ett visst tidsintervall för att förhindra överanvändning av resurser. När ett tröskelvärde för begränsning överskrids begränsar Partnercenter eventuella ytterligare begäranden från klienten under en viss tidsperiod.  
 
-### <a name="partner-benefits"></a>Partner förmåner 
+### <a name="partner-benefits"></a>Partnerförmåner 
 
-Partner Center har utformats för att hantera en stor mängd begär Anden, men om ett överbelastat antal förfrågningar görs av några få partner, hjälper begränsningen till att upprätthålla optimala prestanda och tillförlitlighet för alla partner. Det garanterar minimal nedtid. Genom att minska den stora mängden begär Anden kan vi garantera en konsekvent prestanda för alla partner. 
+Partner Center är utformat för att hantera ett stort antal begäranden, men om ett stort antal begäranden görs av ett fåtal partner hjälper begränsningen till att upprätthålla optimala prestanda och tillförlitlighet för alla partner. Det garanterar minimal avbrottstid. Genom att minska den stora mängden begäranden kan vi säkerställa konsekventa prestanda för alla partner. 
 
 
-### <a name="apis-to-be-throttled"></a>API: er som ska begränsas
+### <a name="apis-to-be-throttled"></a>API:er som ska begränsas
 
 | **Åtgärd** | **Dokumentation för Partnercenter** |
 |-------------------------|----------------------------------|
-|{baseURL}/v1/Customers/{customer_id}/subscriptions|[Hämta alla kunders prenumerationer](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Hämta en prenumeration efter ID](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/Customers/{customer_id}/Orders|[Hämta en kunds alla beställningar](/partner-center/develop/get-all-of-a-customer-s-orders)|  
-|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}|[Hämta en beställning efter ID](/partner-center/develop/get-an-order-by-id)|  
-|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}/provisioningstatus|[Hämta status för prenumerationsetablering](/partner-center/develop/get-subscription-provisioning-status)|  
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Hantera order och hantera en prenumeration](/partner-center/develop/manage-orders#manage-a-subscription)| 
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/addons|[Hämta en lista över tillägg för en prenumeration](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/azureEntitlements|[Hämta en lista över Azure-berättigande för en prenumeration](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/registrationstatus|[Hämta status för prenumerationsregistrering](/partner-center/develop/get-subscription-registration-status)| 
-|{baseURL}/v1/customers/{customer-tenant-id}/transfers|[Hämta alla kunders överföringar](/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/customers/{customer_id}/subscriptions|[Hämta alla en kunds prenumerationer](/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[Hämta en prenumeration efter ID](/partner-center/develop/get-a-subscription-by-id) | 
+|{baseURL}/v1/customers/{customer_id}/orders|[Hämta en kunds alla beställningar](/partner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[Hämta en beställning efter ID](/partner-center/develop/get-an-order-by-id)|  
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[Hämta status för prenumerationsetablering](/partner-center/develop/get-subscription-provisioning-status)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[Hantera beställningar och hantera en prenumeration](/partner-center/develop/manage-orders#manage-a-subscription)| 
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons|[Hämta en lista över tillägg för en prenumeration](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements|[Hämta en lista över Azure-berättigande för en prenumeration](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus|[Hämta status för prenumerationsregistrering](/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/customers/{customer-tenant-id}/transfers|[Hämta alla en kunds överföringar](/partner-center/develop/get-subscription-registration-status)| 
 |{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Hämta status för produktuppgradering](/partner-center/develop/get-all-of-a-customer-s-transfers)| 
 |{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[Hämta en lista över erbjudanden för utvärderingskonvertering](/partner-center/develop/get-all-of-a-customer-s-transfers) |
   
 
-Det här meddelandet syftar till att tillhandahålla partners med tidiga medvetenhet om de kommande ändringarna, så att de kan förbereda sig. Vi rekommenderar starkt att partners bekantar sig med dessa API: er och funderar på att använda API: et för aktivitets loggen för mer effektivitet och undvika begränsning. Mer information om den här funktionen finns i informationen i vägledning för [API-begränsning](/partner-center/develop/api-throttling-guidance). 
+Det här meddelandet är avsett att ge partner tidig medvetenhet om kommande ändringar, vilket gör det möjligt för dem att förbereda sig. Vi rekommenderar starkt att partner bekantar sig med dessa API:er och överväger att använda aktivitetslogg-API:et för att få bättre effektivitet och undvika begränsning. Mer information om den här funktionen finns i informationen i [vägledningen om API-begränsning.](/partner-center/develop/api-throttling-guidance) 
 
 ### <a name="next-steps"></a>Nästa steg
 
-Läs igenom [API begränsnings vägledningen](/partner-center/develop/api-throttling-guidance)och vidta nödvändiga åtgärder. 
+Granska [vägledningen om API-begränsning](/partner-center/develop/api-throttling-guidance)och vidta nödvändiga åtgärder. 
 
 ______________
 
-## <a name="409-errors-due-to-duplicate-mca-requests"></a><a name="8"></a>409 fel på grund av duplicerade MCA-begäranden
+## <a name="409-errors-due-to-duplicate-mca-requests"></a><a name="8"></a>409-fel på grund av duplicerade MCA-begäranden
 
 ### <a name="categories"></a>Kategorier
 
@@ -338,84 +338,84 @@ ______________
 
 ### <a name="context"></a>Kontext
 
-- I februari uppmanades du att underteckna Microsofts kund avtal (MCuA). Detta var en migrering från det tidigare Microsoft Cloud avtalet (MCA). 
-- Som en del av den här ändrings partnern begärdes parterna att ta med avtals typ parametern som dokumenterad [här](/partner-center/develop/get-confirmation-of-customer-agreement).
+- I februari i år begärdes partner att signera Microsoft-kundavtal (MCuA). Det här var en migrering från föregående Microsoft Cloud-avtal (MCA). 
+- Som en del av denna ändringspartner begärdes att partnern skulle inkludera avtalstypsparametern som dokumenteras [här](/partner-center/develop/get-confirmation-of-customer-agreement).
 
 ### <a name="what-happened-next"></a>Vad hände härnäst:
 
-- Alla partners inkluderade inte parameter förfrågan i sin implementering. Microsoft returnerade MCA till dessa partner.
-- Partnern skickar sedan begäran om signering till kunden och skickar MCA till Microsoft igen. 
-- Dupliceringen påverkar Microsofts förmåga att tillhandahålla tjänster till partner.
-- I 2020 september skickade vi ut ett meddelande till partner, via Yammer i flera forum, som begär att partner korrigerar-parametern. Microsoft kunde inte längre acceptera dubbletterna och de får 409 fel.
+- Alla partner inkluderade inte parameterbegäran i sin implementering. Microsoft returnerade MCA till dessa partner.
+- Partnern skickar sedan om signeringsbegäran till kunden och skickar MCA till Microsoft igen. 
+- Dupliceringen påverkade Microsofts möjlighet att tillhandahålla tjänster till partner.
+- I september 2020 skickade vi ett meddelande till partner via Yammer i flera forum där vi begärde att partner åtgärdade parametern. Microsoft kunde inte längre acceptera dubbletterna och de får 409-fel.
 
->[OBS!] Detta var inte en ny kontrakt/API-ändring för partner.
+>[Obs! Detta var INTE en ny kontrakts-/API-ändring för partner.
 
-- I oktober arbetade vi nära med partner som skulle ha haft flest dubbla förfrågningar om att åtgärda problemet.
-- För närvarande kommer vi att påminna om partner, samt att skicka personliga e-postmeddelanden till de 10 populäraste, för att granska deras förfrågningar och kontakta oss så att vi kan hjälpa dem att testa och lösa problemet.
-- Den 10 november 2020 slutade vi att acceptera dubbletter, och partner som inte hade korrigerat parametrarna, fick 409 fel.
-- Vi har sedan gjort en ändring av ändringen för att inte ta emot dubbletter. 
-- Men den 14 januari 2021 kommer vi återigen inte längre att acceptera dubbletter. Detta gör det möjligt för partners ytterligare tid att göra eventuella justeringar i slutet. Vi har redan fått ett meddelande från en partner att de planerar att distribuera en uppdatering den 11/16 där vi kommer att arbeta nära dem.
-- Vi ber att partners når oss så att vi kan hjälpa dem att testa genom att lägga till sina klienter i en flygning med ändringarna så att de kan se till att deras lösnings uppdatering fungerar som förväntat.
+- I oktober arbetade vi tillsammans med partner som hade flest duplicerade begäranden för att åtgärda problemet.
+- För närvarande påminner vi våra partner om att granska deras förfrågningar och kontakta oss så att vi kan hjälpa dem att testa och lösa problemet genom att skicka personliga e-postmeddelanden till de 10 bästa.
+- Den 10 november 2020 slutade vi acceptera dubbletter och partner som inte hade korrigerat parametrarna fick 409-fel.
+- Vi har sedan återställt ändringen så att den inte accepterar dubbletter. 
+- Men den 14 januari 2021 accepterar vi inte längre dubbletter. Detta ger partner ytterligare tid att göra justeringar på slutet. Vi har redan fått ett meddelande från en partner om att de planerar att distribuera en uppdatering den 11/16 som vi kommer att arbeta nära med dem.
+- Vi ber våra partner att kontakta oss så att vi kan hjälpa dem att testa genom att lägga till sina klienter till en flygresa med ändringarna så att de kan se till att deras lösningsuppdatering fungerar som förväntat.
 
 
 ### <a name="next-steps-for-partners"></a>Nästa steg för partner
 
-- Granska dessa nya användar gränssnitt och API-ändringar i partner centret. När du försöker skapa en kund prenumeration eller uppdatera en befintlig prenumeration för en kund i något av dessa länder, kontrollerar du kundens konto information för att se till att du har lagt till data i de två nya, obligatoriska fälten för kunden: organisation INN (juridisk identifierare) och telefonnummer. Du kan uppdatera den här informationen via [instrument panelen](https://partner.microsoft.com/dashboard) för partner Center eller via [API: er](/partner-center/develop/create-a-customer#company-profile)för partner Center.
+- Granska dessa nya ändringar i partnercentergränssnittet och API:et. Nästa gång du försöker skapa en kundprenumeration eller uppdatera en befintlig prenumeration för en kund i något av dessa länder kontrollerar du kundens kontoinformation för att se till att du har lagt till data i de två nya obligatoriska fälten för kunden: Organisations-INN (juridisk identifierare) och Telefonnummer. Du kan uppdatera den här informationen via instrumentpanelen i [Partnercenter](https://partner.microsoft.com/dashboard) eller via Partner [Center-API:er.](/partner-center/develop/create-a-customer#company-profile)
 
-- Dela den här informationen med lämpliga team i din organisation för att hjälpa dem att förbereda för dessa ändringar.
+- Dela den här informationen med lämpliga team i din organisation för att hjälpa dem att förbereda sig för dessa ändringar.
 
 ______________
 
-## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Testning är tillgängligt: API: er för API och användar gränssnitt (UI) för att testa kund validerings processen
+## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Tillgänglig testning: Förbättringar av Partnercenter-API:et och användargränssnittet för kundvalideringsprocessen för Education
 
 ### <a name="categories"></a>Kategorier
 
 - Datum 2020-11-10
-- Funktioner | & skala för enhets effektivitet
+- Funktioner | Skala för & effektivitet
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Målgruppen som påverkas
 
-Partner som säljer akademiska erbjudanden via Cloud Solution Provider (CSP)-programmet.
+Partner som säljer Academic-erbjudanden via programmet Molnlösningsleverantör (CSP).
 
 ### <a name="summary"></a>Sammanfattning
 
-Testning är nu tillgängligt för partner Center API-uppdateringar och UI-förbättringar för kund validerings processen för utbildning.
+Testning är nu tillgängligt för partnercenter-API-uppdateringar och förbättringar av användargränssnittet för kundvalideringsprocessen för Education.
 
 ### <a name="details"></a>Information
 
-Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för kund validering för att kunna använda akademiska erbjudanden i CSP-programmet. Som en del av detta presenterar vi våra API: er och användar gränssnitts förbättringar för partner Center under det andra kvartalet av detta räkenskapsår (FY21 Q2). De här förbättringarna lägger till klarhet och insyn i kund validerings processen, samt möjligheten att mata in mer exakta data, vilket ger bättre kund validering.
+Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för kundvalidering för att kunna göra akademiska erbjudanden i CSP-programmet. Som en del av detta introducerar vi Förbättringar av Partnercenter-API och användargränssnitt under det andra kvartalet av det här räkenskapsåret (FY21 Q2). Dessa förbättringar ökar tydligheten och insynen i kundvalideringsprocessen, samt möjligheten att mata in mer exakta data, vilket ger bättre kundvalidering.
 
-**Förbättringar i Partner Center**
+**Förbättringar i Partnercenter**
 
-- Nya API: er för att hämta och publicera kompetenser som stöd för korrekt data inmatning och förbättra kund validerings processen för utbildning av Microsoft.
+- Nya GET- och POST-kvalificerings-API:er för att stödja korrekt datainmatning och förbättra Microsofts valideringsprocess för Education-kunder.
 
-- UI-förbättringar för att stödja korrekt data inmatning och förbättra kund validerings processen för utbildning av Microsoft.
+- Förbättringar av användargränssnittet för att stödja korrekt inmatning av data och förbättra Microsofts process för kundvalidering av Education.
 
 **Test**
 
-För att få en bättre förståelse för de API: er och data som krävs för lyckad kund validering, kan partners testa dessa förbättringar från oktober 2020. Vi ger dig mer information om exakt tidpunkt och hur du deltar. De befintliga API: erna för partner Center kommer att dras tillbaka innan slutet av FY21 Q2. Vid detta tillfälle måste du ha övergått till de nya API: erna för partner Center.
+För att få en bättre förståelse för de API:er och datainmatning som krävs för lyckad kundverifiering kommer partner att kunna testa dessa förbättringar från oktober 2020. Vi kommer snart att ge mer information om den exakta tidpunkten och hur du deltar. De befintliga Partner Center-API:erna kommer att dras tillbaka före slutet av FY21 Q2. Då måste du ha gått över till de nya Partner Center-API:erna.
 
-   - Testet är tillgängligt för partner test datumen är från 2 oktober till 2 december 2020. Partner som vill delta bör hämta kund test guiden för partner Center för att komma igång, hur du registrerar dig och vad som ska förväntas under test fasen.
+   - Tillgängliga tester Partnertestdatumen är från 2 oktober till 2 december 2020. Partner som vill delta bör ladda ned kundtestningsguiden för Partner Center Education för att se hur du förväntar dig att göra dig redo, hur du registrerar dig och vad du kan förvänta dig under testfasen.
 
-**Biblioteks-och Museum-kunder**
+**Biblioteks- ochBibliotekskunder**
 
-Förutom dessa förbättringar är vi glada att kunna tillkännage att vi är i FY21 Q2 och vi kommer att erbjuda akademiska erbjudanden för biblioteks-och Museum-kunder, vilket innebär att de utbildnings kunder med vilka du kan använda Transact CSP-erbjudanden.
+Förutom dessa förbättringar är vi glada över att kunna meddela att vi i FY21 Q2 kommer att aktivera Academic-priced-erbjudanden för biblioteks- ochRopskunder, vilket utökar Education-kunderna som du kan använda för att köpa CSP-erbjudanden.
 
-Microsoft förbehåller sig rätten att granska statusen för alla kunder eller föreslagna kunder som en kvalificerad utbildnings användare. Mer information finns i [användar kraven för akademiska utbildningar](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) .
+Microsoft förbehåller sig rätten att granska status för en kund eller föreslagen kund som kvalificerad utbildningsanvändare. Fullständig information finns [i användarkraven för Academic Qualified Education.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Granska det nya användar gränssnittet för partner Center och API-ändringar, samt test guiden i [partner Center-utbildning för kund validerings process förbättringar innehålls samling](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- Granska de nya ändringarna i användargränssnittet i Partnercenter och API:et samt testguiden i [partnercentrets valideringsprocess för kundvalidering för att förbättra innehållssamlingen](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
 
-- Registrera dig för att delta i testningen. (Mer information finns i [test guiden](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) .) 
+- Registrera dig för att delta i testningen. (Mer information [finns i](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) testguiden.) 
 
-- Se till att din organisation är bekant med de [akademiska användar kraven för utbildning](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7). 
+- Se till att din organisation är bekant med [academic qualified education-användarkraven.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) 
 
-- Dela den här informationen med lämpliga team i din organisation, tillsammans med dina åter försäljare för att hjälpa dem att förbereda för dessa ändringar.
+- Dela den här informationen med lämpliga team i din organisation, tillsammans med dina återförsäljare för att hjälpa dem att förbereda sig för dessa ändringar.
 
 ______________
 
-## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>Expandera innehåll för kommersiell licensierings partner i galleriet över drift beredskap
+## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>Expandera partnerinnehåll för kommersiell licensiering i galleriet operationsberedskap
 
 ### <a name="categories"></a>Kategorier
 
@@ -424,19 +424,19 @@ ______________
 
 ### <a name="summary"></a>Sammanfattning
 
-Från och med 5 2020 november kommer marknadsförings partner innehåll från partner University också att vara tillgängligt i galleriet för drift beredskap.
+Från och med 5 november 2020 kommer commercial licensing-partnerinnehåll från Partner University också att vara tillgängligt i galleriet för driftberedskap.
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
 Kommersiella partner
 
 ### <a name="details"></a>Information
 
-Från och med den 5 november 2020 kommer marknadsförings partner innehåll från partner University också att vara tillgängligt i galleriet för drift beredskap. Detta konsoliderar den befintliga drifts-och kommersiella licensierings partnerns lanserings innehåll i galleriet över drift beredskap med vårt beredskaps innehåll från partner University. Det ger därmed partner en mer sömlös beredskaps upplevelse. Följande samlingar har lagts till i galleriet för drift beredskap:
+Från och med 5 november 2020 kommer commercial licensing-partnerinnehåll från Partner University också att vara tillgängligt i galleriet för driftberedskap. Detta konsoliderar det redan befintliga lanseringsinnehållet för drifts- och kommersiell licensieringspartner i galleriet driftberedskap med vårt bestående partnerinnehåll för kommersiell licensiering från Partner University. Det ger därför partner en smidigare beredskapsupplevelse. Följande samlingar har lagts till i galleriet driftberedskap:
 
-- [Microsoft Azure-erbjudanden och licensiering](https://partner.microsoft.com/resources/collection/microsoft-azure-offers-and-licensing#/)
-- [Kommersiell licensiering – anrop till CSP Spotlight](https://partner.microsoft.com/resources/collection/commercial-licensing-csp-spotlight-call#/)
-- [Kommersiell licensiering – samtal om licensierings uppdateringar](https://partner.microsoft.com/resources/collection/commercial-licensing-licensing-updates-call#/)
+- [Microsoft Azure – erbjudanden och licensiering](https://partner.microsoft.com/resources/collection/microsoft-azure-offers-and-licensing#/)
+- [Kommersiell licensiering – CSP Spotlight-anrop](https://partner.microsoft.com/resources/collection/commercial-licensing-csp-spotlight-call#/)
+- [Kommersiell licensiering – Anrop för licensieringsuppdateringar](https://partner.microsoft.com/resources/collection/commercial-licensing-licensing-updates-call#/)
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -444,7 +444,7 @@ Dela den här informationen med alla lämpliga kontakter i din organisation.
 
 ________________
 
-## <a name="microsoft-teams-rooms-premium-sku-launch"></a><a name="5"></a>Microsoft Teams-rum Premium SKU-lansering
+## <a name="microsoft-teams-rooms-premium-sku-launch"></a><a name="5"></a>Start av Microsoft Teams Rooms Premium SKU
 
 ### <a name="categories"></a>Kategorier
 
@@ -453,60 +453,60 @@ ________________
 
 ### <a name="summary"></a>Sammanfattning
 
-Microsoft Teams-avdelningarna Premium SKU för Microsoft Teams via Cloud Solution Provider (CSP)-programmet är nu tillgängligt.
+Microsoft Teams Rooms Premium SKU för Microsoft Teams via programmet Molnlösningsleverantör (CSP) är nu tillgängligt.
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Alla partner som går via program varan för Cloud Solution Provider (CSP)
+Alla partner som gör en Molnlösningsleverantör (CSP)
 
 ### <a name="details"></a>Information
 
-De nya Microsoft Teams-avdelningarna Premium SKU för Microsoft Teams-rum är nu tillgängliga för kunder som köper CSP genom dig på USD50 per enhet per månad. Microsoft Teams-tjänsten Premium SKU är ett alternativ till Microsoft Teams-avdelningarna standard SKU (tidigare kallad Meeting Room-licens). Den här SKU: n innehåller allt i standard erbjudandet, till exempel de licenser som krävs för Microsoft Teams, Skype för företag – Online och Intune-hantering. Erbjudandet möjliggör också telefon system – nödvändigt för PSTN-integrering (Public Switched Phone Network), och ljud konferens, där det är möjligt. 
+Den nya Premium-SKU:n för Microsoft Teams-rum i Microsoft Teams är nu tillgänglig för kunder som köper CSP via dig till USD50 per enhet och månad. Microsoft Teams Rooms Premium SKU är ett alternativ till Microsoft Teams Rooms Standard SKU (kallades tidigare Mötesrum License). Denna SKU innehåller allt i standarderbjudandet, till exempel nödvändiga licenser för Microsoft Teams, Skype för företag – Online och Intune-hantering. Erbjudandet möjliggör även Telefonsystem – som krävs för PSTN-integrering (Public Switched Phone Network) – och ljudkonferens, där det är tillgängligt. 
 
-Med Premium-erbjudandet har kunder till gång till de nyligen utgivna tjänsterna för Microsoft Teams-tjänster, där experter hanterar hanteringen och driften av mötes rummen för kundens räkning. Den här molnbaserade tjänsten för hantering och övervakning håller på att hålla enheterna i Microsoft Teams och deras kring utrustning aktuella och säkra. De övervakas också proaktivt och hanteras, vilket upprätthåller en miljö som är optimerad för en fantastisk upplevelse.
+Med premiumerbjudandet har kunderna tillgång till de nyligen utgivna hanterade Microsoft Teams-rumstjänsterna, där experter hanterar hanteringen och driften av mötesrum åt kunden. Den här molnbaserade IT-hanterings- och övervakningstjänsten håller Microsoft Teams-rumsenheter och kringutrustning uppdaterade och säkra. De övervakas och hanteras också proaktivt, vilket upprätthåller en miljö som är optimerad för en bra miljö i rummet.
 
-#### <a name="released-at-launch"></a>Lanserades vid lanseringen
+#### <a name="released-at-launch"></a>Lanseras vid lansering
 
-   |****|**Microsoft Teams-enheter standard USD15-enhet per månad**|**Microsoft Teams-rum Premium USD50-enhet per månad**|
+   |****|**Microsoft Teams Rooms Standard USD15-enhet per månad**|**Microsoft Teams-rum Premium USD50-enhet per månad**|
    |-------------------|:------|:------|
    |Skype för företag|Ja| |
    |Microsoft Teams|Ja|Ja|
-   |Telefon system|Ja|Ja|
-   |Ljud konferens|Ja|Ja|
+   |Telefonsystem|Ja|Ja|
+   |Ljudkonferens|Ja|Ja|
    |Microsoft Intune|Ja|Ja|
-   | |Microsoft Teams-standarder USD15 per enhet per månad|Microsoft Teams-rum Premium-USD50 per enhet per månad|
-   |Microsoft Teams rum hanterade tjänster| |Ja|
-   |Tillgänglighet i hela världen|Ja|På utvalda marknader|
+   | |Microsoft Teams Rooms Standard USD15 per enhet och månad|Microsoft Teams-rum Premium USD50 per enhet och månad|
+   |Microsoft Teams-rum – hanterade tjänster| |Ja|
+   |Global tillgänglighet|Ja|I utvalda marknader|
 
-#### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft Teams rum hanterade tjänster
+#### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft Teams-rum – hanterade tjänster
 
-- Proaktiv hantering: 24x7x365 hantering av dina rums system inklusive uppdatering, konfigurations hantering med mera.
-- Övervakning i real tid och rotor Saks analys: övervakning och identifiering med dirigerad incident hanterings svar som drivs av Microsoft i samordning med kunden, vid behov. Med mobilappen kan du hålla koll på igång.
-- Hanterade uppdateringar: hantering och leverans av program, Windows KB och uppdateringar av inbyggd program vara.
-- Skydd mot säkerhetshot: skydd mot säkerhetshot via Microsoft Defender Avancerat skydd.
-- Kund support: 24x7x365 Ticket-support via vårt dedikerade Service Operations Center med hjälp av incident reparation för icke-automatiserade fall. Detaljerad rollbaserad åtkomst kontroll.
-- Insikter och rekommendationer: aggregerade insikter över kunder och rapporter om rums hälsa, inventering, användning, onlinemöten och incident trender.
+- Proaktiv hantering: 24 x 7 x 365- hantering av dina rumssystem, inklusive korrigering, konfigurationshantering med mera.
+- Realtidsövervakning och rotorsaksanalys: Övervakning och identifiering med orkestrerad incidenthantering som drivs av Microsoft tillsammans med kunden när det behövs. Med mobilappen kan du hålla dig aviseringsmeddelande när du är på språng.
+- Hanterade uppdateringar: Hantering och leverans av program, Windows KB och uppdateringar av inbyggd programvara.
+- Skydd mot säkerhetshot: Skydd mot säkerhetshot via Microsoft Defender Avancerat skydd.
+- Kundsupport: Support dygnet runt, alla dagar i veckan, via vårt dedikerade tjänstdriftcenter med assisterad incidentreparation för icke-automatiserade ärenden. Detaljerad rollbaserad åtkomstkontroll.
+- Insikter och rekommendationer: Sammanställda insikter över kunder och rapporter om rummets hälsotillstånd, inventering, användning, onlinemöten och incidenttrender.
 
-#### <a name="offer-details"></a>Erbjudande information
+#### <a name="offer-details"></a>Erbjudandeinformation
 
    |**Erbjudandets namn**|**Erbjudande-ID**|**Material-ID**|
    |-------------------|:------|:------|
-   |Teams rum Premium|5db9aa31-f039-4740-b122-a33514e4c492|6XB-00007|
-   |Teams rum Premium (USA och kan)|03070f91-cc77-4c2e-b269-4a214b3698ab|6XB-00008|
-   |Teams rum Premium för lärare|d0c9a9a9-c9b6-41d7-9148-b60115c36c95|6Y5-00005|
+   |Teams-rum Premium|5db9aa31-f039-4740-b122-a33514e4c492|6XB-00007|
+   |Teams Rooms Premium (USA och CAN)|03070f91-cc77-4c2e-b269-4a214b3698ab|6XB-00008|
+   |Teams Rooms Premium för lärare och lärare|d0c9a9a9-c9b6-41d7-9148-b60115c36c95|6Y5-00005|
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Bekanta dig med det nya erbjudandet och dess geografiska tillgänglighet. besök vanliga [frågor och svar]().
+- Bekanta dig med det nya erbjudandet och dess geografiska tillgänglighet. Gå till [vanliga frågor och svar]().
 - Bekanta dig med det nya erbjudandet och dess geografiska tillgänglighet. 
-- Lär dig mer om Microsoft-rummen och relaterade erbjudanden på [Microsoft team-rum](https://rooms.microsoft.com/).
-- Använd [team partner guiden](https://aka.ms/teamscallingmeetingsguide) för att utveckla din praxis med team Mötes rum och skapa ett erbjudande för en medförsäljning.
-- Läs [vanliga frågor och svar om Microsoft Teams](https://aka.ms/PartnerMTRFAQ) för att lära dig mer om produkt lösningen och tjänsterna. 
-- Dela den här informationen med alla lämpliga kontakter i din organisation och förstå de merförsäljning och globala Sälj möjligheterna.
+- Läs mer om Microsoft-rum och relaterade erbjudanden på [Microsoft Team Rooms.](https://rooms.microsoft.com/)
+- Använd [Teams partnerguide för](https://aka.ms/teamscallingmeetingsguide) att utveckla din praxis med Teams-mötesrum och skapa ett erbjudande som är redo för säljförsäljning.
+- Läs vanliga frågor [och svar om Microsoft Teams-rum](https://aka.ms/PartnerMTRFAQ) om du vill veta mer om produktlösningen och tjänsterna. 
+- Dela den här informationen med alla lämpliga kontakter i din organisation och förstå möjligheter till merförsäljning och korsförsäljning.
 
 ________________
 
-## <a name="new-microsoft-teams-advanced-communications-skus-for-government-community-cloud-gcc-coming-soon"></a><a name="4"></a>Nya Microsoft Teams Advanced Communications SKU: er för statligt community-moln (GCC) kommer snart
+## <a name="new-microsoft-teams-advanced-communications-skus-for-government-community-cloud-gcc-coming-soon"></a><a name="4"></a>Nya SKU:er för Avancerad kommunikation i Microsoft Teams för Government Community Cloud (GCC) kommer snart
 
 ### <a name="categories"></a>Kategorier
 
@@ -515,17 +515,17 @@ ________________
 
 ### <a name="summary"></a>Sammanfattning
 
-Den nya Advanced Communications-tilläggs-SKU: n för Microsoft Teams i GCC kommer att vara tillgänglig från den 1 december 2020.
+Nya SKU:n för Advanced Communications-tillägget för Microsoft Teams i GCC blir tillgänglig från den 1 december 2020.
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Alla partner som går via program varan för Cloud Solution Provider (CSP)
+Alla partner som gör en Molnlösningsleverantör (CSP)-programmet
 
 ### <a name="details"></a>Information
 
-Det nya Advanced Communications-tillägget för Microsoft Teams i GCC är nu tillgängligt på USD12 per användare per månad. SKU: er för tillägg kan köpas ovanpå andra Microsoft 365 paket som innehåller Microsoft Teams. Avancerad kommunikation tillhandahåller en ny uppsättning funktioner för stora möten, kommunikations principer, integreringar och avancerade verktyg för IT-hantering. 
+Det nya Advanced Communications-tillägget för Microsoft Teams i GCC är nu tillgängligt på USD12 per användare och månad. Tilläggs-SKU:erna kan köpas ovanpå andra programpaket Microsoft 365 som innehåller Microsoft Teams. Avancerad kommunikation ger en ny uppsättning funktioner för stora möten, kommunikationsprinciper, integreringar och avancerade verktyg för IT-hantering. 
 
-#### <a name="offer-details"></a>Erbjudande information
+#### <a name="offer-details"></a>Erbjudandeinformation
 
    |**Erbjudandets namn**|**Erbjudande-ID**|**Material-ID**|
    |-------------------|:------|:------|
@@ -533,67 +533,67 @@ Det nya Advanced Communications-tillägget för Microsoft Teams i GCC är nu til
 
 #### <a name="frequently-asked-questions"></a>Vanliga frågor och svar 
 
-**Vad är avancerad kommunikation?** Detta nya Microsoft Teams-tillägg gör det möjligt för kunderna att ytterligare förbättra sin kommunikations upplevelse. Den kan köpas ovanpå alla Microsoft 365 SKU: er som de prenumererar på.
+**Vad är Advanced Communications?** Det här nya Microsoft Teams-tillägget gör det möjligt för kunder att ytterligare förbättra sin kommunikationsupplevelse. Den kan köpas ovanpå alla Microsoft 365 SKU som de prenumererar på.
 
-**Vad kostar det?** Den kommersiella ERP är USD12 per användare och månad.
+**Vad kostar det?** Det kommersiella ERP-programmet är USD12 per användare och månad.
 
 **Vilka kunder kan köpa tillägget?** GCC-kunder kan köpa tillägget.
 
-**Hur kan den köpas?** Tillägget kan köpas via Enterprise-avtal, Enterprise-avtal prenumeration, registrering för utbildnings lösningar, CSP eller webb direkt.
+**Hur kan den köpas?** Tillägget kan köpas via Enterprise-avtal, Enterprise-avtalsprenumeration, registrering för utbildningslösningar, CSP eller Web Direct.
 
 **Var kan den säljas?** Den kan säljas på amerikanska marknader.
 
-**Vilka är kraven?** Alla Microsoft 365-eller Office 365-paket som innehåller Microsoft Teams kan ha det här tillägget.
+**Vilka är förutsättningarna?** Alla Microsoft 365 eller Office 365-paket som innehåller Microsoft Teams kan ha det här tillägget.
 
 ### <a name="next-steps"></a>Nästa steg
 
-Dela den här informationen med relevanta kontakter i din organisation och förstå de merförsäljning och globala Sälj möjligheterna. Granska avsnittet resurser i [guiden team partner](https://aka.ms/teamscallingmeetingsguide).
+Dela den här informationen med relevanta kontakter i din organisation och förstå möjligheter till merförsäljning och korsförsäljning. Läs avsnittet om resurser i [Guiden för Teams-partner.](https://aka.ms/teamscallingmeetingsguide)
 
 ________________
 
-## <a name="dynamics-365-recently-launched-and-upcoming-new-offers-and-products"></a><a name="3"></a>Dynamics 365: nyligen lanserade och kommande nya erbjudanden och produkter
+## <a name="dynamics-365-recently-launched-and-upcoming-new-offers-and-products"></a><a name="3"></a>Dynamics 365: Nyligen lanserat och kommande nya erbjudanden och produkter
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-11-2
 - Erbjudanden/marknader
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Direkta leverantörer, indirekta leverantörer och indirekta åter försäljare
+Direkta leverantörer, indirekta leverantörer och indirekta återförsäljare
 
 ### <a name="details"></a>Information
 
 #### <a name="new-offers"></a>Nya erbjudanden
 
-Den 1 november 2020 har Microsoft publicerat Dynamics 365 Project service-åtgärder och tagit bort Dynamics 365 Project service Automation (PSA) för kommersiella kunder. Den här kommunikationen ger ytterligare information om mappning av dubbla användnings rättigheter från den här lanseringen och nya oberoende program varu leverantörer (ISV) inbäddade erbjudanden.
+Den 1 november 2020 släppte Microsoft Erbjudanden för Dynamics 365 Project Operations och tog bort Dynamics 365 Project Service Automation (PSA) för kommersiella kunder. Den här kommunikationen ger ytterligare information om mappning av dubbla användningsrättigheter från den här lanseringen och nya isv-inbäddade erbjudanden (independent software vendor).
 
-#### <a name="project-operations-isv-embed-offers"></a>Projekt åtgärder ISV embed-erbjudanden
+#### <a name="project-operations-isv-embed-offers"></a>Project Operations ISV-inbäddningserbjudanden
 
-Den 1 november 2020 lanserade Microsoft tre ytterligare 36-månaders ISV Inbäddnings erbjudanden för Dynamics 365 för projekt åtgärder till CSP-kunder (Cloud Solution Provider). Se fliken projekt åtgärder i Excel- [dokumentet Dynamics CSP Offers-November 2020](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-xls) för SKU-informationen.
+Den 1 november 2020 släppte Microsoft ytterligare tre 36 månaders ISV-inbäddningserbjudanden för Dynamics 365 for Project Operations till Molnlösningsleverantör-kunder (CSP). Se fliken Project Operations (Projektåtgärder) i [dokumentet Dynamics CSP Offers-November 2020 Excel](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-xls) för information om SKU:n.
 
-#### <a name="project-operations-dual-use-rights-mapping"></a>Mappning av Project-åtgärder med dubbla användnings rättigheter
+#### <a name="project-operations-dual-use-rights-mapping"></a>Mappning av dubbla användningsområden för Project Operations
 
-Du hittar information om Dynamics 365-rättigheterna för dubbla användnings rättigheter lokalt för projekt åtgärder i följande tabell:
+Du hittar information om lokal mappning med dubbla användningsrättigheter för Dynamics 365 för project operations-erbjudanden i följande tabell:
 
-   |**Erbjudande för D365-åtgärder**|**D365 lokal mappning med dubbla användnings rättigheter**|
+   |**D365 Operations-erbjudande**|**D365 lokal mappning med dubbla användningsrättigheter**|
    |-------------------|:------|
-   |Erbjudande för D365-åtgärder|D365 lokal mappning med dubbla användnings rättigheter|
-   |D365 projekt åtgärder|D365 for Operations, on-lokal (AX server) med hjälp av Dyn365-projekt åtgärder SKU (109108477)|
-   |D365 projekt åtgärder bifoga|D365 for Operations, on-lokal (AX server) med hjälp av Dyn365-projekt åtgärder SKU (109108477)|
-   |D365 ekonomi med projekt åtgärder|D365 for Operations, on-lokal (AX server) med hjälp av Dyn365-projekt åtgärder SKU (109108477)|
-   |D365 ekonomi koppla med projekt åtgärder|D365 for Operations, on-lokal (AX server) med hjälp av Dyn365-projekt åtgärder SKU (109108477)|
-   |D365 Unified Operations – aktivitet med projekt åtgärder|D365 for Operations, on-lokal (AX server) med hjälp av Dyn365-projekt åtgärder SKU (109108477)|
+   |D365 Operations-erbjudande|D365 lokal mappning med dubbla användningsrättigheter|
+   |D365-projektåtgärder|D365 for Operations, on-prem (AX Server) med SKU:n För Project Operations (109108477)|
+   |Koppla D365-projektåtgärder|D365 for Operations, on-prem (AX Server) med SKU:n För Project Operations (109108477)|
+   |D365 Finance med Project Operations|D365 for Operations, on-prem (AX Server) med SKU:n För Project Operations (109108477)|
+   |D365 Finance Attach med Project Operations|D365 for Operations, on-prem (AX Server) med SKU:n För Project Operations (109108477)|
+   |Enhetliga D365-åtgärder – aktivitet med projektåtgärder|D365 for Operations, on-prem (AX Server) med SKU:n För Project Operations (109108477)|
 
-#### <a name="previously-announced"></a>Meddelade tidigare
+#### <a name="previously-announced"></a>Tidigare tillkännagivit
 
-Den 1 november 2020 lanserade Microsoft följande nya och uppdaterade Dynamics 365-och Power Platform-erbjudanden och-produkter för CSP:
+Den 1 november 2020 släppte Microsoft följande nya och uppdaterade Dynamics 365 och Power Platform erbjudanden och produkter för CSP:
 
-- Dynamics 365 Customer Voice-dem 
+- Dynamics 365 Customer Voice USL 
 
-Gå till fliken projekt åtgärder i [Dynamics CSP Offers-November 2020 Excel-dokumentet](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls) för erbjudande-ID-information.
+På fliken Project Operations (Projektåtgärder) i [dokumentet Dynamics CSP Offers-November 2020 Excel](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls) finns information om erbjudandets ID.
 
-Du hittar fler resurser på Start sidan för Microsoft Dynamics 365 Customer Voice.
+Du hittar fler resurser på startsidan för Microsoft Dynamics 365 Customer Voice.
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -601,7 +601,7 @@ Dela den här informationen med relevanta personer i din organisation.
 
 ________________
 
-## <a name="introducing-microsoft-365-business-voice-for-nonprofit-organizations"></a><a name="2"></a>Vi presenterar Microsoft 365 Business röst för ideella organisationer
+## <a name="introducing-microsoft-365-business-voice-for-nonprofit-organizations"></a><a name="2"></a>Introduktion Microsoft 365 Business Voice för ideella organisationer
 
 ### <a name="categories"></a>Kategorier
 
@@ -610,34 +610,34 @@ ________________
 
 ### <a name="summary"></a>Sammanfattning
 
-Den 1 2020 november lanserade Microsoft nya SKU: er för Microsoft 365 Business röst för ideella organisationer.
+Den 1 november 2020 introducerade Microsoft nya SKU:er för Microsoft 365 Business Voice för ideella organisationer.
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Direkta leverantörer, indirekta leverantörer och indirekta åter försäljare
+Direkta leverantörer, indirekta leverantörer och indirekta återförsäljare
 
 ### <a name="details"></a>Information
 
-Den 1 november 2020 introducerade Microsoft nya SKU: er för Business Voice. Den fullständiga sviten är tillgänglig i Kanada, Storbritannien och USA. Business Voice utan samtals plan kommer att vara tillgänglig på alla andra marknader. 
+Den 1 november 2020 introducerade Microsoft nya SKU:er för Business Voice. Den fullständiga sviten är tillgänglig i Kanada, Storbritannien och USA. Business Voice utan samtalsplan kommer att vara tillgängligt på alla andra marknader. 
 
-Microsoft 365 Business Voice är ett molnbaserad telefon system för små och medel stora företag, som är inbyggt i Office 365. Genom att lägga till Business Voice till en kunds Office 365-prenumeration får du en allt-i-ett-kommunikations-och samarbets lösning med anrop, chatt och möten i ett enda program, Microsoft Teams.
+Microsoft 365 Business Voice är ett molnbaserat telefonsystem för små och medelstora företag som är inbyggda i Office 365. Genom att lägga till Business Voice i en kunds Office 365-prenumeration får du en allt-i-ett-lösning för kommunikation och samarbete med samtal, chatt och möten i ett enda program, Microsoft Teams.
 
-Se pris listan för pris information.
+Se prislistan för prisinformation.
 
-Microsoft 365 Business röst kan läggas till i följande prenumerationer för upp till 300 användare:
+Microsoft 365 Business Voice kan läggas till i följande prenumerationer för upp till 300 användare:
 
-- Office 365: Business Essentials, Business Premium, a1, E1, A3 och E3
+- Office 365: Business Essentials, Business Premium, A1, E1, A3 och E3
 - Microsoft 365: Business, A3 och E3
 
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Bekanta dig och dela informationen i för hands versionen av pris listan med alla lämpliga kontakter i din organisation. 
-- Granska all beredskaps material i moln lösnings leverantörens program uppdateringar resurs Galleri: [vi presenterar Microsoft 365 Business röst för små och medel stora företag](https://partner.microsoft.com/resources/collection/m365-voice-smb#/). 
+- Bekanta dig med och dela informationen i prislistan för förhandsversionen med alla lämpliga kontakter i din organisation. 
+- Granska allt beredskapsmaterial i resursgalleriet Molnlösningsleverantör Program Updates: [Introduktion Microsoft 365 Business Voice för små och medelstora företag.](https://partner.microsoft.com/resources/collection/m365-voice-smb#/) 
 
 ________________
 
-## <a name="cloud-solution-provider-csp-promo-for-microsoft-365-business-voice-is-now-available"></a><a name="1"></a>CSP-kampanj (Cloud Solution Provider) för Microsoft 365 Business Voice är nu tillgänglig
+## <a name="cloud-solution-provider-csp-promo-for-microsoft-365-business-voice-is-now-available"></a><a name="1"></a>Molnlösningsleverantör (CSP) för Microsoft 365 Business Voice är nu tillgängligt
 
 ### <a name="categories"></a>Kategorier
 
@@ -646,42 +646,42 @@ ________________
 
 ### <a name="summary"></a>Sammanfattning
 
-Rabatt pris som är tillgängliga för nya och förnyade prenumerationer på Microsoft 365 Business röst med samtals plan och Microsoft 365 Business röst utan att du behöver ringa.
+Rabattpriser för nya prenumerationer och förnyelseprenumerationer på Microsoft 365 Business Voice med samtalsplan och Microsoft 365 Business Voice utan samtalsplan.
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Alla partner som agerar via CSP-programmet
+Alla partner som gör en överträdelse via CSP-programmet
 
 ### <a name="details"></a>Information
 
-Från och med 1 november 2020 till och med 30 april 2021, nya och förnyade prenumerationer på Microsoft 365 Business rösten med samtals plan och Microsoft 365 Business röst utan samtals plan omfattas rabatt priser. Microsoft 365 Business röst med samtals plan är föremål för en 25 procent rabatt på 12 månader och Microsoft 365 Business rösten utan samtals plan omfattas av en rabatt på 33 procent i 12 månader. 
+Från och med 1 november 2020 till och med 30 april 2021 gäller rabatterade prenumerationer på nya prenumerationer och förnyelser av Microsoft 365 Business Voice med samtalsplan och Microsoft 365 Business Voice utan samtalsplan. Microsoft 365 Business Voice med samtalsplan omfattas av en rabatt på 25 procent under 12 månader, och Microsoft 365 Business Voice utan samtalsplan får 33 procents rabatt i 12 månader. 
 
-#### <a name="offer-details"></a>Erbjudande information
+#### <a name="offer-details"></a>Erbjudandeinformation
 
    |**Erbjudandets namn**|**Erbjudande-ID**|**Material-ID**|
    |-------------------|:------|:------|
-   |Microsoft 365 Business röst implementerings kampanj|e7d1d0fa-b769-45c7-aaea-c3e6f7402691|PZX-00006|
-   |Microsoft 365 Business röst implementerings kampanj|ef3ff6bb-a288-4a56-9204-97b37ff9a0b8|PZW-00019|
-   |Microsoft 365 Business Voice (USA) implementerings kampanj|4244aed3-90ae-4754-8dc8-37f2e8d84e85|PZW-00020|
-   |Microsoft 365 Business röst (utan samtals plan) implementerings kampanj|b71df433-6fd9-4549-886d-577f7aa06070|PZY-00019|
-   |Microsoft 365 Business röst (utan samtals plan) implementerings kampanj|4ba4d580-4902-42b0-8411-a27358dd5405|PZY-00016|
-   |Microsoft 365 Business röst (utan samtals plan) implementerings kampanj|bbfd896b-e3d4-45ba-9319-14104d400069|PZY-00018|
-   |Microsoft 365 Business röst (utan samtals plan) för oss att anta kampanj|9b05d0b7-cfb4-42f1-9cc3-f698dba2838e|PZY-00017|
+   |Microsoft 365 Business Voice Adoption-kampanj|e7d1d0fa-b769-45c7-aaea-c3e6f7402691|PZX-00006|
+   |Microsoft 365 Business Voice Adoption-kampanj|ef3ff6bb-a288-4a56-9204-97b37ff9a0b8|PZW-00019|
+   |Microsoft 365 Business Voice (US) Adoption Promo|4244aed3-90ae-4754-8dc8-37f2e8d84e85|PZW-00020|
+   |Microsoft 365 Business Voice (utan att anropa plan) – Införandekampanj|b71df433-6fd9-4549-886d-577f7aa06070|PZY-00019|
+   |Microsoft 365 Business Voice (utan att anropa plan) – Införandekampanj|4ba4d580-4902-42b0-8411-a27358dd5405|PZY-00016|
+   |Microsoft 365 Business Voice (utan att anropa plan) – Införandekampanj|bbfd896b-e3d4-45ba-9319-14104d400069|PZY-00018|
+   |Microsoft 365 Business Voice (utan samtalsplan) för US Adoption Promo|9b05d0b7-cfb4-42f1-9cc3-f698dba2838e|PZY-00017|
 
 Dessa kampanjer påverkar följande kunder:
 
-- NET New kund klient organisationer
-- Befintliga kund innehavare som inte har någon aktiv eller nyligen Annullerad (under de senaste 30 dagarna) prenumeration på en licens för affärs röst eller ljud konferens på CSP, webb Direct eller någon annan Microsoft-kommersiell kanal
+- Netto nya kundklienter
+- Befintliga kundklienter som inte har en aktiv eller nyligen avbruten prenumeration (under de senaste 30 dagarna) på någon business voice- eller ljudkonferenslicens på CSP, Web Direct eller någon annan kommersiell Microsoft-kanal
 
 #### <a name="additional-resources"></a>Ytterligare resurser
 
-- Besök [sidan Microsoft 365 Business Voice partner](https://www.microsoft.com/microsoft-365/partners/businessvoice) för att lära dig mer om Business Voice. 
-- Lär dig mer om den här befordran i de relaterade [vanliga frågorna om partner](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo).
+- Besök [partnersidan Microsoft 365 Business Voice om du](https://www.microsoft.com/microsoft-365/partners/businessvoice) vill veta mer om Business Voice. 
+- Läs mer om den här befordran i vanliga frågor och svar [om relaterade partner.](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo)
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Bekanta dig med det här mötet och anropa kampanj möjligheter och dela den här informationen med alla lämpliga kontakter i din organisation.
-- Införliva dessa kampanjer i din Microsoft 365 Sälj rörelse.
-- Öka medvetenheten bland kunderna om värdet för att lägga till affärs röst i team. 
+- Bekanta dig med dessa möten och anropa kampanjmöjligheter och dela den här informationen med alla lämpliga kontakter i din organisation.
+- Inkludera dessa kampanjer i Microsoft 365 sälj rörelse.
+- Öka kundernas medvetenhet om värdet av att lägga till Business Voice i Teams. 
 
 ________________
