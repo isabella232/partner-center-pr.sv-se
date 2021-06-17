@@ -1,20 +1,20 @@
 ---
-title: Den Microsoft-partneravtal (MPA) för CSP
+title: MPA (Microsoft-partneravtal) för CSP
 ms.topic: how-to
 ms.date: 03/23/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig mer om Microsoft CSP-partnerkrav för att signera och verifiera detta enhetliga, digitalt godkända Microsoft-partneravtal (MPA).
+description: Lär dig mer om Microsoft CSP-partnerkrav för att signera och verifiera detta enhetliga, digitalt Microsoft-partneravtal (MPA).
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: fdcd83554073a7951862787a9f29383a3752dd30
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: fc263c617a6a26872604970a42eb100708062fed
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146348"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276628"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Läs mer om Microsoft-partneravtal (MPA) för CSP-programpartner
 
@@ -22,9 +22,9 @@ ms.locfileid: "110146348"
 
 Den Microsoft-partneravtal förser Microsoft-partner med ett enhetligt, digitalt godkänt partneravtal. Den Microsoft-partneravtal innehåller en grundläggande uppsättning permanenta villkor som hjälper Microsoft, partner och kunder att stödja datasekretess och säkerhet, främja efterlevnad och uppmuntra bra affärsmetoder.
 
-Alla Molnlösningsleverantör partner (inklusive indirekta leverantörer, indirekta återförsäljare och direktfaktureringspartner) kan signera MPA online i Partnercenter. Direktfaktureringspartner och indirekta providerpartner som arbetar Microsoft Cloud for US Government kan också signera MPA från Partnercenter.
+Alla Molnlösningsleverantör partner (inklusive indirekta leverantörer, indirekta återförsäljare och direktfaktureringspartner) kan signera MPA online i Partnercenter. Direktfaktureringspartner och indirekta leverantörspartner som arbetar Microsoft Cloud for US Government kan också signera MPA från Partnercenter.
 
-Om du vill fortsätta att delta i CSP-programmet måste du signera Microsoft-partneravtal den 31 januari 2020. PartnerCenter påminner dig om att du nu enkelt kan signera avtalet från Partnercenter.
+Om du vill fortsätta att delta i CSP-programmet måste du signera Microsoft-partneravtal den 31 januari 2020. Partnercenter påminner dig om att du nu enkelt kan signera avtalet från Partnercenter.
 
 >[!NOTE]
 >MPA måste signeras en gång i varje CSP-region där ditt företag har CSP-verksamhet. Läs mer om [CSP-regioner](regional-authorization-overview.md) 
@@ -39,7 +39,7 @@ Om du vill fortsätta att delta i CSP-programmet måste du signera Microsoft-par
  
 1. Från **Inställningar** väljer du [Partnerprofil](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile).
 
-1. Läs **avsnittet Programinformation.** Om MPN-programstatusen **är Aktiv** är du en aktiv MPN-partner i Partnercenter.
+1. Läs **avsnittet Programinformation.** Om MPN-programmets status **är** Aktiv är du en aktiv MPN-partner i Partnercenter.
  
 1. Om MPN-programmets status **är Nekad/Avvisad** eller **Väntar** har kontoverifieringen misslyckats. Läs [Verifieringsprocessen](verification-responses.md) för att ta reda på hur du löser verifieringsproblemet.
 
@@ -56,9 +56,9 @@ Om du vill fortsätta att delta i CSP-programmet måste du signera Microsoft-par
 
 1. Från **Inställningar** väljer du **Kontoinställningar** och sedan [Partnerprofil.](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)
 
-1. Läs **avsnittet Programinformation.** Om din information inte visar **status för indirekt** återförsäljare måste du registrera dig som en indirekt [återförsäljare.](indirect-reseller-tasks-in-partner-center.md)
+1. Läs **avsnittet Programinformation.** Om din information inte visar status **för indirekt** återförsäljare måste du registrera dig som en [indirekt återförsäljare.](indirect-reseller-tasks-in-partner-center.md)
 
-1. Om  **Status för indirekt** återförsäljare är **Aktiv** är du en aktiv indirekt återförsäljare i Partnercenter.
+1. Om  **Status för indirekt** återförsäljare **är** Aktiv är du en aktiv indirekt återförsäljare i Partnercenter.
  
 4. Om  **Status för indirekt** återförsäljare är **Kvalificerad** går du till [**instrumentpanelens översikt och**](https://partner.microsoft.com/pcv/dashboard/overview) godkänner MPA för att aktivera ditt konto.
  
@@ -71,35 +71,35 @@ Kom ihåg att acceptera begäran om CSP-relation med din indirekta leverantör.
 ## <a name="sign-the-mpa"></a>Signera MPA
 
 1. Logga in på Partnercenter med ditt CSP Indirect Reseller konto. Du måste vara global administratör.
-1. Gå till **[översiktssidan för CSP.](https://partner.microsoft.com/pcv/dashboard/overview)**  Om du inte ser  varken Acceptera och fortsätt eller den gröna banderollen som talar om att MPA har signerats har du inte rätt roll för att signera MPA. Kontakta din globala administratör för att signera MPA.
+1. Gå till **[översiktssidan för CSP.](https://partner.microsoft.com/pcv/dashboard/overview)**  Om du inte ser  antingen Acceptera och fortsätt eller den gröna banderollen som talar om att MPA har signerats har du inte rätt roll för att signera MPA. Kontakta din globala administratör för att signera MPA.
 
-1. Om du vill visa och **Microsoft-partneravtal** innan du signerar den väljer du Microsoft-partneravtal länken enligt nedan.
+1. Om du vill visa och **ladda Microsoft-partneravtal** innan du signerar den väljer du Microsoft-partneravtal länken enligt nedan.
 
-:::image type="content" source="images/agreement-three.png" alt-text="Ny plats för MPA-avtal":::
+:::image type="content" source="images/agreement-three.png" alt-text="Ny plats för MPA-avtal.":::
 
 >[!NOTE]
->Om du inte ser länken **Microsoft-partneravtal** kontrollerar du din roll i Partnercenter. Endast globala administratörer i CSP-klientorganisationen kan visa och logga in MPA i Partnercenter. Om du vill kontrollera din roll går **du till Användarhantering** och kontrollerar att det inloggade kontot är markerat **som Global administratör.** Annars kan det här kontot inte användas för att signera MPA. Du kan söka efter globala administratörer i ditt företag på sidan Användarhantering.
+>Om du inte ser länken **Microsoft-partneravtal** kontrollerar du din roll i Partnercenter. Endast globala administratörer på CSP-klienten kan visa och signera MPA i Partnercenter. Om du vill kontrollera din roll går **du till Användarhantering** och kontrollerar att det inloggade kontot är markerat **som Global administratör.** Annars kan det här kontot inte användas för att signera MPA. Du kan söka efter globala administratörer i ditt företag på sidan Användarhantering.
 
-:::image type="content" source="images/user-management-clean.png" alt-text="Så här hittar du din roll":::
+:::image type="content" source="images/user-management-clean.png" alt-text="Hur du hittar din roll.":::
 
 ## <a name="verify-that-you-have-signed-the-mpa"></a>Kontrollera att du har signerat MPA
 
 Så här ser du om du har signerat MPA:
 
- Som global administratör för ditt företag går du till [CSP-översikten](https://partner.microsoft.com/pcv/dashboard/overview) och kontrollerar att den gröna banderollen meddelar dig att du har godkänt MPA.
+ Som global administratör för ditt företag går du till [CSP-översikten](https://partner.microsoft.com/pcv/dashboard/overview) och kontrollerar att den gröna banderollen meddelar dig att du har accepterat MPA.
 
  
-:::image type="content" source="images/banner-boxed.png" alt-text="Grön banderoll som visar MPA-godkännande":::
+:::image type="content" source="images/banner-boxed.png" alt-text="Grön banderoll som visar MPA-godkännande.":::
 
 >[!NOTE]
 >Endast den globala administratören i ditt företag kan visa och signera MPA. Om du inte är global administratör måste du be din globala administratör att verifiera MPA.
 
-Du kan också se om du har signerat avtalet genom att välja **Avtal** från **Kontoinställningar.**
+Du kan också se om du har signerat avtalet genom att **välja Avtal** från **Kontoinställningar.**
 
-:::image type="content" source="images/agreement-new.png" alt-text="Indikation på att MPA är signerat":::
+:::image type="content" source="images/agreement-new.png" alt-text="Indikation på att MPA är signerat.":::
 
 
-## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process"></a>Ladda ned den stegvisa guide som är rätt för den plats där du befinner dig i MPA-signeringsprocessen
+## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process"></a>Ladda ned den steg-för-steg-guide som är rätt för den plats där du befinner dig i MPA-signeringsprocessen
 
 1. Om du migrerar ditt MPN-konto från PMC till Partnercenter: [Migrera från PMC till Partnercenter och godkänn Microsoft-partneravtalet](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 

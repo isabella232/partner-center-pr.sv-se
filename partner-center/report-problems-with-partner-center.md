@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5d71d3efe10d38cfc0b5ce8dd60c3c51e2be9f1b
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 07ff4df4b6d91b84af40e9b2b32d991f4ad09062
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855615"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277801"
 ---
 # <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Partnercenter– portalförfrågningar och diagnostikverktyg
 
@@ -41,36 +41,36 @@ Kontakta Partnercenter-supporten om du hittar problem eller behöver hjälp med 
 
 **För närvarande i förhandsversion*
 
-Om ditt problem kräver en konversation med din support advocate kan du schemalägga den avtalade tiden från din biljettinformation.
+Om ditt problem kräver en konversation med din supportförespråkare kan du schemalägga mötet från din supportinformation.
 
-:::image type="content" source="images/support/ticket.png" alt-text="Schemalägg en avtalad supporttid":::
+:::image type="content" source="images/support/ticket.png" alt-text="Schemalägg en avtalad support.":::
 
 1.  På sidan med ärendeinformation i Partnercenter väljer du ett tillgängligt datum och tid i supportens kalender. Du ser bara tillgängliga datum och tider i din lokala tidszon.
 
-:::image type="content" source="images/support/ticket2.png" alt-text="Schemalägg avtalad tid":::
+:::image type="content" source="images/support/ticket2.png" alt-text="Schemalägg avtalad tid.":::
 
 2. Partnercenter kontrollerar supportens kalender för tillgänglighet.
 
-1. När du schemalägger en avtalad tid skickar Partner Center en kalenderinbjudan med information om hur supporten kontaktar dig, så att du kan spåra den här avtalade tiden i din egen arbets kalender.  Även om den här funktionen fortfarande är i förhandsversion kommer e-postmeddelandet och kalenderinbjudan att vara på engelska, men supporten kommer att kunna hjälpa dig på det språk som du valde när du skapade ditt ärende.
+1. När du schemalägger en avtalad tid skickar Partnercenter en kalenderinbjudan med information om hur supporten kontaktar dig, så att du kan spåra den här avtalade tiden i din egen arbetskalender.  Även om den här funktionen fortfarande är i förhandsversion kommer e-post- och kalenderinbjudan att vara på engelska, men supporten kommer att kunna hjälpa dig på det språk du valde när du skapade din biljett.
 
-:::image type="content" source="images/support/ticket3.png" alt-text="Datum och tid":::
+:::image type="content" source="images/support/ticket3.png" alt-text="Datum och tid.":::
 
-## <a name="hours-of-operation"></a>Antal drifttimmar
+## <a name="hours-of-operation"></a>Åtgärdstimmar
 
 **Partnersupport**
 
-:::image type="content" source="images/support/hoop.png" alt-text="Supporttimmar":::
+:::image type="content" source="images/support/hoop.png" alt-text="Drifttimmar för support.":::
 
 ## <a name="send-diagnostics"></a>Skicka diagnostik
 
-Om ett fel inträffar när du är på en Partnercenter-sida kan du uppmanas att samla in logginformation. Välj **Samla in mer information** från länken som visas längst upp på sidan för att öppna verktyget Klientdiagnostik. Det här verktyget samlar in information som Partnersupportteamet behöver för att fastställa orsaken till felet. 
+Om ett fel uppstår när du är på en Partnercenter-sida kan du uppmanas att samla in logginformation. Välj **Samla in mer information** från länken som visas längst upp på sidan för att öppna verktyget Klientdiagnostik. Det här verktyget samlar in information som Partnersupportteamet behöver för att fastställa orsaken till felet. 
 
 >[!NOTE]
 >På Partnercenter-sidor som **innehåller /pcv/** i URL:en kan du öppna verktyget manuellt för att samla in den här informationen.
 
 1. Gå till sidan med problemet.
 
-2. Tryck **på Ctrl+Alt+D** för att öppna diagnostikverktyget för klienten.
+2. Tryck **på Ctrl+Alt+D för** att öppna diagnostikverktyget för klienten.
 
 Du kan förhandsgranska diagnostikinformationen och sedan spara den i en fil som du kan bifoga i din supportbegäran. Så här skickar du informationen till oss:
 

@@ -3,38 +3,38 @@ title: Överföra En Azure-prenumeration under en Azure-plan till en annan CSP-p
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig hur du ändrar Molnlösningsleverantör partner som är associerad med en kunds Azure-prenumerationer under en Azure-plan.
+description: Lär dig hur du ändrar Molnlösningsleverantör programpartner som är associerad med en kunds Azure-prenumerationer under en Azure-plan.
 ms.custom: SEOMAY.20
 ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: dcacc6da51fe40c7eb05997f5409ef5fadbcf693
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 092c76fb874eb7308bdb69503223f722657db957
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109856057"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277325"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Överföra en kunds Azure-planprenumerationer till en annan partner
 
-**Lämpliga roller:** Kontoadministratörsroller | Försäljningsagent | Faktureringsagent
+**Lämpliga roller:** Kontoadministratörsroller | Försäljningsagentens | Faktureringsagent
 
-Den här artikeln beskriver hur en kund kan byta azure-prenumerationer under en Azure-plan från en Molnlösningsleverantör (CSP) till en annan.
+I den här artikeln beskrivs hur en kund kan byta azure-prenumerationer under en Azure-plan från en Molnlösningsleverantör (CSP) till en annan.
 
 Följ dessa steg om du vill byta en kunds Azure-prenumerationer från en annan partner. Både partnern och kunden har steg att slutföra.
 
 >[!Note]  
->Endast partner med en direkt faktureringsrelation med Microsoft kan komma åt övergångsverktyget. Indirekta återförsäljare måste samarbeta med sina indirekta leverantörer för att använda det här övergångsverktyget.
+>Endast partner med en direkt faktureringsrelation med Microsoft kan komma åt övergångsverktyget. Indirekta återförsäljare måste samarbeta med sina indirekta leverantörer för att utnyttja det här övergångsverktyget.
 
-Kunden måste föra en konversation med båda partnerna (aktuell och framtida) innan det här verktyget används. En offline-konversation måste vara tvungen att undvika förvirring och omsättning. Dessutom bör partner och kunder förstå dessa överväganden och förutsättningar innan en övergång påbörjas:
+Kunden måste föra en konversation med båda partnerna (aktuell och framtida) innan det här verktyget används. En offline-konversation måste vara tvungen att undvika förvirring och omsättning. Dessutom bör partner och kunder förstå dessa överväganden och förutsättningar innan de påbörjar en övergång:
 
 **Viktiga överväganden:**
 
-- Azure-reservationer flyttas inte med prenumerationen till en framtida partner
-- CSP-priser för Azure-tjänster under den aktuella partnern kommer inte att övergå  
+- Azure-reservationer flyttas inte med prenumerationen till framtida partner
+- CSP-priser för Azure-tjänster under aktuell partner kommer inte att övergå  
 - Kundens supportansvar flyttas till framtida partner
-- Faktureringen flyttas till en framtida partner vid tidpunkten för överföringen
+- Fakturering och fakturering flyttas till framtida partner vid tidpunkten för överföringen
 - Azure Role-Based Access Control (RBAC) påverkas inte av överföringen
 - Admin on Behalf Of (AOBO) beviljas inte som standard till den framtida partnern
 - Marketplace-produkter från tredje part överförs så länge produkterna klarar berättigandekontrollen för Marketplace.
@@ -65,21 +65,21 @@ Kunden måste också identifiera de prenumerationer som de vill överföra från
 Prenumerationens framtida partner måste fylla i ett formulär för överföringsbegäran från Partnercenter för att begära en prenumerationsöverföring:
 
 1.  I menyn i Partnercenter väljer du **Kunder** och väljer sedan den kund som du vill fylla i ett formulär för överföringsbegäran för.
-2.  Välj Prenumerationer på menyn **Kund.**
+2.  I menyn Kund väljer du **Prenumerationer.**
 3.  Välj avsnittet **Överföringsbegäran.**
 4.  I avsnittet **Överföringsbegäran väljer** du Lägg **till ny begäran.**
 
-    :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="Avsnittet Överföringar":::
+    :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="Avsnittet Överföringar.":::
 
 5.  Fyll i **formuläret Ny överföringsbegäran.**
 
 6.  Välj **Skicka överföringsbegäran**  >  **Skicka**.
 
-    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Fullständigt formulär för överföringsbegäran":::
+    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Fyll i formuläret för överföringsbegäran.":::
 
 7.  Granska bekräftelse av överföringsbegäran
 
-    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Granska väntande överföring":::
+    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Granska väntande överföring.":::
 
     >[!Note]
     >Den framtida partnern kan avbryta  överföringsbegäran genom att välja Avbryt begäran i det övre högra hörnet endast när statusen för överföringsbegäran är "väntande". När statusen för överföringsbegäran är "pågår" eller "klar" går det inte att avbryta.
@@ -88,20 +88,20 @@ Prenumerationens framtida partner måste fylla i ett formulär för överföring
 
 Den aktuella partnerns administratörsagent för kunden får ett e-postmeddelande om att kunden begär överföring av sina prenumerationer:
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Genomgång":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Recension.":::
 
 Granska och acceptera formuläret för överföringsbegäran från Partnercenter för att slutföra prenumerationsöverföringen.
 
 >[!Note]  
 >Om ingen åtgärd vidtas av den aktuella partnern inom 30 dagar upphör begäran att gälla och den framtida partnern har en för att skapa en ny överföringsbegäran.
 
-1.  Välj **Granska överföringsbegäran i** e-postmeddelandet ELLER
-1.  I menyn i Partnercenter väljer **du Kunder** och väljer sedan den kund som en överföringsbegäran har skickats för.
-2.  Välj Prenumerationer på menyn **Kund.**
+1.  Välj **Granska överföringsbegäran från** e-postmeddelandet ELLER
+1.  I menyn i Partnercenter väljer **du Kunder** och sedan den kund som en överföringsbegäran har skickats för.
+2.  I menyn Kund väljer du **Prenumerationer.**
 3.  Välj avsnittet **Överföringsbegäran.**
 4.  Expandera överföringsinformation genom att välja det valda **ID:t för överföringsbegäran** under **Mottagna begäranden**
 
-:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Överföringsbegäran för källgranskningar":::
+:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Överföringsbegäran för källgranskningar.":::
 
 5.  Granska överföringsbegäran. Välj de Azure-prenumerationer som ska överföras.
 
@@ -112,7 +112,7 @@ Granska och acceptera formuläret för överföringsbegäran från Partnercenter
 
 6.  Välj sedan **Acceptera och överför** för att slutföra överföringsprocessen.
 
-:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Välj prenumerationer som ska överföras under dina Azure-planer":::
+:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Välj prenumerationer som ska överföras under dina Azure-planer.":::
 
 7.  Visa bekräftelse på överföringsgodkännande.
 
@@ -129,9 +129,9 @@ Granska och acceptera formuläret för överföringsbegäran från Partnercenter
 
 - Åtkomst till befintliga användare, grupper eller tjänsthuvudnamn som tilldelades med hjälp av Azure RBAC (rollbaserad åtkomstkontroll) påverkas inte under övergången. Rollbaserad åtkomstkontroll [i Azure (Azure RBAC)](/azure/role-based-access-control/overview) hjälper kunden att hantera vem som har åtkomst till Azure-resurser, vad de kan göra med dessa resurser och vilka områden de har åtkomst till. Som ny partner får du ingen RBAC-åtkomst till kundens resurser efter prenumerationsöverföringen. Kundens tidigare partner behåller sin RBAC-åtkomst. Arbeta med kunden för att förstå vem som har insyn i sina prenumerationer och hur du gör önskade ändringar.
 
-- Därför är det viktigt att kunden tar bort Azure RBAC-åtkomst för sin tidigare partner och lägger till åtkomst för den nya partnern. Mer information om hur kunden ger ny åtkomst finns i [Vad är rollbaserad åtkomstkontroll i Azure (Azure RBAC)?](/azure/role-based-access-control/overview) Mer information om hur kunden tar bort din tidigare partners RBAC-åtkomst finns i [Ta bort en rolltilldelning.](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment)
+- Därför är det viktigt att kunden tar bort Azure RBAC-åtkomst för sin tidigare partner och lägger till åtkomst för den nya partnern. Mer information om hur din kund ger ny åtkomst finns i [Vad är rollbaserad åtkomstkontroll i Azure (Azure RBAC)?](/azure/role-based-access-control/overview) Mer information om hur kunden tar bort din tidigare partners RBAC-åtkomst finns i [Ta bort en rolltilldelning.](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment)
 
-- Dessutom får du inte automatiskt [AOBO-åtkomst (Admin on Behalf Of)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) till dina prenumerationer. AOBO är nödvändigt för att partner ska kunna hantera sina kunders Azure-prenumerationer åt dem. Mer information om Azure-behörigheter finns i [Skaffa behörigheter för att hantera en kunds tjänst eller prenumeration.](./customers-revoke-admin-privileges.md)
+- Dessutom får du inte automatiskt [AOBO-åtkomst (Admin on Behalf Of)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) till dina prenumerationer. AOBO är nödvändigt för att partnern ska kunna hantera kundens Azure-prenumerationer åt dem. Mer information om Azure-behörigheter finns i [Skaffa behörigheter för att hantera en kunds tjänst eller prenumeration.](./customers-revoke-admin-privileges.md)
 
 ## <a name="next-steps"></a>Nästa steg:
 

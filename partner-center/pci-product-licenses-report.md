@@ -9,38 +9,38 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 15658abdbf23c1181fb411fd66673fc9699250ae
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 8ab1ec5001e3b21d9661d0db0e7b8e51f12acda2
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855173"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277478"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Rapporten Produktlicenser på instrumentpanelen i Partnercenter Insights
 
-**Lämpliga roller:** Globala | Administratörsagent | Rapportvisningsprogram | Visningsprogram för exekutiv rapport
+**Lämpliga roller:** Global | Administratörsagent | Rapportvisningsprogram | Rapportvisningsprogram för chefer
 
-Rapporten Produktlicenser visar licensanalys för licensbaserade molnprodukter, till exempel Office 365, Dynamics, Microsoft 365, Power BI och andra. Analyser som visas här är associerade med användningen av de licenser som du har sålt eller som du hanterar för dina kunder. Du kan visa följande avsnitt i rapporten Produktlicenser.
+Rapporten Produktlicenser visar licensanalys för licensbaserade molnprodukter, till exempel Office 365, Dynamics, Microsoft 365, Power BI med flera. Analyser som visas här är associerade med användningen av de licenser som du har sålt eller som du hanterar för dina kunder. Du kan visa följande avsnitt i rapporten Produktlicenser.
 
 - Sammanfattning
 - Geografisk spridning av licenser
 - Licens lägger till
-- Licensdistribution efter partnerplatser, försäljningskanal, SKU:er, partner attach type, segment
+- Licensdistribution efter partnerplatser, försäljningskanal, SKU:er, typ av partner-anslutning, segment
 
  > [!NOTE]
- > Den här rapporten är tillgänglig från Insights-instrumentpanelen. Om du vill visa den här rapporten måste du ha tilldelats en viss roll i Partnercenter, till exempel Global administratör, Kontoadministratör, Rapportvisare eller Rapportvisningsprogram. Mer information finns i företagets globala administratör. Specifika typer av data i den här rapporten kan också vara tillgängliga endast för användare med privilegier för visningsprogrammet för verkställande rapporter.
+ > Den här rapporten är tillgänglig från instrumentpanelen Insights. Om du vill visa den här rapporten måste du ha tilldelats en viss roll i Partnercenter, till exempel Global administratör, Kontoadministratör, Rapportvisningsprogram eller Visningsprogram för verkställande rapporter. Mer information finns i företagets globala administratör. Specifika typer av data i den här rapporten kan också vara tillgängliga endast för användare med privilegier i visningsprogrammet för verkställande rapporter.
 
 ## <a name="summary"></a>Sammanfattning
 
 Sammanfattningsavsnittet innehåller en ögonblicksbild av KPI:er (Key Performance Indicators) som är associerade med sålda, distribuerade och använda molnproduktlicenser. På så sätt kan du spåra den aktiva användningen mot licenser som säljs till dina kunder.
 
-:::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="sammanfattning av licensrapport":::
+:::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="sammanfattning av licensrapporten.":::
 
 Mer information om varje avsnitt i sammanfattningen finns nedan:
 
 - Licenser: 
   - Det aktuella antalet licenser som säljs eller hanteras av dig för licensbaserade molnprodukter, till exempel Office 365, Dynamics, Microsoft 365, Power BI med flera.
-  - Ökning eller minskning i procent av dessa licenser under det valda datumintervallet.
+  - Procentuell tillväxt eller minskning av dessa licenser under det valda datumintervallet.
   - Mikrodiagram för licenstrend: Mikrodiagrammet visar trenden för antalet licenser under månaden under det valda datumintervallet
 
 - Distribuerade licenser:
@@ -61,7 +61,7 @@ I **vyn Licenser geografisk spridning** visas den geografiska fördelningen av a
 
 Du kan söka efter och välja ett land i rutnätet för att zooma till platsen på kartan. Tryck på **alternativet** Start på kartan för att återgå till standardvyn. Hovra över kartan för att visa aktuella licenser och aktiva licenser efter kundland. Båda fälten i rutnätet är sorterbara.
 
-:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="licens geografisk spridning":::
+:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="licens geografisk spridning.":::
 
 ## <a name="license-adds"></a>Licens lägger till
 
@@ -71,17 +71,17 @@ Om du vill visa trenden efter produkt och tjänst/arbetsbelastning väljer du en
 
 X-axeln representerar månader för det valda datumintervallet. Y-axeln representerar antalet licenser som lagts till. Om du vill zooma in en viss punkt använder du skjutreglaget överst i diagrammet.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="licens lägger till":::
+:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="licens lägger till.":::
 
 ## <a name="license-distribution"></a>Licensdistribution
 
-Den här vyn visar en uppdelning av dina kundlicenser efter produkt och kundland/region. När du väljer en produkt i **cirkeldiagrammet Licens efter** produkt visas en licensuppdelning efter kundregion i det intilliggande diagrammet.
+Den här vyn visar en uppdelning av dina kundlicenser efter produkt och kundland/region. När du väljer en produkt i **cirkeldiagrammet Licens** efter produkt visar det intilliggande diagrammet en licensuppdelning efter kundregion.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="licensdistribution":::
+:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="licensdistribution.":::
 
 ## <a name="next-steps"></a>Nästa steg
 
 Fler rapporter finns i [Partner Center Insights.](partner-center-insights.md)
 
 >[!NOTE] 
-> Du kan ladda ned rådata som driver den här rapporten från avsnittet Ladda ned rapporter på Insights-instrumentpanelen. [Läs mer](pci-download-reports.md)
+> Du kan ladda ned rådata som driver den här rapporten från avsnittet Ladda ned rapporter på instrumentpanelen Insights. [Läs mer](pci-download-reports.md)

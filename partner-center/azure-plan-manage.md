@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18cc5c62beaa76f6e3ade79f2f2069e0f2bd3c7e
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: a885d8bbbd7541e199365a7c732aba0b67128053
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149612"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277155"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Hantera prenumerationer och resurser under Azure-planen
 
@@ -34,18 +34,18 @@ Den här artikeln förklarar hur CSP-partner kan använda olika alternativ för 
 
 - **Katalog- eller [](/azure/active-directory/develop/app-objects-and-service-principals)gästanvändare** eller tjänsthuvudnamn: Du kan delegera detaljerad åtkomst till CSP-prenumerationer genom att lägga till användare i kundkatalogen eller lägga till gästanvändare och tilldela specifika RBAC-roller.
 
-Microsoft rekommenderar att användarna har den lägsta behörighet som de behöver för att utföra sitt arbete som en säkerhetspraxis. Se [Azure Active Directory Privileged Identity Management resurser](/azure/active-directory/privileged-identity-management/pim-configure).
+Microsoft rekommenderar att användarna har den lägsta behörighet de behöver för att utföra sitt arbete som en säkerhetspraxis. Se [Azure Active Directory Privileged Identity Management resurser](/azure/active-directory/privileged-identity-management/pim-configure).
 
 ## <a name="link-your-partner-id-mpn-id-to-your-credentials-for-managing-customers-azure-resources"></a>Länka ditt partner-ID (MPN-ID) till dina autentiseringsuppgifter för att hantera kundens Azure-resurser
 
 I följande tabell visas de metoder som används för att associera ditt partner-ID med olika RBAC-åtkomstalternativ.
 
-|**Kategori**   |**Scenario**   |**MPN-ID-association**|
+|**Kategori**   |**Scenario**   |**MPN ID-association**|
 |-----------------|:------------------------|:------------------|
-|Aobo   |CSP-direktpartner eller indirekt leverantör skapar prenumerationen för kunden som gör CSP-direktpartnern eller den indirekta leverantören till standardägare för prenumerationen med hjälp av AOBO. CSP-direkt partner eller indirekt leverantör ger indirekt återförsäljare åtkomst till prenumerationen med hjälp av AOBO.|Automatiskt (inget partnerarbete krävs)|
+|Aobo   |CSP-direkt partner eller indirekt leverantör skapar prenumerationen för kunden som gör CSP direkt partner eller indirekt provider standardägare för prenumerationen med hjälp av AOBO. CSP-direkt partner eller indirekt leverantör ger indirekt återförsäljare åtkomst till prenumerationen med hjälp av AOBO.|Automatiskt (inget partnerarbete krävs)|
 |Azure Lighthouse|Partner skapar ett nytt [erbjudande för hanterade tjänster på Marketplace.](/azure/lighthouse/concepts/managed-services-offers) Det här erbjudandet accepteras i CSP-prenumerationen och partnern får åtkomst till CSP-prenumerationen.|Automatiskt (inget partnerarbete krävs)|
-|Azure Lighthouse|Partner distribuerar [ARM-mall i](/azure/lighthouse/how-to/onboard-customer) En Azure-prenumeration|Partnern måste associera MPN-ID:t med användarens eller tjänstens huvudnamn i partnerklientorganisationen. Mer information finns i [Länka Partner-ID](/azure/billing/billing-partner-admin-link-started).|
-|Katalog- eller gästanvändare|Partnern skapar en ny användare eller tjänstens huvudnamn i kundkatalogen och ger användaren åtkomst till CSP-prenumerationen. Partner skapar en ny användare eller tjänstens huvudnamn i kundkatalogen. Partnern lägger till användaren i en grupp och ger åtkomst till CSP-prenumerationen till gruppen.|Partnern måste associera MPN-ID:t med användarens eller tjänstens huvudnamn i kundens klientorganisation. Mer information finns i [Länka Partner-ID](/azure/billing/billing-partner-admin-link-started).|
+|Azure Lighthouse|Partner distribuerar [ARM-mall i](/azure/lighthouse/how-to/onboard-customer) En Azure-prenumeration|Partnern måste associera MPN-ID:t med användaren eller tjänstens huvudnamn i partnerklientorganisationen. Mer information finns i [Länka Partner-ID](/azure/billing/billing-partner-admin-link-started).|
+|Katalog- eller gästanvändare|Partnern skapar en ny användare eller tjänstens huvudnamn i kundkatalogen och ger användaren åtkomst till CSP-prenumerationen. Partner skapar en ny användare eller tjänstens huvudnamn i kundkatalogen. Partner lägger till användaren i en grupp och ger åtkomst till CSP-prenumerationen till gruppen.|Partnern måste associera MPN-ID:t med användaren eller tjänstens huvudnamn i kundens klientorganisation. Mer information finns i [Länka Partner-ID](/azure/billing/billing-partner-admin-link-started).|
 
 ## <a name="confirm-that-you-have-admin-access"></a>Bekräfta att du har administratörsåtkomst
 
@@ -59,11 +59,11 @@ Du behöver administratörsåtkomst för att hantera kundens tjänster och för 
 
 1. Skapa avisering.
 
-   :::image type="content" source="images/azure/azurealert1.png" alt-text="azure-avisering":::
+   :::image type="content" source="images/azure/azurealert1.png" alt-text="azure-avisering.":::
 
 2. Välj den typ av åtgärd som du vill att aviseringen ska vidta. Om du till exempel anger att du vill ha ett e-postmeddelande får du ett e-postmeddelande med ett meddelande om borttagning av rolltilldelningar.
 
-   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="konfigurera avisering":::
+   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="konfigurera avisering.":::
 
 ### <a name="aobo-removal"></a>Borttagning av AOBO
 

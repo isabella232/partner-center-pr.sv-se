@@ -9,31 +9,31 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7dab3469b885f693ba8498e8a07eb120b8f07021
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 1693545449abf33bc7a4f5216b7d6ef0d5713829
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147215"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276866"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Använd analys för att lära dig mer om prenumerationsintäkter
 
-**Lämpliga roller:** Globala | MPN-partneradministratör
+**Lämpliga roller:** Global | MPN-partneradministratör
 
 När du planerar sätt att utveckla CSP-verksamheten behöver du vara införstådd med hur kunderna använder sina Microsoft-produkter. Du har flera alternativ för att samla in data i Partnercenter och du kan samla in data om både din verksamhet och om och hur dina kunder använder de licenser som de har köpt. Om du använder CSP-direktmodellen har du också möjlighet att installera och använda appen Partnercenteranalys för Power BI för att samla in ytterligare data.
 
-## <a name="access-to-the-subscription-analytics"></a>Åtkomst till prenumerationsanalys
+## <a name="access-to-the-subscription-analytics"></a>Åtkomst till prenumerationsanalysen
 
 1. Logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard/home)
 1. Från CSP på Menyn i Partnercenter väljer **du Analysera** och sedan **Prenumerationsanalys.**
 
-1. De avslutande tolvmånaders CSP-intäkterna visas överst på sidan
+1. De avslutande tolv månaders CSP-intäkterna visas överst på sidan
 
-:::image type="content" source="images/analytics/subscription1.png" alt-text="Prenumerationsskärm":::
+:::image type="content" source="images/analytics/subscription1.png" alt-text="Prenumerationsskärmen.":::
 
 ## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Intäkter från Twelve-Month CSP (TTM)
 
-Avslutande intäkter från 12 månaders CSP representerar de avslutande Molnlösningsleverantör i USD på partnernivå för globalt konto. Data uppdateras den åttonde i varje månad för att visa de avslutande tolvmånadersintäkterna fram till föregående månad. Den 9 september 2020 bör du till exempel kunna se TTM för den fasta perioden september 2019 till augusti 2020.
+Avslutande 12 månaders CSP-intäkter representerar de avslutande Molnlösningsleverantör i USD på partnerns globala kontonivå. Data uppdateras den åttonde i varje månad för att visa de avslutande tolvmånadsintäkterna fram till föregående månad. Den 9 september 2020 bör du till exempel kunna se TTM för den fasta perioden september 2019 till augusti 2020.
 
 Intäkterna som visas i Partnercenter beräknas för ett fast tidsintervall på 12 månader och kan inte ändras till en kortare tidsram.
 
@@ -42,7 +42,7 @@ Så här ser du en uppdelning av intäkterna på din partnerplatskontonivå:
 - Välj länken "Hämta information" och ladda ned en .tsv-fil som visar TTM-intäkterna för alla dina platser.
 
 >[!NOTE] 
->Summering av enskilda TTM-intäktsnummer över MPN-ID:er i .tsv-filen kan verka större än de totala TTM-intäkter som visas i Partnercenter. Det beror på att intäkterna kan räknas dubbelt för prenumerationer med flera partnerattributioner i den nedladdade filen.
+>Att summera enskilda TTM-intäktsnummer över MPN-ID:er i .tsv-filen kan verka vara större än de totala TTM-intäkter som visas i Partnercenter. Det beror på att intäkterna kan räknas dubbelt för prenumerationer med flera partnerattributioner i den nedladdade filen.
 
 ## <a name="subscription-summary"></a>Prenumerationssammanfattning
 

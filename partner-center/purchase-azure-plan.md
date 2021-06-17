@@ -4,38 +4,38 @@ ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Med Hjälp av Azure-planen kan du lära dig hur du köper en eller flera Azure-prenumerationer, Azure-reservationer, för att konfigurera resurser och visa eller lägga till prenumerationer.
+description: Med Azure-planen kan du lära dig hur du köper en eller flera Azure-prenumerationer, Azure-reservationer, konfigurerar resurser och visar eller lägger till prenumerationer.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 004044902b21c223af75414a1ec999173b481058
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 24eba2969552b0403de9828e86d4fc73abfec585
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854969"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276271"
 ---
-# <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Köp Azure-planen för kunder & få åtkomst till de senaste Azure-tjänsterna till betala-enligt användning-priser
+# <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Köp Azure-planen för kunder & få åtkomst till de senaste Azure-tjänsterna till Betala enligt användning-priser
 
-**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Försäljningsagent
+**Lämpliga roller:** Globala | Administratörsbehörighet för | Försäljningsagent
 
-När du köper en Azure-plan för dina kunder under Microsoft-kundavtal får du tillgång till den fullständiga katalogen med de senaste Azure-tjänsterna till betala-och-användning-priser. CSP-partner kommer nu att kunna komma åt alla Azure-tjänster när de blir allmänt tillgängliga. En partner kan ha flera Azure-prenumerationer under en Azure-plan. 
+När du köper en Azure-plan för dina kunder under Microsoft-kundavtal får du tillgång till den fullständiga katalogen med de senaste Azure-tjänsterna till Betala enligt användning-priser. CSP-partner kommer nu att kunna komma åt alla Azure-tjänster när de blir allmänt tillgängliga. En partner kan ha flera Azure-prenumerationer under en Azure-plan. 
 
 ## <a name="countryregion-availability"></a>Tillgänglighet för land/region
 
-Den nya handelsupplevelsen i CSP för Azure är för närvarande schemalagd att vara tillgänglig i 139 länder. Se den fullständiga listan över dessa [länder/regioner.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x) 
+Den nya handelsupplevelsen i CSP för Azure är schemalagd att vara tillgänglig i 139 länder. Se en fullständig lista över dessa [länder/regioner.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x) 
 
 ## <a name="how-to-purchase-azure-plan"></a>Så här köper du en Azure-plan
 
-Hur du köper Azure-planen liknar att köpa en annan prenumeration. Den största skillnaden är att innan du faktiskt gör din beställning måste du bekräfta att kunden har signerat Microsoft-kundavtal.
+Hur du köper Azure-planen liknar att köpa andra prenumerationer. Den viktigaste skillnaden är att innan du faktiskt gör din beställning måste du bekräfta att kunden har signerat Microsoft-kundavtal.
 
 1. Välj **Segment kommersiell** och skriv **Microsoft Azure** 
 2. Under Azure-plan väljer du **Lägg till i kundvagn**
 
-:::image type="content" source="images/azure/Azurepurchase1.png" alt-text="Köp":::
+:::image type="content" source="images/azure/Azurepurchase1.png" alt-text="Köpa.":::
 
-Partnern måste bekräfta att kunden har granskat och godkänt Microsoft-kundavtal villkoren. Mer information om hur partnern kan göra detta finns i Bekräfta [kundens godkännande av Microsoft-kundavtal](confirm-customer-agreement.md). Andra resurser är tillgängliga i [resursgalleriet](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
+Partnern måste bekräfta att kunden har granskat och godkänt Microsoft-kundavtal villkor. Mer information om hur partnern kan göra detta finns i Bekräfta [kundens godkännande av Microsoft-kundavtal](confirm-customer-agreement.md). Andra resurser är tillgängliga i [resursgalleriet](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
 
 **Bekräfta genom att antingen**: 
 
@@ -45,7 +45,7 @@ Partnern måste bekräfta att kunden har granskat och godkänt Microsoft-kundavt
 
 ### <a name="to-confirm"></a>Bekräfta 
 
-1. På kundens kontosida **väljer** du **Uppdatera** bredvid **Microsoft-kundavtal**  
+1. På kundens **kontosida väljer** du **Uppdatera** bredvid **Microsoft-kundavtal**  
 
 2. Fyll i informationen om personen på kundens företag som godkände MCuA.
 
@@ -60,11 +60,11 @@ Du kommer tillbaka till **sidan Lägg till** en produkt där du kan se att Azure
 
 ## <a name="purchase-azure-reservations-under-the-azure-plan"></a>Köpa Azure-reservationer enligt Azure-planen 
   
-Du kan också köpa Microsoft Azure-reservationer under Azure-plan åt dina kunder i Partnercenter. (Eller, om du vill, kan du ge dina kunder behörighet att köpa sina egna [Azure-reservationer](give-customers-permission.md) från en tidigare prenumeration som du har köpt åt dem.)
+Du kan också köpa Microsoft Azure under Azure-plan åt dina kunder i Partnercenter. (Eller, om du vill, kan du ge dina kunder behörighet att köpa sina egna [Azure-reservationer](give-customers-permission.md) från en tidigare prenumeration som du har köpt för dem.)
 
 1. I menyn i Partnercenter på [instrumentpanelen](https://partner.microsoft.com/dashboard/)väljer du **Kunder.** Hitta den kund som vill köpa Azure-reservationer och välj sedan nedåtpilen för att expandera kundens rad.
 
-2. Välj **Lägg till** produkter och välj sedan **Azure**. 
+2. Välj **Lägg till produkter** och välj sedan **Azure**. 
 
    - Välj kundens marknadssegment i **listan** Segment.
    - Välj **Reservationer** i **listan Produkttyp.**
@@ -76,28 +76,28 @@ Azure-reservationer måste associeras med en aktiv Azure-plan. Välj den Azure-p
 >Om kunden inte redan har en aktiv Azure-plan väljer du Azure för att lägga till en nu. Mer information finns i Köpa [Azure-reservationer.](azure-reservations-buying.md#purchase-azure-reservations)
 
 >[!Note]
->Omfånget för en reservation kan bara anges till **Delat**, för närvarande i Partnercenter. Om du vill välja ett enskilt prenumerationsomfång eller uppdatera från delat till enskilt prenumerationsomfång **går du Microsoft Azure hanteringsportalen med** hjälp av följande anvisningar. 
+>Omfånget för en reservation kan bara anges till **Delad**, för närvarande i Partnercenter. Om du vill välja ett enskilt prenumerationsomfång eller uppdatera från delat till enskilt prenumerationsomfång **går du Microsoft Azure hanteringsportalen med** hjälp av följande anvisningar. 
 
-:::image type="content" source="images/azure/addprods1.png" alt-text="Inställning för reservationer med delat omfång":::
+:::image type="content" source="images/azure/addprods1.png" alt-text="Inställning för reservationer med delat omfång.":::
 
 Så här hanterar du kundens reservation i Azure Portal: 
 
 1. Från **Kunder** väljer du den kund som du vill hantera. 
 
-2. Med nedåtpilen expanderar du kundens rad och väljer Microsoft Azure **hanteringsportalen.**  
+2. Med nedåtpilen expanderar du kundens rad och väljer Microsoft Azure **Hanteringsportalen.**  
  
 ## <a name="view-azure-subscriptions-under-the-azure-plan"></a>Visa Azure-prenumerationer under Azure-planen
 
 På sidan **Prenumerationer** går du till avsnittet användningsbaserad och expanderar **Azure-plan för** att se associerade Azure-prenumerationer under Azure-planen.
 
-:::image type="content" source="images/azure/addprods2.png" alt-text="Visa lista över Azure-prenumerationer"::: 
+:::image type="content" source="images/azure/addprods2.png" alt-text="Visa en lista över Azure-prenumerationer."::: 
 
 
 ## <a name="add-subscriptions-and-configure-resources"></a>Lägga till prenumerationer och konfigurera resurser
 
-Du lägger till prenumerationer och konfigurerar resurser för kunden i Azure Portal. Du kan också separera kundens miljö efter arbetsbelastning eller projekt. Du kan hantera prenumerationer via [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) och Azure Portal. 
+Du lägger till prenumerationer och konfigurerar resurser för din kund i Azure Portal. Du kan också separera kundens miljö efter arbetsbelastning eller projekt. Det är möjligt att hantera prenumerationer [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) och Azure Portal. 
 
-Om du vill hantera kundens resurser och prenumerationer behöver du AOBO-behörighet **(Admin on Behalf Of).** Information om hur du hanterar din åtkomst finns [i Hantera prenumerationer och resurser i Azure-planen](azure-plan-manage.md)
+För att hantera dina kunders resurser och prenumerationer behöver du AOBO-behörighet **(Admin on Behalf Of).** Information om hur du hanterar din åtkomst finns i [Hantera prenumerationer och resurser under Azure-planen](azure-plan-manage.md)
 
 ## <a name="next-steps"></a>Nästa steg
 

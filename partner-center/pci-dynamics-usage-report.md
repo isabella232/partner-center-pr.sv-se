@@ -8,12 +8,12 @@ description: Se vad du gör bra och var du kan förbättra användningen av Dyna
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 0e2880f8548b220d708c61c08a0ea9fb37700240
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 2c0b90fdeaf8bf1715d89221959aeb49e186d150
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152808"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277512"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Dynamics-användningsrapport som är tillgänglig från instrumentpanelen i Partnercenter Insights
 
@@ -48,40 +48,40 @@ I sammanfattningsavsnittet visas en ögonblicksbildsvy över de kpi:er som är r
 
 - Aktiv användning %: Totalt antal aktiva platser uttryckt som en procentandel av de tillgängliga platserna för den valda tidsramen. 
 
-   Mikrodiagrammet visar en månatlig trend för aktiv användning i procent under den valda tidsperioden.
+   Micro-diagrammet visar en månatlig trend för aktiv användning i procent under den valda tidsperioden.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-summary.png" alt-text="Sammanfattning av Dynamics-användning":::
+:::image type="content" source="images/pci/pci-dynamics-usage-summary.png" alt-text="Sammanfattning av Dynamics-användning.":::
 
-## <a name="dynamics-usage-by-geography"></a>Dynamics-användning per geografiskt område
+## <a name="dynamics-usage-by-geography"></a>Dynamics-användning efter geografiskt område
 
-**Dynamics-användningen per geografisk** plats visar distributionen av tillgängliga platser och aktiva platser per kundland. Ljusare färger på kartan representerar lägre värden, medan mörkare färger representerar högre värden. Du kan söka efter och välja ett land i rutnätet. Du kan också zooma in för en närmare titt.
+**Dynamics-användningen per geografisk** plats visar distributionen av tillgängliga platser och aktiva platser efter kundland. Ljusare färger på kartan representerar lägre värden, medan mörkare färger representerar högre värden. Du kan söka efter och välja ett land i rutnätet. Du kan också zooma in för en närmare titt.
 
 I **tabellen Antal länder/regioner** visas det totala antalet länder/regioner där Azure-användningshändelser genereras.
 
 Du kan söka efter och välja ett land i rutnätet för att zooma till platsen på kartan. Välj alternativet **Start** på kartan för att återgå till den ursprungliga vyn.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-geography.png" alt-text="Dynamics-användning per geografiskt område":::
+:::image type="content" source="images/pci/pci-dynamics-usage-geography.png" alt-text="Dynamics-användning efter geografiskt område.":::
 
 ## <a name="dynamics-usage-by-sku"></a>Dynamics-användning efter SKU
 
-Dynamics-användningen av SKU visar månatlig trend för tillgängliga platser, aktiva platser och tilldelade platser efter SKU:er.
+Dynamics-användningen per SKU visar månatlig trend för tillgängliga platser, aktiva platser och tilldelade platser efter SKU:er.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-sku.png" alt-text="Dynamics-användning efter SKU":::
+:::image type="content" source="images/pci/pci-dynamics-usage-sku.png" alt-text="Dynamics-användning efter SKU.":::
 
 ## <a name="subscriptions-performance"></a>Prenumerationsprestanda
 
-Prenumerationsprestanda visar den månatliga trenden för aktiv användning per kundprenumeration. Data för de 100 främsta kunderna efter fakturerade intäkter visas i tabellen och du kan söka efter valfri kund eller ladda ned rådata för att visa information om alla prenumerationer.
+Prenumerationsprestanda visar den månatliga trenden för aktiv användning per kundprenumeration. Data för de 100 främsta kunderna efter fakturerade intäkter visas i tabellen och du kan söka efter en kund eller ladda ned rådata för att visa information om alla prenumerationer.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-subscription.png" alt-text="Prestanda för Dynamics-prenumeration":::
+:::image type="content" source="images/pci/pci-dynamics-usage-subscription.png" alt-text="Prestanda för Dynamics-prenumeration.":::
 
-## <a name="dynamics-usage-distribution"></a>Dynamics-användningsdistribution
+## <a name="dynamics-usage-distribution"></a>Distribution av Dynamics-användning
 
-Dynamics-användningsdistributionen visar uppdelningen av tillgängliga platser, aktiva platser och tilldelade platser efter SKU:er.
+Distributionen av Dynamics-användning visar uppdelningen av tillgängliga platser, aktiva platser och tilldelade platser efter SKU:er.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-distribution.png" alt-text="Dynamics-användningsdistribution":::
+:::image type="content" source="images/pci/pci-dynamics-usage-distribution.png" alt-text="Dynamics-användningsdistribution.":::
 
 ## <a name="next-steps"></a>Nästa steg
 
-- Fler rapporter finns i [Partner Center Insights.](partner-center-insights.md)
+- Fler rapporter finns i [Partner Center Insights](partner-center-insights.md).
 
-- Du kan ladda ned rådata som driver den här rapporten från avsnittet Ladda ned rapporter på instrumentpanelen Insights. [Läs mer](pci-download-reports.md) 
+- Du kan ladda ned rådata som driver den här rapporten från avsnittet Ladda ned rapporter på Insights-instrumentpanelen. [Läs mer](pci-download-reports.md) 

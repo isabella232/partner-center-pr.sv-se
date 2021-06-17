@@ -5,13 +5,13 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 04/15/2021
-ms.openlocfilehash: cfe37f26ad685ca723336d8559d15d4a64048f4b
-ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
+ms.date: 01/18/2021
+ms.openlocfilehash: f747c11ef4bfc9abe1035ffb3f059da59b6572ac
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "109630091"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276509"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace köp
 
@@ -35,7 +35,7 @@ I den Azure Marketplace upplevelsen i Azure Portal du det program som du vill k�
 
 :::image type="content" source="media/overview/button-set-up-and-subscribe.png" alt-text="Knappen Konfigurera + prenumerera.":::
 
-Om du vill distribuera en lösning från Azure Marketplace-onlinebutiken väljer du Hämta nu på produktbeskrivningssidan och loggar sedan in med dina autentiseringsuppgifter för Azure-kontot. 
+Om du vill distribuera en lösning från Azure Marketplace onlinebutik väljer du Hämta **nu** på produktbeskrivningssidan och loggar sedan in med dina autentiseringsuppgifter för Azure-kontot.
 
 :::image type="content" source="media/overview/sign-in-to-azure-marketplace.png" alt-text="Dialogrutan Azure Marketplace inloggning.":::
 
@@ -43,7 +43,7 @@ När du har loggat in omdirigeras du till produkten i Azure Portal slutföra kö
 
 ## <a name="purchase-policy-management"></a>Hantering av köpprincip
 
-Med Microsoft kan du hantera användarinköp via din faktureringsprofil som Azure-prenumerationsadministratör. Välj bland tre alternativ:
+Med Microsoft kan du hantera användarinköp via din faktureringsprofil som Azure-prenumerationsadministratör. Välj mellan tre alternativ:
 
 - **Kostnadsfri + betald** – Tillåter användare att skaffa alla Azure Marketplace-program.
 - **Kostnadsfri** – Tillåter användare att endast distribuera kostnadsfri programvara från Azure Marketplace.
@@ -51,24 +51,24 @@ Med Microsoft kan du hantera användarinköp via din faktureringsprofil som Azur
 
 De här inställningarna gäller för alla användare med åtkomst till din Azure-prenumeration, vilket ger dig möjlighet att kontrollera IT-anskaffning via Azure Portal.
 
-:::image type="content" source="media/overview/billing-profile-policy-settings.png" alt-text="Kontrollera IT-anskaffning via Azure Portal":::
+:::image type="content" source="media/overview/billing-profile-policy-settings.png" alt-text="Kontrollera IT-anskaffning via Azure Portal.":::
 
 ## <a name="cost-management"></a>Kostnadshantering
 
-När du köper produkter Azure Marketplace vill du få insikter som hjälper dig att hantera kostnader. Azure Cost Management är ett kostnadsfritt verktyg för att visa information om de produkter som du har köpt. Du kan använda Cost Management för att se information om vilka tjänster du spenderar pengar på över tid och hur dessa kostnader spåras mot de budgetar som du har angett. Förutom att ange budgetar kan du schemalägga rapporter och analysera prenumerationskostnader. Läs mer om Azure Cost Management genom att slutföra Microsoft Learn modulen Analysera kostnader och [skapa budgetar med Azure Cost Management](/learn/modules/analyze-costs-create-budgets-azure-cost-management/).
+När du köper produkter från Azure Marketplace vill du få insikter som hjälper dig att hantera kostnader. Azure Cost Management är ett kostnadsfritt verktyg för att visa information om de produkter som du har köpt. Du kan använda Cost Management för att se information om vilka tjänster du spenderar pengar på över tid och hur dessa kostnader spåras mot de budgetar som du har angett. Förutom att ange budgetar kan du schemalägga rapporter och analysera prenumerationskostnader. Läs mer om Azure Cost Management genom att slutföra modulen Microsoft Learn Analysera kostnader och [skapa budgetar med Azure Cost Management](/learn/modules/analyze-costs-create-budgets-azure-cost-management/).
 
 Du kan visa dina Azure Marketplace-avgifter och fakturor i kostnadsanalysverktyget under Azure Cost Management.
 
 :::image type="content" source="media/overview/azure-cost-management.png" alt-text="Använd Azure Cost Management för att få insikter om dina köpta produkter.":::
 
-## <a name="purchase-validation-checks"></a>Köpvalideringskontroller
+## <a name="purchase-validation-checks"></a>Valideringskontroller för köp
 
-Att köpa ett erbjudande via Azure Marketplace kan misslyckas av olika skäl. Att använda kommandoradsgränssnittet (CLI) för ett köp är mer troligt att orsaka fel eftersom du kanske försöker köpa ett erbjudande som inte är tillgängligt eller visas i Azure Marketplace. Följande är de kontroller som kan orsaka att ett köp misslyckas:
+Att köpa ett erbjudande via Azure Marketplace kan misslyckas av olika orsaker. Att använda kommandoradsgränssnittet (CLI) för ett köp är mer troligt att orsaka fel eftersom du kanske försöker köpa ett erbjudande som inte är tillgängligt eller synligt i Azure Marketplace. Följande är de kontroller som kan orsaka att ett köp misslyckas:
 
 1. Prenumerationen tillhör ett Enterprise-avtal (EA) och EA-administratören inaktiverade Azure Marketplace inköp.
 1. EA-administratören har endast aktiverat köp för kostnadsfria erbjudanden och erbjudandet är ett betalt erbjudande.
 1. Erbjudandet finns inte på Marketplace.
-1. Oberoende programvaruleverantör (ISV) är inaktuell (slutar tidigare sälja) erbjudandet, åtminstone i din region.
+1. Oberoende programvaruleverantör (ISV) slutade sälja erbjudandet, åtminstone i din region.
 1. Prenumerationen som du använder tillhör ett faktureringskonto i en region där erbjudandet inte är tillgängligt.
 1. Prenumerationen/faktureringskontot är inte associerat med ett giltigt betalningsmedel (till exempel ett giltigt kreditkort).
 1. Prenumerationen tillhör en Molnlösningsleverantör (CSP) och ISV:n avböjde att sälja via en CSP.

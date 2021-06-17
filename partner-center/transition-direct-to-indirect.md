@@ -4,44 +4,44 @@ ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig hur en CSP-programpartner kan använda PartnerCenter för att övergå från direktfaktureringspartner till indirekt återförsäljare.
+description: Lär dig hur en CSP-programpartner kan använda Partnercenter för att övergå från partner med direktfakturering till indirekt återförsäljare.
 author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e57ae5a30e3ee4331ae509a0650d09baf4a82590
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: e57c4a5d0a02079e887b38fa9754d276062d20cc
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854901"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276424"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Övergå från en CSP-partner med direktfakturering till en indirekt CSP-återförsäljare
 
 **Lämpliga roller:** Global administratör
 
 >[!Note]
->Den här artikeln är avsedd för direktfaktureringspartner som har valt att övergå till indirekta återförsäljare. Men även om du ännu inte har gjort ett uttryckligt beslut om att registrera [](direct-partner-new-requirements.md) dig som en indirekt återförsäljare, kommer direktfaktureringspartner som inte uppfyller de nya kraven för CSP:s partnerprogram för direktfakturering att informeras av Microsoft när deras direktfaktureringsfunktioner kommer att [begränsas.](restricted-direct-bill-capabilities.md)
-<br>Från och med januari 2021 kommer ett nytt intäktskrav att läggas till. Partner som registrerats som en partner med direktfakturering måste ha gjort en överträdelse på minst 300 000 USD i Molnlösningsleverantör-programintäkter på en global partnerkontonivå under de senaste 12 månaderna.
+>Den här artikeln är avsedd för direktfaktureringspartner som har valt att övergå till indirekta återförsäljare. Men även om du ännu inte har bestämt dig för att registrera dig som en [](direct-partner-new-requirements.md) indirekt återförsäljare, kommer direktfaktureringspartner som inte uppfyller de nya kraven för CSP:s partnerprogram för direktfakturering att informeras av Microsoft när deras direktfaktureringsfunktioner kommer att [begränsas.](restricted-direct-bill-capabilities.md)
+<br>Från och med januari 2021 kommer ett nytt intäktskrav att läggas till. Partner som registrerats som en partner med direktfakturering måste ha gjort minst 300 000 USD i Molnlösningsleverantör-programintäkter på en global partnerkontonivå under de senaste 12 månaderna.
 
-Du kommer att kunna registrera dig i programmet för indirekta återförsäljare med din befintliga klientorganisation för direktfakturering.
+Du kommer att kunna registrera dig i programmet för indirekta återförsäljare med hjälp av din befintliga klientorganisation för direktfakturering.
 
 ## <a name="get-started"></a>Kom igång
 
-1. Kontrollera att din partnerprofil i Partnercenter och MPN-ID är aktuella.
+1. Kontrollera att partnerprofilen i Partnercenter och MPN-ID:t är aktuella.
 
-2. Logga in på Partner Center som global administratör för den klientorganisation för direktfakturering som du övergår till en indirekt återförsäljare.
+2. Logga in på Partner Center som global administratör för den klientorganisation för direktfakturering som du övergår till indirekt återförsäljare.
 
-   :::image type="content" source="images/direct/direct1.png" alt-text="Översikt":::
+   :::image type="content" source="images/direct/direct1.png" alt-text="Översikt.":::
 
 3. Granska din partnerinformation i registreringsformuläret.
 
-   :::image type="content" source="images/direct/direct2a.png" alt-text="Registrera dig nu":::
+   :::image type="content" source="images/direct/direct2a.png" alt-text="Registrera dig nu.":::
 
 4. Välj Registrera nu. Din indirekta återförsäljare använder samma AAD-klientorganisation som du använder för din direkta verksamhet.
 
     > [!NOTE]
-    > Den här nya övergångskapaciteten kommer inledningsvis att vara tillgänglig för partner med årsdagen för september till december. Om du inte har något årsdagsdatum mellan september och december ser du inte funktionen just nu. Partner med årsdagar efter december 2018 meddelas senare när funktionen har aktiverats för partner.
+    > Den här nya övergångskapaciteten kommer inledningsvis att vara tillgänglig för partner med årsdagen för september till december. Om du inte har något årsdagsdatum mellan september och december ser du inte funktionen just nu. Partner med årsdagar efter december 2018 meddelas senare när funktionen har aktiverats för partnern.
 
 5. När registreringen har godkänts loggar du in på Partnercenter igen.
 
@@ -52,7 +52,7 @@ Du kommer att kunna registrera dig i programmet för indirekta återförsäljare
 
 När du har accepterat det indirekta återförsäljaravtalet kan du se att din partnerprofil identifierar dig som **både** en direktfakturering och indirekt återförsäljare.
 
-:::image type="content" source="images/direct/direct3.png" alt-text="Indirekt återförsäljaravtal":::
+:::image type="content" source="images/direct/direct3.png" alt-text="Indirekt återförsäljaravtal.":::
 
 > [!IMPORTANT]
 > När du registrerar dig som en indirekt återförsäljare med den nya funktionen finns det inget alternativ för att återställa till en klientorganisation med en direkt faktura. Se till att du utvärderar dina affärsbehov fullständigt innan du registrerar dig som indirekt återförsäljare.
@@ -61,7 +61,7 @@ När du har accepterat det indirekta återförsäljaravtalet kan du se att din p
 
 Under den här fasen fortsätter du att hantera dina direkta kunders prenumerationsbehov, inklusive faktureringsprocessen. Du kan också börja acceptera kunder från din indirekta leverantör och arbeta som en indirekt återförsäljare.
 
-:::image type="content" source="images/direct/direct4.png" alt-text="Du är både en direktfakturering och en indirekt återförsäljare":::
+:::image type="content" source="images/direct/direct4.png" alt-text="Du är både en direktfakturering och en indirekt återförsäljare.":::
 
 ## <a name="find-an-indirect-provider"></a>Hitta en indirekt leverantör
 
@@ -97,23 +97,23 @@ Så här skapar du en indirekt återförsäljarinbjudan:
 
 4. Redigera texten i e-postmeddelandet för att säga vad du behöver, men se till att inkludera länken eftersom den är anpassad för att ansluta kunden direkt till både ditt konto och leverantörens konto. Välj sedan **Done** (Klar).
 
-5. När kunden ger dig och din leverantör tillstånd att bli återförsäljare av posten, har du administratörsbehörighet att hantera deras prenumerationer, licenser och användare för deras räkning, och din indirekta leverantör kommer att kunna skicka beställningar för deras räkning.
+5. När kunden har godkänt dig och din leverantör att bli återförsäljare av posten, har du administratörsbehörighet att hantera deras prenumerationer, licenser och användare för deras räkning, och din indirekta leverantör kommer att kunna skicka beställningar för deras räkning.
 6. Om du vill hantera kundens konto, tjänster, användare och licenser expanderar du kundens post genom att välja nedåtpilen nära kundens namn.
 
 Till skillnad från partner med direktfakturering kan indirekta återförsäljare inte skapa Azure AD-klienter för sina nya kunder i Partnercenter. Leverantören skapar klienten och anger dig som indirekt återförsäljare för den här kunden. Detta säkerställer att kunden visas i kundlistan i Partnercenter.
 
 >[!Note]
->Du kommer inte att kunna använda din direktfaktureringsfunktion för att skapa inköp för kunder som du skaffar som en indirekt återförsäljare.
+>Du kommer inte att kunna använda funktionen för direktfakturering för att skapa inköp för kunder som du får som en indirekt återförsäljare.
 
 ## <a name="managing-your-direct-bill-customers-and-your-indirect-reseller-customers"></a>Hantera dina direktfaktureringskunder och dina indirekta återförsäljares kunder
 
 Du hanterar dina direktfaktureringskunder och dina indirekta återförsäljares kunder på olika sätt.
 
-### <a name="direct-bill-customers-things-you-wont-do-as-an-indirect-reseller"></a>Fakturera kunder direkt (saker som du inte kommer att göra som indirekt återförsäljare)
+### <a name="direct-bill-customers-things-you-wont-do-as-an-indirect-reseller"></a>Direktfakturering av kunder (saker som du inte gör som indirekt återförsäljare)
 
-- Skapa beställningar av produkter
+- Skapa beställningar för produkter
 - Hantera Azure-reservationer
-- Hantera sin orderhistorik
+- Hantera deras orderhistorik
 - Köpa programvara
 - Fakturera kunder direkt
 
@@ -129,7 +129,7 @@ Du hanterar dina direktfaktureringskunder och dina indirekta återförsäljares 
 
 2. Välj en kund för att visa information.
 
-3. Om kunden är en kund som du har köpt  som direktfaktureringspartner visas alternativ för att lägga till **eller** visa produkter, och du ser deras prenumerationer.
+3. Om kunden är en partner som du har köpt  som en direktfaktureringspartner visas alternativ för att lägga till **eller** visa produkter och du ser deras prenumerationer.
 
 4. Om kunden har en indirekt återförsäljarrelation med dig är dessa alternativ inte tillgängliga.
 
@@ -160,10 +160,10 @@ Du kan använda funktionen för tillägget för återförsäljarrelationer för 
 
 - Din indirekta provider får inte delegerade [administrationsbehörigheter till](customers-revoke-admin-privileges.md) kundens klientorganisation. Om din indirekta leverantör kräver delegerade administrationsbehörigheter måste du skicka en indirekt återförsäljarinbjudan till kunden i stället.
 
-- När återförsäljarrelationen har upprättats visas den indirekta leverantören som CSP-partner för kunden under sidan Partnerrelationer i [Microsoft 365 administrationscenter](https://admin.microsoft.com/AdminPortal/Home#/partners) [och Microsoft Store för företag](/microsoft-store/work-with-partner-microsoft-store-business).
+- När återförsäljarrelationen har upprättats visas den indirekta leverantören som en CSP-partner för kunden under sidan Partnerrelationer [i Microsoft 365 administrationscenter](https://admin.microsoft.com/AdminPortal/Home#/partners) [och Microsoft Store för företag](/microsoft-store/work-with-partner-microsoft-store-business).
 
     > [!IMPORTANT]
-    > För att undvika förvirring och förvirring godkänns du enligt ditt partneravtal för att informera och få medgivande från direktfaktureringskunden innan du använder relationstilläggsfunktionen för att upprätta en återförsäljarrelation mellan en befintlig direktfaktureringskund och en indirekt leverantör.
+    > För att undvika förvirring och förvirring godkänns du enligt avtalet i partneravtalet för att informera och få medgivande från direktfaktureringskunden innan du använder relationstilläggsfunktionen för att upprätta återförsäljarrelationer mellan en befintlig direktfaktureringskund och en indirekt leverantör.
 
 Så här använder du den här funktionen på en befintlig kundklientorganisation:
 
@@ -173,7 +173,7 @@ Så här använder du den här funktionen på en befintlig kundklientorganisatio
 
 3. Under **Indirekta leverantörer klickar du på** Överför kund på en indirekt **leverantör.**
 
-    :::image type="content" source="images/direct/direct5-1.png" alt-text="Överföra kunden till en indirekt leverantör":::
+    :::image type="content" source="images/direct/direct5-1.png" alt-text="Överföra kunden till en indirekt leverantör.":::
 
 4. I popup-dialogrutan väljer du den **indirekta leverantör** som du vill ha återförsäljarrelation med kunden.
 
@@ -181,17 +181,17 @@ Så här använder du den här funktionen på en befintlig kundklientorganisatio
 
 6. Kontrollera att den valda indirekta providern visas under **Indirekta leverantörer.**
 
-    :::image type="content" source="images/direct/direct5-2.png" alt-text="Indirekt leverantör listad":::
+    :::image type="content" source="images/direct/direct5-2.png" alt-text="Indirekt provider visas.":::
 
 ### <a name="send-an-indirect-reseller-invitation-to-the-customer"></a>Skicka en indirekt återförsäljarinbjudan till kunden
 
-Din indirekta leverantör kan inte skicka beställningar för dina befintliga direktfaktureringskunder förrän de har en återförsäljarrelation med dem. Om du vill upprätta återförsäljarrelationen mellan dina befintliga kunder och din indirekta leverantör bjuder du in kunden med hjälp av en indirekt återförsäljarinbjudan.
+Din indirekta leverantör kan inte skicka beställningar för dina befintliga kunder med direktfakturering förrän de har en återförsäljarrelation med dem. Om du vill upprätta återförsäljarrelationen mellan dina befintliga kunder och din indirekta leverantör bjuder du in kunden med hjälp av en indirekt återförsäljarinbjudan.
 
-1. Välj **Indirekta leverantörer** i det vänstra navigeringsfältet i Partnercenter.
+1. Välj **Indirekta leverantörer i** det vänstra navigeringsfältet i Partnercenter.
 
-2. Välj **Bjud in nya** kunder att bjuda in en kund att upprätta en återförsäljarrelation med både dig och den indirekta leverantören på samma gång. Leverantören måste ha en återförsäljarrelation med kunden så att de kan skicka beställningar för kundens räkning när kunden vill köpa nya prenumerationer eller lägga till nya licenser i befintliga prenumerationer.
+2. Välj **Bjud in nya** kunder att bjuda in en kund att upprätta en återförsäljarrelation med både dig och den indirekta leverantören på samma gång. Leverantören måste ha en återförsäljarrelation med kunden så att de kan skicka beställningar åt kunden när kunden vill köpa nya prenumerationer eller lägga till nya licenser i befintliga prenumerationer.
 
-    :::image type="content" source="images/direct/direct6.png" alt-text="Bjud in nya kunder":::
+    :::image type="content" source="images/direct/direct6.png" alt-text="Bjud in nya kunder.":::
 
 3. På nästa sida granskar du utkastet till e-postmeddelandet. Du kan öppna utkastmeddelandet i ett e-postmeddelande eller kopiera meddelandet till Urklipp och klistra in det i ett e-postmeddelande.
 
@@ -219,11 +219,11 @@ Microsoft Cloud-avtal är giltig fram till den 31 januari 2020. Efter det datume
 
 ## <a name="transfer-existing-direct-bill-subscriptions-to-indirect-provider"></a>Överföra befintliga prenumerationer på direktfakturering till indirekt leverantör
 
-Under en indirekt CSP-modell har indirekta återförsäljare inte faktureringsrelationer med Microsoft. I stället får indirekta återförsäljare prenumerationer åt sina kunder via sina indirekta leverantörer. När du övergår från partner för direktfakturering till indirekt återförsäljare måste du överföra de befintliga prenumerationer som du har som partner för direktfakturering till din indirekta leverantör. Du kan använda funktionen för överföring av självbetjänad prenumeration på instrumentpanelen i Partnercenter för att göra det.
+Under en indirekt CSP-modell har indirekta återförsäljare inte faktureringsrelationer med Microsoft. I stället får indirekta återförsäljare prenumerationer åt sina kunder via sina indirekta leverantörer. När du övergår från partner med direktfakturering till indirekt återförsäljare måste du överföra de befintliga prenumerationer som du har som partner för direktfakturering till din indirekta leverantör. Du kan använda funktionen för självbetjäning av prenumerationsöverföring i Partnercenter-instrumentpanelen för att göra det.
 
 ### <a name="prerequisites"></a>Förutsättningar
 
-- Den här funktionen är endast tillgänglig för övergångspartner som har slutfört registreringen av den indirekta återförsäljaren med sina befintliga partnerklienter för direktfakturering.
+- Den här funktionen är endast tillgänglig för partner som har slutfört registreringen av indirekta återförsäljare med sina befintliga partnerklienter med direktfakturering.
 
 - Innan prenumerationer som är kopplade till en viss kund överförs måste den överförande partnern flytta kunden till en indirekt leverantör.
 
@@ -252,7 +252,7 @@ Funktionen är en 4-stegsprocess där:
 > - [Acceptera en kunds överföring](/partner-center/develop/accept-a-transfer)
 > - [Avvisa en kunds överföring](/partner-center/develop/reject-a-transfer)
 > - [Hämta en kunds överföringar](/partner-center/develop/get-all-of-a-customer-s-transfers)
-> - [Hämta överföringsinformation per ID](/partner-center/develop/get-transfer-by-id)
+> - [Hämta överföringsinformation via ID](/partner-center/develop/get-transfer-by-id)
 
 ### <a name="transitioning-partner---create-transfer-request"></a>Övergångspartner – skapa överföringsbegäran
 
@@ -270,17 +270,17 @@ Så här skapar du en överföringsbegäran som övergångspartner:
 
 6. Under **Prenumerationsöverföring** klickar du på **Begär prenumerationsöverföring.**
 
-    :::image type="content" source="images/direct/direct8.png" alt-text="Begära prenumerationsöverföring":::
+    :::image type="content" source="images/direct/direct8.png" alt-text="Begär prenumerationsöverföring.":::
 
 7. I dialogrutan överföringsbegäran väljer du en eller flera prenumerationer som ska överföras.
 
-    :::image type="content" source="images/direct/direct9.png" alt-text="Skapa överföringsbegäran":::
+    :::image type="content" source="images/direct/direct9.png" alt-text="Skapa överföringsbegäran.":::
 
 8. Klicka på **Skapa**.
 
 9. En begäran om aktiv prenumerationsöverföring visas under **Prenumerationsöverföring.**
 
-    :::image type="content" source="images/direct/direct10.png" alt-text="Lista över överföringsbegäran":::
+    :::image type="content" source="images/direct/direct10.png" alt-text="Lista över överföringsbegäran.":::
 
 10. Informera den indirekta leverantören om att du har skapat en begäran om prenumerationsöverföring till dem.
 
@@ -298,27 +298,27 @@ Så här granskar och godkänner du en överföringsbegäran som indirekt levera
 
 5. På sidan **Prenumerationer** letar du upp **Prenumerationsöverföring.**
 
-    :::image type="content" source="images/direct/direct11.png" alt-text="Visa överföringsbegäran":::
+    :::image type="content" source="images/direct/direct11.png" alt-text="Visa överföringsbegäran.":::
 
 6. Under **Prenumerationsöverföring** klickar du på den överföringsbegäran som ska granskas.
 
 7. Klicka **på Acceptera** **(eller Avvisa)** efter behov.
 
-    :::image type="content" source="images/direct/direct12.png" alt-text="Acceptera överföringsbegäran":::
+    :::image type="content" source="images/direct/direct12.png" alt-text="Acceptera överföringsbegäran.":::
 
 8. Vänta tills överföringsbegäran har slutförts.
 
-### <a name="indirect-provider---verify-transfer-request-is-complete"></a>Indirekt leverantör – verifiera att överföringsbegäran har slutförts
+### <a name="indirect-provider---verify-transfer-request-is-complete"></a>Indirekt provider – verifiera att överföringsbegäran har slutförts
 
 1. När överföringsbegäran har slutförts kontrollerar du att prenumerationerna visas under **Prenumerationer.**
 
 2. Informera övergångspartnern.
 
-### <a name="transitioning-partner---verify-transfer-request-is-complete"></a>Övergångspartner – kontrollera att överföringsbegäran har slutförts
+### <a name="transitioning-partner---verify-transfer-request-is-complete"></a>Övergångspartner – verifiera att överföringsbegäran har slutförts
 
 Övergångspartnern bör göra följande:
 
-1. Logga in på Partner Center som **administratörsagent** eller **försäljningsagent.**
+1. Logga in på Partnercenter som **administratörsagent** eller **försäljningsagent.**
 
 2. På sidan **Kunder** väljer du den avsedda kunden och klickar på ikonen **Snabblänkar** för att expandera sammanfattningsvyn för kunden.
 
@@ -334,7 +334,7 @@ Så här granskar och godkänner du en överföringsbegäran som indirekt levera
 
    2. Om det här är en licensbaserad prenumeration (Office 365, Dynamics, Intune) visas den med tillståndet **Pausad.**
 
-   :::image type="content" source="images/direct/direct13.png" alt-text="Prenumerationen har pausats":::
+   :::image type="content" source="images/direct/direct13.png" alt-text="Prenumerationen har pausats.":::
 
 ### <a name="considerations"></a>Överväganden
 
@@ -344,15 +344,15 @@ Så här granskar och godkänner du en överföringsbegäran som indirekt levera
 
 - **Tillägg för licensbaserade prenumerationer måste överföras tillsammans med basprenumerationen.** När du skapar en överföringsbegäran tas tilläggen automatiskt med i överföringsbegäran om du väljer en befintlig prenumeration med ett eller flera tillägg.
 
-- **Licensantalsändringar i en prenumeration återspeglas inte i en befintlig överföringsbegäran.** När du har skapat en överföringsbegäran som innehåller en befintlig prenumeration bör du undvika att uppdatera prenumerationens licenskvantitet (eller associerade addons). Om du gör det återspeglas inte den nya kvantiteten i överföringsbegäran. När den indirekta providern har accepterat överföringsbegäran får den resulterande prenumerationen den gamla kvantiteten. Om du vill att den nya kvantiteten ska överföras till den indirekta providern måste du avbryta den befintliga överföringsbegäran och återskapa en ny.
+- **Licensantalsändringar i en prenumeration återspeglas inte i befintlig överföringsbegäran.** När du har skapat en överföringsbegäran som innehåller en befintlig prenumeration bör du undvika att uppdatera prenumerationens licenskvantitet (eller associerade addons). Om du gör det återspeglas inte den nya kvantiteten i överföringsbegäran. När den indirekta providern har accepterat överföringsbegäran får den resulterande prenumerationen den gamla kvantiteten. Om du vill att den nya kvantiteten ska överföras till den indirekta providern måste du avbryta den befintliga överföringsbegäran och återskapa en ny.
 
-- **Alla köp kan inte överföras med hjälp av självbetjänad prenumerationsöverföring.** För närvarande kan du bara överföra O365-prenumerationer och Azure PAYG-prenumerationer (MS-AZR-0145P) med den här funktionen. Andra inköp, inklusive Azure-planer, reserverade Azure-instanser, termbaserade prenumerationer och SaaS-prenumerationer för Azure Marketplace stöds inte. Du ser en orsak till varför en prenumeration inte kan överföras på sidan skicka överföringsbegäran. Om du vill överföra dessa prenumerationer måste du avbryta [den befintliga prenumerationen och](create-a-new-subscription.md#suspend-or-cancel-a-subscription) köpa ett nytt erbjudande för kunden via indirekt leverantör.
+- **Alla köp kan inte överföras med hjälp av en egenbetjänad prenumerationsöverföring.** För närvarande kan du bara överföra O365-prenumerationer och Azure PAYG-prenumerationer (MS-AZR-0145P) med den här funktionen. Andra inköp, inklusive Azure-planer, reserverade Azure-instanser, termbaserade prenumerationer och SaaS-prenumerationer för Azure Marketplace stöds inte. Du ser en orsak till varför en prenumeration inte kan överföras på sidan skicka överföringsbegäran. Om du vill överföra dessa prenumerationer måste du avbryta [den befintliga prenumerationen och](create-a-new-subscription.md#suspend-or-cancel-a-subscription) köpa ett nytt erbjudande för kunden via en indirekt leverantör.
 
 - **Det går inte att testa med sandbox-miljön.**
 
 ## <a name="enroll-for-indirect-reseller-incentives"></a>Registrera dig för indirekta återförsäljarincitament
 
-När du har registrerat dig som indirekt återförsäljare på din befintliga partnerklient för direktfakturering får du en inbjudan att registrera dig för indirekt återförsäljares incitament inom 30 dagar. Inbjudan baseras på partnerns MPN-konto som för närvarande är associerat med din CSP-partnerklientorganisation. Inbjudan skickas till den e-postadress som är associerad med partnerns MPN-konto.
+När du har registrerat dig som en indirekt återförsäljare på din befintliga partnerklient för direktfakturering får du en inbjudan att registrera dig för indirekt återförsäljares incitament inom 30 dagar. Inbjudan baseras på partnerns MPN-konto som för närvarande är associerat med din CSP-partnerklientorganisation. Inbjudan skickas till den e-postadress som är associerad med partnerns MPN-konto.
 
 Du är också berättigad att registrera dig för incitamentprogram med direktfakturering med samma partnerklientorganisation. Du måste hantera programmen separat.
 

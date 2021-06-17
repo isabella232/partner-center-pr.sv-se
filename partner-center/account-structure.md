@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fb2488f9a82e261997703c22bca7c3cd9e761db0
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: f10de32f544c74d5d751a66fbc2ba6c4d4cb7fba
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150666"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276543"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Partnercenter har två kontonivåer för MPN-partner
 
@@ -39,7 +39,7 @@ Din PGA kan ha extra företagsplatser under sig. Varje plats har sitt eget MPN-I
 - Alla platskonton finns på samma nivå och under det globala partnerkontot.
 - Kontoadministratörer kan lägga till platser.
 
-:::image type="content" source="images/accountstructure.png" alt-text="Kontostruktur" border="false":::
+:::image type="content" source="images/accountstructure.png" alt-text="Kontostruktur." border="false":::
 
 ## <a name="next-steps"></a>Nästa steg
 

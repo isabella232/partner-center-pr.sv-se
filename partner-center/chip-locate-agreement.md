@@ -1,26 +1,26 @@
 ---
-title: Hitta antal stationära datorer och avgiftsnivå
+title: Hitta datorantal och avgiftsnivå
 ms.topic: how-to
 ms.date: 02/18/2021
-description: Lär dig hur du använder CHIP (Channel Incentives Platform) för att hitta information om antal skrivbord och avgifter för ett avtal.
+description: Lär dig hur du använder CHIP (Channel Incentives Platform) för att hitta information om antal stationära datorer och avgifter för ett avtal.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 64dbbbae0087275fa8d0c5fd4f364079623efe63
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 288e4ebb224d3ff1b0d4050691b733e678ec29a3
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149000"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276950"
 ---
 # <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Leta upp antal skrivbordsenheter och avgiftsnivå för ett avtal
 
 **Lämpliga roller:** Primär kontakt eller programadministratör
 
-Du kan logga in [på explore.ms](https://www.explore.ms/) för att granska avtalet eller ladda ned en fil med avtalsuppgifter för antal stationära datorer och avgiftsnivå.
+Du kan logga in på [explore.ms](https://www.explore.ms/) granska avtalet eller ladda ned en fil med avtalsinformation för antal skrivbord och avgiftsnivå.
 
 ## <a name="to-locate-the-information"></a>Så här hittar du informationen
 
@@ -31,19 +31,19 @@ Du kan logga in [på explore.ms](https://www.explore.ms/) för att granska avtal
 >[!Note]
 >Du kan inte utföra den här funktionen i Google Chrome eller Microsoft Edge.
 
-2. Logga in med ditt arbets-/skolkonto eller live-ID.  
+2. Logga in med ditt arbets-/skolkonto eller ditt live-ID.  
 
 3. I fältet **Rapporter** väljer du **Avtal.**
 
-4. På den resulterande sidan anger du avtalsnumret i **sökfältet** och väljer sedan **Välj/ordna kolumner.**
+4. På sidan som visas anger du avtalsnumret i **sökfältet** och väljer sedan **Välj/ordna kolumner.**
 
-5. I popup-fönstret väljer du **Antal avtalsdatorer i** listan med tillgängliga kolumner och väljer sedan högerpilen för att lägga till kolumnen. Välj **OK**.
+5. I popup-fönstret väljer du **Antal avtalsdatorer** i listan med tillgängliga kolumner och väljer sedan högerpilen för att lägga till kolumnen. Välj **OK**.
 
 6. Välj **Sök.**
 
 7. På skärmen som visas bläddrar du igenom resultaten för att hitta kolumnen **Antal avtalsdatorer.** 
 
-8. Använd datorantalet för att fastställa avgiftsnivån baserat på pristabellen nedan.  
+8. Använd antalet stationära datorer för att fastställa avgiftsnivån baserat på pristabellen nedan.  
 
 | Avgiftsnivå | Antal skrivbord |
 | ------ | :-----------: |
@@ -65,13 +65,13 @@ När du har sökt efter avtalsnumret i explore.ms med hjälp av stegen som beskr
 
 2. På sidan **Partnerbetalningssammanfattning** väljer du den rapporteringsmånad som du vill visa och väljer sedan **Beräkningsinformation** i listrutan under **Exportera till Excel:**
 
-:::image type="content" source="images/chip/chiplocate.png" alt-text="Hitta programinformation":::
+:::image type="content" source="images/chip/chiplocate.png" alt-text="Leta upp programinformation.":::
 
 3. Exporten startar och du kan antingen öppna filen eller spara/spara som till ett mål.
 
 4. När rapporten är öppen går du till fliken **DetailReport-FlatFile** längst ned till vänster:
 
-:::image type="content" source="images/chip/flatfile.png" alt-text="Nedladdning av flat fil":::
+:::image type="content" source="images/chip/flatfile.png" alt-text="Nedladdning av flat fil.":::
 
 Nu kan du söka efter det avtalsnummer som du letar efter i kolumn J. Och du hittar det tilldelade antalet skrivbord i kolumn R, märkt Agreement_DesktopCount. Du kan också bekräfta avgiftsnivån för det här avtalet i kolumnen "AI" med etiketten Nivå.
 

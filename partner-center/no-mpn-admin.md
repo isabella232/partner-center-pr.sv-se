@@ -4,21 +4,21 @@ ms.topic: how-to
 ms.date: 09/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig vad du kan göra för att hitta en ny MPN-administratör eller få hjälp från företagets globala administratör. Lär dig också hur du lägger till en ny global administratör i Partnercenter.
+description: Lär dig vad du kan göra för att hitta en ny MPN-administratör eller få hjälp från företagets globala administratör. Lär dig också hur du lägger till en ny global partnercenteradministratör.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5efd157078acd72ca47418aaa9559a678fc5b129
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 21042169a33d9a413f17f951c4daad0c5fc86a17
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151176"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277682"
 ---
 # <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>Vad gör jag om den enda administratören för ditt MPN-program har lämnat företaget?
 
-**Lämpliga roller:** MPN-partneradministratör | Kontoadministratörsbehörighet | Global administratör
+**Lämpliga roller:** MPN-partneradministratör | Kontoadministratörskonto | Global administratör
 
 I följande artikel går vi igenom tre vanliga scenarier för vad du kan göra om MPN-administratören har lämnat företaget.
 
@@ -27,18 +27,18 @@ I följande artikel går vi igenom tre vanliga scenarier för vad du kan göra o
 I det här fallet kan en annan person på företaget tilldelas rollen som MPN-partneradministratör. Tilldelas rollen som specifik MPN-partneradministratör/kontoadministratörsroll:
 
 1. Logga in på ditt Partnercenter-konto med ditt arbetskonto (till exempel tom@contoso.com ).
-1. På sidan **Användarhantering** filtrerar du på Global administratör för att se vilka globala administratörer för ditt företag är. 
+1. På sidan **Användarhantering filtrerar** du på Global administratör för att se vilka globala administratörer för ditt företag är. 
 1. Kontakta en av de globala administratörerna och be dem tilldela dig den MPN-specifika roll som du behöver. 
 
 ## <a name="scenario-2-mpn-partner-adminaccount-admin-has-left-the-company-and-there-are-no-global-admins-in-the-account"></a>Scenario 2: MPN-partneradministratören/kontoadministratören har lämnat företaget och det finns inga globala administratörer i kontot 
 
-Följ dessa steg  om du går till sidan Användarhantering och filtrerar på Global administratör men du upptäcker att det inte finns någon global administratör i företaget som kan hjälpa dig att få den MPN-specifika rollen:
+Om du går  till sidan Användarhantering och filtrerar efter Global administratör, men du upptäcker att det inte finns någon global administratör i företaget som kan hjälpa dig att få den MPN-specifika rollen, följer du dessa steg:
 
 1. Gå till [portal.azure.com](https://ms.portal.azure.com/), logga in med ditt arbetskonto (till exempel tom@contoso.com ). 
-1. Välj alternativet **Hjälp + support** i navigeringsfältet till vänster.
-1. På nästa sida väljer du **Nytt Supportbegäran** och Teknisk **problemtyp** i listrutan, infogar eventuell ytterligare information och klickar på **Nästa: Lösningar.**
+1. Välj alternativet **Hjälp + support** i det vänstra navigeringsfältet.
+1. På nästa sida väljer du **Ny Supportbegäran** och **Typ** av tekniskt problem i listrutan, infogar eventuell ytterligare information och klickar på **Nästa: Lösningar.**
 
-:::image type="content" source="images/accountsettings/adminfinder.png" alt-text="Leta upp administratör i Azure Portal":::
+:::image type="content" source="images/accountsettings/adminfinder.png" alt-text="Leta upp administratören i Azure Portal.":::
 
 4. När du har granskat de rekommenderade lösningarna på nästa sida väljer **du Nästa: Information** och fyller i de obligatoriska fälten.
 1. Granska och skapa supportbegäran.

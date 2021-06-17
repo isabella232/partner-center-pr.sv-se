@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5173526d0f65623311d5cd3a1061e8b9e93e9bb9
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 37373c032dc34315c0e3274987805d7518d0b595
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151635"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276611"
 ---
 # <a name="set-up-your-users-with-multi-factor-authentication"></a>Ge användarna multifaktorautentisering
 
@@ -34,12 +34,12 @@ Det är enklast att aktivera MFA för dina användare när du lägger till dem i
 
 Detta aktiverar MFA för den här användaren. Aktiverat innebär att användaren uppmanas att konfigurera sin MFA-verifiering när de loggar in för första gången. Därefter uppmanas de vid inloggningen att ange en kod som skickas till dem antingen via e-post eller SMS (beroende på vilket de har ställt in).  
 
-:::image type="content" source="images/MFA/securityverification.png" alt-text="Ange hur du ska verifiera":::
+:::image type="content" source="images/MFA/securityverification.png" alt-text="Ange hur du ska verifiera.":::
 
 >[!NOTE]
 >Du kan **tvinga** användarna att använda MFA genom att följa samma steg som ovan och välja **Framtvinga.** Mer information finns i [Aktivera Azure Multi-Factor Authentication per användare för att skydda inloggningshändelser.](/azure/active-directory/authentication/howto-mfa-userstates) 
 
-Alla användare börjar med **Inaktiverad**. När du registrerar användare i per användare Azure Active Directory Multi-Factor Authentication ändras deras tillstånd till **Aktiverad.** När aktiverat användare loggar in och slutför registreringsprocessen ändras deras tillstånd till **Framtvingad**. 
+Alla användare börjar med **Inaktiverad**. När du registrerar användare i per användare Azure Active Directory Multi-Factor Authentication ändras deras tillstånd till **Aktiverad.** När aktiverad användare loggar in och slutför registreringen ändras deras tillstånd till **Framtvingad**. 
 
 ## <a name="next-steps"></a>Nästa steg
 

@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1b1b89841faf77a78c8cc268357daaaf95307223
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 9d0cff4883e084ccc0acb37d8c3119d91e3f5530
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855411"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276458"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Så här säljer du erbjudanden till utbildningskunder och hur du skapar en utbildningskund i Partnercenter
 
@@ -37,38 +37,38 @@ Den här artikeln förklarar hur du skapar en utbildningskund i Partnercenter oc
    - **Kundkontaktinformation:** den här informationen används som en del av verifieringsprocessen
    - **Primärt domännamn:** Används för att skapa kundens konto och e-postadresser.  Välj ett namn som liknar företagets namn utan blanksteg eller specialtecken.  Det här namnet kan inte ändras senare.
 
-3. När du är klar väljer du **Granska.**
+3. När du är klar väljer du **Granska**.
 
-   :::image type="content" source="images/eduaccountinfo.png" alt-text="Education-kundkonto":::
+   :::image type="content" source="images/eduaccountinfo.png" alt-text="Education-kundkonto.":::
 
-4. När du har **bekräftat Granska** får du en **InReview-status** om den information som skickats är giltig. 
+4. När du har **bekräftat Granska** får du **statusen InReview** om den information som skickats är giltig. 
 
-    :::image type="content" source="images/edu/create-review.png" alt-text="Education-kundkonto under granskning"lightbox="images/edu/create-review-expanded.png":::
+    :::image type="content" source="images/edu/create-review.png" alt-text="Education-kundkonto som granskas."lightbox="images/edu/create-review-expanded.png":::
 
-### <a name="confirm-your-education-customers-verification-status"></a>Bekräfta utbildningskundens verifieringsstatus
+### <a name="confirm-your-education-customers-verification-status"></a>Bekräfta din utbildningskunds verifieringsstatus
 
 På kundens kontosida **kan du** se **Specialkvalificeringsstatus**.
 Statusexempel:
 
 - Om kunden har klarat verifieringen: Utbildning
 
-   :::image type="content" source="images/edupassedvetting.png" alt-text="Utbildningsverifieringen lyckades":::
+   :::image type="content" source="images/edupassedvetting.png" alt-text="Utbildningsverifieringen lyckades.":::
 
 - Om kunden inte har godkänt verifieringen: Inte en utbildningskund
 
-   :::image type="content" source="images/edu/fail-reason.png" alt-text="Utbildningsverifieringen misslyckades" lightbox="images/edu/fail-reason-expanded.png":::
+   :::image type="content" source="images/edu/fail-reason.png" alt-text="Utbildningsverifieringen misslyckades." lightbox="images/edu/fail-reason-expanded.png":::
 
 - Om kunden inte har taggats som Education-kund: Ingen
 
-   :::image type="content" source="images/edu/account-one.png" alt-text="education-kund har inte taggats som sådan" lightbox="images/edu/account-one-expanded.png":::
+   :::image type="content" source="images/edu/account-one.png" alt-text="education-kund har inte taggats som sådan." lightbox="images/edu/account-one-expanded.png":::
 
 - Om kunden är under granskning som Education-kund: Granskas
 
-    :::image type="content" source="images/edu/in-review.png" alt-text="utbildningskunden är under granskning" lightbox="images/edu/in-review-expanded.png":::
+    :::image type="content" source="images/edu/in-review.png" alt-text="education-kund är under granskning." lightbox="images/edu/in-review-expanded.png":::
 
 ## <a name="correct-the-customer-account-info-and-resubmit-for-verification"></a>Korrigera kundkontoinformationen och skicka om för verifiering
 
-Om kunden misslyckas med den första verifieringen kan du nu korrigera informationen och skicka den igen.
+Om kunden misslyckas med den första verifieringen kan du korrigera informationen och skicka den igen.
 
 ### <a name="correct-the-customer-account-information"></a>Rätta till informationen om kundkontot
 

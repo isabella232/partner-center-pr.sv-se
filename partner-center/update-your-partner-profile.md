@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: 46c2371e3a95b8840f14ebc5063d90bd5926fb8f
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: f65de1bb115ba8108720429974622bf1a6afcc7b
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110153063"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276356"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Verifiera eller uppdatera företagets profilinformation 
 
@@ -33,7 +33,7 @@ Din partnerprofil består av din juridiska affärsinformation, primära kontaktn
 
 2. Granska din **juridiska företagsprofil,** **primär kontaktinformation** och **programinformationen**.
 
-Om du har slagit samman dina andra företag under din juridiska verksamhet kan du granska den informationen också. 
+Om du har slagit samman dina andra företag i din juridiska verksamhet kan du granska den informationen också. 
 
 ## <a name="update-your-legal-business-profile"></a>Uppdatera din juridiska företagsprofil 
 
@@ -41,34 +41,34 @@ Uppdatera företagets juridiska namn eller adress på Partnercenter.
 
 >[!Important]
 >- För MPN-konton kan både den globala administratören och kontoadministratören uppdatera företagets juridiska namn.
->- För konton för indirekta CSP-återförsäljare kan endast den globala administratören uppdatera företagets juridiska namn. 
+>- För konton för indirekta CSP-återförsäljare kan endast den globala administratören uppdatera det juridiska företagets namn. 
 >- Direktfaktureringspartner och indirekta leverantörer kan inte ändra företagets juridiska namn om kontoverifieringsstatusen **är Auktoriserad**. Om du behöver ändra namnet måste du skapa en [supportbiljett.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)
 
 
 
 1. Gå till **Inställningar,** **Kontoinställningar** och välj **Organisationsprofil.**
 
-2. Välj **Juridiskt**  och välj sedan den juridiska företagsprofil (partner eller återförsäljare) som du vill uppdatera.
+2. Välj **Juridiskt**  och välj sedan den affärsprofil för juridik (partner eller återförsäljare) som du vill uppdatera.
 
 1. Klicka på **Uppdatera**  bredvid företagets namn/adress och ändra informationen.
  
 1. När du **väljer** Skicka kommer din juridiska identitet att omvärderas. Vi gör bara en ny bedömning av vad du har ändrat.
 
-1. Om verifieringen misslyckas kan du läsa om [hur du åtgärdar problemet](verification-responses.md).
+1. Om verifieringen misslyckas kan du läsa om hur [du åtgärdar problemet](verification-responses.md).
 
 >[!Important]
->Om du är en Molnlösningsleverantör partner (CSP) kan du inte ändra det land som är associerat med din juridiska adress. Ditt land för juridiska adresser är kopplat till din klientorganisation och dina tjänster samt den valuta som du gör affärer med. Mer information om MPN-landsuppdateringar finns i [MPN-landsuppdateringar.](manage-locations.md#change-country-of-partner-global-account)
+>Om du är en Molnlösningsleverantör(CSP)-partner kan du inte ändra det land som är associerat med din juridiska adress. Ditt land med juridisk adress är kopplat till din klientorganisation och dina tjänster samt den valuta som du gör affärer med. Mer information om MPN-landsuppdateringar finns i [MPN-landsuppdateringar.](manage-locations.md#change-country-of-partner-global-account)
 
 
 ### <a name="who-can-update-legal-business-name-and-when"></a>Vem kan uppdatera företagets juridiska namn och när
 
-|**Program**|**Vem kan uppdatera företagets namn**|**När (status) kan den uppdateras**|**Tillåts**|
+|**Program**|**Vem kan uppdatera företagets namn**|**När (status) den kan uppdateras**|**Tillåts**|
 |---------------------|:-------------------------------|:------------|:-----------------|
-MPN|Global administratör; Kontoadministratör|Auktoriserad; väntande; Avvisade| Tillåts|
-|CSP: Indirekt återförsäljare|Global administratör|Auktoriserad; väntande; Avvisade| Tillåts|
+MPN|Global administratör; Kontoadministratör|Auktoriserad; väntar; Avvisade| Tillåts|
+|CSP: Indirekt återförsäljare|Global administratör|Auktoriserad; väntar; Avvisade| Tillåts|
 
 
-## <a name="update-your-mpn-global-business-account"></a>Uppdatera ditt globala MPN-företagskonto
+## <a name="update-your-mpn-global-business-account"></a>Uppdatera ditt GLOBALA MPN-företagskonto
 
 Om fel affärskonto identifierades som det juridiska företaget under migreringen från Partner Membership Center till Partnercenter kan du ändra det till rätt juridiskt affärskonto.
 
@@ -77,9 +77,9 @@ Om du vill göra de här uppdateringarna måste du vara antingen global administ
 
 ## <a name="update-your-mpn-id-associated-with-your-csp-account"></a>Uppdatera MPN-ID:t som är associerat med ditt CSP-konto
 
-Så här uppdaterar du MPN-ID:t som är associerat med ditt CSP-konto:
+Så här uppdaterar du DET MPN-ID som är associerat med ditt CSP-konto:
 
-1. Logga in på instrumentpanelen i [Partnercenter](https://partner.microsoft.com/dashboard/home) som global administratör med autentiseringsuppgifterna för ditt CSP-konto och välj **sedan Inställningar.** (Dina MPN- och CSP-autentiseringsuppgifter kan vara annorlunda.)
+1. Logga in på instrumentpanelen i [Partnercenter](https://partner.microsoft.com/dashboard/home) som global administratör med dina CSP-kontoautentiseringsuppgifter och välj sedan **Inställningar.** (Dina MPN- och CSP-autentiseringsuppgifter kan vara annorlunda.)
  
 1. Välj **Identifierare** i **Kontoinställningar.**
 
@@ -90,7 +90,7 @@ Så här uppdaterar du MPN-ID:t som är associerat med ditt CSP-konto:
 
 Om du är global administratör, faktureringsadministratör eller administratörsagent kan du ändra adressen som visas på din faktura i **din utbetalnings- och skatteprofil.** Du kan dock inte ändra företagsnamnet på fakturan på grund av en begränsning i fakturasystemet.
 
-:::image type="content" source="images/billing-profile.png" alt-text="Skärmdump av det område där faktureringsinformation läggs till":::
+:::image type="content" source="images/billing-profile.png" alt-text="Skärmdump av det område där faktureringsinformation läggs till.":::
 
 |**Fält**  |**Beskrivning**|  
 |---------------------|:------------------|

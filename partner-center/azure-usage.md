@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 14d488091227e30909b3d41af0684494a8b55de7
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 2d8bc76e0da51abf433e49028445b398c6a1db31
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149459"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277002"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Storleksändring av virtuell Microsoft Azure-dator för maximal reservationsanvändning
 
@@ -58,30 +58,30 @@ Anvisningar för hur du använder var och en av dessa metoder finns nedan. När 
 
 4. På den virtuella datorns informationssida hittar du storleks- och regionsinformationen, som visas nedan, och använder den här informationen för att köpa reservationen i Partnercenter.  
 
-   :::image type="content" source="images/usage1.png" alt-text="Information om storlek och region på detaljsidan":::
+   :::image type="content" source="images/usage1.png" alt-text="Information om storlek och region på detaljsidan.":::
 
-### <a name="get-vm-sizing-information-using-microsoft-azure-powershell"></a>Hämta storleksinformation för virtuella datorer med Microsoft Azure PowerShell
+### <a name="get-vm-sizing-information-using-microsoft-azure-powershell"></a>Hämta storleksinformation för virtuella datorer med hjälp av Microsoft Azure PowerShell
 
 Använd informationen i bilden nedan för att hämta platsen och storleken på den virtuella dator som du vill köpa en reservation för. 
 
-:::image type="content" source="images/usage2.png" alt-text="Plats och storlek för virtuell dator":::
+:::image type="content" source="images/usage2.png" alt-text="Plats och storlek för virtuell dator.":::
 
-### <a name="get-vm-sizing-information-using-the-azure-resource-manager-arm-api"></a>Hämta storleksinformation för virtuella datorer med hjälp av AZURE RESOURCE MANAGER-API:et (ARM)
+### <a name="get-vm-sizing-information-using-the-azure-resource-manager-arm-api"></a>Hämta storleksinformation för virtuella datorer med hjälp Azure Resource Manager (ARM) API
 
-1. Med ARMClient eller ARM-API:erna anropar du ARM-klienten för den virtuella dator som du vill köpa en reservation för.
+1. Använd ARMClient eller ARM-API:erna och anropa ARM-klienten för den virtuella dator som du vill köpa en reservation för.
 
 2. /subscriptions/ <Subscription ID> /resourceGroups/ <Resource group name> /providers/Microsoft.Compute/virtualMachines/ <VM Instance Name> ?api-version=2017-12-01
 
 3. Anropet returnerar värdena **för vmSize** **och location**, som du ser nedan.
 
-    :::image type="content" source="images/usage3.png" alt-text="vmSize-värde":::
-    :::image type="content" source="images/usage4.png" alt-text="platsvärde":::
+    :::image type="content" source="images/usage3.png" alt-text="vmSize-värde.":::
+    :::image type="content" source="images/usage4.png" alt-text="platsvärde.":::
 
 ## <a name="verify-azure-vm-usage-and-reservation-discount"></a>Kontrollera användningen av virtuella Azure-datorer och reservationsrabatten
 
 När du har köpt en azure-reserverad VM-instans åt en kund tillämpas rabatten för att betala för VM-utrymme i förväg automatiskt på de virtuella datorer som matchar attributen och kvantiteten för kundens reservation.
 
-Du kan verifiera kundens reservationsanvändning och se vilka virtuella datorer reservationsrabatterna tillämpas på med någon av följande metoder:
+Du kan kontrollera kundens reservationsanvändning och se vilka virtuella datorer reservationsrabatterna tillämpas på med någon av följande metoder:
 
 - Azure Portal
 - API för Azure-användning
@@ -115,7 +115,7 @@ Anvisningar för hur du använder var och en av dessa metoder finns nedan.
 
 Du kan hämta användningsdata för reservationer med API:et för Azure-användning för att kontrollera att kunden får reservationsrabatten och för att se vilka virtuella datorer som rabatten tillämpas på. Jämför exempel A med exempel B för att se hur du verifierar en kunds reservationsanvändning.
 
-:::image type="content" source="images/usage5.png" alt-text="Exempel på reservationsanvändning":::
+:::image type="content" source="images/usage5.png" alt-text="Exempel på reservationsanvändning.":::
 
 - reservationId identifierar den Azure-reservation som användes för att tillämpa rabatten på den virtuella datorn.
 - consumptionMeter är MeterId för den virtuella dator där reservationsrabatten tillämpas.
@@ -124,7 +124,7 @@ Du kan hämta användningsdata för reservationer med API:et för Azure-användn
 Mer information finns i [Hämta en kunds användningsposter för Azure i](/partner-center/develop/get-a-customer-s-utilization-record-for-azure) Partner Center [API.](/partner-center/develop/)
 
 >[!IMPORTANT]
->Programvarukostnader, till exempel Microsoft Windows Server, ingår för närvarande inte i priset för en VM-reservation och visas som separata radobjekt i orderposten och på din faktura. Men om en kund har Azure Hybrid-förmånen tillämpas inte programvarukostnaderna. Mer information finns i Kostnader [för Windows-programvara som inte ingår i reserverade instanser.](/azure/billing/billing-reserved-instance-windows-software-costs)  
+>Programvarukostnader, till exempel Microsoft Windows Server, ingår för närvarande inte i priset för en VM-reservation och visas som separata radobjekt i orderposten och på fakturan. Men om en kund har Azure Hybrid Use Benefit tillämpas inte programvarukostnaderna. Mer information finns i [Kostnader för Windows-programvara som inte ingår i reserverade instanser.](/azure/billing/billing-reserved-instance-windows-software-costs)  
 
 ## <a name="next-steps"></a>Nästa steg
 

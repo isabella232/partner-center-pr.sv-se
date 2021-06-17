@@ -9,21 +9,21 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 798fde02b87e8f8105dad6d00c32b050fb90097e
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 33ec3befdc4b2bab2f31d25d210679594debbbf1
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818753"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277257"
 ---
 # <a name="view-your-incentives-program-details"></a>Visa information om incitamentsprogrammet
 
-**Lämpliga roller:** Incitamentsadministratörsroller | Incitament för | Globala | MPN-partneradministratör
+**Lämpliga roller:** Incitamentsadministratörsroller | Incitament för | Global | MPN-partneradministratör
 
 Den här artikeln förklarar **översiktssidan Mina** incitament, som visar övergripande status för dina incitamentsprogram, samt status för varje program på varje plats. Den ger även de olika registreringsstatusarna.
 
 >[!NOTE]
->Mer information om incitament och incitamentsfunktioner i Partnercenter finns i [Partnerinvesteringar och incitament](https://partner.microsoft.com/membership/partner-incentives) (inloggning krävs).
+>Mer information om incitament och incitamentsfunktioner i Partnercenter finns i [Partner Investments and Incentives](https://partner.microsoft.com/membership/partner-incentives) (inloggning krävs).
 
 ## <a name="access-the-incentives-overview-page"></a>Få åtkomst till sidan med incitamentsöversikten
 
@@ -59,7 +59,7 @@ Välj utbetalningsikonen i det övre högra hörnet på skärmen för att få å
 - Betalningar
 - Exportera data
 
-:::image type="content" source="images/payouts/payout-overview.png" alt-text="Visar utbetalningsikonen i det övre högra hörnet i Partnercenter-portalen":::
+:::image type="content" source="images/payouts/payout-overview.png" alt-text="Visar utbetalningsikonen i det övre högra hörnet i Partnercenter-portalen.":::
 
 I den här informationen ingår totala incitamentsintäkter och betalningar sedan du registrerade dig i incitamentsprogrammet. På den här sidan ser du även intäkter och betalningar efter plats eller program samt eventuella ytterligare åtgärder du kan behöva utföra för att registrera dig i ett program på en viss plats. 
 

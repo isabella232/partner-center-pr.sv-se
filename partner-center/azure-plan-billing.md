@@ -1,38 +1,38 @@
 ---
-title: Fakturering av Azure-plan – & rekognoseringsfiler
+title: Fakturering för Azure-plan – & rekognoseringsfiler
 ms.topic: article
 ms.date: 05/19/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig hur du får åtkomst till och förstår strukturen för faktura- och avstämningsfiler relaterade till fakturering för Azure-planen.
+description: Lär dig hur du får åtkomst till och förstår faktura- och avstämningsfilstrukturen som rör fakturering för Azure-planen.
 author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5ab086a4d15d16f094e33d19b81f1c93711916dc
-ms.sourcegitcommit: e0444145d7720df948b9d02ae2469206db48dba5
+ms.openlocfilehash: 725050d370d1266205f979aa6317768d05ae5c4c
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110201433"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277189"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Ny handelsupplevelse i CSP – Azure-fakturering 
 
 **Lämpliga roller:** Administratörsagent | Faktureringsadministratörskonto | Global administratör
 
-Den här artikeln förklarar hur du kommer åt och förstår strukturen för faktura- och avstämningsfiler relaterade till fakturering för Azure-planen. Fakturering enligt Azure-planen är en förenklad faktureringsupplevelse med ett justerat enskilt faktureringsdatum och kalendermånadsbaserad faktureringsperiod.
+Den här artikeln förklarar hur du kommer åt och förstår faktura- och avstämningsfilstrukturen som rör fakturering för Azure-planen. Fakturering under Azure-planen är en förenklad faktureringsupplevelse med ett justerat faktureringsdatum och kalendermånadsbaserad faktureringsperiod.
 
 ## <a name="summary-of-billing-essentials"></a>Sammanfattning av faktureringsinformation
 
-- **Fakturadatum:** Faktura- och avstämningsfilen blir tillgänglig i Partnercenter-instrumentpanelen/API:et den 8:e (midnatt UTC).
+- **Fakturadatum:** Faktura- och avstämningsfilen blir tillgänglig i instrumentpanelen/API:et i Partnercenter den 8:e (midnatt UTC).
 
 - **Faktureringsperiod för** faktura: Faktureringsperioden justeras till kalendermånaden, till exempel 10/1-10/31, 11/1-11/30.
 
-- **Avgiftstjänstperioder:** Avgifterna justeras efter kalendermånaden. Om den fakturerade partnern till exempel lägger till Azure-tjänster via en Azure-plan den 10/15 och kunden börjar använda Azure-tjänster den 10/15, får den fakturerade partnern faktura/rekognosering den 11/8 för kundförbrukning för tjänstperioden 10/15–10/31. Nästa månads faktura som genereras den 12/8 innehåller alla avgifter för tjänstperioden 11/1–11/31.
+- **Avgiftstjänstperioder:** Avgifterna justeras efter kalendermånaden. Om den fakturerade partnern till exempel lägger till Azure-tjänster via en Azure-plan den 10/15 och kunden börjar använda Azure-tjänster den 10/15 får den fakturerade partnern faktura/rekognosering den 11/8 för kundförbrukning för tjänstperioden 10/15–10/31. Nästa månads faktura som ska genereras den 12/8 innehåller alla avgifter för tjänstperioden 11/1–11/31.
 
-- **Fakturabetalning:** 60 dagar netto.
+- **Fakturabetalning:** 60 dagar efter.
 
-- **Fakturavaluta:** Från och med 28 januari 2021 debiteras partner i regionen EU/EFTA och Storbritannien som har nya kunder och befintliga CSP-kunder som köper nya handelserbjudanden för första gången vars klienter skapades före den 11 maj 2020. Partner som är belägna utanför EU/EFTA- och Storbritannien-regionen fortsätter att debiteras i partnerns platsvaluta.
+- **Fakturavaluta:** Från och med 28 januari 2021 debiteras partner i regionen EU/EFTA och Storbritannien som har nya kunder och befintliga CSP-kunder som köper nya handelserbjudanden för första gången vars klienter skapades före den 11 maj 2020. Partner utanför regionen EU/EFTA och Storbritannien fortsätter att debiteras i valuta för partnerplats.
 
 - **Partnerincitament:** Betalas 45 dagar från slutet av fakturamånaden.
 
@@ -40,7 +40,7 @@ Den här artikeln förklarar hur du kommer åt och förstår strukturen för fak
 
 Den globala administratören eller faktureringsadministratören för ditt företag får ett e-postmeddelande när en faktura är redo att visas.
 
-Så här kommer du åt fakturan och avstämningsfilen:
+Så här kommer du åt faktura- och avstämningsfilen:
 
 1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard/).
 
@@ -48,7 +48,7 @@ Så här kommer du åt fakturan och avstämningsfilen:
 
 3. Välj fliken för **Återkommande och** **Engångs och den** valuta som du är intresserad av.
 
-   :::image type="content" source="images/azure/billing3.png" alt-text="Fakturering":::
+   :::image type="content" source="images/azure/billing3.png" alt-text="Fakturering.":::
 
 4. Välj **Faktura eller** **Avstämningsfil**.  
 
@@ -84,7 +84,7 @@ Så här kommer du åt fakturan och avstämningsfilen:
             - Lagringskapacitetsmätare
             - Mätare för lagringsåtgärder
 
-- Prenumeration B – ResourceGroup 1 – Azure SQL (resurs) – DTU-mätare – VPN Gateway (resurs) – VPN-gatewaymätare
+- Prenumeration B –ResourceGroup 1 – Azure SQL (resurs) – DTU-mätare – VPN Gateway (resurs) – VPN-gatewaymätare
 
     - ResourceGroup 2
         - Virtual Network (resurs)
@@ -98,11 +98,11 @@ Så här kommer du åt fakturan och avstämningsfilen:
 
 3. Faktureringsperioden omfattar en viss kalendermånad, till exempel 10/1-10/31.
 
-4. Avgifterna är nettojusteringar (beloppet är netto efter "Partner-intjänad kredit för hanterade tjänster").
+4. Avgifterna är nettojusteringar (beloppet är efter "Partner-intjänad kredit för hanterade tjänster").
 
-5. Granska fakturans rekognoseringsfil och den dagliga klassificerade användningsfilen för ytterligare faktureringsinformation.
+5. Granska fakturans rekognoseringsfil och filen med daglig klassificerad användning för ytterligare faktureringsinformation.
 
-   :::image type="content" source="images/azure/invoice1.png" alt-text="Faktura":::
+   :::image type="content" source="images/azure/invoice1.png" alt-text="Faktura.":::
 
 ## <a name="read-the-invoice-reconciliation-file"></a>Läsa fakturaavstämningsfilen
 
@@ -131,15 +131,15 @@ Så här kommer du åt fakturan och avstämningsfilen:
 
   - Meter var inte  kvalificerat för partner-intjänad kredit för tjänster som hanteras 7/4–7/7 (observera att det effektiva enhetspriset är återförsäljarpris).
 
-  - Mätare som är **kvalificerad för partner-intjänad** kredit för tjänster som hanteras från 7/8 till 7/31 (observera att det effektiva enhetspriset är återförsäljarpris minus partners intjänade kredit).
+  - Mätare som är kvalificerad för partner-intjänad kredit för tjänster som hanteras från 7/8 till 7/31 (observera att det effektiva enhetspriset är återförsäljarpris minus partners intjänade kredit). 
 
-   :::image type="content" source="images/azure/pecfinal.png" alt-text="recon2":::
+   :::image type="content" source="images/azure/pecfinal.png" alt-text="recon2.":::
 
 ## <a name="invoice-in-customer-currency"></a>Faktura i kundvaluta
 
-Azure-tjänster via en Azure-plan prissätts i USD och faktureras i kundens landstilldelade valuta. Om faktureringsvalutan inte är USD visas det valutautbytespris (FX) som används på den sista sidan på fakturan. FX-priser bestäms varje månad och tillämpas på följande faktura. En fullständig lista över valutor för länder finns i den nya handelslösningen med [landstillgänglighet och kundvalutamatrisen](https://go.microsoft.com/fwlink/?linkid=2112354).
+Azure-tjänster via en Azure-plan prissätts i USD och faktureras i kundens landstilldelade valuta. Om faktureringsvalutan inte är USD visas den valutakurs (FX) som används på den sista sidan på fakturan. FX-priser bestäms varje månad och tillämpas på följande faktura. En fullständig lista över länders valutor finns i den nya handelslösningen med [landstillgänglighet och kundvalutamatrisen](https://go.microsoft.com/fwlink/?linkid=2112354).
 
-Microsoft följer London-börsen för konvertering. Vi använder växelkursen, som är lika med växelkursen som avbildades den sista sekunden av den sista arbetsdagen i månaden på London-börsen. FX-priserna uppdateras och är tillgängliga dagen före den första i månaden som de gäller för.
+Microsoft följer London-börsen för konvertering. Vi använder växelkursen, som är lika med den växelkurs som avbildas den sista sekunden av den sista arbetsdagen i månaden på London-börsen. FX-priserna uppdateras och är tillgängliga dagen före den första i månaden som de gäller för.
 
 ## <a name="azure-reservations"></a>Azure-reservationer
 
@@ -155,9 +155,9 @@ Den befintliga Azure-utgiftsupplevelsen har uppdaterats för att stödja den nya
 
 - Visa totala beräknade utgifter för en Azure-plan (uppdelade efter resurs- och mätarnivå)
 
-Eftersom faktureringsmodellen för Azure-tjänster via en Azure-plan är förbrukning efter betalning kan partner använda en månatlig budget och spåra procentandelen av användningen för att undvika en större faktura än förväntat. En budget kan tillämpas på en kund eller flera kunder i taget. 
+Eftersom faktureringsmodellen för Azure-tjänster via en Azure-plan är förbrukning efter betalning kan partner använda en månatlig budget och spåra procentandelen användning för att undvika en större faktura än förväntat. En budget kan tillämpas på en kund eller flera kunder i taget. 
 
-:::image type="content" source="images/azure/azurespend.png" alt-text="Utgift i Azure":::
+:::image type="content" source="images/azure/azurespend.png" alt-text="Azure-utgifter.":::
 
 ## <a name="next-steps"></a>Nästa steg
 
