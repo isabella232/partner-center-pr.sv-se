@@ -9,16 +9,16 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
-ms.openlocfilehash: b6de912047a327e89e2572504329e9eff23e7dbf
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: fb991e8e5792e2be2087e05cc371b064ea11d02e
+ms.sourcegitcommit: 0410e2a3f91b7e6b592cc47e7af1dfbe468c7881
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276390"
+ms.locfileid: "112318103"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>Utforska tekniska tjänster för försäljning och distribution (TPD) 
 
-**Lämpliga roller:** MPN-partneradministratör
+**Lämpliga roller:** Alla MPN-användarkonton så länge organisationen har en aktiv kompetens eller Microsoft Action Pack.
 
 Lär dig mer om de Microsoft Partner Network (MPN)-förmåner som du får för tjänster för teknisk support och distribution, inklusive rådgivning, förförsäljningshjälp, rådgivningstimmar med mera.
 
@@ -44,14 +44,14 @@ Logga in med ett MPN-associerat användarkonto för att skapa en **[TPD-begäran
 
 ## <a name="delivery-scenarios"></a>Leveransscenarier
 
-- Teknisk rådgivning används för att definiera värdeförslag, tillhandahålla kostnadsuppskattningar, hantera kundrelationer, svara på **konkurrenternas** meddelanden, demonstrera tekniska lösningar, konceptbevis eller arkitekturplanering och -design som leder till en beskrivning av arbetet.
+- **Teknisk rådgivning används** för att definiera värdeförslag, tillhandahålla kostnadsuppskattningar, teknisk licensiering, hantera kundrelationer, svara på konkurrentmeddelanden, demonstrera tekniska lösningar, konceptbevis eller arkitekturplanering och -design som leder till en beskrivning av arbetet.
 
-  - *Stöds inte:* Planering, priser och prislistor för försäljningspipeline.
+  - *Stöds inte:* Planering av försäljningspipeline, kunddiskussioner, licensieringspriser och prislistor.
 
 
 - **Distributionskonsultation** används för arkitekturplanering och designvägledning, metodtips, distributionsvägledning, produktreferenser och dokumentation.
 
-  - *Stöds inte:* Åtgärda support/felsökning, tjänster på plats, långsiktig rådgivning, direkt till kundsupport eller praktisk support i en produktionsmiljö. 
+  - *Stöds inte:* Support/felsökning, snabbkorrigeringar, tjänster på plats, långsiktig rådgivning (mindre än 25 timmar per engagemang), direkt till kundsupport eller praktisk support i en produktionsmiljö. 
 
 
 - **Marketplace-rådgivning** används för att publicera din lösning för pågående leadgenerering på Microsofts kommersiella marknadsplats. För utvecklare, tjänstkonfiguration, arkitektur eller designremisser, migrering från lokala lösningar, kodgranskning och hjälp med publicering av program.
@@ -66,7 +66,7 @@ Följande produkter och tjänster omfattas av Technical Presales and Deployment 
 - **Business Applications:** Microsoft Dynamics 365 (online), Microsoft Power Platform (Power Apps, Power Automate, Power BI)
   - *Utanför omfång: Exklusivt lokala versioner av Dynamics 365, GP, SL, AX, NAV*
 - **Microsoft Azure:** Alla Microsoft Azure-lösningar och relaterade tjänster, till exempel infrastruktur som en tjänst, plattform som en tjänst, dataplattform, BI-analys, Cognitive Services, Azure Machine Learning, Azure Stack
-- **Windows Server:** Vanlig Windows Server som stöds (enligt **[produktlivscykeln)](/lifecycle/policies/fixed)**
+- **Windows Server och SQL Server:** Inom mainstream-support som styrs av **[produktens livscykel](/lifecycle/policies/fixed)**)
   - System Center relaterade produkter som SCCM, om de är relaterade till moln- eller hybridscenarier
 - **Windows 10:** Windows 10 operativsystem, enheter, universella appar
 - **Produkter i privat eller offentlig förhandsversion:** Hjälp tillhandahålls efter bästa försök, för icke-produktionsmiljöer och utan garanti för informationstillgänglighet eller svarstid
@@ -106,5 +106,6 @@ Så här visar du dina tekniska fördelar i Partnercenter:
 6. Bekräftelsesidan visar numret och beskrivningen för supportbegäran. Du får också en bekräftelse via e-post från Partnercenter med ärendenumret.
 
 ## <a name="next-steps"></a>Nästa steg
+[Teknisk support för lokala eller molnbaserade produkter](/mpn-benefits-technical-support.md)
 
 [Hantera dina Microsoft Partner Network och erbjudanden](manage-your-partner-network-benefits.md)

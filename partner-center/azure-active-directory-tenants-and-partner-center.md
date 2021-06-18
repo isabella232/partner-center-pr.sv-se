@@ -3,35 +3,35 @@ title: Länka ditt arbetskonto för att få åtkomst till Partnercenter
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Skapa ett arbetskonto som länkar ditt företag till ditt Partnercenter-konto. Detta gör att anställda på ditt företag kan komma åt Partnercenter.
+description: Skapa ett arbetskonto som länkar ditt företag till ditt Partnercenter-konto. Detta gör att anställda i ditt företag kan komma åt Partnercenter.
 author: vinayks
 ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.date: 11/25/2019
-ms.openlocfilehash: a06a38ef9d96b4c2a1e95328d510eb2fd71ff0e3
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.date: 6/17/2021
+ms.openlocfilehash: 69aa45de55a4356eaab1bcd4cd309feb14de9f6e
+ms.sourcegitcommit: 0410e2a3f91b7e6b592cc47e7af1dfbe468c7881
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149850"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112318069"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Skapa ett arbetskonto som länkar ditt företag till ditt Partnercenter-konto
 
-**Lämpliga roller:** Globala | Administratör för användarhantering
+**Lämpliga roller:** Global | Administratör för användarhantering
 
 ## <a name="why-you-need-a-work-account"></a>Varför du behöver ett arbetskonto
 
-Microsoft kräver att du länkar företagets arbetskonto till ditt nya Partnercenter-konto. Med länken kan dina kontoanvändare logga in på Partnercenter med sina användarnamn och lösenord för arbetskontot.
+Microsoft kräver att du länkar ditt företags arbetskonto till ditt nya Partnercenter-konto. Länken gör att dina kontoanvändare kan logga in på Partnercenter med sina användarnamn och lösenord för arbetskontot.
 
 ## <a name="the-work-account-email-address"></a>Arbetskontots e-postadress
 
-Ditt arbetskonto eller din arbets-e-postadress är den e-postadress som ditt företag har angett. E-postadressen för ett arbetskonto har vanligtvis formatet `you@yourcompany.com` . Personliga e-postadresser som Hotmail, Gmail eller Yahoo fungerar inte som e-post och kan inte användas för ditt Partnercenter-konto.
+Ditt arbetskonto eller arbets-e-postadress är den e-postadress som ditt företag har angett. Ett arbetskontos e-postadress har vanligtvis formatet `you@yourcompany.com` . Personliga e-postadresser som Hotmail, Gmail eller Yahoo fungerar inte som e-post och kan inte användas för ditt Partnercenter-konto.
 
-Om du har mer än en giltig e-postadress till arbetet använder du den som är kopplad till företagets huvudkontor i stället för till den regionala avdelningen, till exempel, använd din e-postadress i stället för `contoso.com` `contoso.uk` adressen.
+Om du har fler än en giltig e-postadress till arbetet använder du den som är associerad med företagets huvudkontor i stället för den regionala avdelningen. Använd till exempel din e-postadress i stället för `contoso.com` `contoso.uk` adressen.
 
 > [!NOTE]  
-> Innan du bestämmer dig för att använda ett befintligt arbetskonto bör du tänka på hur många användare i kontot som måste arbeta i Partnercenter. Om du har användare i kontot som inte behöver arbeta i Partnercenter kan du skapa ett nytt konto för endast de användare som behöver arbeta i Partnercenter.
+> Innan du använder ett befintligt arbetskonto bör du tänka på hur många användare i arbetskontot som behöver åtkomst till Partnercenter. Om du har användare i arbetskontot som inte behöver åtkomst till Partnercenter kan du skapa ett nytt konto för endast de användare som behöver åtkomst till Partnercenter.
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Är du osäker på om ditt företag redan har ett arbetskonto?
 
@@ -39,9 +39,9 @@ Om du inte är säker på om ditt företag har ett arbetskonto följer du dessa 
 
 1. Logga in på [Azure-portalen](https://portal.azure.com).
 
-2. Välj Azure Active Directory på menyn och välj sedan Domännamn.
+2. Välj Azure Active Directory navigeringsmenyn och välj **Custom Domain Namn.**
 
-3. Om du redan har ett arbetskonto visas domännamnet.
+3. Om du redan har ett arbetskonto visas ditt domännamn.
 
 Om ditt företag inte redan har ett arbetskonto kan du skapa ett under registreringsprocessen.
 
