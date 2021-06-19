@@ -1,7 +1,7 @@
 ---
 title: Så här lägger du till en ny kundpost
 ms.topic: how-to
-ms.date: 04/27/2020
+ms.date: 04/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lär dig hur du lägger till en ny kundpost i Partnercenter. Sedan kan du sälja kundprenumerationer, hantera fakturering eller tillhandahålla kundsupport.
@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 234e183ae814dc30f8d7d00c5dddb1ffea612825
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 76e15992355eff88e3a9391ea4af327c3ad969e0
+ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150564"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "112373366"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Så här lägger du till en ny kundpost i Partnercenter
 
@@ -47,16 +47,16 @@ Den här artikeln beskriver hur du lägger till en ny kund i din lista över kun
 
 4. Välj **Nästa: Prenumerationer** när du är klar med att ange all nödvändig information.
 
-5. På **sidan Prenumerationer** väljer du det eller de erbjudanden som kunden vill köpa från dig, anger antalet licenser och väljer sedan **Nästa: Granska.**
+5. På **sidan Prenumerationer** väljer du de erbjudanden som kunden vill köpa från dig, anger antalet licenser och väljer sedan **Nästa: Granska.**
 
-6. Kontrollera **att posterna** är korrekta på sidan Granska och välj sedan **Skicka** om informationen är korrekt.
+6. På sidan **Granska** kontrollerar du om posterna är korrekta och väljer **sedan Skicka** om informationen är korrekt.
 
    >[!NOTE]
-   >Om du behöver ändra kundinformation väljer du **Uppdatera** i **avsnittet Kontoinformation.** Om du behöver ändra de erbjudanden som du har valt väljer **du Uppdatera** i **avsnittet** Prenumerationer.
+   >Om du behöver ändra kundinformation väljer du **Uppdatera** i **avsnittet Kontoinformation.** Om du behöver ändra de erbjudanden som du har valt **väljer du Uppdatera** i **avsnittet** Prenumerationer.
 
 7. Välj **Klar** när du har lagt till kundinformationen och köpt de prenumerationer som krävs.
 
 ## <a name="next-steps"></a>Nästa steg
 
-- Mer information om vad du kan sälja till kunder via Molnlösningsleverantör program finns [i Partnererbjudanden i Molnlösningsleverantör program](csp-offers.md)
+- Mer information om vad du kan sälja till kunder via Molnlösningsleverantör-programmet finns [i Partnererbjudanden i Molnlösningsleverantör program](csp-offers.md)
 
