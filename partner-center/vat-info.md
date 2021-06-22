@@ -8,23 +8,23 @@ ms.localizationpriority: medium
 ms.date: 12/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-ms.openlocfilehash: bd0399f16fb2bdaf1099597cd48c89d7e9d3651d
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: bcdb6b4da0911eb9b6600218f926517d9ef1728e
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109794997"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431681"
 ---
 # <a name="value-added-tax-vat-information"></a>Information om mervärdesskatt (moms)
 
 **Lämpliga roller:** Kontoadministratör
 
 
-Om du måste ange ett momsregistreringsnummer under registreringsprocessen i Partnercenter kan du komma igång med hjälp av följande information.
+Om du måste ange ett momsregistreringsnummer (moms) under registreringsprocessen i Partnercenter kan du komma igång med hjälp av följande information.
 
 ## <a name="understanding-vat-numbers"></a>Förstå momsnummer
 
-Ett momsnummer är en identifierare som används för länder eller regioner i EU. Mer information finns på EU:s officiella [VIES-webbplats.](http://ec.europa.eu/taxation_customs/vies/vieshome.do)
+Ett momsnummer är en identifierare som används för länder eller regioner i EU. Mer information finns på EU:s officiella webbplats [för VAT Information Exchange System (VIES).](http://ec.europa.eu/taxation_customs/vies/vieshome.do)
 
 ## <a name="location-specific-vat-information"></a>Platsspecifik momsinformation
 
@@ -46,21 +46,21 @@ Microsoft tillämpar nu standardmoms för digitalt innehåll och tjänster som k
 
 ## <a name="accepted-formats-for-vat-numbers"></a>Godkända format för momsregistreringsnummer
 
-Observera att Microsoft inte ger skatteråd och att följande tabell endast tillhandahålls som vägledning. Du bör kontrollera med dina lokala skattemyndigheter om de senaste ändringarna om den här vägledningen inte är tillräcklig för att du ska kunna ange ett momsregistreringsnummer till Microsoft.
+Observera att Microsoft inte ger skatteråd och att följande tabell endast tillhandahålls som vägledning. Du bör be dina lokala skattemyndigheter om de senaste ändringarna om den här vägledningen inte är tillräcklig för att du ska kunna ange ett momsregistreringsnummer till Microsoft.
 
 |Land/region | Momsinformation |
 |:------------|:----------|
-|Österrike  |– Momsnummerformat: 1 bokstav och 8 siffror<br/>– Lands-/regionskod: AT<br/>– Exempel: U12345678<br/>– Kommentarer: Det första tecknet kommer alltid att vara "U". |
+|Österrike  |– Format för momsregistreringsnummer: 1 bokstav och 8 siffror<br/>– Lands-/regionskod: AT<br/>– Exempel: U12345678<br/>– Anteckningar: Det första tecknet kommer alltid att vara U. |
 |Belgien  |– Momsnummerformat: 10 siffror<br/>– Lands-/regionskod: BE<br/>– Exempel: 1234567890<br/>– Anteckningar: 9 siffror före den 1 januari 2007. |
 | Bulgarien  |– Momsnummerformat: 9 eller 10 siffror<br/>– Lands-/regionskod: BG<br/>– Exempel: 123456789 eller 0123456789 |
-| Kroatien |– Nummerformat för momsregistrering: 2 bokstäver och 11 siffror<br/>– Lands-/regionskod: HR<br/>– Exempel: HR12345678901<br/>– Kommentarer: Första tecknen kommer alltid att vara "HR". |
-|Cypern |– Nummerformat för momsregistrering: 2 bokstäver, 8 siffror och 1 bokstav<br/>– Lands-/regionskod: CY<br/>– Exempel: 12345678, 123456789 eller 0123456789 |
+| Kroatien |– Format för momsregistreringsnummer: 2 bokstäver och 11 siffror<br/>– Lands-/regionskod: HR<br/>– Exempel: HR12345678901<br/>– Kommentarer: De första tecknen kommer alltid att vara HR. |
+|Cypern |– Format för momsregistreringsnummer: 2 bokstäver, 8 siffror och 1 bokstav<br/>– Lands-/regionskod: CY<br/>– Exempel: 12345678, 123456789 eller 0123456789 |
 |Tjeckien |– Momsnummerformat: 8, 9 eller 10 siffror<br/>– Lands-/regionskod: REGIONSKOD<br/>– Exempel: 12345678, 123456789 eller 0123456789 |
 | Danmark |– Momsnummerformat: 8 siffror<br/>– Lands-/regionskod: DK<br/>– Exempel: 12345678<br/> |
 |Estland |– Momsnummerformat: 9 siffror<br/>– Lands-/regionskod: EE<br/>– Exempel: 123456789<br/> |
 |Finland |– Momsnummerformat: siffror<br/>– Lands-/regionskod: FI<br/>– Exempel: 12345678 |
 |Frankrike |– Momsnummerformat: 11 siffror<br/>– Lands-/regionskod: FR<br/>– Exempel: 12345678901, X1234567890, 1X123456789 eller XX123456789<br/>– Anteckningar: Kan innehålla alla alfabetiska tecken förutom I eller Q som första eller andra tecken, eller som det första och andra tecknet, följt av 9 siffror. |
-|Tyskland |– Momsnummerformat: 9 siffror<br/>– Lands-/regionskod: DE<br/>– Exempel: 123456789<br/>– Anteckningar: Måste vara den 9-siffriga "UmsatzsteurNummer" (Ust ID Nr.) |
+|Tyskland |– Momsnummerformat: 9 siffror<br/>– Lands-/regionskod: DE<br/>– Exempel: 123456789<br/>– Anteckningar: Måste vara den 9-siffriga "Umsatzsteur På tal" (Ust ID Nr.) |
 |Grekland |– Momsnummerformat: 9 siffror<br/>– Lands-/regionskod: EL, GR<br/>– Exempel: 123456789 |
 |Ungern |– Momsnummerformat: 8 siffror<br/>– Lands-/regionskod: HU<br/>– Exempel: 12345678 |
 |Irland |– Momsnummerformat: 8 siffror<br/>– Lands-/regionskod: IE<br/>– Exempel: 1234567X eller 1X34567X<br/>– Anteckningar: Innehåller 1 eller 2 alfabetiska tecken: antingen sista eller andra och sista. |
@@ -72,12 +72,12 @@ Observera att Microsoft inte ger skatteråd och att följande tabell endast till
 |Nederländerna |– Momsnummerformat: 11 siffror och 1 bokstav<br/>– Lands-/regionskod: NL<br/>– Exempel: 123456789B01<br/>– Anteckningar: Tionde tecken är alltid "B". |
 |Polen |– Momsnummerformat: 10 siffror<br/>– Lands-/regionskod: PL<br/>– Exempel: 1234567890 |
 |Portugal |– Momsnummerformat: 9 siffror<br/>– Lands-/regionskod: PT<br/>– Exempel: 123456789 |
-|Rumänien |– Format för momsregistreringsnummer: 2 bokstäver och 8–10 siffror<br/>– Lands-/regionskod: RO<br/>– Exempel: RO12345678, RO123456789 eller RO1234567890<br/>– Kommentarer: Första tecknen kommer alltid att vara "RO" |
-|Slovakien |– Momsnummerformat: 10 siffror<br/>– Lands-/regionskod: SKU<br/>– Exempel: 1234567890<br/>– Kommentarer: Första tecknen kommer alltid att vara "SI". |
-|Slovenien |– Nummerformat för momsregistrering: 2 bokstäver och 8 siffror<br/>– Lands-/regionskod: SI<br/>– Exempel: SI12345678<br/>– Kommentarer: Första tecknen kommer alltid att vara "SI". |
+|Rumänien |– Nummerformat för momsregistrering: 2 bokstäver och 8–10 siffror<br/>– Lands-/regionskod: RO<br/>– Exempel: RO12345678, RO123456789 eller RO1234567890<br/>– Kommentarer: De första tecknen kommer alltid att vara "RO" |
+|Slovakien |– Momsnummerformat: 10 siffror<br/>– Lands-/regionskod: SKU<br/>– Exempel: 1234567890<br/>– Kommentarer: De första tecknen kommer alltid att vara "SI". |
+|Slovenien |– Momsnummerformat: 2 bokstäver och 8 siffror<br/>– Lands-/regionskod: SI<br/>– Exempel: SI12345678<br/>– Kommentarer: De första tecknen kommer alltid att vara "SI". |
 |Spanien |– Momsnummerformat: 9 siffror<br/>– Lands-/regionskod: ES<br/>– Exempel: X12345678, 12345678X eller X1234567X<br/>– Anteckningar: Innehåller 1 eller 2 bokstäver: antingen första, sista eller första och sista. |
 |Sverige |– Momsnummerformat: 12 siffror<br/>– Lands-/regionskod: SE<br/>– Exempel: 123456789001<br/>– Anteckningar: De sista 2 tecknen måste vara "01". |
-|Storbritannien |– Momsnummerformat: 9 eller 12 siffror<br/>– Lands-/regionskod: GB<br/>– Exempel: 123456789 eller 123456789001<br/>– Anteckningar: 9 siffror i allmänhet, men 12 siffror om talet representerar ett underföretag inom en grupp. |
+|Storbritannien |– Momsnummerformat: 9 eller 12 siffror<br/>– Lands-/regionskod: GB<br/>– Exempel: 123456789 eller 123456789001<br/>– Anteckningar: 9 siffror vanligtvis, men 12 siffror om talet representerar ett underföretag i en grupp. |
 
 ## <a name="next-steps"></a>Nästa steg
 

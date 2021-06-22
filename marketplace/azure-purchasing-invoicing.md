@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 01/18/2021
-ms.openlocfilehash: f747c11ef4bfc9abe1035ffb3f059da59b6572ac
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 11145280aad1ecd9777ec2fb7540e7d6479acfae
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276509"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431554"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace köp
 
@@ -30,6 +30,9 @@ När du har hittat rätt program är det enkelt att slutföra köpet. Du behöve
 Innan du slutför ett köp kontrollerar du att användaren har rätt konfiguration i Azure-klientorganisationen. Detta hjälper till att förhindra fel under köpet.
 
 I den Azure Marketplace upplevelsen i Azure Portal du det program som du vill köpa och väljer **Skapa** **eller Konfigurera + prenumerera.** Du uppmanas att slutföra en del information innan du kan använda den nya lösningen.
+
+> [!CAUTION]
+> Godkännande till privat Marketplace anger inte anskaffning av en lösning.
 
 :::image type="content" source="media/overview/offer-create-screen.png" alt-text="Knappen Skapa för erbjudandet.":::
 

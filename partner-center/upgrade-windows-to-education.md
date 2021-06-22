@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 806ddcd6e55a72ac2e1d15bdbec7c27c604917dc
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 4835a620cd414370525a5c441e0db5a7de1bfed1
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818702"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431516"
 ---
 # <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Uppgradera vissa Education-kunder från Windows 10 Home till Windows 10 Education
 
@@ -22,9 +22,9 @@ ms.locfileid: "109818702"
 
 ## <a name="overview"></a>Översikt
 
-Från och med den 1 november 2020 kan CPP:er som har köpt prenumerationer på Microsoft 365 A3 eller A5 eller Windows 10 Enterprise A3 eller A5 hjälpa sina Education-kunder att uppgradera från Windows 10 Home till Windows 10 Education, som är utformat för både klassrums- och fjärrinlärning.
+Från och med den 1 november 2020 kan molntjänstleverantörer som har köpt prenumerationer på Microsoft 365 A3 eller A5 eller Windows 10 Enterprise A3 eller A5 hjälpa sina Education-kunder att uppgradera från Windows 10 Home till Windows 10 Education, som är utformat för både klassrums- och fjärrinlärning.
 
-Från den 1 november 2020 Windows 10 Home ett kvalificerande operativsystem för Education-kunder som licensieras via Microsoft Cloud-avtal (via CSP). Den här behörigheten, som hittills bara har varit tillgänglig i volymlicensieringsprogram (VL), har aktiverats via Microsoft 365 administratörsportalen. 
+Från och med 1 november 2020 Windows 10 Home ett kvalificerande operativsystem för Education-kunder som licensieras via Microsoft Cloud-avtal (via CSP-programmet). Den här behörigheten, som hittills bara har varit tillgänglig i volymlicensieringsprogram (VL), har aktiverats via Microsoft 365 administratörsportalen. 
 
 ## <a name="how-the-upgrade-process-works"></a>Så här fungerar uppgraderingsprocessen
 
@@ -48,19 +48,19 @@ Partner bör skapa en supportbegäran och hämta nycklar från supporten. Partne
 
 5. Du kommer till Office 365-portalen där du måste logga in med dina autentiseringsuppgifter för Partnercenter.
 
-6. Välj **Support, Ny tjänstbegäran** på menyn till vänster.
+6. Välj **Support, Ny tjänstbegäran** på den vänstra menyn.
 
 7. Inkludera informationen nedan i Supportbegäran:
 
-- **Rubrik:** Windows 10 Home för Windows 10 Education uppgradera produktnyckeln
+- **Rubrik:** Windows 10 Home Windows 10 Education uppgradera produktnyckeln
 - **Beskrivning:** Begära [infoga nummer]-nycklar för att aktivera uppgradering till Windows 10 Education. (Observera att antalet begärda nycklar inte får vara större än dina Microsoft 365 A3/A5 eller Windows 10 Enterprise A3/A5-prenumerationslicenser.) Kundens prenumerations-ID [infoga kundernas prenumerations-ID GUID för deras Microsoft 365 A3/A5 eller Windows 10 Enterprise A3/A5-prenumeration.]
-- **Kontaktnummer:** Detta fylls i i förväg. granska för att bekräfta eller uppdatera.
-- **E-post:** Detta är ifyllt i förväg och bör vara det e-postmeddelande som du använder som Administratör för Microsoft-portalen (endast global administratör eller faktureringsadministratör).
+- **Kontaktnummer:** Detta kommer att fyllas i i förväg. granska för att bekräfta eller uppdatera.
+- **E-post:** Detta är ifyllt i förväg och bör vara det e-postmeddelande som du använder som Microsoft Portal-administratör (endast global administratör eller faktureringsadministratör).
 - **Önskad kontaktmetod:** Välj **Telefon eller** **Schemalägg ett samtal tillbaka.**
 
-8. Välj **Kontakta mig.** Den förväntade väntetiden anges i fönstret **Behöver du hjälp?** .
+8. Välj **Kontakta mig.** Förväntad väntetid visas i fönstret **Behöver du hjälp?**
 
-9. **Microsoft Support** granskar begäran för att säkerställa att kunden kvalificerar sig. När begäran har godkänts skickar de ett e-postmeddelande till partnern med instruktioner om hur de får åtkomst till nycklarna.
+9. **Microsoft Support** granskar begäran för att säkerställa att kunden kvalificerar sig. När begäran har godkänts skickar de ett e-postmeddelande till partnern som innehåller instruktioner om hur du kommer åt nycklarna.
 
 10. **Partner** delar nycklarna och andra instruktioner med sina kunder.
 
@@ -68,7 +68,7 @@ Partner bör skapa en supportbegäran och hämta nycklar från supporten. Partne
 
 Om du Windows 10 Home en Windows 10 Pro Education en produktnyckel måste kunden göra följande:  
 
-1. Välj **Start** och välj sedan **Inställningar > Update & Security > Activation**. Välj **Ändra produktnyckel och** ange sedan den 25 tecken Windows 10 Pro produktnyckeln. Välj **Nästa** för att starta uppgraderingen för att Windows 10 Pro.
+1. Välj **Starta** och välj sedan **Inställningar > Update & Security > Activation**. Välj **Ändra produktnyckel och** ange sedan den 25 tecken Windows 10 Pro produktnyckeln. Välj **Nästa** för att starta uppgraderingen för att Windows 10 Pro.
 
 2. När enheten är ansluten till klientdomänen (via AAD) uppgraderas enheten automatiskt till Windows 10 Education.  
 
