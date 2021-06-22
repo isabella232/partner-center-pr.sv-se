@@ -4,23 +4,23 @@ ms.topic: how-to
 ms.date: 12/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Lär dig hur du ställer in dina anställda med MFA
+description: Lär dig hur du ställer in anställda med MFA
 author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 37373c032dc34315c0e3274987805d7518d0b595
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 9cdb83c8b58b75606275c9773cba79eba75d5d0d
+ms.sourcegitcommit: 7cc83714e17337b472727819243f98c84ae181ba
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276611"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112450815"
 ---
 # <a name="set-up-your-users-with-multi-factor-authentication"></a>Ge användarna multifaktorautentisering
 
 **Lämpliga roller:** Global administratör
 
-Större sekretessskydd och säkerhet är bland våra högsta prioriteter. Vi vet att det bästa försvaret är att förebygga och att vi bara är lika starka som vår svagaste länk. Därför behöver vi att alla i vårt ekosystem agerar och ser till att rätt säkerhetsskydd finns på plats. Vi rekommenderar starkt att alla partner aktiverar multifaktorautentisering (MFA) för sina användare i partnerklientorganisationen. 
+Större integritetsskydd och säkerhet är bland våra högsta prioriteter. Vi vet att det bästa skydd är att förebygga och att vi bara är lika starka som vår svagaste länk. Därför behöver vi att alla i vårt ekosystem agerar och ser till att rätt säkerhetsskydd finns på plats. Vi rekommenderar starkt att alla partner aktiverar multifaktorautentisering (MFA) för sina användare i partnerklientorganisationen. 
 
 ## <a name="add-multi-factor-authentication-for-your-users"></a>Lägga till multifaktorautentisering för dina användare
 
@@ -28,18 +28,18 @@ Du måste vara global administratör för ditt företag för att slutföra den h
 
 Det är enklast att aktivera MFA för dina användare när du lägger till dem i din Azure AD-klientorganisation.
 
-1. Logga in [på Azure Portal](https://portal.azure.com) och gå sedan till **Användarhantering.**
+1. Logga in [på Azure Portal](https://portal.azure.com) och gå sedan till **Användarhantering**.
 1. Välj **Multi-Factor Authentication**.
 1. Välj den användare som du vill aktivera och välj sedan **Aktivera.**
 
 Detta aktiverar MFA för den här användaren. Aktiverat innebär att användaren uppmanas att konfigurera sin MFA-verifiering när de loggar in för första gången. Därefter uppmanas de vid inloggningen att ange en kod som skickas till dem antingen via e-post eller SMS (beroende på vilket de har ställt in).  
 
-:::image type="content" source="images/MFA/securityverification.png" alt-text="Ange hur du ska verifiera.":::
+:::image type="content" source="images/multi-factor-authentication/security-verification.png" alt-text="Ange hur du vill verifiera.":::
 
 >[!NOTE]
 >Du kan **tvinga** användarna att använda MFA genom att följa samma steg som ovan och välja **Framtvinga.** Mer information finns i [Aktivera Azure Multi-Factor Authentication per användare för att skydda inloggningshändelser.](/azure/active-directory/authentication/howto-mfa-userstates) 
 
-Alla användare börjar med **Inaktiverad**. När du registrerar användare i per användare Azure Active Directory Multi-Factor Authentication ändras deras tillstånd till **Aktiverad.** När aktiverad användare loggar in och slutför registreringen ändras deras tillstånd till **Framtvingad**. 
+Alla användare börjar med **Inaktiverad**. När du registrerar användare i per användare Azure Active Directory Multi-Factor Authentication ändras deras tillstånd till **Aktiverad.** När aktiverat användare loggar in och slutför registreringsprocessen ändras deras tillstånd till **Framtvingad**. 
 
 ## <a name="next-steps"></a>Nästa steg
 
