@@ -9,24 +9,24 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 584f8a7f2794cb64be49fe7f790904eff50c4c26
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 5be1c09a26cfcc0d038663e5814ccda7e535d4d1
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855122"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551443"
 ---
-# <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guide till samförsäljning i Partnercenter (PC) för partner som migrerar från Partner Sales Connect (PSC)
+# <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guide för samförsäljning i PartnerCenter (PC) för partner som migrerar från Partner Sales Connect (PSC)
 
-**Lämpliga roller:** Kontoadministratörsroller | Administratörsbehörighet för hänvisningar | PsC-säljare (Partner Sales Connect) | Administratörsadministratör för Partner Sales Connect (PSC) | Partner Sales Connect -avtalsansvarig (PSC)
+**Lämpliga roller:** Kontoadministratörsroller | Referensadministratörsbehörighet | PsC-säljare (Partner Sales Connect) | Administratörsadministratör för Partner Sales Connect (PSC) | Partner Sales Connect -avtalsansvarig (PSC)
 
-Den här artikeln innehåller vägledning för partner som migrerar från Partner Sales Connect till PartnerCenter så att de kan fortsätta att skapa och hantera samförsäljningserbjudanden i Partnercenter.
+Den här artikeln innehåller vägledning för partner som migrerar från Partner Sales Connect (PSC) till Partner Center (PC) så att de kan fortsätta att skapa och hantera säljavtal i Partnercenter.
 
 >[!Note]
 > Om du är här eftersom du såg en banderoll i PSC om migreringen är du på rätt plats. Den här guiden gäller inte för Solution Assessment (SA) och OEM-licensieringspartner som hanterar sina avtal i PSC.
 
 >[!Important]
-> Från och med 1 april 2021 kommer ditt företag inte att kunna skapa eller redigera avtal i PSC. **Du kommer fortfarande att kunna ladda ned befintliga avtalsdata med funktionen för massexport i PSC. Du kan också [migrera öppna avtal](psc-to-pc.md#psc-deals-migration) från PSC till PartnerCenter efter detta datum.** <br><br> Om det finns avtal som du aktivt arbetar med som innehåller berättigade IP-incitament för säljförsäljning har du två alternativ: <br><br> 1. Markera avtalet som vunnit och slutför avtalsregistreringen i PSC före den 31 mars 2021. <br> 2. [Migrera avtal till](psc-to-pc.md#psc-deals-migration) Partnercenter så att du får mer tid att arbeta med avtalet och starta avtalsregistreringen.
+> Från och med 1 april 2021 kommer ditt företag inte att kunna skapa eller redigera avtal i PSC. **Du kommer fortfarande att kunna ladda ned befintliga avtalsdata med funktionen för massexport i PSC. Du kan också [migrera öppna avtal](psc-to-pc.md#psc-deals-migration) från PSC till Partner Center efter detta datum.** <br><br> Om det finns avtal som du aktivt arbetar med som innehåller berättigade IP-incitament för säljförsäljning har du två alternativ: <br><br> 1. Markera avtalet som vunnit och slutför avtalsregistreringen i PSC före den 31 mars 2021. <br> 2. [Migrera avtal till](psc-to-pc.md#psc-deals-migration) Partnercenter så att du får mer tid att arbeta med avtalet och starta avtalsregistreringen.
 
 Som du vet **förlorar företaget åtkomst till PSC efter den 30 april 2021.** Men du hittar fortfarande allt du vill göra i Partnercenter, till exempel skapa säljavtal, hantera dina avtal och agera på avtal som skickas till dig av Microsoft-säljare.
 
@@ -36,36 +36,36 @@ Det kommer dock att finnas skillnader. Följande riktlinjer kan hjälpa dig att 
 
 ### <a name="if-you-are-a-psc-admin"></a>Om du är PSC-administratör
 
-- Du behöver en e-postadress till arbetet för att logga in [på Partnercenter.](https://partner.microsoft.com/)
-- Konfigurera ditt konto med hjälp av kontoadministratören [i Partnercenter.](permissions-overview.md)
+- Du behöver ett e-postmeddelande för arbetet för att logga in [på Partnercenter.](https://partner.microsoft.com/)
+- Konfigurera ditt konto med hjälp av [Partnercenter-kontoadministratören.](permissions-overview.md)
 - Lär dig hur du säljs samförsäljning i Partnercenter genom att läsa det här dokumentet.
-- Konfigurera användarkonton i Partnercenter för alla dina PSC-användare (administratörs-, avtalshanterare- och säljarroller) och tilldela dem [referensadministratörsroller.](permissions-overview.md)
+- Konfigurera användarkonton i Partnercenter för alla dina PSC-användare (administratörs-, avtalschefs- och säljarroller) och tilldela dem [referensadministratörsroller.](permissions-overview.md)
 
 >[!IMPORTANT]
-> Kontrollera att MPN-ID:t som visas i PSC-banderollen är tillgängligt i listan över MPN-platser i Partnercenter.
+> Kontrollera att det Microsoft Partner Network MPN-ID som visas i PSC-banderollen är tillgängligt i listan över MPN-platser i Partnercenter.
 
 :::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="Bild som visar PSC-banderollen där partner kan hitta MPN-ID:t.":::
 
- Kontrollera att MPN-ID:t visas som en MPN-plats i Partnercenter genom att logga in på instrumentpanelen i [Partnercenter](https://partner.microsoft.com/dashboard)och sedan välja Inställningar  (kugghjulsikonen) längst upp till höger på skärmen, följt av **Kontoinställningar**. I den vänstra navigeringsmenyn på  den andra nivån väljer du Platser för att se listan över alla MPN-ID:er och platser som är associerade med Partnercenter-kontot.
+ Kontrollera att MPN-ID:t visas som en MPN-plats i Partnercenter genom att logga in på instrumentpanelen i [Partnercenter](https://partner.microsoft.com/dashboard)och sedan välja Inställningar  (kugghjulsikonen) längst upp till höger på skärmen, följt av **Kontoinställningar.** I den vänstra navigeringsmenyn på  den andra nivån väljer du Platser för att se listan över alla MPN-ID:er och platser som är associerade med Partnercenter-kontot.
 
-### <a name="if-you-are-a-psc-deal-manager-or-seller"></a>Om du är PSC-avtalsansvarig eller säljare
+### <a name="if-you-are-a-psc-deal-manager-or-seller"></a>Om du är PSC-avtalschef eller säljare
 
 - Du behöver ett e-postmeddelande för arbetet för att logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard)
-- Om du använder ett icke-arbetskonto i PSC eller om din e-postadress till arbetet gäller ett annat företag än partnerföretaget kontaktar du PSC-administratören för hjälp med kontouppsättningen.
-- Kontakta PSC-administratören om ditt partnercenterkonto har ställts in, oavsett vilket konto du använder för att logga in på PSC.
+- Om du använder ett icke-arbetskonto i PSC, eller om din e-postadress till arbetet gäller ett annat företag än partnerföretaget, kontaktar du PSC-administratören för att få hjälp med att konfigurera kontot.
+- Kontakta PSC-administratören om ditt Partnercenter-konto har ställts in, oavsett vilket konto du använder för att logga in på PSC.
 - Kontrollera om du har åtkomst till Partnercenter och avsnittet Referenser.
 - Läs det här dokumentet för att förstå arbetsflödena och ändringarna i Partnercenter.
 
 ## <a name="as-an-admin-in-psc-these-are-your-next-steps"></a>Som administratör i PSC är det här nästa steg
 
-I den vänstra navigeringsmenyn i Partnercenter väljer **du alternativet Referenser.** Bekräfta att du kan komma åt referenssidorna.
+I den vänstra navigeringsmenyn i Partnercenter väljer **du alternativet** Referenser. Bekräfta att du kan komma åt sidorna referenser.
 
   >[!Note]
   > Du kan behöva logga ut från Partnercenter och logga in igen för att uppdatera dina autentiseringsuppgifter för åtkomst till referenssidorna.
 
-Om du inte ser alternativet Referenser på Partnercenter-menyn eller hänvisningsrelaterade sidor [](permissions-overview.md) kontaktar du företagets kontoadministratör och  ber dem ge dig åtkomst till alternativet Referenser och relaterat område. 
+**Om** du inte ser  alternativet Referenser på Menyn i Partnercenter eller på hänvisningsrelaterade sidor kontaktar du företagets kontoadministratör och ber dem ge dig åtkomst till alternativet Referenser och det relaterade området. [](permissions-overview.md)
 
-Så här hittar du företagets kontoadministratör:
+Så här hittar du ditt företags kontoadministratör:
 
 1. Välj **Kontoinställningar** från kugghjulsikonen längst upp till höger på instrumentpanelen i Partnercenter.
 
@@ -78,16 +78,16 @@ Så här hittar du företagets kontoadministratör:
   :::image type="content" source="images/pscmigration/account-admin.gif" alt-text="Bild som visar kontoadministratörerna på sidan för användarhantering i partnerinställningar.":::
 
 >[!Important]
->- Om din roll endast omfattar hantering av användare i PSC ber du företagets kontoadministratör att tilldela dig rollen som [kontoadministratör](permissions-overview.md#manage-mpn-membership-and-your-company) i Partnercenter. 
->- Om din roll även omfattar att hantera möjligheter till säljförsäljning ber du att [tilldelas administratörsrollen för hänvisningar.](permissions-overview.md#manage-referrals)
-> - Det är en bra idé att även nominera en ändringshanteringsledning bland PSC-administratörerna. Detta förhindrar att alla PSC-administratörer behöver kontakta partnercenter-kontoadministratörer individuellt. I stället kan leaden för ändringshantering sedan vara den primära personen som arbetar med Partnercenter-kontoadministratören.
+>- Om din roll endast omfattar hantering av användare i PSC ber du företagets kontoadministratör att tilldela dig rollen [som](permissions-overview.md#manage-mpn-membership-and-your-company) kontoadministratör i Partnercenter. 
+>- Om din roll även omfattar att hantera möjligheter till säljförsäljning kan du be om att [tilldelas administratörsrollen för hänvisningar.](permissions-overview.md#manage-referrals)
+> - Det är en bra idé att även nominera en ändringshanteringsledning bland PSC-administratörerna. Detta förhindrar att alla PSC-administratörer behöver kontakta partnercenter-kontoadministratörer individuellt. I stället kan ändringshanteringsledningen sedan vara den primära personen som arbetar med Partnercenter-kontoadministratören.
 
 ## <a name="user-migration"></a>Användarmigrering
 
 När du har ställt in ditt konto i Partnercenter använder du guiden för användarmigrering på sidan möjligheter till säljförsäljning för att automatiskt tilldela Partnercenter-roller till anställda i ditt företag.
 
 >[!Note]
-> Användarmigrering kan bara utföras [av kontoadministratörer](permissions-overview.md#manage-mpn-membership-and-your-company) i ditt företag. Om du inte har rollen som kontoadministratör kan du hitta en kontoadministratör som kan hjälpa dig att konfigurera användarkontona med hjälp av guiden för användarmigrering.
+> Användarmigrering kan bara utföras [av kontoadministratörer](permissions-overview.md#manage-mpn-membership-and-your-company) i ditt företag. Om du inte har rollen som kontoadministratör hittar du en kontoadministratör som kan hjälpa dig att konfigurera användarkontona med hjälp av guiden för användarmigrering.
 
 :::image type="content" source="images/pscmigration/user-migration.gif" alt-text="Bild som visar guiden för användarmigrering.":::
 
@@ -96,19 +96,19 @@ Kontoadministratörer ser en länk i guiden för PSC-användarmigrering på sida
 Tabellen för användarmigrering innehåller följande information:
 
 - Användarkonto – Medarbetarens e-post-ID
-- PSC-partnerkonto – Det konto som medarbetaren är associerad med i PSC
+- PSC-partnerkonto – Kontot som medarbetaren är associerad med i PSC
 - PSC-användarroll – en av de tre rollerna som tilldelats i PSC.
-- PLATS för DATOR-MPN – Den plats där användaren får relevanta datorroller. MPN för PSC-partnerkontot används för att hitta motsvarande MPN-plats i Partnercenter för att tilldela behörigheter. Hela organisationen anger DET virtuella MPN-ID:t.
-- Datoranvändarroll – Anställda tilldelas roller baserat på sina PSC-användarroller. Administratören i PSC tilldelas referensadministratörsroller på datorn. Säljaren kommer att tilldelas referensanvändarrollen i datorn. Läs mer om datorrollerna och vad användare med dessa roller kan göra i Partnercenter [här](permissions-overview.md#manage-referrals)
-- PC AAD-klientorganisation – den klientorganisation som användarna är tilldelade till i Partnercenter
+- PLATS för DATOR-MPN – Den plats där användaren får relevanta Partner Center-roller (PC). PSC-partnerkontots MPN används för att hitta motsvarande MPN-plats i Partnercenter för att tilldela behörigheter. Hela organisationen anger det virtuella MPN-ID:t.
+- Datoranvändarroll – Anställda tilldelas roller baserat på sina PSC-användarroller. Administratören i PSC tilldelas administratörsroller för hänvisningar i Partnercenter. Säljaren tilldelas referensanvändarrollen i Partnercenter. Läs mer om Partner center-roller och vad användare med dessa roller kan göra i Partnercenter [här](permissions-overview.md#manage-referrals)
+- PC AAD-klient – den Microsoft Azure Active Directory (Azure AD)-klient som användarna är tilldelade till i Partnercenter
 - Status – Det finns tre möjliga tillstånd för migreringens status
-    - **Inte migrerad** – användaren har ingen tilldelad roll för datorreferenser
+    - **Inte migrerad** – användaren har inte tilldelats någon partnercenter-referensroll
     - **Migrerad** – Användaren har migrerats med relevant roll tilldelad enligt tabellen
-    - **Fel** – Det gick inte att slutföra migreringen på grund av ett fel
+    - **Fel** – Det går inte att slutföra migreringen på grund av ett fel
 
 Ibland kan migreringen misslyckas och resultera i fel. Här är några orsaker till varför en migrering kan orsaka ett fel och några av sätten att lösa problemet:
 
-1. PSC-användare kan använda ett icke-arbetskonto.
+1. PSC-användarna kanske använder ett icke-arbetskonto.
 
 2. PSC-användaren kanske använder ett konto från en annan domän än den du använder i Partnercenter.
 
@@ -126,13 +126,13 @@ Ibland kan migreringen misslyckas och resultera i fel. Här är några orsaker t
 
 ## <a name="psc-deals-migration"></a>Migrering av PSC-avtal
 
-När du har slutfört användarmigrering använder du avtalsmigreringsguiden på sidan möjligheter till säljförsäljning för att ta med alla berättigade öppna avtal från PSC till PC. **Migreringslänken visas bara för referensadministratörer med hela organisationens omfång i Partnercenter.** Länken **"PSC deal migration" (PSC-avtalsmigrering)** visas längst upp till höger på sidan Möjligheter till säljförsäljning, vilket öppnar guiden för avtalsmigrering.
+När du har slutfört användarmigrering använder du avtalsmigreringsguiden på sidan möjligheter till säljförsäljning för att ta med alla berättigade öppna avtal från PSC till Partnercenter. **Migreringslänken visas bara för referensadministratörer med hela organisationens omfång i Partnercenter.** Länken **"PSC deal migration" (PSC-avtalsmigrering)** visas längst upp till höger på sidan Möjligheter till säljförsäljning, vilket öppnar guiden för avtalsmigrering.
 
 Läs det här avsnittet innan du påbörjar avtalsmigrering.
 
 **Berättigad till migrering**
 
-Endast vissa avtal är berättigade till migrering från PSC till PC. Den här migreringsguiden är skapad för att hjälpa partner att få sina avtal till Partnercenter där de fortfarande arbetar aktivt med sina kunder för att stänga avtalet. **Endast avtal i öppet tillstånd som skapats från 1 januari 2020 med giltig partnerkontoinformation (giltigt MPN-ID) och som inte genomgår avtalsregistrering är berättigade till migrering.**
+Endast vissa avtal är berättigade till migrering från PSC till PartnerCenter. Den här migreringsguiden har skapats för att hjälpa partner att få sina avtal till Partnercenter där de fortfarande arbetar aktivt med sina kunder för att stänga avtalet. **Endast avtal i öppet tillstånd som skapats från 1 januari 2020 med giltig partnerkontoinformation (giltigt MPN-ID) och som inte genomgår avtalsregistrering är berättigade till migrering.**
 
 **Ej berättigad till migrering**
 
@@ -142,10 +142,10 @@ Endast vissa avtal är berättigade till migrering från PSC till PC. Den här m
 
 ## <a name="pre-requisites-for-deal-migration"></a>Förutsättningar för avtalsmigrering
 
-Innan du påbörjar avtalsmigrering från datorn följer du anvisningarna nedan för att konfigurera avtal i PSC för en lyckad migrering.
+Innan du påbörjar avtalsmigrering från Partnercenter följer du anvisningarna nedan för att konfigurera avtal i PSC för en lyckad migrering.
 
 1. Alla medlemmar i säljteamet i ditt företag som arbetar med öppna avtal informeras om migreringen.
-2. Säljteamets medlemmar tränas att använda Partnercenter för avtalshantering.
+2. Säljteamets medlemmar tränas att använda PartnerCenter för avtalshantering.
 3. Avtal har all nödvändig information enligt beskrivningen nedan.
     - Kundföretagsinformation, inklusive namn och adress
     - Kundkontaktinformation om det är ett samförsäljningsavtal
@@ -158,29 +158,29 @@ Innan du påbörjar avtalsmigrering från datorn följer du anvisningarna nedan 
 Du kan använda funktionerna för massnedladdning och uppladdning i PSC för att lägga till all information som saknas i avtalet för alla berättigade avtal.
 
 >[!Note]
-> En avtalsmigrering lyckas även om ovanstående krav inte uppfylls. Men du kan inte ändra tillståndet för avtalet om något av ovanstående obligatoriska fält i Partnercenter inte är tillgängligt. Du måste sedan ange all nödvändig information som saknas i avtal i Partnercenter för att börja arbeta med dem. **Vi rekommenderar starkt att du rensar kvalificerande avtal i PSC innan du migrerar dem till Partnercenter.**
+> Avtalsmigrering lyckas även om ovanstående förutsättningar inte uppfylls. Men du kan inte ändra tillståndet för avtalet om något av ovanstående obligatoriska fält i Partnercenter inte är tillgängligt. Du måste sedan ange all nödvändig information som saknas i avtal i Partnercenter för att börja arbeta med dem. **Vi rekommenderar starkt att du rensar de berättigade erbjudandena i PSC innan du migrerar dem till Partnercenter.**
 
-Avtalsmigrering i Partnercenter har skapats med ett klick. Allt du behöver göra är att klicka på **knappen "Migrera avtal"** när ditt företag är redo att migrera de berättigade erbjudandena. **Du kan inte välja de avtal som du vill migrera från PSC. Om du inte vill migrera några avtal till Partnercenter flyttar du dem till stängt tillstånd i PSC innan du påbörjar migreringen.**
+Avtalsmigrering i Partnercenter byggs som en upplevelse med ett klick. Allt du behöver göra är att välja **knappen "Migrera avtal"** när ditt företag är redo att migrera de berättigade erbjudandena. **Du kan inte välja de avtal som du vill migrera från PSC. Om du inte vill migrera några avtal till Partnercenter flyttar du dem till stängt tillstånd i PSC innan du påbörjar migreringen.**
 
 >[!Note]
-> När du har **initierat migreringen kan det ta upp till 24 timmar innan avtal migreras.**
+> När migreringen har **initierats kan det ta upp till 24 timmar innan avtal migreras**.
 
-När migreringen är klar ändras banderollmeddelandets status för att slutföras med en länk till migreringsrapporten. Ladda ned rapporten för att visa information om avtal som har migrerats från PSC till PC.
+När migreringen är klar har banderollmeddelandet statusen ändrad för att slutföras med en länk till migreringsrapporten. Ladda ned rapporten för att visa information om avtal som har migrerats från PSC till Partnercenter.
 
 Rapporten innehåller informationen nedan.
 
-1. **Engagemangs-ID för Partnercenter** – Den unika identifieraren i Partnercenter för alla avtal i ett engagemang. Det finns två avtal – ett för partnern och ett för Microsoft i ett engagemang för säljförsäljning i Partnercenter.
+1. **Id för partnercenterinteragemang** – Den unika identifieraren i Partnercenter för alla avtal i ett engagemang. Det finns två avtal – ett för partnern och ett för Microsoft i ett samförsäljningsinteragemang i Partnercenter.
 2. **Referens-ID för Partnercenter** – Den unika identifieraren i Partnercenter för avtalet som tillhör partnern.
 3. **Avtalsnamn** – Identifierare som anges för avtalet i PSC.
 4. **PSC-avtals-ID** – Den unika identifieraren i PSC för avtalet.
-5. **Fel –** för att ange om det finns några fel vid migrering av ett specifikt avtal.
+5. **Fel –** för att ange om det finns något fel vid migrering av ett specifikt avtal.
 
-Alla avtal som har migrerats visas inte i PSC. Du kan fortsätta att arbeta med migrerade avtal på datorer, inklusive slutföra avtalsregistrering i PC. Det kommer inte att ske några ändringar i interaktionerna med Microsoft-säljarna för säljavtal.
+Alla avtal som har migrerats visas inte i PSC. Du kan fortsätta att arbeta med migrerade avtal i Partnercenter, inklusive slutföra avtalsregistrering i Partnercenter. Det kommer inte att ske några ändringar i interaktionerna med Microsoft-säljarna för säljavtal.
 
 Avtal som migreras från PSC kommer att vara tillgängliga på flikarna Inkommande och Utgående baserat på avtalets källa. Alla avtal som delas av ditt företag kommer att vara tillgängliga på fliken Utgående och Microsoft-initierade avtal kommer att vara tillgängliga på fliken Inkommande i Partnercenter. Det kommer att finnas två typer av avtal som skapas efter migreringen.
 
 1. **Samförsäljningserbjudanden** – Avtal som markeras som samförsäljning i PSC skapas som samförsäljningserbjudanden i Partnercenter.
-2. **Partnerledda avtal –** Avtal som inte har markerats som samförsäljning skapas som partnerledda avtal i Partnercenter. Partnerledda avtal är synliga för Microsoft-säljare och kan uppgraderas till samförsäljningserbjudanden innan de når terminaltillståndet (vunnits, förlorats). Partnerledda avtal är också berättigade till avtalsregistrering om det finns en berättigad incitamentslösning i avtalet.
+2. **Partnerledda avtal –** Avtal som inte har markerats som samförsäljning skapas som partnerledda avtal i Partnercenter. Partnerledda avtal är synliga för Microsoft-säljare och kan uppgraderas till säljavtal innan de når terminaltillståndet (won, lost). Partnerledda avtal är också berättigade till avtalsregistrering om det finns en berättigad incitamentslösning i avtalet.
 
 >[!Important]
 > Om det finns några fel som gör att vissa avtal inte kunde migreras kan du starta om avtalsmigrering genom att klicka på knappen **"Migrera avtal".** Den aktiveras bara om det finns vissa berättigade avtal som ska migreras. Detta är också användbart om du är i övergångsfasen där vissa nya avtal skapas i PSC när du har initierat avtalsmigrering.
@@ -192,9 +192,9 @@ När du har slutfört användarmigrering och/eller avtalsmigrering kan du använ
 Om ditt företag har en Partner Development Manager (PDM) – När ditt PartnerCenter-konto har ställts in och dina användare har flyttats över och har roller och behörigheter kan du flytta dina säljaktiviteter till Partnercenter. Informera PDM om att göra bytet i stället för att vänta tills migreringen har slutförts, vilket gör att alla dina nya avtal kan flöda till Partnercenter.
 
 >[!Note]
->När du har gjort den här växlingen kan du bara agera på befintliga aktiva avtal i PSC. Du kan varken skapa nya avtal eller få avtal från Microsoft-säljare i PSC.
+>När du har gjort den här växeln kan du bara agera på befintliga aktiva avtal i PSC. Du kan varken skapa nya avtal eller få några avtal från Microsoft-säljare i PSC.
 
-Om ditt företag inte har någon PDM – Kontrollera att alla användarkonton har ställts in och verifierats av alla användare. Du får ett meddelande via e-post och en banderoll i PSC om det exakta datumet då du kan börja sälja i Partnercenter. Kom ihåg att du fortfarande måste hantera befintliga aktiva avtal i PSC.
+Om ditt företag inte har någon PDM – Kontrollera att alla användarkonton har ställts in och verifierats av alla användare. Du får ett e-postmeddelande och en banderoll i PSC om det exakta datumet då du kan börja sälja i Partnercenter. Kom ihåg att du fortfarande måste hantera befintliga aktiva avtal i PSC.
 
 >[!Important]
 > Du har fram till den 30 april 2021 på dig att registrera de avtal som markeras som vann.
@@ -204,14 +204,14 @@ Om ditt företag inte har någon PDM – Kontrollera att alla användarkonton ha
 Lär dig hur du säljs samförsäljning i Partnercenter.
 Det här är ett viktigt steg som hjälper dig att förbereda dig för samförsäljning i Partnercenter. Förstå arbetsflödena och ändringarna i Partnercenter så att du effektivt kan samarbeta direkt. Börja med att läsa det här dokumentet helt. En bra uppsättning resurser finns också i galleriet [Sälj säljupplevelse.](https://aka.ms/cosellexperience)
 
-## <a name="major-differences-between-psc-and-pc-workflows"></a>Större skillnader mellan PSC- och PC-arbetsflöden
+## <a name="major-differences-between-psc-and-partner-center-workflows"></a>Större skillnader mellan PSC- och Partner Center-arbetsflöden
 
 |**Scenario**|**Partner Sales Connect**|**Partnercenter**|
 |-----|:-----|:-----|
-|Användarroller|PSC har administratörs-, avtalshanterare- och säljarroller.|Datorn har bara [referensadministratörsroll](permissions-overview.md#manage-referrals) som ger både läs- och skrivbehörighet för alla avtal.|
-|Bjuda in Microsoft på ett samförsäljningsavtal|Initieras av Microsoft-säljaren och det finns ingen uttrycklig fråga från partnern.|Partnern måste göra en [explicit begäran om](manage-co-sell-opportunities.md#add-solutions) en Microsoft-säljhjälp krävs för ett avtal. Microsoft Seller har ett alternativ för att avvisa begäran.|
-|Upphörande|Det finns inget begrepp om att ett avtal upphör att gälla.|Partnerns inkommande avtal upphör att gälla om 14 dagar om de inte godkänns av partnern. Samma sak gäller med partnerns utgående avtal där de kan gå in i ett utgånget tillstånd om Microsoft-säljaren inte agerar på dem på 14 dagar.|
-|Microsofts säljarinformation|Visas så fort ett avtal skapas.|Microsofts säljarinformation delas endast med partner om säljaren uttryckligen godkänner inbjudan till säljpartner.|
+|Användarroller|PSC har administratörs-, avtalshanterare- och säljarroller.|Partnercenter har endast [administratörsrollen](permissions-overview.md#manage-referrals) referens som ger både läs- och skrivbehörighet för alla avtal.|
+|Bjuda in Microsoft i ett säljavtal|Initieras av Microsoft-säljare och det finns ingen uttrycklig fråga från partnern.|Partnern måste skicka en [explicit begäran om](manage-co-sell-opportunities.md#add-solutions) en Microsoft-säljhjälp krävs för ett avtal. Microsoft Seller har ett alternativ för att avvisa begäran.|
+|Upphörande|Det finns inget begrepp om att ett avtal upphör att gälla.|Partnerns inkommande avtal upphör att gälla om 14 dagar om de inte godkänns av partnern. Samma sak gäller för partnerns utgående avtal där de kan förfalla om Microsoft-säljaren inte agerar på dem på 14 dagar.|
+|Microsofts säljarinformation|Synligt så fort ett avtal skapas.|Microsofts säljarinformation delas endast med partner om säljaren uttryckligen godkänner inbjudan till sälj av partner.|
 |[Privat pipeline](manage-co-sell-opportunities.md#types-of-co-sell-opportunities)|Inte tillgängligt.|Partner kan dela sin pipeline utan att ge insyn till Microsoft-säljare.|
 |Lösningar|Lösningar som endast tillhör en prislista kan läggas till i ett avtal.|Partner kan lägga [till](manage-co-sell-opportunities.md#add-solutions) lösningar som tillhör följande listor. a) Sina egna lösningar b) Lösningar från Microsofts förstapartskatalog (liknar rollen transaktionsavtal i PSC) och c) Säljavtalslösningar från andra tredjepartspartner (liknar ISV-avtalsrollen i PSC).|
 |Avtalstilldelning|Endast tilldelad säljare kan visa och agera på avtal.|Gruppmedlemmar kan läggas till i ett avtal för att ange vilka personer som arbetar med ett avtal, det finns ingen blockering av andra hänvisningsadministratörer från att visa eller agera på dessa avtal.|
@@ -225,9 +225,9 @@ I det här avsnittet jämförs (eller "kartor") valda skärmbilder som visas fö
 
 Du ser numrerade, gula eller röda cirklar på varje par av skärmbilder:
 
-- **Vad betyder gula cirklar?** Numrerade gula cirklar visas först på varje PSC-skärmbild. Du hittar sedan en tillhörande PartnerCenter-skärmbild under den med många av samma siffror.
+- **Vad betyder gula cirklar?** Numrerade gula cirklar visas först på varje PSC-skärmbild. Du hittar sedan en tillhörande Partnercenter-skärmbild under den med många av samma siffror.
 
-   Om du vill se hur varje fält eller attribut i PSC mappar till sin motsvarighet i Partnercenter, matchar du de numrerade cirklarna tillsammans i de två relaterade skärmbilderna. Matcha till exempel den numrerade, gula "1" i den första PSC-skärmbilden med numrerade, gula "1" i den andra, partnercenter-skärmbilden nedanför.
+   Om du vill se hur varje fält eller attribut i PSC mappar till sin motsvarighet i Partnercenter, matchar du de numrerade cirklarna tillsammans i de två relaterade skärmbilderna. Matcha till exempel den numrerade, gula "1"-skärmbilden i den första, PSC-skärmbilden med det numrerade, gula "1" i den andra, partnercenter-skärmbilden nedanför.
 
 - **Vad betyder en röd cirkel?** Om du ser en röd cirkel på en skärmbild innebär det att PSC-fältet inte är tillgängligt i Partnercenter.
 
@@ -238,18 +238,18 @@ Fältmappningar för PSC-till-Partner Center visas för följande områden:
 1. Vy över PSC-avtalsinformation som är mappad till partnercenter-avtalsinformationsvyn
 1. PSC-vyn Lägg till produkter mappad till Vyn Lägg till lösningar i Partnercenter
 1. PSC-användarhanteringsvy mappad till användarhanteringsvyn i Partnercenter
-1. Vy för PSC-användarrolltilldelning mappad till rolltilldelningsvyn i Partnercenter
-1. Vy för PSC-meddelanden som är mappad till meddelandevyn i Partnercenter
+1. Vy för PSC-användarrolltilldelning mappad till vyn För Partnercenter-rolltilldelning
+1. Vyn PSC-meddelanden mappad till meddelandevyn i Partnercenter
 
-### <a name="1---psc-home-page-mapped-to-the-partner-center-co-sell-opportunities-default-view"></a>1 – PSC-startsidan mappad till standardvyn för möjligheter till säljförsäljning i Partnercenter
+### <a name="1---psc-home-page-mapped-to-the-partner-center-co-sell-opportunities-default-view"></a>1 – PSC-startsidan mappas till standardvyn för möjligheter till säljförsäljning i Partnercenter
 
-Jämför matchande numrerade cirklar mellan den översta PSC-skärmbilden och Partnercenter-skärmbilden under den. Matchande siffror visar var du kan hitta den PSC-relaterade funktionen eller attributet i Partnercenter. Röda cirklar visar att det inte finns något matchande PartnerCenter-fält.  
+Jämför matchande numrerade cirklar mellan den översta PSC-skärmbilden och Partnercenter-skärmbilden under den. Matchande tal visar var du hittar den PSC-relaterade funktionen eller attributet i Partnercenter. Röda cirklar visar att det inte finns något matchande Partnercenter-fält.  
 
 :::image type="content" source="images/pscmigration/homepage.png" alt-text="Bild som visar fältmappningarna mellan startsidan för Partner Sales Connect och standardvyn för möjligheter till säljförsäljning i Partnercenter." lightbox="images/pscmigration/home-page-expanded.png":::
 
 ### <a name="2---psc-grid-view-mapped-to-the-partner-center-deal-view"></a>2 – PSC-rutnätsvy mappad till partnercenter-avtalsvyn
 
-Jämför matchande numrerade cirklar mellan den översta PSC-skärmbilden och Partnercenter-skärmbilden under den. Matchande siffror visar var du hittar den PSC-relaterade funktionen eller attributet i Partnercenter. Röda cirklar visar att det inte finns något matchande PartnerCenter-fält.  
+Jämför matchande numrerade cirklar mellan den översta PSC-skärmbilden och Partnercenter-skärmbilden under den. Matchande tal visar var du hittar den PSC-relaterade funktionen eller attributet i Partnercenter. Röda cirklar visar att det inte finns något matchande Partnercenter-fält.  
 
 > [!NOTE]
 > Andra överväganden visas under skärmbilderna.
@@ -258,26 +258,26 @@ Jämför matchande numrerade cirklar mellan den översta PSC-skärmbilden och Pa
 
 **Särskilda överväganden:**
 
-- Det finns ingen listvy i Partnercenter som i PSC.  Alla avtal visas baserat på det senaste mottagna eller skapade datumet med kundinformationen och typen av avtal. Det första avtalet i vyn är valt som standard. De flesta av de värden som visas i PSC-tabellformatet är tillgängliga i detaljvyn för avtalet i PC.
-- Avtalsrollen är inte ett obligatoriskt fält i PC. Den visas eller avbildas inte i något av arbetsflödena. Den härleds automatiskt på Microsofts säljarsida baserat på de lösningar som lagts till i avtalet.
-- Datumet för senaste ändring visas inte på sidan med hänvisningsinformation på datorn. Partner kan använda sorteringsfunktionen för att sortera avtal baserat på datum för senaste uppdatering.
+- Det finns ingen listvy i Partnercenter som för PSC.  Alla avtal visas baserat på det senaste mottagna eller skapade datumet med kundinformationen och typen av avtal. Det första avtalet i vyn är valt som standard. De flesta av de värden som visas i PSC-tabellformatet är tillgängliga i detaljvyn för avtalet i Partnercenter.
+- Avtalsrollen är inte ett obligatoriskt fält i Partnercenter. Den visas eller avbildas inte i något av arbetsflödena. Den härleds automatiskt på Microsofts säljarsida baserat på de lösningar som lagts till i avtalet.
+- Datumet för senaste ändring visas inte på sidan med hänvisningsinformation i Partnercenter. Partner kan använda sorteringsfunktionen för att sortera avtal baserat på datum för senaste uppdatering.
 
 ### <a name="3---psc-deal-details-view-mapped-to-partner-center"></a>3 – Informationsvy för PSC-avtal mappad till Partnercenter
 
-Jämför den matchande, numrerade cirklarna längst upp (PSC)-skärmbilden med partnercenter-skärmbilden nedanför. Matchande siffror visar var du hittar den PSC-relaterade funktionen eller attributet i Partnercenter. Röda cirklar visar att det inte finns något matchande fält eller område i Partnercenter.
+Jämför den matchande, numrerade cirklarna längst upp (PSC)-skärmbilden med Partnercenter-skärmbilden nedanför. Matchande tal visar var du hittar den PSC-relaterade funktionen eller attributet i Partnercenter. Röda cirklar visar att det inte finns något matchande fält eller område i Partnercenter.
 
 > [!NOTE]
 > Andra överväganden visas under skärmbilderna.
 
-:::image type="content" source="images/pscmigration/dealdetails.png" alt-text="Bild som visar fältmappningarna mellan vyn Med avtalsinformation för Partner Sales Connect (PSC) och informationsvyn för Partnercenter-avtal." lightbox="images/pscmigration/deal-details-expanded.png":::
+:::image type="content" source="images/pscmigration/dealdetails.png" alt-text="Bild som visar fältmappningarna mellan vyn Partner Sales Connect-avtalsinformation (PSC) och vyn Med partnercenter-avtalsinformation." lightbox="images/pscmigration/deal-details-expanded.png":::
 
 **Särskilda överväganden:**
 
 - Partner kan redigera ett avtal genom att välja redigeringsknappen i detaljvyn för partneravtal (6). När redigeringsknappen har valts blir alla fält redigerbara. Sedan kan du välja att antingen spara eller avbryta de ändringar som gjorts i avtalet.
 - Det finns inget alternativ för att stänga avtalet som en dubblett i Partnercenter.
-- Kundresultat är inte tillgängligt i Partnercenter. All information som rör kundinteraktioner kan uppdateras i avsnittet Anteckningar i PC.
+- Kundresultat är inte tillgängligt i Partnercenter. All information som rör kundinteraktioner kan uppdateras i avsnittet Anteckningar i Partnercenter.
 - Beräknat lösningsslutdatum är endast tillgängligt för OEM IOT-avtal i Partnercenter. Den här informationen visas inte för andra avtalstyper.
-- Licensieringsprogram krävs inte i PC. Den här informationen härförs automatiskt baserat på de lösningar som valts i avtalet.
+- Licensieringsprogram krävs inte i Partnercenter. Den här informationen härförs automatiskt baserat på de lösningar som valts i avtalet.
 
 >[!Note]
 >Ett avtal som markerats som won eller lost (förlorat) kan inte redigeras efteråt. Var försiktig när du flyttar ett avtal till något av dessa terminaler.
@@ -286,19 +286,19 @@ Jämför den matchande, numrerade cirklarna längst upp (PSC)-skärmbilden med p
 
 Jämför den matchande, numrerade cirklarna längst upp (PSC)-skärmbilden med Partnercenter-skärmbilden nedanför. Matchande tal visar var du hittar den PSC-relaterade funktionen eller attributet i Partnercenter. Röda cirklar visar att det inte finns något matchande fält eller område i Partnercenter.
   
-:::image type="content" source="images/pscmigration/products.png" alt-text="Bild som visar fältmappningarna mellan vyn Lägg till produkter i Partner Sales Connect (PSC) och vyn Lägg till lösningar i Partnercenter." lightbox="images/pscmigration/products-expanded.png":::
+:::image type="content" source="images/pscmigration/products.png" alt-text="Bild som visar fältmappningarna mellan vyn Lägg till produkter i Partner sales Connect (PSC) och vyn Lägg till lösningar i Partnercenter." lightbox="images/pscmigration/products-expanded.png":::
 
 ### <a name="5---user-management-in-psc-versus-partner-center"></a>5 – Användarhantering i PSC jämfört med Partnercenter
 
 Jämför den matchande, numrerade cirklarna längst upp (PSC)-skärmbilden med Partnercenter-skärmbilden nedanför. Matchande tal visar var du hittar den PSC-relaterade funktionen eller attributet i Partnercenter. Röda cirklar visar att det inte finns något matchande fält eller område i Partnercenter.  
 
- :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Bild som visar fältmappningarna mellan användarhanteringsplatsen för Partner Sales Connect (PSC) och användarhanteringssidan i området Kontoinställningar i Partnercenter."  lightbox="images/pscmigration/user-management-expanded.png":::
+ :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Bild som visar fältmappningarna mellan användarhanteringsplatsen för Partner Sales Connect (PSC) och vyn Användarhantering i Partnercenter i området Kontoinställningar."  lightbox="images/pscmigration/user-management-expanded.png":::
 
 ### <a name="6---user-role-assignment-in-psc-versus-partner-center"></a>6 – Tilldelning av användarroller i PSC jämfört med Partnercenter
 
 Jämför den matchande, numrerade cirklarna längst upp (PSC)-skärmbilden med Partnercenter-skärmbilden nedanför. Matchande tal visar var du hittar den PSC-relaterade funktionen eller attributet i Partnercenter. Röda cirklar visar att det inte finns något matchande fält eller område i Partnercenter.  
 
-:::image type="content" source="images/pscmigration/roles.png" alt-text="Bild som visar fältmappningarna mellan rolltilldelningsvyn Partner sales Connect (PSC) och rolltilldelningsvyn i Partnercenter." lightbox="images/pscmigration/roles-expanded.png":::
+:::image type="content" source="images/pscmigration/roles.png" alt-text="Bild som visar fältmappningarna mellan rolltilldelningsvyn Partner Sales Connect (PSC) och rolltilldelningsvyn i Partnercenter." lightbox="images/pscmigration/roles-expanded.png":::
 
 **Särskilda överväganden:**
 
@@ -307,7 +307,7 @@ Jämför den matchande, numrerade cirklarna längst upp (PSC)-skärmbilden med P
 
 ### <a name="7---notifications-in-psc-versus-partner-center"></a>7 – Meddelanden i PSC jämfört med Partnercenter
 
-Jämför den matchande, numrerade cirklarna längst upp (PSC)-skärmbilden med partnercenter-skärmbilden nedanför. Matchande siffror visar var du hittar den PSC-relaterade funktionen eller attributet i Partnercenter. Röda cirklar visar att det inte finns något matchande fält eller område i Partnercenter.  
+Jämför den matchande, numrerade cirklarna längst upp (PSC)-skärmbilden med Partnercenter-skärmbilden nedanför. Matchande tal visar var du hittar den PSC-relaterade funktionen eller attributet i Partnercenter. Röda cirklar visar att det inte finns något matchande fält eller område i Partnercenter.  
 
 :::image type="content" source="images/pscmigration/notifications.png" alt-text="Bild som visar mappningen mellan PSC-meddelanden (Partner Sales Connect) och meddelandevyn i Partnercenter."  lightbox="images/pscmigration/notifications-expanded.png":::
 
@@ -317,7 +317,7 @@ Följande avsnitt besvarar vanliga frågor om migreringen.
 
 ### <a name="1---what-should-i-do-if-i-dont-have-access-to-partner-center"></a>1 – Vad ska jag göra om jag inte har åtkomst till Partnercenter?
 
-Du kan kontakta dina administratörer på sidan "Ingen åtkomst" för att få rollerna tilldelade. Du behöver [referensadministratörsrollen](permissions-overview.md#manage-referrals) för läs- och skrivbehörighet under referensavsnittet. Om du bara hanterar företagsprofiler behöver du administratörsrollen för företagsprofilen i Partnercenter.
+Du kan kontakta dina administratörer på sidan "Ingen åtkomst" för att få rollerna tilldelade. Du behöver [referensadministratörsrollen](permissions-overview.md#manage-referrals) för läs- och skrivbehörighet under referensavsnittet. Om du bara hanterar företagsprofiler behöver du rollen som företagsprofiladministratör i Partnercenter.
 
 :::image type="content" source="images/pscmigration/noaccess.png" alt-text="Bild som visar ingen åtkomstupplevelse i Partnercenter.":::
 
@@ -327,9 +327,9 @@ Du kan kontakta dina administratörer på sidan "Ingen åtkomst" för att få ro
 
 ### <a name="3---the-new-deal-button-is-greyed-out-for-our-account-what-should-i-do-to-start-creating-deals"></a>3 – Knappen +nytt avtal är nedtonad för vårt konto. Vad ska jag göra för att börja skapa avtal?
 
-Detta inträffar bara om det inte finns några lösningar för säljförsäljning som är kopplade till DEN MPN-organisation som du använder i Partnercenter. Kontakta PDM för att åtgärda MPN-ID:t för dina lösningar eller skapa en supportbiljett som nämner problemet med knappen Nytt avtal nedtonat efter PSC-migreringen.
+Detta inträffar bara om det inte finns några lösningar för sälj säljklara lösningar kopplade till DEN MPN-organisation som du använder i Partnercenter. Kontakta PDM för att få MPN-ID:t för dina lösningar korrigerade eller skapa en supportbiljett som nämner problemet "Knappen Nytt avtal är nedtonat efter PSC-migreringen".
 
-### <a name="4---can-i-assign-deals-to-a-specific-person-from-our-organization-like-psc"></a>4 – Kan jag tilldela avtal till en viss person från vår organisation, till exempel PSC?
+### <a name="4---can-i-assign-deals-to-a-specific-person-from-our-organization-like-psc"></a>4 – Kan jag tilldela avtal till en viss person från vår organisation som PSC?
 
 Du kan tilldela teammedlemmar till ett visst avtal. Det blockerar inte andra hänvisningsadministratörer från att visa eller agera på dessa avtal.
 
@@ -339,19 +339,19 @@ Du kan använda funktionen Favoriter, som är en flik på användarnivå. Du kan
 
 ### <a name="6---is-there-a-read-only-view-for-the-deals"></a>6 – Finns det en skrivskyddade vy för avtal?
 
-Nej, det finns ingen skrivskyddade vy över avtal i hänvisningsavsnittet. Alla referensadministratörer har fullständig läs- och skrivåtkomst till alla avtal.
+Nej, det finns ingen skrivskyddade vy över avtal i referensavsnittet. Alla hänvisningsadministratörer har fullständig läs- och skrivåtkomst till alla avtal.
 
-### <a name="7---how-can-i-register-a-deal-after-marking-it-as-won"></a>7 – Hur kan jag registrera ett avtal när jag har markerar det som won?.
+### <a name="7---how-can-i-register-a-deal-after-marking-it-as-won"></a>7 – Hur kan jag registrera ett avtal när jag har märkt det som vunnit?
 
-Om avtalet uppfyller kriterierna nedan visas ett popup-fönster för att starta [avtalsregistreringen.](./register-deals.md)
+Om avtalet uppfyller villkoren nedan visas ett popup-fönster för att starta [avtalsregistreringen.](./register-deals.md)
 
-- Det finns en incitamentberättigad lösning kopplad till avtalet.
+- Det finns en berättigad incitamentslösning kopplad till avtalet.
 - Microsofts säljare bjuds in att delta i avtalet, eller så har de bjudit in dig till avtalet.
-- Microsoft-kortet har statusen Accepterad eller Vann i Partnercenter.
+- Microsoft-kortet är i tillståndet Godkänt eller Godkänt i Partnercenter.
 
 ### <a name="8---i-get-an-error-message-when-i-select-the-new-deal-registration-button-in-the-deal-registration-section-how-can-i-register-my-deals"></a>8 – Jag får ett felmeddelande när jag väljer knappen "+Ny avtalsregistrering" i avsnittet Avtalsregistrering. Hur registrerar jag mina avtal?
 
-Knappen **+Ny** avtalsregistrering ska endast användas av partner som är registrerade i ISV Connect-programmet för registrering av ett avtal utan motsvarande möjligheter till säljförsäljning i Partnercenter. För registrering av avtal med en möjlighet till säljförsäljning visas ett popup-fönster när avtalet markeras som won (vunnit) och om det uppfyller villkoren för avtalsregistrering.
+Knappen **+Ny avtalsregistrering** ska endast användas av partner som är registrerade i ISV-anslutningsprogrammet för att registrera ett avtal utan motsvarande möjligheter till säljförsäljning i Partnercenter. För registrering av avtal med en möjlighet till säljförsäljning visas ett popup-fönster när avtalet markeras som won (vunnit) och om det uppfyller villkoren för avtalsregistrering.
 
 ### <a name="9---is-adding-a-customer-organization-mandatory"></a>9 – Är det obligatoriskt att lägga till en kundorganisation?
 
@@ -363,31 +363,31 @@ Beror på [vilken typ av avtal](./manage-co-sell-opportunities.md#types-of-co-se
 
 ### <a name="11---how-many-solutions-can-i-add-to-a-deal"></a>11 – Hur många lösningar kan jag lägga till i ett avtal?
 
-Du kan lägga till upp till 50 lösningar (detsamma som "produkter" i PSC) till ett avtal. Till skillnad från PSC kan du blanda lösningar från dina egna berättigade lösningar för säljförsäljning, SKU:er från Microsofts första part och andra lösningar som är berättigade till säljförsäljning från tredje part. Det finns ingen avtalsroll som ska väljas eller vara tillgänglig i Partnercenter. För Microsoft-SKU:er kan du välja att lägga till kvantitet och pris för varje SKU som läggs till i avtalet.
+Du kan lägga till upp till 50 lösningar (detsamma som "produkter" i PSC) i ett avtal. Till skillnad från PSC kan du blanda lösningar från dina egna berättigade lösningar för säljförsäljning, SKU:er från Microsofts första part och andra lösningar som är berättigade till säljförsäljning från tredje part. Det finns ingen avtalsroll som ska väljas eller vara tillgänglig i Partnercenter. För Microsoft-SKU:er kan du välja att lägga till kvantitet och pris för varje SKU som läggs till i avtalet.
 
-### <a name="12---when-will-i-get-to-know-the-microsoft-seller-details-after-creating-a-deal"></a>12 – När får jag information om Microsofts säljare när jag har skapat ett avtal?
+### <a name="12---when-will-i-get-to-know-the-microsoft-seller-details-after-creating-a-deal"></a>12 – När får jag lära känna Microsofts säljarinformation när jag har skapat ett avtal?
 
 Microsoft-säljare tilldelas först efter att ha matchat det exakta hjälpkrav som angavs när avtalet med relevant säljare på Microsoft-sidan har förhandlats. Även efter tilldelningen har Microsoft-säljare möjlighet att antingen godkänna eller avvisa inbjudan till säljinbjudan. Endast om en säljinbjudan godkänns av en säljare uppdateras avtalet med Microsofts kontaktuppgifter för försäljning. SLA för Microsoft-säljare att agera på avtalet är 14 dagar. Det är samma serviceavtal som partner måste agera på avtalet innan det förfaller.
 
 ### <a name="13---where-can-i-find-the-opportunity-id"></a>13 – Var hittar jag affärsmöjlighets-ID:t?
 
-Affärsmöjlighets-ID i PSC är samma som avtals-ID:t på datorn. Du hittar avtals-ID:t bredvid avtalsnamnet när du öppnar ett avtal.
+Affärsmöjlighets-ID i PSC är samma som avtals-ID:t i Partnercenter. Du hittar avtals-ID:t bredvid avtalsnamnet när du öppnar ett avtal.
 
-### <a name="14---how-can-my-pdm-get-access-to-pc"></a>14 – Hur kan min PDM få åtkomst till datorn?
+### <a name="14---how-can-my-pdm-get-access-to-partner-center"></a>14 – Hur kan min PDM få åtkomst till Partnercenter?
 
-Partnercenter kan inte nås av dina PDM direkt till skillnad från PSC. Det finns flera alternativ för att aktivera den funktionen, vilket anges nedan.
+Partnercenter kan inte nås av dina PDU:er direkt till skillnad från PSC. Det finns flera alternativ för att aktivera den funktionen, som anges nedan.
 
-- OCP Insights – Om PDM bara visar de avtal och förlopp som är relaterade till dem kan de använda OCP Insights-portalen för att få din organisationsvy. Det här är ett internt verktyg som endast är tillgängligt för PDM. Observera att OCP-insikter inte är tillgängliga för företagets användare.
+- OCP Insights – Om PDM bara visar de avtal och framsteg som är relaterade till dem kan de använda OCP Insights-portalen (One Commercial Partner) för att få din organisationsvy. Det här är ett internt verktyg som endast är tillgängligt för PDM. OCP-insikter är inte tillgängliga för företagets användare.
 - Gästanvändare i Partnercenter – Du kan lägga till ditt PDM-konto som gästanvändare i Partnercenter och tilldela referensadministratörsrollen till dem så att de kan visa och agera @microsoft.com på hänvisningar.
-- Skapa en [ny](./create-user-accounts-and-set-permissions.md#add-a-new-user) användare i din klientorganisation – Du kan skapa en ny användare i din egen klientorganisation och dela informationen med PDM så att de kan visa och agera på hänvisningar som liknar andra hänvisningsanvändare i ditt konto.
+- Skapa en [ny användare](./create-user-accounts-and-set-permissions.md#add-a-new-user) i din klientorganisation – Du kan skapa en ny användare i din egen klientorganisation och dela informationen med PDM så att de kan visa och agera på hänvisningar som liknar andra hänvisningsanvändare i ditt konto.
 
 ## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-a-valid-mpn"></a>Hitta rätt MPN-ID om ditt konto i PSC inte är associerat med ett giltigt MPN
 
-Om du är här eftersom du såg en banderoll i PSC som nämner "problem med ogiltig MPN-ID-koppling för PSC" är du på rätt plats. Ditt konto kan ha länkats till ett ogiltigt MPN-ID av följande skäl
+Om du är här eftersom du såg en banderoll i PSC som nämner "PROBLEM med ogiltig MPN-ID-association för PSC" är du på rätt plats. Ditt konto kan ha länkats till ett ogiltigt MPN-ID av följande skäl
 
 - Ditt företag har inget Partnercenter-konto.
-- PDM gjorde ett misstag när du skulle ange MPN-ID:t för ditt konto i de interna system som länkar ditt PSC-konto till ditt Partnercenter-konto (MPNID).
-- Företaget slutförde inte migreringen från Partner Membership Center (PMC) till PC.
+- PDM gjorde ett misstag när du skulle ange MPN-ID:t för ditt konto i de interna system som länkar psc-kontot till ditt Partnercenter-konto (MPN-ID).
+- Ditt företag slutförde inte migreringen från Partner Membership Center (PMC) till Partnercenter.
 
 Hitta först rätt MPN-ID genom att följa stegen nedan
 
@@ -415,7 +415,7 @@ Om du inte redan har läst hjälpavsnitten om säljförsäljning kan följande r
 |Lägga till dina teammedlemmar i ett avtalsteam|[Lägga till dina anställda](./manage-co-sell-opportunities.md#add-team-members)|
 |Svara på ett samförsäljningsavtal|[Hantera säljavtal](./manage-co-sell-opportunities.md#responding-to-a-co-sell-opportunity)
 |Registrera avtal som du har vunnit i Partnercenter |[Registrera ett nytt avtal](./register-deals.md)
-|Få information om hänvisningar och ta reda på hur det går för dina hänvisningar |[Hänvisningsinsikter](./referral-insights.md)
+|Få referensinsikter och ta reda på hur dina hänvisningar fungerar |[Hänvisningsinsikter](./referral-insights.md)
 |Skapa och hantera företagsprofil|[Hantera företagsprofil](./create-a-marketing-profile.md)
 |Hantera leads för din företagsprofil |[Hantera leads](./manage-leads.md)|
 
@@ -424,5 +424,5 @@ Om du inte redan har läst hjälpavsnitten om säljförsäljning kan följande r
 
 - [Arbetsbok för Partnerförsäljning Anslut till Partnercenter](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx) – arbetsbok för att anpassa partnerns försäljningsprocesser och roller till nya försäljningsprocesser via Partnercenter jämfört med Partner Sales Connect.
 - [Guide för sälj- och säljpartnercenter](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) – vägledning för att identifiera en driftsmodell via Partnercenter för att hantera leads eller möjligheter till säljförsäljning och registrera avtal.
-- [Information om hänvisningshantering](https://partner.microsoft.com/resources/detail/referral-management-in-partner-center-pptx) – visualiserade stegvisa instruktioner för att hantera leads och möjligheter till säljförsäljning via Partnercenter.
+- [Hänvisningshantering –](https://partner.microsoft.com/resources/detail/referral-management-in-partner-center-pptx) visualiserade stegvisa instruktioner för att hantera leads och möjligheter till säljförsäljning via Partnercenter.
 - [Publicera och hantera på den kommersiella](https://partner.microsoft.com/resources/detail/publishing-and-managing-co-sell-offers-in-commercial-marketplace-pptx) marknadsplatsen – visualiserade stegvisa instruktioner för att skapa, hantera och publicera erbjudanden via Partnercenter på den kommersiella marknadsplatsen.

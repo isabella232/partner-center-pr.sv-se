@@ -1,5 +1,5 @@
 ---
-title: Ta bort återförsäljarrelation med en kund
+title: Ta bort återförsäljarrelationen med en kund
 ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 735a8b2c2436df61216ceb476be4a55b18785325
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 83259f2f895be9ef34c55db5613ccfe6891a4424
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855700"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551477"
 ---
 # <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>Så här tar du bort en återförsäljarrelation med en kund i Partnercenter
 
@@ -33,7 +33,7 @@ Borttagning av en relation har följande konsekvenser:
 
 ## <a name="how-to-remove-a-relationship"></a>Ta bort en relation
 
-Om du vill ta bort relationen måste du avbryta Azure RI-reservationer, avbryta programvaruinköp och inaktivera eventuella aktiva prenumerationer först.
+Om du vill ta bort relationen måste du avbryta reservationer för reserverad Azure-instans (RI), avbryta programvaruinköp och inaktivera eventuella återstående aktiva prenumerationer först.
 
 1. **Pausa alla aktiva prenumerationer.**
 

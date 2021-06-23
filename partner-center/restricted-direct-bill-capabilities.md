@@ -4,40 +4,40 @@ ms.topic: article
 ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig mer om partnerkrav för CSP-direktfakturering och vad du kan göra för att undvika att funktioner begränsas. Ta reda på om dina funktioner har begränsats.
+description: Lär dig Molnlösningsleverantör krav för direktfakturering av partner och vad du kan göra för att undvika att funktioner begränsas. Ta reda på om dina funktioner har begränsats.
 author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b3b1f3e1593f7e35bd3b9ed6c56ea28683bff95a
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: e5bc33101809a805ba591be5a9b51d8dfff2397b
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855496"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551426"
 ---
-# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Begränsade funktioner för direktfakturering och de krav som krävs för CSP-direktfaktureringspartner
+# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Begränsade funktioner för direktfakturering och de krav som krävs för CSP-partner med direktfakturering
 
 **Lämpliga roller:** Global administratör
 
 ## <a name="overview"></a>Översikt
 
-Partner med direktfakturering måste uppfylla [de nya kraven](direct-partner-new-requirements.md) för att stanna kvar i CSP-partnerprogrammet för direktfakturering. Annars kommer deras åtkomst till direktfaktureringsfunktionerna så småningom att begränsas och kan längre utföra specifika uppgifter, till exempel att göra nya inköp för sina kunder.
+Direktfaktureringspartner måste uppfylla [de nya](direct-partner-new-requirements.md) kraven för att finnas kvar Molnlösningsleverantör CSP-partnerprogrammet (Direct Bill). Annars kommer deras åtkomst till direktfaktureringsfunktionerna så småningom att begränsas och kan längre utföra specifika uppgifter, till exempel att göra nya inköp för sina kunder.
 
 > [!Note]
-> Direktfaktureringspartner som inte uppfyller de nya kraven för CSP-partnerprogrammet för direktfakturering informeras av Microsoft när deras direktfaktureringsfunktioner kommer att begränsas. Detta gäller för alla direktfaktureringspartner, oavsett om de har valt en övergång från [direktfaktureringspartner till indirekta återförsäljare](transition-direct-to-indirect.md) eller inte.  
+> Direktfaktureringspartner som inte uppfyller de nya kraven för CSP-partnerprogrammet för direktfakturering informeras av Microsoft när deras funktioner för direktfakturering kommer att begränsas. Detta gäller för alla direktfaktureringspartner, oavsett om de har valt en övergång från [direktfaktureringspartner till indirekta återförsäljare](transition-direct-to-indirect.md) eller inte.  
 
 ## <a name="how-to-tell-if-your-direct-bill-capabilities-has-been-restricted"></a>Så här ser du om dina direktfaktureringsfunktioner har begränsats
 
-Följ dessa steg för att bekräfta om åtkomsten från partnerklienten för direktfakturering till direkta faktureringsfunktioner har begränsats.
+Följ dessa steg för att bekräfta om åtkomsten från partnerklientorganisationen för direktfakturering till direktfakturering har begränsats.
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard).
 
-2. Gå till **Kontoinställningar**  ->  **Juridisk profil**.
+2. Gå till **Kontoinställningar**  >  **Juridisk profil**.
 
 3. Under **Programinfo** letar du upp **Leverantör av Microsoft-molnlösningar status**.
 
-4. Om programstatusen är **värdebegränsad** innebär det att direktfaktureringspartnerns åtkomst till direktfaktureringsfunktioner har begränsats.
+4. Om programstatusen har ett **värde begränsat** innebär det att direktfaktureringspartnerns åtkomst till direktfaktureringsfunktioner har begränsats.
 
 ## <a name="affected-direct-bill-capabilities"></a>Funktioner för direktfakturering som påverkas
 
@@ -53,7 +53,7 @@ Om dina direktfaktureringsfunktioner har begränsats kan du inte längre göra n
 
 Du kan inte heller använda [erbjudandet om delade Azure-partnertjänster](shared-services.md) under CSP-programmet för att köpa nya Azure-prenumerationer för eget bruk.
 
-Befintliga prenumerationer på direktfakturering påverkas inte. De förblir giltiga och förnyas automatiskt. Du fortsätter att debiteras direkt av Microsoft tills de avbryts. Du kan fortfarande hantera befintliga prenumerationer på följande sätt:
+Befintliga prenumerationer på direktfakturering påverkas inte. De förblir giltiga och är automatiskt nya. Du fortsätter att debiteras direkt av Microsoft tills de avbryts. Du kan fortfarande hantera befintliga prenumerationer på följande sätt:
 
 - Pausa befintliga prenumerationer
 

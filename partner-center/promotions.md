@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 431ac8a4dd96dc7ed768efabd62dbd4a4c2a6d90
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 5cb494f3e32201c20184d8de551e15cc8fc28d9b
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854986"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551337"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Använda kampanjer för att locka nya kunder och överföra besparingarna till dem
 
@@ -35,7 +35,7 @@ Ta en stund och granska dessa viktiga fakta om kampanjer:
 
 - Om en prenumeration är berättigad till flera kampanjer tillämpas befordran med högst procentandel av automatiskt.
 
-- Annulleringar av prenumerationer med kampanjpriser följer samma process och princip som prenumerationer som prissätts regelbundet.
+- Annulleringar av prenumerationer med kampanjpriser följer samma process och princip som prenumerationer med regelbundna priser.
 
 ## <a name="see-available-promotions"></a>Se tillgängliga kampanjer
 
@@ -52,9 +52,9 @@ Du kan se vilka kampanjer som du är berättigad till, om det finns någon på s
 
 3. På sidan **Ny prenumeration** väljer du den prenumeration som befordran gäller för.
 
-4. Ange antalet licenser som kunden behöver. 
+4. Ange det antal licenser som kunden behöver. 
 
-5. Granska ordern. Du ser de kampanjpriser som kommer att tillämpas i **kolumnen** Rabatt.  
+5. Granska ordern. Du ser kampanjpriset som kommer att tillämpas i **kolumnen** Rabatt.  
 
 6. Välj **Skicka för** att köpa. Kunden ser kampanjpriset på nästa faktura.  
 

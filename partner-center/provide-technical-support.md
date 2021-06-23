@@ -9,19 +9,19 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f25dda14ff056918ef29ab5cfeaa72894b4d4fea
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 5ea1fcd80f6ada97e5c0b840f11e0eb7668ee265
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855003"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551239"
 ---
-# <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Tillhandahålla teknisk support för att hjälpa kunder att konfigurera, hantera och använda sina prenumerationer
+# <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Ge teknisk support för att hjälpa kunder att konfigurera, hantera och använda sina prenumerationer
 
 
-**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Supportagent | Administratörsagent
+**Lämpliga roller:** Globala | Administratörsbehörighet för | Supportagent | Administratörsagent
 
-Som Molnlösningsleverantör partner har du delegerade administratörsbehörigheter som ger dig åtkomst till dina kunders miljöer. Dessa behörigheter ger dig möjlighet att direkt stödja, konfigurera och hantera dina kunders prenumerationer.
+Som CSP Molnlösningsleverantör partner (CSP) har du delegerade administratörsbehörigheter som ger dig åtkomst till dina kunders miljöer. Dessa behörigheter ger dig möjlighet att direkt stödja, konfigurera och hantera dina kunders prenumerationer.
 
 I Partnercenter kan du:
 
@@ -30,7 +30,7 @@ I Partnercenter kan du:
 
 ## <a name="perform-admin-tasks-for-your-customers"></a>Utföra administrativa uppgifter åt dina kunder
 
-1. I **menyn i Partnercenter** väljer du **Kunder.** Välj din kund i listan.
+1. I **menyn i Partnercenter** väljer du **Kunder.** Välj kund i listan.
 2. I kundmenyn väljer du **Tjänsthantering.**
 3. I avsnittet **Administrera tjänster** väljer du den tjänst som du behöver arbeta i för att öppna hanteringsportalen för tjänsten.
 4. Om du upptäcker problem med ett kundkonto, t.ex. att tjänster ligger nere eller har försämrats, börjar du med att kontrollera tjänstens hälsa. Se [Kontrollera tjänstens hälsa.](check-service-health.md)
@@ -38,7 +38,7 @@ I Partnercenter kan du:
 
 ## <a name="microsoft-partner-support-guidance"></a>Supportvägledning för Microsoft-partner
 
-Partner som gör i CSP-modellen är den betrodda rådgivaren till sina kunder och äger relationen från end-to-end, inklusive support när kunden har en fråga eller ett problem. Via supportens kontaktpunkter kan partner lära sig mer om kunden och deras verksamhet för att identifiera nya tjänster och lösningar som driver värde.
+Partner som gör en överträdelse i CSP-modellen är den betrodda rådgivaren till sina kunder och äger relationen från dag till slut, inklusive support när kunden har en fråga eller ett problem. Via supportens kontaktpunkter kan partner lära sig mer om kunden och deras verksamhet för att identifiera nya tjänster och lösningar som driver värde.
 
 För att uppfylla supportkravet kan partnern sälja support från en annan enhet, lägga ut hela eller en del av sin supportstruktur och/eller konfigurera en struktur för att tillhandahålla support direkt.  Partnern kan debitera för hela eller en del av den support som tillhandahålls till kunder. Partnern bör förklara för sina kunder vilken support de kommer att tillhandahålla, tjänsttimmar och kontaktmetod samt priser (om de debiteras för support). 
 

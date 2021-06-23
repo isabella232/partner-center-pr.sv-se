@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72e5c797f292329e779924177b0500e80754e3df
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 2b88e3ceee001a79b80a38408e6bb6b1f1940a07
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855683"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551681"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Förnya dina MPN-erbjudanden för kompetenser och avancerade specialiseringar under förnyelseperioden
 
@@ -22,7 +22,7 @@ ms.locfileid: "109855683"
 
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>Svara på COVID-19: Microsoft Partner Network uppdatering
 
-Microsoft erbjuder kompetenstillägg (förutom Cloud Business Applications-kompetensen) och avancerat specialiseringstillägg för partner med årsdagar (AD) mellan 1 januari 2021 och 30 juni 2021. Mer information finns i [partnerblogginlägget](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
+Microsoft erbjuder kompetenstillägg (förutom Cloud Business Applications-kompetensen) och avancerat specialiseringstillägg för partner med årsdagar mellan 1 januari 2021 och 30 juni 2021. Mer information finns i [partnerblogginlägget](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
 
 ## <a name="renewal-reminders"></a>Påminnelser om förnyelse
 
@@ -40,7 +40,7 @@ När du förnyar under förnyelseperioden blir det nya årsdagen 365 dagar efter
 
 4. Om du vill dra nytta av det här erbjudandet går du **till Medlemskapserbjudanden.** Du kan behöva betala kompetensavgiften för att slutföra processen, beroende på din kompetensinköps- eller förnyelsestatus.
 
-Om du vill dra nytta av tillägget måste du ha flyttat ditt medlemskap från Partner Membership Center (PMC) till Partnercenter för att förnya din kompetens och betala avgiften. Om du inte har flyttat ditt medlemskap kan du [lära dig mer](prepare-pmc-pc-migration.md)och göra övergången    [i](https://partners.microsoft.com/partnerprogram/Welcome.aspx)   dag.  
+Om du vill dra nytta av tillägget måste du ha flyttat ditt medlemskap från Partner Membership Center (PMC) till Partnercenter för att förnya din kompetens och betala avgiften. Om du inte har flyttat ditt medlemskap kan du [lära dig mer](partner-membership-center-retirement-faq.md)och göra övergången    [i](https://partners.microsoft.com/partnerprogram/Welcome.aspx)   dag.  
 
 ## <a name="next-steps"></a>Nästa steg
 

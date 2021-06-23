@@ -4,26 +4,26 @@ ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig mer om den support för kundfakturering som krävs från CSP-programpartner. Det här stödet omfattar att äga kundfaktureringsrelationen och besvara faktureringsfrågor.
+description: Lär dig mer om den support för kundfakturering som krävs Molnlösningsleverantör CSP-programpartner. Det här stödet omfattar att äga kundfaktureringsrelationen och besvara faktureringsfrågor.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dd8a9b09d4dbd45c0d76bce1674babfd5e17cdbe
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: ab9ac3c7ba8e718c3b154e81649965457a4cf7ff
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854136"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551338"
 ---
-# <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Tillhandahålla faktureringssupport för dina kunder och få hjälp med att besvara frågor om fakturering
+# <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Tillhandahålla faktureringssupport för dina kunder och hjälp med att besvara deras faktureringsfrågor
 
 
-**Lämpliga roller:** Globala | Administratörsbehörighet för | Supportagent för | Faktureringsadministratörskonto | Försäljningsagent
+**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Supportagent | Faktureringsadministratörskonto | Försäljningsagent
 
 Du äger faktureringsrelationen med dina kunder och du ansvarar för att besvara de faktureringsrelaterade frågor som dina kunder kan ha.
 
-- Du är ansvarig för betalningar i tid till Microsoft.
+- Du ansvarar för betalningar i tid till Microsoft.
 
 - Vi rekommenderar att du upprättar en princip för tydliga samlingar med kunder som beskriver dina samlingar och när åtkomsten till kundens prenumerationer, tjänster eller programvara påverkas.
 
@@ -31,9 +31,9 @@ Du äger faktureringsrelationen med dina kunder och du ansvarar för att besvara
 
 ## <a name="microsoft-partner-support-guidance"></a>Supportvägledning för Microsoft-partner
 
-Partner som gör en överträdelse i CSP-modellen är den betrodda rådgivaren för sina kunder och äger relationen från dag till slut, inklusive support när kunden har en fråga eller ett problem. Via supportens kontaktpunkter kan partner lära sig mer om kunden och deras verksamhet för att identifiera nya tjänster och lösningar som driver värde.
+Partner som gör i Molnlösningsleverantör-modellen (CSP) är betrodda rådgivare till sina kunder och äger relationen från end-to-end, inklusive support när kunden har en fråga eller ett problem. Via supportens kontaktpunkter kan partner lära sig mer om kunden och deras verksamhet för att identifiera nya tjänster och lösningar som driver värde.
 
-För att uppfylla supportkravet kan partnern sälja support från en annan enhet. De kan outsourca hela eller en del av sin supportstruktur och/eller konfigurera en struktur för att tillhandahålla support direkt.  Partnern kan debitera för hela eller en del av den support som tillhandahålls till kunder. Partnern bör förklara för sina kunder vilken support de kommer att tillhandahålla, tjänsttimmar och kontaktmetod samt priser (om de debiteras för support). 
+För att uppfylla supportkravet kan partnern sälja support från en annan enhet, eventuellt lägga ut hela eller en del av sin supportstruktur och/eller konfigurera en struktur för att tillhandahålla support direkt.  Partnern kan debitera för hela eller en del av den support som tillhandahålls till kunder. Partnern bör förklara för sina kunder vilken support de kommer att erbjuda, tjänsttimmar och kontaktmetod samt priser (om de debiteras för support). 
 
 >[!Note]
 >Om du inte är en CSP och har frågor om kundfakturering kan du läsa den specifika portalen för lämpliga produkter eller tjänster.
@@ -44,8 +44,8 @@ Partner måste ta emot inkommande supportförfrågningar från kunder, diagnosti
 
 - **Support** för tekniska problem är tillgängligt via:
 
-  - Premier Support för partner (avgiftsbas)
-  - Avancerad support för partner (avgiftsbas)
+  - Premier Support för partner (PSfP) (avgiftsbas)
+  - Avancerad support för partner (ASfP) (avgiftsbas)
   - Signature Cloud Support (ingår med guld-/silverkompetens)
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>Tillhandahålla fakturering, prenumerationshantering och teknisk support 

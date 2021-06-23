@@ -9,29 +9,29 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 24eba2969552b0403de9828e86d4fc73abfec585
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: ab23e04afd3ffd5c287cc057aa51e872ab725f4d
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276271"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551188"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Köp Azure-planen för kunder & få åtkomst till de senaste Azure-tjänsterna till Betala enligt användning-priser
 
 **Lämpliga roller:** Globala | Administratörsbehörighet för | Försäljningsagent
 
-När du köper en Azure-plan för dina kunder under Microsoft-kundavtal får du tillgång till den fullständiga katalogen med de senaste Azure-tjänsterna till Betala enligt användning-priser. CSP-partner kommer nu att kunna komma åt alla Azure-tjänster när de blir allmänt tillgängliga. En partner kan ha flera Azure-prenumerationer under en Azure-plan. 
+När du köper en Azure-plan för dina kunder under Microsoft-kundavtal får du tillgång till den fullständiga katalogen med de senaste Azure-tjänsterna till Betala enligt användning-priser. Molnlösningsleverantör (CSP)-partner kan nu komma åt alla Azure-tjänster när de blir allmänt tillgängliga. En partner kan ha flera Azure-prenumerationer under en Azure-plan. 
 
 ## <a name="countryregion-availability"></a>Tillgänglighet för land/region
 
-Den nya handelsupplevelsen i CSP för Azure är schemalagd att vara tillgänglig i 139 länder. Se en fullständig lista över dessa [länder/regioner.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x) 
+Den nya handelsupplevelsen i CSP för Azure är schemalagd att vara tillgänglig i 139 länder. Se den fullständiga listan över dessa [länder/regioner.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x) 
 
 ## <a name="how-to-purchase-azure-plan"></a>Så här köper du en Azure-plan
 
 Hur du köper Azure-planen liknar att köpa andra prenumerationer. Den viktigaste skillnaden är att innan du faktiskt gör din beställning måste du bekräfta att kunden har signerat Microsoft-kundavtal.
 
 1. Välj **Segment kommersiell** och skriv **Microsoft Azure** 
-2. Under Azure-plan väljer du **Lägg till i kundvagn**
+2. Under Azure-plan väljer du Lägg **till i kundvagn**
 
 :::image type="content" source="images/azure/Azurepurchase1.png" alt-text="Köpa.":::
 
@@ -60,7 +60,7 @@ Du kommer tillbaka till **sidan Lägg till** en produkt där du kan se att Azure
 
 ## <a name="purchase-azure-reservations-under-the-azure-plan"></a>Köpa Azure-reservationer enligt Azure-planen 
   
-Du kan också köpa Microsoft Azure under Azure-plan åt dina kunder i Partnercenter. (Eller, om du vill, kan du ge dina kunder behörighet att köpa sina egna [Azure-reservationer](give-customers-permission.md) från en tidigare prenumeration som du har köpt för dem.)
+Du kan också köpa Microsoft Azure-reservationer under Azure-plan åt dina kunder i Partnercenter. (Eller, om du vill, kan du ge dina kunder behörighet att köpa sina egna [Azure-reservationer](give-customers-permission.md) från en tidigare prenumeration som du har köpt för dem.)
 
 1. I menyn i Partnercenter på [instrumentpanelen](https://partner.microsoft.com/dashboard/)väljer du **Kunder.** Hitta den kund som vill köpa Azure-reservationer och välj sedan nedåtpilen för att expandera kundens rad.
 
@@ -95,7 +95,7 @@ På sidan **Prenumerationer** går du till avsnittet användningsbaserad och exp
 
 ## <a name="add-subscriptions-and-configure-resources"></a>Lägga till prenumerationer och konfigurera resurser
 
-Du lägger till prenumerationer och konfigurerar resurser för din kund i Azure Portal. Du kan också separera kundens miljö efter arbetsbelastning eller projekt. Det är möjligt att hantera prenumerationer [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) och Azure Portal. 
+Du lägger till prenumerationer och konfigurerar resurser för din kund i Azure Portal. Du kan också separera kundens miljö efter arbetsbelastning eller projekt. Det är möjligt att hantera prenumerationer [via Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) och Azure Portal. 
 
 För att hantera dina kunders resurser och prenumerationer behöver du AOBO-behörighet **(Admin on Behalf Of).** Information om hur du hanterar din åtkomst finns i [Hantera prenumerationer och resurser under Azure-planen](azure-plan-manage.md)
 
