@@ -9,22 +9,22 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
-ms.openlocfilehash: fb991e8e5792e2be2087e05cc371b064ea11d02e
-ms.sourcegitcommit: 0410e2a3f91b7e6b592cc47e7af1dfbe468c7881
+ms.openlocfilehash: bf29df94a7a59e5a022c7c6407da27b7202547db
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112318103"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112490010"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>Utforska tekniska tjänster för försäljning och distribution (TPD) 
 
 **Lämpliga roller:** Alla MPN-användarkonton så länge organisationen har en aktiv kompetens eller Microsoft Action Pack.
 
-Lär dig mer om de Microsoft Partner Network (MPN)-förmåner som du får för tjänster för teknisk support och distribution, inklusive rådgivning, förförsäljningshjälp, rådgivningstimmar med mera.
+Lär dig mer om de Microsoft Partner Network (MPN)-förmåner som du får för tekniska tjänster för försäljning och distribution (TPD), inklusive rådgivning, support för försäljning, rådgivningstimmar med mera.
 
 ## <a name="develop-your-technical-know-how"></a>Utveckla ditt tekniska kunnande
 
-Använd Technical Presales and Deployment Services (TPD) för anpassade fjärrindelade en-till-en-konsulttjänster för att bygga upp dina tekniska funktioner snabbare för att öka försäljningen, distribuera mer effektivt och påskynda apputvecklingen. [Läs mer](https://aka.ms/TPD).
+Använd TPD för fjärranpassade en-till-en-rådgivning för att bygga upp dina tekniska funktioner snabbare för att öka försäljningen, distribuera mer effektivt och påskynda apputvecklingen. [Läs mer](https://aka.ms/TPD).
 
 Alla moln- eller hybridlösningar stöds, förutom lokala lösningar Windows 10, Windows Server och Microsoft SQL Server. 
 
@@ -38,7 +38,7 @@ Alla moln- eller hybridlösningar stöds, förutom lokala lösningar Windows 10,
 |:-----------------:|:------------------------:|:----------------------:|
 |        Guld       |            50            |        Obegränsat       |
 |       Silver      |            20            |        Obegränsat       |
-| Action Pack(MAPS) |             5            | Drar av rådgivningstimmar |
+| Action Pack (MAPS) |             5            | Drar av rådgivningstimmar |
 
 Logga in med ett MPN-associerat användarkonto för att skapa en **[TPD-begäran (Technical Presales and Deployment Services) (aktivering](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** av tekniska förmåner krävs inte).
 
@@ -54,33 +54,33 @@ Logga in med ett MPN-associerat användarkonto för att skapa en **[TPD-begäran
   - *Stöds inte:* Support/felsökning, snabbkorrigeringar, tjänster på plats, långsiktig rådgivning (mindre än 25 timmar per engagemang), direkt till kundsupport eller praktisk support i en produktionsmiljö. 
 
 
-- **Marketplace-rådgivning** används för att publicera din lösning för pågående leadgenerering på Microsofts kommersiella marknadsplats. För utvecklare, tjänstkonfiguration, arkitektur eller designremisser, migrering från lokala lösningar, kodgranskning och hjälp med publicering av program.
+- **Marketplace-rådgivning** används för att publicera din lösning för pågående leadgenerering på Microsofts kommersiella marknadsplats. För utvecklare, tjänstkonfiguration, arkitektur eller designremisser, migrering från lokala lösningar, kodgranskning och hjälp med programpublicering.
 
   - *Stöds inte:* Kodfelsökning, programutveckling bortom lätt konceptbevis.
 
 ## <a name="in-scope-products-and-services"></a>In-Scope produkter och tjänster
 
-Följande produkter och tjänster omfattas av Technical Presales and Deployment Services:
+Följande produkter och tjänster omfattas av TPD:
 - **Microsoft 365:** Alla Microsoft Office 365-komponenter, till exempel Microsoft Teams, Exchange Online, SharePoint Online, OneDrive, Yammer, Project Online, Skype för business Server 2019, Enterprise Mobility + Security, Microsoft Intune, Azure Active Directory, Azure Information Protection
   - *Utanför omfånget: Exklusivt lokala Office-servrar – Exchange och SharePoint*
 - **Business Applications:** Microsoft Dynamics 365 (online), Microsoft Power Platform (Power Apps, Power Automate, Power BI)
   - *Utanför omfång: Exklusivt lokala versioner av Dynamics 365, GP, SL, AX, NAV*
 - **Microsoft Azure:** Alla Microsoft Azure-lösningar och relaterade tjänster, till exempel infrastruktur som en tjänst, plattform som en tjänst, dataplattform, BI-analys, Cognitive Services, Azure Machine Learning, Azure Stack
 - **Windows Server och SQL Server:** Inom mainstream-support som styrs av **[produktens livscykel](/lifecycle/policies/fixed)**)
-  - System Center relaterade produkter som SCCM, om de är relaterade till moln- eller hybridscenarier
+  - System Center relaterade produkter, till exempel System Center Konfigurationshanteraren (SCCM), om de är relaterade till moln- eller hybridscenarier
 - **Windows 10:** Windows 10 operativsystem, enheter, universella appar
-- **Produkter i privat eller offentlig förhandsversion:** Hjälp tillhandahålls efter bästa försök, för icke-produktionsmiljöer och utan garanti för informationstillgänglighet eller svarstid
+- **Produkter i privat eller offentlig** förhandsversion: Hjälp tillhandahålls efter bästa försök, för icke-produktionsmiljöer och utan garanti för informationstillgänglighet eller svarstid
 
 ## <a name="submit-a-technical-presales-and-deployment-services-request"></a>Skicka en teknisk begäran om försäljning och distributionstjänster 
 
-Dina TPD-förmåner (Technical Presales and Deployment Services) aktiveras automatiskt och är tillgängliga för alla MPN-associerade användare. 
+Dina TPD-förmåner aktiveras automatiskt och är tillgängliga för alla MPN-associerade användare. 
 
 Så här visar du dina tekniska fördelar i Partnercenter:
 
 1. Logga in med ditt MPN-associerade konto på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard) 
 
    > [!NOTE]
-   > Om ditt konto endast är kopplat till CSP och inte är kopplat till MPN visas ett felmeddelande om att du inte har behörighet för den här åtgärden. Du måste ha ett MPN-associerat konto.
+   > Om ditt konto endast är kopplat till Molnlösningsleverantör-programmet (CSP) och inte är kopplat till MPN visas ett felmeddelande om att du inte har behörighet för den här åtgärden. Du måste ha ett MPN-associerat konto.
 
 2. Expandera **Fördelar** i den vänstra navigeringsmenyn och välj **Tekniska förmåner.** Sidan Tekniska förmåner visas med en lista över tekniska supportförmåner som är tillgängliga för dina guld-, silver- eller Microsoft Action Pack-medlemskapserbjudanden. 
 
@@ -96,9 +96,9 @@ Så här visar du dina tekniska fördelar i Partnercenter:
 :::image type="content" source="images/benefits/mpn-tpd-2.png" lightbox="images/benefits/mpn-tpd-2.png" alt-text="Förmåner för teknisk förförsäljning och distribution – Sök efter produkter.":::
 
    > [!NOTE]
-   > Om du behöver en molnre consult som en del av din ASfP- eller PSfP-supportplan kontaktar du din supportkontohanterare (SAM).
+   > Om du behöver en Molnre consult som en del av supportplanen Avancerad support för [partner (ASfP)](https://partner.microsoft.com/support/advanced-cloud-support) eller [Premier Support for Partners (PSfP)](https://partner.microsoft.com/support/microsoft-services-premier-support) kontaktar du supportkontohanteraren (SAM).
 
-5. **Fyll i formuläret och skicka.** Se till att du inkluderar den fullständiga internationella uppringningskoden med ditt telefonnummer. För länder som omfattar flera tidszoner, till exempel USA, Ryssland, anger du din tidszon och önskade arbetstid.
+5. Fyll i formuläret och skicka. Se till att du inkluderar den fullständiga internationella uppringningskoden med ditt telefonnummer. För länder som omfattar flera tidszoner, till exempel USA, Ryssland, anger du din tidszon och önskade arbetstid.
 
    > [!IMPORTANT]
    > Se till att välja relevant land (eller region) och språk eftersom dessa avgör var din begäran dirigeras.

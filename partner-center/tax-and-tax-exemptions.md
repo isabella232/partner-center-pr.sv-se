@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7e6db20296075774a6254116df898e15ecc50034
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 93d2f4c2a1fb1f4c6de1cb8759cab0df85c3ceea
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109856040"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489925"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Läs mer om skatte- och skattebefrielseinformation efter region eller land för partner i CSP-programmet
 
@@ -33,15 +33,15 @@ Om du är i ett annat land eller en annan region som debiterar skatter, [se info
 
 ### <a name="canada"></a>Kanada
 
-De flesta återförsäljare är inte undantagna från GST/HST/QST. Kontakta skatterådgivaren för att avgöra om du är kvalificerad för undantag och vilken dokumentation du bör tillhandahålla Microsoft.
+De flesta återförsäljare är inte undantagna från skatt på varor och tjänster (GST)/skattebefriad försäljning (HST)/Quebec-moms (QST). Kontakta skatterådgivaren för att avgöra om du är kvalificerad för undantag och vilken dokumentation du bör tillhandahålla Microsoft.
 
-För ett BC PST-undantag kan du göra ett skattebefrielse enligt beskrivningen. Ange din BC PST# eller ett slutfört och signerat *certifikat för undantag allmänt*.
+För ETT PST-undantag (Bc Sales Sales Tax) kan du göra ett skattebefrielse enligt beskrivningen. Ange din BC PST# eller ett slutfört och signerat *certifikat för undantag allmänt*.
 
 ### <a name="united-states"></a>USA
 
-Alla återförsäljare i USA tillhandahålla dokumentation om momsbefrielse inom 30 dagar från det att Microsoft-återförsäljaravtalet har accepterats. Varje delstat har olika undantagscertifikat för omförsäljning. Ta hjälp av skatterådgivaren för att avgöra vad som är relevant för din juridiska adress och registrerade delstater.
+Alla återförsäljare i USA tillhandahålla dokumentation om momsbefrielse inom 30 dagar från det att Microsoft-återförsäljaravtalet har accepterats. Varje delstat har olika undantagscertifikat för omförsäljning. Ta hjälp av skatterådgivaren för att fastställa vad som är relevant för din juridiska adress och registrerade delstater.
 
-Detta kan omfatta certifikat för omförsäljningsundantag som fungerar över flera delstater, till exempel Streamline *Sales* and *Use Tax Agreement Certificate of Exemption* eller *MTC Uniform Sales & Use Tax Exemption Certificate*.
+Detta kan omfatta certifikat för omförsäljningsundantag som fungerar i flera delstater, till exempel Streamline *Sales* and *Use Tax Agreement Certificate of Exemption* eller *MTC Uniform Sales & Use Tax Exemption Certificate*.
 
 ### <a name="other-regions"></a>Andra regioner
 

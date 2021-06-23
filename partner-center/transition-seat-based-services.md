@@ -9,20 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1d5f415680cad8466da631a68fb6249a5298a2d
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 2cfea9bc672ff12868a7944cf81601e5292dae80
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855989"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489908"
 ---
-# <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Flytta licensbaserade kunder från andra kanaler & partner till Molnlösningsleverantör program
+# <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-csp-program"></a>Flytta licensbaserade kunder från andra kanaler & partner till Molnlösningsleverantör (CSP)-programmet
 
 **Lämpliga roller:** Kontoadministratörsroller | Försäljningsagentens | Faktureringsagent
 
 Om kunden vill anlita flera partner, överföra sina prenumerationer till en annan partner eller hantera sina prenumerationer som köpts någon annanstans kan du flytta dem manuellt. Du kan också flytta kunder till Partnercenter från en annan kanal.
 
-## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>Flytta kundens licensbaserade prenumerationer till Molnlösningsleverantör Program (CSP)
+## <a name="move-your-customers-license-based-subscriptions-to-the-csp-program"></a>Flytta kundens licensbaserade prenumerationer till CSP-programmet
 
 1. Välj **Kunder** på Menyn i Partnercenter och välj sedan **Begär en återförsäljarrelation.** Om du vill ge stöd för konton med flera kanaler gör du samma sak.
 
@@ -35,14 +35,14 @@ Om kunden vill anlita flera partner, överföra sina prenumerationer till en ann
    >Kunden kan vara berättigad till en kredit om de har köpt via administrationsportalen för Microsoft 365 (M365) (till exempel via fakturerings direkt per månad eller år från Microsoft). Krediter för prenumerationer som köpts direkt från Microsoft hanteras av **faktureringssupporten för M365.** Se M365-vägledning om hur du avbryter [din M365-prenumeration.](/microsoft-365/commerce/subscriptions/cancel-your-subscription) Om du har delegerad administratörsbehörighet för kunden kan du kontakta M65-supporten för din kunds räkning. Om inte ber du kunden kontakta M365-supporten direkt för att ta reda på hur mycket kredit de är berättigade till och hur krediten kommer att ges till dem. Läs information om [delegerade administratörsbehörigheter.](customers-revoke-admin-privileges.md)
 
 
-4. Kunden fortsätter sedan med de prenumerationer som du har etablerat utan avbrott.
+4. Kunden fortsätter sedan att fortsätta med de prenumerationer som du har etablerat utan avbrott.
 
-Om du etablerar samma erbjudanden som de erbjudanden som din kund har använt behöver du inte tilldela licenser på nytt och det kommer inte att bli några avbrott för slutanvändarna. Erbjudandena måste vara samma för att säkerställa att inga data förloras. Så länge det totala antalet licenser förblir detsamma och erbjudandet är likvärdigt kommer dina kunder inte att påverkas.
+Om du etablerar samma erbjudanden som de erbjudanden som kunden har använt behöver du inte tilldela om licenser och det kommer inte att bli några avbrott för slutanvändarna. Erbjudandena måste vara samma för att säkerställa att inga data förloras. Så länge det totala antalet licenser är detsamma och erbjudandet är likvärdigt kommer dina kunder inte att påverkas.
 
 Om du överför kunder som använder erbjudanden som inte längre gäller måste du hitta ett likvärdigt erbjudande för att förhindra dataförlust. Om du flyttar kunden till ett annat erbjudande måste du uppdatera kundens licenstilldelning.
 
 >[!NOTE]
-> Du, CSP-partnern, måste finnas i samma region som kundklientorganisationen för att kunna övergå kunden till dig.
+> Du, CSP-partnern, måste finnas i samma region som kundens klientorganisation för att kunna övergå till dig.
 
 ## <a name="next-steps"></a>Nästa steg
 

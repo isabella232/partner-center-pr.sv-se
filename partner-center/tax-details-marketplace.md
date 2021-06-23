@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/26/2021
-ms.openlocfilehash: 06abd261e4d71b2e5e37eb2d77c1e62794c99a95
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 673620843ea8d469f1a665982f2a120b4b1e2d7e
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277767"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112490027"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Skatteinformation för utgivare på kommersiell marknadsplats
 
@@ -54,9 +54,9 @@ I **återförsäljar länder** fungerar Microsoft som återförsäljare i ställ
 |Benin|Färöarna|Maldiverna|
 |Bermuda|Fiji|Mali|
 |Bhutan|Gabon|Marshallöarna|
-|Bolivia|Ghana|Martinque|
+|Bolivia|Ghana|Martinique|
 |Bonaire|Georgia|Mauretanien|
-|På vilket sätt & På så sätt?|Gibraltar|Mauritius|
+|Det här är & kvinna|Gibraltar|Mauritius|
 |Botswana|Grönland|Ma Ote|
 |Bouvetön|Grenada|Mikronesien|
 |Brittiska Jungfruöarna|Guadeloupe|Moldavien
@@ -98,7 +98,7 @@ Tjeckien|Lettland|Ryssland|UAE|
 
 |**Land**|**Kommersiell marknadsplats (Azure Marketplace & AppSource)**| **Konsumentmarknadsplatsen (Microsoft Store)**|
 |------------------|:-----------------|:---------------|
-|Brasilien|Återförsäljare utom: Utgivare som hanteras för inköp som görs via CSP-kundinköpsscenario|Hanteras av utvecklare förutom: Återförsäljare för inköp som görs via enheter som körs på Windows 10|
+|Brasilien|Återförsäljare utom: Utgivare som hanteras för inköp som görs via Molnlösningsleverantör-kundinköpsscenario (CSP)|Hanteras av utvecklare förutom: Återförsäljare för inköp som görs via enheter som körs på Windows 10|
 |Mexico|Microsoft-hanterad förutom: Återförsäljare för inköp via scenariot för kundköp med Enterprise-avtal|Microsoft-hanterad|
 |Australien|Microsoft-hanterad förutom: Återförsäljare för inköp via scenariot för kundköp med Enterprise-avtal|Microsoft-hanterad|
 Kina|Marketplace är inte aktiverat|Återförsäljare aktiverad förutom: utvecklare som hanteras för mobila kommunikationsenheter som kör Windows Phone 7.x och på persondatorer som kör Windows 8.x|
@@ -126,15 +126,15 @@ Microsoft samlar in skatt på butiksavgifter i följande länder där utgivare/u
 
 ### <a name="end-customer-taxation"></a>Slutkundsskatt
 
-- Scenario ett: Kund i ett inköpserbjudande som hanteras av utgivare
+- Scenario ett: Kunden i ett utgivar hanterat land köper ett erbjudande
 
   :::image type="content" source="images/tax/scenario-one.png" alt-text="Diagram som visar hur utgivaren betalar.":::
 
-- Scenario två: Kund i ett Microsoft-hanterat land – inköpserbjudande (utgivarens land är irrelevant)
+- Scenario två: Kunden i ett Microsoft-hanterat land köper ett erbjudande (utgivaren är irrelevant)
 
   :::image type="content" source="images/tax/scenario-two.png" alt-text="Diagram som visar skatte in Microsoft-hanterat land.":::
 
-- Scenario tre: Den externa utgivaren gör en försäljning över gränserna till en registrerad kund som är registrerad i EU-moms i ett Microsoft-hanterat land
+- Scenario tre: En registrerad kund som är registrerad i ett Microsoft-hanterat land gör en försäljning över gränserna till en registrerad eu-moms (moms)
 
   :::image type="content" source="images/tax/scenario-three.png" alt-text="Diagram som visar hur EU-moms påverkar skatt."::: 
 
@@ -142,17 +142,17 @@ Microsoft samlar in skatt på butiksavgifter i följande länder där utgivare/u
 
   :::image type="content" source="images/tax/scenario-four.png" alt-text="Diagram som visar hur momsen hanteras.":::
 
-- Scenario fem: Kunder i ett Microsoft-hanterat land där det finns skatt på Store-tjänstavgifter
+- Scenario fem: Kunden i ett Microsoft-hanterat land köper ett erbjudande där det finns skatt på Store-tjänstavgifter
 
   :::image type="content" source="images/tax/scenario-five.png" alt-text="Diagram som visar hur avgifter för butikstjänst påverkar skatt.":::
 
 ### <a name="withholding-tax"></a>Källskatt
 
-- Scenario ett: Den externa utgivaren (utan tillämpliga skatteförmåner i skatteprofilen) gör en försäljning till en amerikansk kund. 
+- Scenario ett: En annan utgivare (utan tillämpliga skatteförmåner i skatteprofilen) gör en försäljning till en amerikansk kund. 
 
   :::image type="content" source="images/tax/withholding-one.png" alt-text="Diagram som visar källskatt utan skatteförseningen.":::
 
-- Scenario två: En annan utgivare (med tillämpliga skatteförmåner i skatteprofilen till noll procent) med en skatteförsening säljer till en amerikansk kund. 
+- Scenario två: En annan utgivare (med tillämpliga skatteförmåner i skatteprofilen till noll procent) gör en försäljning till en amerikansk kund. 
 
   :::image type="content" source="images/tax/withholding-two.png" alt-text="Diagram som visar källskatt med skatteförseningen.":::
 

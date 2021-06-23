@@ -1,90 +1,90 @@
 ---
-title: Indragnings program för utbildningsprogram för Software Assurance-utbildning
+title: Software Assurance utbildningsutbildningsprogram går i pension
 ms.topic: article
 ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Program varan för utbildnings kuponger för Software Assurance dras tillbaka.
+description: Software Assurance programmet Training Training Training håller på att dras tillbaka.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: b08ac8d76324270f32db481a92387b20650f42f5
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: a8c465b38d8613a107d1900f220c4885fc9655e1
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266494"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112490095"
 ---
-# <a name="training-vouchers-program-retirement"></a>Dra tillbaka program för utbildnings kuponger
+# <a name="training-vouchers-program-retirement"></a>Utbildningsutbildningsprogram går i pension
 
-Utbildnings kuponger dras tillbaka helt från Software Assurance-förmåner, men kunder kan fortsätta att använda verifikations dagar för lärarledd utbildning medan verifikationerna är giltiga. Detta är de signifikanta datumen som leder upp till att programmet upphör: 
+Software Assurance SATV:er (Training Training) dras tillbaka helt från Software Assurance-förmånerna, men kunderna kan fortsätta att använda några dagar för lärarledd utbildning medan äldstana är giltiga. Det här är de viktiga datum som ledde fram till att programmet pensioneras: 
 
-- Den 1 februari 2020: Azure-utbildning dras tillbaka från kursens verifikations katalog.
-- Den 1 februari 2020: utbildnings kuponger kan inte längre konverteras till Planning Services-dagar.  
-- Den 1 februari 2021: kunderna kommer inte längre att Periodisera utbildnings förmåner. 
-- 30 juni 2021: sista dagen för kunderna att skapa/tilldela utbildnings kuponger. Alla återstående utbildnings verifikations dagar tas bort den 1 juli 2021.
-- 1 januari 2022: sista dagen för partner för att lösa in utbildnings kuponger. Partnern kommer att ha 60 dagar efter inlösen för att slutföra processen för betalnings förfrågningar.  
+- 1 februari 2020: Azure-utbildningen dras tillbaka från utbildningskatalogen.
+- 1 februari 2020: Träningsutbildningsutbildningar kan inte längre konverteras till Planning Services-dagar.  
+- 1 februari 2021: Kunder får inte längre utbildningsförmåner. 
+- 30 juni 2021: Sista dagen för kunder att skapa/tilldela träningsträningsutbildningar. Alla återstående träningsdagar tas bort den 1 juli 2021.
+- 1 januari 2022: Sista dagen för partner att lösa in träningsduplar. Partnern har 60 dagar efter inlösningen för att slutföra processen med betalningsbegäran.  
 
 >[!NOTE]
->Det finns ingen ändring i verifikations livs cykeln. När en verifikation har skapats/tilldelats måste du slutföra kuponger, utbildningar och åter inlösen av verifikationen inom 180 dagar innan förfallo datumet för verifikationen har upphört att gälla.  Mer information om hur du drar tillbaka utbildnings kuponger finns i vanliga frågor och svar finns [här](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) för mer information (inloggning krävs).  Se den fullständiga listan med SATV utbildnings kurser i utbildnings förmåns produkt katalogen.  Dirigera eventuella frågor till support teamet för regional partner: [stöd för EMEA-partner](mailto:savoucher@msdirectservices.com); [Support för allmän partner](https://partner.microsoft.com/dashboard/support/servicerequests).
+>Livscykeln för livscykeln ändras inte. När en sedel har skapats/tilldelats måste reservationsreservation, träningssessioner och inlösen slutföras inom 180 dagar innan den upphör att gälla.  Mer information om utbildningsutbildning vid intillbakadragande finns i Vanliga frågor och svar [här](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) (inloggning krävs).  Se den fullständiga listan över SATV-berättigade utbildningskurser i produktkatalogen för utbildningsförmånen. Skicka eventuella frågor till ditt regionala partnersupportteam: [EMEA-partnersupport;](mailto:savoucher@msdirectservices.com) [Allmänt partnerstöd](https://partner.microsoft.com/dashboard/support/servicerequests).
 
 
 
 ### <a name="get-started"></a>Kom igång
 
-Om du inte har arbetat med Software Assurance-utbildningstjänster följer du alla steg nedan. Om du redan är aktiv i programmet för utbildnings kuponger börjar du med steg fyra (4) nedan. 
+Om du inte har Software Assurance utbildningstjänster följer du alla steg nedan. Om du redan är aktiv i träningsprogrammet börjar du i steg fyra (4) nedan. 
 
-1. Bekräfta program berättigande
-2. Registrera dig i utbildnings programmet
-3. Bekräfta kurs berättigande
-4. Låt kunden skapa och tilldela verifikation
-5. Validera och reservera kund verifikation
-6. Leverera utbildning och Aktivera produkt
-7. Lös in verifikation
-8. Begär betalning
+1. Bekräfta programberättigande
+2. Registrera dig i utbildningsprogrammet
+3. Bekräfta kursberättigande
+4. Be kunden skapa och tilldela en
+5. Verifiera och reservera kundsjöjning
+6. Leverera utbildning och aktivera produkt
+7. Lösa in lös in
+8. Begära betalning
 
-I den här artikeln förklaras hur du Slutför varje steg.
+Den här artikeln beskriver hur du slutför varje steg.
 
-## <a name="confirm-program-eligibility"></a>Bekräfta program berättigande
+## <a name="confirm-program-eligibility"></a>Bekräfta programberättigande
 
-Innan du kan registrera dig i SATV-programmet måste du först uppfylla kraven för Microsoft Partner Network Learning, som ersätter Microsoft Learning-kompetensen. Lär dig hur du kommer igång med [inlärnings alternativet.](https://partner.microsoft.com/membership/learning-partners)
+Innan du kan registrera dig i SATV-programmet måste du först uppfylla kraven för utbildningsalternativet Microsoft Partner Network (MPN), som ersätter Microsoft Learning kompetens. Lär dig hur du kommer igång med [utbildningsalternativet.](https://partner.microsoft.com/membership/learning-partners)
 
-Du kan kontrol lera företagets kvalifikationer, inklusive tillämpliga krav på kompetens och bedömning i Partner Center. Följ anvisningarna i [steg 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) i SATV-arbetsflödet för mer information och skärmdumpar.
+Du kan kontrollera berättigandet för ditt företag, inklusive tillämpliga kompetens- och utvärderingskrav i Partnercenter. Följ anvisningarna i [steg 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) i SATV-arbetsflödet för mer information och skärmdumpar.
 
-## <a name="enroll-in-the-training-program"></a>Registrera dig i utbildnings programmet
+## <a name="enroll-in-the-training-program"></a>Registrera dig i utbildningsprogrammet
 
-När ditt företag uppfyller kraven för behörighet är det dags att signera program varans program avtal för Software Assurance-utbildning och registrera dig. Se till att granska alla [principer för SATV-program](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)och följ sedan anvisningarna i [steg 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) i arbets flödet för att slutföra registrerings processen för SATV i Partner Center.
-
-
-## <a name="confirm-course-eligibility"></a>Bekräfta kurs berättigande
-När de har registrerats i SATV-programmet kan partners erbjuda utbildningar för SATV-berättigade kurser, för vilka kunder kan använda sina utbildnings kuponger. Berättigade kurser visas i SATV-katalogen för kurs berättigande. Granska [steg 3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) i arbets flödet för att förstå vilka typer av kurser som är SATV eller för att hämta en länk till kursens Berättiganderegler.
-
-## <a name="have-customer-create-and-assign-voucher"></a>Låt kunden skapa och tilldela verifikation
-
-Innan du utför en utbildning måste kunden först aktivera sin SATV-förmån och sedan tilldela den till din organisation. Detaljerade instruktioner med skärm dum par som visar de steg som kunden måste vidta för att skapa en verifikation och tilldela den till dig, finns i [steg 4](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) i arbets flödet.
-
-## <a name="validate-and-reserve-customer-vouchers"></a>Verifiera och reservera kund kuponger
-
-Du kan nu reservera och lösa in verifikationer och börja träna dina kunder. Ditt företags MPN-administratör har åtkomst till verktyget för hantering av kuponger i Partner Center och kan lägga till användare som behöver arbeta med verktyget. Instruktioner för att verifiera och reservera verifikationer finns i [steg 5](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) i arbets flödet.
-
-## <a name="deliver-training-and-activate-product"></a>Leverera utbildning och Aktivera produkt
-
-När en verifikation har reserver ATS kan du leverera utbildningen till din kund. Se [steg 6](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) i arbets flödet för rikt linjer för utbildning och anvisningar för aktivering och köp av Microsoft officiellt kurs litteratur (MOC), examina och Microsofts kurs certifikats kuponger (LaaS) för MOOC-kurser.
-
-## <a name="redeem-voucher"></a>Lös in verifikation
-
-När du har slutfört en utbildning måste du lösa in verifikationen. Följ instruktionerna i [steg 7](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) i arbets flödet för att se till att alla krav uppfylls så att du kan begära betalning. 
+När ditt företag uppfyller behörighetskraven är du redo att signera SATV-programavtalet och registrera dig. Se till att granska alla [SATV-programprinciper](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)och följ [sedan instruktionerna](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) i steg 2 i arbetsflödet för att slutföra SATV-registreringen i Partnercenter.
 
 
-## <a name="request-payment-from-microsoft"></a>Begär betalning från Microsoft
+## <a name="confirm-course-eligibility"></a>Bekräfta kursberättigande
+När partner har registrerats i SATV-programmet kan de erbjuda utbildningssessioner för SATV-berättigade kurser, där kunderna kan använda sina träningscheckar. Kvalificerade kurser visas i satv-katalogen för kursberättigande. Granska [steg 3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) i arbetsflödet för att förstå vilka typer av kurser som är SATV-berättigade eller få en länk till katalogen med kursberättiganden.
 
-Betalningar hanteras med hjälp av SAVB-verktyget (Software Assurance Restore Benefit) online. Följ instruktionerna i [steg 8](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) i arbets flödet för att skicka en faktura till Microsoft via SAVB. 
+## <a name="have-customer-create-and-assign-voucher"></a>Be kunden skapa och tilldela en
 
-Mer information finns i [vanliga frågor och svar](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) och granska [principer för SATV-program](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP).
+Innan du genomför en utbildning måste kunden först aktivera sin SATV-förmån och sedan tilldela den till din organisation. Detaljerade anvisningar med skärmbilder som visar de steg som kunden måste vidta för att skapa en administratör och tilldela den till dig finns i [steg 4](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) i arbetsflödet.
+
+## <a name="validate-and-reserve-customer-vouchers"></a>Validera och reservera kundsecheckar
+
+Nu kan du reservera och lösa in lösenkoder och börja träna dina kunder. Ditt företags MPN-administratör har åtkomst till verktyget för hantering av besplan i Partnercenter och kan lägga till användare som behöver arbeta i verktyget. Anvisningar om hur du verifierar och reserverar flöden finns i [steg 5](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) i arbetsflödet.
+
+## <a name="deliver-training-and-activate-product"></a>Leverera utbildning och aktivera produkt
+
+När en sedel har reserverats kan du leverera utbildningen till kunden. Se [steg 6](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) i arbetsflödet för riktlinjer för utbildningsinteragemang och anvisningar för aktivering och inköp av Microsofts officiella kursprogram (MOC), prov och Microsoft Course Certificate-flöden (LaaS) för enorma ÖPPNA onlinekurser (MOOC).
+
+## <a name="redeem-voucher"></a>Lösa in lös in
+
+När du har slutfört en träning måste du lösa in den. Följ instruktionerna i [steg 7](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) i arbetsflödet för att säkerställa att alla krav är uppfyllda så att du kan begära betalning. 
+
+
+## <a name="request-payment-from-microsoft"></a>Begära betalning från Microsoft
+
+Betalningar hanteras via Software Assurance Benefit (SAVB) Online Payment Tool. Följ instruktionerna i [steg 8](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) i arbetsflödet för att skicka en faktura till Microsoft via SAVB. 
+
+Mer information finns i Vanliga frågor och [svar och](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) granska [SATV-programprinciper.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)
 
 Se även:
 
-- [SATV-arbetsflöde (Software Assurance Traination)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)
-- [Vanliga frågor och svar om Software Assurance Training-kuponger (SATV)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)
-- [Principer för utbildnings kuponger för Software Assurance (SATV)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)
+- [Software Assurance SATV-arbetsflöde (Training Training](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)
+- [Software Assurance vanliga frågor och svar om träningsträning (SATV)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)
+- [Software Assurance SATV-principer (Training Training)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)
