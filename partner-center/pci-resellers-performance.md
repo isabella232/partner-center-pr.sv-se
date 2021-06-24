@@ -4,23 +4,23 @@ ms.topic: article
 ms.date: 09/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Instrumentpanelen för återförsäljares prestanda i Partner Center Insights ger en översikt över prestanda för olika indirekta återförsäljare av en CSP Indirect Provider.
+description: Instrumentpanelen för återförsäljares prestanda i Partner Center Insights ger en översikt över prestanda för olika indirekta återförsäljare av en indirekt leverantör Molnlösningsleverantör (CSP).
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cc0fb8a56d397cebeb5a40fa1a1c8d6eae77fe25
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 65fddcc47105cf329bb8f5d3e1aa342deee556b4
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277376"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565176"
 ---
 # <a name="reseller-performance-dashboard-in-partner-center-insights"></a>Instrumentpanel för återförsäljares prestanda i Partner Center Insights
 
 **Lämpliga roller:** Globala | Administratörsagent | Rapportvisningsprogram | Visningsprogram för exekutiv rapport
 
-Instrumentpanelen för återförsäljares prestanda i Partner Center Insights ger en översikt över prestanda för olika indirekta återförsäljare av en CSP Indirect Provider. Instrumentpanelen innehåller data om återförsäljare som är aktiva, hur mycket intäkter de genererar och vilka produkter som ger intäkter. Indirekta leverantörer kommer att kunna söka efter en specifik återförsäljare efter namn och söka efter information för återförsäljaren i instrumentpanelen för återförsäljares prestanda.
+Instrumentpanelen för återförsäljares prestanda i Partner Center Insights ger en översikt över prestanda för olika indirekta återförsäljare av en indirekt leverantör Molnlösningsleverantör (CSP). Instrumentpanelen innehåller data om återförsäljare som är aktiva, hur mycket intäkter de genererar och vilka produkter som ger intäkter. Indirekta leverantörer kommer att kunna söka efter en specifik återförsäljare efter namn och söka efter information för återförsäljaren i instrumentpanelen för återförsäljares prestanda.
 
 Du kan visa följande avsnitt från instrumentpanelen Reseller Performance.
 
@@ -28,14 +28,14 @@ Du kan visa följande avsnitt från instrumentpanelen Reseller Performance.
 - Geografisk spridning av återförsäljare
 - Resellers add/churns 
 - Intäktstrend för återförsäljare 
-- Återförsäljares prestanda per produkt
+- Återförsäljares prestanda efter produkter
 - Aktiva återförsäljare efter partnerplatser
-- Geofördelningstrend för intäkter
-- Återförsäljares prestanda per kundsegment
-- Signeringsstatus för återförsäljares MPA
+- Trend för intäktsgeofördelning
+- Återförsäljares prestanda efter kundsegment
+- Signeringsstatus Microsoft-partneravtal Reseller Microsoft-partneravtal (MPA)
 
  > [!NOTE]
- > Den här rapporten är tillgänglig från Insights-instrumentpanelen. Om du vill visa den här rapporten måste du ha tilldelats en viss roll i Partnercenter, till exempel Global administratör, Kontoadministratör, Rapportvisare eller Rapportvisningsprogram. Mer information finns i företagets globala administratör. Specifika typer av data i den här rapporten kan också vara tillgängliga endast för användare med privilegier för visningsprogrammet för verkställande rapporter.
+ > Den här rapporten är tillgänglig från Insights-instrumentpanelen. Om du vill visa den här rapporten måste du ha tilldelats en viss roll i Partnercenter, till exempel Global administratör, Kontoadministratör, Rapportvisare eller Visningsprogram för verkställande rapporter. Mer information finns i företagets globala administratör. Vissa typer av data i den här rapporten kan också vara tillgängliga endast för användare med behörighet som chefsrapportvisare.
 
 ## <a name="summary"></a>Sammanfattning
 
@@ -57,13 +57,13 @@ Micro-diagrammet visar trenden månad för månad för det totala antalet nya å
 
 Micro-diagrammet visar intäktstrenden månad för månad under det valda datumintervallet.
 
-- Avsnittet Fakturerade intäkter efter produkter innehåller en månadsuppdelning för fakturerade intäkter i USD, uppdelat efter sålda produkter. 
+- Avsnittet Fakturerade intäkter per produkt innehåller en månadsuppdelning för fakturerade intäkter i USD, uppdelat efter sålda produkter. 
 
 :::image type="content" source="images/pci/pci-res-perf-summary-1.png" alt-text="prestandasammanfattning för återförsäljare.":::
 
 ## <a name="geographical-spread-of-resellers"></a>Geografisk spridning av återförsäljare
 
-Vyn **Återförsäljare efter geografisk plats ger den geografiska fördelningen återförsäljare. Med den här widgeten kan partner visa totalt antal **återförsäljare,** nya återförsäljare och **fakturerade intäkter (USD)**, uppdelat efter olika geografiska områden.
+Vyn **Resellers by geography (Återförsäljare per geografisk plats) ger den geografiska fördelningen återförsäljare. Med den här widgeten kan partner visa totalt antal **återförsäljare,** nya återförsäljare och **fakturerade intäkter (USD)**, uppdelat efter olika geografiska områden.
 
 Du kan söka efter och välja ett land i rutnätet för att zooma till platsen på kartan. Tryck på **alternativet** Start på kartan för att återgå till den ursprungliga vyn. Hovra över kartan för att visa **fakturerade intäkter (USD)** per land. Fältet Fakturerade intäkter (USD) i rutnätet är sorterbart.
 
@@ -81,11 +81,11 @@ Den här vyn visar en månadsdelning av antalet **nya** återförsäljare, **omd
 
 ## <a name="resellers-revenue-trend"></a>Intäktstrend för återförsäljare 
 
-Den här vyn visar en månatlig trend för fakturerade intäkter (USD) uppdelade efter produkter, nämligen O365, D365, EMS, Power BI och Azure. De övergripande måtten aggregeras över de olika produkterna för varje månad. Partnern kan söka efter en specifik återförsäljare efter namn och söka efter data för den specifika återförsäljaren. Fältet Fakturerade intäkter (USD) i rutnätet är sorterbart.
+Den här vyn visar en månatlig trend för de fakturerade intäkterna (USD) uppdelade efter produkter, nämligen Office 365, Dynamics 365, Enterprise Mobility and Security (EMS), Microsoft Power BI och Azure. De övergripande måtten aggregeras över de olika produkterna för varje månad. Partnern kan söka efter en specifik återförsäljare efter namn och söka efter data för den specifika återförsäljaren. Fältet Fakturerade intäkter (USD) i rutnätet är sorterbart.
 
 :::image type="content" source="images/pci/pci-res-perf-resel-rev-trend-1.png" alt-text="Intäktstrend för återförsäljare.":::
 
-## <a name="reseller-performance-by-products"></a>Återförsäljares prestanda per produkt
+## <a name="reseller-performance-by-products"></a>Återförsäljares prestanda efter produkter
 
 Den här vyn innehåller en uppdelning av viktiga mått som Fakturerade intäkter, antal prenumerationer och antal licenser per olika produkter per månad. Cirkeldiagrammet till höger visar den övergripande uppdelningen av måtten efter olika produkter, så att partnern får en snabb inblick i uppdelningen av olika produkter som återförsäljaren säljer.
 
@@ -93,17 +93,17 @@ Den här vyn innehåller en uppdelning av viktiga mått som Fakturerade intäkte
 
 ## <a name="active-resellers-by-partner-locations"></a>Aktiva återförsäljare efter partnerplatser
 
-Den här vyn ger en uppdelning av aktiva återförsäljare efter partnergeografiska områden. De översta fem geografiska områden visas i förklaringen och återstående kategoriseras som "Övriga".
+Den här vyn ger en uppdelning av aktiva återförsäljare efter partnergeografiska områden. De översta fem geografiska områden visas i förklaringen och de återstående kategoriseras som "Övriga".
 
 :::image type="content" source="images/pci/pci-res-perf-part-loc-1.png" alt-text="Aktiva återförsäljare efter partnerplatser.":::
 
-## <a name="revenue-geo-distribution-trend"></a>Geofördelningstrend för intäkter
+## <a name="revenue-geo-distribution-trend"></a>Trend för intäktsgeofördelning
 
 Den här vyn visar månadstrenden för fakturerade intäkter (USD) uppdelat efter de fem viktigaste geografiska områden.  Resten av intäkterna kategoriseras som "Andra".
 
-:::image type="content" source="images/pci/pci-res-perf-rev-geo-trend-1.png" alt-text="Trend för geofördelning av intäkter.":::
+:::image type="content" source="images/pci/pci-res-perf-rev-geo-trend-1.png" alt-text="Trend för intäktsgeofördelning.":::
 
-## <a name="reseller-performance-by-customer-segment"></a>Återförsäljares prestanda per kundsegment
+## <a name="reseller-performance-by-customer-segment"></a>Återförsäljares prestanda efter kundsegment
 
 Med den här vyn kan en partner förstå månatliga trender för intäkter i USD, antal prenumerationer och licenser, uppdelat efter olika kundsegment. De fem viktigaste kundsegmenten visas i diagrammet och de återstående kategoriseras som "Övriga".
 
@@ -111,7 +111,7 @@ Med den här vyn kan en partner förstå månatliga trender för intäkter i USD
 
 ## <a name="reseller-mpa-signing-status"></a>Signeringsstatus för återförsäljares MPA
 
-Den här vyn visar MPA-signeringsstatus för återförsäljare tillsammans med ytterligare metadata, till exempel MPN-granskningsstatus, PMC till PC-migreringsstatus osv.
+Den här vyn visar MPA-signeringsstatus för återförsäljare tillsammans med ytterligare metadata, till exempel Microsoft Partner Network (MPN), kontrollera status och Partner Membership Center (PMC) till Partner Center-migreringsstatus.
 
 :::image type="content" source="images/pci/pci-res-perf-mpa-stat-1.png" alt-text="Signeringsstatus för återförsäljares MPA.":::
 

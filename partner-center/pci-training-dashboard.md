@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6af4f5f82c145aa932c03a176dbf8592d095a930
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 37a4f6cdce2b77f194fc91e0490e1c87ee137b43
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276288"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565108"
 ---
 # <a name="trainings-dashboard"></a>Instrumentpanel för träningar
 
@@ -28,7 +28,7 @@ Instrumentpanelen Trainings (Utbildning) ger insikter om certifieringar, utvärd
 - Aktivitetsinformation
 
 >[!NOTE] 
->Den här rapporten är tillgänglig under Insights-hubben i Partnercenter. Om du vill visa den här rapporten bör du tilldelas rollen Rapportvisningsprogram eller Visningsprogram för verkställande rapporter. Få avsnitt i den här rapporten är bara synliga för användare som är användare av chefsrapport. Mer information om åtkomstkontroll för Insights-rapporterna finns i [PCI-roller.](pci-roles.md)
+>Den här rapporten är tillgänglig under Insights-hubben i Partnercenter. Om du vill visa den här rapporten bör du ha tilldelats rollen Rapportvisningsprogram eller Visningsprogram för verkställande rapporter. Få avsnitt i den här rapporten är bara synliga för användare som är användare av chefsrapport. Mer information om åtkomstkontroll för Insights-rapporterna finns i [PCI-roller.](pci-roles.md)
 
 ## <a name="summary"></a>Sammanfattning
 

@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
-ms.openlocfilehash: b1ac34bbb92d600805465ca5f6d1b28af54cd5e1
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 582fdc98617be7d82c0bc61a0bf46ceb662954d3
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855139"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565091"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Tilldela användarroller och behörigheter för ett företags användare som behöver arbeta i Partnercenter
 
@@ -24,10 +24,10 @@ Du har ställt in din partnerprofil, inklusive juridiskt namn och adress, suppor
 
 ## <a name="set-up-your-employees-to-work-in-partner-center"></a>Konfigurera dina anställda att arbeta i Partnercenter
 
-Du avgör vilka typer av åtkomst dina användare har till Partnercenter efter de roller och behörigheter som du ger dem. Roller är relaterade till de program som din verksamhet ingår i. Om ditt företag till exempel är ett Molnlösningsleverantör-företag (CSP) kommer du inte bara att ha standardrollerna för Azure Active Directory-klienthantering, till exempel global administratör, utan behöver roller som är specifika för CSP-programmet. Varje program har specifika roller.
+Du avgör vilka typer av åtkomst dina användare har till Partnercenter efter de roller och behörigheter som du ger dem. Roller är relaterade till de program som din verksamhet ingår i. Om ditt företag till exempel är ett Molnlösningsleverantör-företag (CSP) har du inte bara standardrollerna för hantering av Azure Active Directory-klienter (Azure AD), till exempel global administratör, utan behöver roller som är specifika för CSP-programmet. Varje program har specifika roller.
 
 >[!Note]
-> Azure Active Directory rollerna global administratör, användaradministratör och CSP. Icke-Azure-Active-Directory-roller är de roller som inte hanterar klientorganisationen och de omfattar MPN-administratör, företagsprofiladministratör, referensadministratör, incitamentadministratör och incitamentanvändare. 
+> Azure AD-klientroller omfattar rollerna global administratör, användaradministratör och CSP. Icke-Azure-AD-roller är de roller som inte hanterar klientorganisationen och de omfattar MPN-partneradministratör (Microsoft Partner Network), företagsprofiladministratör, referensadministratör, incitamentadministratör och incitamentanvändare. 
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Hantera kommersiella transaktioner i Partnercenter (Azure AD- och CSP-roller)
 
@@ -39,7 +39,7 @@ Du avgör vilka typer av åtkomst dina användare har till Partnercenter efter d
 ||* Visa avtal, prislistor och erbjudanden
 ||* Visa, skapa och hantera partneranvändare|
 ||  Visa, skapa och hantera fakturering, fakturor och rekognoseringsfiler
-|Administratör för användarhantering   | * Visa, skapa och hantera användare|[Hantera dina Microsoft Partner Network medlemsförmåner och erbjudanden i Partnercenter](manage-your-partner-network-benefits.md)
+|Administratör för användarhantering   | * Visa, skapa och hantera användare|[Hantera dina Microsoft Partner Network medlemskapsförmåner och erbjudanden i Partnercenter](manage-your-partner-network-benefits.md)
 ||* Visa alla partnerprofiler
 ||* Skapa supportärenden för Partnercenter
 ||* Visa partnersupportärenden som du skapar
@@ -71,7 +71,7 @@ Du avgör vilka typer av åtkomst dina användare har till Partnercenter efter d
 ||* Registrera en återförsäljare med mervärde
 ||* Skapa supportärenden för Partnercenter
 ||* Visa partnersupportärenden som du skapar|
-|Supportagent| * Söka efter och visa en kund|[Eskalera problem till Microsoft och lär dig vilka problem som passar bättre för Microsoft-eskalering](escalate-problems-to-microsoft.md)
+|Supportagent| * Sök efter och visa en kund|[Eskalera problem till Microsoft och lär dig vilka problem som passar bättre för Microsoft-eskalering](escalate-problems-to-microsoft.md)
 ||* Redigera kundinformation
 ||* Hjälp till att lösa kundproblem med fakturerings- eller prenumerationshantering
 ||* Begär support för kunders räkning 
@@ -79,27 +79,27 @@ Du avgör vilka typer av åtkomst dina användare har till Partnercenter efter d
 ||* Skapa supportärenden för Partnercenter
 ||* Visa partnersupportärenden som du skapar| 
 
-### <a name="control-panel-vendor-cpv-csp-role-and-non-azure-ad-role"></a>Kontrollpanelen Leverantör (CPV). (CSP-roll och icke-Azure AD-roll)
+### <a name="control-panel-vendor-cpv-csp-role-and-non-azure-ad-role"></a>Kontrollpanelen Vendor (CPV). (CSP-roll och icke-Azure AD-roll)
 
-CPV:er utvecklar appar för användning Molnlösningsleverantör CSP-partner (CSP) så att de kan integrera sina system med Partner Center-API:er. 
+CPV:er utvecklar appar för användning av CSP-partner så att de kan integrera sina system med Partner Center-API:er. 
 
 |**Role**   |**Det här kan du göra**|**Läs mer**|
 |------------------------------|:----------------------------|----|
-|Global administratör| Visa och hantera din CPV-profil|[Registrera dig som en Kontrollpanelen leverantör för att integrera CSP-partnersystem med Partner Center-API:er](enroll-as-cpv.md)
+|Global administratör| Visa och hantera din Kontrollpanelen leverantörsprofil (CPV)|[Registrera dig som en Kontrollpanelen leverantör för att integrera CSP-partnersystem med Partner Center-API:er](enroll-as-cpv.md)
 ||Visa och hantera alla användare som behöver åtkomst till CPV-funktioner|
 
-### <a name="guest-user-must-be-added-to-the-azure-active-directory-tenant"></a>Gästanvändare (måste läggas till i Azure Active Directory klienten)
+### <a name="guest-user-must-be-added-to-the-azure-ad-tenant"></a>Gästanvändare (måste läggas till i Azure AD-klientorganisationen)
 
 |**Gästanvändare**   | **Roller**|
 |---------------------------|:--------------------|
 ||MPN-partneradministratör|
-||Administratör för företagsprofil|
+||Företagsprofiladministratör|
 ||Referensadministratör|
 
 
 ## <a name="manage-mpn-membership-and-your-company"></a>Hantera MPN-medlemskap och ditt företag 
 
-Dessa roller är inte Azure Active Directory roller. De här rollerna hanterar företagets verksamhet i stället för klientorganisationen.
+Dessa roller är inte Azure AD-roller. De här rollerna hanterar företagets verksamhet i stället för klientorganisationen.
 
 |**Role** | **Det här kan du göra**|**Läs mer**|
 |----------------------------|:----------------------------|-----|
@@ -118,7 +118,7 @@ Dessa roller är inte Azure Active Directory roller. De här rollerna hanterar f
 ||* Visa partnersupportärenden som du skapar
 |Kontoadministratör| Lägga till platser|[Hantera platser](manage-locations.md)
 || Hantera profiler relaterade till de konton som du är administratör för 
-||* Tilldela roller för användare i klientorganisationen till icke-Azure-Active Directory-roller 
+||* Tilldela roller för användare i klientorganisationen till icke-Azure-AD-roller 
 ||* Registrera platser i program
 ||* Skapa supportärenden för Partnercenter
 ||* Visa partnersupportärenden som du skapar
@@ -131,13 +131,13 @@ Dessa roller är inte Azure Active Directory roller. De här rollerna hanterar f
 ||    Kan visa och redigera alla möjligheter till säljförsäljning och leads
 ||    Kan tilldela teammedlemmar för ett avtal
 ||    Kan visa och redigera företagsprofiler
-||    Kan visa och registrera avtal för affärsmöjligheter som markerats som vann och berättigade till avtalsregistrering
+||    Kan visa och registrera avtal för affärsmöjligheter som har markerats som vann och berättigade till avtalsregistrering
 ||    Kan skapa och visa supportärenden
 |Referensanvändare|Skapa och hantera möjligheter till säljförsäljning endast om de ingår i teamet |[Hantera möjligheter till säljsamarbete](manage-co-sell-opportunities.md)
 ||    Kan skapa möjligheter till säljförsäljning för de platser där de tilldelas rollen.
-||    Kan visa och registrera avtal för affärsmöjligheter som markerats som vann och berättigade till avtalsregistrering om de är gruppmedlem.
+||    Kan visa och registrera avtal för affärsmöjligheter som har markerats som vann och berättigade till avtalsregistrering om de är gruppmedlem.
 ||    Kan skapa och visa supportärenden
-|Administratör för företagsprofil|Skapa och hantera företagsprofiler | [Hantera företagsprofiler](create-a-marketing-profile.md)
+|Företagsprofiladministratör|Skapa och hantera företagsprofiler | [Hantera företagsprofiler](create-a-marketing-profile.md)
 ||    Kan skapa och visa supportärenden
 
 Tillsammans med den nya referensanvändarrollen introducerar vi även platsomfånget för avtal. Tabellen nedan förklarar avtalsåtkomsten baserat på platsen.
@@ -171,8 +171,8 @@ Tillsammans med den nya referensanvändarrollen introducerar vi även platsomfå
 
 |**Role** | **Det här kan du göra**|**Läs mer**|
 |------------------------------|:-------------------------|---|
-|Visningsprogram för exekutiv rapport|Åtkomst till alla rapportdatauppsättningar, skapa partnersupportärenden, visa partnersupportärenden som du skapar|[Översikt över instrumentpanelsrapporter som är tillgängliga i Partner Center Insights](pci-overview-report.md)
-|Rapportvisningsprogram|Åtkomst till datarapporter med undantag för intäkter och personliga data för kunder och anställda, skapa partnersupportärenden, visa partnersupportärenden som du skapar|
+|Rapportvisningsprogram för chefer|Åtkomst till alla rapportdatauppsättningar, skapa partnersupportärenden, visa partnersupportärenden som du skapar|[Översikt över instrumentpanelsrapporter som är tillgängliga i Partner Center Insights](pci-overview-report.md)
+|Rapportvisningsprogram|Åtkomst till datarapporter med undantag för intäkter och kund- och medarbetares personliga data, skapa partnersupportärenden, visa partnersupportärenden som du skapar|
 
 ## <a name="next-steps"></a>Nästa steg
 

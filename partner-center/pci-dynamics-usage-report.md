@@ -8,18 +8,18 @@ description: Se vad du gör bra och var du kan förbättra användningen av Dyna
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c0b90fdeaf8bf1715d89221959aeb49e186d150
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 76a589037817707378e39f4301313eee7284422a
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277512"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565465"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Dynamics-användningsrapport som är tillgänglig från instrumentpanelen i Partnercenter Insights
 
 **Lämpliga roller:** Globala | Administratörsagent | Rapportvisningsprogram | Visningsprogram för exekutiv rapport
 
-Dynamics-användningsrapporten innehåller användningsdata för de Dynamics 365-prenumerationer som du sålde eller hanterar för dina kunder. Du kan visa följande avsnitt från Dynamics-användningsrapporten.
+Användningsrapporten för Dynamics innehåller användningsdata för de Microsoft Dynamics 365-prenumerationer som du sålde eller hanterar för dina kunder. Du kan visa följande avsnitt från Dynamics-användningsrapporten.
 
 - Sammanfattning
 - Dynamics-användning efter geografiskt område
@@ -28,7 +28,7 @@ Dynamics-användningsrapporten innehåller användningsdata för de Dynamics 365
 - Distribution av Dynamics-användning
 
  > [!NOTE]
- > Den här rapporten är tillgänglig från Insights-instrumentpanelen. Om du vill visa den här rapporten måste du ha tilldelats en viss roll i Partnercenter, till exempel Global administratör, Kontoadministratör, Rapportvisare eller Rapportvisningsprogram. Mer information finns i företagets globala administratör. Specifika typer av data i den här rapporten kan också vara tillgängliga endast för användare med privilegier för visningsprogrammet för verkställande rapporter.
+ > Den här rapporten är tillgänglig från Insights-instrumentpanelen. Om du vill visa den här rapporten måste du ha tilldelats en viss roll i Partnercenter, till exempel Global administratör, Kontoadministratör, Rapportvisare eller Visningsprogram för verkställande rapporter. Mer information finns i företagets globala administratör. Vissa typer av data i den här rapporten kan också vara tillgängliga endast för användare med behörighet som chefsrapportvisare.
 
 ## <a name="summary"></a>Sammanfattning
 

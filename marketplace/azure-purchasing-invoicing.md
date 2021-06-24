@@ -5,13 +5,13 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 01/18/2021
-ms.openlocfilehash: 11145280aad1ecd9777ec2fb7540e7d6479acfae
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.date: 06/22/2021
+ms.openlocfilehash: 0e79674825f8ab28fa4b0e68dd01c9c1b7e8c27a
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431554"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565193"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace köp
 
@@ -77,6 +77,8 @@ Att köpa ett erbjudande via Azure Marketplace kan misslyckas av olika orsaker. 
 1. Prenumerationen tillhör en Molnlösningsleverantör (CSP) och ISV:n avböjde att sälja via en CSP.
 1. Privat Marketplace har aktiverats för prenumerationen och erbjudandet finns inte med i listan över tillåtna erbjudanden.
 1. Erbjudandet är privat/förhandsversion för specifika kunder och prenumerationen finns inte med i listan över tillåtna kunder.
+
+Köp av Marketplace-erbjudanden kan misslyckas om det står i konflikt Azure Policy som definierats av Azure-administratören i din organisation. Du kan till exempel inte köpa Microsoft.SaaS om det inte finns i organisationens **lista över tillåtna.** Mer information finns i [Azure Policy dokumentation.](/azure/governance/policy/)
 
 ## <a name="next-steps"></a>Nästa steg
 

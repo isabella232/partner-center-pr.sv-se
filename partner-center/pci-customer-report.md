@@ -9,18 +9,18 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a9207e793865bcf7fa2f205fc69b0b5def65b4d
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: f1ec30db0d568c7477b6fba9639e6481ffecaaf5
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152910"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565533"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Kunders instrumentpanelsrapporter från Partner Center Insights
 
 **Lämpliga roller:** Global | Administratörsagent | Rapportvisningsprogram | Rapportvisningsprogram för chefer
 
-Instrumentpanelen Kunder visar data om dina kunder som antingen har köpt molnprodukter som Office, Azure, Dynamics osv. via dig eller använt dig för att distribuera och hantera dessa produkter i sina klienter. 
+Instrumentpanelen Kunder visar data om dina kunder som antingen har köpt molnprodukter som Office, Azure och Dynamics. via dig eller använt dig för att distribuera och hantera dessa produkter i deras klienter. 
  
 Instrumentpanelen Customers (Kunder) innehåller följande avsnitt: 
 
@@ -34,7 +34,7 @@ Instrumentpanelen Customers (Kunder) innehåller följande avsnitt:
 
 ## <a name="summary"></a>Sammanfattning
 
-I sammanfattningsavsnittet visas en ögonblicksbild av olika KPI:er som är relaterade till dina kunder, till exempel kunder, aktiva kunder, prenumerationer, tillagda kunder, kunder som omsatts och kunder efter varje produkt. Sidnivåfilter gäller för varje avsnitt.
+I sammanfattningsavsnittet visas en ögonblicksbild av olika KPI:er (Key Performance Indicators) som är relaterade till dina kunder, till exempel kunder, aktiva kunder, prenumerationer, tillagda kunder, kunder som omsatts och kunder efter varje produkt. Sidnivåfilter gäller för varje avsnitt.
 
 :::image type="content" source="images/pci/customerproduct.png" alt-text="Skärmbild av instrumentpanelen För kundsammanfattning som visar stapeldiagram och antalet kunder som är aktiva, nyligen tillagda, förlorade/omsatta eller efter specifik produkt.":::
 
@@ -46,28 +46,28 @@ I sammanfattningsavsnittet visas en ögonblicksbild av olika KPI:er som är rela
 
 ### <a name="active-customers"></a>Aktiva kunder
 
-- Aktuellt antal kunder med aktiv produktanvändning, till exempel aktiv användning på någon av molnprodukterna.
+- Antal kunder med aktiv produktanvändning, till exempel aktiv användning på någon av molnprodukterna.
 - Tillväxt eller minskning % av aktiva kunder under den valda tidsperioden
-- Mikrodiagram visar en månad för månad-trend för antalet aktiva kunder under det valda datumintervallet.
+- Mikrodiagram visar en trend för antalet aktiva kunder under månaden över det valda datumintervallet.
 
 ### <a name="customers-added"></a>Kunder har lagts till
 
 - Antal kunder som lagts till under den valda tidsperioden.
-- Tillväxt eller minskning % av kunder som lagts till under det valda sate-intervallet.
+- Tillväxt eller minskning % av kunder som lagts till under det valda intervallet.
 - Mikrodiagram visar trenden månad för månad för kunder som lagts till under det valda datumintervallet.
 
 ### <a name="customers-churned"></a>Kunder som har omsnat
-- Antal kunder som omsörts varje månad under den valda tidsperioden. En kund anses vara förlorad om kunden inte har en enda prenumeration med aktiv status. 
+- Antal kunder som omsat varje månad under den valda tidsperioden. En kund anses vara förlorad om kunden inte har en enda prenumeration med aktiv status. 
 - Procent av kunderna som omsattes under det valda datumintervallet 
-- Mikrodiagram visar en månad för månad-trend för kunder som har omsörts under den valda tidsperioden 
+- Mikrodiagram visar en månad över månad-trend för kunder som har omratts under den valda tidsperioden 
  
 ### <a name="customers-by-products"></a>Kunder efter produkter
 
-- Aktuellt antal kunder som distribuerats i olika molnprodukter som O365, Azure, Dynamics osv.  
+- Antalet kunder som har distribuerats över de olika molnprodukterna, till exempel Office 365, Azure och Dynamics.  
 
-## <a name="geographical-spread-of-your-customers"></a>Geografisk spridning för dina kunder
+## <a name="geographical-spread-of-your-customers"></a>Geografisk spridning av dina kunder
 
-Antalet aktuella kunder, aktiva kunder och kunder som nyligen lagts till under det valda datumintervallet geo-mappas med hjälp av kundens land. Procentandelarna som visas under måttet anger det procentuella bidraget för det landet av totalsumman för det måttet. Du kan hovra över kartan om du vill visa totalt antal, aktiva och nya kunder för det landet. Du kan söka efter och välja ett land i rutnätet för att zooma till platsen på kartan. Återgå till ursprungsvyn genom att **välja knappen** Start på kartan. Alla kolumner i rutnätet är sorterbara.  
+Antalet aktuella kunder, aktiva kunder och kunder som nyligen lagts till under det valda datumintervallet geo-mappas med hjälp av kundens land. De procentandelar som visas under måttet anger procentandelen bidrag i det landet av totalsumman för måttet. Du kan hovra över kartan om du vill visa totalt antal, aktiva och nya kunder för det landet. Du kan söka efter och välja ett land i rutnätet för att zooma till platsen på kartan. Återgå till den ursprungliga vyn genom att **välja** knappen Start på kartan. Alla kolumner i rutnätet är sorterbara.  
 
 :::image type="content" source="images/pci/customersgeo.png" alt-text="Skärmbild av partnercenterinsikter, kundrapport efter geografiskt område, som visar världskarta och lista över totalt antal, tillagda och nya kunder efter region.":::
 
@@ -79,7 +79,7 @@ Trend för kunder med uppdelning i nya, befintliga och omsade för det valda dat
 
 ## <a name="customer-distribution"></a>Kunddistribution
 
-Uppdelning av dina aktuella kunder efter MPN-platser, kundsegment, försäljningskanal/Azure-prismodell och attributionstyp (till exempel DPOR, DAP). Välj respektive flikar ovanför diagrammet för att visa uppdelningen efter dessa kategorier. Du kan återskapa diagrammet genom att markera/avmarkera vissa dimensioner genom att välja förklaringsobjekten. 
+Uppdelning av dina aktuella kunder efter dina Microsoft Partner Network (MPN), kundsegment, försäljningskanal/Azure-prismodell och attributionstyp. Välj respektive flikar ovanför diagrammet för att visa uppdelningen efter dessa kategorier. Du kan återskapa diagrammet genom att markera/avmarkera vissa dimensioner genom att välja förklaringsobjekten. 
 
 ## <a name="customers-by-products"></a>Kunder efter produkter
 

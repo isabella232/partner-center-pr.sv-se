@@ -9,22 +9,22 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aea78f2a9b60f5d8adcc7962d15749479424c9f1
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: cca136670fa2891eea32e4561b97692ca98a77a9
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277495"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565414"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Översikt över instrumentpanelsrapporter som är tillgängliga i Partner Center Insights
  
 **Lämpliga roller:** Globala | Administratörsagent | Rapportvisningsprogram | Visningsprogram för exekutiv rapport
 
-Instrumentpanelen Insights Overview (Översikt över insikter) innehåller en ögonblicksbild av kpi:er som kunder, prenumerationer, Azure-förbrukningsintäkter och licenser. Du kan visualisera följande diagram i översiktsrapporten.
+Instrumentpanelen Insights Overview (Översikt över insikter) innehåller en ögonblicksbild av KPI:er (Key Performance Indicators), till exempel kunder, prenumerationer, Azure-förbrukningsintäkter och licenser. Du kan visualisera följande diagram i översiktsrapporten.
 
 - Sammanfattning  
 - Geografisk spridning av dina kunder, prenumerationer och licenser  
-- Kundtillväxttrend 
+- Tillväxttrend för kunder 
 - Trend för prenumerationstillväxt 
 - Trend för tillväxt av förbrukade Azure-intäkter 
 - Trend för licenstillväxt 
@@ -49,12 +49,12 @@ Området **Kunder** innehåller:
 
 Området **Azure-intäktsförbrukning (ACR)** i sammanfattningen innehåller:
 
-- Det totala Azure-intäktsförbrukning (i USA $) som du har tilldelats under det valda datumintervallet.
-- Den procentuella tillväxten eller minskningen i det tillskrivna ACR (i US $) under det valda datumintervallet.
-- Mikrodiagrammet visar en månatlig trend för ACR US$ som tilldelats dig över det valda datumintervallet 
+- Det totala ACR (i amerikanska dollar) som tilldelats dig under det valda datumintervallet.
+- Den procentuella tillväxten eller minskningen i ACR (i amerikanska dollar) under det valda datumintervallet.
+- Mikrodiagrammet visar en månatlig trend för ACR i amerikanska dollar som har tilldelats dig över det valda datumintervallet 
 
 > [!NOTE]
-> Azure-intäktsförbrukning (ACR)-data är tillgängliga för användare som har tilldelats rollen Som chef för rapportvisning 
+> ACR-data är tillgängliga för användare som har tilldelats rollen Som chef för rapportvisning.
  
 ### <a name="subscriptions-sold"></a>Sålda prenumerationer
 
@@ -68,7 +68,7 @@ Området **Sålda prenumerationer** i sammanfattningen innehåller:
 
 Området **Aktiva prenumerationer** i sammanfattningen innehåller:
 
-- Det aktuella antalet molnproduktprenumerationer med aktiv användning mätt baserat på produkttelemetri. Detta exkluderar alla utvärderingsprenumerationer för Azure-prenumerationer.  
+- Det aktuella antalet molnproduktprenumerationer med aktiv användning mätt baserat på produkttelemetri. Detta exkluderar alla Azure-utvärderingsprenumerationer.  
 - Procentandelen ökning av aktiva prenumerationer under det valda datumintervallet.
 - Mikrodiagrammet visar trenden månad för månad för aktiva prenumerationer under det valda datumintervallet.
  
@@ -82,11 +82,11 @@ Området **Licenser som distribueras** i sammanfattningen innehåller:
 
 ## <a name="geographical-spread-of-your-customers-subscriptions-and-licenses"></a>Geografisk spridning av dina kunder, prenumerationer och licenser
 
-Den här vyn är en geografisk fördelning av totalt antal kunder, prenumerationer och licenser per kundland. Välj de olika flikarna för att visa var och en av dessa insikter på kartan. Du kan söka efter och välja ett land i rutnätet för att zooma till platsen på kartan. Återgå till den ursprungliga vyn genom att trycka på knappen Start på kartan. Om du klickar på varje flik (till exempel Kunder, Prenumerationer) visas måttvärdet för varje land och procent av Total för landet.  
+Den här vyn är en geografisk fördelning av totalt antal kunder, prenumerationer och licenser per kundland. Välj de olika flikarna för att visa var och en av dessa insikter på kartan. Du kan söka efter och välja ett land i rutnätet för att zooma till platsen på kartan. Återgå till den ursprungliga vyn genom att trycka på knappen Start på kartan. Om du klickar på varje flik (till exempel Kunder, Prenumerationer) visas måttvärdet för varje land och procentandelen totalsumma för landet.  
 
 :::image type="content" source="images/pci/geosummary.png" alt-text="Geografisk sammanfattning.":::
 
-## <a name="customers-growth-trend"></a>Kundtillväxttrend
+## <a name="customers-growth-trend"></a>Tillväxttrend för kunder
 
 Månatlig trend för totalt antal kunder för det valda datumintervallet. X-axeln representerar månader för det valda datumintervallet och Y-axeln representerar det totala kundantalet för den månaden. 
 
@@ -100,10 +100,10 @@ Detta anger trenden för antalet kundprenumerationer för det valda datuminterva
 
 ## <a name="azure-consumed-revenue-growth-trend"></a>Azure-intäktsförbrukning tillväxttrend
 
-Månadstrend för Azure-förbrukade intäkter US$ som har tilldelats dig under det valda datumintervallet. X-axeln representerar månader för det valda datumintervallet och Y-axeln representerar den totala Azure-förbrukade intäkten US$ som du har tilldelats under månaden.
+Månatlig trend för Azure-förbrukade intäkter i amerikanska dollar som har tilldelats dig under det valda datumintervallet. X-axeln representerar månader för det valda datumintervallet och Y-axeln representerar den totala Azure-förbrukade intäkten i amerikanska dollar som tilldelats dig under månaden.
 
 > [!NOTE]
-> Azure-intäktsförbrukning (ACR) är bara synligt för användare som har tilldelats rollen Visningsprogram för verkställande rapporter. 
+> ACR är endast synligt för användare som har tilldelats rollen Som chef för rapportvisning. 
 
 :::image type="content" source="images/pci/azureconsumed.png" alt-text="Azure-förbrukning.":::
 

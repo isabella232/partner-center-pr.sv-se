@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf2663122ca95e8d610c8be792a26682ae1718bf
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: cd226122f8e69e0667006f274d2ef080bbe47b9b
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276322"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565431"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Rapport för produktprenumerationer som är tillgänglig från instrumentpanelen i Partnercenter Insights
 
@@ -32,7 +32,7 @@ Du kan visa följande avsnitt i rapporten Produktprenumerationer.
 - Produkttrend
 
  > [!NOTE]
- > Den här rapporten är tillgänglig från instrumentpanelen Insights. Om du vill visa den här rapporten måste du ha tilldelats en viss roll i Partnercenter, till exempel Global administratör, Kontoadministratör, Rapportvisningsprogram eller Visningsprogram för verkställande rapporter. Mer information finns i företagets globala administratör. Specifika typer av data i den här rapporten kan också vara tillgängliga endast för användare med privilegier i visningsprogrammet för verkställande rapporter.
+ > Den här rapporten är tillgänglig från instrumentpanelen Insights. Om du vill visa den här rapporten måste du ha tilldelats en viss roll i Partnercenter, till exempel Global administratör, Kontoadministratör, Rapportvisningsprogram eller Visningsprogram för verkställande rapporter. Mer information finns i företagets globala administratör. Vissa typer av data i den här rapporten kan också vara tillgängliga endast för användare med privilegier för visningsprogrammet för chefsrapport.
 
 ## <a name="summary"></a>Sammanfattning
 
@@ -84,7 +84,7 @@ Det staplade stapeldiagrammet visar en analys av nya, befintliga och omkastade p
 
 ## <a name="subscription-distribution"></a>Prenumerationsdistribution
 
-I den här vyn visas en analys av dina aktuella prenumerationer efter mpn-platser, kundsegment, försäljningskanal/Azure-prismodell och attributionstyp (till exempel DPOR, DAP med flera). Välj respektive flikar för att visa uppdelningen efter dessa kategorier. Om du vill skapa cirkeldiagrammet med en analys av specifika objektkategorier väljer du de objektkategorierna i förklaringen.
+I den här vyn visas en analys av dina aktuella prenumerationer efter dina Microsoft Partner Network-platser (MPN), kundsegment, försäljningskanal/Azure-prismodell och attributionstyp. Välj respektive flikar för att visa uppdelningen efter dessa kategorier. Om du vill skapa cirkeldiagrammet med en analys av specifika objektkategorier väljer du de objektkategorierna i förklaringen.
 
 :::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="prenumerationsdistribution.":::
 
@@ -96,7 +96,7 @@ I den här vyn visas distributionen av dina aktuella kundprenumerationer efter p
 
 ## <a name="products-trend"></a>Produkttrend
 
-Den här vyn visar ett stapeldiagram och två cirkeldiagram. Stapeldiagrammet visar en månatlig trend för prenumerationer uppdelade efter kommersiella produkter, till exempel Azure, Office, Dynamics osv.
+Den här vyn visar ett stapeldiagram och två cirkeldiagram. Stapeldiagrammet visar en månatlig trend för prenumerationer uppdelade efter kommersiella produkter, till exempel Azure, Office och Dynamics.
 
 De två cirkeldiagrammen visar en uppdelning av dina aktuella kundprenumerationer. Det första cirkeldiagrammet delar upp prenumerationer efter produkter. Det andra cirkeldiagrammet delar upp prenumerationer efter SKU:er eller planer. När du väljer en  produkt i cirkeldiagrammet Produkter visar det intilliggande cirkeldiagrammet en uppdelning av produktens prenumerationer efter SKU:er.
 

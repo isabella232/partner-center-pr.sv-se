@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lär dig hur du visar dina affärsdata med hjälp av appen Partnercenteranalys för Power BI (för direkta partner i CSP).
+description: Lär dig hur du visar dina affärsdata med hjälp av appen Partnercenteranalys för Power BI (för direkta partner i programmet Molnlösningsleverantör (CSP).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
 author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96fe57f6e89928a69051c2e201c444882500b844
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 95eb018a3284d2de98c0ce6a9cd0ce6299d5571a
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855037"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112564989"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Visa dina affärsdata med PartnerCenter Analytics-appen för Microsoft Power BI
 
@@ -25,7 +25,7 @@ ms.locfileid: "109855037"
 
 ## <a name="view-your-business-data"></a>Visa dina affärsdata
 
-Hämta en visuell representation av dina affärsdata med appen Partnercenteranalys för Power BI, inklusive:
+Hämta en visuell representation av dina affärsdata med Partner Center Analytics-appen för Microsoft Power BI, inklusive:
 
 - Tillväxt av kundbasen, prenumerationer och licenser
 
@@ -39,7 +39,7 @@ Hämta en visuell representation av dina affärsdata med appen Partnercenteranal
 
 ### <a name="about-the-partner-center-analytics-app-preview-release"></a>Om förhandsversionen av Partner Center Analytics-appen
 
-- Den här appen är endast för direkta partner i Molnlösningsleverantör program. Andra partner i CSP (indirekta återförsäljare till exempel) kommer inte att kunna logga in.
+- Den här appen är endast för direkta partner i Molnlösningsleverantör-programmet (CSP). Andra partner i CSP (indirekta återförsäljare till exempel) kommer inte att kunna logga in.
 
 - Uppskattade kostnader är fakturerings-/fakturadata före skatt och är inte juridiskt bindningsbaserade. Uppskattade kostnader är endast avsedda att användas för datainsikter.
 
@@ -51,23 +51,23 @@ Hämta en visuell representation av dina affärsdata med appen Partnercenteranal
 
 ### <a name="business-insights-report"></a>Business Insights-rapport
 
-- **Kundklienter:** Antal distinkta Azure AD-klienter för kunder som har köpt prenumerationer
+- **Kundklienter:** Antal distinkta Azure Active Directory (Azure AD) för kunder som har köpt prenumerationer
 
-- **Nytt (senaste 30 dagarna)**: Nya kunder har köpt minst en prenumeration under de senaste 30 dagarna
+- **Ny (senaste 30 dagarna):** Nya kunder har köpt minst en prenumeration under de senaste 30 dagarna
 
-- **Omsättning (senaste 30 dagarna):** Kunder utan "aktiva", "i respit" eller "inaktiverade" prenumerationer
+- **Omsättning (senaste 30 dagarna):** Kunder utan prenumerationer som är "aktiva", "i respit" eller "inaktiverade"
 
-- **Nytt (senaste 24 timmarna)**: Nya kunder har köpt minst en prenumeration under de senaste 24 timmarna
+- **Ny (senaste 24 timmarna)**: Nya kunder har köpt minst en prenumeration under de senaste 24 timmarna
 
-- **Uppskattad månatlig kostnad under de senaste 12** månaderna: Månads- och månadstrend för beräknat belopp före skatt i dollar aggregerat månadsvis under de senaste 12 månaderna
+- **Uppskattad månadskostnad under de senaste 12** månaderna: Månad över månad-trend för beräknat belopp före skatt i dollar aggregerat månadsvis under de senaste 12 månaderna
 
-- **Uppskattad kostnad per produkt under de senaste 12** månaderna: Produkter som sålts sorterade efter beräknat fakturabelopp före skatt aggregerat under de senaste 12 månaderna. Den här statusen anger de främsta produkterna som har störst intäkter.
+- **Uppskattad kostnad per produkt under de senaste 12** månaderna: Produkter som sålts sorterade efter beräknat belopp före skatt som aggregerats under de senaste 12 månaderna. Den här statusen anger de främsta produkterna som ger mest intäkter.
 
-- **Kunder under de senaste 12 månaderna:** Månad över månad-trenden för nya kunder och omsättningskunder aggregerade månadsvis under de senaste 12 månaderna
+- **Kunder under de senaste 12** månaderna: Trenden månad för månad för nya kunder och omsättningskunder aggregerats månadsvis under de senaste 12 månaderna
 
-- **Uppskattad kostnad per kund under de senaste 12** månaderna: Kunder sorterade efter beräknat belopp i dollar före skatt aggregerat under de senaste 12 månaderna. Den här statusen anger att de främsta kunderna har störst intäkter.
+- **Uppskattad kostnad per kund under de senaste 12** månaderna: Kunder sorterade efter beräknat belopp före skatt som aggregerats under de senaste 12 månaderna. Den här statusen anger att de främsta kunderna har störst intäkter.
 
-- **Antal kunder efter produkt:** Produkter sålda sorterade efter associerade kunder. Den här statusen anger de främsta produkterna som sålts till de flesta kunder.
+- **Antal kunder efter produkt:** Sålda produkter sorterade efter associerade kunder. Den här statusen anger de främsta produkter som sålts till de flesta kunder.
 
 ### <a name="subscription-insights-report"></a>Prenumerationsinformationsrapport
 
@@ -81,7 +81,7 @@ Hämta en visuell representation av dina affärsdata med appen Partnercenteranal
 
 - **Förfallostatus:**
 
-  - Upphört: Prenumerationer som redan har upphört att gälla (där prenumerationens slutdatum har passerat)
+  - Har upphört att gälla: Prenumerationer som redan har upphört att gälla (där prenumerationens slutdatum har passerat)
 
   - Upphör att gälla efter 30 dagar: Prenumerationer som upphör att gälla efter 30 dagar (där prenumerationens slutdatum infaller efter de kommande 30 dagarna)
 
@@ -125,13 +125,13 @@ Hämta en visuell representation av dina affärsdata med appen Partnercenteranal
 
 ### <a name="licenses-usage-report"></a>Användningsrapport för licenser:
 
-- **Licenser tilldelade efter produkt:** Produkter sålda sorterade efter antal licenstilldelningar
+- **Licenser tilldelade efter produkt:** Sålda produkter sorterade efter antal licenstilldelningar
 
 - **Licenser som används efter produkt:** Sålda produkter sorterade efter licensanvändningsantal
 
-- **Kunddistribution av tilldelade licenser:**% fördelning av totalt antal kunder uppdelade i bucketar på 20 % intervall efter licenstilldelning %
+- **Kunddistribution av tilldelade licenser:**% fördelning av totalt antal kunder uppdelade i bucketar med 20 % intervall efter licenstilldelning %
 
-- **Kunddistribution av licenser som används:**% fördelning av det totala antalet kunder uppdelade i bucketar på 20 % intervall efter licensanvändning %
+- **Kunddistribution av licenser som används:**% fördelning av totalt antal kunder uppdelade i bucketar på 20 % intervall efter licensanvändning %
 
 - **Licenser som tilldelats av kunden:** Detaljerad vy över sålda licenser och licenser som tilldelats av kunder och produkter
 
@@ -139,15 +139,15 @@ Hämta en visuell representation av dina affärsdata med appen Partnercenteranal
 
 ### <a name="azure-insights-report"></a>Azure Insights-rapport:
 
-- **Användningsbaserade kunder under** de senaste 12 månaderna: Trenden månad för månad för nya användningsbaserade kunder och omsade användningsbaserade kunder aggregerade månadsvis under de senaste 12 månaderna
+- **Användningsbaserade kunder under** de senaste 12 månaderna: Trenden månad för månad för nya användningsbaserade kunder och omsättningsbaserade kunder aggregerade månadsvis under de senaste 12 månaderna
 
-- **Användningsbaserade prenumerationer under de senaste 12** månaderna: Trenden månad för månad för nya användningsbaserade prenumerationer och omsvlade användningsbaserade prenumerationer aggregerade månadsvis under de senaste 12 månaderna
+- **Användningsbaserade prenumerationer under de senaste 12** månaderna: Trenden månad för månad för nya användningsbaserade prenumerationer och omsade användningsbaserade prenumerationer aggregerade månadsvis under de senaste 12 månaderna
 
-- **Uppskattad kostnad för kundanvändning** under de senaste 60 dagarna: Användningsbaserade kunder sorterade efter beräknat belopp före skatt i dollar som aggregerats under de senaste 60 dagarna. Den här statusen anger de främsta användningsbaserade kunderna som har störst intäkter
+- Uppskattad kostnad för användning per kund under de **senaste 60** dagarna: Användningsbaserade kunder sorterade efter beräknat belopp före skatt i dollar aggregerat under de senaste 60 dagarna. Den här statusen anger de främsta användningsbaserade kunderna som har störst intäkter
 
-- Uppskattad kostnad för användning efter kategori under de **senaste 60** dagarna: Mäta kategorier av användningsbaserade prenumerationer sorterade efter beräknat belopp före skatt i dollar som aggregerats under de senaste 60 dagarna.
+- Uppskattad kostnad för användning efter kategori under de **senaste 60** dagarna: Mätarkategorier för användningsbaserade prenumerationer sorterade efter beräknat belopp före skatt som aggregerats under de senaste 60 dagarna.
 
-- Uppskattad kostnad för användning per prenumeration under de **senaste 60** dagarna: Användningsbaserade prenumerationer efter beräknat belopp före skatt i dollar aggregerat under de senaste 60 dagarna.
+- Uppskattad kostnad för användning per prenumeration under de **senaste 60** dagarna: Användningsbaserade prenumerationer efter beräknat belopp före skatt som aggregerats under de senaste 60 dagarna.
 
 - **Kundens uppskattade användningskostnad efter utgiftsbudget:** Kunder sorterade efter procentandel av den aktuella användningsbudgeten överskrider tröskelvärdet (100 %).
 

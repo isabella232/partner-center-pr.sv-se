@@ -9,39 +9,39 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1cf69258b507258e1186514c54fa11ebf8a57d36
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: d9eac83c2b2ef2d83b7b9aaec0c6dce7e24ee8b7
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854527"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565055"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Priser och erbjudanden för Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure med mera
 
 
 **Lämpliga roller:** Globala | Administratörsbehörighet för | Administratörsagent | MPN-partneradministratör | Försäljningsagent | Faktureringsadministratör
 
-Om du vill se Molnlösningsleverantör senaste programmen och erbjudandena går du till Sell > Pricing and Offers (Sälja på partnerportalens **instrumentpanel).** Du hittar separata prislistor för de olika typer av produkter som är tillgängliga. Följande prislistor finns på sidan **Priser och** erbjudanden:
+Om du vill se de Molnlösningsleverantör programmen och erbjudandena (CSP) från instrumentpanelen i Partnerportal går du **till Sälj > priser och erbjudanden.** Du hittar separata prislistor för de olika typer av produkter som är tillgängliga. Följande prislistor finns på sidan **Priser och** erbjudanden:
 
-- **Licensbaserade tjänster innehåller** prisinformation för Office 365, Enterprise Mobility och Security E3, samt och Dynamics 365. Avsnittet licensbaserad prissättning innehåller aktuella priser och förhandsgranskningspriser samt erbjudandelistematrisen. Prislistorna innehåller listpris och uppskattade detaljhandelspriser (ERP) för erbjudanden i alla valutor som stöds. Erbjudandelistans matris innehåller marknadstillgänglighet och annan viktig information om erbjudandena. De här filerna uppdateras den första dagen i varje månad.
-- **Användningsbaserade tjänster** innehåller prisinformation för Microsoft Azure och Visual Studio. Du kan också använda [Azure-tjänsterna i priskalkylatorn för CSP.](https://azure.microsoft.com/pricing/calculator/) Den användningsbaserade nedladdningen innehåller både CSP-prislistorna för alla valutor som stöds samt prisfilerna för delade tjänster i ERP. De här filerna uppdateras den första dagen i varje månad.
-- **Microsoft Azure reserverade instanser innehåller** prisinformation för alla valutor som stöds för reserverade Azure-instanser. I prisnedladdningen ingår även prissättningen för Delade tjänster i ERP. De här filerna uppdateras den första dagen i varje månad.
-- **Programvaruprenumerationer** inkluderar priser för termbaserade programvaruprenumerationer för alla valutor som stöds. Prisfilen innehåller alla valutor som stöds med listpris och MSRP. De här filerna uppdateras den första dagen i varje månad.
-- **Prissättningen för Azure-plan** innehåller prisinformation för förbrukningstjänster för Azure-plan samt reservationspriser för Azure-plan. Priserna är direkta priser eller ERP och kan hämtas för alla angivna marknaden som stöds. Data i dessa filer uppdateras varje dag.
-- **Växelkurser används** för att beräkna faktureringen som debiteras mellan USD och partners lokala valuta. Priserna uppdateras den första i varje månad och gäller för den angivna månaden som priserna är tillgängliga. De här filerna uppdateras den första dagen i varje månad.
-- **Marketplace** innehåller priser för ISV-lösningar från Microsofts kommersiella marknadsplats. Priserna hämtas per marknad. Data i dessa filer uppdateras varje dag.
+- **Licensbaserade tjänster innehåller** prisinformation för Office 365, Enterprise Mobility och Security E3 och Dynamics 365. Avsnittet licensbaserad prissättning innehåller aktuella priser och förhandsgranskningspriser samt erbjudandelistematrisen. Prislistorna innehåller listpris och uppskattade detaljhandelspriser (ERP) för erbjudanden i alla valutor som stöds. Erbjudandelistans matris innehåller marknadstillgänglighet och annan viktig information om erbjudandena. De här filerna uppdateras den första dagen i varje månad.
+- **Användningsbaserade tjänster** innehåller prisinformation för Microsoft Azure och Visual Studio. Du kan också använda [Azure-tjänsterna i priskalkylatorn för CSP.](https://azure.microsoft.com/pricing/calculator/) Den användningsbaserade nedladdningen innehåller både CSP-prislistorna för alla valutor som stöds och prisfilerna för delade tjänster i ERP. De här filerna uppdateras den första dagen i varje månad.
+- **Microsoft Azure reserverade instanser innehåller** prisinformation för alla valutor som stöds för reserverade Azure-instanser. I prisnedladdningen ingår även priser för delade tjänster i ERP. De här filerna uppdateras den första dagen i varje månad.
+- **Programvaruprenumerationer** inkluderar priser för termbaserade programvaruprenumerationer för alla valutor som stöds. Prisfilen innehåller alla valutor som stöds med listpris och tillverkarens föreslagna detaljhandelspris (MSRP). De här filerna uppdateras den första dagen i varje månad.
+- **Prissättningen för Azure-plan** innehåller prisinformation för azure-planförbrukningstjänster och reservationspris för Azure-plan. Priserna är direkta priser eller ERP och kan hämtas för alla angivna marknaden som stöds. Data i de här filerna uppdateras varje dag.
+- **Växelkurser används** för att beräkna fakturering som debiteras mellan USD och partnern i den lokala valutan. Priserna uppdateras den första i varje månad och gäller för den angivna månaden. De här filerna uppdateras den första dagen i varje månad.
+- **Marketplace** innehåller priser för oberoende programvaruleverantörer (ISV) från Microsofts kommersiella marknadsplats. Priserna hämtas per marknad. Data i de här filerna uppdateras varje dag.
 
 > [!Note] 
-> Endast CSP-partner med möjlighet att göra kan visa och ladda ned prislistor. Indirekta återförsäljare bör kontakta [sin CSP-leverantör för]( https://partner.microsoft.com/cloud-solution-provider/find-a-provider) att begära information om priser
+> Endast CSP-partner med möjlighet att göra en transact kan visa och ladda ned prislistor. Indirekta återförsäljare bör kontakta [sin CSP-leverantör för]( https://partner.microsoft.com/cloud-solution-provider/find-a-provider) att begära information om priser
 
 ## <a name="price-list-preview-and-change-frequency"></a>Förhandsversion av prislista och ändringsfrekvens 
 
-Licensbaserade tjänster innehåller en förhandsversion av prislistan, som tillhandahålls 30 dagar före eventuella ändringar. Om du vill se förhandsversionen av prislistan går **du till > priser och erbjudanden.** Det finns ingen prisförhandsvisning för användningsbaserade tjänster eftersom dessa tjänster är dynamiska. I följande tabell förklaras hur du läser tabellen med prislistan.
+Licensbaserade tjänster innehåller en förhandsversion av prislistan, som tillhandahålls 30 dagar före eventuella ändringar. Om du vill se förhandsversionen av prislistan går **du till Sälj > priser och erbjudanden.** Det finns ingen prisförhandsvisning för användningsbaserade tjänster eftersom dessa tjänster är dynamiska. I följande tabell förklaras hur du läser tabellen med prislistor.
 
 |**Objekt**        |**Definition**      |
 |:-----------   |:-----------   |
 |Add   |Ett nytt objekt i prislistan|
-|CHG   |Ändringar i listpriset från månad till månad. Andra ändringar som inte är relaterade till listpris kan inträffa, partner bör jämföra prislistor mellan månader för att fastställa ändringar i andra egenskaper.|
+|CHG   |Ändringar i listpris från månad till månad. Andra ändringar som inte är relaterade till listpris kan inträffa, partner bör jämföra prislistor mellan månader för att fastställa ändringar i andra egenskaper.|
 |DEL   |Ett objekt som tagits bort från prislistan|
 |Unc   |Visa pris oförändrat från föregående månads prislista  |
 |Giltigt från datum   |Det första datumet då ett erbjudande kan beställas    |
@@ -50,8 +50,8 @@ Licensbaserade tjänster innehåller en förhandsversion av prislistan, som till
 |Erbjudande-ID   |Den interna identifieraren för erbjudandet   |
 |Licensavtalstyp   |Licensavtalstyper kan vara antingen företags-, myndighets- eller akademiskt. Avtalstypen avgör vilka kundtyper erbjudandet kan säljas till.|
 |Inköpsenhet   |Varaktigheten för erbjudandet som köps. Inköpsenheter är vanligtvis en månad.   |
-|Sekundär licenstyp   |Sekundära licenstyper är antingen icke-specifika, tillägg eller utvärderingsversion. Tillägg anger att det finns nödvändiga produkter som kunden måste köpa innan de köper tillägget.|
-|Slutkundtyp   |Relaterar tillbaka till licensavtalstypen: företagslicens – företagets molnåterförsäljare, myndighetslicens – molnåterförsäljares myndighetslicens eller akademisk licens – lärare och lärare i molnet eller molnåterförsäljare   |
+|Sekundär licenstyp   |Sekundära licenstyper är antingen icke-specifika, tillägg eller utvärderingsversion. Tillägg anger att det finns nödvändiga produkter som kunden måste köpa innan tillägget köps.|
+|Slutkundtyp   |Relaterar tillbaka till licensavtalstyp: företagslicens – företagets molnåterförsäljare, myndighetslicens – molnåterförsäljares myndighetslicens eller akademisk licens – lärare och lärare i molnet eller molnåterförsäljare   |
 |Listpris   |Det pris som partnern ska betala   |
 |ERP-pris   |Beräknat eller rekommenderat detaljhandelspris för kunden   |
 
@@ -59,9 +59,9 @@ Licensbaserade tjänster innehåller en förhandsversion av prislistan, som till
 
 Prisändringar är en vanlig förekomst. Partner kan förutse prisändringar för licensbaserade erbjudanden genom att titta på förhandsversionen av prislistan. På instrumentpanelen i Partnercenter öppnar du sidan Priser och erbjudanden för att se förhandsversionen av prislistan.
 
-Men Azures användningsbaserade priser har ingen förhandsversion. Partner kan hålla koll på prisändringarna för Azure-förbrukning med hjälp av RateCard-API:et, som returnerar dagens mätarpriser.
+Men Azures användningsbaserade priser har ingen förhandsversion. Partner kan hålla koll på prisändringarna för Azure-förbrukning med hjälp av RateCard-API:et, som returnerar dagens mätarpris.
 
-|**Typ av produkt**   |**Produktexempel**  |**Förhandsversion tillgänglig** |**Ändra information**|
+|**Typ av produkt**   |**Produktexempel**  |**Förhandsversion är tillgänglig** |**Ändra information**|
 |-----------------------|:-----------------------|:-------------------|------------------|
 |Licensbaserad|Office, Dynamics, Intune, Windows Enterprise|30 dagar|Visa prisändringar som markerats med CHNG i förhandsgranskningsprislistor|
 |Användningsbaserad|Azure-resurser|Inte tillgängligt|Ändringsloggen är tillgänglig i föregående månads prislistas flik **Ändringshistorik**|
@@ -82,17 +82,17 @@ CSP erbjuder vissa tjänster till särskilda marknadssegment, till exempel utbil
 |Education|Kund|Nej, kundkvalificering utförs av Microsoft |Licensbaserad endast|
 |Ideell|Kund|Nej, kunden kvalificerar utanför Partnercenter|Licensbaserad endast|
 |Government Community Cloud (GCC)|Partner och kund|När GCC har aktiverats kan partnern skapa GCC-kunder| Licensbaserad endast|
-|Azure Government|Partner|När partnern har kvalificerat sig fungerar den i en CSP-klientorganisation som är specifik för Azure Government|Azure-resurser|
+|Azure Government|Partner|När det har kvalificerat sig fungerar partnern i en CSP-klientorganisation som är specifik för Azure Government|Azure-resurser|
 
 Partnermarginaler, skillnaden mellan listpriset och de uppskattade detaljhandelspriserna, kan variera från segment till segment. Normalt tenderar utbildning och ideella organisationer att ha lägre eller inga marginaler för CSP-partner. Se den licensbaserade prislistan för exakta värden. 
 
-## <a name="add-on-offer-types"></a>Typer av tilläggserbjudande
+## <a name="add-on-offer-types"></a>Erbjudandetyper för tillägg
 
-Licensbaserade tjänster kan förvärvas antingen som baserbjudanden eller tillägg. Endast baserbjudanden kan upptäckas och köps via Partner Center-katalogen. Du måste tillämpa tillägg när du har köpt baserbjudandena. Kolumnen Sekundär licenstyp i den **licensbaserade prislistan** innehåller information om varje erbjudande och dess typ. Baserbjudanden har **icke-specifika** värden i kolumnen sekundär licenstyp i prislistan och kan köpas i katalogen. Sekundära licenstypvärden **för tillägg kan** inte köpas i katalogen. Så här köper du dessa tillägg:
+Licensbaserade tjänster kan förvärvas som antingen baserbjudanden eller tillägg. Endast baserbjudanden kan upptäckas och rensas via Partner Center-katalogen. Du måste använda tillägg när du har köpt baserbjudandena. Kolumnen sekundär licenstyp i **den licensbaserade prislistan** innehåller information om varje erbjudande och dess typ. Baserbjudanden har **icke-specifika** värden i kolumnen sekundär licenstyp i prislistan och kan köpas i katalogen. Sekundära licenstypvärden **för tillägg kan** inte köpas i katalogen. Så här köper du dessa tillägg:
 
 1. Läs erbjudandelistans matris om du vill se en lista över erbjudande-ID:er som måste köpas innan du kan köpa ett tillägg.
 2. Köpa baserbjudandet från katalogen
-3. Gå till kunden från kundlistan. Klicka på prenumerationen för baserbjudandet som du precis har köpt. På sidan Hantera prenumeration visas tillgängliga tillägg som kan tillämpas på baserbjudandet.
+3. Gå till kunden från kundlistan. Välj prenumerationen för baserbjudandet som du precis har köpt. På sidan Hantera prenumeration visas tillgängliga tillägg som kan tillämpas på baserbjudandet.
 
 > [!Note] 
 > Vissa baserbjudanden har **enhetstypens** **värden för tilläggslicenser**. För ett baserbjudande innebär det helt enkelt att du inte tilldelar användarlicenser efter köpet. Om erbjudandet kan köpas i katalogen är det ett **baserbjudande** oavsett enhetstyp i användargränssnittet.
@@ -105,21 +105,21 @@ Azure-reservationer är termbaserade inköp för den specifika resurstypen – V
 
 ## <a name="offers-matrix"></a>Erbjudandematris
 
-På sidan Priser och erbjudanden kan du visa erbjudandematrisen för molnåterförsäljare för att läsa om de olika SKU:er och produktpaket som du kan sälja. Erbjudandematrisen innehåller vilka erbjudanden som är tillgängliga per språk. Om ett objekt visas i prislistan men inte i erbjudandematrisen innebär det att produkterna inte kan beställas ännu. Så snart de är tillgängliga för beställning uppdateras erbjudandematrisen.
+På sidan Priser och erbjudanden visar du erbjudandematrisen för molnåterförsäljare för att läsa om de olika SKU:er och produktpaket som du kan sälja. Erbjudandematrisen innehåller vilka erbjudanden som är tillgängliga per språk. Om ett objekt visas i prislistan men inte i erbjudandematrisen innebär det att produkterna inte kan beställas ännu. Så snart de är tillgängliga för beställning uppdateras erbjudandematrisen.
 
 För CSP-partner som använder Partner Center Software Development Kits (SDK:er). Microsoft publicerar också en lista över Azure-tjänster i CSP på sidan Priser och erbjudanden.
 
-### <a name="offers-matrix-and-price-list-questions"></a>Frågor om matriser och prislistor
+### <a name="offers-matrix-and-price-list-questions"></a>Frågor om erbjudandematris och prislista
 
 Om du har frågor om prislistan eller erbjudandematrisen skickar du en tjänstbegäran via Partnercenter.
 
 ## <a name="offer-limits"></a>Erbjudandebegränsningar
 
-Vissa licensbaserade erbjudanden har vissa regler och begränsningar som förbjuder flera köp för samma kund. Dessa regler gäller för de flesta utvärderingsversioner och många av erbjudandena för små företag. **Erbjudanden för små** företag definieras av de erbjudanden som har ett högsta antal licenser som är mindre än 300.
+Vissa licensbaserade erbjudanden har vissa regler och begränsningar som förbjuder flera köp för samma kund. Dessa regler gäller för de flesta utvärderingsversioner och många av erbjudandena för små företag. **Erbjudanden för små** företag definieras av de erbjudanden som har ett maximalt licensantal som är mindre än 300.
 
-Dessa köpbegränsningar definieras som en del av erbjudandekonfigurationen och finns i matrisen med erbjudandelistor. Två kolumner med data fungerar tillsammans för att definiera tvingande: 1. Erbjudandegränsomfång och 2. Erbjudandegräns. Begränsningarna tillämpas under ett köp. Katalogen i Partnercenter tillåter inte att en partner köper fler erbjudanden än reglerna tillåter. Om du försöker bryta mot begränsningarna resulterar det i ett fel.
+Dessa köpbegränsningar definieras som en del av erbjudandekonfigurationen och finns i erbjudandelistans matris. Två kolumner med data fungerar tillsammans för att definiera tvingande: 1. Erbjudandegränsomfång och 2. Erbjudandegräns. Begränsningarna tillämpas under ett köp. Katalogen i Partnercenter tillåter inte att en partner köper fler erbjudanden än reglerna tillåter. Alla försök att bryta mot begränsningarna resulterar i ett fel.
 
-Erbjudandegränsomfång registreras som en kolumn i matrisen med erbjudandelistan och kan ha värdena Ingen, Livslängd eller Samtidig. 
+Erbjudandegränsomfång registreras som en kolumn i erbjudandelistans matris och kan ha värdena Ingen, Livslängd eller Samtidig. 
 
 - Erbjudanden med **Ingen** kan köpas utan begränsningar.
 - **Livstidserbjudanden** kan bara köpas en gång.
@@ -163,18 +163,18 @@ Nedan visas en sammanfattning av hur dessa erbjudanden fungerar:
 
 ## <a name="estimated-retail-price-erp"></a>Beräknat detaljhandelspris (ERP)
 
-De flesta prislistor innehåller ett listpris, det pris som partnern faktureras och det uppskattade detaljhandelspriset. ERP (Estimated Retail Price) kallas även Microsofts föreslagna detaljhandelspris eller MSRP. Dessa två värden, ERP och MSRP, representerar det uppskattade marknadsvärdet för produkterna om en kund skulle köpa produkterna direkt från Microsoft. Nedan visas var du hittar ERP/MSRP-information för varje typ av produkt eller tjänst. 
+De flesta prislistor innehåller ett listpris, det pris som partnern faktureras och det uppskattade detaljhandelspriset. Erp (Estimated retail price) kallas även Microsofts föreslagna detaljhandelspris eller MSRP. Dessa två värden, ERP och MSRP, representerar det uppskattade marknadsvärdet för produkterna om en kund skulle köpa produkterna direkt från Microsoft. Nedan visas var du hittar ERP-/MSRP-information för varje typ av produkt eller tjänst. 
 
 
 |**Produkt eller tjänst**        |**Prislista för ERP och MSRP**      |
 |:-----------   |:-----------   |
 |Produkt eller tjänst  |Prislista för ERP och MSRP  |
-|Licensbaserade tjänster  |Anges som ERP i de licensbaserade prislistorna  |
+|Licensbaserade tjänster  |Anges som ERP i licensbaserade prislistor  |
 |Användningsbaserade tjänster i Azure  |Finns i motsvarande prislistor för delade tjänster  |
 |Azure-reservationer  |Finns i motsvarande prislistor för delade tjänster  |
-|Användningsbaserad för Azure-plan  |Priserna är icke-rabatterade i prismallar  |
-|Reservationer för Azure-plan  |Referera till prislistor för delade Azure-reservationer  |
-|Programvaruprenumerationer  |Visas som MSRP i programvaruprenumerationers prislistor  |
+|Användningsbaserad azure-plan  |Priserna är detaljhandel, inte rabatterade i prismallar  |
+|Azure-planreservationer  |Referera till prislistor för delade Azure-reservationer  |
+|Programvaruprenumerationer  |Listad som MSRP i prislistor för programvaruprenumerationer  |
 |Marketplace  |Visas som MSRP i Marketplace-prislistor  |
 
 Fler resurser: 
