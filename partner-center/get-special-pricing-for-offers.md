@@ -9,34 +9,35 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38985e48923bb0a3c6ad54eb600a44d419b5ad85
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: e715ec2c787ea3df623256904f8af1e7d8f4e9c8
+ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150802"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112915583"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Sälj till specialiserade branscher såsom utbildning, ideella organisationer och myndighetsanvändare
 
-**Lämpliga roller:** Global | Administratörsagent | Försäljningsagent
+**Lämpliga roller:** Globala | Administratörsagent | Försäljningsagent
 
-Microsoft erbjuder särskilda, reducerade priser för utvalda grupper av kunder, inklusive utbildningskunder, ideella kunder, små företag och myndigheter. Både du och kunden måste vara kvalificerade innan du kan erbjuda dem särskilda priser. Dessa specialerbjudanden är för närvarande **endast tillgängliga för licensbaserade** tjänster som Microsoft 365, Dynamics, Intune osv. Den är inte tillgänglig för andra typer (programvaruprenumerationer, permanent programvara eller Azure-produkter).
+Microsoft erbjuder särskilda, reducerade priser för utvalda grupper av kunder, inklusive utbildningskunder, ideella kunder, små företag och myndigheter. Både du och kunden måste vara kvalificerade innan du kan erbjuda dem specialpriser. Dessa specialpriser är för närvarande **endast tillgängliga för licensbaserade tjänster** som Microsoft 365, Dynamics, Intune osv. Den är inte tillgänglig för andra typer (programvaruprenumerationer, permanent programvara eller Azure-produkter).
 
 ## <a name="requirements-to-sell-to-specialized-industries"></a>Krav för att sälja till specialiserade branscher
 
-|**Specialpriser**   |**Kvalificering som krävs av återförsäljare**   |**Kundkvalifikationer som krävs**   |
+|**Specialpriser**   |**Nödvändiga utbildningsmeriter för återförsäljare**   |**Kundkvalifikationer som krävs**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Education   |Ingen   | Måste vara en [kvalificerad utbildningsanvändare.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)   |
-|Myndigheter   |Om du vill sälja Azure registrerar du med hjälp av [formuläret Microsoft US Government Cloud Validation](https://azuregov.microsoft.com/csp). För att sälja licensbaserade prenumerationer till myndigheter krävs ingen kvalificering.|   Ingen|
-|Ideell verksamhet  |Ingen<br/> Måste ha en ideell Azure Active Directory klientorganisation.<br/> Läs mer om [specialerbjudanden för ideella föreningar](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Registrera dig via [Microsofts program för ideella organisationer för](https://nonprofit.microsoft.com/#/register) att bli berättigad.   |
+| Amerikanska federala myndigheter   |Om du vill sälja Azure registrerar du dig med hjälp [av formuläret Microsoft US Government Cloud Validation.](https://azuregov.microsoft.com/csp) För att sälja licensbaserade prenumerationer till myndigheter krävs ingen kvalificering.|   Ingen|
+| Alla andra myndighetsentiteter | Ingen<br />Partner måste etableras med hjälp av "företagserbjudanden". | Ingen
+|Ideell verksamhet  |Ingen<br/> Måste ha en ideell Azure Active Directory klientorganisation.<br/> Läs mer om [specialerbjudanden för ideella föreningar](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Registrera dig via [Microsofts ideella program för att](https://nonprofit.microsoft.com/#/register) bli berättigad.   |
 
 ## <a name="check-your-reseller-qualifications"></a>Kontrollera dina återförsäljarkvalifikationer
 
-Följande steg gäller endast för indirekta leverantörer och direktfaktureringspartner. Indirekta återförsäljare måste ansluta till en indirekt leverantör för att leverera akademiska erbjudanden till kvalificerade utbildningsanvändare.
+Följande steg gäller endast för indirekta leverantörer och direktfaktureringspartner. Indirekta återförsäljare måste kontakta en indirekt leverantör för att leverera erbjudanden till akademiska priser till kvalificerade utbildningsanvändare.
 
 1. På instrumentpanelen i [Partnercenter](https://partner.microsoft.com/dashboard)väljer du kugghjulsikonen i det övre högra hörnet i fönstret för att **öppna Kontoinställningar.**
 
-2. I din **juridiska profil** går du till **avsnittet Programinformation och** letar efter **återförsäljarkvalifikationer.**
+2. I din **juridiska profil** går du till **avsnittet Programinformation** och letar efter **återförsäljarkvalifikationer.**
 
 3. Om du inte ser **återförsäljarkvalifikationer** har du ännu inte fått behörighet att köpa specialerbjudanden.
 
@@ -63,18 +64,17 @@ Partner kan bara sälja specialerbjudanden till kunder om de uppfyller vissa kri
 
 Köpregler för att sälja specialerbjudanden till kunder:
 
-|**Kundtyp**   |**Kan säljas**   |**Kan inte säljas**   |
+|**Kundtyp**   |**Kan säljas**   |**Det går inte att sälja**   |
 |:----------------------------|:---------------------------------|:------------------------------------------|
-| Kommersiellt |Kommersiellt | Ideella organisationer, utbildning eller Government Community Cloud |
+| Kommersiellt |Kommersiellt | Ideell verksamhet, utbildning eller Government Community Cloud |
 | Ideell |Kommersiell, Ideell | Utbildning eller Government Community Cloud |
 | Education |Commercial, Education | Ideella organisationer eller Government Community Cloud |
-| Government Community Cloud |Government Community Cloud | Ideell verksamhet, utbildning eller kommersiell |
-| Tillståndsägd entitet  | Kommersiellt  | Ideella organisationer, utbildning eller Government Community Cloud  |
+| Government Community Cloud |Government Community Cloud | Ideella organisationer, utbildning eller kommersiella organisationer |
+| Tillståndsägd entitet  | Kommersiellt  | Ideell verksamhet, utbildning eller Government Community Cloud  |
 | If Education and State Owned Entity | Commercial, Education | Ideella organisationer eller Government Community Cloud |
-| Om tillståndsägd entitet och Government Community Cloud | Government Community Cloud | Ideell verksamhet, utbildning eller kommersiell |
+| Om tillståndsägd entitet och Government Community Cloud | Government Community Cloud | Ideella organisationer, utbildning eller kommersiella organisationer |
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Sälja Minecraft: Education Edition prenumerationer till utbildningskunder](minecraft-subscriptions.md)
-
+- [Sälja Minecraft: Education Edition-prenumerationer till utbildningskunder](minecraft-subscriptions.md)
 - [Välkommen till Partnercenter för Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
