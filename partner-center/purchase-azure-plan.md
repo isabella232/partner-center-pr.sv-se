@@ -9,14 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ab23e04afd3ffd5c287cc057aa51e872ab725f4d
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: e0a5626c4c1efd5eb07a8e948694b84d48b66f3b
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551188"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013343"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Köp Azure-planen för kunder & få åtkomst till de senaste Azure-tjänsterna till Betala enligt användning-priser
+
+**Gäller för:** Partnercenter 
 
 **Lämpliga roller:** Globala | Administratörsbehörighet för | Försäljningsagent
 
@@ -24,7 +26,7 @@ När du köper en Azure-plan för dina kunder under Microsoft-kundavtal får du 
 
 ## <a name="countryregion-availability"></a>Tillgänglighet för land/region
 
-Den nya handelsupplevelsen i CSP för Azure är schemalagd att vara tillgänglig i 139 länder. Se den fullständiga listan över dessa [länder/regioner.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x) 
+Den nya handelsupplevelsen i CSP för Azure är schemalagd att vara tillgänglig i 139 länder. Se en fullständig lista över dessa [länder/regioner.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x) 
 
 ## <a name="how-to-purchase-azure-plan"></a>Så här köper du en Azure-plan
 
@@ -60,7 +62,7 @@ Du kommer tillbaka till **sidan Lägg till** en produkt där du kan se att Azure
 
 ## <a name="purchase-azure-reservations-under-the-azure-plan"></a>Köpa Azure-reservationer enligt Azure-planen 
   
-Du kan också köpa Microsoft Azure-reservationer under Azure-plan åt dina kunder i Partnercenter. (Eller, om du vill, kan du ge dina kunder behörighet att köpa sina egna [Azure-reservationer](give-customers-permission.md) från en tidigare prenumeration som du har köpt för dem.)
+Du kan också köpa Microsoft Azure under Azure-plan åt dina kunder i Partnercenter. (Eller, om du vill, kan du ge dina kunder behörighet att köpa sina egna [Azure-reservationer](give-customers-permission.md) från en tidigare prenumeration som du har köpt för dem.)
 
 1. I menyn i Partnercenter på [instrumentpanelen](https://partner.microsoft.com/dashboard/)väljer du **Kunder.** Hitta den kund som vill köpa Azure-reservationer och välj sedan nedåtpilen för att expandera kundens rad.
 

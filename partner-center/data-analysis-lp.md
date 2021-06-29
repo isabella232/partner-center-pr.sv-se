@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1693545449abf33bc7a4f5216b7d6ef0d5713829
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: ae31e7d917e96763e107212a78f28bfa10acf2f4
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276866"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013326"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Använd analys för att lära dig mer om prenumerationsintäkter
 
@@ -31,9 +31,9 @@ När du planerar sätt att utveckla CSP-verksamheten behöver du vara införstå
 
 :::image type="content" source="images/analytics/subscription1.png" alt-text="Prenumerationsskärmen.":::
 
-## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Intäkter från Twelve-Month CSP (TTM)
+## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Intäkter för Twelve-Month CSP (TTM)
 
-Avslutande 12 månaders CSP-intäkter representerar de avslutande Molnlösningsleverantör i USD på partnerns globala kontonivå. Data uppdateras den åttonde i varje månad för att visa de avslutande tolvmånadsintäkterna fram till föregående månad. Den 9 september 2020 bör du till exempel kunna se TTM för den fasta perioden september 2019 till augusti 2020.
+Avslutande 12 månaders CSP-intäkter representerar de avslutande Molnlösningsleverantör i USD på partnerns globala kontonivå. Data uppdateras den åttonde i varje månad för att visa de avslutande tolvmånadersintäkterna fram till föregående månad. Den 9 september 2020 bör du till exempel kunna se TTM för den fasta perioden september 2019 till augusti 2020. Programvaruprenumerationer undantas. TTM-intäkter återspeglar endast de berättigade intäkter som fakturorna redan har betalats för. 
 
 Intäkterna som visas i Partnercenter beräknas för ett fast tidsintervall på 12 månader och kan inte ändras till en kortare tidsram.
 
@@ -52,8 +52,8 @@ Den nedre halvan av skärmen visar en sammanfattning av prenumerationerna. Anvä
 
 - 30D – Senaste 30 dagarna
 - 3M – Senaste 3 månaderna
-- 6 M – Senaste 6 månaderna
-- 12 M – Senaste 12 månaderna
+- 6M – Senaste 6 månaderna
+- 12M – Senaste 12 månaderna
 
 2. **Produkttyp:**
  
