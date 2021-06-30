@@ -1,85 +1,83 @@
 ---
 title: Registrera dina avtal
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 06/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: När du registrerar ett avtal som du har vunnit i Partnercenter hjälper det Microsoft att ge dig fler möjligheter i framtiden.
 author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
-ms.custom: SEOMAY.20
-ms.openlocfilehash: 4709236b8887bc262cac3bf36b5dd7fcf3c17c92
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: eaa9bb6f8e57033669ef584e7c52c0d050a532e0
+ms.sourcegitcommit: 8235c89e789cdb5115fc1c19151fa8e97c743fe5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551154"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "113080673"
 ---
-# <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Registrera avtal som du har vunnit i Partnercenter så att du kan få fler möjligheter senare
+# <a name="register-deals-youve-won-in-partner-center"></a>Registrera avtal som du har vunnit i Partnercenter
 
 **Lämpliga roller:** Referensadministratör
 
 Du kan registrera avtal som du har vunnit i Partnercenter genom att ange ytterligare information om kontraktet. Den här informationen hjälper oss att ge dig fler möjligheter i framtiden.
 
-När du har valt  Won (Vann) i hänvisningssvarsprocessen för vissa berättigade lösningar uppmanas du att ange ytterligare information för att registrera ditt avtal. [](manage-leads.md) Microsoft granskar den information du anger och kan be om mer information under granskningsprocessen.
+Det finns två vägar som leder till avtalsregistrering:
 
-Du kan också registrera nya avtal som du har vunnit och som använder en av dina lösningar, även om de inte har sitt ursprung via en [hänvisning.](referrals.md)
+- Du har skapat ett nytt avtal i **avsnittet Möjligheter till säljförsäljning** och ditt avtal uppfyller villkoren för avtalsregistrering.
+- Du vill rapportera ett stängt ISV Connect-avtal som inte samsåldes med Microsoft.
 
-## <a name="register-a-new-deal"></a>Registrera ett nytt avtal
+## <a name="register-a-deal-originating-from-a-co-sell-opportunity"></a>Registrera ett avtal som kommer från en möjlighet till säljförsäljning
 
-Om du vill registrera ett nytt **IP-avtal** för säljavtal går du till respektive möjlighet till säljförsäljning och väljer **Registrera** avtal i avsnittet "ditt företags avtals förlopp".
+Om du vill registrera ett avtal som kommer från en möjlighet till säljförsäljning måste ditt avtal uppfylla följande behörighetskrav:
 
-Ange **följande information på** avtalsutkastssidan.
+- Avtalstypen är antingen samförsäljning eller partnerledd (du har valt att tillåta att Microsoft-säljare ser det här avtalet).
+- Det finns minst en incitamentberättigad lösning i avtalet. En lösning är incitamentberättigad om den innehåller minst en av följande taggar:
+  - Azure IP-sälj
+  - Business Applications Premium
+  - Business Applications Standard
+- Statusen för avtalet är "Won".
+- Om avtalstypen är säljinbjudan måste Microsoft antingen ha accepterat inbjudan eller markerat avtalet som vunnit. Du kan se Microsoft-statusen genom att titta på Microsoft-kortet under din avtalsinformation.
 
-- **Marketplace-transaktionsstatus:** Markera kryssrutan för att skapa registrering för ett avtal som ska ske på Azure Marketplace.
-- **Marketplace-transaktionsdatum:** Om rutan relaterad till Marketplace-transaktionsstatus är markerad är det här fältet tillgängligt och måste konfigureras. Värdet är antingen ett tidigare transaktionsdatum eller ett beräknat framtida datum för transaktionen.
-- **Totalt kontraktsvärde:** Det totala förväntade värdet för engagemanget. Detta bör omfatta alla programvaru- och tjänstavgifter, men inte maskinvarukostnader. Se till att välja lämplig valuta.
-- **Lösningsvärde:** Det totala värdet för den molnlösning som ska användas för avtalet. Se till att inkludera alla kostnader som är kopplade till programvaru- och underhållsavgifter, men inkludera inte återbetalningsbara objekt, icke-återkommande anpassningsavgifter eller direkt kopplade Molnlösningsleverantör-licensavgifter (CSP) som betalas av Microsoft.
-- **Distribuerad den:** Välj **antingen Azure** eller **Annan**.
-- **Var ska lösningen distribueras?**: Välj antingen **kundklienten** eller **partnerklientorganisationen**.
-- **Signerat kontraktsdatum:** Det datum då det slutliga kontraktet signerades av din organisation och av kunden. För PAYG-avtal (betala per användning) använder du datumet för den första fakturan.
-- **Kontraktets startdatum:** Det datum då kontraktet börjar. För PAYG-avtal använder du datumet för den första fakturan. Partnercenter låter dig inte ange ett startdatum tidigare än kontraktstecknets datum. Detta kan påverka vissa avtal, till exempel IP-distributioner som startar före signeringsdatumet. För att kunna ingå dessa avtal använder du  kontraktsdatumet för både signeringsdatum- och startdatumfälten när du skickar in. (Kontraktet bör uttryckligen ange avtalets varaktighet så att ACV kan beräknas korrekt.)
-- **Kontraktslutdatum:** Ange det datumet om kontraktet slutar på ett visst datum. För PAYG-avtal använder du datumet för den senaste eller senaste fakturan.
-- **Kontraktstyp:** Gäller inte för IP-säljavtal.
-- **Registreringskontakt:** **Förnamn,** **Efternamn,** Telefonnummer och E-postadress **för** en person i din organisation som vi kan kontakta om vi behöver mer information om informationen som anges här. 
+Om du har uppfyllt behörighetskraven uppmanas du automatiskt att registrera ditt avtal med knappen **Registrera nu** som visas i förloppsfältet för avtalet:
 
-När du har slutfört alla avsnitt på sidan väljer du **Registrera**. Avtalsregistreringen flyttas sedan till **statusen Skickat.** Microsoft granskar sedan den information som du angav efter att avtalet har gått över **till Under granskningsstatus.** Du kan använda filtren för att visa avtal baserat på deras status.
+:::image type="content" source="images/register-deals.png" alt-text="Skärmbild som visar förloppsfältet för avtalet.":::
 
-Om du vill registrera ett stängt **ISV Connect-avtal** väljer **du +Rapportera stängt ISV Connect-avtal**
+> [!NOTE]
+> Om objektet **Avtalsregistrering** inte visas i förloppsfältet för avtalet uppfyller inte avtalet alla krav för avtalsregistrering.
 
-På **sidan Nytt avtal** anger du följande information.
+När du **klickar på** Registrera dig nu omdirigeras du till sidan Avtalsregistrering och uppmanas att fylla i ett formulär med ifyllt information för din kund och lösning. Fyll i formuläret med hjälp av anvisningarna nedan och klicka på **Registrera**.
 
-- **Kundinformation:** Ange **företagets namn** för kunden och välj **land/region.** Ange sedan **ort** och **delstat/provins.**
+Vid registreringen skapas en eller två avtalsregistreringsposter beroende på lösningen.
+
+- Om din lösning är berättigad till ISV Connect skapas en avtalsregistreringspost för ISV Connect. Den här avtalsregistreringsposten används för fakturering.
+- Om din lösning är berättigad till IP-säljincitament skapas en registreringspost för IP-avtal för säljförsäljning. Den här avtalsregistreringsposten kommer att granskas och godkännas eller avvisas av granskningsteamet för säljavtal.
+
+## <a name="report-a-closed-isv-connect-deal"></a>Rapportera ett stängt ISV Connect-avtal
+
+Om du vill rapportera ett stängt ISV Connect-avtal går du till **fliken Avtalsregistrering** och klickar **på + Rapportera stängt ISV Connect-avtal.** Fyll i de obligatoriska fälten och klicka på **Registrera**. Den här avtalsregistreringsposten används för fakturering.
+
+## <a name="fill-out-the-deal-registration-form"></a>Fyll i formuläret för avtalsregistrering
+
+> [!NOTE]
+> Du kan filtrera avtal efter kundnamn, status och avtalstyp. Det gör du genom att **klicka på** knappen Filter längst upp på sidan Avtalsregistrering.
+
+Oavsett om du har kommit till avtalsregistreringen från en möjlighet till säljförsäljning eller om du rapporterar ett stängt ISV Connect-avtal som inte har samförsäljningsförsäljning med Microsoft, uppmanas du att fylla i följande fält i formuläret för avtalsregistrering.
+
+- **Kundinformation:** Ange **företagets namn** för kunden och välj **land/region.** Ange sedan **ort och** **delstat/provins.**
 - **Lösning:** Välj den lösning som ska användas för avtalet. Kontakta supporten om du inte ser rätt lösning i listan.
-- **Kontrakttyp:** Ange om det här är **ett nytt** kontrakt eller **en förnyelse** av ett tidigare kontrakt.
-- **Totalt kontraktsvärde:** Det totala förväntade värdet för engagemanget. Detta bör omfatta alla programvaru- och tjänstavgifter, men inte maskinvarukostnader. Se till att välja lämplig valuta.
+- **Kontrakttyp:** Ange om det här avtalet är **ett nytt** kontrakt eller **en förnyelse** av ett tidigare kontrakt.
+- **Totalt kontraktsvärde:** Det totala förväntade värdet för engagemanget. Det här värdet ska innehålla alla programvaru- och tjänstavgifter, men inte maskinvarukostnader. Se till att välja lämplig valuta.
 - **Lösningsvärde:** Det totala värdet för den molnlösning som ska användas för avtalet. Se till att inkludera alla kostnader som är kopplade till programvaru- och underhållsavgifter, men inkludera inte återbetalningsbara objekt, icke-återkommande anpassningsavgifter eller direkt kopplade CSP-licensavgifter som betalas av Microsoft.
-- **Distribuerad den:** Välj **antingen Azure** eller **Annan**.
-- **Var ska lösningen distribueras?**: Välj antingen **kundklienten** eller **partnerklientorganisationen**.
-- **Kontraktets startdatum:** Det datum då kontraktet börjar. För PAYG-avtal använder du datumet för den första fakturan. Partnercenter låter dig inte ange ett startdatum tidigare än kontraktstecknets datum. Detta kan påverka vissa avtal, till exempel IP-distributioner som startar före signeringsdatumet. För att kunna ingå dessa avtal använder du kontraktstecknets datum för **både** signeringsdatum och startdatumfält när du skickar in. (Kontraktet bör uttryckligen ange avtalets varaktighet så att ACV kan beräknas korrekt.)
-- **Kontraktets slutdatum:** Om kontraktet slutar på ett visst datum väljer du **Har ett slutdatum och** anger det datumet. Om kontraktet inte har något specifikt slutdatum väljer du **Beständig**. För PAYG-avtal (betala per användning) använder du datumet för den senaste eller senaste fakturan.
-- **Signerat kontraktsdatum:** Det datum då det slutliga kontraktet signerades av din organisation och av kunden. För PAYG-avtal använder du datumet för den första fakturan.
-- **Registreringskontakt:** **Förnamn,** **Efternamn,** Telefonnummer och E-postadress **för** en person i din organisation som vi kan kontakta om vi behöver mer information om informationen som anges här. 
+- **Kommer lösningen att distribueras i Azure? Om inte väljer du Annat:** Välj **antingen Azure** eller **Annat.**
+- **Kommer förbrukningen av lösningen att köras på partnerklientorganisationen eller kundklientorganisationen?**: Välj antingen **kundklientorganisationen** eller **partnerklientorganisationen**.
+- **Kontraktets startdatum:** Det datum då kontraktet börjar. För pay-as-you-go-avtal (PAYG) använder du datumet för den första fakturan. Partnercenter låter dig inte ange ett startdatum tidigare än avtalstecknets datum. Detta kan påverka vissa avtal, till exempel IP-distributioner som börjar före signeringsdatumet. För att kunna genomföra dessa avtal använder du avtalstecknets datum **för både** signeringsdatum och startdatumfält när du skickar in. (Kontraktet bör uttryckligen ange avtalets varaktighet så att ACV kan beräknas korrekt.)
+- **Slutdatum för kontraktet:** Om kontraktet slutar på ett visst datum väljer du **Har ett slutdatum** och anger det datumet. Om kontraktet inte har något specifikt slutdatum väljer du **Beständiga**. För pay-as-you-go-avtal (PAYG) använder du datumet för den senaste eller senaste fakturan.
+- **Signerat kontraktsdatum:** Det datum då det slutliga kontraktet signerades av din organisation och av kunden. För pay-as-you-go-avtal (PAYG) använder du datumet för den första fakturan.
+- **Registreringskontakt:** **Förnamn,** **Efternamn,** Telefonnummer och  E-postadress för en person i din organisation som vi kan kontakta om vi behöver mer information om informationen som anges här. 
 
-När du har slutfört alla avsnitt på sidan väljer du **Registrera**. Avtalsregistreringen flyttas sedan till **sidan Pågår.** Microsoft granskar sedan den information som du har angett.
+När du har slutfört alla avsnitt på sidan klickar du på **Registrera**.
 
-Du kan använda filtren för att endast visa **ofullständiga eller** **uppdatera nödvändiga** avtalsregistreringar.
+- Om avtalet är ett ISV Connect-avtal ser du att statusen för avtalet är "Submitted, Completed" (Skickat, Slutfört). Ingen ytterligare åtgärd krävs för den här avtalsregistreringsposten. Den här posten används för fakturering.
+- Om avtalet är ett IP-säljavtal ser du att statusen för avtalet är "Skickat". Microsofts granskningsteam för säljavtal granskar den information som du angav i den här avtalsregistreringsposten. Granskningsteamet begär mer åtgärder från dig om det behövs eller godkänner/avvisar avtalet direkt.
+- Om du registrerar ett avtal som kommer från en möjlighet till säljförsäljning och du ser att två avtalsregistreringsposter har skapats, innebär det att lösningen i ditt avtal är berättigad för både ISV Connect och IP-sälj. ISV Connect-posten använder för fakturering. IP-säljeposten granskas av valideringsteamet för säljavtal.
 
-## <a name="viewing-active-and-closed-deal-registrations"></a>Visa aktiva och stängda avtalsregistreringar
-
-Du kan granska nya, aktiva och stängda avtalsregistreringar med olika tillstånd under Hänvisningar **> Avtalsregistrering** med hjälp av statusfiltret i filteravsnittet längst upp till höger på sidan.
-
-### <a name="action-required"></a>Åtgärd som krävs
-
-På sidan Avtalsregistreringar filtrerar du efter Åtgärd krävs tillstånd. Nya registreringar som ännu inte har registrerats eller som behöver uppdateras. Du kan använda filtren för att endast visa **ofullständiga eller** **uppdatera nödvändiga** avtalsregistreringar. **Ofullständiga** avtalsregistreringar är sådana som kommer från hänvisningar, men som inte har registrerats ännu. **Uppdatera nödvändiga** avtalsregistreringar är sådana som har skapats och registrerats, men som kräver att du uppdaterar den information som du har angett.
-
-### <a name="under-review"></a>Under granskning
-
-På sidan Deal registrations (Avtalsregistreringar) filtrerar du efter Under review state (Granska tillstånd) för de avtalsregistreringar som Microsoft granskar. Om vi behöver ytterligare information använder vi kontaktinformationen **för registrering** som du angav.
-
-Om någon information behöver uppdateras kan vi flytta avtalsregistreringen till det **åtgärdstillstånd som** krävs.
-
-### <a name="closed"></a>Stängd
-
-På sidan Avtalsregistreringar filtrerar du efter Stängt tillstånd. Du ser de avtal som har registrerats och granskats av Microsoft. Du kan använda filtren för att endast visa **godkända eller** **nekade** avtalsregistreringar.

@@ -9,14 +9,14 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 4a8e785de051aa6f722a1bfddc4ad83d6502bbb3
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: f521e55869d60987fb46cd5d570bf206939e0782
+ms.sourcegitcommit: 8235c89e789cdb5115fc1c19151fa8e97c743fe5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551664"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "113080647"
 ---
-# <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Hur och när du ska begära en servicenivåavtalskredit (SLA) från Microsoft
+# <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Hur och när du ska begära en SLA-kredit (serviceavtal) från Microsoft
 
 **Lämpliga roller:** Administratörsagent | Global administratör
 
@@ -24,7 +24,7 @@ Du kan begära **serviceavtalskrediter (SLA)** från Microsoft om en tjänst som
 
 ## <a name="sla-credit-calculation"></a>Beräkning av SLA-kredit
 
-SLA-krediter från Microsoft bestäms baserat på vilka tjänster som påverkades. Om kunden till exempel har en Office 365-svit men bara upplever ett SharePoint-avbrott, godkänns SLA-krediten endast för SharePoint och inte för kundens hela plan.
+SLA-krediter från Microsoft bestäms baserat på vilka tjänster som påverkades. Om kunden till exempel har en Office 365-svit men bara upplever ett SharePoint-avbrott godkänns SLA-krediten endast för SharePoint och inte för kundens hela plan.
 
 *Krediterna är pro-klassificerade baserat på den tjänst som påverkas och varaktigheten för avbrottet.* Information om vilka typer av scenarier som är berättigade till SLA-krediter finns i [dokumentet Konsoliderat serviceavtal för Online Services.](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37) Den här informationen gäller även för tjänster som säljs via Molnlösningsleverantör-programmet (CSP).
 
@@ -33,8 +33,8 @@ SLA-krediter från Microsoft bestäms baserat på vilka tjänster som påverkade
 
 *CSP-partnern måste skicka anspråket och all nödvändig information i slutet av kalendermånaden efter den månad då incidenten inträffade.* Om incidenten till exempel inträffade den 15 februari måste Microsoft ta emot anspråket och all nödvändig information senast den 31 mars. Slutanvändare och indirekta återförsäljare kan inte skicka SLA-kreditanspråk; antingen den indirekta leverantören eller partnern med direktfakturering måste skicka anspråk för sin räkning.
 
->[!NOTE]
->[Rådgivningsincidenter (Så här kontrollerar Microsoft 365 servicehälsa)](/microsoft-365/enterprise/view-service-health#incidents-and-advisories)är inte berättigade till SLA-krediter.
+> [!NOTE]
+> Rådgivningsincidenter är inte berättigade till SLA-krediter. En incident som publiceras på Service Health-instrumentpanelen anger att en klientorganisation kan påverkas och representerar den bästa informationen som Microsoft har vid tidpunkten för publiceringen.  Hälsosidans data representerar en tjänsts allmänna tillgänglighet. Påverkan, minskning och lösning av enskilda tjänster kan variera. Mer information finns i den slutliga incidentgranskningen efter incidenten och efter incidentgranskningen. Se [Så här kontrollerar Microsoft 365 för mer](/microsoft-365/enterprise/view-service-health#incidents-and-advisories) information.
 
 ### <a name="required-information"></a>Nödvändig information
 
@@ -58,7 +58,7 @@ Innan du [skickar en begäran om SLA-kredit](#submit-sla-credit-request) till Mi
 
 #### <a name="outage-incident-identifier"></a>Identifierare för avbrottsincident
 
-Du hittar identifieraren för avbrottsincidenten på **Service Health** i Administrationscenter för Microsoft 365. **Id:t för** avbrottsincident är ett tal som föregås av en förkortning med två bokstäver som anger den berörda tjänsten (till exempel *EX25194* för ett avbrott i Exchange Online). I följande tabell beskrivs vanliga förkortningar för tjänsten:
+Du hittar identifieraren för avbrottsincidenten på **Service Health** i Administrationscenter för Microsoft 365. **Id:t för** avbrottsincidenten är ett tal som föregås av en förkortning med två bokstäver som anger den berörda tjänsten (till exempel *EX25194* för ett avbrott i Exchange Online). I följande tabell beskrivs vanliga förkortningar för tjänsten:
 
 | Förkortning med två bokstäver | Microsoft-tjänst |
 | ----------------------- | ----------------- |
