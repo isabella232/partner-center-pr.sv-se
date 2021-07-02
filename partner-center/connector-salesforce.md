@@ -3,25 +3,25 @@ title: Anslutningsappen för säljförsäljning för Salesforce CRM Partner Cent
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Synkronisera dina hänvisningar i Partnercenter med salesforce CRM. Säljare kan sedan samförsäljninga med Microsoft inifrån dina CRM-system.
+description: Synkronisera dina hänvisningar i Partnercenter med din Salesforce CRM. Säljare kan sedan samförsäljninga med Microsoft inifrån dina CRM-system.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.date: 06/28/2021
-ms.openlocfilehash: f8cb4cd2488e55ab64cf7b7cdce4a3e950b266de
-ms.sourcegitcommit: 6a6e8f9af0a58b32770c7fce9f567dd4795b9797
+ms.openlocfilehash: 726e9071347e1590885b4bf82676f7767311f945
+ms.sourcegitcommit: c4601069340445135b551fa96bee6d9923d8aa97
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/29/2021
-ms.locfileid: "113029122"
+ms.lasthandoff: 07/01/2021
+ms.locfileid: "113173674"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Anslutningsapp för säljförsäljning för Salesforce CRM – översikt
 
 **Lämpliga roller:** Referensadministratörsroller | Systemadministratör eller systemanpassare för CRM
 
-PartnerCenter-anslutningsappen för säljpartner gör det möjligt för dina säljare att samarbeta med Microsoft inifrån dina CRM-system. De behöver inte tränas för att använda PartnerCenter för att hantera säljavtal. Med hjälp av anslutningsapparna för säljförsäljning kan du skapa en ny hänvisning till säljförsäljning för att engagera en Microsoft-säljare, ta emot hänvisningar från Microsoft-säljaren, acceptera/avvisa hänvisningar, ändra avtalsdata som avtalsvärde och slutdatum.  Du kan också få uppdateringar från Microsoft-säljarna om dessa samförsäljningserbjudanden. Du kan göra så att alla dina hänvisningar fungerar när du arbetar i den CRM som du väljer i stället för i Partnercenter.
+PartnerCenter-anslutningsappen för säljpartner gör det möjligt för dina säljare att samarbeta med Microsoft inifrån dina CRM-system. De behöver inte tränas för att använda PartnerCenter för att hantera säljavtal. Med hjälp av anslutningsapparna för säljförsäljning kan du skapa en ny hänvisning till säljförsäljning för att engagera en Microsoft-säljare, få hänvisningar från Microsoft-säljaren, acceptera/avvisa hänvisningar, ändra avtalsdata som avtalsvärde och slutdatum.  Du kan också få uppdateringar från Microsoft-säljarna om dessa samförsäljningserbjudanden. Du kan göra så att alla dina hänvisningar fungerar när du arbetar i den CRM som du väljer i stället för i Partnercenter.
 
-Lösningen är baserad på Microsoft Power Automate Solution och använder Partner Center-API:er.
+Lösningen baseras på Microsoft Power Automate Solution och använder Partner Center-API:er.
 
 ## <a name="before-you-install---pre-requisites"></a>Innan du installerar – förutsättningar
 
@@ -29,19 +29,19 @@ Lösningen är baserad på Microsoft Power Automate Solution och använder Partn
 |--------------|--------------------|------|
 |Microsoft Partner Network-ID |Du behöver ett giltigt MPN-ID|Så här ansluter du [till MPN](https://partner.microsoft.com/)|
 |Redo för säljförsäljning|Din IP/Services-lösning måste vara redo för säljförsäljning.|[Sälja med Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)|
-|Partnercenter-konto|MPN-ID:t som är associerat med Partnercenter-klienten måste vara samma som det MPN-ID som är associerat med din säljförsäljningslösning. Kontrollera att du kan se dina hänvisningar till säljförsäljning i Partnercenter-portalen innan du distribuerar anslutningsapparna.|[Hantera ditt konto](create-user-accounts-and-set-permissions.md)|
+|Partnercenter-konto|MPN-ID:t som är associerat med Partnercenter-klienten måste vara samma som det MPN-ID som är associerat med din säljförsäljningslösning. Kontrollera att du kan se dina hänvisningar till säljförsäljning i PartnerCenter-portalen innan du distribuerar anslutningsapparna.|[Hantera ditt konto](create-user-accounts-and-set-permissions.md)|
 |Användarroller i Partnercenter|Den medarbetare som ska installera och använda anslutningsapparna måste vara referensadministratör|[Tilldela användarroller och -behörigheter](create-user-accounts-and-set-permissions.md)|
 |Salesforce CRM|CRM-användarrollen är Systemadministratör eller Systemanpassare|[Tilldela roller i Salesforce CRM](https://help.salesforce.com/articleView?id=assigning_users_to_roles.htm&type=5)|
-|Power Automate Flow-konto|Skapa en ny produktionsmiljö med en databas för testning, mellanlagring och produktion. Om du har en befintlig produktionsmiljö med en databas kan den återanvändas. Den användare som ska installera anslutningslösningen måste ha en Power Automate och åtkomst till den här miljön. Du kan övervaka förloppet och få mer information [i Power Automate](https://flow.microsoft.com/) om installationen misslyckas. Välj **Visa historik** under **Lösningar**.|[Skapa eller hantera miljö](/power-platform/admin/create-environment#create-an-environment-with-a-database)|
+|Power Automate Flow konto|Skapa en ny produktionsmiljö med en databas för testning, mellanlagring och produktion. Om du har en befintlig produktionsmiljö med en databas kan den återanvändas. Den användare som ska installera anslutningslösningen måste ha en Power Automate licens och åtkomst till den här miljön. Du kan övervaka förloppet och få mer information [i Power Automate](https://flow.microsoft.com/) om installationen misslyckas. Välj **Visa historik** under **Lösningar**.|[Skapa eller hantera miljö](/power-platform/admin/create-environment#create-an-environment-with-a-database)|
 
-## <a name="installation-of-salesforce-package-for-microsoft-custom-fields"></a>Installation av Salesforce-paket för Anpassade Microsoft-fält
+## <a name="installation-of-salesforce-package-for-microsoft-custom-fields"></a>Installation av Salesforce-paket för Microsoft Custom Fields
 
-För att synkronisera hänvisningarna mellan Partner Center och Salesforce CRM Power Automate lösningen tydligt identifiera Microsoft-specifika hänvisningsfält. Den här avgränsningen ger partnerförsäljningsteam möjlighet att bestämma vilka hänvisningar de vill dela med Microsoft för samförsäljning.
+För att synkronisera hänvisningarna mellan Partner Center och Salesforce CRM måste Power Automate-lösningen tydligt identifiera Microsoft-specifika hänvisningsfält. Den här avgränsningen ger partnerförsäljningsteam möjlighet att bestämma vilka hänvisningar de vill dela med Microsoft för samförsäljning.
 
 1. I Salesforce aktiverar du **Anteckningar och** lägger till den i listan med affärsmöjligheter. [Referens](https://help.salesforce.com/articleView?err=1&id=notes_admin_setup.htm&type=5)
 
 1. Aktivera **affärsmöjlighetsteam** genom att följa stegen:
-    - I installationsprogrammet använder du rutan **Snabb find (Snabb** hitta) för att hitta Opportunity Team Settings (Gruppinställningar för a tillfället).
+    - I installationsprogrammet använder du **rutan Snabb hitta** för att hitta opportunity team Inställningar.
     - Definiera inställningarna efter behov. [Referens](https://help.salesforce.com/articleView?id=sf.opp_team_manage.htm&type=5)
 
 1. Installera anpassade fält och objekt i Salesforce med hjälp av [installationsprogrammet för paketet](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV). Använd det här installationsprogrammet för att installera paketet på alla företag.
@@ -63,7 +63,7 @@ Innan du installerar, konfigurerar och anpassar Power Automate-lösningen i prod
 
 - Vid lyckad import som en hanterad lösning till produktionsinstansen.
 
-## <a name="install-partner-center-referrals-synchronization-for-salesforce-crm"></a>Installera Partner Center-referenssynkronisering för Salesforce CRM
+## <a name="install-partner-center-referrals-synchronization-for-salesforce-crm"></a>Installera synkronisering av partnercenterreferenser för Salesforce CRM
 
 1. Gå till [Power Automate](https://flow.microsoft.com) och **välj Miljöer** i det övre högra hörnet. Då visas tillgängliga CRM-instanser.
 
@@ -73,7 +73,7 @@ Innan du installerar, konfigurerar och anpassar Power Automate-lösningen i prod
 
 1. Välj länken **Öppna AppSource** på den översta menyn.
 
-   :::image type="content" source="images/cosellconnectors/open-appsource.png" alt-text="Öppna AppSource":::
+   :::image type="content" source="images/cosellconnectors/open-appsource.png" alt-text="Öppna AppSource.":::
 
 1. Sök efter **partnercenterreferenser för Salesforce** på popup-skärmen.  
 
@@ -83,13 +83,13 @@ Innan du installerar, konfigurerar och anpassar Power Automate-lösningen i prod
 
 1. På nästa sida väljer du Salesforce CRM-miljön för att installera programmet. Godkänn villkoren.
 
-1. Du dirigeras sedan till sidan **Hantera dina** lösningar.  Gå till "Partner Center-referenser" med hjälp av pilknapparna längst ned på sidan. **Schemalagd installation** bör visas bredvid referenslösningen i Partnercenter. Installationen tar 10–15 minuter.
+1. Sedan dirigeras du till sidan **Hantera dina** lösningar.  Gå till "Partner Center-referenser" med hjälp av pilknapparna längst ned på sidan. **Schemalagd installation** bör visas bredvid Referenslösning för Partnercenter. Installationen tar 10–15 minuter.
 
 1. När installationen är klar går du tillbaka till [Power Automate](https://flow.microsoft.com) väljer **Lösningar i** det vänstra navigeringsområdet. Observera att **Synkronisering av referenser i Partnercenter för Salesforce** nu finns i listan Över lösningar.
 
-1. Välj **Synkronisering av referenser i Partnercenter för Salesforce.** Följande Power Automate och entiteter är tillgängliga:
+1. Välj **Synkronisering av referenser i Partnercenter för Salesforce.** Följande Power Automate flöden och entiteter är tillgängliga:
 
-   :::image type="content" source="images/cosellconnectors/partner-center-referrals-synchronization.png" alt-text="Salesforce-flöden":::
+   :::image type="content" source="images/cosellconnectors/partner-center-referrals-synchronization.png" alt-text="Salesforce-flöden.":::
 
 ## <a name="configure-the-solution"></a>Konfigurera lösningen
 
@@ -134,18 +134,18 @@ Innan du installerar, konfigurerar och anpassar Power Automate-lösningen i prod
    :::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="Skärmbild som visar hur du redigerar anslutningsappar.":::
 
 1. Aktivera flöden i följande ordning:
-   - Partner Center Webhook Registration (Insider Preview)
+   - Registrering av Webhook i Partnercenter (insiderförhandsvisning)
    - [Anpassa] Skapa eller hämta information från Salesforce
-   - Skapa en Referral-Salesforce partnercenter (insiderförhandsvisning)
-   - Partner center Microsoft co-sell hänvisningsuppdateringar till Salesforce (insiderförhandsvisning)  
-   - Partner center till Salesforce (insiderförhandsvisning)
+   - Skapa Referral-Salesforce partnercenter (insiderförhandsvisning)
+   - Partner Center Microsoft Co-sell Referral Updates to Salesforce (Insider Preview)  
+   - Partner Center till Salesforce (insiderförhandsvisning)
    - Salesforce till Partner Center (Insider Preview)
    - Salesforce Opportunity to Partner Center (Insider Preview)
    - Salesforce Microsoft Solutions to Partner Center (Insider Preview)
 
-## <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Använda Webhook-API:er för att registrera för resursändringshändelser
+## <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Använda Webhook-API:er för att registrera dig för resursändringshändelser
 
-Du kan använda Partner Center-webhook-API:er för att registrera dig för resursändringshändelser. Dessa ändringshändelser skickas till din URL som HTTP-inlägg.
+Du kan använda Partner Center webhook-API:er för att registrera dig för resursändringshändelser. Dessa ändringshändelser skickas till din URL som HTTP-inlägg.
 
 1. Välj **Partner Center till Salesforce CRM (Insider Preview).**
 
@@ -155,39 +155,39 @@ Du kan använda Partner Center-webhook-API:er för att registrera dig för resur
 
    :::image type="content" source="images/salesforce/copy-url.png" alt-text="Skärmbild som visar hur du kopierar URL:en.":::
 
-1. Välj **partnercenterwebhookregistrering (Insider Preview)** Power Automate och välj sedan **Kör**.
+1. Välj **partnercenterwebbhookregistrering (Insider Preview)** Power Automate och välj sedan **Kör**.
 
-1. Kontrollera att **fönstret Kör flöde** öppnas i den högra rutan och välj **Fortsätt.**
+1. Kontrollera att fönstret **Kör flöde** öppnas i den högra rutan och välj **Fortsätt.**
 
 1. Ange följande information:
 
    - **Http-utlösarslutpunkt:** Den här URL:en kopierades från ett tidigare steg.
-   - **Händelser att registrera:** Välj alla tillgängliga händelser ( hänvisningsskapade, hänvisnings uppdaterade, **relaterade-hänvisningsskapade** och **relaterade-hänvisnings-uppdaterade**).
+   - **Händelser som ska** registreras: Välj alla tillgängliga händelser ( hänvisningsskapad, hänvisnings-uppdaterad, **related-referral-created** och **related-referral-updated**).
    - **Skriva över befintliga utlösarslutpunkter om de finns?**: Ja. Endast en URL kan registreras för en viss webhook-händelse.
 
-1. Välj **Kör flöde** och välj sedan **Klar.**
+1. Välj **Run flow (Kör** flöde) och välj sedan **Done (Klar).**
 
 Webhooken kan nu lyssna på, skapa och uppdatera händelser.
 
 ## <a name="customize-synchronization-steps"></a>Anpassa synkroniseringssteg
 
-CRM-system är mycket anpassade och du kan anpassa Power Automate baserat på din CRM-konfiguration. När hänvisningar till säljförsäljning synkroniseras mellan Partner Center och ditt CRM-system visas fälten som synkroniseras på Partner Center-datorn i guiden [Anpassad fältmappning.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxL6S)
+CRM-system är mycket anpassade och du kan anpassa Power Automate baserat på din CRM-konfiguration. När hänvisningar till säljförsäljning synkroniseras mellan Partner Center och ditt CRM-system visas fälten som synkroniseras på Partner Center-datorn i guiden Anpassad [fältmappning.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxL6S)
 
-Följ guiden för fältmappning och gör vid behov lämpliga ändringar i **[Anpassa] Skapa eller Hämta information från Salesforce** eller miljövariabler. Uppdatera inte andra flöden i den nya Power Automate eftersom det kan påverka framtida lösningsuppgraderingar.
+Följ guiden för fältmappning och gör vid behov lämpliga ändringar i **[Anpassa] Skapa** eller Hämta information från Salesforce eller miljövariabler. Uppdatera inte andra flöden i den nya Power Automate eftersom det kan påverka framtida lösningsuppgraderingar.
 
 Följande anpassningar är tillgängliga:
 
-- **Visa bockmarkering** i affärsmöjlighetens namn: Som standard visas en kryssmarkering bredvid affärsmöjlighetens namn för att indikera att synkroniseringen mellan Partner Center och Salesforce CRM har genomförts. På samma sätt visas ett korsmarkering om synkroniseringen misslyckas. För att undvika att lägga till en bock eller korsmarkering i affärsmöjlighetens namn anger du det aktuella värdet för kryssmarkeringen Visa i **miljövariabeln affärsmöjlighetsnamn** till Nej.
+- **Visa bockmarkering** i affärsmöjlighetens namn: Som standard visas en bock bredvid affärsmöjlighetens namn för att indikera att synkroniseringen mellan Partner Center och Salesforce CRM lyckas. På samma sätt visas ett kryssmarkering om synkroniseringen misslyckas. För att undvika att lägga till en bock eller  korsmarkering i affärsmöjlighetens namn anger du det aktuella värdet för kryssmarkeringen Visa i miljövariabeln för affärsmöjlighetsnamn till Nej.
 
 - **Fasnamn**:
 
-  - **Namn på aktiv fas:** Det här är fasen i en affärsmöjlighets försäljningspipeline i Salesforce.  Den representerar ett aktivt stadium och motsvarar en hänvisning i godkänt tillstånd i Partnercenter. Detta kan vara nästa steg i försäljningspipelinen efter fasen för att hålla kvar. Om du flyttar affärsmöjlighetens försäljningssteg från den aktiva fasen till ett aktivt stadium godkänns hänvisningen i Partnercenter och ändringarna börjar synkroniseras.
+  - **Namn på aktiv fas:** Det här är fasen i en affärsmöjlighets försäljningspipeline i Salesforce.  Den representerar ett aktivt stadium och motsvarar en hänvisning i godkänt tillstånd i Partnercenter. Det här kan vara nästa steg i försäljningspipelinen efter den kvarsestadsfasen. Om du flyttar affärsmöjlighetens försäljningssteg från den aktiva fasen till aktivt stadium godkänns hänvisningen i Partnercenter och ändringarna börjar synkroniseras.
 
-  - **Namn på rymmer fas:** Namnet på fasen i en affärsmöjlighets försäljningspipeline i Salesforce. Den representerar en fas där den är i rummet. Nya co-sell-referenser som delas från Microsoft och som ännu inte har godkänts kommer att ställas in i det här steget i Salesforce. Ändringar som görs i en affärsmöjlighet medan den är i väntpunktsfas synkroniseras inte till Partnercenter. Om du flyttar affärsmöjlighetens försäljningssteg från det här stadiet accepterar du hänvisningen i Partnercenter och ändringarna börjar synkroniseras.
+  - **Namn på hållen fas:** Namnet på fasen i en affärsmöjlighets försäljningspipeline i Salesforce. Den representerar en stapelfas. Nya co-sell-hänvisningar som delas från Microsoft och som ännu inte har godkänts kommer att ställas in i det här steget i Salesforce. Ändringar som görs i en affärsmöjlighet medan den är i väntrummet synkroniseras inte till Partnercenter. Om du flyttar affärsmöjlighetens försäljningssteg från den här lokala fasen godkänns hänvisningen i Partnercenter och ändringarna börjar synkroniseras.
 
 - **Landskod för kundkonto:** Det är obligatoriskt att ange en landskod med två bokstäver (ISO 3166) när du skapar en ny hänvisning. Som standard synkroniseras landskoden till och från kontots **BillingCountry-fält** i Salesforce. Om du har ett annat fält i Salesforce som landskoden ska synkroniseras från:
 
-  - För ett landskodsfält som inte är letar efter i kontot som innehåller en kod med två bokstäver:
+  - För ett landskodfält som inte är letar efter i kontot som innehåller en kod med två bokstäver:
 
     - Uppdatera namnet **på fältet Landskod för** kundkonto i Salesforce-miljövariabeln med CRM-fältnamnet. Se till att du anger fältets namn, inte dess visningsnamn.
 
@@ -197,23 +197,23 @@ Följande anpassningar är tillgängliga:
 
     - Lägg till ett nytt anpassat fält i kontot och fyll i det automatiskt med en landskod med två bokstäver (ISO 3166) baserat på det värde som valts i det uppslagsbaserade fältet och vice versa.
 
-    - Följ föregående steg för fältet landskod för icke-letarad för att synkronisera ett nytt anpassat fält från CRM till och från Partnercenter.
+    - Följ föregående steg för fältet landskod som inte är letar efter för att synkronisera ett nytt anpassat fält från CRM till och från Partnercenter.
 
 - **Avtalsvärde:** Som standard synkroniseras avtalsvärdet från Partnercenter till och från **Amount** i CRM. Om du har ett annat fält i CRM som avtalsvärdet ska synkroniseras från:
 
   - Uppdatera fältet **Deal value** (Avtalsvärde) i Salesforce-miljövariabeln med CRM-fältnamnet. Se till att du anger fältets namn, inte dess visningsnamn.
 
-  - Redigera **[Anpassa]** Skapa eller Hämta information  från Salesforce och gå till Skapa eller  uppdatera affärsmöjlighet i CRM och uppdatera både Skapa **en** ny affärsmöjlighet och Uppdatera befintliga affärsmöjlighetsåtgärder för att tilldela **DealValue** till rätt fält i Salesforce.
+  - Redigera **[Anpassa]** Skapa eller Hämta information  från Salesforce och gå till Skapa eller  uppdatera affärsmöjlighet i CRM och uppdatera både **Skapa en** ny affärsmöjlighet och Uppdatera befintliga affärsmöjlighetsåtgärder för att tilldela **DealValue** till rätt fält i Salesforce.
 
-- **Valutakod för avtalsvärde:** Namnet på valutakodfältet för avtalsvärdet i Salesforce. Det här fältets API-namn används för att hämta valutakoden för affärsmöjlighetens avtalsvärde när du skapar eller uppdaterar en referens i Microsoft Partner Center. Om fältet valutakod för avtalsvärde skiljer sig från **standardfältet CurrencyIsoCode** uppdaterar du det aktuella värdet för den här miljövariabeln.
+- **Valutakod för avtalsvärde:** Namnet på fältet för valutakod för avtalsvärde i Salesforce. Det här fältets API-namn används för att hämta affärsmöjlighetens värdevalutakod när du skapar eller uppdaterar hänvisningen i Microsoft Partner Center. Om fältet valutakod för avtalsvärde skiljer sig från **standardfältet CurrencyIsoCode** uppdaterar du det aktuella värdet för den här miljövariabeln.
 
   - Uppdatera fältet **Deal value currency** (Avtalsvärdesvaluta) i Salesforce-miljövariabeln med CRM-fältnamnet. Se till att du anger fältets namn, inte dess visningsnamn.
 
   - Redigera **[Anpassa]** Skapa eller Hämta information  från Salesforce och gå till Skapa eller  uppdatera affärsmöjlighet i CRM och uppdatera både Skapa **en** ny affärsmöjlighet och Uppdatera befintliga affärsmöjlighetsåtgärder för att tilldela **DealValueCurrency** till rätt fält i Salesforce.
 
-- **Synkronisera möjligheter till säljförsäljning:** Om det är inställt på **ja** synkroniseras endast delningsmöjligheter för sälj- och pipelines från Partnercenter till Salesforce. Om det är **inställt** på nej synkroniseras leads, sälj- och pipelinedelningsmöjligheter från Partner Center till Salesforce. Den här variabeln påverkar inte affärsmöjligheter som synkroniseras från Salesforce till Partner Center.
+- **Synkronisering av möjligheter till säljförsäljning:** Om det är inställt på **ja** synkroniseras endast delningsmöjligheter för sälj- och pipelineförsäljning från Partnercenter till Salesforce. Om det är **inställt** på Nej synkroniseras affärsmöjligheter för leads, samförsäljning och pipelinedelning från Partner Center till Salesforce. Den här variabeln har ingen inverkan på de affärsmöjligheter som synkroniseras från Salesforce till Partner Center.
 
-## <a name="update-environment-variable"></a>Uppdatera miljövariabel
+## <a name="update-environment-variable"></a>Uppdatera miljövariabeln
 
 Så här uppdaterar du ett miljövariabelvärde:
 
@@ -221,21 +221,21 @@ Så här uppdaterar du ett miljövariabelvärde:
 
 1. Välj miljövariabeln för det värde som behöver uppdateras och välj **Redigera med** hjälp av ellipsikonen.
 
-1. Uppdatera **aktuellt värde** (uppdatera inte **standardvärdet**) med hjälp av **alternativet Nytt** värde och ange värdet. Värdet måste matcha variabelns datatyp. Till exempel accepterar datatypen Ja eller Nej antingen värdet Ja eller Nej.
+1. Uppdatera **aktuellt värde** (uppdatera inte **standardvärdet**) med hjälp av **alternativet Nytt värde** och ange värdet. Värdet måste matcha variabeln datatyp. Till exempel accepterar datatypen Ja eller Nej antingen värdet Ja eller Nej.
 
    :::image type="content" source="images/cosellconnectors/environment-variables-video.gif" alt-text="Skärmbild som visar Uppdatera miljövariabler.":::
 
-## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>Synkronisering av dubbelriktad hänvisning från end-to-end
+## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>Dubbelriktad synkronisering av hänvisningar från end-to-end
 
-När du har installerat, konfigurerat och anpassat Power Automate-lösningen kan du testa synkroniseringen av hänvisningar till säljförsäljning mellan Salesforce CRM och Partnercenter.
+När du har installerat, konfigurerat och anpassat Power Automate lösningen kan du testa synkroniseringen av referenser för säljförsäljning mellan Salesforce CRM och Partnercenter.
 
 ### <a name="pre-requisites"></a>Förutsättningar
 
-För att synkronisera hänvisningarna mellan Partner Center och Salesforce CRM måste Power Automate-lösningen tydligt avgränsa Microsoft-specifika referensfält. Den här identifieringen ger säljteamen möjlighet att bestämma vilka hänvisningar de vill dela med Microsoft för säljförsäljning.
+För att synkronisera hänvisningarna mellan Partner Center och Salesforce CRM Power Automate lösningen tydligt avgränsa Microsoft-specifika hänvisningsfält. Den här identifieringen ger dina säljteam möjlighet att bestämma vilka hänvisningar som de vill dela med Microsoft för samförsäljning.
 
-En uppsättning anpassade fält är tillgängliga som en del av Partner Center-referenssynkronisering för Salesforce CRM-lösningens **affärsmöjlighetsentitet.** En CRM-administratörsanvändare måste skapa ett separat CRM-avsnitt med de **anpassade affärsmöjlighetsfälten.**
+En uppsättning anpassade fält är tillgängliga som en del av partnercentrets referenssynkronisering för Salesforce CRM-lösningens **affärsmöjlighetsentitet.** En CRM-administratörsanvändare måste skapa ett separat CRM-avsnitt med de anpassade **fälten** Affärsmöjlighet.
 
-Följande anpassade fält bör ingå i CRM-avsnittet:
+Följande anpassade fält ska vara en del av CRM-avsnittet:
 
 - **Synkronisera med Partnercenter:** Om du vill synkronisera affärsmöjligheten med Partnercenter. Som standard är värdet för det här fältet Nej och måste uttryckligen anges till Ja av din säljare för att dela en affärsmöjlighet med Microsoft. Nya referenser som delas från Partner Center till CRM har det här fältvärdet inställt på Ja.
 
@@ -243,15 +243,15 @@ Följande anpassade fält bör ingå i CRM-avsnittet:
 
 - **Hänvisningslänk:** En skrivskyddade länk till hänvisningen i Microsoft Partner Center.
 
-- **Hur kan Microsoft hjälpa till:** Hjälp krävs från Microsoft för hänvisningen. Om du vill skapa en hänvisning om säljförsäljning väljer du lämplig hjälp som krävs av Microsoft. En kundkontakt måste kopplas till möjligheten att skapa en hänvisning för säljförsäljning. Välj inte det här fältet om du vill skapa en referens för icke-säljförsäljning. En hänvisning som inte gäller säljförsäljning kan konverteras till en hänvisning om säljförsäljning när som helst genom att välja lämpligt hjälpalternativ.
+- **Hur kan Microsoft hjälpa till:** Hjälp krävs från Microsoft för hänvisningen. Om du vill skapa en hänvisning till säljförsäljning väljer du den hjälp som krävs av Microsoft. En kundkontakt måste associeras med möjligheten att skapa en hänvisning till säljförsäljning. Om du vill skapa en referens för icke-säljförsäljning ska du inte välja det här fältet. En referens för icke-säljförsäljning kan konverteras till en hänvisning till säljförsäljning när som helst genom att välja lämpligt alternativ som krävs för hjälp.
 
-- **Referenssynlighet för Microsoft Partner Center:** Välj synlighet för Partnercenter-hänvisningen. Genom att göra den synlig för Microsoft-säljare kan en hänvisning om icke-säljande konverteras till samförsäljning. När Microsoft-hjälp krävs är referensen synlig för Microsoft-säljare som standard. När det här fältet har markerats som synligt kan det inte återställas.
+- **Synlighet för Microsoft Partner Center-hänvisning:** Välj synlighet för PartnerCenter-hänvisningen. Genom att göra den synlig för Microsoft-säljare kan en hänvisning om icke-säljande konverteras till samförsäljning. När Microsoft-hjälp krävs är hänvisningen synlig för Microsoft-säljare som standard. När det här fältet har markerats som synligt kan det inte återställas.
 
-- **Microsoft CRM-identifierare:** När en hänvisning om säljförsäljning skapas och godkänns av Microsoft fylls det här fältet i med Microsofts CRM-identifierare.
+- **Microsoft CRM identifierare:** När en hänvisning till säljförsäljning skapas och godkänns av Microsoft fylls det här fältet i med Microsofts CRM-identifierare.
 
 - **Microsoft Partner Center-lösningar:** Ett anpassat objekt för att associera lösningar som är redo för säljförsäljning eller Microsoft-lösningar med möjligheten. En eller flera lösningar kan läggas till eller tas bort från affärsmöjligheten. Det är obligatoriskt att lägga till minst en sälj säljklar eller Microsoft-lösning till affärsmöjligheten innan du delar den med Microsoft. Om du vill associera det här objektet med affärsmöjligheten uppdaterar du **formuläret Affärsmöjlighet** i CRM.
 
-- **Granskning:** En skrivskyddade granskningslogg för synkronisering med PartnerCenter-referenser
+- **Granskning:** En skrivskyddade granskningslogg för synkronisering med Partnercenter-referenser
 
 ### <a name="scenarios"></a>Scenarier
 
@@ -282,15 +282,15 @@ Följande anpassade fält bör ingå i CRM-avsnittet:
 
     1. Logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard/home)
 
-    1. Välj **Referenser** på den vänstra menyn.
+    1. Välj **Referenser** på menyn till vänster.
 
-    1. Skapa en ny hänvisning om säljförsäljning från Partnercenter genom att klicka på alternativet "Nytt avtal".
+    1. Skapa en ny hänvisning för säljförsäljning från Partnercenter genom att klicka på alternativet "Nytt avtal".
 
     1. Logga in på Salesforce CRM-miljön.
 
     1. Gå till **Öppna affärsmöjligheter.** Hänvisningen som skapades i Microsoft Partner Center synkroniseras nu i Salesforce CRM.
 
-    1. När du väljer en synkroniserad hänvisning fylls kortvisningsinformationen i.
+    1. När du väljer en synkroniserad referens fylls kortvisningsinformationen i.
 
        :::image type="content" source="images/salesforce/salesforce-casino.png" alt-text="Skärmbild av sidan Salesforce-affärsmöjlighet.":::
 
