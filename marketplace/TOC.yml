@@ -2,19 +2,25 @@
   href: index.yml
 - name: Microsoft AppSource
   items:
-    - name: Om Microsoft AppSource
+    - name: Om
       href: appsource-overview.md
-    - name: Köpa programvara på AppSource
+    - name: Köpa programvara
       href: purchase-software-appsource.md
+    - name: Privata planer
+      href: appsource-private-plans.md
 - name: Azure Marketplace
   items:
-    - name: Om Azure Marketplace
+    - name: Om
       href: azure-marketplace-overview.md
     - name: Inköp
       href: azure-purchasing-invoicing.md
+    - name: Köpa ett SaaS-erbjudande i Azure Portal
+      href: purchase-saas-offer-in-azure-portal.md
     - name: Fakturering
       href: billing-invoicing.md
-    - name: Privata erbjudanden
+    - name: Azure-förbrukningsåtagandeförmån
+      href: azure-consumption-commitment-benefit.md
+    - name: Privata planer
       href: private-offers.md
     - name: Berättigande av prenumerationsöverföring
       href: transfer-eligibility.md
@@ -22,8 +28,8 @@
       href: create-manage-private-azure-marketplace.md
     - name: Hantera en privat Azure-marknadsplats – PowerShell
       href: manage-private-azure-marketplace-powershell.md
-    - name: Partnerintegreringar för Azure Marketplace
-      href: partner-integrations.md
+    - name: Utöka Azure med lösningar från partner
+      href: /azure/partner-solutions/overview
 - name: Allmänna resurser
   items:
     - name: Principer för återbetalning
@@ -36,5 +42,3 @@
   items:
     - name: Azure PowerShell
       href: /powershell/module/az.marketplace
-    - name: Önskade lösningar
-      href: preferred-solutions.md
