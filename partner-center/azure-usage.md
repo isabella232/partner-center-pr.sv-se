@@ -1,6 +1,6 @@
 ---
 title: Storleksändring av virtuella Azure-datorer för maximal reservationsanvändning
-description: Lär dig hur du kan ändra storlek på en virtuell dator (VM) efter dina kunders databehandlingsbehov när du köper Microsoft Azure reservationer åt dem.
+description: Lär dig att ändra storlek på en virtuell dator (VM) efter dina kunders databehandlingsbehov när du köper Microsoft Azure reservationer åt dem.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,25 +9,25 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 2d8bc76e0da51abf433e49028445b398c6a1db31
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 650618de7460f4667c60ac58cbe6716530db7f16
+ms.sourcegitcommit: b55f63a029d88c73cd5190bbac2df1b5990e6e44
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277002"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "113510201"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Storleksändring av virtuell Microsoft Azure-dator för maximal reservationsanvändning
 
 **Lämpliga roller:** Administratörsagent | Försäljningsagent
 
-I den här artikeln förklaras hur du kan ändra storlek på en virtuell dator (VM) efter dina kunders databehandlingsbehov när du köper Microsoft Azure reservationer åt dem.
+I den här artikeln förklaras hur du kan ändra storlek på en virtuell dator (VM) till dina kunders databehandlingsbehov när du köper Microsoft Azure reservationer åt dem.
  
 > [!NOTE]
-> Den här artikeln gäller endast för partner i Molnlösningsleverantör-programmet (CSP). Kunder som använder andra typer av prenumerationer (till exempel prenumerationer med användningsbaserade betalning, enskilda prenumerationer, Microsoft-kundavtal- eller Enterprise-avtal) bör i stället läsa dokumentationen om [Azure-reservationer.](/azure/cost-management-billing/reservations)
+> Den här artikeln gäller endast för partner i Molnlösningsleverantör-programmet (CSP). Kunder som använder andra typer av prenumerationer (till exempel betala enligt användning, enskilda prenumerationer, Microsoft-kundavtal- eller företagsavtal-prenumerationer) bör i stället läsa dokumentationen om [Azure-reservationer.](/azure/cost-management-billing/reservations)
 
 ## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>Fastställa VM-storleken för en kunds Azure-reservation
 
-När du Microsoft Azure reservationer åt dina kunder måste du välja en virtuell dator (VM) som uppfyller kundens databehandlingsbehov. Du hittar den här informationen med någon av följande metoder:
+När du Microsoft Azure en reservation åt dina kunder måste du välja en virtuell dator (VM) som uppfyller kundens databehandlingsbehov. Du hittar den här informationen på något av följande sätt:
 
 - API för Azure-användning
 - Azure Portal
@@ -40,7 +40,7 @@ Anvisningar för hur du använder var och en av dessa metoder finns nedan. När 
 >Reservationsrabatter gäller inte för klassiska eller kampanj-VM:ar.
 
 >[!IMPORTANT]
->För att korrekt identifiera typen och storleken på den virtuella dator som du ska köpa för din kunds räkning måste du använda någon av metoderna som beskrivs nedan eftersom VM-serietypen inte visas korrekt i Partner Center-avstämningsfiler.
+>För att korrekt identifiera typen och storleken på den virtuella dator som du ska köpa för din kunds räkning måste du använda någon av metoderna som beskrivs nedan eftersom VM-serietypen inte visas korrekt i Avstämningsfiler för Partnercenter.
 
 ### <a name="get-vm-sizing-information-using-the-azure-utilization-api"></a>Hämta storleksinformation för virtuella datorer med hjälp av API:et för Azure-användning
 
@@ -48,11 +48,11 @@ Anvisningar för hur du använder var och en av dessa metoder finns nedan. När 
 
 2. Mer information finns i [Hämta en kunds användningsposter för Azure i](/partner-center/develop/get-a-customer-s-utilization-record-for-azure) Partner Center [API.](/partner-center/develop/)
 
-### <a name="get-vm-sizing-information-using-the-microsoft-azure-portal"></a>Hämta storleksinformation för virtuella datorer med hjälp av Microsoft Azure-portalen
+### <a name="get-vm-sizing-information-using-the-microsoft-azure-portal"></a>Hämta storleksinformation för virtuella datorer med hjälp Microsoft Azure portalen
 
 1. I Partnercenter går du till sidan **Kunder.**
 
-2. Hitta den kund som vill köpa reservationer för virtuella Azure-datorer och välj sedan nedåtpilen för att expandera kundens information. Välj **Microsoft Azure-hanteringsportal** för att öppna kundens post i Azure Portal.
+2. Hitta den kund som vill köpa reservationer för virtuella Azure-datorer och välj sedan nedåtpilen för att expandera kundens information. Välj **Microsoft Azure Hanteringsportal** för att öppna kundens post i Azure Portal.
 
 3. Välj **Virtuella datorer** på portalmenyn och välj sedan den virtuella dator som du vill köpa en reservation för.
 
@@ -60,17 +60,17 @@ Anvisningar för hur du använder var och en av dessa metoder finns nedan. När 
 
    :::image type="content" source="images/usage1.png" alt-text="Information om storlek och region på detaljsidan.":::
 
-### <a name="get-vm-sizing-information-using-microsoft-azure-powershell"></a>Hämta storleksinformation för virtuella datorer med hjälp av Microsoft Azure PowerShell
+### <a name="get-vm-sizing-information-using-microsoft-azure-powershell"></a>Hämta storleksinformation för virtuella datorer med Microsoft Azure PowerShell
 
 Använd informationen i bilden nedan för att hämta platsen och storleken på den virtuella dator som du vill köpa en reservation för. 
 
-:::image type="content" source="images/usage2.png" alt-text="Plats och storlek för virtuell dator.":::
+:::image type="content" source="images/usage2.png" alt-text="Vm-plats och storlek.":::
 
-### <a name="get-vm-sizing-information-using-the-azure-resource-manager-arm-api"></a>Hämta storleksinformation för virtuella datorer med hjälp Azure Resource Manager (ARM) API
+### <a name="get-vm-sizing-information-using-the-azure-resource-manager-arm-api"></a>Hämta storleksinformation för virtuella datorer med hjälp av AZURE RESOURCE MANAGER-API:et (ARM)
 
-1. Använd ARMClient eller ARM-API:erna och anropa ARM-klienten för den virtuella dator som du vill köpa en reservation för.
+1. Med ARMClient eller ARM-API:erna anropar du ARM-klienten för den virtuella dator som du vill köpa en reservation för.
 
-2. /subscriptions/ <Subscription ID> /resourceGroups/ <Resource group name> /providers/Microsoft.Compute/virtualMachines/ <VM Instance Name> ?api-version=2017-12-01
+2. `/subscriptions/<Subscription ID>/resourceGroups/<Resource group name>/providers/Microsoft.Compute/virtualMachines/<VM Instance Name>?api-version=2017-12-01`
 
 3. Anropet returnerar värdena **för vmSize** **och location**, som du ser nedan.
 
@@ -91,29 +91,29 @@ Anvisningar för hur du använder var och en av dessa metoder finns nedan.
 >[!NOTE]
 >Endast API:et för Azure-användning visar vilken virtuell dator rabatten tillämpas på.  
 
-### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>Kontrollera kundens reservationsanvändning i Microsoft Azure-portalen
+### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>Kontrollera kundens reservationsanvändning i Microsoft Azure portalen
 
 1. I Partnercenter går du till sidan **Kunder.**
 
-2. Hitta den kund vars reservationsrabatt och användning du vill verifiera och välj sedan nedåtpilen för att expandera kundens information. Välj **Microsoft Azure-hanteringsportal** för att öppna kundens post i Azure Portal.
+2. Hitta den kund vars reservationsrabatt och användning du vill verifiera och välj sedan nedåtpilen för att expandera kundens information. Välj **Microsoft Azure Hanteringsportal** för att öppna kundens post i Azure Portal.
 3. Välj **Reservationer** på portalmenyn och välj sedan den reservation som du vill kontrollera användningen för.
 4. På sidan **Översikt** kontrollerar du reservationens användningsdiagram, som visar hur mycket av reservationen som tillämpades på virtuella datorer.
 
     >[!NOTE]
     >Användningsdata kan fördröjas med upp till 8 timmar.
 
-    a. Om reservationens utnyttjande är 100 % får kunden alla möjliga besparingar som reservationsköpet kan ge.
+    a. Om reservationens användning är 100 % får kunden alla möjliga besparingar som reservationsköpet kan ge.
     b. Om reservationens användning är 0 % tillämpas rabatten inte på någon virtuell dator.
     c. Om reservationens användning är mellan 1 % och 99 % finns det oanvända fördelar.
 
-5. Undvik den här situationen genom att fastställa rätt storlek på den virtuella datorn för att stödja kundens behov av databehandling innan köpet.
+5. Du kan undvika den här situationen genom att fastställa rätt storlek på den virtuella datorn för att stödja kundens databehandlingsbehov innan du gör köpet.
 
 ### <a name="verify-the-customers-reservation-usage-with-the-azure-utilization-api"></a>Verifiera kundens reservationsanvändning med API:et för Azure-användning
 
 >[!NOTE]
 >Endast API:et för Azure-användning visar vilken virtuell dator rabatten tillämpas på.  
 
-Du kan hämta användningsdata för reservationer med API:et för Azure-användning för att kontrollera att kunden får reservationsrabatten och för att se vilka virtuella datorer som rabatten tillämpas på. Jämför exempel A med exempel B för att se hur du verifierar en kunds reservationsanvändning.
+Du kan hämta reservationsanvändningsdata med API:et för Azure-användning för att verifiera att kunden får reservationsrabatten och för att se vilka virtuella datorer (virtuella datorer) som rabatten tillämpas på. Jämför exempel A med exempel B för att se hur du verifierar en kunds reservationsanvändning.
 
 :::image type="content" source="images/usage5.png" alt-text="Exempel på reservationsanvändning.":::
 
@@ -124,7 +124,7 @@ Du kan hämta användningsdata för reservationer med API:et för Azure-användn
 Mer information finns i [Hämta en kunds användningsposter för Azure i](/partner-center/develop/get-a-customer-s-utilization-record-for-azure) Partner Center [API.](/partner-center/develop/)
 
 >[!IMPORTANT]
->Programvarukostnader, till exempel Microsoft Windows Server, ingår för närvarande inte i priset för en VM-reservation och visas som separata radobjekt i orderposten och på fakturan. Men om en kund har Azure Hybrid Use Benefit tillämpas inte programvarukostnaderna. Mer information finns i [Kostnader för Windows-programvara som inte ingår i reserverade instanser.](/azure/billing/billing-reserved-instance-windows-software-costs)  
+>Programvarukostnader, till exempel Microsoft Windows Server, ingår för närvarande inte i priset för en VM-reservation och visas som separata radobjekt i orderposten och på din faktura. Men om en kund har Azure Hybrid-förmånen tillämpas inte programvarukostnaderna. Mer information finns i Windows [programvarukostnader som inte ingår i reserverade instanser.](/azure/billing/billing-reserved-instance-windows-software-costs)  
 
 ## <a name="next-steps"></a>Nästa steg
 

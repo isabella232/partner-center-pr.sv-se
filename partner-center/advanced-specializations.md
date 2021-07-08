@@ -1,7 +1,7 @@
 ---
 title: Lär dig mer om avancerade specialiseringar
 ms.topic: article
-ms.date: 01/21/2021
+ms.date: 07/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Förbättra din företagsprofil i Microsofts partnerkatalog. Lär dig mer om de avancerade specialiseringar som du kan uppnå tillsammans med dina befintliga guld- och silverkompetenser.
@@ -9,22 +9,22 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 91c182f2eb42bbe834926c7985d343524305485a
-ms.sourcegitcommit: cc9e47219f6e2cdf77118b5c8986e86ebecfe260
+ms.openlocfilehash: 779e6d344d9fc75a45a4d89a65ebff3ace8ce8cb
+ms.sourcegitcommit: 312f3800d0a0464af9df4d7ffb0d9faec273fd74
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/16/2021
-ms.locfileid: "112125930"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "113489817"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Få en avancerad specialisering för att demonstrera dina validerade funktioner
 
 **Lämpliga roller:** Global | Kontoadministratör
 
-Microsofts avancerade specialiseringar bygger på relaterade [guldkompetenser](learn-about-competencies.md) som en partner kan tjäna. Genom att tjäna guldkompetenser tillsammans med deras relaterade avancerade specialiseringar kan partner ytterligare särskilja sina funktioner till kunder.
+Microsofts avancerade specialiseringar bygger på de relaterade [guldkompetenser](learn-about-competencies.md) som en partner kan tjäna. Genom att tjäna guldkompetenser tillsammans med deras relaterade avancerade specialiseringar kan partner ytterligare särskilja sina funktioner till kunder.
 
 För att få en avancerad specialisering måste en partner ofta uppfylla krävande krav, till exempel att hämta kundreferenser, genomgå en granskning från tredje part, bevisa att en relevant kompetensuppsättning uppnås och uppfylla vissa andra prestandamått.
 
-Genom att uppfylla dessa strikta krav kan partner sedan validera sin djupa kunskap, omfattande erfarenhet och beprövade framgång med att leverera skräddarsydda kundlösningar för områden med hög kundefterfrågan och relevans.
+Genom att uppfylla dessa strikta krav kan partner verifiera sin djupa kunskap, omfattande erfarenhet och beprövade framgång med att leverera skräddarsydda kundlösningar för områden med hög kundefterfrågan och relevans.
 
 Partner som får en avancerad specialisering får en kundriktad etikett som de kan visa i sin företagsprofil i [Microsofts lösningsleverantörs finder](https://www.microsoft.com/solution-providers/home). Den här etiketten validerar ytterligare partnerns funktioner, samtidigt som den ger dem åtkomst till associerade fördelar, utökad kund räckvidd och större kundförtroende.
 
@@ -52,13 +52,16 @@ Varje avancerad specialisering motsvarar ett lösningsområde:
 - Migrering av Windows Server och SQL Server till Microsoft Azure
 - AI och Machine Learning i Microsoft Azure
 - Hybridmolninfrastruktur med Microsoft Azure Stack HCI
-- Hybriddrift och hantering med Microsoft Azure Arc
-- Microsoft Azure VMware Solution
+- Hybridåtgärder och hantering med Microsoft Azure Arc
+- Microsoft Azure VMware-lösning
+- DevOps med GitHub på Microsoft Azure
+- Nätverkstjänster i Microsoft Azure
+
 
 **Business Applications** avancerade specialiseringar är:
 
 - Programutveckling med lite kod
-- Små och medelstora företagshantering
+- Small and Midsize Business Management
 
 **Avancerade specialiseringar** för modernt arbete omfattar:
 
@@ -83,6 +86,6 @@ Varje avancerad specialisering motsvarar ett lösningsområde:
 
 - Läs mer [om avancerade specialiseringar, deras fördelar och unika krav](https://partner.microsoft.com/membership/advanced-specialization)
 
-- Lär dig mer om [att uppnå Microsofts silver- eller guldmedlemskapskompetenser](learn-about-competencies.md)
+- Lär dig mer om [att uppnå Microsofts kompetenser för silver- eller guldmedlemskap](learn-about-competencies.md)
 
 - Läs mer om [Microsoft Partner Network kompetenser](https://partner.microsoft.com/membership/competencies)
