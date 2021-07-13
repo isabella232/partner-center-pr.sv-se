@@ -1,0 +1,229 @@
+### YamlMime:FAQ
+metadata:
+  title: Vanliga frågor och svar om utbetalningar och skatteprofiler
+  description: Få svar på vanliga frågor om utbetalnings- och skatteinformation i Partnercenter. Innehåller svar om varför dina intäkter skiljer sig från vad du förväntade dig.
+  ms.service: marketplace
+  ms.subservice: partnercenter-marketplace-publisher
+  ms.topic: article
+  author: eunjkim520
+  ms.author: eunjkim
+  ms.date: 05/06/2021
+  ms.openlocfilehash: 30524899a85cff7439268d569e93810034109474
+  ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/13/2021
+  ms.locfileid: "113686499"
+title: Vanliga frågor om utbetalning och skatter
+summary: >
+  **Lämpliga roller:** Kontoadministratörsroller | Globala | Incitamentsadministratör
+
+
+  Den här artikeln besvarar vanliga frågor om utbetalnings- och skatteinformation i Partnercenter. Ämnen som omfattas omfattar tidsinställning av betalningar, kontroll av berättigande till intäkter och vikten av att konfigurera utbetalnings- och skatteprofiler på rätt sätt.
+sections:
+- name: Profilhantering
+  questions:
+  - question: >
+      Varför måste jag ange eller uppdatera min utbetalnings- och/eller skatteinformation?
+    answer: >
+      Alla partner som registrerar sig i ett nytt program måste ange giltig utbetalnings- och skatteinformation för att slutföra registreringen och ta emot betalningar. En registrering anses vara slutförd först när Microsoft har verifierat din utbetalnings- och skatteprofil.
+
+
+      Du kan också behöva uppdatera din information om reglerna för ditt program ändras eller om aspekter av din profil upphör att gälla eller blir inaktuella. Om detta inträffar visas statusen Åtgärd krävs på **översiktssidan – Uppdateringsbank och/eller skatteprofil.**
+  - question: >
+      Hur gör jag för att hitta, konfigurera eller uppdatera utbetalnings- och skatteinformation?
+    answer: >
+      Detaljerad information om hur du uppdaterar betalnings- och skatteinformation i Partnercenter finns i [Konfigurera ditt utbetalningskonto och skatteformulär.](set-up-your-payout-account.md)
+  - question: >
+      Varför visas inte mina registreringar när jag ska tilldela min utbetalnings- och avgiftsprofil?
+    answer: >
+      Det kan vara så att du inte har rätt behörigheter eller att du är inloggad med ett konto som inte har dessa behörigheter. Till exempel kan endast incitamentadministratörer för din MPN-plats skapa eller hantera utbetalnings- och skatteprofiler. Kontakta din organisationsadministratör för hjälp med bank- och skatterelaterade behörigheter.
+  - question: >
+      Jag kan bara logga in med min @onmicrosoft.com domän. Vad ska jag göra?
+    answer: >
+      Kontakta kontoadministratören om du vill lägga till fler domäner i AAD-kontot.
+  - question: >
+      Min organisation deltar i flera program. Måste jag ange min betalnings- och skatteprofil flera gånger?
+    answer: >
+      Det beror på organisationens behov. Betalningsprofiler skapas på organisationsnivå, vilket gör att samma bankprofil kan tilldelas över flera MPN-ID:n och program i en organisation. I de flesta fall kan du antingen återanvända en befintlig profil eller skapa en ny.
+
+
+      Det kan dock finnas undantag när du använder din bankprofil för olika länder eller regioner eftersom lokala bank- eller skatteregler kan gälla.
+
+
+      Skatteprofiler som skapats för en MPN-plats återanvänds och fylls i automatiskt när samma MPN-plats deltar i ett annat program. Men det kan finnas undantag. Utbetalningsreglerna för ett nytt incitamentprogram kan till exempel kräva ytterligare information om skatteprofilen.
+  - question: >
+      Kan jag använda samma bank- och skatteinformation för alla incitamentprogram på Microsoft?
+    answer: >
+      Om ditt företag bjuds in för flera program kan du använda samma betalningskonto för alla dina program eller välja att ha olika betalningsmetoder för de olika programmen.
+  - question: >
+      Hur säkerställer Microsoft att bankinformationen verkligen är företagets och inte ett personligt bankkonto för en anställd?
+    answer: >
+      Det är företagets ansvar att se till att rollen som incitamentsadministratör – som har behörighet att redigera den här informationen – endast ges till lämpliga anställda.
+  - question: >
+      Min skatteprofil har upphört att gälla. Hur gör jag för att du uppdatera den?
+    answer: >
+      Om en skatteprofil har upphört att gälla eller snart upphör att gälla, innebär det att skatteformuläret som du har angett till Microsoft måste uppdateras. Använd följande steg för att uppdatera din skatteprofil:
+
+
+      1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/home)och välj sedan kugghjulsikonen för att **Inställningar** menyn.
+
+      2. Välj **Kontoinställningar,** expandera avsnittet **Utbetalning och** skatt och välj sedan **Utbetalnings- och skatteprofil.**
+
+      3. Välj **Skatteprofil**
+
+      4. Kontrollera kolumnen Förfallodatum **och gå** till skatteprofilen som har upphört att gälla eller snart upphör att gälla.
+
+      5. Välj **Redigera** för att starta skatteprofilredigeringsprocessen.
+
+      6. I avsnittet skatteformulär anger du den uppdaterade informationen.
+- name: Felaktiga eller saknade intäkter
+  questions:
+  - question: >
+      Varför saknas min intäkt?
+    answer: >
+      - Kundordern kanske inte är berättigad till utbetalning ännu. För icke-företagskunders beställningar måste Microsoft ta emot kundbetalningar innan utgivaren blir berättigad. För företagskunders beställningar är dina intäkter tillgängliga 1–2 dagar efter inköpsorderdatumet. Verifiera orderstatus i [orderrapporter](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/order).
+
+      - Intäkter från transaktioner före juli 2019 kanske inte visas i rapporten för transaktionshistorik. Läs tidigare utdrag i [Payout Download](https://partner.microsoft.com/dashboard/payouts/reports/incentiveexport) (Ladda ned utbetalning).
+
+      - Kontrollera [tidsramen för utbetalningscykeln och](payment-thresholds-methods-timeframes.md) förstå när dina intäkter ska visas i utbetalningsutdraget.
+  - question: >
+      Varför skiljer sig mina intäkter från det jag förväntade mig?
+    answer: "- Om ordern delvis har betalats av kunden baseras ditt intäktsbelopp på det delvis betalda beloppet efter att du har dra av avgiften och lämplig skatt.\n- Kontrollera ansvaret för skatteöverföring per land. I länder där skatt är Microsoft-ansvarig samlar Microsoft in och drar av skatt från utgivarintäkter. Transaktionsbeloppet som visas i utdraget är efter skattebeloppet. Se [Skatteinformation](tax-details-marketplace.md).\n- SaaS- och IaaS-erbjudanden har en rabatterad myndighetsavgift på 10 % i stället för standard 20 %, vilket ger en intäktsfrekvens på 90 %. Det här är ett krav Co-Sell IP-adress. Erbjudandet gäller fram till den 30 juni 2021. \n\n**Mer information:** [Commercial Marketplace Publisher Agreement](/legal/marketplace/msft-publisher-agreement), Utbetalningsprincipinformation, Betalningströskel, metod och tidsram , [Få betald](marketplace-get-paid.md), [Skatteinformation](tax-details-marketplace.md), [Utbetalningsutdrag](payout-statement.md) [](payout-policy-details.md) [](payment-thresholds-methods-timeframes.md)\n"
+- name: Intäktsavstämning
+  questions:
+  - question: >
+      Hur gör jag för att stämma av utbetalningsutdrag till order- eller användningsrapporter i Analytics?
+    answer: >
+      Använd AssetID, orderID och radobjekt-ID som visas i rapporten för utbetalningstransaktionshistorik med analytiska beställningar och användningsrapporter. Använd den här mappningen:
+
+
+      - Transaktionshistorik för utbetalning. History.AssetID = order.OrderID
+
+      - Payout Transaction History.OrderID & LineItem = Usage.UsageReferenceID [OrderID:LineItemID]
+  - question: >
+      Hur vet jag när jag ska förvänta mig betalning för mina kundbeställningar?
+    answer: >
+      - Börja med att använda ditt assetID och kontrollera kundorder i [orderrapporterna.](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/order)
+
+      - Kontrollera kundkanalen för din kundprenumeration [i kundrapporten](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/customer).
+
+      - För företagskunder visas utgivares intäkter i utdraget 1–2 dagar efter inköpsorderdatumet.
+
+      - För icke-företagskunder visas utgivarintäkterna i utdraget 1–2 dagar efter att kundbetalningen har tagits emot.
+
+
+      **Mer information finns** i : [Utbetalningsutdrag,](payout-statement.md) [instrumentpanelen Beställningar på den kommersiella marknadsplatsen](/azure/marketplace/partner-center-portal/orders-dashboard)
+- name: Betalningar och justeringar
+  questions:
+  - question: >
+      Varför saknas min betalning?
+    answer: >
+      - Kontrollera att din utbetalningsstatus och skatteprofilstatus visas *som giltiga* på [översiktssidan](https://partner.microsoft.com/dashboard/commercial-marketplace/overview).
+
+      - Du kanske inte har uppnått minimitröskelvärdet för en betalning. Intäkterna måste vara minst $50 USD för att du ska få en betalning.
+  - question: >
+      Hur gör jag för att ange att mitt konto inte ska ta emot betalningar?
+    answer: >
+      Du kan hålla betalningar i [utbetalningsprofilen](https://partner.microsoft.com/dashboard/commercial-marketplace/overview). Om du vill göra detta markerar **du Hold (Håll)** så håller Microsoft betalningen till dig tills du frigör kvarten.
+  - question: >
+      Varför får jag betalningar i en annan valuta än inköpsvalutan?
+    answer: >
+      Utbetalningsvalutan baseras på den valuta som du valde i utbetalningsprofilen. Inköpsvalutan baseras på den valuta som kunden betalade i.
+  - question: >
+      Hur gör jag för att stämma av justeringar?
+    answer: >
+      Betalningsjusteringar är betalningskorrigeringar för att hantera kompensationsjusteringar, till exempel systemproblem. I utbetalningsutdraget anger ReasonCode orsaken till justeringen. Dessa är inte avsedda att stämma av direkt till enskilda transaktioner.
+
+
+      **Mer information:** [Commercial Marketplace Publisher-avtal,](/legal/marketplace/msft-publisher-agreement) [utbetalningsprincipinformation,](payout-policy-details.md)skatteinformation, [tröskelvärde för betalning, metod och tidsram](payment-thresholds-methods-timeframes.md) [](tax-details-marketplace.md)
+- name: Skatter
+  questions:
+  - question: >
+      Hur identifierar vi ansvaret för skatteinbetalning mellan Microsoft och utgivaren i utbetalningsutdraget?
+    answer: >
+      Leta reda på kolumnen Skattemodell i den nedladdade transaktionshistoriken. Där står det MS Managed (Hanteras av MS) eller ISV Managed (Hanteras av ISV). Se de landsspecifika skattereglerna och utbetalningseffekter i [Skatteinformation](tax-details-marketplace.md).
+  - question: >
+      Hur gör jag för att hämta skatteformulär för serviceavgifter?
+    answer: >
+      Gå till sidan **Payout Payment** (Utbetalning) och sedan till avsnittet **List of Payment** (Lista över betalningar). En länk till skatteformuläret för serviceavgifter för en betalning som har serviceavgifter/skatt.
+  - question: >
+      Var hittar jag skatteblanketter för slutet av beskattningsåret?
+    answer: >
+      Gå till [profilsidan](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage) för att visa dina skatteblanketter för slutet av beskattningsåret.
+  - question: >
+      Hur hittar jag källskatten för en transaktion?
+    answer: >
+      Källskatt gäller för amerikanska utgivare som har skickat in ett W-9-formulär. Källskatt beräknas för en månatlig betalning.
+
+
+      **Mer information** finns [i: Commercial Marketplace Publisher Agreement](/legal/marketplace/msft-publisher-agreement), [Utbetalningsprincip](payout-policy-details.md)
+- name: Åtkomst till utbetalningsutdrag
+  questions:
+  - question: >
+      Hur får jag åtkomst till ett utbetalningsutdrag?
+    answer: "1. Kontrollera dina roller. Du måste ha rollen *finansiell bidragsgivare* eller *kontoägare* för att få åtkomst till utbetalningsutdrag.\n2. I det övre högra navigeringsfönstret väljer du **utbetalningsikonen** för att visa ditt utbetalningsutdrag. Välj mellan **Transaktionshistorik,** **Betalning** och **Ladda ned**.\n\n**Mer information:** [Utbetalningsroller och behörigheter](payout-statement.md#roles-and-permissions), [Utbetalningsutdrag](payout-statement.md) \n"
+- name: Rapport för utbetalningsutdrag
+  questions:
+  - question: >
+      Vad betyder varje fält i transaktionsnedladdningen?
+    answer: >
+      Se [Utbetalningsutdrag](payout-statement.md) för en detaljerad lista över attributen och deras betydelser.
+  - question: >
+      Vad är intäktsstatus?
+    answer: >
+      Detta visar dina intäkter som antingen obearbetade, bearbetade eller skickade.
+
+
+      - **Obearbetad** – intäkterna är under en depositionsperiod fram till förfallodatumet.
+
+      - **Bearbetade** – intäkterna har mognat och förbereds till en månatlig betalning. Betalningar släpps den 15:e i varje månad.
+
+      - **Skickat** – Betalningen har publicerats till din bank baserat på din utbetalningsprofil.
+  - question: >
+      Hur gör jag för att hämta skatteformulär för serviceavgifter?
+    answer: >
+      Gå till sidan **Payout Payment** (Utbetalning) och sedan till avsnittet **List of Payment** (Lista över betalningar). En länk till skatteformuläret för serviceavgifter för en betalning som har serviceavgifter/skatt.
+  - question: >
+      Hur gör jag för att du ladda ned ett källskatteformulär i PDF-format?
+    answer: >
+      Gå till sidan **Payout Payment** (Utbetalning) och sedan till avsnittet **List of Payment** (Lista över betalningar). En länk till ett källskatteformulär visas bredvid en betalning. Ett källskatteformulär gäller endast för valda incitamentprogram, inte för utbetalning från den kommersiella marknadsplatsen.
+  - question: >
+      Var hittar jag skatteblanketter för slutet av beskattningsåret?
+    answer: >
+      Gå till [profilsidan](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage) för att visa dina skatteblanketter för slutet av beskattningsåret.
+
+
+      **Mer information:** [Utbetalningsutdrag](payout-statement.md), [nedladdning av transaktionshistorik](payout-statement.md#transaction-history-download)
+- name: Historiska uttryck
+  questions:
+  - question: >
+      Hur gör jag för att du visa historisk information?
+    answer: >
+      Historiskt utdrag visar en ögonblicksbild av utbetalningsdata från oktober 2019. Utbetalningsinformationen här uppdateras tyvärr inte. Om du vill få den senaste informationen skickar du en supportbiljett för den senaste informationen.
+
+
+      **Mer information:** [Utbetalningsutdrag](payout-statement.md), [nedladdning av transaktionshistorik](payout-statement.md#transaction-history-download)
+- name: API för utbetalningsexport
+  questions:
+  - question: >
+      Hur gör jag för att ladda ned utbetalningsdata?
+    answer: >
+      Använd [partnerns utbetalnings-API.](https://apidocs.microsoft.com/services/partnerpayouts)
+- name: Utbetalningsprinciper för den kommersiella marknadsplatsen
+  questions:
+  - question: >
+      Hur gör jag för att hitta aktuellt arvode och utbetalningsfrekvens?
+    answer: >
+      - Kontrollera utgivaravtalet för kommersiell marknadsplats. Standardarvodet är 20 %. SaaS-säljberättigade transaktioner har en rabatterad avgift på 10 %. Sök efter meddelanden om arvoden för PR-byråer.
+
+      - I ditt utbetalningsutdrag anger intjäningstakten den faktiska utbetalningsfrekvensen för en viss transaktion.
+  - question: >
+      När kan jag vänta mig en betalning från Microsoft när intäkterna visas i mitt utdrag?
+    answer: >
+      - När dina intäkter har status obearbetad kan du kontrollera förfallodatum för den månad då dina intäkter bearbetas för betalning. När betalningen har förberetts ändras din intäktsstatus till "bearbetad".  Microsoft släpper betalningar den 15:e i förfallomånaden.
+
+      - För beställningar som betalas med kreditkort håller Microsoft betalningar i 30 dagar tills intjäning har mognat.
+
+       **Mer information:** [Commercial Marketplace Publisher-avtal,](/legal/marketplace/msft-publisher-agreement) [utbetalningsprincipinformation,](payout-policy-details.md)skatteinformation, [tröskelvärde för betalning, metod och tidsram](payment-thresholds-methods-timeframes.md) [](tax-details-marketplace.md)
+additionalContent: "\n## <a name=\"next-steps\"></a>Nästa steg\n\n- [Få betalt](marketplace-get-paid.md)\n- [Konfigurera utbetalningskonto och deklarationsblanketter](set-up-your-payout-account.md)"
