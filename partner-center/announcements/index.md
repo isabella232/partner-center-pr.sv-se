@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/09/2021
-ms.openlocfilehash: 664e8d1353a022e73a5d2f68d11dea4d7cfd438f
-ms.sourcegitcommit: e2256e60cd2d4d41b3653655e3b1931292234283
+ms.openlocfilehash: 81b687e6c1f5fe1f35fc12f7dbb53e76416b5005
+ms.sourcegitcommit: 285c0007cb2c2e26ff6a3d2fd6bf91edc82a3946
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/11/2021
-ms.locfileid: "113599779"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "113648373"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -22,29 +22,31 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 
 |**Kategori**|**Meddelanden juli 2021**|**Meddelande**|
 |---------|:---------|:---------|
+|Beredskap|[Ändringar i CSP Molnlösningsleverantör-API:et för kundadressvalidering kommer att släppas live den 13 juli 2021](2021-july.md#8)| 12 juli |
+|Funktioner|[Communityuppdatering Molnlösningsleverantör juli (CSP) och påminnelser](2021-july.md#7)| 12 juli |
 |Funktioner|[Håll dina Microsoft-certifieringar aktiva med hjälp från Partnercenter](2021-july.md#6)| 9 juli |
 |Funktioner|[SDK-version på .NET Standard (v2.0.1)](2021-july.md#5)| 7 juli |
-|Funktioner|[Meddelande om transparens för kundrabatter](2021-july.md#4)| 7 juli |
-|Funktioner|[Windows 7 problem med produktnyckeln för Extended Security Updates (ESU) år 2 (2021) har lösts](2021-july.md#3)|2 juli |
+|Funktioner|[Meddelande om transparens för kundrabatt](2021-july.md#4)| 7 juli |
+|Funktioner|[Windows 7 problem med produktnyckeln för Extended Security Updates (ESU) år 2 (2021) löst](2021-july.md#3)|2 juli |
 |Funktioner|[Visa den här månadens produktlanseringar och erbjudanden](2021-july.md#2)|1 juli|
 |Funktioner|[Dynamics 365 Molnmigrering befordran och tillbakatillbakadragande av rabatterade erbjudanden](2021-july.md#1)|1 juli|
 |**Kategori**|**Meddelanden för juni 2021**|**Meddelande**|
-|Funktioner|[Fas 2-uppdatering: Ändring av partnerfaktureringsvaluta för nya handelserbjudanden i EU/EFTA och Storbritannien](2021-june.md#9)|24 juni|
+|Funktioner|[Fas 2-uppdatering: Ändring av partnerfaktureringsvaluta för nya handelserbjudanden i EU/EFTA och Storbritannien](2021-june.md#9)|Den 24 juni|
 |Funktioner|[Visa de senaste kampanjerna och erbjudandena](2021-june.md#8)|22 juni|
-|Funktioner|[Fas 1: Ändringar av azure-erbjudandets tillgänglighet i Molnlösningsleverantör (CSP) som rör den nya handelsupplevelsen kommer snart](2021-june.md#7)|21 juni|
+|Funktioner|[Fas 1: Ändringar i Azure-erbjudandets tillgänglighet i Molnlösningsleverantör (CSP) som rör den nya handelsupplevelsen kommer snart](2021-june.md#7)|Den 21 juni|
 |Utveckla din verksamhet|[Community-Molnlösningsleverantör för juni Molnlösningsleverantör (CSP) och påminnelser](2021-june.md#6)|11 juni|
 |Erbjudanden och marknader|[Molnlösningsleverantör (CSP)-kampanjtillägg för Microsoft 365 ljudkonferens och Microsoft 365 Business Voice](2021-june.md#5)|11 juni|
 |Funktioner|[Löpande prislista för programvara korrigerad och ompublicerad](2021-june.md#4)|4 juni|
 |Funktioner|[Korrigeringar av förhandsversionen av prislistan för licensbaserade tjänster i juli](2021-june.md#3)|4 juni|
-|Funktioner|[Ytterligare kolumner för mer omfattande information i Azure-användningsrapporter](2021-june.md#2)|Juni 2|
+|Funktioner|[Ytterligare kolumner för mer omfattande information i Användningsrapporter för Azure](2021-june.md#2)|Juni 2|
 |Funktioner|[Visa den här månadens produktlanseringar och erbjudanden](2021-june.md#1)|1 juni|
-|**Kategori**|**Maj 2021-meddelanden**|**Meddelande**|
-|Funktioner|[Sandbox-stöd för indirekt modell för att aktivera API-testning från slutet till slut](2021-may.md#15)|25 maj|
-|Funktioner, förbättrar & efterlevnad |[Juniuppdateringar av Online Services (OLS) och auktoriseringsguide för programvarukanal](2021-may.md#14)|25 maj|
-|Funktioner|[Uppdateringar om hur man överför permanent programvara i CSP och ändringar i Open License-programmet](2021-may.md#13)|17 maj|
+|**Kategori**|**Meddelanden maj 2021**|**Meddelande**|
+|Funktioner|[Sandbox-stöd för indirekt modell för att aktivera API-testning från end-to-end](2021-may.md#15)|Den 25 maj|
+|Funktioner, förbättrar säkerhet och & efterlevnad |[Juniuppdateringar av Online Services (OLS) och Software Channel Authorization guide](2021-may.md#14)|Den 25 maj|
+|Funktioner|[Uppdateringar av löpande programvara i CSP och ändringar i Open License-programmet](2021-may.md#13)|17 maj|
 |Funktioner|[Fas 2 kommer snart: EU/EFTA och Storbritannien byter partnerfaktureringsvaluta för nya handelserbjudanden](2021-may.md#12)|17 maj|
 |Funktioner|[Utfasning av Microsoft 365 Business Voice Komma igång (GSW)](2021-may.md#11)|Den 14 maj|
-|Funktioner|[Kan Molnlösningsleverantör (CSP) community-uppdatering och påminnelser](2021-may.md#10)|13 maj|
+|Funktioner|[Kan Molnlösningsleverantör (CSP)-communityuppdatering och påminnelser](2021-may.md#10)|Den 13 maj|
 |Funktioner|[Analys för partnerledda samförsäljningserbjudanden](2021-may.md#9)|10 maj|
 |Funktioner|[Incitamentprogram för värdtjänster och SPLA-återförsäljare utökades till och med 30 september 2021](2021-may.md#8)|7 maj|
 |Funktioner|[Standardfunktionaliteten för bankprofiler är tillgänglig i Partnercenter för incitamentregistrering](2021-may.md#7)|7 maj|
@@ -85,25 +87,25 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 |Funktioner|[Nya Microsoft Dynamics 365-produkter och -erbjudanden är tillgängliga den 1 april 2021](2021-march.md#2)|4 mars|
 |Funktioner|[Microsoft Universell utskrift nu tillgängligt i vissa paket](2021-march.md#1)|Den 3 mars|
 |**Kategori**|**Meddelanden i februari 2021**|**Meddelande**|
-|Funktioner|[PUT-kvalificerings-API:er dras tillbaka, GET för att tas ur bruk i maj](2021-february.md#14)|25 februari|
-|Funktioner|[Dela avtal för säljförsäljning i stor skala med hjälp av funktionen för massåtgärder i Partnercenter](2021-february.md#13)|25 februari|
-|Funktioner|[Migrera dina avtal från Partner Sales Anslut (PSC) med hjälp av den nya avtalsmigreringsfunktionen](2021-february.md#12)|25 februari|
+|Funktioner|[PUT-kvalificerings-API:er dras tillbaka, GET tas ur bruk i maj](2021-february.md#14)|25 februari|
+|Funktioner|[Dela säljavtal i stor skala med hjälp av funktionen för massåtgärder i Partnercenter](2021-february.md#13)|25 februari|
+|Funktioner|[Migrera dina avtal från Partner Sales Anslut (PSC) med den nya avtalsmigreringsfunktionen](2021-february.md#12)|25 februari|
 |Funktioner|[Ökad flexibilitet med partnerledda samförsäljningserbjudanden](2021-february.md#11)|25 februari|
-|Funktioner|[Ändringar i CSP Molnlösningsleverantör-kunds onboarding](2021-february.md#10)|25 februari|
-|Funktioner|[Now Live: DocuSign-migrering till Adobe Sign för partner under Microsoft-partneravtal (MPA)](2021-february.md#9)|Den 16 februari|
-|Utveckla din verksamhet|[Påminnelse: Introduktion till API-begränsning till partner som anropar API:er för Partnercenter](2021-february.md#8)|Den 16 februari|
+|Funktioner|[Ändringar i CSP Molnlösningsleverantör kunden (CSP)](2021-february.md#10)|25 februari|
+|Funktioner|[Now Live: DocuSign-migrering till Adobe Sign för partner under Microsoft-partneravtal (MPA)](2021-february.md#9)|16 februari|
+|Utveckla din verksamhet|[Påminnelse: Introduktion till API-begränsning till partner som anropar API:er för Partnercenter](2021-february.md#8)|16 februari|
 |Funktioner|[Introduktion till Microsoft Viva-ämnen](2021-february.md#7)|12 februari|
 |Erbjudanden/marknader|[Microsoft 365 E3 kommer för mars 2021](2021-february.md#6)|11 februari|
 |Erbjudanden/marknader|[Prislistan för licensbaserad förhandsversion har uppdaterats för norska kronor](2021-february.md#5)|10 februari|
 |Funktioner|[Premium utvärderingar, ett tillägg till Compliance Manager, kommer den 1 mars 2021](2021-february.md#4)|5 februari|
 |Funktioner|[Svara på COVID-19: Microsoft Partner Network uppdatering](2021-february.md#3)|4 februari|
 |Funktioner|[Nya uppdateringar av referensmodulen i Partnercenter](2021-february.md#2)|4 februari|
-|Modern arbetsplats|[Utfasning och tillbakadragning av PUT-kvalificerings-API:er för valideringsprocessen för Education-kunder senast den 25 februari 2021 och GET-kvalificering den 4 maj 2021](2021-february.md#1)|4 februari|
+|Modern arbetsplats|[Utfasning och tillbakadragning av PUT-kvalificerings-API:er för kundvalideringsprocessen för Education den 25 februari 2021 och GET-kvalificering senast den 4 maj 2021](2021-february.md#1)|4 februari|
 | **Kategori** | **Meddelanden januari 2021** | **Meddelande** |
-|Modern arbetsplats|[Fas 1 nu live: EU/EFTA & Ändring av partnerfaktureringsvaluta för nya handelserbjudanden](2021-january.md#15)|Den 28 januari|
-|Modern arbetsplats|[Ändringar i Molnlösningsleverantör-kunders krav för onboarding](2021-january.md#14)|Den 28 januari|
-|Funktioner|[Microsoft-partneravtal (MPA) – uppdatering av indirekt återförsäljare & nya vanliga frågor och svar](2021-january.md#13)|Den 27 januari|
-|Funktioner|[Ändringar i granskningsloggen i Partnercenter med två nya åtgärdstyper för DAP](2021-january.md#12)|Den 25 januari|
+|Modern arbetsplats|[Fas 1 nu live: EU/EFTA & ändring av partnerfaktureringsvaluta för nya handelserbjudanden](2021-january.md#15)|28 januari|
+|Modern arbetsplats|[Ändringar i Molnlösningsleverantör-kunders krav för onboarding](2021-january.md#14)|28 januari|
+|Funktioner|[Microsoft-partneravtal (MPA) – uppdatering av indirekt återförsäljare & nya vanliga frågor och svar](2021-january.md#13)|27 januari|
+|Funktioner|[Ändringar i granskningsloggen i Partnercenter med två nya åtgärdstyper för DAP](2021-january.md#12)|25 januari|
 |Funktioner|[Ändringar av tillgängligheten för Azure-erbjudanden i CSP som rör den nya handelsupplevelsen i CSP för Azure](2021-january.md#11)|Den 21 januari|
 |Utveckla verksamheten|[Evig programvara finns nu tillgänglig i Molnlösningsleverantör-programmet ](2021-january.md#10)|19 januari|
 |Utveckla verksamheten|[Påminnelse: Introduktion till API-begränsning till partner som anropar API:er för Partnercenter](2021-january.md#9)|19 januari|

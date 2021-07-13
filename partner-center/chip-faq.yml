@@ -1,0 +1,69 @@
+### YamlMime:FAQ
+metadata:
+  title: Vanliga frågor om Solution Assessment Incentives
+  ms.topic: how-to
+  ms.date: 11/09/2020
+  description: Få svar på vanliga frågor om Lösningsbedömning på CHIP (Channel Incentives Platform).
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-incentives
+  author: Karthic83
+  ms.author: kashanum
+  ms.localizationpriority: medium
+  ms.custom: SEOMAY.20
+  ms.openlocfilehash: 60586dbabfc289d2ebc355e5d7bacf5bb11fcfe5
+  ms.sourcegitcommit: 0b6e24e54faf9ccd05d11e673bbd9add27c82567
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/13/2021
+  ms.locfileid: "113658022"
+title: Vanliga frågor och svar om Incitament för Solution Assessment för CHIP (Channel Incentives Platform)
+summary: >
+  **Lämpliga roller:** Primär kontakt eller programadministratör
+
+
+  Få svar på vanliga frågor nedan.
+sections:
+- name: Ignoreras
+  questions:
+  - question: >
+      Vilka är behörighetskraven för programmet Solution Assessment Incentive?
+    answer: "Partner med aktiv och registrerad status i Solution Assessment Incentives Program i FY20 fortsätter att vara berättigade till incitament i FY21 om de har ett aktivt MPN-medlemskap och en aktiv SILVER- eller guld-MPN-kompetens. Partnerkvalifikationer granskas för berättigande varje år.  Om etablerade partner inte uppfyller behörighets- och deltagandekraven för det aktuella året tas de bort i nästa årliga granskning.  Alla nya partner publiceras via den lokala SAS-specialisten (Solution Assessment Specialist) i sitt område.  SAS identifierar vilka partner som ska publiceras baserat på matchning av kunskaper och expertis i partnerföretaget och affärsbehoven för de dotterbolag som stöds av SAS.\nInnan onboarding-processen påbörjas måste partner diskutera med SAS vilka funktioner företaget har i att stödja utvärderingar på deras lokala plats. \n\nPartner som för närvarande inte är registrerade i incitamentprogrammet måste uppfylla nedanstående fy21-incitamentskriterier för att vara berättigade till registrering av incitament för lösningsbedömning. Mer information finns i [Berättigande till lösningsbedömning.](chip-solutions-assessment-eligible.md)\n"
+  - question: >
+      Hur gör jag för att registrera dig i incitamentprogrammet för lösningsutvärderingar?
+    answer: >
+      Kontakta din lokala lösningsbedömningsspecialist (SAS) för att påbörja processen.
+  - question: >
+      Hur gör jag för att jag min bank- och skatteinformation?
+    answer: >
+      Läs [Navigera i CHIP](chip-intro.md) för stegvisa instruktioner om hur du skickar in dina bank- och skatteprofiler.
+  - question: >
+      Min avtalsstatus har godkänts i CHIP. Varför har den inte betalats än?
+    answer: >
+      Förutom avtalsstatusen måste POE-statusen också godkännas i CHIP innan affärsmöjligheten kan skickas för betalning. Granska din möjlighet i CHIP för att säkerställa att POE har laddats upp och godkänts av POE-valideringsteamet i CHIP. Om du vill visa POE-status loggar du in på CHIP och väljer **Sökavtal** **från Jag behöver...** . Ange **affärsmöjlighets-ID:t** och välj **Sök**. I sökresultaten väljer du hyperlänken "Redigera" under POE. På den resulterande sidan bläddrar du till avsnittet Granska för att se POE-status. Granska även fältet Kommentarer om POE-teamet har begärt ytterligare information om POE.
+  - question: >
+      Varför fick jag ingen betalning för milstolpe 1 för min affärsmöjlighet?
+    answer: >
+      Från och med 15 augusti 2020 betalas milstolpe 1 på 0 % av den godkända incitamentnivån och milstolpe 2 betalas ut till 100 % av den godkända incitamentnivån. Alla öppna CHIP-registrerade engagemang före den 15 augusti 2020 fortsätter att betalas enligt FY20-vägledningen. Gå igenom [partnerns vanliga frågor](https://assetsprod.microsoft.com/solution-assessment-incentive-program-faq.pdf) och svar för att få vägledning om ändringarna i milstolpeprocessen.
+  - question: >
+      Hur bestrider jag en affärsmöjlighet eller betalning som jag har fått?
+    answer: >
+      Kontakta din SAS som kan ge vägledning om den här begäran.
+  - question: >
+      Affärsmöjligheten stängs i CHIP vilket hindrar mig från att ladda upp POE. Vad kan jag göra för att få chansen betald?
+    answer: >
+      När en affärsmöjlighet har stängts är den inte längre berättigad till incitament. Kontakta din SAS för ytterligare vägledning.
+  - question: >
+      Hur gör jag för att lägga till en ny administratör/användare i CHIP?
+    answer: >
+      Den primära partnerkontakten (admin) har ansvaret att bjuda in alla andra användare i företaget att registrera sig i CHIP. De ansvarar även för användaråtkomst, inklusive inaktivering av alla användare som lämnar företaget. Läs Channel [Incentives Platform Guide](chip-intro.md).
+  - question: >
+      Den primära administratören har lämnat företaget. Hur ändrar vi min primära administratör i CHIP?
+    answer: >
+      Den primära administratören i CHIP ska vara den primära partnerkontakten i MPN. Kontrollera att MPN har uppdaterats med den nya kontakten och kontakta ditt regionala supportteam för att begära ändringen i CHIP.
+
+
+      På instrumentpanelen i Partnercenter väljer **du Support** på den vänstra menyn. Välj **Incitament** som din kategori eller sök efter programnamnet i området "Bläddra bland ämnen".
+
+
+      När du har tittat på den tillgängliga ämnesspecifika hjälpen kan du, om du fortfarande behöver hjälp, skapa ett ärende direkt från alternativet Rekommenderade dokument – **Skapa en supportbiljett.**
+additionalContent: "\n## <a name=\"next-steps\"></a>Nästa steg\n\n- [Navigera i CHIP](chip-intro.md)"
