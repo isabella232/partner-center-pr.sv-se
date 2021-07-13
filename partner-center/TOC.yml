@@ -9,27 +9,13 @@
     - name: Partnersamarbete med Microsoft
       href: mpn-overview.md
       displayName: mpn
-    - name: Skapa ett MPN-konto i Partnercenter
+    - name: Skapa MPN-konto i Partnercenter
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
     - name: Felsöka kontokonfiguration
       href: troubleshoot-account-sign-n.md
-    - name: Flytta från PMC
-      items:
-        - name: Förbereda migrering från PMC
-          href: prepare-pmc-pc-migration.md
-          displayName: 'role, roles, ro, mpn'
-        - name: Guide för att flytta från PMC
-          href: guide-to-migration.md
-        - name: Jämför PMC och PC
-          href: move-pmc-pc-map.md
-        - name: Flytta många företag
-          href: move-multiple-companies.md
-        - name: Konsolidera företag
-          href: consolidate-accounts.md
-        - name: Aktivera förmåner för PMC
-          href: partner-membership-center-tech-benefits-activate.md
-          displayName: mpn
+    - name: Partner Membership Center går i pension
+      href: partner-membership-center-retirement-faq.md
     - name: Medlemsförmåner
       items:
         - name: Översikt över förmåner
@@ -48,9 +34,9 @@
           href: mpn-find-benefits.md
           displayName: mpn
         - name: Princip och användning för förmåner – Vanliga frågor och svar
-          href: benefits-faq-new.md
+          href: benefits-faq-new.yml
         - name: Vanliga frågor och svar om förmåner
-          href: benefits-faq.md
+          href: benefits-faq.yml
           displayName: 'renew, license,'
         - name: Visa eller ladda ned din MPN-faktura
           href: mpn-view-print-maps-invoice.md
@@ -97,11 +83,11 @@
         - name: Lär dig mer om kompetenser
           href: learn-about-competencies.md
           displayName: mpn
-        - name: Registrera dig som utbildningspartner
+        - name: Registrera dig som Learning partner
           href: mpn-benefits-map-competency-learning-option-enroll.md
           displayName: mpn
         - name: Vanliga frågor och svar om kompetenser
-          href: competencies-faq.md
+          href: competencies-faq.yml
           displayName: 'renew, mpn'
         - name: Avgifter för betalning av kompetens
           href: mpn-pay-fee-silver-gold-competency.md
@@ -114,9 +100,10 @@
       items:
         - name: Demonstrera dina kunskaper
           href: advanced-specializations.md
+          displayName: Advanced specializations
         - name: Tillämpa eller kontrollera status
           href: advanced-specializations-apply.md
-          displayName: mpn
+          displayName: 'mpn, Advanced specializations'
     - name: Bli en Azure Expert MSP
       href: azure-expert-msp.md
 - name: Molnlösningsleverantör program (CSP)
@@ -161,7 +148,7 @@
         - name: Välkommen till Partnercenter för Microsoft Cloud for US Government
           href: partner-center-for-microsoft-us-govt-cloud.md
         - name: Vanliga frågor och svar – Microsoft Cloud för myndigheter i USA
-          href: faq-for-us-govt-cloud.md
+          href: faq-for-us-govt-cloud.yml
           displayName: csp
         - name: Partnercenter för Microsoft Cloud Tyskland
           href: partner-center-for-microsoft-cloud-germany.md
@@ -204,6 +191,8 @@
         - name: Uppdatera din partnerprofil
           href: update-your-partner-profile.md
           displayName: mpn
+        - name: Certifiering av partner finder-lista
+          href: partner-finder-certification.md
         - name: Information om registrerings-ID-nummer
           href: reg-number-id.md
         - name: Bli en kontrollpanelsleverantör
@@ -263,12 +252,12 @@
           href: bulk-operations.md
         - name: Använda CRM-anslutningsprogram för säljsamarbete
           items:
-            - name: För Dynamics 365
+            - name: Anslutningsapp för Dynamics 365
               href: connector-dynamics.md
-            - name: För Salesforce
+            - name: Anslutningsapp för Salesforce
               href: connector-salesforce.md
-        - name: Felsöka anslutningsprogram
-          href: connectors-troubleshoot.md
+            - name: Felsöka anslutningsprogram
+              href: connectors-troubleshoot.md
         - name: Säljsamarbete – migrering från PSC till PC
           href: psc-to-pc.md
           displayName: mpn
@@ -365,7 +354,7 @@
         - name: Betalningsstatus för lösningsbedömning
           href: chip-solution-assessment-payment.md
         - name: Vanliga frågor och svar om lösningsbedömning
-          href: chip-faq.md
+          href: chip-faq.yml
         - name: Problem med att komma åt CHIP
           href: chip-access-trouble.md
 - name: Fakturering och skatter
@@ -787,5 +776,5 @@
       href: partner-security-compliance.md
       displayName: csp
     - name: Vanliga frågor och svar
-      href: partner-security-requirements-faq.md
+      href: partner-security-requirements-faq.yml
       displayName: 'sandbox, csp'
