@@ -89,7 +89,7 @@
         - name: Vanliga frågor och svar om kompetenser
           href: competencies-faq.yml
           displayName: 'renew, mpn'
-        - name: Betala avgifter för kompetens
+        - name: Avgifter för betalning av kompetens
           href: mpn-pay-fee-silver-gold-competency.md
           displayName: mpn
         - name: Undantag för apputvecklarkompetens
@@ -121,7 +121,7 @@
     - name: Växla CSP-direktfakturering till indirekt återförsäljare
       href: transition-direct-to-indirect.md
       displayName: csp
-    - name: Partner kan inte längre registreras som rådgivare
+    - name: Partner kan inte längre registrera sig som rådgivare
       href: advisors-no-csp.md
 - name: CSP-avtal
   href: microsoft-partner-agreement.md
@@ -273,7 +273,7 @@
     - name: Komma igång med incitament
       items:
         - name: Vanliga frågor och svar om incitament
-          href: incentives-faq.md
+          href: incentives-faq.yml
           displayName: mpn
         - name: Kom igång med incitament
           href: incentives-get-started-intro.md
