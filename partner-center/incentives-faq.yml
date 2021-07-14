@@ -1,0 +1,81 @@
+### YamlMime:FAQ
+metadata:
+  title: Vanliga frågor och svar om incitament
+  ms.topic: how-to
+  ms.date: 02/05/2021
+  description: Vanliga frågor och svar om Microsoft-incitament. Den här artikeln innehåller frågor om användarroller, hur du registrerar eller vad du kan göra med felmeddelanden.
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-incentives
+  author: mseamons
+  ms.author: mseamons
+  ms.localizationpriority: medium
+  ms.openlocfilehash: 868b47431eb6d04c0885f82c13f7611bace24d2c
+  ms.sourcegitcommit: d1deaeb1703cf2c25119037c5fb624c44fca74b4
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/14/2021
+  ms.locfileid: "113753576"
+title: Vanliga frågor och svar om incitament
+summary: >
+  **Lämpliga roller:** Incitamentsadministratörsroller | Incitamentsanvändare
+sections:
+- name: Ignoreras
+  questions:
+  - question: >
+      Måste jag vara global administratör för att registrera mig för incitament?
+    answer: >
+      Nej. Både den globala administratören och kontoadministratören kan tilldela användare som incitamentsadministratörer. Incitamentsadministratörer hanterar företagets incitamentsprogram via Partnercenter. Mer information finns i Översikt [över behörigheter.](permissions-overview.md)
+  - question: >
+      Vad behöver jag göra om jag upptäcker att mitt företag redan är medlem i Microsoft Partner Network (MPN)?
+    answer: >
+      Om du försöker ansluta till MPN och ditt företag redan är medlem känner MPN igen domänen och kopplar dig till det befintliga kontot. Det befintliga kontot kan vara samma företag eller ett relaterat företag som använder samma e-postdomän, eller samma Azure Activity Directory (Azure AD) för att hantera flera domäner.
+
+
+      Du kan identifiera den primära kontakten på sidan Juridisk profil. Om din plats är MPNHQ-platsen behöver du bara konfigureras med de behörigheter som krävs för att hantera incitament. Mer information om roller och behörigheter finns i Översikt [över behörigheter.](permissions-overview.md)
+
+
+      Om du inte befinner dig i samma land som [MPNHQ-platsen](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) kan du läsa Mer information om det här scenariot i Instruktioner för konton över flera länder.
+  - question: >
+      Vilka användarroller är tillgängliga?
+    answer: >
+      Den person som registrerar företaget i Partnercenter blir som standard primär kontakt och global administratör. Administratören kan bjuda in och hantera användare på portalen.
+
+
+      De viktigaste rollerna för incitament är incitamentsadministratör och incitamentsanvändare. Incitamentsadministratören kan registrera sig i incitamentprogram och hantera bank- och skatteinformation för partnern. Incitamentsanvändaren kan visa rapporter i verktyget för att se vad som betalats och uppdelningen av varje betalning, men kan inte visa eller redigera bankinformation. Båda rollerna kan tillämpas på alla platser under det globala partnerkontot.
+
+
+      Mer information finns i Översikt [över behörigheter.](permissions-overview.md)
+  - question: >
+      Hur tar jag reda på vem som har behörighet som global administratör eller kontoadministratör för mitt företag?
+    answer: "Så här hittar du en global administratör eller kontoadministratör som kan göra rolländringar eller tilldela roller till en ny användare:\n\n1. Från ikonen Kontoinställningar längst upp till höger i Partnercenter väljer du **Användarhantering.**\n2. Filtrera på **antingen Global administratör** eller **Kontoadministratör.**\n3. Du kan också gå **till Min profil,** välja **Roller** och behörigheter och se en lista över de olika administratörer som kan hjälpa dig att höja dina behörigheter.\n \nMer information finns i [Hitta din roll.](find-your-role.md)  \n"
+  - question: >
+      Jag kan inte komma åt incitament med mina autentiseringsuppgifter.
+    answer: >
+      Den troliga anledningen till att du inte kan se incitament är att du inte har rätt behörigheter. Använd följande procedur för att åtgärda detta.
+
+
+      1. Logga in på [instrumentpanelen i Partnercenter med](https://partner.microsoft.com/dashboard/) dina autentiseringsuppgifter för Azure AD-klientorganisationen (dina autentiseringsuppgifter för arbetet). Kontakta företagets globala administratör om du inte kan logga in.
+
+
+      2. Om du uppmanas att välja från ditt arbetskonto eller personliga konto när du **loggar** in **väljer** du **Arbetskonto**.
+
+
+      3. På menyn i Partnercenter väljer **du Incitament** och sedan **Översikt.** Om du inte har behörighet som incitamentsadministratör eller incitament visas kontaktinformationen för alla globala administratörer och kontoadministratörer i ditt företag. Kontakta någon av dessa administratörer för att få incitamentrollen för de MPN-ID:er och incitamentprogram som krävs.
+
+
+      4. Om du redan har rollen incitamentsadministratör visas registreringarna för ditt företag för DE MPN-ID:er och incitamentprogram som du har åtkomst till.
+  - question: >
+      Vissa registreringar saknas på sidan med incitamentsöversikten.
+    answer: >
+      Om du antingen har fått en inbjudan från eller har registrerat dig i ett incitamentprogram som inte längre visas på instrumentpanelen bör du kontrollera att du har rätt åtkomst. Endast användare med rollen Incitamentsanvändare eller Incitamentsadministratör kan se programmet. Se [Hitta din roll.](./find-your-role.md)
+
+
+      Om du behöver ändra din roll eller dina behörigheter kontaktar du företagets globala administratör eller kontoadministratör. Om du vill veta vilka dessa personer är kan du [läsa Hitta din globala administratör.](./find-your-role.md#find-your-global-admin)
+
+
+      På sidan Översikt visas endast registreringar som är associerade med partnerns globala konto (PGA) som är associerat med Azure AD-klientorganisationen. Om ditt företag har fler än en PGA måste du ha olika autentiseringsuppgifter för var och en.
+  - question: >
+      Vem bör jag kontakta om jag får ett felmeddelande eller behöver hjälp under registreringsprocessen?
+    answer: >
+      Det finns en onlinesupporttjänst om du stöter på problem i avsnittet Incitament på instrumentpanelen – se supportalternativet (? Ikon) längst upp till höger.
+additionalContent: "\n## <a name=\"next-steps\"></a>Nästa steg\n\n- [Komma igång med incitament](incentives-get-started-intro.md)"
