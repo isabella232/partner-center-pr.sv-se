@@ -1,0 +1,67 @@
+---
+title: Insights Ladda ned rapportinstrumentpanel
+ms.topic: article
+ms.date: 10/14/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Lär dig hur du laddar ned och exporterar data från instrumentpanelen för enhetlig rapportering i Partnercenter och från Partnercenter Insights rapporter.
+author: shthota77
+ms.author: shthota
+ms.localizationpriority: medium
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 361965920f67b8846edce5987a63462e7ac72e71
+ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.translationtype: MT
+ms.contentlocale: sv-SE
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "114377244"
+---
+# <a name="download-reports"></a><span data-ttu-id="ff2e0-103">Ladda ned rapporter</span><span class="sxs-lookup"><span data-stu-id="ff2e0-103">Download reports</span></span>
+
+<span data-ttu-id="ff2e0-104">**Lämpliga roller:** Visningsprogram för | Rapportvisningsprogram</span><span class="sxs-lookup"><span data-stu-id="ff2e0-104">**Appropriate roles**: Executive report viewer | Report viewer</span></span>
+
+## <a name="introduction"></a><span data-ttu-id="ff2e0-105">Introduktion</span><span class="sxs-lookup"><span data-stu-id="ff2e0-105">Introduction</span></span>
+
+<span data-ttu-id="ff2e0-106">Med hubben Ladda ned rapporter på Insights-instrumentpanelen kan du exportera de rådatauppsättningar som driver Partner Center Insights-rapporter i TSV-format (tabbavgränsat värde).</span><span class="sxs-lookup"><span data-stu-id="ff2e0-106">The Download Reports hub in the Insights dashboard enables you to export the raw data sets that power the Partner Center Insights reports, in tab-separated value (TSV) format.</span></span> <span data-ttu-id="ff2e0-107">På så sätt kan du göra djupare analyser av data baserat på affärsbehoven.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-107">This lets you do deeper analysis on the data, based on the business needs.</span></span>
+
+<span data-ttu-id="ff2e0-108">När rapporten har genererats är den tillgänglig i avsnittet **Genererade** rapporter där du kan ladda ned och analysera med hjälp av verktyg som Microsoft Excel.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-108">Once generated, the report  will be available in the **Generated reports** section for you to download and analyze using tools like Microsoft Excel.</span></span>
+
+<span data-ttu-id="ff2e0-109">**Skapa ny rapport**</span><span class="sxs-lookup"><span data-stu-id="ff2e0-109">**Create new report**</span></span>
+
+<span data-ttu-id="ff2e0-110">Om du vill generera en rapport väljer du först rapporten **i listrutan** Välj rapport.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-110">To generate a report, first select the report from the **Select report** drop-down.</span></span> <span data-ttu-id="ff2e0-111">Välj sedan datumintervallet från **listrutan Välj datumintervall.**</span><span class="sxs-lookup"><span data-stu-id="ff2e0-111">Then, select the date range from the **Select date range** dropdown.</span></span> <span data-ttu-id="ff2e0-112">Välj **Generera.**</span><span class="sxs-lookup"><span data-stu-id="ff2e0-112">Select **Generate**.</span></span> <span data-ttu-id="ff2e0-113">Rapporten genereras i TSV-format (tab-separated value) och är tillgänglig för nedladdning i avsnittet **Genererade** rapporter inom några minuter.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-113">The report will be generated in tab-separated value (TSV) format and will be available for download in the **Generated reports** section within a few minutes.</span></span> <span data-ttu-id="ff2e0-114">Rapporter som genererats under de senaste 14 dagarna kommer att vara tillgängliga för nedladdning.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-114">Reports generated during the previous 14 days will be available for download.</span></span>
+
+:::image type="content" source="images/insights/create-report.png" alt-text="Skapa en ny rapport.":::
+
+:::image type="content" source="images/insights/generate-reports.png" alt-text="Genererade rapporter.":::
+
+>[!NOTE] 
+><span data-ttu-id="ff2e0-117">Endast de användare som är rapportanvändare kan ladda ned rapporter.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-117">Only those users who are executive report viewers can download reports.</span></span> <span data-ttu-id="ff2e0-118">Mer information om rollbaserad åtkomst till rapporter Insights instrumentpanelen finns i [PCI-roller.](insights-roles.md)</span><span class="sxs-lookup"><span data-stu-id="ff2e0-118">For more information on role-based access to the Insights dashboard reports, please refer to [PCI roles](insights-roles.md).</span></span> 
+
+## <a name="available-reports"></a><span data-ttu-id="ff2e0-119">Tillgängliga rapporter</span><span class="sxs-lookup"><span data-stu-id="ff2e0-119">Available reports</span></span>
+
+<span data-ttu-id="ff2e0-120">Följande rapporter är tillgängliga för nedladdning:</span><span class="sxs-lookup"><span data-stu-id="ff2e0-120">The following reports are available for download:</span></span>
+
+<span data-ttu-id="ff2e0-121">**Partnerprofilen** innehåller information om partnern.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-121">**Partner profile** provides the details related to the partner.</span></span> <span data-ttu-id="ff2e0-122">Information som Partner-ID, Partnernamn, Partnerstad och Partnerland finns i rapporten.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-122">Details like Partner ID, Partner name, Partner city, and Partner country are available in the report.</span></span> <span data-ttu-id="ff2e0-123">Ingen aggregering eller återställning kommer att gälla för den här rapporten.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-123">No aggregation or lookback will be applicable for this report.</span></span>
+
+<span data-ttu-id="ff2e0-124">**Kundinformation** ger information om kunder som en partner är associerad med.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-124">**Customer details** provides the details of customers that a Partner is associated.</span></span> <span data-ttu-id="ff2e0-125">Den innehåller också viktiga mått som sålda licenser, aggregerade Azure-förbrukade intäkter (ACR) och så vidare.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-125">It also provides key metrics like licenses sold, aggregated Azure consumed revenue (ACR) and so on.</span></span> <span data-ttu-id="ff2e0-126">Rapporten sammanställs månadsvis.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-126">The report is aggregated on a monthly basis.</span></span>
+
+<span data-ttu-id="ff2e0-127">**Prenumerationsinformationen** innehåller information om de prenumerationer som säljs eller hanteras av partnern tillsammans med kundinformation.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-127">**Subscriptions details** provides the details of the subscriptions sold or managed by the Partner along with customer information.</span></span> <span data-ttu-id="ff2e0-128">Rapporten sammanställs månadsvis.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-128">The report is aggregated on a monthly basis.</span></span>
+
+<span data-ttu-id="ff2e0-129">**Azure-användning** innehåller information om Azure-användning.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-129">**Azure usage** provides the Azure usage details.</span></span> <span data-ttu-id="ff2e0-130">Den här informationen gäller de Azure-prenumerationer som säljs eller hanteras av partnern.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-130">These details are for the Azure subscriptions sold or managed by the Partner.</span></span> <span data-ttu-id="ff2e0-131">Användningsinformationen delas upp efter mätarkategori och andra viktiga dimensioner.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-131">The usage details are split by meter category and other key dimensions.</span></span> <span data-ttu-id="ff2e0-132">Rapporten aggregeras månadsvis.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-132">The report is aggregated on monthly basis.</span></span>
+
+<span data-ttu-id="ff2e0-133">**Office 365 – Licensanvändning innehåller** användningsinformation om Office 365 licenser som säljs eller hanteras av partnern.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-133">**Office 365 - License Usage** provides the usage details of Office 365 licenses sold or managed by the Partner.</span></span> <span data-ttu-id="ff2e0-134">Den innehåller även kundinformation och nyckelmått som Månatliga aktiva användare (MAU), kvalificerade rättigheter och så vidare.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-134">It also provides customer information and key metrics such as Monthly Active Users (MAU), qualified entitlements and so on.</span></span> <span data-ttu-id="ff2e0-135">Rapporten aggregeras månadsvis.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-135">The report will be aggregated on a monthly basis.</span></span>
+
+<span data-ttu-id="ff2e0-136">**Enterprise Mobility – Licensanvändning innehåller**  användningsinformation om Enterprise Mobility-licenser som säljs eller hanteras av partnern.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-136">**Enterprise Mobility – License Usage**  provides the usage details of Enterprise Mobility licenses sold or managed by the Partner.</span></span> <span data-ttu-id="ff2e0-137">Den innehåller även kundinformation och nyckelmått som MAU, kvalificerade rättigheter och så vidare.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-137">It also provides customer information and key metrics such as MAU, qualified entitlements and so on.</span></span> <span data-ttu-id="ff2e0-138">Rapporten sammanställs månadsvis.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-138">The report is aggregated on a monthly basis.</span></span>
+
+<span data-ttu-id="ff2e0-139">**Dynamics 365 – Licensanvändning innehåller** användningsinformation om D365-licenser som säljs eller hanteras av partnern.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-139">**Dynamics 365 – License Usage** provides the usage details of D365 licenses sold or managed by the Partner.</span></span> <span data-ttu-id="ff2e0-140">Den innehåller även kundinformation och nyckelmått som MAU, kvalificerade rättigheter och så vidare.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-140">It also provides customer information and key metrics such as MAU, qualified entitlements and so on.</span></span> <span data-ttu-id="ff2e0-141">Rapporten sammanställs månadsvis.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-141">The report is aggregated on a monthly basis.</span></span>
+
+<span data-ttu-id="ff2e0-142">**Power BI – Licensanvändning innehåller** användningsinformation om Power BI licenser som säljs eller hanteras av partnern.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-142">**Power BI - License Usage** provides the usage details of Power BI licenses sold or managed by the Partner.</span></span> <span data-ttu-id="ff2e0-143">Den innehåller även kundinformation och nyckelmått som MAU, kvalificerade rättigheter och så vidare.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-143">It also provides customer information and key metrics such as MAU, qualified entitlements and so on.</span></span> <span data-ttu-id="ff2e0-144">Rapporten sammanställs månadsvis.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-144">The report is aggregated on a monthly basis.</span></span>
+
+<span data-ttu-id="ff2e0-145">**Utbildningarna** innehåller information som prov, certifieringar, utvärderingar, spår, kurser som har slutförts eller tagits upp av partnerns anställda.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-145">**Trainings** provides the details like exams, certifications, assessments, tracks, courses completed or taken up by employees of the partner.</span></span>
+
+<span data-ttu-id="ff2e0-146">**Microsoft Learn** innehåller information om modulerna, information om slutförande av utbildningsvägen samt användarinformation för partnern.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-146">**Microsoft Learn** provides the details about the modules, learning path completion details along with user details for the partner.</span></span>
+
+<span data-ttu-id="ff2e0-147">**Kompetenser – Sammanfattning och historik** innehåller information om alla kompetenser som är aktiva, pågående eller utsatta för risk för den här partnern.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-147">**Competencies – Summary and history** provides details of all the competencies that are either active, in progress or at risk for this Partner.</span></span> <span data-ttu-id="ff2e0-148">Innehåller även historik över alla kompetenser som partnern har uppnått.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-148">Also includes history of all the competencies achieved by the partner.</span></span>
+
+<span data-ttu-id="ff2e0-149">**Kompetenser – Prestandainformation** innehåller information om hur partnern gör med avseende på KPI:er (Key Performance Indicators) för att uppnå en viss uppsättning kompetenser.</span><span class="sxs-lookup"><span data-stu-id="ff2e0-149">**Competencies – Performance details** provides detail on how the partner is doing with respect to the key performance indicators (KPIs) for achieving a certain set of competencies.</span></span>
+

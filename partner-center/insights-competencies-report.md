@@ -1,0 +1,91 @@
+---
+title: Partnercenter– Insights kompetensrapport
+ms.topic: article
+ms.date: 05/19/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Se vad du gör bra och var du kan förbättra microsofts kompetenser, kompetensnivåer och erbjudanden för att hjälpa dig att leverera Microsoft-lösningar.
+author: shthota77
+ms.author: shthota
+ms.localizationpriority: medium
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 4789048c944f6e3adae9a047dbca097f1912d89e
+ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.translationtype: MT
+ms.contentlocale: sv-SE
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "114377316"
+---
+# <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a><span data-ttu-id="14b12-103">Kompetensrapport som är tillgänglig från Partnercenter Insights instrumentpanel</span><span class="sxs-lookup"><span data-stu-id="14b12-103">Competencies report available from the Partner Center Insights dashboard</span></span>
+
+<span data-ttu-id="14b12-104">**Lämpliga roller:** Global | Administratörsagent | Rapportvisningsprogram | Rapportvisningsprogram för chefer</span><span class="sxs-lookup"><span data-stu-id="14b12-104">**Appropriate roles**: Global admin | Admin agent | Report viewer | Executive report viewer</span></span>
+
+<span data-ttu-id="14b12-105">Kompetenser gör det möjligt för ditt företag att demonstrera din tekniska förmåga att leverera Microsoft-lösningar.</span><span class="sxs-lookup"><span data-stu-id="14b12-105">Competencies allow your company to demonstrate your technical capability to deliver Microsoft solutions.</span></span> <span data-ttu-id="14b12-106">Microsofts kompetenser är utformade för att uppfylla dina kunders behov och visa upp din expertis för potentiella kunder.</span><span class="sxs-lookup"><span data-stu-id="14b12-106">Microsoft competencies are designed to meet your customers' needs and showcase your expertise to prospective customers.</span></span> <span data-ttu-id="14b12-107">De har många fördelar från Microsoft, till exempel det inkluderade antalet Azure-förbrukning, rättigheter för molnprodukter som Office 365, teknisk support, Go-to-Market-erbjudanden med mera.</span><span class="sxs-lookup"><span data-stu-id="14b12-107">They come with a wealth of benefits from Microsoft, such as included quantities of Azure consumption, entitlements for Cloud products such as Office 365, technical support, Go-to-Market offers, and others.</span></span> <span data-ttu-id="14b12-108">Det finns i dag totalt 19 kompetenser i följande kategorier: **App** och Infrastruktur, **Företagsprogram,** **Data och AI** och Modern **arbetsplats.**</span><span class="sxs-lookup"><span data-stu-id="14b12-108">There are a total of 19 competencies today across the following categories: **App and Infrastructure**, **Business applications**, **Data and AI**, and **Modern workplace**.</span></span> <span data-ttu-id="14b12-109">Kompetenser är till exempel nivåindelade i silver- eller guldnivåer.</span><span class="sxs-lookup"><span data-stu-id="14b12-109">Competencies are tiered into Silver or Gold levels, for instance.</span></span> <span data-ttu-id="14b12-110">Det finns en högre stapel för guldkompetens och en associerad högre nivå av marknadsföringsresurser, erbjudanden och program tillgängliga.</span><span class="sxs-lookup"><span data-stu-id="14b12-110">There is a higher bar for Gold competency and an associated higher level of marketing resources, offers, and programs available.</span></span>  
+
+<span data-ttu-id="14b12-111">Du får mer användning av kompetensrapporten om du lär dig mer om kompetenslivscykeln, kompetensen och annan kompetensrapportinformation.</span><span class="sxs-lookup"><span data-stu-id="14b12-111">You will gain more use from the competency report if you learn more about the competency lifecycle, competency attainment, and other competency report details.</span></span>
+
+## <a name="competency-life-cycle"></a><span data-ttu-id="14b12-112">Kompetenslivscykel</span><span class="sxs-lookup"><span data-stu-id="14b12-112">Competency life cycle</span></span>
+
+<span data-ttu-id="14b12-113">Ur livscykelsynpunkt börjar partner med att bygga vidare på de kpi:er som krävs för att uppnå specifika kompetenser.</span><span class="sxs-lookup"><span data-stu-id="14b12-113">From a life-cycle standpoint, partners begin by building on the key performance indicators (KPIs) that are required to attain specific competencies.</span></span> <span data-ttu-id="14b12-114">När de når tröskelvärdet för en viss kompetens för alla nödvändiga mått blir de **kvalificerade** för en kompetens.</span><span class="sxs-lookup"><span data-stu-id="14b12-114">Once they reach the threshold set for a given competency across all the required metrics, they become **qualified** for a competency.</span></span> <span data-ttu-id="14b12-115">Partner kan sedan betala för kompetenserbjudandet (silver eller guld) för att uppnå kompetensen och bli **aktiva** inom den kompetensen.</span><span class="sxs-lookup"><span data-stu-id="14b12-115">Partners can then pay for the competency offer (Silver or Gold) to attain the competency and become **Active** in that competency.</span></span> <span data-ttu-id="14b12-116">Aktiv **kompetensstatus** är giltig i ett år från kompetensens giltighetsdatum (detta  kallas årsdagen för kompetensen).</span><span class="sxs-lookup"><span data-stu-id="14b12-116">The competency **Active** status is valid for one year from the date of attainment of the competency (this is called the **Anniversary date** for the competency).</span></span> <span data-ttu-id="14b12-117">I slutet av årsdagen måste partner uppfylla kompetenskraven.</span><span class="sxs-lookup"><span data-stu-id="14b12-117">At the end of the anniversary year, partners need to meet the competency requirements.</span></span> <span data-ttu-id="14b12-118">Om de inte uppfyller dessa krav igen förlorar de kompetensen.</span><span class="sxs-lookup"><span data-stu-id="14b12-118">If they don't meet these requirements again, they'll lose the competency.</span></span> <span data-ttu-id="14b12-119">Statusen **Risk för** en tidigare uppnått kompetens innebär att vissa nyckelmått beräknas hamna under tröskelvärdet vid **kompetensdatumet**.</span><span class="sxs-lookup"><span data-stu-id="14b12-119">An **At risk** status for a previously attained competency means certain key metrics are projected to fall below the threshold at that competencies **Anniversary date**.</span></span>
+
+## <a name="competency-attainment"></a><span data-ttu-id="14b12-120">Kompetensutbildning</span><span class="sxs-lookup"><span data-stu-id="14b12-120">Competency attainment</span></span>
+
+<span data-ttu-id="14b12-121">Varje kompetens har en specifik uppsättning krav som ska uppfyllas.</span><span class="sxs-lookup"><span data-stu-id="14b12-121">Each competency has a specific set of requirements to fulfill.</span></span> <span data-ttu-id="14b12-122">Kraven på molnkompetens är indela i två kategorier: färdigheter och prestanda.</span><span class="sxs-lookup"><span data-stu-id="14b12-122">Cloud competency requirements fall into two categories: skills and performance.</span></span>
+
+- <span data-ttu-id="14b12-123">Kunskaper: Kraven omfattar ofta prov, utvärderingar eller certifieringar som personer i företaget måste klara.</span><span class="sxs-lookup"><span data-stu-id="14b12-123">Skills: Requirements often include exams, assessments, or certifications which individuals within your company must pass.</span></span>
+
+- <span data-ttu-id="14b12-124">Prestanda: För att vara berättigat till en kompetens måste företaget uppfylla vissa prestandatrösklar som är anpassade till kompetensområdet.</span><span class="sxs-lookup"><span data-stu-id="14b12-124">Performance: To be eligible for a competency, your company must meet certain performance thresholds aligned to competency area.</span></span> <span data-ttu-id="14b12-125">Ditt företag kan till exempel behöva uppfylla en minsta mängd Azure-förbrukning under de avslutande 12 månaderna.</span><span class="sxs-lookup"><span data-stu-id="14b12-125">For example, your company may need to meet a minimum amount of Azure consumption over the trailing 12 months.</span></span>
+
+## <a name="competencies-report-details"></a><span data-ttu-id="14b12-126">Information om kompetensrapport</span><span class="sxs-lookup"><span data-stu-id="14b12-126">Competencies report details</span></span>
+
+<span data-ttu-id="14b12-127">Du kan se följande avsnitt i rapporten Kompetenser:</span><span class="sxs-lookup"><span data-stu-id="14b12-127">You can see the following sections from the Competencies report:</span></span>
+
+- <span data-ttu-id="14b12-128">Sammanfattning</span><span class="sxs-lookup"><span data-stu-id="14b12-128">Summary</span></span>
+- <span data-ttu-id="14b12-129">Analys av kompetensmått</span><span class="sxs-lookup"><span data-stu-id="14b12-129">Competency metrics analysis</span></span>
+- <span data-ttu-id="14b12-130">Kompetenshistorik</span><span class="sxs-lookup"><span data-stu-id="14b12-130">Competency history</span></span>
+
+ > [!NOTE]
+ > <span data-ttu-id="14b12-131">Den här rapporten är tillgänglig från Insights instrumentpanel.</span><span class="sxs-lookup"><span data-stu-id="14b12-131">This report is available from the Insights dashboard.</span></span> <span data-ttu-id="14b12-132">Om du vill visa den här rapporten måste du ha tilldelats en viss roll i Partnercenter, till exempel Global administratör, Kontoadministratör, Rapportvisningsprogram eller Visningsprogram för verkställande rapporter.</span><span class="sxs-lookup"><span data-stu-id="14b12-132">To view this report, you must be assigned a specific role in Partner Center, such as Global Admin, Account Admin, Report Viewer or Executive Report Viewer.</span></span> <span data-ttu-id="14b12-133">Mer information finns i företagets globala administratör. Specifika typer av data i den här rapporten kan också vara tillgängliga endast för användare med privilegier i visningsprogrammet för verkställande rapporter.</span><span class="sxs-lookup"><span data-stu-id="14b12-133">For more information, see your company's Global Admin. Specific types of data in this report may also be available only to users with Executive Report Viewer privileges.</span></span>
+
+### <a name="summary"></a><span data-ttu-id="14b12-134">Sammanfattning</span><span class="sxs-lookup"><span data-stu-id="14b12-134">Summary</span></span>
+
+<span data-ttu-id="14b12-135">I sammanfattningsvyn visas antalet kompetenser med deras namn på varje kompetensnivå (guld/silver) i alla faser i kompetenslivscykeln.</span><span class="sxs-lookup"><span data-stu-id="14b12-135">The Summary view presents a count of competencies with their names at each competency level (Gold/Silver) across all the stages of the competency life cycle.</span></span> <span data-ttu-id="14b12-136">Faser i kompetenslivscykeln omfattar: **Startad**, **kvalificerad,** **aktiv** och **i riskzonen.**</span><span class="sxs-lookup"><span data-stu-id="14b12-136">Stages of the competency life cycle include: **Started**, **Qualified**, **Active**, and **At risk**.</span></span> <span data-ttu-id="14b12-137">Exempel: Kraven på molnkompetens finns i två kategorier: färdigheter och prestanda.</span><span class="sxs-lookup"><span data-stu-id="14b12-137">Example: Cloud Competency requirements fall under two categories: skills and performance.</span></span>
+
+- <span data-ttu-id="14b12-138">Startad: Antal kompetenser som du har ett eller flera av de underliggande kraven för.</span><span class="sxs-lookup"><span data-stu-id="14b12-138">Started: Count of competencies for which you have one or more of the underlying requirements in progress.</span></span>
+<span data-ttu-id="14b12-139">Uppdelning av antalet startade kompetenser efter kompetensnivå (Silver/Guld) med kompetensnamn.</span><span class="sxs-lookup"><span data-stu-id="14b12-139">Breakdown of started competencies count by competency level (Silver/Gold) with competency names.</span></span>
+
+- <span data-ttu-id="14b12-140">Kvalificerad: Kompetenser som du har uppfyllt kraven för, men som kanske ännu inte har köpt det associerade Silver/Guld-erbjudandet.</span><span class="sxs-lookup"><span data-stu-id="14b12-140">Qualified: Competencies for which you have met the requirements, but might or might not yet have purchased the associated Silver/Gold offer.</span></span> <span data-ttu-id="14b12-141">Uppdelning av antalet kvalificerade kompetenser efter kompetensnivå (Silver/Guld) med kompetensnamn.</span><span class="sxs-lookup"><span data-stu-id="14b12-141">Breakdown of qualified competencies count by competency level (Silver/Gold) with competency names.</span></span>
+
+- <span data-ttu-id="14b12-142">Aktiv: Kompetenser som du har uppfyllt kraven för och köpt ett Silver-/Guld-erbjudande.</span><span class="sxs-lookup"><span data-stu-id="14b12-142">Active: Competencies for which you have met the requirements and purchased a Silver/Gold offer.</span></span> <span data-ttu-id="14b12-143">Uppdelning av antalet aktiva kompetenser efter kompetensnivå (Silver/Guld) med kompetensnamn.</span><span class="sxs-lookup"><span data-stu-id="14b12-143">Breakdown of active competencies count by competency level (Silver/Gold) with competency names.</span></span>
+
+- <span data-ttu-id="14b12-144">Risk (nästa år): Antal kompetenser som för närvarande är **aktiva** men som också **riskerar** att inte uppfylla kraven för nästa år.</span><span class="sxs-lookup"><span data-stu-id="14b12-144">At risk (next year): Count of competencies that are currently **Active** but also **At risk** of not meeting requirements for next year.</span></span>
+<span data-ttu-id="14b12-145">Uppdelning av kompetenser (efter kompetensnivå, till exempel Silver/Guld, med kompetensnamn) som riskerar att inte kvalificera sig för nästa år.</span><span class="sxs-lookup"><span data-stu-id="14b12-145">Breakdown of competencies (by competency level, such as Silver/Gold, with competency names) which are at risk of not qualifying for next year.</span></span>
+
+:::image type="content" source="images/insights/competencies-summary.png" alt-text="sammanfattning av kompetenser.":::
+
+### <a name="competency-metric-analysis"></a><span data-ttu-id="14b12-147">Kompetensmåttanalys</span><span class="sxs-lookup"><span data-stu-id="14b12-147">Competency metric analysis</span></span>
+
+<span data-ttu-id="14b12-148">Den här vyn visar status för kompetensmått mot de tröskelvärden som krävs för att partner ska uppnå/behålla kompetensen på silver-/guldnivå.</span><span class="sxs-lookup"><span data-stu-id="14b12-148">This view shows the status of competency metrics against the thresholds required for partners to attain/retain the competency at the Silver/Gold level.</span></span> 
+
+<span data-ttu-id="14b12-149">Rapporten kan pivoteras med följande två datumintervall:</span><span class="sxs-lookup"><span data-stu-id="14b12-149">The report can be pivoted by the following, two date ranges:</span></span>
+
+1. <span data-ttu-id="14b12-150">TTM-vy: Räknar upp partnerprestanda under de senaste 12 månaderna (TTM).</span><span class="sxs-lookup"><span data-stu-id="14b12-150">TTM view: This enumerates the partner performance over the last 12 months (TTM).</span></span>
+2. <span data-ttu-id="14b12-151">Anniversary Year-vy: Här räknas partnerprestandan upp från föregående årsdag till nästa årsdag.</span><span class="sxs-lookup"><span data-stu-id="14b12-151">Anniversary Year view: This enumerates the partner performance from the previous Anniversary date to the next Anniversary date.</span></span>
+
+:::image type="content" source="images/insights/competencies-comp-metrics-analysis.png" alt-text="kompetensmåttanalys.":::
+
+> [!NOTE]
+ > <span data-ttu-id="14b12-153">Alla mått tas inte upp i analysen.</span><span class="sxs-lookup"><span data-stu-id="14b12-153">Not all metrics are covered in the analysis.</span></span> <span data-ttu-id="14b12-154">För närvarande stöds inte mått som är associerade med inlärning och certifiering i rapporten Kompetenser.</span><span class="sxs-lookup"><span data-stu-id="14b12-154">Currently, metrics associated with learning and certification are not supported in the Competencies report.</span></span> <span data-ttu-id="14b12-155">Cloud Business Applications (CBA)-kompetenser stöds inte heller för närvarande i måttanalysen **för aktiv** kompetensstatus.</span><span class="sxs-lookup"><span data-stu-id="14b12-155">Cloud Business Applications (CBA) competencies are also not currently supported in the metric analysis for the **Active** competency status.</span></span>
+
+### <a name="competency-history"></a><span data-ttu-id="14b12-156">Kompetenshistorik</span><span class="sxs-lookup"><span data-stu-id="14b12-156">Competency history</span></span>
+
+<span data-ttu-id="14b12-157">Den här vyn visar en detaljerad tabell över alla kompetenser som du har uppnått hittills, med kompetensnivå och kompetensfas.</span><span class="sxs-lookup"><span data-stu-id="14b12-157">This view shows a detailed table of all competencies you have attained so far, with competency level and competency stage.</span></span>
+
+:::image type="content" source="images/insights/competencies-comp-history.png " alt-text="kompetenshistorik.":::
+
+## <a name="next-steps"></a><span data-ttu-id="14b12-159">Nästa steg</span><span class="sxs-lookup"><span data-stu-id="14b12-159">Next steps</span></span>
+
+- <span data-ttu-id="14b12-160">Fler rapporter finns i [Partnercenter Insights](partner-center-insights.md).</span><span class="sxs-lookup"><span data-stu-id="14b12-160">For more reports, see [Partner Center Insights](partner-center-insights.md).</span></span>
+
+>[!NOTE] 
+> <span data-ttu-id="14b12-161">Du kan ladda ned rådata som driver den här rapporten från avsnittet Ladda ned rapporter i Insights instrumentpanel.</span><span class="sxs-lookup"><span data-stu-id="14b12-161">You can download the raw data powering this report from the Download Reports section in the Insights dashboard.</span></span> [<span data-ttu-id="14b12-162">Läs mer</span><span class="sxs-lookup"><span data-stu-id="14b12-162">Learn More</span></span>](insights-download-reports.md) 

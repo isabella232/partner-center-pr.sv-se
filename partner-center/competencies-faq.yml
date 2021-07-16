@@ -3,24 +3,24 @@ metadata:
   title: Kompetenser – vanliga frågor och svar
   ms.topic: article
   ms.date: 11/23/2020
-  description: Svar om MPN-guld- eller silverkompetenser, förfallodatum för förmåner, förnyelse eller aktivering av licenser för Azure, moln, Visual Studio, tekniska, supportförmåner.
+  description: Svar om MPN-guld- eller silverkompetenser, förfallotid för förmån, förnyelse eller aktivering av licenser för Azure, moln, Visual Studio, tekniska, supportförmåner.
   ms.service: partner-dashboard
   ms.subservice: partnercenter-mpn
   author: keramp88
   ms.author: keramp
   ms.localizationpriority: medium
-  ms.openlocfilehash: 18db609908e924ba2d968b0fec977163be88d9bc
-  ms.sourcegitcommit: 41e34d6c97a45e6f0b76d76a797398cd06665634
+  ms.openlocfilehash: 72a71aa5202738b6912d1c54330bb674b2f2e8ae
+  ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 06/28/2021
-  ms.locfileid: "112989868"
+  ms.lasthandoff: 07/16/2021
+  ms.locfileid: "114373939"
 title: Kompetenser – vanliga frågor och svar
 summary: >
   **Lämpliga roller:** MPN-partneradministratör
 
 
-  Den här artikeln besvarar allmänna frågor om prov, certifieringar och programvaruförmåner som rör uppnådd Microsoft Partner Network kompetens.
+  Den här artikeln ger svar på allmänna frågor om prov, certifieringar och programvaruförmåner som rör Microsoft Partner Network kompetens.
 sections:
 - name: Ignoreras
   questions:
@@ -36,11 +36,11 @@ sections:
   - question: >
       När kan jag förnya mitt medlemskap?
     answer: >
-      Det befintliga medlemskapet kan förnyas när som helst efter det att förnyelsefönstret har börjat. Förnyelsefönstret börjar på årsdagen för köpet plus en dag. Om du till exempel har köpt Microsoft Action Pack den 1 september 2018 börjar förnyelseperioden den 2 september 2019.
+      Befintliga medlemskap kan förnyas vilken dag som helst efter det att förnyelsefönstret har börjat. Förnyelsefönstret börjar på årsdagen för ditt inköpsdatum plus en dag. Om du till exempel har köpt Microsoft Action Pack den 1 september 2018 börjar förnyelseperioden den 2 september 2019.
   - question: >
       Hur kan jag verifiera de prov och certifieringar som har tagits av min organisations användare?
     answer: >
-      Under processen med att uppnå en kompetens kan den globala administratören eller MPN-partneradministratören analysera vilka användare som har slutfört ett prov, en certifiering eller en utvärdering. Administratören kan också kontrollera förloppet mot kraven för en kompetens.
+      Under processen med att uppnå en kompetens kan den globala administratören eller MPN-partneradministratören analysera vilka användare som har slutfört provet, certifieringen eller utvärderingen. Administratören kan också kontrollera förloppet mot kraven för en kompetens.
 
 
       De kan göra det från Partnercenter på följande sätt:
@@ -55,40 +55,40 @@ sections:
       1. Längst upp på sidan Kompetenser letar du upp och väljer **alternativet Ladda ned kunskapsrapport.**
 
 
-      Andra rapporter om din organisations färdigheter är också tillgängliga från [området Partner Center-insikter](partner-center-insights.md) i Partnercenter. Om du vill visa de här rapporterna kan du behöva tilldelas en Insiktsspecifik roll som **Rapportvisare** eller **Executive Report Viewer.** Du kan behöva be DIN MPN-partneradministratör att ge dig åtkomst till någon av dessa roller.
+      Andra rapporter om din organisations färdigheter är också tillgängliga från [Partnercenter](partner-center-insights.md) Insights i Partnercenter. Om du vill visa dessa rapporter kan du behöva tilldelas en Insights roll som **Rapportvisningsprogram eller** **Visningsprogram för verkställande rapporter.** Du kan behöva be DIN MPN-partneradministratör att ge dig åtkomst till någon av dessa roller.
 
 
-      Visa Insights-rapporterna på följande sätt:
+      Visa Insights rapporter på följande sätt:
 
 
       1. Logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard)
 
 
-      1. Välj **Insikter** på Menyn i Partnercenter följt av **Organisationskunskaper.** En mindre meny visas.
+      1. Välj **Insights** på Menyn i Partnercenter följt av **Organisationskunskaper.** En mindre meny visas.
 
 
       1. Välj **antingen** **Träning eller Microsoft Learn** på menyn.
 
-         - Välj **Utbildning** för att se en sammanfattning av organisationens certifieringar, utvärderingar och prov under en viss tidsperiod. Mer information om den här rapporten finns i [Utbildning](pci-training-dashboard.md).
+         - Välj **Utbildning** för att se en sammanfattning av organisationens certifieringar, utvärderingar och prov under en viss tidsperiod. Mer information om den här rapporten finns i [Utbildning](insights-training-dashboard.md).
 
-         - Välj **Microsoft Learn** om du vill se en sammanfattning av organisationens slutförda moduler och utbildningsvägar under en viss tidsperiod. Mer information om den här rapporten finns i [Microsoft Learn analysrapport.](ms-learn-analytics.md)
+         - Välj **Microsoft Learn** om du vill se en sammanfattning av organisationens slutförda moduler Learning sökvägar under en viss tidsram. Mer information om den här rapporten finns i [Microsoft Learn analysrapport](ms-learn-analytics.md).
   - question: >
-      Hur lång tid tar det att se de senaste användarutvärderingarna i användarkunskapsrapporten i Partnercenter?
+      Hur lång tid tar det att se de senaste användarutvärderingarna i partnercentrets användarkunskapsrapport?
     answer: >
-      Partner University-kontot associeras med partnercenteranvändarkontot. Användarens utvärderingar visas i partnercentrets användarkunskapsrapport inom **72 timmar.**
+      Partner university-kontot associeras med partnercenteranvändarkontot. Användarens utvärderingar visas i partnercentrets användarkunskapsrapport inom **72 timmar.**
 
 
       Endast de kunskaper som är relevanta för kompetenser och program i Partnercenter visas i den här rapporten. (Vissa tillbakadragna färdigheter kan också visas i 12 månader eller mer efter att de har dragits tillbaka).
 
 
-      Se till att kontrollera kraven för specifika kompetenser. Du kan kontrollera detta genom **att** använda menyalternativet Kompetenser i instrumentpanelen i [Partnercenter](https://partner.microsoft.com/dashboard) [eller Microsoft Partner Network sidan kompetenser.](https://partner.microsoft.com/membership/competencies)
+      Se till att kontrollera kraven för specifika kompetenser. Om du vill kontrollera det använder du **antingen** menyalternativet Kompetenser i instrumentpanelen i [Partnercenter](https://partner.microsoft.com/dashboard) [eller Microsoft Partner Network sidan kompetenser.](https://partner.microsoft.com/membership/competencies)
 
 
       > [!NOTE]
 
-      > Såvida inte ett prov, en utvärdering eller en certifiering uttryckligen anges som ett krav under en viss kompetens, kommer det inte att anses uppfylla den kompetensen.
+      > Såvida inte ett prov, en utvärdering eller en certifiering uttryckligen nämns som ett krav under en viss kompetens, kommer det inte att övervägas för att uppfylla den kompetensen.
   - question: >
-      Vilka programvaruförmåner (till exempel licensanvändningsrättigheter) som jag är berättigad till när jag har en guld- eller silverkompetens eller köper en Microsoft Action Pack-prenumeration (MAPS)?
+      Vilka programvaruförmåner (till exempel licensanvändningsrättigheter) som jag är berättigad till när jag uppnår en guld- eller silverkompetens eller köper en Microsoft Action Pack-prenumeration (MAPS)?
     answer: >
       Se följande resurser:
 
@@ -98,20 +98,20 @@ sections:
 
       - [Ladda](https://assetsprod.microsoft.com/microsoft-action-pack-license-table.pdf) ned licenstabellen för Microsoft Action Pack Subscription-partner.
   - question: >
-      Hur gör jag för att ett MICROSOFT-certifieringsprofil-ID (MCP-ID eller MCID) till mitt Microsoft Partner Center-konto?
+      Hur gör jag för att till mitt Microsoft Partner Center-konto genom att länka ett MCP-ID (MCP ID eller MCID) till mitt Microsoft Partner Center-konto?
     answer: >
       Se [Associera ditt Microsoft Learn konto till ditt Partnercenter-konto.](ms-learn-associate.md)
   - question: >
-      Varför kan jag inte se prestandadata som återspeglas i rapporten kompetenser i KPI:er?
+      Varför kan jag inte se prestandadata som återspeglas i rapporten kompetens-KPI:er?
     answer: >
-      Kontrollera kraven under önskad kompetens på instrumentpanelen i [Partnercenter](https://partner.microsoft.com/dashboard) eller på sidan [Microsoft Partner Network kompetenser.](https://partner.microsoft.com/membership/competencies) Detta hjälper dig att förstå kraven för att uppnå varje kompetens (till exempel partnerassociatyp, erbjudandetyp, TTM).
+      Kontrollera kraven under önskad kompetens på instrumentpanelen i [Partnercenter](https://partner.microsoft.com/dashboard) eller på sidan [Microsoft Partner Network kompetenser.](https://partner.microsoft.com/membership/competencies) Detta hjälper dig att förstå kraven för att uppnå varje kompetens (till exempel partnerassociaturstyp, erbjudandetyp, TTM).
 
 
       > [!NOTE]
 
-      > Såvida inte partnerassociatyttypen uttryckligen nämns som ett krav för en viss kompetens, kommer den inte att kännas igen för att uppfylla prestandamålen.
+      > Om inte partnerassociaturens typ uttryckligen anges som ett krav för en viss kompetens, kommer den inte att identifieras för att uppfylla prestandamålen.
 
       >
 
-      > Endast data för de senaste 12 månaderna beaktas för beräkning av prestanda, färdigheter eller andra krav som rör en kompetens. Mer information om prestandaberäkningar för kompetenser som Cloud Business Applications-kompetens finns i Bidragsindikatorer [för partner.](partner-contribution-indicators.md)
-additionalContent: "\n## <a name=\"next-steps\"></a>Nästa steg\n   - Läs mer om [MPN-kompetenser](learn-about-competencies.md)\n   - Läs mer om [Partner Center Insights-rapporter](partner-center-insights.md)"
+      > Endast data för de senaste 12 månaderna beaktas för beräkning av prestanda, färdigheter eller andra krav som rör en kompetens. Mer information om prestandaberäkningar för kompetenser som Cloud Business Applications kompetens finns i Bidragsindikatorer [för partner.](partner-contribution-indicators.md)
+additionalContent: "\n## <a name=\"next-steps\"></a>Nästa steg\n   - Läs mer om [MPN-kompetenser](learn-about-competencies.md)\n   - Läs mer [om partnercenter Insights rapporter](partner-center-insights.md)"
