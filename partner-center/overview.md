@@ -8,12 +8,12 @@ description: Använda Partnercenter för att göra affärer med Microsoft och di
 author: jasongroce
 ms.author: jasongroce
 ms.localizationpriority: high
-ms.openlocfilehash: cd9400915861667378ccf5545a6a8827a699d465
-ms.sourcegitcommit: a84c83bbd95156344b3d9b2778973f47a9f83141
+ms.openlocfilehash: 75655317683b50f95cddbf1dc0ce8a1753906d5e
+ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "113353728"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "114373699"
 ---
 # <a name="what-is-partner-center"></a>Vad är Partnercenter?
 
@@ -43,7 +43,7 @@ Vad du kan se och hantera i Partnercenter beror på din roll och dina behörighe
 
 ## <a name="membership-programs"></a>Medlemskapsprogram
 
-I Partnercenter kan du köpa en Microsoft Action Pack som tillhandahåller Programvara och verktyg från Microsoft för att utveckla expertis, till exempel utveckla kunskaper för att uppnå kompetenser och tjäna avancerade specialiseringar. Fördelarna med dessa program hjälper dig att skapa lösningar och ta dig ut på marknaden. granska och hantera dem i Partnercenter. [Jämför Microsoft Partner Network medlemskapsprogram](https://partner.microsoft.com/membership/compare-offers).
+I Partnercenter kan du köpa en Microsoft Action Pack som tillhandahåller Programvara och verktyg från Microsoft för att utveckla expertis, till exempel utveckla kunskaper för att uppnå kompetenser och tjäna avancerade specialiseringar. Fördelarna med dessa program hjälper dig att skapa lösningar och gå ut på marknaden. granska och hantera dem i Partnercenter. [Jämför Microsoft Partner Network medlemskapsprogram](https://partner.microsoft.com/membership/compare-offers).
 
 ## <a name="connect-with-customers"></a>Få kontakt med kunder
 
@@ -66,9 +66,9 @@ Med Azure Active Directory som en viktig del av ditt Partnercenter-konto bör du
 Få åtkomst till flera olika typer av datarapporter från instrumentpanelen i Partnercenter:
 
 - Partnerbidragsindikatorer (PCI) visar partnerpåverkan på sju viktiga mått på kundframgång
-- Partner Insights-datarapporter identifierar var försäljningen är hög, hjälper dig att ta reda på vilka kunder som har distribuerat sina prenumerationer eller behöver support och visa hur bra dina produkter säljer.
+- Partner Insights-datarapporter identifierar var försäljningen är hög, hjälper dig att ta reda på vilka kunder som har distribuerat sina prenumerationer eller behöver support och visa hur väl dina produkter säljer.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Fastställ var dina licenser finns.":::
+:::image type="content" source="images/insights/licenses-report-license-adds.png" alt-text="Fastställ var dina licenser finns.":::
 
 ## <a name="next-steps"></a>Nästa steg
 

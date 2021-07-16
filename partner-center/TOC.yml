@@ -127,7 +127,7 @@
   href: microsoft-partner-agreement.md
   items:
     - name: Hur indirekta leverantörer kan hjälpa sina återförsäljare att införa MPA
-      href: mpa-indirect-provider-faq.md
+      href: mpa-indirect-provider-faq.yml
       displayName: 'csp, mpa, indirect, provider'
     - name: 'CSP-avtal, prislistor, erbjudanden'
       href: csp-documents-and-learning-resources.md
@@ -433,7 +433,7 @@
           displayName: 'region, regio'
         - name: Begär en SLA-kredit från Microsoft
           href: request-credit.md
-        - name: Hur skatteprinciper påverkar utbetalning
+        - name: Så här påverkar skatteprinciper utbetalningen
           href: tax-policies-affect-payout.md
     - name: Ange en Azure-utgiftsbudget för dina kunder
       href: set-an-azure-spending-budget-for-your-customers.md
@@ -647,48 +647,90 @@
           href: partner-center-insights.md
           displayName: data
         - name: Insights – rollbaserad åtkomstkontroll
-          href: pci-roles.md
+          href: insights-roles.md
         - name: Insights – rapporter
           items:
             - name: Översikt
-              href: pci-overview-report.md
+              href: insights-overview-report.md
             - name: Kund
-              href: pci-customer-report.md
+              href: insights-customer-report.md
             - name: Resultat för återförsäljare
-              href: pci-resellers-performance.md
+              href: insights-resellers-performance.md
               displayName: 'indirect, reseller'
             - name: Produktprenumerationer
-              href: pci-product-subscriptions-report.md
+              href: insights-product-subscriptions-report.md
             - name: Azure-användning
-              href: pci-azure-usage-report.md
+              href: insights-azure-usage-report.md
             - name: Teams-användning
-              href: pci-teams-usage-report.md
+              href: insights-teams-usage-report.md
             - name: Office 365-användning
-              href: pci-office-365-usage-report.md
+              href: insights-office-365-usage-report.md
             - name: Dynamics-användning
-              href: pci-dynamics-usage-report.md
+              href: insights-dynamics-usage-report.md
             - name: Enterprise Mobility + Security-användning
-              href: pci-enterprise-mobility-security-usage-report.md
+              href: insights-enterprise-mobility-security-usage-report.md
             - name: Power BI-användning
-              href: pci-power-bi-usage-report.md
+              href: insights-power-bi-usage-report.md
             - name: Utbildning
-              href: pci-training-dashboard.md
+              href: insights-training-dashboard.md
             - name: Microsoft Learn – analys
               href: ms-learn-analytics.md
             - name: Kompetenser
-              href: pci-competencies-report.md
+              href: insights-competencies-report.md
             - name: Fördelar
-              href: pci-benefits-report.md
+              href: insights-benefits-report.md
             - name: CloudAscent – benägenhet
-              href: pci-customer-opportunities.md
+              href: insights-customer-opportunities.md
             - name: Produktlicenser
-              href: pci-product-licenses-report.md
+              href: insights-product-licenses-report.md
         - name: Vanliga frågor och svar om insikter
-          href: pci-known-issues.md
+          href: insights-known-issues.md
         - name: Ladda ned insiktsrapporter
-          href: pci-download-reports.md
+          href: insights-download-reports.md
+        - name: Programmatisk åtkomst till analys
+          items:
+            - name: Kom igång
+              href: insights-programmatic-get-started.md
+            - name: Krav för programmatisk åtkomst
+              href: insights-programmatic-prerequisites.md
+            - name: Paradigm för programmatisk åtkomst
+              href: insights-programmatic-access-paradigm.md
+            - name: Gör ditt första programmatiska API-anrop
+              href: insights-programmatic-first-api-call.md
+            - name: Lista över systemfrågor
+              href: insights-programmatic-system-queries.md
+            - name: Exempelfrågor
+              href: insights-programmatic-sample-queries.md
+            - name: Specifikation för anpassad fråga
+              href: insights-programmatic-custom-query.md
+            - name: Exempelprogram
+              href: insights-programmatic-sample-application.md
+            - name: Vanliga frågor och svar
+              href: insights-programmatic-faq.md
+            - name: API-referenser
+              items:
+                - name: 'Tillgängliga API:er'
+                  href: insights-programmatic-analytics-available-api.md
+                - name: Hämta alla datauppsättningar
+                  href: insights-programmatic-analytics-api-get-dataset.md
+                - name: Hämta rapportfrågor
+                  href: insights-programmatic-analytics-api-get-report-queries.md
+                - name: Ta bort rapportfrågor
+                  href: insights-programmatic-analytics-api-delete-report-queries.md
+                - name: Testa rapportfrågor
+                  href: insights-programmatic-analytics-api-try-report-queries.md
+                - name: Hämta rapport
+                  href: insights-programmatic-analytics-api-get-report.md
+                - name: Uppdatera rapport
+                  href: insights-programmatic-analytics-api-update-report.md
+                - name: Ta bort rapport
+                  href: insights-programmatic-analytics-api-delete-report.md
+                - name: Pausa rapportkörningar
+                  href: insights-programmatic-analytics-api-pause-report-executions.md
+                - name: Återuppta rapportkörningar
+                  href: insights-programmatic-analytics-api-resume-report-executions.md
         - name: Datadefinitioner för insikter
-          href: pci-data-definitions.md
+          href: insights-data-definitions.md
     - name: Indikatorer för partnerbidrag
       items:
         - name: Kompetens för molnbaserade företagsprogram

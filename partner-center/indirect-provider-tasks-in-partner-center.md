@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: ec673f7dcf620f055be58dc3a333575addcd6cd1
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: d72b7de4d1411b602e8a4c9ab69da5e643d3a560
+ms.sourcegitcommit: 9667763ae6eb405314dbb96bd4fa484ec964ab58
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277852"
+ms.lasthandoff: 07/15/2021
+ms.locfileid: "114224708"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Samarbeta med indirekta återförsäljare i programmet Cloud Solution Provider
 
@@ -24,11 +24,11 @@ Med en sådan komplex och snabbt föränderlig teknikmarknad vill kunderna ha de
 
 Nya återförsäljare kommer ut på marknaden och söker sätt att erbjuda sina lösningar till kunder utanför deras marknader och platser. Som etablerad teknikleverantör är du väl positionerad att vara deras väg till marknaden. Samarbeta med indirekta återförsäljare i Molnlösningsleverantör-programmet (CSP) för att ansluta till andra partner, få nya lösningar på marknaden och påskynda kundernas implementering av molntjänster.
 
-I modellen med indirekt leverantörsåterförsäljare (två nivåer) samarbetar du med indirekta återförsäljare för att erbjuda Microsofts molnlösningar till kunder. Du köper produkter och prenumerationer direkt från Microsoft och erbjuder sedan dessa lösningar till kunder via dina återförsäljare.
+I modellen med indirekta leverantörer och återförsäljare (två nivåer) samarbetar du med indirekta återförsäljare för att erbjuda Microsofts molnlösningar till kunder. Du köper produkter och prenumerationer direkt från Microsoft och erbjuder sedan dessa lösningar till kunder via dina återförsäljare.
 
 Som indirekt leverantör använder du Partnercenter för att:
 
-- Kontakta indirekta återförsäljare som kan hjälpa dig att utöka din räckvidd och kundbas
+- Anslut med indirekta återförsäljare som kan hjälpa dig att utöka din räckvidd och kundbas
 
 - Upprätta partnerskap med indirekta återförsäljare som gör att ni båda kan betjäna vanliga kunder
 
@@ -46,7 +46,7 @@ Slutför följande steg för att upprätta och hantera ditt partnerskap med indi
 
    - Kontakta din Microsoft-representant om du vill göra ändringar i företagets profil som indirekt leverantör.
 
-2. Ansluta med indirekta återförsäljare
+2. Anslut med indirekta återförsäljare
 
    - Innan du kan interagera och interagera med återförsäljare måste du upprätta samarbeten med dem i Partnercenter.
 
@@ -56,12 +56,12 @@ Slutför följande steg för att upprätta och hantera ditt partnerskap med indi
 
    - Upprätta återförsäljarrelationer med befintliga kunder
 
-När du har slutfört de här stegen kan du hantera dina återförsäljarpartners på sidan **Indirekta återförsäljare** från menyn **i Partnercenter.**
+När du har slutfört de här stegen kan du hantera dina återförsäljarpartner på sidan **Indirekta återförsäljare** från **partnercentermenyn.**
 
 > [!IMPORTANT]
-> Innan du kan börja arbeta med återförsäljare måste de registreras som indirekta återförsäljare i CSP-programmet och ha Partner Center-konton. Peka dina återförsäljare till [Partner med indirekta leverantörer i CSP för](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) information om registrering i CSP.
+> Innan du kan börja arbeta med återförsäljare måste de registreras som indirekta återförsäljare i CSP-programmet och ha Partner Center-konton. Peka dina återförsäljare till [Partner med indirekta leverantörer i CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) för information om registrering i CSP.
 
-## <a name="connect-with-indirect-resellers"></a>Ansluta med indirekta återförsäljare
+## <a name="connect-with-indirect-resellers"></a>Anslut med indirekta återförsäljare
 
 Om du vill interagera och interagera med indirekta återförsäljare i Partnercenter måste du upprätta ett samarbete med dem. Genom att ha ett samarbete med en indirekt återförsäljare kan du och återförsäljaren båda betjäna vanliga kunder.
 
@@ -96,7 +96,7 @@ Om du väljer att arbeta med en indirekt återförsäljare för befintliga prenu
 | **För att åstadkomma detta** | **Gör så här** | **Där** |
 |   ------------------   |   -------   |   -----   |
 | Gör det möjligt för återförsäljaren att hantera ett kundkonto och ha administratörsbehörighet för att hantera sina prenumerationer | Associera en återförsäljare med ett kundkonto när du lägger till en ny kund | På sidan **Ny** kund |
-| Gör det möjligt för återförsäljaren att hantera ett Azure-kundkonto|Associera en återförsäljare med ett Azure-kundkonto när du lägger till en ny kund|På **Azure-tjänstportalen** väljer du [Användarinställningar för att](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) ge den indirekta **återförsäljaren ägarbehörighet**|
+| Gör det möjligt för återförsäljaren att hantera ett Azure-kundkonto|Associera en återförsäljare med ett Azure-kundkonto när du lägger till en ny kund|På **Azure-tjänstportalen** väljer du [Användare Inställningar](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) att ge den indirekta **återförsäljaren ägarbehörighet**|
 | Ge återförsäljaren kredit för incitament | Associera återförsäljaren med prenumerationen (ny eller befintlig) | På sidan **Ny** prenumeration |
 | Delegera kundsupport för specifika prenumerationer till återförsäljaren | Välj återförsäljaren från **listan med avsedda supportkontakt** | På prenumerationens informationssida: Välj kunden från sidan **Kunder** och välj sedan prenumerationen på kundens **prenumerationssida** |
 
@@ -104,7 +104,7 @@ Om du väljer att arbeta med en indirekt återförsäljare för befintliga prenu
 
 Följ stegen nedan om du vill ta bort samarbetet med en befintlig indirekt återförsäljare. 
 
-1. På menyn i Partnercenter på instrumentpanelen väljer **du Indirekta återförsäljare.** 
+1. På menyn Partnercenter på instrumentpanelen väljer du **Indirekta återförsäljare.** 
 
 2. På sidan **Indirekta återförsäljare väljer** du Ta bort **partnerskap**. Ett meddelande visas som ber om bekräftelse. Fortsätt genom att välja **Ja.**
 
@@ -166,7 +166,7 @@ När kunder vill köpa nya prenumerationer, uppgradera befintliga eller köpa yt
 
 Få svar på dina frågor om Microsoft-partneravtal
 
-- [Hur indirekta leverantörer kan hjälpa sina återförsäljare att införa Microsoft-partneravtal – Vanliga frågor och svar](mpa-indirect-provider-faq.md)
+- [Hur indirekta leverantörer kan hjälpa sina återförsäljare att införa Microsoft-partneravtal – Vanliga frågor och svar](mpa-indirect-provider-faq.yml)
 
 Mer information om hur du hanterar kundkonton och prenumerationer finns i:
 

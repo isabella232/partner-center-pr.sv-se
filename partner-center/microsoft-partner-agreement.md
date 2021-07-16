@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: fc263c617a6a26872604970a42eb100708062fed
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 31c09817530e78620663f3b625db0e55f8924b91
+ms.sourcegitcommit: 9667763ae6eb405314dbb96bd4fa484ec964ab58
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276628"
+ms.lasthandoff: 07/15/2021
+ms.locfileid: "114224742"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Läs mer om Microsoft-partneravtal (MPA) för CSP-programpartner
 
@@ -37,7 +37,7 @@ Om du vill fortsätta att delta i CSP-programmet måste du signera Microsoft-par
 
 1. Logga in på Partnercenter med dina MPN-kontoautentiseringsuppgifter.
  
-1. Från **Inställningar** väljer du [Partnerprofil](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile).
+1. I **Inställningar** du [Partnerprofil](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile).
 
 1. Läs **avsnittet Programinformation.** Om MPN-programmets status **är** Aktiv är du en aktiv MPN-partner i Partnercenter.
  
@@ -54,7 +54,7 @@ Om du vill fortsätta att delta i CSP-programmet måste du signera Microsoft-par
 
 1. Logga in på Partner Center med dina autentiseringsuppgifter för global CSP-administratör.
 
-1. Från **Inställningar** väljer du **Kontoinställningar** och sedan [Partnerprofil.](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)
+1. I **Inställningar** väljer du **Kontoinställningar** och sedan [Partnerprofil.](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)
 
 1. Läs **avsnittet Programinformation.** Om din information inte visar status **för indirekt** återförsäljare måste du registrera dig som en [indirekt återförsäljare.](indirect-reseller-tasks-in-partner-center.md)
 
@@ -70,7 +70,7 @@ Kom ihåg att acceptera begäran om CSP-relation med din indirekta leverantör.
 
 ## <a name="sign-the-mpa"></a>Signera MPA
 
-1. Logga in på Partnercenter med ditt CSP Indirect Reseller konto. Du måste vara global administratör.
+1. Logga in på Partnercenter med ditt CSP Indirect Reseller-konto. Du måste vara global administratör.
 1. Gå till **[översiktssidan för CSP.](https://partner.microsoft.com/pcv/dashboard/overview)**  Om du inte ser  antingen Acceptera och fortsätt eller den gröna banderollen som talar om att MPA har signerats har du inte rätt roll för att signera MPA. Kontakta din globala administratör för att signera MPA.
 
 1. Om du vill visa och **ladda Microsoft-partneravtal** innan du signerar den väljer du Microsoft-partneravtal länken enligt nedan.
@@ -109,6 +109,6 @@ Du kan också se om du har signerat avtalet genom att **välja Avtal** från **K
  
 ## <a name="next-steps"></a>Nästa steg
 
-- [Hur indirekta leverantörer kan hjälpa sina återförsäljare att införa Microsoft-partneravtal – Vanliga frågor och svar](mpa-indirect-provider-faq.md)
+- [Hur indirekta leverantörer kan hjälpa sina återförsäljare att införa Microsoft-partneravtal – Vanliga frågor och svar](mpa-indirect-provider-faq.yml)
 
 - [Gå med i Cloud Solution Provider-programmet](indirect-reseller-tasks-in-partner-center.md)

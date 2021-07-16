@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 74144defb1b5b5bfd0cf67c98e4b9401f22ea93d
-ms.sourcegitcommit: 41e34d6c97a45e6f0b76d76a797398cd06665634
+ms.openlocfilehash: ff9be32e88c839186ede4cc081aabf75a822a23d
+ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/28/2021
-ms.locfileid: "112989350"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "114373710"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Särskilja din verksamhet genom att uppnå Microsoft-kompetenser
 
@@ -22,7 +22,7 @@ ms.locfileid: "112989350"
 
 Visa upp dina beprövade kunskaper om att leverera kvalitetslösningar inom ett eller flera specialiserade affärsområden. Microsoft-kompetenser är utformade för att förbereda dig för att uppfylla dina kunders behov och för att hjälpa dig att locka nya kunder som letar efter Microsoft-certifierade lösningsleverantörer. Gå med på toppnivån hos Microsoft-partner och stå ut från dina kollegor.
 
-- Uppnå en **silverkompetens** för att demonstrera din konsekventa kapacitet och åtagande.
+- Uppnå en **silverkompetens** för att demonstrera din konsekventa funktion och åtagande.
 
 - Uppnå en **guldkompetens** för att demonstrera dina förstklassiga funktioner i ett Microsoft-lösningsområde.
 
@@ -49,11 +49,11 @@ Om du vill skaffa silver- eller guldmedlemskapskompetens måste du visa upp expe
 |**Område**            |**Kompetens**                    |
 |--------------------|--------------------------------|
 |Program och infrastruktur| – Programutveckling<br/> – Appintegrering<br/> – Molnplattform<br/> – DevOps<br/> – Datacenter |
-|Företagsprogram | – Business Applications</br> – Resursplanering för företag (ERP)</br> – Projekt och portfölj |
+|Företagsprogram | – Business Applications</br> – Resursplanering för företag (ERP)</br> – Project och portfölj |
 |Data och AI| – Dataanalys<br/> – Dataplattform |
 |Modern arbetsplats och säkerhet | – Samarbete och innehåll<br/> – Kommunikation<br/> – Molnproduktivitet<br/> – Enterprise Mobility Management (EMM)<br/> – Meddelanden<br/> – Säkerhet<br/> – Små och medelstora molnlösningar<br/> – Windows och enheter |
 
-Silver- och guldkompetensnivåer har olika krav för vart och ett av områdena. Inom varje område finns klasser och prov som anställda på företaget kan göra för att uppnå den kompetensnivå som du vill ha. 
+Silver- och guldkompetensnivåer har olika krav för vart och ett av områdena. Inom varje område finns klasser och prov som anställda i företaget kan göra för att uppnå den kompetensnivå som du vill ha. 
 
 Mer information om vad som behövs för att uppnå silver- och guldkompetenser finns [i Microsoft Partner Network kompetenser](https://partner.microsoft.com/membership/competencies).
 
@@ -69,6 +69,6 @@ Mer information om vad som behövs för att uppnå silver- och guldkompetenser f
 
 - Lär dig hur [du betalar avgiften för](mpn-pay-fee-silver-gold-competency.md) ett medlemskap med silver- eller guldkompetens.
 
-- Visa en rapport om Partner Center [Insights-kompetenser](pci-competencies-report.md) som visar den aktuella statusen för dina kompetenser.
+- Visa en partnercenterrapport Insights [kompetenser](insights-competencies-report.md) som visar den aktuella statusen för dina kompetenser.
 
 - Få svar på [vanliga frågor om](competencies-faq.yml) kompetenser.

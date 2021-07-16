@@ -1,6 +1,6 @@
 ---
 title: Meddelanden september 2020
-description: September 2020-meddelanden för Microsoft Partner Center, till exempel nya funktioner, kampanjer, erbjudanden, marknader eller ändringar av befintliga erbjudanden.
+description: September 2020-meddelanden för Microsoft Partner Center, till exempel nya funktioner, kampanjer, erbjudanden, marknader eller ändringar i befintliga erbjudanden.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,97 +9,97 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: b8f6f565e92ca4ac95d0787dff99893208722f02
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 506afac0d5efd11d85429a3289b22ca35c83af9f
+ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712519"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "114373949"
 ---
 # <a name="september-2020-announcements"></a>Meddelanden september 2020
 
-Den här sidan innehåller information om Microsoft Partner Center-meddelanden för september 2020.
+Den här sidan innehåller information om meddelanden för Microsoft Partner Center för september 2020.
 
-2020-meddelanden: [februari](2020-february.md)  |  [mars](2020-march.md)  |  [april](2020-april.md)som den  |  [](2020-may.md)  |  [juni](2020-june.md)  |  [juli](2020-july.md)  |  [](2020-august.md) | September
+2020-meddelanden: [februari mars](2020-february.md)  |  [april](2020-march.md)  |  [maj](2020-april.md)juni  |  [](2020-may.md)  |  [](2020-june.md)  |  [juli](2020-july.md)  |  [|](2020-august.md) September
 
 ________________
-## <a name="partner-center-software-license-key-and-download-fulfillment-notice"></a><a name="17"></a>Partner Center licens nyckel för program vara och hämtnings meddelande
+## <a name="partner-center-software-license-key-and-download-fulfillment-notice"></a><a name="17"></a>Partner center programvarulicensnyckel och ladda ned uppfyllningsmeddelande
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-09-30
 - Funktioner
  
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Alla leverantörer av moln lösnings partner (CSP) som agerar för program varu erbjudanden
+Alla CSP-partner (Cloud Solution Partner) som gör programvaruerbjudanden
 
 ### <a name="details"></a>Information
 
 >[!NOTE]
->På grund av feedback från partnern är vi återinför för att få program vara och licens nycklar för program varu beställningar med beständig och Server prenumeration. Det kommer att återställas till sitt tidigare tillstånd innan det tas bort den 19 januari 2021. Mer information finns i [mars 2021-meddelandet](./2021-march.md#4).
+>På grund av feedback från partnern omvärder vi uppfyllningsfunktionerna i Partnercenter för att hämta programvaru- och licensnycklar för beständiga programvarubeställningar och programvarubeställningar för serverprenumeration. Den återställs till sitt tidigare tillstånd innan den tas bort den 19 januari 2021. Mer information finns i meddelandet [från mars 2021.](./2021-march.md#4)
 
-Idag-partner kan använda antingen Partner Center eller Microsoft 365 administrations Center för hämtning av program vara och licens nyckel för CSP-programordningar. Från och med **19 januari 2021** kommer Partner Center-program och licens nyckel att uppfyllas, och partner kommer att peka kunderna att använda **Microsoft 365 administrations Center** exklusivt för detta ändamål. Sidan kund program vara i Partner Center kommer att innehålla en "djup länk" till Microsoft 365 administrations Center där du kan peka kunder för att hämta kund licenser och program varu nedladdningar. Detta säkerställer den säkraste och effektiva upplevelsen för kunderna.
+Idag kan partner använda antingen Partner Center eller Microsoft 365 Admin Center för nedladdning av programvara och licensnyckeluppfyllelse för CSP-programvarubeställningar. Från och **med den 19 januari 2021** kommer funktionen för programvaru- och licensnyckeluppfyllelse i Partnercenter att dras tillbaka och partnern kommer att peka kunder att **använda Microsoft 365 Admin Center** uteslutande för detta ändamål. Sidan Kundprogramvara i Partnercenter innehåller en "djuplänk" till Microsoft 365 Admin Center där du kan peka kunder för att hämta kundlicenser och nedladdningar av programvara. Detta hjälper till att säkerställa den säkraste och effektivaste upplevelsen för kunderna.
 
-Program licens nycklar och nedladdnings länkar är värdefulla och har sökts efter efter intellektuell ägande rätt. Om de läcker ut kan de snabbt bli uttömda sina aktiverings gränser och orsaka en negativ kund-och partner upplevelse. Därför är det viktigt att partners använder den säkraste tekniken och bästa praxis för att skydda dessa värdefulla till gångar och skydda sina kunder.
+Programvarulicensnycklar och nedladdningslänkar är värdefulla och eftersökta immateriella tillgångar. Om den läcks kan de snabbt få slut på sina aktiveringsgränser och orsaka en negativ kund- och partnerupplevelse. Därför är det viktigt att partner använder den säkraste tekniken och bästa praxis för att skydda dessa värdefulla tillgångar och skydda sina kunder.
 
-**Microsoft 365 administrations Center**
+**Microsoft 365 Admin Centrum**
 
-Microsoft 365 administrations Center förbättrar den säkra leveransen av program vara som köpts och gör det möjligt för kunder att hantera sina prenumerationer och själv i deras bekvämlighet, vilket förbättrar kund upplevelsen. Det minskar riskerna som är kopplade till att kopiera och skicka licens nycklar direkt till kunden, vilket kan vara fallet med hjälp av Partner Center. Som ett extra säkerhets mått spåras alla partner aktiviteter för att komma åt och leverera program varu nycklar och nedladdningar i aktivitets loggen för partner Center. Med den här funktionen för aktivitets loggning kan partners spåra intern användar åtkomst för att skapa beställningar, hämta nycklar och nedladdningar och få mer kontroll och minska risken för bedrägerier.
+Med Microsoft 365 Admin Center förbättras säker leverans av köpt programvara och kunderna kan hantera sina prenumerationer och självbetjäning när de vill, vilket förbättrar kundupplevelsen. Det minskar riskerna med att kopiera och skicka licensnycklar direkt till kunden, vilket kan vara fallet med partnercenter. Som en ytterligare säkerhetsåtgärd spåras alla partneraktiviteter för åtkomst till och leverans av programvarunycklar och nedladdningar i aktivitetsloggen för Partnercenter. Med den här funktionen för aktivitetsloggning kan partner spåra intern användaråtkomst för att skapa beställningar, hämta nycklar och nedladdningar och få mer kontroll och minska potentiella bedrägeririsker.
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Läs mer om Microsoft 365 administrations Center-programvara genom att granska [översikten](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [vanliga uppgifter](/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true) och [funktionerna för att uppfylla licens](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)kraven.
+- Läs mer om Microsoft 365 Admin Center-programvaran i [översikten,](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3) [vanliga uppgifter](/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true) och funktioner för att uppfylla [licensnyckel.](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
 
 - Dela den här uppdateringen med relevanta team i din organisation.
 
 ### <a name="questions"></a>Har du några frågor?
 
-För alla frågor som rör detta meddelande kontaktar du [Support för partner Center](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+Om du har frågor om det här meddelandet kontaktar du [supporten för Partnercenter.](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)
 
-### <a name="change-log"></a>Ändrings logg:
+### <a name="change-log"></a>Ändringslogg:
 
-- 30 september 2020: ursprunglig publikation 
+- 30 september 2020: Ursprunglig publicering 
 
-- 5 mars 2021: Lägg till anteckning längst upp för att återställa Partner Center-program och kapacitet för licens nyckel.
+- 5 mars 2021: Kommentar har lagts till längst upp angående återställning av Partner Center-program- och licensnyckeluppfyllelse.
 
 ________________
-## <a name="cloud-solution-provider-csp-program-evolution-and-open-license-program-changes-journey-to-a-better-partner-and-customer-experience"></a><a name="16"></a>Cloud Solution Provider (CSP)-program utveckling och öppna licens program ändringar: resa till en bättre partner och kund upplevelse
+## <a name="cloud-solution-provider-csp-program-evolution-and-open-license-program-changes-journey-to-a-better-partner-and-customer-experience"></a><a name="16"></a>Molnlösningsleverantör programutveckling (CSP) och ändringar i Open License-programmet: Resan till en bättre partner och kundupplevelse
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-09-30
 - Funktioner
  
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Alla partner i CSP och öppna program
+Alla partner i CSP och Öppna program
 
 ### <a name="details"></a>Information
 
 >[!NOTE]
->På grund av feedback från partnern är vi återinför för att få program vara och licens nycklar för program varu beställningar med beständig och Server prenumeration. Det kommer att återställas till sitt tidigare tillstånd innan det tas bort den 19 januari 2021. Mer information finns i [mars 2021-meddelandet](./2021-march.md#4).
+>På grund av feedback från partnern omvärder vi uppfyllningsfunktionerna i Partnercenter för att hämta programvaru- och licensnycklar för beständiga programvarubeställningar och programvarubeställningar för serverprenumeration. Den återställs till sitt tidigare tillstånd innan den tas bort den 19 januari 2021. Mer information finns i meddelandet [från mars 2021.](./2021-march.md#4)
 
-Microsoft CSP-programmet har vuxit exponentiellt, med fler än 90 000 deltagande företag. Det är vår huvudsakliga partner Sälj rörelse för små och medel stora företag och för mindre företags kunder inom den nya Commerce-upplevelsen. När vi bygger på det här momentet tillkännagede vi idag att vi utökar möjligheterna för partner i CSP-programmet. Information finns i vårt [partner blogg inlägg](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/).
+Microsofts CSP-program har vuxit exponentiellt, med fler än 90 000 deltagande företag. Det är vår primära partnerförsäljnings rörelse för små och medelstora företag och för mindre företagskunder i den nya handelsupplevelsen. Vi bygger vidare på detta och meddelade idag att vi utökar möjligheterna för partner i CSP-programmet. Informationen finns i vårt [partnerblogginlägg](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/).
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Granska [blogg inlägget partner](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) och dela informationen med relevanta personer i din organisation.
+- Granska [partnerblogginlägget](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) och dela informationen med relevanta personer i din organisation.
 
-- Granska beredskaps materialet i drift beredskap resurs samling [CSP program utveckling och öppna licens program ändringar](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/). Du hittar en översikts presentation, licens vägledning, en detaljerad partner vanliga frågor och svar och många fler användbara resurser. Använd den här [beredskaps kartan](https://partner.microsoft.com/resources/detail/csp-open-evolution-to-a-better-experience-readiness-map-pdf) för att snabbt hitta rätt information för din roll.
+- Granska beredskapsmaterialen i resurssamlingen för driftberedskap [för utveckling av CSP-program och ändringar i open license-programmet.](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/) Du hittar en översiktspresentation, licensvägledning, en detaljerad partner med vanliga frågor och svar och många fler användbara resurser. Använd [beredskapskartan](https://partner.microsoft.com/resources/detail/csp-open-evolution-to-a-better-experience-readiness-map-pdf) för att snabbt hitta rätt information för din roll.
 
 ### <a name="questions"></a>Har du några frågor?
 
-För frågor som rör detta meddelande kontaktar du [Support för partner Center](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+Om du har frågor om det här meddelandet kontaktar [du Support för Partnercenter.](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)
 
-### <a name="change-log"></a>Ändrings logg:
+### <a name="change-log"></a>Ändringslogg:
 
-- 30 september 2020: ursprunglig publikation.
+- 30 september 2020: Ursprunglig publicering.
 
-- 5 mars 2021: Lägg till anteckning längst upp för att återställa Partner Center-program och kapacitet för licens nyckel.
+- 5 mars 2021: Kommentar har lagts till längst upp angående återställning av Partner Center-program- och licensnyckeluppfyllelse.
 
 ________________
-## <a name="availability-of-new-subscriptions-transition-tool-between-partners-for-azure-plan"></a><a name="15"></a>Tillgänglighet för nya prenumerations över gångs verktyg mellan partner för Azure-prenumeration 
+## <a name="availability-of-new-subscriptions-transition-tool-between-partners-for-azure-plan"></a><a name="15"></a>Övergångsverktyget för nya prenumerationer är tillgängligt mellan partner för Azure-plan 
 
 ### <a name="categories"></a>Kategorier
 
@@ -108,213 +108,213 @@ ________________
 
 ### <a name="target-audience"></a>Målgrupp
 
-- CSP direkt fakturerings partner och indirekta leverantörer kommer att ha åtkomst till över gångs verktyget.  
-- Åter försäljare kan arbeta med sin indirekta leverantör. Mer information om providrar finns i resurserna [här](https://partner.microsoft.com/resources/collection/transition-tool-azure-subscriptions-new-commerce-experience-csp#/). 
+- CSP:s direktfaktureringspartner och indirekta leverantörer kommer att ha åtkomst till övergångsverktyget.  
+- Återförsäljare kan arbeta med sin indirekta leverantör. Mer information om leverantörer finns i resurserna [här.](https://partner.microsoft.com/resources/collection/transition-tool-azure-subscriptions-new-commerce-experience-csp#/) 
 
 ### <a name="summary"></a>Sammanfattning
 
-Från och med den 30 september 2020 är ett nytt över gångs verktyg som automatiserar överföringen av en kunds Azure-prenumerationer mellan partner som ingår i CSP-programmet för den nya Commerce-upplevelsen för Azure (Azure-abonnemang).
+Från och med den 30 september 2020 är ett nytt övergångsverktyg för att automatisera överföringen av en kunds Azure-prenumerationer mellan partner som deltar i CSP-programmet för den nya handelsupplevelsen för Azure (Azure-plan).
 
-Genom att utöka den nya Commerce-upplevelsen för Azure förbättrar över gången verktyget flexibiliteten att hantera Azure-prenumerationer och support kunders växande affärs behov med följande fördelar:  
-- Spara tid med enkel att använda verktyg som automatiserar Azure-över gångar  
-- Inget avbrott i Azure-tjänster under över gången till fakturerings ägarskap 
+Övergångsverktyget utökar den nya handelsupplevelsen för Azure och förbättrar flexibiliteten för att hantera Azure-prenumerationer och stödja kundernas växande affärsbehov med följande fördelar:  
+- Spara tid med lättanvända verktyg som automatiserar Azure-övergångar  
+- Inga avbrott i Azure-tjänster under övergången av faktureringsägarskap 
 
 ### <a name="key-capabilities-and-considerations"></a>Viktiga funktioner och överväganden
 
-- Över gången styrs av kund beslut och inträffar endast när båda parter vidtar åtgärder.  
--   Över gången är omedelbart utan drift avbrott och påverkan på Azure-tjänster. 
--   Den här verktygs upplevelsen i Partner Center kommer att vara tillgänglig för direkta fakturerings partner och indirekta leverantörer. Åter försäljare måste arbeta med indirekta leverantörer för att kunna utnyttja det här verktyget för deras räkning. 
+- Övergången styrs av kundens beslut och sker bara när båda partnerna vidta explicita åtgärder.  
+-   Övergången sker omedelbart utan kundavbrott och påverkar Azure-tjänster. 
+-   Den här verktygsupplevelsen i Partnercenter blir tillgänglig för direktfaktureringspartner och indirekta leverantörer. Återförsäljare måste samarbeta med indirekta leverantörer för att kunna utnyttja det här verktyget åt dem. 
 
 ### <a name="next-steps"></a>Nästa steg: 
 
--   Granska resurserna på [den här partner Galleri sidan](https://partner.microsoft.com/resources/collection/transition-tool-azure-subscriptions-new-commerce-experience-csp#/). 
--   Utbilda ditt team till och börja använda kom igång med det nya över gångs verktyget. 
--   Vägleda dina åter försäljare i över gångs processen om du är en indirekt Provider. 
--   Kontakta supporten om du har ytterligare frågor. 
+-   Granska resurserna på den [här partnergallerisidan.](https://partner.microsoft.com/resources/collection/transition-tool-azure-subscriptions-new-commerce-experience-csp#/) 
+-   Träna ditt team till och börja använda gör dig redo med det nya övergångsverktyget. 
+-   Guida dina återförsäljare om övergångsprocessen om du är en indirekt leverantör. 
+-   Kontakta supporten om du har fler frågor. 
 
 ________________
-## <a name="testing-update-partner-center-api-updates-and-user-interface-enhancements-for-the-education-customer-validation-process"></a><a name="14"></a>Testa uppdatering: API-uppdateringar för partner Center och användar gränssnitts förbättringar för kund validerings processen för utbildning 
+## <a name="testing-update-partner-center-api-updates-and-user-interface-enhancements-for-the-education-customer-validation-process"></a><a name="14"></a>Testuppdatering: Partner Center API-uppdateringar och förbättringar av användargränssnittet för kundvalideringsprocessen för Education 
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-09-28
 - Funktioner
  
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Partner som säljer akademiska erbjudanden via Cloud Solution Provider (CSP)-programmet
+Partner som säljer Academic-erbjudanden via programmet Molnlösningsleverantör (CSP)
 
 ## <a name="details"></a>Information
 
-Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för kund validering för att kunna använda akademiska erbjudanden i CSP-programmet. Som en del av detta åtagande introducerar vi API: er för API och användar gränssnitt under det andra kvartalet av räkenskapsåret 2021 (FY21 Q2) som kommer att lägga till klarhet och insyn i kund validerings processen. De ger också möjlighet att mata in mer exakta data, vilket ger bättre kund validerings framgång.  
+Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för kundvalidering för att transacting Academic-erbjudanden i CSP-programmet. Som en del av det här åtagandet introducerar vi Partner Center API och förbättringar av användargränssnittet under det andra kvartalet av räkenskapsåret 2021 (FY21 Q2) som ger tydlighet och insyn i kundvalideringsprocessen. De ger också möjlighet att mata in mer exakta data, vilket ger bättre kundvalidering.  
 
-### <a name="partner-center-enhancements"></a>Förbättringar i Partner Center 
+### <a name="partner-center-enhancements"></a>Förbättringar i Partnercenter 
 
-- Nya kompetens-API: er för GET och POST ger stöd för korrekt data inmatning och förbättra kund validerings processen för utbildning av Microsoft. 
+- Nya API:er för GET- och POST-kvalificering stöder korrekt datainmatning och förbättrar Microsofts valideringsprocess för Education-kunder. 
 
-- Förbättringar i användar gränssnittet har också stöd för korrekt data inmatning och förbättring av kund validerings processen för utbildning av Microsoft. 
+- Förbättringar av användargränssnittet stöder också korrekt inmatning av data och förbättrar Microsofts valideringsprocess för Education-kunder. 
 
 ### <a name="testing"></a>Testning 
 
-Partner får möjlighet att testa dessa förbättringar från och med den 2020 oktober. Vi rekommenderar starkt att du gör den här möjligheten för att få en bättre förståelse för de API: er och data som krävs för att lyckas med kund valideringen. Vi ger dig mer information om exakt tidpunkt och hur du deltar. De befintliga API: erna för partner Center kommer att dras tillbaka innan slutet av FY21 Q2. Vid detta tillfälle måste du övergå till att använda de nya API: erna för partner Center.
+Partner får möjlighet att testa dessa förbättringar från och med oktober 2020. Vi rekommenderar starkt att du tar tillfället i akt för att få en bättre förståelse för de API:er och datainmatning som krävs för att kundverifieringen ska lyckas. Vi ger snart mer information om den exakta tidpunkten och hur du deltar. De befintliga Partner Center-API:erna dras tillbaka före slutet av FY21 Q2. Då måste du övergå till att använda de nya Partner Center-API:erna.
 
 ### <a name="testing-update"></a>Testa uppdatering 
 
-Partner test datumen är från 2 oktober 2020 till och med den 2 december 2020. Partner som vill delta bör gå igenom [kund test guiden för partner Center](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) för att komma igång, hur du registrerar dig och vad som ska förväntas under test fasen.
+Partnertestdatum är från 2 oktober 2020 till och med 2 december 2020. Partner som vill delta bör läsa kundtestningsguiden för [Partner Center Education](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) för att se hur de ska förbereda sig, hur de registrerar sig och vad som händer under testfasen.
 
-### <a name="library-and-museum-customers"></a>Biblioteks-och Museum-kunder 
+### <a name="library-and-museum-customers"></a>Biblioteks- ochBibliotekskunder 
 
-Utöver de förbättringar som beskrivs ovan är vi glada att kunna tillkännage att vi i FY21 K2 kommer att möjliggöra akademiska erbjudanden för biblioteks-och Museum-kunder, vilket innebär att de utbildnings kunder som du kan använda för Transact CSP-erbjudanden kan använda. 
+Förutom de förbättringar som beskrivs tidigare är vi glada över att kunna meddela att vi under FY21 Q2 kommer att aktivera Academic-priced-erbjudanden för biblioteks- ochRopskunder, vilket utökar de Education-kunder som du kan köpa CSP-erbjudanden med. 
 
 >[!Note]
-> Microsoft förbehåller sig rätten att granska statusen för alla kunder eller föreslagna kunder som en kvalificerad utbildnings användare. Mer information finns i [användar kraven för akademiska utbildningar](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) . 
+> Microsoft förbehåller sig rätten att granska status för en kund eller föreslagen kund som kvalificerad utbildningsanvändare. Fullständig information [finns i Användarkrav för](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) Academic Qualified Education. 
 
 ## <a name="next-steps"></a>Nästa steg
 
-- Gå igenom partner centret utbildning av kund validerings process förbättringar i arbets beredskaps resurserna för att lära dig mer om det nya [användar gränssnittet för partner Center, API-ändringar och testnings guide](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/). 
+- Granska förbättringarna av kundvalideringsprocessen för PartnerCenter Education i resurserna för driftberedskap för att lära dig mer om nya [PartnerCenter-Användargränssnitt, API-ändringar och testguide.](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) 
 
-- Registrera dig för att delta i testningen (mer information finns i [test guiden](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) ). 
+- Registrera dig för att delta i testningen (mer [information finns i](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) testguiden). 
 
-- Se till att din organisation är bekant med de [akademiska användar kraven för utbildning](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7). 
+- Se till att din organisation är bekant med [användarkraven för Academic Qualified Education.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) 
 
-- Dela den här informationen med lämpliga team i din organisation och med dina åter försäljare för att hjälpa dem att förbereda för dessa ändringar. 
+- Dela den här informationen med lämpliga team i din organisation och med dina återförsäljare för att hjälpa dem att förbereda sig för dessa ändringar. 
 
 ## <a name="questions"></a>Har du några frågor?
 
-Kontakta [partner Center-supporten](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)om du har frågor om det här meddelandet.
+Om du har frågor om det här meddelandet kontaktar du [supporten för Partnercenter.](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)
 
-## <a name="update---csp-o365-usage-apis-and-csp-license-usage-reports"></a><a name="13"></a>Uppdatera CSP-användnings-API: er och CSP licens användnings rapporter 
+## <a name="update---csp-o365-usage-apis-and-csp-license-usage-reports"></a><a name="13"></a>Uppdatering – Användningsrapporter för CSP O365-användnings-API:er och CSP-licens 
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-09-29
 - Funktioner
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Alla partners som går via Cloud Solution Provider (CSP)-programmet på Partner Center. 
+Alla partner som gör en Molnlösningsleverantör via CSP-programmet (CSP) i Partnercenter. 
 
 ### <a name="summary"></a>Sammanfattning 
 
-Uppdateringar kommer att göras till definitionerna av mått som exponeras i CSP: s O365 användnings-API: er för att hjälpa partners att mäta sin O365-användning. 
+Uppdateringar kommer att göras för definitionerna av mått som exponeras i CSP O365-användnings-API:er för att hjälpa partner att mäta sin O365-användning. 
 
 ### <a name="details"></a>Information
 
-Detta är en uppdatering av [partner Center-meddelandet](#8) som gjorts den 17 september 2020. Vi gör uppdateringar för att se till att API-uppdateringarna är bakåtkompatibla för att säkerställa att inga integrerings ändringar krävs av dig. 
+Det här är en uppdatering [av partnercentermeddelandet](#8) som gjordes den 17 september 2020. Vi gör uppdateringar för att säkerställa att API-uppdateringarna är bakåtkompatibla så att du inte behöver göra några integreringsändringar. 
 
-Som tidigare presenterade, från och med den 30 september 2020, kommer användnings måtten för CSP: er att gå igenom en uppdatering. 
+Som vi meddelade tidigare, från och med den 30 september 2020, går CSP O365-användningsstatistiken igenom en uppdatering. 
 
-Med den här ändringen kommer definitionerna för de mått som är tillgängliga via följande API: er för CSP-licens användning att uppdateras: 
+Med den här ändringen uppdateras definitionerna av de mått som är tillgängliga via följande API:er för CSP-licensanvändning: 
 
-1. [API för licens användnings information](/partner-center/develop/get-licenses-usage-information).
+1. [API för licensanvändningsinformation.](/partner-center/develop/get-licenses-usage-information)
 
-2. [API för kund licens användnings information](/partner-center/develop/get-customer-licenses-usage-information).
+2. [API för användningsinformation om kundlicens.](/partner-center/develop/get-customer-licenses-usage-information)
 
-3.  [API för partner licens användnings information](/partner-center/develop/get-partner-licenses-usage-information).
+3.  [API för partnerlicensanvändningsinformation.](/partner-center/develop/get-partner-licenses-usage-information)
 
-De uppdaterade definitionerna visas nedan. Eftersom inga ändringar görs i API-schemat krävs ingen ny integrering. 
+De uppdaterade definitionerna visas nedan. Eftersom det inte finns några ändringar i API-schemat krävs ingen ny integrering. 
 
 | **Mått** | **Uppdaterade definitioner** |
 |---------|:---------|
-|licensesActive |Antal licenser som använts under de senaste 28 dagarna |
-|licensesQualified |Antalet licenser för utvärdering och icke-utvärdering som är tillgängliga för produkt-SKU: n |
+|licensesActive |Antal licenser som har använts under de senaste 28 dagarna |
+|licensesQualified |Antal utvärderings- och icke-utvärderingslicenser som är tillgängliga för produktens SKU |
 |UsagePercent |Aktiva licenser i procent av kvalificerade licenser |
-|ProratedLicenseUsagePercent|Aktiva licenser i procent av kvalificerade licenser som sammanställts för partnern.  |
+|ProratedLicenseUsagePercent|Aktiva licenser i procent av kvalificerade licenser aggregerade för partnern.  |
 
 ### <a name="next-steps"></a>Nästa steg:
 
 Dela den här informationen med andra i din organisation.
 ________________
 
-## <a name="upcoming-russian-federal-law-vat-changes"></a><a name="12"></a>Kommande ryska federala lagar om moms ändringar
+## <a name="upcoming-russian-federal-law-vat-changes"></a><a name="12"></a>Kommande ändringar av moms i ryska federala lagar
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-09-25
 - Funktioner
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Rysk volym licensiering (VL), Microsoft Business Solutions (MB) och kanal partner för Cloud Solution Provider (CSP)
+Ryska volymlicensieringspartner (VL), Microsoft Business Solutions (MBS) Molnlösningsleverantör CSP-kanalpartner
 
 ### <a name="summary"></a>Sammanfattning 
 
-MOMS ändringar som infördes av den ryska federala lagen #265-FZ kommer att implementeras från och med den 1 januari 2021.
+Ändringar av moms som införs enligt ryska federala lagar #265-FZ kommer att implementeras från och med 1 januari 2021.
 
 ### <a name="details"></a>Information
 
-Ryska federala lagen #265-FZ daterad 31 juli 2020 ändrade subsec. 26 av. 2 av konst. 149 i den ryska skatte koden. I enlighet med ändringarna, från och med den 1 Jan 01, 2021 i Ryssland, beviljas exklusiva IP-rättigheter för program vara och elektroniska databaser som **inte ingår** i det enhetliga registret för den **ryska** program varan och de elektroniska databaserna, samt beviljande av användnings rättigheter för sådan program vara och databaser (inklusive uppdateringar och uppgraderingar), samt beviljande av fjärråtkomst till dem via Internet, **kommer inte längre att vara moms befrielse**. 
+Ryska federala lagar #265-FZ daterat 31 juli 2020 ändrad undersekunder.26 av s.2 i art.149 i den ryska skattekoden. I enlighet med ändringarna kommer beviljande av exklusiva **IP-rättigheter** för programvara och elektroniska databaser som inte  ingår i det enhetliga  registret för ryska program och elektroniska databaser, samt beviljande av användningsrättigheter för sådana program och databaser (inklusive uppdateringar och uppgraderingar) samt beviljande av fjärråtkomst till dem via Internet, inte längre att vara undantagen från momsregistreringen från och med den 1 januari 2021 i Ryssland. 
 
-**Om du följer ovanstående ändringar kommer MOMSen enligt den taxa som definieras i gällande lagstiftning att läggas till av MIOL för alla icke-konkreta Microsoft-produkter i Ryssland.**
+**Informeras om att efter ovanstående ändringar kommer momsen enligt den sats som definierats av tillämpliga lagar att läggas till av MIOL för alla icke-konkreta Microsoft-produkter i Ryssland.**
 
-Skicka en support förfrågan på följande sätt för alla frågor som rör den här ändringen:
+Skicka en supportbegäran för frågor som rör den här ändringen på följande sätt:
 
-- Volym licensiering: om du har frågor kan du kontakta ditt regionala drift Center med hjälp av [verktyget för samtals loggning (CLT)](https://clt.partners.extranet.microsoft.com/CLT) eller via Explore.MS. Följ standard CLT-processen nära så att vi kan lösa din fråga så snabbt som möjligt.
-- MB/Dynamics: partner ska logga en begäran via [OCL-verktyget i PartnerSource Business Center](https://businesscenter.mbs.microsoft.com/). 
-- CSP: partner ska [Logga en supportbegäran](https://partnercenter.microsoft.com/partner/support)
+- Volymlicensiering: Om du har frågor kan du kontakta Regionalt driftcenter med hjälp av [Call Logging Tool (CLT)](https://clt.partners.extranet.microsoft.com/CLT) eller via Explore.ms. Följ CLT-standardprocessen noggrant så att vi kan lösa frågan så snabbt som möjligt.
+- MBS/Dynamics: Partner ska logga en begäran via [OCL-verktyget i PartnerSource Business Center](https://businesscenter.mbs.microsoft.com/). 
+- CSP: Partner bör [logga en supportbegäran](https://partnercenter.microsoft.com/partner/support)
 
 ### <a name="next-steps"></a>Nästa steg:
 
-Dela den här informationen i hela organisationen som du anser lämpligt. Microsoft kan inte informera dig om dina skatte frågor. Du bör kontakta din egen skatte rådgivare om hur ändringen påverkar din verksamhet. 
+Dela den här informationen i hela organisationen efter behov. Microsoft kan inte ge dig råd om skatteråd. Du bör rådgöra med dina egna skatterådgivare om effekten av den här ändringen på din verksamhet. 
 ________________
 
-## <a name="partner-center-insights--your-single-reporting-resource-for-understanding-your-business-with-microsoft"></a><a name="10"></a>Partner Center Insights – din enda rapporterings resurs för att förstå ditt företag med Microsoft.
+## <a name="partner-center-insights--your-single-reporting-resource-for-understanding-your-business-with-microsoft"></a><a name="10"></a>Partner Center Insights – Din enda rapporteringsresurs för att förstå din verksamhet med Microsoft.
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-09-23
 - Funktioner
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Alla partner organisationer i Microsoft Partner Network. 
+Alla partnerorganisationer i Microsoft Partner Network. 
 
 ### <a name="summary"></a>Sammanfattning 
 
-Insikter i Partner Center kommer snart att ersätta **insikter** om rapporterings verktyget. Partner Center Insights erbjuder rikare visualiseringar, mer informativa rapporterings funktioner och KPI: er som täcker kunder, prenumerationer, licens användning, åter försäljares prestanda, utbildning, kompetens och förmåner. Använd dessa intelligenta insikter för att tydligt förstå ditt företag med Microsoft och fatta data drivna beslut med förtroende. Kom igång genom att välja **insikter** från den vänstra navigerings menyn i Partner Center.
+PartnerCenter Insights kommer snart att ersätta **myInsights-rapporteringsverktyget** som ska ta bort. PartnerCenter Insights visuella objekt, mer insiktsfulla rapporteringsfunktioner och KPI:er som omfattar kunder, prenumerationer, licensanvändning, återförsäljarprestanda, utbildning, kompetenser och förmåner. Använd dessa intelligenta insikter för att tydligt förstå din verksamhet med Microsoft och fatta datadrivna beslut med tillförsikt. Kom igång genom att **Insights** på den vänstra navigeringsmenyn i Partnercenter.
 
-Mina **insikter** kommer inte längre att vara tillgängliga efter den 30 september 2020. 
+**MyInsights** kommer inte längre att vara tillgängligt efter den 30 september 2020. 
 
-### <a name="what-is-insights"></a>Vad är insikter?
+### <a name="what-is-insights"></a>Vad är Insights?
 
-Instrument panelen insikter i Partner Center ger dig en enhetlig och 360 vy över din partner organisations nyckeltal (KPI: er) över moln produkter som Office 365, Azure, Dynamics 365 och licensierings modeller som till exempel CSP (Cloud Solution Provider) och Enterprise-avtal (EA). Nya funktioner läggs till kontinuerligt och alla rapporter har stöd för [rå data export](../pci-download-reports.md), så att du kan utföra ad hoc-dataanalyser utifrån dina affärs behov. Du kan hantera åtkomst och användning av insikter i din organisation med hjälp av två rapporterings roller för partner Center, rapport visnings programmet för rapporter [och visnings program](../pci-roles.md).
+Instrumentpanelen Insights i Partnercenter ger dig en enhetlig, 360-gradig vy över partnerorganisationens kpi:er (Kpi:er) för molnprodukter som Office 365, Azure, Dynamics 365 och licensieringsmodeller som Molnlösningsleverantör (CSP) och företagsavtal (EA). Nya funktioner läggs kontinuerligt till, [](../insights-download-reports.md)och alla rapporter stöder export av rådata, så att du kan utföra ad hoc-dataanalys baserat på dina affärsbehov. Med två partnercenterrapporteringsroller, Executive Report Viewer och [Report Viewer,](../pci-roles.md)kan du bättre hantera åtkomst och användning av Insights i din organisation.
 
 Nyligen tillagda rapporter:
 
-- [Prestanda rapport för åter försäljare och data export](../pci-resellers-performance.md) : innehåller en översikt över CSP-indirekta leverantörer av prestanda för de olika indirekta åter försäljarna.
+- [Prestandarapport och dataexport för återförsäljare:](../insights-resellers-performance.md) Ger en översikt för indirekta CSP-leverantörer av prestanda för sina olika indirekta återförsäljare.
 
-- [Rapport om kund möjligheter och data export](../pci-customer-opportunities.md): ger en översikt över kundernas benägenhet för att köpa Microsoft-produkter.
+- [Rapport om kundmöjligheter och dataexport:](../insights-customer-opportunities.md)Ger en översikt över kundernas möjlighet att köpa Microsoft-produkter.
 
-[Här](../partner-center-insights.md) finns en fullständig lista över rapporter som är tillgängliga i insikter.
+Här [finns](../partner-center-insights.md) en fullständig lista över rapporter som är tillgängliga i Insights.
 
 ### <a name="next-steps"></a>Nästa steg:
 
-- Titta ofta på [sidan Partner Center Insights](../partner-center-insights.md) om du vill lära dig mer om att rapportera uppdateringar och förbättringar.
+- På sidan [partnercenter finns Insights ofta om](../partner-center-insights.md) du vill veta mer om uppdateringar och förbättringar.
 
-- Vi rekommenderar att du utforskar de här nya funktionerna och delar dina kommentarer med hjälp av de infogade feedback-verktygen på fliken insikter.
+- Vi rekommenderar att du utforskar de här nya funktionerna och delar din feedback med hjälp av de infogade feedbackverktygen som finns på Insights fliken.
 
 ________________
 
-## <a name="sdk-release-on-net-standard-v1162"></a><a name="11"></a>SDK-version på .NET standard (v 1.16.2)
+## <a name="sdk-release-on-net-standard-v1162"></a><a name="11"></a>SDK-version på .NET Standard (v1.16.2)
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-09-22
 - Funktioner
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Direkta fakturerings partner och indirekta leverantörer som deltar i CSP-programmet som använder Partner Center .NET SDK.
+Direktfaktureringspartner och indirekta leverantörer som deltar i CSP-programmet som använder Partner Center .NET SDK.
 
 ### <a name="summary"></a>Sammanfattning
 
-Från och med september 22 2020 kan partners börja ladda ned versionen av .NET standard SDK Microsoft Partner Center .NET SDK v-1.16.2, tillsammans med uppdaterade offentliga **partner Center SDK GitHub-exempel**.
+Från och med september 22 2020 kan partner börja ladda ned versionen av .NET Standard SDK Microsoft Partner Center .NET SDK v1.16.2, tillsammans med uppdaterade **offentliga Partnercenter-SDK GitHub exempel**.
 
 ### <a name="details"></a>Information
 
-Information [Microsoft Partner Center .NET SDK](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.2) v 1.16.2 är nu allmänt tillgänglig. Uppdaterade [GitHub-exempel](https://github.com/Microsoft/Partner-Center-DotNet-Samples) finns också tillgängliga. Följande ändringar ingår i den här versionen:
+Information [om Microsoft Partner Center .NET SDK](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.2) v1.16.2 är nu allmänt tillgänglig. Uppdaterade [GitHub exempel](https://github.com/Microsoft/Partner-Center-DotNet-Samples) är också tillgängliga. Följande ändringar ingår i den här versionen:
 
-- Uppdatera åtgärds typer som stöds för gransknings post. De nyligen tillagda visas i [gransknings resurser](/partner-center/develop/auditing-resources)
+- Uppdatera åtgärdstyper som stöds för Granskningspost. De nyligen tillagda visas i [Granskningsresurser](/partner-center/develop/auditing-resources)
   - CreateSelfServePolicy
   - UpdateSelfServePolicy
   - DeleteSelfServePolicy
@@ -323,96 +323,96 @@ Information [Microsoft Partner Center .NET SDK](https://www.nuget.org/packages/M
   - CreateRelatedReferral
   - UpdateRelatedReferral
 
-- Genereringen av tjänstbegäran är nu föråldrad
-- Support ämnen är nu föråldrade
+- Skapandet av tjänstbegäran är nu inaktuellt
+- Supportämnen är nu inaktuella
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Ladda ned den senaste versionen av [.NET SDK v-1.16.2](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.2)
-- Version: .NET SDK v-1.16.2
-- Exempel kod: [exempel kod](https://github.com/microsoft/Partner-Center-DotNet-Samples)
-- GA: 9/22/2020
+- Ladda ned den senaste versionen av [.NET SDK v1.16.2](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.2)
+- Version: .NET SDK v1.16.2
+- Exempelkod: [Exempelkod](https://github.com/microsoft/Partner-Center-DotNet-Samples)
+- GA: 2020-09-22
 
 ________________
 
 
-## <a name="announcing-the-general-availability-of-azure-sql-edge"></a><a name="9"></a>Vi presenterar den allmänna tillgängligheten för Azure SQL Edge
+## <a name="announcing-the-general-availability-of-azure-sql-edge"></a><a name="9"></a>Meddelande om allmän tillgänglighet för Azure SQL Edge
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-09-22
 - Erbjudanden/marknader
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Microsoft-fält och-partner 
+Microsoft-fält och partner 
 
 ### <a name="summary"></a>Sammanfattning 
 
-Azure SQL Edge, som ger säkraste säkra Microsoft SQL Data Engine till Sakernas Internet-gatewayer och gräns enheter, är nu tillgänglig.
+Azure SQL Edge, som ger den säkraste Microsoft SQL-datamotorn till Sakernas Internet-gatewayer (IoT) och gränsenheter, är nu tillgänglig.
 
 ### <a name="details"></a>Information
 
-Idag presenterar vi tillgängligheten för Azure SQL Edge, en data motor i real tid som är optimerad för IoT-arbetsbelastningar. Den här lösningen har byggts på samma motor som potenserna SQL Server och Azure SQL, och den här lösningen för behållare ger samma branschledande säkerhet, välbekanta utvecklings upplevelser och verktyg som redan känner till och har förtroende för många team.
-Azure SQL Edge kommer att vara tillgängligt för moln lösnings leverantörer (CSP: er) att köpa på **torsdag den 24 september**.
+Idag presenterar vi tillgängligheten för Azure SQL Edge, en datamotor i realtid som är optimerad för IoT-arbetsbelastningar. Den här containerlösningen bygger på samma motor som SQL Server och Azure SQL och ger samma branschledande säkerhet, välbekanta utvecklarupplevelse och verktyg som många team redan känner till och litar på.
+Azure SQL Edge kommer att vara tillgängligt för molnlösningsleverantörer (CPS) att köpa på **torsdag 24 september.**
 
-[Azure SQL Edge](https://aka.ms/sqledge) är en behållare för små behållare som möjliggör data strömning, lagring och analys för insikter i real tid. Distribuera på Edge-servrar, gatewayar och enheter i anslutna, frånkopplade eller hybrid miljöer.
+[Azure SQL Edge](https://aka.ms/sqledge) är en container med ett litet fotavtryck som möjliggör dataströmning, lagring och analys för realtidsinsikter. Distribuera på gränsservrar, gatewayer och enheter i anslutna, frånkopplade eller hybridmiljöer.
 
-Azure SQL Edge har förenklade priser som är rätt storlek för IoT-distributioner, tillgängliga så lågt som $60 per år per enhet för ett 3-års åtagande eller vid $10 per månad, per enhets prenumeration.
+Azure SQL Edge har ett förenklat pris som har rätt storlek för IoT-distributioner och som är tillgängligt så lite som 60 USD per år per enhet för ett åtagande på 3 år eller 10 USD per månad och per enhetsprenumeration.
 
-### <a name="next-stepsadditional-resources"></a>Nästa steg/ytterligare resurser:
+### <a name="next-stepsadditional-resources"></a>Nästa steg/Ytterligare resurser:
 
-- Visa [meddelande bloggen från antändning 2020](https://aka.ms/sqledge-ga)
-- Kom igång idag, eller Visa fakta blad, fallstudier med mera på [SQL Edge-webbplatsen](https://aka.ms/sqledge)
+- Visa [meddelandebloggen från Ignite 2020](https://aka.ms/sqledge-ga)
+- Kom igång idag, eller visa whitepapers, fallstudier och mer på [SQL Edge](https://aka.ms/sqledge)
 
 ________________
 
-## <a name="upcoming-changes-to-csp-o365-usage-apis-and-csp-license-usage-reports-on-september-30-2020"></a><a name="8"></a>Kommande ändringar av CSP: s användnings-API: er och licens användnings rapporter för CSP den 30 2020 september
+## <a name="upcoming-changes-to-csp-o365-usage-apis-and-csp-license-usage-reports-on-september-30-2020"></a><a name="8"></a>Kommande ändringar i användnings-API:er för CSP O365 och CSP-licensanvändningsrapporter den 30 september 2020
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-09-17
 - Funktioner
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Alla partners som går via Cloud Solution Provider (CSP)-programmet på Partner Center. 
+Alla partner som gör en Molnlösningsleverantör via CSP-programmet (CSP) i Partnercenter. 
 
 ### <a name="summary"></a>Sammanfattning 
 
-Uppdateringar görs till API: erna för CSP-användning för CSP för att hjälpa partners att mäta sin O365-användning.
+Uppdateringar kommer att göras av CSP O365-användnings-API:er för att hjälpa partner att mäta sin O365-användning.
 
 ### <a name="details"></a>Information
 
-Från och med september 30 2020 kommer CSP: er för användnings statistik för CSP att gå igenom en uppdatering. Vi kommer att introducera nya mått, till exempel PAU (betalda tillgängliga enheter) och MAU (månatliga aktiva användare), som hjälper dig att mäta din O365-användning. 
+Från och med den 30 september 2020 går CSP O365-användningsstatistiken igenom en uppdatering. Vi kommer att introducera nya mått, till exempel PAU (paid available units) och MAU (månatliga aktiva användare), som hjälper dig att mäta din O365-användning. 
 
-Med den här ändringen kommer följande API: er för CSP-licens användning att uppdateras:  
+Med den här ändringen kommer följande API:er för CSP-licensanvändning att uppdateras:  
 
-1. [API för licens användnings information](/partner-center/develop/get-licenses-usage-information).
+1. [API för licensanvändningsinformation.](/partner-center/develop/get-licenses-usage-information)
 
-2. [API för kund licens användnings information](/partner-center/develop/get-customer-licenses-usage-information).
+2. [API för användningsinformation om kundlicens.](/partner-center/develop/get-customer-licenses-usage-information)
 
-3.  [API för partner licens användnings information](/partner-center/develop/get-partner-licenses-usage-information).
+3.  [API för partnerlicensanvändningsinformation.](/partner-center/develop/get-partner-licenses-usage-information)
 
-Vi kommer också att lansera en ny API som tillhandahåller MAU (månatliga aktiva användare) per arbets belastning för varje kund som du hanterar.
+Vi kommer också att introducera ett nytt API som tillhandahåller MAU (Månatliga aktiva användare) per arbetsbelastning för var och en av de kunder som du hanterar.
 
-Mer information om de här uppdateringarna hittar du [här](https://partner.microsoft.com/resources/detail/guide-changes-to-csp-o365-usage-apis-and-csp-license-usage-reports-pdf).
+Mer information om dessa uppdateringar finns [här.](https://partner.microsoft.com/resources/detail/guide-changes-to-csp-o365-usage-apis-and-csp-license-usage-reports-pdf)
 
-Dessutom kommer vi att uppdatera avsnittet kund användnings analys i rapporten om [användnings analys av CSP-licens](https://partner.microsoft.com/dashboard/analytics/usageanalytics). Från och med den 30 2020 september kommer rapporten att utökas så att den återspeglar de månatliga aktiva användningarna för Exchange, SharePoint och Skype/Teams.
+Dessutom kommer vi att uppdatera avsnittet Uppdelning av kundanvändning i [CSP License Usage Analytics-rapporten.](https://partner.microsoft.com/dashboard/analytics/usageanalytics) Från och med 30 september 2020 kommer rapporten att förbättras för att återspegla månatliga aktiva användningar för Exchange, SharePoint och Skype/Teams.
 
-### <a name="next-stepsadditional-resources"></a>Nästa steg/ytterligare resurser:
+### <a name="next-stepsadditional-resources"></a>Nästa steg/Ytterligare resurser:
 
-Dela den här informationen med andra i din organisation. Mer information hittar du i [Åtgärds galleriet](https://partner.microsoft.com/resources/collection/upcoming-changes-to-csp-o365-usage-apis-and-csp-license-usage-reports#/) .
+Dela den här informationen med andra i din organisation. Mer information [finns i](https://partner.microsoft.com/resources/collection/upcoming-changes-to-csp-o365-usage-apis-and-csp-license-usage-reports#/) driftgalleriet.
 ________________
 
-## <a name="indirect-reseller-microsoft-partner-agreement-mpa-update-action-required-for-users-of-the-mpa-api-and-new-mpa-reporting"></a><a name="7"></a>Uppdatering av indirekt åter försäljaren Microsoft partner Agreement (MPA). Åtgärd krävs för användare av MPA API och ny MPA-rapportering
+## <a name="indirect-reseller-microsoft-partner-agreement-mpa-update-action-required-for-users-of-the-mpa-api-and-new-mpa-reporting"></a><a name="7"></a>Uppdatering av indirekt Microsoft-partneravtal (MPA). Åtgärd som krävs för användare av MPA API och ny MPA-rapportering
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-09-16
 - Funktioner
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
 Indirekta leverantörer
 
@@ -420,158 +420,158 @@ Indirekta leverantörer
 
 #### <a name="mpa-implementation-update"></a>Uppdatering av MPA-implementering
 
-Den andra fasen av implementeringen av Microsoft partner Agreement (MPA) för indirekta åter försäljare kommer att ske under de kommande månaderna. Om indirekta åter försäljare inte accepterar MPA, kan deras möjlighet att fortsätta att skapa nya kunder eller placera nya beställningar (inklusive förnyelser) för befintliga kunder i Cloud Solution Provider-programmet avbryts.
+Den andra Microsoft-partneravtal implementeringen (MPA) för indirekta återförsäljare sker under de kommande månaderna. Om indirekta återförsäljare inte godkänner MPA kommer deras möjlighet att fortsätta att skapa nya kunder eller göra nya beställningar (inklusive förnyelser) för befintliga kunder i Molnlösningsleverantör-programmet avbrytas.
 
-Action
+Åtgärder:
 
-- Använd den uppdaterade API-och partner Center-rapportering som refereras till nedan för att få en förståelse för status för produkt aktiverings godkännande för dina indirekta åter försäljare.
-- Engagera dig med dina indirekta åter försäljare som inte har accepterat MPA och ger dem [stegvisa anvisningar](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp#/) som baseras på det stadium som de finns i i program registrerings upplevelsen för Cloud Solution Provider.
-- Granska [de meddelanden](https://partner.microsoft.com/resources/collection/reseller-emails-mpa-implementation#/) som dina indirekta åter försäljare kommer att få varje månad, med början senare i september.
+- Använd den uppdaterade API- och Partner Center-rapporteringen som anges nedan för att få en förståelse för MPA-godkännandestatusen för dina indirekta återförsäljare.
+- Interagera med dina indirekta återförsäljare som inte har accepterat [](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp#/) MPA och ge dem stegvis vägledning baserat på i vilken fas de befinner sig i Molnlösningsleverantör för registrering av program.
+- Granska [meddelandena](https://partner.microsoft.com/resources/collection/reseller-emails-mpa-implementation#/) som dina indirekta återförsäljare får varje månad, från och med senare i september.
 
 #### <a name="updated-api"></a>Uppdaterat API
 
-Ändringar i det befintliga API: et som gör det möjligt för indirekta leverantörer att kontrol lera status för produkt aktiverings godkännande för deras indirekta åter försäljare planeras vara tillgängliga i november. Partner kan använda för att få åtkomst till den uppdaterade API: n före november genom att följa instruktionerna nedan. Partner som använder detta API bör arbeta tillsammans med sina IT-team för att testa och implementera uppdateringarna. 
+Ändringar i det befintliga API:et som gör det möjligt för indirekta leverantörer att verifiera MPA-godkännandestatusen för sina indirekta återförsäljare kommer att bli tillgängliga i november. Partner kan ansöka om åtkomst till det uppdaterade API:et före november genom att följa åtgärderna nedan. Partner som använder det här API:et bör samarbeta med IT-teamet för att testa och implementera uppdateringarna. 
 
-- **Om du är en befintlig MPA-API-användare och inte gör API-uppdateringar kommer API-felen att uppstå den 1 november 2020.** 
-- Om MPA inte har godkänts av den indirekta återförsäljaren i det uppdaterade API:et får den indirekta leverantören en felkod och ett felmeddelande. Se [API-dokumentationen](/partner-center/develop/verify-indirect-reseller-mpa-status#csp-indirect-reseller-mpn-id-is-either-invalid-or-not-migrated-from-partner-membership-center-to-partner-center) för att se länkarna "Lär dig mer" för varje felkod, som innehåller guider för reparation som kan delas med dina indirekta åter försäljare. 
+- **Om du är en befintlig MPA API-användare och inte gör API-uppdateringarna uppstår API-fel den 1 november 2020.** 
+- Om MPA inte har godkänts av den indirekta återförsäljaren i det uppdaterade API:et får den indirekta leverantören en felkod och ett felmeddelande. Läs [API-dokumentationen](/partner-center/develop/verify-indirect-reseller-mpa-status#csp-indirect-reseller-mpn-id-is-either-invalid-or-not-migrated-from-partner-membership-center-to-partner-center) för att visa länkarna "Läs mer" för varje felkod, som innehåller guider för reparation som kan delas med dina indirekta återförsäljare. 
 
-Action
-- För åtkomst till den uppdaterade API: n den 1 november 2020, fyller du i [det här formuläret](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR__XoYTV7iZJhSXvcfTPzq1UOTVRM1M4WlRGVzdDS1RRWElTUjVNRFBaWS4u) genom att tillhandahålla alla klient-ID: n (test eller produktion). Åtkomst kommer att tillhandahållas inom 48 timmar.
-- Arbeta med IT-teamet för att implementera det uppdaterade API: et och spåra statusen för indirekt åter försäljares godkännande av MPA. Mer information om API-uppdateringar finns i API- [dokumentationen](/partner-center/develop/verify-indirect-reseller-mpa-status#csp-indirect-reseller-mpn-id-is-either-invalid-or-not-migrated-from-partner-membership-center-to-partner-center).
-- Delta i den kommande webb seminarium-serien för en genom gång av rapporterings uppdateringar för API och partner Center. Koppla nedan: 
+Åtgärder:
+- Om du vill ha åtkomst till det uppdaterade API:et före den 1 november 2020 fyller du i det här formuläret genom att ange klient-ID:n (test eller produktion). [](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR__XoYTV7iZJhSXvcfTPzq1UOTVRM1M4WlRGVzdDS1RRWElTUjVNRFBaWS4u) Åtkomst kommer att tillhandahållas inom 48 timmar.
+- Arbeta med it-teamet för att implementera det uppdaterade API:et och spåra statusen för indirekt återförsäljares MPA-godkännande. Mer information om API-uppdateringarna finns i [API-dokumentationen](/partner-center/develop/verify-indirect-reseller-mpa-status#csp-indirect-reseller-mpn-id-is-either-invalid-or-not-migrated-from-partner-membership-center-to-partner-center).
+- Delta i den kommande webbseminarserien för en genomgång av rapporteringsuppdateringarna för API:et och Partnercenter. Anslut nedan: 
 
-- [15 september kl. 8:30 AM Stilla havs tid](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjM5NjUwYzEtYzU5Yy00YWI5LWJkNTctY2FlZTM3YjdiMDEy%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
-- [16 september 7:30, Stilla havs tid](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjhlN2Y3OTQtMTI3NC00NGYzLTk5MGEtM2YxZmFiOGUyZWYy%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
-- [Den 22 september kl. 8:30 AM Stilla havs tid](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODcyODcxYTAtM2M2Mi00NGFkLWIyMDUtNWYwZDc4YjkyOTkz%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
-- [23 september till 7:30 Stilla havs tid](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzJmOWJkNTgtNWZlMy00OGE3LTg1NTQtOTQ0YjE4OTlkMmJm%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
-- [29 september kl. 8:30 AM Stilla havs tid](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTdiMGNhMmMtYjkwZi00MTE0LWE3MDYtOWFlNDhiNjkwNDc1%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
-- [30 september kl. 7:30, Stilla havs tid](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGRiNTFhNWMtNDU5My00NGY4LTlhZDctZTA2MDE5MjE2ZTQ0%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [15 september kl. 8:30 Pacific Time](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjM5NjUwYzEtYzU5Yy00YWI5LWJkNTctY2FlZTM3YjdiMDEy%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [16 september kl. 19:30 Pacific Time](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjhlN2Y3OTQtMTI3NC00NGYzLTk5MGEtM2YxZmFiOGUyZWYy%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [22 september kl. 8:30 Pacific Time](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODcyODcxYTAtM2M2Mi00NGFkLWIyMDUtNWYwZDc4YjkyOTkz%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [23 september kl. 19:30 Pacific Time](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzJmOWJkNTgtNWZlMy00OGE3LTg1NTQtOTQ0YjE4OTlkMmJm%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [29 september kl. 8:30 Pacific Time](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTdiMGNhMmMtYjkwZi00MTE0LWE3MDYtOWFlNDhiNjkwNDc1%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [30 september kl. 19:30 Pacific Time](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGRiNTFhNWMtNDU5My00NGY4LTlhZDctZTA2MDE5MjE2ZTQ0%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
 
-#### <a name="mpa-reporting-in-partner-center"></a>MPA-rapportering i Partner Center
+#### <a name="mpa-reporting-in-partner-center"></a>MPA-rapportering i Partnercenter
 
-1. Öppna rapporten MPA om du vill visa information om dina indirekta åter försäljare med ett konto i Partner Center och deras status för produkt aktiverings godkännande. Om du vill visa rapporten loggar du in på Partner Center och navigerar till **analysera/åter försäljnings analys** på den vänstra menyn.
+1. Öppna MPA-rapporten för att visa information om dina indirekta återförsäljare med ett konto i Partnercenter och deras MPA-godkännandestatus. Om du vill visa rapporten loggar du in på Partnercenter och går till **Analysera/Reseller Analytics** på den vänstra menyn.
 
-2. Ladda ned rapporten genom att klicka på ikonen Hämta på höger sida.
-3. Öppna en tom Excel-fil och dra den hämtade. tsv-filen till Excel-filen.
+2. Ladda ned rapporten genom att klicka på nedladdningsikonen till höger.
+3. Öppna en tom Excel fil och dra den nedladdade .tsv-filen till den Excel filen.
 
-OBS! om den indirekta åter försäljaren har minst en klient som har accepterat MPA inom samma region krävs ingen ytterligare åtgärd. 
+Obs! Om din indirekta återförsäljare har minst en klientorganisation som har godkänt MPA inom samma region krävs ingen ytterligare åtgärd av dem. 
 
 ________________
 
-## <a name="self-service-purchasing-for-microsoft-project-and-microsoft-visio-now-available"></a><a name="6"></a>Självbetjänings inköp för Microsoft Project och Microsoft Visio är nu tillgängligt
+## <a name="self-service-purchasing-for-microsoft-project-and-microsoft-visio-now-available"></a><a name="6"></a>Köp via självbetjäning för Microsoft Project och Microsoft Visio nu tillgängligt
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-09-15
 - Erbjudanden/marknader
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Partner som säljer onlinetjänster till kommersiella kunder
+Partner som onlinetjänster till kommersiella kunder
 
 ### <a name="details"></a>Information
 
-Förra året [meddelar vi dig](https://partner.microsoft.com/resources/detail/power-apps-power-automate-self-service-pdf) att Microsoft gör det möjligt för personer och team att köpa utvalda tjänster direkt. Nu kan användare i hela världen köpa prenumerationer för följande Microsoft Project-produkter och Microsoft Visio-produkter via självbetjäning: 
+Förra året såg [vi att](https://partner.microsoft.com/resources/detail/power-apps-power-automate-self-service-pdf) Microsoft gör det möjligt för enskilda användare och team att köpa utvalda tjänster direkt. Nu kan enskilda användare över hela världen köpa prenumerationer för Microsoft Project och Microsoft Visio produkter via självbetjäning: 
 
-- [Visio-plan 1](https://products.office.com/visio/visio-plan-1?activetab=pivot:overviewtab) och [Visio-plan 2](https://www.microsoft.com/microsoft-365/visio/visio-plan-2?rtc=2&SilentAuth=1&activetab=pivot:overviewtab)
-- [Projekt plan 1](https://www.microsoft.com/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot:overviewtab) och [projekt plan 3](https://www.microsoft.com/microsoft-365/project/project-plan-3?rtc=1&activetab=pivot:overviewtab)
+- [Visio Abonnemang 1](https://products.office.com/visio/visio-plan-1?activetab=pivot:overviewtab) och [Visio Abonnemang 2](https://www.microsoft.com/microsoft-365/visio/visio-plan-2?rtc=2&SilentAuth=1&activetab=pivot:overviewtab)
+- [Project Abonnemang 1](https://www.microsoft.com/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot:overviewtab) och [Project Abonnemang 3](https://www.microsoft.com/microsoft-365/project/project-plan-3?rtc=1&activetab=pivot:overviewtab)
 
-Obs! självbetjänings köp funktioner är för närvarande inte tillgängliga i Indien, Brasilien, demokratiska republiken Kongo (Dr) eller till kunder som är berättigade till myndigheter eller utbildnings erbjudanden.  Se [vanliga frågor och svar om självbetjänings köp](/microsoft-365/commerce/subscriptions/self-service-purchase-faq?preserve-view=true&view=o365-worldwide) för fullständiga länders tillgänglighet och uppdateringar.
+Obs! Köpfunktioner för självbetjäning är för närvarande inte tillgängliga i Indien, Brasilien, Republiken( DRC) eller för kunder som är berättigade till government- eller education-erbjudanden.  Se vanliga [frågor och svar om självbetjäning för](/microsoft-365/commerce/subscriptions/self-service-purchase-faq?preserve-view=true&view=o365-worldwide) fullständig tillgänglighet och uppdateringar för landet.
 
-#### <a name="partner-benefits"></a>Partner förmåner
+#### <a name="partner-benefits"></a>Partnerförmåner
 
-Du kan erbjuda dina tjänster till personer och team utan att behöva gå igenom en centraliserad IT-upphandling för att få nödvändiga licenser. Dina tjänster kan omfatta projekt och Visio, baserat på integrerings scenarier med Microsoft 365 och Power Platform. Kunder kan också prova innan de köper med Visio-och projekt-utvärderingar som nu är tillgängliga för [Visio-plan 1 och Visio-plan 2](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/)och [projekt plan 1](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software).
+Du kommer att kunna erbjuda dina tjänster till enskilda användare och team utan att behöva gå igenom en centraliserad IT-anskaffningsprocess för att få nödvändiga licenser. Dina tjänster kan omfatta Project och Visio, baserat på integreringsscenarier med Microsoft 365 och Power Platform. Kunder kan också prova innan de köper med Visio och Project utvärderingsversioner, som nu [är tillgängliga för Visio Abonnemang 1 och Visio Abonnemang 2](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/)och [Project Abonnemang 1](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software).
 
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Granska alla beredskaps resurser i galleriet för drift beredskap resurser: [Customer-serve Purchase-kapacitet](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/). – Lär dig mer om partner möjligheter med Visio-och Power Platform-lösningar i Microsoft inspirera-sessionen [återskapa och bli medveten om affärer med Microsoft Visio och Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform).
-- Mer information hittar du i [Administratörs hand boken för självbetjäning](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins?preserve-view=true&view=o365-worldwide) .
+- Granska alla beredskapsresurser i resursgalleriet för driftberedskap: Kundens [självbetjäningskapacitet](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/). -Läs mer om partnermöjligheter med Visio och Power Platform-lösningar i Microsoft Inspire-sessionen Rebuild [and reimagine business with Microsoft Visio and Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform).
+- Mer information [finns i administratörshandboken för](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins?preserve-view=true&view=o365-worldwide) självbetjäning.
 
 ________________
 
-## <a name="new-skus-bring-the-power-of-project-cortex-and-more-to-customers"></a><a name="5"></a>Nya SKU: er ger kraften i Project cortex och mer till kunder
+## <a name="new-skus-bring-the-power-of-project-cortex-and-more-to-customers"></a><a name="5"></a>Nya SKU:er ger kunderna Project Cortex och mer
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-09-08
 - Erbjudanden/marknader
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Alla partner som går via program varan för Cloud Solution Provider (CSP)
+Alla partner som gör en Molnlösningsleverantör via CSP-programmet
 
 ### <a name="summary"></a>Sammanfattning
 
-Nya SKU: er som hjälper kunderna att utnyttja kraften hos [Project cortex](https://resources.techcommunity.microsoft.com/project-cortex-microsoft-365/) och [Project Turing](https://msturing.org/) kommer att vara tillgängliga för Transact från den 1 oktober 2020.
+Nya SKU:er som hjälper kunder att [utnyttja kraften i Project Cortex](https://resources.techcommunity.microsoft.com/project-cortex-microsoft-365/) och Project [Turing](https://msturing.org/) kommer att vara tillgängliga för transact från den 1 oktober 2020.
 
 ### <a name="details"></a>Information
 
-Vi är glada över att kunna presentera den 1 oktober 2020-tillgänglighet för nya SKU: er, inklusive [Project cortex](https://resources.techcommunity.microsoft.com/project-cortex-microsoft-365/) (intelligent Content Services) och Microsoft Search (inklusive Microsoft Graph anslutningar för sökning) som gör det möjligt för användarna att hitta och hantera information mer effektivt.  
+Vi är glada över att kunna meddela att nya SKU:er är tillgängliga för den 1 oktober 2020, inklusive [Project Cortex](https://resources.techcommunity.microsoft.com/project-cortex-microsoft-365/) (Intelligent Content Services) och Microsoft Search (inklusive Microsoft Graph Connectors for Search) som gör det möjligt för användare att hitta och hantera information mer effektivt.  
 
 #### <a name="intelligent-content-services"></a>Intelligent Content Services
   
-Intelligent Content Services använder avancerad AI för att automatisera avbildningen, taggning och hantering av innehåll. Det bygger på SharePoint för innehålls bearbetning av stora volymer, extrahering av metadata för process automatisering och detaljerad säkerhet och efterlevnad. Intelligent Content Services förbättrar kunskaps-och identifierings upplevelser genom att skicka mer exakt och exakt innehåll till kunskaps nätverket. Nya SKU: er för innehålls tjänster kommer att finnas tillgängliga i **pris listan från 1 oktober** (och för för hands versionen av pris listan från den 1 september). 
+Intelligent Content Services använder avancerad AI för att automatisera insamling, taggning och hantering av innehåll. Den bygger SharePoint för innehållsbearbetning med stora volymer, extrahering av metadata för processautomatisering och mer information om säkerhet och efterlevnad. Intelligenta innehållstjänster förbättrar kunskaps curation och identifieringsupplevelser genom att push-sprida mer exakt innehåll till ditt kunskapsnätverk. Nya SKU:er för Intelligent Content Services blir tillgängliga i **prislistan från den 1** oktober (och i förhandsversionen av prislistan den 1 september). 
  
-**Obs:** Intelligent Content Services är ett namn på en plats hållare för den här produkten, vilket troligen kommer att ändras efter den 1 oktober 2020.
+**Obs!** Intelligent Content Services är ett platshållarnamn för den här produkten, som troligen kommer att ommarkeras efter den 1 oktober 2020.
  
-**Microsoft Graph kopplingar för Microsoft Search** Microsoft Graph-anslutningar gör det möjligt för kunder att indexera objekt i externa lagrings platser för att inkluderas i Microsofts Sök resultat. 
+**Microsoft Graph-anslutningsappar för Microsoft Search** Microsoft Graph-anslutningsappar gör det möjligt för kunder att indexera objekt i externa databaser för inkludering i Microsoft Search resultat. 
 
 Från den 1 oktober 2020: 
 
-- Microsoft 365 E5 och Office 365 E5 kommer att inkludera möjligheten att indexera upp till 500-objekt med hjälp av Microsoft Graph-kopplingar för Microsoft Search (ingår inte i A5).  
-- Alla användare med en Suite-eller fristående licens som innehåller en SharePoint-eller OneDrive-plan kommer att kunna se Sök Resultat från Microsoft Graph kopplingar för Microsoft Search. 
-- En ny **extra diagram kopplings kapacitets-SKU** är tillgänglig för indexering upp till 1 000 000 ytterligare objekt.  
+- Microsoft 365 E5 och Office 365 E5 innehåller möjligheten att indexera upp till 500 objekt med Microsoft Graph-anslutningsappar för Microsoft Search (ingår inte i A5).  
+- Alla användare med en svit eller fristående licens som innehåller en SharePoint- eller OneDrive-plan kommer att kunna se sökresultat från Microsoft Graph-anslutningsappar för Microsoft Search. 
+- En ny **SKU för Graph Connector-kapacitet** blir tillgänglig för indexering av upp till 1 miljon ytterligare objekt.  
 
-#### <a name="offer-details"></a>Erbjudande information
+#### <a name="offer-details"></a>Erbjudandeinformation
 
    |**Erbjudandets namn**|**Erbjudande-ID**|**Material-ID**|
    |-------------------|:------|:------|
    |Intelligent Content Services|2e969027-6eca-44a3-88fb-e7923e2c147f|5YI-00004|
-   |Intelligent Content Services (pris för ideell personal)|48db24e2-0aac-47bd-bd74-40bde9ff7748|5YI-00005|
-   |Intelligenta innehålls tjänster för lärare|4a8f9036-791e-4ce4-a788-6c5af859fd82|5Z1-00005|
-   |Extra diagram kopplings kapacitet|9c8b008f-d84f-46cd-a588-fea84947161d|1LA-00002|
-   |Extra diagram kopplings kapacitet för lärare|0e0eb210-86e7-4038-9905-4fd5bf71c4bd|1TL-00003|
+   |Intelligent Content Services (prissättning för ideell personal)|48db24e2-0aac-47bd-bd74-40bde9ff7748|5YI-00005|
+   |Intelligent Content Services för lärare och lärare|4a8f9036-791e-4ce4-a788-6c5af859fd82|5Z1-00005|
+   |Extra Graph Connector-kapacitet|9c8b008f-d84f-46cd-a588-fea84947161d|1LA-00002|
+   |Extra Graph Connector-kapacitet för lärare och lärare|0e0eb210-86e7-4038-9905-4fd5bf71c4bd|1TL-00003|
 
 ### <a name="next-steps"></a>Nästa steg
 
 - Granska resurserna för det här avsnittet och dela dem med lämpliga intressenter i din organisation.
-- Om du har frågor om dessa erbjudanden kan du kontrol lera dina relevanta Yammer-communities.
+- Om du har frågor om dessa erbjudanden kan du kontrollera dina Yammer communityn.
 
 ________________
 
-## <a name="enhanced-incentives-support-experience-and-ticket-creation-process"></a><a name="4"></a>Förbättrade stimulans support och process för att skapa biljett
+## <a name="enhanced-incentives-support-experience-and-ticket-creation-process"></a><a name="4"></a>Förbättrad stödupplevelse för incitament och process för att skapa biljetter
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-09-02
 - Funktioner
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
 Alla partner
 
 ### <a name="summary"></a>Sammanfattning
 
-Support upplevelsen för partner incitament har förbättrats med förbättrat innehåll för identifiering av självhjälp och en strömlinjeformad process för att skicka online biljetter.
+Supportupplevelsen för Partner Incentives har förbättrats med förbättrad identifiering av självhjälpsinnehåll och en smidig process för att skicka biljetter online.
 
 ### <a name="details"></a>Information
 
-Förbättringar har lagts till för partner incitament för att förbättra den övergripande support upplevelsen genom bättre identifiering av självhjälps innehåll och en strömlinjeformad biljett sändnings process som minskar den insamlade data insamlingen under support processen.
+Förbättringar har lagts till för Partner Incentives för att förbättra din övergripande supportupplevelse genom bättre identifiering av självhjälpsinnehåll och en effektiviserad process för att skicka biljetter som minskar fram- och tillbaka-datainsamling under supportprocessen.
 
 #### <a name="new-capabilities"></a>Nya funktioner
 
-- Ny sökbaserad självhjälps upplevelse är tillgänglig i [partner Center](https://aka.ms/IncentivesSupport) och på [Microsoft Partner Network](https://partner.microsoft.com/support/?stage=1) för konton som inte är partner Center. Den nya upplevelsen innehåller nya fel söknings steg, vanliga frågor och länkar till relevanta själv hjälp artiklar samt på sidan Microsoft Partner Network support.
-- Påbörja en ny supportbegäran direkt i Partner Center. Om du fortfarande behöver hjälp när du har visat den tillgängliga hjälp artikeln kan du bara skapa en biljett direkt från Partner Center.
-- Nya frågor om problem är tillgängliga för varje självhjälps avsnitt. Genom att slutföra dessa frågor minskar du mycket av det som finns i början av support ärendet genom att tillhandahålla agenten med många av de viktiga detaljerna överst.
+- Den nya sökbaserade självhjälpsupplevelsen är tillgänglig i [Partnercenter](https://aka.ms/IncentivesSupport) och [på Microsoft Partner Network](https://partner.microsoft.com/support/?stage=1) för icke-PartnerCenter-konton. Den nya upplevelsen innehåller nya felsökningssteg, vanliga frågor och svar och länkar till relevanta självhjälpsartiklar samt på sidan Microsoft Partner Network support.
+- Initiera en ny supportbegäran direkt i Partnercenter. När du har tittat på den tillgängliga ämnesspecifika hjälpen kan du bara skapa ett ärende direkt från Partnercenter om du fortfarande behöver hjälp.
+- Nya problemomfångsfrågor är tillgängliga för varje självhjälpsämne. Genom att slutföra de här frågorna minskar du mycket av fram- och tillbaka-arbetet i början av supportbiljetten genom att ge agenten många viktiga uppgifter i början.
 
 
 ### <a name="next-steps"></a>Nästa steg
 
 - Dela den här informationen med andra i din organisation. 
-- Använd den nya support upplevelsen via [partner Center](https://aka.ms/IncentivesSupport) eller på [Microsoft Partner Network](https://partner.microsoft.com/support/?stage=1) för alla incitament support krav. 
+- Använd den nya supportupplevelsen via [Partnercenter eller](https://aka.ms/IncentivesSupport) [på Microsoft Partner Network](https://partner.microsoft.com/support/?stage=1) för alla dina incitamentsstödkrav. 
 
-**Obs:** Support förfrågningar kommer inte att accepteras via direkt e-post eftersom den här funktionen dras tillbaka.
+**Obs!** Supportbegäranden kommer inte att godkännas via direkt e-post eftersom den här funktionen har dragits tillbaka.
 
 ________________
 
@@ -582,46 +582,46 @@ ________________
 - Datum: 2020-09-01
 - Erbjudanden/marknader
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Partner som agerar Microsoft Dynamics 365
+Partner som gör en överträdelse av Microsoft Dynamics 365
 
 ### <a name="summary"></a>Sammanfattning
 
-Kommande erbjudanden för Microsoft Dynamics 365-kunder omfattar lanseringen av Microsoft Project-åtgärder och ytterligare miljöer för företags Central.
+Kommande erbjudanden för Microsoft Dynamics 365-kunder omfattar lanseringen av Microsoft Project Operations och ytterligare miljöer för Business Central.
 
 ### <a name="details"></a>Information
 
-Följande nya erbjudanden kommer att vara tillgängliga den 1 oktober 2020.
+Följande nya erbjudanden blir tillgängliga den 1 oktober 2020.
 
 #### <a name="project-operations"></a>Project Operations
 
-Den 1 oktober 2020 kommer Microsoft att lansera Dynamics 365 Project service-åtgärder och ta bort Dynamics 365 Project service Automation (PSA) för Cloud Solution Provider (CSP)-programmet. Nya kunder måste köpa verksamhet i Dynamics 365-projekt. 
+Den 1 oktober 2020 släpper Microsoft Erbjudanden för Dynamics 365 Project Operations och tar bort Dynamics 365 Project Service Automation (PSA) för Molnlösningsleverantör-programmet (CSP). Nya kunder måste köpa Dynamics 365 Project Operations. 
 
 För befintliga Dynamics 365-kunder med PSA:
 
-- Fortsätt att använda Dynamics 365 PSA fram till 1 oktober 2020, eller till slutet av det senaste kontraktet eller förnyelsen, beroende på vilket som inträffar först.
-- Dynamics 365 PSA förnyas automatiskt i ett år fram till 1 oktober 2021 i CSP, vilket gör det möjligt för avtal att fortsätta till 1 oktober 2022.
-- Dynamics 365 PSA-licenser tar automatiskt emot projekt åtgärder som en del av deras aktuella licenser den 31 december 2020.
-- I slutet av Dynamics 365 PSA-kontrakten måste kunder övergå till projekt åtgärder, som har en nolla användar korts över gångs-SKU.
+- Fortsätt att använda Dynamics 365 PSA till den 1 oktober 2020 eller till slutet av deras senaste kontrakt eller förnyelse, beroende på vilket som inträffar först.
+- Dynamics 365 PSA kommer automatiskt att vara nytt i ett år fram till den 1 oktober 2021 i CSP, vilket gör att kontrakt kan fortsätta till den 1 oktober 2022.
+- Dynamics 365 PSA-licenser får automatiskt Project Operations som en del av deras aktuella licenser senast den 31 december 2020.
+- I slutet av PSA-kontrakten för Dynamics 365 måste kunderna övergå till Project Operations, som har en psa-övergångs-SKU på noll användare.
 
-Gå till fliken projekt åtgärder i [Dynamics CSP Offers-October 2020 Excel-dokumentet](https://partner.microsoft.com/resources/detail/microsoft-dynamics-365-new-ids-offers-csp-october-2020-xls) för erbjudande-ID-information.
+Granska fliken Project Åtgärder i [dokumentet Dynamics CSP Offers-October 2020 Excel](https://partner.microsoft.com/resources/detail/microsoft-dynamics-365-new-ids-offers-csp-october-2020-xls) för information om erbjudandets ID.
 
 #### <a name="additional-resources"></a>Ytterligare resurser
 
-- [Över gångs resurser](https://partner.microsoft.com/asset/collection/psa-transition-resources#/) för PSA
-- [Introduktion till Microsoft Dynamics 365 Project service Automation-](https://cloudblogs.microsoft.com/dynamics365/bdm/2020/02/20/introducing-microsoft-dynamics-365-project-operations/) blogg
-- [Vad som kommer i Microsoft Dynamics 365-kurs för automatisering av projekt tjänster](https://assetsprod.microsoft.com/mpn/what-is-coming-in-d365-project-service-automation-dyn767pal.pdf)
+- [Övergångsresurser](https://partner.microsoft.com/asset/collection/psa-transition-resources#/) för PSA
+- [Introduktion till Microsoft Dynamics 365 Project Service Automation-bloggen](https://cloudblogs.microsoft.com/dynamics365/bdm/2020/02/20/introducing-microsoft-dynamics-365-project-operations/)
+- [Vad som kommer i Utbildningsmaterialet för Microsoft Dynamics 365 Project Service Automation](https://assetsprod.microsoft.com/mpn/what-is-coming-in-d365-project-service-automation-dyn767pal.pdf)
 
-#### <a name="expansion-of-business-central-offers-into-additional-countries"></a>Expansion av företags Central erbjudanden till ytterligare länder
+#### <a name="expansion-of-business-central-offers-into-additional-countries"></a>Expansion av Business Central-erbjudanden till ytterligare länder
 
-Den 1 oktober 2020 expanderar Microsoft Business Central Cloud-erbjudanden till Brasilien, Irland, Litauen, Färöarna och Grönland.
+Den 1 oktober 2020 expanderar Microsoft Business Central Cloud-erbjudanden till Brasilien, Irland, Island, Färöarna och Grönland.
 
-#### <a name="business-central-additional-environments"></a>Företags Central ytterligare miljöer
+#### <a name="business-central-additional-environments"></a>Ytterligare Business Central-miljöer
 
-Den 1 oktober 2020 är nya tilläggs erbjudanden för företags Central moln erbjudanden tillgängliga så att kunderna kan lägga till extra miljöer. 
+Den 1 oktober 2020 blir nya tilläggserbjudanden för Business Central Cloud tillgängliga så att kunderna kan lägga till extra miljöer. 
 
-Granska fliken **ytterligare miljöer** i [Dynamics CSP Offers-October 2020 Excel-dokumentet](https://partner.microsoft.com/resources/detail/microsoft-dynamics-365-new-ids-offers-csp-october-2020-xls) för erbjudande-ID-information.
+Se fliken Ytterligare miljöer i dokumentet [Dynamics CSP Offers-October 2020 Excel för](https://partner.microsoft.com/resources/detail/microsoft-dynamics-365-new-ids-offers-csp-october-2020-xls) information om **erbjudandets** ID.
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -629,49 +629,49 @@ Dela den här uppdateringen med relevanta kontakter i din organisation.
 
 ________________
 
-## <a name="office-365-calling-plan-will-be-available-in-new-markets-on-october-1-2020"></a><a name="2"></a>Office 365-prenumerationen kommer att vara tillgänglig på nya marknader den 1 oktober 2020
+## <a name="office-365-calling-plan-will-be-available-in-new-markets-on-october-1-2020"></a><a name="2"></a>Office 365 Anropsplanen blir tillgänglig på nya marknader den 1 oktober 2020
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-09-01
 - Erbjudanden/marknader
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Leverantörer av moln lösningar (CSP), inklusive direkta leverantörer, indirekta leverantörer och indirekta åter försäljare
+Molnlösningsleverantör partner ( CSP), inklusive direkta leverantörer, indirekta leverantörer och indirekta återförsäljare
 
 ### <a name="summary"></a>Sammanfattning
 
-Microsoft är glada över att kunna meddela att den uppringda planen kommer att vara tillgänglig på följande nya marknader den 1 oktober 2020: Österrike, Danmark, Italien, Portugal, Sverige och Schweiz. 
+Microsoft är glada över att kunna meddela att samtalsplanen kommer att vara tillgänglig på följande nya marknader den 1 oktober 2020: Schweiz, Tyskland, Italien, Portugal, Storbritannien och Schweiz. 
 
 ### <a name="details"></a>Information
 
-Microsoft 365 samtals plan kommer att vara tillgänglig på följande nya marknader den 1 oktober 2020: Österrike, Danmark, Italien, Portugal, Sverige och Schweiz. Den nya geo-tillgängligheten kommer att lanseras i kommersiell, globalt offentlig sektor, ideella och offentliga community-moln via Enterprise-avtal (EA) eller Enterprise-avtal prenumeration (EAS), registrering för utbildnings lösningar (EES), webb Direct och CSP. 
+Microsoft 365 Anropsplanen kommer att vara tillgänglig på följande nya marknader den 1 oktober 2020: Schweiz, Tyskland, Italien, Portugal, Schweiz och Schweiz. Den nya geo-tillgängligheten lanseras i kommersiell, global offentlig sektor, ideell verksamhet och Government Community Cloud via företagsavtal (EA) eller företagsavtal Subscription (EAS), Enrollment for Education Solutions (EA), Web Direct och CSP. 
 
-Alla samtals Plans funktioner är tillgängliga för Microsofts interna och internationella samtals planer, inklusive 120, 240 och 1 200 minuter per användare per månad (p/u/m) inrikes plan och den internationella planen med 1 200 inrikes minuter p/u/m och 600 International minuter p/u/m. 
+Alla samtalsplanfunktioner kommer att vara tillgängliga för Microsofts nationella och internationella samtalsplaner, inklusive de nationella planerna 120, 240 och 1 200 minuter per användare per månad (p/u/m) och den internationella planen med 1 200 nationella minuter p/u/m och 600 internationella minuter p/u/m. 
 
-Hitta ytterligare information om att anropa planer, för hög användning och kommunikations krediter i avsnittet om uppringnings plan i [vanliga frågor och svar om Worker-licensiering](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements).
+Mer information om anropsplaner, överdriven användning och kommunikationskrediter finns i avsnittet Samtalsplan i Vanliga frågor och svar [om modern arbetslicensiering.](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements)
 
-En samtals plan är för närvarande tillgänglig i Belgien, Kanada, Frankrike, Tyskland, Irland, Nederländerna, Puerto Rico (endast kanal tillgänglighet begränsad till EA och EES), Spanien, Storbritannien och USA (från tredje parts anrops plan tillgänglighet i Australien och Japan).
+Calling Plan är för närvarande tillgängligt i Schweiz, Kanada, Frankrike, Tyskland, Irland, Nederländerna, Puerto Holland (kanaltillgänglighet begränsad till endast EA och EA), Spanien, Storbritannien och USA (tredjepartssamtalsplanstillgänglighet i Australien och Japan).
 
-#### <a name="offer-details"></a>Erbjudande information
+#### <a name="offer-details"></a>Erbjudandeinformation
 
    |**Erbjudandets namn**|**Erbjudande-ID**|**Material-ID**|
    |-------------------|:------|:------|
-   |Microsoft 365 inhemsk samtals plan|52b01454-aa44-4e03-8049-c4d57496a430|4ID-00002|
-   |Microsoft 365 inhemsk samtals plan|0f598efe-f330-4d79-b79f-c9480bb7ce3e|AAA-13706|
-   |Microsoft 365 inhemsk samtals plan (myndighets priser)|96b96fd8-b77d-41a4-ae5d-0a6652f454b7|AAA-13707|
-   |Microsoft 365 inhemsk samtals plan för studenter|da2034e1-c147-4aae-afab-9c15acf16ea5|AAA-22335|
-   |Microsoft 365 inhemsk samtals plan för lärare|5e8853ed-611c-4f9c-af21-540ba351a636|AAA-22334|
-   |Microsoft 365 inhemsk samtals plan för GCC|7099743e-f474-48be-97bc-d4fb22f059bf|AAD-25690|
-   |Microsoft 365 inrikes och internationell samtals plan|ded34535-507f-4246-8370-f9180318c537|AAA-13708|
-   |Microsoft 365 inhemsk och internationell samtals plan (myndighets priser)|d97b23b4-627c-41db-8f55-ce342b0db656|AAA-13709|
-   |Microsoft 365 inhemsk och internationell samtals plan för studenter|64ed3fb4-9f46-4e8a-b287-7a3662245c37|AAA-22337|
-   |Microsoft 365 inrikes och internationell samtals plan för lärare|492b8a14-381c-4536-bf63-bd5785c14734|AAA-22336|
-   |Microsoft 365 inrikes och internationell samtals plan för GCC|0cf5df85-ecf5-43f5-93b0-04a950e906a3|AAD-25680|
-   |Microsoft 365 inhemsk samtals plan (120 min)|40d28d55-0006-4bb0-8f41-37ac05df5dc7|AAD-11639|
-   |Microsoft 365 inhemsk samtals plan (120 min) för studenter|353d7f89-2e6f-4deb-9145-80f281a782ab|AAD-11641|
-   |Microsoft 365 inhemsk samtals plan (120 min) för lärare|80fc6c74-cc94-478d-97b0-8455593a5987|AAD-11640|
+   |Microsoft 365 Nationella samtalsplan|52b01454-aa44-4e03-8049-c4d57496a430|4ID-00002|
+   |Microsoft 365 Nationella samtalsplan|0f598efe-f330-4d79-b79f-c9480bb7ce3e|AAA-13706|
+   |Microsoft 365 Nationella samtalsplan (prissättning för myndigheter)|96b96fd8-b77d-41a4-ae5d-0a6652f454b7|AAA-13707|
+   |Microsoft 365 Plan för nationella samtal för studenter|da2034e1-c147-4aae-afab-9c15acf16ea5|AAA-22335|
+   |Microsoft 365 Nationella samtalsplan för lärare och lärare|5e8853ed-611c-4f9c-af21-540ba351a636|AAA-22334|
+   |Microsoft 365 Nationella samtalsplan för GCC|7099743e-f474-48be-97bc-d4fb22f059bf|AAD-25690|
+   |Microsoft 365 Nationella och internationella samtalsplan|ded34535-507f-4246-8370-f9180318c537|AAA-13708|
+   |Microsoft 365 Nationella och internationella samtalsplan (prissättning för myndigheter)|d97b23b4-627c-41db-8f55-ce342b0db656|AAA-13709|
+   |Microsoft 365 Nationella och internationella samtalsplan för studenter|64ed3fb4-9f46-4e8a-b287-7a3662245c37|AAA-22337|
+   |Microsoft 365 Nationella och internationella samtalsplan för lärare och lärare|492b8a14-381c-4536-bf63-bd5785c14734|AAA-22336|
+   |Microsoft 365 Nationella och internationella samtalsplan för GCC|0cf5df85-ecf5-43f5-93b0-04a950e906a3|AAD-25680|
+   |Microsoft 365 Nationella samtalsplan (120 min)|40d28d55-0006-4bb0-8f41-37ac05df5dc7|AAD-11639|
+   |Microsoft 365 Nationella samtalsplan (120 min) för studenter|353d7f89-2e6f-4deb-9145-80f281a782ab|AAD-11641|
+   |Microsoft 365 Nationella samtalsplan (120 min) för lärare och lärare|80fc6c74-cc94-478d-97b0-8455593a5987|AAD-11640|
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -679,28 +679,28 @@ Granska resurserna om det här avsnittet och dela den här informationen med lä
 
 ________________
 
-## <a name="microsoft-defender-advanced-threat-protection-atp-for-servers-for-education-is-now-available"></a><a name="1"></a>Microsoft Defender Advanced Threat Protection (ATP) för servrar för utbildning är nu tillgängligt
+## <a name="microsoft-defender-advanced-threat-protection-atp-for-servers-for-education-is-now-available"></a><a name="1"></a>Microsoft Defender Avancerat skydd (ATP) for Servers for Education är nu tillgängligt
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-09-01
 - Erbjudanden/marknader
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
 Alla partner som deltar i CSP-programmet 
 
 ### <a name="details"></a>Information
 
-Microsoft Defender Avancerat skydd (ATP) för servrar för utbildning är nu tillgängligt, från och med den 1 september 2020 i programmet för Cloud Solution Provider (CSP).  
-Produkt erbjudande information:
+Microsoft Defender Avancerat skydd (ATP) for Servers for Education är nu tillgängligt från och med den 1 september 2020 i CSP-programmet (Molnlösningsleverantör).  
+Information om produkterbjudande:
 
-- Erbjudandets namn: Microsoft Defender ATP för servrar för utbildning
+- Erbjudandenamn: Microsoft Defender ATP for Servers for Education
 - Erbjudande-ID: c7b9ab7e-8f80-4b4b-8aed-dcad61f2899
 
 ### <a name="next-steps"></a>Nästa steg
 
 - Dela den här informationen med lämpliga kontakter i din organisation.
-- Läs [dokumentationen om Microsoft Defender ATP](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) för mer information om produkten.
+- Mer information om produkten finns i dokumentationen för [Microsoft Defender ATP.](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)
 
 ________________
