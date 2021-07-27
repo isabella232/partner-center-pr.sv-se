@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19b9378e3e2de0742ea6bc7d6fb96cf58bd5c3de
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: d7f37e6ea8873071d432d376a3e03f7830217690
+ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277716"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "114434174"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Hantera ditt Partnercenter-konto – företagsprofil, bankinformation, roller, behörigheter med mera
 
@@ -22,20 +22,20 @@ ms.locfileid: "112277716"
 
 Det konto som du skapar i Partnercenter när du registrerar är din e-postadress för arbetet plus din affärsinformation. När du har skapat ett konto slutför du inställningen av företagets fullständiga profil, inklusive supportinformation, skattebefrielse för filer vid behov och primär kontaktinformation. Ditt företags konto innehåller även användarkonton för alla i ditt team som ska använda Partnercenter. De kan bland annat lägga till eller hantera kunder, sälja prenumerationer, arbeta med fakturering, skapa affärsprofiler, hantera hänvisningar, arbeta med incitamentsprogram, tillhandahålla support och mycket mer.
 
-Se även artiklarna [Bjud in anställda att gå med i Partnercenter](guide-to-migration.md) och Lägga till en ny [användare.](create-user-accounts-and-set-permissions.md)
+Se även artiklarna [Bjud in anställda att gå med i Partnercenter](./partner-membership-center-retirement-faq.md) och Lägga till en ny [användare.](create-user-accounts-and-set-permissions.md)
 
 >[!NOTE]
 >Menyn Kontoinställningar ändras beroende på vilka program du har registrerat dig i. Om du till exempel är en partner i Molnlösningsleverantör-programmet (CSP) kommer du att kunna hantera dina Azure Shared-tjänster från **Kontoinställningar.**
 
 ## <a name="account-management"></a>Kontohantering
 
-Alla kommersiella partner och utvecklarpartner får åtkomst till Kontohantering i Partnercenter genom att logga **in** på instrumentpanelen i [Partnercenter](https://partner.microsoft.com/dashboard) och välja Inställningar  (kugghjulsikonen) i det övre högra hörnet på skärmen och sedan **Kontoinställningar**. Du behöver inte längre välja mellan inställningar för Partner och Utvecklare. Alla profiler och inställningar kombineras nu.
+Alla kommersiella partner och utvecklarpartner får åtkomst till [](https://partner.microsoft.com/dashboard) Kontohantering i Partnercenter genom att logga **in** på instrumentpanelen i Partnercenter och välja **Inställningar** (kugghjulsikonen) i det övre högra hörnet på skärmen och sedan **Kontoinställningar.** Du behöver inte längre välja mellan inställningar för Partner och Utvecklare. Alla profiler och inställningar kombineras nu.
 
 :::image type="content" source="images/accountsettings/opening.png" alt-text="inställningsikon.":::
 
 Då visas sidan kontoinställningar.
 
-:::image type="content" source="images/accountsettings/account-settings-sv.png" alt-text="Inställningsmeny.":::
+:::image type="content" source="images/accountsettings/account-settings-sv.png" alt-text="Inställningar meny.":::
 
 ### <a name="locate-your-mpn-id"></a>Leta upp ditt MPN-ID
 
@@ -43,7 +43,7 @@ Oavsett om du är partner eller utvecklare kan du använda ditt MPN-ID för såd
 
 ## <a name="account-settings---partners-resellers"></a>Kontoinställningar – partner, återförsäljare
 
-När du  väljer ikonen Inställningar  och öppnar menyn Kontoinställningar är standardvyn, om ditt företag är en del av Molnlösningsleverantör-programmet, juridisk **information** som visar två flikar, **Partner** och **Återförsäljare.** Varje flik innehåller aspekter av din verksamhet.
+När du väljer **Inställningar-ikonen** och  öppnar menyn Kontoinställningar visas två flikar i standardvyn, om ditt  företag ingår i Molnlösningsleverantör-programmet, med två flikar: **Partner** och **Återförsäljare.** Varje flik innehåller aspekter av din verksamhet.
 
 :::image type="content" source="images/accountsettings/reseller.png" alt-text="Menyn visar flikar för partner och återförsäljare.":::
 
@@ -93,7 +93,7 @@ Den här sidan innehåller all information om dina Azure AD-klienter, både komm
 
 ### <a name="identifiers"></a>Identifierare
 
-Den här sidan innehåller Partnercenter-identiteter för ditt företag: MPN-ID, utgivar-ID, Windows utgivar-ID med mera.  Varje område kan utökas och redigeras så att till exempel den primära kontakten för din publiceringsverksamhet är lätt att hitta.
+Den här sidan innehåller Partnercenter-identiteter för ditt företag: MPN-IDENTITETER, utgivar-ID,Windows-utgivar-ID:er med mera.  Varje område kan utökas och redigeras så att till exempel den primära kontakten för din publiceringsverksamhet är lätt att hitta.
 
 ### <a name="company-profile"></a>Företagsprofil
 
@@ -149,7 +149,7 @@ Mer information om registrering i vissa Partner Center-program finns i följande
 - [Commercial Marketplace-program](/azure/marketplace/partner-center-portal/create-account)
 - [Microsoft Partner Network medlemsförmåner](mpn-overview.md)
 - [CSP-program](./enrolling-in-the-csp-program.md)
-- [Office Store](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
+- [Office Lagra](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
 Mer information om registrering i Partner Center-program finns i även [Partnernätverksresurser.](https://partner.microsoft.com/)
 

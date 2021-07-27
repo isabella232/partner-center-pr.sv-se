@@ -8,12 +8,12 @@ ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: how-to
 ms.date: 06/29/2021
-ms.openlocfilehash: a124e4c5bb31a1fbb744bf2c5e1ea65a356bdd54
-ms.sourcegitcommit: 1d09ccaaa54f167b0c63e99761172ebe84e89f2e
+ms.openlocfilehash: a42269dfac07ccc49f72dce7a6e8259ade3d546e
+ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "113221448"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "114433800"
 ---
 # <a name="purchase-a-saas-offer-in-azure-portal"></a>Köpa ett SaaS-erbjudande i Azure Portal
 
@@ -40,18 +40,18 @@ När du är i Azure Portal finns det några sätt att begränsa sökningen för 
 
 ### <a name="narrowing-your-search"></a>Begränsa sökningen
 
-På startsidan under **Azure-tjänster väljer** du **+ Skapa en resurs** eller **Marketplace.** Eller använd genvägen **G + N** var som helst på plattformen.
+På startsidan under **Azure-tjänster väljer** **du + Skapa en resurs** eller **Marketplace.** Eller använd genvägen **G + N** var som helst på plattformen.
 
 - Begränsa resultatet till SaaS-erbjudanden med filtret **Erbjudandetyp** och välj sedan **SaaS**.
 - Använd global sökning i det övre navigeringsområdet för att hitta ett specifikt SaaS-erbjudande.
 
-Hitta ett [privat SaaS-erbjudande](/marketplace/private-offers) genom att välja banderollen överst på **Marketplace-startsidan.** Alla erbjudanden eller planer är inte tillgängliga i alla geografiska områden och vissa kanske bara visas för vissa klienter.
+Hitta ett [privat SaaS-erbjudande](./private-offers.md) genom att välja banderollen överst på **Marketplace-startsidan.** Alla erbjudanden eller planer är inte tillgängliga i alla geografiska områden och vissa kanske bara visas för vissa klienter.
 
 Den filtrerade vyn visar varje tillgängligt SaaS-erbjudande som representeras av en rubrik. Välj en för att se produktinformationssidan. Detta omfattar följande avsnitt:
 
 - Översikt – information om tjänsten, marknadsförings- och utbildningsmaterial
 - Planer + priser – varje erbjudande innehåller minst en plan med olika faktureringsvillkor och priser
-- Användningsinformation + support – innehåller id Publisher, erbjudande-ID och plan-ID
+- Användningsinformation + support – innehåller Publisher ID, erbjudande-ID och plan-ID
 - Klassificering och recensioner av det specifika SaaS-erbjudandet
 
 ## <a name="available-billing-models-plansskus-for-saas-offers"></a>Tillgängliga faktureringsmodeller (planer/SKU:er) för SaaS-erbjudanden
@@ -85,11 +85,11 @@ Dessa prissättningsmodeller är tillgängliga för både offentliga och privata
 
 När du väljer prenumerera visas meddelandet "Din SaaS-prenumeration pågår". Den här processen bör ta några minuter, stäng inte fönstret förrän det är klart.
 
-När prenumerationen är klar visas ett meddelande om att saaS-prenumerationen har slutförts, och du bör konfigurera kontot så att du kan börja använda ditt köp. Du får också ett e-postmeddelande som ber dig att aktivera den nya prenumerationen. Om det inte är du som ska konfigurera SaaS-kontot vidarebefordrar du det här e-postmeddelandet till relevant person.
+När prenumerationen är klar visas ett meddelande om att saaS-prenumerationen har slutförts, och du bör konfigurera kontot så att det börjar ta del av köpet. Du får också ett e-postmeddelande som ber dig att aktivera den nya prenumerationen. Om det inte är du som ska konfigurera SaaS-kontot vidarebefordrar du det här e-postmeddelandet till relevant person.
 
 För att slutföra processen och börja använda SaaS måste du börja konfigurera din prenumeration. Genom att välja **knappen Konfigurera** konto nu omdirigeras du till utgivarens webbplats.
 
-Du kan också kontrollera din prenumerationsstatus genom att välja klockikonen i det övre högra hörnet av rubriken.
+Du kan också kontrollera prenumerationsstatusen genom att välja klockikonen i det övre högra hörnet av rubriken.
 
 Om du inte slutför konfigurationsprocessen inom *30 dagar* tas den här SaaS-prenumerationen *bort automatiskt.* Faktureringen startar när ditt konto har konfigurerats på utgivarens webbplats.
 
@@ -110,24 +110,24 @@ Felmeddelanden som du kan stöta på under processen:
 - Köpet misslyckades eftersom den begärda faktureringsperioden är tom eller ogiltig.
   - Försök att köpa en annan plan/faktureringsperiod.
 
-- Köpet misslyckades eftersom vi inte kunde verifiera din signering av ett juridiskt avtal.
+- Köpet misslyckades eftersom vi inte kunde verifiera din signering på det juridiska avtalet.
   - Igen. Om felet kvarstår kan du försöka göra köpet med en annan Azure-prenumeration eller kontakta supporten.
 
-- Det gick inte att *köpa offer offerID* av *utgivaren publisherID.* Det här erbjudandet är för närvarande inte tillgängligt för inköp.
+- Det gick inte att *köpa offer offerID* *av utgivaren publisherID.* Det här erbjudandet är för närvarande inte tillgängligt för inköp.
   - Försök igen senare. Kontakta supporten om du fortsätter att få det här felmeddelandet efter en timme.  
 
-- Det gick inte att  *köpa planID* för planID för erbjudandet *från utgivaren publisherID.* Den här planen är för närvarande inte tillgänglig för inköp.
+- Det gick inte att *köpa PlanID* för *erbjudandet offerID* av *utgivaren publisherID.* Den här planen är för närvarande inte tillgänglig för inköp.
   - Försök igen senare. Kontakta supporten om du fortsätter att få det här felmeddelandet efter en timme. 
 
-- Klientens *e-postadress* med objekt-ID *ObjectID* har inte behörighet att utföra åtgärden *DeploymentValidationAction* över omfånget *ResourceGroup; DeploymentScope* eller så är omfånget ogiltigt.  
+- Klientens *e-postadress* med objekt-ID *ObjectID* har inte behörighet att utföra åtgärden *DeploymentValidationAction* över omfånget *ResourceGroup; DeploymentScope* eller omfånget är ogiltigt.  
   - Du får det här meddelandet om du inte har rätt behörigheter för Azure-prenumerationen/resursgruppen.  
     Uppdatera dina autentiseringsuppgifter om åtkomsten nyligen har beviljats.  
     Om du vill distribuera resurser till en resursgrupp måste du minst ha deltagaråtkomst. Kontrollera din åtkomststatus under **Resursgrupper** och välj **sedan Access Control**. Detta visar vem "Ägare" är, som du kan be om att tilldela dig som deltagare.
 
-- Prenumerationen som används för det här köpet tillåter inte Marketplace-inköp.  
+- Den prenumeration som används för det här köpet tillåter inte Marketplace-inköp.  
   - Använd en annan prenumeration eller be administratören att ändra definitionen för den här prenumerationen och försöka igen.
 
 ## <a name="next-steps"></a>Nästa steg
 
-- Om du redan har köpt ett erbjudande på Marketplace går du [till Fakturering](/marketplace/billing-invoicing)
-- Du kan också läsa mer om [alternativen för privata](/marketplace/private-offers) planer.
+- Om du redan har köpt ett erbjudande på Marketplace går du [till Fakturering](./billing-invoicing.md)
+- Du kan också läsa mer om [alternativen för privata](./private-offers.md) planer.
