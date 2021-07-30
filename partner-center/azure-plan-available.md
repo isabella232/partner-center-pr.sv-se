@@ -1,35 +1,35 @@
 ---
 title: Tillgängliga Azure-tjänster i Azure CSP
-description: Den här artikeln beskriver de Azure-tjänster som är och inte är tillgängliga i Azure-molnlösningsleverantör (CSP).
+description: I den här artikeln beskrivs de Azure-tjänster som är och inte är tillgängliga i Programmet Azure Molnlösningsleverantör (CSP).
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 author: amitravat
 ms.author: amrava
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: da97dded531b6792a4468d9be9b63367f818b352
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 3147836916f827e6962fb436b74d9ce1716d9f4a
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149748"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841682"
 ---
-# <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Azure-tjänster som är Azure-molnlösningsleverantör (CSP)
+# <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Azure-tjänster som är tillgängliga i Programmet Azure Molnlösningsleverantör (CSP)
 
-**Lämpliga roller:** Administratörsagent | Faktureringsadministratörskonto | Global | Supportagent | Försäljningsagentens | Administratör för användarhantering
+**Lämpliga roller:** Administratörsagent | Faktureringsadministratörskonto | Globala | Supportagent | Försäljningsagent | Administratör för användarhantering
 
 ## <a name="available-azure-services-in-azure-csp"></a>Tillgängliga Azure-tjänster i Azure CSP
 
-Den här artikeln listar de Azure-tjänster som är och inte är tillgängliga i Azure-molnlösningsleverantör (CSP). Den beskriver även tjänstens tillgänglighet i de nationella molnen [Microsoft Azure Tyskland](https://azure.microsoft.com/overview/clouds/germany/) och [Microsoft Azure Government](https://azure.microsoft.com/overview/clouds/government/).
+Den här artikeln listar de Azure-tjänster som är och inte är tillgängliga i Programmet Azure Molnlösningsleverantör (CSP). Den beskriver även tjänsttillgänglighet i de nationella molnen [Microsoft Azure Tyskland](https://azure.microsoft.com/overview/clouds/germany/) och [Microsoft Azure myndigheter.](https://azure.microsoft.com/overview/clouds/government/)
 
 >[!Note]
 > [Azure China](https://www.azure.cn/) är inte tillgängligt i Azure CSP program.
 
 ## <a name="global-cloud"></a>Globalt moln
 
-Alla tjänster som baseras Azure Resource Manager modellen är tillgängliga i CSP-programmet.  Icke-Azure Resource Manager tjänster är inte tillgängliga i CSP-programmet.  
+Alla tjänster baserat på Azure Resource Manager är tillgängliga i CSP-programmet.  Icke-Azure Resource Manager tjänster är inte tillgängliga i CSP-programmet.  
 
 ## <a name="csp-specific-service-configurations"></a>CSP-Specific servicekonfigurationer
 
@@ -41,7 +41,7 @@ Följande tjänster kräver särskilda konfigurationer i CSP:
 
 - [Key Vault](https://azurecsp.blob.core.windows.net/files/key-vault-in-csp.docx)
 
-- [Azure Time Series Insights](https://azure.microsoft.com/services/time-series-insights/) Endast användare från kundens klientorganisation kan komma åt data i Time Series Insights miljö. Partner kan hantera sina kunders Time Series Insights miljö som standard, men om de behöver åtkomst till data i den måste de läggas till i kundens klientorganisation.
+- [Azure Time Series-Insights](https://azure.microsoft.com/services/time-series-insights/) Endast användare från kundklientorganisationen kan komma åt data i sin Time Series Insights-miljö. Partner kan hantera sina kunders Time Series Insights miljö som standard, men om de behöver åtkomst till data i den måste de läggas till i kundens klientorganisation.
 
 ## <a name="visual-studio-marketplace"></a>Visual Studio Marketplace
 
@@ -57,7 +57,7 @@ För att hjälpa dig att komma igång har vi skapat videor och dokumentation om 
 
 ## <a name="azure-marketplace-items-in-azure-csp"></a>Azure Marketplace-objekt i Azure CSP
 
-Alla objekt Azure Marketplace för närvarande inte tillgängliga i Azure CSP prenumerationer.
+För närvarande är Azure Marketplace objekt inte tillgängliga i Azure CSP prenumerationer.
 
 - Microsoft-baserade Azure-tjänster: Dessa tjänster är tillgängliga. Granska föregående tabell och kommentarer.
 

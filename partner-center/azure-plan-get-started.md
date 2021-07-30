@@ -3,18 +3,18 @@ title: Påbörja flytten till Azure-planen
 description: Lär dig vad du och dina kunder behöver veta om att använda Azures betala enligt plan, inklusive första steg, säkerhetsåtgärder och hur du kommer igång.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 author: amitravat
 ms.author: amrava
 ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: 58feabdefb02660559c69f61190070310768b947
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 40bf84ed47c946b84f511693d9f8351b3ffa5a95
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149663"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841665"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Börja använda Betala enligt användning-priser med Azure-planen
 
@@ -29,23 +29,23 @@ Våra kunders behov av digital omvandling kräver nya kunskaper från partner. M
 
 ## <a name="make-sure-your-customers-have-signed-the-microsoft-customer-agreement"></a>Kontrollera att dina kunder har signerat Microsoft-kundavtal
 
-Sedan den 1 oktober 2019 finns Microsoft-kundavtal ett permanent avtal som förenklar och effektiviserar kundernas köpupplevelse med en helt digital process. Alla kunder som vill dra nytta av den nya handelsupplevelsen i CSP för Azure måste signera Microsoft-kundavtal.
+Sedan den 1 oktober 2019 är Microsoft-kundavtal ett permanent avtal som förenklar och effektiviserar kundernas köpupplevelse med en helt digital process. Alla kunder som vill dra nytta av den nya handelsupplevelsen i CSP för Azure måste signera Microsoft-kundavtal.
 
-Partner som vill göra en åtgärd enligt den nya Azure-planen och göra en ny beställning bör bekräfta kundens godkännande av Microsoft-kundavtal via instrumentpanelen i Partnercenter och API:et i produktion.
+Partner som vill göra en åtgärd enligt den nya Azure-planen och göra en ny beställning bör bekräfta att kunden godkänner Microsoft-kundavtal via instrumentpanelen i Partnercenter och API:et i produktion.
 
-Från och med 1 februari 2020 tas Microsoft Cloud-avtal bort från CSP-programmet. Från och med då krävs en partnerbekräftelse (attestation) av kundens godkännande för den nya Microsoft-kundavtal för alla andra erbjudanden, inklusive Microsoft 365, Dynamics 365 och befintligt Azure. Partner i CSP:en kommer inte att kunna göra en ny beställning för kunden utan att Microsoft-kundavtal.
+Från och med 1 februari 2020 tas Microsoft Cloud-avtal befintliga program bort från CSP-programmet. Från och med då krävs partnerbekräftelse (attestation) av kundens godkännande för det nya Microsoft-kundavtal för alla andra erbjudanden, inklusive Microsoft 365, Dynamics 365 och befintligt Azure. Partner i CSP:t kommer inte att kunna göra en ny beställning för kunden utan att Microsoft-kundavtal.
 
 Fullständig information finns i [Bekräfta kundens godkännande av Microsoft-kundavtal](confirm-customer-agreement.md)
 
 ## <a name="security-and-access-control-practices"></a>Metoder för säkerhet och åtkomstkontroll
 
-För att hjälpa till att skydda partner och kunder introducerar vi en uppsättning obligatoriska säkerhetskrav för rådgivare, Kontrollpanelen-leverantörer och partner som deltar i Molnlösningsleverantör program.
+För att hjälpa till att skydda partner och kunder introducerar vi en uppsättning obligatoriska säkerhetskrav för rådgivare, Kontrollpanelen-leverantörer och partner som deltar i Molnlösningsleverantör-programmet.
 
-Partner som inte implementerar de obligatoriska säkerhetskraven kommer inte att kunna genomföra transaktioner i Molnlösningsleverantör-programmet eller hantera kundklienter som utnyttjar delegerade administratörsrättigheter när dessa krav har verkställts. Vi håller på att upprätta ett tekniskt framtvingandedatum för kraven och kommer att meddela partner om datumet med detaljerad information.
+Partner som inte implementerar de obligatoriska säkerhetskraven kommer inte att kunna utföra transaktioner i Molnlösningsleverantör-programmet eller hantera kundklienter som utnyttjar delegerade administratörsrättigheter när dessa krav har verkställts. Vi håller på att fastställa ett datum för teknisk tillämpning för kraven och meddelar partner om datumet med detaljerad information.
 
 ## <a name="actions-to-take-to-implement-mfa"></a>Åtgärder att vidta för att implementera MFA
 
-Eftersom vi är en partner med hög behörighet måste vi se till att varje användare har en MFA-utmaning för varje enskild autentisering. Detta kan åstadkommas på något av följande sätt:
+Eftersom det är mycket privilegierat att vara en partner måste vi se till att varje användare har en MFA-utmaning för varje enskild autentisering. Detta kan åstadkommas på något av följande sätt:
 
 - Implementera Azure AD Premium och se till att multifaktorautentisering (MFA) tillämpas för varje användare
 - Implementera [standardinställningarna för Azure AD-säkerhet](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)

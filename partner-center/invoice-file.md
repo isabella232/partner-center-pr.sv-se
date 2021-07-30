@@ -1,24 +1,24 @@
 ---
-title: Förstå faktureringsfakturor i Partnercenter
+title: Förstå faktureringsfakturor för Partnercenter
 ms.topic: article
 ms.date: 05/18/2020
-description: Förstå fälten i din fakturafil för Fakturering i Partnercenter. Fälten och definitionerna för alla fakturafält och fält för en gång-avgifter ingår.
+description: Förstå fälten i din fakturafil för fakturering i Partnercenter. Här ingår fält och definitioner för alla fakturafält och avgiftsfält för en gång.
 author: sodeb
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5cb60c775bd8de38b8d7ca69c4dd97cf11b919fd
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: c741caa6993a5da415d3a94d541bf10c21470889
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146620"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840084"
 ---
-# <a name="understand-partner-center-billing-invoice-fields"></a>Förstå faktureringsfakturafält i Partnercenter
+# <a name="understand-partner-center-billing-invoice-fields"></a>Förstå faktureringsfakturafälten i Partnercenter
 
-**Lämpliga roller:** Globala | Administratörsbehörighet för | Faktureringsadministratörskonto | Supportagent
+**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Faktureringsadministratörskonto | Supportagent
 
 Du kan använda följande tabeller för att förstå fälten i partnercentrets fakturafiler.
 
@@ -28,10 +28,10 @@ Följande fält visas i dina fakturafiler.
 
 | Field | Definition |
 | ----- | ---------- |
-| US FEIN | Ditt FEIN (Federal Employer Identification Number). Det här är USA nummer för federal skatteidentifierare. |
+| US FEIN | Ditt FEIN (Federal Employer Identification Number). Det här är USA skatteidentifierare. |
 | Kundnummer | Ditt kundnummer. |
 | Fakturera till | Adressen där vi skickar din faktura. Du kan ändra företagets namn och adress i faktureringsprofilen för Partnercenter. |
-| Licensbaserade avgifter | De fasta månatliga eller årliga avgifterna för dina köpta användningsbaserade licenser som debiteras i förväg för tjänsten. Det här talet är summan av alla avgifter i **kolumnen Delsumma** (kolumn **T**) i din licensbaserade avstämningsfil. |
+| Licensbaserade avgifter | De fasta månads- eller årsavgifterna för dina köpta användningsbaserade licenser debiteras i förväg för tjänsten. Det här numret är summan av alla avgifter i **kolumnen Delsumma** (kolumn **T**) i din licensbaserade avstämningsfil. |
 | Användningsbaserade avgifter | Din Azure-användning. Detta inkluderar nya tjänster eller program som har aktiverats och används under faktureringsperioden. Det här numret är summan av alla avgifter i **kolumnen PretaxCharges** (kolumn **Z)** i din användningsbaserade avstämningsfil. |
 | Rabatter | Rabatten som kunden får från prenumerationens normala pris. Det här numret visas som ett *fast belopp*, inte som ett pris per enhet eller licens. |
 | Krediter | Krediter eller justeringar för ändringar som görs i prenumerationer (till exempel licensökningar eller minskningar). |
@@ -43,23 +43,23 @@ Följande fält visas i dina fakturafiler.
 | Faktura nej | Numret på din faktura. |
 | Faktureringsperiod | Den månadsperiod som leder fram till fakturadatumet. Det här är den period då användningsbaserade tjänster förbrukas och licensbaserade tjänster stäms av för eventuella kreditjusteringar eller ändringar i licensantalet. |
 | Fakturadatum | Faktureringsdatum eller årsdag då fakturan genereras varje månad. |
-| Betalningsvillkor | Betalningsvillkoret. För köp som görs en gång är detta alltid 60 dagar. |
+| Betalningsvillkor | Betalningsvillkoret. För ett enda köp är detta alltid 60 dagar. |
 | Förfallodatum för betalning | Det datum då betalningen måste tas emot. |
-| Kund-IO | Din inköpsorder. |
+| Kund-IO | Din inköpsordernummer. |
 | Kundtjänst | Den webbplatsadress där du kan komma åt kundtjänst. |
-| Tjänstmottagare | Adressen där tjänsten används. (Det här är den juridiska företagsadress som är associerad med företagets granskning.) |
+| Tjänstmottagare | Den adress där tjänsten används. (Det här är den juridiska företagsadress som är associerad med företagets granskning.) |
 
 ## <a name="one-time-charges-fields"></a>Fält för one-time-avgifter
 
-Följande fält gäller endast för **en-gång-avgifter** i Partnercenter:
+Följande fält gäller endast för **one-time-avgifter** i Partnercenter:
 
 | Field | Definition |
 | ----- | ---------- |
 | Datum | Inköpsdatum. |
-| Description | Produktnamn. |
-| Kvantitet | Antal produkter (till exempel reservationer) som köpts. |
+| Beskrivning | Produktnamn. |
+| Kvantitet | Antalet köpta produkter (till exempel reservationer). |
 | Enhetspris | Pris per produkt (till exempel en reservation). |
-| Rabatter | Eventuella rabatter. |
-| Belopp före skatt | Delsummor av inköp före skatter. |
+| Rabatter | Alla tillämpliga rabatter. |
+| Belopp före skatt | Delsummor för inköp före skatter. |
 | Moms | Skattebelopp. |
 | Totalt | Totalt belopp som ska betalas. |

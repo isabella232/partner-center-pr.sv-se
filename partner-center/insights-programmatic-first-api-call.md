@@ -1,23 +1,23 @@
 ---
 title: Gör ditt första API-anrop för att få åtkomst till analysdata för partnerinsikter
-description: Exempel för att lära dig att använda API:et för att få åtkomst till analysdata från partnerinsikter.
+description: Exempel för att lära dig att använda API:et för åtkomst till analysdata för partnerinsikter.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: d2252ccfb601ae22ce106d87fb06b67bf0927df5
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 9aac83645051f3e8f32945ae908ba1fe47c08d13
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376955"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840033"
 ---
 # <a name="make-your-first-api-call-to-access-partner-insights-analytics-data"></a>Gör ditt första API-anrop för att få åtkomst till analysdata för partnerinsikter
 
-En lista över API:er för åtkomst till analysdata för partnerinsikter finns i [API:er för åtkomst till analysdata för partnerinsikter.](insights-programmatic-analytics-available-api.md) Innan du gör ditt första [API-anrop](insights-programmatic-prerequisites.md) måste du se till att du har uppfyllt kraven för att programmatiskt få åtkomst till Partner Insights-analysdata.
+En lista över API:er för åtkomst till analysdata för partnerinsikter finns i [API:er för åtkomst till analysdata för partnerinsikter.](insights-programmatic-analytics-available-api.md) Innan du gör ditt första [API-anrop](insights-programmatic-prerequisites.md) måste du se till att du uppfyllde kraven för att programmatiskt komma åt Partner Insights-analysdata.
 
 ## <a name="token-generation"></a>Tokengenerering
 

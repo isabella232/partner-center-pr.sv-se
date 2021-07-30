@@ -2,25 +2,25 @@
 title: Flytta kunder från aktuella Azure-erbjudanden till Azure-plan
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Lär dig hur CSP-partner kan använda Partnercenter för att flytta kunder från befintliga CSP Azure-erbjudanden till Azure-tjänster enligt Azure-planen.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: 770df3cff40b8cc51eab16fb95d0bd43967a5a69
-ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
+ms.openlocfilehash: eb9d88935bdc339c01ac47153c3d4a23047dc406
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/29/2021
-ms.locfileid: "113013275"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841512"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Övergå kunder till Azure-plan från befintliga CSP Azure-erbjudanden
 
 **Gäller för:** Partnercenter 
 
-**Lämpliga roller:** Administratörsagent | Faktureringsadministratörskonto | Globala | Supportagent | Försäljningsagentens | Administratör för användarhantering
+**Lämpliga roller:** Administratörsagent | Faktureringsadministratörskonto | Global | Supportagent | Försäljningsagentens | Administratör för användarhantering
 
 Den här artikeln förklarar hur CSP-partner kan använda Partnercenter för att flytta kunder från befintliga CSP Azure-erbjudanden till Azure-tjänster enligt Azure-planen. Indirekta leverantörer och direktfaktureringspartner kan övergå till den nya handelsupplevelsen som är tillgänglig i Microsoft Cloud Service Provider Program (CSP) för Azure. (Indirekta återförsäljare måste arbeta med sina indirekta leverantörer.) Kunder kommer att ha ett effektivt sätt att köpa molntjänster, oavsett om de köper från partner, från Microsoft-säljare eller direkt på webben.
 
@@ -34,7 +34,7 @@ Du kan föra över en kund från deras befintliga CSP Azure-erbjudanden till Azu
 
 1. Välj Azure-plan för din kund.
 
-2. Välj **Transition billing to Azure plan (Övergå fakturering till Azure-plan).**
+2. Välj **Övergå fakturering till Azure-plan.**
 
    :::image type="content" source="images/azure/transition1.png" alt-text="Skärmbild som visar rapportinformation om användningsbaserade prenumerationer med ett valbart alternativ som heter: Övergå azure-prenumerationsfakturering till Azure-plan.":::
 
@@ -48,13 +48,13 @@ Du kan föra över en kund från deras befintliga CSP Azure-erbjudanden till Azu
 
    - Köp av Azure-plan
    - En plan per kund i scenarier med direkt CSP  
-   - Ett abonnemang per återförsäljare  
+   - En plan per återförsäljare  
 
    En partner har till exempel köpt två Microsoft Azure erbjudanden och har inkluderat två distinktaPOR i köpet. I det här fallet köper övergångsarbetsflödet två Azure-planer (en per återförsäljare) och mappar respektive Azure-prenumerationer enligt Azure-planerna automatiskt.  
 
    **Mappa Azure-prenumeration till Azure-plan**
 
-   När du har köpt Azure-prenumerationerna mappar vårt system de befintliga Azure-prenumerationerna till Azure-prenumerationerna. Förloppet kan visas i Azure Portal samt i Partnercenter.
+   När du har köpt Azure-planer mappar vårt system de befintliga Azure-prenumerationerna till Azure-prenumerationerna. Förloppet kan visas i Azure Portal samt i Partnercenter.
 
 4. Gå tillbaka till kundens partnercenterprenumerationer **för** att uppdatera budgetgränsen med hjälp av den lokala valutan.
 
@@ -82,7 +82,7 @@ Om du övergår till en kund från ett befintligt Azure-erbjudande från CSP få
 
 - Om du hade administratörsbehörighet till den befintliga CSP-prenumerationen fortsätter du att ha åtkomst när prenumerationen migreras.
 
-Om du vill övergå direkt till Enterprise-avtal till CSP- och server- och molnregistreringar till Azure-tjänster läser du Få faktureringsägarskap [för Azure-prenumerationer för Microsoft-partneravtal](/azure/billing/mpa-request-ownership)
+Om du vill övergå direkt till Enterprise-avtal till CSP- och Server- och Molnregistreringar till Azure-tjänster läser du Få [faktureringsägarskap för Azure-prenumerationer för Microsoft-partneravtal](/azure/billing/mpa-request-ownership)
 
 ### <a name="audit-log"></a>Granskningslogg
 
@@ -90,7 +90,7 @@ Om du vill stämma av faktureringen visar du din historik över Microsoft Azure 
 
 Prenumerationen "Microsoft Azure" (0145P) består av två delar:
 
-1. Handelsprenumeration
+1. Commerce-prenumeration
 2. Azure-prenumeration (berättigande)
 
 När övergången är klar flyttas Azure-prenumerationen under den nya Azure-planen och handelsprenumerationen inaktiveras så att ingen ytterligare användning rapporteras.  

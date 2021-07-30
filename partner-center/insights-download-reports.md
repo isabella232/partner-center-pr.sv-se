@@ -3,18 +3,18 @@ title: Insights Ladda ned rapportinstrumentpanel
 ms.topic: article
 ms.date: 10/14/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Lär dig hur du laddar ned och exporterar data från instrumentpanelen för enhetlig rapportering i Partnercenter och från Partnercenter Insights rapporter.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 361965920f67b8846edce5987a63462e7ac72e71
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 18ed4e14e5e0e0855dd09e91325ed46610c3acae
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377244"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840101"
 ---
 # <a name="download-reports"></a>Ladda ned rapporter
 
@@ -35,19 +35,19 @@ Om du vill generera en rapport väljer du först rapporten **i listrutan** Välj
 :::image type="content" source="images/insights/generate-reports.png" alt-text="Genererade rapporter.":::
 
 >[!NOTE] 
->Endast de användare som är rapportanvändare kan ladda ned rapporter. Mer information om rollbaserad åtkomst till rapporter Insights instrumentpanelen finns i [PCI-roller.](insights-roles.md) 
+>Endast de användare som är rapportanvändare kan ladda ned rapporter. Mer information om rollbaserad åtkomst till instrumentpanelsrapporterna Insights finns i [PCI-roller.](insights-roles.md) 
 
 ## <a name="available-reports"></a>Tillgängliga rapporter
 
 Följande rapporter är tillgängliga för nedladdning:
 
-**Partnerprofilen** innehåller information om partnern. Information som Partner-ID, Partnernamn, Partnerstad och Partnerland finns i rapporten. Ingen aggregering eller återställning kommer att gälla för den här rapporten.
+**Partnerprofilen** innehåller information som är relaterad till partnern. Information som Partner-ID partnernamn, partnerstad och partnerland finns i rapporten. Ingen aggregering eller återställning kommer att gälla för den här rapporten.
 
 **Kundinformation** ger information om kunder som en partner är associerad med. Den innehåller också viktiga mått som sålda licenser, aggregerade Azure-förbrukade intäkter (ACR) och så vidare. Rapporten sammanställs månadsvis.
 
 **Prenumerationsinformationen** innehåller information om de prenumerationer som säljs eller hanteras av partnern tillsammans med kundinformation. Rapporten sammanställs månadsvis.
 
-**Azure-användning** innehåller information om Azure-användning. Den här informationen gäller de Azure-prenumerationer som säljs eller hanteras av partnern. Användningsinformationen delas upp efter mätarkategori och andra viktiga dimensioner. Rapporten aggregeras månadsvis.
+**Azure-användning** innehåller information om Azure-användning. Den här informationen gäller de Azure-prenumerationer som säljs eller hanteras av partnern. Användningsinformationen delas upp efter mätarkategori och andra viktiga dimensioner. Rapporten sammanställs månadsvis.
 
 **Office 365 – Licensanvändning innehåller** användningsinformation om Office 365 licenser som säljs eller hanteras av partnern. Den innehåller även kundinformation och nyckelmått som Månatliga aktiva användare (MAU), kvalificerade rättigheter och så vidare. Rapporten aggregeras månadsvis.
 
@@ -63,5 +63,5 @@ Följande rapporter är tillgängliga för nedladdning:
 
 **Kompetenser – Sammanfattning och historik** innehåller information om alla kompetenser som är aktiva, pågående eller utsatta för risk för den här partnern. Innehåller även historik över alla kompetenser som partnern har uppnått.
 
-**Kompetenser – Prestandainformation** innehåller information om hur partnern gör med avseende på KPI:er (Key Performance Indicators) för att uppnå en viss uppsättning kompetenser.
+**Kompetenser – Prestandainformation** ger detaljerad information om hur partnern gör med avseende på KPI:er (Key Performance Indicators) för att uppnå en viss uppsättning kompetenser.
 

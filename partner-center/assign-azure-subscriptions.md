@@ -3,28 +3,28 @@ title: Tilldela Azure-prenumerationer till kunder
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: Lär dig hur du tilldelar Azure-prenumerationer till dina kunder i Partnercenter och hur du gör det möjligt för kunder att hantera sina egna prenumerationer.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aba4f97ad6a385c2a9e36c95354a9d53e38ba9e3
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 1416c9b12cb6670eb2598f8baa4839996e29f09b
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149986"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841733"
 ---
 # <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>Tilldela Azure-prenumerationer till kunder i Partnercenter
 
-**Lämpliga roller:** Global | Försäljningsagent
+**Lämpliga roller:** Globala | Försäljningsagent
 
 ## <a name="assign-azure-subscriptions-to-your-customers"></a>Tilldela Azure-prenumerationer till dina kunder
 
 1. Välj **Kunder** på **menyn i Partnercenter** och leta upp den kund som du vill hantera.
 
-2. Välj nedåtpilen i slutet av raden för att expandera kundens post och välj sedan **Microsoft Azure-hanteringsportal**. Du dirigeras till [Azure Portal](https://portal.azure.com/) där du kan hantera kundens prenumerationer.
+2. Välj nedåtpilen i slutet av raden för att expandera kundens post och välj sedan **Microsoft Azure Hanteringsportal**. Du dirigeras till [Azure Portal](https://portal.azure.com/) där du kan hantera kundens prenumerationer.
 
 3. Från Azure Portal väljer du **Prenumerationer.**
 
@@ -36,9 +36,9 @@ ms.locfileid: "110149986"
 
 ## <a name="enable-customers-to-manage-their-azure-subscriptions"></a>Gör det möjligt för kunder att hantera sina Azure-prenumerationer
 
-När du har skapat Microsoft Azure prenumeration för en kund kan du låta dem hantera prenumerationen. Om du vill göra detta måste du logga in på kundens Microsoft Azure Hanteringsportalen. 
+När du har skapat Microsoft Azure en prenumeration för en kund kan du låta dem hantera prenumerationen. Om du vill göra det måste du logga in på kundens Microsoft Azure Management-portalen. 
 
-1. Om du vill öppna Azure Portal expanderar du antingen kundens lista i kundlistan eller väljer kundens namn och väljer **sedan Microsoft Azure-hanteringsportal**.
+1. Du öppnar kundens Azure Portal genom att antingen expandera kundens lista i kundlistan eller välja kundens namn och sedan **välja Microsoft Azure Hanteringsportal**.
 
    > [!NOTE]  
    > Om du uppmanas att logga in på Azure Portal kanske du inte har delegerade administratörsbehörigheter. Välj **Begär en relation för** att bjuda in kunden att identifiera dig som sin partner för posten. När kunden har accepterat din inbjudan beviljas du automatiskt delegerade administratörsbehörigheter.

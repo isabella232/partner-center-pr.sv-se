@@ -3,20 +3,20 @@ title: Ge teknisk support till kunder
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-incentives
-description: Lär dig mer om vilka typer av teknisk support Molnlösningsleverantör kan erbjuda sina kunder.
+ms.subservice: partnercenter-support
+description: Lär dig mer om vilka typer av teknisk support Molnlösningsleverantör-programpartner kan erbjuda sina kunder.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5ea1fcd80f6ada97e5c0b840f11e0eb7668ee265
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: d8e4781ffa64269056c684d9ab10a29ff97dacde
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551239"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841064"
 ---
-# <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Ge teknisk support för att hjälpa kunder att konfigurera, hantera och använda sina prenumerationer
+# <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Tillhandahålla teknisk support för att hjälpa kunder att konfigurera, hantera och använda sina prenumerationer
 
 
 **Lämpliga roller:** Globala | Administratörsbehörighet för | Supportagent | Administratörsagent
@@ -33,7 +33,7 @@ I Partnercenter kan du:
 1. I **menyn i Partnercenter** väljer du **Kunder.** Välj kund i listan.
 2. I kundmenyn väljer du **Tjänsthantering.**
 3. I avsnittet **Administrera tjänster** väljer du den tjänst som du behöver arbeta i för att öppna hanteringsportalen för tjänsten.
-4. Om du upptäcker problem med ett kundkonto, t.ex. att tjänster ligger nere eller har försämrats, börjar du med att kontrollera tjänstens hälsa. Se [Kontrollera tjänstens hälsa.](check-service-health.md)
+4. Om du upptäcker problem med ett kundkonto, t.ex. tjänster som ligger nere eller en försämrad upplevelse, börjar du med att kontrollera tjänstens hälsa. Se [Kontrollera tjänstens hälsa.](check-service-health.md)
 5. Om du vill eskalera ett pågående problem till Microsoft kan du skicka en tjänstbegäran. Se [Rapportera problem för en kunds räkning.](report-problems-on-behalf-of-a-customer.md)
 
 ## <a name="microsoft-partner-support-guidance"></a>Supportvägledning för Microsoft-partner
@@ -48,7 +48,7 @@ Partner måste ta emot inkommande supportförfrågningar från kunder, diagnosti
 
 - **Teknisk** support för problem är tillgänglig via:
 
-  - Premier Support för partner (avgiftsbaserad)
+  - Premier Support för partner (avgiftsbaserat)
   - Avancerat stöd för partner (avgiftsbaserat)
   - Signature Cloud Support (ingår med guld-/silverkompetens)
 
@@ -60,7 +60,7 @@ Varje onlinetjänst har specifika och detaljerade krav för att tillhandahålla 
 
 - [Azure-prenumerationer sålda via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
-- [Office 365-prenumerationer sålda via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+- [Office 365 sålda prenumerationer via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
 
 ## <a name="next-steps"></a>Nästa steg
 

@@ -1,19 +1,19 @@
 ---
-title: Paradigm för programmatisk åtkomst för Insights data
+title: Paradigm för programmatisk åtkomst för insikter
 description: Förstå flödet på hög nivå i API-anropsmönstret för programmatisk analys. API:erna för åtkomst till analysrapporter med partnerinsikter omfattas också.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: dcdd54fcc744fdb1683259203188c309a3949eff
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 1a06da353c8069d15d597faeaaf8700df5f62fd1
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376983"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841104"
 ---
 # <a name="programmatic-access-paradigm"></a>Paradigm för programmatisk åtkomst
 
@@ -25,7 +25,7 @@ Det här diagrammet visar api-anropsmönstret som används för att skapa en ny 
 Den här listan innehåller mer information om bild 1.
 
 1. Klientprogrammet kan definiera det anpassade rapportschemat/mallen genom att anropa API:et [Skapa rapportfråga.](#create-report-query-api) Alternativt kan du välja en rapportmall (QueryId) från de exempel på rapportmallbibliotek som anges [här.](insights-programmatic-system-queries.md)
-2. Om det lyckas returnerar API:et för att skapa rapportfråga QueryId.
+2. Om det lyckas returnerar API:et Skapa rapportfråga QueryId.
 3. Klientprogrammet måste sedan anropa [](#create-report-api) API:et Skapa rapport med queryId tillsammans med rapportens startdatum, upprepningsintervall, upprepning och en valfri motringning-URI.
 4. Vid Lyckad [returnerar API:et](#create-report-api) Skapa rapport ReportId.
 5. Klientprogrammet meddelas via motringning-URL:en så snart rapportdata är redo för nedladdning.
@@ -53,7 +53,7 @@ I följande exempel visas hur du skapar en anpassad fråga för att hämta de 10
 
 ### <a name="request-header"></a>Begärandehuvud
 
-|    Huvud     |    Typ     |    Description     |
+|    Huvud     |    Typ     |    Beskrivning     |
 |-------|-----|------|
 |    Auktorisering     |    sträng |Krävs. Åtkomsttoken Azure Active Directory (Azure AD). Formatet är  `Bearer <token>` .|
 |    Content-Type     |sträng |`Application/JSON` |
@@ -83,7 +83,7 @@ Den här tabellen innehåller viktiga definitioner av element i begärandenyttol
 
 |Parameter|    Krävs     |    Beskrivning     |    Tillåtna värden     |
 |-----|    -----    |    -----    |    -----    |
-|Name |    Ja     |    Eget namn på frågan     |    sträng     |
+|Namn |    Ja     |    Eget namn på frågan     |    sträng     |
 |    Beskrivning     |    Nej     |    Beskrivning av vad frågan returnerar     |    sträng     |
 |    Söka i data     |    Ja     |    Rapportfrågesträng     |    Datatyp: sträng <br> [Anpassad fråga](insights-programmatic-custom-query.md) baserat på affärs behov |
 |        |        |        |        |
@@ -127,8 +127,8 @@ Den här tabellen innehåller viktiga definitioner av element i begärandenyttol
 |    Parameter     |    Beskrivning     |
 |    ----    |    ----    |
 |    QueryId     |    Universell unik identifierare (UUID) för den fråga som du skapade     |
-|    Name     |    Eget namn som anges för frågan i nyttolasten för begäran     |
-|    Description     |    Beskrivning som ges när frågan skapas     |
+|    Namn     |    Eget namn som anges för frågan i nyttolasten för begäran     |
+|    Beskrivning     |    Beskrivning som ges när frågan skapas     |
 |    Söka i data     |    Rapportfråga som skickas som indata när frågan skapas     |
 |    Typ     |    Ange till `userDefined`     |
 |    Användare     |    Användar-ID som användes för att skapa frågan     |
@@ -165,7 +165,7 @@ Två ytterligare fält kan skickas när `ExecuteNow` är sant, `QueryStartTime` 
 
 ### <a name="request-header"></a>Begärandehuvud
 
-|    Huvud     |    Typ     |    Description     |
+|    Huvud     |    Typ     |    Beskrivning     |
 |-------|-----|------|
 |    Auktorisering     |    sträng |Krävs. Åtkomsttoken Azure Active Directory (Azure AD). Formatet är  `Bearer <token>` .|
 |    Content-Type     |sträng |`Application/JSON` |
@@ -263,7 +263,7 @@ Viktiga definitioner av element i svaret förklaras nedan:
 |    ----    |    ----    |
 |    ReportId     |    Universell unik identifierare (UUID) för den rapport som du skapade     |
 |    ReportName     |    Namn som ges till rapporten i nyttolasten för begäran     |
-|    Description     |    Beskrivning som anges när rapporten skapas     |
+|    Beskrivning     |    Beskrivning som ges när rapporten skapas     |
 |    QueryId     |    Fråge-ID som skickades när du skapade rapporten     |
 |    Söka i data     |    Frågetext som ska köras för den här rapporten     |
 |    Användare     |    Användar-ID som används för att skapa rapporten     |
@@ -272,8 +272,8 @@ Viktiga definitioner av element i svaret förklaras nedan:
 |    ExecuteNow     |    `ExecuteNow` flagga som angetts när rapporten skapades     |
 |    StartTime     |    UTC-tid då rapportkörningen börjar i det här formatet: yyyy-MM-ddTHH:mm:ssZ     |
 |    ReportStatus     |    Status för rapportkörningen. Möjliga värden är `Paused` , `Active` och `Inactive`     |
-|    RecurrenceInterval     |    Upprepningsintervall som anges när rapporten skapas     |
-|    RecurrenceCount     |    Upprepningsantal som anges när rapporten skapas.      |
+|    RecurrenceInterval     |    Upprepningsintervall som angavs när rapporten skapades     |
+|    RecurrenceCount     |    Upprepningsantal som angavs när rapporten skapades.      |
 |    CallbackUrl     |    Motringning-URL som anges i begäran     |
 |    CallbackMethod     |    Återanropsmetod som anges i begäran     |
 |    Format     |    Format för rapportfilerna. Möjliga värden är `CSV` eller `TSV` .     |
@@ -284,10 +284,10 @@ Viktiga definitioner av element i svaret förklaras nedan:
 
 ## <a name="get-report-execution-api"></a>Hämta API för rapportkörning
 
-Du kan använda den här metoden för att fråga efter status för en rapportkörning med hjälp av ReportId som togs emot från [API:et För att skapa rapport.](#create-report-api) Metoden returnerar nedladdningslänken för rapporten om rapporten är redo för nedladdning. Annars returnerar metoden statusen. Du kan också använda det här API:et för att hämta alla körningar som har inträffat för en viss rapport.  
+Du kan använda den här metoden för att fråga efter status för en rapportkörning med hjälp av ReportId som tas emot från [Skapa rapport-API.](#create-report-api) Metoden returnerar nedladdningslänken för rapporten om rapporten är redo för nedladdning. Annars returnerar metoden statusen. Du kan också använda det här API:et för att hämta alla körningar som har inträffat för en viss rapport.  
 
 >[!IMPORTANT]
->Det här API:et har standardfrågeparametrar för `executionStatus=Completed` och `getLatestExecution=true` . Om API:et anropas innan den första lyckade körningen av rapporten returneras därför 404. Väntande körningar kan hämtas genom att ange `executionStatus=Pending` .
+>Det här API:et har standardfrågeparametrar för `executionStatus=Completed` och `getLatestExecution=true` . Därför returnerar anrop av API:et före den första lyckade körningen av rapporten 404. Väntande körningar kan hämtas genom att ange `executionStatus=Pending` .
 
 ### <a name="request-syntax"></a>Begärandesyntax
 
@@ -297,25 +297,25 @@ Du kan använda den här metoden för att fråga efter status för en rapportkö
 
 ### <a name="request-header"></a>Begärandehuvud
 
-|    Huvud     |    Typ     |    Description     |
+|    Huvud     |    Typ     |    Beskrivning     |
 |-------|-----|------|
 |    Auktorisering     |    sträng |Krävs. Åtkomsttoken Azure Active Directory (Azure AD). Formatet är  `Bearer <token>` .|
 |    Content-Type     |sträng |`Application/JSON` |
 
 ### <a name="path-parameter"></a>Sökvägsparameter
 
-|    Parameternamn    |    Krävs    |    Typ    |    Description    |
+|    Parameternamn    |    Krävs    |    Typ    |    Beskrivning    |
 |    ----    |    ----    |    ----    |    ----    |
-|    reportId    |    Ja    |    sträng    |    Filtrera för att hämta körningsinformation för endast rapporter med reportId som anges i det här argumentet. Flera reportIds kan anges genom att avgränsa dem med ett semikolon ";".    |
+|    reportId    |    Ja    |    sträng    |    Filtrera för att hämta körningsinformation för endast rapporter med reportId som anges i det här argumentet. Flera reportIds kan anges genom att avgränsa dem med semikolon ";".    |
 |        |        |        |        |
 
 ### <a name="query-parameter"></a>Frågeparameter
 
-|    Parameternamn    |    Krävs    |    Typ    |    Description    |
+|    Parameternamn    |    Krävs    |    Typ    |    Beskrivning    |
 |    ----    |    ----    |    ----    |    ----    |
-|    executionId    |    Inga    |    sträng    |    Filtrera för att hämta information om endast rapporter med executionId som anges i det här argumentet. Flera executionIds kan anges genom att avgränsa dem med ett semikolon ";".    |
+|    executionId    |    Inga    |    sträng    |    Filtrera för att hämta information om endast rapporter med executionId som anges i det här argumentet. Flera executionIds kan anges genom att avgränsa dem med semikolon ";".    |
 |    executionStatus    |    Inga    |    Sträng/uppräkning    |    Filtrera för att hämta information om endast rapporter med executionStatus som anges i det här argumentet. <br> Giltiga värden är: `Pending` `Running` , och `Paused` `Completed` . <br> Standardvärdet är `Completed`. <br> Flera statusar kan anges genom att avgränsa dem med semikolon ";".    |
-|    getLatestExecution    |    Inga    |    boolean    |    API:et returnerar information om den senaste körningen. Som standard är den här parametern inställd på true.<br> Om du väljer att skicka värdet för den här parametern som false returnerar API:et de senaste 90 dagarnas körningsinstanser.    |
+|    getLatestExecution    |    Inga    |    boolean    |    API:et returnerar information om den senaste körningen. Som standard är den här parametern inställd på sant.<br> Om du väljer att skicka värdet för den här parametern som false returnerar API:et de senaste 90 dagarnas körningsinstanser.    |
 |        |        |        |        |
 
 ### <a name="sample-request-payload"></a>Exempel på nyttolast för begäran
@@ -366,13 +366,13 @@ Viktiga definitioner av element i svaret.
 |    ----    |    ----    |
 |    ExecutionId    |    Universell unik identifierare (UUID) för körningsinstansen    |
 |    ReportId    |    Rapport-ID som är associerat med körningsinstansen    |
-|    RecurrenceInterval    |    Upprepningsintervall som anges när rapporten skapas    |
-|    RecurrenceCount    |    Antal upprepningar som anges när rapporten skapas    |
+|    RecurrenceInterval    |    Upprepningsintervall som angavs när rapporten skapades    |
+|    RecurrenceCount    |    Antal upprepningar som angavs när rapporten skapades    |
 |    CallbackUrl    |    Motringning-URL som är associerad med körningsinstansen    |
 |    CallbackMethod    |    Återanropsmetod som är associerad med körningsinstansen    |
 |    Format    |    Format för den genererade filen i slutet av körningen    |
 |    ExecutionStatus    |    Status för rapportkörningsinstansen. <br> Giltiga värden är: `Pending` `Running` , , `Paused` och `Completed`    |
-|    ReportAccessSecureLink    |Länk genom vilken rapporten kan nås på ett säkert sätt        |
+|    ReportAccessSecureLink    |Länka genom vilken rapporten kan nås på ett säkert sätt        |
 |    ReportExpiryTime    |    UTC-tid efter vilken rapportlänken upphör att gälla i det här formatet: yyyy-MM-ddTHH:mm:ssZ    |
 |    ReportGeneratedTime    |    UTC-tid då rapporten genererades i det här formatet: yyyy-MM-ddTHH:mm:ssZ    |
 |    TotalCount    |    Antal datauppsättningar i värdematrisen    |
@@ -382,5 +382,5 @@ Viktiga definitioner av element i svaret.
 
 ## <a name="next-steps"></a>Nästa steg
 
-- Testa API:erna via [Swagger API-URL:en](https://api.partnercenter.microsoft.com/insights/v1/mpn/swagger/index.html)
+- Prova API:erna via [Swagger API-URL:en](https://api.partnercenter.microsoft.com/insights/v1/mpn/swagger/index.html)
 - [Gör ditt första API-anrop](insights-programmatic-first-api-call.md)

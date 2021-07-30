@@ -3,27 +3,27 @@ title: Priser och erbjudanden
 ms.topic: article
 ms.date: 01/07/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Se aktuella prislistor för licensbaserade tjänster som Office 365, Microsoft Dynamics CRM och Enterprise Mobility Suite samt användningsbaserade tjänster som Azure.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0d4d6ee9d3352a7af2894e33411b7e2b69c360a8
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: 87f3f287c02b6dfe4af3f70a0985e8290e76a4e3
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114434123"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841087"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Priser och erbjudanden för Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure med mera
 
 
-**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Administratörsagentens | MPN-partneradministratör | Försäljningsagentens | Faktureringsadministratör
+**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Administratörsagent | MPN-partneradministratör | Försäljningsagentens | Faktureringsadministratör
 
 Om du vill se Molnlösningsleverantör senaste CSP-program (CSP) från instrumentpanelen i Partnerportalen går du **till > priser och erbjudanden.** Du hittar separata prislistor för de olika typer av produkter som är tillgängliga. Följande prislistor finns på sidan **Priser och** erbjudanden:
 
-- **Licensbaserade tjänster innehåller** prisinformation för Office 365, Enterprise Mobility och Security E3 och Dynamics 365. Avsnittet Licensbaserad prissättning innehåller aktuella priser och förhandsversionspriser samt erbjudandelistans matris. Prislistorna innehåller listpris och uppskattade detaljhandelspriser (ERP) för erbjudanden i alla valutor som stöds. Matrisen med erbjudandelistor innehåller marknadstillgänglighet och annan viktig information om erbjudandena. De här filerna uppdateras den första dagen i varje månad.
+- **Licensbaserade tjänster innehåller** prisinformation för Office 365, Enterprise Mobility och Security E3 och Dynamics 365. Avsnittet licensbaserad prissättning innehåller aktuella priser och förhandsversioner samt matrisen med erbjudandelistor. Prislistorna innehåller listpris och uppskattade detaljhandelspriser (ERP) för erbjudanden i alla valutor som stöds. Matrisen med erbjudandelistor innehåller marknadstillgänglighet och annan viktig information om erbjudandena. De här filerna uppdateras den första dagen i varje månad.
    > [!NOTE]
    > List- och ERP-priser gäller för månatlig faktureringsfrekvens. För årlig faktureringsfrekvens multiplicerar du månadspriset med 12.
 - **Användningsbaserade tjänster** innehåller prisinformation för Microsoft Azure och Visual Studio. Du kan också använda [Azure-tjänsterna i priskalkylatorn för CSP.](https://azure.microsoft.com/pricing/calculator/) Den användningsbaserade nedladdningen innehåller både CSP-prislistorna för alla valutor som stöds och prisfilerna för delade tjänster i ERP. De här filerna uppdateras den första dagen i varje månad.
@@ -54,7 +54,7 @@ Licensbaserade tjänster innehåller en förhandsversion av prislistan, som till
 |Inköpsenhet   |Varaktigheten för erbjudandet som köps. Inköpsenheter är vanligtvis en månad.   |
 |Sekundär licenstyp   |Sekundära licenstyper är antingen icke-specifika, tillägg eller utvärderingsversion. Tillägg anger att det finns nödvändiga produkter som kunden måste köpa innan de köper tillägget.|
 |Slutkundtyp   |Relaterar tillbaka till licensavtalstypen: företagslicens – företagets molnåterförsäljare, myndighetslicens – molnåterförsäljares myndighetslicens eller akademisk licens – lärare och lärare i molnet eller molnåterförsäljare   |
-|Listpris   |Det pris som partnern betalar   |
+|Listpris   |Det pris som partnern ska betala   |
 |ERP-pris   |Beräknat eller rekommenderat detaljhandelspris för kunden   |
 
 ## <a name="price-changes"></a>Prisändringar
@@ -142,12 +142,12 @@ Det finns cirka 50 Dynamics-erbjudanden med treårsvillkor. Dessa identifieras a
 
 - Villkoren är 36 månader, prenumerationer förnyas automatiskt efter tre år
 - Partner kan avbryta eller ändra antalet licenser under prenumerationsperioden
-- Den årliga förnyelsen kommer att ske enligt inköpspriset för den tre år långa perioden
+- Årlig förnyelse kommer att ske enligt inköpspriset för den treårsperiod som gäller
 - Faktureringsfrekvensen är fortfarande per år eller månad
 
 ### <a name="72-month-offers"></a>72 månaders erbjudanden
 
-Microsoft 365 A1 baserbjudandet har en sexårs period.  De Office 365 A1 tillägg är tillgängliga när du har köpt det här baserbjudandet. 
+Microsoft 365 A1 baserbjudandet har en period på sex år.  De Office 365 A1 tillägg är tillgängliga när du har köpt baserbjudandet. 
 
 |**Erbjudandets namn**   |**Erbjudande-ID**   |**Typ**|
 |-------------------|-----------------------|----------------------------|
@@ -160,22 +160,22 @@ Nedan visas en sammanfattning av hur dessa erbjudanden fungerar:
 - Perioden gäller i 72 månader eller sex år
 - Prenumerationen förnyas inte och upphör att gälla efter sex år
 - Faktureringsfrekvensen för erbjudandet visas som årlig, men partnern faktureras direkt på sin första faktura efter att ha skaffat prenumerationen
-- Prenumerationer för A1 72-månaderserbjudanden låses efter köpet och kan inte avbrytas och licensantal kan inte läggas till i prenumerationen efter det första köpet
+- Prenumerationer på A1 72-månaderserbjudanden låses efter köpet och kan inte avbrytas och antalet licenser kan inte läggas till i prenumerationen efter det första köpet
 - Den här prenumerationen kan inte avbrytas och kan inte återbetalas.
 
 ## <a name="estimated-retail-price-erp"></a>Beräknat detaljhandelspris (ERP)
 
-De flesta prislistor innehåller ett listpris, det pris som partnern faktureras och det uppskattade detaljhandelspriset. Erp (Estimated retail price) kallas även Microsofts föreslagna detaljhandelspris eller MSRP. Dessa två värden, ERP och MSRP, representerar det uppskattade marknadsvärdet för produkterna om en kund skulle köpa produkterna direkt från Microsoft. Nedan visas var du hittar ERP-/MSRP-information för varje typ av produkt eller tjänst. 
+De flesta prislistor innehåller ett listpris, det pris som partnern faktureras och det uppskattade detaljhandelspriset. ERP (Estimated Retail Price) kallas även Microsofts föreslagna detaljhandelspris eller MSRP. Dessa två värden, ERP och MSRP, representerar det uppskattade marknadsvärdet för produkterna om en kund skulle köpa produkterna direkt från Microsoft. Nedan visas var du hittar ERP/MSRP-information för varje typ av produkt eller tjänst. 
 
 
 |**Produkt eller tjänst**        |**Prislista för ERP och MSRP**      |
 |:-----------   |:-----------   |
 |Produkt eller tjänst  |Prislista för ERP och MSRP  |
-|Licensbaserade tjänster  |Anges som ERP i licensbaserade prislistor  |
+|Licensbaserade tjänster  |Anges som ERP i de licensbaserade prislistorna  |
 |Användningsbaserade tjänster i Azure  |Finns i motsvarande prislistor för delade tjänster  |
 |Azure-reservationer  |Finns i motsvarande prislistor för delade tjänster  |
-|Användningsbaserad azure-plan  |Priserna är detaljhandel, inte rabatterade i prismallar  |
-|Azure-planreservationer  |Referera till prislistor för delade Azure-reservationer  |
+|Användningsbaserad azure-plan  |Priserna är detaljhandelspriser som inte rabatteras i prismallar  |
+|Reservationer för Azure-plan  |Referera till prislistor för delade Azure-reservationer  |
 |Programvaruprenumerationer  |Listad som MSRP i prislistor för programvaruprenumerationer  |
 |Marketplace  |Visas som MSRP i Marketplace-prislistor  |
 

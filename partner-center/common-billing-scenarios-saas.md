@@ -3,29 +3,29 @@ title: Fakturering – licensbaserade SaaS-transaktioner
 ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 description: Lär dig mer om vanliga faktureringsscenarier i Partnercenter för licensbaserade SaaS-transaktioner (programvara som en tjänst).
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 764d5a3cb0dc6f409e5272d4119424396caff53b
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 9568a014de926682dd89dd9d06d1c6ca5b98ac71
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148643"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840730"
 ---
 # <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>Vanliga faktureringsscenarier för licensbaserade SaaS-transaktioner i Partnercenter
 
-**Lämpliga roller:** Administratörsagent | Faktureringsadministratörskonto | Supportagent för | Försäljningsagent
+**Lämpliga roller:** Administratörsagent | Faktureringsadministratörskonto | Supportagent | Försäljningsagent
 
 
 Dessa exempel [på vanliga faktureringsscenarier](common-billing-scenarios.md) gäller för licensbaserade SaaS-prenumerationer (programvara som en tjänst) i Partnercenter.
 
-## <a name="convert-a-free-trial-saas-subscription-to-a-paid-subscription"></a>Konvertera en kostnadsfri utvärderingsversion av En SaaS-prenumeration till en betald prenumeration
+## <a name="convert-a-free-trial-saas-subscription-to-a-paid-subscription"></a>Konvertera en kostnadsfri Utvärderingsversion av SaaS-prenumeration till en betald prenumeration
 
-Det här scenariot beskriver fakturering för förnyelse av en licensbaserad kostnadsfri utvärderingsversion av SaaS-prenumeration. Förnyelsen konverterar den kostnadsfria utvärderingsversionen till en betald prenumeration i slutet av den kostnadsfria utvärderingsperioden.
+I det här scenariot beskrivs fakturering för förnyelse av en licensbaserad kostnadsfri utvärderingsprenumeration på SaaS. Förnyelsen konverterar den kostnadsfria utvärderingsversionen till en betald prenumeration i slutet av den kostnadsfria utvärderingsperioden.
 
 I det här exemplet köpte du en kostnadsfri utvärderingsversion av en licensbaserad SaaS-prenumeration (programvara som en tjänst) den 10 juni. Den här kostnadsfria utvärderingsversionen förnyas automatiskt som en betald prenumeration när den kostnadsfria utvärderingsperioden upphör.
 
@@ -41,7 +41,7 @@ Rekognoseringsfilerna inkluderar följande avgifter:
 > [!TIP]
 > Du kan avbryta en licensbaserad kostnadsfri utvärderingsprenumeration på SaaS när som helst, även under den kostnadsfria utvärderingsperioden.
 
-I det här scenariot köpte du en licensbaserad kostnadsfri utvärderingsprenumeration på SaaS den 1 juli och avbröt den sedan direkt i Partnercenter.
+I det här scenariot köpte du en licensbaserad kostnadsfri utvärderingsprenumeration på SaaS den 1 juli och avbröt den sedan omedelbart i Partnercenter.
 
 Rekognoseringsfilen innehåller följande avgifter:
 
@@ -52,9 +52,9 @@ Rekognoseringsfilen innehåller följande avgifter:
 
 ## <a name="convert-custom-meter-saas-subscription-to-another-sku"></a>Konvertera anpassad SaaS-mätare-prenumeration till en annan SKU
 
-I det här scenariot beskrivs hur du konverterar en anpassad SaaS-mätare-prenumeration från en lagerhållningsenhet (SKU) till en annan SKU för samma produkt, samma datum.
+Det här scenariot beskriver hur du konverterar en anpassad SaaS-mätare-prenumeration från en lagerhållningsenhet (SKU) till en annan SKU för samma produkt, på samma datum.
 
-I det här scenariot köpte du en SKU (Silver) under en produkt och konverterade den till en annan tillgänglig SKU (Brons) under den här produkten samma datum.
+I det här scenariot har du köpt en SKU (Silver) under en produkt och konverterat den till en annan tillgänglig SKU (Brons) under den här produkten på samma datum.
 
 Rekognoseringsfilen innehåller följande avgifter:
 

@@ -3,18 +3,18 @@ title: Hitta klientorganisations-ID, domännamn, användarobjekt-ID
 ms.topic: how-to
 ms.date: 11/06/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Lär dig hur du hittar ID:n i Azure Portal – en organisations Azure AD-klientorganisations-ID, domännamn eller specifikt användarobjekt-ID. Vissa uppgifter behöver den här informationen.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 5da41cdbfa7aa1780b31e170a2398e8e7c65df27
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 2c313896419053627dd646783a1df2f1bf53753a
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150870"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840543"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Hitta viktiga ID:er för en användare
 
@@ -22,7 +22,7 @@ ms.locfileid: "110150870"
 
 Den här artikeln beskriver hur du använder [Azure Portal](https://portal.azure.com/) för att hitta följande information för en användare:
 
-- Det Microsoft Azure Active Directory (Azure AD)-klient-ID:t för användarens organisation eller företag
+- Det Microsoft Azure Active Directory klientorganisations-ID :t (Azure AD) för användarens organisation eller företag
 
 - Det primära domännamnet för den organisation eller det företag som är associerat med Azure AD-klientorganisationen
 
@@ -30,20 +30,20 @@ Den här artikeln beskriver hur du använder [Azure Portal](https://portal.azure
 
 ## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a>Hitta Microsoft Azure AD klientorganisations-ID och primärt domännamn
 
-Följ dessa steg för att hitta Azure AD-klientorganisations-ID:t eller det primära domännamnet i Azure Portal. (Om du vill hitta ett klient-ID programmässigt kan du se [Hitta klientorganisations-ID med PowerShell eller CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant#find-tenant-id-with-powershell).)
+Följ dessa steg för att hitta Azure AD-klientorganisations-ID:t eller det primära domännamnet i Azure Portal. (Om du vill hitta ett klient-ID programmässigt kan du se [Hitta klient-ID med PowerShell eller CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant#find-tenant-id-with-powershell).)
 
 > [!NOTE]
-> Klientorganisations-ID:t kan kallas olika namn i olika program eller resurser. Till exempel kan klient-ID kallas katalog-ID, Azure Active Directory (Azure AD)-klient, Microsoft-ID eller för vissa rapporter, även *tenantguid*.
+> Klientorganisations-ID:t kan kallas olika namn i olika program eller resurser. Klientorganisations-ID:t kan till exempel kallas katalog-ID, Azure Active Directory-klientorganisation (Azure AD), Microsoft-ID eller för vissa rapporter, även *tenantguid*.
 
 1. Logga in på [Azure-portalen](https://portal.azure.com/).
 
 2. Välj **Azure Active Directory** på menyn.
 
-   :::image type="content" source="images/id/1-find-id-azure-portal-home-screen.png" alt-text="Visar Azure Portal du väljer Azure Active Directory på menyn.":::
+   :::image type="content" source="images/id/1-find-id-azure-portal-home-screen.png" alt-text="Visar Azure Portal väljer Azure Active Directory på menyn.":::
 
-3. En Azure Active Directory **översiktssida** visas. Leta reda på Azure AD-klient-ID eller primärt domännamn genom att leta efter fältet **Klientorganisations-ID** och **fältet Primär** domän. Dessa fält visas i avsnittet Klientinformation.
+3. En Azure Active Directory **översiktssida** visas. Om du vill hitta Azure AD-klientorganisations-ID:t eller det primära domännamnet letar du upp fältet **Klientorganisations-ID** och **fältet Primär** domän. Dessa fält visas i avsnittet Klientinformation.
 
-   :::image type="content" source="images/id/2-find-id-azure-portal-azure-ad-overview-tenant-id-partial-screen.png" alt-text="Visar översiktssidan med två markerade fält, klientorganisations-ID och primärt domännamn.":::
+   :::image type="content" source="images/id/2-find-id-azure-portal-azure-ad-overview-tenant-id-partial-screen.png" alt-text="Visar sidan Översikt med två markerade fält, klientorganisations-ID och primärt domännamn.":::
 
 4. Du hittar klientorganisations-ID:t i Azure Portal på några andra sätt. Välj **Azure Active Directory** på menyn. Leta sedan upp **avsnittet** Hantera på menyn och välj **Egenskaper.**
 
@@ -77,7 +77,7 @@ Att bara hitta domännamnet och klientorganisations-ID:t kanske inte alltid räc
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Hitta ditt klient-ID programmässigt med PowerShell eller CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
+- [Hitta ditt klientorganisations-ID programmässigt med PowerShell eller CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
 - [Läs mer om användarprofiler i Azure Active Directory](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 - [Ta reda på hur partner kan se eller exportera kundinformation i Partnercenter](see-your-customer-list.md)
 

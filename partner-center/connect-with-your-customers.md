@@ -3,18 +3,18 @@ title: Få kontakt med dina kunder
 description: Om du är en indirekt återförsäljare i CSP-programmet kan den här artikeln hjälpa dig att ansluta till dina nya och befintliga kunder.
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 ms.custom: contperf-fy21q2
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: 6fe2eb7af3fbfa826496c1de409675cd84d92ef5
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 9d9798bdbf83bbe7d812f5bbf83b81fb8fcde373
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148439"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840288"
 ---
 # <a name="connect-with-customers"></a>Få kontakt med kunder
 
@@ -24,9 +24,9 @@ ms.locfileid: "110148439"
 
 För att kunna samarbeta med kunder i Partnercenter måste dina kunder ha PartnerCenter-konton och du måste upprätta återförsäljarrelationer med dem. För att den indirekta leverantören ska kunna köpa prenumerationer och tjänster för dina kunders räkning måste leverantören också ha återförsäljarrelationer med dina kunder.
 
-## <a name="connect-with-existing-customers"></a>Ansluta till befintliga kunder
+## <a name="connect-with-existing-customers"></a>Anslut med befintliga kunder
 
-När du har registrerat dig som indirekt återförsäljare visas samma kunder i Partnercenter som du redan gör affärer med i andra portaler. Andra portaler är administrationscenter för Office 365 eller Azure Portal. Om du vill se din kundlista väljer **du Kunder** på menyn **i Partnercenter.**
+När du har registrerat dig som indirekt återförsäljare visas samma kunder i Partnercenter som du redan gör affärer med i andra portaler. Andra portaler är Office 365 administrationscenter eller Azure Portal. Om du vill se din kundlista väljer **du Kunder** på menyn **i Partnercenter.**
 
 När du ansluter med en indirekt leverantör får du inte automatiskt den indirekta leverantörens kunder. På samma sätt visas inte de kunder som du arbetar med på egen hand eller via din indirekta leverantör, men inte via Partnercenter, automatiskt i kundlistan när du registrerar dig i Partnercenter. Du måste upprätta en återförsäljarrelation med kunder för att kunna göra en överträdelse i Partnercenter.  För att göra det skickar du en inbjudan via e-post till dem för att ansluta till dig i Partnercenter, enligt beskrivningen nedan.
 
@@ -44,7 +44,7 @@ När du ansluter med en indirekt leverantör får du inte automatiskt den indire
 
 5. Om du vill hantera kundens konto, tjänster, användare och licenser expanderar du kundens post genom att välja nedåtpilen nära kundens namn.
 
-## <a name="connect-with-new-customers"></a>Ansluta till nya kunder
+## <a name="connect-with-new-customers"></a>Anslut med nya kunder
 
 När du lockar nya kunder måste du ansluta till dem i Partnercenter. Du kan få nya kunder via flera kanaler, inklusive:
 
@@ -66,7 +66,7 @@ Om du vill få administratörsbehörighet att  hantera en ny kunds prenumeration
 
    Du kan redigera texten i e-postmeddelandet. Se bara till att inkludera länken eftersom den är anpassad för att länka kunden direkt till både ditt konto och leverantörens konto. Välj **Klar** när du har slutfört det här steget.
 
-4. När kunden har godkänt dig och din leverantör att bli återförsäljare av posten har du administratörsbehörighet att hantera deras prenumerationer, licenser och användare för deras räkning. Din indirekta leverantör kan också skicka beställningar åt dem.
+4. När kunden har godkänt dig och din leverantör att bli återförsäljare av posten, har du administratörsbehörighet för att hantera deras prenumerationer, licenser och användare för deras räkning. Din indirekta leverantör kan också skicka beställningar åt dem.
 
 5. Om du vill hantera kundens konto, tjänster, användare och licenser expanderar du kundens post genom att välja nedåtpilen nära kundens namn.
 
@@ -74,18 +74,18 @@ Om du vill få administratörsbehörighet att  hantera en ny kunds prenumeration
 
 Om du vill ta bort relationen med en kund utför du stegen nedan:
 
-1.  Från Partnercenter går du till **Kunder och** väljer den kund vars relation du vill ta bort.
+1.  Från Partnercenter går du till **Kunder** och väljer den kund vars relation du vill ta bort.
 
-2.  Välj **Konto.**
+2.  Välj **Kontot**.
 
 3.  Välj **Ta bort kundrelation.**
 
 4.  Kunden visas inte längre i kundlistan.
 
 >[!IMPORTANT]
->Om du har upprättat en relation med en kund och tar bort den relationen förblir alla delegerade administratörsbehörigheter som beviljas oförändrade.
+>Om du har upprättat en relation med en kund och du tar bort den relationen förblir alla delegerade administratörsbehörigheter som beviljas oförändrade.
 >Du representerar att beslutet att avbryta din relation med kunden har gjorts i god tro, för ett legitimt affärssyfte och i enlighet med ditt avtal med din kund eller partner, och du samtycker till att skydda och hålla Microsoft oförseligt från och mot eventuella anspråk från tredje part till motsatsen.
->Du måste tillhandahålla juridisk information om uppsägning till din kund eller partner om ditt avtal kräver det. Det här verktyget genererar inget meddelande till kunden eller partnern.
+>Du måste ge ett juridiskt meddelande om uppsägning till din kund eller partner om ditt avtal kräver det. Det här verktyget genererar inte meddelanden till kunden eller partnern.
 
 ## <a name="next-steps"></a>Nästa steg
 

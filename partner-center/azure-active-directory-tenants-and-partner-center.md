@@ -2,19 +2,19 @@
 title: Länka ditt arbetskonto för att få åtkomst till Partnercenter
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Skapa ett arbetskonto som länkar ditt företag till ditt Partnercenter-konto. Detta gör att anställda i ditt företag kan komma åt Partnercenter.
 author: vinayks
 ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 6/17/2021
-ms.openlocfilehash: 69aa45de55a4356eaab1bcd4cd309feb14de9f6e
-ms.sourcegitcommit: 0410e2a3f91b7e6b592cc47e7af1dfbe468c7881
+ms.openlocfilehash: 04624db5201b3a0e57b74b43678f6f2cd134c5c9
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112318069"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841699"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Skapa ett arbetskonto som länkar ditt företag till ditt Partnercenter-konto
 

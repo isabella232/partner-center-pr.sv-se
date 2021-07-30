@@ -7,13 +7,13 @@ ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 12/04/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
-ms.openlocfilehash: bcdb6b4da0911eb9b6600218f926517d9ef1728e
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.subservice: partnercenter-enroll
+ms.openlocfilehash: af342ef92613adbeb7ac37e0dd5e813949e67e03
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431681"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840764"
 ---
 # <a name="value-added-tax-vat-information"></a>Information om mervärdesskatt (moms)
 
@@ -24,7 +24,7 @@ Om du måste ange ett momsregistreringsnummer (moms) under registreringsprocesse
 
 ## <a name="understanding-vat-numbers"></a>Förstå momsnummer
 
-Ett momsnummer är en identifierare som används för länder eller regioner i EU. Mer information finns på EU:s officiella webbplats [för VAT Information Exchange System (VIES).](http://ec.europa.eu/taxation_customs/vies/vieshome.do)
+Ett momsnummer är en identifierare som används för länder eller regioner i EU. Mer information finns på EU:s officiella webbplats [för momsinformation Exchange System (VIES).](http://ec.europa.eu/taxation_customs/vies/vieshome.do)
 
 ## <a name="location-specific-vat-information"></a>Platsspecifik momsinformation
 

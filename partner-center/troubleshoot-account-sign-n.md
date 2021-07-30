@@ -3,18 +3,18 @@ title: Felsöka problem med att konfigurera ditt Partnercenter-konto eller MPN-f
 ms.topic: how-to
 ms.date: 08/18/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-enroll
 description: Felsöka problem när du försöker registrera i Partnercenter. Svar på problem med betalningsmetoder, att glömma lösenord och mycket annat.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4fc1a43b4d525d9221ac7e4db56f5f278404e3f5
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.openlocfilehash: 0d35930082b6bbbbceee26af83b563d70b638cef
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431757"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840798"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Felsöka problem med kontokonfiguration eller MPN-förnyelse
 
@@ -45,7 +45,7 @@ Om du har glömt ditt lösenord går du till inloggningssidan och väljer **Kan 
 
 ## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>På skärmen "Berätta om ditt företag" visas felmeddelandet "Något gick fel"
 
-Det här felmeddelandet visas vanligtvis om du oavsiktligt använder specialtecken, blanksteg eller landskod i företagets telefonnummer. Värdet som anges i fältet Telefonnummer får bara innehålla högst 10 tecken.
+Det här felmeddelandet visas vanligtvis om du oavsiktligt använder specialtecken, blanksteg eller landskod i företagets telefonnummer. Värdet som anges i Telefon Number får bara innehålla högst 10 tecken.
 
 
 ### <a name="your-credit-card-purchase-is-receiving-an-error-message-stating-that-your-order-was-declined-please-verify-your-information"></a>Ditt kreditkortsköp får ett felmeddelande om att "Din beställning nekades. Verifiera din information"

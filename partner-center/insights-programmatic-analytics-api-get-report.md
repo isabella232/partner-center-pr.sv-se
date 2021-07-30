@@ -3,17 +3,17 @@ title: Hämta rapport-API – Insights data
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Använd det här API:et för att hämta alla tillgängliga rapport-ID:n i Partnercenter-insikter.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 174a2f60a36cb46b287b787b177dd32236cef4eb
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: dc0e3925aeb07adc0e2b38af2913c63d3183941e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377202"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841359"
 ---
 # <a name="get-report-api"></a>Hämta rapport-API
 
@@ -28,7 +28,7 @@ Det här API:et hämtar alla rapporter som har schemalagts.
 
 **Begärandehuvud**
 
-|    Huvud    |    Typ    |    Description    |
+|    Huvud    |    Typ    |    Beskrivning    |
 |    ----    |    ----    |    ----    |
 |    Auktorisering    |    sträng    |    Krävs. Åtkomsttoken Azure Active Directory (AAD) i formuläret`Bearer <token>`    |
 |    Content-Type    |    sträng    |    `Application/JSON`    |
@@ -100,11 +100,11 @@ Den här tabellen definierar nyckelelementen i svaret:
 |    ----    |    ----    |
 |    ReportId     |    Unikt UUID för rapporten som skapades     |
 |    ReportName     |    Namn som ges till rapporten i nyttolasten för begäran     |
-|    Description     |    Beskrivning som gavs när rapporten skapades     |
+|    Beskrivning     |    Beskrivning som gavs när rapporten skapades     |
 |    QueryId     |    Fråge-ID som skickades när rapporten skapades     |
 |    Söka i data     |    Frågetext som ska köras för den här rapporten     |
 |    Användare     |    Användar-ID som används för att skapa rapporten     |
-|    CreatedTime     |    Tid då rapporten skapades. Tidsformatet är yyyy-MM-ddTHH:mm:ssZ     |
+|    CreatedTime     |    Den tid då rapporten skapades. Tidsformatet är yyyy-MM-ddTHH:mm:ssZ     |
 |    ModifiedTime     |    Tid då rapporten senast ändrades. Tidsformatet är yyyy-MM-ddTHH:mm:ssZ     |
 |    executeNow     |    ExecuteNow-flaggan som angetts när rapporten skapades    |
 |    StartTime     |    Tidskörningen börjar. Tidsformatet är yyyy-MM-ddTHH:mm:ssZ     |

@@ -3,18 +3,18 @@ title: Utveckla din verksamhet med Microsoft-hänvisningar
 ms.topic: article
 ms.date: 06/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-referrals
 description: Lär dig hur du skapar en företagsprofil för att generera leads via referensfunktionen i Partnercenter och sedan svara på dessa hänvisningar.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2f37a14cd8987b6bddc96594ebf622f8e7be59b0
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: c382f9453f2b491de48e6cdb68dcdac82e4486ea
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855870"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841002"
 ---
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>Låt företaget växa med hänvisningar från Microsoft
 

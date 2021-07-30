@@ -3,21 +3,21 @@ title: Ta bort rapport-API – Insights data
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Använd det här API:et för att ta bort alla rapporter i Partner Center-insikter.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: e060104f8f09f69c213ab1b22d4be08d58babced
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: a8a94fc1a6e69bab0a7671bd27949e271a77dbbe
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377214"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840067"
 ---
 # <a name="delete-report-api"></a>Ta bort rapport-API
 
-Vid körning tar det här API:et bort alla rapport- och rapportkörningsposter.
+Vid körning tar det här API:et bort alla poster för rapport- och rapportkörning.
 
 **Begärandesyntax**
 
@@ -28,7 +28,7 @@ Vid körning tar det här API:et bort alla rapport- och rapportkörningsposter.
 
 **Begärandehuvud**
 
-|    Huvud    |    Typ    |    Description    |
+|    Huvud    |    Typ    |    Beskrivning    |
 |    ----    |    ----    |    ----    |
 |    Auktorisering    |    sträng    |    Krävs. Åtkomsttoken Azure Active Directory (AAD) i formuläret`Bearer <token>`    |
 |    Content-Type    |    sträng    |    `Application/JSON`    |
@@ -97,7 +97,7 @@ Den här tabellen definierar nyckelelementen i svaret:
 |    ----    |    ----    |
 |    ReportId     |    Universell unik identifierare (UUID) för den borttagna rapporten     |
 |    ReportName     |    Namn som ges till rapporten när den skapas     |
-|    Description     |    Beskrivning som ges när rapporten skapas     |
+|    Beskrivning     |    Beskrivning som ges när rapporten skapas     |
 |    QueryId     |    Fråge-ID som skickades när rapporten skapades     |
 |    Söka i data     |    Frågetext som ska köras för den här rapporten     |
 |    Användare     |    Användar-ID som används för att skapa rapporten     |

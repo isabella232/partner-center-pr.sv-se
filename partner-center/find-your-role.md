@@ -3,18 +3,18 @@ title: Hitta den roll som du har tilldelats
 description: Lär dig vart du går i Partnercenter för att hitta den roll som du har tilldelats, dina behörigheter och din globala administratör.
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-enroll
 ms.custom: contperf-fy21q2
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: 10cb5971584378691e9cbe50029926944e023b51
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: ea42372fe9a39dc0a58c83957d2bccb0405bd54e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150836"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840692"
 ---
 # <a name="find-your-role-your-permissions-and-your-global-admin"></a>Hitta din roll, dina behörigheter och din globala administratör
 
@@ -49,7 +49,7 @@ Så här hittar du en global administratör som kan göra rolländringar eller t
 
 ## <a name="get-a-new-global-admin-assigned-to-your-company"></a>Få en ny global administratör tilldelad till ditt företag
 
-Om din globala administratör lämnar företaget måste någon annan fylla den här rollen. Skicka ett ärende till antingen Azure- eller Office 365-teamet. Om du vill ha information om hur du gör detta väljer du något av alternativen nedan.
+Om din globala administratör lämnar företaget måste någon annan fylla den här rollen. Skicka ett ärende till antingen Azure- Office 365 teamet. Om du vill ha information om hur du gör detta väljer du något av alternativen nedan.
 
 [Ny global administratör för Azure](https://support.microsoft.com/help/4505981/what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company)
 

@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 05/20/2021
-ms.openlocfilehash: 9bcdd9e99f9db5271a1ca51dab01c376c938acc9
-ms.sourcegitcommit: 75b84d0918802325019577930d368bc3df193ab2
+ms.openlocfilehash: b540f3f667095704bddd78873faac94246fbf59a
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "110236091"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840407"
 ---
 # <a name="use-these-resources-to-make-customer-association-claims-for-specific-incentives-programs"></a>Använd dessa resurser för att göra anspråk på kundassociatorer för specifika incitamentsprogram
 
@@ -29,15 +29,15 @@ Om du uppfyller kriterierna måste du använda CPOR-modellen (Claiming Partner o
 
 ## <a name="explaining-claiming-partner-of-record-cpor-to-customers"></a>Förklara Claiming Partner of Record (CPOR) för kunder
 
-CPOR gör det möjligt för Microsoft att identifiera och känna igen de partner som hjälper kunder att uppnå affärsmål och realisera värde i molnet. När en partner associerar med en arbetsbelastning eller prenumeration får de åtkomst till användnings- och/eller såldplatsdata. Åtkomst till sådana data gör det möjligt för partner att övervaka aktiv användning samtidigt som kunderna får rekommendationer om hur användningen maximeras. Partner har inte åtkomst till några andra kunddata. Dessutom hjälper CPOR-associationen Microsoft att förstå ekosystemet med tjänstleverantörer och hjälper även Microsoft att fastställa hur man förfinar de verktyg och program som behövs för att stödja våra vanliga kunder på bästa sätt. Det krävs ingen åtgärd för kunden. Vi ger kunderna möjlighet att avanmäla sig från en CPOR-association. Kunder får ett meddelande som informerar dem om associationsbegäran från partner. Om en kund nekar association till en partner identifieras inte partnern som partner för posten.
+CPOR gör det möjligt för Microsoft att identifiera och känna igen de partner som hjälper kunder att uppnå affärsmål och realisera värde i molnet. När en partner associerar med en arbetsbelastning eller prenumeration får de åtkomst till användnings- och/eller såldplatsdata. Åtkomst till sådana data gör det möjligt för partner att övervaka aktiv användning samtidigt som kunderna får rekommendationer om hur användningen maximeras. Partner har inte åtkomst till några andra kunddata. Dessutom hjälper CPOR-associationen Microsoft att förstå ekosystemet med tjänstleverantörer och hjälper även Microsoft att fastställa hur man förfinar de verktyg och program som behövs för att stödja våra vanliga kunder på bästa sätt. Det krävs ingen åtgärd för kunden. Vi ger kunderna möjlighet att avanmäla sig från en CPOR-association. Kunder får ett meddelande som informerar dem om associationsbegäran från partner. Om en kund nekar association till en partner identifieras inte partnern som partner i posten.
 
 ## <a name="how-do-customer-associations-and-cpor-relate-to-incentives"></a>Hur relaterar kundassociationer och CPOR till incitament?
 
-Microsoft använder nu CPOR-modellen (Claiming Partner of Record) för att hantera de associationer som du har med dina Microsoft 365- och Dynamics 365-kunder.
+Microsoft använder nu CPOR Claiming Partner of Record modellen för att hantera de associationer som du har med dina Microsoft 365- och Dynamics 365-kunder.
 
 Den här modellen gäller för ditt arbete med kunder i följande incitamentsprogram: Online Services Advisory (OSA) Sell, OSU (Online Services Usage)-Microsoft 365 och OSU-Business Application-incitament.
 
-Microsoft validerar alla incitamentsanspråk.
+Microsoft verifierar alla incitamentsanspråk.
 
 Nu kan vi be dig om mer information. Vi meddelar även kunden om din associationsbegäran. Kunder har fem arbetsdagar på sig att avanmäla sig. Om de inte avanmäler sig blir din koppling till den här specifika klientorganisationen och arbetsbelastningen officiell.
 
@@ -55,4 +55,4 @@ Genom att godkänna din begäran om association ger kunden dig åtkomst till vis
 ## <a name="next-steps"></a>Nästa steg
 
 - Är incitament nytt för dig? Upptäck vad du behöver för att [komma igång](incentives-get-started-intro.md)
-- Läs mer [om co-op-anspråk för incitament](claims-overview.md)
+- Läs mer om [co-op-anspråk för incitament](claims-overview.md)

@@ -3,18 +3,18 @@ title: Arbeta med indirekta leverantörer i CSP-programmet
 description: Lär dig hur indirekta återförsäljare kan arbeta med indirekta Microsoft-leverantörer (eller distributörer) för att få hjälp med kundsupport och fakturering.
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 ms.custom: contperf-fy21q2
 ms.localizationpriority: high
 author: vinayks
 ms.author: vinayks
 ms.date: 01/27/2021
-ms.openlocfilehash: f17384d128cfad041e5dcfdc68f04df48228be94
-ms.sourcegitcommit: 9667763ae6eb405314dbb96bd4fa484ec964ab58
+ms.openlocfilehash: ab99fc400f7392d43785457f817e0469f7f2c077
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/15/2021
-ms.locfileid: "114224674"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840152"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Lär dig hur du samarbetar med indirekta leverantörer i Molnlösningsleverantör program
 
@@ -63,7 +63,7 @@ Från och med oktober 2020 registreras alla Microsoft-partner som är nya för C
 
 1. Om du vill starta registreringsprocessen går du till sidan [**Välkommen för att**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) registrera dig.
 
-2. Granska **välkomstsidan för** att se till att du har den information du behöver för att registrera och välj sedan **Nästa.**
+2. Granska **välkomstsidan för** att se till att du har den information du behöver för att registrera dig och välj sedan **Nästa.**
 
 3. Logga in med ditt arbetskonto – det användarnamn och lösenord som du använder för att logga in som global administratör för Office 365, Microsoft Azure eller Microsoft Dynamics CRM. Om du inte har något arbetskonto väljer du Skapa **ett för** att konfigurera ett nu. När du har skapat ditt arbetskonto loggar du in med autentiseringsuppgifterna för global administratör för ditt nya konto.
 
@@ -72,7 +72,7 @@ Från och med oktober 2020 registreras alla Microsoft-partner som är nya för C
    Den primära kontakten är den person i företaget som vi kan kontakta om ditt program. Det kan vara du eller någon annan person i företaget. Obs! Vi accepterar inte e-postadresser från webbaserade e-posttjänster som Gmail, Yahoo! Mail, iCloud Mail, AOL Mail eller Outlook Mail.
 
    > [!IMPORTANT]  
-   > För att säkerställa företagets säkerhet och sekretess skickar vi ett e-postmeddelande till din primära kontakt för att verifiera att (1) han eller hon har registrerat sig för ett Partnercenter-konto och (2) att den här e-postadressen tillhör ditt företag. När den primära kontakten har verifierat sin e-postadress fortsätter vi att granska informationen du angav. Vi skickar statusuppdateringar via e-post till den primära kontakten.
+   > För att säkerställa företagets säkerhet och sekretess skickar vi ett e-postmeddelande till din primära kontakt för att verifiera att (1) han eller hon har registrerat sig för ett Partnercenter-konto och (2) att den här e-postadressen tillhör ditt företag. När den primära kontakten verifierar sin e-postadress fortsätter vi att granska den information som du har angett. Vi skickar statusuppdateringar via e-post till den primära kontakten.
 
 5. Associera ditt MPN-ID med ditt CSP-konto. Ditt CSP-konto och tillhörande MPN-ID måste finnas i samma land och ditt MPN-ID måste finnas i Partnercenter.
   
@@ -122,7 +122,7 @@ Om en indirekt leverantör vill ansluta till dig i Partnercenter startar de föl
 
 4. Välj **Indirekta leverantörer** på menyn i **Partnercenter** för att se en lista över de leverantörer som du har ett partnerskap med.
 
-5. Välj **Visa kunder** för att se en lista över de kunder som du och providerresursen.
+5. Välj **Visa kunder** för att se en lista över de kunder som du och providerresursen har.
 
 6. Välj **Bjud in nya** kunder för att be en ny kund att auktorisera återförsäljarrelationer med både dig och din indirekta leverantör på samma gång. Se till att ha kundens e-postadress till hands så att du kan skicka inbjudan till dem via e-post.  
 

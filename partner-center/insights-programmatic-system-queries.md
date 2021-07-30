@@ -3,17 +3,17 @@ title: Lista över systemfrågor för programmatisk åtkomst till partnerinsikte
 description: Läs mer om de systemfrågor som du kan använda för att få åtkomst till analysdata för partnerinsikter.
 ms.topic: reference
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 4b0bd5411d02463b015cf812cde78e34ef853814
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 9f82907d24a1693097d8c9cfc42094be067639b1
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376919"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840016"
 ---
 # <a name="list-of-system-queries-for-partner-insights-programmatic-access"></a>Lista över systemfrågor för programmatisk åtkomst till partnerinsikter
 

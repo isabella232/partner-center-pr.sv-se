@@ -1,153 +1,153 @@
 ---
-title: Roller, behörigheter för partner intjänad kredit
+title: Roller, behörigheter för partner-intjänad kredit
 ms.topic: article
 ms.date: 05/04/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Lär dig mer om roller och behörigheter för partner att kunna ta del av partner intjänade krediter (PEC). Dessa skiljer sig från roller som fungerar i Partner Center.
+ms.subservice: partnercenter-pricing
+description: Lär dig mer om roller och behörigheter för partner för att kunna tjäna partner-intjänade krediter (PEC). Dessa skiljer sig från roller för att arbeta i Partnercenter.
 author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8c36883dc7d12b7ea0ce8f2644dbac86595ab131
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: ca9cd1b09c840531c3652f71afbd9c66f657f877
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534598"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840390"
 ---
-# <a name="roles-and-permissions-required-to-earn-partner-earned-credit"></a>Roller och behörigheter som krävs för att få partner intjänad kredit
+# <a name="roles-and-permissions-required-to-earn-partner-earned-credit"></a>Roller och behörigheter som krävs för att få partner-intjänad kredit
 
-Följande roller mappar till behörighets nivåer som avgör om en partner är berättigad till partner intjänade krediter.
+Följande roller mappar till behörighetsnivåer som avgör om en partner är berättigad till partner-intjänade krediter.
 
 >[!Important]
->Dessa roller och behörigheter är inte samma som de roller och behörigheter som en användare behöver för att arbeta i Partner Center.
+>Dessa roller och behörigheter är inte samma som de roller och behörigheter som en användare behöver för att arbeta i Partnercenter.
 
-|**Role**   |**Beskrivning**   |**PEC-berättigande**   |
+|**Role**   |**Beskrivning**   |**PEC-berättigad**   |
 |-----------------|:------------------|:--------------|
 |Ägare  |Du hanterar allt, inklusive åtkomst till resurser.|Ja|
-|Deltagare |Du hanterar allt förutom att bevilja åtkomst till resurser.|Ja|
-|Läsare|Du kan visa allt, men inte göra några ändringar|Nej|
-|ACRDelete|ta bort ACR|Ja|
-|ACRImageSigner|ACR-bildsignerare|Ja|
-|ACRPull|ACR pull|Ja|
-|AcrPush|ACR-push|Ja|
-|AcrQuarantineReader|ACR Quarantine data Reader|Nej|
-|AcrQuarantineWriter| ACR karantän data skrivare|Ja|
-|API Management Service Contributor|Kan hantera tjänster och API: er|Ja|
-|Rollen API Management tjänst operatör|Kan hantera tjänsten men inte API: erna|Ja|
-|Rollen API Management tjänst läsare|Skrivskyddad åtkomst till tjänster och API: er|Nej|
-|Application Insights komponent deltagare|Hanterar Application Insights-komponenter|Ja|
-|Application Insights Snapshot Debugger|Ger användaren behörighet att visa och hämta fel söknings ögonblicks bilder som samlats in med Application Insights Snapshot Debugger. Observera att dessa behörigheter inte ingår i ägaren eller deltagar rollerna.|Ja|
-Automatiserings jobb operatör | Skapa och hantera jobb med hjälp av Automation-runbooks. | Ja | 
+|Deltagare |Du hanterar allt utom att bevilja åtkomst till resurser.|Ja|
+|Läsare|Du kan visa allt, men inte göra några ändringar|Inga|
+|ACRDelete|acr delete|Ja|
+|ACRImageSigner|acr image signer|Ja|
+|ACRPull|acr pull|Ja|
+|AcrPush|acr push|Ja|
+|AcrQuarantineReader|acr quarantine data reader|Inga|
+|AcrQuarantineWriter| acr quarantine data writer|Ja|
+|API Management tjänstdeltagare|Kan hantera tjänsten och API:erna|Ja|
+|API Management tjänstoperatörsroll|Kan hantera tjänsten men inte API:erna|Ja|
+|API Management-tjänstläsarroll|Skrivskyddade åtkomst till tjänsten och API:er|Inga|
+|Deltagare Insights programkomponent|Hanterar program Insights komponenter|Ja|
+|Program Insights Snapshot Debugger|Ger användaren behörighet att visa och ladda ned ögonblicksbilder av felsökning som samlats in med Insights Snapshot Debugger. Observera att dessa behörigheter inte ingår i rollerna Ägare eller Deltagare.|Ja|
+Automation-jobboperator | Skapa och hantera jobb med Automation Runbooks. | Ja | 
 Automation-operatör | Automation-operatörer kan starta, stoppa, pausa och återuppta jobb | Ja | 
-Automation Runbook-operator | Läs Runbook-egenskaperna – för att kunna skapa jobb för runbooken. | Ja | 
-Aver deltagare | Kan skapa och hantera ett AVERT vFXT-kluster. | Ja | 
-Aver operator | Används av det Avera vFXT-klustret för att hantera klustret | Ja | 
-Azure Event Hubs data ägare | Ger fullständig åtkomst till Azure Event Hubs-resurser. | Ja | 
-Azure Event Hubs data mottagare | Tillåter åtkomst till Azure Event Hubs-resurser. | Ja | 
-Azure Event Hubs data avsändare | Tillåter skicka åtkomst till Azure Event Hubs-resurser. | Ja | 
-Administratörs roll för Azure Kubernetes service Cluster | Visa lista med autentiseringsuppgifter för kluster administratör. | Ja | 
-Användar roll för Azure Kubernetes service-kluster | Visa lista över autentiseringsuppgifter för kluster användare. | Ja | 
-Azure Maps data läsare (förhands granskning) | Beviljar åtkomst till läsa kartdata relaterade data från ett Azure Maps-konto. | Nej | 
-Azure Service Bus data ägare | Ger fullständig åtkomst till Azure Service Bus resurser. | Ja | 
-Azure Service Bus data mottagare | Ger åtkomst till Azure Service Bus resurser. | Ja | 
-Azure Service Bus data avsändare | Tillåter att åtkomst till Azure Service Bus-resurser skickas. | Ja | 
-Azure Stack registrerings ägare | Låter dig hantera Azure Stack-registreringar. | Ja | 
-Säkerhets kopierings deltagare | Låter dig hantera säkerhets kopierings tjänsten, men kan inte skapa valv och ge åtkomst till andra | Ja | 
-Operator för säkerhetskopiering | Låter dig hantera säkerhets kopierings tjänster, förutom att ta bort säkerhets kopiering, skapa valv och ge till gång till andra | Ja | 
-Säkerhets kopierings läsare | Kan visa säkerhets kopierings tjänster, men kan inte göra ändringar | Nej | 
-Faktureringsläsare | Tillåter Läs åtkomst till fakturerings data | Nej | 
-BizTalk-deltagare | Gör att du kan hantera BizTalk Services, men inte till gång till dem. | Ja | 
-Blockchain för medlems Node (för hands version) | Tillåter åtkomst till blockchain-medlems noder | Ja | 
-Skiss deltagare | Kan hantera skiss definitioner, men tilldela dem inte. | Ja | 
-Skiss operator | Kan tilldela befintliga publicerade ritningar, men kan inte skapa nya ritningar. OBS! detta fungerar endast om tilldelningen görs med en tilldelad hanterad identitet. | Ja | 
-CDN-slutpunkts deltagare | Kan hantera CDN-slutpunkter, men kan inte bevilja åtkomst till andra användare. | Ja | 
-CDN-slutpunkt läsare | Kan visa CDN-slutpunkter, men kan inte göra ändringar. | Nej | 
-CDN-profil deltagare | Kan hantera CDN-profiler och deras slut punkter, men kan inte bevilja åtkomst till andra användare. | Ja | 
-CDN profil läsare | Kan visa CDN-profiler och deras slut punkter, men kan inte göra ändringar. | Nej | 
-Klassisk nätverksdeltagare | Gör att du kan hantera klassiska nätverk, men inte till gång till dem. | Ja | 
-Klassisk lagrings konto deltagare | Gör att du kan hantera klassiska lagrings konton, men inte till gång till dem. | Ja | 
-Klassisk lagrings kontots nyckel operatörs tjänst roll | Klassiska lagrings konto nyckel operatörer får lista och återskapa nycklar på klassiska lagrings konton | Ja | 
-Klassisk virtuell dator deltagare | Låter dig hantera klassiska virtuella datorer, men inte åtkomst till dem, inte det virtuella nätverk eller lagrings konto som de är anslutna till. | Ja | 
-Cognitive Services deltagare | Gör att du kan skapa, läsa, uppdatera, ta bort och hantera nycklar för Cognitive Services. | Ja | 
-Cognitive Services data läsare (förhands granskning) | Gör att du kan läsa Cognitive Services data. | Nej | 
-Cognitive Services användare | Gör att du kan läsa och Visa nycklar för Cognitive Services. | Nej | 
-Cosmos DB konto läsar roll | Kan läsa Azure Cosmos DB konto data. Se DocumentDB Account Contributor för att hantera Azure Cosmos DB-konton. | Nej | 
-Cosmos DB operatör | Låter dig hantera Azure Cosmos DB konton, men inte komma åt data i dem. Förhindrar åtkomst till konto nycklar och anslutnings strängar. | Ja | 
-CosmosBackupOperator | Kan skicka en Restore-begäran för en Cosmos DB databas eller en behållare för ett konto | Ja | 
-Cost Management deltagare | Kan visa kostnader och hantera kostnads konfiguration (t. ex. budgetar, exporter) | Ja | 
-Cost Management läsare | Kan visa kostnads data och konfiguration (t. ex. budgetar, exporter) | Nej | 
-Data Box-enhet deltagare | Låter dig hantera allt under Data Box-enhet tjänst, förutom att ge till gång till andra. | Ja | 
-Data Box-enhet läsare | Låter dig hantera Data Box-enhet tjänst, förutom att skapa order-eller redigerings beställnings detaljer och ge åtkomst till andra. | Nej | 
-Data Factory deltagare | Skapa och hantera data fabriker, samt underordnade resurser i dem. | Ja | 
+Automation Runbook-operatör | Läsa Runbook-egenskaper – för att kunna skapa jobb för runbooken. | Ja | 
+Avere-deltagare | Kan skapa och hantera ett Avere vFXT kluster. | Ja | 
+Avere-operator | Används av Avere vFXT för att hantera klustret | Ja | 
+Azure Event Hubs dataägare | Ger fullständig åtkomst till Azure Event Hubs resurser. | Ja | 
+Azure Event Hubs datamottagare | Tillåter åtkomst till Azure Event Hubs resurser. | Ja | 
+Azure Event Hubs Data Sender | Tillåter att åtkomst skickas till Azure Event Hubs resurser. | Ja | 
+Azure Kubernetes Service administratörsroll för kluster | Visa en lista över autentiseringsuppgifter för klusteradministratör. | Ja | 
+Azure Kubernetes Service klusteranvändarroll | Visa en lista över åtgärder för klusteranvändares autentiseringsuppgifter. | Ja | 
+Azure Kartor Data Reader (förhandsversion) | Ger åtkomst till läsmappningsrelaterade data från ett Azure Maps-konto. | Inga | 
+Azure Service Bus dataägare | Ger fullständig åtkomst till Azure Service Bus resurser. | Ja | 
+Azure Service Bus Data Receiver | Tillåter åtkomst till Azure Service Bus resurser. | Ja | 
+Azure Service Bus Data Sender | Tillåter att du skickar åtkomst till Azure Service Bus resurser. | Ja | 
+Azure Stack registreringsägare | Låter dig hantera Azure Stack registreringar. | Ja | 
+Säkerhetskopieringsdeltagare | Låter dig hantera säkerhetskopieringstjänsten, men kan inte skapa valv och ge åtkomst till andra | Ja | 
+Operator för säkerhetskopiering | Låter dig hantera säkerhetskopieringstjänster, förutom borttagning av säkerhetskopiering, valvskapande och att ge åtkomst till andra | Ja | 
+Backup Reader | Kan visa säkerhetskopieringstjänster, men kan inte göra ändringar | Inga | 
+Faktureringsläsare | Ger läsåtkomst till faktureringsdata | Inga | 
+BizTalk-deltagare | Låter dig hantera BizTalk-tjänster, men inte åtkomst till dem. | Ja | 
+Åtkomst till blockkedjemedlemsnod (förhandsversion) | Tillåter åtkomst till blockkedjemedlemsnoder | Ja | 
+Skissdeltagare | Kan hantera skissdefinitioner, men inte tilldela dem. | Ja | 
+Skissoperatör | Kan tilldela befintliga publicerade skisser, men kan inte skapa nya skisser. Obs! Detta fungerar bara om tilldelningen görs med en användar tilldelad hanterad identitet. | Ja | 
+CDN Slutpunktsdeltagare | Kan hantera CDN slutpunkter, men kan inte bevilja åtkomst till andra användare. | Ja | 
+CDN Slutpunktsläsare | Kan visa CDN slutpunkter, men kan inte göra ändringar. | Inga | 
+CDN Profildeltagare | Kan hantera CDN profiler och deras slutpunkter, men kan inte bevilja åtkomst till andra användare. | Ja | 
+CDN Profilläsare | Kan visa CDN profiler och deras slutpunkter, men kan inte göra ändringar. | Inga | 
+Klassisk nätverksdeltagare | Låter dig hantera klassiska nätverk, men inte åtkomst till dem. | Ja | 
+Klassisk Storage-kontodeltagare | Låter dig hantera klassiska lagringskonton, men inte åtkomst till dem. | Ja | 
+Tjänstroll Storage klassisk Storage-kontonyckeloperatör | Operatorer Storage klassiska kontonycklar kan visa och återskapa nycklar på klassiska Storage konton | Ja | 
+Klassisk virtuell datordeltagare | Låter dig hantera klassiska virtuella datorer, men inte åtkomst till dem, och inte det virtuella nätverket eller lagringskontot som de är anslutna till. | Ja | 
+Cognitive Services deltagare | Låter dig skapa, läsa, uppdatera, ta bort och hantera nycklar för Cognitive Services. | Ja | 
+Cognitive Services dataläsare (förhandsversion) | Låter dig läsa Cognitive Services data. | Inga | 
+Cognitive Services användare | Låter dig läsa och lista nycklar för Cognitive Services. | Inga | 
+Cosmos DB rollen Kontoläsare | Kan läsa Azure Cosmos DB-kontodata. Se DocumentDB-kontodeltagare för att hantera Azure Cosmos DB konton. | Inga | 
+Cosmos DB Operator | Låter dig hantera Azure Cosmos DB-konton, men inte komma åt data i dem. Förhindrar åtkomst till kontonycklar och anslutningssträngar. | Ja | 
+CosmosBackupOperator | Kan skicka återställningsbegäran för en Cosmos DB databas eller en container för ett konto | Ja | 
+Cost Management-deltagare | Kan visa kostnader och hantera kostnadskonfiguration (t.ex. budgetar, exporter) | Ja | 
+Cost Management Läsare | Kan visa kostnadsdata och konfiguration (t.ex. budgetar, exporter) | Inga | 
+Data Box-enhet deltagare | Låter dig hantera allt under Data Box-enhet service förutom att ge åtkomst till andra. | Ja | 
+Data Box-enhet Läsare | Låter dig hantera Data Box-enhet-tjänsten, förutom att skapa beställnings- eller redigeringsinformation och ge åtkomst till andra. | Inga | 
+Data Factory deltagare | Skapa och hantera datafabriker samt underordnade resurser i dem. | Ja | 
 Data Lake Analytics utvecklare | Låter dig skicka, övervaka och hantera dina egna jobb, men inte skapa eller ta bort Data Lake Analytics konton. | Ja | 
-Data rensning | Kan rensa analys data | Ja | 
-DevTest Labs-användare | Låter dig ansluta, starta, starta om och stänga av dina virtuella datorer i din Azure DevTest Labs. | Ja | 
-DNS-zon deltagare | Gör att du kan hantera DNS-zoner och post uppsättningar i Azure DNS, men du kan inte styra vem som har åtkomst till dem. | Ja | 
-DocumentDB-konto deltagare | Kan hantera Azure Cosmos DB-konton. Azure Cosmos DB är tidigare känt som DocumentDB. | Ja | 
-EventGrid EventSubscription-deltagare | Låter dig hantera EventGrid händelse prenumerations åtgärder. | Ja | 
-EventGrid EventSubscription-läsare | Låter dig läsa EventGrid händelse prenumerationer. | Nej | 
-HDInsight-kluster operator | Gör att du kan läsa och ändra HDInsight-klusterkonfigurationer. | Ja | 
-HDInsight Domain Services-deltagare | Kan läsa, skapa, ändra och ta bort åtgärder för domän tjänster som krävs för HDInsight-Enterprise Security Package | Ja | 
-Konto deltagare i Intelligent Systems | Gör att du kan hantera intelligenta system konton, men inte åtkomst till dem. | Ja | 
-Key Vault deltagare | Låter dig hantera nyckel valv, men inte åtkomst till dem. | Ja | 
-Labb skapare | Gör att du kan skapa, hantera och ta bort dina hanterade labb under dina Azure Lab-konton. | Ja | 
-Log Analytics Contributor | Log Analytics deltagare kan läsa alla övervaknings data och redigera övervaknings inställningar. Genom att redigera övervaknings inställningarna lägger du till VM-tillägget till virtuella datorer. läsning av lagrings konto nycklar för att kunna konfigurera samling av loggar från Azure Storage. Skapa och konfigurera Automation-konton. lägga till lösningar. och konfigurera Azure Diagnostics på alla Azure-resurser. | Ja | 
-Log Analytics Reader | Log Analytics läsaren kan visa och söka i alla övervaknings data samt Visa övervaknings inställningar, inklusive Visa konfigurationen av Azure Diagnostics på alla Azure-resurser. | Nej | 
-Logic app-deltagare | Låter dig hantera Logi Kap par, men ändra inte åtkomsten till dem. | Ja | 
-Logic app-operatör | Låter dig läsa, aktivera och inaktivera Logi Kap par, men inte redigera eller uppdatera dem. | Ja | 
-Rollen hanterad program operatör | Gör att du kan läsa och utföra åtgärder på hanterade program resurser | Ja | 
-Läsare för hanterade program | Låter dig läsa resurser i en hanterad app och begära JIT-åtkomst. | Nej | 
-Hanterad identitets deltagare | Skapa, läsa, uppdatera och ta bort användare tilldelad identitet | Ja | 
-Hanterad identitets operator | Läs och tilldela en tilldelad identitet | Ja | 
-Deltagare i hanterings grupp | Rollen hanterings grupp deltagare | Ja | 
-Hanterings grupp läsare | Rollen hanterings grupp läsare | Nej | 
-Övervaknings deltagare | Kan läsa alla övervaknings data och redigera övervaknings inställningar. Se även komma igång med roller, behörigheter och säkerhet med Azure Monitor. | Ja | 
-Övervaknings mått utgivare | Möjliggör publicering av mått mot Azure-resurser | Ja | 
-Övervaknings läsare | Kan läsa alla övervaknings data (mått, loggar osv.). Se även komma igång med roller, behörigheter och säkerhet med Azure Monitor. | Nej | 
-Nätverksdeltagare | Gör att du kan hantera nätverk, men inte till gång till dem. | Ja | 
-Ny Relic APM-konto deltagare | Låter dig hantera New Relic Application Performance Management konton och program, men inte till gång till dem. | Ja | 
-Läsare och data åtkomst | Gör att du kan visa allting men du kan inte ta bort eller skapa ett lagrings konto eller en resurs som saknas. Den kommer också att tillåta Läs-/skriv åtkomst till alla data som finns i ett lagrings konto via åtkomst till lagrings konto nycklar. | Ja | 
-Redis Cache deltagare | Låter dig hantera Redis-cacheer, men inte till gång till dem. | Ja | 
-Resurs princip deltagare (för hands version) | Förhandsgranskningsvyn Användare med egna användare från EA, med behörighet att skapa/ändra resurs principer, skapa support ärende och läsa resurser/hierarki. | Ja | 
-Jobb samlings deltagare i Scheduler | Gör att du kan hantera jobb samlingar i Scheduler, men inte till gång till dem. | Ja | 
-Search Service deltagare | Låter dig hantera Sök tjänster, men inte till gång till dem. | Ja | 
-Säkerhetsadministratör | Endast i Security Center: kan visa säkerhets principer, Visa säkerhets tillstånd, redigera säkerhets principer, Visa aviseringar och rekommendationer, ignorera aviseringar och rekommendationer | Ja | 
-Säkerhets hanterare (bakåtkompatibelt) | Detta är en äldre roll. Använd säkerhets administratör istället | Ja | 
-Säkerhetsläsare | Endast i Security Center: kan visa rekommendationer och aviseringar, Visa säkerhets principer, Visa säkerhets tillstånd, men kan inte göra ändringar | Nej | 
-Site Recovery-deltagare | Låter dig hantera Site Recovery tjänst förutom att skapa valv och roll tilldelning | Ja | 
-Site Recovery-operatör | Låter dig redundansväxla och failback men inte utföra andra Site Recovery hanterings åtgärder | Ja | 
-Site Recovery-läsare | Låter dig Visa Site Recovery status men inte utföra andra hanterings åtgärder | Nej | 
-Konto deltagare för spatiala ankare | Låter dig hantera spatiala ankare i ditt konto, men ta inte bort dem | Ja | 
-Konto ägare för spatiala ankare | Låter dig hantera spatialdata i ditt konto, inklusive att ta bort dem | Ja | 
-Konto läsare för spatiala ankare | Gör att du kan hitta och läsa egenskaper för spatiala ankare i ditt konto | Nej | 
-SQL DB-deltagare | Gör att du kan hantera SQL-databaser, men inte åtkomst till dem. Du kan inte heller hantera säkerhets relaterade principer eller överordnade SQL-servrar. | Ja | 
-SQL-hanterad instans deltagare | Låter dig hantera SQL-hanterade instanser och nödvändig nätverks konfiguration, men kan inte ge åtkomst till andra. | Ja | 
-SQL-säkerhetshanteraren | Gör att du kan hantera säkerhetsrelaterade principer för SQL-servrar och databaser, men inte åtkomst till dem. | Ja | 
-SQL Server deltagare | Gör att du kan hantera SQL-servrar och databaser, men inte åtkomst till dem och inte deras säkerhetsrelaterade principer. | Ja | 
-Lagringskontodeltagare | Tillåter hantering av lagrings konton. Ger åtkomst till konto nyckeln, som kan användas för att få åtkomst till data via autentisering med delad nyckel. | Ja | 
-Lagrings kontots nyckel operatörs tjänst roll | Tillåter att du visar och återskapar åtkomst nycklar för lagrings kontot. | Ja | 
-Storage Blob Data-deltagare | Läsa, skriva och ta bort Azure Storage behållare och blobbar. Information om vilka åtgärder som krävs för en specifik data åtgärd finns i behörigheter för att anropa blob-och Queue data-åtgärder. | Ja | 
-Storage Blob Data-ägare | Ger fullständig åtkomst till Azure Storage BLOB-behållare och data, inklusive att tilldela POSIX-åtkomstkontroll. Information om vilka åtgärder som krävs för en specifik data åtgärd finns i behörigheter för att anropa blob-och Queue data-åtgärder. | Ja | 
-Storage Blob Data-läsare | Läs och Visa Azure Storage behållare och blobbar. Information om vilka åtgärder som krävs för en specifik data åtgärd finns i behörigheter för att anropa blob-och Queue data-åtgärder. | Nej | 
-Storage BLOB-delegerare | Hämta en användar Delegerings nyckel som sedan kan användas för att skapa en signatur för delad åtkomst för en behållare eller BLOB som är signerad med Azure AD-autentiseringsuppgifter. Mer information finns i skapa en användar Delegerings-SAS. | Ja | 
-Storage-fildata för SMB-resursdeltagare | Tillåter Läs-, skriv-och borttagnings åtkomst i Azure Storage fil resurser över SMB | Ja | 
-Storage-fildata för upphöjd SMB-resursdeltagare | Tillåter behörighet att läsa, skriva, ta bort och ändra NTFS-behörighet i Azure Storage fil resurser över SMB | Ja | 
-Storage-fildata för SMB-resursläsare | Tillåter Läs åtkomst till Azure-filresurs via SMB | Nej | 
-Data deltagare i Storage Queue | Läsa, skriva och ta bort Azure Storage köer och köa meddelanden. Information om vilka åtgärder som krävs för en specifik data åtgärd finns i behörigheter för att anropa blob-och Queue data-åtgärder. | Ja | 
-Processor för data meddelande i lagrings kön | Granska, hämta och ta bort ett meddelande från en Azure Storage kö. Information om vilka åtgärder som krävs för en specifik data åtgärd finns i behörigheter för att anropa blob-och Queue data-åtgärder. | Ja | 
-Avsändare av data meddelande i lagrings köer | Lägg till meddelanden i en Azure Storage-kö. Information om vilka åtgärder som krävs för en specifik data åtgärd finns i behörigheter för att anropa blob-och Queue data-åtgärder. | Ja | 
-Data läsare för lagrings kön | Läs och Visa Azure Storage köer och köa meddelanden. Information om vilka åtgärder som krävs för en specifik data åtgärd finns i behörigheter för att anropa blob-och Queue data-åtgärder. | Nej | 
-Support förfrågan deltagare | Gör att du kan skapa och hantera support förfrågningar | Ja | 
-Traffic Manager deltagare | Låter dig hantera Traffic Manager profiler, men låter dig inte kontrol lera vem som har åtkomst till dem. | Ja | 
-Administratör för användaråtkomst | Gör att du kan hantera användar åtkomst till Azure-resurser. | Ja | 
-Administratörs inloggning för virtuell dator | Visa Virtual Machines i portalen och logga in som administratör | Ja | 
-Virtuell datordeltagare | Låter dig hantera virtuella datorer, men inte åtkomst till dem, inte det virtuella nätverk eller lagrings konto som de är anslutna till. | Ja | 
-Användar inloggning för virtuell dator | Visa Virtual Machines i portalen och logga in som en vanlig användare. | Ja | 
-Webb Plans deltagare | Gör att du kan hantera webb planer för webbplatser, men inte till gång till dem. | Ja | 
-Webbplats deltagare | Gör att du kan hantera webbplatser (inte webb planer), men inte åtkomst till dem | Ja |
+Datarensning | Kan rensa analysdata | Ja | 
+DevTest Labs-användare | Låter dig ansluta, starta, starta om och stänga av dina virtuella datorer i Azure DevTest Labs. | Ja | 
+DNS-zondeltagare | Låter dig hantera DNS-zoner och postuppsättningar i Azure DNS, men låter dig inte styra vem som har åtkomst till dem. | Ja | 
+DocumentDB-kontodeltagare | Kan hantera Azure Cosmos DB konton. Azure Cosmos DB kallades tidigare DocumentDB. | Ja | 
+EventGrid EventSubscription-deltagare | Låter dig hantera eventGrid-händelseprenumerationsåtgärder. | Ja | 
+EventGrid EventSubscription-läsare | Låter dig läsa EventGrid-händelseprenumerationer. | Inga | 
+HDInsight-klusteroperator | Gör att du kan läsa och ändra HDInsight-klusterkonfigurationer. | Ja | 
+HDInsight Domain Services-deltagare | Kan läsa, skapa, ändra och ta bort Domain Services-relaterade åtgärder som krävs för HDInsight-Enterprise Security Package | Ja | 
+Intelligent Systems-kontodeltagare | Låter dig hantera konton för intelligenta system, men inte åtkomst till dem. | Ja | 
+Key Vault deltagare | Låter dig hantera nyckelvalv, men inte åtkomst till dem. | Ja | 
+Labbskapare | Låter dig skapa, hantera och ta bort dina hanterade labb under dina Azure Lab-konton. | Ja | 
+Log Analytics Contributor | Log Analytics-deltagare kan läsa alla övervakningsdata och redigera övervakningsinställningar. Redigering av övervakningsinställningar omfattar att lägga till VM-tillägget till virtuella datorer. läsa lagringskontonycklar för att kunna konfigurera insamling av loggar från Azure Storage; skapa och konfigurera Automation-konton; lägga till lösningar; och konfigurera Azure Diagnostics på alla Azure-resurser. | Ja | 
+Log Analytics Reader | Log Analytics-läsare kan visa och söka efter alla övervakningsdata samt visa övervakningsinställningar, inklusive att visa konfigurationen av Azure Diagnostics på alla Azure-resurser. | Inga | 
+Logic App-deltagare | Låter dig hantera logikappar, men inte ändra åtkomsten till dem. | Ja | 
+Logic App-operatör | Låter dig läsa, aktivera och inaktivera logikappar, men inte redigera eller uppdatera dem. | Ja | 
+Operatörsroll för hanterat program | Låter dig läsa och utföra åtgärder på hanterade programresurser | Ja | 
+Läsare för hanterade program | Låter dig läsa resurser i en hanterad app och begära JIT-åtkomst. | Inga | 
+Hanterad identitetsdeltagare | Skapa, läsa, uppdatera och ta bort användar tilldelad identitet | Ja | 
+Operatör för hanterad identitet | Läsa och tilldela användar tilldelad identitet | Ja | 
+Deltagare i hanteringsgrupp | Deltagarroll för hanteringsgrupp | Ja | 
+Läsare för hanteringsgrupp | Läsarroll för hanteringsgrupp | Inga | 
+Övervakningsdeltagare | Kan läsa alla övervakningsdata och redigera övervakningsinställningar. Se även Kom igång med roller, behörigheter och säkerhet med Azure Monitor. | Ja | 
+Övervaka Publisher | Aktiverar publiceringsmått mot Azure-resurser | Ja | 
+Övervakningsläsare | Kan läsa alla övervakningsdata (mått, loggar osv.). Se även Kom igång med roller, behörigheter och säkerhet med Azure Monitor. | Inga | 
+Nätverksdeltagare | Låter dig hantera nätverk, men inte åtkomst till dem. | Ja | 
+New Relic APM-kontodeltagare | Låter dig hantera New Relic Application Performance Management och program, men inte åtkomst till dem. | Ja | 
+Läsar- och dataåtkomst | Låter dig visa allt, men du kan inte ta bort eller skapa ett lagringskonto eller en innesluten resurs. Det ger också läs-/skrivåtkomst till alla data som finns i ett lagringskonto via åtkomst till lagringskontonycklar. | Ja | 
+Redis Cache deltagare | Låter dig hantera Redis-cacher, men inte åtkomst till dem. | Ja | 
+Resursprincipdeltagare (förhandsversion) | (Förhandsversion) Återifyllda användare från EA, med behörighet att skapa/ändra resursprincip, skapa supportbiljett och läsa resurser/hierarki. | Ja | 
+Deltagare i Scheduler-jobbsamlingar | Låter dig hantera Scheduler-jobbsamlingar, men inte åtkomst till dem. | Ja | 
+Search Service Contributor | Låter dig hantera Söktjänster, men inte åtkomst till dem. | Ja | 
+Säkerhetsadministratör | Endast Security Center: Kan visa säkerhetsprinciper, visa säkerhets tillstånd, redigera säkerhetsprinciper, visa aviseringar och rekommendationer, stänga aviseringar och rekommendationer | Ja | 
+Security Manager (äldre) | Det här är en äldre roll. Använd säkerhetsadministratören i stället | Ja | 
+Säkerhetsläsare | Endast Security Center: Kan visa rekommendationer och aviseringar, visa säkerhetsprinciper, visa säkerhets tillstånd, men kan inte göra ändringar | Inga | 
+Site Recovery-deltagare | Låter dig hantera Site Recovery förutom valvskapande och rolltilldelning | Ja | 
+Site Recovery-operatör | Låter dig redundans och återställning efter fel, men inte utföra Site Recovery av hanteringsåtgärder | Ja | 
+Site Recovery-läsare | Låter dig visa Site Recovery status men inte utföra andra hanteringsåtgärder | Inga | 
+Spatial Anchors-kontodeltagare | Låter dig hantera spatiala fästpunkter i ditt konto, men inte ta bort dem | Ja | 
+Spatial Anchors kontoägare | Låter dig hantera spatiala fästpunkter i ditt konto, inklusive att ta bort dem | Ja | 
+Spatial Anchors-kontoläsare | Gör att du kan hitta och läsa egenskaper för spatiala fästpunkter i ditt konto | Inga | 
+SQL DB-deltagare | Låter dig hantera SQL databaser, men inte åtkomst till dem. Du kan inte heller hantera deras säkerhetsrelaterade principer eller deras överordnade SQL servrar. | Ja | 
+SQL Deltagare för hanterad instans | Låter dig hantera SQL hanterade instanser och nödvändig nätverkskonfiguration, men kan inte ge åtkomst till andra. | Ja | 
+SQL-säkerhetshanteraren | Låter dig hantera säkerhetsrelaterade principer för SQL och databaser, men inte åtkomst till dem. | Ja | 
+SQL Server Bidragsgivare | Låter dig hantera SQL och databaser, men inte åtkomst till dem, och inte deras säkerhetsrelaterade principer. | Ja | 
+Lagringskontodeltagare | Tillåter hantering av lagringskonton. Ger åtkomst till kontonyckeln, som kan användas för att komma åt data via auktorisering med delad nyckel. | Ja | 
+Storage Tjänstroll för kontonyckeloperatör | Tillåter att åtkomstnycklar för lagringskontot listas och återskapas. | Ja | 
+Storage Blob Data-deltagare | Läsa, skriva och ta bort Azure Storage containrar och blobar. Information om vilka åtgärder som krävs för en viss dataåtgärd finns i Behörigheter för att anropa blob- och ködataåtgärder. | Ja | 
+Storage Blob Data-ägare | Ger fullständig åtkomst till Azure Storage blobcontainrar och data, inklusive tilldelning av POSIX-åtkomstkontroll. Information om vilka åtgärder som krävs för en viss dataåtgärd finns i Behörigheter för att anropa blob- och ködataåtgärder. | Ja | 
+Storage Blob Data-läsare | Läs och lista Azure Storage containrar och blobar. Information om vilka åtgärder som krävs för en viss dataåtgärd finns i Behörigheter för att anropa blob- och ködataåtgärder. | Inga | 
+Storage Blob Dele blob | Hämta en nyckel för användardelegering som sedan kan användas för att skapa en signatur för delad åtkomst för en container eller blob som har signerats med Azure AD-autentiseringsuppgifter. Mer information finns i Skapa en SAS för användardelegering. | Ja | 
+Storage-fildata för SMB-resursdeltagare | Tillåter läs-, skriv- och borttagningsåtkomst i Azure Storage över SMB | Ja | 
+Storage-fildata för upphöjd SMB-resursdeltagare | Tillåter läs-, skriv-, borttagnings- och ändringsbehörighet för NTFS i Azure Storage över SMB | Ja | 
+Storage-fildata för SMB-resursläsare | Tillåter läsåtkomst till Azure-filresurs via SMB | Inga | 
+Storage Ködatadeltagare | Läsa, skriva och ta bort Azure Storage köer och kömeddelanden. Information om vilka åtgärder som krävs för en viss dataåtgärd finns i Behörigheter för att anropa blob- och ködataåtgärder. | Ja | 
+Storage Processor för ködatameddelande | Granska, hämta och ta bort ett meddelande från en Azure Storage kö. Information om vilka åtgärder som krävs för en viss dataåtgärd finns i Behörigheter för att anropa blob- och ködataåtgärder. | Ja | 
+Storage Avsändare av ködatameddelande | Lägga till meddelanden i en Azure Storage kö. Information om vilka åtgärder som krävs för en viss dataåtgärd finns i Behörigheter för att anropa blob- och ködataåtgärder. | Ja | 
+Storage Ködataläsare | Läsa och lista Azure Storage köer och kömeddelanden. Information om vilka åtgärder som krävs för en viss dataåtgärd finns i Behörigheter för att anropa blob- och ködataåtgärder. | Inga | 
+Supportbegärandedeltagare | Låter dig skapa och hantera supportbegäranden | Ja | 
+Traffic Manager Bidragsgivare | Låter dig hantera Traffic Manager profiler, men låter dig inte styra vem som har åtkomst till dem. | Ja | 
+Administratör för användaråtkomst | Låter dig hantera användaråtkomst till Azure-resurser. | Ja | 
+Administratörsinloggning för virtuell dator | Visa Virtual Machines i portalen och logga in som administratör | Ja | 
+Virtuell datordeltagare | Låter dig hantera virtuella datorer, men inte åtkomst till dem, och inte det virtuella nätverket eller lagringskontot som de är anslutna till. | Ja | 
+Användarinloggning för virtuell dator | Visa Virtual Machines i portalen och logga in som en vanlig användare. | Ja | 
+Webbplansdeltagare | Låter dig hantera webbplaner för webbplatser, men inte åtkomst till dem. | Ja | 
+Webbplatsdeltagare | Låter dig hantera webbplatser (inte webbplaner), men inte åtkomst till dem | Ja |
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Partner intjänad kredit – en översikt över hur det fungerar i den nya Commerce-upplevelsen i CSP](partner-earned-credit.md)
+- [Partner-intjänad kredit – en översikt över hur det fungerar i den nya handelsupplevelsen i CSP](partner-earned-credit.md)

@@ -3,18 +3,18 @@ title: Använda kampanjer för att locka kunder
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Upptäck hur Microsoft-partner i Molnlösningsleverantör-programmet kan köpa prenumerationer till kampanjpris och spara pengar till sina kunder.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5cb494f3e32201c20184d8de551e15cc8fc28d9b
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: 335c0806d9504263dcfa506721b4217cf8b78db6
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551337"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841037"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Använda kampanjer för att locka nya kunder och överföra besparingarna till dem
 
@@ -31,7 +31,7 @@ Kampanjpriset tillämpas automatiskt på ditt nettopris när du köper nya prenu
 
 Ta en stund och granska dessa viktiga fakta om kampanjer:
 
-- En prenumerations kampanjpris gäller endast för prenumerationens varaktighet. När en prenumeration som du har köpt med kampanjpris upphör att gälla återgår förnyelseprenumerationens pris till priset i prislistan. Det innebär att alla prenumerationer som har ställts in för automatisk förnyelse förnyas till det allmänna priset. Prislistan finns på sidan **Priser och** erbjudanden.
+- En prenumerations kampanjpris gäller endast för prenumerationens varaktighet. När en prenumeration som du har köpt med kampanjpris upphör att gälla återgår förnyelseprenumerationens pris till priset i prislistan. Det innebär att alla prenumerationer som har ställts in för automatisk förnyelse förnyas till det allmänna priset. Du hittar prislistan på sidan **Priser och** erbjudanden.
 
 - Om en prenumeration är berättigad till flera kampanjer tillämpas befordran med högst procentandel av automatiskt.
 
