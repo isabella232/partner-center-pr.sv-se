@@ -3,19 +3,19 @@ title: Installera Partner Center Analytics för Power BI
 ms.topic: article
 ms.date: 07/10/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Följ stegen i den här artikeln för att installera och förhandsgranska appen Partnercenteranalys för Power BI (för direkta partner i CSP).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ff95f989ac847bd2c17558d062c86a52110b2ddf
-ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
+ms.openlocfilehash: a07742a55df088842f6bac1a1cbdd65bf0db8282
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "112565056"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842667"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Installera och förhandsgranska partnercenteranalysappen för Microsoft Power BI
 
@@ -34,7 +34,7 @@ Välj det program som är mest relevant för ditt företag från följande lista
 
 Innan du installerar förhandsversionen av Partner Center Analytics-appen måste du se till att du uppfyller följande krav.
 
-- Du väljer rätt Power BI för ditt företag.
+- Du väljer rätt Power BI för din verksamhet.
 
 - Du har en Power BI Pro-licens.
 
@@ -42,7 +42,7 @@ Innan du installerar förhandsversionen av Partner Center Analytics-appen måste
 
 - Du kan logga in på Power BI.
 
-- Du kan logga in som global administratör, administratörsagent eller faktureringsadministratör på företagets [Azure Active Directory (Azure AD).](azure-active-directory-tenants-and-partner-center.md)
+- Du kan logga in som global administratör, administratörsagent eller faktureringsadministratör på ditt [företags Azure Active Directory (Azure AD) klientorganisation.](azure-active-directory-tenants-and-partner-center.md)
 
 ## <a name="to-install-the-app"></a>Så här installerar du appen
 
@@ -54,7 +54,7 @@ Innan du installerar förhandsversionen av Partner Center Analytics-appen måste
 
 4. Under Har du redan ett konto? välj **Logga in.**
 
-5. På nästa sida anger du Power BI användarnamn och lösenord och väljer sedan **Logga in.**
+5. På nästa sida anger du ditt Power BI användarnamn och lösenord och väljer sedan **Logga in.**
 
 6. Installera arbetsytan genom att ange arbetsytans namn.
 
@@ -62,22 +62,22 @@ Innan du installerar förhandsversionen av Partner Center Analytics-appen måste
 
 8. Välj **Appar** och välj de installerade apparna.
 
-9. Skärmen Kom igång med din nya app öppnas.
+9. Kom igång med din nya appskärm öppnas.
 
-10. Om du vill ansluta till data väljer du **Anslut.**
+10. Om du vill ansluta till data väljer **du Anslut**.
 
-11. I **popup-fönstret** Anslut till Partner Center Analytics  kontrollerar du att autentiseringsmetoden är inställd på **oAuth2** eller väljer **oAuth2** i listan om den inte är det. 
+11. På Anslut till **Partner Center Analytics-popup-fönstret** kontrollerar  du att autentiseringsmetoden är inställd på **oAuth2** eller väljer **oAuth2** i listan om den inte är det. 
 
 > [!NOTE]  
 >  Det kan ta några minuter innan fönstret visas.
 
-12. På sidan **partnercenteranalysanslutningsapp** loggar du in med autentiseringsuppgifter för global administratör, administratörsagent eller faktureringsadministratör för ditt företags Azure AD-klientorganisation och väljer **sedan Logga in.**
+12. Logga in med autentiseringsuppgifter för global administratör, administratörsagent eller faktureringsadministratör för ditt företags Azure AD-klientorganisation på sidan **Partnercenter Analytics Connector** och välj **sedan Logga in.**
  
-13. När du uppmanas att komma åt väljer du **Acceptera.** 
+13. När du uppmanas att komma åt väljer du **Acceptera**. 
 
-När Partner Center Analytics-tjänsten är ansluten till Power BI börjar data läsas in. Beroende på mängden data kan det ta upp till 10 minuter. 
+När Partner Center Analytics-tjänsten är ansluten Power BI data börjar läsas in. Beroende på mängden data kan det ta upp till 10 minuter. 
 
-När data har läses in kan du börja använda instrumentpanelen och rapporterna för Partnercenter Analytics-appen i Power BI.
+När data har läses in kan du börja använda instrumentpanelen och rapporterna för Partnercenter Analytics-appen Power BI.
 
 ## <a name="next-steps"></a>Nästa steg
 

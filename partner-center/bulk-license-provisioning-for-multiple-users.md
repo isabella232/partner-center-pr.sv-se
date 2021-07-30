@@ -3,22 +3,22 @@ title: Tilldela eller återkalla licenser till flera användare
 ms.topic: how-to
 ms.date: 07/02/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: Lär dig hur du använder ett kundkonto för att tilldela eller återkalla licenser och tjänster till en användare eller flera användare samtidigt.
 author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 79f66e759385f6c7c7928dba58e052ea8699cf21
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 256e93499a3a9b2786d8d1a309077b645aecd81c
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149221"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842379"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Tilldela eller återkalla licenser samtidigt till flera användare i ett kundkonto
 
-**Lämpliga roller:** Administratörsagent | Globala | Supportagent för | Försäljningsagent | Administratör för användarhantering
+**Lämpliga roller:** Administratörsagent | Globala | Supportagent | Försäljningsagent | Administratör för användarhantering
 
 Du kan tilldela licenser och tjänster till en användare eller till flera användare samtidigt på ett kundkonto och återkalla licenstilldelningar till användare.
 
@@ -56,7 +56,7 @@ Partnercenter spårar och visar alla kundägda licensrättigheter.
 
 6. Under **Tilldela och återkalla licenser** väljer du produktlicenser för de nya användarna. 
 
-   Om ingen av de valda användarna till exempel har Office 365 Enterprise-licenser och du vill lägga till dem markerar du kryssrutan. Du behöver tillräckligt med licenser för varje vald produkt.
+   Om till exempel ingen av de valda användarna har Office 365 Enterprise licenser och du vill lägga till dem markerar du kryssrutan. Du behöver tillräckligt med licenser för varje vald produkt.
 
 7. Markera fler än en produkt för användarna genom att markera kryssrutan för varje produkt.
     -   Välj **Visa tjänstplaner** för alla produkter för att visa och välja de tjänstplaner som användarna behöver.
@@ -76,13 +76,13 @@ Partnercenter spårar och visar alla kundägda licensrättigheter.
 
     Bläddra igenom verktygen **First**, **Previous**, **Next** och **Last för** att hitta och välja andra användare. Du kan välja mellan flera sidor.
 
-4. När du har valt användare väljer du **länken Valda** användare. Den visade listan visar endast de valda användarna.
+4. När du har valt användarna väljer du **länken Valda** användare. I listan som visas visas endast de valda användarna.
 
 5. Välj länken **Hantera** licenser.
 
-6. Under **Tilldela och återkalla licenser avmarkerar** du kryssrutorna för produkter som tilldelats till användarna.
+6. Under **Tilldela och återkalla licenser** avmarkerar du kryssrutorna för produkter som tilldelats till användarna.
 
-   Om alla valda användare till exempel har Office 365 Enterprise-licenser och du vill återkalla dem markerar du kryssrutan för att avmarkera den.
+   Om till exempel alla valda användare har Office 365 Enterprise licenser och du vill återkalla dem, markerar du kryssrutan för att rensa den.
 
 7. Välj **Spara**.
 

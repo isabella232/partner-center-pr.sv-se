@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 0fc54aaa8c5da8bffbae82e1fc01c8165834b96e
-ms.sourcegitcommit: 41e34d6c97a45e6f0b76d76a797398cd06665634
+ms.openlocfilehash: 7daacc29fd48b6404ff5949560c872beef5c9770
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/28/2021
-ms.locfileid: "112989333"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114846204"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Visa tillgängliga intjänade, påförde och återstående co-op-medel
 

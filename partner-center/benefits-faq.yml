@@ -3,31 +3,31 @@ metadata:
   title: Microsoft Partner Network – vanliga frågor och svar
   ms.topic: article
   ms.date: 12/15/2020
-  description: Svar på frågor om förfallotid för förmånen, förnyelse och aktivering av licenser för Azure, molnet, Visual Studio samt tekniska förmåner och supportförmåner
+  description: Svar på frågor om förfallotid, förnyelse och aktivering av licenser för Azure, molnet, Visual Studio samt tekniska förmåner och supportförmåner
   ms.service: partner-dashboard
-  ms.subservice: partnercenter-mpn
+  ms.subservice: partnercenter-benefits
   author: arpithakanuganti
   ms.author: v-arkanu
   ms.localizationpriority: medium
   ms.custom: SEOJUNE20
-  ms.openlocfilehash: 72db9073e071581e1f8b7eb685da1d1d7db56294
-  ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
+  ms.openlocfilehash: 8ca944dfe4b3bca722c1c5d82eee261c64a64715
+  ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "112915687"
+  ms.lasthandoff: 07/29/2021
+  ms.locfileid: "114842770"
 title: Microsoft Partner Network – vanliga frågor och svar
 summary: >
   **Lämpliga roller:** MPN-partneradministratör
 
 
-  Många vanliga frågor om Microsoft Partner Network (MPN) tas upp i den här artikeln.
+  Många vanliga frågor om Microsoft Partner Network (MPN)-förmåner behandlas i den här artikeln.
 sections:
 - name: Allmänna frågor
   questions:
   - question: >
       Vad betyder "Förfallodatum för förmån"
-    answer: "Förfallodatum för förmånen innebär det sista datumet då du aktiverade dina förmåner.\n\nDu har tills förnyelsedatumet för att lösa in de förmåner som är tillgängliga under din registreringsperiod på ett år. Du hittar startdatumet för förnyelsen på sidan [Medlemskapserbjudanden på](https://partner.microsoft.com/dashboard/mpn/offers) MPN-instrumentpanelen.\n\nDu kan dock använda produktnycklar i ett år från den dag då du löser in nycklarna i deras respektive molnportaler.\n\nOm din förmån till exempel upphör att gälla den 31 januari 2021 måste du lösa in nycklarna i lämplig molnportal före den 31 januari 2021. Och om du löser in din produktnyckel den 1 december 2020 kan du använda nyckeln fram till den 1 december 2021, även om förfallodatumet för din förmån är 31 januari.\n\n> [!NOTE]  \n> Om du har förmåner som kräver en användartilldelning (till exempel Visual Studio-prenumerationer) kan du aktivera och använda dessa förmåner i ytterligare 30 dagar efter förnyelsedatumet för registreringen.\n"
+    answer: "Förfallodatum för förmånen innebär det sista datumet för att aktivera dina förmåner.\n\nDu har fram till förnyelsedatumet på dig att lösa in de förmåner som är tillgängliga under registreringsperioden på ett år. Du hittar startdatumet för förnyelsen på sidan [Medlemskapserbjudanden](https://partner.microsoft.com/dashboard/mpn/offers) på MPN-instrumentpanelen.\n\nDu kan dock använda produktnycklar i ett år från den dag då du löser in nycklarna i deras respektive molnportaler.\n\nOm din förmån till exempel upphör att gälla den 31 januari 2021 måste du lösa in nycklarna i lämplig molnportal före den 31 januari 2021. Och om du löser in din produktnyckel den 1 december 2020 kan du använda den nyckeln fram till den 1 december 2021, även om förfallodatumet för din förmån är 31 januari.\n\n> [!NOTE]  \n> Om du har förmåner som kräver en användartilldelning (till exempel Visual Studio-prenumerationer) kan du aktivera och använda dessa förmåner i ytterligare 30 dagar efter förnyelsedatumet för registreringen.\n"
   - question: >
       Hur gör jag för att förnya mina förmåner
     answer: >
@@ -46,11 +46,11 @@ sections:
       4. Aktivera den förmån som du vill ha.
 
 
-      Om förmånen du vill ha inte är tillgänglig måste du förnya ditt Partnercenter-medlemskap och upprepa processen ovan.
+      Om förmånen du vill ha inte är tillgänglig måste du förnya ditt PartnerCenter-medlemskap och upprepa processen ovan.
   - question: >
       Jag har fått ett meddelande om att min prenumeration snart går ut – vad ska jag göra?
     answer: >
-      Logga in på molnportalen som genererade meddelandet, granska utgångsdatumet för dina befintliga prenumerationer och lägg sedan till licenser till prenumerationen som går ut eller utöka den befintliga prenumerationen för nästa registreringsår.
+      Logga in på molnportalen som genererade meddelandet, granska förfallodatumet för dina befintliga prenumerationer och lägg sedan till licenser till prenumerationen som upphör att gälla eller utöka den befintliga prenumerationen för nästa registreringsår.
   - question: >
       När kan jag förnya mitt medlemskap
     answer: >
@@ -58,25 +58,25 @@ sections:
 - name: Fördelar med Azure- och molnaktivering
   questions:
   - question: >
-      Hur fungerar det att lägga till, utöka/förnya licenser i Azure
+      Hur fungerar det att lägga till, utöka/förnya licenser på Azure?
     answer: "När du lägger till licenser ökar du antalet totala licenser för din befintliga prenumeration.\n\nNär du förnyar eller utökar prenumerationer förblir antalet licenser desamma, men du förlänger tiden för dessa prenumerationer.\n\n> [!IMPORTANT]  \n> Om du väljer att lägga till licenser för en befintlig prenumeration upphör prenumerationen att gälla inom 12 månader, beroende på antalet befintliga och tillagda licenser. När du har löst in en nyckel kan du inte lösa in den igen. Innan du löser in din nyckel måste du se till att du förstår om du behöver lägga till licenser eller förnya/utöka prenumerationen.\n"
   - question: >
       Kan jag aktivera licensen på min kunds konto?
     answer: >
-      Nej. Produktlicenser utfärdas i demonstrationssyfte. Sälj- och marknadsföringspersonal kan använda den här programvaran för att demonstrera produkter för dina kunder, men demonstrationsprodukter kan inte installeras på kundens maskinvara eller infrastruktur och måste användas med partnerövervakning.
+      Nej. Produktlicenser utfärdas i demonstrationssyfte. Sälj- och marknadsföringspersonal kan använda den här programvaran för att visa upp produkter för dina kunder, men demonstrationsprodukter kan inte installeras på kundens maskinvara eller infrastruktur och måste användas med partnerövervakning.
   - question: >
       Jag har problem med att tilldela användare i Azure-masskredit. Vad ska jag göra?
     answer: >
-      Du kan inte kombinera Azure Bulk Credit-erbjudanden med andra erbjudanden. Om en användartilldelning inte fungerar innebär det förmodligen att den användare som du vill tilldela redan använder andra licensierings-, förbetalda eller krediterbjudanden som Microsoft Enterprise-avtal, Molnlösningspartner, Azure i Open, Azure-pass, Action Pack osv. Om användaren inte prenumererar på något av dessa avtal eller planer och du fortfarande inte kan tilldela dem kan du kontakta Microsoft Support.
-- name: Visual Studio fördelar
+      Du kan inte kombinera Azure Bulk Credit-erbjudanden med andra erbjudanden. Om en användartilldelning inte fungerar innebär det förmodligen att den användare som du vill tilldela redan använder andra licensierings-, förbetalda eller krediterbjudanden som Microsoft företagsavtal, Cloud Solution Partner, Azure i Open, Azure-pass, Action Pack osv. Om användaren inte prenumererar på något av dessa avtal eller planer och du fortfarande inte kan tilldela dem kan du kontakta Microsoft Support.
+- name: Visual Studio Fördelar
   questions:
   - question: >
-      Hur fungerar Visual Studio aktivering i Partnercenter
-    answer: "Du kan tilldela prenumerationer till vem som helst i din användarhanteringslista i Partnercenter eller i din Azure Active Directory-klientorganisation (AAD) genom att göra följande:\n\n1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).\n\n2. På menyn i Partnercenter väljer du **MPN**.\n\n3. Välj **Fördelar** och välj **sedan Visual Studio**.\n\n4. Tilldela önskade användare till dina befintliga Visual Studio tillgängliga.\n\nNär du har tilldelat prenumerationen måste användaren logga in på Visual Studio hantera den.\n\n> [!Note]  \n> Visual Studio prenumerationer kan tilldelas om från en prenumerant till en annan om 90 dagar har gått sedan den ursprungliga tilldelningen.\n"
+      Hur fungerar Visual Studio aktivering i Partnercenter?
+    answer: "Du kan tilldela prenumerationer till vem som helst i din användarhanteringslista i Partnercenter eller i din Azure Active Directory-klientorganisation (AAD) genom att göra följande:\n\n1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).\n\n2. På menyn i Partnercenter väljer du **MPN**.\n\n3. Välj **Förmåner** och välj sedan **Visual Studio**.\n\n4. Tilldela önskade användare till dina befintliga Visual Studio tillgängliga.\n\nNär du har tilldelat prenumerationen måste användaren logga in på Visual Studio hantera den.\n\n> [!Note]  \n> Visual Studio prenumerationer kan tilldelas om från en prenumerant till en annan om 90 dagar har gått sedan den ursprungliga tilldelningen.\n"
 - name: Tekniska fördelar och support
   questions:
   - question: >
-      Jag kan inte installera programvaran som jag laddade ned från Partnercenter. Hur gör jag för att få hjälp
+      Jag kan inte installera den programvara som jag laddade ned från Partnercenter. Hur gör jag för att få hjälp
     answer: >
       Installation, aktivering och annan produktrelaterad hjälp tillhandahålls via Microsoft Support. Gör följande för att få hjälp:
 

@@ -3,31 +3,31 @@ title: Tilldela roller & behörigheter till användare
 ms.topic: article
 ms.date: 10/30/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Lär dig vilka roller som är bäst för företagets användare som hanterar kommersiella transaktioner, referenser, incitament eller MPN-medlemskap i Partnercenter.
+ms.subservice: partnercenter-enroll
+description: Lär dig vilka roller som passar bäst för företagets användare som hanterar kommersiella transaktioner, hänvisningar, incitament eller MPN-medlemskap i Partnercenter.
 author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
-ms.openlocfilehash: a9cca322d7a37dce099c5bec44530b2006da7758
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 07bfa5fc59f7f3b29abbc3902f2cb2dd98738c28
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114373660"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843076"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Tilldela användarroller och behörigheter för ett företags användare som behöver arbeta i Partnercenter
 
-**Lämpliga roller:** Globala | Administratörsbehörighet för | MPN-partneradministratör
+**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | MPN-partneradministratör
 
-Du har skapat din partnerprofil, inklusive juridiskt namn och adress, supportinformation, skattebefrielse för filer, bankinformation och företagets primära kontakt. Nästa steg: Konfigurera dina användare med lösenord och roller så att de kan börja arbeta i Partnercenter med dig.
+Du har ställt in din partnerprofil, inklusive juridiskt namn och adress, supportinformation, skattebefrielse för filer, bankinformation och den primära kontakten för ditt företag. Nästa steg: Konfigurera dina användare med lösenord och roller så att de kan börja arbeta i Partnercenter med dig.
 
 ## <a name="set-up-your-employees-to-work-in-partner-center"></a>Konfigurera dina anställda att arbeta i Partnercenter
 
-Du bestämmer vilka typer av åtkomst dina användare har till Partnercenter efter de roller och behörigheter som du ger dem. Roller är relaterade till de program som din verksamhet ingår i. Om ditt företag till exempel är ett Molnlösningsleverantör-företag (CSP) har du inte bara standardrollerna för Azure Active Directory-klientorganisationshantering (Azure AD), till exempel global administratör, utan behöver roller som är specifika för CSP-programmet. Varje program har specifika roller.
+Du avgör vilka typer av åtkomst dina användare har till Partnercenter efter de roller och behörigheter som du ger dem. Roller är relaterade till de program som din verksamhet ingår i. Om ditt företag till exempel är ett Molnlösningsleverantör-företag (CSP) har du inte bara standardrollerna för Azure Active Directory-klientorganisation (Azure AD), till exempel global administratör, utan behöver roller som är specifika för CSP-programmet. Varje program har specifika roller.
 
 >[!Note]
-> Azure AD-klientroller omfattar rollerna global administratör, användaradministratör och CSP. Icke-Azure AD-roller är de roller som inte hanterar klientorganisationen och de omfattar MPN-partneradministratör (Microsoft Partner Network), företagsprofiladministratör, referensadministratör, incitamentadministratör och incitamentsanvändare. 
+> Azure AD-klientroller omfattar rollerna global administratör, användaradministratör och CSP. Icke-Azure-AD-roller är de roller som inte hanterar klientorganisationen och de omfattar MPN-partneradministratör (Microsoft Partner Network), företagsprofiladministratör, referensadministratör, incitamentadministratör och incitamentanvändare. 
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Hantera kommersiella transaktioner i Partnercenter (Azure AD- och CSP-roller)
 
@@ -39,7 +39,7 @@ Du bestämmer vilka typer av åtkomst dina användare har till Partnercenter eft
 ||* Visa avtal, prislistor och erbjudanden
 ||* Visa, skapa och hantera partneranvändare|
 ||  Visa, skapa och hantera fakturering, fakturor och rekognoseringsfiler
-|Administratör för användarhantering   | * Visa, skapa och hantera användare|[Hantera dina Microsoft Partner Network medlemsförmåner och erbjudanden i Partnercenter](manage-your-partner-network-benefits.md)
+|Administratör för användarhantering   | * Visa, skapa och hantera användare|[Hantera dina Microsoft Partner Network medlemskapsförmåner och erbjudanden i Partnercenter](manage-your-partner-network-benefits.md)
 ||* Visa alla partnerprofiler
 ||* Skapa supportärenden för Partnercenter
 ||* Visa partnersupportärenden som du skapar
@@ -60,20 +60,20 @@ Du bestämmer vilka typer av åtkomst dina användare har till Partnercenter eft
 ||* Registrera en återförsäljare med mervärde
 ||* Skapa supportärenden för Partnercenter
 ||* Visa partnersupportärenden som du skapar|
-|Försäljningsagent | * Kundhantering|[Tillhandahålla faktureringssupport för dina kunder och få hjälp med att besvara frågor om fakturering](provide-billing-support.md)
+|Försäljningsagent | * Kundhantering|[Tillhandahålla faktureringssupport för dina kunder och hjälp med att besvara deras faktureringsfrågor](provide-billing-support.md)
 ||* Lägg till enhetslista i Partnercenter
 ||* Prenumerationshantering
 ||* Visa supportärenden
 ||* Begära en relation med en kund
 ||* Visa priser och erbjudanden
-||* Hantera kundlyssnare
+||* Hantera kund-leads
 ||* Visa kundavtalet
 ||* Registrera en återförsäljare med mervärde
 ||* Skapa supportärenden för Partnercenter
 ||* Visa partnersupportärenden som du skapar|
-|Supportagent| * Söka efter och visa en kund|[Eskalera problem till Microsoft och lär dig vilka problem som passar bättre för Microsofts eskalering](escalate-problems-to-microsoft.md)
+|Supportagent| * Sök efter och visa en kund|[Eskalera problem till Microsoft och lär dig vilka problem som passar bättre för Microsoft-eskalering](escalate-problems-to-microsoft.md)
 ||* Redigera kundinformation
-||* Hjälp med att lösa kundproblem med fakturerings- eller prenumerationshantering
+||* Hjälp till att lösa kundproblem med fakturerings- eller prenumerationshantering
 ||* Begär support för kunders räkning 
 ||* Hantera prenumerationer och faktureringsproblem åt kunder
 ||* Skapa supportärenden för Partnercenter
@@ -93,7 +93,7 @@ CPV:er utvecklar appar för användning av CSP-partner så att de kan integrera 
 |**Gästanvändare**   | **Roller**|
 |---------------------------|:--------------------|
 ||MPN-partneradministratör|
-||Administratör för företagsprofil|
+||Företagsprofiladministratör|
 ||Referensadministratör|
 
 
@@ -111,14 +111,14 @@ Dessa roller är inte Azure AD-roller. De här rollerna hanterar företagets ver
 ||* Visa och köpa MPN-erbjudanden
 ||* Visa MPN-erbjudanden, orderhistorik och fakturor
 ||* Visa indikatordata för partnerbidrag
-||* Kan fungera i valideringsverktyget för validering av validering|
+||* Kan fungera i valideringsverktyget för validering|
 ||* Visa kunddataanalys
-||* Visa andra användarroller i företaget, men kan inte tilldela roller
+||* Visa andra användarroller inom företaget, men kan inte tilldela roller
 ||* Skapa supportärenden för Partnercenter
 ||* Visa partnersupportärenden som du skapar
-|Kontoadministratör| Lägg till platser|[Hantera platser](manage-locations.md)
+|Kontoadministratör| Lägga till platser|[Hantera platser](manage-locations.md)
 || Hantera profiler relaterade till de konton som du är administratör för 
-||* Tilldela roller för användare i klientorganisationen till icke-Azure AD-roller 
+||* Tilldela roller för användare i klientorganisationen till icke-Azure-AD-roller 
 ||* Registrera platser i program
 ||* Skapa supportärenden för Partnercenter
 ||* Visa partnersupportärenden som du skapar
@@ -135,9 +135,9 @@ Dessa roller är inte Azure AD-roller. De här rollerna hanterar företagets ver
 ||    Kan skapa och visa supportärenden
 |Referensanvändare|Skapa och hantera möjligheter till säljförsäljning endast om de ingår i teamet |[Hantera möjligheter till säljsamarbete](manage-co-sell-opportunities.md)
 ||    Kan skapa möjligheter till säljförsäljning för de platser där de tilldelas rollen.
-||    Kan visa och registrera avtal för affärsmöjligheter som markerats som vann och berättigade till avtalsregistrering om de är gruppmedlem.
+||    Kan visa och registrera avtal för affärsmöjligheter som har markerats som vann och berättigade till avtalsregistrering om de är gruppmedlem.
 ||    Kan skapa och visa supportärenden
-|Administratör för företagsprofil|Skapa och hantera företagsprofiler | [Hantera företagsprofiler](create-a-marketing-profile.md)
+|Företagsprofiladministratör|Skapa och hantera företagsprofiler | [Hantera företagsprofiler](create-a-marketing-profile.md)
 ||    Kan skapa och visa supportärenden
 
 Tillsammans med den nya referensanvändarrollen introducerar vi även platsomfånget för avtal. Tabellen nedan förklarar avtalsåtkomsten baserat på platsen.
@@ -147,9 +147,9 @@ Tillsammans med den nya referensanvändarrollen introducerar vi även platsomfå
 |Hela företaget | Både administratörer och användare har åtkomst till att skapa avtal för alla platser i företaget|
 || Referensadministratören har åtkomst till att visa och redigera alla avtal |
 || Hänvisningsanvändare har endast åtkomst till att visa och redigera alla avtal om de ingår i teamet |
-|En eller flera platser | Både administratörer och användare har åtkomst till att skapa avtal för den tilldelade platsen i sitt företag|
+|En eller flera platser | Både administratörer och användare har åtkomst till att skapa avtal för den tilldelade platsen i företaget|
 || Referensadministratören har åtkomst till att visa och redigera alla avtal som hör till de tilldelade platserna|
-|| Hänvisningsanvändare har åtkomst till att visa och redigera alla avtal som hör till de tilldelade platserna om de ingår i teamet|
+|| Hänvisningsanvändare har åtkomst att visa och redigera alla avtal som hör till de tilldelade platserna om de ingår i teamet|
 
 ## <a name="manage-incentives"></a>Hantera incitament
 
@@ -160,7 +160,7 @@ Tillsammans med den nya referensanvändarrollen introducerar vi även platsomfå
 ||* Kan visa och redigera bank- och skatteinformation
 ||* Visa löner och co-op-intäkter
 ||* Åtkomststöd
-||* Bestrid incitamentsbetalningar|
+||* Bestrida incitamentsbetalningar|
 |Incitamentsanvändare|* Kan visa incitamentsprogram
 ||* Kan visa och initiera incitamentsanspråk
 ||* Visa löner och co-op-intäkter
@@ -171,8 +171,8 @@ Tillsammans med den nya referensanvändarrollen introducerar vi även platsomfå
 
 |**Role** | **Det här kan du göra**|**Läs mer**|
 |------------------------------|:-------------------------|---|
-|Visningsprogram för exekutiv rapport|Åtkomst till alla rapportdatauppsättningar, skapa partnersupportärenden, visa partnersupportärenden som du skapar|[Översikt över instrumentpanelsrapporter som är tillgängliga i Partnercenter-Insights](insights-overview-report.md)
-|Rapportvisningsprogram|Åtkomst till datarapporter med undantag för intäkter och personliga data för kunder och anställda, skapa partnersupportärenden, visa partnersupportärenden som du skapar|
+|Rapportvisningsprogram för chefer|Åtkomst till alla rapportdatauppsättningar, skapa partnersupportärenden, visa partnersupportärenden som du skapar|[Översikt över instrumentpanelsrapporter som är tillgängliga i Partnercenter Insights](insights-overview-report.md)
+|Rapportvisningsprogram|Åtkomst till datarapporter med undantag för intäkter och kund- och medarbetares personliga data, skapa partnersupportärenden, visa partnersupportärenden som du skapar|
 
 ## <a name="next-steps"></a>Nästa steg
 

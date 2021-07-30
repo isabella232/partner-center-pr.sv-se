@@ -3,18 +3,18 @@ title: Bli global administratör för ditt företag
 ms.topic: how-to
 ms.date: 12/03/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Om du vill arbeta i Partnercenter måste du först verifiera ägarskapet för din domän. Lär dig hur du gör detta och hur du blir en global administratör som kan lägga till användare.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 94425b0695ed0e3ec89e5953f648f5de7a199432
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 01b8be1e02dcbc0a35f0cc24371c1a2819d4430f
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149306"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842429"
 ---
 # <a name="verify-your-domain-ownership-to-become-global-admin"></a>Verifiera ägandet till en domän för att bli global administratör 
 
@@ -25,15 +25,15 @@ Om du vill arbeta i Partnercenter måste du först verifiera ägarskapet för di
 
 ## <a name="verify-your-domain-ownership-to-become-a-global-admin-in-partner-center"></a>Verifiera ditt domänägarskap för att bli global administratör i Partnercenter
 
-Om du vill bli global administratör för ditt företag måste du verifiera domänägarskapet.
+Om du vill bli global administratör för ditt företag måste du verifiera att du äger domänen.
 
-1. På instrumentpanelen i Partnercenter går du **till sidan Medlemskapserbjudanden** och **väljer Bli global administratör.** 
+1. På instrumentpanelen i Partnercenter går du till **sidan Medlemskapserbjudanden** och **väljer Bli global administratör.** 
 
-2. På sidan **Verifiera domänägarskap** kopierar du TXT-värdena från tabellen. Observera att din domän redan har valts åt dig.
+2. På sidan **Verifiera domänägarskap** kopierar du TXT-värdena från tabellen. Observera att domänen redan är vald åt dig.
 
 3. Logga in på din domän. 
 
-4. Följ stegen i din domän för att klistra in TXT-värdena i DNS-formuläret.  På så sätt kan vi kontrollera att du äger domänen som du försöker arbeta från.
+4. Följ stegen som domänen anger och klistra in TXT-värdena i DNS-formuläret.  På så sätt kan vi kontrollera att du äger domänen du försöker arbeta från.
 
 5. Gå tillbaka till Partnercenter och **välj Ok, jag har lagt till posten**
 
@@ -52,7 +52,7 @@ Om du verifierar ägarskapet för din domän blir du även global administratör
 
 1. Från ikonen **Inställningar längst** upp till höger i Partnercenter väljer du **Användarhantering.**
 
-1. Filtrera på global administratör i sökrutan. En lista över globala administratörer i ditt företag visas. Om ditt företag ännu inte har en global administratör följer du anvisningarna nedan.
+1. Filtrera på global administratör i sökrutan. En lista över globala administratörer i ditt företag visas. Om ditt företag ännu inte har någon global administratör följer du anvisningarna nedan.
 
 ## <a name="next-steps"></a>Nästa steg
 

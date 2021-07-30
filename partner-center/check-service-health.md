@@ -3,18 +3,18 @@ title: Kontrollera tjänstens hälsa för en kund
 ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-support
 description: Lär dig hur du använder Partnercenter för att kontrollera tjänstens hälsa för en kund när de upplever problem med en tjänst.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db5856914ab988a8fc3beefeb5c425846383a921
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: d8d9bc05d2fe5ca87c5fa9f13371305a48fb6a52
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149136"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842719"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>Kontrollera tjänstens hälsotillstånd för en kund som rapporterar ett potentiellt tjänstproblem eller avbrott
 

@@ -3,25 +3,25 @@ title: Återställa ett användarlösenord
 ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Lär dig hur du återställer ett användarlösenord i Partnercenter. Användarna får ett tillfälligt lösenord nästa gång de loggar in på Partnercenter.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b5a486b4859f33971c14767406d73a5c0dab1576
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 6e6be8edb32f1469cac8eb13ff8746f58b662b2e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855547"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842855"
 ---
 # <a name="reset-a-users-password-in-partner-center"></a>Återställa en användares lösenord i Partnercenter
 
 **Lämpliga roller:** Global administratör
 
 > [!NOTE]  
-> Om du är registrerad i programmet Molnlösningsleverantör (CSP) i Microsoft Cloud Tyskland, se Användarhantering i [Partnercenter för Microsoft Cloud Tyskland](user-management-in-partner-center-for-microsoft-cloud-germany.md) för information om hur du återställer en användares lösenord.
+> Om du har registrerat dig i Molnlösningsleverantör-programmet (CSP) i Microsoft Cloud Tyskland, se Användarhantering i [Partner center för Microsoft Cloud Tyskland](user-management-in-partner-center-for-microsoft-cloud-germany.md) för information om hur du återställer en användares lösenord.
 
 Om användarna glömmer sina lösenord tilldelar du dem ett tillfälligt lösenord. De kan använda den nästa gång de loggar in på Partnercenter.
 

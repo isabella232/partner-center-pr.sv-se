@@ -3,18 +3,18 @@ title: Molnlösningsleverantör översikt över program
 ms.topic: article
 ms.date: 10/29/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Lär dig mer om fördelarna och olika modeller i programmet Molnlösningsleverantör (CSP) som hjälper ditt företag att växa med nya kunder och ny expertis.
+ms.subservice: partnercenter-enroll
+description: Läs mer om fördelarna och olika modeller i CSP Molnlösningsleverantör programmet (CSP) som hjälper ditt företag att växa med nya kunder och ny expertis.
 author: billlinzbach
 ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8afa7b060d2d78c7f2dfaee7007bb13756917d13
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 61117b77efdb447abad482654afc7220aa2bcce6
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147572"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842343"
 ---
 # <a name="cloud-solution-provider-program"></a>CSP-program 
 
@@ -42,13 +42,13 @@ Det här behöver du:
 
 ### <a name="direct-bill-model"></a>Modell för direktfakturering
 
-I modellen med direktfakturering köper partner Microsoft-produkter och -prenumerationer direkt från Microsoft och säljer dem direkt till sina kunder via den lokala säljpersonalen. Partner som redan arbetar med eller är villiga att utveckla lämplig infrastruktur för försäljning, fakturering och support kan välja direktmodell. Vi har uppdaterat registreringskraven för direktfaktureringspartner från och med 27 oktober 2020.
+I modellen med direktfakturering köper partner Microsoft-produkter och -prenumerationer direkt från Microsoft och säljer dem direkt till sina kunder via den lokala säljpersonalen. Partner som redan arbetar med eller är villiga att utveckla lämplig infrastruktur för försäljning, fakturering och support kan välja den direkta modellen. Vi har uppdaterat registreringskraven för direktfaktureringspartner från och med 27 oktober 2020.
 
 #### <a name="requirements"></a>Krav
 
 Granska de uppdaterade kraven och rekommendationerna för direktfakturering nedan för att utvärdera hur du kan skapa och expandera en mer lönsamma verksamhet med rätt modell i Molnlösningsleverantör program:  
 
-- **Support:** Utöka dina supportfunktioner genom att köpa en-till-en-prioriterad molnsupport med ett Microsoft Advanced Support for Partners-paket. Du kan också välja ett Microsoft Premier Support for Partners-paket för att få åtkomst till den fullständiga katalogen med proaktiva tjänster, utökad support dygnet runt, samt teknisk kontohantering i molnet, hybridtjänster och lokalt. Granska Microsoft-partneravtal för att förstå din supportåtagande
+- **Support:** Utöka dina supportfunktioner genom att köpa en-till-en-prioriterad molnsupport med ett Microsoft Advanced Support for Partners-paket. Du kan också välja ett Microsoft Premier Support for Partners-paket för att få åtkomst till den fullständiga katalogen med proaktiva tjänster, utökad support dygnet runt alla dagar i veckan och teknisk kontohantering i molnet, hybridtjänster och lokalt. Granska Microsoft-partneravtal för att förstå din supportåtagande
 - **Prestandakrav:** Se till att du har minst 300 000 USD Molnlösningsleverantör årliga intäkter under de föregående tolv månaderna som indirekt återförsäljare. Partner kan granska sina avslutande tolvmånadersintäkter i Partnercenter. Den försäljning som utgör dina USD300K avslutande tolvmånadersintäkter kan granskas och verifieras av Microsoft och du kan bli ombedd att ange ytterligare information. Intäktskravet USD300K beräknas baserat på molnintäkter och exkluderar permanent programvara i CSP.
 - Uppfylla de minsta infrastrukturfunktionerna, till exempel fakturering och etablering
 - Ett aktivt medlemskap i Microsoft Partner Network och MPN-ID för den plats som du vill sälja i.

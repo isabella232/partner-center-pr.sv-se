@@ -3,24 +3,24 @@ title: Storleksändring av virtuella Azure-datorer för maximal reservationsanv�
 description: Lär dig att ändra storlek på en virtuell dator (VM) efter dina kunders databehandlingsbehov när du köper Microsoft Azure reservationer åt dem.
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 650618de7460f4667c60ac58cbe6716530db7f16
-ms.sourcegitcommit: b55f63a029d88c73cd5190bbac2df1b5990e6e44
+ms.openlocfilehash: dc9b9100e01191c24c03c76e9a9ff5a6ffe335d1
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "113510201"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842192"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Storleksändring av virtuell Microsoft Azure-dator för maximal reservationsanvändning
 
 **Lämpliga roller:** Administratörsagent | Försäljningsagent
 
-I den här artikeln förklaras hur du kan ändra storlek på en virtuell dator (VM) till dina kunders databehandlingsbehov när du köper Microsoft Azure reservationer åt dem.
+I den här artikeln förklaras hur du kan ändra storlek på en virtuell dator (VM) efter dina kunders databehandlingsbehov när du köper Microsoft Azure reservationer åt dem.
  
 > [!NOTE]
 > Den här artikeln gäller endast för partner i Molnlösningsleverantör-programmet (CSP). Kunder som använder andra typer av prenumerationer (till exempel betala enligt användning, enskilda prenumerationer, Microsoft-kundavtal- eller företagsavtal-prenumerationer) bör i stället läsa dokumentationen om [Azure-reservationer.](/azure/cost-management-billing/reservations)
@@ -48,7 +48,7 @@ Anvisningar för hur du använder var och en av dessa metoder finns nedan. När 
 
 2. Mer information finns i [Hämta en kunds användningsposter för Azure i](/partner-center/develop/get-a-customer-s-utilization-record-for-azure) Partner Center [API.](/partner-center/develop/)
 
-### <a name="get-vm-sizing-information-using-the-microsoft-azure-portal"></a>Hämta storleksinformation för virtuella datorer med hjälp Microsoft Azure portalen
+### <a name="get-vm-sizing-information-using-the-microsoft-azure-portal"></a>Hämta storleksinformation för virtuella datorer med Microsoft Azure portalen
 
 1. I Partnercenter går du till sidan **Kunder.**
 
@@ -106,7 +106,7 @@ Anvisningar för hur du använder var och en av dessa metoder finns nedan.
     b. Om reservationens användning är 0 % tillämpas rabatten inte på någon virtuell dator.
     c. Om reservationens användning är mellan 1 % och 99 % finns det oanvända fördelar.
 
-5. Du kan undvika den här situationen genom att fastställa rätt storlek på den virtuella datorn för att stödja kundens databehandlingsbehov innan du gör köpet.
+5. Du kan undvika den här situationen genom att fastställa rätt storlek på den virtuella datorn för att stödja kundens behov av databehandling innan du gör köpet.
 
 ### <a name="verify-the-customers-reservation-usage-with-the-azure-utilization-api"></a>Verifiera kundens reservationsanvändning med API:et för Azure-användning
 

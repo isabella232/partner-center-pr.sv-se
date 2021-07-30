@@ -2,29 +2,29 @@
 title: Visa intäkter i CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Lär dig hur du visar dina incitamentsutdrag och intäkter i verktyget CHIP (Channel Incentives Platform).
+description: Lär dig hur du visar incitamentsutdrag och intäkter i verktyget CHIP (Channel Incentives Platform).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 74606a4c7f52e5aa23f7e963cab27e491c436b59
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: a8703d9a8c482ac3fba5497780b2f5163bf86061
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149034"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842665"
 ---
 # <a name="view-earnings-using-the-chip-tool"></a>Visa intäkter med hjälp av CHIP-verktyget
 
 **Lämpliga roller:** Primär kontakt eller programadministratör
 
-Du kan komma åt ditt incitamentsutdrag via verktyget Channel Incentives Platform (CHIP).
+Du kan komma åt incitamentsutdraget via verktyget Channel Incentives Platform (CHIP).
 
 ## <a name="view-earnings"></a>Visa intäkter
 
-1. Logga in på CHIP med din Microsoft-konto (tidigare Live ID).
+1. Logga in på CHIP med ditt Microsoft-konto (tidigare live-ID).
 
 2. Välj det incitamentsprogram som du är intresserad av.
 
@@ -36,7 +36,7 @@ Du kan komma åt ditt incitamentsutdrag via verktyget Channel Incentives Platfor
 
 |**Tabb**|**Definition**|
 |-------------|--------------------------|
-|DetailReport-Flatfile|Innehåller information om incitamentsprogrammet för den valda tidsperioden, inklusive kundnamn, avtal, information om utnyttjad|
+|DetailReport-Flatfile|Innehåller information om incitamentsprogrammet för den valda tidsperioden, inklusive kundnamn, avtal och information om sporre|
 |DeltaReport-pivot|Uppdateringar från den senaste publicerade instruktionen endast för Enterprise|
 |DetailReport-pivot|Sammanfattning av betalningsinformation, inklusive valuta och betalningsbelopp|
 |Achievement-information|Baslinjevärde, achievement och tillväxtprocent endast för SPLAR|

@@ -3,18 +3,18 @@ title: PartnerCenter för Microsoft US Government Cloud
 ms.topic: article
 ms.date: 05/26/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Den här Partnercenter-webbplatsen är för Microsoft-partner som erbjuder Microsoft-molnlösningar till kunder som arbetar med myndigheter i USA.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6b571ed5ff3eac0947b3c8d619c2605f0ac86f50
-ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
+ms.openlocfilehash: b4edaddb76d72620324c0e26c971bbeb339beeff
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112915651"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843212"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government-supports-partner-offers-to-government-agencies"></a>Partnercenter för Microsoft Cloud for US Government stöder partnererbjudanden till myndigheter
 
@@ -24,7 +24,7 @@ ms.locfileid: "112915651"
 
 ## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>Microsoft Cloud for US Government: Uppfylla dataskyddskrav
 
-Den är utformad för amerikanska myndigheter och Microsoft Cloud for US Government amerikanska federala, statliga, lokala eller stamägda entiteter att välja bland en mängd olika Microsofts tjänster för molnbaserad databehandling. För att på bästa sätt hantera kunders specifika behov inom den offentliga sektorn har Microsoft gjort betydande investeringar i datacenter och är avsett att uppfylla dataskyddsefterlevnaden med amerikanska federala och statliga principer, krav och krav. Partnercenter för Microsoft Cloud for US Government gör det möjligt för partner att sälja Microsofts molntjänster till dessa kunder.
+Utformad för amerikanska myndigheter, Microsoft Cloud for US Government amerikanska federala, statliga, lokala eller stamägda entiteter att välja bland en mängd olika Microsofts tjänster för molnbaserad databehandling. För att på bästa sätt hantera kunders specifika behov inom den offentliga sektorn har Microsoft gjort betydande investeringar i datacenter och är avsett att uppfylla dataskyddsefterlevnaden med amerikanska federala och statliga principer, krav och krav. Partnercenter för Microsoft Cloud for US Government gör det möjligt för partner att sälja Microsofts molntjänster till dessa kunder.
 
 Observera att vissa av funktionerna som är tillgängliga i Partnercenter ännu inte är tillgängliga i Partnercenter för Microsoft Cloud for US Government.
 
@@ -58,6 +58,6 @@ Följande Partnercenter-uppgifter hanteras med hjälp av Azure-administratörspo
 
 Information om hur du hanterar användare och licenser finns [i Användar- och licenshantering i Partnercenter för Microsoft Cloud for US Government](user-management-in-partner-center-for-microsoft-us-govt-cloud.md).
 
-Information om hur du registrerar i CSP för Microsoft Government Cloud finns i Registrera i [CSP för Microsoft Cloud for US Government](enroll-in-csp-for-microsoft-us-govt-cloud.md).
+Information om hur du registrerar i CSP för Microsoft Government Cloud finns [i Registrera i CSP för Microsoft Cloud for US Government](enroll-in-csp-for-microsoft-us-govt-cloud.md).
 
 Vanliga frågor och svar [finns i Vanliga frågor och svar om CSP-programmet för Microsoft Cloud for US Government](faq-for-us-govt-cloud.yml).
