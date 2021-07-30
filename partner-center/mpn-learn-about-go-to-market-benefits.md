@@ -3,24 +3,24 @@ title: Läs mer om Go-To-Market med Microsoft-erbjudanden
 ms.topic: article
 ms.date: 03/08/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-benefits
 description: Lär dig hur Go-To-Market med Microsoft-erbjudanden kan hjälpa dig att påskynda tiden till marknad, generera leads och expandera din verksamhet.
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1b22075c91d7a19c555223409ed9410522e010d2
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: aa33b53a1eebe73122ed989074450cbf5888304f
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152247"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836293"
 ---
-# <a name="explore-your-go-to-market-with-microsoft-offers"></a>Utforska dina Go-To-Market med Microsoft-erbjudanden
+# <a name="explore-your-go-to-market-with-microsoft-offers"></a>Utforska marknadslansering med Microsoft-erbjudanden
 
 **Lämpliga roller:** Globala | MPN-partneradministratör
 
-När du blir Microsoft Partner Network medlem får du tillgång till medlemsförmåner som kan hjälpa dig att skapa och utveckla din verksamhet. Go-To-Market med Microsoft-resurser, erbjudanden och program är bland de [många fördelar](https://partner.microsoft.com/manage-your-partner-network-benefits) som du får som Microsoft Partner Network medlem.
+När du blir Microsoft Partner Network medlem får du tillgång till medlemskapsförmåner som kan hjälpa dig att skapa och utveckla din verksamhet. Go-To-Market med Microsoft-resurser, erbjudanden och program är bland de [många fördelar](https://partner.microsoft.com/manage-your-partner-network-benefits) som du får som Microsoft Partner Network medlem.
 
 Go-To-Market-erbjudanden ger dig tillgång till exklusiva försäljnings- och marknadsföringsresurser som kan hjälpa dig att påskynda din tid till marknad, generera leads och expandera din verksamhet.
 
@@ -29,7 +29,7 @@ Go-To-Market-erbjudanden ger dig tillgång till exklusiva försäljnings- och ma
 
 ## <a name="go-to-market-resources-offers-and-programs-available-by-membership-level"></a>Go-To-Market-resurser, erbjudanden och program som är tillgängliga efter medlemskapsnivå
 
-Dina Go-To-Market-erbjudanden varierar beroende på din specifika nivå av MPN-medlemskap, dina specialiseringar och eventuella [kompetenser som](learn-about-competencies.md) du uppnår.
+Dina Go-To-Market-erbjudanden varierar beroende på din specifika nivå av MPN-medlemskap, dina specialiseringar och eventuella [kompetenser](learn-about-competencies.md) som du uppnår.
 
 Alla MPN-medlemmar har åtkomst till vissa standard-GTM-resurser. Dessa omfattar åtkomst till färdiga marknadsföringstillgångar, en plattform för säljaktivering och digital marknadsföring på begäran. Det finns även ännu fler Go-To-Market-erbjudanden och program tillgängliga för partner som uppnår silver- eller guldkompetenser och/eller ISV-partner med ett erbjudande som är redo för säljförsäljning.
 
@@ -42,7 +42,7 @@ Ytterligare Go-To-Market-erbjudanden som är tillgängliga för dem med **silver
 - Optimering och referenshantering av företagsprofiler
 - Så här marknadsför du med Microsoft
 
-Ytterligare Go-To-Market-erbjudanden som  är tillgängliga för partner med guldkompetensnivåer och/eller ISV-partner med berättigande till säljkampanjer:
+Ytterligare Go-To-Market-erbjudanden som  är tillgängliga för partner med guldkompetensnivåer och/eller ISV-partner med berättigande till säljcitament:
 
 - Alla MPN-standardresurser för Go-To-Market
 - Alla Säljklara Go-To-Market-erbjudanden för Silver/ISV
@@ -56,7 +56,7 @@ Så här visar du dina Go-To-Market-erbjudanden:
 
 2. Välj MPN på menyn **till vänster.** Gör sedan något av följande:
 
-   - Välj **Översikt**. Bläddra till **avsnittet Snabblänkar** och välj sedan fliken **Go-to-market (Gå till** marknad).
+   - Välj **Översikt**. Bläddra till **avsnittet Snabblänkar** och välj sedan **fliken Go-to-market (Gå till** marknad).
 
      eller
 

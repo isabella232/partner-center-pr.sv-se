@@ -3,22 +3,22 @@ title: Sälja kundprenumerationer för CSP
 ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Lär dig hur partner i CSP-programmet kan sälja prenumerationer till kunder och hantera dem via Partnercenter.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 894d0152920c37c0c6d719fce562c43dbf96a6c4
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 93706ee18acac092c7c6b01b9d3f6e4786a0867e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147368"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844096"
 ---
 # <a name="how-csp-program-partners-can-sell-subscriptions-to-customers"></a>Så här kan CSP-programpartner sälja prenumerationer till kunder
 
-**Lämpliga roller:** Administratörsagent | Globala | Supportagent för | Försäljningsagent
+**Lämpliga roller:** Administratörsagent | Globala | Supportagent | Försäljningsagent
 
 Som CSP-partner är en av de centrala saker du gör att erbjuda prenumerationer för Microsoft-produkter till dina kunder. I Partnercenter kan du hantera alla dina prenumerationer för varje kund. Du kan lägga till prenumerationer, lägga till licenser till befintliga prenumerationer och även erbjuda utvärderingsprenumerationer till kunder som vill provköra programvaran. Dessutom kan du visa analyser för att förstå hur dina kunder använder programvaran, vilket hjälper dig att ge bättre support.
 

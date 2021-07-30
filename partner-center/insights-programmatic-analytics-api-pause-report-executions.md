@@ -3,17 +3,17 @@ title: Pausa API för rapportkörning – Insights data
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Använd det här API:et för att pausa körningen av alla rapporter i PartnerCenter-insikter.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1e490a6d5120d729f0ea4979a201e9a80ba2991c
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 798c5e87a3935923bd91d8e74716999fb8be4f54
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377201"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836378"
 ---
 # <a name="pause-report-executions-api"></a>Pausa API för rapportkörningar
 
@@ -28,7 +28,7 @@ Vid körning pausar detta API den schemalagda körningen av rapporter.
 
 **Begärandehuvud**
 
-|    Huvud    |    Typ    |    Description    |
+|    Huvud    |    Typ    |    Beskrivning    |
 |    ----    |    ----    |    ----    |
 |    Auktorisering    |    sträng    |    Krävs. Åtkomsttoken Azure Active Directory (AAD) i formuläret`Bearer <token>`    |
 |    Content-Type    |    sträng    |    `Application/JSON`    |
@@ -97,7 +97,7 @@ Den här tabellen definierar nyckelelementen i svaret:
 |    ----    |    ----    |
 |    ReportId     |    Universell unik identifierare (UUID) för den pausade rapporten     |
 |    ReportName     |    Namn som ges till rapporten när den skapades     |
-|    Description     |    Beskrivning som anges när rapporten skapas     |
+|    Beskrivning     |    Beskrivning som anges när rapporten skapas     |
 |    QueryId     |    Fråge-ID som skickades när rapporten skapades     |
 |    Söka i data     |    Frågetext som ska köras för den här rapporten     |
 |    Användare     |    Användar-ID som används för att skapa rapporten     |

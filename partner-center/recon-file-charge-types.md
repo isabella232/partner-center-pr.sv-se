@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 06/05/2020
 description: Identifiera typer av avgifter (till exempel licensbaserade, användningsbaserade och en-gång), krediter och rabatter i PartnerCenter-avstämningsfiler.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10438ba30c6eb5ba5b1daef1ad16521f1f8e77c6
-ms.sourcegitcommit: 70b8ebbe0d431c7a13529f9eabd1b24f40108a46
+ms.openlocfilehash: fe37a7cdc6ac8e60b9cc5672f4b53813e1f194f8
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/14/2021
-ms.locfileid: "113989782"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844249"
 ---
-# <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Förstå de olika avgiftstyperna i Avstämningsfiler i Partnercenter
+# <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Förstå de olika avgiftstyperna i Avstämningsfiler för Partnercenter
 
 **Gäller för**: Partner Center-| Partnercenter för Microsoft Cloud for US Government
 
@@ -40,13 +40,13 @@ Om du vill mappa dessa licensbaserade avgifter till din faktura **summerar du ko
 | Avgiftsbeskrivning (kolumnen ChargeType i avstämningsfilen) | Förklaring av avgifter |
 | ------------------------------------------------------------- | ------------------ |
 | Aktiveringsavgift | Det belopp som debiteras kunden när de använder prenumerationen efter köpet. |
-| Avbryta avgift | Återbetalade avgifter som återbetalas till kunden när associerade licenser ändras. |
-| Avbryt instansprorate | Avgiftsberäknade avgifter avbröts när en kund med månadsprenumeration pausade och associerade licenser ändrades under samma månad. |
+| Avbryta avgift | Återbetalade avgifter till kunden när associerade licenser ändras. |
+| Avbryta instansprorate | Avgiftsberäknade avgifter avbröts när en kund med månadsprenumeration pausade och associerade licenser ändrades under samma månad. |
 | Cykelavgift | Periodiska avgifter för en prenumeration. |
 | Cykelinstansprorate | Taxerade avgifter som utvärderas från kunden när associerade licenser ändras. |
 | Betala avgifter när du avbryter | Återbetalas i procent för oanvänd del av tjänsten vid annullering. |
-| Prorate fees when convert away from current offering (Prorate-avgifter när de konverteras bort från det aktuella erbjudandet) | Prorerade avgifter efter att ha konverterat bort från den aktuella månadsprenumerationen till en årlig prenumeration. |
-| Prorate fees when convert to a new offering (Prorate-avgifter vid konvertering till ett nytt erbjudande) | Prorerade avgifter efter konvertering av en månatlig prenumeration till en ny årsprenumeration. |
+| Prorate fees when convert away from current offering (Prorate-avgifter när de konverteras bort från det aktuella erbjudandet) | Räknade avgifter efter att ha konverterat bort från den aktuella månadsprenumerationen till en årlig prenumeration. |
+| Betala avgifter när du konverterar till ett nytt erbjudande | Prorerade avgifter efter konvertering av en månatlig prenumeration till en ny årsprenumeration. |
 | Betala avgifter vid köp | Avgiftstypen för en prenumeration när du använder både månatlig eller årlig fakturering. |
 | Betala avgifter vid förnyelse | Prorerade avgifter vid prenumerationsförnyelse. |
 | Förnya avgift | Avgift för att förnya en prenumeration |
@@ -84,11 +84,11 @@ Så här mappar du dessa krediter till din faktura:
 
 | Avgiftsbeskrivning (kolumnen ChargeType i avstämningsfilen) | Förklaring av avgifter |
 | ------------------------------------------------------------- | ------------------ |
-| Förskjut ett radobjekt | Delåterbetalning eller hel återbetalning till ett radobjekt, inklusive skatter. |
+| Förskjut ett radobjekt | Partiell eller hel återbetalning till ett radobjekt, inklusive skatter. |
 
 ### <a name="usage-based-discounts"></a>Användningsbaserade rabatter
 
-Om du vill mappa dessa användningsbaserade rabatter till din faktura summerar du **kolumnen PretaxCharges** från den användningsbaserade filen.
+Om du vill mappa dessa användningsbaserade rabatter till din faktura summerar du kolumnen **PretaxCharges** från den användningsbaserade filen.
 
 | Avgiftsbeskrivning (kolumnen ChargeType i avstämningsfilen) | Förklaring av avgifter |
 | ------------------------------------------------------------- | ------------------ |

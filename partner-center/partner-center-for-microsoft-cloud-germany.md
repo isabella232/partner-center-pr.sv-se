@@ -3,33 +3,33 @@ title: Partnercenter för Microsoft Cloud Tyskland
 ms.topic: article
 ms.date: 10/12/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Partnercenter för Microsoft Cloud Tyskland är företagsportalen för partner som vill erbjuda Microsofts molnlösningar till kunder i EU- och EFTA-länder.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19753f4fb848262fc8bed146427f0652096f6902
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 4389c02dfcb382abf655b0e8de7edec7356f010f
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151091"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836157"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany-for-partners-selling-to-customers-in-eu--efta-countries"></a>Partnercenter för Microsoft Cloud Tyskland för partner som säljer till kunder i EU & EFTA-länder
 
 **Gäller för:** Partner Center for Microsoft Cloud Tyskland
 
-**Lämpliga roller:** Globala | Administratörsbehörighet för | Administratörsagent | Försäljningsagent | Faktureringsadministratör
+**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Administratörsagent | Försäljningsagentens | Faktureringsadministratör
 
-Microsoft Cloud Tyskland är utformat för att uppfylla strikta tyska dataskyddskrav och innehåller en tysk datastyrning som verkar enligt tysk lagstiftning, som kontrollerar fysisk och logisk åtkomst till kunddata. Alla kunddata och de system som bearbetar eller styr åtkomsten till kunddata finns i tyska datacenter. Nätverket mellan dessa datacenter är isolerat och dedikerat i Tyskland.
+Microsoft Cloud Tyskland är utformat för att uppfylla strikta tyska dataskyddskrav och innehåller en tysk datarådsman som arbetar enligt tysk lag som kontrollerar fysisk och logisk åtkomst till kunddata. Alla kunddata och de system som bearbetar eller styr åtkomsten till kunddata finns i tyska datacenter. Nätverket mellan dessa datacenter är isolerat och dedikerat i Tyskland.
 
-Microsoft Cloud Tyskland tillhandahåller en separat instans [av Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=847992), som levereras från datacenter i Tyskland. Det innebär att kommersiella kunder i EU och European Free Trade Association (EFTA) kan lagra och hantera kunddata i enlighet med tillämpliga tyska lagar och förordningar samt viktiga internationella standarder. Microsofts personal kan inte komma åt kunddata utan godkännande från och övervakning av den tyska datakällan eller kunden.
+Microsoft Cloud Tyskland tillhandahåller en separat instans av [Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=847992), som levereras från datacenter i Tyskland. Det innebär att kommersiella kunder i EU och EFTA kan lagra och hantera kunddata i enlighet med tillämpliga tyska lagar och förordningar samt viktiga internationella standarder. Microsofts personal kan inte komma åt kunddata utan godkännande från och övervakning av den tyska data rf:n eller kunden.
 
 > [!IMPORTANT]
-> Baserat på utvecklingen av kundernas behov kommer vår molnstrategi för Tyskland att fokusera på leverans av de nya molnregionerna i Tyskland som är konsekventa med vårt globala molnerbjudande. Med det här fokuset kommer vi inte längre att ta emot nya kunder eller distribuera nya tjänster från det för tillfället tillgängliga Microsoft Cloud Tyskland. Befintliga kunder kan fortsätta att använda de aktuella molntjänsterna som är tillgängliga idag, vilket vi kommer att underhålla med nödvändiga säkerhetsuppdateringar.
+> Baserat på utvecklingen av kundernas behov kommer vår molnstrategi för Tyskland att fokusera på leverans av de nya molnregionerna i Tyskland som är konsekventa med vårt globala molnerbjudande. Det innebär att vi inte längre kommer att ta emot nya kunder eller distribuera nya tjänster från Microsoft Cloud Germany, som är tillgängligt för närvarande. Befintliga kunder kan fortsätta att använda de aktuella molntjänsterna som är tillgängliga idag, och vi kommer att underhålla dessa med nödvändiga säkerhetsuppdateringar.
 >
-> Framöver har nya kunder möjlighet att använda de europeiska regioner som för närvarande är tillgängliga eller de nya regionerna i Tyskland när de blir tillgängliga. Mer information finns i [Microsoft för att leverera molntjänster från nya datacenter i Tyskland.](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/) 
+> Framöver har nya kunder möjlighet att använda de tillgängliga europeiska regionerna eller de nya regionerna i Tyskland när de blir tillgängliga. Mer information finns i [Microsoft för att leverera molntjänster från nya datacenter i Tyskland.](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/) 
 
 ## <a name="migrate-customers-from-microsoft-cloud-germany-to-another-european-region"></a>Migrera kunder från Microsoft Cloud Tyskland till en annan europeisk region
 
@@ -67,7 +67,7 @@ Innan du kan migrera en kundprenumeration från Microsoft Cloud Tyskland till en
  
 1. När du uppmanas väljer **du Jag har ingen klientorganisation i den europeiska regionen** och väljer sedan Skapa nytt **konto.** 
  
-1. Du kommer till sidan partnercenterregistrering där du kan skapa en ny klientorganisation och ett CSP-konto i en europaregion.
+1. Du kommer till sidan registrering i Partnercenter, där du kan skapa en ny klientorganisation och ett CSP-konto i en europeisk region.
   
 5. När du har loggat Microsoft-partneravtal och kontot är aktivt loggar du in med det aktuella Microsoft Cloud Tyskland-kontot.
 
@@ -84,10 +84,10 @@ För att följa tyska lagar och föreskrifter som styr insamling och användning
 
 Funktion eller funktion | Slutföra uppgifter i
 :--- | :---
-Användarhantering för partner | Administrationscenter för Office 365 eller administrationsportalen för Azure för Microsoft Cloud Tyskland
-Kundanvändarhantering | Administrationscenter för Office 365 eller administrationsportalen för Azure för Microsoft Cloud Tyskland
+Användarhantering för partner | Office 365 administrationscenter eller administrationsportalen för Azure för Microsoft Cloud Tyskland
+Kundanvändarhantering | Office 365 administrationscenter eller administrationsportalen för Azure för Microsoft Cloud Tyskland
 Återställ användarlösenord | Administratörsportalen för Azure for Microsoft Cloud Tyskland
-Licenshantering | Administrationscenter för Office 365 eller Administrationscenter för Office 365 eller Microsoft Cloud Germany Azure Active Directory Licensing Portal
+Licenshantering | Office 365 administrationscenter eller Office 365 administrationscenter eller Microsoft Cloud Germany Azure Active Directory Licensing Portal
 
 ## <a name="next-steps"></a>Nästa steg
 

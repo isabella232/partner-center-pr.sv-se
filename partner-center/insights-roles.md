@@ -3,18 +3,18 @@ title: Partnercenter Insights rollbaserad åtkomst
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Lär dig mer om de specifika roller som behövs för att se Partnercenter Insights rapporter. Dessa omfattar rollerna Executive Report Viewer och Report Viewer.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 836ae2ab193437fca501dc5c5713a4fe09b49ef4
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 91bb81fce340a945d9b6e43277d06156a03f1db1
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376868"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836327"
 ---
 # <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>Rollbaserad åtkomstkontroll till Partnercenter Insights instrumentpanel
 

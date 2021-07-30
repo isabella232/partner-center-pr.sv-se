@@ -3,17 +3,17 @@ title: Lista över API för åtkomst till partnerinsiktsdata
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Lista över API för åtkomst till partnerinsiktsdata.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 71d04b6927e27b1d7a8d72bbdaa56b41cb113625
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: cbd9f7fd08dfc4cfd247a0ed07a2c12845c5514c
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377171"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837007"
 ---
 # <a name="available-apis-for-partner-insights-analytics"></a>Tillgängliga API:er för analys av partnerinsikter
 
@@ -46,7 +46,7 @@ Nedan visas en lista över API:er för analys av partnerinsikter och deras assoc
 | **API** | **Funktioner** |
 | --- | --- |
 | [Skapa rapport](insights-programmatic-access-paradigm.md#create-report-api) | Schemalägger en fråga som ska köras med jämna mellanrum. |
-| [Testa rapportfråga](insights-programmatic-analytics-api-try-report-queries.md) | Kör en rapportfrågeutdrag. Returnerar endast 10 poster som en partner kan använda för att verifiera om data är som förväntat. |
+| [TESTA rapportfråga](insights-programmatic-analytics-api-try-report-queries.md) | Kör en rapportfrågeutdrag. Returnerar endast 10 poster som en partner kan använda för att verifiera om data är som förväntat. |
 | [Hämta rapport](insights-programmatic-analytics-api-get-report.md) | Hämta alla rapporter som har schemalagts. |
 | [Uppdatera rapport](insights-programmatic-analytics-api-update-report.md) | Ändra en rapportparameter. |
 | [Ta bort rapport](insights-programmatic-analytics-api-delete-report.md) | Tar bort alla rapport- och rapportkörningsposter. |

@@ -3,17 +3,17 @@ title: Partnercenter Insights – CloudAscent Propensity-rapporter
 description: Lär dig mer om cloudAscent Propensity-rapporter i Partnercenter. Innehåller information om en kunds ighet att köpa Microsoft-produkter.
 ms.topic: conceptual
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 04/27/2021
-ms.openlocfilehash: 6916d44e3f028fbfd788d3bee54671dbadd874d1
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 4248c3d72512073ba361bf1e0ee276a766b04176
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377292"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837108"
 ---
 # <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>CloudAscent Propensity-rapporter som är tillgängliga från instrumentpanelen i Partnercenter
 
@@ -31,9 +31,9 @@ Instrumentpanelen i Partnercenter innehåller nedladdningsbara beständiga data 
 
 ## <a name="cloudascent-smb-segmentation"></a>CloudAscent SMB-segmentering
 
-SMB-segmentet (small to medium business) är indelat i tre distinkta delsegment.
+Segmentet för små till medelstora företag (SMB) är indelat i tre distinkta delsegment.
 
-1. **De mest ohanterade** innehåller de största SMB-kunderna med flest möjligheter för Microsoft. Vanliga kunder som inte är mest ohanterade har liknande egenskaper som hanterade konton, med ett stort antal anställda, stora IT-budgetar och -utgifter samt stora mängder potentiella intäkter för Microsoft.
+1. **De största ohanterade innehåller** de största SMB-kunderna med flest möjligheter för Microsoft. Vanliga kunder som inte är mest ohanterade har liknande egenskaper som hanterade konton, med ett stort antal anställda, stora IT-budgetar och -utgifter samt stora mängder potentiella intäkter för Microsoft.
 
    Vi definierar Top Unmanaged på två sätt:
 
@@ -48,7 +48,7 @@ SMB-segmentet (small to medium business) är indelat i tre distinkta delsegment.
 
 :::image type="content" source="images/insights/customer-opportunity-2.png" alt-text="Kund efter SMC-typ.":::
 
-**De främsta undersegmenten** **för** ohanterade och medelstora företag representerar LTV-kunder (High Life-Time Value) för Microsoft och Microsoft-partner. Därför är de huvudfokusområden för att driva tillväxt i det här segmentet. I de här två delsegmenten är vi bättre positionerade för att skaffa socketen med Microsoft 365, tjäna pengar ytterligare med D365-/LOB-appar (verksamhetsapplikationer i Azure) och realisera en hög LTV för Microsoft.
+**De främsta undersegmenten för** ohanterade och medelstora företag representerar LTV-kunder (High Life-Time Value) för Microsoft och Microsoft-partner.  Därför är de huvudfokusområden för att driva tillväxt i det här segmentet. I dessa två undersegment är vi bättre positionerade för att skaffa socketen med Microsoft 365, tjäna pengar ytterligare med D365-/Azure-verksamhetsapplikationer (LOB) och realisera en hög LTV för Microsoft.
 
 Idag har vi två viktiga affärsmöjlighetsområden – 1. vår kund ökar tillväxten; 2. Även om vi har ett bra sätt att skaffa molnsocketar som leder Microsoft 365, har vi en stor möjlighet i Dynamics 365 och Azure.
 
@@ -60,7 +60,7 @@ Följande skärmbild representerar de fyra SMB-undersegmenten. CloudAscent prior
 
 SMB använder maskininlärningsteknik för att driva kundförutsägelser för försäljning och marknadsföring i de viktigaste segmenten för ohanterade och medelstora företag. Hur samlas signaler in och omvandlas till rekommendationer för rekommendationer om rekommendationer för rekommendationer?
 
-- **Datainsamling:** Webb crawlers söker igenom och samlar in miljarder kundsignaler genom att pinga företagsdomänerna och övervaka blogginlägg, pressutgåor, sociala strömmar och tekniska forum.  Förutom insamlade signaler samlas företagsinformation in från både interna och externa källor som D&B, Microsofts interna prenumeration och transaktionsdata.
+- **Datainsamling:** Webb crawlers söker igenom och samlar in miljarder kundsignaler genom att pinga företagsdomänerna och övervaka blogginlägg, pressutgåor, sociala strömmar och tekniska forum.  Förutom insamlade signaler samlas företagsinformation in från både interna och externa källor som D&B, Microsoft Internal-prenumeration och transaktionsdata.
 
 - **Machine Learning:** Signalerna matas in i maskininlärningsmodellen som matar ut en strukturerad datauppsättning med försäljnings- och marknadsföringsförutsägelser för varje kund efter molnprodukt och kluster.  Varje kund poängsätts med hjälp av en modell av samma utseende som Microsofts främsta SMB som avgör kundens anpassa, och maskininlärningsalgoritmer som integrerar kundens onlinebeteende definieras som avsikt. Poängen slås samman i kluster som visar en kunds ighet att köpa Microsoft Cloud Products.
 
@@ -84,7 +84,7 @@ Med hjälp av signaler som samlas in via webb crawlers och data från olika käl
 
 2. Avsikt för kundkonto
 
-   - Signaler som rör sociala medier och en kunds onlinebeteende definierar Intent.
+   - Signaler som rör sociala medier och en kunds onlinebeteende definierar Avsikt.
 
    - Avsiktsbedömningen överlagras ovanpå passning för att definiera klustren.
 

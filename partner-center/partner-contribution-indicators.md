@@ -3,18 +3,18 @@ title: Partnerbidragsindikatorer – CBA
 ms.topic: article
 ms.date: 05/28/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Lär dig mer om sju partnerbidragsindikatorer (PCI) som visar partner hur de uppnår en silver- Business Applications guldkompetens.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d69c72984ecf6e87c5ad119d188021c34d0fa801
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: c198418331578080faa8371973ab03113ad54c3f
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114373802"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836786"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Använda indikatorer för partnerbidrag för att uppnå kompetensen Cloud Business Applications
 
@@ -167,12 +167,12 @@ Du kan bara få kredit för dessa PCI-mått för en viss kund om du har någon a
 - Du är Claiming Partner of Record (CPOR) för en betald prenumeration som tillhör kundens klientorganisation
 - Du är en Digital Partner of Record (DPOR) för en betald prenumeration som tillhör kundens klientorganisation
 
-En partner blir CPOR om de har upprättat en association med en kund på prenumerationsnivå via Incitament för Dynamics 365 Online Services Advisor (OSA) eller Incitament för Användning av Dynamics 365 Online Services (OSU). Mer information finns i Förstå [CPOR-associationer.](incentives-customer-associations-intro.md)
+En partner blir CPOR om de har upprättat en association med en kund på prenumerationsnivå via Incitament för Dynamics 365 Online Services Advisor (OSA) eller Incitament för Dynamics 365 Online Services Usage (OSU). Mer information finns i Förstå [CPOR-associationer.](incentives-customer-associations-intro.md)
 
 En partner blir DPOR om de har upprättat en association med en kund på prenumerationsnivå inom produkten.
 
 > [!NOTE]
-> När både CPOR och DPOR finns för en viss kundprenumeration får CPOR kredit för relevanta PCI-mått som är associerade med den prenumerationen. Om associationen var via OSA (intäktsanspråk) tar CPOR emot krediten för nya nettointäkter och net-kunden lägger till. Om associationen var via OSU (användningsanspråk) får CPOR krediten för nya distributioner och månatlig aktiv användartillväxt. Anspråk före försäljning är inte berättigade till PCI.
+> När både CPOR och DPOR finns för en viss kundprenumeration får CPOR kredit för relevanta PCI-mått som är associerade med prenumerationen. Om associationen var via OSA (intäktsanspråk) tar CPOR emot krediten för nya nettointäkter och net-kunden lägger till. Om associationen var via OSU (användningsanspråk) får CPOR krediten för nya distributioner och månatlig aktiv användartillväxt. Anspråk före försäljning är inte berättigade till PCI.
 
 ## <a name="detailed-pci-metrics-definitions-for-this-competency"></a>Detaljerade PCI-måttdefinitioner för den här kompetensen
 
@@ -183,30 +183,30 @@ Använd följande lista för att gå snabbt till en specifik definition:
 - [Definitioner för nya nettointäkter](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue)
 - [Definitioner för net customer adds](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds)
 - [Definitioner för funktionskonsulter](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants)
-- [Definitioner för tillväxt av funktionskonsulter](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)
+- [Definitioner för funktionskonsulttillväxt](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)
 - [Definitioner för utvecklare](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers)
 - [Definitioner för nya stora distributioner](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments)
-- [Definitioner för månatlig ökning av aktiva användare](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)
+- [Definitioner för månatlig aktiv användartillväxt](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)
 
-### <a name="definitions-for-pci-metric-1---net-new-revenue"></a>Definitioner för PCI-#1 – Nya nettointäkter
+### <a name="definitions-for-pci-metric-1---net-new-revenue"></a>Definitioner för PCI-#1 – Netto nya intäkter
 
-Netto nya intäkter är en [prestandaindikator](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Den här indikatorns punkter beräknas för Business Applications kompetens enligt följande:
+Netto nya intäkter är en [prestandaindikator](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Den här indikatorns punkter beräknas för Business Applications på följande sätt:
 
-- Netto nya intäkter definieras som netto nya fakturerade intäkter i alla försäljningskanaler för kvalificerande Dynamics 365-produkter.
-- Netto nya intäkter summeras över en avslutande 12-månadersperiod med en maximal möjlig intäkt på 10 poäng.
+- Netto nya intäkter definieras som nettointäkt för nya fakturerade i alla försäljningskanaler för kvalificerande Dynamics 365-produkter.
+- Nettointäkten summeras över en avslutande 12-månadersperiod med en maximal möjlig intäkt på 10 poäng.
 - Poäng för nya nettointäkter beräknas som fakturering minus krediter och aggregeras över 12 månader.
-- Netto nya intäkter beräknas baserat på följande kvalificerande produkter:
-  - Customer Engagement-kvalificerade produkter omfattar: Försäljning, Kundtjänst, Field Service, Project Service Automation, Marknadsföring, Microsoft Relationship Sales, Plan 1, Talent och Enterprise Team Member.
-  - Finance and Operations-kvalificerande produkter omfattar: Unified Operations, Finance, Supply Chain Management, Retail, Commerce, Plan 2, Mixed Reality, Talent och Enterprise Team Member.
+- Nettointäkten beräknas baserat på följande kvalificerande produkter:
+  - Produkter som kvalificerar kundengagemang omfattar: Försäljning, Kundtjänst, Field Service, Project Service Automation, Marknadsföring, Microsoft Relationship Sales, Plan 1, Talent och Enterprise Team Member.
+  - Produkter som kvalificerar för finance and Operations omfattar: Unified Operations, Finance, Supply Chain Management, Retail, Commerce, Plan 2, Mixed Reality, Talent och Enterprise Team Member.
 
 - Försäljningskanalerna är företagsavtal (EA), Molnlösningsleverantör (CSP) och Web Direct.
-- För företagsavtal endast intäkter: Den här intäkten omfattar intäkter från avtalets första år. Återkommande intäkter från det andra och tredje året ingår inte.
+- För företagsavtal endast intäkter: Den här intäkten omfattar intäkter från det första året i avtalet. Återkommande intäkter från det andra och tredje året ingår inte.
 
 ### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>Definitioner för PCI-mått #2 – Net-kund lägger till
 
-Net customer adds är en [prestandaindikator.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) Den här indikatorns punkter beräknas för Business Applications kompetens enligt följande:
+Net customer adds är en [prestandaindikator](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Den här indikatorns punkter beräknas för Business Applications på följande sätt:
 
-- Nettokundens tillägg summeras över en avslutande 12-månadersperiod med en maximal möjliga intäkter på 10 poäng. 
+- Nettokundsbelopp summeras över en avslutande 12-månadersperiod med en maximal möjliga intäkter på 10 poäng. 
 
 - Nettokunder läggs till i alla försäljningskanaler. 
 
@@ -214,41 +214,41 @@ Net customer adds är en [prestandaindikator.](partner-contribution-indicators.m
 
 - Ett **kunds** tillägg definieras under följande villkor: När en kund inte har några betalda platser i alla sina prenumerationer under en tidigare månad, men har minst en betald plats under den aktuella månaden.
 
-- En **förlorad kund** definieras enligt följande villkor: När en kund har minst en  betald plats i alla sina prenumerationer under en tidigare månad och inte har några betalda platser under den aktuella månaden.
+- En **kund som** förlorats definieras under följande villkor: När en kund har minst en betald plats i alla sina prenumerationer under en tidigare månad och inte har några betalda platser under den aktuella månaden. 
 
-- Maximalt och partiellt antal poäng kan intjänas för nettokunds-tillägg. Följande visar kraven för att få maximalt antal poäng för en viss kompetens:
+- Maximalt och partiellt antal poäng kan intjänas för nettokundsbelopp. Följande visar kraven för att få maximalt antal poäng för en viss kompetens:
 
-  | För den här utbildningsvägen | Nettokunden lägger till för att få maximalt 10 poäng |
+  | För den här utbildningsvägen | Nettokund lägger till för att få maximalt 10 poäng |
   |---------------------|----------------------------|
-  | Customer Engagement | – 10 nettokundsintäkter (för partner på *utvecklade* marknader).</br>– 5 nettokundsintäkter (för partner i *marknader som utvecklar* marknader)  |
-  | Finance and Operations | – 3 nettokundsintäkter (för partner på *utvecklade* marknader).</br>– 1 ny kund lägger till (för partner i *marknader som* utvecklar) |
+  | Customer Engagement | – 10 nettokundsintäkter (för partner på *utvecklade* marknader).</br>– 5 nettokundsintäkter (för partner som *utvecklar* marknader)  |
+  | Finance and Operations | – 3 nettokundsintäkter (för partner på *utvecklade* marknader).</br>– 1 ny kund lägger till (för partner som *utvecklar* marknader) |
 
   > [!NOTE]
-  > Mer information om utvecklade marknader jämfört med att utveckla marknader finns i Microsoft Partner Network [definitioner](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
+  > Mer information om utvecklade och utvecklande marknader finns i dessa Microsoft Partner Network [definitioner.](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)
 
 - Försäljningskanalerna är företagsavtal (EA), Molnlösningsleverantör (CSP) och Web Direct.
 
-- För flera partner/samma kund eller kund som arbetar direkt  med  Microsoft: Det finns olika beräkningar av kund-tillägg och förlorade kunder i fall där flera partner är associerade med samma kund via olika prenumerationer eller för fall där kunden redan arbetar direkt med Microsoft. Dessa beräkningar visas nedan.
+- För flera partner/samma kund eller kund som arbetar direkt  med  Microsoft: Det finns olika beräkningar av kund-tillägg och förlorade kunder i fall där flera partner är associerade med samma kund via olika prenumerationer eller i fall där kunden redan arbetar direkt med Microsoft. Dessa beräkningar visas nedan.
 
-  **För flera partner, samma kund, olika prenumerationer:**
+  **För flera partner, samma kund och olika prenumerationer:**
 
 - Kunden läggs till för första gången:
-    - Alla partner som är kopplade till kunden får kredit för en ny kund som läggs till den månad då kunden läggs till.
+    - Alla partner som är associerade med kunden får kredit för en ny kund som läggs till den månad då kunden läggs till.
     - Efterföljande partner som associerar med samma kund via gamla eller nya prenumerationer får inte nya kunder att lägga till kredit för den kunden.
-- Kunden går förlorad: Alla associerade partner som under de senaste 12 månaderna har fått kredit för kundens tillägg förlorar den krediten den månad då kunden går förlorad.
-- Kunden, som tidigare förlorats, läggs tillbaka: Alla partner som är kopplade till kunden får kredit för en ny kund som läggs till den månad då kunden läggs tillbaka.
+- Kunden går förlorad: Alla associerade partner som under de senaste 12 månaderna har fått kredit för kundens tillägg förlorar den krediten den månad då kunden förloras.
+- Kunden, som tidigare förlorats, läggs tillbaka: Alla partner som är associerade med kunden får kredit för en ny kund som läggs till den månad då kunden läggs tillbaka.
   
   **När kunden redan arbetar direkt med Microsoft:**
 
-   - Om en kund redan arbetar direkt med Microsoft och har uppfyllt de nya kundvillkoren kommer partner som associerar med samma kund senare, via gamla eller nya prenumerationer, inte att få nya kunder att lägga till kredit för den kunden.
+   - Om en kund redan arbetar direkt med Microsoft och har uppfyllt de nya kundvillkoren kommer partner som associerar med samma kund senare, via gamla eller nya prenumerationer, inte att få nya kunder att lägga till kredit för kunden.
 
 ### <a name="definitions-for-pci-metric-3---functional-consultants"></a>Definitioner för PCI-mått #3 – funktionskonsulter
 
-Funktionskonsulter är en [kapacitetsindikator.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) Den här indikatorns punkter beräknas för Business Applications kompetens enligt följande:
+Funktionskonsulter är en [kapacitetsindikator.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) Den här indikatorns punkter beräknas för Business Applications på följande sätt:
 
-- Indikatorpunkter för funktionskonsulter baseras på den aktuella ögonblicksbilden av månaden med en högsta möjliga intäkter på 15 punkter.
+- Indikatorpunkter för funktionskonsulter baseras på den aktuella ögonblicksbilden av månaden med en maximalt möjliga intäkter på 15 punkter.
 
-- Funktionskonsulter definieras som antalet personer som har en aktiv Funktionskonsult Associate-certifiering, till exempel en Customer Engagement Funktionskonsult-certifiering eller en Funktionskonsult-certifiering.
+- Funktionskonsulter definieras som antalet personer som har en aktiv Funktionskonsult Associate-certifiering, till exempel en Customer Engagement Funktionskonsult-certifiering eller en Finance and Operations Funktionskonsult-certifiering.
 
 - Customer Engagement Funktionskonsult certifiering kräver att en person skickar:
   - MB-200 \* eller PL-200<br/>
@@ -256,35 +256,35 @@ Funktionskonsulter är en [kapacitetsindikator.](partner-contribution-indicators
   - MB-210, MB-220, MB-230, MB-240 eller MB6-898 \* \* .
 
 - Finance and Operations Funktionskonsult certifiering kräver att en person klarar:
-  - MB-300<br/>
+  - MB–300<br/>
   **och** något av följande prov:
   - MB-310, MB-320, MB-330, MB-897 \* \* eller MB6-898 \* \* .
 
 > [!NOTE]
-> Prov som markerats med en asterisk ( \* ) dras tillbaka eller ersätts under de kommande månaderna. Mer information finns nedan:
+> Prov som markerats med en asterisk ( \* ) dras tillbaka eller ersätts under de kommande månaderna. Se nedan för specifik information:
 >
-> - Prov som markerats med en asterisk ( \* ) dras tillbaka den 31 december 2020. Prov som dras tillbaka den 31 december 2020 fortsätter att vara berättigade till kompetensutbildning och förnyelse fram till den 31 december 2021, om de tas ur bruk innan de dras tillbaka.
-> - Prov som markerats med två asterisker ( \* \* ) går i pension den 31 januari 2021. Prov som tas ur bruk den 31 januari 2021 fortsätter att vara berättigade till kompetensutbildning och förnyelse fram till den 31 januari 2022, om de tas ur bruk innan de dras tillbaka.
+> - Prov som markerats med en asterisk ( \* ) togs ur bruk den 31 december 2020. Prov som dras tillbaka den 31 december 2020 fortsätter att vara berättigade till kompetensutbildning och förnyelse fram till den 31 december 2021, om de tas ur bruk innan de dras tillbaka.
+> - Prov markerade med två asterisker ( \* \* ) går i pension den 31 januari 2021. Prov som tas ur bruk den 31 januari 2021 fortsätter att vara kvalificerade för kompetensförnyelse fram till den 31 januari 2022, om de tas ur bruk innan de dras tillbaka.
 
-### <a name="definitions-for-pci-metric-4---functional-consultant-growth"></a>Definitioner för PCI-mått #4 – Tillväxt för funktionskonsult
+### <a name="definitions-for-pci-metric-4---functional-consultant-growth"></a>Definitioner för PCI-mått #4 – Funktionskonsulttillväxt
 
-Funktionskonsultens tillväxt är [en kapacitetsindikator.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) Den här indikatorns punkter beräknas för Business Applications kompetens enligt följande:
+Funktionskonsultens tillväxt är en [kapacitetsindikator.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) Den här indikatorns punkter beräknas för Business Applications på följande sätt:
 
-En partner har ett av två alternativ för att uppnå alla-eller-inget-punkter (15 eller 0 poäng) som är tillgängliga för det här måttet. Inga delar av punkter tilldelas.
+En partner har ett av två alternativ för att uppnå alla-eller-inget-punkter (15 eller 0 poäng) som är tillgängliga för det här måttet. Inga partiella punkter tilldelas.
 
 **Alternativ ett för att hämta punkter:**
 
-- Tillväxt för funktionskonsulter definieras som det ökade antalet certifierade Funktionskonsult Medarbetare sedan en ögonblicksbild av baslinjen. Datumet för ögonblicksbild av baslinjen tas den 1 oktober 2020.
+- Tillväxt för funktionskonsulter definieras som det ökade antalet certifierade Funktionskonsult Associates sedan en ögonblicksbild av baslinjen. Datumet för ögonblicksbild av baslinjen tas 1 oktober 2020.
 
-- Tillväxtindikator för funktionskonsulter baseras på ögonblicksbilden för den aktuella månaden jämfört med baslinjen från den 1 oktober 2020. Partner kan uppnå 0 eller 15 punkter med den här indikatorn.
+- Tillväxtindikator för funktionskonsult baseras på ögonblicksbilden för den aktuella månaden jämfört med baslinjen från den 1 oktober 2020. Partner kan uppnå 0 eller 15 punkter med den här indikatorn.
 
-- Baslinjeögonblicksbilderna återställs senare nästa Business Applications förnyelsedatum för molnkompetens.
+- Ögonblicksbilden av baslinjen återställs senare vid nästa förnyelsedatum Business Applications molnkompetens.
 
-- För att vara berättigad till poäng måste du ha minst **15** Funktionskonsult Associates för utvecklade marknadspartner och **5** för att utveckla marknadspartner när baslinjeögonblicksbilderna tas.
+- För att vara berättigad till poäng måste du ha **minst 15** Funktionskonsult Associates för utvecklade marknadspartner och **5** för att utveckla marknadspartner när baslinjeögonblicksbild tas.
 
-- **Inga delar av punkter tilldelas.** Tillväxten utöver baslinjeögonblicksbilderna måste uppfylla eller överskrida de tröskelvärden som anges i följande tabell. Tabellen visar kolumnen Utvecklat **och** **Utveckla med baslinjen** för funktionskonsulten som krävs för att kunna samla poäng.
+- **Inga partiella punkter tilldelas.** Tillväxten utöver baslinjeögonblicksbilderna måste uppfylla eller överskrida de tröskelvärden som anges i följande tabell. Tabellen visar kolumnen Utvecklade **och** **Utveckla med baslinjen** för funktionskonsulten som krävs för att kunna samla poäng.
 
-  | Utvecklat | Utveckla | Tillväxt krävs för att samla alla 15 poäng
+  | Utvecklat | Utveckla | Tillväxt krävs för att få alla 15 poäng
   |:---:|:---:|:---:|
   | 15-29 | 5-14 | 35 % |
   | 30-49 | 15-24 | 25 % |
@@ -292,9 +292,9 @@ En partner har ett av två alternativ för att uppnå alla-eller-inget-punkter (
 
 **Alternativ två för att hämta punkter:**
 
-- Utvecklade marknadspartner kan certifiera 50 eller fler funktionskonsulter i tid för sina första PCI-baserade Business Applications på kompetensårsåret. (Utvecklar marknadspartner kan certifiera 25 eller fler funktionskonsulter i tid för sina första PCI-baserade molnrådgivare Business Applications på årsdagen för kompetensen.)
+- Utvecklade marknadspartner kan certifiera 50 eller fler funktionskonsulter i tid för sina första PCI-baserade molntjänster Business Applications kompetensårsdag. (Utvecklar marknadspartner kan certifiera 25 eller fler funktionskonsulter i tid för sina första PCI-baserade molntjänster Business Applications kompetensårsdag.)
 
-- Om du når det här tröskelvärdet får du de fullständiga 15 punkterna för Funktionskonsult tillväxt i 24 månader från det datumet. Det innebär i praktiken att du får maximalt antal Funktionskonsult tillväxt för två Business Applications av kompetenser.
+- Om du når det här tröskelvärdet får du de fullständiga 15 punkterna för Funktionskonsult tillväxt i 24 månader från det datumet. Det innebär i praktiken att du får maximalt antal Funktionskonsult tillväxt för två Business Applications av kompetens.
 
 ### <a name="definitions-for-pci-metric-5---developers"></a>Definitioner för PCI-#5 – utvecklare
 
@@ -305,7 +305,7 @@ Utvecklare är en [kapacitetsindikator.](partner-contribution-indicators.md#pci-
 - Punkter för indikatorn Utvecklare baseras på den aktuella månadens ögonblicksbild med högst 5 tillgängliga punkter.
 
 - Kundengagemangsutvecklare får kredit när de passerar:
-  - PL-400<br/>**eller**
+  - PL-400<br/>**Eller**
   - MB-200 \*  och ett av följande prov:
     - MB-400 \* eller MB2–716\*\*
 

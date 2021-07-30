@@ -4,17 +4,17 @@ description: I vissa fall kanske kunderna vill anlita dig för att etablera och 
 ms.topic: article
 ms.date: 06/17/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bd0bb946c2f59f50c27aff58569d497bc21bf30b
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: f5f4924111e4d83e4e07e38ccb61a324efeefb4d
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146416"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836259"
 ---
 # <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>Stöd för flera kanaler – använda andra partner för att stödja kundprenumerationer som köpts någon annanstans
 
@@ -31,10 +31,10 @@ Partnercenter-funktionen för flera kanaler stöder scenarier när en kund vill 
 |För att stödja dessa tjänster  | Gör så här: |
 |:---------|:---------|
 |Licensbaserade tjänster    | Om du vill ge stöd för konton med flera kanaler måste du begära behörighet från kunden för att hantera deras prenumerationer. Mer information finns i Begär [en återförsäljarrelation med en kund](request-a-relationship-with-a-customer.md).   |
-|Användningsbaserade tjänster     |  För en kund som redan har en prenumeration på Microsoft Azure från en annan kanal, till exempel Advisor, Open eller EA, måste du skapa en ny Azure-prenumeration i Partnercenter, manuellt ange prenumerationsinformationen och sedan avbryta de enskilda tjänsterna eller hela prenumerationen. Azure CSP kan samexistera med olika kanaler.<br/><br/> För en kund som redan har en prenumeration på Microsoft Azure från en annan partner kan du till exempel byta Azure-tjänster till den andra partnern.  Mer information finns i Växla [Azure-prenumerationer till en annan partner.](switch-azure-subscriptions-to-a-different-partner.md) |
+|Användningsbaserade tjänster     |  För en kund som redan har en prenumeration på Microsoft Azure från en annan kanal, till exempel Advisor, Open eller EA, måste du skapa en ny Azure-prenumeration i Partnercenter, manuellt ange prenumerationsinformationen och sedan avbryta enskilda tjänster eller hela prenumerationen. Azure CSP kan samexistera med olika kanaler.<br/><br/> För en kund som redan har en prenumeration på Microsoft Azure från en annan partner kan du till exempel byta Azure-tjänster till den andra partnern.  Mer information finns i Växla [Azure-prenumerationer till en annan partner.](switch-azure-subscriptions-to-a-different-partner.md) |
 
 > [!IMPORTANT]  
-> En CSP-partner kan för närvarande inte sälja onlinetjänster till en annan CSP-partner. Microsoft granskar kontinuerligt principer och funktioner i alla program. Alla meddelanden om funktionsutgåningar kommer att meddelas via de vanliga kommunikationskanalerna, inklusive Partnercenter.
+> En CSP-partner kan för närvarande inte sälja onlinetjänster till en annan CSP-partner. Microsoft granskar kontinuerligt principer och funktioner i alla program. Alla meddelanden om funktionsutgåor kommer att meddelas via de vanliga kommunikationskanalerna, inklusive Partnercenter.
 
 ## <a name="next-steps"></a>Nästa steg
 

@@ -1,19 +1,19 @@
 ---
-title: TA bort API för rapportfrågor – Insights data
+title: API för att ta bort rapportfrågor – Insights data
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Använd det här API:et för att ta bort användardefinierade frågor i Partner center-insikter.
+ms.subservice: partnercenter-insights
+description: Använd det här API:et för att ta bort användardefinierad fråga i Partner center-insikter.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: e608068613edad1fca277ba5886c9c4bc962ffd2
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: f755bc13ff4e0c4bc3a2c6ceda123c6a2bc47dc5
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376978"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836395"
 ---
 # <a name="delete-report-queries-api"></a>API för att ta bort rapportfrågor
 
@@ -28,7 +28,7 @@ Det här API:et tar bort användardefinierade frågor.
 
 **Begärandehuvud**
 
-|    Huvud    |    Typ    |    Description    |
+|    Huvud    |    Typ    |    Beskrivning    |
 |    ----    |    ----    |    ----    |
 |    Auktorisering    |    sträng    |    Krävs. Åtkomsttoken Azure Active Directory (AAD) i formuläret`Bearer <token>`    |
 |    Content-Type    |    sträng    |    `Application/JSON`    |
@@ -87,8 +87,8 @@ Den här tabellen definierar nyckelelementen i svaret:
 |    Parameter    |    Beskrivning    |
 |    ----    |    ----    |
 |    QueryId     |    Unikt UUID för frågan som togs bort    |
-|    Name     |    Namnet på den fråga som togs bort    |
-|    Description     |    Beskrivning av den borttagna frågan     |
+|    Namn     |    Namnet på den fråga som togs bort    |
+|    Beskrivning     |    Beskrivning av den borttagna frågan     |
 |    Söka i data     |    Rapportfrågesträng för den borttagna frågan    |
 |    Typ     |    Ställ in på userDefined för användarskapade frågor     |
 |    Användare     |    Användar-ID som skapade frågan     |

@@ -1,21 +1,21 @@
 ---
-title: HÄMTA API för rapportfrågor – Insights data
+title: API för att hämta rapportfrågor – Insights data
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Använd det här API:et för att hämta alla tillgängliga frågor som ska användas i rapport-API:et.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 3bf140576a19439990405cfef23190045e0a98be
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 5f65784ce93350c92e0ffe38849ce505f045e0b0
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377207"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843773"
 ---
-# <a name="get-report-queries-api"></a>HÄMTA API för rapportfrågor
+# <a name="get-report-queries-api"></a>API för att hämta rapportfrågor
 
 API:et Hämta rapportfrågor hämtar alla frågor som är tillgängliga för användning i rapporter. Den hämtar alla system- och användardefinierade frågor som standard.
 
@@ -28,7 +28,7 @@ API:et Hämta rapportfrågor hämtar alla frågor som är tillgängliga för anv
 
 **Begärandehuvud**
 
-|    Huvud    |    Typ    |    Description    |
+|    Huvud    |    Typ    |    Beskrivning    |
 |    ----    |    ----    |    ----    |
 |    Auktorisering    |    sträng    |    Krävs. Åtkomsttoken Azure Active Directory (AAD) i formuläret`Bearer <token>`    |
 |    Content-Type    |    sträng    |    `Application/JSON`    |
@@ -43,7 +43,7 @@ Ingen
 |    Parameternamn    |    Typ    |    Obligatorisk    |    Beskrivning    |
 |    ----    |    ----    |    ----    |    ----    |
 |    queryId     |    sträng     |    No    |    Filtrera för att hämta information om endast frågor med det ID som anges i argumentet     |
-|    queryName     |    sträng     |    No    |    Filter för att hämta information om endast frågor med det namn som anges i argumentet     |
+|    queryName     |    sträng     |    No    |    Filtrera för att hämta information om endast frågor med det namn som anges i argumentet     |
 |    IncludeSystemQueries     |    boolean     |    Inga    |    Inkludera fördefinierade systemfrågor i svaret     |
 |    IncludeOnlySystemQueries     |    boolean     |    Inga    |    Inkludera endast systemfrågor i svaret     |
 |        |        |        |        |
@@ -91,10 +91,10 @@ Den här tabellen definierar nyckelelementen i svaret:
 |    Parameter    |    Beskrivning    |
 |    ----    |    ----    |
 |    QueryId     |    Unikt UUID för frågan     |
-|    Name     |    Namn som gavs till frågan när frågan skapades     |
-|    Description     |    Beskrivning som anges när frågan skapas     |
+|    Namn     |    Namn som gavs till frågan när frågan skapades     |
+|    Beskrivning     |    Beskrivning som ges när frågan skapas     |
 |    Söka i data     |    Rapportfrågesträng     |
-|    Typ     |    Ange till userDefined för användarskapade frågor och system för fördefinierade systemfrågor     |
+|    Typ     |    Ange till användareDefinierad för användarskapade frågor och system för fördefinierade systemfrågor     |
 |    Användare     |    Användar-ID som skapade frågan     |
 |    CreatedTime     |    Tid då frågan skapades     |
 |    TotalCount     |    Antal datauppsättningar i värdematrisen     |

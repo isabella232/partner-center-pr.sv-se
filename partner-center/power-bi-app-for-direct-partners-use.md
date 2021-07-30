@@ -3,21 +3,21 @@ title: Använda Partner Center Analytics för Power BI
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Lär dig hur du visar dina affärsdata med hjälp av appen Partnercenteranalys för Power BI (för direkta partner i programmet Molnlösningsleverantör (CSP).
+ms.subservice: partnercenter-pricing
+description: Lär dig hur du visar dina affärsdata med hjälp av appen Partnercenteranalys för Power BI (för direkta partner i Molnlösningsleverantör(CSP)-programmet).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
 author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 95eb018a3284d2de98c0ce6a9cd0ce6299d5571a
-ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
+ms.openlocfilehash: eea221af22e9bd7aa684bc5120b0799f083f8663
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "112564989"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836108"
 ---
-# <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Visa dina affärsdata med PartnerCenter Analytics-appen för Microsoft Power BI
+# <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Visa dina affärsdata med Partner Center Analytics-appen för Microsoft Power BI
 
 
 
@@ -49,9 +49,9 @@ Hämta en visuell representation av dina affärsdata med Partner Center Analytic
 
 - Dagar är kalenderdagar.
 
-### <a name="business-insights-report"></a>Business Insights-rapport
+### <a name="business-insights-report"></a>Rapport Insights företag
 
-- **Kundklienter:** Antal distinkta Azure Active Directory (Azure AD) för kunder som har köpt prenumerationer
+- **Kundklienter:** Antalet distinkta Azure Active Directory (Azure AD) för kunder som har köpt prenumerationer
 
 - **Ny (senaste 30 dagarna):** Nya kunder har köpt minst en prenumeration under de senaste 30 dagarna
 
@@ -69,7 +69,7 @@ Hämta en visuell representation av dina affärsdata med Partner Center Analytic
 
 - **Antal kunder efter produkt:** Sålda produkter sorterade efter associerade kunder. Den här statusen anger de främsta produkter som sålts till de flesta kunder.
 
-### <a name="subscription-insights-report"></a>Prenumerationsinformationsrapport
+### <a name="subscription-insights-report"></a>Rapport Insights prenumerationsprenumeration
 
 - **Prenumerationsstatus:**
 
@@ -105,7 +105,7 @@ Hämta en visuell representation av dina affärsdata med Partner Center Analytic
 
 - **Information om** kundprenumeration: Detaljerad vy över kunder, prenumerationer och erbjudanden
 
-### <a name="license-insights-report"></a>License Insights-rapport:
+### <a name="license-insights-report"></a>Licensrapport Insights licens:
 
 - **Totalt antal** licenser: Totalt antal licenser aggregerade för alla licensbaserade prenumerationer
 
@@ -137,7 +137,7 @@ Hämta en visuell representation av dina affärsdata med Partner Center Analytic
 
 - **Licenser som används av kunden:** Detaljerad vy över sålda licenser och licenser som används av kunder och produkter
 
-### <a name="azure-insights-report"></a>Azure Insights-rapport:
+### <a name="azure-insights-report"></a>Azure Insights rapport:
 
 - **Användningsbaserade kunder under** de senaste 12 månaderna: Trenden månad för månad för nya användningsbaserade kunder och omsättningsbaserade kunder aggregerade månadsvis under de senaste 12 månaderna
 

@@ -3,18 +3,18 @@ title: Köp eller förnya Microsoft Action Pack erbjudanden
 ms.topic: how-to
 ms.date: 12/15/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-benefits
 description: Lär dig hur du köper en Microsoft Action Pack-prenumeration och börjar använda Action Pack förmåner. Lär dig också hur du förnyar, avbryter, visar din faktura med mera.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dc7be1fdf92249c31e8b2c6aa6611015e8b9b42f
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 8124d05f971149cffe0d4c49f7ec68c38ea54156
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152315"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836360"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Köp eller förnya en Microsoft Action Pack-prenumeration eller silver- eller guldkompetens
 
@@ -52,11 +52,11 @@ Bli [en kompetenspartner.](https://partner.microsoft.com/membership/competencies
 2. Välj **Förnya prenumeration** och välj sedan din betalningsmetod. Du kan betala med ett kreditkort eller en elektronisk banköverföring.
 
     >[!NOTE]
-    >Om **Förnya prenumeration** inte visas eller är nedtonad är du ännu inte berättigad att förnya din prenumeration Action Pack prenumerationen. Vi har ändrat principen för förnyelsefönstret så att du bara kan förnya din prenumeration **när den** upphör att gälla. Om din prenumeration till exempel upphör att gälla den 22 juni kan du förnya den från och med 23 juni och för 30 dagar efter.  
+    >Om **Förnya prenumeration** inte visas eller är nedtonad är du ännu inte berättigad att förnya din prenumeration Action Pack prenumerationen. Vi har ändrat principen för förnyelsefönstret så att du bara kan förnya prenumerationen **när den** upphör att gälla. Om din prenumeration till exempel upphör att gälla den 22 juni kan du förnya den från och med 23 juni och med 30 dagar senare.  
 
-3. Om du betalar med kreditkort följer du anvisningarna för att lägga till din kreditkortsinformation. Om du betalar med elektronisk banköverföring anger du kontaktnamn, telefonnummer och e-postadress och väljer sedan **Skicka.**
+3. Om du betalar med kreditkort följer du anvisningarna för att lägga till kreditkortsinformation. Om du betalar via elektronisk banköverföring anger du ett kontaktnamn, telefonnummer och e-postadress och väljer sedan **Skicka.**
 
-4. Granska beställningsinformationen och välj **sedan Köp** när du är redo att köpa Action Pack. Ditt kreditkort debiteras omedelbart.
+4. Granska beställningsinformationen och välj **sedan** Köp när du är redo att köpa Action Pack. Ditt kreditkort debiteras omedelbart.
 
 5. Din order har bekräftats. Välj **Stäng**.
 
@@ -66,11 +66,11 @@ När du förnyar eller köper Action Pack har du möjlighet att verifiera din fa
 
  1. När du **har** valt Skicka kan du granska informationen om köpet. Välj **Uppdatera** om du ser att din adress måste uppdateras.
   
- 1. På sidan **Juridisk profil** uppdaterar du din adress.
+ 1. Uppdatera **din adress på** sidan Juridisk profil.
 
 ## <a name="cancel-your-action-pack-subscription"></a>Avbryta din Action Pack-prenumeration
 
-Om du vill avbryta din Microsoft Action Pack-prenumeration kan du behöva kontakta partnersupporten.
+Om du vill avbryta din Microsoft Action Pack prenumeration kan du behöva kontakta partnersupporten.
 
 1. Gå till sidan [**med medlemskapserbjudanden.**](https://partnercenter.microsoft.com/pcv/partnership/offers) Välj **Microsoft Action Pack prenumeration** för att visa din prenumerationsinformation. 
 

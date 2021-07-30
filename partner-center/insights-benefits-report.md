@@ -3,24 +3,24 @@ title: Partnercenter– Insights för förmåner
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Se vilka typer av Microsoft-partnerförmåner som du har beviljats för att hjälpa till att utöka din verksamhet, förbättra effektiviteten och förbättra teamets färdigheter.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 58cf04c4b701a57c816bfe08b2073cd695845231
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 457a5197ea9bcfaf2d9c936b7483b33688b1cb41
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377346"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843960"
 ---
-# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Fördelar rapport som är tillgänglig från Partnercenter Insights instrumentpanel
+# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Rapporten Fördelar som är tillgänglig från instrumentpanelen Insights Partnercenter
 
 **Lämpliga roller:** Global | Administratörsagent | Rapportvisningsprogram | Rapportvisningsprogram för chefer
 
-Som Microsoft-partner kan du få tillgång till en mängd fördelar som använder den senaste tekniken och innovationerna för att hjälpa dig att förbättra teamets färdigheter, förbättra effektiviteten och utveckla din verksamhet. Exempel på fördelar är: allokeringar av licensierad programvara, molntjänster, Visual Studio prenumerationer och support. Dessa paket kan även innehålla vissa Go-To-Market-resurser, erbjudanden och program. Rapporten Fördelar visar trender för de fördelar som du har fått åtkomst till och hur de används under det valda datumintervallet.
+Som Microsoft-partner kan du få tillgång till en mängd fördelar som använder den senaste tekniken och innovationerna för att hjälpa dig att förbättra teamets kompetens, förbättra effektiviteten och utöka din verksamhet. Exempel på fördelar är allokeringar av licensierad programvara, molntjänster, Visual Studio prenumerationer och support. Dessa paket kan även innehålla vissa Go-To-Market-resurser, erbjudanden och program. Rapporten Fördelar visar trender för de fördelar som du har fått åtkomst till och hur de används under det valda datumintervallet.
 
 :::image type="content" source="images/insights/benefits-intro.png" alt-text="översikt över sidan benefits.":::
 
@@ -59,7 +59,7 @@ Det här diagrammet visar den månatliga trenden för licenser som beviljats und
 
 ## <a name="visual-studio-subscriptions"></a>Visual Studio-prenumerationer
 
-Det här diagrammet visar månadstrenden för Visual Studio prenumerationer som aktiverats mot prenumerationer som du har allokerat under det valda datumintervallet.
+Det här diagrammet visar den månatliga trenden för Visual Studio prenumerationer som aktiverats mot prenumerationer som du har allokerat under det valda datumintervallet.
 
 Välj en flik överst i diagrammet för att visa trenden för en Visual Studio prenumeration som du har beviljats som förmåner. Kolumner i diagrammet representerar licenser som förbrukas för prenumerationen. Linjediagrammet representerar de övergripande licenser som tilldelats för prenumerationen.
 
@@ -69,7 +69,7 @@ Välj en flik överst i diagrammet för att visa trenden för en Visual Studio p
 
 Det här diagrammet visar den månatliga trenden för supportförmåner som beviljats under det valda datumintervallet.
 
-Välj en flik överst i diagrammet för att visa trenden för en specifik supportförmån som du har beviljats. Linjediagrammet representerar det totala antalet tilldelade supporttimmar för den valda supportförmånen.
+Välj en flik överst i diagrammet för att visa trenden för en specifik supportförmån som du har beviljats. Linjediagrammet representerar de totala timmarna med support som tilldelats för den valda supportförmånen.
 
 :::image type="content" source="images/insights/benefits-technical-benefits.png" alt-text="tekniska fördelar.":::
 

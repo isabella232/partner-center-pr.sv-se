@@ -3,18 +3,18 @@ title: Hantera leads
 ms.topic: article
 ms.date: 06/02/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-referrals
 description: Använd Partnercenter för att svara på hänvisningar och hantera nya, befintliga och arkiverade leads och referenser. Lär dig även hur du får fler referenser i framtiden.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dd34a30cf21a90ac7781ed84945a208df13b3700
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 3ed41fa499872147ac86f5d30770ad52b6bf0cfb
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146552"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836956"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Hantera olika leads som kundfrågor, marknadskvalificerade leads och säljkvalificerade leads
 
@@ -34,27 +34,27 @@ Förutsättningen för att ta emot leads är [att skapa en företagsprofil](crea
 
 ## <a name="navigating-the-leads-section"></a>Navigera i avsnittet Leads
 
-Det finns tre översta flikar i leads-avsnittet. 
+Det finns tre flikar på den översta nivån i avsnittet leads. 
 
-**Marketplace-leads** – Det här är alla leads från sökningar på Microsofts lösningsleverantörers sida, som är kundfrågor.
+**Marketplace-leads** – Det här är alla leads som kommer från sökningar på Microsofts lösningsleverantörssida, som är kundfrågor.
 
-**Kvalificerade leads** – det här är alla leads av typen Marknadsföringskvalificerade och Säljkvalificerade.
+**Kvalificerade leads** – Det här är alla leads av typen Marknadsföringskvalificerade och Kvalificerade för försäljning.
 
-**Favoriter** – Alla leads som är markerade som favoriter på fliken För Marketplace-leads eller Kvalificerade leads visas på den här fliken. Du kan markera ett lead som en favorit genom att klicka på hjärtikonen på leadet i listvyn. Du kan ta bort leadet från favoriter genom att klicka på samma ikon igen.
+**Favoriter** – Alla leads som är markerade som favoriter på fliken Marketplace-leads eller Kvalificerade leads visas på den här fliken. Du kan markera ett lead som en favorit genom att klicka på hjärtikonen på leadet i listvyn. Du kan ta bort leadet från favoriter genom att klicka på samma ikon igen.
 
 ## <a name="responding-to-a-lead"></a>Svara på ett lead
 
-Varje lead går igenom en egen livscykel. Det här avsnittet identifierar de olika stegen och de åtgärder som du kan utföra i varje fas.
+Varje lead rör sig genom en egen livscykel. Det här avsnittet identifierar de olika stegen och de åtgärder som du kan utföra i varje fas.
 
-### <a name="received-stage"></a>Mottagen fas
+### <a name="received-stage"></a>Fasen Mottagen
 
 I det här steget har du fått en ny lead antingen direkt från kunden eller från en Microsoft-anställd. Granska informationen och kontakta kunden om du vill veta mer om deras affärsbehov.
 
 Du kan vidta två åtgärder i det här skedet– antingen acceptera eller neka hänvisningen:
 
-- **Acceptera:** Ange ett namn för avtalet, det uppskattade avtalsvärdet och den uppskattade tidsramen för köpet. Du bör också ange information i **fältet Anteckningar** för att förklara mer om vad kunden letar efter. Om du vill kan du ange ditt CRM-ID här (endast som referens), marknadsföringskampanjens ID, vilket resulterade i respektive lead och lägga till ytterligare kontakter från ditt företag. När du är klar väljer du **Nästa.** Vi flyttar hänvisningen till nästa **steg, vilket innebär att** du planerar att aktivt interagera med kunden för att hantera deras behov. Vi använder även den här informationen för att hjälpa dig att hitta liknande avtal i framtiden. 
+- **Acceptera:** Ange ett namn för avtalet, det uppskattade avtalsvärdet och tidsramen för det uppskattade köpet. Du bör också ange information i **fältet** Anteckningar för att förklara mer om vad kunden letar efter. Om du vill kan du ange ditt CRM-ID här (endast för din referens), marknadsföringskampanj-ID:t, som resulterade i respektive lead och lägga till ytterligare kontakter från ditt företag. När du är klar väljer du **Nästa.** Vi flyttar hänvisningen till nästa steg, **vilket innebär** att du planerar att aktivt engagera kunden för att hantera deras behov. Vi kommer också att använda den här informationen för att hjälpa dig att hitta liknande avtal i framtiden. 
 
-- **Avböj:** Välj orsaken till att du avböjer avtalet och lägg till eventuella anteckningar som du vill inkludera och välj sedan **Stäng** avtalet. Vi arkiverar den som **Nekad** och meddelar kunden att den ska välja en annan partner.
+- **Neka:** Välj orsaken till att du avböjer avtalet och lägg till eventuella anteckningar som du vill inkludera och välj sedan **Stäng** avtalet. Vi arkiverar den som **Nekad** och meddelar kunden att den ska välja en annan partner.
 
 - Om du inte svarar inom den tilldelade tiden (för närvarande 14  dagar) arkiverar vi den som Förfallen och meddelar antingen Microsoft eller den partner som skickade dig den här möjligheten.
 
@@ -81,9 +81,9 @@ Här är några tips som hjälper dig att få lämpligare referenser:
 
 - **Svara snabbt på hänvisningar**. När du svarar i rätt tid på inkommande begäranden kommer vi att öka din synlighet i framtida kundsökresultat. Se till att ditt team svarar snabbt med din avsikt.
 
-- **Var oenig med de avtal som du accepterar.** Vi övervakar de typer av avtal som du accepterar och avböjer och använder den här informationen för att hitta liknande avtal. Att godkänna avtal som inte passar bra förbättrar inte sökresultaten och kan påverka kvaliteten på de leads som du får.
+- **Var nöjd med de avtal som du godkänner.** Vi övervakar de typer av avtal som du accepterar och avböjer och använder den här informationen för att hitta liknande avtal. Att acceptera avtal som inte passar bra förbättrar inte sökresultaten och kan påverka kvaliteten på de leads som du får.
 
-- **Rapportera tillbaka de uppskattade avtalsstorlekarna, slutdatumen och den slutliga statusen för dina avtal (vann eller förlorade).** Vi använder den här informationen för att fortsätta ge dig kvalitetsreferenser.
+- **Rapportera de uppskattade avtalsstorlekarna, slutdatumen och den slutliga statusen för dina avtal (vann eller förlorade).** Vi använder den här informationen för att fortsätta ge dig kvalitetsreferenser.
 
 ## <a name="next-steps"></a>Nästa steg
 
