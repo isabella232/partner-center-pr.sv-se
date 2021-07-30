@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 05/11/2021
 description: Lär dig mer om din kreditgräns och hur den beräknas. Innehåller vanliga frågor och svar.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: da3fc23a51cc70eec91a304f14189eb191c71339
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 32dc94a4bd85160a02a4be880469f713d98449ba
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148116"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837976"
 ---
 # <a name="credit-limit-enforcement-cle"></a>Tvingande kreditgräns (CLE)
 
@@ -22,13 +22,13 @@ ms.locfileid: "110148116"
 
 ## <a name="your-credit-limit-and-how-it-works"></a>Din kreditgräns och hur den fungerar
 
-Din kreditgräns är det högsta belopp (i amerikanska dollar) som du som partner kan spendera för att köpa produkter eller prenumerationer i Partnercenter. Om du överskrider kreditgränsen kan du inte göra nya köp förrän tillräckligt med betalning har gjorts. Dina befintliga prenumerationer fortsätter att avbrytas.
+Din kreditgräns är det maximala belopp (i amerikanska dollar) som du som partner kan spendera för att köpa produkter eller prenumerationer i Partnercenter. Om du överskrider kreditgränsen kan du inte göra nya köp förrän tillräckligt med betalning har gjorts. Dina befintliga prenumerationer fortsätter att avbrytas.
 
-Kreditgränser gäller för erbjudanden i Azure-prenumeration, Azure-reservationer, programvara, Marketplace, Azure 145 P, Office och Dynamics-produkter. Kreditgränser gäller inte för förnyelser och löpande förbrukning.
+Kreditgränser gäller för erbjudanden i Azure-plan, Azure-reservationer, programvara, Marketplace, Azure 145 P, Office och Dynamics-produkter. Kreditgränser gäller inte för förnyelser och löpande förbrukning.
 
-Vi tilldelar din kreditgräns på klientorganisationsnivå under registreringsperioden. Vi baserar den på dina prognostiserade intäkter, köpprowes och betalningshistorik. Sedan använder vi följande formel för att beräkna ditt tillgängliga saldo:
+Vi tilldelar din kreditgräns på klientorganisationsnivå under registreringsperioden. Vi baserar den på dina prognostiserade intäkter, inköp och betalningshistorik. Sedan använder vi följande formel för att beräkna ditt tillgängliga saldo:
 
-**[Kreditgräns – (inkommande köp + utestående ej fakturerade fakturor + ej fakturerade avgifter – överskottsbetalning)]**
+**[Kreditgräns – (inkommande köp + utestående obetalta fakturor + ej fakturerade avgifter – överskottsbetalning)]**
 
 ## <a name="frequently-asked-questions"></a>Vanliga frågor och svar
 

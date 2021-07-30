@@ -3,30 +3,30 @@ title: Sälja programvaruprenumerationer via CSP
 ms.topic: how-to
 ms.date: 03/08/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Lär dig hur partner i CSP-programmet kan använda Partnercenter för att köpa, hantera, sälja och avbryta reserverade Azure-instanser och serverprenumerationer för kunder.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5793ae33420a131362e6d81cc69817beef3cc158
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: 162de08f0114d24cc72d21387ca004e7901c15a2
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114433936"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844725"
 ---
-# <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Sälja programvaruprenumerationer via Molnlösningsleverantör (CSP)
+# <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Sälja programvaruprenumerationer via Molnlösningsleverantör(CSP)-programmet
 
 **Lämpliga roller:** Administratörsagent | Global administratör
 
-Med Azure-reservationer och Server-prenumerationer (Windows Server- och SQL Server-prenumerationer) kan partner i CSP-programmet bättre hantera den snabbt växande kundefterfrågan på mer kostnadseffektiva lösningar för att stödja mycket förutsägbara och beständiga molnarbetsbelastningar. 
+Med Azure-reservationer och serverprenumerationer (Windows Server- och SQL Server-prenumerationer) kan partner i CSP-programmet bättre hantera den snabbt växande kundefterfrågan på mer kostnadseffektiva lösningar för att stödja mycket förutsägbara och beständiga molnarbetsbelastningar. 
 
 Nu kan du skaffa, etablera och hantera Azure-reservationer och serverprenumerationer åt kommersiella kunder via Partnercenter och Azure Portal genom att dra nytta av Azure Hybrid-förmån.
 
-Den Azure Hybrid-förmån hjälper dig att få mer värde av dina Windows Server-licenser och spara upp till 40 procent på virtuella datorer. Du kan använda förmånen med Windows Server Datacenter- och Standard Edition-licenser som omfattas av Software Assurance. Beroende på utgåva kan du konvertera eller återanvända dina licenser för att köra virtuella Windows Server-datorer i Azure och betala en lägre beräkningshastighet (till exempel priser för virtuella Linux-datorer).
+Med Azure Hybrid-förmån får du mer värde av dina Windows Server-licenser och sparar upp till 40 procent på virtuella datorer. Du kan använda förmånen med Windows Server Datacenter- och Standard Edition-licenser som omfattas av Software Assurance. Beroende på utgåva kan du konvertera eller återanvända dina licenser för att köra virtuella Windows Server-datorer i Azure och betala en lägre beräkningshastighet (till exempel priser för virtuella Linux-datorer).
 
-## <a name="azure-reservations-unavailable-markets"></a>Otillgängliga marknader för Azure-reservationer
+## <a name="azure-reservations-unavailable-markets"></a>Otillgängliga Marknader för Azure-reservationer
 
 >[!IMPORTANT]
 >**Azure-reservationer är** inte tillgängliga på följande marknader:  
@@ -107,7 +107,7 @@ När du har köpt din programvara måste du eller dina kunder ladda ned den (par
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Nedladdning av serverprenumeration och licensnycklar som är tillgängliga via Microsoft 365 Admin Center för kunder 
 
-Dina kunder kommer att kunna hämta licensnycklar och nedladdningar för CSP-serverprenumeration från Microsoft 365 Admin Center. Om du vill se licensnycklar och nedladdningar för CSP-serverprenumerationen måste kunden gå till fliken Microsoft 365 Admin Center > Billing > Your products > Software (Dina produkter > **Software).** Mer information finns i [fliken Programvara under Fakturering.](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)  
+Dina kunder kommer att kunna hämta licensnycklar och nedladdningar för CSP-serverprenumeration från Microsoft 365 Admin Center. Om du vill se licensnycklar och nedladdningar för CSP-serverprenumerationen måste kunden gå till fliken Microsoft 365 Admin Center **> Billing > Your products > Software (Dina** produkter > Software). Mer information finns i [fliken Programvara under Fakturering.](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Visa aktivitet för åtkomst till programvarunyckel och nedladdning av programvara
 
@@ -154,7 +154,7 @@ Följ stegen nedan för att avbryta ett köp:
 
 7. Markera kryssrutan för att bekräfta att du har läst meddelandet **Viktigt om** annullering. (Se viktig information **nedan** om du vill veta mer om vad som händer när du har avbrutit ett köp.)
 
-8. Välj **Skicka** för att avbryta köpet. Om du vill avbryta flera beställningar för en kund måste du utföra steg 4 till och med 6 igen för varje unikt order-ID-nummer.
+8. Välj **Skicka** för att avbryta köpet. Om du vill avbryta flera beställningar för en kund måste du utföra steg 4 till och med 6 igen för varje unikt order-ID.nummer.
 
 När du försöker avbryta en beställning kan Partnercenter också ge dig annan information (som visas under listrutan Ordernummer). Den här informationen kan vara:
 
@@ -175,17 +175,17 @@ När du har avbrutit ett köp:
 
 - Det annullerade objektet visas fortfarande på kundens sida Programvaruinformation, men aktiveringsnyckeln är inte tillgänglig.
 
-- En kredit för den annullerade beställningen visas på nästa månadsfaktura. Permanent programvara får en kredit på 100 % och programvaruprenumerationer får en prorrerad kredit.
+- En kredit för den annullerade ordern visas på nästa månadsfaktura. Permanent programvara får en kredit på 100 % och programvaruprenumerationer får en prorated kredit.
 
-### <a name="submit-a-customer-support-request-to-cancel-a-purchase"></a>Skicka en kundsupportbegäran om att avbryta ett köp
+### <a name="submit-a-customer-support-request-to-cancel-a-purchase"></a>Skicka en supportbegäran om att avbryta ett köp
 
-Om du försökte avbryta ett programvaruköp via Partnercenter men fick i uppgift att ange mer information och fylla i ett formulär för en kundsupport kan de här stegen hjälpa dig:
+Om du försökte avbryta ett programvaruköp via Partnercenter men fick mer information och fyller i ett formulär för kundsupport kan följande steg hjälpa dig:
 
 1. När du väljer **länken för kundsupportbegäran** i fönstret Avbryt köp öppnas sidan Rapportera ett problem med **Partnercenter.**
 
-2. Under **Information** går du till listan Typ av problem och väljer **CSP Purchase/Refund för kunders räkning.**
+2. Under **Information** går du till listan Typ av problem och väljer **CSP Purchase/Refund on behalf of customers (Köp/återbetalning** för CSP för kunders räkning).
 
-3. Fyll i fälten Påverkan och Rubrik.
+3. Fyll i fälten Impact (Effekt) och Title (Rubrik).
 
 4. Ange följande information i fältet Beskrivning:
 

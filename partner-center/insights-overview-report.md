@@ -3,30 +3,30 @@ title: Instrumentpanel för partnercenter Insights översikt
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Se en ögonblicksbild av hur det går för dig med försäljning och distribution, kundtillväxt och intäktstillväxt med licenser, prenumerationer och Azure-förbrukning.
+ms.subservice: partnercenter-insights
+description: Se en ögonblicksbild av hur det går med försäljning och distribution, kundtillväxt och intäktstillväxt med licenser, prenumerationer och Azure-förbrukning.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 46a750749aeb6835c132b971b74bb9f066dc13cc
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 5c063788b11dfb2507ff88a1774a94f21f6ebca5
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377093"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845235"
 ---
-# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Översikt över instrumentpanelsrapporter som är tillgängliga i Partnercenter-Insights
+# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Översikt över instrumentpanelsrapporter som är tillgängliga i Partnercenter Insights
  
-**Lämpliga roller:** Globala | Administratörsagent | Rapportvisningsprogram | Visningsprogram för exekutiv rapport
+**Lämpliga roller:** Global | Administratörsagent | Rapportvisningsprogram | Rapportvisningsprogram för chefer
 
 Instrumentpanelen Insights översikt innehåller en ögonblicksbild av KPI:er (Key Performance Indicators), till exempel kunder, prenumerationer, Azure-förbrukningsintäkter och licenser. Du kan visualisera följande diagram i översiktsrapporten.
 
 - Sammanfattning  
 - Geografisk spridning av dina kunder, prenumerationer och licenser  
-- Kundtillväxttrend 
+- Kunders tillväxttrend 
 - Trend för prenumerationstillväxt 
-- Trend för tillväxt av förbrukade Azure-intäkter 
+- Trend för intäktstillväxt i Azure 
 - Trend för licenstillväxt 
 
 ## <a name="summary"></a>Sammanfattning
@@ -41,24 +41,24 @@ Mer information om varje avsnitt i sammanfattningen följer.
 
 Området **Kunder** innehåller:
 
-- Det aktuella antalet kunder med minst en aktiv prenumeration som är associerad med ditt företag via olika attributionstyper och för alla molnprodukter.
+- Det aktuella antalet kunder med minst en aktiv prenumeration som är associerad med ditt företag via olika attributionstyper och över alla molnprodukter.
 - Kundernas procentuella tillväxt under det valda datumintervallet.
-- Mikrodiagrammet visar trenden månad för månad för antalet kunder inom det valda datumintervallet.
+- Mikrodiagrammet visar trenden för antalet kunder under månaden inom det valda datumintervallet.
 
 ### <a name="azure-consumed-revenue-acr"></a>Azure-intäktsförbrukning (ACR)
 
 Området **Azure-intäktsförbrukning (ACR)** i sammanfattningen innehåller:
 
-- Det totala ACR (i amerikanska dollar) som tilldelats dig under det valda datumintervallet.
-- Den procentuella tillväxten eller minskningen av det tillskrivna ACR (i amerikanska dollar) under det valda datumintervallet.
-- Mikrodiagrammet visar en månatlig trend för ACR i amerikanska dollar som har tilldelats dig över det valda datumintervallet 
+- Det totala ACR (i amerikanska dollar) som du har tilldelats under det valda datumintervallet.
+- Den procentuella tillväxten eller minskningen i ACR (i amerikanska dollar) under det valda datumintervallet.
+- Mikrodiagrammet visar en månatlig trend för ACR i amerikanska dollar som har tilldelats dig under det valda datumintervallet 
 
 > [!NOTE]
 > ACR-data är tillgängliga för användare som har tilldelats rollen Som chef för rapportvisning.
  
 ### <a name="subscriptions-sold"></a>Sålda prenumerationer
 
-Området **Sålda prenumerationer** i sammanfattningen innehåller:
+Området **Prenumerationer sålda** i sammanfattningen innehåller:
 
 - Det totala antalet molnproduktprenumerationer (aktiva och inaktiva) som sålts eller hanteras av dig.  
 - Den procentuella tillväxten eller minskningen i prenumerationer under det valda datumintervallet.
@@ -70,7 +70,7 @@ Området **Aktiva prenumerationer** i sammanfattningen innehåller:
 
 - Det aktuella antalet molnproduktprenumerationer med aktiv användning mätt baserat på produkttelemetri. Detta exkluderar alla Azure-utvärderingsprenumerationer.  
 - Procentandelen ökning av aktiva prenumerationer under det valda datumintervallet.
-- Mikrodiagrammet visar trenden månad för månad för aktiva prenumerationer under det valda datumintervallet.
+- Mikrodiagrammet visar trenden för aktiva prenumerationer under månaden över det valda datumintervallet.
  
 ### <a name="licenses-deployed"></a>Distribuerade licenser
 
@@ -82,34 +82,34 @@ Området **Licenser som distribueras** i sammanfattningen innehåller:
 
 ## <a name="geographical-spread-of-your-customers-subscriptions-and-licenses"></a>Geografisk spridning av dina kunder, prenumerationer och licenser
 
-Den här vyn är en geografisk fördelning av totalt antal kunder, prenumerationer och licenser per kundland. Välj de olika flikarna för att visa var och en av dessa insikter på kartan. Du kan söka efter och välja ett land i rutnätet för att zooma till platsen på kartan. Återgå till den ursprungliga vyn genom att trycka på knappen Start på kartan. Om du klickar på varje flik (till exempel Kunder, Prenumerationer) visas måttvärdet för varje land och procent av Total för landet.  
+Den här vyn är en geografisk fördelning av totalt antal kunder, prenumerationer och licenser efter kundland. Välj de olika flikarna för att visa var och en av dessa insikter på kartan. Du kan söka efter och välja ett land i rutnätet för att zooma till platsen på kartan. Återgå till den ursprungliga vyn genom att trycka på knappen Start på kartan. Om du klickar på varje flik (till exempel Kunder, Prenumerationer) visas måttvärdet för varje land och procentandelen av Total för landet.  
 
 :::image type="content" source="images/insights/geosummary.png" alt-text="Geografisk sammanfattning.":::
 
-## <a name="customers-growth-trend"></a>Kundtillväxttrend
+## <a name="customers-growth-trend"></a>Kunders tillväxttrend
 
 Månatlig trend för totalt antal kunder för det valda datumintervallet. X-axeln representerar månader för det valda datumintervallet och Y-axeln representerar det totala kundantalet för den månaden. 
 
-:::image type="content" source="images/insights/customer-growth.png" alt-text="kundtillväxttrend.":::
+:::image type="content" source="images/insights/customer-growth.png" alt-text="kunders tillväxttrend.":::
 
 ## <a name="subscriptions-growth-trend"></a>Trend för prenumerationstillväxt
 
-Detta anger trenden för antalet kundprenumerationer för det valda datumintervallet. X-axeln representerar månader för det valda datumintervallet och Y-axeln representerar antalet prenumerationer för den produkt som har valts. Rulla igenom skjutreglaget överst i diagrammet för att zooma diagrammet till en viss tidsperiod. 
+Detta anger trenden för antalet kundprenumerationer för det valda datumintervallet. X-axeln representerar månader för det valda datumintervallet och Y-axeln representerar antalet prenumerationer för den produkt som har valts. Bläddra igenom skjutreglaget överst i diagrammet för att zooma diagrammet till en viss tidsperiod. 
 
 :::image type="content" source="images/insights/subscription-growth.png" alt-text="Trend för prenumerationstillväxt.":::
 
 ## <a name="azure-consumed-revenue-growth-trend"></a>Azure-intäktsförbrukning tillväxttrend
 
-Månatlig trend för Azure-förbrukade intäkter i amerikanska dollar som har tilldelats dig under det valda datumintervallet. X-axeln representerar månader för det valda datumintervallet och Y-axeln representerar den totala Azure-förbrukade intäkten i amerikanska dollar som tilldelats dig under månaden.
+Månatlig trend för Azure-förbrukade intäkter i amerikanska dollar som tillskrivs dig under det valda datumintervallet. X-axeln representerar månader för det valda datumintervallet och Y-axeln representerar de totala Azure-förbrukade intäkterna i amerikanska dollar som du har tilldelats under månaden.
 
 > [!NOTE]
-> ACR är endast synligt för användare som har tilldelats rollen Som chef för rapportvisning. 
+> ACR är endast synligt för användare som har tilldelats rollen som visningsprogram för chefsrapport. 
 
 :::image type="content" source="images/insights/azure-consumed.png" alt-text="Azure-förbrukning.":::
 
 ## <a name="licenses-growth-trend"></a>Trend för licenstillväxt
  
-Trend för licenser som tilldelats av alla kunder under det valda datumintervallet. X-axeln representerar månader för det valda datumintervallet och Y-axeln representerar antalet licenser för den produkt som du har valt. Rulla igenom skjutreglaget överst i diagrammet för att zooma diagrammet till en viss tidsperiod.  
+Trend för licenser som tilldelats av alla kunder under det valda datumintervallet. X-axeln representerar månader för det valda datumintervallet och Y-axeln representerar antalet licenser för den produkt som du har valt. Bläddra igenom skjutreglaget överst i diagrammet för att zooma diagrammet till en viss tidsperiod.  
 
 :::image type="content" source="images/insights/licenses-growth.png" alt-text="Licenser.":::
 

@@ -3,18 +3,18 @@ title: Migrera Dynamics 365 Business Edition
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Lär dig hur du migrerar kvalificerade Dynamics 365 Business Edition-erbjudanden till nyare versioner innan de upphör att gälla.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8232ab165ea68ebefdfbb30f3ac52c907e1b7278
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 2e8eca0a645656388516c4c25f0091713424caf0
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151533"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838299"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Migrera Dynamics 365 Business Edition-erbjudanden till nyare versioner
 
@@ -24,7 +24,7 @@ Från och med 1 januari 2019 kan kunder med Dynamics 365 Business Edition-prenum
 
 För att säkerställa kontinuitet för kunder bör du föra över dem med utgående prenumerationer till ett alternativ som stöds, som anges nedan. Vi rekommenderar att du flyttar kunder till nya prenumerationer före prenumerationens årliga slutdatum för att undvika eventuella tjänstavbrott för kunder.
 
-Om du använder API:et (antingen ELLER Partnercenter) kan du hitta utgångna prenumerationer genom att utvärdera slutdatumet för prenumerationen tillsammans med egenskapen förnya automatiskt = Falskt. Prenumerationerna i fråga ställs in på förnya automatiskt = Falskt den 1 januari 2019. Du kan när som helst flytta kunder till en ny plan. 
+Om du använder API:et (antingenNTINGEN ELLER Partnercenter) kan du hitta utgångna prenumerationer genom att utvärdera slutdatumet för prenumerationen tillsammans med egenskapen förnya automatiskt = Falskt. Prenumerationerna i fråga ställs in på förnya automatiskt = Falskt den 1 januari 2019. Du kan när som helst flytta kunder till en ny plan. 
 
 ## <a name="the-dynamics-365-business-editions-being-retired"></a>Dynamics 365 Business Editions dras tillbaka
 
@@ -61,6 +61,6 @@ Kunden kommer nu att ha både den gamla och den nya. Nästa steg är att omtilld
 När du har flyttat över licenserna till den nya prenumerationen kan du avbryta den gamla prenumerationen. 
 
 1. Välj **Kunder** i det vänstra navigeringsfältet och välj sedan den kund som du flyttar.
-2. På sidan med prenumerationsdetaljer ställer du in den gamla prenumerationen på **Pausad** och väljer **Skicka**.
+2. På sidan med prenumerationsdetaljer anger du den gamla prenumerationen till **Pausad** och väljer **Skicka**.
 
 Den gamla prenumerationen har nu inaktiverats och den nya prenumerationen är aktiv. Den pausade prenumerationen avetableeras automatiskt efter 120 dagar. Kunden medför inga ytterligare kostnader för den gamla prenumerationen.

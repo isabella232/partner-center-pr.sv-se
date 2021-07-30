@@ -3,18 +3,18 @@ title: Skapa ett MPN-konto i Partnercenter
 ms.topic: article
 ms.date: 05/07/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-enroll
 description: Lär dig hur Microsoft Partner Network kan skapa ett Partnercenter-konto för att hantera sina nätverksförmåner och kompetenser.
 author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ee6f0cb6019dc68e4303a95bfa4f89727338b64
-ms.sourcegitcommit: a84c83bbd95156344b3d9b2778973f47a9f83141
+ms.openlocfilehash: 6f73d510b5426f50aa595ff59813583befb8eab4
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "113353745"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837381"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Skapa ett MPN-konto i Partnercenter för att hantera nätverksförmåner och kompetenser
 
@@ -32,7 +32,7 @@ När du är redo att skapa ett konto i Partnercenter måste du ha följande till
 
 - Behörighet att signera juridiska avtal. Se till att du har behörighet att signera juridiska avtal för ditt företags räkning eftersom du uppmanas att göra det under registreringsprocessen.
 
-- Namn och företagets e-postadress för den person som du vill fungera som primär kontakt. För att säkerställa företagets säkerhet och sekretess skickar vi e-post till din primära kontakt för att verifiera e-postadressen och för att säkerställa att e-postadressen tillhör ditt företag. När den primära kontakten har verifierat e-postadressen fortsätter vi att granska informationen som angetts. Verifieringen tar vanligtvis 3–5 arbetsdagar. 
+- Namn och företagets e-postadress till den person som du vill fungera som primär kontakt. För att säkerställa företagets säkerhet och sekretess skickar vi e-post till din primära kontakt för att verifiera e-postadressen och för att säkerställa att e-postadressen tillhör ditt företag. När den primära kontakten har verifierat e-postadressen fortsätter vi att granska informationen som angetts. Verifieringen tar vanligtvis 3–5 arbetsdagar. 
 
 - Information om verifieringsprocessen finns i [Kontoverifiering.](verification-responses.md)
 
@@ -58,7 +58,7 @@ När du är redo att skapa ett konto i Partnercenter måste du ha följande till
 
     Du kan antingen leta upp din företagsprofil eller ange företagsinformation manuellt. Om ditt företag är registrerat hos [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)använder du DUNS-ID:t för att leta upp företagsinformation. Om du vill ange företagsinformation själv väljer du **Manuell.**
 
-    Om ditt företag finns i **Förser** dig **med** begynnande , **kyrgyzstan,** Antjin , **Eller** **Ryssland,** och du anger din adress manuellt, kommer vi att verifiera din adress åt dig.  Om den som du anger skiljer sig från den verifierade, föreslår vi att du använder den verifierade adressen. Detta säkerställer att adresselementen standardiseras enligt definitionen av landet postnummer, korrekt formaterade och kan skickas.  
+    Om ditt företag finns i **Förser** dig **med** begynnande , **kyrgyzstan,** Begynnande , **Anvn** eller **Ryssland,** och du anger din adress manuellt, kommer vi att verifiera din adress åt dig.  Om den som du anger skiljer sig från den verifierade, föreslår vi att du använder den verifierade adressen. Detta säkerställer att adresselementen standardiseras enligt definitionen av landet postnummer, korrekt formaterade och kan skickas.  
 
     När du har angett företagsinformation anger du den primära kontaktinformationen. Den primära kontakten ska vara den person i företaget som vi kan kontakta om ditt program (den här kontakten kan vara du eller en annan person i ditt företag).
 
@@ -78,14 +78,14 @@ Följande tabell innehåller exempel på registreringsnumren som samlats in för
 | **Armenien** | INN – Skatteidentifieringsnummer<br>Momsregistreringsnummer – även kallat momsregistreringsnummer. Det här är det unika nummer som identifierar en skattebar person (företag) eller icke-skattebar juridisk enhet som är registrerad för moms.<br>Nummer för offentlig tjänst |
 | **Azerbajdzjan**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) – Skatteidentifieringsnummer<br>INN – Skatteidentifieringsnummer |
 | **Vitryssland**  | UNP – Det här är ett niosiffrigt tal (numeriskt för organisationer, alfanumeriskt för enskilda användare) som innehåller en regionsidentifierare, en serie per region och en kontrollsiffra. |
-|**Brasilien** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) – (Cadastro Nacional da Pessoa Jurizdica eller National Registry of Legal Entities). Det här är ett identifieringsnummer utfärdat till brasiliens företag av Brasiliens avdelning för federala intäkter  |
+|**Brasilien** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) – (Cadastro Nacional da Pessoa Jurica, eller National Registry of Legal Entities). Det här är ett identifieringsnummer som utfärdats till brasiliens företag av Brasiliens avdelning för federala intäkter  |
 | **Kina** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/China-TIN.pdf) – Skatteidentifieringsnummer |
 | **Ungern**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Hungary-TIN.pdf) – Skatteidentifieringsnummer |
 | **Indien** | Skatte-ID<br>[PAN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) – (Presence Across Organization) PAN India Involvement innebär att det finns en organisation som arbetar på flera platser i Indien. |
 | **Irak** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Skatteidentifieringsnummer |
 | **Kazakstan**  | BIN – Bankidentifieringsnummer<br>IIN – Utfärdaridentifieringsnummer |
 | **Kirgizistan**  | INN – Skatteidentifieringsnummer |
-| **Moldavien**  | IDNO – Det unika tillståndsidentifieringsnumret som tilldelats den juridiska enheten (kallas även. Räkenskapskod).<br>IDNP – Personlig kod för födelse ("Numarul de Identificare") |
+| **Moldavien**  | IDNO – Det unika identifieringsnumret för den juridiska personen (kallas även för . Räkenskapskod).<br>IDNP – Personlig kod för födelse ("Numarul de Identificare") |
 | **Myanmar** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Skatteidentifieringsnummer | 
 | **Polen**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) – Skatteidentifieringsnummer<br>[PESEL](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) – Det nationella identifieringsnumret som används i Förlamning (polska Powszechny Elektroniczny System EwidencjiIstannoistan, Universal Electronic System for Registration of the Population) |
 | **Ryssland**  | [INN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Russia-TIN.pdf) – Skatteidentifieringsnummer (ryska "Individualiy Nomer Nalogoplatelshika") |

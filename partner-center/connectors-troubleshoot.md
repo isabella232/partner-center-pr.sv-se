@@ -3,17 +3,17 @@ title: Felsöka anslutningsappar för hänvisningar till säljförsäljning
 ms.topic: how-to
 ms.date: 09/21/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-referrals
 description: Få svar på vanliga frågor om hur du använder anslutningsappar för säljförsäljning. Läs dessa vanliga frågor och svar om hur du felsöker anslutningsappar för säljförsäljning.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: bb7a227624c548a29046b80d3bd5fa363a4aee2f
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 5143d8e779332fd7df1ebeb3b5175658a0190f4b
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276946"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838061"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Felsöka anslutningsappar för hänvisningar till säljförsäljning
 
@@ -127,7 +127,7 @@ E. I flödet Partner Center Webhook Registration (Partnercenter-webhookregistrer
 
 1. Hur felsöker du fel Power Automate körningen av flödet?
 
-Information om hur du Power Automate körs som förväntat och felsöker fel under körningen finns i Åtgärda [flödesfel.](/power-automate/fix-flow-failures)
+Information om hur du Power Automate dina flöden körs som förväntat och felsöker fel under körningen finns i [Åtgärda flödesfel.](/power-automate/fix-flow-failures)
 
 2. Vad ska du göra om du ser referenser som inte synkroniseras korrekt i Partner Center eller CRM-miljön?
  
@@ -173,29 +173,29 @@ Kontrollera att rätt roller finns
 
 - Referensadministratörsroll för Partner Center-säljare 
  
-- Systemadministratörs- eller systemanpassarroll på din CRM-instans
+- Rollen Systemadministratör eller Systemanpassare på din CRM-instans
 
 - Kontrollera att Power Automate flödeskontoanvändare loggar in https://flow.microsoft.com på minst en gång i förväg
 
-6. Vad ska du göra om **du** ser att landskoden för kundkontot saknas när du skapar en möjlighet till säljförsäljning?
+6. Vad ska du göra **om du** ser att landskoden för kundkontot saknas när du skapar en möjlighet till säljförsäljning?
 
 Du måste lägga till ISO-landskoden med två bokstäver till kundkontot i CRM.
 
 7. Vad ska du göra om du ser felet att **lösnings-ID krävs när** du skapar en möjlighet till säljförsäljning?
 
-För att kunna skapa en hänvisning till säljförsäljning behöver du en lösning som är redo för microsofts säljförsäljning. 
+För att kunna skapa en hänvisning till säljförsäljning behöver du en lösning som är redo för Microsofts säljförsäljning. 
 
-8. Vad ska du göra när du ser möjligheter till säljförsäljning i Partnercenter som inte synkroniseras med CRM trots att det inte finns några flödesfel?
+8. Vad ska du göra när du ser möjligheter till säljförsäljning som skapats i Partnercenter och som inte synkroniseras med CRM trots att det inte finns några flödesfel?
 
 Gör följande:
 
-- När du har skapat ett nytt säljavtal i Partnercenter kontrollerar du om Partner Center till Dynamics 365-flöde anropas (det kan anropas flera gånger).
+- När du har skapat ett nytt samförsäljningsavtal i Partnercenter kontrollerar du om Flödet Partnercenter till Dynamics 365 anropas (det kan anropas flera gånger).
 
-- Om flödet anropas kontrollerar du alla anropade flöden och identifierar den flödeskörning som uppdaterar CRM. Du kan följa åtgärderna och kontrollera om CRM har uppdaterats eller om ett problem har uppstått.
+- Om flödet anropas kontrollerar du alla anropade flöden och identifierar flödeskörningen som uppdaterar CRM. Du kan följa åtgärderna och kontrollera om CRM har uppdaterats eller om ett problem har uppstått.
 
 - Markera **Nytt avtal i** Partnercenter för att se om det fylls med CRM-ID.
 
-- Kontrollera att avtalet inte har stängts av misstag som Won **(Vunnit)** **eller Lost (Förlorad)** i Partnercenter.
+- Kontrollera att avtalet inte har stängts av misstag som **won (vunnits)** **eller Lost (förlorad)** i Partnercenter.
 
 ## <a name="next-steps"></a>Nästa steg
 

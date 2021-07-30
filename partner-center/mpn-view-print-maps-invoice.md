@@ -3,22 +3,22 @@ title: Microsoft Partner Network fakturor & skatter
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
-description: Lär dig hur du visar eller laddar ned din MPN-medlemskapsfaktura, hur du filar för skattebefrielse och hur du skickar ditt momsregistreringsnummer till Microsoft.
+ms.subservice: partnercenter-membership
+description: Lär dig hur du visar eller laddar ned din MPN-medlemskapsfaktura, hur du skickar för skattebefrielse och hur du skickar ditt momsregistreringsnummer till Microsoft.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c3ea3fae2ae8052b517bfb80e16614c4708a253b
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: f5448932c9016f346f18882ad0070108f684e941
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151295"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838146"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Fakturor och skatter i Microsoft Partner Network
 
-**Lämpliga roller:** Globala | Administratörsbehörighet för | MPN-partneradministratör | Faktureringsadministratörskonto | Administratörsagent
+**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | MPN-partneradministratör | Faktureringsadministratörskonto | Administratörsagent
 
 ## <a name="view-or-download-your-mpn-membership-invoice"></a>Visa eller ladda ned din MPN-medlemskapsfaktura
 
@@ -32,14 +32,14 @@ Du måste vara administratör Global administratör MPN-partner för att utföra
 
 6.  Välj den faktura du vill ha och välj sedan **Ladda ned faktura.** 
 
-## <a name="file-a-tax-exemption"></a>Skapa ett skattebefrielseundantag
+## <a name="file-a-tax-exemption"></a>Skapa ett skattebefrielse
 
-1.  I Partnercenter väljer du **Inställningar.**
+1.  I Partnercenter väljer du **Inställningar**.
     - Om du vill hitta ditt MPN-ID väljer **du Partnerprofil**.
 
-2.  Skapa en ny supportbiljett. I Partnercenter väljer du **Tjänstförfrågningar,** **Partnercenter-begäranden** och sedan **Ny begäran.**
+2.  Skapa en ny supportbiljett. I Partnercenter väljer du **Tjänstbegäranden,** **Partner Center-begäranden** och sedan **Ny begäran.**
 
-3.  Fyll i formuläret. För Typ **av problem väljer** du Kan inte hantera min **profil.** I beskrivningen tar du med ditt MPN-ID.
+3.  Fyll i formuläret. För Typ **av problem väljer** du Kan inte hantera min **profil.** Ta med ditt MPN-ID i beskrivningen.
 
 4.  När du har skickat din begäran skickar Microsoft ett e-postmeddelande till dig för att få mer information. När du svarar bifogar du lämplig stöddokumentation för dina skattebefrielsecertifikat.
 

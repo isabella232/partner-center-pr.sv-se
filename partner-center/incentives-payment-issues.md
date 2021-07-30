@@ -8,18 +8,18 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: ad71a6e02d6472ae844c504491e5acb05d5d6426
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 7e3f3e206c851fbcc68ecd47f6027a2d5856478e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277869"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844783"
 ---
-# <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Felsöka saknade betalningar, felaktiga intäkter och andra problem
+# <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Felsöka uteblivna betalningar, felaktiga intäkter och andra problem
 
 **Lämpliga roller:** Incitamentsadministratör
 
-Den här artikeln hjälper dig att lösa eventuella problem med intäkter eller betalningar i ditt incitamentsprogram. Ämnen som omfattas omfattar tidsinställning av betalningar, kontroll av berättigande till intäkter och vikten av att konfigurera utbetalnings- och skatteprofiler på rätt sätt.
+Den här artikeln hjälper dig att lösa eventuella problem med intäkter eller betalningar i ditt incitamentsprogram. Ämnen som omfattas omfattar tidsinställning för betalningar, kontroll av berättigande till intäkter och vikten av att konfigurera utbetalnings- och skatteprofiler på rätt sätt.
 
 ## <a name="who-can-create-or-update-payout-and-tax-profiles-for-my-organization"></a>Vem kan skapa eller uppdatera utbetalnings- och skatteprofiler för min organisation?
 
@@ -48,9 +48,9 @@ Om en betalning saknas eller är fel, så beror det ofta på något av följande
 - **Du kanske inte är berättigad.**  Intäkter är endast tillgängliga om du uppfyller behörighetskraven, det vill säga att du har registrerat dig för respektive programs intäktsperiod.
 - **Du kanske inte uppfyller kraven.**  Kontrollera att du uppfyller behörighetskraven och intäktsreglerna för det aktuella incitamentet.
 
-  **Så här kontrollerar du din behörighet**
+  **Så här kontrollerar du berättigandet**
 
-  1. Logga in på [Partner incentives (Partnerincitament).](https://partner.microsoft.com/membership/partner-incentives)
+  1. Logga in på [Partnerincitament](https://partner.microsoft.com/membership/partner-incentives).
 
   2. Rulla ned till dokumenten för ditt program.
   
@@ -63,28 +63,28 @@ Om en betalning saknas eller är fel, så beror det ofta på något av följande
 
   **Så här visar du dina utestående åtgärder**
 
-  1. Logga in på [Partner incentives (Partnerincitament).](https://partner.microsoft.com/membership/partner-incentives)
+  1. Logga in på [Partnerincitament](https://partner.microsoft.com/membership/partner-incentives).
   2. Öppna sidan **Transaktionshistorik.** Granska fälten på den här sidan för eventuella utestående åtgärder som ska slutföras, till exempel väntande skatteprofil, väntande betalningsprofil **eller** **väntande momsfaktura.**
 
-Kontakta supporten om de här åtgärderna inte hjälper och dina betalningar fortfarande saknas eller är [felaktiga.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
+Om de här åtgärderna inte hjälper och dina betalningar fortfarande saknas eller är felaktiga kontaktar du [supporten.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
 
 ## <a name="how-can-i-reconcile-my-adjustments"></a>Hur kan jag stämma av mina justeringar?
 
-Du kan hitta och stämma av dina justeringar genom att ladda ned information om intjäning och transaktioner.
+Du kan hitta och stämma av dina justeringar genom att ladda ned information om dina intjäningar och transaktioner.
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
-2. I det övre navigeringsfältet väljer du ikonen Money (Pengar) och sedan **Transaction history (Transaktionshistorik).**
+2. I det övre navigeringsfältet väljer du valutaikonen och sedan **Transaktionshistorik.**
 3. Använd lämpliga filter. (Se **viktig information** nedan.)
 4. När du har filtrerat dina data väljer du **Starta nedladdning** och sedan **Exportera data.** Dina data öppnas i en CSV-fil.
 5. I CSV-filen går du till Kolumn P, **typ av intjäning.**
-6. Filtrera den här kolumnen **för Adjustment-Besse .** Du kan se månaden för varje justering i Kolumn S.
+6. Filtrera den här kolumnen **för Adjustment-Beser .** Du kan se månaden för varje justering i Kolumn S.
 
 >[!IMPORTANT]
 >Justeringar som tillämpas på tidigare intäktsperioder visas inte i intäkterna för den månad då justeringen tillämpades. Justeringarna återspeglas alltid i intäktsrapporten för den månad då justeringen tillämpades.
 >
->Till exempel återspeglas inte en justering för intäkter i januari 2019 som bearbetades i september 2019 i intäktsbeloppet för september 2019. Men när betalningen för september 2019 tas emot innehåller den justering för januari 2019 som tillämpades i september. I det här scenariot måste du ladda ned transaktionsinformationen för januari 2019 för att se den justering som tillämpades.
+>En justering för januari 2019-intäkter som bearbetades i september 2019 återspeglar till exempel inte intäktsbeloppet för september 2019. Men när betalningen för september 2019 tas emot inkluderar den justeringen för januari 2019 som tillämpades i september. I det här scenariot måste du ladda ned transaktionsinformationen för januari 2019 för att se den justering som tillämpades.
 >
->Tänk på detta när du anger datumfilter. Som nämnts ovan visas justeringarna för tidigare perioder endast den månad då justeringen tillämpades. Kontrollera att det valda datumintervallet motsvarar månaden för den justering som du försöker hitta. Du kan behöva välja Rensa **alla för** att ta bort dina filter och sedan använda nya.
+>Tänk på detta när du anger datumfilter. Som nämnts ovan visas justeringar för tidigare perioder endast under den månad då justeringen tillämpades. Kontrollera att det valda datumintervallet motsvarar månaden för justeringen som du försöker hitta. Du kan behöva välja **Rensa alla för** att ta bort dina filter och sedan använda nya.
 
 ## <a name="why-are-my-co-op-claim-payments-made-in-two-different-currencies"></a>Varför görs mina betalningar på gemensamma anspråk i två olika valutor?
 
@@ -94,9 +94,9 @@ När gemensamma medel intjänas från olika Microsoft-enheter görs betalningar 
 
 Varje incitamentsprogram har en bankprofil som har skapats vid installationen. Den valuta som anges i profilen är den valuta du får betalt i.
 
-## <a name="i-dont-see-earnings-for-a-certain-period"></a>Jag ser inga intäkter under en viss period
+## <a name="i-dont-see-earnings-for-a-certain-period"></a>Jag ser inte intäkter under en viss period
 
-När du inte ser intäkter under en period där de förväntas beror det vanligtvis på något av följande problem:
+När du inte ser intäkter under en period då de förväntas beror det vanligtvis på något av följande problem:
 
 - **Du kanske inte är berättigad.**  Intäkter är endast tillgängliga om du uppfyller behörighetskraven, det vill säga att du har registrerat dig för respektive programs intäktsperiod.
 
@@ -116,9 +116,9 @@ Intäkter visas både på sidan **Transaktionshistorik** och **på sidan** Betal
 
 :::image type="content" source="images/incentives/paymenticon.png" alt-text="Transaktionsinformation.":::
 
-Månatliga intäktsbelopp i vyn Transaktionshistorik överensstämmer kanske inte med betalningsbeloppet som tagits emot för en viss månad. Detta beror på omberäkningar och justeringar för tidigare intjäningsperioder som tillämpas på framtida betalningar.
+Månatliga intäktsbelopp i vyn Transaktionshistorik överensstämmer kanske inte med betalningsbeloppet som tagits emot under en viss månad. Detta beror på omberäkningar och justeringar för tidigare intjäningsperioder som tillämpas på framtida betalningar.
 
-Till exempel återspeglas inte en justering för intäkter för januari 2019 som bearbetades i september 2019 i intäktsbeloppet för september 2019. Men när betalningen för september 2019 tas emot innehåller den justering för januari 2019 som tillämpades i september.
+Till exempel återspeglas inte en justering för intäkter för januari 2019 som bearbetades i september 2019 i intäktsbeloppet för september 2019. Men när betalningen för september 2019 tas emot inkluderar den justeringen för januari 2019 som tillämpades i september.
 
 I det här scenariot behöver du ladda ned transaktionsinformationen för att få en fullständig vy över alla intäkter som ingår i betalningen.  Dessutom kan du gå till vyn Betalningar för att ladda ned transaktioner för varje betalning.
 

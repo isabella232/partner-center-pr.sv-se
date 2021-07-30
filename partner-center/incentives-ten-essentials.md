@@ -1,6 +1,6 @@
 ---
 title: De 10 grundläggande för att arbeta med incitament
-description: Följ dessa 10 förslag för att förbättra din upplevelse av incitamentprogrammet och få utbetalning tidigare.
+description: Följ dessa 10 förslag för att förbättra din incitamentprogramupplevelse och få utbetalning tidigare.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
@@ -8,24 +8,24 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
-ms.openlocfilehash: 32b7575e0110eba8c04e971845f54ca71bfb45c5
-ms.sourcegitcommit: d1deaeb1703cf2c25119037c5fb624c44fca74b4
+ms.openlocfilehash: 9e90a90a25c1d8ad5ef71535d3b89e558352f328
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/14/2021
-ms.locfileid: "113753365"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837296"
 ---
 # <a name="the-10-essentials-for-working-with-incentives"></a>De 10 grundläggande för att arbeta med incitament
 
 **Lämpliga roller:** Incitamentsadministratörsroller | Incitamentsanvändare
 
-Microsoft Incitamentsprogram ett kraftfullt verktyg som ger partner fördelar när de engagerar kunder med Microsofts produkter och tjänster. Ju mer du förstår programmet, desto bättre är chansen att lyckas.
+Microsoft Incitamentsprogram är ett kraftfullt verktyg som hjälper partner att engagera kunder med Microsofts produkter och tjänster. Ju mer du förstår programmet, desto bättre chans att lyckas.
 
 Vi rekommenderar att du gör de 10 essentials som anges **nedan innan** du börjar med incitamentsprogrammet. De hjälper till att säkerställa att din incitamentsupplevelse är bra och bidrar till att förhindra fördröjningar i incitamentutbetalningarna.
 
 ## <a name="1-join-the-microsoft-partner-network"></a>1. Anslut Microsoft Partner Network
 
-Om du ännu inte är en Microsoft-partner måste du gå med i MPN för att dra nytta av incitament och andra fördelar. Mer information finns i [Microsoft Partner Network medlemskap.](https://partner.microsoft.com/membership)
+Om du ännu inte är en Microsoft-partner måste du gå med i MPN för att dra nytta av incitament och andra fördelar. Mer information finns i [Microsoft Partner Network medlemskap](https://partner.microsoft.com/membership).
 
 ## <a name="2-read-your-incentives-program-guide"></a>2. Läs guiden för incitamentsprogrammet
 
@@ -41,19 +41,19 @@ Det är viktigt att få en gedigen förståelse för de roller och behörigheter
 
 ## <a name="5-review-the-incentives-faq"></a>5. Läs vanliga frågor och svar om incitament
 
-Få svar på vanliga incitamentsfrågor innan du ens ställer dem. Vi uppdaterar vanliga frågor och svar om incitament med hjälp av information Microsoft Support och direkt kommunikation med partner. Du kan se vanliga frågor och svar [här.](incentives-faq.yml)
+Få svar på vanliga incitamentsfrågor innan du ens ställer dem. Vi uppdaterar vanliga frågor och svar om incitament med hjälp av information Microsoft Support och direkt kommunikation med partner. Du kan visa vanliga frågor och svar [här.](incentives-faq.yml)
 
-## <a name="6-confirm-your-program-eligibility"></a>6. Bekräfta din behörighet för programmet
+## <a name="6-confirm-your-program-eligibility"></a>6. Bekräfta ditt programberättigande
 
-Detta omfattar vanligtvis att se till att du har försedt Microsoft med all nödvändig företagsprofildokumentation och att du har uppnått nödvändiga kompetenser. Se [Bekräfta att du är berättigad till programmet.](incentives-determined-your-program-eligibility.md)
+Detta innebär vanligtvis att du har förser Microsoft med all nödvändig dokumentation om företagsprofilen och att du har uppnått nödvändiga kompetenser. Se [Bekräfta behörigheten för ditt program.](incentives-determined-your-program-eligibility.md)
 
 ## <a name="7-confirm-your-earnings-eligibility"></a>7. Bekräfta din intäktsberättigande
 
-Precis som i föregående uppgift innebär detta vanligtvis att se till att du har försedt Microsoft med all information vi behöver. Se [Bekräfta din intäktsberättigande.](incentives-confirm-your-earnings-eligibility.md)
+Precis som i föregående uppgift innebär detta vanligtvis att se till att du har förser Microsoft med all information vi behöver. Se [Bekräfta din intäktsberättigande.](incentives-confirm-your-earnings-eligibility.md)
 
 ## <a name="8-gather-the-necessary-enrollment-information"></a>8. Samla in nödvändig registreringsinformation
 
-Registrering i incitamentsprogrammet kräver en viss mängd information om ditt företag. Se till att allt är klart innan du börjar. Om du vill veta mer kan du ladda ned och [läsa pdf-filen för incitamentregistrering i Partnercenter.](https://assetsprod.microsoft.com/partner-center-incentives-enrollment.pdf)
+Registrering i incitamentsprogrammet kräver en viss mängd information om ditt företag. Se till att du har allt tillsammans innan du börjar. Om du vill veta mer kan du ladda ned och [läsa pdf-filen incitamentsregistrering i Partnercenter.](https://assetsprod.microsoft.com/partner-center-incentives-enrollment.pdf)
 
 ## <a name="9-learn-how-other-partners-do-it"></a>9. Lär dig hur andra partner gör det
 

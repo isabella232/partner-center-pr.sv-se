@@ -4,19 +4,19 @@ ms.topic: how-to
 ms.date: 04/02/2021
 description: Lär dig mer om det effektiva enhetspriset och hur det beräknas. Den här artikeln innehåller även en exempelberäkning.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 84beac77d41b8c11be9ac3cad87460eec9632ac4
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 4148e9be6ab5bd3e5a146c0ed5479d8ad9723204
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147130"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837330"
 ---
-# <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Effektiv enhetsprisberäkning för Förbrukning i Azure-plan
+# <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Effektiv beräkning av enhetspris för Förbrukning av Azure-plan
 
 **Lämpliga roller:** Faktureringsadministratör
 
@@ -30,14 +30,14 @@ Vi beräknar det effektiva enhetspriset med hjälp av följande tre faktorer:
 - Fakturerbar kostnad för mätaren
 - Nivåindelad (om tillämpligt)
 
-Eftersom vi övervakar förbrukningen varje dag under faktureringsperioden varierar det effektiva enhetspriset. Det slutliga priset för en viss faktureringsperiod blir tillgängligt när vi stoppar förbrukningsberäkningen och stänger faktureringsperioden. Du ser de flesta förbrukningsändringarna efter den fjärde eller femte decimalen.
+Eftersom vi övervakar förbrukning dagligen under faktureringsperioden varierar det effektiva enhetspriset. Det slutliga priset för en viss faktureringsperiod blir tillgängligt när vi stoppar förbrukningsberäkningen och stänger faktureringsperioden. Du ser de flesta förbrukningsändringarna efter den fjärde eller femte decimalen.
 
-## <a name="find-out-whether-your-meter-uses-tiered-pricing"></a>Ta reda på om din mätare använder nivåindelade priser
+## <a name="find-out-whether-your-meter-uses-tiered-pricing"></a>Ta reda på om mätaren använder nivåindelade priser
 
 Om du inte vet om mätaren använder nivåindelad prissättning kan du använda proceduren nedan för att ta reda på det. 
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
-2. Välj **Sälj,** välj **Priser och erbjudanden** och välj sedan Priser för **Azure-plan.**
+2. Välj **Sälj,** välj **Priser och erbjudanden och** välj sedan Priser för **Azure-plan.**
 3. Leta upp din mätare efter ID och ladda sedan ned dina prisdata. 
 
 ## <a name="sample-calculation"></a>Exempelberäkning
@@ -52,7 +52,7 @@ I tabellen gäller följande värden:
 
 - **BC** = Fakturerbar kostnad för mätaren = BCU * UP * 0,85. Detta återspeglar en justering för 15 % PEC-rabatten. Sedan använder vi den nedre gränsen för funktionen för att begränsa värdet till två siffror efter decimaltecknet för att debitera det minsta beloppet. 
 
-- **Effektivt enhetspris** = BCU/BC
+- **Gällande enhetspris** = BCU/BC
 
 >[!NOTE]
 

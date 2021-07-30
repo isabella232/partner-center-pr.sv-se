@@ -3,18 +3,18 @@ title: Microsoft Partner Network medlemsförmåner
 ms.topic: article
 ms.date: 10/15/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-membership
 description: Läs mer Microsoft Partner Network MPN-förmåner, till exempel Microsoft Action Pack, kompetenser eller programalternativ för att gå till marknaden och sälja dina lösningar.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1ed25c3f1c9e5f8cec5384762fa9bdf5d09e5b76
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: bd5acdd94272d9c022eb0e3a034325b2dc1d9f12
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114433651"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845439"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Samarbeta med Microsoft och upptäck medlemsförmåner
 

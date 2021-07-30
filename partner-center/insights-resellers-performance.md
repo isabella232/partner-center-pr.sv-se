@@ -3,18 +3,18 @@ title: Partner Center Insights Resellers Performance-instrumentpanel
 ms.topic: article
 ms.date: 09/01/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Instrumentpanelen för återförsäljares prestanda i Partnercenter Insights ger en översikt över prestandan för olika indirekta återförsäljare av en indirekt leverantör Molnlösningsleverantör en leverantör av Molnlösningsleverantör (CSP).
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c8fc28730fecdd97928159cef3f0c48a6eeda1f5
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 796af99cc405a72bebcd467b242dafb83ac756e5
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376910"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844708"
 ---
 # <a name="reseller-performance-dashboard-in-partner-center-insights"></a>Instrumentpanelen Reseller Performance i Partner Center Insights
 

@@ -1,24 +1,24 @@
 ---
 title: Skapa användarkonton och tilldela roller
-description: Varje medarbetare måste tilldelas en roll innan de kan komma åt Partnercenter. Lär dig hur du skapar användarkonton, tilldelar roller och anger behörigheter.
+description: Alla medarbetare måste tilldelas en roll innan de kan komma åt Partnercenter. Lär dig hur du skapar användarkonton, tilldelar roller och anger behörigheter.
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-enroll
 ms.custom: contperf-fy21q2
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: 9621f0bc3283d7d3b08e2ebac62b4e5d8c95a4d4
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 940ad64dff2285ffc302902a4e3b6c21ef29395c
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148150"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837993"
 ---
 # <a name="create-user-accounts"></a>Skapa användarkonton  
 
-**Lämpliga roller:** Kontoadministratörsroller | Globala | Administratör för användarhantering
+**Lämpliga roller:** Kontoadministratörsroller | Global | Administratör för användarhantering
 
 Skapa användarkonton för anställda som behöver åtkomst till Partnercenter. Dessa uppgifter måste utföras av användarhanteringsadministratören, kontoadministratören eller den globala administratören. Användaren som utför dessa uppgifter måste också tilldelas AAD Azure Active Directory rollerna (Användaradministratör) eller Global administratör. Mer information om AAD-roller finns i [Administratörsrollbehörigheter i Azure Active Directory](/azure/active-directory/users-groups-roles/directory-assign-admin-roles).
 
@@ -41,7 +41,7 @@ Användaren måste logga in på Partnercenter med sitt användarnamn och tillfä
 
 ## <a name="assign-user-roles"></a>Tilldela användarroller
 
-Om du vill arbeta i Partnercenter måste du ha en tilldelad roll.  För närvarande omfattar roller Azure Active Directory klientroller, Molnlösningsleverantör-roller (CSP) och icke-AAD-företagsroller. Ett enskilt företag kan ha behov av alla dessa roller.
+Om du vill arbeta i Partnercenter måste du ha en tilldelad roll.  För närvarande omfattar roller Azure Active Directory klientroller, Molnlösningsleverantör(CSP)-roller och icke-AAD-företagsroller. Ett enskilt företag kan ha behov av alla dessa roller.
 
 >[!Important]
 >Enskilda användare måste anges i din klientorganisation för att få åtkomst till Partnercenter. Rolltilldelningar ger ytterligare åtkomst.

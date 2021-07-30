@@ -3,18 +3,18 @@ title: Ta bort återförsäljarrelationen med en kund
 ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: Ta reda på hur Microsofts direktpartner kan ta bort kunder från listan, ta bort delegerade administratörsbehörigheter och sluta stödja eller köpa för en kund.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 83259f2f895be9ef34c55db5613ccfe6891a4424
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: 355f4917098ae6f6e383bf1a889197a725777311
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551477"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844978"
 ---
 # <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>Så här tar du bort en återförsäljarrelation med en kund i Partnercenter
 
@@ -49,9 +49,9 @@ Om du vill ta bort relationen måste du avbryta reservationer för reserverad Az
 
    a. Från Partnercenter går du till **Kunder** och väljer en kund.
 
-   b. Välj **Konto.**
+   b. Välj **Kontot**.
 
-   c. Välj **Ta bort återförsäljarrelation.**
+   c. Välj **Ta bort återförsäljarrelation**.
 
    > [!NOTE]
    > Om några prenumerationer fortfarande är aktiva kommer länken **Ta bort återförsäljarrelation** att vara inaktiv.

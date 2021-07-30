@@ -1,19 +1,19 @@
 ---
-title: Office 365-användningsrapport för Partnercenter-insikter
+title: Information om Office 365-användningsrapport i Partnercenter
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Se vad du gör bra och var du kan förbättra användningen av Office 365 prenumerationer som du säljer eller hanterar åt dina kunder.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 094ff56c6bce3c9ac865c0b174cbfe8ff3029987
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 882b912a01301506bf163087f71bf70d0ed1aa41
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377147"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837415"
 ---
 # <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>Office 365 användningsrapport som är tillgänglig från instrumentpanelen Insights Partnercenter
 
@@ -23,7 +23,7 @@ Den Office 365 användningsrapporten innehåller användningsdata för de Office
 
 - Sammanfattning
 - Office 365 användning per geografiskt område
-- Office 365 användning efter arbetsbelastning
+- Office 365 användning per arbetsbelastning
 - Prenumerationsprestanda
 - Office 365 användningsdistribution
 
@@ -59,7 +59,7 @@ Du kan söka efter och välja ett land i rutnätet för att zooma till platsen p
 
 :::image type="content" source="images/insights/o365-usage-geography.png" alt-text="Office 365 användning per geografiskt område.":::
 
-## <a name="office-365-usage-by-workload"></a>Office 365 användning efter arbetsbelastning
+## <a name="office-365-usage-by-workload"></a>Office 365 användning per arbetsbelastning
 
 Den Office 365 användning per arbetsbelastning visar uppdelningen av MAU och PAU efter arbetsbelastningar.
 
@@ -73,7 +73,7 @@ Prenumerationsprestanda visar uppdelningen av MAU och PAU efter arbetsbelastning
 
 ## <a name="office-365-usage-distribution"></a>Office 365 användningsdistribution
 
-Distributionen Office 365 användning visar analys av PAU och prenumerationer efter SKU:er.
+Distributionsdistributionen Office 365 visar analys av PAU och prenumerationer efter SKU:er.
 
 :::image type="content" source="images/insights/o365-usage-distribution.png" alt-text="Office 365 användningsdistribution.":::
 

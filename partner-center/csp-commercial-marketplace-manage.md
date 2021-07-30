@@ -3,25 +3,25 @@ title: Hantera Marketplace-produkter & erbjudanden
 ms.topic: how-to
 ms.date: 07/02/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Med Partnercenter kan du lära dig hur molnlösningsleverantörer kan hantera ISV-erbjudanden från tredje part som köpts för kunder från den kommersiella marknadsplatsen.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e1bb2752dad5325478496c83fc368943780d8afb
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: fb6b64ef6117f0e26f0fd41d215816c38d5b7b80
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147912"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837738"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Hantera produkter och erbjudanden på den kommersiella marknadsplatsen för dina kunder
 
 
-**Lämpliga roller:** Globala | Administratörsagent
+**Lämpliga roller:** Global | Administratörsagent
 
-Partner i Molnlösningsleverantör-programmet (CSP) kan använda Partner Center-portalen för att köpa många ISV SaaS-erbjudanden eller prenumerationer för sina kunder från den kommersiella marknadsplatsen. När du har köpt ett erbjudande kan du hantera det på olika sätt.
+Partner i Molnlösningsleverantör-programmet (CSP) kan använda Partner Center-portalen för att köpa många ISV SaaS-erbjudanden eller -prenumerationer för sina kunder från den kommersiella marknadsplatsen. När du har köpt ett erbjudande kan du hantera det på olika sätt.
 
 ## <a name="view-or-edit-a-subscription"></a>Visa eller redigera en prenumeration
 
@@ -31,7 +31,7 @@ När du har köpt en prenumeration från en ISV-utgivare från tredje part kan d
 
 2. Välj en lämplig kund och välj sedan **Prenumerationer.** Här visas alla licensbaserade prenumerationer som du har köpt för kunden.
 
-3. I kolumnen **Prenumeration** väljer du den prenumeration som du vill visa eller redigera. Detta ger dig mer information för att konfigurera eller etablera erbjudandet. (Om det krävs fler åtgärder i erbjudandet kan du även se statusen Åtgärd krävs i kolumnen Status. Detta kan också åtföljas av en länk till ISV-utgivarens webbplats.)
+3. I kolumnen **Prenumeration** väljer du den prenumeration som du vill visa eller redigera. Detta ger dig mer information för att konfigurera eller etablera erbjudandet. (Om det krävs fler åtgärder för erbjudandet kan du även se statusen Åtgärd krävs i kolumnen Status. Detta kan också åtföljas av en länk till ISV-utgivarens webbplats.)
 
 4. När du har valt den prenumeration som du vill visa eller redigera kan du på sidan med prenumerationsdetaljer redigera prenumerationen och göra saker som:
 
@@ -77,13 +77,13 @@ Utgivaren bör ge dig en anpassad länk och en auktoriseringskod som identifiera
 
     - ISV-utgivaren har tilldelat lämpliga licenser
 
-    - ISV-utgivaren har bekräftat för Microsoft (via ett separat API för uppfyllning av SaaS) att kontokonfigurationen har slutförts
+    - ISV-utgivaren har bekräftat till Microsoft (via ett separat API för SaaS-uppfyllelse) att kontokonfigurationen har slutförts
 
 ## <a name="cancel-a-license-based-saas-subscription-from-an-isv-publisher"></a>Avbryta en licensbaserad SaaS-prenumeration från en ISV-utgivare
 
-När du prenumererar på en licensbaserad SaaS-produkt som erbjuds av en ISV-utgivare på den kommersiella marknadsplatsen har du möjlighet att avbryta prenumerationen inom den angivna annulleringsperioden. Den här annulleringsperioden ändras beroende på om du har en månatlig eller årlig prenumeration. Du kan också välja om du vill förnya prenumerationen automatiskt.
+När du prenumererar på en licensbaserad SaaS-produkt som erbjuds av en ISV-utgivare på den kommersiella marknadsplatsen kan du välja att avbryta prenumerationen inom den angivna uppsägningsperioden. Den här annulleringsperioden ändras beroende på om du har en månatlig eller årlig prenumeration. Du kan också välja om du vill förnya prenumerationen automatiskt eller inte.
 
-Mer information om uppsägningsperioder som gäller, hur du avbryter eller förnyar en prenumeration automatiskt finns i:
+Mer information om uppsägningsperioder som gäller, hur du avbryter eller hur du förnyar en prenumeration automatiskt finns i:
 
 - [Avbryta en prenumeration](create-a-new-subscription.md#cancel-a-subscription)
 

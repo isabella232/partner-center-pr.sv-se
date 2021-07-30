@@ -3,28 +3,28 @@ title: Skapa en partnerlogotyp, certifierat brev eller pris – Logo Builder
 ms.topic: how-to
 ms.date: 05/25/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
-description: Om företaget har en guld- eller silverkompetens kan du generera en logotyp som är anpassad för ditt företag eller begära ett anpassat certifierat verifieringsbrev med logo builder-verktyget i Partnercenter.
+ms.subservice: partnercenter-benefits
+description: Om ditt företag har en guld- eller silverkompetens kan du generera en logotyp som är anpassad för ditt företag eller begära ett anpassat certifierat verifieringsbrev med hjälp av Logo Builder-verktyget i Partnercenter.
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b3618cd02372c56b9f5381f8bdc8a6b3e6f24784
-ms.sourcegitcommit: fcf7a0d4f8e43de775894255f0ef9225838957a5
+ms.openlocfilehash: 967e5e3278e63f9797b28d4c8a856e087755c1e4
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "110440417"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845031"
 ---
-# <a name="create-a-partner-logo-certified-letter-or-award-logo"></a>Skapa en partnerlogotyp, certifierat brev eller en prislogotyp
+# <a name="create-a-partner-logo-certified-letter-or-award-logo"></a>Skapa en partnerlogotyp, certifierad bokstav eller prislogotyp
 
 **Lämpliga roller:** Alla partner som är intresserade av att lära sig mer om Logo Builder
 
-Om du vill visa upp din silver- eller guldkompetens kan du använda Logo Builder i Partnercenter för att skapa en logotyp som ska användas på ditt försäljnings- och marknadsföringsmaterial och på din företagsprofil i Partnercenter. Om du dessutom har godkänts i Azure Expert-leverantör av hanterade tjänster-programmet (MSP), har fått en årspartner eller har köpt Microsoft Action Pack, är logotyper för ditt deltagande i dessa program också tillgängliga i Logo Builder. Du kan använda biblioteket i Logo Builder för att lagra dina tillgångar och du kan ladda ned dem när du är redo att skapa försäljnings- och marknadsföringsmaterial.
+Om du vill visa din silver- eller guldkompetens kan du använda Logo Builder i Partnercenter för att skapa en logotyp som ska användas på ditt försäljnings- och marknadsföringsmaterial och på din företagsprofil i Partnercenter. Om du dessutom har godkänts i Azure Expert-leverantör av hanterade tjänster-programmet (MSP), har fått en årspartner eller har köpt Microsoft Action Pack, är logotyper för ditt deltagande i dessa program också tillgängliga i Logo Builder. Du kan använda biblioteket i Logo Builder för att lagra dina tillgångar och du kan ladda ned dem när du är redo att skapa försäljnings- och marknadsföringsmaterial.
 
-## <a name="what-is-available-in-logo-builder"></a>Vad är tillgängligt i Logo Builder
+## <a name="what-is-available-in-logo-builder"></a>Vad är tillgängligt i Logo Builder?
 
-Logotyperna som är tillgängliga för ditt företag i Logo Builder är justerade för Microsoft Partner Network (MPN) medlemskap. I din vy över Partnercenter kan du se **Logotyper,** **Bokstäver** och **Priser,** eller någon kombination.
+Logotyperna som är tillgängliga för ditt företag i Logo Builder är anpassade till ditt mpn Microsoft Partner Network medlemskap (mpn). I vyn i Partnercenter kan du se **Logotyper,** **Bokstäver** och **Priser,** eller någon kombination.
 
 :::image type="content" source="images/logo-builder.png" alt-text="screencap of full logo builder.screencap of full logo builder.":::
 
@@ -34,7 +34,7 @@ De tillgångar som du kan skapa i Logo Builder, beroende på din åtkomst, omfat
 
 - Partner med guldkompetenslogotyp
 
-- Partner med silverkompetenslogotyp
+- Partner med logga för silverkompetens
 
 - Azure Expert MSP logotyp
 
@@ -43,7 +43,7 @@ De tillgångar som du kan skapa i Logo Builder, beroende på din åtkomst, omfat
 - Logotyp för partner som har köpt Microsoft-Action Pack
 
 >[!NOTE]
->Det tar 24 timmar för en ändring av ditt medlemskap, till exempel ny kompetens, tilldelning eller annan kompetens att visas i ditt medlemskapskonto. Om du inte ser den önskade logotypen i biblioteket kontrollerar du att 24 timmar har gått.
+>Det tar 24 timmar innan en ändring av ditt medlemskap, till exempel ny kompetens, tilldelning eller andra färdigheter visas i ditt medlemskapskonto. Om du inte ser den önskade logotypen i biblioteket kontrollerar du att 24 timmar har gått.
 
 ## <a name="create-a-logo-using-logo-builder"></a>Skapa en logotyp med Logo Builder
 
@@ -72,23 +72,23 @@ Om du har skapat logotyper tidigare väljer du Visa alla **för** att visa hela 
 ## <a name="create-a-certified-letter-using-logo-builder"></a>Skapa en certifierad bokstav med Logo Builder
 
 1. Logga in på instrumentpanelen i [Partnercenter](https://partner.microsoft.com/dashboard) med ditt arbetskonto.
-1. På menyn i Partnercenter går du **till Förmåner** och väljer **Logo Builder.**
+1. På menyn i Partnercenter går du till **Förmåner** och väljer **Logo Builder.**
 1. Under **Skapa din logotyp** går du till **rutan** Bokstäver och väljer plustecknet.
 1. I **listrutan Välj ett språk** och en mall väljer du det språk som du vill använda. Tillgängliga mallar visas under den nedrullningsna menyn.
 1. Välj **Skapa** för den mall som du vill använda.
-1. Använd sedan följande steg för att anpassa bokstaven:
-    1. I **Alternativ** väljer du om du vill att dina partnerföretagsplatser ska visas i bokstaven.
+1. Använd sedan följande steg för att anpassa din bokstav:
+    1. I **Alternativ** väljer du om du vill att dina partnerföretagsplatser ska visas i bokstaven .
     1. I **Kundinformation** anger du eventuell kundinformation som du vill ska visas i rubriken för bokstaven. Du ser att kundinformationen återges i mallen. Kundinformation är inte tillgänglig för alla bokstäver.
     1. I **Tillgängliga program** väljer du vilka kompetenser eller program som du vill ska visas på logotypen. När du väljer värden kan du använda upp- och ned-symbolerna bredvid värdena för att ändra i vilken ordning kompetenserna eller programmen ska visas.
-    1. I **Bokstavsnamn** anger du ett namn för bokstaven.
-    1. När du är klar med att anpassa bokstaven väljer du **Spara** eller Spara & **hämta**.
+    1. I **Bokstavsnamn** anger du ett namn på bokstaven.
+    1. När du är klar med att anpassa din bokstav väljer du **Spara** eller **Spara & hämta**.
 
 ## <a name="create-an-award-logo-using-logo-builder"></a>Skapa en prislogotyp med Logo Builder
 
 1. Logga in på instrumentpanelen i [Partnercenter](https://partner.microsoft.com/dashboard) med ditt arbetskonto.
-1. På menyn i Partnercenter går du **till Förmåner** och väljer **Logo Builder.**
+1. På menyn i Partnercenter går du till **Förmåner** och väljer **Logo Builder.**
 1. Under **Skapa din logotyp** går du till rutan **Priser** och väljer plustecknet.
-1. I **listrutan Select award year (&** award year (Välj prisår) väljer du prisåret. Tillgängliga mallar visas under den nedrullningsna menyn.
+1. I **listrutan Select award year (&** award year (Välj år för pris) väljer du prisåret. Tillgängliga mallar visas under den nedrullningsna menyn.
 1. Välj **Skapa** för den mall som du vill använda.
 1. Använd sedan följande steg för att anpassa din prislogotyp:
     1. I **Tillgängliga priser** väljer du det pris som du vill ha på logotypen.
@@ -97,4 +97,4 @@ Om du har skapat logotyper tidigare väljer du Visa alla **för** att visa hela 
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Lär dig mer om fördelarna med att ta sig till marknaden](mpn-learn-about-go-to-market-benefits.md)
+- [Lär dig mer om fördelarna med att ta till marknaden](mpn-learn-about-go-to-market-benefits.md)

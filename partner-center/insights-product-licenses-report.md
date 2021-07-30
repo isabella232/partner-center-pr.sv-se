@@ -3,18 +3,18 @@ title: PartnerCenter Insights – produktlicenser
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Läs den här produktlicensrapporten och lär dig hur du kan förbättra med de licensierade molnbaserade produkter som du säljer eller hanterar åt dina kunder.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bb98f8ca54636c55f6ca4d654478a94f340edd89
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 5287e056e2ac2e8a0238ac7f86cca0fe58b92238
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377050"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845201"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Rapporten Produktlicenser på instrumentpanelen i Partnercenter Insights produktlicenser
 

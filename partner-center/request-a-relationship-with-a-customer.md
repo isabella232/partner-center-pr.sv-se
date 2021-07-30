@@ -3,17 +3,17 @@ title: Göra en förfrågan om återförsäljarrelation med en kund
 ms.topic: how-to
 ms.date: 06/17/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: Begär en relation med en kund för scenarier med flera partner, flera kanaler eller om dina delegerade administratörsbehörigheter för en kund måste återställas.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 83f615e69a9285365e68305fa909104e0da52992
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: 5b80cc15ade94a9003ec1b21293d86c3b5ac8ace
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551647"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844487"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Så här begär du en återförsäljarrelation från en kund i Partnercenter
 
@@ -32,7 +32,7 @@ Du kan begära en återförsäljarrelation med en kund från ditt land eller i s
 
 1. Välj **Kunder** på menyn **i Partnercenter** och välj sedan **Begär en återförsäljarrelation.**
 
-2. Om du vill begära administratörsbehörighet från den här kunden väljer du **Inkludera delegerade administrationsbehörigheter för Azure Active Directory och Office 365.** Avmarkera det här alternativet om du vill upprätta relationen utan att begära administratörsbehörighet.
+2. Om du vill begära administratörsbehörighet från den här kunden **väljer du Inkludera delegerade administrationsbehörigheter för Azure Active Directory och Office 365**. Avmarkera det här alternativet om du vill upprätta relationen utan att begära administratörsbehörighet.
 
 3. På nästa sida granskar du utkastet till e-postmeddelandet. Du kan öppna utkastet i ditt vanliga e-postprogram, eller så kan du kopiera meddelandet till Urklipp och klistra in det i ett e-postmeddelande.
 
@@ -43,7 +43,7 @@ Du kan begära en återförsäljarrelation med en kund från ditt land eller i s
 5. När kunden har accepterat din inbjudan visas den på sidan **Kunder** och kan etablera och hantera tjänsten för kunden därifrån.
 
    > [!NOTE]
-   > Om kunden inte redan har accepterat Microsoft-kundavtal uppmanas de att göra det när de accepterar din inbjudan. Kunden måste vara global administratör för att acceptera inbjudan.
+   > Om kunden inte redan har accepterat Microsoft-kundavtal uppmanas de att göra det när de godkänner din inbjudan. Kunden måste vara global administratör för att acceptera inbjudan.
 
 6. Om du vill hantera kundens konto, tjänster, användare och licenser expanderar du kundens post genom att välja nedåtpilen nära namnet.
 
@@ -56,9 +56,9 @@ Kundupplevelsen för att acceptera en återförsäljarrelationsinbjudan från en
 
 |Typer av molnkunder  | Var accepterar en kund en återförsäljarrelationsinbjudan? |
 |---------|---------
-| Kunder i offentligt moln | Microsoft 365 Administrationscenter |
-| Kunder i Partnercenter för Microsoft Cloud Tyskland | Microsoft Office administratörsportalen |
-| Kunder i Partnercenter för Microsoft Cloud for US Government | Microsoft Office administratörsportalen |
+| Kunder i offentligt moln | Microsoft 365 Admin Centrum |
+| Kunder i Partnercenter för Microsoft Cloud Tyskland | Microsoft Office Administratörsportalen |
+| Kunder i Partnercenter för Microsoft Cloud for US Government | Microsoft Office Administratörsportalen |
 |
 
 ## <a name="next-steps"></a>Nästa steg
