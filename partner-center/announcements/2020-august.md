@@ -1,69 +1,69 @@
 ---
 title: Meddelanden augusti 2020
-description: Meddelanden i augusti 2020 för Microsoft Partner Center, till exempel nya funktioner, kampanjer, erbjudanden, marknader eller ändringar av befintliga erbjudanden.
+description: Augusti 2020-meddelanden för Microsoft Partner Center, till exempel nya funktioner, kampanjer, erbjudanden, marknader eller ändringar i befintliga erbjudanden.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-action-center
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: f3503e4edf9b5e9081eb53b80a32f451db861a70
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: c163258d59c0e0640c8d8f3a0469a94d45582d1d
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947689"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839047"
 ---
 # <a name="august-2020-announcements"></a>Meddelanden augusti 2020
 
-Den här sidan innehåller information om Microsoft Partner Center-meddelanden för augusti 2020.
+Den här sidan innehåller information om meddelanden för Microsoft Partner Center för augusti 2020.
 
-2020-meddelanden: [januari](2020-january.md)  |  [februari](2020-february.md)  |  [March](2020-march.md)  |  [april](2020-april.md)  |  [maj](2020-may.md)  |  [juni](2020-june.md)  |  [July](2020-july.md) | Augusti
+2020-meddelanden: [januari mars](2020-january.md)  |  [april](2020-february.md)  |  [](2020-march.md)  |  [maj](2020-april.md)  |  [](2020-may.md)  |  [juli](2020-june.md)  |  [|](2020-july.md) Augusti
 
 ________________
 
-## <a name="partner-center-api-updates-and-user-interface-enhancements-for-the-education-customer-validation-process"></a><a name="8"></a>API-uppdateringar och användar gränssnitts förbättringar i Partner Center för kund validerings processen för utbildning
+## <a name="partner-center-api-updates-and-user-interface-enhancements-for-the-education-customer-validation-process"></a><a name="8"></a>Partner Center API-uppdateringar och förbättringar av användargränssnittet för kundvalideringsprocessen för Education
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-08-31
 - Funktioner
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Partner som säljer akademiska erbjudanden via Cloud Solution Provider (CSP)-programmet 
+Partner som säljer Academic-erbjudanden via Molnlösningsleverantör-programmet (CSP) 
 
 ### <a name="summary"></a>Sammanfattning
 
-Microsoft körs på förtroende och vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för kund validering för att ta med akademiska erbjudanden i Cloud Solution Provider-programmet. Som en del av det här åtagandet presenterar vi våra förbättringar av API för API och användar gränssnitt i kvartal två av detta räkenskapsår (FY21 Q2) som kommer att lägga till klarhet och insyn i kundens först konsumentsajter-process samt möjligheten att mata in mer exakta data som kommer att öka kundens först konsumentsajter. 
+Microsoft har förtroende och vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för kundvalidering för att göra akademiska erbjudanden i Molnlösningsleverantör program. Som en del av det här åtagandet introducerar vi partnercenter-API: er och förbättringar av användargränssnittet under kvartal två av det här räkenskapsåret (FY21 Q2) som ger tydlighet och insyn i kundens granskningsprocess samt möjligheten att mata in mer exakta data som ger bättre resultat för kunderna. 
 
-#### <a name="partner-center-enhancements"></a>Förbättringar i Partner Center
+#### <a name="partner-center-enhancements"></a>Förbättringar i Partnercenter
 
-- Nya API: er för att hämta och publicera kompetenser som stöd för korrekt data inmatning och förbättra kund validerings processen för utbildning av Microsoft.
-- Förbättringar av användar gränssnittet för att stödja korrekt data inmatning och förbättra kund validerings processen för utbildning av Microsoft.
+- Nya API:er för GET- och POST-kvalificeringar för att stödja korrekt datainmatning och förbättra Microsofts valideringsprocess för Education-kunder.
+- Förbättringar av användargränssnittet för att stödja korrekt inmatning av data och förbättra Microsofts valideringsprocess för Education-kunder.
 
 #### <a name="testing"></a>Testning
 
-Partner får möjlighet att testa dessa förbättringar från och med oktober. Vi rekommenderar starkt att du utnyttjar den här möjligheten för att få en bättre förståelse för de API: er och data som krävs för lyckad kund först konsumentsajter. Vi ger dig mer information om exakt tidpunkt och hur du deltar. De befintliga API: erna för partner Center kommer att dras tillbaka före slutet av FY21 Q2, där alla partners måste ha övergått till att använda de nya API: erna för partner Center.
+Partner har möjlighet att testa dessa förbättringar från och med oktober. Vi rekommenderar starkt att du utnyttjar den här möjligheten för att få en bättre förståelse för de API:er och datainmatning som krävs för en lyckad kundanalys. Vi ger snart mer information om den exakta tidpunkten och hur du deltar. De befintliga Partner Center-API:erna kommer att dras tillbaka före slutet av FY21 Q2, då alla partner måste ha gått över till att använda de nya Partner Center-API:erna.
 
-#### <a name="library-and-museum-customers"></a>Biblioteks-och Museum-kunder
+#### <a name="library-and-museum-customers"></a>Biblioteks- och Bibliotekskunder
 
-Förutom de ovanstående förbättringarna är vi också glada över att kunna tillkännage att vi i FY21 K2 kommer att aktivera akademiska erbjudanden för biblioteks-och Museum-kunder, vilket innebär att de utbildnings kunder som du kan använda för Transact-CSP: er kan använda.
+Förutom förbättringarna ovan är vi också glada över att kunna meddela att vi i FY21 Q2 kommer att aktivera Academic-priced-erbjudanden för biblioteks- och Bibliotekskunder, vilket utökar de Education-kunder som du kan använda för CSP-erbjudanden.
 
-Microsoft förbehåller sig rätten att granska statusen för alla kunder eller föreslagna kunder som en kvalificerad utbildnings användare. Mer information finns i de [akademiska användar kraven för utbildning](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) .
+Microsoft förbehåller sig rätten att granska statusen för en kund eller föreslagen kund som kvalificerad utbildningsanvändare. Fullständig information [finns i Användarkrav för](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) akademisk kvalificerad utbildning.
 
-### <a name="next-stepsadditional-resources"></a>Nästa steg/ytterligare resurser
+### <a name="next-stepsadditional-resources"></a>Nästa steg/Ytterligare resurser
 
-- Granska det nya användar gränssnittet för partner Center och API-ändringar i åtgärds beredskaps resurserna: [partner Center utbildning av kund validerings process](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
-- Se till att din organisation är bekant med de [akademiska användar kraven för utbildning](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).
-- Dela den här informationen med lämpliga team i din organisation och med dina åter försäljare för att hjälpa dem att förbereda för dessa ändringar.
-- Titta efter en uppdatering om den oktober-testningen där vi ger information om exakt tids inställning och hur du deltar.
+- Granska de nya partnercenter-Användargränssnitt API-ändringarna i operationsberedskapsresurserna: Förbättringar av [kundvalideringsprocessen i Partnercenter Education](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- Se till att din organisation är bekant med [användarkraven för Academic Qualified Education.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)
+- Dela den här informationen med lämpliga team i din organisation och med dina återförsäljare för att hjälpa dem att förbereda sig för dessa ändringar.
+- Håll utkik efter en uppdatering om testningsmöjligheten i oktober där vi ger information om exakt tidsinställning och hur du deltar.
 
 ________________
 
-## <a name="updates-to-the-microsoft-365-voice-promotion"></a><a name="7"></a>Uppdateringar av Microsoft 365 röst befordran 
+## <a name="updates-to-the-microsoft-365-voice-promotion"></a><a name="7"></a>Uppdateringar av Microsoft 365 Voice-befordran 
 
 ### <a name="categories"></a>Kategorier
 
@@ -72,80 +72,80 @@ ________________
 
 ### <a name="details"></a>Information
 
-Vi har gjort några uppdateringar av den tidigare presenterade Microsoft 365 Business röst befordran. Du kan få information genom att gå till [resurs galleriet för partner Center](https://partner.microsoft.com/resources/detail/announcement-microsoft-365-business-voice-promotion-deactivation-pdf). 
+Vi har gjort några uppdateringar av den tidigare tillkännagivna Microsoft 365 Business Voice Uppflyttning. Du kan få information genom att besöka [resursgalleriet i Partnercenter.](https://partner.microsoft.com/resources/detail/announcement-microsoft-365-business-voice-promotion-deactivation-pdf) 
 
 ________________
 
-## <a name="sdk-release-on-net-standard-v1161"></a><a name="6"></a>SDK-version på .NET standard (v 1.16.1)
+## <a name="sdk-release-on-net-standard-v1161"></a><a name="6"></a>SDK-version på .NET Standard (v1.16.1)
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-08-12
 - Funktioner
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Direkta fakturerings partner och indirekta leverantörer som deltar i CSP-programmet som använder Partner Center .NET SDK. 
+Direktfaktureringspartner och indirekta leverantörer som deltar i CSP-programmet som använder Partner Center .NET SDK. 
 
 ### <a name="summary"></a>Sammanfattning
 
-Från och med den 21 juli 2020 kan partners börja hämta versionen av **.net standard SDK Microsoft Partner Center** .NET SDK v-1.16.1, tillsammans med uppdaterade offentliga **partner Center SDK GitHub-exempel**.
+Från och med 21 juli 2020 kan partner börja ladda ned versionen av **.NET Standard SDK Microsoft Partner Center** .NET SDK v1.16.1, tillsammans med uppdaterade offentliga Partnercenter-SDK GitHub **exempel**.
 
 ### <a name="details"></a>Information
 
-Direkt fakturerings partner och indirekta leverantörer som ingår i CSP-programmet är berättigade att ladda ned den senaste versionen av .NET standard SDK. Dessa ändringar kommer att göra SDK: n kompatibel med det befintliga programmet med hjälp av .NET Framework 4.6.1 och senare. .NET-standarden stöder .NET Core 2,0 och senare.
+Direktfaktureringspartner och indirekta leverantörer som deltar i CSP-programmet är berättigade att ladda ned den senaste versionen av .NET Standard SDK. Dessa ändringar gör SDK kompatibel med det befintliga programmet med hjälp av .NET Framework 4.6.1 och högre. .NET Standard stöder .NET Core 2.0 och högre.
 
-Det har uppstått en enorm efter frågan från partners som begär SDK i .NET standard. Den nuvarande versionen av SDK tvingar partner att använda program som skrivits i ASP.NET Framework, vilket är långsamt och kostsamt jämfört med .NET Core-program. Därför kan migreringen till .NET standard hjälpa dig att lösa problemen med prestanda eller kompatibilitet med .NET Core.
+Det har funnits en enorm efterfrågan från partner som begär SDK i .NET Standard. Den aktuella versionen av SDK tvingar partner att använda program som skrivits i ASP.NET Framework, vilket är långsamt och dyrt jämfört med .NET Core-program. Migreringen till .NET-standarden kan därför hjälpa till att åtgärda problem med prestanda eller kompatibilitet med .NET Core.
  
 **Höjdpunkter**
-- Inga ytterligare versioner från Microsoft för .NET Framework 4,8 eftersom det är sista i raden.
-- Begränsar framtida utveckling eftersom de flesta bibliotek kommer att lanseras för .NET Core eller .NET standard, vilket kanske inte stöder den aktuella Framework-versionen.
-- .NET Core är fördelaktig att använda med behållare på grund av dess Lightweight-natur.
-- Server körning med hög prestanda för Windows Server och Linux gör .NET Core till ett webb ramverk för bästa prestanda.
+- Inga ytterligare versioner från Microsoft för .NET Framework 4.8 eftersom det är den sista i raden.
+- Begränsar framtida utveckling eftersom de flesta bibliotek kommer att släppas för .NET Core- eller .NET-standarden, som kanske inte stöder den aktuella ramverksversionen.
+- .NET Core är fördelaktigt att använda med containrar på grund av dess lätta natur.
+- Högpresterande serverkörning för Windows Server och Linux gör .NET Core till ett webbramverk med bäst prestanda.
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Ladda ned den senaste versionen av [.NET SDK v-1.16.1](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.1)
-- Version: .NET SDK v-1.16.1
-- Exempel kod: [exempel kod](https://github.com/microsoft/Partner-Center-DotNet-Samples)
-- GA: 8/12/2020
+- Ladda ned den senaste versionen av [.NET SDK v1.16.1](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.1)
+- Version: .NET SDK v1.16.1
+- Exempelkod: [Exempelkod](https://github.com/microsoft/Partner-Center-DotNet-Samples)
+- GA: 2020-08-12
 - Det finns inga nya API-ändringar som en del av den aktuella versionen
 
 ________________
 
-## <a name="self-service-purchasing-for-microsoft-project-and-microsoft-visio-coming-soon"></a><a name="5"></a>Självbetjänings inköp för Microsoft Project och Microsoft Visio kommer snart
+## <a name="self-service-purchasing-for-microsoft-project-and-microsoft-visio-coming-soon"></a><a name="5"></a>Köp via självbetjäning för Microsoft Project och Microsoft Visio kommer snart
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-08-12
 - Funktioner
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
 Partner som säljer onlinetjänster till kommersiella kunder
 
 ### <a name="details"></a>Information
 
-Vi har delat det [senaste året](https://partner.microsoft.com/resources/detail/power-apps-power-automate-self-service-pdf) som Microsoft gör det möjligt för personer och team att köpa utvalda tjänster direkt. Idag presenterar vi att självbetjänings inköps funktionerna kommer snart för Microsoft Project och Microsoft Visio-produkter. Från den 15 september 2020 kommer individer i hela världen att kunna köpa prenumerationer för följande produkter via självbetjäning:
+Vi delade [förra året](https://partner.microsoft.com/resources/detail/power-apps-power-automate-self-service-pdf) att Microsoft gör det möjligt för enskilda användare och team att köpa utvalda tjänster direkt. Idag presenterar vi att köpfunktioner för självbetjäning snart kommer för Microsoft Project och Microsoft Visio produkter. Från och med 15 september 2020 kommer enskilda personer över hela världen att kunna köpa prenumerationer för följande produkter via självbetjäning:
 
-- [Visio-plan 1](https://products.office.com/visio/visio-plan-1?activetab=pivot:overviewtab) och [Visio-plan 2](https://www.microsoft.com/microsoft-365/visio/visio-plan-2?rtc=2&SilentAuth=1&activetab=pivot:overviewtab)
-- [Projekt plan 1](https://www.microsoft.com/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot:overviewtab) och [projekt plan 3](https://www.microsoft.com/microsoft-365/project/project-plan-3?rtc=1&activetab=pivot:overviewtab)
+- [Visio Abonnemang 1](https://products.office.com/visio/visio-plan-1?activetab=pivot:overviewtab) och [Visio Abonnemang 2](https://www.microsoft.com/microsoft-365/visio/visio-plan-2?rtc=2&SilentAuth=1&activetab=pivot:overviewtab)
+- [Project Abonnemang 1](https://www.microsoft.com/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot:overviewtab) och [Project Abonnemang 3](https://www.microsoft.com/microsoft-365/project/project-plan-3?rtc=1&activetab=pivot:overviewtab)
 
-**Obs:** Funktionerna för självbetjänings köp är inte tillgängliga i Indien eller till kunder som är berättigade till myndigheter eller utbildnings erbjudanden.
+**Obs!** Köpfunktioner via självbetjäning är inte tillgängliga i Indien eller för kunder som är berättigade till government- eller Education-erbjudanden.
 
-#### <a name="partner-benefits"></a>Partner förmåner
+#### <a name="partner-benefits"></a>Partnerförmåner
 
-Du kan erbjuda dina tjänster till personer och team utan att behöva gå igenom den centraliserade IT-inhandlingen för att få nödvändiga licenser. Dina tjänster kan omfatta projekt och Visio, baserat på integrerings scenarier med Microsoft 365 och Power Platform. 
+Du kommer att kunna erbjuda dina tjänster till enskilda användare och team utan att behöva gå igenom den centraliserade IT-inköpsprocessen för att få nödvändiga licenser. Dina tjänster kan omfatta Project och Visio, baserat på integreringsscenarier med Microsoft 365 och Power Platform. 
 
-Lär dig mer om partner möjligheter med Visio-och Power Platform-lösningar i Microsoft inspirera-sessionen [återskapa och bli av med Microsoft Visio och Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform). Mer information finns i [självbetjänings administratörs guide](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins).
+Läs mer om partnermöjligheter med Visio och Power Platform-lösningar i Microsoft Inspire-sessionen [Rebuild and reimagine business with Microsoft Visio and Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform). Mer information finns i [administratörsguiden för självbetjäning.](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins)
 
 #### <a name="additional-resources"></a>Ytterligare resurser
 
-- Granska alla beredskaps resurser i galleriet för drift beredskap resurser: [Customer-serve Purchase-kapacitet](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/).
-- Kunder kan prova innan de köper med Visio-och projekt-utvärderingar som nu är tillgängliga för [Visio-plan 1 och Visio-plan 2](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/)och [projekt abonnemang 1](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software).
+- Granska alla beredskapsresurser i resursgalleriet för driftberedskap: Kundens [självbetjäningskapacitet](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/).
+- Kunder kan prova innan de köper med Visio och Project utvärderingsversioner, som nu [är tillgängliga för Visio Abonnemang 1 och Visio Abonnemang 2](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/)och [Project Abonnemang 1](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software).
 
 ________________
 
-## <a name="new-microsoft-teams-advanced-communications-skus-are-now-available"></a><a name="4"></a>Nya Microsoft Teams Advanced Communications SKU: er är nu tillgängliga
+## <a name="new-microsoft-teams-advanced-communications-skus-are-now-available"></a><a name="4"></a>Nya Microsoft Teams SKU:er för Avancerad kommunikation är nu tillgängliga
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-08-04
@@ -153,73 +153,73 @@ ________________
 
 ### <a name="summary"></a>Sammanfattning
 
-De nya avancerade kommunikations tilläggen SKU: er för Microsoft Teams blev tillgängliga den 1 augusti 2020.
+De nya SKU:erna för Advanced Communications Microsoft Teams blev tillgängliga den 1 augusti 2020.
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Alla partner som agerar via Cloud Solution Provider (CSP)-program
+Alla partner som gör en Molnlösningsleverantör via ett CSP-program
 
 ### <a name="details"></a>Information
 
-Det nya Advanced Communications-tillägget för Microsoft Teams är nu tillgängligt med $12 per användare/månad. SKU: er för tillägg kan köpas ovanpå andra Microsoft 365 paket som innehåller Microsoft Teams. Avancerad kommunikation tillhandahåller en ny uppsättning funktioner för stora möten, kommunikations principer och integreringar, förutom avancerade verktyg för IT-hantering. 
+Det nya Advanced Communications-tillägget för Microsoft Teams är nu tillgängligt på 12 USD per användare/månad. Tillägg-SKU:erna kan köpas ovanpå andra programsviter Microsoft 365 som innehåller Microsoft Teams. Avancerad kommunikation ger en ny uppsättning funktioner för stora möten, kommunikationsprinciper och integreringar, förutom avancerade verktyg för IT-hantering. 
 
-#### <a name="advanced-communications-features"></a>Avancerade kommunikations funktioner
+#### <a name="advanced-communications-features"></a>Avancerade kommunikationsfunktioner
 
-Lanserades vid lanseringen
-- Gränser för Live-händelser till 20 K deltagare (50 samtidiga, 16 timmar)
+Utgiven vid start
+- Livehändelsegränser till 20 000 deltagare (50 samtidiga, 16 timmar)
 
-Släppt senare i CY2020
-- 1 000-persons interaktiva team-möte 
-- Interaktiva möten för 1 000-deltagare med möjlighet att aktivera upp till 20 000 i en "vy endast"-Mötes upplevelse. 
-- Kundanpassad Mötes introduktion
-- Ytterligare anpassningar, verktyg och kommunikations förbättringar kommer att läggas till i SKU: n under kalender året
+Släpptes senare i CY2020
+- Interaktivt möte med 1 000 Teams personer 
+- Interaktiva möten för 1 000 deltagare med möjlighet att aktivera upp till 20 000 i en "endast vy"-mötesupplevelse. 
+- Anpassat anpassat möte
+- Ytterligare anpassningar, verktyg och kommunikationsförbättringar kommer att läggas till i SKU:n under kalenderåret
 
-#### <a name="offer-details"></a>Erbjudande information
+#### <a name="offer-details"></a>Erbjudandeinformation
 
    |**Erbjudandets namn**|**Erbjudande-ID**|**Material-ID**|
    |-------------------|:------|:------|
    |Avancerad kommunikation|efb0c254-e9c6-4e9b-be12-eb2b7849953f|1UC-00006|
-   |Avancerad kommunikation för lärare|13219baa-468f-4eeb-bfaa-243216dbddca|2P8-00005|
+   |Avancerad kommunikation för lärare och lärare|13219baa-468f-4eeb-bfaa-243216dbddca|2P8-00005|
    |Avancerad kommunikation för studenter|31a690b0-3945-4adf-98ab-644e0a879b3f|2P8-00006|
 
 #### <a name="frequently-asked-questions"></a>Vanliga frågor och svar
 
-- **Vad är avancerad kommunikation?** Detta nya Microsoft Teams-tillägg gör det möjligt för kunderna att ytterligare förbättra sin kommunikations upplevelse. Den kan köpas ovanpå alla Microsoft 365 SKU: er som de prenumererar på.
-- **Vad kostar det?** Den kommersiella ERP är USD $12 per användare/per månad. 
-- **Vilka kunder kan köpa tillägget?** Kommersiell, internationell kommersiell offentlig sektor, utbildning och icke-vinst.
-- **Hur kan den köpas?** Tillägget kan köpas via EA/EAS, EES, CSP eller Web Direct.
+- **Vad är Advanced Communications?** Det här Microsoft Teams nya tillägget gör det möjligt för kunder att ytterligare förbättra sin kommunikationsupplevelse. Den kan köpas ovanpå alla Microsoft 365 SKU som de prenumererar på.
+- **Vad kostar det?** Det kommersiella ERP-programmet kostar 12 USD per användare/månad. 
+- **Vilka kunder kan köpa tillägget?** Kommersiell, Global kommersiell offentlig sektor, utbildning och ideell verksamhet.
+- **Hur kan den köpas?** Tillägget kan köpas via EA/EAS, EAS, CSP eller Web Direct.
 - **Var kan den säljas?** Den kan säljas på alla aktuella marknader.
-- **Vilka är kraven?** Alla Microsoft 365/Office 365-paket som innehåller Microsoft Teams.
+- **Vilka är förutsättningarna?** Alla Microsoft 365/Office 365-paket som innehåller Microsoft Teams.
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Dela den här informationen med relevanta kontakter i din organisation och förstå de merförsäljning och globala Sälj möjligheterna. Granska avsnittet resurser i [guiden team partner](https://aka.ms/teamscallingmeetingsguide).
+- Dela den här informationen med relevanta kontakter i din organisation och förstå möjligheter till merförsäljning och korsförsäljning. Läs avsnittet resurser i guiden [för Teams partner](https://aka.ms/teamscallingmeetingsguide).
 
 ________________
 
-## <a name="microsoft-defender-advanced-threat-protection-atp-for-servers-for-education-available-in-september"></a><a name="3"></a>Microsoft Defender Avancerat skydd (ATP) för servrar för utbildning som är tillgängliga i september
+## <a name="microsoft-defender-advanced-threat-protection-atp-for-servers-for-education-available-in-september"></a><a name="3"></a>Microsoft Defender Avancerat skydd (ATP) for Servers for Education som är tillgängliga i september
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-08-04
 - Erbjudanden/marknader
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
 Alla partner som deltar i CSP-programmet
 
 ### <a name="details"></a>Information
 
-Microsoft Defender Avancerat skydd (ATP) för servrar för utbildning som är tillgängliga i CSP-programmet (Cloud Solution Provider) den 1 september 2020.
+Microsoft Defender Avancerat skydd (ATP) for Servers for Education som är tillgängligt i Molnlösningsleverantör-programmet (CSP) den 1 september 2020.
 
-#### <a name="product-details"></a>Produkt information
+#### <a name="product-details"></a>Produktinformation
 
-- Erbjudandets namn: Microsoft Defender ATP för servrar för utbildning
+- Erbjudandenamn: Microsoft Defender ATP for Servers for Education
 - Erbjudande-ID: c7b9ab7e-8f80-4b4b-8aed-dcad61f28995
 
 ### <a name="next-steps"></a>Nästa steg
 
 - Dela den här informationen med lämpliga kontakter i din organisation.
-- Läs [dokumentationen om Microsoft Defender ATP](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) för mer information om produkten.
+- Läs dokumentationen [för Microsoft Defender ATP](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) för mer information om produkten.
 
 ________________
 
@@ -229,73 +229,73 @@ ________________
 - Datum: 2020-08-03
 - Erbjudanden/marknader
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Partner som agerar Microsoft Dynamics 365
+Partner som gör en microsoft Dynamics 365-överträdelse
 
 ### <a name="summary"></a>Sammanfattning
 
-Den 2020 1 augusti lanserade Microsoft ett nytt erbjudande för Dynamics 365 Sales Premium-paket för kommersiella kunder i alla program och länder och regioner.
+Den 1 augusti 2020 släppte Microsoft ett nytt Erbjudande om Dynamics 365 Sales Premium-paket för kommersiella kunder i alla program och länder och regioner.
 
 ### <a name="details"></a>Information
 
-Från och med den 1 augusti 2020 har Microsoft publicerat ett nytt erbjudande för Dynamics 365-paket för kunder i alla program och länder och regioner där Dynamics 365 Enterprise och Dynamics 365 Sales Insights redan är tillgängligt.
+Från och med 1 augusti 2020 har Microsoft lanserat ett nytt paketerbjudande för Dynamics 365 Sales Premium för kunder i alla program och länder och regioner där Dynamics 365 Enterprise och Dynamics 365 Sales Insights redan är tillgängliga.
 
-Läs mer om dessa erbjudanden i [Dynamics CSP Offers-August 2020 Excel-dokumentet](https://partner.microsoft.com/resources/collection/microsoft-dynamics-365-power-platform-offers-products-fraud-protection-vl-csp-collection#/) . 
+Läs dokumentet [Dynamics CSP Offers-August 2020 Excel](https://partner.microsoft.com/resources/collection/microsoft-dynamics-365-power-platform-offers-products-fraud-protection-vl-csp-collection#/) mer information om dessa erbjudanden. 
 
 #### <a name="additional-resources"></a>Ytterligare resurser
 
-- [Microsoft Dynamics 365 bedrägeri skydd](https://partner.microsoft.com/resources/collection/microsoft-dynamics-365-power-platform-offers-products-fraud-protection-vl-csp-collection#/)
+- [Bedrägeriskydd i Microsoft Dynamics 365](https://partner.microsoft.com/resources/collection/microsoft-dynamics-365-power-platform-offers-products-fraud-protection-vl-csp-collection#/)
 - [Microsoft Dynamics 365-licensiering](https://partner.microsoft.com/resources/collection/microsoft-dynamics-365-power-platform-offers-products-fraud-protection-vl-csp-collection#/)
 
 ### <a name="next-steps"></a>Nästa steg
 
-Dela den här informationen med lämpliga kontakter i din organisation och bekanta dig med pris listan för för hands versionen. 
+Dela den här informationen med lämpliga kontakter i din organisation och bekanta dig med förhandsprislistan. 
 
 ________________
 
-## <a name="announcing-the-availability-of-visio-plan-1-and-plan-2-trial-offers"></a><a name="1"></a>Vi presenterar tillgängligheten för utvärderings erbjudanden för Visio-plan 1 och plan 2 
+## <a name="announcing-the-availability-of-visio-plan-1-and-plan-2-trial-offers"></a><a name="1"></a>Vi presenterar tillgängligheten för erbjudanden Visio Abonnemang 1 plan 2 och utvärderingsversion 
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-08-03
 - Erbjudanden/marknader
 
-### <a name="impacted-audience"></a>Förverkad mål grupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Alla partner som deltar i programmet för Cloud Solution Provider (CSP)
+Alla partner som deltar i Molnlösningsleverantör(CSP)-programmet
 
 ### <a name="summary"></a>Sammanfattning
 
-Microsoft presenterar utvärderings erbjudanden för Visio-plan 1 och abonnemang 2 från den 1 augusti 2020. 
+Microsoft introducerar utvärderingserbjudanden för Visio Abonnemang 1 plan 2 från och med 1 augusti 2020. 
 
 ### <a name="details"></a>Information
 
-Med Microsoft Visio kan användarna skapa professionella diagram smidigt, samar beta effektivare, ansluta till real tids data och automatisera arbets flöden. Utvärderings erbjudanden för Visio-plan 1 och plan 2 kommer att vara tillgängliga från och med den 1 augusti 2020.
+Med Microsoft Visio kan användarna enkelt skapa professionella diagram, samarbeta effektivare, ansluta till realtidsdata och automatisera arbetsflöden. Utvärderingserbjudanden för Visio Abonnemang 1 plan 2 blir tillgängliga från och med 1 augusti 2020.
 
-Microsoft Visio kan användas i olika branscher och roller med integrering i Microsoft 365, Microsoft Teams och Power Platform-lösningar. Ge dina kunder de verktyg de behöver för att köra sin verksamhet.
+Microsoft Visio kan användas i en mängd olika branscher och roller med integrering i Microsoft 365, Microsoft Teams och Power Platform lösningar. Ge kunderna de verktyg de behöver för att driva verksamheten.
 
-#### <a name="what-are-the-partner-benefits"></a>Vad är partner Benefits?
+#### <a name="what-are-the-partner-benefits"></a>Vilka är partnerförmånerna?
 
 Microsoft Visio är en produkt som hjälper dig att:
 
-- Använd organisations schema mal len och integrations scenarier med Excel och Power BI för att bygga en hållbar organisations struktur
-- Planera en säker återgång till arbets platsen med Visio-Floorplans för att införliva sociala distancing-rikt linjer
-- Anpassa affärs modeller: företags analys är i det grundläggande av värdet för Visio-värde. Anpassa affärs modeller till det nya sättet att arbeta genom att mappa och utforma om kritiska affärs processer med Visio och få tidsanpassade data insikter med Power BI och Visio-diagram inbäddade i det programmet. 
-- Fokusera på värde-och kostnads minskning: identifiera och automatisera upprepade processer och hjälpa dina kunder att utveckla självbetjänings arbets belastningar för vanliga funktionella roller som IT-hantering, personal och andra.
+- Använd mall för organisationsdiagram och integreringsscenarier med Excel och Power BI för att skapa en hållbar organisationsstruktur
+- Planera en säker återresa till arbetsplatsen med Visio för att inkludera riktlinjer för social distancing
+- Anpassa affärsmodeller: Affärsanalys är kärnan i Visio värdeförslaget. Anpassa affärsmodeller till det nya sättet att arbeta genom att mappa och utforma om kritiska affärsprocesser med Visio och få snabba datainsikter med Power BI och Visio inbäddade diagram i programmet. 
+- Fokusera på värde- och kostnadsminskning: Identifiera och automatisera repetitiva processer och hjälpa dina kunder att utveckla självbetjäningsarbetsbelastningar för vanliga funktionella roller som IT-hantering, personal med mera.
 
-Vi erbjuder en kostnads fri 30-dagars utvärderings version för Visio plan 1 och Visio plan 2 för att hjälpa kunderna att uppleva dessa förmåner. Partners kan hitta utvärderings versioner i månads pris listan på sidan priser och erbjudanden i Partner Center. Utvärderings versionen har "utvärdering" som visas i kolumnen pris lista för sekundär licens typ.
+Vi erbjuder en kostnadsfri 30-dagars utvärderingsversion för Visio Abonnemang 1 och Visio Abonnemang 2 för att hjälpa dina kunder att uppleva dessa fördelar. Partner kan hitta utvärderingsversioner i listan med månadspriser på sidan med priser och erbjudanden i Partnercenter. Utvärderingserbjudanden har en lista över "utvärderingsversion" i kolumnen Sekundär licenstyp i prislistan.
 
-#### <a name="offer-details"></a>Erbjudande information
+#### <a name="offer-details"></a>Erbjudandeinformation
 
    |**Erbjudandets namn**|**Erbjudande-ID**|
    |-------------------|:------|
-   |Utvärderings version av Visio plan 1|7b6bb5a6-15c9-4ede-8eba-e2dfe2118b69|
-   |Utvärderings version av Visio plan 2|20f1b560-c19a-4fc7-abc0-d8a797c06338|
+   |Visio Abonnemang 1 Rättegång|7b6bb5a6-15c9-4ede-8eba-e2dfe2118b69|
+   |Visio Abonnemang 2 Rättegång|20f1b560-c19a-4fc7-abc0-d8a797c06338|
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Lär dig mer om Visio-plan 1 och plan 2 i [Åtgärds resurs galleriet](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/) 
-- Vi rekommenderar också att du visar inspirera-sessionen för [att hjälpa kunder att återbindas och föreställa sig för företag med Microsoft Visio och Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform).
+- Läs mer om Visio Abonnemang 1 och plan 2 i [resursgalleriet för åtgärder](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/) 
+- Vi rekommenderar också att du läser Inspire-sessionen om att hjälpa kunder att [rebound and reimagine businesses with Microsoft Visio and Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform).
 
 ________________

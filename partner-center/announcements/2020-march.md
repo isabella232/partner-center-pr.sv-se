@@ -1,377 +1,377 @@
 ---
-title: Meddelanden i mars 2020
-description: Mars 2020-meddelanden för Microsoft Partner Center, till exempel nya funktioner, kampanjer, erbjudanden, marknader eller ändringar av befintliga erbjudanden.
+title: Meddelanden mars 2020
+description: Mars 2020-meddelanden för Microsoft Partner Center, till exempel nya funktioner, kampanjer, erbjudanden, marknader eller ändringar i befintliga erbjudanden.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-action-center
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: ff697bec18c59957d8be7d5ec8ad09edb364b6bb
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 6915852aa2a2469c9d6a517fce1251470e6aad15
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795810"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838809"
 ---
-# <a name="march-2020-announcements"></a>Meddelanden i mars 2020
+# <a name="march-2020-announcements"></a>Meddelanden mars 2020
 
-Den här sidan innehåller information om Microsoft Partner Center-meddelanden för mars 2020.
+Den här sidan innehåller information om meddelanden för Microsoft Partner Center för mars 2020.
 
 2020-meddelanden: [januari 2020](2020-january.md)  |  [februari 2020](2020-february.md) | Mars 2020 | [April 2020](2020-april.md)  |  [Maj 2020](2020-may.md)
 
 _________________
 
-## <a name="microsoft-will-rename-office-365-small-and-medium-business-smb-offers-from-april-21-2020"></a><a id="7"/></a>Microsoft byter namn på Office 365-erbjudanden för små och medel stora företag (SMB) från den 21 april 2020
+## <a name="microsoft-will-rename-office-365-small-and-medium-business-smb-offers-from-april-21-2020"></a><a id="7"/></a>Microsoft byter namn Office 365 SMB-erbjudanden (Small and Medium Business) från den 21 april 2020
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-03-30
-- Typ: erbjudanden/marknader
-- Status: kommer snart
+- Typ: Erbjudanden/marknader
+- Status: Kommer snart
 
 ### <a name="summary"></a>Sammanfattning:
 
-Den 21 april 2020 kommer Microsoft att byta namn på alla SMB-erbjudanden i Office 365. Det här är en bra möjlighet att kommunicera vårt värde och fler utbud till våra kunder.
+Den 21 april 2020 byter Microsoft namn på alla Office 365 SMB-erbjudanden. Det här är en bra möjlighet att förmedla vårt värde och våra lineups mer konsekvent till våra kunder.
 
-### <a name="impacted-audience"></a>Förverkad mål grupp:
+### <a name="impacted-audience"></a>Målgrupp som påverkas:
 
-Alla leverantörer av moln lösnings leverantörer (CSP).
+Alla Molnlösningsleverantör partner (CSP).
 
 ### <a name="details"></a>Information
 
-Den 21 april 2020 kommer vi att ändra namnen på våra SMB-erbjudanden för Office 365:
+Den 21 april 2020 kommer vi att ändra namnen på våra Office 365 SMB-erbjudanden:
 
-- Office 365 Business Essentials blir **Microsoft 365 Business Basic** . Det här är vårt erbjudande på ingångs nivå för kunder som söker efter grundläggande moln tjänster.
-- Office 365 Business Premium blir **Microsoft 365 Business Standard** . Detta är vårt kärn erbjudande för SMB: er, inklusive moln tjänster och molnbaserade skrivbordsappar.
-- Microsoft 365 Business blir **Microsoft 365 Business Premium** . Detta är fortfarande vår hjälte-SKU för avancerade SMB: er som söker efter ytterligare säkerhet, enhet och identitets värde.
+- Office 365 Business Essentials blir **Microsoft 365 Business Basic**. Det här är vårt nya erbjudande för kunder som söker efter grundläggande molntjänster.
+- Office 365 Business Premium blir **Microsoft 365 Business Standard**. Det här är vårt kärnerbjudande för SBS, inklusive molntjänster och molnanslutna skrivbordsappar.
+- Microsoft 365 Verksamheten kommer att **bli Microsoft 365 Business Premium**. Detta förblir vår Hero-SKU för avancerade SKU:er som letar efter ytterligare säkerhet, enhet och identitetsvärde.
 
-Vi kommer också att anta **Microsoft 365 appar** som det nya namnet för våra två Office-klient prenumerationer:
+Vi antar även **Microsoft 365-applikationer** det nya namnet för våra två Office klientprenumerationer:
 
-- Office 365-företag blir Microsoft 365 appar för företag
-- Office 365 ProPlus kommer att bli Microsoft 365 appar för företag
+- Office 365 Business blir Microsoft 365-applikationer för affärsverksamhet
+- Office 365 ProPlus blir Microsoft 365-appar för företag
 
 ### <a name="impact-on-your-operations"></a>Påverkan på dina åtgärder
 
-Det finns inga ändringar av priser, funktioner eller affärs modeller. Det finns inte heller några namn ändringar i Office 365 Enterprise SKU: er och Microsoft 365 Enterprise SKU: er. Alla SKU: er och namn ändrings namn kommer automatiskt att flöda in i prenumerations namn i Partner Center.
+Det finns inga ändringar i priser, funktioner eller affärsmodell. Det finns inte heller några namngivningsändringar i SKU Office 365 Enterprise- och Microsoft 365 Enterprise-SKU:er. Alla SKU:er och namnbyten för erbjudanden flödar automatiskt till prenumerationsnamn i Partnercenter.
 
-### <a name="partner-opportunity"></a>Partner möjlighet
+### <a name="partner-opportunity"></a>Partnermöjlighet
 
-Med den här namnbytet kan kunderna bättre förstå det öknings värde som ingår i varje erbjudande, så att du bättre kan placera merförsäljning-möjligheter för dina konton.
+Det här namnbytet gör det möjligt för kunderna att bättre förstå det inkrementella värde som ingår i varje erbjudande, så att du bättre kan placera möjligheter till merförsäljning för dina konton.
 
-Det tar också itu med namn inkonsekvenser i Office 365/Microsoft 365 Business-planer. På samma sätt särskiljer detta namnbyte klart huvud kontors program, säljs via de nya Microsoft 365 apparna för företag/företag, från bredare planer.
+Den hanterar även namn inkonsekvenser i Office 365/Microsoft 365 affärsplaner. På samma sätt separerar det här namnet tydligt Office kärnprogram som säljs via den nya Microsoft 365-applikationer för affärsverksamhet/enterprise från bredare planer.
 
 ### <a name="additional-resources"></a>Ytterligare resurser
 
-Besök vår [M365-partner med landnings sida](https://www.microsoft.com/microsoft-365/partners/smb-sku-rename) för mer information.
+Besök vår [landningssida för M365-partner om](https://www.microsoft.com/microsoft-365/partners/smb-sku-rename) du vill veta mer.
 
-### <a name="next-steps"></a>Efterföljande moment
+### <a name="next-steps"></a>Nästa steg
 
-Bekanta dig med pris listan och dela den här informationen med alla lämpliga kontakter i din organisation.<br>
+Bekanta dig med prislistan och dela den här informationen med alla lämpliga kontakter i din organisation.<br>
 
-Var särskilt uppmärksam på dina kollegor i Sälj verksamhet och marknadsföring, eftersom de kan behöva uppdatera produktens släktingar för att avspegla de nya namnen.
+Var särskilt uppmärksam på dina kollegor inom säljavdelningen och marknadsföringen, eftersom de kan behöva uppdatera produktförseningar för att återspegla de nya namnen.
 
-**Har du några frågor?**
+**Frågor?**
 
-Om du vill ha ytterligare frågor om dessa erbjudanden kan du kontrol lera dina relevanta Yammer-communities och kontakta din representant i Microsoft-kontos teamet. Vi arbetar bra tillsammans.
+Om du har fler frågor om dessa erbjudanden kan du kontrollera dina Yammer communityn och kontakta din representant i Microsoft-konto team. Vi gör ett bra jobb tillsammans.
 
 _________________
 
-## <a name="new-partner-center-capabilities-to-help-direct-bill-partners-complete-their-transition-to-indirect-reseller"></a><a id="6"/></a>Nya partner Center-funktioner som hjälper direkt fakturerings partner att slutföra sin över gång till indirekt åter försäljare
+## <a name="new-partner-center-capabilities-to-help-direct-bill-partners-complete-their-transition-to-indirect-reseller"></a><a id="6"/></a>Nya partnercenterfunktioner som hjälper direkta faktureringspartner att slutföra övergången till en indirekt återförsäljare
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-03-20
-- Typ: funktioner
-- Status: är nu tillgängligt
+- Typ: Funktioner
+- Status: Nu tillgänglig
 - [Läs mer](../index.yml)
 
 ### <a name="summary"></a>Sammanfattning:
 
-Nya funktioner är tillgängliga för att hjälpa kunder att överföra sina CSP-prenumerationer från direkta fakturerings klienter till en indirekt leverantörs innehavare.
+Nya funktioner är tillgängliga för att hjälpa kunder att överföra sina CSP-prenumerationer från direktfaktureringsklienter till indirekta providerklienter.
 
-### <a name="impacted-audience"></a>Förverkad mål grupp:
+### <a name="impacted-audience"></a>Målgrupp som påverkas:
 
-Direkt fakturerings partner över gång till indirekta åter försäljare och indirekta leverantörer.
+Direktfaktureringspartner som övergår till indirekta återförsäljare och indirekta leverantörer.
 
 ### <a name="details"></a>Information
 
-Från och med den 31 augusti 2018 uppdaterade Microsoft registrerings kraven för direkt fakturerings partner i CSP-programmet (Cloud Solution Provider). Eftersom CSP-programmet fortsätter att växa, vill vi se till att alla partners är placerade för att hantera ökande kund behov.
+Från och med den 31 augusti 2018 uppdaterade Microsoft registreringskraven för direktfaktureringspartner i Molnlösningsleverantör-programmet (CSP). I takt med att CSP-programmet fortsätter att växa vill vi se till att alla partner kan hantera ökande kundbehov i enlighet med detta.
 
-Nya funktioner för att överföra kunders CSP-prenumerationer från direkta fakturerings klienter till en indirekt leverantörs innehavare är tillgängliga. Den här nya funktionen kommer att under lätta över gången till direkta fakturerings partner till indirekta åter försäljare, vilket hjälper till att påskynda företags ökningen i programmet.
+Nya funktioner för att överföra kunders CSP-prenumerationer från direktfaktureringsklienter till indirekta providerklienter är tillgängliga. Den här nya funktionen underlättar övergången för direktfaktureringspartner till indirekta återförsäljare, vilket hjälper till att påskynda affärstillväxten i programmet.
 
-Mer information hittar du på sidan med [CSP-erbjudanden](../csp-offers.md) .
+Mer information [finns på sidan med CSP-erbjudanden.](../csp-offers.md)
 
 >[!NOTE] 
->Överföringar stöder endast licensierade prenumerationer och Azure-prenumerationer. Du måste manuellt överföra din Azure-plan och köp av kommersiella marknads platser. Observera att detta innebär att avbryta och förnya prenumerationerna som beskrivs i följande dokument: [Azure-plan](../azure-plan-lp.md) och [kommersiell marknads](../csp-commercial-marketplace-manage.md)plats. Eftersom Server prenumerationer och Azure-reservationer är ett engångs köp behöver dessa inte överföras till en indirekt leverantörs klient. Besök sidan CSP-erbjudanden för mer information.
+>Överföringar stöder endast licensierade prenumerationer och Azure-prenumerationer. Du måste överföra azure-planen manuellt och köp från den kommersiella marknadsplatsen. Observera att detta omfattar att avbryta och förnya de prenumerationer som beskrivs i följande dokument: [Azure-plan](../azure-plan-lp.md) och [kommersiell marknadsplats.](../csp-commercial-marketplace-manage.md) Eftersom serverprenumerationer och Azure-reservationer är ett enda köp behöver dessa inte överföras till en indirekt providerklientorganisation. Besök sidan med CSP-erbjudanden för mer information.
 
 ### <a name="additional-resources"></a>Ytterligare resurser:
 
-- [Över gång från Cloud Solution Provider (CSP) direkt fakturerings partner till hjälp artikeln för CSP indirekt åter försäljare](../transition-direct-to-indirect.md#move-your-direct-bill-customers-to-your-indirect-provider)
-- [Däck för direkt fakturering till indirekt åter försäljare](https://assetsprod.microsoft.com/mpn/direct-bill-transition-to-indirect-reseller-new-capability)
-
-### <a name="next-steps"></a>Efterföljande moment
-
-Granska tillgängliga resurser och dela med lämpliga intressenter i din organisation.
-
-**Har du några frågor?**
-
-[Kontakta supporten](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) om du har frågor, frågor eller mer information.
-
-_________________
-
-## <a name="new-microsoft-365-entry-level-sku-for-firstline-workers---csp"></a><a id="5"/></a>Ny Microsoft 365 SKU för firstline-arbetare – CSP
-
-### <a name="categories"></a>Kategorier
-
-- Datum: 2020-03-10
-- Typ: erbjudanden/marknader
-- Status: kommer snart
-
-### <a name="summary"></a>Sammanfattning:
-
-Den 1 april 2020 kommer Microsoft att införa nya erbjudanden i Microsoft 365 F-SKU, vilket ger bättre värde för firstline-arbetskrafter och tillväxt möjligheter för våra partner.
-
-### <a name="impacted-audience"></a>Förverkad mål grupp:
-
-Alla partner som agerar genom Enterprise-avtal (EA), Enterprise-avtal prenumeration (EAS) och Microsofts produkter och tjänster (MPSA).
-
-Den här ändringen påverkar endast kommersiella och myndighets användare.
-
-### <a name="details"></a>Information
-
-Den 1 april 2020 kommer Microsoft att införa en ny SKU för ingångs nivå och flytta Microsoft 365 Enterprise SKU: n.
-
-**Anpassning av O/M365 F1:** Vad som för närvarande är känt som Office/Microsoft 365 F1 blir Office/Microsoft 365 F3. Alla kunder kommer att fyllas med ytterligare värde.
-
-**Ny SKU för ingångs nivå:** Den nya SKU: n för ingångs nivå kommer att kallas Microsoft 365 F1 och erbjuder ett värde som är anpassat för firstline-arbetskrafter, utökad säkerhet och identitets värde för alla anställda. Det här erbjudandet omfattar Teams, SharePoint Online, Yammer Enterprise, Stream, EMS E3 och skrivskyddad åtkomst för Office Web/Mobile Apps.
-
-Dessa ändringar ger bättre värde för första rad arbetare och gör det möjligt för partner att trycka på en betydande användar tillväxt. **Se våra ytterligare dokument [här](https://partner.microsoft.com/resources/collection/Microsoft-365-firstline-offer-updates) för att lära dig mer om värde-och nästa steg.**
-
-|**Ändra tids linje**|**Ändra**|
-|-------------------|:------|
-|1 mars 2020|Den nya SKU: n för ingångs nivå publiceras i pris listan för för hands versionen med det tillfälliga namnet Microsoft 365 F0|
-|I mars|Microsoft kommer offentligt att lämna ut denna ändring. Under tiden bör du skapa marknadsförings material och klara dina interna sälj team.|
-|Den 1 april 2020|– I produktions pris listan har den nya inmatnings nivån-SKU bytt namn Microsoft 365 F1 (var M365 F0). – I produktions pris listan har tidigare kallats "O/M365 F1" bytt namn till "O/M365 F3". – På vår server del, har kunder som var på Office 365 F1 och Microsoft 365 F1 upp till den 31 mars 2020, skickats automatiskt över till Office och Microsoft 365 F3-planer. – Ytterligare värde är förifyllt i planerna enligt nedan.|
-
-**Ytterligare värde är förifyllt i dina M365 F1-, O/M365 F3-abonnemang den 1 april 2020.**
-
-### <a name="office"></a>Office
-
-- Microsoft Teams har nu fullständiga A/V-och mötes rättigheter i F-SKU: er (för att avspeglas i produkt villkoren i mars)
-- Power Platform ökar till 2000 steg och möjlighet att skapa – endast tillgängligt i M/O365 F3
-- Microsoft Planner tas med i O/M365 F-SKU: er som standard
-
-### <a name="windows"></a>Windows:
-
-- Rättigheter till nyckel hanterings system aktivering ingår i standard produkt villkoren
-- Rättigheter till tidigare versioner av Windows ingår i standard produkt villkoren
-- Rättigheter till lokal virtualisering ingår i standard produkt villkoren
-
-### <a name="ems"></a>TJÄNSTER
-
-- E3 i både Microsoft 365 F1 och F3-SKU: er
+- [Hjälpartikel om övergången Molnlösningsleverantör direktfaktureringspartner till CSP-indirekt](../transition-direct-to-indirect.md#move-your-direct-bill-customers-to-your-indirect-provider) återförsäljare
+- [Direktfakturering till indirekt återförsäljarlek](https://assetsprod.microsoft.com/mpn/direct-bill-transition-to-indirect-reseller-new-capability)
 
 ### <a name="next-steps"></a>Nästa steg
 
-Bekanta dig med pris listan för för hands versionen. Tänk på att Microsoft 365 F0 kommer att omformuleras Microsoft 365 F1, om den 1 april 2020. Microsoft 365 F1 kommer att märkas Microsoft 365 F3.
+Granska tillgängliga resurser och dela med lämpliga intressenter i din organisation.
 
-**Läs vår innehåll [här](https://partner.microsoft.com/resources/collection/Microsoft-365-firstline-offer-updates#/) för att lära dig mer** om värdens förslag och skapa alla marknadsförings material som du kan behöva för att påskynda försäljningen och skapa nya affärs möjligheter.
+**Frågor?**
 
-Dela den här informationen med alla lämpliga kontakter i din organisation.
-
-**Har du några frågor?**
-
-Om du vill ha mer information om dessa erbjudanden kontaktar du ditt ombud i Microsoft-kontos teamet.
+Kontakta [supporten](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) för frågor, frågor eller mer information.
 
 _________________
 
-## <a name="updated-changes-to-education-customer-validation-in-csp"></a><a id="4"/></a>Uppdaterad: ändringar i kund valideringen för utbildning i CSP
+## <a name="new-microsoft-365-entry-level-sku-for-firstline-workers---csp"></a><a id="5"/></a>Ny Microsoft 365 SKU på ny nivå för Firstline Workers – CSP
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-03-10
-- Typ: funktioner
-- Status: är nu tillgängligt
-- [Läs mer](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/)
-
-### <a name="impacted-audience"></a>Förverkad mål grupp:
-
-CSP-partner för direkt fakturering och indirekt leverantör som agerar med utbildning/akademiska erbjudanden
+- Typ: Erbjudanden/marknader
+- Status: Kommer snart
 
 ### <a name="summary"></a>Sammanfattning:
 
-Nya funktions meddelanden: partner kan nu korrigera kund konto information och skicka om först konsumentsajter för de fall där kunden nekades. Fullständig information finns i steg-för-steg-instruktioner om hur du gör detta i den uppdaterade guiden för att [skapa en utbildnings kund i Partner Center](https://assetsprod.microsoft.com/mpn/partner-center-education-customer-creation.pdf).
+Den 1 april 2020 introducerar Microsoft nya erbjudanden i Microsoft 365 F-SKU-linjen, vilket ger bättre värde för Firstline Workers och tillväxtmöjligheter för våra partner.
 
-Som en del av vår fortsatta engagemang i en kompatibel affärs praxis för kunder och partner introducerade Microsoft en automatiserad validering av alla nya kund konto prenumerationer för utbildning för att verifiera kund berättiganden. Eftersom vi lanserade funktionen för automatisk validering har vi lagt till ett ökande antal först konsumentsajter-problem eftersom felaktiga eller ogiltiga kund uppgifter har angetts. Följ anvisningarna nedan för att effektivisera processen och minimera eventuella fördröjningar i först konsumentsajter-processen:
+### <a name="impacted-audience"></a>Målgrupp som påverkas:
 
-- För att minska fördröjningen vid undersökningen av först konsumentsajter-fel för legitima poster, måste du ange kunddata som är så **exakta** och så **fullständiga** som möjligt. Ange inte i test/dummy-data.
-- Gå igenom **guiden skapa en utbildnings kund i Partner Center** och **Lägg till nya kund sid** dokument vad som krävs när du skapar en ny utbildnings kund i Partner Center. Båda finns i resurs galleriet nedan.
+Alla partner som gör transaktioner via företagsavtal (EA), företagsavtal-prenumeration (EAS) och Microsofts produkt- och tjänstavtal (MPSA).
 
->[!NOTE] 
->**Guiden skapa en utbildnings kund i Partner Center** innehåller nu steg-för-steg-instruktioner för hur du korrigerar kund information och skickar om kunden har misslyckats med att först konsumentsajter.
+Den här ändringen påverkar endast kommersiella användare och myndighetsanvändare.
 
-**Nästa steg/ytterligare resurser:**
+### <a name="details"></a>Information
 
-CSP-program uppdaterar resurs Galleri samlingen: [ändringar i auktoriserat utbildnings partner program i CSP](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/)
+Den 1 april 2020 introducerar Microsoft en ny SKU på ny nivå och flyttar Microsoft 365 Enterprise SKU-raden.
 
-### <a name="change-log"></a>Ändrings logg:
+**Omprofilering av O/M365 F1:** Det som för närvarande kallas Office/Microsoft 365 F1 blir Office/Microsoft 365 F3. Alla kunder kommer att återfyllas med ytterligare värde.
 
-- Ursprungligt Publicerings datum: 19 december 2019
-- Kontakta supporten om nya partner Sälj utbildnings erbjudanden tas bort (behövs inte längre): 13 januari 2020
-- Lade till februari 2020-uppdatering: 10 februari 2020
-- Meddelande om ny möjlighet att korrigera kund konto information och skicka om först konsumentsajter: 10 mars 2020
+**Ny SKU på ingångsnivå:** Den nya SKU:n på ingångsnivå kallas för Microsoft 365 F1 och erbjuder mervärde som är skräddarsytt för firstline-arbetare, utökat säkerhets- och identitetsvärde för alla arbetare. Det här erbjudandet Teams, SharePoint Online, Yammer Enterprise, Stream, EMS E3 och skrivskyddat åtkomst för Office Webb/Mobile Apps.
+
+De här ändringarna ger bättre värde för första raden arbetare och gör det möjligt för partner att utnyttja en betydande möjlighet till ökad användartillväxt. **Läs våra ytterligare dokument [här om](https://partner.microsoft.com/resources/collection/Microsoft-365-firstline-offer-updates) du vill veta mer om mervärdeserbjudandet och dina nästa steg.**
+
+|**Ändra tidslinje**|**Ändra**|
+|-------------------|:------|
+|Den 1 mars 2020|Den nya SKU:n på ingångsnivå publiceras i listan med förhandsversionspriser, med det tillfälliga namnet Microsoft 365 F0|
+|Under hela mars|Microsoft kommer att offentligt lämna ut den här ändringen. Under tiden bör du skapa marknadsföringsavdelningen och förbereda dina interna säljteam.|
+|Den 1 april 2020|– I produktionsprislistan har den nya SKU:n på ingångsnivå bytt namn Microsoft 365 F1 (var M365 F0). – I produktionsprislistan har det tidigare namnet O/M365 F1 bytt namn till O/M365 F3. – På vår backend har kunder som fanns på Office 365 F1 och Microsoft 365 F1 fram till den 31 mars 2020 automatiskt övergåt till Office och Microsoft 365 F3 planer. – Ytterligare värde fylls i i planerna enligt avsnittet nedan.|
+
+**Ytterligare värde fylls i i dina planer M365 F1, O/M365 F3 den 1 april 2020.**
+
+### <a name="office"></a>Office:
+
+- Microsoft Teams innehåller nu fullständiga A/V och mötesrättigheter i F-SKU:er (visas i produktvillkoren i mars)
+- Power Platform till 2 000 steg och möjlighet att skapa – endast tillgängligt i M/O365 F3
+- Microsoft Planner ingår som standard i O/M365 F-SKU:er
+
+### <a name="windows"></a>Windows:
+
+- Rättigheter till aktivering av nyckelhanteringssystemet som ingår i standardvillkoren för produkten
+- Rättigheter till tidigare versioner av Windows ingår i standardvillkoren för Produkt
+- Rättigheter till den virtuella datorn som ingår i standardvillkoren för Produkt
+
+### <a name="ems"></a>Ems:
+
+- E3 i både Microsoft 365 F1 och F3 SKU:er
+
+### <a name="next-steps"></a>Nästa steg
+
+Bekanta dig med prislistan för förhandsversionen. Tänk på att den 1 april 2020 kommer Microsoft 365 F0 att få ett Microsoft 365 F1. På Microsoft 365 F1 omprofileras Microsoft 365 F3.
+
+**Kontrollera vårt innehåll [här för](https://partner.microsoft.com/resources/collection/Microsoft-365-firstline-offer-updates#/) att veta mer** om mervärdeserbjudandet och skapa alla marknadsföringsvaror som du kan behöva för att påskynda försäljningen och skapa nya affärsmöjligheter.
+
+Dela den här informationen med alla lämpliga kontakter i din organisation.
+
+**Frågor?**
+
+För ytterligare frågor om dessa erbjudanden kan du kontakta din representant i Microsoft-konto team.
 
 _________________
 
-## <a name="microsoft-365-cloud-service-provider-updates--april-2020"></a><a id="3"/></a>Uppdateringar Microsoft 365 Cloud Service Provider – april 2020
+## <a name="updated-changes-to-education-customer-validation-in-csp"></a><a id="4"/></a>Uppdaterad: Ändringar i Education Customer Validation i CSP
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2020-03-10
+- Typ: Funktioner
+- Status: Nu tillgänglig
+- [Läs mer](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/)
+
+### <a name="impacted-audience"></a>Målgrupp som påverkas:
+
+CSP-partner med direktfakturering och indirekt leverantör som gör utbildnings-/akademiska erbjudanden
+
+### <a name="summary"></a>Sammanfattning:
+
+Meddelande om nya funktioner: Partner kan nu korrigera kundkontoinformation och skicka om för granskning av fall där kunden nekades. Du hittar fullständiga stegvisa instruktioner för hur du gör detta i den uppdaterade [guiden Skapa en utbildningskund i Partner Center](https://assetsprod.microsoft.com/mpn/partner-center-education-customer-creation.pdf).
+
+Som en del av vårt kontinuerliga åtagande att följa affärsmetoder för kunder och partner introducerade Microsoft en automatiserad validering av alla nya education-kundkontoinskickningar för att verifiera berättigandet för kunden. Sedan vi lanserade funktionen för automatiserad validering har vi märkt ett ökande antal kontrollproblem eftersom felaktiga eller ogiltiga kunddata har angetts. Följ anvisningarna nedan för att effektivisera processen och minimera eventuella fördröjningar i granskningsprocessen:
+
+- Du kan snabba upp granskningen av fel i legitima ansökningar genom att ange så **korrekta** och **fullständiga** kunddata som möjligt. Ange inte i test-/dummydata.
+- Läs guiden **Skapa en utbildningskund i Partnercenter** och sidan Lägg till ny kund som dokumenterar vad som krävs när du skapar en ny utbildningskund i Partnercenter.  Båda finns i resursgalleriet nedan.
+
+>[!NOTE] 
+>Guiden **Skapa en utbildningskund** i Partnercenter innehåller nu stegvisa instruktioner för hur du korrigerar kundinformation och skickar om kunden har misslyckats med granskning.
+
+**Nästa steg/Ytterligare resurser:**
+
+Resursgallerisamling för CSP-programuppdateringar: [Ändringar i Authorized Education Partner-programmet i CSP](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/)
+
+### <a name="change-log"></a>Ändringslogg:
+
+- Ursprunglig publiceringsdatum: 19 december 2019
+- Kontakta supporten om nya partner som säljer utbildningserbjudanden tas bort (krävs inte längre): 13 januari 2020
+- Uppdatering för februari 2020 har lagts till: 10 februari 2020
+- Meddelande om ny möjlighet att korrigera kundkontoinformation och skicka om för granskning: 10 mars 2020
+
+_________________
+
+## <a name="microsoft-365-cloud-service-provider-updates--april-2020"></a><a id="3"/></a>Microsoft 365 Uppdateringar för molntjänstleverantörer – april 2020
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-03-09
-- Typ: erbjudanden/marknader
-- Status: kommer snart
+- Typ: Erbjudanden/marknader
+- Status: Kommer snart
 
 ### <a name="summary"></a>Sammanfattning:
 
-I april 2020 expanderar Microsoft bredd och värde för Microsoft 365s planer.
+I april 2020 utökar Microsoft bredden och värdet för Microsoft 365 planer.
 
-### <a name="impacted-audience"></a>Förverkad mål grupp:
+### <a name="impacted-audience"></a>Målgrupp som påverkas:
 
-Alla partners som går via Cloud Solution Provider (CSP)-programmet.
+Alla partner som gör en transact genom Molnlösningsleverantör(CSP)-programmet.
 
 ### <a name="details"></a>Information
 
-Den 1 april 2020 expanderar Microsoft bredden och värdet av Microsoft 365s planer, vilket ger ytterligare kund möjligheter och förbättrar partners på marknaden.
+Den 1 april 2020 utökar Microsoft bredden och värdet av Microsoft 365-planer, vilket ger ytterligare kundmöjligheter och förbättrar partners go-to-markets.
 
-**Microsoft 365 F-SKU-rad-upp: nya erbjudanden och omplacering**
+**Microsoft 365 F-SKU-line-up: Nya erbjudanden och ompositionering**
 
-Microsoft kommer att införa en ny nivå av SKU för Frontline Worker, vilket ger en enorm användar tillväxt möjlighet till partner. Därför flyttar vi också den gamla M365 F1-planen. Den kommer nu att kallas M365 F3 och ger extra värde som standard.
+Microsoft kommer att introducera en ny SKU för nivåinträde för frontline-arbetare, vilket ger partner en enorm möjlighet att öka användartillväxten. Därför flyttar vi också den gamla M365 F1-planen. Den kommer nu att kallas M365 F3 och ger extra värde som standard.
 
-**Läs mer genom att kontrol lera andra resurser [här](https://partner.microsoft.com/resources/collection/Microsoft-365-firstline-offer-updates#/)**
+**Läs mer genom att kontrollera andra resurser [här](https://partner.microsoft.com/resources/collection/Microsoft-365-firstline-offer-updates#/)**
 
 ### <a name="microsoft-365-for-unattended-scenarios"></a>Microsoft 365 för obevakade scenarier
-Microsoft 365 E3 – obevakad licens möjliggör användning av Office-program med tjänster eller andra icke-användarkonton, vilket är vanligt vid körning av automatiserings processen. Vi rekommenderar fortfarande automatiserings processer bör använda produkt-API: er som [Microsoft Graph](https://graph.microsoft.com/) när det är möjligt. Den här nya licensen kan dock ge ett nytt alternativ för att arbeta med produktivitets data och-verktyg.
+Microsoft 365 E3 – Obevakad licens gör det möjligt att använda Office program med tjänsten eller andra icke-användarkonton, vilket är vanligt vid körning av automatiseringsprocessen. Vi rekommenderar fortfarande att automatiseringsprocesser använder produkt-API:er som [Microsoft Graph](https://graph.microsoft.com/) när det är möjligt. Den här nya licensen kan dock ge ett nytt alternativ för att arbeta med produktivitetsdata och verktyg.
 
-Kontrol lera följande erbjudande i pris listan för för hands versionen: Microsoft 365 E3 for Unattended RPA: ec3ac2d1-dd66-475A-95c8-59c32c472778
+Kontrollera följande erbjudande i prislistan för förhandsversionen: Microsoft 365 E3 för obevakad RPA: ec3ac2d1-dd66-475a-95c8-59c32c472778
 
-### <a name="teams-premium-messaging"></a>Teams Premium-meddelanden
+### <a name="teams-premium-messaging"></a>Teams Premium Messaging
 
-En ny pris nivå för Premium meddelande tjänst är tillgänglig som ett tillägg till Microsoft 365 och Office 365-erbjudanden som omfattar betalda team.
+En ny Premium SKU för meddelanden blir tillgänglig som ett tillägg till Microsoft 365 och Office 365-erbjudanden som innehåller Teams.
 
-Med Premium-meddelanden kan:
+Premium Meddelandefunktioner möjliggör:
 
-- Obegränsade prioritets meddelanden för användare. Team meddelanden Taggade som **brådskande** meddelar mottagarna var 2: e minut under en period på 20 minuter.
+- Meddelanden med obegränsad prioritet för användare. Teams meddelanden som **taggats som brådskande** meddelar mottagarna varannan minut under en period på 20 minuter.
 - Riktad kommunikation i chattar, kanaler och uppgifter.
 
- Kontrol lera följande erbjudande i pris listan för för hands versioner: Avancerat samarbete, 61fde0d0-4b08-4900-B30A-e2e70e0447ba.
+ Kontrollera följande erbjudande i prislistan för förhandsversionen: Avancerat samarbete, 61fde0d0-4b08-4900-b30a-e2e70e0447ba.
 
-### <a name="next-steps"></a>Efterföljande moment
+### <a name="next-steps"></a>Nästa steg
 
-Bekanta dig med pris listan för för hands versionen och dela den här informationen med alla lämpliga kontakter i din organisation.
+Bekanta dig med prislistan för förhandsversionen och dela den här informationen med alla lämpliga kontakter i din organisation.
 
-**Har du några frågor?**
+**Frågor?**
 
-Om du vill ha mer information om dessa erbjudanden kontaktar du ditt ombud i Microsoft-kontos teamet.
+För ytterligare frågor om dessa erbjudanden kan du kontakta din representant i Microsoft-konto team.
 
 _________________
 
-## <a name="new-dynamics-365-products-will-be-released-on-april-1-2020"></a><a id="2"/></a>Nya Dynamics 365-produkter kommer att lanseras den 1 april 2020
+## <a name="new-dynamics-365-products-will-be-released-on-april-1-2020"></a><a id="2"/></a>Nya Dynamics 365-produkter släpps den 1 april 2020
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-03-02
-- Typ: erbjudanden/marknader
-- Status: kommer snart
+- Typ: Erbjudanden/marknader
+- Status: Kommer snart
 
 ### <a name="summary"></a>Sammanfattning:
 
-Från och med 1 april 2020 kommer Microsoft att lansera ytterligare Dynamics 365-produkter.
+Från och med 1 april 2020 kommer Microsoft att släppa ytterligare Dynamics 365-produkter.
 
-### <a name="impacted-audience"></a>Förverkad mål grupp:
+### <a name="impacted-audience"></a>Målgrupp som påverkas:
 
-Partner som erbjuder Dynamics 365 via Cloud Solution Provider (CSP)-programmet globalt
+Partner som erbjuder Dynamics 365 via Molnlösningsleverantör (CSP) över hela världen
 
 ### <a name="details"></a>Information
 
-Från och med den 1 april 2020 kommer Microsoft att lansera nya produkter för Dynamics Business Central online och Dynamics BIZ-appar och Power Platform.
+Från och med 1 april 2020 kommer Microsoft att släppa nya produkter för Dynamics Business Central Online samt Dynamics Biz Apps och Power Platform.
 
-### <a name="dynamics-business-central-online-offers"></a>Dynamics Business Central online-erbjudanden
-Följande ändringar görs i Dynamics Business Central online-erbjudanden som börjar gälla den 1 april 2020:
+### <a name="dynamics-business-central-online-offers"></a>Erbjudanden för Dynamics Business Central Online
+Följande ändringar kommer att göras i Dynamics Business Central Online-erbjudandena från och med 1 april 2020:
 
-- Nya databas (DB) erbjudanden för Business Central i CSP
-- Uppdatera Sales Pro och Customer Service Pro Attach SKU: er
+- Nya databaserbjudanden (DB) för Business Central i CSP
+- Uppdatera Sales Pro och Customer Service Pro bifoga SKU:er
 
-### <a name="dynamics-biz-apps-and-power-platform-products"></a>Dynamics BIZ-appar och Power Platform-produkter
+### <a name="dynamics-biz-apps-and-power-platform-products"></a>Dynamics Biz-appar och Power Platform produkter
 
-Följande ändringar görs i Dynamics BIZ-appar och Power Platform-produkter, från och med den 1 april 2020:
+Följande ändringar kommer att göras i Dynamics Biz Apps och Power Platform produkter från och med 1 april 2020:
 
-- RPA-erbjudanden (robot process Automation) från första part
-- Ny bot-produkt för RPA-erbjudanden
+- RPA-erbjudanden (Robotprocessautomatisering) från första part
+- Ny robotprodukt för RPA-erbjudanden
 
-Se de enskilda ändringarna i filen med namnet "Dynamics CSP-erbjudande uppdateringar – Mar 2020" [här](https://partner.microsoft.com/pcv/.)
+Se de specifika ändringarna i filen "Dynamics CSP Offer Updates–Mar 2020" [här](https://partner.microsoft.com/pcv/.)
 
 ### <a name="additional-resources"></a>Ytterligare resurser:
 
 - [Startsidan för Dynamics 365](https://dynamics.microsoft.com/)
-- [Start sida för guiden för blandade verklighets appar](https://dynamics.microsoft.com/mixed-reality/guides/)
-- [Start sida för BIZ Apps-bedrägerier](/dynamics365/fraud-protection/overview)
-- [FY20 PowerApps och Flow License-uppdateringar](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
+- [startsida Mixed Reality appguide](https://dynamics.microsoft.com/mixed-reality/guides/)
+- [Startsida för Biz Apps-bedrägeri](/dynamics365/fraud-protection/overview)
+- [FY20 PowerApps och Flow Licensing-uppdateringar](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
 - [Microsoft Dynamics 365-licensiering](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
-- [Dynamics 365 och Power Platform – tillgänglighet, data plats, språk och lokaliserings innehåll](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [Dynamics 365 och Power Platform–tillgänglighet, dataplats, språk och lokaliseringsinnehåll](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 
-### <a name="next-steps"></a>Efterföljande moment
+### <a name="next-steps"></a>Nästa steg
 
 - Dela den här informationen med lämpliga kontakter i din organisation.<br>
-- Om du vill ha mer information om licensierings uppdateringar och värde förslag kan du bekanta dig med vårt beredskaps innehåll som finns i de **ytterligare resurserna** i föregående avsnitt och i PartnerSource.<br>
-- Om du behöver support som rör dina åtgärder med Microsoft, kan du kontakta [supporten](https://partner.microsoft.com/pcv/servicerequests/create).
+- Om du vill ha mer information om licensuppdateringarna och värdeförslaget kan  du bekanta dig med vårt beredskapsinnehåll som anges i avsnittet Ytterligare resurser i föregående avsnitt och på PartnerSource.<br>
+- Om du behöver support som rör din verksamhet med Microsoft kan du [kontakta supporten.](https://partner.microsoft.com/pcv/servicerequests/create)
 
 _________________
 
-## <a name="now-available-microsoft-defender-advanced-threat-protection-mdatp-standalone-for-csp"></a><a id="1"/></a>Nu är det fristående Microsoft Defender Advanced Threat Protection (MDATP) fristående för CSP.
+## <a name="now-available-microsoft-defender-advanced-threat-protection-mdatp-standalone-for-csp"></a><a id="1"/></a>Now Available Microsoft Defender Avancerat skydd (MDATP) Standalone for CSP.
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-03-02
-- Typ: erbjudanden/marknader
-- Status: är nu tillgängligt
+- Typ: Erbjudanden/marknader
+- Status: Nu tillgänglig
 - [Läs mer](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?ocid=cx-blog-mmpc)
 
 ### <a name="summary"></a>Sammanfattning:
 
-Microsoft tar bort krav för Windows E3-licensen från Microsoft Defender Avancerat skydd (MDATP), vilket gör att MDATP kan användas för alla klient enheter som stöds.
+Microsoft tar bort Windows E3-licensens förhandskrav från Microsoft Defender Avancerat skydd (MDATP), vilket tillåter MDATP för alla klientenheter som stöds.
 
-### <a name="impacted-audience"></a>Förverkad mål grupp:
+### <a name="impacted-audience"></a>Målgrupp som påverkas:
 
 - Alla partner som deltar i CSP-programmet
 
 ### <a name="details"></a>Information
 
-Microsoft tar bort kraven för Windows E3-licensen från Microsoft Defender Advanced Threat Protection (MDATP). CSP-partner kommer att kunna köpa MDATP för alla klient enheter som stöds, oavsett deras ägarskap för Windows E3-licenser.
+Microsoft tar bort förhandskravet Windows E3-licens från Microsoft Defender Avancerat skydd (MDATP). CSP-partner kommer att kunna köpa MDATP för alla sina klientenheter som stöds, oavsett deras Windows E3-licensägarskap.
 
-För att aktivera den här affärs modellen har Microsoft lanserat ett fristående erbjudande för CSP och är nu tillgängligt.
+För att aktivera den här affärsmodellen har Microsoft lanserat ett fristående erbjudande för CSP och det är nu tillgängligt.
 
-Dessutom sker ingen ändring av befintliga Windows E5, Microsoft 365 E5-säkerhet och Microsoft 365 E5-erbjudanden som de här erbjudandena kommer att fortsätta inklusive MDATP.
+Dessutom ändras inte befintliga erbjudanden Windows E5, Microsoft 365 E5 Security och Microsoft 365 E5 eftersom dessa erbjudanden fortsätter att inkludera MDATP.
 
-### <a name="product-offer"></a>Produkt erbjudande:
+### <a name="product-offer"></a>Produkterbjudande:
 
-- Microsoft Defender Advanced Threat Protection-e2dcab13-1365-417a-b624-4901e2b252f5
-- Microsoft Defender Avancerat skydd för utbildning 1a7a1bcc-c7bf-4c6b-b55d-d79a6e3bb3ee
+- Microsoft Defender Avancerat skydd e2dcab13-1365-417a-b624-4901e2b252f5
+- Microsoft Defender Avancerat skydd for Education 1a7a1bcc-c7bf-4c6b-b55d-d79a6e3bb3ee
 
-### <a name="next-steps"></a>Efterföljande moment
+### <a name="next-steps"></a>Nästa steg
 
 - Dela den här informationen med lämpliga kontakter i din organisation.
-- Läs följande om du vill ha mer information om Microsoft Defender Avancerat skydd: [https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?ocid=cx-blog-mmpc](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?ocid=cx-blog-mmpc)
+- Mer information om Microsoft Defender Avancerat skydd finns i: [https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?ocid=cx-blog-mmpc](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?ocid=cx-blog-mmpc)
 
-**Har du några frågor?**
+**Frågor?**
 
-Om du har frågor som rör dina åtgärder med Microsoft kan du kontakta supporten via din partner instrument panel på: https://partner.microsoft.com/pcv/servicerequests/create .
+Om du har frågor som rör din verksamhet hos Microsoft kan du kontakta supporten via din partnerinstrumentpanel på: https://partner.microsoft.com/pcv/servicerequests/create .
 
-### <a name="change-log"></a>Ändrings logg
+### <a name="change-log"></a>Ändringslogg
 
-- Den 6 februari 2020 ursprungligt Publicerings datum: för lansering av kommunikation
-- Senaste 2 mars 2020 uppdaterad Publicerings datum: GA Launch (Go Live)
+- Ursprunglig publiceringsdatum 6 februari 2020: Förlanseringskommunikation
+- Uppdaterade publiceringsdatum 2 mars 2020: GA Launch (Go Live)
 
 _________________

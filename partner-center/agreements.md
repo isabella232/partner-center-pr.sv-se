@@ -3,18 +3,18 @@ title: Microsoft-kundavtal mallar
 ms.topic: article
 ms.date: 05/28/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: Lär dig var du hittar och laddar ned regionspecifika och språkspecifika versioner av Microsoft-kundavtal att granska med dina kunder.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 131f4c662f6461971c4eb51ab5b0e2fb3cad2029
-ms.sourcegitcommit: 02a839b61265c3162e041c8894575d3b5345f020
+ms.openlocfilehash: c7be8fe9cb420d82616d6bcbd2af8d84052b651c
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/01/2021
-ms.locfileid: "110724470"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839166"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>Microsoft-kundavtal efter region och språk
 

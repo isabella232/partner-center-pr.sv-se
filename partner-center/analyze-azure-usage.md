@@ -1,30 +1,30 @@
 ---
 title: Analysera Azure-användning för att hjälpa din verksamhet att växa
-description: Lär dig hur du använder Partnercenter för att hämta data om användningen av dina kunders Azure-prenumerationer. Data omfattar sålda prenumerationer, riskfyllda prenumerationer och användning.
+description: Lär dig hur du använder Partnercenter för att hämta data om användningen av dina kunders Azure-prenumerationer. Data omfattar sålda prenumerationer, riskfyllda prenumerationer och prenumerationer som används.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: amitravat
 ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: e2acdb777e0ef77ebf9d08eed3d3842c74af9e18
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: d26fe1c71a574ed58ca227979cda445950873596
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150241"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839132"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Hämta data om hur bra det går för dina kunder och Azure-prenumerationer
 
 
 
-**Lämpliga roller:** Globala | Administratörsbehörighet för | Administratörsagent | Försäljningsagent
+**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Administratörsagent | Försäljningsagent
 
 Data driver affärsbeslut. Använd måtten på **azure-användningssidan** för att identifiera dina framgångar och områden som behöver mer uppmärksamhet. Använd den här informationen när du planerar nya affärsmål.
 
-För att komma till **Azure-användning loggar** du in på Partnercenter-instrumentpanelen . [](https://partner.microsoft.com/dashboard) Välj **Analytics** på Menyn i Partnercenter och välj sedan **Azure-användning.**
+För att komma till **Azure-användning loggar** du in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard) Välj **Analys** på Menyn i Partnercenter och välj sedan **Azure-användning.**
 
 > [!NOTE]
 > Användningsanalys i Azure är endast tillgängligt för partner i Molnlösningsleverantör program.
@@ -33,7 +33,7 @@ Vi spårar följande mått:
 
 ## <a name="summary"></a>Sammanfattning
 
-- **Totalt antal sålda Azure-prenumerationer:** Antalet sålda prenumerationer under den angivna tidsperioden  
+- **Totalt antal sålda Azure-prenumerationer:** Antal sålda prenumerationer under den angivna tidsperioden  
 - **Kunder med användning:** Antal kunder med Azure-användning under den angivna tidsperioden  
 - **Kunder utan användning:** Antal kunder utan Azure-användning under den angivna tidsperioden  
 

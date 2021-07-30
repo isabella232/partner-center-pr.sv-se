@@ -3,20 +3,20 @@ title: Lägga till flera användare för ett kundkonto
 ms.topic: how-to
 ms.date: 08/01/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Om du vill lägga till flera användare till en kunds konto laddar du upp en datafil till Partnercenter med filformatet kommaavgränsade värden (.csv).
+ms.subservice: partnercenter-customers
+description: Om du vill lägga till flera användare till en kunds konto laddar du upp en datafil till Partnercenter med hjälp av filformatet med kommaavgränsade värden (.csv).
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 268cc9cb42bc72a444da6aec99425c2b29b71cb4
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 907d1267164df267acab08675b4b9388fbf14474
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150479"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839438"
 ---
-# <a name="upload-a-csv-file-of-users-to-a-customers-account"></a>Ladda upp en CSV-fil med användare till en kunds konto
+# <a name="upload-a-csv-file-of-users-to-a-customers-account"></a>Upload en .csv fil med användare till en kunds konto
 
 
 **Lämpliga roller:** Global administratör
@@ -25,28 +25,28 @@ Lägg till flera användare till en kunds konto samtidigt genom att ladda upp en
 
 ## <a name="create-the-file-of-customer-users-and-upload-to-customer-account"></a>Skapa filen med kundanvändare och ladda upp till kundkontot
 
-1. Skapa en datafil med kommaavgränsade värden (.csv) med de data som beskrivs ovan. Spara filen så att du kan bläddra till den i ett senare steg. Se [Fält för CSV-filen för att importera flera användare för ett kundkonto.](file-customer-users.md) 
+1. Skapa en datafil med kommaavgränsade värden (.csv) med de data som beskrivs ovan. Spara filen så att du kan bläddra till den i ett senare steg. Se [Fält för .csv för att importera flera användare för ett kundkonto.](file-customer-users.md) 
 
 2. Logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard)
 
 3. I menyn i Partnercenter väljer **du Kunder** och sedan en kund i listan.
 
-4. Välj kundens flik **Användare och licenser och** välj sedan Ladda upp **användare.**
+4. Välj fliken Användare och **licenser för kunden** och välj sedan Upload **användare.**
 
-5. Under **Ladda upp användarinformation** väljer du **Bläddra**.
+5. Under **Upload användarinformation** väljer du **Bläddra**.
 
 6. I filväljaren väljer du din datafil och sedan **Öppna**.
 
 7. Välj **Verifiera**.
 
-    **Obs!**  De flesta fel vid skapande av konton orsakas av problem med datafiler, inklusive information som saknas, felaktiga eller duplicerade e-postadresser eller för många poster i filen.
+    **Obs!**  De flesta kontoskapande fel orsakas av problem med datafilen, inklusive information som saknas, felaktiga eller duplicerade e-postadresser eller för många poster i filen.
 
-8. När Partnercenter har verifierat filen väljer du den geografiska **platsen för** de nya användarna.
+8. När Partnercenter har verifierat filen väljer du den geografiska **platsen** för de nya användarna.
 9. Välj **Spara**.
 10. Ladda ned den tillfälliga lösenordsinformationen för användarna.
 
     >[!IMPORTANT]
-    > Se till att ladda ned filen med de tillfälliga lösenorden nu eftersom du inte kan göra det senare. Nya användare måste logga in på sitt nya konto med det tillfälliga lösenordet för sina nya konton.
+    > Se till att ladda ned filen med de tillfälliga lösenorden nu eftersom du inte kommer att kunna göra detta senare. Nya användare måste logga in på sitt nya konto med det tillfälliga lösenordet för sina nya konton.
 
 11. Nya användare tilldelas automatiskt behörigheter för **Can use licenses and services (Kan använda licenser och tjänster).** 
 

@@ -1,40 +1,40 @@
 ---
-title: Undantag från kompetensprov för programutveckling
+title: Examundantag för programutvecklingskompetens
 ms.topic: article
 ms.date: 05/01/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: För partner med en tidigare ISV-kompetens kan du lära dig hur du får ett kravundantag för en engångsprov för kompetensen för programutveckling
+ms.subservice: partnercenter-membership
+description: För partner med en tidigare ISV-kompetens kan du lära dig hur du får ett kravundantag för en prov för kompetensen för programutveckling
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2d3dfbb409ec8a11d4152e9c064e0ce7a05711b5
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 71121a7493da8dee18fc65a90a4a70cc32d712c9
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150003"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838656"
 ---
-# <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Kravundantag vid en prov för kompetensen för programutveckling
+# <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Kravundantag för ett prov för kompetensen programutveckling
 
-**Lämpliga roller:** Globala | MPN-partneradministratör
+**Lämpliga roller:** Global | MPN-partneradministratör
 
-Om du har uppnått den nu tillbakadragna ISV-kompetensen och något av följande scenarier gäller dig, erbjuder vi ditt företag ett undantagskrav för en prov för guld- eller silverkompetensen för [programutveckling.](https://partner.microsoft.com/membership/application-development-competency) 
+Om du har uppnått den nu tillbakadragna ISV-kompetensen och något av följande scenarier gäller för dig, erbjuder [](https://partner.microsoft.com/membership/application-development-competency)vi ditt företag ett kravundantag för ett prov för guld- eller silverprogramutveckling. 
 
-Partner med ISV-kompetens:
+Partner med isv-kompetens:
 
-- **Din ISV-kompetens har** upphört att gälla – Undantaget för en provkrav är tillgängligt i Partnercenter från och med 22 november 2019. Du har 30 dagar på dig att dra nytta av erbjudandet. Logga in på Partnercenter för information som är specifik för ditt företag.
+- **ISV-kompetensen har** upphört att gälla – Undantaget för provkrav för en gång är tillgängligt i Partnercenter från och med 22 november 2019. Du har 30 dagar på dig att dra nytta av erbjudandet. Logga in på Partnercenter för information som är specifik för ditt företag.
 
-- **Ditt kompetensmedlemskap är i förnyelsefönstret** – Undantaget för provkrav för en gång är tillgängligt i Partnercenter från och med 22 november 2019. Du har 30 dagar på dig att dra nytta av erbjudandet. Logga in på Partnercenter för information som är specifik för ditt företag.
+- **Ditt kompetensmedlemskap är i** förnyelsefönstret – Undantaget för provkrav för en gång är tillgängligt i Partnercenter från och med den 22 november 2019. Du har 30 dagar på dig att dra nytta av erbjudandet. Logga in på Partnercenter för information som är specifik för ditt företag.
 
-- **Ditt kompetensmedlemskap måste** förnyas under de kommande månaderna – ditt krav på provundantag är tillgängligt när det är dags att förnya. Då har du 30 dagar på dig att hämta erbjudandet.
+- **Ditt kompetensmedlemskap kommer att** förnyas under de kommande månaderna – ditt krav på provundantag är tillgängligt när det är dags att förnya. Då har du 30 dagar på dig att få erbjudandet.
 
 Partner med en programutvecklingskompetens som uppnås via certifikatets IP-sökväg:
 
-- **Om du har en lista** över Microsofts kommersiella marknadsplats kommer ditt krav på en provundantag att vara tillgängligt när du förnyar kompetensen. Då har du 30 dagar på dig att dra nytta av erbjudandet.
+- **Om du har en lista** över Microsofts kommersiella marknadsplats kommer ditt undantag för provkrav att vara tillgängligt vid tidpunkten för din kompetensförnyelse. Då har du 30 dagar på dig att dra nytta av erbjudandet.
 
-- Om du inte har en lista över **[Microsofts](https://azure.microsoft.com/overview/commercial-marketplace/)** kommersiella marknadsplats bör du publicera din lösning senast i februari 2020 för att vara berättigad till undantaget för ett provkrav.
+- Om du inte har någon **[microsoft-lista](https://azure.microsoft.com/overview/commercial-marketplace/)** över kommersiella marknadsplatser publicerar du din lösning senast i februari 2020 för att vara berättigad till undantaget för ett provkrav.
 
 ## <a name="how-to-take-advantage-of-your-offer"></a>Så här utnyttjar du ditt erbjudande
 

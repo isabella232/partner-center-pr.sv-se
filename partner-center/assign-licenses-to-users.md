@@ -3,18 +3,18 @@ title: Hantera användare för kundkonton
 ms.topic: how-to
 ms.date: 02/25/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: Hantera användare för dina kunder i Partnercenter – skapa användarkonton, lägga till eller ta bort användarlicenser, återställa lösenord och ta bort eller återställa användarkonton.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dc896ec3ce16ab0f05a8131de14f573ad96a8141
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 1c346e5e680fdd0b0b82715160b238e1e6b6a9a9
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149901"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838639"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Hantera användare och användarlicenser för kundkonton 
 
@@ -28,7 +28,7 @@ När du köper nya prenumerationer för en kund bör kunden ge dig en lista öve
 >[!NOTE]
 >Avsnittet **Användare och**  licenser på fliken Kund visar alla användare som skapats i en specifik kunds klientorganisation, inklusive användare som har köpt licenser från en annan CSP-partner eller från en annan inköpskanal.
 
-Du kan [tilldela prenumerationer till flera användare samtidigt](bulk-license-provisioning-for-multiple-users.md) genom att importera namnen med hjälp av en [Excel-kompatibel CSV-kalkylbladsfil.](adding-multiple-users-to-a-customer-account.md)
+Du kan [tilldela prenumerationer till flera användare](bulk-license-provisioning-for-multiple-users.md) samtidigt genom att importera namnen med hjälp av en [Excel-kompatibel .csv kalkylbladsfil](adding-multiple-users-to-a-customer-account.md).
 
 <a href="" id="createuseraccounts"></a>
 
@@ -46,13 +46,13 @@ Du kan [tilldela prenumerationer till flera användare samtidigt](bulk-license-p
 
 6. Om du lägger till flera användare en i taget använder du Lägg **till en annan användare.**
 
-7. Du kan också lägga till flera användare samtidigt genom att [importera en Excel-kompatibel CSV-kalkylbladsfil.](adding-multiple-users-to-a-customer-account.md) Du kan vänta tills du är klar med hela uppsättningen innan du skickar e-post eller skriver ut namn och lösenord från bekräftelseskärmen.
+7. Du kan också lägga till flera användare samtidigt genom [att importera en Excel-kompatibel .csv kalkylbladsfil](adding-multiple-users-to-a-customer-account.md). Du kan vänta tills du är klar med hela uppsättningen innan du skickar e-post eller skriver ut namn och lösenord från bekräftelseskärmen.
 
 <a href="" id="userlicensing"></a>
 
 ## <a name="add-or-remove-user-licenses-for-a-customer"></a>Lägga till eller ta bort användarlicenser för en kund
 
-Följande steg gäller för att lägga till eller ta bort användarlicenser för Microsoft-produkter. Om du vill lägga till eller ta bort användarlicenser för licensbaserade SaaS-prenumerationer på den kommersiella marknadsplatsen kan du läsa Lägga till eller ta bort licenser [för en SaaS-prenumeration.](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription)
+Följande steg gäller för att lägga till eller ta bort användarlicenser för Microsoft-produkter. Om du vill lägga till eller ta bort användarlicenser för licensbaserade SaaS-prenumerationer på den kommersiella marknadsplatsen kan du läsa Lägga till eller ta bort licenser för [en SaaS-prenumeration.](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription)
 
 1. Logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard)
 
@@ -60,9 +60,9 @@ Följande steg gäller för att lägga till eller ta bort användarlicenser för
 
 3. I kundmenyn väljer du **Användare och licenser.**
 
-4. Välj en eller flera användare i listan. Om kunden till exempel precis har köpt nya licenser och du vill tilldela dem till personer som inte har dem ännu, kan du använda alternativet **Filtrera användare efter...** för att hitta rätt grupp.
+4. Välj en eller flera användare i listan. Om kunden till exempel precis har köpt nya licenser och du vill tilldela dem till personer som inte har dem ännu kan du använda alternativet Filtrera användare **efter...** för att hitta rätt grupp.
 
-5. Välj **Hantera licenser**. Gör dina ändringar och sedan **Spara**.
+5. Välj **Hantera licenser**. Gör dina ändringar och spara **sedan**.
 
 > [!NOTE]
 > För [Azure Marketplace produkter](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)hanteras licenstilldelning och aktivering via isv:n (Independent Software Vendor) som publicerade produkten.

@@ -3,18 +3,18 @@ title: Sök efter avancerade specialiseringar
 ms.topic: how-to
 ms.date: 07/07/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-membership
 description: Förbättra din företagsprofil i Microsofts partnerkatalog. Lär dig hur du använder Partnercenter för att söka efter och få avancerade specialiseringar.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 76500ebf1b594e6097040ee810a94635cbb65eb7
-ms.sourcegitcommit: 312f3800d0a0464af9df4d7ffb0d9faec273fd74
+ms.openlocfilehash: 89f492a5328e241a7b435139f6c97bf82254f6b9
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "113489834"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839472"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Använd Partnercenter för att söka avancerade specialiseringar och kontrollera deras status
 
@@ -26,7 +26,7 @@ Mer information om fördelarna med avancerade specialiseringar och deras specifi
 
 ## <a name="use-partner-center-to-apply-for-advanced-specializations-or-check-their-status"></a>Använd Partnercenter för att söka avancerade specialiseringar eller kontrollera deras status
 
-För att kvalificera dig för en avancerad specialisering måste du först uppfylla vissa krav, till exempel en [guldkompetens](https://partner.microsoft.com/membership/competencies) i ett relaterat område. Sedan måste du använda i Partnercenter och slutföra viktiga steg, krav och Microsoft-valideringar för den avancerade specialiseringen.
+För att kvalificera dig för en avancerad specialisering måste du först uppfylla vissa krav, till exempel en [guldkompetens](https://partner.microsoft.com/membership/competencies) inom ett relaterat område. Sedan måste du använda i Partnercenter och slutföra viktiga steg, krav och Microsoft-valideringar för den avancerade specialiseringen.
 
 En stor del av processen är tillgänglig från instrumentpanelen i Partnercenter. Endast användare med en viss Partnercenter-roll [kan dock komma](permissions-overview.md) åt det här Partnercenter-området.
 
@@ -125,12 +125,12 @@ Följ sedan dessa steg för att tillhandahålla kundreferenser i Partnercenter:
 
    :::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Exempel på kravsida för avancerade specialiseringar som kräver kundreferenser.":::
 
-4. Tills du uppfyller alla krav som visas på den här sidan och anger kundreferenser förblir din status **Inte startad.** När alla krav är uppfyllda ändras din status till **Aktiv**.
+4. Tills du uppfyller alla krav som visas på den här sidan och anger kundreferenser förblir din status **Inte startad.** När alla krav är uppfyllda ändras din status till **Aktiv.**
 
 ## <a name="how-azure-consumption-revenue-acr-is-calculated-for-each-advanced-specialization"></a>Så här beräknas Azure Consumption Revenue (ACR) för varje avancerad specialisering:
 
-- Partner-till-kund-associationer ingår: [Digital Partner of Record-association](https://support.microsoft.com/topic/link-a-partner-id-for-azure-performance-pal-or-dpor-a8eed43b-82a8-f017-3b1a-f9c8aa385d32) till en kund eller CSP-direktfaktureringspartner eller indirekt CSP-återförsäljare för en kund- eller [PARTNERadministratörslänk(PAL)-association](/azure/cost-management-billing/manage/link-partner-id) till en kund.
-- ACR från prenumerationer med erbjudandetyper utvärderingsversion, förmånsprogram, support och intern räknas inte mot avancerad specialisering.
+- Partner-till-kund-associationer ingår: [Digital Partner of Record-association](https://support.microsoft.com/topic/link-a-partner-id-for-azure-performance-pal-or-dpor-a8eed43b-82a8-f017-3b1a-f9c8aa385d32) till en kund, CSP-direktfaktureringspartner eller indirekt CSP-återförsäljare för en kund- eller [PARTNERadministratörslänk(PAL)-association](/azure/cost-management-billing/manage/link-partner-id) till en kund.
+- ACR från prenumerationer med utvärderingsversionen av erbjudandetyper, förmånsprogram, support och internt räknas inte mot den avancerade specialiseringen.
 
 **Intäktsfält för Azure-förbrukning**
 
@@ -139,11 +139,11 @@ Följ sedan dessa steg för att tillhandahålla kundreferenser i Partnercenter:
 | Servicenivå 1 | Den högsta nivån där Azure-tjänster paketeras (se: https://azure.microsoft.com/services/) . |
 | Servicenivå 2 | Azure-tjänster på den näst högsta nivån (t.ex. https://azure.microsoft.com/pricing/) |
 | Servicenivå 3 | Tredje Azure-tjänster på högsta nivån (t.ex. https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
-| Servicenivå 4 | Azure-tjänster på fjärde högsta nivån (t.ex.: https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
+| Servicenivå 4 | Fjärde högsta nivån azure-tjänster baserade (t.ex. https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
 | Tjänstgrupp 2 | Gruppering av Azure-tjänster enligt en tjänstkategori |
 | Tjänstgrupp 3 | Gruppering av Azure-tjänster enligt en tjänstunderkategori |
 | Tjänstpåverkande | Gruppering av Azure-tjänster som är mappade till en specifik förbrukningsaktivitet |
-| Compute OS | Compute-operativsystem |
+| Beräkningsoperativsystem | Beräkningsoperativsystemet |
 | Compute Core Software | Compute Core Software |
 
 **Azure Consumption Revenue-filter för avancerad specialisering**
@@ -152,14 +152,14 @@ Följ sedan dessa steg för att tillhandahålla kundreferenser i Partnercenter:
     - Azure Synapse Analytics ACR: Service Group 3 = SQL DW
 - Kubernetes på Microsoft Azure
     - Azure Kubernetes Service (AKS) ACR: Service Influencer = AKS , AKS-Engine
-    - Azure RedHat OpenShift ACR: Service Group 3 = ARO, Service Level 2 = All except "Unknown"
+    - Azure RedHat OpenShift ACR: Service Group 3 = ARO, Service Level 2 = Alla utom "Okänd"
 - Microsoft Windows Virtual Desktop
     - Windows Virtual Desktop ACR: Service Influencer = NATIVE WVD
 - Modernisering för webbprogram till Microsoft Azure
     - Azure App Service ACR: Service Level 1 = Compute and Service Level 2 = Azure App Service
     - Azure Spring Cloud ACR:
-        - ACR Adjustment Type = N/A
-        - Service Group 2 = App Dev
+        - Justeringstyp för ACR = Ej a
+        - Tjänstgrupp 2 = App Dev
         - Tjänstgrupp 3 = Spring Cloud 
         - Servicenivå 2 = Alla utom "Okänd"
 
@@ -170,28 +170,28 @@ Följ sedan dessa steg för att tillhandahålla kundreferenser i Partnercenter:
     - Azure Data Factory ACR: Service Group3 = Data Factory  
 - Hybridmolninfrastruktur med Microsoft Azure Stack HCI
     - Azure Stack HCI ACR: Service Level 2 = Azure Stack HCI
-- Microsoft Azure VMware Solution
-    - Azure VMware Solutions (AVS) ACR: Service Level 4 = Azure VMware Solution, Azure VMware Solution by CloudSimple, Azure VMware Solution av Virtustream, Specialized Compute Azure VMware Solution
-- Hybriddrift och hantering med Microsoft Azure Arc 
+- Microsoft Azure VMware-lösning
+    - Azure VMware Solutions(AVS) ACR: Service Level 4 = Azure VMware Solution, Azure VMware Solution by CloudSimple, Azure VMware Solution av Virtustream, Specialized Compute Azure VMware Solution
+- Hybridåtgärder och hantering med Microsoft Azure Arc 
     - Arc-aktiverad server ACR: Service Level 4 = Azure Policy
     - Arc-aktiverad Kubernetes ACR: Service Level 4 = Azure Arc
 - AI och Machine Learning i Microsoft Azure
-    - AI ACR: Service Group 2 = AI
+    - AI ACR: Tjänstgrupp 2 = AI
 
 
 - Migrering av Windows Server och SQL Server till Microsoft Azure
     - Windows Acr: 
-        - ACR Adjustment Type = N/A, Compute Core SW = Core,
+        - ACR-justeringstyp = N/A, Compute Core SW = Core,
         - Compute OS = WINDOWS THEN Compute OS Attribute = WINDOWS, UNKNOWN or Compute OS = LINUX THEN Compute OS Attribute = WINDOWS-AHUB
         - Servicenivå 2 = Cloud Services, Container Instances, Container Registry, Specialized Compute, Virtual Machines, Virtual Machines Licenses
     - SQL Database (DB) ACR: Service Group 3 = SQLDB
-    - SQL Hanterad instans (MI) ACR: Service Group 3 = SQL DB MI
+    - SQL Managed Instance (MI) ACR: Service Group 3 = SQL DB MI
     - SQL VM ACR: Service Group 3 = SQL on IaaS, SQL on IaaS VM
 - Linux och Open-Source Database Migration till Microsoft Azure
     - Virtuella Linux-datorer (VM)ACR:
         - Alternativ 1:
             - ACR Adjustment Type= N/A, Service Level 2 = Virtual Machines, Compute OS= Linux, Compute OS Attribute = Non-Windows , UNKNOWN , Windows
-            - Servicenivå 4 = Alla utom Cloud Services MS-serien, Virtual Machines MS-serien, Virtual Machines MS-serien Windows, Virtual Machines MSv2-serien, Virtual Machines MSv2-serien Windows, MS-serien Dedicated Host, MSv2-serien Dedicated Host
+            - Servicenivå 4= Alla utom Cloud Services MS-serien, Virtual Machines MS-serien, Virtual Machines MS-serien Windows, Virtual Machines MSv2-serien, Virtual Machines MSv2-serien Windows, MS-serien Dedicated Host, MSv2-serien Dedicated Host
         - Alternativ 2: Kräver endast filter på servicenivå 4, andra fält som Compute OS/Compute OS-attribut krävs inte
             - Servicenivå 4 = Red Hat Enterprise Linux, Red Hat Enterprise Linux med HA, SUSE Linux Enterprise Server Basic, SUSE Linux Enterprise Server for HPC Priority, SUSE Linux Enterprise Server for HPC Standard, SUSE Linux Enterprise Server Priority, SUSE Linux Enterprise Server Standard
     - Azure Database (DB) for MariaDB ACR: Service Level 1 = Databases and Service Level 2 = Azure Database for MariaDB
@@ -205,8 +205,8 @@ Följ sedan dessa steg för att tillhandahålla kundreferenser i Partnercenter:
 
 ## <a name="next-steps"></a>Nästa steg
 
-- Läs mer [om avancerade specialiseringar, deras fördelar och unika krav.](https://partner.microsoft.com/membership/advanced-specialization)
+- Läs mer om [avancerade specialiseringar, deras fördelar och unika krav.](https://partner.microsoft.com/membership/advanced-specialization)
 
-- Lär dig hur [du uppnår Microsofts kompetenser för silver- eller guldmedlemskap.](learn-about-competencies.md)
+- Lär dig mer [om att uppnå Microsofts silver- eller guldmedlemskapskompetenser.](learn-about-competencies.md)
 
 - Läs mer om [Microsoft Partner Network kompetenser.](https://partner.microsoft.com/membership/competencies)

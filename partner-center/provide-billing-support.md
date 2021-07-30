@@ -3,18 +3,18 @@ title: Ge faktureringssupport till kunder
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 description: Lär dig mer om den support för kundfakturering som krävs Molnlösningsleverantör CSP-programpartner. Det här stödet omfattar att äga kundfaktureringsrelationen och besvara faktureringsfrågor.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ab9ac3c7ba8e718c3b154e81649965457a4cf7ff
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: 40bf13a114eeb2eaaaf8fcae76d52de13d206d9d
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551338"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845949"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Tillhandahålla faktureringssupport för dina kunder och hjälp med att besvara deras faktureringsfrågor
 

@@ -3,24 +3,24 @@ title: Anpassa en enhets out-of-box-upplevelse
 ms.topic: how-to
 ms.date: 04/28/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Innan du levererar en kunds nya enhet kan du använda Windows Autopilot för att anpassa eller förkonfigurera enhetens färdiga upplevelse (OOBE).
+ms.subservice: partnercenter-customers
+description: Innan du levererar en kunds nya enhet kan du använda Windows Autopilot-profiler för att anpassa eller förkonfigurera enhetens färdiga upplevelse (OOBE).
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 5294495403be729adecb5a7814ade4f9d454a0f6
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 95a201c53fc2eaf230d08bb4cfdd03a5747b5c05
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149833"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838486"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Använd Windows Autopilot-profiler på nya enheter för att anpassa kundens välkomstupplevlese (OOBE, Out-Of-Box Experience)
 
 **Lämpliga roller:** Administratörsagent | Globala | Försäljningsagent | Administratör för användarhantering
 
-Om du hanterar kundenheter kan du behöva anpassa OOBE (Out-of-Box Experience) för kundens användare. Du kan förkonfigurera nya enheter med Windows Autopilot innan du levererar enheterna till kunder och tillämpar nya profiler på enheter som kunder redan har köpt. 
+Om du hanterar kundenheter kan du behöva anpassa OOBE (Out-of-Box Experience) för kundens användare. Du kan förkonfigurera nya enheter Windows Autopilot-profiler innan du levererar enheterna till kunder och tillämpar nya profiler på enheter som kunder redan har köpt. 
 
 Observera att OEM-tillverkare har börjat inkludera en adressetikett utanför Autopilot-enheten som visar enhetens **produktnyckel-ID (PKID).**  Den här 1-dimensionella, läsbara streckkoden ger underordnade partner ett sätt att registrera enheter för Autopilot utan att behöva packa upp enheterna och samla enhets-ID:t på ett alternativt sätt.
 
@@ -33,7 +33,7 @@ Om du inte redan är bekant med Autopilot kan du läsa informationen i följande
 
 ## <a name="overview"></a>Översikt
 
-Med funktionen Windows Autopilot i Partnercenter kan du skapa anpassade profiler som gäller för kundenheter. Följande profilinställningar var tillgängliga när den här artikeln publicerades:
+Med Windows Autopilot-funktionen i Partnercenter kan du skapa anpassade profiler som ska tillämpas på kundenheter. Följande profilinställningar var tillgängliga när den här artikeln publicerades:
 
 - Hoppa över sekretessinställningar. Den här valfria Autopilot-profilinställningen gör det möjligt för organisationer att inte fråga om sekretessinställningar under OOBE-processen.
 
@@ -41,9 +41,9 @@ Med funktionen Windows Autopilot i Partnercenter kan du skapa anpassade profiler
 
 - Konfigurera automatiskt enheten för arbete eller skola. Alla enheter som registreras med Autopilot betraktas automatiskt som arbets- eller skolenheter, så den här frågan ställs inte under OOBE-processen.
 
-- Hoppa över registreringsinstallationssidorna för Cortana, OneDrive och OEM. Alla enheter som registrerats med Autopilot hoppar automatiskt över dessa sidor under OOBE-processen (Out-of-Box Experience).
+- Hoppa Cortana, OneDrive och installationssidor för OEM-registrering. Alla enheter som registrerats med Autopilot hoppar automatiskt över dessa sidor under OOBE-processen (Out-of-Box Experience).
 
-- Hoppa över licensavtalet (EULA). Från och Windows 10 version 1709 kan organisationer välja att hoppa över den EULA-sida som presenteras under OOBE-processen. Se [Windows Autopilot EULA nedan för](#windows-autopilot-eula-dismissal) viktig information om hur du hoppar över eula-sidan under Windows-installationen.
+- Hoppa över licensavtalet (EULA). Från och Windows 10 version 1709 kan organisationer välja att hoppa över den EULA-sida som presenteras under OOBE-processen. Se [Windows Autopilot EULA](#windows-autopilot-eula-dismissal) som finns nedan för viktig information att tänka på om att hoppa över eula-sidan under Windows installation.
 
 Följande behörigheter och begränsningar för hantering av profiler och enheter gäller:
 
@@ -55,18 +55,18 @@ Följande behörigheter och begränsningar för hantering av profiler och enhete
 
 ## <a name="create-and-manage-autopilot-profiles-in-partner-center"></a>Skapa och hantera Autopilot-profiler i Partnercenter
 
-I Partnercenter kan du skapa Windows Autopilot och tillämpa dem på enheter.
+I Partnercenter kan du skapa Windows Autopilot-distributionsprofiler och tillämpa dem på enheter.
 
 >[!NOTE]
 >Endast administratörsagenter kan skapa och tillämpa profiler.
 
 ### <a name="create-a-new-autopilot-profile"></a>Skapa en ny Autopilot-profil
 
-1. Välj **Kunder** på Menyn i Partnercenter och välj sedan den kund som du skapar Autopilot-profilen för.
+1. Välj **Kunder** på Partnercenter-menyn och välj sedan den kund som du skapar Autopilot-profilen för.
 
 2. På kundens informationssida väljer du **Enheter**.
 
-3. Under **Windows Autopilot väljer du** Lägg till ny **profil.**
+3. Under **Windows Autopilot-profiler väljer** du Lägg till ny **profil.**
 
 4. Ange profilens namn och beskrivning och konfigurera sedan OOBE-inställningarna. Välj mellan:  
 
@@ -75,11 +75,11 @@ I Partnercenter kan du skapa Windows Autopilot och tillämpa dem på enheter.
    - Inaktivera lokalt administratörskonto under installationen
   
    - Hoppa automatiskt över sidor i konfigurationen<br>
-        (Inkluderar Välj *automatiskt installation för arbete eller skola och* hoppa över *installationssidorna för Cortana, OneDrive och OEM-registrering*)
+        (Inkluderar *Välj automatiskt installation för arbete eller skola och* sidor för *Cortana, OneDrive och OEM-registrering)*
   
    - Hoppa över licensavtalet (EULA)<br> 
        >[!IMPORTANT] 
-       >Se [Windows Autopilot eula som avvisas](#windows-autopilot-eula-dismissal) nedan för viktig information att överväga om att hoppa över eula-sidan under Windows-installationen.
+       >Se [Windows Autopilot EULA](#windows-autopilot-eula-dismissal) som finns nedan för viktig information att tänka på om att hoppa över eula-sidan under Windows installation.
 
 5. Välj **Skicka** när du är klar.
 
@@ -125,9 +125,9 @@ När kundens enhet ansluter till Internet laddas den senaste profilversionen ned
 
 2. På kundens informationssida väljer du **Enheter**.
 
-3. Under **Windows Autopilot profiler** väljer du den profil som du behöver uppdatera. Gör de nödvändiga ändringarna och välj sedan **Skicka**.
+3. Under **Windows Autopilot-profiler** väljer du den profil som du behöver uppdatera. Gör de nödvändiga ändringarna och välj sedan **Skicka**.
 
-Om du vill ta bort den här **profilen väljer du** Ta bort profil i det övre högra hörnet på sidan.
+Om du vill ta bort den här **profilen väljer du Ta** bort profil i det övre högra hörnet på sidan.
 
 ### <a name="add-devices-to-a-customers-account"></a>Lägga till enheter till en kunds konto
 
@@ -136,11 +136,11 @@ Om du vill ta bort den här **profilen väljer du** Ta bort profil i det övre h
 
 Innan du kan tillämpa anpassade Autopilot-profiler på kundenheter måste du kunna komma åt kundens enhetslista.
 
-Om du planerar att använda OEM-namn, serienummer och modellkombination bör du vara medveten om dessa begränsningar:
+Om du planerar att använda OEM-namn, serienummer och modellkombination bör du vara medveten om följande begränsningar:
 
-- Den här tuppeln fungerar bara för nyare enheter (till exempel 4 000 hash-värden) och stöds inte för hash-värden på 128b (RS2 och tidigare enheter).
+- Den här tuppeln fungerar bara för nyare enheter (till exempel 4 000 hash-värden) och stöds inte för 128b-hash-värden (RS2 och tidigare enheter).
 
-- Tuppelregistreringen är fallkänslig, så data i filen måste  matcha modell- och tillverkarnamnen exakt som tillhandahålls av OEM-leverantören (maskinvaruprovidern).
+- Tuppeln är fallkänslig, så data i filen måste matcha  modell- och tillverkarnamnen exakt som tillhandahålls av OEM-leverantören (maskinvaruprovidern).
 
 Följ anvisningarna nedan för att lägga till enheter till en kunds konto i Partnercenter.
 
@@ -150,18 +150,18 @@ Följ anvisningarna nedan för att lägga till enheter till en kunds konto i Par
 
 3. Under **Tillämpa profiler på enheter väljer** du Lägg till **enheter.**
 
-4. Ange ett namn för enhetslistan och välj sedan **Bläddra** för att ladda upp kundens lista (i CSV-filformat) till Partnercenter.
+4. Ange ett namn på enhetslistan och välj sedan **Bläddra** för att ladda upp kundens lista (i .csv filformat) till Partnercenter.
 
     >[!NOTE]
-    >Du bör ha fått den här CSV-filen med ditt enhetsköp. Om du inte fick någon CSV-fil kan du skapa en själv genom att följa stegen i Lägga till enheter [i Windows Autopilot](/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell).  
+    >Du bör ha fått den här .csv-filen med ditt enhetsköp. Om du inte fick någon .csv kan du skapa en själv genom att följa stegen i Lägga till enheter [i Windows Autopilot.](/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell)  
 
-5. Ladda upp CSV-filen och välj sedan **Spara.**
+5. Upload den .csv filen och välj sedan **Spara**.
 
-Om du får ett felmeddelande när du försöker ladda upp CSV-filen kontrollerar du filformatet. Du kan använda bara maskinvaruhashen, eller OEM-namnet, serienumret och modellen (i den kolumnordningen) eller produkt-ID:t för Windows. Du kan också använda CSV-exempelfilen från länken bredvid Lägg till enheter för **att** skapa en enhetslista.
+Om du får ett felmeddelande när du försöker ladda upp CSV-filen kontrollerar du filformatet. Du kan använda bara maskinvaruhashen, eller OEM-namnet, serienumret och modellen (i den kolumnordningen) eller produkt-ID:t för Windows. Du kan också använda exempelfilen .csv från länken bredvid Lägg till enheter **för att** skapa en enhetslista.
 
-CSV-filen bör se ut ungefär så här:
+Din .csv bör se ut ungefär så här:
 
-> **Enhetens serienummer, Windows produkt-ID, maskinvaruhash, tillverkarnamn, enhetsmodell**
+> **Enhetens serienummer, Windows produkt-ID, maskinvaru-hash, tillverkarnamn, enhetsmodell**
 
 > **{serialNumber},,,Microsoft Corporation,Surface Laptop**
 
@@ -181,10 +181,10 @@ Install-Script -Name Get-WindowsAutoPilotInfo
 Get-WindowsAutoPilotInfo.ps1 -OutputFile AutoPilotHWID.csv -Partner -Force
 </code></pre>
 
-## <a name="windows-autopilot-eula-dismissal"></a>Windows Autopilot EULA-uppsägning
+## <a name="windows-autopilot-eula-dismissal"></a>Windows Autopilot EULA-avstängning
 
 ### <a name="important-information"></a>VIKTIG INFORMATION
 
-Windows Autopilot kan du konfigurera anpassade installationer av Windows på enheter som du hanterar för dina kunder. Om kunden har behörighet att göra det kan du förhindra eller dölja vissa inställningsskärmar som normalt visas för användare när de operativsystemet operativsystemet, inklusive godkännandeskärmen för EULA (licensavtal).
+Windows Med Autopilot kan du konfigurera anpassade installationer av Windows på enheter som du hanterar för dina kunder. Om kunden har behörighet att göra det kan du ignorera eller dölja vissa inställningsskärmar som normalt visas för användarna när de iserar Windows, inklusive godkännandeskärmen för licensavtalet (licensavtalet).
 
-Genom att använda den här funktionen samtycker du till att utelämna eller dölja skärmar som är utformade för att ge användarna meddelanden eller godkännande av villkoren innebär att du har fått tillräckligt med medgivande och auktorisering från kunden för att dölja villkoren och att du, för din kunds räkning (oavsett om det är en organisation eller en enskild användare i förekommande fall), samt samtycker till eventuella meddelanden och godkänner eventuella villkor som gäller för din kund. Detta inkluderar avtal för licensvillkoren eller meddelandet som visas för användaren om du inte utelämnar eller döljer den med hjälp av det här verktyget. Kunden får inte använda Windows-programvaran på dessa enheter om kunden inte har köpt en giltig licens för programvaran från Microsoft eller dess licensierade distributörer.
+Genom att använda den här funktionen samtycker du till att förhindra eller dölja skärmar som är utformade för att ge användarna meddelanden eller godkännande av villkoren innebär att du har fått tillräckligt med medgivande och behörighet från kunden för att dölja villkoren och att du, för din kunds räkning (oavsett om det är en organisation eller en enskild användare) godkänner du eventuella meddelanden och godkänner eventuella villkor som gäller för din kund. Detta omfattar avtal om villkoren för licensen eller meddelandet som visas för användaren om du inte utelämnar eller döljer den med hjälp av det här verktyget. Kunden får inte använda Windows på dessa enheter om kunden inte har köpt en giltig licens för programvaran från Microsoft eller dess licensierade distributörer.

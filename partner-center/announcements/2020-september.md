@@ -3,18 +3,18 @@ title: Meddelanden september 2020
 description: September 2020-meddelanden för Microsoft Partner Center, till exempel nya funktioner, kampanjer, erbjudanden, marknader eller ändringar i befintliga erbjudanden.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-action-center
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: c2e53e7944ee574539b4ed45a3c30ee843dc0112
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: cccbedfc5e45ca6cf0e78db9c40dbcba2c2fdca2
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114434089"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838775"
 ---
 # <a name="september-2020-announcements"></a>Meddelanden september 2020
 
@@ -277,7 +277,7 @@ PartnerCenter Insights kommer snart att ersätta **myInsights-rapporteringsverkt
 
 ### <a name="what-is-insights"></a>Vad är Insights?
 
-I Insights-instrumentpanelen i Partnercenter får du en enhetlig, 360-gradig vy över partnerorganisationens kpi:er (Key Performance Indicators) för molnprodukter som Office 365, Azure, Dynamics 365 och licensieringsmodeller som Molnlösningsleverantör (CSP) och företagsavtal (EA). Nya funktioner läggs kontinuerligt till och alla rapporter stöder export av [rådata,](../insights-download-reports.md)vilket gör att du kan utföra ad hoc-dataanalys baserat på dina affärsbehov. Med två rapporteringsroller i Partnercenter, [Visningsprogram](../insights-roles.md)för verkställande rapporter och Rapportvisningsprogram, kan du bättre hantera åtkomst och användning Insights i din organisation.
+I Insights-instrumentpanelen i Partnercenter får du en enhetlig, 360-gradig vy över partnerorganisationens kpi:er (Key Performance Indicators) för molnprodukter som Office 365, Azure, Dynamics 365 och licensieringsmodeller som Molnlösningsleverantör (CSP) och företagsavtal (EA). Nya funktioner läggs kontinuerligt till, och alla rapporter stöder export av [rådata,](../insights-download-reports.md)så att du kan utföra ad hoc-dataanalys baserat på dina affärsbehov. Med två rapporteringsroller i Partnercenter, [Visningsprogram](../insights-roles.md)för verkställande rapporter och Rapportvisningsprogram, kan du bättre hantera åtkomst och användning Insights i din organisation.
 
 Nyligen tillagda rapporter:
 
@@ -291,7 +291,7 @@ Här [finns](../partner-center-insights.md) en fullständig lista över rapporte
 
 - På sidan [Partnercenter Insights ofta information](../partner-center-insights.md) om rapportering av uppdateringar och förbättringar.
 
-- Vi rekommenderar att du utforskar dessa nya funktioner och delar din feedback med hjälp av de infogade feedbackverktyg som finns på Insights fliken.
+- Vi rekommenderar att du utforskar dessa nya funktioner och delar din feedback med hjälp av de infogade feedbackverktygen som finns på Insights fliken.
 
 ________________
 
@@ -511,7 +511,7 @@ Vi är glada över att kunna meddela att nya SKU:er är tillgängliga för den 1
 
 #### <a name="intelligent-content-services"></a>Intelligent Content Services
   
-Intelligent Content Services använder avancerad AI för att automatisera insamling, taggning och hantering av innehåll. Den bygger SharePoint för innehållsbearbetning med stora volymer, extrahering av metadata för processautomatisering och mer information om säkerhet och efterlevnad. Intelligenta innehållstjänster förbättrar kunskaps curation och identifieringsupplevelser genom att push-sprida mer exakt och korrekt innehåll till ditt kunskapsnätverk. Nya SKU:er för Intelligent Content Services blir tillgängliga i **prislistan från den 1** oktober (och i förhandsversionen av prislistan den 1 september). 
+Intelligent Content Services använder avancerad AI för att automatisera insamling, taggning och hantering av innehåll. Den bygger på SharePoint för innehållsbearbetning med stora volymer, extrahering av metadata för processautomatisering och mer information om säkerhet och efterlevnad. Intelligenta innehållstjänster förbättrar kunskaps curation och identifieringsupplevelser genom att push-sprida mer exakt och korrekt innehåll till ditt kunskapsnätverk. Nya SKU:er för Intelligent Content Services blir tillgängliga i **prislistan från den 1** oktober (och i förhandsversionen av prislistan den 1 september). 
  
 **Obs!** Intelligent Content Services är ett platshållarnamn för den här produkten, som troligen kommer att ommarkeras efter den 1 oktober 2020.
  
@@ -531,7 +531,7 @@ Från den 1 oktober 2020:
    |Intelligent Content Services (prissättning för ideell personal)|48db24e2-0aac-47bd-bd74-40bde9ff7748|5YI-00005|
    |Intelligent Content Services för lärare och lärare|4a8f9036-791e-4ce4-a788-6c5af859fd82|5Z1-00005|
    |Extra Graph Connector-kapacitet|9c8b008f-d84f-46cd-a588-fea84947161d|1LA-00002|
-   |Extra Graph connector-kapacitet för lärare och lärare|0e0eb210-86e7-4038-9905-4fd5bf71c4bd|1TL-00003|
+   |Extra Graph Connector-kapacitet för lärare och lärare|0e0eb210-86e7-4038-9905-4fd5bf71c4bd|1TL-00003|
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -563,7 +563,7 @@ Förbättringar har lagts till för Partner Incentives för att förbättra din 
 
 - Den nya sökbaserade självhjälpsupplevelsen är tillgänglig i [Partnercenter](https://aka.ms/IncentivesSupport) och [på Microsoft Partner Network](https://partner.microsoft.com/support/?stage=1) för icke-PartnerCenter-konton. Den nya upplevelsen innehåller nya felsökningssteg, vanliga frågor och svar och länkar till relevanta självhjälpsartiklar samt på sidan Microsoft Partner Network support.
 - Initiera en ny supportbegäran direkt i Partnercenter. När du har tittat på den tillgängliga ämnesspecifika hjälpen kan du bara skapa ett ärende direkt från Partnercenter om du fortfarande behöver hjälp.
-- Nya problemomfångsfrågor är tillgängliga för varje självhjälpsämne. Genom att slutföra de här frågorna minskar du mycket av fram- och tillbaka-arbetet i början av supportbiljetten genom att ge agenten många viktiga uppgifter i början.
+- Nya problemomfångsfrågor är tillgängliga för varje självhjälpsämne. Om du slutför de här frågorna minskar du mycket av fram- och tillbaka-arbetet i början av supportbiljetten genom att ge agenten många av de viktiga uppgifterna i början.
 
 
 ### <a name="next-steps"></a>Nästa steg

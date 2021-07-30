@@ -3,18 +3,18 @@ title: Hantera Microsoft Partner Network fördelar
 ms.topic: how-to
 ms.date: 10/21/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-benefits
 description: Anslut till Microsoft Partner Network (MPN) och använd Partnercenter för att hantera medlemskapsförmåner och erbjudanden som kan hjälpa din verksamhet att växa.
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9d5b136dd050f13a4f3fe4fbbc129000e66fe111
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: cd57b7b1f5e9d90d37b6e97ba269fe0f37f2a79d
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276798"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845558"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Hantera dina Microsoft Partner Network medlemskapsförmåner och erbjudanden i Partnercenter
 
@@ -56,7 +56,7 @@ För att aktivera de flesta fördelar eller ladda ned relaterade programvarunyck
 
 ## <a name="azure-and-cloud-products"></a>Azure- och molnprodukter
 
-Fliken **Azure & Cloud Products (Azure-molnprodukter)** visar användningsbaserade prenumerationer (Azure-kredit) och de licensbaserade prenumerationer (till exempel Office 365) som har etablerats till dig, licenskvantitet för varje produkt, erbjudandetypen som etablerade förmånsprodukten till dig, förmånstypen (oavsett om den kommer från kärnan eller inkrementellt) och datumet då förmånen upphör att gälla.
+Fliken **Azure & Cloud Products (Azure & Cloud** Products) visar användningsbaserade prenumerationer (Azure-kredit) och de licensbaserade prenumerationer (till exempel Office 365) som har etablerats till dig, licenskvantitet för varje produkt, erbjudandetypen som etablerade förmånsprodukten till dig, förmånstypen (oavsett om den kommer från kärnan eller inkrementellt) och datumet då förmånen upphör att gälla.
 
 :::image type="content" source="images/benefits/azuretab.png" alt-text="Fliken Azure- och molnprodukter.":::
 
@@ -72,7 +72,7 @@ Du kan etableras med:
 Om du vill Microsoft Azure en prenumeration i Partnercenter tilldelar du åtkomst till en användare i företaget (inklusive gästanvändare) som har en användarpost som skapats i Azure Active Directory.
 För azure$månadskrediten på 100 USD per månad (eller motsvarande i lokal valuta) kan du när som helst lägga till eller ta bort användare från den här prenumerationen. 
 
-För Azure-masskredit (år) är alternativet Ta bort inte tillgängligt i Partnercenter, men du kan överföra masskrediten till någon annan under ditt registreringsår. Azure-masskreditprenumeration (år) kan inte kombineras med andra licensierings-, förbetalda eller krediterbjudanden (det vill säga Microsoft Enterprise-avtal, Cloud Solution Partner, Azure i Open, Azure-pass, Action Pack osv.).
+För Azure-masskredit (år) är alternativet Ta bort inte tillgängligt i Partnercenter, men du kan överföra masskrediten till någon annan under ditt registreringsår. Azure-masskreditprenumeration (år) kan inte kombineras med andra licensierings-, förbetalda eller krediterbjudanden (det vill säga Microsoft företagsavtal, Cloud Solution Partner, Azure i Open, Azure-pass, Action Pack osv.).
 
 ## <a name="license-based-subscriptions"></a>Licensbaserade prenumerationer
 

@@ -1,24 +1,24 @@
 ---
-title: MPN-förmåner – programvara
+title: MPN-förmåner – Programvara
 ms.topic: article
 ms.date: 03/05/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-benefits
 description: Lär dig mer om lokala programvaruprodukter som erbjuds som Microsoft Partner Network (MPN)-förmåner
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 846bad6bdde080288bc7dd916e389dd86b5315f0
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 7544a090b447af37f06ddf31606794a00f357b05
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146297"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114846000"
 ---
-# <a name="mpn-benefits---software"></a>MPN-förmåner – programvara
+# <a name="mpn-benefits---software"></a>MPN-förmåner – Programvara
 
-**Lämpliga roller:** Global | MPN-partneradministratör
+**Lämpliga roller:** Globala | MPN-partneradministratör
 
 ## <a name="overview"></a>Översikt
 
@@ -26,11 +26,11 @@ I den här artikeln beskrivs fördelarna med lokal programvara som är tillgäng
 
 ## <a name="manage-software-products-and-product-keys"></a>Hantera programvaruprodukter och produktnycklar
 
-Välj den intressanta programvaruprodukten och hitta de specifika instruktionerna för varje produkt genom att klicka på listrutan i linje med produktnamnet.
+Välj den programprodukt som är intressant och hitta de specifika instruktionerna för varje produkt genom att klicka på listrutan i linje med produktnamnet.
 
 Om en produkt kräver en produktnyckel för installation uppmanas du att ange en produktnyckel under installationen. Du kan hämta från samma fönster i Partnercenter där du har valt den version av programvaran som du vill ladda ned.
 
-Produktaktivering krävs för **Windows Server- och** **klientoperativsystemet och** alla Microsoft Office **klientprogram**. Alla produkter kräver inte produktaktivering.
+Produktaktivering krävs för **Windows Server-** och **klientoperativsystemet och** **alla Microsoft Office klientprogram**. Alla produkter kräver inte produktaktivering.
 
 :::image type="content" source="images/benefits/mpn-software-benefits-1.png" alt-text="Programvaruproduktförmåner som är tillgängliga för dig på MPN." border="false":::
 
@@ -38,7 +38,7 @@ Produktaktivering krävs för **Windows Server- och** **klientoperativsystemet o
 
 Antalet aktiveringar som räknas mot en produktnyckel baseras på följande scenarier
 
-- Om programvaran installeras på en ny dator ökas antalet produktaktiveringar mot nyckeln med en.
+- Om programvaran installeras på en ny dator ökas antalet produktaktiveringar mot nyckeln med ett.
  
 - Om programvaran installeras på samma dator utan betydande maskinvaruändringar räknas inte produktaktiveringen mot produktnyckeln.
 
@@ -46,9 +46,9 @@ Antalet aktiveringar som räknas mot en produktnyckel baseras på följande scen
 
 ## <a name="troubleshooting-scenarios"></a>Felsökningsscenarier
 
-- **Meddelandet "Ingen ytterligare information tillgänglig" visas för cals-förmåner (Windows Server-klientåtkomstlicens)**
+- **Meddelandet "Ingen ytterligare information tillgänglig" visas för cals-förmåner (Windows Server Client Access License)**
 
-    CALs är inte en nedladdningsbar produkt. Aktiveringen av CALs hanteras på själva serverprodukten.
+    Cals är inte en nedladdningsbar produkt. Aktiveringen av CALs hanteras på själva serverprodukten.
 
 - **Du får ett meddelande om att du har nått maximalt antal tillgängliga aktiveringar för en produktnyckel när du försöker aktivera programvara.**
 

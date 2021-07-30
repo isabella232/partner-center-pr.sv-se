@@ -4,28 +4,28 @@ ms.topic: how-to
 ms.date: 03/17/2021
 description: Lär dig hur du ställer in eller tar bort månatliga Azure-utgiftsbudgetar för dina kunder och hur du visar azure-utgiftsdata och anger budgetrelaterade meddelanden.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 14e901f51841e58b28a3cbbb1b7a19ce89d7c324
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: a2085713f1fef474dd26cb66a30a37f701789859
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855360"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845898"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>Ange, kontrollera eller ta bort månatliga Azure-utgiftsbudgetar för kunder i Partnercenter
 
 **Lämpliga roller:** Administratörsagent
 
-Du kan [ange en månatlig Azure-utgiftsbudget för dina kunder](#set-azure-spending-budget) i Partnercenter. Detta hjälper dina kunder att hantera sina Azure-utgifter. Med det här alternativet kan du jämföra dina kunders Azure-utgifter med budgeten under månaden. Det hjälper även dina kunder att budgetera sina Azure-utgifter så att deras månadsfaktura inte blir högre än förväntat.
+Du kan [ange en månatlig Azure-utgiftsbudget för dina kunder](#set-azure-spending-budget) i Partnercenter. Detta hjälper dina kunder att hantera sina Azure-utgifter. Med det här alternativet kan du jämföra dina kunders Azure-utgifter med budgeten under månaden. Det hjälper även dina kunder att budgetera sina Azure-utgifter så att deras månadsfaktura inte är högre än förväntat.
 
 > [!NOTE]  
 > Den här funktionen är inte tillgänglig i sandbox- eller Test in Production-konton (TIPS).
 
-När du [har angett en Azure-utgiftsbudget för dina kunder](#set-azure-spending-budget)kan du även granska kundanvändningen på följande sätt. De här alternativen kan hjälpa dig att upptäcka felkonfigurerade tjänster eller ovanliga trender som kan tyda på bedrägerier. Du kan sedan arbeta med dina kunder för att identifiera rotorsaken och hantera kostnader. Om det behövs kan du [också ändra kundens budget till](#set-azure-spending-budget) ett högre belopp.
+När du [har angett en Azure-utgiftsbudget för dina](#set-azure-spending-budget)kunder kan du även granska kundanvändningen på följande sätt. De här alternativen kan hjälpa dig att upptäcka felkonfigurerade tjänster eller ovanliga trender som kan tyda på bedrägerier. Du kan sedan arbeta med dina kunder för att identifiera rotorsaken och hantera kostnader. Om det behövs kan du [också ändra kundens budget till](#set-azure-spending-budget) ett högre belopp.
 
 - [Kontrollera aktuella Azure-utgifter](#check-current-azure-spending)
 
@@ -35,7 +35,7 @@ När du [har angett en Azure-utgiftsbudget för dina kunder](#set-azure-spending
 
 Du kan också [ta bort en Azure-utgiftsbudget](#remove-azure-spending-budget) för kunder när som helst.
 
-## <a name="azure-spending-data"></a>Utgiftsdata i Azure
+## <a name="azure-spending-data"></a>Azure-utgiftsdata
 
 Azure-utgiftsdata är en *uppskattning och* de *faktiska faktureringsbeloppen kan variera*. Datavärdet *återspeglar inte skatter,* krediter, justeringar eller andra avgifter som kan tillkomma.
 
@@ -87,13 +87,13 @@ Du kan *spåra dina kunders aktuella Azure-utgifter och månadsbudgetar* när so
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 
-2. På den vänstra menyn under **CSP väljer** du **Azure-utgifter.**
+2. I den vänstra menyn under **CSP väljer** du **Azure-utgifter.**
 
-3. På **sidan Azure-utgifter** under **Kunder med Microsoft Azure prenumerationer** kan du se en översikt över kundernas månatliga budgetar, aktuella utgiftsuppskattningar och procentandelen budget som används.
+3. På **sidan Azure-utgifter** under **Kunder med Microsoft Azure-prenumerationer** kan du se en översikt över kundernas månadsbudgetar, aktuella utgiftsuppskattningar och procentandelen av den budget som används.
 
 ## <a name="notifications-for-budget-limits"></a>Meddelanden om budgetgränser
 
-Du kan *aktivera e-postaviseringar* när kundens månatliga utgifter närmar sig sin budgetgräns. När du aktiverar det här alternativet får du ett meddelande när kunderna använder 80 % eller mer av sin månadsbudget. Det här alternativet hjälper dig att hålla ett öga på Din Azure-faktura. Så här konfigurerar du e-postaviseringar:
+Du kan *aktivera e-postaviseringar* när kundens månatliga utgifter närmar sig sin budgetgräns. När du aktiverar det här alternativet meddelas du när kunderna använder 80 % eller mer av sin månadsbudget. Med det här alternativet kan du hålla ett öga på din Azure-faktura. Så här konfigurerar du e-postaviseringar:
 
 1. Logga in på Partner Center.
 
@@ -103,14 +103,14 @@ Du kan *aktivera e-postaviseringar* när kundens månatliga utgifter närmar sig
 
 4. Konfigurera en önskad e-postadress om du inte har gjort det.
 
-5. Konfigurera önskat språk för meddelandet.
+5. Konfigurera det föredragna språket för meddelandet.
 
 6. Välj **fliken CSP** under **avsnittet Meddelandeinställningar.**
 
-7. Markera alternativet E-post för Azure Spending notification **(Azure-utgiftsavisering)** och **Spara**.
+7. Markera alternativet E-post för **Azure-utgiftsavisering** och **Spara**.
 
 
-## <a name="itemized-costs-by-service"></a>Specificerade kostnader per tjänst
+## <a name="itemized-costs-by-service"></a>Specificerade kostnader efter tjänst
 
 Du kan *visa specificerade kostnader (och beräknad användning) per tjänst för användningsbaserade prenumerationer:*
 
@@ -120,9 +120,9 @@ Du kan *visa specificerade kostnader (och beräknad användning) per tjänst fö
 
 3. På **sidan** Kunder väljer du kundens **företagsnamn**.
 
-4. På kundens **prenumerationssida** går du till **Användningsbaserade prenumerationer** och väljer namnet på **Prenumeration.**
+4. Välj namnet på **Prenumeration** **under** Användningsbaserade prenumerationer på kundens sida **Prenumerationer.**
 
-5. På prenumerationens sida kan du granska De beräknade **kostnaderna** per tjänst och **Beräknad användning för** den aktuella månaden.
+5. På prenumerationssidan kan du granska De beräknade **kostnaderna** per tjänst och Beräknad **användning för** den aktuella månaden.
 
 
 ## <a name="next-steps"></a>Nästa steg

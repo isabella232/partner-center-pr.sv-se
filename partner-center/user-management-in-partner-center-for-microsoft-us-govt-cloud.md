@@ -5,21 +5,21 @@ description: Lär dig hur och var du hanterar Partnercenter för Microsoft Cloud
 ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 26cdd01597b1cea49b36bb06c6d7b4d38c1b7879
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.openlocfilehash: 982095303b748639f4f0bdc893acfa0fad1e9453
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431460"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845669"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Användar- och licenshantering i Partnercenter för Microsoft Cloud for US Government
 
-**Gäller för**: Partner Center for Microsoft Cloud for US Government
+**Gäller för**: PartnerCenter för Microsoft Cloud for US Government
 
 **Lämpliga roller:** Global administratör
 
@@ -27,7 +27,7 @@ ms.locfileid: "112431460"
 
 Om du är inloggad på Partnercenter för Microsoft Cloud for US Government kan du öppna Azure Portal för Microsoft Cloud for US Government utan att behöva logga in igen. Men om du behöver logga in direkt på Azure Portal för Microsoft Cloud for US Government går du till ( och loggar in med autentiseringsuppgifter för global administratör för https://portal.azure.us/) din Azure AD-klient för Microsoft Cloud for US Government.
 
-När du har loggat in på Azure Portal för Microsoft Cloud for US Government öppnar du översiktssidan för Azure Active Directory (Azure AD) och följer sedan anvisningarna i dessa artiklar:
+När du har loggat in på Azure Portal för Microsoft Cloud for US Government öppnar du översiktssidan för Azure Active Directory (Azure AD) och följer sedan anvisningarna i följande artiklar:
 
 > [!NOTE]  
 > Om du väljer länkarna nedan kommer du till en annan webbplats. 

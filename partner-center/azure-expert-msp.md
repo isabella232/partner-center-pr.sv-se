@@ -3,18 +3,18 @@ title: Programmet Azure Expert Managed Services Providers
 ms.topic: article
 ms.date: 07/10/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Lär dig hur du söker Azure Expert-leverantör av hanterade tjänster program för att stå ut från andra partner och få högsta prioritet i hänvisningsmotorn.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 45908ef67beaf2f84ae4cddfe11bfdfe8886ab96
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 7246b2c56af25386cc81faf7c2fccdfda8d6905a
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149816"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838418"
 ---
 # <a name="azure-expert-managed-services-provider-program"></a>Programmet Azure Expert Managed Services Providers
 

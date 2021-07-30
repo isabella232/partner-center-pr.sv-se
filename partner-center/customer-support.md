@@ -2,19 +2,19 @@
 title: Ge support till dina kunder
 description: Lär dig mer om ansvarsområden för kundsupport för partner i CSP-programmet. Omfattar support för fakturering, prenumerationshantering och tekniska problem.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 author: Kim-Davis
 ms.author: kimnich
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 01/22/2021
-ms.openlocfilehash: 83006da3a25285105d6fc073a203bedb19e681fe
-ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
+ms.openlocfilehash: 8e4dcb5b6e330fd72288fb0ec9e2d6222be8dba2
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112489891"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845643"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Tillhandahålla olika typer av support till dina kunder
 
@@ -50,4 +50,4 @@ Varje onlinetjänst har specifika och detaljerade krav för att tillhandahålla 
 
 - [Azure-prenumerationer sålda via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
-- [Microsoft Office 365 prenumerationer sålda via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+- [Microsoft Office 365-prenumerationer sålda via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)

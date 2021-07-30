@@ -3,21 +3,21 @@ title: Testa API för rapportfrågor
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Använd det här API:et för att testa din fråga och validera resultaten i Partner Center Insights.
+ms.subservice: partnercenter-insights
+description: Använd det här API:et för att testa din fråga och validera resultaten i Partner Center-insikter.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 13ad6fe385a4d31390b6806d863da3f647105b2c
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: c83b56b7d52e0b9feb598597b4a8e1fdaec98a3b
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377183"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845609"
 ---
 # <a name="try-report-queries-api"></a>Testa API för rapportfrågor
 
-Det här API:et kör en rapportfrågeutdrag. API:et returnerar bara 100 poster som du som partner kan använda för att kontrollera om data är som förväntat.
+Det här API:et kör en rapportfrågesats. API:et returnerar bara 100 poster som du som partner kan använda för att kontrollera om data är som förväntat.
 
 > [!IMPORTANT]
 > Det här API:et har en tidsgräns för frågekörning på 100 sekunder. Om du märker att API:et tar mer än 100 sekunder är det mycket troligt att frågan är syntaktiskt korrekt, annars skulle du ha fått en annan felkod än 200. Den faktiska rapportgenereringen skickar om frågesyntaxen är korrekt.
@@ -31,7 +31,7 @@ Det här API:et kör en rapportfrågeutdrag. API:et returnerar bara 100 poster s
 
 **Begärandehuvud**
 
-|    Huvud    |    Typ    |    Description    |
+|    Huvud    |    Typ    |    Beskrivning    |
 |    ----    |    ----    |    ----    |
 |    Auktorisering    |    sträng    |    Krävs. Åtkomsttoken Azure Active Directory (AAD) i formuläret`Bearer <token>`    |
 |    Content-Type    |    sträng    |    `Application/JSON`    |
@@ -46,7 +46,7 @@ Ingen
 |    Parameternamn    |    Typ    |    Obligatorisk    |    Beskrivning    |
 |    ----    |    ----    |    ----    |    ----    |
 |    exportQuery     |    sträng    |    No    |    Rapportfrågesträng som måste köras     |
-|    queryId     |    sträng    |    No    |    Ett giltigt befintligt fråge-ID. Ömsesidigt uteslutande med frågesträng som anges i exportQuery-parametern    |
+|    queryId     |    sträng    |    No    |    Ett giltigt befintligt fråge-ID. Ömsesidigt uteslutande med frågesträngen som anges i exportQuery-parametern    |
 |    startTime     |    sträng    |    No    |    Starttid från vilken vi vill ha data. Det åsidosätter det tidsspann som anges i frågan    |
 |    endTime     |    sträng    |    No    |    Sluttid tills vi vill ha data. Det åsidosätter det tidsspann som anges i frågan    |
 |        |        |        |        |

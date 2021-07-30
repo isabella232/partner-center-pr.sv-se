@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 02/05/2021
 description: Lär dig hur du hittar demonstrationer som är tillgängliga för MPN Silver, Guld Action Pack partner.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-benefits
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: c49b8de69d65a4417e9533a80f72c4bd2ef80b8f
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: cd165bfe4bc908b3016d7a3e50c42310dcbd8e0b
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152417"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845541"
 ---
 # <a name="demos-for-mpn-partners--microsoft-365-dynamics-365-teams-and-more"></a>Demonstrationer för MPN-partner – Microsoft 365, Dynamics 365, Teams med mera
 
@@ -32,7 +32,7 @@ Så här kommer du åt MPN-demonstrationerna:
 
 Information om hur du visar befintligt innehåll finns [i Upplevelser.](https://cdx.transform.microsoft.com/experiences)
 
-Information om hur du skapar en klientorganisation [finns i Mina miljöer.](https://cdx.transform.microsoft.com/my-tenants)
+Information om hur du skapar en klientorganisation [finns i Mina miljöer](https://cdx.transform.microsoft.com/my-tenants).
 
 ## <a name="next-steps"></a>Nästa steg
 

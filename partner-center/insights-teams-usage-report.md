@@ -3,17 +3,17 @@ title: Användningsrapport för partnercenterinsiktsteam
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Se vad du gör bra och var du kan förbättra användningen av Teams prenumerationer som du säljer eller hanterar åt dina kunder.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 236cc9d8d2252f5c1b05f8654ec5c81828dc63fe
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 390c81496c16afb20ede58420c1201b24349708e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376871"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114846170"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Teams användningsrapport som är tillgänglig från Partnercenter Insights instrumentpanel
 

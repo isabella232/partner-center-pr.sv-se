@@ -3,18 +3,18 @@ title: Lägga till klienter med erbjudanden om att utvärdera Office 365
 ms.topic: article
 ms.date: 05/13/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Lär dig hur auktoriserade Microsoft-rådgivare kan utöka sina Office 365-prenumerationer. Skapa och skicka office 365-utvärderingsinbjudningar och inköpserbjudanden till klienter.
+ms.subservice: partnercenter-pricing
+description: Lär dig hur auktoriserade Microsoft-rådgivare kan utöka sina Office 365 prenumerationer. Skapa och skicka Office 365 utvärderingsinbjudningar och inköpserbjudanden till klienter.
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bd7e10aaf0bf339f92fbc9dc2f73f403c81693a3
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 9cd73c6701a57463a3e9d10c40d979942a85feb1
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150394"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839353"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Rådgivare: Skapa din klientbas med Office 365-utvärderingsinbjudningar och inköpserbjudanden
 
@@ -33,7 +33,7 @@ När du loggar in på Partnercenter går du till Utvärderingsversion och inköp
 
 Du kan skapa och skicka inbjudningar att skicka till dina kunder så att de kan prova Office 365. En inbjudan kan innehålla en enda utvärderingsprenumeration.
 
-Om du är certifierad för att erbjuda delegerad administration kan du lägga till ett alternativ i utvärderingsinbjudan som gör att du kan administrera prenumerationen åt din kund. Detta gör det enklare för kunden att testa Office 365.
+Om du är certifierad för att erbjuda delegerad administration kan du lägga till ett alternativ i utvärderingsinbjudan som gör att du kan administrera prenumerationen åt din kund. Detta gör det enklare för kunden att prova Office 365.
 
 När du skapar en utvärderingsinbjudan skapas en anpassad URL åt dig. URL:en har en inbäddad kod som identifierar dig som prenumerationsrådgivare. Du kan använda den här URL:en för en kund eller för flera kunder. Du kan skicka URL:en till kunden i ett e-postmeddelande eller publicera den på din webbplats.
 Mer information om utvärderingsinbjudningar finns i Skapa [en utvärderingsinbjudan.](advisors-create-a-trial-invitation.md)
@@ -43,7 +43,7 @@ Mer information om utvärderingsinbjudningar finns i Skapa [en utvärderingsinbj
 > [!NOTE]
 > Den här funktionen är endast tillgänglig för Microsoft-partner som är auktoriserade prenumerationsrådgivare.
 
-När du har skickat en utvärderingsinbjudan till dina kunder följer du upp med ett inköpserbjudande. Du kan anpassa ett erbjudande så att det innehåller de specifika tjänster som kunden behöver och rätt antal användarlicenser. Om du är certifierad för att erbjuda delegerad administration kan du lägga till ett alternativ i inköpserbjudandet som gör att du kan administrera prenumerationen åt din kund.
+När du har skickat en utvärderingsinbjudan till dina kunder kan du följa upp ett inköpserbjudande. Du kan anpassa ett erbjudande så att det innehåller de specifika tjänster som kunderna behöver och rätt antal användarlicenser. Om du är certifierad för att erbjuda delegerad administration kan du lägga till ett alternativ i inköpserbjudandet som gör att du kan administrera prenumerationen åt din kund.
 
 När du skapar inköpserbjudandet skapas en anpassad URL åt dig. URL:en har en inbäddad kod som identifierar dig som prenumerationsrådgivare. Du kan använda den här URL:en för en kund eller många kunder. Skicka URL:en till kunden i ett e-postmeddelande eller publicera den på din webbplats.
 
@@ -51,6 +51,6 @@ Om kunden vill ha ett annat antal licenser kan du skicka ett nytt erbjudande ell
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Skapa ett inköpserbjudande](advisor-create-a-purchase-offer.md).
+- [Skapa ett inköpserbjudande.](advisor-create-a-purchase-offer.md)
 
-- [Partner kan inte längre registreras som rådgivare](advisors-no-csp.md)
+- [Partner kan inte längre registrera sig som rådgivare](advisors-no-csp.md)

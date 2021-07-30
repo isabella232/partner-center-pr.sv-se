@@ -1,7 +1,7 @@
 ---
 title: Verifiera din företagsprofil
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Lär dig hur du verifierar företagets information, till exempel primär kontakt, adress och programinformation. Du kan också uppdatera dina juridiska adresser och faktureringsadresser.
 author: parthpandyaMSFT
 ms.author: parthp
@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: 9f9a055ce3bfbff568287267b74b04e8f9d03ad1
-ms.sourcegitcommit: 8235c89e789cdb5115fc1c19151fa8e97c743fe5
+ms.openlocfilehash: 5b45b6705effae073fd7c41397b0fa020b830cf7
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "113080630"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845847"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Verifiera eller uppdatera företagets profilinformation 
 
@@ -30,7 +30,7 @@ Din partnerprofil består av din juridiska företagsinformation, primära kontak
 
 ## <a name="locate-the-legal-business-profile"></a>Leta upp den juridiska företagsprofilen
 
-1. I Partnercenter väljer du **ikonen** Inställningar och sedan **Kontoinställningar.**
+1. I Partnercenter väljer du **ikonen Inställningar** och sedan **Kontoinställningar.**
  
 1. Välj **Organisationsprofil.** 
 
@@ -44,12 +44,12 @@ Uppdatera företagets juridiska namn eller adress i Partnercenter.
 
 >[!Important]
 >- För Microsoft Partner Network (MPN)-konton kan både den globala administratören och kontoadministratören uppdatera företagets juridiska namn.
->- För Molnlösningsleverantör (CSP) Indirekt återförsäljare kan endast den globala administratören uppdatera företagets juridiska namn. 
+>- För Molnlösningsleverantör (CSP) Indirect reseller-konton kan endast den globala administratören uppdatera företagets juridiska namn. 
 >- Direktfaktureringspartner och indirekta leverantörer kan inte ändra företagets juridiska namn om kontoverifieringsstatusen **är Auktoriserad.** Om du behöver ändra namnet måste du skapa en [supportbiljett.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)
 
 
 
-1. I Partnercenter väljer du **Inställningar,** **Kontoinställningar** och sedan **Organisationsprofil.**
+1. I Partnercenter väljer **du Inställningar,** **väljer Kontoinställningar** och sedan **Organisationsprofil.**
 
 2. Välj **Juridiskt** och välj sedan den juridiska företagsprofil (partner eller återförsäljare) som du vill uppdatera.
 
@@ -82,7 +82,7 @@ Om du vill göra de här uppdateringarna måste du vara antingen global administ
 
 Så här uppdaterar du MPN-ID:t som är associerat med ditt CSP-konto:
 
-1. Logga in på instrumentpanelen i [Partnercenter](https://partner.microsoft.com/dashboard/home) som global administratör med autentiseringsuppgifterna för ditt CSP-konto och välj **sedan Inställningar.** (Dina MPN- och CSP-autentiseringsuppgifter kan vara olika.)
+1. Logga in på instrumentpanelen i [Partnercenter](https://partner.microsoft.com/dashboard/home) som global administratör med autentiseringsuppgifterna för ditt CSP-konto och välj **sedan Inställningar**. (Dina MPN- och CSP-autentiseringsuppgifter kan vara olika.)
  
 1. Välj **Identifierare** från **Kontoinställningar**.
 

@@ -3,27 +3,27 @@ title: Köpa Microsoft Azure reservationer för kunder
 description: Lär dig hur du köper Eller köper Azure-reservationer åt dina kunder i Partnercenter. Här visas även marknader där Azure-reservationer inte är tillgängliga.
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: cd8a78edab25b94e678aafd61ca96e61a625fb07
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 911c7271d852bef040dc7cc8f74eff2c8b865125
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149544"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838367"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Köp Microsoft Azure-reservationer åt dina kunder i Partnercenter
 
-**Lämpliga roller:** Administratörsagent | Globala | Supportagent för | Försäljningsagent | Administratör för användarhantering
+**Lämpliga roller:** Administratörsagent | Globala | Supportagent | Försäljningsagent | Administratör för användarhantering
 
 Den här artikeln beskriver hur du köper eller köper Azure-reservationer åt dina kunder i Partnercenter. Den identifierar även marknader där Azure-reservationer inte är tillgängliga.
  
 > [!NOTE]
-> Den här artikeln gäller endast för partner i programmet Molnlösningsleverantör (CSP). Kunder som använder andra typer av prenumerationer (t.ex. prenumerationer med användningsbaserade betalning, enskilda prenumerationer Microsoft-kundavtal eller Enterprise-avtal) bör i stället läsa den här dokumentationen om [Azure-reservationer.](/azure/cost-management-billing/reservations)
+> Den här artikeln gäller endast för partner i Molnlösningsleverantör-programmet (CSP). Kunder som använder andra typer av prenumerationer (till exempel betala enligt användning, enskilda prenumerationer, Microsoft-kundavtal- eller företagsavtal-prenumerationer) bör i stället läsa dokumentationen om [Azure-reservationer.](/azure/cost-management-billing/reservations)
 
 ## <a name="before-you-begin"></a>Innan du börjar
 
@@ -87,7 +87,7 @@ Granska viktig information nedan innan du köper Azure-reservationer åt dina ku
 > | Falklandsöarna     | Nauru     | U.S. Outlying Islands   |
 > | Franska Guyana     | Nya Kaledonien     | Vanuatu   |
 > | Franska Polynesien     | Niger     | Vatikanstaten   |
-> | Franska sydterritorierna     | Niue     | Wallis ochUna   |
+> | Franska sydterritorierna     | Niue     | Wallis och Spanuna   |
 > | Gabon     | Norfolkön     | Jemen   |
 > | Gambia     | Nordmarianerna     |    |
 > | Gibraltar     | Palau       |    |
@@ -98,7 +98,7 @@ Följ stegen nedan för att köpa Microsoft Azure reservationer åt dina kunder 
 
 1. Välj **Kunder** på menyn i Partnercenter.  
 
-2. På sidan Kunder hittar du kunden som vill köpa Azure-reservationer och väljer sedan **nedåtpilen** för att expandera kundens rad.  
+2. På sidan **Kunder** hittar du den kund som vill köpa Azure-reservationer och väljer sedan nedåtpilen för att expandera kundens rad.  
 
 3. Välj **Lägg till** produkter och välj sedan **Azure**. 
 
@@ -113,9 +113,9 @@ Följ stegen nedan för att köpa Microsoft Azure reservationer åt dina kunder 
    >[!IMPORTANT]
    >Om kunden inte redan har en aktiv Azure-prenumeration väljer du Azure för **att** lägga till en nu. 
 
-5. Använd filtren för att hitta Azure-reservationer på virtuella datorer som uppfyller dina kunders krav.  
+5. Använd filtren för att hitta Azure-reservationer på virtuella datorer som uppfyller kundens krav.  
 
-6. När du har hittat de reservationer som du vill köpa anger du antalet reserverade instanser som kunden behöver i **Kvantitet** och väljer sedan Lägg **till i kundvagn.**  
+6. När du har hittat de reservationer som du vill köpa anger du  antalet reserverade instanser som kunden behöver i Kvantitet och väljer sedan Lägg **till i kundvagn.**  
 
 7. Upprepa steg 5 och 6 tills du har lagt till alla nödvändiga objekt i ordern. Välj **Granska** för att kontrollera att beställningen är korrekt.  
 
@@ -123,22 +123,22 @@ Följ stegen nedan för att köpa Microsoft Azure reservationer åt dina kunder 
 
     - Verifiera eller ändra antalet reserverade instanser.
 
-    - Välj reservationens omfång. Reservationens omfång kan omfatta en prenumeration eller flera prenumerationer (delat omfång). Om du omfångsbefattningar reservationen till en enda prenumeration tillämpas reservationsrabatten endast på den här prenumerationen. Om du väljer delad tillämpas reservationsrabatten på alla prenumerationer i kundens faktureringskontext. 
+    - Välj reservationens omfång. Reservationens omfång kan omfatta en prenumeration eller flera prenumerationer (delat omfång). Om du omfångsbear reservationen till en enda prenumeration tillämpas reservationsrabatten endast på den här prenumerationen. Om du väljer delad tillämpas reservationsrabatten på alla prenumerationer i kundens faktureringskontext. 
 
       >[!NOTE] 
       >Om du väljer att begränsa reservationens omfång till en enda Azure-prenumeration kan du behöva öka prenumerationens vCPU-kvot. Om du vill öka prenumerationens vCPU-kvot måste du skapa en supportbegäran i Azure Portal. Följ anvisningarna [i det här avsnittet](/azure/azure-supportability/resource-manager-core-quotas-request) för att skapa begäran. 
 
       >[!NOTE]   
-      >Om kunden omfattas av Azure-planen **ställs omfånget**  in på **Delad**. 
+      >Om kunden omfattas av Azure-planen **anges Omfång** till **Delad.** 
 
     - Om du är leverantörspartner väljer du den återförsäljare som du vill associera med produkten.
     
-    - Om din Azure-reservation stöder alternativet Faktureringsplan kan du välja faktureringsfrekvens per månad från den nedrullningsbara menyn. 
+    - Om din Azure-reservation stöder alternativet Faktureringsplan kan du välja faktureringsfrekvensen månadsvis från den nedrullningsbara menyn. 
     - Om din Azure-reservation inte stöder alternativet Faktureringsplan används faktureringsfrekvensen som standard en gång. 
 
-9. Välj **Köp** för att köpa beställningen. Information om din beställning, inklusive ordernummer, visas på **sidan** Bekräfta. Välj **Klar** för att gå till **sidan Orderhistorik.** 
+9. Välj **Köp** för att köpa beställningen. Information om din beställning, inklusive ditt ordernummer, visas på **sidan** Bekräfta. Välj **Klar** för att gå till sidan **Orderhistorik.** 
 
-10. Om du vill hantera kundens reservation i Azure Portal du kunden på sidan **Kunder** och väljer sedan nedåtpilen för att expandera kundens rad. Välj **Microsoft Azure-hanteringsportal** för att öppna kundens post i Azure Portal.
+10. Om du vill hantera kundens reservation i Azure Portal du kunden på sidan **Kunder** och väljer sedan nedåtpilen för att expandera kundens rad. Välj **Microsoft Azure Hanteringsportal** för att öppna kundens post i Azure Portal.
 
 ## <a name="next-steps"></a>Nästa steg
 

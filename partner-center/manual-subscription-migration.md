@@ -3,30 +3,30 @@ title: Migrera kvalificerade Dynamics 365-prenumerationer
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Lär dig hur du migrerar från kvalificerade, grundläggande Dynamics 365-prenumerationer till en ny prenumeration innan befintliga prenumerationer upphör att gälla.
 author: Brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5ba6992eff64031aed0dafeb5a5010983396ab63
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 3315fe6428613c882bc654d03ce74a57303fba88
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151652"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839725"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Migrera Dynamics 365 och en plan för kundengagemang från Basic (kvalificerade erbjudanden) till nyare versioner
 
-**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Administratörsagent | Försäljningsagent
+**Lämpliga roller:** Globala | Administratörsbehörighet för | Administratörsagent | Försäljningsagent
 
-Från och med den 1 januari 2019 kan kunder med Prenumerationer på Dynamics 365 for Sales/Customer Engagement från Basic-prenumerationer (kvalificerade erbjudanden) inte längre förnya dessa äldre erbjudanden. befintliga prenumerationer förnyas inte automatiskt när de upphör att gälla. På prenumerationens informationssida ändras prenumerationsstatusen till "Upphör att gälla [datum]" från "Förnyas automatiskt [datum]". 
+Från och med 1 januari 2019 kan kunder med Prenumerationer på Dynamics 365 for Sales/Customer Engagement från Basic-prenumerationer (kvalificerade erbjudanden) inte längre förnya dessa äldre erbjudanden. befintliga prenumerationer förnyas inte automatiskt när de upphör att gälla. På prenumerationens informationssida ändras prenumerationsstatusen till "Upphör [datum]" från "Förnyas automatiskt [datum]". 
 
 För att säkerställa kontinuitet för kunder bör du föra över dem med utgående prenumerationer till ett alternativ som stöds, som anges nedan. Vi rekommenderar att du flyttar kunder till nya prenumerationer före prenumerationens årliga slutdatum för att undvika eventuella tjänstavbrott för kunder.
 
-Om du använder API:et (antingen KANT eller Partnercenter) kan du hitta prenumerationer som går ut genom att utvärdera slutdatumet för prenumerationen tillsammans med egenskapen för automatisk förnyelse = Falskt. Prenumerationerna i fråga ställs in på förnya automatiskt = Falskt den 1 januari 2019. Du kan när som helst flytta kunder till en ny plan. 
+Om du använder API:et (antingenNTINGEN ELLER Partnercenter) kan du hitta utgångna prenumerationer genom att utvärdera slutdatumet för prenumerationen tillsammans med egenskapen förnya automatiskt = Falskt. Prenumerationerna i fråga ställs in på förnya automatiskt = Falskt den 1 januari 2019. Du kan när som helst flytta kunder till en ny plan. 
 
-### <a name="the-dynamics-365-offers-being-retired"></a>Dynamics 365-erbjudanden som dras tillbaka
+### <a name="the-dynamics-365-offers-being-retired"></a>Dynamics 365-erbjudanden dras tillbaka
 
 - Dynamics 365 for Sales Enterprise Edition CRMOL Basic (kvalificerat erbjudande)
 - Dynamics 365 for Sales Enterprise Edition CRMOL Basic (kvalificerat erbjudande) för lärare och lärare
@@ -35,7 +35,7 @@ Om du använder API:et (antingen KANT eller Partnercenter) kan du hitta prenumer
 - Dynamics 365 for Sales Enterprise Edition From SA for CRM Basic (kvalificerat erbjudande)
 - Dynamics 365 for Sales Enterprise Edition From SA for CRM Basic (kvalificerat erbjudande) för lärare och lärare
 - Dynamics 365 for Sales Enterprise Edition From SA for CRM Basic (kvalificerat erbjudande) för studenter
-- Dynamics 365 for Sales Enterprise Edition (Myndighetspriser) från SA för CRM Basic (kvalificerat erbjudande)
+- Dynamics 365 for Sales Enterprise Edition (government pricing) från SA för CRM Basic (kvalificerat erbjudande)
 - Dynamics 365 for Sales Enterprise Edition Add-On for CRM Basic (kvalificerat erbjudande)
 - Dynamics 365 for Sales Enterprise Edition Add-On for CRM Basic (kvalificerat erbjudande) för lärare och lärare
 - Dynamics 365 for Sales Enterprise Edition Add-On for CRM Basic (kvalificerat erbjudande) för studenter
@@ -46,10 +46,10 @@ Om du använder API:et (antingen KANT eller Partnercenter) kan du hitta prenumer
 - Dynamics 365 Customer Engagement Plan Enterprise Edition CRMOL Basic (kvalificerat erbjudande) för lärare och lärare
 - Dynamics 365 Customer Engagement Plan Enterprise Edition från SA för CRM Basic (kvalificerat erbjudande)
 - Dynamics 365 Customer Engagement Plan Enterprise Edition (Myndighetspriser) från SA för CRM Basic (kvalificerat erbjudande)
-- Dynamics 365 Customer Engagement Plan Enterprise Edition från SA för CRM Basic (kvalificerat erbjudande) för studenter
+- Dynamics 365 Customer Engagement Plan Enterprise Edition From SA for CRM Basic (kvalificerat erbjudande) för studenter
 - Dynamics 365 Customer Engagement Plan Enterprise Edition from SA for CRM Basic (kvalificerat erbjudande) för lärare och lärare
 - Dynamics 365 Customer Engagement Plan Enterprise Edition Add-On for CRM Basic (kvalificerat erbjudande)
-- Dynamics 365 Customer Engagement Plan Enterprise Edition (Government Pricing) Add-On för CRM Basic (kvalificerat erbjudande)
+- Dynamics 365 Customer Engagement Plan Enterprise Edition (Government Pricing) Add-On for CRM Basic (kvalificerat erbjudande)
 - Dynamics 365 Customer Engagement Plan Enterprise Edition Add-On for CRM Basic (kvalificerat erbjudande) för studenter
 - Dynamics 365 Customer Engagement Plan Enterprise Edition Add-On for CRM Basic (kvalificerat erbjudande) för lärare och lärare
 

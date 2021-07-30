@@ -3,17 +3,17 @@ title: Rapport om Dynamics-användning i Partnercenter-insikter
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Se vad du gör bra och var du kan förbättra användningen av Dynamics-prenumerationer som du säljer eller hanterar för dina kunder.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 99536a8a80f11a8aa31c83349686b90b6eca7a28
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: ecc4edbd509557da1314eb7e54fcc013e41682a7
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377225"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838316"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Dynamics-användningsrapport som är tillgänglig från Partnercenter Insights instrumentpanel
 
@@ -60,7 +60,7 @@ I **tabellen Antal länder/regioner** visas det totala antalet länder/regioner 
 
 Du kan söka efter och välja ett land i rutnätet för att zooma till platsen på kartan. Välj alternativet **Start** på kartan för att återgå till den ursprungliga vyn.
 
-:::image type="content" source="images/insights/dynamics-usage-geography.png" alt-text="Dynamics-användning efter geografiskt område.":::
+:::image type="content" source="images/insights/dynamics-usage-geography.png" alt-text="Dynamics-användning per geografiskt område.":::
 
 ## <a name="dynamics-usage-by-sku"></a>Dynamics-användning efter SKU
 

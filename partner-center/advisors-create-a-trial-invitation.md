@@ -3,18 +3,18 @@ title: Skapa en inbjudan om att utvärdera Office 365
 ms.topic: article
 ms.date: 05/13/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Lär dig hur partner kan skapa och skicka testinbjudningar för sina klienter för att prova Office 365. Partner är mycket en auktoriserad prenumerationsrådgivare.
+ms.subservice: partnercenter-pricing
+description: Lär dig hur partner kan skapa och skicka utvärderingsinbjudningar för sina klienter för att Office 365. Partner är mycket auktoriserade prenumerationsrådgivare.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 5e34ebe290941ee24a9e945c1b1b34abd9f4baa3
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: d451218722b599569c7757c05e93af2c052a1eb8
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150326"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839336"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Rådgivare: Skapa och skicka en utvärderingsinbjudan för klienter att prova Office 365
 
@@ -24,13 +24,13 @@ ms.locfileid: "110150326"
 > [!NOTE]
 > Den här funktionen är endast tillgänglig för Microsoft-partner som är auktoriserade prenumerationsrådgivare.
 
-Du kan skapa och skicka utvärderingsinbjudningar till dina klienter så att de kan prova Office 365. När du skapar en utvärderingsinbjudan skapar **guiden Skapa en utvärderingsinbjudan** en anpassad URL åt dig. URL:en har en inbäddad kod som identifierar dig som prenumerationsrådgivare. Du kan använda den här URL:en för en eller flera klienter. Skicka URL:en till klienten i ett e-postmeddelande eller använd URL:en i andra dokument. Prenumerationen kan innehålla en eller flera tjänster, beroende på det specifika erbjudandet. En inbjudan kan bara skickas för en utvärderingsprenumeration i taget.
+Du kan skapa och skicka utvärderingsinbjudningar till dina klienter så att de kan prova Office 365. När du skapar en utvärderingsinbjudan skapar **guiden Skapa utvärderingsinbjudan** en anpassad URL åt dig. URL:en har en inbäddad kod som identifierar dig som prenumerationsrådgivare. Du kan använda den här URL:en för en eller flera klienter. Skicka URL:en till klienten i ett e-postmeddelande eller använd URL:en i andra dokument. Prenumerationen kan innehålla en eller flera tjänster, beroende på det specifika erbjudandet. En inbjudan kan bara skickas för en utvärderingsprenumeration i taget.
 
-Om du är certifierad för att erbjuda delegerad administration kan du lägga till ett alternativ i utvärderingsinbjudan som gör att du kan administrera kontot för din klients räkning. Det gör det enklare för klienten att testa Office 365.
+Om du är certifierad för att erbjuda delegerad administration kan du lägga till ett alternativ i utvärderingsinbjudan som gör att du kan administrera kontot för din klients räkning. Detta gör det enklare för klienten att prova Office 365.
 
 ## <a name="to-create-a-trial-invitation"></a>Så här skapar du en utvärderingsinbjudan
 
-1. Gå till **Utvärderingsversioner och**  >  **inköpserbjudanden Skapa inbjudningar.**
+1. Gå till **Utvärderingsversioner och köperbjudanden**  >  **Skapa inbjudningar**.
 
 2. På sidan **Skapa en utvärderingsinbjudan** väljer du de alternativ för utvärderingsinbjudan som du vill inkludera:
 

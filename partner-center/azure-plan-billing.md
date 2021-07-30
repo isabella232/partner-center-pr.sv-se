@@ -3,18 +3,18 @@ title: Fakturering av Azure-plan – & rekognoseringsfiler
 ms.topic: article
 ms.date: 05/19/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 description: Lär dig hur du får åtkomst till och förstår strukturen för faktura- och avstämningsfiler relaterade till fakturering för Azure-planen.
 author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c7c06f5ed7b147625afb5020f63ead411ef58fa8
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: 08b5dc73868b061b7941e6862439e226c6bb9a7a
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551528"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838435"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Ny handelsupplevelse i CSP – Azure-fakturering 
 
@@ -80,9 +80,9 @@ Så här kommer du åt fakturan och avstämningsfilen:
     - ResourceGroup 2
         - Virtuell dator (resurs)
             - Datormätare
-        - Premium SSD hanterad disk (resurs)
-            - Lagringskapacitetsmätare
-            - Mätare för lagringsåtgärder
+        - Premium SSD-hanterad disk (resurs)
+            - Storage kapacitetsmätare
+            - Storage för åtgärder
 
 - Prenumeration B – ResourceGroup 1 – Azure SQL (resurs) – DTU-mätare – VPN Gateway (resurs) – VPN-gatewaymätare
 
@@ -115,13 +115,13 @@ Så här kommer du åt fakturan och avstämningsfilen:
 4. Om mätaren, eller resurser som skickar  mätaren, är kvalificerad för partner-intjänad kredit för tjänster som hanteras under en del av månaden, innehåller rekognoseringsfilen två faktureringsrader. En rad representerar de dagar då mätaren kvalificerades och den andra raden representerar de dagar då mätaren inte var kvalificerad.
 
 >[!NOTE]
->Du kan stämma av din Azure-förbrukning i din rekognoseringsfil för ett köp. Det gör du genom att gå till din dagliga klassificerade rekognoseringsfil för användning och söka efter ditt SubscriptionID. Då visas alla kostnader som är kopplade till ditt Azure-plan-ID. Ditt Azure SubscriptionID visas som EntitlementID.
+>Du kan stämma av din Azure-förbrukning i din rekognoseringsfil för ett köp. Det gör du genom att gå till din dagliga klassificerade rekognoseringsfil och söka efter ditt SubscriptionID. Då visas alla kostnader som är kopplade till ditt Azure-plan-ID. Ditt Azure SubscriptionID visas som EntitlementID.
 
 ## <a name="read-the-daily-usage-file"></a>Läsa filen för daglig användning
 
 - Prenumerationsmätare under en Azure-plan klassificeras och ackumuleras dagligen.
 
-- **Partnerns intjänade kredit för** tjänster som hanteras fastställs och tillämpas dagligen.
+- **Partnerns intjänade kredit för** hanterade tjänster fastställs och tillämpas dagligen.
 
 - Varje prenumerationsmätare har en rad för varje dag i månaden där det fanns förbrukning.
 
@@ -139,7 +139,7 @@ Så här kommer du åt fakturan och avstämningsfilen:
 
 Azure-tjänster via en Azure-plan prissätts i USD och faktureras i kundens landstilldelade valuta. Om faktureringsvalutan inte är USD visas det valutautbytespris (FX) som används på den sista sidan på fakturan. FX-priser bestäms varje månad och tillämpas på följande faktura. En fullständig lista över ländervalutor finns i matrisen för nya handelserbjudanden [för landstillgänglighet och kundvaluta.](https://go.microsoft.com/fwlink/?linkid=2112354)
 
-Microsoft tillämpar en förutbestämd växelkurs för baspriser i USD för att komma fram till de totala avgifter som tillkommer för Azure-tjänster som köpts eller förbrukats varje kalendermånad. Den månatliga växelkursen är den genomsnittliga kursen som publiceras avNota Pernger (vanligtvis) två arbetsdagar före den föregående månadens slut kl. 16:00 GMT. 
+Microsoft tillämpar en förutbestämd växelkurs för baspriser i USD för att komma fram till de totala avgifter som tillkommer för Azure-tjänster som köpts eller förbrukats varje kalendermånad. Den månatliga växelkursen är den genomsnittliga kursen som publiceras av The Mid-rate (vanligtvis) två arbetsdagar före föregående månadsslut kl. 16:00 GMT. 
 
 **Till exempel** Microsofts växlingskurs i december skulle vara Mid-rate på Eller runt den 29 november för en viss valuta. Priset tillämpas på alla inköp i den valutan från 1 december till 31 december. 
 

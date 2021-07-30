@@ -2,19 +2,19 @@
 title: Analysera prestanda för indirekta återförsäljare
 description: Använd analyser för att lära dig hur det går för dina indirekta återförsäljare, både deras framgångar och områden som kan behöva mer uppmärksamhet.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: shganesh
 ms.author: shganesh
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: 50a527f8fd3690ff73b198e572b356706889e72b
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: a7d04e437a2546c887b40f37a7381605535e8ca9
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150190"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839098"
 ---
 # <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>Använda analys för att analysera prestanda för dina indirekta återförsäljare
 
@@ -44,9 +44,9 @@ Vi spårar följande mått:
 
 **Främsta produkter efter prenumerationsantal**  
  - **Dynamics 365:** Dynamics 365-produkter sorterade efter sålda prenumerationer  
- - **EMS:** Antal sålda Enterprise Management Services-prenumerationer  
+ - **EMS**: Antal sålda Enterprise Management Services-prenumerationer  
  - **Microsoft 365:** Antal sålda Microsoft 365 prenumerationer  
- - **Office 365:** Office 365-produkter sorterade efter sålda prenumerationer  
+ - **Office 365:** Office 365 produkter sorterade efter sålda prenumerationer  
 
 **Nya prenumerationer**  
  - Antalet nya prenumerationer som lagts till efter datum  
@@ -63,7 +63,7 @@ Vi spårar följande mått:
 
 **MPA-signerad status**
 
-Det här avsnittet innehåller status för MPA-signerad status för CSP Indirect Resellers.
+Det här avsnittet innehåller statusen för MPA-signerad status för CSP Indirect Resellers.
 
  - **Återförsäljares namn:** Namnet på den indirekta CSP-återförsäljaren
  - **MPN-ID:** MPN-ID för den indirekta återförsäljaren

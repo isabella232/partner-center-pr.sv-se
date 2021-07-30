@@ -3,18 +3,18 @@ title: Samarbeta med indirekta återförsäljare i CSP
 description: Som indirekt leverantör eller distributör kan du lära dig att expandera genom att samarbeta med indirekta återförsäljare. Detta omfattar uppgifter som du kan utföra i Partnercenter.
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: d72b7de4d1411b602e8a4c9ab69da5e643d3a560
-ms.sourcegitcommit: 9667763ae6eb405314dbb96bd4fa484ec964ab58
+ms.openlocfilehash: c773d21f5e19bdb9712ed7a5d62061187d83281f
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/15/2021
-ms.locfileid: "114224708"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839778"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Samarbeta med indirekta återförsäljare i programmet Cloud Solution Provider
 
@@ -24,7 +24,7 @@ Med en sådan komplex och snabbt föränderlig teknikmarknad vill kunderna ha de
 
 Nya återförsäljare kommer ut på marknaden och söker sätt att erbjuda sina lösningar till kunder utanför deras marknader och platser. Som etablerad teknikleverantör är du väl positionerad att vara deras väg till marknaden. Samarbeta med indirekta återförsäljare i Molnlösningsleverantör-programmet (CSP) för att ansluta till andra partner, få nya lösningar på marknaden och påskynda kundernas implementering av molntjänster.
 
-I modellen med indirekta leverantörer och återförsäljare (två nivåer) samarbetar du med indirekta återförsäljare för att erbjuda Microsofts molnlösningar till kunder. Du köper produkter och prenumerationer direkt från Microsoft och erbjuder sedan dessa lösningar till kunder via dina återförsäljare.
+I modellen med indirekt leverantörsåterförsäljare (två nivåer) samarbetar du med indirekta återförsäljare för att erbjuda Microsofts molnlösningar till kunder. Du köper produkter och prenumerationer direkt från Microsoft och erbjuder sedan dessa lösningar till kunder via dina återförsäljare.
 
 Som indirekt leverantör använder du Partnercenter för att:
 
@@ -56,10 +56,10 @@ Slutför följande steg för att upprätta och hantera ditt partnerskap med indi
 
    - Upprätta återförsäljarrelationer med befintliga kunder
 
-När du har slutfört de här stegen kan du hantera dina återförsäljarpartner på sidan **Indirekta återförsäljare** från **partnercentermenyn.**
+När du har slutfört de här stegen kan du hantera dina återförsäljarpartners på sidan **Indirekta återförsäljare** från menyn **i Partnercenter.**
 
 > [!IMPORTANT]
-> Innan du kan börja arbeta med återförsäljare måste de registreras som indirekta återförsäljare i CSP-programmet och ha Partner Center-konton. Peka dina återförsäljare till [Partner med indirekta leverantörer i CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) för information om registrering i CSP.
+> Innan du kan börja arbeta med återförsäljare måste de registreras som indirekta återförsäljare i CSP-programmet och ha Partner Center-konton. Peka dina återförsäljare till [Partner med indirekta leverantörer i CSP för](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) information om registrering i CSP.
 
 ## <a name="connect-with-indirect-resellers"></a>Anslut med indirekta återförsäljare
 
@@ -104,7 +104,7 @@ Om du väljer att arbeta med en indirekt återförsäljare för befintliga prenu
 
 Följ stegen nedan om du vill ta bort samarbetet med en befintlig indirekt återförsäljare. 
 
-1. På menyn Partnercenter på instrumentpanelen väljer du **Indirekta återförsäljare.** 
+1. På menyn i Partnercenter på instrumentpanelen väljer **du Indirekta återförsäljare.** 
 
 2. På sidan **Indirekta återförsäljare väljer** du Ta bort **partnerskap**. Ett meddelande visas som ber om bekräftelse. Fortsätt genom att välja **Ja.**
 

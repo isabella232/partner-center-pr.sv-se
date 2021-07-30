@@ -1,22 +1,22 @@
 ---
-title: Fält för CSV-fil för att importera flera användare för ett kundkonto
+title: Fält för .csv för att importera flera användare för ett kundkonto
 ms.topic: article
 ms.date: 08/01/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: Om du vill lägga till flera användare till ett kundkonto skapar du en fil med kommaavgränsade värden (.csv) med lämpliga fält.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 152daadde25a9325937797f7a3daa90dfb59a9b4
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 7d8cbeecf081dc82448625daeedc0ce21b31174e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150989"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838350"
 ---
-# <a name="add-multiple-users-to-a-customer-account-by-creating-a-csv-file"></a>Lägga till flera användare till ett kundkonto genom att skapa en CSV-fil
+# <a name="add-multiple-users-to-a-customer-account-by-creating-a-csv-file"></a>Lägga till flera användare till ett kundkonto genom att skapa .csv fil
 
 **Lämpliga roller:** Global administratör
 
