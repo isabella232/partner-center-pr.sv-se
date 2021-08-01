@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 06/22/2021
-ms.openlocfilehash: 0e79674825f8ab28fa4b0e68dd01c9c1b7e8c27a
-ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
+ms.openlocfilehash: 42e08be73fb6bd1b26e75f461ede51b1e18b909b
+ms.sourcegitcommit: b53616cd7bfeb68298dee69935a8007827b19d21
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "112565193"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "115014708"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace köp
 
@@ -19,7 +19,7 @@ Azure Marketplace har flera verktyg och funktioner som förenklar och effektivis
 
 ## <a name="simplified-procurement"></a>Förenklad anskaffning
 
-Azure Marketplace förenklar anskaffningsprocessen via olika inköpsalternativ. Om du köper produkter med ett kreditkort som är associerat med ditt Azure-konto konsolideras alla inköp på en enda faktura och faktureras till det kreditkort du väljer. Om du är en stor kund kan du köpa med hjälp av ett Enterprise-avtal. Med ett EA inkluderas alla programvaruinköp automatiskt på din Azure-faktura. Din faktura kommer att innehålla Azure-användningsavgifter först, följt av Azure Marketplace-avgifter.
+Azure Marketplace förenklar anskaffningsprocessen via olika inköpsalternativ. Om du köper produkter med ett kreditkort som är associerat med ditt Azure-konto konsolideras alla inköp på en enda faktura och faktureras till det kreditkort du väljer. Om du är en stor kund kan du köpa med hjälp av en företagsavtal. Med ett EA inkluderas alla programvaruinköp automatiskt på din Azure-faktura. Din faktura kommer att innehålla Azure-användningsavgifter först, följt av Azure Marketplace-avgifter.
 
 När du köper via Azure Marketplace eliminerar du komplexiteten med att hantera enskilda leverantörsrelationer och fakturor. Du får en enda konsoliderad månadsfaktura från Microsoft som innehåller både dina Azure Marketplace-inköp och dina Azure-avgifter.
 
@@ -68,7 +68,7 @@ Du kan visa dina Azure Marketplace-avgifter och fakturor i kostnadsanalysverktyg
 
 Att köpa ett erbjudande via Azure Marketplace kan misslyckas av olika orsaker. Att använda kommandoradsgränssnittet (CLI) för ett köp är mer troligt att orsaka fel eftersom du kanske försöker köpa ett erbjudande som inte är tillgängligt eller synligt i Azure Marketplace. Följande är de kontroller som kan orsaka att ett köp misslyckas:
 
-1. Prenumerationen tillhör ett Enterprise-avtal (EA) och EA-administratören inaktiverade Azure Marketplace inköp.
+1. Prenumerationen tillhör en företagsavtal (EA) och EA-administratören inaktiverade Azure Marketplace inköp.
 1. EA-administratören har endast aktiverat köp för kostnadsfria erbjudanden och erbjudandet är ett betalt erbjudande.
 1. Erbjudandet finns inte på Marketplace.
 1. Oberoende programvaruleverantör (ISV) slutade sälja erbjudandet, åtminstone i din region.
@@ -78,7 +78,8 @@ Att köpa ett erbjudande via Azure Marketplace kan misslyckas av olika orsaker. 
 1. Privat Marketplace har aktiverats för prenumerationen och erbjudandet finns inte med i listan över tillåtna erbjudanden.
 1. Erbjudandet är privat/förhandsversion för specifika kunder och prenumerationen finns inte med i listan över tillåtna kunder.
 
-Köp av Marketplace-erbjudanden kan misslyckas om det står i konflikt Azure Policy som definierats av Azure-administratören i din organisation. Du kan till exempel inte köpa Microsoft.SaaS om det inte finns i organisationens **lista över tillåtna.** Mer information finns i [Azure Policy dokumentation.](/azure/governance/policy/)
+> [!NOTE]
+> Köp av Marketplace-erbjudanden kan misslyckas om det står i konflikt Azure Policy som definierats av Azure-administratören i din organisation. Du kan till exempel inte köpa Microsoft.SaaS om det inte finns i organisationens **lista över tillåtna.** Mer information finns i [Azure Policy dokumentation.](/azure/governance/policy/)
 
 ## <a name="next-steps"></a>Nästa steg
 
