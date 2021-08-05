@@ -3,31 +3,31 @@ title: Bli global administratör för ditt företag
 ms.topic: how-to
 ms.date: 12/03/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Om du vill arbeta i Partnercenter måste du först verifiera ägarskapet för din domän. Lär dig hur du gör detta och hur du blir en global administratör som kan lägga till användare.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 01b8be1e02dcbc0a35f0cc24371c1a2819d4430f
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d2888a8deffffa3b281ca088696184fdb52376be
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842429"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115102326"
 ---
 # <a name="verify-your-domain-ownership-to-become-global-admin"></a>Verifiera ägandet till en domän för att bli global administratör 
 
 
-**Lämpliga roller:** Globala | Kontoadministratör
+**Lämpliga roller:** Global | Kontoadministratör
 
-Om du vill arbeta i Partnercenter måste du först verifiera ägarskapet för din domän och bli global administratör för ditt företag. Dessutom kommer dina anställda inte ha tilldelats de roller som krävs för att börja arbeta.  För att kunna arbeta i Partnercenter måste alla ha en roll, inklusive behörigheter, tilldelade till dem.  
+Om du vill arbeta i Partnercenter måste du först verifiera ägarskapet för din domän och bli global administratör för ditt företag. Dessutom har dina anställda inte tilldelats de roller som krävs för att börja arbeta.  För att kunna arbeta i Partnercenter måste alla ha en roll, inklusive behörigheter, tilldelade till dem.  
 
-## <a name="verify-your-domain-ownership-to-become-a-global-admin-in-partner-center"></a>Verifiera ditt domänägarskap för att bli global administratör i Partnercenter
+## <a name="verify-your-domain-ownership-to-become-a-global-admin-in-partner-center"></a>Verifiera din domänägarskap för att bli global administratör i Partnercenter
 
 Om du vill bli global administratör för ditt företag måste du verifiera att du äger domänen.
 
-1. På instrumentpanelen i Partnercenter går du till **sidan Medlemskapserbjudanden** och **väljer Bli global administratör.** 
+1. På instrumentpanelen i Partnercenter går du till **sidan Medlemskapserbjudanden** och väljer **Bli global administratör.** 
 
 2. På sidan **Verifiera domänägarskap** kopierar du TXT-värdena från tabellen. Observera att domänen redan är vald åt dig.
 
@@ -41,7 +41,7 @@ Om du vill bli global administratör för ditt företag måste du verifiera att 
 
 Om du verifierar ägarskapet för din domän blir du även global administratör. Några av de behörigheter som ingår i den globala administratörsrollen är:
 
-- Har åtkomst till alla Microsoft-konto/tjänster med fullständig behörighet 
+- Kan komma åt Microsoft-konto/tjänster med fullständig behörighet 
 - Skapa supportärenden för Partnercenter
 - Visa avtal, prislistor och erbjudanden
 - Fakturering
@@ -52,7 +52,7 @@ Om du verifierar ägarskapet för din domän blir du även global administratör
 
 1. Från ikonen **Inställningar längst** upp till höger i Partnercenter väljer du **Användarhantering.**
 
-1. Filtrera på global administratör i sökrutan. En lista över globala administratörer i ditt företag visas. Om ditt företag ännu inte har någon global administratör följer du anvisningarna nedan.
+1. Filtrera på global administratör i sökrutan. En lista över globala administratörer i ditt företag visas. Om ditt företag ännu inte har en global administratör följer du anvisningarna nedan.
 
 ## <a name="next-steps"></a>Nästa steg
 

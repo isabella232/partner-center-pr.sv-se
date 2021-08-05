@@ -1,7 +1,7 @@
 ---
 title: Priser och erbjudanden
 ms.topic: article
-ms.date: 01/07/2021
+ms.date: 07/30/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
 description: Se aktuella prislistor för licensbaserade tjänster som Office 365, Microsoft Dynamics CRM och Enterprise Mobility Suite samt användningsbaserade tjänster som Azure.
@@ -9,15 +9,14 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 87f3f287c02b6dfe4af3f70a0985e8290e76a4e3
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d03300ec89a877af3e02b6bd6567f6b1a832a397
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841087"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101744"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Priser och erbjudanden för Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure med mera
-
 
 **Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Administratörsagent | MPN-partneradministratör | Försäljningsagentens | Faktureringsadministratör
 
@@ -27,7 +26,7 @@ Om du vill se Molnlösningsleverantör senaste CSP-program (CSP) från instrumen
    > [!NOTE]
    > List- och ERP-priser gäller för månatlig faktureringsfrekvens. För årlig faktureringsfrekvens multiplicerar du månadspriset med 12.
 - **Användningsbaserade tjänster** innehåller prisinformation för Microsoft Azure och Visual Studio. Du kan också använda [Azure-tjänsterna i priskalkylatorn för CSP.](https://azure.microsoft.com/pricing/calculator/) Den användningsbaserade nedladdningen innehåller både CSP-prislistorna för alla valutor som stöds och prisfilerna för delade tjänster i ERP. De här filerna uppdateras den första dagen i varje månad.
-- **Microsoft Azure reserverade instanser innehåller** prisinformation för alla valutor som stöds för reserverade Azure-instanser. Prisnedladdningen inkluderar även prissättningen för delade tjänster i ERP. De här filerna uppdateras den första dagen i varje månad.
+- **Microsoft Azure reserverade instanser innehåller prisinformation** för alla valutor som stöds för reserverade Azure-instanser. Prisnedladdningen inkluderar även prissättningen för delade tjänster i ERP. De här filerna uppdateras den första dagen i varje månad.
 - **Programvaruprenumerationer** inkluderar priser för termbaserade programvaruprenumerationer för alla valutor som stöds. Prisfilen innehåller alla valutor som stöds med listpris och tillverkarens föreslagna detaljhandelspris (MSRP). De här filerna uppdateras den första dagen i varje månad.
 - **Prissättningen för Azure-plan** innehåller prisinformation för förbrukningstjänster för Azure-plan och reservationspris för Azure-plan. Priserna är direkta priser eller ERP och kan hämtas för alla angivna marknaden som stöds. Data i dessa filer uppdateras varje dag.
 - **Växelkurser används** för att beräkna faktureringen som debiteras mellan USD och partners lokala valuta. Priserna uppdateras den första i varje månad och gäller för den angivna månaden som priserna är tillgängliga. De här filerna uppdateras den första dagen i varje månad.
@@ -90,7 +89,7 @@ Partnermarginaler, skillnaden mellan listpriset och de uppskattade detaljhandels
 
 ## <a name="add-on-offer-types"></a>Erbjudandetyper för tillägg
 
-Licensbaserade tjänster kan förvärvas antingen som baserbjudanden eller tillägg. Endast baserbjudanden kan upptäckas och rensas via Partner Center-katalogen. Du måste använda tillägg när du har köpt baserbjudandena. Kolumnen Sekundär licenstyp i **den licensbaserade prislistan** innehåller information om varje erbjudande och dess typ. Baserbjudanden har **icke-specifika** värden i kolumnen sekundär licenstyp i prislistan och kan köpas i katalogen. Sekundära licenstypvärden **för tillägg kan** inte köpas i katalogen. Så här köper du dessa tillägg:
+Licensbaserade tjänster kan förvärvas antingen som baserbjudanden eller tillägg. Endast baserbjudanden kan upptäckas och rensas via Partner Center-katalogen. Du måste använda tillägg när du har köpt baserbjudandena. Kolumnen sekundär licenstyp i **den licensbaserade prislistan** innehåller information om varje erbjudande och dess typ. Baserbjudanden har **icke-specifika** värden i kolumnen sekundär licenstyp i prislistan och kan köpas i katalogen. Sekundära licenstypvärden **för tillägg kan** inte köpas i katalogen. Så här köper du dessa tillägg:
 
 1. Läs erbjudandelistans matris om du vill se en lista över erbjudande-ID:er som måste köpas innan du kan köpa ett tillägg.
 2. Köpa baserbjudandet från katalogen
@@ -134,11 +133,37 @@ Erbjudandegränsomfång registreras som en kolumn i erbjudandelistans matris och
 
 Alla priser i Partner Center CSP-prislistor är skatteomfattande. Mer information finns i [Partnercenter-dokumentet Skatter och momsbefrielse.](tax-and-tax-exemptions.md)
 
+## <a name="offer-attestation"></a>Attestation för erbjudande
+
+Vissa erbjudanden kräver att partnern accepterar innan köpet. Den här processen kallas attestation och från och med 1 augusti 2021 är de enda erbjudanden som kräver attestation Windows 365 Business-erbjudanden med Windows Hybrid Benefit. Partner ser text på granskningsskärmen när de köper dessa erbjudanden: "Jag förstår att varje person som använder Windows 365 Business med Windows Hybrid-förmån även måste ha en giltig kopia av Windows 10/11 Pro installerad på sin primära arbetsenhet." Partner måste godkänna detta innan de köper.
+
+Attestation gäller både för Partner Center-portalen och partnercenter-API:erna när du skickar beställningar och checkar ut kundvagnar. Partner kan avgöra vilka erbjudanden som kräver attestation genom att kontrollera attestationProperties på [erbjudandet eller](/partner-center/develop/offer-resources#attestationproperties) [SKU-objekt.](/partner-center/develop/product-resources#attestationproperties) De här egenskaperna förklarar attestationstypen och om attestation framtvingas för inköp (enforceAttestation=True). Om det behövs ställer partner helt enkelt in AttestationAccepted till true i kundvagnen eller [orderraderna](/partner-center/develop/cart-resources).
+
+Nedan visas erbjudanden som för närvarande kräver attestation före inköp.
+
+ | **Erbjudandets namn** |**Erbjudande-ID** |
+|:------------------------------------------- |:--------------------------------------- |
+| Windows 365 Business 1 vCPU, 2 GB, 64 GB (med Windows Hybrid-förmån) | 5f3a7cd2-c76f-4b21-9ddc-f48f09869cf6 |
+| Windows 365 Business 2 vCPU, 4 GB, 128 GB (med Windows Hybrid-förmån) | 7612386a-d98d-4110-94b8-554bd612a5ab |
+| Windows 365 Business 2 vCPU, 4 GB, 128 GB (med Windows Hybrid-förmån) | ab170880-1254-4534-abb9-fd0bf60cde71 |
+| Windows 365 Business 2 vCPU, 4 GB, 256 GB (med Windows Hybrid-förmån) | cc624387-162c-4f31-9d6e-252d39d5324b |
+| Windows 365 Business 2 vCPU, 4 GB, 64 GB (med Windows Hybrid-förmån) | f9777f60-19ae-4bd2-b881-6dc674564a2e |
+| Windows 365 Business 2 vCPU, 8 GB, 128 GB (med Windows Hybrid-förmån) | 39daa752-18b7-4918-b4eb-cf27cf617ee2 |
+| Windows 365 Business 2 vCPU, 8 GB, 128 GB (Windows Hybrid Benefit) | d5623401-b8e0-429f-86df-29b6efdf4d95 |
+| Windows 365 Business 2 vCPU, 8 GB, 256 GB (med Windows Hybrid-förmån) | 8fe4271f-c761-45f8-8261-5ab575195152 |
+| Windows 365 Business 4 vCPU, 16 GB, 128 GB (med Windows Hybrid-förmån) | 037cff0f-c231-4cce-a7ef-5324c755ba9a |
+| Windows 365 Business 4 vCPU, 16 GB, 128 GB (med Windows Hybrid-förmån) | 46448c4c-8b12-4ea1-9be7-76b35d69bcf5 |
+| Windows 365 Business 4 vCPU, 16 GB, 256 GB (med Windows Hybrid-förmån) | 977318cf-57a5-4c3f-a8b6-aa58853dd2e9 |
+| Windows 365 Business 4 vCPU, 16 GB, 512 GB (med Windows Hybrid-förmån) | 1a3bdfb8-fb09-4331-8303-2c07e895c6d9 |
+| Windows 365 Business 8 vCPU, 32 GB, 128 GB (med Windows Hybrid-förmån) | 1b96db48-9c02-4c95-8c0b-98e4e6aa187c |
+| Windows 365 Business 8 vCPU, 32 GB, 256 GB (med Windows Hybrid-förmån) | 3ff72e53-c37f-41d5-b932-793cb39c837b |
+| Windows 365 Business 8 vCPU, 32 GB, 512 GB (med Windows Hybrid-förmån) | aca639ae-ae81-4298-a76a-094b6880913b |
+
 ## <a name="multi-year-term-offers"></a>Erbjudanden på flera år
 
 ### <a name="36-month-offers"></a>36 månaders erbjudanden
 
-Det finns cirka 50 Dynamics-erbjudanden med treårsvillkor. Dessa identifieras av **(36 mo)** i titeln på erbjudandena. Dessa erbjudanden liknar de årliga erbjudandena. Den enda skillnaden är deras term. Dessa erbjudanden har en treårsperiod så att prenumerationerna förnyas automatiskt efter tre år i stället för ett. Nedan visas en sammanfattning av hur dessa erbjudanden fungerar:
+Det finns cirka 50 Dynamics-erbjudanden med treårsvillkoren. Dessa identifieras av **(36 mo)** i rubriken på erbjudandena. Dessa erbjudanden liknar de årliga erbjudandena. Den enda skillnaden är deras term. Dessa erbjudanden har en treårsperiod så att prenumerationerna förnyas automatiskt efter tre år i stället för ett. Nedan visas en sammanfattning av hur dessa erbjudanden fungerar:
 
 - Villkoren är 36 månader, prenumerationer förnyas automatiskt efter tre år
 - Partner kan avbryta eller ändra antalet licenser under prenumerationsperioden
@@ -147,7 +172,7 @@ Det finns cirka 50 Dynamics-erbjudanden med treårsvillkor. Dessa identifieras a
 
 ### <a name="72-month-offers"></a>72 månaders erbjudanden
 
-Microsoft 365 A1 baserbjudandet har en period på sex år.  De Office 365 A1 tillägg är tillgängliga när du har köpt baserbjudandet. 
+Microsoft 365 A1 baserbjudandet har en sexårs period.  De Office 365 A1 tillägg är tillgängliga när du har köpt det här baserbjudandet. 
 
 |**Erbjudandets namn**   |**Erbjudande-ID**   |**Typ**|
 |-------------------|-----------------------|----------------------------|
@@ -159,23 +184,23 @@ Nedan visas en sammanfattning av hur dessa erbjudanden fungerar:
 
 - Perioden gäller i 72 månader eller sex år
 - Prenumerationen förnyas inte och upphör att gälla efter sex år
-- Faktureringsfrekvensen för erbjudandet visas som årlig, men partnern faktureras direkt på sin första faktura efter att ha skaffat prenumerationen
-- Prenumerationer på A1 72-månaderserbjudanden låses efter köpet och kan inte avbrytas och antalet licenser kan inte läggas till i prenumerationen efter det första köpet
+- Faktureringsfrekvensen för erbjudandet visas som årlig, men partnern faktureras i början på sin första faktura efter att ha skaffat prenumerationen
+- Prenumerationer för A1 72-månaderserbjudanden låses efter köpet och kan inte avbrytas och licensantal kan inte läggas till i prenumerationen efter det första köpet
 - Den här prenumerationen kan inte avbrytas och kan inte återbetalas.
 
 ## <a name="estimated-retail-price-erp"></a>Beräknat detaljhandelspris (ERP)
 
-De flesta prislistor innehåller ett listpris, det pris som partnern faktureras och det uppskattade detaljhandelspriset. ERP (Estimated Retail Price) kallas även Microsofts föreslagna detaljhandelspris eller MSRP. Dessa två värden, ERP och MSRP, representerar det uppskattade marknadsvärdet för produkterna om en kund skulle köpa produkterna direkt från Microsoft. Nedan visas var du hittar ERP/MSRP-information för varje typ av produkt eller tjänst. 
+De flesta prislistor innehåller ett listpris, det pris som partnern faktureras och det uppskattade detaljhandelspriset. Erp (Estimated retail price) kallas även Microsofts föreslagna detaljhandelspris eller MSRP. Dessa två värden, ERP och MSRP, representerar det uppskattade marknadsvärdet för produkterna om en kund skulle köpa produkterna direkt från Microsoft. Nedan visas var du hittar ERP-/MSRP-information för varje typ av produkt eller tjänst. 
 
 
 |**Produkt eller tjänst**        |**Prislista för ERP och MSRP**      |
 |:-----------   |:-----------   |
 |Produkt eller tjänst  |Prislista för ERP och MSRP  |
-|Licensbaserade tjänster  |Anges som ERP i de licensbaserade prislistorna  |
+|Licensbaserade tjänster  |Anges som ERP i licensbaserade prislistor  |
 |Användningsbaserade tjänster i Azure  |Finns i motsvarande prislistor för delade tjänster  |
 |Azure-reservationer  |Finns i motsvarande prislistor för delade tjänster  |
-|Användningsbaserad azure-plan  |Priserna är detaljhandelspriser som inte rabatteras i prismallar  |
-|Reservationer för Azure-plan  |Referera till prislistor för delade Azure-reservationer  |
+|Användningsbaserad azure-plan  |Priserna är detaljhandel, inte rabatterade i prismallar  |
+|Azure-planreservationer  |Referera till prislistor för delade Azure-reservationer  |
 |Programvaruprenumerationer  |Listad som MSRP i prislistor för programvaruprenumerationer  |
 |Marketplace  |Visas som MSRP i Marketplace-prislistor  |
 

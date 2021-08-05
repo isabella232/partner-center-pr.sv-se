@@ -3,18 +3,18 @@ title: MPA (Microsoft-partneravtal) för CSP
 ms.topic: how-to
 ms.date: 03/23/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Lär dig mer om Microsoft CSP-partnerkrav för att signera och verifiera detta enhetliga, digitalt Microsoft-partneravtal (MPA).
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 483ef506e9d699ed112e93ae30c0ff76fa0c8280
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 373ab01965cb527ab5e972cc28c2e7d9a685cb11
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840118"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101949"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Läs mer om Microsoft-partneravtal (MPA) för CSP-programpartner
 

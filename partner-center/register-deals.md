@@ -3,17 +3,17 @@ title: Registrera dina avtal
 ms.topic: article
 ms.date: 06/29/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-referrals
 description: När du registrerar ett avtal som du har vunnit i Partnercenter hjälper det Microsoft att ge dig fler möjligheter i framtiden.
 author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
-ms.openlocfilehash: 1a3d83dbac20cbcb038345ba90ae1a4dc345c060
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 085e3418ee6689203dfb7be699acb9955e7ed7f3
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842549"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101624"
 ---
 # <a name="register-deals-youve-won-in-partner-center"></a>Registrera avtal som du har vunnit i Partnercenter
 
@@ -81,9 +81,9 @@ När du har slutfört alla avsnitt på sidan klickar du på **Registrera**.
 - Om avtalet är ett IP-säljavtal ser du att statusen för avtalet är "Skickat". Microsofts granskningsteam för säljavtal granskar den information som du angav i den här avtalsregistreringsposten. Granskningsteamet begär mer åtgärder från dig om det behövs eller godkänner/avvisar avtalet direkt.
 - Om du registrerar ett avtal som kommer från en möjlighet till säljförsäljning och du ser att två avtalsregistreringsposter har skapats innebär det att lösningen i ditt avtal är berättigad för både ISV Anslut och IP-sälj. ISV Anslut posten använder för fakturering. IP-säljeposten granskas av valideringsteamet för säljavtal.
 
-## <a name="simplified-deal-registration-for-commercial-marketplace-transactions"></a>Förenklad avtalsregistrering för Commercial Marketplace-transaktioner
+## <a name="simplified-deal-registration-for-commercial-marketplace-transactions"></a>Förenklad avtalsregistrering för transaktioner på den kommersiella marknadsplatsen
 
-Co-Sell vinner genom den kommersiella [marknadsplatsen](https://docs.microsoft.com/azure/marketplace/) kommer att dra nytta av betydande minskning av formuläret för avtalsregistrering.  Dessutom kräver avtal som har transaktioner via Commercial Marketplace inte ytterligare avtalsgranskningssamtal, vilket sparar drifttid och arbete.
+Co-Sell vinner genom den kommersiella [marknadsplatsen](/azure/marketplace/) kommer att dra nytta av betydande enkelhet till formuläret för avtalsregistrering.  Dessutom kräver avtal som har transaktioner via Commercial Marketplace inte ytterligare avtalsgranskningssamtal, vilket sparar drifttid och arbete.
 
 Du behöver bara ange tre uppgifter:
 

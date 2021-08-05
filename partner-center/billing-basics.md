@@ -9,23 +9,23 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7400aaa2208fa35ccc4efa439cd8d7ee597733b9
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 08afaa2153de21b3b89167e4c08eb9761e0e3a53
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842753"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101692"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Faktureringsöversikt för CSP-programpartner som arbetar i Partnercenter 
 
-**Lämpliga roller:** Administratörsagent | Faktureringsadministratörskonto | Globala | Supportagent | Försäljningsagent
+**Lämpliga roller:** Administratörsagent | Faktureringsadministratörskonto | Globala | Supportagent för | Försäljningsagent
 
 Den här artikeln innehåller grundläggande fakturerings- och fakturainformation för CSP-partner i Partnercenter, inklusive hur du fakturerar kunder och hur du hittar och läser din faktura.
 
 
 ## <a name="find-your-bill"></a>Hitta din faktura
 
-Så här hittar du din faktura:
+Så här hittar du fakturan:
 
 1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
 
@@ -47,11 +47,11 @@ Faktureringstyperna i Partnercenter **omfattar licensbaserad fakturering,** **an
 
 **Licensbaserad och användningsbaserad** fakturering: Du debiteras för produkter i valutan för det land eller den region där du befinner dig. Du debiteras på samma sätt oavsett var kunden som du sålde produkterna till finns.
 
-Entidsfakturering: Från och med 28 januari 2021 debiteras partner i regionen EU/EFTA och Storbritannien som har nya kunder och befintliga **CSP-kunder** som köper nya handelserbjudanden för första gången vars klienter skapades före den 11 maj 2020.  Partner som är belägna utanför EU/EFTA- och Storbritannien-regionen fortsätter att debiteras i partnerns platsvaluta. Läs mer om [engångs- och återkommande](azure-plan-billing.md). 
+Entidsfakturering: Från och med 28 januari 2021 debiteras partner i regionen EU/EFTA och Storbritannien som har nya kunder och befintliga **CSP-kunder** som köper nya handelserbjudanden för första gången vars klienter skapades före den 11 maj 2020. Partner som är belägna utanför EU/EFTA- och Storbritannien-regionen fortsätter att debiteras i partnerns platsvaluta. Läs mer om [engångs- och återkommande](azure-plan-billing.md). 
 
 ## <a name="invoices"></a>Fakturor
 
-Din faktura är en sammanfattning av alla avgifter för den aktuella faktureringsperioden. Detta inkluderar avgifter för programmet, alla produkter och alla kunder. Exempel på månatliga och årliga faktureringsscenarier finns i [vanliga faktureringsscenarier](common-billing-scenarios.md)
+Din faktura är en sammanfattning av alla avgifter för den aktuella faktureringsperioden. Detta inkluderar avgifter för programmet, alla produkter och alla kunder. Exempel på månatliga och årliga faktureringsscenarier finns i [Vanliga faktureringsscenarier](common-billing-scenarios.md)
 
 För användnings- och licensbaserade faktureringar är din faktura tillgänglig inom två (2) dagar från det valda faktureringsdatumet i UTC-tid. Om du till exempel har faktureringsdatumet 12 september börjar fakturagenereringen kl. 12:00 UTC den 13 september och slutförs 12:00 UTC den 14:e. 
 
@@ -61,7 +61,7 @@ Vid engångsfakturering och återkommande fakturering justeras faktureringsperio
 
 Prislistor uppdateras varje månad. Förhandsgranskningsprislistor är tillgängliga en (1) månad i förväg.
 
-Om du vill se Molnlösningsleverantör senaste programmen och erbjudandena går du till Sell > Pricing and Offers (Sälj via instrumentpanelen i **Partnerportal).** Du hittar separata prislistor för de olika typer av produkter som är tillgängliga. Följande prislistor finns på sidan **Priser och** erbjudanden:
+Om du vill se Molnlösningsleverantör senaste programmen och erbjudandena går du till **Sell > Pricing and Offers**(Sälja på instrumentpanelen i Partnerportalen). Du hittar separata prislistor för de olika typer av produkter som är tillgängliga. Följande prislistor finns på sidan **Priser och** erbjudanden:
 
 **Licensbaserade** priser garanteras för prenumerationens period, vanligtvis 12 månader från inköpsdatum. 
 
@@ -75,7 +75,7 @@ Du ser justeringar **och krediter** **i efterskott** på nästa faktureringsfakt
 
 Betalningsvillkoren är netto 60 dagar. Fakturor måste betalas på fakturans förfallodatum (60 dagar efter faktureringsdatumet), annars kommer ditt konto att vara inaktuellt, vilket kan påverka din registrering i CSP. 
 
-Du kan återfå alla funktioner hos dina inaktiverade konton när du betalar förfallna belopp.
+Du kan återfå alla funktioner hos dina inaktiverade konton när du betalar det förfallna beloppet.
 
 När den korrigerade faktureringsinformationen har angetts visas betalningen på faktureringssidan för Partnercenter inom 5 arbetsdagar.
 
@@ -85,7 +85,7 @@ Du debiteras baserat på dina uppgifter (inte kundernas) eftersom faktureringsre
 
 För **käll- och momsbefrielse måste** du skicka skattedokumentation via en supportbegäran. Du ser ändringarna och lämpliga återbetalningar för nästa faktureringsperiod. Läs mer om att [skicka källskatt.](withholding-tax-credit-form.md) 
 
-För **momsbefrielse måste du skicka ditt** momsregistreringsnummer (verifierat av Microsoft) via en tjänstbegäran.  Om momsregistrerings-ID:t skickas efter kontokonfigurationen (via en supportbegäran) kommer dina fakturor före denna begäran inte att ha ett momsregistreringsnummer stämplat på faktura-PDF. Du ser ändringarna i nästa faktureringsperiod.
+För **momsbefrielse måste du skicka ditt** momsregistreringsnummer (verifierat av Microsoft) via en tjänstbegäran.  Om momsregistrerings-ID:t skickas efter kontokonfigurationen (via en supportbegäran) kommer dina fakturor före denna begäran inte att ha ett momsregistreringsnummer stämplat på PDF-fakturan. Du ser ändringarna i nästa faktureringsperiod.
 
 Du hittar ytterligare skatteinformation från ditt lokala skattekontor eller skatterådgivare.
 
@@ -116,7 +116,7 @@ Mätarpriser för tjänster kan ändras inom fakturacykeln.
 
 - Betalningar debiteras för sålda licenser, inte etablerade licenser 
 
-#### <a name="monthly-billing-rules"></a>Månatliga faktureringsregler 
+#### <a name="monthly-billing-rules"></a>Faktureringsregler per månad 
 
 - Prenumerationer är månad för månad och förnyas automatiskt enligt de nya priserna för mätartjänster. Du debiteras varje månad för föregående månads användning. 
 

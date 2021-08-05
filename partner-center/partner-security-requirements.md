@@ -3,18 +3,18 @@ title: Säkerhetskrav för partner
 ms.topic: article
 ms.date: 10/30/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Introducerar partnersäkerhetskrav för att aktivera multifaktorautentisering (MFA) och införa Modell för säkra program ramverket.
 author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73d508b8a8dabacaf65037c905fd31929a0f2522
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 8966d744dfb70a7850ef6d3dd68d2051344fe9cd
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837347"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101208"
 ---
 # <a name="security-requirements-for-using-partner-center-or-partner-center-apis"></a>Säkerhetskrav för att använda PARTNER Center- eller Partner Center-API:er
 

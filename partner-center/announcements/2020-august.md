@@ -3,18 +3,18 @@ title: Meddelanden augusti 2020
 description: Augusti 2020-meddelanden för Microsoft Partner Center, till exempel nya funktioner, kampanjer, erbjudanden, marknader eller ändringar i befintliga erbjudanden.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-action-center
+ms.subservice: partnercenter-announcements
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: c163258d59c0e0640c8d8f3a0469a94d45582d1d
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: baeaf39dd75d3c39bb7cfee393c3f9c409d5ce33
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839047"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101999"
 ---
 # <a name="august-2020-announcements"></a>Meddelanden augusti 2020
 
@@ -169,7 +169,7 @@ Utgiven vid start
 - Livehändelsegränser till 20 000 deltagare (50 samtidiga, 16 timmar)
 
 Släpptes senare i CY2020
-- Interaktivt möte med 1 000 Teams personer 
+- 1 000 personer interaktivt Teams möte 
 - Interaktiva möten för 1 000 deltagare med möjlighet att aktivera upp till 20 000 i en "endast vy"-mötesupplevelse. 
 - Anpassat anpassat möte
 - Ytterligare anpassningar, verktyg och kommunikationsförbättringar kommer att läggas till i SKU:n under kalenderåret
@@ -184,16 +184,16 @@ Släpptes senare i CY2020
 
 #### <a name="frequently-asked-questions"></a>Vanliga frågor och svar
 
-- **Vad är Advanced Communications?** Det här Microsoft Teams nya tillägget gör det möjligt för kunder att ytterligare förbättra sin kommunikationsupplevelse. Den kan köpas ovanpå alla Microsoft 365 SKU som de prenumererar på.
+- **Vad är Advanced Communications?** Detta nya Microsoft Teams gör det möjligt för kunder att ytterligare förbättra sin kommunikationsupplevelse. Den kan köpas ovanpå en Microsoft 365 SKU som de prenumererar på.
 - **Vad kostar det?** Det kommersiella ERP-programmet kostar 12 USD per användare/månad. 
 - **Vilka kunder kan köpa tillägget?** Kommersiell, Global kommersiell offentlig sektor, utbildning och ideell verksamhet.
 - **Hur kan den köpas?** Tillägget kan köpas via EA/EAS, EAS, CSP eller Web Direct.
 - **Var kan den säljas?** Den kan säljas på alla aktuella marknader.
-- **Vilka är förutsättningarna?** Alla Microsoft 365/Office 365-paket som innehåller Microsoft Teams.
+- **Vilka är kraven?** Alla Microsoft 365/Office 365 som innehåller Microsoft Teams.
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Dela den här informationen med relevanta kontakter i din organisation och förstå möjligheter till merförsäljning och korsförsäljning. Läs avsnittet resurser i guiden [för Teams partner](https://aka.ms/teamscallingmeetingsguide).
+- Dela den här informationen med relevanta kontakter i din organisation och förstå möjligheter till merförsäljning och korsförsäljning. Läs avsnittet resurser i Teams [partnerguide.](https://aka.ms/teamscallingmeetingsguide)
 
 ________________
 
@@ -203,7 +203,7 @@ ________________
 - Datum: 2020-08-04
 - Erbjudanden/marknader
 
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
 Alla partner som deltar i CSP-programmet
 
@@ -219,7 +219,7 @@ Microsoft Defender Avancerat skydd (ATP) for Servers for Education som är tillg
 ### <a name="next-steps"></a>Nästa steg
 
 - Dela den här informationen med lämpliga kontakter i din organisation.
-- Läs dokumentationen [för Microsoft Defender ATP](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) för mer information om produkten.
+- Mer information om produkten finns i dokumentationen för [Microsoft Defender ATP.](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)
 
 ________________
 
@@ -229,9 +229,9 @@ ________________
 - Datum: 2020-08-03
 - Erbjudanden/marknader
 
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Partner som gör en microsoft Dynamics 365-överträdelse
+Partner som gör en överträdelse av Microsoft Dynamics 365
 
 ### <a name="summary"></a>Sammanfattning
 
@@ -239,7 +239,7 @@ Den 1 augusti 2020 släppte Microsoft ett nytt Erbjudande om Dynamics 365 Sales 
 
 ### <a name="details"></a>Information
 
-Från och med 1 augusti 2020 har Microsoft lanserat ett nytt paketerbjudande för Dynamics 365 Sales Premium för kunder i alla program och länder och regioner där Dynamics 365 Enterprise och Dynamics 365 Sales Insights redan är tillgängliga.
+Från och med 1 augusti 2020 har Microsoft lanserat ett nytt Erbjudande om Dynamics 365 Sales Premium-paket för kunder i alla program och länder och regioner där Dynamics 365 Enterprise och Dynamics 365 Sales Insights redan är tillgängliga.
 
 Läs dokumentet [Dynamics CSP Offers-August 2020 Excel](https://partner.microsoft.com/resources/collection/microsoft-dynamics-365-power-platform-offers-products-fraud-protection-vl-csp-collection#/) mer information om dessa erbjudanden. 
 
@@ -250,18 +250,18 @@ Läs dokumentet [Dynamics CSP Offers-August 2020 Excel](https://partner.microsof
 
 ### <a name="next-steps"></a>Nästa steg
 
-Dela den här informationen med lämpliga kontakter i din organisation och bekanta dig med förhandsprislistan. 
+Dela den här informationen med lämpliga kontakter i din organisation och bekanta dig med prislistan för förhandsversionen. 
 
 ________________
 
-## <a name="announcing-the-availability-of-visio-plan-1-and-plan-2-trial-offers"></a><a name="1"></a>Vi presenterar tillgängligheten för erbjudanden Visio Abonnemang 1 plan 2 och utvärderingsversion 
+## <a name="announcing-the-availability-of-visio-plan-1-and-plan-2-trial-offers"></a><a name="1"></a>Meddelande om tillgängligheten för Visio Abonnemang 1 och plan 2 utvärderingserbjudanden 
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-08-03
 - Erbjudanden/marknader
 
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
 Alla partner som deltar i Molnlösningsleverantör(CSP)-programmet
 
@@ -271,7 +271,7 @@ Microsoft introducerar utvärderingserbjudanden för Visio Abonnemang 1 plan 2 f
 
 ### <a name="details"></a>Information
 
-Med Microsoft Visio kan användarna enkelt skapa professionella diagram, samarbeta effektivare, ansluta till realtidsdata och automatisera arbetsflöden. Utvärderingserbjudanden för Visio Abonnemang 1 plan 2 blir tillgängliga från och med 1 augusti 2020.
+Med Microsoft Visio kan användarna enkelt skapa professionella diagram, samarbeta effektivare, ansluta till realtidsdata och automatisera arbetsflöden. Utvärderingserbjudanden för Visio Abonnemang 1 och plan 2 blir tillgängliga från och med 1 augusti 2020.
 
 Microsoft Visio kan användas i en mängd olika branscher och roller med integrering i Microsoft 365, Microsoft Teams och Power Platform lösningar. Ge kunderna de verktyg de behöver för att driva verksamheten.
 
@@ -279,12 +279,12 @@ Microsoft Visio kan användas i en mängd olika branscher och roller med integre
 
 Microsoft Visio är en produkt som hjälper dig att:
 
-- Använd mall för organisationsdiagram och integreringsscenarier med Excel och Power BI för att skapa en hållbar organisationsstruktur
-- Planera en säker återresa till arbetsplatsen med Visio för att inkludera riktlinjer för social distancing
-- Anpassa affärsmodeller: Affärsanalys är kärnan i Visio värdeförslaget. Anpassa affärsmodeller till det nya sättet att arbeta genom att mappa och utforma om kritiska affärsprocesser med Visio och få snabba datainsikter med Power BI och Visio inbäddade diagram i programmet. 
+- Använda mall för organisationsdiagram och integreringsscenarier med Excel och Power BI för att skapa en hållbar organisationsstruktur
+- Planera en säker retur till arbetsplatsen med Visio för att införliva riktlinjer för social distancing
+- Anpassa affärsmodeller: Affärsanalys är kärnan i Visio värdeförslag. Anpassa affärsmodeller till det nya sättet att arbeta genom att mappa och utforma om kritiska affärsprocesser med Visio och få snabba datainsikter med Power BI- och Visio-diagram inbäddade i programmet. 
 - Fokusera på värde- och kostnadsminskning: Identifiera och automatisera repetitiva processer och hjälpa dina kunder att utveckla självbetjäningsarbetsbelastningar för vanliga funktionella roller som IT-hantering, personal med mera.
 
-Vi erbjuder en kostnadsfri 30-dagars utvärderingsversion för Visio Abonnemang 1 och Visio Abonnemang 2 för att hjälpa dina kunder att uppleva dessa fördelar. Partner kan hitta utvärderingsversioner i listan med månadspriser på sidan med priser och erbjudanden i Partnercenter. Utvärderingserbjudanden har en lista över "utvärderingsversion" i kolumnen Sekundär licenstyp i prislistan.
+Vi erbjuder en kostnadsfri 30-dagars utvärderingsversion för Visio Abonnemang 1 och Visio Abonnemang 2 att hjälpa dina kunder att uppleva dessa fördelar. Partner hittar utvärderingsversioner i den månatliga prislistan på sidan med priser och erbjudanden i Partnercenter. Utvärderingserbjudanden visas med "UTVÄRDERINGSVERSION" i kolumnen Sekundär licenstyp i prislistan.
 
 #### <a name="offer-details"></a>Erbjudandeinformation
 
@@ -295,7 +295,7 @@ Vi erbjuder en kostnadsfri 30-dagars utvärderingsversion för Visio Abonnemang 
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Läs mer om Visio Abonnemang 1 och plan 2 i [resursgalleriet för åtgärder](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/) 
-- Vi rekommenderar också att du läser Inspire-sessionen om att hjälpa kunder att [rebound and reimagine businesses with Microsoft Visio and Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform).
+- Läs mer om Visio Abonnemang 1 och plan 2 i [Resursgalleriet för åtgärder](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/) 
+- Vi rekommenderar också att du läser Inspire-sessionen om att hjälpa kunder att rebound and [reimagine businesses with Microsoft Visio and Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform).
 
 ________________

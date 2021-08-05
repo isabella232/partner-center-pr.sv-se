@@ -3,18 +3,18 @@ title: Hantera ditt Partnercenter-konto
 ms.topic: conceptual
 ms.date: 03/18/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Lär dig hur du använder Partnercenter för att hantera företagets profil, bank- och skatteinformation, roller, behörigheter med mera.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bce76c9c2d44d00bd41eae7012113b104bd1aa05
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 2cfb8e05a9d09aa3b7214ac3c1024348348416d5
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841461"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101966"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Hantera ditt Partnercenter-konto – företagsprofil, bankinformation, roller, behörigheter med mera
 

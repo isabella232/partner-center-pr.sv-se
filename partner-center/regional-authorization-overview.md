@@ -9,44 +9,44 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b05fb7880f43867c151bd62bd1d94c2f19add3a5
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 33b60bd301a1493e7e722e26b3ff16128f4e9888
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842088"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115100454"
 ---
-# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Molnlösningsleverantör program regionala marknader och valutor där du kan sälja CSP-erbjudanden
+# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Molnlösningsleverantör programmets regionala marknader och valutor där du kan sälja CSP-erbjudanden
 
 **Lämpliga roller:** Global administratör
 
-Platsen för ditt företag avgör vilken marknad du har. Din marknad omfattar de regioner och/eller länder där du kan sälja erbjudanden Molnlösningsleverantör (CSP).
+Platsen för ditt företag avgör vilken marknad du har. Din marknad omfattar de regioner och/eller länder där du kan sälja Molnlösningsleverantör erbjudanden (CSP).
 
-Om ditt företag till exempel finns i USA kan du sälja CSP-erbjudanden till kunder i USA och på USA: s outlyingöarna. Om ditt företag finns i Brasilien kan du sälja CSP-erbjudanden till kunder endast i Brasilien. Om ditt företag finns i Regionen Afrika kan du sälja CSP-erbjudanden till kunder i alla 18 länder i Regionen Afrika.
+Om ditt företag till exempel finns i USA kan du sälja CSP-erbjudanden till kunder i USA och på U.S. Outlying Islands. Om ditt företag finns i Brasilien kan du sälja CSP-erbjudanden till kunder endast i Brasilien. Om ditt företag finns i Afrika-regionen kan du sälja CSP-erbjudanden till kunder i alla 18 länder i Afrika-regionen.
 
-Innan du kan beställa CSP-erbjudanden för en kunds räkning måste kunden signera Microsoft-kundavtal. Du hittar de tillämpliga Microsoft-kundavtal för din region/ditt land [här.](agreements.md)
+Innan du kan beställa CSP-erbjudanden åt en kund måste kunden signera Microsoft-kundavtal. Du hittar de tillämpliga Microsoft-kundavtal för din region/ditt land [här.](agreements.md)
 
-## <a name="azure-plan-for-csp-region-availability"></a>Tillgänglighet för Azure Plan för CSP-region  
+## <a name="azure-plan-for-csp-region-availability"></a>Tillgänglighet för Azure-plan för CSP-region  
 
-Azure-planen för CSP är tillgänglig i färre regioner än Azure Software for CSP. De senaste uppdateringarna för regional tillgänglighet för Azure-planen finns i [Köpa Azure-planen.](purchase-azure-plan.md)
+Azure-planen för CSP är tillgänglig i färre regioner än Azure Software for CSP. De senaste uppdateringarna om regional tillgänglighet för Azure-planen finns i [Köpa Azure-planen.](purchase-azure-plan.md)
 
 >[!IMPORTANT]
 > Du måste bekräfta att en kund har godkänt Microsoft-kundavtal genom att ange information om den person som signerade den. Se [Bekräfta en kunds godkännande av Microsoft-kundavtal](./confirm-customer-agreement.md) mer information.
 
-För att avgöra var du kan sälja CSP-erbjudanden hittar du företagets plats i någon av listorna nedan. Du måste ha ett aktivt Microsoft Partner Network-ID (MPN) för den plats där du vill sälja.  
+Du kan ta reda på var du kan sälja CSP-erbjudanden genom att hitta företagets plats i någon av listorna nedan. Du måste ha ett aktivt Microsoft Partner Network-ID (MPN) för den plats där du vill sälja.  
 
 
 ## <a name="for-unsupported-countries"></a>För länder som inte stöds
 
-Om ditt land inte stöds upprättar du kundens CSP-relation med hjälp Office URL:en för administratör. 
+Om ditt land inte stöds upprättar du kundens CSP-relation med hjälp Office url:en för administratör. 
 
 - Direktfaktureringspartner använder följande URL: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 . Ersätt **partnertenantguid med** ditt klientorganisations-ID. 
 
-- URL:en för indirekta återförsäljare är: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . Ersätt **IRtenantguid med** ditt klientorganisations-ID. Ersätt **IRMPNID med** ditt MPN-ID och ersätt **IPtenantguid med ditt** indirekta providerklient-ID.
+- URL:en för indirekta återförsäljare är: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . Ersätt **IRtenantguid med** ditt klientorganisations-ID. Ersätt **IRMPNID med** ditt MPN-ID och ersätt **IPtenantguid** med ditt indirekta providerklient-ID.
 
 ## <a name="africa-region-and-market"></a>Afrika, region och marknad
 
-Om ditt företags plats finns i listan nedan kan du sälja CSP-erbjudanden till kunder på alla platser i listan.
+Om företagets plats finns i listan nedan kan du sälja CSP-erbjudanden till kunder på alla platser i listan.
 
 | Land/region           | Valuta |
 | ------------------------ |:--------:|
@@ -153,7 +153,7 @@ Om företagets plats finns i listan nedan kan du sälja CSP-erbjudanden till kun
 |  Tokelau               |   AUD    |
 |  Tonga                 |   AUD    |
 |  Tuvalu                |   AUD    |
-|  Wallis ochUna     |   AUD    |
+|  Wallis och Spanuna     |   AUD    |
 |
 
 ## <a name="brazil-region-and-market"></a>Brasilien, region och marknad
@@ -167,7 +167,7 @@ Om ditt företags plats är Brasilien kan du sälja CSP-erbjudanden till kunder 
 
 ## <a name="canada-region-and-market"></a>Kanada, region och marknad
 
-Om ditt företags plats finns i listan nedan kan du sälja CSP-erbjudanden till kunder på alla platser i listan.
+Om företagets plats finns i listan nedan kan du sälja CSP-erbjudanden till kunder på alla platser i listan.
 
 |  Land/region | Valuta |
 |  -------------- |:--------:|
@@ -175,9 +175,17 @@ Om ditt företags plats finns i listan nedan kan du sälja CSP-erbjudanden till 
 |  Saint-Pierre och Miquelon|  CAD   |
 |
 
-## <a name="europe-region-and-market"></a>Europa, region och marknad
+## <a name="china-region-and-market"></a>Kina, region och marknad
 
-Om ditt företags plats finns i listan nedan kan du sälja CSP-erbjudanden till kunder på alla platser i listan.
+Om ditt företags plats är Kina kan du sälja CSP-erbjudanden till kunder i Kina.
+
+|  Land/region | Valuta |
+|  -------------- |:--------:|
+|  Kina        |   Cny    |
+
+## <a name="europe-region-and-market"></a>Region och marknad i Europa
+
+Om företagets plats finns i listan nedan kan du sälja CSP-erbjudanden till kunder på alla platser i listan.
 
 |  Land/region | Valuta  |
 |  -------------- |:--------:|
@@ -316,9 +324,9 @@ Om företagets plats finns i listan nedan kan du sälja CSP-erbjudanden till kun
 |  Jungfruöarna, USA| USD |
 |
 
-## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>Mellanöstern, Europa, centrala och östra Europa, region och marknad
+## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>Region och marknad i Mellanöstern, Europa, centrala och Europa, östra
 
-Om företagets plats finns i listan nedan kan du sälja CSP-erbjudanden till kunder på alla platser i listan.
+Om ditt företags plats finns i listan nedan kan du sälja CSP-erbjudanden till kunder på alla platser i listan.
 
 |  Land/region | Valuta |
 |  -------------- |:--------:|
@@ -352,7 +360,7 @@ Om företagets plats finns i listan nedan kan du sälja CSP-erbjudanden till kun
 |  Moçambique     |   USD    |
 |  Oman           |   USD    |
 |  Pakistan       |   USD    |
-|  Område i Tyskland, upptaget |        |
+|  Område i Landet, bebodd |        |
 |  Qatar          |   USD    |
 |  Saudiarabien   |   USD    |
 |  Serbien         |   USD    |
@@ -371,7 +379,7 @@ Om företagets plats finns i listan nedan kan du sälja CSP-erbjudanden till kun
 
 ## <a name="new-zealand-region-and-market"></a>Nya Zeelands region och marknad
 
-Om företagets plats finns i listan nedan kan du sälja CSP-erbjudanden till kunder på alla platser i listan.
+Om ditt företags plats finns i listan nedan kan du sälja CSP-erbjudanden till kunder på alla platser i listan.
 
 |  Land/region | Valuta |
 |  -------------- |:--------:|
@@ -381,7 +389,7 @@ Om företagets plats finns i listan nedan kan du sälja CSP-erbjudanden till kun
 |  Vanuatu        |   NZD    |
 |
 
-## <a name="russia-region-and-market"></a>Rysslands region och marknad
+## <a name="russia-region-and-market"></a>Ryssland, region och marknad
 
 Om ditt företags plats är Ryssland kan du sälja CSP-erbjudanden till kunder i Ryssland.
 
@@ -401,7 +409,7 @@ Om ditt företags plats är Taiwan kan du sälja CSP-erbjudanden till kunder i T
 
 ## <a name="united-states-region-and-market"></a>USA region och marknad
 
-Om företagets plats finns i listan nedan kan du sälja CSP-erbjudanden till kunder på alla platser i listan.
+Om ditt företags plats finns i listan nedan kan du sälja CSP-erbjudanden till kunder på alla platser i listan.
 
 |  Land/region       | Valuta |
 |  -------------        |:--------:|

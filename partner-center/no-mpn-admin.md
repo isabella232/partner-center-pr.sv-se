@@ -3,18 +3,18 @@ title: Vad gör jag om den enda administratören för ditt MPN-program har lämn
 ms.topic: how-to
 ms.date: 09/08/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Lär dig vad du kan göra för att hitta en ny MPN-administratör eller få hjälp från företagets globala administratör. Lär dig också hur du lägger till en ny global administratör i Partnercenter.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 339f677dc095a32e5cf7e52902b23716a1343561
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 283cc274e150615d8f32da0b3e81ea01e0d86f0a
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845388"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101641"
 ---
 # <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>Vad gör jag om den enda administratören för ditt MPN-program har lämnat företaget?
 

@@ -3,24 +3,24 @@ title: Information om registrerings-ID-nummer
 ms.topic: article
 ms.date: 05/10/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Lär dig vad registrerings-ID-nummer är och om de är obligatoriska för ditt land.
 author: ParthP
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2f9a00d61f0ca2b3b5726b9bc48c739361f488f2
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 20a48961d7b513d4242ad2bb5e338b824fa151b0
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841308"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115102360"
 ---
 # <a name="registration-id-number-information"></a>Information om registrerings-ID-nummer
 
 **Lämpliga roller:** Global administratör
  
-Om du är en indirekt leverantör, partner för direktfakturering eller indirekt återförsäljare och du gör affärer med nya eller befintliga kunder i följande länder måste du ange registrerings-ID-nummer för din verksamhet. Vi använder registrerings-ID:t för att granska informationen om ditt konto. Om landet du gör affärer i inte visas nedan är registrerings-ID valfritt.
+Om du är en indirekt leverantör, partner för direktfakturering eller indirekt återförsäljare och du gör affärer med nya eller befintliga kunder i följande länder måste du ange registrerings-ID-nummer för ditt företag. Vi använder registrerings-ID:t för att granska informationen om ditt konto. Om landet du gör affärer i inte visas nedan är registrerings-ID valfritt.
 
 ## <a name="countries-where-registration-id-is-required"></a>Länder där registrerings-ID krävs
 
@@ -29,7 +29,7 @@ Om du är en indirekt leverantör, partner för direktfakturering eller indirekt
 | **Armenien** | INN – Skatteidentifieringsnummer<br>Momsregistreringsnummer – kallas även för momsregistreringsnummer. Det här värdet är det unika nummer som identifierar en skattebar person (företag) eller icke-skattebar juridisk enhet som är registrerad för moms.<br>Nummer för offentlig tjänst |
 | **Azerbajdzjan**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) – Skatteidentifieringsnummer<br>INN – Skatteidentifieringsnummer |
 | **Vitryssland**  | UNP – Det här värdet är ett niosiffrigt tal (numeriskt för organisationer, alfanumeriskt för enskilda användare) som innehåller en regionsidentifierare, en serie per region och en kontrollsiffra. |
-|**Brasilien** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) – (Cadastro Nacional da Pessoa Jurizdica eller National Registry of Legal Entities). Det här värdet är ett identifieringsnummer som utfärdats till brasiliens företag av Brasiliens avdelning för federala intäkter  |
+|**Brasilien** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) – (Cadastro Nacional da Pessoa Jurica, eller National Registry of Legal Entities). Det här värdet är ett identifieringsnummer som utfärdats till brasiliens företag av Brasiliens avdelning för federala intäkter  |
 | **Kina** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/China-TIN.pdf) – Skatteidentifieringsnummer |
 | **Ungern**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Hungary-TIN.pdf) – Skatteidentifieringsnummer |
 | **Indien** | Skatte-ID<br>[PAN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) – (Presence Across Organization) PAN India Involvement innebär att det finns en organisation som arbetar på flera platser i Indien. |

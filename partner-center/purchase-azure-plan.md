@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 792ac90b1c8cad0929ea163a2b4f606ac9a1d3ce
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 1493d22c53915f3a4364981a77c249492b342595
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844521"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115102060"
 ---
 # <a name="purchase-the-azure-plan-for-customers-and-access-the-latest-azure-services"></a>Köp Azure-planen för kunder och få åtkomst till de senaste Azure-tjänsterna
 

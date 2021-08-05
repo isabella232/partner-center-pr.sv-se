@@ -3,25 +3,25 @@ title: Lägga till klientorganisationer i ditt Partnercenter-konto
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Lär dig hur du lägger till, konsoliderar eller hanterar flera Azure AD-klienter i ditt Partnercenter-konto och lär dig varför du kanske vill göra det.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3917d431cb57a8b7555079e063726da3b1c60fab
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 2bb4507fd7e5f60584c8fca99256c964a7521dc8
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836854"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115100696"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Lägga till och hantera flera klienter i ditt Partnercenter-konto
 
 
 **Lämpliga roller:** Global | Kontoadministratör
 
-Den här artikeln beskriver hur du konsoliderar flera Azure Active Directory-klienter (Azure AD) för ditt företag och sedan lägger till och hanterar dem i ditt Partnercenter-konto. Det finns många skäl att göra det. Till exempel:
+Den här artikeln beskriver hur du konsoliderar flera Azure Active Directory-klienter (Azure AD) för ditt företag och sedan lägger till och hanterar dem i ditt Partnercenter-konto. Det finns många skäl att göra det. Ett exempel:
 
 - Anta att ditt företag, Contoso, har köpt ett annat företag, Fabrikam. Du vill att de två företagen ska vara åtskilda, men du vill att de nya medarbetarna ska kunna använda Partnercenter. I det här fallet associerar du det nya företagets Azure AD-klientorganisation med ditt globala partnerkonto (PGA). Den här associationen gör det möjligt för användare i båda företagen att arbeta i Partnercenter.
 

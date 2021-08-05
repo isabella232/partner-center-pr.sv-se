@@ -3,18 +3,18 @@ title: Återställa mitt lösenord
 ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Lär dig hur du återställer ditt partnercenterlösenord eller får hjälp från företagets globala administratör. Lär dig också hur du lägger till en ny global partnercenteradministratör.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c26c33947e35e83f643c6ef1c6ddf74dab460f6d
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: ceb54243f3032de0667b67fc2e84c1ba6d05cd5b
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844470"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115100042"
 ---
 # <a name="reset-my-password"></a>Återställa mitt lösenord
  

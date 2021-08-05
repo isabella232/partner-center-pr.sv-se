@@ -9,12 +9,12 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 03/24/2021
-ms.openlocfilehash: 054920e490b84420a99938f7b28046e9999ddde4
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: aa8f08b52a16aae56b02b09d5fdf607e92180ca5
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837398"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101359"
 ---
 # <a name="how-to-confirm-that-your-customer-has-accepted-the-microsoft-customer-agreement-to-the-csp-program"></a>Så här bekräftar du att kunden har godkänt Microsoft-kundavtal till CSP-programmet
 
@@ -189,7 +189,7 @@ Det finns två scenarier där kunder kanske inte kan godkänna Microsoft-kundavt
 
 :::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Skärmbild av Microsoft 365 Admin Center-sidan där du uppmanas att kontakta din partner för att bekräfta godkännandet av Microsoft-kundavtal.":::
 
-**Scenario 2:** En befintlig kund har köpt någon av följande erbjudanden, programvaru- och programvaruprenumerationer, reserverade instanser och Azure-plan. Kunden försöker nu göra ett nytt köp med en ny partner.
+**Scenario 2:** En befintlig kund har köpt något av följande erbjudanden, programvaru- och programvaruprenumerationer, reserverade instanser och Azure-plan. Kunden försöker nu göra ett nytt köp med en ny partner.
 
 När kunden klickar på URL:en till Microsoft 365 Admin Center för att godkänna den nya partnerrelationen och avtalet får de meddelandet "Kontakta din partner för att bekräfta att du godkänner Microsoft-kundavtal".  
 

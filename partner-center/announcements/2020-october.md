@@ -3,18 +3,18 @@ title: Meddelanden oktober 2020
 description: Oktober 2020-meddelanden för Microsoft Partner Center, till exempel nya funktioner, kampanjer, erbjudanden, marknader eller ändringar i befintliga erbjudanden.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-action-center
+ms.subservice: partnercenter-announcements
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/30/2020
-ms.openlocfilehash: 8c5ae3f84417cfeeb02bfc84cc1fa69546a978cc
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: a8c56ee7b60345d64ff0fe3c82ffaa45256cea13
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841835"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115102559"
 ---
 # <a name="october-2020-announcements"></a>Meddelanden oktober 2020
 
@@ -185,7 +185,7 @@ Vi introducerar en prestandastandard som en del av partnerkraven för direktfakt
 
 ### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Direktfaktureringspartner i Molnlösningsleverantör-programmet.
+Partner för direktfakturering i Molnlösningsleverantör-programmet.
 
 ### <a name="details"></a>Information
 
@@ -226,7 +226,7 @@ Jämför alternativen [för supportavtal för](https://partner.microsoft.com/sup
 
 **Visa viktiga funktioner**
 
-För att säkerställa att du är redo och har kunskap om den infrastruktur som behövs för att stödja direktfaktureringsprogrammet har vi några ytterligare rekommendationer. Visa att du tillhandahåller minst en hanterad tjänst, EN IP-tjänst eller ett kundlösningsprogram. Partner bör lägga till värde utöver Microsoft Cloud-tjänster och inte bara göra en rät återförsäljning av våra tjänster. Det är en viktig del av en partners strategi för att ta sig till marknaden. [Läs mer om](https://partner.microsoft.com/solutions/managed-services) att lägga till hanterade tjänster. Vi rekommenderar att du uppfyller de minsta infrastrukturfunktionerna, till exempel fakturering och etablering. 
+För att säkerställa att du är redo och har kunskap om den infrastruktur som behövs för att stödja direktfaktureringsprogrammet har vi några ytterligare rekommendationer. Visa att du tillhandahåller minst en hanterad tjänst, EN IP-tjänst eller ett kundlösningsprogram. Partner bör lägga till värde utöver Microsoft Cloud-tjänster och inte bara göra en rät återförsäljning av våra tjänster. Det är en viktig del av en partners strategi för att ta sig till marknaden. [Läs mer om](https://partner.microsoft.com/solutions/managed-services) att lägga till hanterade tjänster. Vi rekommenderar att du uppfyller minimikraven för infrastruktur, till exempel fakturering och etablering. 
 
 Direktfaktureringspartner i CSP-programmet som inte uppfyller de nya kraven måste registrera sig på nytt som indirekta återförsäljare i programmet inom Microsoft Partner Network. [Läs mer](../transition-direct-to-indirect.md) om hur du kan göra övergången från en direktfaktureringspartner till en indirekt återförsäljare.  
 
@@ -278,7 +278,7 @@ Information om erbjudande-ID i förhandsversionen av erbjudande-ID i november b�
 ### <a name="next-steps"></a>Nästa steg
 
 - Bekanta dig med prislistan för förhandsversionen och dela den här informationen med alla lämpliga kontakter i din organisation.
-- Granska allt beredskapsmaterial på CSP-programuppdateringsresursgalleriet [Introducing Microsoft 365 Business Voice for small and medium businesses](https://partner.microsoft.com/resources/collection/m365-voice-smb).
+- Granska allt beredskapsmaterial på CSP Program Updates Resource Gallery [Introducing Microsoft 365 Business Voice for small and medium businesses](https://partner.microsoft.com/resources/collection/m365-voice-smb).
 ________________
 
 ## <a name="november-2020-update-online-services-and-software-channel-authorization-guide"></a><a name="11"></a>Uppdatering november 2020: Auktoriseringsguide för onlinetjänster och programvarukanal
@@ -371,7 +371,7 @@ Från den 1 november 2020 till och med 30 april 2021 kommer nya prenumerationer 
    |Microsoft 365 Business Voice implementeringskampanj (utan att anropa planen)|b71df433-6fd9-4549-886d-577f7aa06070|PZY-00019|
    |Microsoft 365 Business Voice implementeringskampanj (utan att anropa planen)|4ba4d580-4902-42b0-8411-a27358dd5405|PZY-00016|
    |Microsoft 365 Business Voice implementeringskampanj (utan att anropa planen)|bbfd896b-e3d4-45ba-9319-14104d400069|PZY-00018|
-   |Microsoft 365 Business Voice (utan anropsplan) för US Adoption Promo|9b05d0b7-cfb4-42f1-9cc3-f698dba2838e|PZY-00017|
+   |Microsoft 365 Business Voice (utan samtalsplan) för US Adoption Promo|9b05d0b7-cfb4-42f1-9cc3-f698dba2838e|PZY-00017|
    
 Dessa kampanjer påverkar följande kunder:
 - Netto nya kundklienter
@@ -450,7 +450,7 @@ Partner som gör en överträdelse via CSP-programmet
 
 Den nya Microsoft Teams Rum Premium SKU:n för Microsoft Teams Rum är nu tillgänglig för dina kunder som köper CSP via dig på 50 USD per enhet och månad. SKU:n Microsoft Teams Rum Premium är ett alternativ till Microsoft Teams Rum Standard SKU (kallades tidigare för Mötesrum licens). Denna SKU innehåller allt i standarderbjudandet, till exempel nödvändiga licenser för Microsoft Teams, Skype för företag Online och Intune-hantering. Erbjudandet möjliggör även Telefonsystem krävs för PSTN-integrering (Public Switched Telephone Network) och ljudkonferens, där det är tillgängligt.
 
-Med Premium får kunderna tillgång till de nyligen utgivna Microsoft Teams Rum Managed Services, där experter hanterar hanteringen och driften av mötesrum åt kunden. Den här molnbaserade IT-hanterings- och övervakningstjänsten håller Microsoft Teams Rum-enheter och kringutrustning uppdaterade och säkra, samt proaktivt övervakade och hanterade, med en miljö som är optimerad för en bra miljö i rummet.
+Med Premium får kunderna tillgång till de nyligen utgivna Microsoft Teams Rum Managed Services, där experter hanterar hanteringen och driften av mötesrum åt kunden. Den här molnbaserade IT-hanterings- och övervakningstjänsten håller Microsoft Teams Rum-enheter och deras kringutrustning uppdaterade och säkra, samt proaktivt övervakade och hanterade, med en miljö som är optimerad för en bra miljö i rummet.
 
 #### <a name="released-at-launch"></a>Utgiven vid start
 
@@ -486,12 +486,12 @@ Om du vill bekanta dig med det nya erbjudandet och den geografiska tillgängligh
 
 - Läs mer om Microsoft-rum och relaterade erbjudanden på [rooms.microsoft.com](https://rooms.microsoft.com/). 
 - Använd [guiden Teams partner för att](https://aka.ms/teamscallingmeetingsguide) utveckla din praxis med Teams meeting rooms och skapa ett erbjudande för sälj sälj redo. 
-- Mer [information Microsoft Teams Rum produktlösningen](https://aka.ms/PartnerMTRFAQ) och tjänsterna finns i vanliga frågor och svar. 
+- I vanliga [Microsoft Teams Rum finns](https://aka.ms/PartnerMTRFAQ) mer information om produktlösningen och tjänsterna. 
 - Dela den här informationen med alla lämpliga kontakter i din organisation och förstå möjligheter till merförsäljning och korsförsäljning.
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har fler frågor om dessa erbjudanden kan du läsa dina Yammer communityer.
+Mer information om dessa erbjudanden finns i relevanta Yammer communities.
 
 ________________
 
@@ -505,7 +505,7 @@ ________________
 
 ### <a name="summary"></a>Sammanfattning
 
-Microsoft är glada över att kunna meddela att Microsofts anropsplaner nu är tillgängliga på följande nya marknader: Schweiz, Schweiz, Italien, Portugal, Tyskland och Schweiz.
+Microsoft är glada över att kunna meddela att Microsoft Calling Plans nu är tillgängligt på följande nya marknader: Schweiz, Tyskland, Italien, Portugal, Tyskland och Schweiz.
  
 ### <a name="impacted-audience"></a>Påverkad målgrupp
 
@@ -513,7 +513,7 @@ Molnlösningsleverantör (CSP) direkta leverantörer, indirekta leverantörer oc
 
 ### <a name="details"></a>Information
 
-Microsoft är glada över att kunna meddela att Från och med den 1 oktober 2020 är Microsoft Calling Plans nu tillgängligt på följande nya marknader: Schweiz, Schweiz, Italien, Portugal, Storbritannien och Schweiz. Den nya geo-tillgängligheten lanserades i kommersiell, global offentlig sektor, ideella organisationer och Government Community Cloud via företagsavtal (EA) eller företagsavtal Subscription (EAS), Enrollment for Education Solutions (EA), Web Direct och CSP.
+Microsoft är glada över att kunna meddela att Från och med den 1 oktober 2020 är Microsoft Calling Plans nu tillgängligt på följande nya marknader: Schweiz, Schweiz, Italien, Portugal, Tyskland och Schweiz. Den nya geo-tillgängligheten lanserades i kommersiell, global offentlig sektor, ideella organisationer och Government Community Cloud via företagsavtal (EA) eller företagsavtal Subscription (EAS), Enrollment for Education Solutions (EA), Web Direct och CSP.
 
 Alla Microsoft-samtalsplaner är tillgängliga för Microsofts nationella och internationella samtalsplaner, inklusive de nationella planerna 120, 240 och 1 200 minuter per användare per månad (p/u/m) och den internationella planen med 1 200 nationella minuter p/u/m och 600 internationella minuter p/u/m.
 
@@ -526,7 +526,7 @@ Microsoft Calling Plans har tidigare gjorts tillgängligt på följande marknade
    |Microsoft 365 Nationella samtalsplan|52b01454-aa44-4e03-8049-c4d57496a430|4ID-00002|
    |Microsoft 365 Nationella samtalsplan|0f598efe-f330-4d79-b79f-c9480bb7ce3e|AAA-13706|
    |Microsoft 365 Nationella samtalsplan (prissättning för myndigheter)|96b96fd8-b77d-41a4-ae5d-0a6652f454b7|AAA-13707|
-   |Microsoft 365 Plan för nationella samtal för studenter|da2034e1-c147-4aae-afab-9c15acf16ea5|AAA-22335|
+   |Microsoft 365 Nationella samtalsplan för studenter|da2034e1-c147-4aae-afab-9c15acf16ea5|AAA-22335|
    |Microsoft 365 Nationella samtalsplan för lärare och lärare|5e8853ed-611c-4f9c-af21-540ba351a636|AAA-22334|
    |Microsoft 365 Nationella samtalsplan för GCC|7099743e-f474-48be-97bc-d4fb22f059bf|AAD-25690|
    |Microsoft 365 Nationella och internationella samtalsplan|ded34535-507f-4246-8370-f9180318c537|AAA-13708|
@@ -534,21 +534,21 @@ Microsoft Calling Plans har tidigare gjorts tillgängligt på följande marknade
    |Microsoft 365 Nationella och internationella samtalsplan för studenter|64ed3fb4-9f46-4e8a-b287-7a3662245c37|AAA-22337|
    |Microsoft 365 Nationella och internationella samtalsplan för lärare och lärare|492b8a14-381c-4536-bf63-bd5785c14734|AAA-22336|
    |Microsoft 365 Nationella och internationella samtalsplan för GCC|0cf5df85-ecf5-43f5-93b0-04a950e906a3|AAD-25680|
-   |Microsoft 365 Plan för nationella samtal (120 min)|40d28d55-0006-4bb0-8f41-37ac05df5dc7|AAD-11639|
+   |Microsoft 365 Nationella samtalsplan (120 min)|40d28d55-0006-4bb0-8f41-37ac05df5dc7|AAD-11639|
    |Microsoft 365 Nationella samtalsplan (120 min) för studenter|353d7f89-2e6f-4deb-9145-80f281a782ab|AAD-11641|
    |Microsoft 365 Nationella samtalsplan (120 min) för lärare och lärare|80fc6c74-cc94-478d-97b0-8455593a5987|AAD-11640|
 
 ### <a name="next-steps"></a>Nästa steg
 
 - Om du är på en marknad där samtalsplanerna görs tillgängliga den 1 oktober 2020 kan du dela detta med dina intressenter 
-- Kontakta dina kunder i dessa geografiska områden för att diskutera Microsoft-samtalsplaner. 
+- Kontakta dina kunder i dessa områden för att diskutera Microsoft-samtalsplaner. 
 - Nominera kunden för en Microsoft Teams Calling Workshop 
 - Använd guiden Microsoft Teams partner för att utveckla din samtalspraxis 
 - Uppnå ett anrop för Microsoft Teams avancerad specialisering 
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har fler frågor om dessa erbjudanden kan du läsa dina Yammer communityn.
+Om du har fler frågor om dessa erbjudanden kan du läsa dina Yammer communityer.
 
 ________________
 
@@ -561,41 +561,41 @@ ________________
  
 ### <a name="summary"></a>Sammanfattning
 
-Den 1 november 2020 kommer nya kampanjpriser för Microsoft Teams Advanced Communications att bli tillgängliga. 
+Den 1 november 2020 blir nya kampanjpriser för Microsoft Teams Advanced Communications tillgängliga. 
 
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Alla partner som gör en transacting Molnlösningsleverantör (CSP)-programmet.
+Alla partner som gör en transact genom Molnlösningsleverantör(CSP)-programmet.
 
 ### <a name="details"></a>Information
 
-SKU:n Advanced Communications Kampanj för Microsoft Teams kommer att vara tillgänglig från den 1 november 2020 med en rabatt på 35 procent. SKU:n kan köpas från 1 november 2020 till och med 31 januari 2021. 
+SKU:n Advanced Communications Promo för Microsoft Teams kommer att vara tillgänglig från den 1 november 2020 med 35 procents rabatt. SKU:n kan köpas från 1 november 2020 till och med 31 januari 2021. 
 
  
 #### <a name="offer-details"></a>Erbjudandeinformation
 
    |**Erbjudandets namn**|**Erbjudande-ID**|**Material-ID**|
    |-------------------|:------|:------|
-   |Advanced Communications-kampanj|0e89eea4-5cb1-4417-9f5d-886d1ff87940|1UC-00013|
+   |Avancerad kommunikationskampanj|0e89eea4-5cb1-4417-9f5d-886d1ff87940|1UC-00013|
 
 #### <a name="frequently-asked-questions"></a>Vanliga frågor och svar
 
 **Vad är avancerad kommunikation?**
-Det här är Microsoft Teams nya SKU:er som gör att kunderna kan förbättra sin kommunikationsupplevelse ytterligare utöver de Microsoft 365 eller Office 365 som de prenumererar på.
+Det här är Microsoft Teams SKU för tillägg, vilket gör det möjligt för kunder att ytterligare förbättra sin kommunikationsupplevelse utöver alla Microsoft 365 eller Office 365 som de prenumererar på.
 
 **Hur mycket kostar det utan befordran?**
-Det uppskattade butikspriset är 12 USD per användare och månad.
+Det uppskattade försäljningspriset är 12 USD per användare och månad.
 
-**Vilka kunder kan köpa Advanced Communications?**
+**Vilka kunder kan köpa Avancerad kommunikation?**
 Kommersiell, Global kommersiell offentlig sektor, utbildning och ideell verksamhet.
 
 **Via vilka kanaler kan Advanced Communications köpas?**
-företagsavtal (EA)/Enterprise-prenumeration (EAS), Registrering för Education Solutions (SOLUTIONS), CSP eller Web Direct.
+företagsavtal (EA)/Enterprise Subscription (EAS), Enrollment for Education Solutions (SOLUTIONS), CSP eller Web Direct.
 
-**Vilka kunder kan köpa SKU:n för Advanced Communications-kampanj?**
+**Vilka kunder kan köpa SKU:n advanced communications?**
 Endast kommersiella kunder.
 
-**Hur kan SKU:n för Advanced Communications-kampanj köpas?**
+**Hur kan SKU:n för Avancerad kommunikation köpas?**
 Kampanj-SKU:n kan köpas via EA/EAS eller CSP. 
 
 **Var kan den säljas?**
@@ -607,12 +607,12 @@ Microsoft Teams och alla Microsoft 365/Office 365 paket.
 ### <a name="next-steps"></a>Nästa steg
 
 - Dela den här informationen med relevanta kontakter i din organisation och förstå möjligheter till merförsäljning och korsförsäljning.
-- Läs avsnittet resurser i guiden [för Teams partner](https://aka.ms/teamscallingmeetingsguide).
-- Du hittar ytterligare information om Microsoft Teams erbjudanden [](https://www.microsoft.com/microsoft-365/blog/2020/09/08/3-deals-meeting-calling-experiences-microsoft-teams/) på bloggen eller på Office 365 [yammer-partnergrupp](https://www.yammer.com/office365partners/).
+- Läs avsnittet resurser i Teams [partnerguide.](https://aka.ms/teamscallingmeetingsguide)
+- Du hittar mer information om Microsoft Teams erbjudanden [](https://www.microsoft.com/microsoft-365/blog/2020/09/08/3-deals-meeting-calling-experiences-microsoft-teams/) på bloggen eller på Office 365 [yammer-partnergrupp](https://www.yammer.com/office365partners/).
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har frågor om dessa erbjudanden kontaktar du din representant i Microsoft-konto team eller support.
+Om du har frågor om dessa erbjudanden kontaktar du din representant i Microsoft-konto eller supporten.
 
 ________________
 
@@ -623,7 +623,7 @@ ________________
 - Datum: 2020-10-02
 - Erbjudanden/marknader
  
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
 Molnlösningsleverantör (CSP)-partner
 
@@ -636,8 +636,8 @@ Den 1 november 2020 släpper Microsoft följande nya och uppdaterade Dynamics 36
 
 ### <a name="additional-resources"></a>Ytterligare resurser
 
-- På fliken Project Operations (Åtgärder) i [dokumentet Dynamics CSP Offers-November 2020](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls) Excel för information om erbjudande-ID.
-- Hitta mer information på [startsidan för Microsoft Dynamics 365 Customer Voice.](https://dynamics.microsoft.com/customer-voice/overview/)
+- Se fliken Project Åtgärder i [dokumentet Dynamics CSP Offers-November 2020](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls) Excel för information om erbjudande-ID.
+- Mer information finns på [startsidan för Microsoft Dynamics 365 Customer Voice.](https://dynamics.microsoft.com/customer-voice/overview/)
 - Visa meddelandet om [nya Dynamics-erbjudanden i september.](2020-september.md#3)
 
 ________________
@@ -649,13 +649,13 @@ ________________
 - Datum: 2020-10-01
 - Erbjudanden/marknader
  
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
 Alla partner som deltar i CSP-programmet
 
 ### <a name="details"></a>Information
 
-Support för Windows 7 upphörde den 14 januari 2020. Många kunder är på väg att distribuera Windows 10, men Microsoft förstår att alla befinner sig på en annan punkt i uppgraderingsprocessen. Med den effektiva perioden Windows 7 år 1 ESU som slutar den 12 januari 2021 vet vi att kunder börjar planera för nästa år.  
+Support för Windows 7 upphörde den 14 januari 2020. Många kunder är på väg att distribuera Windows 10, men Microsoft förstår att alla befinner sig på en annan punkt i uppgraderingsprocessen. Med den effektiva perioden Windows 7 år 1 ESU som slutar den 12 januari 2021 vet vi att kunderna börjar planera för nästa år.  
 
 För kunder som förväntar sig att fortsätta använda Windows 7 enheter under 2021 är Windows 7 år 2 ESU (slutdatum 12 januari 2022) tillgängligt för CSP-partner nu för att hjälpa kunder med sitt Windows 10 beslut. Besök [resursgalleriet](https://partner.microsoft.com/resources/collection/windows-esu-csp#/) för mer information. 
 
@@ -674,7 +674,7 @@ Granska resurserna om det här avsnittet och dela den här informationen med lä
 Om du har fler frågor om dessa erbjudanden kan du läsa dina Yammer communityer. 
 ________________
 
-## <a name="new-skus-bring-the-power-of-project-cortex-and-more-to-customers"></a><a name="2"></a>Nya SKU:er ger kunderna kraften i Project Cortex och mer
+## <a name="new-skus-bring-the-power-of-project-cortex-and-more-to-customers"></a><a name="2"></a>Nya SKU:er ger kunderna Project Cortex och mer
 
 ### <a name="categories"></a>Kategorier
 
@@ -752,5 +752,5 @@ De uppdaterade FY21-programpriserna börjar gälla från den 1 oktober 2020. Par
 
 ### <a name="questions"></a>Har du några frågor?
 
-Rekommenderade steg och självhjälpsartiklar för incitamentsrelaterade frågor är tillgängliga genom att **söka efter incitament** i sökfältet i Partnercenter. 
+Rekommenderade steg och självhjälpsartiklar för incitamentsrelaterade frågor är tillgängliga genom att söka **efter incitament** i sökfältet i Partnercenter. 
 ________________

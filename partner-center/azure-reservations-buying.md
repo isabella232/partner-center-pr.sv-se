@@ -9,12 +9,12 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 911c7271d852bef040dc7cc8f74eff2c8b865125
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 112296baffe38b81a1a0516e62fa31525d1e3b3d
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838367"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115102429"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Köp Microsoft Azure-reservationer åt dina kunder i Partnercenter
 
@@ -31,11 +31,11 @@ Granska viktig information nedan innan du köper Azure-reservationer åt dina ku
 
 - Om och när kunden signerar den nya Microsoft-kundavtal (se Bekräfta kundens godkännande av [Microsoft-kundavtal](confirm-customer-agreement.md)) måste du köpa Azure-reservationer enligt Azure-planen. Mer information finns i Köpa [Azure-plan.](purchase-azure-plan.md)
 
-- Kunderna måste redan ha en aktiv Azure-prenumeration innan du kan köpa reservationer för deras räkning
+- Kunderna måste redan ha en aktiv Azure-prenumeration innan du kan köpa reservationer åt dem
   
 - Kostnader för programvaruprenumeration som SQL Database eller SUSE Linux-programvara ingår inte i Azure-reservationspriser
 
-- Microsofts kommersiella priser för dig inkluderar inte skatter, såvida inte din plats är Brasilien. Om din plats är Brasilien inkluderar det kommersiella priset till dig lämpliga skatter
+- Microsofts kommersiella prissättning inkluderar inte skatter, såvida inte din plats är Brasilien. Om din plats är Brasilien inkluderar det kommersiella priset till dig lämpliga skatter
 
 - Försäljnings- och supportavdelningen behöver explicit åtkomst till Azure-prenumerationen så att de kan köpa eller hantera den i Azure Portal- och filsupportbegäranden, inklusive för utbyten och återbetalningar, för kundens räkning  
 
@@ -100,7 +100,7 @@ Följ stegen nedan för att köpa Microsoft Azure reservationer åt dina kunder 
 
 2. På sidan **Kunder** hittar du den kund som vill köpa Azure-reservationer och väljer sedan nedåtpilen för att expandera kundens rad.  
 
-3. Välj **Lägg till** produkter och välj sedan **Azure**. 
+3. Välj **Lägg till produkter** och välj sedan **Azure**. 
 
     a. Välj kundens marknadssegment i **listan** Segment.
 
@@ -113,7 +113,7 @@ Följ stegen nedan för att köpa Microsoft Azure reservationer åt dina kunder 
    >[!IMPORTANT]
    >Om kunden inte redan har en aktiv Azure-prenumeration väljer du Azure för **att** lägga till en nu. 
 
-5. Använd filtren för att hitta Azure-reservationer på virtuella datorer som uppfyller kundens krav.  
+5. Använd filtren för att hitta Azure-reservationer på virtuella datorer som uppfyller dina kunders krav.  
 
 6. När du har hittat de reservationer som du vill köpa anger du  antalet reserverade instanser som kunden behöver i Kvantitet och väljer sedan Lägg **till i kundvagn.**  
 
@@ -121,9 +121,9 @@ Följ stegen nedan för att köpa Microsoft Azure reservationer åt dina kunder 
 
 8. På sidan **Granska dina beställningar** kan du: 
 
-    - Verifiera eller ändra antalet reserverade instanser.
+    - Verifiera eller ändra kvantiteten för reserverade instanser.
 
-    - Välj reservationens omfång. Reservationens omfång kan omfatta en prenumeration eller flera prenumerationer (delat omfång). Om du omfångsbear reservationen till en enda prenumeration tillämpas reservationsrabatten endast på den här prenumerationen. Om du väljer delad tillämpas reservationsrabatten på alla prenumerationer i kundens faktureringskontext. 
+    - Välj reservationens omfång. Reservationens omfång kan omfatta en prenumeration eller flera prenumerationer (delat omfång). Om du omfångsbefattningar reservationen till en enda prenumeration tillämpas reservationsrabatten endast på den här prenumerationen. Om du väljer delad tillämpas reservationsrabatten på alla prenumerationer i kundens faktureringskontext. 
 
       >[!NOTE] 
       >Om du väljer att begränsa reservationens omfång till en enda Azure-prenumeration kan du behöva öka prenumerationens vCPU-kvot. Om du vill öka prenumerationens vCPU-kvot måste du skapa en supportbegäran i Azure Portal. Följ anvisningarna [i det här avsnittet](/azure/azure-supportability/resource-manager-core-quotas-request) för att skapa begäran. 

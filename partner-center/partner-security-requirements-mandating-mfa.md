@@ -3,32 +3,32 @@ title: Använda multifaktorautentisering (MFA) för din partnerklientorganisatio
 ms.topic: article
 ms.date: 10/29/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Lär dig hur du kan skydda din åtkomst till kundresurser genom att använda MFA för dina partnerklienter. Innehåller exempelscenarier.
 author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ba45c4c3d596c926bb6bfb8cf786e7e873c2a6c7
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: c29e59118f4b50cd25fbe0f1560519bb178768e2
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836735"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101264"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Använda multifaktorautentisering (MFA) för din partnerklientorganisation
 
-**Lämpliga roller:** Administratörsagent | Försäljningsagent | Supportagent | Faktureringsadministratörskonto | Global administratör
+**Lämpliga roller:** Administratörsagent | Försäljningsagentens | Supportagent | Faktureringsadministratörskonto | Global administratör
 
-Den här artikeln innehåller detaljerade exempel och vägledning för att använda multifaktorautentisering (MFA) i Partnercenter. Syftet med den här funktionen är att hjälpa partner att skydda sin åtkomst till kundresurser mot kompromettering av autentiseringsuppgifter. Partner måste framtvinga MFA för alla användarkonton i partnerklientorganisationen, inklusive gästanvändare. Användare måste slutföra MFA-verifieringen inom följande områden:
+Den här artikeln innehåller detaljerade exempel och vägledning för att använda multifaktorautentisering (MFA) i Partnercenter. Syftet med den här funktionen är att hjälpa partner att skydda sin åtkomst till kundresurser mot kompromettering av autentiseringsuppgifter. Partner måste framtvinga MFA för alla användarkonton i partnerklientorganisationen, inklusive gästanvändare. Användarna måste slutföra MFA-verifieringen inom följande områden:
 
 - [Instrumentpanel i Partnercenter](#partner-center-dashboard)
 - [Partner Center-API](#partner-center-api)
-- [Delegerad partneradministration](#partner-delegated-administration)
+- [Partner-delegerad administration](#partner-delegated-administration)
 
-Större och pågående skyddsmekanismer för säkerhet och sekretess är bland våra högsta prioriteter och vi fortsätter att hjälpa partner att skydda sina kunder och klienter. Alla partner som deltar i Molnlösningsleverantör-programmet (CSP), Kontrollpanelen-leverantörer (CPV) och rådgivare bör implementera [partnersäkerhetskraven](partner-security-requirements.md) för att efterleva kraven.
+Större och kontinuerliga säkerhets- och integritetsskydd är bland våra högsta prioriteter och vi fortsätter att hjälpa partner att skydda sina kunder och klienter. Alla partner som deltar i Molnlösningsleverantör-programmet (CSP), Kontrollpanelen-leverantörer (CPV:er) och rådgivare bör implementera [partnersäkerhetskraven](partner-security-requirements.md) för att efterleva kraven.
 
-För att hjälpa partner att skydda sina företag och kunder från identitetsstöld och obehörig åtkomst har vi aktiverat ytterligare säkerhetsskydd för partnerklienter som behöver och verifiera MFA. 
+För att hjälpa partner att skydda sina företag och kunder från identitetsstöld och obehörig åtkomst har vi aktiverat ytterligare säkerhetsskydd för partnerklienter som berättigar till och verifierar MFA. 
 
 ## <a name="partner-center-dashboard"></a>Instrumentpanel i Partnercenter
 
@@ -38,16 +38,16 @@ Vissa sidor i instrumentpanelen i Partnercenter kommer att vara MFA-skyddade, in
 - Alla sidor under **fliken > Kundförfrågningar,** t.ex. sidan som nås under https://partner.microsoft.com/dashboard/support/csp/customers/*
 - Faktureringssida
 
-I följande tabell visas vilka användartyper som har behörighet att komma åt dessa MFA-skyddade sidor (och därför påverkas av den här funktionen).
+Följande tabell visar vilka användartyper som har behörighet att komma åt dessa MFA-skyddade sidor (och påverkas därför av den här funktionen).
 
 
-| MFA-skyddad sida       | Administratörsagenter      |  Försäljningsagenter     |   Supportagenter     | Global administratör      |  Faktureringsadministratör     | 
+| Sida som skyddas av MFA       | Administratörsagenter      |  Försäljningsagenter     |   Supportagenter     | Global administratör      |  Faktureringsadministratör     | 
 |---    |---    |---    |---    |---    |---    |
 | Alla sidor under fliken Kunder      |   x    |    x   |  x     |       |       |
-| Alla sidor under fliken Support > Kundförfrågningar     | x      |       |    x   |       |       |
+| Alla sidor under fliken > supportbegäranden     | x      |       |    x   |       |       |
 | Faktureringssida     |   x    |       |       |    x   |   x    |
 
-Om du försöker komma åt någon av dessa sidor och inte har slutfört MFA-verifieringen tidigare måste du göra det. Andra sidor i Partnercenter, till exempel sidan Översikt, Service Health för statuskontroll kräver inte MFA.
+Om du försöker komma åt någon av dessa sidor och du inte har slutfört MFA-verifieringen tidigare måste du göra det. Andra sidor i Partnercenter, till exempel sidan Översikt, Service Health för statuskontroll kräver inte MFA.
 
 ## <a name="verification-examples"></a>Verifieringsexempel
 
@@ -55,23 +55,23 @@ För att illustrera hur verifiering fungerar på instrumentpanelen i Partnercent
 
 ### <a name="example-1-partner-has-implemented-azure-ad-mfa"></a>Exempel 1: Partnern har implementerat Azure AD MFA
 
-1. Jane arbetar för CSP Contoso. Contoso har implementerat MFA för alla sina användare under Contosos partnerklientorganisation med hjälp Azure Active Directory MFA (Azure AD).
+1. Jane arbetar för CSP Contoso. Contoso har implementerat MFA för alla sina användare under Contosos partnerklientorganisation med hjälp av MFA Azure Active Directory (Azure AD).
 
-2. Jane startar en ny webbläsarsession och går till översiktssidan för Partnercenter-instrumentpanelen (som inte är MFA-skyddad). Partner Center omdirigerar Jane till Azure AD för att logga in.
+2. Jane startar en ny webbläsarsession och går till översiktssidan för instrumentpanelen i Partnercenter (som inte är MFA-skyddad). Partner Center omdirigerar Jane till Azure AD för att logga in.
 
-3. På grund av contosos befintliga Azure AD MFA-konfiguration krävs Jane för att slutföra MFA-verifieringen. Vid lyckad inloggning och MFA-verifiering omdirigeras Jane tillbaka till översiktssidan för instrumentpanelen i Partnercenter.
+3. På grund av contosos befintliga Azure AD MFA-konfiguration krävs Jane för att slutföra MFA-verifieringen. Vid lyckad inloggning och MFA-verifiering omdirigeras Jane tillbaka till partnercentrets instrumentpanelsöversiktssida.
 
 4. Jane försöker komma åt en av de MFA-skyddade sidorna i Partnercenter. Eftersom Jane redan har slutfört MFA-verifieringen under inloggningen tidigare kan Jane komma åt sidan MFA-skyddad utan att behöva gå igenom MFA-verifieringen igen.
 
 ### <a name="example-2-partner-has-implemented-third-party-mfa-using-identity-federation"></a>Exempel 2: Partnern har implementerat MFA från tredje part med hjälp av identitetsfederation
 
-1. Wingtip arbetar för CSP Wingtip. Wingtip har implementerat MFA för alla sina användare under Wingtip-partnerklientorganisationen med hjälp av MFA från tredje part, som är integrerat med Azure AD via identitetsfederation.
+1. Trent arbetar för CSP Wingtip. Wingtip har implementerat MFA för alla sina användare under Wingtip-partnerklientorganisationen med hjälp av tredjeparts-MFA, som är integrerat med Azure AD via identitetsfederation.
 
-2. Page startar en ny webbläsarsession och navigerar till översiktssidan för Partnercenter-instrumentpanelen (som inte är MFA-skyddad). Partner Center omdirigerar Arnold till Azure AD för att logga in.
+2. Trent startar en ny webbläsarsession och navigerar till översiktssidan för Partnercenter-instrumentpanelen (som inte är MFA-skyddad). Partner Center omdirigerar Trent till Azure AD för att logga in.
 
-3. Eftersom Wingtip har ställt in identitetsfederation omdirigerar Azure AD Arnold till den federerade identitetsprovidern för att slutföra inloggningen och MFA-verifieringen. Vid lyckad inloggning och MFA-verifiering omdirigeras Arnold tillbaka till Azure AD och sedan till översiktssidan för instrumentpanelen i Partnercenter.
+3. Eftersom Wingtip har ställt in identitetsfederation omdirigerar Azure AD Trent till den federerade identitetsprovidern för att slutföra inloggningen och MFA-verifieringen. Vid lyckad inloggning och MFA-verifiering omdirigeras Trent tillbaka till Azure AD och sedan till översiktssidan för instrumentpanelen i Partnercenter.
 
-4. Provar att komma åt en av de MFA-skyddade sidorna i Partnercenter. Eftersom Arnold redan har slutfört MFA-verifieringen under inloggningen tidigare, kan Arnold komma åt den MFA-skyddade sidan utan att behöva gå igenom MFA-verifieringen igen.
+4. Trent försöker komma åt en av de MFA-skyddade sidorna i Partnercenter. Eftersom Trent redan har slutfört MFA-verifieringen under inloggningen tidigare kan Trent komma åt den MFA-skyddade sidan utan att behöva gå igenom MFA-verifieringen igen.
 
 ### <a name="example-3-partner-hasnt-implemented-mfa"></a>Exempel 3: Partnern har inte implementerat MFA
 
@@ -79,27 +79,27 @@ För att illustrera hur verifiering fungerar på instrumentpanelen i Partnercent
 
 2. John startar en ny webbläsarsession och går till översiktssidan för Partnercenter-instrumentpanelen (som inte är MFA-skyddad). Partner Center omdirigerar John till Azure AD för att logga in.
 
-3. Eftersom Fabrikam inte har implementerat MFA behöver John inte slutföra MFA-verifieringen. Vid lyckad inloggning omdirigeras John tillbaka till översiktssidan för instrumentpanelen i Partnercenter.
+3. Eftersom Fabrikam inte har implementerat MFA behöver John inte slutföra MFA-verifieringen. Vid lyckad inloggning omdirigeras John tillbaka till instrumentpanelens översiktssida i Partnercenter.
 
-4. John försöker komma åt en av de MFA-skyddade sidorna i Partnercenter. Eftersom John inte har slutfört MFA-verifieringen omdirigerar Partner Center John till Azure AD för att slutföra MFA-verifieringen. Eftersom det är första gången John måste slutföra MFA, begärs även John att registrera [sig för MFA](#mfa-registration-experience). Vid lyckad MFA-registrering och MFA-verifiering kan John nu komma åt sidan MFA-skyddad.
+4. John försöker komma åt en av de MFA-skyddade sidorna i Partnercenter. Eftersom John inte har slutfört MFA-verifiering omdirigerar Partner Center John till Azure AD för att slutföra MFA-verifieringen. Eftersom det här är första gången John måste slutföra MFA, begärs även John att registrera [sig för MFA](#mfa-registration-experience). Vid lyckad MFA-registrering och MFA-verifiering kan John nu komma åt den MFA-skyddade sidan.
 
-5. En annan dag innan Fabrikam implementerar MFA för någon användare startar John en ny webbläsarsession och går till översiktssidan för Partnercenter-instrumentpanelen (som inte är MFA-skyddad). Partner Center omdirigerar John till Azure AD för att logga in utan MFA-prompt. 
+5. Ännu en dag innan Fabrikam implementerar MFA för någon användare startar John en ny webbläsarsession och går till översiktssidan för instrumentpanelen i Partnercenter (som inte är MFA-skyddad). Partner Center omdirigerar John till Azure AD för att logga in utan MFA-prompt. 
 
-6. John försöker komma åt en av de MFA-skyddade sidorna i Partnercenter. Eftersom John inte har slutfört MFA-verifieringen omdirigerar Partner Center John till Azure AD för att slutföra MFA-verifieringen. Eftersom John har registrerat MFA ombeds han bara att slutföra MFA-verifieringen den här gången.
+6. John försöker komma åt en av de MFA-skyddade sidorna i Partnercenter. Eftersom John inte har slutfört MFA-verifiering omdirigerar Partner Center John till Azure AD för att slutföra MFA-verifieringen. Eftersom John har registrerat MFA uppmanas han därför bara att slutföra MFA-verifieringen den här gången.
 
 > [!NOTE]
 >Åtgärd: Företagsadministratörer har [tre alternativ för](partner-security-requirements.md#implementing-multi-factor-authentication) att implementera MFA.
 
 ## <a name="partner-center-api"></a>Partner Center-API
 
-Partnercenter-API:et stöder både appautentisering och app-/användarautentisering. 
+Partner Center-API:et stöder både appbaserad autentisering och app-/användarautentisering. 
 
 När App+User-autentisering används kräver Partnercenter MFA-verifiering. Mer specifikt, när ett partnerprogram vill skicka en API-begäran till Partnercenter, måste det innehålla en åtkomsttoken i auktoriseringshuvudet för begäran. 
 
 > [!NOTE]
->Det [Modell för säkra program ramverket](/partner-center/develop/enable-secure-app-model) är ett skalbart ramverk för autentisering av CSP-partner och CPV:er via MFA Microsoft Azure arkitekturen vid anrop till Partner Center-API:er. Du måste implementera det här ramverket innan du aktiverar MFA på din klientorganisation. 
+>Ramverket [Modell för säkra program är](/partner-center/develop/enable-secure-app-model) ett skalbart ramverk för autentisering av CSP-partner och CPV:er via MFA Microsoft Azure arkitekturen vid anrop av Partner Center-API:er. Du måste implementera det här ramverket innan du aktiverar MFA för din klientorganisation. 
 
-När Partnercenter tar emot en API-begäran med en åtkomsttoken som erhållits med hjälp av app- och användarautentisering söker Partnercenter-API:et efter förekomsten av *MFA-värdet* i *AMR-anspråket (Authentication Method Reference).* Du kan använda en JWT-avkodare för att verifiera om en åtkomsttoken innehåller det förväntade AMR-värdet (Authentication Method Reference) eller inte:
+När Partnercenter tar emot en API-begäran med en åtkomsttoken som erhållits med app-/användarautentisering, kontrollerar Partnercenter-API:et om det finns *ett MFA-värde* i *AMR-anspråket (Authentication Method Reference).* Du kan använda en JWT-avkodare för att verifiera om en åtkomsttoken innehåller det förväntade AMR-värdet (Authentication Method Reference) eller inte:
 
 ``` csharp
 {
@@ -139,15 +139,15 @@ WWW-Authenticate: Bearer error="invalid_token"
 Date: Thu, 14 Feb 2019 21:54:58 GMT
 ```
 
-När App-Only autentisering används kommer API:erna som stöder App-Only autentisering att fungera kontinuerligt utan att MFA krävs.
+När App-Only autentisering används kommer API:erna som stöder App-Only-autentisering att fungera kontinuerligt utan att MFA krävs.
 
-## <a name="partner-delegated-administration"></a>Delegerad partneradministration
+## <a name="partner-delegated-administration"></a>Partner-delegerad administration
 
 Partnerkonton, inklusive administratörsagenter och supportagenter, kan använda sina partner-delegerade administratörsbehörigheter för att hantera kundresurser via Microsoft Online Services-portaler, kommandoradsgränssnitt (CLI) och API:er (med app- och användarautentisering).
 
 ### <a name="using-service-portals"></a>Använda tjänstportaler
 
-Vid åtkomst till Microsoft Online Services-portaler med hjälp av partner-delegerade administratörsbehörigheter (Admin-On-Behalf-Of) för att hantera kundresurser kräver många av dessa portaler att partnerkontot autentiserar interaktivt, med kundens Azure AD-klientorganisation inställd som autentiseringskontext – partnerkontot krävs för att logga in på kundens klientorganisation.
+När du använder Microsoft Online Services-portaler med partner-delegerade administratörsbehörigheter (Admin-On-Behalf-Of) för att hantera kundresurser, kräver många av dessa portaler att partnerkontot autentiseras interaktivt, med kundens Azure AD-klientorganisation inställd som autentiseringskontext – partnerkontot krävs för att logga in på kundens klientorganisation.
 
 När Azure AD tar emot sådana autentiseringsförfrågningar kräver det att partnerkontot slutför MFA-verifieringen. Det finns två möjliga användarupplevelser, beroende på om partnerkontot är en hanterad eller federerad identitet:
 

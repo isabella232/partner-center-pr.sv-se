@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 07/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
-description: Lär dig hur en Molnlösningsleverantör(CSP)-programpartner kan använda PartnerCenter för att övergå från partner med direktfakturering till indirekt återförsäljare.
+description: Lär dig hur en Molnlösningsleverantör(CSP)-programpartner kan använda PartnerCenter för att övergå från direktfaktureringspartner till indirekt återförsäljare.
 author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b531a8cda5cfda48391ec6be5c944a6869f0ec1
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 17f0a23814213805d239d887719c5c3885234390
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839795"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115102446"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Övergå från en CSP-partner med direktfakturering till en indirekt CSP-återförsäljare
 
@@ -129,7 +129,7 @@ Du hanterar dina direktfaktureringskunder och dina indirekta återförsäljares 
 
 2. Välj en kund för att visa information.
 
-3. Om kunden är en partner som du har köpt  som en direktfaktureringspartner visas alternativ för att lägga till **eller** visa produkter och du ser deras prenumerationer.
+3. Om kunden är en partner som du har köpt  som direktfaktureringspartner visas alternativ för att lägga till **eller** visa produkter och du ser deras prenumerationer.
 
 4. Om kunden har en indirekt återförsäljarrelation med dig är dessa alternativ inte tillgängliga.
 
@@ -167,11 +167,11 @@ Du kan använda funktionen för tillägget för återförsäljarrelationer för 
 
 Så här använder du den här funktionen på en befintlig kundklientorganisation:
 
-1. Logga in på Partnercenter som **administratörsagent.**
+1. Logga in på Partner Center som **administratörsagent.**
 
 2. På sidan **Kunder väljer** du en befintlig kund och väljer dess **snabblänkar-ikon** för att expandera sammanfattningsvyn för kunden.
 
-3. Under **Indirekta leverantörer väljer du** Överför kund hos en indirekt **leverantör.**
+3. Under **Indirekta leverantörer väljer du** Överför kund på en indirekt **leverantör.**
 
     :::image type="content" source="images/direct/direct5-1.png" alt-text="Överföra kunden till en indirekt leverantör.":::
 
@@ -258,7 +258,7 @@ Funktionen är en process i fyra steg där:
 
 Så här skapar du en överföringsbegäran som övergångspartner:
 
-1. Logga in på Partnercenter som **administratörsagent.**
+1. Logga in på Partner Center som **administratörsagent.**
 
 2. På sidan **Kunder** väljer du den avsedda kunden och väljer ikonen Snabblänkar för att expandera sammanfattningsvyn för kunden.
 
@@ -326,13 +326,13 @@ Så här granskar och godkänner du en överföringsbegäran som indirekt levera
 
 4. På sidan **Prenumerationer** letar du upp **Prenumerationsöverföring.**
 
-5. Kontrollera att överföringsbegäran har markerats som **Fullständig.**
+5. Kontrollera att överföringsbegäran är markerad som **Slutförd.**
 
 6. Kontrollera att prenumerationerna inte längre visas som aktiva på **sidan** Prenumerationer:
 
    1. Om det här är en Azure-prenumeration (MS-AZR-0145P) visas den inte längre.
 
-   2. Om det här är en licensbaserad prenumeration (Office 365, Dynamics, Intune) visas den med tillståndet **Pausad.**
+   2. Om det här är en licensbaserad prenumeration (Office 365, Dynamics, Intune) visas den med tillståndet **Pausad**.
 
    :::image type="content" source="images/direct/direct13.png" alt-text="Prenumerationen har pausats.":::
 
@@ -346,18 +346,18 @@ Så här granskar och godkänner du en överföringsbegäran som indirekt levera
 
 - **Licensantalsändringar i en prenumeration återspeglas inte i en befintlig överföringsbegäran.** När du har skapat en överföringsbegäran som innehåller en befintlig prenumeration bör du undvika att uppdatera prenumerationens licenskvantitet (eller associerade addons). Om du gör det återspeglas inte den nya kvantiteten i överföringsbegäran. När den indirekta providern har accepterat överföringsbegäran får den resulterande prenumerationen den gamla kvantiteten. Om du vill att den nya kvantiteten ska överföras till den indirekta providern måste du avbryta den befintliga överföringsbegäran och återskapa en ny.
 
-- **Alla köp kan inte överföras med hjälp av en egenbetjänad prenumerationsöverföring.** För närvarande kan du bara överföra O365-prenumerationer och Azure PAYG-prenumerationer (MS-AZR-0145P) med den här funktionen. Andra inköp, inklusive Azure-planer, reserverade Azure-instanser, termbaserade prenumerationer och SaaS-prenumerationer för Azure Marketplace stöds inte. Du ser en orsak till varför en prenumeration inte kan överföras på sidan skicka överföringsbegäran. Om du vill överföra dessa prenumerationer måste du avbryta [den befintliga prenumerationen och](create-a-new-subscription.md#suspend-or-cancel-a-subscription) köpa ett nytt erbjudande för kunden via en indirekt leverantör.
+- **Alla köp kan inte överföras med hjälp av en egenbetjänad prenumerationsöverföring.** För närvarande kan du bara överföra O365-prenumerationer och Azure PAYG-prenumerationer (MS-AZR-0145P) med den här funktionen. Andra inköp, inklusive Azure-planer, reserverade Azure-instanser, termbaserade prenumerationer och SaaS-prenumerationer för Azure Marketplace stöds inte. Du ser en orsak till varför en prenumeration inte kan överföras på sidan skicka överföringsbegäran. Om du vill överföra dessa prenumerationer måste du avbryta [den befintliga prenumerationen och](create-a-new-subscription.md#suspend-or-cancel-a-subscription) köpa ett nytt erbjudande för kunden via indirekt leverantör.
 
    > [!NOTE]
-   > Ändringar av [Azure-erbjudandets tillgänglighet i CSP som](./announcements/2021-july.md) rör den nya handelsupplevelsen påverkar inte det här övergångsscenariot. Du kan kontinuerligt överföra Azure PAYG-prenumerationer[(MS-AZR-0145P)](https://go.microsoft.com/fwlink/p/?linkid=2164140)till en indirekt leverantör.
+   > Ändringar av [tillgängligheten för Azure-erbjudanden i CSP som](./announcements/2021-july.md) rör den nya handelsupplevelsen påverkar inte det här övergångsscenariot. Du kan kontinuerligt överföra Azure PAYG-prenumerationer[(MS-AZR-0145P)](https://go.microsoft.com/fwlink/p/?linkid=2164140)till den indirekta providern.
 
 - **Det går inte att testa med sandbox-miljön.**
 
 ## <a name="enroll-for-indirect-reseller-incentives"></a>Registrera dig för indirekta återförsäljarincitament
 
-När du har registrerat dig som en indirekt återförsäljare i din befintliga partnerklient för direktfakturering får du en inbjudan att registrera dig för indirekt återförsäljares incitament inom 30 dagar. Inbjudan baseras på partnerns MPN-konto som för närvarande är associerat med din CSP-partnerklientorganisation. Inbjudan skickas till den e-postadress som är associerad med partnerns MPN-konto.
+När du har registrerat dig som indirekt återförsäljare på din befintliga partnerklient för direktfakturering får du en inbjudan att registrera dig för indirekt återförsäljares incitament inom 30 dagar. Inbjudan baseras på partnerns MPN-konto som för närvarande är associerat med din CSP-partnerklientorganisation. Inbjudan skickas till den e-postadress som är associerad med partnerns MPN-konto.
 
-Du är också berättigad att registrera dig för incitamentprogram med direktfakturering med samma partnerklientorganisation. Du måste hantera programmen separat.
+Du är också berättigad att registrera dig för direktfaktureringsprogram med samma partnerklientorganisation. Du måste hantera programmen separat.
 
 ## <a name="next-steps"></a>Nästa steg
 

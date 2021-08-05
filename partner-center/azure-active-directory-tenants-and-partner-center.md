@@ -2,19 +2,19 @@
 title: Länka ditt arbetskonto för att få åtkomst till Partnercenter
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Skapa ett arbetskonto som länkar ditt företag till ditt Partnercenter-konto. Detta gör att anställda i ditt företag kan komma åt Partnercenter.
 author: vinayks
 ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 6/17/2021
-ms.openlocfilehash: 04624db5201b3a0e57b74b43678f6f2cd134c5c9
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: c1f74e2977b110befd38c741259e84dd8bc9acb6
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841699"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115100059"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Skapa ett arbetskonto som länkar ditt företag till ditt Partnercenter-konto
 
@@ -59,7 +59,7 @@ Mer information om hur du lägger till domäner i Azure AD finns i [Lägga till 
 
 Microsoft Azure är en offentlig molnplattform som företag kan använda för att skapa, distribuera och hantera program i ett globalt nätverk med Microsoft-hanterade datacenter. Företag använder Azure för att skapa en virtuell IT-infrastruktur med virtuella funktioner, eller tjänster, i stället för fysiska datorer.
 
-När du köper en Azure-prenumeration hyr du i princip ett dedikerat, skyddat utrymme i det offentliga Azure-molnet, inte för mycket från att hyra en våning i en kontorsbyggnad för att inhysa företagets fysiska verksamhet. Ditt företag är en klientorganisation för kontorsbyggnadsägaren.
+När du köper en Azure-prenumeration hyr du i princip ett dedikerat, säkert utrymme i det offentliga Azure-molnet, inte för mycket från att hyra en våning i en kontorsbyggnad för att inhysa företagets fysiska verksamhet. Ditt företag är en klientorganisation för kontorsbyggnadsägaren.
 
 Ett Azure-arbetskonto är en dedikerad och isolerad virtuell representation av ditt företag i det offentliga Azure-molnet som skapas åt dig när du prenumererar på en Microsoft-molntjänst som Azure, Microsoft Intune eller Office 365.
 

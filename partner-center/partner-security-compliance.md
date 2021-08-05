@@ -2,19 +2,19 @@
 title: Statusrapport för säkerhetskrav
 ms.date: 10/30/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Lär dig hur du kontrollerar dina säkerhetskravs kompatibilitet med statusrapporten för säkerhetskrav och MFA-rapporten i Partnercenter
 author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db558062f5dab2a3f9ffbe99f7122a436f89d21f
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 15e2792a38f8fc90612282ff30ad57dc320fc96a
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844555"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101238"
 ---
 # <a name="security-requirements-status-report"></a>Statusrapport för säkerhetskrav
 
@@ -29,13 +29,13 @@ Om du vill komma åt den här rapporten i [Partnercenter](https://partner.micros
 
 ## <a name="security-status-metrics"></a>Mått för säkerhetsstatus
 
-Statusrapporten för säkerhetskrav ger insikter om implementering av partner-MFA och innehåller mått om MFA-konfiguration och Partnercenter-aktiviteter på partnerklienter. I följande avsnitt förklaras dessa mått i detalj.
+Statusrapporten för säkerhetskrav ger insikter om implementering av partner-MFA och innehåller mått om MFA-konfiguration och Partnercenter-aktiviteter på partnerklienter. I följande avsnitt förklaras de här måtten i detalj.
 
 ### <a name="mfa-configuration-on-a-partner-tenant"></a>MFA-konfiguration på en partnerklientorganisation
 
-Måttet **Procentandel aktiverade användarkonton** med MFA framtvingat med hjälp av alternativen som anges här: visar procentandelen aktiverade användarkonton på din partnerklientorganisation som har MFA framtvingat. Du kan använda något av dessa [MFA-alternativ för](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) att uppnå efterlevnad. Dessa data samlas in och rapporteras dagligen. Till exempel:
+Måttet **Procentandel aktiverade användarkonton** med MFA framtvingat med hjälp av alternativen som anges här: visar procentandelen aktiverade användarkonton på din partnerklientorganisation som har MFA framtvingat. Du kan använda något av dessa [MFA-alternativ för](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) att uppnå efterlevnad. Dessa data samlas in och rapporteras dagligen. Ett exempel:
 
-- Contoso är en CSP-partner med 110 användarkonton i klientorganisationen och 10 av dessa användarkonton är inaktiverade. 
+- Contoso är en CSP-partner med 110 användarkonton i klientorganisationen. 10 av dessa användarkonton är inaktiverade. 
 - Av resten av 100 användarkonton tillämpas 90 MFA med de tillhandahållna [MFA-alternativen](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started). Därför visar måttet 90 %. 
 
 ### <a name="partner-center-requests-with-mfa"></a>Partner Center-begäranden med MFA
@@ -44,7 +44,7 @@ Varje gång dina anställda loggar in på Partnercenter för att arbeta eller, v
 
 #### <a name="dashboard-mfa-verification"></a>MFA-verifiering på instrumentpanelen
 
-Måttet **via Partnercenter-portalen** är relaterat till aktiviteter i instrumentpanelen i Partnercenter. Den mäter procentandelen åtgärder som utförs av användare som har slutfört MFA-verifieringen. Till exempel:
+Måttet **via Partnercenter-portalen** är relaterat till aktiviteter i instrumentpanelen i Partnercenter. Den mäter procentandelen åtgärder som utförs av användare som har slutfört MFA-verifieringen. Ett exempel:
 
 - Contoso är CSP-partner med två administratörsagenter, Jane och John.
 - Den första dagen loggade Jane in på Partner Center-instrumentpanelen utan MFA-verifiering och gjorde tre åtgärder.
@@ -57,9 +57,9 @@ Använd **filportalbegäranden** utan MFA för att förstå vilken användare so
 
 #### <a name="appuser-mfa-verification"></a>Verifiering av MFA för app+användare
 
-Måttet **Via API eller SDK är relaterat** till app- och användarautentisering via Api-begäranden i Partnercenter. Den mäter procentandelen API-begäranden som görs med hjälp av en åtkomsttoken med MFA-anspråk. Till exempel:
+Måttet **Via API eller SDK är relaterat** till app- och användarautentisering via Api-begäranden i Partnercenter. Den mäter procentandelen API-begäranden som görs med hjälp av en åtkomsttoken med MFA-anspråk. Ett exempel:
 
-- Fabrikam är en CSP-partner och har ett CSP-program som använder en blandning av app- och användarautentisering och appskyddade autentiseringsmetoder.
+- Fabrikam är en CSP-partner och har ett CSP-program som använder en blandning av app- och användarautentisering och endast appautentiseringsmetoder.
 - Den första dagen gjorde programmet tre API-begäranden, som backades upp av en åtkomsttoken som erhölls via autentiseringsmetoden App+User utan MFA-verifiering.
 - Den andra dagen gjorde programmet fem API-begäranden, som backades upp av en åtkomsttoken som erhölls med appbaserad autentisering.
 - Den tredje dagen gjorde programmet två API-begäranden, som backades upp av en åtkomsttoken som erhölls med hjälp av autentiseringsmetoden App+Användare med MFA-verifiering.
@@ -94,7 +94,7 @@ Förstå om din aktuella MFA-implementering omfattar alla användarkonton eller 
 Förstå om den aktuella implementeringen endast tillämpar MFA under specifika villkor. Vissa MFA-lösningar ger flexibilitet att endast framtvinga MFA när vissa villkor uppfylls. Användaren kan till exempel komma åt från en okänd enhet eller en okänd plats. En användare som är aktiverad för MFA men inte behöver slutföra MFA-verifiering vid åtkomst till Partnercenter kan orsaka att måtten inte är 100 %.
 
 >[!NOTE]
->För partner som har implementerat MFA med standardvärden för Azure AD-säkerhet är det viktigt att observera att multifaktorautentisering för icke-administratörskonton tillämpas baserat på risker. Användarna uppmanas endast att ange MFA vid riskfyllda inloggningsförsök (till exempel om användaren loggar in från en annan plats). Dessutom har användarna upp till 14 dagar på sig att registrera sig för MFA. Användare som inte har slutfört MFA-registreringen kommer inte att behöva verifiera MFA under 14-dagarsperioden. Därför förväntas måtten inte vara 100 % för partner som har implementerat MFA med hjälp av Azure AD-säkerhetsstandarder.
+>För partner som har implementerat MFA med standardvärden för Azure AD-säkerhet är det viktigt att observera att multifaktorautentisering för icke-administratörskonton tillämpas baserat på risk. Användarna uppmanas endast att ange MFA vid riskfyllda inloggningsförsök (till exempel om användaren loggar in från en annan plats). Dessutom har användarna upp till 14 dagar på sig att registrera sig för MFA. Användare som inte har slutfört MFA-registreringen kommer inte att behöva verifiera MFA under 14-dagarsperioden. Därför förväntas måtten inte vara 100 % för partner som har implementerat MFA med hjälp av Azure AD-säkerhetsstandarder.
 
 ### <a name="review-third-party-mfa-configurations"></a>Granska MFA-konfigurationer från tredje part
 
@@ -102,7 +102,7 @@ Om du använder en MFA-lösning från tredje part identifierar du hur du integre
 
 * **Identitetsfederation** – När Azure AD tar emot en autentiseringsbegäran omdirigerar Azure AD användaren till den federerade identitetsprovidern för autentisering. Vid lyckad autentisering omdirigerar den federerade identitetsprovidern användaren tillbaka till Azure AD tillsammans med en SAML-token. För att Azure AD ska kunna identifiera att användaren har slutfört MFA-verifieringen vid autentisering till den federerade identitetsprovidern måste SAML-token innehålla *autentiseringsmethodsreferences-anspråket* (med värdet *multipleauthn*). Kontrollera om den federerade identitetsprovidern stöder utfärdande av ett sådant anspråk. I så fall kontrollerar du om den federerade identitetsprovidern har konfigurerats för att göra det. Om anspråket saknas vet Inte Azure AD (och därför Partnercenter) att användaren har slutfört MFA-verifieringen och att anspråket saknas kan göra att måttet inte är 100 %.
 
-* **Anpassad kontroll** – Azure AD Custom Control kan inte användas för att identifiera om en användare har slutfört MFA-verifiering via en MFA-lösning från tredje part. Därför visas alla användare som har slutfört MFA-verifiering via en anpassad kontroll alltid för Azure AD (och i sin tur Partnercenter) som att de inte har slutfört MFA-verifieringen. Där det är möjligt rekommenderar vi att du växlar till att använda identitetsfederation i stället för anpassad kontroll vid integrering med Azure AD.
+* **Anpassad kontroll** – Azure AD Custom Control kan inte användas för att identifiera om en användare har slutfört MFA-verifiering via en MFA-lösning från tredje part. Därför visas alla användare som har slutfört MFA-verifiering via en anpassad kontroll alltid för Azure AD (och i sin tur Partnercenter) som att de inte har slutfört MFA-verifieringen. Om möjligt rekommenderar vi att du växlar till att använda identitetsfederation i stället för anpassad kontroll vid integrering med Azure AD.
 
 ### <a name="identify-which-users-have-signed-in-to-partner-center-without-mfa"></a>Identifiera vilka användare som har loggat in på Partnercenter utan MFA
 

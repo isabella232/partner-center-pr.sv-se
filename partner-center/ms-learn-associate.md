@@ -1,7 +1,7 @@
 ---
 title: Länka Microsoft Learn MCP-ID till Partnercenter-konto
 ms.topic: how-to
-ms.date: 01/29/2021
+ms.date: 08/03/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
 description: Lär dig hur du kopplar ditt MCP-ID till ditt Partnercenter-konto så att ditt företag kan se utbildningsvägarna och utbildningsvägarna som du har tagit mot kompetenser.
@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18ea02feb3cc9c3da269ff72ab043aecd24b1e32
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: a707c1b9c238063704d87b3c5542a11412985267
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836939"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101598"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Länka eller avlänka ett Microsoft-certifikatprofil-ID (MCID) till Microsoft Partner Network (MPN)-konto
 
@@ -31,7 +31,7 @@ Använd proceduren nedan för att få åtkomst till Partner University.
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 2. Välj den blå **ikonen Min** profil i det övre högra hörnet
-3. I fältet **Learning** väljer du Get Partner University Access (Få **åtkomst till Partner University).** Du måste ange autentiseringsuppgifterna för ditt Partner University-konto (inte ditt Partnercenter-konto) Ditt Partner University-konto kommer nu att associeras till ditt Partnercenter-användarkonto. Dina utvärderingar visas i partnercentrets användarkunskapsrapport inom 72 timmar. Nyligen godkända utvärderingar kan ta 7–10 dagar att återspegla i rapporten.
+3. I fältet **Learning** väljer du Get Partner University Access (Få **åtkomst till Partner University).** Du måste ange autentiseringsuppgifterna för ditt Partner University-konto (inte ditt Partnercenter-konto) Ditt Partner University-konto kommer nu att associeras till ditt Partnercenter-användarkonto. Dina utvärderingar visas i partnercentrets användarkunskapsrapport inom 72 timmar.
 4. Om du vill ta bort associationen väljer du **Ta bort åtkomst.**
 
 ## <a name="associate-a-microsoft-learning-account"></a>Associera ett Microsoft Learning konto
