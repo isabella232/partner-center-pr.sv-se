@@ -9,12 +9,12 @@ ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: eb9d88935bdc339c01ac47153c3d4a23047dc406
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 9e02655d2f09ee0c6ca4c7e5fabc60d992d121bb1aceb4de3741af9010752d68
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841512"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115680811"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Övergå kunder till Azure-plan från befintliga CSP Azure-erbjudanden
 
@@ -34,7 +34,7 @@ Du kan föra över en kund från deras befintliga CSP Azure-erbjudanden till Azu
 
 1. Välj Azure-plan för din kund.
 
-2. Välj **Övergå fakturering till Azure-plan.**
+2. Välj **Transition billing to Azure plan (Övergå fakturering till Azure-plan).**
 
    :::image type="content" source="images/azure/transition1.png" alt-text="Skärmbild som visar rapportinformation om användningsbaserade prenumerationer med ett valbart alternativ som heter: Övergå azure-prenumerationsfakturering till Azure-plan.":::
 
@@ -54,7 +54,7 @@ Du kan föra över en kund från deras befintliga CSP Azure-erbjudanden till Azu
 
    **Mappa Azure-prenumeration till Azure-plan**
 
-   När du har köpt Azure-planer mappar vårt system de befintliga Azure-prenumerationerna till Azure-prenumerationerna. Förloppet kan visas i Azure Portal samt i Partnercenter.
+   När du har köpt Azure-prenumerationerna mappar vårt system de befintliga Azure-prenumerationerna till Azure-prenumerationerna. Förloppet kan visas i Azure Portal samt i Partnercenter.
 
 4. Gå tillbaka till kundens partnercenterprenumerationer **för** att uppdatera budgetgränsen med hjälp av den lokala valutan.
 

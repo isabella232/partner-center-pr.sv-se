@@ -9,25 +9,25 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 803d04b4496cd677f5a74049da32ed649d515819
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 518c80d1e7b5c8c898f6e0508bdcca11f9e2e675fbd8afe5c327ec68877a0ed0
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115102086"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115678177"
 ---
 # <a name="reset-a-users-password-in-partner-center"></a>Återställa en användares lösenord i Partnercenter
 
 **Lämpliga roller:** Global administratör
 
 > [!NOTE]  
-> Om du har registrerat dig i Molnlösningsleverantör-programmet (CSP) i Microsoft Cloud Tyskland, se Användarhantering i [Partner center för Microsoft Cloud Tyskland](user-management-in-partner-center-for-microsoft-cloud-germany.md) för information om hur du återställer en användares lösenord.
+> Om du är registrerad i Molnlösningsleverantör-programmet (CSP) i Microsoft Cloud Tyskland, se Användarhantering i [Partnercenter för Microsoft Cloud Tyskland](user-management-in-partner-center-for-microsoft-cloud-germany.md) för information om hur du återställer en användares lösenord.
 
 Om användarna glömmer sina lösenord tilldelar du dem ett tillfälligt lösenord. De kan använda den nästa gång de loggar in på Partnercenter.
 
 ## <a name="reset-a-user-password-as-an-admin"></a>Återställa ett användarlösenord som administratör
 
-1. Gå till **Inställningar** &gt; **Användarhantering**.
+1. Gå till **Inställningar** &gt; **användarhantering**.
 
 2. Välj användaren i listan.
 

@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f5f4924111e4d83e4e07e38ccb61a324efeefb4d
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 169577361cfa7938609764c5b9b6b81cb0a667d78b7e0d04f183c1365fec7167
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836259"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115696690"
 ---
 # <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>Stöd för flera kanaler – använda andra partner för att stödja kundprenumerationer som köpts någon annanstans
 

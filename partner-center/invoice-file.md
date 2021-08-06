@@ -9,12 +9,12 @@ ms.subservice: partnercenter-billing
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c741caa6993a5da415d3a94d541bf10c21470889
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 2eb2f98302a597e5e11ae3ff394d077566dd0e44cf0dac0286cc31e74bb62803
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840084"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115678398"
 ---
 # <a name="understand-partner-center-billing-invoice-fields"></a>Förstå faktureringsfakturafälten i Partnercenter
 
@@ -56,7 +56,7 @@ Följande fält gäller endast för **one-time-avgifter** i Partnercenter:
 | Field | Definition |
 | ----- | ---------- |
 | Datum | Inköpsdatum. |
-| Beskrivning | Produktnamn. |
+| Description | Produktnamn. |
 | Kvantitet | Antalet köpta produkter (till exempel reservationer). |
 | Enhetspris | Pris per produkt (till exempel en reservation). |
 | Rabatter | Alla tillämpliga rabatter. |

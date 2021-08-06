@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 15c86291b0e22b6189e7d0e423b5517cd9dfb2a3
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: a771f259069ceeae9906b03477acc56cc28e97132c5c24f9522275d49c924f62
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844997"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681237"
 ---
 # <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Uppgradera vissa Education-kunder från Windows 10 Home till Windows 10 Education
 
@@ -42,7 +42,7 @@ Partner bör skapa en supportbegäran och hämta nycklar från supporten. Partne
 
 2. I menyn i Partnercenter väljer **du Kunder** och sedan den kund som behöver support.
 
-3. Välj **Tjänsthantering** och välj **Tjänstförfrågningar.**
+3. Välj **Tjänsthantering** och välj **Tjänstbegäranden.**
 
 4. Välj **Ny begäran** och välj sedan Office 365 och Enterprise Mobility **Suite.**
 
@@ -60,7 +60,7 @@ Partner bör skapa en supportbegäran och hämta nycklar från supporten. Partne
 
 8. Välj **Kontakta mig.** Förväntad väntetid visas i fönstret **Behöver du hjälp?**
 
-9. **Microsoft Support** granskar begäran för att säkerställa att kunden kvalificerar sig. När begäran har godkänts skickar de ett e-postmeddelande till partnern som innehåller instruktioner om hur du kommer åt nycklarna.
+9. **Microsoft Support** granskar begäran för att säkerställa att kunden kvalificerar sig. När begäran har godkänts skickar de ett e-postmeddelande till partnern med instruktioner om hur de får åtkomst till nycklarna.
 
 10. **Partner** delar nycklarna och andra instruktioner med sina kunder.
 
@@ -84,9 +84,9 @@ Nej, VL-kunder som licensierar via Enrollment for Education Solutions (PIL), Ope
 Du kan skicka ytterligare en supportbegäran för nycklar för kundens Windows 10 Home enheter. Den totala kvantiteten för flera begäranden får inte vara större än de totala aktiva licenserna för Microsoft 365 A3/A5 eller Windows 10 Enterprise A3/A5-prenumerationer.
 
 **Min kund är på väg att köpa fler Windows 10 Home enheter. Kan de få fler uppgraderingar?**
-Utbildningskunder bör överväga Windows 10 Education enheter via [vårt Shape the Future program](https://www.microsoft.com/education/products/windows/shapethefuture.aspx) och eliminera behovet av att uppgradera Windows 10 Home enheter. Om de köper fler enheter Windows 10 Home partner skicka en ny supportbegäran via Microsoft-administratörsportalen.
+Utbildningskunder bör överväga Windows 10 Education enheter via [vårt Shape the Future program](https://www.microsoft.com/education/products/windows/shapethefuture.aspx) och eliminera behovet av att uppgradera Windows 10 Home enheter. Om de köper fler enheter Windows 10 Home måste partner skicka en ny supportbegäran via Microsofts administratörsportal.
 
-**Finns det någon tidsgräns för när du ska kontakta supporten och ta emot uppgraderingsnyckeln?**
+**Finns det någon tidsgräns för när du ska kontakta supporten och få uppgraderingsnyckeln?**
 Uppgraderingen Windows 10 Education baseras på kundens aktiva licensprenumerationer Microsoft 365 A3/A5 eller Windows 10 Enterprise A3/A5. Om kunden inte utökar eller förnyar prenumerationen upphör även behörigheten att uppgradera.
 
 ## <a name="next-steps"></a>Nästa steg

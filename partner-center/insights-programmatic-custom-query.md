@@ -8,12 +8,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 636d2eba7d259ae5e4525100b8d26e25ff031f48
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 8749e9c65a232514028e0842a020267d0df7fcadcd9f36ac9dd9ba165377f401
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839726"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115696927"
 ---
 # <a name="custom-query-specification"></a>Specifikation för anpassad fråga
 
@@ -71,7 +71,7 @@ Det här är ett exempel på en datauppsättning som visas som en JSON:
 
 Det här är några exempelfrågor som visar hur du extraherar olika typer av data.
 
-|Söka i data|    Beskrivning    |
+|Söka i data|    Description    |
 |----|    ----    |
 |**SELECT** CustomerTenantId, PaidAvailableUnits **FROM** <br>OfficeUsage **TIMESPAN** LAST_MONTH|    Den här frågan hämtar varje CusotmerTenantID och dess motsvarande PaidAvailableUnits under den senaste månaden.    |
 |**SELECT** CustomerTenantId, PaidAvailableUnits **FROM** <br>OfficeUsage **ORDER** BY PaidAvailableUnits **LIMIT** 10|    Den här frågan hämtar de 10 främsta kundklienterna i fallande ordning efter antalet betalda tillgängliga enheter.     |
@@ -87,7 +87,7 @@ I det här avsnittet beskrivs frågedefinitionen och strukturen.
 
 I den här tabellen beskrivs de symboler som används i frågor.
 
-|    Söka i data    |    Beskrivning    |
+|    Söka i data    |    Description    |
 |    ----    |    ----    |
 |    `?`    |    Valfritt    |
 |    `*`    |    Noll eller mer    |

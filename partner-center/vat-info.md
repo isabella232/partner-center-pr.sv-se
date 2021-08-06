@@ -8,12 +8,12 @@ ms.localizationpriority: medium
 ms.date: 12/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
-ms.openlocfilehash: af342ef92613adbeb7ac37e0dd5e813949e67e03
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 1fbf8ba030a6f6dd93314ef64130d75312cf36a70521d75249fd31d09e3b6416
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840764"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681118"
 ---
 # <a name="value-added-tax-vat-information"></a>Information om mervärdesskatt (moms)
 
@@ -32,35 +32,35 @@ Följande information är unik för de länder eller regioner som anges nedan.
 
 ### <a name="european-union"></a>EU
 
-I EU:s medlemsstater måste partner ange sitt giltiga momsregistreringsnummer för omvänd debitering och korrekt fakturering. Momsnumret måste godkännas som giltigt.
+I EU:s medlemsstater måste partner ange sina giltiga momsregistreringsnummer för omvänd debitering och korrekt fakturering. Momsnumret måste godkännas som giltigt.
 
 Microsoft stöder inte kredit och omfakturering. Innan du säljer prenumerationer måste du registrera [ditt momsregistreringsnummer i](organization-tax-info.md) Partnercenter.
 
 ### <a name="south-africa"></a>Sydafrika
 
-Microsoft tillämpar nu standardmoms på digitalt innehåll och tjänster som köpts av partner i Sydafrika. Om du vill undanta momsen från dina fakturor och hantera den själv måste du uppdatera din partnerfaktureringsprofil genom att [skicka ditt momsregistreringsnummer till Microsoft.](organization-tax-info.md)
+Microsoft tillämpar nu den vanliga momsen på digitalt innehåll och tjänster som köpts av partner i Sydafrika. Om du vill undanta momsen från dina fakturor och hantera den själv måste du uppdatera din partnerfaktureringsprofil genom att [skicka ditt momsregistreringsnummer till Microsoft.](organization-tax-info.md)
 
 ### <a name="turkey"></a>Turkiet
 
-Microsoft tillämpar nu standardmoms för digitalt innehåll och tjänster som köpts av partner i Landet. Om du vill undanta momsen från dina fakturor och hantera den själv måste du uppdatera din partnerfaktureringsprofil genom att [skicka ditt momsregistreringsnummer till Microsoft.](organization-tax-info.md)
+Microsoft tillämpar nu den vanliga momsen på digitalt innehåll och tjänster som köpts av partner i Landet. Om du vill undanta momsen från dina fakturor och hantera den själv måste du uppdatera din partnerfaktureringsprofil genom att [skicka ditt momsregistreringsnummer till Microsoft.](organization-tax-info.md)
 
 ## <a name="accepted-formats-for-vat-numbers"></a>Godkända format för momsregistreringsnummer
 
-Observera att Microsoft inte ger skatteråd och att följande tabell endast tillhandahålls som vägledning. Du bör be dina lokala skattemyndigheter om de senaste ändringarna om den här vägledningen inte är tillräcklig för att du ska kunna ange ett momsregistreringsnummer till Microsoft.
+Observera att Microsoft inte ger skatteråd och att följande tabell endast tillhandahålls som vägledning. Du bör kontrollera med dina lokala skattemyndigheter om de senaste ändringarna om den här vägledningen inte är tillräcklig för att du ska kunna ange ett momsregistreringsnummer till Microsoft.
 
 |Land/region | Momsinformation |
 |:------------|:----------|
-|Österrike  |– Format för momsregistreringsnummer: 1 bokstav och 8 siffror<br/>– Lands-/regionskod: AT<br/>– Exempel: U12345678<br/>– Anteckningar: Det första tecknet kommer alltid att vara U. |
+|Österrike  |– Momsnummerformat: 1 bokstav och 8 siffror<br/>– Lands-/regionskod: AT<br/>– Exempel: U12345678<br/>– Kommentarer: Det första tecknet kommer alltid att vara "U". |
 |Belgien  |– Momsnummerformat: 10 siffror<br/>– Lands-/regionskod: BE<br/>– Exempel: 1234567890<br/>– Anteckningar: 9 siffror före den 1 januari 2007. |
 | Bulgarien  |– Momsnummerformat: 9 eller 10 siffror<br/>– Lands-/regionskod: BG<br/>– Exempel: 123456789 eller 0123456789 |
-| Kroatien |– Format för momsregistreringsnummer: 2 bokstäver och 11 siffror<br/>– Lands-/regionskod: HR<br/>– Exempel: HR12345678901<br/>– Kommentarer: De första tecknen kommer alltid att vara HR. |
-|Cypern |– Format för momsregistreringsnummer: 2 bokstäver, 8 siffror och 1 bokstav<br/>– Lands-/regionskod: CY<br/>– Exempel: 12345678, 123456789 eller 0123456789 |
+| Kroatien |– Nummerformat för moms: 2 bokstäver och 11 siffror<br/>– Lands-/regionskod: HR<br/>– Exempel: HR12345678901<br/>– Kommentarer: De första tecknen kommer alltid att vara HR. |
+|Cypern |– Nummerformat för momsregistrering: 2 bokstäver, 8 siffror och 1 bokstav<br/>– Lands-/regionskod: CY<br/>– Exempel: 12345678, 123456789 eller 0123456789 |
 |Tjeckien |– Momsnummerformat: 8, 9 eller 10 siffror<br/>– Lands-/regionskod: REGIONSKOD<br/>– Exempel: 12345678, 123456789 eller 0123456789 |
 | Danmark |– Momsnummerformat: 8 siffror<br/>– Lands-/regionskod: DK<br/>– Exempel: 12345678<br/> |
 |Estland |– Momsnummerformat: 9 siffror<br/>– Lands-/regionskod: EE<br/>– Exempel: 123456789<br/> |
 |Finland |– Momsnummerformat: siffror<br/>– Lands-/regionskod: FI<br/>– Exempel: 12345678 |
 |Frankrike |– Momsnummerformat: 11 siffror<br/>– Lands-/regionskod: FR<br/>– Exempel: 12345678901, X1234567890, 1X123456789 eller XX123456789<br/>– Anteckningar: Kan innehålla alla alfabetiska tecken förutom I eller Q som första eller andra tecken, eller som det första och andra tecknet, följt av 9 siffror. |
-|Tyskland |– Momsnummerformat: 9 siffror<br/>– Lands-/regionskod: DE<br/>– Exempel: 123456789<br/>– Anteckningar: Måste vara den 9-siffriga "Umsatzsteur På tal" (Ust ID Nr.) |
+|Tyskland |– Momsnummerformat: 9 siffror<br/>– Lands-/regionskod: DE<br/>– Exempel: 123456789<br/>– Anteckningar: Måste vara den 9-siffriga "UmsatzsteurNummer" (Ust ID Nr.) |
 |Grekland |– Momsnummerformat: 9 siffror<br/>– Lands-/regionskod: EL, GR<br/>– Exempel: 123456789 |
 |Ungern |– Momsnummerformat: 8 siffror<br/>– Lands-/regionskod: HU<br/>– Exempel: 12345678 |
 |Irland |– Momsnummerformat: 8 siffror<br/>– Lands-/regionskod: IE<br/>– Exempel: 1234567X eller 1X34567X<br/>– Anteckningar: Innehåller 1 eller 2 alfabetiska tecken: antingen sista eller andra och sista. |

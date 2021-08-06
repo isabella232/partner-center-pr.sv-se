@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a033b474a472a1737a2d6d171ee98c1c1bdf1317
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: bce8917477809a47fe23b3b880a0392771e56225dbd5885a7428a910cb3d32e2
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844760"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681064"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Få kredit på ditt Partnercenter-konto för källskatt
 

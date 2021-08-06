@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51d55e14a00e17ed277bdc61aeb0ef64fbcbeac0
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: eb093f406f9776b3db0e091cd059ffa87836d0e946b4f9f5921388f52c81838a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838010"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115679859"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Skapa en företagsprofil för att få Microsofts sälj leads och hjälpa kunderna att hitta dig
 
@@ -37,7 +37,7 @@ Att skapa en företagsprofil är det första steget mot att få referenser. Vi v
 
 Skapa profiler för varje region som du har behörighet att göra affärer i.
 
-1. På **menyn i Partnercenter** väljer du **Referenser** &gt; **Företagsprofiler** &gt; ett land/en region > Skapa en **[företagsprofil](https://partner.microsoft.com/referrals/businessprofiles/)**.
+1. På **menyn i Partnercenter** väljer du **Referenser Företagsprofiler** ett &gt;  &gt; land/en region > Skapa en **[företagsprofil](https://partner.microsoft.com/referrals/businessprofiles/)**.
 
 2. På sidan **Skapa en företagsprofil** väljer du en region och anger sedan din profilinformation.
    > [!NOTE]  
@@ -70,7 +70,7 @@ Om du inte redan har en LinkedIn-företagssidan kan du [skapa en nu.](https://ww
 
 ### <a name="partner-expertise"></a>Partnerexpertis
 
-**Sökverktygen Hitta en** partner söker efter experttaggar. Optimera dessa taggar för att hjälpa din profil att få insyn.
+**Sökverktygen Hitta** en partner söker efter experttaggar. Optimera taggarna för att hjälpa din profil att få insyn.
 
 Börja med att lägga till egna taggar i avsnittet Partnerexpertis. Taggar som du kan lägga till: 
 
@@ -89,7 +89,7 @@ Andra taggar som används i sökningen:
 
 Du kan välja bort hänvisningar från företag som inte uppfyller din målkundstorlek.
 
-Genom att avanmäla dig har du mer tid att ägna åt företag som passar för de företag som du föredrar att arbeta med.
+Genom att avanmäla dig får du mer tid att ägna åt företag som passar de företag som du föredrar att arbeta med.
 
 #### <a name="locations"></a>Platser
 

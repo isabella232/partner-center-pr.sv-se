@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3eae845acde320f46565fb9e6358956c4840f80a
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: bd1e881f88b64545057218abc9b9c534ded5d9c0e2c6d66b04b3b2189c8ac412
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837688"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115679877"
 ---
 # <a name="support-for-commercial-marketplace-products-in-the-csp-program"></a>Stöd för produkter på den kommersiella marknadsplatsen i CSP-programmet
 
@@ -35,7 +35,7 @@ För erbjudanden på den kommersiella marknadsplatsen eller köp av ISV-produkte
 
 - **Microsofts supportroll:** Microsoft tillhandahåller support till tredjeparts-ISV-utgivaren och partnern i CSP-programmet angående Microsofts handelssystemfunktioner. Det innebär att Microsoft ansvarar för support för vissa aktiviteter av partnern i CSP-programmets partneraktiviteter och av ISV:n som sker i Microsofts handelssystem, till exempel registrering/erbjudandehantering, transaktioner, fakturering, kontosupport samt distribution och etablering för Azure-baserade ISV-lösningar.
 
-    Microsoft tillhandahåller inte support för produkter på den kommersiella marknadsplatsen som erbjuds av isv-utgivare från tredje part. Microsoft ger dock partnern i CSP-programmet åtkomst till ISV-utgivarens kontaktuppgifter för support. Partner i CSP-programmet måste kontakta ISV-utgivaren (ovan) för att få andra typer av support för sitt erbjudande.
+    Microsoft tillhandahåller inte support för produkter på den kommersiella marknadsplatsen som erbjuds av tredjeparts-ISV-utgivare. Microsoft ger dock partnern i CSP-programmet åtkomst till ISV-utgivarens kontaktuppgifter för support. Partner i CSP-programmet måste kontakta ISV-utgivaren (ovan) för att få andra typer av support för sitt erbjudande.
 
 I den [indirekta CSP-modellen](csp-overview.md#indirect-model)delas dessa supportansvar mellan den indirekta leverantören och den indirekta återförsäljaren. Om du är en indirekt återförsäljare kan du be din indirekta leverantör om information.
 
@@ -43,7 +43,7 @@ I den [indirekta CSP-modellen](csp-overview.md#indirect-model)delas dessa suppor
 
 De flesta ISV-kontaktuppgifter visas på sidan **Med erbjudandeinformation** i Partnercenter, som finns på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard) Detta inkluderar en teknisk kontakt för ISV:en, kundsupporten och eventuella CSP-programkontakt. Informationen som tillhandahålls av ISV:en här kan även innehålla användardokumentation, försäljningsdokumentation och en länk till marknadsföringsmaterial för CSP-program.
 
-Information om hur **du kommer åt** sidan Erbjudandeinformation finns i Identifiera erbjudanden på den kommersiella [marknadsplatsen.](csp-commercial-marketplace-discover.md#view-marketplace-offers-in-partner-center)
+Information om hur **du kommer åt** sidan Med erbjudandeinformation finns i Identifiera erbjudanden på den kommersiella [marknadsplatsen.](csp-commercial-marketplace-discover.md#view-marketplace-offers-in-partner-center)
 
 ## <a name="next-steps"></a>Nästa steg
 

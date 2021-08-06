@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a1b47860f0af3427342d89945528e9118ecfc0aa
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: b440b7baaad26ac6ee1c1e8313a13c4aa3cc271f9d84f5421aeb07edf1ea8a84
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843331"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681526"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrera Office 365 E4-prenumerationer till senare Office 365-versioner
 

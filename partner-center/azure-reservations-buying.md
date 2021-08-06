@@ -9,16 +9,16 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 112296baffe38b81a1a0516e62fa31525d1e3b3d
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 0a417d11c462884463184dff18b71f5cefafeb0b3567e33b36bc301c35ac9d8d
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115102429"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115680710"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Köp Microsoft Azure-reservationer åt dina kunder i Partnercenter
 
-**Lämpliga roller:** Administratörsagent | Globala | Supportagent | Försäljningsagent | Administratör för användarhantering
+**Lämpliga roller:** Administratörsagent | Globala | Supportagent för | Försäljningsagent | Administratör för användarhantering
 
 Den här artikeln beskriver hur du köper eller köper Azure-reservationer åt dina kunder i Partnercenter. Den identifierar även marknader där Azure-reservationer inte är tillgängliga.
  
@@ -31,7 +31,7 @@ Granska viktig information nedan innan du köper Azure-reservationer åt dina ku
 
 - Om och när kunden signerar den nya Microsoft-kundavtal (se Bekräfta kundens godkännande av [Microsoft-kundavtal](confirm-customer-agreement.md)) måste du köpa Azure-reservationer enligt Azure-planen. Mer information finns i Köpa [Azure-plan.](purchase-azure-plan.md)
 
-- Kunderna måste redan ha en aktiv Azure-prenumeration innan du kan köpa reservationer åt dem
+- Kunderna måste redan ha en aktiv Azure-prenumeration innan du kan köpa reservationer för deras räkning
   
 - Kostnader för programvaruprenumeration som SQL Database eller SUSE Linux-programvara ingår inte i Azure-reservationspriser
 
@@ -87,7 +87,7 @@ Granska viktig information nedan innan du köper Azure-reservationer åt dina ku
 > | Falklandsöarna     | Nauru     | U.S. Outlying Islands   |
 > | Franska Guyana     | Nya Kaledonien     | Vanuatu   |
 > | Franska Polynesien     | Niger     | Vatikanstaten   |
-> | Franska sydterritorierna     | Niue     | Wallis och Spanuna   |
+> | Franska sydterritorierna     | Niue     | Wallis ochUna   |
 > | Gabon     | Norfolkön     | Jemen   |
 > | Gambia     | Nordmarianerna     |    |
 > | Gibraltar     | Palau       |    |
@@ -113,7 +113,7 @@ Följ stegen nedan för att köpa Microsoft Azure reservationer åt dina kunder 
    >[!IMPORTANT]
    >Om kunden inte redan har en aktiv Azure-prenumeration väljer du Azure för **att** lägga till en nu. 
 
-5. Använd filtren för att hitta Azure-reservationer på virtuella datorer som uppfyller dina kunders krav.  
+5. Använd filtren för att hitta Azure-reservationer på virtuella datorer som uppfyller kundens krav.  
 
 6. När du har hittat de reservationer som du vill köpa anger du  antalet reserverade instanser som kunden behöver i Kvantitet och väljer sedan Lägg **till i kundvagn.**  
 
@@ -121,7 +121,7 @@ Följ stegen nedan för att köpa Microsoft Azure reservationer åt dina kunder 
 
 8. På sidan **Granska dina beställningar** kan du: 
 
-    - Verifiera eller ändra kvantiteten för reserverade instanser.
+    - Verifiera eller ändra antalet reserverade instanser.
 
     - Välj reservationens omfång. Reservationens omfång kan omfatta en prenumeration eller flera prenumerationer (delat omfång). Om du omfångsbefattningar reservationen till en enda prenumeration tillämpas reservationsrabatten endast på den här prenumerationen. Om du väljer delad tillämpas reservationsrabatten på alla prenumerationer i kundens faktureringskontext. 
 
@@ -129,14 +129,14 @@ Följ stegen nedan för att köpa Microsoft Azure reservationer åt dina kunder 
       >Om du väljer att begränsa reservationens omfång till en enda Azure-prenumeration kan du behöva öka prenumerationens vCPU-kvot. Om du vill öka prenumerationens vCPU-kvot måste du skapa en supportbegäran i Azure Portal. Följ anvisningarna [i det här avsnittet](/azure/azure-supportability/resource-manager-core-quotas-request) för att skapa begäran. 
 
       >[!NOTE]   
-      >Om kunden omfattas av Azure-planen **anges Omfång** till **Delad.** 
+      >Om kunden omfattas av Azure-planen **ställs omfånget**  in på **Delad**. 
 
     - Om du är leverantörspartner väljer du den återförsäljare som du vill associera med produkten.
     
-    - Om din Azure-reservation stöder alternativet Faktureringsplan kan du välja faktureringsfrekvensen månadsvis från den nedrullningsbara menyn. 
+    - Om din Azure-reservation stöder alternativet Faktureringsplan kan du välja faktureringsfrekvens per månad från den nedrullningsbara menyn. 
     - Om din Azure-reservation inte stöder alternativet Faktureringsplan används faktureringsfrekvensen som standard en gång. 
 
-9. Välj **Köp** för att köpa beställningen. Information om din beställning, inklusive ditt ordernummer, visas på **sidan** Bekräfta. Välj **Klar** för att gå till sidan **Orderhistorik.** 
+9. Välj **Köp** för att köpa beställningen. Information om din beställning, inklusive ordernummer, visas på **sidan** Bekräfta. Välj **Klar** för att gå till **sidan Orderhistorik.** 
 
 10. Om du vill hantera kundens reservation i Azure Portal du kunden på sidan **Kunder** och väljer sedan nedåtpilen för att expandera kundens rad. Välj **Microsoft Azure Hanteringsportal** för att öppna kundens post i Azure Portal.
 

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 11/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
-description: Lär dig hur indirekta leverantörer samarbetar med indirekta återförsäljare i programmet Molnlösningsleverantör (CSP) och avgör vilken roll som är rätt för dig.
+description: Lär dig hur indirekta leverantörer samarbetar med indirekta återförsäljare i Molnlösningsleverantör-programmet (CSP) och avgör vilken roll som är rätt för dig.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 93ebd29529812535d2847485d2c9fe751fa5a9f8
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 40df92449caabd3451b69ee6f86f0bbd85ddf16f6e1c6e75b47613f9d3842ae9
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845676"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115680965"
 ---
 # <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>Olika sätt att arbeta med andra partner i Partnercenter
 
@@ -22,7 +22,7 @@ ms.locfileid: "114845676"
 
 Microsofts CSP Molnlösningsleverantör program (CSP) erbjuder möjligheter för partner att arbeta tillsammans på dessa sätt.
 
-## <a name="indirect-provider-indirect-reseller-model"></a>Modell för indirekt leverantörs indirekt återförsäljare
+## <a name="indirect-provider-indirect-reseller-model"></a>Modell för indirekt leverantör/indirekt återförsäljare
 
 I den här modellen, som även kallas modellen med två nivåer, arbetar indirekta leverantörer och indirekta återförsäljare tillsammans för att sälja Microsofts molnbaserade tjänster till organisationer i flera språk, vertikaler och branscher.
 
@@ -36,21 +36,21 @@ Om du är en godkänd indirekt leverantör i CSP kan du läsa [Partner with indi
 
 Indirekta återförsäljare arbetar med indirekta leverantörer som har en direkt relation med Microsoft och har infrastrukturen för att tillhandahålla kundsupport och fakturering. Genom att samarbeta med indirekta leverantörer kan indirekta återförsäljare samarbeta med erfarna teknikleverantörer för att gå ut på marknaden utan att behöva göra stora kapitalinvesteringar och erbjuda en bredare portfölj med Microsoft-lösningar.
 
-Om du är en indirekt återförsäljare eller om du är intresserad av att registrera dig i CSP som indirekt återförsäljare kan du läsa Partner with indirect providers in CSP (Partner med indirekta leverantörer i [CSP)](indirect-reseller-tasks-in-partner-center.md) för att lära dig mer om att ansluta till indirekta leverantörer och kunder.
+Om du är en indirekt återförsäljare eller om du är intresserad av att registrera dig i CSP som en indirekt återförsäljare kan du läsa Partner with indirect providers in CSP (Partner med indirekta leverantörer i [CSP)](indirect-reseller-tasks-in-partner-center.md) för att lära dig mer om att ansluta med indirekta leverantörer och kunder.
 
-Är du osäker på om du ska registrera dig i CSP som en indirekt återförsäljare eller som direkt partner? Se [Utforska den indirekta modellen](https://partner.microsoft.com/cloud-solution-provider/indirect) på Microsoft Partner Network [webbplats](https://partner.microsoft.com).
+Är du osäker på om du ska registrera dig i CSP som en indirekt återförsäljare eller som en direkt partner? Se [Utforska den indirekta modellen](https://partner.microsoft.com/cloud-solution-provider/indirect) på Microsoft Partner Network [webbplats.](https://partner.microsoft.com)
 
 ## <a name="multi-partner-support"></a>Stöd för flera partner
 
-Partnercenter-funktionen för flera partner stöder scenarier när en kund behöver arbeta med mer än en partner. De kanske till exempel vill anlita en partner för sin expertis inom Office 365, men även anlita en annan partner som är specialiserad på Microsoft Azure. Mer information [finns i Stöd för](multipartner.md) flera partner.
+Partnercenters funktion för flera partner stöder scenarier när en kund behöver arbeta med fler än en partner. De kanske till exempel vill anlita en partner för sin expertis inom Office 365, men även anlita en annan partner som är specialiserad på Microsoft Azure. Mer information [finns i Stöd för](multipartner.md) flera partner.
 
 Stöd för flera partner är också tillgängligt i Microsofts nationella molnerbjudanden.
 
 ## <a name="multi-channel-support"></a>Stöd för flera kanaler
 
-Partnercenter-funktionen för flera kanaler stöder scenarier när en kund vill anlita en partner för att etablera och stödja en prenumeration som de har köpt någon annanstans. Mer information [finns i Stöd för](multichannel.md) flera kanaler.
+Partnercenters funktion för flera kanaler stöder scenarier när en kund vill anlita en partner för att etablera och stödja en prenumeration som de har köpt någon annanstans. Mer information [finns i Stöd för](multichannel.md) flera kanaler.
 
 Stöd för flera kanaler är också tillgängligt i Microsofts nationella molnerbjudanden.
 
 > [!IMPORTANT]  
-> En partner i CSP-programmet kan för närvarande inte sälja onlinetjänster en annan partner i CSP-programmet. Den här begränsningen gäller endast den klientorganisation som används för att genomföra CSP-transaktioner. CSP-partner som använder en icke-CSP-klient för företagsanvändning kan köpa onlinetjänster en annan CSP-partner. Microsoft granskar kontinuerligt principerna och funktionerna i alla program. Alla nyheter om funktions- eller principändringar kommer att meddelas via de vanliga kommunikationskanalerna, inklusive [Meddelanden i Partnercenter.](announcements/index.md)
+> En partner i CSP-programmet kan inte sälja onlinetjänster till en annan partner i CSP-programmet för närvarande. Den här begränsningen gäller endast för den klientorganisation som används för att utföra CSP-transaktioner. CSP-partner som använder en icke-CSP-klient för företagsanvändning kan köpa onlinetjänster en annan CSP-partner. Microsoft granskar kontinuerligt principer och funktioner i alla program. Alla nyheter om funktions- eller principändringar kommer att meddelas via de vanliga kommunikationskanalerna, inklusive [Partner Center-meddelanden.](announcements/index.md)

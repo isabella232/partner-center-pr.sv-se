@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5c063788b11dfb2507ff88a1774a94f21f6ebca5
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 8ab68cbae952b8eab24dd989386007cd0c2fcc559cd48eb37256b80ce1146acf
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845235"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115678591"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Översikt över instrumentpanelsrapporter som är tillgängliga i Partnercenter Insights
  

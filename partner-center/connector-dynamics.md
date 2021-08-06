@@ -8,12 +8,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.date: 03/01/2021
-ms.openlocfilehash: 798a8a7d26480e8a1fc23bca3af45bd6a0e44778
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 30cfb79cc6dca9cfeab22478726eec2101e4d3b3efbd76008a57164728c481d9
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838129"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115680417"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm-overview"></a>Översikt över anslutningsappen för säljförsäljning för Dynamics 365 CRM
 
@@ -122,15 +122,15 @@ Innan du installerar, konfigurerar och anpassar Power Automate i produktionsmilj
 
    Aktivera flöden i följande ordning:
 
-   a. Registrering av Webhook i Partnercenter (insiderförhandsvisning)
+   a. Partner Center Webhook Registration (Insider Preview)
    
    b. [Anpassa] Skapa eller hämta information från Dynamics 365-flöde
    
-   c. Skapa hänvisning till säljförsäljning – Dynamics 365 till Partner Center (Insider Preview)
+   c. Skapa hänvisning till säljpartner – Dynamics 365 till PartnerCenter (Insider Preview)
    
-   d. PartnerCenter till Dynamics 365 – Helper (insiderförhandsvisning)
+   d. PartnerCenter till Dynamics 365 – Helper (Insider Preview)
    
-   e. Partner Center Microsoft Co-sell Referral Updates to Dynamics 365 (Insider Preview)
+   e. Partnercenter Microsoft Co-sell Hänvisningsuppdateringar till Dynamics 365 (Insider Preview)
    
    f. PartnerCenter till Dynamics 365 (Insider Preview)
    
@@ -140,11 +140,11 @@ Innan du installerar, konfigurerar och anpassar Power Automate i produktionsmilj
    
    i. Dynamics 365 Microsoft Solutions to Partner Center (Insider Preview)
  
-## <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Använda webhook-API:er för att registrera dig för resursändringshändelser
+## <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Använda webhook-API:er för att registrera för resursändringshändelser
 
-Du kan använda Partner Center webhook-API:er för att registrera dig för resursändringshändelser. Dessa ändringshändelser skickas till din URL som HTTP-inlägg.
+Du kan använda Partner Center-webhook-API:er för att registrera dig för resursändringshändelser. Dessa ändringshändelser skickas till din URL som HTTP-inlägg.
 
-1. Välj **Partner Center till Dynamics 365 (Insider Preview).**
+1. Välj **PartnerCenter till Dynamics 365 (Insider Preview).**
 
 2. Välj ikonen **Redigera** och välj När **en HTTP-begäran tas emot.**
 
@@ -152,45 +152,45 @@ Du kan använda Partner Center webhook-API:er för att registrera dig för resur
 
    :::image type="content" source="images/webhook-video.gif" alt-text="Skärmbild som visar hur du använder webhooks för att registrera resursändringar.":::
 
-4. Välj **partnercenterwebbhookregistrering (Insider Preview)** Power Automate och välj sedan **Kör**.
+4. Välj flödet **Partner center Webhook Registration (Insider Preview)** Power Automate och välj sedan **Kör**.
 
-5. Kontrollera att fönstret **Kör flöde** öppnas i den högra rutan och välj **Fortsätt.**
+5. Kontrollera att **fönstret Kör flöde** öppnas i den högra rutan och välj **Fortsätt.**
 
 6. Ange följande information:
 
    - **Http-utlösarslutpunkt:** Den här URL:en kopierades från ett tidigare steg.
-   - **Händelser som ska** registreras: Välj alla tillgängliga händelser ( hänvisningsskapad, hänvisnings-uppdaterad, **related-referral-created** och **related-referral-updated**).
+   - **Händelser att registrera:** Välj alla tillgängliga händelser ( hänvisningsskapade, hänvisnings uppdaterade, **relaterade-hänvisningsskapade** och **relaterade-hänvisnings-uppdaterade**).
    - **Skriva över befintliga utlösarslutpunkter om de finns?**: Ja. Endast en URL kan registreras för en viss webhook-händelse.
 
-7. Välj **Kör flöde** och sedan **Klar.**
+7. Välj **Kör flöde** och välj sedan **Klar.**
 
 Webhooken kan nu lyssna på, skapa och uppdatera händelser.
 
 ## <a name="customize-synchronization-steps"></a>Anpassa synkroniseringssteg
 
-CRM-system är mycket anpassade och du kan anpassa Power Automate baserat på din CRM-konfiguration. När hänvisningar till säljförsäljning synkroniseras mellan Partner Center och ditt CRM-system visas fälten som synkroniseras på Partner Center-datorn i guiden Anpassad [fältmappning.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxL6S)
+CRM-system är mycket anpassade och du kan anpassa Power Automate baserat på din CRM-konfiguration. När hänvisningar till säljförsäljning synkroniseras mellan Partner Center och ditt CRM-system visas fälten som synkroniseras på Partner Center-datorn i guiden [Anpassad fältmappning.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxL6S)
 
 Följ guiden för fältmappning och gör vid behov lämpliga ändringar i [Anpassa] Skapa eller Hämta information från **Dynamics 365-flöde** eller miljövariabler. Uppdatera inte andra flöden i den nya Power Automate eftersom det kan påverka framtida lösningsuppgraderingar.
 
 Följande anpassningar är tillgängliga:
 
-- **Visa bockmarkering** i affärsmöjlighetens namn: Som standard visas en bock bredvid affärsmöjlighetens namn för att indikera att synkroniseringen mellan Partner Center och Dynamics 365 CRM har genomförts. På samma sätt visas ett kryssmarkering om synkroniseringen misslyckas. För att undvika att lägga till en bock eller  korsmarkering i affärsmöjlighetens namn anger du det aktuella värdet för kryssmarkeringen Visa i miljövariabeln för affärsmöjlighetsnamn till Nej.
+- **Visa bockmarkering** i affärsmöjlighetens namn: Som standard visas en bock bredvid affärsmöjlighetsnamnet för att indikera att synkroniseringen mellan Partner Center och Dynamics 365 CRM har genomförts. På samma sätt visas ett korsmarkering om synkroniseringen misslyckas. För att undvika att lägga till en bock eller korsmarkering i affärsmöjlighetens namn anger du det aktuella värdet för kryssmarkeringen Visa i **miljövariabeln affärsmöjlighetsnamn** till Nej.
 - **Avtalsvärde:** Som standard synkroniseras avtalsvärdet från Partnercenter till och `estimatedvalue` från i CRM. Om du har ett annat fält i CRM som avtalsvärdet ska synkroniseras från:
 
   - Uppdatera fältet **Deal value** (Avtalsvärde) i Dynamics 365-miljövariabeln med CRM-fältnamnet. Se till att du anger fältets namn, inte dess visningsnamn.
-  - Redigera [Anpassa] Skapa eller Hämta information från **Dynamics 365-flödet** och gå till Skapa eller uppdatera **affärsmöjlighet** i CRM och uppdatera **Skapa** en ny affärsmöjlighet och Uppdatera befintliga **affärsmöjlighetsåtgärder** för att tilldela **Värdet DealValue** till rätt fält i CRM. Ta även bort **DealValue-tilldelningen** från **fältet Estimated Revenue (Beräknade** intäkter).
+  - Redigera [Anpassa] Skapa eller Hämta information från **Dynamics 365-flödet** och gå till Skapa  eller uppdatera **affärsmöjlighet** i CRM och uppdatera **Skapa** en ny affärsmöjlighet och Uppdatera befintliga affärsmöjlighetsåtgärder för att tilldela **DealValue-värdet** till rätt fält i CRM. Ta även bort **DealValue-tilldelningen** från **fältet Estimated Revenue (Beräknade** intäkter).
 
-- **Landskod för kundkonto:** Du måste ange en landskod med två bokstäver (ISO 3166) när du skapar en ny hänvisning. Som standard synkroniseras landskoden till och från kontots address1_country **i** CRM. Om du har ett annat fält i CRM som landskoden ska synkroniseras från:
+- **Landskod för kundkonto:** Du måste ange en landskod med två bokstäver (ISO 3166) när du skapar en ny referens. Som standard synkroniseras landskoden till och från kontots address1_country **i** CRM. Om du har ett annat fält i CRM som landskoden ska synkroniseras från:
 
-  - För ett landskodfält som inte är letar efter i kontot  som innehåller en tvåbokstavskod uppdaterar du namnet på fältet Landskod för kundkonto i Dynamics 365-miljövariabeln med CRM-fältnamnet. Se till att du anger fältets namn, inte dess visningsnamn. Redigera [Anpassa] Skapa eller Hämta information från **Dynamics 365-flödet** och gå till Skapa eller hämta kundkonto i CRM-åtgärden för att tilldela ett **land-värde** till rätt fält i CRM.  Ta även bort **värdetilldelningen** Land från **fältet Adress 1: Land/region.**
+  - För ett fält med landskod som inte är letar efter i kontot som innehåller en tvåbokstavskod uppdaterar du fältnamnet Customer **Account Country Code** i Dynamics 365-miljövariabeln med CRM-fältets fältnamn. Se till att du anger fältets namn, inte dess visningsnamn. Redigera [Anpassa] Skapa eller Hämta information från **Dynamics 365-flödet** och gå till Skapa eller hämta kundkonto i CRM-åtgärden för att tilldela ett **land-värde** till rätt fält i CRM.  Ta även bort **värdetilldelningen** Land från **fältet Adress 1: Land/region.**
 
-  - För ett uppslagsbaserat landskodfält i kontot lägger du till ett nytt anpassat fält i kontot och fyller i det automatiskt med en landskod med två bokstäver (ISO 3166) baserat på det värde som valts i det uppslagsbaserade fältet och vice versa. Följ föregående steg för fältet landskod som inte är letar efter för att synkronisera ett nytt anpassat fält från CRM till och från Partnercenter.
+  - För ett uppslagsbaserat landskodfält i kontot lägger du till ett nytt anpassat fält i kontot och fyller i det automatiskt med en landskod med två bokstäver (ISO 3166) baserat på det värde som valts i det uppslagsbaserade fältet och vice versa. Följ föregående steg för fältet landskod för icke-letarad för att synkronisera ett nytt anpassat fält från CRM till och från Partnercenter.
 
-- **Affärsmöjlighetsfält:** Om det  finns obligatoriska fält i Affärsmöjlighet som måste fyllas i redigerar du [Anpassa]  Skapa eller Hämta information från **Dynamics 365-flödet** och går till Skapa eller uppdatera affärsmöjlighet i CRM och uppdaterar **Skapa en** ny affärsmöjlighetsåtgärd för att tilldela värden till de obligatoriska fälten baserat på dina affärsbehov.
+- **Affärsmöjlighetsfält:** Om det  finns obligatoriska fält i Affärsmöjlighet som måste fyllas i redigerar du [Anpassa]  Skapa eller Hämta information från **Dynamics 365-flödet** och går till Skapa eller uppdatera affärsmöjlighet i CRM och uppdaterar **Skapa** en ny affärsmöjlighetsåtgärd för att tilldela värden till de obligatoriska fälten baserat på dina affärsbehov.
 - **Leadfält:** Om det finns  obligatoriska fält i Lead som måste fyllas i redigerar du [Anpassa] Skapa eller Hämta information från **Dynamics 365-flödet** och går till Skapa eller uppdatera **lead** i CRM och uppdatera Skapa en ny **leadåtgärd** för att tilldela värden till de obligatoriska fälten baserat på dina affärsbehov.
-- **Kundkonto:** När en ny referens synkroniseras från Partnercenter till CRM försöker Power Automate-lösningen söka efter ett befintligt konto i CRM med hjälp av kundens företagsnamn och postnummer. Om den inte hittar något skapas ett nytt kundkonto i CRM. Om du vill uppdatera sökvillkoren och informationen om att skapa ett nytt konto redigerar  du [Anpassa] Skapa eller Hämta information från **Dynamics 365-flödet** och går till Skapa eller hämta kundkonto i CRM- och **Skapa kundkontoåtgärden**.
+- **Kundkonto:** När en ny referens synkroniseras från PartnerCenter till CRM försöker Power Automate-lösningen söka efter ett befintligt konto i CRM med hjälp av kundens företagsnamn och postnummer. Om den inte hittar något skapas ett nytt kundkonto i CRM. Om du vill uppdatera sökvillkoren och information om skapande av nytt konto redigerar du [Anpassa] Skapa eller Hämta information från **Dynamics 365-flödet** och går till **Skapa** eller hämta kundkonto i CRM- och **Skapa kundkontoåtgärden**.
 
-## <a name="update-environment-variable"></a>Uppdatera miljövariabeln
+## <a name="update-environment-variable"></a>Uppdatera miljövariabel
 
 Så här uppdaterar du ett miljövariabelvärde:
 
@@ -198,31 +198,31 @@ Så här uppdaterar du ett miljövariabelvärde:
 
 2. Välj miljövariabeln för det värde som behöver uppdateras och välj **Redigera med** hjälp av ellipsikonen.
 
-3. Uppdatera **aktuellt värde** (uppdatera inte **standardvärdet**) med hjälp av **alternativet Nytt värde** och ange värdet. Värdet måste matcha variabeln datatyp. Till exempel accepterar datatypen Ja eller Nej antingen värdet Ja eller Nej.
+3. Uppdatera **aktuellt värde** (uppdatera inte **standardvärdet**) med hjälp av **alternativet Nytt** värde och ange värdet. Värdet måste matcha variabelns datatyp. Till exempel accepterar datatypen Ja eller Nej antingen värdet Ja eller Nej.
 
    :::image type="content" source="images/cosellconnectors/environment-variables-video.gif" alt-text="Skärmbild som visar Uppdatera miljövariabler.":::
 
-## <a name="end-to-end-bidirectional-co-sell-referral-synchronization"></a>Dubbelriktad synkronisering av säljförsäljningsreferenser från slutet till slut
+## <a name="end-to-end-bidirectional-co-sell-referral-synchronization"></a>Dubbelriktad synkronisering av säljförsäljningsreferenser från end till end
 
-När du har installerat, konfigurerat och anpassat Power Automate lösningen kan du testa synkroniseringen av referenser för säljförsäljning mellan Dynamics 365 och Partnercenter.
+När du har installerat, konfigurerat och anpassat Power Automate-lösningen kan du testa synkroniseringen av hänvisningar till säljpartner mellan Dynamics 365 och Partnercenter.
 
 ### <a name="prerequisites"></a>Förutsättningar
 
-För att synkronisera hänvisningarna mellan Partner Center och Dynamics 365 CRM avgränsar Power Automate-lösningen tydligt Microsoft-specifika hänvisningsfält. Den här identifieringen ger säljteamen möjlighet att bestämma vilka hänvisningar de vill dela med Microsoft för samförsäljning.
+För att synkronisera hänvisningarna i Partner Center och Dynamics 365 CRM avgränsar Power Automate-lösningen tydligt Microsoft-specifika hänvisningsfält. Den här identifieringen ger säljteamen möjlighet att bestämma vilka hänvisningar de vill dela med Microsoft för säljförsäljning.
 
-En uppsättning anpassade fält och objekt läggs till som en del av lösningsinstallationen. En CRM-administratörsanvändare måste skapa ett separat CRM-avsnitt med de anpassade **fälten** Affärsmöjlighet.
+En uppsättning anpassade fält och objekt läggs till som en del av lösningsinstallationen. En CRM-administratörsanvändare måste skapa ett separat CRM-avsnitt med de **anpassade affärsmöjlighetsfälten.**
 
-Följande anpassade fält ska vara en del av CRM-avsnittet:
+Följande anpassade fält bör ingå i CRM-avsnittet:
 
 - **Synkronisera med Partnercenter:** Om du vill synkronisera affärsmöjligheten med Partnercenter. Som standard är värdet för det här fältet Nej och måste uttryckligen anges till Ja av din säljare för att dela en affärsmöjlighet med Microsoft. Nya referenser som delas från Partner Center till CRM har det här fältvärdet inställt på Ja.
-- **Hänvisningsidentifierare:** Ett fält för skrivskyddade identifierare för Partner Center-hänvisningen.
+- **Hänvisningsidentifierare:** Ett skrivskyddade identifierarfält för PartnerCenter-hänvisningen.
 - **Hänvisningslänk:** En skrivskyddade länk till hänvisningen i Partnercenter.
-- **Hur kan Microsoft hjälpa till?**: Hjälp krävs från Microsoft för hänvisningen. Om du vill skapa en hänvisning till säljförsäljning väljer du den hjälp som krävs av Microsoft. En kundkontakt måste associeras med möjligheten att skapa en hänvisning till säljförsäljning. Om du vill skapa en referens för icke-säljförsäljning ska du inte välja det här fältet. En referens för icke-säljförsäljning kan konverteras till en hänvisning till säljförsäljning när som helst genom att välja lämpligt alternativ som krävs för hjälp.
-- **Synlighet för Microsoft Partner Center-hänvisning:** Välj synlighet för PartnerCenter-hänvisningen. Genom att göra den synlig för Microsoft-säljare kan en hänvisning som inte handlar om säljförsäljning konverteras till samförsäljning. När Microsoft-hjälp krävs är hänvisningen synlig för Microsoft-säljare som standard. När det här fältet har markerats som synligt kan det inte återställas.
-- **Microsoft CRM identifierare:** När en hänvisning till säljförsäljning skapas och godkänns av Microsoft fylls det här fältet i med Microsofts CRM-identifierare.
+- **Hur kan Microsoft hjälpa till?**: Hjälp krävs av Microsoft för hänvisningen. Om du vill skapa en hänvisning om säljförsäljning väljer du lämplig hjälp som krävs av Microsoft. En kundkontakt måste kopplas till möjligheten att skapa en hänvisning för säljförsäljning. Välj inte det här fältet om du vill skapa en referens för icke-säljförsäljning. En hänvisning som inte gäller säljförsäljning kan konverteras till en hänvisning om säljförsäljning när som helst genom att välja lämpligt hjälpalternativ.
+- **Referenssynlighet för Microsoft Partner Center:** Välj synlighet för Partnercenter-hänvisningen. Genom att göra den synlig för Microsoft-säljare kan en hänvisning om icke-säljande konverteras till samförsäljning. När Microsoft-hjälp krävs är referensen synlig för Microsoft-säljare som standard. När det här fältet har markerats som synligt kan det inte återställas.
+- **Microsoft CRM identifierare:** När en hänvisning om säljförsäljning skapas och godkänns av Microsoft fylls det här fältet i med Microsofts CRM-identifierare.
 - **Produkter: Föråldrad:** Använd inte det här fältet eller lägg till det i CRM-avsnittet. Den är endast tillgänglig för bakåtkompatibilitet. Använd Partner Center-lösningar i stället.
-- **Granskning:** En skrivskyddade granskningslogg för synkronisering med Partner Center-referenser.
-- **Microsoft Partner Center-lösningar:** Ett anpassat objekt för att associera lösningar som är redo för säljförsäljning eller Microsoft-lösningar med affärsmöjligheten. En eller flera lösningar kan läggas till eller tas bort från affärsmöjligheten. Det är obligatoriskt att lägga till minst en säljklar eller Microsoft-lösning till affärsmöjligheten innan du delar den med Microsoft. Om du vill associera det här objektet med affärsmöjligheten uppdaterar du **formuläret** Affärsmöjlighet i CRM.
+- **Granskning:** En skrivskyddade granskningslogg för synkronisering med PartnerCenter-referenser.
+- **Microsoft Partner Center-lösningar:** Ett anpassat objekt för att associera lösningar som är redo för säljförsäljning eller Microsoft-lösningar med möjligheten. En eller flera lösningar kan läggas till eller tas bort från affärsmöjligheten. Det är obligatoriskt att lägga till minst en säljklar eller Microsoft-lösning till affärsmöjligheten innan du delar den med Microsoft. Om du vill associera det här objektet med affärsmöjligheten uppdaterar du **formuläret** Affärsmöjlighet i CRM.
 
   Välj lämplig flik i formuläret **Affärsmöjlighet** och lägg till ett underrutnät enligt det som visas här.
 

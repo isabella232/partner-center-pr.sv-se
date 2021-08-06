@@ -4,16 +4,16 @@ ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: Använd det här API:et för att hämta alla tillgängliga rapport-ID:n i Partnercenter-insikter.
+description: Använd det här API:et för att hämta alla tillgängliga rapport-ID:n i PartnerCenter-insikter.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: dc0e3925aeb07adc0e2b38af2913c63d3183941e
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 9c6930d8be430f6a9219e7b3d11b2e64ed2af5253b81581581ad6254a2a1d8d3
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841359"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115697150"
 ---
 # <a name="get-report-api"></a>Hämta rapport-API
 
@@ -28,7 +28,7 @@ Det här API:et hämtar alla rapporter som har schemalagts.
 
 **Begärandehuvud**
 
-|    Huvud    |    Typ    |    Beskrivning    |
+|    Huvud    |    Typ    |    Description    |
 |    ----    |    ----    |    ----    |
 |    Auktorisering    |    sträng    |    Krävs. Åtkomsttoken Azure Active Directory (AAD) i formuläret`Bearer <token>`    |
 |    Content-Type    |    sträng    |    `Application/JSON`    |
@@ -42,9 +42,9 @@ Ingen
 
 |    Parameternamn    |    Typ    |    Obligatorisk    |    Beskrivning    |
 |    ----    |    ----    |    ----    |    ----    |
-|    reportId     |    sträng    |    No    |    Filtrera för att hämta information om endast rapporter med reportId som anges i det här argumentet     |
+|    reportId     |    sträng    |    No    |    Filter för att hämta information om endast rapporter med reportId som anges i det här argumentet     |
 |    reportName     |    sträng    |    No    |    Filtrera för att hämta information om endast rapporter med reportName som anges i det här argumentet     |
-|    queryId     |    sträng    |    No    |    Filtrera för att hämta information om endast rapporter med queryId som anges i det här argumentet     |
+|    queryId     |    sträng    |    No    |    Filter för att hämta information om endast rapporter med queryId som anges i det här argumentet     |
 |        |        |        |        |
 
 
@@ -100,17 +100,17 @@ Den här tabellen definierar nyckelelementen i svaret:
 |    ----    |    ----    |
 |    ReportId     |    Unikt UUID för rapporten som skapades     |
 |    ReportName     |    Namn som ges till rapporten i nyttolasten för begäran     |
-|    Beskrivning     |    Beskrivning som gavs när rapporten skapades     |
+|    Description     |    Beskrivning som gavs när rapporten skapades     |
 |    QueryId     |    Fråge-ID som skickades när rapporten skapades     |
 |    Söka i data     |    Frågetext som ska köras för den här rapporten     |
 |    Användare     |    Användar-ID som används för att skapa rapporten     |
-|    CreatedTime     |    Den tid då rapporten skapades. Tidsformatet är yyyy-MM-ddTHH:mm:ssZ     |
+|    CreatedTime     |    Tiden då rapporten skapades. Tidsformatet är yyyy-MM-ddTHH:mm:ssZ     |
 |    ModifiedTime     |    Tid då rapporten senast ändrades. Tidsformatet är yyyy-MM-ddTHH:mm:ssZ     |
 |    executeNow     |    ExecuteNow-flaggan som angetts när rapporten skapades    |
 |    StartTime     |    Tidskörningen börjar. Tidsformatet är yyyy-MM-ddTHH:mm:ssZ     |
 |    ReportStatus     |    Status för rapportkörningen. Möjliga värden är Pausad, Aktiv och Inaktiv.     |
-|    RecurrenceInterval     |    Upprepningsintervall som angavs när rapporten skapades     |
-|    RecurrenceCount     |    Antal upprepningar som angavs när rapporten skapades     |
+|    RecurrenceInterval     |    Upprepningsintervall som anges när rapporten skapas     |
+|    RecurrenceCount     |    Antal upprepningar som anges när rapporten skapas     |
 |    CallbackUrl     |    Motringning-URL som anges i begäran     |
 |    CallbackMethod    |    Återanropsmetod som anges i begäran    |
 |    Format     |    Format för rapportfilerna     |

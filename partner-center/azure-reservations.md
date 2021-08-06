@@ -9,16 +9,16 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 10a9789d10d03a1a6ddd0aa2cd5ccc0e320b9c07
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 8b1695119192c88317adb77357594567dc8dffaa90c16cc11676b6d9e1b6484a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838333"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115680676"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Sälja Microsoft Azure reservationer till kunder med partnercenter, Azure Portal eller API:er
 
-**Lämpliga roller:** Administratörsagent | Globala | Supportagent | Försäljningsagent | Administratör för användarhantering
+**Lämpliga roller:** Administratörsagent | Globala | Supportagent för | Försäljningsagent | Administratör för användarhantering
 
 Som partner i Molnlösningsleverantör program (CSP) kan du köpa, sälja eller hantera Azure-reservationer för kunder. Använd PartnerCenter, Azure Portal eller Partner Center-API:et.
 

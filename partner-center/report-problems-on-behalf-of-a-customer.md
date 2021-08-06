@@ -4,21 +4,21 @@ ms.topic: how-to
 ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
-description: Lär dig när du ska eskalera ett kundtjänstproblem till Microsoft och hur du kan skapa en supportbiljett för olika typer av Microsoft-tjänster.
+description: Lär dig när du ska eskalera ett problem med kundtjänsten till Microsoft och hur du kan skapa en supportbiljett för olika typer av Microsoft-tjänster.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4d4c82149638ad117d54ea9b518a68ec9ae19b2b
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: b373564c45c4b1792e1ec50cb8f073cf05259c3cc838519e5bc1610f7cf13b59
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841155"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115678160"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Rapportera ett tjänstproblem åt en kund – inklusive när och hur du gör det
 
-**Gäller för**: Partner Center-| Partnercenter för Microsoft Cloud for US Government
+**Gäller för:** Partner Center-| Partnercenter för Microsoft Cloud for US Government
 
 **Lämpliga roller:** Global administratör
 
@@ -32,17 +32,17 @@ Om kunden har ett tjänstproblem som du inte kan lösa och som uppfyller kriteri
     
 3. Välj **Tjänstbegäranden** på kundmenyn
 
-4. I **listrutan Ny** begäran väljer du **antingen Azure** **eller Office 365, Dynamics 365 och Enterprise Mobility Suite.** Du omdirigeras till antingen Microsoft Azure-portalen eller Office 365 administrationscenter.
+4. I **listrutan Ny** begäran väljer du **antingen Azure** **eller Office 365, Dynamics 365, Enterprise Mobility Suite**. Du omdirigeras antingen till Microsoft Azure portalen eller Office 365 administrationscentret.
 
 >[!NOTE]
->Support operations-partner som gör transaktioner med Dynamics 365 i CSP krävs för att upprätthålla ett supportavtal med ASfP-plan (Advanced Support for Partner) eller högre. Det här supportavtalet krävs för att skicka Dynamics 365-incidenter åt en CSP-kund. [Läs mer](https://partner.microsoft.com/support/partnersupport) om alternativen för supportavtal.
+>Supportpartner som gör transaktioner med Dynamics 365 i CSP måste ha ett supportavtal med en ASfP-plan (Advanced Support for Partner) eller högre. Det här supportavtalet krävs för att skicka Dynamics 365-incidenter åt en CSP-kund. [Läs mer](https://partner.microsoft.com/support/partnersupport) om alternativen för supportavtal.
 
 ### <a name="microsoft-azure"></a>Microsoft Azure
 
 > [!IMPORTANT]
-> Tänk på följande när du behöver skapa en tjänstbegäran för kunden i Azure:
+> Tänk på följande när du behöver skapa en tjänstbegäran för din kund i Azure:
 >
->- För att du som indirekt återförsäljare ska kunna skapa tjänstbegäranden för din kund i Azure måste din indirekta leverantör ge dig åtkomst till kundens Azure-konto. Detta skiljer sig från administration för kunders räkning för Office 365.
+>- För att du som indirekt återförsäljare ska kunna skapa tjänstbegäranden för din kund i Azure måste din indirekta leverantör ge dig åtkomst till kundens Azure-konto. Detta skiljer sig från att administrera för kunders räkning för Office 365.
 >
 >- Supportadministratören i Partnercenter kan inte skapa tjänstbegäranden i Azure-tjänstportalen, men det de kan göra är att skapa en supportgrupp i Azure-tjänstportalen och ge gruppen behörighet att logga supportförfrågningar.
 
@@ -50,18 +50,18 @@ Om kunden har ett tjänstproblem som du inte kan lösa och som uppfyller kriteri
 
 2. Fyll i supportbegäran med lämplig information och välj sedan **Skapa:**
 
-   - I avsnittet **Grundläggande i** supportbegäran ser du till att Molnlösningsleverantör **i** **fältet Supportplan.**
+   - I avsnittet **Grundläggande i** supportbegäran väljer du Molnlösningsleverantör **i** **fältet Supportplan.**
 
    - I **avsnittet Kontaktinformation** i supportbegäran anger du din information, inte kundens information.
 
-3. Senare kan du granska kundens tjänstbegäranden i Microsoft Azure portalen genom att välja **Hantera supportbegäranden.**
+3. Senare granskar du kundens tjänstbegäranden i Microsoft Azure genom att välja **Hantera supportbegäranden.**
 
 Du kan behöva skapa en supportbegäran för en kund när du inte har administratörsbehörighet för den kunden. Detta kan inträffa i ett av två scenarier:
 
 - Du har inte begärt administratörsbehörighet när du först etablerade relationen.
-- Du hanterar bara en kunds Azure-prenumerationer, så du har inte administratörsbehörighet.
+- Du hanterar bara en kunds Azure-prenumerationer, så att du inte har administratörsbehörighet.
  
-I båda dessa fall kan du använda följande procedur för att skapa en supportbegäran. 
+I något av dessa fall kan du använda följande procedur för att skapa en supportbegäran. 
 
 1. Kopiera kundens domännamn från kontosidan i Partnercenter.
 
@@ -79,35 +79,35 @@ I båda dessa fall kan du använda följande procedur för att skapa en supportb
 2. Fyll i formuläret för tjänstbegäran och välj **Skicka**.
 
    > [!TIP]
-   > Se till att inkludera dina kontaktuppgifter, inte dina kunders.
+   > Se till att inkludera dina kontaktuppgifter, inte kundens.
 
 3. Senare granskar du kundens tjänstbegäranden genom att gå till administrationscentret Office 365 och välja **Visa alla supportärenden.**
 
 ### <a name="support-for-commercial-marketplace-products"></a>Stöd för produkter på den kommersiella marknadsplatsen
 
-Microsoft tillhandahåller inte produktsupport för produkter på den kommersiella marknadsplatsen. Du måste kontakta den oberoende programvaruleverantören (ISV) som publicerade produkten för att få support.
+Microsoft tillhandahåller inte produktsupport för produkter från den kommersiella marknadsplatsen. Du måste kontakta den oberoende programvaruleverantören (ISV) som publicerade produkten för att få support.
 
 Så här hittar du ISV:ens kontaktinformation:
 
-1.  På Sidan **Marketplace** väljer du den produkt som du behöver hjälp med.
+1.  På **Marketplace-sidan** väljer du den produkt som du behöver hjälp med.
 
 2.  På produktsidan hittar du kontaktinformation för supporten. Detta kan vara ett eller flera av följande alternativ:
 
-    - En länk till en support-startpunkt på ISV:s webbplats
+    - En länk till en supportinträde på ISV:s webbplats
     - Ett e-postmeddelande för support
     - Ett telefonnummer till supportkontakten
 
 ## <a name="faq"></a>Vanliga frågor
 
-Se följande vanliga frågor och svar om tjänstbegäranden som du kan skicka för en kunds räkning. 
+Se följande vanliga frågor och svar om tjänstbegäranden som du kan skicka åt en kund. 
 
 ### <a name="what-is-included-as-part-of-the-support-entitlement"></a>Vad ingår som en del av supportberättigandet?
 
 Tjänstbegäranden ska arkiveras via Partnercenter. De är tillgängliga för Azure, Microsoft Office 365, Microsoft Dynamics CRM Online och Enterprise Mobility Suite. Som partner som deltar i Molnlösningsleverantör kan du förvänta dig prioritetssvarstid för dina större problem.
 
-Stöd för din egen partnerklientorganisation ingår inte som en del av CSP-supportförmånen. Men Office 365, Microsoft Dynamics CRM Online och Enterprise Mobility Suite debiterar inte en separat prenumerationsavgift för support för partner eller kunder. Azure debiterar en avgift, men om du är berättigad till Signature Cloud Support eller andra Microsoft Partner Network-förmåner (MPN) kan du använda dessa förmåner för att betala avgiften.
+Support för din egen partnerklient ingår inte som en del av CSP-supportförmånen. Men Office 365, Microsoft Dynamics CRM Online och Enterprise Mobility Suite debiterar inte en separat prenumerationsavgift för support för partner eller kunder. Azure debiterar en avgift, men om du är berättigad till Signature Cloud Support eller andra Microsoft Partner Network-förmåner (MPN) kan du använda dessa förmåner för att betala den avgiften.
 
-Den här förmånen gäller för alla partner som deltar i Molnlösningsleverantör-programmet, oavsett om de har betalats eller under en utvärderingsperiod. Support för fakturering och prenumerationshantering ingår också som en kostnadsfri komponent i det här paketet.
+Den här förmånen gäller för alla partner som deltar i Molnlösningsleverantör-programmet, oavsett om den betalas eller under en utvärderingsperiod. Support för fakturering och prenumerationshantering ingår också som en kostnadsfri komponent i det här paketet.
 
 ### <a name="how-quickly-will-i-get-an-initial-response"></a>Hur snabbt får jag ett första svar?
 
@@ -115,12 +115,12 @@ Våra första svarstider beror på allvarlighetsgraden för den incident som ski
 
 Inledande svarstider för **tekniska felkorrigeringar:**
 
-- Kritisk påverkan (allvarlighetsgrad A): Två timmar (betydande förlust eller försämring av tjänster. Produktionstjänster är nere.)
+- Kritisk påverkan (allvarlighetsgrad A): Två timmar (betydande förlust eller försämring av tjänster. Produktionstjänster nere.)
 - Måttlig påverkan (allvarlighetsgrad B): Fyra timmar (måttlig förlust eller försämring av tjänster. Produktionstjänster påverkas delvis.)
 - Minimal påverkan (allvarlighetsgrad C): Åtta timmar (minimal förlust eller försämring av tjänster. Tjänster som fortfarande är tillgängliga eller icke-produktionstjänster som påverkas.)
 
 Inledande svarstider är endast för engelsktalande support. Stöd för lokala språk tillhandahålls under arbetstid.
-För incidenter som faller inom gränserna för supporträttigheterna men som inte betraktas som incidenter som åtgärdas kan den inledande svarstiden vara upp till en arbetsdag.
+För incidenter som faller inom gränserna för supporträttigheterna men inte betraktas som incidenter som åtgärdas kan den inledande svarstiden vara upp till en arbetsdag.
 
 ### <a name="can-i-submit-a-service-request-by-phone"></a>Kan jag skicka en tjänstbegäran via telefon?
 
@@ -128,9 +128,9 @@ Nej, telefonsupport erbjuds inte för det här programmet.
 
 ### <a name="what-happens-if-i-sign-into-the-azure-portal-and-bypass-partner-center"></a>Vad händer om jag loggar in på Azure Portal och kringgår Partnercenter?
 
-Om du loggar in Microsoft Azure portalen direkt visar du mitten i din egen kontext, inte en kunds kontext. Därför bör du bara logga in direkt på Microsoft Azure när du skapar en tjänstbegäran för dina egna prenumerationer.
+Om du loggar in Microsoft Azure-portalen direkt visar du mitten i din egen kontext, inte en kunds kontext. Därför bör du bara logga in direkt på Microsoft Azure när du skapar en tjänstbegäran för dina egna prenumerationer.
 
-Supportberättigandet för CSP-programmet ger inte support för din egen partnerprenumeration. Därför måste du ange din giltiga supportplan när du skapar en tjänstbegäran som gäller din egen partnerprenumeration. Exempel är MPN-kontrakts-ID, Premier eller en Azure-supportplan. Mer information finns i vanliga frågor [Azure Support .](https://go.microsoft.com/fwlink/?LinkId=717532)
+Supporträttigheterna för CSP-programmet ger inte support för din egen partnerprenumeration. Därför måste du ange en giltig supportplan när du skapar en tjänstbegäran som gäller din egen partnerprenumeration. Exempel är MPN-kontrakts-ID, Premier eller ett Azure-supportavtal. Mer information finns i vanliga Azure Support [vanliga frågor och svar.](https://go.microsoft.com/fwlink/?LinkId=717532)
 
 ### <a name="what-happens-if-i-sign-into-the-office-365-admin-center-portal-and-bypass-partner-center"></a>Vad händer om jag loggar in Office 365 administrationscenterportalen och kringgår Partnercenter?
 
@@ -138,7 +138,7 @@ Om du loggar in Office 365 administrationscentret direkt visar du mitten i din e
 
 ### <a name="how-do-i-get-additional-dynamics-365-support"></a>Hur gör jag för att du ytterligare stöd för Dynamics 365?
 
-Om du har problem som rör: Dynamics 365-prenumerationsplan, licensiering, fakturering, Finance & Operations, Dynamics 365-produktlicenser eller om du behöver ytterligare teknisk support:
+Om du har problem som rör: Dynamics 365 Plan-prenumerationer, Licensiering, Fakturering, Finance & Operations, Dynamics 365-produktlicenser eller om du behöver ytterligare teknisk support:
  
 Kontakta [Dynamics-supporten](/dynamics365/customer-engagement/admin/contact-technical-support)
 

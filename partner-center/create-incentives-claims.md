@@ -4,21 +4,21 @@ ms.topic: how-to
 ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Lär dig hur du initierar co-op-anspråk för incitament från Partnercenter. Du kan se all aktivitet som går till bygget av ditt anspråk i Historik.
+description: Lär dig hur du initierar co-op-anspråk för incitament från Partnercenter. Du kan se all aktivitet som går till bygget av anspråket i historiken.
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 185d1593808bc417fa15646955a0cce683242570
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: f94242bce381b9906f00671dd4ca41ca68c29fd28c80396e2e17d0130807ab71
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148167"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115679854"
 ---
 # <a name="create-and-manage-an-incentives-co-op-claim"></a>Skapa och hantera ett co-op-anspråk för incitament
 
-**Lämpliga roller:** Globala | Administratörsbehörighet för | Incitamentsanvändare
+**Lämpliga roller:** Global | Incentives admin | Incitamentsanvändare
 
 Du kan initiera ett incitamentsanspråk från Partnercenter.
 
@@ -26,21 +26,21 @@ Du kan initiera ett incitamentsanspråk från Partnercenter.
 
 2. Välj **fliken Incitament** och välj sedan **Samhantering.**
 
-3. Om du redan har ett pågående anspråk visar översiktssidan för anspråk information om status för befintliga anspråk och godkända medel, amort och summor.
+3. Om du redan har ett pågående anspråk visar översiktssidan för anspråk information om status för befintliga anspråk och godkända medel, anspråk och summor.
 
-4. Om du vill skapa ett nytt anspråk väljer **du Skapa ett anspråk**.
+4. Om du vill skapa ett nytt anspråk väljer **du Skapa ett anspråk.**
 
-5. När du har fyllt i det första formuläret och valt Skapa anspråk **kommer** du till sidan med anspråksdetaljer där du kan lägga till fakturor, CSR:er, bevisdokument och mått. Du kan också lägga till ytterligare information om det behövs.
+5. När du har fyllt i det första formuläret och valt Skapa anspråk **kommer** du till sidan Med anspråksdetaljer där du kan lägga till fakturor, CSR:er, bevisdokument och mått. Du kan också lägga till ytterligare information om det behövs.
 
 På sidan med anspråksinformation kan du begära att andra i din organisation laddar upp dokumentation till formuläret. Du kan ange förklaringar till alla stöddokument du laddar upp. 
 
 ### <a name="manage-your-claims"></a>Hantera dina anspråk
 
-Du kan se all aktivitet som går till bygget av ditt anspråk i **Historik**. Varje gång en kollega lägger till ett stöddokument eller kommentarer om något lagras åtgärden i **Historik**. Tills du skickar anspråket redigeras **statusen**. Anspråksstatusen ändras när den går igenom godkännandeprocessen. Ibland under granskningen av ett anspråk kan du få feedback om ett visst objekt i poE-dokumentationen (proof of execution). Feedback och begäranden om ytterligare information visas också i anspråkshistoriken.
+Du kan se all aktivitet som går till bygget av anspråket i **historiken**. Varje gång en kollega lägger till ett stöddokument eller kommentarer om något lagras åtgärden i **Historik**. Tills du skickar anspråket redigeras **statusen**. Anspråksstatusen ändras när den går igenom godkännandeprocessen. Ibland under granskningen av ett anspråk kan du få feedback om ett visst objekt i poE-dokumentationen (proof of execution). Feedback och begäranden om ytterligare information visas också i anspråkshistoriken.
 
-Du kan inte redigera ditt anspråk när du har skickat det om inte en granskare begär ytterligare information.
+Du kan inte redigera anspråket när du har skickat det om inte en granskare begär ytterligare information.
 
-Mer information finns i sam [op-guideboken för partnerincitament.](https://assetsprod.microsoft.com/co-op-guidebook.pdf)
+Mer information finns i [guideboken för partnerincitament för co-op.](https://assetsprod.microsoft.com/co-op-guidebook.pdf)
 
 ## <a name="next-steps"></a>Nästa steg
 

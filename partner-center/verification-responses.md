@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0fa4612a3617cd68a0a1c7c55a316143ed0aff37
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 6c119f46d0eb6f37e035037dc554e545770f5f5f21497ef184f7bcc1629915a8
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844162"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681101"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Verifiera din kontoinformation när du registrerar dig i ett nytt Partnercenter-program
 

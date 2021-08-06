@@ -9,12 +9,12 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 2061286ecb048647d666438a34b4759175b7deb4
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 46a15d9f26421b78022e15090a5c498f956fb49dce688264074788be88d04cf2
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844623"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115696314"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>PartnerCenter Insights – en instrumentpanel som visar hur det går för en kommersiell Microsoft-partner
 
@@ -57,7 +57,7 @@ Följande rapporter är tillgängliga som en del av Insights instrumentpanel.
 
 :::image type="content" source="images/insights/introduction.png" alt-text="Introduktionskarta.":::
 
-**Feedbackknapp:** Varje diagram/kontroll i alla Insights-rapporter ingår med en feedback-knapp så att du kan ge instansfeedback om en rapportfunktion. 
+**Feedbackknapp:** Varje diagram/kontroll i alla Insights ingår med en feedback-knapp så att du kan ge instansfeedback om en rapportfunktion. 
 
  
 **Sidnivåfilter:** Med undantag för rapporterna Översikt, Förmåner och Kompetenser kan Insights använda filter på sidnivå. 
@@ -91,6 +91,6 @@ Följande rapporter är tillgängliga som en del av Insights instrumentpanel.
 
 - [Partnercenter Insights – Användningsrapport för Azure](insights-azure-usage-report.md)
 
-- [Partnercenter Insights – Kompetensrapport](insights-competencies-report.md)
+- [Partnercenter Insights – kompetensrapport](insights-competencies-report.md)
 
-- [Partnercenter – Insights – Benefits-rapport](insights-benefits-report.md)
+- [Partnercenter Insights – benefits-rapport](insights-benefits-report.md)

@@ -8,12 +8,12 @@ ms.author: sukumart
 author: sukumart
 ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: e248657b9b4d4cf50cb7d38b2a0593ae6445bd28
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 1eae2a840d5f3b70875babca350cd0ca9d0a37e5047fc516ce8ec0b1e0ea8a74
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843144"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115696741"
 ---
 # <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft-365-or-office-365-versions"></a>Migrera Kaizala Pro fristående prenumerationer till Microsoft 365 eller Office 365 versioner
 

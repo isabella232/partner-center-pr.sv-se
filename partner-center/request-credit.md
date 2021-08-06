@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: d98130f22fee81a50b40b8ae08a3fcf909201389
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 244b4fb13f1b4532cba218ab404442c323121f142966695d5c220a18300bc0fc
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839693"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115678194"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Hur och när du ska begära en SLA-kredit (serviceavtal) från Microsoft
 

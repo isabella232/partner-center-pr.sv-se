@@ -1,6 +1,6 @@
 ---
-title: Gör ditt första API-anrop för att få åtkomst till analysdata för partnerinsikter
-description: Exempel för att lära dig att använda API:et för åtkomst till analysdata för partnerinsikter.
+title: Gör ditt första API-anrop för att få åtkomst till analysdata från partnerinsikter
+description: Exempel på hur du kan använda API:et för att få åtkomst till analysdata från partnerinsikter.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
@@ -8,22 +8,22 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 9aac83645051f3e8f32945ae908ba1fe47c08d13
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 76fb1b113a44e195114d67d79f192b3c2dce1071b7502f01af20387f69d62a8f
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840033"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115697473"
 ---
-# <a name="make-your-first-api-call-to-access-partner-insights-analytics-data"></a>Gör ditt första API-anrop för att få åtkomst till analysdata för partnerinsikter
+# <a name="make-your-first-api-call-to-access-partner-insights-analytics-data"></a>Gör ditt första API-anrop för att få åtkomst till analysdata från partnerinsikter
 
-En lista över API:er för åtkomst till analysdata för partnerinsikter finns i [API:er för åtkomst till analysdata för partnerinsikter.](insights-programmatic-analytics-available-api.md) Innan du gör ditt första [API-anrop](insights-programmatic-prerequisites.md) måste du se till att du uppfyllde kraven för att programmatiskt komma åt Partner Insights-analysdata.
+En lista över API:er för åtkomst till analysdata från partnerinsikter finns i [API:er för åtkomst till analysdata för partnerinsikter.](insights-programmatic-analytics-available-api.md) Innan du gör ditt första [API-anrop](insights-programmatic-prerequisites.md) måste du se till att du har uppfyllt förutsättningarna för att programmatiskt komma åt partner Insights-analysdata.
 
 ## <a name="token-generation"></a>Tokengenerering
 
-Innan du anropar någon av metoderna måste du först hämta en Azure Active Directory (AAD) åtkomsttoken. Du måste skicka Azure AD-åtkomsttoken till auktoriseringsrubriken för varje metod i API:et. När du har fått en åtkomsttoken har du 60 minuter på dig att använda den innan den upphör att gälla. När token har upphört att gälla kan du uppdatera token och fortsätta att använda den för ytterligare anrop till API:et.
+Innan du anropar någon av metoderna måste du först hämta en Azure Active Directory åtkomsttoken (AAD). Du måste skicka Azure AD-åtkomsttoken till auktoriseringsrubriken för varje metod i API:et. När du har fått en åtkomsttoken har du 60 minuter på dig att använda den innan den upphör att gälla. När token upphör att gälla kan du uppdatera token och fortsätta att använda den för ytterligare anrop till API:et.
 
-Se en exempelbegäran nedan för att generera en token. De tre värden som krävs för att generera token är `clientId` , `clientSecret` och `tenantId` . Resursparametern ska vara inställd på `https://api.partnercenter.microsoft.com`
+Se exempelbegäran nedan för att generera en token. De tre värden som krävs för att generera token är `clientId` `clientSecret` , och `tenantId` . Resursparametern ska vara inställd på `https://api.partnercenter.microsoft.com`
 
 #### <a name="request-example"></a>Exempel på begäran
 
@@ -84,7 +84,7 @@ Data kan laddas ned från följande datauppsättningar (datasetName):
 - TeamsUsageWorkload
 - TeamsUsageMeetingsAndCalls
 
-I följande avsnitt visas exempel på hur du kommer åt via programmering från `SubscriptionId` DynamicsUsage-datauppsättningen.
+I följande avsnitt ser vi exempel på hur du kommer åt via programmering från `SubscriptionId` DynamicsUsage-datauppsättningen.
 
 ### <a name="step-1-make-a-rest-call-using-the-get-datasets-api"></a>Steg 1: Gör ett REST-anrop med hjälp av API:et för att hämta datauppsättningar
 
@@ -164,7 +164,7 @@ curl
 
 ### <a name="step-2-create-the-custom-query"></a>Steg 2: Skapa den anpassade frågan
 
-I det här steget använder vi SubscriptionId från DynamicsUsage-datauppsättningen för att skapa en anpassad fråga för den rapport som vi vill ha. Standardtidsspanet om det inte anges i frågan är 6 månader.
+I det här steget använder vi SubscriptionId från DynamicsUsage-datauppsättningen för att skapa en anpassad fråga för den rapport som vi vill använda. Standardtidsspann om det inte anges i frågan är 6 månader.
 
 #### <a name="request-example"></a>Exempel på begäran
 
@@ -205,11 +205,11 @@ curl
 }
 ```
 
-Vid lyckad körning av frågan `queryId` genereras en som måste användas för att generera rapporten.
+Vid lyckad körning av frågan genereras `queryId` en som måste användas för att generera rapporten.
 
 ### <a name="step-3-execute-test-query-api"></a>Steg 3: Kör testfråge-API
 
-I det här steget använder vi TEST QUERY-API:et för att hämta de översta 100 raderna för frågan som skapades.
+I det här steget använder vi API:et för testfrågor för att hämta de 100 översta raderna för frågan som skapades.
 
 #### <a name="request-example"></a>Exempel på begäran
 
@@ -373,4 +373,4 @@ Curl
 
 ## <a name="next-steps"></a>Nästa steg
 
-- Prova API:erna via [Swagger API-URL:en](https://api.partnercenter.microsoft.com/insights/v1/mpn/swagger/index.html)
+- Testa API:erna via [Swagger API-URL:en](https://api.partnercenter.microsoft.com/insights/v1/mpn/swagger/index.html)

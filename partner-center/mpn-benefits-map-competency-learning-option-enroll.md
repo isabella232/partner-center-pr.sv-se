@@ -8,12 +8,12 @@ ms.subservice: partnercenter-membership
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: a82f15b0576a48fb76b975e6de2c37407046f4f2
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: e1830f0afd3f075b4bb770eb8a7bd98efffbea78e86575c233ca0965384925a8
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844674"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115696724"
 ---
 # <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>Använda Partnercenter för att registrera dig som Microsoft Learning Partner
 
@@ -77,7 +77,7 @@ Om du vill kvalificera och registrera dig för en specifik silverkompetenss alte
 
 Innan du kan registrera dig med alternativet Learning guldkompetens måste du se till att du uppfyller den specifika kompetensens krav på Learning guldnivå.
 
-Registrering i (eller förnyelse) av ett alternativ för Learning guldkompetens har andra krav än registrering i Learning Action Pack- eller silverkompetens Learning alternativet. För att uppfylla kraven för en guldkompetens Learning också att du uppfyller kompetensens krav på Learning KPI. Om du inte har uppfyllt KPI:erna eller andra krav måste du registrera dig i alternativet Learning Action Pack eller Silver beroende på kravens nivå, om du vill bli en Learning Partner.
+Registrering i (eller förnyelse) av ett alternativ för Learning guldkompetens har andra krav än registrering i Learning Action Pack- eller silverkompetens Learning alternativet. För att uppfylla kraven för en guldkompetens Learning också att du uppfyller kompetensens krav på Learning KPI. Om du inte har uppfyllt KPI:erna eller andra krav måste du registrera dig i alternativet Learning Action Pack eller Silver beroende på kravens nivå, om du vill bli Learning Partner.
 
 > [!NOTE]
 > Du kanske redan är registrerad i en ny kompetens och har redan uppnått kraven för Learning silverinlärning för den kompetensen. Om du sedan vill uppnå Learning-alternativet på guldnivå för den kompetensen måste du fortfarande uppfylla kompetensens KPI:er på guldnivå och andra krav på guldnivå. När kraven på guldnivå är uppfyllda kan du dra nytta av MPN-erbjudandet – uppgradera [silver-till-guld-rabatten.](mpn-pay-fee-silver-gold-competency.md#apply-upgrade-discount-when-moving-from-silver-to-gold)

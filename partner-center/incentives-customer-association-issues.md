@@ -1,6 +1,6 @@
 ---
 title: Problem med incitament och kundassociationer
-description: Lär dig hur du kan åtgärda problem som kommer upp när du arbetar med kundassociationer för apostpartner (CPOR).
+description: Lär dig hur du kan åtgärda problem som kommer upp när du arbetar med CPOR-kundassociationer (Apostpartner of Record).
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -8,37 +8,37 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 8f1c087911e6dd7e58182c99e2b97b7a6b2246d8
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: d23c95981c39bb9b9773e3b1e6f474146f41325546cc5f96408237e2213280d2
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152179"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681815"
 ---
-# <a name="issues-with-claimed-partner-of-record-cpor-customer-associations"></a>Problem med kundassociationer för Apostpartner (CPOR)
+# <a name="issues-with-claimed-partner-of-record-cpor-customer-associations"></a>Problem med CPOR-kundassociationer (Partner of Record)
 
-**Lämpliga roller:** Faktureringsadministratör | Globala | Incitamentsadministratör
+**Lämpliga roller:** Faktureringsadministratörsroller | Global | Incitamentsadministratör
 
 Innehållet nedan hjälper dig att lösa problem som kan komma upp när du arbetar med kundassociationer.
 
-## <a name="domain-tenant-mismatch"></a>Matchningsfel för domän-klient
+## <a name="domain-tenant-mismatch"></a>Matchningsfel för domänklient
 
-I CPOR-associationsanspråksflödet (Akust Partner of Record) uppmanas du att ange kundens klientorganisations-ID och underdomän. Om du får ett felmeddelande om att de inte matchar kan du kontakta kunden för att kontrollera att du har rätt information.
+I anspråksflödet för Akustningspartner of Record (CPOR) uppmanas du att ange kundens klientorganisations-ID och underdomän. Om du får ett felmeddelande om att de inte matchar kontaktar du kunden för att kontrollera att du har rätt information.
 
-## <a name="subscription-errors-in-the-cpor-association-claim-flow"></a>Prenumerationsfel i CPOR-associationsanspråksflödet
+## <a name="subscription-errors-in-the-cpor-association-claim-flow"></a>Prenumerationsfel i CPOR-associationsanspråkflödet
 
-I CPOR-associationsanspråksflödet kan du bli ombedd att ange en prenumeration på en produkt som du försöker göra anspråk på via Business Applications (Dynamics 365). Vi ber om prenumerationen eftersom vi kontrollerar dynamiskt att produkten och prenumerationen tillhör den klientorganisation som begärs. Vi kontrollerar också att prenumerationen har statusen aktiv/i respit.
+I CPOR-associationsanspråkflödet kan du bli ombedd att ange en prenumeration för en produkt som du försöker göra anspråk på via Business Applications (Dynamics 365). Vi ber om prenumerationen eftersom vi kontrollerar dynamiskt att produkten och prenumerationen tillhör den klientorganisation som begärs. Vi kontrollerar också att prenumerationen har statusen aktiv/i respit.
 
 Om du får felet kan det ha flera orsaker:
 
 - Den valda produkten finns inte i kundens klientorganisation
 - Den angivna prenumerationen är inte för Dynamics
 - Den angivna prenumerationen är för CSP
-- Kunden har ännu inte aktiverat/etablerat produkterna för den prenumerationen
+- Kunden har ännu inte aktiverat/etablerat produkterna för prenumerationen
 - Prenumerationen har redan begärts
 - Den angivna identifieraren är inte ett prenumerations-ID
 
-Om du har en fråga om korrektheten i din prenumeration kan du samarbeta med kunden för att säkerställa att prenumerationen är korrekt och att du använder rätt klientorganisations-ID.
+Om du har en fråga om korrektheten i din prenumeration kan du kontakta kunden för att säkerställa att prenumerationen är korrekt och att du använder rätt klientorganisations-ID.
 
 Kontakta supporten om den här vägen inte har löst [problemet.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
 
@@ -60,11 +60,11 @@ CPOR-anspråksplattformen tillåter CPOR-associationsanspråk relaterade Busines
 
 ## <a name="which-mpn-do-i-choose"></a>Vilket MPN väljer jag?
 
-I CPOR-associationsanspråksflödet uppmanas du att välja ett företags-MPN som ska associeras med det arbete som du begär på slutanvändaren. Ditt företag kan ha många MPN, varav vissa kan registreras i incitamentprogram och andra som är associerade med en partnertyp, till exempel FRP FastTrack. CPOR-associationsanspråksflödet identifierar vilka MPN som har registrerats i ett incitamentprogram, men det visar inte om det är en specifik partnertyp MPN. Det är viktigt att välja rätt MPN för att undvika att behöva frigöra i framtiden. Anspråk med ett felaktigt MPN kan resultera i uteblivna intäkter för berättigande och incitament.
+I CPOR-associationsanspråksflödet uppmanas du att välja ett företags-MPN som ska associeras med det arbete som du begär hos slutanvändaren. Ditt företag kan ha många MPN, varav vissa kan registreras i incitamentprogram och andra som är associerade med en partnertyp, till exempel FRP FastTrack. CPOR-associationsanspråkflödet identifierar vilka MPN som har registrerats i ett incitamentprogram, men det talar inte om för dig om det är en specifik partnertyps MPN. Det är viktigt att välja rätt MPN för att undvika att behöva återta i framtiden. Anspråk med ett felaktigt MPN kan resultera i uteblivna berättigande- och incitamentintäkter.
 
 Om du inte vet vilket MPN du ska använda kontaktar du din globala administratör.
 
-Om det MPN som du vill använda inte har registrerats kan du hantera det på fliken [Incitamentsöversikt](https://partner.microsoft.com/dashboard/incentives/enrollment/summary) (inloggning krävs).
+Om det MPN som du vill använda inte är registrerat kan du hantera det på fliken [Incitamentsöversikt](https://partner.microsoft.com/dashboard/incentives/enrollment/summary) (inloggning krävs).
 
 ## <a name="choosing-a-product-vs-entering-a-subscription"></a>Välja en produkt jämfört med att ange en prenumeration
 
@@ -80,7 +80,7 @@ Om du skapar ett CPOR-associationsanspråk för en kund och deras produkter som 
 
 3. Ytterligare information kan begäras från båda partnerna, vilket kan orsaka fördröjningar i bearbetningen av din associationsbegäran.
 
-4. Ditt CPOR-associationsanspråk kommer fortfarande att granskas inom fem arbetsdagar, även om dess status kan vara _Under_ Granskning under en längre tidsperiod. Det här scenariot kan inträffa när Microsoft arbetar med den partner som för närvarande äger produkten/arbetsbelastningen. Du meddelas i kommentarsavsnittet i anspråket om så är fallet. 
+4. Ditt CPOR-associationsanspråk kommer fortfarande att granskas inom fem arbetsdagar, även om dess status kan vara _Under granskning_ under en längre tidsperiod. Det här scenariot kan inträffa när Microsoft arbetar med den partner som för närvarande äger produkten/arbetsbelastningen. Du meddelas i kommentarsavsnittet i anspråket om så är fallet. 
 
 >[!IMPORTANT]
 >Om vi behöver ytterligare information för att verifiera CPOR-associationsbeviset (PoE) kontaktar vi dig via kommentarsavsnittet för CPOR-associationsanspråk.

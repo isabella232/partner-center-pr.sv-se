@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: dc9b9100e01191c24c03c76e9a9ff5a6ffe335d1
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: f6392bf0e2d5feb37db38b2c185c07b4cb2cc1e01f7ab29fa1991d8e9357d276
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842192"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115680639"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Storleksändring av virtuell Microsoft Azure-dator för maximal reservationsanvändning
 

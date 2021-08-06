@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fb6b64ef6117f0e26f0fd41d215816c38d5b7b80
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: ac60847d3376724de031f5a1f50321d4273aff499a7b923b7e3bd39a0a700750
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837738"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681917"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Hantera produkter och erbjudanden på den kommersiella marknadsplatsen för dina kunder
 
@@ -65,7 +65,7 @@ Utgivaren bör ge dig en anpassad länk och en auktoriseringskod som identifiera
    > [!NOTE]
    > Om du vill göra detta för din kunds räkning kan du behöva kopiera den anpassade länken, klistra in den i en privat webbläsare och ange kundens autentiseringsuppgifter.
 
-2. När du är på ISV-utgivarens webbplats eller system, kommer utgivaren att meddela dig om eventuella ytterligare steg som du behöver vidta för att slutföra kundens konfigurationsprocess och etablera eller tilldela licenser.
+2. När du är på ISV-utgivarens webbplats eller system, kommer utgivaren att meddela dig om eventuella ytterligare åtgärder som du behöver vidta för att slutföra kundens konfigurationsprocess och etablera eller tilldela licenser.
 
 3. Som partner i CSP-programmet som arbetar för din kunds räkning ansvarar du för att utföra följande uppgifter:
 
@@ -99,7 +99,7 @@ För saaS-erbjudanden på den kommersiella marknadsplatsen kan du lägga till el
 
 3. I kolumnen **Prenumeration** väljer du den prenumeration som du vill ändra.
 
-4. På sidan prenumerationsinformation letar du upp **fältet** Kvantitet. Det är här du kan öka eller minska antalet licenser.
+4. På sidan prenumerationsinformation letar du upp **fältet** Kvantitet. Här kan du öka eller minska antalet licenser.
 
 5. Ändra kvantiteten och välj sedan **Skicka**.
 

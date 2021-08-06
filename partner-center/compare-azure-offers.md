@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d4b59dc0f492dbca2afd603c6b7800e782ab3a12
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 42d3597e9c91fcc448289a673aae2c672df6869c004e7162efd5d6235259db09
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840322"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115679894"
 ---
 # <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>Jämföra skillnader mellan Azure-erbjudanden i CSP-programmet
 

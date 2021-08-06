@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 05/25/2021
-ms.openlocfilehash: 417421ad51c30d067ce3eb2189534a391b2951a2
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 8089647c03ac28aa535170a85c0ebc038057318d2a3e8ecf7ca79677d54d21d1
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845014"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115696246"
 ---
 # <a name="payout-schedules-and-processes"></a>Utbetalningsscheman och -processer
 
@@ -30,7 +30,7 @@ När en kund köper en produkt från Microsoft AppSource eller Azure Marketplace
 
 En utbetalning sker ofta innan Microsoft samlar in betalning från kunden. Se [Process för utebliven betalning av kund](#process-for-customer-non-payment) nedan för de åtgärder vi vidta om kunden inte betalar Microsoft, men vi redan har utfärdat en utbetalning.
 
-| Händelse | Beskrivning | Rapporteringssynlighet | Tidsinställning* |
+| Händelse | Description | Rapporteringssynlighet | Tidsinställning* |
 | --- | --- | --- | --- |
 | Användning eller månad för transaktion | Kunden använder eller köper en tjänst. | [Instrumentpanel](/azure/marketplace/partner-center-portal/usage-dashboard) för [användning eller](/azure/marketplace/partner-center-portal/orders-dashboard) beställning | **Månad 1** |
 | Microsoft beräknar faktureringsbeloppet | Fastställa total användning, totalt antal transaktioner | [Instrumentpanel](/azure/marketplace/partner-center-portal/usage-dashboard) för [användning eller](/azure/marketplace/partner-center-portal/orders-dashboard) beställning | **Månad 2** |
@@ -48,7 +48,7 @@ En utbetalning sker ofta innan Microsoft samlar in betalning från kunden. Se [P
 
 Alla inköp med kreditkort eller månadsfaktura har en 30-dagars kvarhållningsperiod för att säkerställa att medel samlas in från kunden.
 
-| Händelse | Beskrivning | Rapporteringssynlighet | Tidsinställning* |
+| Händelse | Description | Rapporteringssynlighet | Tidsinställning* |
 | --- | --- | --- | --- |
 | Användning eller månad för transaktion | Kunden använder eller köper en tjänst. | [Instrumentpanel](/azure/marketplace/partner-center-portal/usage-dashboard) för [användning eller](/azure/marketplace/partner-center-portal/orders-dashboard) beställning | **Månad 1** |
 | Faktura som betalas av kunden | Fastställa total användning, totalt transaktionsvärde och kundbetalningsfaktura | [Instrumentpanel](/azure/marketplace/partner-center-portal/usage-dashboard) för [användning eller](/azure/marketplace/partner-center-portal/orders-dashboard) beställning | **Månad 2** |

@@ -9,18 +9,18 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: a980d35104f2fe7aad0117f3515a61ecf217a2b9
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 00f92dbe0c4a537626c5956e69c0b2d4b6dda20220f7b162e5d34ebfe24c5554
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148303"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681951"
 ---
 # <a name="core-requirements-for-the-activities-in-your-incentive-program"></a>Grundläggande krav för aktiviteter i ditt incitamentprogram
 
 **Lämpliga roller:** Incitamentsadministratörsroller | Incitamentsanvändare
 
-Varje typ av aktivitet som du skickar ett incitamentsanspråk för har grundläggande krav. Du måste visa att du har uppfyllt dessa krav i dina körningsdokument. Vissa aktiviteter kräver även specifika kommunikationstyper och mått.
+Varje typ av aktivitet som du skickar ett incitamentsanspråk för har grundläggande krav. Du måste visa att du har uppfyllt dessa krav i dina bevis på körningsdokument. Vissa aktiviteter kräver även specifika kommunikationstyper och mått.
 
 I följande tabeller beskrivs de grundläggande kraven för var och en av de godkända aktiviteterna. 
 
@@ -31,8 +31,8 @@ I följande tabeller beskrivs de grundläggande kraven för var och en av de god
 | Kategori | Bevis på körning    |
 | ------ | ----------- |
 | Grundläggande krav    | Företagets varumärke och kontaktuppgifter<br><br>Microsoft-innehåll |
-| Kommunikationskrav | Kopia av den slutliga kommunikationsartikeln (baserat på annonsering) som visar programspecifika grundläggande krav |
-| Mått     | Uppskattad kund(eller partner) räckvidd |
+| Kommunikationskrav | Kopia av den slutliga kommunikationsartikeln (baserat på annonsering) som visar programspecifika kärnkrav |
+| Mått     | Uppskattad kund-(eller partnerns) räckvidd |
 |Berättigade utgifter    | Medieplacering från tredje part<br><br>Tryckt material<br><br>Avgiftsbaserade marknadsförings- och reklamtjänster inklusive avgifter för agenturer  |
 
 ### <a name="digital-advertising"></a>Digital annonsering
@@ -40,7 +40,7 @@ I följande tabeller beskrivs de grundläggande kraven för var och en av de god
 | Kategori | Bevis på körning    |
 | ------ | ----------- |
 | Grundläggande krav | NA |
-| Kommunikationskrav | Skärmbild av digital annons<br><br>AND<br><br>Webbadress till landningssida som visar programspecifika kärnkrav |
+| Kommunikationskrav | Skärmbild av digital annons<br><br>AND<br><br>URL för landningssidan som visar programspecifika kärnkrav |
 | Mått     | Sammanfattning av resultat (till exempel klickningsrapport) |
 |Berättigade utgifter    | Medieplacering från tredje part<br><br>Avgift – myndighet: Marknadsförings- och reklamtjänster, inklusive avgifter för agenturer |
 
@@ -69,7 +69,7 @@ I följande tabeller beskrivs de grundläggande kraven för var och en av de god
 | Grundläggande krav    | NA |
 | Kommunikationskrav | URL och/eller skärmbilder av webbplatssidor som visar URL |
 | Mått     | Sammanfattning av resultat (till exempel klickningsrapport) |
-|Berättigade utgifter    | Faktiska kostnader upp till 18 750 USD per användningsperiod för: avgift – marknadsföringstjänster för företag, inklusive avgifter för agenturer<br><br>Avgifter för programmering och utveckling<br><br>Medieplacering  |
+|Berättigade utgifter    | Faktiska kostnader upp till 18 750 USD per användningsperiod för: avgift – marknadsföringstjänster från en myndighet, inklusive myndighetsavgifter<br><br>Avgifter för programmering och utveckling<br><br>Medieplacering  |
 
 ### <a name="multi-touch-digital-campaign"></a>Digital kampanj för Multi-Touch
 
@@ -78,7 +78,7 @@ I följande tabeller beskrivs de grundläggande kraven för var och en av de god
 | Grundläggande krav    |NA |
 | Kommunikationskrav | Alla körningsbevis enligt beskrivningen på den aktuella aktivitetssidan krävs<br><br>Digital annonsering<br><br>Direkt e-post<br><br>Partnerwebbplats och sökmotoroptimering<br><br>Telemarketing  |
 | Mått     | NA |
-|Berättigade utgifter    | Medieplacering från tredje part<br><br>Avgift – myndighet: Marknadsförings- och reklamtjänster, inklusive myndighetsavgifter<br><br>Databasförvärv<br><br>Programmering/utveckling: Avgifter för programmering och utveckling<br><br>Avgift – SEO: Avgifter för optimering och underhåll<br><br>Avgift – Avgifter för kundtjänst från tredje part |
+|Berättigade utgifter    | Medieplacering från tredje part<br><br>Avgift – myndighet: Marknadsförings- och reklamtjänster, inklusive avgifter för agenturer<br><br>Databasförvärv<br><br>Programmering/utveckling: Avgifter för programmering och utveckling<br><br>Avgift – SEO: Optimerings- och underhållsavgifter<br><br>Avgift – Avgifter för kundtjänst från tredje part |
 
 ## <a name="market-development"></a>Marknadsutveckling
 
@@ -96,18 +96,18 @@ I följande tabeller beskrivs de grundläggande kraven för var och en av de god
 | Kategori | Bevis på körning    |
 | ------ | ----------- |
 | Grundläggande krav    | Företagets varumärkesnamn och kontaktinformation<br><br>Microsoft-innehåll  |
-| Kommunikationskrav | Händelseinbjudan och evenemang/program<br><br>Händelsefoton<br><br>Presentationsmaterial om händelseinbjudan och presentationen inte uppfyller de grundläggande kraven |
+| Kommunikationskrav | Händelseinbjudan och evenemang/program<br><br>Händelsefoton<br><br>Presentationsmaterial om händelseinbjudan och presentationen inte uppfyller kärnkraven |
 | Mått     | Antal registrerade gäster |
-|Berättigade utgifter    | Signering/visning/tryckt material<br><br>Giveaways<br><br>Avgift – myndighet: Marknadsföringstjänster, inklusive agentavgifter<br><br>Avgift – registrering<br><br>Avgift – extern talare<br><br>Avgift – anläggnings- och utrustningsuthyrning inklusive Surface-enheter som ägs och hanteras av en tredje part<br><br>Docka (exklusive dryck) |
+|Berättigade utgifter    | Signering/visning/tryckt material<br><br>Giveaways<br><br>Avgift – myndighet: Marknadsföringstjänster, inklusive agentavgifter<br><br>Avgift – registrering<br><br>Avgift – extern talare<br><br>Avgift – anläggning och utrustningsuthyrning inklusive Surface-enheter som ägs och hanteras av en tredje part<br><br>Docka (exklusive dryck) |
 
 ### <a name="tradeshows-and-exhibitions"></a>Tradeshows och sporrar
 
 | Kategori | Bevis på körning    |
 | ------ | ----------- |
-| Grundläggande krav    | Företagets varumärkesnamn och kontaktuppgifter<br><br>Microsoft-innehåll  |
-| Kommunikationskrav | Händelseinbjudan och program<br><br>Foto som visar deltagande i evenemang (till exempel foto av bås, foto av presentation osv.) |
-| Mått     | Beräknat antal deltagare eller båsbesökare  |
-|Berättigade utgifter    | Signering/visning/tryckt material<br><br>Giveaways<br><br>Avgift – myndighet: Marknadsföringstjänster, inklusive agentavgifter<br><br>Avgift – registrering<br><br>Avgift – extern talare<br><br>Avgift – anläggnings- och utrustningsuthyrning inklusive Surface-enheter som ägs och hanteras av en tredje part<br><br>Docka (exklusive dryck) |
+| Grundläggande krav    | Företagets varumärkesnamn och kontaktinformation<br><br>Microsoft-innehåll  |
+| Kommunikationskrav | Händelseinbjudan och evenemang/program<br><br>Foto som visar händelsedeltagande (till exempel foto av bås, foto av presentation osv.) |
+| Mått     | Beräknat antal deltagare eller besökare  |
+|Berättigade utgifter    | Signering/visning/tryckt material<br><br>Giveaways<br><br>Avgift – myndighet: Marknadsföringstjänster, inklusive agentavgifter<br><br>Avgift – registrering<br><br>Avgift – extern talare<br><br>Avgift – anläggning och utrustningsuthyrning inklusive Surface-enheter som ägs och hanteras av en tredje part<br><br>Docka (exklusive dryck) |
 
 ### <a name="customer-offers"></a>Kunderbjudanden
 
@@ -132,9 +132,9 @@ I följande tabeller beskrivs de grundläggande kraven för var och en av de god
 | Kategori | Bevis på körning    |
 | ------ | ----------- |
 | Grundläggande krav    | Tjänster som fokuserar 100 % på Microsoft-produkter | 
-| Kommunikationskrav | Exempel på slutbara produkter (baserat på vad som beskrivs i formuläret On-site Form ( På plats ) |
+| Kommunikationskrav | Exempel på slutbara produkter (baserat på vad som beskrivs i formuläret On-site Champion) |
 | Mått     | NA |
-|Berättigade utgifter    | Faktiska kostnader upp till 100 % för Surface och 50 % för alla andra program med intjänade co-op-medel per användningsperiod för: Avgifter – tjänster: Tjänster som tillhandahålls av resurser på plats |
+|Berättigade utgifter    | Faktiska kostnader på upp till 100 % för Surface och 50 % för alla andra program med intjänade co-op-medel per användningsperiod för: Avgifter – tjänster: Tjänster som tillhandahålls av resurser på plats |
 
 ### <a name="proof-of-concept"></a>Konceptbevis
 
@@ -150,8 +150,8 @@ I följande tabeller beskrivs de grundläggande kraven för var och en av de god
 | Kategori | Bevis på körning    |
 | ------ | ----------- |
 | Grundläggande krav    | NA |
-| Kommunikationskrav | URL-landningssida eller skärmbild av webbplatssidor. Ej berättigad till Surface ADD |
-| Mått     | Avgift – myndighet: Marknadsföringstjänster, inklusive agentavgifter<br><br>Programmering/utveckling: Avgifter för programmering och utveckling<br><br>Avgift – tjänst: Arbetstjänster som tillhandahålls av partner eller tredjepartsleverantör som stöd för webbinstallationen |
+| Kommunikationskrav | URL-landningssida eller skärmbild av webbplatssidor. Inte berättigad till Surface ADD |
+| Mått     | Avgift – myndighet: Marknadsföringstjänster, inklusive agentavgifter<br><br>Programmering/utveckling: Avgifter för programmering och utveckling<br><br>Avgift – tjänst: Arbetstjänster som tillhandahålls av partner eller tredjepartsleverantör som stöd för webbkonfigurationen |
 |Berättigade utgifter    | NA |
 
 ## <a name="partner-readiness"></a>Partnerberedskap
@@ -163,34 +163,34 @@ I följande tabeller beskrivs de grundläggande kraven för var och en av de god
 | Grundläggande krav    | Ursprunglig Microsoft-faktura |
 | Kommunikationskrav | NA |
 | Mått     | NA |
-|Berättigade utgifter    | Avgift – årlig registrering: Årliga registreringsavgifter för MPN<br><br>Dvd och dvd (första uppsättning): MPN-medlemskapsmedlemskap och första uppsättning DVD-skivor<br><br>Verktyg för ytterligare fördelar |
+|Berättigade utgifter    | Avgift – Årlig registrering: Årliga registreringsavgifter för MPN<br><br>Dvd och dvd (första uppsättningen): MPN-medlemskapsmedlemskap och första uppsättning DVD-skivor<br><br>Verktyg för ytterligare fördelar |
 
 ### <a name="microsoft-exams-and-tuition"></a>Microsoft-prov och tuition
 
 | Kategori | Bevis på körning    |
 | ------ | ----------- |
 | Grundläggande krav    | Kurskod/provkod på Microsoft Learning |
-| Kommunikationskrav | Faktura från tredje part med kurskod och datum för slutförande eller faktura med provkod och slutförandedatum |
+| Kommunikationskrav | Tredjepartsfaktura med kurskod och datum för slutförande eller faktura med provkod och datum för slutförande |
 | Mått     | Deltagarlista och kostnad per person |
-|Berättigade utgifter    | Avgift – prov: Microsoft-provavgifter för certifieringar och kompetenser<br><br>Avgift – utbildning/terminering: Microsoft-terminsavgifter för certifieringar och kompetenser, inklusive utbildningskostnader på begäran<br><br>Utbildning av isv-lösning från tredje part – kurskostnader för utbildning om lösningar från tredje part som kan visas för att utnyttja eller finnas på Microsofts program och plattformar<br><br>Avgift – MCT-förnyelse: Förnyelseavgift för Microsoft Certified Trainer (inget mått krävs)<br><br>|
+|Berättigade utgifter    | Avgift – prov: Microsoft-provavgifter för certifieringar och kompetenser<br><br>Avgift – utbildning/tuition: Microsoft-kursavgifter för certifieringar och kompetenser, inklusive utbildningskostnader på begäran<br><br>Utbildning om ISV-lösning från tredje part – kurskostnader för utbildning i lösningar från tredje part som kan visas för att utnyttja eller finnas på Microsofts program och plattformar<br><br>Avgift – MCT-förnyelse: Förnyelseavgift för Microsoft Certified Trainer (inget mått krävs)<br><br>|
 
 ### <a name="internal-training-and-floor-days"></a>Intern träning och golvdagar
 
 | Kategori | Bevis på körning    |
 | ------ | ----------- |
-| Grundläggande krav    | 100 % Microsoft-innehåll för tidsramen för dag eller händelseutrymme som begärts |
+| Grundläggande krav    | 100 % Microsoft-innehåll för en tidsram för dag eller händelseutrymme som begärts |
 | Kommunikationskrav | Träningsträning eller händelseprogram<br><br>Microsoft-presentationsinnehåll<br><br>|
 | Mått     | Antal deltagare |
-|Berättigade utgifter    | Avgift – utbildning/terminering/registrering/digital utbildningsplattform eller digital utbildningsformatering<br><br>Signering/visning/tryckt material<br><br>Giveaways<br><br>Avgift – myndighet: marknadsföringstjänster, inklusive agentavgifter<br><br>Avgift – extern talare<br><br>Avgift – anläggning och utrustningsuthyrning<br><br>Docka (exklusive dryck) |
+|Berättigade utgifter    | Avgift – utbildnings-/utbildnings-/registrerings-/digital utbildningsplattform eller digital utbildningsformatering<br><br>Signering/visning/tryckt material<br><br>Giveaways<br><br>Avgift – myndighet: marknadsföringstjänster, inklusive agentavgifter<br><br>Avgift – extern talare<br><br>Avgift – anläggning och utrustningsuthyrning<br><br>Docka (exklusive dryck) |
 
 ### <a name="microsoft-hosted-conferences"></a>Microsofts värdkonferenser
 
 | Kategori | Bevis på körning    |
 | ------ | ----------- |
-| Grundläggande krav    | Microsofts värdbaserade konferenser. Flyg-/hotellkostnader är begränsade till upp till 5 000 USD per person och konferens, begränsat till 3 deltagare, med ett totalt tak på 45 000 USD för flygresor/flygpriser/hotellkostnader per period och program. Värdtjänster kan ha olika traktamenten. |
-| Kommunikationskrav | Kopia av en konferens-/händelseinbjudan eller registreringsbekräftelse som visar att Microsoft har en konferens som värd<br><br>Transportväg med resdatum (resa – endast flygkostnader) |
+| Grundläggande krav    | Microsofts värdbaserade konferenser. Flyg-/hotellkostnader är begränsade till upp till 5 000 USD per person och konferens, begränsat till 3 deltagare, med ett totalt tak på 45 000 USD för flygresor/flygpriser/hotellkostnader per period per program. Värdtjänster kan ha olika tillåtna. |
+| Kommunikationskrav | Kopia av en konferens-/händelseinbjudan eller registreringsbekräftelse som visar bevis på att Microsoft har en konferens som värd<br><br>Transportväg med resdatum (resa – endast flygkostnader) |
 | Mått     | NA |
-|Berättigade utgifter    | Avgift – registrering: för upp till 3 deltagare per konferens<br><br>Resa – flygresa/hotell: Transport (flygresa eller färdmedel och tillämpliga skatter) och hotell (endast rumspriser och tillämpliga skatter)<br><br>Obs! Resor – Flyg-/hotellkostnader är begränsade till 5 000 USD per person och konferens, begränsat till 3 deltagare, med ett totalt tak på 45 000 USD för flygresa/hotellkostnader per period och program. Värdtjänster kan ha olika traktamenten. |
+|Berättigade utgifter    | Avgift – registrering: för upp till 3 deltagare per konferens<br><br>Resa – flygresa/hotell: Transport (flygresa eller träna biljett och tillämpliga skatter) och hotell (endast rumspriser och tillämpliga skatter)<br><br>Obs! Resor – Flyg-/hotellkostnader är begränsade till upp till 5 000 USD per person och konferens, begränsat till 3 deltagare med ett totalt tak på 45 000 USD för flygresor/flygpriser/hotellkostnader per period per program. Värdtjänster kan ha olika tillåtna. |
 
 ### <a name="product-seedingdemo-units"></a>Produktseeding-/demoenheter
 

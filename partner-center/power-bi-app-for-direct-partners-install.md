@@ -10,29 +10,29 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a07742a55df088842f6bac1a1cbdd65bf0db8282
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 7c6ee1c14f79a0d521a94801272473369befa753a49557645681634e248b81e0
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842667"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681458"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Installera och förhandsgranska partnercenteranalysappen för Microsoft Power BI
 
 
-**Lämpliga roller:** Globala | Administratörsbehörighet för | Försäljningsagent | Administratörsagent
+**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Försäljningsagentens | Administratörsagent
 
 ## <a name="before-you-begin"></a>Innan du börjar
 
-Välj det program som är mest relevant för ditt företag från följande lista över tillgängliga Microsoft Power BI appar:
+Välj det program som är mest relevant för din verksamhet från följande lista över tillgängliga Microsoft Power BI appar:
 
-- [Direkt provider](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
+- [Direktprovider](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
 
 - [Indirekt leverantör](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_provider_partner_analytics)
 
 - [Indirekt återförsäljare](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_reseller_partner_analytics)
 
-Innan du installerar förhandsversionen av Partner Center Analytics-appen måste du se till att du uppfyller följande krav.
+Innan du installerar förhandsversionen av Partner Center Analytics-appen måste du uppfylla följande krav.
 
 - Du väljer rätt Power BI för din verksamhet.
 
@@ -42,11 +42,11 @@ Innan du installerar förhandsversionen av Partner Center Analytics-appen måste
 
 - Du kan logga in på Power BI.
 
-- Du kan logga in som global administratör, administratörsagent eller faktureringsadministratör på ditt [företags Azure Active Directory (Azure AD) klientorganisation.](azure-active-directory-tenants-and-partner-center.md)
+- Du kan logga in som global administratör, administratörsagent eller faktureringsadministratör för företagets [Azure Active Directory (Azure AD).](azure-active-directory-tenants-and-partner-center.md)
 
 ## <a name="to-install-the-app"></a>Så här installerar du appen
 
-1. Välj länken för appkällan (Direct Provider/Indirect Provider/Indirect Reseller) i avsnittet ovan.
+1. Välj den länk för appkälla som du fått (Direct Provider/Indirect Provider/Indirect Reseller) i avsnittet ovan.
 
 2. Välj **HÄMTA NU.** 
 
@@ -54,7 +54,7 @@ Innan du installerar förhandsversionen av Partner Center Analytics-appen måste
 
 4. Under Har du redan ett konto? välj **Logga in.**
 
-5. På nästa sida anger du ditt Power BI användarnamn och lösenord och väljer sedan **Logga in.**
+5. På nästa sida anger du Power BI användarnamn och lösenord och väljer sedan **Logga in.**
 
 6. Installera arbetsytan genom att ange arbetsytans namn.
 
@@ -66,19 +66,19 @@ Innan du installerar förhandsversionen av Partner Center Analytics-appen måste
 
 10. Om du vill ansluta till data väljer **du Anslut**.
 
-11. På Anslut till **Partner Center Analytics-popup-fönstret** kontrollerar  du att autentiseringsmetoden är inställd på **oAuth2** eller väljer **oAuth2** i listan om den inte är det. 
+11. På **popup Anslut** till Partner Center Analytics kontrollerar du  att autentiseringsmetoden är inställd på **oAuth2** eller väljer **oAuth2** i listan om den inte är det. 
 
 > [!NOTE]  
 >  Det kan ta några minuter innan fönstret visas.
 
-12. Logga in med autentiseringsuppgifter för global administratör, administratörsagent eller faktureringsadministratör för ditt företags Azure AD-klientorganisation på sidan **Partnercenter Analytics Connector** och välj **sedan Logga in.**
+12. På sidan **Partner Center Analytics Connector** loggar du in med autentiseringsuppgifterna för global administratör, administratörsagent eller faktureringsadministratör för ditt företags Azure AD-klientorganisation och väljer sedan Logga **in.**
  
 13. När du uppmanas att komma åt väljer du **Acceptera**. 
 
-När Partner Center Analytics-tjänsten är ansluten Power BI data börjar läsas in. Beroende på mängden data kan det ta upp till 10 minuter. 
+När Partner Center Analytics-tjänsten är ansluten till Power BI börjar data läsas in. Beroende på mängden data kan det ta upp till 10 minuter. 
 
-När data har läses in kan du börja använda instrumentpanelen och rapporterna för Partnercenter Analytics-appen Power BI.
+När data har läses in kan du börja använda instrumentpanelen och rapporterna i Partnercenter Analytics-appen i Power BI.
 
 ## <a name="next-steps"></a>Nästa steg
 
-[Visa dina affärsdata med PartnerCenter Analytics-appen för Microsoft Power BI](power-bi-app-for-direct-partners-use.md)
+[Visa dina affärsdata med Partner Center Analytics-appen för Microsoft Power BI](power-bi-app-for-direct-partners-use.md)

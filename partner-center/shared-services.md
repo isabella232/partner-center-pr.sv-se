@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: 35c5d378f66071f3c97abdf74eec27e78a8ac778
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d160a63969c66736afca7221a78c4448e7fe117ccbb7882846ed7bad22002df5
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842056"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115678120"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Lägg Azure Partner Shared Services så att partner kan köpa Azure-prenumerationer för eget bruk
 

@@ -8,12 +8,12 @@ description: Använd det här API:et för att återuppta körningen av pausade r
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1019e9e6f679084ca0a388d685b5239ecc2e09e2
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 8c429913e269b88a42216ca99c4a4afbc545eb599b6dcfeb1d5fb79af5fdd50c
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836276"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115697048"
 ---
 # <a name="resume-report-executions-api"></a>ÅTERUPPTA API för rapportkörningar
 
@@ -28,7 +28,7 @@ Vid körning återupptar detta API den schemalagda körningen av en pausad rappo
 
 **Begärandehuvud**
 
-|    Huvud    |    Typ    |    Beskrivning    |
+|    Huvud    |    Typ    |    Description    |
 |    ----    |    ----    |    ----    |
 |    Auktorisering    |    sträng    |    Krävs. Åtkomsttoken Azure Active Directory (AAD) i formuläret`Bearer <token>`    |
 |    Content-Type    |    sträng    |    `Application/JSON`    |
@@ -38,7 +38,7 @@ Vid körning återupptar detta API den schemalagda körningen av en pausad rappo
 
 |    Parameternamn    |    Typ    |    Obligatorisk    |    Beskrivning    |
 |    ----    |    ----    |    ----    |    ----    |
-|    reportId     |    sträng    |    No    |    ID för den rapport som ändras     |
+|    reportId     |    sträng    |    No    |    ID för rapporten som ändras     |
 |        |        |        |        |
 
 **Frågeparameter**
@@ -96,18 +96,18 @@ Den här tabellen definierar nyckelelementen i svaret:
 |    Parameter    |    Beskrivning    |
 |    ----    |    ----    |
 |    ReportId     |    Universell unik identifierare (UUID) för den återupptagit rapporten     |
-|    ReportName     |    Namn som ges till rapporten när den skapades     |
-|    Beskrivning     |    Beskrivning som anges när rapporten skapas     |
+|    ReportName     |    Namn som ges till rapporten när den skapas     |
+|    Description     |    Beskrivning som ges när rapporten skapas     |
 |    QueryId     |    Fråge-ID som skickades när rapporten skapades     |
 |    Söka i data     |    Frågetext som ska köras för den här rapporten     |
 |    Användare     |    Användar-ID som används för att skapa rapporten     |
-|    CreatedTime     |    Tiden då rapporten skapades. Tidsformatet är yyyy-MM-ddTHH:mm:ssZ     |
+|    CreatedTime     |    Den tid då rapporten skapades. Tidsformatet är yyyy-MM-ddTHH:mm:ssZ     |
 |    ModifiedTime     |    Tid då rapporten senast ändrades. Tidsformatet är yyyy-MM-ddTHH:mm:ssZ     |
 |    ExecuteNow     |    ExecuteNow-flaggan som angetts när rapporten skapades    |
 |    StartTime     |    Den tid då rapportkörningen börjar. Tidsformatet är yyyy-MM-ddTHH:mm:ssZ     |
 |    ReportStatus     |    Status för rapportkörningen. Möjliga värden är Pausad, Aktiv och Inaktiv.     |
-|    RecurrenceInterval     |    Upprepningsintervall som anges när rapporten skapas     |
-|    RecurrenceCount     |    Antal upprepningar som anges när rapporten skapas     |
+|    RecurrenceInterval     |    Upprepningsintervall som angavs när rapporten skapades     |
+|    RecurrenceCount     |    Antal upprepningar som angavs när rapporten skapades     |
 |    CallbackUrl     |    Motringning-URL som anges i begäran     |
 |    CallbackMethod    |    Återanropsmetod som anges i begäran    |
 |    Format     |    Format för rapportfilerna     |

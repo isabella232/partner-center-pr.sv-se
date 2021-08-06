@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 75f326fab8ebc59628dadc43b048dfefe48c22cb
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 87e5f646bb1d94e07f9c564cb42f6dfaa6cd3066afe1714718c1e17c11edf691
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843994"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115697535"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Azure-användningsrapport som är tillgänglig från Partnercenter Insights instrumentpanel
 

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0e04334490f77add4f95627d3d4c5d5762a79c86
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 3c4b65b35bbf00c89ad06c416469da38aa177370ff0357e82b3e70d2e5ffd507
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843433"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681679"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Använda mått i Partnercenter för att öka implementering och nöjdhet
 

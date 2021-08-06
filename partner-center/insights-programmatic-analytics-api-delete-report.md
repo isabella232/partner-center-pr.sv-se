@@ -8,16 +8,16 @@ description: Använd det här API:et för att ta bort alla rapporter i Partner C
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: a8a94fc1a6e69bab0a7671bd27949e271a77dbbe
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 358e08363c203b82a5e80e2660be6e04224f58df393c94f8af9062fcb5ec67a7
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840067"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115697218"
 ---
 # <a name="delete-report-api"></a>Ta bort rapport-API
 
-Vid körning tar det här API:et bort alla poster för rapport- och rapportkörning.
+Vid körning tar detta API bort alla rapport- och rapportkörningsposter.
 
 **Begärandesyntax**
 
@@ -28,7 +28,7 @@ Vid körning tar det här API:et bort alla poster för rapport- och rapportkörn
 
 **Begärandehuvud**
 
-|    Huvud    |    Typ    |    Beskrivning    |
+|    Huvud    |    Typ    |    Description    |
 |    ----    |    ----    |    ----    |
 |    Auktorisering    |    sträng    |    Krävs. Åtkomsttoken Azure Active Directory (AAD) i formuläret`Bearer <token>`    |
 |    Content-Type    |    sträng    |    `Application/JSON`    |
@@ -96,18 +96,18 @@ Den här tabellen definierar nyckelelementen i svaret:
 |    Parameter    |    Beskrivning    |
 |    ----    |    ----    |
 |    ReportId     |    Universell unik identifierare (UUID) för den borttagna rapporten     |
-|    ReportName     |    Namn som ges till rapporten när den skapas     |
-|    Beskrivning     |    Beskrivning som ges när rapporten skapas     |
+|    ReportName     |    Namn som ges till rapporten när den skapades     |
+|    Description     |    Beskrivning som anges när rapporten skapas     |
 |    QueryId     |    Fråge-ID som skickades när rapporten skapades     |
 |    Söka i data     |    Frågetext som ska köras för den här rapporten     |
 |    Användare     |    Användar-ID som används för att skapa rapporten     |
-|    CreatedTime     |    Den tid då rapporten skapades. Tidsformatet är yyyy-MM-ddTHH:mm:ssZ     |
+|    CreatedTime     |    Tiden då rapporten skapades. Tidsformatet är yyyy-MM-ddTHH:mm:ssZ     |
 |    ModifiedTime     |    Tid då rapporten senast ändrades. Tidsformatet är yyyy-MM-ddTHH:mm:ssZ     |
 |    ExecuteNow     |    ExecuteNow-flaggan som angetts när rapporten skapades     |
 |    StartTime     |    Den tid då rapportkörningen börjar. Tidsformatet är yyyy-MM-ddTHH:mm:ssZ     |
 |    ReportStatus     |    Status för rapportkörningen. Möjliga värden är Pausad, Aktiv och Inaktiv.     |
-|    RecurrenceInterval     |    Upprepningsintervall som angavs när rapporten skapades     |
-|    RecurrenceCount     |    Antal upprepningar som angavs när rapporten skapades     |
+|    RecurrenceInterval     |    Upprepningsintervall som anges när rapporten skapas     |
+|    RecurrenceCount     |    Antal upprepningar som anges när rapporten skapas     |
 |    CallbackUrl     |    Motringning-URL som anges i begäran     |
 |    CallbackMethod    |    Återanropsmetod som anges i begäran    |
 |    Format     |    Format för rapportfilerna     |

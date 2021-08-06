@@ -1,5 +1,5 @@
 ---
-title: MPN-förmåner – Programvara
+title: MPN-förmåner – programvara
 ms.topic: article
 ms.date: 03/05/2021
 ms.service: partner-dashboard
@@ -9,16 +9,16 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7544a090b447af37f06ddf31606794a00f357b05
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 33a14b89e77a2550b5f51e4d44f2866f376ed9fa14a334769530f45a5c6ab873
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114846000"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115697318"
 ---
-# <a name="mpn-benefits---software"></a>MPN-förmåner – Programvara
+# <a name="mpn-benefits---software"></a>MPN-förmåner – programvara
 
-**Lämpliga roller:** Globala | MPN-partneradministratör
+**Lämpliga roller:** Global | MPN-partneradministratör
 
 ## <a name="overview"></a>Översikt
 
@@ -26,7 +26,7 @@ I den här artikeln beskrivs fördelarna med lokal programvara som är tillgäng
 
 ## <a name="manage-software-products-and-product-keys"></a>Hantera programvaruprodukter och produktnycklar
 
-Välj den programprodukt som är intressant och hitta de specifika instruktionerna för varje produkt genom att klicka på listrutan i linje med produktnamnet.
+Välj den intressanta programvaruprodukten och hitta de specifika instruktionerna för varje produkt genom att klicka på listrutan i linje med produktnamnet.
 
 Om en produkt kräver en produktnyckel för installation uppmanas du att ange en produktnyckel under installationen. Du kan hämta från samma fönster i Partnercenter där du har valt den version av programvaran som du vill ladda ned.
 
@@ -38,7 +38,7 @@ Produktaktivering krävs för **Windows Server-** och **klientoperativsystemet o
 
 Antalet aktiveringar som räknas mot en produktnyckel baseras på följande scenarier
 
-- Om programvaran installeras på en ny dator ökas antalet produktaktiveringar mot nyckeln med ett.
+- Om programvaran installeras på en ny dator ökas antalet produktaktiveringar mot nyckeln med en.
  
 - Om programvaran installeras på samma dator utan betydande maskinvaruändringar räknas inte produktaktiveringen mot produktnyckeln.
 
@@ -46,9 +46,9 @@ Antalet aktiveringar som räknas mot en produktnyckel baseras på följande scen
 
 ## <a name="troubleshooting-scenarios"></a>Felsökningsscenarier
 
-- **Meddelandet "Ingen ytterligare information tillgänglig" visas för cals-förmåner (Windows Server Client Access License)**
+- **Meddelandet "Ingen ytterligare information tillgänglig" visas för cals(Windows Server Client Access License)-förmåner**
 
-    Cals är inte en nedladdningsbar produkt. Aktiveringen av CALs hanteras på själva serverprodukten.
+    CALs är inte en nedladdningsbar produkt. Aktiveringen av CALs hanteras på själva serverprodukten.
 
 - **Du får ett meddelande om att du har nått maximalt antal tillgängliga aktiveringar för en produktnyckel när du försöker aktivera programvara.**
 
