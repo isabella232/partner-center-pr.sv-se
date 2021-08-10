@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 95a201c53fc2eaf230d08bb4cfdd03a5747b5c05
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 7b022e51c99bffbdca085da317a963a9e051e14bd58211b0592b0da154554f04
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838486"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690383"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Använd Windows Autopilot-profiler på nya enheter för att anpassa kundens välkomstupplevlese (OOBE, Out-Of-Box Experience)
 
@@ -185,6 +185,6 @@ Get-WindowsAutoPilotInfo.ps1 -OutputFile AutoPilotHWID.csv -Partner -Force
 
 ### <a name="important-information"></a>VIKTIG INFORMATION
 
-Windows Med Autopilot kan du konfigurera anpassade installationer av Windows på enheter som du hanterar för dina kunder. Om kunden har behörighet att göra det kan du ignorera eller dölja vissa inställningsskärmar som normalt visas för användarna när de iserar Windows, inklusive godkännandeskärmen för licensavtalet (licensavtalet).
+Windows Med Autopilot kan du konfigurera anpassade installationer av Windows på enheter som du hanterar för dina kunder. Om kunden har behörighet att göra det kan du ignorera eller dölja vissa inställningsskärmar som normalt visas för användare när de iserar Windows, inklusive godkännandeskärmen för EULA (licensavtal).
 
-Genom att använda den här funktionen samtycker du till att förhindra eller dölja skärmar som är utformade för att ge användarna meddelanden eller godkännande av villkoren innebär att du har fått tillräckligt med medgivande och behörighet från kunden för att dölja villkoren och att du, för din kunds räkning (oavsett om det är en organisation eller en enskild användare) godkänner du eventuella meddelanden och godkänner eventuella villkor som gäller för din kund. Detta omfattar avtal om villkoren för licensen eller meddelandet som visas för användaren om du inte utelämnar eller döljer den med hjälp av det här verktyget. Kunden får inte använda Windows på dessa enheter om kunden inte har köpt en giltig licens för programvaran från Microsoft eller dess licensierade distributörer.
+Genom att använda den här funktionen samtycker du till att utelämna eller dölja skärmar som är utformade för att ge användarna meddelanden eller godkännande av villkoren innebär att du har fått tillräckligt med medgivande och auktorisering från kunden för att dölja villkor och att du, för din kunds räkning (oavsett om det är en organisation eller en enskild användare) godkänner du eventuella meddelanden och godkänner eventuella villkor som gäller för din kund. Detta inkluderar avtal för licensvillkoren eller meddelandet som skulle presenteras för användaren om du inte utelämnade eller dölja det med hjälp av det här verktyget. Kunden får inte använda Windows på dessa enheter om kunden inte har köpt en giltig licens för programvaran från Microsoft eller dess licensierade distributörer.

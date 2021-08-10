@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5163952f7fa90c13001cfdb160558d0ee7462691
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: b837be9624f18ac634b3f05a7e51ebef70cadc716894fd9d2fae916da387ab3a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845626"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690128"
 ---
 # <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Kundens självbetjäning via Microsoft Office 365 administrationscenter eller via Azure Portal
 
@@ -30,7 +30,7 @@ Kunder kan logga in på Microsoft Office 365 administrationscenter eller på Azu
 
 För att köpa ytterligare prenumerationer eller avbryta sina prenumerationer bör kunderna kontakta sin Molnlösningsleverantör partner. Kunder kan inte ändra sina egna prenumerationer direkt med Microsoft.
 
-När kunder behöver hjälp med produkter kan de hitta produktresurser på [Support](https://partnercenter.microsoft.com/partner/support). Vi uppmuntrar partner att peka sina kunder på dessa resurser som ett första steg.
+När kunder behöver hjälp med produkter kan de hitta produktresurser på [Support](https://partnercenter.microsoft.com/partner/support). Vi uppmuntrar partner att peka sina kunder mot dessa resurser som ett första steg.
 
  
 

@@ -6,12 +6,12 @@ ms.topic: how-to
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: e51f4593624a764e14ecae473f96cf0779c2ff10
-ms.sourcegitcommit: cce4d53127fa33e6c2bbf158dda6edd41b82441d
+ms.openlocfilehash: e55e45fe80c67653fec1a6e2b191801061040a3537f9183b2bc8c8824b0c6252
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112896806"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115688343"
 ---
 # <a name="purchase-saas-apps-on-microsoft-appsource"></a>Köpa SaaS-appar på Microsoft AppSource
 

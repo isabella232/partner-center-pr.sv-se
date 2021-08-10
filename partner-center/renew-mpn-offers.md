@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f6c710675f659d25d42a1e858cee0d76952f1cf6
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 69f344da0fda9315c0e8cd2879795ba69488f9c286adb9cb90f057e8eed92aa9
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843042"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682733"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Förnya dina MPN-erbjudanden för kompetenser och avancerade specialiseringar under förnyelseperioden
 

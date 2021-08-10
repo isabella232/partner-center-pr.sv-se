@@ -6,33 +6,33 @@ ms.topic: how-to
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/18/2020
-ms.openlocfilehash: d8deccc2a48ac29f3c370e9b20d551bf2b95c1ad
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: 255afe40e495c79fd605358bce039427b0266a3a6a0ecea776cef8734709097b
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412632"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115688715"
 ---
 # <a name="how-to-get-support-for-microsoft-appsource-and-azure-marketplace"></a>Så här får du support för Microsoft AppSource och Azure Marketplace
 
-I den här artikeln beskrivs de olika support alternativen för produkter i Microsoft AppSource och Azure Marketplace. 
+Den här artikeln beskriver de olika supportalternativen för produkter i Microsoft AppSource och Azure Marketplace. 
 
 ## <a name="get-support-in-an-online-store"></a>Få support i en onlinebutik
 
-För att få support för en produkt när du är i AppSource eller Azure Marketplace Online Store, väljer du support länken till vänster på sidan erbjudande. 
+Om du vill få support för en produkt när du befinner dig i AppSource eller Azure Marketplace onlinebutiken väljer du supportlänken till vänster på erbjudandesidan. 
 
-:::image type="content" source="media/get-support/support-links-in-azure.png" alt-text="Visar support länken för ett exempel erbjudande.":::
+:::image type="content" source="media/get-support/support-links-in-azure.png" alt-text="Visar supportlänken för ett exempelerbjudande.":::
 
-Om du ännu inte har köpt produkten tas du till utgivarens support webbplats. Om du redan har distribuerat produkten kan du antingen använda utgivarens support webbplats, Microsofts support portal eller support alternativ i den relevanta portal som du använder för att slutföra distributionen (till exempel Azure Portal eller Microsoft 365). Var och en av dessa portaler har sin egen support-meny.
+Om du ännu inte har köpt produkten kommer du till utgivarens supportwebbplats. Om du redan har distribuerat produkten kan du antingen använda utgivarens supportwebbplats, Microsofts supportportal eller supportalternativen i relevant portal som du använder för att slutföra distributionen (till exempel Azure Portal eller Microsoft 365). Var och en av dessa portaler har en egen supportmeny.
 
 ## <a name="get-support-from-the-azure-portal"></a>Få support från Azure Portal
 
-Om du vill få hjälp med Azure Marketplace via Azure Portal öppnar du en [support förfrågan](https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/newsupportrequest) på sidan **Hjälp + Support** i portalen. Fyll i list fälten på följande sätt:
+Om du vill få Azure Marketplace via Azure Portal kan du öppna en [supportbegäran](https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/newsupportrequest) på **sidan Hjälp + support** i portalen. Fyll i listr listringsfälten på följande sätt:
 
-- **Typ av problem** – prenumerations hantering
-- **Problem typ** – köp-, registrerings-eller uppgraderings problem
-- **Typ av problem** – det går inte att göra ett köp
+- **Typ av problem** – Prenumerationshantering
+- **Problemtyp** – problem med köp, registrering eller uppgradering
+- **Undergrupp av problem** – Det går inte att göra ett köp
 
 ## <a name="next-steps"></a>Nästa steg
 
-- Gå tillbaka till [Azure Marketplace?](azure-marketplace-overview.md)
+- Gå tillbaka [till Vad Azure Marketplace?](azure-marketplace-overview.md)

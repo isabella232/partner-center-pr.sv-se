@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3b66c4cf8b199263c3869a4235c4ee3b16ee369c
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: f903bff3f38fb572f4e7e57cd1c737802505c9657aa32ec19790b67bbb085d35
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836701"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682903"
 ---
 # <a name="frequently-asked-questions-for-partner-earned-credit"></a>Vanliga frågor och svar om partners intjänade kredit
 

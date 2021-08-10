@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 91490f3c0104b4807e6178f51a7504dc22d70236
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: fac53d4a7770a79acca47e8d34959d40ae27e396185633915414a24b7492b79a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842736"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682393"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Massåtgärder för möjligheter till säljsamarbete med kommaavgränsade filer (CSV)
 
@@ -58,40 +58,40 @@ Följande information beskriver exportfunktionen:
 
 |**Kolumnnamn**|**Är obligatoriskt?**|**Beskrivning**|**Exempelvärden**|
 |-----|:-----|:---------|:---|
-Fel|Inga|Fel om några relaterade till create/update-åtgärderna w.r.t till hänvisningarna tas med i den här kolumnen. Om det finns flera fel visas alla avgränsade med semikolon.|Obligatoriskt fält Lösning 1 saknas|
-Engagemangs-ID|Inga|Engagemangs-ID:t genereras av referenssystemet för Microsoft Partner Center. Krävs inte för att skapa en ny referens. Du kan använda det befintliga engagemangs-ID:t om du uppdaterar en post.|f7eaae47-0b84-4ac4-b4ea-5b2587d42cee
-Hänvisningskod|Inga|Hänvisnings-ID genereras av referenssystemet för Microsoft Partner Center. Krävs inte för att skapa en ny referens. Fyll i det med hänvisnings-ID:t om du uppdaterar en befintlig post.|ebacdkdc-0b84-4ac4-b4ea-5b2587d42cee
-Avtalsnamn|Ja|Det egna namnet för avtalet för din referens.|Storbritanniens våravtal
-Kundnamn|Ja|Namnet på kundföretaget. Använd organisationens juridiska namn för snabb matchning på Microsoft-sidan.|Contoso Corporation
-Kundadressrad 1|Ja|Adressrad 1 i kundföretaget. |One Contoso Way
-Kundadress rad 2|Inga|Adressrad 2 på kundföretaget.|NE 148 street
-Kundens stad|Ja|Ort där kundorganisationen finns.|Redmond
-Kundtillstånd|Inga|Ange var kundorganisationen finns.|Washington
-Kundens postnummer|Inga|Postnummer i den region där kundorganisationen finns.|98052
-Kundland|Ja|Land/region där kundorganisationen finns. Använd landskoderna med två bokstäver som anges [här.]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)|USA
-Kundens D-U-N-S-ID|Inga|Försök att hämta KUNDORGANISATIONENS DUNS-ID. Detta hjälper till med snabbare matchning av kundorganisationen på Microsoft-sidan, vilket hjälper till att få snabbare säljtilldelning. Du kan få DUNS-ID kostnadsfritt från den här [webbplatsen.](https://www.dnb.com/duns-number/lookup.html)|81466849
-Kundens kontakts förnamn|Beror|Förnamn är bara obligatoriskt om du behöver Microsoft-hjälp. Förnamnet på den primära kontakten från kundorganisationen som arbetar med det här avtalet.|John
+Fel|No|Fel om några relaterade till create/update-åtgärderna w.r.t till hänvisningarna tas med i den här kolumnen. Om det finns flera fel visas alla avgränsade med semikolon.|Obligatoriskt fält Lösning 1 saknas|
+Engagemangs-ID|No|Engagemangs-ID:t genereras av referenssystemet för Microsoft Partner Center. Krävs inte för att skapa en ny referens. Du kan använda det befintliga engagemangs-ID:t om du uppdaterar en post.|f7eaae47-0b84-4ac4-b4ea-5b2587d42cee
+Hänvisningskod|No|Hänvisnings-ID genereras av referenssystemet för Microsoft Partner Center. Krävs inte för att skapa en ny referens. Fyll i det med hänvisnings-ID:t om du uppdaterar en befintlig post.|ebacdkdc-0b84-4ac4-b4ea-5b2587d42cee
+Avtalsnamn|Yes|Det egna namnet för avtalet för din referens.|Storbritanniens våravtal
+Kundnamn|Yes|Namnet på kundföretaget. Använd organisationens juridiska namn för snabb matchning på Microsoft-sidan.|Contoso Corporation
+Kundadressrad 1|Yes|Adressrad 1 i kundföretaget. |One Contoso Way
+Kundadress rad 2|No|Adressrad 2 på kundföretaget.|NE 148 street
+Kundens stad|Yes|Ort där kundorganisationen finns.|Redmond
+Kundtillstånd|No|Ange var kundorganisationen finns.|Washington
+Kundens postnummer|No|Postnummer i den region där kundorganisationen finns.|98052
+Kundland|Yes|Land/region där kundorganisationen finns. Använd landskoderna med två bokstäver som anges [här.]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)|USA
+Kundens D-U-N-S-ID|No|Försök att hämta KUNDORGANISATIONENS DUNS-ID. Detta hjälper till med snabbare matchning av kundorganisationen på Microsoft-sidan, vilket hjälper till att få snabbare säljtilldelning. Du kan få DUNS-ID kostnadsfritt från den här [webbplatsen.](https://www.dnb.com/duns-number/lookup.html)|81466849
+Kundens kontakts förnamn|Beror|Förnamn är bara obligatoriskt om du behöver Microsoft-hjälp. Förnamnet på den primära kontakten från kundorganisationen som arbetar med detta avtal.|John
 Kundens kontakts efternamn|Beror|Efternamn är bara obligatoriskt om du behöver Microsoft-hjälp. Efternamn på den primära kontakten från kundorganisationen som arbetar med det här avtalet.|Kund
 Kundkontaktens Telefon nummer|Beror|Telefon är bara obligatoriskt om du behöver Hjälp från Microsoft. Telefon den primära kontakten från kundorganisationen som arbetar med det här avtalet.|9999999999
 E-postadress för kundkontakt|Beror|E-postadress är bara obligatoriskt om du behöver Microsoft-hjälp. E-postadressen till den primära kontakten från kundorganisationen som arbetar med det här avtalet.|john.customer@contoso.com
-Partnerreferensstatus|Ja|Visar avtalets status ur företagets perspektiv. Krävs om du försöker skapa eller ändra en referens. Använd **Ny** om du försöker skapa ett nytt avtal. Godkända värden dokumenteras [här](/partner/develop/referral-resources#referralstatus).|Aktiv
-Understatus för partnerreferens|Ja|Anger den exakta statusen för avtalet. Använd **Accepterad** om du försöker skapa ett nytt avtal. Det krävs också om du ändrar en befintlig referens. Godkända värden dokumenteras [här](/partner/develop/referral-resources#referralsubstatus).|Har godkänts
+Partnerreferensstatus|Yes|Visar avtalets status ur företagets perspektiv. Krävs om du försöker skapa eller ändra en referens. Använd **Ny** om du försöker skapa ett nytt avtal. Godkända värden dokumenteras [här](/partner/develop/referral-resources#referralstatus).|Aktiv
+Understatus för partnerreferens|Yes|Anger den exakta statusen för avtalet. Använd **Accepterad** om du försöker skapa ett nytt avtal. Det krävs också om du ändrar en befintlig referens. Godkända värden dokumenteras [här](/partner/develop/referral-resources#referralsubstatus).|Har godkänts
 Microsoft-hänvisningsstatus|Beror|Visar statusen för den begäran om säljförsäljning som du har skickat till Microsoft och som behöver hjälp. Det här är ett skrivskyddade fält. Ändringar som görs i det här fältet när du importerar data ignoreras.| Väntar
 Nekad/förlorad orsak|Beror| Du måste bara ange den här informationen om du ändrar understatusen för fältet till antingen Nekad eller Förlorad. Annars kan du ignorera den här kolumnen. <br/> **Ange ett tal baserat på alternativen nedan** <br/><br/> **1**– Project budget inte är tillräcklig  <br/> **2**– Kunden svarade inte  <br/> **3**– Kunden valde en annan leverantör  <br/> **4** – Kundkrav uppfylls inte  <br/> **5** – Inte en kund <br/> **6**– Den föreslagna tidsraden var för kort <br/> **7** – Rapportera som missbruk, skräppost eller nätfiske <br/> **8** – Andra |6|
-Försäljningsstadie|Inga|Det här är fältet för att ange den detaljerade försäljningsfasen för hänvisningen. Läs mer om försäljningsstadier [här](./manage-co-sell-opportunities.md)|40
-Beräknat avtalsvärde|Ja|Avtalets värde baseras på de första konversationerna med kunden. Detta kan ändras tills avtalet når ett av de terminalstater som **vunnits eller** **förlorats.**|12563
-Valuta|Ja|Den valuta som avtalsvärdet anges i. Valutakoderna finns [här.](https://en.wikipedia.org/wiki/ISO_4217)|USD
-Beräknat stängningsdatum|Ja|Avtalets uppskattade slutdatum baserat på de första konversationerna med kunden i formatet MM/DD/Å ÅYYY. <br/> **Datumet ska vara i UTC-tidszonen. Alla datum som visas i partnercentrets användargränssnitt baseras på lokaliserade tidszoner. Det kan finnas +/- en dag i partnercentergränssnittet om du tittar på den hänvisning som du angav datumet för i UTC-tidszonen.**|1/30/2020
-CRM-ID|Inga|Identifierare för den här specifika hänvisningen i ditt CRM-system om det finns någon. Det här är ett fält för fritextinmatning.|34234324-sdfsdf-345345-sfd
-Marknadsföringskampanj-ID|Inga|Det här fältet anger marknadsföringskampanjen, som resulterade i den här specifika hänvisningen. Används vanligtvis för ROI-beräkning|BingSummer2020
-Kommentarer|Inga|Detaljerad information som anger uppdateringarna som rör hänvisningen|Det här är ett exempel på en anteckning
-Microsoft-hjälp krävs?|Ja|Detta är för att ange om du vill att Microsoft ska hjälpa dig att göra denna begäran om säljförsäljning|Ja
+Försäljningsstadie|No|Det här är fältet för att ange den detaljerade försäljningsfasen för hänvisningen. Läs mer om försäljningsstadier [här](./manage-co-sell-opportunities.md)|40
+Beräknat avtalsvärde|Yes|Avtalets värde baseras på de första konversationerna med kunden. Detta kan ändras tills avtalet når ett av de terminalstater som **vunnits eller** **förlorats.**|12563
+Valuta|Yes|Den valuta som avtalsvärdet anges i. Valutakoderna finns [här.](https://en.wikipedia.org/wiki/ISO_4217)|USD
+Beräknat stängningsdatum|Yes|Avtalets uppskattade slutdatum baserat på de första konversationerna med kunden i formatet MM/DD/Å ÅYYY. <br/> **Datumet ska vara i UTC-tidszonen. Alla datum som visas i partnercentrets användargränssnitt baseras på lokaliserade tidszoner. Det kan finnas +/- en dag i partnercentergränssnittet om du tittar på den hänvisning som du angav datumet för i UTC-tidszonen.**|1/30/2020
+CRM-ID|No|Identifierare för den här specifika hänvisningen i ditt CRM-system om det finns någon. Det här är ett fält för fritextinmatning.|34234324-sdfsdf-345345-sfd
+Marknadsföringskampanj-ID|No|Det här fältet anger marknadsföringskampanjen, som resulterade i den här specifika hänvisningen. Används vanligtvis för ROI-beräkning|BingSummer2020
+Kommentarer|No|Detaljerad information som anger uppdateringarna som rör hänvisningen|Det här är ett exempel på en anteckning
+Microsoft-hjälp krävs?|Yes|Detta är för att ange om du vill att Microsoft ska hjälpa dig att göra denna begäran om säljförsäljning|Yes
 Vilken specifik hjälp från Microsoft?|Beror|Ett av de sex olika sätt som Microsoft kan hjälpa dig. Detta gäller bara om du väljer Ja för frågan "Microsoft-hjälp krävs? " <br/> **Ange ett tal baserat på alternativen nedan** <br/><br/> **1**– Arbetsbelastning – specifikt värdeförslag  <br/> **2**– Kundens tekniska arkitektur  <br/> **3**– Konceptbevis /Demo  <br/> **4**– Offerter och licensiering  <br/> **5**– Post – kundframgång för försäljning  <br/> **6**– Allmänt eller annat|1|
-Dela med Microsofts säljteam|Ja|Detta är för att ange om du vill dela information om avtalet med Microsofts säljteam eller inte. Detta gäller endast om du väljer Nej för frågan "Microsoft-hjälp krävs? "|Ja
-Kommentarer till Microsoft|Inga|Eventuella specifika kommentarer till Microsoft om du behöver hjälp från Microsoft|Behöver hjälp med en POC för Contoso-kund
-Samtycka till att dela kund-/partnerkontakt|Ja|Samtycka till att dela kundens kontaktuppgifter och dina anställdas kontaktuppgifter som arbetar med avtalet. **Avtal skapas eller uppdateras inte om du väljer Nej för den här kolumnen.** |Ja
-Lösning 1|Ja|Lösnings-ID (krävs), valutan (valfritt) där avtalsvärdet anges. Du hittar valutakoderna [här,](https://en.wikipedia.org/wiki/ISO_4217)Pris för SKU:n (valfritt) och Antal för SKU:n (valfritt)  |SOL-1234-PQRS, USD, 10, 100
-Teammedlem 1|Ja|Förnamn, Efternamn, mobilnummer och e-post-ID för respektive teammedlem.| Bob, Partner, 999999, Bob.partner@Contoso.com
+Dela med Microsofts säljteam|Yes|Detta är för att ange om du vill dela information om avtalet med Microsofts säljteam eller inte. Detta gäller endast om du väljer Nej för frågan "Microsoft-hjälp krävs? "|Yes
+Kommentarer till Microsoft|No|Eventuella specifika kommentarer till Microsoft om du behöver hjälp från Microsoft|Behöver hjälp med en POC för Contoso-kund
+Samtycka till att dela kund-/partnerkontakt|Yes|Samtycka till att dela kundens kontaktuppgifter och dina anställdas kontaktuppgifter som arbetar med avtalet. **Avtal skapas eller uppdateras inte om du väljer Nej för den här kolumnen.** |Yes
+Lösning 1|Yes|Lösnings-ID (krävs), valutan (valfritt) där avtalsvärdet anges. Du hittar valutakoderna [här,](https://en.wikipedia.org/wiki/ISO_4217)Pris för SKU:n (valfritt) och Antal för SKU:n (valfritt)  |SOL-1234-PQRS, USD, 10, 100
+Teammedlem 1|Yes|Förnamn, Efternamn, mobilnummer och e-post-ID för respektive teammedlem.| Bob, Partner, 999999, Bob.partner@Contoso.com
 
 ## <a name="next-steps"></a>Nästa steg
 

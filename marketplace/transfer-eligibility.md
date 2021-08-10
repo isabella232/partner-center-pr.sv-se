@@ -1,35 +1,35 @@
 ---
-title: Överförings berättigande – rikt linjer för överföring av en prenumeration mellan fakturerings konton, Azure Marketplace
-description: Rikt linjer för kommersiella kontroller innan du överför en prenumeration mellan fakturerings konton i Azure Portal.
+title: Överföringsberättigande – Riktlinjer för överföring av en prenumeration mellan faktureringskonton, Azure Marketplace
+description: Riktlinjer för kommersiella kontroller innan du överför en prenumeration mellan faktureringskonton i Azure Portal.
 ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 4b235bd462915fc205813ae86e92f98b4fd49fe4
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: 22c53238fd74501f32a56d66f15133cbbe8765cffe67a04c4f66779c15b16c37
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412564"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115688325"
 ---
-# <a name="transfer-eligibility-for-a-subscription-between-billing-accounts"></a>Överför berättigande för en prenumeration mellan fakturerings konton
+# <a name="transfer-eligibility-for-a-subscription-between-billing-accounts"></a>Överföra behörighet för en prenumeration mellan faktureringskonton
 
-Du kan [överföra en prenumeration](/azure/cost-management-billing/understand/subscription-transfer) från ett fakturerings konto till ett annat i fakturerings avsnittet i Azure Portal. Före en överföring genomsöks prenumerationen efter produkter från tredje part. Överföringen tillåts bara om *alla* produkter har rensats för överföring (se [kriterierna](#criteria-for-transfer-approval-or-denial) nedan). Systemet genererar relevanta fel meddelanden för de appar som inte kunde rensas för att hjälpa dig att fastställa nästa steg.
+Du kan [överföra en prenumeration](/azure/cost-management-billing/understand/subscription-transfer) från ett faktureringskonto till ett annat i faktureringsavsnittet i Azure Portal. Innan en överföring genomsöks prenumerationen efter produkter från tredje part. Överföringen tillåts endast om *alla* produkter har rensats för överföring (se [villkoren](#criteria-for-transfer-approval-or-denial) nedan). Systemet genererar relevanta felmeddelanden för de appar som inte kunde rensas för att hjälpa dig att avgöra nästa steg.
 
 > [!NOTE]
-> Den här artikeln gäller inte för SaaS-erbjudanden eftersom SaaS-resurser är kopplade till en klient, inte en prenumeration. SaaS-resurser kan överföras från ett fakturerings konto till ett annat, men detta görs per resurs och av Azure-support som en support förfrågan.
+> Den här artikeln gäller inte för SaaS-erbjudanden eftersom SaaS-resurser är kopplade till en klientorganisation, inte en prenumeration. SaaS-resurser kan överföras från ett faktureringskonto till ett annat, men detta görs per resurs och av Azure-supporten som en supportbegäran.
 
-## <a name="criteria-for-transfer-approval-or-denial"></a>Villkor för godkännande eller avslag av överföring
+## <a name="criteria-for-transfer-approval-or-denial"></a>Kriterier för godkännande eller nekande av överföring
 
-Du kan inte överföra en prenumeration om någon av dess appar från tredje part uppfyller något av följande kriterier:
+Du kan inte överföra en prenumeration om någon av dess appar från tredje part uppfyller något av följande villkor:
 
-- Mål kontot är kommersiellt och appen är inte valbar för att säljas via partner.
-- Appen är valbar för utvalda partner och mål kontot finns inte i listan över tillåtna.
-- Erbjudandet var ett för hands erbjudande tidigare för valda prenumerationer eller var ett privat erbjudande och prenumerationen är inte längre i listan över tillåtna.
-- Det nya fakturerings kontot finns i en annan region än där erbjudandet säljs och erbjudandet är inte att säljas i den regionen.
+- Målkontot är kommersiellt och appen avanmäls från att säljas via partner.
+- Appen väljer valda partner och målkontot finns inte med i listan över tillåtna partner.
+- Erbjudandet var ett tidigare förhandsversionserbjudande för valda prenumerationer eller var ett privat erbjudande och prenumerationen finns inte längre i listan över tillåtna.
+- Det nya faktureringskontot finns i en annan region än där erbjudandet säljs och erbjudandet ska inte säljas i den regionen.
 
-En blockerad överföring fortsätter att gälla tills du tar bort resursen från prenumerationen. därefter kan du prova överföringen igen.
+En blockerad överföring fortsätter att gälla tills du tar bort resursen från prenumerationen. Därefter kan du försöka med överföringen igen.
 
 ## <a name="next-steps"></a>Nästa steg
 

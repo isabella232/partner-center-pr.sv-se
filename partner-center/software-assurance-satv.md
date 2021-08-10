@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-benefits
-description: Software Assurance träningsträningsprogrammet håller på att dras tillbaka.
+description: Software Assurance träningsprogram dras tillbaka.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: c0c65c962fdc46ce4685ee3bb63bacdec036f1e8
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 39c4a7aadebe03c3e37ce6325acb3640909775fa630c3ac4693af430adb47338
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843535"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682580"
 ---
 # <a name="training-vouchers-program-retirement"></a>Utbildningsutbildningsprogram går i pension
 
@@ -24,10 +24,10 @@ Software Assurance satv:er (Training Training, SATV:er) dras tillbaka helt från
 - 1 februari 2020: Träningsutbildningsutbildningar kan inte längre konverteras till Planning Services-dagar.  
 - 1 februari 2021: Kunder får inte längre utbildningsförmåner. 
 - 30 juni 2021: Sista dagen för kunder att skapa/tilldela träningsutbildningsutbildningar. Alla återstående träningsdagar tas bort den 1 juli 2021.
-- 1 januari 2022: Sista dagen för partner att lösa in träningsutbildningar. Partnern har 60 dagar efter inlösningen för att slutföra processen med betalningsbegäran.  
+- 1 januari 2022: Sista dagen för partner att lösa in träningsutbildningsutbildningar. Partnern har 60 dagar efter inlösningen för att slutföra processen med betalningsbegäran.  
 
 >[!NOTE]
->Livscykeln för livscykeln ändras inte. När en sedel har skapats/tilldelats måste reservationsreservation, träningssessioner och inlösen slutföras inom 180 dagar innan den upphör att gälla.  Mer information om pensionering av utbildningsutbildning finns i Vanliga frågor och svar [här](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) (inloggning krävs).  Se den fullständiga listan över SATV-berättigade utbildningskurser i produktkatalogen för utbildningsförmånen. Skicka eventuella frågor till ditt regionala partnersupportteam: [EMEA-partnersupport;](mailto:savoucher@msdirectservices.com) [Allmänt partnerstöd](https://partner.microsoft.com/dashboard/support/servicerequests).
+>Livscykeln för livscykeln ändras inte. När en sedel har skapats/tilldelats måste reservationsreservation, träningssessioner och inlösen slutföras inom 180 dagar innan den upphör att gälla.  Mer information om tillbakagången av utbildningsutbildningsutbildningen finns i Vanliga frågor och svar [här](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) (inloggning krävs).  Se den fullständiga listan över SATV-berättigade utbildningskurser i produktkatalogen för utbildningsförmånen. Skicka eventuella frågor till ditt regionala partnersupportteam: [EMEA-partnersupport;](mailto:savoucher@msdirectservices.com) [Allmänt partnerstöd](https://partner.microsoft.com/dashboard/support/servicerequests).
 
 
 
@@ -44,7 +44,7 @@ Om du inte har Software Assurance utbildningstjänster följer du alla steg neda
 7. Lös in lös in
 8. Begära betalning
 
-Den här artikeln förklarar hur du slutför varje steg.
+Den här artikeln beskriver hur du slutför varje steg.
 
 ## <a name="confirm-program-eligibility"></a>Bekräfta programberättigande
 
@@ -62,9 +62,9 @@ När partner har registrerats i SATV-programmet kan de erbjuda utbildningssessio
 
 ## <a name="have-customer-create-and-assign-voucher"></a>Be kunden att skapa och tilldela en
 
-Innan du genomför en utbildning måste kunden först aktivera sin SATV-förmån och sedan tilldela den till din organisation. Detaljerade anvisningar med skärmbilder som visar de steg som kunden måste vidta för att skapa en plats och tilldela den till dig finns i steg [4](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) i arbetsflödet.
+Innan du genomför en utbildning måste kunden först aktivera sin SATV-förmån och sedan tilldela den till din organisation. Detaljerade instruktioner med skärmbilder som visar de steg som kunden måste vidta för att skapa en plats och tilldela den till dig finns i [steg 4](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) i arbetsflödet.
 
-## <a name="validate-and-reserve-customer-vouchers"></a>Verifiera och reservera kundcheckar
+## <a name="validate-and-reserve-customer-vouchers"></a>Validera och reservera kundcheckar
 
 Nu kan du reservera och lösa in lösecheckar och börja träna dina kunder. Företagets MPN-administratör har åtkomst till hanteringsverktyget för hantering av hantering i Partnercenter och kan lägga till användare som behöver arbeta i verktyget. Anvisningar om hur du verifierar och reserverar flöden finns i [steg 5](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) i arbetsflödet.
 

@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 06/22/2021
-ms.openlocfilehash: 42e08be73fb6bd1b26e75f461ede51b1e18b909b
-ms.sourcegitcommit: b53616cd7bfeb68298dee69935a8007827b19d21
+ms.openlocfilehash: 029d68f2d33453f760e353bb0eb7a0f59df82fb887ef49d57c0b6c8f4bbe9d9a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "115014708"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115689095"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace köp
 
@@ -29,7 +29,7 @@ När du har hittat rätt program är det enkelt att slutföra köpet. Du behöve
 
 Innan du slutför ett köp kontrollerar du att användaren har rätt konfiguration i Azure-klientorganisationen. Detta hjälper till att förhindra fel under köpet.
 
-I den Azure Marketplace upplevelsen i Azure Portal du det program som du vill köpa och väljer **Skapa** **eller Konfigurera + prenumerera.** Du uppmanas att slutföra en del information innan du kan använda den nya lösningen.
+I Azure Marketplace i Azure Portal du det program som du vill köpa och väljer **Skapa** **eller konfigurera + prenumerera.** Du uppmanas att slutföra en del information innan du kan använda den nya lösningen.
 
 > [!CAUTION]
 > Godkännande till privat Marketplace anger inte anskaffning av en lösning.
@@ -70,7 +70,7 @@ Att köpa ett erbjudande via Azure Marketplace kan misslyckas av olika orsaker. 
 
 1. Prenumerationen tillhör en företagsavtal (EA) och EA-administratören inaktiverade Azure Marketplace inköp.
 1. EA-administratören har endast aktiverat köp för kostnadsfria erbjudanden och erbjudandet är ett betalt erbjudande.
-1. Erbjudandet finns inte på Marketplace.
+1. Erbjudandet finns inte på marketplace.
 1. Oberoende programvaruleverantör (ISV) slutade sälja erbjudandet, åtminstone i din region.
 1. Prenumerationen som du använder tillhör ett faktureringskonto i en region där erbjudandet inte är tillgängligt.
 1. Prenumerationen/faktureringskontot är inte associerat med ett giltigt betalningsmedel (till exempel ett giltigt kreditkort).
@@ -79,7 +79,7 @@ Att köpa ett erbjudande via Azure Marketplace kan misslyckas av olika orsaker. 
 1. Erbjudandet är privat/förhandsversion för specifika kunder och prenumerationen finns inte med i listan över tillåtna kunder.
 
 > [!NOTE]
-> Köp av Marketplace-erbjudanden kan misslyckas om det står i konflikt Azure Policy som definierats av Azure-administratören i din organisation. Du kan till exempel inte köpa Microsoft.SaaS om det inte finns i organisationens **lista över tillåtna.** Mer information finns i [Azure Policy dokumentation.](/azure/governance/policy/)
+> Köp av Marketplace-erbjudanden kan misslyckas om det står i konflikt med Azure Policy definieras av Azure-administratören i din organisation. Du kan till exempel inte köpa Microsoft.SaaS om det inte finns i organisationens **lista över tillåtna.** Mer information finns i [Azure Policy dokumentation.](/azure/governance/policy/)
 
 ## <a name="next-steps"></a>Nästa steg
 

@@ -6,12 +6,12 @@ ms.topic: article
 author: jeweber
 ms.author: jeweber
 ms.date: 06/02/2021
-ms.openlocfilehash: 37be38030ece0b78629fe1ebbb77c41f2cbcb8fb
-ms.sourcegitcommit: 771a7fca2125a9895226a06e9f1f3988dcc561ea
+ms.openlocfilehash: 76aeefe324edba06b71cf41cfb25be805b356cc63de0377ba246b50d05187998
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "111446863"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115688311"
 ---
 # <a name="refund-policies-for-microsoft-appsource-and-azure-marketplace"></a>Återbetalningsprinciper för Microsoft AppSource och Azure Marketplace
 
@@ -56,4 +56,4 @@ Om du avbryter ett åtagande om penningförbrukning som du har betalat i försko
 
 ## <a name="microsoft-azure-consumption-commitment-macc"></a>Microsoft Azure (MACC)
 
-Programmet Microsoft Azure för förbrukning (MACC) har inga dedikerade återbetalningsprinciper. Produkter som köpts som en del av ett MACC-avtal följer de principer som beskrivs i den här artikeln.
+Det Microsoft Azure MACC-programmet (consumption commitment) har inga dedikerade återbetalningsprinciper. Produkter som köpts som en del av ett MACC-avtal följer de principer som beskrivs i den här artikeln.

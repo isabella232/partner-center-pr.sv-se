@@ -9,19 +9,19 @@ ms.author: hickeys
 author: hickeys
 keywords: windows 10, uwp, mobile operators, mobile billing, mobile operator billing
 ms.localizationpriority: medium
-ms.openlocfilehash: b14d92038570756de594f013c4eb2c2e4615c64e
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 5a0d0a60e7bcbde65b1119fcfad66cfdf53f8229cae4f7b017158b2ad5cf1245
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839977"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682886"
 ---
 # <a name="mobile-operator-billing"></a>Mobiloperatörsfakturering
 
 **Lämpliga roller:** Global administratör
 
 > [!NOTE]
-> Om du behöver support för utbetalning, till exempel att konfigurera utbetalningskonton, saknade utbetalningar, lägga ut utbetalningsstödet eller något annat, kan du kontakta [supporten här.](https://developer.microsoft.com/windows/support)
+> Om du vill ha support om utbetalning, inklusive att konfigurera utbetalningskonton, saknade utbetalningar, lägga ut utbetalningsstödet eller något annat, kontaktar du [supporten här.](https://developer.microsoft.com/windows/support)
 
 I Microsoft Store mobiloperatören fakturering som betalningsmetod för enheter som kör Windows 10, telefoner som kör Windows 10 Mobile och Xbox One-konsoler. Om en kunds mobiloperatör stöder den här funktionen kan kunden lägga till mobiloperatörsfakturering som betalningsmetod och använda den för att göra Butik-inköp med hjälp av sitt mobilkonto.
 

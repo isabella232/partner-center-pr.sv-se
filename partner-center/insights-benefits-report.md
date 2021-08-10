@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 457a5197ea9bcfaf2d9c936b7483b33688b1cb41
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 5ed3bd35e25f21a9803eac10d7c6308e3eaa1f715451c00ee2943e92533fc4d2
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843960"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115689272"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Rapporten Fördelar som är tillgänglig från instrumentpanelen Insights Partnercenter
 
@@ -59,7 +59,7 @@ Det här diagrammet visar den månatliga trenden för licenser som beviljats und
 
 ## <a name="visual-studio-subscriptions"></a>Visual Studio-prenumerationer
 
-Det här diagrammet visar den månatliga trenden för Visual Studio prenumerationer som aktiverats mot prenumerationer som du har allokerat under det valda datumintervallet.
+Det här diagrammet visar månadstrenden för Visual Studio prenumerationer som aktiverats mot prenumerationer som du har allokerat under det valda datumintervallet.
 
 Välj en flik överst i diagrammet för att visa trenden för en Visual Studio prenumeration som du har beviljats som förmåner. Kolumner i diagrammet representerar licenser som förbrukas för prenumerationen. Linjediagrammet representerar de övergripande licenser som tilldelats för prenumerationen.
 

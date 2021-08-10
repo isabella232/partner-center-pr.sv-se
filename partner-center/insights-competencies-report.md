@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0d5eab0684c52c94c0709f09f254031dd80d8a28
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 18b2d83b71b258d5c3d59f9a87b8b519d868b5c2a410dd6f18cde643b7531f98
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843909"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115683730"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Kompetensrapport som är tillgänglig från Partnercenter Insights instrumentpanel
 

@@ -8,12 +8,12 @@ metadata:
   author: eunjkim520
   ms.author: eunjkim
   ms.date: 05/06/2021
-  ms.openlocfilehash: 350c726467c3ba4342159a56b8ccfe77610c6b63
-  ms.sourcegitcommit: 207c86406e56346d01d85ce50ea494c0c293519a
+  ms.openlocfilehash: a952e9b69e96c1a3e535637488a7b2f4199efa25f5c4814952d29d900fc16f4e
+  ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/14/2021
-  ms.locfileid: "113798344"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "115688955"
 title: Vanliga frågor om utbetalning och skatter
 summary: >
   **Lämpliga roller:** Kontoadministratörsroller | Global | Incitamentsadministratör
@@ -26,7 +26,7 @@ sections:
   - question: >
       Varför måste jag ange eller uppdatera min utbetalnings- och/eller skatteinformation?
     answer: >
-      Alla partner som registrerar sig i ett nytt program måste ange giltig utbetalnings- och skatteinformation för att slutföra registreringen och ta emot betalningar. En registrering anses vara fullständig först när Microsoft har verifierat din utbetalnings- och skatteprofil.
+      Alla partner som registrerar sig i ett nytt program måste ange giltig utbetalnings- och skatteinformation för att slutföra registreringen och ta emot betalningar. En registrering anses vara slutförd först när Microsoft har verifierat din utbetalnings- och skatteprofil.
 
 
       Du kan också behöva uppdatera din information om reglerna för ditt program ändras eller om aspekter av din profil upphör att gälla eller blir inaktuella. Om detta inträffar visar översiktssidan statusen Åtgärd **krävs – Uppdatera bank och/eller skatteprofil.**
@@ -45,7 +45,7 @@ sections:
   - question: >
       Min organisation deltar i flera program. Måste jag ange min betalnings- och skatteprofil flera gånger?
     answer: >
-      Det beror på organisationens behov. Betalningsprofiler skapas på organisationsnivå, vilket gör att samma bankprofil kan tilldelas över flera MPN-ID:n och program inom en organisation. I de flesta fall kan du antingen återanvända en befintlig profil eller skapa en ny.
+      Det beror på organisationens behov. Betalningsprofiler skapas på organisationsnivå, vilket gör att samma bankprofil kan tilldelas över flera MPN-ID:n och program i en organisation. I de flesta fall kan du antingen återanvända en befintlig profil eller skapa en ny.
 
 
       Det kan dock finnas undantag när du använder din bankprofil för olika länder eller regioner eftersom lokala bank- eller skatteregler kan gälla.
@@ -104,11 +104,11 @@ sections:
   - question: >
       Hur vet jag när jag ska förvänta mig betalning för mina kundbeställningar?
     answer: >
-      - Börja med att använda ditt assetID och kontrollera kundorder i [Orderrapporter](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/order).
+      - Börja med att använda ditt assetID och kontrollera kundorder i [orderrapporterna.](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/order)
 
       - Kontrollera kundkanalen för kundprenumerationen [i kunder och rapportera](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/customer).
 
-      - För företagskunder visas utgivarens intäkter i utdraget 1–2 dagar efter inköpsorderdatumet.
+      - För företagskunder visas utgivarintäkterna i utdraget 1–2 dagar efter inköpsorderdatumet.
 
       - För icke-företagskunder visas utgivarintäkterna i utdraget 1–2 dagar efter att kundbetalningen har tagits emot.
 
@@ -157,18 +157,18 @@ sections:
       Källskatt gäller för amerikanska utgivare som har skickat in ett W-9-formulär. Källskatt beräknas för en månatlig betalning.
 
 
-      **Mer information** finns [i: Commercial Marketplace Publisher Agreement](/legal/marketplace/msft-publisher-agreement), [Utbetalningsprincip](payout-policy-details.md)
+      **Mer information** finns i [: Commercial Marketplace Publisher Agreement](/legal/marketplace/msft-publisher-agreement), Information om [utbetalningsprincip](payout-policy-details.md)
 - name: Åtkomst till utbetalningsutdrag
   questions:
   - question: >
       Hur får jag åtkomst till ett utbetalningsutdrag?
-    answer: "1. Kontrollera dina roller. Du måste ha rollen *finansiell bidragsgivare* eller *kontoägare* för att få åtkomst till utbetalningsutdrag.\n2. I det övre högra navigeringsfönstret väljer du **utbetalningsikonen** för att visa ditt utbetalningsutdrag. Välj mellan **Transaktionshistorik,** **Betalning** och **Ladda ned**.\n\n**Mer information:** [Utbetalningsroller och behörigheter](payout-statement.md#roles-and-permissions), [Utbetalningsutdrag](payout-statement.md) \n"
+    answer: "1. Kontrollera dina roller. Du måste ha rollen *finansiell bidragsgivare* eller *kontoägare* för att få åtkomst till utbetalningsutdrag.\n2. I det övre högra navigeringsfönstret väljer du **utbetalningsikonen** för att visa ditt utbetalningsutdrag. Välj mellan **Transaktionshistorik,** **Betalning** och **Ladda ned.**\n\n**Mer information:** [Utbetalningsroller och behörigheter](payout-statement.md#roles-and-permissions), [utbetalningsutdrag](payout-statement.md) \n"
 - name: Rapport för utbetalningsutdrag
   questions:
   - question: >
       Vad betyder varje fält i transaktionsnedladdningen?
     answer: >
-      Se [Utbetalningsutdrag](payout-statement.md) för en detaljerad lista över attributen och deras betydelser.
+      Se [Utbetalningsutdrag](payout-statement.md) för en detaljerad lista över attributen och deras innebörder.
   - question: >
       Vad är intäktsstatus?
     answer: >
@@ -187,23 +187,23 @@ sections:
   - question: >
       Hur gör jag för att du ladda ned ett källskatteformulär i PDF-format?
     answer: >
-      Gå till sidan **Payout Payment** (Utbetalning) och sedan till avsnittet **List of Payment** (Lista över betalningar). En länk till ett källskatteformulär visas bredvid en betalning. Ett källskatteformulär gäller endast för valda incitamentprogram, inte för utbetalning från den kommersiella marknadsplatsen.
+      Gå till sidan **Payout Payment** (Utbetalning) och sedan till avsnittet **List of Payment** (Lista över betalningar). En länk till ett källskatteformulär visas bredvid en betalning. Ett källskatteformulär gäller endast för utvalda incitamentprogram, inte för utbetalning från den kommersiella marknadsplatsen.
   - question: >
       Var hittar jag skatteblanketter för slutet av beskattningsåret?
     answer: >
       Gå till [profilsidan](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage) för att visa dina skatteblanketter för slutet av beskattningsåret.
 
 
-      **Mer information:** [Utbetalningsutdrag](payout-statement.md), [nedladdning av transaktionshistorik](payout-statement.md#transaction-history-download)
+      **Mer information:** [Utbetalningsutdrag,](payout-statement.md) [nedladdning av transaktionshistorik](payout-statement.md#transaction-history-download)
 - name: Historiska uttryck
   questions:
   - question: >
-      Hur gör jag för att du visa historisk information?
+      Hur gör jag för att visa historisk information?
     answer: >
-      Historiskt utdrag visar en ögonblicksbild av utbetalningsdata från oktober 2019. Utbetalningsinformationen här uppdateras tyvärr inte. Om du vill få den senaste informationen skickar du en supportbiljett för den senaste informationen.
+      Historiskt utdrag visar en ögonblicksbild av utbetalningsdata från oktober 2019. Tyvärr uppdateras inte utbetalningsinformationen här. Om du vill få den senaste informationen skickar du en supportbiljett för den senaste informationen.
 
 
-      **Mer information:** [Utbetalningsutdrag](payout-statement.md), [nedladdning av transaktionshistorik](payout-statement.md#transaction-history-download)
+      **Mer information:** [Utbetalningsutdrag,](payout-statement.md) [nedladdning av transaktionshistorik](payout-statement.md#transaction-history-download)
 - name: API för utbetalningsexport
   questions:
   - question: >
@@ -213,15 +213,15 @@ sections:
 - name: Utbetalningsprinciper för den kommersiella marknadsplatsen
   questions:
   - question: >
-      Hur gör jag för att du den aktuella store-tjänstavgiften och utbetalningsfrekvensen?
+      Hur gör jag för att du den aktuella butikstjänstavgiften och utbetalningsfrekvensen?
     answer: >
-      - Avgiften för butikstjänsten är 3 %.
+      - Butikstjänstavgiften är 3 %.
 
       - I ditt utbetalningsutdrag anger intjäningstakten den faktiska utbetalningsfrekvensen för en viss transaktion.
   - question: >
       När kan jag vänta mig en betalning från Microsoft när intäkterna visas i mitt utdrag?
     answer: >
-      - När dina intäkter har status obearbetad kan du kontrollera förfallodatum för den månad då dina intäkter bearbetas för betalning. När betalningen har förberetts ändras din intäktsstatus till "bearbetad".  Microsoft släpper betalningar den 15:e i förfallomånaden.
+      - När dina intäkter har status obearbetad kan du kontrollera förfallodatum för den månad då dina intäkter bearbetas för betalning. När din betalning har förberetts ändras din intäktsstatus till "bearbetad".  Microsoft släpper betalningar den 15:e i förfallomånaden.
 
       - För beställningar som betalas med kreditkort håller Microsoft betalningar i 30 dagar tills intjäning har mognat.
 

@@ -1,6 +1,6 @@
 ---
-title: 'Snabb start: hantera en privat Azure Marketplace med PowerShell'
-description: Den här snabb starten visar hur du hanterar erbjudanden på en privat Azure Marketplace med hjälp av Azure PowerShell.
+title: 'Snabbstart: Hantera en privat dator Azure Marketplace PowerShell'
+description: Den här snabbstarten visar hur du hanterar erbjudanden i en privat Azure Marketplace med Azure PowerShell.
 author: keferna
 ms.author: keferna
 ms.topic: quickstart
@@ -8,38 +8,38 @@ ms.service: marketplace-customer
 ms.devlang: azurepowershell
 ms.date: 11/24/2020
 ms.custom: devx-track-azurepowershell
-ms.openlocfilehash: d7bd790eab2618822dbc5099ad1ad107794c82d2
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: 1aa734e30c73cd1d3c28c4a77af000a1abadaf16676508c3d986bb23b3a2d2d7
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412462"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115688547"
 ---
-# <a name="quickstart-manage-a-private-azure-marketplace-using-powershell"></a>Snabb start: hantera en privat Azure Marketplace med PowerShell
+# <a name="quickstart-manage-a-private-azure-marketplace-using-powershell"></a>Snabbstart: Hantera en privat dator Azure Marketplace PowerShell
 
-Den här artikeln beskriver hur du kan hantera erbjudanden i en privat Azure Marketplace med PowerShell-modulen [AZ. Marketplace](/powershell/module/az.marketplace) .
+Den här artikeln beskriver hur du kan hantera erbjudanden i en privat Azure Marketplace med hjälp av [Az.Marketplace](/powershell/module/az.marketplace) PowerShell-modulen.
 
 > [!IMPORTANT]
-> Den privata Azure Marketplace är för närvarande en offentlig för hands version. Förhandsversionen tillhandahålls utan serviceavtal. Den rekommenderas inte för produktionsarbetsbelastningar. Vissa funktioner kanske inte stöds eller kan ha begränsade funktioner. Mer information finns i [Kompletterande villkor för användning av Microsoft Azure-förhandsversioner](https://azure.microsoft.com/support/legal/preview-supplemental-terms/).
+> Privata Azure Marketplace är för närvarande i offentlig förhandsversion. Förhandsversionen tillhandahålls utan serviceavtal. Den rekommenderas inte för produktionsarbetsbelastningar. Vissa funktioner kanske inte stöds eller har begränsade funktioner. Mer information finns i [Kompletterande villkor för användning av Microsoft Azure-förhandsversioner](https://azure.microsoft.com/support/legal/preview-supplemental-terms/).
 
 ## <a name="requirements"></a>Krav
 
 * Om du inte har en Azure-prenumeration kan du skapa ett [kostnadsfritt](https://azure.microsoft.com/free/) konto innan du börjar.
 
 * Om du väljer att använda Azure PowerShell lokalt:
-  * [Installera AZ PowerShell-modulen](/powershell/azure/install-az-ps).
-  * Anslut till ditt Azure-konto med hjälp av cmdleten [Connect-AzAccount](/powershell/module/az.accounts/connect-azaccount) .
+  * [Installera Az PowerShell-modulen](/powershell/azure/install-az-ps).
+  * Anslut till ditt Azure-konto med [cmdleten Anslut-AzAccount.](/powershell/module/az.accounts/connect-azaccount)
 * Om du väljer att använda Azure Cloud Shell:
-  * Mer information finns i [Översikt över Azure Cloud Shell](/azure/cloud-shell/overview) .
+  * Se [Översikt över Azure Cloud Shell](/azure/cloud-shell/overview) för mer information.
 
   > [!IMPORTANT]
-  > Även om PowerShell-modulen **AZ. Marketplace** är i för hands version måste du installera den separat med hjälp av `Install-Module` cmdleten. När modulen blir allmänt tillgänglig kommer den att ingå i framtida versioner av Az PowerShell-modulen och vara tillgänglig som standard i Azure Cloud Shell.
+  > När **Az.Marketplace** PowerShell-modulen är i förhandsversion måste du installera den separat med hjälp av `Install-Module` cmdleten . När modulen blir allmänt tillgänglig kommer den att ingå i framtida versioner av Az PowerShell-modulen och vara tillgänglig som standard i Azure Cloud Shell.
 
   ```azurepowershell-interactive
   Install-Module -Name Az.Marketplace
   ```
 
-* Om du har flera Azure-prenumerationer väljer du lämplig prenumeration där resurserna ska faktureras. Välj en speciell prenumeration med cmdleten [set-AzContext](/powershell/module/az.accounts/set-azcontext) .
+* Om du har flera Azure-prenumerationer väljer du lämplig prenumeration där resurserna ska debiteras. Välj en specifik prenumeration med hjälp [av cmdleten Set-AzContext.](/powershell/module/az.accounts/set-azcontext)
 
   ```azurepowershell-interactive
   Set-AzContext -SubscriptionId 00000000-0000-0000-0000-000000000000
@@ -47,7 +47,7 @@ Den här artikeln beskriver hur du kan hantera erbjudanden i en privat Azure Mar
 
 ## <a name="list-private-stores"></a>Lista privata butiker
 
-Om du vill hämta en lista över privata lager använder du cmdleten [Get-AzMarketplacePrivateStore](/powershell/module/az.marketplace/get-azmarketplaceprivatestore) . I följande exempel visas privata butiker som har skapats under klient omfånget.
+Om du vill hämta en lista över privata butiker använder du cmdleten [Get-AzMarketplacePrivateStore.](/powershell/module/az.marketplace/get-azmarketplaceprivatestore) I följande exempel visas privata butiker som har skapats under klientorganisationsomfånget.
 
 ```azurepowershell-interactive
 Get-AzMarketplacePrivateStore
@@ -62,9 +62,9 @@ Name           : 00000000-0000-0000-0000-000000000000
 Type           : Microsoft.Marketplace/privateStores
 ```
 
-## <a name="add-an-offer-to-a-private-marketplace"></a>Lägg till ett erbjudande till en privat Marketplace
+## <a name="add-an-offer-to-a-private-marketplace"></a>Lägga till ett erbjudande på en privat marknadsplats
 
-Om du vill lägga till ett erbjudande i ett privat lager använder du cmdleten [set-AzMarketplacePrivateStoreOffer](/powershell/module/az.marketplace/set-azmarketplaceprivatestoreoffer) . I följande exempel läggs det angivna erbjudandet till i en privat Marketplace för en privat lagrings plats som skapas under klientens omfång.
+Om du vill lägga till ett erbjudande i en privat butik använder du cmdleten [Set-AzMarketplacePrivateStoreOffer.](/powershell/module/az.marketplace/set-azmarketplaceprivatestoreoffer) I följande exempel läggs det angivna erbjudandet till på en privat marknadsplats för en privat butik som skapas under klientorganisationsomfånget.
 
 ```azurepowershell-interactive
 $Params = @{
@@ -97,9 +97,9 @@ Name                      : publisherid.offerid
 Type                      : Microsoft.Marketplace/privateStores/offers
 ```
 
-## <a name="get-private-store-offers"></a>Hämta erbjudanden för privata butiker
+## <a name="get-private-store-offers"></a>Skaffa privata butikserbjudanden
 
-Om du vill hämta ett eller flera privata butiks erbjudanden använder du cmdleten [Get-AzMarketplacePrivateStoreOffer](/powershell/module/az.marketplace/get-azmarketplaceprivatestoreoffer) . I följande exempel hämtas erbjudanden som är associerade med det angivna privata arkivet som lades till under klient omfånget.
+Om du vill hämta ett eller flera privata butikserbjudanden använder du cmdleten [Get-AzMarketplacePrivateStoreOffer.](/powershell/module/az.marketplace/get-azmarketplaceprivatestoreoffer) I följande exempel hämtar erbjudanden som är associerade med det angivna privata arkivet som har lagts till under klientorganisationsomfånget.
 
 ```azurepowershell-interactive
 Get-AzMarketplacePrivateStoreOffer -PrivateStoreId 00000000-0000-0000-0000-000000000000
@@ -138,7 +138,7 @@ Type                      : Microsoft.Marketplace/privateStores/offers
 
 ## <a name="remove-an-offer"></a>Ta bort ett erbjudande
 
-Om du vill ta bort ett erbjudande från ett privat lager använder du cmdleten [Remove-AzMarketplacePrivateStoreOffer](/powershell/module/az.marketplace/remove-azmarketplaceprivatestoreoffer) . I följande exempel tas ett erbjudande bort från ett privat arkiv som har skapats i klient omfånget.
+Om du vill ta bort ett erbjudande från en privat butik använder du cmdleten [Remove-AzMarketplacePrivateStoreOffer.](/powershell/module/az.marketplace/remove-azmarketplaceprivatestoreoffer) I följande exempel tas ett erbjudande bort från ett privat arkiv som har skapats i klientorganisationsomfånget.
 
 ```azurepowershell-interactive
 Remove-AzMarketplacePrivateStoreOffer -privateStoreId 00000000-0000-0000-0000-000000000000 -offerId publisherid.offerid
@@ -146,4 +146,4 @@ Remove-AzMarketplacePrivateStoreOffer -privateStoreId 00000000-0000-0000-0000-00
 
 ## <a name="next-steps"></a>Nästa steg
 
-[Skapa och hantera privat Azure Marketplace](create-manage-private-azure-marketplace.md).
+[Skapa och hantera privata Azure Marketplace](create-manage-private-azure-marketplace.md).

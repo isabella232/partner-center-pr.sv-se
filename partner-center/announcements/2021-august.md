@@ -1,5 +1,5 @@
 ---
-title: Augusti 2021-meddelanden
+title: Meddelanden för augusti 2021
 description: Augusti 2021-meddelanden för Microsoft Partner Center, inklusive nya funktioner, kampanjer, erbjudanden, marknader eller ändringar i befintliga erbjudanden.
 ms.topic: article
 ms.service: partner-dashboard
@@ -11,14 +11,14 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 08/03/2021
-ms.openlocfilehash: e8c594233ae078d40d934e3cc57341609b7a03ce
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: be0baf45c4261039e87d6fb33b6a8263598063279051fdf4b3f234b3a9b1dccb
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115117866"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115688207"
 ---
-# <a name="august-2021-announcements"></a>Augusti 2021-meddelanden
+# <a name="august-2021-announcements"></a>Meddelanden för augusti 2021
 
 Den här sidan innehåller meddelanden för Microsoft Partner Center för augusti 2021.
 ________________
@@ -26,56 +26,56 @@ ________________
 
 ### <a name="summary"></a>Sammanfattning
 
-Vi gör några uppdateringar av Prislistorna för Azure-plan Partnercenter för att se till att objekten i prislistan är synkroniserade med vad som är tillgängligt för köp i Partnercenter.
+Vi gör några uppdateringar av Azure-planens Partnercenter-prislistor för att se till att objekten i prislistan är synkroniserade med vad som är tillgängligt för köp i Partnercenter.
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2021-08-04
 - Erbjudanden/marknader
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Indirekta leverantörer och direktfaktureringspartner som har en Azure-plan i Molnlösningsleverantör i den nya handelsupplevelsen.
+Indirekta leverantörer och direktfaktureringspartner som använder Azure-Molnlösningsleverantör i den nya handelsupplevelsen.
 
 ### <a name="details"></a>Information
 
-Partner kan ha observerat skillnader mellan de reservationsinstanser (RU:er) som är tillgängliga att köpa inifrån Partnercenter och RESERVERADE:er i prislistorna för Azure-planreservationer.
-Tidigare har prislistorna för Azure-planreservationer felaktigt inkluderats:
+Partner kan ha observerat skillnaderna mellan de reservationsinstanser (RESERVERADE instanser) som är tillgängliga att köpa från i Partnercenter och RESERVERADE instanser i prislistorna för Azure-prenumerationsreservationer.
+Tidigare har prislistorna för azure-planreservationer felaktigt inkluderats:
 
 1. Objekt som kanske bara är tillgängliga i Azure Portal
 2. Azure-produkter som inte var reservationer
  
-Vi gör några uppdateringar av Prislistorna för Azure-plan Partnercenter för att se till att objekten i prislistan är synkroniserade med vad som är tillgängligt för köp i Partnercenter. Detta bör åtgärdas från och med 2 september 2021. De här ändringarna gäller endast prislistor för azure-planreservationer för ny handel.
+Vi gör några uppdateringar av Azure-planens Partnercenter-prislistor för att se till att objekten i prislistan är synkroniserade med vad som är tillgängligt för köp i Partnercenter. Detta bör åtgärdas från och med 2 september 2021. De här ändringarna gäller endast prislistor för nya Azure-prenumerationsreservationer i den nya handelsplanen.
 
-Om en RI kan göras i Partnercenter från september och framåt blir den tillgänglig i prislistorna. För andra RU:er bör partnern gå till Azure Portal för att granska priser och göra inköp.
+Om en RI är tillgänglig för överföring i Partnercenter från september och framåt blir den tillgänglig i prislistorna. För andra RU:er bör partnern gå till Azure Portal för att granska priser och göra inköp.
 
 
 ### <a name="next-steps"></a>Nästa steg
-- Partner bör ladda ned priser för Azure-planer för att se tillgängliga RU:er via [Partnercenter.](https://partner.microsoft.com/dashboard/sell/pricingandoffers)
-- Partner som har en ny köpplan i Azure-planen bör gå till Azure-tjänster i [priskalkylatorn](https://azure.microsoft.com/en-us/pricing/calculator/) för molnlösningslösning för att få prisinformation för RU:er som inte är tillgängliga för köp i Partnercenter. 
+- Partner bör ladda ned priser för Azure-planer för att se de TILLGÄNGLIGA RU:erna via [Partnercenter.](https://partner.microsoft.com/dashboard/sell/pricingandoffers)
+- Partner som gör en ny köp-Azure-plan bör referera till Azure-tjänster i [CSP-priskalkylatorn](https://azure.microsoft.com/en-us/pricing/calculator/) för att få prisinformation för RU:er som inte är tillgängliga för köp i Partnercenter. 
 ________________
-## <a name="csp-for-azure-new-commerce-experience-expands-to-the-vatican"></a><a name="5"></a>CSP för Azures nya handelsupplevelse utökas till vatikan
+## <a name="csp-for-azure-new-commerce-experience-expands-to-the-vatican"></a><a name="5"></a>CSP för den nya handelsupplevelsen i Azure utökas till
 
 ### <a name="summary"></a>Sammanfattning
 
-Microsoft lanserade den nya handelsupplevelsen i CSP-programmet för Azure i Vatikan den 22 juli 2021.
+Microsoft lanserade den nya handelsupplevelsen i CSP-programmet för Azure i 22 juli 2021.
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2021-08-03
 - Funktioner
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
 Partner i transacting för transacting via CSP-programmet
 
 ### <a name="details"></a>Information
 
-Den 22 juli 2021 lanserade Microsoft den nya handelsupplevelsen i CSP-programmet för Azure i Vatikan. Den här upplevelsen effektiviserar och förbättrar kundernas sätt att köpa och använda Azure-tjänster. Det ger även partner i CSP-programmet en konsekvent vy över Azure-priser över försäljningsoror, priser för amerikanska dollar för global konsekvens, justering av faktureringsdatum och åtkomst till Azure Cost Management. Om du vill veta mer bör partner granska det material som publiceras i [partnerresurser-galleriet.](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
+Den 22 juli 2021 lanserade Microsoft den nya handelsupplevelsen i CSP-programmet för Azure i Vatikanarna. Den här upplevelsen effektiviserar och förbättrar kundernas sätt att köpa och använda Azure-tjänster. Det ger även partner i CSP-programmet en konsekvent vy över Azure-priser över försäljningsork, priser för amerikanska dollar för global konsekvens, anpassning av faktureringsdatum och åtkomst till Azure Cost Management. Om du vill veta mer bör partner granska det material som publiceras i [partnerresurser-galleriet](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/).
 
 ### <a name="next-steps"></a>Nästa steg
 
-Det finns flera tillgängliga resurser som introducerar den nya Azure-handelsupplevelsen och ger ytterligare information. Hitta de senaste vanliga frågorna, korten, videorna med mera i [resursgalleriet för CSP-programuppdateringar.](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
+Det finns flera tillgängliga resurser som introducerar den nya Azure-handelsupplevelsen och ger ytterligare information. Hitta de senaste vanliga frågorna, kortlekarna, videorna med mera i [resursgalleriet för CSP-programuppdateringar.](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
 
 ________________
 ## <a name="programmatic-access-to-partner-insights-analytics-data"></a><a name="4"></a>Programmatisk åtkomst till Partner Insights analysdata
@@ -89,9 +89,9 @@ Partner kan nu komma åt Partner Insights analysdata via ett API.
 - Datum: 2021-08-03
 - Funktioner
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Partner som gör en transact genom Molnlösningsleverantör -programmet (CSP)
+Partner som gör en transacting via Molnlösningsleverantör-programmet (CSP)
 
 ### <a name="details"></a>Information
 
@@ -102,7 +102,7 @@ Här är några av de viktigaste funktionerna:
 - Skapa anpassade frågor enligt dina affärsbehov.
 - Schemalägga rapporten vid önskat tids- och intervall.
 - Skriva anpassade frågor med valda kolumner och filter på data.
-- Schemaläggning av återkommande frågor.
+- Schemalägga återkommande frågor.
 - Möjlighet att ladda ned rapporter från en säker plats.
 
 Det viktigaste värdet för programmatisk åtkomst för Partner Insights-analysdata är integrering med interna BI-system och plattformar för att skapa anpassad rapportering.
@@ -111,53 +111,53 @@ Det viktigaste värdet för programmatisk åtkomst för Partner Insights-analysd
 
 Läs [den här guiden](../insights-programmatic-get-started.md) för att komma igång med programmeringsåtkomst till Partner Insights analysdata.
 
-Vårt teknikteam kommer att vara [värd för utbildningssessioner](https://globalpbocomm.eventbuilder.com/PartnerCenterInsightsAPIsTechnicalOverview) om det här ämnet i slutet av den här månaden. Sessionen riktar sig till våra partners tekniska team och kommer att registreras för att titta på begäran.
+Vårt teknikteam kommer att vara [värd för utbildningssessioner](https://globalpbocomm.eventbuilder.com/PartnerCenterInsightsAPIsTechnicalOverview) om det här ämnet i slutet av den här månaden. Sessionen är avsedd för våra partners tekniska team och kommer att registreras för att titta på på begäran.
 
 - **Alternativ 1:** Europa, Mellanöstern och Afrika [(EMEA)](https://globalpbocomm.eventbuilder.com/event/47228?source=PartnerCenterInsightsAPIsTechnicalOverview)och Americas friendly –**16** augusti, 10:00 Eastern Time Zone eller 15:00 Greenwich Mean Time
 
-- **Alternativ 2:** [Asienvänlig](https://globalpbocomm.eventbuilder.com/event/47229?source=PartnerCenterInsightsAPIsTechnicalOverview)**– 17** augusti, 11:30 Singapore tidszon
+- **Alternativ 2:** [Asienvänlig](https://globalpbocomm.eventbuilder.com/event/47229?source=PartnerCenterInsightsAPIsTechnicalOverview)**– 17 augusti,** 11:30 Singapore tidszon
 
 ### <a name="questions"></a>Har du några frågor?
 
-Frågor om dessa erbjudanden finns i relevanta Microsoft-partnergrupper.
+Om du har frågor om dessa erbjudanden kan du kontrollera dina relevanta Microsoft-partnergrupper.
 
 ________________
 ## <a name="offer-attestation-required-for-some-windows-365-offers"></a><a name="3"></a>Attestation för erbjudande krävs för vissa Windows 365-erbjudanden
 
 ### <a name="summary"></a>Sammanfattning
 
-Vissa nyligen tillgängliga Windows 365-erbjudanden som kommer i augusti 2021 kräver särskild attestation före köpet.
+Vissa nyligen tillgängliga Windows 365-erbjudanden som kommer i augusti 2021 kräver särskild attestation innan du köper.
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2021-08-01
 - Erbjudanden/marknader
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Indirekta leverantörer och direktfaktureringspartner som transacting license-based services in the Molnlösningsleverantör program
+Indirekta leverantörer och direktfaktureringspartner som överför licensbaserade tjänster i Molnlösningsleverantör program
 
 ### <a name="details"></a>Information
 
-Vissa nyligen tillgängliga Windows 365-erbjudanden kräver att partnern intygar att deras användare har befintliga kopior av Windows 10/11 Pro installerade på sina primära arbetsenheter. Den här attestation krävs endast för Windows 365 Business-erbjudanden med Windows Hybrid-förmånen. När partner köper dessa erbjudanden ser de följande text på granskningsskärmen:
+Vissa nyligen tillgängliga Windows 365-erbjudanden kräver att partnern intygar att deras användare har befintliga kopior av Windows 10/11 Pro installerade på sina primära arbetsenheter. Den här attestation krävs endast för Windows 365 Business-erbjudanden med Windows Hybrid-förmån. När du köper dessa erbjudanden ser partnern följande text på granskningsskärmen:
 
 **Jag förstår att varje person som använder Windows 365 Business med Windows Hybrid Benefit också måste ha en giltig kopia av Windows 10/11 Pro installerad på sin primära arbetsenhet.**
 
 Partner måste godkänna detta innan de köper.
 
-Attestation gäller både för Partner Center-portalen och Partner Center-API:erna när du skickar beställningar och checkar ut kundvagnar. Partner kan avgöra vilka erbjudanden som kräver attestation genom att kontrollera attestationProperties för [erbjudandet eller](/partner-center/develop/offer-resources#attestationproperties) [SKU-objekten.](/partner-center/develop/product-resources#attestationproperties) De här egenskaperna förklarar attestationstypen och om attestation framtvingas för inköp.
+Attestation gäller både för Partner Center-portalen och Partner Center-API:erna när du skickar beställningar och checkar ut kundvagnar. Partner kan avgöra vilka erbjudanden som kräver attestation genom att kontrollera attestationProperties för [erbjudandet eller](/partner-center/develop/offer-resources#attestationproperties) [SKU-objekt.](/partner-center/develop/product-resources#attestationproperties) Dessa egenskaper förklarar attestationstypen och om attestation framtvingas för inköp.
 
-Nedan visas erbjudanden som för närvarande kräver attestation före inköp.
+Nedan visas erbjudanden som för närvarande kräver attestation innan du köper.
 
  | **Erbjudandets namn** |**Erbjudande-ID** |
 |:------------------------------------------- |:--------------------------------------- |
 | Windows 365 Business 1 vCPU, 2 GB, 64 GB (med Windows Hybrid-förmån) | 5f3a7cd2-c76f-4b21-9ddc-f48f09869cf6 |
 | Windows 365 Business 2 vCPU, 4 GB, 128 GB (med Windows Hybrid-förmån) | 7612386a-d98d-4110-94b8-554bd612a5ab |
-| Windows 365 Business 2 vCPU, 4 GB, 128 GB (med Windows Hybrid-förmån) | ab170880-1254-4534-abb9-fd0bf60cde71 |
+| Windows 365 Business 2 vCPU, 4 GB, 128 GB (Windows Hybrid Benefit) | ab170880-1254-4534-abb9-fd0bf60cde71 |
 | Windows 365 Business 2 vCPU, 4 GB, 256 GB (med Windows Hybrid-förmån) | cc624387-162c-4f31-9d6e-252d39d5324b |
 | Windows 365 Business 2 vCPU, 4 GB, 64 GB (med Windows Hybrid-förmån) | f9777f60-19ae-4bd2-b881-6dc674564a2e |
 | Windows 365 Business 2 vCPU, 8 GB, 128 GB (med Windows Hybrid-förmån) | 39daa752-18b7-4918-b4eb-cf27cf617ee2 |
-| Windows 365 Business 2 vCPU, 8 GB, 128 GB (Windows Hybrid Benefit) | d5623401-b8e0-429f-86df-29b6efdf4d95 |
+| Windows 365 Business 2 vCPU, 8 GB, 128 GB (med Windows Hybrid-förmån) | d5623401-b8e0-429f-86df-29b6efdf4d95 |
 | Windows 365 Business 2 vCPU, 8 GB, 256 GB (med Windows Hybrid-förmån) | 8fe4271f-c761-45f8-8261-5ab575195152 |
 | Windows 365 Business 4 vCPU, 16 GB, 128 GB (med Windows Hybrid-förmån) | 037cff0f-c231-4cce-a7ef-5324c755ba9a |
 | Windows 365 Business 4 vCPU, 16 GB, 128 GB (med Windows Hybrid-förmån) | 46448c4c-8b12-4ea1-9be7-76b35d69bcf5 |

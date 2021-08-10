@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: d99de8ed53ae6ed7fa094f6da7a8947c1bcfccb9
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 3ed33f28f68f980d916832ab7cab9e09cc06d16c33c1b62a1bcf9fcde40629a2
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836514"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115683226"
 ---
 # <a name="manage-incentives-customer-associations"></a>Hantera incitament för kundassociationer
 
@@ -40,7 +40,7 @@ Om ditt CPOR-associationsanspråk godkänns och är berättigat till incitament 
 
 Du kan när som helst kontrollera statusen för ditt CPOR-associationsanspråk med hjälp av [instrumentpanelen för](https://partner.microsoft.com/dashboard/incentives/claims/associations) kundassociationer (inloggning krävs).
 
-Här är statusen och deras innebörd:
+Här är status och deras innebörd:
 
 | Anspråksstatus | Visas när |
 | ------ | ----------- | 
@@ -83,7 +83,7 @@ Det finns tre huvudsakliga orsaker till att ett CPOR-associationsanspråk avvisa
 
 **Kundminskning:** När CPOR-associationsanspråket har gått igenom PoE-godkännandeprocessen ändras dess status till Godkänd medan kunden ges möjlighet att neka medgivande för associationen. Om kunden nekar till medgivande avvisas associationen.
 
-**Otillräckligt bevis för körning:** Proof of Execution krävs för varje CPOR-association. När ditt CPOR-associationsanspråk har skickats tar det upp till fem dagar för Microsofts granskare att granska din PoE och be om ytterligare information som behövs med hjälp av kommentarsavsnittet i ditt anspråk. Om informationen inte är tillräcklig avvisas ditt CPOR-associationsanspråk.
+**Otillräckligt bevis för körning:** Proof of Execution krävs för varje CPOR-association. När ditt CPOR-associationsanspråk har skickats tar det upp till fem dagar för Microsofts granskare att granska din PoE och be om ytterligare information som behövs med hjälp av avsnittet Kommentarer i ditt anspråk. Om informationen inte är tillräcklig avvisas ditt CPOR-associationsanspråk.
 
 Andra möjliga orsaker till avvisandet:
 
@@ -109,7 +109,7 @@ När ditt CPOR-associationsanspråk har godkänts skickas ett meddelande till ku
 
 ## <a name="how-to-communicate-with-poe-reviewers"></a>Så här kommunicerar du med PoE-granskare
 
-När granskarna har gått igenom PoE kan de komma fram till att ytterligare information behövs. I så fall kontaktar de dig via avsnittet Kommentarer i anspråket. Du kan även svara på dem i avsnittet Kommentarer.
+När granskarna har gått igenom poE:et kan de komma fram till att ytterligare information behövs. I så fall kontaktar de dig via avsnittet Kommentarer i anspråket. Du kan även svara på dem i avsnittet Kommentarer.
 
 ## <a name="view-claim-history"></a>Visa anspråkshistorik
 

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73ccd5326447de52eef6f7de2a43b53c09d84dae
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 9480b944ef740a8a230c227fb53242c1a4d18230ca77a17facad5cfd3482ee4d
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837619"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690281"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Office 365 för myndigheter GCC för kriterier för CSP-partner och kundberättigande 
 
@@ -40,12 +40,12 @@ Office 365 för myndigheter GCC för CSP-partner och kunder valideras för berä
 2.  Betjänar amerikanska myndighetskunder via GSA eller andra kontraktfordon
 
 **Kundkriterier**
-1.  Entitet för amerikanska myndigheter i dess myndighetskapacitet. Till exempel:
+1.  Entitet för amerikanska myndigheter i dess myndighetskapacitet. Ett exempel:
  
     -  Federal myndighet (t.ex. bureau, agency, department eller annan enhet för amerikanska myndigheter)
     -   Tillstånd/lokal entitet 
     -   Stamentitet
-    -   Regionala eller interstate government-entiteter (men inga internationella entiteter)
+    -   Regionala eller statliga myndigheter (men inga internationella entiteter)
     -   Federalt finansierade forsknings- och utvecklingscenter (FERDC)
 
 2.  Kommersiell privat enhet med data som omfattas av föreskrifter. Godkända datatyper för myndigheter är: 
