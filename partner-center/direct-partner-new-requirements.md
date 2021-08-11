@@ -9,12 +9,12 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 04/15/2021
-ms.openlocfilehash: 7b862a75d8128a00411d23dba4de65b3d50172f8
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: b50de8815afbc046f24abb09dcd5511abffd25dd573b502e3d592cf17760bd25
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844351"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693613"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Krav för att registrera dig som CSP-partner med direktfakturering
 
@@ -49,7 +49,7 @@ När vi har kontrollerat att ditt företag uppfyller behörighetskraven för att
 
 ## <a name="transition-from-direct-to-indirect-reseller"></a>Övergång från direkt till indirekt återförsäljare
 
-Nuvarande partner för direktfakturering måste uppfylla de nya kraven för att stanna kvar i CSP-partnerprogrammet för direktfakturering. Annars kommer [deras åtkomst till direktfaktureringsfunktionerna](restricted-direct-bill-capabilities.md) så småningom att begränsas och kan längre utföra specifika uppgifter, till exempel att göra nya inköp för sina kunder.
+Nuvarande partner för direktfakturering måste uppfylla de nya kraven för att finnas kvar i CSP-partnerprogrammet för direktfakturering. Annars kommer [deras åtkomst till direktfaktureringsfunktionerna](restricted-direct-bill-capabilities.md) så småningom att begränsas och kan längre utföra specifika uppgifter, till exempel att göra nya inköp för sina kunder.
 
 Om du bestämmer dig för att flytta från en direktfakturering till indirekt återförsäljares verksamhet finns det flera steg som du måste vidta. Mer information om övergången finns i [Transition from Molnlösningsleverantör (CSP) direct partner to CSP indirect reseller .](transition-direct-to-indirect.md)
 

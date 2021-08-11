@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4389c02dfcb382abf655b0e8de7edec7356f010f
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 77e8c7de772172f6c8e60aeb7a591ea3646c4aa7f3ee19e4bc210eb56682966c
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836157"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693323"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany-for-partners-selling-to-customers-in-eu--efta-countries"></a>Partnercenter för Microsoft Cloud Tyskland för partner som säljer till kunder i EU & EFTA-länder
 
@@ -80,7 +80,7 @@ Innan du kan migrera en kundprenumeration från Microsoft Cloud Tyskland till en
 
 När du har registrerat dig i programmet Molnlösningsleverantör (CSP) för Microsoft Cloud Tyskland använder du PartnerCenter för att sälja tyska molnspecifika lösningar och tjänster till kunder i EU- och EFTA-länder/-regioner.
 
-För att följa tyska lagar och föreskrifter som styr insamling och användning av enskilda personers data samt viktiga internationella standarder hanteras följande Partner Center-uppgifter med hjälp av specifika tjänstportaler.
+För att följa tyska lagar och förordningar som styr insamling och användning av enskilda personers data samt viktiga internationella standarder hanteras följande Partner Center-uppgifter med hjälp av specifika tjänstportaler.
 
 Funktion eller funktion | Slutföra uppgifter i
 :--- | :---

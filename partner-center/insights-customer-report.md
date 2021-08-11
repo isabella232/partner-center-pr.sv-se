@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 327d2ddd97dc4bf226985523184407f32f7883ad
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 22557f993db470537507b09a8a645ed7efe475fe12ce08b310de26d6077643d0
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843892"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115697615"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Kunders instrumentpanelsrapporter från Partnercenter-Insights
 

@@ -9,16 +9,16 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 256e93499a3a9b2786d8d1a309077b645aecd81c
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 30f55040f8d504aa7418228e42156565b510b04a2fa1efa84f2e9b1ae7ac4db9
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842379"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692967"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Tilldela eller återkalla licenser samtidigt till flera användare i ett kundkonto
 
-**Lämpliga roller:** Administratörsagent | Globala | Supportagent | Försäljningsagent | Administratör för användarhantering
+**Lämpliga roller:** Administratörsagent | Globala | Supportagent för | Försäljningsagent | Administratör för användarhantering
 
 Du kan tilldela licenser och tjänster till en användare eller till flera användare samtidigt på ett kundkonto och återkalla licenstilldelningar till användare.
 

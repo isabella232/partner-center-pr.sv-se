@@ -8,12 +8,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 12c466cce37ac252fedf5f72ef90e390bb1af256
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 0f94b61e5228241e0314bca3443a8d5378d14916872e2bf3a4271aa7e6fae9f6
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845099"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693316"
 ---
 # <a name="prerequisites-to-programmatically-access-analytics-data"></a>Krav för att programmatiskt få åtkomst till analysdata
 
@@ -27,7 +27,7 @@ För att komma åt analysdata för partnerinsikter programmatiskt måste du vara
 
 ## <a name="create-azure-active-directory-aad-application"></a>Skapa Azure Active Directory (AAD)-program
 
-Vanliga användarautentiseringsuppgifter kan inte användas för programmatisk åtkomst till Partner Insights Analytics-data. Ett Azure Active Directory (AAD)-program måste skapas tillsammans med en hemlighet (program - och användaråtkomst) för att få åtkomst till API:erna för programmatisk åtkomst. Information om hur du skapar ett AAD-program och en hemlighet finns [i Snabbstart: Registrera ett program med Microsofts identitetsplattform.](/azure/active-directory/develop/quickstart-register-app)   Behörighet krävs för att få åtkomst till Microsoft Partner-API. Information om hur du lägger till behörighet finns i [Partner-API autentisering – Partner](/partner/develop/api-authentication#application-and-user-access)
+Vanliga användarautentiseringsuppgifter kan inte användas för programmatisk åtkomst till Partner Insights Analytics-data. Ett Azure Active Directory (AAD)-program måste skapas tillsammans med en hemlighet (program - och användaråtkomst) för att få åtkomst till API:erna för programmatisk åtkomst. Information om hur du skapar ett AAD-program och en hemlighet finns [i Snabbstart: Registrera ett program med Microsofts identitetsplattform.](/azure/active-directory/develop/quickstart-register-app)   Behörighet krävs för åtkomst till Microsoft Partner-API. Information om hur du lägger till behörighet finns i [Partner-API autentisering – Partner](/partner/develop/api-authentication#application-and-user-access)
 
 ## <a name="assign-executive-report-viewer-erv-role-to-the-user"></a>Tilldela rollen som chefsrapportvisare (ERV) till användaren
 

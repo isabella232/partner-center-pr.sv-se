@@ -9,19 +9,19 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 196009d9271324377be02d0b2d12ba8a4d7a993c
-ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
+ms.openlocfilehash: 670a438446f2826f6a2eb42a3282ab00babd0ba5225d7d65a73fd8d314b03569
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112489959"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693834"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Kundassociationer via CPOR-modellen (Claimed Partner of Record) för Microsoft 365 och Dynamics 365
 
 
 **Lämpliga roller:** Incitamentsadministratör
 
-Den 1 oktober 2019 började Microsoft använda CPOR-modellen (Claiming Partner of Record) för att hantera de associationer som du har med dina Microsoft 365- och Dynamics 365-kunder med avseende på Online Services Advisory (OSA) Sell, Online Services Usage (OSU)-Microsoft 365 och OSU-Business Application incentives.
+Den 1 oktober 2019 började Microsoft använda CPOR-modellen (Claiming Partner of Record) för att hantera de associationer som du har med dina Microsoft 365- och Dynamics 365-kunder med avseende på OSA(Online Services Sell), Online Services Usage (OSU)-Microsoft 365 och OSU-Business Application incentives.
 
 >[!Important]
 > CPOR-anspråk (Customer Association) gäller endast för OSU(Online Services Sell, Online Services Usage) – Microsoft 365 och OSU-Business program. Om du skickar ett co-op-anspråk för ett annat program, till exempel Molnlösningsleverantör (CSP), Managed Reseller, värd eller Surface, kan du gå till Co-op-anspråksprocessen som beskrivs här. <br><br>När du skickar in ditt anspråk verifierar Microsoft det. Vi kan be dig om mer information i det här läget. Vi meddelar även kunden om din associationsbegäran. Kunder har fem arbetsdagar på sig att avanmäla sig. Om de inte avanmäler sig blir din koppling till den här specifika klientorganisationen och arbetsbelastningen officiell. Nu har du åtkomst till kundens användningsdata. 

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 335c0806d9504263dcfa506721b4217cf8b78db6
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 23068edcb633bc1a0c8359c8ad122455e573126b4ad9c54b10d105f9156b002c
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841037"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693970"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Använda kampanjer för att locka nya kunder och överföra besparingarna till dem
 
@@ -31,11 +31,11 @@ Kampanjpriset tillämpas automatiskt på ditt nettopris när du köper nya prenu
 
 Ta en stund och granska dessa viktiga fakta om kampanjer:
 
-- En prenumerations kampanjpris gäller endast för prenumerationens varaktighet. När en prenumeration som du har köpt med kampanjpris upphör att gälla återgår förnyelseprenumerationens pris till priset i prislistan. Det innebär att alla prenumerationer som har ställts in för automatisk förnyelse förnyas till det allmänna priset. Du hittar prislistan på sidan **Priser och** erbjudanden.
+- En prenumerations kampanjpris gäller endast för prenumerationens varaktighet. När en prenumeration som du har köpt med kampanjpris upphör att gälla återgår förnyelseprenumerationens pris till priset i prislistan. Det innebär att alla prenumerationer som har ställts in för automatisk förnyelse förnyas till det gällande priset. Du hittar prislistan på sidan **Priser och** erbjudanden.
 
 - Om en prenumeration är berättigad till flera kampanjer tillämpas befordran med högst procentandel av automatiskt.
 
-- Annulleringar av prenumerationer med kampanjpriser följer samma process och princip som prenumerationer med regelbundna priser.
+- Annulleringar av prenumerationer med kampanjpriser följer samma process och princip som prenumerationer som prissätts regelbundet.
 
 ## <a name="see-available-promotions"></a>Se tillgängliga kampanjer
 
@@ -52,9 +52,9 @@ Du kan se vilka kampanjer som du är berättigad till, om det finns någon på s
 
 3. På sidan **Ny prenumeration** väljer du den prenumeration som befordran gäller för.
 
-4. Ange det antal licenser som kunden behöver. 
+4. Ange antalet licenser som kunden behöver. 
 
-5. Granska ordern. Du ser kampanjpriset som kommer att tillämpas i **kolumnen** Rabatt.  
+5. Granska ordern. Du ser de kampanjpriser som kommer att tillämpas i **kolumnen** Rabatt.  
 
 6. Välj **Skicka för** att köpa. Kunden ser kampanjpriset på nästa faktura.  
 

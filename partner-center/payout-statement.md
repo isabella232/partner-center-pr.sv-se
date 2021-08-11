@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: b905d422b10e0b82225966fa5379283ea0b83a69
-ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
+ms.openlocfilehash: 8ad648d7ff7c5360ae61897ea98a633532ffd4c7de65ffa6b83984996ca24ac6
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "113684023"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693416"
 ---
 # <a name="payout-statements"></a>Utbetalningsinstruktioner
 
@@ -48,7 +48,7 @@ Logga in på [Partnercenter](https://partner.microsoft.com/dashboard/home) och v
 
 :::image type="content" source="images/payouts/payout-overview.png" alt-text="Visar utbetalningsikonen i det övre högra hörnet i Partnercenter-portalen.":::
 
-Du kan också använda [partnerns utbetalnings-API för](/rest/api/partner-center/partner-payouts) att ansluta och hämta utbetalningstransaktions- och betalningsdata direkt. Läs mer i [Hantera utbetalningar med hjälp av API:et för utbetalningstjänsten](/partner-center/develop/manage-payouts).
+Du kan också använda [partnerns utbetalnings-API för](/rest/api/partner-center/partner-payouts) att ansluta och hämta utbetalningstransaktioner och betalningsdata direkt. Läs mer i [Hantera utbetalningar med hjälp av API:et för utbetalningstjänsten](/partner-center/develop/manage-payouts).
 
 
 ## <a name="transaction-history"></a>Transaktionshistorik
@@ -62,11 +62,11 @@ Sidan **Transaktionshistorik** visar en sammanfattning av dina intäkter, beräk
 - **Intäkts- och betalningstrend** – Månatliga intjänings- och betalningsbelopp för de senaste 36 månaderna.
 - **Ladda** ned – Ladda ned transaktionsinformation i .csv eller .tsv-format.
 
-Använd datumintervallmarkeringen i det övre högra hörnet på sidan för att filtrera utdata för sidan så att de senaste 3, 6, 12 eller 36 månaderna visas. Du kan också välja ett anpassat datumintervall på upp till 36 månader. Standardintervallet för datum är 12 månader. Du kan också filtrera efter registrerings-ID, program, betalnings-ID, intäktstyp, lever och status. Data är tillgängliga för det aktuella räkenskapsåret (1 juli – 30 juni) och de föregående två räkenskapsåren.
+Använd datumintervallsmarkeringen i det övre högra hörnet på sidan för att filtrera utdata från sidan för att visa de senaste 3, 6, 12 eller 36 månaderna. Du kan också välja ett anpassat datumintervall på upp till 36 månader. Standardintervallet för datum är 12 månader. Du kan också filtrera efter Registrerings-ID, Program, Betalnings-ID, Intjäningstyp, Lever och Status. Data är tillgängliga för det aktuella räkenskapsåret (1 juli – 30 juni) och de föregående två räkenskapsåren.
 
 :::image type="content" source="images/payouts/search-filter.png" alt-text="Sökfiltret längst upp till höger på sidan.":::
 
-Om du vill se mer information om en intjäning väljer du nedåtpilen till höger på sidan. Om du gör det visas reglaget, intäktsbeloppet, produkten och kunden. Om någon av dessa data av någon anledning inte är tillgänglig, men du behöver åtkomst till den, kontaktar du supporten. Om intjäning är resultatet av en justering och inte en transaktion visas inte fälten Produkt och Kund.
+Om du vill se mer information om en intjäning väljer du nedåtpilen till höger på sidan. Om du gör det visas utnyttja, intäktsbelopp, produkt och kund. Om någon av dessa data av någon anledning inte är tillgänglig, men du behöver åtkomst till den, kontaktar du supporten. Om intjäning är resultatet av en justering och inte en transaktion visas inte fälten Produkt och Kund.
 
 ### <a name="transaction-history-summary"></a>Sammanfattning av transaktionshistorik
 
@@ -76,9 +76,9 @@ Den här vyn visar information om intjäning, inklusive ursprunget för intjäni
 
 - **Intjänat** datum – inköpsdatum.
 - **Typ av** intjäning – Typ av intjäning, till exempel Försäljning, Medarbetare eller Co-op.
-- **Totalt belopp** – Nettointäkterna. På den kommersiella marknadsplatsen innebär det att du har dra av standardavgiften för Marketplace.
+- **Totalt belopp** – nettointäkterna. På den kommersiella marknadsplatsen innebär det att du har dra av standardavgiften för Marketplace.
 - **Status** – Har tre alternativ:
-    - **Kommande** – Intäkter är under väntande kylningsperiod.
+    - **Kommande** – Intäkter är under en väntande kylningsperiod.
     - **Bearbetade** – intäkter förbereds för nästa betalning.
     - **Sent** – Intäkter har betalats.
 - **Uppskattad betalningsmånad** – Den månad då intäkterna förväntas betalas. Mer information [finns i](#estimated-payment-month) nästa avsnitt.
@@ -89,7 +89,7 @@ Intäktstransaktioner visas när transaktionen uppfyller utbetalningsberättigan
 
 Sidan Transaktionshistorik innehåller nu en tabell som visar dina beräknade betalningsbelopp för de kommande månaderna. Du kan också visa och ladda ned den här informationen i exporterna av transaktionshistorik och sammanfattningsrapport. Den här informationen gör avstämningar och betalningsprognoser enklare.
 
-Beräknad betalningsmånad beräknas baserat på programkonfigurationsregler och tidslinjer och bearbetas i nästa/kommande betalningscykel.
+Den uppskattade betalningsmånaden beräknas baserat på programmets konfigurationsregler och tidslinjer och bearbetas i nästa/kommande betalningscykel.
 
 Beräknad betalningsmånad är för närvarande tillgänglig för alla intäktstyper utom co-op, som visas som **Ej tillämpligt.** För intäkter före 1 juli 2020 visas den uppskattade betalningsmånaden som **Ej tillgänglig.**
 
@@ -98,8 +98,8 @@ I följande tabell visas ett exempel på beräknad betalningsmånad.
 | Månad | Amount |
 | ------ | :-----------: |
 |  Sep-2020 |  7 273,99 USD   |
-|  Okt-2020 | 8 692,30 USD  |
-|  Nov-2020 | 107,89 USD  |
+|  Oktober 2020 | 8 692,30 USD  |
+|  Nov 2020 | 107,89 USD  |
 
 Det uppskattade beloppet kan variera från det faktiska beloppet av flera olika orsaker:
 
@@ -123,7 +123,7 @@ Om du vill se mer information om en **intjäning** väljer du Ladda ned överst 
 >Nedladdningsexporten för transaktionshistorik har två nya fält från augusti 2020:
 >
 >- **lastPaymentCurrency**  Valutan som den senaste betalningen togs emot i över alla MPN som partnern som är inloggad för närvarande har åtkomst till. Om ingen betalning tas emot blir den senaste betalningsvalutan amerikanska dollar.
->- **earningAmountInLastPaymentCurrency**  Intjänandebeloppet i den senaste betalningsvalutan.
+>- **earningAmountInLastPaymentCurrency**  Intjänandebelopp i den senaste betalningsvalutan.
 
 | Kolumnnamn | Description | Tillämplighet för incitamentprogram/marknadsplatser |
 | --- | --- | --- |
@@ -148,18 +148,18 @@ Om du vill se mer information om en **intjäning** väljer du Ladda ned överst 
 | earningType | Anger om det är avgift, betalning, samarbete, försäljning och så vidare | Alla |
 | exchangeRateDate | Exchange som används för att beräkna earningAmount USD | Alla |
 | externalReferenceId | Unik identifierare för programmet | Direkt betalningsprogram (incitament och marknadsplatser) |
-| externalReferenceIdLabel | Etikett för unik identifierare | Direkt betalningsprogram (incitament och marknadsplatser) |
+| externalReferenceIdLabel | Unik identifieraretikett | Direkt betalningsprogram (incitament och marknadsplatser) |
 | instantRebateAmount |  |  |
 | invoiceDate |  |  |
-| invoiceNumber | Fakturanummer (gäller endast företag) | Incitament och marknadsplatser – endast vissa program |
+| invoiceNumber | Fakturanummer (gäller endast för företag) | Incitament och marknadsplatser – endast vissa program |
 | lastPaymentCurrency | Senaste betalningsvaluta (fältet är tomt om ingen tidigare betalning har betalats) |  |
 | Spaken | Anger affärsregel för intjäning | Alla |
 | LicensingProgramName | Namn på licensprogrammet |  |
 | LineItemId | Enskild rad i en kunds faktura |  |
-| localProviderSeller | Lokal provider/säljare av post |  |
-| Mognadsmånad | Beräknad betalningsmånad | Alla |
+| localProviderSeller | Lokal leverantör/säljare av post |  |
+| Förfallomånad | Beräknad betalningsmånad | Alla |
 | OrderId | Relaterar till en kunds faktura  | Marknadsplatser |
-| parentProductId | Unik överordnad produktidentifierare. Om det inte finns någon överordnad produkt för transaktionen, så är överordnad produkt-ID = produkt-ID. | Marknadsplatser |
+| parentProductId | Unik överordnad produktidentifierare. Om det inte finns någon överordnad produkt för transaktionen, så är överordnad produkt-ID = Produkt-ID. | Marknadsplatser |
 | parentProductName | Namnet på den överordnade produkten. Om det inte finns någon överordnad produkt för transaktionen, så är överordnad produktnamn = produktnamn. | Marknadsplatser |
 | participantId | Den primära identiteten för partnern som tjänar under programmet | Alla |
 | participantIdType | Huvudsakligen program-ID för incitamentprogram och Seller IF för marknadsplatser | Alla |
@@ -186,7 +186,7 @@ Om du vill se mer information om en **intjäning** väljer du Ladda ned överst 
 | SkuId | SKU-ID enligt definitionen under publiceringen. Ett erbjudande kan ha många SKU:er, men en SKU kan bara associeras med ett enda erbjudande. Incitament – endast vissa program |  |
 | storeFee | Det belopp som Microsoft behåller som en avgift för att göra appen eller tillägget tillgängligt i Store | Marknadsplatser |
 | subscriptionEndDate | Slutdatum för prenumeration | Incitament – endast vissa program |
-| subscriptionId | Prenumerationsidentifierare som är associerad med kunden | Incitament – endast vissa program |
+| subscriptionId | Prenumerations-ID som är associerat med kunden | Incitament – endast vissa program |
 | subscriptionStartDate | Startdatum för prenumeration | Incitament – endast vissa program |
 | taxCity |  |  |
 | taxCountry |  |  |
@@ -194,11 +194,11 @@ Om du vill se mer information om en **intjäning** väljer du Ladda ned överst 
 | taxRemitted | Belopp som har efterförts (försäljning, användning eller moms/GST-skatter) | Marknadsplatser |
 | taxState | Kundens tillstånd |  |
 | taxZipCode | Kundens postnummer |  |
-| tpan | Anger ad-nätverk från tredje part | endast marketplaces Ads |
+| tpan | Anger ad-nätverket från tredje part | endast marketplaces-annonser |
 | transactionAmount | Transaktionsbelopp i den ursprungliga transaktionsvalutan baserat på vilken intjäning som genereras | Alla |
 | transactionAmountUSD | Transaktionsbelopp i USD | Alla |
 | transactionCountryCode | Lands-/regionskod där transaktionen skedde |  |
-| transactionCurrency | Valuta där den ursprungliga kundtransaktionen skedde (detta är inte partnerplatsens valuta) | Alla |
+| transactionCurrency | Valuta där den ursprungliga kundtransaktionen ägde rum (detta är inte partnerplatsens valuta) | Alla |
 | transactionDate | Datum för transaktionen. Användbart för program där många transaktioner bidrar till en intjäning | Alla |
 | transactionExchangeRate | Exchange som används för att visa motsvarande transaktionsbelopp i USD | Alla |
 | transactionId | Unik identifierare för transaktionen | Alla |
@@ -213,27 +213,27 @@ I följande tabell visas orsakskoder för justeringar och deras beskrivningar.
 
 |**Orsakskod**   |**Beskrivning**   |
 |------------------|:-------------------------------------|
-| AR-efterlevnad | Justering som minskar intäkterna när microsoftfakturor inte betalas i tid av partnern. |
+| AR-efterlevnad | Justering som minskar intäkterna när Microsoft-fakturor inte betalas i tid av partnern. |
 | Co-op rollover | Justering som överför co-op-intäkter till en annan period eller konverterar co-op-intäkter till kunden. |
-| Justering av ops | Justering som korrigerar Microsofts systemberäkningsfel. |
-| Felaktig beräkning för Ops-justering från Microsoft | Justering som korrigerar felberäkningar. |
-| Ops Adjustment Microsoft incorrect enrollment (Ops-justering av felaktig registrering från Microsoft) | Justering för registreringsrelaterade felberäkningar. |
-| Partnermappning (prenumeration) MCI/CSP | Justering som korrigerar prenumerationsfeljusteringen. |
+| Justering av operativa program | Justering som korrigerar microsofts systemberäkningsfel. |
+| Felaktig beräkning för Ops-justering i Microsoft | Justering som korrigerar felberäkningar. |
+| Ops Adjustment Microsoft incorrect enrollment | Justering för registreringsrelaterade felberäkningar. |
+| Partnermappning (prenumeration) MCI/CSP | Justering som korrigerar prenumerationsfeljustering. |
 | Principfel | Justering som åsidosätter en programregel.  |
 | Intäkter från föregående period | Justering för intäkter utanför den aktuella intjäningsperioden. |
 
 ## <a name="payments"></a>Betalningar
 
-Sidan **Betalningar** innehåller information om de pengar du har fått med Microsoft. Den visar även när och hur mycket du får betalt.
+Sidan **Betalningar** innehåller information om de pengar du har fått av Microsoft. Den visar också när och hur mycket du kommer att betalas.
 
 >[!Note]
 > För att vara berättigad till utbetalning måste dina intäkter nå [betalningströskeln](payment-thresholds-methods-timeframes.md) på 50 USD. Mer information finns i [Microsoft Publisher avtal](/legal/marketplace/msft-publisher-agreement).
 
 :::image type="content" source="images/payouts/payments-overview.png" alt-text="Skärmen Betalningsöversikt.":::
 
-- **Totalt betalt i år** – Den sammanlagda summan som betalas ut till dig i år, i amerikanska dollar, för alla dina program.
+- **Totalt antal som betalas** i år – den sammanlagda summan som betalas ut till dig i år, i amerikanska dollar, för alla dina program.
 - **Nästa beräknade betalning** – Den enda nästa betalningen kommer till dig (även om det kommer andra snart) i amerikanska dollar.
-- **Senaste betalning** – Belopp (i amerikanska dollar), programnamn och program för din senaste betalning.
+- **Senaste betalning** – Beloppet (i amerikanska dollar), programnamnet och programmet för din senaste betalning.
 - **Betalning efter källa** – Betalningsbelopp (i amerikanska dollar) per program under de senaste 12 månaderna.
 
 ### <a name="payments-list"></a>Betalningslista
@@ -242,31 +242,31 @@ I **tabellen Lista över betalningar** visas betalda och väntande betalningar. 
 
 :::image type="content" source="images/payouts/list-of-payments.png" alt-text="Exportera transaktionshistorik.":::
 
-- **Betald** – Alla betalningar har skickats. Välj året i den nedrullningsna menyn för att filtrera fram de betalningar som gavs ut under det året.
+- **Betald** – Alla betalningar har skickats. Välj år i den nedrullningsna menyn för att filtrera fram de betalningar som gavs ut under det året.
 - **Väntar –** kommande betalningar.
-- **Skatt på tjänstavgifter (PDF-formulär)** – Tillgängligt för betalningar som har debiterats för serviceavgiftsskatt. Skatter på tjänstavgifter visas i **Andra skatter**.
+- **Skatt på tjänstavgifter (PDF-formulär)** – Tillgängligt för betalningar som har debiterats för serviceavgiftsskatt. Skatter på tjänstavgifter visas i **Andra skatter.**
 - **Visa** – Omdirigerar till transaktionshistoriken med en lista över intäkter som ingår i betalningen.
 
-Information om varför du kan ha uteblivna eller oväntade intäkter finns i [Vanliga frågor om utbetalning från den kommersiella marknadsplatsen.](payout-faq.yml#why-are-my-earnings-missing-)
+Information om varför du kan ha saknade eller oväntade intäkter finns i [Vanliga frågor om utbetalning på den kommersiella marknadsplatsen.](payout-faq.yml#why-are-my-earnings-missing-)
 
 ### <a name="payment-status"></a>Betalningstatus
 
-I följande tabell förklaras de olika intäktsstatusarna.
+I följande tabell beskrivs olika intäktsstatusar.
 
 | Intäktsstatus | Anledning | Partneråtgärd krävs? |
 | --- | --- | --- |
-| Obearbetade | Intjäning är berättigad till betalning. Den förblir i det här tillståndet under en kylningsperiod enligt definitionen i programguiden för Incitamentsprogram. | Inga |
-| Kommande | En betalningsorder genereras i väntan på interna granskningar innan betalningen bearbetas. | Inga |
-| Väntande momsfaktura | Din skattefaktura är ofullständig eller ogiltig. | Du måste uppdatera din skattefaktura innan du kan betalas |
-| Avvisades under granskning | Betalningen avvisades under granskningen. | Kontakta Microsoft-supporten om du vill ha mer information |
-| Misslyckad | Betalningen misslyckades på grund av ett systemfel från Microsoft. | Kontakta Microsoft-supporten om du vill ha mer information |
-| Pågår | Betalningen pågår. | Inga |
-| Felaktig betalning | Betalningsrecouping pågår. | Inga |
-| Skickat | Betalningen har skickats till din bank. | Inga |
-| Upparbetning | Betalningen påträffade ett Systemfel från Microsoft och bearbetas om. | Inga |
-| Reversed | Betalningen har ångrats av din bank och skickas igen i nästa betalningscykel. | Inga |
-| Skattefaktura avvisad | Din skattefaktura avvisades under granskningen. Alla väntande betalningar är kvar tills granskningen av skattefakturan är klar. | Kontakta Microsoft-supporten om du vill ha mer information |
-| Skattefaktura under granskning | Din skattefaktura granskas. Betalningen frisläpps när momsfakturan har godkänts. | Inga |
+| Obearbetade | Intjäning är berättigad till betalning. Den förblir i det här tillståndet under en kylningsperiod enligt definitionen i programguiden för Incitamentsprogram. | No |
+| Kommande | Betalningsordern genererade väntande interna granskningar innan betalningen bearbetas. | No |
+| Väntande momsfaktura | Din momsfaktura är ofullständig eller ogiltig. | Du måste uppdatera din momsfaktura innan du kan betalas |
+| Avvisades under granskning | Betalningen avvisades under granskningen. | Kontakta Microsofts support för mer information |
+| Misslyckad | Betalningen misslyckades på grund av ett systemfel från Microsoft. | Kontakta Microsofts support för mer information |
+| Pågår | Betalningen pågår. | No |
+| Felaktig betalning | Betalningsrecouping pågår. | No |
+| Skickat | Betalningen har skickats till din bank. | No |
+| Upparbetning | Betalningen påträffade ett Microsoft-systemfel och bearbetas om. | No |
+| Reversed | Betalningen har återförts av din bank och skickas igen i nästa betalningscykel. | No |
+| Skattefakturan avvisades | Din skattefaktura avvisades under granskningen. Alla väntande betalningar är kvar tills granskningen av skattefakturan är klar. | Kontakta Microsofts support för mer information |
+| Skattefaktura under granskning | Din skattefaktura granskas. Betalningen kommer att släppas när momsfakturan har godkänts. | No |
 | Avslagen | Betalningen avvisades av din bank. | Kontakta din bank för mer information. |
 |
 
@@ -276,17 +276,17 @@ I följande tabell förklaras de olika intäktsstatusarna.
 
 | Kolumnnamn | Description |
 | --- | --- |
-| participantID | Den primära identiteten för partnern som tjänar under programmet |
+| deltagar-ID | Den primära identiteten för partnern som tjänar under programmet |
 | participantIDType | Vanligtvis program-ID för incitamentsprogram och säljar-ID för butiksprogram |
 | participantName | Namnet på intäktspartnern |
 | programName | Incitament/butiksprogramnamn |
-| Tjänat | Belopp som intjänats i betala till-valutan för det programmet/deltagar-ID:t |
-| earnedUSD | Belopp som intjänats för programmet/deltagar-ID:t i USD |
-| withtax | Belopp skatt som intrigt i betala till-valutan för programmet/deltagar-ID:t |
-| salesTax | Totalt belopp för moms i betala till-valutan för programmet/deltagar-ID:t (gäller endast för incitamentsprogram) |
-| serviceFeeTax | Total mängd serviceFeeTax i betala till-valuta för program/deltagar-ID (gäller endast för butiksprogram Azure Marketplace) |
+| Tjänat | Belopp som intjänats i betala till-valutan för programmet/deltagar-ID:t |
+| earnedUSD | Belopp som intjänats för program-/deltagar-ID i USD |
+| withtax | Belopp av skatt som medinlässas i betala till-valutan för programmet/deltagar-ID |
+| salesTax | Totalt belopp för moms i betala till-valutan för programmet/deltagar-ID :t (gäller endast för incitamentsprogram) |
+| serviceFeeTax | Total mängd serviceFeeTax i betala till-valuta för program/deltagar-ID (gäller endast för butiksprogram och Azure Marketplace) |
 | totalbetalning | Total betalning i lokal valuta exklusive källskatten och inklusive momsen (om tillämpligt) för programmet/deltagar-ID:t |
-| currencyCode | Betala till valutakod |
+| currencyCode | Valutakod för Betala till |
 | paymentMethod | Den metod som används för att betala partnern, till exempel elektronisk banköverföring, kreditnota |
 | paymentID | Unik identifierare för betalningen. Det här numret visas vanligtvis i ditt bankutdrag (gäller endast SAP-betalningar). |
 | paymentStatus | Betalningstatus |
@@ -296,9 +296,9 @@ I följande tabell förklaras de olika intäktsstatusarna.
 
 ## <a name="export-data"></a>Exportera data
 
-Sidan **Exportera data** uppdateras inte på egen hand. Du kan behöva uppdatera sidan manuellt för att se de senaste data. Välj mellan de tre flikarna för att exportera antingen **transaktionshistorik,** **betalningar,** **transaktionssammanfattning** eller **historiska utdrag**.
+Sidan **Exportera data** uppdateras inte på egen hand. Du kan behöva uppdatera sidan manuellt för att se de senaste data. Välj på de tre flikarna för att exportera antingen **Transaktionshistorik,** **Betalningar,** **Transaktionssammanfattning** eller **historikutdrag**.
 
-Ditt filter kan resultera i felet **Inga data** är tillgängliga. Detta kan inträffa om du har lämnat standardtidsperioden markerad i tre månader och sedan valt ett betalnings-ID från en intjäning som ligger utanför den perioden. Om det händer expanderar du tidsperioden och försöker igen.
+Filtret kan resultera i felet **Inga data** är tillgängliga. Detta kan inträffa om du lämnar den standardtidsperiod som valts i tre månader och sedan har valt ett betalnings-ID från en intjäning som ligger utanför den perioden. Om det händer expanderar du tidsperioden och försöker igen.
 
 Här är ett exempel på en betalningsexport:
 
@@ -309,7 +309,7 @@ Här är ett exempel på en betalningsexport:
 Sammanfattningen **Exportera data** ger också åtkomst till historiska instruktioner.
 
 > [!NOTE]
-> En historisk instruktion är en ögonblicksbild och uppdateras inte. Kontakta [supporten och](https://partner.microsoft.com/support/v2/?stage=1) begär den senaste informationen om det behövs.
+> En historisk instruktion är en ögonblicksbild och uppdateras inte. Kontakta [supporten](https://partner.microsoft.com/support/v2/?stage=1) och begär den senaste informationen om det behövs.
 
 :::image type="content" source="images/payouts/pc-export-statements.png" alt-text="Exportera historiska instruktioner.":::
 
@@ -321,7 +321,7 @@ Sammanfattningen **Exportera data** ger också åtkomst till historiska instrukt
 
 I följande tabell förklaras varje kolumn i en historisk instruktion.
 
-| Fältnamn | Beskrivning |
+| Fältnamn | Description |
 | --- | --- |
 | Intäktskälla | Källan till dina intäkter baserat på var transaktionen skedde, till exempel Microsoft Store, Windows Phone Store, Windows Store 8 eller annonsering |
 | Order-ID | Unik orderidentifierare. Med detta ID kan du identifiera inköpstransaktioner med deras respektive icke-köptransaktioner, till exempel återbetalningar eller återbetalningar. Båda har samma order-ID. Om det finns en delad avgift där flera betalningsmetoder användes för ett enda köp kan du länka inköpstransaktionerna. |
@@ -343,8 +343,8 @@ I följande tabell förklaras varje kolumn i en historisk instruktion.
 | Nettokvitton | Transaktionsbelopp som är mindre än skatt som har efterkänds |
 | Butiksavgift | Procentandelen nettokvitton som kvarhålls av Microsoft som en avgift för att göra appen eller tillägget tillgängligt i Store |
 | Appintäkter | Nettokvitton minus butiksavgiften |
-| Skatter som med uppskattas | Belopp av inkomstskatt som medskatt (ingår inte i **den reserverade** CSV-filen) |
-| Payment | Appen intäkter minus eventuell tillämplig källskatt (belopp som visas i transaktionsvalutan). Ingår inte i **reserverad** CSV-fil. |
+| Skatter som med uppskattas | Belopp av inkomstskatt som medintäkt (ingår i **den reserverade** CSV-filen) |
+| Payment | Appen fortsätter minus eventuell tillämplig källskatt (belopp som visas i transaktionsvalutan). Ingår inte i **den reserverade** CSV-filen. |
 | FX-hastighet | Växelkurs som används för att konvertera transaktionsvaluta till betalningsvaluta |
 | Betalningsvaluta | Valuta som betalningen görs i |
 | Konverterad betalning | Betalningsbelopp som konverterats till betalningsvaluta med hjälp av FX-priset |

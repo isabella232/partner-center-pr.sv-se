@@ -8,30 +8,30 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 10/29/2020
-ms.openlocfilehash: bf4e155eb9ca6a7bf8e2a6ad2a5f1f2a5f0b40c2
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 70734119f7823eb447e616384a2ad8a65efcbb51596be3bdc9db665c126cf55e
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845286"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693511"
 ---
 # <a name="manage-incentives-co-op-claims"></a>Hantera co-op-anspråk för incitament
 
 **Lämpliga roller:** Incitamentsadministratör
 
-Följande innehåll ger dig information för att hantera co-op-anspråk, inklusive tidslinjer, regler och hur du bestrider ett avvisat co-op-anspråk.
+Följande innehåll ger dig information för att hantera gemensamma anspråk, inklusive tidslinjer, regler och hur du bestrider ett avvisat co-op-anspråk.
 
 ## <a name="co-op-claims-approval-and-payment-deadlines"></a>Godkännande av co-op-anspråk och tidsgränser för betalning
 
-### <a name="when-will-my-co-op-claim-be-approved"></a>När godkänns mitt co-op-anspråk?
+### <a name="when-will-my-co-op-claim-be-approved"></a>När kommer mitt co-op-anspråk att godkännas?
 
-Co-op-anspråk granskas inom två arbetsdagar efter att de har skickats. När de anses vara giltiga anges de till Godkänd-status.  
+Co-op-anspråk granskas inom två arbetsdagar efter att de har skickats. När de anses vara giltiga ställs de in på Godkänd-status.  
 
 Följande är de olika möjliga statusarna för dina co-op-anspråk.
 
 - Skickad
 - Under granskning
-  - Microsoft slutför sin granskning inom två arbetsdagar från det att anspråket skickades. Om din status är under granskning i mer än två dagar kontaktar du [supporten.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
+  - Microsoft slutför sin granskning inom två arbetsdagar efter att anspråket har skickats. Kontakta supporten om din status granskas i mer än två [dagar.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
 - Åtgärd som krävs
 - Redigering
 - Godkända
@@ -59,7 +59,7 @@ Om det material som du skickade in med ditt co-op-anspråk bedöms vara otillrä
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 
-2. Under **Incitament** väljer **du Samhantering.**
+2. Under **Incitament** väljer du **Samhantering.**
 
 3. Välj det co-op-anspråk som du vill bestrida. Sidan för co-op-anspråk öppnas.
 

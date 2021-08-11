@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d03300ec89a877af3e02b6bd6567f6b1a832a397
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 7db8a3a7cd960532ed99f5c2a5262b0f37a8b4ef011325b8bb0d9685cfefdae0
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115101744"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693222"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Priser och erbjudanden för Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure med mera
 
@@ -52,7 +52,7 @@ Licensbaserade tjänster innehåller en förhandsversion av prislistan, som till
 |Typ av licensavtal   |Licensavtalstyper kan vara antingen företags-, myndighets- eller akademiskt. Avtalstypen avgör vilka kundtyper erbjudandet kan säljas till.|
 |Inköpsenhet   |Varaktigheten för erbjudandet som köps. Inköpsenheter är vanligtvis en månad.   |
 |Sekundär licenstyp   |Sekundära licenstyper är antingen icke-specifika, tillägg eller utvärderingsversion. Tillägg anger att det finns nödvändiga produkter som kunden måste köpa innan de köper tillägget.|
-|Slutkundtyp   |Relaterar tillbaka till licensavtalstypen: företagslicens – företagets molnåterförsäljare, myndighetslicens – molnåterförsäljares myndighetslicens eller akademisk licens – lärare och lärare i molnet eller molnåterförsäljare   |
+|Slutkundtyp   |Relaterar tillbaka till licensavtalstyp: företagslicens – molnåterförsäljares företag, myndighetslicens – molnåterförsäljares myndighetslicens eller akademisk licens – lärare och lärare i molnet eller molnåterförsäljare   |
 |Listpris   |Det pris som partnern ska betala   |
 |ERP-pris   |Beräknat eller rekommenderat detaljhandelspris för kunden   |
 
@@ -89,7 +89,7 @@ Partnermarginaler, skillnaden mellan listpriset och de uppskattade detaljhandels
 
 ## <a name="add-on-offer-types"></a>Erbjudandetyper för tillägg
 
-Licensbaserade tjänster kan förvärvas antingen som baserbjudanden eller tillägg. Endast baserbjudanden kan upptäckas och rensas via Partner Center-katalogen. Du måste använda tillägg när du har köpt baserbjudandena. Kolumnen sekundär licenstyp i **den licensbaserade prislistan** innehåller information om varje erbjudande och dess typ. Baserbjudanden har **icke-specifika** värden i kolumnen sekundär licenstyp i prislistan och kan köpas i katalogen. Sekundära licenstypvärden **för tillägg kan** inte köpas i katalogen. Så här köper du dessa tillägg:
+Licensbaserade tjänster kan förvärvas antingen som baserbjudanden eller tillägg. Endast baserbjudanden kan upptäckas och rensas via Partner Center-katalogen. Du måste använda tillägg när du har köpt baserbjudandena. Kolumnen Sekundär licenstyp i **den licensbaserade prislistan** innehåller information om varje erbjudande och dess typ. Baserbjudanden har **icke-specifika** värden i kolumnen sekundär licenstyp i prislistan och kan köpas i katalogen. Sekundära licenstypvärden **för tillägg kan** inte köpas i katalogen. Så här köper du dessa tillägg:
 
 1. Läs erbjudandelistans matris om du vill se en lista över erbjudande-ID:er som måste köpas innan du kan köpa ett tillägg.
 2. Köpa baserbjudandet från katalogen
@@ -137,7 +137,7 @@ Alla priser i Partner Center CSP-prislistor är skatteomfattande. Mer informatio
 
 Vissa erbjudanden kräver att partnern accepterar innan köpet. Den här processen kallas attestation och från och med 1 augusti 2021 är de enda erbjudanden som kräver attestation Windows 365 Business-erbjudanden med Windows Hybrid Benefit. Partner ser text på granskningsskärmen när de köper dessa erbjudanden: "Jag förstår att varje person som använder Windows 365 Business med Windows Hybrid-förmån även måste ha en giltig kopia av Windows 10/11 Pro installerad på sin primära arbetsenhet." Partner måste godkänna detta innan de köper.
 
-Attestation gäller både för Partner Center-portalen och partnercenter-API:erna när du skickar beställningar och checkar ut kundvagnar. Partner kan avgöra vilka erbjudanden som kräver attestation genom att kontrollera attestationProperties på [erbjudandet eller](/partner-center/develop/offer-resources#attestationproperties) [SKU-objekt.](/partner-center/develop/product-resources#attestationproperties) De här egenskaperna förklarar attestationstypen och om attestation framtvingas för inköp (enforceAttestation=True). Om det behövs ställer partner helt enkelt in AttestationAccepted till true i kundvagnen eller [orderraderna](/partner-center/develop/cart-resources).
+Attestation gäller både för Partner Center-portalen och Partner Center-API:erna när du skickar beställningar och checkar ut kundvagnar. Partner kan avgöra vilka erbjudanden som kräver attestation genom att kontrollera attestationProperties för [erbjudandet eller](/partner-center/develop/offer-resources#attestationproperties) [SKU-objekt.](/partner-center/develop/product-resources#attestationproperties) De här egenskaperna förklarar attestationstypen och om attestation framtvingas för inköp (enforceAttestation=True). Om det behövs ställer partner helt enkelt in AttestationAccepted till true i kundvagnen eller [orderraderna](/partner-center/develop/cart-resources).
 
 Nedan visas erbjudanden som för närvarande kräver attestation före inköp.
 
@@ -184,7 +184,7 @@ Nedan visas en sammanfattning av hur dessa erbjudanden fungerar:
 
 - Perioden gäller i 72 månader eller sex år
 - Prenumerationen förnyas inte och upphör att gälla efter sex år
-- Faktureringsfrekvensen för erbjudandet visas som årlig, men partnern faktureras i början på sin första faktura efter att ha skaffat prenumerationen
+- Faktureringsfrekvensen för erbjudandet visas som årlig, men partnern faktureras direkt på sin första faktura efter att ha skaffat prenumerationen
 - Prenumerationer för A1 72-månaderserbjudanden låses efter köpet och kan inte avbrytas och licensantal kan inte läggas till i prenumerationen efter det första köpet
 - Den här prenumerationen kan inte avbrytas och kan inte återbetalas.
 
@@ -201,7 +201,7 @@ De flesta prislistor innehåller ett listpris, det pris som partnern faktureras 
 |Azure-reservationer  |Finns i motsvarande prislistor för delade tjänster  |
 |Användningsbaserad azure-plan  |Priserna är detaljhandel, inte rabatterade i prismallar  |
 |Azure-planreservationer  |Referera till prislistor för delade Azure-reservationer  |
-|Programvaruprenumerationer  |Listad som MSRP i prislistor för programvaruprenumerationer  |
+|Programvaruprenumerationer  |Visas som MSRP i programvaruprenumerationers prislistor  |
 |Marketplace  |Visas som MSRP i Marketplace-prislistor  |
 
 Fler resurser: 

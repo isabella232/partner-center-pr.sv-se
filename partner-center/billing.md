@@ -9,12 +9,12 @@ ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 04/05/2020
-ms.openlocfilehash: bb7bea476a79096890e3ae33c0256200eae18968
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: cb3edae4b0b5a9687dc25006fde9db86143860d9b44aa790f62fd1340e5deab8
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840747"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692984"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Översikt: Huvudartiklar om fakturering och skatt i Partnercenter
 
@@ -23,7 +23,7 @@ ms.locfileid: "114840747"
 Den här artikeln innehåller länkar till information om fakturerings- och skatteämnen i Partnercenter, inklusive faktureringsresurser, fakturor, CSP-fakturering och skatter.
 
 
-| Avsnitt | Beskrivning |
+| Avsnitt | Description |
 | ----- | ----------- |
 | [Grundläggande information om fakturering](billing-basics.md) | Grunderna i Fakturering i Partnercenter (inklusive betalningar, fakturor och avstämningsfiler). |
 | [Typer av fakturering](./billing-basics.md) | Förklaring av olika typer av fakturering i Partnercenter. |
@@ -36,7 +36,7 @@ Den här artikeln innehåller länkar till information om fakturerings- och skat
 | [Utebliven betalning, bedrägeri eller missbruk](non-payment-fraud-misuse.md) | Hur du hanterar utebliven betalning, bedrägeri eller missbruk av dina kunder i Partnercenter. |
 | [Begära en SLA-kredit för avbrott](request-credit.md) | Så här begär du en SLA-kredit från Microsoft för dina kunder vid ett tjänstavbrott. |
 
-Om du letar efter faktureringsinformation och resurser för Partnercenter-API:et kan du läsa dokumentationen [för utvecklarfakturering.](/partner-center/develop/manage-billing)
+Om du letar efter faktureringsinformation och resurser för Partnercenter-API:et kan du läsa [faktureringsdokumentationen för utvecklare.](/partner-center/develop/manage-billing)
 
 ## <a name="next-steps"></a>Nästa steg
 
