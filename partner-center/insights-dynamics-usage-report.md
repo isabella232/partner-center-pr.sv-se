@@ -8,12 +8,12 @@ description: Se vad du gör bra och var du kan förbättra användningen av Dyna
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: ecc4edbd509557da1314eb7e54fcc013e41682a7
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 7476106e92334000c59e566758bb2bd1f1dd415f6142f07e458b2aa9f5c62b41
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838316"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690693"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Dynamics-användningsrapport som är tillgänglig från Partnercenter Insights instrumentpanel
 
@@ -76,7 +76,7 @@ Prenumerationsprestanda visar den månatliga trenden för aktiv användning per 
 
 ## <a name="dynamics-usage-distribution"></a>Dynamics-användningsdistribution
 
-Dynamics-användningsdistributionen visar uppdelningen av tillgängliga platser, aktiva platser och tilldelade platser efter SKU:er.
+Distributionen av Dynamics-användning visar uppdelningen av tillgängliga platser, aktiva platser och tilldelade platser efter SKU:er.
 
 :::image type="content" source="images/insights/dynamics-usage-distribution.png" alt-text="Dynamics-användningsdistribution.":::
 

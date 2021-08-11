@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4184d155ceff22a34e1a85d2909f4e1b17a46daa
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 5443dedfcae17152b51df7aa021d900b2f61892509c85ba3c2ba99cb0b9b3a8d
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148881"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692678"
 ---
 # <a name="solution-assessment-payment-status-and-calculation-info"></a>Betalningsstatus och beräkningsinformation för Solution Assessment
 
@@ -37,18 +37,18 @@ Du kan granska betalningsstatusen för en affärsmöjlighetsstatus för solution
 
     - Väntande betalningsgranskning: Kontakta Channel Incentives-teamet för vidare undersökning – kontaktuppgifter som anges nedan.
     - Godkänd betalning: Betalningen renderas av Microsoft inom 35 dagar från slutet av månaden efter EM-certifieringen av engagement-slutförande i CHIP där betalningsbegäran skapades
-    -  Skickad betalning: Klicka på statushyperlänken för att visa betalningsinformation.
+    -  Betalning skickat: Klicka på statuslänken för att visa betalningsinformation.
     - Betalningen avbröts: Klicka på statushyperlänken för att visa avvisningsorsaken. Kontakta Channel Incentives-teamet om du vill ha mer information.
 
-## <a name="calculations-for-solutions-assessment"></a>Beräkningar för lösningsbedömning
+## <a name="calculations-for-solutions-assessment"></a>Beräkningar för utvärdering av lösningar
 
-Med hjälp av de definierade avgiftsschemana beräknar och bearbetar Microsofts regionala driftcentraler de associerade incitamentavgifterna, och betalningar utfärdas månadsvis.
+Med hjälp av de definierade avgiftsschemana beräknar och bearbetar Microsofts regionala driftcentraler de associerade incitamentavgifterna, där betalningar utfärdas månadsvis.
 
 Affärsmöjligheter måste ha alla följande attribut för att visas i den här rapporten för betalningsgodkännande:
 
-1. Solution Assessment Incentive måste godkännas.
+1. Incitamentet för lösningsbedömning måste godkännas.
 
-1. Lokal attributnivå för lösningsutvärdering engagemangsnivå anges för engagemanget när incitamentet godkänns i MSX.
+1. Lokalt attribut för lösningsutvärdering engagemangsnivå Frekvensnivå anges för engagemanget vid tidpunkten då incitamentet godkänns i MSX.
  
 1. Kryssrutan "EM Review" måste vara markerad och skickad av EM i CHIP.
 

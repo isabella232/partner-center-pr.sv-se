@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: fafd9e2c13abb1f4b9b12e5839662b27c4852452
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: c3b1e4a6ce105197a2f4722e7d29dd9076d8d4cb5d40266075706cb6ff68989d
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842107"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115684627"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Få behörighet att hantera en kunds tjänst eller prenumeration
 

@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8124d05f971149cffe0d4c49f7ec68c38ea54156
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: a9868f09ebf3311be72799b729952eca12695d9790f9190ad90a8e660dad3c7b
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836360"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692117"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Köp eller förnya en Microsoft Action Pack-prenumeration eller silver- eller guldkompetens
 
@@ -42,7 +42,7 @@ Bli [en kompetenspartner.](https://partner.microsoft.com/membership/competencies
 ### <a name="check-your-renewal-eligibility"></a>Kontrollera din behörighet för förnyelse
 
 >[!IMPORTANT]
->Om du uppmanas att förnya din prenumeration i Partnercenter bör du observera att vi har ändrat principen för förnyelseperiod och att du bara kan förnya prenumerationen när den upphör att gälla. Om din prenumeration till exempel upphör att gälla den 22 juni kan du förnya den från och med 23 juni och med 30 dagar senare.
+>Om du uppmanas att förnya din prenumeration i Partnercenter bör du observera att vi har ändrat vår förnyelseperiodprincip och att du bara kan förnya prenumerationen när den upphör att gälla. Om din prenumeration till exempel upphör att gälla den 22 juni kan du förnya den från och med 23 juni och med 30 dagar senare.
 >Du hittar förfallodatumet för prenumerationen på sidan [**med medlemskapserbjudanden**](https://partnercenter.microsoft.com/pcv/partnership/offers) (inloggning krävs). Följ stegen nedan när du är berättigad att förnya i Partnercenter.  
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Förnya en Microsoft Action Pack prenumeration i Partnercenter

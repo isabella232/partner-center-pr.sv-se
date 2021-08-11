@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e897aad48dd04489e340952ba4cd4e27f7e2a9de
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 6ba743570ae1d4cb07d45e82a6f0a65c46d5458c5b9a9416deebb3a50292e844
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115101324"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115685776"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Hur partnerintjänad kredit beräknas och betalas
 
@@ -22,9 +22,9 @@ ms.locfileid: "115101324"
 
 Partner-intjänad kredit (PEC) för hanterade tjänster identifierar och delar ut förmåner till partner som äger IT-driftkontroll och hantering av en eller flera kunders Azure-miljöer. 
 
-Som CSP-partner beviljas du som standard de nödvändiga åtkomsträttigheterna till kundens prenumeration, så att du kan utföra drifthantering och kontroll över resurserna i prenumerationen. Andra sätt på vilka kunder kan etablera åtkomst för att köpa partners beskrivs i följande avsnitt.
+Som CSP-partner beviljas du som standard nödvändiga åtkomsträttigheter till kundens prenumeration, så att du kan utföra drifthantering och kontroll över resurserna i prenumerationen. Andra sätt på vilka kunder kan etablera åtkomst för att köpa partners beskrivs i följande avsnitt.
 
-Det månatliga fakturabeloppet är nettot av partnerns intjänade kredit. Du kan se PEC-information i din månatliga rekognoseringsfil. Mer information om hur en kund kan etablera åtkomst för transacting-partnern finns i följande artiklar:
+Det månatliga fakturabeloppet är netto för partnerns intjänade kredit. Du kan se PEC-information i din månatliga rekognoseringsfil. Mer information om hur en kund kan etablera åtkomst för den transacting-partnern finns i följande artiklar:
 
 - [Hantera prenumerationer och resurser under Azure-planen](azure-plan-manage.md)
 - [Återställ administratörsbehörigheter för Azure CSP-prenumerationer](/revoke-reinstate-csp.md)
@@ -52,7 +52,7 @@ Mer information om berättigande finns i Roller [och behörigheter som krävs f�
 
 ## <a name="calculation"></a>Beräkning
 
-PEC beräknas dagligen. Du betalar för varje dag som du har PEC-berättigad åtkomst för varje prenumeration. Även om PEC-information inte visas på månadsfakturan räknas PEC-intäkter in i raden med justerade nettoavgifter på fakturan. Du hittar mer information om PEC i filen [för daglig användning och](daily-rated-usage-recon-files.md) i filen med månatliga fakturarekognosering.
+PEC beräknas dagligen. Du betalar för varje dag som du har PEC-berättigad åtkomst för varje prenumeration. Även om PEC-information inte visas på månadsfakturan räknas PEC-intäkter in i raden med justerade nettoavgifter på fakturan. Du hittar mer information om PEC i filen [med daglig användning och](daily-rated-usage-recon-files.md) i rekognoseringsfilen för månadsfakturan.
 
 I tabellen nedan beskrivs de PEC-element som finns i rekognoseringsfilen för månadsfaktura. Alla värden är i USD, som du ser i kolumnen AI, PricingCurrency.
 
@@ -75,7 +75,7 @@ Ett PEC-API är tillgängligt som en del av Azure API-verktygsuppsättningen. In
 
 ## <a name="azure-cost-management-and-pec"></a>Azure Cost Management och PEC
 
-Azure Cost Management (ACM) med hjälp av kostnadsanalys kan du som partner visa de kostnader som har fått fördelen med PEC. En detaljerad presentation om ACM finns i CSP Spotlight-anropet från [maj 2021.](https://commercial_licensing.eventbuilder.com/2021MayCSPSpotlight)
+Azure Cost Management (ACM) med hjälp av kostnadsanalys kan du som partner visa de kostnader som har fått fördelen med PEC. En detaljerad presentation av ACM finns i CSP Spotlight-anropet från [maj 2021.](https://commercial_licensing.eventbuilder.com/2021MayCSPSpotlight)
 
 ## <a name="use-acm-to-view-your-partner-earned-credit"></a>Använda ACM för att visa din partners intjänade kredit
 

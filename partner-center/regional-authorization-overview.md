@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 33b60bd301a1493e7e722e26b3ff16128f4e9888
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 487bfb1356d378d1fcbd262dd00ee311e33870712ddb595c8da431f80ab02b1b
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115100454"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115691879"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Molnlösningsleverantör programmets regionala marknader och valutor där du kan sälja CSP-erbjudanden
 
@@ -99,9 +99,9 @@ Om företagets plats finns i listan nedan kan du sälja CSP-erbjudanden till kun
 | Zambia                   |   USD    |
 |
 
-## <a name="asia-and-pacific-region-and-market"></a>Region och marknad i Asien och Stillahavsområdet
+## <a name="asia-and-pacific-region-and-market"></a>Asien och Stillahavsområdet och marknaden
 
-Om företagets plats finns i listan nedan kan du sälja CSP-erbjudanden till kunder på alla platser i listan.
+Om ditt företags plats finns i listan nedan kan du sälja CSP-erbjudanden till kunder på alla platser i listan.
 
 | Land/region     | Valuta |
 | --------------     |:--------:|
@@ -127,7 +127,7 @@ Om företagets plats finns i listan nedan kan du sälja CSP-erbjudanden till kun
 
 ## <a name="australia-region-and-market"></a>Australien, region och marknad
 
-Om företagets plats finns i listan nedan kan du sälja CSP-erbjudanden till kunder på alla platser i listan.
+Om ditt företags plats finns i listan nedan kan du sälja CSP-erbjudanden till kunder på alla platser i listan.
 
 |  Land/region        | Valuta |
 |  --------------        |:--------:|
@@ -153,7 +153,7 @@ Om företagets plats finns i listan nedan kan du sälja CSP-erbjudanden till kun
 |  Tokelau               |   AUD    |
 |  Tonga                 |   AUD    |
 |  Tuvalu                |   AUD    |
-|  Wallis och Spanuna     |   AUD    |
+|  Wallis ochUna     |   AUD    |
 |
 
 ## <a name="brazil-region-and-market"></a>Brasilien, region och marknad
@@ -167,7 +167,7 @@ Om ditt företags plats är Brasilien kan du sälja CSP-erbjudanden till kunder 
 
 ## <a name="canada-region-and-market"></a>Kanada, region och marknad
 
-Om företagets plats finns i listan nedan kan du sälja CSP-erbjudanden till kunder på alla platser i listan.
+Om ditt företags plats finns i listan nedan kan du sälja CSP-erbjudanden till kunder på alla platser i listan.
 
 |  Land/region | Valuta |
 |  -------------- |:--------:|
@@ -183,9 +183,9 @@ Om ditt företags plats är Kina kan du sälja CSP-erbjudanden till kunder i Kin
 |  -------------- |:--------:|
 |  Kina        |   Cny    |
 
-## <a name="europe-region-and-market"></a>Region och marknad i Europa
+## <a name="europe-region-and-market"></a>Europa, region och marknad
 
-Om företagets plats finns i listan nedan kan du sälja CSP-erbjudanden till kunder på alla platser i listan.
+Om ditt företags plats finns i listan nedan kan du sälja CSP-erbjudanden till kunder på alla platser i listan.
 
 |  Land/region | Valuta  |
 |  -------------- |:--------:|

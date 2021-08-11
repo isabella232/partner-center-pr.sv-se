@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: a7d04e437a2546c887b40f37a7381605535e8ca9
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 22a4cd826d806ba4f9cc3e83ea27116d5f694373fa26afdb3f403e7497f26e8c
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839098"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115685028"
 ---
 # <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>Använda analys för att analysera prestanda för dina indirekta återförsäljare
 

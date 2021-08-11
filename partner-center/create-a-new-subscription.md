@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 199e3dc42a0aa46c3e743e9e6fcb0ed585cd0303
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 227b1cb38f255ee32563c29c3e2bced88e7c15935a244e9e2bf0b4763c9eca52
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838027"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115691131"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Skapa, pausa eller avbryta kundprenumerationer
 
@@ -154,7 +154,7 @@ Så här avbryter du en licensbaserad SaaS-prenumeration från en ISV-utgivare:
 
 ### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription"></a>Välj om du vill förnya en prenumeration på den kommersiella marknadsplatsen automatiskt
 
-Som standard förnyas prenumerationer automatiskt när prenumerationstiden går ut. För [prenumerationer på produkter på den kommersiella](csp-commercial-marketplace-overview.md)marknadsplatsen kan du välja att inte förnya prenumerationen automatiskt.
+Som standard förnyas prenumerationer automatiskt när prenumerationstiden går ut. För [prenumerationer på kommersiella marknadsplatsprodukter](csp-commercial-marketplace-overview.md)kan du välja att inte förnya prenumerationen automatiskt.
 
 Så här stoppar du en aktiv prenumeration på den kommersiella marknadsplatsen från att förnyas automatiskt:
 
@@ -166,7 +166,7 @@ Så här stoppar du en aktiv prenumeration på den kommersiella marknadsplatsen 
 
 4. I kolumnen **Prenumeration** väljer du den prenumeration som du vill ändra.
 
-5. På sidan med prenumerationsinformation letar du **upp avsnittet Status** och **avmarkerar rutan Förnya** automatiskt.
+5. På sidan med prenumerationsinformation letar du upp **avsnittet Status** och **avmarkerar rutan Förnya** automatiskt.
 
 6. Välj **Skicka**.
 

@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2a2e09710d67e6ed86523b6207e882f34c32810e
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 9ed257fcede77086f1308e36f14c56d76390dcc62d50c4747b83b5a1ca3a6790
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842464"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115691845"
 ---
 # <a name="participate-in-software-assurance-programs-including-training-vouchers-and-planning-services"></a>Delta i Software Assurance program, inklusive utbildningsutbildningar och planeringstjänster
 

@@ -8,12 +8,12 @@ ms.subservice: partnercenter-benefits
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: cd165bfe4bc908b3016d7a3e50c42310dcbd8e0b
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 4ab11a445f85a32f2b104692b3d424347c205d959d2ef56c212e6d86ce082438
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845541"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692219"
 ---
 # <a name="demos-for-mpn-partners--microsoft-365-dynamics-365-teams-and-more"></a>Demonstrationer för MPN-partner – Microsoft 365, Dynamics 365, Teams med mera
 
@@ -32,7 +32,7 @@ Så här kommer du åt MPN-demonstrationerna:
 
 Information om hur du visar befintligt innehåll finns [i Upplevelser.](https://cdx.transform.microsoft.com/experiences)
 
-Information om hur du skapar en klientorganisation [finns i Mina miljöer](https://cdx.transform.microsoft.com/my-tenants).
+Information om hur du skapar en klientorganisation [finns i Mina miljöer.](https://cdx.transform.microsoft.com/my-tenants)
 
 ## <a name="next-steps"></a>Nästa steg
 

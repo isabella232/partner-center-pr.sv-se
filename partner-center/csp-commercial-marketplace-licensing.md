@@ -9,12 +9,12 @@ author: petand123
 ms.author: v-petand
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73a02a0a6cad28939d21800c726811c8969ce9a2
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 2d8464b93f6f3215043775496baacc8c6abd907bf614db78725814c9bea59229
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837704"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690910"
 ---
 # <a name="manage-licensing-in-marketplace-offers"></a>Hantera licensiering i Marketplace-erbjudanden
 
@@ -68,13 +68,13 @@ Det första steget i licensieringsprocessen är att skapa ditt erbjudande på de
 
     - Du kan också låta kunder köra appens grundläggande funktioner utan licens och köra Premium-funktioner när de har köpt en licens. Det gör du genom att **välja Tillåt att kunder installerar min app även om licenserna inte har tilldelats**.
 
-    - Om du inte vill att ditt erbjudande ska ha licenshantering aktiverat väljer du Hämta nu **(kostnadsfri),** **Kostnadsfri** utvärderingsversion eller **Kontakta mig.**
+    - Om du inte vill att ditt erbjudande ska ha licenshantering aktiverat väljer du Hämta nu **(kostnadsfri),** **Kostnadsfri utvärderingsversion** eller **Kontakta mig.**
 
 ## <a name="create-your-plan"></a>Skapa din plan
 
 I de här stegen definierar du den plan eller de planer som du vill aktivera för ditt erbjudande.
 
-1. I den vänstra navigeringsmenyn väljer **du Planöversikt** och sedan **Skapa ny plan.**
+1. I den vänstra navigeringsmenyn väljer **du Planera översikt** och sedan Skapa ny **plan.**
 2. Ange ett **plan-ID** **och ett plannamn** och välj sedan **Skapa.**
 3. På sidan **Planlista** anger du din **planbeskrivning.**
 4. Om du vill spara beskrivningen och avsluta senare väljer du **Spara utkast.**
@@ -141,9 +141,9 @@ När kunden har godkänt relationen med dig kan du börja lägga till planer fr�
 1. I fönstret Hantera licenser för det här avtalet väljer du **+Lägg till en plan**.
 2. Slutför fälten **Planer för den här** lösningen och **Antal** licenser och välj sedan **Uppdatera licenser.** Licenserna blir tillgängliga på admin.microsoft.com kunder kan hantera och tilldela till anställda.
 
-    - Om du vill ändra antalet licenser för en befintlig plan anger du det nya numret i **fältet Antal licenser** och väljer sedan Uppdatera **licenser.**
+    - Om du vill ändra antalet licenser för en befintlig plan anger du det nya numret i fältet Antal **licenser** och väljer sedan **Uppdatera licenser.**
 
-    - Om du vill inaktivera eller ta bort licenser för ett avtal väljer du papperskorgsikonen i **fältet Åtgärder** och väljer sedan **Uppdatera licenser.**
+    - Om du vill inaktivera eller ta bort licenser för ett avtal väljer du papperskorgsikonen **i fältet Åtgärder** och väljer sedan Uppdatera **licenser.**
 
 ## <a name="next-steps"></a>Nästa steg
 

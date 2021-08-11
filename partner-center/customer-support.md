@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 01/22/2021
-ms.openlocfilehash: 8e4dcb5b6e330fd72288fb0ec9e2d6222be8dba2
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: ed615600bafbc2ba1c6dff552b9914b40df7aa9847bf101ecae9378f3c0f8160
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845643"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692576"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Tillhandahålla olika typer av support till dina kunder
 
@@ -28,7 +28,7 @@ Partner som gör i CSP-modellen är betrodda rådgivare för sina kunder och, om
 
 För att uppfylla supportkravet kan du sälja support från ett annat företag, lägga ut hela eller delar av supportstrukturen och/eller konfigurera en struktur för att tillhandahålla support direkt. Du kan debitera för hela eller en del av den support som tillhandahålls till kunder. Var noga med att berätta för kunderna vilka typer av support du kommer att tillhandahålla, servicetimmar, kontaktmetod och priser (om du debiteras för support).
 
-CSP-kunder kan inte själva skapa supportärenden. De måste kontakta dig för support. CSP-partner måste ta emot inkommande supportförfrågningar från sina kunder, diagnostisera problem efter behov och sedan lösa problem som ligger inom ramen för baslinjens supportgränser. Om du inte kan lösa ett problem kan du eskalera problem till Microsoft via följande supportfordon:
+CSP-kunder kan inte själva skapa supportärenden. De måste kontakta dig för att få support. CSP-partner måste ta emot inkommande supportförfrågningar från sina kunder, diagnostisera problem efter behov och sedan lösa problem som ligger inom ramen för baslinjens supportgränser. Om du inte kan lösa ett problem kan du eskalera problem till Microsoft via följande supportfordon:
 
 - **Stöd** för kommersiella problem är tillgängligt för alla partner i CSP-programmet
 

@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: dccc5365d6b05ebae474c5afeb7bd7d091d86d34
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 45fd0fee4f58792b5defb1f800b33c189b0892eb725a264e468b3d44b29f8469
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839540"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115685436"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Så här lägger du till en ny kundpost i Partnercenter
 

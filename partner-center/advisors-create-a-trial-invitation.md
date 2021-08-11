@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: d451218722b599569c7757c05e93af2c052a1eb8
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: ec4c5eb54d47e8cbaf4e6d11eb16a24859e44c4653ef243bcedc8dbc648bba3e
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839336"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115685198"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Rådgivare: Skapa och skicka en utvärderingsinbjudan för klienter att prova Office 365
 

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: df0f72deb14eac6d75f8579f7099ab3c6b6a2905
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: f43c355233ed21bc1745858e0aa8d0f16cb8df9519a4283142d92dbab55f9f82
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837279"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115685759"
 ---
 # <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>Hantera din kundlista – söka efter, uppdatera eller exportera kunder i Partnercenter
 
@@ -60,7 +60,7 @@ I **menyn i Partnercenter** väljer du **Kunder.**
 
 1. I **menyn i Partnercenter** väljer du **Kunder.**
 
-2. Välj **Företagsnamn för** alla kunder. Kundens **prenumerationssida öppnas** och visar en fullständig lista över produktprenumerationer.
+2. Välj **företagsnamnet för** alla kunder. Kundens **prenumerationssida öppnas** och visar en fullständig lista över produktprenumerationer.
 
 3. Välj **Exportera prenumerationer.** Partner Center konverterar kundens prenumerationsdata till en .csv och laddar upp den till standardmappen för nedladdning på datorn. Datakolumner innehåller följande:
    - **Prenumerations-ID**;

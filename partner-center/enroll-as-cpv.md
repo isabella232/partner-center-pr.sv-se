@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 01/15/2021
-ms.openlocfilehash: 6e31dfd73d2563bc6b41227a702690d74b7f306d
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: b8fd3627c2075a3aa63b2ac4bc9e940595e76fbd34a43fc00e8e10189b41aba3
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845728"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690876"
 ---
 # <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>Registrera dig som en Kontrollpanelen leverantör för att integrera CSP-partnersystem med Partner Center-API:er
 
@@ -25,7 +25,7 @@ En Kontrollpanelen Leverantör (CPV) är en oberoende programvaruleverantör som
 
 Oavsett om du är en aktuell Kontrollpanelen Vendor (CPV) eller en ny CPV som vill arbeta med Microsoft-partner kräver Microsoft nu att du registrerar dig i Partnercenter för att registrera dina program och stödja Molnlösningsleverantör partner. För att skapa ett konto kan en CPV-partner antingen använda en befintlig CSP-partnerklient eller befintlig CPV-klient eller skapa en ny klient som en del av registreringsprocessen. Om CPV-partnern väljer att använda den befintliga CSP-klienten måste de skapa separata program för flera innehavare och registrera dem i Partnercenter för CPV-aktiviteter. Ett program kan inte registreras som både ett CSP- och CPV-program. När du har registrerat dina program i Partnercenter har du åtkomst till Partner Center-API:erna.  Kontakta Microsoft via en Microsoft Support om du behöver ett sandbox-konto. Om du redan har ett sandbox-konto fortsätter du att använda det. Du behöver inte en ny sandbox-miljö
 
-Granska [Microsofts Kontrollpanelen leverantörsavtal](https://go.microsoft.com/fwlink/?linkid=2055198)
+Granska [Microsoft Kontrollpanelen Vendor-avtalet](https://go.microsoft.com/fwlink/?linkid=2055198)
 
 
 ## <a name="working-in-partner-center"></a>Arbeta i Partnercenter

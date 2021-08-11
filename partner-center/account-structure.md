@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
-description: MPN-partner kan lära sig mer om de två kontonivåerna i Partner Center, Partner Global Account (PGA) och Partner Location Account (PLA).
+description: MPN-partner kan lära sig mer om de två kontonivåerna i PartnerCenter, partnerns globala konto (PGA) och partnerplatskontot (PLA).
 author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d5d0df94cd89ea2c37a164c61ecea7da8bdb5e06
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: abd0addaf752f6caead273a687200efa808a66f6c13c90461f01190ee5e2625a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115101709"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115685554"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Partnercenter har två kontonivåer för MPN-partner
 
@@ -25,7 +25,7 @@ Ditt företag har två kontonivåer i Partnercenter.
 ## <a name="the-top-level-account-is-the-partner-global-account-pga"></a>Kontot på den översta nivån är partnerns globala konto (PGA)
 
 - Det globala partnerkontot innehåller den juridiska företagsadressen och den primära kontakten för ditt företag. 
-- Visa information om ditt globala partnerkonto från **Inställningar**  >  **Organisationsprofil**  >  **Juridisk profil**.
+- Visa information om ditt globala partnerkonto från **Inställningar**  >  **organisationsprofilEn**  >  **juridisk profil**.
 - Informationen innehåller även MPN-ID:t för partnerns globala konto. 
 - PGA är överordnad till ditt företag och används inte för att associera incitamentsprogram eller Molnlösningsleverantör. 
 - Platser bör användas för sådana associationer.
@@ -36,7 +36,7 @@ Din PGA kan ha extra företagsplatser under sig. Varje plats har sitt eget MPN-I
 
 - Varje partnerplatskonto kan ha sin egen juridiska adress och primära kontakt. Platser kan också dela den juridiska adressen med det globala kontot eller med andra platser.
 - Visa listan över partnerplatskonton från **Inställningar**  ->  **platser**.
-- Alla platskonton finns på samma nivå och under det globala partnerkontot.
+- Alla platskonton är på samma nivå och under partnerns globala konto.
 - Kontoadministratörer kan lägga till platser.
 
 :::image type="content" source="images/accountstructure.png" alt-text="Kontostruktur." border="false":::

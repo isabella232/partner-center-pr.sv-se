@@ -9,12 +9,12 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e21db0b6d054c62cec0378a3b93201dea072128f
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 8d8deb72da4bd0bbf3fe9d026a49c9eaf6c438661c237b4075dfc87f531da137
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839523"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115685521"
 ---
 # <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Visa eller exportera kundaktivitetsloggar för mer information om kundtransaktioner
 

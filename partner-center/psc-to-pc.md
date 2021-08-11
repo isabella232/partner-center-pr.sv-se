@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: ee7e3da61d5566f9202ba3ff116638c8fb4dfb69
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 754a41716575dbc03dc0a6c384753ad35c4d187ae302b7bcd2feefa5d5bb133e
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839812"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115684470"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guide för samförsäljning i Partnercenter (PC) för partner som migrerar från Partner Sales Anslut (PSC)
 
@@ -134,9 +134,9 @@ Läs det här avsnittet innan du påbörjar avtalsmigrering.
 
 Endast vissa avtal är berättigade till migrering från PSC till Partnercenter. Den här migreringsguiden är skapad för att hjälpa partner att få sina avtal till Partnercenter där de fortfarande arbetar aktivt med sina kunder för att stänga avtalet. **Endast avtal i öppet tillstånd som skapats från 1 januari 2020 med giltig partnerkontoinformation (giltigt MPN-ID) och som inte genomgår avtalsregistrering är berättigade till migrering.**
 
-**Ej berättigad till migrering**
+**Inte berättigad till migrering**
 
-- Lösningsutvärderingserbjudanden är inte berättigade till avtalsmigrering
+- Lösningsutvärderingsavtal är inte berättigade till avtalsmigrering
 - OEM-licensieringsaffärsavtal är inte berättigade till avtalsmigrering
 - Avtal som har markerats som vann i PSC är inte berättigade till migrering. Avtalsregistrering om det är berättigat till de avtal som markerats som won ska slutföras i PSC.
 
@@ -147,57 +147,57 @@ Innan du påbörjar avtalsmigrering från Partnercenter följer du anvisningarna
 1. Alla medlemmar i säljteamet i ditt företag som arbetar med öppna avtal informeras om migreringen.
 2. Säljteamets medlemmar tränas att använda Partnercenter för avtalshantering.
 3. Avtal har all nödvändig information enligt beskrivningen nedan.
-    - Kundföretagsinformation, inklusive namn och adress
-    - Kundkontaktinformation om det är ett samförsäljningsavtal
+    - Kundens företagsinformation, inklusive namn och adress
+    - Kundens kontaktuppgifter om det är ett samförsäljningsavtal
     - Minst en lösning
     - Minst en teammedlem med all information – förnamn, efternamn, e-post-ID och telefonnummer
     - Avtalsvärde
-    - Beräknat stängningsdatum för avtal
+    - Beräknat avtalsdatum
     - Partneranteckningar
 
 Du kan använda funktionerna för massnedladdning och uppladdning i PSC för att lägga till all information som saknas i avtalet för alla berättigade avtal.
 
 >[!Note]
-> Avtalsmigrering lyckas även om ovanstående förutsättningar inte uppfylls. Men du kan inte ändra tillståndet för avtalet om något av ovanstående obligatoriska fält i Partnercenter inte är tillgängligt. Du måste sedan ange all nödvändig information som saknas i avtal i Partnercenter för att börja arbeta med dem. **Vi rekommenderar starkt att du rensar de berättigade erbjudandena i PSC innan du migrerar dem till Partnercenter.**
+> Avtalsmigrering lyckas även om ovanstående krav inte uppfylls. Men du kan inte ändra tillståndet för avtalet om något av ovanstående obligatoriska fält i Partnercenter inte är tillgängligt. Du måste sedan ange all nödvändig information som saknas i avtal i Partnercenter för att börja arbeta med dem. **Vi rekommenderar starkt att du rensar kvalificerande avtal i PSC innan du migrerar dem till Partnercenter.**
 
-Avtalsmigrering i Partnercenter byggs som en upplevelse med ett klick. Allt du behöver göra är att välja **knappen "Migrera avtal"** när ditt företag är redo att migrera de berättigade erbjudandena. **Du kan inte välja de avtal som du vill migrera från PSC. Om du inte vill migrera några avtal till Partnercenter flyttar du dem till stängt tillstånd i PSC innan du påbörjar migreringen.**
+Avtalsmigrering i Partnercenter har skapats med ett klick. Allt du behöver göra är att välja **knappen "Migrera avtal"** när ditt företag är redo att migrera de berättigade erbjudandena. **Du kan inte välja de avtal som du vill migrera från PSC. Om du inte vill migrera några avtal till Partnercenter flyttar du dem till stängt tillstånd i PSC innan du påbörjar migreringen.**
 
 >[!Note]
-> När migreringen har **initierats kan det ta upp till 24 timmar innan avtal migreras**.
+> När du har initierat **migreringen kan det ta upp till 24 timmar innan avtal migreras**.
 
-När migreringen är klar har banderollmeddelandet statusen ändrad för att slutföras med en länk till migreringsrapporten. Ladda ned rapporten för att visa information om avtal som har migrerats från PSC till Partnercenter.
+När migreringen är klar ändras banderollmeddelandets status för att slutföras med en länk till migreringsrapporten. Ladda ned rapporten för att visa information om avtal som har migrerats från PSC till Partnercenter.
 
 Rapporten innehåller informationen nedan.
 
-1. **Id för partnercenterinteragemang** – Den unika identifieraren i Partnercenter för alla avtal i ett engagemang. Det finns två avtal – ett för partnern och ett för Microsoft i ett samförsäljningsinteragemang i Partnercenter.
+1. **Engagemangs-ID för Partnercenter** – Den unika identifieraren i Partnercenter för alla avtal i ett engagemang. Det finns två avtal – ett för partnern och ett för Microsoft i ett engagemang för säljförsäljning i Partnercenter.
 2. **Referens-ID för Partnercenter** – Den unika identifieraren i Partnercenter för avtalet som tillhör partnern.
 3. **Avtalsnamn** – Identifierare som anges för avtalet i PSC.
 4. **PSC-avtals-ID** – Den unika identifieraren i PSC för avtalet.
-5. **Fel –** för att ange om det finns något fel vid migrering av ett specifikt avtal.
+5. **Fel –** för att ange om det finns några fel vid migrering av ett specifikt avtal.
 
 Alla avtal som har migrerats visas inte i PSC. Du kan fortsätta att arbeta med migrerade avtal i Partnercenter, inklusive slutföra avtalsregistrering i Partnercenter. Det kommer inte att ske några ändringar i interaktionerna med Microsoft-säljarna för säljavtal.
 
 Avtal som migreras från PSC kommer att vara tillgängliga på flikarna Inkommande och Utgående baserat på avtalets källa. Alla avtal som delas av ditt företag kommer att vara tillgängliga på fliken Utgående och Microsoft-initierade avtal kommer att vara tillgängliga på fliken Inkommande i Partnercenter. Det kommer att finnas två typer av avtal som skapas efter migreringen.
 
-1. **Samförsäljningserbjudanden** – Avtal som markeras som samförsäljning i PSC skapas som samförsäljningserbjudanden i Partnercenter.
-2. **Partnerledda avtal –** Avtal som inte har markerats som samförsäljning skapas som partnerledda avtal i Partnercenter. Partnerledda avtal är synliga för Microsoft-säljare och kan uppgraderas till samförsäljningserbjudanden innan de når terminaltillståndet (vunnits, förlorats). Partnerledda avtal är också berättigade till avtalsregistrering om det finns en berättigad incitamentslösning i avtalet.
+1. **Säljavtal –** Avtal som markeras som samförsäljning i PSC skapas som samförsäljningserbjudanden i Partnercenter.
+2. **Partnerledda avtal** – Avtal som inte har markerats som samförsäljning skapas som partnerledda avtal i Partnercenter. Partnerledda avtal är synliga för Microsoft-säljare och kan uppgraderas till säljavtal innan de når terminaltillståndet (won, lost). Dessutom är partnerledda avtal berättigade till avtalsregistrering om det finns en berättigad incitamentlösning i avtalet.
 
 >[!Important]
-> Om det finns några fel som gör att vissa avtal inte kunde migreras kan du starta om avtalsmigrering genom att klicka på knappen **"Migrera avtal".** Den aktiveras bara om det finns vissa berättigade avtal som ska migreras. Detta är också användbart om du är i övergångsfasen där vissa nya avtal skapas i PSC när du har initierat avtalsmigrering.
+> Om det finns några fel som gör att vissa avtal inte kunde migreras kan du initiera om avtalsmigrering genom att klicka på knappen **"Migrera avtal".** Det aktiveras bara om det finns vissa berättigade avtal som ännu inte har migrerats. Detta är också användbart om du befinner dig i övergångsfasen där vissa nya avtal skapas i PSC efter att du har initierat avtalsmigrering.
 
-När alla avtal har migrerats visas en banderoll som visar "Inga avtal **att migrera"** med knappen **"Migrera avtal"** **inaktiverad.**
+När alla avtal har migrerats visas en banderoll som visar **"Inga** avtal att migrera" med knappen **"Migrera avtal"** **inaktiverad.**
 
 När du har slutfört användarmigrering och/eller avtalsmigrering kan du använda följande vägledning för att bestämma migreringsstrategin:
 
-Om ditt företag har en Partner Development Manager (PDM) – När ditt PartnerCenter-konto har ställts in och dina användare har flyttats över och har roller och behörigheter kan du flytta dina säljaktiviteter till Partnercenter. Informera PDM om att göra bytet i stället för att vänta tills migreringen har slutförts, vilket gör att alla dina nya avtal kan flöda till Partnercenter.
+Om ditt företag har en Partner Development Manager (PDM) – När ditt Partnercenter-konto har ställts in och dina användare har flyttats över och har roller och behörigheter kan du flytta dina säljaktiviteter till Partnercenter. Informera PDM om att göra bytet i stället för att vänta tills migreringen har slutförts, vilket gör att alla dina nya avtal kan flöda till Partnercenter.
 
 >[!Note]
->När du har gjort den här växeln kan du bara agera på befintliga aktiva avtal i PSC. Du kan varken skapa nya avtal eller få några avtal från Microsoft-säljare i PSC.
+>När du har gjort den här växlingen kan du bara agera på befintliga aktiva avtal i PSC. Du kan varken skapa nya avtal eller få avtal från Microsoft-säljare i PSC.
 
-Om ditt företag inte har någon PDM – Kontrollera att alla användarkonton har ställts in och verifierats av alla användare. Du får ett e-postmeddelande och en banderoll i PSC om det exakta datumet då du kan börja sälja i Partnercenter. Kom ihåg att du fortfarande måste hantera befintliga aktiva avtal i PSC.
+Om ditt företag inte har någon PDM – Kontrollera att alla användarkonton har ställts in och verifierats av alla användare. Du meddelas via e-post och en banderoll i PSC om det exakta datumet då du kan börja sälja i Partnercenter. Kom ihåg att du fortfarande måste hantera befintliga aktiva avtal i PSC.
 
 >[!Important]
-> Du har fram till den 30 april 2021 på dig att registrera de avtal som har markerats som vann.
+> Du har fram till den 30 april 2021 på dig att registrera de avtal som markeras som vann.
 
 ## <a name="next-steps-for-psc-admins-psc-deal-managers-and-psc-sellers"></a>Nästa steg för PSC-administratörer, PSC-avtalshanterare och PSC-säljare
 
@@ -206,16 +206,16 @@ Det här är ett viktigt steg som hjälper dig att förbereda dig för samförs�
 
 ## <a name="major-differences-between-psc-and-partner-center-workflows"></a>Större skillnader mellan PSC- och Partner Center-arbetsflöden
 
-|**Scenario**|**PartnerFörsäljnings-Anslut**|**Partnercenter**|
+|**Scenario**|**Partnerförsäljnings-Anslut**|**Partnercenter**|
 |-----|:-----|:-----|
-|Användarroller|PSC har administratörs-, avtalshanterare- och säljarroller.|Partnercenter har endast [administratörsrollen](permissions-overview.md#manage-referrals) referens som ger både läs- och skrivbehörighet för alla avtal.|
-|Bjuda in Microsoft i ett säljavtal|Initieras av Microsoft-säljare och det finns ingen uttrycklig fråga från partnern.|Partnern måste skicka en [explicit begäran om](manage-co-sell-opportunities.md#add-solutions) en Microsoft-säljhjälp krävs för ett avtal. Microsoft Seller har ett alternativ för att avvisa begäran.|
-|Upphörande|Det finns inget begrepp om att ett avtal upphör att gälla.|Partnerns inkommande avtal upphör att gälla om 14 dagar om de inte godkänns av partnern. Samma sak gäller med partnerns utgående avtal där de kan gå in i ett utgånget tillstånd om Microsoft-säljaren inte agerar på dem på 14 dagar.|
-|Microsofts säljarinformation|Visas så fort ett avtal skapas.|Microsofts säljarinformation delas endast med partner om säljaren uttryckligen godkänner inbjudan till säljpartner.|
-|[Privat pipeline](manage-co-sell-opportunities.md#types-of-co-sell-opportunities)|Inte tillgängligt.|Partner kan dela sin pipeline utan att ge insyn till Microsoft-säljare.|
-|Lösningar|Lösningar som endast tillhör en prislista kan läggas till i ett avtal.|Partner kan lägga [till](manage-co-sell-opportunities.md#add-solutions) lösningar som tillhör följande listor. a) Sina egna lösningar b) Lösningar från Microsofts förstapartskatalog (liknar rollen transaktionsavtal i PSC) och c) Säljavtalslösningar från andra tredjepartspartner (liknar ISV-avtalsrollen i PSC).|
-|Avtalstilldelning|Endast tilldelad säljare kan visa och agera på avtal.|Gruppmedlemmar kan läggas till i ett avtal för att ange vilka personer som arbetar med ett avtal, det finns ingen blockering av andra hänvisningsadministratörer från att visa eller agera på dessa avtal.|
-|Kundorganisation|Textinmatning i fritt format.|Du kan söka i [kundorganisationen](manage-co-sell-opportunities.md#select-your-customer) mot [D&B-databasen](https://www.dnb.com/) genom att bara skriva några tecken. Det juridiska namnet och adressen fylls i automatiskt baserat på valet.|
+|Användarroller|PSC har administratörs-, avtalshanterare- och säljarroller.|Partnercenter har bara rollen [referensadministratör](permissions-overview.md#manage-referrals) som ger både läs- och skrivbehörighet för alla avtal.|
+|Bjuda in Microsoft på ett samförsäljningsavtal|Det finns ingen uttrycklig fråga från partnern som initierats av Microsoft-säljaren.|Partnern måste göra en [explicit begäran om](manage-co-sell-opportunities.md#add-solutions) en Microsoft-säljhjälp krävs för ett avtal. Microsoft-säljaren har ett alternativ för att neka begäran.|
+|Upphörande|Det finns inget begrepp om att ett avtal upphör att gälla.|Partnerns inkommande avtal går ut om 14 dagar om de inte godkänns av partnern. Samma sak gäller för partnerns utgående avtal där de kan gå in i ett utgånget tillstånd om Microsoft-säljaren inte agerar på dem på 14 dagar.|
+|Microsofts säljarinformation|Synligt så fort ett avtal skapas.|Microsoft-säljarinformation delas endast med partner om säljaren uttryckligen godkänner inbjudan till säljpartner.|
+|[Privat pipeline](manage-co-sell-opportunities.md#types-of-co-sell-opportunities)|Inte tillgängligt.|Partner kan dela sin pipeline utan att ge insyn till Microsofts säljare.|
+|Lösningar|Lösningar som endast tillhör en prislista kan läggas till i ett avtal.|Partner kan lägga [till](manage-co-sell-opportunities.md#add-solutions) lösningar som tillhör följande listor. a) Deras egna lösningar b) Lösningar från Microsofts katalog från första part (liknar rollen Transaktionsavtal i PSC) och c) Säljavtalslösningar från andra tredjepartspartner (liknar ISV-avtalsrollen i PSC).|
+|Avtalstilldelning|Endast en tilldelad säljare kan visa och agera på affärerna.|Gruppmedlemmar kan läggas till i ett avtal för att ange vilka personer som arbetar med ett avtal, det finns ingen blockering av andra hänvisningsadministratörer från att visa eller agera på dessa avtal.|
+|Kundorganisation|Fritextpost.|Du kan söka i [kundorganisationen](manage-co-sell-opportunities.md#select-your-customer) mot [D-&B-databasen](https://www.dnb.com/) genom att bara skriva några tecken. Det juridiska namnet och adressen fylls i automatiskt baserat på valet.|
 |Kundkontakt|Inte obligatoriskt.|Inte obligatoriskt för delning av privata pipelines. Krävs om Microsoft-säljare bjuds in att delta i en begäran om säljförsäljning.|
 |Offentligt API|Inte tillgängligt.|[Offentligt API](/partner/develop/referrals) för att programmatiskt hantera Partner Center-referenser.|
 

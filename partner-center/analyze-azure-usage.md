@@ -9,14 +9,14 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: d26fe1c71a574ed58ca227979cda445950873596
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 4dcf777cc4f6e7c7e16276b0275bf62dd927a833b892152c68366558ac42e86a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839132"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115685147"
 ---
-# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Hämta data om hur bra det går för dina kunder och Azure-prenumerationer
+# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Få data om hur bra det går för dina kunder och Azure-prenumerationer
 
 
 
@@ -24,7 +24,7 @@ ms.locfileid: "114839132"
 
 Data driver affärsbeslut. Använd måtten på **azure-användningssidan** för att identifiera dina framgångar och områden som behöver mer uppmärksamhet. Använd den här informationen när du planerar nya affärsmål.
 
-För att komma till **Azure-användning loggar** du in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard) Välj **Analys** på Menyn i Partnercenter och välj sedan **Azure-användning.**
+För att komma till **Azure-användning loggar** du in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard) Välj **Analytics** på Menyn i Partnercenter och välj sedan **Azure-användning.**
 
 > [!NOTE]
 > Användningsanalys i Azure är endast tillgängligt för partner i Molnlösningsleverantör program.

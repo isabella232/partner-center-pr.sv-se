@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2bb4507fd7e5f60584c8fca99256c964a7521dc8
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 7c3231d824afe1f9c449e9809971c97125908815449fda5605e64655d88c1b03
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115100696"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115685940"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Lägga till och hantera flera klienter i ditt Partnercenter-konto
 
@@ -43,7 +43,7 @@ Den här artikeln beskriver hur du konsoliderar flera Azure Active Directory-kli
 
 1. Välj **Associera** och ange sedan den klientorganisation som du vill associera.
 
-1. Logga in som global administratör till den klientorganisation som du vill associera i prompten och välj sedan **Bekräfta**. 
+1. Logga in som global administratör till den klientorganisation som du vill associera i prompten och välj sedan **Bekräfta.** 
 
    :::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="Skärmbild av knappen Bekräfta i fönstret Bekräfta ny Azure AD-association."::: 
 

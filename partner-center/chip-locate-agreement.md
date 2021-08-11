@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 288e4ebb224d3ff1b0d4050691b733e678ec29a3
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: c2ae28bd6291af9c4a4445dcc4010b817e533c34b339b137b67ae1a99b5f4e2c
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276950"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692793"
 ---
 # <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Leta upp antal skrivbordsenheter och avgiftsnivå för ett avtal
 
@@ -31,7 +31,7 @@ Du kan logga in på [explore.ms](https://www.explore.ms/) granska avtalet eller 
 >[!Note]
 >Du kan inte utföra den här funktionen i Google Chrome eller Microsoft Edge.
 
-2. Logga in med ditt arbets-/skolkonto eller ditt live-ID.  
+2. Logga in med ditt arbets-/skolkonto eller live-ID.  
 
 3. I fältet **Rapporter** väljer du **Avtal.**
 
@@ -63,7 +63,7 @@ När du har sökt efter avtalsnumret i explore.ms med hjälp av stegen som beskr
 
 1. Logga in på CHIP och välj LSP Incentives.
 
-2. På sidan **Partnerbetalningssammanfattning** väljer du den rapporteringsmånad som du vill visa och väljer sedan **Beräkningsinformation** i listrutan under **Exportera till Excel:**
+2. På sidan **Partnerbetalningssammanfattning** väljer du den rapporteringsmånad  som du vill visa och väljer sedan Beräkningsinformation i listrutan under **Exportera till Excel**:
 
 :::image type="content" source="images/chip/chiplocate.png" alt-text="Leta upp programinformation.":::
 

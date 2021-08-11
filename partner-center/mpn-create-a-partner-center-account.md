@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 37f1fe563c3d3ac43f596371eb2adbf775fcc62b
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: e1dee489e28e9bc5866b75d767e222be15a4f0f3e90e136d3742c9b55d9994a1
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115100747"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692252"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Skapa ett MPN-konto i Partnercenter för att hantera nätverksförmåner och kompetenser
 

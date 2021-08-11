@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: c773d21f5e19bdb9712ed7a5d62061187d83281f
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d369f558412f89fab92201ec21cae363e87a555e4ab6e31a32a52a33f429cf7e
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839778"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692524"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Samarbeta med indirekta återförsäljare i programmet Cloud Solution Provider
 
@@ -112,7 +112,7 @@ Följ stegen nedan om du vill ta bort samarbetet med en befintlig indirekt åter
 
 >[!IMPORTANT]
 >Kunder som är kopplade till den indirekta återförsäljaren tas inte bort. Alla delegerade administratörsbehörigheter som beviljas förblir oförändrade.
->Du representerar att beslutet att upphöra med din relation med partner har gjorts i god tro, för ett legitimt affärssyfte och i enlighet med ditt avtal med din kund eller partner, och du samtycker till att skydda och hålla Microsoft oförseligt från och mot eventuella anspråk från tredje part till motsatsen.
+>Du representerar att beslutet att upphöra med din relation med partner har gjorts i god tro, för ett legitimt affärssyfte och i enlighet med ditt avtal med din kund eller partner, och du samtycker till att skydda och hålla Microsoft oförseligt från och mot tredje parts anspråk på motsatsen.
 >Du måste ge ett juridiskt meddelande om uppsägning till din kund eller partner om ditt avtal kräver det. Det här verktyget genererar inte meddelanden till kunden eller partnern.
 
 3. Den indirekta återförsäljare vars partnerskap du har tagit bort visas inte i listan.

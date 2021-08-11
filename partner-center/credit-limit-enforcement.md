@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32dc94a4bd85160a02a4be880469f713d98449ba
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: e0b3f29c3aa6a2e14df3bd87e3c395924702093e680929c8f4e433785d17e0cb
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837976"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115691063"
 ---
 # <a name="credit-limit-enforcement-cle"></a>Tvingande kreditgräns (CLE)
 
@@ -26,7 +26,7 @@ Din kreditgräns är det maximala belopp (i amerikanska dollar) som du som partn
 
 Kreditgränser gäller för erbjudanden i Azure-plan, Azure-reservationer, programvara, Marketplace, Azure 145 P, Office och Dynamics-produkter. Kreditgränser gäller inte för förnyelser och löpande förbrukning.
 
-Vi tilldelar din kreditgräns på klientorganisationsnivå under registreringsperioden. Vi baserar den på dina prognostiserade intäkter, inköp och betalningshistorik. Sedan använder vi följande formel för att beräkna ditt tillgängliga saldo:
+Vi tilldelar din kreditgräns på klientorganisationsnivå under registreringsperioden. Vi baserar den på dina prognostiserade intäkter, köpprowes och betalningshistorik. Vi använder sedan följande formel för att beräkna ditt tillgängliga saldo:
 
 **[Kreditgräns – (inkommande köp + utestående obetalta fakturor + ej fakturerade avgifter – överskottsbetalning)]**
 
