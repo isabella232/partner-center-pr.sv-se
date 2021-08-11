@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3d40c0c8bab2b7f49797feb3685920210198a6d3
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: eb6bf5f92a07168fd85f632b6f45ee65f874ce94c6b8afcd46ea23a6a93058fe
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837058"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694871"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>Partner Insights – vanliga frågor och svar
 
@@ -34,9 +34,9 @@ F) **Jag kan inte se fakturerade intäkter eller Azure-intäktsförbrukning (ACR
 
 A) Fakturerade intäkter och ACR-data är endast tillgängliga för användare som är rapportanvändare. Mer information om roller finns i den [här artikeln.](./insights-roles.md)
 
-F) **Det land som rapporteras för min kund verkar vara felaktigt. Varför är det så?**
+F) **Det land som rapporteras för min kund verkar vara felaktigt. Varför?**
 
-A) Kundland härleds från det land där den globala överordnade organisationen för kunden finns. Det här landet kan vara ett annat än kundens land som du har handlat med. Därför kan det kundrapporterade landet vara ett annat än det du förväntar dig.
+A) Kundland härleds från landet för den globala överordnade organisationen för den kunden. Det här landet kan vara ett annat än kundens land som du har gjort en överträdelse med. Därför kan det kundrapporterade landet vara annorlunda än vad du förväntar dig.
 
 F) **Jag ser att några kundnamn är fördröjda i rapporterna. Är det förväntat?**
 

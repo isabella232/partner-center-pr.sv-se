@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18ed4e14e5e0e0855dd09e91325ed46610c3acae
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 0efe19164cad5cc31ddac3767b97f26ff01bc4c69e35fe3eb84708b0f86c1b80
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840101"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687473"
 ---
 # <a name="download-reports"></a>Ladda ned rapporter
 
@@ -41,21 +41,21 @@ Om du vill generera en rapport väljer du först rapporten **i listrutan** Välj
 
 Följande rapporter är tillgängliga för nedladdning:
 
-**Partnerprofilen** innehåller information som är relaterad till partnern. Information som Partner-ID partnernamn, partnerstad och partnerland finns i rapporten. Ingen aggregering eller återställning kommer att gälla för den här rapporten.
+**Partnerprofilen** innehåller information som är relaterad till partnern. Information som Partner-ID partnernamn, partnerstad och partnerland finns i rapporten. Ingen aggregering eller lookback gäller för den här rapporten.
 
-**Kundinformation** ger information om kunder som en partner är associerad med. Den innehåller också viktiga mått som sålda licenser, aggregerade Azure-förbrukade intäkter (ACR) och så vidare. Rapporten sammanställs månadsvis.
+**Kundinformation** ger information om kunder som en partner är associerad med. Den innehåller också viktiga mått som sålda licenser, aggregerade Azure-förbrukade intäkter (ACR) och så vidare. Rapporten aggregeras månadsvis.
 
-**Prenumerationsinformationen** innehåller information om de prenumerationer som säljs eller hanteras av partnern tillsammans med kundinformation. Rapporten sammanställs månadsvis.
+**Prenumerationsinformationen** innehåller information om de prenumerationer som säljs eller hanteras av partnern tillsammans med kundinformation. Rapporten aggregeras månadsvis.
 
 **Azure-användning** innehåller information om Azure-användning. Den här informationen gäller de Azure-prenumerationer som säljs eller hanteras av partnern. Användningsinformationen delas upp efter mätarkategori och andra viktiga dimensioner. Rapporten sammanställs månadsvis.
 
 **Office 365 – Licensanvändning innehåller** användningsinformation om Office 365 licenser som säljs eller hanteras av partnern. Den innehåller även kundinformation och nyckelmått som Månatliga aktiva användare (MAU), kvalificerade rättigheter och så vidare. Rapporten aggregeras månadsvis.
 
-**Enterprise Mobility – Licensanvändning innehåller**  användningsinformation om Enterprise Mobility-licenser som säljs eller hanteras av partnern. Den innehåller även kundinformation och nyckelmått som MAU, kvalificerade rättigheter och så vidare. Rapporten sammanställs månadsvis.
+**Enterprise Mobility – Licensanvändning innehåller**  användningsinformation om Enterprise Mobility-licenser som säljs eller hanteras av partnern. Den innehåller även kundinformation och nyckelmått som MAU, kvalificerade rättigheter och så vidare. Rapporten aggregeras månadsvis.
 
-**Dynamics 365 – Licensanvändning innehåller** användningsinformation om D365-licenser som säljs eller hanteras av partnern. Den innehåller även kundinformation och nyckelmått som MAU, kvalificerade rättigheter och så vidare. Rapporten sammanställs månadsvis.
+**Dynamics 365 – Licensanvändning innehåller** användningsinformation om D365-licenser som säljs eller hanteras av partnern. Den innehåller även kundinformation och nyckelmått som MAU, kvalificerade rättigheter och så vidare. Rapporten aggregeras månadsvis.
 
-**Power BI – Licensanvändning innehåller** användningsinformation om Power BI licenser som säljs eller hanteras av partnern. Den innehåller även kundinformation och nyckelmått som MAU, kvalificerade rättigheter och så vidare. Rapporten sammanställs månadsvis.
+**Power BI – Licensanvändning innehåller** användningsinformation om Power BI licenser som säljs eller hanteras av partnern. Den innehåller även kundinformation och nyckelmått som MAU, kvalificerade rättigheter och så vidare. Rapporten aggregeras månadsvis.
 
 **Utbildningarna** innehåller information som prov, certifieringar, utvärderingar, spår, kurser som har slutförts eller tagits upp av partnerns anställda.
 
@@ -63,5 +63,5 @@ Följande rapporter är tillgängliga för nedladdning:
 
 **Kompetenser – Sammanfattning och historik** innehåller information om alla kompetenser som är aktiva, pågående eller utsatta för risk för den här partnern. Innehåller även historik över alla kompetenser som partnern har uppnått.
 
-**Kompetenser – Prestandainformation** ger detaljerad information om hur partnern gör med avseende på KPI:er (Key Performance Indicators) för att uppnå en viss uppsättning kompetenser.
+**Kompetenser – Prestandainformation** innehåller information om hur partnern gör med avseende på KPI:er (Key Performance Indicators) för att uppnå en viss uppsättning kompetenser.
 

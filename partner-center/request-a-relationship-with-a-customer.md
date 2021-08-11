@@ -8,12 +8,12 @@ description: Begär en relation med en kund för scenarier med flera partner, fl
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 5b80cc15ade94a9003ec1b21293d86c3b5ac8ace
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 9e38c557c2cf1ee87238015971336ca7593aece9798b8b376a60f6a881bce4e5
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844487"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115695143"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Så här begär du en återförsäljarrelation från en kund i Partnercenter
 
@@ -24,7 +24,7 @@ Om du vill hantera en kunds tjänst eller prenumeration för kundens räkning m�
 Om du vill upprätta en återförsäljarrelation med en kund och endast hantera de Azure-prenumerationer som du etablerar behöver du inte skaffa administratörsbehörigheter.
 
 >[!NOTE] 
->Alternativet att inte begära behörigheter är inte tillgängligt för partner som arbetar i Microsoft Cloud for US Government eller Microsoft Cloud Tyskland. Mer information finns i [Kunder delegerar administratörsbehörigheter till partner.](customers-revoke-admin-privileges.md)
+>Alternativet att inte begära behörigheter är inte tillgängligt för partner som arbetar i Microsoft Cloud for US Government eller Microsoft Cloud Tyskland. Mer information finns i Kunder [delegerar administratörsbehörigheter till partner.](customers-revoke-admin-privileges.md)
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Bjud in en kund att upprätta en återförsäljarrelation med dig
 
@@ -32,7 +32,7 @@ Du kan begära en återförsäljarrelation med en kund från ditt land eller i s
 
 1. Välj **Kunder** på menyn **i Partnercenter** och välj sedan **Begär en återförsäljarrelation.**
 
-2. Om du vill begära administratörsbehörighet från den här kunden **väljer du Inkludera delegerade administrationsbehörigheter för Azure Active Directory och Office 365**. Avmarkera det här alternativet om du vill upprätta relationen utan att begära administratörsbehörighet.
+2. Om du vill begära administratörsbehörigheter från den här kunden väljer du Inkludera delegerade **administrationsbehörigheter för Azure Active Directory och Office 365**. Avmarkera det här alternativet om du vill upprätta relationen utan att begära administratörsbehörighet.
 
 3. På nästa sida granskar du utkastet till e-postmeddelandet. Du kan öppna utkastet i ditt vanliga e-postprogram, eller så kan du kopiera meddelandet till Urklipp och klistra in det i ett e-postmeddelande.
 
@@ -45,16 +45,16 @@ Du kan begära en återförsäljarrelation med en kund från ditt land eller i s
    > [!NOTE]
    > Om kunden inte redan har accepterat Microsoft-kundavtal uppmanas de att göra det när de godkänner din inbjudan. Kunden måste vara global administratör för att acceptera inbjudan.
 
-6. Om du vill hantera kundens konto, tjänster, användare och licenser expanderar du kundens post genom att välja nedåtpilen nära namnet.
+6. Om du vill hantera kundens konto, tjänster, användare och licenser expanderar du kundens post genom att välja nedåtpilen nära kundens namn.
 
 > [!IMPORTANT]  
-> Kunder kan tilldela om eller ta bort administratörsbehörigheter i en tjänsts administratörsportal. Men såvida inte och tills du omförhandling av ditt avtal med kunden fortsätter du att vara ansvarig för att tillhandahålla kundsupport och följa villkoren i Microsoft-partneravtal, även efter att en kund har tilldelat om eller tagit bort administratörsbehörigheter. I så fall kan du, om kunden behöver hjälp, ringa Microsoft-supporten för att öppna en tjänstbegäran för kundens räkning.
+> Kunder kan omtilldela eller ta bort administratörsbehörigheter i en tjänsts administratörsportal. Men såvida inte och tills du omförhandling av ditt avtal med kunden fortsätter du att vara ansvarig för att tillhandahålla kundsupport och följa villkoren i Microsoft-partneravtal, även när en kund omtilldelar eller tar bort administratörsbehörigheter. I så fall kan du, om kunden behöver hjälp, ringa Microsoft-supporten för att öppna en tjänstbegäran för kundens räkning.
 
 ## <a name="changes-to-the-customer-invitation-experience"></a>Ändringar i kundinbjudan
 
 Kundupplevelsen för att acceptera en återförsäljarrelationsinbjudan från en Molnlösningsleverantör-partner (CSP) finns i olika kundriktade portaler. Portalplatsen beror på om en kund finns i ett offentligt Microsoft-moln eller ett nationellt moln:
 
-|Typer av molnkunder  | Var accepterar en kund en återförsäljarrelationsinbjudan? |
+|Typer av molnkunder  | Var accepterar en kund en inbjudan om återförsäljarrelation? |
 |---------|---------
 | Kunder i offentligt moln | Microsoft 365 Admin Centrum |
 | Kunder i Partnercenter för Microsoft Cloud Tyskland | Microsoft Office Administratörsportalen |

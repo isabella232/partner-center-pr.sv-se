@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 393bd70096ba3cd7d1c9889d5b521cc94a389d90
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 01234eaf64beaceb0b5511c64013a67196a71b95121fe1bd831ffa93ea19054f
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845983"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687034"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Ge kunderna 30 dagars kostnadsfria utvärderingsversioner av Microsoft-produkter
 

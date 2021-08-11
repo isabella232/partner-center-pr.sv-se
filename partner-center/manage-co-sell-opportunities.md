@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2cb4a4700f9c8f74e835863cd74caacf20d2d6d1
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d221dbe28ecf9ef322b6f589f69b0390a72e5761c8b5ba250c5fccc84a66eb3f
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837024"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115695361"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Hantera möjligheter till säljförsäljning i Partnercenter
 
@@ -31,7 +31,7 @@ Dra nytta av möjligheter till säljförsäljning.  En möjlighet till säljsama
 
 **Privat avtal** – Det här är när en partner bestämmer sig för att arbeta oberoende av ett avtal som har skapats i Partnercenter. Partner kan ge insyn i Microsofts säljteam eller bjuda in Microsoft-säljare som vill ha aktiv hjälp när de har skapat avtalet. Informationen om avtalet delas inte med Microsofts säljteam förrän partnern uttryckligen väljer Ja för frågan "Vill du att Microsoft-säljare ska kunna visa det här avtalet?" eller be Microsofts säljteam om hjälp genom att välja något av alternativen för frågan "Identifiera vilken typ av hjälp du behöver från Microsoft?".
 
-**Partnerledt avtal** – Det här är avtal där en partner bestämmer sig för att arbeta oberoende av varandra, men det är okej att ge insyn i avtalsinformationen till Microsofts säljteamsmedlemmar. Partner kan bjuda in Microsoft-säljare när de har skapat avtalet. Dessa avtal är berättigade till avtalsregistrering när en berättigad incitamentslösning ingår i avtalet. Att bjuda in Microsoft-säljare krävs inte för avtalsregistrering om kriterierna för berättigade incitament är uppfyllda. Du kan göra ett avtal med partnerledt avtal genom att svara ja på frågan "Vill du att Microsoft-säljare ska se det här avtalet?"
+**Partnerledt avtal** – det här är avtal där en partner bestämmer sig för att arbeta oberoende av varandra, men det är okej att ge insyn i avtalsinformationen till Microsofts säljteamsmedlemmar. Partner kan bjuda in Microsoft-säljare när de har skapat avtalet. Dessa avtal är berättigade till avtalsregistrering när en berättigad incitamentslösning ingår i avtalet. Att bjuda in Microsoft-säljare krävs inte för avtalsregistrering om kriterierna för berättigade incitament är uppfyllda. Du kan göra ett avtal med partnerledt avtal genom att svara ja på frågan "Vill du att Microsoft-säljare ska se det här avtalet?"
 
 **Solution Assessment (SA)** – Dessa typer av avtal kan endast skapas av en uppsättning partner som granskas av affärsteamet för lösningsutvärderingar för att utföra tekniska utvärderingar för kunder som använder eller planerar att använda Microsoft-tekniker.
 
@@ -90,73 +90,73 @@ När du har lagt till avtalsinformationen lägger du till de anställda som ska 
 
 ### <a name="add-solutions"></a>Lägga till lösningar
 
-I det här avsnittet måste du ange information om de lösningar som ska ingå i avtalet. Det här är ett obligatoriskt avsnitt där du måste lägga till minst en lösning för att skapa ett avtal. Lösningsinformationen kan ändras när du har skapat ett avtal. Det finns flera typer av lösningar som kan läggas till i ett avtal, vilket beskrivs nedan
+I det här avsnittet måste du ange information om de lösningar som ska ingå i avtalet. Det här är ett obligatoriskt avsnitt där du måste lägga till minst en lösning för att skapa ett avtal. Lösningsinformationen kan ändras när du har skapat ett avtal. Det finns flera typer av lösningar som kan läggas till i ett avtal, som beskrivs nedan
 
-- **Mitt företags lösningar:** Det här är lösningar för säljförsäljning som publiceras av ditt företag
+- **Mitt företags lösningar:** Det här är lösningar som är redo för säljförsäljning och som publiceras av ditt företag
 - **Microsoft:** Det här är lösningar som ägs av Microsoft
 - **Andra lösningar från tredje part:** Det här är lösningar för säljförsäljning som publiceras av andra partner i Microsofts ekosystem för säljförsäljning
 - **Lösningsutvärderingar:** Det här är utvärderingstyperna som en berättigad partner kan välja utifrån kundens behov
 
 > [!Important]
-> Endast en utvärderingstyp kan väljas för ett lösningsutvärderingsavtal och inga andra lösningar kan läggas till. När en lösningsutvärdering har valts måste partnern välja den plats där utvärderingen skapas. Detta krävs för rätt incitamentutbetalningar.
+> Endast en utvärderingstyp kan väljas för ett lösningsutvärderingsavtal och inga andra lösningar kan läggas till. När en lösningsutvärdering har valts måste partnern välja den plats som utvärderingen skapas för. Detta krävs för rätt incitamentutbetalningar.
 
-När du har angett lösningsinformationen väljer du Nästa för att gå till avsnittet där du kan välja säljtyp. Du har fyra alternativ om du väljer lösningar bland de första tre alternativen i lösningstypen och inte en lösningsbedömning:
+När du har angett lösningsinformationen väljer du Nästa för att gå till avsnittet där du kan välja säljtyp. Du har fyra alternativ om du väljer lösningar bland de första tre alternativen i lösningstypen och inte en lösningsutvärdering:
 
-**Privat avtal:** Om du inte bjuder in Microsoft och skapar ett engagemang i det här steget är det av typen privat pipeline. Microsoft-säljare har ingen insyn i detaljerna i det här avtalet. Du kan skapa ett  privat avtal genom att välja Ingen hjälp krävs just nu för frågan "Identifiera vilken typ av **hjälp du behöver från Microsoft?"** och **Nej** för frågan **"Vill du att Microsoft-säljare ska kunna visa det här avtalet?".** Du kan alltid uppgradera ett privat avtal till ett partnerledt eller aktivt samförsäljningsavtal innan avtalet når ett terminaltillstånd (won, lost).
+**Privat avtal:** Om du inte bjuder in Microsoft och skapar ett engagemang i det här steget är det av typen privat pipeline. Microsoft-säljare har ingen insyn i informationen om det här avtalet. Du kan skapa ett  privat avtal genom att välja Ingen hjälp krävs just nu för frågan "Identifiera vilken typ av **hjälp du behöver från Microsoft?"** och **Nej** för frågan **"Vill du att Microsoft-säljare ska kunna visa det här avtalet?".** Du kan alltid uppgradera ett privat avtal till ett partnerledt eller aktivt samförsäljningsavtal innan avtalet når ett terminaltillstånd (won, lost).
 
 > [!Important]
-> Avtalsregistrering gäller inte för privata avtal. Var försiktig när du skapar ett privat avtal med incitamentberättigade lösningar eftersom de inte är berättigade till avtalsregistrering i Partnercenter.
+> Avtalsregistrering gäller inte för privata avtal. Var försiktig när du skapar ett privat avtal med berättigade incitamentlösningar eftersom de inte är berättigade till avtalsregistrering i Partnercenter.
 
-**Partnerledt** avtal: Om du inte vill söka aktiv hjälp från Microsofts säljteam, men vill ge dem insyn i din pipeline, kan du skapa ett partnerledt avtal. Du kan skapa ett partnerledt avtal genom att välja Ingen hjälp krävs just nu för frågan "Identifiera vilken typ av **hjälp du behöver från Microsoft?"**  och **Ja** för frågan **"Vill du att Microsoft-säljare ska kunna visa det här avtalet?".** Dessa avtal är berättigade till avtalsregistrering även om Microsoft-säljare inte aktivt hjälper partnern. Kraven för avtalsregistrering har en incitamentberättigad lösning i avtalet och har fått statusen för avtalet.
+**Partnerledt** avtal: Om du inte vill söka aktiv hjälp från Microsofts säljteam, men vill ge dem insyn i din pipeline, kan du skapa ett partnerledt avtal. Du kan skapa ett partnerledt avtal genom att välja Ingen hjälp krävs just nu för frågan "Identifiera vilken typ av **hjälp du behöver från Microsoft?"**  och **Ja** för frågan **"Vill du att Microsoft-säljare ska kunna visa det här avtalet?".** Dessa avtal är berättigade till avtalsregistrering även om Microsoft-säljare inte aktivt hjälper partnern. Kraven för avtalsregistrering har en incitamentberättigad lösning i avtalet och har fått status för avtalet.
 
-**Avtal för säljförsäljning:** Om du väljer något annat alternativ än standardvalet för frågan "Identifiera vilken typ av hjälp du vill ha från **Microsoft"** omvandlas avtalet till ett säljavtal där en Microsoft-säljare potentiellt kan hjälpa dig att avsluta avtalet. En begäran om hjälp från Microsoft garanterar inte att en Microsoft-säljare kommer att delta i avtalet. Microsofts säljare har 14 dagar på sig att avgöra om de vill delta. I anteckningsavsnittet ska du se till att identifiera vilken typ av hjälp du vill ha.
+**Säljavtal:** Om du väljer något annat alternativ än standardvalet för frågan "Identifiera vilken typ av hjälp du vill ha från **Microsoft"** omvandlas avtalet till ett samförsäljningsavtal där en Microsoft-säljare potentiellt kan hjälpa dig att stänga avtalet. En begäran om hjälp från Microsoft garanterar inte att en Microsoft-säljare kommer att delta i avtalet. Microsofts säljare har 14 dagar på sig att avgöra om de vill delta. I anteckningsavsnittet ska du se till att identifiera vilken typ av hjälp du vill ha.
 
-**Partner till partner-avtal (P2P):** Du kan bjuda in andra partner till avtalet genom att klicka på länken Bjud in partner. Nedan visas processen för att skapa ett P2P-avtal.
+**Partner-till-partner-avtal (P2P):** Du kan bjuda in andra partner till avtalet genom att klicka på länken Bjud in partner. Nedan visas processen för att skapa ett P2P-avtal.
 
-- **Välj en partner:** När du klickar på Bjud in partner kan du börja skriva partnernamnet för att få förslag på en lista över partner som matchar det namn som du anger. Välj den partner som du är intresserad av för att fylla i mer information för den partnern. Du kan bara söka efter partner som finns i Microsofts ekosystem för säljförsäljning och som gör köp i Partnercenter.
+- **Välj en partner:** När du klickar på Bjud in partner kan du börja skriva partnernamnet för att hämta den föreslagna listan över partner som matchar det namn som du anger. Välj den partner som du är intresserad av för att fylla i mer information för den partnern. Du kan bara söka efter partner som finns i Microsofts ekosystem för säljförsäljning och som gör köp i Partnercenter.
 
-- **Beräknat stängningsdatum:** Det här är det datum då du förväntar dig att den inbjudna partnern slutför sin del av avtalet. Datumet är ifyllt i förväg så att du bara kan ändra datumet om det behövs. Det är ett obligatoriskt fält och kan redigeras av den partner som du bjuder in när du har skapat avtalet. Du kan inte ändra det här fältet när du har skapat avtalet.
+- **Beräknat stängningsdatum:** Det här är det datum då du förväntar dig att den inbjudna partnern slutför sin del av avtalet. Datumet är ifyllt i förväg så att du kan välja att bara ändra datumet om det behövs. Det är ett obligatoriskt fält och kan redigeras av den partner som du bjuder in när du har skapat avtalet. Du kan inte ändra det här fältet när du har skapat avtalet.
 
-- **Beräknat värde och valuta:** Det här är värdet av det avtal som den inbjudna partnern kommer att ha i det övergripande avtalet. Se till att du anger rätt värde här så att den inbjudna partnern kan avgöra om de vill vara en del av avtalet eller inte. Den inbjudna partnern kan ändra det här värdet när avtalet har skapas. Du kan inte ändra det här fältet när du har skapat avtalet.
+- **Beräknat värde och valuta:** Det här är värdet av det avtal som den inbjudna partnern kommer att ha i det övergripande avtalet. Se till att du anger rätt värde här så att den inbjudna partnern kan avgöra om de vill vara en del av avtalet eller inte. Den inbjudna partnern kan ändra det här värdet när avtalet har skapats. Du kan inte ändra det här fältet när du har skapat avtalet.
 
 - **Kommentarer:** Lägg till information om varför du bjuder in partnern att ingå i det här avtalet. Detaljerad information hjälper den inbjudna partnern att avgöra om de vill delta.
 
-- **Lägg till ditt team:** Lägg till de anställda från ditt företag som ska arbeta med den inbjudna partnern. Om den inbjudna partnern godkänner avtalet kan de lägga till sina egna anställda så att båda företagen har en vy över hela teamet som samarbetar med avtalet. Du kan bara ändra den här informationen innan du skapar avtalet. Medarbetarinformationen som anges i dina avtalsdata är ifylld i förväg för att göra det enklare för dig att välja de anställda som arbetar med den här specifika partnern.
+- **Lägg till ditt team:** Lägg till de anställda från ditt företag som ska arbeta med den inbjudna partnern. Om den inbjudna partnern godkänner avtalet kan de lägga till sina egna anställda så att båda företagen har en vy över hela teamet som samarbetar om avtalet. Du kan bara ändra den här informationen innan du skapar avtalet. Informationen om anställda som anges i dina avtalsdata är ifylld i förväg för att göra det enklare för dig att välja de anställda som arbetar med den här specifika partnern.
 
 - **Lägg till lösningar:**  Lägg till de lösningar som du vill att den inbjudna partnern ska ta med i tabellen. Minst en lösning är obligatorisk. Den inbjudna partnern kan ändra lösningarna när de har accepterat inbjudan.
 
 - **Identifiera typen av hjälp:** Identifiera typen av hjälp: Identifiera slutligen den specifika hjälp du behöver från den inbjudna partnern.
 
-Upprepa detta för alla partner som du vill bjuda in till det här avtalet. En partner till partner-avtal kan också involvera Microsoft-säljare där du bjuder in både Microsoft och partner till avtalet. Du kan också bjuda in både Microsoft och partner senare när du har skapat avtalet.
+Upprepa detta för alla partner som du vill bjuda in till det här avtalet. En partner-till-partner-avtal kan också involvera Microsoft-säljare där du bjuder in både Microsoft och partnern till avtalet. Du kan också bjuda in både Microsoft och partner senare när du har skapat avtalet.
 
 ## <a name="responding-to-a-co-sell-opportunity"></a>Svara på en möjlighet till säljförsäljning
 
 Varje affärsmöjlighet går igenom en egen livscykel.
 
-### <a name="received-stage"></a>Mottagen fas
+### <a name="received-stage"></a>Fasen Mottagen
 
-Om du i det här skedet har fått en ny möjlighet till säljförsäljning antingen från en Microsoft-säljare eller från andra partner i Microsofts ekosystem för säljförsäljning, kan du granska informationen och kontakta kunden om du vill veta mer om deras affärsbehov. Du kan vidta två åtgärder i det här steget. godkänn eller avvisa hänvisningen:
+Om du i det här skedet har fått en ny möjlighet till säljförsäljning från antingen en Microsoft-säljare eller från andra partner i Microsofts ekosystem för säljförsäljning kan du granska informationen och kontakta kunden om du vill veta mer om deras affärsbehov. Du kan vidta två åtgärder i det här steget. godkänn eller neka hänvisningen:
 
-- **Acceptera:** Ange ett namn för avtalet, redigera det uppskattade avtalsvärdet och tidsramen för beräknat köp baserat på din granskning. När du har upprättat kontakten med kunden bör du ange information i fältet **Anteckningar** för att förklara mer om vad kunden letar efter. Om du vill kan du ange ditt CRM-ID här (endast som referens), det marknadsföringskampanj-ID som resulterade i respektive affärsmöjlighet och lägga till kontakter från ditt företag som kommer att arbeta med avtalet.
+- **Acceptera:** Ange ett namn för avtalet, redigera det uppskattade avtalsvärdet och tidsramen för det uppskattade köpet baserat på din granskning. När du har upprättat kontakten med kunden bör du ange information i fältet **Anteckningar** för att förklara mer om vad kunden letar efter. Om du vill kan du ange ditt CRM-ID här (endast som referens), det marknadsföringskampanj-ID som resulterade i respektive affärsmöjlighet och lägga till kontakter från ditt företag som kommer att arbeta med avtalet.
 
-- När du är klar väljer du **Nästa.** Vi flyttar hänvisningen till nästa **steg, vilket innebär att** du planerar att aktivt interagera med kunden för att hantera deras behov. Vi kommer också att använda den här informationen för att hjälpa dig att hitta liknande avtal i framtiden.
+- När du är klar väljer du **Nästa.** Vi flyttar hänvisningen till nästa **steg, vilket innebär** att du planerar att aktivt engagera kunden för att hantera deras behov. Vi kommer också att använda den här informationen för att hjälpa dig att hitta liknande avtal i framtiden.
 
-- **Avböj:** Välj orsaken till att du avböjer avtalet och lägg till eventuella anteckningar som du vill inkludera och välj sedan **Stäng avtalet.** Vi arkiverar den som **Nekad och** meddelar antingen Microsoft eller partnern som skickade den här möjligheten till dig.
+- **Neka:** Välj orsaken till att du avböjer avtalet och lägg till eventuella anteckningar som du vill inkludera och välj sedan **Stäng avtalet.** Vi arkiverar den som **Nekad och** meddelar antingen Microsoft eller partnern som skickade den här möjligheten till dig.
 
-- Om du inte svarar inom den tilldelade tiden (för närvarande 14  dagar) arkiverar vi det som Upphört och meddelar antingen Microsoft eller partnern som skickade dig den här möjligheten.
+- Om du inte svarar inom den tilldelade tiden (för närvarande 14  dagar) arkiverar vi den som Förfallen och meddelar antingen Microsoft eller partnern som skickade dig den här möjligheten.
 
-### <a name="accepted-stage"></a>Godkänt steg
+### <a name="accepted-stage"></a>Godkänd fas
 
-Arbeta för att stänga avtalet med kunden. Om du vill ändra någon av informationen som du har angett för en godkänd referens väljer du **Redigera**. Du kan sedan uppdatera avtalsnamnet, beräknat inköpsdatum, beräknat värde, anteckningar, CRM-ID och/eller marknadsföringskampanjens ID.  Du kan också välja **Lägg till ditt team** för att ange namn, telefonnummer och e-postadresser för fler personer som arbetar med avtalet. Lösningar kan också redigeras baserat på kundens behov.
+Arbeta för att stänga avtalet med kunden. Om du vill ändra någon av de uppgifter som du har angett för en godkänd hänvisning väljer du **Redigera**. Du kan sedan uppdatera avtalsnamnet, beräknat inköpsdatum, beräknat värde, anteckningar, CRM-ID och/eller marknadsföringskampanjens ID.  Du kan också välja **Lägg till ditt team** för att ange namn, telefonnummer och e-postadresser för fler personer som arbetar med avtalet. Lösningar kan också redigeras baserat på kundens behov.
 
-Alla avtal som du har skapat är i godkänt steg som standard.
+Alla avtal som du har skapat är i godkänd fas som standard.
 
-När du har börjat arbeta med avtalet kan du ange information om förloppet genom att markera försäljningsstadier i avtalets livscykel. Det finns fyra faser i avtalslivscykeln förutom det första godkännandet eller skapandet och de slutliga stegen som vunnits eller förlorats enligt nedan. Det är valfritt att tillhandahålla den här informationen, men vi rekommenderar starkt att du delar dessa för att få lämplig hjälp från Microsofts säljare i ett samförsäljningsavtal.
+När du har börjat arbeta med avtalet kan du ange information om förloppet genom att markera försäljningsstegen i avtalets livscykel. Det finns fyra faser i avtalslivscykeln förutom det första godkännandet eller skapandet och de slutliga stegen som vunnits eller förlorats enligt nedan. Det är valfritt att tillhandahålla den här informationen, men vi rekommenderar starkt att du delar med dig av dessa för att få lämplig hjälp från Microsofts säljrepresentanter i ett säljavtal.
 
 :::image type="content" source="images/pscmigration/salesstage.png" alt-text="Bild som visar avtalslivscykeln där försäljningssteget kan markeras.":::
 
 > [!Note]
-> Försäljningsstadier varierar om avtalet är ett lösningsutvärderingsavtal. Det är också obligatoriskt att **markera försäljningssteget** för lösningsutvärderingserbjudanden. **Knappen** Won aktiveras först när alla försäljningsstadier har markerats som slutförda av partnern.
+> Försäljningsfaserna varierar om avtalet är ett lösningsutvärderingsavtal. Det är också obligatoriskt att **markera försäljningssteget** för lösningsutvärderingserbjudanden. **Knappen** Won (Genomförd) aktiveras först när alla försäljningsstadier har markerats som slutförda av partnern.
 
 Nedan visas tabellen med försäljningsstadier och motsvarande procentandelar för andra avtal än lösningsutvärderingar som bestäms av referenssystemet för Microsoft Partner Center.
 
@@ -164,15 +164,15 @@ Nedan visas tabellen med försäljningsstadier och motsvarande procentandelar f�
 |:----|:-----|:-----|
 |Skapad|10 %|Skapa ett utgående avtal.|
 |Har godkänts|10 %|Godkänna ett inkommande avtal.|
-|Kvalificerad|20%|Kvalificera avtalets värde och kundkraven innan du fortsätter.|
+|Kvalificerad|20%|Kvalificera värdet för avtalet och kundkraven innan du fortsätter.|
 |Utvecklat|40 %|Utveckla avtalet ytterligare för att förstå de detaljerade kraven för att antingen förbereda en POC eller andra artefakter som krävs för ett formellt förslag.|
 |Föreslagen|60 %|Göra ett formellt förslag till kunden baserat på deras krav.|
-|Förhandlat|80 %|Förhandla om de slutliga villkoren baserat på förslaget för att komma till sluttillståndet – att vinna eller förlora avtalet.|
+|Förhandlat|80 %|Förhandla om de slutliga villkoren baserat på förslaget att komma till sluttillståndet – att vinna eller förlora avtalet.|
 |Vann|100 %|Markera avtalet som vunnit.|
 
-När du är klar kan du utföra någon av de två  åtgärderna, som markerar avtalet som Won (Vunnit) eller **Lost (Förlorad)** för att rapportera resultatet.
+När du är klar kan du utföra någon av de två  åtgärderna, som markerar avtalet som Won (Won) eller **Lost (Förlorad)** för att rapportera resultatet.
 
-Det är inte nödvändigt att ditt företag följer samma försäljningsfaser. Det är så Partnercenter identifierar avtalsförsäljningsstegen och mappar automatiskt företagets faser till dessa standardfaser om du använder API:et för att skicka dessa värden. Om du använder Partner Center UX används procentandelarna som visas i tabellen för att markera försäljningsstegen.
+Det är inte nödvändigt att ditt företag följer samma försäljningsstadier. Det är så Partnercenter identifierar avtalsförsäljningsstegen och mappar automatiskt företagets faser till dessa standardfaser om du använder API:et för att skicka dessa värden. Om du använder Partner Center UX används procentandelarna som visas i tabellen för att markera försäljningsstegen.
 
 > [!Note]
 > När du har valt Won (Won) för vissa berättigade lösningar uppmanas du att ange ytterligare information för att registrera ditt avtal. Microsoft granskar informationen du anger här och kan be om ytterligare information under granskningsprocessen. Mer information finns i [Registrera dina avtal.](register-deals.md)
@@ -188,7 +188,7 @@ Ett avtal är endast berättigat till avtalsregistrering om det uppfyller alla n
 - Om typen av avtal är samförsäljning har Microsoft antingen accepterat inbjudan eller markerat avtalet som vunnit. Du kan förstå Microsofts status genom att titta på Microsoft-kortet under din avtalsinformation.
 
 > [!Important]
-> Registrera avtalet endast om företagets namn och den berättigade lösningen för incitament i avtalet tydligt anges i avtalet med kunden.
+> Registrera avtalet endast om företagets namn och den berättigade incitamentlösningen i avtalet tydligt anges i avtalet med kunden.
 
 Om avtalet är berättigat till avtalsregistrering läggs ytterligare en milstolpe till i avtalets livscykel med namnet "Avtalsregistrering" enligt nedan.
 
@@ -225,7 +225,7 @@ Nej, avtal kan inte ändras när de flyttas till ett terminaltillstånd. Utgång
 
 **F. Vem får du ett e-postmeddelande från Partnercenter?**
 
-Arbetsflödet nedan förklarar hur e-postmeddelanden skickas till partner från referenssystemet i Partnercenter för nya inkommande partnerreferenser.
+Arbetsflödet nedan förklarar hur e-postmeddelanden skickas till partner från Partner Center-hänvisningssystemet för nya inkommande partnerreferenser.
 
 :::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Bild som visar logiken för hur e-postmeddelanden skickas till partner för nya inkommande hänvisningar.":::
 

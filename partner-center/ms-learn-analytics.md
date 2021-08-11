@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b291ee52c9c6e72dc50aab9aa386177d9778cbd1
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: e56ba633df6980605361fb5dabde185bda5baa663581e5ef47d4da4fda924a04
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845422"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694548"
 ---
 # <a name="use-microsoft-learn-analytics-reports"></a>Använda Microsoft Learn analysrapporter
 

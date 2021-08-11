@@ -9,12 +9,12 @@ author: Brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3315fe6428613c882bc654d03ce74a57303fba88
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 71c3af5cdb3cb35ff13a455748a93699df43a8b1615116ca7058df3c6a23b7b9
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839725"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694667"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Migrera Dynamics 365 och en plan för kundengagemang från Basic (kvalificerade erbjudanden) till nyare versioner
 
@@ -90,7 +90,7 @@ Kunden kommer nu att ha både den gamla och den nya. Nästa steg är att omtilld
 1. Välj **Kunder** i det vänstra navigeringsfältet och välj sedan den kund som du flyttar.
 2. Välj **Användare och licenser.**
 3. Om du vill tilldela om en licens till en användare väljer du användaren och sedan **Hantera licenser.** 
-4. På sidan **Hantera licenser** avmarkerar du kryssrutan Dynamics 365 for Sales/Customer Engagement Plan från Basic-licens (kvalificerat erbjudande) och väljer en ny tjänstplan för prenumerationen som kunden flyttar till. 
+4. På sidan **Hantera licenser** avmarkerar du kryssrutan Dynamics 365 for Sales/Customer Engagement Plan från Basic-licens (kvalificerat erbjudande) och väljer en ny tjänstplan för den prenumeration som kunden flyttar till. 
 5. Välj **Skicka**. Du gör detta för varje användare som behöver den nya licensen. 
 
 När du har flyttat över licenserna till den nya prenumerationen kan du avbryta den gamla prenumerationen. 

@@ -9,12 +9,12 @@ ms.localizationpriority: high
 author: vinayks
 ms.author: vinayks
 ms.date: 01/27/2021
-ms.openlocfilehash: ab99fc400f7392d43785457f817e0469f7f2c077
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 2822d8c20841f647de8d1f4ab8ef3f41e116a1bd3aa2944f2c5f101d242604e9
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840152"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115686488"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Lär dig hur du samarbetar med indirekta leverantörer i Molnlösningsleverantör program
 

@@ -8,12 +8,12 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: a81962de16b56329167338012cc66e160fffafe8
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 61a4a4d21aa2c9ba28c373e7a112c81a785c43e1e37bf696deb77434516a9e7c
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151890"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687779"
 ---
 # <a name="create-and-submit-documents-for-your-incentives-proof-of-execution-poe"></a>Skapa och skicka dokument för ditt incitamentsbevis (PoE)
 
@@ -21,7 +21,7 @@ ms.locfileid: "110151890"
 
 Innan du får betalt för ditt incitamentsarbete måste du skicka ett detaljerat poE (proof of execution). Den här artikeln vägleder dig genom processen för att skapa ett effektivt körningsbevis.
 
-## <a name="how-to-submit-a-poe"></a>Så här skickar du ett PoE
+## <a name="how-to-submit-a-poe"></a>Så här skickar du en PoE
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 
@@ -44,19 +44,19 @@ Innan du får betalt för ditt incitamentsarbete måste du skicka ett detaljerat
 8. På sidan **Nytt bevis för utförandeanspråk** anger du de obligatoriska fälten.
 
    - **Namn**  Ett eget namn för co-op-anspråket.
-   - **Datum**  Körningsdatum. Det här datumet måste infalla mellan startdatumet för kampanjen och slutdatumet för kampanjen.
+   - **Datum**  Körningsdatum. Det här datumet måste infalla mellan startdatumet för kampanjen och kampanjens slutdatum.
    - **Uppskattade visningar**   Den uppskattade räckvidden för den här aktiviteten; antal personer.
    - **Förgodkännande-ID**   Detta är det ID som Microsoft skickar till dig när vi har godkänt ditt marknadsföringsmaterial.
 
 9. När du är klar väljer du **Skapa anspråk**.
 
 10. På sidan för **faktura- och utgiftsinformation** laddar du upp något av följande två dokument:
-    - **Faktura från tredje part**  I fältet **Tredjepartsfaktura väljer du** Dra eller **bläddra bland filer för att ladda upp**. Lägg till faktura och nödvändig fakturainformation och välj sedan **Spara.**
-    - **Rapport för certifieringstjänst**  Välj **Lägg till certifieringstjänstrapport.** På sidan **Generera en certifieringstjänstrapport** fyller du i de obligatoriska fälten och väljer sedan **Spara.**
+    - **Faktura från tredje part**  I fältet **Tredjepartsfaktura väljer du** Dra eller **bläddra bland filer för att ladda upp**. Lägg till faktura och nödvändig fakturainformation och välj sedan **Spara**.
+    - **Certifieringstjänstrapport**  Välj **Lägg till certifieringstjänstrapport.** På sidan **Generera en certifieringstjänstrapport** fyller du i de obligatoriska fälten och väljer sedan **Spara.**
 
 11. Du kan också ladda upp **bevisdokument** om du vill. I fältet **Bevisdokument väljer** du Dra **eller bläddra bland filer för att ladda upp**. Om du väljer Proof documents (Bevisdokument) måste du lägga till förklarande anteckningar. När du har lagt till en anteckning väljer du **Spara**.
 
-12. Ange eventuella slutliga kommentarer innan du skickar din PoE och välj sedan **Skicka anspråk.**
+12. Ange eventuella slutliga kommentarer innan du skickar in PoE och välj sedan **Skicka anspråk.**
 
 ## <a name="view-the-status-of-a-poe"></a>Visa status för ett PoE
 

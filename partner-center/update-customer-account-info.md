@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d0bb023bae86a4ff8789bd256273de8f8901a4c
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: b0d804878835012a005a47d93e9b50a4b27d584f976257328ad022c3f5ece116
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844163"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115695874"
 ---
 # <a name="update-customer-account-info-company-details-and-customer-billing-information-in-partner-center"></a>Uppdatera kundkontoinformation, företagsinformation och kundfaktureringsinformation i Partnercenter
 

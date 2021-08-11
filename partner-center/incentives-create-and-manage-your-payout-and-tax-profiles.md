@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: a6d578c2ad09e1f8bb03f520d659f1a9b1e199a9
-ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
+ms.openlocfilehash: 35210907bfdb45c491cf08c531543b2ea91a2d214bbab085aa1d367e3168ff2a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "113684261"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115695381"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Skapa och hantera incitament för utbetalnings- och skatteprofiler i Partnercenter
 
@@ -27,7 +27,7 @@ Det är viktigt att du förstår informationen nedan innan du börjar med din ut
 
 ### <a name="roles-and-permissions"></a>Roller och behörigheter
 
-Du måste vara incitamentsadministratör för att kunna ange bank- och skatteinformation för incitamentsbetalningar. Om du är MPN-/kontoadministratör kan du tilldela dig själv och/eller en kollega som incitamentsadministratör.
+Du måste vara incitamentsadministratör för att kunna ange bank- och skatteinformation för incitamentsbetalningar. Om du är MPN/kontoadministratör kan du tilldela dig själv och/eller en kollega som incitamentsadministratör.
 
 Om du behöver begära incitamentsadministratörsbehörigheter kontaktar du MPN-administratören eller den globala administratören. Du kan ta reda på vem i företaget som har dessa roller genom att logga in på [instrumentpanelen i Partnercenter.](https://partner.microsoft.com/dashboard/) Från ikonen **Inställningar** längst upp till höger väljer du **Användarhantering** och filtrerar sedan på Global administratör.
 
@@ -145,7 +145,7 @@ Du omdirigeras till sidan **utbetalnings- och skatteprofiler.** Statusen för de
 
 Använd följande procedur för att förse Microsoft med den skatteinformation som krävs för din organisation. Sidorna i det här avsnittet är dynamiska och varierar beroende på land eller region. Om du behöver hjälp med att identifiera rätt skatteinformation kontaktar du lämpliga myndighetskällor i ditt land.
 
-Om du behöver information om hur du fyller i W8- eller W9-formulären för partnerföretag i Nord- och Sydamerika tar följande adresser dig till IRS-webbplatsen:
+Om du behöver information om att fylla i W8- eller W9-formulären för partnerföretag i Nord- och Sydamerika tar följande adresser dig till IRS-webbplatsen:
 
 - [http://www.irs.gov/pub/irs-pdf/iw8.pdf](http://www.irs.gov/pub/irs-pdf/iw8.pdf)
 - [http://www.irs.gov/pub/irs-pdf/iw9.pdf](http://www.irs.gov/pub/irs-pdf/iw9.pdf)
@@ -157,7 +157,7 @@ Om du behöver information om hur du fyller i W8- eller W9-formulären för part
 
 2. På sidan **Installation** väljer du det alternativ som gäller för ditt företag.
 
-   - Välj alternativet till vänster om ditt företag ingår endast i USA, eller om profilen är för en enskild person.
+   - Välj alternativet till vänster om ditt företag är inkorporerat i USA, eller om den här profilen är för en enskild person.
    - Välj alternativet till höger om ditt företag ingår utanför USA och välj sedan ditt land/din region i listan.
 
 3. Välj **Nästa**. 
@@ -170,15 +170,15 @@ Om du behöver information om hur du fyller i W8- eller W9-formulären för part
 
 7. Om du behöver ta bort dokumentet väljer du Ta **bort**.
 
-8. Om du vill spara och fortsätta väljer du **Slutför**.
+8. Om du vill spara och fortsätta väljer du **Slutför.**
 
 9. Välj **Bekräfta** i popup-meddelandet. Du kommer tillbaka till sidan för **utbetalnings- och skattekonfiguration.**
  
 ## <a name="update-expired-tax-profiles"></a>Uppdatera skatteprofiler som har upphört att gälla
 
-1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/)och välj sedan kugghjulsikonen för att **öppna Inställningar** menyn.
+1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/)och välj sedan kugghjulsikonen för att **Inställningar** menyn.
 
-1. Välj **Kontoinställningar**, expandera avsnittet **Utbetalning och** skatt och välj sedan **Utbetalnings- och skatteprofil.**
+1. Välj **Kontoinställningar,** expandera avsnittet **Utbetalning och** skatt och välj sedan **Utbetalnings- och skatteprofil.**
 
 1. Välj **Skatteprofil**.
 

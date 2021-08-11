@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 71121a7493da8dee18fc65a90a4a70cc32d712c9
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 9f124443aa67bad37a5e9aff0d0bdbbdc0ca8c3015720b960d7b18dd6ce4cbc4
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838656"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687952"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Kravundantag för ett prov för kompetensen programutveckling
 
@@ -28,7 +28,7 @@ Partner med isv-kompetens:
 
 - **Ditt kompetensmedlemskap är i** förnyelsefönstret – Undantaget för provkrav för en gång är tillgängligt i Partnercenter från och med den 22 november 2019. Du har 30 dagar på dig att dra nytta av erbjudandet. Logga in på Partnercenter för information som är specifik för ditt företag.
 
-- **Ditt kompetensmedlemskap kommer att** förnyas under de kommande månaderna – ditt krav på provundantag är tillgängligt när det är dags att förnya. Då har du 30 dagar på dig att få erbjudandet.
+- **Ditt kompetensmedlemskap kommer att** förnyas under de kommande månaderna – ditt undantag för provkrav för en gång kommer att vara tillgängligt när det är dags att förnya. Då har du 30 dagar på dig att få erbjudandet.
 
 Partner med en programutvecklingskompetens som uppnås via certifikatets IP-sökväg:
 

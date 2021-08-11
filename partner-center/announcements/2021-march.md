@@ -1,5 +1,5 @@
 ---
-title: Meddelanden i mars 2021
+title: Meddelanden mars 2021
 description: Mars 2021-meddelanden för Microsoft Partner Center, inklusive nya funktioner, kampanjer, erbjudanden, marknader eller ändringar i befintliga erbjudanden.
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,18 +9,18 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/02/2021
-ms.openlocfilehash: d03bbc6c48f7048dd111a7b83210d11c5c266977
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 28af0cecf14530554a0a17cdc2a45925f3e5d45376483fa1eb680575fdad3854
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115100420"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115688020"
 ---
-# <a name="march-2021-announcements"></a>Meddelanden i mars 2021
+# <a name="march-2021-announcements"></a>Meddelanden mars 2021
 
 Den här sidan innehåller meddelanden för Microsoft Partner Center för mars 2021.
 
-## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="19"></a>Beredskap: Ändringar i CSP Molnlösningsleverantör-api:et för kundadressverifiering går i drift i juni. nu tillgänglig testfunktion
+## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="19"></a>Beredskap: Ändringar i CSP Molnlösningsleverantör-API:et för kundadressvalidering går live i juni. nu tillgänglig testfunktion
 
 ### <a name="categories"></a>Kategorier
 
@@ -29,15 +29,15 @@ Den här sidan innehåller meddelanden för Microsoft Partner Center för mars 2
 
 ### <a name="summary"></a>Sammanfattning
 
-För att hjälpa partner och kunder att driva sin verksamhet baserat på förtroende kommer vi att bjuda in partner att testa ändringar i API:et Validate Address för alla länder över hela världen.
+För att hjälpa partner och kunder att driva sin verksamhet baserat på förtroende kommer vi att bjuda in partner att testa ändringar i API:et validate address för alla länder över hela världen.
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
 CSP-direktfaktureringspartner och indirekta leverantörer som skapar nya eller uppdaterar befintliga kunders adressinformation.
 
 ### <a name="details"></a>Information
 
-Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för kundadressvalidering för att hantera kundprenumerationer i CSP-programmet. Från och med den 31 mars 2021 har vi infört ändringar i API:et Validate Address som vi bjudit in partner att testa innan vi börjar live med ändringarna i juni 2021.
+Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för validering av kundadresser för att kunna hantera kundprenumerationer i CSP-programmet. Från och med den 31 mars 2021 har vi infört ändringar i API:et Validate Address som vi bjudit in partner att testa innan vi går live med ändringarna i juni 2021.
 
 Ändringarna påverkar endast API:et validate address. API:er för att skapa kund och uppdatera faktureringsprofil påverkas inte.
 
@@ -45,18 +45,18 @@ Svaret returnerar något av följande statusmeddelanden:
 
 | Status     | Beskrivning |    Antal föreslagna adresser som returneras |
 |-------|---------------|-------------------|
-|Verifierad leveransbar | Adressen är verifierad och kan skickas till. | Enkel |
+|Verifierad leverans | Adressen är verifierad och kan skickas till. | Enkel |
 |Verifierat | Adressen är verifierad. | Enkel |
 |Interaktion krävs | Den föreslagna adressen har ändrats avsevärt och kräver användarbekräftelse. | Enkel |
-|Gatuadress delvis | Den angivna gatuadressen är delvis och behöver mer information. | Multipel – högst tre |
-|Delvis lokal | De angivna lokalerna (byggnummer, svitnummer och annat) är ofullständiga och behöver mer information. | Multipel – högst tre |
-|Flera | Det finns flera fält som är partiella i adressen (inklusive delvis gatuadress och delvis lokal). | Multipel – högst tre |
+|Partiell gatuadress | Den angivna gatuadressen är delvis och behöver mer information. | Flera – högst tre |
+|Delvis lokal | De angivna lokalerna (byggnadsnummer, svitnummer och andra) är ofullständiga och behöver mer information. | Flera – högst tre |
+|Flera | Det finns flera fält som är partiella i adressen (inklusive delvis gatuadress och delvis lokal). | Flera – högst tre |
 |Ingen | Adressen är felaktig. | Ingen |
-|Inte validerat | Adressen kunde inte skickas via valideringsprocessen. | Ingen |
+|Inte validerat | Adressen kunde inte skickas via verifieringsprocessen. | Ingen |
 
-Amerikanska postkoder returnerar ytterligare 4 siffror + bindestreck , till exempel 12345-6789.
+Amerikanska postkoder returnerar ytterligare fyra siffror + bindestreck , till exempel 12345-6789.
 
-När en adress har skickats för validering via API:et validate address returneras följande svarsschema:
+När en adress har skickats för verifiering via API:et för validering returneras följande svarsschema:
 
 ```csharp
 
@@ -124,9 +124,9 @@ Ta en titt på det här exempelsvaret. Observera att för USA returnerar svaret 
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Dela ditt klient-ID för sandbox-miljön med ämnesexperten (Ali Firmwareki) som ska ingå i testresan, så att du kan börja förbereda dig för uppdateringen.
+- Dela ditt sandbox-klientorganisations-ID med ämnesexperten (Ali Firmwareki) som ska ingå i testresan, så att du kan börja förbereda dig för uppdateringen.
 
-- Om du använder en CPV-lösning (Kontrollpanelens leverantör) kan du kontakta din CPV.
+- Om du använder en CPV-lösning (Kontrollpanelen) bör du kontakta din CPV.
 
 ### <a name="questions"></a>Har du några frågor?
 
@@ -148,25 +148,25 @@ ________________
 
 ### <a name="summary"></a>Sammanfattning
 
-Från och med 27 april 2021 kommer Exchange Administrationscenter (EAC) att distribuera en ny upplevelse som förbättrar den dagliga effektiviteten för användarna.
+Från och med 27 april 2021 kommer Exchange-administrationscentret (EAC) att distribuera en ny upplevelse som förbättrar den dagliga effektiviteten för användarna.
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
 Delegerade administratörer som Exchange via Partnercenter
 
 ### <a name="details"></a>Information
 
-Från och med 27 april 2021 omdirigeras partner som navigerar till Exchange via Partnercenter till den nya EAC:en.
+Från och med 27 april 2021 omdirigeras partner som navigerar till Exchange partnercenter till den nya EAC:en.
 
-Den här nya upplevelsen är för närvarande tillgänglig som en förhandsversion och administratörer kan aktivera den här upplevelsen genom att välja växlingsknappen i det övre högra hörnet i klassiska EAC. De kan också navigera till den nya EAC genom att välja banderollen "Prova nu" som visas på alla sidor.
+Den här nya upplevelsen är för närvarande tillgänglig som en förhandsversion, och administratörer kan aktivera den här funktionen genom att välja växlingsknappen i det övre högra hörnet i den klassiska EAC. De kan också navigera till den nya EAC genom att välja banderollen "Prova nu" som visas på alla sidor.
 
 Fördelarna med den nya EAC:en är:
 
-- Insikter, rapporter och aviseringsmekanismer har lagts till för e-postflödesrelaterade problem. 
+- Lade till insikter, rapporter och aviseringsmekanismer för e-postflödesrelaterade problem. 
 
 - Anpassade instrumentpaneler för att öka produktiviteten.
 
-För att hjälpa dig att navigera i den nya upplevelsen finns videor i avsnittet **Utbildningsguide & den** nya EAC-upplevelsen. Dessa ger dig en översikt över hur du bäst kan använda den nya portalen.
+Videor som hjälper dig att navigera i den nya upplevelsen finns i avsnittet **Utbildningsguide & den** nya EAC-upplevelsen. Dessa ger dig en översikt över hur du bäst kan använda den nya portalen.
 
 >[!NOTE]
 >Med den här ändringen kommer den klassiska EAC-upplevelsen inte att bli inaktuell. Du meddelas i god tid innan någon ändring implementeras.
@@ -179,7 +179,7 @@ För att hjälpa dig att navigera i den nya upplevelsen finns videor i avsnittet
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har frågor om dessa ändringar kan du kontrollera Yammer communityn.
+Om du har frågor om dessa ändringar kan du kontrollera dina Yammer communityn.
 
 ________________
 ## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="17"></a>Microsoft Operations: Introduktion till kalendern för produktlansering
@@ -187,13 +187,13 @@ ________________
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2021-03-25
-- Erbjudanden | Modern arbetsplats
+- Erbjudanden | Modern Arbetsplats
 
 ### <a name="summary"></a>Sammanfattning
 
-Som svar på partnerfeedback effektiviserar Microsoft Operations kommunikationen för produktlanseringar.
+Som svar på partnerfeedback effektiviserar Microsoft Operations kommunikationen vid produktlanseringar.
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
 Molnlösningsleverantör (CSP)-partner
 
@@ -203,13 +203,13 @@ Microsoft strävar efter att kontinuerligt förbättra partnerupplevelserna. Vi 
 
 Som svar på din feedback har Microsoft effektiviserat beredskapsupplevelsen för produktlanseringar för nya och befintliga erbjudanden.
 
-Vi ger dig nu en enda månatlig vy över produktlanseringar som publicerats i resursgalleriet för driftberedskap. Den här [månatliga kalendervyn för produktlansering](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) ersätter enskilda meddelanden om produktlansering i resursgalleriet för driftberedskap och i Partnercenter-meddelanden.
+Vi ger dig nu en enda månatlig vy över produktlanseringar som publiceras i resursgalleriet för driftberedskap. Den här [kalendervyn för månatliga produktlansering](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) ersätter enskilda meddelanden om produktlansering i resursgalleriet för driftberedskap och i Partnercenter-meddelanden.
 
-Du kan också komma åt den [här produktlanseringskalendern](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) från [communitysamlingar,](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) [kalendervyer](https://partner.microsoft.com/resources/assets#/?type=collection&search=Calendar&sort=updated)och [CSP-nyhetsbrev.](https://partner.microsoft.com/resources/collection/csp-monthly-update#/) Vi meddelar dig när vi publicerar varje månads kalender för produktlansering med ett meddelande i resursgalleriet för driftberedskap.
+Du kan också komma åt den [här produktlanseringskalen](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) [från communitysamlingar,](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) [kalendervyer](https://partner.microsoft.com/resources/assets#/?type=collection&search=Calendar&sort=updated)och [CSP-nyhetsbrev.](https://partner.microsoft.com/resources/collection/csp-monthly-update#/) Vi meddelar dig när vi publicerar varje månads kalender för produktlansering med ett meddelande i resursgalleriet för driftberedskap.
 
-Du hittar fortfarande information om nya och befintliga erbjudanden i förhandsgransknings- och prislistans ändringsloggar, samt i produktbloggar, licensieringsguider och marknadsföringssidor.
+Du hittar fortfarande information om nya och befintliga erbjudanden i förhandsversionen av prislistan och ändringsloggarna för prislistan, samt i produktbloggar, licensieringsguider och marknadsföringssidor.
 
-Ändringen gäller för lanseringar för följande produkter:
+Ändringen gäller för uppskjutningar för följande produkter:
 
 - Lokal Dynamics
 - Microsoft 365
@@ -321,7 +321,7 @@ Prislistan för permanent programvara som publicerades den 1 mars 2021 innehöll
 
 - Produkt-ID: DF77X4D43RKT 
 - Produktnamn: Windows 10 Home till Pro uppgradering för Microsoft 365 företag
-- Borttagna eller icke-stödda marknader: AE, AF, AL, AM, AO, BA, BB, BD, BM, BN, BO, BR, BS, BW, BY, BZ, CI, CL, CM, CO, CR, CW, DO, DZ, EC, EG, ET, FJ, FO, GE, GH, GT, HN, IL, IN, IQ, JM, JO, KE, KG, KN, KY, KZ, LB, LK, LY, MA, MC, MD, ME , MN, MO, MU, NA, NG, NI, NP, OM, PA, PE, PH, PK, PR, PY, QA, RS, RU, RW, SG, SN, SV, TH, TJ, TM, TN, TT, TZ, UA, UG, UY, UZ, VE, VN, YE, ZM, ZW
+- Borttagna eller icke-stödda marknader: AE, AF, AL, AM, AO, BA, BB, BD, BM, BN, BO, BR, BS, BW, BY, BZ, CI, CL, CM, CO, CR, CW, DO, DZ, EC, EG, ET, FJ, FO, GE, GH, GT, HN, IL, IN, IQ, JM, JO, KE, KG, KN, KY, KZ, LB, LK, LY, MA, MC, MD, ME,  MN, MO, MU, NA, NG, NI, NP, OM, PA, PE, PH, PK, PR, PY, QA, RS, RU, RW, SG, SN, SV, TH, TJ, TM, TN, TT, TZ, UA, UG, UY, UZ, VE, VN, YE, ZM, ZW
 
 Dessa ändringar gäller endast för ovanstående produkt. Andra produkter hade inga korrigeringar. 
 

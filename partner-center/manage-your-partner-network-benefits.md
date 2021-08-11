@@ -9,14 +9,14 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd57b7b1f5e9d90d37b6e97ba269fe0f37f2a79d
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 1d66ed849ae2d6757d2620489608725e8dac6d38b6573a805a455637022d014e
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845558"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115695176"
 ---
-# <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Hantera dina Microsoft Partner Network medlemskapsförmåner och erbjudanden i Partnercenter
+# <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Hantera Microsoft Partner Network medlemsförmåner och erbjudanden i Partnercenter
 
 **Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Administratörsagent | MPN-partneradministratör
 
@@ -34,7 +34,7 @@ När du har köpt ett medlemskapsförmånspaket måste du skaffa programvarunyck
 
 Förmånspaketen omfattar allokeringar av licensierad programvara, molntjänster, Visual Studio prenumerationer och teknisk support. Förmånspaket kan även innehålla vissa Go-To-Market-resurser, erbjudanden och marknadsrelaterade program. Du kan få Action Pack prenumerationsinformation på [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software) webbplats.  
 
-Om du vill visa och hantera alla dina medlemskapsförmåner går du till [ **sidan Förmåner**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (inloggning krävs). Alternativt kan du logga in på instrumentpanelen i [Partnercenter,](https://partner.microsoft.com/dashboard)välja **alternativet**[ Förmåner ] på den vänstra menyn och sedan välja eventuella förmåner som visas.  
+Om du vill visa och hantera alla dina medlemskapsförmåner går du till [ **sidan Förmåner**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (inloggning krävs). Alternativt kan du logga in på instrumentpanelen i [Partnercenter,](https://partner.microsoft.com/dashboard)välja **alternativet**[ Förmåner ] på menyn till vänster och sedan välja eventuella förmåner som visas.  
 
 För att aktivera de flesta fördelar eller ladda ned relaterade programvarunycklar kräver Partnercenter vanligtvis att någon har tilldelats rollen som global administratör eller MPN-partneradministratör. Om du inte kan se några förmåner eller inte kan aktivera förmåner kan du kontakta din globala partnercenteradministratör för att se till att du har rätt behörigheter. [Läs mer om Partner Center-roller.](permissions-overview.md)
 
@@ -56,7 +56,7 @@ För att aktivera de flesta fördelar eller ladda ned relaterade programvarunyck
 
 ## <a name="azure-and-cloud-products"></a>Azure- och molnprodukter
 
-Fliken **Azure & Cloud Products (Azure & Cloud** Products) visar användningsbaserade prenumerationer (Azure-kredit) och de licensbaserade prenumerationer (till exempel Office 365) som har etablerats till dig, licenskvantitet för varje produkt, erbjudandetypen som etablerade förmånsprodukten till dig, förmånstypen (oavsett om den kommer från kärnan eller inkrementellt) och datumet då förmånen upphör att gälla.
+Fliken **Azure & Cloud Products (Azure-molnprodukter)** visar användningsbaserade prenumerationer (Azure-kredit) och de licensbaserade prenumerationer (till exempel Office 365) som har etablerats till dig, licenskvantitet för varje produkt, erbjudandetypen som etablerade förmånsprodukten till dig, förmånstypen (oavsett om den kommer från kärnan eller inkrementellt) och datumet då förmånen upphör att gälla.
 
 :::image type="content" source="images/benefits/azuretab.png" alt-text="Fliken Azure- och molnprodukter.":::
 
@@ -103,7 +103,7 @@ Om du vill aktivera licensbaserade prenumerationer klickar du på listrutan i li
 
 I det här avsnittet beskrivs hur du aktiverar och hanterar tekniska supportförmåner på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard) 
 
-Gör följande om du vill se tekniska fördelar med produktsupporten i Partnercenter:
+Om du vill se tekniska fördelar för produktsupporten i Partnercenter gör du följande:
 
 1. Logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard)
 
@@ -128,7 +128,7 @@ Gör följande om du vill se tekniska fördelar med produktsupporten i Partnerce
 
   
 ## <a name="manage-technical-benefits---partner-advisory-hours"></a>Hantera tekniska förmåner – rådgivningstimmar för partner
-Rådgivningstimmar för partner är den valuta som används för tekniska presales- och distributionstjänster **(TPD),** helt enkelt logga in för att skicka en begäran (aktivering eller användartilldelning krävs inte).
+Rådgivningstimmar för partner är den valuta som används för tekniska tjänster för försäljning och distribution **(TPD),** helt enkelt logga in för att skicka en begäran (aktivering eller användartilldelning krävs inte).
 
 Om du vill se de tekniska förmånerna för dina rådgivningstimmar för partner i Partnercenter gör du följande:
 
@@ -155,22 +155,22 @@ Om du vill se de tekniska förmånerna för dina rådgivningstimmar för partner
 
 2. Om du vill aktivera ett go-to-market-erbjudande eller program måste du först tilldela en marknadsföringskontakt till företaget. Den här kontakten får uppföljningskommunikation om dina aktiva Go-To-Market-erbjudanden.
 
-3. Om du vill lägga till eller uppdatera din marknadsföringskontaktinformation går du till överst på sidan Go-To-Market och väljer sedan **Lägg** till, **Uppdatera** eller **Ändra**. Gör nu följande:  
+3. Om du vill lägga till eller uppdatera din marknadsföringskontaktinformation går du till sidan Go-To-Market (Go-To-Market) och väljer **Lägg** till, **Uppdatera** eller **Ändra**. Gör nu följande:  
 
-   a. Välj en användare i listan. Om den användare som du vill tilldela inte finns i listan kan du lägga [till nya användare](create-user-accounts-and-set-permissions.md) i **Kontoinställningar.**
+   a. Välj en användare i listan. Om den användare som du vill tilldela inte finns i listan kan du lägga [till nya användare i](create-user-accounts-and-set-permissions.md) **Kontoinställningar.**
 
-   b. Ange en e-postadress för användaren som skiljer sig från den e-postadress som är associerad med ditt företags Partnercenter-konto.
+   b. Ange en e-postadress för användaren som skiljer sig från den e-postadress som är kopplad till ditt företags Partnercenter-konto.
 
-      Vi skickar e-postanvisningar för användning av ditt Go-To-Market-erbjudande till din avsedda marknadsföringskontakts e-postadress.
+      Vi skickar e-postanvisningar för att använda ditt Go-To-Market-erbjudande till din avsedda marknadsföringskontakts e-postadress.
 
    c.  Ange telefonnummer och språk för den här marknadsföringskontakten. När du har angett den här informationen väljer du **Tilldela användare**.
 
-4. När du har uppdaterat din marknadsföringskontakt hittar du det Go-To-Market-erbjudande som du vill börja använda och väljer sedan nedåtpilen längst till höger på raden för att expandera erbjudandets information. I listan visas varje typ av erbjudande som är tillgängligt under förmånens namn (till exempel **Silver Core,** **Gold Core** eller **ISV-säljklar).**
+4. När du har uppdaterat din marknadsföringskontakt hittar du det Go-To-Market-erbjudande som du vill börja använda och väljer sedan nedåtpilen längst till höger på raden för att expandera erbjudandets information. I listan visas varje typ av erbjudande som är tillgänglig under förmånsnamnet (till exempel **Silver Core,** **Gold Core** eller **ISV Co-sell ready**).
 
 5. Välj **Aktivera** för att aktivera erbjudandet.
 
    > [!NOTE]
-   >Det kan ta flera dagar att skicka e-postinstruktioner till den tilldelade marknadsföringskontakten och aktivera ett Go-To-Market-erbjudande. När erbjudandet har aktiverats visas ändringar på sidan Go-To-Market (Go-To-Market). I **kolumnen Status** ser du att erbjudandet har ändrats till **Aktiv**. I kolumnen **Upphör** att gälla visas det datum då erbjudandet upphör att gälla. Du kan använda det här erbjudandet fram till förfallodatumet. Läs mer om de [olika typerna av Go-To-Market-resurser, erbjudanden och program som är](mpn-learn-about-go-to-market-benefits.md) tillgängliga.  
+   >Det kan ta flera dagar att skicka instruktioner via e-post till den tilldelade marknadsföringskontakten och aktivera ett Go-To-Market-erbjudande. När erbjudandet har aktiverats visas ändringar på sidan Go-To-Market (Go-To-Market). I **kolumnen Status** ser du att erbjudandet har ändrats till **Aktiv**. I **kolumnen Upphör** att gälla visas det datum då erbjudandet upphör att gälla. Du kan använda det här erbjudandet fram till dess förfallodatum. Läs mer om [de olika typerna av Go-To-Market-resurser, erbjudanden och program som är](mpn-learn-about-go-to-market-benefits.md) tillgängliga.  
 
 ## <a name="cancel-a-membership-benefit-or-offer"></a>Avbryta en medlemskapsförmån eller ett erbjudande
 
@@ -182,4 +182,4 @@ För att kunna avbryta en förmån eller ett erbjudande och få en återbetalnin
 
 - [Köpa eller förnya en prenumeration på Microsoft Action Pack](mpn-get-action-pack.md)
 
-- [Läs mer om MPN Go-To-Market-erbjudanden och -resurser](mpn-learn-about-go-to-market-benefits.md)
+- [Läs mer om ERBJUDANDEN och resurser för MPN Go-To-Market](mpn-learn-about-go-to-market-benefits.md)

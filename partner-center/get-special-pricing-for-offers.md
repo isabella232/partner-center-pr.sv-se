@@ -9,18 +9,18 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d875a5a511851168ed6aa7e58b81057513b413ab
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: c66f25837376eb33ea405639575b2dc14b7485ee5e80fac005a6945d9b80257e
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840458"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115686609"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Sälj till specialiserade branscher såsom utbildning, ideella organisationer och myndighetsanvändare
 
 **Lämpliga roller:** Global | Administratörsagent | Försäljningsagent
 
-Microsoft erbjuder särskilda, reducerade priser för utvalda grupper av kunder, inklusive utbildningskunder, ideella kunder, små företag och myndigheter. Både du och kunden måste vara kvalificerade innan du kan erbjuda dem särskilda priser. Dessa specialpriserbjudanden är för **närvarande endast tillgängliga för licensbaserade** tjänster som Microsoft 365, Dynamics, Intune osv. Den är inte tillgänglig för andra typer (programvaruprenumerationer, permanent programvara eller Azure-produkter).
+Microsoft erbjuder särskilda, reducerade priser för utvalda grupper av kunder, inklusive utbildningskunder, ideella kunder, små företag och myndigheter. Både du och kunden måste vara kvalificerade innan du kan erbjuda dem särskilda priser. Dessa specialerbjudanden är för närvarande **endast tillgängliga för licensbaserade** tjänster som Microsoft 365, Dynamics, Intune osv. Den är inte tillgänglig för andra typer (programvaruprenumerationer, permanent programvara eller Azure-produkter).
 
 ## <a name="requirements-to-sell-to-specialized-industries"></a>Krav för att sälja till specialiserade branscher
 
@@ -41,11 +41,11 @@ Följande steg gäller endast för indirekta leverantörer och direktfakturering
 
 3. Om du inte ser **återförsäljarkvalifikationer** har du ännu inte fått behörighet att köpa specialerbjudanden.
 
-## <a name="check-the-customer-qualifications"></a>Kontrollera kundkvalifikationerna
+## <a name="check-the-customer-qualifications"></a>Kontrollera kundkvalifikationer
 
 1. I **menyn i Partnercenter** väljer du **Kunder.** Välj kunden i listan.
 
-2. I kundmenyn väljer du **Konto**. I avsnittet **Företagsinformation** letar du upp **Särskilda utbildningskvalifikationer.**
+2. I kundmenyn väljer du **Konto.** I avsnittet **Företagsinformation** letar du upp **Särskilda utbildningskvalifikationer.**
 
 3. Om **Specialkvalifikationer** är **inställt** på Ingen , men kunden i själva verket uppfyller kvalificeringarna, kan du **uppdatera** deras information så att de inkluderas.
 
@@ -64,10 +64,10 @@ Partner kan bara sälja specialerbjudanden till kunder om de uppfyller vissa kri
 
 Inköpsregler för att sälja specialerbjudanden till kunder:
 
-|**Kundtyp**   |**Kan säljas**   |**Det går inte att sälja**   |
+|**Kundtyp**   |**Kan säljas**   |**Kan inte säljas**   |
 |:----------------------------|:---------------------------------|:------------------------------------------|
 | Kommersiellt |Kommersiellt | Ideella organisationer, utbildning eller Government Community Cloud |
-| Ideell |Kommersiell, Ideell | Utbildning eller Government Community Cloud |
+| Ideell |Kommersiell, ideell | Utbildning eller Government Community Cloud |
 | Education |Commercial, Education | Ideella organisationer eller Government Community Cloud |
 | Government Community Cloud |Government Community Cloud | Ideell verksamhet, utbildning eller kommersiell |
 | Tillståndsägd entitet  | Kommersiellt  | Ideella organisationer, utbildning eller Government Community Cloud  |

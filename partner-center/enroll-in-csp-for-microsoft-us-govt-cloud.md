@@ -10,12 +10,12 @@ ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
 ms.date: 10/05/2020
-ms.openlocfilehash: 2cdcf88d765ab37200e0e62bdbff2bbc8d26027d
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 03e01f2de5625c0f27d79158d950cef6cd2256e572a6302a973a4fc1c5ba3a1a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844300"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115686626"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Registrera dig i Molnlösningsleverantör för Microsoft Cloud for US Government
 
@@ -34,7 +34,7 @@ Innan du kan registrera dig i CSP-programmet för Microsoft Cloud for US Governm
 Om du vill skapa ett Partnercenter-konto och registrera dig i CSP för Microsoft Cloud for US Government måste du ange följande information (du kanske vill samla in den här informationen innan du startar registreringsprocessen):
 
 - Autentiseringsuppgifter för global administratör för din organisations nya Azure AD-klientorganisation för Microsoft Cloud for US Government
-- Organisationens ID Microsoft Partner Network (MPN)
+- Din organisations id Microsoft Partner Network (MPN)
 - En företagsadress i USA
 
 > [!IMPORTANT]  

@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3ed41fa499872147ac86f5d30770ad52b6bf0cfb
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: f388d5d31576c92f1f0fdef4749fe653c18654a48be701b0d356458b8fe7a661
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836956"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694888"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Hantera olika leads som kundfrågor, marknadskvalificerade leads och säljkvalificerade leads
 
@@ -56,7 +56,7 @@ Du kan vidta två åtgärder i det här skedet– antingen acceptera eller neka 
 
 - **Neka:** Välj orsaken till att du avböjer avtalet och lägg till eventuella anteckningar som du vill inkludera och välj sedan **Stäng** avtalet. Vi arkiverar den som **Nekad** och meddelar kunden att den ska välja en annan partner.
 
-- Om du inte svarar inom den tilldelade tiden (för närvarande 14  dagar) arkiverar vi den som Förfallen och meddelar antingen Microsoft eller den partner som skickade dig den här möjligheten.
+- Om du inte svarar inom den tilldelade tiden (för närvarande 14  dagar) arkiverar vi den som Förfallen och meddelar antingen Microsoft eller partnern som skickade dig den här möjligheten.
 
 > [!TIP]
 > En kund har möjlighet att uttryckligen begära att berörda partner kontaktar dem direkt. Om så är fallet visas en avisering överst på sidan med en ikonikon. Vi rekommenderar starkt att du kontaktar kunden så snabbt som möjligt för att förbättra dina möjligheter att vinna avtalet. Efter 72 timmar fortsätter hänvisningen att vara aktiv, men ikonen och meddelandet ändras. Du bör fortfarande kontakta kunden om du är intresserad av att följa upp hänvisningen.

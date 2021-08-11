@@ -9,18 +9,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a5f1264dfdb4059d63db6cbf361e6c2f34d8bd2
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 484b6c3adb66d1bbb3358568f32412b43b8aa77d6b8c8887b4c874c2812d233d
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836633"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115695959"
 ---
-# <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Hantera oallokerade betalningar på faktureringssidan för Partnercenter
+# <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Hantera ej allokerade betalningar på faktureringssidan i Partnercenter
 
-**Lämpliga roller:** Faktureringsadministratörsroller | Kontoadministratör
+**Lämpliga roller:** Faktureringsadministratör | Kontoadministratör
 
-Ibland kan du se en oallokerad betalning på faktureringssidan. En oallokerad betalning är en betalning som du har gjort till Microsoft och som du inte har tillämpat på en specifik faktura.
+Ibland kan det hända att du ser en oallokerad betalning på faktureringssidan. En oallokerad betalning är en betalning som du har gjort till Microsoft och som du inte har tillämpat på en specifik faktura.
 
 ## <a name="to-view-your-unallocated-payments"></a>Så här visar du dina oallokerade betalningar
 
@@ -30,7 +30,7 @@ Ibland kan du se en oallokerad betalning på faktureringssidan. En oallokerad be
 
 3. På sidan Fakturering hittar du **avsnittet Ej allokerad** betalning. 
 
-Om du vill tillämpa beloppet på en viss faktura skickar du ett e-postmeddelande och talar bposcapp@microsoft.com om för oss vilken faktura som betalningen ska tillämpas på. Se till att inkludera all information som du skulle ha gjort om du gjorde en betalning. Faktureringssidan uppdateras om 5–6 dagar. 
+Om du vill tillämpa beloppet på en viss faktura skickar du ett bposcapp@microsoft.com e-postmeddelande och talar om för oss vilken faktura betalningen ska tillämpas på. Se till att inkludera all information som du skulle ha gjort om du gjorde en betalning. Faktureringssidan uppdateras om 5–6 dagar. 
 
 Oallokerade betalningar förblir oallokerade tills du tilldelar dem till en faktura. 
 

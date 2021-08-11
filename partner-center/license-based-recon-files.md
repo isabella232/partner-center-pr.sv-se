@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ebbd34e8de8db845b06b8d75bc17e88612e8477
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 7bb6900ba34c99d497d8273e56e6385aa3bf55690c8729526a5e4c6a1e60ba28
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837364"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694140"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Förstå fälten i partnercenters licensbaserade avstämningsfiler
 
@@ -44,15 +44,15 @@ Om du vill stämma av ändringarna mot en kunds beställningar jämför **du Syn
 | ChargeStartDate | Startdag för avgifterna. Tiden är alltid början på dagen, 0:00. Används för att beräkna dagliga avgifter *(pro-avgifter)* när en kund ändrar licensnummer. | *2/1/2019 0:00* |
 | ChargeEndDate | Slutdag för avgifterna. Tiden är alltid dagens slut, 23:59. Används för att beräkna dagliga avgifter *(pro-avgifter)* när en kund ändrar licensnummer. | *2/28/2019 23:59* |
 | ChargeType | Typ [av avgift eller](recon-file-charge-types.md) justering. | Se [avgiftstyper.](recon-file-charge-types.md) |
-| UnitPrice | Pris per licens, enligt vad som publicerades i prislistan vid tidpunkten för köpet. Se till att detta matchar den information som lagras i faktureringssystemet under avstämningen. | *6.82* |
-| Kvantitet | Antal licenser. Se till att detta matchar den information som lagras i faktureringssystemet under avstämningen. | *2* |
+| UnitPrice | Pris per licens, enligt vad som publicerades i prislistan vid tidpunkten för köpet. Se till att detta matchar informationen som lagras i faktureringssystemet under avstämningen. | *6.82* |
+| Kvantitet | Antal licenser. Se till att detta matchar informationen som lagras i faktureringssystemet under avstämningen. | *2* |
 | Amount | Totalt pris för kvantitet. Används för att kontrollera om beloppsberäkningen matchar hur du beräknar det här värdet för dina kunder. | *13.32* |
 | TotalOtherDiscount | Rabattbelopp som tillämpas på dessa avgifter. Produktlicenser som ingår i en kompetens eller MAPS, eller nya prenumerationer som är berättigade till ett incitament, innehåller också ett rabattbelopp i den här kolumnen. | *2.32* |
-| Delsumma | Totalsumma före skatt. Kontrollerar om din delsumma matchar din förväntade totalsumma, om det skulle bli en rabatt. | *11* |
-| Skatt | Avgift skattebelopp. Baserat på din marknads skatteregler och specifika omständigheter. | *0* |
-| TotalForCustomer | Totalt efter skatt. Kontrollerar om du debiteras skatt på fakturan. | *11* |
-| Valuta | Valutatyp. Varje faktureringsenhet har bara en valuta. Kontrollera om den matchar din första faktura. Kontrollera igen efter eventuella större uppdateringar av faktureringsplattformen. | *EUR* |
-| DomainName | Kundens domännamn. Det här fältet kan visas tomt fram till den andra faktureringsperioden. *Använd inte det här fältet som en unik identifierare för kunden. Kunden/partnern kan uppdatera standarddomänen via Office 365 portalen.* | *example.onmicrosoft.com* |
+| Delsumma | Totalsumma före skatt. Kontrollerar om din delsumma matchar din förväntade summa, om det finns en rabatt. | *11* |
+| Skatt | Avgiftsbelopp för skatt. Baserat på din marknads skatteregler och specifika omständigheter. | *0* |
+| TotalForCustomer | Totalsumma efter skatt. Kontrollerar om du debiteras skatt på fakturan. | *11* |
+| Valuta | Valutatyp. Varje faktureringsentitet har bara en valuta. Kontrollera om den matchar din första faktura. Kontrollera igen efter eventuella större uppdateringar av faktureringsplattformen. | *EUR* |
+| DomainName | Kundens domännamn. Det här fältet kan visas som tomt fram till den andra faktureringsperioden. *Använd inte det här fältet som en unik identifierare för kunden. Kunden/partnern kan uppdatera standarddomänen via Office 365 portalen.* | *example.onmicrosoft.com* |
 | SubscriptionName | Smeknamn för prenumeration. Om inget smeknamn har angetts använder Partner Center **OfferName**. | *PROJECT ONLINE* |
 | SubscriptionDescription | Namnet på det tjänsterbjudande som köpts av kunden enligt definitionen i prislistan. (Det här är ett identiskt fält **med OfferName**.) | *PROJECT ONLINE PREMIUM UTAN PROJEKTKLIENT* |
 | BillingCycleType | Faktureringsfrekvens en gång.| *Varje månad* |

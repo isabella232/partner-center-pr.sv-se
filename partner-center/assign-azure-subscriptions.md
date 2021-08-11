@@ -9,16 +9,16 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1416c9b12cb6670eb2598f8baa4839996e29f09b
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d042f1d2f711e59e3a6bbe320d829a8bbdf9b5dfe50a688dfe5a92b80cbc5090
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841733"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687918"
 ---
 # <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>Tilldela Azure-prenumerationer till kunder i Partnercenter
 
-**Lämpliga roller:** Globala | Försäljningsagent
+**Lämpliga roller:** Global | Försäljningsagent
 
 ## <a name="assign-azure-subscriptions-to-your-customers"></a>Tilldela Azure-prenumerationer till dina kunder
 
@@ -36,9 +36,9 @@ ms.locfileid: "114841733"
 
 ## <a name="enable-customers-to-manage-their-azure-subscriptions"></a>Gör det möjligt för kunder att hantera sina Azure-prenumerationer
 
-När du har skapat Microsoft Azure en prenumeration för en kund kan du låta dem hantera prenumerationen. Om du vill göra det måste du logga in på kundens Microsoft Azure Management-portalen. 
+När du har skapat Microsoft Azure prenumeration för en kund kan du låta dem hantera prenumerationen. För att göra detta måste du logga in på kundens Microsoft Azure Hanteringsportalen. 
 
-1. Du öppnar kundens Azure Portal genom att antingen expandera kundens lista i kundlistan eller välja kundens namn och sedan **välja Microsoft Azure Hanteringsportal**.
+1. Om du vill öppna Azure Portal expanderar du antingen kundens lista i kundlistan eller väljer kundens namn och väljer **sedan Microsoft Azure Hanteringsportal**.
 
    > [!NOTE]  
    > Om du uppmanas att logga in på Azure Portal kanske du inte har delegerade administratörsbehörigheter. Välj **Begär en relation för** att bjuda in kunden att identifiera dig som sin partner för posten. När kunden har accepterat din inbjudan beviljas du automatiskt delegerade administratörsbehörigheter.
@@ -49,6 +49,6 @@ När du har skapat Microsoft Azure en prenumeration för en kund kan du låta de
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Så här kan CSP-partner sälja prenumerationer till kunder](customer-subscriptions.md)
+- [Hur CSP-partner kan sälja prenumerationer till kunder](customer-subscriptions.md)
 
 - [Så här får du behörighet att hantera en kunds tjänst eller prenumerationer](customers-revoke-admin-privileges.md)

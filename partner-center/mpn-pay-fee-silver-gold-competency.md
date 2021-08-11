@@ -8,12 +8,12 @@ ms.subservice: partnercenter-membership
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 5099a851dc30767802af507e4840c714e47736e9
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 67013f1761b629c8611241a4b1a8616e04c425a366b363ffb219d4923f417f63
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843705"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694744"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Så här betalar du avgiften för en silver- eller guldkompetens
 
@@ -159,12 +159,12 @@ Gör följande för att avbryta en befintlig, ej åtgärdad elektronisk banköve
 
 ## <a name="apply-upgrade-discount-when-moving-from-silver-to-gold"></a>Tillämpa uppgraderingsrabatt vid flytt från silver till guld
 
-Om din organisation har en aktiv silverkompetens och har uppfyllt behörighetskraven för den associerade guldkompetensen, är du berättigad att uppgradera från silver till guld för en rabatt. Du får 25 procent rabatt på priset för guldkompetensen.
+Om din organisation har en aktiv silverkompetens och har uppfyllt behörighetskraven för den associerade guldkompetensen är du berättigad att uppgradera från silver till guld för en rabatt. Du får 25 procent rabatt på priset för guldkompetensen.
 
 Det nya guldårsdatumet schemaläggs för ett år från inköpsdatum. Du får fullständiga guldfördelar.
 
 > [!NOTE]
-> Det finns några undantag till den här uppgraderingsrabatten. Om du hade ett silvermedlemskapserbjudande och sedan använde 25 procents rabatt för guldmedlemskap för att uppgradera till ett guldmedlemskapserbjudande är du inte berättigad till en silveråterbetalning. Detta gäller även om du har betalat för ditt Silver-medlemskap inom 30 dagar och ännu inte har använt de relaterade förmånerna.
+> Det finns några undantag till den här uppgraderingsrabatten. Om du hade ett silvermedlemskapserbjudande och sedan använde 25 procents guldmedlemskapsrabatt för att uppgradera till ett guldmedlemskapserbjudande, kommer du inte att vara berättigad till en silveråterbetalning. Detta gäller även om du har betalat för ditt Silver-medlemskap inom 30 dagar och ännu inte har använt de relaterade förmånerna.
 
 Om du vill se var rabatten på 25 procent tillämpas gör du följande:
 
@@ -174,7 +174,7 @@ Om du vill se var rabatten på 25 procent tillämpas gör du följande:
 
 3. Under Erbjudanden som är tillgängliga för köp letar du efter en guldmedlemskapspanel. Om du tidigare har uppnått och betalat för ett Silver-medlemskap justeras medlemskapsbeloppet för guld för att återspegla rabatten på 25 procent.
 
-   :::image type="content" source="images/offers/9-mpn-competency-silver-to-gold-discount.png" alt-text="Köpta medlemskapserbjudanden visar ett erbjudande om guldpanel med 25 procents rabatt från silver till guld." border="false":::
+   :::image type="content" source="images/offers/9-mpn-competency-silver-to-gold-discount.png" alt-text="Köpta medlemskapserbjudanden visar erbjudandet om guldpanel med 25 procents rabatt för silver till guld." border="false":::
 
 4. Välj **Prenumerera** i panelen Guldmedlemskap som återspeglar rabatten. Sidan med köpinformation visar även rabatten för det valda köpet.
 

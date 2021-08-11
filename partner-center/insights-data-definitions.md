@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 92733f11713e8c16d607a51ef00efdcc25ddc855
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d210e067790980d377812f1200b20e470f2f52b51ccd3dcb1bab4d04a49b76b4
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843416"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694905"
 ---
 # <a name="export--data-definitions"></a>Export – Datadefinitioner 
 
@@ -112,7 +112,7 @@ De olika rapporterna, som du kan ladda ned tillsammans med deras datadefinitione
 |CustomerTpid | Kundens främsta överordnade identifierare|
 |DUNSNumber| Global Data Universal Number System Identifier för kund|
 |CustomerSegment | Kundens marknadssegment|
-|TopSegment| Segmentklassificering på högre nivå för kunden|
+|TopSegment| Segmentklassificering på högre nivå för kund|
 |CustomerMarket | Kundens geografiska marknad|
 |ReportingProductName| Detaljerad produktnamn|
 |Produkt | Produkt som säljs till kunden av partnern|
@@ -146,15 +146,15 @@ De olika rapporterna, som du kan ladda ned tillsammans med deras datadefinitione
 |SubscriptionStartDate| Datumet för prenumerationens start|
 |SubscriptionEndDate| Datumet för prenumerationens slut|
 |FirstUseDate| Datum då Azure-tjänster användes först|
-|SubscriptionState| Aktuellt tillstånd för prenumerationen (Öppen, Stängd aktiv eller Respitperiod)|
+|SubscriptionState| Aktuellt tillstånd för prenumerationen (öppen, stängd aktiv eller respitperiod)|
 |Månad| Datum aggregerat efter månad|
 |ServiceLevel1| Servicenivå 1 – Motsvarar tjänstpelaren, till exempel containrar, databaser, nätverk osv.|
-|ServiceLevel2| Servicenivå 2 – Motsvarar arbetsbelastningen för tjänstepelaren|
+|ServiceLevel2| Servicenivå 2 – Motsvarar arbetsbelastningen för tjänstpelaren|
 |ServiceLevel3| Tjänstnamn som används av Azure.Microsoft.Com när Azure-erbjudanden listas|
-|ServiceLevel4| Logiska gruppningar av differentieringar av högnivåfunktionsuppsättning i tjänsten. Till exempel Generell användning Virtual Machines, minnesoptimerad Virtual Machines, enkel SQL Database, Elastic SQL Database osv. |
-|ServiceGroup2| FIELD Revenue Accountability (DEF) områden som AI, App Dev, IoT osv. |
+|ServiceLevel4| Logiska gruppningar av högnivåfunktionsuppsättnings differentieringar i tjänsten. Till exempel Generell användning Virtual Machines, minnesoptimerad Virtual Machines, enkel SQL Database, Elastic SQL Database osv. |
+|ServiceGroup2| FIELD Revenue Accountability (FRA) områden som AI, App Dev, IoT osv. |
 |ServiceGroup3| Ytterligare information för SKA, till exempel IoT Hub, Kartor för IoTLTE|
-|ServiceInfluencer| PaaS-tjänster som driver förbrukningen av infrastrukturresurser, till exempel Service Fabric, Azure Databricks, AKS osv.|
+|ServiceInfluencer| PaaS-tjänster som driver förbrukning av infrastrukturresurser, till exempel Service Fabric, Azure Databricks, AKS osv.|
 |ComputeOS| Beräkningsoperativsystemet|
 |ComputeCoreSoftware| Compute Core Software|
 |UsageUnits| Antalet enheter som används under faktureringsperioden|
@@ -165,15 +165,15 @@ De olika rapporterna, som du kan ladda ned tillsammans med deras datadefinitione
 |CustomerSegment| Kundens segment|
 |CustomerMarket| Kundens geografiska marknad|
 |MPNId| Microsoft Partner Network id för kunden|
-|PartnerName| Namnet på partnern|
+|PartnerName| Partnerns namn|
 |PartnerLocation| Partnerns geografiska land|
 |PartnerAttributionType| Attributionstyp för partnern|
 |SalesChannel| Kanal för försäljningen (Direct/CSP, Indirect/CSP, Direct och så vidare)  |
 |EnrollmentNumber| Prenumerationens registreringsnummer |
-|IsACRDuplicateAtPGALevel| För flera partnerattributions under en enda PGA anges det här värdet till 0 för endast ett MPNId. Om värdet är inställt på 1 indikerar det en dubblettrad|
+|IsACRDuplicateAtPGALevel| För flera partnerattributions under samma PGA anges det här värdet till 0 för endast ett MPNId. Om värdet är inställt på 1 indikerar det en dubblettrad|
 |ResellerID| Id för återförsäljare|
 |ResellerName| Återförsäljarens namn|
-|AdminType| När partnerattributionstyp är "Partneradministratörslänk (PAL)" anger den här kolumnen den tilldelade rollen i kundens prenumeration.|
+|AdminType| När partnerattributionstyp är "Partneradministratörslänk (PAL)" Anger den här kolumnen den tilldelade rollen i kundens prenumeration.|
 |AssociationType| Typ av association|
 |MonthlySubscriptionLevelACR| ACR på månadsnivå|
 |ACR_USD| Azure-förbrukade intäkter (ACR) i amerikanska dollar|
@@ -182,7 +182,7 @@ De olika rapporterna, som du kan ladda ned tillsammans med deras datadefinitione
 
 | Kolumnnamn | Databeskrivning | 
 | :--------- | :--------- | 
-| PGAMpnId | Identifierare för partnerns globala konto MPN | 
+| PGAMpnId | Identifierare för MPN för partnerns globala konto | 
 | CustomerTenantId | Kundens klientorganisations-ID | 
 | CustomerTpid | Kundens överordnade ID | 
 | WorkloadName | Skype för företag, Teams, Exchange Online | 
@@ -193,7 +193,7 @@ De olika rapporterna, som du kan ladda ned tillsammans med deras datadefinitione
 | CustomerMarket | Geografiskt land för kundens marknad | 
 | CustomerSegment | Kundsegment | 
 | MPNId | Identifierare för Microsoft Partner Network | 
-| PartnerName | Namnet på partnern | 
+| PartnerName | Partnerns namn | 
 | PartnerLocation | Partnerns geografiska plats | 
 | PartnerAttributionType | Attributionstyp för partnern | 
 | IsDuplicateRowForPGA | För flera partnerattributions under en enda PGA anges det här värdet till 0 för endast ett MPNId. Om värdet är inställt på 1 indikerar det en dubblettrad|
@@ -255,25 +255,25 @@ De olika rapporterna, som du kan ladda ned tillsammans med deras datadefinitione
 | SalesModel | Försäljningskanal som används för att sälja prenumerationen | 
 | DetailedSalesModel | Detaljerad försäljningsmodell för prenumerationen | 
 | CustomerName | Kundens namn | 
-| CustomerTenantId | GUID för kundklientorganisationen | 
-| CustomerTpid | Kundens översta överordnade identifierare | 
+| CustomerTenantId | GUID för kundens klientorganisation | 
+| CustomerTpid | Kundens främsta överordnade identifierare | 
 | CustomerSegment | Kundens marknadssegment | 
 | CustomerMarket | Kundens geografiska marknad | 
 | MPNId | Identifierare för Microsoft Partner Network | 
-| PartnerName | Namnet på partnern | 
+| PartnerName | Partnerns namn | 
 | PartnerLocation | Partnerns geografiska land | 
 | PartnerAttachType | Attributionstyp för prenumerationen | 
 | AvailableSeats |  Aktuella betalda tillgängliga platser|
 | AssignedSeats |   Aktuella tilldelade platser|
 | ActiveSeats | Aktuella aktiva platser|
 | DistributionOpportunity |   Distributionsmöjlighet är antalet platser som inte har tilldelats|
-| ActiveUsagePercent |  Aktuell aktiv användning som en procentandel av tillgängliga platser |
+| ActiveUsagePercent |  Aktuell aktiv användning i procent av tillgängliga platser |
 
 ### <a name="power-bi-license-usage-report"></a>**Power BI licensanvändningsrapport**
 
 | Kolumnnamn | Databeskrivning | 
 | :--------- | :--------- | 
-| PGAMpnId | Identifierare för partnerns globala konto MPN | 
+| PGAMpnId | Identifierare för MPN för partnerns globala konto | 
 | SubscriptionId | GUID för prenumerationen | 
 | SubscriptionStartDate | Startdatum för prenumerationen | 
 | SubscriptionEndDate | Slutdatum för prenumerationen | 
@@ -281,33 +281,33 @@ De olika rapporterna, som du kan ladda ned tillsammans med deras datadefinitione
 | Månad | Datum aggregerat efter månad | 
 | SKU | Produktens SKU | 
 | SKUId | SKU-ID för produkten | 
-| FreeVsAvsKU | Kostnadsfri eller betald SKU-differentiator | 
+| FreeVs IASKU | Kostnadsfri eller betald SKU-differentiator | 
 | SalesModel | Försäljningsmodell som används för att sälja prenumerationen | 
 | DetailedSalesModel | Detaljerad försäljningsmodell för prenumerationen | 
 | CustomerName | Kundens namn | 
-| CustomerTenantId | GUID för kundklientorganisationen | 
-| CustomerTpid | Identifierare för den överordnade kunden | 
+| CustomerTenantId | GUID för kundens klientorganisation | 
+| CustomerTpid | Identifierare för kundens överordnade överordnade | 
 | CustomerSegment | Kundens marknadssegment | 
 | CustomerMarket | Kundens geografiska marknad | 
 | MPNId | Identifierare för Microsoft Partner Network | 
-| PartnerName | Namnet på partnern | 
+| PartnerName | Partnerns namn | 
 | PartnerLocation | Partnerns geografiska land | 
 | PartnerAttachType | Attributionstyp för prenumerationen | 
-| PartnerHierarki |    Hierarki med partner (virtuell organisation, huvudkontor eller plats)|
+| PartnerHierarki |    Hierarki för partner (virtuell organisation, huvudkontor eller plats)|
 | AvailableSeats |  Aktuella betalda tillgängliga platser|
 | AssignedSeats |   Aktuella tilldelade platser|
 | ActiveSeats | Aktuella aktiva platser|
 | DistributionOpportunity |   Distributionsmöjlighet är antalet platser som inte har tilldelats|
-| ActiveUsagePercent |  Aktuell aktiv användning som en procentandel av tillgängliga platser|
+| ActiveUsagePercent |  Aktuell aktiv användning i procent av tillgängliga platser|
 
-### <a name="teams-meetings-and-calls-report"></a>**Teams för möten och samtal**
+### <a name="teams-meetings-and-calls-report"></a>**Teams för möten och anrop**
 
 | Kolumnnamn | Databeskrivning | 
 | :--------- | :--------- | 
-| PGAMpnId | Identifierare för partnerns globala konto MPN | 
+| PGAMpnId | Identifierare för MPN för partnerns globala konto | 
 | CustomerTenantId | Kundens klientorganisations-ID | 
-| CustomerId | Identifierare för den överordnade kunden | 
-| DateKey | Datum då användningen rapporteras
+| CustomerId | Identifierare för kundens överordnade överordnade | 
+| DateKey | Datum då användning rapporteras
 | Underarbetslast | Underlast för vilken användning rapporteras (möten, samtal eller telefonsystem) | 
 | Antal möten | Antal möten | 
 | Varaktighet för möte | Total varaktighet för möte i timmar | 
@@ -320,8 +320,8 @@ De olika rapporterna, som du kan ladda ned tillsammans med deras datadefinitione
 | CustomerTenantId |    Kundens klientorganisations-ID|
 | CustomerId |  Identifierare för kundens överordnade överordnade|
 | MonthKey |    Månad då användning rapporteras|
-| Underarbetslast | Underlast för vilken användning rapporteras (möten, samtal eller telefonsystem)|
-| DesktopAnvändare |    Antal användare som använder Teams på skrivbordet|
+| Underbelastning | Underlast för vilken användning rapporteras (möten, samtal eller telefonsystem)|
+| DesktopUsers |    Antal användare som använder Teams på skrivbordet|
 | MobileUsers | Antal användare som använder Teams på mobila enheter|
 | WebUsers |    Antal användare som använder Teams på webben|
 | AllUpParticipants |   Antal unika användare av Teams för månaden|
@@ -430,40 +430,40 @@ De olika rapporterna, som du kan ladda ned tillsammans med deras datadefinitione
 | IsNonProfit | Anger om organisationen är ideell (Ja eller Nej) | 
 | Aktivera fjärrarbete – Exchange Online | Kunder som har en aktiv Exchange Online-prenumeration, uppförsäljning till Microsoft 365 | 
 | Aktivera fjärrarbete – lokalt förvärv (aktuell version) med Cloud Ascent-benägenhet – +10 licenser | Kund som har en aktuell lokal Office eller Windows klient. Klientversionen är alltså senare än en EOL-version (End of Life). Kunden har 10 eller fler licenser. Kund som har en benägenhetspoäng. Partnern bör rikta in sig på konvertering till Microsoft 365. | 
-| Aktivera fjärrarbete – lokalt förvärv (aktuell version) med Cloud Ascent-benägenhet – <10 licenser | Kund som har en aktuell lokal Office eller Windows klient (det vill säga en senare version än EOL). Kunden har färre än 10 licenser. Kund som har en poäng. Partnern bör rikta sig mot konvertering till Microsoft 365. | 
-| Aktivera fjärrarbete – lokalt förvärv (aktuell version) utan Cloud Ascent-ighet – +10 licenser | Kund som har en aktuell lokal Office eller Windows -klient (det vill säga en senare version än EOL). Kunden har 10 eller fler licenser. Kunden har ingen poäng. Partnern bör rikta sig mot konvertering till Microsoft 365. | 
-| Aktivera fjärrarbete – lokalt förvärv (aktuell version) utan Cloud Ascent-skapacitet – <10 licenser | Kund som har en aktuell lokal Office eller Windows -klient (det vill säga en senare version än EOL). Kunden har färre än 10 licenser. Kunden har ingen poäng. Partnern bör rikta sig mot konvertering till Microsoft 365. | 
-| Aktivera fjärrarbete – lokalt förvärv (EOL-version) med Cloud Ascent-ighet – +10 licenser | Kund som har en lokal EOL-Office eller Windows (det vill säga en EOL-version eller tidigare). Kunden har 10 eller fler licenser. Kunden har en ighetspoäng. Partnern bör rikta sig mot konvertering till Microsoft 365. | 
-| Aktivera fjärrarbete – lokalt förvärv (EOL-version) med Cloud Ascent-skapacitet – <10 licenser | Kund som har en lokal EOL-Office eller Windows (det vill säga en EOL-version eller tidigare). Kunden har färre än 10 licenser. Kunden har en ighetspoäng. Partnern bör rikta sig mot konvertering till Microsoft 365. | 
-| Aktivera fjärrarbete – lokalt förvärv (EOL-version) utan Cloud Ascent-ighet – +10 licenser | Kund som har en aktuell lokal Office eller Windows (det vill säga en EOL-version eller tidigare). Kunden har 10 eller fler licenser. Kunden har ingen poäng. Partnern bör rikta sig mot konvertering till Microsoft 365. | 
-| Aktivera fjärrarbete – lokalt förvärv (EOL-version) utan Cloud Ascent-skapacitet – <10 licenser | Kund som har en aktuell lokal Office eller Windows (det vill säga en EOL-version eller tidigare). Kunden har färre än 10 licenser. Kunden har ingen poäng. Partnern bör rikta sig mot konvertering till Microsoft 365. | 
-| Enable Remote Work - high-propensity prospect for Microsoft 365 (Act NowithEvaluate) | Potentiell kund med hög ighet för Microsoft 365 | 
+| Aktivera fjärrarbete – lokalt förvärv (aktuell version) med Cloud Ascent-benägenhet – <10 licenser | Kund som har en aktuell lokal Office eller Windows klient (det vill säga en senare version än EOL). Kunden har färre än 10 licenser. Kund som har en benägenhetspoäng. Partnern bör rikta in sig på konvertering till Microsoft 365. | 
+| Aktivera fjärrarbete – lokalt förvärv (aktuell version) utan Cloud Ascent-benägenhet – +10 licenser | Kund som har en aktuell lokal Office eller Windows klient (det vill säga en senare version än EOL). Kunden har 10 eller fler licenser. Kunden har ingen benägenhetspoäng. Partnern bör rikta in sig på konvertering till Microsoft 365. | 
+| Aktivera fjärrarbete – lokalt förvärv (aktuell version) utan Cloud Ascent-benägenhet – <10 licenser | Kund som har en aktuell lokal Office eller Windows klient (det vill säga en senare version än EOL). Kunden har färre än 10 licenser. Kunden har ingen benägenhetspoäng. Partnern bör rikta in sig på konvertering till Microsoft 365. | 
+| Aktivera fjärrarbete – lokalt förvärv (EOL-version) med Cloud Ascent-benägenhet – +10 licenser | Kund som har en lokal EOL-Office eller Windows (det vill säga en EOL-version eller tidigare). Kunden har 10 eller fler licenser. Kunden har en benägenhetspoäng. Partnern bör rikta in sig på konvertering till Microsoft 365. | 
+| Aktivera fjärrarbete – lokalt förvärv (EOL-version) med Cloud Ascent-benägenhet – <10 licenser | Kund som har en lokal EOL-Office eller Windows (det vill säga en EOL-version eller tidigare). Kunden har färre än 10 licenser. Kunden har en benägenhetspoäng. Partnern bör rikta in sig på konvertering till Microsoft 365. | 
+| Aktivera fjärrarbete – lokalt förvärv (EOL-version) utan Cloud Ascent-benägenhet – +10 licenser | Kund som har en aktuell lokal Office eller Windows klient (det vill säga en EOL-version eller tidigare). Kunden har 10 eller fler licenser. Kunden har ingen benägenhetspoäng. Partnern bör rikta in sig på konvertering till Microsoft 365. | 
+| Aktivera fjärrarbete – lokalt förvärv (EOL-version) utan Cloud Ascent-benägenhet – <10 licenser | Kund som har en aktuell lokal Office eller Windows klient (det vill säga en EOL-version eller tidigare). Kunden har färre än 10 licenser. Kunden har ingen benägenhetspoäng. Partnern bör rikta in sig på konvertering till Microsoft 365. | 
+| Enable Remote Work – potentiell potentiell benägenhet för Microsoft 365 (Act NowithEvaluate) | Potentiell kund med hög benägenhet för Microsoft 365 | 
 | Aktivera fjärrarbete – konkurrera (Zoom) med Microsoft 365 | Kund med Zoom och Microsoft 365, mål för konvertering till Teams | 
-| Aktivera fjärrarbete – konkurrera (Zoom) utan Microsoft 365 | Kund med Zoom, mål för konvertering till Teams | 
+| Aktivera fjärrarbete – konkurrera (Zooma) utan Microsoft 365 | Kund med Zoom, mål för konvertering till Teams | 
 | Minska kostnader och hantera – Microsoft 365 E3 mål för Microsoft 365 E5 | Befintlig kund med Microsoft 365 E3, mål för Microsoft 365 E5 | 
 | Minska kostnader och hantera – Microsoft 365 Business Basic och Business Standard-kunder som är mål för Microsoft 365 Business Premium | Befintliga Microsoft 365 Business Basic och Business Standard-kunder, mål för Microsoft 365 Business Premium | 
-| Transformera organisationsproduktivitet – surface-ighet | Kunden visar en öjlighet för Surface | 
-| M365Cluster | Identifierar en kunds ighet att köpa Microsoft 365. Target Act Now och Evaluate clusters eftersom de ger högre avkastning. Rikta in dig på att utbilda kunder endast om det fortfarande finns kapacitet efter att kunderna Act Now (Agera nu) och Evaluate (Utvärdera) har mål. | 
+| Transformera organisationsproduktivitet – surface-benägenhet | Kunden visar en benägenhet för Surface | 
+| M365Cluster | Identifierar en kunds benägenhet att köpa Microsoft 365. Target Act Now och Evaluate clusters eftersom de ger högre avkastning. Rikta in sig på att utveckla och utbilda kunder endast om det fortfarande finns kapacitet efter att kunderna Act Now (Agera nu) och Evaluate (Utvärdera) har mål. | 
 | M365Fit | Interna och externa datapunkter som definierar företagsgrafiska data. Fit scoring använder en lookalike-modell för våra bästa små eller medelstora företag (SBS) för att jämföra kunder och se om de är lämpliga för Microsofts molnprodukter. Bedömning av passning uppdateras kvartalsvis. | 
-| M365Intent | Signaler som rör sociala medier och en kunds onlinebeteende definierar Avsikt. Avsiktsbedömningen överlagras i Anpassa för att definiera klustren. Avsiktsbedömningen uppdateras varje månad. | 
-| SurfaceCluster | Identifierar en kunds återgivning av Surface genom att konsolidera rekommendationerna anpassa och avsikter i ett kluster. Target Act Now och Evaluate clusters eftersom de ger högre avkastning. Rikta in dig på att utbilda kunder endast om det fortfarande finns kapacitet efter att kunderna Act Now (Agera nu) och Evaluate (Utvärdera) har mål. | 
+| M365Intent | Signaler som rör sociala medier och en kunds onlinebeteende definierar Intent. Avsiktsbedömningen överlagras i Anpassa för att definiera klustren. Avsiktsbedömningen uppdateras varje månad. | 
+| SurfaceCluster | Identifierar en kunds återgivning av Surface genom att konsolidera rekommendationerna fit and intent i ett kluster. Target Act Now och Evaluate clusters eftersom de ger högre avkastning. Rikta in sig på att utveckla och utbilda kunder endast om det fortfarande finns kapacitet efter att kunderna Act Now (Agera nu) och Evaluate (Utvärdera) har mål. | 
 | SurfaceFit | Interna och externa datapunkter som definierar företagsgrafiska data. Fit scoring använder en lookalike-modell till våra bästa SMI:er för att jämföra kunder och se om de är lämpliga för Microsofts molnprodukter. Bedömning av passning uppdateras kvartalsvis. | 
-| SurfaceIntent | Signaler som rör sociala medier och en kunds onlinebeteende definierar Avsikt. Avsiktsbedömningen överlagras i Anpassa för att definiera klustren. Avsiktsbedömningen uppdateras varje månad. | 
-| O365Cluster | Identifierar kundens ighet att köpa Office 365. Target Act Now och Evaluate clusters eftersom de ger högre avkastning. Rikta in dig på att utbilda kunder endast om det fortfarande finns kapacitet efter att kunderna Act Now (Agera nu) och Evaluate (Utvärdera) har mål. | 
+| SurfaceIntent | Signaler som rör sociala medier och en kunds onlinebeteende definierar Intent. Avsiktsbedömningen överlagras i Anpassa för att definiera klustren. Avsiktsbedömningen uppdateras varje månad. | 
+| O365Cluster | Identifierar kundens benägenhet att köpa Office 365. Target Act Now och Evaluate clusters eftersom de ger högre avkastning. Rikta in sig på att utveckla och utbilda kunder endast om det fortfarande finns kapacitet efter att kunderna Act Now (Agera nu) och Evaluate (Utvärdera) har mål. | 
 | O365Fit | Interna och externa datapunkter som definierar företagsgrafiska data. Fit scoring använder en lookalike-modell till våra bästa SMI:er för att jämföra kunder och se om de är lämpliga för Microsofts molnprodukter. Bedömning av passning uppdateras kvartalsvis. | 
-| O365Intent | Signaler som rör sociala medier och en kunds onlinebeteende definierar Avsikt. Avsiktsbedömningen överlagras i Anpassa för att definiera klustren. Avsiktsbedömningen uppdateras varje månad. | 
-| M365UpsellCustomer | Anger om kunden visar huruvida säljförsäljningen är Microsoft 365 | 
+| O365Intent | Signaler som rör sociala medier och en kunds onlinebeteende definierar Intent. Avsiktsbedömningen överlagras i Anpassa för att definiera klustren. Avsiktsbedömningen uppdateras varje månad. | 
+| M365UpsellCustomer | Identifierar om kunden visar uppförsäljningsfördröjning för Microsoft 365 | 
 | Har Google | Identifierar om kunden visar konkurrenssignaler för att äga Google-produkter | 
 | Har AWS | Identifierar om kunden visar konkurrenssignaler för att äga Amazon Web Services (AWS)-produkter | 
 | Har EA | Anger om en förnyelse är ett Enterprise-avtal (EA) eller en EA-prenumeration | 
-| Har öppen | Anger om en förnyelse är ett open- eller open value-avtal | 
+| Har öppen | Anger om en förnyelse är ett Open- eller Open Value-avtal | 
 
-### <a name="cloud-ascent---dynamics-365-propensity-report"></a>**Cloud Ascent – 365-gångarrapport för Dynamics**
+### <a name="cloud-ascent---dynamics-365-propensity-report"></a>**Cloud Ascent – gångarrapport för Dynamics 365**
 
 | Kolumnnamn | Databeskrivning | 
 | :--------- | :--------- | 
-| MPN-ID | MICROSOFT PARTNER NETWORK-ID (MPN) | 
-| Partnernamn | Namnet på partnern | 
+| MPN-ID | Microsoft Partner Network (MPN) ID | 
+| Partnernamn | Partnerns namn | 
 | Kund-ID | Kundidentifierarnummer | 
 | DUNS-nummer | Dun & Bradstreet-numret för den kund som poängsätts för berättigande | 
 | Account Name | Namn på kontot | 
@@ -499,10 +499,10 @@ De olika rapporterna, som du kan ladda ned tillsammans med deras datadefinitione
 | Skapa en motståndskraftig leveranskedja – Windows och aktivera första Dynamics 365-arbetsbelastning som Dynamics 365 Supply Chain Management med icke-Oracle- eller SAP ERP-kunder (resursplanering för företag) | Rikta in sig på kunder för Dynamics 365 Supply Chain Management | 
 | Skapa en motståndskraftig leveranskedja – korsförsäljning av Dynamics 365 Supply Chain Management och/eller detaljhandel eller handel till befintliga Dynamics 365 Customer Engagement-kunder | Befintliga Dynamics 365 Customer Engagement-kunder som mål för crossförsäljning av Dynamics 365 Supply Chain Management. | 
 | Skapa en motståndskraftig leveranskedja – korsförsäljning av Dynamics 365 Supply Chain Management och/eller detaljhandel eller handel till Dynamics 365 Customer Engagement och Oracle eller SAP | Befintliga Dynamics 365 Customer Engagement-kunder med Oracle eller SAP som mål för Dynamics 365 Supply Chain Management | 
-| D365BCCluster | Identifierar kundens benägenhet att köpa Dynamics 365 Business Central. Kunder som visar en benägenhet för Business Central finns i kategorierna Medel och Liten. Target Act Now och Evaluate clusters, eftersom de ger högre avkastning. Rikta in dig på att utveckla och utbilda kunder om det fortfarande finns kapacitet efter att du riktar in dig på Agera nu och Utvärdera kunder. | 
+| D365BCCluster | Identifierar kundens benägenhet att köpa Dynamics 365 Business Central. Kunder som visar en benägenhet för Business Central finns i kategorierna Medel och Liten. Target Act Now och Evaluate clusters, eftersom de ger högre avkastning. Rikta in dig på att utveckla och utbilda kunder endast om det fortfarande finns kapacitet efter att du riktar in dig på Agera nu och Utvärdera kunder. | 
 | D365BCFit | Interna och externa datapunkter som definierar företagsgrafiska data. Fit scoring använder en lookalike-modell till vår bästa SMB för att jämföra kunder och se om de är lämpliga för Microsofts molnprodukter. Bedömning av passning uppdateras kvartalsvis. | 
 | D365BCIntent | Signaler som rör sociala medier och en kunds onlinebeteende definierar Intent. Avsiktsbedömningen överlagras i Anpassa för att definiera klustren. Avsiktsbedömningen uppdateras varje månad. | 
-| D365FOCluster | Identifierar kundens önskemål om att köpa Dynamics 365 Finance and Operations. Kunder som visar en benägenhet för Finance + Operations finns i de översta ohanterade kategorierna. Target Act Now och Evaluate clusters, eftersom de ger högre avkastning. Rikta in dig på att utveckla och utbilda kunder om det fortfarande finns kapacitet efter att du riktar in dig på Agera nu och Utvärdera kunder. | 
+| D365FOCluster | Identifierar kundens önskemål om att köpa Dynamics 365 Finance and Operations. Kunder som visar en benägenhet för Finance + Operations finns i de översta ohanterade kategorierna. Target Act Now och Evaluate clusters, eftersom de ger högre avkastning. Rikta in dig på att utveckla och utbilda kunder endast om det fortfarande finns kapacitet efter att du riktar in dig på Agera nu och Utvärdera kunder. | 
 | D365FOFit | Interna och externa datapunkter som definierar företagsgrafiska data. Fit scoring använder en lookalike-modell till vår bästa SMB för att jämföra kunder och se om de är lämpliga för Microsofts molnprodukter. Bedömning av passning uppdateras kvartalsvis. | 
 | D365FOIntent | Signaler som rör sociala medier och en kunds onlinebeteende definierar Avsikt. Avsiktsbedömningen överlagras i Anpassa för att definiera klustren. Avsiktsbedömningen uppdateras varje månad. | 
 | D365CECluster | Identifierar kundens ighet att köpa Dynamics 365 Customer Engagement. Kunder som har en öjlighet för Customer Engagement finns i kategorierna Medel och Liten. Target Act Now och Evaluate clusters, eftersom de ger högre avkastning. Rikta in dig på att utbilda kunder om det fortfarande finns kapacitet efter att du riktar in dig på Agera nu och Utvärdera kunder. | 
@@ -575,28 +575,28 @@ De olika rapporterna, som du kan ladda ned tillsammans med deras datadefinitione
 | AzureCluster | Identifierar kundens återgivning av Azure genom att konsolidera rekommendationerna anpassa och avsikter i ett kluster. Target Act Now och Evaluate clusters, eftersom de ger högre avkastning. Rikta in dig på att utbilda kunder om det fortfarande finns kapacitet efter att du riktar in dig på Agera nu och Utvärdera kunder. | 
 | WindowsServerDataCenter_HasOpenRenewal | Identifierar om kunden har en öppen förnyelse för Windows Server Datacenter | 
 | WindowsServerStandard_HasOpenRenewal | Anger om kunden har en öppen förnyelse för Windows Server Standard | 
-| AzureUpsellCustomer | Identifierar om kunden visar huruvida säljförsäljning är huruvida Azure är specifikt | 
+| AzureUpsellCustomer | Identifierar om kunden visar säljförseningar för Azure | 
 | Har Google | Identifierar om kunden visar konkurrenssignaler för att äga Google-produkter | 
 | Har AWS | Identifierar om kunden visar konkurrenssignaler för att äga AWS-produkter | 
 | Har EA | Anger om en förnyelse är en EA- eller EA-prenumeration | 
-| Har öppen | Anger om en förnyelse är ett open- eller open value-avtal | 
+| Har öppen | Anger om en förnyelse är ett Open- eller Open Value-avtal | 
 
-### <a name="cloud-ascent---agreement-renewal-propensity-report"></a>**Cloud Ascent – rapport om avtalsförnyelse**
+### <a name="cloud-ascent---agreement-renewal-propensity-report"></a>**Cloud Ascent – rapport om avtalsförnyelseförnyelse**
 
 | Kolumnnamn | Databeskrivning | 
 | :--------- | :--------- | 
 | MPN-ID | Microsoft Partner Network-ID | 
-| Partnernamn | Namnet på partnern | 
+| Partnernamn | Partnerns namn | 
 | Kund-ID | Kundidentifierarnummer | 
-| DUNS-nummer | Dun & Ett Bradstreet-nummer för den kund som poängsätts för berättigande | 
+| DUNS-nummer | Dun & Bradstreet-numret för den kund som poängsätts för berättigande | 
 | Account Name | Namn på kontot | 
 | Domain | Domänen för kontot | 
 | Organisationsstorlek | Organisationens storlek | 
 | Industri | Industri | 
-| Lodrät | Den lodräta kunden som får ett lägespoäng enligt Microsofts, D&B:s och andra branschstandarder | 
+| Lodrät | Vertikalen hos den kund som poängas för benägenhet enligt Microsoft, D&B och andra branschstandarder | 
 | Område | Geografiskt område för platsen | 
-| Dotterbolag | Dotterbolaget till kunden som poängas för öjlighet | 
-| Säljområde | Försäljningsområde för den kund som poängsattes för gångar | 
+| Dotterbolag | Dotterbolaget till den kund som poängas för benägenhet | 
+| Säljområde | Försäljningsområde för den kund som poängsattes för benägenhet | 
 | City | Geografisk ort | 
 | Tillstånd | Geografisk plats | 
 | Postnummer | Organisationens postnummer | 
@@ -604,23 +604,23 @@ De olika rapporterna, som du kan ladda ned tillsammans med deras datadefinitione
 | Segment | Marknadssegment | 
 | Undersegment | Undersegment för marknad | 
 | Sammanfattning av SMC-typ | SMC-typ | 
-| Främsta ohanterade – beräkningsbas | De mest ohanterade kunderna – beräkning | 
+| Översta ohanterade – beräkningsbas | De främsta ohanterade kunderna – beräkning | 
 | Översta ohanterade – användarbas | De mest ohanterade kunderna – användare | 
 | IsNonProfit | Anger om organisationen är ideell (Ja eller Nej) | 
 | Har Google | Identifierar om kunden visar konkurrenssignaler för att äga AWS-produkter | 
 | Har AWS | Identifierar om kunden visar konkurrenssignaler för att äga AWS-produkter | 
-| Azure-kluster | Identifierar kundens ighet att köpa Azure. Target Act Now och Evaluate clusters, eftersom de ger högre avkastning. Rikta in dig på att utbilda kunder om det fortfarande finns kapacitet efter att du riktar in dig på Agera nu och Utvärdera kunder. | 
-| D365 Finance + Operations-kluster | Identifierar kundens ighet att köpa Dynamics 365 Finance and Operations. Kunder som har en ighet för Finance + Operations finns i de främsta ohanterade kategorierna. Target Act Now och Evaluate clusters, eftersom de ger högre avkastning. Rikta in dig på att utbilda kunder om det fortfarande finns kapacitet efter att du riktar in dig på Agera nu och Utvärdera kunder. | 
-| D365 CE-kluster | Identifierar kundens ighet att köpa Dynamics 365 Customer Engagement. Kunder som har en öjlighet för Customer Engagement finns i kategorierna Medel och Liten. Target Act Now och Evaluate clusters, eftersom de ger högre avkastning. Rikta in dig på att utbilda kunder om det fortfarande finns kapacitet efter att du riktar in dig på Agera nu och Utvärdera kunder. | 
-| D365 BC-kluster | Identifierar kundens ighet att köpa Dynamics 365 Business Central. Kunder som har en ighet för Business Central finns i kategorierna Medel och Liten. Target Act Now och Evaluate clusters, eftersom de ger högre avkastning. Rikta in dig på att utbilda kunder om det fortfarande finns kapacitet efter att du riktar in dig på Agera nu och Utvärdera kunder. | 
-| Microsoft 365 Kluster | Identifierar kundens ighet att köpa Microsoft 365. Target Act Now och Evaluate clusters, eftersom de ger högre avkastning. Rikta in dig på att utbilda kunder om det fortfarande finns kapacitet efter att du riktar in dig på Agera nu och Utvärdera kunder. | 
-| Licensprogram | Identifierar typ av licensprogram för förnyelsen | 
+| Azure-kluster | Identifierar kundens benägenhet att köpa Azure. Target Act Now och Evaluate clusters, eftersom de ger högre avkastning. Rikta in dig på att utveckla och utbilda kunder om det fortfarande finns kapacitet efter att du riktar in dig på Agera nu och Utvärdera kunder. | 
+| D365 Finance + Operations Cluster | Identifierar kundens önskemål om att köpa Dynamics 365 Finance and Operations. Kunder som visar en benägenhet för Finance + Operations finns i de översta ohanterade kategorierna. Target Act Now och Evaluate clusters, eftersom de ger högre avkastning. Rikta in dig på att utveckla och utbilda kunder om det fortfarande finns kapacitet efter att du riktar in dig på Agera nu och Utvärdera kunder. | 
+| D365 CE-kluster | Identifierar kundens benägenhet att köpa Dynamics 365 Customer Engagement. Kunder som visar en benägenhet för Customer Engagement finns i kategorierna Medel och Liten. Target Act Now och Evaluate clusters, eftersom de ger högre avkastning. Rikta in dig på att utveckla och utbilda kunder om det fortfarande finns kapacitet efter att du riktar in dig på Agera nu och Utvärdera kunder. | 
+| D365 BC-kluster | Identifierar kundens benägenhet att köpa Dynamics 365 Business Central. Kunder som visar en benägenhet för Business Central finns i kategorierna Medel och Liten. Target Act Now och Evaluate clusters, eftersom de ger högre avkastning. Rikta in dig på att utveckla och utbilda kunder om det fortfarande finns kapacitet efter att du riktar in dig på Agera nu och Utvärdera kunder. | 
+| Microsoft 365 Kluster | Identifierar kundens benägenhet att köpa Microsoft 365. Target Act Now och Evaluate clusters, eftersom de ger högre avkastning. Rikta in dig på att utveckla och utbilda kunder om det fortfarande finns kapacitet efter att du riktar in dig på Agera nu och Utvärdera kunder. | 
+| Licensprogram | Identifierar licensprogramtypen för förnyelsen | 
 | Avtals-ID | Identifierare för avtalet | 
 | Avtalets slutdatum | Avtalets slutdatum | 
 | Förfallotyp | Typ av förfallotid | 
-| Intäkter som upphör att gälla | Intäkter som är associerade med utgående prenumerationer | 
+| Intäkter som går ut | Intäkter som är associerade med utgående prenumerationer | 
 | Har EA | Anger om en förnyelse är en EA- eller EA-prenumeration | 
-| Har öppen | Anger om en förnyelse är ett open- eller open value-avtal | 
+| Har öppen | Anger om en förnyelse är ett Open- eller Open Value-avtal | 
 | Azure Upsell-kund | Identifierar om kunden visar huruvida säljförsäljning är huruvida Azure är specifikt | 
 | Microsoft 365 Sälja kund | Anger om kunden visar huruvida säljförsäljningen är Microsoft 365 | 
 | RevSumDivisionName | Identifierar den produkt som är upp för förnyelse | 
