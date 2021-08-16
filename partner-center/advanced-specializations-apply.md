@@ -9,18 +9,18 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd7865845d7086d19a249a181102b1b08fff76ad42f652b2784305d83b97e95b
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: d00f1ffde15477678b05cbc00213d8a7d494b299
+ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115685364"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "121914955"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Använd Partnercenter för att söka avancerade specialiseringar och kontrollera deras status
 
 **Lämpliga roller:** Globala | Kontoadministratör
 
-Den här artikeln beskriver hur du använder instrumentpanelen i Partnercenter för att söka en avancerad [specialisering,](advanced-specializations.md)kontrollera förloppet och slutföra nödvändiga steg och valideringar. Du kommer också att se exempel på hur du kan använda Partnercenter för att uppnå vissa avancerade specialiseringar som kräver antingen en granskning eller kundreferenser.
+Den här artikeln beskriver hur du använder instrumentpanelen i Partnercenter för att söka en avancerad [specialisering,](advanced-specializations.md)kontrollera förloppet och slutföra nödvändiga steg och verifieringar. Du kommer också att se exempel på hur du kan använda Partnercenter för att uppnå vissa avancerade specialiseringar som kräver antingen en granskning eller kundreferenser.
 
 Mer information om fördelarna med avancerade specialiseringar och deras specifika krav finns i [Microsoft Partner Network specialiseringar.](https://partner.microsoft.com/membership/advanced-specialization)
 
@@ -83,7 +83,7 @@ Avancerade specialiseringar som kräver kundreferenser är:
 - Information Protection och styrning
 - Molnsäkerhet
 
-Avancerade specialiseringar som inte kräver granskning eller kundreferenser är:
+Avancerade specialiseringar som inte kräver granskning eller kundreferens är:
 
 - Programutveckling med lite kod
 - Small and Midsize Business Management
@@ -102,11 +102,11 @@ Följ sedan de här stegen för att schemalägga en granskning i Partnercenter:
 
 3. Välj namnet på den avancerade specialisering som kräver att du schemalägger en granskning. Anta till exempel att du väljer Modernisering **av webbprogram för att Microsoft Azure**. Sidan med förhandskrav visas sedan för den här avancerade specialiseringen.
 
-   :::image type="content" source="images/advancedspecializations/as-1.png" alt-text="Exempelsida för förutsättningar som visar krav för att få en specifik avancerad specialisering.":::
+   :::image type="content" source="images/advanced-specializations/as-1.png" alt-text="Exempelsida för förutsättningar som visar krav för att få en specifik avancerad specialisering.":::
 
 4. När du uppfyller alla krav för den här avancerade specialiseringen kan du välja knappen **Schemalägg granskning på** den här sidan.
 
-   - Statusen förblir Inte startad tills du uppfyller alla krav som visas på **den här sidan.** Knappen **Schemalägg granskning** förblir också inaktiverad. 
+   - Statusen förblir Inte startad tills du uppfyller alla krav som visas på **den här sidan.** Knappen **Schemalägg** granskning förblir också inaktiverad. 
    - När alla krav är uppfyllda tillsammans med granskningen ändras din status till **Aktiv.**
 
 ## <a name="provide-customer-references-in-partner-center"></a>Ange kundreferenser i Partnercenter
@@ -123,14 +123,14 @@ Följ sedan de här stegen för att ange kundreferenser i Partnercenter:
 
    Sidan med förhandskrav visas sedan för den här avancerade specialiseringen. Förutom guldkompetens, certifieringar och prestandakrav kräver den här avancerade specialiseringen också att du tillhandahåller tre kundreferenser som visar din förmåga att distribuera och hantera.
 
-   :::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Exempel på sidan med förhandskrav för avancerade specialiseringar som kräver kundreferenser.":::
+   :::image type="content" source="images/advanced-specializations/as-2.png" alt-text="Exempel på sidan med förhandskrav för avancerade specialiseringar som kräver kundreferenser.":::
 
 4. Tills du uppfyller alla krav som visas på den här sidan och anger kundreferenser förblir din status **Inte startad.** När alla krav är uppfyllda ändras din status till **Aktiv.**
 
 ## <a name="how-azure-consumption-revenue-acr-is-calculated-for-each-advanced-specialization"></a>Så här beräknas Azure Consumption Revenue (ACR) för varje avancerad specialisering:
 
 - Partner-till-kund-associationer inkluderade: [Digital partner för](https://support.microsoft.com/topic/link-a-partner-id-for-azure-performance-pal-or-dpor-a8eed43b-82a8-f017-3b1a-f9c8aa385d32) postassociation till en kund, CSP-direktfaktureringspartner eller en indirekt CSP-återförsäljare för en kund- eller [PARTNERadministratörslänksassociation (PAL)](/azure/cost-management-billing/manage/link-partner-id) till en kund.
-- ACR från prenumerationer med erbjudandetyper utvärderingsversion, förmånsprogram, support och intern räknas inte mot den avancerade specialiseringen.
+- ACR från prenumerationer med erbjudandetyper utvärderingsversion, förmånsprogram, support och intern räknas inte mot avancerad specialisering.
 
 **Intäktsfält för Azure-förbrukning**
 
@@ -139,9 +139,9 @@ Följ sedan de här stegen för att ange kundreferenser i Partnercenter:
 | Servicenivå 1 | Den högsta nivån som Azure-tjänster paketeras på (se: https://azure.microsoft.com/services/) . |
 | Servicenivå 2 | Azure-tjänster på näst högsta nivån (t.ex.: https://azure.microsoft.com/pricing/) |
 | Servicenivå 3 | Azure-tjänster på den tredje högsta nivån (t.ex. https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
-| Servicenivå 4 | Fjärde högsta nivån Azure-tjänster baserade (t.ex.: https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
+| Servicenivå 4 | Azure-tjänster på fjärde högsta nivån (t.ex.: https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
 | Tjänstgrupp 2 | Gruppering av Azure-tjänster enligt en tjänstkategori |
-| Tjänstgrupp 3 | Gruppering av Azure-tjänster enligt en underkategori för tjänsten |
+| Tjänstgrupp 3 | Gruppering av Azure-tjänster enligt en tjänstunderkategori |
 | Tjänstpåverkande | Gruppering av Azure-tjänster som är mappade till en specifik förbrukningsaktivitet |
 | Compute OS | Compute-operativsystem |
 | Compute Core Software | Compute Core Software |
