@@ -6,6 +6,8 @@
       href: appsource-overview.md
     - name: Köpa programvara
       href: purchase-software-appsource.md
+    - name: Privata planer
+      href: appsource-private-plans.md
 - name: Azure Marketplace
   items:
     - name: Om
@@ -23,7 +25,11 @@
     - name: Berättigande av prenumerationsöverföring
       href: transfer-eligibility.md
     - name: Skapa och hantera en privat Azure-marknadsplats
-      href: create-manage-private-azure-marketplace.md
+      items:
+        - name: Vyn Samlingar
+          href: create-manage-private-azure-marketplace-new.md
+        - name: Äldre
+          href: create-manage-private-azure-marketplace.md
     - name: Hantera en privat Azure-marknadsplats – PowerShell
       href: manage-private-azure-marketplace-powershell.md
     - name: Utöka Azure med lösningar från partner
