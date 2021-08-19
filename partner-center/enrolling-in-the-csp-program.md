@@ -1,7 +1,7 @@
 ---
 title: Gå med i Cloud Solution Provider-programmet
 ms.topic: how-to
-ms.date: 08/13/2021
+ms.date: 08/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
 description: Lär dig hur du registrerar dig i den Molnlösningsleverantör-programförsäljningsmodell (CSP) som passar bäst för ditt företag, till exempel indirekt återförsäljare eller direktfaktureringspartner.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7998afc02c0a0a884f8ca93c656580916a8b75be
-ms.sourcegitcommit: b2b04afce99412870b451878499e002e17e7b636
+ms.openlocfilehash: e3c757ba22573b4c3082e954a7b7f12b12dffa7a
+ms.sourcegitcommit: 8219ce4f8613523f15bc8fc1eddadbf97571953f
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "122226784"
+ms.lasthandoff: 08/18/2021
+ms.locfileid: "122421017"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Gå med i Cloud Solution Provider-programmet
 
@@ -24,7 +24,7 @@ ms.locfileid: "122226784"
 
 Den snabbt växande efterfrågan på molnbaserade lösningar och tjänster ger många möjligheter för Microsoft-partner i alla storlekar att skapa lönsamma molnlösningsföretag. Partner som är redo att komma ut på marknaden, men som inte vill behöva hantera flera leverantörer, eller som kanske inte har en infrastruktur för hantering av kundrelationer från början till slut, kan registrera sig i Microsofts Molnlösningsleverantör-program (CSP) som indirekta återförsäljare.
 
-Om du vill registrera dig Molnlösningsleverantör-programmet behöver du först ett MPN-ID. Har du inte någon ännu? Gå [med här](https://partner.microsoft.com/).
+Om du vill registrera dig Molnlösningsleverantör programmet måste du först ha ett MPN-ID. Har du inte någon ännu? Gå [med här](https://partner.microsoft.com/).
 
 För att slutföra CSP-programmet behöver du företagets MPN-ID, fullständiga affärsadress, bankinformation och arbets-e-postadress för den medarbetare som ska fungera som administratör för Partnercenter.
 
@@ -38,18 +38,18 @@ För att slutföra CSP-programmet behöver du företagets MPN-ID, fullständiga 
 
     I vissa länder verifierar vi din adress manuellt när du anger din adress. Om adressen du anger skiljer sig från den verifierade, föreslår vi att du använder den verifierade adressen. Detta säkerställer att adresselementen standardiseras enligt definitionen av landet postnummer, korrekt formaterade och kan skickas.
 
-4. Associera ditt MPN-ID till din profil. Under verifieringen kan vi be dig om ytterligare dokument eller fylla i ett formulär. Det kan ta flera dagar att granska och verifiera den information som du har angett. Vi skickar ett e-postmeddelande till dig när vi har slutfört vår granskning.
+4. Under verifieringen kan vi be dig om ytterligare dokument eller fylla i ett formulär. Det kan ta flera dagar att granska och verifiera den information som du har angett. Vi skickar ett e-postmeddelande till dig när vi har slutfört vår granskning.
 
 5. När vi har verifierat din information godkänner du avtalet med Microsofts indirekta återförsäljares villkor.
 
 > [!IMPORTANT]  
-> En partner i CSP-programmet kan för närvarande inte sälja onlinetjänster en annan partner i CSP-programmet. Den här begränsningen gäller endast för den klientorganisation som används för att utföra CSP-transaktioner. CSP-partner som använder en icke-CSP-klient för företagsanvändning kan köpa onlinetjänster en annan CSP-partner. Microsoft granskar kontinuerligt principerna och funktionerna i alla program. Alla nyheter om funktionsutgåor eller principändringar kommer att meddelas via de vanliga kommunikationskanalerna, [inklusive Meddelanden i Partnercenter.](announcements/index.md)
+> En partner i CSP-programmet kan för närvarande inte sälja onlinetjänster en annan partner i CSP-programmet. Den här begränsningen gäller endast för den klientorganisation som används för att utföra CSP-transaktioner. CSP-partner som använder en icke-CSP-klient för företagsanvändning kan köpa onlinetjänster en annan CSP-partner. Microsoft granskar kontinuerligt principerna och funktionerna i alla program. Alla nyheter om funktions- eller principändringar kommer att meddelas via de vanliga kommunikationskanalerna, inklusive [Partner Center-meddelanden.](announcements/index.md)
 
-## <a name="enroll-as-an-indirect-reseller"></a>Registrera dig som indirekt återförsäljare
+## <a name="enroll-as-an-indirect-reseller"></a>Registrera dig som en indirekt återförsäljare
 
 Om du registrerar dig i CSP-programmet som en indirekt återförsäljare kommer du inte att köpa produkter direkt från eller faktureras direkt av Microsoft. I stället arbetar du med indirekta leverantörer (även kallade distributörer) som gör direkta överträdelser med Microsoft.
 
-Genom att samarbeta med en indirekt leverantör behöver du inte ha infrastrukturen på plats för att gå till marknaden eller köpa direkt från Microsoft, utan kan i stället samarbeta med en erfaren teknikleverantör för att hjälpa dig att nå framgång. I modellen med leverantörer och återförsäljare köper leverantören molnlösningar och -tjänster från Microsoft och förlitar sig på att du distribuerar och serar produkterna.
+Att samarbeta med en indirekt leverantör innebär att du inte behöver ha infrastrukturen på plats för att gå till marknaden eller köpa direkt från Microsoft, utan i stället kan samarbeta med en erfaren teknikleverantör för att säkerställa att du lyckas. I modellen med leverantörer och återförsäljare köper leverantören molnlösningar och -tjänster från Microsoft och förlitar sig på att du distribuerar och serar produkterna.
 
 Olika indirekta leverantörer erbjuder olika support och tjänster, så du bör utvärdera leverantörerna i ditt område för att avgöra vilka som bäst uppfyller dina behov. I allmänhet kommer de flesta leverantörer att:
 
@@ -77,7 +77,7 @@ Som partner för direktfakturering äger du relationen från slutet till slut me
 |**Intäktskrav**|Måste uppfylla minst 300 000 USD Molnlösningsleverantör årliga intäkter under de föregående 12 månaderna som en indirekt återförsäljare. Partner kan granska sina avslutande 12 månaders intäkter i Partnercenter.<br/>Den försäljning som utgör dina USD300K efterföljande 12 månaders intäkter kan granskas och verifieras av Microsoft och du kan bli ombedd att ange ytterligare information. Intäktskravet USD300K beräknas baserat på molnintäkter och exkluderar permanent programvara i CSP.|
 |**Kundreskontra** |Organisationsinfrastrukturen på plats för att hantera kundfakturering och etablering.|
 |**Rekommendation**|             |
-|**Hanterad tjänst**   |Minst en hanterad tjänst, IP-tjänst eller ett kundlösningsprogram. Läs mer om att lägga till [hanterade tjänster.](https://partner.microsoft.com/business-opportunities/managed-services-provider)|
+|**Hanterad tjänst**   |Minst en hanterad tjänst, EN IP-tjänst eller ett kundlösningsprogram. Läs mer om att lägga till [hanterade tjänster.](https://partner.microsoft.com/business-opportunities/managed-services-provider)|
 
 ### <a name="verify-direct-bill-eligibility"></a>Verifiera direktfaktureringsberättigande
 
@@ -91,11 +91,11 @@ När vi har kontrollerat att ditt företag uppfyller behörighetskraven för att
 
 När CSP-programmet fortsätter att utvecklas och växa kanske du föredrar att delta i det som en indirekt återförsäljare i stället för en direktfaktureringspartner. Du kan övergå från din klientorganisation för direktfakturering till modellen för indirekta återförsäljare i Partnercenter.
 
-Information om övergången från en direktfaktureringspartner till en indirekt CSP-återförsäljare finns i Transition [from Molnlösningsleverantör (CSP) direct bill partner to CSP indirect reseller](transition-direct-to-indirect.md) (Övergång från direktfaktureringspartner till en indirekt återförsäljare).
+Se [Övergång från Molnlösningsleverantör direktfaktureringspartner (CSP)](transition-direct-to-indirect.md) till en indirekt CSP-återförsäljare för information om övergången från en direktfaktureringspartner till en indirekt återförsäljare.
 
 ## <a name="csp-regional-markets-and-currencies"></a>CSP:s regionala marknader och valutor
 
-Platsen för ditt företag avgör vilken marknad du har. Din marknad innefattar regioner och/eller länder där du kan sälja erbjudanden från molnlösningsleverantörer. Se [Molnlösningsleverantör programmets regionala marknader och valutor](regional-authorization-overview.md) för marknadsplatser och valutor.
+Platsen för ditt företag avgör vilken marknad du har. Din marknad innefattar regioner och/eller länder där du kan sälja erbjudanden från molnlösningsleverantörer. Se [Molnlösningsleverantör program regionala marknader och valutor](regional-authorization-overview.md) för marknadsplatser och valutor.
 Läs Krav för [att lägga till en ny plats för ett CSP-företag.](manage-locations.md)
 
 ## <a name="provide-partner-registration-id-number-for-specific-countries"></a>Ange partnerregistrerings-ID-nummer för specifika länder
