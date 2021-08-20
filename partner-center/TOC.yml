@@ -38,7 +38,7 @@
         - name: Vanliga frågor och svar om förmåner
           href: benefits-faq.yml
           displayName: 'renew, license,'
-        - name: Visa eller ladda ned din MPN-faktura
+        - name: Visa eller ladda ned DIN MPN-faktura
           href: mpn-view-print-maps-invoice.md
     - name: Tillgängliga fördelar
       items:
@@ -89,7 +89,7 @@
         - name: Vanliga frågor och svar om kompetenser
           href: competencies-faq.yml
           displayName: 'renew, mpn'
-        - name: Avgifter för betalning av kompetens
+        - name: Betala avgifter för kompetens
           href: mpn-pay-fee-silver-gold-competency.md
           displayName: mpn
         - name: Undantag för apputvecklarkompetens
@@ -121,7 +121,7 @@
     - name: Växla CSP-direktfakturering till indirekt återförsäljare
       href: transition-direct-to-indirect.md
       displayName: csp
-    - name: Partner kan inte längre registrera sig som rådgivare
+    - name: Partner kan inte längre registreras som rådgivare
       href: advisors-no-csp.md
 - name: CSP-avtal
   href: microsoft-partner-agreement.md
@@ -252,7 +252,7 @@
           href: bulk-operations.md
         - name: Använda CRM-anslutningsprogram för säljsamarbete
           items:
-            - name: Anslutning för Dynamics 365
+            - name: Anslutningsapp för Dynamics 365
               href: connector-dynamics.md
             - name: Anslutningsapp för Salesforce
               href: connector-salesforce.md
@@ -265,11 +265,14 @@
           displayName: mpn
     - name: Registrera dina avtal
       href: register-deals.md
-    - name: Hämta insikter om hänvisningar
-      href: referral-insights.md
-    - name: Få insikter om leads
-      href: analyze-your-marketing-profile.md
-      displayName: mpn
+    - name: Hänvisningsanalys
+      items:
+        - name: Få insikter om leads
+          href: referral-leads-insights.md
+        - name: Hämta insikter om hänvisningar
+          href: referral-insights.md
+        - name: Definition av referensanalysdata
+          href: referral-analytics-data-definition.md
 - name: Incitament
   items:
     - name: Komma igång med incitament
@@ -435,7 +438,7 @@
           displayName: 'region, regio'
         - name: Begär en SLA-kredit från Microsoft
           href: request-credit.md
-        - name: Hur skatteprinciper påverkar utbetalning
+        - name: Så här påverkar skatteprinciper utbetalningen
           href: tax-policies-affect-payout.md
     - name: Ange en Azure-utgiftsbudget för dina kunder
       href: set-an-azure-spending-budget-for-your-customers.md
@@ -703,7 +706,7 @@
               href: insights-programmatic-prerequisites.md
             - name: Paradigm för programmatisk åtkomst
               href: insights-programmatic-access-paradigm.md
-            - name: Gör ditt första programmatiska API-anrop
+            - name: Gör ditt första programmerings-API-anrop
               href: insights-programmatic-first-api-call.md
             - name: Lista över systemfrågor
               href: insights-programmatic-system-queries.md
