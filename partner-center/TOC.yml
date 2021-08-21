@@ -38,7 +38,7 @@
         - name: Vanliga frågor och svar om förmåner
           href: benefits-faq.yml
           displayName: 'renew, license,'
-        - name: Visa eller ladda ned DIN MPN-faktura
+        - name: Visa eller ladda ned din MPN-faktura
           href: mpn-view-print-maps-invoice.md
     - name: Tillgängliga fördelar
       items:
@@ -250,9 +250,11 @@
           href: manage-co-sell-opportunities.md
         - name: Massåtgärder
           href: bulk-operations.md
+        - name: Dirigeringsregler
+          href: routing-rules.md
         - name: Använda CRM-anslutningsprogram för säljsamarbete
           items:
-            - name: Anslutningsapp för Dynamics 365
+            - name: Anslutning för Dynamics 365
               href: connector-dynamics.md
             - name: Anslutningsapp för Salesforce
               href: connector-salesforce.md
@@ -438,7 +440,7 @@
           displayName: 'region, regio'
         - name: Begär en SLA-kredit från Microsoft
           href: request-credit.md
-        - name: Så här påverkar skatteprinciper utbetalningen
+        - name: Hur skatteprinciper påverkar utbetalning
           href: tax-policies-affect-payout.md
     - name: Ange en Azure-utgiftsbudget för dina kunder
       href: set-an-azure-spending-budget-for-your-customers.md
@@ -706,7 +708,7 @@
               href: insights-programmatic-prerequisites.md
             - name: Paradigm för programmatisk åtkomst
               href: insights-programmatic-access-paradigm.md
-            - name: Gör ditt första programmerings-API-anrop
+            - name: Gör ditt första programmatiska API-anrop
               href: insights-programmatic-first-api-call.md
             - name: Lista över systemfrågor
               href: insights-programmatic-system-queries.md
