@@ -9,18 +9,18 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7e2abdc7536521e72265d99369f165eb7c13d7ae8c258e5db6f84fd774877c19
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 5300f32dc7784a4a4c521db70513ba4b9f21a854
+ms.sourcegitcommit: a0afd7765a1a04dc603e096510fd9c138238a7cb
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115691326"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "122681890"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Ny handelsupplevelse i CSP – Azure-fakturering 
 
 **Lämpliga roller:** Administratörsagent | Faktureringsadministratörskonto | Global administratör
 
-Den här artikeln förklarar hur du kommer åt och förstår faktura- och avstämningsfilstrukturen som rör fakturering för Azure-planen. Fakturering under Azure-planen är en förenklad faktureringsupplevelse med ett justerat faktureringsdatum och kalendermånadsbaserad faktureringsperiod.
+I den här artikeln förklaras hur du kommer åt och förstår faktura- och avstämningsfilstrukturen som rör fakturering för Azure-planen. Fakturering under Azure-planen är en förenklad faktureringsupplevelse med ett justerat faktureringsdatum och kalendermånadsbaserad faktureringsperiod.
 
 ## <a name="summary-of-billing-essentials"></a>Sammanfattning av faktureringsinformation
 
@@ -32,7 +32,7 @@ Den här artikeln förklarar hur du kommer åt och förstår faktura- och avstä
 
 - **Fakturabetalning:** 60 dagar efter.
 
-- **Fakturavaluta:** Från och med 28 januari 2021 debiteras partner i regionen EU/EFTA och Storbritannien som har nya kunder och befintliga CSP-kunder som köper nya handelserbjudanden för första gången vars klienter skapades före den 11 maj 2020. Partner utanför regionen EU/EFTA och Storbritannien fortsätter att debiteras i valuta för partnerplats.
+- **Fakturavaluta:** Från och med augusti 2021 debiteras alla partner i partnerns valuta oavsett var kunden som du sålde produkterna finns.
 
 - **Partnerincitament:** Betalas 45 dagar från slutet av fakturamånaden.
 
@@ -84,7 +84,7 @@ Så här kommer du åt faktura- och avstämningsfilen:
             - Storage kapacitetsmätare
             - Storage driftmätare
 
-- Prenumeration B -ResourceGroup 1 – Azure SQL (resurs) – DTU-mätare – VPN Gateway (resurs) – VPN-gatewaymätare
+- Prenumeration B – ResourceGroup 1 – Azure SQL (resurs) – DTU-mätare – VPN Gateway (resurs) – VPN-gatewaymätare
 
     - ResourceGroup 2
         - Virtual Network (resurs)
@@ -108,11 +108,11 @@ Så här kommer du åt faktura- och avstämningsfilen:
 
 1. Varje kombination av Azure-plan och mätare kan ha upp till två faktureringsrader i rekognoseringsfilen.
 
-2. Om mätaren är kvalificerad för någon typ av rabatt eller kredit (till exempel nivåindelade rabatter eller partnerintjänad kredit för tjänster som hanteras) under hela kalendermånaden innehåller rekognoseringsfilen endast en faktureringsrad. Kolumnen **PriceAdjusmentDescription refererar till** rabatten eller intjänad kredit.
+2. Om mätaren är kvalificerad för någon typ av rabatt eller kredit (till exempel nivåindelade rabatter eller partner-intjänad kredit för tjänster som hanteras) under hela kalendermånaden innehåller rekognoseringsfilen endast en faktureringsrad. Kolumnen **PriceAdjusmentDescription refererar till** rabatten eller intjänad kredit.
 
 3. Om det inte finns några resurser för en viss mätare som är kvalificerade för rabatt eller partner-intjänad kredit innehåller rekognoseringsfilen bara en faktureringsrad och det effektiva enhetspriset är detaljhandelspriset (vilket är enhetspriset).
 
-4. Om mätaren, eller några resurser som  sänder mätaren, är kvalificerad för partner-intjänad kredit för tjänster som hanteras under en del av månaden, innehåller rekognoseringsfilen två faktureringsrader. En rad representerar de dagar då mätaren kvalificerades och den andra raden representerar de dagar då mätaren inte var kvalificerad.
+4. Om mätaren, eller resurser som sänder  mätaren, är kvalificerad för partner-intjänad kredit för tjänster som hanteras under en del av månaden, innehåller rekognoseringsfilen två faktureringsrader. En rad representerar de dagar då mätaren kvalificerades och den andra raden representerar de dagar då mätaren inte var kvalificerad.
 
 >[!NOTE]
 >Du kan stämma av din Azure-förbrukning i rekognoseringsfilen för ett köp en gång. Det gör du genom att gå till din dagliga avsökningsfil för användning och söka efter ditt SubscriptionID. Då visas alla kostnader som är kopplade till ditt Azure-plan-ID. Ditt Azure SubscriptionID visas som EntitlementID.
@@ -131,17 +131,17 @@ Så här kommer du åt faktura- och avstämningsfilen:
 
   - Meter var inte  kvalificerat för partner-intjänad kredit för tjänster som hanteras 7/4–7/7 (observera att det effektiva enhetspriset är återförsäljarpris).
 
-  - Mätare som är kvalificerad för partner-intjänad kredit för tjänster som hanteras från 7/8 till 7/31 (observera att det effektiva enhetspriset är återförsäljarpris minus partner-intjänad kredit). 
+  - Mätare som är kvalificerad för partner-intjänad kredit för tjänster som hanteras från 7/8 till 7/31 (observera att det effektiva enhetspriset är återförsäljarpris minus partners intjänade kredit). 
 
    :::image type="content" source="images/azure/pecfinal.png" alt-text="recon2.":::
 
-## <a name="invoice-in-customer-currency"></a>Faktura i kundvaluta
+## <a name="invoice-in-partner-location-currency"></a>Faktura i partnerns platsvaluta
 
-Azure-tjänster via en Azure-plan prissätts i USD och faktureras i kundens landstilldelade valuta. Om faktureringsvalutan inte är USD visas den valutakurs (FX) som används på den sista sidan på fakturan. FX-priser bestäms varje månad och tillämpas på följande faktura. En fullständig lista över länders valutor finns i den nya handelslösningen med [landstillgänglighet och kundvalutamatrisen](https://go.microsoft.com/fwlink/?linkid=2112354).
+Azure-tjänster via en Azure-plan prissätts i USD och faktureras i partnerns tilldelade valuta. Om faktureringsvalutan inte är USD visas den valutakurs (FX) som används på den sista sidan på fakturan. FX-priser bestäms varje månad och tillämpas på följande faktura. En fullständig lista över länders valutor finns i den nya handelslösningen med [landstillgänglighet och partnervalutamatrisen](https://go.microsoft.com/fwlink/?linkid=2112354).
 
-Microsoft tillämpar en förutbestämd växelkurs för att basera USD-priser för att komma fram till de totala avgifter som tillkommer för Azure-tjänster som köpts eller förbrukats varje kalendermånad. Den månatliga växelkursen är den genomsnittliga kursen som publiceras av AntenPrise (vanligtvis) två arbetsdagar före den föregående månadens slut kl. 16:00 GMT. 
+Microsoft tillämpar en förutbestämd växelkurs för att basera USD-priser för att ta emot totala avgifter för Azure-tjänster som köpts eller förbrukats varje kalendermånad. Den månatliga växelkursen är den genomsnittliga kursen som publiceras av AntenPrise (vanligtvis) två arbetsdagar före den föregående månadens slut kl. 16:00 GMT. 
 
-**Till exempel** Microsofts växlingskurs i december skulle vara Det medelstora priset för En viss valuta den 29 november eller runt den 29 november. Den kursen tillämpas på alla inköp i den valutan från 1 december till 31 december. 
+**Till exempel** Microsofts växlingskurs i december skulle vara Det medelstora priset För en viss valuta den 29 november eller runt den 29 november. Den kursen tillämpas på alla inköp i den valutan från 1 december till 31 december. 
 
 ## <a name="azure-reservations"></a>Azure-reservationer
 

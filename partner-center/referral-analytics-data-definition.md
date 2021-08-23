@@ -8,12 +8,12 @@ description: Dokumentet innehåller olika rapporter och deras datadefinitioner, 
 author: v-sausharma
 ms.author: v-sausharma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8af7b881b76b9a3adeed97b69da70bc3c16ffc4b
-ms.sourcegitcommit: 7c0dc665ca5e908de884003aebdd14889fcce5dc
+ms.openlocfilehash: e2409dcbfd2a9de677ef4ec79bf8749072859325
+ms.sourcegitcommit: a0afd7765a1a04dc603e096510fd9c138238a7cb
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122514176"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "122681855"
 ---
 # <a name="referral-analytics-export--data-definitions"></a>Export av hänvisningsanalys – datadefinitioner
 
@@ -58,20 +58,20 @@ De olika rapporterna, som du kan ladda ned tillsammans med deras datadefinitione
 |   Avtalsvaluta   |   Avtalets valuta    |
 |   Beräknat avtalsvärde    |   Beräknat avtalsvärde som tillhandahålls av partner    |
 |   Beräknat avtalsvärde (USD)  |   Beräknat avtalsvärde som tillhandahålls av partner i USD |
-|   Lösnings-ID     |   ID för lösningen  |
-|   Namn på lösning   |   Namnet på lösningen    |
-|   MPN-ID  |   Microsofts partnernätverks-ID för partnern |
+|   Lösnings-ID     |   Lista över lösnings-ID |
+|   Namn på lösning   |   Lista över lösningsnamnen  |
+|   MPN-ID  |   Microsoft-partnernätverks-ID för partnern |
 |   Partnernamn    |   Namnet på partnern |
 |   Avtals-ID |   ID för avtalet  |
 |   Engagemangs-ID   |   Unikt engagemangs-ID    |
 |   Microsoft MSX-ID    |   MSX-ID för avtal  |
-|   Skapandedatum för Microsoft-hänvisning    |   Skapandedatum för hänvisning från microsoft |
+|   Skapandedatum för Microsoft-hänvisning    |   Skapandedatum för referens från microsoft |
 |   Förnamn för registrerad kontakt   |   Förnamnet på partnerkontakten som angavs under avtalsregistreringen |
 |   Registrerade kontaktens efternamn    |   Efternamnet på partnerkontakten som angavs under avtalsregistreringen  |
 |   E-postadress för registrerad kontakt    |   E-postadress till partnerkontakten som angavs under avtalsregistreringen  |
-|   Registrerat kontakttelefonnummer |   Telefon antal partnerkontakter som angavs under avtalsregistreringen. Detta inkluderar programvaru- och tjänstavgifter men inte maskinvarukostnader   |
+|   Registrerat kontakttelefonnummer |   Telefon antal partnerkontakter som angavs under avtalsregistreringen   |
 |   Kontraktsvaluta   |   Kontraktsvaluta som angavs under avtalsregistreringen  |
-|   Kontraktvärde  |   Totalt kontraktsvärde som angavs under avtalsregistreringen  |
+|   Kontraktvärde  |   Totalt kontraktsvärde som angavs under avtalsregistreringen. Detta inkluderar programvaru- och tjänstavgifter men inte maskinvarukostnader  |
 |   Kontraktsvärde (USD)    |   Totalt kontraktsvärde i USD som angavs under avtalsregistreringen   |
 |   Kontraktets startdatum |   Startdatumet för det kontrakt som angavs under avtalsregistreringen    |
 |   Slutdatum för kontrakt   |   Slutdatum för det kontrakt som angavs under avtalsregistreringen  |
@@ -86,7 +86,7 @@ De olika rapporterna, som du kan ladda ned tillsammans med deras datadefinitione
 |   Primär distribution på   |   Anger om lösningen har distribuerats på kundens klientorganisation eller partnerklientorganisation  |
 |   Skapandedatum för avtal  |   Skapandedatum för avtalsregistrering  |
 |   Datum då avtalet skickades     |   Datum för avtalsregistrering skickades |
-|   Avtalsgodkänd/avvisat datum     |   Avtalet godkändes/avvisades. Detta mappas med statuskolumnen. |
+|   Avtalsgodkänd/avvisat datum     |   Avtalsgodkänd/avvisat datum. Detta mappas med statuskolumnen. |
 |   Amerikanskt federalt avtal |   Anger om det är ett amerikanskt federalt avtal    |
 |   Är Marketplace Transacted Deal  |   Anger om det är ett marketplace-avtal    |
 |   Transaktionsdatum för Marketplace    |   Marketplace-transaktionsdatum om avtalet genomförs på Marketplace|
