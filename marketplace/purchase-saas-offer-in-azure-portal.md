@@ -7,13 +7,13 @@ ms.reviewer: dannyevers
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: how-to
-ms.date: 06/29/2021
-ms.openlocfilehash: 2514bea646492e25748b26ec69b3fccb6052daa6
-ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
+ms.date: 08/05/2021
+ms.openlocfilehash: 4f83d5c85f0316ad5c9d9ad75ca6519b5940146f
+ms.sourcegitcommit: 38afe7e35e3dce4f35cf7352cc98e3d53e979a62
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121914921"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "122752097"
 ---
 # <a name="purchase-a-saas-offer-in-azure-portal"></a>Köpa ett SaaS-erbjudande i Azure Portal
 
@@ -51,7 +51,7 @@ Den filtrerade vyn visar varje tillgängligt SaaS-erbjudande som representeras a
 
 - Översikt – information om tjänsten, marknadsförings- och utbildningsmaterial
 - Planer + priser – varje erbjudande innehåller minst en plan med olika faktureringsvillkor och priser
-- Användningsinformation + support – innehåller Publisher-ID, erbjudande-ID och plan-ID
+- Användningsinformation + support – innehåller Publisher ID, erbjudande-ID och plan-ID
 - Klassificering och recensioner av det specifika SaaS-erbjudandet
 
 ## <a name="available-billing-models-plansskus-for-saas-offers"></a>Tillgängliga faktureringsmodeller (planer/SKU:er) för SaaS-erbjudanden
@@ -101,7 +101,7 @@ Felmeddelanden som du kan stöta på under processen:
 - Köpet misslyckades eftersom det inte gick att hitta ett giltigt kreditkort eller en betalningsmetod som är associerad med din Azure-prenumeration.
   - Använd en annan Azure-prenumeration eller lägg till\uppdatera aktuellt kreditkort eller betalningsmetod för den här prenumerationen och försök igen.
 
-- Plannamnet *för den plan som* valts  av erbjudandets *namn* efter utgivare av erbjudandet är inte tillgängligt för dig för köp enligt de regler som angetts av IT-administratören.
+- Plannamnet *på den plan som* valts  av erbjudandeerbjudandets namn efter utgivare av erbjudande är inte tillgängligt för dig att köpa enligt de regler som angetts av IT-administratören. 
   - Kontakta IT-administratören.
 
 - Plannamnet *på den plan som*  valts av den *erbjudandeplan* som valts av utgivaren av erbjudandet är inte tillgängligt för köp på grund av privata Marketplace-inställningar som gjorts av din klients IT-administratör.
@@ -117,17 +117,17 @@ Felmeddelanden som du kan stöta på under processen:
   - Försök igen senare. Kontakta supporten om du fortsätter att få det här felmeddelandet efter en timme.  
 
 - Det gick inte att  *köpa planID* för planID för erbjudandet *från utgivaren publisherID.* Den här planen är för närvarande inte tillgänglig för köp.
-  - Försök igen senare. Kontakta supporten om du fortsätter att få det här felmeddelandet efter en timme. 
+  - Försök igen senare. Kontakta supporten om du fortsätter att få det här felmeddelandet efter en timme.
 
 - Klientens *e-postadress* med objekt-ID *ObjectID* har inte behörighet att utföra åtgärden *DeploymentValidationAction* över omfånget *ResourceGroup; DeploymentScope* eller så är omfånget ogiltigt.  
   - Du får det här meddelandet om du inte har rätt behörigheter för Azure-prenumerationen/resursgruppen.  
     Uppdatera dina autentiseringsuppgifter om åtkomsten nyligen har beviljats.  
-    Om du vill distribuera resurser till en resursgrupp måste du minst ha deltagaråtkomst. Kontrollera din åtkomststatus under **Resursgrupper** och välj **Access Control**. Detta visar vem "Ägare" är, som du kan be att tilldela dig som deltagare.
+    Om du vill distribuera resurser till en resursgrupp måste du minst ha deltagaråtkomst. Kontrollera din åtkomststatus under **Resursgrupper** och välj **sedan Access Control**. Detta visar vem "Ägare" är, som du kan be att tilldela dig som deltagare.
 
 - Prenumerationen som används för det här köpet tillåter inte Marketplace-inköp.  
   - Använd en annan prenumeration eller be administratören att ändra definitionen för den här prenumerationen och försöka igen.
 
 ## <a name="next-steps"></a>Nästa steg
 
-- Om du redan har köpt ett erbjudande på Marketplace går du [till Fakturering](./billing-invoicing.md)
-- Du kan också läsa mer om [alternativen för privata](./private-plans.md) planer.
+- Om du redan har köpt ett erbjudande på Marketplace går du [till Fakturering](billing-invoicing.md)
+- Läs mer om [privata planer](private-plans.md)

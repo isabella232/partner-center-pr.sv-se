@@ -16,6 +16,8 @@
       href: azure-purchasing-invoicing.md
     - name: Köpa ett SaaS-erbjudande i Azure Portal
       href: purchase-saas-offer-in-azure-portal.md
+    - name: Livscykelhantering för SaaS-prenumeration
+      href: saas-subscription-lifecycle-management.md
     - name: Fakturering
       href: billing-invoicing.md
     - name: Azure-förbrukningsåtagandeförmån

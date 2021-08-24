@@ -9,16 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b3d498afef9997f1537cfe15b1fef93471d23ec50b43acd467f0e1c7aafd1434
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: f594b7d39234080e2c3f99c05a2e64fdaa18f0dd
+ms.sourcegitcommit: 38afe7e35e3dce4f35cf7352cc98e3d53e979a62
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115693001"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "122752107"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Faktureringsöversikt för CSP-programpartner som arbetar i Partnercenter 
 
-**Lämpliga roller:** Administratörsagent | Faktureringsadministratörskonto | Globala | Supportagent | Försäljningsagent
+**Lämpliga roller:** Administratörsagent | Faktureringsadministratörskonto | Globala | Supportagent för | Försäljningsagent
 
 Den här artikeln innehåller grundläggande fakturerings- och fakturainformation för CSP-partner i Partnercenter, inklusive hur du fakturerar kunder och hur du hittar och läser din faktura.
 
@@ -47,7 +47,7 @@ Faktureringstyperna i Partnercenter **omfattar licensbaserad fakturering,** **an
 
 **Licensbaserad och användningsbaserad** fakturering: Du debiteras för produkter i valutan för det land eller den region där du befinner dig. Du debiteras på samma sätt oavsett var kunden som du sålde produkterna till finns.
 
-Entidsfakturering: Från och med 28 januari 2021 debiteras partner i regionen EU/EFTA och Storbritannien som har nya kunder och befintliga **CSP-kunder** som köper nya handelserbjudanden för första gången vars klienter skapades före den 11 maj 2020. Partner som är belägna utanför EU/EFTA- och Storbritannien-regionen fortsätter att debiteras i partnerns platsvaluta. Läs mer om [engångs- och återkommande](azure-plan-billing.md). 
+**One-time-fakturering:** Från och med augusti 2021 debiteras alla partner i partnerns valuta oavsett var kunden som du sålde produkten/produkterna finns. Läs mer om [engångs- och återkommande](azure-plan-billing.md). 
 
 ## <a name="invoices"></a>Fakturor
 
@@ -61,9 +61,9 @@ Vid engångsfakturering och återkommande fakturering justeras faktureringsperio
 
 Prislistor uppdateras varje månad. Förhandsgranskningsprislistor är tillgängliga en (1) månad i förväg.
 
-Om du vill se Molnlösningsleverantör senaste programmen och erbjudandena går du till Sell > Pricing and Offers (Sälj via instrumentpanelen i **Partnerportal).** Du hittar separata prislistor för de olika typer av produkter som är tillgängliga. Följande prislistor finns på sidan **Priser och** erbjudanden:
+Om du vill se Molnlösningsleverantör senaste programmen och erbjudandena går du till Sell > Pricing and Offers (Sälja på partnerportalens **instrumentpanel).** Du hittar separata prislistor för de olika typer av produkter som är tillgängliga. Följande prislistor finns på sidan **Priser och** erbjudanden:
 
-**Licensbaserade** priser garanteras för prenumerationens period, vanligtvis 12 månader från inköpsdatum. 
+**Licensbaserade priser** garanteras för prenumerationens period, vanligtvis 12 månader från inköpsdatum. 
 
 **Användningsbaserade priser** kan ändras månadsvis.
 
@@ -85,13 +85,13 @@ Du debiteras baserat på dina uppgifter (inte kundernas) eftersom faktureringsre
 
 För **käll- och momsbefrielse måste** du skicka skattedokumentation via en supportbegäran. Du ser ändringarna och lämpliga återbetalningar för nästa faktureringsperiod. Läs mer om att [skicka källskatt.](withholding-tax-credit-form.md) 
 
-För **momsbefrielse måste du skicka ditt** momsregistreringsnummer (verifierat av Microsoft) via en tjänstbegäran.  Om momsregistrerings-ID:t skickas efter kontokonfigurationen (via en supportbegäran) kommer dina fakturor före denna begäran inte att ha ett momsregistreringsnummer stämplat på faktura-PDF. Du ser ändringarna i nästa faktureringsperiod.
+För **momsbefrielse måste du skicka ditt** momsregistreringsnummer (verifierat av Microsoft) via en tjänstbegäran.  Om momsregistrerings-ID:t skickas efter kontokonfigurationen (via en supportbegäran) kommer dina fakturor före denna begäran inte att ha ett momsregistreringsnummer stämplat på PDF-fakturan. Du ser ändringarna i nästa faktureringsperiod.
 
 Du hittar ytterligare skatteinformation från ditt lokala skattekontor eller skatterådgivare.
 
 ### <a name="adjustmentscreditscancellations"></a>Justeringar/krediter/annulleringar
 
-Avbokningskrediter för licensierade tjänster klassificeras i enlighet med den här formeln för oanvända dagar vid annulleringar mitt i cykeln (samt licensminskningar enligt följande formel:
+Avbokningskrediter för licensierade tjänster klassificeras i enlighet med den här formeln för oanvända dagar vid annulleringar mitt i cykeln (samt licensminskningar:
 
 [ROUND((ROUND(Unit Price * Quantity/Number of days in pro-rated Month, 2) * Number of pro-rated days) / Quantity, 2) * Quantity] 
 
@@ -99,7 +99,7 @@ Microsoft debiterar inga avgifter för tidig uppsägning för annullering av lic
 
 ### <a name="billing-rules"></a>Faktureringsregler
 
-Det finns två typer av faktureringsfrekvenser idag: Annual & Monthly.  
+Det finns två typer av faktureringsfrekvenser idag: Årlig & varje månad.  
 Mätarpriser för tjänster kan ändras inom fakturacykeln.
 
 #### <a name="annual-billing-rules"></a>Årliga faktureringsregler 
@@ -110,7 +110,7 @@ Mätarpriser för tjänster kan ändras inom fakturacykeln.
 
 - Du debiteras i förväg för nästa faktureringsperiod för licensbaserade tjänster, baserat på antalet licenser i slutet av den föregående faktureringsperioden. 
 
-- Du debiteras/krediteras i efterskott för eventuella ändringar i antalet licenser (pro-area-beräkning baserat på licensdagar). Pro beräkning med tre punkter använder följande formel: 
+- Du debiteras/krediteras i efterskott för eventuella ändringar i antalet licenser (pro-area-beräkning baserat på licensdagar). Pro-et-beräkning använder följande formel: 
 
   - [ROUND((ROUND(Unit Price * Quantity/Number of days in pro-rated Month, 2) * Number of pro-rated days) / Quantity, 2) * Quantity] 
 
