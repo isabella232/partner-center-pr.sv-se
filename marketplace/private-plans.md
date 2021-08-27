@@ -1,21 +1,21 @@
 ---
-title: Privata erbjudanden i Azure Marketplace
-description: Läs mer om privata erbjudanden i Azure Marketplace.
+title: Privata planer i Azure Marketplace
+description: Läs mer om privata planer i Azure Marketplace.
 ms.service: marketplace-customer
 ms.topic: article
 author: Guyshu
 ms.author: gushuchm
-ms.date: 06/03/2021
-ms.openlocfilehash: e8a0f0811364de1c012cea7c54bb7b41833d6ce7127d8737c694a3dbc0666ad7
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.date: 08/27/2021
+ms.openlocfilehash: d8c55ce8f6a0c5da3bf2f02c899196e8fd6fd2e0
+ms.sourcegitcommit: fe0920740ef9f461b38cc20bac41192552466405
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115688473"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "123088523"
 ---
 # <a name="private-plans-in-azure-marketplace"></a>Privata planer i Azure Marketplace
 
-Privata planer är hur utgivare tillhandahåller anpassade planer till specifika kunder. Privata abonnemang är endast tillgängliga för betalda erbjudanden som kan köpas och installeras direkt från Azure Portal. Utgivare kan inte skapa privata planer för  konsulttjänster, tjänster som har Kontakta mig som en call-to-action eller någon kostnadsfri tjänst, oavsett om de kan installeras från portalen eller inte.
+Privata planer är hur utgivare tillhandahåller anpassade planer till specifika kunder. Privata abonnemang är endast tillgängliga för betalda produkter som kan köpas och installeras direkt från Azure Portal. Utgivare kan inte skapa privata planer för  konsulttjänster, tjänster som har Kontakta mig som en call-to-action eller någon kostnadsfri tjänst, oavsett om de kan installeras från portalen eller inte.
 
 ## <a name="find-private-plans-in-the-azure-portal"></a>Hitta privata planer i Azure Portal
 
@@ -24,13 +24,13 @@ När en partner publicerar en privat plan visas den bara för berättigade anvä
 > [!NOTE]
 > Privata planer är sökbara men inte filtrerbara (efter kategori) i Azure Portal.
 
-I den Azure Portal väljer du **+ Skapa en resurs** eller söker efter "marketplace" för att gå till **Marketplace-sidan.** Om du är berättigad till privata planer visas banderollen Du har **tillgängliga privata** planer överst på sidan. Välj **Visa privata erbjudanden + planer för** att gå till sidan för dina privata planer.
+I Azure Portal väljer du **+ Skapa en resurs eller** söker efter "marketplace" för att gå till **Marketplace-sidan.** Om du är berättigad till privata planer visas banderollen You **have private products available** (Du har privata produkter tillgängliga) överst på sidan. Välj **Visa privata produkter för** att gå till sidan med dina privata planer.
 
-:::image type="content" source="media/private-offers/private-offers-banner.png" alt-text="Banderollen som visas när du har privata planer tillgängliga.":::
+:::image type="content" source="media/private-offers/private-products-banner.png" lightbox="media/private-offers/private-products-banner.png" alt-text="Banderollen som visas när du har privata produkter tillgängliga.":::
 
 ## <a name="review-private-plans"></a>Granska privata planer
 
-En privat plan är en del av flera planer i ett erbjudande. Varje erbjudande kan ha flera planer, både offentliga och privata, men privata planer visas under en separat lista från offentliga planer.
+En privat plan är en del av flera planer i en produkt. Varje produkt kan ha flera planer, både offentliga och privata, men privata planer visas under en separat lista från offentliga planer.
 
 Du kan se tillgängliga privata planer under fliken **Planer,** markerade med ett privat **märke:**
 
@@ -38,7 +38,7 @@ Du kan se tillgängliga privata planer under fliken **Planer,** markerade med et
 
 Om du har fler än en prenumeration visas alla privata abonnemang som är tillgängliga för alla dina prenumerationer. När du väljer **Skapa** dirigeras du till sidan för resursskapande för att börja konfigurera resursen.
 
-Om du väljer **Skapa** och har flera prenumerationer, men inte alla läggs till i den privata planen, kanske din standardprenumeration inte är den prenumeration som är berättigad för den här privata planen. I det här fallet väljer du rätt prenumeration.
+Om du väljer **Skapa** och har flera prenumerationer, men inte alla läggs till i den privata planen, kanske din standardprenumeration inte är den prenumeration som är berättigad till den här privata planen. I det här fallet väljer du rätt prenumeration.
 
 :::image type="content" source="media/private-offers/select-correct-subscription.png" alt-text="Länken som visar att det finns fler privata planer tillgängliga.":::
 

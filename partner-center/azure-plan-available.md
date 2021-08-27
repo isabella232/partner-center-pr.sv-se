@@ -9,12 +9,12 @@ ms.author: amrava
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f347b1aa246df3cfa4ccf0d52bff1dd76ac70e5d007a0d8b8efc0fafe0599a49
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 6037044a72bd9bd71131ddbc66fec0555bbd5f86
+ms.sourcegitcommit: fe0920740ef9f461b38cc20bac41192552466405
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115693052"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "123088562"
 ---
 # <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Azure-tjänster som är tillgängliga i Programmet Azure Molnlösningsleverantör (CSP)
 
@@ -22,14 +22,14 @@ ms.locfileid: "115693052"
 
 ## <a name="available-azure-services-in-azure-csp"></a>Tillgängliga Azure-tjänster i Azure CSP
 
-Den här artikeln listar de Azure-tjänster som är och inte är tillgängliga i Programmet Azure Molnlösningsleverantör (CSP). Den beskriver även tjänsttillgänglighet i de nationella molnen [Microsoft Azure Tyskland](https://azure.microsoft.com/overview/clouds/germany/) och [Microsoft Azure Myndigheter.](https://azure.microsoft.com/overview/clouds/government/)
+Den här artikeln listar de Azure-tjänster som är och inte är tillgängliga i Programmet Azure Molnlösningsleverantör (CSP). Den beskriver även tjänsttillgänglighet i de nationella molnen [Microsoft Azure Tyskland](https://azure.microsoft.com/overview/clouds/germany/) och [Microsoft Azure myndigheter.](https://azure.microsoft.com/overview/clouds/government/)
 
 >[!Note]
 > [Azure China](https://www.azure.cn/) är inte tillgängligt i Azure CSP program.
 
 ## <a name="global-cloud"></a>Globalt moln
 
-Alla tjänster som baseras Azure Resource Manager modellen är tillgängliga i CSP-programmet.  Icke-Azure Resource Manager tjänster är inte tillgängliga i CSP-programmet.  
+Alla tjänster som baseras Azure Resource Manager modellen är tillgängliga i CSP-programmet.  Icke-Azure Resource Manager tjänster, till exempel tjänster för klassiska distributionsmodeller, är inte tillgängliga i CSP-programmet.  
 
 ## <a name="csp-specific-service-configurations"></a>CSP-Specific servicekonfigurationer
 
@@ -41,7 +41,9 @@ Följande tjänster kräver särskilda konfigurationer i CSP:
 
 - [Key Vault](https://azurecsp.blob.core.windows.net/files/key-vault-in-csp.docx)
 
-- [Azure Time Series-Insights](https://azure.microsoft.com/services/time-series-insights/) Endast användare från kundens klientorganisation kan komma åt data i sin Time Series-Insights miljö. Partner kan hantera sina kunders Time Series Insights miljö som standard, men om de behöver åtkomst till data i den måste de läggas till i kundens klientorganisation.
+- [Azure Time Series-Insights](https://azure.microsoft.com/services/time-series-insights/) Endast användare från kundens klientorganisation kan komma åt data i sin Time Series Insights miljö. Partner kan hantera sina kunders Time Series Insights miljö som standard, men om de behöver åtkomst till data i den måste de läggas till i kundens klientorganisation.
+
+- Hanteringscertifikat för autentisering av Azure SDK-bibliotek via certifikat stöds inte i CSP-modellen.  Använd autentisering av azure AD-tjänstens huvudnamn och Azure.Identity-biblioteket i stället.  Referens [för autentisering med Azure SDK för .NET](/dotnet/azure/sdk/authentication)
 
 ## <a name="visual-studio-marketplace"></a>Visual Studio Marketplace
 
@@ -57,7 +59,7 @@ För att hjälpa dig att komma igång har vi skapat videor och dokumentation om 
 
 ## <a name="azure-marketplace-items-in-azure-csp"></a>Azure Marketplace-objekt i Azure CSP
 
-Alla objekt Azure Marketplace för närvarande inte tillgängliga i Azure CSP prenumerationer.
+Alla objekt Azure Marketplace inte tillgängliga i Azure CSP prenumerationer.
 
 - Microsoft-baserade Azure-tjänster: Dessa tjänster är tillgängliga. Granska föregående tabell och kommentarer.
 
@@ -69,7 +71,7 @@ Alla objekt Azure Marketplace för närvarande inte tillgängliga i Azure CSP pr
 
 ## <a name="national-clouds"></a>Nationella moln
 
-I följande tabell visas en regelbundet uppdaterad lista över tillgängliga Azure-produkter, -tjänster och -funktioner från första part för CSP i nationella moln.
+I följande tabell visas en regelbundet uppdaterad lista över tillgängliga azure-produkter, tjänster och funktioner från första part för CSP i nationella moln.
 
 | Azure-produkt, -tjänst eller -funktion | US Government | Tyskland |
 | ------ | :-----------: | :-----------: |
@@ -182,6 +184,6 @@ I följande tabell visas en regelbundet uppdaterad lista över tillgängliga Azu
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Lär](/azure/cloud-solution-provider/overview/partner-center-overview) dig mer om tillgängliga funktioner för Azure i Partnercenter.
+- [Lär](/azure/cloud-solution-provider/overview/partner-center-overview) dig mer om de tillgängliga funktionerna för Azure i Partnercenter.
 
 - [Skapa](/azure/cloud-solution-provider/customer-management/create-new-customer) din första kund i Azure CSP och distribuera Azure-tjänster.

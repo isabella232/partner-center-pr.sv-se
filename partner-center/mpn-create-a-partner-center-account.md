@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 550d5c3ab6361485ea545a4863323f2f7d8e85ef
-ms.sourcegitcommit: 8fe3b0f22d548bc6bcc1b87636216cd4d42b3ede
+ms.openlocfilehash: b88698cec01e7a5a3701d420298d93640d0fdbbf
+ms.sourcegitcommit: fe0920740ef9f461b38cc20bac41192552466405
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "122297240"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "123088596"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Skapa ett MPN-konto i Partnercenter för att hantera nätverksförmåner och kompetenser
 
@@ -51,14 +51,14 @@ När du är redo att skapa ett konto i Partnercenter måste du ha följande till
 
 2. Du kan logga in med ditt Office 365 arbetskonto, till exempel you@contoso.onmicrosoft.com .
 
-   >[!NOTE]
-   > Du kan inte använda dina befintliga CSP-kontoautentiseringsuppgifter för att registrera dig i MPN.
+   > [!NOTE]
+   > Du kan inte använda dina befintliga CSP-kontoautentiseringsuppgifter eller en myndighetsdomän för att registrera dig för MPN. MPN är ett globalt program och stöder inte registrering med en myndighetsdomän. Om du inte har någon e-postadress eller klientorganisation i ett globalt moln kan du skapa en offentlig klientorganisation och sedan följa stegen i den här artikeln. [](/azure/active-directory/fundamentals/active-directory-access-create-new-tenant)
 
 3. Ange företagets juridiska information.
 
-    Du kan antingen leta upp din företagsprofil eller ange företagsinformation manuellt. Om ditt företag är registrerat hos [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)använder du DUNS-ID:t för att leta upp företagets information. Om du vill ange företagsinformation själv väljer du **Manuell.**
+    Du kan antingen leta upp din företagsprofil eller ange företagsinformation manuellt. Om ditt företag är registrerat med [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)använder du DUNS-ID:t för att leta upp företagets information. Om du vill ange företagsinformation själv väljer du **Manuell.**
 
-    Om ditt företag finns i **Det** begynnande, begynnande, **kyrgyzstan,**  **Island,** **Anten** eller **Ryssland,** och du anger din adress manuellt, kommer vi att verifiera din adress åt dig. Om den som du anger skiljer sig från den verifierade, föreslår vi att du använder den verifierade adressen. Detta säkerställer att adresselementen standardiseras enligt definitionen av landet postnummer, korrekt formaterade och kan levereras.  
+    Om ditt företag finns i  **Det** begynnande, begynnande, **kyrgyzstan,** Underegien,  **Anten** eller Ryssland, och du anger din adress manuellt, kommer vi att verifiera din adress åt dig.  Om den som du anger skiljer sig från den verifierade, föreslår vi att du använder den verifierade adressen. Detta säkerställer att adresselementen standardiseras enligt definitionen av landet postnummer, korrekt formaterade och kan levereras.  
 
     När du har angett företagsinformation anger du den primära kontaktinformationen. Den primära kontakten ska vara den person i företaget som vi kan kontakta om ditt program (den här kontakten kan vara du eller en annan person i ditt företag).
 
@@ -75,7 +75,7 @@ Följande tabell innehåller exempel på registreringsnumren som samlats in för
 
 | **Land eller region** | **Information** | 
 |:--|:--|
-| **Armenien** | INN – Skattenummer<br>Momsregistreringsnummer – även kallat momsregistreringsnummer. Det här är det unika nummer som identifierar en skattebar person (företag) eller icke-skattebar juridisk enhet som är registrerad för moms.<br>Nummer för offentlig tjänst |
+| **Armenien** | INN – Skattenummer<br>Momsregistreringsnummer – även kallat momsregistreringsnummer. Det här är det unika nummer som identifierar en skattebar person (företag) eller en icke-skattebar juridisk enhet som är registrerad för moms.<br>Nummer för offentlig tjänst |
 | **Azerbajdzjan**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) – Skatteidentifieringsnummer<br>INN – Skattenummer |
 | **Vitryssland**  | UNP – Det här är ett niosiffrigt tal (numeriskt för organisationer, alfanumeriskt för enskilda användare) som innehåller en regionsidentifierare, en serie per region och en kontrollsiffra. |
 |**Brasilien** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) – (Cadastro Nacional da Pessoa Jurica, eller National Registry of Legal Entities). Det här är ett identifieringsnummer som utfärdats till brasiliens företag av Brasiliens avdelning för federala intäkter  |
@@ -92,21 +92,21 @@ Följande tabell innehåller exempel på registreringsnumren som samlats in för
 | **Saudiarabien** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Saudi-Arabia-TIN.pdf) – Skatteidentifieringsnummer |
 | **Sydafrika** | TRN – trafikregistreringsnummer |
 | **Sydsudan** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Skatteidentifieringsnummer |
-| **Tadzjikistan**  | INN – Skatteidentifieringsnummer<br>ING – Arbetsgivares id-nummer<br>KPP – Det här är en kod som återspeglar orsaken till organisationsregistreringen. |
+| **Tadzjikistan**  | INN – Skatteidentifieringsnummer<br>HAR – Arbetsgivares id-nummer<br>KPP – Det här är en kod som återspeglar orsaken till organisationsregistreringen. |
 | **Thailand** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Skatteidentifieringsnummer |
 | **Turkiet** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) – Skatteidentifieringsnummer<br>NIN |
 | **Ukraina**  | EGRPOU<br>EDRPOU – lokalt ID |
 | **Förenade Arabemiraten** | Skatte-ID<br>[Momsregistreringsnummer](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) – även kallat momsregistreringsnummer. Det här är det unika nummer som identifierar en skattebar person (företag) eller icke-skattebar juridisk enhet som är registrerad för moms. |
-| **USA** | [ING](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) – Arbetsgivares id-nummer |
+| **USA** | [HAR –](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) Arbetsgivares id-nummer |
 | **Uzbekistan**  | INN – Skatteidentifieringsnummer |
 | **Vietnam** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Skatteidentifieringsnummer |
-| **Venezuela** | DECENTRALIS – är ett skattenummer ("Registro de Identificacigån Fiscal") |
+| **Venezuela** | DECENTRALIS – är ett skattenummer ("Registro de Identificaci avmarkera Fiscal") |
 
 
 
 ## <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Visa kontoinformation eller visa och ladda ned MPN-avtalet
 
-Logga in på Partnercenter med dina MPN-autentiseringsuppgifter. Välj [**Partnerprofil**](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) för att visa företagets juridiska information, verifieringsstatus, DINA MPN-ID:er och skapa även nya MPN-platser om det behövs. 
+Logga in på Partner Center med dina MPN-autentiseringsuppgifter. Välj [**Partnerprofil**](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) för att visa företagets juridiska information, din verifieringsstatus, DINA MPN-ID:er och skapa även nya MPN-platser om det behövs. 
 
 Du kan också visa annan viktig information som MPN-ID:n, hantera MPN-platser och visa Microsoft-partneravtal med hjälp av de vänstra menylänkarna som visas i följande skärmbild.
 
@@ -125,4 +125,4 @@ Du kan också visa annan viktig information som MPN-ID:n, hantera MPN-platser oc
 
 -  [Skapa en företagsprofil för att få kundämnen från Microsoft](create-a-marketing-profile.md)
 
--  [Hämta och hantera sälj-leads från Microsoft](manage-leads.md)
+-  [Hämta och hantera sälj leads från Microsoft](manage-leads.md)
