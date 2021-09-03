@@ -1,7 +1,7 @@
 ---
 title: Sök efter avancerade specialiseringar
 ms.topic: how-to
-ms.date: 07/07/2021
+ms.date: 08/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
 description: Förbättra din företagsprofil i Microsofts partnerkatalog. Lär dig hur du använder Partnercenter för att söka efter och få avancerade specialiseringar.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d00f1ffde15477678b05cbc00213d8a7d494b299
-ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
+ms.openlocfilehash: 378181838841a6763130394a35c3d5a3804fa72b
+ms.sourcegitcommit: 14a1cc0c679a84f9ee6d2eec814528415195162c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121914955"
+ms.lasthandoff: 09/02/2021
+ms.locfileid: "123396178"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Använd Partnercenter för att söka avancerade specialiseringar och kontrollera deras status
 
@@ -70,20 +70,20 @@ Avancerade specialiseringar som kräver granskning hos en granskare från tredje
 - Microsoft Azure VMware Solution
 - DevOps med GitHub på Microsoft Azure
 - Nätverkstjänster i Microsoft Azure
+- SAP på Microsoft Azure
 
 Avancerade specialiseringar som kräver kundreferenser är:
 
 - Hantering av införande och ändring
 - Anropa Microsoft Teams
 - Möten och mötesrum för Microsoft Teams
-- SAP på Azure
 - Distribution av samarbete
 - Identitets- och åtkomsthantering
 - Hotskydd
 - Information Protection och styrning
 - Molnsäkerhet
 
-Avancerade specialiseringar som inte kräver granskning eller kundreferens är:
+Avancerade specialiseringar som inte kräver granskning eller kundreferenser är:
 
 - Programutveckling med lite kod
 - Small and Midsize Business Management
@@ -106,12 +106,12 @@ Följ sedan de här stegen för att schemalägga en granskning i Partnercenter:
 
 4. När du uppfyller alla krav för den här avancerade specialiseringen kan du välja knappen **Schemalägg granskning på** den här sidan.
 
-   - Statusen förblir Inte startad tills du uppfyller alla krav som visas på **den här sidan.** Knappen **Schemalägg** granskning förblir också inaktiverad. 
-   - När alla krav är uppfyllda tillsammans med granskningen ändras din status till **Aktiv.**
+   - Statusen förblir Inte startad tills du uppfyller alla krav som visas på **den här sidan.** Knappen **Schemalägg granskning** förblir också inaktiverad. 
+   - När alla krav är uppfyllda tillsammans med granskningen ändras statusen till **Aktiv.**
 
 ## <a name="provide-customer-references-in-partner-center"></a>Ange kundreferenser i Partnercenter
 
-Förutom sina egna förutsättningar måste du även ange kundreferenser för vissa *avancerade specialiseringar.* Se den tidigare listan över avancerade specialiseringar som kräver kundreferenser.
+Förutom de egna förutsättningarna behöver du även ange kundreferenser för vissa *avancerade specialiseringar.* Se den tidigare listan över avancerade specialiseringar som kräver kundreferenser.
 
 Följ sedan de här stegen för att ange kundreferenser i Partnercenter:
 
@@ -130,7 +130,7 @@ Följ sedan de här stegen för att ange kundreferenser i Partnercenter:
 ## <a name="how-azure-consumption-revenue-acr-is-calculated-for-each-advanced-specialization"></a>Så här beräknas Azure Consumption Revenue (ACR) för varje avancerad specialisering:
 
 - Partner-till-kund-associationer inkluderade: [Digital partner för](https://support.microsoft.com/topic/link-a-partner-id-for-azure-performance-pal-or-dpor-a8eed43b-82a8-f017-3b1a-f9c8aa385d32) postassociation till en kund, CSP-direktfaktureringspartner eller en indirekt CSP-återförsäljare för en kund- eller [PARTNERadministratörslänksassociation (PAL)](/azure/cost-management-billing/manage/link-partner-id) till en kund.
-- ACR från prenumerationer med erbjudandetyper utvärderingsversion, förmånsprogram, support och intern räknas inte mot avancerad specialisering.
+- ACR från prenumerationer med erbjudandetyper utvärderingsversion, förmånsprogram, support och intern räknas inte mot den avancerade specialiseringen.
 
 **Intäktsfält för Azure-förbrukning**
 
@@ -139,7 +139,7 @@ Följ sedan de här stegen för att ange kundreferenser i Partnercenter:
 | Servicenivå 1 | Den högsta nivån som Azure-tjänster paketeras på (se: https://azure.microsoft.com/services/) . |
 | Servicenivå 2 | Azure-tjänster på näst högsta nivån (t.ex.: https://azure.microsoft.com/pricing/) |
 | Servicenivå 3 | Azure-tjänster på den tredje högsta nivån (t.ex. https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
-| Servicenivå 4 | Azure-tjänster på fjärde högsta nivån (t.ex.: https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
+| Servicenivå 4 | Fjärde högsta nivån Azure-tjänster baserade (t.ex.: https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
 | Tjänstgrupp 2 | Gruppering av Azure-tjänster enligt en tjänstkategori |
 | Tjänstgrupp 3 | Gruppering av Azure-tjänster enligt en tjänstunderkategori |
 | Tjänstpåverkande | Gruppering av Azure-tjänster som är mappade till en specifik förbrukningsaktivitet |
@@ -180,7 +180,7 @@ Följ sedan de här stegen för att ange kundreferenser i Partnercenter:
 
 
 - Migrering av Windows Server och SQL Server till Microsoft Azure
-    - Windows Acr: 
+    - Windows ACR: 
         - ACR Adjustment Type = N/A, Compute Core SW = Core,
         - Compute OS = WINDOWS THEN Compute OS Attribute = WINDOWS, UNKNOWN or Compute OS = LINUX THEN Compute OS Attribute = WINDOWS-AHUB
         - Servicenivå 2 = Cloud Services, Container Instances, Container Registry, Specialized Compute, Virtual Machines, Virtual Machines Licenses
@@ -192,8 +192,8 @@ Följ sedan de här stegen för att ange kundreferenser i Partnercenter:
         - Alternativ 1:
             - ACR Adjustment Type= N/A, Service Level 2 = Virtual Machines, Compute OS= Linux, Compute OS Attribute = Non-Windows , UNKNOWN , Windows
             - Servicenivå 4 = Alla utom Cloud Services MS-serien, Virtual Machines MS-serien, Virtual Machines MS-serien Windows, Virtual Machines MSv2-serien, Virtual Machines MSv2-serien Windows, MS-serien Dedicated Host, MSv2-serien Dedicated Host
-        - Alternativ 2: Kräver endast filter på servicenivå 4, andra fält som Compute OS/Compute OS-attribut krävs inte
-            - Servicenivå 4 = Red Hat Enterprise Linux, Red Hat Enterprise Linux med HA, SUSE Linux Enterprise Server Basic, SUSE Linux Enterprise Server for HPC Priority, SUSE Linux Enterprise Server for HPC Standard, SUSE Linux Enterprise Server Priority, SUSE Linux Enterprise Server Standard
+        - Alternativ 2: Kräv endast filter på servicenivå 4, andra fält som Compute OS/Compute OS-attribut krävs inte
+            - Servicenivå 4 = Red Hat Enterprise Linux, Red Hat Enterprise Linux ha, SUSE Linux Enterprise Server Basic, SUSE Linux Enterprise Server for HPC Priority, SUSE Linux Enterprise Server for HPC Standard, SUSE Linux Enterprise Server Priority, SUSE Linux Enterprise Server Standard
     - Azure Database (DB) for MariaDB ACR: Service Level 1 = Databases and Service Level 2 = Azure Database for MariaDB
     - Azure DB for MySql ACR: Service Level 1 = Databases and Service Level 2 = Azure Database for MySQL and MySQL Database on Azure
     - Azure DB for Postgre SQL ACR: Service Level 1 = Databases and Service Level 2 = PostgreSQL
@@ -202,6 +202,9 @@ Följ sedan de här stegen för att ange kundreferenser i Partnercenter:
     - Azure Sentinel ACR: Service Level 4 = Sentinel
 - Molnsäkerhet
     - Hybrid Environment XDR and Network Security ACR: Service Level 4 = Azure Defender for SQL, Azure Defender for container registries, Azure Defender för Kubernetes, Azure Defender for Storage, Application Gateway WAF v2, WAF Application Gateway, Azure Active Directory B2C, Azure Active Directory Domain Services, Azure Active Directory for External Identities, Azure Bastion, Azure DDOS Protection, Azure Firewall, Azure Firewall Manager, Azure Front Door Service, Azure Defender for IoT, Azure Dedicated HSM, Key Vault, Network Watcher, Azure Defender for App Service, Azure Defender for servers, Sentinel
+    
+- SAP på Microsoft Azure
+    - SAP Workloads ACR: Service Level 4 = Cloud Services MS Series, Virtual Machines MS Series, Virtual Machines MS Series Windows, Virtual Machines MSv2 Series, Virtual Machines MSv2 Series Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host, SAP HANA på stora Azure-instanser,SAP Cloud Platform Alert Notification, SAP Cloud Platform Extension Factory – Kyma Runtime,SAP Cloud Platform Integration Suite – Ytterligare meddelanden, SAP Cloud Platform Integration Suite – Standard Edition, SAP Cloud Platform Transport Management, SAP Edge Services, SAP Embrace API Management,SAP Embrace Application Logging, SAP Embrace Application Runtime, SAP Embrace Bandwidth, SAP Embrace Business Application Studio, SAP Embrace Business Rules, SAP Embrace Cloud Integration, SAP Embrace Credential Store, SAP Embrace Custom Domain,  SAP Embrace Data Intelligence, SAP Embrace Enterprise Messaging, SAP Embrace Extension Factory, serverlös körning, SAP Embrace Hana Cloud, SAP Embrace Identity Authentication, SAP Embrace Job Scheduler, SAP Embrace MACC, SAP Embrace Mobile Services,SAP Embrace Object Store Service, SAP Embrace Open Connectors, SAP Embrace Portal, SAP Embrace Process Visibility, SAP Embrace Web Analytics, SAP Embrace Workflow, SAP HANA Service, SAP Web IDE, BareMetal Infrastructure, Virtual Machines MdSv2 Series, Virtual Machines MdSv2 Series Windows
 
 ## <a name="next-steps"></a>Nästa steg
 
