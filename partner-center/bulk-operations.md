@@ -9,14 +9,14 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 15739d382d736fc9b98b1f9a1f2331f99d6ddeaf
-ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
+ms.openlocfilehash: 58443589d4a90b59783f84a12a920d725f74ffbc
+ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121915432"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "123457879"
 ---
-# <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Massåtgärder för möjligheter till säljsamarbete med kommaavgränsade filer (CSV)
+# <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Massåtgärder för möjligheter till säljförsäljning med hjälp av csv-filer (kommaavgränsade värden)
 
 **Lämpliga roller:** Referensadministratörsroller | Referensanvändare
 

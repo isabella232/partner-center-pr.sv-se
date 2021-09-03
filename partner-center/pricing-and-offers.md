@@ -9,18 +9,18 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9b290e5db1e9c385b5000e4c18b9810db82b645c
-ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
+ms.openlocfilehash: ee8e17ed587f4b69b8e0f02888470627b87d8eaf
+ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121914464"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "123457603"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Priser och erbjudanden för Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure med mera
 
-**Lämpliga roller:** Globala | Administratörsbehörighet för | Administratörsagent | Administratörsbehörighet för MPN-partner | Försäljningsagent | Faktureringsadministratör
+**Lämpliga roller:** Globala | Administratörsbehörighet för | Administratörsagent | MPN-partneradministratör | Försäljningsagent | Faktureringsadministratör
 
-Om du vill se Molnlösningsleverantör senaste CSP-program (CSP) från instrumentpanelen i Partnerportal går du **till Sälj > priser och erbjudanden.** Du hittar separata prislistor för de olika typer av produkter som är tillgängliga. Följande prislistor finns på sidan **Priser och** erbjudanden:
+Om du vill se de Molnlösningsleverantör programmen och erbjudandena (CSP) från instrumentpanelen i Partnerportal går du **till Sälj > priser och erbjudanden.** Du hittar separata prislistor för de olika typer av produkter som är tillgängliga. Följande prislistor finns på sidan **Priser och** erbjudanden:
 
 - **Licensbaserade tjänster innehåller** prisinformation för Office 365, Enterprise Mobility och Security E3 och Dynamics 365. Avsnittet Licensbaserad prissättning innehåller aktuella priser och förhandsgranskningspriser samt erbjudandelistans matris. Prislistorna innehåller listpris och uppskattade detaljhandelspriser (ERP) för erbjudanden i alla valutor som stöds. Erbjudandelistans matris innehåller marknadstillgänglighet och annan viktig information om erbjudandena. De här filerna uppdateras den första dagen i varje månad.
    > [!NOTE]
@@ -29,7 +29,7 @@ Om du vill se Molnlösningsleverantör senaste CSP-program (CSP) från instrumen
 - **Microsoft Azure reserverade instanser innehåller** prisinformation för alla valutor som stöds för reserverade Azure-instanser. I prisnedladdningen ingår även prissättningen för Delade tjänster i ERP. De här filerna uppdateras den första dagen i varje månad.
 - **Programvaruprenumerationer** inkluderar priser för termbaserade programvaruprenumerationer för alla valutor som stöds. Prisfilen innehåller alla valutor som stöds med listpris och tillverkarens föreslagna detaljhandelspris (MSRP). De här filerna uppdateras den första dagen i varje månad.
 - **Prissättningen för Azure-plan** innehåller prisinformation för azure-planförbrukningstjänster och reservationspris för Azure-plan. Priserna är direkta priser eller ERP och kan hämtas för alla angivna marknaden som stöds. Data i de här filerna uppdateras varje dag.
-- **Växelkurser används** för att beräkna fakturering som debiteras mellan USD och partnern i den lokala valutan. Priserna uppdateras den första i varje månad och gäller för den angivna månaden. De här filerna uppdateras den första dagen i varje månad.
+- **Växelkurser används** för att beräkna faktureringen som debiteras mellan USD och partners lokala valuta. Priserna uppdateras den första i varje månad och gäller för den angivna månaden. De här filerna uppdateras den första dagen i varje månad.
 - **Marketplace** innehåller priser för oberoende programvaruleverantörer (ISV) från Microsofts kommersiella marknadsplats. Priserna hämtas per marknad. Data i de här filerna uppdateras varje dag.
 
 > [!Note] 
@@ -41,10 +41,10 @@ Licensbaserade tjänster innehåller en förhandsversion av prislistan, som till
 
 |**Objekt**        |**Definition**      |
 |:-----------   |:-----------   |
-|Add   |Ett nytt objekt i prislistan|
-|CHG   |Ändringar i listpris från månad till månad. Andra ändringar som inte är relaterade till listpris kan inträffa, partner bör jämföra prislistor mellan månader för att fastställa ändringar i andra egenskaper.|
+|ADD   |Ett nytt objekt i prislistan|
+|CHG   |Ändringar i listpriset från månad till månad. Andra ändringar som inte är relaterade till listpris kan inträffa, partner bör jämföra prislistor mellan månader för att fastställa ändringar i andra egenskaper.|
 |DEL   |Ett objekt som tagits bort från prislistan|
-|Unc   |Visa pris oförändrat från föregående månads prislista  |
+|UNC   |Visa pris oförändrat från föregående månads prislista  |
 |Giltigt från datum   |Det första datumet då ett erbjudande kan beställas    |
 |Giltigt hittills   |Det sista datumet då ett erbjudande kan beställas   |
 |Erbjudandets visningsnamn   |Det kundriktade namnet för erbjudandet   |
@@ -135,35 +135,37 @@ Alla priser i Partner Center CSP-prislistor är skatteomfattande. Mer informatio
 
 ## <a name="offer-attestation"></a>Attestation för erbjudande
 
-Vissa erbjudanden kräver att partnern accepterar innan köpet. Den här processen kallas attetering och från och med 1 augusti 2021 är de enda erbjudandena som kräver attestation Windows 365 Business-erbjudanden med Windows Hybrid-förmån. Partner ser text på granskningsskärmen när de köper dessa erbjudanden: "Jag förstår att varje person som använder Windows 365 Business med Windows Hybrid Benefit också måste ha en giltig kopia av Windows 10/11 Pro installerad på sin primära arbetsenhet." Partner måste godkänna detta innan de köper.
+Vissa erbjudanden kräver att partnern accepterar innan köpet. Den här processen kallas attestation och från och med 1 augusti 2021 är de enda erbjudandena som kräver attestation Windows 365 Business-erbjudanden med Windows Hybrid Benefit. Partner ser text på granskningsskärmen när de köper dessa erbjudanden: "Jag förstår att varje person som använder Windows 365 Business med Windows Hybrid Benefit också måste ha en giltig kopia av Windows 10/11 Pro installerad på sin primära arbetsenhet." Partner måste godkänna detta innan de köper.
 
-Attestation gäller både för Partner Center-portalen och Partner Center-API:erna när du skickar beställningar och checkar ut kundvagnar. Partner kan avgöra vilka erbjudanden som kräver attestation genom att kontrollera attestationProperties för [erbjudandet eller](/partner-center/develop/offer-resources#attestationproperties) [SKU-objekten.](/partner-center/develop/product-resources#attestationproperties) De här egenskaperna förklarar attestationstypen och om attestation framtvingas för inköp (enforceAttestation=True). Om det behövs ställer partner helt enkelt in AttestationAccepted till true i kundvagnen eller [orderraderna](/partner-center/develop/cart-resources).
+Attestation gäller både för Partner Center-portalen och Partner Center-API:erna när du skickar beställningar och checkar ut kundvagnar. Partner kan avgöra vilka erbjudanden som kräver attestation genom att kontrollera attestationProperties på [erbjudandet eller](/partner-center/develop/offer-resources#attestationproperties) [SKU-objekten.](/partner-center/develop/product-resources#attestationproperties) 
 
-Nedan visas erbjudanden som för närvarande kräver attestation före inköp.
+Dessa egenskaper förklarar attestationstypen och om attestation framtvingas för inköp (enforceAttestation=True). Om det behövs anger partnern `AttestationAccepted` helt enkelt till **true** i kundvagnen eller [orderradsartiklarna](/partner-center/develop/cart-resources).
 
- | **Erbjudandets namn** |**Erbjudande-ID** |
-|:------------------------------------------- |:--------------------------------------- |
-| Windows 365 Business 1 vCPU, 2 GB, 64 GB (med Windows Hybrid-förmån) | 5f3a7cd2-c76f-4b21-9ddc-f48f09869cf6 |
-| Windows 365 Business 2 vCPU, 4 GB, 128 GB (med Windows Hybrid-förmån) | 7612386a-d98d-4110-94b8-554bd612a5ab |
-| Windows 365 Business 2 vCPU, 4 GB, 128 GB (Windows Hybrid Benefit) | ab170880-1254-4534-abb9-fd0bf60cde71 |
-| Windows 365 Business 2 vCPU, 4 GB, 256 GB (med Windows Hybrid-förmån) | cc624387-162c-4f31-9d6e-252d39d5324b |
-| Windows 365 Business 2 vCPU, 4 GB, 64 GB (med Windows Hybrid-förmån) | f9777f60-19ae-4bd2-b881-6dc674564a2e |
-| Windows 365 Business 2 vCPU, 8 GB, 128 GB (med Windows Hybrid-förmån) | 39daa752-18b7-4918-b4eb-cf27cf617ee2 |
-| Windows 365 Business 2 vCPU, 8 GB, 128 GB (med Windows Hybrid-förmån) | d5623401-b8e0-429f-86df-29b6efdf4d95 |
-| Windows 365 Business 2 vCPU, 8 GB, 256 GB (med Windows Hybrid-förmån) | 8fe4271f-c761-45f8-8261-5ab575195152 |
-| Windows 365 Business 4 vCPU, 16 GB, 128 GB (med Windows Hybrid-förmån) | 037cff0f-c231-4cce-a7ef-5324c755ba9a |
-| Windows 365 Business 4 vCPU, 16 GB, 128 GB (Windows Hybrid Benefit) | 46448c4c-8b12-4ea1-9be7-76b35d69bcf5 |
-| Windows 365 Business 4 vCPU, 16 GB, 256 GB (med Windows Hybrid-förmån) | 977318cf-57a5-4c3f-a8b6-aa58853dd2e9 |
-| Windows 365 Business 4 vCPU, 16 GB, 512 GB (med Windows Hybrid-förmån) | 1a3bdfb8-fb09-4331-8303-2c07e895c6d9 |
-| Windows 365 Business 8 vCPU, 32 GB, 128 GB (med Windows Hybrid-förmån) | 1b96db48-9c02-4c95-8c0b-98e4e6aa187c |
-| Windows 365 Business 8 vCPU, 32 GB, 256 GB (med Windows Hybrid-förmån) | 3ff72e53-c37f-41d5-b932-793cb39c837b |
-| Windows 365 Business 8 vCPU, 32 GB, 512 GB (med Windows Hybrid-förmån) | aca639ae-ae81-4298-a76a-094b6880913b |
+Nedan visas erbjudanden som för närvarande kräver attestation innan du köper.
+
+| **Erbjudandets namn**                                                                 | **Erbjudande-ID**                              |
+|:-------------------------------------------------------------------------------|:----------------------------------------- |
+| Windows 365 Business 1 vCPU, 2 GB, 64 GB (med Windows Hybrid-förmån)         | 5f3a7cd2-c76f-4b21-9ddc-f48f09869cf6      |
+| Windows 365 Business 2 vCPU, 4 GB, 128 GB (med Windows Hybrid-förmån)        | 7612386a-d98d-4110-94b8-554bd612a5ab      |
+| Windows 365 Business 2 vCPU, 4 GB, 128 GB (med Windows Hybrid-förmån)  | ab170880-1254-4534-abb9-fd0bf60cde71      |
+| Windows 365 Business 2 vCPU, 4 GB, 256 GB (med Windows Hybrid-förmån)        | cc624387-162c-4f31-9d6e-252d39d5324b      |
+| Windows 365 Business 2 vCPU, 4 GB, 64 GB (med Windows Hybrid-förmån)         | f9777f60-19ae-4bd2-b881-6dc674564a2e      |
+| Windows 365 Business 2 vCPU, 8 GB, 128 GB (med Windows Hybrid-förmån)        | 39daa752-18b7-4918-b4eb-cf27cf617ee2      |
+| Windows 365 Business 2 vCPU, 8 GB, 128 GB (med Windows Hybrid-förmån)  | d5623401-b8e0-429f-86df-29b6efdf4d95      |
+| Windows 365 Business 2 vCPU, 8 GB, 256 GB (med Windows Hybrid-förmån)        | 8fe4271f-c761-45f8-8261-5ab575195152      |
+| Windows 365 Business 4 vCPU, 16 GB, 128 GB (med Windows Hybrid-förmån)       | 037cff0f-c231-4cce-a7ef-5324c755ba9a      |
+| Windows 365 Business 4 vCPU, 16 GB, 128 GB (Windows Hybrid Benefit) | 46448c4c-8b12-4ea1-9be7-76b35d69bcf5      |
+| Windows 365 Business 4 vCPU, 16 GB, 256 GB (med Windows Hybrid-förmån)       | 977318cf-57a5-4c3f-a8b6-aa58853dd2e9      |
+| Windows 365 Business 4 vCPU, 16 GB, 512 GB (med Windows Hybrid-förmån)       | 1a3bdfb8-fb09-4331-8303-2c07e895c6d9      |
+| Windows 365 Business 8 vCPU, 32 GB, 128 GB (med Windows Hybrid-förmån)       | 1b96db48-9c02-4c95-8c0b-98e4e6aa187c      |
+| Windows 365 Business 8 vCPU, 32 GB, 256 GB (med Windows Hybrid-förmån)       | 3ff72e53-c37f-41d5-b932-793cb39c837b      |
+| Windows 365 Business 8 vCPU, 32 GB, 512 GB (med Windows Hybrid-förmån)       | aca639ae-ae81-4298-a76a-094b6880913b      |
 
 ## <a name="multi-year-term-offers"></a>Erbjudanden på flera år
 
 ### <a name="36-month-offers"></a>36 månaders erbjudanden
 
-Det finns cirka 50 Dynamics-erbjudanden med treårsvillkoren. Dessa identifieras av **(36 mo)** i rubriken på erbjudandena. Dessa erbjudanden liknar de årliga erbjudandena. Den enda skillnaden är deras term. Dessa erbjudanden har en treårsperiod så att prenumerationerna förnyas automatiskt efter tre år i stället för ett. Nedan visas en sammanfattning av hur dessa erbjudanden fungerar:
+Det finns cirka 50 Dynamics-erbjudanden med treårsvillkoren. Dessa identifieras av **(36 mo)** i titeln på erbjudandena. Dessa erbjudanden liknar de årliga erbjudandena. Den enda skillnaden är deras term. Dessa erbjudanden har en treårsperiod så att prenumerationerna förnyas automatiskt efter tre år i stället för ett. Nedan visas en sammanfattning av hur dessa erbjudanden fungerar:
 
 - Villkoren är 36 månader, prenumerationer förnyas automatiskt efter tre år
 - Partner kan avbryta eller ändra antalet licenser under prenumerationsperioden
@@ -172,39 +174,111 @@ Det finns cirka 50 Dynamics-erbjudanden med treårsvillkoren. Dessa identifieras
 
 ### <a name="72-month-offers"></a>72 månaders erbjudanden
 
-Microsoft 365 A1 baserbjudandet har en sexårs period.  De Office 365 A1 tillägg är tillgängliga när du har köpt det här baserbjudandet. 
+Microsoft 365 A1 baserbjudandet har en period på sex år.  De Office 365 A1 tillägg är tillgängliga när du har köpt baserbjudandet. 
 
-|**Erbjudandets namn**   |**Erbjudande-ID**   |**Typ**|
-|-------------------|-----------------------|----------------------------|
-|Microsoft 365 A1|778a4dce-0014-4d53-8647-314ef2b091d2|Baserbjudande|
-|Office 365 A1 för lärare och lärare (för enhet)|0757d14e-7c57-456f-8dab-47d164f2ff1f|Tillägg|
-|Office 365 A1 för studenter (för enhet)|bae285a9-d56b-4384-b02f-38adc61a6f12|Tillägg|
+|**Erbjudandets namn**                            |  **Erbjudande-ID**                           | **Typ**     |
+|------------------------------------------|-----------------------------------------|--------------|
+| Microsoft 365 A1                         | 778a4dce-0014-4d53-8647-314ef2b091d2    | Baserbjudande   |
+| Office 365 A1 för lärare och lärare (för enhet)   | 0757d14e-7c57-456f-8dab-47d164f2ff1f    | Tillägg       |
+| Office 365 A1 för studenter (för enhet)  | bae285a9-d56b-4384-b02f-38adc61a6f12    | Tillägg       |
 
 Nedan visas en sammanfattning av hur dessa erbjudanden fungerar:
 
-- Perioden gäller i 72 månader eller sex år
+- Termen gäller i 72 månader eller sex år
 - Prenumerationen förnyas inte och upphör att gälla efter sex år
-- Faktureringsfrekvensen för erbjudandet visas som årlig, men partnern faktureras i början på sin första faktura efter att ha skaffat prenumerationen
-- Prenumerationer för A1 72-månaderserbjudanden låses efter köpet och kan inte avbrytas och licensantal kan inte läggas till i prenumerationen efter det första köpet
+- Faktureringsfrekvensen för erbjudandet visas som årlig, men partnern faktureras direkt på sin första faktura efter att ha skaffat prenumerationen
+- Prenumerationer på A1 72-månaderserbjudanden låses efter köpet och kan inte avbrytas och antalet licenser kan inte läggas till i prenumerationen efter det första köpet
 - Den här prenumerationen kan inte avbrytas och kan inte återbetalas.
 
 ## <a name="estimated-retail-price-erp"></a>Beräknat detaljhandelspris (ERP)
 
-De flesta prislistor innehåller ett listpris, det pris som partnern faktureras och det uppskattade detaljhandelspriset. Erp (Estimated retail price) kallas även Microsofts föreslagna detaljhandelspris eller MSRP. Dessa två värden, ERP och MSRP, representerar det uppskattade marknadsvärdet för produkterna om en kund skulle köpa produkterna direkt från Microsoft. Nedan visas var du hittar ERP-/MSRP-information för varje typ av produkt eller tjänst. 
+De flesta prislistor innehåller ett listpris, det pris som partnern faktureras och det uppskattade detaljhandelspriset. ERP (Estimated Retail Price) kallas även Microsofts föreslagna detaljhandelspris eller MSRP. Dessa två värden, ERP och MSRP, representerar det uppskattade marknadsvärdet för produkterna om en kund skulle köpa produkterna direkt från Microsoft. Nedan visas var du hittar ERP/MSRP-information för varje typ av produkt eller tjänst. 
 
 
-|**Produkt eller tjänst**        |**Information om ERP- och MSRP-prislistan**      |
+|**Produkt eller tjänst**        |**Prislista för ERP och MSRP**      |
 |:-----------   |:-----------   |
-|Produkt eller tjänst  |Information om ERP- och MSRP-prislistan  |
-|Licensbaserade tjänster  |Anges som ERP i licensbaserade prislistor  |
+|Produkt eller tjänst  |Prislista för ERP och MSRP  |
+|Licensbaserade tjänster  |Anges som ERP i de licensbaserade prislistorna  |
 |Användningsbaserade tjänster i Azure  |Finns i motsvarande prislistor för delade tjänster  |
 |Azure-reservationer  |Finns i motsvarande prislistor för delade tjänster  |
-|Användningsbaserad azure-plan  |Priserna är detaljhandel, inte rabatterade i prismallar  |
-|Azure-planreservationer  |Referera till prislistor för delade Azure-reservationer  |
+|Användningsbaserad för Azure-plan  |Priserna är detaljhandelspriser som inte rabatteras i prismallar  |
+|Reservationer för Azure-plan  |Referera till prislistor för delade Azure-reservationer  |
 |Programvaruprenumerationer  |Listad som MSRP i prislistor för programvaruprenumerationer  |
 |Marketplace  |Visas som MSRP i Marketplace-prislistor  |
 
-Fler resurser: 
+## <a name="new-commerce-license-based-pricing"></a>Ny handelslicensbaserad prissättning
+
+> [!NOTE]
+> Nya handelsändringar är för närvarande endast tillgängliga för partner som ingår i den tekniska förhandsversionen av den nya handelsupplevelsen M365/D365.
+
+Prisdata kommer att vara tillgängliga för partner både från instrumentpanelen i [Partnercenter och](https://partner.microsoft.com/dashboard/home) via API:et för prissättningssida. Om du vill se de senaste data i Partnercenter går du **till Sälj > priser och erbjudanden.** Prislistan för det nya handelserbjudandet och erbjudandematrisen märks med **New Commerce**.
+
+Prislistorna innehåller grundläggande information om priser (hur mycket det kostar). Erbjudandematrisen innehåller köpinformation om produkterna (hur du köper dem). Mycket av informationen som ingår i dessa hämtningsfiler är också tillgänglig via de olika Partner Center-API:erna (katalog-API:er och API:er för prisblad).
+
+Prislistor kräver att partnern väljer marknad för den prissättning som begärs. Matrisen med erbjudandelistor är marknadsoberoende.
+
+Standardvärdet för matrisfilerna prislista och erbjudandelista är den aktuella månaden. Filer med prislistor kan ändras dagligen. Om du vill hämta föregående månads prislista väljer du Månad och laddar sedan ned prisfilen för önskad marknad.
+
+### <a name="new-commerce-price-list"></a>Ny prislista för handel
+
+Välj marknaden och exportera sedan prislistefilen. Filen är en komprimerad, kommaavgränsad textfil.
+
+| **Fält**                           | **Exempel**                     | **Beskrivning**                      |
+|:------------------------------------|:--------------------------------|:-------------------------------------|
+| ProductTitle                        | Microsoft 365 Business Basic    | Produktens titel                 |
+| ProductId                           | CFQ7TTC0LH18                    | ID för produkten                    |
+| SkuId                               | 1                               | ID för SKU:n                        |
+| SkuTitle                            | Microsoft 365 Business Basic    | Rubrik för SKU:n                     |
+| Publisher                           | Microsoft Corporation           | Företag som publicerar erbjudandet         |
+| SkuDescription                      | Bäst för företag som behöver professionell e-post, fillagring i molnet och... | Beskrivning av erbjudandet |
+| UnitOfMeasure                       |                                 | För närvarande endast för Azure-förbrukning |
+| TermDuration                        | P1Y/P1M                         | Termens längd                   |
+| BillingPlan                         | Årlig/månatlig                  | Hur ofta fakturering sker            |
+| Marknaden                              | USA                              | Produktens marknad                  |
+| Valuta                            | USD                             | Valuta för objektet                |
+| UnitPrice                           | 48                              | Pris per enhet (licens)             |
+| PricingTierRangeMin                 | |Om nivåindelad prissättning stöds är det lägsta intervallet för prispunkten |
+| PricingTierRangeMax                 | |Om nivåindelad prissättning stöds, det maximala intervallet för prispunkten |
+| EffectiveStartDate                  | 2/1/2019 0:00                   | Startdatum för objektets prispunkt |
+| EffectiveEndDate                    | 11/30/9999 23:59                | Slutdatum för objektets prispunkt  |
+| Taggar                                | Licens; Rättegång                   | Diverse taggar                   |
+| ERP-pris                           | 60                              | Beräknat detaljhandelspris               |
+
+#### <a name="new-commerce-price-list-details"></a>Information om ny prislista för handel 
+
+Strukturen för objekten i den nya handelsprisfilen skiljer sig från den traditionella kontorsprislistan. 
+
+|**Kategori**|**Traditionell licensbaserad**|**Ny handelslicensbaserad**|
+|:-----------   |:-----------   |:-----------   |
+|Erbjudande-ID|Det här är ett GUID som identifierar det objekt som ska köpas|ProductID/SKUID/AvailabilityID. Tillgänglighets-ID:t returneras endast i GetAvailablities-API:et. När du köper via partnercentrets användargränssnitt ingår det automatiskt.|
+|Valutor|Flikar som ingår i alla erbjudanden för alla valutor|Varje prisblad innehåller endast valutan för den valda marknaden.|
+
+### <a name="new-commerce-offer-matrix"></a>Matris för nytt handelserbjudande
+
+Erbjudandematrisen innehåller köpinformation och regler för produktens SKU:er. Det är marknadsoberoende.
+
+| **Fält**                     | **Exempel**       | **Beskrivning**                 |
+|:------------------------------|:------------------|:--------------------------------|
+| ProductTitle                  | Microsoft 365 Business Basic | Produktens titel |
+| ProductId                     | CFQ7TTC0LH18       | ID för produkten               |
+| SkuId                         | 1                  | ID för SKU:n                   |
+| SkuTitle                      | Microsoft 365 Business Basic | Rubrik för SKU:n      |
+| ProvisioningId                | 3b555118-da6a-4418-894f-7df1e2096870 | System-ID som definierar den etablerade produkten |
+| ProvisioningString            | O365_BUSINESS_ESSENTIALS    |Eget nyckelnamn för etablerade produkter |
+| MinLicenses                   | 1                  | Minsta antal licenser som kan köpas |
+| MaxLicenses                   | 300                | Maximalt antal licenser som kan köpas |
+| AssetOwnershipLimit           | 2 | Gräns för tillgångar för den angivna AssetOwnershipLimitType |
+| AssetOwnershipLimitType       | ConcurrentCount    | Typ av AssetLimit. Kan vara livslängd eller samtidig |
+| ProductSkuPreRequisites       |                    | Lista över SKU:er som stöds av tillägget |
+| ProductSkuConversion          | CFQ7TTC0LDPB/0001,CFQ7TTC0LF8Q/0001 | Lista över SKU:er som du kan konvertera till |
+| Description                   | Bäst för företag som behöver professionell... | Beskrivning av SKU:n |
+| AllowedCountries              |AD; AE;AF; AG; AI; AL;AM; AO...                     | Lista över marknader som stöds |
+
+### <a name="pricing-and-offer-matrix-apis"></a>API:er för pris- och erbjudandematris
+
+API:er för pris- och erbjudandematris bygger på den befintliga API-infrastrukturen för prisark som har släppts för att stödja Azure-plan. Det här API:et har nu utökats för att stödja licensbaserade nya handelspriser. [API:erna price sheet och offer matrix](/partner/develop/get-a-price-sheet) stöder prissättning för uppdaterade nya handelslicensbaserade onlinetjänster endast. Den stöder inte traditionella officelicensbaserade tjänster som endast kan laddas ned från sidan med priser och erbjudanden i Partnercenter.
+
+## <a name="next-steps"></a>Nästa steg
 
 - [Prissättning för Azure-plan](azure-plan-price-list.md)
 - [Prisöversikt för Azure](https://azure.microsoft.com/pricing/)

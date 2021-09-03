@@ -9,54 +9,57 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 45fd0fee4f58792b5defb1f800b33c189b0892eb725a264e468b3d44b29f8469
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 682e941a01cb38accf67cde0625cb4e39b1d3017
+ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115685436"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "123457654"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Så här lägger du till en ny kundpost i Partnercenter
 
-**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Administratörsagent | Försäljningsagent
+**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Administratörsagentens | Försäljningsagent
 
-Den här artikeln beskriver hur du lägger till en ny kund i din lista över kunder i Partnercenter. De här stegen krävs innan du kan sälja prenumerationer, hantera fakturering eller ge support till en kund.
+I den här artikeln beskrivs hur du lägger till en ny kund i Partnercenter. De här stegen krävs innan du kan sälja prenumerationer, hantera fakturering eller ge support till en kund.
 
->[!NOTE]
->För befintliga kunder, inklusive de som redan har [](multichannel.md) kundposter i Partnercenter via ett [scenario](multipartner.md) med flera kanaler eller flera partner, måste du begära en relation med [dem](request-a-relationship-with-a-customer.md)i stället för att följa stegen här.
+## <a name="considerations"></a>Överväganden
+
+**När du lägger till en ny kundpost i Partnercenter:**
+
+- **Använd rätt registrerings-ID:** När du anger ditt företagsregistrerings-ID måste du använda ditt företags skatte-ID och inte kundens personliga ID.
+
+- **Ange ytterligare information för vissa länder:** Företagsregistrerings-ID och telefonnummer krävs för vissa länder om du är en partner med direktfakturering eller en indirekt leverantör [](#company-registration-id-and-phone-number-required-for-some-countries)
+- **Bekräfta Microsoft-kundavtal:** Innan du kan göra en beställning åt en kund måste du bekräfta att kunden har godkänt [Microsoft-kundavtal](confirm-customer-agreement.md).
+- **Använd olika  steg för** befintliga kunder: För befintliga kunder, inklusive de som redan har kundposter i Partnercenter via ett [scenario](multichannel.md) med flera kanaler eller [flera](multipartner.md) [partner,](request-a-relationship-with-a-customer.md)begär du en relation med dem i stället för att följa stegen här.
+- **Ange detaljerad, korrekt kundinformation:** För att underlätta kundverifiering, se till att du:
+  - Ange det exakta juridiska/officiella namnet som det visas i de officiella dokumenten
+  - Undvik att använda förkortningar eller korta formulär
+  - Använd inte testnamn
+  - Ange fullständig, exakt adressinformation (till exempel platsinformation, ort, delstat, land och postnummer)
 
 ## <a name="to-add-a-new-customer-in-partner-center"></a>Så här lägger du till en ny kund i Partnercenter
 
-1. Välj **Kunder** på Menyn i Partnercenter och välj sedan Lägg **till kund.**
+1. På menyn i Partnercenter väljer du **Kunder** och sedan Lägg **till kund.**
+1. Om kunden är en utbildningsnämnd kan du se [hur du skapar en eduktionskund.](sell-to-education-customers.md)
 
-2. På **sidan Kontoinformation** anger du kundens information och primär kontaktinformation. Kontrollera att kunden har godkänt och signerat den senaste [versionen Microsoft-kundavtal](agreements.md).
-
-   >[!NOTE]
-   >
-   >För att säkerställa korrekthet kundverifiering bör du kontrollera att du:
-   >
-   >- Använd det exakta juridiska/officiella namnet som det visas i de officiella dokumenten
-   >- Undvik att använda förkortningar eller korta formulär
-   >- Använd inte testnamn
-   >- Ange fullständig, exakt adress (platsinformation, ort, delstat, land och postnummer)
-
-   >[!IMPORTANT]
-   > Den 1 oktober 2019 introducerade  Microsoft Microsoft-kundavtal till CSP-programmet för att ersätta Microsoft Cloud-avtal. Läs om [Microsoft-kundavtal och hur du bekräftar medgivande](confirm-customer-agreement.md)
+1. På **sidan Kontoinformation** anger du kundens information och primär kontaktinformation.
   
-3. Om du är en indirekt leverantör väljer du den indirekta återförsäljare som du vill associera med kundens prenumerationer i listan.
+1. Om du är en indirekt leverantör väljer du den indirekta återförsäljare som du vill associera med kundens prenumerationer i listan.
 
-4. Välj **Nästa: Prenumerationer** när du är klar med att ange all nödvändig information.
+1. När du är klar med att ange den information som krävs väljer **du Nästa: Prenumerationer**.
 
-5. På **sidan Prenumerationer** väljer du de erbjudanden som kunden vill köpa från dig, anger antalet licenser och väljer sedan **Nästa: Granska.**
+1. På **sidan Prenumerationer** väljer du de erbjudanden som kunden vill köpa från dig, anger antalet licenser och väljer sedan **Nästa: Granska.**
 
-6. På sidan **Granska** kontrollerar du om posterna är korrekta och väljer **sedan Skicka** om informationen är korrekt.
+1. På sidan **Granska** kontrollerar du om posterna är korrekta och väljer sedan **Skicka**.
 
-   >[!NOTE]
-   >Om du behöver ändra kundinformation väljer du **Uppdatera** i **avsnittet Kontoinformation.** Om du behöver ändra de erbjudanden som du har valt **väljer du Uppdatera** i **avsnittet** Prenumerationer.
+1. När du är klar med att lägga till kundinformation och har köpt de prenumerationer som krävs väljer du **Klar.**
 
-7. Välj **Klar** när du har lagt till kundinformationen och köpt de prenumerationer som krävs.
+## <a name="company-registration-id-and-phone-number-required-for-some-countries"></a>Företagsregistrerings-ID och telefonnummer som krävs för vissa länder
+
+Partner med direktfakturering och indirekta leverantörer som lägger till poster för kunder i följande länder måste också ange företagets telefonnummer och registrerings-ID (kallas även organisationen INN):
+
+Jve, Arabiska republiken, Brasilien,Arabiska republiken, Indien,Arabiska republiken, Kyrgyzstan, Torgyzstan, Torabiska republiken, Ryssland, Sydafrika, Sydafrika,Istan, Island, Island, Förenade Arabemiraten, Island, Island, Docka och Vietnam
 
 ## <a name="next-steps"></a>Nästa steg
 
 - Mer information om vad du kan sälja till kunder via Molnlösningsleverantör-programmet finns [i Partnererbjudanden i Molnlösningsleverantör program](csp-offers.md)
-

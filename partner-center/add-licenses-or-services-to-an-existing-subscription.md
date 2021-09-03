@@ -1,7 +1,7 @@
 ---
 title: Uppgradera en kundprenumeration
 ms.topic: article
-ms.date: 05/07/2020
+ms.date: 02/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
 description: Lär dig hur du uppgraderar eller ändrar en kunds prenumeration. Lägg till fler licenser eller flytta till en annan version med fler tjänster.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c4c8ce447901847011ec160259cce2614d90e2fe45ff261e728e47c3c6d34a91
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 576845e9e5a5cf999415952a14023fc81c15fa32
+ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115685419"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "123457637"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>Lägga till licenser eller fler tjänster i en kunds prenumeration
 
@@ -28,16 +28,26 @@ Följande uppgraderingar stöds i Molnlösningsleverantör program:
 
 | Erbjudande | Möjliga uppgraderingar|
 |---:|:---|
-| Microsoft 365-applikationer för affärsverksamhet   | – Microsoft 365 Business Premium eller <br/>  – Microsoft 365-appar för företag <br/> – Office 365 Enterprise E3 <br/> – Office 365 Enterprise E5 <br/> |
+| Microsoft 365-applikationer för affärsverksamhet   | – Microsoft 365 Business Premium ( <br/>  – Microsoft 365-appar för företag <br/> – Office 365 Enterprise E3 <br/> – Office 365 Enterprise E5 <br/> |
 | Microsoft 365 Business Standard    | – Office 365 Enterprise E3 <br/> – Office 365 Enterprise E5 <br/> |
-| Microsoft 365 Business Basic | – Microsoft 365 Business Standard ( <br/> – Office 365 Enterprise E1 <br/> – Office 365 Enterprise E3<br/> – Office 365 Enterprise E5 <br/> |
+| Microsoft 365 Business Basic | – Microsoft 365 Business Standard ( <br/> - Office 365 Enterprise E1 <br/> – Office 365 Enterprise E3<br/> – Office 365 Enterprise E5 <br/> |
 
-Microsoft 365-applikationer för affärsverksamhet Indien Microsoft 365 Business Basic Indien kan uppgraderas till Microsoft 365 Business Standard, inte för att Microsoft 365 Business Standard.
+Microsoft 365-applikationer för affärsverksamhet Indien och Microsoft 365 Business Basic Indien kan uppgraderas till Microsoft 365 Business Standard Indien, inte för att Microsoft 365 Business Standard.
 
+## <a name="upgrades-supported-for-new-commerce-subscriptions"></a>Uppgraderingar som stöds för nya handelsprenumerationer<a id="upgradesubscriptionnewcommerce"></a>
+
+> [!Note] 
+> Nya handelsändringar är för närvarande endast tillgängliga för partner som ingår i den tekniska förhandsversionen av den nya handelsupplevelsen M365/D365.
+
+Prenumerationer kan uppgraderas om dessa villkor gäller:
+
+- Prenumerationen måste vara aktiv (inte pausad eller avbruten).
+
+Mer information om hur faktureringen påverkas finns i Avbryta en prenumeration och lägga till en ny prenumeration i [Vanliga faktureringsscenarier.](common-billing-scenarios.md)
 
 ## <a name="conditions"></a>Villkor
 
-Prenumerationer kan uppgraderas om följande villkor gäller:
+Prenumerationer kan uppgraderas om dessa villkor gäller:
 
 - Prenumerationen måste vara aktiv (inte pausad eller avbruten).
 
@@ -61,6 +71,18 @@ Mer information om hur faktureringen påverkas finns i Avbryta en prenumeration 
 
 4. Det kan finnas ytterligare arbete för att övergå till vissa användarkonton för vissa tjänster. I så fall innehåller Partnercenter en lista över konton och tjänster som har påverkats. Mer hjälp finns i kunskapsbasartikeln [Problem med att omtilldela licenser när du byter abonnemang i Office 365](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
 
+## <a name="upgrade-a-new-commerce-subscription"></a>Uppgradera en ny handelsprenumeration
+
+> [!Note] 
+> Nya handelsändringar är för närvarande endast tillgängliga för partner som ingår i den tekniska förhandsversionen av den nya handelsupplevelsen M365/D365.
+
+1. Om du vill se om en prenumeration är berättigad till uppgradering väljer du din kund och öppnar sedan prenumerationslistan.
+
+2. I prenumerationslistan väljer du den prenumeration, med taggen Ny handel, som du vill uppgradera. Om prenumerationen kan uppgraderas visas en informationsbanderoll ovanför prenumerationens namn. Välj **Uppgradera nu.**
+
+3. Välj **Skicka**.
+
+4. Det är möjligt att kunden har köpt dessa prenumerationer eller tjänster från en annan partner eller en annan kanal och måste tilldela dessa platser manuellt
 
 ## <a name="next-steps"></a>Nästa steg
 

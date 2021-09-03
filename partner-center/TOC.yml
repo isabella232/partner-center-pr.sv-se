@@ -580,6 +580,16 @@
           displayName: csp
         - name: Överföra en kunds Azure-planprenumerationer till en annan partner
           href: transfer-azure-subscriptions-under-azure-plan.md
+    - name: Nya handelsupplevelser för licensbaserade tjänster
+      href: new-commerce-license-based.md
+      displayName: new commerce
+      items:
+        - name: Ny handel telco payg
+          href: new-commerce-telco-payg.md
+        - name: Nya handelskampanjer
+          href: new-commerce-promotions.md
+        - name: Tillägg för ny handel
+          href: new-commerce-add-ons.md
     - name: Programvaruprenumerationer
       href: csp-software-subscriptions.md
       displayName: 'subscription, cancel'
@@ -708,7 +718,7 @@
               href: insights-programmatic-prerequisites.md
             - name: Paradigm för programmatisk åtkomst
               href: insights-programmatic-access-paradigm.md
-            - name: Gör ditt första programmatiska API-anrop
+            - name: Gör ditt första programmerings-API-anrop
               href: insights-programmatic-first-api-call.md
             - name: Lista över systemfrågor
               href: insights-programmatic-system-queries.md

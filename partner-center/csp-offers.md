@@ -1,31 +1,31 @@
 ---
 title: Partnererbjudanden i CSP-programmet
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 02/18/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-pricing
+ms.subservice: partnercenter-csp
 description: Som CSP-programpartner kan du lära dig mer om den växande katalogen med Microsoft-molntjänster och erbjudanden som du kan sälja till kunder.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 08be5bb39f58f4697090c2e144ff321331c428e13d165d831e96d9f27a6de403
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 748aeb10538e794e6e47c495c8337e3fb43daf15
+ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115693783"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "123457998"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Översikt över partnererbjudanden i programmet för molnlösningsleverantörer
 
-**Lämpliga roller:** Administratörsagent | Globala | Försäljningsagent
+**Lämpliga roller:** Administratörsagent | Global | Försäljningsagent
 
 Microsoft-partner i Molnlösningsleverantör program (CSP) har en växande katalog med erbjudanden som är tillgängliga för dem. Du kan sälja hela microsofts [molntjänster](https://partner.microsoft.com/cloud-solution-provider/products-and-services)och olika andra erbjudanden som ändras ofta. Om du vill se CSP-erbjudanden för den aktuella månaden loggar du in på Partnercenter och går sedan [**till sidan Priser och**](https://partnercenter.microsoft.com/pcv/sales) erbjudanden.  
 
 Har du ännu inte registrerat Molnlösningsleverantör programmet? Besök [Molnlösningsleverantör](https://partner.microsoft.com/cloud-solution-provider) mer information om hur du registrerar dig. 
 
 >[!NOTE]
->Från och med 31 januari 2020 måste alla kunder ha signerat Microsoft-kundavtal. Detta inkluderar dina befintliga kunder och nya. Mer information finns i [Bekräfta kundens godkännande av Microsoft-kundavtal](confirm-customer-agreement.md)
+>Från och med den 31 januari 2020 måste alla kunder ha signerat Microsoft-kundavtal. Detta inkluderar dina befintliga kunder och nya. Mer information finns i [Bekräfta kundens godkännande av Microsoft-kundavtal](confirm-customer-agreement.md)
 
 ## <a name="what-you-can-sell-through-csp"></a>Det här kan du sälja via CSP
 
@@ -39,15 +39,20 @@ För närvarande kan du sälja följande typer av produkter och tjänster till d
 
 ### <a name="software"></a>Programvara
 
-   Kunder kan köpa programvaruprenumerationer (till Windows Server och SQL Server för en period på 1 eller 3 år som ska köras på azure-reserverade VM-instanser).
+   Kunder kan köpa programvaruprenumerationer (till Windows Server och SQL Server för en period på 1 eller 3 år som ska köras på reserverade instanser av virtuella Azure-datorer).
 
    Mer information finns i Sälja [programvaruprenumerationer via CSP.](csp-software-subscriptions.md)  
 
 ### <a name="online-services"></a>Onlinetjänster
 
-   *Onlinetjänster* är det nya namnet på det som för närvarande kallas *prenumerationer.* För att göra det enklare för dig att beställa flera typer av produkter på ett och samma ställe har vi integrerat uppgiftsflödet "Lägg till prenumeration" i uppgiftsflödet "lägg till produkter".
+*Onlinetjänster* köps som *prenumerationer.* För att göra det enklare för dig att beställa flera typer av produkter på ett och samma ställe har vi integrerat uppgiftsflödet "Lägg till prenumeration" i uppgiftsflödet "Lägg till produkter".
 
-   Mer information finns i [Kundprenumerationer.](customer-subscriptions.md)
+Mer information finns i [Kundprenumerationer.](customer-subscriptions.md)
+   
+> [!NOTE] 
+> Nya handelsändringar är för närvarande endast tillgängliga för partner som ingår i den tekniska förhandsversionen av den nya handelsupplevelsen M365/D365.
+
+Nya erbjudanden för handel skiljer sig från traditionella *prenumerationer* på onlinetjänster på flera sätt. Mer information om dessa nya handelsupplevelser finns i [översikten över nya handelsupplevelser.](new-commerce-license-based.md)
 
 ### <a name="software-as-a-service-saas-and-other-azure-marketplace-products"></a>Programvara som en tjänst (SaaS) och andra [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace) produkter
 
@@ -62,7 +67,7 @@ Mer information finns i Översikt [över den kommersiella marknadsplatsen för C
 
 ## <a name="add-products-page-details"></a>Lägg till information på produktsidan
 
-I följande lista visas vart och ett av de nya områdena på sidan **Lägg till** produkter.
+I följande lista visas vart och ett av de nya områdena på **sidan Lägg till** produkter.
 
 **Lägg till produkter** – Den här sidan innehåller alla typer av produkter som du kan sälja till dina kunder
 
@@ -80,10 +85,10 @@ I följande lista visas vart och ett av de nya områdena på sidan **Lägg till*
 
 ## <a name="buy-csp-offers"></a>Köp CSP-erbjudanden
 
-Om du vill köpa produkter och tjänster åt dina CSP-kunder väljer du de objekt som kunden vill ha, lägger till dem i kundvagnen, vilket skapar en order och granskar och skickar sedan ordern. Den allmänna processen beskrivs nedan. (Mer information om beställningar för en viss produkttyp finns på länkarna ovan.)
+Om du vill köpa produkter och tjänster åt dina CSP-kunder väljer du de objekt som kunden vill ha, lägger till dem i kundvagnen, vilket skapar en beställning och granskar och skickar sedan ordern. Den allmänna processen beskrivs nedan. (Mer information om beställningar för en viss produkttyp finns på länkarna ovan.)
 
 >[!NOTE]
->Ett CSP-erbjudande måste vara tillgängligt både i klientorganisationens land och i kundens klientorganisationsland. Om din klientorganisation till exempel finns i Det här och kundens klientorganisation finns i Tyskland, kommer du inte att kunna sälja Dynamics 365 Business Central Premium till den kunden, eftersom det här erbjudandet för närvarande inte är tillgängligt i Det här erbjudandet.
+>Ett CSP-erbjudande måste vara tillgängligt både i klientorganisationens land och i kundens klientorganisationsland. Om din klientorganisation till exempel finns i Verksamhetsspecifik och kundens klientorganisation finns i Tyskland kan du inte sälja Dynamics 365 Business Central Premium till den kunden, eftersom det här erbjudandet för närvarande inte är tillgängligt i Det här erbjudandet.
 
 1. Välj **Kunder** på Menyn i Partnercenter och leta upp den kund som vill köpa från dig. 
 
@@ -97,7 +102,7 @@ Om du vill köpa produkter och tjänster åt dina CSP-kunder väljer du de objek
 
 6. Upprepa steg 4 och 5 tills du har lagt till alla nödvändiga objekt i kundvagnen. Välj **Granska** för att kontrollera att beställningen är korrekt.  
 
-7. På sidan **Granska dina beställningar** kontrollerar eller ändrar du produkterna och kvantiteten och väljer sedan Köp **för** att köpa beställningen.
+7. På sidan **Granska dina beställningar** verifierar eller ändrar du produkterna och kvantiteten och väljer sedan Köp **för** att köpa ordern.
 
 8. Information om din beställning, inklusive ordernummer, visas på nästa sida. Välj **Klar** för att gå till sidan **Orderhistorik.**
 
@@ -112,7 +117,7 @@ Så här visar du en kunds orderhistorik:
  
 ## <a name="rules-for-special-segments"></a>Regler för särskilda segment
 
-Vissa licensbaserade erbjudanden kan bara köpas under vissa villkor. Specialsegmenterbjudanden omfattar erbjudanden för utbildning, ideella organisationer Government Community Cloud tjänster (GCC). Information om dessa köpvillkor finns i avsnittet [om köpregler för särskilda segment.](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)
+Vissa licensbaserade erbjudanden kan bara köpas under vissa villkor. Specialerbjudanden för segment är utbildning, ideella organisationer eller Government Community Cloud (GCC) erbjudanden. Information om dessa köpvillkor finns i avsnittet [om köpregler för särskilda segment.](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)
 
 ## <a name="troubleshooting-catalog-purchases"></a>Felsöka kataloginköp
 
@@ -121,7 +126,7 @@ Det kan finnas olika orsaker till att du inte kan hitta erbjudandet som du letar
 - **Verifiera att din kund är kvalificerad**. Många erbjudanden kräver särskilda kvalifikationer för att säljas till kunder. Dessa särskilda segment omfattar utbildning, ideella organisationer och Government Community Cloud (GCC). Innan du loggar ett problem kontrollerar du först att kundens kvalifikationer har angetts korrekt. Du kan kontrollera detta genom att välja kunden i kundlistan och visa kontot. Kontot kommer att ha en speciell kvalificering angiven om det är tillämpligt. Om du försöker köpa utbildning för en kund som inte är kvalificerad så kan du inte se dessa erbjudanden i katalogen. Mer information om hur du kvalificerar dina kunder finns i [dokumentationen om särskilda segment.](get-special-pricing-for-offers.md)
 - **Bestäm om du försöker köpa ett tillägg eller ett baserbjudande**. Många av de licensbaserade tjänsterna, till exempel Microsoft 365 och Dynamics 365, möjliggör både kataloginköp av baserbjudanden och tillägg. Endast baserbjudanden kan köpas i katalogen. Om du vill köpa tillägg måste du först köpa baserbjudandet i katalogen och sedan välja kunden i kundlistan och sedan välja prenumerationen för baserbjudandet. Tillägg kan användas för baserbjudandet på den här sidan för prenumerationshantering. 
 - **Kontrollera att produkterna är tillgängliga på din marknad**. Många produkter och tjänster har konfigurerats för att endast säljas till kunder i vissa länder. Du hittar en lista över länder som stöds i de olika prislistefilerna. Länder med stöd för licensbaserade tjänster finns i matrisen för erbjudandelistan på sidan med priser och erbjudanden.
-- **Kontrollera att erbjudandena är tillgängliga i prislistan.** Den tillgängliga listan med erbjudanden kan ändras från månad till månad. Om du inte hittar något erbjudande i katalogen kontrollerar du att det är tillgängligt i de aktuella prislistorna på > **och erbjudanden.**
+- **Kontrollera att erbjudandena är tillgängliga i prislistan.** Den tillgängliga listan med erbjudanden kan ändras från månad till månad. Om du inte hittar något erbjudande i katalogen kontrollerar du att det är tillgängligt i de aktuella prislistorna på sidan **Säljpriser > erbjudanden.**
 
 ### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>Rekommenderade dokument som rör inköp av objekt i Partnercenter
 
