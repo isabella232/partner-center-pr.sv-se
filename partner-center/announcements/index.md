@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 09/02/2021
-ms.openlocfilehash: 606bdd3362b4fff5282b23eb646b29c7e90712ea
-ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
+ms.date: 09/03/2021
+ms.openlocfilehash: 33d5c1e4879fab017cd1390fa041ca634762c837
+ms.sourcegitcommit: 24b7e65548b5a9c37e782895d41383e9c018f5b7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "123457913"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "123501561"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -22,7 +22,8 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 
 |**Kategori**|**Meddelanden september 2021**|**Meddelande**|
 |---------|:---------|:---------|
-|Erbjudanden och marknader|[Korrigeringar av prislistan för septemberlicensbaserade tjänster och oktoberförhandsvisning för Microsoft 365 Business Basic (USD)](2021-september.md#5)|2 september|
+|Erbjudanden och marknader|[Prislistor för permanent programvara och programvaruprenumerationer publiceras på nytt för att åtgärda prisökningar i Ryssland](2021-september.md#6)|Den 3 september|
+|Erbjudanden och marknader|[Korrigeringar av prislistan för septemberlicensbaserade tjänster och förhandsversionen av oktober för Microsoft 365 Business Basic (USD)](2021-september.md#5)|2 september|
 |Funktioner|[Meddelande om Intune per enhet för Enterprise för CSP-partner](2021-september.md#4)| 2 september |
 |Funktioner|[Viktiga uppdateringar för den nya handelsupplevelsen för Molnlösningsleverantör-baserade erbjudanden (CSP)](2021-september.md#3)| 1 september |
 |Utveckla din verksamhet|[Visa den här månadens produktlanseringar och erbjudanden](2021-september.md#2)| 1 september |
@@ -32,7 +33,7 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 |Funktioner|[Vi presenterar Windows Server 2022 allmän tillgänglighet i oktober](2021-august.md#19)| 26 augusti |
 |Funktioner|[Platsbaserade erbjudanden för integrerad sandbox-testning i den nya handelsupplevelsen](2021-august.md#18)| 25 augusti |
 |Utveckla din verksamhet|[Uppdatering av fakturastruktur för USA, Puerto Toronto och Kanada](2021-august.md#17)| 24 augusti |
-|Funktioner|[Nu live: Ny handelsupplevelse i CSP för Azure som expanderar till Government Community Cloud (GCC)](2021-august.md#16)| 24 augusti |
+|Funktioner|[Nu live: Ny handelsupplevelse i CSP för Azure expanderar till Government Community Cloud (GCC)](2021-august.md#16)| 24 augusti |
 |Funktioner|[Fas 2 är nu live: EU/EFTA och Storbritannien byter partnerfaktureringsvaluta för nya handelserbjudanden](2021-august.md#15)| 23 augusti |
 |Funktioner|[Ny handelsupplevelse för Microsoft 365, Dynamics 365, Power Platform och Windows 365-platsbaserad för bredd rörelse](2021-august.md#14)| 19 augusti |
 |Funktioner|[Uppdatera till våra kommersiella priser för Microsoft 365](2021-august.md#13)| 19 augusti |
@@ -51,10 +52,10 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 |Funktioner|[Förbättring av verktyget för överföring av Azure-prenumerationer mellan partner i Molnlösningsleverantör-programmet (CSP)](2021-july.md#15)| 21 juli |
 |Funktioner|[Ändringar av tillgängligheten för Azure-erbjudanden relaterade till den nya handelsupplevelsen i CSP för Azure](2021-july.md#14)| 21 juli |
 |Modern arbetsplats|[Introduktion Windows 365: Hybrid Windows för en hybridvärld](2021-july.md#13)| 20 juli |
-|Funktioner|[Introduktion till API-begränsning för partner som anropar Partner Center-API:er](2021-july.md#12)| 19 juli |
-|Funktioner|[Nya programerbjudanden som är tillgängliga i Molnlösningsleverantör(CSP)-programmet och ändringar i Open License-programmet](2021-july.md#11)| Den 19 juli |
+|Funktioner|[Introduktion till API-begränsning för partner som anropar Partner Center-API:er](2021-july.md#12)| Den 19 juli |
+|Funktioner|[Nya programvaruerbjudanden som är tillgängliga i Molnlösningsleverantör(CSP)-programmet och ändringar i Open License-programmet](2021-july.md#11)| Den 19 juli |
 |Erbjudanden/marknader|[Korrigeringar av förhandsversionen av prislistan för licensbaserade tjänster för Enterprise Mobility & Security (EMS) E3](2021-july.md#10)| 16 juli |
-|Funktioner|[Ändring av programvara i Microsoft China Corporation Limited (MCCL) Molnlösningsleverantör (CSP) och Open License](2021-july.md#9)| 13 juli |
+|Funktioner|[Ändringar av programvara i Microsoft China Corporation Limited (MCCL) Molnlösningsleverantör (CSP) och Open License](2021-july.md#9)| 13 juli |
 |Beredskap|[Ändringar i CSP Molnlösningsleverantör-API:et för kundadressvalidering så att de blir live den 13 juli 2021](2021-july.md#8)| 12 juli |
 |Funktioner|[Communityuppdatering Molnlösningsleverantör juli (CSP) och påminnelser](2021-july.md#7)| 12 juli |
 |Funktioner|[Håll dina Microsoft-certifieringar aktiva med hjälp från Partnercenter](2021-july.md#6)| 9 juli |
@@ -90,35 +91,35 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 |Funktioner|[Meddelande om kvalificering av tillståndsägd entitet](2021-may.md#2)|4 maj|
 | Erbjudanden/Business Applications|[Visa den här månadens produktlanseringar och erbjudanden](2021-may.md#1)|3 maj, uppdaterad 7 maj|
 |**Kategori**|**Meddelanden april 2021**|**Meddelande**|
-|Beredskap|[Uppdaterat validerings-API för kundadresser för CSP går live i juni; nu tillgänglig testfunktion](2021-april.md#10)|30 april|
+|Beredskap|[Uppdaterade CSP-kundadressvaliderings-API:et kommer att vara live i juni; nu tillgänglig testfunktion](2021-april.md#10)|30 april|
 |Funktioner|[Ny plats för Swagger-dokumentation för Partner Center API](2021-april.md#9)|Den 26 april|
-|Funktioner|[Molnlösningsleverantör princip för programvarureturperiod (CSP) och förfallomeddelande om nedladdningslänk](2021-april.md#8)|21 april|
-|Utveckla din verksamhet|[Open Licensing Program: Övergångsåterförsäljare till Molnlösningsleverantör (CSP)-programmet](2021-april.md#7)|Den 19 april|
-|Funktioner|[Nu live: Global kampanjberedskapsguide](2021-april.md#6)|Den 16 april|
-|Community: Inbjudningar och påminnelser|[Community-Molnlösningsleverantör för April Molnlösningsleverantör (CSP) och påminnelser](2021-april.md#5)|Den 16 april|
+|Funktioner|[Molnlösningsleverantör (CSP)-principen för programvarureturperiod och förfallomeddelande om nedladdningslänk](2021-april.md#8)|21 april|
+|Utveckla din verksamhet|[Open Licensing Program: Övergång av återförsäljare till Molnlösningsleverantör (CSP)-programmet](2021-april.md#7)|Den 19 april|
+|Funktioner|[Nu live: Guide för global kampanjberedskap](2021-april.md#6)|Den 16 april|
+|Community: Inbjudningar och påminnelser|[Community-Molnlösningsleverantör april Molnlösningsleverantör (CSP) och påminnelser](2021-april.md#5)|Den 16 april|
 |Funktioner|[Påminnelse: Utfasning av GET-kvalificering den 4 maj 2021](2021-april.md#4)|9 april|
 |Funktioner|[Nytt format för den nya PDF-fakturan för handel i CSP](2021-april.md#3)|April 5|
-|Funktioner|[Ändringar i Molnlösningsleverantör-kunders krav för onboarding](2021-april.md#2)|Den 2 april|
+|Funktioner|[Ändringar i Molnlösningsleverantör-kunders krav för onboarding](2021-april.md#2)|2 april|
 |Funktioner|[Visa den här månadens produktlanseringar och erbjudanden](2021-april.md#1)|1 april|
-|**Kategori**|**Meddelanden mars 2021**|**Meddelande**|
-|Funktioner|[Uppdaterat VALIDERINGs-API för kundadresser för CSP är nu tillgängligt för testning](2021-march.md#18)|Den 31 mars|
+|**Kategori**|**Meddelanden i mars 2021**|**Meddelande**|
+|Funktioner|[Uppdaterat API för verifiering av kundadress för CSP är nu tillgängligt för testning](2021-march.md#18)|Den 31 mars|
 |Erbjudanden/Modern Arbetsplats|[Ny Exchange för administrationscenter (EAC)](2021-march.md#17)|Den 29 mars|
 |Erbjudanden/Modern Arbetsplats|[Microsoft Operations: Introduktion till kalendern för produktlansering](2021-march.md#16)|25 mars|
-|Funktioner|[Ändringar av CSP-krav för kund-onboarding](2021-march.md#15)|25 mars|
-|Erbjudanden/marknader|[Korrigeringar som gjorts för den 1 mars 2021 av den permanenta programvaruprislistan](2021-march.md#14)|23 mars|
+|Funktioner|[Ändringar av krav för CSP-kund-onboarding](2021-march.md#15)|25 mars|
+|Erbjudanden/marknader|[Korrigeringar som gjorts för 1 mars 2021 permanent programvaruprislista](2021-march.md#14)|23 mars|
 |Funktioner|[SDK-version på .NET Standard (v1.17.0)](2021-march.md#13)|23 mars|
-|Funktioner|[CSP-erbjudande på den kommersiella marknadsplatsen och FY21 CSP-incitament för berättigade erbjudanden](2021-march.md#12)|Den 18 mars|
-|Funktioner|[Power BI Premium och kravuppdatering för erbjudanden](2021-march.md#11)|Den 18 mars|
-|Erbjudanden/marknader|[Prisuppdateringar mars för Microsoft 365 F3](2021-march.md#10)|Den 16 mars|
-|Drive Efficiency & Scale|[Uppdatera ett juridiskt företagsnamn via Partnercenter](2021-march.md#9)|Den 16 mars|
+|Funktioner|[CSP Commercial Marketplace-erbjudande och FY21 CSP-incitament för berättigade erbjudanden](2021-march.md#12)|18 mars|
+|Funktioner|[Power BI Premium för namngivning och kravuppdatering](2021-march.md#11)|18 mars|
+|Erbjudanden/marknader|[Prisuppdateringar för mars för Microsoft 365 F3](2021-march.md#10)|16 mars|
+|Skala för & effektivitet|[Uppdatera ett juridiskt företagsnamn via Partnercenter](2021-march.md#9)|16 mars|
 |Funktioner|[Uppdatering av Molnlösningsleverantör programutveckling (CSP) och ändringar i Open License-programmet](2021-march.md#8)|Den 15 mars|
 |Utveckla din verksamhet|[Uppdatera till ett tidigare meddelande: Premium Assessments, ett tillägg till Compliance Manager](2021-march.md#7)|Den 15 mars|
-|Funktioner|[Migrera dina lösningar från EN kommersiell partner (OCP) till Microsofts kommersiella marknadsplats](2021-march.md#6)|Den 12 mars|
-|Funktioner|[Utöka den nya handelsupplevelsen i programmet Molnlösningsleverantör (CSP) för Azure till Ryssland](2021-march.md#5)|10 mars|
-|Funktioner|[Partnercenter– programvarulicensnyckel och hämtningsuppfyllelse](2021-march.md#4)|5 mars|
-|Funktioner|[Migrera dina avtal från Partner Sales Anslut (PSC) till PartnerCenter](2021-march.md#3)|5 mars|
-|Funktioner|[Nya Microsoft Dynamics 365-produkter och -erbjudanden är tillgängliga den 1 april 2021](2021-march.md#2)|4 mars|
-|Funktioner|[Microsoft Universell utskrift nu tillgängligt i vissa paket](2021-march.md#1)|3 mars|
+|Funktioner|[Migrera dina lösningar från EN kommersiell partner (OCP) till Microsofts kommersiella marknadsplats](2021-march.md#6)|12 mars|
+|Funktioner|[Utöka den nya handelsupplevelsen i CSP Molnlösningsleverantör programmet (CSP) för Azure till Ryssland](2021-march.md#5)|10 mars|
+|Funktioner|[PartnerCenter programvarulicensnyckel och nedladdningsuppfyllelse](2021-march.md#4)|5 mars|
+|Funktioner|[Migrera dina avtal från Partner Sales Anslut (PSC) till Partner Center](2021-march.md#3)|5 mars|
+|Funktioner|[Nya Microsoft Dynamics 365-produkter och -erbjudanden är tillgängliga den 1 april 2021](2021-march.md#2)|Den 4 mars|
+|Funktioner|[Microsoft Universell utskrift nu tillgängligt i vissa paket](2021-march.md#1)|Den 3 mars|
 |**Kategori**|**Meddelanden februari 2021**|**Meddelande**|
 |Funktioner|[PUT-kvalificerings-API:er dras tillbaka, GET för att tas ur bruk i maj](2021-february.md#14)|25 februari|
 |Funktioner|[Dela avtal för säljförsäljning i stor skala med hjälp av funktionen för massåtgärder i Partnercenter](2021-february.md#13)|25 februari|

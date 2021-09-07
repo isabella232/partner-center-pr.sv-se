@@ -10,23 +10,53 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 09/02/2021
-ms.openlocfilehash: 876f6cbd87e912b4cfaf2aef152bb7b71d0600e6
-ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
+ms.date: 09/03/2021
+ms.openlocfilehash: 1f28e68d268aaf02a3e2350047b214c777b0d878
+ms.sourcegitcommit: 24b7e65548b5a9c37e782895d41383e9c018f5b7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "123457981"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "123501544"
 ---
 # <a name="september-2021-announcements"></a>Meddelanden september 2021
 
 Den här sidan innehåller meddelanden för Microsoft Partner Center för september 2021.
+
+________________
+## <a name="perpetual-software-and-software-subscriptions-price-lists-republished-to-fix-price-increases-in-russia"></a><a name="6"></a>Löpande prislistor för programvaru- och programvaruprenumerationer publiceras på nytt för att åtgärda prisökningar i Ryssland
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-09-03
+- Erbjudanden/marknader
+
+### <a name="summary"></a>Sammanfattning
+
+Prislistorna för permanent programvara och programvaruprenumerationer som publicerades den 1 september 2021 återpublicerades den 3 september för att åtgärda ett prisproblem i Ryssland.
+
+### <a name="impacted-audience"></a>Målgrupp som påverkas
+
+Indirekta leverantörer och direktfaktureringspartner som överför permanenta programvaru- och programvaruprenumerationer i Molnlösningsleverantör i Ryssland.
+
+### <a name="details"></a>Information
+
+De permanenta prislistorna för programvaru- och programvaruprenumerationer som publicerades den 1 september hade en felaktig prisökning på 15,2 % som angavs för alla produkter.
+
+Prisökningen på ~15,2 % börjar gälla den 1 oktober **2021**, inte i september. Prislistorna har publicerats på nytt med rätt prisinformation.
+
+Partner som har köpt produkter mellan 1 september och 3 september debiteras enligt de korrigerade priserna som visas i de senaste prislistorna.
+
+### <a name="next-steps"></a>Nästa steg
+
+- Partner som använder permanent programvara och programvaruprenumerationer i Ryssland bör ladda ned den senaste prislistan för att se de korrigerade priserna.
+- Information om prisökningarna som kommer i oktober finns i det här [tillkännagivandet.](https://news.microsoft.com/licensing-changes-at-microsoft-russia-2021/)
+
 ________________
 ## <a name="corrections-to-september-license-based-services-price-list-and-october-preview-for-microsoft-365-business-basic-usd"></a><a name="5"></a>Korrigeringar av prislistan för septemberlicensbaserade tjänster och oktoberförhandsvisningen för Microsoft 365 Business Basic (USD)
 
 ### <a name="summary"></a>Sammanfattning
 
-Septemberprislistan och oktoberförhandsvisningen hade ett felaktigt listpris för Microsoft 365 Business Basic i USD.
+Prislistan för september och förhandsgranskningen i oktober hade ett felaktigt listpris för Microsoft 365 Business Basic i USD.
 
 ### <a name="categories"></a>Kategorier
 
@@ -87,7 +117,7 @@ Saker att tänka på om det nya Intune-erbjudandet per enhet:
 - Kostnaden är 150 USD (USD/ERP) för en femårsprenumeration. 
 - Erbjudande-ID: 5170ccfb-e95b-49a4-b7f3-31f631a356ba
 - Det fungerar som det ska för alla Windows som har tilldelats till en enda autentiserad användare.
-- Erbjudandet innehåller inte enhetsbaserad villkorlig åtkomst.  
+- Erbjudandet omfattar inte enhetsbaserad villkorlig åtkomst.  
 
 ### <a name="questions"></a>Frågor
 
@@ -111,7 +141,7 @@ CSP:s direktfaktureringspartner och indirekta leverantörer och återförsäljar
 
 ### <a name="details"></a>Information
 
-Den 19 augusti 2021 presenterade [Microsoft](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers-pdf) den nya handelsupplevelsen för Microsoft 365, Dynamics 365, Power Platform och Windows 365-baserade erbjudanden för bredd rörelse som kommer i oktober 2021. Som en uppföljning till det här tillkännagivandet har vi följande viktiga uppdateringar som hjälper din organisation att förbereda för den här omvandlingen:
+Den 19 augusti 2021 presenterade [Microsoft](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers-pdf) den nya handelsupplevelsen för Microsoft 365, Dynamics 365, Power Platform och Windows 365-platsbaserade erbjudanden för bredd rörelse som kommer i oktober 2021. Som en uppföljning till det här tillkännagivandet har vi följande viktiga uppdateringar som hjälper din organisation att förbereda för den här omvandlingen:
 
 - Lansering av platsbaserade erbjudanden för integrerad sandbox-testning
 - Påminnelse om kommande CSP Q&A-anrop i september
@@ -143,13 +173,13 @@ Tabellen innehåller en sammanfattning av de viktigaste funktionerna som är til
 | Livscykelhantering för prenumeration (respitperiod) | Årliga faktureringsplaner för erbjudanden under flera år  |
 | Begränsningar för ägarskap | Pausa/återuppta (via självbetjäning)  |
 | Faktura-/rekognoseringsfiler | Omtilldeling av automatisk plats för fullständiga SKU-övergångar |
-| SKU-uppgraderingar för fullständigt antal på medel sikt | Kostnadsfri utvärderingsversion (med fullständig presentament) |
-| Framtvingande av annulleringsprincip: 30 dagars blockavbokning efter 30 dagar (ändras vid allmän tillgänglighet till 72 timmar) |  |
+| SKU-uppgraderingar med medeltidsmängd | Kostnadsfri utvärderingsversion (med fullständig present) |
+| Framtvingande av annulleringsprincip: 30 dagars blockavbokning efter 30 dagar (ändras med allmän tillgänglighet till 72 timmar) |  |
 |
 
-#### <a name="reminder-for-upcoming-csp-qa-calls-in-september"></a>Påminnelse om kommande CSP Q&A-anrop i september
+#### <a name="reminder-for-upcoming-csp-qa-calls-in-september"></a>Påminnelse för kommande CSP Q&A-anrop i september
 
-Registrera dig för kommande [CSP Q&A Community Calls](https://globalpbocomm.eventbuilder.com/GlobalCSP) den 15 september och 16 september för att lära dig mer om och ställa frågor om den nya handelsupplevelsen för Microsoft 365, Dynamics 365, Power Platform och Windows 365-platsbaserade erbjudanden för bredd rörelse som kommer i oktober 2021. CSP Community Q&A-anrop är dedikerade för att hjälpa CSP-direktfakturering och indirekta partner med frågor som rör CSP-uppskjutningar och kommande ändringar. För att underlätta för dig görs communitysamlingar tillgängliga i förväg i [galleriet med partnerberedskap,](https://partner.microsoft.com/resources/assets/#/?prog=CSP%7CCSP-Direct%7CCSP-Indirect-Partner&type=collection&search=community%20collection%202021&sort=updated) där du kan granska material som diskuteras i Q&A call (Frågor och svar-anrop).
+Registrera dig för kommande [CSP Q&A Community Calls](https://globalpbocomm.eventbuilder.com/GlobalCSP) den 15 september och 16 september för att lära dig och ställa frågor om den nya handelsupplevelsen för Microsoft 365, Dynamics 365, Power Platform och Windows 365 seat-based offers for breadth motion som kommer i oktober 2021. CSP Community Q&A-anrop är dedikerade för att hjälpa CSP-direktfakturering och indirekta partner med frågor som rör CSP-uppskjutningar och kommande ändringar. För att underlätta för dig görs communitysamlingar tillgängliga i förväg i [galleriet för partnerberedskap,](https://partner.microsoft.com/resources/assets/#/?prog=CSP%7CCSP-Direct%7CCSP-Indirect-Partner&type=collection&search=community%20collection%202021&sort=updated) där du kan granska material som kommer att diskuteras i Q&A call (Frågor och svar-anrop).
 
 Om du vill delta i och/eller hitta tidigare inspelningar av CSP Fundamentals-anrop kan du gå till [registrering av grunderna för CSP.](https://globalpbocomm.eventbuilder.com/CSPFundamentals)
 
@@ -169,17 +199,17 @@ Den 1 september 2021 har Microsoft informerat partner om nästa steg i utvecklin
 - Läs [CSP-handboken](https://partner.microsoft.com/resources/detail/operating-guide-new-commerce-experience-for-csp-seat-based-offers-pdf) för Microsoft 365, Dynamics 365, Power Platform och Windows 365 i den nya handelsupplevelsen för att lära dig mer om funktioner, affärsregler och stegvisa instruktioner för lanseringen. Kontrollera regelbundet handboken eftersom den uppdateras regelbundet.
 - Granska resurserna som beskrivs i [beredskapskartan](https://partner.microsoft.com/resources/detail/readiness-map-new-commerce-experienceseat-based-offers-pdf).
 - Läs [API-dokumentationsmappen](https://partner.microsoft.com/resources/collection/api-documentation#/).
-- För support loggar du en supportbegäran eller publicerar till konversationerna i Partnercenter-SDK- och [API Yammer-gruppen,](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=6589502)där presentationer och inspelningar av genomgång av funktioner publiceras under september.
+- För support kan du logga en supportbegäran eller skicka ett inlägg till konversationerna i [Partnercenter-SDK-](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=6589502)och API Yammer-gruppen, där presentationer och inspelningar av funktionsinloggningar publiceras under september.
 
 #### <a name="reminder-for-upcoming-csp-qa-calls-in-september"></a>Påminnelse för kommande CSP Q&A-anrop i september
 
 - Registrera dig för kommande [CSP Q&A Community Calls](https://globalpbocomm.eventbuilder.com/GlobalCSP) den 15 september eller 16 september.
 - Granska den nya handelsupplevelsen för CSP-platsbaserade erbjudanden [för](https://partner.microsoft.com/resources/collection/new-commerce-experience-for-csp-seat-based-offers#/) den här lanseringen.
-- Delta i CSP Q&A Community Call och ställ frågor som din organisation har angående den nya handelsupplevelsen för Microsoft 365, Dynamics 365, Power Platform och Windows 365 seat-baserade för bredd rörelse.
+- Delta i CSP Q&A Community Call och ställ frågor som din organisation har om den nya handelsupplevelsen för Microsoft 365, Dynamics 365, Power Platform och Windows 365-platsbaserad för bredd och rörelse.
 
 #### <a name="microsoft-commerce-incentive-program"></a>Incitamentprogram för Microsoft Commerce
 
-- Granska kommunikationen i den kommande förbättrade partnerupplevelsen i den [Microsoft Commerce Incentives resurssamlingen](https://partner.microsoft.com/asset/collection/microsoft-commerce-incentive-resources#/).
+- Granska kommunikationen i den kommande förbättrade partnerupplevelsen i Microsoft Commerce Incentives [resurssamlingen](https://partner.microsoft.com/asset/collection/microsoft-commerce-incentive-resources#/).
 - Granska de uppdaterade FY22-partnerincitamentguiderna på [Partner Incentives-portalen.](https://microsoft.sharepoint.com/teams/PartnerIncentivesPortal)
 
 ### <a name="questions"></a>Har du några frågor?
@@ -200,7 +230,7 @@ Produktlanseringskalendern för september 2021 har nu publicerats.
 
 ### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Alla partner som gör en transacting via Molnlösningsleverantör (CSP)-programmet
+Alla partner som gör ett Molnlösningsleverantör(CSP)-program
 
 ### <a name="details"></a>Information
 
@@ -244,7 +274,7 @@ MCCL CSP-programpartner
 
 - Kunder kan fortsätta att ha fullständiga rättigheter och åtkomst till alla permanenta programvarulicenser som köpts via Open License-programmet även efter utfasningen. De kan också fortfarande komma åt Volume Licensing Service Center för att hantera dessa licenser och tjänster.
 
-#### <a name="software-assurance-sa-purchases"></a>Software Assurance (SA)
+#### <a name="software-assurance-sa-purchases"></a>Software Assurance (SA)-inköp
 
 - SA-erbjudanden med Open License (L&SA) fortsätter att vara tillgängliga i Open Value (OV) och Open Value Subscription (OVS). Varken SA eller L&SA är dock tillgängliga i MCCL CSP-programmet eftersom det inte finns någon plan för att erbjuda detta i MCCL CSP.
 
