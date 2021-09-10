@@ -1,6 +1,6 @@
 ---
 title: Analysera prestanda för indirekta återförsäljare
-description: Använd analyser för att lära dig hur det går för dina indirekta återförsäljare, både deras framgångar och områden som kan behöva mer uppmärksamhet.
+description: Använd analys för att lära dig hur det går för dina indirekta återförsäljare, både deras framgångar och områden som kan behöva mer uppmärksamhet.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 author: shganesh
@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: 22a4cd826d806ba4f9cc3e83ea27116d5f694373fa26afdb3f403e7497f26e8c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: a7d04e437a2546c887b40f37a7381605535e8ca9
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115685028"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960003"
 ---
 # <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>Använda analys för att analysera prestanda för dina indirekta återförsäljare
 
@@ -34,17 +34,17 @@ Vi spårar följande mått:
  - **Totalt antal återförsäljare:** Antal aktiva återförsäljare den sista dagen i prenumerationen  
  - **Nya återförsäljare:** Antal nya indirekta återförsäljare för den angivna tidsperioden  
  - **Aktiva återförsäljare:** Antal indirekta återförsäljare där MPNID är minst 1 prenumeration och där prenumerationsstatusen inte avetablerar  
- - **Transaktioner för återförsäljare:** Antal indirekta återförsäljare med en såld prenumeration under den angivna tidsperioden  
+ - **Transacting resellers (Återförsäljare** av transaktioner): Antal indirekta återförsäljare med en såld prenumeration under den angivna tidsperioden  
 
 **Återförsäljare efter marknad**  
- - Totalt antal återförsäljare efter geografisk plats  
+ - Totalt antal återförsäljare per geografisk plats  
 
 **De främsta återförsäljarna efter sålda prenumerationer**
  - En lista över återförsäljare, sorterade efter antalet prenumerationer som de har sålt  
 
 **Främsta produkter efter prenumerationsantal**  
  - **Dynamics 365:** Dynamics 365-produkter sorterade efter sålda prenumerationer  
- - **EMS**: Antal sålda Enterprise Management Services-prenumerationer  
+ - **EMS:** Antal sålda Enterprise Management Services-prenumerationer  
  - **Microsoft 365:** Antal sålda Microsoft 365 prenumerationer  
  - **Office 365:** Office 365 produkter sorterade efter sålda prenumerationer  
 
@@ -53,23 +53,23 @@ Vi spårar följande mått:
 
 **Prenumerationsomsättning**  
  - **Nya prenumerationer:** Antal nya prenumerationer som lagts till efter datum  
- - **Avetableerade prenumerationer:** Antal prenumerationer som avetablerar eller pausas efter datum  
+ - **Avetablera prenumerationer:** Antal prenumerationer som avetablerar eller pausas efter datum  
 
 **Ny återförsäljarinformation**  
- - **Återförsäljares** namn: Namn på indirekta återförsäljare  
+ - **Återförsäljarnamn:** Namn på indirekta återförsäljare  
  - **Plats:** Marknader där de indirekta återförsäljarna verkar  
  - **Prenumerationer:** Antal prenumerationer som återförsäljaren har sålt  
  - **Licenser:** Totalt antal licenser som återförsäljaren har sålt i alla prenumerationer  
 
-**MPA-signerad status**
+**Status för MPA-signerad**
 
-Det här avsnittet innehåller statusen för MPA-signerad status för CSP Indirect Resellers.
+Det här avsnittet innehåller status för MPA-signerad status för de indirekta CSP-återförsäljarna.
 
- - **Återförsäljares namn:** Namnet på den indirekta CSP-återförsäljaren
+ - **Återförsäljarnamn:** Namnet på den indirekta CSP-återförsäljaren
  - **MPN-ID:** MPN-ID för den indirekta återförsäljaren
- - **Region**: Region där den indirekta återförsäljaren verkar
+ - **Region:** Region där den indirekta återförsäljaren verkar
  - **MPN-kontrollstatus:** Kontrollstatus för den indirekta återförsäljaren
- - **Status för MPA-signerad:** MPA-signeringsstatus för den indirekta återförsäljaren
+ - **MPA-signerad status:** MPA-signeringsstatus för den indirekta återförsäljaren
 
 Klicka på nedladdningsikonen i diagrammet för att ladda ned MPA-signerade statusdata med ytterligare dimensioner
   

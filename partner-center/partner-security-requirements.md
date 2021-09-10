@@ -9,18 +9,18 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 59e3011099755b9342a00574e0c5bb390e2fd7030a38996368c4127d2fca9518
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 8966d744dfb70a7850ef6d3dd68d2051344fe9cd
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115694004"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961123"
 ---
 # <a name="security-requirements-for-using-partner-center-or-partner-center-apis"></a>Säkerhetskrav för att använda PARTNER Center- eller Partner Center-API:er
 
 **Lämpliga roller:** Alla Partner Center-användare
 
-Den här artikeln förklarar de obligatoriska säkerhetskraven för rådgivare, Kontrollpanelen-leverantörer och partner som deltar i Molnlösningsleverantör-programmet, samt autentiseringsalternativ och andra säkerhetsöverväganden. Sekretessskydd och säkerhet är bland våra högsta prioriteter. Vi vet att det bästa skydd är att förebygga och att vi bara är lika starka som vår svagaste länk. Därför behöver vi att alla i vårt ekosystem agerar och ser till att rätt säkerhetsskydd finns på plats.
+Den här artikeln förklarar de obligatoriska säkerhetskraven för Advisors, Kontrollpanelen Vendors och partners som deltar i Molnlösningsleverantör-programmet, samt autentiseringsalternativ och andra säkerhetsöverväganden. Sekretessskydd och säkerhet är bland våra högsta prioriteter. Vi vet att det bästa försvaret är att förebygga och att vi bara är lika starka som vår svagaste länk. Därför behöver vi att alla i vårt ekosystem agerar och ser till att rätt säkerhetsskydd finns på plats.
 
 ## <a name="mandatory-security-requirements"></a>Obligatoriska säkerhetskrav
 
@@ -33,7 +33,7 @@ För att skydda dig och dina kunder kräver vi att partner omedelbart vidta föl
 2. **Anta Modell för säkra program ramverket**. Alla partner som integrerar med Partner Center-API:er [måste Modell för säkra program ramverket](/partner-center/develop/enable-secure-app-model) för alla program för app- och användarauth-modeller.
 
     > [!IMPORTANT]
-    > Vi rekommenderar starkt att partner implementerar Modell för säkra program för integrering med ett Microsoft API, till exempel Azure Resource Manager eller Microsoft Graph, eller när du använder automatisering som PowerShell med hjälp av användarautentiseringsuppgifter för att undvika eventuella avbrott när MFA tillämpas.
+    > Vi rekommenderar starkt att partner implementerar Modell för säkra program för integrering med ett Microsoft-API, till exempel Azure Resource Manager eller Microsoft Graph, eller när de använder automatisering som PowerShell med hjälp av användarautentiseringsuppgifter för att undvika störningar när MFA tillämpas.
 
 Dessa säkerhetskrav hjälper till att skydda din infrastruktur och dina kunders data mot potentiella säkerhetsrisker, till exempel stöld eller andra bedrägeriincidenter.  
 
@@ -52,7 +52,7 @@ För att uppfylla partnersäkerhetskraven måste du implementera och framtvinga 
 
 ### <a name="security-defaults"></a>Standardinställningar för säkerhet
 
-Ett av alternativen som partner kan välja för att implementera MFA-krav är att aktivera standardinställningar för säkerhet i Azure AD. Standardinställningarna för säkerhet ger en grundläggande säkerhetsnivå utan extra kostnad. Läs om hur du aktiverar MFA för din organisation med Azure AD och de viktigaste övervägandena nedan innan du aktiverar standardinställningar för säkerhet.
+Ett av alternativen som partner kan välja för att implementera MFA-krav är att aktivera standardinställningar för säkerhet i Azure AD. Standardinställningarna för säkerhet ger en grundläggande säkerhetsnivå utan extra kostnad. Läs om hur du aktiverar MFA för din organisation med Azure AD och de viktigaste övervägandena nedan innan du aktiverar standardvärden för säkerhet.
 
 - Partner som redan har infört baslinjeprinciper måste vidta åtgärder för att övergå till standardvärden för säkerhet.
 
@@ -73,7 +73,7 @@ Detaljerad information finns i [Översikt över Azure AD Multi-Factor Authentica
 
 ## <a name="implementation-considerations"></a>Att tänka på vid implementering
 
-Eftersom dessa krav gäller för alla användarkonton i partnerklientorganisationen måste du tänka på flera saker för att säkerställa en smidig distribution. Du kan till exempel identifiera användarkonton i Azure AD som inte kan utföra MFA och program och enheter i din organisation som inte stöder modern autentisering.
+Eftersom dessa krav gäller för alla användarkonton i din partnerklientorganisation måste du tänka på flera saker för att säkerställa en smidig distribution. Du kan till exempel identifiera användarkonton i Azure AD som inte kan utföra MFA och program och enheter i din organisation som inte stöder modern autentisering.
 
 Innan du utför någon åtgärd rekommenderar vi att du slutför följande verifieringar. 
 
@@ -93,7 +93,7 @@ Det är viktigt att identifiera alla företagspolicyer som förhindrar anställd
 
 - Distribuera ett tidsbaserat TOTP-program (engångsbaslösenord) som kan köras på ett säkert system.
 
-- Implementera en lösning från tredje part som tillämpar MFA för varje användarkonto i partnerklientorganisationen som ger det lämpligaste verifieringsalternativet.
+- Implementera en lösning från tredje part som tillämpar MFA för varje användarkonto i partnerklientorganisationen som tillhandahåller det lämpligaste verifieringsalternativet.
 
 - Köp [Azure Active Directory Premium](https://azure.microsoft.com/pricing/details/active-directory/) licenser för de berörda användarna.
 
@@ -132,7 +132,7 @@ Se följande resurser för support och exempelkod:
 
 - [Communityn för säkerhetsvägledning i Partnercenter:](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)Communityn för säkerhetsvägledning i Partnercenter är en online-community där du kan lära dig mer om kommande händelser och ställa frågor som du kan ha.
 - [Partner Center .NET-exempel:](https://github.com/microsoft/partner-center-dotnet-samples)Den GitHub lagringsplatsen innehåller exempel som utvecklats med .NET och som visar hur du kan implementera Modell för säkra program ramverket.
-- [Partner Center Java-exempel:](https://github.com/microsoft/partner-center-java-samples)Den GitHub lagringsplatsen innehåller exempel, utvecklade med Java, som visar hur du kan implementera Modell för säkra program ramverket.
+- [Partner Center Java-exempel:](https://github.com/microsoft/partner-center-java-samples)Den GitHub lagringsplatsen innehåller exempel som utvecklats med Java och som visar hur du kan implementera Modell för säkra program ramverket.
 - [Partner Center PowerShell – Multifaktorautentisering:](/powershell/partnercenter/multi-factor-auth)Den här artikeln om multifaktorautentisering innehåller information om hur du implementerar Modell för säkra program ramverket med PowerShell.
 
 ## <a name="next-steps"></a>Nästa steg

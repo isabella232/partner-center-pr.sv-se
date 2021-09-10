@@ -9,19 +9,19 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8108177d54bafae09c7432530999d6c240a26618caecc3f53207b7135afdf621
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 4304d57e122adcfbb36cf32a302d316174b26d90
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115690978"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960133"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Kontrakt för CSP-partner som gör affärer på den kommersiella marknadsplatsen
 
 
-**Lämpliga roller:** Global | Administratörsagent
+**Lämpliga roller:** Globala | Administratörsagent
 
-Den här artikeln handlar om kontrakt för partner i CSP-programmet som väljer att köpa ISV Marketplace-erbjudanden eller -produkter till sina kunder från partnercentrets kommersiella marknadsplats eller Azure Portal.
+Den här artikeln handlar om kontrakt för partner i CSP-programmet som väljer att köpa ISV Marketplace-erbjudanden eller produkter till sina kunder från Den kommersiella marknadsplatsen i Partnercenter eller Azure Portal.
 
 [CSP-programguiden](https://go.microsoft.com/fwlink/p/?LinkId=617100) innehåller de villkor som styr erbjudanden på den kommersiella marknadsplatsen mellan Microsoft och partner i CSP-programmet. CSP-partner bör granska dessa villkor för att säkerställa att de fungerar i enlighet med programmet.  
 

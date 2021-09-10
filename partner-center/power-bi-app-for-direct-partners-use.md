@@ -10,18 +10,18 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dd50b12bdffd9594367e699e9ee044306a226736f669366e2fae9ac94c338da2
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: eea221af22e9bd7aa684bc5120b0799f083f8663
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681407"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961343"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Visa dina affärsdata med Partner Center Analytics-appen för Microsoft Power BI
 
 
 
-**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Försäljningsagentens | Administratörsagent
+**Lämpliga roller:** Globala | Administratörsbehörighet för användarhantering | Försäljningsagentens | Administratörsagent
 
 ## <a name="view-your-business-data"></a>Visa dina affärsdata
 
@@ -51,19 +51,19 @@ Hämta en visuell representation av dina affärsdata med Partner Center Analytic
 
 ### <a name="business-insights-report"></a>Rapport Insights företag
 
-- **Kundklienter:** Antalet distinkta Azure Active Directory (Azure AD) för kunder som har köpt prenumerationer
+- **Kundklienter:** Antal distinkta Azure Active Directory (Azure AD) för kunder som har köpt prenumerationer
 
 - **Ny (senaste 30 dagarna):** Nya kunder har köpt minst en prenumeration under de senaste 30 dagarna
 
 - **Omsättning (senaste 30 dagarna):** Kunder utan prenumerationer som är "aktiva", "i respit" eller "inaktiverade"
 
-- **Ny (senaste 24 timmarna)**: Nya kunder har köpt minst en prenumeration under de senaste 24 timmarna
+- **Ny (senaste 24 timmarna):** Nya kunder har köpt minst en prenumeration under de senaste 24 timmarna
 
 - **Uppskattad månadskostnad under de senaste 12** månaderna: Månad över månad-trend för beräknat belopp före skatt i dollar aggregerat månadsvis under de senaste 12 månaderna
 
 - **Uppskattad kostnad per produkt under de senaste 12** månaderna: Produkter som sålts sorterade efter beräknat belopp före skatt som aggregerats under de senaste 12 månaderna. Den här statusen anger de främsta produkterna som ger mest intäkter.
 
-- **Kunder under de senaste 12** månaderna: Trenden månad för månad för nya kunder och omsättningskunder aggregerats månadsvis under de senaste 12 månaderna
+- **Kunder under de senaste 12 månaderna:** Trenden månad för månad för nya kunder och omsättningskunder aggregerats månadsvis under de senaste 12 månaderna
 
 - **Uppskattad kostnad per kund under de senaste 12** månaderna: Kunder sorterade efter beräknat belopp före skatt som aggregerats under de senaste 12 månaderna. Den här statusen anger att de främsta kunderna har störst intäkter.
 
@@ -89,7 +89,7 @@ Hämta en visuell representation av dina affärsdata med Partner Center Analytic
 
 - **Totalt antal** prenumerationer: Prenumerationer i statusen "aktiv", "i respit" eller "inaktiverad"
 
-- **Nytt (senaste 30 dagarna): Nya** prenumerationer som köpts av kunder under de senaste 30 dagarna
+- **Nytt (senaste 30 dagarna)**: Nya prenumerationer som köpts av kunder under de senaste 30 dagarna
 
 - **Nytt (senaste 24 timmarna)**: Nya prenumerationer som köpts av kunder under de senaste 24 timmarna
 
@@ -149,7 +149,7 @@ Hämta en visuell representation av dina affärsdata med Partner Center Analytic
 
 - Uppskattad kostnad för användning per prenumeration under de **senaste 60** dagarna: Användningsbaserade prenumerationer efter beräknat belopp före skatt som aggregerats under de senaste 60 dagarna.
 
-- **Kundens uppskattade användningskostnad efter utgiftsbudget:** Kunder sorterade efter procentandel av den aktuella användningsbudgeten överskrider tröskelvärdet (100 %).
+- **Kundens uppskattade användningskostnad efter utgiftsbudget:** Kunder sorteras efter procentandel av den aktuella användningsbudgeten som överstiger tröskelvärdet (100 %).
 
 ### <a name="azure-resource-usage-report"></a>Rapport om Azure-resursanvändning:
 

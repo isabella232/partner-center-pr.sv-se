@@ -1,17 +1,17 @@
 ---
 title: Privata planer i Azure Marketplace
-description: Läs mer om privata planer i Azure Marketplace.
+description: Lär dig mer om privata planer i Azure Marketplace.
 ms.service: marketplace-customer
 ms.topic: article
 author: Guyshu
 ms.author: gushuchm
 ms.date: 08/27/2021
 ms.openlocfilehash: d8c55ce8f6a0c5da3bf2f02c899196e8fd6fd2e0
-ms.sourcegitcommit: fe0920740ef9f461b38cc20bac41192552466405
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "123088523"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123937016"
 ---
 # <a name="private-plans-in-azure-marketplace"></a>Privata planer i Azure Marketplace
 
@@ -24,7 +24,7 @@ När en partner publicerar en privat plan visas den bara för berättigade anvä
 > [!NOTE]
 > Privata planer är sökbara men inte filtrerbara (efter kategori) i Azure Portal.
 
-I Azure Portal väljer du **+ Skapa en resurs eller** söker efter "marketplace" för att gå till **Marketplace-sidan.** Om du är berättigad till privata planer visas banderollen You **have private products available** (Du har privata produkter tillgängliga) överst på sidan. Välj **Visa privata produkter för** att gå till sidan med dina privata planer.
+I den Azure Portal väljer du **+ Skapa en resurs** eller söker efter "marketplace" för att gå till **Marketplace-sidan.** Om du är berättigad till privata planer visas banderollen You **have private products available** (Du har privata produkter tillgängliga) överst på sidan. Välj **Visa privata produkter för** att gå till sidan med dina privata planer.
 
 :::image type="content" source="media/private-offers/private-products-banner.png" lightbox="media/private-offers/private-products-banner.png" alt-text="Banderollen som visas när du har privata produkter tillgängliga.":::
 

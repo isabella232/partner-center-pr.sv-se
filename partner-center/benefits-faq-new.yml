@@ -10,18 +10,18 @@ metadata:
   ms.author: keramp
   ms.localizationpriority: medium
   ms.custom: 
-  ms.openlocfilehash: 9e045665ed49b661047ab14d442bdf6b9da34d02d911fee0152ef857b8c24b54
-  ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+  ms.openlocfilehash: d4cc278a77fda7e09a13b67fe305e87b581ec3bf
+  ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "115682461"
+  ms.lasthandoff: 09/09/2021
+  ms.locfileid: "123961183"
 title: Vanliga Microsoft Partner Network om fördelar
 summary: >
   **Lämpliga roller:** MPN-partneradministratör
 
 
-  I följande artikel får du svar på några av de viktigaste frågorna Microsoft Partner Network (MPN)-partner har om sina MPN-medlemskapsförmåner, kompetenser och produktlicenser.
+  I följande artikel får du svar på några av de viktigaste frågorna som Microsoft Partner Network (MPN)-partner har om sina MPN-medlemskapsförmåner, kompetenser och produktlicenser.
 sections:
 - name: Svara på COVID-19
   questions:
@@ -40,7 +40,7 @@ sections:
       Innan du förnyar din kompetens måste den globala administratören eller kontoadministratören för ditt företag granska och uppdatera affärsinformationen. De kan komma åt företagsprofilen i Partnercenter för att se status och granska vilken information som behöver uppdateras.Ytterligare dokumentation kan krävas för att verifiera din information.  
 
 
-      Förnyelsefönstret börjar på årsdagen för köpet plus en dag. Om du till exempel har köpt Microsoft Action Pack den 1 september 2020 börjar förnyelseperioden på 30 dagar den 2 september 2021. Rollerna Global administratör och MPN-administratör i ditt företag får förnyelsekommunikationen som ledde fram till årsdagen och 30 dagar efter. Du kommer att fortsätta att ha åtkomst till associerade fördelar under förnyelseperioden.
+      Förnyelsefönstret börjar på årsdagen för köpet plus en dag. Om du till exempel köpte Microsoft Action Pack den 1 september 2020 börjar förnyelseperioden på 30 dagar den 2 september 2021. Rollerna Global administratör och MPN-administratör i ditt företag får förnyelsekommunikationen som ledde fram till årsdagen och 30 dagar efter. Du kommer att fortsätta att ha åtkomst till associerade fördelar under förnyelseperioden.
 
 
       Mer information finns i Förnya [MPN-erbjudande.](renew-mpn-offers.md)
@@ -53,7 +53,7 @@ sections:
       Innan du förnyar Action Pack måste den globala administratören eller kontoadministratören för ditt företag granska och uppdatera företagets affärsinformation. De kan komma åt företagets profil i Partnercenter för att se din status och förstå vilken information som behöver uppdateras.Ytterligare dokumentation kan krävas för att verifiera din information.  
 
 
-      Förnyelsefönstret börjar på årsdagen för köpet plus en dag. Om du till exempel har köpt Microsoft Action Pack den 1 september 2020 börjar din 30-dagars förnyelseperiod den 2 september 2021.Du kommer att fortsätta att ha åtkomst till associerade förmåner under förnyelseperioden.
+      Förnyelsefönstret börjar på årsdagen för köpet plus en dag. Om du till exempel har köpt Microsoft Action Pack den 1 september 2020 börjar din 30-dagars förnyelseperiod den 2 september 2021.Du fortsätter att ha åtkomst till associerade förmåner under förnyelseperioden.
 
 
       Mer information finns i Förnya [MPN-erbjudande](renew-mpn-offers.md)
@@ -63,7 +63,7 @@ sections:
       Microsoft Action Pack är en portfölj med resurser som hjälper partner som du bekantar dig med Microsofts tekniker och skapar din lösning/tjänst. Du kan köpa en Microsoft Action Pack om du har en kompetens eller inte.
 
 
-      Den Learning Action Pack är ingångsnivån i Learning Partnerprogram. Programmet Learning resurser för företag som erbjuder teknikutbildning och/eller som har en inlärningspraxis. I [Learning Action Pack](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/) rabatter på Courseware, Marketplace och förmåner som hjälper partner att bli experter i olika Microsoft-produktlinjer. Se [licensieringstabellen för](https://assetsprod.microsoft.com/microsoft-action-pack-license-table.pdf) Microsoft-Action Pack och Learning Action Pack.
+      Den Learning Action Pack är ingångsnivån i Learning Partnerprogram. Programmet Learning resurser för företag som erbjuder teknikutbildning och/eller har en inlärningspraxis. De [Learning Action Pack](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/) rabatter på Courseware, Marketplace och förmåner för att hjälpa partner att bli experter i olika Microsoft-produktlinjer. Se [licensieringstabellen för](https://assetsprod.microsoft.com/microsoft-action-pack-license-table.pdf) Microsoft Action Pack och Learning Action Pack.
   - question: >
       Vad händer med våra kompetenser eller Action Pack förmåner under förnyelseperioden på 30 dagar?
     answer: >
@@ -83,21 +83,21 @@ sections:
       Nej, du kan inte dela token för att låsa upp flera prenumerationer. Token måste användas i det format som anges. Till exempel kan en token med 25 platser inte delas upp i 5 olika token för 5 platser.
 
 
-      Mer information finns i Guiden för Microsoft-partnerprogram  [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
+      Mer information finns i Guiden för  [Microsoft-partnerprogram aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
   - question: >
       Kan vi få en ersättningstoken om vi aktiverade vår token för molntjänster på fel klientorganisation eller lade till platser i stället för att utöka?
     answer: >
-      Ersättningstoken för molntjänstaktiveringar på fel klientorganisation och för platser som har lagts till av misstag i befintliga prenumerationer kan endast utfärdas en gång inom 30 dagar efter aktiveringen av den ursprungliga token.
+      Ersättningstoken för molntjänstaktiveringar på fel klientorganisation och för platser som har lagts till av misstag i befintliga prenumerationer kan bara utfärdas en gång inom 30 dagar efter aktiveringen av den ursprungliga token.
 
 
-      Mer information finns i Guiden för Microsoft-partnerprogram [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
+      Mer information finns i Guiden för [Microsoft-partnerprogram aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
   - question: >
       Behöver vi en produktnyckel för installation av lokala programvarulicenser?
     answer: >
       Alla produkter kräver inte produktnyckel. Produktaktivering krävs för Windows- och klientoperativsystemet och alla Microsoft Office klientprogram.
 
 
-      Mer information finns i Guiden för Microsoft-partnerprogram  [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
+      Mer information finns i Guiden för  [Microsoft-partnerprogram aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
   - question: >
       Kan vi skaffa fler produktnycklar om vi förbrukat alla installationer och aktiveringar?
     answer: >
@@ -108,7 +108,7 @@ sections:
   - question: >
       Vad händer om vi bestämmer oss för att inte förnya vår kompetens eller Microsoft Action Pack, kan vi fortfarande använda de lokala programvarulicenserna?
     answer: >
-      Nej. De lokala programvarulicenserna som ingår i kompetensen och Microsoft-Action Pack inte permanenta. Du är berättigad och har rätt att använda dessa licenser endast under ditt medlemskap. Du måste skaffa licensrättigheter via kommersiell licensiering eller avinstallera lokal programvara som hämtas via Microsoft Partner Network om du väljer att inte förnya din kompetens eller Action Pack.
+      Nej. De lokala programvarulicenserna som ingår i kompetensen och Microsoft-programmets Action Pack inte permanenta. Du är berättigad och har rätt att använda dessa licenser endast under ditt medlemskap. Du måste skaffa licensrättigheter via kommersiell licensiering eller avinstallera lokal programvara som hämtas via Microsoft Partner Network om du väljer att inte förnya din kompetens eller Action Pack.
 
 
       Mer information finns i Microsofts guide för [partnerprogram aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
@@ -120,7 +120,7 @@ sections:
 
       Mer information finns i Microsofts guide för [partnerprogram aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
   - question: >
-      Kan vi dela Visual Studio prenumerationer som ingår i kompetensen eller Microsoft Action Pack?
+      Kan vi dela de Visual Studio prenumerationer som ingår i kompetensen eller Microsoft Action Pack?
     answer: >
       Nej, Visual Studio-prenumerationer licensieras per användare och måste tilldelas och aktiveras för att vara giltiga. Det är inte tillåtet att dela inloggningsuppgifter.
 
@@ -129,7 +129,7 @@ sections:
   - question: >
       Hur vet vi hur många produktlicenser vårt företag har?
     answer: >
-      Du kan visa och hantera produktlicenser och andra förmåner som ingår i kompetensen eller som Action Pack i Partnercenter. Läs mer i [Hantera dina partnernätverksfördelar.](manage-your-partner-network-benefits.md)
+      Du kan visa och hantera produktlicenser och andra förmåner som ingår i din kompetens eller som Action Pack i Partnercenter. Läs mer i [Hantera dina partnernätverksfördelar.](manage-your-partner-network-benefits.md)
   - question: >
       Hur kan företaget använda de produktlicenser som är tillgängliga för oss via kompetensutbildning eller Action Pack?
     answer: >
@@ -137,15 +137,15 @@ sections:
   - question: >
       Finns det begränsningar för hur vårt företag kan använda de produktlicenser som är tillgängliga för oss via kompetenser eller Action Pack?
     answer: >
-      Ja, det finns begränsningar. Användningsvillkoren för produktlicenser skiljer sig från kommersiella licenser som köpts via Microsofts licensieringsprogram. Mer information finns i [Produktlicensvillkor för användning.](https://www.microsoft.com/licensing) Produktlicenser omfattar inte Software Assurance och det finns vissa begränsningar för produktlicenser. Du kan granska användningsvillkoren för produktlicenser i guiden [Microsoft Partner Network program](https://aka.ms/partner-benefits-use-guide).
+      Ja, det finns begränsningar. Användningsvillkoren för produktlicenser skiljer sig från kommersiella licenser som köpts via Microsofts licensieringsprogram. Mer information finns i [Produktlicensvillkor för användning.](https://www.microsoft.com/licensing) Produktlicenser omfattar inte Software Assurance och det finns vissa begränsningar för produktlicenser. Du kan läsa användningsvillkoren för produktlicenser i guiden [Microsoft Partner Network program](https://aka.ms/partner-benefits-use-guide).
   - question: >
       Hur lägger vi till fler produktlicenser i listan i Partnercenter så att vårt företag omfattas?
     answer: >
       De produktlicenser som ingår i kompetensen och Action Pack har olika användningsvillkor från kommersiella licenser som köpts via Microsofts licensieringsprogram. Vi rekommenderar att du går igenom dina alternativ för att uppfylla företagets licensieringsbehov på [Microsoft Licensing.](https://www.microsoft.com/licensing)
   - question: >
-      Vi har nyligen slagit samman med/förvärvat ett annat Microsoft Partner Network som har kompetens. Får vi behålla alla våra aktuella produktlicenser när vi använder funktionen för kontosammanslagning i Partnercenter?
+      Vi har nyligen slagit samman med/köpt ett annat Microsoft Partner Network som har kompetens. Får vi behålla alla våra aktuella produktlicenser när vi använder funktionen för kontosammanslagning i Partnercenter?
     answer: >
-      Kompetensen och Action Pack köp slutförs i Partnercenter via det globala partnerkontot. När du använder funktionen för kontosammanslagning i Partnercenter förblir varje kontos befintliga förmåner som de är fram till nästa förnyelse. Vid förnyelsen implementeras förmåner som ingår i kompetensen och Action Pack för partnerföretagets globala partnerkonto.
+      Kompetens och köp Action Pack i Partnercenter via det globala partnerkontot. När du använder funktionen för kontosammanslagning i Partnercenter förblir varje kontos befintliga förmåner som de är fram till nästa förnyelse. Vid förnyelsen implementeras förmåner som ingår i kompetensen och Action Pack för partnerföretagets globala partnerkonto.
 
 
       -   Microsoft Action Pack: Partnerföretaget kan köpa en Action Pack per partner globalt konto.
@@ -154,9 +154,9 @@ sections:
       -   Kompetens: Partnerföretaget får ett paket med kärnförmåner som är kopplade till deras högsta kompetens, plus kompetensspecifika förmåner som partnern är berättigad till på partnerns globala konto.
 
 
-      Granska informationen om [kontosammanfogning](merge-accounts.md) om du vill veta mer om hur funktionen fungerar och hur du avgör om det är rätt för företagets behov.
+      Granska informationen om [kontosammanfogning](merge-accounts.md) om du vill veta mer om hur funktionen fungerar och hur du avgör om den passar företagets behov.
   - question: >
       Vi har frågor om vårt företags produktlicenser i Partnercenter. Var får vi hjälp med det?
     answer: >
-      Du kan gå till supportavsnittet i [Partnercenter](https://partner.microsoft.com/support) för länkar till resurser som kan vara till hjälp eller för att öppna ett ärende hos vårt partnersupportteam om det behövs.
+      Du kan gå till [avsnittet Support i Partnercenter](https://partner.microsoft.com/support) för länkar till resurser som kan vara till hjälp, eller för att öppna ett ärende hos vårt partnersupportteam om det behövs.
 additionalContent: "\n## <a name=\"next-steps\"></a>Nästa steg\n   - [Hitta dina Microsoft Partner Network-förmåner](mpn-find-benefits.md)\n   - [Förnya MPN-erbjudande](renew-mpn-offers.md)"

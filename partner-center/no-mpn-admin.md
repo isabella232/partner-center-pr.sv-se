@@ -9,16 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a673aad22bd5f9609fcbde656fb45e93ef2f227e92aba59988708769471e09e7
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 283cc274e150615d8f32da0b3e81ea01e0d86f0a
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115685876"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960693"
 ---
 # <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>Vad gör jag om den enda administratören för ditt MPN-program har lämnat företaget?
 
-**Lämpliga roller:** MPN-partneradministratör | Kontoadministratörsbehörighet | Global administratör
+**Lämpliga roller:** MPN-partneradministratör | Kontoadministratörskonto | Global administratör
 
 I följande artikel går vi igenom tre vanliga scenarier för vad du kan göra om MPN-administratören har lämnat företaget.
 
@@ -32,11 +32,11 @@ I det här fallet kan en annan person på företaget tilldelas rollen som MPN-pa
 
 ## <a name="scenario-2-mpn-partner-adminaccount-admin-has-left-the-company-and-there-are-no-global-admins-in-the-account"></a>Scenario 2: MPN-partneradministratören/kontoadministratören har lämnat företaget och det finns inga globala administratörer i kontot 
 
-Följ dessa steg  om du går till sidan Användarhantering och filtrerar på Global administratör, men du upptäcker att det inte finns någon global administratör i företaget som kan hjälpa dig att få den MPN-specifika rollen:
+Följ dessa steg  om du går till sidan Användarhantering och filtrerar på Global administratör men du upptäcker att det inte finns någon global administratör i företaget som kan hjälpa dig att få den MPN-specifika rollen:
 
 1. Gå till [portal.azure.com](https://ms.portal.azure.com/), logga in med ditt arbetskonto (till exempel tom@contoso.com ). 
 1. Välj alternativet **Hjälp + support** i det vänstra navigeringsfältet.
-1. På nästa sida väljer du **Nytt Supportbegäran** och Teknisk **problemtyp** i listrutan, infogar eventuell ytterligare information och klickar på **Nästa: Lösningar.**
+1. På nästa sida väljer du **Ny Supportbegäran** och teknisk **problemtyp** i listrutan, infogar eventuell ytterligare information och klickar på **Nästa: Lösningar.**
 
 :::image type="content" source="images/accountsettings/adminfinder.png" alt-text="Leta upp administratören i Azure Portal.":::
 

@@ -10,17 +10,17 @@ ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/18/2021
 ms.openlocfilehash: 29d340b1151a122792749c7cb400d647f42af33a
-ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121914832"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960293"
 ---
 # <a name="december-2020-announcements"></a>Meddelanden december 2020
 
 Den här sidan innehåller information om meddelanden för Microsoft Partner Center för november 2020.
 
-2020-meddelanden: [april juni](2020-april.md)  |  [juli](2020-may.md)  |  [](2020-june.md)  |  [augusti](2020-july.md)  |  [september](2020-august.md)  |  [](2020-september.md)  |  [oktober](2020-October.md)  |  [november](2020-november.md) | December
+2020-meddelanden: [april juni](2020-april.md)  |  [](2020-may.md)  |  [juli](2020-june.md)  |  [augusti](2020-july.md)  |  [](2020-august.md)  |  [september](2020-september.md)  |  [](2020-October.md)  |  [november](2020-november.md) | December
 
 ________________
 
@@ -65,7 +65,7 @@ ________________
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-12-22
-- Funktioner – förbättrar säkerhets- & efterlevnad
+- Funktioner – förbättrar & efterlevnad
 
 ### <a name="summary"></a>Sammanfattning
 
@@ -100,7 +100,7 @@ ______________
 
 ### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Direktfakturering och indirekta leverantörer som deltar i programmet Molnlösningsleverantör (CSP).
+Direktfakturering och indirekta leverantörer som deltar i Molnlösningsleverantör(CSP)-programmet.
 
 ### <a name="details"></a>Information
 
@@ -145,15 +145,15 @@ IT-administratörer, IT-beslutsfattare, chefsansvariga och slutanvändare
 
 ### <a name="details"></a>Information
 
-Microsoft 365-prenumeranter kommer i både konsument- och kommersiella sammanhang att kunna hantera den här ändringen med snabbare och mer responsiv webbåtkomst till fler uppsättningar funktioner i dagliga verktyg som Outlook, Teams, SharePoint med mera.
+Microsoft 365-prenumeranter kommer i både konsument- och kommersiella sammanhang att vara väl hanterade med den här ändringen genom snabbare och mer responsiv webbåtkomst till fler uppsättningar funktioner i dagliga verktyg som Outlook, Teams, SharePoint med mera.
 
 Den nya Microsoft Edge är vårt bästa uttryck för en modern webbläsare och vi är glada över att kunderna ska kunna använda den. Nu när vi har levererat den nya Microsoft Edge och uppgraderat de flesta av våra Windows 10-kunder till den nya webbläsaren avslutar vi stödet för den äldre Microsoft Edge-appen.
 
 **Effekten av ändringen**
 
-- Från **och med 30 november 2020** kan kunderna inte längre ansluta till Microsoft Teams-webbappen Internet Explorer 11. Microsoft tror att kunderna får ut mesta möjliga av Microsoft 365 det bästa uttrycket i en modern webbläsare när de använder den [nya Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
-- Efter **den 9 mars 2021** fortsätter appar och webbplatser som skapats för äldre Microsoft Edge att fungera i nya Microsoft Edge, men om ett kompatibilitetsproblem uppstår finns det ett löfte om [att App Assure](/fasttrack/products-and-capabilities#app-assure) tillhandahåller support.
-- Efter **den 17 augusti 2021** har kunderna en försämrad upplevelse eller kan inte ansluta till Microsoft 365-appar och tjänster Internet Explorer 11. Microsoft tror att kunderna får ut mesta möjliga av Microsoft 365 det bästa uttrycket i en modern webbläsare när de använder den [nya Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
+- Från **och med 30 november 2020** kan kunder inte längre ansluta till Microsoft Teams-webbappen Internet Explorer 11. Microsoft tror att kunderna får ut det mesta av Microsoft 365 och det bästa uttrycket i en modern webbläsare när de använder [den nya Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
+- Efter **den 9 mars 2021** fortsätter appar och webbplatser som skapats för äldre Microsoft Edge att fungera i nya Microsoft Edge, men om ett kompatibilitetsproblem uppstår finns det ett löfte om [att App Assure](/fasttrack/products-and-capabilities#app-assure) ska tillhandahålla support.
+- Efter **den 17 augusti 2021** har kunderna en försämrad upplevelse eller kan inte ansluta till Microsoft 365-appar och tjänster på Internet Explorer 11. Microsoft tror att kunderna får ut det mesta av Microsoft 365 och det bästa uttrycket i en modern webbläsare när de använder [den nya Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -167,20 +167,20 @@ Kontakta [GTM-teamet för kommersiell sökning](mailto:CommercialSearchGTM@micro
 
 ____________
 
-## <a name="government-academic-and-non-profit-continuing-the-open-license-program-changes-and-evolution-of-csp"></a><a name="9"></a>Myndigheter, akademiska organisationer och ideella organisationer: Fortsättning på ändringar i open license-programmet och utvecklingen av CSP
+## <a name="government-academic-and-non-profit-continuing-the-open-license-program-changes-and-evolution-of-csp"></a><a name="9"></a>Myndigheter, akademiska organisationer och ideella organisationer: Fortsättning på förändringar av open license-programmet och utvecklingen av CSP
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-12-17
 - Utveckla verksamheten
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
 Alla CSP-partner
 
 ### <a name="details"></a>Information
 
-I dag, när vi fortsätter att prioritera för [molnet,](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/)kommer vi att informera om framtida förändringar för kunder inom den offentliga sektorn (myndigheter, utbildning och ideella organisationer) som köper genom open-licensprogrammet samt relaterade ändringar i Molnlösningsleverantör-programmet.
+I dag, när vi fortsätter att prioritera för molnet [,](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/)ger vi meddelande om framtida förändringar för offentliga sektorer (myndigheter, utbildning och ideella) kunder som köper via Open License-programmet, samt relaterade ändringar av Molnlösningsleverantör-programmet.
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -188,7 +188,7 @@ Det fullständiga meddelandet är endast tillgängligt för Microsoft-partner. [
 
 ______________
 
-## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="8"></a>Ändringar i CSP Molnlösningsleverantör(CSP) för kund-onboarding
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="8"></a>Ändringar i CSP Molnlösningsleverantör-kundernas registreringskrav
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2021-04-02
@@ -198,13 +198,13 @@ ______________
 
 Som en del av vårt åtagande att hjälpa partner och kunder att driva sin verksamhet baserat på förtroende begär vi ytterligare kundinformation från och med den 25 mars 2021.
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-CSP:s direktfaktureringspartner och indirekta leverantörer som har nya eller befintliga kunder i de länder som anges i nästa avsnitt
+CSP-direktfaktureringspartner och indirekta leverantörer som har nya eller befintliga kunder i de länder som anges i nästa avsnitt
 
 ### <a name="details"></a>Information
 
-Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för kundvalidering för att omvandla kundprenumerationer i CSP-programmet. Den 25 mars 2021 introducerar vi förbättringar av Partner Center API och användargränssnitt som påverkar partner som uppfyller båda följande kriterier:
+Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för kundvalidering för att kunna göra kundprenumerationer i CSP-programmet. Den 25 mars 2021 introducerar vi förbättringar av Partner Center API och användargränssnitt som påverkar partner som uppfyller båda följande kriterier:
 
 1. Partnern har en direkt faktureringsrelation med Microsoft (vilket innebär att partnern antingen är en partner för direktfakturering eller en indirekt leverantör).
 
@@ -226,9 +226,9 @@ Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompat
 
 Partner som uppfyller villkoren måste skicka en kunds företagsregistrerings-ID (kallas även kundens organisation INN) och telefonnummer nästa gång de uppdaterar eller skapar en prenumeration för kunden. Dessa partner kan också ange ett mellannamn för kunden (valfritt).
 
-Observera att när du lägger till ditt företagsregistrerings-ID bör du använda ditt företags skatte-ID och inte kundens personliga ID.
+Observera att när du lägger till ditt företagsregistrerings-ID bör du använda ditt företagsskatte-ID och inte kundens personliga ID.
 
-Partner som gör affärer med nya eller befintliga kunder i följande länder har redan introducerats med en tidigare version i november 2020.
+Partner som gör affärer med nya eller befintliga kunder i följande länder har redan fått en tidigare version i november 2020.
 
 - Armenien
 - Azerbajdzjan
@@ -242,14 +242,14 @@ Partner som gör affärer med nya eller befintliga kunder i följande länder ha
 - Ukraina
 - Uzbekistan
 
-Partner med kunder i resten av världen kan i slutet av mars 2021 ange företagets registrerings-ID, telefonnummer och mellannamn för kunder som valfri information.
+Partner med kunder i resten av världen kommer att ha möjlighet i slutet av mars 2021 att ange företagets registrerings-ID, telefonnummer och mellannamn för kunder som valfri information.
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Mer detaljerad vägledning finns i den tekniska dokumentationen och vanliga frågor och svar [i](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) den dedikerade partnersamlingen.
+- Mer detaljerad vägledning finns i den tekniska dokumentationen och vanliga frågor [och svar i](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) den dedikerade partnersamlingen.
 - Förbered för att införliva ändringarna med partnercenter-API:et och webbanvändarupplevelsen. API/SDK:er kommer att vara tillgängliga för testning.
 - Se till att skicka in ytterligare data när du registrera nya kunder eller ändrar befintlig kundinformation.
-- Om du använder en CPV-lösning (Kontrollpanelens leverantör) kan du kontakta din CPV.
+- Om du använder en CPV-lösning (Kontrollpanelens leverantör) bör du kontakta din CPV.
 
 ### <a name="questions"></a>Har du några frågor?
 
@@ -264,12 +264,12 @@ Om du behöver support för dina åtgärder med Microsoft öppnar du en [tjänst
 Uppdateringar den 2 april:
 
 - Startdatum har angetts
-- Rubrik för organisations-INN har uppdaterats till Id för företagsregistrering
-- Kommentar har lagts till för att ge förtydligande för företagsregistrerings-ID
+- Rubriken för organisations-INN har uppdaterats till Företagsregistrerings-ID
+- Kommentar har lagts till för att förtydliga id:t för företagsregistrering
 
 ______________
 
-## <a name="reminder-perpetual-software-in-the-cloud-solution-provider-csp-program-broadly-available-from-january-2021"></a><a name="7"></a>Påminnelse: Beständig programvara i CSP Molnlösningsleverantör programmet (CSP) är allmänt tillgängligt från januari 2021
+## <a name="reminder-perpetual-software-in-the-cloud-solution-provider-csp-program-broadly-available-from-january-2021"></a><a name="7"></a>Påminnelse: Permanent programvara i Molnlösningsleverantör(CSP) är allmänt tillgängligt från januari 2021
 
 ### <a name="categories"></a>Kategorier
 
@@ -278,28 +278,28 @@ ______________
  
 ### <a name="summary"></a>Sammanfattning
 
-Det här är en påminnelse om att alla CSP-partner från och med den 19 januari 2021 kommer att kunna sälja kommersiella beständiga programvarulicenser. Vi introducerar också nya produkter och geografiska områden.
+Det här är en påminnelse om att alla CSP-partner från och med den 19 januari 2021 kommer att kunna sälja kommersiella permanenta programvarulicenser. Vi introducerar också nya produkter och geografiska områden.
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
 Alla CSP-partner
 
 ### <a name="details"></a>Information
 
 >[!NOTE]
->På grund av partnerfeedback omvärder vi funktionen för att uppfylla Partnercenter för att hämta programvaru- och licensnycklar för beständiga programvarubeställningar och programvarubeställningar för serverprenumeration. Den återställs till sitt tidigare tillstånd innan den tas bort den 19 januari 2021. Mer information finns i meddelandet [från mars 2021.](./2021-march.md#4)
+>På grund av feedback från partnern omvärder vi funktionen för att uppfylla Partnercenter för att få programvaru- och licensnycklar för beständiga programvarubeställningar och programvarubeställningar för serverprenumeration. Den återställs till sitt tidigare tillstånd innan den tas bort den 19 januari 2021. Mer information finns i meddelandet [från mars 2021.](./2021-march.md#4)
 
-Vi vill påminna dig om att från och med **den 19 januari 2021** kommer alla partner som registrerats i CSP-programmet att kunna sälja kommersiella beständiga programvarulicenser för lokal distribution via CSP. Detta ger kunderna den licensieringsflexibilitet som de behöver som en del av den digitala omvandlingen.
+Vi vill påminna dig om att från **och med den 19 januari 2021** kommer alla partner som registrerats i CSP-programmet att kunna sälja kommersiella beständiga programvarulicenser för lokal distribution via CSP. Detta ger kunderna den licensieringsflexibilitet som de behöver som en del av den digitala omvandlingen.
 
-Följande sker också på samma datum:
+Följande sker även på samma datum:
 
-- Listan över beständiga programvarupriser för CSP publiceras på nytt i Partnercenter. Du hittar den i **avsnittet Programvara** på sidan > Prissättning [& erbjudanden,](https://partnercenter.microsoft.com/pcv/sales) som innehåller ytterligare produkter och geografiska områden. Fullständig information finns [här](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
+- Listan över beständiga programvarupriser för CSP publiceras på nytt i Partnercenter. Du hittar den i **avsnittet Programvara** på sidan Sell > Pricing & [Offers (Säljerbjudanden)](https://partnercenter.microsoft.com/pcv/sales) som innehåller ytterligare produkter och geografiska områden. Fullständig information finns [här](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
 
-- Partnercenter-funktionen för programvaru- och licensnyckeluppfyllelse kommer att dras tillbaka – se meddelande – och partner kommer att peka kunder att använda Microsoft 365 Admin Center uteslutande för detta ändamål i framtiden. [](./2020-september.md#17) Detta säkerställer den säkraste och effektivaste upplevelsen för kunderna. Läs mer om Microsoft 365 Admin Center-programvaran genom att [läsa](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3) [översikten,](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)vanliga uppgifter och funktionerna för att [uppfylla licensnyckeln.](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
+- Funktionen för programvaru- och licensuppfyllelse i [](./2020-september.md#17) Partnercenter kommer att dras tillbaka – se meddelande – och partner kommer att peka kunder att använda Microsoft 365 Admin Center uteslutande för detta ändamål i framtiden. Detta säkerställer den säkraste och effektivaste upplevelsen för kunderna. Läs mer om Microsoft 365 Admin Center-programvaran i [översikten,](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3) [vanliga](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)uppgifter och licensfunktioner för [nyckeluppfyllelse.](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
 
 ### <a name="perpetual-software-in-csp"></a>Permanent programvara i CSP
 
-Tillägget av permanent programvara till CSP-programmet i den nya handelsupplevelsen minskar den tid och de kostnader som partner måste lägga på att hantera flera licensieringsprogram. Detta leder till förbättrade funktioner för försäljning, drift och hantering. Partner kan utöka sin verksamhet genom att erbjuda olika lösningar och hanterade tjänster med flexibiliteten att kombinera licenser och hanterade tjänster för hybridmolnmiljöer, vilket påskyndar kundernas övergång till molnet. Kunder kan i sin tur dra nytta av en förenklad metod och större flexibilitet vid köp av programvarulicenser. Den här köpprocessen är enkel att förstå, förbättrar direkt licensiering av tillgångar och har förutsägbara kostnader.
+Tillägget av permanent programvara till CSP-programmet i den nya handelsupplevelsen minskar den tid och de kostnader som partner måste lägga på att hantera flera licensprogram. Detta leder till förbättrade funktioner för försäljning, drift och hantering. Partner kan utöka sin verksamhet genom att erbjuda olika lösningar och hanterade tjänster med flexibiliteten att kombinera licenser och hanterade tjänster för hybridmolnmiljöer, vilket ytterligare påskyndar kundernas övergång till molnet. Kunder kan i sin tur dra nytta av en förenklad metod och större flexibilitet vid köp av programvarulicenser. Den här inköpsprocessen är lätt att förstå, förbättrar direkt hanteringen av licenstillgång och har förutsägbara kostnader.
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -307,21 +307,21 @@ Granska följande resurser och dela dem med relevanta kontakter i din organisati
 
 - [CSP Permanent programvaruprodukter och geografiska områden som](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf) läggs till den 19 januari 2021
 
-- Microsoft 365 Admin Översikt [över](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)Center, [vanliga uppgifter](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)och funktioner för att uppfylla [licensnyckel](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
+- Microsoft 365 Admin Översikt [över Center,](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3) [vanliga uppgifter](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)och funktioner för att uppfylla [licensnyckel](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
 
-- [Expandera affärsmöjligheter för partner i Molnlösningsleverantör](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) (partnermeddelande)
+- [Expandera affärsmöjligheter för partner i Molnlösningsleverantör -programmet](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) (partnermeddelande)
 
-- [Permanent programvara i](https://partner.microsoft.com/resources/collection/software-in-csp#/) Molnlösningsleverantör-programberedskapsmaterial, inklusive en översiktspresentation, licensvägledning, vanliga frågor och svar om partner, webbseminor om drift och teknik (SDK/API) och många fler användbara resurser. Använd [beredskapskartan](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) för att snabbt hitta rätt information för din roll.
+- [Permanent programvara i Molnlösningsleverantör-programberedskapsmaterial,](https://partner.microsoft.com/resources/collection/software-in-csp#/) inklusive en översiktspresentation, licensvägledning, vanliga frågor och svar om partner, webbseminor om drift och teknik (SDK/API) och många fler användbara resurser. Använd [beredskapskartan](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) för att snabbt hitta rätt information för din roll.
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du vill ha fler frågor om dessa erbjudanden kan du läsa dina Yammer communityn.
+Om du har fler frågor om dessa erbjudanden kan du kontrollera dina Yammer communityn.
 
 ### <a name="change-log"></a>Ändringslogg:
 
 - 17 december 2020: Ursprunglig publikation 
 
-- 5 mars 2021: Anteckning har lagts till längst upp om återställning av partnercenters funktioner för programvaru- och licensnyckeluppfyllelse.
+- 5 mars 2021: Kommentar har lagts till längst upp angående återställning av Partner Center-program och licensnyckeluppfyllelse.
 
 ______________
 
@@ -332,15 +332,15 @@ ______________
 - Datum: 2020-12-17
 - Funktioner
  
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
 Direktfakturering, indirekta leverantörer och partner på flera nivåer som deltar i Molnlösningsleverantör (CSP).
 
 ### <a name="details"></a>Information
 
-I enlighet med din Microsoft-partneravtal (se avsnittet Online services **and Software Channel Authorization –** Meddelande om ändringar – ändringar i guiderna ) meddelar Microsoft dig att auktoriseringsguiden för onlinetjänster och programvarukanal håller på att uppdateras. 
+I enlighet med din Microsoft-partneravtal (se avsnittet Online Services and Software Channel Authorization – Notice **of Changes – Changes to the Guides**) meddelar Microsoft dig att auktoriseringsguiden för Online Services och Software Channel håller på att uppdateras. 
 
-En förhandsgranskning av den uppdaterade guiden [finns här,](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-jan-pdf)med en röd linje som anger ändringar [som är tillgängliga här.](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-jan-redline-pdf) Den här uppdateringen börjar gälla 30 dagar från datumet för det här meddelandet. det krävs ingen ytterligare åtgärd från dig just nu.
+En förhandsgranskning av den uppdaterade guiden [finns här,](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-jan-pdf)med en omradering som anger ändringar [som är tillgängliga här](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-jan-redline-pdf). Den här uppdateringen börjar gälla 30 dagar från datumet för det här meddelandet. det krävs ingen ytterligare åtgärd från dig just nu.
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -355,20 +355,20 @@ ______________
 - Datum: 2020-12-16
 - Erbjudanden/marknader
 
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Alla partner som gör en Molnlösningsleverantör (CSP)-programmet
+Alla partner som gör en Molnlösningsleverantör via CSP-programmet
 
 ### <a name="details"></a>Information
 
-Power Apps Kampanjerbjudandet som ursprungligen planerades för 1 december 2020 fördröjdes något. Erbjudandet ska vara tillgängligt den 16 december 2020. Det här erbjudandet är tillgängligt till ett reducerat pris och har andra märkbara skillnader jämfört med vanliga erbjudanden i Partnercenter.
+Power Apps Kampanjerbjudandet som ursprungligen planerades för 1 december 2020 fördröjdes något. Erbjudandet ska vara tillgängligt den 16 december 2020. Det här erbjudandet är tillgängligt till ett reducerat pris och har andra märkbara skillnader jämfört med typiska erbjudanden i Partnercenter.
  
 **Erbjudandeinformation**
 
 - Erbjudandet kommer att vara tillgängligt för köp fram till den 30 juni 2021.
 - Erbjudandet är en period på 12 månader till ett reducerat pris, precis som andra CSP-erbjudanden.
-- Det här erbjudandet kommer inte att på nytt automatiskt och upphör att gälla i slutet av 12-månadersperioden. Inledningsvis anges den nya egenskapen automatiskt till **Sant,** men detta ändras så att erbjudandet upphör att gälla i slutet av erbjudandets 12-månaders period.
-- Partner måste köpa det prisinköpta erbjudandet (erbjudande-ID: 5e1087b6-246b-4503-b88a-b60bdf0b3840) före förfallodatumet på 12 månader om de vill fortsätta använda de tjänster som tillhandahålls av det första kampanjerbjudandet.
+- Det här erbjudandet kommer inte att bli nytt automatiskt och upphör att gälla i slutet av 12-månadersperioden. Ursprungligen anges egenskapen autorenew till **Sant,** men detta ändras så att erbjudandet upphör att gälla i slutet av erbjudandets 12-månaders period.
+- Partner måste köpa det prisinköpta erbjudandet (erbjudande-ID: 5e1087b6-246b-4503-b88a-b60bdf0b3840) innan 12-månaders förfallodatumet om de vill fortsätta använda de tjänster som tillhandahålls av det första kampanjerbjudandet.
 
 **Prisinformation**
 
@@ -376,16 +376,16 @@ Prisinformationen för erbjudandet nedan för det här erbjudandet finns i prisl
 
 - Visningsnamn för erbjudande: Power Apps uppflyttning per appplan (200 platser min)
 - Erbjudande-ID: 988b7b06-e034-4b3e-89ea-51198cb2723e
-- Licensavtalstyp: Företag
+- Typ av licensavtal: Företag
 - Inköpsenhet: 1 månad
 - Sekundär licenstyp: ICKE-SPECIFIK
-- Listpriser: Listpriser kan laddas ned från den [här platsen.](https://partnercenter.microsoft.com/pc/api/cms/rtdownload?id=sales/RE4Lr1n) Obs! Du måste vara inloggad i Partnercenter för att ladda ned priserna. Om du inte är inloggad i Partnercenter visas ett **felmeddelande om att du inte har** statusen Obehörig.
-- ERP-pris: Inte tillgängligt än, leta efter erbjudandets ERP i nästa uppdatering av prislistan för januari 2021-01-01
+- Listpriser: Listpriser kan laddas ned från [den här platsen.](https://partnercenter.microsoft.com/pc/api/cms/rtdownload?id=sales/RE4Lr1n) Obs! Du måste vara inloggad i Partnercenter för att ladda ned priserna. Om du inte är inloggad i Partnercenter visas ett **felmeddelande om att du inte har statusen** Obehörig.
+- ERP-pris: Inte tillgängligt ännu, leta efter erbjudandets ERP i nästa uppdatering av prislistan för januari 2021-01-01
 - Material-ID: SEQ-00016
  
 **Erbjudandeinformation**
 
-Erbjudandeinformationen nedan för det här erbjudandet finns i erbjudandelistans matris för januari 2021.
+Erbjudandeinformationen nedan för det här erbjudandet kommer att finnas i erbjudandelistan för januari 2021.
 
 - Etablerings-ID: POWERAPPS_PER_APP
 - Varaktighet: 1 år
@@ -393,11 +393,11 @@ Erbjudandeinformationen nedan för det här erbjudandet finns i erbjudandelistan
 - Minsta antal platser: 200
 - Maximalt antal platser: 10000000
 - Erbjudandegräns: Ingen
-- Tillåtna länder: U.S. Outlying Islands, English (Franska sydterritorier), Bouvet Island, British Ocean Territory,Ffer, Heard And Mc Grupp islands, Wallis ochCeptuna, Vanuatu, Antarktis, Tulelu,Ffer, Tokelau, Sierra Sierra Sierrae, Swturland, St Fel, Ascension, Tristan da Cunha, SÉ£o TomCHA© och PrUlencipe, Pitcairn Islands,Uleås, Na opera, Niue, Nortrapp Island, Mauritania, Northern Mariana Islands,  Lesotho, Kiroteti, Equatorial Guinea, Guinea-Bissau, Cooköarna, Arch, Julön, Burkina Faso, Centralafrikanska republiken, Sydkorea, Kerelingöarna (Keeling),Styrkebard och Jan Mayen, Â... landöarna, Sydsudan, Sydsudan och Sydsandgåsöarna, Samoa, Saint BarthÉ©lemy, British Virgin Islands, Saint Pierre och Miquelon, Peter, Niger, Montserrat, Guyana, Guyana, Gambia, Gambia, Guinea, Guinea, Grenada, Grenada,Griernsey, Micronesia, Antallandsöarna,Tika, Djibouti,Led, Torabiska (DRC), Felfrid, American Samoa, Elf, Sydafrika, Mayotte, Vietnam, Saint Kata Depå och Grenaderna,  U.S. Virgin Islands, Jungfru, Islands See (Vatikan city), Anda, Uganda, Uganda, USA,Åda, Timor-Leste, Turkmenistan, Trinidad och Tobago,Järt, Tong, Timor-Leste, Turkmenistan,Utfärdare, Togo, ElIken, Sint Maarten, Turks och Caicosöarna, Suriname, Singapore, Detaa, SanTur, Eta, Skås,© Sköva, Eta, 16, 10, 200 000, 200 000  Jenterritoriet, bebodd, dår,Virtgriet, Oman,Feren,Feren, Mockaa, Auckland, New Caledonia, Franska Polynesien, Nya Zeeland, Oman,Feren, Nederländerna,Ferensen, Moçambique, Malaysia, Martinique, Malawi, Rangeus, Begär, Fela SAR, Ock, Ock, Marshallöarna, f.d. Republiken, Saint Martin, IoT,Arda, Ardas, Åsa  Sri Sri, Caymanöarna,Utfärdare, Hpa, IaA, Docka, Korea, Comffers, Pål, Saint Kitts och Nevis, Start, Kyrgyzstan, Japan,Dling, List, Fall, Italien, Pål, Irland, India, Indonesia, Isle of Man, Anten, FäreÖarna, United Kingdom,Skapa Sar sar, Tor, Torde, 10, 16, 10, 10, 10, 10, 10, 10, 10, 10, 100, 10, 10, 10, 16, 100 100 000  CuraA, Republic Republic, Germany, Cur, Cur, Tjeckiska republiken, CuraO,ao, Cape Cape Cape,Istan, Argentina, Cameroon,Tryk, CÉ'te dâ€™Ivoire, Canada, Schweiz,Tele, Bon, Botswana,Tur, Bon, Boninen, Sint Eustatius ochIvia, Brasilien, Benin, Brownei, Bermuda, Bermuda, Truur, 16, 10, 10, 10, 10, 10, 10, 10, 10, 10, 20 000  Iaa, Anguilla, Peter, United Island, Antigua och Barbuda
+- Tillåtna länder: U.S. Outlying Islands, English (French Southern Territories), Bouvet Island, British Ocean Territory, Mauritania, Vanuatu, Antarktis, Tulelu, Accent, Tokelau, SierraHake, Swturland, StHaka, Ascension, Tristan da Cunha, SÉ&a TomÜ© and PrUlencipe, Pitcairn Islands, Madeirau, Islands Nang, Niue, Nortrapp Island, Mauritania, Northern Mariana Islands,  Lesotho, Kireliti, Equatorial Guinea, Guinea-Bissau, Cooköarna, Kerten, Julönerön, Burkina Faso, Centralafrikanska republiken,Kokesöarna (Keeling),Styrkebard- och Jan Mayen,... landöarna, Sydsudan, Sydsudan och Sydsandsöarna, Samoa, Saint BarthÉ©lemy, British Virgin Islands, Saint Pierre och Miquelon, Pierre, Niger, Montserrat, Guyana,Rottbia, Gambia, Guinea, Guinea, Grenada, Grenada,Stim, Guernsey, Micronesia,Evilandöarna, Moba, Djibouti, Republiken, Kongo (DRC),Print, American Samoa, Ocean, Sydafrika, Mayotte, Vietnam, Saint Saint SaintAda och Grenaderna,  U.S. Virgin Islands, Uganda, Islands See (Vatikanstad), Anda, Uganda, Uganda, USA,Ådr,Istan, Taiwan, Trinidad och Tobago, Varke, Färjen, Tong, Timor-Leste, Turkmenistan,Stegikistan, Thago, ElSteg, Sint Maarten, Turks- och Caicosöarna, Suriname, Singapore, Malaysia, SanIstan,Utfärdare, Schweiz, Skövlar, Taiwan©, 1666, 1666, 1966, 1966, 1966, 1996  Ryssland, bebodd, frankrike,Virtens, Oman,Ferena, Mocka, Mocka, New Guinea, Franska Polynesien, Nya Zeeland, Oman, Nederländerna, Nederländerna,Inen, New Caledonia,Istan, Moçambique, Malaysia, Mexico, Martinique, Malawi, Malawi, 1666,10, 1966, 1950, 1966, 1966, 1966, 1996  Sri Island, Caymanöarna, Island, Mocka, Engman, Mocka, Korea, Comachs, Påve, Saint Kitts och Nevis, Mock, Kyrgyzstan, Japan, Korea, Korea, Italien, Entitet, Irland, Indien, Indonesien, Isle of Man, Israel, Israel, Hong Kong SAR, Sar,Ande, Pål,Leda, Jamdeloupe, Franska Guiana, Grönland, Färöarna, Färöarna, United Kingdom,Anten, France,Skap, IoT, IoA, IoT, m.m.,  CuraA,AO, CuraA,Dorrea, CuraAo, CuraA Cape Cape Cape,Ada, Sydney, Cameroon, Cape, CÉ'te dâ°™Ivoire, Canada, Schweiz, Cape, Botswana, Chuswana, Bon, Bonair, Sint Eustatius och Saba, Brasilien, Benin, Brownei, Bermuda, Tabb, Tabb, 16, 10, 10, 10, 10, 10, 10, 10, 10, 100 000  Iaa, Anguilla, Antivirus, Förenade Arabemiraten, Antigua och Baruda
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Kampanjerbjudandet blir tillgängligt i den officiella CSP Partner Center-prislistan och erbjudandelistan från den 1 januari 2021.
+- Kampanjerbjudandet kommer att vara tillgängligt i den officiella listan över CSP Partner Center-licensbaspriser och matriser för erbjudandelistan från den 1 januari 2021.
 
 ______________
 
@@ -408,13 +408,13 @@ ______________
 - Datum: 2020-12-8
 - Funktioner
 
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
 Direktfaktureringspartner och indirekta leverantörer som deltar i CSP-programmet som använder Partner Center .NET SDK.
 
 ### <a name="details"></a>Information
 
-Från och med december 08 2020 kan partner börja ladda ned versionen av [MicrosoftPartnerCenter.NETSDK (NuGet-| Microsoft.Store.PartnerCenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3), tillsammans med uppdaterade offentliga Partnercenter-SDK [GitHub exempel](https://github.com/Microsoft/Partner-Center-DotNet-Samples). Den här versionen innehåller uppdateringar av följande metoder:
+Från och med december 08 2020 kan partner börja ladda ned versionen [av MicrosoftPartnerCenter.NETSDK (NuGet-| Microsoft.Store.PartnerCenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3), tillsammans med uppdaterade offentliga Partnercenter-SDK [GitHub exempel](https://github.com/Microsoft/Partner-Center-DotNet-Samples). Den här versionen innehåller uppdateringar av följande metoder:
  
 **SelfServePolicies – nya funktioner har lagts till**
 
@@ -439,7 +439,7 @@ Från och med december 08 2020 kan partner börja ladda ned versionen av [Micros
 
 ______________
 
-## <a name="december-2020-license-based-price-list-release-notes"></a><a name="3"></a>Versionsanteckningar för licensbaserad prislista december 2020
+## <a name="december-2020-license-based-price-list-release-notes"></a><a name="3"></a>Information om licensbaserad prislista december 2020
 
 ### <a name="categories"></a>Kategorier
 
@@ -448,19 +448,19 @@ ______________
 
 ### <a name="summary"></a>Sammanfattning 
 
-Det finns några problem med den licensbaserade prislistan och erbjudandelistematrisen för december 2020.
+Matrisen för licensbaserad prislista och erbjudandelista för december 2020 har några problem.
 
-### <a name="impacted-audience"></a>Målgrupp som påverkas 
+### <a name="impacted-audience"></a>Målgruppen som påverkas 
 
-Alla partner som gör en Molnlösningsleverantör (CSP)-programmet
+Alla partner som gör en Molnlösningsleverantör via CSP-programmet
 
 ### <a name="details"></a>Information
 
-De licensbaserade prislistorna i december och matrisfilerna för erbjudandelistan innehåller några avvikelser. Dessa problem gäller endast licensbaserade prisfiler och bör korrigeras i uppdateringarna från januari 2021.
+De licensbaserade prislistorna i december och matrisfilerna för erbjudandelistan innehåller några avvikelser. De här problemen gäller endast licensbaserade prisfiler och bör korrigeras i uppdateringarna för januari 2021.
 
 #### <a name="incorrect-offers-in-the-license-based-price-list"></a>Felaktiga erbjudanden i den licensbaserade prislistan
 
-Licensbaserade prislistor för december innehåller nedanstående erbjudanden som inte ska finnas i prislistorna. Dessa erbjudanden inkluderades tidigare i prislistorna med fel och borde inte ha publicerats. Det finns inget schema för när dessa erbjudanden kan vara tillgängliga. Om de läggs tillbaka i framtiden kommer de att listas som ADD:er i framtida prislistor för förhandsversioner.
+De licensbaserade prislistorna för december innehåller nedanstående erbjudanden som inte ska finnas i prislistorna. Dessa erbjudanden ingick tidigare i prislistorna med fel och borde inte ha publicerats. Det finns inget schema för när dessa erbjudanden kan vara tillgängliga. Om de läggs tillbaka i framtiden kommer de att listas som ADD:er i framtida prislistor för förhandsversioner.
 
    |**Erbjudandets namn**|**Erbjudande-ID**|
    |-------------------|:------|
@@ -482,7 +482,7 @@ Nedanstående erbjudanden fanns i erbjudandelistans matris med fel. De är inte 
 
 #### <a name="powerapps-offer"></a>Powerapps-erbjudande
 
-Det här erbjudandet inkluderades i matrisen med erbjudandelistor men inte i prislistan för december. Erbjudandet är tillgängligt och priserna finns i filen med föregående månads prislista för november. Det här erbjudandet bör läggas till i prislistan för januari.
+Det här erbjudandet ingick i matrisen för erbjudandelistan men inte i prislistan för december. Erbjudandet är tillgängligt och priserna finns i filen med föregående månads prislista för november. Det här erbjudandet bör läggas till i prislistan för januari.
 
    |**Erbjudandets namn**|**Erbjudande-ID**|
    |-------------------|:------|
@@ -511,11 +511,11 @@ Den 1 januari 2021 kommer Microsoft att börja övergå till ett nytt erbjudande
 
 ### <a name="impacted-audience"></a>Målgrupp som påverkas 
 
-Alla partner som gör en Molnlösningsleverantör (CSP)-programmet
+Alla partner som gör en transacting via Molnlösningsleverantör-programmet (CSP)
 
 ### <a name="details"></a>Information
 
-Microsoft ersätter det befintliga Business Voice-erbjudandet med samtalsplanen i USA med ett nytt erbjudande för att stödja interna krav för Telco-produkter. Det nya erbjudandet har samma funktionsuppsättning och prissättning. Erbjudandeändringarna är interna för Microsoft och bör inte påverka hur CSP-partner marknadsför, säljer eller stöder erbjudandet Business Voice med samtalsplan. Ändringen gäller endast för det här erbjudandet.
+Microsoft ersätter det befintliga Business Voice-erbjudandet med samtalsplan i USA med ett nytt erbjudande för att stödja interna krav för Telco-produkter. Det nya erbjudandet har samma funktionsuppsättning och prissättning. Erbjudandeändringarna är interna för Microsoft och bör inte påverka hur CSP-partner marknadsför, säljer eller stöder erbjudandet Business Voice med samtalsplan. Ändringen gäller endast för det här erbjudandet.
 
 För ny försäljning använder du det nya erbjudandet från och med den 1 januari 2021. Det gamla erbjudandet ersätts av det nya erbjudandet i prislistan.
 
@@ -577,7 +577,7 @@ Microsoft förbehåller sig rätten att granska status för en kund eller föres
 
 ### <a name="next-stepsadditional-resources"></a>Nästa steg/ytterligare resurser
 
-- Granska den nya partnercentrets Användargränssnitt, API-ändringar och Guide i operationsberedskapsresurserna: Förbättringar av kundvalideringsprocessen i [Partnercenter Education](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) 
+- Granska de nya partnercenterresurserna Användargränssnitt, API-ändringar och Guide i operationsberedskapsresurserna: Förbättringar av kundvalideringsprocessen i [Partnercenter Education](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) 
 
 - Se till att din organisation är bekant med [användarkraven för Academic Qualified Education.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) 
 

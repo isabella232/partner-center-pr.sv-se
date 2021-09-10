@@ -9,22 +9,22 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: d369f558412f89fab92201ec21cae363e87a555e4ab6e31a32a52a33f429cf7e
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: c773d21f5e19bdb9712ed7a5d62061187d83281f
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115692524"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960193"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Samarbeta med indirekta återförsäljare i programmet Cloud Solution Provider
 
-**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Administratörsagent | Försäljningsagent
+**Lämpliga roller:** Globala | Administratörsbehörighet för användarhantering | Administratörsagentens | Försäljningsagent
 
 Med en sådan komplex och snabbt föränderlig teknikmarknad vill kunderna ha den konkurrens som tekniklösningarna kan ge dem. I ett sådant klimat är det klokt för partner att investera i partner-till-partner-engagemang för att utöka erbjudanden och göra det möjligt för kunder att göra ännu mer.
 
 Nya återförsäljare kommer ut på marknaden och söker sätt att erbjuda sina lösningar till kunder utanför deras marknader och platser. Som etablerad teknikleverantör är du väl positionerad att vara deras väg till marknaden. Samarbeta med indirekta återförsäljare i Molnlösningsleverantör-programmet (CSP) för att ansluta till andra partner, få nya lösningar på marknaden och påskynda kundernas implementering av molntjänster.
 
-I modellen med indirekt leverantörsåterförsäljare (två nivåer) samarbetar du med indirekta återförsäljare för att erbjuda Microsofts molnlösningar till kunder. Du köper produkter och prenumerationer direkt från Microsoft och erbjuder sedan dessa lösningar till kunder via dina återförsäljare.
+I modellen med indirekta leverantörer och återförsäljare (två nivåer) samarbetar du med indirekta återförsäljare för att erbjuda Microsofts molnlösningar till kunder. Du köper produkter och prenumerationer direkt från Microsoft och erbjuder sedan dessa lösningar till kunder via dina återförsäljare.
 
 Som indirekt leverantör använder du Partnercenter för att:
 
@@ -36,7 +36,7 @@ Som indirekt leverantör använder du Partnercenter för att:
 
 - Hantera dina relationer med Microsoft, kunder och indirekta återförsäljare på ett och samma ställe
 
-Information om vad som krävs för att delta i CSP-programmet som en indirekt återförsäljare finns i [Kom igång](https://partner.microsoft.com/membership/cloud-solution-provider/) som en indirekt återförsäljare [på Microsoft Partner Network webbplats.](https://partner.microsoft.com)
+Information om vad som krävs för att delta i CSP-programmet som en indirekt återförsäljare finns i [Kom igång](https://partner.microsoft.com/membership/cloud-solution-provider/) som en indirekt återförsäljare [på Microsoft Partner Network webbplats](https://partner.microsoft.com).
 
 ## <a name="indirect-provider-tasks-in-the-partner-center"></a>Uppgifter för indirekt leverantör i Partner Center
 
@@ -56,7 +56,7 @@ Slutför följande steg för att upprätta och hantera ditt partnerskap med indi
 
    - Upprätta återförsäljarrelationer med befintliga kunder
 
-När du har slutfört de här stegen kan du hantera dina återförsäljarpartners på sidan **Indirekta återförsäljare** från menyn **i Partnercenter.**
+När du har slutfört de här stegen kan du hantera dina återförsäljarpartner på sidan **Indirekta återförsäljare** från **partnercentermenyn.**
 
 > [!IMPORTANT]
 > Innan du kan börja arbeta med återförsäljare måste de registreras som indirekta återförsäljare i CSP-programmet och ha Partner Center-konton. Peka dina återförsäljare till [Partner med indirekta leverantörer i CSP för](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) information om registrering i CSP.
@@ -65,7 +65,7 @@ När du har slutfört de här stegen kan du hantera dina återförsäljarpartner
 
 Om du vill interagera och interagera med indirekta återförsäljare i Partnercenter måste du upprätta ett samarbete med dem. Genom att ha ett samarbete med en indirekt återförsäljare kan du och återförsäljaren båda betjäna vanliga kunder.
 
-För att upprätta ett partnerskap skickar du ett partnerskapsbegäran till återförsäljaren via e-post. Se till att ha återförsäljarens e-postadress till hands innan du börjar.
+För att upprätta ett partnerskap skickar du en begäran om partnerskap via e-post till återförsäljaren. Se till att ha återförsäljarens e-postadress till hands innan du börjar.
 
 På sidan med prenumerationsinformation går du till fältet Reseller (MPN ID) (Återförsäljare (MPN-ID) och lägger till den återförsäljare som du vill arbeta med. Se till att använda DET MPN-ID som är associerat med återförsäljarens partnerplatskonto som de använde för att registrera till Partnercenter. Detta säkerställer att återförsäljaren får lämpliga incitament och har en aktiv Microsoft-partneravtal att delta i transaktionen.
 
@@ -140,7 +140,7 @@ När du associerar en återförsäljare med ett nytt kundkonto delegerar du kont
 6. När du har skickat ordern visas **sidan** Bekräftelse. Under **Konfigurationsinformation** visas namnet på administratörsanvändarkontot och det tillfälliga lösenordet. Kopiera kontonamnet och lösenordsinformationen så att du kan skicka den till den nya kunden.
 
     > [!IMPORTANT]  
-    > Se till att anteckna användarkontonamnet och lösenordet eftersom du inte kan komma åt den här informationen igen när du har stäng den här sidan.
+    > Se till att anteckna användarkontonamnet och lösenordet eftersom du inte kan komma åt den här informationen igen när du har stänga den här sidan.
 
 7. Välj **Klar**. Den nya kunden visas i kundlistan som är associerad med den indirekta återförsäljaren. Återförsäljaren har nu administratörsåtkomst till kundens kontoinformation och prenumerationer och kan hantera prenumerationerna för kundens räkning.
 
@@ -158,7 +158,7 @@ När kunder vill köpa nya prenumerationer, uppgradera befintliga eller köpa yt
 
 5. De nya prenumerationerna visas i kundens prenumerationslista.
 
-6. Om du vill att återförsäljaren ska hantera förfrågningar om kundsupport för den nya prenumerationen väljer du prenumerationen och sedan återförsäljaren från **kontaktlistan för utsedd support.** 
+6. Om du vill att återförsäljaren ska hantera kundsupportbegäranden för den nya prenumerationen väljer du prenumerationen och väljer sedan återförsäljaren från **kontaktlistan för avsedd support.** 
 
 7. Välj **Skicka** när du är klar.
 

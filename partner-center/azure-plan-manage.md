@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 14dc31f11a63520c06ee0c7c7b0a9d3830e652efd4ad75d00d7997f032af7252
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: ce0eaa6a4ec04dc514b241b7f90bf32dd3106e41
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115690364"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959916"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Hantera prenumerationer och resurser under Azure-planen
 
@@ -40,12 +40,12 @@ Microsoft rekommenderar att användarna har den lägsta behörighet de behöver 
 
 I följande tabell visas de metoder som används för att associera ditt partner-ID med olika RBAC-åtkomstalternativ.
 
-|**Kategori**   |**Scenario**   |**MPN ID-association**|
+|**Kategori**   |**Scenario**   |**MPN-ID-association**|
 |-----------------|:------------------------|:------------------|
-|Aobo   |CSP direkt partner eller indirekt leverantör skapar prenumerationen för kunden som gör CSP direkt partner eller indirekt provider standardägare för prenumerationen med hjälp av AOBO. CSP-direkt partner eller indirekt leverantör ger indirekt återförsäljare åtkomst till prenumerationen med hjälp av AOBO.|Automatiskt (inget partnerarbete krävs)|
+|AOBO   |CSP-direktpartner eller indirekt leverantör skapar prenumerationen för kunden som gör CSP-direktpartnern eller den indirekta providern till standardägare för prenumerationen med hjälp av AOBO. CSP-direkt partner eller indirekt leverantör ger indirekt återförsäljare åtkomst till prenumerationen med hjälp av AOBO.|Automatiskt (inget partnerarbete krävs)|
 |Azure Lighthouse|Partner skapar ett nytt [erbjudande för hanterade tjänster på Marketplace.](/azure/lighthouse/concepts/managed-services-offers) Det här erbjudandet accepteras i CSP-prenumerationen och partnern får åtkomst till CSP-prenumerationen.|Automatiskt (inget partnerarbete krävs)|
-|Azure Lighthouse|Partner distribuerar [ARM-mall i](/azure/lighthouse/how-to/onboard-customer) En Azure-prenumeration|Partnern måste associera MPN-ID:t med användaren eller tjänstens huvudnamn i partnerklientorganisationen. Mer information finns i [Länka Partner-ID](/azure/billing/billing-partner-admin-link-started).|
-|Katalog- eller gästanvändare|Partnern skapar en ny användare eller tjänstens huvudnamn i kundkatalogen och ger användaren åtkomst till CSP-prenumerationen. Partner skapar en ny användare eller tjänstens huvudnamn i kundkatalogen. Partner lägger till användaren i en grupp och ger åtkomst till CSP-prenumerationen till gruppen.|Partnern måste associera MPN-ID:t med användaren eller tjänstens huvudnamn i kundens klientorganisation. Mer information finns i [Länka Partner-ID](/azure/billing/billing-partner-admin-link-started).|
+|Azure Lighthouse|Partner distribuerar [ARM-mall i](/azure/lighthouse/how-to/onboard-customer) En Azure-prenumeration|Partnern måste associera MPN-ID:t med användarens eller tjänstens huvudnamn i partnerklientorganisationen. Mer information finns i [Länka Partner-ID](/azure/billing/billing-partner-admin-link-started).|
+|Katalog- eller gästanvändare|Partnern skapar en ny användare eller tjänstens huvudnamn i kundkatalogen och ger användaren åtkomst till CSP-prenumerationen. Partner skapar en ny användare eller tjänstens huvudnamn i kundkatalogen. Partnern lägger till användaren i en grupp och ger åtkomst till CSP-prenumerationen till gruppen.|Partnern måste associera MPN-ID:t med användarens eller tjänstens huvudnamn i kundens klientorganisation. Mer information finns i [Länka Partner-ID](/azure/billing/billing-partner-admin-link-started).|
 
 ## <a name="confirm-that-you-have-admin-access"></a>Bekräfta att du har administratörsåtkomst
 
@@ -53,7 +53,7 @@ Du behöver administratörsåtkomst för att hantera kundens tjänster och för 
 
 - Granska filen för daglig användning – Detta kan fastställas genom att granska enhetspriset och det effektiva enhetspriset i filen för daglig användning och bekräfta om en rabatt tillämpas. Om du får rabatten är du administratör.
 
-- Skapa en Azure Monitor-avisering – Du kan [](/azure/azure-monitor/platform/alerts-activity-log) skapa en Azure Monitor aktivitetsloggavisering som ska meddelas om när din RBAC-åtkomst tas bort från CSP-prenumerationen.
+- Skapa en Azure Monitor-avisering – Du kan [](/azure/azure-monitor/platform/alerts-activity-log) skapa en Azure Monitor aktivitetsloggavisering för att få ett meddelande om när din RBAC-åtkomst tas bort från CSP-prenumerationen.
 
 ### <a name="create-an-azure-monitor-alert"></a>Skapa en Azure Monitor-avisering
 
@@ -75,13 +75,13 @@ Kunder kan hantera åtkomst till sina prenumerationer genom att **gå Access Con
 
 - Använd åtkomst som tillhandahålls via [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/).
 
-Rollbaserad åtkomst skiljer sig från administratörsåtkomst. Roller avgränsar exakt vad du kan och inte kan göra. Administratörsåtkomst är bredare.
+Rollbaserad åtkomst skiljer sig från administratörsåtkomst. Roller avgränsar exakt vad du kan och inte kan göra. Administratörsåtkomsten är bredare.
 
 Om du vill se vilka roller som är berättigade till PEC läser du [Roller och behörigheter för partnerns intjänade kredit](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QuW2).
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Återkalla och omvärderar administratörsbehörigheter för Azure CSP prenumerationer](revoke-reinstate-csp.md)
+- [Återkalla och omvärdeera administratörsbehörigheter för Azure CSP prenumerationer](revoke-reinstate-csp.md)
 
 - [Partner-intjänad kredit – översikt](partner-earned-credit.md)
 

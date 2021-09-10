@@ -1,6 +1,6 @@
 ---
 title: Massexport och import av möjligheter till säljförsäljning via Excel-/CSV-filer i referenser
-description: Lär dig hur du laddar ned, skapar eller uppdaterar möjligheter till säljförsäljning med hjälp Excel (CSV)-filer i Partnercenter
+description: Lär dig hur du laddar ned, skapar eller uppdaterar möjligheter till säljförsäljning med hjälp av Excel (CSV)-filer i Partnercenter
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-referrals
@@ -10,13 +10,13 @@ ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
 ms.openlocfilehash: 58443589d4a90b59783f84a12a920d725f74ffbc
-ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "123457879"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960273"
 ---
-# <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Massåtgärder för möjligheter till säljförsäljning med hjälp av csv-filer (kommaavgränsade värden)
+# <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Massåtgärder för möjligheter till säljförsäljning med hjälp av filer med kommaavgränsade värden (CSV)
 
 **Lämpliga roller:** Referensadministratörsroller | Referensanvändare
 
@@ -30,49 +30,49 @@ Med hjälp av massåtgärder i Partnercenter kan ditt företag exportera och imp
 Följande information beskriver exportfunktionen:
 
 - Du kan exportera högst **5 000 poster genom** att klicka på **exportknappen.**
-- De avtal som laddas ned baseras på dina åtkomstnivåer. Referensadministratörer och hänvisningsanvändare kan få olika resultat baserat på deras omfattning och inkludering som teammedlemmar i avtal. Läs mer om [referensbehörigheter.](permissions-overview.md#manage-referrals)
+- De avtal som laddas ned baseras på dina åtkomstnivåer. Referensadministratörer och hänvisningsanvändare kan få olika resultat baserat på deras omfattning och inkludering som gruppmedlemmar i avtal. Läs mer om [referensbehörigheter.](permissions-overview.md#manage-referrals)
 - Exportfunktionen tar hänsyn till den aktuella fliken på sidan möjligheter till säljförsäljning och de filter som har tillämpats.
 - En CSV-fil med alla data baserat på tillämpade filter genereras.
 - Det kan ta upp till en minut att ladda ned posterna.
 - Du behöver inte vänta tills nedladdningsåtgärden har slutförts. Även om du navigerar till andra sidor i Partnercenter hämtas filen så fort exportfunktionen har slutförts.
-- Du kan återanvända den nedladdade filen för att ändra avtalsinformationen och ladda upp för att uppdatera eventuella poster.
+- Du kan återanvända den nedladdade filen för att ändra avtalsinformationen och ladda upp för att uppdatera alla poster.
 
 ## <a name="import-co-sell-opportunities"></a>Importera möjligheter till säljsamarbete
 
-- Du kan skapa eller uppdatera **högst 1 000 poster med** hjälp av importfunktionen.
+- Du kan skapa eller uppdatera högst **1 000 poster med** importfunktionen.
 - Du kan skapa mallen från grunden genom att ladda ned mallen från sidan Importera i Partnercenter.
-- Du kan också använda funktionen Exportera för att ladda ned befintliga poster och uppdatera dem.
+- Du kan också använda exportfunktionen för att ladda ned befintliga poster och uppdatera dem.
 - Om filen har fler än 1 000 poster kan den inte bearbetas.
 - När filen har bearbetats visas en sammanfattning med antalet referenser som har skapats, uppdaterats och inte bearbetats i det senaste processfilkortet.
-- Du kan ladda ned information om bearbetade poster, åtgärda eventuella fel och ladda upp samma fil för att skapa eller uppdatera posterna som misslyckades i föregående körning. **Ta bort alla lyckade poster från filen innan du överför de korrigerade posterna som misslyckades i föregående körning.**
-- Om du vill lägga till fler lösningar lägger du till extra kolumner bredvid lösning 1 och använder kolumnnamnet som Lösning X, där X representerar antalet lösningen i avtalet. Till exempel Lösning 2, Lösning 3.
+- Du kan ladda ned information om bearbetade poster, åtgärda eventuella fel och ladda upp samma fil för att skapa eller uppdatera posterna som misslyckades i föregående körning. **Ta bort alla lyckade poster från filen innan du laddar upp de korrigerade posterna som misslyckades i föregående körning.**
+- Om du vill lägga till fler lösningar lägger du till extra kolumner bredvid lösning 1 och använder kolumnnamnet som Lösning X, där X representerar numret på lösningen i avtalet. Till exempel Lösning 2, Lösning 3.
 - Du kan lägga till upp till 50 lösningar i ett avtal.
-- Om du vill lägga till fler teammedlemmar lägger du till extra kolumner bredvid Teammedlem 1 och använder kolumnnamnet som Teammedlem X, där X representerar antalet teammedlemmen i avtalet. Till exempel Teammedlem 2, Teammedlem 3.
+- Om du vill lägga till fler gruppmedlemmar lägger du till extra kolumner bredvid Teammedlem 1 och använder kolumnnamnet som Teammedlem X, där X representerar antalet teammedlemmen i avtalet. Till exempel Teammedlem 2, Teammedlem 3.
 - Du kan lägga till upp till 50 teammedlemmar i ett avtal.
 
 > [!NOTE]
-> Du behöver inte vänta på att bearbetningen ska slutföras. Information om den senast bearbetade filen är tillgänglig för nedladdning när bearbetningen är klar. **Det kan ta upp till 10 minuter om du laddar upp filer med 1 000 poster.**
+> Du behöver inte vänta tills bearbetningen har slutförts. Information om den senast bearbetade filen blir tillgänglig för nedladdning när bearbetningen är klar. **Det kan ta upp till 10 minuter om du laddar upp filer med 1 000 poster.**
 
 > [!IMPORTANT]
-> Läs alla instruktioner noggrant och kontrollera formatet för varje kolumn i tabellen nedan innan du skapar eller uppdaterar avtal med CSV-filer i Partnercenter.
+> Läs alla instruktioner noggrant och kontrollera formatet för varje kolumn i tabellen nedan innan du skapar eller uppdaterar avtal med hjälp av CSV-filer i Partnercenter.
 
 |**Kolumnnamn**|**Är obligatoriskt?**|**Beskrivning**|**Exempelvärden**|
 |-----|:-----|:---------|:---|
-Fel|No|Fel om några relaterade till create/update-åtgärderna w.r.t till hänvisningarna inkluderas i den här kolumnen. Om det finns flera fel visas alla med semikolon.|Obligatoriskt fält Lösning 1 saknas|
-Engagemangs-ID|No|Engagemangs-ID:t genereras av Microsoft Partner Center-referenssystemet. Krävs inte för att skapa en ny referens. Du kan använda det befintliga engagemangs-ID:t om du uppdaterar en post.|f7eaae47-0b84-4ac4-b4ea-5b2587d42cee
-Hänvisningskod|No|Hänvisnings-ID genereras av referenssystemet för Microsoft Partner Center. Krävs inte för att skapa en ny referens. Fyll i det med referens-ID:t om du uppdaterar en befintlig post.|ebacdkdc-0b84-4ac4-b4ea-5b2587d42cee
-Avtalsnamn|Yes|Det egna namnet för avtalet för din referens.|Storbritannien, våravtal
+Fel|No|Fel om några relaterade till åtgärderna för att skapa/uppdatera w.r.t till hänvisningarna tas med i den här kolumnen. Om det finns flera fel visas alla avgränsade med semikolon.|Obligatoriskt fält Lösning 1 saknas|
+Engagemangs-ID|No|Engagemangs-ID:t genereras av referenssystemet för Microsoft Partner Center. Krävs inte för att skapa en ny referens. Du kan använda det befintliga engagemangs-ID:t om du uppdaterar en post.|f7eaae47-0b84-4ac4-b4ea-5b2587d42cee
+Hänvisningskod|No|Hänvisnings-ID genereras av referenssystemet för Microsoft Partner Center. Krävs inte för att skapa en ny referens. Fyll i det med hänvisnings-ID:t om du uppdaterar en befintlig post.|ebacdkdc-0b84-4ac4-b4ea-5b2587d42cee
+Avtalsnamn|Yes|Det egna namnet för avtalet för din referens.|Storbritanniens våravtal
 Kundnamn|Yes|Namnet på kundföretaget. Använd organisationens juridiska namn för snabb matchning på Microsoft-sidan.|Contoso Corporation
-Kundadressrad 1|Yes|Adressrad 1 för kundföretaget. |One Contoso Way
-Kundadress rad 2|No|Adressrad 2 i kundföretaget.|NE 148 Street
-Kundstad|Yes|Stad där kundorganisationen finns.|Redmond
+Kundadressrad 1|Yes|Adressrad 1 i kundföretaget. |One Contoso Way
+Kundadress rad 2|No|Adressrad 2 på kundföretaget.|NE 148 street
+Kundens stad|Yes|Ort där kundorganisationen finns.|Redmond
 Kundtillstånd|No|Ange var kundorganisationen finns.|Washington
-Kundpostnummer|No|Postnummer i den region där kundorganisationen finns.|98052
+Kundens postnummer|No|Postnummer i den region där kundorganisationen finns.|98052
 Kundland|Yes|Land/region där kundorganisationen finns. Använd landskoderna med två bokstäver som anges [här.]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)|USA
-Kundens D-U-N-S-ID|No|Försök att hämta DUNS-ID:t för kundorganisationen. Detta hjälper till med snabbare matchning av kundorganisationen på Microsoft-sidan, vilket hjälper till att snabbare säljartilldelning. Du kan få DUNS-ID kostnadsfritt från den här [webbplatsen.](https://www.dnb.com/duns-number/lookup.html)|81466849
+Kundens D-U-N-S-ID|No|Försök att hämta KUNDORGANISATIONENS DUNS-ID. Detta hjälper till med snabbare matchning av kundorganisationen på Microsoft-sidan, vilket hjälper till att få snabbare säljtilldelning. Du kan få DUNS-ID kostnadsfritt från den här [webbplatsen.](https://www.dnb.com/duns-number/lookup.html)|81466849
 Kundens kontakts förnamn|Beror|Förnamn är bara obligatoriskt om du behöver Hjälp från Microsoft. Förnamnet på den primära kontakten från kundorganisationen som arbetar med det här avtalet.|John
 Kundens kontakts efternamn|Beror|Efternamn är bara obligatoriskt om du behöver Microsoft-hjälp. Efternamn på den primära kontakten från kundorganisationen som arbetar med det här avtalet.|Kund
-Kundkontaktens Telefon nummer|Beror|Telefon är bara obligatoriskt om du behöver Microsoft-hjälp. Telefon den primära kontakten från kundorganisationen som arbetar med det här avtalet.|9999999999
+Kundkontaktens Telefon nummer|Beror|Telefon är bara obligatoriskt om du behöver Hjälp från Microsoft. Telefon den primära kontakten från kundorganisationen som arbetar med det här avtalet.|9999999999
 E-postadress för kundkontakt|Beror|E-postadress är bara obligatoriskt om du behöver Microsoft-hjälp. E-postadressen till den primära kontakten från kundorganisationen som arbetar med det här avtalet.|john.customer@contoso.com
 Partnerreferensstatus|Yes|Visar avtalets status ur företagets perspektiv. Krävs om du försöker skapa eller ändra en referens. Använd **Ny** om du försöker skapa ett nytt avtal. Godkända värden dokumenteras [här.](/partner/develop/referral-resources#referralstatus)|Aktiv
 Understatus för partnerreferens|Yes|Anger den exakta statusen för avtalet. Använd **Accepterad** om du försöker skapa ett nytt avtal. Det krävs också om du ändrar en befintlig referens. Godkända värden dokumenteras [här.](/partner/develop/referral-resources#referralsubstatus)|Har godkänts

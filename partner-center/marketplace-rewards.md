@@ -9,12 +9,12 @@ author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21a6ed65f5aac8d3d797b5189333a2e505ecba2179fa8f4f041af152e01a4db8
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 9765f180e60154dc1a3e9be6160157e6d4248695
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115683651"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961133"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Hantera Marketplace Rewards i Partnercenter & aktivera marknadsförings-, försäljnings- och tekniska förmåner
 
@@ -22,7 +22,7 @@ ms.locfileid: "115683651"
 
 Om du publicerar programvaruerbjudanden på vår kommersiella marknadsplats Marketplace Rewards riktad support för alla dina erbjudanden med marknadsförings-, försäljnings- och tekniska förmåner. Mer information om programmet och förmånerna finns i [Marketplace Rewards](https://aka.ms/marketplacerewards) (PPT).
 
-Marketplace Rewards berättigande beräknas baserat på alla utgivarprofiler som är länkade till PGA MPN-företaget. Om du vill kontrollera om du Marketplace Rewards för programmet går du till [partnercentersidan Marketplace Rewards sidan](https://partner.microsoft.com/dashboard/mpn/program/commercialmarketplace).
+Marketplace Rewards berättigande beräknas baserat på alla utgivarprofiler som är länkade till PGA MPN-företaget. Om du vill kontrollera om du Marketplace Rewards programmet går du till [partnercentersidan Marketplace Rewards partner.](https://partner.microsoft.com/dashboard/mpn/program/commercialmarketplace)
 
 ## <a name="sales-and-marketing-benefits"></a>Försäljnings- och marknadsföringsförmåner
 
@@ -30,7 +30,7 @@ Marketplace Rewards berättigande beräknas baserat på alla utgivarprofiler som
 
 2. Om du vill aktivera en försäljnings- och marknadsföringsförmån måste du först tilldela en företagsmarknadsföringskontakt. Den här kontakten får uppföljningskommunikation om dina Marketplace-förmåner.
 
-3. Om du vill lägga till eller uppdatera din marknadsföringskontaktinformation går du till fliken Förmåner för försäljning och marknadsföring på Marketplace Rewards och väljer sedan **Lägg till, uppdatera eller ändra**.
+3. Om du vill lägga till eller uppdatera din marknadsföringskontaktinformation går du till fliken Förmåner för försäljning och marknadsföring på Marketplace Rewards och väljer sedan Lägg **till, uppdatera eller ändra**.
 
    Gör därefter något av följande:
 
@@ -44,7 +44,7 @@ Marketplace Rewards berättigande beräknas baserat på alla utgivarprofiler som
 
 ## <a name="technical-benefits"></a>Tekniska fördelar
 
-1. Du kan använda dina tekniska fördelar för att begära teknisk hjälp under faserna för försäljning, design, distribution och apputveckling i dina moln- och hybridlösningar. Om du vill begära hjälp fyller du i formuläret för begäran och väljer **sedan Skicka begäran.**
+1. Du kan använda dina tekniska fördelar för att begära teknisk hjälp under faserna för försäljning, design, distribution och apputveckling i dina moln- och hybridlösningar. Om du vill be om hjälp fyller du i formuläret för begäran och väljer **sedan Skicka begäran.**
 
 2. Hur du använder Azure-sponsringsförmåner kommer att delas via ett e-postmeddelande när du låser upp dessa förmåner.
 

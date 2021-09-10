@@ -6,12 +6,12 @@ ms.topic: article
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 115bbb43510956805362c13f9958cf343cf2833a617ace9da3ff8d31bb2e0897
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 728b2119b6b9a80146fbe3313d7fd79c77c5dcc8
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115688643"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123936935"
 ---
 # <a name="legal-contracts"></a>Juridiska kontrakt
 
@@ -19,7 +19,7 @@ Den här artikeln beskriver olika typer av juridiska villkor och kundens medgiva
 
 ## <a name="types-of-legal-terms"></a>Typer av juridiska villkor
 
-Utgivare i Azure Marketplace tre alternativ för att presentera juridiska villkor för sina erbjudanden:
+Utgivare i Azure Marketplace alternativ för att presentera juridiska villkor för sina erbjudanden:
 
 - Microsofts juridiska standardavtal: detta sparar tid för både utgivaren och kunden eftersom kunden inte behöver verifiera och förhandla varje butiksköp.
 - Microsoft-standardavtal med ändringar: detta kan vara allmänna ändringar eller ändringar för en specifik kund (i händelse av privata erbjudanden).

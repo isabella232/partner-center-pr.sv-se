@@ -9,18 +9,18 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 2f4a1e8df4618228130e75611e451aec412f4e4a2f6614dcc465196638ff7ae5
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 2878512167bd0afa2901031bca60828685eb52c1
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115686120"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960423"
 ---
 # <a name="using-the-skills-report"></a>Använda kunskapsrapporten
 
 **Lämpliga roller:** MPN-partneradministratör | Global administratör
 
-Med kunskapsrapporten kan partner i Microsoft Partner Network utvärdera de färdigheter som slutförs av användarna i partnerföretaget. Kunskaperna i rapporten kan omfatta utvärderingar, certifieringar eller prov som har gjorts av partnerns tekniska användare. 
+Kompetensrapporten gör det möjligt för partner i Microsoft Partner Network att utvärdera de färdigheter som slutförs av användarna i partnerföretaget. Kunskaperna i rapporten kan omfatta utvärderingar, certifieringar eller prov som har gjorts av partnerns tekniska användare. 
 
 Ett partnerföretags prestationer av dessa typer av färdigheter är ett av kraven för att partnern ska uppnå silver- eller guldstatus inom en viss Microsoft-kompetens. Kompetenser används av partner för att demonstrera sina tekniska kunskaper för aktuella och nya kunder. De erbjuder också många fördelar till partner som uppnår dem. Mer information om tillgängliga kompetenser och deras fördelar finns på sidan Microsoft Partner Network [kompetenser.](https://partner.microsoft.com/membership/competencies)
 
@@ -29,7 +29,7 @@ Ditt företags MPN-partneradministratör eller global administratör kanske vill
 - Kontrollera kunskapsrapporten regelbundet för att se förloppet för användarfärdigheter mot företagets uppnåendet av en eller flera nyckelkompetenser. När en användare lämnar företaget kan du förlora relevanta kunskaper. På samma sätt kan du få vissa kunskaper när en ny användare går med.
 
 - Planera framtida kompetensutbildning så att ditt partnerföretag uppfyller kompetenskraven för en viss kompetens. På så sätt kan ditt partnerföretag skaffa sig en ny silver- eller guldkompetens eller behålla en befintlig silver- eller guldkompetens. För befintliga silver- eller guldkompetenser bör administratörerna kontrollera kompetensrapporten minst tre månader före årsdagen för kompetensen för att se om kompetensen är i riskzonen. Med den här avancerade varningen kan du ge användarna tid att skaffa sig nya kunskaper.
-- Bekräfta att alla tekniska användare i ditt företag visas i kompetensrapporten och att de snabbt har kopplat sitt Learn-konto till sitt Partnercenter-användarkonto. Senare avsnitt i den här artikeln beskriver hur du gör det.
+- Bekräfta att alla tekniska användare i företaget visas i kompetensrapporten och att de snabbt har kopplat sitt Learn-konto till sitt Partnercenter-användarkonto. Senare avsnitt i den här artikeln beskriver hur du gör det.
 
 - Samarbeta med användarna för att bekräfta att den senaste kompetensinformationen i kunskapsrapporten är korrekt. Om det behövs kan du hjälpa användarna att felsöka eventuella problem.
 
@@ -60,12 +60,12 @@ Följ de här stegen om du vill visa kunskapsrapportdata från Partnercenter.
    :::image type="content" source="images/competencies/mpn-skills-report-1.png" alt-text="Sidan Kompetenser i Partnercenter med två alternativ markerade i det övre högra hörnet." border="true":::
    - Om du vill ha en lättläst vy över kunskapsrapportdata  väljer du Prestandarapport för **kompetens,** följt av data om användarfärdigheter längst upp till vänster på rapportsidan Kompetens. 
       :::image type="content" source="images/competencies/mpn-skills-report-2.png" alt-text="Rapportsidan Kompetens i Partnercenter med alternativet Data om användarfärdigheter i det övre vänstra hörnet." border="true":::
-   - Om du vill ladda ned rapporten i kalkylbladsformat väljer **du Ladda ned kunskapsrapport.** När filen har laddats ned och öppnats visas en tabell med information om varje användares färdigheter. Kolumnerna Associerad med **PMC** och Associerad med **PC** anger om användarens färdigheter redan har associerats med deras tidigare Partner Membership Center-konto (PMC) och deras Partnercenter-konto (PC). Om du har användare som fortfarande arbetar i PMC kan du se det senare avsnittet om PMC-användare.
+   - Om du vill ladda ned rapporten i kalkylbladsformat väljer **du Ladda ned kunskapsrapport.** När filen har laddats ned och öppnats visas en tabell med information om varje användares färdigheter. Kolumnerna Associerad med **PMC** och Associerad med **PC** anger om användarens kunskaper redan har associerats med deras tidigare Partner Membership Center-konto (PMC) och deras PartnerCenter-konto (PC). Om du har användare som fortfarande arbetar i PMC kan du se det senare avsnittet om PMC-användare.
    
       :::image type="content" source="images/competencies/mpn-skills-report-3.png" alt-text="Partnercenter-kalkylblad med flera kolumner med exempeldata som visar status för användarfärdigheter." border="true":::
 
 > [!Note]
-> När en användare associerar sina "Microsoft-prov och certifieringar" eller "Microsoft-& utvärderingar" för första gången eller slutför nya färdigheter; Det kan ta upp till 72 timmar innan kunskaperna visas i kompetensrapporten. Endast färdigheter som är relevanta för kompetenser och program i Partnercenter visas i kompetensrapporten. Tillbakadragna färdigheter kan också visas i rapporten i 12 månader eller mer efter att de har dragits tillbaka. Såvida inte ett prov, en utvärdering eller en certifiering uttryckligen nämns somen del av en viss kompetenss [krav,](https://partner.microsoft.com/membership/competencies)kommer det inte att övervägas att uppfylla den kompetensen. 
+> När en användare associerar sina "Microsoft-prov och certifieringar" eller "Microsoft-& utvärderingar" för första gången eller slutför nya färdigheter; Det kan ta upp till 72 timmar innan kunskaperna visas i kompetensrapporten. Endast färdigheter som är relevanta för kompetenser och program i Partnercenter visas i kompetensrapporten. Tillbakadragna färdigheter kan också visas i rapporten i 12 månader eller mer efter att de har dragits tillbaka. Såvida inte ett prov, en utvärdering eller en certifiering uttryckligen nämns somen del av en viss kompetenss [krav,](https://partner.microsoft.com/membership/competencies)kommer det inte att övervägas för att uppfylla den kompetensen. 
 
 ## <a name="skills-report-and-pmc-users"></a>Kunskapsrapport och PMC-användare
 
@@ -73,7 +73,7 @@ Om ditt partnerföretag har flyttat sitt medlemskap från PMC till Partnercenter
 
 - "Ja" i kolumnen **Tillhörande i PMC**
 
-- "Nej" i kolumnen **Tillhörande i PC**
+- "Nej" i kolumnen **Tillhörande i** PC
  
 - Giltiga kunskaper som visas i **kolumnen Relevant för kompetenser (alternativ) eller** program
 
@@ -106,7 +106,7 @@ Om en användare har slutfört färdigheter men inte visas i kompetensrapporten 
 
 - Användaren har redan associerat sina kunskaper i Partnercenter
 
-- Användarens färdigheter ingår i en viss kompetenss krav (se i instrumentpanelen i Partnercenter eller på sidan Microsoft Partner Network kompetenser).
+- Användarens färdigheter ingår i en viss kompetenss krav (som visas på instrumentpanelen i Partnercenter eller på sidan Microsoft Partner Network kompetenser).
 
 - 72 timmar har gått sedan användaren slutförde sina färdigheter Efter 72 timmar bör MPN-kontoadministratören eller MPN-partneradministratören kontakta [Microsofts partnersupport](https://partner.microsoft.com/support)om kunskapsinformationen fortfarande inte visar att användaren har slutfört sin kompetens. Innan du kontaktar Microsofts partnersupport bör du vara beredd på att samla in och skicka följande information:
 

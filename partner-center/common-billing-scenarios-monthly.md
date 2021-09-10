@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
-description: Vanliga scenarier i Partnercenter när du använder månatlig fakturering – omfattar att lägga till nya prenumerationer, ändra licensantal och pausa prenumerationer.
+description: Vanliga scenarier i Partnercenter när du använder månatlig fakturering – omfattar att lägga till nya prenumerationer, ändra licenskvantitet och pausa prenumerationer.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f6486f391925b7b283bec6b14c93c51ede095be033a307031b20bc604a2629e5
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: dad132f9ad749076dc52a45f1ce77f23839e8671
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115682325"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960063"
 ---
 # <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Exempel på månatliga faktureringsscenarier för nya prenumerationer, ändring av licensbelopp eller indragningar
 
@@ -24,13 +24,13 @@ Dessa exempel [på vanliga faktureringsscenarier](common-billing-scenarios.md) g
 
 ## <a name="new-monthly-subscription"></a>Ny månadsprenumeration
 
-Faktureringsdatumet är den 15:e i varje månad. Den 13 januari köper du en ny prenumeration med en licens för 4 USD/månad och väljer månatlig fakturering. Licensbaserad avstämningsfil från den 15 januari innehåller följande faktureringsrader:
+Faktureringsdatumet är den 15:e i varje månad. Den 13 januari köper du en ny prenumeration med en licens för 4 USD/månad och väljer månatlig fakturering. Den 15 januari licensbaserade avstämningsfilen innehåller följande faktureringsrader:
 
 |Startdatum för avgift |Slutdatum för avgift |Avgiftstyp |Enhetspris |Kvantitet |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |1/13/2018         |2/12/2018    |Cykelavgift   |4,00       |1        |4,00 |
 
-Den 15 februari licensbaserade avstämningsfilen innehåller följande faktureringsrad:
+Licensbaserad avstämningsfil från 15 februari innehåller följande faktureringsrad:
 
 |Startdatum för avgift |Slutdatum för avgift |Avgiftstyp |Enhetspris |Kvantitet |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -38,13 +38,13 @@ Den 15 februari licensbaserade avstämningsfilen innehåller följande faktureri
 
 ## <a name="change-license-quantity"></a>Ändra licensantal
 
-Faktureringsdatumet är den 15:e i varje månad. Den 13 januari köper du en ny prenumeration med en licens för 4 USD/månad och väljer månatlig fakturering. Licensbaserad avstämningsfil från den 15 januari innehåller följande faktureringsrader:
+Faktureringsdatumet är den 15:e i varje månad. Den 13 januari köper du en ny prenumeration med en licens för 4 USD/månad och väljer månatlig fakturering. Den 15 januari licensbaserade avstämningsfilen innehåller följande faktureringsrader:
 
 |Startdatum för avgift |Slutdatum för avgift |Avgiftstyp |Enhetspris |Kvantitet |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |1/13/2018         |2/12/2018    |Cykelavgift   |4,00       |1        |4,00    |
 
-Den 1 februari ökar du din licenskvantitet från en till två. Den 15 februari licensbaserade avstämningsfilen innehåller följande faktureringsrader:
+Den 1 februari ökar du din licenskvantitet från en till två. Licensbaserad avstämningsfil från 15 februari innehåller följande faktureringsrader:
 
 |Startdatum för avgift |Slutdatum för avgift |Avgiftstyp |Enhetspris |Kvantitet |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -59,33 +59,33 @@ Det finns 19 dagar i prorationsperioden 1/13/2018 – 2018-1-31.
 
 Prorationsenhetspris = 2,451 = 19 x 0,129
 
-Det finns 12 dagar i prorationsperioden 2018-02-01-2018.
+Det finns 12 dagar i prorationsperioden 2018-02-12- 2018.
 
-Prorationsenhetspris = 1,54 = 12 x 0,129
+Pris på prorationsenhet = 1,54 = 12 x 0,129
 
 ## <a name="suspend-before-30-days"></a>Pausa före 30 dagar
 
-Faktureringsdatumet är den 15:e i varje månad. Den 13 januari köper du en ny prenumeration med en licens för 4 USD/månad och väljer månatlig fakturering. Licensbaserad avstämningsfil från den 15 januari innehåller följande faktureringsrader:
+Faktureringsdatumet är den 15:e i varje månad. Den 13 januari köper du en ny prenumeration med en licens för 4 USD/månad och väljer månatlig fakturering. Den 15 januari licensbaserade avstämningsfilen innehåller följande faktureringsrader:
 
 |Startdatum för avgift |Slutdatum för avgift |Avgiftstyp |Enhetspris |Kvantitet |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |1/13/2018         |2/12/2018    |Cykelavgift   |4,00       |1        |4,00    |
 
-Den 1 februari pausar du en prenumeration. Den 15 februari licensbaserade avstämningsfilen innehåller följande faktureringsrad:
+Den 1 februari pausar du en prenumeration. Licensbaserad avstämningsfil från 15 februari innehåller följande faktureringsrad:
 
 |Startdatum för avgift |Slutdatum för avgift |Avgiftstyp |Enhetspris |Kvantitet |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-1/13/2018|2/12/2018|Avbokningsavgift|-4.00|1|-4.00
+1/13/2018|2/12/2018|Avbryta avgift|-4.00|1|-4.00
 
 ## <a name="suspend-after-30-days"></a>Pausa efter 30 dagar
 
-Faktureringsdatumet är den 15:e i varje månad. Den 13 januari köper du en ny prenumeration med en licens för 4 USD/månad och väljer månatlig fakturering. Licensbaserad avstämningsfil från den 15 januari innehåller följande faktureringsrader:
+Faktureringsdatumet är den 15:e i varje månad. Den 13 januari köper du en ny prenumeration med en licens för 4 USD/månad och väljer månatlig fakturering. Den 15 januari licensbaserade avstämningsfilen innehåller följande faktureringsrader:
 
 |Startdatum för avgift |Slutdatum för avgift |Avgiftstyp |Enhetspris |Kvantitet |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|2/12/2018|Cykelavgift|4,00|1|4,00
 
-Den 15 februari licensbaserade avstämningsfilen innehåller följande faktureringsrad:
+Licensbaserad avstämningsfil från 15 februari innehåller följande faktureringsrad:
 
 |Startdatum för avgift |Slutdatum för avgift |Avgiftstyp |Enhetspris |Kvantitet |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -95,7 +95,7 @@ Den 1 mars pausar du prenumerationen. Licensbaserad avstämningsfil från den 15
 
 |Startdatum för avgift |Slutdatum för avgift |Avgiftstyp |Enhetspris |Kvantitet |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-3/1/2018|3/12/2018|Avbokningsavgift|-1.72|1|-1.72
+3/1/2018|3/12/2018|Avbryta avgift|-1.72|1|-1.72
 
 Månadspriset är 4,00 och det finns 28 dagar i tjänstperioden 2018-02-13– 2018-03-12. Detta motsvarar ett dagligt pris på 0,143 (4/28).
 
@@ -107,4 +107,4 @@ Därför är enhetspriset = -1,716 (12 x 0,143 x (-1)).
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Faktureringsscenarier för engångsköp och välj återkommande inköp](common-billing-scenarios-onetime-recurring.md)
+- [Faktureringsscenarier för engångsinköp och välj återkommande inköp](common-billing-scenarios-onetime-recurring.md)

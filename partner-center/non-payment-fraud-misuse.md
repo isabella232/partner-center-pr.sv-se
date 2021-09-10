@@ -9,18 +9,18 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: 54130356ae9388e78affb2e9ff19f54d9f55c64444981a82da1d29ff27fe4d39
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: f74a1c091a4c5cd838f8856152c1498f3ecd9d2b
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115696673"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961046"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Hantera icke-betalning, bedrägeri eller missbruk i Partnercenter
 
 **Gäller för**: Partner Center-| Partnercenter för Microsoft Cloud for US Government
 
-**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Administratörsagent | Faktureringsadministratör
+**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Administratörsagentens | Faktureringsadministratör
 
 Du är ekonomiskt ansvarig för bedrägliga köp av dina kunder och/eller kunders icke-betalning av köpta tjänster. Därför rekommenderar *vi starkt att du använder kontroller för bedrägeriskydd och riskreducering* för identifiering.
 
@@ -68,15 +68,15 @@ Du kan använda följande rekommendationer för att hjälpa dig att utveckla pri
 Här är några förslag på hur du kan minska onlineriskerna vid registrering av nya kunder:
 
 - Upprätta personliga relationer med kunder när det är möjligt (till exempel kontakta kunder via telefon).
-- Verifiera kundernas autentiseringsuppgifter och bakgrund med bättre metoder (till exempel genom att använda kreditkontor eller kommersiella företagsrapportorgan).
-- Använd multifaktorautentisering (till exempel SMS-verifiering) under registrering för att minimera exponeringen för skapande och inköp av robotkonto.
+- Verifiera kundernas autentiseringsuppgifter och bakgrund med hjälp av bättre metoder (till exempel genom att använda kreditkontor eller kommersiella företagsrapportorgan).
+- Använd multifaktorautentisering (till exempel SMS-verifiering) under registrering för att minimera exponeringen för att skapa och köpa robotbaserade konton.
 - Hantera och spåra identiteter med hjälp av tjänster (till exempel digitala identitetstjänster).
-- Utvärdera kundernas ekonomiska styrka genom rigorösa system för identifiering av kreditkortsbedrägerier.
-- Upprätta en princip för tydliga samlingar. Beskriva dina samlingar och när åtkomsten till prenumerationer påverkas av utebliven betalning. (Du kan inaktivera åtkomst [eller inaktivera en kunds prenumerationer vid](create-a-new-subscription.md#suspend-a-subscription) utebliven betalning.)
+- Utvärdera kundens ekonomiska styrka genom rigorösa system för identifiering av kreditkortsbedrägerier.
+- Upprätta en princip för rensade samlingar. Beskriva dina samlingar och när åtkomsten till prenumerationer påverkas av utebliven betalning. (Du kan inaktivera åtkomst [eller inaktivera en kunds prenumerationer vid](create-a-new-subscription.md#suspend-a-subscription) utebliven betalning.)
 
 ### <a name="managing-customer-accounts"></a>Hantera kundkonton
 
-Här är några förslag på hur du hanterar kundkonton efter köpet:
+Här är några förslag på hur du kan hantera kundkonton efter köpet:
 
 - Implementera en process för att snabbt ta emot, granska, agera på och svara på Microsoft-meddelanden.
 - Arbeta med kunder för att förstå deras affärsbehov för molnanvändning samtidigt som du inställningar för lämpliga tröskelvärden för övervakning. (Du kan till exempel ange [en månatlig Azure-utgiftsbudget](set-an-azure-spending-budget-for-your-customers.md) i Partnercenter. Den här förståelsen gör att du kan övervaka kundanvändningen under månaden och bli meddelad när kunderna är nära sin budget.)

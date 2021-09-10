@@ -10,11 +10,11 @@ ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 378181838841a6763130394a35c3d5a3804fa72b
-ms.sourcegitcommit: 14a1cc0c679a84f9ee6d2eec814528415195162c
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/02/2021
-ms.locfileid: "123396178"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960406"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Använd Partnercenter för att söka avancerade specialiseringar och kontrollera deras status
 
@@ -83,7 +83,7 @@ Avancerade specialiseringar som kräver kundreferenser är:
 - Information Protection och styrning
 - Molnsäkerhet
 
-Avancerade specialiseringar som inte kräver granskning eller kundreferenser är:
+Avancerade specialiseringar som inte kräver granskning eller kundreferens är:
 
 - Programutveckling med lite kod
 - Small and Midsize Business Management
@@ -107,11 +107,11 @@ Följ sedan de här stegen för att schemalägga en granskning i Partnercenter:
 4. När du uppfyller alla krav för den här avancerade specialiseringen kan du välja knappen **Schemalägg granskning på** den här sidan.
 
    - Statusen förblir Inte startad tills du uppfyller alla krav som visas på **den här sidan.** Knappen **Schemalägg granskning** förblir också inaktiverad. 
-   - När alla krav är uppfyllda tillsammans med granskningen ändras statusen till **Aktiv.**
+   - När alla krav är uppfyllda tillsammans med granskningen ändras din status till **Aktiv.**
 
 ## <a name="provide-customer-references-in-partner-center"></a>Ange kundreferenser i Partnercenter
 
-Förutom de egna förutsättningarna behöver du även ange kundreferenser för vissa *avancerade specialiseringar.* Se den tidigare listan över avancerade specialiseringar som kräver kundreferenser.
+Förutom sina egna förutsättningar måste du även ange kundreferenser för vissa *avancerade specialiseringar.* Se den tidigare listan över avancerade specialiseringar som kräver kundreferenser.
 
 Följ sedan de här stegen för att ange kundreferenser i Partnercenter:
 
@@ -139,11 +139,11 @@ Följ sedan de här stegen för att ange kundreferenser i Partnercenter:
 | Servicenivå 1 | Den högsta nivån som Azure-tjänster paketeras på (se: https://azure.microsoft.com/services/) . |
 | Servicenivå 2 | Azure-tjänster på näst högsta nivån (t.ex.: https://azure.microsoft.com/pricing/) |
 | Servicenivå 3 | Azure-tjänster på den tredje högsta nivån (t.ex. https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
-| Servicenivå 4 | Fjärde högsta nivån Azure-tjänster baserade (t.ex.: https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
+| Servicenivå 4 | Fjärde högsta nivån azure-tjänster baserade (t.ex. https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
 | Tjänstgrupp 2 | Gruppering av Azure-tjänster enligt en tjänstkategori |
 | Tjänstgrupp 3 | Gruppering av Azure-tjänster enligt en tjänstunderkategori |
 | Tjänstpåverkande | Gruppering av Azure-tjänster som är mappade till en specifik förbrukningsaktivitet |
-| Compute OS | Compute-operativsystem |
+| Beräkningsoperativsystem | Beräkningsoperativsystemet |
 | Compute Core Software | Compute Core Software |
 
 **Azure Consumption Revenue-filter för avancerad specialisering**
@@ -152,14 +152,14 @@ Följ sedan de här stegen för att ange kundreferenser i Partnercenter:
     - Azure Synapse Analytics ACR: Service Group 3 = SQL DW
 - Kubernetes på Microsoft Azure
     - Azure Kubernetes Service (AKS) ACR: Service Influencer = AKS , AKS-Engine
-    - Azure RedHat OpenShift ACR: Service Group 3 = ARO, Service Level 2 = All except "Unknown"
+    - Azure RedHat OpenShift ACR: Service Group 3 = ARO, Service Level 2 = Alla utom "Okänd"
 - Microsoft Windows Virtual Desktop
     - Windows Virtual Desktop ACR: Service Influencer = NATIVE WVD
 - Modernisering för webbprogram till Microsoft Azure
     - Azure App Service ACR: Service Level 1 = Compute and Service Level 2 = Azure App Service
     - Azure Spring Cloud ACR:
-        - ACR-justeringstyp = Ej A
-        - Service Group 2 = App Dev
+        - Justeringstyp för ACR = Ej a
+        - Tjänstgrupp 2 = App Dev
         - Tjänstgrupp 3 = Spring Cloud 
         - Servicenivå 2 = Alla utom "Okänd"
 
@@ -170,29 +170,29 @@ Följ sedan de här stegen för att ange kundreferenser i Partnercenter:
     - Azure Data Factory ACR: Service Group3 = Data Factory  
 - Hybridmolninfrastruktur med Microsoft Azure Stack HCI
     - Azure Stack HCI ACR: Service Level 2 = Azure Stack HCI
-- Microsoft Azure VMware Solution
-    - Azure VMware Solutions (AVS) ACR: Service Level 4 = Azure VMware Solution, Azure VMware Solution by CloudSimple, Azure VMware Solution av Virtustream, Specialized Compute Azure VMware Solution
-- Hybriddrift och hantering med Microsoft Azure Arc 
+- Microsoft Azure VMware-lösning
+    - Azure VMware Solutions(AVS) ACR: Service Level 4 = Azure VMware Solution, Azure VMware Solution by CloudSimple, Azure VMware Solution av Virtustream, Specialized Compute Azure VMware Solution
+- Hybridåtgärder och hantering med Microsoft Azure Arc 
     - Arc-aktiverad server ACR: Service Level 4 = Azure Policy
     - Arc-aktiverad Kubernetes ACR: Service Level 4 = Azure Arc
 - AI och Machine Learning i Microsoft Azure
-    - AI ACR: Service Group 2 = AI
+    - AI ACR: Tjänstgrupp 2 = AI
 
 
 - Migrering av Windows Server och SQL Server till Microsoft Azure
     - Windows ACR: 
-        - ACR Adjustment Type = N/A, Compute Core SW = Core,
+        - ACR-justeringstyp = N/A, Compute Core SW = Core,
         - Compute OS = WINDOWS THEN Compute OS Attribute = WINDOWS, UNKNOWN or Compute OS = LINUX THEN Compute OS Attribute = WINDOWS-AHUB
         - Servicenivå 2 = Cloud Services, Container Instances, Container Registry, Specialized Compute, Virtual Machines, Virtual Machines Licenses
     - SQL Database (DB) ACR: Service Group 3 = SQLDB
-    - SQL Hanterad instans (MI) ACR: Service Group 3 = SQL DB MI
+    - SQL Hanterad instans (MI) ACR: Tjänstgrupp 3 = SQL DB MI
     - SQL VM ACR: Service Group 3 = SQL on IaaS, SQL on IaaS VM
 - Linux och Open-Source Database Migration till Microsoft Azure
     - Virtuella Linux-datorer (VM)ACR:
         - Alternativ 1:
             - ACR Adjustment Type= N/A, Service Level 2 = Virtual Machines, Compute OS= Linux, Compute OS Attribute = Non-Windows , UNKNOWN , Windows
             - Servicenivå 4 = Alla utom Cloud Services MS-serien, Virtual Machines MS-serien, Virtual Machines MS-serien Windows, Virtual Machines MSv2-serien, Virtual Machines MSv2-serien Windows, MS-serien Dedicated Host, MSv2-serien Dedicated Host
-        - Alternativ 2: Kräv endast filter på servicenivå 4, andra fält som Compute OS/Compute OS-attribut krävs inte
+        - Alternativ 2: Kräver endast filter på servicenivå 4, andra fält som Compute OS/Compute OS-attribut krävs inte
             - Servicenivå 4 = Red Hat Enterprise Linux, Red Hat Enterprise Linux ha, SUSE Linux Enterprise Server Basic, SUSE Linux Enterprise Server for HPC Priority, SUSE Linux Enterprise Server for HPC Standard, SUSE Linux Enterprise Server Priority, SUSE Linux Enterprise Server Standard
     - Azure Database (DB) for MariaDB ACR: Service Level 1 = Databases and Service Level 2 = Azure Database for MariaDB
     - Azure DB for MySql ACR: Service Level 1 = Databases and Service Level 2 = Azure Database for MySQL and MySQL Database on Azure
@@ -204,12 +204,12 @@ Följ sedan de här stegen för att ange kundreferenser i Partnercenter:
     - Hybrid Environment XDR and Network Security ACR: Service Level 4 = Azure Defender for SQL, Azure Defender for container registries, Azure Defender för Kubernetes, Azure Defender for Storage, Application Gateway WAF v2, WAF Application Gateway, Azure Active Directory B2C, Azure Active Directory Domain Services, Azure Active Directory for External Identities, Azure Bastion, Azure DDOS Protection, Azure Firewall, Azure Firewall Manager, Azure Front Door Service, Azure Defender for IoT, Azure Dedicated HSM, Key Vault, Network Watcher, Azure Defender for App Service, Azure Defender for servers, Sentinel
     
 - SAP på Microsoft Azure
-    - SAP Workloads ACR: Service Level 4 = Cloud Services MS Series, Virtual Machines MS Series, Virtual Machines MS Series Windows, Virtual Machines MSv2 Series, Virtual Machines MSv2 Series Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host, SAP HANA på stora Azure-instanser,SAP Cloud Platform Alert Notification, SAP Cloud Platform Extension Factory – Kyma Runtime,SAP Cloud Platform Integration Suite – Ytterligare meddelanden, SAP Cloud Platform Integration Suite – Standard Edition, SAP Cloud Platform Transport Management, SAP Edge Services, SAP Embrace API Management,SAP Embrace Application Logging, SAP Embrace Application Runtime, SAP Embrace Bandwidth, SAP Embrace Business Application Studio, SAP Embrace Business Rules, SAP Embrace Cloud Integration, SAP Embrace Credential Store, SAP Embrace Custom Domain,  SAP Embrace Data Intelligence, SAP Embrace Enterprise Messaging, SAP Embrace Extension Factory, serverlös körning, SAP Embrace Hana Cloud, SAP Embrace Identity Authentication, SAP Embrace Job Scheduler, SAP Embrace MACC, SAP Embrace Mobile Services,SAP Embrace Object Store Service, SAP Embrace Open Connectors, SAP Embrace Portal, SAP Embrace Process Visibility, SAP Embrace Web Analytics, SAP Embrace Workflow, SAP HANA Service, SAP Web IDE, BareMetal Infrastructure, Virtual Machines MdSv2 Series, Virtual Machines MdSv2 Series Windows
+    - SAP Workloads ACR: Service Level 4 = Cloud Services MS Series, Virtual Machines MS Series, Virtual Machines MS Series Windows, Virtual Machines MSv2 Series, Virtual Machines MSv2 Series Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host, SAP HANA på stora Azure-instanser,SAP Cloud Platform Alert Notification, SAP Cloud Platform Extension Factory – Kyma Runtime,SAP Cloud Platform Integration Suite – Ytterligare meddelanden, SAP Cloud Platform Integration Suite – Standard Edition, SAP Cloud Platform Transport Management, SAP Edge Services, SAP Embrace API Management,SAP Embrace Application Logging, SAP Embrace Application Runtime, SAP Embrace Bandwidth, SAP Embrace Business Application Studio, SAP Embrace Business Rules, SAP Embrace Cloud Integration, SAP Embrace Credential Store, SAP Embrace Custom Domain,  SAP Embrace Data Intelligence, SAP Embrace Enterprise Messaging, SAP Embrace Extension Factory, serverless runtime, SAP Embrace Hana Cloud, SAP Embrace Identity Authentication, SAP Embrace Job Scheduler, SAP Embrace MACC, SAP Embrace Mobile Services,SAP Embrace Object Store Service, SAP Embrace Open Connectors, SAP Embrace Portal, SAP Embrace Process Visibility, SAP Embrace Web Analytics, SAP Embrace Workflow, SAP HANA Service, SAP Web IDE, BareMetal Infrastructure, Virtual Machines MdSv2 Series, Virtual Machines MdSv2 Series Windows
 
 ## <a name="next-steps"></a>Nästa steg
 
-- Läs mer [om avancerade specialiseringar, deras fördelar och unika krav.](https://partner.microsoft.com/membership/advanced-specialization)
+- Läs mer om [avancerade specialiseringar, deras fördelar och unika krav.](https://partner.microsoft.com/membership/advanced-specialization)
 
-- Lär dig hur [du uppnår Microsofts kompetenser för silver- eller guldmedlemskap.](learn-about-competencies.md)
+- Lär dig mer [om att uppnå Microsofts silver- eller guldmedlemskapskompetenser.](learn-about-competencies.md)
 
 - Läs mer om [Microsoft Partner Network kompetenser.](https://partner.microsoft.com/membership/competencies)

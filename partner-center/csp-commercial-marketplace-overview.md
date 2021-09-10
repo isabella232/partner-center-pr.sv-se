@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 047738186f93e143e701794b76f8f8f1979129f94129b6fdc79c4de1196f2625
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: a899226e60e575d6c8aee003130b5390af023394
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115690893"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960076"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Översikt över den kommersiella marknadsplatsen i Partnercenter
 
@@ -36,7 +36,7 @@ Om du är en partner i CSP-programmet finns det många aktiviteter på den komme
 
 |**Om du vill**  |**Läs**   |
 |:------------------------------------|:------------------|
-|Lär dig hur du visar eller söker efter tillgängliga erbjudanden, priser, produktinformation eller utgivarens kontaktinformation | [Upptäck erbjudanden](csp-commercial-marketplace-discover.md) | 
+|Lär dig hur du visar eller söker efter tillgängliga erbjudanden, priser, produktinformation eller kontaktinformation för utgivare | [Upptäck erbjudanden](csp-commercial-marketplace-discover.md) | 
 |Lär dig hur du köper och distribuerar ett erbjudande   | [Inköpserbjudanden](csp-commercial-marketplace-purchase.md)   | 
 |Lär dig hur du avbryter eller förnyar en prenumeration eller lägger till eller tar bort licenser  | [Hantera erbjudanden](csp-commercial-marketplace-manage.md) |
 |Lär dig mer om hur fakturering fungerar för köp på den kommersiella marknadsplatsen | [Förstå fakturering](csp-commercial-marketplace-billing.md) |
@@ -61,7 +61,7 @@ Mycket av vart du går för att slutföra aktiviteter börjar med den typ av erb
 1. Licensbaserade SaaS-erbjudanden  
 2. Användningsbaserade erbjudanden (inklusive erbjudanden baserade på virtuella datorer, containrar eller Azure-program)
 
-Gå till [Fakturerings grunder om](billing-basics.md) du vill veta mer om hur faktureringen skiljer sig mellan licensbaserade erbjudanden och användningsbaserade erbjudanden.  
+Gå till [Fakturerings grunder](billing-basics.md) om du vill veta mer om hur faktureringen skiljer sig mellan licensbaserade erbjudanden och användningsbaserade erbjudanden.  
 
 Information om var du slutför en specifik Marketplace-aktivitet för licensbaserade eller användningsbaserade ISV-erbjudanden finns i följande tabeller.
 

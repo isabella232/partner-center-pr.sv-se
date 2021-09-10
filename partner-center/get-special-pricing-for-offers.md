@@ -10,17 +10,17 @@ ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: d5d6004299ebd8e5d94a51837e486b66a88b4aa1
-ms.sourcegitcommit: fe0920740ef9f461b38cc20bac41192552466405
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "123088545"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960636"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Sälj till specialiserade branscher såsom utbildning, ideella organisationer och myndighetsanvändare
 
 **Lämpliga roller:** Globala | Administratörsagent | Försäljningsagent
 
-Microsoft erbjuder särskilda, reducerade priser för utvalda grupper av kunder, inklusive utbildningskunder, ideella kunder, små företag och myndighetsentiteter. Både du och kunden måste vara kvalificerade innan du kan erbjuda dem specialpriser. Dessa specialpriser är för närvarande **tillgängliga** för licensbaserade tjänster som Microsoft 365, Dynamics, Intune osv. och permanent programvara. Den är inte tillgänglig för programvaruprenumerationer eller Azure-tjänster.
+Microsoft erbjuder särskilda, reducerade priser för utvalda grupper av kunder, inklusive utbildningskunder, ideella kunder, små företag och myndigheter. Både du och kunden måste vara kvalificerade innan du kan erbjuda dem specialpriser. Dessa specialpriser är för närvarande **tillgängliga** för licensbaserade tjänster som Microsoft 365, Dynamics, Intune osv. och permanent programvara. Den är inte tillgänglig för programvaruprenumerationer eller Azure-tjänster.
 
 ## <a name="requirements-to-sell-to-specialized-industries"></a>Krav för att sälja till specialiserade branscher
 
@@ -28,7 +28,7 @@ Microsoft erbjuder särskilda, reducerade priser för utvalda grupper av kunder,
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Education   |Ingen   | Måste vara en [kvalificerad utbildningsanvändare](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)   |
 | Us Federal Government [– Office Government Community Cloud (GCC) High- och DoD-miljöer](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod)    |Om du Azure Government registrera dig med hjälp av [formuläret Microsoft US Government Cloud Validation](https://azuregov.microsoft.com/csp). Sälja licensbaserade prenumerationer är endast tillgängligt vid inbjudan.|   Måste vara en kvalificerad [amerikansk federal myndighetsentitet](https://azure.microsoft.com/global-infrastructure/government/how-to-buy/) |
-| Amerikanska federala myndigheter – GCC medelhög miljö | Måste räknas som att arbeta med amerikanska myndighetskunder genom att fylla i formuläret. [Berätta om din CSP-partnerorganisation för direkt csp.](https://www.microsoft.com/microsoft-365/government/eligibility-validation?ReqType=CSPPartner&rtc=1) Stegvisa instruktioner finns i Sell Office 365 för myndigheter GCC for CSP subscriptions to qualified customers (Sälja [Office 365 för myndigheter GCC för CSP-prenumerationer till kvalificerade kunder)](/partner-center/csp-gcc-overview) | Måste vara en kvalificerad [amerikansk myndighetsentitet](https://www.microsoft.com/microsoft-365/government/eligibility-validation?rtc=1). Stegvisa instruktioner finns i Sell Office 365 för myndigheter GCC for CSP subscriptions to qualified customers (Sälja [Office 365 för myndigheter GCC för CSP-prenumerationer till kvalificerade kunder)](/partner-center/csp-gcc-overview)  |
+| US Federal Government – GCC moderate-miljö | Måste räknas som att arbeta med amerikanska myndighetskunder genom att fylla i formuläret. [Berätta om din CSP-partnerorganisation för direkt csp.](https://www.microsoft.com/microsoft-365/government/eligibility-validation?ReqType=CSPPartner&rtc=1) Stegvisa instruktioner finns i Sell Office 365 för myndigheter GCC for CSP subscriptions to qualified customers (Sälja [Office 365 för myndigheter GCC för CSP-prenumerationer till kvalificerade kunder)](/partner-center/csp-gcc-overview) | Måste vara en kvalificerad [amerikansk myndighetsentitet](https://www.microsoft.com/microsoft-365/government/eligibility-validation?rtc=1). Stegvisa instruktioner finns i Sell Office 365 för myndigheter GCC for CSP subscriptions to qualified customers (Sälja [Office 365 för myndigheter GCC för CSP-prenumerationer till kvalificerade kunder)](/partner-center/csp-gcc-overview)  |
 | Alla andra myndighetsentiteter | Inga. Partner måste etableras med hjälp av "företagserbjudanden". | Ingen
 Ideell verksamhet  |Ingen|Registrera dig via [Microsofts ideella program för att](https://nonprofit.microsoft.com/#/register) bli berättigad.   |
 
@@ -67,11 +67,11 @@ Köpregler för att sälja specialerbjudanden till kunder:
 
 |**Kundtyp**   |**Kan säljas**   |**Det går inte att sälja**   |
 |:----------------------------|:---------------------------------|:------------------------------------------|
-| Kommersiellt |Kommersiellt | Ideella organisationer, utbildning eller Government Community Cloud |
+| Kommersiellt |Kommersiellt | Ideell verksamhet, utbildning eller Government Community Cloud |
 | Ideell |Kommersiell, Ideell | Utbildning eller Government Community Cloud |
 | Education |Commercial, Education | Ideella organisationer eller Government Community Cloud |
 | Government Community Cloud |Government Community Cloud | Ideella organisationer, utbildning eller kommersiella organisationer |
-| Tillståndsägd entitet  | Kommersiellt  | Ideella organisationer, utbildning eller Government Community Cloud  |
+| Tillståndsägd entitet  | Kommersiellt  | Ideell verksamhet, utbildning eller Government Community Cloud  |
 | If Education and State Owned Entity | Commercial, Education | Ideella organisationer eller Government Community Cloud |
 | Om tillståndsägd entitet och Government Community Cloud | Government Community Cloud | Ideella organisationer, utbildning eller kommersiella organisationer |
 

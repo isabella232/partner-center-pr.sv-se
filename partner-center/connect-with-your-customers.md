@@ -9,17 +9,17 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: b240d39da1e7c91fb8efee9aabced2a76092104e719d97cbfd33a53f1ca567ee
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 9d9798bdbf83bbe7d812f5bbf83b81fb8fcde373
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681968"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960303"
 ---
 # <a name="connect-with-customers"></a>Få kontakt med kunder
 
 
-**Lämpliga roller:** Global | Administratörsagent
+**Lämpliga roller:** Globala | Administratörsagent
 
 
 För att kunna samarbeta med kunder i Partnercenter måste dina kunder ha PartnerCenter-konton och du måste upprätta återförsäljarrelationer med dem. För att den indirekta leverantören ska kunna köpa prenumerationer och tjänster för dina kunders räkning måste leverantören också ha återförsäljarrelationer med dina kunder.
@@ -54,7 +54,7 @@ När du lockar nya kunder måste du ansluta till dem i Partnercenter. Du kan få
 
 Om du vill hantera en kunds prenumerationer och tjänster för deras räkning måste du ha en återförsäljarrelation med dem. För att den indirekta leverantören ska kunna skicka beställningar för kundens räkning måste den indirekta leverantören också ha en återförsäljarrelation med dem.
 
-Om du vill få administratörsbehörighet att  hantera en ny kunds prenumerationer och tjänster och låta den indirekta leverantören skicka nya beställningar åt dem, kan du bjuda in kunden att upprätta en återförsäljarrelation med både dig och din leverantör på samma gång.
+Om du vill få administratörsbehörighet för  att hantera en ny kunds prenumerationer och tjänster och låta den indirekta leverantören skicka nya beställningar åt dem, kan du bjuda in kunden att upprätta en återförsäljarrelation med både dig och din leverantör på samma gång.
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-your-indirect-provider-at-the-same-time"></a>Bjud in en kund att upprätta en återförsäljarrelation med dig och din indirekta leverantör samtidigt
 

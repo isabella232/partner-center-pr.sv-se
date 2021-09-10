@@ -9,16 +9,16 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 33a14b89e77a2550b5f51e4d44f2866f376ed9fa14a334769530f45a5c6ab873
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 7544a090b447af37f06ddf31606794a00f357b05
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115697318"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961093"
 ---
 # <a name="mpn-benefits---software"></a>MPN-förmåner – programvara
 
-**Lämpliga roller:** Global | MPN-partneradministratör
+**Lämpliga roller:** Globala | MPN-partneradministratör
 
 ## <a name="overview"></a>Översikt
 
@@ -46,7 +46,7 @@ Antalet aktiveringar som räknas mot en produktnyckel baseras på följande scen
 
 ## <a name="troubleshooting-scenarios"></a>Felsökningsscenarier
 
-- **Meddelandet "Ingen ytterligare information tillgänglig" visas för cals(Windows Server Client Access License)-förmåner**
+- **Meddelandet "Ingen ytterligare information tillgänglig" visas för cals-förmåner (Windows Server Client Access License)**
 
     CALs är inte en nedladdningsbar produkt. Aktiveringen av CALs hanteras på själva serverprodukten.
 

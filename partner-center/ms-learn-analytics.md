@@ -9,16 +9,16 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e56ba633df6980605361fb5dabde185bda5baa663581e5ef47d4da4fda924a04
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: b291ee52c9c6e72dc50aab9aa386177d9778cbd1
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115694548"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960416"
 ---
 # <a name="use-microsoft-learn-analytics-reports"></a>Använda Microsoft Learn analysrapporter
 
-**Lämpliga roller:** Global | MPN-partneradministratör
+**Lämpliga roller:** Globala | MPN-partneradministratör
 
 Rapporten [Microsoft Learn](/learn/) innehåller information om eleverna i företaget, inklusive de moduler som de har slutfört och de utbildningsvägar som de befinner sig på. Rapporten visar status för varje enskild användare. Globala administratörer och MPN-administratörer för ett företag kan visa data.
 
@@ -26,9 +26,9 @@ Rapporten [Microsoft Learn](/learn/) innehåller information om eleverna i före
 
 ### <a name="summary-charts"></a>Sammanfattningsdiagram
 
-Dessa diagram sammanfattar antal och månatliga kumulativa trender för tränade individer, slutförda moduler och utbildningsvägar.
+Dessa diagram sammanfattar antal och månatliga kumulativa trender för tränade individer, slutförande av moduler och utbildningsvägar.
 
-**Antal tränade** individer: Antalet distinkta elever som har slutfört minst en modul under det valda datumintervallet 
+**Antal tränade** individer: Ett antal distinkta elever som har slutfört minst en modul under det valda datumintervallet 
 
 **Trendminidiagram för tränade** individer: Ackumulerat antal aktiva elever per månad 
 
@@ -37,10 +37,10 @@ Om till exempel "Modul 1" slutförs av 15 individer och "Modul 2" har slutförts
 
 **Trendminidiagram för slutförda moduler:** Ackumulerat antal slutförda moduler månad för månad 
 
-**Learning** antal slutförda sökvägar: Antal Learning slutförda sökvägar av eleverna i partnerns företag under det valda datumintervallet.
-Om till exempel Learning sökvägen "Sökväg 1" har slutförts av 20 individer och Learning-sökvägen "sökväg 2" har slutförts av samma 20 individer, blir antalet slutförda Learning-sökvägar 40. Slutförandedatumet Learning sökvägen ska vara inom det valda datumintervallet.
+Learning antal **slutförda** sökvägar: antal Learning slutförda sökvägar av eleverna i partnerns företag under det valda datumintervallet.
+Om till exempel Learning sökvägen "Sökväg 1" slutförs av 20 individer och Learning-sökvägen "sökväg 2" har slutförts av samma 20 individer, blir Learning Path-slutförandeantalet 40. Slutförandedatumet Learning sökvägen ska vara inom det valda datumintervallet.
 
-**Learning för slutförande av utbildningsvägens trendminidiagram:** Kumulativt antal utbildningsvägsslutningar för månad över månad 
+**Learning för att slutföra utbildningsvägens trendminidiagram:** Kumulativt antal utbildningsvägsslutningar för månad över månad 
 
 ### <a name="trained-individuals-monthly-trend"></a>Tränade individers månatliga trend
 
@@ -48,7 +48,7 @@ Dessa data är trenden för företagets användare som har slutfört en modul f�
 
 **X-axeln** är månad för det valda tidsfiltret. 
 
-**Y-axeln** är antalet aktiva elever som har registrerat sig (första gången en modul slutförs) under den månaden. Detta är inte kumulativt.
+**Y-axel** är antalet aktiva elever som har registrerat sig (första gången en modul har slutförts) under den månaden. Detta är inte kumulativt.
 
 ### <a name="module-completions-monthly-trend"></a>Månadstrend för slutförande av moduler
 
@@ -64,7 +64,7 @@ Dessa data är trenden för utbildningsvägar som slutfördes av företagets anv
 
 **X-axeln** är månad för det valda tidsfiltret. 
 
-**Y-axeln** är antalet slutförda moduler den månaden. Detta är inte kumulativt.
+**Y-axeln** är antalet slutförda moduler under den månaden. Detta är inte kumulativt.
 
 ### <a name="learning-path-completion-tabs"></a>Learning sökvägsflikar
 
@@ -80,7 +80,7 @@ Tal som visas i mitten av diagrammet är det totala antalet slutförda moduler
 
 Tal som visas i mitten av diagrammet är antalet distinkta roller för modulens slutförande. 
 
-- Slutförande per produkt: uppdelning av modulens slutförande per produkt som modulen mappas till. Om en modul är associerad med flera produkter läggs var och en av produkterna till i antalet slutförda moduler.    
+- Slutförande per produkt: uppdelning av modulens slutförande per produkt som modulen är mappad till. Om en modul är associerad med flera produkter läggs var och en av produkterna till i antalet slutförda moduler.    
 
 Tal som visas i mitten av diagrammet är antalet distinkta produkter för modulens slutförande.  
 
@@ -92,7 +92,7 @@ Den här fliken innehåller en analys av utbildningsvägar som har slutförts i 
 
 - Slutförande per roll: uppdelning av slutförda utbildningsvägar efter roll. Om en modul är associerad med flera roller läggs var och en av rollerna till i antalet slutförda moduler.
 
-- Slutförande per produkt: uppdelning av de slutförda utbildningsvägarna efter den Produkt som utbildningsvägen är mappad till. Om en modul är associerad med flera produkter läggs var och en av produkterna till i antalet slutförda moduler.
+- Slutförande per produkt: uppdelning av de slutförda utbildningsvägarna efter den Produkt som utbildningsvägen mappas till. Om en modul är associerad med flera produkter läggs var och en av produkterna till i antalet slutförda moduler.
 
 ### <a name="completions-by-learning-individuals"></a>Slutförande av inlärning av individer
 
@@ -112,26 +112,26 @@ Så här hämtar du information om en användare med hjälp av användarobjekt-I
 
 1. Jag kan inte se mitt företags Learn-information.
 
-   Den här rapporten är tillgänglig för partner som har ett konto i Partnercenter. Om du fortfarande Partner Membership Center kan du inte se den här rapporten.
+   Den här rapporten är tillgänglig för partner som har ett konto i Partnercenter. Om du fortfarande är Partner Membership Center kan du inte se den här rapporten.
 
 2. Vem på mitt företag kan visa den här rapporten? 
 
    Den globala administratören och MPN-administratören kan visa rapporten.
 
-3. Hur ser jag till att alla våra användare associerar sina Microsoft Learn med sitt Partnercenter-konto?
+3. Hur ser jag till att alla våra användare associerar sina Microsoft Learn-konton med sitt Partnercenter-konto?
 
    *När den globala administratören* lägger till en ny användare måste användaren gå till [Microsoft Learn](/learn/) för att länka sitt Azure Active Directory(AD) företagskonto eller arbetskonto med sitt Learn-konto. Detta säkerställer Insights Learning fliken visar rätt kurser och färdigheter.
    
    Användaren måste:
    
-   1. Logga in [Microsoft Learn](/learn/).
-   2. Välj profilbilden och välj sedan **Min profil**.
+   1. Logga in [på Microsoft Learn](/learn/).
+   2. Välj profilbilden och välj **sedan Min profil**.
    3. Välj **inställningar**.
    4. Under **Kontohantering lägger** du till arbetskontot under **Länkade konton**.
 
 4. Kan jag se alla företagets användare som loggar in på Microsoft Learn med ett MSA-konto i den här rapporten?
 
-   Det bästa sättet att göra detta är för närvarande att lägga till dessa användare i din Azure AD-klientorganisation och sedan lägga till dem i Partnercenter så att de kan associera sina Microsoft Learn-konton **via Min profil** i Partnercenter. 
+   För närvarande är det bästa sättet att göra detta att lägga till dessa användare i din Azure AD-klientorganisation och sedan lägga till dem i Partnercenter så att de kan associera sina Microsoft Learn-konton **via Min profil** i Partnercenter. 
 
    För användare som bara använder sitt MSA-konto för utbildning kommer Microsoft Learn-teamet inom en snar framtid att kunna koppla sin e-post till sin Microsoft Learn profil. 
 

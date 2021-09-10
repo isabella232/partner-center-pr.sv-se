@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: cb679a266f249522d90d70d656ef8986389b7d4bbf7a0653ad9467e08fb2336f
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 373ab01965cb527ab5e972cc28c2e7d9a685cb11
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115690601"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960386"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Läs mer om Microsoft-partneravtal (MPA) för CSP-programpartner
 
@@ -39,14 +39,14 @@ Om du vill fortsätta att delta i CSP-programmet måste du signera Microsoft-par
  
 1. Från **Inställningar** du [Partnerprofil](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile).
 
-1. Läs **avsnittet Programinformation.** Om MPN-programstatusen **är Aktiv** är du en aktiv MPN-partner i Partnercenter.
+1. Läs **avsnittet Programinformation.** Om MPN-programstatusen **är** Aktiv är du en aktiv MPN-partner i Partnercenter.
  
 1. Om MPN-programstatusen **nekas/avvisas** eller **väntar** har kontoverifieringen misslyckats. Läs [Verifieringsprocessen](verification-responses.md) för att ta reda på hur du löser verifieringsproblemet.
 
 
 
 >[!NOTE]
->Autentiseringsuppgifterna för ditt MPN-ID-konto kanske inte är samma som autentiseringsuppgifterna för ditt CSP-konto.
+>Autentiseringsuppgifterna för DITT MPN-ID-konto kanske inte är samma som autentiseringsuppgifterna för ditt CSP-konto.
 
 ## <a name="confirm-you-are-enrolled-as-a-csp-indirect-reseller"></a>Bekräfta att du har registrerats som en indirekt CSP-återförsäljare
 
@@ -73,7 +73,7 @@ Kom ihåg att acceptera begäran om CSP-relation med din indirekta leverantör.
 1. Logga in på Partnercenter med ditt CSP Indirect Reseller-konto. Du måste vara global administratör.
 1. Gå till **[översiktssidan för CSP.](https://partner.microsoft.com/pcv/dashboard/overview)**  Om du inte ser  varken Acceptera och fortsätt eller den gröna banderollen som talar om att MPA har signerats har du inte rätt roll för att signera MPA. Kontakta din globala administratör för att signera MPA.
 
-1. Om du vill visa och **Microsoft-partneravtal** innan du signerar den väljer du Microsoft-partneravtal länken enligt nedan.
+1. Om du vill visa och **ladda Microsoft-partneravtal** innan du signerar den väljer du Microsoft-partneravtal länken enligt nedan.
 
 :::image type="content" source="images/agreement-three.png" alt-text="Ny plats för MPA-avtal.":::
 
@@ -109,6 +109,6 @@ Du kan också se om du har signerat avtalet genom att välja **Avtal** från **K
  
 ## <a name="next-steps"></a>Nästa steg
 
-- [Hur indirekta leverantörer kan hjälpa sina återförsäljare att använda Microsoft-partneravtal – Vanliga frågor och svar](mpa-indirect-provider-faq.yml)
+- [Hur indirekta leverantörer kan hjälpa sina återförsäljare att införa Microsoft-partneravtal – Vanliga frågor och svar](mpa-indirect-provider-faq.yml)
 
 - [Gå med i Cloud Solution Provider-programmet](indirect-reseller-tasks-in-partner-center.md)

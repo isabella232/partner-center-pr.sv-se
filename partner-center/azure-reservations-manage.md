@@ -1,6 +1,6 @@
 ---
 title: Hantera Azure-reservationer för kunder
-description: Lär dig hur du hanterar Azure-reservationer för en kund, inklusive hur du avbryter en reservation, byter en reservation eller begär en återbetalning.
+description: Lär dig hur du hanterar Azure-reservationer för en kund, inklusive hur du avbryter en reservation, byter ut en reservation eller begär en återbetalning.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
@@ -9,18 +9,18 @@ ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 376372c4a5d1fb25a1416c53ace68d2ca2d474cde15b514a4bb5329d7eddac21
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 627c6f8d09a904e7d988c4229ec10eeac38dc2e9
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115680727"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959983"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Hantera, avbryta, byta eller återbetala Microsoft Azure reservationer för kunder
 
 **Lämpliga roller:** Administratörsagent | Global | Supportagent | Försäljningsagentens | Administratör för användarhantering
 
-Den här artikeln beskriver hur du hanterar Azure-reservationer för en kund, inklusive hur du avbryter en reservation, byter en reservation eller begär en återbetalning.
+Den här artikeln beskriver hur du hanterar Azure-reservationer för en kund, inklusive hur du avbryter en reservation, byter ut en reservation eller begär en återbetalning.
 
 > [!NOTE]
 > Den här artikeln gäller endast för partner i Molnlösningsleverantör-programmet (CSP). Kunder som använder andra typer av prenumerationer (till exempel betala enligt användning, enskilda prenumerationer, Microsoft-kundavtal eller företagsavtal-prenumerationer) bör i stället läsa dokumentationen om [Azure-reservationer.](/azure/cost-management-billing/reservations)
@@ -35,11 +35,11 @@ Om du vill hantera dina kunders Azure-reservationer efter köpet väljer du den 
 
     | **Välj**   | **Till**    |
     |:-----------------------------|:-----------------|
-    | **Översikt**   | Visa information om en kunds reservation, inklusive förfallodatum, omfång och användningsdata. **OBS!** Välj **Återbetalning** för att skapa en supportbegäran för en prode beräknad återbetalning. Välj **Exchange** att skapa en supportbegäran för att byta ut den oanvända delen av reservationen.  
+    | **Översikt**   | Visa information om en kunds reservation, inklusive förfallodatum, omfång och användningsdata. **OBS!** Välj **Återbetalning** för att skapa en supportbegäran för en prode beräknad återbetalning. Välj **Exchange skapa** en supportbegäran för att byta ut den oanvända delen av reservationen.  
     | **Access Control (IAM)**   | Hantera åtkomst till kundens reservationsinformation.|
     | **Konfiguration**   | Ändra reservationens omfång och/eller den Azure-prenumeration som reservationen är associerad med.    |
     | **Egenskaper**   | Visa reservationens egenskaper och kopiera reservations-ID och reservationsbeställnings-ID till Urklipp. **OBS!** Supporten kan be dig om reservations-ID och reservationsbeställnings-ID när du begär support för en kunds räkning.    |
-    | **Ny supportbegäran**    | Begär hjälp från Microsoft Support.   |
+    | **Ny supportbegäran**    | Be om hjälp från Microsoft Support.   |
  
 ## <a name="cancel-or-exchange-a-reservation"></a>Avbryta eller byta en reservation
 
@@ -78,7 +78,7 @@ Om du vill skicka en supportbegäran om återbetalning eller utbyte för dina ku
 
 2. På kundens informationssida väljer du **Azure-reservationer och** sedan den specifika reservation som kunden vill få återbetalning för.  
 
-3. Under **Åtgärder** väljer du **Återbetalning** för att gå till kundens reservationspost i Azure Portal och initiera en supportbegäran.  
+3. Under **Åtgärder** väljer du **Återbetalning** för att gå till kundens reservationspost i Azure Portal initiera en supportbegäran.  
 
 4. På sidan **Ny supportbegäran** följer du stegen nedan för att begära en återbetalning. Välj **Nästa** efter varje steg. 
 

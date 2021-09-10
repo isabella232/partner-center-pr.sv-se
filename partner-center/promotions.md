@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 23068edcb633bc1a0c8359c8ad122455e573126b4ad9c54b10d105f9156b002c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 335c0806d9504263dcfa506721b4217cf8b78db6
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115693970"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960646"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Använda kampanjer för att locka nya kunder och överföra besparingarna till dem
 
@@ -39,7 +39,7 @@ Ta en stund och granska dessa viktiga fakta om kampanjer:
 
 ## <a name="see-available-promotions"></a>Se tillgängliga kampanjer
 
-Du kan se vilka kampanjer som du är berättigad till, om det finns någon på sidan om **kampanjer**. Välj **Kampanjer** på **Partnercenter-menyn** för att se en lista över aktuella kampanjer, tillsammans med rabatt, kampanjtyp och start- och slutdatum för prenumerationen. Om inga kampanjer är tillgängliga visas ett meddelande som anger detta. 
+Du kan se vilka kampanjer som du är berättigad till, om det finns någon på sidan om **kampanjer**. Välj **Kampanjer** på **menyn i Partnercenter** om du vill se en lista över aktuella kampanjer, samt rabatt, kampanjtyp och start- och slutdatum för prenumerationen. Om inga kampanjer är tillgängliga visas ett meddelande som anger detta. 
 
 > [!NOTE]  
 > Du kan också se kampanjer när du gör ett köp. När du väljer en prenumeration visas kampanjpriset på sidan **Granska**.

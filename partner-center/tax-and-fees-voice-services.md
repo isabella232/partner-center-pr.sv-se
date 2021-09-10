@@ -7,26 +7,26 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 228534aff70db5c60116d408550361477da7302b784c78ea746cd2ae017c70a0
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 85eefb49cf62c4bcfa5533683abd8ddb0e854463
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115691675"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961514"
 ---
 # <a name="regional-taxes-regulations-for-public-switched-telephone-network-ptsn-services"></a>Regionala skatter, föreskrifter för PTSN-tjänster (Public Switched Telephone Network)
 
 **Lämpliga roller:** Global | Användaradministratörsbehörighet | Administratörsagent
 
-PSTN-tjänster (Public Switched Telephone Network) i vissa jurisdiktioner kan omfattas av särskilda skatte- och regelkrav som kan påverka partnerorder och fakturering. I USA, inklusive Puerto Pst, PSTN-tjänster, som omfattar ljudkonferenser, samtalsplaner och kommunikationskrediter, omfattas av särskilda skatte- och regelkrav. Microsoft USA PSTN-tjänster enligt tax inclusive-priser i USA och Puerto Därför prissätter Microsoft PSTN-tjänster.  Unika PSTN-skatter och -regler påverkar Office 365 partner som Microsoft 365 Voice-produkter.  Om en partner markerar priset för en Microsoft PSTN-tjänst kan de ansvara för att beräkna och överföra PSTN-skatter och -avgifter.
+PSTN-tjänster (Public Switched Telephone Network) i vissa jurisdiktioner kan omfattas av särskilda skatte- och regelkrav som kan påverka partnerorder och fakturering. I USA, inklusive PuertoJekt, PSTN-tjänster, som omfattar ljudkonferenser, samtalsplaner och kommunikationskrediter, omfattas av särskilda skatte- och regelkrav. Microsoft USA PSTN-tjänster som skatteomfattande i de här artiklarna USA Och Puerto Därför prissätter Microsoft PSTN-tjänster som moms.  Unika PSTN-skatter och -regler påverkar Office 365 partner som Microsoft 365 Voice-produkter.  Om en partner markerar priset för en Microsoft PSTN-tjänst kan de ansvara för att beräkna och överföra PSTN-skatter och -avgifter.
 
 ## <a name="partner-recommendations"></a>Partner Rekommendationer
 
-Engagera din skatterådgivare och juridiska rådgivare för att förstå organisationens ansvar för PSTN-tjänsternas regler, skatter och avgifter och andra potentiella problem.
+Engagera din skatterådgivare och juridiska rådgivare för att förstå organisationens ansvar för PSTN-tjänsternas regler, skatter och avgifter och andra potentiella skulder.
 
 ## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Fakturapresentation och partneravstämningsfil
 
-Molnlösningsleverantör fakturor (CSP) och CSP-avstämningsfiler i USA- och Canada, som innehåller Skype för företag PSTN- och Microsoft 365 Voice-tjänster, tillhandahåller separata radobjekt för PSTN- och icke-PSTN-komponenterna.
+Molnlösningsleverantör fakturor (CSP) och CSP-avstämningsfiler i USA, PuertoKommando och Kanada, som innehåller Skype för företag PSTN- och Microsoft 365 Voice-tjänster, tillhandahåller separata radobjekt för PSTN- och icke-PSTN-komponenterna.
 
 Dessutom visar CSP-fakturor följande fotnot:
 

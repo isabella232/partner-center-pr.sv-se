@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 01753312956b57575478ae587ed8286003b5a154a76798665adc5db4a2baeb6c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 67c09a71b0e5e6774a6306a6af1b0eee6705083e
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115695789"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960436"
 ---
 # <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>Använd de här resurserna för att komma igång med incitament
 
@@ -28,11 +28,11 @@ Som partner i Microsoft Partner Network (MPN) har du tillgång till olika incita
 Om du är nybörjare på incitament och vill lära dig mer om tillgängliga incitamentsprogram kan du logga in på [Microsofts investeringar och incitament.](https://partner.microsoft.com/membership/partner-incentives)
 
 > [!NOTE]
-> Om du ännu inte är en partner kan du [gå med i Microsoft Partner Network](https://partner.microsoft.com/membership). På så sätt kan du börja dra nytta av incitament och andra fördelar som är tillgängliga för partner i Microsoft Partner Network.  
+> Om du ännu inte är en partner kan du [ansluta till Microsoft Partner Network](https://partner.microsoft.com/membership). På så sätt kan du börja dra nytta av incitament och andra fördelar som är tillgängliga för partner i Microsoft Partner Network.  
 
 ## <a name="incentives-resources-to-help-you-get-started"></a>Incitamentsresurser som hjälper dig att komma igång
 
-Innan du kan få betalt för ditt arbete i ett incitamentsprogram måste du ge Microsoft specifik information om ditt program, intäktsberättigande, din bank och skatteprofiler med mera. Följande resurser kan vara till hjälp.
+Innan du kan få betalt för ditt arbete i ett incitamentsprogram måste du ge Microsoft specifik information om ditt program, berättigande till intäkter, din bank och skatteprofiler med mera. Följande resurser kan vara till hjälp.
 
 |  **Så här gör du**  |  **Läs detta**  |
 |--------------|-----------|

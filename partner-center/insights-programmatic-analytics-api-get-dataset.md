@@ -1,5 +1,5 @@
 ---
-title: Hämta alla datauppsättnings-API :Insights data
+title: Hämta alla datauppsättningar API – Insights data
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
@@ -8,16 +8,16 @@ description: Använd det här API:et för att få information om alla tillgängl
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 96bbb039c022d3587183b8dbec014bc362255b750ac6670fe3c1906629b7e291
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 8f4e69c8759c16bc38e64a361c8c077989447d3e
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115693341"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960893"
 ---
 # <a name="get-all-datasets-api"></a>Hämta alla datauppsättnings-API
 
-API:et Hämta alla datauppsättningar hämtar alla tillgängliga datauppsättningar. Datauppsättningar visar tabeller, kolumner, mått och tidsintervall.
+API:et Hämta alla datauppsättningar hämtar alla tillgängliga datauppsättningar. Datauppsättningar visar en lista över tabeller, kolumner, mått och tidsintervall.
 
 **Begärandesyntax**
 
@@ -91,8 +91,8 @@ Den här tabellen definierar nyckelelementen i svaret:
 |    Parameter    |    Beskrivning    |
 |    ----    |    ----    |
 |    DatasetName     |    Namnet på den datauppsättning som matrisobjektet definierar     |
-|    SelectableColumns     |    Råkolumner som kan anges i select-kolumnerna     |
-|    AvailableMetrics     |    Sammansättnings-/måttkolumnnamn som kan anges i select-kolumnerna     |
+|    SelectableColumns     |    Råkolumner som kan anges i de valda kolumnerna     |
+|    AvailableMetrics     |    Sammansättnings-/måttkolumnnamn som kan anges i de valda kolumnerna     |
 |    AvailableDateRanges     |    Datumintervall som kan användas i rapportfrågor för datauppsättningen     |
 |    minimumRecurrenceInterval     |    Minsta värde för upprepningsintervall     |
 |    TotalCount     |    Antal datauppsättningar i värdematrisen     |

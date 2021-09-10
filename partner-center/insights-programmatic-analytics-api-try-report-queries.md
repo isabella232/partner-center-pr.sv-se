@@ -8,12 +8,12 @@ description: Använd det här API:et för att testa din fråga och validera resu
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 8358366d4782473549403ca3def4c6a6ec3825c91899f401d6dc44b5a9192ea9
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: c83b56b7d52e0b9feb598597b4a8e1fdaec98a3b
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115696962"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960923"
 ---
 # <a name="try-report-queries-api"></a>Testa API för rapportfrågor
 

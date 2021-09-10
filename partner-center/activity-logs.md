@@ -9,18 +9,18 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d8deb72da4bd0bbf3fe9d026a49c9eaf6c438661c237b4075dfc87f531da137
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: e21db0b6d054c62cec0378a3b93201dea072128f
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115685521"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959996"
 ---
 # <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Visa eller exportera kundaktivitetsloggar för mer information om kundtransaktioner
 
-**Lämpliga roller:** Globala | Faktureringsadministratörskonto | Administratörsbehörighet för | Administratörsagent | Försäljningsagent | Supportagent
+**Lämpliga roller:** Globala | Faktureringsadministratörskonto | Administratörsbehörighet för användarhantering | Administratörsagentens | Försäljningsagentens | Supportagent
 
-Aktivitetsloggar ger information om transaktioner och partnerhanteringsåtgärder för kunder. Loggar för transaktioner ger detaljerad information om transaktionen, inklusive köpta prenumerationer. Du kan också exportera aktivitetsloggar till ett Excel kompatibelt filformat med kommaavgränsade värden (.csv).
+Aktivitetsloggar innehåller information om transaktioner och partnerhanteringsåtgärder för kunder. Loggar för transaktioner innehåller detaljerad information om transaktionen, inklusive köpta prenumerationer. Du kan också exportera aktivitetsloggar till ett Excel-kompatibelt filformat med kommaavgränsade värden (.csv).
 
 Aktivitetsloggar innehåller poster för partneråtgärder för kundkonton och produkttransaktioner. Du kan också exportera aktivitetsloggar till en .csv fil.
 
@@ -30,19 +30,19 @@ Aktivitetsloggar innehåller poster för partneråtgärder för kundkonton och p
 
 2. På menyn **Kontoinställningar** väljer du **Aktivitetslogg.**
 
-3. Välj aktivitetsloggperiod i fälten **Från** **och till.** Aktivitetsloggexporten är som standard den senaste månaden.
+3. Välj aktivitetsloggperioden i fälten **Från** **och till.** Aktivitetsloggexporten är som standard den senaste månaden.
 
-   Varje aktivitetslogg innehåller en länk till kundens **prenumerationssida** i listan.
+   Varje aktivitetslogg innehåller en länk till kundens **prenumerationssida i** listan.
 
    Välj en nedåtpil för en aktivitetslogg om du vill visa information om en loggad åtgärd. En enda aktivitetslogg kan visa en stor mängd data, till exempel beställning av flera produkter.
 
-4. Loggens datakolumner omfattar följande:
-   - **Date-Time**– datum och tid för åtgärden;
+4. Loggens datakolumner innehåller följande:
+   - **Datum/tid**– datum och tid för åtgärden;
    - **Berörd** kund – kundens företagsnamn;
    - **Åtgärd**– den åtgärd som vidtas av kunden, till exempel "skapad en hänvisning";
    - **Partneranvändare**– partnern som är associerad med aktiviteten.
 
-5. Välj **Exportera logg** för att kopiera kundens prenumerationsdata till en .csv fil och ladda ned den till standardnedladdningsmappen på datorn.
+5. Välj **Exportera logg** för att kopiera kundens prenumerationsdata till en .csv och ladda ned dem till standardmappen för nedladdning på datorn.
 
 ## <a name="next-steps"></a>Nästa steg
 

@@ -1,5 +1,5 @@
 ---
-title: TA bort API för rapportfrågor – Insights data
+title: API för att ta bort rapportfrågor – Insights data
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
@@ -8,12 +8,12 @@ description: Använd det här API:et för att ta bort användardefinierade fråg
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 4714d523ff9942838e9666fe75f3df21aae69e043b6d9be1e1819cbd52dfb6ff
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: f755bc13ff4e0c4bc3a2c6ceda123c6a2bc47dc5
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681662"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960883"
 ---
 # <a name="delete-report-queries-api"></a>API för att ta bort rapportfrågor
 

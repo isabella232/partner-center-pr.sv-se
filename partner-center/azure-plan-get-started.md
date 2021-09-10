@@ -9,12 +9,12 @@ ms.author: amrava
 ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: ca7b72e653af37307d3a2985ac57783b050ff408204a14d977ec7a5ec29dab77
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 40bf84ed47c946b84f511693d9f8351b3ffa5a95
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115691233"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961073"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Börja använda Betala enligt användning-priser med Azure-planen
 
@@ -23,7 +23,7 @@ ms.locfileid: "115691233"
 
 Microsoft har introducerat en ny handelsupplevelse i Partnercenter.  Med den här nya handelsupplevelsen får partner åtkomst till Azure-tjänster till betala-enligt användning-priser för kunder under Microsoft-kundavtal.
 
-Den här planen förenklar köpupplevelsen – du kan ha flera Azure-prenumerationer i en Azure-plan. Du behöver inte längre skicka en separat order per Azure-prenumeration. Och i den här nya handelsupplevelsen för Azure har vi anpassat oss till en enda global prisprincip som gör att CSP-partner kan erbjuda Azure till de publicerade priserna.
+Den här planen förenklar köpupplevelsen – du kan ha flera Azure-prenumerationer i en Azure-plan. Du behöver inte längre skicka en separat order per Azure-prenumeration. Och i den här nya handelsupplevelsen för Azure har vi anpassat oss till en enda global prisprincip som gör det möjligt för CSP-partner att erbjuda Azure till de publicerade priserna.
 
 Våra kunders behov av digital omvandling kräver nya kunskaper från partner. Många kunder letar efter partner som tillhandahåller tjänster utöver transaktionen för att göra molnresan smidigare och hjälpa till att använda Azure-tjänster effektivt. Microsoft-partner spelar en viktig roll i alla steg i kundens livscykel. Dessa typer av partnertjänster är på gång och omfattar övervakning av Azure-egendom, princip- och styrningshantering, konfigurationsjustering, teknisk support och en mängd andra tjänster. De kräver att en partner är väl bekant med kundens Azure-miljö och har kontinuerlig och lämplig styrning och kontroll över de underliggande resurser som de hanterar. Faktureringspartner som tillhandahåller den här molndriftshanteringen dygnet runt blir berättigade till en **partnertjänad kredit** för tjänster som hanteras för arbetet.
 
@@ -51,9 +51,9 @@ Eftersom vi är en partner med hög behörighet måste vi se till att varje anv�
 - Implementera [standardinställningarna för Azure AD-säkerhet](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 - Implementera en lösning från tredje part och se till att MFA tillämpas för varje användare
 
-Från och med 1 augusti 2019 måste alla partner tillämpa multifaktorautentisering för alla användare, inklusive tjänstkonton, i partnerklientorganisationen. Detaljerad information om dessa säkerhetskrav finns i Säkerhetskrav [för partner.](partner-security-requirements.md)
+Från och med 1 augusti 2019 måste alla partner använda multifaktorautentisering för alla användare, inklusive tjänstkonton, i partnerklientorganisationen. Detaljerad information om dessa säkerhetskrav finns i Säkerhetskrav [för partner.](partner-security-requirements.md)
 
-Microsoft rekommenderar partner att noggrant använda RBAC enligt bästa praxis som aktiveras via Azure Active Directory Privileged Identity Management [resurser](/azure/active-directory/privileged-identity-management/pim-configure).
+Microsoft rekommenderar att partner använder RBAC noggrant, enligt bästa praxis som aktiveras via [Azure Active Directory Privileged Identity Management resurser](/azure/active-directory/privileged-identity-management/pim-configure).
 
 ## <a name="read-more-about-the-azure-plan"></a>Läs mer om Azure-planen
 

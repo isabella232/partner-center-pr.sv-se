@@ -8,16 +8,16 @@ description: Se vad du gör bra och var du kan förbättra användningen av Dyna
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 7476106e92334000c59e566758bb2bd1f1dd415f6142f07e458b2aa9f5c62b41
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: ecc4edbd509557da1314eb7e54fcc013e41682a7
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115690693"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961363"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Dynamics-användningsrapport som är tillgänglig från Partnercenter Insights instrumentpanel
 
-**Lämpliga roller:** Global | Administratörsagent | Rapportvisningsprogram | Rapportvisningsprogram för chefer
+**Lämpliga roller:** Globala | Administratörsagentens | Rapportvisningsprogram | Rapportvisningsprogram för chefer
 
 Dynamics-användningsrapporten innehåller användningsdata för de Microsoft Dynamics 365-prenumerationer som du har sålt eller hanterat för dina kunder. Du kan visa följande avsnitt från Dynamics-användningsrapporten.
 
@@ -34,7 +34,7 @@ Dynamics-användningsrapporten innehåller användningsdata för de Microsoft Dy
 
 I sammanfattningsavsnittet visas en ögonblicksbild av nyckelindikatorerna för de Dynamics-användningsprenumerationer som du har sålt eller hanterat för dina kunder.  
 
-- Tillgängliga platser: Totalt antal sålda licenser under den valda tidsramen.
+- Tillgängliga platser: Totalt antal licenser sålda under den valda tidsramen.
 
    Micro-diagrammet visar en trend för antalet tillgängliga platser per månad för det valda datumintervallet.
 
@@ -76,7 +76,7 @@ Prenumerationsprestanda visar den månatliga trenden för aktiv användning per 
 
 ## <a name="dynamics-usage-distribution"></a>Dynamics-användningsdistribution
 
-Distributionen av Dynamics-användning visar uppdelningen av tillgängliga platser, aktiva platser och tilldelade platser efter SKU:er.
+Dynamics-användningsdistributionen visar uppdelningen av tillgängliga platser, aktiva platser och tilldelade platser efter SKU:er.
 
 :::image type="content" source="images/insights/dynamics-usage-distribution.png" alt-text="Dynamics-användningsdistribution.":::
 

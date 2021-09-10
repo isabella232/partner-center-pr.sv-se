@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 07/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
-description: Förbättra din företagsprofil i Microsofts partnerkatalog. Lär dig mer om avancerade specialiseringar som du kan uppnå tillsammans med dina befintliga guld- och silverkompetenser.
+description: Förbättra din företagsprofil i Microsofts partnerkatalog. Lär dig mer om de avancerade specialiseringar som du kan uppnå tillsammans med dina befintliga guld- och silverkompetenser.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a5e5dc645bf3d3f86eb9f308e0a75f44bf86bc46c464f916736b067539355ac9
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 3ed73b67b38eba1793e79908223810cda25b2201
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115685300"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960433"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Skaffa en avancerad specialisering för att demonstrera dina validerade funktioner
 
@@ -58,7 +58,7 @@ Här är några av de avancerade specialiseringarna i **Azure:**
 - Nätverkstjänster i Microsoft Azure
 
 
-**Business Applications** avancerade specialiseringar är:
+**Business Applications** avancerade specialiseringar omfattar:
 
 - Programutveckling med lite kod
 - Small and Midsize Business Management
@@ -82,7 +82,7 @@ Här är några av de avancerade specialiseringarna i **Azure:**
 
 ## <a name="next-steps"></a>Nästa steg
 
-- Använd Partnercenter [för att söka efter och kontrollera status för avancerade specialiseringar](advanced-specializations-apply.md)
+- Använd Partnercenter för [att söka efter och kontrollera status för avancerade specialiseringar](advanced-specializations-apply.md)
 
 - Läs mer [om avancerade specialiseringar, deras fördelar och unika krav](https://partner.microsoft.com/membership/advanced-specialization)
 

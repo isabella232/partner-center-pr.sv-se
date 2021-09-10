@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: c46f34a0b4b1873c3cca9b64f42848b2051bf6338ccb121b48f8979729f12703
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 387be6313a1e775963c86714a6c5c825a2ca8169
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115694922"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961336"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Skapa en marknadsföringsplan för ditt incitamentsprogram
 
@@ -50,7 +50,7 @@ Mer information om planer för ditt specifika Incitamentsprogram finns i program
 
 9. Fyll i de obligatoriska fälten på sidan **Ny aktivitet**. Du kan välja flera länder. När du är klar väljer du **Spara**. 
 
-10. Gå igenom informationen på statussidan igen. När du har skickat en plan kan du inte redigera den. När du är klar väljer du **Skicka** och väljer sedan **Bekräfta**.
+10. Gå igenom informationen på statussidan igen. När du har skickat in en plan kan du inte redigera den. När du är klar väljer du **Skicka** och väljer sedan **Bekräfta**.
 
 Nu har din plan skickats. Microsoft meddelar din incitamentsadministratör när den har godkänts eller om vi behöver mer information. Du kan visa planens förlopp i fönstret Status på statussidan.
 
@@ -82,7 +82,7 @@ Du måste skapa och skicka din plan senast den sista dagen på programåret. Om 
 
 Microsoft betalar dig varje månad baserat på hur mycket du tjänar och gränserna för ditt prenumerationsavtal. Betalningar görs den 15:e dagen i efterföljande månad.
 
-Om din plan till exempel har godkänts för 10 000 USD och du tjänade 5 000 USD under april får du 5 000 USD den 15 maj.
+Om ditt abonnemang till exempel har godkänts för 10 000 USD och du tjänade 5 000 USD under april får du 5 000 USD den 15 maj.
 
 Om du under samma plan tjänar 15 000 USD i april får du 10 000 USD den 15 maj eftersom 10 000 USD var gränsen för ditt abonnemang. För att få större betalningar måste du höja gränsen för ditt prenumerationsavtal för den efterföljande månaden.
 

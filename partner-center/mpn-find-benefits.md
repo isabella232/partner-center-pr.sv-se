@@ -3,18 +3,18 @@ title: Hitta dina fördelar
 ms.topic: how-to
 ms.date: 11/23/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-benefits
 description: Lär dig hur du hittar dina MPN-förmåner på instrumentpanelen i Partnercenter. Innehåller information om hur du hittar ditt åtkomst-ID och kontrakt-ID för tekniska förmåner.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 85a6a43a1e28a7a6917361dc1fc74cc3d5e8d502
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: b7170bc54611a2b218e741a5e16dd9285187e6c9
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276577"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961106"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Hitta dina Microsoft Partner Network-förmåner 
 
@@ -23,7 +23,7 @@ ms.locfileid: "112276577"
 Den här artikeln talar om för Microsoft Partner Network (MPN) hur de hittar sina MPN-förmåner på instrumentpanelen i Partnercenter. Den här informationen omfattar hur du hittar företagets specifika produktsupport-ID:n, till exempel kontrakt-ID och åtkomst-ID, som är associerade med tekniska förmåner.
 
 >[!NOTE]
-> Om ditt Microsoft Partner Network-medlemskap fortfarande finns i Partner Membership Center (PMC) kan du behöva kontakta en annan resurs som Partner Frontline för att hjälpa dig att visa eller aktivera vissa förmåner. Mer information finns i [Aktivera tekniska förmåner utanför Partnercenter.](partner-membership-center-tech-benefits-activate.md)
+> Om ditt Microsoft Partner Network medlemskap fortfarande finns i Partner Membership Center (PMC) kan du behöva kontakta en annan resurs som Partner Frontline för att hjälpa dig att visa eller aktivera vissa förmåner. Mer information finns i [Aktivera tekniska förmåner utanför Partnercenter.](./partner-membership-center-retirement-faq.md)
 
 ## <a name="find-your-mpn-benefits-in-partner-center"></a>Hitta dina MPN-förmåner i Partnercenter
 
@@ -31,7 +31,7 @@ Som Microsoft Partner Network medlem har ditt företag tillgång till många fö
 
 1. Logga in på [instrumentpanelen i Partnercenter,](https://partner.microsoft.com/dashboard/home) **välj MPN** och välj sedan **Förmåner.**
 
-2. Från Förmåner kan du granska, aktivera, sortera eller ladda ned de fördelar som hör till någon av de kategorier som är tillgängliga för dig. Det gör du genom att välja det förmånsområde som du vill lära dig mer om:
+2. Från Förmåner kan du granska, aktivera, sortera eller ladda ned fördelarna av intresse som hör till någon av de kategorier som är tillgängliga för dig. Det gör du genom att välja det förmånsområde som du vill lära dig mer om:
 
    - [Azure & Cloud-produkter](mpn-benefits-azure-cloud.md)
    - [Programprodukter](mpn-benefits-software.md)
@@ -50,7 +50,7 @@ Som Microsoft Partner Network medlem har ditt företag tillgång till många fö
 
 ## <a name="specific-benefit-offers"></a>Specifika förmånserbjudanden
 
-Om du vill ta reda på vilka fördelar som är tillgängliga med Microsoft Action Pack-, Silver- och/eller Guldkompetenser kan du se följande resurser:
+Information om vilka fördelar som är tillgängliga med Microsoft Action Pack-, Silver- och/eller Guldkompetenser finns i följande resurser:
 
 - [Licenstabell för Microsoft Action Pack partner](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf)
 
@@ -62,4 +62,4 @@ Information om hur du kan använda dessa fördelar finns i [produktanvändningsg
 
 - [Associera Microsoft Learn medarbetarkonton](ms-learn-associate.md)
 - [Hantera dina Microsoft Partner Network och erbjudanden](manage-your-partner-network-benefits.md)
-- [Aktivera tekniska fördelar för medlemmar i Partner Membership Center (PMC)](partner-membership-center-tech-benefits-activate.md)
+- [Aktivera tekniska fördelar för medlemmar i Partner Membership Center (PMC)](./partner-membership-center-retirement-faq.md)

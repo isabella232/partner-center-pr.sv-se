@@ -9,12 +9,12 @@ metadata:
   author: mseamons
   ms.author: mseamons
   ms.localizationpriority: medium
-  ms.openlocfilehash: 82c659bb0610b701c294bafd22201e6c726750e92c7ad2ddaf040c9056dbfd63
-  ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+  ms.openlocfilehash: 868b47431eb6d04c0885f82c13f7611bace24d2c
+  ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "115688921"
+  ms.lasthandoff: 09/09/2021
+  ms.locfileid: "123961326"
 title: Vanliga frågor och svar om incitament
 summary: >
   **Lämpliga roller:** Incitamentsadministratörsroller | Incitamentsanvändare
@@ -47,7 +47,7 @@ sections:
       Mer information finns i Översikt [över behörigheter.](permissions-overview.md)
   - question: >
       Hur tar jag reda på vem som har behörighet som global administratör eller kontoadministratör för mitt företag?
-    answer: "Så här hittar du en global administratör eller kontoadministratör som kan göra rolländringar eller tilldela roller till en ny användare:\n\n1. Från ikonen Kontoinställningar längst upp till höger i Partnercenter väljer du **Användarhantering.**\n2. Filtrera på **antingen Global administratör** eller **Kontoadministratör.**\n3. Du kan också gå **till Min profil,** välja **Roller** och behörigheter och se en lista över de olika administratörer som kan hjälpa dig att höja dina behörigheter.\n \nMer information finns i [Hitta din roll.](find-your-role.md)  \n"
+    answer: "Så här hittar du en global administratör eller kontoadministratör som kan göra rolländringar eller tilldela roller till en ny användare:\n\n1. Från ikonen Kontoinställningar längst upp till höger i Partnercenter väljer du **Användarhantering.**\n2. Filtrera på **antingen Global administratör** eller **Kontoadministratör.**\n3. Du kan också gå **till Min profil**, välja **Roller** och behörigheter och se en lista över de olika administratörer som kan hjälpa dig att höja dina behörigheter.\n \nMer information finns i [Hitta din roll.](find-your-role.md)  \n"
   - question: >
       Jag kan inte komma åt incitament med mina autentiseringsuppgifter.
     answer: >

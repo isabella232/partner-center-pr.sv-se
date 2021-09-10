@@ -10,11 +10,11 @@ ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 7ca839abb193f09d37769e14eedf08ea415e902f
-ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "123458315"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961023"
 ---
 # <a name="new-commerce-experience-for-license-based-services"></a>Ny handelsupplevelse för licensbaserade tjänster
 
@@ -24,9 +24,9 @@ ms.locfileid: "123458315"
 - Försäljningsagent
 - Global administratör
 
-Microsoft har introducerat en ny handelsupplevelse i Partnercenter för licensbaserade tjänster. Den nya handelsupplevelsen ger partner mer flexibilitet och funktioner vid köp och hantering av produkter som Microsoft 365, Dynamics 365, Windows Intune och andra tjänster som har varit tillgängliga i Partnercenter i flera år.
+Microsoft har introducerat en ny handelsupplevelse i Partnercenter för licensbaserade tjänster. Den nya handelsupplevelsen ger partner mer flexibilitet och funktioner när de köper och hanterar produkter som Microsoft 365, Dynamics 365, Windows Intune och andra tjänster som har varit tillgängliga i Partnercenter i flera år.
 
-Partner kommer att fortsätta att kunna köpa licensbastjänster på det traditionella  sättet om de vill, men ser nya handelsindikatorer för dessa erbjudanden i katalogen.
+Partner kommer att fortsätta att kunna köpa licensbastjänster på traditionellt  sätt om de vill, men ser nya handelsindikatorer för dessa erbjudanden i katalogen.
 
 ## <a name="new-capabilities"></a>Nya funktioner
 
@@ -41,9 +41,9 @@ På en hög nivå omfattar de nya funktionerna:
 
 **Nya priser och tilläggsalternativ**
 
-- Möjlighet att få priser för tjänsterna programmatiskt via API:er
-- Mer flexibilitet för att få tilläggstjänster genom att göra sina inköp inte längre beroende av transaktioner med baserbjudande
-- Nya alternativ för månadstid som ger partner mer flexibilitet för sin verksamhet
+- Möjlighet att hämta priser för tjänsterna programmatiskt via API:er
+- Mer flexibilitet för att få tilläggstjänster genom att göra sina inköp inte längre beroende av transaktioner med baserbjudandet
+- Nya alternativ för månadsterminer som ger partner mer flexibilitet för sin verksamhet
 
 **Förenklade faktureringsupplevelser**
 

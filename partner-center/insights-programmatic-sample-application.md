@@ -8,12 +8,12 @@ description: Använd exempelprogrammet för att skapa ett eget program för att 
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: c558852b7c2af7243187a856067d17a2137cfac867149b80e9c852a1d08d780a
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: cb2bc8be9ea49c0d75da4d78961865331ed908c9
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115683800"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960936"
 ---
 # <a name="sample-application"></a>Exempelprogram
 
@@ -49,11 +49,11 @@ git clone https://github.com/partneranalytics/ProgrammaticExportSampleAppMPN.git
 
 :::image type="content" source="images/insights/prog-acc-appsetting-development.png" alt-text="Illustrera json för appsetting-utveckling":::
 
-Om du kör appen startas en lokal webbserver och en sida öppnas ( `https://localhost:44365/ProgrammaticExportSampleApp/sample` ).
+När du kör appen startas en lokal webbserver och en sida öppnas ( `https://localhost:44365/ProgrammaticExportSampleApp/sample` ).
   
 :::image type="content" source="images/insights/prog-acc-sample-application.png" alt-text="Illustrera användargränssnittet för exempelprogrammet":::
 
-Den här sidan gör API-anrop till webbservern som körs på den lokala datorn, vilket i sin tur gör de faktiska API-anropen för programmeringsåtkomst.
+Den här sidan gör API-anrop till webbservern som körs på den lokala datorn, vilket i sin tur gör de faktiska API-anropen för programmatisk åtkomst.
 
 ## <a name="code-snippets"></a>Kodfragment
 

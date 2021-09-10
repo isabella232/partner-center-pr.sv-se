@@ -10,12 +10,12 @@ metadata:
   ms.author: kashanum
   ms.localizationpriority: medium
   ms.custom: SEOMAY.20
-  ms.openlocfilehash: 81b8a8981233179e03733047552049dc0afd0627ee5bca3e74702e9b2df54bec
-  ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+  ms.openlocfilehash: 60586dbabfc289d2ebc355e5d7bacf5bb11fcfe5
+  ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "115682413"
+  ms.lasthandoff: 09/09/2021
+  ms.locfileid: "123961203"
 title: Vanliga frågor och svar om Incitament för Solution Assessment för CHIP (Channel Incentives Platform)
 summary: >
   **Lämpliga roller:** Primär kontakt eller programadministratör
@@ -27,11 +27,11 @@ sections:
   questions:
   - question: >
       Vilka är behörighetskraven för programmet Solution Assessment Incentive?
-    answer: "Partner med aktiv och registrerad status i Solution Assessment Incentives Program i FY20 fortsätter att vara berättigade till incitament i FY21 om de har ett aktivt MPN-medlemskap och en aktiv SILVER- eller guld-MPN-kompetens. Partnerkvalifikationer granskas för berättigande varje år.  Om etablerade partner inte uppfyller behörighets- och deltagandekraven för det aktuella året tas de bort i nästa årliga granskning.  Alla nya partner publiceras via den lokala SAS-specialisten (Solution Assessment Specialist) i sitt område.  SAS identifierar vilka partner som ska publiceras baserat på matchning av kunskaper och expertis i partnerföretaget och affärsbehoven för de dotterbolag som stöds av SAS.\nInnan onboarding-processen påbörjas måste partner diskutera med SAS vilka funktioner företaget har i att stödja utvärderingar på deras lokala plats. \n\nPartner som för närvarande inte är registrerade i incitamentprogrammet måste uppfylla nedanstående fy21-incitamentskriterier för att vara berättigade till registrering av incitament för lösningsbedömning. Mer information finns i [Berättigande till lösningsbedömning.](chip-solutions-assessment-eligible.md)\n"
+    answer: "Partner med aktiv och registrerad status i Solution Assessment Incentives Program i FY20 fortsätter att vara berättigade till incitament i FY21 om de har ett aktivt MPN-medlemskap och en aktiv SILVER- eller guld-MPN-kompetens. Partnerkvalifikationer granskas för berättigande varje år.  Om etablerade partner inte uppfyller behörighets- och deltagandekraven för det aktuella året tas de bort i nästa årliga granskning.  Alla nya partner publiceras via den lokala SAS-specialisten (Solution Assessment Specialist) i sitt område.  SAS identifierar vilka partner som ska publiceras baserat på matchning av kunskaper och expertis i partnerföretaget och affärsbehoven för de dotterbolag som stöds av SAS.\nInnan onboarding-processen påbörjas måste partner diskutera med SAS vilka funktioner företaget har för att stödja utvärderingar på deras lokala plats. \n\nPartner som för närvarande inte är registrerade i incitamentprogrammet måste uppfylla nedanstående fy21-incitamentskriterier för att vara berättigade till registrering av incitament för lösningsbedömning. Mer information finns i [Berättigande till lösningsbedömning.](chip-solutions-assessment-eligible.md)\n"
   - question: >
-      Hur gör jag för att registrera dig i incitamentprogrammet för lösningsutvärderingar?
+      Hur gör jag för att du registrera dig i incitamentprogrammet för lösningsutvärderingar?
     answer: >
-      Kontakta din lokala lösningsbedömningsspecialist (SAS) för att påbörja processen.
+      Kontakta din lokala lösningsutvärderingsspecialist (SAS) för att påbörja processen.
   - question: >
       Hur gör jag för att jag min bank- och skatteinformation?
     answer: >

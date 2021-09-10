@@ -4,50 +4,50 @@ ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
-description: Lär dig hur du lägger till, konsoliderar eller hanterar flera Azure AD-klienter i ditt Partnercenter-konto och lär dig varför du kanske vill göra det.
+description: Lär dig hur du lägger till, konsoliderar eller hanterar flera Azure AD-klienter i ditt Partnercenter-konto och varför du kanske vill göra det.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c3231d824afe1f9c449e9809971c97125908815449fda5605e64655d88c1b03
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 2bb4507fd7e5f60584c8fca99256c964a7521dc8
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115685940"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960793"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Lägga till och hantera flera klienter i ditt Partnercenter-konto
 
 
-**Lämpliga roller:** Global | Kontoadministratör
+**Lämpliga roller:** Globala | Kontoadministratör
 
-Den här artikeln beskriver hur du konsoliderar flera Azure Active Directory-klienter (Azure AD) för ditt företag och sedan lägger till och hanterar dem i ditt Partnercenter-konto. Det finns många skäl att göra det. Ett exempel:
+Den här artikeln beskriver hur du konsoliderar flera Azure Active Directory-klienter (Azure AD) för ditt företag och sedan lägger till och hanterar dem i ditt Partnercenter-konto. Det finns många skäl att göra det. Exempel:
 
 - Anta att ditt företag, Contoso, har köpt ett annat företag, Fabrikam. Du vill att de två företagen ska vara åtskilda, men du vill att de nya medarbetarna ska kunna använda Partnercenter. I det här fallet associerar du det nya företagets Azure AD-klientorganisation med ditt globala partnerkonto (PGA). Den här associationen gör det möjligt för användare i båda företagen att arbeta i Partnercenter.
 
-- Om du driver ditt företag med fler än en klientorganisation (till exempel *contoso.com*, *contoso.uk* och *contoso.in*) kan du använda flera klientorganisationen för att gruppera dem i samma datorkonto.
+- Om du driver ditt företag med mer än en klientorganisation (till exempel *contoso.com*, *contoso.uk* och *contoso.in*) kan du använda flera klientorganisationen för att gruppera dem i samma datorkonto.
 
-- Om riktlinjerna för sammanslagningar och förvärv kräver att du arbetar med klienter för båda företagen använder du både constoso.com *och* *fabrikam.com* klienter.
+- Om riktlinjerna för sammanslagningar och förvärv kräver att du arbetar med klienter för båda företagen använder du både constoso.com *och* *fabrikam.com* klientorganisation.
 
 - Användare av någon av klienterna måste kunna:
-    * Få åtkomst till Partnercenter för utbildning, digitala nedladdningar eller MICROSOFT Certified Professional-association (MCP).
-    * Tilldelas Partner Center-roller som Microsoft Partner Network (MPN)-administratör eller incitamentsadministratör.
+    * Få åtkomst till Partnercenter för utbildning, digitala nedladdningar eller Microsoft Certified Professional-association (MCP).
+    * Tilldelas partnercenterroller som mpn Microsoft Partner Network administratör eller incitamentsadministratör.
 
 ## <a name="add-an-azure-ad-tenant-to-your-account"></a>Lägga till en Azure AD-klientorganisation till ditt konto
 
 1. Logga in som global administratör på [Microsoft Partner Center.](https://partner.microsoft.com/dashboard)
 
-1. Längst upp till höger **väljer Inställningar** väljer **du Kontoinställningar** och sedan **Klienter.**
+1. Längst upp till höger **väljer Inställningar**, **väljer Kontoinställningar** och sedan **Klienter**.
  
    :::image type="content" source="images/merge-accounts/multitenantNew.png" alt-text="Skärmbild av knappen Associera i fönstret Azure AD-profil."::: 
 
 1. Välj **Associera** och ange sedan den klientorganisation som du vill associera.
 
-1. Logga in som global administratör till den klientorganisation som du vill associera i prompten och välj sedan **Bekräfta.** 
+1. Logga in som global administratör till den klientorganisation som du vill associera med i prompten och välj sedan **Bekräfta.** 
 
    :::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="Skärmbild av knappen Bekräfta i fönstret Bekräfta ny Azure AD-association."::: 
 
-   När du har bekräftat associationen visas **meddelandet All set** .. Om du vill visa den nyligen tillagda klienten väljer **du Återgå till klientorganisationshantering.** 
+   När du har bekräftat associationen visas **meddelandet All set** (Allt angett). Om du vill visa den nyligen tillagda klienten väljer **du Återgå till klienthantering.** 
  
 >[!NOTE]
 >Du kan inte associera en klientorganisation med ett konto om den redan är associerad med ett annat Partnercenter-konto.
@@ -63,9 +63,9 @@ Den här artikeln beskriver hur du konsoliderar flera Azure Active Directory-kli
  
 1. Välj **Ta** bort bredvid den klientorganisation vars association du vill ta bort.
 
-   :::image type="content" source="images/disassociate.png" alt-text="Skärmbild av de aktuella klientorganisationsassociationer och deras Ta bort-länkar.":::
+   :::image type="content" source="images/disassociate.png" alt-text="Skärmbild av de aktuella klientorganisationsassociationer och deras Ta bort länkar.":::
 
-   Som du ser i föregående  skärmbild är länkarna Ta bort aktiverade för alla associerade klienter, förutom för den primära klienten och den klientorganisation som du är inloggad på. 
+   Som du ser i föregående  skärmbild är länkarna Ta bort aktiverade för alla associerade klienter, förutom den primära klientorganisationen och den klientorganisation som du för närvarande är inloggad på. 
 
    > [!NOTE]   
    > När du tar bort en klientorganisation har användarna i den klientorganisationen inte längre åtkomst till Partnercenter-kontot och borttagningen kan påverka dina kompetenser. 

@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf75d847320e901638890bef8077a1656399d2ffc5aaaf984af329784d1de030
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 839f6f76e7efde4f0ad51375ceb5801f925c2510
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115678245"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961053"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Förstå fakturan och avstämningsfilen – lär dig hur du hittar dem i Partnercenter
 
@@ -44,7 +44,7 @@ Microsoft utfärdar en faktura för alla licensbaserade avgifter (till exempel O
 
 Exempel:  
 
-**Scenario 1 [enkel valuta]**: Partnern har inköp för 145P-erbjudande Office 365 licenser,  
+**Scenario 1 [enskild valuta]**: Partnern har inköp för 145P-erbjudande Office 365 licenser,  
 
 - Partnern får en PDF-faktura och två avstämningsfiler som täcker avgifterna för både Office 365 och Azure (145p).  
 
@@ -89,7 +89,7 @@ En detaljerad beskrivning av alla fält i din fakturafil (inklusive fält för e
 
 ## <a name="understand-reconciliation-files"></a>Förstå avstämningsfiler
 
- Avstämningsfiler, som ger en detaljerad/detaljerad information om dina avgifter, är tillgängliga för nedladdning tillsammans med PDF-fakturan. Avstämningsfilerna innehåller kundidentifierare och prenumerationsidentifierare som du kan använda för att skapa kundfakturor. Mer information om avstämningsfiler finns i [Så här använder du avstämningsfilerna.](use-the-reconciliation-files.md) 
+ Avstämningsfiler, som ger detaljerad information om dina avgifter, kan laddas ned tillsammans med PDF-filen med faktura. Avstämningsfilerna innehåller kundidentifierare och prenumerationsidentifierare som du kan använda för att skapa kundfakturor. Mer information om avstämningsfiler finns i [Så här använder du avstämningsfilerna.](use-the-reconciliation-files.md) 
 
 ## <a name="next-steps"></a>Nästa steg
 

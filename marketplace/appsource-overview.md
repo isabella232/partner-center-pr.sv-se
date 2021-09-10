@@ -8,11 +8,11 @@ ms.author: gushuchm
 ms.date: 08/16/2021
 ms.custom: contperf-fy21q3
 ms.openlocfilehash: 15b85abde224caafb3f2f6842eb4a38f7b767ffe
-ms.sourcegitcommit: b2b04afce99412870b451878499e002e17e7b636
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "122226811"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123937002"
 ---
 # <a name="what-is-microsoft-appsource"></a>Vad är Microsoft AppSource?
 
@@ -55,7 +55,7 @@ Välj en app från *appresultaten för* att se listsidan för den appen. Vidta �
 
 ## <a name="purchasing-requirements"></a>Inköpskrav
 
-Om du vill köpa SaaS-appar från AppSource behöver du ett Azure Active Directory-konto, som även kallas ett arbets- eller skolkonto. Om din organisation använder Office 365, räcker din vanliga e-postadress. Om du inte har något av dessa konton uppmanas du att registrera dig, vilket är kostnadsfritt. Detaljerade anvisningar finns i Så [här köper du SaaS-appar på Microsoft AppSource](purchase-software-appsource.md).
+Om du vill köpa SaaS-appar från AppSource behöver du ett Azure Active Directory-konto, som även kallas ett arbets- eller skolkonto. Om din organisation använder Office 365 räcker det med din vanliga e-postadress. Om du inte har något av dessa konton uppmanas du att registrera dig, vilket är kostnadsfritt. Detaljerade anvisningar finns i Så [här köper du SaaS-appar på Microsoft AppSource](purchase-software-appsource.md).
 
 ## <a name="certification-and-security"></a>Certifiering och säkerhet
 
@@ -76,7 +76,7 @@ Om du letar efter fristående tillägg kan du hitta dem på något av följande 
 - Öppna [AppSource-produktkatalogen](https://appsource.microsoft.com/marketplace/apps/)och i det vänstra navigeringsfönstret under **Produkter** väljer **du Microsoft 365**. I listan över produkter som visas under **Microsoft 365** väljer du rutorna för de produkter som du vill använda.
 - Eller välj produktikonen för tillägget i SaaS-programmets produktkort för att gå till det specifika tillägg som har dolts från sökvisningen.
 
-Om en SaaS-app kräver köp kan du gå till Så här köper du [SaaS-erbjudanden på Microsoft AppSource](purchase-software-appsource.md).
+Om en SaaS-app kräver köp kan du gå till Så här köper du [SaaS-erbjudanden Microsoft AppSource](purchase-software-appsource.md).
 
 Microsoft 365 Admin kan distribuera både SaaS och tillägg på en enda plats. Mer information finns i Testa [och distribuera Microsoft 365-applikationer – Microsoft 365 administratör.](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps)
 

@@ -9,11 +9,11 @@ ms.subservice: partnercenter-marketplace-publisher
 ms.topic: how-to
 ms.date: 08/05/2021
 ms.openlocfilehash: 4f83d5c85f0316ad5c9d9ad75ca6519b5940146f
-ms.sourcegitcommit: 38afe7e35e3dce4f35cf7352cc98e3d53e979a62
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "122752097"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123937033"
 ---
 # <a name="purchase-a-saas-offer-in-azure-portal"></a>Köpa ett SaaS-erbjudande i Azure Portal
 
@@ -21,7 +21,7 @@ Den här artikeln beskriver de olika alternativen och kraven för att söka efte
 
 ## <a name="create-a-saas-subscription"></a>Skapa en SaaS-prenumeration
 
-Om du vill köpa en SaaS-prenumeration behöver du ett Azure-användarkonto med åtkomst till en lämplig Azure-prenumeration. Den här prenumerationen används för fakturering samt för fackindeling av dina köpta molnresurser. Mer information om Azure-prenumerationer finns i [Skapa ytterligare en Azure-prenumeration.](/azure/cost-management-billing/manage/create-subscription)
+Om du vill köpa en SaaS-prenumeration behöver du ett Azure-användarkonto med åtkomst till en lämplig Azure-prenumeration. Den här prenumerationen kommer att användas för fakturering samt för fackindeling av dina köpta molnresurser. Mer information om Azure-prenumerationer finns i [Skapa ytterligare en Azure-prenumeration.](/azure/cost-management-billing/manage/create-subscription)
 
 I Azure Portal väljer du önskat SaaS-erbjudande i **avsnittet Marketplace.**
 
@@ -40,71 +40,71 @@ När du är i Azure Portal finns det några sätt att begränsa sökningen för 
 
 ### <a name="narrowing-your-search"></a>Begränsa sökningen
 
-På startsidan under **Azure-tjänster väljer** **du + Skapa en resurs** eller **Marketplace.** Eller använd genvägen **G + N** var som helst på plattformen.
+På startsidan under **Azure-tjänster väljer** du **+ Skapa en resurs** eller **Marketplace.** Eller använd genvägen **G + N** var som helst på plattformen.
 
-- Begränsa resultatet till SaaS-erbjudanden med filtret **Erbjudandetyp** och välj sedan **SaaS**.
-- Använd global sökning i det övre navigeringsområdet för att hitta ett specifikt SaaS-erbjudande.
+- Begränsa resultaten till SaaS-erbjudanden med hjälp av **filtret Erbjudandetyp** och välj sedan **SaaS**.
+- Använd det global sökning navigeringsfältet längst upp för att hitta ett specifikt SaaS-erbjudande.
 
 Hitta ett [privat SaaS-erbjudande](./private-plans.md) genom att välja banderollen överst på **Marketplace-startsidan.** Alla erbjudanden eller planer är inte tillgängliga i alla geografiska områden och vissa kanske bara visas för vissa klienter.
 
-Den filtrerade vyn visar varje tillgängligt SaaS-erbjudande som representeras av en rubrik. Välj en för att se produktinformationssidan. Detta omfattar följande avsnitt:
+Den filtrerade vyn visar varje tillgängligt SaaS-erbjudande som representeras av en rubrik. Välj en för att se produktinformationssidan. Som innehåller följande avsnitt:
 
 - Översikt – information om tjänsten, marknadsförings- och utbildningsmaterial
 - Planer + priser – varje erbjudande innehåller minst en plan med olika faktureringsvillkor och priser
-- Användningsinformation + support – innehåller Publisher ID, erbjudande-ID och plan-ID
+- Användningsinformation + support – innehåller id Publisher, erbjudande-ID och plan-ID
 - Klassificering och recensioner av det specifika SaaS-erbjudandet
 
 ## <a name="available-billing-models-plansskus-for-saas-offers"></a>Tillgängliga faktureringsmodeller (planer/SKU:er) för SaaS-erbjudanden
 
-Varje SaaS-erbjudande har en eller flera planer. Varje erbjudande har en associerad prismodell: fast pris eller per användare. Varje planpris är en återkommande avgift som kan vara noll dollar (alla listade priser är endast till exempel och är inte avsedda att återspegla faktiska kostnader). Den här avgiften är antingen ett fast pris eller ett pris per användare. Typer av planer som är tillgängliga:
+Varje SaaS-erbjudande har en eller flera planer. Varje erbjudande har en associerad prismodell: fast pris eller per användare. Varje planpris är en återkommande avgift som kan vara noll dollar (eventuella angivna priser är endast till exempel och inte avsedda att återspegla faktiska kostnader). Den här avgiften är antingen ett fast pris eller ett pris per användare. Typer av planer som är tillgängliga:
 
-- **Månadsplaner –** återkommande månadsavgift; fast avgift eller månatlig avgift per användare som betalas per månad. När perioden är slut förnyas planen automatiskt.
-- **Årliga planer –** återkommande årlig avgift; fast avgift eller årlig avgift per användare som betalas vid en årlig upprepning. När perioden är slut förnyas planen automatiskt.
-- **Anpassade mätare** – tillsammans med de återkommande avgifterna kan en plan för fast pris även innehålla valfria anpassade mätdimensioner för överförbrukningsanvändning som inte ingår i det fasta priset. Varje dimension representerar en fakturerbar enhet. Det här är en variabel kostnad som ändras beroende på användningen av avgiftsmätta enheter, till exempel bandbredd, biljetter eller e-post som bearbetas. Du debiteras enligt din förbrukning av dessa dimensioner månadsvis. Observera att överförbrukning endast startar när du har använt alla enheter med dataförbrukning som ingår i det fasta priset.
+- **Månadsplaner –** återkommande månadsavgift; en fast avgift eller en månatlig avgift per användare som betalas per månad. När perioden är slut förnyas planen automatiskt.
+- **Årliga planer** – återkommande årlig avgift; fast avgift eller årlig avgift per användare som betalas vid en årlig upprepning. När perioden är slut förnyas planen automatiskt.
+- **Anpassade mätare** – tillsammans med de återkommande avgifterna kan en plan för fast pris även innehålla valfria anpassade mätdimensioner för överförbrukningsanvändningen som inte ingår i det fasta priset. Varje dimension representerar en fakturerbar enhet. Det här är en variabel kostnad som ändras beroende på användningen av avgiftsmätta enheter, till exempel: bandbredd, biljetter eller e-post som bearbetas. Du debiteras enligt din förbrukning av dessa dimensioner månadsvis. Observera att överförbrukning endast startar när du har använt alla enheter med dataförbrukning som ingår i det fasta priset.
 - **Kostnadsfri utvärderingsversion** – i vissa fall innehåller planen en utvärderingsperiod på en månad, under vilken du kan använda programvaran kostnadsfritt.  När utvärderingsperioden är slut debiteras du enligt din plan. Utvärderingserbjudanden är inte kompatibla med anpassade mätare.
 
 Dessa prismodeller är tillgängliga för både offentliga och privata planer.
 
-## <a name="saas-purchase-experience"></a>SaaS-köpupplevelse
+## <a name="saas-purchase-experience"></a>Köpupplevelse för SaaS
 
-1. På produktsidan väljer du en plan som uppfyller dina behov och fortsätter att **konfigurera + prenumerera**
+1. På produktsidan väljer du en plan som uppfyller dina behov och fortsätter **att konfigurera + prenumerera**
 2. Som en del av inköpsprocessen **omdirigeras** du till fliken Grundläggande inställningar och du måste:
-    1. Definiera vilken *prenumeration* du vill använda för fakturering. Den Azure-prenumeration som du använder bör ha en giltig inköpsmetod definierad för den. Du bör ha rätt behörighetsnivå eller ha en resursgrupp under prenumerationen med rätt behörighetsnivå. Faktureringsland bör också vara ett land där erbjudandet är tillgängligt för köp. Azure-prenumerationer utan giltig betalningsmetod (till exempel en MSDN-prenumeration) kan bara användas för att köpa kostnadsfria abonnemang
-    1. Välj eller skapa en **resursgrupp som* SaaS-resursen ska tillhöra.
+    1. Definiera vilken *prenumeration* du vill använda för fakturering. Azure-prenumerationen som du använder bör ha en giltig inköpsmetod definierad för den. Du bör ha rätt behörighetsnivå eller ha en resursgrupp under prenumerationen med rätt behörighetsnivå. Faktureringsland bör också vara ett land där erbjudandet är tillgängligt för köp. Azure-prenumerationer utan giltig betalningsmetod (till exempel en MSDN-prenumeration) kan bara användas för att köpa kostnadsfria abonnemang
+    1. Välj eller skapa en **Resursgrupp som* SaaS-resursen ska tillhöra.
     1. Skriv ett *namn för* SaaS-prenumerationen så att du enkelt kan identifiera den senare. När du har köpt det kan du inte ändra namnet.
     1. Under **Plan** visas den plan som du valde på sidan med produktinformation (PDP). Om du inte har gjort ett aktivt val i PDP visas standardplanen. Du kan ändra ditt val genom att välja **länken Ändra** plan. Välj relevant faktureringsperiod och välj sedan en annan plan. Du kanske kan ändra planen efter köpet, om utgivaren stöder det. Du kommer dock inte att kunna ändra perioden från månadsvis till årlig eller från årlig till månatlig.
     1. I fall där prismodellen *är per* användare kan du behöva ange antalet *användare.* Priset som visas ändras baserat på den prenumeration, plan och period som du har valt.
-3. Gå vidare **till** fliken Taggar *–* Taggar är användardefinierade nyckel/värde-par som kan placeras direkt på en resurs eller en resursgrupp. Du kan använda taggar för att enkelt hitta din SaaS-resurs senare. Azure stöder för närvarande upp till 50 taggar per resurs och resursgrupp. Taggar kan placeras på en resurs när den skapas eller läggas till i en befintlig resurs.
-4. Fortsätt att **granska + prenumerera för** att gå igenom erbjudande- och planinformationen.
-    1. Granska *Användningsvillkor,* *ändringar* och *sekretesspolicy för* utgivaren och även för Azure Marketplace
+3. Gå vidare **till** fliken *Taggar –* Taggar är användardefinierade nyckel/värde-par som kan placeras direkt på en resurs eller en resursgrupp. Du kan använda taggar för att enkelt hitta din SaaS-resurs senare. Azure stöder för närvarande upp till 50 taggar per resurs och resursgrupp. Taggar kan placeras på en resurs när den skapas eller läggas till i en befintlig resurs.
+4. Fortsätt till **Granska + prenumerera för** att gå igenom erbjudande- och planinformationen.
+    1. Granska *Användningsvillkor,* *ändringar* och *sekretesspolicy* för utgivaren och även för Azure Marketplace
     1. Du kan bli ombedd att lägga till dina kontaktuppgifter
     1. Granska *information om grunder* *och* taggar
 5. När du har bekräftat det väljer du **Prenumerera.**
 
 ## <a name="saas-subscription-and-configuration"></a>SaaS-prenumeration och konfiguration
 
-När du väljer prenumerera visas meddelandet "Din SaaS-prenumeration pågår". Den här processen bör ta några minuter, stäng inte fönstret förrän det är klart.
+När du väljer prenumerera visas meddelandet "Din SaaS-prenumeration pågår". Den här processen bör ta några minuter, stäng inte fönstret förrän den är klar.
 
-När prenumerationen är klar visas ett meddelande om att saaS-prenumerationen har slutförts, och du bör konfigurera kontot så att du kan börja använda ditt köp. Du får också ett e-postmeddelande som ber dig att aktivera den nya prenumerationen. Om det inte är du som ska konfigurera SaaS-kontot vidarebefordrar du det här e-postmeddelandet till relevant person.
+När prenumerationen är klar visas ett meddelande om att SaaS-prenumerationen har slutförts och du bör konfigurera kontot så att det börjar ta del av köpet. Du får också ett e-postmeddelande som ber dig att aktivera den nya prenumerationen. Om det inte är du som ska konfigurera SaaS-kontot vidarebefordrar du det här e-postmeddelandet till den relevanta personen.
 
-För att slutföra processen och börja använda SaaS måste du börja konfigurera din prenumeration. Genom att välja **knappen Konfigurera** konto nu omdirigeras du till utgivarens webbplats.
+För att slutföra processen och börja använda SaaS måste du börja konfigurera din prenumeration. Genom att **välja knappen Konfigurera** konto nu omdirigeras du till utgivarens webbplats.
 
-Du kan också kontrollera prenumerationsstatusen genom att välja klockikonen i det övre högra hörnet av rubriken.
+Du kan också kontrollera din prenumerationsstatus genom att välja klockikonen i det övre högra hörnet av rubriken.
 
-Om du inte slutför konfigurationsprocessen inom *30 dagar* tas den här SaaS-prenumerationen *bort automatiskt.* Faktureringen startar när ditt konto har konfigurerats på utgivarens webbplats.
+Om du inte slutför konfigurationsprocessen inom *30 dagar* tas Den här SaaS-prenumerationen *bort automatiskt.* Faktureringen startar när ditt konto har konfigurerats på utgivarens webbplats.
 
 Felmeddelanden som du kan stöta på under processen:
 
-- Det går *inte att köpa plannamnet för den* valda planen i en kostnadsfri prenumeration
-  - Uppgradera ditt konto. Mer https://aka.ms/UpgradeFreeSub information finns i .
+- Det går inte *att köpa plannamnet för den* valda planen i en kostnadsfri prenumeration
+  - Mer information finns i Uppgradera https://aka.ms/UpgradeFreeSub ditt konto.
 
-- Köpet misslyckades eftersom det inte gick att hitta ett giltigt kreditkort eller en betalningsmetod som är associerad med din Azure-prenumeration.
+- Köpet misslyckades eftersom det inte gick att hitta ett giltigt kreditkort eller en betalningsmetod som är kopplad till din Azure-prenumeration.
   - Använd en annan Azure-prenumeration eller lägg till\uppdatera aktuellt kreditkort eller betalningsmetod för den här prenumerationen och försök igen.
 
-- Plannamnet *på den plan som* valts  av erbjudandeerbjudandets namn efter utgivare av erbjudande är inte tillgängligt för dig att köpa enligt de regler som angetts av IT-administratören. 
+- Plannamnet *på den plan som* valts  av erbjudandets namn efter utgivare av erbjudandet är inte tillgängligt för köp enligt reglerna som angetts av IT-administratören. 
   - Kontakta IT-administratören.
 
-- Plannamnet *på den plan som*  valts av den *erbjudandeplan* som valts av utgivaren av erbjudandet är inte tillgängligt för köp på grund av privata Marketplace-inställningar som gjorts av din klients IT-administratör.
+- Plannamnet *på den plan som*  valts för den erbjudandeplan som valts av utgivaren av erbjudandet är inte tillgängligt för dig för köp på grund av privata Marketplace-inställningar som gjorts av din klients IT-administratör. 
   - Kontakta IT-administratören
 
 - Köpet misslyckades eftersom den begärda faktureringsperioden är tom eller ogiltig.

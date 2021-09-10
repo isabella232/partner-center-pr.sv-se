@@ -9,16 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e77452a5715b0953852c5efc1f36e8f801d87993334049aaa0a905439abc8f0c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: eefb4f4ee6657acf583ad0b5d4149e662c320184
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115678472"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960253"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Rapport för produktprenumerationer som är tillgänglig från Partnercenter Insights instrumentpanel
 
-**Lämpliga roller:** Global | Administratörsagent | Rapportvisningsprogram | Rapportvisningsprogram för chefer
+**Lämpliga roller:** Globala | Administratörsagentens | Rapportvisningsprogram | Rapportvisningsprogram för chefer
 
 Rapporten Produktprenumerationer visar analys av molnprenumerationer som du har sålt eller som du hanterar för dina kunder. Det här är en produktspecifik rapport som innehåller prestanda för prenumerationer som är associerade med molnprodukter som Office 365, Azure, Dynamics med flera.
 
@@ -27,7 +27,7 @@ Du kan visa följande avsnitt i rapporten Produktprenumerationer.
 - Sammanfattning
 - Geografisk spridning av prenumerationer
 - Lägg till/omsättningstrend för prenumerationer
-- Prenumerationsdistribution efter partnerplatser, försäljningskanal, SKU:er, partner attach-typ, segment
+- Prenumerationsdistribution efter partnerplatser, försäljningskanal, SKU:er, partner bifoga typ, segment
 - Trend efter prenumerations tillstånd
 - Produkttrend
 
@@ -98,7 +98,7 @@ I den här vyn visas distributionen av dina aktuella kundprenumerationer efter p
 
 Den här vyn visar ett stapeldiagram och två cirkeldiagram. Stapeldiagrammet visar en månatlig trend för prenumerationer uppdelade efter kommersiella produkter, till exempel Azure, Office och Dynamics.
 
-De två cirkeldiagrammen visar en uppdelning av dina aktuella kundprenumerationer. Det första cirkeldiagrammet delar upp prenumerationer efter produkter. Det andra cirkeldiagrammet delar upp prenumerationer efter SKU:er eller planer. När du väljer en  produkt i cirkeldiagrammet Produkter visar det intilliggande cirkeldiagrammet en uppdelning av produktens prenumerationer efter SKU:er.
+De två cirkeldiagrammen visar en analys av dina aktuella kundprenumerationer. Det första cirkeldiagrammet delar upp prenumerationer efter produkter. Det andra cirkeldiagrammet delar upp prenumerationer efter SKU:er eller planer. När du väljer en  produkt i detalj efter cirkeldiagrammet Produkter visar det intilliggande cirkeldiagrammet en uppdelning av produktens prenumerationer efter SKU:er.
 
 :::image type="content" source="images/insights/sub-report-prods-trend.png" alt-text="produkttrend.":::
 

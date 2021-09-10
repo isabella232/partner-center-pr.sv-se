@@ -10,11 +10,11 @@ ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 8886831228807c48bd3666daa485ac5357c8c6e2
-ms.sourcegitcommit: 7c0dc665ca5e908de884003aebdd14889fcce5dc
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122464603"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960716"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Få referensinsikter i Partnercenter och ta reda på hur dina hänvisningar fungerar
 
@@ -48,15 +48,15 @@ Det här kortet visar en översikt över hur det går för dina möjligheter til
 
 Diagrammet visar det totala antalet avtal, det antal som vanns, antalet som förlorades och den totala avtalsvolymen (i USD) för den valda tidsperioden.
 
-Måtten för procentuell ändring (visas i rött eller grönt med  en pilindikator) anger skillnaden mellan den senaste fullständiga månaden i det valda datumintervallet och den första fullständiga månaden i **intervallet**. Säg till exempel att det aktuella datumet är 15 juni och att du har valt **3M-filtret** för att visa data för de senaste tre månaderna. I det här fallet skulle dessa mått visa skillnaden mellan maj (den senaste fullständiga månaden under den valda tidsperioden) och mars (den första fullständiga månaden under den valda tidsperioden) det valda datumintervallet är senaste **3** miljoner , jämförelsen skulle vara mellan data för maj och data för mars.
+Måtten för procentuell ändring (visas i rött eller grönt med  en pilindikator) anger skillnaden mellan den senaste fullständiga månaden i det valda datumintervallet och den första fullständiga månaden i **intervallet**. Säg till exempel att det aktuella datumet är 15 juni och att du har valt **3M-filtret** för att visa data för de senaste tre månaderna. I det här fallet skulle de här måtten visa skillnaden mellan maj (den sista fullständiga månaden under den valda tidsperioden) och mars (den första fullständiga månaden under den valda tidsperioden) det valda datumintervallet är senaste **3** miljoner , jämförelsen skulle vara mellan data för maj och data för mars.
 
 :::image type="content" source="images/referrals/cosellanalyticssummary.png" alt-text="Bild som visar sammanfattningskortet för analys av möjligheter till säljförsäljning.":::
 
 ## <a name="conversion-funnel"></a>Konverteringstratt
 
-Det här avsnittet visar en visuell indikator på hur dina avtal flyttas från ett tillstånd till ett annat genom livscykeln. Du kan visa hela livscykeln baserat på avtalsvolymen och avtalsvärdet i USD baserat på huvud pivoten för det här avsnittet. Det första avsnittet är märkt både med tillståndet och typen av avtal för att ge dig en visuell indikator för volymen eller värdet efter typ. Det finns också ett **avsnitt,** Referenser från tidigare , som används för att ange de avtal som du har vidtagit åtgärder för att antingen acceptera/avböja dem eller markera dem som won/lost under den tidsperiod som har valts för rapporten. Du kan använda filter för att visa förloppet för avtal i olika faser i livscykeln.
+Det här avsnittet visar en visuell indikator på hur dina avtal flyttas från ett tillstånd till ett annat genom livscykeln. Du kan visa hela livscykeln baserat på avtalsvolymen och avtalsvärdet i USD baserat på huvud pivoten för det här avsnittet. Det första avsnittet är märkt både med tillståndet och typen av avtal för att ge dig en visuell indikator för volymen eller värdet efter typ. Det finns också ett **avsnitt,** Referenser från tidigare , som används för att ange de avtal som du har vidtagit åtgärder för att antingen acceptera/avböja dem eller markera dem som förlorade/förlorade under den tidsperiod som har valts för rapporten. Du kan använda filter för att visa förloppet för avtal i olika faser i livscykeln.
 
-Inkommande avtal för säljförsäljning kan antingen sammanslås till godkända, avvisade eller utgångna partner eftersom partner måste acceptera eller avvisa de ingående samförsäljningserbjudandena.
+Inkommande avtal för sälj samförsäljning kan sammanfogas med antingen Accepterade, Avvisade eller Utgångna som partner måste antingen godkänna eller neka inkommande samförsäljningserbjudanden.
 
 :::image type="content" source="images/referrals/inbound.png" alt-text="Bild som visar tillstånd för inkommande hänvisningar.":::
 
@@ -110,11 +110,11 @@ Du kan exportera registreringsdata för hänvisningar och avtal. Följande infor
 - Exportfunktionen tar hänsyn till tidslinjen och de filter som har tillämpats.
 - Partnern kan välja att ladda ned rapporten i csv-format (kommaavgränsat värde) eller TSV-format (tabbavgränsat värde).
 - Det kan ta några minuter att ladda ned posterna.
-- Du måste vänta tills nedladdningen har slutförts. Om du navigerar bort avbryts exporten.
+- Du måste vänta tills nedladdningen är klar. Om du navigerar bort avbryts exporten.
 
 ## <a name="no-data"></a>Inga data
 
-Det kan finnas flera orsaker till varför du får ett tomt diagram som nedan vid åtkomst till co-sell-analys enligt beskrivningen nedan.
+Det kan finnas flera orsaker till varför du får ett tomt diagram som nedan när du använder co-sell-analys enligt beskrivningen nedan.
 
 - Det finns inga data för det här kontot. Prova att skapa avtal för att få rapporten ifylld.
 - Det finns ett problem med nätverksanslutningen. Kontrollera internetanslutningen och försök igen.

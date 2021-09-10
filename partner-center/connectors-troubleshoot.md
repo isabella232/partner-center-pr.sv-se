@@ -8,12 +8,12 @@ description: Lär dig svar på vanliga frågor om hur du använder anslutningsap
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: af5f54f1bc4b03fcea0d5aed62f8541c5202166793ab189e355bb2e560fd9f00
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 5143d8e779332fd7df1ebeb3b5175658a0190f4b
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115679972"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960266"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Felsöka anslutningsappar för hänvisningar till säljförsäljning
 
@@ -25,7 +25,7 @@ ms.locfileid: "115679972"
 
 1. Kan du använda en lösning för anslutningsappar för sälj- och säljförsäljning för utvärderingsversion för din miljö?
 
-Om du använder test-/mellanlagringsmiljön kan du välja en utvärderingslösning. Den betalda versionen av anslutningsapparna är tillgänglig i AppSource på US$ 15 per månad. Med den betalda anslutningen får du 10 000 API-anrop per dag. Anslutningsapparna är omslutningar ovanpå Partner Center-hänvisnings-API:er. När anslutningslösningarna körs för en **skapa-** eller **uppdateringshändelse** för antingen Partner Center eller CRM-sidan görs ett API-anrop.
+Om du använder test-/mellanlagringsmiljön kan du välja en utvärderingslösning. Den betalda versionen av anslutningsapparna är tillgänglig i AppSource på US$ 15 per månad. Med den betalda anslutningen får du 10 000 API-anrop per dag. Anslutningsapparna är omslutningar ovanpå Partner Center-hänvisnings-API:er. När anslutningslösningarna körs för en **skapa-** eller **uppdateringshändelse** för antingen Partnercenter eller CRM-sidan görs ett API-anrop.
 
 2. Vilken roll behöver du för att skapa avsnitt i CRM-miljön?
 
@@ -33,7 +33,7 @@ Användare som är systemadministratörer eller systemanpassare kan tillämpa ä
 
 3. Behöver partnerförsäljare särskilda roller för att arbeta i Partnercenter?
  
-Partner säljare måste tilldelas rollen referensadministratör. Mer information finns i Översikt [över behörigheter.](create-user-accounts-and-set-permissions.md)
+Partner-säljare måste tilldelas rollen referensadministratör. Mer information finns i Översikt [över behörigheter.](create-user-accounts-and-set-permissions.md)
 
 4. Vilka fält måste konfigureras först i din CRM-miljö? 
 
@@ -41,7 +41,7 @@ Partner säljare måste tilldelas rollen referensadministratör. Mer information
 
 5. Vilka förutsättningar krävs för att skapa Power Automate miljön?
 
-Om du vill Power Automate en miljö behöver du:
+Om du vill Power Automate miljön behöver du:
 
 - En Power Automate licens krävs.
 - Minst 1 GB lagringsutrymme krävs.
@@ -54,7 +54,7 @@ Salesforce Connector-lösningen är av typen "Dynamics Flow" som stöder synkron
 
 1. Vad ska du göra om du får följande fel när du aktiverar flöden i Power Automate Platform?
 
-Fel: Begäran till Azure Resource Manager misslyckades med fel: "{"error":{"code":"WorkflowTriggerNotFound","message":"Arbetsflödet "e14d00f1-1fdf-4b1b-aaac-54a5064093d3" utlösaren "manual" kunde inte hittas."}}". 
+Fel: Begäran till Azure Resource Manager misslyckades med fel: "{"error":{"code":"WorkflowTriggerNotFound","message":"Arbetsflödet "e14d00f1-1fdf-4b1b-aaac-54a5064093d3" utlösaren "manual" kunde inte hittas."}}'. 
 
 Följ dessa felsökningssteg:
 
@@ -95,12 +95,12 @@ Du lägger till anslutningar till flödet medan flödet körs och lägger till i
 :::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Redigera flödet steg för steg.":::
 
 
-5. Vad ska du göra om flödena i lösningen för anslutningsappar för säljförsäljning inte är på?
+5. Vad ska du göra om flödena i lösningen anslutningsappar för säljförsäljningsreferenser inte är aktivera?
 
 A. I Power Automate måste du redigera flöden i följande ordning och uppdatera dem så att de använder rätt anslutningar:
 
 - Partner Center Webhook Registration (Insider Preview)
-- Skapa hänvisning till säljpartner – Salesforce till Partner Center (insiderförhandsvisning)
+- Skapa hänvisning till säljförsäljning – Salesforce till Partner Center (insiderförhandsvisning)
 - Partner center Microsoft co-sell hänvisningsuppdateringar till Salesforce (insiderförhandsvisning)
 - Partner center till Salesforce (insiderförhandsvisning)
 - Salesforce till Partner Center (Insider Preview)
@@ -121,13 +121,13 @@ C. Aktivera dessa nedanstående flöden:
     
 D. Aktivera alla återstående flöden.
 
-E. Välj Kör i flödet Partner center Webhook Registration (Registrering av Partnercenter-webhook). Ange **HTTP-URL:en** från den första åtgärden **i Partnercenter till Salesforce-flödet.** Välj alla fyra alternativen under **Händelser att registrera** och välj **Ja** för Overwrite (Skriva över).
+E. Välj Kör i flödet Partnercenter Webhook Registration **(Registrering** av Partnercenter-webhook). Ange **HTTP-URL:en** från den första åtgärden **i Partnercenter till Salesforce-flödet.** Välj alla fyra alternativen under **Händelser att registrera** och välj **Ja** för Överskrivning.
 
 ## <a name="questions-and-answers-about-runmaintenance"></a>Frågor och svar om körning/underhåll
 
-1. Hur felsöker du fel Power Automate körningen av flöde?
+1. Hur felsöker du fel Power Automate körningen av flödet?
 
-Information om hur du Power Automate förväntar dig och felsöker fel under körningen finns i Åtgärda [flödesfel.](/power-automate/fix-flow-failures)
+Information om hur du Power Automate dina flöden körs som förväntat och felsöker fel under körningen finns i [Åtgärda flödesfel.](/power-automate/fix-flow-failures)
 
 2. Vad ska du göra om du ser hänvisningar som inte synkroniseras korrekt i Partner Center eller CRM-miljön?
  
@@ -189,9 +189,9 @@ För att kunna skapa en hänvisning till säljförsäljning behöver du en lösn
 
 Gör följande:
 
-- När du har skapat ett nytt säljavtal i Partnercenter kontrollerar du om Partner Center till Dynamics 365-flöde anropas (det kan anropas flera gånger).
+- När du har skapat ett nytt samförsäljningskontrakt i Partnercenter kontrollerar du om PartnerCenter till Dynamics 365-flöde anropas (det kan anropas flera gånger).
 
-- Om flödet anropas kontrollerar du alla anropade flöden och identifierar den flödeskörning som uppdaterar CRM. Du kan följa åtgärderna och kontrollera om CRM har uppdaterats eller om ett problem har uppstått.
+- Om flödet anropas kontrollerar du alla anropade flöden och identifierar flödeskörningen som uppdaterar CRM. Du kan följa åtgärderna och kontrollera om CRM har uppdaterats eller om ett problem har uppstått.
 
 - Markera **Nytt avtal i** Partnercenter för att se om det fylls med CRM-ID.
 

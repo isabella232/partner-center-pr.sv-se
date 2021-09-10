@@ -1,6 +1,6 @@
 ---
 title: Paradigm för programmatisk åtkomst för insikter
-description: Förstå flödet på hög nivå i API-anropsmönstret för programmatisk analys. API:erna för åtkomst till partnerinsiktsanalysrapporter omfattas också.
+description: Förstå flödet på hög nivå i API-anropsmönstret för programmatisk analys. API:erna för åtkomst till analysrapporter med partnerinsikter omfattas också.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
@@ -8,12 +8,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 895b05f2beb8123d8b2cdc7ba43d559247b0c095ada7fddffa1bf554cfe5b233
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 1a06da353c8069d15d597faeaaf8700df5f62fd1
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115687407"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960826"
 ---
 # <a name="programmatic-access-paradigm"></a>Paradigm för programmatisk åtkomst
 
@@ -24,17 +24,17 @@ Det här diagrammet visar api-anropsmönstret som används för att skapa en ny 
 
 Den här listan innehåller mer information om bild 1.
 
-1. Klientprogrammet kan definiera det anpassade rapportschemat/-mallen genom att anropa [API:et för att skapa rapportfråga.](#create-report-query-api) Alternativt kan du välja en rapportmall (QueryId) från de exempel på rapportmallbibliotek som anges [här.](insights-programmatic-system-queries.md)
+1. Klientprogrammet kan definiera det anpassade rapportschemat/mallen genom att anropa [API:et Skapa rapportfråga.](#create-report-query-api) Alternativt kan du välja en rapportmall (QueryId) från de exempel på rapportmallbibliotek som anges [här.](insights-programmatic-system-queries.md)
 2. Om det lyckas returnerar API:et Skapa rapportfråga QueryId.
-3. Klientprogrammet måste sedan anropa [](#create-report-api) API:et Skapa rapport med hjälp av QueryId tillsammans med rapportens startdatum, upprepningsintervall, upprepning och en valfri motringning-URI.
-4. Vid lyckad, [returnerar API:et](#create-report-api) Skapa rapport ReportId.
-5. Klientprogrammet meddelas på återanrops-URL:en så snart rapportdata är klara för nedladdning.
-6. Klientprogrammet använder sedan [API:et Hämta rapportkörningar för](#get-report-execution-api) att fråga efter rapportens status med rapport-ID och datumintervall.
+3. Klientprogrammet måste sedan anropa [](#create-report-api) API:et Skapa rapport med queryId tillsammans med rapportens startdatum, upprepningsintervall, upprepning och en valfri motringning-URI.
+4. Vid Lyckad [returnerar API:et](#create-report-api) Skapa rapport ReportId.
+5. Klientprogrammet meddelas via motringning-URL:en så snart rapportdata är redo för nedladdning.
+6. Klientprogrammet använder sedan API:et [Hämta rapportkörningar för](#get-report-execution-api) att fråga efter rapportens status med rapport-ID och datumintervall.
 7. Om det lyckas returneras nedladdningslänken för rapporten och programmet kan starta nedladdningen av data.
 
 ## <a name="report-query-language-specification"></a>Specifikation för rapportfrågespråk
 
-Vi tillhandahåller [systemfrågor som du](insights-programmatic-system-queries.md) kan använda för att skapa rapporter, men du kan också skapa egna frågor baserat på dina affärsbehov. Mer information om anpassade frågor finns i [Custom Query Specification](insights-programmatic-custom-query.md).
+Vi tillhandahåller [systemfrågor som du](insights-programmatic-system-queries.md) kan använda för att skapa rapporter, men du kan också skapa egna frågor baserat på dina affärsbehov. Mer information om anpassade frågor finns i Custom Query Specification ( [Anpassad frågespecifikation).](insights-programmatic-custom-query.md)
 
 ## <a name="create-report-query-api"></a>Skapa API för rapportfråga
 
@@ -127,9 +127,9 @@ Den här tabellen innehåller viktiga definitioner av element i begärandenyttol
 |    Parameter     |    Beskrivning     |
 |    ----    |    ----    |
 |    QueryId     |    Universell unik identifierare (UUID) för den fråga som du skapade     |
-|    Name     |    Eget namn som anges för frågan i begärandenyttolasten     |
-|    Description     |    Beskrivning som anges när frågan skapas     |
-|    Söka i data     |    Rapportfrågan skickades som indata när frågan skapades     |
+|    Name     |    Eget namn som anges för frågan i nyttolasten för begäran     |
+|    Description     |    Beskrivning som ges när frågan skapas     |
+|    Söka i data     |    Rapportfråga som skickas som indata när frågan skapas     |
 |    Typ     |    Ange till `userDefined`     |
 |    Användare     |    Användar-ID som användes för att skapa frågan     |
 |    CreatedTime     |    UTC-tid då frågan skapades i det här formatet: yyyy-MM-ddTHH:mm:ssZ     |
@@ -210,7 +210,7 @@ Viktiga definitioner av element i nyttolasten för begäran förklaras nedan:
 |    ExecuteNow     |    No     |    Den här parametern ska användas för att skapa en rapport som bara ska köras en gång. `StartTime`, `RecurrenceInterval` och `RecurrenceCount` ignoreras om detta är inställt på sant. Rapporten körs omedelbart på ett asynkront sätt     |    sant/falskt     |
 |    QueryStartTime     |    No     |    Du kan också ange starttiden för frågan som extraherar data. Den här parametern gäller endast för en körningsrapport som har `ExecuteNow` angetts till true. Ange åsidosättningar för den `TIMESPAN` här parametern i frågan. Formatet ska vara yyyy-MM-ddTHH:mm:ssZ     |    Tidsstämpel som sträng     |
 |    QueryEndTime     |    No     |    Du kan också ange sluttiden för frågan som extraherar data. Den här parametern gäller endast för en körningsrapport som har `ExecuteNow` angetts till true. Ange åsidosättningar för den `TIMESPAN` här parametern i frågan. Formatet ska vara yyyy-MM-ddTHH:mm:ssZ     |    Tidsstämpel som sträng     |
-|    RecurrenceInterval     |    Yes     |    Frekvens i timmar då rapporten ska genereras. <br> Minimivärdet är 4 och Maxvärdet är 2160.      |    heltal     |
+|    RecurrenceInterval     |    Yes     |    Frekvens i timmar då rapporten ska genereras. <br> Minimivärdet är 4 och Det högsta värdet är 2160.      |    heltal     |
 |    RecurrenceCount     |    No     |    Antal rapporter som ska genereras.     |    heltal     |
 |    Format     |    No     |    Filformat för den exporterade filen. <br> Standardvärdet är CSV.    |    "CSV"/"TSV"     |
 |    CallbackUrl     |    No     |    Offentligt nåbar URL som kan konfigureras som återanropsmål     |    Sträng (http-URL)     |
@@ -263,7 +263,7 @@ Viktiga definitioner av element i svaret förklaras nedan:
 |    ----    |    ----    |
 |    ReportId     |    Universell unik identifierare (UUID) för den rapport som du skapade     |
 |    ReportName     |    Namn som ges till rapporten i nyttolasten för begäran     |
-|    Description     |    Beskrivning som ges när rapporten skapas     |
+|    Description     |    Beskrivning som anges när rapporten skapas     |
 |    QueryId     |    Fråge-ID som skickades när du skapade rapporten     |
 |    Söka i data     |    Frågetext som ska köras för den här rapporten     |
 |    Användare     |    Användar-ID som används för att skapa rapporten     |
@@ -272,8 +272,8 @@ Viktiga definitioner av element i svaret förklaras nedan:
 |    ExecuteNow     |    `ExecuteNow` flagga som angetts när rapporten skapades     |
 |    StartTime     |    UTC-tid då rapportkörningen börjar i det här formatet: yyyy-MM-ddTHH:mm:ssZ     |
 |    ReportStatus     |    Status för rapportkörningen. Möjliga värden är `Paused` , `Active` och `Inactive`     |
-|    RecurrenceInterval     |    Upprepningsintervall som angavs när rapporten skapades     |
-|    RecurrenceCount     |    Upprepningsantal som angavs när rapporten skapades.      |
+|    RecurrenceInterval     |    Upprepningsintervall som anges när rapporten skapas     |
+|    RecurrenceCount     |    Upprepningsantal som anges när rapporten skapas.      |
 |    CallbackUrl     |    Motringning-URL som anges i begäran     |
 |    CallbackMethod     |    Återanropsmetod som anges i begäran     |
 |    Format     |    Format för rapportfilerna. Möjliga värden är `CSV` eller `TSV` .     |
@@ -284,10 +284,10 @@ Viktiga definitioner av element i svaret förklaras nedan:
 
 ## <a name="get-report-execution-api"></a>Hämta API för rapportkörning
 
-Du kan använda den här metoden för att fråga efter status för en rapportkörning med hjälp av ReportId som tas emot från [Skapa rapport-API.](#create-report-api) Metoden returnerar nedladdningslänken för rapporten om rapporten är redo för nedladdning. Annars returnerar metoden statusen. Du kan också använda det här API:et för att hämta alla körningar som har inträffat för en viss rapport.  
+Du kan använda den här metoden för att fråga efter status för en rapportkörning med hjälp av ReportId som togs emot från Create Report API ( [Skapa rapport-API).](#create-report-api) Metoden returnerar nedladdningslänken för rapporten om rapporten är redo för nedladdning. Annars returnerar metoden statusen. Du kan också använda det här API:et för att hämta alla körningar som har inträffat för en viss rapport.  
 
 >[!IMPORTANT]
->Det här API:et har standardfrågeparametrar för `executionStatus=Completed` och `getLatestExecution=true` . Därför returnerar anrop av API:et före den första lyckade körningen av rapporten 404. Väntande körningar kan hämtas genom att ange `executionStatus=Pending` .
+>Det här API:et har standardfrågeparametrar för `executionStatus=Completed` och `getLatestExecution=true` . Om API:et anropas innan den första lyckade körningen av rapporten returneras därför 404. Väntande körningar kan hämtas genom att ange `executionStatus=Pending` .
 
 ### <a name="request-syntax"></a>Begärandesyntax
 
@@ -306,14 +306,14 @@ Du kan använda den här metoden för att fråga efter status för en rapportkö
 
 |    Parameternamn    |    Krävs    |    Typ    |    Description    |
 |    ----    |    ----    |    ----    |    ----    |
-|    reportId    |    Yes    |    sträng    |    Filtrera för att hämta körningsinformation för endast rapporter med reportId som anges i det här argumentet. Flera reportIds kan anges genom att avgränsa dem med semikolon ";".    |
+|    reportId    |    Yes    |    sträng    |    Filtrera för att hämta körningsinformation för endast rapporter med reportId som anges i det här argumentet. Flera reportIds kan anges genom att avgränsa dem med ett semikolon ";".    |
 |        |        |        |        |
 
 ### <a name="query-parameter"></a>Frågeparameter
 
 |    Parameternamn    |    Krävs    |    Typ    |    Description    |
 |    ----    |    ----    |    ----    |    ----    |
-|    executionId    |    No    |    sträng    |    Filtrera för att hämta information om endast rapporter med executionId som anges i det här argumentet. Flera executionIds kan anges genom att avgränsa dem med semikolon ";".    |
+|    executionId    |    No    |    sträng    |    Filtrera för att hämta information om endast rapporter med executionId som anges i det här argumentet. Flera executionIds kan anges genom att avgränsa dem med ett semikolon ";".    |
 |    executionStatus    |    No    |    Sträng/uppräkning    |    Filtrera för att hämta information om endast rapporter med executionStatus som anges i det här argumentet. <br> Giltiga värden är: `Pending` `Running` , och `Paused` `Completed` . <br> Standardvärdet är `Completed`. <br> Flera statusar kan anges genom att avgränsa dem med semikolon ";".    |
 |    getLatestExecution    |    No    |    boolean    |    API:et returnerar information om den senaste körningen. Som standard är den här parametern inställd på true.<br> Om du väljer att skicka värdet för den här parametern som false returnerar API:et de senaste 90 dagarnas körningsinstanser.    |
 |        |        |        |        |
@@ -366,13 +366,13 @@ Viktiga definitioner av element i svaret.
 |    ----    |    ----    |
 |    ExecutionId    |    Universell unik identifierare (UUID) för körningsinstansen    |
 |    ReportId    |    Rapport-ID som är associerat med körningsinstansen    |
-|    RecurrenceInterval    |    Upprepningsintervall som anges när rapporten skapas    |
-|    RecurrenceCount    |    Antal upprepningar som anges när rapporten skapas    |
+|    RecurrenceInterval    |    Upprepningsintervall som angavs när rapporten skapades    |
+|    RecurrenceCount    |    Antal upprepningar som angavs när rapporten skapades    |
 |    CallbackUrl    |    Motringning-URL som är associerad med körningsinstansen    |
 |    CallbackMethod    |    Återanropsmetod som är associerad med körningsinstansen    |
 |    Format    |    Format för den genererade filen i slutet av körningen    |
 |    ExecutionStatus    |    Status för rapportkörningsinstansen. <br> Giltiga värden är: `Pending` `Running` , , `Paused` och `Completed`    |
-|    ReportAccessSecureLink    |Länk genom vilken rapporten kan nås på ett säkert sätt        |
+|    ReportAccessSecureLink    |Länka genom vilken rapporten kan nås på ett säkert sätt        |
 |    ReportExpiryTime    |    UTC-tid efter vilken rapportlänken upphör att gälla i det här formatet: yyyy-MM-ddTHH:mm:ssZ    |
 |    ReportGeneratedTime    |    UTC-tid då rapporten genererades i det här formatet: yyyy-MM-ddTHH:mm:ssZ    |
 |    TotalCount    |    Antal datauppsättningar i värdematrisen    |

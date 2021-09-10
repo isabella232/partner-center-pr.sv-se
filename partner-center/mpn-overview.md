@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
-description: Läs mer Microsoft Partner Network MPN-förmåner, till exempel Microsoft Action Pack, kompetenser eller programalternativ för att gå till marknaden och sälja dina lösningar.
+description: Lär dig mer Microsoft Partner Network MPN-förmåner, till exempel Microsoft Action Pack, kompetenser eller programalternativ för att gå till marknaden och sälja dina lösningar.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3588ff994882af9c613736ea191aab13b02e00d2fce0e0207d1c64e67a300446
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: bd5acdd94272d9c022eb0e3a034325b2dc1d9f12
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115691964"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960393"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Samarbeta med Microsoft och upptäck medlemsförmåner
 
@@ -26,11 +26,11 @@ När du går med i ett Microsoft-partnerprogram blir du en del av en global comm
 
 ## <a name="join-the-microsoft-partner-network"></a>Anslut till Microsoft Partner Network
 
-Om du vill Microsoft Partner Network går du till [ **sidan Medlemskap** på](https://partner.microsoft.com/membership) MPN-webbplatsen och väljer Registrera **eller** **Anslut nu.**
+Om du vill Microsoft Partner Network till sidan [ **Medlemskap på**](https://partner.microsoft.com/membership) MPN-webbplatsen och väljer **Registrera eller** **Anslut nu.**
 
 ## <a name="action-pack"></a>Action Pack
 
-Action Pack erbjuder programvara, support och fördelar för företag som vill börja, bygga och utöka sin Microsoft-praxis i en molnbaserad mobilvärld.
+Action Pack erbjuder programvara, support och fördelar för företag som vill börja, bygga och utöka sin Microsoft-praxis i en molnbaserad mobil- och värld.
 
 Granska resurserna nedan om du vill veta mer om Action Pack:
 
@@ -45,13 +45,13 @@ Granska resurserna nedan om du vill veta mer om Action Pack:
 
 ## <a name="competencies"></a>Kompetenser
 
-Visa upp dina beprövade kunskaper om att leverera kvalitetslösningar inom ett särskilt affärsområde. Microsofts kompetenser är utformade för att uppfylla dina nuvarande kunders behov och vara identifierbara för potentiella kunder. Gå med på toppnivån hos Microsoft-partner och stå ut från dina kollegor.
+Visa upp dina beprövade kunskaper om att leverera kvalitetslösningar i ett särskilt affärsområde. Microsofts kompetenser är utformade för att uppfylla dina nuvarande kunders behov och vara identifierbara för potentiella kunder. Gå med på toppnivån hos Microsoft-partner och stå ut från dina kollegor.
 
 Granska resurserna nedan om du vill veta mer om kompetenser:
 
 - [Kompetenspartner](https://partner.microsoft.com/membership/competencies)
 
-## <a name="microsoft-partner-network-benefits-and-requirements"></a>Microsoft Partner Network fördelar och krav
+## <a name="microsoft-partner-network-benefits-and-requirements"></a>Microsoft Partner Network och krav
 
 När du går med i Microsoft Partner Network får du en uppsättning viktiga fördelar som kan hjälpa dig att spara tid och pengar samtidigt som du stärka dina funktioner, bättre betjäna kunder och skapa anslutningar för att nå din fulla affärspotential. 
 

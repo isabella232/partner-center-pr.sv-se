@@ -1,26 +1,26 @@
 ---
 title: Skapa och hantera privata Azure Marketplace i Azure Portal
-description: Lär dig mer om att skapa Azure Marketplace privata program (förhandsversion) i Azure Portal i den äldre vyn. Med Azure Marketplace (förhandsversion) kan administratörer styra vilka lösningar från tredje part som deras användare kan använda.
+description: Lär dig mer om att skapa Azure Marketplace privata program (förhandsversion) i Azure Portal i den äldre vyn. Med Azure Marketplace (förhandsversion) kan administratörer styra vilka lösningar från tredje part deras användare kan använda.
 ms.service: marketplace-customer
 ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 08/10/2021
 ms.openlocfilehash: da44807519f18d6aa17e41d8e81b9ad774e40d2d
-ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121914348"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123937044"
 ---
 # <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>Skapa och hantera privata Azure Marketplace i Azure Portal
 
 > [!NOTE]
 > Den här artikeln beskriver äldre privata Azure Marketplace. Den nya vyn Samlingar finns i den här [nya artikeln i](create-manage-private-azure-marketplace-new.md) stället.
 
-Privata Azure Marketplace administratörer styra vilka lösningar från tredje part deras användare kan använda. Den gör detta genom att tillåta användaren att endast distribuera erbjudanden som har godkänts av administratören och som uppfyller företagets principer. Med Private Azure Marketplace kan användarna söka i onlinebutiken efter kompatibla erbjudanden att köpa och distribuera.
+Privata Azure Marketplace administratörer styra vilka tredjepartslösningar deras användare kan använda. Den gör detta genom att tillåta användaren att endast distribuera erbjudanden som har godkänts av administratören och som uppfyller företagets principer. Med Private Azure Marketplace kan användarna söka i onlinebutiken efter kompatibla erbjudanden att köpa och distribuera.
 
-Som Marketplace-administratör (tilldelad roll) börjar du med en inaktiverad och tom privat butik där du kan lägga till godkända erbjudanden och planer. Den här artikeln förklarar hur du tilldelar den roll som krävs, skapar ett privat arkiv, hanterar objekt, godkänner användarbegäranden och aktiverar privata Azure Marketplace för dina användare.
+Som Marketplace-administratör (tilldelad roll) börjar du med ett inaktiverat och tomt privat arkiv där du kan lägga till godkända erbjudanden och planer. Den här artikeln förklarar hur du tilldelar den roll som krävs, skapar ett privat arkiv, hanterar objekt, godkänner användarbegäranden och aktiverar privata Azure Marketplace för dina användare.
 
 > [!NOTE]
 > - Privata Azure Marketplace på klientorganisationsnivå, så alla användare under klientorganisationen ser samma curated lista.
@@ -28,10 +28,10 @@ Som Marketplace-administratör (tilldelad roll) börjar du med en inaktiverad oc
 
 ## <a name="assign-the-marketplace-admin-role"></a>Tilldela administratörsrollen för Marketplace
 
-Klientorganisationens Global administratör tilldela administratörsrollen **Marketplace** till den privata Azure Marketplace som ska hantera det privata arkivet.
+Klientorganisationen Global administratör tilldela administratörsrollen **Marketplace** till den privata Azure Marketplace som ska hantera det privata arkivet.
 
 >[!IMPORTANT]
-> Åtkomst till privat Azure Marketplace är endast tillgänglig för IT-administratörer med administratörsrollen Marketplace tilldelad.
+> Åtkomst till privat Azure Marketplace är endast tillgängligt för IT-administratörer med administratörsrollen Marketplace tilldelad.
 
 ### <a name="prerequisites"></a>Förutsättningar
 
@@ -45,7 +45,7 @@ Dessa krav måste vara uppfyllda innan du kan tilldela administratörsrollen fö
 
 1. Logga in på [Azure-portalen](https://portal.azure.com/).
 
-1. Välj **Alla tjänster** och sedan **Marketplace.**
+1. Välj **Alla tjänster** och sedan **Marketplace**.
 
 1. Välj **Privat Marketplace** på menyn till vänster.
 
@@ -160,7 +160,7 @@ Mer information om cmdletarna i PowerShell-modulen Az.Portal finns i [Microsoft 
 ## <a name="create-private-azure-marketplace"></a>Skapa privat Azure Marketplace
 
 1. Logga in på [Azure-portalen](https://portal.azure.com/).
-2. Välj **Alla tjänster** och sedan **Marketplace.**
+2. Välj **Alla tjänster** och sedan **Marketplace**.
 
    :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="Visar Azure Portal huvudfönstret.":::
 
@@ -168,7 +168,7 @@ Mer information om cmdletarna i PowerShell-modulen Az.Portal finns i [Microsoft 
 
 4. Välj **Kom igång** att skapa privata Azure Marketplace (du behöver bara göra detta en gång).
 
-    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Visar hur du väljer &quot;Kom igång på Azure Portal&quot;-huvudfönstret.":::
+    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Visar hur du väljer Kom igång på Azure Portal huvudfönstret.":::
 
     Om privat Azure Marketplace redan finns för den här klientorganisationen väljs Hantera **Marketplace** som standard.
 
@@ -199,7 +199,7 @@ Ett objekt är en kombination av ett erbjudande och en plan. Du kan söka efter 
 
 Du kan redigera ett objekts planer på sidan Hantera Marketplace.
 
-1. I kolumnen **Planer** granskar du de tillgängliga planerna från den nedrullningsbara menyn för objektet.
+1. Granska de **tillgängliga** planerna i den nedrullningsbara menyn för objektet i kolumnen Planer.
 
 2. Markera eller avmarkera kryssrutorna för att välja vilka planer som ska göras tillgängliga för användarna.
 
@@ -214,7 +214,7 @@ På sidan Hantera Marketplace markerar du kryssrutan bredvid erbjudandets namn (
 
 ## <a name="enabledisable-private-azure-marketplace"></a>Aktivera/inaktivera privat Azure Marketplace
 
-På sidan Hantera Marketplace ser du någon av dessa banderoller, som visar det aktuella tillståndet för privat Azure Marketplace:
+På sidan Hantera Marketplace ser du någon av dessa banderoller, som visar det aktuella tillståndet för Privat Azure Marketplace:
 
 :::image type="content" source="media/private-azure/state-disable.png" alt-text="Visar banderollen &quot;Inaktivera tillstånd&quot;.":::
 
@@ -225,13 +225,13 @@ Du kan aktivera eller inaktivera privata Azure Marketplace efter behov.
 - Om den är inaktiverad **väljer du Aktivera privat Marketplace** för att aktivera.
 - Om aktiverad väljer du **Inaktivera privat Marketplace för** att inaktivera.
 
-## <a name="private-azure-marketplace-notification-center"></a>Meddelandecenter Azure Marketplace privata meddelanden
+## <a name="private-azure-marketplace-notification-center"></a>Privat Azure Marketplace meddelandecenter
 
 Meddelandecenter består av tre typer av meddelanden och låter Marketplace-administratören vidta åtgärder baserat på meddelandet:
 
 - Begäranden om godkännande från användare för objekt som inte finns i listan över godkända (se [Begäran om att lägga till erbjudanden eller planer](#request-to-add-offers-or-plans) nedan).
 - Meddelanden om ny plan för erbjudanden som redan har en eller flera planer i listan över godkända.
-- Planmeddelanden har tagits bort för objekt som finns i listan över godkända men som har tagits bort från den globala Azure Marketplace.
+- Planmeddelanden för objekt som finns i listan över godkända objekt har tagits bort från den globala Azure Marketplace.
 
 Så här kommer du åt meddelandecentret:
 
@@ -304,7 +304,7 @@ Du kan begära att lägga till ett offentligt erbjudande eller en plan som för 
 
 ## <a name="frequently-asked-questions-faqs"></a>Vanliga frågor och svar
 
-#### <a name="i-am-already-blocking-marketplace-third-party-application-through-azure-policy-how-is-this-different"></a>Jag blockerar redan Marketplace-program från tredje part via Azure Policy. Hur är detta annorlunda?
+#### <a name="i-am-already-blocking-marketplace-third-party-application-through-azure-policy-how-is-this-different"></a>Jag blockerar redan marketplace-program från tredje part via Azure Policy. Hur är detta annorlunda?
 
 Det finns för närvarande två sätt att begränsa tjänster från tredje part på Marketplace:
 
@@ -314,7 +314,7 @@ Det finns för närvarande två sätt att begränsa tjänster från tredje part 
 
     :::image type="content" source="media/private-azure/disable-services-other-view.png" alt-text="Visar hur du begränsar tjänster i E A-portalen.":::
 
-2. Skapa en Azure-princip för att endast tillåta specifika virtuella datorer. Mer information om hur du tillämpar en princip för Windows virtuella datorer finns i [Tillämpa principer på Windows virtuella datorer med Azure Resource Manager](/azure/virtual-machines/windows/policy).
+2. Skapa en Azure-princip för att endast tillåta specifika virtuella datorer. Mer information om hur du framtvingar principer Windows virtuella datorer finns i [Tillämpa principer på Windows virtuella datorer med Azure Resource Manager](/azure/virtual-machines/windows/policy).
 
 Privata Azure Marketplace ger större flexibilitet när det gäller att begränsa och tillåta specifika erbjudanden och planer. Den informerar slutanvändarna om tillgängligheten för distribution i Marketplace-galleriet även innan de försöker distribuera tjänster från tredje part. Om du vill tillåta distribution av tjänster från tredje part anger Azure Marketplace till På/Aktiverad i EA-portalen och Azure Portal.
 
@@ -326,7 +326,7 @@ Privata Azure Marketplace ger större flexibilitet när det gäller att begräns
 
 Med **ett privat erbjudande** kan utgivare skapa planer som endast är synliga för målkunder. På så sätt kan de privat dela anpassade lösningar med förhandlad prissättning, privata villkor och specialiserade konfigurationer. Mer information finns i [Privata erbjudanden på den kommersiella marknadsplatsen.](/azure/marketplace/private-offers)
 
-**Privata Azure Marketplace** i Azure Portal administratörer kan förhandsbekänna vilka lösningar från tredje part som deras användare kan distribuera. Med en privat Azure Marketplace kan användarna dra nytta av fördelarna med Azure Marketplace genom att hitta, köpa och distribuera kompatibla erbjudanden. För att hantera prenumerationsbaserade privata erbjudanden på privat Marketplace måste Marketplace-administratören ha minst rollen "läsa" för den specifika prenumerationen.
+**Privata Azure Marketplace** i Azure Portal administratörer förhandsbekänna vilka lösningar från tredje part som deras användare kan distribuera. Med en privat Azure Marketplace kan användarna dra nytta av fördelarna med Azure Marketplace genom att hitta, köpa och distribuera kompatibla erbjudanden. För att hantera prenumerationsbaserade privata erbjudanden på privat Marketplace måste Marketplace-administratören ha minst rollen "läsa" för den specifika prenumerationen.
 
 #### <a name="i-added-a-private-offer-to-the-private-azure-marketplace-why-is-it-not-showing-in-the-manage-marketplace-tab"></a>Jag har lagt till ett privat erbjudande i Azure Marketplace, varför visas det inte på fliken Hantera Marketplace?
 
@@ -340,7 +340,7 @@ Nej. Privata Azure Marketplace it-administratörer kan hantera och hantera lösn
 
 1. Steg-för-steg-guide Skapa en Shared Image Gallery (SIG) ([CLI](/azure/virtual-machines/shared-images-cli), [PowerShell](/azure/virtual-machines/shared-images-powershell)).
 2. Skapa en avbildningsdefinition i en SIG. Kunden bör välja **Generaliserad** för fältet OS-tillstånd. ([CLI](/azure/virtual-machines/image-version-managed-image-cli#create-an-image-definition), [PowerShell](/azure/virtual-machines/image-version-vm-powershell#create-an-image-definition)).
-3. Ta en hanterad avbildning till Shared Image Gallery ([CLI](/azure/virtual-machines/image-version-managed-image-cli), [PowerShell](/azure/virtual-machines/image-version-managed-image-powershell)).
+3. Ta en hanterad avbildning Shared Image Gallery ([CLI](/azure/virtual-machines/image-version-managed-image-cli), [PowerShell](/azure/virtual-machines/image-version-managed-image-powershell)).
 4. SIG VM-avbildningarna skulle finnas i en prenumeration. Om du vill göra den tillgänglig för andra prenumerationer använder du en appregistrering ([CLI](/azure/virtual-machines/linux/share-images-across-tenants), [PowerShell](/azure/virtual-machines/windows/share-images-across-tenants)).
 
 #### <a name="why-do-i-see-some-offers-approved-by-default-even-though-the-publisher-is-not-microsoft"></a>Varför visas vissa erbjudanden godkända **som standard även** om utgivaren inte är Microsoft?

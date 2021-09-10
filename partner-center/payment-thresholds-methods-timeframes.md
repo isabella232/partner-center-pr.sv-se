@@ -1,27 +1,27 @@
 ---
-title: Utbetalningsinformation per region – Microsofts kommersiella marknadsplats
-description: Lär dig mer om betalningstidsramar och Microsofts onlinebutiker där du kan ta emot betalningar. Dessa kan variera beroende på land, region och typ av utbetalningskonto.
+title: Utbetalningsinformation efter region – Microsofts kommersiella marknadsplats
+description: Lär dig mer om betalningstidsramar och Microsofts onlinebutiker där du kan ta emot betalningar. Dessa kan variera beroende på land, region och utbetalningskontotyp.
 author: eunjkim520
 ms.author: eunjkim
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 ms.date: 02/02/2021
-ms.openlocfilehash: 43b4cea49d5a716a5ca1e9bf397fcc105e4d6fc23c1924e537c05ac1d2ee1728
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 51b2ca2ce98789b41014597efd695fc61e7cbada
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115694242"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960483"
 ---
 # <a name="payment-thresholds-methods-and-time-frames"></a>Betalningströsklar, metoder och tidsramar
 
-Den uppskattade tiden för att överföra betalningar och onlinebutikerna som du kan ta emot betalningar från kan variera beroende på land/region och typ av utbetalningskonto. Den här artikeln beskriver de betalningsmetoder som stöds i varje land och region.
+Den uppskattade tiden för att överföra betalningar och de onlinebutiker som du kan ta emot betalningar från kan variera beroende på land/region och typ av utbetalningskonto. Den här artikeln beskriver de betalningsmetoder som stöds i varje land och region.
 
 För varje land och region betalar vi med ACH/SEPA eller banköverföring. Vissa länder och regioner stöder PayPal som betalningsmetod.
 
 > [!NOTE]
-> Mer information om när Microsoft utfärdar utbetalning för den kommersiella marknadsplatsen efter att en transaktion har skett finns i [Utbetalningsprincipinformation](payout-policy-details.md).
+> Mer information om när Microsoft utfärdar utbetalningar för den kommersiella marknadsplatsen efter att en transaktion har skett finns i [Information om utbetalningsprincip.](payout-policy-details.md)
 
 ## <a name="number-of-days-for-payments-to-reach-payout-account"></a>Antal dagar som betalningar ska nå utbetalningskontot
 
@@ -35,7 +35,7 @@ Vi skickar vanligtvis alla betalningar som förfaller under en viss månad den 1
 | | |
 
 >[!NOTE]
->På grund av ändringar i växelkurser kan det exakta försäljningsbeloppet variera något från en valuta till en annan. Exchange beräknas månadsvis. Baserat på när transaktionen ägde rum tillämpas lämplig växelkurs. Växelkursen och datumpriset som den var i kraft anges i utbetalningsrapporten i kolumnerna exchangeRate respektive exchangeRateDate.
+>På grund av ändringar i växelkurser kan det exakta försäljningsbeloppet variera något från en valuta till en annan. Exchange beräknas månadsvis. Baserat på när transaktionen ägde rum tillämpas lämplig växelkurs. Växelkursen och datumkursen som den var i kraft anges i din utbetalningsrapport i kolumnerna exchangeRate respektive exchangeRateDate.
 
 
 ## <a name="payment-methods-in-countries-and-regions"></a>Betalningsmetoder i länder och regioner
@@ -77,7 +77,7 @@ Det här är de länder och regioner där ovanstående betalningsmetoder använd
 | Colombia | Ja | Ja | Ja | Ja |
 | Komorerna | Ja | Ja | Inga | Inga |
 | Kongo (DR) | Ja | Ja | Ja | Inga |
-| Republiken Republiken Kina | Ja | Ja | Ja | Inga |
+| Republiken | Ja | Ja | Ja | Inga |
 | Costa Rica | Ja | Ja | Ja | Ja |
 | Côte d’Ivoire | Ja | Ja | Ja | Inga |
 | Kroatien | Ja | Ja | Ja | Inga |

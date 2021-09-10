@@ -1,18 +1,18 @@
 ---
 title: Få betalt i Partnercenter
-description: Lär dig mer om att ta emot betalningar för intäkter som en Microsoft-partner, till exempel via erbjudanden på den kommersiella marknadsplatsen, incitamentprogram och Molnlösningsleverantör-programmet. Innehåller utbetalningsprincip, utbetalningsstatus och utbetalningsutdrag.
+description: Lär dig mer om att ta emot betalningar för intäkter som en Microsoft-partner, till exempel via erbjudanden på den kommersiella marknadsplatsen, incitamentprogram och Molnlösningsleverantör program. Innehåller utbetalningsprincip, utbetalningsstatus och utbetalningsutdrag.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 ms.date: 07/12/2021
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: bc1a9eb3c0fde48a589d57ab40671791244c20cfa028ccae5de3cf5ee6a322ed
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 99cc0172f9cb1e09bdc77bbd9187ad2452c19c61
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115697286"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960493"
 ---
 # <a name="getting-paid-in-partner-center"></a>Få betalt i Partnercenter
 
@@ -38,16 +38,16 @@ Innan du får betalt första gången måste du konfigurera ditt utbetalningskont
 
 Som standard skickar vi betalningar månadsvis enligt beskrivningen ovan. Du kan dock lägga dina utbetalningsbetalningar för ett program i spel och Microsoft kommer inte att släppa dina betalningar till ditt konto. Om du väljer att vänta med dina utbetalningsbetalningar fortsätter vi att registrera eventuella intäkter på **sidan Utbetalningar.** Men vi skickar inga betalningar till ditt konto förrän du tar bort stödet.
 
-Om du vill hålla dina betalningar väljer du **Inställningar** kugghjulsikonen längst upp till höger och sedan **Kontoinställningar.** Välj **Utbetalning och skatt** på den  vänstra menyn och i avsnittet Tilldelning av utbetalnings- och skatteprofil letar du upp det program som du vill att betalningar ska hållas för. Markera kryssrutan **Håll min betalning för** att hålla betalningar för det här programmet. Du kan ändra statusen för din utbetalningsstatus när som helst, men ditt beslut påverkar nästa månatliga utbetalning. Om du till exempel vill hålla aprilutbetalningen ska du se till att ställa in din utbetalningsstatus på **På** innan slutet av mars.
+Om du vill hålla dina betalningar väljer du **Inställningar** kugghjulsikonen längst upp till höger och sedan **Kontoinställningar.** Välj **Utbetalning och skatt** på den  vänstra menyn och i avsnittet Tilldelning av utbetalnings- och skatteprofil letar du upp programmet som du vill att betalningar ska hållas för. Markera kryssrutan **Håll min betalning för** att hålla betalningar för det här programmet. Du kan ändra statusen för din utbetalningsstatus när som helst, men ditt beslut påverkar nästa månadsutbetalning. Om du till exempel vill hålla kvar aprilutbetalningen ska du se till att ställa in din utbetalningsstatus på **På** innan slutet av mars.
 
-När du har ställt in din utbetalningsstatus på **På**, kommer alla utbetalningar för det här programmet att vara kvar tills du avmarkerar kryssrutan till **Av**. När du gör det inkluderas du under nästa månatliga utbetalningscykel (förutsatt att betalningströskeln har uppnåtts). Om du har fått dina utbetalningar incheckade, men vill att en utbetalning ska genereras i juni, avmarkerar du kryssrutan till **Av** innan slutet av maj.
+När du har ställt in din utbetalningsstatus på **På** är alla utbetalningar för det här programmet kvar tills du avmarkerar kryssrutan till **Av**. När du gör det inkluderas du under nästa månatliga utbetalningscykel (förutsatt att betalningströskeln har uppnåtts). Om du har fått dina utbetalningar incheckade, men vill att en utbetalning ska genereras i juni, avmarkerar du kryssrutan till **Av** innan slutet av maj.
 
 >[!Note]
 > Din utbetalningsstatus gäller för varje program individuellt (Microsoft Store, annonsering, Azure Marketplace och så vidare). Om du vill hålla betalningar för alla dina program kan du hålla betalningen på varje program individuellt.
 
 ## <a name="payout-statements"></a>Utbetalningsinstruktioner
 
-Utbetalningsutdraget visar dina intäkter från försäljningen från dina erbjudanden och tillägg i transaktionshistoriken. Du kan också visa betalningsinformation och ladda ned rapporter i tsv- eller csv-format. Se [Utbetalningsutdrag](payout-statement.md) om du vill veta mer om hur du kommer åt utbetalningsutdrag och information om transaktionshistorik och betalningsrapporter. Dessutom kan du använda API:et [för partnerbetalningar för](https://apidocs.microsoft.com/services/partnerpayouts) att systematiskt hämta utbetalningsrapporterna.
+Utbetalningsutdraget visar dina intäkter från försäljningen från dina erbjudanden och tillägg i transaktionshistoriken. Du kan också visa betalningsinformation och ladda ned rapporter i tsv- eller csv-format. Se [Utbetalningsutdrag](payout-statement.md) för att lära dig mer om hur du kommer åt utbetalningsutdrag och information om transaktionshistorik och betalningsrapporter. Dessutom kan du använda API:et [för partnerbetalningar för](https://apidocs.microsoft.com/services/partnerpayouts) att systematiskt hämta utbetalningsrapporterna.
 
 ## <a name="next-steps"></a>Nästa steg
 

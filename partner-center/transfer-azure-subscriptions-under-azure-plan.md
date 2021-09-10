@@ -1,20 +1,20 @@
 ---
-title: Överföra En Azure-prenumeration under en Azure-plan till en annan CSP-partner
+title: Överföra Azure-prenumeration under en Azure-plan till en annan CSP-partner
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Lär dig hur du ändrar Molnlösningsleverantör partner som är associerad med en kunds Azure-prenumerationer under en Azure-plan.
+description: Lär dig hur du ändrar Molnlösningsleverantör programpartner som är associerad med en kunds Azure-prenumerationer under en Azure-plan.
 ms.custom: SEOMAY.20
 ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/21/2021
-ms.openlocfilehash: 3b1f2213537a0a62b60d14b8209ba5c8a71a2a5f702476cefdb7845c7c6e5438
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 14f03a8eb899f7224a38b0f998edd72077b34b3b
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115695523"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960993"
 ---
 # <a name="transfer-a-customers-azure-subscriptions-to-a-different-csp-under-an-azure-plan"></a>Överföra en kunds Azure-prenumerationer till en annan CSP (under en Azure-plan)
 
@@ -38,11 +38,11 @@ Kunden måste kommunicera med både den aktuella och framtida partnern innan öv
 - Fakturering och fakturering flyttas till den framtida partnern när prenumerationen överförs.
 - Rollbaserad åtkomstkontroll i Azure (RBAC) påverkas inte av överföringar.
 - Admin on Behalf Of (AOBO) beviljas inte som standard till den framtida partnern.
-- Tredjepartsprodukter Azure Marketplace överförs så länge produkterna klarar Azure Marketplace behörighetskontroll.
+- Tredjepartsprodukter Azure Marketplace överförs så länge produkterna klarar den kontroll Azure Marketplace behörigheten.
     - Det finns inga särskilda rabatter eller regionala begränsningar.
     - Produkterna är inte prenumerationsbaserade.
     - Den framtida partnern bör samarbeta med utgivaren för att se till att utgivaren finns på listan över tillåtna för distribution av produkten.
-    - Om något av dessa villkor inte uppfylls bör Azure Marketplace produkter avbrytas. Sedan bör Azure-prenumerationerna överföras och Azure Marketplace bör köpas med den nya partnern.
+    - Om något av dessa villkor inte uppfylls bör Azure Marketplace produkter avbrytas. Sedan ska Azure-prenumerationerna överföras och Azure Marketplace bör köpas med den nya partnern.
 
 ## <a name="prerequisites"></a>Förutsättningar
 
@@ -85,7 +85,7 @@ Prenumerationens framtida partner måste fylla i ett formulär för överföring
     :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Skärmbild som visar en bekräftelse av överföringsbegäran.":::
 
     > [!NOTE]
-    > Den framtida partnern kan avbryta  överföringsbegäran genom att välja Avbryt begäran i det övre högra hörnet i fönstret endast när statusen för överföringsbegäran är "väntande". När statusen för överföringsbegäran är "pågår" eller "klar" går det inte att avbryta.
+    > Den framtida partnern kan avbryta  överföringsbegäran genom att välja Avbryt begäran i det övre högra hörnet av fönstret endast när statusen för överföringsbegäran är "väntande". När statusen för överföringsbegäran är "pågår" eller "klar" går det inte att avbryta.
 
 ## <a name="current-partner-tasks"></a>Aktuella partneruppgifter 
 

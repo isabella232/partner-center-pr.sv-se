@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b84a46f20cb81a54ddf8ae13ed7156ffcf613c06a075dd597e9586e89608bc78
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 08672379e300eccf18a0a1f0cfc1e41b4b7dbc91
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115696044"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961567"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Felsöka problem med kontokonfiguration eller MPN-förnyelse
 
@@ -24,7 +24,7 @@ Här är några förslag på felsökning av vanliga problem som uppstår när du
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>Vad händer om du migrerar från Partner Membership Center och du inte kan redigera fält för företagsinformation
 
-Om ditt företag redan finns i Partnercenter (till exempel ett Molnlösningsleverantör-konto (CSP) visas en skrivskyddad skärm. Den här skärmen visar all information om ditt företag som det finns i Partnercenter.
+I fall där ditt företag redan finns i Partnercenter (till exempel ett Molnlösningsleverantör-konto (CSP) – visas en skrivskyddad skärm. Den här skärmen visar all information om ditt företag som det finns i Partnercenter.
 
 Du kan inte ändra informationen på den här skärmen. Detta är enligt design och inte ett fel.
 

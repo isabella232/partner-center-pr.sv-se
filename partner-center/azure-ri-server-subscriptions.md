@@ -9,17 +9,17 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18b52fe72614ef6c0b501af4ecb4aafffd0150d89eaf50f255663aa6f831345d
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 752b7b9eee2da69dec597f56d1ddc2968aa7c29a
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115680693"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961266"
 ---
-# <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Skaffa, etablera och & hantera azure-reserverade VM-instanser (RI) + serverprenumerationer för kunder
+# <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Skaffa, etablera och & hantera RESERVERADE VM-instanser (RI) + serverprenumerationer för kunder
 
 
-**Lämpliga roller:** Administratörsagent | Globala | Supportagent för | Försäljningsagent | Administratör för användarhantering
+**Lämpliga roller:** Administratörsagent | Globala | Supportagent | Försäljningsagent | Administratör för användarhantering
 
 
 ## <a name="what-are-azure-reservations"></a>Vad är Azure Reservations?
@@ -43,7 +43,7 @@ Med en omatchad kombination av övertygande priser och omatchad distributionsfle
 
 - Se [Köpa reservationer](/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) i Azure-portalen.
 
-- Se listan med kommersiella priser för **Azure RI CSP** under [](https://partner.microsoft.com/dashboard/sell/pricingandoffers) kategorin Microsoft Azure **Reserved Instances** på sidan Priser och erbjudanden i Partnercenter för programvaruprenumerationer och årliga Linux ISV-prenumerationer.
+- Se **Azure RI CSP Commercial Price List** under kategorin Microsoft Azure [](https://partner.microsoft.com/dashboard/sell/pricingandoffers) **Reserved Instances** på sidan Priser och erbjudanden i Partnercenter för programvaruprenumerationer och årliga Linux ISV-prenumerationer.
 
 
  
@@ -102,7 +102,7 @@ Tidigare registrerade händelser för licensieringsberedskap på begäran inneh�
 
 - CSP Online Services, CSP Azure och allmänna licensieringsuppdateringar, inklusive Azure (november 2018)
 
-- SQL Db Reserved Capacity & Instance Size Flexibility (Flexibel instansstorlek för DB-reserverad &) (augusti 2018)
+- SQL Db Reserved Capacity & Instance Size Flexibility (Augusti 2018)
 
 - Serverprenumerationer i CSP (juli 2018)
 
@@ -110,11 +110,11 @@ Tidigare registrerade händelser för licensieringsberedskap på begäran inneh�
 
 ## <a name="operations"></a>Operations
 
-Guide till nya handelsåtgärder i [Partnercenter:](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)Omfattande guide som omfattar viktiga policy- och driftaspekter, till exempel avtal, beställning via Partnercenter, faktura, prislista, incitament, avstämningsfil, API/SDK, sandbox-miljö och Azure Partner Shared Services.
+[Partnercenter](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)– ny guide för handelsåtgärder: Omfattande guide som omfattar viktiga policy- och driftaspekter, till exempel avtal, beställning via Partnercenter, faktura, prislista, incitament, avstämningsfil, API/SDK, sandbox-miljö och Azure Partner Shared Services.
 
 ## <a name="azure-hybrid-benefit"></a>Azure Hybrid-förmån
 
-Den [Azure Hybrid-förmån](https://azure.microsoft.com/pricing/hybrid-benefit) är en prisförmån för kunder som har licenser med Software Assurance, vilket hjälper till att maximera värdet av befintliga lokala Windows Server- och/eller SQL Server-licensinvesteringar när de migrerar till Azure. Berättigade kunder kan spara upp till 40 % * på Azure Virtual Machines (infrastruktur som en tjänst eller IaaS) och spara upp till 55 % på Azure SQL Database (plattform som en tjänst eller PaaS) och SQL Server på Azure Virtual Machines (IaaS) med Azure Hybrid-förmån, vilket ökar till upp till 80 % i kombination med reserverade Azure-instanser.
+Den [Azure Hybrid-förmån](https://azure.microsoft.com/pricing/hybrid-benefit) är en prisförmån för kunder som har licenser med Software Assurance, vilket hjälper dig att maximera värdet av befintliga lokala Windows Server- och/eller SQL Server-licensinvesteringar när de migrerar till Azure. Berättigade kunder kan spara upp till 40 % * på Azure Virtual Machines (infrastruktur som en tjänst eller IaaS) och spara upp till 55 % på Azure SQL Database (plattform som en tjänst eller PaaS) och SQL Server på Azure Virtual Machines (IaaS) med Azure Hybrid-förmån, vilket ökar till upp till 80 % i kombination med reserverade Azure-instanser.
 
 ## <a name="next-steps"></a>Nästa steg
 

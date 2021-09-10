@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e0b3f29c3aa6a2e14df3bd87e3c395924702093e680929c8f4e433785d17e0cb
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 32dc94a4bd85160a02a4be880469f713d98449ba
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115691063"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961243"
 ---
 # <a name="credit-limit-enforcement-cle"></a>Tvingande kreditgräns (CLE)
 
@@ -26,7 +26,7 @@ Din kreditgräns är det maximala belopp (i amerikanska dollar) som du som partn
 
 Kreditgränser gäller för erbjudanden i Azure-plan, Azure-reservationer, programvara, Marketplace, Azure 145 P, Office och Dynamics-produkter. Kreditgränser gäller inte för förnyelser och löpande förbrukning.
 
-Vi tilldelar din kreditgräns på klientorganisationsnivå under registreringsperioden. Vi baserar den på dina prognostiserade intäkter, köpprowes och betalningshistorik. Vi använder sedan följande formel för att beräkna ditt tillgängliga saldo:
+Vi tilldelar din kreditgräns på klientorganisationsnivå under registreringsperioden. Vi baserar den på dina prognostiserade intäkter, inköp och betalningshistorik. Sedan använder vi följande formel för att beräkna ditt tillgängliga saldo:
 
 **[Kreditgräns – (inkommande köp + utestående obetalta fakturor + ej fakturerade avgifter – överskottsbetalning)]**
 
@@ -48,7 +48,7 @@ Ja, det gäller för båda.
 
 Du bör kunna återuppta köpet inom 24 timmar från betalningen, förutsatt att Microsoft har fått alla krav för att fortsätta med kreditkontrollprocessen.
 
-### <a name="how-can-i-check-my-credit-limit"></a>Hur kan jag kontrollera min kreditgräns?
+### <a name="how-can-i-check-my-credit-limit"></a>Hur kontrollerar jag min kreditgräns?
 
 Kontakta [ucmwrcsp@microsoft.com](mailto:ucmwrcsp@microsoft.com) om du vill se din kreditgräns och få information om de senaste köpen.
 

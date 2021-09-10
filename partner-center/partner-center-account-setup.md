@@ -9,27 +9,27 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 65dacdeb038eafd2be2e5b775598b03798f0e5c21714db5f8023a5a5785062d0
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 2cfb8e05a9d09aa3b7214ac3c1024348348416d5
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115696463"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960446"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Hantera ditt Partnercenter-konto – företagsprofil, bankinformation, roller, behörigheter med mera
 
 **Lämpliga roller:** Globala | Kontoadministratör
 
-Det konto som du skapar i Partnercenter när du registrerar är din e-postadress för arbetet plus din affärsinformation. När du har skapat ett konto slutför du inställningen av företagets fullständiga profil, inklusive supportinformation, skattebefrielse för filer vid behov och primär kontaktinformation. Ditt företags konto innehåller även användarkonton för alla i ditt team som ska använda Partnercenter. De kan bland annat lägga till eller hantera kunder, sälja prenumerationer, arbeta med fakturering, skapa affärsprofiler, hantera hänvisningar, arbeta med incitamentsprogram, tillhandahålla support och mycket mer.
+Det konto som du skapar i Partnercenter när du registrerar är din e-postadress för arbetet plus din affärsinformation. När du har skapat ett konto slutför du inställningen av företagets fullständiga profil, inklusive supportinformation, momsbefrielse för filer vid behov och primär kontaktinformation. Ditt företags konto innehåller även användarkonton för alla i ditt team som ska använda Partnercenter. De kan bland annat lägga till eller hantera kunder, sälja prenumerationer, arbeta med fakturering, skapa affärsprofiler, hantera hänvisningar, arbeta med incitamentsprogram, tillhandahålla support och mycket mer.
 
 Se även artiklarna [Bjud in anställda att gå med i Partnercenter](./partner-membership-center-retirement-faq.md) och Lägga till en ny [användare.](create-user-accounts-and-set-permissions.md)
 
 >[!NOTE]
->Menyn Kontoinställningar ändras beroende på vilka program du har registrerat dig i. Om du till exempel är en partner i Molnlösningsleverantör-programmet (CSP) kommer du att kunna hantera dina Azure Shared-tjänster från **Kontoinställningar.**
+>Menyn Kontoinställningar ändras beroende på vilka program du har registrerat dig i. Om du till exempel är en partner i Molnlösningsleverantör-programmet (CSP) kan du hantera dina Azure Shared-tjänster från **Kontoinställningar.**
 
 ## <a name="account-management"></a>Kontohantering
 
-Alla kommersiella partner och utvecklarpartner får åtkomst till [](https://partner.microsoft.com/dashboard) Kontohantering i Partnercenter genom att logga **in** på instrumentpanelen i Partnercenter och välja **Inställningar** (kugghjulsikonen) i det övre högra hörnet på skärmen och sedan **Kontoinställningar.** Du behöver inte längre välja mellan inställningar för Partner och Utvecklare. Alla profiler och inställningar kombineras nu.
+Alla kommersiella partner och utvecklarpartner får åtkomst till Kontohantering i Partnercenter genom att logga **in** på instrumentpanelen i [Partnercenter](https://partner.microsoft.com/dashboard) och välja **Inställningar** (kugghjulsikonen) i det övre högra hörnet på skärmen och sedan **Kontoinställningar.** Du behöver inte längre välja mellan inställningar för Partner och Utvecklare. Alla profiler och inställningar kombineras nu.
 
 :::image type="content" source="images/accountsettings/opening.png" alt-text="inställningsikon.":::
 
@@ -97,11 +97,11 @@ Den här sidan innehåller Partnercenter-identiteter för ditt företag: MPN-IDE
 
 ### <a name="company-profile"></a>Företagsprofil
 
-Den här sidan visar vilken typ av samarbete du har med Microsoft, till exempel oberoende programvaruleverantör eller CSP-programpartner. Den visar antalet kunder som du arbetar med, årliga intäkter och företagets aktuella storlek. Expandera företagsinformation  på sidan Företagsinformation för att berätta för Microsoft vilken typ av arbete du vill göra med Microsoft, till exempel skapa program, sälja programvara från Microsoft och tredje part eller vara systemintegratör. Du kan också definiera var du för närvarande gör affärer och de språk där du vill expandera din verksamhet i framtiden.
+Den här sidan visar vilken typ av partnerskap du har med Microsoft, till exempel oberoende programvaruleverantör eller CSP-programpartner. Den visar antalet kunder som du arbetar med, årliga intäkter och företagets aktuella storlek. Expandera företagsinformation  på sidan Företagsinformation för att berätta för Microsoft vilken typ av arbete du vill göra med Microsoft, till exempel skapa program, sälja programvara från Microsoft och tredje part eller vara systemintegratör. Du kan också definiera var du för närvarande gör affärer och de språk där du vill expandera din verksamhet i framtiden.
 
 ### <a name="account-merge-profile"></a>Kontosammanslagningsprofil
 
-När du bjuder in ett företag som har ett aktivt konto i Partnercenter för att slå samman sitt konto med ditt, hanteras den informationen på **sidan Kontosammanslagning.** Leta upp MPN-ID:t för det företag som du vill bjuda in att sammanfoga med ditt företag, visa aktuella sammanslagningar och skicka inbjudningar till företag. Godkänn eller avvisa en inbjudan att slå samman ditt företagskonto med ett annat företags konto här. Mer information finns i Sammanfoga [ditt partnerkonto med ett annat partnerkonto.](merge-accounts.md)
+När du bjuder in ett företag som har ett aktivt konto i Partnercenter för att slå samman sitt konto med ditt, hanteras den informationen på **sidan Kontosammanslagning.** Leta upp MPN-ID:t för det företag som du vill bjuda in att sammanfoga med din, visa aktuella sammanslagningar och skicka inbjudningar till företag. Godkänn eller avvisa en inbjudan att slå samman ditt företagskonto med ett annat företags konto här. Mer information finns i Sammanfoga [ditt partnerkonto med ett annat partnerkonto.](merge-accounts.md)
 
 ## <a name="payout-and-tax"></a>Utbetalning och skatt
 
@@ -136,7 +136,7 @@ Så här ser du vilka program du har åtkomst till:
 
 2. Den vänstra navigeringsmenyn visar de program som du är registrerad i och visar tillgängliga alternativ för varje program.
 
-Här är ett exempel. Anta att en användare har åtkomst till tre program i  instrumentpanelen i Partnercenter: **MPN-programmet,** hänvisningsprogrammet och **programmet För den kommersiella marknadsplatsen.** När de loggar in på instrumentpanelen i Partnercenter visas dessa tre program till vänster på skärmen.
+Här är ett exempel. Anta att en användare har åtkomst till tre program i  instrumentpanelen i Partnercenter: **MPN-programmet,** hänvisningsprogrammet och **programmet för den kommersiella marknadsplatsen.** När de loggar in på instrumentpanelen i Partnercenter visas dessa tre program till vänster på skärmen.
 
 :::image type="content" source="images/accountsettings/programs-enrolled-left-nav.png" alt-text="Menyn Program som registrerats.":::
 

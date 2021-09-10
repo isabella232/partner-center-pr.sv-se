@@ -9,12 +9,12 @@ ms.author: hickeys
 author: hickeys
 keywords: windows 10, uwp, mobile operators, mobile billing, mobile operator billing
 ms.localizationpriority: medium
-ms.openlocfilehash: 5a0d0a60e7bcbde65b1119fcfad66cfdf53f8229cae4f7b017158b2ad5cf1245
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: b14d92038570756de594f013c4eb2c2e4615c64e
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115682886"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961446"
 ---
 # <a name="mobile-operator-billing"></a>Mobiloperatörsfakturering
 
@@ -23,7 +23,7 @@ ms.locfileid: "115682886"
 > [!NOTE]
 > Om du vill ha support om utbetalning, inklusive att konfigurera utbetalningskonton, saknade utbetalningar, lägga ut utbetalningsstödet eller något annat, kontaktar du [supporten här.](https://developer.microsoft.com/windows/support)
 
-I Microsoft Store mobiloperatören fakturering som betalningsmetod för enheter som kör Windows 10, telefoner som kör Windows 10 Mobile och Xbox One-konsoler. Om en kunds mobiloperatör stöder den här funktionen kan kunden lägga till mobiloperatörsfakturering som betalningsmetod och använda den för att göra Butik-inköp med hjälp av sitt mobilkonto.
+I Microsoft Store mobiloperatören fakturering som betalningsmetod för enheter som kör Windows 10, telefoner som kör Windows 10 Mobile och Xbox One-konsoler. Om en kunds mobiloperatör stöder den här funktionen kan kunden lägga till mobiloperatörsfakturering som betalningsmetod och använda den för att göra Butik-inköp med sitt mobilkonto.
 
 > [!TIP]
 > Om en kunds mobiloperatör erbjuder fakturering för mobiloperatör, men kunden inte kan hitta det här alternativet på sin enhet, kan du gå igenom dessa [steg.](https://support.microsoft.com/instantanswers/b25d6dd6-fb8b-3710-1e13-4d30eb01b51f)
@@ -52,7 +52,7 @@ Följande mobiloperatörer stöder för närvarande fakturering av mobiloperatö
 | Nederländerna          | KPN/Telfort, Vodafone                                 |
 | Norge               | Telenor/Talkmore, Telia/OneCall                     |
 | Polen               | Orange, Play, T-Mobile                                  |
-| Saudiarabien         | Stc                                                     |
+| Saudiarabien         | STC                                                     |
 | Singapore            | M1 Limited, StarHub                                     |
 | Slovakien             | Slovakiska Telekom                                          |
 | Sydafrika         | Telia                                                 |

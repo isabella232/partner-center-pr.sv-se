@@ -9,18 +9,18 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19a11126f1d1830210f6bb92007a3eecfa4468796fea3a7730a3729e5ce7bc24
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 8749bdc1c2249f97d5db288f953eded1c4c06b02
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115695851"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960256"
 ---
 # <a name="trainings-dashboard"></a>Instrumentpanel för träningar
 
 **Lämpliga roller:** Visningsprogram för | Rapportvisningsprogram
 
-Instrumentpanelen Trainings (Utbildning) ger insikter om certifieringar, utvärderingar och undersökningar som gjorts av företagets anställda. Instrumentpanelen Träningar innehåller följande avsnitt:
+Instrumentpanelen Utbildning ger insikter om certifieringar, utvärderingar och undersökningar som ditt företags anställda har gjort. Instrumentpanelen Träningar innehåller följande avsnitt:
 
 - Sammanfattning
 - Träningsprestanda uppdelat efter certifieringar, utvärderingar och prov
@@ -32,12 +32,12 @@ Instrumentpanelen Trainings (Utbildning) ger insikter om certifieringar, utvärd
 
 ## <a name="summary"></a>Sammanfattning
 
-I sammanfattningsavsnittet visas en numerisk ögonblicksbild av olika prestandaindikatorer relaterade till dina träningar. De olika prestandaindikatorerna är certifierade individer, certifieringar, individer med provautentiseringsuppgifter, provautentiseringsuppgifter, personer med autentiseringsuppgifter för utvärdering och autentiseringsuppgifter för utvärdering. Data i det här avsnittet uppdateras baserat på det valda datumintervallet, vilket kan vara tre månader (3M), sex månader (6M) och 12 månader (1Y) eller ett anpassat dataintervall (anpassat). 
+I sammanfattningsavsnittet visas en numerisk ögonblicksbild av olika prestandaindikatorer relaterade till dina träningar. De olika prestandaindikatorerna är certifierade individer, certifieringar, individer med provautentiseringsuppgifter, provautentiseringsuppgifter, individer med autentiseringsuppgifter för utvärdering och autentiseringsuppgifter för utvärdering. Data i det här avsnittet uppdateras baserat på det valda datumintervallet, vilket kan vara tre månader (3M), sex månader (6M) och 12 månader (1Y) eller ett anpassat dataintervall (anpassat). 
 
 :::image type="content" source="images/insights/training-dashboard-summary.png" alt-text="Sammanfattning.":::
 
 - **Individer med certifieringar:** representerar antalet distinkta personer med certifieringar i ditt företag.
-- **Antal certifieringar:** representerar det totala antalet certifieringar som har tagits av enskilda personer i företaget.
+- **Antal certifieringar:** representerar det totala antalet certifieringar som enskilda personer i företaget har tagit.
 - **Individer med utvärderingar:** representerar antalet distinkta personer med autentiseringsuppgifter för utvärdering i ditt företag. 
 - **Antal utvärderingar:** representerar det totala antalet utvärderingar som görs av enskilda personer i företaget.
 - **Individer med undersökningar:** representerar antalet distinkta individer med undersökningsautentiseringsuppgifter i företaget. 

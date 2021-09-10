@@ -9,14 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f773910c3bf32979158401c78753a3c4478a6908d5085c446c168b6382fdf044
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 162de08f0114d24cc72d21387ca004e7901c15a2
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115694208"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960796"
 ---
-# <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Sälja programvaruprenumerationer via Molnlösningsleverantör(CSP)-programmet
+# <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Sälja programvaruprenumerationer via Molnlösningsleverantör (CSP)-programmet
 
 **Lämpliga roller:** Administratörsagent | Global administratör
 
@@ -68,7 +68,7 @@ Med Azure Hybrid-förmån får du mer värde av dina Windows Server-licenser och
 > | Falklandsöarna     | Nauru     | U.S. Outlying Islands   |
 > | Franska Guyana     | Nya Kaledonien     | Vanuatu   |
 > | Franska Polynesien     | Niger     | Vatikanstaten   |
-> | Franska sydterritorierna     | Niue     | Wallis och Spanuna   |
+> | Franska sydterritorierna     | Niue     | Wallis ochUna   |
 > | Gabon     | Norfolkön     | Jemen   |
 > | Gambia     | Nordmarianerna     |    |
 > | Gibraltar     | Palau       |    |
@@ -81,11 +81,11 @@ Så här köper du programvaruprenumerationer för en kunds räkning:
 
 2. I menyn i Partnercenter väljer **du Kunder** och sedan en kund i listan.
 
-3. På kundens informationssida väljer du **Lägg till produkter** och följer sedan anvisningarna på skärmen för att skapa och betala för din beställning. Alla kommersiella priser exkluderar skatt förutom Australien och Brasilien. För Australien och Brasilien inkluderar priset skatt.
+3. På kundens informationssida väljer du Lägg **till produkter** och följer sedan anvisningarna på skärmen för att skapa och betala för din beställning. All kommersiell prissättning exkluderar skatt förutom Australien och Brasilien. För Australien och Brasilien inkluderar priset skatt.
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Aktivera och hantera programvaruprenumerationer
 
-När du har köpt din programvara måste du eller dina kunder ladda ned den (partner med Partnercenter; kunder som använder Microsoft 365 Admin Center). Gör detta på följande sätt. Det är viktigt att förstå riskerna med att kopiera länkar och ladda ned programvara. Mer information finns i Använda **Partnercenter för att hämta** nedladdning av kundprogramvara och licensnycklar i [partnercentrets guide för nya handelsåtgärder.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
+När du har köpt din programvara måste du eller dina kunder ladda ned den (partner med partnercenter, kunder som använder Microsoft 365 Admin Center). Gör detta på följande sätt. Det är viktigt att förstå riskerna med att kopiera länkar och ladda ned programvara. Mer information finns i **Använda Partnercenter för att hämta** nedladdningar av kundprogramvara och licensnycklar i [partnercentrets nya handbok för handel.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
 
 >[!NOTE]
 >Du måste vara administratörsagent i Partnercenter för att få en länk till nycklar och nedladdningar.
@@ -94,20 +94,20 @@ När du har köpt din programvara måste du eller dina kunder ladda ned den (par
 
 2. Välj **produktversion,** **språk**, **bit** och välj **Hämta nycklar och nedladdningar.** 
 
-3. Välj **Hämta nyckel** för att visa den 32-siffriga produkten i en popup-dialogruta som du kan kopiera och skicka till kunden. 
+3. Välj **Hämta nyckel** för att visa den 32-siffriga produkten i en dialogruta som du kan kopiera och skicka till kunden. 
 
 4. Välj **Ladda ned** för att ladda ned bitarna. 
 
 5. Välj **Kopiera länk** om du vill skicka kunden länken till bithämtningen. 
 
-6. Du kan också **avbryta** programvarubeställningen och få 100 % kredit (om det görs inom 30-dagars annulleringspolicyperioden).
+6. Du kan också **avbryta programvarubeställningen** och få 100 % kredit (om det görs inom 30-dagars annulleringspolicyperioden).
 
 >[!NOTE]
->Endast kunder har åtkomst till att se produktnycklar och ladda ned information i Microsoft 365 Admin Center (global administratörsroll krävs). Partner måste använda Partnercenter för att se den här informationen.
+>Endast kunder har åtkomst till att se produktnycklarna och hämta information i Microsoft 365 Admin Center (global administratörsroll krävs). Partner måste använda Partnercenter för att se den här informationen.
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Nedladdning av serverprenumeration och licensnycklar som är tillgängliga via Microsoft 365 Admin Center för kunder 
 
-Dina kunder kommer att kunna hämta licensnycklar och nedladdningar för CSP-serverprenumeration från Microsoft 365 Admin Center. Om du vill se licensnycklar och nedladdningar för prenumerationen på CSP-servern måste kunden gå till Microsoft 365 Admin Center > **Billing > Your products > Software (Fakturering** för > Software). Mer information finns på [fliken Programvara under Fakturering.](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)  
+Dina kunder kommer att kunna hämta licensnycklar och nedladdningar för CSP-serverprenumeration från Microsoft 365 Admin Center. Om du vill se licensnycklar och nedladdningar för CSP-serverprenumerationen måste kunden gå till Microsoft 365 Admin Center > **Billing > Your products > Software (Dina** produkter > Software). Mer information finns i [fliken Programvara under Fakturering.](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Visa aktivitet för åtkomst till programvarunyckel och nedladdning av programvara
 
@@ -120,7 +120,7 @@ I gransknings- eller efterlevnadssyfte kan du behöva kontrollera en lista över
 
 2. Välj kugghjulsikonen i det övre högra hörnet.
 
-3. I menyn väljer du **Aktivitetslogg.**
+3. I menyn väljer du **Aktivitetslogg**.
 
 4. Ange datumintervallet för den aktivitet som du vill se. Aktivitetsloggen visar en lista över användare som antingen har åtkomst till programvarunycklar eller nedladdad programvara under den tid som du har angett. 
 
@@ -129,16 +129,16 @@ I gransknings- eller efterlevnadssyfte kan du behöva kontrollera en lista över
 Du kan avbryta ett programvaruköp inom 30 dagar från inköpsdatum. Om du avbryter inom den första 30-dagarsperioden debiteras du inte någon avgift för tidig uppsägning. Efter 30 dagar kan du inte längre avbryta ett köp. (Se Anteckning om nyckelbegränsningar för den här annulleringsregeln. Mer information om vad som händer när du har avbrutit ett programvaruköp finns i Viktigt meddelande efter de här stegen.) 
 
 >[!NOTE]
->Följande steg för att avbryta ett köp gäller endast för programvara som kvalificerar för annullering inom en viss uppsägningsfönster, till exempel inom de första 30 dagarna efter köpet. De här stegen gäller inte heller för en SUSE Linux- eller RedHat-programvaruplan i Azure. Just nu kan du inte avbryta eller byta en SUSE- eller RedHat-programvaruplan. [Läs mer](/azure/virtual-machines/linux/prepay-suse-software-charges) om hur du använder SUSE Linux- eller RedHat-planer.
+>Följande steg för att avbryta ett köp gäller endast för programvara som är berättigad till annullering inom en viss uppsägningsfönster, till exempel inom de första 30 dagarna efter köpet. De här stegen gäller inte heller för en SUSE Linux- eller RedHat-programvaruplan i Azure. Just nu kan du inte avbryta eller byta en SUSE- eller RedHat-programvaruplan. [Läs mer](/azure/virtual-machines/linux/prepay-suse-software-charges) om hur du använder SUSE Linux- eller RedHat-planer.
 
 Följ stegen nedan för att avbryta ett köp:
 
 >[!NOTE]
 >Du måste vara administratörsagent för att kunna avbryta ett köp. Följande steg beskriver hur du avbryter ett köp på instrumentpanelen i Partnercenter. Du kan också göra detta med [partnercenter-API:et](/partner-center/develop/cancel-software-purchases).
 
-1. Kontrollera att du har följande information innan du startar annulleringen:
+1. Kontrollera att du har följande information innan du börjar avbryta processen:
 
-    - Kundens namn, klient-GUID eller domännamn
+    - Kundens namn, klientorganisations-GUID eller domännamn
     - Namnet på den produkt som du vill avbryta
     - Order-ID
 
@@ -154,24 +154,24 @@ Följ stegen nedan för att avbryta ett köp:
 
 7. Markera kryssrutan för att bekräfta att du har läst meddelandet **Viktigt om** annullering. (Läs viktig information **nedan** om du vill veta mer om vad som händer när du har avbrutit ett köp.)
 
-8. Välj **Skicka** för att avbryta köpet. Om du vill avbryta flera beställningar för en kund måste du utföra steg 4 till och med 6 igen för varje, unikt order-ID-nummer.
+8. Välj **Skicka** för att avbryta köpet. Om du vill avbryta flera beställningar för en kund måste du utföra steg 4 till och med 6 igen för varje unikt order-ID.nummer.
 
-När du försöker avbryta en beställning kan Partnercenter även ge dig annan information (som visas under listrutan Ordernummer). Den här informationen kan omfatta:
+När du försöker avbryta en beställning kan Partnercenter också ge dig annan information (som visas under listrutan Ordernummer). Den här informationen kan vara:
 
-- Hur många dagar som återstår för dig att annullera den specifika beställningen
+- Hur många dagar som återstår för att avbryta den specifika beställningen
 
 - Om du redan har passerat annulleringsfönstret och inte längre kan avbryta beställningen
 
-- Om vi behöver mer information om din uppsägningsbegäran kan du få en länk till ett **formulär för kundsupportbegäran.**
+- Om vi behöver mer information om din begäran om annullering kan du få en länk till ett **formulär för kundsupportbegäran.**
 
 >[!IMPORTANT]
 >När du har avbrutit en beställning visas ett meddelande som bekräftar annulleringen. Det kan dock uppstå en fördröjning på upp till 15 minuter innan annulleringen visas på instrumentpanelen i Partnercenter. 
 
-### <a name="post-cancellation-details"></a>Information efter annullering
+### <a name="post-cancellation-details"></a>Information efter annulleringen
 
 När du har avbrutit ett köp:
 
-- Alla relaterade programvarunycklar och nedladdningslänkar återkallas. Detta innebär att du och din kund inte längre kan använda programvarunycklarna och ladda ned länkar som är relaterade till köpet. Du och kunden ansvarar för att upphöra med användningen av all avbruten programvara. Du ansvarar också för att avinstallera den avbrutna programvaran och ta bort eventuella relaterade programhämtningar och länkar.
+- Alla relaterade programvarunycklar och nedladdningslänkar återkallas. Detta innebär att du och kunden inte längre kan använda programvarunycklarna och ladda ned länkar som är relaterade till köpet. Du och din kund ansvarar för att upphöra med användningen av all avbruten programvara. Du ansvarar också för att avinstallera den avbrutna programvaran och ta bort eventuella relaterade programhämtningar och länkar.
 
 - Det annullerade objektet visas fortfarande på kundens sida Programvaruinformation, men aktiveringsnyckeln är inte tillgänglig.
 

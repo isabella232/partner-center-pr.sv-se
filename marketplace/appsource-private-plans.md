@@ -7,12 +7,12 @@ author: Guyshu
 ms.author: gushuchm
 ms.date: 06/08/2021
 robots: noindex
-ms.openlocfilehash: 2e55bd233d347cc7c23d60eb832c8fddfcfe524f4fb055e33e2a7a275eddee49
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: a392859c1106c747e0e7c696927ef3b25262e411
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115683874"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123936932"
 ---
 # <a name="private-plans-in-microsoft-appsource"></a>Privata planer i Microsoft AppSource
 
@@ -20,7 +20,7 @@ Privata planer är hur utgivare tillhandahåller anpassade planer till specifika
 
 ## <a name="ask-your-isv-for-a-private-plan"></a>Be din ISV om en privat plan
 
-För att en privat plan ska vara tillgänglig för dig i AppSource måste du kontakta ISV:en direkt och förhandla ett anpassat pris och tekniska specifikationer. När villkoren i den privata planen har godkänts skapar ISV:n en plan åt dig och tilldelar den till din organisations klientorganisations-ID, som du måste ange.
+För att en privat plan ska vara tillgänglig för dig i AppSource måste du kontakta ISV:en direkt och förhandla ett anpassat pris och tekniska specifikationer. När villkoren i den privata planen har godkänts skapar ISV:n en plan för dig och tilldelar den till din organisations klientorganisations-ID, som du måste ange.
 
 ### <a name="finding-your-tenant-id"></a>Hitta ditt klientorganisations-ID
 

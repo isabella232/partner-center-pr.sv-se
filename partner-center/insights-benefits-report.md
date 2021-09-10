@@ -1,50 +1,50 @@
 ---
-title: Partnercenter– Insights för förmåner
+title: Partnercenter – Insights för förmåner
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: Se vilka typer av Microsoft-partnerförmåner som du har beviljats för att hjälpa till att utöka din verksamhet, förbättra effektiviteten och förbättra teamets färdigheter.
+description: Se vilka typer av Microsoft-partnerförmåner som du har beviljats för att hjälpa företaget att växa, förbättra effektiviteten och förbättra teamets färdigheter.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5ed3bd35e25f21a9803eac10d7c6308e3eaa1f715451c00ee2943e92533fc4d2
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 457a5197ea9bcfaf2d9c936b7483b33688b1cb41
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115689272"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960233"
 ---
-# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Rapporten Fördelar som är tillgänglig från instrumentpanelen Insights Partnercenter
+# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Benefits report available from the Partner Center Insights dashboard
 
-**Lämpliga roller:** Global | Administratörsagent | Rapportvisningsprogram | Rapportvisningsprogram för chefer
+**Lämpliga roller:** Globala | Administratörsagentens | Rapportvisningsprogram | Visningsprogram för exekutiv rapport
 
-Som Microsoft-partner kan du få tillgång till en mängd fördelar som använder den senaste tekniken och innovationerna för att hjälpa dig att förbättra teamets kompetens, förbättra effektiviteten och utöka din verksamhet. Exempel på fördelar är allokeringar av licensierad programvara, molntjänster, Visual Studio prenumerationer och support. Dessa paket kan även innehålla vissa Go-To-Market-resurser, erbjudanden och program. Rapporten Fördelar visar trender för de fördelar som du har fått åtkomst till och hur de används under det valda datumintervallet.
+Som Microsoft-partner har du tillgång till en mängd fördelar som använder den senaste tekniken och innovationerna för att hjälpa dig att förbättra teamets färdigheter, förbättra effektiviteten och utveckla din verksamhet. Exempel på förmånspaket är: tilldelningar av licensierad programvara, molntjänster, Visual Studio prenumerationer och support. Dessa paket kan också innehålla vissa Go-To-Market-resurser, erbjudanden och program. Rapporten Fördelar visar trender för de fördelar som du har åtkomst till och hur de används under det valda datumintervallet.
 
-:::image type="content" source="images/insights/benefits-intro.png" alt-text="översikt över sidan benefits.":::
+:::image type="content" source="images/insights/benefits-intro.png" alt-text="översikt över sidan för förmåner.":::
 
 Du kan visualisera följande diagram i rapporten Fördelar:
 
 - Sammanfattning
-- Molntjänster beviljades
+- Molntjänster beviljade
 - Programprodukter
 - Visual Studio-prenumerationer
 - Tekniska fördelar
-- Go-to-market
+- Marknads go-to-market
 
  > [!NOTE]
- > Den här rapporten är tillgänglig från Insights instrumentpanel. Om du vill visa den här rapporten måste du ha tilldelats en viss roll i Partnercenter, till exempel Global administratör, Kontoadministratör, Rapportvisningsprogram eller Visningsprogram för verkställande rapporter. Mer information finns i företagets globala administratör. Specifika typer av data i den här rapporten kan också vara tillgängliga endast för användare med privilegier i visningsprogrammet för verkställande rapporter.
+ > Den här rapporten är tillgänglig från Insights instrumentpanel. Om du vill visa den här rapporten måste du ha tilldelats en viss roll i Partnercenter, till exempel Global administratör, Kontoadministratör, Rapportvisare eller Rapportvisningsprogram. Mer information finns i företagets globala administratör. Specifika typer av data i den här rapporten kan också vara tillgängliga endast för användare med privilegier för visningsprogrammet för verkställande rapporter.
 
 ## <a name="summary"></a>Sammanfattning
 
-I sammanfattningsavsnittet visas fördelarna med licensierad programvara, molntjänster (icke-Azure), Visual Studio-prenumerationer, teknisk support och vissa Go-To-Market-tjänster eller -erbjudanden.
+I sammanfattningsavsnittet visas de fördelar som beviljas när det gäller licensierad programvara, molntjänster (inte Azure), Visual Studio-prenumerationer, teknisk support och vissa Go-To-Market-tjänster eller -erbjudanden.
 
-Exempel: Microsoft Partner Network (MPN)-medlemskapspartner är berättigade till teknisk support för lokala produkter och molnprodukter. Partner som uppnår Silver-kompetens beviljas teknisk support för 15 incidenter för lokala produkter. De kan använda det här stödet efter behov. 
+Exempel: Microsoft Partner Network(MPN)-medlemskapspartner är berättigade till teknisk support för lokala produkter och molnprodukter. Partner som uppnår Silver-kompetens beviljas teknisk support för 15 incidenter för lokala produkter. De kan använda det här stödet efter behov. 
 
 :::image type="content" source="images/insights/benefits-summary.png" alt-text="sammanfattning av fördelar.":::
 
-## <a name="cloud-services-granted"></a>Molntjänster beviljades
+## <a name="cloud-services-granted"></a>Molntjänster beviljade
 
 Det här diagrammet visar den månatliga trenden för licenser som beviljats under det valda datumintervallet för licensbaserade prenumerationer för den valda molntjänsten.
 Välj en molntjänst på **fliken Tjänster** för att visa diagrammet för en specifik molntjänst. Linjediagrammet representerar de övergripande licenser som beviljats till ditt företag.
@@ -59,9 +59,9 @@ Det här diagrammet visar den månatliga trenden för licenser som beviljats und
 
 ## <a name="visual-studio-subscriptions"></a>Visual Studio-prenumerationer
 
-Det här diagrammet visar månadstrenden för Visual Studio prenumerationer som aktiverats mot prenumerationer som du har allokerat under det valda datumintervallet.
+I det här diagrammet visas månadstrenden för Visual Studio prenumerationer som aktiverats mot prenumerationer som du har allokerat under det valda datumintervallet.
 
-Välj en flik överst i diagrammet för att visa trenden för en Visual Studio prenumeration som du har beviljats som förmåner. Kolumner i diagrammet representerar licenser som förbrukas för prenumerationen. Linjediagrammet representerar de övergripande licenser som tilldelats för prenumerationen.
+Välj en flik överst i diagrammet för att visa trenden för en Visual Studio prenumeration som du beviljas som förmåner. Kolumner i diagrammet representerar licenser som förbrukats för prenumerationen. Linjediagrammet representerar de övergripande licenserna som tilldelats för prenumerationen.
 
 :::image type="content" source="images/insights/benefits-visual-studio-subscriptions.png" alt-text="Visual Studio prenumerationer.":::
 
@@ -69,13 +69,13 @@ Välj en flik överst i diagrammet för att visa trenden för en Visual Studio p
 
 Det här diagrammet visar den månatliga trenden för supportförmåner som beviljats under det valda datumintervallet.
 
-Välj en flik överst i diagrammet för att visa trenden för en specifik supportförmån som du har beviljats. Linjediagrammet representerar de totala timmarna med support som tilldelats för den valda supportförmånen.
+Välj en flik överst i diagrammet för att visa trenden för en specifik supportförmån som du har beviljats. Linjediagrammet representerar det totala antalet supporttimmar som tilldelats för den valda supportförmånen.
 
 :::image type="content" source="images/insights/benefits-technical-benefits.png" alt-text="tekniska fördelar.":::
 
 ## <a name="go-to-market-offers-or-services"></a>Go-To-Market-erbjudanden eller -tjänster
 
-Det här diagrammet visar den månatliga trenden för Go-To-Market-erbjudanden eller tjänster som aktiverats mot allokerade under det valda datumintervallet och för ett valt Go-To-Market-erbjudande eller tjänstkategori.
+Det här diagrammet visar den månatliga trenden för Go-To-Market-erbjudanden eller -tjänster som aktiverats mot som allokerats under det valda datumintervallet och för ett valt Go-To-Market-erbjudande eller tjänstkategori.
 
 Välj ett Go-To-Market-erbjudande eller en tjänstkategori i listrutan överst i diagrammet för att visa trenden för de valda Go-To-Market-tjänster som beviljats ditt företag. Kolumner i diagrammet representerar Go-To-Market-erbjudanden eller -tjänster som aktiverats. Linjediagrammet representerar de övergripande Go-To-Market-erbjudanden eller -tjänster som beviljats till ditt företag.
 

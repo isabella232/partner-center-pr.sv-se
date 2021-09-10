@@ -1,5 +1,5 @@
 ---
-title: Partnercenter Insights Enterprise Mobility + Security användningsrapport
+title: Användningsrapport Insights Enterprise Mobility + Security Partnercenter
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
@@ -8,59 +8,59 @@ description: Se vad du gör bra och var du kan förbättra användningen av Ente
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: fdf0da981b121f918370c18bace8a4443f4c4f5050d0c47a214ed353cde54b2e
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: b78167823a26b16bfa51a7a948afeda027b9898e
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115686239"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961373"
 ---
-# <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security användningsrapport som är tillgänglig från Partnercenter Insights instrumentpanel
+# <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security användningsrapport som är tillgänglig från instrumentpanelen Insights Partnercenter
 
-**Lämpliga roller:** Globala | Administratörsagent | Rapportvisningsprogram | Visningsprogram för exekutiv rapport
+**Lämpliga roller:** Globala | Administratörsagentens | Rapportvisningsprogram | Rapportvisningsprogram för chefer
 
-Rapporten Enterprise Mobility + Security innehåller användningsdata för de Enterprise Mobility + Security som du sålde eller hanterar åt dina kunder. Du kan visa följande avsnitt från Enterprise Mobility + Security användningsrapport.
+Rapporten Enterprise Mobility + Security användning innehåller användningsdata för de Enterprise Mobility + Security prenumerationer som du har sålt eller hanterar åt dina kunder. Du kan visa följande avsnitt från Enterprise Mobility + Security användningsrapport.
 
 - Sammanfattning
 - Enterprise Mobility + Security användning per geografiskt område
-- Enterprise Mobility + Security användning per SKU
+- Enterprise Mobility + Security användning efter SKU
 - Prenumerationsprestanda
 - Enterprise Mobility + Security användningsdistribution
 
  > [!NOTE]
- > Den här rapporten är tillgänglig från Insights instrumentpanel. Om du vill visa den här rapporten måste du ha tilldelats en viss roll i Partnercenter, till exempel Global administratör, Kontoadministratör, Rapportvisare eller Visningsprogram för verkställande rapporter. Mer information finns i företagets globala administratör. Vissa typer av data i den här rapporten kan också vara tillgängliga endast för användare med behörighet som chefsrapportvisare.
+ > Den här rapporten är tillgänglig från Insights instrumentpanel. Om du vill visa den här rapporten måste du ha tilldelats en viss roll i Partnercenter, till exempel Global administratör, Kontoadministratör, Rapportvisningsprogram eller Visningsprogram för verkställande rapporter. Mer information finns i företagets globala administratör. Vissa typer av data i den här rapporten kan också vara tillgängliga endast för användare med privilegier för visningsprogrammet för chefsrapport.
 
 ## <a name="summary"></a>Sammanfattning
 
-I sammanfattningsavsnittet visas en ögonblicksbild av de kpi:er som är relaterade Enterprise Mobility + Security användningsprenumerationer som du har sålt eller hanterar för dina kunder. 
+I sammanfattningsavsnittet visas en ögonblicksbild av kpi:erna relaterade Enterprise Mobility + Security användningsprenumerationer som du har sålt eller hanterar för dina kunder. 
 
 - Nya prenumerationer: Totalt antal sålda eller hanterade prenumerationer under den valda tidsramen.
 
-   Micro-diagrammet visar en trend från månad till månad för den nya prenumerationen för det valda datumintervallet.
+   Micro-diagrammet visar en trend för månad över månad för den nya prenumerationen för det valda datumintervallet.
 
-- Tillgängliga platser: Totalt antal sålda licenser under den valda tidsramen.
+- Tillgängliga platser: Totalt antal licenser sålda under den valda tidsramen.
 
-   Micro-diagrammet visar en månad över månad-trend över antalet tillgängliga platser under det valda datumintervallet.
+   Micro-diagrammet visar en trend för månad över månad över antalet tillgängliga platser under det valda datumintervallet.
 
 - Månatlig aktiv användning: Antalet licenser som användes under föregående månad.
 
-   Micro-diagrammet visar en månatlig trend för licenser som används under den valda tidsperioden.
+   Mikrodiagrammet visar en månatlig trend för licenser som används under den valda tidsperioden.
 
 :::image type="content" source="images/insights/ems-usage-summary.png" alt-text="Sammanfattning av EMS-användning.":::
 
 ## <a name="enterprise-mobility--security-usage-by-geography"></a>Enterprise Mobility + Security användning per geografiskt område
 
-I **Enterprise Mobility + Security användning** per geografisk plats visas fördelningen av månatliga aktiva användare (MAU) och betalda tillgängliga enheter (PAU) efter kundland. MAU avser antalet licenser som använts under föregående månad och PAU avser antalet sålda eller hanterade betalplatser under den valda tidsramen. Ljusare färger på kartan representerar lägre värden, medan mörkare färger representerar högre värden. Du kan söka efter och välja ett land i rutnätet. Du kan också zooma in för en närmare titt.
+Den **Enterprise Mobility + Security användning per** geografisk plats visar fördelningen av månatliga aktiva användare (MAU) och betalda tillgängliga enheter (PAU) efter kundland. MAU avser antalet licenser som används under föregående månad och PAU avser antalet sålda eller hanterade betalplatser under den valda tidsramen. Ljusare färger på kartan representerar lägre värden, medan mörkare färger representerar högre värden. Du kan söka efter och välja ett land i rutnätet. Du kan också zooma in för en närmare titt.
 
 I **tabellen Antal länder/regioner** visas det totala antalet länder/regioner där Azure-användningshändelser genereras.
 
 Du kan söka efter och välja ett land i rutnätet för att zooma till platsen på kartan. Välj alternativet **Start** på kartan för att återgå till den ursprungliga vyn.
 
-:::image type="content" source="images/insights/ems-usage-geography.png" alt-text="EMS-användning efter geografiskt område.":::
+:::image type="content" source="images/insights/ems-usage-geography.png" alt-text="EMS-användning per geografiskt område.":::
 
-## <a name="enterprise-mobility--security-usage-by-sku"></a>Enterprise Mobility + Security användning per SKU
+## <a name="enterprise-mobility--security-usage-by-sku"></a>Enterprise Mobility + Security användning efter SKU
 
-I Enterprise Mobility + Security SKU visas månatlig uppdelning av MAU och PAU efter SKU:er.
+Den Enterprise Mobility + Security användning per SKU visar månatlig uppdelning av MAU och PAU efter SKU:er.
 
 :::image type="content" source="images/insights/ems-usage-sku.png" alt-text="EMS-användning efter SKU.":::
 
@@ -68,13 +68,13 @@ I Enterprise Mobility + Security SKU visas månatlig uppdelning av MAU och PAU e
 
 Prenumerationsprestanda visar uppdelning av MAU och PAU efter SKU:er per kundprenumeration. Data för de 100 främsta kunderna efter fakturerade intäkter visas i tabellen och du kan söka efter valfri kund eller ladda ned rådata för att visa information för alla kunder.
 
-:::image type="content" source="images/insights/ems-usage-subscription.png" alt-text="Ems-prenumerationsprestanda.":::
+:::image type="content" source="images/insights/ems-usage-subscription.png" alt-text="EMS-prenumerationsprestanda.":::
 
 ## <a name="enterprise-mobility--security-usage-distribution"></a>Enterprise Mobility + Security användningsdistribution
 
 Den Enterprise Mobility + Security användningsdistributionen visar uppdelningen av PAU och prenumerationer efter SKU:er.
 
-:::image type="content" source="images/insights/ems-usage-distribution.png" alt-text="Ems-användningsdistribution.":::
+:::image type="content" source="images/insights/ems-usage-distribution.png" alt-text="EMS-användningsdistribution.":::
 
 ## <a name="next-steps"></a>Nästa steg
 

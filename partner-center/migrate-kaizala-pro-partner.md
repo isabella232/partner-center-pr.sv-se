@@ -8,12 +8,12 @@ ms.author: sukumart
 author: sukumart
 ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: 1eae2a840d5f3b70875babca350cd0ca9d0a37e5047fc516ce8ec0b1e0ea8a74
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: e248657b9b4d4cf50cb7d38b2a0593ae6445bd28
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115696741"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961416"
 ---
 # <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft-365-or-office-365-versions"></a>Migrera Kaizala Pro fristående prenumerationer till Microsoft 365 eller Office 365 versioner
 
@@ -21,7 +21,7 @@ ms.locfileid: "115696741"
 
 Från och med 1 juli 2020 avslutar Microsoft försäljningen av Kaizala Pro fristående tjänsten. Kunder kommer inte längre att kunna köpa nya Kaizala Pro prenumerationer efter detta datum, och befintliga Kaizala Pro-prenumerationer förnyas inte automatiskt när de upphör att gälla.
 
-För att säkerställa kontinuitet för kunder bör du göra så att kunderna upphör att Kaizala Pro fristående prenumerationer till ett SKU-alternativ som stöds, som anges nedan. Vi rekommenderar att du flyttar kunder till nya prenumerationer före prenumerationens årliga slutdatum för att undvika eventuella tjänstavbrott för kunder.
+För att säkerställa kontinuitet för kunder bör du föra över kunder till att Kaizala Pro fristående prenumerationer till ett SKU-alternativ som stöds, som anges nedan. Vi rekommenderar att du flyttar kunder till nya prenumerationer före prenumerationens årliga slutdatum för att undvika eventuella tjänstavbrott för kunder.
 
 Om du använder API:et (antingen FALSE eller Partner Center) kan du identifiera utgående prenumerationer genom att utvärdera slutdatumet för prenumerationen tillsammans med egenskapen för automatisk förnyelse inställd på falskt: `auto renew = False` .
 
@@ -74,7 +74,7 @@ Kunden bör nu ha både gamla och nya prenumerationer, den gamla fristående Kai
 
 1. Om du vill tilldela om kundens användarlicenser går du till **Menyn i Partnercenter,** väljer **Kunder,** väljer den kund som du flyttar och väljer sedan **Användare och licenser.** Kundens sida Användare och licenser öppnas.
 
-2. Om du vill tilldela om användarlicensen väljer du den användare som ska tilldelas om och väljer **sedan Hantera licenser.**
+2. Om du vill tilldela om användarlicensen väljer du den användare som ska tilldelas om och väljer sedan **Hantera licenser.**
 
 3. På sidan **Hantera licenser** avmarkerar du kryssrutan Kaizala Pro fristående licens och väljer en ny tjänstplan för prenumerationen som kunden flyttar till.
 

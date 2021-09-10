@@ -1,5 +1,5 @@
 ---
-title: Konfigurera utbetalningskonto & skatteformulär – Microsofts kommersiella marknadsplats
+title: Konfigurera utbetalningskonto med & skatteformulär – Microsofts kommersiella marknadsplats
 description: Om du vill få pengar från erbjudandeförsäljningen på den kommersiella marknadsplatsen kan du lära dig hur du ställer in ditt utbetalningskonto och fyller i de skatteformulär som krävs.
 ms.topic: conceptual
 ms.service: marketplace
@@ -7,18 +7,18 @@ ms.subservice: partnercenter-marketplace-publisher
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: b8651a6c054ed34717a3132d2c5fa5e784d17005479034febaf5b5671fb2a9d0
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 2dbbab72ea68246bf0cb99d57a5ce3640f25c867
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115697201"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960496"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Konfigurera utbetalningskonto och deklarationsblanketter
 
 **Lämpliga roller:** Kontoadministratörsroller | Global administratör
 
-För att kunna ta emot pengar från erbjudandets försäljning på den kommersiella marknadsplatsen måste du konfigurera ditt utbetalningskonto och fylla i de nödvändiga skatteformulären i [Partnercenter.](https://partner.microsoft.com/dashboard)
+För att kunna ta emot pengar från erbjudandeförsäljning på den kommersiella marknadsplatsen måste du konfigurera ditt utbetalningskonto och fylla i de nödvändiga skatteformulären i [Partnercenter.](https://partner.microsoft.com/dashboard)
 
 Om du bara planerar att lista kostnadsfria erbjudanden (och inte planerar att erbjuda köp i appen eller använda Microsoft Advertising) behöver du inte konfigurera ett utbetalningskonto eller fylla i några skatteformulär. Om du ändrar dig senare och bestämmer dig för att sälja erbjudanden (eller tillägg) kan du konfigurera ditt utbetalningskonto och fylla i skatteformulär vid den tidpunkten. Du kommer inte att kunna skicka några betalda erbjudanden eller tillägg förrän ditt utbetalningskonto och din skatteprofil har slutförts.
 
@@ -42,7 +42,7 @@ Du hanterar din skatteprofil och dina skatteformulär på **sidan Utbetalning oc
 Först måste du skapa en skatteprofil och tilldela den till de program som du deltar i. Använd följande steg för att skapa eller uppdatera din *skatteprofil* i Partnercenter. Du kan fylla i och skicka skatteformulär elektroniskt på instrumentpanelen i Partnercenter. I de flesta fall behöver du inte skriva ut och skicka några formulär via e-post.
 
 > [!IMPORTANT]
-> Olika länder och regioner har olika skattekrav. Exakt hur mycket du måste betala i skatt beror på vilka länder och regioner där du säljer ditt erbjudande. Se Microsoft Azure [Marketplace Publisher för](/legal/marketplace/msft-publisher-agreement) att ta reda på vilka länder/regioner Som Microsoft erbjuder försäljning och använder skatt åt dig. I andra länder/regioner, beroende på var du är registrerad, kan du behöva överföra försäljning och använda skatt för din erbjudandeförsäljning direkt till den lokala skatteutfärdaren. Dessutom kan appförsäljningen som du får vara momsbar som inkomst. Vi rekommenderar starkt att du kontaktar relevant myndighet för ditt land eller din region som bäst kan hjälpa dig att fastställa rätt skatteinformation för dina aktiviteter på den kommersiella marknadsplatsen.
+> Olika länder och regioner har olika skattekrav. Exakt hur mycket du måste betala i skatt beror på vilka länder och regioner där du säljer ditt erbjudande. Se [Microsoft Azure Marketplace Publisher för](/legal/marketplace/msft-publisher-agreement) att ta reda på vilka länder/regioner Som Microsoft erbjuder försäljning och använder skatt åt dig. I andra länder/regioner, beroende på var du är registrerad, kan du behöva överföra försäljning och använda skatt för din erbjudandeförsäljning direkt till den lokala skatteutfärdaren. Dessutom kan appförsäljningen som du får vara momsbar som inkomst. Vi rekommenderar starkt att du kontaktar relevant myndighet för ditt land eller din region som bäst kan hjälpa dig att fastställa rätt skatteinformation för dina aktiviteter på den kommersiella marknadsplatsen.
 
 1. På [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard)väljer du **Inställningar** kugghjulsikonen i det övre högra hörnet och sedan **Kontoinställningar.**
 
@@ -77,12 +77,12 @@ Om du är utanför USA kan du eventuellt dra nytta av skatteförmåner. Dessa f�
 Ett utbetalningskonto är det bankkonto som vi skickar intäkter från din försäljning till. Du kan visa alla betalningskonton som du har angett på profilsidan.
 
 > [!NOTE]
-> På vissa marknader kan PayPal användas för ditt utbetalningskonto. Om du vill veta PayPal stöds för en viss marknad kan du läsa Betalningströsklar, metoder och tidsramar samt information PayPal nedan för mer information. [](payment-thresholds-methods-timeframes.md) [](#paypal-info)
+> På vissa marknader kan PayPal användas för ditt utbetalningskonto. Om du vill veta PayPal stöds för en specifik marknad kan du läsa Betalningströsklar, metoder och tidsramar och information PayPal nedan för mer information. [](payment-thresholds-methods-timeframes.md) [](#paypal-info)
 
 ### <a name="create-a-payment-profile"></a>Skapa en betalningsprofil
 
 1. I [Partnercenter](https://partner.microsoft.com/dashboard)väljer du **Inställningar** kugghjulsikonen i det övre högra hörnet och sedan **Kontoinställningar.**
-2. Under rubriken *Utbetalning och skatt väljer* du **Utbetalnings- och skatteprofiltilldelning**.
+2. Under rubriken *Utbetalning och skatt väljer* du Tilldelning av **utbetalnings- och skatteprofil.**
 
     > [!NOTE]
     > Eftersom det här är känslig information kan du uppmanas att logga in igen.
@@ -135,18 +135,18 @@ Du kan redigera befintliga betalningsprofiler om du behöver göra ändringar el
 
 ### <a name="paypal-info"></a>PayPal information
 
-I utvalda länder och regioner kan du skapa ett betalningskonto genom att ange din PayPal information. Men innan du väljer PayPal som ett betalningsalternativ:
+I utvalda länder och regioner kan du skapa ett betalningskonto genom att ange PayPal information. Men innan du väljer PayPal som ett betalningsalternativ:
 
-- Kontrollera [tröskelvärden, metoder och tidsramar](payment-thresholds-methods-timeframes.md) för betalning för att PayPal är en betalningsmetod som stöds i ditt land eller din region.
+- Kontrollera [tröskelvärden, metoder och](payment-thresholds-methods-timeframes.md) tidsramar för betalning för att PayPal är en betalningsmetod som stöds i ditt land eller din region.
 - Läs följande vanliga frågor och svar. Beroende på din situation PayPal kanske inte det bästa alternativet för ditt betalningskonto, och ett bankkonto kan vara att föredra.
 
 Vanliga frågor om PayPal som betalningsmetod:
 
-- **Vilka PayPal inställningar måste jag ha för att kunna ta emot betalningar?** Kontrollera att ditt PayPal-konto inte blockerar eCheck-betalningar. Den här inställningen hanteras PayPal på sidan Betalningsinställningar för mottagande. Mer [PayPal finns på sidan för kontokonfiguration.](https://go.microsoft.com/fwlink/?linkid=2162542)
+- **Vilka PayPal inställningar måste jag ha för att kunna ta emot betalningar?** Kontrollera att ditt PayPal-konto inte blockerar eCheck-betalningar. Den här inställningen hanteras PayPal på sidan Betalningstagandeinställningar. Mer PayPal finns på sidan [för kontokonfiguration.](https://go.microsoft.com/fwlink/?linkid=2162542)
 
 - **Stöds mitt land/min region?** Se [Betalningströsklar, metoder och tidsramar för](payment-thresholds-methods-timeframes.md) att ta reda PayPal är en betalningsmetod som stöds.
 
-- **Måste mitt PayPal konto registreras i samma land/region som mitt Partnercenter-konto?** Nej. När du ställer in ett PayPal-konto kan du acceptera standardkonfigurationen. Du bör inte ha några problem med andra länder/regioner och valutor om du inte har blockerat betalningen i vissa valutor. Den här inställningen hanteras PayPal på sidan Betalningsinställningar för mottagande.
+- **Måste mitt PayPal vara registrerat i samma land/region som mitt Partnercenter-konto?** Nej. När du ställer in ett PayPal-konto kan du acceptera standardkonfigurationen. Du bör inte ha några problem med andra länder/regioner och valutor om du inte har blockerat betalningen i vissa valutor. Den här inställningen hanteras PayPal på sidan Betalningstagandeinställningar.
 
 - **Måste jag acceptera PayPal betalningar manuellt?** Nej. PayPal-konton är som standard inställda på att kräva att användarna accepterar betalningar manuellt, vilket innebär att om du inte accepterar betalningen inom 30 dagar returneras den. Du kan ändra den här inställningen genom att stänga av "Fråga mig" PayPal sidan Mer Inställningar fråga.
 
@@ -174,13 +174,13 @@ Om du är utgivare och bor i Ryssland kan du behöva tillhandahålla dokumentati
 Se till att utbetalningen lyckas genom att se till att:
 
 - Namnet **på kontoinnehavaren** som angetts för ditt utbetalningskonto i Partnercenter måste vara exakt samma namn som är associerat med ditt bankkonto. Om ditt bankkontonamn till exempel innehåller ett mellannamn lägger du till ett mellannamn i namnet **på kontoinnehavaren.**
-- Utbetalningen överförs direkt från Microsoft till ditt bankkonto i valutautbetalningen Förutbetalning (EDS).
+- Utbetalningen överförs direkt från Microsoft till ditt bankkonto i valutautbetalningen för underutbetalning (EDS).
 - Bankinformation som anges i Partnercenter med latinska tecken översätts till kyrilliska tecken.
 - Utbetalning måste göras till ett bankkonto och inte till ett bankkort.
 
 #### <a name="ukraine"></a>Ukraina
 
-Om du är utgivare och bor i 55 kan du behöva tillhandahålla dokumentation till din bank innan din bank sätter in pengar på ditt konto. När du är berättigad till betalning ger vi dig följande dokumentation i ett e-postmeddelande:
+Om du är en utgivare som bor i Påse kan du behöva tillhandahålla dokumentation till din bank innan din bank sätter in pengar på ditt konto. När du är berättigad till betalning ger vi dig följande dokumentation i ett e-postmeddelande:
 
 - Godkännandecertifikat (AC) – innehåller den mängd utbetalning som överförs till ditt konto.
 - [Microsoft Azure Marketplace Publisher –](/legal/marketplace/msft-publisher-agreement) en signerad kopia av utgivaravtalet som måste motskrivas.
@@ -188,7 +188,7 @@ Om du är utgivare och bor i 55 kan du behöva tillhandahålla dokumentation til
 
 Microsoft tillhandahåller alla tre dokumenten när din första utbetalningsförsök görs. För efterföljande utbetalningar får du bara AC-dokumentet. Behåll ADA- och AA-dokumenten om du behöver dem för att få framtida utbetalning från din bank.
 
-### <a name="create-a-paypal-payment-profile"></a>Skapa en PayPal-betalningsprofil
+### <a name="create-a-paypal-payment-profile"></a>Skapa en PayPal betalningsprofil
 
 Om du valde att använda ett bankkonto för att ta emot utbetalning slutför du följande process för att konfigurera ditt bankkonto.
 

@@ -9,18 +9,18 @@ author: petand123
 ms.author: v-petand
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2d8464b93f6f3215043775496baacc8c6abd907bf614db78725814c9bea59229
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 73a02a0a6cad28939d21800c726811c8969ce9a2
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115690910"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961253"
 ---
 # <a name="manage-licensing-in-marketplace-offers"></a>Hantera licensiering i Marketplace-erbjudanden
 
 **Lämpliga roller:** Globala | Kontoadministratör
 
-Den här artikeln beskriver steg för steg hur du ställer in ett erbjudande i Partnercenter, gör det tillgängligt i Microsoft AppSource och sedan hanterar licenser för erbjudandet.  
+Den här artikeln går igenom processen för att konfigurera ett erbjudande i Partnercenter, göra det tillgängligt i Microsoft AppSource och sedan hantera licenser för erbjudandet.  
 
 >[!IMPORTANT]
 >Funktionerna i den här artikeln är för närvarande i allmänt tillgänglig förhandsversion.
@@ -39,7 +39,7 @@ Innan du påbörjar den här processen bör du bekanta dig med grunderna i den k
 
 ### <a name="determine-your-offer-id"></a>Fastställa ditt erbjudande-ID
 
-I procedurerna nedan uppmanas du att ange ett erbjudande-ID. Ta dig lite tid att ta fram ett lämpligt erbjudande-ID, med följande i åtanke:
+I procedurerna nedan uppmanas du att ange ett erbjudande-ID. Ta dig tid att ta fram ett lämpligt erbjudande-ID, med följande i åtanke:
 
 - Det här ID:t är synligt för kunder i webbadressen för Marketplace-erbjudandet och Azure Resource Manager mallar, om tillämpligt.
 - Erbjudande-ID i kombination med Publisher-ID:t måste vara under 40 tecken långt.
@@ -68,7 +68,7 @@ Det första steget i licensieringsprocessen är att skapa ditt erbjudande på de
 
     - Du kan också låta kunder köra appens grundläggande funktioner utan licens och köra Premium-funktioner när de har köpt en licens. Det gör du genom att **välja Tillåt att kunder installerar min app även om licenserna inte har tilldelats**.
 
-    - Om du inte vill att ditt erbjudande ska ha licenshantering aktiverat väljer du Hämta nu **(kostnadsfri),** **Kostnadsfri utvärderingsversion** eller **Kontakta mig.**
+    - Om du inte vill att ditt erbjudande ska ha licenshantering aktiverat väljer du Hämta nu **(kostnadsfri)**, **Kostnadsfri utvärderingsversion** eller **Kontakta mig.**
 
 ## <a name="create-your-plan"></a>Skapa din plan
 
@@ -120,12 +120,12 @@ Innan du kan tilldela licenser till en kund måste varje försäljning registrer
 
 ## <a name="invite-the-customer"></a>Bjud in kunden
 
-Använd följande procedur för att bjuda in kunden att delta i det här avtalet.  
+Använd följande procedur för att bjuda in kunden att delta i detta avtal.  
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 2. I den vänstra navigeringsmenyn väljer du **Kommersiell marknadsplats/Översikt.**
 3. I den vänstra navigeringsmenyn **väljer du Referenser** och sedan **Avtalsregistrering.**
-4. Filtrera på **Skickade** avtal, välj **fliken Pågår** och välj sedan det avtal du vill ha.
+4. Filtrera på **Skickade** avtal, välj **fliken Pågår** och välj sedan det avtal som du vill ha.
 5. På översiktssidan för det här avtalet väljer du **Hantera licenser.**
 6. I fönstret **Hantera** licenser väljer du kunden i **listrutan Kundinformation.** Om kundrelationen inte finns ännu väljer du **+Bjud in en ny kund att godkänna**.
 7. Kopiera länken som visas.
@@ -141,9 +141,9 @@ När kunden har godkänt relationen med dig kan du börja lägga till planer fr�
 1. I fönstret Hantera licenser för det här avtalet väljer du **+Lägg till en plan**.
 2. Slutför fälten **Planer för den här** lösningen och **Antal** licenser och välj sedan **Uppdatera licenser.** Licenserna blir tillgängliga på admin.microsoft.com kunder kan hantera och tilldela till anställda.
 
-    - Om du vill ändra antalet licenser för en befintlig plan anger du det nya numret i fältet Antal **licenser** och väljer sedan **Uppdatera licenser.**
+    - Om du vill ändra antalet licenser för en befintlig plan anger du det nya numret i fältet **Antal licenser** och väljer sedan **Uppdatera licenser.**
 
-    - Om du vill inaktivera eller ta bort licenser för ett avtal väljer du papperskorgsikonen **i fältet Åtgärder** och väljer sedan Uppdatera **licenser.**
+    - Om du vill inaktivera eller ta bort licenser för ett avtal väljer du papperskorgsikonen i **fältet Åtgärder** och väljer sedan **Uppdatera licenser.**
 
 ## <a name="next-steps"></a>Nästa steg
 

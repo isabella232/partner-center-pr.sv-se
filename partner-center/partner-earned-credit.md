@@ -9,16 +9,16 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fdb6941fe0931000cb74ddc10801c3d05d1e041cdf20b37c44e4e94f487008a8
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: f41fa2ccaf99f4ca46e283a4abb0975fb5195eef
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115687051"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959936"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Partner-intjänad kredit – en översikt över hur det fungerar i den nya handelsupplevelsen i CSP
 
-**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Administratörsagent | Faktureringsadministratörskonto | Försäljningsagent
+**Lämpliga roller:** Globala | Administratörsbehörighet för användarhantering | Administratörsagentens | Faktureringsadministratörskonto | Försäljningsagent
 
 Partnerintjänad kredit i den nya handelsupplevelsen i CSP är en affärsmodell som åstadkommer förenklad enhetlig Azure-prissättning för Microsofts Go-To-Market-fordon, samtidigt som du vårdar ett partnerekosystem som tillhandahåller mervärde av hanterade tjänster. Partner-intjänad kredit hjälper också till att eliminera eventuell konkurrens om marginaler.
 
@@ -41,13 +41,13 @@ Dessa tjänster kräver att en partner både är bekant med kundens Azure-miljö
 
 ## <a name="manage-automate-and-optimize"></a>Hantera, automatisera och optimera
 
-När kunderna övergår till plattformar för molnbaserad databehandling står de inför hantering av inte bara en ny uppsättning tekniker, utan också ett nytt sätt att komma nära hanteringen och driften av deras digitala egendom. Molnet kan ge större affärsvärde och flexibilitet, men det kan också medföra nya problem, inklusive brist på korrekt säkerhet och kostnadskontroll. 
+När kunderna övergår till plattformar för molnbaserad databehandling står de inför hantering av inte bara en ny uppsättning tekniker, utan också ett nytt sätt att komma i kontakt med hanteringen och driften av deras digitala egendom. Molnet kan ge större affärsvärde och flexibilitet, men det kan också medföra nya problem, inklusive brist på korrekt säkerhet och kostnadskontroll. 
 
-Dina kunder hjälper dig att få ut mesta mesta av verksamheten i Azure. Med hanterade tjänster kan du regelbundet ge dina kunder en white glove-tjänst. Några av de dagliga åtgärderna och supporten som du kan tillhandahålla omfattar:
+Dina kunder vill att du ska hjälpa dem att få ut mesta av sin verksamhet i Azure. Med hanterade tjänster kan du regelbundet ge dina kunder en white glove-tjänst. Några av de dagliga åtgärderna och supporten som du kan tillhandahålla omfattar:
 
-- **Molndrift och hanteringstjänster:** Kunder letar efter Microsoft-partner för att minska kostnaderna i Azure samtidigt som de återskapar de isolerings-, säkerhetspolicys- och granskningsmodeller som de har i dag. De förväntar sig också att partner har tillgång till mogna verktyg för att identifiera arbetsbelastningslämpare, distributionen och de löpande driftskostnaderna för Azure. Dessutom behöver kunderna stöd för automatisering och orkestrering, uppdateringsuppdateringar, konfigurationshantering, säkerhetskopiering och haveriberedskap samt identitetshantering. 
+- **Molndrift och hanteringstjänster:** Kunder letar efter Microsoft-partner för att minska kostnaderna i Azure samtidigt som de återskapar de isolerings-, säkerhetspolicys- och granskningsmodeller som de har i dag. De förväntar sig också att partner har tillgång till mogna verktyg för att identifiera arbetsbelastnings lämplighet, distributionen och de löpande driftskostnaderna för Azure. Dessutom behöver kunderna stöd för automatisering och orkestrering, uppdateringsuppdateringar, konfigurationshantering, säkerhetskopiering och haveriberedskap samt identitetshantering. 
 
-- **Molnövervakning och teknisk support:** I en värld av molnanvändning har verktygen och kraven utvecklats, men problemet med att hitta rätt resurs för att hantera IT-infrastrukturen har inte ändrats. De flesta organisationer har helt enkelt inte den tid, de resurser eller dedikerad personal som krävs för att övervaka varje aspekt av IT, och det är här du som betrodd partner lägger till mest värde. Även om Azure erbjuder många inbyggda övervakningsfunktionspartner som tillhandahåller ytterligare, djupare övervakningsverktyg, så kan du hantera falska positiva resultat från de verkliga aviseringarna och proaktivt agera på aviseringarna innan mätbara prestandaförluster krävs. 
+- **Molnövervakning och teknisk support:** I en molnförbrukningsvärld har verktygen och kraven utvecklats, men problemet med att hitta rätt resurs för att hantera IT-infrastrukturen har inte ändrats. De flesta organisationer har helt enkelt inte den tid, de resurser eller dedikerad personal som krävs för att övervaka varje aspekt av IT, och det är här du som betrodd partner lägger till mest värde. Även om Azure erbjuder många inbyggda övervakningsfunktionspartner som tillhandahåller ytterligare, djupare övervakningsverktyg, så kan du hantera falska positiva resultat från de verkliga aviseringarna och proaktivt agera på aviseringarna innan mätbara prestandaförluster krävs. 
 
 
 ### <a name="included-in-monitoring-and-technical-support"></a>Ingår i övervakning och teknisk support:
@@ -65,7 +65,7 @@ Läs mer om hur du utökar [portföljen med hanterade tjänster med Azure](https
 Dessa tjänster medför en lämplig åtkomstnivå för partner till kundens Azure-miljö, och vårt handelssystem mäter åtkomstinformationen för att beräkna partnerns intjänade kredit.  
 
 >[!Note]
->Kunder har möjlighet att ta bort all åtkomst som ges till partnern. Partner bör inte be kunder att tilldela dem lämplig åtkomst för det enda syftet att få partner-intjänad kredit från Microsoft – om detta krav inte efterlevs kan partnern bli otillgänglig för att få partner-intjänad kredit.
+>Kunder har möjlighet att ta bort all åtkomst som ges till partnern. Partner bör inte be kunder att tilldela dem lämplig åtkomst för det enda syftet att få partner-intjänad kredit från Microsoft – om detta inte följer detta krav kan partnern bli otillgänglig för att få partner-intjänad kredit.
 
 ## <a name="next-steps"></a>Nästa steg
 

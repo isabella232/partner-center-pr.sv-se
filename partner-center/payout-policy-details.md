@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 05/25/2021
-ms.openlocfilehash: 8089647c03ac28aa535170a85c0ebc038057318d2a3e8ecf7ca79677d54d21d1
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 417421ad51c30d067ce3eb2189534a391b2951a2
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115696246"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960523"
 ---
 # <a name="payout-schedules-and-processes"></a>Utbetalningsscheman och -processer
 
@@ -35,8 +35,8 @@ En utbetalning sker ofta innan Microsoft samlar in betalning från kunden. Se [P
 | Användning eller månad för transaktion | Kunden använder eller köper en tjänst. | [Instrumentpanel](/azure/marketplace/partner-center-portal/usage-dashboard) för [användning eller](/azure/marketplace/partner-center-portal/orders-dashboard) beställning | **Månad 1** |
 | Microsoft beräknar faktureringsbeloppet | Fastställa total användning, totalt antal transaktioner | [Instrumentpanel](/azure/marketplace/partner-center-portal/usage-dashboard) för [användning eller](/azure/marketplace/partner-center-portal/orders-dashboard) beställning | **Månad 2** |
 | Utbetalning som har publicerats | Fastställa myndighetsavgifter och utbetalningsintäkter | Markerat som Obearbetat i transaktionshistoriken på [utbetalningsutdraget](payout-statement.md) | **Månad 3 (första veckan)** |
-| Förbereda utbetalning | Intäkter förbereds för månatlig betalning | Markerat som kommande i transaktionshistoriken i [utbetalningsutdraget](payout-statement.md) | **Månad 3 (första veckan)** |
-| **Utbetalningen har skickats** | **Betalningen skickas till utgivaren** | **Markerat som Skickat i transaktionshistoriken och i avsnittet Betalningar i [utbetalningsutdraget](payout-statement.md)** | **Månad 3 (senast den 15:e)** |
+| Förbereda utbetalning | Intäkter förbereds för månatlig betalning | Markerat som Kommande i transaktionshistoriken i [utbetalningsutdraget](payout-statement.md) | **Månad 3 (första veckan)** |
+| **Utbetalningen har skickats** | **Betalningen skickas till utgivaren** | **Markerat som Skickat i transaktionshistoriken och i avsnittet Betalningar i [utbetalningsutdrag](payout-statement.md)** | **Månad 3 (senast den 15:e)** |
 | Faktura som betalas av kunden | Microsoft samlar in betalning från kund | Ingen ändring | **Månad 4 till och med 12** |
 |
 
@@ -54,8 +54,8 @@ Alla inköp med kreditkort eller månadsfaktura har en 30-dagars kvarhållningsp
 | Faktura som betalas av kunden | Fastställa total användning, totalt transaktionsvärde och kundbetalningsfaktura | [Instrumentpanel](/azure/marketplace/partner-center-portal/usage-dashboard) för [användning eller](/azure/marketplace/partner-center-portal/orders-dashboard) beställning | **Månad 2** |
 | Utbetalning som har publicerats | Fastställa myndighetsavgifter och utbetalningsintäkter | Markerat som Obearbetat i transaktionshistoriken på [utbetalningsutdraget](payout-statement.md) | **Månad 2** |
 | 30-dagars kvarhållningsperiod | Se till att medel, möjliga återbetalningar och återbetalningar görs | Markerat som Obearbetat i transaktionshistoriken på [utbetalningsutdraget](payout-statement.md) | **Månad 3** |
-| Förbereda utbetalning | Intäkter förbereds för månatlig betalning | Markerat som kommande i transaktionshistoriken i [utbetalningsutdraget](payout-statement.md) | **Månad 4 (första veckan)** |
-| **Utbetalningen har skickats** | **Betalningen skickas till utgivaren** | **Markerat som Skickat i transaktionshistoriken och i avsnittet Betalningar i [utbetalningsutdraget](payout-statement.md)** | **Månad 4 (senast den 15:e)** |
+| Förbereda utbetalning | Intäkter förbereds för månatlig betalning | Markerat som Kommande i transaktionshistoriken i [utbetalningsutdraget](payout-statement.md) | **Månad 4 (första veckan)** |
+| **Utbetalningen har skickats** | **Betalningen skickas till utgivaren** | **Markerat som Skickat i transaktionshistoriken och i avsnittet Betalningar i [utbetalningsutdrag](payout-statement.md)** | **Månad 4 (senast den 15:e)** |
 |
 
 \* Utbetalningsdatumet är i Pacific Standard Time (PST).
@@ -68,7 +68,7 @@ I sällsynta fall kan Microsoft inte samla in betalningar från kunder för sina
 
 Enligt utbetalningsprocessen som formuleras här kanske Microsoft redan har betalat ut pengar till utgivare (du) som i slutänden inte går att samla in. Därför har vi en process för att stämma av dessa mängder.
 
-Microsoft kommer att få tillbaka alla utbetalningar som redan har betalats till dig med någon av följande metoder: (1) Microsoft kan subtrahera de obetalt beloppen från framtida utbetalningar; Om till exempel 1 000 USD i utbetalning betraktas som osamlade och skrivs av, kommer dina framtida utbetalningar att räknas upp tills de 1 000 USD har återställts eller (2) Microsoft kan begära en återbetalning eller fakturautgivare för eventuella oupptäckta belopp.
+Microsoft kommer att få tillbaka alla utbetalningar som redan har betalats till dig med någon av följande metoder: (1) Microsoft kan subtrahera de obetalt beloppen från framtida utbetalningar; Om till exempel 1 000 USD i utbetalning betraktas som osamlade och skrivs av, kommer dina framtida utbetalningar att uppsnaftas tills de 1 000 USD har återställts eller (2) Microsoft kan begära en återbetalning eller fakturautgivare för eventuella oupptäckta belopp.
 
 Följande schema är ett exempel:
 
@@ -81,7 +81,7 @@ Följande schema är ett exempel:
 | Publisher meddelas om avskrivning är sannolikt | 1/7/2021 | - |
 | Kunden får ett meddelande om uppsägning | 2/1/2021 | Ingen |
 | Insamlingsprocessen avslutas/medel skrivs av | 2/15/2021 | E-postmeddelande som skickats till utgivaren om att medel har skrivits av. |
-| Utbetalning dras av | 3/1/2021 | Publisher ser negativa transaktioner i Partnercenter-utbetalningsutdrag |
+| Utbetalning dras av | 3/1/2021 | Publisher ser en negativ transaktion i Partnercenter-utbetalningsutdrag |
 | Utbetalningen är indragen | 3/15/2021 | Framtida utbetalningar visas i partnercentrets utbetalningsutdrag. Publisher inte får någon betalning förrän saldot inte längre är negativt.  |
 |||
 

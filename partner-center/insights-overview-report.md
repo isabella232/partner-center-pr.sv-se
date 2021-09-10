@@ -9,16 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8ab68cbae952b8eab24dd989386007cd0c2fcc559cd48eb37256b80ce1146acf
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 5c063788b11dfb2507ff88a1774a94f21f6ebca5
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115678591"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960246"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Översikt över instrumentpanelsrapporter som är tillgängliga i Partnercenter Insights
  
-**Lämpliga roller:** Global | Administratörsagent | Rapportvisningsprogram | Rapportvisningsprogram för chefer
+**Lämpliga roller:** Globala | Administratörsagentens | Rapportvisningsprogram | Rapportvisningsprogram för chefer
 
 Instrumentpanelen Insights översikt innehåller en ögonblicksbild av KPI:er (Key Performance Indicators), till exempel kunder, prenumerationer, Azure-förbrukningsintäkter och licenser. Du kan visualisera följande diagram i översiktsrapporten.
 
@@ -82,7 +82,7 @@ Området **Licenser som distribueras** i sammanfattningen innehåller:
 
 ## <a name="geographical-spread-of-your-customers-subscriptions-and-licenses"></a>Geografisk spridning av dina kunder, prenumerationer och licenser
 
-Den här vyn är en geografisk fördelning av totalt antal kunder, prenumerationer och licenser efter kundland. Välj de olika flikarna för att visa var och en av dessa insikter på kartan. Du kan söka efter och välja ett land i rutnätet för att zooma till platsen på kartan. Återgå till den ursprungliga vyn genom att trycka på knappen Start på kartan. Om du klickar på varje flik (till exempel Kunder, Prenumerationer) visas måttvärdet för varje land och procentandelen av Total för landet.  
+Den här vyn är en geografisk fördelning av totalt antal kunder, prenumerationer och licenser efter kundland. Välj de olika flikarna för att visa var och en av dessa insikter på kartan. Du kan söka efter och välja ett land i rutnätet för att zooma till platsen på kartan. Återgå till den ursprungliga vyn genom att trycka på knappen Start på kartan. Om du klickar på varje flik (till exempel Kunder, Prenumerationer) visas måttvärdet för varje land och procent av Total för landet.  
 
 :::image type="content" source="images/insights/geosummary.png" alt-text="Geografisk sammanfattning.":::
 

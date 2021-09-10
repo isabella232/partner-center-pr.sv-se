@@ -7,31 +7,31 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: 8ad648d7ff7c5360ae61897ea98a633532ffd4c7de65ffa6b83984996ca24ac6
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: b905d422b10e0b82225966fa5379283ea0b83a69
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115693416"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960503"
 ---
 # <a name="payout-statements"></a>Utbetalningsinstruktioner
 
 **Lämpliga roller:** Kontoadministratörsroller | Global administratör
 
-**Utbetalningsutdraget** ger en översikt över dina utbetalningserbjudanden från erbjudanden som säljs via den kommersiella marknadsplatsen. Den visar transaktionshistorik för dina intäkter, beräknar nästa betalning och visar betalningstrender. Du kan också ladda ned transaktionshistorik och betalningsutdrag. Den här artikeln förklarar hur du kommer åt ditt utbetalningsutdrag och de olika utbetalningssidorna och nedladdningarna som är tillgängliga för dig i Partnercenter.
+**Utbetalningsutdrag** ger en översikt över dina utbetalningserbjudanden från erbjudanden som säljs via den kommersiella marknadsplatsen. Den visar transaktionshistorik för dina intäkter, beräknar nästa betalning och visar betalningstrender. Du kan också ladda ned transaktionshistorik och betalningsutdrag. Den här artikeln förklarar hur du kommer åt ditt utbetalningsutdrag och de olika utbetalningssidorna och nedladdningarna som är tillgängliga för dig i Partnercenter.
 
 >[!NOTE]
 >Du ser bara data för MPN-ID:er och program som du är associerad med. Om du vill se ytterligare data kan du kontakta kontoadministratören för att få behörighet. 
 
 ## <a name="roles-and-permissions"></a>Roller och behörigheter
 
-För att få åtkomst till ett utbetalningsutdrag måste du ha **tilldelats rollen Kontoägare** **eller Finansiell** deltagare.
+För att få åtkomst till ett utbetalningsutdrag måste du tilldelas **rollen Kontoägare** **eller Finansiell** deltagare.
 
 | Rapporter/sidor | Kontoägare | Ansvarig | Utvecklare | Affärsdeltagare | Ekonomideltagare | Marknadsförare |
 | --- | --- | --- | --- | --- | --- | --- |
-| Förvärvsrapport (inklusive data i nära realtid) | Kan visa | Kan visa | Ingen åtkomst | Ingen åtkomst | Kan visa | Ingen åtkomst |
+| Förvärvsrapport (inklusive data nära realtid) | Kan visa | Kan visa | Ingen åtkomst | Ingen åtkomst | Kan visa | Ingen åtkomst |
 | Feedbackrapport/svar | Kan visa och skicka feedback | Kan visa och skicka feedback | Kan visa och skicka feedback | Ingen åtkomst | Ingen åtkomst | Kan visa och skicka feedback |
-| Hälsorapport (inklusive data i nära realtid) | Kan visa | Kan visa | Kan visa | Kan visa | Ingen åtkomst | Ingen åtkomst |
+| Hälsorapport (inklusive data nära realtid) | Kan visa | Kan visa | Kan visa | Kan visa | Ingen åtkomst | Ingen åtkomst |
 | Användningsrapport | Kan visa | Kan visa | Kan visa | Kan visa | Ingen åtkomst | Ingen åtkomst |
 | Utbetalningskonto | Kan uppdateras | Ingen åtkomst | Ingen åtkomst | Ingen åtkomst | Kan uppdateras | Ingen åtkomst |
 | Skatteprofil | Kan uppdateras | Ingen åtkomst | Ingen åtkomst | Ingen åtkomst | Kan uppdateras | Ingen åtkomst |
@@ -48,82 +48,82 @@ Logga in på [Partnercenter](https://partner.microsoft.com/dashboard/home) och v
 
 :::image type="content" source="images/payouts/payout-overview.png" alt-text="Visar utbetalningsikonen i det övre högra hörnet i Partnercenter-portalen.":::
 
-Du kan också använda [partnerns utbetalnings-API för](/rest/api/partner-center/partner-payouts) att ansluta och hämta utbetalningstransaktioner och betalningsdata direkt. Läs mer i [Hantera utbetalningar med hjälp av API:et för utbetalningstjänsten](/partner-center/develop/manage-payouts).
+Du kan också använda [partnerns utbetalnings-API för](/rest/api/partner-center/partner-payouts) att ansluta och hämta utbetalningstransaktions- och betalningsdata direkt. Läs mer i [Hantera utbetalningar med hjälp av API:et för utbetalningstjänst.](/partner-center/develop/manage-payouts)
 
 
 ## <a name="transaction-history"></a>Transaktionshistorik
 
-Sidan **Transaktionshistorik** visar en sammanfattning av dina intäkter, beräknad nästa betalning samt din trend för intäkter och betalningar under de senaste 36 månaderna. Du kan också ladda ned transaktionsinformation från det här avsnittet.<br><br>Den här rapporten visar alla intäkter som är berättigade till utbetalning, inklusive betalningar som ännu inte har skickats. Intäkter är berättigade till utbetalning när en ISV har slutfört all bank- och skatteinformation i Partnercenter, har tjänade >USD 50, ISV-kontot är aktivt och kunden har fakturerats (för EA-transaktioner) eller om betalningen har tagits emot (för icke-EA-transaktioner).
+Sidan **Transaktionshistorik** visar en sammanfattning av dina intäkter, beräknad nästa betalning samt din trend för intäkter och betalningar under de senaste 36 månaderna. Du kan också ladda ned transaktionsinformation från det här avsnittet.<br><br>Den här rapporten visar alla intäkter som är berättigade till utbetalning, inklusive betalningar som ännu inte har skickats. Intäkter är berättigade till utbetalning när en ISV har slutfört all bank- och skatteinformation i Partnercenter, har fått >USD 50 USD, ISV-kontot är aktivt och kunden har fakturerats (för EA-transaktioner) eller om betalningen har tagits emot (för icke-EA-transaktioner).
 
 :::image type="content" source="images/payouts/transaction-overview.png" alt-text="Transaktionsöversikt.":::
 
-- **Intäkter som skickats i** år – Totala intäkter och uppdelningar av intäkter som har betalats och kommer att betalas under den kommande månaden.
-- **Uppskattad betalningsmånad** – Totala intäkter som förväntas under de kommande månaderna.
-- **Intäkts- och betalningstrend** – Månatliga intjänings- och betalningsbelopp för de senaste 36 månaderna.
-- **Ladda** ned – Ladda ned transaktionsinformation i .csv eller .tsv-format.
+- **Intäkter som skickas i** år – Totala intäkter och uppdelning av intäkter som har betalats och kommer att betalas under den kommande månaden.
+- **Uppskattad betalningsmånad** – Totala förväntade intäkter under de kommande månaderna.
+- **Intäkts- och betalningstrend** – Månatliga intjänings- och betalningsbelopp under de senaste 36 månaderna.
+- **Ladda** ned – Ladda ned transaktionsinformation i .csv- eller .tsv-format.
 
-Använd datumintervallsmarkeringen i det övre högra hörnet på sidan för att filtrera utdata från sidan för att visa de senaste 3, 6, 12 eller 36 månaderna. Du kan också välja ett anpassat datumintervall på upp till 36 månader. Standardintervallet för datum är 12 månader. Du kan också filtrera efter Registrerings-ID, Program, Betalnings-ID, Intjäningstyp, Lever och Status. Data är tillgängliga för det aktuella räkenskapsåret (1 juli – 30 juni) och de föregående två räkenskapsåren.
+Använd valet av datumintervall i det övre högra hörnet på sidan för att filtrera utdata från sidan för att visa de senaste 3, 6, 12 eller 36 månaderna. Du kan också välja ett anpassat datumintervall på upp till 36 månader. Standardintervallet för datum är 12 månader. Du kan också filtrera efter Registrerings-ID, Program, Betalnings-ID, Intjäningstyp, Lever och Status. Data är tillgängliga för det aktuella räkenskapsåret (1 juli – 30 juni) och de föregående två räkenskapsåren.
 
 :::image type="content" source="images/payouts/search-filter.png" alt-text="Sökfiltret längst upp till höger på sidan.":::
 
-Om du vill se mer information om en intjäning väljer du nedåtpilen till höger på sidan. Om du gör det visas utnyttja, intäktsbelopp, produkt och kund. Om någon av dessa data av någon anledning inte är tillgänglig, men du behöver åtkomst till den, kontaktar du supporten. Om intjäning är resultatet av en justering och inte en transaktion visas inte fälten Produkt och Kund.
+Om du vill se mer information om en intjäning väljer du nedåtpilen till höger på sidan. Om du gör det visas sreglaget, intäktsbeloppet, produkten och kunden. Om någon av dessa data av någon anledning inte är tillgänglig, men du behöver åtkomst till den, kontaktar du supporten. Om intjäning är resultatet av en justering och inte en transaktion visas inte fälten Produkt och Kund.
 
 ### <a name="transaction-history-summary"></a>Sammanfattning av transaktionshistorik
 
-Den här vyn visar information om intjäning, inklusive ursprunget för intjäning från den sålda produkten, status och beräknad betalningsmånad.
+Den här vyn visar information om intjäning, inklusive ursprunget för den sålda produktens intäktsdatum, status och beräknad betalningsmånad.
 
 :::image type="content" source="images/payouts/transaction-history.png" alt-text="Transaktionshistorik.":::
 
 - **Intjänat** datum – inköpsdatum.
-- **Typ av** intjäning – Typ av intjäning, till exempel Försäljning, Medarbetare eller Co-op.
-- **Totalt belopp** – nettointäkterna. På den kommersiella marknadsplatsen innebär det att du har dra av standardavgiften för Marketplace.
+- **Intjäningstyp** – Typen av intjäning, till exempel Sell (Sälj) (1000) Eller Co-op (Co-op).
+- **Totalt belopp** – Nettointäkter. På den kommersiella marknadsplatsen innebär detta efter att du har dra av marketplace-standardavgiften.
 - **Status** – Har tre alternativ:
-    - **Kommande** – Intäkter är under en väntande kylningsperiod.
-    - **Bearbetade** – intäkter förbereds för nästa betalning.
+    - **Kommande** – Intäkter är i väntande kylningsperiod.
+    - **Bearbetade** – Intäkter förbereds för nästa betalning.
     - **Sent** – Intäkter har betalats.
 - **Uppskattad betalningsmånad** – Den månad då intäkterna förväntas betalas. Mer information [finns i](#estimated-payment-month) nästa avsnitt.
 
-Intäktstransaktioner visas när transaktionen uppfyller utbetalningsberättigandet. Information om varför du kan ha saknade eller oväntade intäkter finns i [Vanliga frågor om utbetalning på den kommersiella marknadsplatsen.](payout-faq.yml#why-are-my-earnings-missing-)
+Intäktstransaktioner visas när transaktionen uppfyller utbetalningsberättigandet. Information om varför du kan ha uteblivna eller oväntade intäkter finns i [Vanliga frågor om utbetalning från den kommersiella marknadsplatsen.](payout-faq.yml#why-are-my-earnings-missing-)
 
-#### <a name="estimated-payment-month"></a>Uppskattad betalningsmånad
+#### <a name="estimated-payment-month"></a>Beräknad betalningsmånad
 
 Sidan Transaktionshistorik innehåller nu en tabell som visar dina beräknade betalningsbelopp för de kommande månaderna. Du kan också visa och ladda ned den här informationen i exporterna av transaktionshistorik och sammanfattningsrapport. Den här informationen gör avstämningar och betalningsprognoser enklare.
 
-Den uppskattade betalningsmånaden beräknas baserat på programmets konfigurationsregler och tidslinjer och bearbetas i nästa/kommande betalningscykel.
+Beräknad betalningsmånad beräknas baserat på programkonfigurationsregler och tidslinjer och bearbetas i nästa/kommande betalningscykel.
 
 Beräknad betalningsmånad är för närvarande tillgänglig för alla intäktstyper utom co-op, som visas som **Ej tillämpligt.** För intäkter före 1 juli 2020 visas den uppskattade betalningsmånaden som **Ej tillgänglig.**
 
-I följande tabell visas ett exempel på beräknad betalningsmånad.
+I följande tabell visas ett exempel på en beräknad betalningsmånad.
 
 | Månad | Amount |
 | ------ | :-----------: |
 |  Sep-2020 |  7 273,99 USD   |
-|  Oktober 2020 | 8 692,30 USD  |
-|  Nov 2020 | 107,89 USD  |
+|  Okt-2020 | 8 692,30 USD  |
+|  Nov-2020 | 107,89 USD  |
 
-Det uppskattade beloppet kan variera från det faktiska beloppet av flera olika orsaker:
+Den uppskattade mängden kan variera från det faktiska beloppet av olika orsaker:
 
 - Omräkning av intäkter: Om intäkterna beräknas om kommer det faktiska beloppet att vara annorlunda
-- Justeringar: Det faktiska beloppet varierar beroende på vilka justeringar som har gjorts eller skickats.
-- Ändring av regler: En ändring i regler kan återspegla omberäkning i det faktiska betalda beloppet
-- Betalbar: Om betalningsfel inträffar kan det faktiska beloppet vara ett annat
+- Justeringar: Det faktiska beloppet varierar beroende på justeringar som har gjorts eller skickats.
+- Regeländring: En ändring i regler kan återspegla omberäkning av det faktiska betalda beloppet
+- Betalbar: Om betalningsfel inträffar kan det faktiska beloppet vara annorlunda
 
 Observera att din betalning endast släpps under den projicerade månaden om ditt programs tröskelvärde och regler för betalningsberättigande uppfylls. Dessa regler omfattar men är inte begränsade till listan nedan:
 
 - Din skatteprofil måste vara uppdaterad
-- Dina intäkter måste uppfylla eller överskrida den minsta intäktströskel som definierats i programguiden.
-- Hållen utbetalning: Om du väljer alternativet "Håll min betalning" på profiltilldelningssidan.
+- Dina intäkter måste uppfylla eller överskrida den minsta intjäning som definierats i programguiden.
+- Utbetalning i vänt händer: Om du väljer alternativet "Håll min betalning" på profiltilldelningssidan.
 - Utbetalningsinstrumentet är inte tillgängligt: Betalningen eller/och skatteprofilen har inte slutförts.
 
 ### <a name="transaction-history-download"></a>Nedladdning av transaktionshistorik
 
-Om du vill se mer information om en **intjäning** väljer du Ladda ned överst på sidan. I följande tabell förklaras varje kolumn i rapporten.
+Om du vill se mer information om en **intjäning väljer** du Ladda ned överst på sidan. I följande tabell förklaras varje kolumn i rapporten.
 
 >[!NOTE]
 >Nedladdningsexporten för transaktionshistorik har två nya fält från augusti 2020:
 >
->- **lastPaymentCurrency**  Valutan som den senaste betalningen togs emot i över alla MPN som partnern som är inloggad för närvarande har åtkomst till. Om ingen betalning tas emot blir den senaste betalningsvalutan amerikanska dollar.
->- **earningAmountInLastPaymentCurrency**  Intjänandebelopp i den senaste betalningsvalutan.
+>- **lastPaymentCurrency**  Den valuta som den senaste betalningen togs emot i, för alla MPN som partnern som är inloggad för tillfället har åtkomst till. Om ingen betalning tas emot blir den senaste betalningsvalutan amerikanska dollar.
+>- **earningAmountInLastPaymentCurrency**  Intjänandebeloppet i den senaste betalningsvalutan.
 
 | Kolumnnamn | Description | Tillämplighet för incitamentprogram/marknadsplatser |
 | --- | --- | --- |
@@ -145,8 +145,8 @@ Om du vill se mer information om en **intjäning** väljer du Ladda ned överst 
 | earningExchangeRate | Exchange som används för att visa motsvarande USD-belopp | Alla |
 | earningId | Unik identifierare för varje intjäning | Alla |
 | earningRate | Incitamentsfrekvens som tillämpas på transaktionsbelopp för att generera intäkter | Alla |
-| earningType | Anger om det är avgift, betalning, samarbete, försäljning och så vidare | Alla |
-| exchangeRateDate | Exchange som används för att beräkna earningAmount USD | Alla |
+| earningType | Anger om det handlar om avgifter, avgifter, samarbete, försäljning och så vidare | Alla |
+| exchangeRateDate | Exchange som används för att beräkna intjäningbelopp i USD | Alla |
 | externalReferenceId | Unik identifierare för programmet | Direkt betalningsprogram (incitament och marknadsplatser) |
 | externalReferenceIdLabel | Unik identifieraretikett | Direkt betalningsprogram (incitament och marknadsplatser) |
 | instantRebateAmount |  |  |
@@ -218,20 +218,20 @@ I följande tabell visas orsakskoder för justeringar och deras beskrivningar.
 | Justering av operativa program | Justering som korrigerar microsofts systemberäkningsfel. |
 | Felaktig beräkning för Ops-justering i Microsoft | Justering som korrigerar felberäkningar. |
 | Ops Adjustment Microsoft incorrect enrollment | Justering för registreringsrelaterade felberäkningar. |
-| Partnermappning (prenumeration) MCI/CSP | Justering som korrigerar prenumerationsfeljustering. |
+| Partnermappning (prenumeration) MCI/CSP | Justering som korrigerar prenumerationsfeljusteringen. |
 | Principfel | Justering som åsidosätter en programregel.  |
 | Intäkter från föregående period | Justering för intäkter utanför den aktuella intjäningsperioden. |
 
 ## <a name="payments"></a>Betalningar
 
-Sidan **Betalningar** innehåller information om de pengar du har fått av Microsoft. Den visar också när och hur mycket du kommer att betalas.
+Sidan **Betalningar** innehåller information om de pengar du har fått av Microsoft. Den visar även när och hur mycket du kommer att betalas.
 
 >[!Note]
 > För att vara berättigad till utbetalning måste dina intäkter nå [betalningströskeln](payment-thresholds-methods-timeframes.md) på 50 USD. Mer information finns i [Microsoft Publisher avtal](/legal/marketplace/msft-publisher-agreement).
 
 :::image type="content" source="images/payouts/payments-overview.png" alt-text="Skärmen Betalningsöversikt.":::
 
-- **Totalt antal som betalas** i år – den sammanlagda summan som betalas ut till dig i år, i amerikanska dollar, för alla dina program.
+- **Totalt antal som betalas** i år – summan som betalas ut till dig i år, i amerikanska dollar, för alla dina program.
 - **Nästa beräknade betalning** – Den enda nästa betalningen kommer till dig (även om det kommer andra snart) i amerikanska dollar.
 - **Senaste betalning** – Beloppet (i amerikanska dollar), programnamnet och programmet för din senaste betalning.
 - **Betalning efter källa** – Betalningsbelopp (i amerikanska dollar) per program under de senaste 12 månaderna.
@@ -242,7 +242,7 @@ I **tabellen Lista över betalningar** visas betalda och väntande betalningar. 
 
 :::image type="content" source="images/payouts/list-of-payments.png" alt-text="Exportera transaktionshistorik.":::
 
-- **Betald** – Alla betalningar har skickats. Välj år i den nedrullningsna menyn för att filtrera fram de betalningar som gavs ut under det året.
+- **Betald** – Alla betalningar har skickats. Välj året i den nedrullningsna menyn för att filtrera fram de betalningar som gavs ut under det året.
 - **Väntar –** kommande betalningar.
 - **Skatt på tjänstavgifter (PDF-formulär)** – Tillgängligt för betalningar som har debiterats för serviceavgiftsskatt. Skatter på tjänstavgifter visas i **Andra skatter.**
 - **Visa** – Omdirigerar till transaktionshistoriken med en lista över intäkter som ingår i betalningen.
@@ -282,7 +282,7 @@ I följande tabell beskrivs olika intäktsstatusar.
 | programName | Incitament/butiksprogramnamn |
 | Tjänat | Belopp som intjänats i betala till-valutan för programmet/deltagar-ID:t |
 | earnedUSD | Belopp som intjänats för program-/deltagar-ID i USD |
-| withtax | Belopp av skatt som medinlässas i betala till-valutan för programmet/deltagar-ID |
+| withtax | Mängden skatt som medinlässas i betala till-valutan för programmet/deltagar-ID:t |
 | salesTax | Totalt belopp för moms i betala till-valutan för programmet/deltagar-ID :t (gäller endast för incitamentsprogram) |
 | serviceFeeTax | Total mängd serviceFeeTax i betala till-valuta för program/deltagar-ID (gäller endast för butiksprogram och Azure Marketplace) |
 | totalbetalning | Total betalning i lokal valuta exklusive källskatten och inklusive momsen (om tillämpligt) för programmet/deltagar-ID:t |
@@ -309,7 +309,7 @@ Här är ett exempel på en betalningsexport:
 Sammanfattningen **Exportera data** ger också åtkomst till historiska instruktioner.
 
 > [!NOTE]
-> En historisk instruktion är en ögonblicksbild och uppdateras inte. Kontakta [supporten](https://partner.microsoft.com/support/v2/?stage=1) och begär den senaste informationen om det behövs.
+> En historisk instruktion är en ögonblicksbild och uppdateras inte. Kontakta [supporten och](https://partner.microsoft.com/support/v2/?stage=1) begär den senaste informationen om det behövs.
 
 :::image type="content" source="images/payouts/pc-export-statements.png" alt-text="Exportera historiska instruktioner.":::
 
@@ -332,7 +332,7 @@ I följande tabell förklaras varje kolumn i en historisk instruktion.
 | Överordnat produktnamn | Namnet på den överordnade produkten. Om det inte finns någon överordnad produkt för transaktionen, så är överordnad produktnamn = produktnamn. |
 | Produktnamn | Produktens namn |
 | Produkttyp | Typ av produkt, till exempel app, tillägg eller spel |
-| Kvantitet | När intäktskällan är Microsoft Store för företag antalet köpta licenser. För alla andra intäktskällor är Quantity alltid 1. Även om en enda transaktion delas upp i två radobjekt eftersom två olika betalningsmetoder användes, visar varje radobjekt 1 kvantitet. |
+| Kvantitet | När intäktskällan är Microsoft Store för företag antalet köpta licenser. För alla andra intäktskällor är Quantity alltid 1. Även om en enda transaktion delas upp i två radobjekt eftersom två olika betalningsmetoder har använts, visar varje radobjekt 1 kvantitet. |
 | Transaktionstyp | Typ av transaktion, till exempel köp, återbetalning, återföring eller återbetalning |
 | Betalningsmetod | Kundens betalningsmedel som används för transaktionen, till exempel kort, fakturering för mobiloperatör eller PayPal |
 | Land/region | Land/region där transaktionen inträffade |
@@ -343,13 +343,13 @@ I följande tabell förklaras varje kolumn i en historisk instruktion.
 | Nettokvitton | Transaktionsbelopp som är mindre än skatt som har efterkänds |
 | Butiksavgift | Procentandelen nettokvitton som kvarhålls av Microsoft som en avgift för att göra appen eller tillägget tillgängligt i Store |
 | Appintäkter | Nettokvitton minus butiksavgiften |
-| Skatter som med uppskattas | Belopp av inkomstskatt som medintäkt (ingår i **den reserverade** CSV-filen) |
-| Payment | Appen fortsätter minus eventuell tillämplig källskatt (belopp som visas i transaktionsvalutan). Ingår inte i **den reserverade** CSV-filen. |
+| Skatter som med uppskattas | Belopp av inkomstskatt som medskatt (ingår inte i **den reserverade** CSV-filen) |
+| Payment | Appen intäkter minus eventuell tillämplig källskatt (belopp som visas i transaktionsvalutan). Ingår inte i **reserverad** CSV-fil. |
 | FX-hastighet | Växelkurs som används för att konvertera transaktionsvaluta till betalningsvaluta |
 | Betalningsvaluta | Valuta som betalningen görs i |
-| Konverterad betalning | Betalningsbelopp som konverterats till betalningsvaluta med hjälp av FX-priset |
+| Konverterad betalning | Betalningsbelopp konverterat till betalningsvaluta med HJÄLP av FX-priset |
 | Skatteöverföringsmodell | Part som ansvarar för att överföra skatter (försäljning, användning eller moms/GST-skatter) |
-| Berättigandedatum, tid | Datum och tid då transaktionen fortsätter blir berättigad till utbetalning (UTC). När en utbetalning skapas omfattar den transaktioner som fortsätter med en berättigandedatumtid innan utbetalningsdatumet skapas (ingår endast i **den reserverade** CSV-filen). |
+| Berättigandedatum, tid | Datum och tid då transaktionen fortsätter blir berättigad till utbetalning (UTC). När en utbetalning skapas omfattar den transaktioner som fortsätter med en tid för berättigandedatum innan utbetalningen skapas (ingår endast i **den reserverade** CSV-filen). |
 | Avgifter | Visar en uppdelning av all avgiftsinformation som aggregerats i kolumnen Transaktionsbelopp (ingår endast för Azure Marketplace, ingår inte i **den reserverade** CSV-filen). |
 |||
 

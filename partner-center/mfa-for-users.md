@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0090bc37c2243fc471b23304b111ea7a748c8fe8da1bfc14a227af542593be70
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 4ff0aa89224c13eddcc6b935c8494188298aeb12
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115688987"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961423"
 ---
 # <a name="set-up-your-users-with-multi-factor-authentication"></a>Ge användarna multifaktorautentisering
 
@@ -39,7 +39,7 @@ Detta aktiverar MFA för den här användaren. Aktiverat innebär att användare
 >[!NOTE]
 >Du kan **tvinga** användarna att använda MFA genom att följa samma steg som ovan och välja **Framtvinga.** Mer information finns i [Aktivera Azure Multi-Factor Authentication per användare för att skydda inloggningshändelser.](/azure/active-directory/authentication/howto-mfa-userstates) 
 
-Alla användare börjar med **Inaktiverad**. När du registrerar användare i per användare Azure Active Directory Multi-Factor Authentication ändras deras tillstånd till **Aktiverad.** När aktiverad användare loggar in och slutför registreringen ändras deras tillstånd till **Framtvingad**. 
+Alla användare börjar med **Inaktiverad**. När du registrerar användare i per användare Azure Active Directory Multi-Factor Authentication ändras deras tillstånd till **Aktiverad.** När aktiverad användare loggar in och slutför registreringsprocessen ändras deras tillstånd till **Framtvingad**. 
 
 ## <a name="next-steps"></a>Nästa steg
 

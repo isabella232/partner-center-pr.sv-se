@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a3aba021aa1126ff18c9709dac68856e3f6de1822cfb908db3234a0a96a1f24c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 810c01c16bd6a2f9c6fa863289e1b788a057b627
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115686864"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961555"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-csp-program"></a>Flytta licensbaserade kunder från andra kanaler & partner till Molnlösningsleverantör (CSP)-programmet
 
@@ -26,7 +26,7 @@ Om kunden vill anlita flera partner, överföra sina prenumerationer till en ann
 
 1. Välj **Kunder** på Menyn i Partnercenter och välj sedan **Begär en återförsäljarrelation.** För att ge stöd för konton med flera kanaler gör du samma sak.
 
-2. När kunden har accepterat din inbjudan kan du etablera önskade prenumerationer och licenser för kunden (till exempel samma Office 365 erbjudande som kunden köpte tidigare).
+2. När kunden har accepterat din inbjudan kan du etablera önskade prenumerationer och licenser för kunden (till exempel samma Office 365 erbjudande som kunden har köpt tidigare).
 
 3. Kunden kan antingen tillåta att de ursprungliga prenumerationerna upphör att gälla eller avbryta dem. Men eftersom det inte finns några återbetalningar för annullerade prenumerationer är det bäst att vänta tills prenumerationerna är nära de naturliga förfallodatumen.
 

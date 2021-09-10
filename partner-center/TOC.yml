@@ -89,7 +89,7 @@
         - name: Vanliga frågor och svar om kompetenser
           href: competencies-faq.yml
           displayName: 'renew, mpn'
-        - name: Avgifter för betalning av kompetens
+        - name: Betala avgifter för kompetens
           href: mpn-pay-fee-silver-gold-competency.md
           displayName: mpn
         - name: Undantag för apputvecklarkompetens
@@ -121,7 +121,7 @@
     - name: Växla CSP-direktfakturering till indirekt återförsäljare
       href: transition-direct-to-indirect.md
       displayName: csp
-    - name: Partner kan inte längre registrera sig som rådgivare
+    - name: Partner kan inte längre registreras som rådgivare
       href: advisors-no-csp.md
 - name: CSP-avtal
   href: microsoft-partner-agreement.md
@@ -413,7 +413,7 @@
     - name: Fakturering för Marketplace-erbjudanden
       href: csp-commercial-marketplace-billing.md
       displayName: 'invoice, csp'
-    - name: Begär en SLA-kredit från Microsoft
+    - name: Begära en kredit från Microsoft
       href: request-credit.md
     - name: Visa digitala signaturer – Partnercenter Indien
       href: digital-signature.md
@@ -558,10 +558,10 @@
         - name: Roller och behörigheter för partnerintjänad kredit
           href: azure-roles-perms-pec.md
           displayName: 'role, roles, ro'
-        - name: Vanliga frågor och svar om partner-intjänad kredit
+        - name: Vanliga frågor och svar om partners intjänade kredit
           href: partner-earned-credit-faq.md
           displayName: 'faq, partner earned credit'
-        - name: Felsöka partner-intjänad kredit
+        - name: Felsöka partners intjänade kredit
           href: partner-earned-credit-troubleshoot.md
           displayName: 'partner earned credit, troubleshooting'
         - name: Ny handelsupplevelse i CSP – Azure-fakturering
@@ -718,7 +718,7 @@
               href: insights-programmatic-prerequisites.md
             - name: Paradigm för programmatisk åtkomst
               href: insights-programmatic-access-paradigm.md
-            - name: Gör ditt första programmerings-API-anrop
+            - name: Gör ditt första programmatiska API-anrop
               href: insights-programmatic-first-api-call.md
             - name: Lista över systemfrågor
               href: insights-programmatic-system-queries.md

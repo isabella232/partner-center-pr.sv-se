@@ -3,18 +3,18 @@ title: MPN-förmåner – teknisk support för lokala eller molnbaserade produkt
 description: Läs mer om Microsoft Partner Network (MPN) för tekniska supportärenden
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-benefits
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/17/2021
-ms.openlocfilehash: fae1f29f2fdc804764a29f81f2cddb7353dbf7f7
-ms.sourcegitcommit: c4601069340445135b551fa96bee6d9923d8aa97
+ms.openlocfilehash: 29650a1b94cee04b4290d42ac19d2c3304e743ec
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/01/2021
-ms.locfileid: "113173662"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960356"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>Teknisk support för lokala produkter eller molnprodukter
 
@@ -102,7 +102,7 @@ Välj [Support för företag](https://support.serviceshub.microsoft.com/supportf
 
 Du kan bara hämta den här informationen från supportportalen för lokal support för företag. Tyvärr visar inte molnportalerna (till exempel Azure, LCS med flera) den här informationen.
 
-Du måste använda support för företag och starta processen för att skapa en lokal supportincident. Vi skapar ingen supportbegäran eftersom vi inte slutför processen. Den information vi behöver visas i steg 2.
+Du måste använda Support för företag och starta processen för att skapa en lokal supportincident. Vi skapar ingen supportbegäran eftersom vi inte slutför processen. Den information vi behöver visas i steg 2.
 
 1. Öppna [Support för företag och](https://support.serviceshub.microsoft.com/supportforbusiness/create) välj Windows 10 och ange dummyinformation
 
@@ -114,12 +114,12 @@ Mer detaljerad information finns i Hur [många partnersupportärenden återstår
 
 ## <a name="signature-cloud-support-cloud-only"></a>Signature Cloud Support (endast moln)
 
-Guld- eller Silver-kompetenspartner kan använda **Signature Cloud Support** teknisk support för molnprodukter. Action Pack partner är inte berättigade Signature Cloud Support om de inte har en kompetens.  
+Guld- eller Silver-kompetenspartner kan använda **Signature Cloud Support** för teknisk support för molnprodukter. Action Pack partner är inte berättigade Signature Cloud Support om de inte har en kompetens.  
 
 Du behöver åtkomst-ID och kontrakt-ID första gången du använder förmånen för Azure, Dynamics 365 och andra molnprodukter (undantag Microsoft 365). Förmånerna är kopplade till ditt användarkonto tills de upphör att gälla eller det inte finns några fler supportärenden kvar.
 
 > [!NOTE]  
-> När du använder med hjälp av Azure Portal. Om ditt supportavtal redan är associerat med kontot visas ett felmeddelande om att åtkomst-ID:t redan är associerat ... när du lägger till åtkomst-ID och kontrakt-ID. se nedan
+> När du använder Azure Portal. Om ditt supportavtal redan är associerat med kontot visas ett felmeddelande om att åtkomst-ID:t redan är associerat ... när du lägger till åtkomst-ID och kontrakt-ID. se nedan
 
 CSP-partner som skapar Azure-begäranden kan använda supportavtalet "Molnlösningsleverantör" utan att lägga till ett supportavtal.
 
@@ -127,10 +127,10 @@ Användare med **rollen Administratörsagent** kan [välja Kunder](https://partn
 
 ### <a name="azure-portal-error-access-id-is-already-associated-"></a>Azure Portal felet "Åtkomst-ID är redan associerat ..."
 
-När du använder Azure Portal använder du Signature Cloud Support genom att välja Hjälp + support, Supportavtal och sedan Länka supportförmåner och ange åtkomst-ID och kontrakt-ID.
+När du använder Azure Portal använder du Signature Cloud Support genom att välja Hjälp + Support, Supportavtal och sedan Länka supportförmåner och ange åtkomst-ID och kontrakt-ID.
 
 > [!NOTE]
-> Om du har Microsoft Action Pack får du inte molnsupport eftersom den inte omfattar Signature Cloud Support – endast Microsofts produktsupport (lokalt)
+> Om du har Microsoft Action Pack får du inte molnsupport eftersom den inte omfattar Signature Cloud Support – endast Microsoft-produktsupport (lokalt)
 
 Du kan se felmeddelandet `This Access ID is already associated to an account. Please contact your Technical Account Manager to obtain a new Access ID` . Det här felmeddelandet är ogiltigt och bör ignoreras. Vi har begärt att felet ska inaktiveras och ersättas med ett användbart diagnostikfelmeddelande.
 
@@ -138,7 +138,7 @@ Föregående fel visas om du associerar ett supportavtal med ett konto mer än e
 
 1. Om du har tekniska guld- eller silverförmåner och tidigare har lagt till kontraktet för lokal support använder du Azure Portal och lägger till kontraktet en andra gång till samma konto. Du behöver bara associera supportavtalet med ett konto en gång och därför behöver du inte länka supportförmåner i Azure. Om du använder Link-supportförmåner när kontraktet redan är kopplat till kontot visas felet och det bör ignoreras. Använd + Ny Supportbegäran och skapa en supportincident som vanligt så visas supportplanen.
 
-2. Om supportavtalet har upphört att gälla eller om signaturen med 10 paket (guldhybridkompetens) eller signaturen 5-pack (Silver hybridkompetens) inte har några incidenter kvar, kommer supportavtalet att döljas eftersom det är ogiltigt. Om du länkar supportförmåner igen visas felet eftersom kontraktet redan är associerat. Du kan köpa en ny supportplan för att få supportärenden i Azure.
+2. Om supportavtalet har upphört att gälla eller signaturen med 10 paket (guldhybridkompetens) eller signaturen med 5 paket (Silver hybridkompetens) inte har några återstående incidenter, döljs supportavtalet eftersom det är ogiltigt. Om du länkar supportförmåner igen visas felet eftersom kontraktet redan är associerat. Du kan köpa en ny supportplan för att få supportärenden i Azure.
 
 Se Partnersupportplaner nedan för partnerbetalda supporterbjudanden
 
@@ -154,5 +154,5 @@ Du kan [jämföra partnersupportplaner](https://partner.microsoft.com/support/pa
 ## <a name="next-steps"></a>Nästa steg
 
 - [Hantera dina Microsoft Partner Network och erbjudanden](manage-your-partner-network-benefits.md)
-- [Aktivera tekniska fördelar för medlemmar i Partner Membership Center (PMC)](partner-membership-center-tech-benefits-activate.md)
+- [Aktivera tekniska fördelar för medlemmar i Partner Membership Center (PMC)](./partner-membership-center-retirement-faq.md)
 - [Tekniska tjänster för försäljning och distribution (TPD)](technical-benefits.md)

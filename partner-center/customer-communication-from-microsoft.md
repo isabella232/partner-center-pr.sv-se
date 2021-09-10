@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 9f270d406642c69766b1cacfa67287933c72d2a95c8ec16460012ff5b4873eb9
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 3ffca850cda093918930cb93abb5fb2372bfb45f
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115690162"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961306"
 ---
 # <a name="guidelines-for-successful-customer-communication-with-microsoft"></a>Riktlinjer för lyckad kundkommunikation med Microsoft
 

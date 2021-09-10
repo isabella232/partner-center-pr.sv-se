@@ -10,17 +10,17 @@ ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 5300f32dc7784a4a4c521db70513ba4b9f21a854
-ms.sourcegitcommit: a0afd7765a1a04dc603e096510fd9c138238a7cb
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "122681890"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959943"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Ny handelsupplevelse i CSP – Azure-fakturering 
 
 **Lämpliga roller:** Administratörsagent | Faktureringsadministratörskonto | Global administratör
 
-I den här artikeln förklaras hur du kommer åt och förstår faktura- och avstämningsfilstrukturen som rör fakturering för Azure-planen. Fakturering under Azure-planen är en förenklad faktureringsupplevelse med ett justerat faktureringsdatum och kalendermånadsbaserad faktureringsperiod.
+Den här artikeln förklarar hur du kommer åt och förstår faktura- och avstämningsfilstrukturen som rör fakturering för Azure-planen. Fakturering under Azure-planen är en förenklad faktureringsupplevelse med ett justerat faktureringsdatum och kalendermånadsbaserad faktureringsperiod.
 
 ## <a name="summary-of-billing-essentials"></a>Sammanfattning av faktureringsinformation
 
@@ -82,7 +82,7 @@ Så här kommer du åt faktura- och avstämningsfilen:
             - Datormätare
         - Premium SSD-hanterad disk (resurs)
             - Storage kapacitetsmätare
-            - Storage driftmätare
+            - Storage för drift
 
 - Prenumeration B – ResourceGroup 1 – Azure SQL (resurs) – DTU-mätare – VPN Gateway (resurs) – VPN-gatewaymätare
 
@@ -115,7 +115,7 @@ Så här kommer du åt faktura- och avstämningsfilen:
 4. Om mätaren, eller resurser som sänder  mätaren, är kvalificerad för partner-intjänad kredit för tjänster som hanteras under en del av månaden, innehåller rekognoseringsfilen två faktureringsrader. En rad representerar de dagar då mätaren kvalificerades och den andra raden representerar de dagar då mätaren inte var kvalificerad.
 
 >[!NOTE]
->Du kan stämma av din Azure-förbrukning i rekognoseringsfilen för ett köp en gång. Det gör du genom att gå till din dagliga avsökningsfil för användning och söka efter ditt SubscriptionID. Då visas alla kostnader som är kopplade till ditt Azure-plan-ID. Ditt Azure SubscriptionID visas som EntitlementID.
+>Du kan stämma av Din Azure-förbrukning i rekognoseringsfilen för ett köp en gång. Det gör du genom att gå till din dagliga avsökningsfil för användning och söka efter ditt SubscriptionID. Då visas alla kostnader som är kopplade till ditt Azure-plan-ID. Ditt Azure SubscriptionID visas som EntitlementID.
 
 ## <a name="read-the-daily-usage-file"></a>Läsa filen för daglig användning
 
@@ -139,7 +139,7 @@ Så här kommer du åt faktura- och avstämningsfilen:
 
 Azure-tjänster via en Azure-plan prissätts i USD och faktureras i partnerns tilldelade valuta. Om faktureringsvalutan inte är USD visas den valutakurs (FX) som används på den sista sidan på fakturan. FX-priser bestäms varje månad och tillämpas på följande faktura. En fullständig lista över länders valutor finns i den nya handelslösningen med [landstillgänglighet och partnervalutamatrisen](https://go.microsoft.com/fwlink/?linkid=2112354).
 
-Microsoft tillämpar en förutbestämd växelkurs för att basera USD-priser för att ta emot totala avgifter för Azure-tjänster som köpts eller förbrukats varje kalendermånad. Den månatliga växelkursen är den genomsnittliga kursen som publiceras av AntenPrise (vanligtvis) två arbetsdagar före den föregående månadens slut kl. 16:00 GMT. 
+Microsoft tillämpar en förutbestämd växelkurs för att basera USD-priser för att komma fram till de totala avgifter som tillkommer för Azure-tjänster som köpts eller förbrukats varje kalendermånad. Den månatliga växelkursen är den genomsnittliga kursen som publiceras av AntenPrise (vanligtvis) två arbetsdagar före den föregående månadens slut kl. 16:00 GMT. 
 
 **Till exempel** Microsofts växlingskurs i december skulle vara Det medelstora priset För en viss valuta den 29 november eller runt den 29 november. Den kursen tillämpas på alla inköp i den valutan från 1 december till 31 december. 
 
@@ -163,7 +163,7 @@ Eftersom faktureringsmodellen för Azure-tjänster via en Azure-plan är förbru
 
 ## <a name="next-steps"></a>Nästa steg
 
-- Se hur partnerns intjänade kredit (PEC) beräknas. Logga in på instrumentpanelen [i Partnercenter](https://partner.microsoft.com/dashboard/) och leta upp den tillgängliga prislistan.
+- Se hur partnerns intjänade kredit (PEC) beräknas. Logga in på instrumentpanelen i [Partnercenter](https://partner.microsoft.com/dashboard/) och leta upp den tillgängliga prislistan.
 
 - Lär dig mer [om att köpa Azure-planen](purchase-azure-plan.md)
 

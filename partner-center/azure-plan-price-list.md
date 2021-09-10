@@ -10,15 +10,15 @@ ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 73b47b62ce996156c7e780450bada1bdbec9f4b0
-ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "123457620"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959956"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Prislista för den nya handelsupplevelsen i CSP för Azure
 
-**Lämpliga roller:** Administratörsagent | Faktureringsadministratörskonto | Global | Supportagent för | Försäljningsagent | Administratör för användarhantering
+**Lämpliga roller:** Administratörsagent | Faktureringsadministratörskonto | Globala | Supportagent | Försäljningsagent | Administratör för användarhantering
 
 Realtidspriserna för den nya Azure-handelsupplevelsen i CSP levereras dynamiskt i realtid på Partnercenter. Priserna visas endast i USD. Från och med augusti 2021 debiteras alla partner i partnerns platsvaluta oavsett var kunden som du sålde produkterna finns. Mer information finns i [Azure-plan – fakturering.](azure-plan-billing.md)
 
@@ -56,7 +56,7 @@ Om du har registrerat dig *den 21* juli 2021 eller senare
 
   - **Föregående månads priser:** Hämtningar av varje typ av resurs kommer att ske per månad. För prisfiler inkluderar detta alla mätare som var tillgängliga under den månaden. Om en ny mätare visas i mitten av månaden visas jag som en mätare med ett effektivt datum som återspeglar dess tillgänglighet. Liknande för priser som har upphört, visas med ett effektivt slutdatum som beskriver när de inte längre är tillgängliga.
 
-  - **FX-priser:** FX-priser är tillgängliga för nedladdning dagen före den 1:a i månaden, pst kl. 18:00. Om du till exempel vill ha priserna för november laddar du ned priserna den 31 oktober. Tidigare månads FX-priser kommer också att vara tillgängliga.
+  - **FX-priser:** FX-priser är tillgängliga för nedladdning dagen före den 1:a i månaden, kl. 18:00 PST. Om du till exempel vill ha priserna för november laddar du ned priserna den 31 oktober. Tidigare månads FX-priser kommer också att vara tillgängliga.
 
 - Priserna i prislistorna är direkta priser. Vissa partner kan vara berättigade till partner-intjänade krediter. Information om hur partnerns intjänade kredit beräknas finns i [Så här beräknas och betalas partnerns intjänade kredit.](partner-earned-credit-explanation.md)
 
@@ -91,7 +91,7 @@ Prislistor för Azure-plan kan exporteras från [sidan Priser och erbjudanden](h
 
 ## <a name="tiered-pricing"></a>Nivåindelad prissättning
 
-Vissa förbrukningstjänster för Azure-plan stöder nivåindelade priser. Partner hittar dessa produkter och SKU:er i prislistan för Azure-planen. Objekt som har värden i kolumnerna för prisnivåintervall gör det möjligt för partner att förstå priset baserat på användning. I exemplet nedan med exempeldata har vi en produkt-SKU med tre prisnivåer.
+Vissa förbrukningstjänster för Azure-planer har stöd för nivåindelade priser. Partner hittar dessa produkter och SKU:er i prislistan för Azure-planen. Objekt som har värden i kolumnerna för prisnivåintervall gör det möjligt för partner att förstå priset baserat på användning. I exemplet nedan med exempeldata har vi en produkt-SKU med tre prisnivåer.
 
 |**Produktionen**   |**SkuId**   |**UnitPrice**   |**PricingTierRangeMin**   |**PricingTierRangeMax**   |
 |:---------------|:-----------|:---------------|:-------------------------|:-------------------------|
@@ -99,18 +99,18 @@ Vissa förbrukningstjänster för Azure-plan stöder nivåindelade priser. Partn
 |DDD123456ABC|01AB|0,80|101|100000|
 |DDD123456ABC|01AB|1|1|100|
 
-I det här exemplet skulle avgiften vara 100,80 om 101 enheter används. De första 100 enheterna är en i varje och nästa enhet debiteras till 0,80.
+Om 101 enheter används i det här exemplet skulle avgiften vara 100,80. De första 100 enheterna är en i varje och nästa enhet debiteras vid 0,80.
 
 ## <a name="pricing-api-for-azure-plan"></a>Prissättnings-API för Azure-plan
 
 Du kan använda [prissättnings-API:et](/partner/develop/pricing) för att hämta priser för Azure-planer för förbrukning och reservationer programmatiskt. Du kan också hämta växelkurser.
 
-Prissättnings-API:et finns på en annan slutpunkt än de andra Partner Center-API:erna. Prisinformationen innehåller mätarpriser i USD för Azure-planresurser och priser för reservationer som tillämpas på Azure-prenumerationsplan.
+Prissättnings-API:et finns på en annan slutpunkt än de andra Partner Center-API:erna. Prisinformationen innehåller mätarpriser i USD för Azure-planresurser och prissättning för reservationer som tillämpas på Prenumerationer på Azure-plan.
 
-Det här API:et gör det också möjligt för partner att hämta månatliga växelkurser eftersom prissättningen för Azure-planen endast är i USD. Du kan använda API:erna för att hämta både priser och växelkurser för den aktuella månaden eller föregående månader.
+Det här API:et gör det också möjligt för partner att hämta månatliga växelkurser eftersom priserna för Azure-planen endast är i USD. Du kan använda API:erna för att hämta både priser och växelkurser för den aktuella månaden eller föregående månader.
 
 > [!NOTE]
-> Prissättnings-API:et är specifikt för priser för Azure-planer. Du bör fortfarande använda det befintliga RateCard-API:et och prislistorna som publiceras på partnercentrets sida "Priser och erbjudanden" för Azure-resurser eller reservationer som distribuerats till prenumerationer som inte är Azure-planer. Pris-API:et för Azure-planer stöder inte programvara, Marketplace eller licensbaserad prissättning, till exempel Microsoft 365 eller Dynamics 365.
+> Prissättnings-API:et är specifikt för priser för Azure-planer. Du bör fortfarande använda det befintliga RateCard-API:et och prislistorna som publicerats på partnercentrets sida "Priser och erbjudanden" för Azure-resurser eller reservationer som distribuerats till prenumerationer som inte är Azure-planer. Prissättnings-API:et för Azure-planer stöder inte programvara, marketplace eller licensbaserad prissättning, till exempel Microsoft 365 eller Dynamics 365.
 
 Mer information om priser för Azure-planer och API:er för växelkurser finns i den fullständiga [api-dokumentationen för priser.](/partner/develop/pricing)
 

@@ -8,12 +8,12 @@ description: Begär en relation med en kund för scenarier med flera partner, fl
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e38c557c2cf1ee87238015971336ca7593aece9798b8b376a60f6a881bce4e5
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 5b80cc15ade94a9003ec1b21293d86c3b5ac8ace
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115695143"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960186"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Så här begär du en återförsäljarrelation från en kund i Partnercenter
 
@@ -32,7 +32,7 @@ Du kan begära en återförsäljarrelation med en kund från ditt land eller i s
 
 1. Välj **Kunder** på menyn **i Partnercenter** och välj sedan **Begär en återförsäljarrelation.**
 
-2. Om du vill begära administratörsbehörigheter från den här kunden väljer du Inkludera delegerade **administrationsbehörigheter för Azure Active Directory och Office 365**. Avmarkera det här alternativet om du vill upprätta relationen utan att begära administratörsbehörighet.
+2. Om du vill begära administratörsbehörighet från den här kunden **väljer du Inkludera delegerade administrationsbehörigheter för Azure Active Directory och Office 365**. Avmarkera det här alternativet om du vill upprätta relationen utan att begära administratörsbehörighet.
 
 3. På nästa sida granskar du utkastet till e-postmeddelandet. Du kan öppna utkastet i ditt vanliga e-postprogram, eller så kan du kopiera meddelandet till Urklipp och klistra in det i ett e-postmeddelande.
 
@@ -43,7 +43,7 @@ Du kan begära en återförsäljarrelation med en kund från ditt land eller i s
 5. När kunden har accepterat din inbjudan visas den på sidan **Kunder** och kan etablera och hantera tjänsten för kunden därifrån.
 
    > [!NOTE]
-   > Om kunden inte redan har accepterat Microsoft-kundavtal uppmanas de att göra det när de godkänner din inbjudan. Kunden måste vara global administratör för att acceptera inbjudan.
+   > Om kunden inte redan har godkänt Microsoft-kundavtal uppmanas de att göra det när de godkänner din inbjudan. Kunden måste vara global administratör för att acceptera inbjudan.
 
 6. Om du vill hantera kundens konto, tjänster, användare och licenser expanderar du kundens post genom att välja nedåtpilen nära kundens namn.
 

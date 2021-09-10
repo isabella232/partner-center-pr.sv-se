@@ -9,18 +9,18 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b0d804878835012a005a47d93e9b50a4b27d584f976257328ad022c3f5ece116
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 8d0bb023bae86a4ff8789bd256273de8f8901a4c
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115695874"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961550"
 ---
 # <a name="update-customer-account-info-company-details-and-customer-billing-information-in-partner-center"></a>Uppdatera kundkontoinformation, företagsinformation och kundfaktureringsinformation i Partnercenter
 
 **Lämpliga roller:** Globala | Försäljningsagent
 
-I Partnercenter kan du uppdatera en kunds faktureringsinformation och annan företagsinformation. Du kan också [ge eller ta bort din tillåtelse för en kund att köpa sina egna produkter eller tjänster.](give-customers-permission.md)
+I Partnercenter kan du uppdatera en kunds faktureringsinformation och annan företagsinformation. Du kan också [ge eller ta bort din tillåtelse för en kund att köpa egna produkter eller tjänster.](give-customers-permission.md)
 
 ## <a name="update-customer-details"></a>Uppdatera kundinformation
 

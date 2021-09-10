@@ -9,19 +9,19 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2dc3f02a84ff325f0aa785f414e263c505599ede2067b0edea5bf789a228a47b
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 2984dbb3a02df91d5a2a284182476bf348a24f47
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681934"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960096"
 ---
 # <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Köpa produkter från den kommersiella marknadsplatsen för dina kunder i Partnercenter
 
 
 **Lämpliga roller:** Globala | Administratörsagent
 
-Som partner i Molnlösningsleverantör-programmet (CSP) kan du använda den kommersiella marknadsplatsen för att köpa prenumerationer för dina kunder till vissa SaaS-produkter (Programvara som en tjänst) som erbjuds av oberoende programvaruleverantörer (ISV).
+Som partner i Molnlösningsleverantör-programmet (CSP) kan du använda den kommersiella marknadsplatsen för att köpa prenumerationer för dina kunder till vissa SaaS-produkter (Programvara som en tjänst) som erbjuds av oberoende programvaruleverantörer (ISV:er).
 
 Genom att erbjuda ISV SaaS-prenumerationer till dina kunder kan du göra skillnad på din verksamhet. Du kan också ge kunderna åtkomst till programvarupaket som tillgodoser deras specifika affärsbehov. Du hanterar licenser och prenumerationer för dessa Marketplace SaaS-produkter från ISV-utgivare på samma sätt som du hanterar licenser och prenumerationer för Microsoft-produkter.
 
@@ -36,7 +36,7 @@ Om du vill köpa en licensbaserad eller uppmätt SaaS-prenumeration i Partnercen
 Du kan också använda [Partner Center-API:er för](/partner-center/develop/) att skapa prenumerationer på den kommersiella marknadsplatsen för dina kunder. (Mer information om hur du använder Partner Center-API:er finns i [Skapa en prenumeration för produkter på den kommersiella marknadsplatsen](/partner-center/develop/create-subscription-azure-marketplace-products).)
 
 >[!IMPORTANT]
-> Som partner i CSP-programmet kan du köpa  licensbaserade eller uppmätta SaaS-prenumerationer från **ISV-utgivare** i Partnercenter. Det innebär att du kan köpa alla licensbaserade eller uppmätta SaaS-erbjudanden [](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) som  **ISV-utgivaren** har gjort tillgängliga för dig, inklusive exklusiva erbjudanden som du har åtkomst till. Om du vill köpa eller hantera andra erbjudanden på den kommersiella marknadsplatsen från ISV:er (till exempel användningsbaserade erbjudanden som rör Azure-program, containrar eller virtuella datorer) måste du gå [till Azure Portal](https://portal.azure.com/).
+> Som partner i CSP-programmet kan du köpa  licensbaserade eller uppmätta SaaS-prenumerationer från **ISV-utgivare** i Partnercenter. Det innebär att du kan köpa alla licensbaserade eller uppmätta SaaS-erbjudanden [](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) som  **ISV-utgivaren** har gjort tillgängliga för dig, inklusive exklusiva erbjudanden som du har åtkomst till. Om du vill köpa eller hantera andra erbjudanden på den kommersiella marknadsplatsen från ISV:er (till exempel användningsbaserade erbjudanden som rör Azure-program, containrar eller virtuella datorer) måste du [gå till Azure Portal](https://portal.azure.com/).
 
 ## <a name="purchase-usage-based-subscriptions-in-the-azure-portal"></a>Köpa användningsbaserade prenumerationer i Azure Portal
 
@@ -52,7 +52,7 @@ Till skillnad från licensbaserade SaaS-prenumerationer från tredjeparts-ISV-ut
 
 5. Välj **Visa alla** överst i Azure Marketplace listan.
 
-6. Använd filter överst i Marketplace-listan för att begränsa listan. Du kan till exempel välja **Microsoft** eller **Partner** **från listrutan Publisher** visa endast erbjudanden från Microsoft eller från en ISV-utgivare.
+6. Använd filter överst i Marketplace-listan för att begränsa listan. Du kan till exempel välja **Microsoft** eller **Partner** **från listrutan Publisher** att endast visa erbjudanden från Microsoft eller från en ISV-utgivare.
 
 7. Välj ett specifikt erbjudande och välj sedan **Skapa**.
 

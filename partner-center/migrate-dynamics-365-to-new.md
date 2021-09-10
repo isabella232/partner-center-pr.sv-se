@@ -9,22 +9,22 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 40be8c8a338f5bbcbc8a10ccd9343f7ef52817902cdf7a5a54e8631a2d2c8b4b
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 2e8eca0a645656388516c4c25f0091713424caf0
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681543"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961473"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Migrera Dynamics 365 Business Edition-erbjudanden till nyare versioner
 
-**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Administratörsagent | Försäljningsagent
+**Lämpliga roller:** Globala | Administratörsbehörighet för | Administratörsagent | Försäljningsagent
 
 Från och med 1 januari 2019 kan kunder med Dynamics 365 Business Edition-prenumerationer inte längre förnya till dessa äldre erbjudanden. befintliga prenumerationer förnyas inte automatiskt när de upphör att gälla. På prenumerationens informationssida ändras prenumerationsstatusen till "Upphör att gälla [datum]" från "Förnyas automatiskt [datum]".
 
 För att säkerställa kontinuitet för kunder bör du föra över dem med utgående prenumerationer till ett alternativ som stöds, som anges nedan. Vi rekommenderar att du flyttar kunder till nya prenumerationer före prenumerationens årliga slutdatum för att undvika eventuella tjänstavbrott för kunder.
 
-Om du använder API:et (antingen KANT eller Partnercenter) kan du hitta prenumerationer som går ut genom att utvärdera slutdatumet för prenumerationen tillsammans med egenskapen för automatisk förnyelse = Falskt. Prenumerationerna i fråga ställs in på förnya automatiskt = Falskt den 1 januari 2019. Du kan när som helst flytta kunder till en ny plan. 
+Om du använder API:et (antingen ELLER Partnercenter) kan du hitta utgångna prenumerationer genom att utvärdera slutdatumet för prenumerationen tillsammans med egenskapen förnya automatiskt = Falskt. Prenumerationerna i fråga ställs in på förnya automatiskt = Falskt den 1 januari 2019. Du kan när som helst flytta kunder till en ny plan. 
 
 ## <a name="the-dynamics-365-business-editions-being-retired"></a>Dynamics 365 Business Editions dras tillbaka
 
@@ -33,7 +33,7 @@ Om du använder API:et (antingen KANT eller Partnercenter) kan du hitta prenumer
 
 ## <a name="dynamics-business-central---the-dynamics-365-business-edition-new-offers"></a>Dynamics Business Central – nya erbjudanden för Dynamics 365 Business Edition
 
-Med de nya Dynamics Business Central-erbjudandena kan dina kunder ansluta sina ekonomi-, försäljnings-, tjänst- och driftsprocesser för att effektivisera affärsprocesser, förbättra kundinteraktioner och fatta bättre beslut. Dynamics 365 Business Central är molnbaserad och endast tillgängligt via Molnlösningsleverantör (CSP) programpartner.
+Med de nya Dynamics Business Central-erbjudandena kan dina kunder ansluta sina ekonomi-, försäljnings-, tjänst- och drifttjänster för att effektivisera affärsprocesser, förbättra kundinteraktioner och fatta bättre beslut. Dynamics 365 Business Central är molnbaserad och tillgänglig endast via Molnlösningsleverantör(CSP) programpartner.
 Dynamics 365 Business Edition-kunder är berättigade till rabatterade övergångspriser för de nya Business Central-erbjudandena fram till den 30 juni 2020.
 
 ## <a name="transition-customers-to-new-product-plans"></a>Övergå kunder till nya produktplaner
@@ -61,6 +61,6 @@ Kunden kommer nu att ha både den gamla och den nya. Nästa steg är att omtilld
 När du har flyttat över licenserna till den nya prenumerationen kan du avbryta den gamla prenumerationen. 
 
 1. Välj **Kunder** i det vänstra navigeringsfältet och välj sedan den kund som du flyttar.
-2. På sidan med prenumerationsdetaljer ställer du in den gamla prenumerationen på **Pausad** och väljer **Skicka**.
+2. På sidan med prenumerationsdetaljer anger du den gamla prenumerationen till **Pausad** och väljer **Skicka**.
 
 Den gamla prenumerationen har nu inaktiverats och den nya prenumerationen är aktiv. Den pausade prenumerationen avetableeras automatiskt efter 120 dagar. Kunden medför inga ytterligare kostnader för den gamla prenumerationen.

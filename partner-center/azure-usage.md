@@ -9,21 +9,21 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: f6392bf0e2d5feb37db38b2c185c07b4cb2cc1e01f7ab29fa1991d8e9357d276
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: dc9b9100e01191c24c03c76e9a9ff5a6ffe335d1
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115680639"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959986"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Storleksändring av virtuell Microsoft Azure-dator för maximal reservationsanvändning
 
 **Lämpliga roller:** Administratörsagent | Försäljningsagent
 
-I den här artikeln förklaras hur du kan ändra storlek på en virtuell dator (VM) efter dina kunders databehandlingsbehov när du köper Microsoft Azure reservationer åt dem.
+I den här artikeln förklaras hur du kan ändra storlek på en virtuell dator (VM) till dina kunders databehandlingsbehov när du köper Microsoft Azure reservationer åt dem.
  
 > [!NOTE]
-> Den här artikeln gäller endast för partner i Molnlösningsleverantör-programmet (CSP). Kunder som använder andra typer av prenumerationer (till exempel betala enligt användning, enskilda prenumerationer, Microsoft-kundavtal- eller företagsavtal-prenumerationer) bör i stället läsa dokumentationen om [Azure-reservationer.](/azure/cost-management-billing/reservations)
+> Den här artikeln gäller endast för partner i programmet Molnlösningsleverantör (CSP). Kunder som använder andra typer av prenumerationer (till exempel betala enligt användning, enskilda prenumerationer, Microsoft-kundavtal- eller företagsavtal-prenumerationer) bör i stället läsa den här dokumentationen om [Azure-reservationer.](/azure/cost-management-billing/reservations)
 
 ## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>Fastställa VM-storleken för en kunds Azure-reservation
 
@@ -81,7 +81,7 @@ Använd informationen i bilden nedan för att hämta platsen och storleken på d
 
 När du har köpt en azure-reserverad VM-instans åt en kund tillämpas rabatten för att betala för VM-utrymme i förväg automatiskt på de virtuella datorer som matchar attributen och kvantiteten för kundens reservation.
 
-Du kan kontrollera kundens reservationsanvändning och se vilka virtuella datorer reservationsrabatterna tillämpas på med någon av följande metoder:
+Du kan verifiera kundens reservationsanvändning och se vilka virtuella datorer reservationsrabatterna tillämpas på med någon av följande metoder:
 
 - Azure Portal
 - API för Azure-användning
@@ -106,14 +106,14 @@ Anvisningar för hur du använder var och en av dessa metoder finns nedan.
     b. Om reservationens användning är 0 % tillämpas rabatten inte på någon virtuell dator.
     c. Om reservationens användning är mellan 1 % och 99 % finns det oanvända fördelar.
 
-5. Du kan undvika den här situationen genom att fastställa rätt storlek på den virtuella datorn för att stödja kundens behov av databehandling innan du gör köpet.
+5. Du kan undvika den här situationen genom att fastställa rätt storlek på den virtuella datorn för att stödja kundens databehandlingsbehov innan du gör köpet.
 
 ### <a name="verify-the-customers-reservation-usage-with-the-azure-utilization-api"></a>Verifiera kundens reservationsanvändning med API:et för Azure-användning
 
 >[!NOTE]
 >Endast API:et för Azure-användning visar vilken virtuell dator rabatten tillämpas på.  
 
-Du kan hämta reservationsanvändningsdata med API:et för Azure-användning för att verifiera att kunden får reservationsrabatten och för att se vilka virtuella datorer (virtuella datorer) som rabatten tillämpas på. Jämför exempel A med exempel B för att se hur du verifierar en kunds reservationsanvändning.
+Du kan hämta reservationsanvändningsdata med API:et för Azure-användning för att verifiera att kunden får reservationsrabatten och för att se vilka virtuella datorer som rabatten tillämpas på. Jämför exempel A med exempel B för att se hur du verifierar en kunds reservationsanvändning.
 
 :::image type="content" source="images/usage5.png" alt-text="Exempel på reservationsanvändning.":::
 

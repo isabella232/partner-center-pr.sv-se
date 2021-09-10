@@ -9,11 +9,11 @@ author: v-sausharma
 ms.author: v-sausharma
 ms.localizationpriority: medium
 ms.openlocfilehash: e2409dcbfd2a9de677ef4ec79bf8749072859325
-ms.sourcegitcommit: a0afd7765a1a04dc603e096510fd9c138238a7cb
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "122681855"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961483"
 ---
 # <a name="referral-analytics-export--data-definitions"></a>Export av hänvisningsanalys – datadefinitioner
 
@@ -60,7 +60,7 @@ De olika rapporterna, som du kan ladda ned tillsammans med deras datadefinitione
 |   Beräknat avtalsvärde (USD)  |   Beräknat avtalsvärde som tillhandahålls av partner i USD |
 |   Lösnings-ID     |   Lista över lösnings-ID |
 |   Namn på lösning   |   Lista över lösningsnamnen  |
-|   MPN-ID  |   Microsoft-partnernätverks-ID för partnern |
+|   MPN-ID  |   Microsofts partnernätverks-ID för partnern |
 |   Partnernamn    |   Namnet på partnern |
 |   Avtals-ID |   ID för avtalet  |
 |   Engagemangs-ID   |   Unikt engagemangs-ID    |
@@ -77,10 +77,10 @@ De olika rapporterna, som du kan ladda ned tillsammans med deras datadefinitione
 |   Slutdatum för kontrakt   |   Slutdatum för det kontrakt som angavs under avtalsregistreringen  |
 |   Datum för kontraktstecken  |   Signeringsdatum för det kontrakt som angavs under avtalsregistreringen |
 |   Kontrakttyp   |   Typ av kontrakt    |
-|   Registrerat avtalslösnings-ID |   ID för lösning för avtalsregistrering    |
+|   Id för registrerad avtalslösning |   ID för lösning för avtalsregistrering    |
 |   Namn på registrerad avtalslösning   |   Namn på lösning för avtalsregistrering  |
 |   Registrerad avtalslösningsvaluta   |   Valuta för lösningen som tillhandahålls under avtalsregistreringen |
-|   Registrerat avtalslösningsvärde  |   Lösningsvärde som anges under avtalsregistreringen. Detta är i allmänhet det totala kontraktsvärdet minus eventuella icke-återkommande implementeringsavgifter.   |
+|   Registrerat avtalslösningsvärde  |   Lösningsvärde som angavs under avtalsregistreringen. I allmänhet är detta det totala kontraktsvärdet minus eventuella icke-återkommande implementeringsavgifter.   |
 |   Registrerat avtalslösningsvärde (USD)    |   Lösningsvärde i USD som angavs under avtalsregistreringen |
 |   Distribuerad den |   Anger om lösningen har distribuerats i Azure eller andra    |
 |   Primär distribution på   |   Anger om lösningen har distribuerats på kundens klientorganisation eller partnerklientorganisation  |
@@ -89,7 +89,7 @@ De olika rapporterna, som du kan ladda ned tillsammans med deras datadefinitione
 |   Avtalsgodkänd/avvisat datum     |   Avtalsgodkänd/avvisat datum. Detta mappas med statuskolumnen. |
 |   Amerikanskt federalt avtal |   Anger om det är ett amerikanskt federalt avtal    |
 |   Är Marketplace Transacted Deal  |   Anger om det är ett marketplace-avtal    |
-|   Transaktionsdatum för Marketplace    |   Marketplace-transaktionsdatum om avtalet genomförs på Marketplace|
+|   Marketplace-transaktionsdatum    |   Marketplace-transaktionsdatum om avtalet har transaktionerats på Marketplace|
 |   Status      |   Senaste status för hänvisning   |
 |   Statusorsak   |   Kommentarer eller orsak till statusen    |
 |       |       |

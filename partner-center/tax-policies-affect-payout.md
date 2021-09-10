@@ -7,20 +7,20 @@ ms.subservice: partnercenter-payouts
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: ef6520ff6ed4439e975dddaeff0b89ea2a912678c3871f1fc14bfb3cbe6bbff2
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 6a069db0334b13309e39e08bcc7b70f22eaa5c69
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115691546"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961519"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>Hur skatteprinciper påverkar utbetalningen för Azure Marketplace
 
-**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Administratörsagent
+**Lämpliga roller:** Globala | Administratörsbehörighet för användarhantering | Administratörsagent
 
 ## <a name="introduction"></a>Introduktion
 
-Microsofts kommersiella marknadsplats har global räckvidd. Transaktioner sker över gränser och beroende på var den oberoende programvaruleverantören (ISV) och kunden finns kan skattekonsekvenserna variera. Microsoft AppSource och Azure Marketplace du använda skatteprofilinformationen för Partnercenter för att fastställa ISV:ens land. För att fastställa kundens land använder vi antingen kundens faktureringsinformation eller, om kunden är i EU, två olika typer av information.
+Microsofts kommersiella marknadsplats har global räckvidd. Transaktioner sker över gränser och beroende på var den oberoende programvaruleverantören (ISV) och kunden finns kan skattekonsekvenserna variera. Microsoft AppSource och Azure Marketplace du använda skatteprofilinformationen i Partnercenter för att fastställa ISV:ens land. För att fastställa kundens land använder vi antingen kundens faktureringsinformation eller, om kunden är i EU, två olika uppgifter.
 
 Mer information om följande scenarier [](tax-details-marketplace.md) finns i tabellen Skatteinformation, som visar om Microsoft samlar in och betalar skatter åt utgivaren eller om ansvaret tillhör utgivaren.
 
@@ -39,7 +39,7 @@ Se [Scenario D](#foreign-publisher-transacts-with-us-customer) för transaktione
 
 **Scenario B** – Transaktioner som äger rum mellan en amerikansk utgivare (enligt definitionen i deras skatteprofilinformation för Partnercenter) till en kund i ett Microsoft-hanterat skatteland där landet inför en skatt på Marketplace-avgiften (en taxerbar tjänst). I det här scenariot subtraheras avgiften för butikstjänsten från utgivarens utbetalning.
 
-:::image type="content" source="images/tax-policies/payout-scenario-b.png" alt-text="Visar arbetsflödet för utbetalningsprocessens scenario B.":::
+:::image type="content" source="images/tax-policies/payout-scenario-b.png" alt-text="Visar arbetsflödet för utbetalningsprocessscenario B.":::
 
 ## <a name="publisher-transacts-in-publisher-managed-tax-country"></a>Publisher Transaktioner i Publisher skatteland
 
@@ -51,7 +51,7 @@ Mer information om landsspecifika priser (till exempel för att motverka kommand
 
 ## <a name="foreign-publisher-transacts-with-us-customer"></a>Foreign Publisher Transacts with US Customer
 
-**Scenario D** – Alla externa utgivare (definieras av sin Skatteprofilinformation i Partnercenter) i länder utan amerikanskt konto (se [Scenario E](#foreign-publisher-with-a-treaty-transacts-with-us-customer)) som gör en försäljning till en USA-baserad kund (enligt definitionen av kundens kontoadress). Amerikanska myndigheter kräver att Microsoft använder källskatt för utgivarens räkning. Skatt från utbetalning till utgivare beräknas baserat på erbjudandets pris.
+**Scenario D** – Alla externa utgivare (definieras av sin skatteprofilinformation i Partnercenter) i länder utan amerikanskt konto (se [Scenario E](#foreign-publisher-with-a-treaty-transacts-with-us-customer)) som gör en försäljning till en USA-baserad kund (enligt definitionen av kundens kontoadress). Amerikanska myndigheter kräver att Microsoft använder källskatt för utgivarens räkning. Skatt från utbetalning till utgivare beräknas baserat på erbjudandets pris.
 
 :::image type="content" source="images/tax-policies/payout-scenario-d.png" alt-text="Visar arbetsflödet för utbetalningsprocessens scenario D.":::
 
@@ -69,11 +69,11 @@ Mer information om landsspecifika priser (till exempel för att motverka kommand
 
 ## <a name="foreign-publisher-sells-to-an-eu-vat-registered-customer-in-a-microsoft-managed-country-in-ireland"></a>En främmande utgivare säljer till en momsregistrerad kund i EU i ett Microsoft-hanterat land (i Irland)
 
-**Scenario G** – Alla transaktioner mellan externa utgivare och EU-momsregistrerade kunder (i Irland) i ett Microsoft-Managed land. Kunden betalar Moms och Microsoft betalar den här momsen till myndigheter i Usa.
+**Scenario G** – Alla transaktioner mellan externa utgivare och EU-momsregistrerade kunder (i Irland) i ett Microsoft-Managed land. Kunden betalar Vat vat och Microsoft betalar den här momsen till den amerikanska staten.
 
 :::image type="content" source="images/tax-policies/payout-scenario-g.png" alt-text="Visar arbetsflöde för utbetalningsprocessscenario G.":::
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Publisher Faq](/azure/marketplace/marketplace-faq-publisher-guide)
+- [Publisher FAQ](/azure/marketplace/marketplace-faq-publisher-guide)
 - [Anvisningar för att skapa betalnings- och skatteprofiler](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)

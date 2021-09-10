@@ -10,11 +10,11 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 6d3d414aa33991888fcd8b81864e2adee9a46f46
-ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "123457947"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959953"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Lär dig hur du läser filer för dagligt klassificerad användningsavstämning i Partnercenter
 
@@ -41,7 +41,7 @@ Den här artikeln förklarar hur du läser filer för dagligt klassificerad anv�
 | Tier2MpnId | MPN-identifierare för återförsäljaren av posten för prenumerationen. |
 | InvoiceNumber | Fakturanummer där den angivna transaktionen visas. |
 | ProductId | Identifierare för produkten. |
-| SkuId | Identifieraren för en viss SKU. |
+| SkuId | Identifierare för en viss SKU. |
 | AvailabilityId | Identifieraren för en viss SKU:s tillgänglighet. Den här kolumnen visar om SKU:n är tillgänglig för inköp i det angivna landet, valutan, branschsegmentet osv. |
 | SkuName | Rubriken för en viss SKU. |
 | ProductName | Namnet på produkten. |
@@ -71,18 +71,18 @@ Den här artikeln förklarar hur du läser filer för dagligt klassificerad anv�
 | BillingCurrency | Valutan i kundens geografiska region. |
 | PricingPreTaxTotal | Prissättningen, innan skatter läggs till. |
 | PricingCurrency | Valutan i prislistan. |
-| ServiceInfo1 | Antalet anslutningar Service Bus har etablerats och använts en viss dag. |
+| ServiceInfo1 | Antalet anslutningar Service Bus som har etablerats och använts en viss dag. |
 | ServiceInfo2 | Ett äldre fält som samlar in valfria tjänstspecifika metadata. |
 | Taggar | Representerar en logisk organisation av Azure-resurser som angetts av användaren. |
 | AdditionalInfo | Eventuell ytterligare information som inte omfattas i andra kolumner. |
 | EffectiveUnitPrice | Det faktiska värdet som debiteras per enhet, inklusive eventuella rabatter, intjänad kredit och så vidare. |
-| PCToBCExchangeRate | Exchange som tillämpas för prissättningsvalutan för faktureringsvalutan. |
+| PCToBCExchangeRate | Exchange för prissättningsvalutan för faktureringsvalutan. |
 | PCToBCExchangeRateDate | Det datum då prissättningsvalutan för faktureringsvalutan bestäms. |
-| EntitlementId | Representerar Azure-prenumerations-ID:t. |
-| EntitlementDescription | Representerar namnet på Azure-prenumerations-ID:t. |
+| EntitlementId | Representerar Prenumerations-ID för Azure. |
+| EntitlementDescription | Representerar namnet på prenumerations-ID:t för Azure. |
 | PartnerEarnedCreditPercentage | Visar PartnerEarnedCredit för radobjektet. Intjänad kredit är antingen 0 eller 15 procent |
-| CreditPercentage | Visar Azure-förbrukningskrediten. Den intjänade krediten är antingen 0 eller 100 procent. |
+| CreditPercentage | Visar Azure-förbrukningskrediten. Intjänad kredit är antingen 0 eller 100 procent. |
 | CreditType | Typ av kredit. Till exempel **Tillämpad Azure-kredit.** |
 
 >[!NOTE]
->Daglig klassificerad användning tar normalt 24 timmar att visas i Partnercenter eller nås via API.
+>Daglig beräknad användning tar normalt 24 timmar att visas i Partnercenter eller nås via API.

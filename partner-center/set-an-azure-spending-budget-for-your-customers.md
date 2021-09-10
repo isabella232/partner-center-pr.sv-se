@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8bf7c71a8309925e3a94b50b53264164df5bd82db8ae0e6a8a62a339d6eb9a9
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: a2085713f1fef474dd26cb66a30a37f701789859
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115697235"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961076"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>Ange, kontrollera eller ta bort månatliga Azure-utgiftsbudgetar för kunder i Partnercenter
 
@@ -47,7 +47,7 @@ Du kan *ange en månatlig Azure-utgiftsbudget* för flera kunder i Partnercenter
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 
-2. På den vänstra menyn under **CSP väljer** du **Azure-utgifter.**
+2. I den vänstra menyn under **CSP väljer** du **Azure-utgifter.**
 
 3. På **sidan Azure-utgifter** går **du till Microsoft Azure prenumerationer** och väljer de kunder som du vill ange en budget för.
 
@@ -75,7 +75,7 @@ Du kan *ta bort en månatlig Azure-utgiftsbudget* för dina kunder i Partnercent
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 
-2. På den vänstra menyn under **CSP väljer** du **Azure-utgifter.**
+2. I den vänstra menyn under **CSP väljer** du **Azure-utgifter.**
 
 3. På sidan **Azure-utgifter** går **du till Microsoft Azure prenumerationer** och väljer de kunder vars budget du vill ta bort.
 
@@ -87,7 +87,7 @@ Du kan *spåra dina kunders aktuella Azure-utgifter och månatliga budgetar* nä
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 
-2. På den vänstra menyn under **CSP väljer** du **Azure-utgifter.**
+2. I den vänstra menyn under **CSP väljer** du **Azure-utgifter.**
 
 3. På **sidan Azure-utgifter** under **Kunder med Microsoft Azure prenumerationer** kan du se en översikt över kundernas månatliga budgetar, aktuella utgiftsuppskattningar och procentandelen budget som används.
 
@@ -120,7 +120,7 @@ Du kan *visa specificerade kostnader (och beräknad användning) per tjänst fö
 
 3. På **sidan** Kunder väljer du kundens **företagsnamn**.
 
-4. På kundens **prenumerationssida** går du till **Användningsbaserade prenumerationer** och väljer namnet på **Prenumeration.**
+4. På kundens **prenumerationssida** går du till **Användningsbaserade prenumerationer** och väljer namnet på **prenumerationen**.
 
 5. På prenumerationens sida kan du granska De beräknade **kostnaderna** per tjänst och **Beräknad användning för** den aktuella månaden.
 

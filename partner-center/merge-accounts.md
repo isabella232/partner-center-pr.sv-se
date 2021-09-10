@@ -8,12 +8,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 37a4e5fd5e006496dd199d142442853e54e97500b45512d942d6dae9f2c18b3c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: ace5ad2dc75600f9085af3d0d7fcfa1036c2da6d
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681644"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960763"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Slå samman ditt partnerkonto med ett annat partnerkonto
 
@@ -21,7 +21,7 @@ ms.locfileid: "115681644"
 
 Två eller flera företag som är aktiva Microsoft-partner och har konton i Partnercenter kan välja att slå samman sina konton.
 
-## <a name="what-happens-when-two-partners-elect-to-merge-their-partner-center-accounts"></a>Vad händer när två partner väljer att slå samman sina PartnerCenter-konton
+## <a name="what-happens-when-two-partners-elect-to-merge-their-partner-center-accounts"></a>Vad händer när två partner väljer att slå samman sina Partnercenter-konton
 
 - Partnerorganisationen som initierar sammanslagningen blir partnerns globala konto (PGA).
 
@@ -45,17 +45,17 @@ Två eller flera företag som är aktiva Microsoft-partner och har konton i Part
 
 ## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>Vad som händer om du har bjudits in för att sammanslå ditt Partnercenter-konto med ett annat Partnercenter-konto
 
-Om du bestämmer dig för att acceptera inbjudan att slå samman konton: · Dina MPN-ID:n och platser slås samman med PGA för partnerkontot som bjudit in dig.
+Om du vill acceptera inbjudan att slå samman konton: · Dina MPN-ID:n och platser slås samman med PGA för partnerkontot som bjudit in dig.
 
 - Användarna förs in i det sammanslagna kontot med sina roller intakta.
 
-- Befintliga förmåner och kompetenser bevaras för båda företagen efter sammanslagningen fram till förnyelsen. Vid förnyelsen behandlas kontona som ett företag och standardförnyelsereglerna gäller.
+- Befintliga förmåner och kompetenser bevaras för båda företagen efter sammanslagningen fram till förnyelsen. Vid förnyelse behandlas kontona som ett företag och standardförnyelsereglerna gäller.
 
 ## <a name="understand-the-impacts-to-programs-and-benefits-when-partners-elect-to-merge-accounts"></a>Förstå påverkan på program och fördelar när partner väljer att slå samman konton
 
 - Alla befintliga kompetenser (Guld/Silver), inköp (till exempel Microsoft Action Pack) och tillhörande förmåner bevaras under konsolideringen. Om båda företagen har samma kompetens men det ena är guld och det andra silveret, tilldelas kompetensen med högsta kompetensnivå och partner får en uppsättning silverfördelar och en uppsättning guldfördelar för den kompetensen fram till nästa förnyelse. 
 
-- Högsta årsdagen för Microsoft Action Pack kommer att behållas efter sammanslagningen. Om till exempel årsdagen för företag 1 är juni 2020 för Action Pack-förnyelse och årsdagen för Action Pack-förnyelse för företag 2 är oktober 2020, kommer Microsoft att använda datumet oktober 2020 som ny årsdag för det sammanslagna företaget.
+- Högsta årsdagen för Microsoft Action Pack kommer att behållas efter sammanslagningen. Om till exempel årsdagen för företag 1 är juni 2020 för Action Pack-förnyelse och årsdagen för Action Pack-förnyelse för företag 2 är oktober 2020, kommer Microsoft att använda datumet oktober 2020 som det sammanslagna företagets nya årsdag.
 
 - Under kontosammanslagning och fram till nästa förnyelse behåller varje konto sina Action Pack och/eller kompetensförmåner. Vid förnyelse gäller Action Pack och kompetensförnyelseregler.
 
@@ -90,7 +90,7 @@ Om du bestämmer dig för att acceptera inbjudan att slå samman konton: · Dina
 
 3. Lägg till DET MPN-ID som finns **i partnerprofilen** för det konto som du vill bjuda in för att sammanslå med dig. Du måste använda partnerns globala MPN-ID. Du kan inte använda ett PLATS-MPN-ID.
 
-4. När du väljer **Sammanfoga** skickas en inbjudan till partnerföretaget. När de accepterar din begäran kan du initiera kontosammanfogningen i Partnercenter. Om företaget avvisar din begäran om att slå samman konton kan de förklara varför de avvisade begäran. En lista över alla dina kontosammanslagningar är tillgänglig för dig under **Sammanslagningshistorik**.
+4. När du väljer **Sammanfoga** skickas en inbjudan till partnerföretaget. När de accepterar din begäran kan du initiera kontosammanfogningen i Partnercenter. Om företaget avvisar din begäran om att slå samman konton kan de förklara varför de avvisade begäran. En lista över alla dina kontosammanslagningar är tillgänglig för dig under **Sammanslagningshistorik.**
  
 ### <a name="example-of-two-companies-merging-accounts"></a>Exempel på två företag som slår samman konton
 
@@ -103,7 +103,7 @@ Om du bestämmer dig för att acceptera inbjudan att slå samman konton: · Dina
     c. en guldkompetens som upphör att gälla den 1 oktober 2020
 2. Fabrikam, Inc. har
  
-    a.  ett globalt MPN-ID för 3333333 och två underordnade plats-MPN-ID:n för 4444444 och 5555555
+    a.  ett globalt MPN-ID för 3333333 och två UNDERORDNADE PLATS-MPN-ID:n för 4444444 och 5555555
 
     b.  en Azure AD-klientorganisation = @fabrikam.com
 
@@ -117,7 +117,7 @@ Om du bestämmer dig för att acceptera inbjudan att slå samman konton: · Dina
     
     b.  Den kommer att ha två Azure AD-klienter ( @contoso.com + ) som har åtkomst till samma @fabrikam.com Partnercenter-konto
     
-    c.  Det kommer att ha två kompetensförmåner, ett som går ut den 1 oktober 2020 och ett annat som upphör att gälla den 1 december 2020. De kommer att kunna förnyas som ett paket med enskilda kompetensförmåner den 1 december 2020. När de förnyas behåller Contoso alla tre kompetenserna även om de bara kan underhålla ett enda förmånspaket.
+    c.  Det kommer att ha två kompetensförmåner, ett som upphör den 1 oktober 2020 och ett annat som upphör att gälla den 1 december 2020. De kommer att kunna förnyas som ett paket med enskilda kompetensförmåner den 1 december 2020. När de förnyas behåller Contoso alla tre kompetenserna även om de bara kan underhålla ett enda förmånspaket.
     
 7.  Contosos administratörer fortsätter att hantera Partner Center-roller @contoso.com för användare. Fabrikams administratörer fortsätter att hantera Partner Center-roller @fabrikam.com för användare. Contosos administratörer kan bara administrera Fabrikams användare om de bjuds in som gäst till Fabrikams klientorganisation.
 8.  Contoso kan välja att ignorera klientorganisationen och @fabrikam.com återutgåva Fabrikam-anställdas nya @contoso.com autentiseringsuppgifter med nya roller och behörigheter.

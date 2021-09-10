@@ -10,16 +10,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1a7658de0d616d5fb5df9fd7f22f3945292d1a4220d261dab2e8b1066cdba9b2
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 982095303b748639f4f0bdc893acfa0fad1e9453
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681183"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960663"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Användar- och licenshantering i Partnercenter för Microsoft Cloud for US Government
 
-**Gäller för**: PartnerCenter för Microsoft Cloud for US Government
+**Gäller för**: Partner Center for Microsoft Cloud for US Government
 
 **Lämpliga roller:** Global administratör
 

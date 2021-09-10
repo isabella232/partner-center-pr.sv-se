@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 40df92449caabd3451b69ee6f86f0bbd85ddf16f6e1c6e75b47613f9d3842ae9
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 93ebd29529812535d2847485d2c9fe751fa5a9f8
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115680965"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961003"
 ---
 # <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>Olika sätt att arbeta med andra partner i Partnercenter
 
@@ -24,7 +24,7 @@ Microsofts CSP Molnlösningsleverantör program (CSP) erbjuder möjligheter för
 
 ## <a name="indirect-provider-indirect-reseller-model"></a>Modell för indirekt leverantör/indirekt återförsäljare
 
-I den här modellen, som även kallas modellen med två nivåer, arbetar indirekta leverantörer och indirekta återförsäljare tillsammans för att sälja Microsofts molnbaserade tjänster till organisationer i flera språk, vertikaler och branscher.
+I den här modellen, som även kallas modellen med två nivåer, arbetar indirekta leverantörer och indirekta återförsäljare tillsammans för att sälja Microsofts molnbaserade tjänster till organisationer på flera platser, vertikaler och branscher.
 
 ### <a name="indirect-providers"></a>Indirekta leverantörer
 
@@ -53,4 +53,4 @@ Partnercenters funktion för flera kanaler stöder scenarier när en kund vill a
 Stöd för flera kanaler är också tillgängligt i Microsofts nationella molnerbjudanden.
 
 > [!IMPORTANT]  
-> En partner i CSP-programmet kan inte sälja onlinetjänster till en annan partner i CSP-programmet för närvarande. Den här begränsningen gäller endast för den klientorganisation som används för att utföra CSP-transaktioner. CSP-partner som använder en icke-CSP-klient för företagsanvändning kan köpa onlinetjänster en annan CSP-partner. Microsoft granskar kontinuerligt principer och funktioner i alla program. Alla nyheter om funktions- eller principändringar kommer att meddelas via de vanliga kommunikationskanalerna, inklusive [Partner Center-meddelanden.](announcements/index.md)
+> En partner i CSP-programmet kan inte sälja onlinetjänster en annan partner i CSP-programmet för närvarande. Den här begränsningen gäller endast för den klientorganisation som används för att utföra CSP-transaktioner. CSP-partner som använder en icke-CSP-klientorganisation för företagsanvändning kan köpa onlinetjänster en annan CSP-partner. Microsoft granskar kontinuerligt principer och funktioner i alla program. Alla nyheter om funktions- eller principändringar kommer att meddelas via de vanliga kommunikationskanalerna, inklusive [Partner Center-meddelanden.](announcements/index.md)

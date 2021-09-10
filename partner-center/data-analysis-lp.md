@@ -9,16 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3102f4881f0aa86b8418ff09a3e430ccaff754cedb65e168ec0c10d5f2e3bbec
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: e94a57b6e93c86a24458862a3dd4a6ccc0b14885
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115687883"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961333"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Använd analys för att lära dig mer om prenumerationsintäkter
 
-**Lämpliga roller:** Global | MPN-partneradministratör
+**Lämpliga roller:** Globala | MPN-partneradministratör
 
 När du planerar sätt att utveckla CSP-verksamheten behöver du vara införstådd med hur kunderna använder sina Microsoft-produkter. Du har flera alternativ för att samla in data i Partnercenter och du kan samla in data om både din verksamhet och om och hur dina kunder använder de licenser som de har köpt. Om du använder CSP-direktmodellen har du också möjlighet att installera och använda appen Partnercenteranalys för Power BI för att samla in ytterligare data.
 
@@ -33,7 +33,7 @@ När du planerar sätt att utveckla CSP-verksamheten behöver du vara införstå
 
 ## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Intäkter för Twelve-Month CSP (TTM)
 
-Avslutande 12 månaders CSP-intäkter representerar de avslutande Molnlösningsleverantör i USD på partnerns globala kontonivå. Data uppdateras den åttonde i varje månad för att visa de avslutande tolvmånadersintäkterna fram till föregående månad. Den 9 september 2020 bör du till exempel kunna se TTM för den fasta perioden september 2019 till augusti 2020. Programvaruprenumerationer undantas. TTM-intäkter återspeglar endast de berättigade intäkter som fakturorna redan har betalats för. 
+Avslutande 12 månaders CSP-intäkter representerar de avslutande Molnlösningsleverantör i USD på partnerns globala kontonivå. Data uppdateras den åttonde i varje månad för att visa de avslutande tolvmånadsintäkterna fram till föregående månad. Den 9 september 2020 bör du till exempel kunna se TTM för den fasta perioden september 2019 till augusti 2020. Programvaruprenumerationer undantas. TTM-intäkter återspeglar endast de berättigade intäkter som fakturorna redan har betalats för. 
 
 Intäkterna som visas i Partnercenter beräknas för ett fast tidsintervall på 12 månader och kan inte ändras till en kortare tidsram.
 
@@ -52,8 +52,8 @@ Den nedre halvan av skärmen visar en sammanfattning av prenumerationerna. Anvä
 
 - 30D – Senaste 30 dagarna
 - 3M – Senaste 3 månaderna
-- 6M – Senaste 6 månaderna
-- 12M – Senaste 12 månaderna
+- 6 M – Senaste 6 månaderna
+- 12 M – Senaste 12 månaderna
 
 2. **Produkttyp:**
  

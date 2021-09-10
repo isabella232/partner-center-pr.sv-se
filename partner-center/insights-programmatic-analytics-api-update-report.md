@@ -8,12 +8,12 @@ description: Använd det här API:et för att uppdatera rapportparametrar i Part
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: c4425f6444603852e87d9287db720ec1b29ee57818bc949c82eed2179ac6149e
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 64ef897dc3c883e4adfda4285183e441f27f3c7f
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115696926"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960926"
 ---
 # <a name="update-report-api"></a>Uppdatera rapport-API
 
@@ -38,7 +38,7 @@ Det här API:et hjälper dig att ändra en rapportparameter.
 
 |    Parameternamn    |    Typ    |    Obligatorisk    |    Beskrivning    |
 |    ----    |    ----    |    ----    |    ----    |
-|    reportId     |    sträng    |    No    |    ID för rapporten som ändras     |
+|    reportId     |    sträng    |    No    |    ID för den rapport som ändras     |
 |        |        |        |        |
 
 **Frågeparameter**
@@ -70,9 +70,9 @@ I den här tabellen visas viktiga definitioner av element i svaret.
 |    Beskrivning     |    Nej     |    Beskrivning av den skapade rapporten     |    Sträng     |
 |    StartTime     |    Yes    |    Tidsstämpel som rapportgenereringen ska börja efter     |    Sträng     |
 |    RecurrenceInterval     |    No     |    Hur ofta rapporten ska genereras i timmar. Minimivärdet är 4     |    Integer     |
-|    RecurrenceCount     |    No     |    Antal rapporter som ska genereras. Standardvärdet är obestämd.     |    Integer     |
+|    RecurrenceCount     |    No     |    Antal rapporter som ska genereras. Standardvärdet är obegränsad.     |    Integer     |
 |    Format     |    No    |    Filformat för den exporterade filen. Standardvärdet är CSV     |    CSV/TSV     |
-|    CallbackURL     |    No     |    HTTPS-motringning URL som ska anropas vid rapportgenerering     |    Sträng     |
+|    CallbackURL     |    No     |    URL för https-motringning som ska anropas vid rapportgenerering     |    Sträng     |
 |    CallbackMethod    |    No    |    HTTP-metod som ska användas för återanrop    |    GET/POST    |
 |        |        |        |        |
 
@@ -121,11 +121,11 @@ Den här tabellen definierar nyckelelementen i svaret:
 |    ----    |    ----    |
 |    ReportId     |    Universell unik identifierare (UUID) för den rapport som uppdateras     |
 |    ReportName     |    Namn som ges till rapporten i nyttolasten för begäran     |
-|    Description     |    Beskrivning som ges till rapporten i nyttolasten för begäran     |
+|    Description     |    Beskrivning som ges till rapporten i begärandenyttolasten     |
 |    QueryId     |    Fråge-ID som skickades när rapporten skapades     |
 |    Söka i data     |    Frågetext som ska köras för den här rapporten     |
 |    Användare     |    Användar-ID som används för att skapa rapporten     |
-|    CreatedTime     |    Den tid då rapporten skapades. Tidsformatet är yyyy-MM-ddTHH:mm:ssZ     |
+|    CreatedTime     |    Tiden då rapporten skapades. Tidsformatet är yyyy-MM-ddTHH:mm:ssZ     |
 |    ModifiedTime     |    Tid då rapporten senast ändrades. Tidsformatet är yyyy-MM-ddTHH:mm:ssZ     |
 |    ExecuteNow     |    ExecuteNow-flaggan som angetts när rapporten skapades    |
 |    StartTime     |    Den tid då rapportkörningen börjar. Tidsformatet är yyyy-MM-ddTHH:mm:ssZ     |

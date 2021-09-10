@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
-description: För partner med en tidigare ISV-kompetens kan du lära dig hur du får ett kravundantag för en prov för kompetensen för programutveckling
+description: För partner med en tidigare ISV-kompetens kan du lära dig hur du får ett kravundantag för en prov för kompetensen programutveckling
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9f124443aa67bad37a5e9aff0d0bdbbdc0ca8c3015720b960d7b18dd6ce4cbc4
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 71121a7493da8dee18fc65a90a4a70cc32d712c9
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115687952"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961156"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Kravundantag för ett prov för kompetensen programutveckling
 
@@ -24,11 +24,11 @@ Om du har uppnått den nu tillbakadragna ISV-kompetensen och något av följande
 
 Partner med isv-kompetens:
 
-- **ISV-kompetensen har** upphört att gälla – Undantaget för provkrav för en gång är tillgängligt i Partnercenter från och med 22 november 2019. Du har 30 dagar på dig att dra nytta av erbjudandet. Logga in på Partnercenter för information som är specifik för ditt företag.
+- **Isv-kompetensen har** upphört att gälla – Undantaget för provkrav för en gång är tillgängligt i Partnercenter från och med 22 november 2019. Du har 30 dagar på dig att dra nytta av erbjudandet. Logga in på Partnercenter för information som är specifik för ditt företag.
 
 - **Ditt kompetensmedlemskap är i** förnyelsefönstret – Undantaget för provkrav för en gång är tillgängligt i Partnercenter från och med den 22 november 2019. Du har 30 dagar på dig att dra nytta av erbjudandet. Logga in på Partnercenter för information som är specifik för ditt företag.
 
-- **Ditt kompetensmedlemskap kommer att** förnyas under de kommande månaderna – ditt undantag för provkrav för en gång kommer att vara tillgängligt när det är dags att förnya. Då har du 30 dagar på dig att få erbjudandet.
+- **Ditt kompetensmedlemskap kommer att** förnyas under de kommande månaderna – ditt krav på provundantag är tillgängligt när det är dags att förnya. Då har du 30 dagar på dig att få erbjudandet.
 
 Partner med en programutvecklingskompetens som uppnås via certifikatets IP-sökväg:
 

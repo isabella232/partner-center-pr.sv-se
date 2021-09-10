@@ -10,15 +10,15 @@ ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/07/2021
 ms.openlocfilehash: 4daf26a962d317da9eac3b2351f42c04546533d4
-ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121914668"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961507"
 ---
 # <a name="guide-to-create-and-manage-iot-deals-in-partner-center-pc-for-iot-partners-migrating-from-partner-sales-connect-psc"></a>Guide för att skapa och hantera IOT-avtal i Partnercenter (PC) för IOT-partner som migrerar från Partner Sales Anslut (PSC)
 
-**Lämpliga roller:** Kontoadministratörsroller | Referenser admin | Partner Sales Anslut (PSC)-| Administratörsadministratör Anslut partnerförsäljning (PSC) | Avtalsansvarig Anslut Partner Sales Anslut (PSC)
+**Lämpliga roller:** Kontoadministratörsroller | Referenser admin | PsC-Anslut (Partner Sales | Partner Sales Anslut (PSC) admin | Avtalsansvarig Anslut Partner Sales Anslut (PSC)
 
 Den här artikeln innehåller vägledning för IOT-partner som migrerar från Partner Sales Anslut (PSC) till Partner Center (PC) så att de kan fortsätta att skapa och hantera avtal i Partnercenter.
 
@@ -44,7 +44,7 @@ Det kommer dock att finnas skillnader. Följande riktlinjer kan hjälpa dig att 
 ### <a name="if-you-are-a-psc-deal-manager-or-seller"></a>Om du är PSC-avtalsansvarig eller säljare
 
 - Du behöver ett e-postmeddelande för arbetet för att logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard)
-- Om du använder ett icke-arbetskonto i PSC, eller om din e-postadress till arbetet är för ett annat företag än partnerföretaget, kontaktar du PSC-administratören för att få hjälp med att konfigurera kontot.
+- Om du använder ett icke-arbetskonto i PSC, eller om din e-postadress till arbetet gäller ett annat företag än partnerföretaget, kontaktar du PSC-administratören för hjälp med att konfigurera kontot.
 - Kontakta PSC-administratören om ditt partnercenterkonto har ställts in, oavsett vilket konto du använder för att logga in på PSC.
 - Kontrollera om du har åtkomst till Partnercenter och avsnittet Referenser.
 - Läs det här dokumentet för att förstå arbetsflödena och ändringarna i Partnercenter.
@@ -90,14 +90,14 @@ Tabellen för användarmigrering innehåller följande information:
 
 - Användarkonto – Medarbetarens e-post-ID
 - PSC-partnerkonto – Det konto som medarbetaren är associerad med i PSC
-- PSC-användarroll – en av de tre rollerna som tilldelats i PSC.
+- PSC-användarroll – En av de tre rollerna som tilldelats i PSC.
 - PLATS för DATOR-MPN – Den plats där användaren får relevanta Roller i Partnercenter (PC). MPN för PSC-partnerkontot används för att hitta motsvarande MPN-plats i Partnercenter för att tilldela behörigheter. Hela organisationen anger DET virtuella MPN-ID:t.
 - Datoranvändarroll – Anställda tilldelas roller baserat på sina PSC-användarroller. Administratören i PSC tilldelas referensadministratörsroller i Partnercenter. Säljaren tilldelas användarrollen referenser i Partnercenter. Läs mer om Partnercenter-roller och vad användare med dessa roller kan göra i Partnercenter [här](permissions-overview.md#manage-referrals)
 - PC AAD-klient – den Microsoft Azure Active Directory (Azure AD)-klient som användarna har tilldelats i Partnercenter
 - Status – Det finns tre möjliga tillstånd för migreringens status
     - **Inte migrerad** – användaren har inte tilldelats någon referensroll i Partnercenter
     - **Migrerad** – Användaren har migrerats med relevant roll tilldelad enligt tabellen
-    - **Fel** – Det gick inte att slutföra migreringen på grund av ett fel
+    - **Fel** – Det går inte att slutföra migreringen på grund av ett fel
 
 Ibland kan migreringen misslyckas och resultera i fel. Här är några orsaker till varför en migrering kan orsaka ett fel och några av sätten att lösa problemet:
 
@@ -119,7 +119,7 @@ Ibland kan migreringen misslyckas och resultera i fel. Här är några orsaker t
 
 ## <a name="psc-deals-migration"></a>Migrering av PSC-avtal
 
-När du har slutfört användarmigrering använder du avtalsmigreringsguiden på sidan möjligheter till säljförsäljning för att hämta alla berättigade öppna avtal från PSC till Partnercenter. **Hanterar migreringslänken visas endast för referensadministratörer med hela organisationens omfång i Partnercenter.** Länken för **PSC-avtalsmigrering** visas längst upp till höger på sidan med möjligheter till säljsamarbete och öppnar avtalsmigreringsguiden.
+När du har slutfört användarmigrering använder du avtalsmigreringsguiden på sidan möjligheter till säljförsäljning för att ta med alla berättigade öppna avtal från PSC till Partnercenter. **Hanterar migreringslänken visas endast för referensadministratörer med hela organisationens omfång i Partnercenter.** Länken för **PSC-avtalsmigrering** visas längst upp till höger på sidan med möjligheter till säljsamarbete och öppnar avtalsmigreringsguiden.
 
 Läs det här avsnittet innan du påbörjar avtalsmigrering.
 
@@ -134,7 +134,7 @@ Innan du påbörjar avtalsmigrering från Partnercenter följer du anvisningarna
 - Alla medlemmar i säljteamet i ditt företag som arbetar med öppna avtal informeras om migreringen.
 - Säljteamets medlemmar tränas att använda PartnerCenter för avtalshantering.
 - Avtal har all nödvändig information enligt beskrivningen nedan.
-    - Kundföretagsinformation, inklusive namn och adress
+    - Kundens företagsinformation, inklusive namn och adress
     - Minst en lösning
     - Minst en teammedlem med all information – förnamn, efternamn, e-post-ID och telefonnummer
     - Avtalsvärde
@@ -180,7 +180,7 @@ Det här är ett viktigt steg som hjälper dig att förbereda dig för IOT-avtal
 |**Scenario**|**PartnerFörsäljnings-Anslut**|**Partnercenter**|
 |-----|:-----|:-----|
 |Användarroller|PSC har administratörs-, avtalshanterare- och säljarroller.|Partnercenter har [referensadministratörs- och hänvisningsanvändarroller](permissions-overview.md#manage-referrals) som ger både läs- och skrivbehörighet baserat på platsomfånget.|
-|Microsofts säljarinformation|Visas så fort ett avtal skapas.|Microsofts säljarinformation är inte synlig för partner eftersom avtalstypen är partnerledd.
+|Microsofts säljarinformation|Synligt så fort ett avtal skapas.|Microsofts säljarinformation är inte synlig för partner eftersom avtalstypen är partnerledd.
 |Lösningar|Ett val av antal lösningar kan läggas till i avtalet.|Partner kan lägga till högst 50 lösningar i avtalet.
 |Avtalstilldelning|Endast tilldelad säljare kan visa och agera på avtal.|Hänvisningsanvändare som lagts till i teamavsnittet i ett avtal kan visa och agera på avtalet. Referensadministratörer för MPN-platsen där avtalet har skapats kan visa och agera på avtalet.|
 |Kundorganisation|Textinmatning i fritt format.|Du kan söka i [kundorganisationen](manage-co-sell-opportunities.md#select-your-customer) mot [D&B-databasen](https://www.dnb.com/) genom att bara skriva några tecken. Det juridiska namnet och adressen fylls i automatiskt baserat på valet.|

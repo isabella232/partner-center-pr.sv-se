@@ -1,6 +1,6 @@
 ### YamlMime:FAQ
 metadata:
-  title: Hur indirekta leverantörer kan hjälpa sina återförsäljare att införa Microsoft-partneravtal – Vanliga frågor och svar
+  title: Hur indirekta leverantörer kan hjälpa sina återförsäljare att använda Microsoft-partneravtal – Vanliga frågor och svar
   ms.topic: article
   ms.date: 02/17/2021
   ms.service: partner-dashboard
@@ -10,14 +10,14 @@ metadata:
   ms.author: vinayks
   ms.localizationpriority: medium
   ms.custom: SEOMAY.20
-  ms.openlocfilehash: aefa07b13e88f6d3cef2d3d484823ddaced6d7973ea4adf84caddbb3a02ee57d
-  ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+  ms.openlocfilehash: 1eac4c58981ee5097ab429480e33072a39b9c20c
+  ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "115696816"
+  ms.lasthandoff: 09/09/2021
+  ms.locfileid: "123960656"
 title: Hur indirekta leverantörer kan hjälpa sina indirekta återförsäljare att acceptera Microsoft-partneravtal (MPA)
-summary: "**Lämpliga roller:** Globala | Administratörsagent | Försäljningsagent\n\nFöljande frågor och svar behandlar potentiella problem och lösningar som hjälper indirekta återförsäljare att förstå hur och varför de ska godkänna MPA. \n\nIndirekta leverantörer, direktfaktureringspartner och indirekta återförsäljare i Molnlösningsleverantör program kommer att ha nytta av den här informationen.\n"
+summary: "**Lämpliga roller:** Globala | Administratörsagentens | Försäljningsagent\n\nFöljande frågor och svar behandlar potentiella problem och lösningar för att hjälpa indirekta återförsäljare att förstå hur och varför de ska godkänna MPA. \n\nIndirekta leverantörer, direktfaktureringspartner och indirekta återförsäljare i Molnlösningsleverantör program kommer att ha nytta av den här informationen.\n"
 sections:
 - name: Frågor om MPA-program och -princip
   questions:
@@ -38,7 +38,7 @@ sections:
       Detta gäller även "Advisor"-partner som har gjort en överträdelse i CSP. Microsoft behöver ett aktivt CSP Indirect Reseller i varje affärsregion för molntjänstleverantörer för att indirekta återförsäljare ska kunna göra transaktioner med indirekta leverantörer.
   - question: >
       Jag arbetar med flera indirekta leverantörer (distributörer) i olika länder. Måste jag godkänna MPA i varje CSP-land?
-    answer: "Du behöver minst en MPA-signatur per CSP-region mot ett MPN-ID. Om du till exempel har ett MPN-ID i Frankrike och har registrerat dig i CSP Indirect Reseller-programmet i Frankrike och accepterat MPA är du kompatibel i hela [CSP Europa-regionen](regional-authorization-overview.md#europe-region-and-market) och behöver inte godkänna MPA i andra europeiska länder. Du kan göra en åtgärd med alla indirekta leverantörer i hela den europeiska CSP-regionen. \n"
+    answer: "Du behöver minst en MPA-signatur per CSP-region mot ett MPN-ID. Om du till exempel har ett MPN-ID i Frankrike och har registrerat dig i CSP Indirect Reseller-programmet i Frankrike och godkänt MPA är du kompatibel i hela [CSP Europa-regionen](regional-authorization-overview.md#europe-region-and-market) och behöver inte godkänna MPA i andra europeiska länder. Du kan göra en åtgärd med valfri indirekt leverantör i hela den europeiska CSP-regionen. \n"
   - question: >
       Jag är en partner för direktfakturering i Frankrike och jag har också kontakt med en indirekt leverantör i Italien. Behöver jag acceptera två MPA:er, en som direkt faktura och en som indirekt återförsäljare?
     answer: Om du redan har accepterat MPA för direktfakturering i CSP-regionen behöver du inte acceptera CSP-indirekt återförsäljares MPA. Du måste dock se till att ditt MPN-konto finns i Partnercenter och att MPN-ID:t som delas med din indirekta leverantör finns i Partnercenter.
@@ -52,7 +52,7 @@ sections:
       Kommer jag att tas bort från Partnercenter om jag inte godkänner MPA? Vilka är de exakta riskerna om återförsäljare inte accepterar MPA?
     answer: "Indirekta återförsäljare kommer att blockeras från att göra transaktioner med indirekt leverantör (Distributor). Det finns ingen plan för att avse den indirekta återförsäljaren inom en snar framtid. \n"
   - question: >
-      Min återförsäljare säger att MPA redan har godkänts av en anställd som har lämnat företaget. Behöver de godkänna igen?
+      Min återförsäljare säger att MPA redan accepterades av en anställd som har lämnat företaget. Behöver de godkänna igen?
     answer: >
       No
   - question: >
@@ -60,30 +60,30 @@ sections:
     answer: >
       No
   - question: >
-      Måste vi kommunicera med våra återförsäljare om att godkänna MPA, eller så kommer Microsoft att samarbeta med återförsäljare direkt för att godkänna MPA?
+      Måste vi kommunicera med våra återförsäljare om att godkänna MPA, eller kommer Microsoft att samarbeta med återförsäljare direkt för att godkänna MPA?
     answer: >
-      Som indirekt leverantör är det ditt ansvar att tydligt kommunicera med alla dina indirekta återförsäljare och göra dem medvetna om att de inte accepterar MPA. Du måste också ge dem lämplig support och vägledning för att godkänna MPA. För kritiska problem som inte kan lösas av dig bör du omdirigera dem till Microsoft med det här Partnercenter-supportavsnittet.
+      Som indirekt leverantör är det ditt ansvar att tydligt kommunicera med alla dina indirekta återförsäljare och göra dem medvetna om att de inte accepterar MPA. Du måste också ge dem lämplig support och vägledning för att acceptera MPA. För kritiska problem som inte kan lösas av dig bör du omdirigera dem till Microsoft med det här Partnercenter-supportavsnittet.
   - question: "Finns det några dokument som beskriver hur återförsäljare kan godkänna på MPA och bekräfta om senaste MPA godkändes? \n"
-    answer: "Följande är några användbara offentliga länkar som hjälper indirekta återförsäljare att acceptera MPA och vara kompatibla. \n\n- [Guiden Microsoft-partneravtal (MPA)](microsoft-partner-agreement.md) för CSP (innehåller stegvisa anvisningar för att migrera MPN-konto och acceptera MPA i Partnercenter)\n- [Arbeta med indirekta leverantörer i CSP-programmet](indirect-reseller-tasks-in-partner-center.md)\n- [Hantera platser i ditt partnerkonto](manage-locations.md)\n"
+    answer: "Följande är några användbara offentliga länkar som hjälper indirekta återförsäljare att acceptera MPA och vara kompatibla. \n\n- [MPA Microsoft-partneravtal (MPA)](microsoft-partner-agreement.md) för CSP (innehåller stegvisa anvisningar för att migrera MPN-konto och acceptera MPA i Partnercenter)\n- [Arbeta med indirekta leverantörer i CSP-programmet](indirect-reseller-tasks-in-partner-center.md)\n- [Hantera platser i ditt partnerkonto](manage-locations.md)\n"
 - name: Frågor om din MPN- och CSP-kontostruktur
   questions:
   - question: >
       Vad är skillnaden mellan mina MPN- och CSP-konton och hur är de relaterade?
-    answer: "Ditt MPN-konto bör användas för att hantera ditt medlemskap med Microsoft. Du får ett globalt MPN-ID (PGA) och en eller flera PLATS-MPN-ID:n (PLA) beroende på antalet dotterbolag som du skapar. Ditt CSP-konto är associerat med dina plats-MPN-ID:er och används för att utföra transaktioner med indirekta leverantörer eller hantera incitament. \n\n\n- [Hantera platser i ditt partnerkonto](manage-locations.md)\n\n- [Verifiera din organisationsprofil](update-your-partner-profile.md)\n\n- [Microsoft Partner Network medlemsförmåner](mpn-overview.md)\n\n\nDitt CSP-konto som är kopplat till platsens MPN-ID gör att du kan arbeta med indirekta leverantörer, hantera kunder och få incitament.\n    \n- [MPA (Microsoft-partneravtal) för CSP](microsoft-partner-agreement.md)\n\n- [Arbeta med indirekta leverantörer i CSP-programmet](indirect-reseller-tasks-in-partner-center.md)\n"
+    answer: "Ditt MPN-konto bör användas för att hantera ditt medlemskap med Microsoft. Du får ett globalt MPN-ID (PGA) och en eller flera PLATS-MPN-ID:n (PLA) beroende på antalet dotterbolag som du skapar. Ditt CSP-konto är associerat med dina plats-MPN-ID:er och används för att utföra transaktioner med indirekta leverantörer eller hantera incitament. \n\n\n- [Hantera platser i ditt partnerkonto](manage-locations.md)\n\n- [Verifiera din organisationsprofil](update-your-partner-profile.md)\n\n- [Microsoft Partner Network medlemsförmåner](mpn-overview.md)\n\n\nDitt CSP-konto som är kopplat till platsens MPN-ID gör att du kan arbeta med indirekta leverantörer, hantera kunder och få incitament.\n    \n- [MPA Microsoft-partneravtal (The Microsoft-partneravtal) för CSP](microsoft-partner-agreement.md)\n\n- [Arbeta med indirekta leverantörer i CSP-programmet](indirect-reseller-tasks-in-partner-center.md)\n"
   - question: >
       Vad är skillnaden mellan globalt MPN-ID och plats-MPN-ID?
-    answer: "Ett globalt MPN-konto motsvarar ditt huvudkontor och MPN-platser är dina dotterbolag.  Det finns ett unikt globalt MPN-ID (PGA MPN ID) och en eller flera unika MPN-ID:n (PLA MPN ID). Du kan kontrollera MPN-ID:na genom att logga in på Partnercenter med ditt MPN-konto, välja **Inställningar,** **sedan Konto Inställningar** och gå till sidan **Identifierare.** \n\nOm du har dotterbolag i olika länder kan du skapa MPN-platser i dessa länder och få PLATS-MPN-ID: er. Du kan sedan använda dessa PLATS-MPN-ID:er för att registrera dig för CSP-programmet, dela informationen med dina indirekta leverantörer och få incitament. \n\n- [Hantera platser i ditt partnerkonto](manage-locations.md)\n\nOm du får problem kan du skapa en [supportbiljett](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b) från Partnercenter. \n"
+    answer: "Ett globalt MPN-konto motsvarar ditt huvudkontor och MPN-platser är dina dotterbolag.  Det finns ett unikt globalt MPN-ID (PGA MPN ID) och en eller flera unika PLATS MPN ID (PLA MPN ID). Du kan kontrollera MPN-ID:na genom att logga in på Partnercenter med ditt MPN-konto, välja **Inställningar,** **sedan Konto Inställningar** och gå till sidan **Identifierare.** \n\nOm du har dotterbolag i olika länder kan du skapa MPN-platser i dessa länder och få PLATS-MPN-ID: er. Du kan sedan använda dessa PLATS-MPN-ID:er för att registrera dig för CSP-programmet, dela informationen med dina indirekta leverantörer och få incitament. \n\n- [Hantera platser i ditt partnerkonto](manage-locations.md)\n\nOm du får problem kan du skapa en [supportbiljett](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b) från Partnercenter. \n"
   - question: >
       Jag vet inte vilket MPN-ID som ska användas vid registrering i CSP Indirect Reseller program?
     answer: >
-      Innan [du registrerar dig för CSP Indirect Reseller bör](indirect-reseller-tasks-in-partner-center.md)du ha ett aktivt MPN-konto i Partnercenter. MPN-ID:ts land och ditt CSP-kontoland ska matcha för lyckad association och MPN-ID:t ska finnas i Partnercenter. Logga in på ditt MPN-konto (MPN och CSP inloggningsuppgifter kan vara olika). Gå till **Inställningar-Inställningar** identifierare för organisationsprofil och leta reda på MPN-ID:t med typen "Plats" som matchar landet  ->    ->    ->   för ditt CSP-konto.  Läs mer om [MPN-platser innan](manage-locations.md) du kopplar ett MPN-ID till ditt CSP-konto under CSP-registreringsprocessen.
+      Innan [du registrerar dig för CSP Indirect Reseller bör](indirect-reseller-tasks-in-partner-center.md)du ha ett aktivt MPN-konto i Partnercenter. MPN-ID-landet och ditt CSP-kontoland ska matcha för lyckad association och MPN-ID:t ska finnas i Partnercenter. Logga in på ditt MPN-konto (MPN och CSP inloggningsuppgifter kan vara olika). Gå till **Inställningar-Inställningar** identifierare för organisationsprofil och leta reda på MPN-ID:t med typen "Plats" som matchar ditt  ->    ->    ->   CSP-kontos land. Läs mer om [MPN-platser innan](manage-locations.md) du kopplar ett MPN-ID till ditt CSP-konto under CSP-registreringsprocessen.
   - question: >
       Hur gör jag för att du vilket MPN-ID som är associerat med mitt CSP-konto?
     answer: "Logga in på ditt CSP Indirect Reseller konto. Gå till  ->  **Inställningar-Inställningar**  ->  **identifierare för**  ->  **organisationsprofiler.** Under CSP-området på sidan är det associerade **MPN-ID:t det MPN-ID** som är associerat med ditt CSP-konto och ska anges för din indirekta leverantör för CSP-transaktioner. \n"
   - question: >
       Hur kan jag visa alla mina MPN-ID:n?
     answer: >
-      Logga in på Partnercenter med MPN-kontoautentiseringsuppgifter (MPN och CSP-inloggningsuppgifter kan vara olika). I **Inställningar du** **Konto Inställningar**  ->  **identifierare för**  ->  **organisationsprofil** för att visa dina MPN-ID:er. Om du vill lägga till en ny MPN-plats/dotterbolag går du till **Juridisk profil** och klickar på Lägg **till plats.**
+      Logga in på Partnercenter med MPN-kontoautentiseringsuppgifter (MPN och CSP-inloggningsuppgifter kan vara olika). I **Inställningar** du **Konto Inställningar**  ->  **identifierare för**  ->  **organisationsprofil** för att visa dina MPN-ID:er. Om du vill lägga till en ny MPN-plats/dotterbolag går du till **Juridisk profil** och klickar på Lägg **till plats.**
 - name: Frågor om regional CSP-auktorisering
   questions:
   - question: >
@@ -92,10 +92,10 @@ sections:
       En CSP-region består av ett eller flera länder där CSP-verksamheten kan utföras. Företaget omfattar till exempel att arbeta med indirekta leverantörer, ansluta till kunder, utföra åtgärder och få incitament. Du behöver minst ett CSP-konto (office 365-arbetskonto) för att göra affärer i en CSP-region. Läs mer om [CSP-regionen](regional-authorization-overview.md).
 
 
-      Om du är CSP Indirect Reseller måste du samarbeta med en indirekt leverantör i samma region och du kan bara sälja till kunder i samma region.
+      Om du är en CSP Indirect Reseller måste du samarbeta med en indirekt leverantör i samma region och du kan bara sälja till kunder i samma region.
   - question: >
       Varför kan jag inte associera mitt MPN-ID med min klient?
-    answer: "Om du inte kan associera ditt MPN-ID med din klient och du ser ett fel, innebär det att MPN-ID:t och klienten inte är i samma land. För att associationen ska fungera måste båda finnas i samma land. Det här kravet beror på att Microsofts incitament betalas per land och MPN-ID-nivå. Om du till exempel har ett CSP-konto i Frankrike behöver du en MPN-plats (MPN-ID) även i Frankrike för att få betalda incitament. Ett MPN-ID i Storbritannien fungerar inte även om de finns i samma CSP-region. \n\nLös detta genom att skapa en MPN-plats i samma land som CSP-landet. Läs mer om hur du [hanterar MPN-platser.](manage-locations.md)\n"
+    answer: "Om du inte kan associera ditt MPN-ID med din klient och du ser ett fel, innebär det att MPN-ID:t och klientorganisationen inte finns i samma land. För att associationen ska fungera måste båda finnas i samma land. Det här kravet beror på att Microsofts incitament betalas per land och MPN-ID-nivå. Om du till exempel har ett CSP-konto i Frankrike behöver du en MPN-plats (MPN-ID) även i Frankrike för att få betalda incitament. Ett MPN-ID i Storbritannien fungerar inte även om de finns i samma CSP-region. \n\nLös detta genom att skapa en MPN-plats i samma land som CSP-landet. Läs mer om hur du [hanterar MPN-platser.](manage-locations.md)\n"
   - question: >
       Jag har ett CSP Indirect Reseller konto i Frankrike. Kan jag samarbeta med en indirekt leverantör i Tyskland?
     answer: >
@@ -107,7 +107,7 @@ sections:
   - question: >
       Kan jag ha fler än ett MPN- och CSP-konto i Partnercenter?
     answer: >
-      Du kan bara ha ett MPN-konto (inloggning) och ett eller flera CSP-konton (inloggningar) beroende på vilka CSP-regioner ditt företag gör. Du kan till exempel ha ditt MPN-konto i USA (HQ) med platser i USA (Dotterbolag), U.K.(Dotterbolag) och Australien (Dotterbolag).
+      Du kan bara ha ett MPN-konto (inloggning) och ett eller flera CSP-konton (inloggningar) beroende på vilka CSP-regioner ditt företag gör. Du kan till exempel ha ditt MPN-konto i USA (HQ) med platser i USA (Dotterbolag), U.K.(Dotterbolag) och Australien (dotterbolag).
 
       Du kan ha ett CSP-konto (Office 365 arbetskonto) i USA som har samma inloggningsuppgifter som ditt MPN-konto. Du kan ha ett andra CSP-konto i U.K. som har olika inloggningsuppgifter för att hantera CSP-verksamheten i den europeiska regionen och en tredje i Australien som har olika inloggningsuppgifter från andra två för att hantera CSP-verksamheten i Australien.
 
@@ -127,17 +127,17 @@ sections:
       När du har migrerat ditt MPN-konto kan du läsa mer om hur du signerar MPA. Läs [microsoft-partner-agreement](microsoft-partner-agreement.md#download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process).
 
 
-      I händelse av problem kan du skapa [en supportbiljett](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) från Partnercenter.
+      Om det finns problem kan du skapa [en supportbiljett](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) från Partnercenter.
   - question: >
       Hur gör jag för att om mitt MPN-ID har migrerats till Partnercenter?
     answer: "Logga in på ditt MPN-konto med valfri roll (MPN- och CSP-inloggningsuppgifter kan vara annorlunda). \n\nFrån **Kontoinställningar** väljer du **sidan Juridisk profil** under **fliken** Partner. Om du ser \"MPN-programstatus\" under Programinformation finns ditt MPN-ID i Partnercenter. Om du inte ser STATUS för MPN-program under fliken Partner har du antingen loggat in med ditt CSP-konto eller så är ditt MPN-konto fortfarande inte i Partnercenter. Du kan fortfarande behöva migrera ditt MPN-konto från PMC till pc.\n\n\n:::image type=\"content\" source=\"images/legal-info-mpn.png\" alt-text=\"Här kan du se information om MPN-program.\":::\n"
 - name: Frågor om verifiering av MPN- och CSP-konto
   questions:
   - question: >
-      Jag har registrerat mig i MPN-programmet och som ett indirekt CSP-återförsäljarprogram, men min juridiska status för affärsprofilsverifiering är i tillståndet Avvisad. Vad ska jag göra?
+      Jag har registrerat mig i MPN-programmet och som ett indirekt CSP-återförsäljarprogram, men min juridiska status för företagsprofilsverifiering är i tillståndet Avvisad. Vad ska jag göra?
     answer: "Du måste uppdatera den juridiska profilinformationen genom att klicka på **Uppdatera**. Läs följande artiklar innan du fortsätter:\n\n- [Verifiera din kontoinformation](verification-responses.md#what-is-verified-and-how-to-respond)\n\n- [Verifiera din organisationsprofil](update-your-partner-profile.md)\n\nOm du inte kan åtgärda problemet på egen hand kan du skapa en supportbiljett från Partnercenter genom att logga in med ditt CSP-konto och:\n\n- Skapa en supportbegäran för problem med [företagsverifiering.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)  \n- Skapa en supportbegäran för [anställningsverifieringsproblem.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b)\n\n:::image type=\"content\" source=\"images/rejected-faq-mpa.png\" alt-text=\"Avvisade.\":::\n"
   - question: >
-      Jag har registrerats i MPN-program/CSP Indirect Reseller-program, men min juridiska status för företagsprofilen verkar ha fastnat i tillståndet Väntar. Vad ska jag göra?
+      Jag har registrerats i MPN-program/CSP Indirect Reseller-program men min juridiska status för företagsprofilsverifiering verkar ha fastnat i tillståndet Väntar. Vad ska jag göra?
     answer: >
       Om din juridiska affärsprofil för  en indirekt CSP-återförsäljare har statusen Väntande kvalificering efter mer än fem arbetsdagar kan du skapa en supportbiljett från Partnercenter genom att klicka på [Support för Partnercenter.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=345795c0-26bd-dd95-d291-b78ed4a8edce)
 
@@ -154,17 +154,17 @@ sections:
       :::image type="content" source="images/user-management-clean.png" alt-text="Så här hittar du en global administratör.":::
   - question: >
       Min återförsäljare säger att de inte ser något alternativ för att godkänna MPA i Partnercenter. Hur kan jag ge dem bästa möjliga stöd?
-    answer: "Om återförsäljaren kan logga in på Partnercenter men inte ser alternativet att acceptera MPA:\n\n1. Ser de sidan \"Översikt\" under fliken CSP till vänster? \n\n:::image type=\"content\" source=\"images/csp.png\" alt-text=\"Var du hittar CSP på menyn i Partnercenter.\":::\n\nOm de inte ser \"Översikt\" under CSP i Partnercenter-menyn innebär det att de ännu inte har registrerats i CSP-programmet. Återförsäljaren måste starta processen för att registrera sig som en CSP Indirect Reseller enligt förklaringen Arbeta med [indirekta leverantörer i CSP-programmet](indirect-reseller-tasks-in-partner-center.md). När de har slutfört registrering kan de godkänna MPA.\n\n2. Om de ser Översikt ber du dem att gå **till Inställningar** konto på Inställningar eller återförsäljare och rulla  ->    ->    ->   ned till Programinformation.  Vilken status visas bredvid Status för indirekt återförsäljare?\n\n\nOm statusen är något annat **än Aktiv** innebär det att verifieringen av den juridiska företagsprofilen fortfarande pågår eller har avvisats. På samma sida bör återförsäljaren kontrollera verifieringsstatusen och klicka på **Läs** mer för att åtgärda Detta gör att återförsäljaren kan tillhandahålla nödvändig dokumentation för att fortsätta med verifieringen.\n\n:::image type=\"content\" source=\"images/active-status.png\" alt-text=\"Statusen är aktiv.\":::\n\nOm återförsäljaren behöver hjälp med att skicka checken juridisk företagsprofil ber du dem att öppna ett ärende genom att välja följande alternativ:\n\n- Välj **Support** på Menyn i Partnercenter och välj sedan **>** kontoverifiering och > sedan det steg som du behöver hjälp med.\n"
+    answer: "Om återförsäljaren kan logga in på Partnercenter men inte ser alternativet att acceptera MPA:\n\n1. Ser de sidan \"Översikt\" under fliken CSP till vänster? \n\n:::image type=\"content\" source=\"images/csp.png\" alt-text=\"Var du hittar CSP på menyn i Partnercenter.\":::\n\nOm de inte ser \"Översikt\" under CSP i Menyn i Partnercenter innebär det att de ännu inte har registrerats i CSP-programmet. Återförsäljaren måste starta processen för att registrera sig som en CSP Indirect Reseller enligt förklaringen Arbeta med [indirekta leverantörer i CSP-programmet](indirect-reseller-tasks-in-partner-center.md). När de har slutfört registrering kan de godkänna MPA.\n\n2. Om de ser Översikt ber du dem att gå **till Inställningar** konto på Inställningar eller återförsäljare och rulla  ->    ->    ->   ned till Programinformation.  Vilken status visas bredvid Status för indirekt återförsäljare?\n\n\nOm statusen är något annat **än Aktiv** innebär det att verifieringen av den juridiska företagsprofilen fortfarande pågår eller har avvisats. På samma sida bör återförsäljaren kontrollera verifieringsstatusen och klicka på **Läs** mer för att åtgärda Detta gör att återförsäljaren kan tillhandahålla nödvändig dokumentation för att fortsätta med verifieringen.\n\n:::image type=\"content\" source=\"images/active-status.png\" alt-text=\"Statusen är aktiv.\":::\n\nOm återförsäljaren behöver hjälp med att skicka checken juridisk företagsprofil ber du dem att öppna ett ärende genom att välja följande alternativ:\n\n- Välj **Support** på Menyn i Partnercenter och välj sedan **>** kontoverifiering och > sedan det steg som du behöver hjälp med.\n"
   - question: >
       Hur gör jag för att om jag har rätt roll i Partnercenter för att acceptera MPA?
     answer: "Endast globala administratörer kan godkänna MPA. Ta reda på vad din roll i Partnercenter är:\n\n1. Logga in på CSP Indirect Reseller-konto i Partnercenter och kontrollera först att du har registrerat dig CSP Indirect Reseller konto. \n\n2. Gå till **Användarhantering** och kontrollera att det inloggade kontot har tilldelats rollen \"Global administratör\"? Om den inte är det kan den inte användas för att acceptera MPA. Sök efter global administratör i sökrutan på sidan Användarhantering och kontakta dem för att acceptera MPA.\n\n:::image type=\"content\" source=\"images/user-management-clean.png\" alt-text=\"Identifiera din roll i Partnercenter.\":::\n"
   - question: >
       Hur gör jag för att kontrollera om mitt företag har godkänt MPA?
-    answer: "Logga in på Partnercenter med CSP Indirect Reseller konto.\nOm du är administratörsagent eller försäljningsagent i CSP kan du gå till avtalssidan för att kontrollera att Microsoft-partneravtal visas. \n\n:::image type=\"content\" source=\"images/agreement-new.png\" alt-text=\"Leta upp avtal i Kontoinställningar.\":::\n\n\nOm du är global administratör går du till översiktssidan för CSP. Om du ser den gröna banderollen är alla konfigurerade att göra en åtgärd med den indirekta leverantören i den CSP-regionen. Annars visas knappen Acceptera och fortsätt **för att acceptera** MPA och aktivera ditt CSP-konto.\n\n:::image type=\"content\" source=\"images/banner-boxed.png\" alt-text=\"Grön banderoll.\":::\n"
+    answer: "Logga in på Partnercenter med CSP Indirect Reseller konto.\nOm du är administratörsagent eller försäljningsagent i CSP kan du gå till avtalssidan för att kontrollera att Microsoft-partneravtal visas. \n\n:::image type=\"content\" source=\"images/agreement-new.png\" alt-text=\"Leta upp avtal i Kontoinställningar.\":::\n\n\nOm du är global administratör går du till sidan Översikt för CSP. Om du ser den gröna banderollen är alla konfigurerade att göra en åtgärd med den indirekta leverantören i den CSP-regionen. Annars visas knappen Acceptera och fortsätt **för att acceptera** MPA och aktivera ditt CSP-konto.\n\n:::image type=\"content\" source=\"images/banner-boxed.png\" alt-text=\"Grön banderoll.\":::\n"
   - question: >
       Jag vill godkänna MPA, men jag ser inte någon plats (knapp för att godkänna villkoren) för att göra det?
     answer: >
-      Logga in på Partnercenter med dina CSP Indirect Reseller-kontoautentiseringsuppgifter. Gå till översiktssidan för CSP.  Om du inte ser  knappen Acceptera och fortsätt och det inte finns någon grön banderoll som talar om att MPA accepteras, innebär det att du inte har rätt roll för att acceptera MPA. Du måste kontakta din globala administratör för att godkänna MPA.
+      Logga in på Partnercenter med dina CSP Indirect Reseller autentiseringsuppgifter. Gå till översiktssidan för CSP.  Om du inte ser  knappen Acceptera och fortsätt och det inte finns någon grön banderoll som talar om att MPA godkänns innebär det att du inte har rätt roll för att acceptera MPA. Du måste kontakta din globala administratör för att godkänna MPA.
 
 
       :::image type="content" source="images/agreement-two.png" alt-text="Leta upp avtalen.":::

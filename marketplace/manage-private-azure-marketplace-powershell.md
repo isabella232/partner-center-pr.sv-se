@@ -1,5 +1,5 @@
 ---
-title: 'Snabbstart: Hantera en privat dator Azure Marketplace PowerShell'
+title: 'Snabbstart: Hantera en privat Azure Marketplace powershell'
 description: Den här snabbstarten visar hur du hanterar erbjudanden i en privat Azure Marketplace med Azure PowerShell.
 author: keferna
 ms.author: keferna
@@ -8,14 +8,14 @@ ms.service: marketplace-customer
 ms.devlang: azurepowershell
 ms.date: 11/24/2020
 ms.custom: devx-track-azurepowershell
-ms.openlocfilehash: 1aa734e30c73cd1d3c28c4a77af000a1abadaf16676508c3d986bb23b3a2d2d7
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: d7bd790eab2618822dbc5099ad1ad107794c82d2
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115688547"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123937005"
 ---
-# <a name="quickstart-manage-a-private-azure-marketplace-using-powershell"></a>Snabbstart: Hantera en privat dator Azure Marketplace PowerShell
+# <a name="quickstart-manage-a-private-azure-marketplace-using-powershell"></a>Snabbstart: Hantera en privat Azure Marketplace powershell
 
 Den här artikeln beskriver hur du kan hantera erbjudanden i en privat Azure Marketplace med hjälp av [Az.Marketplace](/powershell/module/az.marketplace) PowerShell-modulen.
 
@@ -28,7 +28,7 @@ Den här artikeln beskriver hur du kan hantera erbjudanden i en privat Azure Mar
 
 * Om du väljer att använda Azure PowerShell lokalt:
   * [Installera Az PowerShell-modulen](/powershell/azure/install-az-ps).
-  * Anslut till ditt Azure-konto med [cmdleten Anslut-AzAccount.](/powershell/module/az.accounts/connect-azaccount)
+  * Anslut till ditt Azure-konto [med cmdleten Anslut-AzAccount.](/powershell/module/az.accounts/connect-azaccount)
 * Om du väljer att använda Azure Cloud Shell:
   * Se [Översikt över Azure Cloud Shell](/azure/cloud-shell/overview) för mer information.
 

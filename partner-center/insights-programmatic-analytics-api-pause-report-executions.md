@@ -4,18 +4,18 @@ ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: Använd det här API:et för att pausa körningen av alla rapporter i Partner Center-insikter.
+description: Använd det här API:et för att pausa körningen av alla rapporter i Partnercenter-insikter.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 01bb70e46e5a80c039bfc90b2ac0a034aa73b1163f485af8b98676d756b73e18
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 798c5e87a3935923bd91d8e74716999fb8be4f54
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115697167"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960913"
 ---
-# <a name="pause-report-executions-api"></a>Pausa API:et för rapportkörningar
+# <a name="pause-report-executions-api"></a>Pausa API för rapportkörningar
 
 Vid körning pausar detta API den schemalagda körningen av rapporter.
 
@@ -38,7 +38,7 @@ Vid körning pausar detta API den schemalagda körningen av rapporter.
 
 |    Parameternamn    |    Typ    |    Obligatorisk    |    Beskrivning    |
 |    ----    |    ----    |    ----    |    ----    |
-|    reportId     |    sträng    |    No    |    ID för rapporten som ändras     |
+|    reportId     |    sträng    |    No    |    ID för den rapport som ändras     |
 |        |        |        |        |
 
 **Frågeparameter**
@@ -96,18 +96,18 @@ Den här tabellen definierar nyckelelementen i svaret:
 |    Parameter    |    Beskrivning    |
 |    ----    |    ----    |
 |    ReportId     |    Universell unik identifierare (UUID) för den pausade rapporten     |
-|    ReportName     |    Namn som ges till rapporten när den skapas     |
-|    Description     |    Beskrivning som ges när rapporten skapas     |
+|    ReportName     |    Namn som ges till rapporten när den skapades     |
+|    Description     |    Beskrivning som anges när rapporten skapas     |
 |    QueryId     |    Fråge-ID som skickades när rapporten skapades     |
 |    Söka i data     |    Frågetext som ska köras för den här rapporten     |
 |    Användare     |    Användar-ID som används för att skapa rapporten     |
-|    CreatedTime     |    Den tid då rapporten skapades. Tidsformatet är yyyy-MM-ddTHH:mm:ssZ     |
+|    CreatedTime     |    Tiden då rapporten skapades. Tidsformatet är yyyy-MM-ddTHH:mm:ssZ     |
 |    ModifiedTime     |    Tid då rapporten senast ändrades. Tidsformatet är yyyy-MM-ddTHH:mm:ssZ     |
 |    ExecuteNow     |    ExecuteNow-flaggan som angetts när rapporten skapades     |
 |    StartTime     |    Den tid då rapportkörningen börjar. Tidsformatet är yyyy-MM-ddTHH:mm:ssZ     |
 |    ReportStatus     |    Status för rapportkörningen. Möjliga värden är Pausad, Aktiv och Inaktiv.     |
-|    RecurrenceInterval     |    Upprepningsintervall som angavs när rapporten skapades     |
-|    RecurrenceCount     |    Antal upprepningar som angavs när rapporten skapades     |
+|    RecurrenceInterval     |    Upprepningsintervall som anges när rapporten skapas     |
+|    RecurrenceCount     |    Antal upprepningar som anges när rapporten skapas     |
 |    CallbackUrl     |    Motringning-URL som anges i begäran     |
 |    CallbackMethod    |    Återanropsmetod som anges i begäran    |
 |    Format     |    Format för rapportfilerna     |

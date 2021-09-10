@@ -9,17 +9,17 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9b22279d3825ab1d82e03b43503712e4864e16531964fb9493278cf8855c3be9
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: d8e4781ffa64269056c684d9ab10a29ff97dacde
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115693103"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960836"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Tillhandahålla teknisk support för att hjälpa kunder att konfigurera, hantera och använda sina prenumerationer
 
 
-**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Supportagent | Administratörsagent
+**Lämpliga roller:** Globala | Administratörsbehörighet för användarhantering | Supportagent | Administratörsagent
 
 Som CSP Molnlösningsleverantör partner (CSP) har du delegerade administratörsbehörigheter som ger dig åtkomst till dina kunders miljöer. Dessa behörigheter ger dig möjlighet att direkt stödja, konfigurera och hantera dina kunders prenumerationer.
 
@@ -33,12 +33,12 @@ I Partnercenter kan du:
 1. I **menyn i Partnercenter** väljer du **Kunder.** Välj din kund i listan.
 2. I kundmenyn väljer du **Tjänsthantering.**
 3. I avsnittet **Administrera tjänster** väljer du den tjänst som du behöver arbeta i för att öppna hanteringsportalen för tjänsten.
-4. Om du upptäcker problem med ett kundkonto, t.ex. att tjänster ligger nere eller har försämrats, börjar du med att kontrollera tjänstens hälsa. Se [Kontrollera tjänstens hälsa.](check-service-health.md)
+4. Om du upptäcker ett problem med ett kundkonto, t.ex. att tjänster ligger nere eller har försämrats, börjar du med att kontrollera tjänstens hälsa. Se [Kontrollera tjänstens hälsa.](check-service-health.md)
 5. Om du vill eskalera ett pågående problem till Microsoft kan du skicka en tjänstbegäran. Se [Rapportera problem för en kunds räkning.](report-problems-on-behalf-of-a-customer.md)
 
 ## <a name="microsoft-partner-support-guidance"></a>Supportvägledning för Microsoft-partner
 
-Partner som gör i CSP-modellen är den betrodda rådgivaren till sina kunder och äger relationen från dag till slut, inklusive support när kunden har en fråga eller ett problem. Via supportens kontaktpunkter kan partner lära sig mer om kunden och deras verksamhet för att identifiera nya tjänster och lösningar som driver värde.
+Partner som gör i CSP-modellen är den betrodda rådgivaren till sina kunder och äger relationen från end-to-end, inklusive support när kunden har en fråga eller ett problem. Via supportens kontaktpunkter kan partner lära sig mer om kunden och deras verksamhet för att identifiera nya tjänster och lösningar som värdesätter.
 
 För att uppfylla supportkravet kan partnern sälja support från en annan enhet, lägga ut hela eller en del av sin supportstruktur och/eller konfigurera en struktur för att tillhandahålla support direkt.  Partnern kan debitera för hela eller en del av den support som tillhandahålls till kunder. Partnern bör förklara för sina kunder vilken support de kommer att erbjuda, tjänsttimmar och kontaktmetod samt priser (om de debiteras för support). 
 
@@ -48,9 +48,9 @@ Partner måste ta emot inkommande supportförfrågningar från kunder, diagnosti
 
 - **Support** för tekniska problem är tillgängligt via:
 
-  - Premier Support partner (avgiftsbaserad)
+  - Premier Support för partner (avgiftsbaserad)
   - Avancerad support för partner (avgiftsbaserad)
-  - Signature Cloud Support (ingår med guld-/silverkompetens)
+  - Signature Cloud Support (ingår i guld-/silverkompetens)
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>Tillhandahålla fakturering, prenumerationshantering och teknisk support 
 

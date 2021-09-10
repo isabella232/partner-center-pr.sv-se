@@ -10,11 +10,11 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
 ms.openlocfilehash: 55e502895b63e1c1a7e41f3d316355bedd7f7001
-ms.sourcegitcommit: 7c0dc665ca5e908de884003aebdd14889fcce5dc
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122514179"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960686"
 ---
 # <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analysera dina leads – se hur bra du är på att locka kunder och potentiella referenser
 <!-- 
@@ -74,7 +74,7 @@ Tabellen innehåller totalt antal leads, de leads som har godkänts i serviceavt
 
 Det här avsnittet hjälper dig att analysera orsakerna till varför leads markeras som **nekade** **eller förlorade** av ditt företag. Alternativen i dessa representationer är samma orsaker som säljarna har valt när de stänger leadet som nekat eller förlorat.
 
-:::image type="content" source="images/referrals/leadsanalyticsreasons.png" alt-text="Bild som visar orsakerna som valts av partner vid avböjning eller tagande av ett lead som förlorat.":::
+:::image type="content" source="images/referrals/leadsanalyticsreasons.png" alt-text="Bild som visar orsakerna som valts av en partner när de avböjer eller gör ett lead som förlorat.":::
 
 ## <a name="comparison-charts"></a>Jämförelsediagram
 
@@ -85,7 +85,7 @@ De tre dimensioner som du kan välja för att jämföra data är
 - Marknader
 - Hänvisningsprogram
 
-När kvalificeringstyp har valts kan du jämföra referensprestandan för med avseende på marketplace-leads och kvalificerade leads. För både marknader och hänvisningsprogram kan du välja mellan tre olika alternativ för att jämföra deras prestanda. Det första diagrammet, som är ett stapeldiagram, har data som visas med en månadstrend baserat på huvud pivoten, som är volym eller det avtalsvärde som vunnits. Det finns också ett cirkeldiagram till höger om stapeldiagrammet, som visar fördelningen efter procentandel för samma data.
+När kvalificeringstyp har valts kan du jämföra referensprestandan för med avseende på marketplace-leads och kvalificerade leads. För både marknader och hänvisningsprogram kan du välja mellan tre olika alternativ för att jämföra deras prestanda. Det första diagrammet, som är ett stapeldiagram, innehåller data som visar en månadstrend baserat på huvud pivoten, som är volym eller det avtalsvärde som vunnits. Det finns också ett cirkeldiagram till höger om stapeldiagrammet, som visar fördelningen efter procentandel för samma data.
 
 :::image type="content" source="images/referrals/leadsanalyticscompare.png" alt-text="Bild som visar jämförelseavsnittet.":::
 
@@ -99,7 +99,7 @@ Tabellen nedan med alla rådata som är relaterade  till leads hjälper dig att 
 
 Det kan finnas flera orsaker till varför du får ett tomt diagram som nedan när du använder leadsanalysen enligt beskrivningen nedan.
 
-- Det finns inga data för det här kontot. Prova att skapa avtal för att få den här rapporten ifylld.
+- Det finns inga data för det här kontot. Prova att skapa avtal för att fylla i den här rapporten.
 - Det finns ett problem med nätverksanslutningen. Kontrollera internetanslutningen och försök igen.
 - Det finns inga poster som matchar de filter som du har tillämpat. Försök att återställa filtren.
 - Det finns en fördröjning mellan ändringen av leadtillståndet och för att samma ska uppdateras i analysrapporten. Kontrollera rapporten efter 24 timmar.
@@ -107,7 +107,7 @@ Det kan finnas flera orsaker till varför du får ett tomt diagram som nedan nä
 :::image type="content" source="images/referrals/nodata.png" alt-text="Bild som visar ingen datavisualisering för leads.":::
 
 > [!TIP]
-> Om du vill se hur dina möjligheter till säljförsäljning presterar kan du gå till sidan insikter [om möjligheter till säljförsäljning.](referral-insights.md)
+> Information om hur dina möjligheter till säljförsäljning fungerar finns på sidan [Medförsäljningsmöjligheter.](referral-insights.md)
 
 ## <a name="next-steps"></a>Nästa steg
 

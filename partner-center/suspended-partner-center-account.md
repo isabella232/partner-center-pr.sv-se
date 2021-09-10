@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18ffd80e1a05ef5e6120828341dd9f4e8ec172dab64ace423b5f5148e6ea999c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 84448566bb3a5d4ef8655ccfee86e7d39f4a6642
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115695772"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961562"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Återställa ett inaktiverat Partnercenter-konto – ta reda på varför det hände och vad du kan göra åt det
 
@@ -32,7 +32,7 @@ Den här artikeln beskriver vad du gör om ditt Partnercenter-konto har inaktive
 Microsoft inaktiverar ett Partnercenter-konto av någon av följande skäl:
 
 - När det aktuella faktureringsbeloppet är mer än 60 dagar förfallet
-- När ett betydande kontomissbruk upptäcks
+- När betydande kontomissbruk upptäcks
 - När problem påverkar indirekta leverantörsåtgärder och påverkar ditt konto negativt (endast indirekta återförsäljare)
 - När din kontoprofil är i ett misslyckat eller avvisat tillstånd
 

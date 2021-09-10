@@ -10,12 +10,12 @@ ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
 ms.date: 10/05/2020
-ms.openlocfilehash: 03e01f2de5625c0f27d79158d950cef6cd2256e572a6302a973a4fc1c5ba3a1a
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 2cdcf88d765ab37200e0e62bdbff2bbc8d26027d
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115686626"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960156"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Registrera dig i Molnlösningsleverantör för Microsoft Cloud for US Government
 
@@ -48,9 +48,9 @@ Om du vill skapa ett Partnercenter-konto och registrera dig i CSP för Microsoft
 
 2. Logga in med autentiseringsuppgifter för global administratör för din organisations Azure AD-klientorganisation för Microsoft Cloud for US Government. Om din organisation inte har något konto för den här portalen kan du begära ett genom att fylla i [formuläret Microsoft Government Cloud Validation](https://azuregov.microsoft.com/csp).
 
-### <a name="step-2---apply-to-participate-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Steg 2 – Tillämpa för att delta i Molnlösningsleverantör för Microsoft Cloud for US Government
+### <a name="step-2---apply-to-participate-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Steg 2 – Tillämpa för att delta i Molnlösningsleverantör-programmet för Microsoft Cloud for US Government
 
-1. Fyll i eventuell information som saknas i registreringsformuläret, inklusive ditt Microsoft Partner Network-ID och din organisations kundsupportinformation.
+1. Fyll i eventuell saknad information i registreringsformuläret, inklusive ditt Microsoft Partner Network-ID och din organisations kundsupportinformation.
 
 2. Välj **Acceptera och fortsätt**. Det kan ta flera dagar att granska ditt program. Vi skickar dig ett e-postmeddelande när vi har slutfört vår granskning.
 
@@ -61,7 +61,7 @@ Om du vill skapa ett Partnercenter-konto och registrera dig i CSP för Microsoft
 
 1. Logga in på Partnercenter för Microsoft Cloud for US Government via länken i e-postmeddelandet om programgodkännande.
 
-2. På sidan **Avtal** läser du villkoren och om du godkänner väljer du **Godkänn** och fortsätter att digitalt signera återförsäljaravtalet för Microsoft Cloud for US Government. Det kan ta flera timmar att skapa ditt konto. Du kan logga ut från Partnercenter för Microsoft Cloud for US Government och sedan logga in igen senare.
+2. På sidan **Avtal** läser du villkoren och om  du godkänner väljer du Godkänn och fortsätter att digitalt signera återförsäljaravtalet för Microsoft Cloud for US Government. Det kan ta flera timmar att skapa ditt konto. Du kan logga ut från Partnercenter för Microsoft Cloud for US Government och sedan logga in igen senare.
 
 ### <a name="step-4---assign-users-to-the-admin-agent-role-in-the-microsoft-azure-admin-portal-for-microsoft-cloud-for-us-government"></a>Steg 4 – Tilldela användare rollen Administratörsagent i Microsoft Azure administratörsportalen för Microsoft Cloud for US Government
 

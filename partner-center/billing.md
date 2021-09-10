@@ -1,5 +1,5 @@
 ---
-title: Referens – Faktureringsartiklar i Partnercenter
+title: Referens – Faktureringsartiklar för Partnercenter
 description: Lär dig mer om fakturerings- och skatteämnen i Partnercenter. Informationen omfattar faktureringsresurser, fakturor, CSP-fakturering och skatter.
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 04/05/2020
-ms.openlocfilehash: cb3edae4b0b5a9687dc25006fde9db86143860d9b44aa790f62fd1340e5deab8
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: bb7bea476a79096890e3ae33c0256200eae18968
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115692984"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960043"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Översikt: Huvudartiklar om fakturering och skatt i Partnercenter
 
@@ -36,7 +36,7 @@ Den här artikeln innehåller länkar till information om fakturerings- och skat
 | [Utebliven betalning, bedrägeri eller missbruk](non-payment-fraud-misuse.md) | Hur du hanterar utebliven betalning, bedrägeri eller missbruk av dina kunder i Partnercenter. |
 | [Begära en SLA-kredit för avbrott](request-credit.md) | Så här begär du en SLA-kredit från Microsoft för dina kunder vid ett tjänstavbrott. |
 
-Om du letar efter faktureringsinformation och resurser för Partnercenter-API:et kan du läsa [faktureringsdokumentationen för utvecklare.](/partner-center/develop/manage-billing)
+Om du letar efter faktureringsinformation och resurser för Partnercenter-API:et kan du läsa dokumentationen [för utvecklarfakturering.](/partner-center/develop/manage-billing)
 
 ## <a name="next-steps"></a>Nästa steg
 

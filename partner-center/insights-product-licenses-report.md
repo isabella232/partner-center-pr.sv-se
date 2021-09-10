@@ -9,14 +9,14 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 076a65d8e309308142201dedfa807052d2d3b8eb5180be14734edbbec92a3616
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 5287e056e2ac2e8a0238ac7f86cca0fe58b92238
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115687557"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960243"
 ---
-# <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Rapporten Produktlicenser i Partnercenter Insights instrumentpanel
+# <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Rapporten Produktlicenser i Partnercenter på Insights instrumentpanelen
 
 **Lämpliga roller:** Globala | Administratörsagent | Rapportvisningsprogram | Visningsprogram för exekutiv rapport
 
@@ -28,7 +28,7 @@ Rapporten Produktlicenser visar licensanalys för licensbaserade molnprodukter, 
 - Licensdistribution efter partnerplatser, försäljningskanal, SKU:er, partner attach type, segment
 
  > [!NOTE]
- > Den här rapporten är tillgänglig från Insights instrumentpanel. Om du vill visa den här rapporten måste du ha tilldelats en specifik roll i Partnercenter, till exempel Global administratör, Kontoadministratör, Rapportvisare eller Rapportvisningsprogram. Mer information finns i företagets globala administratör. Vissa typer av data i den här rapporten kan också vara tillgängliga endast för användare med nya privilegier i chefsrapporten.
+ > Den här rapporten är tillgänglig från Insights instrumentpanel. Om du vill visa den här rapporten måste du ha tilldelats en viss roll i Partnercenter, till exempel Global administratör, Kontoadministratör, Rapportvisare eller Rapportvisningsprogram. Mer information finns i företagets globala administratör. Vissa typer av data i den här rapporten kan också vara tillgängliga endast för användare med nya privilegier i chefsrapporten.
 
 ## <a name="summary"></a>Sammanfattning
 
@@ -39,7 +39,7 @@ Sammanfattningsavsnittet innehåller en ögonblicksbild av KPI:er (Key Performan
 Mer information om varje avsnitt i sammanfattningen finns nedan:
 
 - Licenser: 
-  - Det aktuella antalet licenser som säljs eller hanteras av dig för licensbaserade molnprodukter, till exempel Office 365, Dynamics, Microsoft 365, Microsoft Power BI och andra.
+  - Det aktuella antalet licenser som säljs eller hanteras av dig för licensbaserade molnprodukter, till exempel Office 365, Dynamics, Microsoft 365, Microsoft Power BI med flera.
   - Ökning eller minskning i procent av dessa licenser under det valda datumintervallet.
   - Mikrodiagram för licenstrend: Mikrodiagrammet visar trenden för antalet licenser under månaden under det valda datumintervallet
 
@@ -50,7 +50,7 @@ Mer information om varje avsnitt i sammanfattningen finns nedan:
 
 - Aktiva licenser: 
   - Det aktuella antalet kundlicenser med aktiv användning under de senaste 30 dagarna under det valda datumintervallet.
-  - Ökning eller minskning i procent av dessa licenser under det valda datumintervallet.
+  - Procentuell tillväxt eller minskning av dessa licenser under det valda datumintervallet.
   - Micro-diagrammet visar trenden månad för månad för antalet licenser under det valda datumintervallet.
 
 ## <a name="geographical-spread-of-licenses"></a>Geografisk spridning av licenser

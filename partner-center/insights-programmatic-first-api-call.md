@@ -8,16 +8,16 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 76fb1b113a44e195114d67d79f192b3c2dce1071b7502f01af20387f69d62a8f
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 9aac83645051f3e8f32945ae908ba1fe47c08d13
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115697473"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960943"
 ---
 # <a name="make-your-first-api-call-to-access-partner-insights-analytics-data"></a>Gör ditt första API-anrop för att få åtkomst till analysdata från partnerinsikter
 
-En lista över API:er för åtkomst till analysdata från partnerinsikter finns i [API:er för åtkomst till analysdata för partnerinsikter.](insights-programmatic-analytics-available-api.md) Innan du gör ditt första [API-anrop](insights-programmatic-prerequisites.md) måste du se till att du har uppfyllt förutsättningarna för att programmatiskt komma åt partner Insights-analysdata.
+En lista över API:er för åtkomst till analysdata från partnerinsikter finns i [API:er för åtkomst till analysdata för partnerinsikter.](insights-programmatic-analytics-available-api.md) Innan du gör ditt första [API-anrop](insights-programmatic-prerequisites.md) måste du se till att du har uppfyllt kraven för att programmatiskt komma åt partner Insights-analysdata.
 
 ## <a name="token-generation"></a>Tokengenerering
 

@@ -9,19 +9,19 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8eb8d702aca89494337104d0a494d83f4b75c761c1df7a587593a813d61dbc9d
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 880a2db785f9e8f14093dd3bf1abae2a9c580ff0
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115685708"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961313"
 ---
 # <a name="software-assurance-planning-services-retirement"></a>Software Assurance Planning Services går i pension
 
-**Lämpliga roller:** Global | MPN-partneradministratör
+**Lämpliga roller:** Globala | MPN-partneradministratör
 
 
-Planning Services-förmånen dras helt tillbaka från Software Assurance förmåner, men kunder kan fortsätta att arbeta med partner för att använda Planning Services-dagar för engagemang medan bidragen är giltiga. Det här är de viktiga datumen som ledde fram till att programmet pensioneras: 
+Planning Services-förmånen dras helt tillbaka från Software Assurance förmåner, men kunder kan fortsätta att arbeta med partner för att använda Planning Services-dagar för interaktioner medan licenserna är giltiga. Det här är de viktiga datumen som ledde fram till att programmet pensioneras: 
 
 - 1 februari 2020: Cloud Engagements för Planning Services togs ur bruk.  
 - 1 februari 2020: Träningscheckar kan inte längre konverteras till Planning Services-dagar.  
@@ -30,23 +30,23 @@ Planning Services-förmånen dras helt tillbaka från Software Assurance förmå
 - 1 januari 2022: Sista dagen för partner att lösa in Planning Services-kuponger. Partnern har 60 dagar efter inlösningen för att slutföra processen med betalningsbegäran.  
 
 >[!NOTE]
->Livscykeln för livscykeln ändras inte. När en sedel har skapats/tilldelats måste reservationsreservation, kundengagemang och inlösen slutföras inom 180 dagar innan den upphör att gälla.  Mer information om hur du drar tillbaka Planning Services-programmet finns i Vanliga frågor och svar [på webbplatsen Software Assurance Benefit (SAB) Ändringar (inloggning](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) krävs).  Skicka eventuella frågor till ditt regionala partnersupportteam: [EMEA-partnersupport;](mailto:savoucher@msdirectservices.com) [Allmän partnersupport](https://partner.microsoft.com/dashboard/support/servicerequests)
+>Livscykeln för livscykeln ändras inte. När en sedel har skapats/tilldelats måste reservationsreservation, kundengagemang och inlösen slutföras inom 180 dagar innan den upphör att gälla.  Mer information om hur du drar tillbaka Planning Services-programmet finns i Vanliga frågor och svar [om Software Assurance Benefit (SAB) Ändrar](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) webbplats (inloggning krävs).  Skicka eventuella frågor till ditt regionala partnersupportteam: [EMEA-partnersupport;](mailto:savoucher@msdirectservices.com) [Allmän partnersupport](https://partner.microsoft.com/dashboard/support/servicerequests)
 
 
 ### <a name="get-started"></a>Kom igång
 
-Om du inte har Software Assurance Planning Services följer du alla steg nedan. Om du redan är aktiv i planeringstjänsterna börjar du med varje nytt engagemang i steg fyra (4) nedan.
+Om du inte har Software Assurance Planning Services följer du alla steg nedan. Om du redan är aktiv i planeringstjänsterna startar du varje nytt engagemang i steg fyra (4) nedan.
 
 1. Verifiera berättigande (nya partner)
 2. Registrera (nya partner)
 3. Skapa eller uppdatera företagets företagsprofil (nya partner)
-4. Kunden skapar och tilldelar samarbetspartner (befintliga partner)
+4. Kunden skapar och tilldelar licenser (befintliga partner)
 5. Validera och reservera sedel (befintliga partner)
-6. Slutför kundengagemang och förse kunden med produkter (befintliga partner)
+6. Slutför kundengagemang och tillhandahåll slutbara produkter till din kund (befintliga partner)
 7. Lös in lös in lösen i Partnercenter (befintliga partner)
 8. Begära betalning från Microsoft (befintliga partner)
 
-Den här artikeln beskriver hur du slutför varje steg.
+Den här artikeln förklarar hur du slutför varje steg.
 
 ## <a name="verify-eligibility-new-partners"></a>Verifiera berättigande (nya partner)
 
@@ -75,14 +75,14 @@ Se först till att granska alla [planning services-programprinciper.](https://go
 
 Maximera din exponering för potentiella kunder. Följ [anvisningarna och](create-a-marketing-profile.md) vägledningen för att skapa eller uppdatera företagets företagsprofil i Partnercenter.
 
-## <a name="customer-creates-and-assigns-voucher-existing-partners"></a>Kunden skapar och tilldelar samarbetspartner (befintliga partner)
+## <a name="customer-creates-and-assigns-voucher-existing-partners"></a>Kunden skapar och tilldelar licenser (befintliga partner)
 
 Innan du kan påbörja ett Planeringstjänster-engagemang måste kunden vidta följande åtgärder:
 
 1. Kunderna måste först aktivera sina Planning Services-förmåner.
-2. Kunderna måste sedan skapa en planeringstjänst och tilldela den till en projektledare i företaget.
+2. Kunderna måste sedan skapa en Planning Services-plats och tilldela den till en projektledare i företaget.
 
-Detaljerade anvisningar som kunden måste ta för att skapa anvisningarna och tilldela den till dig finns [i steg 4](https://go.microsoft.com/fwlink/?linkid=2115983) i arbetsflödet. En översikt över kundupplevelsen finns i [VLSC -guiden (Volume Licensing Service Center) Software Assurance Guide](https://download.microsoft.com/download/A/7/D/A7D04694-1B1E-4B18-918F-0EDCD43BA2E5/VLSC-Software-Assurance-Guide_en-US.pdf).
+Detaljerade anvisningar som kunden måste ta för att skapa anvisningarna och tilldela den till dig finns [i steg 4](https://go.microsoft.com/fwlink/?linkid=2115983) i arbetsflödet. En översikt över kundupplevelsen finns i [vlsc-guiden (Volume Licensing Service Center) Software Assurance .](https://download.microsoft.com/download/A/7/D/A7D04694-1B1E-4B18-918F-0EDCD43BA2E5/VLSC-Software-Assurance-Guide_en-US.pdf)
 
 ## <a name="validate-and-reserve-voucher-existing-partners"></a>Validera och reservera sedel (befintliga partner)
 
@@ -90,7 +90,7 @@ När en kund tilldelar ett e-postmeddelande till ditt företag i [Volume Licensi
 
 När du har information om sedeln kan du reservera sschemat och schemalägga planeringsuppgifterna. Detaljerade anvisningar finns i [steg 5](https://go.microsoft.com/fwlink/?linkid=2115983) i arbetsflödet.
 
-## <a name="complete-engagement-and-provide-deliverables-to-your-customer-existing-partners"></a>Slutför kundengagemang och förse kunden med produkter (befintliga partner)
+## <a name="complete-engagement-and-provide-deliverables-to-your-customer-existing-partners"></a>Slutför kundengagemang och tillhandahåll slutbara produkter till din kund (befintliga partner)
 
 För att kunna leverera ett planning Services-engagemang måste konsulten ha slutfört en eller flera av de tekniska utvärderingar eller prov som krävs för engagemanget kvalificerande kompetens. (Om du vill veta mer om utvärderingar eller prov som krävs kan du läsa [behörighetskraven för Planning Services-engagemang](software-assurance-dps-requirements.md).)
 
@@ -100,7 +100,7 @@ Detaljerad information finns i [steg 6](https://go.microsoft.com/fwlink/?linkid=
 
 ## <a name="redeem-voucher"></a>Lös in lös in
 
-Innan du kan fakturera Microsoft för det levererade engagemanget måste du först lösa in din rabatt. Detaljerade anvisningar finns i [steg 7](https://go.microsoft.com/fwlink/?linkid=2115983) i arbetsflödet.
+Innan du kan fakturera Microsoft för det levererade engagemanget måste du först lösa in din sedel. Detaljerade anvisningar finns i [steg 7](https://go.microsoft.com/fwlink/?linkid=2115983) i arbetsflödet.
 
 ## <a name="request-payment-from-microsoft-existing-partners"></a>Begära betalning från Microsoft (befintliga partner)
 
@@ -111,6 +111,6 @@ Om du vill skicka en faktura till Microsoft via SAVB följer du anvisningarna [i
 ## <a name="next-steps"></a>Nästa steg
 
 - [Software Assurance Planning Services-arbetsflöde](https://go.microsoft.com/fwlink/?linkid=2115983)
-- [Software Assurance Vanliga frågor och svar om Planeringstjänster](https://go.microsoft.com/fwlink/?linkid=2116077)
+- [Vanliga frågor och svar om Software Assurance Planning Services](https://go.microsoft.com/fwlink/?linkid=2116077)
 - [Software Assurance Planning Services-principer](https://go.microsoft.com/fwlink/?linkid=2115984)
 - [Software Assurance Indragna engagemang i Planning Services](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)

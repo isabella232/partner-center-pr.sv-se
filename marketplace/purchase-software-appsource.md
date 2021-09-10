@@ -6,12 +6,12 @@ ms.topic: how-to
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: e55e45fe80c67653fec1a6e2b191801061040a3537f9183b2bc8c8824b0c6252
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: e51f4593624a764e14ecae473f96cf0779c2ff10
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115688343"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123936946"
 ---
 # <a name="purchase-saas-apps-on-microsoft-appsource"></a>Köpa SaaS-appar på Microsoft AppSource
 
@@ -40,7 +40,7 @@ Att köpa en SaaS-app kräver följande:
 
 1. Ange din faktureringsadress.
 1. Ange din betalningsmetod (kreditkortsinformation).
-1. Välj **Placera order .**
+1. Välj **Placera order**.
 
 ## <a name="configure-the-application"></a>Konfigurera programmet
 

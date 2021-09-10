@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5443dedfcae17152b51df7aa021d900b2f61892509c85ba3c2ba99cb0b9b3a8d
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 4184d155ceff22a34e1a85d2909f4e1b17a46daa
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115692678"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961246"
 ---
 # <a name="solution-assessment-payment-status-and-calculation-info"></a>Betalningsstatus och beräkningsinformation för Solution Assessment
 
@@ -46,7 +46,7 @@ Med hjälp av de definierade avgiftsschemana beräknar och bearbetar Microsofts 
 
 Affärsmöjligheter måste ha alla följande attribut för att visas i den här rapporten för betalningsgodkännande:
 
-1. Incitamentet för lösningsbedömning måste godkännas.
+1. Solution Assessment-incitamentet måste godkännas.
 
 1. Lokalt attribut för lösningsutvärdering engagemangsnivå Frekvensnivå anges för engagemanget vid tidpunkten då incitamentet godkänns i MSX.
  

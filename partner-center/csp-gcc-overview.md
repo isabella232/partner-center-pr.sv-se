@@ -9,21 +9,21 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 031c3be7dbfd6b64b05ef10e1f56813a59c5559b72e7005812cabe74e2a9f3f0
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: afad7126b8b97035f014c3cc706a0c3a0febbc76
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115690298"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961293"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Sälja Office 365 för myndigheter GCC CSP-prenumerationer till kvalificerade kunder
 
-**Lämpliga roller:** Global | Administratörsagent
+**Lämpliga roller:** Globala | Administratörsagent
 
 
 ## <a name="overview"></a>Översikt
 
-Microsoft-partner i Molnlösningsleverantör program (CSP) kan [sälja Office 365 för myndigheter GCC CSP-prenumerationer](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) till kvalificerade kunder. Office 365 för myndigheter GCC för CSP är utformad för de unika behoven hos amerikanska myndighetsorganisationer och innehåller alla funktioner i Office 365-tjänster i en segmenterad myndighetsmoln som gör det möjligt för organisationer att uppfylla amerikanska myndigheters efterlevnads- och säkerhetsstandarder. 
+Microsoft-partner i Molnlösningsleverantör program (CSP) kan [sälja Office 365 för myndigheter GCC CSP-prenumerationer](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) till kvalificerade kunder. Office 365 för myndigheter GCC för CSP är utformat för de unika behoven hos amerikanska myndighetsorganisationer och innehåller alla funktioner i Office 365-tjänster i en segmenterad myndighetsmoln som gör det möjligt för organisationer att uppfylla amerikanska myndigheters efterlevnads- och säkerhetsstandarder. 
 
 >[!IMPORTANT] 
 >Innan du kan sälja Office 365 för myndigheter GCC för CSP-prenumerationer måste ditt företag godkännas för att sälja till kvalificerade kunder. Och innan kunder kan köpa och använda Office 365 för myndigheter GCC CSP-prenumerationer måste de uppfylla behörighetskraven. Viktig [information finns i kriterier för partner-](csp-gcc-validate.md) och kundberättigande.
@@ -33,7 +33,7 @@ Microsoft-partner i Molnlösningsleverantör program (CSP) kan [sälja Office 36
 
 När ditt företag har godkänts för att sälja Office 365 för myndigheter GCC för CSP-erbjudanden kan du börja sälja till kunder med partnercenter. Se dessa resurser för att lära dig hur du använder Partnercenter för att sälja prenumerationer: 
 
-- En steg-för-steg-guide finns i [Guide to selling Office 365 för myndigheter GCC for CSP subscriptions](https://go.microsoft.com/fwlink/?linkid=2007323)( Guide to selling Office 365 för myndigheter GCC for CSP subscriptions .  
+- En stegvis guide finns i Guide to [selling Office 365 för myndigheter GCC for CSP subscriptions](https://go.microsoft.com/fwlink/?linkid=2007323).  
 
 
 ## <a name="next-steps"></a>Nästa steg

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 42d3597e9c91fcc448289a673aae2c672df6869c004e7162efd5d6235259db09
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: d4b59dc0f492dbca2afd603c6b7800e782ab3a12
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115679894"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961063"
 ---
 # <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>Jämföra skillnader mellan Azure-erbjudanden i CSP-programmet
 
@@ -35,9 +35,9 @@ Följande tabell innehåller en översikt över de viktigaste skillnaderna mella
 |Flera valutor|Faktura baserat på kundens plats/valuta|Faktura baserat på kundens plats/valuta|Faktura baserat på kundens plats/valuta|Faktura baserat på kundens plats/valuta|Baserat på valuta för partnerplats| 
 |Rekognoseringsfil & faktura|Separat faktura och rekognoseringsfil för varje kundplatsvaluta.  Vi kommer också att tillhandahålla dagliga klassificerade användningsfiler (för både fakturerade och ej fakturerade delar) |Separat faktura och rekognoseringsfil för varje kundplatsvaluta|Separat faktura och rekognoseringsfil för varje kundplatsvaluta|Separat faktura och rekognoseringsfil för varje kundplatsvaluta|Alla beställningar på en faktura och rekognoseringsfil|
 |Matris för & prislista|Publiceras månadsvis och prissätts i USD*|Marketplace-erbjudanden och priser kan exporteras i realtid till CSV-filformat från och med början.|Separat fil med all pris- och erbjudandeinformation inkluderad. Det finns ingen separat erbjudandematrisfil||Separat fil med all pris- och erbjudandeinformation inkluderad. Det finns ingen separat erbjudandematris.| 
-|Returnerar & byten|Inte tillämpligt. Det finns ingen kommersiell transaktion i köpåtgärden för en Azure-plan|Varierar mellan en månads- och 12-månaders licensbaserade erbjudanden samt användningsbaserade erbjudanden.|Returnerar mindre än 5 dagar efter orderdatumet får en kredit på 100 %. Returnerar mer än 5 dagar efter orderdatumet får en prokrediterad kredit och en avgift på 12 % för tidig uppsägning av den prokrediterade krediten. Tak på 50 000 USD (eller motsvarande lokal valuta) per kund och år|Returnerar mindre än 60 dagar från orderdatumet får en 100 % kreditlicensnycklar inaktiveras. Partiella returer godkänns inte.|   Indragningar/annulleringar som är mindre än 30 dagar får en kredit på 100 %. Indragningar/annulleringar som är längre än 30 dagar får en kredit enligt krediten.|
+|Returnerar & utbyten|Inte tillämpligt. Det finns ingen kommersiell transaktion i köpåtgärden för en Azure-plan|Varierar mellan en månads- och 12-månaders licensbaserade erbjudanden samt användningsbaserade erbjudanden.|Returnerar mindre än 5 dagar efter orderdatumet får en kredit på 100 %. Returnerar mer än 5 dagar efter orderdatumet får en prokrediterad kredit och en avgift på 12 % för tidig uppsägning av den prokrediterade krediten. Tak på 50 000 USD (eller motsvarande lokal valuta) per kund och år|Returnerar mindre än 60 dagar från orderdatumet får en 100 % kreditlicensnycklar inaktiveras. Partiella returer godkänns inte.|   Indragningar/annulleringar som är mindre än 30 dagar får en kredit på 100 %. Indragningar/annulleringar som är längre än 30 dagar får en kredit enligt krediten.|
 |Geotillgänglighet|139 länder – en fullständig lista över dessa länder finns här.|Matrisen New Commerce Offers Country Availability (Land för nya handelserbjudanden) och Customer Currency Matrix (Kundvaluta) visar var dessa erbjudanden är berättigade att göras tillgängliga i CSP av partnern.|Fullständig information finns i New Commerce Offers Country Availability and Customer Currency Matrix (Ny handelslösning med landtillgänglighet och matris för kundvaluta). Samma schema för utrullning gäller för alla nya handelserbjudanden.|Fullständig information finns i New Commerce Offers Country Availability and Customer Currency Matrix (Ny handelslösning med landtillgänglighet och matris för kundvaluta).  Samma schema för utrullning gäller för alla nya handelserbjudanden.|247 länder|
-|Supportkrav|Standardkrav för CSP-stöd.|Publiceringsföretaget för erbjudandet ansvarar för teknisk support.  CSP-partnern ansvarar för förförsäljningsaktiviteter, transaktioner och faktureringsstöd.|Standardkrav för CSP-stöd.|Standardkrav för CSP-stöd.|Standardkrav för CSP-stöd.|
+|Supportkrav|Standardkrav för CSP-stöd.|Publiceringsföretaget för erbjudandet ansvarar för teknisk support.  CSP-partnern ansvarar för förhandsförsäljningsaktiviteter, transaktions- och faktureringsstöd.|Standardkrav för CSP-stöd.|Standardkrav för CSP-stöd.|Standardkrav för CSP-stöd.|
 
 *Microsoft tillhandahåller API:er för prislistor under kvartal 4 för programmabilitet i realtid på Azure-mätarpriser.
 

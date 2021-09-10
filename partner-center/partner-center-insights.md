@@ -9,20 +9,20 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 46a15d9f26421b78022e15090a5c498f956fb49dce688264074788be88d04cf2
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 2061286ecb048647d666438a34b4759175b7deb4
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115696314"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960263"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>PartnerCenter Insights – en instrumentpanel som visar hur det går för en kommersiell Microsoft-partner
 
-**Lämpliga roller:** Globala | Kontoadministratörsbehörighet | Rapportvisningsprogram | Rapportvisningsprogram
+**Lämpliga roller:** Globala | Kontoadministratörskonto | Rapportvisningsprogram | Rapportvisningsprogram
 
 ## <a name="introduction"></a>Introduktion
 
-Instrumentpanelen Insights är en enhetlig rapportinstrumentpanel i Partnercenter för Microsofts kommersiella partner som är registrerade i programmet Microsoft Partner Network (MPN). I Insights-instrumentpanelen finns en 360-gradig vy över kpi:er för molnprodukter som Office, Azure, Dynamics och licensieringsmodeller som CSP och EA. Den visar en omfattande uppsättning KPI-rapporter som kan hjälpa dig att fatta datadrivna beslut för din organisation. 
+Instrumentpanelen Insights är en enhetlig rapportinstrumentpanel i Partnercenter för Microsofts kommersiella partner som är registrerade i programmet Microsoft Partner Network (MPN). Instrumentpanelen Insights ger en 360-gradig vy över kpi:er för molnprodukter som Office, Azure, Dynamics och licensieringsmodeller som CSP och EA. Den visar en omfattande uppsättning KPI-rapporter som kan hjälpa dig att fatta datadrivna beslut för din organisation. 
 
 ## <a name="role-based-access-control-to-the-insights-dashboard"></a>Rollbaserad åtkomstkontroll till Insights instrumentpanel
 
@@ -45,7 +45,7 @@ Följande rapporter är tillgängliga som en del av Insights instrumentpanel.
 
 **Produkt – Licenser:** Instrumentpanelen Licenser visar licensanalys för licensbaserade molnprodukter som O365, Dynamics Power BI osv.
 
-**Produkt – Azure-användning:** Azure-användningsrapporten visar mått relaterade till dina kunders Azure-prenumerationer, inklusive Azure-förbrukningsintäkter och -användning efter mätarkategorier.
+**Produkt – Azure-användning:** Azure-användningsrapporten visar mått som rör dina kunders Azure-prenumerationer, inklusive Azure-förbrukningsintäkter och -användning efter mätarkategorier.
 
 **Kompetenser:** Rapporten Kompetenser visar mått för dina aktiva, kvalificerade och riskfyllda kompetenser.
 
@@ -57,7 +57,7 @@ Följande rapporter är tillgängliga som en del av Insights instrumentpanel.
 
 :::image type="content" source="images/insights/introduction.png" alt-text="Introduktionskarta.":::
 
-**Feedbackknapp:** Varje diagram/kontroll i alla Insights ingår med en feedback-knapp så att du kan ge instansfeedback om en rapportfunktion. 
+**Feedbackknapp:** Varje diagram/kontroll i alla Insights-rapporter ingår med en feedbackknapp så att du kan ge instansfeedback om en rapportfunktion. 
 
  
 **Sidnivåfilter:** Med undantag för rapporterna Översikt, Förmåner och Kompetenser kan Insights använda filter på sidnivå. 
@@ -68,7 +68,7 @@ Följande rapporter är tillgängliga som en del av Insights instrumentpanel.
 
 - Filter som valts visas överst på sidan. 
 
-:::image type="content" source="images/insights/filters.png" alt-text="Partiell skärmbild som visar fält för tillämpade filter med filterval för produkter, kund marknader, partnerattributioner och försäljningskanaler.":::
+:::image type="content" source="images/insights/filters.png" alt-text="Partiell skärmbild som visar fält för tillämpade filter med filterval för produkter, kundmarknad, partnerattributioner och försäljningskanaler.":::
 
 ### <a name="filters-definitions"></a>Filterdefinitioner:
 
@@ -89,7 +89,7 @@ Följande rapporter är tillgängliga som en del av Insights instrumentpanel.
 
 - [Partnercenter Insights – licensrapport](insights-product-licenses-report.md)
 
-- [Partnercenter Insights – Användningsrapport för Azure](insights-azure-usage-report.md)
+- [PartnerCenter Insights – Azure-användningsrapport](insights-azure-usage-report.md)
 
 - [Partnercenter Insights – kompetensrapport](insights-competencies-report.md)
 

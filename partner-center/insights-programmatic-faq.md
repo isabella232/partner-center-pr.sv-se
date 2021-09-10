@@ -8,12 +8,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 5edfc720f2f9014d7532935fcfadc64260f721f7af57eda81994c710b6492df9
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 418af23ae50e1f8d9086b2eb6247ba964e4c1516
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115692372"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961396"
 ---
 # <a name="programmatic-access-of-analytics-data-common-questions"></a>Vanliga frågor om programmatisk åtkomst till analysdata
 
@@ -38,14 +38,14 @@ I den här tabellen beskrivs API-svaren och vad du kan göra om du får dem.
 |    Det begärda värdet "sträng" hittades inte     |    400     |    Kontrollera om du har uppdaterat begärandeparametrarna `callbackurl` eller formatet.     |
 |    Inget objekt hittades med angivna filter.     |    404     |    Kontrollera reportID-parametern som används i API:et För att hämta rapportkörningar.     |
 |    Det finns inga körningar som har inträffat för de angivna filtervillkoren. Dubbelkolla reportId eller executionId och försök igen efter rapportens schemalagda körningstid     |    404     |    Kontrollera att reportId är korrekt. Försök igen med API:et efter rapportens schemalagda körningstid enligt vad som anges i nyttolasten för begäran.     |
-|    Ett internt fel inträffade när rapporten skulle skapas. Korrelations-ID <>     |    500     |    Kontrollera att datumformatet för fälten *StartTime,* *QueryStartTime* och *QueryEndTime* är korrekta.     |
+|    Ett internt fel inträffade när rapporten skulle skapas. Korrelations-ID- <>     |    500     |    Kontrollera att datumformatet för fälten *StartTime,* *QueryStartTime* och *QueryEndTime* är korrekta.     |
 |    Tjänsten är inte tillgänglig    |    500     |    Om du kontinuerligt får en otillgänglig tjänst (5xx-fel) öppnar du en supportbiljett.    |
 |        |        |        |
 
 ## <a name="no-records"></a>Inga poster
 
 Jag får API-svar 200 när jag laddar ned rapporten från den säkra platsen. Varför får jag inga poster?
-Kontrollera om strängen i frågan har ett av de tillåtna värdena för kolumnrubriken. Den här frågan returnerar till exempel noll resultat:
+Kontrollera om strängen i frågan har något av de tillåtna värdena för kolumnrubriken. Den här frågan returnerar till exempel noll resultat:
 
 ```sql
 SELECT CustomerTenantId, CustomerTpId, WorkloadName, Month, MonthlyActiveUsers 

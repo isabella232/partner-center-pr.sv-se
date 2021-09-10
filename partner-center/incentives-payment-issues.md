@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 6a1bc04970a961254c4af7a8a96688f4d3379d051840a4fd556be84041b76a9e
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 7e3f3e206c851fbcc68ecd47f6027a2d5856478e
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115687831"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961413"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Felsöka saknade betalningar, felaktiga intäkter och andra problem
 
@@ -50,7 +50,7 @@ Om en betalning saknas eller är fel, så beror det ofta på något av följande
 
   **Så här kontrollerar du din behörighet**
 
-  1. Logga in på [Partner incentives (Partnerincitament).](https://partner.microsoft.com/membership/partner-incentives)
+  1. Logga in på [Partnerincitament](https://partner.microsoft.com/membership/partner-incentives).
 
   2. Rulla ned till dokumenten för ditt program.
   
@@ -63,7 +63,7 @@ Om en betalning saknas eller är fel, så beror det ofta på något av följande
 
   **Så här visar du dina utestående åtgärder**
 
-  1. Logga in på [Partner incentives (Partnerincitament).](https://partner.microsoft.com/membership/partner-incentives)
+  1. Logga in på [Partnerincitament](https://partner.microsoft.com/membership/partner-incentives).
   2. Öppna sidan **Transaktionshistorik.** Granska fälten på den här sidan för eventuella utestående åtgärder som ska slutföras, till exempel väntande skatteprofil, väntande betalningsprofil **eller** **väntande momsfaktura.**
 
 Kontakta supporten om de här åtgärderna inte hjälper och dina betalningar fortfarande saknas eller är [felaktiga.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
@@ -73,7 +73,7 @@ Kontakta supporten om de här åtgärderna inte hjälper och dina betalningar fo
 Du kan hitta och stämma av dina justeringar genom att ladda ned information om intjäning och transaktioner.
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
-2. I det övre navigeringsfältet väljer du ikonen Money (Pengar) och sedan **Transaction history (Transaktionshistorik).**
+2. Välj valutaikonen i det övre navigeringsfältet och välj sedan **Transaktionshistorik.**
 3. Använd lämpliga filter. (Se **viktig information** nedan.)
 4. När du har filtrerat dina data väljer du **Starta nedladdning** och sedan **Exportera data.** Dina data öppnas i en CSV-fil.
 5. I CSV-filen går du till Kolumn P, **typ av intjäning.**

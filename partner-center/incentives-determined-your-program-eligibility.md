@@ -8,16 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 03/16/2021
-ms.openlocfilehash: 82e873cc12c800b2eb96c175364bcda37dc609875aa04db0d157b45087b6f03d
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 8b9442a99aaf1ed23242eb568859d3113a8262d4
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115690823"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960506"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>Fastställa behörighet för incitamentsprogrammet
 
-**Lämpliga roller:** Globala | Incitamentsadministratör
+**Lämpliga roller:** Global | Incitamentsadministratör
 
 Varje incitamentprogram har särskilda behörighetskrav. Programmets behörighetskrav syftar till att säkerställa att nödvändiga avtal är undertecknade, att det finns nödvändig kompetens, att det finns en rimlig intäktsprognos och andra saker som krävs för att incitamentsprogrammet ska bli framgångsrikt.
 
@@ -33,11 +33,11 @@ Du kan hitta de särskilda behörighetskraven för ditt program i programguiden.
 
 3. Välj det program som du vill använda.
 
-4. I fältet **Status** väljer du **Behörighetskrav.**
+4. I fältet **Status** väljer du **Berättigandekrav.**
 
    :::image type="content" source="images/incentives/eligibility.png" alt-text="Skärmbild är ett exempel på incitamentskrav.":::
 
-5. Slutför alla områden som är avmarkerade för att uppfylla behörighetskraven. Varje incitamentsprogram har en egen uppsättning krav.
+5. Slutför alla områden som är avmarkerade för att uppfylla behörigheten. Varje incitamentsprogram har en egen uppsättning krav.
 
 ## <a name="next-steps"></a>Nästa steg
 

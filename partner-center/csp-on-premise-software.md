@@ -4,36 +4,36 @@ ms.topic: how-to
 ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
-description: Lär dig hur partner i CSP-programmet kan köpa, hantera, sälja och avbryta lokala programvaruprenumerationer för kunders räkning i Partnercenter.
+description: Lär dig hur partner i CSP-programmet kan köpa, hantera, sälja och avbryta lokala programvaruprenumerationer åt kunder i Partnercenter.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3a936c0a0891f45cc5d5522cbe06415bf9c8beed4202bc5f5af2a0fbb2d3a8f8
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 4e55e3069dc7e086ecac10d11e92e70942d63b78
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115693766"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960903"
 ---
 # <a name="sell-on-premises-software-through-the-cloud-solution-provider-csp-program"></a>Sälja lokal programvara via programmet Molnlösningsleverantör (CSP)
 
 **Lämpliga roller:** Administratörsagent | Global administratör
 
-Lokal programvara i CSP stöder en smidig övergång till molnet genom att lokala program introduceras i ett molnfokuserat program.Det här nya erbjudandet hjälper till att ta den mervärdespartnern till varje inköpsscenario eftersom de tillhandahåller en enda plattform för att köpa alla Microsoft-produkter. Som CSP kan du nu sälja lokal programvara via Partnercenter utöver Open, EA och andra program som används för närvarande.  
+Lokal programvara i CSP stöder en smidig övergång till molnet genom att introducera lokal programvara i ett molnfokuserat program.Det här nya erbjudandet hjälper till att ta den mervärdespartnern till varje inköpsscenario eftersom de tillhandahåller en enda plattform för att köpa alla Microsoft-produkter. Som CSP kan du nu sälja lokal programvara via Partnercenter utöver Open, EA och andra program som används för närvarande.  
  
-Samtidigt som vi säkerställer det bästa övergripande kundvärdet med lokala programvarulicensieringsalternativ, har vi även gjort affärsmodellen så partnervänlig som möjligt. Enkel licensiering av lokal programvara i CSP innebär kostnads förutsägbarhet och en smidig försäljningsprocess åt dig. Den här nya affärsmodellen gör det enkelt att köpa in, hantera och prissätta lokal programvara för dina kunder, så att du kan fokusera på att vinna verksamhet med en utökad portfölj med mervärdeslösningar för IT-hantering.
+Samtidigt som vi säkerställer det bästa övergripande kundvärdet med lokala programvarulicensieringsalternativ, har vi även gjort affärsmodellen så partnervänlig som möjligt. Enkel licensiering av lokal programvara i CSP innebär kostnads förutsägbarhet och en smidig försäljningsprocess åt dig. Den här nya affärsmodellen gör det enkelt att köpa in, hantera och prissätta lokal programvara för dina kunder, så att du kan fokusera på att vinna affärer med en utökad portfölj med mervärdeslösningar för IT-hantering.
 
 ## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Köp programvaruprenumerationer för kunders räkning
 
-Om du vill köpa programvaruprenumerationer åt en kund går du till kundens informationssida, väljer Lägg till produkter och följer sedan anvisningarna på skärmen för att skapa och betala för din beställning.
+Om du vill köpa programvaruprenumerationer för en kunds räkning går du till kundens informationssida, väljer Lägg till produkter och följer sedan anvisningarna på skärmen för att skapa och betala för din beställning.
 
 > [!NOTE]
 > Mer information finns i den här [guiden för att beställa och uppfylla via Partnercenter.](https://partner.microsoft.com/resources/detail/guide-to-ordering-and-fulfillment-through-partner-center-pdf)
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Aktivera och hantera programvaruprenumerationer
 
-När du har köpt din programvara måste du eller dina kunder ladda ned den (partner med Partnercenter; kunder som använder Microsoft 365 Admin Center). Gör detta på följande sätt. Det är viktigt att förstå riskerna med att kopiera länkar och ladda ned programvara. Mer information finns i Använda **Partnercenter för att hämta** nedladdning av kundprogramvara och licensnycklar i [partnercentrets guide för nya handelsåtgärder.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
+När du har köpt din programvara måste du eller dina kunder ladda ned den (partner med Partnercenter; kunder som använder Microsoft 365 Admin Center). Gör detta på följande sätt. Det är viktigt att förstå riskerna med att kopiera länkar och ladda ned programvara. Mer information finns i **Använda Partnercenter för att hämta** nedladdningar av kundprogramvara och licensnycklar i [partnercentrets nya handbok för handel.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
 
 > [!NOTE]
 > Du måste vara administratörsagent i Partnercenter för att få en länk till nycklar och nedladdningar.
@@ -48,10 +48,10 @@ När du har köpt din programvara måste du eller dina kunder ladda ned den (par
 
 5. Välj **Kopiera länk** om du vill skicka kunden länken till bithämtningen. 
 
-6. Du kan också **avbryta programvarubeställningen** och få 100 % kredit (om det görs inom 60-dagars annulleringspolicyperioden).
+6. Du kan också **avbryta programvarubeställningen** och få 100 % kredit (om det görs inom 60-dagarsperioden för annulleringspolicyn).
 
 > [!NOTE]
-> Endast kunder har åtkomst till att se produktnycklar och ladda ned information i Microsoft 365 Admin Center (global administratörsroll krävs). Partner måste använda Partnercenter för att se den här informationen.
+> Endast kunder har åtkomst till att se produktnycklarna och hämta information i Microsoft 365 Admin Center (global administratörsroll krävs). Partner måste använda Partnercenter för att se den här informationen.
 
 ## <a name="cancel-a-purchase"></a>Avbryta ett köp
 
@@ -66,13 +66,13 @@ Använd följande procedur för att avbryta ett köp. När annulleringen är kla
     - Orsak till återbetalning
     - Begärd mängd
 
-2.  På kundens informationssida väljer du **Programvara**. Du ser en lista över alla program som du har köpt. 
+2.  På kundens informationssida väljer du **Programvara**. Du ser en lista över all programvara som du har köpt. 
 
 3.  Leta upp den programvara som du vill avbryta och välj **Avbryt.** Sidan **Rapportera ett problem med Partnercenter** öppnas. 
 
-4.  Under **Information** går du till **listan Typ av problem** och väljer **CSP Purchase/Refund (Köp/återbetalning för CSP) för kunders räkning.**
+4.  Under **Information** går du till **listan Typ av problem** och väljer **CSP Purchase/Refund för kunders räkning.**
 
-5.  Fyll i fälten **Impact (Effekt)** **och Title (Rubrik).** 
+5.  Fyll i fälten **Påverkan** **och** Rubrik. 
 
 6.  I **fältet Beskrivning** anger du följande: 
     -   Kundens klientorganisations-GUID eller domännamn

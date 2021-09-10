@@ -8,12 +8,12 @@ description: Använd det här API:et för att hämta alla tillgängliga rapport-
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 9c6930d8be430f6a9219e7b3d11b2e64ed2af5253b81581581ad6254a2a1d8d3
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: dc0e3925aeb07adc0e2b38af2913c63d3183941e
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115697150"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960896"
 ---
 # <a name="get-report-api"></a>Hämta rapport-API
 
@@ -42,7 +42,7 @@ Ingen
 
 |    Parameternamn    |    Typ    |    Obligatorisk    |    Beskrivning    |
 |    ----    |    ----    |    ----    |    ----    |
-|    reportId     |    sträng    |    No    |    Filter för att hämta information om endast rapporter med reportId som anges i det här argumentet     |
+|    reportId     |    sträng    |    No    |    Filtrera för att hämta information om endast rapporter med reportId som anges i det här argumentet     |
 |    reportName     |    sträng    |    No    |    Filtrera för att hämta information om endast rapporter med reportName som anges i det här argumentet     |
 |    queryId     |    sträng    |    No    |    Filter för att hämta information om endast rapporter med queryId som anges i det här argumentet     |
 |        |        |        |        |

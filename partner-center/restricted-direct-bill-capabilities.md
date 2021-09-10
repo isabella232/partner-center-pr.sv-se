@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
-description: Lär dig Molnlösningsleverantör partnerkrav för direktfakturering (CSP) och vad du kan göra för att undvika att funktioner begränsas. Ta reda på om dina funktioner har begränsats.
+description: Lär dig Molnlösningsleverantör krav för direktfakturering av partner och vad du kan göra för att undvika att funktioner begränsas. Ta reda på om dina funktioner har begränsats.
 author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f3027ec26586e7d96a5d9ac3d6db8e2297c61db194da1f00353091fc13e48915
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: edb67f6ae3054bf5214611ab3ac5ef4ed6713aef
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115682682"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960733"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Begränsade funktioner för direktfakturering och de krav som krävs för CSP-partner med direktfakturering
 
@@ -25,9 +25,9 @@ ms.locfileid: "115682682"
 Direktfaktureringspartner måste uppfylla [de nya](direct-partner-new-requirements.md) kraven för att finnas kvar Molnlösningsleverantör CSP-partnerprogrammet (Direct Bill). Annars kommer deras åtkomst till direktfaktureringsfunktionerna så småningom att begränsas och kan längre utföra specifika uppgifter, till exempel att göra nya inköp för sina kunder.
 
 > [!Note]
-> Direktfaktureringspartner som inte uppfyller de nya kraven för CSP-partnerprogrammet för direktfakturering informeras av Microsoft när deras funktioner för direktfakturering kommer att begränsas. Detta gäller för alla direktfaktureringspartner, oavsett om de har valt en övergång från [direktfaktureringspartner till indirekta återförsäljare](transition-direct-to-indirect.md) eller inte.  
+> Direktfaktureringspartner som inte uppfyller de nya kraven för CSP-partnerprogrammet för direktfakturering informeras av Microsoft när deras direktfaktureringsfunktioner kommer att begränsas. Detta gäller för alla direktfaktureringspartner, oavsett om de har valt en övergång från [direktfaktureringspartner till indirekta återförsäljare](transition-direct-to-indirect.md) eller inte.  
 
-## <a name="how-to-tell-if-your-direct-bill-capabilities-has-been-restricted"></a>Så här ser du om dina direktfaktureringsfunktioner har begränsats
+## <a name="how-to-tell-if-your-direct-bill-capabilities-has-been-restricted"></a>Så här ser du om direktfaktureringsfunktionerna har begränsats
 
 Följ dessa steg för att bekräfta om åtkomsten från partnerklientorganisationen för direktfakturering till direktfakturering har begränsats.
 
@@ -70,7 +70,7 @@ Förutom nya köp kan du inte komma åt följande funktioner för direktfakturer
 
 - Du kan inte skapa nya kundklienter. Alternativet **Skapa kund** under sidan **Kunder** i Partnercenter är inte tillgängligt.
 
-- Du kan inte skapa en inbjudan till en kund som begär en direkt återförsäljarrelation. Alternativet **Begär en återförsäljarrelation** under **sidan** Kunder i Partnercenter är inte tillgängligt.
+- Du kan inte skapa en inbjudan till kunden som begär en direktåterförsäljares relation. Alternativet **Begär en återförsäljarrelation** under **sidan** Kunder i Partnercenter är inte tillgängligt.
 
     >[!NOTE]
     >Som en del av övergången från direktfaktureringspartner till indirekt återförsäljare kan du, om du redan har registrerat din partnerklient för direktfakturering som indirekt återförsäljare, generera en inbjudan till kunden som begär en indirekt återförsäljarrelation i stället.
