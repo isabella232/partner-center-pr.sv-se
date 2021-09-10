@@ -13,10 +13,10 @@ ms.localizationpriority: high
 ms.date: 09/06/2021
 ms.openlocfilehash: 87b7aabae1420f8fc72957c5fdab0e2563ccc91e
 ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/09/2021
-ms.locfileid: "124343130"
+ms.locfileid: "123960946"
 ---
 # <a name="september-2021-announcements"></a>Meddelanden september 2021
 
@@ -32,56 +32,56 @@ _____________
 
 ### <a name="summary"></a>Sammanfattning
 
-För att hjälpa partner och kunder att driva sin verksamhet baserat på förtroende uppdaterar vi valideringsreglerna för en kunds företagsnamn och e-postadress. Detta gäller både ny och befintlig kundinformation. Det krävs inga API-ändringar.
+För att hjälpa partner och kunder att driva sin verksamhet baserat på förtroende uppdaterar vi valideringsreglerna för en kunds företagsnamn och e-postadress. Detta gäller för både ny och befintlig kundinformation. Det krävs inga API-ändringar.
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
 CSP-direktfaktureringspartner och indirekta leverantörer
 
 ### <a name="details"></a>Information
 
-Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för att verifiera kundens företagsnamn och e-postadressinformation. Från och med den 22 september 2021 kommer vi att uppdatera e-post- och företagsnamnsverifieringar. Mer information finns i Så [här lägger du till en ny kundpost.](../add-a-new-customer.md)
+Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för validering av företagets namn och e-postadressinformation. Från och med den 22 september 2021 kommer vi att uppdatera verifieringar av e-post och företagsnamn. Mer information finns i Så [här lägger du till en ny kundpost.](../add-a-new-customer.md)
 
 ________________
 ## <a name="readiness-dual-mode-attestation-and-additional-reseller-declaration"></a><a name="7"></a>Beredskap: Atterstation med dubbla lägen och ytterligare återförsäljardeklaration
 
 ### <a name="summary"></a>Sammanfattning
 
-För att hjälpa partner och kunder att driva sin verksamhet baserat på förtroende kräver vi att partnern ska intyga att de fungerar som direkta eller indirekta partner när de använder samma klientorganisations-ID per transaktion.
+För att hjälpa partner och kunder att driva sin verksamhet baserat på förtroende kräver vi att partner intygar att de fungerar som direkta eller indirekta partner när de använder samma klientorganisations-ID per transaktion.
 
-Vi begär också att alla partner som gör transaktioner i EU-/EFTA-länder deklarerar ytterligare återförsäljare (upp till 5) som är inblandade i transaktionen.
+Vi begär också att alla partner som gör transaktioner i EU-/EFTA-länder deklarerar ytterligare återförsäljare (upp till 5) som ingår i transaktionen.
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2021-09-07
 - Pilotberedskap för WW-uppskjutning sker i december
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
 CSP-direktfaktureringspartner och indirekta leverantörer som är både direkta och indirekta partner
 
-Indirekta partner som gör en överträdelse i EU-/EFTA-länder
+Indirekta partner som gör överträdelser i EU/EFTA-länder
 
 ### <a name="details"></a>Information
 
 Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för att göra kundprenumerationer i CSP-programmet.
 
-Från och med den 7 september 2021 kommer vi att öppna ett pilottest för partner för att få möjlighet att testa mot nya attesteringskrav och ytterligare återförsäljare (endast EU/EFTA) ändringar som sker i API:erna Skapa kundvagn, Uppdatera kundvagn och Skapa beställning. Observera att dessa ändringar kommer att bryta befintliga upplevelser för dessa API:er. Därför rekommenderar vi starkt att partner tar tillfället i akt att delta i pilottestet före den fullständiga uppskjutningen i december.
+Från och med den 7 september 2021 kommer vi att öppna ett pilottest för partner för att få möjlighet att testa mot nya attesteringskrav och ytterligare återförsäljare (endast EU/EFTA) ändringar som inträffar i API:erna Skapa kundvagn, Uppdatera kundvagn och Skapa beställning. Observera att dessa ändringar kommer att bryta befintliga upplevelser för dessa API:er. Därför rekommenderar vi starkt att partner tar tillfället i akt att delta i pilottestet innan den fullständiga uppskjutningen i december.
 
-Följande API:er påverkas och information har delats och uppdaterats därefter:
+Följande API:er påverkas och informationen har delats och uppdaterats därefter:
 
-- [Skapa en kundorder – PartnerCenter-apputvecklare](/partner-center/develop/create-an-order)
+- [Skapa en kundorder – partnercenterapputvecklare](/partner-center/develop/create-an-order)
 - [Skapa en kundvagn – partnercenterapputvecklare](/partner-center/develop/create-a-cart)
-- [Uppdatera en kundvagn – Partnercenter-apputvecklare](/partner-center/develop/update-a-cart)
+- [Uppdatera en kundvagn – partnercenterapputvecklare](/partner-center/develop/update-a-cart)
 
 De ytterligare återförsäljarna påverkar partner som gör transaktioner i följande EU-/EFTA-länder:
 
-| EU/EFTA-länder | | |
+| EU-/EFTA-länder | | |
 | ----- |----- | ----- |
 | Andorra | Grekland | Norge |
 | Österrike | Grönland | Polen |
 | Belgien | Guernsey | Portugal |
-| Bouvetön | See (covers Vatikanstad) | Rumänien |
+| Bouvetön | See (covers Vatikan city) | Rumänien |
 | Bulgarien | Ungern | San Marino |
 | Kroatien | Island | Slovakien |
 | Cypern | Irland | Slovenien |
@@ -96,10 +96,10 @@ De ytterligare återförsäljarna påverkar partner som gör transaktioner i fö
 | Monaco | San Marino | Nederländerna |
 | Slovakien | Storbritannien: TBD |
 
-Om du vill delta i piloten kan du kontakta ämnesexperten (AliJektki) och ange partnerns klientorganisations-ID så att de kan läggas till i flygresan.
+Om du vill delta i piloten ska du kontakta ämnesexperten (AliCertifikatki) och ange partnerns klientorganisations-ID så att de kan läggas till i flygresan.
 
 ________________
-## <a name="perpetual-software-and-software-subscriptions-price-lists-republished-to-fix-price-increases-in-russia"></a><a name="6"></a>Prislistor för permanent programvara och programvaruprenumerationer publiceras på nytt för att åtgärda prisökningar i Ryssland
+## <a name="perpetual-software-and-software-subscriptions-price-lists-republished-to-fix-price-increases-in-russia"></a><a name="6"></a>Löpande prislistor för programvaru- och programvaruprenumerationer publiceras på nytt för att åtgärda prisökningar i Ryssland
 
 ### <a name="categories"></a>Kategorier
 
@@ -108,44 +108,44 @@ ________________
 
 ### <a name="summary"></a>Sammanfattning
 
-Prislistorna för permanent programvara och programvaruprenumerationer som publicerades den 1 september 2021 publicerades på nytt den 3 september för att åtgärda ett prisproblem i Ryssland.
+Prislistorna för permanent programvara och programvaruprenumerationer som publicerades den 1 september 2021 återpublicerades den 3 september för att åtgärda ett prisproblem i Ryssland.
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Indirekta leverantörer och direktfaktureringspartner som gör permanenta programvaru- och programvaruprenumerationer i Molnlösningsleverantör i Ryssland.
+Indirekta leverantörer och direktfaktureringspartner som överför permanenta programvaru- och programvaruprenumerationer i Molnlösningsleverantör i Ryssland.
 
 ### <a name="details"></a>Information
 
-De permanenta prislistorna för programvaru- och programvaruprenumerationer som publicerades den 1 september hade en felaktig prisökning på 15,2 % för alla produkter.
+De permanenta prislistorna för programvaru- och programvaruprenumerationer som publicerades den 1 september hade en felaktig prisökning på 15,2 % som angavs för alla produkter.
 
 Prisökningen på ~15,2 % börjar gälla den 1 oktober **2021**, inte i september. Prislistorna har publicerats på nytt med rätt prisinformation.
 
-Partner som har köpt produkter mellan 1 september och 3 september debiteras till de korrigerade priserna som visas i de senaste prislistorna.
+Partner som har köpt produkter mellan 1 september och 3 september debiteras enligt de korrigerade priserna som visas i de senaste prislistorna.
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Partner som gör permanenta programvaru- och programvaruprenumerationer i Ryssland bör ladda ned den senaste prislistan för att se de korrigerade priserna.
+- Partner som använder permanent programvara och programvaruprenumerationer i Ryssland bör ladda ned den senaste prislistan för att se de korrigerade priserna.
 - Information om prisökningarna som kommer i oktober finns i det här [tillkännagivandet.](https://news.microsoft.com/licensing-changes-at-microsoft-russia-2021/)
 
 ________________
-## <a name="corrections-to-september-license-based-services-price-list-and-october-preview-for-microsoft-365-business-basic-usd"></a><a name="5"></a>Korrigeringar av prislistan för septemberlicensbaserade tjänster och oktoberförhandsvisning för Microsoft 365 Business Basic (USD)
+## <a name="corrections-to-september-license-based-services-price-list-and-october-preview-for-microsoft-365-business-basic-usd"></a><a name="5"></a>Korrigeringar av prislistan för septemberlicensbaserade tjänster och oktoberförhandsvisningen för Microsoft 365 Business Basic (USD)
 
 ### <a name="summary"></a>Sammanfattning
 
-Prislistan för september och förhandsversionen i oktober hade ett felaktigt listpris för Microsoft 365 Business Basic i USD.
+Septemberprislistan och oktoberförhandsvisningen hade ett felaktigt listpris för Microsoft 365 Business Basic i USD.
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2021-09-02
 - Erbjudanden/marknader
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Indirekta leverantörer och direktfaktureringspartner som transacting license-based services in the Molnlösningsleverantör program.
+Indirekta leverantörer och direktfaktureringspartner som överför licensbaserade tjänster i Molnlösningsleverantör program.
 
 ### <a name="details"></a>Information
 
-Prislistan för september och oktoberförhandsvisningen för licensbaserade tjänster som publicerades den 1 september 2021 hade ett felaktigt listpris för Microsoft 365 Business Basic. Korrigerade prislistor publicerades den 2 september 2021. Detta påverkar endast USD.
+Septemberprislistan och oktoberförhandsvisningen för licensbaserade tjänster som publicerades den 1 september 2021 hade ett felaktigt listpris för Microsoft 365 Business Basic. Korrigerade prislistor publicerades den 2 september 2021. Detta påverkar endast USD.
 
 Det påverkade erbjudandet omfattar:
 
@@ -156,10 +156,10 @@ Det påverkade erbjudandet omfattar:
 
 ### <a name="next-steps"></a>Nästa steg
 
-Partner som överlappar licensierade tjänster i USD bör ladda ned den senaste prislistan för att se det korrigerade priset.
+Partner som transact-licensierade tjänster i USD ska ladda ned den senaste prislistan för att se det korrigerade priset.
 
 ________________
-## <a name="announcing-intune-per-device-for-enterprise-for-csp-partners"></a><a name="4"></a>Meddelande om Intune per enhet för Enterprise för CSP-partner
+## <a name="announcing-intune-per-device-for-enterprise-for-csp-partners"></a><a name="4"></a>Vi presenterar Intune per enhet för enterprise för CSP-partner
 
 ### <a name="categories"></a>Kategorier
 
@@ -170,13 +170,13 @@ ________________
 
 Vi presenterar ett nytt erbjudande för Intune per enhet, som är tillgängligt från och med den 1 september.
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Partner som gör en transacting Molnlösningsleverantör (CSP)-programmet.
+Partner som gör en Molnlösningsleverantör (CSP).
 
 ### <a name="details"></a>Information
 
-Microsoft Intune är den mest omfattande enhetliga plattformen för slutpunktshantering för att hantera och skydda både fysiska och virtuella slutpunkter i din organisation. Vi presenterar ett nytt Erbjudande för Intune per enhet som hjälper företagsorganisationer att hantera enheter som har tilldelats till en autentiserad användare (d.v.s. inte används av flera autentiserade användare).
+Microsoft Intune är den mest omfattande enhetliga plattformen för slutpunktshantering för att hantera och skydda både fysiska och virtuella slutpunkter i din organisation. Vi presenterar ett nytt erbjudande för Intune per enhet som hjälper företagsorganisationer att hantera enheter som har tilldelats till en autentiserad användare (d.v.s. som inte används av flera autentiserade användare).
 
 Det här erbjudandet, som är tillgängligt den 1 september 2021, utnyttjar Intune per enhet och lägger till Azure Active Directory (Azure AD). Det är en helt funktionell färdig upplevelse och innehåller följande tjänstplaner:
 
@@ -184,12 +184,12 @@ Det här erbjudandet, som är tillgängligt den 1 september 2021, utnyttjar Intu
 - Microsoft Intune
 - Azure Active Directory for Education.
 
-Baserat på feedback från våra Microsoft-partner har Intune per enhet för Enterprise skapats för att ingå i en försäljning per enhet (enhet + Windows + Intune) som ett femårigt erbjudande som sträcker sig över enhetens livslängd. Det här nya erbjudandet hjälper CSP:er att förenkla avtalsstrukturer och erbjuda sina kunder ett mer konkurrenskraftigt avtal.
+Baserat på feedback från våra Microsoft-partner har Intune per enhet för Enterprise skapats för att ingå i en försäljning per enhet (enhet + Windows + Intune) som ett femårigt erbjudande som omfattar enhetens livslängd. Det här nya erbjudandet hjälper CSP:er att förenkla avtalsstrukturer och erbjuda kunderna ett mer konkurrenskraftigt avtal.
 
-Information om det nya Intune-erbjudandet per enhet:
+Saker att tänka på om det nya Intune-erbjudandet per enhet:
 
 - Det är ett SaaS Enterprise-erbjudande och är inte utformat för SMB-kunder (Small & Medium Business).
-- Den är endast tillgänglig för CP:er och är inte tillgänglig i Volymlicensiering eller Web Direct.
+- Det är endast tillgängligt för CPS och inte tillgängligt i Volymlicensiering eller Web Direct.
 - Kostnaden är 150 USD (USD/ERP) för en femårsprenumeration. 
 - Erbjudande-ID: 5170ccfb-e95b-49a4-b7f3-31f631a356ba
 - Det fungerar som det ska för alla Windows som har tilldelats till en enda autentiserad användare.
@@ -197,7 +197,7 @@ Information om det nya Intune-erbjudandet per enhet:
 
 ### <a name="questions"></a>Frågor
 
-Om du har fler frågor om dessa erbjudanden kan du läsa dina Yammer communityer.
+Om du har fler frågor om dessa erbjudanden kan du läsa dina Yammer communityn.
 
 ________________
 ## <a name="key-updates-for-the-new-commerce-experience-for-cloud-solution-provider-csp-seat-based-offers"></a><a name="3"></a>Viktiga uppdateringar för den nya handelsupplevelsen för Molnlösningsleverantör-baserade erbjudanden (CSP)
@@ -211,45 +211,45 @@ Som en uppföljning till avslöjandet den 19 augusti 2021 har Microsoft viktiga 
 - Datum: 2021-09-01
 - Funktioner
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
 CSP:s direktfaktureringspartner och indirekta leverantörer och återförsäljare via deras indirekta leverantörer
 
 ### <a name="details"></a>Information
 
-Den 19 augusti 2021 presenterade [Microsoft](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers-pdf) den nya handelsupplevelsen för Microsoft 365, Dynamics 365, Power Platform och Windows 365-baserade erbjudanden för bredd rörelse som kommer i oktober 2021. Som en uppföljning till det här meddelandet har vi följande viktiga uppdateringar som hjälper din organisation att förbereda för den här omvandlingen:
+Den 19 augusti 2021 presenterade [Microsoft](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers-pdf) den nya handelsupplevelsen för Microsoft 365, Dynamics 365, Power Platform och Windows 365-baserade erbjudanden för bredd rörelse som kommer i oktober 2021. Som en uppföljning till det här tillkännagivandet har vi följande viktiga uppdateringar som hjälper din organisation att förbereda för den här omvandlingen:
 
-- Lansering av de platsbaserade erbjudandena för integrerad sandbox-testning
-- Påminnelse för kommande CSP Q&A-anrop i september
-- Incitamentprogram för Microsoft Commerce
+- Lansering av platsbaserade erbjudanden för integrerad sandbox-testning
+- Påminnelse om kommande CSP Q&A-anrop i september
+- Microsoft Commerce Incitamentprogram
 
 #### <a name="launch-of-seat-based-offers-for-integrated-sandbox-testing"></a>Lansering av platsbaserade erbjudanden för integrerad sandbox-testning
 
 Från och med den 1 september 2021 har Microsoft aktiverat [](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers-pdf) platsbaserade erbjudanden för integrerad [sandbox-testning](/partner-center/develop/test-and-debug) i den nya handelsupplevelsen för CSP-programmet.
 
-Tillägget av Microsoft 365, Dynamics 365, Power Platform och Windows 365-erbjudanden i CSP till den nya handelsupplevelsen är en annan viktig milstolpe i vår nya handelsresa. Microsoft investerar i produktinnovationer, bättre verktyg och tillgång till nya affärsmöjligheter som gör det möjligt för partner att öka sina CSP-intäkter och ge fler alternativ till kunder. Vi utvecklar vår handelsplattform och effektiviserar order- och prenumerationshanteringsprocesserna för att hjälpa partner och kunder att lyckas med den digitala omvandlingen.
+Tillägget av Microsoft 365-, Dynamics 365-, Power Platform- och Windows 365-erbjudanden i CSP till den nya handelsupplevelsen är en annan viktig milstolpe i vår nya handelsresa. Microsoft investerar i produktinnovationer, bättre verktyg och tillgång till nya affärsmöjligheter som gör det möjligt för partner att öka sina CSP-intäkter och ge fler alternativ till kunder. Vi utvecklar vår handelsplattform och effektiviserar order- och prenumerationshanteringsprocesserna för att hjälpa partner och kunder att lyckas med den digitala omvandlingen.
 
-Partner som deltar i sandbox-testmiljön får tidig insyn i den nya handelsupplevelsen för platsbaserade erbjudanden, vilket möjliggör avancerad planering, operationalisering och teknisk integrering för dessa erbjudanden.
+Partner som deltar i sandbox-testmiljön får tidig insyn i den nya handelsupplevelsen för platsbaserade erbjudanden, vilket möjliggör avancerad planering, driftisering och teknisk integrering för dessa erbjudanden.
 
 Genom att delta i sandbox-miljön kan din organisation:
 
 - Utföra API-integrering i en testmiljö innan du distribuerar i produktion
-- Ha tillräckligt med tid för att operationalisera den nya handelsupplevelsen innan du startar 
+- Ha tillräckligt med tid för att operationalisera den nya handelsupplevelsen innan lanseringen 
 
 Tabellen innehåller en sammanfattning av de viktigaste funktionerna som är tillgängliga i den integrerade sandbox-testmiljön:
 
 | Konfigurera administratörsbehörigheter för partner/kunddelegier | Partiell underuppgradering – fullständig funktion |
 | ----------- | ---------------|
-| Modeller på 1 nivå, 2 nivåer | Partiell prenumerationsuppgradering via support |
+| Modeller med 1 nivå, 2 nivåer | Delvis prenumerationsuppgradering via support |
 | Identifiering sida vid sida av aktuell och ny upplevelse | Schemalagda ändringar vid förnyelse  |
-| Identifiera och köpa Modern (välj produkter) | Pausa/återuppta (via support) |
-| Hantera prenumeration (automatisk förnyelse, lägg till platser, avbryt rörelse) | Kostnadsfria utvärderingsversioner (endast MAC-presentment) |
+| Identifiera och köpa moderna (välj produkter) | Pausa/återuppta (via support) |
+| Hantera prenumeration (automatisk förnyelse, lägg till platser, avbryt rörelse) | Kostnadsfria utvärderingsversioner (endast MAC-utvärderingsversioner) |
 | Oberoende tillägg  | Partnervaluta |
 | Faktureringsplaner | Pristransparens  |
 | Livscykelhantering för prenumeration (respitperiod) | Årliga faktureringsplaner för erbjudanden under flera år  |
 | Begränsningar för ägarskap | Pausa/återuppta (via självbetjäning)  |
 | Faktura-/rekognoseringsfiler | Omtilldeling av automatisk plats för fullständiga SKU-övergångar |
-| SKU-uppgraderingar med medeltidsmängd | Kostnadsfri utvärderingsversion (med fullständig present) |
+| SKU-uppgraderingar för fullständigt antal på medel sikt | Kostnadsfri utvärderingsversion (med fullständig presentament) |
 | Framtvingande av annulleringsprincip: 30 dagars blockavbokning efter 30 dagar (ändras med allmän tillgänglighet till 72 timmar) |  |
 |
 
