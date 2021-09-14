@@ -10,11 +10,11 @@ ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: acf7e19d98b6d3a9c48277f0b3276b26816572e8
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961236"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247182"
 ---
 # <a name="eligibility-requirements-for-the-solution-assessment-incentives-program"></a>Behörighetskrav för Solution Assessment Incentives programmet
 
@@ -32,7 +32,7 @@ Partner som för närvarande inte är registrerade i ett incitamentprogram måst
 |-----------------------|------------------|
 |Mpn Microsoft Partner Network medlemskap (Active Microsoft Partner Network)|Behörighet i incitamentprogrammet för lösningsutvärdering kräver aktivt MPN-medlemskap|
 |En silver- eller guldkompetens|Kan vara aktiv eller aktiv i förväg godkänd|
-|Azure Expert MSP/Avancerad specialiseringspartner|Från och med 15 april 2021 kommer Azure Solution Assessments, inklusive Data & Infrastructure Migration, Application Modernization, Azure Foundations, Azure Express och Azure Cost Optimization, kräva och Azure Expert MSP/Advanced Special-certifiering.|
+|Azure Expert MSP/Avancerad specialiseringspartner|Från och med 15 april 2021 kräver Azure-lösningsutvärderingarna, inklusive migrering av data &-infrastruktur, programmodernisering, Azure Foundations, Azure Express och Azure Cost Optimization, och Azure Expert MSP/Advanced Special-certifiering.|
 
 |**Deltagandekrav**|**Kriterie**|
 |-------------------------|-------------------------------------|

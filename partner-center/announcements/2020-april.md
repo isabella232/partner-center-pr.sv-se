@@ -10,11 +10,11 @@ ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 05/21/2021
 ms.openlocfilehash: 4636ee56418c68b5186c1137b73b3da0f0806951
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959913"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247308"
 ---
 # <a name="april-2020-announcements"></a>Meddelanden april 2020
 
@@ -48,10 +48,10 @@ Den 4 maj 2020 introducerar Microsoft nya rabatter för Office 365 E1 och Micros
 
 Dessa kampanjer ersätter det aktuella Office 365 E1 utvärderingserbjudandet och skiljer sig åt på följande sätt:
 
-- Partner kommer att använda årliga Office 365 E1- eller Microsoft 365 Business Basic-SKU:er med hjälp av en CSP-kampanj som tillämpar en rabatt på 100 % för de första sex månaderna, i stället för en unik sex månaders utvärderings-SKU. [Läs mer om CSP-kampanjer.](../promotions.md)
-- Beställningen är tekniskt sett begränsad till "endast nya kunder" i stället för Office 365 E1 utvärderingsversion, som var begränsad till nya kunder endast genom skriftlig princip. 
+- Partner kommer att göra en årlig Office 365 E1- eller Microsoft 365 Business Basic-SKU:er med hjälp av en CSP-kampanj som tillämpar en rabatt på 100 % för de första sex månaderna, i stället för en unik sex månaders utvärderings-SKU. [Läs mer om CSP-kampanjer.](../promotions.md)
+- Beställningen är tekniskt sett begränsad till "endast nya kunder" i stället för den Office 365 E1 utvärderingsversionen, som var begränsad till nya kunder endast genom skriftlig princip. 
 - För SMB-kunder Microsoft 365 Business Basic ingår i den här befordran. Detta säkerställer att partner kan starta kunder med färre än 300 platser i rätt produktfamilj med Microsoft 365 för företag.
-Kunder som för närvarande är licensierade med Office 365 E1-utvärderingsversionen (tillgänglig fram till den 4 maj 2020) fortsätter att ha den aktuella planen – den här ändringen påverkar endast nya kunder.
+Kunder som för närvarande är licensierade med Office 365 E1-utvärderingsversionen (tillgänglig fram till den 4 maj 2020) fortsätter att ha kvar sin nuvarande plan – den här ändringen påverkar endast nya kunder.
 
 Definition av nya kunder
 
@@ -72,7 +72,7 @@ Bekanta dig med ändringarna ovan, maj 2020-prislistan, och dela den här inform
 
 ### <a name="questions"></a>Har du några frågor?
 
-För ytterligare frågor om dessa erbjudanden, kontrollera dina Yammer communityn och kontakta din representant i Microsoft-konto teamet.
+Om du har ytterligare frågor om dessa erbjudanden kan du kontrollera dina Yammer communityn och kontakta din representant i Microsoft-konto team.
 
 _________________
 
@@ -126,7 +126,7 @@ Microsoft åtgärdade ett fel i EUR-priset för Microsoft 365 (M365) E3 den 1 ap
 
 ### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Alla partner som gör en överträdelse av M365 E3 via PRICE-listan i Molnlösningsleverantör programmet.
+Alla partner som gör en överträdelse av M365 E3 via EUR-prislistan i Molnlösningsleverantör-programmet.
 
 ### <a name="details"></a>Information
 
@@ -165,7 +165,7 @@ _________________
 
 ### <a name="summary"></a>Sammanfattning
 
-Större och pågående säkerhets- och integritetsskydd är bland våra högsta prioriteter och vi fortsätter att hjälpa partner att skydda sina kunder och klienter. 2019 införde vi [obligatoriska säkerhetskrav.](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/) Alla partner som deltar i Molnlösningsleverantör, Kontrollpanelen leverantörer och rådgivare bör implementera kraven för att följa standard.
+Större och pågående säkerhets- och integritetsskydd är bland våra högsta prioriteter och vi fortsätter att hjälpa partner att skydda sina kunder och klienter. 2019 införde vi [obligatoriska säkerhetskrav.](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/) Alla partner som deltar i Molnlösningsleverantör, Kontrollpanelen leverantörer och rådgivare bör implementera kraven för att efterleva kraven.
 
 Nyligen slutförde vi aktiveringen av säkerhetsskydd för AOBO-funktioner (admin-on-behalf-of) för alla partnerklienter, vilket skyddar deras företag och kunder från identitetsstöldrelaterade incidenter.
 
@@ -258,18 +258,18 @@ SKU:n Microsoft Defender ATP for Servers kommer att vara tillgänglig för CSP d
 
 ### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Den här nya SKU:n kommer att vara tillgänglig för Microsoft Defender Avancerat skydd-kunder (ATP) med minst 50 licenser (MDATP, Win E5, M365 Security, M365 E5) som vill ha Microsoft Defender ATP för serverslutpunktsskydd.
+Den här nya SKU:n blir tillgänglig för Microsoft Defender Avancerat skydd-kunder (ATP) med minst 50 licenser (MDATP, Win E5, M365 Security, M365 E5) som vill ha Microsoft Defender ATP för serverslutpunktsskydd.
 
 ### <a name="details"></a>Information
 
 Microsofts erbjudande för slutpunktsskydd på servrar (lokalt och i Azure) har Azure Security Center Standard. Azure Security Center Standard kostar 15 USD per serveroperativsystemets miljö per månad. Vi har hört från kunder att de vill ha ett alternativ för nedsatt funktionalitet till en lägre prispunkt som kan köpas på ett sätt som stämmer överens med E5 för slutpunktsserverskydd.
-Som svar på kundernas behov introducerar vi den nya SKU:n Microsoft Defender ATP for Servers för att tillgodose kundernas behov och vi förväntar oss att de flesta kunder som använder denna SKU ska täcka servrar lokalt, men det är inte begränsat till det användningsfallet. Azure Security Center Standard är fortfarande hero-SKU:n med en utökad uppsättning hotskyddsfunktioner och partner bör leda konversationer med kunder med SKU:n Azure Security Center Standard Hero, särskilt för dem med Azure-arbetsbelastningar. Men nu kan Microsoft erbjuda slutpunktsskydd till ett lägre pris så att Microsoft-partner kan bli mer konkurrenskraftiga på marknaden för slutpunktsskydd med SKU:n Microsoft Defender ATP for Servers.
+Som svar på kundernas behov introducerar vi den nya SKU:n Microsoft Defender ATP for Servers för att tillgodose kundernas behov och vi förväntar oss att de flesta kunder som använder denna SKU ska täcka servrar lokalt, men det är inte begränsat till det användningsfallet. Azure Security Center Standard förblir hero-SKU:n med en utökad uppsättning hotskyddsfunktioner och partner bör leda konversationer med kunder med SKU:n Azure Security Center Standard Hero, särskilt för dem med Azure-arbetsbelastningar. Men nu kan Microsoft erbjuda slutpunktsskydd till ett lägre pris så att Microsoft-partner kan bli mer konkurrenskraftiga på marknaden för slutpunktsskydd med SKU:n Microsoft Defender ATP for Servers.
 
-Microsoft Defender ATP-kunder med minst 50 licenser kan använda den nya SKU:n Microsoft Defender ATP for Servers för serverslutpunktsskydd på 5 USD per serveroperativsystemets miljö per månad. För förbättrat skydd av molnarbetsbelastningar för servrar kan Microsoft Defender ATP for Servers SKU-kunder uppgradera till Azure Security Center Standard SKU för ytterligare 10 USD per Server OSE per månad och dra nytta av funktioner som anpassningsbara programkontroller, just-in-time-åtkomst till virtuella datorer, övervakning av filintegritet och enhetlig upplevelse för att skydda Azure-resurser och ytterligare värde, till exempel framtida integrering med Azure Arc.
+Microsoft Defender ATP-kunder med minst 50 licenser kan använda den nya SKU:n Microsoft Defender ATP for Servers för serverslutpunktsskydd på 5 USD per serveroperativsystemets miljö per månad. För förbättrat skydd av molnarbetsbelastningar för servrar kan Microsoft Defender ATP for Servers SKU-kunder uppgradera till Azure Security Center Standard-SKU för ytterligare 10 USD per Server OSE per månad och dra nytta av funktioner som anpassningsbara programkontroller, just-in-time-åtkomst till virtuella datorer, övervakning av filintegritet och enhetlig upplevelse för att skydda Azure-resurser och ytterligare värde, till exempel framtida integrering med Azure Arc.
 
-Det finns för närvarande inga ändringar i Azure Security Standard. Azure Security Center Standard fortsätter att tillhandahålla en integrerad användarupplevelse för att skydda inte bara serverslutpunkter för virtuella datorer utan även den breda uppsättningen Azure-resurser, inklusive IoT, Azure Kubernetes Services (förhandsversion), Azure Container Registry (förhandsversion), Key Vault (förhandsversion), App Services, SQL och Storage.
+Det finns för närvarande inga ändringar i Azure Security Standard. Azure Security Center Standard fortsätter att tillhandahålla en integrerad användarupplevelse för att skydda inte bara serverslutpunkter för virtuella datorer utan även den breda uppsättningen Azure-resurser som IoT, Azure Kubernetes Services (förhandsversion), Azure Container Registry (förhandsversion), Key Vault (förhandsversion), App Services, SQL och Storage.
 
-MDATP för servrar SKU-ägare måste uppgradera till Azure Security Center (ASC) Standard med 10 USD stegvis SKU för att dra nytta av ASC Standard-funktioner.
+MDATP för servrar SKU ägare måste uppgradera till Azure Security Center (ASC) Standard med $10 step-up SKU för att dra nytta av ASC Standard-funktioner.
 
 ### <a name="product-offer"></a>Produkterbjudande
 
@@ -283,7 +283,7 @@ Vi kommer att ha mer offentlig information senare under året för att dela med 
 
 ### <a name="additional-resources"></a>Ytterligare resurser
 
-- Besök [sidan Microsoft Defender Avancerat skydd](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp) för mer information.
+- Besök sidan [Microsoft Defender Avancerat skydd](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp) för mer information.
 - Läs dokumentationen [Azure Security Center för](/azure/security-center/) mer information om Azure Security Center.
 
 ### <a name="questions"></a>Har du några frågor?
@@ -330,7 +330,7 @@ Det här är bara en adressändring och du behöver inte använda befintliga kon
 
 ### <a name="next-steps"></a>Nästa steg
 
-Se till att alla system, kommunikationer och dokumentation uppdateras med den nya kontaktinformationen den 15 maj 2020. Andra åtgärder kan krävas närmare detta datum.
+Se till att alla system, kommunikationer och dokumentation uppdateras med den nya kontaktinformationen senast den 15 maj 2020. Andra åtgärder kan krävas närmare detta datum.
 
 ### <a name="questions"></a>Har du några frågor?
 
@@ -338,7 +338,7 @@ Se till att alla system, kommunikationer och dokumentation uppdateras med den ny
 
 _________________
 
-## <a name="commercial-microsoft-365-e3---unattended-license-will-be-relaunched-on-may-1-2020"></a><a id="7"/></a>Kommersiell Microsoft 365 E3 – Obevakad licens lanseras igen den 1 maj 2020
+## <a name="commercial-microsoft-365-e3---unattended-license-will-be-relaunched-on-may-1-2020"></a><a id="7"/></a>Kommersiell Microsoft 365 E3 – Obevakad licens kommer att återupptas den 1 maj 2020
 
 ### <a name="categories"></a>Kategorier
 
@@ -348,38 +348,38 @@ _________________
 
 ### <a name="summary"></a>Sammanfattning
 
-För att säkerställa den bästa partnern och kundupplevelsen kommer Microsoft att återstarta kommersiella M365 – obevakade licenserbjudanden den 1 maj 2020. Pris och funktioner påverkas inte.
+För att säkerställa den bästa partner- och kundupplevelsen kommer Microsoft att återlansering av kommersiella M365 – obevakade licenserbjudanden den 1 maj 2020. Pris och funktioner påverkas inte.
 
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Alla partner som gör en Molnlösningsleverantör världen.
+Alla partner som gör en Molnlösningsleverantör världen över.
 
 ### <a name="details"></a>Information
 
-Microsoft planerar att lansera kommersiella M365 – obevakade licenserbjudanden den 1 april 2020 enligt prislistan för förhandsversionen. Efter omfattande testning lärde vi oss att användare kan stöta på oväntade beteenden under etableringen.
+Microsoft planerar att lansera commercial M365 – obevakade licenserbjudanden den 1 april 2020 enligt prislistan för förhandsversionen. Efter omfattande testning lärde vi oss att användare kan stöta på oväntade beteenden under etableringen.
 
-Därför börjar vi om den 1 maj 2020. Nystarten påverkar inte prissättningen eller värdet som ingår i erbjudandet.
-Vi planerar också aktivt att utöka erbjudandet till Education- och Government-kunder den maj 2020, så att du kan utöka din verksamhet och hitta nya möjligheter att fortsätta leverera fantastiska mervärdesförslag.
+Därför börjar vi om den 1 maj 2020. Omstarten påverkar inte prissättningen eller värdet som ingår i erbjudandet.
+Vi planerar också aktivt att utöka erbjudandet till utbildnings- och myndighetskunder den 20 maj 2020, så att du kan utöka din verksamhet och hitta nya möjligheter att fortsätta leverera fantastiska mervärdesförslag.
 
 ### <a name="offer-ids-impacted"></a>Erbjudande-ID:er som påverkas
 
 Det ursprungliga erbjudande-ID som skapades för den här starten var: Microsoft 365 E3 för obevakad licens: ec3ac2d1-dd66-475a-95c8-59c32c472778
 
-Kontrollera våra meddelanden i maj och vår lista med produktionspriser den 1 maj 2020 för att hitta det uppdaterade erbjudande-ID:t.
+Kontrollera våra meddelanden i maj och vår produktionsprislista den 1 maj 2020 för att hitta det uppdaterade erbjudande-ID:t.
 
 ### <a name="additional-background-on-unattended-license"></a>Ytterligare bakgrund om obevakad licens
 
-Microsoft 365 E3 Obevakad licens gör det möjligt att Office program med tjänstkonton eller andra icke-användarkonton, vilket är vanligt under automatiseringsprocessen.
+Microsoft 365 E3 Obevakad licens gör det möjligt att Office program med tjänstkonton eller andra icke-användarkonton, vilket är vanligt vid körning av automatiseringsprocessen.
 
 Den här nya licensen kan ge ett nytt alternativ för att arbeta med produktivitetsdata och verktyg när även produkt-API:er som Microsoft Graph inte uppfyller dina automatiseringsbehov.
 
 ### <a name="next-steps"></a>Nästa steg
 
-Dela den här informationen med alla lämpliga kontakter i din organisation och kontrollera dina meddelanden [om partner.microsoft.com](https://partner.microsoft.com) för framtida uppdateringar.
+Dela den här informationen med alla lämpliga kontakter i din organisation och kontrollera dina meddelanden [partner.microsoft.com](https://partner.microsoft.com) för framtida uppdateringar.
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har ytterligare frågor om dessa erbjudanden kontaktar du din representant i Microsoft-konto teamet eller kontrollerar dina relevanta Yammer communityn.
+För ytterligare frågor om dessa erbjudanden kan du kontakta din representant i Microsoft-konto eller kontrollera dina relevanta Yammer communities.
 
 _________________
 
@@ -396,15 +396,15 @@ _________________
 
 Den 1 april 2020 fick Microsoft A5 Compliance-tillägget ytterligare värde utan prisändring. Dessutom introducerade vi tre minisviter för att hantera nya användarscenarier
 
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Alla partner som gör utbildningstransakteringserbjudanden via programmet Molnlösningsleverantör (CSP).
+Alla partner som gör utbildningserbjudanden via programmet Molnlösningsleverantör (CSP).
 
 ### <a name="details"></a>Information
 
 **Större värde, samma pris**
 
-Den 1 april 2020 lade Microsoft till ett nytt värde för Microsoft 365 A5 Compliance-erbjudanden utan prisändring. Det ytterligare värdet inkluderar
+Den 1 april 2020 lade Microsoft till nytt värde för Microsoft 365 A5 compliance-erbjudanden utan prisändring. Det ytterligare värdet inkluderar
 
 - Avancerad granskning
 - Insider-riskhantering
@@ -417,30 +417,30 @@ Se följande erbjudande-ID:er i prislistan:
 - Microsoft 365 A5 Efterlevnad för lärare och | 9f8f1756-f56f-421e-901a-e80e857cadb8
 - Microsoft 365 A5 Efterlevnad för | f0f9f37a-539f-4f44-aef6-e37070149499
 
-### <a name="microsoft-365-a5-compliance-mini-suites"></a>Microsoft 365 A5 Minipaket för efterlevnad
+### <a name="microsoft-365-a5-compliance-mini-suites"></a>Microsoft 365 A5 Minisviter för efterlevnad
 
-Från och med 1 april 2020 kan Microsoft-partner även erbjuda följande minipaket. De här tilläggserbjudandena ger specifika delmängder av Microsoft 365 A5 för efterlevnad, vilket ger ytterligare möjligheter till kundtillväxt för specifika användningsfall och kundbehov.
+Från och med 1 april 2020 kan Microsoft-partner också erbjuda följande minisviter. De här tilläggserbjudandena ger specifika delmängder av Microsoft 365 A5 för efterlevnad, vilket ger ytterligare möjligheter till kundtillväxt för specifika användningsfall och kundbehov.
 
 - Microsoft 365 A5 Information Protection och styrning
 - Microsoft 365 A5 Insider-riskhantering
-- Microsoft 365 A5 eDiscovery and Audit
+- Microsoft 365 A5 eDiscovery och granskning
 
 Se följande erbjudande-ID:er i prislistan:
 
-- Microsoft 365 A5 Information Protection och styrning för lärare och | 0514821c-f7d8-41fc-8c94-59e59d3d6034
+- Microsoft 365 A5 Information Protection och styrning för | 0514821c-f7d8-41fc-8c94-59e59d3d6034
 - Microsoft 365 A5 Information Protection styrning för studenter | a91941ff-79a2-4476-a064-c5a6922e0bbd
-- Microsoft 365 A5 Insider-riskhantering för lärare och | 2ed867d7-fd08-474f-8353-502b500d1c9b
+- Microsoft 365 A5 Insiderriskhantering för lärare | 2ed867d7-fd08-474f-8353-502b500d1c9b
 - Microsoft 365 A5 Insider-riskhantering för studenter | 2ba72571-c0f0-4373-b999-d08cc1bb5edd
-- Microsoft 365 A5 eDiscovery and Audit for faculty | 5d7c0030-c2e9-4a8c-olika3-5a6dbf1e4449
-- Microsoft 365 A5 eDiscovery and Audit for students | 6c6e2e9c-2156-4f7c-9c78-f94393b750fe
+- Microsoft 365 A5 eDiscovery och audit för lärare och | 5d7c0030-c2e9-4a8c-bug3-5a6dbf1e449
+- Microsoft 365 A5 eDiscovery och audit för | 6c6e2e9c-2156-4f7c-9c78-f94393b750fe
 
-**AIP-plan Office 365 Advanced Compliance Azure Information Protection (Sunsetting Azure Information Protection) 2**
+**Sunsetting Office 365 Advanced Compliance and Azure Information Protection (AIP) Plan 2**
 
-Förutom ändringarna ovan går Microsoft ned i Office 365 Advanced Compliance Azure Information Protection (AIP) plan 2. Från och med 1 april 2020 är dessa erbjudanden inte längre tillgängliga i prislistan för nya nettokunder och automatisk förnyelse har inaktiverats för befintliga kunder.
+Förutom ändringarna ovan går Microsoft tillbaka med Office 365 Advanced Compliance och Azure Information Protection (AIP) plan 2. Från den 1 april 2020 är dessa erbjudanden inte längre tillgängliga i prislistan för nya nettokunder och automatisk förnyelse har inaktiverats för befintliga kunder.
 
-Diskutera erbjudandena med dina kunder för att förstå den bästa lösningen för dem, antingen via minipaketen eller det bredare Microsoft 365 A5 för efterlevnad.
+Diskutera erbjudandena med dina kunder för att förstå den bästa lösningen för dem, antingen via minisviterna eller det bredare Microsoft 365 A5 för efterlevnad.
 
-Nedan kan du se en lista över de erbjudande-ID:er som påverkas:
+Nedan hittar du en lista över de erbjudande-ID:er som påverkas:
 
 - Office 365 Advanced Compliance Buy_CSP_CRTY_e6860eee-5288-46ec-811b-d8900785fc90
 - Office 365 Equivio Analytics för eDiscovery Buy_MSP_6b648c1e-f472-46c0-8379-09f50a3315e0
@@ -471,15 +471,15 @@ _________________
 
 ### <a name="summary"></a>Sammanfattning
 
-Från och med den 1 april 2020 finns en Office 365 E1 utvärderingsversion tillgänglig för köp i CSP. Erbjudandet har gjorts tillgängligt i prislistan för att hantera den senaste ökningen av distans arbete.
+Från och med 1 april 2020 finns en ny Office 365 E1 utvärderingsversion tillgänglig för köp i CSP. Erbjudandet har gjorts tillgängligt i prislistan för att hantera den senaste ökningen av fjärrkörning.
 
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
 Alla partner som gör en Molnlösningsleverantör(CSP)-programmet.
 
 ### <a name="details"></a>Information
 
-Människor och team runtom i världen flyttar till fjärranslutna arbetsformer. Partner anpassar sig snabbt för att stödja sina kunder, och i sin tur justerar vi också.
+Människor och team runtom i världen flyttar till distansarbetsavtal. Partner anpassar sig snabbt för att stödja sina kunder, och i sin tur justerar vi också.
 
 Vi är glada över att kunna presentera en ny Office 365 E1-utvärderingsversion i CSP, som skapats specifikt för att stödja partnersvar på de växande behoven för fjärrstyrning och smart arbete. Det här utvärderingserbjudandet är tillgängligt från och med 1 april 2020 tills vidare.
 
@@ -521,7 +521,7 @@ _________________
 Den 1 april 2020 släppte Microsoft ytterligare Dynamics 365-produkter. Ytterligare nya erbjudanden för Dynamics 365 släpps den 1 maj 2020.
 Målgrupp som påverkas
 
-Partner som erbjuder Dynamics 365 via Molnlösningsleverantör (CSP). Dessa uppdateringar avser alla platser över hela världen, om inget annat anges.
+Partner som erbjuder Dynamics 365 via programmet Molnlösningsleverantör (CSP). Dessa uppdateringar avser alla platser över hela världen, om inget annat anges.
 
 ### <a name="details"></a>Information
 
@@ -531,7 +531,7 @@ Den 1 april 2020 släppte Microsoft nya produkter för Dynamics Business Central
 Den 1 april 2020 gjordes följande ändringar i Dynamics Business Central Online-erbjudandena.
 
 - Nya Dynamics Business-erbjudanden för Business Central i CSP
-- Uppdatera SKU:Pro Sales Pro Customer Service Pro Attach
+- Uppdatera SKU:er Pro Sales Pro Customer Service
 
 ### <a name="dynamics-biz-apps-and-power-platform-products"></a>Dynamics Biz Apps och Power Platform Products
 
@@ -556,17 +556,17 @@ Från och med 1 april 2020 har eCommerce-erbjudanden visningsnamn och/eller PFAM
 |**Visningsnamn och/eller PFAM-ändring**|**Den 1 mars 2020**|**Den 1 april 2020**|
 |-------------------|:------|:-----|
 |Visningsnamn|Betyg och recensioner för eCommerce|Handelsklassificeringar och omdömen|
-|Visningsnamn|eCommerce Rekommendationer|Handels Rekommendationer|
+|Visningsnamn|eCommerce Rekommendationer|Commerce Rekommendationer|
 |Visa och PFAM|Dynamics 365 Commerce Cloud Scale Unit Basic|Dynamics 365 Commerce Scale Unit Basic – molnet|
 |Visa och PFAM|Dynamics 365 Commerce Cloud Scale Unit Standard|Dynamics 365 Commerce Scale Unit Basic – molnet|
-|Visa och PFAM|Dynamics 365 Commerce Cloud Scale Unit Premium|Dynamics 365 Commerce Scale Unit Premium – Molnet|
+|Visa och PFAM|Dynamics 365 Commerce Cloud Scale Unit Premium|Dynamics 365 Commerce Scale Unit Premium – molnet|
 
 ### <a name="additional-resources"></a>Ytterligare resurser
 
 - [Startsida för Dynamics 365](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 - [startsida Mixed Reality guide för Mixed Reality för appar](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 - [Startsida för biz-appar för bedrägeri](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
-- [FY20 PowerApps och Flow Licensing Updates](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [FY20 PowerApps och Flow-licensieringsuppdateringar](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 - [Microsoft Dynamics 365-licensiering](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 - [Dynamics 365 och Power Platforms – tillgänglighet, dataplats, språk och lokaliseringsinnehåll](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 - [FY20 What's New Webinar Series](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
@@ -605,24 +605,24 @@ Läs de [uppdaterade vanliga frågorna](https://assetsprod.microsoft.com/mpn/rea
 
 Microsoft effektiviserar vårt sätt att kommunicera och tillhandahålla beredskapsmaterial i alla Microsoft-program. Vi introducerar en resursplats för driftberedskap på Microsofts partnerwebbplats på som kombinerar tillgångar från [https://partner.microsoft.com](https://partner.microsoft.com) [resursgalleriet för CSP-programuppdateringar](https://partner.microsoft.com/resources#/) och [webbplatsen Microsoft Readiness](https://www.microsoftreadiness.com/).
 
-Med en enda plats för resurser för driftberedskap blir det enklare än någonsin för partner att hitta de senaste uppdateringarna, kritiska meddelanden och viktiga resurser för driftberedskap i alla Microsofts kanaler och program. Med en enkel inloggningsupplevelse och förbättrad sökning, filtrering och sortering kan partner enkelt komma åt, använda och förbereda sina företag för att genomföra och göra affärer med Microsoft på det sätt som passar dem.
+Med en plats för resurser för driftberedskap blir det enklare än någonsin för partner att hitta de senaste uppdateringarna, kritiska meddelanden och viktiga resurser för driftberedskap i alla Microsofts kanaler och program. Med en enkel inloggningsupplevelse och förbättrad sökning, filtrering och sortering kan partner enkelt komma åt, använda och förbereda sina företag för att genomföra och göra affärer med Microsoft på det sätt som passar dem bäst.
 
-### <a name="expanding-on-the-success-of-the-csp-program-updates-resource-gallery"></a>Expandera på framgången för CSP Program Updates Resource Gallery:
+### <a name="expanding-on-the-success-of-the-csp-program-updates-resource-gallery"></a>Expanderar på framgången för CSP Program Updates Resource Gallery:
 
 Resursplatsen för driftberedskap på partner.microsoft.com fungerar ungefär som det aktuella resursgalleriet för CSP-programuppdatering med några betydande förbättringar och ändringar, inklusive:
 
 - **Programsidor:** Det blir enkelt att hitta de senaste dokumentuppdateringarna för ett visst program med sidor som är förfiltreerade till innehåll endast för det programmet.
-- **Kraftfull gallerisökning:** Innehållsfilter gör det snabbare och enklare att hitta innehåll i program och innehåll, till exempel CSP.
-- **Meddelanden:** Det blir enklare att hitta de senaste meddelandena och de senaste dokumentuppdateringarna för ett visst program med sidor som är förfiltreerade till innehåll endast för det programmet. Det kommer att finnas en programsida för CSP, men CSP-meddelanden kommer att fortsätta publiceras i Partnercenter.
+- **Kraftfull gallerisökning:** Innehållsfilter gör det snabbare och enklare att hitta innehåll mellan program och innehåll, till exempel CSP.
+- **Meddelanden:** Det blir enklare att hitta de senaste meddelandena och de senaste dokumentuppdateringarna för ett visst program med sidor som är förfiltreerade till innehåll endast för det programmet. Det kommer även att finnas en programsida för CSP, men CSP-meddelanden kommer att fortsätta att publiceras i Partnercenter.
 - **Ny plats:** När den nya platsen för driftresurser är live på partner.microsoft.com kommer webbplatsen Microsoft Readiness och resursgalleriet för CSP-programuppdateringar inte längre att vara tillgängliga och omdirigerar användarna till den nya platsen för resursen för åtgärder. Partner kommer att kunna använda filter för innehållsprogram för att filtrera på CSP eller andra specifika programresurser.
-- **Innehållet expanderat:** Allt nytt och relevant innehåll från webbplatsen för Microsoft Readiness och resursgalleriet för CSP-programuppdateringar flyttas till den nya platsen för driftberedskap, vilket innebär att innehåll för fler program nu kommer att finnas på en plats.
+- **Innehåll expanderat:** Allt nytt och relevant innehåll från webbplatsen Microsoft Readiness och resursgalleriet för CSP-programuppdateringar flyttas till den nya platsen för driftberedskap, vilket innebär att innehåll för fler program nu kommer att finnas på en plats.
 
 ### <a name="next-steps"></a>Nästa steg
 
 Vad ska du göra för att förbereda dig?
 
-- **Läs mer om** den nya webbplatsen för Microsoft-partner för resurser för driftberedskap genom att granska det uppdaterade beredskapsmaterialet i gallerisamlingen Kommer snart – Resurser för driftberedskap [på ett och samma ställe.](https://partner.microsoft.com/resources/collection/readiness-in-one-place#/)
-- **Delta i ett april-partner-community-samtal** där du kan lära dig mer om den nya upplevelsen och ställa frågor: [https://globalpbocomm.eventbuilder.com/GlobalCSP](https://globalpbocomm.eventbuilder.com/GlobalCSP)
+- **Läs mer om** den nya webbplatsen för Microsoft-partner för resurser för driftberedskap genom att granska det uppdaterade beredskapsmaterialet i gallerisamlingen Kommer snart – Resurser för [driftberedskap på ett och samma ställe.](https://partner.microsoft.com/resources/collection/readiness-in-one-place#/)
+- **Delta i ett community-samtal för aprilpartner** där du kan lära dig mer om den nya upplevelsen och ställa frågor: [https://globalpbocomm.eventbuilder.com/GlobalCSP](https://globalpbocomm.eventbuilder.com/GlobalCSP)
 
 ### <a name="questions"></a>Har du några frågor?
 
@@ -633,7 +633,7 @@ Vad ska du göra för att förbereda dig?
 - 3 april 2020: Uppdaterad till Nu tillgänglig
 - 23 mars 2020: CSP Program Updates Resource Gallery transition to Operations Readiness resource location updated to April 3, 2020
 - 9 mars 2020: 30 dagars varsel, uppdaterat beredskapsmaterial
-- 14 februari 2020: Ursprungligt publiceringsdatum
+- 14 februari 2020: Ursprunglig publiceringsdatum
 
 _________________
 
@@ -648,12 +648,12 @@ _________________
 
 ### <a name="summary"></a>Sammanfattning
 
-Microsoft 365 Business Voice, ett molnbaserat telefonsystem som skapats för små och medelstora företag, kommer att vara tillgängligt i de länder som anges här från 1 april 2020.
+Microsoft 365 Business Voice, ett molnbaserat telefonsystem som skapats för små och medelstora företag, kommer att vara tillgängligt i de länder som anges här från den 1 april 2020.
 
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
-- Alla CSP-partner som arbetar i [dessa länder](https://partner.microsoft.com/resources/collection/microsoft_365_business_voice_in_csp#/).
-- Partner i Australien bör kontrollera våra riktlinjer nedan.
+- Alla CSP-partner som arbetar [i dessa länder](https://partner.microsoft.com/resources/collection/microsoft_365_business_voice_in_csp#/).
+- Partner i Australien bör läsa vår vägledning nedan.
 
 ### <a name="details"></a>Information
 
@@ -661,11 +661,11 @@ Den 1 april 2020 introducerar Microsoft Microsoft 365 Business Voice ytterligare
 
 ### <a name="customer-value-proposition"></a>Erbjudande om kundvärde
 
-Microsoft 365 Business Voice är ett molnbaserat telefonsystem för företag med upp till 300 användare. Det ger möjlighet att ringa och ta emot samtal från alla telefonnummer i Microsoft Teams. Tillsammans med Teams tillhandahåller den en allt-i-ett-kommunikationslösning som kombinerar samtal, chatt och möten.
+Microsoft 365 Business Voice är ett molnbaserat telefonsystem för företag med upp till 300 användare. Det ger möjlighet att ringa och ta emot samtal från alla telefonnummer i Microsoft Teams. Tillsammans med Teams den en allt-i-ett-kommunikationslösning som kombinerar samtal, chatt och möten.
 
-Microsoft 365 Business Voice förenklar och effektiviserar produktivitet och kommunikation till ett enda program som fungerar överallt där företag: på datorer, smarttelefoner och skrivbordstelefoner. Fördelarna med att Microsoft 365 Business Voice är:
+Microsoft 365 Business Voice förenklar och effektiviserar produktivitet och kommunikation till ett enda program som fungerar överallt där företag: på datorer, smarttelefoner och skrivbordstelefoner. Fördelarna med Microsoft 365 Business Voice bland annat:
 
-- Allt-i-ett-kommunikation. Transformera hur arbetet utförs genom att få en uppringning, chatt, möten, kalender och e-post.
+- Allt-i-ett-kommunikation. Transformera hur arbetet utförs genom att sammanse samtal, chatt, möten, kalender och e-post.
 - Enkelt och intelligent anrop. Kommunicera med mer flexibilitet, enkelhet och intelligens, så att du kan hålla dig ansluten.
 - Levereras från Microsoft-molnet. Arbeta tryggt med en tillförlitlig och säker molnbaserad lösning.
 
@@ -678,35 +678,35 @@ Microsoft 365 Business Voice är tillgängligt som ett tillägg till följande p
 
 Partner kan tjäna pengar på den här möjligheten genom att:
 
-- Aktivera telefonsystemet med samtalsköer/automatisk dirigering, utvärdera nätverkskvaliteten eller konfigurera direktroutning och ljudkonferenser.
-- Erbjuda tjänster för användaranpassning/utbildning för att skydda organisationens beredskap och börja använda det moderna Microsoft Teams.
+- Aktivera telefonsystemet med samtalsköer/automatisk dirigering, utvärdera nätverkskvaliteten eller konfigurera direktroutning och ljudkonferens.
+- Erbjuda tjänster för användaranpassning/utbildning för att skydda organisationens beredskap och börja använda det moderna kommunikationsverktyget, Microsoft Teams.
 - Stöd och övervakning av kundmiljön med hanterade tjänster som kvalitetsrapportering, enhetshantering och användarsupport.
 
 **Microsoft 365 Business Voice (USA, Kanada, Storbritannien)**
 
-Den 1 april 2020 blir Business Voice med samtalsplaner tillgängliga för köp i USA, efter vår lansering i Storbritannien och Kanada i november 2019.
+Den 1 april 2020 är Business Voice med samtalsplaner tillgängliga för köp i USA, efter vår lansering i Storbritannien och Kanada i november 2019.
 
-Ett tilläggserbjudande kommer också att vara tillgängligt för de kunder som vill ha funktioner för internationella samtal.
+Ett tillägg kommer också att vara tillgängligt för de kunder som vill ha internationella samtalsfunktioner.
 
 - Microsoft 365 Business Voice: 9f9f2c7b-c961-402b-9421-8e3c9207eeb3
-- Microsoft 365 Internationell samtalsplan för SMB: c01a89e5-d246-42d6-b21a-f4a1e9b04f56
+- Microsoft 365 International Calling Plan för SMB: c01a89e5-d246-42d6-b21a-f4a1e9b04f56
 
-**Microsoft 365 Business Voice Utan anropsplan (över 70 länder)**
+**Microsoft 365 Business Voice Utan samtalsplan (över 70 länder)**
 
-Från och med 1 april 2020 kan du också köpa erbjudandet Business Voice Without Calling Plan (Business Voice utan samtalsplan) som innehåller telefonsystem och ljudkonferenser. Det här erbjudandet är tillgängligt i alla länder som anges här.
+Från och med 1 april 2020 kan du också köpa erbjudandet Business Voice Without Calling Plan, som innehåller telefonsystem och ljudkonferenser. Det här erbjudandet är tillgängligt i alla länder som anges här.
 
 - **USA endast:** Microsoft 365 Business Voice utan anropsplan: 39d77d0f-eb8f-4ebc-b618-692e1cc59c8f
 - **Resten av världen:** Microsoft 365 Business Voice utan anropsplan: cc69a07c-8c51-457f-bb2a-f21a62d6bede
 
 Interagera med ditt lokala dotterbolag för att förstå hur du kan dra nytta av det här erbjudandet.
 
-### <a name="additional-guidance-for-partners-in-the-united-states-and-puerto-rico"></a>Ytterligare vägledning för partner i USA och Gör
+### <a name="additional-guidance-for-partners-in-the-united-states-and-puerto-rico"></a>Ytterligare vägledning för partner i USA och Puerto Puerto
 
-Business Voice är ett tax-inclusive-erbjudande i USA ochKommandot. Det pris som faktureras till partner och betalas av Partner till Microsoft inkluderar tillämpliga skatter och avgifter för US Telco. På andra marknader tillämpas skatterna enligt den normala faktureringsprocessen. Prata med din juridiska rådgivare om att sänka skatterna innan du bestämmer dig för att påse Business Voice. Om Business Voice har markerats måste partnern kunna betala telco-skatterna. Annars skulle partnern inte betala den inkrementella skatt på påsatsen, vilket resulterar i skatteöverträdelser. Microsoft tillhandahåller ytterligare CSP-incitament till partner för Business Voice i USA för att kompensera för potentiell brist på marginal.
+Business Voice är ett skatteerbjudande i USA och PuertoKommando. Det pris som faktureras till partner och betalas av partner till Microsoft inkluderar tillämpliga skatter och avgifter för US Telco. På andra marknader tillämpas skatter enligt den normala faktureringsprocessen. Prata med din juridiska rådgivare om att överföra skatter innan du bestämmer dig för att påse Business Voice. Om Business Voice har markerats måste partnern kunna betala telco-skatterna. Annars skulle partnern inte betala den inkrementella skatt som påförs, vilket resulterar i skatteöverträdelser. Microsoft tillhandahåller ytterligare CSP-incitament till partner för Business Voice i USA för att kompensera för potentiell brist på marginal.
 
 ### <a name="guidance-for-partners-in-australia"></a>Vägledning för partner i Australien
 
-Partner i Australien bör vara medvetna om att erbjudandet Microsoft 365 Business Voice Without Calling Plan inte kommer att vara tillgängligt i produktionsprislistan den 1 april 2020 – trots att det är tillgängligt i förhandsversionsprislistan i mars 2020. Tack för att du förstår.
+Partner i Australien bör vara medvetna om att erbjudandet Microsoft 365 Business Voice Without Calling Plan inte kommer att vara tillgängligt i produktionsprislistan den 1 april 2020 – trots att den är tillgänglig i förhandsversionsprislistan i mars 2020. Tack för att du förstår.
 
 ### <a name="further-countries"></a>Ytterligare länder
 
@@ -714,9 +714,9 @@ Med tiden hoppas vi kunna ta Microsoft 365 Business Voice alla länder där Offi
 
 ### <a name="next-steps"></a>Nästa steg
 
-- I vårt partnergalleri kan du lära dig mer om mervärdet i det här erbjudandet, samt etablera och konsolidera din Microsoft Teams: [Microsoft 365 Business Voice tillgänglighet i CSP](https://partner.microsoft.com/resources/collection/microsoft_365_business_voice_in_csp#/)
-- Bekanta dig med förhandsversionsprislistan och dela den här informationen med alla lämpliga kontakter i din organisation.
-- Interagera med ditt lokala One Commercial Partner-team om du vill veta mer om det här erbjudandet och hur du kan ta dig till marknaden på ett effektivt sätt
+- I vårt partnergalleri kan du lära dig mer om mervärdet i det här erbjudandet, samt fastställa och konsolidera din Microsoft Teams: [Microsoft 365 Business Voice tillgänglighet i CSP](https://partner.microsoft.com/resources/collection/microsoft_365_business_voice_in_csp#/)
+- Bekanta dig med prislistan för förhandsversionen och dela den här informationen med alla lämpliga kontakter i din organisation.
+- Ta kontakt med ditt lokala One Commercial Partner-team för att få mer information om det här erbjudandet och hur du kan ta dig till marknaden på ett effektivt sätt
 
 ### <a name="questions"></a>Har du några frågor?
 
@@ -725,8 +725,8 @@ Om du har fler frågor om dessa erbjudanden kontaktar du din representant i Micr
 ### <a name="change-log"></a>Ändringslogg
 
 - M365 Business Voice tillgänglig för amerikanska kunder: 1 april 2020
-- M365 Business Voice utan planlansering: 1 april 2020
-- Ursprungligt publiceringsdatum: 5 november 2019
+- M365 Business Voice utan att anropa planlansering: 1 april 2020
+- Ursprunglig publiceringsdatum: 5 november 2019
 
 _________________
 
@@ -739,7 +739,7 @@ _________________
 - Status: Nu tillgänglig
 - [Läs mer](https://partner.microsoft.com/resources/collection/new-microsoft-cloud-agreement-csp)
 
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 Alla CSP-partner.
 
 **Uppdatering 1 april 2020** Från och med den 31 januari 2020 bör alla partner i Molnlösningsleverantör-programmet (CSP) ha godkänt avtalet för alla deras transaktioner för CSP-klienter. Vi meddelade tidigare att nästa implementeringsfas för avtalet börjar i april 2020.För att förhindra avbrott i verksamheten har vi beslutat att utöka nästa implementeringsfas till och med april 2020. Vi har fått feedback från några av våra Molnlösningsleverantör partner om att de har haft problem med att godkänna MPA. Utifrån dessa omständigheter arbetar vi för att säkerställa att Microsoft-resurser finns på plats för att stödja partner som har haft problem med att godkänna avtalet.
@@ -770,8 +770,8 @@ Mer information och resurser finns på CSP-gallerisidan [här.](https://partner.
 Vi är medvetna om tekniska problem som indirekta leverantörer stöter på när de testar transaktionsövervakningsfunktionerna. Dessa problem kommer att lösas i april 2020.
 
 ### <a name="actions-for-indirect-resellers"></a>Åtgärder för indirekta återförsäljare
-1. [Registrera dig på Partner Center](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp#/) som indirekt återförsäljare och acceptera Microsoft-partneravtal som en del av onboarding-processen.
-2. Om du tidigare har gått med i PartnerCenter som indirekt återförsäljare godkänner du Microsoft-partneravtal på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/pcv/dashboard/overview) med autentiseringsuppgifter för global administratör.
+1. [Registrera dig på Partner Center](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp#/) som indirekt återförsäljare och godkänn Microsoft-partneravtal som en del av onboarding-processen.
+2. Om du tidigare har gått med i Partnercenter som indirekt återförsäljare godkänner du Microsoft-partneravtal på instrumentpanelssidan i [Partnercenter](https://partner.microsoft.com/pcv/dashboard/overview) med autentiseringsuppgifter för global administratör.
 Specifik information och resurser för indirekta återförsäljare är tillgängliga via återförsäljares CSP-galleri [här.](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp#/)
 
 ### <a name="change-log"></a>Ändringslogg

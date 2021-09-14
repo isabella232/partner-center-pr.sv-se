@@ -38,7 +38,7 @@
         - name: Vanliga frågor och svar om förmåner
           href: benefits-faq.yml
           displayName: 'renew, license,'
-        - name: Visa eller ladda ned din MPN-faktura
+        - name: Visa eller ladda ned DIN MPN-faktura
           href: mpn-view-print-maps-invoice.md
     - name: Tillgängliga fördelar
       items:
@@ -254,7 +254,7 @@
           href: routing-rules.md
         - name: Använda CRM-anslutningsprogram för säljsamarbete
           items:
-            - name: Anslutningsapp för Dynamics 365
+            - name: Anslutning för Dynamics 365
               href: connector-dynamics.md
             - name: Anslutningsapp för Salesforce
               href: connector-salesforce.md
@@ -267,6 +267,8 @@
           displayName: mpn
     - name: Registrera dina avtal
       href: register-deals.md
+    - name: Vanliga frågor och svar om hänvisningar
+      href: referrals-faq.md
     - name: Hänvisningsanalys
       items:
         - name: Få insikter om leads
@@ -440,7 +442,7 @@
         - name: Konfigurera utbetalningskonto och deklarationsblanketter
           href: set-up-your-payout-account.md
           displayName: 'region, regio'
-        - name: Så här påverkar skatteprinciper utbetalningen
+        - name: Hur skatteprinciper påverkar utbetalning
           href: tax-policies-affect-payout.md
     - name: Ange en Azure-utgiftsbudget för dina kunder
       href: set-an-azure-spending-budget-for-your-customers.md
@@ -558,7 +560,7 @@
         - name: Roller och behörigheter för partnerintjänad kredit
           href: azure-roles-perms-pec.md
           displayName: 'role, roles, ro'
-        - name: Vanliga frågor och svar om partners intjänade kredit
+        - name: Vanliga frågor och svar om partner-intjänad kredit
           href: partner-earned-credit-faq.md
           displayName: 'faq, partner earned credit'
         - name: Felsöka partners intjänade kredit

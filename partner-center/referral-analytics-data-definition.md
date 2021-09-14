@@ -9,11 +9,11 @@ author: v-sausharma
 ms.author: v-sausharma
 ms.localizationpriority: medium
 ms.openlocfilehash: e2409dcbfd2a9de677ef4ec79bf8749072859325
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961483"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246727"
 ---
 # <a name="referral-analytics-export--data-definitions"></a>Export av hänvisningsanalys – datadefinitioner
 
@@ -21,20 +21,20 @@ ms.locfileid: "123961483"
 
 ## <a name="introduction"></a>Introduktion
 
-Genom att använda knappen Exportera på sidan lead- och säljförsäljningsanalys kan du exportera rådatauppsättningarna.
+Genom att använda knappen Exportera på sidan Lead- och säljförsäljningsanalys kan du exportera rådatauppsättningarna.
 
 De olika rapporterna, som du kan ladda ned tillsammans med deras datadefinitioner, visas i följande tabeller:
 
-## <a name="leads-export"></a>Leadsexport
+## <a name="leads-export"></a>Export av leads
 
 |   Kolumnnamn |   Databeskrivning    |
 |----|----|
 |   Hänvisningskod |   Unikt ID för hänvisning  |
 |   Kundland    |   Kundens land |
 |   Kundnamn   |   Kundens namn    |
-|   Skapandedatum för referens  |   Skapandedatum för referens   |
+|   Skapandedatum för referens  |   Skapandedatum för hänvisning   |
 |   Referenskälla |   Källa för hänvisningen: Kvalificerad, Marketplace  |
-|   Hänvisningstyp   |   Typ av lead    |
+|   Referenstyp   |   Typ av lead    |
 |   Leadriktning  |   Leadens riktning   |
 |   Leadvaluta   |   Leadens valuta    |
 |   Leadvärde  |   Beräknat leadvärde som tillhandahålls av partner    |
@@ -50,9 +50,9 @@ De olika rapporterna, som du kan ladda ned tillsammans med deras datadefinitione
 |    ----    |    ----    |
 |   Hänvisningskod |   Unikt ID för hänvisning  |
 |   Kundland    |   Kundens land |
-|   Kundens stad   |   Kundens stad    |
+|   Kundstad   |   Kundens stad    |
 |   Kundnamn   |   Kundens namn    |
-|   Skapandedatum för referens  |   Skapandedatum för referens   |
+|   Skapandedatum för referens  |   Skapandedatum för hänvisning   |
 |   Avtalstyp   |   Typ av avtal: samförsäljning, partnerledd, privat |
 |   Avtalsriktning  |   Avtalets riktning: Inkommande och utgående    |
 |   Avtalsvaluta   |   Avtalets valuta    |
@@ -60,19 +60,19 @@ De olika rapporterna, som du kan ladda ned tillsammans med deras datadefinitione
 |   Beräknat avtalsvärde (USD)  |   Beräknat avtalsvärde som tillhandahålls av partner i USD |
 |   Lösnings-ID     |   Lista över lösnings-ID |
 |   Namn på lösning   |   Lista över lösningsnamnen  |
-|   MPN-ID  |   Microsofts partnernätverks-ID för partnern |
-|   Partnernamn    |   Namnet på partnern |
+|   MPN-ID  |   Microsoft-partnerns nätverks-ID för partnern |
+|   Partnernamn    |   Partnerns namn |
 |   Avtals-ID |   ID för avtalet  |
 |   Engagemangs-ID   |   Unikt engagemangs-ID    |
 |   Microsoft MSX-ID    |   MSX-ID för avtal  |
-|   Skapandedatum för Microsoft-hänvisning    |   Skapandedatum för referens från microsoft |
+|   Skapandedatum för Microsoft-hänvisning    |   Skapandedatum för hänvisning från microsoft |
 |   Förnamn för registrerad kontakt   |   Förnamnet på partnerkontakten som angavs under avtalsregistreringen |
-|   Registrerade kontaktens efternamn    |   Efternamnet på partnerkontakten som angavs under avtalsregistreringen  |
-|   E-postadress för registrerad kontakt    |   E-postadress till partnerkontakten som angavs under avtalsregistreringen  |
+|   Efternamn för registrerad kontakt    |   Efternamnet på partnerkontakten som angavs under avtalsregistreringen  |
+|   E-postadress för registrerad kontakt    |   E-postadress för partnerkontakt som angavs under avtalsregistreringen  |
 |   Registrerat kontakttelefonnummer |   Telefon antal partnerkontakter som angavs under avtalsregistreringen   |
-|   Kontraktsvaluta   |   Kontraktsvaluta som angavs under avtalsregistreringen  |
+|   Kontraktsvaluta   |   Kontraktsvalutan som angavs under avtalsregistreringen  |
 |   Kontraktvärde  |   Totalt kontraktsvärde som angavs under avtalsregistreringen. Detta inkluderar programvaru- och tjänstavgifter men inte maskinvarukostnader  |
-|   Kontraktsvärde (USD)    |   Totalt kontraktsvärde i USD som angavs under avtalsregistreringen   |
+|   Kontraktvärde (USD)    |   Totalt kontraktsvärde i USD som angavs under avtalsregistreringen   |
 |   Kontraktets startdatum |   Startdatumet för det kontrakt som angavs under avtalsregistreringen    |
 |   Slutdatum för kontrakt   |   Slutdatum för det kontrakt som angavs under avtalsregistreringen  |
 |   Datum för kontraktstecken  |   Signeringsdatum för det kontrakt som angavs under avtalsregistreringen |

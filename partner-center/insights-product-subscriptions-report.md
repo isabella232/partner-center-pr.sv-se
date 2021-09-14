@@ -10,15 +10,15 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: eefb4f4ee6657acf583ad0b5d4149e662c320184
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960253"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246811"
 ---
-# <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Rapport för produktprenumerationer som är tillgänglig från Partnercenter Insights instrumentpanel
+# <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Rapport för produktprenumerationer som är tillgänglig Insights Partnercenter
 
-**Lämpliga roller:** Globala | Administratörsagentens | Rapportvisningsprogram | Rapportvisningsprogram för chefer
+**Lämpliga roller:** Global | Administratörsagentens | Rapportvisningsprogram | Rapportvisningsprogram för chefer
 
 Rapporten Produktprenumerationer visar analys av molnprenumerationer som du har sålt eller som du hanterar för dina kunder. Det här är en produktspecifik rapport som innehåller prestanda för prenumerationer som är associerade med molnprodukter som Office 365, Azure, Dynamics med flera.
 

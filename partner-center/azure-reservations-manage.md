@@ -10,20 +10,20 @@ ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
 ms.openlocfilehash: 627c6f8d09a904e7d988c4229ec10eeac38dc2e9
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959983"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246361"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Hantera, avbryta, byta eller återbetala Microsoft Azure reservationer för kunder
 
-**Lämpliga roller:** Administratörsagent | Global | Supportagent | Försäljningsagentens | Administratör för användarhantering
+**Lämpliga roller:** Administratörsagent | Global | Supportagent | Försäljningsagent | Administratör för användarhantering
 
 Den här artikeln beskriver hur du hanterar Azure-reservationer för en kund, inklusive hur du avbryter en reservation, byter ut en reservation eller begär en återbetalning.
 
 > [!NOTE]
-> Den här artikeln gäller endast för partner i Molnlösningsleverantör-programmet (CSP). Kunder som använder andra typer av prenumerationer (till exempel betala enligt användning, enskilda prenumerationer, Microsoft-kundavtal eller företagsavtal-prenumerationer) bör i stället läsa dokumentationen om [Azure-reservationer.](/azure/cost-management-billing/reservations)
+> Den här artikeln gäller endast för partner i programmet Molnlösningsleverantör (CSP). Kunder som använder andra typer av prenumerationer (till exempel betala enligt användning, enskilda prenumerationer, Microsoft-kundavtal eller företagsavtal-prenumerationer) bör i stället läsa dokumentationen om [Azure-reservationer.](/azure/cost-management-billing/reservations)
 
 Om du vill hantera dina kunders Azure-reservationer efter köpet väljer du den kund och reservation som du vill hantera i Partnercenter och gör sedan ändringar i reservationen i Azure Portal.
 
@@ -78,7 +78,7 @@ Om du vill skicka en supportbegäran om återbetalning eller utbyte för dina ku
 
 2. På kundens informationssida väljer du **Azure-reservationer och** sedan den specifika reservation som kunden vill få återbetalning för.  
 
-3. Under **Åtgärder** väljer du **Återbetalning** för att gå till kundens reservationspost i Azure Portal initiera en supportbegäran.  
+3. Under **Åtgärder** väljer du **Återbetalning** för att gå till kundens reservationspost i Azure Portal och initiera en supportbegäran.  
 
 4. På sidan **Ny supportbegäran** följer du stegen nedan för att begära en återbetalning. Välj **Nästa** efter varje steg. 
 

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
-description: Lär dig hur du återställer ett inaktiverat Partnercenter-konto, varför ett partnerkonto inaktiveras och hur du kan använda ditt konto under indragningen.
+description: Lär dig hur du återställer ett inaktiverat Partnercenter-konto, varför ett partnerkonto har inaktiverats och hur du kan använda ditt konto under indragningen.
 author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 84448566bb3a5d4ef8655ccfee86e7d39f4a6642
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961562"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246726"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Återställa ett inaktiverat Partnercenter-konto – ta reda på varför det hände och vad du kan göra åt det
 

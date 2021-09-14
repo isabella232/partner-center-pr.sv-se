@@ -10,11 +10,11 @@ ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 7ca839abb193f09d37769e14eedf08ea415e902f
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961023"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247476"
 ---
 # <a name="new-commerce-experience-for-license-based-services"></a>Ny handelsupplevelse för licensbaserade tjänster
 

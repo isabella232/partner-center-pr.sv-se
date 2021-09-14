@@ -10,11 +10,11 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: bd1f9d0a881021fc97bbf94eb190acb6e6e69f14
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960093"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246900"
 ---
 # <a name="discover-offers-and-pricing-in-partner-center-commercial-marketplace"></a>Upptäck erbjudanden och priser på den kommersiella marknadsplatsen i Partnercenter
 
@@ -24,11 +24,11 @@ När oberoende programvaruleverantörer väljer att publicera ett erbjudande på
 
 Om ett ISV-erbjudande inte visas som förväntat i Partnercenter kan det beror på att:
 
-- ISV:en valde att inte sälja erbjudandet via CSP-programmet. Vissa ISV-produkter kan till exempel ha gjorts tillgängliga i andra områden på den kommersiella marknadsplatsen (till exempel [i Microsoft AppSource](https://appsource.microsoft.com/) och [Azure Marketplace](https://azuremarketplace.microsoft.com/)), men de kanske inte visas för partner i CSP-programmet på Partner Center Marketplace.
+- ISV:en valde att inte sälja erbjudandet via CSP-programmet. Till exempel kan vissa ISV-produkter ha gjorts tillgängliga i andra områden på den kommersiella marknadsplatsen (till exempel [i Microsoft AppSource](https://appsource.microsoft.com/) och [Azure Marketplace](https://azuremarketplace.microsoft.com/)), men de kanske inte visas för partner i CSP-programmet på Partner Center Marketplace.
 
 - ISV:en bestämde sig för att göra erbjudandet exklusivt för ett visst antal CSP-partner. Mer information om exklusiva erbjudanden finns längre fram i det här hjälpavsnittet.
 
-- Erbjudandetypen kanske inte kan användas via Partnercenter eller Azure Portal (t.ex. Containrar eller vissa användningsbaserade erbjudanden).
+- Erbjudandetypen kanske inte kan användas via Partnercenter eller Azure Portal (t.ex. containrar eller vissa användningsbaserade erbjudanden).
 
 - Faktureringsland för dina associerade kunder kanske inte stöds för det här ISV-erbjudandet.
 

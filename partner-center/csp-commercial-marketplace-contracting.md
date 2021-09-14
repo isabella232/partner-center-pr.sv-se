@@ -10,16 +10,16 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 4304d57e122adcfbb36cf32a302d316174b26d90
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960133"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246901"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Kontrakt för CSP-partner som gör affärer på den kommersiella marknadsplatsen
 
 
-**Lämpliga roller:** Globala | Administratörsagent
+**Lämpliga roller:** Global | Administratörsagent
 
 Den här artikeln handlar om kontrakt för partner i CSP-programmet som väljer att köpa ISV Marketplace-erbjudanden eller produkter till sina kunder från Den kommersiella marknadsplatsen i Partnercenter eller Azure Portal.
 

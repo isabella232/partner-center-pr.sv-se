@@ -10,11 +10,11 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 3048bad7912f101e1c332e54eff981473f0f31d7
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961043"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246582"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Förstå användningsbaserade avstämningsfiler och deras specifika fält i Partnercenter
 
@@ -32,7 +32,7 @@ I följande fält förklaras vilka tjänster som användes och priset.
 | PartnerName | Partnerns namn. | *Contoso, Ltd.* |
 | PartnerBillableAccountId | Partnerkontoidentifierare. | *1010578050* |
 | CustomerCompanyName | Kundens organisationsnamn enligt det som rapporteras i Partnercenter. *Detta är mycket viktigt för att stämma av fakturan med systeminformationen.* | *Testa kund* |
-| MpnId | Microsoft Partner Network (MPN)-identifierare för Molnlösningsleverantör(CSP)-partnern. | *4390934* |
+| MpnId | Microsoft Partner Network (MPN) för CSP-partnerns (Molnlösningsleverantör). | *4390934* |
 | ResellerMpnId | MPN-identifierare för återförsäljaren av posten för prenumerationen.  |
 | InvoiceNumber | Fakturanummer där den angivna transaktionen visas. | *D020001IVK* |
 | ChargeStartDate | Startdatum för faktureringsperioden, förutom när du presenterar datum för tidigare ej debiterade latent användningsdata (från föregående faktureringsperiod). Tiden är alltid början på dagen, 0:00. | *2/1/2019 0:00* |
@@ -65,11 +65,11 @@ I följande fält förklaras vilka tjänster som användes och priset.
 | Enhet | Enheten för **resursnamnet**. | *GB* eller *TIMMAR* |
 | CustomerBillableAccount | Unikt konto-ID på Microsofts faktureringsplattform. | *1280018095* |
 | UsageDate | Datum för tjänstdistribution. | *2/1/2019 0:00* |
-| MeteredRegion | Identifierar platsen för ett datacenter i regionen (för tjänster där det här värdet är tillämpligt och ifylld). | *Asien, östra*, *Asien, sydöstra*, *Europa, norra,* *Europa, västra,* *USA, norra centrala,* *USA, södra centrala* |
-| MeteredService | Identifierar den enskilda Azure-tjänstanvändningen när den inte identifieras specifikt i **kolumnen ServiceName.** Dataöverföringar rapporteras till exempel som Microsoft Azure *– Alla tjänster* i kolumnen **ServiceName.** | *AccessControl,* *CDN,* *Compute*, *Database,* *ServiceBus*, *Storage* |
+| MeteredRegion | Identifierar platsen för ett datacenter i regionen (för tjänster där det här värdet är tillämpligt och ifylld). | *Asien, östra*, *Asien, sydöstra*, *Europa, norra,* *Europa, västra*, *USA, norra centrala,* *USA, södra centrala* |
+| MeteredService | Identifierar den enskilda Azure-tjänstanvändningen när den inte identifieras specifikt i **kolumnen ServiceName.** Dataöverföringar rapporteras till exempel som Microsoft Azure *– Alla tjänster* i kolumnen **ServiceName.** | *AccessControl,* *CDN,* *Compute,* *Database,* *ServiceBus*, *Storage* |
 | MeteredServiceType | Jag vill **veta mer om fältet MeteredService** som förtydligar användningen av Azure-tjänster. | *EXTERNA* |
 | Project | Kunddefinierat namn för tjänstinstansen. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
-| ServiceInfo | Antalet Azure Service Bus anslutningar som etablerades och används en viss dag. | *1.000000 anslutningar/30* dagar (om du har en individuellt etablerad anslutning under en 30-dagars månad), *25 anslutningar/30 dagar – används: 1.000000* (om du hade ett 25-paket med Service Bus-anslutningar etablerade och du använde 1 under den dagen) |
+| ServiceInfo | Antalet Azure-anslutningar Service Bus som etablerades och används en viss dag. | *1.000000 anslutningar/30* dagar (om du har en individuellt etablerad anslutning under en 30-dagars månad), *25 anslutningar/30 dagar – används: 1.000000* (om du hade ett 25-paket med Service Bus-anslutningar etablerade och du använde 1 under den dagen) |
 
 ## <a name="next-steps"></a>Nästa steg
 

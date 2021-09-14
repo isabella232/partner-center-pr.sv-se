@@ -9,11 +9,11 @@ ms.author: sroy
 ms.localizationpriority: medium
 ms.date: 03/01/2021
 ms.openlocfilehash: 798a8a7d26480e8a1fc23bca3af45bd6a0e44778
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960306"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247033"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm-overview"></a>Översikt över anslutningsappen för säljförsäljning för Dynamics 365 CRM
 
@@ -28,7 +28,7 @@ Partnercenter- och säljkopplingar gör det möjligt för säljarna att samförs
  
 Du kan också få uppdateringar från Microsofts säljare om dessa samförsäljningserbjudanden. Du kan hantera alla hänvisningar som fungerar i valfri CRM i stället för i Partnercenter.
 
-Lösningen är baserad på Power Automate och använder Partner Center-API:er.
+Lösningen är baserad på Power Automate använder Partner Center-API:er.
 
 ## <a name="prerequisites"></a>Förutsättningar
 
@@ -36,12 +36,12 @@ Kontrollera att du uppfyller följande krav innan du installerar lösningen.
 
 | Ämnen   | Information   | Länkar   |
 |--------------|--------------------|------|
-| MICROSOFT PARTNER NETWORK -ID (MPN) |Du behöver ett giltigt MPN-ID. | [Anslut till partnernätverket](https://partner.microsoft.com/) |
+| Microsoft Partner Network (MPN) ID |Du behöver ett giltigt MPN-ID. | [Anslut till partnernätverket](https://partner.microsoft.com/) |
 | Redo för säljförsäljning|Din IP-/tjänstlösning måste vara redo för säljförsäljning. | [Sälja med Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft) |
 | Partnercenter-konto | MPN-ID:t som är associerat med Partnercenter-klienten måste vara samma som det MPN-ID som är associerat med din säljpartnerlösning. Kontrollera att du kan se dina hänvisningar till säljförsäljning i Partnercenter-portalen innan du distribuerar anslutningsapparna. | [Hantera ditt konto](create-user-accounts-and-set-permissions.md) |
 | Användarroller i Partnercenter | Medarbetaren som ska installera och använda anslutningsapparna måste vara referensadministratör.|[Tilldela användarroller och -behörigheter](create-user-accounts-and-set-permissions.md) |
 | Dynamics 365 CRM|CRM-användarrollen är Systemadministratör eller Systemanpassare.|[Tilldela roller i Dynamics 365](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization) |
-| Power Automate flödeskonto|Skapa en ny produktionsmiljö med en databas för testning, mellanlagring och produktion. Om du har en befintlig produktionsmiljö med en databas kan den återanvändas. Den användare som ska installera anslutningslösningen måste ha en Power Automate och åtkomst till den här miljön. Du kan övervaka förloppet och få mer information [i Power Automate](https://flow.microsoft.com/) om installationen misslyckas. Välj **Visa historik** under **Lösningar**. | [Skapa eller hantera miljö](/power-platform/admin/create-environment#create-an-environment-with-a-database) |
+| Power Automate flödeskonto|Skapa en ny produktionsmiljö med en databas för testning, mellanlagring och produktion. Om du har en befintlig produktionsmiljö med en databas kan den återanvändas. Den användare som ska installera anslutningslösningen måste ha en Power Automate licens och åtkomst till den här miljön. Du kan övervaka förloppet och få mer information [i Power Automate](https://flow.microsoft.com/) om installationen misslyckas. Välj **Visa historik** under **Lösningar**. | [Skapa eller hantera miljö](/power-platform/admin/create-environment#create-an-environment-with-a-database) |
 
 ## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>Installera synkronisering av partnercenterreferenser för Dynamics 365 (Power Automate lösning)
 
@@ -61,7 +61,7 @@ Kontrollera att du uppfyller följande krav innan du installerar lösningen.
 
 7. En sida visas där du kan välja CRM-miljön (Dynamics 365) för att installera programmet. Godkänn villkoren.
 
-8. Du kan övervaka förloppet och om installationen misslyckas kan du få mer information i Power Automate välja **Se historik** under **Lösningar**.
+8. Du kan övervaka förloppet och, om installationen misslyckas, kan du få mer information i Power Automate genom att välja **Se historik** under **Lösningar**.
 
 9. När installationen är klar går du tillbaka [till Power Automate](https://flow.microsoft.com) och **väljer Lösningar** till vänster. **Synkronisering av partnercenterreferenser för Dynamics 365** finns nu i **listan över** lösningar.
 
@@ -71,7 +71,7 @@ Kontrollera att du uppfyller följande krav innan du installerar lösningen.
 
 ## <a name="test-before-you-go-live"></a>Testa innan du går live
 
-Innan du installerar, konfigurerar och anpassar Power Automate-lösningen i produktionsmiljön testar du lösningen på en CRM-mellanlagringsinstans. Du måste:
+Innan du installerar, konfigurerar och anpassar Power Automate i produktionsmiljön testar du lösningen på en CRM-mellanlagringsinstans. Du måste:
 
 - Installera lösningen Power Automate en CRM-instans i en mellanlagringsmiljö.
 - Konfigurera och anpassa Power Automate i en mellanlagringsmiljö.
@@ -152,7 +152,7 @@ Du kan använda Partner Center-webhook-API:er för att registrera dig för resur
 
    :::image type="content" source="images/webhook-video.gif" alt-text="Skärmbild som visar hur du registrerar resursändringar med hjälp av webhooks.":::
 
-4. Välj flödet **Partnercenter Webhook Registration (Insider Preview)** Power Automate och välj sedan **Kör.**
+4. Välj flödet **Partner Center Webhook Registration (Insider Preview)** Power Automate och välj sedan **Kör.**
 
 5. Kontrollera att **fönstret Kör flöde** öppnas i den högra rutan och välj **Fortsätt.**
 
@@ -170,7 +170,7 @@ Webhooken kan nu lyssna på, skapa och uppdatera händelser.
 
 CRM-system är mycket anpassade och du kan anpassa Power Automate baserat på din CRM-konfiguration. När hänvisningar till säljförsäljning synkroniseras mellan Partner Center och ditt CRM-system visas fälten som synkroniseras på Partner Center-datorn i guiden Anpassad [fältmappning.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxL6S)
 
-Följ guiden för fältmappning och gör vid behov lämpliga ändringar i [Anpassa] Skapa eller Hämta information från **Dynamics 365-flöde** eller miljövariabler. Uppdatera inte andra flöden i den här Power Automate eftersom det kan påverka framtida lösningsuppgraderingar.
+Följ guiden för fältmappning och gör vid behov lämpliga ändringar i [Anpassa] Skapa eller Hämta information från **Dynamics 365-flöde** eller miljövariabler. Uppdatera inte andra flöden i den nya Power Automate eftersom det kan påverka framtida lösningsuppgraderingar.
 
 Följande anpassningar är tillgängliga:
 
@@ -208,7 +208,7 @@ När du har installerat, konfigurerat och anpassat Power Automate-lösningen kan
 
 ### <a name="prerequisites"></a>Förutsättningar
 
-För att synkronisera hänvisningarna i Partner Center och Dynamics 365 CRM avgränsar Power Automate-lösningen tydligt Microsoft-specifika referensfält. Den här identifieringen ger säljteamen möjlighet att bestämma vilka hänvisningar de vill dela med Microsoft för säljförsäljning.
+För att synkronisera hänvisningarna i Partner Center och Dynamics 365 CRM avgränsar Power Automate-lösningen tydligt Microsoft-specifika hänvisningsfält. Den här identifieringen ger säljteamen möjlighet att bestämma vilka hänvisningar de vill dela med Microsoft för säljförsäljning.
 
 En uppsättning anpassade fält och objekt läggs till som en del av lösningsinstallationen. En CRM-administratörsanvändare måste skapa ett separat CRM-avsnitt med de **anpassade affärsmöjlighetsfälten.**
 
@@ -219,26 +219,26 @@ Följande anpassade fält bör ingå i CRM-avsnittet:
 - **Hänvisningslänk:** En skrivskyddade länk till hänvisningen i Partnercenter.
 - **Hur kan Microsoft hjälpa till?**: Hjälp krävs av Microsoft för hänvisningen. Om du vill skapa en hänvisning om säljförsäljning väljer du lämplig hjälp som krävs av Microsoft. En kundkontakt måste kopplas till möjligheten att skapa en hänvisning för säljförsäljning. Välj inte det här fältet om du vill skapa en referens för icke-säljförsäljning. En hänvisning som inte gäller säljförsäljning kan konverteras till en hänvisning om säljförsäljning när som helst genom att välja lämpligt alternativ som krävs för hjälp.
 - **Referenssynlighet för Microsoft Partner Center:** Välj synlighet för Partnercenter-hänvisningen. Genom att göra den synlig för Microsoft-säljare kan en hänvisning om icke-säljande kan konverteras till samförsäljning. När Microsoft-hjälp krävs är referensen synlig för Microsoft-säljare som standard. När det här fältet har markerats som synligt kan det inte återställas.
-- **Microsoft CRM identifierare:** När en hänvisning om säljförsäljning skapas och godkänns av Microsoft fylls det här fältet i med Microsofts CRM-identifierare.
+- **Microsoft CRM identifierare:** När en hänvisning till säljförsäljning skapas och godkänns av Microsoft fylls det här fältet i med Microsofts CRM-identifierare.
 - **Produkter: Föråldrad:** Använd inte det här fältet eller lägg till det i CRM-avsnittet. Den är endast tillgänglig för bakåtkompatibilitet. Använd Partner Center-lösningar i stället.
 - **Granskning:** En skrivskyddade granskningslogg för synkronisering med PartnerCenter-referenser.
-- **Microsoft Partner Center-lösningar:** Ett anpassat objekt för att associera lösningar som är redo för säljförsäljning eller Microsoft-lösningar med affärsmöjligheten. En eller flera lösningar kan läggas till eller tas bort från affärsmöjligheten. Det är obligatoriskt att lägga till minst en säljklar eller Microsoft-lösning till affärsmöjligheten innan du delar den med Microsoft. Om du vill associera det här objektet med affärsmöjligheten uppdaterar du **formuläret Affärsmöjlighet** i CRM.
+- **Microsoft Partner Center-lösningar:** Ett anpassat objekt för att associera lösningar som är redo för säljförsäljning eller Microsoft-lösningar med affärsmöjligheten. En eller flera lösningar kan läggas till eller tas bort från affärsmöjligheten. Det är obligatoriskt att lägga till minst en sälj säljklar eller Microsoft-lösning till affärsmöjligheten innan du delar den med Microsoft. Om du vill associera det här objektet med affärsmöjligheten uppdaterar du **formuläret Affärsmöjlighet** i CRM.
 
-  Välj lämplig flik i formuläret **Affärsmöjlighet** och lägg till ett underrutnät enligt det som visas här.
+  Välj lämplig flik i formuläret **Affärsmöjlighet** och lägg till ett underrutnät som visas här.
 
   :::image type="content" source="images/cosellconnectors/dynamics-6.png" alt-text="Skärmbild som visar formuläret Affärsmöjlighet.":::
 
   :::image type="content" source="images/cosellconnectors/dynamics-7.png" alt-text="Skärmbild som visar Microsoft Solutions.":::
 
-- När du har lagt till Microsoft-lösningar kan du fylla i information om säljklara lösningar i förväg så att säljarna inte behöver lägga till dem. Om du vill lägga till en ny lösningsinformation går  du till objektet Microsoft Solution Details i CRM och väljer Lägg till post för att lägga till en post eller använder **Excel upload** för att lägga till flera poster.
+- När du har lagt till Microsoft-lösningar kan du fylla i information om säljklara lösningar i förväg så att säljarna inte behöver lägga till dem. Om du vill lägga till en ny lösningsinformation går  du till objektet Microsoft Solution Details i CRM och väljer Lägg till post för att lägga till en post eller använder Excel **upload** för att lägga till flera poster.
 
   :::image type="content" source="images/cosellconnectors/dynamics-solution-1.png" alt-text="Skärmbild som visar information om ny Microsoft-lösning.":::
 
 ### <a name="scenarios"></a>Scenarier
 
-1. Hänvisningssynkronisering när hänvisning skapas eller uppdateras i CRM och synkroniseras i Partnercenter:
+1. Referenssynkronisering när en hänvisning skapas eller uppdateras i CRM och synkroniseras i Partnercenter:
 
-   1. Logga in på dynamics 365 CRM-miljön med den användare som har insyn i **avsnittet Affärsmöjlighet** i CRM.
+   1. Logga in på Dynamics 365 CRM-miljön med användaren som har insyn i **avsnittet Affärsmöjlighet** i CRM.
 
    1. Se till att **avsnittet Microsoft Partner Center** visas när du skapar en ny affärsmöjlighet i Dynamics 365-miljön.
 
@@ -246,7 +246,7 @@ Följande anpassade fält bör ingå i CRM-avsnittet:
 
    1. Om du vill synkronisera den här affärsmöjligheten med Partnercenter måste du ange följande fält i kortvyn:
 
-      - **Hur kan Microsoft hjälpa till?**: Om du vill skapa en hänvisning till säljförsäljning väljer du ett lämpligt hjälpalternativ.
+      - **Hur kan Microsoft hjälpa till?**: Välj ett lämpligt hjälpalternativ för att skapa en hänvisning till säljförsäljning.
 
          :::image type="content" source="images/cosellconnectors/dynamics-solution-3.png" alt-text="Skärmbild som visar hur du hämtar lämpliga fält i kortvyn.":::
 
@@ -256,25 +256,25 @@ Följande anpassade fält bör ingå i CRM-avsnittet:
 
         :::image type="content" source="images/cosellconnectors/dynamics-solution-4.png" alt-text="Skärmbild som visar lösnings-ID.":::
 
-   1. När affärsmöjligheten har skapats i Dynamics 365 med alternativet Synkronisera med **Partnercenter** inställt på Ja väntar du 10 minuter. Logga sedan in på ditt Partnercenter-konto. Dina hänvisningar synkroniseras med Dynamics 365 och **hänvisningsidentifieraren**. **Referenslänken** fylls i. Om det uppstår ett fel **fylls fältet** Granskning i med felinformation.
+   1. När affärsmöjligheten har skapats i Dynamics 365 med alternativet Synkronisera med **Partnercenter** inställt på Ja väntar du 10 minuter. Logga sedan in på ditt Partnercenter-konto. Dina hänvisningar synkroniseras med Dynamics 365 och **hänvisningsidentifieraren**. **Referenslänk** fylls i. Om det uppstår ett fel **fylls fältet** Granskning med felinformation.
 
       1. På samma sätt synkroniseras ändringarna i ditt Partnercenter-konto för en affärsmöjlighet med alternativet Synkronisera med **Partnercenter** inställt på Ja. Om du uppdaterar affärsmöjligheten i Dynamics 365 CRM.
 
-      1. Affärsmöjligheter som har synkroniserats med Partnercenter identifieras med ✔ikon i Dynamics 365.
+      1. Affärsmöjligheter som har synkroniserats med Partnercenter identifieras med ✔icon i Dynamics 365.
 
-1. Hänvisningssynkronisering när hänvisningen skapas eller uppdateras i Partnercenter och synkroniseras i Dynamics 365-miljön:
+1. Referenssynkronisering när referensen skapas eller uppdateras i Partnercenter och synkroniseras i Dynamics 365-miljön:
 
    1. Logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard/home)
 
    1. Välj **Referenser på** den vänstra menyn.
 
-   1. Skapa en ny hänvisning till säljförsäljning från Partnercenter genom att välja **alternativet Nytt** avtal.
+   1. Skapa en ny hänvisning om säljförsäljning från Partnercenter genom att välja **alternativet Nytt** avtal.
 
    1. Logga in på din Dynamics 365 CRM-miljö.
 
    1. Gå till **Öppna affärsmöjligheter.** Hänvisningen som skapades i Partnercenter synkroniseras nu i Dynamics 365 CRM.
 
-   1. När du väljer en synkroniserad referens fylls kortvisningsinformationen i.
+   1. När du väljer en synkroniserad hänvisning fylls kortvisningsinformationen i.
 
 ## <a name="next-steps"></a>Nästa steg
 

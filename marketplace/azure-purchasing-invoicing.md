@@ -7,11 +7,11 @@ author: Guyshu
 ms.author: gushuchm
 ms.date: 06/22/2021
 ms.openlocfilehash: 42e08be73fb6bd1b26e75f461ede51b1e18b909b
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123937030"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246690"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace köp
 
@@ -21,15 +21,15 @@ Azure Marketplace har flera verktyg och funktioner som förenklar och effektivis
 
 Azure Marketplace förenklar anskaffningsprocessen via olika inköpsalternativ. Om du köper produkter med ett kreditkort som är associerat med ditt Azure-konto konsolideras alla inköp på en enda faktura och faktureras till det kreditkort du väljer. Om du är en stor kund kan du köpa med hjälp av en företagsavtal. Med ett EA inkluderas alla programvaruinköp automatiskt på din Azure-faktura. Din faktura kommer att innehålla Azure-användningsavgifter först, följt av Azure Marketplace-avgifter.
 
-När du köper via Azure Marketplace eliminerar du komplexiteten med att hantera enskilda leverantörsrelationer och fakturor. Du får en enda konsoliderad månadsfaktura från Microsoft som innehåller både dina Azure Marketplace-inköp och dina Azure-avgifter.
+När du köper via Azure Marketplace eliminerar du komplexiteten med att hantera enskilda leverantörsrelationer och fakturor. Du får en enda konsoliderad månadsfaktura från Microsoft som innehåller både dina Azure Marketplace-köp och dina Azure-avgifter.
 
 ## <a name="permission-to-purchase"></a>Behörighet att köpa
 
-När du har hittat rätt program är det enkelt att slutföra köpet. Du behöver dock lämpliga behörigheter i Azure-prenumerationen. Eftersom Azure använder en RBAC-modell [(rollbaserad Access Control)](/azure/role-based-access-control/overview) måste  ditt  konto ha behörighet som ägare eller deltagare för prenumerationen för att kunna göra ett köp.
+När du har hittat rätt program är det enkelt att slutföra köpet. Du behöver dock lämpliga behörigheter i Azure-prenumerationen. Eftersom Azure använder en [rollbaserad Access Control(RBAC)-modell](/azure/role-based-access-control/overview) måste  ditt  konto ha behörighet som prenumerationsägare eller deltagare för att kunna göra ett köp.
 
 Innan du slutför ett köp kontrollerar du att användaren har rätt konfiguration i Azure-klientorganisationen. Detta hjälper till att förhindra fel under köpet.
 
-I Azure Marketplace i Azure Portal du det program som du vill köpa och väljer **Skapa** eller **konfigurera + prenumerera.** Du uppmanas att slutföra en del information innan du kan använda den nya lösningen.
+I Azure Marketplace i Azure Portal du det program som du vill köpa och väljer **Skapa** eller **Konfigurera + prenumerera.** Du uppmanas att slutföra en del information innan du kan använda den nya lösningen.
 
 > [!CAUTION]
 > Godkännande till privat Marketplace anger inte anskaffning av en lösning.
@@ -38,7 +38,7 @@ I Azure Marketplace i Azure Portal du det program som du vill köpa och väljer 
 
 :::image type="content" source="media/overview/button-set-up-and-subscribe.png" alt-text="Knappen Konfigurera + prenumerera.":::
 
-Om du vill distribuera en lösning från Azure Marketplace  onlinebutiken väljer du Hämta nu på produktbeskrivningssidan och loggar sedan in med dina autentiseringsuppgifter för Azure-kontot.
+Om du vill distribuera en lösning från Azure Marketplace onlinebutik väljer du **Hämta nu** på produktbeskrivningssidan och loggar sedan in med dina autentiseringsuppgifter för Azure-kontot.
 
 :::image type="content" source="media/overview/sign-in-to-azure-marketplace.png" alt-text="Dialogrutan Azure Marketplace inloggning.":::
 

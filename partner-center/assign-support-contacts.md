@@ -10,18 +10,18 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 358bce2c23d05d5523a5bd7a7032916d00340daf
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960166"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246432"
 ---
 # <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>Tilldela en återförsäljare som en teknisk supportkontakt för kunder
 
-**Lämpliga roller:** Administratörsagent | Globala | Supportagent
+**Lämpliga roller:** Administratörsagent | Global | Supportagent
 
 
-När du ställer in prenumerationer för Microsoft-tjänster för dina kunder kanske du vill tilldela teknisk support för dessa produkter till en utsedd återförsäljare, i stället för att tillhandahålla supporten själv.
+När du ställer in prenumerationer för Microsoft-tjänster för dina kunder kanske du vill tilldela teknisk support för dessa produkter till en utsedd återförsäljare i stället för att tillhandahålla supporten själv.
 
 När du har ställt in supportkontakter kan kunderna se information om den tilldelade supportkontakten på produktsupportsidorna. När Office 365-kunder till exempel behöver support kan de gå till sidan Office.com, logga in med  sina administratörsautentiseringsuppgifter, välja panelen Administratör och under avsnittet **Support** se tilldelad kontaktinformation för support.
 
@@ -32,7 +32,7 @@ Detta kan användas för [scenarier med flera partner](multipartner.md) och [fle
 
 1. Börja med [att begära en](request-a-relationship-with-a-customer.md) relation med din avsedda produktåterförsäljare. Förhandla fram ett supportavtal med dem för att hantera teknisk support.
 
-2. I **menyn i Partnercenter** väljer **du Kunder** och sedan en kund. Välj sedan en prenumeration, till exempel Office 365 Business Standard.
+2. I **menyn i Partnercenter** väljer **du Kunder,** väljer en kund och sedan en prenumeration, till exempel Office 365 Business Standard.
 
 3. I  **Avsedd supportkontakt väljer** du den avsedda produktåterförsäljaren och klickar sedan på **Skicka**. 
 

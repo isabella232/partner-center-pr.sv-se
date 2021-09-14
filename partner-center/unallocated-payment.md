@@ -10,15 +10,15 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 8a5f1264dfdb4059d63db6cbf361e6c2f34d8bd2
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961538"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247260"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Hantera oallokerade betalningar på faktureringssidan för Partnercenter
 
-**Lämpliga roller:** Faktureringsadministratörsroller | Kontoadministratör
+**Lämpliga roller:** Faktureringsadministratör | Kontoadministratör
 
 Ibland kan du se en oallokerad betalning på faktureringssidan. En oallokerad betalning är en betalning som du har gjort till Microsoft och som du inte har tillämpat på en specifik faktura.
 

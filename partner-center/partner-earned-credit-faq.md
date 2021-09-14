@@ -10,11 +10,11 @@ ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: ae78b13ae17b223e1cb540bea50168d02bcb9a1c
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961503"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246775"
 ---
 # <a name="frequently-asked-questions-for-partner-earned-credit"></a>Vanliga frågor och svar om partner-intjänad kredit
 
@@ -65,14 +65,14 @@ En partner utan lämplig RBAC-åtkomst i CSP behåller fortfarande kundens Azure
 
 ## <a name="how-do-i-know-if-im-earning-pec"></a>Hur gör jag för att vet du om jag tjänar PEC?
 
-En partner kan bekräfta att de har rätt åtkomst till en kunds Azure-resurser på flera olika sätt.
+Det finns flera sätt som en partner kan bekräfta att de har rätt åtkomst till en kunds Azure-resurser.
 
 - Granska filen för daglig användning: Om en partner tar emot partnerns intjänade kredit för hanterade tjänster har de administratörsåtkomst. Detta kan fastställas genom att granska enhetspriset och det effektiva enhetspriset i filen för daglig användning och bekräfta om en rabatt tillämpas.
-- Skapa en Azure Monitor-avisering: [](/azure/azure-monitor/platform/alerts-activity-log) Du kan skapa aktivitetsloggaviseringar med Azure Monitor att ta emot meddelanden när RBAC-åtkomsten tas bort från CSP-prenumerationer. Se guiden Om partners intjänade kredit och teknisk dokumentation.
+- Skapa en Azure Monitor-avisering: [](/azure/azure-monitor/platform/alerts-activity-log) Du kan skapa aktivitetsloggaviseringar med hjälp Azure Monitor att ta emot meddelanden när din RBAC-åtkomst tas bort från CSP-prenumerationer. Se guiden Om partners intjänade kredit och teknisk dokumentation.
 
 ## <a name="why-dont-i-see-pec-on-the-invoice"></a>Varför visas inte PEC på fakturan?
 
-PEC anges inte explicit på fakturan och det finns inget separat radobjekt för att visa PEC, men PEC-intäkter räknas in i det justerade nettodelade avgiftsbeloppet på fakturan. Visa avsnitten beräkning och Hur är PEC-betalavsnitt om du vill veta mer om var du kan visa PEC-information.
+PEC anges inte explicit på fakturan och det finns inget separat radobjekt för att visa PEC, men PEC-intäkter räknas in i det justerade nettodelade avgiftsbeloppet på fakturan. Visa beräkningsavsnitten och How is PEC paid sections (Hur är PEC-betalavsnitt) om du vill veta mer om var du kan visa PEC-information.
 
 ## <a name="next-steps"></a>Nästa steg
 

@@ -10,17 +10,17 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 7d7abd8e2eea2d22178194832ff8ec0370ab05eb
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961436"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246786"
 ---
 # <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>Exklusiva Marketplace-erbjudanden från oberoende programvaruleverantörer
 
 **Lämpliga roller:** Globala | Administratörsbehörighet för | Administratörsagent | Försäljningsagent
 
-En oberoende programvaruleverantör (ISV) kan skapa exklusiva erbjudanden som endast är tillgängliga för vissa CSP-partner.
+En oberoende programvaruleverantör (ISV) kan göra exklusiva erbjudanden som endast är tillgängliga för vissa CSP-partner.
 
 CSP-partner kan visa alla ISV-erbjudanden på den kommersiella marknadsplatsen i Partnercenter. Erbjudanden som **är märkta** med Exclusive kan dock bara köpas av specifika partner som väljs av ISV:en. Om ett erbjudande inte har **markerats som Exklusivt** kan alla partner köpa det.
 

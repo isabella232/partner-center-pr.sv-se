@@ -10,17 +10,17 @@ ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
 ms.openlocfilehash: baeaf39dd75d3c39bb7cfee393c3f9c409d5ce33
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960206"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247303"
 ---
 # <a name="august-2020-announcements"></a>Meddelanden augusti 2020
 
 Den här sidan innehåller information om meddelanden för Microsoft Partner Center för augusti 2020.
 
-2020-meddelanden: [januari](2020-january.md)  |  [mars](2020-february.md)  |  [april](2020-march.md)  |  [maj](2020-april.md)  |  [](2020-may.md)  |  [juli](2020-june.md)  |  [|](2020-july.md) Augusti
+2020-meddelanden: [januari mars](2020-january.md)  |  [april](2020-february.md)  |  [](2020-march.md)  |  [maj](2020-april.md)  |  [](2020-may.md)  |  [juli](2020-june.md)  |  [|](2020-july.md) Augusti
 
 ________________
 
@@ -56,7 +56,7 @@ Microsoft förbehåller sig rätten att granska statusen för en kund eller för
 
 ### <a name="next-stepsadditional-resources"></a>Nästa steg/Ytterligare resurser
 
-- Granska de nya partnercenter-Användargränssnitt API-ändringarna i operationsberedskapsresurserna: Förbättringar av kundvalideringsprocessen i [Partnercenter Education](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- Granska de nya partnercenter-Användargränssnitt API-ändringarna i operationsberedskapsresurserna: Förbättringar av [kundvalideringsprocessen i Partnercenter Education](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
 - Se till att din organisation är bekant med [användarkraven för Academic Qualified Education.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)
 - Dela den här informationen med lämpliga team i din organisation och med dina återförsäljare för att hjälpa dem att förbereda sig för dessa ändringar.
 - Håll utkik efter en uppdatering om testningsmöjligheten i oktober där vi ger information om exakt tidsinställning och hur du deltar.
@@ -121,7 +121,7 @@ ________________
 
 ### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Partner som säljer onlinetjänster till kommersiella kunder
+Partner som onlinetjänster till kommersiella kunder
 
 ### <a name="details"></a>Information
 
@@ -136,7 +136,7 @@ Vi delade [förra året](https://partner.microsoft.com/resources/detail/power-ap
 
 Du kommer att kunna erbjuda dina tjänster till enskilda användare och team utan att behöva gå igenom den centraliserade IT-inköpsprocessen för att få nödvändiga licenser. Dina tjänster kan omfatta Project och Visio, baserat på integreringsscenarier med Microsoft 365 och Power Platform. 
 
-Läs mer om partnermöjligheter med Visio och Power Platform-lösningar i Microsoft Inspire-sessionen [Rebuild and reimagine business with Microsoft Visio and Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform). Mer information finns i [administratörsguiden för självbetjäning.](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins)
+Läs mer om partnermöjligheter med Visio och Power Platform-lösningar i Microsoft Inspire-sessionen Rebuild [and reimagine business with Microsoft Visio and Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform). Mer information finns i [administratörsguiden för självbetjäning.](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins)
 
 #### <a name="additional-resources"></a>Ytterligare resurser
 
@@ -157,11 +157,11 @@ De nya SKU:erna för Advanced Communications Microsoft Teams blev tillgängliga 
 
 ### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Alla partner som gör en Molnlösningsleverantör via ett CSP-program
+Alla partner som gör en Molnlösningsleverantör (CSP)
 
 ### <a name="details"></a>Information
 
-Det nya Advanced Communications-tillägget för Microsoft Teams är nu tillgängligt på 12 USD per användare/månad. Tillägg-SKU:er kan köpas ovanpå andra programsviter Microsoft 365 som innehåller Microsoft Teams. Avancerad kommunikation ger en ny uppsättning funktioner för stora möten, kommunikationsprinciper och integreringar, förutom avancerade verktyg för IT-hantering. 
+Det nya Advanced Communications-tillägget för Microsoft Teams är nu tillgängligt på 12 USD per användare/månad. Tillägg-SKU:erna kan köpas ovanpå andra programsviter Microsoft 365 som innehåller Microsoft Teams. Avancerad kommunikation ger en ny uppsättning funktioner för stora möten, kommunikationsprinciper och integreringar, förutom avancerade verktyg för IT-hantering. 
 
 #### <a name="advanced-communications-features"></a>Avancerade kommunikationsfunktioner
 
@@ -184,16 +184,16 @@ Släpptes senare i CY2020
 
 #### <a name="frequently-asked-questions"></a>Vanliga frågor och svar
 
-- **Vad är Advanced Communications?** Detta nya Microsoft Teams gör det möjligt för kunder att ytterligare förbättra sin kommunikationsupplevelse. Den kan köpas ovanpå valfri SKU Microsoft 365 som de prenumererar på.
+- **Vad är Advanced Communications?** Detta nya Microsoft Teams gör det möjligt för kunder att ytterligare förbättra sin kommunikationsupplevelse. Den kan köpas ovanpå valfri Microsoft 365 SKU som de prenumererar på.
 - **Vad kostar det?** Det kommersiella ERP-programmet kostar 12 USD per användare/månad. 
 - **Vilka kunder kan köpa tillägget?** Kommersiell, Global kommersiell offentlig sektor, utbildning och ideell verksamhet.
 - **Hur kan den köpas?** Tillägget kan köpas via EA/EAS, EAS, CSP eller Web Direct.
 - **Var kan den säljas?** Den kan säljas på alla aktuella marknader.
-- **Vilka är kraven?** Alla Microsoft 365/Office 365-paket som innehåller Microsoft Teams.
+- **Vilka är kraven?** Alla Microsoft 365/Office 365 som innehåller Microsoft Teams.
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Dela den här informationen med relevanta kontakter i din organisation och förstå möjligheter till merförsäljning och korsförsäljning. Läs avsnittet resurser i Teams [partnerguide.](https://aka.ms/teamscallingmeetingsguide)
+- Dela den här informationen med relevanta kontakter i din organisation och förstå möjligheter till merförsäljning och korsförsäljning. Läs avsnittet resurser i guiden [för Teams partner](https://aka.ms/teamscallingmeetingsguide).
 
 ________________
 
@@ -254,7 +254,7 @@ Dela den här informationen med lämpliga kontakter i din organisation och bekan
 
 ________________
 
-## <a name="announcing-the-availability-of-visio-plan-1-and-plan-2-trial-offers"></a><a name="1"></a>Meddelande om tillgängligheten för Visio Abonnemang 1 och plan 2 utvärderingserbjudanden 
+## <a name="announcing-the-availability-of-visio-plan-1-and-plan-2-trial-offers"></a><a name="1"></a>Vi presenterar tillgängligheten för Visio Abonnemang 1 plan 2 utvärderingserbjudanden 
 
 ### <a name="categories"></a>Kategorier
 
@@ -267,11 +267,11 @@ Alla partner som deltar i Molnlösningsleverantör(CSP)-programmet
 
 ### <a name="summary"></a>Sammanfattning
 
-Microsoft introducerar utvärderingserbjudanden för Visio Abonnemang 1 plan 2 från och med 1 augusti 2020. 
+Microsoft introducerar utvärderingserbjudanden för Visio Abonnemang 1 och plan 2 från och med 1 augusti 2020. 
 
 ### <a name="details"></a>Information
 
-Microsoft Visio gör att användarna enkelt kan skapa professionella diagram, samarbeta mer effektivt, ansluta till realtidsdata och automatisera arbetsflöden. Utvärderingserbjudanden för Visio Abonnemang 1 plan 2 blir tillgängliga från och med 1 augusti 2020.
+Med Microsoft Visio kan användarna enkelt skapa professionella diagram, samarbeta effektivare, ansluta till realtidsdata och automatisera arbetsflöden. Utvärderingserbjudanden för Visio Abonnemang 1 och plan 2 blir tillgängliga från och med 1 augusti 2020.
 
 Microsoft Visio kan användas i en mängd olika branscher och roller med integrering i Microsoft 365, Microsoft Teams och Power Platform lösningar. Ge kunderna de verktyg de behöver för att driva verksamheten.
 
@@ -284,7 +284,7 @@ Microsoft Visio är en produkt som hjälper dig att:
 - Anpassa affärsmodeller: Affärsanalys är kärnan i Visio värdeförslag. Anpassa affärsmodeller till det nya sättet att arbeta genom att mappa och utforma om kritiska affärsprocesser med Visio och få snabba datainsikter med Power BI- och Visio-diagram inbäddade i programmet. 
 - Fokusera på värde- och kostnadsminskning: Identifiera och automatisera repetitiva processer och hjälpa dina kunder att utveckla självbetjäningsarbetsbelastningar för vanliga funktionella roller som IT-hantering, personal med mera.
 
-Vi erbjuder en kostnadsfri 30-dagars utvärderingsversion för Visio Abonnemang 1 och Visio Abonnemang 2 hjälpa dina kunder att uppleva dessa fördelar. Partner hittar utvärderingsversioner i den månatliga prislistan på sidan med priser och erbjudanden i Partnercenter. Utvärderingserbjudandena visas med "UTVÄRDERINGSVERSION" i kolumnen Sekundär licenstyp i prislistan.
+Vi erbjuder en kostnadsfri 30-dagars utvärderingsversion för Visio Abonnemang 1 och Visio Abonnemang 2 att hjälpa dina kunder att uppleva dessa fördelar. Partner hittar utvärderingsversioner i den månatliga prislistan på sidan med priser och erbjudanden i Partnercenter. Utvärderingserbjudandena visas med "UTVÄRDERINGSVERSION" i kolumnen Sekundär licenstyp i prislistan.
 
 #### <a name="offer-details"></a>Erbjudandeinformation
 
@@ -295,7 +295,7 @@ Vi erbjuder en kostnadsfri 30-dagars utvärderingsversion för Visio Abonnemang 
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Läs mer om Visio Abonnemang 1 och plan 2 i [operationsresursgalleriet](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/) 
-- Vi rekommenderar också att du tittar på Inspire-sessionen om att hjälpa kunder att rebound and [reimagine businesses with Microsoft Visio and Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform).
+- Läs mer om Visio Abonnemang 1 och plan 2 i [Operations Resource Gallery](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/) 
+- Vi rekommenderar också att du läser Inspire-sessionen om att hjälpa kunder att rebound and [reimagine businesses with Microsoft Visio and Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform).
 
 ________________

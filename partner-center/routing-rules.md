@@ -10,11 +10,11 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: efb76953b05bfb10a18657155349e267ee84f456
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961476"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246252"
 ---
 # <a name="create-and-manage-inbound-opportunities-routing-rules"></a>Skapa och hantera routningsregler för inkommande affärsmöjligheter
 
@@ -111,12 +111,12 @@ Nedan visas säljarna med sina respektive hänvisningsroller och omfång på Con
 
 #### <a name="inbound-routing-rules-for-contoso-corporation"></a>Regler för inkommande routning för Contoso Corporation
 
-Anta att nedanstående uppsättning regler har skapats av Seller 1 för Contoso Corporation. Endast **Seller One** kan skapa dessa regler eftersom [referensadministratör i](permissions-overview.md#manage-referrals) hela organisationens omfång krävs för att skapa och redigera regler.
+Anta att nedanstående regeluppsättning har skapats av Seller 1 för Contoso Corporation. Endast **Seller One** kan skapa dessa regler eftersom [referensadministratör i](permissions-overview.md#manage-referrals) hela organisationsomfånget krävs för att skapa och redigera regler.
 
 | **Marknader** | **Lösningar** | **MPN-plats** | **Namn på routningsregel** |
 |-------|-------|-------|-------|
 |Alla marknader|Alla lösningar|Redmond|Standardvärde|
-|Storbritannien|Alla lösningar|London|Storbritannien – alla lösningar|
+|Storbritannien|Alla lösningar|London|Alla lösningar i Storbritannien|
 |Alla marknader|Sol-ABC|Singapore|Sol-ABC – alla marknader|
 |Indien|Sol-PQR|Bengaluru|India-Sol-PQR|
 
@@ -124,11 +124,11 @@ Anta att nedanstående uppsättning regler har skapats av Seller 1 för Contoso 
 
 | **Nej** | **Scenario** | **Kundmarknad** | **Lösningar som ingår** |**Routningsregel tillämpad** |**MPN-tilldelning** |**Åtkomst till referenser** |
 |-----|----------|-------|-------|-------|-------|-----------|
-| 1|Ingen specifik lösning och regelmatchning på marknaden|Storbritannien|SOL-PQR|Global|999999| Seller One, Seller Two, Seller Three (om de läggs till i teamet), Seller Four(om de läggs till i teamet)|
-| 2|Alla lösningar och en specifik regelmatchning för marknaden|Storbritannien|SOL-PQR|Storbritannien – alla lösningar|555555| Seller One, Seller Three (om det läggs till i teamet) |
-| 3|Specifik lösning och regelmatchning för alla marknader|Nigeria|SOL-ABC|SOL-ABC – alla marknader|666666| Seller One, Seller Four (om de läggs till i teamet) |
+| 1|Ingen specifik lösning och regelmatchning för marknaden|Storbritannien|SOL-PQR|Global|999999| Seller One, Seller Two, Seller Three (om det läggs till i teamet), Seller Four (om det läggs till i teamet)|
+| 2|Alla lösningar och en specifik regelmatchning för marknaden|Storbritannien|SOL-PQR|Alla lösningar i Storbritannien|555555| Seller One, Seller Three (om det läggs till i teamet) |
+| 3|Specifik lösning och regelmatchning för alla marknader|Nigeria|SOL-ABC|SOL-ABC – alla marknader|666666| Seller One, Seller Four (om det läggs till i teamet) |
 | 4|Specifik lösning och regelmatchning för marknaden|Indien|SOL-PQR|India-Sol-PQR|777777| Seller One, Seller Two|
-| 5|Inkommande hänvisning med en lösning som inte ägs av ditt företag|USA för USA|SOL-XYZ|Global|999999| Seller One, Seller Two, Seller Three (om de läggs till i teamet), Seller Four(om de läggs till i teamet)|
+| 5|Inkommande hänvisningar med en lösning som inte ägs av ditt företag|USA of America|SOL-XYZ|Global|999999| Seller One, Seller Two, Seller Three (om det läggs till i teamet), Seller Four (om det läggs till i teamet)|
 
 ## <a name="next-steps"></a>Nästa steg
 

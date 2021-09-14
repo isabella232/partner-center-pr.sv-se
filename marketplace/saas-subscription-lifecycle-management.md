@@ -8,11 +8,11 @@ ms.date: 08/20/2021
 ms.author: yonits
 author: yonits
 ms.openlocfilehash: fed2b2f7b951a7dc6ee16fb126f3f5f774df18c9
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123936991"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247255"
 ---
 # <a name="saas-subscription-lifecycle-management"></a>Livscykelhantering för SaaS-prenumeration
 
@@ -25,7 +25,7 @@ När du köper ett SaaS-erbjudande från Azure Marketplace skapas en SaaS-prenum
 - **Fönstret Global sökning** (överst) – Sök efter din SaaS-prenumeration efter namn.
 - **SaaS** – visar en lista över alla dina SaaS-prenumerationer. Det finns två typer av SaaS-listor: se följande avsnitt.
 - **Prenumerationer** – Visar en lista över alla Azure-prenumerationer som du har åtkomst till som en del av din klientorganisation. Om du vill hitta en viss prenumeration använder du filter- eller sökfönstret.
-- **Alla resurser** – Visar en lista över alla resurser som skapats under alla prenumerationer som du har åtkomst till. Om du vill hitta en viss prenumeration använder du filtret (skriv > SaaS) eller söker i listan.
+- **Alla resurser** – Visar en lista över alla resurser som skapats under alla prenumerationer som du har åtkomst till. Om du vill hitta en viss prenumeration använder du filtret (> SaaS) eller söker i listan.
 
 ## <a name="differences-between-saas-and-saas-classic-lists-of-resources-in-the-azure-portal"></a>Skillnader mellan den klassiska SaaS- och SaaS-listan över resurser i Azure Portal
 
@@ -38,7 +38,7 @@ Flytten ger följande fördelar:
 
 - Förbättrad åtkomst till och kontroll av din SaaS-resurs med ärvda principer och behörigheter från Azure-prenumerationen och resursgrupper (fullständig RBAC-kontroll)
 - SaaS-livscykeln är kopplad till Azure-prenumerationens livscykel för åtgärder som överföringar och borttagningar
-- Enklare identifiering med SaaS-resurser som hittas med hjälp av global sökning
+- Enklare identifiering med SaaS-resurser som hittades med hjälp av global sökning
 - Användning av Azure Cost Management – Övervaka utgifter för SaaS-resurser
 - Resurser på prenumerationsnivå har resurshändelser i aktivitetsloggen
 
@@ -47,7 +47,7 @@ Flytten ger följande fördelar:
 Det finns flera sätt att hantera dina SaaS-prenumerationer
 
 * För SaaS-prenumerationer som köpts i Azure Portal hanterar du dem där.
-* För SaaS-prenumerationer som köpts i AppSource hanterar du dem i Azure Portal och [Microsoft 365 Admin Center;](https://admin.microsoft.com/Adminportal/Home?#/subscriptions) Mer information om hur du använder Microsoft 365 Admin Center finns [i Hantera appprenumerationer från tredje part för din organisation.](/microsoft-365/commerce/manage-saas-apps?view=o365-worldwide&preserve-view=true)
+* För SaaS-prenumerationer som köpts i AppSource hanterar du dem i Azure Portal och [Microsoft 365 Admin Center](https://admin.microsoft.com/Adminportal/Home?#/subscriptions); Mer information om hur du använder Microsoft 365 Admin Center finns [i Hantera appprenumerationer från tredje part för din organisation.](/microsoft-365/commerce/manage-saas-apps?view=o365-worldwide&preserve-view=true)
 * Med vissa utgivare kan du hantera SaaS-prenumerationer direkt på deras plattform. Besök utgivarens webbplats med hjälp av en länk på SaaS-prenumerationssidan i Azure Portal.
 
 Det finns flera åtgärder som du kan vidta efter köpet: vissa kräver behörighet som ägare eller deltagare:
@@ -82,7 +82,7 @@ Med återkommande fakturering kan du hantera förnyelsen av saaS-prenumerationen
 
 ### <a name="view-billing"></a>Visa fakturering
 
-Visa fakturor för din Azure-prenumeration och Azure Marketplace produkter som köpts med den här prenumerationen. För SaaS som köpts i portalen går du till faktureringssidan  på sidan SaaS-prenumeration i avsnittet Fakturering, som omdirigerar dig till **Cost Management**.
+Visa fakturor för din Azure-prenumeration och Azure Marketplace produkter som köpts med den här prenumerationen. För SaaS som köpts i portalen går du till faktureringssidan  på Sidan SaaS-prenumeration i avsnittet Fakturering, som omdirigerar dig **till Cost Management**.
 
 Cost Management hjälper dig att förstå din fakturauppdelning, hantera ditt faktureringskonto och dina prenumerationer, övervaka/kontrollera Azure-utgifter och optimera resursanvändningen. Med den kan du analysera kostnader, skapa och hantera budgetar med mera. Du kan till exempel spåra din anpassade mätaranvändning (för SaaS-prenumerationer som skapats efter februari 2021 eller flyttats till en resursgrupp). Läs mer om kostnadshantering i [dokumentationen Azure Cost Management + Billing .](/azure/cost-management-billing/)
 
@@ -121,7 +121,7 @@ Det finns vissa fall när ändringen kanske inte fungerar:
     - Du måste *ha läs-* *eller ägar-/deltagarbehörighet* till Azure-målprenumerationen.
     - Du behöver *ägar-/deltagarbehörighet* för målresursgruppen.
     - Om det redan finns en SaaS-prenumeration med samma namn i målresursgruppen väljer du en annan målresursgrupp.
-- Azure-målprenumerationen och resursprenumerationen genomgår alla kontroller som utförs under köpet. Mer information om köpkontroller finns i avsnittet [SaaS-prenumeration och saaS-konfiguration](purchase-saas-offer-in-azure-portal.md#saas-subscription-and-configuration) i Köpa **ett SaaS-erbjudande i Azure Portal**.
+- Azure-målprenumerationen och resursprenumerationen genomgår alla kontroller som utförs under köpet. Mer information om köpkontroller finns i avsnittet [SaaS-prenumeration](purchase-saas-offer-in-azure-portal.md#saas-subscription-and-configuration) och -konfiguration i **Köpa ett SaaS-erbjudande i Azure Portal**.
 
 ## <a name="next-steps"></a>Nästa steg
 

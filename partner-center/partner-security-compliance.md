@@ -10,22 +10,22 @@ ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 15e2792a38f8fc90612282ff30ad57dc320fc96a
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961116"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246756"
 ---
 # <a name="security-requirements-status-report"></a>Statusrapport för säkerhetskrav
 
-**Lämpliga roller:** CPV-administratörsroller | Global administratör
+**Lämpliga roller:** CPV-| Global administratör
 
 I den här artikeln beskrivs statusrapporten för säkerhetskrav i Partnercenter. Den här rapporten ger mått om efterlevnad av [partnersäkerhetskrav för](partner-security-requirements.md) multifaktorautentisering (MFA) för användare i din partnerklientorganisation.
 
-Om du vill komma åt den här rapporten i [Partnercenter](https://partner.microsoft.com/dashboard) **går du Inställningar** till  >    >  **Kontoinställningar Säkerhetskravstatus**. Rapporten uppdateras dagligen och visar inloggningsdata från de senaste sju dagarna.
+Om du vill komma åt den här rapporten i [Partnercenter](https://partner.microsoft.com/dashboard) **går Inställningar**  >  **till**  >  **Kontoinställningar Säkerhetskravstatus**. Rapporten uppdateras dagligen och visar inloggningsdata från de senaste sju dagarna.
 
 >[!NOTE]
->Statusrapporten för säkerhetskrav stöds endast i Partnercenter. Den är inte tillgänglig i Microsoft Cloud for US Government Eller Microsoft Cloud Tyskland. Vi rekommenderar starkt att alla partner som handlar via ett suveränt moln (amerikanska myndigheter och Tyskland) omedelbart inför dessa nya säkerhetskrav. Dessa partner är dock för närvarande inte nödvändiga för att uppfylla de nya säkerhetskraven. Microsoft kommer att tillhandahålla ytterligare information om tillämpningen av dessa säkerhetskrav för nationella moln i framtiden.
+>Statusrapporten för säkerhetskrav stöds endast i Partnercenter. Det är inte tillgängligt i Microsoft Cloud for US Government eller Microsoft Cloud Tyskland. Vi rekommenderar starkt att alla partner som handlar via ett suveränt moln (amerikanska myndigheter och Tyskland) omedelbart inför dessa nya säkerhetskrav. Dessa partner är dock för närvarande inte nödvändiga för att uppfylla de nya säkerhetskraven. Microsoft kommer att tillhandahålla ytterligare information om tillämpningen av dessa säkerhetskrav för nationella moln i framtiden.
 
 ## <a name="security-status-metrics"></a>Mått för säkerhetsstatus
 

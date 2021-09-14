@@ -10,11 +10,11 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 810c01c16bd6a2f9c6fa863289e1b788a057b627
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961555"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247284"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-csp-program"></a>Flytta licensbaserade kunder från andra kanaler & partner till Molnlösningsleverantör (CSP)-programmet
 
@@ -26,7 +26,7 @@ Om kunden vill anlita flera partner, överföra sina prenumerationer till en ann
 
 1. Välj **Kunder** på Menyn i Partnercenter och välj sedan **Begär en återförsäljarrelation.** För att ge stöd för konton med flera kanaler gör du samma sak.
 
-2. När kunden har accepterat din inbjudan kan du etablera önskade prenumerationer och licenser för kunden (till exempel samma Office 365 erbjudande som kunden har köpt tidigare).
+2. När kunden har accepterat din inbjudan kan du etablera önskade prenumerationer och licenser för kunden (till exempel samma Office 365 erbjudande som kunden köpte tidigare).
 
 3. Kunden kan antingen tillåta att de ursprungliga prenumerationerna upphör att gälla eller avbryta dem. Men eftersom det inte finns några återbetalningar för annullerade prenumerationer är det bäst att vänta tills prenumerationerna är nära de naturliga förfallodatumen.
 
@@ -42,7 +42,7 @@ Om du etablerar samma erbjudanden som de erbjudanden som din kund har använt be
 Om du överför kunder som använder erbjudanden som inte längre gäller måste du hitta ett likvärdigt erbjudande för att förhindra dataförlust. Om du flyttar kunden till ett annat erbjudande måste du uppdatera kundens licenstilldelning.
 
 >[!NOTE]
-> Du, CSP-partnern, måste finnas i samma region som kundklientorganisationen för att kunna övergå kunden till dig.
+> Du, CSP-partnern, måste finnas i samma region som kundklientorganisationen för att kunna övergå till dig.
 
 ## <a name="next-steps"></a>Nästa steg
 

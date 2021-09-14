@@ -9,15 +9,15 @@ author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
 ms.openlocfilehash: 5f65784ce93350c92e0ffe38849ce505f045e0b0
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960906"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246810"
 ---
 # <a name="get-report-queries-api"></a>HÄMTA API för rapportfrågor
 
-API:et för att hämta rapportfrågor hämtar alla frågor som är tillgängliga för användning i rapporter. Den hämtar alla system- och användardefinierade frågor som standard.
+API:et Hämta rapportfrågor hämtar alla frågor som är tillgängliga för användning i rapporter. Den hämtar alla system- och användardefinierade frågor som standard.
 
 **Begärandesyntax**
 

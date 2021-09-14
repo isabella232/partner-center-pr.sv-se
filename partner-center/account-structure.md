@@ -10,11 +10,11 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 47592fb0d0a81a827982e48b35381c59bb079c66
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959923"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246991"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Partnercenter har två kontonivåer för MPN-partner
 

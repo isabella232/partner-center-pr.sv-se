@@ -10,11 +10,11 @@ author: mckennaville
 ms.author: mcville
 ms.date: 07/21/2021
 ms.openlocfilehash: 14f03a8eb899f7224a38b0f998edd72077b34b3b
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960993"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246264"
 ---
 # <a name="transfer-a-customers-azure-subscriptions-to-a-different-csp-under-an-azure-plan"></a>Överföra en kunds Azure-prenumerationer till en annan CSP (under en Azure-plan)
 
@@ -38,7 +38,7 @@ Kunden måste kommunicera med både den aktuella och framtida partnern innan öv
 - Fakturering och fakturering flyttas till den framtida partnern när prenumerationen överförs.
 - Rollbaserad åtkomstkontroll i Azure (RBAC) påverkas inte av överföringar.
 - Admin on Behalf Of (AOBO) beviljas inte som standard till den framtida partnern.
-- Tredjepartsprodukter Azure Marketplace överförs så länge produkterna klarar den kontroll Azure Marketplace behörigheten.
+- Tredjepartsprodukter Azure Marketplace produkter så länge produkterna klarar den kontroll Azure Marketplace behörigheten.
     - Det finns inga särskilda rabatter eller regionala begränsningar.
     - Produkterna är inte prenumerationsbaserade.
     - Den framtida partnern bör samarbeta med utgivaren för att se till att utgivaren finns på listan över tillåtna för distribution av produkten.

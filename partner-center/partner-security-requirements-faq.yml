@@ -11,13 +11,13 @@ metadata:
   ms.localizationpriority: high
   ms.custom: SEOMAY.20
   ms.openlocfilehash: 48f19e9745830eb2bccedd615a4a60f4803e8b71
-  ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+  ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/09/2021
-  ms.locfileid: "123961066"
+  ms.lasthandoff: 09/13/2021
+  ms.locfileid: "126247429"
 title: Vanliga frågor om partnersäkerhetskrav
-summary: "**Lämpliga roller:** Alla Partner Center-användare\n\nI den här artikeln får du svar på några vanliga [frågor om partnersäkerhetskraven.](partner-security-requirements.md)\n\n## <a name=\"what-are-the-partner-security-requirements-and-why-should-partners-implement-them\"></a>Vilka är partnersäkerhetskraven och varför ska partner implementera dem?\n\nStörre och kontinuerliga säkerhets- och integritetsskydd är bland våra högsta prioriteter och vi fortsätter att hjälpa partner att skydda sina kunder och klienter. Vi fortsätter att se mer sofistikerade och ökande antal säkerhetsattacker, främst relaterade till identitetskomprometteringsincidenter. Eftersom förebyggande kontroller spelar en viktig roll i en övergripande försvarsstrategi för att förhindra säkerhetsattacker införde vi obligatoriska säkerhetskrav under 2019. [](partner-security-requirements.md) Alla partner som deltar i Molnlösningsleverantör-programmet (CSP), Kontrollpanelen leverantörer och rådgivare måste implementera kraven för att efterleva kraven.\n        \n## <a name=\"what-are-the-key-timelines-and-milestones\"></a>Vilka är de viktigaste tidslinjerna och milstolparna?\n\nDe villkor som är associerade med dessa säkerhetskrav, inklusive tidslinjer och milstolpar, ingår i [Microsoft-partneravtal](microsoft-partner-agreement.md). Du måste implementera dessa säkerhetskrav så snart som möjligt för att vara kompatibel med ditt deltagande i CSP-programmet.\n        \n## <a name=\"what-will-happen-if-i-dont-implement-these-partner-security-requirements\"></a>Vad händer om jag inte implementerar dessa partnersäkerhetskrav?\n\nDen Microsoft-partneravtal kräver att du framtvingar multifaktorautentisering för användarkonton och inför den säkra programmodellen för att interagera med Partner Center-API:et. \n        \nPartner som inte följer dessa säkerhetsmetoder kan förlora sin möjlighet att utföra transaktioner i CSP-programmet eller hantera kundklienter med delegerade administratörsrättigheter.\n        \n## <a name=\"do-the-security-requirements-apply-to-all-geographies\"></a>Gäller säkerhetskraven för alla geografiska områden?\n\nJa, säkerhetskraven gäller för alla geografiska områden. Vi rekommenderar starkt att alla partner som agerar via ett suveränt moln (amerikanska myndigheter och Tyskland) agerar och inför dessa nya säkerhetskrav omedelbart. Dessa partner är dock för närvarande inte nödvändiga för att uppfylla säkerhetskraven. Microsoft kommer att tillhandahålla ytterligare information om tillämpningen av dessa säkerhetskrav för nationella moln i framtiden.\n\n## <a name=\"is-it-possible-to-get-an-exclusion-for-an-account\"></a>Går det att få ett undantag för ett konto?\n\nNej, det går inte att undanta användarkonton från kravet på att multifaktorautentisering (MFA) ska tillämpas. På grund av den höga privilegierade typen av partner kräver Microsoft-partneravtal att multifaktorautentisering tillämpas för varje användarkonto i din partnerklientorganisation.\n\n## <a name=\"how-do-i-know-if-i-have-met-the-partner-security-requirements\"></a>Hur gör jag för att om jag uppfyller partnersäkerhetskraven?\n\nSlutför följande steg:\n        \n- Du måste uppfylla alla krav som beskrivs i [partnersäkerhetskraven.](partner-security-requirements.md)\n- Du måste se till att alla användarkonton i din partnerklientorganisation har multifaktorautentisering framtvingad.\n        \nFör att identifiera viktiga områden där du kan vidta åtgärder tillhandahåller vi statusrapporten [för](https://partner.microsoft.com/commerce/security/compliance) säkerhetskrav som är tillgänglig via Partnercenter.\n        \nMer information om statusrapporten finns i [status för partnersäkerhetskrav.](partner-security-compliance.md)\n        \n"
+summary: "**Lämpliga roller:** Alla Partner Center-användare\n\nI den här artikeln får du svar på några vanliga [frågor om partnersäkerhetskraven.](partner-security-requirements.md)\n\n## <a name=\"what-are-the-partner-security-requirements-and-why-should-partners-implement-them\"></a>Vilka är partnersäkerhetskraven och varför ska partner implementera dem?\n\nStörre och kontinuerliga säkerhets- och integritetsskydd är bland våra högsta prioriteter och vi fortsätter att hjälpa partner att skydda sina kunder och klienter. Vi fortsätter att se mer sofistikerade och ökande antal säkerhetsattacker, främst relaterade till identitetskomprometteringsincidenter. Eftersom förebyggande kontroller spelar en viktig roll i en övergripande försvarsstrategi för att förhindra säkerhetsattacker införde vi obligatoriska säkerhetskrav under 2019. [](partner-security-requirements.md) Alla partner som deltar i Molnlösningsleverantör-programmet (CSP), Kontrollpanelen leverantörer och rådgivare måste implementera kraven för att efterleva kraven.\n        \n## <a name=\"what-are-the-key-timelines-and-milestones\"></a>Vilka är de viktigaste tidslinjerna och milstolparna?\n\nDe villkor som är associerade med dessa säkerhetskrav, inklusive tidslinjer och milstolpar, ingår i [Microsoft-partneravtal](microsoft-partner-agreement.md). Du måste implementera dessa säkerhetskrav så snart som möjligt för att vara kompatibel med ditt deltagande i CSP-programmet.\n        \n## <a name=\"what-will-happen-if-i-dont-implement-these-partner-security-requirements\"></a>Vad händer om jag inte implementerar dessa partnersäkerhetskrav?\n\nDen Microsoft-partneravtal kräver att du framtvingar multifaktorautentisering för användarkonton och inför den säkra programmodellen för att interagera med Partner Center-API:et. \n        \nPartner som inte följer dessa säkerhetsmetoder kan förlora sin möjlighet att utföra transaktioner i CSP-programmet eller hantera kundklienter med delegerade administratörsrättigheter.\n        \n## <a name=\"do-the-security-requirements-apply-to-all-geographies\"></a>Gäller säkerhetskraven för alla geografiska områden?\n\nJa, säkerhetskraven gäller för alla geografiska områden. Vi rekommenderar starkt att alla partner som agerar via ett suveränt moln (amerikanska myndigheter och Tyskland) agerar och inför dessa nya säkerhetskrav omedelbart. Dessa partner är dock för närvarande inte nödvändiga för att uppfylla säkerhetskraven. Microsoft kommer att tillhandahålla ytterligare information om tillämpningen av dessa säkerhetskrav för nationella moln i framtiden.\n\n## <a name=\"is-it-possible-to-get-an-exclusion-for-an-account\"></a>Går det att få ett undantag för ett konto?\n\nNej, det går inte att undanta användarkonton från kravet på att multifaktorautentisering (MFA) ska tillämpas. Eftersom det är mycket privilegierat att vara en partner kräver Microsoft-partneravtal att multifaktorautentisering tillämpas för varje användarkonto i din partnerklientorganisation.\n\n## <a name=\"how-do-i-know-if-i-have-met-the-partner-security-requirements\"></a>Hur gör jag för att om jag uppfyller partnersäkerhetskraven?\n\nSlutför följande steg:\n        \n- Du måste uppfylla alla krav som beskrivs i [partnersäkerhetskraven.](partner-security-requirements.md)\n- Du måste se till att alla användarkonton i din partnerklientorganisation har multifaktorautentisering framtvingad.\n        \nFör att identifiera viktiga områden där du kan vidta åtgärder tillhandahåller vi statusrapporten [för](https://partner.microsoft.com/commerce/security/compliance) säkerhetskrav som är tillgänglig via Partnercenter.\n        \nMer information om statusrapporten finns i [status för partnersäkerhetskrav.](partner-security-compliance.md)\n        \n"
 sections:
 - name: Nödvändiga åtgärder
   questions:
@@ -29,7 +29,7 @@ sections:
 
       1. **Framtvinga MFA för alla användare**
 
-          Alla partner i CSP-programmet, Advisors och Kontrollpanelen Vendors måste framtvinga MFA för alla användare i sin partnerklientorganisation.
+          Alla partner i CSP-programmet, Advisors och Kontrollpanelen-leverantörer krävs för att framtvinga MFA för alla användare i partnerklientorganisationen.
 
           Fler saker att ha i åtanke:
 
@@ -45,7 +45,7 @@ sections:
           - [Modell för säkra program översikt](/partner-center/develop/enable-secure-app-model)
           - [Partnercenter: Modell för säkra program guide](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
           - [Partner i CSP-program: .NET-exempelkod för att aktivera Modell för säkra program](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
-          - [Partner i CSP-program: Java-exempelkod för att Modell för säkra program](/samples/microsoft/partner-center-java-samples/secure-app-model/)
+          - [Partner i CSP-program: Java-exempelkod för att aktivera Modell för säkra program](/samples/microsoft/partner-center-java-samples/secure-app-model/)
           - [Partnercenter – autentiseringsdokument](/partner-center/develop/partner-center-authentication)
           - [Dokument om PartnerCenter PowerShell Multi-Factor Authentication (MFA)](/powershell/partnercenter/multi-factor-auth)
 
@@ -72,7 +72,7 @@ sections:
   - question: >
       Vilka åtgärder måste jag vidta om jag redan har en MFA-lösning?
     answer: >
-      Genom dessa säkerhetskrav måste användare i en partnerklientorganisation autentiseras med hjälp av MFA vid åtkomst till Microsofts kommersiella molntjänster. Tredjepartslösningar kan användas för att uppfylla dessa krav. Microsoft tillhandahåller inte längre valideringstestning till oberoende identitetsproviders för kompatibilitet med Azure Active Directory. Om du vill testa produkten för samverkan kan du följa dessa [riktlinjer.](https://www.microsoft.com/download/details.aspx?id=56843)
+      Genom dessa säkerhetskrav måste användare i en partnerklientorganisation autentiseras med hjälp av MFA vid åtkomst till Microsofts kommersiella molntjänster. Tredjepartslösningar kan användas för att uppfylla dessa krav. Microsoft tillhandahåller inte längre valideringstestning till oberoende identitetsprovider för kompatibilitet med Azure Active Directory. Om du vill testa produkten för samverkan kan du följa dessa [riktlinjer.](https://www.microsoft.com/download/details.aspx?id=56843)
 
 
       > [!IMPORTANT]
@@ -80,7 +80,7 @@ sections:
       > När du använder en lösning från tredje part är det viktigt att kontrollera att lösningen som utfärdar autentiseringsmetodreferensanspråk (AMR) som innehåller MFA-värdet. Se [Testa partnersäkerhetskraven för](/powershell/partnercenter/test-partner-security-requirements) mer information om hur du verifierar din lösning från tredje part som utfärdar det förväntade anspråket.
   - question: >
       Jag använder flera partnerklienter för transaktioner. Måste jag implementera MFA på alla?
-    answer: "Ja, du måste framtvinga MFA för varje Azure Active Directory som är associerad med CSP-programmet eller Advisor-programmet. Om du vill Azure Active Directory Premium licens måste du köpa en Azure Active Directory licens för användarna i varje Azure Active Directory klientorganisation. \n"
+    answer: "Ja, du måste framtvinga MFA för varje Azure Active Directory klient som är associerad med CSP-programmet eller Advisor-programmet. Om du vill Azure Active Directory Premium licens måste du köpa en Azure Active Directory licens för användarna i varje Azure Active Directory klientorganisation. \n"
   - question: >
       Måste varje användarkonto i min partnerklientorganisation ha MFA framtvingat?
     answer: >
@@ -100,10 +100,10 @@ sections:
   - question: >
       Vilka tredjepartsleverantörer tillhandahåller MFA-lösningar som är kompatibla med Azure Active Directory?
     answer: >
-      När partner granskar MFA-leverantörer och lösningar måste de se till att den lösning de väljer är kompatibel med Azure Active Directory.
+      När partner granskar MFA-leverantörer och -lösningar måste de se till att den lösning de väljer är kompatibel med Azure Active Directory.
 
 
-      Microsoft tillhandahåller inte längre valideringstestning till oberoende identitetsproviders för kompatibilitet med Azure Active Directory. Om du vill testa produkten för samverkan kan du följa dessa [riktlinjer.](https://www.microsoft.com/download/details.aspx?id=56843)
+      Microsoft tillhandahåller inte längre valideringstestning till oberoende identitetsprovider för kompatibilitet med Azure Active Directory. Om du vill testa produkten för samverkan kan du följa dessa [riktlinjer.](https://www.microsoft.com/download/details.aspx?id=56843)
 
 
       Mer information finns i [kompatibilitetslistan för Azure AD-federation.](/azure/active-directory/hybrid/how-to-connect-fed-compatibility)
@@ -152,21 +152,21 @@ sections:
   - question: >
       Vem bör införa den säkra programmodellen för att uppfylla kraven?
     answer: >
-      Microsoft introducerar ett säkert, skalbart ramverk för autentisering av Molnlösningsleverantör-partner (CSP) och Kontrollpanelen Vendors (CPV) som använder multifaktorautentisering. Mer information finns i [guiden Modell för säkra program .](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) Alla partner som har utvecklat anpassad integrering med hjälp av api:er (till exempel Azure Resource Manager, Microsoft Graph, Partner Center API osv.) eller implementerat anpassad automatisering med hjälp av verktyg som PowerShell, måste implementera [Modell för säkra program-ramverket](/partner-center/develop/enable-secure-app-model) för integrering med Microsofts molntjänster.
+      Microsoft introducerar ett säkert, skalbart ramverk för autentisering av Molnlösningsleverantör-partner (CSP) och Kontrollpanelen Vendors (CPV) som använder Multi-Factor Authentication. Mer information finns i [guiden Modell för säkra program .](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) Alla partner som har utvecklat anpassad integrering med hjälp av API:er (till exempel Azure Resource Manager, Microsoft Graph, Partner Center API osv.) eller implementerat anpassad automatisering med hjälp av verktyg som PowerShell, måste implementera [Modell för säkra program-ramverket](/partner-center/develop/enable-secure-app-model) för att integrera med Microsofts molntjänster.
   - question: >
       Vad är Modell för säkra program?
-    answer: "Microsoft introducerar ett säkert, skalbart ramverk för autentisering av Molnlösningsleverantör-partner (CSP) och Kontrollpanelen Vendors (CPV) som använder multifaktorautentisering. Se guiden [Modell för säkra program för](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) mer information.  \n"
+    answer: "Microsoft introducerar ett säkert, skalbart ramverk för autentisering av Molnlösningsleverantör-partner (CSP) och Kontrollpanelen Vendors (CPV) som använder Multi-Factor Authentication. Se guiden [Modell för säkra program för](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) mer information.  \n"
   - question: >
       Hur gör jag för att implementera Modell för säkra program?
     answer: >
-      Alla partner som har utvecklat anpassad integrering med hjälp av api:er (till exempel Azure Resource Manager, Microsoft Graph, Partner Center API osv.) eller implementerat anpassad automatisering med hjälp av verktyg som PowerShell, måste implementera [Modell för säkra program-ramverket](/partner-center/develop/enable-secure-app-model) för integrering med Microsofts molntjänster. Om du inte gör det kan det leda till avbrott på grund av MFA-distributionen. Följande resurser ger en översikt och vägledning om hur du inför modellen.
+      Alla partner som har utvecklat anpassad integrering med hjälp av API:er (till exempel Azure Resource Manager, Microsoft Graph, Partner Center API osv.) eller implementerat anpassad automatisering med hjälp av verktyg som PowerShell, måste implementera [Modell för säkra program-ramverket](/partner-center/develop/enable-secure-app-model) för att integrera med Microsofts molntjänster. Om du inte gör det kan det leda till avbrott på grund av MFA-distributionen. Följande resurser ger en översikt och vägledning om hur du inför modellen.
 
 
       - [Modell för säkra program översikt](/partner-center/develop/enable-secure-app-model)
 
       - [Partnercenter: Modell för säkra program guide](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
 
-      - [Partner i CSP-program: .NET-exempelkod för att Modell för säkra program](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+      - [Partner i CSP-program: .NET-exempelkod för att aktivera Modell för säkra program](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
 
       - [Partner i CSP-program: Java-exempelkod för att aktivera Modell för säkra program](/samples/microsoft/partner-center-java-samples/secure-app-model/)
 
@@ -196,7 +196,7 @@ sections:
   - question: >
       Jag är CSP-partner. Hur gör jag för att om min Kontrollpanelen leverantör (CPV) arbetar med att implementera lösningen eller inte?
     answer: >
-      För partner som använder en Kontrollpanelen Vendor-lösning (CPV) att göra i Molnlösningsleverantör-programmet (CSP) är det ditt ansvar att rådgöra med din CPV.
+      För partner som använder en Kontrollpanelen Vendor-lösning (CPV) för att göra en överträdelse i Molnlösningsleverantör-programmet (CSP) är det ditt ansvar att kontakta din CPV.
   - question: >
       Vem är en Kontrollpanelen leverantör (CPV)?
     answer: >
@@ -223,7 +223,7 @@ sections:
 
       - Visa och hantera användare som behöver åtkomst till CPV-funktioner. En CPV kan bara ha rollen Global administratör.
   - question: >
-      Jag använder Partnercenter-SDK. Kommer SDK att automatiskt införa Modell för säkra program?
+      Jag använder Partnercenter-SDK. Kommer SDK automatiskt att införa Modell för säkra program?
     answer: >
       Nej, du måste följa riktlinjerna i guiden för Modell för säkra program [.](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
   - question: >
@@ -233,7 +233,7 @@ sections:
   - question: >
       Hur ska mitt program hämta en åtkomsttoken om vi aktiverar MFA?
     answer: >
-      Du måste följa den Modell för säkra program [som](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) innehåller information om hur du gör detta samtidigt som du uppfyller de nya säkerhetskraven. Du hittar .NET-exempelkod [här och](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model) Java-exempelkod [här.](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)
+      Du måste följa den Modell för säkra program [som](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) innehåller information om hur du gör det samtidigt som du uppfyller de nya säkerhetskraven. Du hittar .NET-exempelkod [här och](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model) Java-exempelkod [här.](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)
   - question: >
       Skapar jag som CPV ett Azure AD-program i vår CPV-klient eller klientorganisationen för CSP-partnern?
     answer: >
@@ -241,27 +241,27 @@ sections:
   - question: >
       Jag är en CSP som endast använder appautentisering. Behöver jag göra några ändringar?
     answer: >
-      Appautentisering påverkas inte eftersom användarautentiseringsuppgifter inte används för att begära en åtkomsttoken. Om användarautentiseringsuppgifter delas måste kontrollpanelens leverantörer (CPV:er) använda Modell för säkra program [ramverket](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) och rensa eventuella befintliga partnerautentiseringsuppgifter.
+      Appautentisering påverkas inte eftersom användarautentiseringsuppgifter inte används för att begära en åtkomsttoken. Om användarautentiseringsuppgifter delas måste kontrollpanelens leverantörer (CPV:er) införa Modell för säkra program [ramverket](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) och rensa eventuella befintliga partnerautentiseringsuppgifter som de har.
   - question: >
       Kan jag som CPV använda appens enda autentiseringsstil för att hämta åtkomsttoken?
     answer: >
-      Nej, Kontrollpanelen leverantörspartner kan inte använda appens enda autentiseringsstil för att begära åtkomsttoken för partnerns räkning. De bör implementera den säkra programmodellen, som använder autentiseringsstilen app + användare.
+      Nej, Kontrollpanelen leverantörspartner kan inte använda appens enda autentiseringsstil för att begära åtkomsttoken åt partnern. De bör implementera den säkra programmodellen, som använder autentiseringsstilen app + användare.
 - name: Teknisk tillämpning
   questions:
   - question: >
-      Vad är aktiveringen av säkerhetsskyddsmekanismer?
-    answer: "Alla partner som deltar i Molnlösningsleverantör-programmet (CSP), Kontrollpanelen-leverantörer (CPV) och rådgivare bör implementera de obligatoriska säkerhetskraven för att vara kompatibla.\n\nFör att ge ytterligare skydd började Microsoft aktiveringen av säkerhetsskydd som hjälper partner att skydda sina klienter och sina kunder genom att använda multifaktorautentisering (MFA) för att förhindra obehörig åtkomst.  \n\nAktiveringen för AOBO-funktioner (admin-on-behalf-of) har slutförts för alla partnerklienter. För att ytterligare hjälpa till att skydda partner och kunder med målet Q2 CY2020 kommer vi att påbörja aktiveringen av Partner Center-transaktioner i CSP, vilket hjälper partner att skydda sina företag och kunder från identitetsstöldrelaterade incidenter.\n\nMer information finns på sidan [för multifaktorautentisering (MFA) för din partnerklientorganisation.](partner-security-requirements-mandating-mfa.md)\n"
+      Vad är aktiveringen av säkerhetsskydd?
+    answer: "Alla partner som deltar i Molnlösningsleverantör-programmet (CSP), Kontrollpanelen-leverantörer (CPV:er) och rådgivare bör implementera de obligatoriska säkerhetskraven för att vara kompatibla.\n\nFör att ge ytterligare skydd började Microsoft aktivera säkerhetsskydd som hjälper partner att skydda sina klienter och sina kunder genom att använda multifaktorautentisering (MFA) för att förhindra obehörig åtkomst.  \n\nVi har slutfört aktiveringen för AOBO-funktioner (admin-on-behalf-of) för alla partnerklienter. För att ytterligare hjälpa till att skydda partner och kunder, som riktar in sig på andra kvartalet 2020, påbörjar vi aktiveringen av Partner Center-transaktioner i CSP, vilket hjälper partner att skydda sina företag och kunder från identitetsstöldrelaterade incidenter.\n\nMer information finns på [sidan om multifaktorautentisering (MFA) för din partnerklientorganisation.](partner-security-requirements-mandating-mfa.md)\n"
   - question: >
       Jag använder en MFA-lösning från tredje part och blockeras. Vad ska jag göra?
     answer: >
-      För att verifiera att kontot som har åtkomst till resurser har [](https://tools.ietf.org/html/rfc8176) till uppgift att använda multifaktorautentisering kontrollerar vi autentiseringsmetodens referensanspråk för att se om MFA visas. Vissa lösningar från tredje part utfärdar inte det här anspråket eller inkluderar inte MFA-värdet. Om anspråket saknas, eller om MFA-värdet inte visas, går det inte att avgöra om det autentiserade kontot har utmanats för multifaktorautentisering. Du måste samarbeta med leverantören för din lösning från tredje part för att avgöra vilka åtgärder som behöver vidtas så att lösningen utfärdar autentiseringsmetodens referensanspråk.
+      För att verifiera att kontot som har åtkomst till resurser har [](https://tools.ietf.org/html/rfc8176) utmanats för multifaktorautentisering kontrollerar vi autentiseringsmetodens referensanspråk för att se om MFA visas. Vissa lösningar från tredje part utfärdar inte det här anspråket eller inkluderar inte MFA-värdet. Om anspråket saknas, eller om MFA-värdet inte visas, går det inte att avgöra om det autentiserade kontot har utmanats för multifaktorautentisering. Du måste samarbeta med leverantören för din lösning från tredje part för att avgöra vilka åtgärder som behöver vidtas så att lösningen utfärdar autentiseringsmetodens referensanspråk.
 
 
-      Se [Testa säkerhetskraven för partner](/powershell/partnercenter/test-partner-security-requirements) om du är osäker på om din lösning från tredje part utfärdar det förväntade anspråket eller inte.
+      Se [Testa partnersäkerhetskraven](/powershell/partnercenter/test-partner-security-requirements) om du är osäker på om din lösning från tredje part utfärdar det förväntade anspråket eller inte.
   - question: >
-      MFA hindrar mig från att hjälpa min kund med AOBO. Vad ska jag göra?
+      MFA hindrar mig från att stödja min kund med hjälp av AOBO, vad ska jag göra?
     answer: >
-      Den tekniska tillämpningen av partnersäkerhetskraven kontrolleras om det autentiserade kontot har utmanats för multifaktorautentisering. Om kontot inte har använts omdirigeras du till inloggningssidan och uppmanas att autentisera igen. Läs ytterligare erfarenhet och vägledning i den här [MFA-dokumentationen (Multi-Factor Authentication)](partner-security-requirements-mandating-mfa.md#partner-delegated-administration) för din partnerklientorganisation. I scenariot där din domän inte är federerad uppmanas du att konfigurera multifaktorautentisering när autentiseringen har lyckats. När det är klart kan du hantera dina kunder med hjälp av AOBO. I scenariot där din domän är federerad måste du se till att kontot måste använda multifaktorautentisering.
+      Det tekniska framtvingandet för partnersäkerhetskraven kontrolleras om det autentiserade kontot har utmanats för multifaktorautentisering. Om kontot inte har gjort det omdirigeras du till inloggningssidan och uppmanas att autentisera dig igen. Läs mer om upplevelsen och vägledningen [i den här MFA-dokumentationen (Multi-Factor Authentication) för din partnerklientorganisation.](partner-security-requirements-mandating-mfa.md#partner-delegated-administration) I scenariot där din domän inte är federerad uppmanas du att konfigurera multifaktorautentisering när autentiseringen är klar. När det är klart kan du hantera dina kunder med hjälp av AOBO. I scenariot där din domän är federerad måste du se till att kontot används för multifaktorautentisering.
 - name: Övergång till standardinställningar för säkerhet
   questions:
   - question: >
@@ -270,14 +270,14 @@ sections:
       Azure Active Directory (Azure AD) ["baslinje"-principer](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) tas bort och ersätts med "standardinställningar för säkerhet", en mer omfattande uppsättning skyddsprinciper för dig och dina kunder. [Standardvärden för säkerhet](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) kan hjälpa till att skydda din organisation från identitetsstöldsrelaterade säkerhetsattacker.
 
 
-      Implementeringen av multifaktorautentisering (MFA) tas bort på grund av att baslinjeprinciperna tas bort om du inte har övergåt från baslinjeprinciper till säkerhetstandardprincipen eller andra implementeringsalternativ för [multifaktorautentisering.](partner-security-requirements.md#implementing-multi-factor-authentication) Alla användare i dina partnerklienter som utför MFA-skyddade åtgärder uppmanas att slutföra MFA-verifieringen. Granska mer detaljerad vägledning [här.](partner-security-requirements-mandating-mfa.md)
+      Implementeringen av multifaktorautentisering (MFA) tas bort på grund av att baslinjeprinciperna tas bort om du inte har övergåt från baslinjeprinciper till standardprincipen för säkerhet eller andra implementeringsalternativ för [multifaktorautentisering.](partner-security-requirements.md#implementing-multi-factor-authentication) Alla användare i dina partnerklienter som utför MFA-skyddade åtgärder uppmanas att slutföra MFA-verifieringen. Läs mer detaljerad vägledning [här.](partner-security-requirements-mandating-mfa.md)
 
       Vidta någon av följande åtgärder för att hålla dig kompatibel och minimera störningar:
 
 
       - Övergång till standardinställningar för säkerhet
           - Standardprinciper för säkerhet är ett av de alternativ som partner kan välja att implementera MFA. Den erbjuder en grundläggande säkerhetsnivå som är aktiverad utan extra kostnad.
-          - Lär dig hur du aktiverar MFA för din organisation med Azure AD och granskar viktiga överväganden [för säkerhetsstandarder.](partner-security-requirements.md#security-defaults)
+          - Lär dig hur du aktiverar MFA för din organisation med Azure AD och granska viktiga [överväganden för säkerhetsstandarder.](partner-security-requirements.md#security-defaults)
           - Aktivera standardprinciper för säkerhet om den uppfyller dina affärsbehov.
       - Övergång till villkorlig åtkomst
           - Om standardprincipen för säkerhet inte tillgodoser dina behov aktiverar du villkorlig åtkomst. Mer information finns i dokumentationen om villkorsstyrd åtkomst i Azure AD.
@@ -292,7 +292,7 @@ sections:
 
       - Delta i kommande kontorstider för partner och webbseminor. Kontrollera det [detaljerade schemat och resurserna här.](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)
   - question: >
-      Resurser för att börja använda en säker programmodell
+      Resurser för att införa en säker programmodell
     answer: >
       - [Modell för säkra program översikt](/partner-center/develop/enable-secure-app-model)
 
@@ -304,20 +304,20 @@ sections:
 
       - [Partnercenter – autentiseringsdokument](/partner-center/develop/partner-center-authentication)
 
-      - [Dokument om Partnercenter PowerShell Multi-Factor Authentication (MFA)](/powershell/partnercenter/multi-factor-auth)
+      - [Dokument om PartnerCenter PowerShell Multi-Factor Authentication (MFA)](/powershell/partnercenter/multi-factor-auth)
 - name: Support
   questions:
   - question: >
       Var kan jag få support?
     answer: >
-      För supportresurser som uppfyller säkerhetskraven, om du har avancerad support för partner (ASfP) kontaktar du din tjänstkontohanterare; för Premier Support för partneravtal (PSfP) kontaktar du tjänstkontohanteraren och den tekniska kontohanteraren.
+      För supportresurser som uppfyller säkerhetskraven, om du har avancerad support för partner (ASfP) kontaktar du din tjänstkontohanterare. för Premier Support för partneravtal (PSfP) kontaktar du din tjänstkontoansvariga och tekniska kontoansvariga.
   - question: >
-      Hur gör jag för att teknisk information och support som hjälper mig att införa ett säkert ramverk för programmodeller?
+      Hur gör jag för att du teknisk information och support som hjälper mig att införa ett säkert ramverk för programmodeller?
     answer: >
-      Alternativ för teknisk produktsupport för Azure Active Directory är tillgängliga via dina MPN-förmåner. Partner med åtkomst till en aktiv ASfP- eller PSfP-prenumeration kan arbeta med sin associerade kontohanterare (SAM/TAM) för att bättre förstå de alternativ som är tillgängliga för dem.
+      Alternativ för teknisk produktsupport för Azure Active Directory är tillgängliga via dina MPN-förmåner. Partner med åtkomst till en aktiv ASfP- eller PSfP-prenumeration kan arbeta med sin associerade kontohanterare (SAM/TAM) för att bättre förstå vilka alternativ som är tillgängliga för dem.
   - question: >
       Hur gör jag för att kontakta supporten om jag har förlorat åtkomsten till Partnercenter?
-    answer: "Om du förlorar åtkomst på grund av ett MFA-problem kontaktar du den globala administratören för din klientorganisation. Din interna IT-avdelning kan berätta vem din globala administratör är. \n\nOm du har glömt ditt lösenord läser [du Det går inte att logga in](unable-to-sign-in.md) för att få hjälp.\n"
+    answer: "Om du förlorar åtkomst på grund av ett MFA-problem kontaktar du den globala administratören för din klientorganisation. Din interna IT-avdelning kan berätta vem din globala administratör är. \n\nOm du har glömt lösenordet läser du [Det går inte att logga in](unable-to-sign-in.md) för att få hjälp.\n"
   - question: >
       Var hittar jag mer information om vanliga tekniska problem?
-    answer: Information om vanliga tekniska problem finns i Partnersäkerhetskrav [för partner som använder API:er i Partnercenter eller Partnercenter](partner-security-requirements.md)
+    answer: Information om vanliga tekniska problem finns i Partnersäkerhetskrav [för partner som använder Partner Center eller Partner Center API:er](partner-security-requirements.md)

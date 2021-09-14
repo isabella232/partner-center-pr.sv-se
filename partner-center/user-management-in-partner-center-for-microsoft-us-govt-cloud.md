@@ -11,15 +11,15 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 982095303b748639f4f0bdc893acfa0fad1e9453
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960663"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246570"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Användar- och licenshantering i Partnercenter för Microsoft Cloud for US Government
 
-**Gäller för**: Partner Center for Microsoft Cloud for US Government
+**Gäller för**: PartnerCenter för Microsoft Cloud for US Government
 
 **Lämpliga roller:** Global administratör
 
@@ -27,7 +27,7 @@ ms.locfileid: "123960663"
 
 Om du är inloggad på Partnercenter för Microsoft Cloud for US Government kan du öppna Azure Portal för Microsoft Cloud for US Government utan att behöva logga in igen. Men om du behöver logga in direkt på Azure Portal för Microsoft Cloud for US Government går du till ( och loggar in med autentiseringsuppgifter för global administratör för https://portal.azure.us/) din Azure AD-klient för Microsoft Cloud for US Government.
 
-När du har loggat in på Azure Portal för Microsoft Cloud for US Government öppnar du översiktssidan för Azure Active Directory (Azure AD) och följer sedan anvisningarna i följande artiklar:
+När du har loggat in på Azure Portal för Microsoft Cloud for US Government öppnar du översiktssidan för Azure Active Directory (Azure AD) och följer sedan anvisningarna i dessa artiklar:
 
 > [!NOTE]  
 > Om du väljer länkarna nedan kommer du till en annan webbplats. 

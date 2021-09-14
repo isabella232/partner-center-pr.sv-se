@@ -10,11 +10,11 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.openlocfilehash: 5276f5bcc201633865fd8f226d52630919530982
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960113"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246930"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Skapa, pausa eller avbryta kundprenumerationer
 
@@ -41,7 +41,7 @@ Vissa erbjudanden är begränsade till en prenumeration per kund. Om du vill se 
 3. Välj **Lägg till prenumeration.** På **fliken Onlinetjänster** visas alla tillgängliga Marketplace SaaS-erbjudanden.
 
 4. Om du bara vill se vissa typer av prenumerationer gör du val i de tillgängliga filtren:
-   - **Publisher: Välj** **Microsoft** om du bara vill se erbjudanden från Microsoft eller **Partner för** att se produkter från den kommersiella marknadsplatsen som publicerats av ISV:er.
+   - **Publisher: Välj** **Microsoft om** du bara vill se erbjudanden från Microsoft eller **Partner för** att se produkter från den kommersiella marknadsplatsen som publicerats av ISV:er.
    - **Faktureringstyp:** Välj den typ av prenumerationsfakturering som du vill använda: **Licens** eller **Användning.** Se [Licensbaserad fakturering för](license-based-billing.md) information som hjälper dig att välja mellan månatlig och årlig faktureringsfrekvens.
    - **Kategori:** Välj **Företag,** **Litet företag** eller **Utvärderingsversion.** Information om utvärderingsprenumerationer finns [i Offer your customers trials of Microsoft products (Erbjuda dina kunder utvärderingsversioner av Microsoft-produkter).](offer-your-customers-trials-of-microsoft-products.md)
 
@@ -112,7 +112,7 @@ När du ändrar statusen för en prenumeration **till Inaktiverad** kan använda
 När du inaktiverar en prenumeration anger  datumet som visas under knappen Pausad när prenumerationen upphör att gälla automatiskt om du inte återaktiverar den. 
 
 > [!Note] 
-> Nya handelsändringar är för närvarande endast tillgängliga för partner som ingår i den tekniska förhandsversionen Microsoft 365/Dynamics 365.
+> Nya handelsändringar är för närvarande endast tillgängliga för partner som ingår i den tekniska förhandsversionen av Microsoft 365/Dynamics 365.
 
 Om du vill inaktivera nya handelsprenumerationer eller återaktivera inaktiverade nya handelsprenumerationer skapar du en tjänstbegäran och kontaktar supporten. 
 
@@ -157,17 +157,17 @@ Så här avbryter du en licensbaserad SaaS-prenumeration från en ISV-utgivare:
 6. Bekräfta annulleringen genom att välja **Ja, avbryt**.
 
 > [!NOTE]
-> Du kan också välja att avbryta en prenumeration Azure Marketplace med hjälp av API:er. Om du vill göra det kan [du läsa Avbryt en Azure Marketplace prenumeration.](/partner-center/develop/cancel-an-azure-marketplace-subscription)
+> Du kan också välja att avbryta en prenumeration Azure Marketplace med hjälp av API:er. Det gör du genom att läsa [Avbryt en Azure Marketplace prenumeration.](/partner-center/develop/cancel-an-azure-marketplace-subscription)
 
 ### <a name="cancel-a-new-commerce-subscription"></a>Avbryta en ny handelsprenumeration
 
 > [!Note] 
 > Nya handelsändringar är för närvarande endast tillgängliga för partner som ingår i den tekniska förhandsversionen av Microsoft 365/Dynamics 365.
 
-För nya handelserbjudanden kan du avbryta prenumerationen när som helst före åtagandeperioden. När du avbryter en prenumeration förlorar kunden omedelbart åtkomst till tjänsten. Åtkomst kan inte återställas efter annullering. Följande alternativ för annullering är tillgängliga för en partner när prenumerationen har köpts: 
+För nya handelserbjudanden kan du avbryta prenumerationen när som helst före perioden för åtagandeperioden. När du avbryter en prenumeration förlorar kunden omedelbart åtkomst till tjänsten. Åtkomsten kan inte återställas efter annulleringen. Följande alternativ för annullering är tillgängliga för en partner när prenumerationen har köpts: 
 
 - Inom 24 timmar efter prenumerationens startdatum: Du kan avbryta hela prenumerationen inom 24 timmar för fullständig återbetalning.  
-- Inom 30 dagar efter prenumerationens startdatum: Du kan avbryta hela prenumerationen inom de första 30 dagarna. Du får hela beloppet återbetalat minus det nominella beloppet under de dagar då du använde prenumerationen.
+- Inom 30 dagar efter prenumerationens startdatum: Du kan avbryta hela prenumerationen inom de första 30 dagarna. Du får tillbaka hela beloppet minus det prodelade beloppet under de dagar då du använde prenumerationen.
 - Efter 30 dagars prenumerationens startdatum: Du kan inte avbryta prenumerationen.
 
 ### <a name="pause-and-resume-a-new-commerce-subscriptions"></a>Pausa och återuppta en ny handelsprenumerationer 
@@ -175,31 +175,31 @@ För nya handelserbjudanden kan du avbryta prenumerationen när som helst före 
 > [!Note] 
 > Nya handelsändringar är för närvarande endast tillgängliga för partner som ingår i den tekniska förhandsversionen av Microsoft 365/Dynamics 365.
 
-Vid utebliven betalning från kunden, som ibland kallas "dunningscenario", kan partner pausa och återuppta sin prenumeration för att omedelbart blockera kundens åtkomst till prenumerationens tjänster.
+Vid utebliven betalning från kunden, som ibland kallas "dunning", kan partner pausa och återuppta sin prenumeration för att omedelbart blockera kundens åtkomst till prenumerationens tjänster.
 
 Om du pausar kundens prenumerationer inaktiveras möjligheten att logga in och använda deras tjänster tills prenumerationen återupptas.   
 
-Du kan pausa en prenumeration med hjälp av Partnercenter:
+Du kan pausa en prenumeration med partnercenter:
 
 1. Gå till kundens prenumerationssida och välj den prenumeration som du vill pausa
 
-2. Välj **alternativknappen** Pausa
+2. Välj **alternativknappen Pausa**
 
-3. Läs popup-modalen och välj **OK**
+3. Läs popup-modal och välj **OK**
 
-4. Prenumerationen är nu i ett pausat tillstånd och partnern fortsätter att debiteras för prenumerationen
+4. Prenumerationen har nu pausats och partnern fortsätter att debiteras för prenumerationen
 
-Att pausa är ett återställningsbart tillstånd via partnercenters användargränssnitt eller API:er som omedelbart återställer en kunds åtkomst till en prenumerations tjänster. 
+Pausning är ett återställningsbart tillstånd via partnercentrets användargränssnitt eller API:er som omedelbart återställer en kunds åtkomst till en prenumerations tjänster. 
 
 >[!IMPORTANT] 
-> När du pausar en prenumeration inaktiveras eventuella inställningar för automatisk förnyelse och eventuella befintliga borthållna ändringar tas bort. När du använder en prenumeration påverkar det bara kundens tjänståtkomst. Partnerfakturering fortsätter medan den är i pausläge.
+> När du pausar en prenumeration inaktiveras eventuella inställningar för automatisk förnyelse och eventuella befintliga sceheduled-ändringar tas bort. Om du använder en prenumeration påverkar det bara kundens tjänståtkomst, partnerfakturering fortsätter medan den är i pausat tillstånd.
 
 ### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription-or-a-new-commerce-subscription"></a>Välj om du vill förnya en prenumeration på den kommersiella marknadsplatsen automatiskt eller en ny handelsprenumeration
 
 > [!Note] 
 > Nya handelsändringar är för närvarande endast tillgängliga för partner som ingår i den tekniska förhandsversionen av Microsoft 365/Dynamics 365.
 
-Som standard förnyas prenumerationer automatiskt när prenumerationstiden går ut. För [prenumerationer på kommersiella marknadsplatsprodukter](csp-commercial-marketplace-overview.md)eller nya handelsprenumerationer kan du välja att inte förnya prenumerationen automatiskt.
+Som standard förnyas prenumerationer automatiskt när prenumerationstiden går ut. För [prenumerationer på produkter på den kommersiella](csp-commercial-marketplace-overview.md)marknadsplatsen, eller nya handelsprenumerationer, kan du välja att inte förnya prenumerationen automatiskt.
 
 Så här stoppar du en aktiv prenumeration på den kommersiella marknadsplatsen eller nya handelsprenumerationer från att förnyas automatiskt:
 
@@ -211,7 +211,7 @@ Så här stoppar du en aktiv prenumeration på den kommersiella marknadsplatsen 
 
 4. I kolumnen **Prenumeration** väljer du den prenumeration som du vill ändra.
 
-5. På sidan med prenumerationsinformation letar du upp **avsnittet Status** och **avmarkerar rutan Förnya** automatiskt.
+5. På sidan med prenumerationsinformation letar du **upp avsnittet Status** och **avmarkerar rutan Förnya** automatiskt.
 
 6. Välj **Skicka**.
 
@@ -220,16 +220,16 @@ Så här stoppar du en aktiv prenumeration på den kommersiella marknadsplatsen 
 > [!Note] 
 > Nya handelsändringar är för närvarande endast tillgängliga för partner som ingår i den tekniska förhandsversionen av Microsoft 365/Dynamics 365.
 
-Vissa ändringar i prenumerationer kan bara ske i slutet av en period. De här ändringarna kan schemaläggas så att de tillämpas praktiskt i slutet av termen. Exempel på ändringar som måste schemaläggas:
+Vissa ändringar i prenumerationer kan bara ske i slutet av en period. De här ändringarna kan schemaläggas så att de tillämpas praktiskt i slutet av perioden. Exempel på ändringar som måste schemaläggas:
 
-- SKU-nedgradering
-- Minskningar av platser
+- SKU nedgraderas
+- Minskning av platser
 - Ändringar av olika villkor
-- Ändringar av faktureringsfrekvensen
+- Ändringar i faktureringsfrekvensen
 
 Andra ändringar, till exempel uppgraderingar eller platsökningar, kan tillämpas under perioden.
 
-Schemaändringar sker vid förnyelsen när prenumerationen förnyas för nästa period.
+Schemaändringar sker vid förnyelse när prenumerationen förnyas för nästa period.
 
 Förutsättningar för schemalagda ändringar:
 
@@ -247,9 +247,9 @@ Schemalägga en ny ändring som ska ske vid förnyelse
 
 4. Välj **Hantera förnyelser.**
 
-5. Välj ett annat värdeändring för SKU, kvantitet, period eller faktureringsfrekvens:
+5. Välj ett annat Värdeändring för SKU, kvantitet, period eller faktureringsfrekvens:
 
-   - **Current** är det aktuella värdet för prenumerationen 
+   - **Aktuell** är det aktuella värdet för prenumerationen 
 
    - **Ändra** till är det senast sparade värdet som du vill använda vid förnyelsen för den nya prenumerationen 
 
@@ -261,7 +261,7 @@ Partner kan komma åt **Hantera förnyelser för** att visa, uppdatera eller ta 
 
 > [!Note] 
 >- Utvärderingsversioner är schema för konvertering till den betalda SKU:n i slutet av deras period som standard. 
->- För schemalagda SKU-uppgraderingar/nedgradering måste omtilldeling av användarlicensen göras manuellt.
+>- För schemalagda SKU-uppgraderingar/nedgradering av användarlicens måste omtilldeling göras manuellt.
 >- Sparade schemalagda ändringar tas bort om följande uppdateringar efter halva tiden görs i prenumerationen.
 
 ### <a name="partial-upgrades-in-new-commerce-subscriptions"></a>Partiella uppgraderingar i nya handelsprenumerationer
@@ -269,18 +269,18 @@ Partner kan komma åt **Hantera förnyelser för** att visa, uppdatera eller ta 
 > [!Note] 
 > Nya handelsändringar är för närvarande endast tillgängliga för partner som ingår i den tekniska förhandsversionen av Microsoft 365/Dynamics 365.
 
-Partiella uppgraderingar gör det möjligt för en partner att utse vissa licenser från en SKU till en annan. Tidigare uppgradering i traditionella licensbaserade prenumerationer gjorde att endast alla licenser kunde uppgraderas. Med ny handel kan en partner flytta vissa licenser när det passar dem. Detta ger partnern mer kontroll över hanteringen av uppgraderingar, så att de kan flytta vissa användare till en ny SKU utan att flytta alla. 
+Partiella uppgraderingar gör det möjligt för en partner att ange vissa licenser från en SKU till en annan. Tidigare uppgradering i traditionella licensbaserade prenumerationer gjorde att endast alla licenser kunde uppgraderas. Med ny handel kan en partner flytta vissa licenser när det passar dem. Detta ger partnern mer kontroll över hanteringen av uppgraderingar, så att de kan flytta vissa användare till en ny SKU utan att flytta alla. 
 
-Partiella uppgraderingar kan schemaläggas så att de sker i slutet av en period eller kan initieras efter halva tiden. 
+Partiella uppgraderingar kan schemaläggas att ske i slutet av en period eller initieras på medel sikt. 
 
 Information om partiell uppgradering:
 
-- Definieras som partiellt om uppgraderingslicensantalet skiljer sig från den ursprungliga prenumerationen.
+- Definieras som partiellt om antalet uppgraderingslicens är annorlunda än den ursprungliga prenumerationen.
 - När du initierar en mellantidsuppgraderingar tas befintliga schemalagda uppgraderingar bort.
 - Uppgraderingar kan bara initieras från prenumerationer i **aktivt** tillstånd.
-- En ny prenumeration som skapas när du uppgraderar har samma slutdatum som prenumerationen som uppgraderingen kom från.
+- En ny prenumeration som skapas när du uppgraderar har samma slutdatum för perioden som den prenumeration som uppgraderingen kom från.
 
-Partner kan komma åt vilken prenumeration de vill uppgradera till när de konfigurerar antalet licenser och vilken prenumeration de vill uppgradera till. Partner kan välja en **ny** prenumeration eller välja en befintlig prenumeration.
+Partner kan komma åt vilken prenumeration de vill uppgradera till när de konfigurerar antal licenser och prenumerationer som de vill uppgradera till. Partner kan välja en **Ny** prenumeration eller välja en befintlig prenumeration.
 
 ## <a name="next-steps"></a>Nästa steg
 

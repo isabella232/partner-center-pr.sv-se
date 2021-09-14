@@ -10,15 +10,15 @@ ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 2d9924b8d361be4237c613467a1d36db29cf7d9e
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960666"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247111"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Så här säljer du erbjudanden till utbildningskunder och hur du skapar en utbildningskund i Partnercenter
 
-**Lämpliga roller:** Globala | Administratörsagentens | Försäljningsagent
+**Lämpliga roller:** Global | Administratörsagentens | Försäljningsagent
 
 ## <a name="create-an-education-customer"></a>Skapa en utbildningskund
 

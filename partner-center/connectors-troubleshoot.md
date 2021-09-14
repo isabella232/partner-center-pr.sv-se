@@ -9,11 +9,11 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.openlocfilehash: 5143d8e779332fd7df1ebeb3b5175658a0190f4b
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960266"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246955"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Felsöka anslutningsappar för hänvisningar till säljförsäljning
 
@@ -54,7 +54,7 @@ Salesforce Connector-lösningen är av typen "Dynamics Flow" som stöder synkron
 
 1. Vad ska du göra om du får följande fel när du aktiverar flöden i Power Automate Platform?
 
-Fel: Begäran till Azure Resource Manager misslyckades med fel: "{"error":{"code":"WorkflowTriggerNotFound","message":"Arbetsflödet "e14d00f1-1fdf-4b1b-aaac-54a5064093d3" utlösaren "manual" kunde inte hittas."}}'. 
+Fel: Begäran till Azure Resource Manager misslyckades med felet: "{"error":{"code":"WorkflowTriggerNotFound","message":"Arbetsflödet "e14d00f1-1fdf-4b1b-aaac-54a5064093d3" utlösaren "manual" kunde inte hittas."}}". 
 
 Följ dessa felsökningssteg:
 
@@ -163,7 +163,7 @@ Följande är några av de alternativ som du kan prova:
 
 - Kontrollera om användarnamnet eller lösenordet har upphört att gälla för Partnercenter-användaren med referensadministratörsroller.
 
-- Du kan gå till den icke-synkroniserade affärsmöjligheten, göra en mindre uppdatering och se om hänvisningen har synkroniserats.
+- Du kan gå till den icke-synkroniserade affärsmöjligheten, göra en mindre uppdatering och se om referensen har synkroniserats.
 
 - Om flödena har körts och misslyckats väljer du flödet och skickar om körningen som misslyckades.
 
@@ -173,29 +173,29 @@ Kontrollera att rätt roller finns
 
 - Referensadministratörsroll för Partner Center-säljare 
  
-- Systemadministratörs- eller systemanpassarroll på din CRM-instans
+- Rollen Systemadministratör eller Systemanpassare på din CRM-instans
 
 - Kontrollera att Power Automate flödeskontoanvändare loggar in https://flow.microsoft.com på minst en gång i förväg
 
-6. Vad ska du göra om **du** ser att landskoden för kundkontot saknas när du skapar en möjlighet till säljförsäljning?
+6. Vad ska du göra **om du** ser att landskoden för kundkontot saknas när du skapar en möjlighet till säljförsäljning?
 
 Du måste lägga till ISO-landskoden med två bokstäver till kundkontot i CRM.
 
 7. Vad ska du göra om du ser felet att **lösnings-ID krävs när** du skapar en möjlighet till säljförsäljning?
 
-För att kunna skapa en hänvisning till säljförsäljning behöver du en lösning som är redo för microsofts säljförsäljning. 
+För att kunna skapa en hänvisning till säljförsäljning behöver du en lösning som är redo för Microsofts säljförsäljning. 
 
-8. Vad ska du göra när du ser möjligheter till säljförsäljning i Partnercenter som inte synkroniseras med CRM trots att det inte finns några flödesfel?
+8. Vad ska du göra när du ser möjligheter till säljförsäljning som skapats i Partnercenter och som inte synkroniseras med CRM trots att det inte finns några flödesfel?
 
 Gör följande:
 
-- När du har skapat ett nytt samförsäljningskontrakt i Partnercenter kontrollerar du om PartnerCenter till Dynamics 365-flöde anropas (det kan anropas flera gånger).
+- När du har skapat ett nytt samförsäljningsavtal i Partnercenter kontrollerar du om Flödet Partnercenter till Dynamics 365 anropas (det kan anropas flera gånger).
 
 - Om flödet anropas kontrollerar du alla anropade flöden och identifierar flödeskörningen som uppdaterar CRM. Du kan följa åtgärderna och kontrollera om CRM har uppdaterats eller om ett problem har uppstått.
 
 - Markera **Nytt avtal i** Partnercenter för att se om det fylls med CRM-ID.
 
-- Kontrollera att avtalet inte har stängts av misstag som Won **(Vunnit)** **eller Lost (Förlorad)** i Partnercenter.
+- Kontrollera att avtalet inte har stängts av misstag som **won (vunnits)** **eller Lost (förlorad)** i Partnercenter.
 
 ## <a name="next-steps"></a>Nästa steg
 

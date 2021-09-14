@@ -10,15 +10,15 @@ ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 03/31/2021
 ms.openlocfilehash: 393f0ee6c49cbbdf814a823f732bb4b92d4deb2e
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960006"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247309"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analysera prenumerationer och licenser som hjälper dig att driva affärsbeslut och nya mål
 
-**Lämpliga roller:** Globala | Administratörsbehörighet för | Administratörsagentens | Försäljningsagent
+**Lämpliga roller:** Globala | Administratörsbehörighet för | Administratörsagent | Försäljningsagent
 
 Data driver affärsbeslut. Använd måtten på sidan **Prenumerations- och licensanalys** för att identifiera dina framgångar och områden som behöver mer uppmärksamhet. Använd den här informationen när du planerar nya affärsmål.
 

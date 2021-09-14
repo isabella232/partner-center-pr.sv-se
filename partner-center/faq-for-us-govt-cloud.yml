@@ -1,7 +1,7 @@
 ### YamlMime:FAQ
 metadata:
   title: Vanliga frågor och svar – Partnercenter – Microsoft Cloud for US Government
-  description: Se svar på vanliga frågor (FAQ) om CSP Molnlösningsleverantör programmet (CSP) för Microsoft Cloud for US Government.
+  description: Se svar på vanliga frågor (FAQ) om programmet Molnlösningsleverantör (CSP) för Microsoft Cloud for US Government.
   ms.topic: article
   ms.service: partner-dashboard
   ms.subservice: partnercenter-enroll
@@ -10,11 +10,11 @@ metadata:
   ms.localizationpriority: medium
   ms.date: 6/17/2021
   ms.openlocfilehash: f4b81d16b7d593e867e886371363fff30128c13e
-  ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+  ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/09/2021
-  ms.locfileid: "123960123"
+  ms.lasthandoff: 09/13/2021
+  ms.locfileid: "126247159"
 title: Vanliga frågor och svar om Partnercenter för Microsoft Cloud for US Government
 summary: >
   **Gäller för**: Partner Center for Microsoft Cloud for US Government
@@ -26,22 +26,22 @@ summary: >
   ## <a name="general-questions"></a>Allmänna frågor
 
 
-  Använd dessa vanliga frågor om du vill veta mer om Molnlösningsleverantör (CSP) för Microsoft Cloud for US Government. Du kan också kontakta din kontoansvariga för mer information.
+  Använd dessa vanliga frågor om du vill veta mer om Molnlösningsleverantör (CSP)-programmet för Microsoft Cloud for US Government. Du kan också kontakta din kontoansvariga för mer information.
 sections:
 - name: Allmänt
   questions:
   - question: >
       Vad är Microsoft Cloud for US Government?
     answer: >
-      Microsoft Cloud for US Government har utformats för amerikanska myndigheter från grunden och gör det möjligt för kunder inom den offentliga sektorn i USA – från stora federala myndigheter till små myndigheter – att välja bland en mängd olika tjänster för molnbaserad databehandling. För att uppfylla kundernas specifika behov har Microsoft gjort betydande investeringar i datacenter och är dedikerade för att uppfylla efterlevnad med amerikanska federala och statliga principer, uppdrag och krav.
+      Det här är utformat för amerikanska myndigheter från grunden och Microsoft Cloud for US Government gör det möjligt för kunder inom den offentliga sektorn i USA – från stora federala myndigheter till små myndigheter – att välja bland en mängd olika tjänster för molnbaserad databehandling. För att uppfylla kundernas specifika behov har Microsoft gjort betydande investeringar i datacenter och är dedikerade för att uppfylla efterlevnad med amerikanska federala och statliga principer, uppdrag och krav.
   - question: >
       Vem är berättigat till CSP-programmet för Microsoft Cloud for US Government?
     answer: >
-      Partner i USA som arbetar för amerikanska federala, statliga och lokala myndigheter i deras myndighetsorganisationer är berättigade till CSP-programmet för Microsoft Cloud for US Government. Microsoft har ett strikt valideringsprogram för att fastställa berättigande innan partner kan komma åt Microsoft Cloud for US Government. För att kvalificera dig måste du bevisa att du arbetar med myndighetskunder. Registreringsprocessen för CSP-programmet i Microsoft Could for US Government har förstärkts för att samla in mer data för att utföra verifieringen. Typer av bevis kan inkludera, men är inte begränsade till, myndighetskontraktnummer och sponsringsbrev från din myndighetskund.
+      Partner i USA som betjänar amerikanska federala, statliga och lokala myndigheter i deras myndighetsorganisationer är berättigade till CSP-programmet för Microsoft Cloud for US Government. Microsoft har ett strikt valideringsprogram för att fastställa berättigande innan partner kan komma åt Microsoft Cloud for US Government. För att kvalificera dig måste du bevisa att du arbetar med myndighetskunder. Registreringsprocessen för CSP-programmet i Microsoft Could for US Government har förstärkts för att samla in mer data för att utföra verifieringen. Typer av bevis kan inkludera, men är inte begränsade till, myndighetskontraktnummer och sponsringsbrev från din myndighetskund.
   - question: >
       Är kundpriser samma som för CSP Commercial?
     answer: >
-      Nej. Prissättningen återspeglar de ytterligare kostnaderna för att ge det unika värdet Microsoft Cloud for US Government.
+      Nej. Prissättningen återspeglar de ytterligare kostnaderna för att ge det unika värdet för Microsoft Cloud for US Government.
   - question: >
       Är partnerns rabatterade modell densamma?
     answer: >
@@ -75,7 +75,7 @@ sections:
       *Microsoft Cloud Reseller Agreement (MCRA)*
 
 
-      MCRA ger partner behörighet att sälja med CSP. Us Government Cloud-versionen av det här avtalet godkänns vid registrering till Microsoft Cloud for US Government. Den här versionen har ett US Government Cloud-tillägg och uppvisar A efter standardavtalet för molnåterförsäljare.
+      MCRA ger partner behörighet att sälja med CSP. US Government Cloud-versionen av det här avtalet godkänns vid registrering till Microsoft Cloud for US Government. Den här versionen har ett US Government Cloud-tillägg och uppvisar A efter standardavtalet för molnåterförsäljare.
 
 
       MCRA för Microsoft Cloud for US Government skiljer sig från MCRA-standarden på följande två sätt:
@@ -87,13 +87,13 @@ sections:
       - Uppvisar A innehåller Microsoft-kundavtal (Microsoft-kundavtal) som måste införlivas i varje kontrakt för US Government Cloud-tjänster som ingår mellan CSP:n och dess kund.
 
 
-      *Microsoft-kundavtal (Microsoft-kundavtal) som visas som bilaga A i MCRA*
+      *Microsoft-kundavtal (Microsoft-kundavtal) som visas som Bilaga A i MCRA*
 
 
-      CSP:er måste införliva bilaga A i det myndighetskontrakt som anges mellan CP:er och kunder som köper Microsoft Cloud for US Government. Avtalet publiceras i Partnercenter och är tillgängligt på engelska.
+      CSP:er måste införliva bilaga A i myndighetskontraktet som anges mellan CP:er och kunder som köper Microsoft Cloud for US Government. Avtalet publiceras i Partnercenter och är tillgängligt på engelska.
 
 
-      Microsoft-kundavtal för US Government Cloud skiljer sig från Microsoft-kundavtal på följande två sätt:
+      Microsoft-kundavtal för US Government Cloud skiljer sig från standard Microsoft-kundavtal på följande två sätt:
 
 
       - Det måste införlivas i CSP:s avtal med kunden.
@@ -114,7 +114,7 @@ sections:
       - Microsoft Cloud for US Government Tillägget innehåller ytterligare partneransvar för att göra en överträdelse av US Government Cloud-tjänster.
 
 
-      - Uppvisar A innehåller Microsoft-kundavtal (Microsoft-kundavtal) som måste införlivas i varje kontrakt för US Government Cloud-tjänster som ingår mellan CSP:n och dess kunder.
+      - UppvisaR A innehåller Microsoft-kundavtal (Microsoft-kundavtal) som måste införlivas i varje kontrakt för US Government Cloud-tjänster som ingår mellan CSP:n och dess kunder.
   - question: >
       Vilka är kvalificeringarna för att sälja Microsoft Cloud for US Government?
     answer: >
@@ -130,7 +130,7 @@ sections:
   - question: >
       Finns det några ändringar i faktureringen?
     answer: >
-      Nej. Faktureringskriterier och krav för CSP-programmet för Microsoft Cloud for US Government är samma som faktureringskriterier och krav för CSP Commercial. Mer information om fakturering finns i resurserna på [Microsoft Partner Network](https://partner.microsoft.com/cloud-solution-provider/resources).
+      Nej. Faktureringskriterier och krav för CSP-programmet för Microsoft Cloud for US Government är samma som faktureringsvillkor och krav för CSP Commercial. Mer information om fakturering finns i resurserna på [Microsoft Partner Network](https://partner.microsoft.com/cloud-solution-provider/resources).
   - question: >
       Går det att ändra till Microsoft Cloud for US Government för data som finns i kommersiella datacenter?
     answer: >
@@ -140,7 +140,7 @@ sections:
   - question: >
       Vad är Microsoft Cloud for US Government för Azure?
     answer: >
-      Azure Government moln en molnplattform som bygger på grundläggande principer för säkerhet, sekretess och kontroll, efterlevnad och transparens. Entiteter inom den offentliga sektorn får en fysiskt isolerad instans av Microsoft Azure som använder förstklassiga säkerhets- och efterlevnadstjänster som är viktiga för amerikanska myndigheter för alla system och program som bygger på dess arkitektur. Dessa tjänster omfattar FedRAMP- och DoD-efterlevnadscertifieringar, CJIS-avtal på delstatsnivå, möjligheten att utfärda HIPAA-affärsavtal och stöd för IRS 1075. Drivs av säkerhetsbekanta amerikanska Azure Government har stöd för flera hybridscenarier för att skapa och distribuera lösningar lokalt eller i molnet. Entiteter inom den offentliga sektorn kan också dra nytta av omedelbar skalbarhet och garanterad drifttid för en molntjänst i hyperskala.
+      Azure Government moln en molnplattform som bygger på grundläggande principer för säkerhet, sekretess och kontroll, efterlevnad och transparens. Entiteter inom den offentliga sektorn får en fysiskt isolerad instans av Microsoft Azure som använder säkerhets- och efterlevnadstjänster i världsklass som är viktiga för amerikanska myndigheter för alla system och program som bygger på dess arkitektur. Dessa tjänster omfattar FedRAMP- och DoD-efterlevnadscertifieringar, CJIS-avtal på delstatsnivå, möjligheten att utfärda HIPAA-affärsavtal och stöd för IRS 1075. Drivs av säkerhetsbekanta amerikanska Azure Government har stöd för flera hybridscenarier för att skapa och distribuera lösningar lokalt eller i molnet. Entiteter inom den offentliga sektorn kan också dra nytta av omedelbar skalbarhet och garanterad drifttid för en molntjänst i hyperskala.
   - question: >
       Erbjuder CSP-programmet för Microsoft Cloud for US Government alla Azure-tjänster?
     answer: >
@@ -199,7 +199,7 @@ sections:
   - question: >
       Var hittar jag mer information?
     answer: >
-      Använd följande länkar för att bekanta dig med CSP-programmet och lär dig mer om att utveckla med PartnerCenter för Microsoft Cloud for US Government.
+      Använd följande länkar för att bekanta dig med CSP-programmet och lär dig mer om att utveckla med Partnercenter för Microsoft Cloud for US Government.
 
 
       - [Läs mer om Azure Government](https://azure.microsoft.com/overview/clouds/government/)
@@ -212,5 +212,5 @@ sections:
   - question: >
       Var ska jag gå om jag fortfarande har frågor?
     answer: >
-      Kontakta din kontoansvariga om du vill ha mer information. Gå dessutom med i vår Yammer grupp som är specifik [för CSP för Azure Government](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777).
-additionalContent: "\n## <a name=\"next-steps\"></a>Nästa steg\n\n- [Registrera i Molnlösningsleverantör för Microsoft Cloud for US Government](enroll-in-csp-for-microsoft-us-govt-cloud.md).\n- [Läs mer om Partnercenter för Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)"
+      Kontakta din kontoansvariga om du vill ha mer information. Gå dessutom med i vår Yammer grupp som är specifik för [CSP för Azure Government](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777).
+additionalContent: "\n## <a name=\"next-steps\"></a>Nästa steg\n\n- [Registrera dig i Molnlösningsleverantör för Microsoft Cloud for US Government](enroll-in-csp-for-microsoft-us-govt-cloud.md).\n- [Läs mer om Partnercenter för Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)"

@@ -1,5 +1,5 @@
 ---
-title: Användningsrapport Insights Enterprise Mobility + Security Partnercenter
+title: Partnercenter Insights Enterprise Mobility + Security användningsrapport
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
@@ -9,15 +9,15 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.openlocfilehash: b78167823a26b16bfa51a7a948afeda027b9898e
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961373"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246840"
 ---
 # <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security användningsrapport som är tillgänglig från instrumentpanelen Insights Partnercenter
 
-**Lämpliga roller:** Globala | Administratörsagentens | Rapportvisningsprogram | Rapportvisningsprogram för chefer
+**Lämpliga roller:** Global | Administratörsagentens | Rapportvisningsprogram | Rapportvisningsprogram för chefer
 
 Rapporten Enterprise Mobility + Security användning innehåller användningsdata för de Enterprise Mobility + Security prenumerationer som du har sålt eller hanterar åt dina kunder. Du kan visa följande avsnitt från Enterprise Mobility + Security användningsrapport.
 
@@ -32,7 +32,7 @@ Rapporten Enterprise Mobility + Security användning innehåller användningsdat
 
 ## <a name="summary"></a>Sammanfattning
 
-I sammanfattningsavsnittet visas en ögonblicksbild av kpi:erna relaterade Enterprise Mobility + Security användningsprenumerationer som du har sålt eller hanterar för dina kunder. 
+I sammanfattningsavsnittet visas en ögonblicksbild av kpi:erna relaterade Enterprise Mobility + Security användningsprenumerationer som du har sålt eller hanterar åt dina kunder. 
 
 - Nya prenumerationer: Totalt antal sålda eller hanterade prenumerationer under den valda tidsramen.
 

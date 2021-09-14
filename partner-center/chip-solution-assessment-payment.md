@@ -10,11 +10,11 @@ ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 4184d155ceff22a34e1a85d2909f4e1b17a46daa
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961246"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246984"
 ---
 # <a name="solution-assessment-payment-status-and-calculation-info"></a>Betalningsstatus och beräkningsinformation för Solution Assessment
 

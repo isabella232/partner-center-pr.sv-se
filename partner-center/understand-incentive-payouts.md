@@ -10,17 +10,17 @@ ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.openlocfilehash: 33ec3befdc4b2bab2f31d25d210679594debbbf1
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960573"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246624"
 ---
 # <a name="view-your-incentives-program-details"></a>Visa information om incitamentsprogrammet
 
-**Lämpliga roller:** Incitamentsadministratörsroller | Incitament för | Globala | MPN-partneradministratör
+**Lämpliga roller:**| Incitament för | Global | MPN-partneradministratör
 
-Den här artikeln förklarar **översiktssidan Mina** incitament, som visar övergripande status för dina incitamentsprogram, samt status för varje program på varje plats. Den ger även de olika registreringsstatusarna.
+Den här artikeln förklarar **översiktssidan Mina** incitament, som visar övergripande status för dina incitamentprogram, samt status för varje program på varje plats. Den ger även de olika registreringsstatusarna.
 
 >[!NOTE]
 >Mer information om incitament och incitamentsfunktioner i Partnercenter finns i [Partnerinvesteringar och incitament](https://partner.microsoft.com/membership/partner-incentives) (inloggning krävs).
@@ -47,7 +47,7 @@ I följande tabell beskrivs de olika registreringstillstånd som visas i **kolum
 | Avvecklade  | Det specifika incitamentprogrammet erbjuds inte längre i incitamentssystemet. |
 | Registrerad  | All skatte- och bankinformation har verifierats. Ingen ytterligare registreringsåtgärd krävs av partnern. |
 | Registrerar  | Användaren är inte incitamentadministratör och registreringen är i den åtgärd som **krävs eller** **verifierar registrerings tillstånd.**|
-| Inaktiv/ej tillgänglig | Incitamentprogrammet kanske inte är öppet för registrering just nu eller så uppfyller inte partnern aktuell behörighet för registrering eller omregistrering. <br><br> Om statusen **är Ej berättigad uppfyller** partnern inte de aktuella behörighetskraven för programmet. Om du **väljer länken Se behörighetskrav** under registreringsstatusen visas behörighetskraven och vilka av dessa krav som har uppfyllts. <br><br> Du kan också se **en inaktiv** status för registreringar av virtuella organisationer (VORG) eller PARTNER Global Account (PGA) som inte längre är aktiva i incitamentprogrammet.  |
+| Inaktiv/ej liglig | Incitamentprogrammet kanske inte är öppet för registrering just nu eller så uppfyller inte partnern aktuell behörighet för registrering eller omregistrering. <br><br> Om statusen **är Ej berättigad uppfyller** partnern inte de aktuella behörighetskraven för programmet. Om du **väljer länken Se behörighetskrav** under registreringsstatusen visas behörighetskraven och vilka av dessa krav som har uppfyllts. <br><br> Du kan också se **en inaktiv** status för registreringar av virtuella organisationer (VORG) eller PARTNER Global Account (PGA) som inte längre är aktiva i incitamentprogrammet.  |
 | Inbjuden  | En ny inbjudan till registrering av incitamentprogram har skickats till partnern, men partnern har ännu inte startat registreringsprocessen. I den intilliggande **kolumnen Åtgärder** krävs visas nästa steg och eventuella relaterade länkar.  |
 | Verifiera registrering  | Partnern har redan slutfört eller uppdaterat bank- och skatteinformation för en ny eller befintlig registrering och väntar på att Microsoft ska verifiera den här informationen. Under valideringsprocessen kan **Verifiering av registrering visas** i upp till 48 timmar.  |
 

@@ -10,15 +10,15 @@ ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 0a3af74158b36442118d41662744fc921277963c
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959973"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126249056"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Återställa administratörsbehörigheter för en kunds Azure CSP prenumerationer  
 
-**Lämpliga roller:** Globala | Administratörsagent
+**Lämpliga roller:** Global | Administratörsagent
 
 Som CSP Molnlösningsleverantör partner förväntar sig kunderna ofta att du hanterar deras Azure-användning och deras system åt dem. Du måste ha administratörsbehörighet för att göra det. Vissa behörigheter beviljas när din återförsäljarrelation med kunden upprättas. Andra beviljas till dig av din kund.
 
@@ -26,10 +26,10 @@ Som CSP Molnlösningsleverantör partner förväntar sig kunderna ofta att du ha
 
 Det finns två nivåer av administratörsbehörighet för Azure i CSP.
 
-- **Administratörsbehörighet på klientorganisationsnivå (delegerade administratörsbehörigheter):** CSP-partner får dessa behörigheter när de upprättar en CSP-återförsäljarrelation med kunder. Delegerade administratörsbehörigheter ger CSP-partner åtkomst till sina kunders klienter. Med den här åtkomsten kan de göra administrativa funktioner som att lägga till/hantera användare, återställa lösenord och hantera användarlicenser.
-- **Administratörsbehörighet på prenumerationsnivå:** CSP-partner får dessa behörigheter när de skapar Azure CSP prenumerationer för sina kunder. Dessa behörigheter ger CSP-partner fullständig åtkomst till dessa prenumerationer, vilket gör att de kan etablera och hantera Azure-resurser.
+- **Administratörsbehörighet på klientorganisationsnivå (delegerade administratörsbehörigheter):** CSP-partner får dessa behörigheter när de upprättar en CSP-återförsäljarrelation med kunder. Delegerade administratörsbehörigheter ger CSP-partner åtkomst till sina kunders klienter. Med den här åtkomsten kan de använda administrativa funktioner som att lägga till/hantera användare, återställa lösenord och hantera användarlicenser.
+- **Administratörsbehörighet på prenumerationsnivå:** CSP-partner får dessa behörigheter när de skapar Azure CSP prenumerationer för sina kunder. Med dessa behörigheter får CSP-partner fullständig åtkomst till dessa prenumerationer, vilket gör att de kan etablera och hantera Azure-resurser.
 
-## <a name="reinstate-csp-a-partners-admin-privileges"></a>Återställa CSP:ens administratörsbehörighet
+## <a name="reinstate-csp-a-partners-admin-privileges"></a>Återställa CSP:ens administratörsbehörigheter för en partner
 
 Kunden kan skapa CSP-rolltilldelningen på nytt om du anger `object ID` för gruppen AdminAgents till kunden. För att återfå delegerade administratörsbehörigheter måste du arbeta med kunden genom följande steg.
 
@@ -37,7 +37,7 @@ Kunden kan skapa CSP-rolltilldelningen på nytt om du anger `object ID` för gru
 
 2. På menyn i Partnercenter väljer du **Kunder.**
 
-3. Välj den kund som du arbetar med och **begär en återförsäljarrelation**. Den här åtgärden genererar en länk till kunden som har administratörsrättigheter för klientorganisationen.
+3. Välj den kund som du arbetar med och **begär en återförsäljarrelation.** Den här åtgärden genererar en länk till kunden som har administratörsrättigheter för klientorganisationen.
 
 4. Kunden måste välja länken och godkänna begäran om återförsäljarrelation.
 
@@ -53,7 +53,7 @@ Kunden kan skapa CSP-rolltilldelningen på nytt om du anger `object ID` för gru
 
 6. Kunden måste sedan göra följande med antingen PowerShell eller Azure CLI. Kunden måste ha:
 
-- Rollen som ägare **eller** administratör **för användaråtkomst** 
+- Rollen som ägare **eller** **administratör för användaråtkomst** 
 - Behörigheter för att skapa rolltilldelningar på prenumerationsnivå
 
    a. Endast för PowerShell måste kunden uppdatera `Az.Resources` modulen.
@@ -69,7 +69,7 @@ Kunden kan skapa CSP-rolltilldelningen på nytt om du anger `object ID` för gru
    az login --tenant <Customer tenant>
    ```
 
-   c. Kunden ansluter till prenumerationen. Detta gäller *endast* om användaren har rolltilldelningsbehörigheter över flera prenumerationer i klientorganisationen.
+   c. Kunden ansluter till prenumerationen. Detta gäller *endast* om användaren har rolltilldelningsbehörigheter för flera prenumerationer i klientorganisationen.
 
    ```powershell
    Set-AzContext -SubscriptionID <"CSP Subscription ID">
@@ -87,7 +87,7 @@ Kunden kan skapa CSP-rolltilldelningen på nytt om du anger `object ID` för gru
    az role assignment create --role "Owner" --assignee-object-id <Object Id of the Admin Agents group provided by partner> --scope "/subscriptions/<CSP Subscription Id>"
    ```
 
-I stället för att bevilja ägarbehörighet för prenumerationsomfånget kan du bevilja på resursgrupps- eller resursnivå. 
+I stället för att bevilja ägarbehörigheter i prenumerationsomfånget kan du bevilja på resursgrupps- eller resursnivå. 
 
 - På resursgruppsnivå
 
@@ -109,7 +109,7 @@ I stället för att bevilja ägarbehörighet för prenumerationsomfånget kan du
    az role assignment create --role "Owner" --assignee-object-id <Object Id of the Admin Agents group provided by partner> --scope "<Resource URI>"
    ```
 
-Om ovanstående steg inte fungerar eller om du får felmeddelanden när du försöker dem kan du prova följande "catch-all"-procedur för att återställa administratörsrättigheter för din kund.
+Om ovanstående steg inte fungerar eller om du får felmeddelanden när du försöker utföra dem kan du prova följande "catch-all"-procedur för att återställa administratörsrättigheterna för din kund.
 
 ```powershell
 Install-Module -Name Az.Resources -Force -Verbose
@@ -130,7 +130,7 @@ New-AzRoleAssignment -ObjectId <principal ID> -RoleDefinitionName "Owner" -Scope
 Ange den resulterande `newRoleAssignment.log` filen till Microsoft för ytterligare analys.
 
 Om "catch-all"-proceduren misslyckas under `Import-Module` kan du prova följande steg:
-- Om importen misslyckas eftersom modulen används startar du om PowerShell-sessionen genom att stänga och öppna alla fönster igen.
+- Om importen misslyckas på grund av att modulen används startar du om PowerShell-sessionen genom att stänga och öppna alla fönster igen.
 - Kontrollera versionen av `Az.Resources` med `Get-Module Az.Resources -ListAvailable` .
 - Om version 4.1.1 inte finns i den tillgängliga listan måste du använda `Update-Module Az.Resources -Force` .
 - Om felet visar att `Az.Accounts` måste vara en specifik version uppdaterar du även den modulen och ersätter `Az.Resources` med `Az.Accounts` . Du måste sedan starta om PowerShell-sessionen.

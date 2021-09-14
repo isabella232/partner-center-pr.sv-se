@@ -10,11 +10,11 @@ ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 23ca72fada539b5036dfd6cf0ac04a5c18b5d96d
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959976"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247297"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Ge kunderna behörighet i Partnercenter att köpa egna produkter eller tjänster
 
@@ -24,7 +24,7 @@ Den här artikeln visar hur en partner i Molnlösningsleverantör-programmet (CS
 
 Partner i CSP-programmet använder ofta PartnerCenter och dess kommersiella marknadsplats för att köpa lösningar och tjänster för sina kunder. Partner låter sedan vissa kunder etablera dessa tjänster själva direkt från Azure Portal.
 
-Här är ett exempel. Anta att du köper en Azure-planprenumeration för en kund i Partnercenter. Sedan bestämmer du dig för att lägga till andra resurser eller tjänster i prenumerationen för kundens räkning. I det här fallet kan du lägga till Azure-reservationer i kundens prenumeration (till exempel lägga till reserverade instanser av virtuella datorinstanser). Du kan sedan tillåta kunden att ytterligare etablera Azure-reservationsresurserna själva i Azure Portal.
+Här är ett exempel. Anta att du köper en Azure-planprenumeration för en kund i Partnercenter. Sedan bestämmer du dig för att lägga till andra resurser eller tjänster i prenumerationen för kundens räkning. I det här fallet kan du lägga till Azure-reservationer i kundens prenumeration (till exempel lägga till reserverade instanser, instanser av virtuella datorer). Du kan sedan tillåta kunden att ytterligare etablera Azure-reservationsresurserna själva i Azure Portal.
 
 Med funktionen **Kundbehörigheter kan** du nu ge kunderna fler självbetjäningsalternativ med Azure-resurser. Genom att aktivera behörigheter för kunden kan du låta kunderna köpa sina egna resurser (till exempel köpa sina egna Azure-reservationer).  
 
@@ -36,24 +36,24 @@ Använd sidan **Kundkonto** för att aktivera (eller inaktivera) kundbehörighet
 
 Observera följande viktiga punkter innan du aktiverar kundbehörigheter:
 
-- Som standard inaktiveras kundbehörigheter automatiskt (inaktiverat) i Partnercenter.
+- Som standard inaktiveras kundbehörigheter automatiskt (inaktiveras) i Partnercenter.
 
-- Innan du kan aktivera (eller inaktivera) behörigheter för en kund måste du tilldelas rollen som administratörsagent i Partnercenter.
+- Innan du kan aktivera (eller inaktivera) behörigheter för en kund måste du tilldelas rollen administratörsagent i Partnercenter.
 
-  Partner som tilldelats rollen Försäljningsagent eller Supportagent har skrivskyddad åtkomst och kan inte aktivera eller inaktivera kundbehörigheter.
+  Partner som har tilldelats rollen Försäljningsagent eller Supportagent har skrivskyddad åtkomst och kan inte aktivera eller inaktivera kundbehörigheter.
 
 - Du kan aktivera (aktivera) behörigheter för alla kunder som du väljer.
 
-- Du kan aktivera (eller inaktivera) kundbehörigheter med hjälp av Partnercenter-instrumentpanelen eller [Partnercenter-API:er.](/partner-center/develop/manage-customers)
+- Du kan aktivera (eller inaktivera) kundbehörigheter med hjälp av antingen Partner Center-instrumentpanelen eller [Partner center-API:er.](/partner-center/develop/manage-customers)
 
-- När du aktiverar (aktiverar) behörigheter för en specifik kund är du ansvarig för att betala för efterföljande köp som görs av kunden. Om kunderna vill byta, avbryta eller förnya ett köp som de har gjort (eller om de vill ändra den ursprungliga omfattningen för en reservation) kan de inte göra det själva. De måste be dig som partner att hjälpa dem att byta, avbryta och förnya köp eller göra senare ändringar i en reservations omfång.  
+- När du aktiverar (aktiverar) behörigheter för en specifik kund är du ansvarig för att betala för efterföljande köp som görs av kunden. Om kunder vill byta, avbryta eller förnya ett köp som de har gjort (eller om de vill ändra det ursprungliga reservationsomfånget) kan de inte göra det själva. De måste be dig som partner att hjälpa dem att byta ut, avbryta och förnya köp eller göra senare ändringar i en reservations omfång.  
 
-- När du aktiverar behörigheter för en specifik kund meddelas **du** inte om senare köp som görs av kunden.
+- När du aktiverar behörigheter för en specifik kund meddelas **du inte** om senare köp som görs av kunden.
 
-- Senare köp som görs av kunden visas i Partnercenter tillsammans med eventuella inköp som görs av dig. Du hittar dessa inköp på kundens sida för **orderhistorik,** på sidan **Reservationer** eller i [**aktivitetsloggen**](activity-logs.md).
+- Senare köp som görs av kunden visas i Partnercenter tillsammans med eventuella inköp som görs av dig. Du hittar de här köpen på kundens **sida orderhistorik,** deras **reservationer** eller i [**aktivitetsloggen**](activity-logs.md).
 
 >[!NOTE]
-> Information om priser som kunden betalar och hur du hjälper kunder att hantera sina inköp finns i [Hjälpa kunder att hantera reservationer som de köper.](give-customers-permission.md#help-customers-manage-reservations-they-purchase)
+> Information om priser som kunden betalar och hur kunderna kan hantera sina inköp finns i [Hjälpa kunder att hantera reservationer som de köper.](give-customers-permission.md#help-customers-manage-reservations-they-purchase)
 
 ## <a name="give-customers-permission-to-buy-their-own-azure-reservations"></a>Ge kunderna behörighet att köpa sina egna Azure-reservationer
 
@@ -64,9 +64,9 @@ Nu har du möjlighet att köpa Azure-reservationer åt dina kunder, vilket du ka
 >[!NOTE]
 > När du har gett kunderna behörighet att köpa sina egna Azure-reservationer kan du hjälpa dem att hantera eventuella reservationer som de köper. Mer information finns i Hjälpa [kunder att hantera reservationer som de köper.](give-customers-permission.md#help-customers-manage-reservations-they-purchase)
 
-### <a name="to-enable-customers-to-buy-their-own-azure-reservations"></a>Så här gör du det möjligt för kunder att köpa egna Azure-reservationer
+### <a name="to-enable-customers-to-buy-their-own-azure-reservations"></a>Så här gör du det möjligt för kunder att köpa sina egna Azure-reservationer
 
-1. Kontrollera att kunden har en befintlig Azure-plan eller Azure Global-prenumeration som du har köpt för kundens räkning.
+1. Kontrollera att kunden har en befintlig Azure-plan eller global Azure-prenumeration som du har köpt för kundens räkning.
 
 2. Kontrollera att kunden har tilldelats rollen **Ägare för** den här prenumerationen.
 
@@ -80,18 +80,18 @@ Innan du ger kunderna behörighet att köpa sina egna Azure-reservationer måste
 
 - Om du vill se om en kund redan har en Azure-prenumeration loggar du in på instrumentpanelen i Partnercenter och väljer **CSP** följt av **Kunder.** Välj den specifika kunden i listan. Välj sedan **Prenumerationer** och leta efter användningsbaserade prenumerationer för antingen Azure-plan eller Azure Global.
 
-- Om en kund inte har en befintlig Azure-prenumeration kan du köpa en prenumeration åt dem. Se [Köpa Azure-planen.](purchase-azure-plan.md)
+- Om en kund inte har någon befintlig Azure-prenumeration kan du köpa en prenumeration åt dem. Se [Köpa Azure-planen.](purchase-azure-plan.md)
 
 ### <a name="verify-the-customer-has-been-assigned-the-correct-role-in-azure"></a>Kontrollera att kunden har tilldelats rätt roll i Azure
 
-När du har verifierat att kunden har en befintlig Azure-prenumeration måste du också  kontrollera att nyckelanvändarna som är kopplade till kunden har tilldelats rätt ägarroll för den Azure-prenumerationen. Det här är den rollbaserade åtkomst (RBAC) som kunden behöver för att köpa Azure-reservationer för en Azure-prenumeration som du har köpt.
+När du har verifierat att kunden har en befintlig Azure-prenumeration måste du också  kontrollera att nyckelanvändarna som är associerade med kunden har tilldelats rätt ägarroll för den Azure-prenumerationen. Det här är den rollbaserade åtkomst (RBAC) som kunden behöver för att köpa Azure-reservationer för en Azure-prenumeration som du har köpt.
 
 Vissa partner kan redan ha tilldelat rollen **Ägare** till kunder som aktivt vill hantera och etablera sina egna Azure-resurser. Om du redan har tilldelat **ägarstatus** till en kund för att hantera tidigare prenumerationer som du har köpt för dem kan du hoppa över det här steget.  
 
 > [!IMPORTANT]
-> Om en kund inte  har tilldelats rollen Ägare får han eller hon ett felmeddelande i Azure Portal att köpa Azure-reservationer.
+> Om en kund inte  har tilldelats rollen Ägare får kunden ett felmeddelande i Azure Portal hindrar dem från att köpa Azure-reservationer.
 
-Så här kontrollerar du att kunden har tilldelats **rollen Ägare** för en Azure-prenumeration:
+Kontrollera att kunden har tilldelats rollen **Ägare för** en Azure-prenumeration:
 
 1. Logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard)
 
@@ -101,25 +101,25 @@ Så här kontrollerar du att kunden har tilldelats **rollen Ägare** för en Azu
 
 4. Välj **knappen** Hantera bredvid kundens prenumeration. När du gör det öppnas [Azure Portal](https://portal.azure.com/).
 
-5. Om du vill **tilldela** rollen Ägare till en specifik användare följer du de här stegen [för att tilldela en användare som administratör.](/azure/cost-management-billing/manage/add-change-subscription-administrator#to-assign-a-user-as-an-administrator)
+5. Om du vill **tilldela** rollen Ägare till en specifik användare följer du dessa steg [För att tilldela en användare som administratör.](/azure/cost-management-billing/manage/add-change-subscription-administrator#to-assign-a-user-as-an-administrator)
 
 ### <a name="turn-on-or-turn-off-customer-permissions-to-purchase-their-own-azure-reservations"></a>Aktivera eller inaktivera kundbehörigheter för att köpa egna Azure-reservationer
 
-När du har verifierat att kunden har  en befintlig Azure-prenumeration och användarna har tilldelats rollen Ägare för prenumerationen är du redo att aktivera (aktivera) kundbehörigheter. Du kan också använda de här stegen för att stänga av (inaktivera) kundbehörigheter. Du kan aktivera eller inaktivera kundbehörigheter med hjälp av Partnercenter-instrumentpanelen eller [Partnercenter-API:er.](/partner-center/develop/manage-customers)
+När du har verifierat att kunden har  en befintlig Azure-prenumeration och användarna har tilldelats rollen Ägare för prenumerationen är du redo att aktivera (aktivera) kundbehörigheter. Du kan också använda de här stegen för att inaktivera kundbehörigheter. Du kan aktivera eller inaktivera kundbehörigheter med hjälp av antingen Partner Center-instrumentpanelen eller [Partner Center-API:er.](/partner-center/develop/manage-customers)
 
 Så här aktiverar (eller inaktiverar) du kundbehörigheter i Partnercenter:
 
 1. Logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard)
 
-2. I den vänstra navigeringsmenyn väljer **du CSP** och sedan **Kunder**. En kundlista visas.
+2. I den vänstra navigeringsmenyn väljer du **CSP** och sedan **Kunder.** En kundlista visas.
 
 3. Välj ett specifikt kundnamn.
 
-4. Välj **Konto** på kundmenyn. Sidan **Kundkonto** visas.
+4. Välj **Konto** på kundmenyn. **Kundkontosidan** visas.
 
 5. Leta upp **området Kundbehörigheter** längst ned på sidan.
 
-   :::image type="content" source="images/give-customers-permission-reservations.png" alt-text="Kundbehörigheter på kontosidan." border="true":::
+   :::image type="content" source="images/give-customers-permission-reservations.png" alt-text="Kundbehörigheter på sidan Konto." border="true":::
 
 6. Under **Azure-reservationer** letar du **upp alternativet Tillåt kund att** köpa.
 
@@ -128,7 +128,7 @@ Så här aktiverar (eller inaktiverar) du kundbehörigheter i Partnercenter:
 >[!NOTE]
 > Mer information om vad som händer när du aktiverar en kunds behörighet att köpa egna Azure-reservationer finns i [Översikt över kundbehörigheter i Partnercenter.](give-customers-permission.md#overview-of-customer-permissions-in-partner-center)
 >
->När du aktiverar (eller inaktiverar) kundbehörigheter registrerar aktivitetsloggen varje åtgärd. (Den här loggen är tillgänglig när du väljer kugghjulsikonen överst på Partnercenter-instrumentpanelen). När du aktiverar eller inaktiverar kundbehörigheter  visas åtgärden antingen som Skapa kundinköpsbehörigheter eller Ta bort **kundinköpsbehörigheter** i aktivitetsloggen.
+>När du aktiverar (eller inaktiverar) kundbehörigheter registrerar aktivitetsloggen varje åtgärd. (Den här loggen är tillgänglig när du väljer kugghjulsikonen överst på instrumentpanelen i Partnercenter). När du aktiverar eller inaktiverar kundbehörigheter visas åtgärden antingen som **Skapa** kundinköpsbehörigheter eller Ta bort **kundinköpsbehörigheter** i aktivitetsloggen.
 
 ## <a name="help-customers-manage-reservations-they-purchase"></a>Hjälpa kunder att hantera reservationer som de köper
 
@@ -141,9 +141,9 @@ Hjälp kunderna att förstå mer om att hantera dessa aspekter av Azure-reservat
 - Vad händer när kunder köper reservationer med ett delat omfång?
 - Vad händer om kunder vill ändra, avbryta och förnya en reservation eller ändra dess omfång?
 
-**Priser som kunder betalar för sina reservationer.** Kunden kommer att köpa Azure-reservationer baserat på en prenumeration som du tidigare har köpt för dem i faktureringskontot för din CSP-partner. Kundens pris för azure-reservationer som de köper baserat på den här prenumerationen anges också av dig. Det här priset kan vara något annat än det Web Direct-pris som kunden ser i Azure Portal.
+**Priser som kunder betalar för sina reservationer.** Kunden kommer att köpa Azure-reservationer baserat på en prenumeration som du tidigare har köpt för dem i faktureringskontot för din CSP-partner. Kundens pris för alla Azure-reservationer som de köper baserat på den här prenumerationen anges också av dig. Det här priset kan vara ett annat än det Web Direct-pris som kunden ser i Azure Portal.
 
-**Hur kunder kan optimera sin användning av en reservation.** Vissa kunder kan ha nytta av att lära sig mer om hur de optimerar sin användning av en reservation eller hur de tilldelar en reservation första omfånget under köpet. Mer information finns i Hantera reservationer för [Azure-resurser.](/azure/cost-management-billing/reservations/manage-reserved-vm-instance)
+**Hur kunder kan optimera sin användning av en reservation.** Vissa kunder kan dra nytta av att lära sig mer om hur de optimerar sin användning av en reservation eller hur de tilldelar en reservation det ursprungliga omfånget under köpet. Mer information finns i Hantera reservationer för [Azure-resurser.](/azure/cost-management-billing/reservations/manage-reserved-vm-instance)
 
 **Vad händer när en kund köper en reservation med ett delat omfång?** När kunder köper en reservation baserat på en tidigare CSP-prenumeration och tilldelar ett delat omfång till reservationen gäller eventuella rabatter som kunden har fått av CSP:en för matchande användning för alla prenumerationer som CSP-partnern har köpt för den kunden.
 

@@ -10,15 +10,15 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 1c346e5e680fdd0b0b82715160b238e1e6b6a9a9
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960986"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246438"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Hantera användare och användarlicenser för kundkonton 
 
-**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Administratörsagent
+**Lämpliga roller:** Globala | Administratörsbehörighet för | Administratörsagent
 
 
 Du kan skapa och ta bort nya användare i en kunds konto. Du kan också återställa ett eller flera användarkonton som du tidigare har tagit bort inom 30 dagar efter borttagningen. Användarens tidigare prenumerationstilldelningar återställs också (förutsatt att deras tidigare allokeringar är tillgängliga).
@@ -28,7 +28,7 @@ När du köper nya prenumerationer för en kund bör kunden ge dig en lista öve
 >[!NOTE]
 >Avsnittet **Användare och**  licenser på fliken Kund visar alla användare som skapats i en specifik kunds klientorganisation, inklusive användare som har köpt licenser från en annan CSP-partner eller från en annan inköpskanal.
 
-Du kan [tilldela prenumerationer till flera användare](bulk-license-provisioning-for-multiple-users.md) samtidigt genom att importera namnen med hjälp Excel en .csv [kalkylbladsfil.](adding-multiple-users-to-a-customer-account.md)
+Du kan [tilldela prenumerationer till flera användare](bulk-license-provisioning-for-multiple-users.md) samtidigt genom att importera namnen med hjälp Excel en .csv [kalkylbladsfil](adding-multiple-users-to-a-customer-account.md).
 
 <a href="" id="createuseraccounts"></a>
 
@@ -40,13 +40,13 @@ Du kan [tilldela prenumerationer till flera användare](bulk-license-provisionin
 
 3. I kundmenyn väljer du **Användare och licenser.**
 
-4. För varje användare som du lägger till **väljer du Lägg** till prenumeration och fyller sedan i informationen, inklusive behörigheter och licenser. **Spara** ändringarna.
+4. För varje användare som du lägger till **väljer du Lägg till** prenumeration och fyller sedan i informationen, inklusive behörigheter och licenser. **Spara** ändringarna.
 
 5. Se till att registrera användarnamnet och det tillfälliga lösenordet som ska skickas till användaren.
 
 6. Om du lägger till flera användare en i taget använder du Lägg **till en annan användare.**
 
-7. Du kan också lägga till flera användare samtidigt genom [att importera en Excel-kompatibel .csv kalkylbladsfil](adding-multiple-users-to-a-customer-account.md). Du kan vänta tills du är klar med hela uppsättningen innan du skickar e-post eller skriver ut namn och lösenord från bekräftelseskärmen.
+7. Du kan också lägga till flera användare samtidigt genom [att importera Excel en kompatibel .csv kalkylbladsfil](adding-multiple-users-to-a-customer-account.md). Du kan vänta tills du är klar med hela uppsättningen innan du skickar e-post eller skriver ut namn och lösenord från bekräftelseskärmen.
 
 <a href="" id="userlicensing"></a>
 
@@ -60,7 +60,7 @@ Följande steg gäller för att lägga till eller ta bort användarlicenser för
 
 3. I kundmenyn väljer du **Användare och licenser.**
 
-4. Välj en eller flera användare i listan. Om kunden till exempel precis har köpt nya licenser och du vill tilldela dem till personer som inte har dem ännu kan du använda alternativet Filtrera användare **efter...** för att hitta rätt grupp.
+4. Välj en eller flera användare i listan. Om kunden till exempel precis har köpt nya licenser och du vill tilldela dem till personer som inte har dem ännu, kan du använda alternativet **Filtrera användare efter...** för att hitta rätt grupp.
 
 5. Välj **Hantera licenser**. Gör dina ändringar och spara **sedan**.
 
@@ -97,13 +97,13 @@ Om du behöver återställa det här kontot  hittar du det på fliken Borttagna 
 
 ## <a name="restore-deleted-user-accounts"></a>Återställa borttagna användarkonton
 
-1. I **menyn i Partnercenter** **väljer du** Kunder och sedan kunden i listan.
+1. I **menyn i Partnercenter** **väljer du Kunder** och sedan kunden i listan.
 
 2. Välj **Användare och licenser.**
 
-3. Välj fliken **Borttagna** användare ( ). Den bör läsa **(1)** eller högre när det finns borttagna användare som kan återställas.
+3. Välj **fliken Borttagna** användare ( ). Den bör läsa **(1)** eller högre när det finns borttagna användare som kan återställas.
 
-4. Markera en eller flera av de borttagna användarnas kryssrutor och välj sedan **Återställ.**
+4. Markera en eller flera av de borttagna användarnas kryssrutor och välj sedan **Återställ**.
 
     Alla valda användarkonton visas igen på sidan **Användare och** licenser.
 

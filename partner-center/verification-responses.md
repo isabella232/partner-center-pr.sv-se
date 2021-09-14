@@ -10,11 +10,11 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 64acff2ff7d518e549f4c90ba898496c522550a7
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960736"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246552"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Verifiera din kontoinformation när du registrerar dig i ett nytt Partnercenter-program
 
@@ -23,9 +23,9 @@ ms.locfileid: "123960736"
 När du registrerar dig i ett nytt program i Partnercenter verifierar Microsoft din registrering, till exempel företagets namn, företagsadress och primära kontaktuppgifter. Under den här processen kan Microsoft skicka e-post till din primära kontakt för att begära mer verifieringsdokumentation.
 
 >[!NOTE]
->För att säkerställa att du får e-postmeddelandet ska du flagga e-Microsoft.com från en "säker" domän och kontrollera skräppostmappar.
+>Se till att du får e-postmeddelandet genom att flagga e-post från Microsoft.com en "säker" domän och kontrollera skräppostmappar.
 
-Om du är primär kontakt (global administratör eller kontoadministratör) rekommenderar vi att du går till din partnerprofil för att övervaka verifieringsstatus och spåra förloppet.
+Om du är den primära kontakten (global administratör eller kontoadministratör) rekommenderar vi att du går till din partnerprofil för att övervaka verifieringsstatus och spåra förloppet.
 
 - Information om Microsoft Partner Network (MPN) finns i [Juridisk information.](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile)
 - Information om Molnlösningsleverantör (CSP) finns i [Juridisk information.](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)
@@ -34,9 +34,9 @@ Om du är primär kontakt (global administratör eller kontoadministratör) reko
 
 | **Typ av verifiering**   | **Vad är verifierat**   | **Förslag**                                                                                        |
 |----------------------------|:-----------------------------------|:-----------------------------------------------------------------------------------------------------|
-| E-postägarskap            | E-postäganderätten verifierar att den primära kontaktadressen (primär e-postadress) är giltig. Den primära e-postadressen för kontakt måste vara ett arbetskonto som övervakas och kan skicka/ta emot e-post. **Undvik att använda** en personlig e-postadress som inte är associerad med företagsdomänen eller autentiseringsuppgifter för klientanvändare som inte är associerade med e-post. (Till exempel jsmith@testcompany.onmicrosoft.com). | Om du inte får e-postmeddelandet om verifiering av e-postägarskap inom en arbetsdag kan du begära att e-postmeddelandet skickas igen. Gå till din profilsida för [MPN eller](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) [CSP](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) och välj Skicka om **verifieringsmeddelandet.** Se till att flagga e-Microsoft.com som en "säker" domän och kontrollera skräppostmappar. Skapa en [supportbiljett för ytterligare hjälp.](https://go.microsoft.com/fwlink/?linkid=2167384)|
-|Sysselsättning |Anställningsverifiering bekräftar att din primära kontakt är anställd på det registrerade företaget. Kontakten behöver en aktiv e-postadress i en e-postdomän som ägs av företaget.|Om anställningsverifieringen avvisas måste den primära kontakten (vanligtvis din globala administratör eller kontoadministratör) tillhandahålla dokumentation som bekräftar att kontaktens e-postdomän är under arbetsgivares ägarskap. Skapa en [supportbiljett för ytterligare hjälp.](https://go.microsoft.com/fwlink/?linkid=2167385) |
-| Företag   | Affärsverifiering bekräftar att det registrerade företaget är en legitim affärsentitet och på den angivna adressen. | Bekräfta att företagets namn och adress i din [juridiska företagsprofil inte](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) innehåller några stavfel eller förkortningar. De måste matcha dina formella företagsregistreringsposter exakt. Om det är lämpligt väljer du matchningen som finns i externa datakällor (externa företagsdatabaser, till exempel Dun & Bradstreet (DUNS-ID) eller tillståndsregister).<br /><br />Microsoft ber den primära kontakten (vanligtvis din globala administratör eller kontoadministratör) att tillhandahålla officiell dokumentation. Dokumentationen kan vara en företagsregistrering, ett skatteregistreringscertifikat eller ett kvitto från företagets hemland, organisationsnummer eller formulär som ska fyllas i. Microsoft använder den här dokumentationen för att verifiera att företaget har behörighet att göra affärer under det namnet och finns på den angivna adressen. Skapa en [supportbiljett för ytterligare hjälp.](https://go.microsoft.com/fwlink/?linkid=2167604)|
+| E-postägarskap            | E-postäganderätten verifierar att den primära kontaktadressen (primär e-postadress) är giltig. Den primära e-postadressen för kontakt måste vara ett arbetskonto som övervakas och kan skicka/ta emot e-post. **Undvik att använda** en personlig e-postadress som inte är associerad med företagsdomänen eller en klientanvändares autentiseringsuppgifter som inte är associerade med e-post. (Till exempel jsmith@testcompany.onmicrosoft.com). | Om du inte får e-postmeddelandet om verifiering av e-postägarskap inom en arbetsdag kan du begära att e-postmeddelandet skickas igen. Gå till din profilsida för [MPN eller](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) [CSP](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) och välj Skicka om **verifieringsmeddelandet.** Se till att flagga e-Microsoft.com som en "säker" domän och kontrollera skräppostmappar. Skapa en [supportbiljett för ytterligare hjälp.](https://go.microsoft.com/fwlink/?linkid=2167384)|
+|Sysselsättning |Anställningsverifiering bekräftar att din primära kontakt är anställd på det registrerade företaget. Kontakten behöver en aktiv e-postadress på en e-postdomän som ägs av företaget.|Om anställningsverifieringen avvisas måste den primära kontakten (vanligtvis din globala administratör eller kontoadministratör) tillhandahålla dokumentation som bekräftar att kontaktens e-postdomän är under arbetsgivares ägarskap. Skapa en [supportbiljett för ytterligare hjälp.](https://go.microsoft.com/fwlink/?linkid=2167385) |
+| Företag   | Affärsverifiering bekräftar att det registrerade företaget är en legitim affärsentitet och på den angivna adressen. | Bekräfta att företagets namn och adress i din [juridiska företagsprofil inte](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) innehåller några stavfel eller förkortningar. De måste matcha dina formella företagsregistreringsposter exakt. Om det är lämpligt väljer du matchningen som finns i externa datakällor (externa företagsdatabaser, till exempel Dun & Bradstreet (DUNS-ID) eller tillståndsregistret).<br /><br />Microsoft ber den primära kontakten (vanligtvis din globala administratör eller kontoadministratör) att tillhandahålla officiell dokumentation. Dokumentationen kan vara en företagsregistrering, ett skatteregistreringscertifikat eller ett kvitto från företagets hemland, organisationsnummer eller formulär som ska fyllas i. Microsoft använder den här dokumentationen för att verifiera att företaget har behörighet att göra affärer under det namnet och finns på den angivna adressen. Skapa en [supportbiljett för ytterligare hjälp.](https://go.microsoft.com/fwlink/?linkid=2167604)|
 
 > [!NOTE]
 > Lär dig hur du uppdaterar din [juridiska företagsprofil (adress).](update-your-partner-profile.md)

@@ -1,6 +1,6 @@
 ---
 title: Massexport och import av möjligheter till säljförsäljning via Excel-/CSV-filer i referenser
-description: Lär dig hur du laddar ned, skapar eller uppdaterar möjligheter till säljförsäljning med hjälp av Excel (CSV)-filer i Partnercenter
+description: Lär dig hur du laddar ned, skapar eller uppdaterar möjligheter till säljförsäljning med hjälp Excel (CSV)-filer i Partnercenter
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-referrals
@@ -8,13 +8,13 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 02/03/2021
-ms.openlocfilehash: 58443589d4a90b59783f84a12a920d725f74ffbc
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.date: 09/08/2021
+ms.openlocfilehash: eb0f85eab9340d08a1f121c27f9a1956f5b71635
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960273"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246265"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Massåtgärder för möjligheter till säljförsäljning med hjälp av filer med kommaavgränsade värden (CSV)
 
@@ -87,11 +87,20 @@ Marknadsföringskampanj-ID|No|Det här fältet anger marknadsföringskampanjen, 
 Kommentarer|No|Detaljerad information som anger uppdateringarna som rör hänvisningen|Det här är ett exempel på en anteckning
 Microsoft-hjälp krävs?|Yes|Detta är för att ange om du vill att Microsoft ska hjälpa dig att göra denna begäran om säljförsäljning|Yes
 Vilken specifik hjälp från Microsoft?|Beror|Ett av de sex olika sätt som Microsoft kan hjälpa dig. Detta gäller bara om du väljer Ja för frågan "Microsoft-hjälp krävs? " <br/> **Ange ett tal baserat på alternativen nedan** <br/><br/> **1**– Arbetsbelastning – specifikt värdeförslag  <br/> **2**– Kundens tekniska arkitektur  <br/> **3**– Konceptbevis /Demo  <br/> **4**– Offerter och licensiering  <br/> **5**– Post – kundframgång för försäljning  <br/> **6**– Allmänt eller annat|1|
-Dela med Microsofts säljteam|Yes|Detta är för att ange om du vill dela information om avtalet med Microsofts säljteam eller inte. Detta gäller endast om du väljer Nej för frågan "Microsoft-hjälp krävs? "|Yes
+Dela med Microsofts säljteam|Yes|Detta är för att ange om du vill dela information om avtalet med Microsofts säljteam eller inte. Detta gäller bara om du väljer Nej för frågan "Microsoft-hjälp krävs? "|Yes
 Kommentarer till Microsoft|No|Eventuella specifika kommentarer till Microsoft om du behöver hjälp från Microsoft|Behöver hjälp med en POC för Contoso-kund
 Samtycka till att dela kund-/partnerkontakt|Yes|Samtycka till att dela kundens kontaktuppgifter och dina anställdas kontaktuppgifter som arbetar med avtalet. **Avtal skapas eller uppdateras inte om du väljer Nej för den här kolumnen.** |Yes
-Lösning 1|Yes|Lösnings-ID (krävs), valutan (valfritt) där avtalsvärdet anges. Du hittar valutakoderna [här,](https://en.wikipedia.org/wiki/ISO_4217)Pris för SKU:n (valfritt) och Antal för SKU:n (valfritt)  |SOL-1234-PQRS, USD, 10, 100
+CLA-nummer|Beror|CLA-nummer krävs inte när du skapar eller uppdaterar ett IOT-avtal. Det blir obligatoriskt när du går över till design-win-fasen.
+Enhetskategori|No|Lista över alla IoT-enhetskategorier. Välj en kategori bland alternativen nedan <br>–/Konsumentspelsenhet <br> ATM <br> Transportsystem för & bilar <br> Azure Sphere tavla<br> Azure Sphere-komponent <br> Azure Sphere Guardian<br> Azure Sphere modul <br> Skapa automatisering<br> Casino Gaming Device <br> Kommunikationsenheter<br> Konsument på Internet-enhet <br> Konsumentförslitningsbar<br> Digital bildram <br> Digital signering <br> Gateway <br> HHT/Mobile<br> Branschautomatiseringsenhet<br> Bransch surfplatta (icke-POS) <br> Helskärmsläge<br> Media Player<br> Medieenhet <br> Mobil POS <br> Navigeringsenhet<br> Nätverksprojektor<br> Övrigt<br> Annan bankenhet<br> Annan elektronisk konsumentenhet<br> Annan enhet<br> Annan företagsenhet<br>  Annan sensor/nod <br> Point of Sale Device<br> Utskriftsenhet <br> Säkerhet/övervakning <br>  Server<br> Set-Top Box<br> Smart TV <br> Test- och mätningsenhet<br> Tunn klientenhet <br/>
+Silicon Type|No|Ange information om kretsuppsättningsmodellen genom att välja ett alternativ i listan nedan <br> AMD – A10 <br> AMD – A4 <br> AMD – A6 <br> AMD – A8 <br> AMD – E2 <br> AMD – FX 7500 <br> AMD – FX 7600P <br> AMD – FX 9370 <br> AMD – FX 9590 <br> AMD – G-serien <br> AMD – Andra <br> AMD – R-serien <br> AMD – resten av FX-modeller <br> Intel – Atom <br> Intel –Selleron – N1900 <br> Intel –Selleron – N2807 <br> Intel –Selleron – N2930 <br> Intel –Selleron – N3060 <br> Intel –Selleron – N3160 <br> Intel – Core i3 <br> Intel – Core i5 <br> Intel – Core i7 <br> Intel – Core M <br> Intel – Andra <br> Intel – Pentium <br> Intel – resten avSelleron <br> Intel – XEON <br> MediaTek MT3620 <br> NXP 8ULP-CS <br> Andra <br/>
+Azure-certifierad enhet|No|Detta är för att ange om Azure-kompatibilitetscertifiering har uppnåtts för enheten
+Koppla tjänster|No|Detta är för att ange om Azure-tjänsterna ska paketeras med IoT-lösningen vid distribution
+Microsoft MSX-ID|No|ID för ett avtal i Microsoft MSX-systemet, endast tillgängligt för möjligheter till säljförsäljning
+Migrerat PSC-avtals-ID|No|PSC-avtals-ID, endast tillgängligt för ett avtal som migrerats från PSC till PC
+MPN-ID|No|MPN-ID för den organisation som samförsäljningsmöjligheterna skapas för
+Lösning 1|Yes|Lösnings-ID (krävs), valutan (valfritt) där avtalsvärdet anges. Du hittar [valutakoderna](https://en.wikipedia.org/wiki/ISO_4217), pris för SKU:n (valfritt) och Antal för SKU:n (valfritt)  |SOL-1234-PQRS, USD, 10, 100
 Teammedlem 1|Yes|Förnamn, Efternamn, mobilnummer och e-post-ID för respektive teammedlem.| Bob, Partner, 999999, Bob.partner@Contoso.com
+Microsoft-teammedlem 1|No|Förnamn, efternamn, mobilnummer och e-post-ID för respektive Microsoft-teammedlem som arbetar med säljförsäljningsmöjligheten.| Sam, Seller, 999999, Sam.seller@Microsoft.com
 
 ## <a name="next-steps"></a>Nästa steg
 

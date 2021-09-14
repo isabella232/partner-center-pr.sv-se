@@ -1,5 +1,5 @@
 ---
-title: Ta bort återförsäljarrelation med en kund
+title: Ta bort återförsäljarrelationen med en kund
 ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
@@ -10,19 +10,19 @@ ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 355f4917098ae6f6e383bf1a889197a725777311
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960966"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126249084"
 ---
 # <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>Så här tar du bort en återförsäljarrelation med en kund i Partnercenter
 
 **Lämpliga roller:** Global administratör
 
-Den här artikeln beskriver hur du tar bort en återförsäljarrelation med en kund i Partnercenter.
+I den här artikeln beskrivs hur du tar bort en återförsäljarrelation med en kund i Partnercenter.
 
-Direkta partner eller indirekta leverantörer: Om du inte längre handlar med en kund kan du ta bort relationen i Partnercenter.
+Direkta partner eller indirekta leverantörer: Om du inte längre gör en åtgärd med en kund kan du ta bort relationen i Partnercenter.
 
 Borttagning av en relation har följande konsekvenser:
 
@@ -51,7 +51,7 @@ Om du vill ta bort relationen måste du avbryta reservationer för reserverad Az
 
    b. Välj **Kontot**.
 
-   c. Välj **Ta bort återförsäljarrelation.**
+   c. Välj **Ta bort återförsäljarrelation**.
 
    > [!NOTE]
    > Om några prenumerationer fortfarande är aktiva kommer länken **Ta bort återförsäljarrelation** att vara inaktiv.

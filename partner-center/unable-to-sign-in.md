@@ -10,11 +10,11 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: d084cbf4def33074cc0ca1aae556004cf67bf555
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960876"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247278"
 ---
 # <a name="troubleshoot-sign-in-issues-for-partner-center"></a>Felsöka inloggningsproblem för Partnercenter
 
@@ -26,7 +26,7 @@ Den här artikeln innehåller lösningar på vanliga inloggningsproblem för Par
 
 Kontakta supporten om du har glömt ditt lösenord och inte kan logga in på Partnercenter. Du hittar lämplig kontakt på [Support för företagsprodukter.](/microsoft-365/admin/contact-support-for-business-products)
 
-Om du är partner Microsoft Partner Network (MPN) ber du din globala administratör att skapa ett nytt lösenord åt dig. Om du är en indirekt återförsäljare Molnlösningsleverantör (CSP) ber du din indirekta leverantör att skapa en ny global administratör åt dig i din Azure Active Directory-klientorganisation (AD) eller skapa ett nytt lösenord för dig med hjälp av deras delegerade administratörsbehörigheter.
+Om du är partner Microsoft Partner Network (MPN) ber du din globala administratör att skapa ett nytt lösenord åt dig. Om du är en indirekt återförsäljare Molnlösningsleverantör (CSP) ber du din indirekta leverantör att skapa en ny global administratör åt dig på din Azure Active Directory-klientorganisation (AD) eller skapa ett nytt lösenord för dig med hjälp av deras delegerade administratörsbehörigheter.
 
 Mer information om hur du kan återställa lösenordet och återfå åtkomsten till ditt arbetskonto finns i Återställa ditt arbets- eller [skollösenord med hjälp av säkerhetsinformation.](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password)
 
@@ -37,7 +37,7 @@ Mer information om hur du kan återställa lösenordet och återfå åtkomsten t
 Om du inte kan visa eller hantera de kompetenser, kunder, incitament eller användare som du förväntar dig kan du prova följande lösningar:
 
 - Kontakta din globala administratör eller kontoadministratör för att få åtkomst till funktionerna i MPN, CSP och referenser. Mer information om roller och de uppgifter som de aktiverar i Partnercenter finns i [Tilldela roller & behörigheter till användare.](permissions-overview.md)
-- Om du vill ha åtkomst till funktionerna i Commercial Marketplace och Windows & Xbox, Office Store, Microsoft Edge och Program för maskinvaruutveckling kontaktar du personen i rollen Ägare eller Chef i din organisation. Mer information om roller och behörigheter finns i [Så här hanterar du ett konto på den kommersiella marknadsplatsen i Microsoft Partner Center.](/azure/marketplace/partner-center-portal/manage-account#define-user-roles-and-permissions)
+- Om du vill ha åtkomst till funktionerna i Den kommersiella marknadsplatsen och Windows & Xbox, Office Store, Microsoft Edge och maskinvaruutvecklingsprogram kontaktar du personen som har rollen Ägare eller Chef i din organisation. Mer information om roller och behörigheter finns i [Så här hanterar du ett konto på den kommersiella marknadsplatsen i Microsoft Partner Center.](/azure/marketplace/partner-center-portal/manage-account#define-user-roles-and-permissions)
 
 ## <a name="you-cant-see-your-offer-or-benefits-in-partner-center"></a>Du kan inte se ditt erbjudande eller dina förmåner i Partnercenter
 

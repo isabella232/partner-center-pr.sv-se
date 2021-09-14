@@ -1,17 +1,17 @@
 ---
 title: Åtagandeförmån för Azure-förbrukning – Azure Marketplace
-description: Läs mer om Microsoft Azure (MACC) och hur du avgör om din organisation har hur man hittar erbjudanden i Azure Portal som är berättigade till Azure-förmånen.
+description: Lär dig mer om Microsoft Azure(MACC) för att avgöra om din organisation har hur man hittar erbjudanden i Azure Portal som är berättigade till Azure-förmånen.
 ms.prod: marketplace-customer
 ms.topic: article
 author: mingshen
 ms.author: mingshen
 ms.date: 6/02/2021
 ms.openlocfilehash: ea6683c3033b25110784896eea0ac85083b8ed9e
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123936922"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246697"
 ---
 # <a name="azure-consumption-commitment-benefit"></a>Azure-förbrukningsåtagandeförmån
 
@@ -35,7 +35,7 @@ Om du är osäker på om din organisation har ett kvalificerande avtal loggar du
 
 ## <a name="determine-which-offers-are-eligible-for-azure-consumption-commitments-maccctc"></a>Avgöra vilka erbjudanden som är berättigade till Azure-förbrukningsåtaganden (MACC/CtC)
 
-1. Logga in på Marketplace-upplevelsen i Azure Portal under [en](https://ms.portal.azure.com/#blade/Microsoft_Azure_Marketplace/MarketplaceOffersBlade/selectedMenuItemId/home) klient som är associerad med din organisation.
+1. Logga in på Marketplace-upplevelsen i [Azure Portal](https://ms.portal.azure.com/#blade/Microsoft_Azure_Marketplace/MarketplaceOffersBlade/selectedMenuItemId/home) under en klient som är associerad med din organisation.
 2. Använd filtret **för berättigade Azure-förmåner** (bild ovan) för att identifiera erbjudanden som är berättigade att bidra till din organisations Azure-förbrukningsåtagande.
 
    > [!NOTE]
@@ -51,7 +51,7 @@ Om du är osäker på om din organisation har ett kvalificerande avtal loggar du
 4. Köp/skapa erbjudandet direkt via Azure Marketplace. Microsoft bidrar med 100 % av kvalificerande erbjudandeköp till din organisations Azure-förbrukningsåtagande vid varje fakturaperiod, inklusive programvaru-/IP-kostnader.
 
 > [!IMPORTANT]
-> Erbjudanden måste köpas direkt via Azure Marketplace med en registrering som rör organisationens Azure-förbrukningsåtagande för köpet för att bidra till ditt åtagande. Erbjudanden som köpts via Molnlösningsleverantör (CSP), andra återförsäljarkanaler eller utanför marketplace bidrar inte till ditt åtagande.
+> Erbjudanden måste köpas direkt via Azure Marketplace med en registrering relaterad till organisationens Azure-förbrukningsåtagande för köpet för att bidra till ditt åtagande. Erbjudanden som köpts via Molnlösningsleverantör (CSP), andra återförsäljarkanaler eller utanför marknadsplatsen bidrar inte till ditt åtagande.
 
 ## <a name="next-steps"></a>Nästa steg
 

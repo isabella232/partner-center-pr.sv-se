@@ -10,11 +10,11 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 44594df78ba99a3762549b916265de9faa667e7b
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960073"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247044"
 ---
 # <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>Faktureringsscenarier i Partnercenter för engångsköp och välj återkommande inköp
 
@@ -24,13 +24,13 @@ Det här är [vanliga faktureringsscenarier.](common-billing-scenarios.md)
 
 ## <a name="purchase-a-subscription-and-add-a-license-on-the-same-day"></a>Köpa en prenumeration och lägga till en licens samma dag
 
-I scenario 1 köper du en prenumeration den 11 juni till ett enhetspris på 4 USD. Senare samma dag köper du en annan prenumeration till samma pris.
+I scenario 1 köper du en prenumeration den 11 juni till ett enhetspris på 4 USD. Senare samma dag köper du en annan av samma prenumeration till samma pris.
 
 Rekognoseringsfilen innehåller följande:
 
 - 4 USD för serviceperioden 10 juni – 9 juli.
-- 4,00 USD fakturerade omfakturering i procent för tjänstperioden 11 juni – 11 juni. Det här är den period då du hade en licens. Beräkning = (månadsvis pris/totalt antal dagar i tjänstperioden) x dagar i den prorrerade tjänstperioden x antalet licenser = (4/30) x 30 x 1 = 4,00.
-- 8,00 USD fakturerade omfakturering för tjänstperioden 10 juni – 9 juli. Det här är den period då du hade två licenser. Beräkning = (4/30) x 30 x 2 = 8,00.
+- 4,00 USD fakturerade omfakturering 11 juni – 11 juni. Det här är den period då du hade en licens. Beräkning = (månadsvis pris/totalt antal dagar i tjänstperioden) x dagar i den prorated serviceperioden x antalet licenser = (4/30) x 30 x 1 = 4,00.
+- 8,00 USD fakturerade omfakturering för tjänstperioden 10–9 juli. Det här är den period då du hade två licenser. Beräkning = (4/30) x 30 x 2 = 8,00.
 
 |**Inköpsdatum**   |**Avgiftsstart** |**Avgiftsslut**  |**Enhetspris**  |**Kvantitet**  |**Amount** |**Kostnadstyp** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
@@ -45,8 +45,8 @@ I scenario 2 köper du en prenumeration den 11 juni till ett enhetspris på 4 US
 Rekognoseringsfilen innehåller följande:
 
 - 4 USD för serviceperioden 10 juni – 9 juli.
-- 3,87 USD prorated rebill for service period 11 June –12 June. Det här är den period då du hade en licens. Beräkning = (månadsvis pris/totalt antal dagar i tjänstperioden) x dagar i den prorrerade tjänstperioden x antalet licenser = (4/30) x 29 x 1 = 3,87.
-- 7,74 USD fakturerade omfakturering 7,74 USD för tjänstperioden 12–9 juli. Det här är den period då du hade två licenser. Beräkning = (4/30) x 29 x 2 = 7,74.
+- 3,87 USD fakturerade omfakturering för tjänstperioden 11 juni – 12 juni. Det här är den period då du hade en licens. Beräkning = (månadspris/totalt antal dagar i tjänstperioden) x dagar i den prorated serviceperioden x antalet licenser = (4/30) x 29 x 1 = 3,87.
+- 7,74 USD fakturerade 7,74 USD för tjänstperioden 12–9 juli. Det här är den period då du hade två licenser. Beräkning = (4/30) x 29 x 2 = 7,74.
 
 |**Inköpsdatum**   |**Avgiftsstart** |**Avgiftsslut**  |**Enhetspris**  |**Kvantitet**  |**Amount** |**Kostnadstyp** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
@@ -60,9 +60,9 @@ I scenario 3 köper du två prenumerationer för samma produkt den 11 juni till 
 
 Rekognoseringsfilen innehåller följande:
 
-- Faktura på 8 USD för två licenser för tjänstperioden 10 juni – 9 juli.
-- 8,00 USD fakturerade omfakturering för tjänstperioden 11 juni – 11 juni. Det här är den period då du hade två licenser. Beräkning = (månadsvis pris/totalt antal dagar i tjänstperioden) x dagar i den prorrerade serviceperioden x antalet licenser = (4/30) x 30 x 2 = 8,00.
-- 4,00 USD fakturerade omfakturering för tjänstperioden 11 juni – 9 juli. Det här är den period då du hade en licens. Beräkning = (4/30) x 30 x 1 = 4,00.
+- 8 USD för två licenser för tjänstperioden 10 juni – 9 juli.
+- 8,00 USD fakturerade omfakturering för tjänstperioden 11 juni – 11 juni. Det här är den period då du hade två licenser. Beräkning = (månatligt pris/totalt antal dagar i tjänstperioden) x dagar i den prorated serviceperioden x antalet licenser = (4/30) x 30 x 2 = 8,00.
+- 4,00 USD fakturerade omfakturering för tjänstperioden 11–9 juli. Det här är den period då du hade en licens. Beräkning = (4/30) x 30 x 1 = 4,00.
 
 |**Inköpsdatum**   |**Avgiftsstart** |**Avgiftsslut**  |**Enhetspris**  |**Kvantitet**  |**Amount** |**Kostnadstyp** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|

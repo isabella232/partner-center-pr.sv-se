@@ -4,21 +4,21 @@ ms.topic: article
 ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-benefits
-description: Software Assurance träningsprogram håller på att dras tillbaka.
+description: Software Assurance träningsträningsprogrammet håller på att dras tillbaka.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
 ms.openlocfilehash: c0c65c962fdc46ce4685ee3bb63bacdec036f1e8
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961303"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246648"
 ---
 # <a name="training-vouchers-program-retirement"></a>Utbildningsutbildningsprogram går i pension
 
-Software Assurance satv:ar (Training TrainingVs) dras tillbaka helt från Software Assurance-förmånerna, men kunderna kan fortsätta att använda dagar för lärarledd utbildning medan de är giltiga. Det här är de viktiga datumen som ledde fram till att programmet pensioneras: 
+Software Assurance träningsutbildning (SATV:er) håller på att dras tillbaka helt från Software Assurance-förmåner, men kunderna kan fortsätta att använda flera dagar för lärarledd utbildning medan förmånerna är giltiga. Det här är de viktiga datumen som ledde fram till att programmet pensioneras: 
 
 - 1 februari 2020: Azure-träningen dras tillbaka från utbildningskatalogen.
 - 1 februari 2020: Träningsutbildningsutbildningar kan inte längre konverteras till Planning Services-dagar.  
@@ -48,7 +48,7 @@ Den här artikeln förklarar hur du slutför varje steg.
 
 ## <a name="confirm-program-eligibility"></a>Bekräfta programberättigande
 
-Innan du kan registrera dig i SATV-programmet måste du först uppfylla kraven för alternativet Microsoft Partner Network (MPN) Learning, som ersätter Microsoft Learning kompetens. Lär dig hur du kommer igång [Learning alternativet.](https://partner.microsoft.com/membership/learning-partners)
+Innan du kan registrera dig i SATV-programmet måste du först uppfylla kraven för alternativet Microsoft Partner Network (MPN) Learning, som ersätter Microsoft Learning-kompetensen. Lär dig hur du kommer igång [Learning alternativet.](https://partner.microsoft.com/membership/learning-partners)
 
 Du kan kontrollera berättigandet för ditt företag, inklusive tillämpliga kompetens- och utvärderingskrav i Partnercenter. Följ anvisningarna i [steg 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) i SATV-arbetsflödet för mer information och skärmdumpar.
 
@@ -85,6 +85,6 @@ Mer information finns i Vanliga frågor och [svar och](https://query.prod.cms.rt
 
 Se även:
 
-- [Software Assurance ARBETSFLÖDE för träningsträning (SATV)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)
+- [Software Assurance SATV-arbetsflöde (Training Training](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)
 - [Software Assurance vanliga frågor och svar om träningsträning (SATV)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)
-- [Software Assurance PRINCIPER för träningsträning (SATV)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)
+- [Software Assurance SATV-principer (Training Training](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)

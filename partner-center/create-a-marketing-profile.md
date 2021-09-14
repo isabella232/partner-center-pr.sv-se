@@ -10,11 +10,11 @@ ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: a9c0d970b4ddbdf22e0443ca9e6a2d06a031d0a9
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960323"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246931"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Skapa en företagsprofil för att få Microsofts sälj leads och hjälpa kunderna att hitta dig
 
@@ -37,7 +37,7 @@ Att skapa en företagsprofil är det första steget mot att få referenser. Vi v
 
 Skapa profiler för varje region som du har behörighet att göra affärer i.
 
-1. På **menyn i Partnercenter** väljer du **Referenser** &gt; **Företagsprofiler** &gt; ett land/en region > Skapa en **[företagsprofil](https://partner.microsoft.com/referrals/businessprofiles/)**.
+1. På menyn **i Partnercenter** väljer du **Referenser** &gt; **Företagsprofiler** &gt; ett land/en region > Skapa en **[företagsprofil](https://partner.microsoft.com/referrals/businessprofiles/)**.
 
 2. På sidan **Skapa en företagsprofil** väljer du en region och anger sedan din profilinformation.
    > [!NOTE]  

@@ -10,15 +10,15 @@ ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 3583614b1bf89a3c9297f123f12355b8a2ad7d1e
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959963"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246780"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Hur partnerintjänad kredit beräknas och betalas
 
-**Lämpliga roller:** Globala | Administratörsbehörighet för användarhantering | Administratörsagentens | Faktureringsadministratörskonto | Försäljningsagent
+**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Administratörsagentens | Faktureringsadministratörskonto | Försäljningsagent
 
 Partner-intjänad kredit (PEC) för hanterade tjänster identifierar och premierar partner som äger IT-driftkontroll och hantering av vissa eller alla kunders Azure-miljöer. 
 
@@ -85,7 +85,7 @@ Azure Cost Management (ACM) med hjälp av kostnadsanalys kan du som partner visa
 
 ## <a name="use-acm-to-view-your-partner-earned-credit"></a>Använda ACM för att visa din partners intjänade kredit
 
-1. I den [Azure Portal](https://portal.azure.com/)loggar du in på din partnerklientorganisation och **väljer Cost Management + Billing**.
+1. I den [Azure Portal loggar](https://portal.azure.com/)du in på din partnerklientorganisation och **väljer Cost Management + Billing**.
 2. Välj **Kostnadshantering.**
 3. Välj **Kostnadsanalys.**
 I vyn Kostnadsanalys visas kostnaderna för ditt faktureringskonto för alla tjänster som köpts och förbrukats till de priser som du betalar för Microsoft.
@@ -99,7 +99,7 @@ I vyn Kostnadsanalys visas kostnaderna för ditt faktureringskonto för alla tj�
     Om det här värdet **är Falskt** har den associerade kostnaden inte uppfyllt det nödvändiga berättigandet för krediten, eller så är den köpta tjänsten inte berättigad till partner-intjänad kredit.
 
 >[!NOTE]
->Användning av tjänster tar vanligtvis 8–24 timmar att visas i Cost Management och PEC-krediterna visas inom 48 timmar från åtkomsten i Azure Cost Management.
+>Användning för tjänster tar vanligtvis 8–24 timmar att visas i Cost Management och PEC-krediterna visas inom 48 timmar från åtkomsten i Azure Cost Management.
 
 Du kan också gruppera efter och filtrera efter egenskapen **PartnerEarnedCreditApplied** med hjälp av funktionerna **Gruppera efter** och **Lägg** till filter. Med dessa kan du gå in på detalj i kostnader som har PEC och de kostnader som inte har någon tillämpad PEC.
 

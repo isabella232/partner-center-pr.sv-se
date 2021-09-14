@@ -10,11 +10,11 @@ ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.openlocfilehash: db730436e88118c24aa966c1023ffeeadd20548a
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960543"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247140"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Hitta viktiga ANVÄNDAR-ID:er för en användare
 
@@ -33,7 +33,7 @@ Den här artikeln beskriver hur du använder [Azure Portal](https://portal.azure
 Följ dessa steg för att hitta Azure AD-klientorganisations-ID:t eller det primära domännamnet i Azure Portal. (Om du vill hitta ett klient-ID programmässigt kan du se [Hitta klientorganisations-ID med PowerShell eller CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant#find-tenant-id-with-powershell).)
 
 > [!NOTE]
-> Klientorganisations-ID:t kan kallas olika namn i olika program eller resurser. Till exempel kan klient-ID kallas katalog-ID, Azure Active Directory (Azure AD)-klient, Microsoft-ID eller för vissa rapporter, även *tenantguid*.
+> Klientorganisations-ID:t kan kallas olika namn i olika program eller resurser. Klientorganisations-ID:t kan till exempel kallas katalog-ID, Azure Active Directory-klient (Azure AD), Microsoft-ID eller för vissa rapporter, även *tenantguid*.
 
 1. Logga in på [Azure-portalen](https://portal.azure.com/).
 

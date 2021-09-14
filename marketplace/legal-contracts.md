@@ -7,11 +7,11 @@ author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
 ms.openlocfilehash: 728b2119b6b9a80146fbe3313d7fd79c77c5dcc8
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123936935"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246667"
 ---
 # <a name="legal-contracts"></a>Juridiska kontrakt
 
@@ -19,13 +19,13 @@ Den här artikeln beskriver olika typer av juridiska villkor och kundens medgiva
 
 ## <a name="types-of-legal-terms"></a>Typer av juridiska villkor
 
-Utgivare i Azure Marketplace alternativ för att presentera juridiska villkor för sina erbjudanden:
+Utgivare i Azure Marketplace tre alternativ för att presentera juridiska villkor för sina erbjudanden:
 
 - Microsofts juridiska standardavtal: detta sparar tid för både utgivaren och kunden eftersom kunden inte behöver verifiera och förhandla varje butiksköp.
 - Microsoft-standardavtal med ändringar: detta kan vara allmänna ändringar eller ändringar för en specifik kund (i händelse av privata erbjudanden).
-- Anpassat juridiskt avtal från utgivaren.
+- Anpassat juridiskt avtal av utgivaren.
 
-Om du vill få åtkomst till juridiska **kontrakt väljer du** länken Juridiskt avtal på produktsidan i antingen Microsoft AppSource eller Azure Marketplace. Den här länken innehåller vanligtvis även all information om användningsvillkoren för erbjudandet.
+Om du vill få åtkomst till juridiska **kontrakt väljer du** länken för juridiska avtal på produktsidan i antingen Microsoft AppSource eller Azure Marketplace. Den här länken innehåller vanligtvis också all information om användningsvillkoren för erbjudandet.
 
 :::image type="content" source="media/legal-contracts/license-agreement-link-ms.png" alt-text="Visar licensavtalslänken för ett exempelerbjudande.":::
 
@@ -43,9 +43,9 @@ Du godkänner juridiska villkor när du prenumererar på ett SaaS-erbjudande i A
 
 Villkoren för en avbildning från tredje part visas när du väljer **Granska + prenumerera.**
 
-:::image type="content" source="media/legal-contracts/terms-text.png" alt-text="Visar ett exempeltextblock för allmänna villkor.":::
+:::image type="content" source="media/legal-contracts/terms-text.png" alt-text="Visar ett exempel på ett textblock för allmänna villkor.":::
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Microsoft Commercial Marketplace-villkor](https://azure.microsoft.com/support/legal/marketplace-terms/)
+- [Villkor för Microsofts kommersiella marknadsplats](https://azure.microsoft.com/support/legal/marketplace-terms/)
 - [Vad är Azure Marketplace?](azure-marketplace-overview.md) 

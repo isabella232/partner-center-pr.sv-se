@@ -2,18 +2,18 @@
 title: Bekräfta intäktsberättigande
 ms.topic: how-to
 ms.date: 09/11/2020
-description: Kontrollera att du är berättigad att skapa intäkter och få betalt i incitamentsprogrammet. Kontrollera dina intäktsberättigande- och intäktsregler i Partnercenter.
+description: Kontrollera att du är berättigad att skapa intäkter och få betalt i incitamentsprogrammet. Kontrollera dina intäktsberättiganden och intäktsregler i Partnercenter.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.openlocfilehash: 0d9b83f2e834400e498ad7b419daf7c8bfbde305
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960473"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126249043"
 ---
 # <a name="confirm-your-incentives-earnings-eligibility"></a>Bekräfta behörigheten för incitamentsintäkter
 

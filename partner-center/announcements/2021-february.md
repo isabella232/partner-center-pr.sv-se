@@ -12,11 +12,11 @@ ms.custom:
 ms.localizationpriority: high
 ms.date: 04/08/2021
 ms.openlocfilehash: c7ae6a138f90f79e85c0ab8132873988524b9890
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960283"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246492"
 ---
 # <a name="february-2021-announcements"></a>Meddelanden i februari 2021
 
@@ -32,11 +32,11 @@ ________________
 
 ### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Partner som säljer erbjudanden för Academic, Nonprofit och Government Community Cloud (GCC) via Molnlösningsleverantör-programmet med partnercenter-API:et
+Partner som säljer erbjudanden för Academic, Nonprofit och Government Community Cloud (GCC) via Molnlösningsleverantör med partnercenter-API:et
 
 ### <a name="details"></a>Information
 
-Det här meddelandet är en uppföljning av förbättringarna i Partnercenter [som släpptes i december.](2020-december.md#1) Som en del av den versionen distribuerades nya GET- och POST-kvalificerings-API:er och därför kommer den befintliga GET-kvalificeringen att dras tillbaka den 4 maj 2021. Då måste du ha gått över till att använda de nya API:erna för POST Partner Center i inköpserbjudanden för Education och det nya GET-api:et för kvalificering för att köpa förhandskvalificerade erbjudanden för ideella organisationer och GCC erbjudanden.
+Det här meddelandet är en uppföljning av förbättringarna i Partnercenter [som släpptes i december.](2020-december.md#1) Som en del av den versionen distribuerades nya GET- och POST-kvalificerings-API:er och därför kommer den befintliga GET-kvalificeringen att dras tillbaka den 4 maj 2021. Då måste du ha gått över till att använda de nya POST Partner Center-API:erna i inköpserbjudandena för Education och det nya GET-api:et för kvalificering för att köpa förhandskvalificerade erbjudanden för ideella organisationer GCC erbjudanden.
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -75,7 +75,7 @@ Säljpartner kan nu exportera och importera affärsmöjligheter i stor skala med
 
 ### <a name="details"></a>Information
 
-Säljpartner kan nu exportera och importera affärsmöjligheter i stor skala med hjälp av den nya massåtgärdsfunktionen i CSV-filen i Partnercenter. Detta kommer att förena din delningsupplevelse av hänvisningar och säkerställa affärskontinuhet när du flyttar från Partner Sales Anslut. Det är också ett alternativ till investeringar i Partner Center-API:et.
+Säljpartner kan nu exportera och importera affärsmöjligheter i stor skala med hjälp av den nya massåtgärdsfunktionen i CSV-filen i Partnercenter. På så sätt kan du förena din delningsupplevelse av hänvisningar och säkerställa affärskontinuhet när du flyttar från Partner sales Anslut. Det är också ett alternativ till investeringar i Partner Center-API:et.
 
 Fullständig information finns i artikeln som nämns i nästa avsnitt. 
 
@@ -150,7 +150,7 @@ Läs mer i vår guide om [hur du hanterar möjligheter till säljförsäljning i
 Kontakta [supporten](https://partner.microsoft.com/support/?stage=1) om du har ytterligare frågor.
 
 ________________
-## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="10"></a>Ändringar i CSP Molnlösningsleverantör-kundernas registreringskrav
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="10"></a>Ändringar i CSP Molnlösningsleverantör(CSP) för kund-onboarding
 
 ### <a name="categories"></a>Kategorier
 
@@ -350,7 +350,7 @@ _______________
 
 ### <a name="affected-audience"></a>Berörd målgrupp
 
-Alla partner som gör en Molnlösningsleverantör (CSP)-programmet
+Alla partner som gör en Molnlösningsleverantör (CSP)
 
 ### <a name="details"></a>Information
 
@@ -368,7 +368,7 @@ Dessa erbjudanden kommer att ha "Ämnesupplevelser" i sina erbjudandenamn i pris
 
 |**Erbjudandets namn**|**Erbjudande-ID**|**Material-ID**|
 |------------------|:--------------------|:------------------|
-|Viva-ämnen|b9ef0c81-9ca6-45fd-a6c1-627745ba8b8a|1JV-00005|
+|Viva Topics|b9ef0c81-9ca6-45fd-a6c1-627745ba8b8a|1JV-00005|
 |Viva-ämnen för lärare och lärare|8c930d38-db61-4afa-83f9-77c595c5cdfc|1TK-00006|
 |Viva-ämnen för studenter|5de461d5-8ccc-4a8e-98ae-58a3ad400a57|1TK-00007|
 
@@ -388,15 +388,15 @@ _______________
 
 ### <a name="affected-audience"></a>Berörd målgrupp
 
-Alla partner som gör en Molnlösningsleverantör (CSP) i EUR, AUD, GBP och JPY.
+Alla partner som gör en överträdelse Molnlösningsleverantör CSP-programmet (CSP) i EUR, AUD, GBP och JPY.
 
 ### <a name="details"></a>Information
 
 Den licensbaserade prislistan för förhandsversionen för mars 2021 har uppdaterats för att inkludera prisändringarna för Microsoft 365 E3. Det påverkade erbjudandet och valutorna visas nedan. 
  
-Erbjudandenamn: Microsoft 365 E3 erbjudande-ID: 2b3b8d2d-10aa-4be4-b5fd-7f2feb0c3091 Material-ID: AAA-35638
+Erbjudandenamn: Microsoft 365 E3 erbjudande-ID: 2b3b8d2d-10aa-4be4-b5fd-7f2feb0c3091 Material ID: AAA-35638
 
-De Microsoft 365 E3 prisuppdateringarna är begränsade till endast dessa valutor: JPY (japanska Japan), GBP (Great British Pound), EUR (EU), AUD (australiska dollar). Det finns andra prisändringar i marsfilen och partner bör få den senaste förhandsversionen för att visa de andra förväntade ändringarna.
+De Microsoft 365 E3 prisuppdateringarna är begränsade till endast dessa valutor: JPY (japanska Japan), GBP (Great British Pound), EUR (Europeiska union), AUD (australiska dollar). Det finns andra prisändringar i marsfilen och partner bör få den senaste förhandsversionen för att visa de andra förväntade ändringarna.
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -413,7 +413,7 @@ _______________
 
 ### <a name="affected-audience"></a>Berörd målgrupp
 
-Alla partner som gör en Molnlösningsleverantör (CSP)-programmet
+Alla partner som gör en Molnlösningsleverantör (CSP)
 
 ### <a name="summary"></a>Sammanfattning
 
@@ -438,22 +438,22 @@ _______________
 
 ### <a name="affected-audience"></a>Berörd målgrupp
 
-Alla partner som gör en Molnlösningsleverantör (CSP)-programmet
+Alla partner som gör en Molnlösningsleverantör (CSP)
 
 ### <a name="summary"></a>Sammanfattning
 
-Premium kommer att ingå i förhandsversionen av prislistan i februari och blir tillgängliga från och med 1 mars 2021.
+Premium kommer att ingå i förhandsversionen av prislistan i februari och blir tillgängliga från den 1 mars 2021.
 
 ### <a name="details"></a>Information
 
-Premium utvärderingar är ett valfritt tillägg till Compliance Manager och kan hjälpa kunder att uppfylla nationella, regionala och branschspecifika krav som styr insamling och användning av data. Premium utvärderingar är reserverade för Office 365 E5-, A5- och G5- och Microsoft 365 E5-, A5- och G5-kunder.
+Premium utvärderingar är ett valfritt tillägg till Compliance Manager och kan hjälpa kunder att uppfylla nationella, regionala och branschspecifika krav som styr insamling och användning av data. Premium utvärderingar är reserverade för Office 365 E5-, A5- och G5-, Microsoft 365 E5-, A5- och G5-kunder.
 
 |**Erbjudandets namn**|**Erbjudande-ID**|**Material-ID**|
 |------------------|:--------------------|:------------------|
 |CSP – Corp – Addon|[76be61a7-2c03-4b3e-8330-63b11bd904ed](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/76be61a7-2c03-4b3e-8330-63b11bd904ed)|8JA-00003|
 |CSP – Corp – utvärderingsversion|[f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4)|8JA-00004|
 |CSP – utbildning – lärare och lärare – tillägg|[fa7f5773-063a-48cf-b3e2-de509ea1262f](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/fa7f5773-063a-48cf-b3e2-de509ea1262f)|8JB-00003|
-|CSP – utbildning – lärare och lärare – utvärderingsversion|[828cecbd-8728-4339-b0c2-51e009a67d88](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/828cecbd-8728-4339-b0c2-51e009a67d88)|8JB-00004|
+|CSP – utbildning – lärare – utbildning – utvärderingsversion|[828cecbd-8728-4339-b0c2-51e009a67d88](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/828cecbd-8728-4339-b0c2-51e009a67d88)|8JB-00004|
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -471,13 +471,13 @@ _________________________________________________________
 - Datum: 4 februari 2021
 - Funktioner
 
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
 Alla partner
 
 ### <a name="details"></a>Information
 
-Microsoft erbjuder kompetenstillägg (med undantag för Cloud Business Applications-kompetensen) och avancerat specialiseringstillägg för partners med årsdagar (AD) mellan 1 januari 2021 och 30 juni 2021. Mer information finns i vårt partnerblogginlägg. [](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)
+Microsoft erbjuder kompetenstillägg (förutom Cloud Business Applications-kompetensen) och avancerat specialiseringstillägg för partner med årsdagar (AD) mellan 1 januari 2021 och 30 juni 2021. Mer information finns i vårt partnerblogginlägg. [](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)
 ________________
 ## <a name="new-updates-to-the-referrals-module-in-partner-center"></a><a name="2"></a> Nya uppdateringar av referensmodulen i Partnercenter
 
@@ -486,67 +486,67 @@ ________________
 - Datum: 5 februari 2021
 - Funktioner
  
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
-- Partner med erbjudanden som är redo för säljpartner
-- Partner med ett transakterbart erbjudande som använder en Azure-incitamentberättigad lösning på den kommersiella marknadsplatsen
+- Partner med erbjudanden som är redo för säljförsäljning
+- Partner med ett transakterbart erbjudande som använder en Azure-incitamentsberättigad lösning på den kommersiella marknadsplatsen
 - Alla partner som använder referensmodulen i Partnercenter.
 
 ### <a name="details"></a>Information
 
-När vi går in på det nya året lägger vi till funktioner för att förbättra och utöka samförsäljningsupplevelsen i Partnercenter. De här nya funktionerna hjälper dig att påskynda avtalet, utöka säljåtkomsten och hjälpa dig att skala din verksamhet på ett bättre sätt. De här nya tilläggen, som introducerades i modulen Referenser, hjälper dig att nå fler kunder via andra Microsoft-partner eller Microsoft-säljare, samtidigt som du hanterar din pipeline med Microsoft på en enda plats.  
+När vi går in på det nya året lägger vi till funktioner för att förbättra och utöka samförsäljningsupplevelsen i Partnercenter. De här nya funktionerna hjälper dig att påskynda avtalshastigheten, utöka säljaråtkomsten och hjälpa dig att skala din verksamhet på ett bättre sätt. De här nya tilläggen, som introducerades i modulen Referenser, hjälper dig att nå fler kunder via andra Microsoft-partner eller Microsoft-säljare, samtidigt som du hanterar din pipeline med Microsoft på en enda plats.  
 
-Det här är vad som är nytt i partnercenter-referensmodulen:
+Här är vad som är nytt i partnercenterreferenser-modulen:
 
 #### <a name="all-partners-using-the-referrals-module-in-partner-center"></a>Alla partner som använder referensmodulen i Partnercenter  
 
-- [Skapa nya SMB-anslutningar:](../connect-with-your-customers.md)Sälj sälj sälj och samarbeta med Microsoft-säljare för att få inkommande affärsmöjligheter som är relaterade till SMB-kunder.
+- [Skapa nya SMB-anslutningar:](../connect-with-your-customers.md)Sälj och samarbeta med Microsoft-säljare för att få inkommande affärsmöjligheter relaterade till SMB-kunder.
 
-- [Utöka hänvisningsbehörigheter:](../permissions-overview.md#manage-referrals)Tilldela användarnas hänvisningsbehörigheter baserat på om du vill att de ska ha administratörsbehörigheter (åtkomst till alla möjligheter till säljförsäljning) eller användarbehörigheter (åtkomst till användarens specifika möjligheter till säljförsäljning).
+- [Utöka](../permissions-overview.md#manage-referrals)hänvisningsbehörigheter: Tilldela användarnas hänvisningsbehörigheter baserat på om du vill att de ska ha administratörsbehörigheter (åtkomst till alla möjligheter till säljförsäljning) eller användarbehörigheter (åtkomst till användarens specifika möjligheter till säljförsäljning).
 
-- [Partnerförsäljning Anslut](../psc-to-pc.md#user-migration)användarmigrering: Mappa befintliga partnerförsäljnings-Anslut användarbehörigheter till motsvarande partnercenterreferensadministratör och referensanvändarbehörigheter och mass tillämpa sedan de nya behörigheterna på användarna. Läs [dokumentationen om referensbehörigheter](../permissions-overview.md#manage-referrals) om du vill veta mer om referenshantering.  
+- [PartnerFörsäljning Anslut](../psc-to-pc.md#user-migration)migrering av användare: Mappa befintliga Partner Sales Anslut användarbehörigheter till motsvarande administratörs- och referensanvändarbehörigheter för Partnercenter och mass tillämpa de nya behörigheterna på användarna. Läs [dokumentationen om referensbehörigheter](../permissions-overview.md#manage-referrals) om du vill veta mer om hanteringen av hänvisningar.  
 
-#### <a name="partners-with-co-sell-ready-offers"></a>Partner med erbjudanden som är redo för säljpartner
+#### <a name="partners-with-co-sell-ready-offers"></a>Partner med erbjudanden som är redo för säljförsäljning
 
-- [Samförsäljning med andra partner:](../manage-co-sell-opportunities.md)Bjud in en annan partner från vårt kraftfulla partnerekosystem att samarbeta med dig och få åtkomst till fler kunder.  
+- [Samförsäljning med andra partner:](../manage-co-sell-opportunities.md)Bjud in en annan partner från vårt kraftfulla partnerekosystem för att samarbeta med dig och få tillgång till fler kunder.  
 
-#### <a name="partners-with-a-transactable-offer-using-an-azure-incentive-eligible-solution-in-the-commercial-marketplace"></a>Partner med ett transakterbart erbjudande som använder en Azure-incitamentberättigad lösning på den kommersiella marknadsplatsen
+#### <a name="partners-with-a-transactable-offer-using-an-azure-incentive-eligible-solution-in-the-commercial-marketplace"></a>Partner med ett transakterbart erbjudande som använder en Azure-incitamentsberättigad lösning på den kommersiella marknadsplatsen
 
-- [Använd automatisk](../register-deals.md)avtalsregistrering: Spara tid och säkerställ noggrannheten genom att registrera köpbara Microsoft Commercial Marketplace Azure-erbjudanden med hjälp av kryssrutan "This deal/win has been or will be transacted through Azure Marketplace or AppSource". Så länge ditt transaktionsdatum är korrekt hämtas informationen för avtalsregistreringen direkt från Microsofts kommersiella marknadsplats.
+- [Använd automatisk](../register-deals.md)avtalsregistrering: Spara tid och säkerställ noggrannhet genom att registrera köpbara Microsoft Commercial Marketplace Azure-erbjudanden med hjälp av kryssrutan "Det här avtalet/vinsten har genomförts eller kommer att ske via Azure Marketplace eller AppSource". Så länge ditt transaktionsdatum är korrekt hämtas informationen för avtalsregistreringen direkt från Microsofts kommersiella marknadsplats.
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du behöver hjälp med att använda någon [](../referrals.md) av de nya funktionerna kan du läsa avsnittet Referenser i vår kunskapsbas eller vårt supportmaterial som finns i vårt galleri [för](https://aka.ms/CoSellExperience) säljförsäljning (inloggning krävs).
+Om du behöver hjälp med att använda någon [](../referrals.md) av de nya funktionerna kan du läsa avsnittet Referenser i vår kunskapsbas eller vårt supportmaterial som finns i vårt galleri för säljförsäljning [(inloggning](https://aka.ms/CoSellExperience) krävs).
 
 Du kan [öppna ett ärende hos vårt partnersupportteam](https://partner.microsoft.com/support/?stage=1) för support.
 
 ________________
-## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25-2021-and-get-qualification-by-may-4-2021"></a><a name="1"></a> Utfasning och tillbakadragning av PUT-kvalificerings-API:er för valideringsprocessen för Education-kunder senast den 25 februari 2021 och GET-kvalificering senast den 4 maj 2021.
+## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25-2021-and-get-qualification-by-may-4-2021"></a><a name="1"></a> Utfasning och tillbakadragning av PUT-kvalificerings-API:er för kundvalideringsprocessen för Education den 25 februari 2021 och GET-kvalificering senast den 4 maj 2021.
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 4 februari 2021
 - Funktioner
 
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
 Partner som säljer Academic, Non-Profit och GCC via programmet Molnlösningsleverantör med partnercenter-API:et
 
 ### <a name="details"></a>Information
 
-Det här meddelandet är en uppföljning av förbättringarna i Partnercenter [som släpptes i december.](./2020-december.md#1) Som en del av den versionen distribuerades nya GET- och POST-kvalificerings-API:er, och därför kommer de befintliga PUT-kvalificerings-API:erna Partner Center-API:er att tas ur bruk senast **den 25 februari 2021 och GET-kvalificeringen senast den 4 maj 2021.** Då måste du ha gått över till att använda de nya POST Partner Center-API:erna för att kunna köpa Education-erbjudanden och det nya GET-kvalificerings-API:et för att köpa förhandskvalificerade erbjudanden för ideella organisationer och GCC-erbjudanden.
+Det här meddelandet är en uppföljning av partnercenterförbättringarna [som släpptes i december](./2020-december.md#1). Som en del av den versionen distribuerades nya GET- och POST-kvalificerings-API:er, och därför kommer de befintliga PUT-kvalificerings-API:erna Partner Center-API:er att tas ur bruk den **25 februari 2021 och GET-kvalificeringen senast den 4 maj 2021.** Då måste du ha gått över till att använda de nya POST Partner Center-API:erna för att kunna köpa Education-erbjudanden och det nya GET-api:et för kvalificering för att köpa förhandskvalificerade erbjudanden för ideella organisationer GCC erbjudanden.
 
 ### <a name="next-steps"></a>Nästa steg
 
 - **Uppdatera till de nya API:erna** för en lyckad övergång i rätt tid
-- **Granska de nya ändringarna i Partner center-API:et och guiden** i resurserna för driftberedskap: Förbättringar av [kundvalideringsprocessen](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) i Partnercenter Education
+- **Granska de nya partnercenter-API-ändringarna och guiden** i resurserna för driftberedskap: [Förbättringar av kundvalideringsprocessen](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) i Partnercenter Education
 - **Dela den här informationen med lämpliga team** i din organisation och med dina återförsäljare för att hjälpa dem att förbereda sig för dessa ändringar.
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har frågor om det här meddelandet kontaktar [du supporten för Partnercenter.](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)
+Om du har frågor om det här meddelandet kontaktar du [supporten för Partnercenter.](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)
 
 ### <a name="change-log"></a>Ändringslogg
 
 - Februari: Uppdaterade tidslinjer för utfasning av GET & PUT-kvalificeringar
-- Januari: Påminnelse om kommande utfasningar av GET & PUT-kvalificeringar
+- Januari: Påminnelse om kommande utfasningar av GET & PUT-utbildning

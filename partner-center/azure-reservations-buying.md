@@ -1,6 +1,6 @@
 ---
 title: Köpa Microsoft Azure reservationer för kunder
-description: Lär dig hur du köper Azure-reservationer åt dina kunder i Partnercenter. Visar även marknader där Azure-reservationer inte är tillgängliga.
+description: Lär dig hur du köper Eller köper Azure-reservationer åt dina kunder i Partnercenter. Här visas även marknader där Azure-reservationer inte är tillgängliga.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
@@ -10,36 +10,36 @@ ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
 ms.openlocfilehash: 112296baffe38b81a1a0516e62fa31525d1e3b3d
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959993"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246378"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Köp Microsoft Azure reservationer åt dina kunder i Partnercenter
 
-**Lämpliga roller:** Administratörsagent | Global | Supportagent | Försäljningsagentens | Administratör för användarhantering
+**Lämpliga roller:** Administratörsagent | Global | Supportagent för | Försäljningsagent | Administratör för användarhantering
 
-Den här artikeln förklarar hur du köper Azure-reservationer åt dina kunder i Partnercenter. Den identifierar också marknader där Azure-reservationer inte är tillgängliga.
+Den här artikeln beskriver hur du köper eller köper Azure-reservationer åt dina kunder i Partnercenter. Den identifierar även marknader där Azure-reservationer inte är tillgängliga.
  
 > [!NOTE]
-> Den här artikeln gäller endast för partner i Molnlösningsleverantör-programmet (CSP). Kunder som använder andra typer av prenumerationer (till exempel betala enligt användning, enskilda prenumerationer, Microsoft-kundavtal eller företagsavtal-prenumerationer) bör i stället läsa dokumentationen om [Azure-reservationer.](/azure/cost-management-billing/reservations)
+> Den här artikeln gäller endast för partner i programmet Molnlösningsleverantör (CSP). Kunder som använder andra typer av prenumerationer (till exempel betala enligt användning, enskilda prenumerationer, Microsoft-kundavtal- eller företagsavtal-prenumerationer) bör i stället läsa dokumentationen om [Azure-reservationer.](/azure/cost-management-billing/reservations)
 
 ## <a name="before-you-begin"></a>Innan du börjar
 
 Granska viktig information nedan innan du köper Azure-reservationer åt dina kunder. (Vill du att kunderna ska kunna köpa sina egna Azure-reservationer från en tidigare Azure-prenumeration som du har köpt åt dem? Se [Ge kunder behörighet att köpa sina egna Azure-reservationer](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations).)
 
-- Om och när kunden signerar det nya Microsoft-kundavtal (se Bekräfta kundens godkännande [av Microsoft-kundavtal](confirm-customer-agreement.md)) måste du köpa Azure-reservationer under Azure-planen. Mer information finns i Köpa [Azure-plan.](purchase-azure-plan.md)
+- Om och när kunden signerar den nya Microsoft-kundavtal (se Bekräfta kundens godkännande av [Microsoft-kundavtal](confirm-customer-agreement.md)) måste du köpa Azure-reservationer enligt Azure-planen. Mer information finns i Köpa [Azure-plan.](purchase-azure-plan.md)
 
-- Kunderna måste redan ha en aktiv Azure-prenumeration innan du kan köpa reservationer åt dem
+- Kunderna måste redan ha en aktiv Azure-prenumeration innan du kan köpa reservationer för deras räkning
   
 - Kostnader för programvaruprenumeration som SQL Database eller SUSE Linux-programvara ingår inte i Priserna för Azure-reservationer
 
-- Microsofts kommersiella priser för dig inkluderar inte skatter, såvida inte din plats är Brasilien. Om din plats är Brasilien inkluderar det kommersiella priset till dig lämpliga skatter
+- Microsofts kommersiella prissättning inkluderar inte skatter, såvida inte din plats är Brasilien. Om din plats är Brasilien inkluderar det kommersiella priset till dig lämpliga skatter
 
 - Försäljnings- och supportavdelningen behöver explicit åtkomst till Azure-prenumerationen så att de kan köpa eller hantera den i Azure Portal- och filsupportbegäranden, inklusive för utbyten och återbetalningar, för kundens räkning  
 
-- Om du är en indirekt leverantör och köper Azure-reservationer via Azure Portal ärvs Partner of Record (indirekt återförsäljare) från den prenumeration Azure CSP du väljer.
+- Om du är en indirekt leverantör och köper Azure-reservationer via Azure Portal,ärvs Partner of Record (indirekt återförsäljare) från den Azure CSP prenumeration som du väljer.
 
 - Registrera partner för Azure-reservationer kan inte ändras efter köpet. Du kan avbryta den befintliga reservationen och köpa en ny med den nya partnern för posten.
 
@@ -138,7 +138,7 @@ Följ stegen nedan för att köpa Microsoft Azure reservationer åt dina kunder 
 
 9. Välj **Köp** för att köpa beställningen. Information om din beställning, inklusive ordernumret, visas på **sidan** Bekräfta. Välj **Klar** för att gå till sidan **Orderhistorik.** 
 
-10. Om du vill hantera kundens reservation i Azure Portal du kunden på sidan **Kunder** och väljer sedan nedåtpilen för att expandera kundens rad. Välj **Microsoft Azure Hanteringsportal** för att öppna kundens post i Azure Portal.
+10. Om du vill hantera kundens reservation i Azure Portal du kunden på sidan **Kunder** och väljer sedan nedåtpilen för att expandera kundens rad. Välj **Microsoft Azure Hanteringsportal** att öppna kundens post i Azure Portal.
 
 ## <a name="next-steps"></a>Nästa steg
 

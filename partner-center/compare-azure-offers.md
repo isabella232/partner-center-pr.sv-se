@@ -10,17 +10,17 @@ ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: d4b59dc0f492dbca2afd603c6b7800e782ab3a12
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961063"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247399"
 ---
 # <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>Jämföra skillnader mellan Azure-erbjudanden i CSP-programmet
 
 **Lämpliga roller:** Administratörsagent | Faktureringsadministratörskonto | Global | Supportagent | Försäljningsagent
 
-I den här artikeln beskrivs de viktigaste skillnaderna mellan Azure-erbjudanden i Molnlösningsleverantör (CSP).
+Den här artikeln beskriver de viktigaste skillnaderna mellan Azure-erbjudanden i Molnlösningsleverantör (CSP).
 
 ## <a name="overview-of-key-differences-between-azure-offers"></a>Översikt över viktiga skillnader mellan Azure-erbjudanden
 

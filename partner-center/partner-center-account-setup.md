@@ -10,11 +10,11 @@ ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 2cfb8e05a9d09aa3b7214ac3c1024348348416d5
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960446"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247453"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Hantera ditt Partnercenter-konto – företagsprofil, bankinformation, roller, behörigheter med mera
 
@@ -25,11 +25,11 @@ Det konto som du skapar i Partnercenter när du registrerar är din e-postadress
 Se även artiklarna [Bjud in anställda att gå med i Partnercenter](./partner-membership-center-retirement-faq.md) och Lägga till en ny [användare.](create-user-accounts-and-set-permissions.md)
 
 >[!NOTE]
->Menyn Kontoinställningar ändras beroende på vilka program du har registrerat dig i. Om du till exempel är en partner i Molnlösningsleverantör-programmet (CSP) kan du hantera dina Azure Shared-tjänster från **Kontoinställningar.**
+>Menyn Kontoinställningar ändras beroende på vilka program du har registrerat dig i. Om du till exempel är en partner i Molnlösningsleverantör-programmet (CSP) kommer du att kunna hantera dina Azure Shared-tjänster från **Kontoinställningar.**
 
 ## <a name="account-management"></a>Kontohantering
 
-Alla kommersiella partner och utvecklarpartner får åtkomst till Kontohantering i Partnercenter genom att logga **in** på instrumentpanelen i [Partnercenter](https://partner.microsoft.com/dashboard) och välja **Inställningar** (kugghjulsikonen) i det övre högra hörnet på skärmen och sedan **Kontoinställningar.** Du behöver inte längre välja mellan inställningar för Partner och Utvecklare. Alla profiler och inställningar kombineras nu.
+Alla kommersiella partner och utvecklarpartner får åtkomst till [](https://partner.microsoft.com/dashboard) Kontohantering i Partnercenter genom att logga **in** på instrumentpanelen i Partnercenter och välja **Inställningar** (kugghjulsikonen) i det övre högra hörnet på skärmen och sedan **Kontoinställningar.** Du behöver inte längre välja mellan inställningar för Partner och Utvecklare. Alla profiler och inställningar kombineras nu.
 
 :::image type="content" source="images/accountsettings/opening.png" alt-text="inställningsikon.":::
 
@@ -43,7 +43,7 @@ Oavsett om du är partner eller utvecklare kan du använda ditt MPN-ID för såd
 
 ## <a name="account-settings---partners-resellers"></a>Kontoinställningar – partner, återförsäljare
 
-När du väljer **Inställningar-ikonen** och  öppnar menyn Kontoinställningar visas två flikar i standardvyn, om ditt  företag ingår i Molnlösningsleverantör-programmet, med två flikar: **Partner** och **Återförsäljare.** Varje flik innehåller aspekter av din verksamhet.
+När du väljer **Inställningar-ikonen** och  öppnar menyn Kontoinställningar visas två flikar i standardvyn, om  ditt företag ingår i Molnlösningsleverantör-programmet, med två flikar: **Partner** och **Återförsäljare.** Varje flik innehåller aspekter av din verksamhet.
 
 :::image type="content" source="images/accountsettings/reseller.png" alt-text="Menyn visar flikar för partner och återförsäljare.":::
 
@@ -142,16 +142,16 @@ Här är ett exempel. Anta att en användare har åtkomst till tre program i  in
 
 ### <a name="enrolling-in-programs"></a>Registrering i program
 
-Det finns många Partner Center-program. Varje program har olika krav som företaget måste uppfylla innan det kan registreras i programmet.
+Det finns många Partner Center-program tillgängliga. Varje program har olika krav som företaget måste uppfylla innan det kan registreras i programmet.
 
-Mer information om hur du registrerar i vissa Partner Center-program finns i följande ofullständiga lista:
+Mer information om registrering i vissa Partner Center-program finns i följande ofullständiga lista:
 
 - [Commercial Marketplace-program](/azure/marketplace/partner-center-portal/create-account)
 - [Microsoft Partner Network medlemsförmåner](mpn-overview.md)
 - [CSP-program](./enrolling-in-the-csp-program.md)
 - [Office Lagra](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
-Mer information om registrering i Partner Center-program finns även i [Partnernätverksresurser.](https://partner.microsoft.com/)
+Mer information om registrering i Partner Center-program finns i även [Partnernätverksresurser.](https://partner.microsoft.com/)
 
 ## <a name="next-steps"></a>Nästa steg
 

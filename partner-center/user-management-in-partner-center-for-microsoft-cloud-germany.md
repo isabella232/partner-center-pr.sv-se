@@ -11,24 +11,24 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 95a7c56bc8d20d86379637e7ed3e7499b941a079
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960773"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246571"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Användar- och licenshantering i Partnercenter för Microsoft Cloud Tyskland
 
 **Gäller för:** Partner Center for Microsoft Cloud Tyskland
 
-**Lämpliga roller:** Globala | Kontoadministratör
+**Lämpliga roller:** Global | Kontoadministratör
 
 > [!IMPORTANT]
-> Baserat på kundutvecklingen kommer vår molnstrategi för Tyskland att fokusera på leverans av de nya molnregionerna i Tyskland som är konsekventa med vårt globala molnerbjudande. Det innebär att vi inte längre kommer att ta emot nya kunder eller distribuera nya tjänster från Microsoft Cloud Germany, som är tillgängligt för närvarande. Befintliga kunder kan fortsätta att använda de aktuella molntjänsterna som är tillgängliga idag, och vi kommer att underhålla dessa med nödvändiga säkerhetsuppdateringar.
+> Baserat på utvecklingen av kundernas behov kommer vår molnstrategi för Tyskland att fokusera på leverans av de nya molnregionerna i Tyskland som är konsekventa med vårt globala molnerbjudande. Det innebär att vi inte längre kommer att ta emot nya kunder eller distribuera nya tjänster från Microsoft Cloud Germany, som är tillgängligt för närvarande. Befintliga kunder kan fortsätta att använda de aktuella molntjänsterna som är tillgängliga idag, och vi kommer att underhålla dessa med nödvändiga säkerhetsuppdateringar.
 >  
-> Framöver har nya kunder möjlighet att använda de europeiska regioner som för närvarande är tillgängliga eller de nya regionerna i Tyskland när de blir tillgängliga. Mer information finns i avsnittet om att [Microsoft ska leverera molntjänster från nya datacenter i Tyskland](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/).
+> Framöver har nya kunder möjlighet att använda de tillgängliga europeiska regionerna eller de nya regionerna i Tyskland när de blir tillgängliga. Mer information finns i avsnittet om att [Microsoft ska leverera molntjänster från nya datacenter i Tyskland](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/).
 
-För att följa tyska lagar och föreskrifter som styr insamling och användning av enskilda personers data samt viktiga internationella standarder är följande funktioner för användar- och licenshantering inte tillgängliga i Partner Center för Microsoft Cloud Tyskland. Lägg i stället till och hantera användare och licenser i Azure Portal för Microsoft Cloud Tyskland eller Office 365 administrationscenter.
+Följande användar- och licenshanteringsfunktioner är inte tillgängliga i Partner Center for Microsoft Cloud Tyskland för att uppfylla tyska lagar och föreskrifter som styr insamling och användning av enskilda personers data samt viktiga internationella standarder. Lägg i stället till och hantera användare och licenser i Azure Portal för Microsoft Cloud Tyskland eller Office 365 administrationscenter.
 
 Funktion eller funktion | Slutföra uppgifter i
 :--- | :---
@@ -39,7 +39,7 @@ Licenshantering | Office 365 administrationscenter eller Microsoft Cloud Germany
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>Så här hanterar du användare i Azure Portal för Microsoft Cloud Tyskland 
 
-Om du är inloggad på Partner center för Microsoft Cloud Tyskland kan du öppna Azure Portal för Microsoft Cloud Tyskland utan att behöva logga in igen. Men om du behöver logga in direkt på Azure Portal Microsoft Cloud Tyskland går du till [https://portal.microsoftazure.de](https://portal.microsoftazure.de) . 
+Om du är inloggad på Partner center för Microsoft Cloud Tyskland kan du öppna Azure Portal för Microsoft Cloud Tyskland utan att behöva logga in igen. Men om du behöver logga in direkt på Azure Portal för Microsoft Cloud Tyskland går du till [https://portal.microsoftazure.de](https://portal.microsoftazure.de) . 
 
 När du har loggat in på Azure Portal för Microsoft Cloud Tyskland öppnar du översiktssidan för Azure Active Directory (Azure AD) och följer sedan anvisningarna i följande artiklar:
 

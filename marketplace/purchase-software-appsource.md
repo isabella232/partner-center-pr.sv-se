@@ -7,15 +7,15 @@ author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
 ms.openlocfilehash: e51f4593624a764e14ecae473f96cf0779c2ff10
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123936946"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246996"
 ---
 # <a name="purchase-saas-apps-on-microsoft-appsource"></a>Köpa SaaS-appar på Microsoft AppSource
 
-[Microsoft AppSource](https://appsource.microsoft.com/) innehåller tusentals företagsprogram, inklusive SaaS-appar (programvara som en tjänst) och tillägg för Dynamics 365, Microsoft 365, Power BI och Power Apps. AppSource innehåller kostnadsfria appar, utvärderingsversioner och betalda prenumerationer, och du kan hantera avgifter, uppgraderingar, nedgradering och annulleringar på en enda plats med [hjälp av Administrationscenter för Microsoft 365](/microsoft-365/admin/admin-overview/about-the-admin-center). Den här artikeln förklarar hur du köper betalda SaaS-prenumerationer i AppSource.
+[Microsoft AppSource](https://appsource.microsoft.com/) innehåller tusentals företagsprogram, inklusive SaaS-appar (programvara som en tjänst) och tillägg för Dynamics 365, Microsoft 365, Power BI och Power Apps. AppSource innehåller kostnadsfria appar, utvärderingsversioner och betalda prenumerationer, och du kan hantera avgifter, uppgraderingar, nedgradering och annulleringar på en enda plats med [hjälp av Administrationscenter för Microsoft 365](/microsoft-365/admin/admin-overview/about-the-admin-center). Den här artikeln beskriver hur du köper betalda SaaS-prenumerationer i AppSource.
 
 ## <a name="requirements"></a>Krav
 
@@ -40,7 +40,7 @@ Att köpa en SaaS-app kräver följande:
 
 1. Ange din faktureringsadress.
 1. Ange din betalningsmetod (kreditkortsinformation).
-1. Välj **Placera order**.
+1. Välj **Placera order .**
 
 ## <a name="configure-the-application"></a>Konfigurera programmet
 

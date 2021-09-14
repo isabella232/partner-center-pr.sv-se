@@ -10,15 +10,15 @@ ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
 ms.openlocfilehash: 478bcba56e1763cc8a69b98bede0dc63c7a1cdad
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960106"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246607"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Verifiera eller uppdatera företagets profilinformation 
 
-**Lämpliga roller:** Globala | MPN-kontoadministratör
+**Lämpliga roller:** Global | MPN-kontoadministratör
 
 Första gången du loggar in på Partnercenter som global administratör bör du bekräfta att all företagsinformation är korrekt. Det kan vara primär kontakt, företagets juridiska namn, adress och programinformation. Om företaget har fler än en plats granskar du platsdata för att se om de är korrekta. Som global administratör, faktureringsadministratör eller administratörsagent kan du också se och uppdatera din fakturerings- och skatteinformation.
 
@@ -73,7 +73,7 @@ MPN|Global administratör; Kontoadministratör|Auktoriserad; väntande; Avvisade
 
 ## <a name="update-your-mpn-global-business-account"></a>Uppdatera ditt globala MPN-företagskonto
 
-Om fel affärskonto har identifierats som det juridiska företaget under migreringen från Partner Membership Center till Partnercenter kan du ändra det till rätt juridiskt affärskonto.
+Under migreringen från Partner Membership Center till Partnercenter kan du ändra det till rätt företagskonto om fel affärskonto har identifierats som det juridiska företaget.
 
 Om du vill göra de här uppdateringarna måste du vara antingen global administratör eller kontoadministratör. Lär dig hur du [hanterar dina globala MPN-platskonton](manage-locations.md)
 

@@ -10,59 +10,59 @@ ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 73b47b62ce996156c7e780450bada1bdbec9f4b0
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959956"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246373"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Prislista för den nya handelsupplevelsen i CSP för Azure
 
-**Lämpliga roller:** Administratörsagent | Faktureringsadministratörskonto | Globala | Supportagent | Försäljningsagent | Administratör för användarhantering
+**Lämpliga roller:** Administratörsagent | Faktureringsadministratörskonto | Global | Supportagent | Försäljningsagent | Administratör för användarhantering
 
-Realtidspriserna för den nya Azure-handelsupplevelsen i CSP levereras dynamiskt i realtid på Partnercenter. Priserna visas endast i USD. Från och med augusti 2021 debiteras alla partner i partnerns platsvaluta oavsett var kunden som du sålde produkterna finns. Mer information finns i [Azure-plan – fakturering.](azure-plan-billing.md)
+Realtidspriserna för den nya Azure-handelsupplevelsen i CSP levereras dynamiskt i realtid på Partnercenter. Priserna visas endast i USD. Från och med augusti 2021 debiteras alla partner i partnervalutan oavsett var kunden som du sålde produkten är. Mer information finns i [Azure-plan – fakturering.](azure-plan-billing.md)
 
 Som en del av den nya köpupplevelsen för Azure i CSP har vi introducerat ett [nytt Azure-erbjudande](./azure-plan-lp.md). Viktiga datum som rör det tidigare Azure-erbjudandet (MS-AZR-0145p) finns i [det här dokumentet](https://go.microsoft.com/fwlink/p/?linkid=2164140).
 
 Om du har registrerat dig *före* 21 juli 2021
 - Du kommer att fortsätta att se det tidigare Azure-erbjudandet i prislistan.
 
-Om du har registrerat dig *den 21* juli 2021 eller senare
+Om du har registrerat *dig den 21* juli 2021 eller senare
 - Du ser *inte* det tidigare Azure-erbjudandet i prislistan.
 
 ## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>Se priser för prenumerationer under prissättningen för Azure-planen
 
 1.  I menyn i Partnercenter väljer du **Sälj** och sedan **Priser och erbjudanden.**
-2.  Under **Priser för Förbrukning av Azure-plan** och Prissättning för **Azure-planreservationer** väljer du land och sedan nedladdningslänken.
+2.  Under **Prissättning för Azure-planförbrukning** **och prissättning för Azure-planreservationer** väljer du land och sedan nedladdningslänken.
    - För **Växelkurser** väljer du nedladdningslänken under avsnittet .
 
    > [!NOTE] 
    > **FX-priser** är inte landsspecifika.
 
-   :::image type="content" source="images/azure/pricing-new.png" alt-text="Skärmbild av Priser och erbjudanden som visar den nya handelsupplevelsen.":::
+   :::image type="content" source="images/azure/pricing-new.png" alt-text="Skärmbild av priser och erbjudanden som visar den nya handelsupplevelsen.":::
 
    > [!NOTE] 
    > Du kan exportera två olika prislistor: priser för Azure-planer och priser från tredje part på Marketplace.
 
 ## <a name="azure-price-list-specifics"></a>Information om Azure-prislistan
 
-- Priser för Azure-planer kommer att vara **tillgängliga på sidan Priser och** erbjudanden i Partnercenter, under **Sälja.**
+- Priser för Azure-planer kommer att vara tillgängliga **på sidan Priser** och erbjudanden i Partnercenter, under **Sälj**.
 
-- Exporter kommer att vara tillgängliga för förbrukningstjänster för Azure-planer, Azure-reservationer och FX-priser.
+- Exporter kommer att vara tillgängliga för förbrukningstjänster i Azure-planer, Azure-reservationer och FX-priser.
 
 - Exportalternativen är:
 
   - **Aktuell prissättning:** Det här alternativet innehåller alla mätare och priser från den första i månaden till det aktuella datumet i månaden, till exempel nya priser, ändrade priser eller borttagna priser. Alla priser har effektiva start- och slutdatum för att förklara om de är nya eller borttagna.
 
-  - **Föregående månads priser:** Hämtningar av varje typ av resurs kommer att ske per månad. För prisfiler inkluderar detta alla mätare som var tillgängliga under den månaden. Om en ny mätare visas i mitten av månaden visas jag som en mätare med ett effektivt datum som återspeglar dess tillgänglighet. Liknande för priser som har upphört, visas med ett effektivt slutdatum som beskriver när de inte längre är tillgängliga.
+  - **Priser för föregående månad:** Hämtningar av varje typ av resurs kommer att ske per månad. För prisfiler inkluderar detta alla mätare som var tillgängliga under den månaden. Om en ny mätare visas i mitten av månaden visas jag som en mätare med ett effektivt datum som återspeglar dess tillgänglighet. Liknande för priser som upphör att gälla och visas med ett effektivt slutdatum som beskriver när de inte längre är tillgängliga.
 
-  - **FX-priser:** FX-priser är tillgängliga för nedladdning dagen före den 1:a i månaden, kl. 18:00 PST. Om du till exempel vill ha priserna för november laddar du ned priserna den 31 oktober. Tidigare månads FX-priser kommer också att vara tillgängliga.
+  - **FX-priser:** FX-priser kommer att vara tillgängliga för nedladdning dagen före den 1:a i månaden, 18:00 PST. Om du till exempel vill ha priserna för november laddar du ned priserna den 31 oktober. Tidigare månads FX-priser kommer också att vara tillgängliga.
 
 - Priserna i prislistorna är direkta priser. Vissa partner kan vara berättigade till partner-intjänade krediter. Information om hur partnerns intjänade kredit beräknas finns i [Så här beräknas och betalas partnerns intjänade kredit.](partner-earned-credit-explanation.md)
 
-- **Berättigade tjänster:** Partnerintjänad kredit gäller för tjänster som anges i prissättningspartners för **Azure-planpriser** kan exportera från [sidan med priser för Azure-plan.](https://partner.microsoft.com/commerce/sales)
+- **Berättigade tjänster:** Partnerintjänad kredit gäller för tjänster som anges i prissättningspartnerna för **Azure-planförbrukning** kan exportera från [sidan med priser för Azure-plan.](https://partner.microsoft.com/commerce/sales)
    > [!NOTE]
-   > Det finns undantag, inklusive, men inte begränsat till, produkter från  tredje part som identifieras som "tredje part" i kolumnen Taggar i listan med azure-planers förbrukningspris och reservationer för Azure-planer.
+   > Det finns undantag, inklusive, men inte begränsat till, produkter från  tredje part som identifierats som "Tredje part" i kolumnen Taggar i azure-planens förbrukningsprislista och Azure-planreservationer.
 
 ## <a name="price-list-data"></a>Prislistedata
 
@@ -74,12 +74,12 @@ Om du har registrerat dig *den 21* juli 2021 eller senare
 |SkuTitle|Rubrik eller namn på SKU|
 |Publisher|Första part kommer alltid att vara Microsoft|
 |SkuDescription|Beskrivning av SKU:n|
-|UnitOfMeasure|Enheter som debiteras eller faktureras|
-|TermDuration|För termbaserade produkter gäller längden på termen för reservationer|
+|UnitOfMeasure|De enheter som debiteras eller faktureras|
+|TermDuration|För termbaserade produkter, längden på termen, som gäller för reservationer|
 |Marknaden|Prissättningens marknad|
 |Valuta|Prissättningens valuta|
 |UnitPrice|Pris per enhet|
-|PricingTierRangeMin|För nivåindelade priser gäller det lägsta priset|
+|PricingTierRangeMin|För nivåindelade priser gäller minimipriset|
 |PricingTierRangeMax|För nivåindelade priser gäller det högsta priset|
 |EffectiveStartDate|Startdatum för prissättning|
 |EffectiveEndDate|Slutdatum för prissättningen|
@@ -91,7 +91,7 @@ Prislistor för Azure-plan kan exporteras från [sidan Priser och erbjudanden](h
 
 ## <a name="tiered-pricing"></a>Nivåindelad prissättning
 
-Vissa förbrukningstjänster för Azure-planer har stöd för nivåindelade priser. Partner hittar dessa produkter och SKU:er i prislistan för Azure-planen. Objekt som har värden i kolumnerna för prisnivåintervall gör det möjligt för partner att förstå priset baserat på användning. I exemplet nedan med exempeldata har vi en produkt-SKU med tre prisnivåer.
+Vissa förbrukningstjänster i Azure-plan har stöd för nivåindelade priser. Partner hittar dessa produkter och SKU:er i prislistan för Azure-planen. Objekt som har värden i kolumnerna för prisnivåintervall gör det möjligt för partner att förstå priset baserat på användning. I exemplet nedan med exempeldata har vi en produkt-SKU med tre prisnivåer.
 
 |**Produktionen**   |**SkuId**   |**UnitPrice**   |**PricingTierRangeMin**   |**PricingTierRangeMax**   |
 |:---------------|:-----------|:---------------|:-------------------------|:-------------------------|
@@ -110,7 +110,7 @@ Prissättnings-API:et finns på en annan slutpunkt än de andra Partner Center-A
 Det här API:et gör det också möjligt för partner att hämta månatliga växelkurser eftersom priserna för Azure-planen endast är i USD. Du kan använda API:erna för att hämta både priser och växelkurser för den aktuella månaden eller föregående månader.
 
 > [!NOTE]
-> Prissättnings-API:et är specifikt för priser för Azure-planer. Du bör fortfarande använda det befintliga RateCard-API:et och prislistorna som publicerats på partnercentrets sida "Priser och erbjudanden" för Azure-resurser eller reservationer som distribuerats till prenumerationer som inte är Azure-planer. Prissättnings-API:et för Azure-planer stöder inte programvara, marketplace eller licensbaserad prissättning, till exempel Microsoft 365 eller Dynamics 365.
+> Prissättnings-API:et är specifikt för priser för Azure-planer. Du bör fortfarande använda det befintliga RateCard-API:et och prislistorna som publicerats på partnercentrets sida "Priser och erbjudanden" för Azure-resurser eller reservationer som distribuerats till prenumerationer som inte är Azure-planer. Pris-API:et för Azure-planer stöder inte programvara, Marketplace- eller licensbaserad prissättning, till exempel Microsoft 365 eller Dynamics 365.
 
 Mer information om priser för Azure-planer och API:er för växelkurser finns i den fullständiga [api-dokumentationen för priser.](/partner/develop/pricing)
 

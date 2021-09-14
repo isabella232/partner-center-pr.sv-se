@@ -9,11 +9,11 @@ ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
 ms.openlocfilehash: d99de8ed53ae6ed7fa094f6da7a8947c1bcfccb9
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960553"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246870"
 ---
 # <a name="manage-incentives-customer-associations"></a>Hantera incitament för kundassociationer
 

@@ -10,17 +10,17 @@ ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
 ms.openlocfilehash: 276747cffb3007e5403cb8238b0540fe191e34cb
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960606"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247165"
 ---
 # <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Eskalera problem till Microsoft och lär dig vilka problem som passar bättre för Microsofts eskalering  
 
 **Gäller för:** Partner Center-| Partnercenter för Microsoft Cloud for US Government
 
-**Lämpliga roller:** Administratörsagent | Globala | Försäljningsagent | Supportagent
+**Lämpliga roller:** Administratörsagent | Global | Försäljningsagent | Supportagent
 
 Det förväntas att du kommer att lösa problem åt dina kunder. Dina första steg bör vara att [kontrollera tjänstens hälsotillstånd för](check-service-health.md) befintliga, dokumenterade problem. Om det inte tar upp kundproblemet kan du använda dina administratörsbehörigheter för att felsöka programvara, inställningar och konfiguration.
 

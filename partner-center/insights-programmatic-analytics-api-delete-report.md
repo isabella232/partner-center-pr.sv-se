@@ -4,20 +4,20 @@ ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: Använd det här API:et för att ta bort alla rapporter i Partner Center-insikter.
+description: Använd det här API:et för att ta bort alla rapporter i Partner center-insikter.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
 ms.openlocfilehash: a8a94fc1a6e69bab0a7671bd27949e271a77dbbe
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960886"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246805"
 ---
 # <a name="delete-report-api"></a>Ta bort rapport-API
 
-Vid körning tar det här API:et bort alla poster för rapport- och rapportkörning.
+Vid körning tar detta API bort alla rapport- och rapportkörningsposter.
 
 **Begärandesyntax**
 
@@ -96,18 +96,18 @@ Den här tabellen definierar nyckelelementen i svaret:
 |    Parameter    |    Beskrivning    |
 |    ----    |    ----    |
 |    ReportId     |    Universell unik identifierare (UUID) för den borttagna rapporten     |
-|    ReportName     |    Namn som ges till rapporten när den skapas     |
-|    Description     |    Beskrivning som ges när rapporten skapas     |
+|    ReportName     |    Namn som ges till rapporten när den skapades     |
+|    Description     |    Beskrivning som anges när rapporten skapas     |
 |    QueryId     |    Fråge-ID som skickades när rapporten skapades     |
 |    Söka i data     |    Frågetext som ska köras för den här rapporten     |
 |    Användare     |    Användar-ID som används för att skapa rapporten     |
-|    CreatedTime     |    Den tid då rapporten skapades. Tidsformatet är yyyy-MM-ddTHH:mm:ssZ     |
+|    CreatedTime     |    Tiden då rapporten skapades. Tidsformatet är yyyy-MM-ddTHH:mm:ssZ     |
 |    ModifiedTime     |    Tid då rapporten senast ändrades. Tidsformatet är yyyy-MM-ddTHH:mm:ssZ     |
 |    ExecuteNow     |    ExecuteNow-flaggan som angetts när rapporten skapades     |
 |    StartTime     |    Den tid då rapportkörningen börjar. Tidsformatet är yyyy-MM-ddTHH:mm:ssZ     |
 |    ReportStatus     |    Status för rapportkörningen. Möjliga värden är Pausad, Aktiv och Inaktiv.     |
-|    RecurrenceInterval     |    Upprepningsintervall som angavs när rapporten skapades     |
-|    RecurrenceCount     |    Antal upprepningar som angavs när rapporten skapades     |
+|    RecurrenceInterval     |    Upprepningsintervall som anges när rapporten skapas     |
+|    RecurrenceCount     |    Antal upprepningar som anges när rapporten skapas     |
 |    CallbackUrl     |    Motringning-URL som anges i begäran     |
 |    CallbackMethod    |    Återanropsmetod som anges i begäran    |
 |    Format     |    Format för rapportfilerna     |

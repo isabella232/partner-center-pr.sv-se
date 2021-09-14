@@ -10,11 +10,11 @@ ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/02/2021
 ms.openlocfilehash: 2920de80d9097fac04cbc344fce82a262a099b7d
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960726"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246493"
 ---
 # <a name="january-2021-announcements"></a>Meddelanden januari 2021
 
@@ -61,11 +61,11 @@ Efter Fas 1 och under kalenderåret 2021 kommer Microsoft att övergå från fak
 Efter fas 2 debiteras partner i EU/EFTA & Storbritannien i partnerns platsvaluta för alla kunder och alla CSP-inköp.
 
 >[!NOTE]
->Den här ändringen påverkar endast partnerns faktureringsvaluta och inte prissättningen för nya handelserbjudanden i CSP. De nya handelserbjudandena i omfånget för den här ändringen är: Azure-prenumerationer som ingår i en Azure-plan, Azure-reservationer, serverprenumerationer, permanent programvara och Microsofts köp på den kommersiella marknadsplatsen i Molnlösningsleverantör program.
+>Den här ändringen påverkar endast partnerns faktureringsvaluta och inte prissättningen för nya handelserbjudanden i CSP. De nya handelserbjudandena i omfånget för den här ändringen är: Azure-prenumerationer som ingår i en Azure-plan, Azure-reservationer, serverprenumerationer, permanent programvara och Microsofts köp på den kommersiella marknadsplatsen i Molnlösningsleverantör-programmet.
 
 ### <a name="partner-benefits"></a>Partnerförmåner
 
-Den här uppdateringen minskar komplexiteten och omkostnaderna med fakturering i flera valutor i EU/EFTA & Storbritannien för den nya handelsupplevelsen.
+Den här uppdateringen minskar komplexiteten och kostnaderna med fakturering i flera valutor i EU/EFTA & Storbritannien för den nya handelsupplevelsen.
 
 - Partner får en konsoliderad faktura i en enda valuta och får inte längre en faktura för varje kundplatsvaluta
 - Incitamentbetalningar kommer att finnas i samma valuta som partnerns fakturavaluta
@@ -169,7 +169,7 @@ Om du behöver support för dina åtgärder med Microsoft öppnar du en [tjänst
 
 - Startdatum har angetts
 - Rubriken för organisations-INN har uppdaterats till Företagsregistrerings-ID
-- Kommentar har lagts till för att förtydliga företagsregistrerings-ID
+- Kommentar har lagts till för att förtydliga id:t för företagsregistrering
 
 ________________
 ## <a name="microsoft-partner-agreement-mpa--indirect-reseller-update--new-faqs"></a><a name="13"></a> Microsoft-partneravtal (MPA) – uppdatering av indirekt återförsäljare & nya vanliga frågor och svar 
@@ -222,8 +222,8 @@ Nedan visas de nya åtgärdstyperna:
 ### <a name="next-steps"></a>Nästa steg
 
 - Utnyttja de nya åtgärdstyperna för att spåra händelser när DAP:en godkändes av kunden och avslutades av kunden.  
-- [Hämta en post för PartnerCenter-aktivitet – Partnercenter-apputvecklare | Microsoft Docs](/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
-- [Granskningsresurser – Partnercenter-apputvecklare | Microsoft Docs](/partner-center/develop/auditing-resources)
+- [Hämta en post för Partnercenter-aktivitet – Partnercenter-apputvecklare | Microsoft Docs](/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
+- [Granskningsresurser – partnercenterapputvecklare | Microsoft Docs](/partner-center/develop/auditing-resources)
 
 ### <a name="questions"></a>Har du några frågor?
 
@@ -247,17 +247,17 @@ Alla partner som gör en transacting Molnlösningsleverantör (CSP)-programmet.
 
 Den nya Microsoft-köpupplevelsen skapar en konsekvent och förenklad köpupplevelse för kunder och gör det möjligt för dem att digitalt transformera, med större flexibilitet i hur och var de köper. Partner spelar en viktig roll i kundens molnresa, oavsett vilka kanaler som kunderna väljer att göra transaktioner med Microsoft. När den uppdaterade handelsplattformen och modellen har startats fullständigt kan partner delta genom sälj rörelse för större företagskunder, samt små och medelstora företag, och det ger partner möjlighet att utöka sitt deltagande för att öka kundernas framgång.
 
-Den nya handelsupplevelsen för Azure i Molnlösningsleverantör-programmet utökar partnermöjligheter för att skapa och leverera hanterade tjänster, utöka kundbasen ytterligare och hjälpa kunderna med deras digitala omvandling.
+Den nya handelsupplevelsen för Azure i Molnlösningsleverantör-programmet utökar partnermöjligheter för att skapa och leverera hanterade tjänster, utöka deras kundbas ytterligare och hjälpa kunderna med deras digitala omvandling.
 
 Den nya handelsupplevelsen ger följande fördelar:
 
 - Förenklar inköpsprocessen för Azure med Azure-plan.
 - Skapar bättre prisjustering mellan kanaler. Baserat på kund- och partnerfeedback kommer den nya Azure-upplevelsen i Molnlösningsleverantör-programmet att använda en enda prislista i USD, vilket ger kunder och partner konsekvent prissättning i global skala.
-- Minskar hinder för kundförvärv genom att ge dig verktyg som inkluderar lämplig styrning, kundupplevelse och principer för att flytta dem till den nya Azure-upplevelsen i Molnlösningsleverantör-programmet.
+- Minskar hinder för kundförvärv genom att ge dig verktyg som inkluderar lämplig styrning, kundupplevelse och principer för att flytta dem till den nya Azure-upplevelsen i Molnlösningsleverantör program.
 - Gör det möjligt för partner att hantera sina kunder mer effektivt genom att utnyttja funktioner som Azure Lighthouse och Azure Cost Management. 
 - Expanderar åtkomst till Azure Marketplace.
 
-Vi utökar den nya handelsupplevelsen för Azure och har aktiverat övergångsverktyg för att förbättra flexibiliteten att hantera Azure på sätt som anpassar sig efter kundernas föränderliga affärsbehov och för att underlätta för kunderna att komma till det nya Azure-erbjudandet i Molnlösningsleverantör-programmet. Visa översikten över de verktyg som finns för att stödja övergången av Azure-kundprenumerationer i Molnlösningsleverantör program.
+Vi utökar den nya handelsupplevelsen för Azure och har aktiverat övergångsverktyg för att förbättra flexibiliteten att hantera Azure på sätt som anpassar sig efter kundernas föränderliga affärsbehov och för att hjälpa till att få kunderna till det nya Azure-erbjudandet i Molnlösningsleverantör-programmet. Visa översikten över de verktyg som finns för att stödja övergången av Azure-kundprenumerationer i Molnlösningsleverantör program.
 
 #### <a name="new-azure-in-cloud-solution-provider-program-offer-azure-plan"></a>Nytt erbjudande för Azure Molnlösningsleverantör -program (Azure-plan)
 
@@ -280,7 +280,7 @@ I fas 1 kommer alla nya Azure Molnlösningsleverantör-programföretag att ha de
 - Om kunden redan har köpt det tidigare Azure-erbjudandet för alla befintliga återförsäljarrelationer mellan partner och kunder i Molnlösningsleverantör-programmet kan partnern fortsätta att göra köp och kunden kan fortsätta att köpa det tidigare Azure-erbjudandet från den partnern.
 - Det tidigare Azure-erbjudandet kommer inte längre att vara tillgängligt för net-nya partner som gör en transacting i CSP
 - Det tidigare Azure-erbjudandet kommer inte längre att vara tillgängligt för net-new-kunder som köper via en partner i CSP
-- För alla nya återförsäljarrelationer eller nya kundförvärv kan partner endast göra transaktioner med det nya Azure-erbjudandet (Azure-plan)
+- För alla nya återförsäljarrelationer eller nya kundförvärv kan partner endast köpa det nya Azure-erbjudandet (Azure-plan)
 - För alla befintliga återförsäljarrelationer mellan partner och kunder gäller att om kunden aldrig har köpt Azure tidigare, kan partnern endast göra en överträdelse och kunden kan bara köpa det nya Azure-erbjudandet från den partnern.
 
 **Fas 2 – Under kalenderåret 2022**
@@ -302,10 +302,10 @@ Partner uppmuntras starkt att bekanta sig med följande resurser:
 #### <a name="partner-earned-credit-pec"></a>Partners intjänade kredit (PEC)
 
 - [Förstå partners intjänade kredit (guide)(microsoft.com)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf)
-- [Partnertjänad kredit – översikt – Partnercenter | Microsoft Docs](../partner-earned-credit.md?branch=main)
-- [Partnertjänad kredit för hanterade tjänster – Partnercenter-| Microsoft Docs](../partner-earned-credit-explanation.md?branch=main)
+- [Partnertjänad kredit – översikt – Partnercenter-| Microsoft Docs](../partner-earned-credit.md?branch=main)
+- [Partner-intjänad kredit för hanterade tjänster – Partnercenter-| Microsoft Docs](../partner-earned-credit-explanation.md?branch=main)
 - [Roller, behörigheter för partnertjänad kredit – Partnercenter-| Microsoft Docs](../azure-roles-perms-pec.md)
-- [Utbildningsmodul på begäran om partners intjänade kredit i Azure i CSP (eventbuilder.com)](https://commercial_licensing.eventbuilder.com/NewcommerceinCSPforAzuretrainingmodules)
+- [Utbildningsmodul på begäran om partners intjänade kredit Azure i CSP moduler (eventbuilder.com)](https://commercial_licensing.eventbuilder.com/NewcommerceinCSPforAzuretrainingmodules)
 
 #### <a name="the-new-commerce-experience"></a>Den nya handelsupplevelsen
 
@@ -334,13 +334,13 @@ Alla CSP-partner
 
 Som [vi](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) meddelade i dag är vi glada över att meddela att kommersiella permanenta programvarulicenser nu är allmänt tillgängliga för alla CSP-partner att sälja. Listan över beständiga programvarupriser i Partnercenter har publicerats på nytt och innehåller nu ytterligare produkter och geografiska områden.
 
-Observera också att från och med idag har funktionen för programvaru- och licensnyckeluppfyllelse i Partnercenter dragits tillbaka och att våra partner i framtiden bör peka kunder till Microsoft 365 Admin Center för detta ändamål. Mer information och nästa steg finns nedan.
+Observera också att från och med i dag har funktionen för programvaru- och licensnyckeluppfyllelse i Partnercenter dragits tillbaka och att partner framöver bör peka kunder till Microsoft 365 Admin Center för detta ändamål. Mer information och nästa steg finns nedan.
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Ladda ned **CSP:s** permanent **programvaruprislista i avsnittet** Programvara på sidan Priser för [Partnercenter & erbjudanden.](https://partnercenter.microsoft.com/pcv/sales) En lista över nyligen tillagda produkter och geografiska områden finns [här.](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)
+- Ladda ned **CSP:s permanent** programvaruprislista **i avsnittet** Programvara på sidan Priser [för Partnercenter & erbjudanden.](https://partnercenter.microsoft.com/pcv/sales) En lista över nyligen tillagda produkter och geografiska områden finns [här.](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)
 - Läs [artikeln Microsoft 365 Admin Center om](/microsoft-365/admin/setup/download-software-licenses-csp) permanent programvara och produktlicensnycklar och dela den med dina kunder när de är redo att ladda ned sina program- och licensnycklar.
-- Granska [beständig programvara i Molnlösningsleverantör programberedskapsmaterial.](https://partner.microsoft.com/resources/collection/software-in-csp#/) Använd [beredskapskartan](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) för att snabbt hitta rätt information för din roll.
+- Granska den [ständiga programvaran i Molnlösningsleverantör programberedskapsmaterial.](https://partner.microsoft.com/resources/collection/software-in-csp#/) Använd [beredskapskartan](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) för att snabbt hitta rätt information för din roll.
 
 ### <a name="questions"></a>Har du några frågor?
 
@@ -428,7 +428,7 @@ Vi lanserar tre nya komponenterbjudanden för Government Community Cloud (GCC) o
    |**Erbjudandets namn**|**Erbjudande-ID**|**Material-ID**|
    |-------------------|:------|:------|
    |Microsoft 365 E5 Information Protection och styrning för GCC|9e5397ab-f309-4d90-97f3-6fb5d53074d6|8QL-00002|
-   |Microsoft 365 E5 eDiscovery och audit för GCC|5c9ef884-6307-47e7-a914-f5092feae51e|8RI-00002|
+   |Microsoft 365 E5 eDiscovery och audit for GCC|5c9ef884-6307-47e7-a914-f5092feae51e|8RI-00002|
    |Microsoft 365 E5 Insider-riskhantering för GCC|11ccfdb3-80cb-4c80-8146-c9775045df17|8RF-00002|
    |Microsoft 365 E5 Information Protection och DLP (tillägg) för GCC|911d3177-53a9-42ec-a0e9-3b73fce527f0|8QY-00002|
 
@@ -438,14 +438,14 @@ Ett tillägg som är tillgängligt med en förutsättning för Microsoft 365 E5 
 
    |**Erbjudandets namn**|**Erbjudande-ID**|**Material-ID**|
    |-------------------|:------|:------|
-   |Tillägg för 10-års kvarhållning av granskningslogg för EDU|879b5e1a-eaa2-4ea9-a628-0b429b2e8732|8LC-00002|
+   |Tillägg för 10-års granskningslogg för EDU|879b5e1a-eaa2-4ea9-a628-0b429b2e8732|8LC-00002|
    |Tillägg för 10-års kvarhållning av granskningslogg|e14ce8d1-09f4-42d2-9b5e-ee85f32e7be4|8LB-00003|
    
 #### <a name="frontline-worker-add-ons"></a>Tillägg för Frontline Worker
 
-Från och med 1 februari 2021 kan kunder köpa tre nya programmässiga erbjudanden för säkerhet och efterlevnad för frontline-arbetare som tillägg till Microsoft 365 F1- och [F3-SKU:er.](https://www.microsoft.com/microsoft-365/firstline-workers)
+Från och med den 1 februari 2021 kan kunder köpa tre nya programmässiga erbjudanden för säkerhet och efterlevnad för frontline-arbetare som tillägg till Microsoft 365 F1- och [F3-SKU:er.](https://www.microsoft.com/microsoft-365/firstline-workers)
 
-Dessa programmässiga erbjudanden ersätter den aktuella [befordran](https://microsoft.sharepoint.com/teams/M365LicensingNews/SitePages/Security-and-Compliance-Promotion-for-Firstline-Workers-Update.aspx) av säkerhet och efterlevnad som upphör att gälla **den 28 februari 2021.** Till skillnad från den aktuella befordran ger F5-tillägg kunderna mer förutsägbarhet för prognostiserade när personalen i frontlinjen växer.
+Dessa programmässiga erbjudanden ersätter den aktuella befordran av säkerhet och efterlevnad som upphör att gälla **den 28 februari 2021.** [](https://microsoft.sharepoint.com/teams/M365LicensingNews/SitePages/Security-and-Compliance-Promotion-for-Firstline-Workers-Update.aspx) Till skillnad från den aktuella befordran ger F5-tilläggen kunderna mer förutsägbarhet för prognostiserade när personalen i frontlinjen växer.
 
    
    |**Erbjudandets namn**|**Erbjudande-ID**|**Material-ID**|
@@ -456,11 +456,11 @@ Dessa programmässiga erbjudanden ersätter den aktuella [befordran](https://mic
    
 ### <a name="next-steps"></a>Nästa steg
 
-Granska förhandsversionen av prislistan och dela den med lämpliga intressenter i din organisation. Mer information finns i [Microsoft Security and Compliance – Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-security-and/ct-p/MicrosoftSecurityandCompliance).
+Granska förhandsversionen av prislistan och dela med lämpliga intressenter i din organisation. Mer information finns i [Microsoft Security and Compliance – Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-security-and/ct-p/MicrosoftSecurityandCompliance).
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har fler frågor om dessa erbjudanden kan du läsa dina Yammer communityer. 
+Om du har fler frågor om dessa erbjudanden kan du läsa dina Yammer communityn. 
 
 _____________ 
 
@@ -473,32 +473,32 @@ _____________
 
 ### <a name="summary"></a>Sammanfattning
 
-Microsoft kommer att övergå till all bearbetning av elektroniska signaturer från DocuSign till Adobe Sign.
+Microsoft kommer att övergå från all bearbetning av elektroniska signaturer från DocuSign till Adobe Sign.
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Befintliga CSP-partner (direct Molnlösningsleverantör indirect Molnlösningsleverantör) under MPA. Partners i Kina, Ryssland och Tor befordra kommer att behöva fysiskt eller elektroniskt signera Omar varje år.
+Befintliga CSP-partner (direct Molnlösningsleverantör indirect Molnlösningsleverantör) under MPA. Partners i TheaA, Ryssland och Samarbetspartner kommer att behöva fysiskt eller elektroniskt signera Oment TheA varje år.
 
 ### <a name="details"></a>Information
 
-I februari 2021 börjar Microsoft övergå till all bearbetning av elektroniska signaturer från DocuSign till Adobe Sign för CSP-partner. 
+I februari 2021 börjar Microsoft övergå till all elektronisk signaturbearbetning från DocuSign till Adobe Sign för CSP-partner. 
 
-Du bör förvänta dig en smidig övergång. Vid migreringen får du ett e-postmeddelande adobesign@adobesign.com från , i stället för DocuSign, när din elektroniska signatur krävs. Det här e-postmeddelandet ger dig en länk till Adobe Sign-webbsidan där du behöver signera. Microsoft-partner behöver inte signera om befintliga avtal, endast framtida kanalavtal. 
+Du bör förvänta dig en smidig övergång. Vid migreringen får du ett e-postmeddelande adobesign@adobesign.com från , i stället för DocuSign, när din elektroniska signatur krävs. Det här e-postmeddelandet ger dig en länk till Adobe Sign-webbsidan där du måste signera. Microsoft-partner behöver inte signera om befintliga avtal, utan endast framtida kanalavtal. 
 
 Du hittar ett exempel på ett e-postmeddelande med en begäran om Adobe Sign-signatur [i resursgalleriet](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf). 
 
 **Se till att göra följande för bästa möjliga upplevelse:**
 
-1. Lägg adobesign@adobesign.com till i listan över säkra avsändare för att undvika att e-postmeddelanden från det här kontot skickas direkt till skräppostmappen.
-2. Arbeta med IT-avdelningen för att:
-   - Lägg till e-postadressen i listan över säkra avsändare för att säkerställa att den inte ingår i någon adobesign@adobesign.com företablerad nätfiskeregel.
+1. Lägg adobesign@adobesign.com till i listan över säkra avsändare för att undvika att e-postmeddelanden från det här kontot kommer direkt till skräppostmappen.
+2. Arbeta med din IT-avdelning för att:
+   - Lägg till e-postadressen i listan över säkra avsändare för att säkerställa att den adobesign@adobesign.com inte ingår i någon i förväg upprättad nätfiskeregel.
    - Uppdatera befintliga säkerhetsprinciper för att säkerställa att alla mottagare som krävs kan signera dokumentation under din Adobe Sign Enterprise-licens.
 
-Adobe Sign är Microsofts föredragna ESS (Electronic Signature Solution). Övergången till Adobe Sign säkerställer en säker och effektiv elektronisk signaturupplevelse som ger större värde till våra kunder och partner.
+Adobe Sign är Microsofts föredragna ESS (Electronic Signature Solution). Övergången till Adobe Sign säkerställer en säker och effektiv elektronisk signaturupplevelse som ger bättre värde till våra kunder och partner.
 
-Mer information om hur du elektroniskt signerar dokument och elektronisk signaturdelegering finns i följande **självstudier:** 
+Mer information om hur du elektroniskt signerar dokument och delegering av elektroniska signaturer finns i följande **självstudier:** 
 - [Signera ett dokument på ett elektroniskt | Adobe Sign-självstudier](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
-- [Delegera någon annan att signera ett | Adobe Sign-självstudier](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+- [Delegera någon annan att signera ett dokument | Adobe Sign-självstudier](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -506,7 +506,7 @@ Dela den här informationen med lämpliga intressenter i din organisation.
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har några frågor kan du kontakta Regionalt driftcenter med hjälp av [Call Logging Tool (CLT)](https://clt.partners.extranet.microsoft.com/CLT) eller [utforska MS.](https://www.explore.ms/) Följ CLT-standardprocessen noggrant så att vi kan lösa din fråga så snabbt som möjligt.
+Om du har frågor kan du kontakta din Regionalt driftcenter hjälp av [Call Logging Tool (CLT)](https://clt.partners.extranet.microsoft.com/CLT) eller [utforska MS](https://www.explore.ms/). Följ CLT-standardprocessen noggrant så att vi kan lösa frågan så snabbt som möjligt.
 
 _____________ 
 
@@ -517,35 +517,35 @@ _____________
 - Datum: 2021-01-14
 - Erbjudanden/marknader
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Molnlösningsleverantör partner som använder den norska kronorn.
+Molnlösningsleverantör partner som använder den norska krone.
 
 ### <a name="details"></a>Information
 
-Från och med 1 mars 2021 ändras de norska kronorna för kommersiell lokal programvara och onlinetjänster till att justeras enligt gällande prisnivåer i regionen.
+Från den 1 mars 2021 ändras de norska kronpriserna för kommersiell lokal programvara och onlinetjänster till att justeras med gällande prisnivåer i regionen.
 Det fullständiga meddelandet är endast tillgängligt för Microsoft-partner. [Logga in för att få åtkomst till det fullständiga meddelandet](https://partner.microsoft.com/resources/detail/pricing-update-norway-partners-pdf).
 
 _____________ 
 
-## <a name="commercial-pricing-update-for-the-indian-rupee"></a><a name="5"></a>Kommersiell prisuppdatering för rupier i Indien 
+## <a name="commercial-pricing-update-for-the-indian-rupee"></a><a name="5"></a>Kommersiell prisuppdatering för den indiska rupiern 
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2021-01-08
 - Erbjudanden/marknader
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
 CSP-partner som gör en överträdelse i Indien.
 
 ### <a name="details"></a>Information 
 
-Microsoft gör ändringar i den japanska rupiers prislista för att justera priserna för kommersiell programvara och onlinetjänster i Indien och Asien. Vi publicerar mer information när de blir tillgängliga. Om du behöver hjälp under tiden kontaktar du [Support för Partnercenter.](https://partner.microsoft.com/support/?stage=1)
+Microsoft gör ändringar i den kinesiska rupiers prislista för att justera priserna för kommersiell programvara och onlinetjänster i Indien och Asien. Vi publicerar mer information när de blir tillgängliga. Om du behöver hjälp under tiden kontaktar du [supporten för Partnercenter.](https://partner.microsoft.com/support/?stage=1)
 
 ________________
 
-## <a name="calling-plan-and-phone-system-updates-for-february-1-2021"></a><a name="4"></a>Anropsplan Telefonsystem uppdateringar för 1 februari 2021
+## <a name="calling-plan-and-phone-system-updates-for-february-1-2021"></a><a name="4"></a>Anropsplan och Telefonsystem uppdateringar för 1 februari 2021
 
 ### <a name="categories"></a>Kategorier
 
@@ -554,17 +554,17 @@ ________________
 
 ### <a name="summary"></a>Sammanfattning
 
-Ett tilläggsprogram för Microsoft 365, som omfattar Telefonsystem och nationella samtalsplan och en fristående plan för nationella samtal, kommer snart att välja länder.
+Ett tilläggserbjudande till Microsoft 365, som omfattar Telefonsystem och nationella samtalsplan och en fristående plan för nationella samtal, kommer snart att välja länder.
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Alla partner som gör en transact genom Molnlösningsleverantör(CSP)-programmet.
+Alla partner som gör en transacting Molnlösningsleverantör (CSP)-programmet.
 
 ### <a name="details"></a>Information 
 
-Det paketerade erbjudandet för tillägg till Microsoft 365 E1-, E3- och E5-erbjudanden omfattar Telefonsystem och nationella samtalsplan. Dessutom kommer ett nytt fristående erbjudande för nationella samtalsplan att vara tillgängligt endast för E5. De nya erbjudandena kommer endast att vara tillgängliga för kunder i USA, Puerto Toronto och Kanada. För alla andra länder och territorier förblir de befintliga globala fristående SKU:erna och priserna desamma. 
+Det paketerade erbjudandet för tillägg till Microsoft 365 E1-, E3- och E5-erbjudanden omfattar Telefonsystem nationella samtalsplan. Dessutom kommer ett nytt fristående erbjudande för nationella samtalsplan endast att vara tillgängligt för E5. De nya erbjudandena kommer endast att vara tillgängliga för kunder i USA, Tor Och Canada. För alla andra länder och territorier förblir de befintliga globala fristående SKU:erna och priserna desamma. 
 
-Dessa erbjudanden kommer att vara tillgängliga för kommersiella kunder, studenter, lärare, Government Community Cloud (GCC) och ideella kunder i USA, Toronto Och Kanada. Anropsplaner är inte tillgängliga i något av de andra områdena i USA.
+De här erbjudandena kommer att vara tillgängliga för kommersiella kunder, studenter, lärare, Government Community Cloud (GCC) och ideella kunder i USA, Och Kanada. Anropsplaner är inte tillgängliga i något av de andra amerikanska territorierna.
 
    |**Erbjudandets namn**|**Erbjudande-ID**|**Material-ID**|
    |-------------------|:------|:------|
@@ -594,7 +594,7 @@ _____________
 
 ### <a name="summary"></a>Sammanfattning
 
-Prislistorna januari och februari för licensbaserade erbjudanden har uppdaterats för att korrigera vissa felaktiga listpriser.
+Prislistorna för licensbaserade erbjudanden för januari och februari har uppdaterats för att korrigera vissa felaktiga listpriser.
 
 ### <a name="impacted-audience"></a>Målgrupp som påverkas
 

@@ -9,11 +9,11 @@ ms.author: sroy
 ms.localizationpriority: medium
 ms.date: 06/28/2021
 ms.openlocfilehash: 4a98bd2e98aa1533806205179812af6507b2a2af
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960333"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246960"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Anslutningsapp för säljförsäljning för Salesforce CRM – översikt
 
@@ -32,16 +32,16 @@ Lösningen är baserad på Microsoft Power Automate Solution och använder Partn
 |Partnercenter-konto|MPN-ID:t som är associerat med Partnercenter-klienten måste vara samma som det MPN-ID som är associerat med din säljpartnerlösning. Kontrollera att du kan se dina hänvisningar till säljförsäljning i Partner Center-portalen innan du distribuerar anslutningsapparna.|[Hantera ditt konto](create-user-accounts-and-set-permissions.md)|
 |Användarroller i Partnercenter|Medarbetaren som ska installera och använda anslutningsapparna måste vara referensadministratör|[Tilldela användarroller och -behörigheter](create-user-accounts-and-set-permissions.md)|
 |Salesforce CRM|CRM-användarrollen är Systemadministratör eller Systemanpassare|[Tilldela roller i Salesforce CRM](https://help.salesforce.com/articleView?id=assigning_users_to_roles.htm&type=5)|
-|Power Automate Flow konto|Skapa en ny produktionsmiljö med en databas för testning, mellanlagring och produktion. Om du har en befintlig produktionsmiljö med en databas kan den återanvändas. Den användare som ska installera anslutningslösningen måste ha en Power Automate och åtkomst till den här miljön. Du kan övervaka förloppet och få mer information [i Power Automate](https://flow.microsoft.com/) om installationen misslyckas. Välj **Visa historik** under **Lösningar**.|[Skapa eller hantera miljö](/power-platform/admin/create-environment#create-an-environment-with-a-database)|
+|Power Automate Flow konto|Skapa en ny produktionsmiljö med en databas för testning, mellanlagring och produktion. Om du har en befintlig produktionsmiljö med en databas kan den återanvändas. Den användare som ska installera anslutningslösningen måste ha en Power Automate licens och åtkomst till den här miljön. Du kan övervaka förloppet och få mer information [i Power Automate](https://flow.microsoft.com/) om installationen misslyckas. Välj **Visa historik** under **Lösningar**.|[Skapa eller hantera miljö](/power-platform/admin/create-environment#create-an-environment-with-a-database)|
 
 ## <a name="installation-of-salesforce-package-for-microsoft-custom-fields"></a>Installation av Salesforce-paket för Microsoft Custom Fields
 
-För att synkronisera hänvisningarna mellan Partner Center och Salesforce CRM måste Power Automate-lösningen tydligt identifiera Microsoft-specifika hänvisningsfält. Den här avgränsningen ger partnerförsäljningsteam möjlighet att bestämma vilka hänvisningar de vill dela med Microsoft för säljpartner.
+Om du vill synkronisera hänvisningarna i Partner Center och Salesforce CRM Power Automate lösningen tydligt identifiera Microsoft-specifika hänvisningsfält. Den här avgränsningen ger partnerförsäljningsteam möjlighet att bestämma vilka hänvisningar de vill dela med Microsoft för säljpartner.
 
 1. I Salesforce aktiverar du **Anteckningar och** lägger till den i listan med affärsmöjligheter. [Referens](https://help.salesforce.com/articleView?err=1&id=notes_admin_setup.htm&type=5)
 
 1. Aktivera **affärsmöjlighetsteam** genom att följa stegen:
-    - I installationsprogrammet använder du rutan **Snabb hitta** för att hitta opportunity team Inställningar.
+    - I installationsprogrammet använder du rutan **Snabb hitta** för att hitta Inställningar.
     - Definiera inställningarna efter behov. [Referens](https://help.salesforce.com/articleView?id=sf.opp_team_manage.htm&type=5)
 
 1. Installera anpassade fält och objekt i Salesforce med hjälp av [installationsprogrammet för paketet](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV). Använd det här installationsprogrammet för att installera paketet på alla företag.
@@ -155,7 +155,7 @@ Du kan använda Partner Center webhook-API:er för att registrera dig för resur
 
    :::image type="content" source="images/salesforce/copy-url.png" alt-text="Skärmbild som visar hur du kopierar URL:en.":::
 
-1. Välj **partnercenterwebbhookregistrering (Insider Preview)** Power Automate och välj sedan **Kör**.
+1. Välj flödet **Partner Center Webhook Registration (Insider Preview)** Power Automate och välj sedan **Kör**.
 
 1. Kontrollera att fönstret **Kör flöde** öppnas i den högra rutan och välj **Fortsätt.**
 
@@ -173,7 +173,7 @@ Webhooken kan nu lyssna på, skapa och uppdatera händelser.
 
 CRM-system är mycket anpassade och du kan anpassa Power Automate baserat på din CRM-konfiguration. När hänvisningar till säljförsäljning synkroniseras mellan Partner Center och ditt CRM-system visas fälten som synkroniseras på Partner Center-datorn i guiden Anpassad [fältmappning.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxL6S)
 
-Följ guiden för fältmappning och gör vid behov lämpliga ändringar i **[Anpassa] Skapa** eller Hämta information från Salesforce eller miljövariabler. Uppdatera inte några andra flöden i Power Automate eftersom det kan påverka framtida lösningsuppgraderingar.
+Följ guiden för fältmappning och gör vid behov lämpliga ändringar i **[Anpassa] Skapa** eller Hämta information från Salesforce eller miljövariabler. Uppdatera inte andra flöden i den nya Power Automate eftersom det kan påverka framtida lösningsuppgraderingar.
 
 Följande anpassningar är tillgängliga:
 
@@ -231,7 +231,7 @@ När du har installerat, konfigurerat och anpassat Power Automate lösningen kan
 
 ### <a name="pre-requisites"></a>Förutsättningar
 
-För att synkronisera hänvisningarna mellan Partner Center och Salesforce CRM Power Automate lösningen tydligt avgränsa Microsoft-specifika hänvisningsfält. Den här identifieringen ger dina säljteam möjlighet att bestämma vilka hänvisningar som de vill dela med Microsoft för samförsäljning.
+För att synkronisera hänvisningarna mellan Partner Center och Salesforce CRM måste Power Automate-lösningen tydligt avgränsa Microsoft-specifika hänvisningsfält. Den här identifieringen ger dina säljteam möjlighet att bestämma vilka hänvisningar som de vill dela med Microsoft för samförsäljning.
 
 En uppsättning anpassade fält är tillgängliga som en del av partnercentrets referenssynkronisering för Salesforce CRM-lösningens **affärsmöjlighetsentitet.** En CRM-administratörsanvändare måste skapa ett separat CRM-avsnitt med de **anpassade fälten** Affärsmöjlighet.
 
@@ -247,7 +247,7 @@ Följande anpassade fält ska vara en del av CRM-avsnittet:
 
 - **Referenssynlighet för Microsoft Partner Center:** Välj synlighet för PartnerCenter-hänvisningen. Genom att göra den synlig för Microsoft-säljare kan en hänvisning om icke-säljande kan konverteras till samförsäljning. När Microsoft-hjälp krävs är referensen synlig för Microsoft-säljare som standard. När det här fältet har markerats som synligt kan det inte återställas.
 
-- **Microsoft CRM identifierare:** När en hänvisning om säljförsäljning skapas och godkänns av Microsoft fylls det här fältet i med Microsofts CRM-identifierare.
+- **Microsoft CRM identifierare:** När en hänvisning till säljförsäljning skapas och godkänns av Microsoft fylls det här fältet i med Microsofts CRM-identifierare.
 
 - **Microsoft Partner Center-lösningar:** Ett anpassat objekt för att associera lösningar som är redo för säljförsäljning eller Microsoft-lösningar med affärsmöjligheten. En eller flera lösningar kan läggas till eller tas bort från affärsmöjligheten. Det är obligatoriskt att lägga till minst en sälj säljklar eller Microsoft-lösning till affärsmöjligheten innan du delar den med Microsoft. Om du vill associera det här objektet med affärsmöjligheten uppdaterar du **formuläret Affärsmöjlighet** i CRM.
 

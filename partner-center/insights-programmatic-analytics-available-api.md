@@ -9,23 +9,23 @@ author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
 ms.openlocfilehash: cbd9f7fd08dfc4cfd247a0ed07a2c12845c5514c
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960863"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246799"
 ---
 # <a name="available-apis-for-partner-insights-analytics"></a>Tillgängliga API:er för analys av partnerinsikter
 
 Nedan visas en lista över API:er för analys av partnerinsikter och deras associerade funktioner.
 
-## <a name="dataset-pull-apis"></a>Hämta API:er för datauppsättningar
+## <a name="dataset-pull-apis"></a>HÄMTA API:er för datauppsättningar
 
-***Tabell 1: Pull-API:er för datauppsättningar***
+***Tabell 1: HÄMTA API:er för datauppsättningar***
 
 | **API** | **Funktioner** |
 | --- | --- |
-| [Hämta alla datauppsättningar](insights-programmatic-analytics-api-get-dataset.md) | Hämtar alla tillgängliga datauppsättningar. Datauppsättningar visar tabeller, kolumner, mått och tidsintervall. |
+| [Hämta alla datauppsättningar](insights-programmatic-analytics-api-get-dataset.md) | Hämtar alla tillgängliga datauppsättningar. Datauppsättningar visar en lista över tabeller, kolumner, mått och tidsintervall. |
 |||
 
 ## <a name="query-management-apis"></a>API:er för frågehantering

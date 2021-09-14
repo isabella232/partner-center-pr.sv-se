@@ -10,15 +10,15 @@ ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
 ms.openlocfilehash: a7d04e437a2546c887b40f37a7381605535e8ca9
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960003"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247320"
 ---
 # <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>Använda analys för att analysera prestanda för dina indirekta återförsäljare
 
-**Lämpliga roller:** Globala | Administratör för användarhantering
+**Lämpliga roller:** Global | Administratör för användarhantering
 
 
 Data driver affärsbeslut. Använd måtten på sidan **Återförsäljaranalys** för att identifiera dina framgångar, dina indirekta återförsäljares framgångar och områden som behöver mer uppmärksamhet. Använd den här informationen när du planerar nya affärsmål.

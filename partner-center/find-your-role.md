@@ -1,6 +1,6 @@
 ---
 title: Hitta den roll som du har tilldelats
-description: Lär dig vart du ska gå i Partnercenter för att hitta den roll som du har tilldelats, dina behörigheter och din globala administratör.
+description: Lär dig vart du går i Partnercenter för att hitta den roll som du har tilldelats, dina behörigheter och din globala administratör.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
@@ -10,11 +10,11 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
 ms.openlocfilehash: e7e18c967481e0bfb6e6b8466746beb5ed8459b9
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960576"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247135"
 ---
 # <a name="find-your-role-your-permissions-and-your-global-admin"></a>Hitta din roll, dina behörigheter och din globala administratör
 
@@ -23,20 +23,20 @@ ms.locfileid: "123960576"
 
 ## <a name="find-the-role-youve-been-assigned"></a>Hitta den roll som du har tilldelats
 
-Om din globala administratör inte har sagt till dig kan du ta reda på vilken roll du har i Partnercenter genom att göra följande:
+Om din globala administratör inte har sagt något kan du ta reda på vilken roll du har i Partnercenter genom att göra följande:
 
 1. Logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard/home)
 
-1. Välj ikonen **Kontoinställningar** och välj **sedan Min profil**.
+1. Välj ikonen **Kontoinställningar** och välj sedan **Min profil**.
  
-1. Välj fliken **Roller och** behörigheter. Du ser dina roller och behörigheter.
+1. Välj **fliken Roller och** behörigheter. Du ser dina roller och behörigheter.
  
 >[!Note]
->Om du inte ser något program när du loggar in innebär det vanligtvis att du inte har rätt behörighet för att arbeta i programmet. Om du till exempel inte ser sidan Incitament när du loggar in har du inte incitamentsbehörigheter. Din globala administratör kan ge dig nödvändiga behörigheter.
+>Om du inte ser något program när du loggar in innebär det vanligtvis att du inte har rätt behörighet att arbeta i programmet. Om du till exempel inte ser sidan Incitament när du loggar in har du inte incitamentsbehörigheter. Din globala administratör kan ge dig nödvändiga behörigheter.
 
 ## <a name="find-your-global-admin"></a>Hitta din globala administratör
 
-Ibland kan en användare behöva ändra sin roll eller så kanske en ny användare vill ha en specifik rolltilldelning.
+Ibland kan en användare behöva ändra sin roll eller så kanske en ny användare vill ha en viss rolltilldelning.
 
 Så här hittar du en global administratör som kan göra rolländringar eller tilldela roller till en ny användare: 
 
@@ -44,12 +44,12 @@ Så här hittar du en global administratör som kan göra rolländringar eller t
 
 1. Filtrera på global administratör
 
-1. Du kan också gå **till Min profil**, välja **Roller** och behörigheter och se en lista över de olika administratörer som kan hjälpa dig att höja dina behörigheter. 
+1. Du kan också gå **till Min profil,** välja **Roller** och behörigheter och se en lista över de olika administratörer som kan hjälpa dig att höja dina behörigheter. 
 
 
 ## <a name="get-a-new-global-admin-assigned-to-your-company"></a>Få en ny global administratör tilldelad till ditt företag
 
-Om din globala administratör lämnar företaget måste någon annan fylla den här rollen. Skicka ett ärende till antingen Azure eller Office 365 teamet. Om du vill ha information om hur du gör detta väljer du något av alternativen nedan.
+Om din globala administratör lämnar företaget måste någon annan fylla den här rollen. Skicka ett ärende till antingen Azure- Office 365 teamet. Om du vill ha information om hur du gör detta väljer du något av alternativen nedan.
 
 [Ny global administratör för Azure](https://support.microsoft.com/help/4505981/what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company)
 

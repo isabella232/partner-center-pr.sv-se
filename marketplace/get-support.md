@@ -7,11 +7,11 @@ author: Guyshu
 ms.author: gushuchm
 ms.date: 11/18/2020
 ms.openlocfilehash: d8deccc2a48ac29f3c370e9b20d551bf2b95c1ad
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123936949"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246672"
 ---
 # <a name="how-to-get-support-for-microsoft-appsource-and-azure-marketplace"></a>Så här får du support för Microsoft AppSource och Azure Marketplace
 
@@ -27,7 +27,7 @@ Om du ännu inte har köpt produkten kommer du till utgivarens supportwebbplats.
 
 ## <a name="get-support-from-the-azure-portal"></a>Få support från Azure Portal
 
-Om du vill få Azure Marketplace via Azure Portal kan du öppna en [supportbegäran](https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/newsupportrequest) på **sidan Hjälp + support** i portalen. Fyll i listrutans fält på följande sätt:
+Om du vill få Azure Marketplace via Azure Portal kan du öppna en [supportbegäran](https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/newsupportrequest) på sidan **Hjälp + support** i portalen. Fyll i listrutans fält på följande sätt:
 
 - **Typ av problem** – Prenumerationshantering
 - **Problemtyp** – Problem med köp, registrering eller uppgradering

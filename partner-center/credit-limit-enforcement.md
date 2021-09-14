@@ -10,11 +10,11 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 32dc94a4bd85160a02a4be880469f713d98449ba
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961243"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246924"
 ---
 # <a name="credit-limit-enforcement-cle"></a>Tvingande kreditgräns (CLE)
 
@@ -22,13 +22,13 @@ ms.locfileid: "123961243"
 
 ## <a name="your-credit-limit-and-how-it-works"></a>Din kreditgräns och hur den fungerar
 
-Din kreditgräns är det maximala belopp (i amerikanska dollar) som du som partner kan spendera för att köpa produkter eller prenumerationer i Partnercenter. Om du överskrider kreditgränsen kan du inte göra nya köp förrän tillräckligt med betalning har gjorts. Dina befintliga prenumerationer fortsätter att avbrytas.
+Din kreditgräns är det högsta belopp (i amerikanska dollar) som du som partner kan spendera för att köpa produkter eller prenumerationer i Partnercenter. Om du överskrider kreditgränsen kan du inte göra nya köp förrän tillräckligt med betalning har gjorts. Dina befintliga prenumerationer fortsätter att avbrytas.
 
-Kreditgränser gäller för erbjudanden i Azure-plan, Azure-reservationer, programvara, Marketplace, Azure 145 P, Office och Dynamics-produkter. Kreditgränser gäller inte för förnyelser och löpande förbrukning.
+Kreditgränser gäller för erbjudanden i Azure-prenumeration, Azure-reservationer, programvara, Marketplace, Azure 145 P, Office och Dynamics-produkter. Kreditgränser gäller inte för förnyelser och löpande förbrukning.
 
-Vi tilldelar din kreditgräns på klientorganisationsnivå under registreringsperioden. Vi baserar den på dina prognostiserade intäkter, inköp och betalningshistorik. Sedan använder vi följande formel för att beräkna ditt tillgängliga saldo:
+Vi tilldelar din kreditgräns på klientorganisationsnivå under registreringsperioden. Vi baserar den på dina prognostiserade intäkter, inköp och betalningshistorik. Vi använder sedan följande formel för att beräkna ditt tillgängliga saldo:
 
-**[Kreditgräns – (inkommande köp + utestående obetalta fakturor + ej fakturerade avgifter – överskottsbetalning)]**
+**[Kreditgräns – (inkommande köp + utestående ej fakturerade fakturor + ej fakturerade avgifter – överskottsbetalning)]**
 
 ## <a name="frequently-asked-questions"></a>Vanliga frågor och svar
 
@@ -40,19 +40,19 @@ Klientorganisationsnivå. Anta till exempel att du arbetar från USA, Kanada och
 
 Ja. Dina kunders befintliga prenumerationer fortsätter utan avbrott. Du kan dock inte köpa nya prenumerationer för dina kunder.
 
-### <a name="does-cle-apply-to-both-direct-bill-partners-and-indirect-providers"></a>Gäller CLE både direkta faktureringspartner och indirekta leverantörer?
+### <a name="does-cle-apply-to-both-direct-bill-partners-and-indirect-providers"></a>Gäller CLE för både direktfaktureringspartner och indirekta leverantörer?
 
 Ja, det gäller för båda.
 
 ### <a name="after-i-submit-my-payment-to-reinstate-my-account-when-can-i-purchase-more-subscriptions"></a>När jag har skickat min betalning för att återställa mitt konto, när kan jag köpa fler prenumerationer? 
 
-Du bör kunna återuppta köpet inom 24 timmar från betalningen, förutsatt att Microsoft har fått alla krav för att fortsätta med kreditkontrollprocessen.
+Du bör kunna återuppta köpet inom 24 timmar efter betalningen, förutsatt att Microsoft har fått alla krav för att fortsätta med kreditkontrollprocessen.
 
-### <a name="how-can-i-check-my-credit-limit"></a>Hur kontrollerar jag min kreditgräns?
+### <a name="how-can-i-check-my-credit-limit"></a>Hur kan jag kontrollera min kreditgräns?
 
 Kontakta [ucmwrcsp@microsoft.com](mailto:ucmwrcsp@microsoft.com) om du vill se din kreditgräns och få information om de senaste köpen.
 
-### <a name="do-invoices-that-are-in-dispute-count-against-the-credit-limit"></a>Räknas fakturor som är i konflikt med kreditgränsen?
+### <a name="do-invoices-that-are-in-dispute-count-against-the-credit-limit"></a>Räknas fakturor som bestrids mot kreditgränsen?
 
 Ja. Du kan dock kontakta Microsoft på [ucmwrcsp@microsoft.com](mailto:ucmwrcsp@microsoft.com) för att lösa problemet.
 
@@ -70,7 +70,7 @@ Ja. Kreditgränser gäller för alla CSP-program och produkter i Partnercenter.
 
 ### <a name="who-will-receive-the-notification-when-my-organization-is-nearing-its-credit-limit"></a>Vem får meddelandet när min organisation närmar sig sin kreditgräns?
 
-Din organisations ekonomikontoreskontrakontakt bör få meddelandet.
+Din organisations leverantörsreskontrakontakt för ekonomikonto bör få meddelandet.
 
 ## <a name="next-steps"></a>Nästa steg
 

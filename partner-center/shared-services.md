@@ -1,6 +1,6 @@
 ---
 title: Lägga till Azure Partner Shared Services
-description: Använd Azure Partner Shared Services att köpa Azure-prenumerationer för eget bruk och för att ha en enhetlig metod för att köpa, spåra och hantera Azure.
+description: Använd Azure Partner Shared Services för att köpa Azure-prenumerationer för eget bruk och för att ha en enhetlig metod för att köpa, spåra och hantera Azure.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
@@ -10,17 +10,17 @@ ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
 ms.openlocfilehash: 35c5d378f66071f3c97abdf74eec27e78a8ac778
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960746"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126249048"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Lägg Azure Partner Shared Services så att partner kan köpa Azure-prenumerationer för eget bruk
 
 **Lämpliga roller:** Globala | Administratörsagent | Försäljningsagent
 
-Azure Partner Shared Services (APSS) är en ny erbjudandetyp för partner i Molnlösningsleverantör-programmet (CSP), vilket gör det möjligt för partner att köpa Azure-prenumerationer för eget bruk.Det skapar en möjlighet för partner att använda en enhetlig metod för att köpa, spåra och hantera Azure, utöver möjligheten att konsolidera sina Azure-licensierings- och återförsäljningsavtal med Microsoft. Med APSS har partner nu samma flexibilitet att använda Azure-prenumerationer i CSP som de gör i Microsoft företagsavtal- och Web Direct-program, vilket öppnar scenarier som: skapa utvecklings- och testmiljöer, distribuera interna arbetsbelastningar och vara värd för delade tjänster eller program med flera innehavare.  
+Azure Partner Shared Services (APSS) är en ny erbjudandetyp för partner i CSP-programmet (Molnlösningsleverantör), vilket gör det möjligt för partner att köpa Azure-prenumerationer för eget bruk.Det skapar en möjlighet för partner att använda en enhetlig metod för att köpa, spåra och hantera Azure, utöver möjligheten att konsolidera sina Azure-licensierings- och återförsäljningsavtal med Microsoft. Med APSS har partner nu samma flexibilitet att använda Azure-prenumerationer i CSP som de gör i Microsoft företagsavtal- och Web Direct-program, vilket öppnar scenarier som: skapa utvecklings- och testmiljöer, distribuera interna arbetsbelastningar och vara värd för delade tjänster eller program med flera innehavare.  
 
 ## <a name="create-the-shared-services-tenant"></a>Skapa klientorganisationen för delade tjänster
 
@@ -32,13 +32,13 @@ Azure Partner Shared Services (APSS) är en ny erbjudandetyp för partner i Moln
 
    :::image type="content" source="images/sharedservices3.png" alt-text="Skapa delade tjänster.":::
 
-3. Detta skapar en klientorganisation för delade tjänster och köper Azure CSP Shared Services-prenumerationen som ska användas för delade resurser och interna arbetsbelastningar.
+3. Detta skapar en klientorganisation för delade tjänster och köper Azure CSP delade tjänster-prenumerationen som ska användas för delade resurser och interna arbetsbelastningar.
 
    :::image type="content" source="images/sharedservices5.png" alt-text="Skapa klientorganisationen och köp prenumerationen.":::
 
 ## <a name="about-the-azure--internalshared-services-offer"></a>Om Azure – interna/delade tjänster erbjudandet
 
-- Prenumerationen Azure – interna/delade tjänster azure-erbjudande i CSP som nås via Partnercenter och som partner får för sin egen användning av Azure.
+- Prenumerationen Azure – interna/delade tjänster Azure är en ny typ av Azure-erbjudande i CSP som nås via Partnercenter och som partner får för sin egen användning av Azure.
 
 - Azure Partner Shared Services prenumerationer är berättigade och kan användas för att köpa RU:er.
 

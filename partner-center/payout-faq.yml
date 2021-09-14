@@ -2,21 +2,21 @@
 metadata:
   title: Vanliga frågor och svar om utbetalningar och skatteprofiler
   description: Få svar på vanliga frågor om utbetalnings- och skatteinformation i Partnercenter. Innehåller svar om varför dina intäkter skiljer sig från vad du förväntade dig.
-  ms.service: marketplace
-  ms.subservice: partnercenter-marketplace-publisher
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-payouts
   ms.topic: article
   author: eunjkim520
   ms.author: eunjkim
   ms.date: 05/06/2021
-  ms.openlocfilehash: 350c726467c3ba4342159a56b8ccfe77610c6b63
-  ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+  ms.openlocfilehash: a402387b5e99cfb5f1b0ed7ca1c2af9f63b94b99
+  ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/09/2021
-  ms.locfileid: "123960456"
+  ms.lasthandoff: 09/13/2021
+  ms.locfileid: "126247410"
 title: Vanliga frågor om utbetalning och skatter
 summary: >
-  **Lämpliga roller:** Kontoadministratörsroller | Globala | Incitamentsadministratör
+  **Lämpliga roller:** Kontoadministratörsroller | Global | Incitamentsadministratör
 
 
   Den här artikeln besvarar vanliga frågor om utbetalnings- och skatteinformation i Partnercenter. Ämnen som omfattas omfattar tidsinställning av betalningar, kontroll av din intäktsberättigande och vikten av att konfigurera dina utbetalnings- och skatteprofiler på rätt sätt.
@@ -89,7 +89,7 @@ sections:
       - Kontrollera [tidsramen för utbetalningscykeln och](payment-thresholds-methods-timeframes.md) förstå när dina intäkter ska visas i utbetalningsutdraget.
   - question: >
       Varför skiljer sig mina intäkter från det jag förväntade mig?
-    answer: "- Om beställningen delvis har betalats av kunden baseras ditt intäktsbelopp på det delvis betalda beloppet efter att du har dra av avgiften och lämplig skatt.\n- Kontrollera ansvaret för skatteincheckning efter land. I länder där skatt är Microsoft-ansvarig samlar Microsoft in och drar av skatt från utgivarintäkter. Transaktionsbeloppet som visas i utdraget är efter skattebeloppet. Se [Skatteinformation](tax-details-marketplace.md).\n- Erbjudanden har en avgift för butikstjänst på 3 %, vilket ger en intäktsfrekvens på 97 %. \n\n**Mer information:** [Commercial Marketplace Publisher-avtal,](/legal/marketplace/msft-publisher-agreement)utbetalningsprincipinformation, betalningströskel, metod och tidsram , få [betald,](marketplace-get-paid.md) [skatteinformation,](tax-details-marketplace.md) [utbetalningsutdrag](payout-statement.md) [](payout-policy-details.md) [](payment-thresholds-methods-timeframes.md)\n"
+    answer: "- Om beställningen delvis har betalats av kunden baseras ditt intäktsbelopp på det delvis betalda beloppet efter att du har dra av avgiften och lämplig skatt.\n- Kontrollera ansvaret för skatteincheckning efter land. I länder där skatt är Microsoft-ansvarig samlar Microsoft in och drar av skatt från utgivarintäkter. Transaktionsbeloppet som visas i utdraget är efter skattebeloppet. Se [Skatteinformation](tax-details-marketplace.md).\n- Erbjudanden har en avgift för butikstjänst på 3 %, vilket ger en intäktsfrekvens på 97 %. \n\n**Mer information:** [Commercial Marketplace Publisher Agreement](/legal/marketplace/msft-publisher-agreement), Information om [utbetalningsprincip,](payout-policy-details.md)betalningströskel, metod och tidsram , Få [betald](marketplace-get-paid.md), [skatteinformation,](tax-details-marketplace.md) [utbetalningsutdrag](payout-statement.md) [](payment-thresholds-methods-timeframes.md)\n"
 - name: Intäktsavstämning
   questions:
   - question: >
@@ -123,7 +123,7 @@ sections:
 
       - Du kanske inte har uppnått minimitröskelvärdet för en betalning. Intäkterna måste vara minst $50 USD för att du ska få en betalning.
   - question: >
-      Hur gör jag för att ange att mitt konto inte ska få någon betalning?
+      Hur gör jag för att att mitt konto inte ska få någon betalning?
     answer: >
       Du kan hålla betalningar i [utbetalningsprofilen](https://partner.microsoft.com/dashboard/commercial-marketplace/overview). Om du vill göra detta markerar **du Hold (Håll)** så håller Microsoft betalningen till dig tills du frigör kvarten.
   - question: >
@@ -157,18 +157,18 @@ sections:
       Källskatt gäller för amerikanska utgivare som har skickat in ett W-9-formulär. Källskatt beräknas för en månatlig betalning.
 
 
-      **Mer information** finns [i : Commercial Marketplace Publisher Agreement](/legal/marketplace/msft-publisher-agreement), [Utbetalningsprincip](payout-policy-details.md)
+      **Mer information:** [Commercial Marketplace Publisher Agreement](/legal/marketplace/msft-publisher-agreement), Information om [utbetalningsprincip](payout-policy-details.md)
 - name: Åtkomst till utbetalningsutdrag
   questions:
   - question: >
       Hur får jag åtkomst till ett utbetalningsutdrag?
-    answer: "1. Kontrollera dina roller. Du måste ha rollen *finansiell bidragsgivare* eller *kontoägare* för att få åtkomst till utbetalningsutdrag.\n2. I det övre högra navigeringsfönstret väljer du **utbetalningsikonen** för att visa ditt utbetalningsutdrag. Välj mellan **Transaktionshistorik,** **Betalning** och **Ladda ned**.\n\n**Mer information:** [Utbetalningsroller och behörigheter](payout-statement.md#roles-and-permissions), [Utbetalningsutdrag](payout-statement.md) \n"
+    answer: "1. Kontrollera dina roller. Du måste ha rollen *finansiell bidragsgivare* eller *kontoägare* för att få åtkomst till utbetalningsutdrag.\n2. I det övre högra navigeringsfönstret väljer du **utbetalningsikonen** för att visa ditt utbetalningsutdrag. Välj mellan **Transaktionshistorik,** **Betalning** och **Ladda ned.**\n\n**Mer information:** [Utbetalningsroller och behörigheter](payout-statement.md#roles-and-permissions), [utbetalningsutdrag](payout-statement.md) \n"
 - name: Rapport för utbetalningsutdrag
   questions:
   - question: >
       Vad betyder varje fält i transaktionsnedladdningen?
     answer: >
-      Se [Utbetalningsutdrag](payout-statement.md) för en detaljerad lista över attributen och deras betydelser.
+      Se [Utbetalningsutdrag](payout-statement.md) för en detaljerad lista över attributen och deras innebörder.
   - question: >
       Vad är intäktsstatus?
     answer: >
@@ -185,25 +185,25 @@ sections:
     answer: >
       Gå till sidan **Payout Payment** (Utbetalning) och sedan till avsnittet **List of Payment** (Lista över betalningar). En länk till skatteformuläret för serviceavgifter för en betalning som har serviceavgifter/skatt.
   - question: >
-      Hur gör jag för att du ladda ned ett källskatteformulär i PDF-format?
+      Hur gör jag för att ladda ned ett källskatteformulär i PDF-format?
     answer: >
-      Gå till sidan **Payout Payment** (Utbetalning) och sedan till avsnittet **List of Payment** (Lista över betalningar). En länk till ett källskatteformulär visas bredvid en betalning. Ett källskatteformulär gäller endast för valda incitamentprogram, inte för utbetalning från den kommersiella marknadsplatsen.
+      Gå till sidan **Payout Payment** (Utbetalning) och sedan till avsnittet **List of Payment** (Lista över betalningar). En länk till ett källskatteformulär visas bredvid en betalning. Ett källskatteformulär gäller endast för valda incitamentprogram, inte för utbetalning på den kommersiella marknadsplatsen.
   - question: >
       Var hittar jag skatteblanketter för slutet av beskattningsåret?
     answer: >
       Gå till [profilsidan](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage) för att visa dina skatteblanketter för slutet av beskattningsåret.
 
 
-      **Mer information:** [Utbetalningsutdrag](payout-statement.md), [nedladdning av transaktionshistorik](payout-statement.md#transaction-history-download)
+      **Mer information:** [Utbetalningsutdrag,](payout-statement.md) [nedladdning av transaktionshistorik](payout-statement.md#transaction-history-download)
 - name: Historiska uttryck
   questions:
   - question: >
       Hur gör jag för att visa historisk information?
     answer: >
-      Historiskt utdrag visar en ögonblicksbild av utbetalningsdata från oktober 2019. Utbetalningsinformationen här uppdateras tyvärr inte. Om du vill få den senaste informationen skickar du en supportbiljett för den senaste informationen.
+      Historiskt utdrag visar en ögonblicksbild av utbetalningsdata från oktober 2019. Tyvärr uppdateras inte utbetalningsinformationen här. Om du vill få den senaste informationen skickar du en supportbiljett för den senaste informationen.
 
 
-      **Mer information:** [Utbetalningsutdrag](payout-statement.md), [nedladdning av transaktionshistorik](payout-statement.md#transaction-history-download)
+      **Mer information:** [Utbetalningsutdrag,](payout-statement.md) [nedladdning av transaktionshistorik](payout-statement.md#transaction-history-download)
 - name: API för utbetalningsexport
   questions:
   - question: >
@@ -215,7 +215,7 @@ sections:
   - question: >
       Hur gör jag för att du den aktuella butikstjänstavgiften och utbetalningsfrekvensen?
     answer: >
-      - Avgiften för butikstjänsten är 3 %.
+      - Butikstjänstavgiften är 3 %.
 
       - I ditt utbetalningsutdrag anger intjäningstakten den faktiska utbetalningsfrekvensen för en viss transaktion.
   - question: >

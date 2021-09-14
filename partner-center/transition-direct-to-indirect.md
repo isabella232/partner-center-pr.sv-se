@@ -10,11 +10,11 @@ ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 17f0a23814213805d239d887719c5c3885234390
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960706"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247285"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Övergå från en CSP-partner med direktfakturering till en indirekt CSP-återförsäljare
 
@@ -326,13 +326,13 @@ Så här granskar och godkänner du en överföringsbegäran som indirekt levera
 
 4. På sidan **Prenumerationer** letar du upp **Prenumerationsöverföring.**
 
-5. Kontrollera att överföringsbegäran har markerats som **Complete (Slutför).**
+5. Kontrollera att överföringsbegäran är markerad som **Slutförd.**
 
 6. Kontrollera att prenumerationerna inte längre visas som aktiva på **sidan** Prenumerationer:
 
    1. Om det här är en Azure-prenumeration (MS-AZR-0145P) visas den inte längre.
 
-   2. Om det här är en licensbaserad prenumeration (Office 365, Dynamics, Intune) visas den med tillståndet **Pausad.**
+   2. Om det här är en licensbaserad prenumeration (Office 365, Dynamics, Intune) visas den med tillståndet **Pausad**.
 
    :::image type="content" source="images/direct/direct13.png" alt-text="Prenumerationen har pausats.":::
 
@@ -342,22 +342,22 @@ Så här granskar och godkänner du en överföringsbegäran som indirekt levera
 
 - **Samma prenumeration kan inte refereras till av flera överföringsbegäranden.** När du har skapat en överföringsbegäran, som innehåller en befintlig prenumeration, kan du inte skapa ytterligare överföringsbegäranden, inklusive samma prenumeration, förrän den första överföringsbegäran avbryts.
 
-- **Tillägg för licensbaserade prenumerationer måste överföras tillsammans med basprenumerationen.** När du skapar en överföringsbegäran tas tilläggen automatiskt med i överföringsbegäran om du väljer en befintlig prenumeration med ett eller flera tillägg.
+- **Tillägg för licensbaserade prenumerationer måste överföras tillsammans med basprenumerationen.** När du skapar en överföringsbegäran inkluderas tilläggen automatiskt i överföringsbegäran om du väljer en befintlig prenumeration med ett eller flera tillägg.
 
-- **Licensantalsändringar i en prenumeration återspeglas inte i befintlig överföringsbegäran.** När du har skapat en överföringsbegäran som innehåller en befintlig prenumeration bör du undvika att uppdatera prenumerationens licenskvantitet (eller associerade addons). Om du gör det återspeglas inte den nya kvantiteten i överföringsbegäran. När den indirekta providern har accepterat överföringsbegäran får den resulterande prenumerationen den gamla kvantiteten. Om du vill att den nya kvantiteten ska överföras till den indirekta providern måste du avbryta den befintliga överföringsbegäran och återskapa en ny.
+- **Licensantalsändringar i en prenumeration återspeglas inte i en befintlig överföringsbegäran.** När du har skapat en överföringsbegäran som innehåller en befintlig prenumeration bör du undvika att uppdatera prenumerationens licenskvantitet (eller associerade addons). Om du gör det återspeglas inte den nya kvantiteten i överföringsbegäran. När den indirekta providern har accepterat överföringsbegäran får den resulterande prenumerationen den gamla kvantiteten. Om du vill att den nya kvantiteten ska överföras till den indirekta providern måste du avbryta den befintliga överföringsbegäran och återskapa en ny.
 
-- **Alla köp kan inte överföras med hjälp av en egenbetjänad prenumerationsöverföring.** För närvarande kan du bara överföra O365-prenumerationer och Azure PAYG-prenumerationer (MS-AZR-0145P) med den här funktionen. Andra inköp, inklusive Azure-planer, reserverade Azure-instanser, termbaserade prenumerationer och SaaS-prenumerationer för Azure Marketplace stöds inte. Du ser en orsak till varför en prenumeration inte kan överföras på sidan skicka överföringsbegäran. Om du vill överföra dessa prenumerationer måste du avbryta [den befintliga prenumerationen och](create-a-new-subscription.md#suspend-or-cancel-a-subscription) köpa ett nytt erbjudande för kunden via en indirekt leverantör.
+- **Alla inköp kan inte överföras med hjälp av självbetjäning av prenumerationsöverföring.** För närvarande kan du bara överföra O365-prenumerationer och Azure PAYG-prenumerationer (MS-AZR-0145P) med den här funktionen. Andra inköp, inklusive Azure-planer, reserverade Azure-instanser, termbaserade prenumerationer och SaaS-prenumerationer för Azure Marketplace stöds inte. Du ser en orsak till varför en prenumeration inte kan överföras på sidan skicka överföringsbegäran. Om du vill överföra dessa prenumerationer måste du avbryta [den befintliga prenumerationen och](create-a-new-subscription.md#suspend-or-cancel-a-subscription) köpa ett nytt erbjudande för kunden via indirekt leverantör.
 
    > [!NOTE]
-   > Ändringar av [Azure-erbjudandets tillgänglighet i CSP som](./announcements/2021-july.md) rör den nya handelsupplevelsen påverkar inte det här övergångsscenariot. Du kan kontinuerligt överföra Azure PAYG-prenumerationer[(MS-AZR-0145P)](https://go.microsoft.com/fwlink/p/?linkid=2164140)till en indirekt leverantör.
+   > Ändringar av [tillgängligheten för Azure-erbjudanden i CSP som](./announcements/2021-july.md) rör den nya handelsupplevelsen påverkar inte det här övergångsscenariot. Du kan kontinuerligt överföra Azure PAYG-prenumerationer[(MS-AZR-0145P)](https://go.microsoft.com/fwlink/p/?linkid=2164140)till den indirekta providern.
 
 - **Det går inte att testa med sandbox-miljön.**
 
 ## <a name="enroll-for-indirect-reseller-incentives"></a>Registrera dig för indirekta återförsäljarincitament
 
-När du har registrerat dig som en indirekt återförsäljare på din befintliga partnerklient för direktfakturering får du en inbjudan att registrera dig för indirekt återförsäljares incitament inom 30 dagar. Inbjudan baseras på partnerns MPN-konto som för närvarande är associerat med din CSP-partnerklientorganisation. Inbjudan skickas till den e-postadress som är associerad med partnerns MPN-konto.
+När du har registrerat dig som indirekt återförsäljare på din befintliga partnerklient för direktfakturering får du en inbjudan att registrera dig för indirekt återförsäljares incitament inom 30 dagar. Inbjudan baseras på partnerns MPN-konto som för närvarande är associerat med din CSP-partnerklientorganisation. Inbjudan skickas till den e-postadress som är associerad med partnerns MPN-konto.
 
-Du är också berättigad att registrera dig för incitamentprogram med direktfakturering med samma partnerklientorganisation. Du måste hantera programmen separat.
+Du är också berättigad att registrera dig för direktfaktureringsprogram med samma partnerklientorganisation. Du måste hantera programmen separat.
 
 ## <a name="next-steps"></a>Nästa steg
 

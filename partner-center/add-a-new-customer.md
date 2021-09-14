@@ -10,15 +10,15 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.openlocfilehash: 7995ee8f4da20d80fd260bcb77665e244e448227
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
-ms.translationtype: HT
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960196"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246553"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Så här lägger du till en ny kundpost i Partnercenter
 
-**Lämpliga roller:** Globala | Administratörsbehörighet för | Administratörsagentens | Försäljningsagent
+**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Administratörsagentens | Försäljningsagent
 
 I den här artikeln beskrivs hur du lägger till en ny kund i Partnercenter. De här stegen krävs innan du kan sälja prenumerationer, hantera fakturering eller ge support till en kund.
 
@@ -28,10 +28,10 @@ I den här artikeln beskrivs hur du lägger till en ny kund i Partnercenter. De 
 
 - **Använd rätt registrerings-ID:** När du anger ditt företagsregistrerings-ID måste du använda ditt företags skatte-ID och inte kundens personliga ID.
 
-- **Ange ytterligare information för vissa länder:** [Företagsregistrerings-ID](#company-registration-id-and-phone-number-required-for-some-countries) och telefonnummer krävs för vissa länder om du är en partner för direktfakturering eller en indirekt leverantör
-- **Bekräfta Microsoft-kundavtal:** Innan du kan göra en beställning för en kunds räkning måste du bekräfta att kunden har godkänt [Microsoft-kundavtal](confirm-customer-agreement.md).
+- **Ange ytterligare information för vissa länder:** Företagsregistrerings-ID och telefonnummer krävs för vissa länder om du är en partner med direktfakturering eller en indirekt leverantör [](#company-registration-id-and-phone-number-required-for-some-countries)
+- **Bekräfta Microsoft-kundavtal:** Innan du kan göra en beställning åt en kund måste du bekräfta att kunden har godkänt [Microsoft-kundavtal](confirm-customer-agreement.md).
 - **Använd olika  steg för** befintliga kunder: För befintliga kunder, inklusive de som redan har kundposter i Partnercenter via ett [scenario](multichannel.md) med flera kanaler eller [flera](multipartner.md) [partner,](request-a-relationship-with-a-customer.md)begär du en relation med dem i stället för att följa stegen här.
-- **Ange detaljerad, korrekt kundinformation:** För att underlätta kundverifiering, se till att du:
+- **Ange detaljerad, korrekt kundinformation:** För att underlätta kundverifiering bör du se till att:
   - Ange det exakta juridiska/officiella namnet som det visas i de officiella dokumenten.
   - Undvik att använda förkortningar eller korta formulär.
   - Använd inte testnamn.
@@ -55,7 +55,7 @@ När du anger ett företagsnamn tillåts inte följande:
 När du anger en kunds e-postadress tillåts inte följande:
 
 - E-postadressen får inte innehålla @microsoft.com .
-- Kundens e-postadress får inte innehålla samma domännamn som partnern. En partner som heter ABC kan till exempel inte skapa ett e-postmeddelande för kunder med @abc.com .
+- Kundens e-postadress får inte innehålla samma domännamn som partnern. En partner som heter ABC kan till exempel inte skapa ett e-postmeddelande för kunden med @abc.com .
 
 ## <a name="to-add-a-new-customer-in-partner-center"></a>Så här lägger du till en ny kund i Partnercenter
 
@@ -72,8 +72,8 @@ När du anger en kunds e-postadress tillåts inte följande:
 
    >[!NOTE]
    >EU-/EFTA-lagar anger att partner som gör transaktioner i dessa länder måste deklarera ytterligare återförsäljare som är associerade med en transaktion. Följande regler gäller:
-   >- En första återförsäljare måste väljas före eventuella ytterligare återförsäljare
-   >- Ytterligare återförsäljare har inte rätt till ytterligare incitament, erbjudanden osv.
+   >- En första återförsäljare måste väljas innan ytterligare återförsäljare
+   >- Ytterligare återförsäljare kommer inte att ha rätt till ytterligare incitament, erbjudanden osv.
    >- Ytterligare säljare som angetts verifieras för att säkerställa att rätt MPN-ID anges i förekommande fall och att återförsäljaren har signerat MPA.
    >- Upp till 5 ytterligare återförsäljare kan anges som en del av transaktionen 
 
@@ -81,21 +81,21 @@ När du anger en kunds e-postadress tillåts inte följande:
 
 5. När du är klar med att ange den information som krävs väljer **du Nästa: Prenumerationer**.
 
-6. På **sidan Prenumerationer** väljer du det eller de erbjudanden som kunden vill köpa från dig, anger antalet licenser och väljer sedan **Nästa: Granska.**
+6. På **sidan Prenumerationer** väljer du de erbjudanden som kunden vill köpa från dig, anger antalet licenser och väljer sedan **Nästa: Granska.**
 
-7. Kontrollera **att posterna** är korrekta på sidan Granska och välj sedan **Skicka**.
+7. På sidan **Granska** kontrollerar du om posterna är korrekta och väljer sedan **Skicka**.
 
 8. När du är klar med att lägga till kundinformation och har köpt de prenumerationer som krävs väljer du **Klar.**
 
 ## <a name="company-registration-id-and-phone-number-required-for-some-countries"></a>Företagsregistrerings-ID och telefonnummer som krävs för vissa länder
 
-Partner för direktfakturering och indirekta leverantörer som lägger till poster för kunder i följande länder måste också ange företagets telefonnummer och registrerings-ID (kallas även organisationens INN):
+Partner med direktfakturering och indirekta leverantörer som lägger till poster för kunder i följande länder måste också ange företagets telefonnummer och registrerings-ID (kallas även organisationen INN):
 
-IaA,JN, Brasilien, Judic, India, IaA,JN, Kyrgyzstan,jiska,Jve, Ryssland, Sydafrika, Sydkorea, Sydkorea, Sydkorea, Island, Förenade Arabemiraten, Bande, Bande och Vietnam
+Jve, Arabiska republiken, Brasilien,Arabiska republiken, Indien,Arabiska republiken, Kyrgyzstan, Torgyzstan, Torabiska republiken, Ryssland, Sydafrika, Sydafrika,Istan, Island, Island, Förenade Arabemiraten, Island, Island, Docka och Vietnam
 
 ## <a name="company-name-and-email-characters-abbreviations-and-extensions"></a>Företagsnamn och e-posttecken, förkortningar och tillägg
 
-Följande tabeller listar de objekt som anges i [avsnittet om nya](#new-rules-for-company-name-and-email-address) regler ovan.
+Följande tabeller listar objekt som nämns i [avsnittet nya regler](#new-rules-for-company-name-and-email-address) ovan.
 
 ### <a name="table-of-special-characters"></a>Tabell med specialtecken
 
@@ -121,7 +121,7 @@ Följande tabeller listar de objekt som anges i [avsnittet om nya](#new-rules-fo
 | ----- | ----- | ----- | ----- |
 |"c p a" | "pty" | "l. l. c." | "gmbh" |
 | "c.p.a." | "pty ltd" | "l.l.c." | "mol" |
-| "l.l.p." | "pte ltd" | " l l p" | "wll" |
+| "l.l.p." | "pte ltd" | "l l p" | "wll" |
 | "c. p. a." | "privat begränsad" | "corp" | "lda" |
 | "l. l. p." | "pvt" | "corporation" | "sarl" |
 | " l l c" | "pvt ltd" | "inc" | "kft" |
@@ -185,7 +185,7 @@ Följande tabeller listar de objekt som anges i [avsnittet om nya](#new-rules-fo
 | .sb | .tf | .vc | .中国 |
 | .sc | .tg | .ve | .中國 |
 | .sd | .th | .vg | .భారత్ |
-| .se | .tj | .vi | .ලංකා |
+| .se | .j | .vi | .ලංකා |
 | .sg | .tk | .vn | .ભારત |
 | .sh | .tl | .vu | .भारतम् |
 | .si | .tm | .wf | .भारत |
@@ -206,4 +206,4 @@ Följande tabeller listar de objekt som anges i [avsnittet om nya](#new-rules-fo
 
 ## <a name="next-steps"></a>Nästa steg
 
-- Mer information om vad du kan sälja till kunder via Molnlösningsleverantör-programmet finns [i Partnererbjudanden i Molnlösningsleverantör program](csp-offers.md)
+- Mer information om vad du kan sälja till kunder via Molnlösningsleverantör program finns i [Partnererbjudanden i Molnlösningsleverantör program](csp-offers.md)

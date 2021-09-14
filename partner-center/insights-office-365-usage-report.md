@@ -1,5 +1,5 @@
 ---
-title: Partnercenter – insikter i Office 365-användningsrapport
+title: Information om Office 365-användningsrapport i Partnercenter
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
@@ -9,17 +9,17 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.openlocfilehash: 882b912a01301506bf163087f71bf70d0ed1aa41
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961386"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246835"
 ---
-# <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>Office 365 användningsrapport som är tillgänglig från Partnercenter Insights instrumentpanel
+# <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>Office 365 användningsrapport som är tillgänglig från instrumentpanelen Insights Partnercenter
 
-**Lämpliga roller:** Globala | Administratörsagent | Rapportvisningsprogram | Visningsprogram för exekutiv rapport
+**Lämpliga roller:** Global | Administratörsagentens | Rapportvisningsprogram | Rapportvisningsprogram för chefer
 
-Den Office 365 användningsrapporten innehåller användningsdata för de Office 365 prenumerationer som du sålde eller hanterar åt dina kunder. Du kan visa följande avsnitt från Office 365 användningsrapport.
+Rapporten Office 365 användning innehåller användningsdata för de Office 365 prenumerationer som du har sålt eller hanterar åt dina kunder. Du kan visa följande avsnitt från Office 365 användningsrapport.
 
 - Sammanfattning
 - Office 365 användning per geografiskt område
@@ -28,11 +28,11 @@ Den Office 365 användningsrapporten innehåller användningsdata för de Office
 - Office 365 användningsdistribution
 
  > [!NOTE]
- > Den här rapporten är tillgänglig från Insights instrumentpanel. Om du vill visa den här rapporten måste du ha tilldelats en specifik roll i Partnercenter, till exempel Global administratör, Kontoadministratör, Rapportvisare eller Visningsprogram för verkställande rapporter. Mer information finns i företagets globala administratör. Vissa typer av data i den här rapporten kan också vara tillgängliga endast för användare med behörighet som chefsrapportvisare.
+ > Den här rapporten är tillgänglig från Insights instrumentpanel. Om du vill visa den här rapporten måste du ha tilldelats en viss roll i Partnercenter, till exempel Global administratör, Kontoadministratör, Rapportvisningsprogram eller Visningsprogram för verkställande rapporter. Mer information finns i företagets globala administratör. Vissa typer av data i den här rapporten kan också vara tillgängliga endast för användare med privilegier för visningsprogrammet för chefsrapport.
 
 ## <a name="summary"></a>Sammanfattning
 
-I sammanfattningsavsnittet visas en ögonblicksbild av de kpi:er som är relaterade Office 365 prenumerationer som du har sålt eller hanterar för dina kunder.  
+I sammanfattningsavsnittet visas en ögonblicksbild av kpi:erna relaterade Office 365 prenumerationer som du har sålt eller hanterar åt dina kunder.  
 
 - Nya prenumerationer: Totalt antal sålda eller hanterade prenumerationer under den valda tidsramen.
 
@@ -40,17 +40,17 @@ I sammanfattningsavsnittet visas en ögonblicksbild av de kpi:er som är relater
 
 - Tillgängliga platser: Totalt antal sålda licenser under den valda tidsramen.
 
-   Micro-diagrammet visar en månad för månad-trend för antalet sålda licenser under det valda datumintervallet.
+   Micro-diagrammet visar en trend månad för månad för antalet sålda licenser under det valda datumintervallet.
 
-- Månatliga aktiva användare: Antalet användare som använde arbetsbelastningen under föregående månad. 
+- Månatliga aktiva användare: Antal användare som använde arbetsbelastningen under föregående månad. 
 
-   Micro-diagrammet visar en månatlig trend för månatliga aktiva användare under den valda tidsperioden.
+   Mikrodiagrammet visar en månatlig trend för månatliga aktiva användare under den valda tidsperioden.
 
 :::image type="content" source="images/insights/o365-usage-summary.png" alt-text="Office 365 användningssammanfattning.":::
 
 ## <a name="office-365-usage-by-geography"></a>Office 365 användning per geografiskt område
 
-I **Office 365 användning per geografisk** plats visas fördelningen av månatliga aktiva användare (MAU) och betalda tillgängliga enheter (PAU) efter kundland. MAU avser antalet licenser som använts under föregående månad och PAU avser antalet sålda eller hanterade betalplatser under den valda tidsramen. Ljusare färger på kartan representerar lägre värden, medan mörkare färger representerar högre värden. Du kan söka efter och välja ett land i rutnätet. Du kan också zooma in för en närmare titt.
+I **Office 365 användning per** geografisk plats visas fördelningen av månatliga aktiva användare (MAU) och betalda tillgängliga enheter (PAU) efter kundland. MAU avser antalet licenser som används under föregående månad och PAU avser antalet sålda eller hanterade betalplatser under den valda tidsramen. Ljusare färger på kartan representerar lägre värden, medan mörkare färger representerar högre värden. Du kan söka efter och välja ett land i rutnätet. Du kan också zooma in för en närmare titt.
 
 I **tabellen Antal länder/regioner** visas det totala antalet länder/regioner där Azure-användningshändelser genereras.
 
@@ -63,7 +63,7 @@ Du kan söka efter och välja ett land i rutnätet för att zooma till platsen p
 
 Den Office 365 användning per arbetsbelastning visar uppdelningen av MAU och PAU efter arbetsbelastningar.
 
-:::image type="content" source="images/insights/o365-usage-workload.png" alt-text="Office 365 användning efter arbetsbelastning.":::
+:::image type="content" source="images/insights/o365-usage-workload.png" alt-text="Office 365 användning per arbetsbelastning.":::
 
 ## <a name="subscriptions-performance"></a>Prenumerationsprestanda
 
@@ -73,7 +73,7 @@ Prenumerationsprestanda visar uppdelningen av MAU och PAU efter arbetsbelastning
 
 ## <a name="office-365-usage-distribution"></a>Office 365 användningsdistribution
 
-Den Office 365 användningsdistributionen visar uppdelningen av PAU och prenumerationer efter SKU:er.
+Distributionsdistributionen Office 365 visar analys av PAU och prenumerationer efter SKU:er.
 
 :::image type="content" source="images/insights/o365-usage-distribution.png" alt-text="Office 365 användningsdistribution.":::
 

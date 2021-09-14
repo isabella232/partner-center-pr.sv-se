@@ -10,11 +10,11 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 907d1267164df267acab08675b4b9388fbf14474
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960973"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247200"
 ---
 # <a name="upload-a-csv-file-of-users-to-a-customers-account"></a>Upload en .csv fil med användare till en kunds konto
 
@@ -23,7 +23,7 @@ ms.locfileid: "123960973"
 
 Lägg till flera användare till en kunds konto samtidigt genom att ladda upp en datafil i filformatet med kommaavgränsade värden (.csv) till Partnercenter. 
 
-## <a name="create-the-file-of-customer-users-and-upload-to-customer-account"></a>Skapa filen med kundanvändare och ladda upp den till kundkontot
+## <a name="create-the-file-of-customer-users-and-upload-to-customer-account"></a>Skapa filen med kundanvändare och ladda upp till kundkontot
 
 1. Skapa en datafil med kommaavgränsade värden (.csv) med de data som beskrivs ovan. Spara filen så att du kan bläddra till den i ett senare steg. Se [Fält för .csv för att importera flera användare för ett kundkonto.](file-customer-users.md) 
 
@@ -31,7 +31,7 @@ Lägg till flera användare till en kunds konto samtidigt genom att ladda upp en
 
 3. I menyn i Partnercenter väljer **du Kunder** och sedan en kund i listan.
 
-4. Välj kundens flik **Användare och licenser och** välj sedan Upload **användare**.
+4. Välj fliken Användare och **licenser för kunden** och välj sedan Upload **användare.**
 
 5. Under **Upload användarinformation** väljer du **Bläddra**.
 
@@ -39,14 +39,14 @@ Lägg till flera användare till en kunds konto samtidigt genom att ladda upp en
 
 7. Välj **Verifiera**.
 
-    **Obs!**  De flesta fel vid skapande av konton orsakas av problem med datafilen, inklusive information som saknas, felaktiga eller duplicerade e-postadresser eller för många poster i filen.
+    **Obs!**  De flesta kontoskapande fel orsakas av problem med datafilen, inklusive information som saknas, felaktiga eller duplicerade e-postadresser eller för många poster i filen.
 
 8. När Partnercenter har verifierat filen väljer du den geografiska **platsen för** de nya användarna.
 9. Välj **Spara**.
-10. Ladda ned tillfällig lösenordsinformation för användarna.
+10. Ladda ned den tillfälliga lösenordsinformationen för användarna.
 
     >[!IMPORTANT]
-    > Se till att ladda ned filen med de tillfälliga lösenorden nu eftersom du inte kommer att kunna göra det senare. Nya användare måste logga in på sitt nya konto med det tillfälliga lösenordet för sina nya konton.
+    > Se till att ladda ned filen med de tillfälliga lösenorden nu eftersom du inte kommer att kunna göra detta senare. Nya användare måste logga in på sitt nya konto med det tillfälliga lösenordet för sina nya konton.
 
 11. Nya användare tilldelas automatiskt behörigheter för **Can use licenses and services (Kan använda licenser och tjänster).** 
 

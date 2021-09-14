@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
-description: Lär dig mer om den support för kundfakturering som krävs Molnlösningsleverantör CSP-programpartner. Det här stödet omfattar att äga kundfaktureringsrelationen och besvara faktureringsfrågor.
+description: Lär dig mer om den support för kundfakturering som Molnlösningsleverantör partner i CSP-programmet. Det här stödet omfattar att äga kundfaktureringsrelationen och besvara faktureringsfrågor.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 40bf13a114eeb2eaaaf8fcae76d52de13d206d9d
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960833"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247123"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Tillhandahålla faktureringssupport för dina kunder och få hjälp med att besvara frågor om fakturering
 

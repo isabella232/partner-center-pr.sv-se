@@ -9,26 +9,26 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.openlocfilehash: 387be6313a1e775963c86714a6c5c825a2ca8169
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961336"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246864"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Skapa en marknadsföringsplan för ditt incitamentsprogram
 
-**Lämpliga roller:** Incitamentsadministratörsroller | Faktureringsadministratörskonto | Global administratör
+**Lämpliga roller:**| Faktureringsadministratörskonto | Global administratör
 
-En plan för co-op-anspråk är en serie marknadsföringskampanjer, aktiviteter och annan information som beskriver hur du kommer att göra ditt program till ett lyckat resultat. När du har skapat din plan skickar du den till Microsoft för godkännande.
+En plan för co-op-anspråk är en serie marknadsföringskampanjer, aktiviteter och annan information som beskriver hur du gör ditt program till ett lyckat resultat. När du har skapat din plan skickar du den till Microsoft för godkännande.
 
 ## <a name="create-your-incentives-plan"></a>Skapa din incitamentsplan
 
 Du kan visa dina planer genom att **välja Planhantering** på **sidan Incitament** och sedan öppna det program som du vill använda.
 
 >[!NOTE]
->Du kanske inte ser Plan Management på sidan Incitament. Det beror på att instrumentpanelen i Partnercenter är dynamisk och bara visar vad som är lämpligt för din specifika roll och dina aktiviteter. Om du inte ser PlanHantering på sidan Incitament innebär det förmodligen att du inte är registrerad i ett program som har planer. Kontakta incitamentsadministratören om du behöver hjälp.
+>Du kanske inte ser Plan Management på incitamentssidan. Det beror på att instrumentpanelen i Partnercenter är dynamisk och bara visar vad som är lämpligt för din specifika roll och dina aktiviteter. Om du inte ser PlanHantering på sidan Incitament innebär det förmodligen att du inte är registrerad i ett program som har planer. Kontakta incitamentsadministratören om du behöver hjälp.
 
-Mer information om planer för ditt specifika Incitamentsprogram finns i programguiden.
+Mer information om planer för ditt Incitamentsprogram finns i programguiden.
 
 ## <a name="how-to-submit-a-plan"></a>Så här skickar du en plan
 
@@ -36,15 +36,15 @@ Mer information om planer för ditt specifika Incitamentsprogram finns i program
 
 2. Under **incitament** i det vänstra navigeringsfönstret väljer du **Program** och väljer sedan ditt program. 
 
-3. På sidan **Program** letar du upp lämplig marknad för din plan och väljer sedan **Skapa plan.** 
+3. På sidan **Program** letar du reda på lämplig marknad för din plan och väljer sedan **Skapa plan.** 
 
-4. På sidan **Ny plan** fyller du i de obligatoriska fälten. **Valuta** är det värde som du vill att planen ska återspegla. **Granskarens e-postadress** ska vara Microsofts e-postadress för din kontoansvariga. Observera att endast en plan kan skapas per MPN-ID, fond, program och period. Välj **Spara**.
+4. På sidan **Ny plan** fyller du i de obligatoriska fälten. **Valuta** är det värde som du vill att planen ska återspegla. **Granskarens e-postadress** ska vara din kontoansvarigas Microsoft-e-postadress. Observera att endast en plan kan skapas per MPN-ID, fond, program och period. Välj **Spara**.
 
 5. Gå igenom informationen på planens statussida. Välj **Redigera** om du behöver uppdatera informationen.
 
 6. När informationen på den här sidan är korrekt väljer du **Ny kampanj.**
 
-7. Fyll i de obligatoriska fälten på **sidan Ny** kampanj och välj sedan **Spara.**
+7. Fyll i de obligatoriska fälten på **sidan Ny** kampanj och välj sedan **Spara**.
 
 8. Välj **Ny aktivitet** på statussidan. 
 
@@ -71,7 +71,7 @@ Nu har din plan skickats. Microsoft meddelar din incitamentsadministratör när 
    - Godkända
    - Avslagen
 
-## <a name="plan-submission-timelines"></a>Tidslinjer för att skicka in planer
+## <a name="plan-submission-timelines"></a>Tidslinjer för planinskickning
 
 Du måste skapa och skicka din plan senast den sista dagen på programåret. Om det behövs kan du ändra och skicka om planen under de efterföljande 90 dagarna, men planen måste skapas och skickas in första gången under programåret.
 
@@ -82,9 +82,9 @@ Du måste skapa och skicka din plan senast den sista dagen på programåret. Om 
 
 Microsoft betalar dig varje månad baserat på hur mycket du tjänar och gränserna för ditt prenumerationsavtal. Betalningar görs den 15:e dagen i efterföljande månad.
 
-Om ditt abonnemang till exempel har godkänts för 10 000 USD och du tjänade 5 000 USD under april får du 5 000 USD den 15 maj.
+Om din plan till exempel är godkänd för 10 000 USD och du tjänade 5 000 USD under april får du 5 000 USD den 15 maj.
 
-Om du under samma plan tjänar 15 000 USD i april får du 10 000 USD den 15 maj eftersom 10 000 USD var gränsen för ditt abonnemang. För att få större betalningar måste du höja gränsen för ditt prenumerationsavtal för den efterföljande månaden.
+Om du under samma plan tjänar 15 000 USD under april får du 10 000 USD den 15 maj eftersom 10 000 USD var gränsen för ditt abonnemang. För att få större betalningar måste du höja gränsen för ditt prenumerationsavtal för den efterföljande månaden.
 
 ## <a name="next-steps"></a>Nästa steg
 

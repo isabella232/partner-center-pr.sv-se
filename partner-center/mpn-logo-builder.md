@@ -10,11 +10,11 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 967e5e3278e63f9797b28d4c8a856e087755c1e4
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961113"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247513"
 ---
 # <a name="create-a-partner-logo-certified-letter-or-award-logo"></a>Skapa en partnerlogotyp, certifierat brev eller en prislogotyp
 
@@ -53,7 +53,7 @@ Om du har skapat olika logotyper för olika företagsplatser kan du använda MPN
 
 Tidigare skapade och sparade logotyper är tillgängliga i ditt **nyligen sparade** bibliotek.
 
-Om du har skapat logotyper tidigare väljer du Visa alla **för** att visa hela biblioteket.
+Om du har skapat logotyper tidigare väljer du Visa alla **för att** visa hela biblioteket.
 
 1. Logga in på instrumentpanelen i [Partnercenter](https://partner.microsoft.com/dashboard) med ditt arbetskonto.
 1. På menyn i Partnercenter går du **till Förmåner** och väljer **Logo Builder.**
@@ -67,7 +67,7 @@ Om du har skapat logotyper tidigare väljer du Visa alla **för** att visa hela 
 1. Använd sedan följande steg för att anpassa din logotyp:
     1. I **Tillgängliga kompetenser** väljer du kompetenser för logotypen. När du väljer värden kan du använda upp- och ned-symbolerna bredvid värdena för att ändra i vilken ordning kompetenserna eller programmen ska visas.
     1. I **Logotypnamn** anger du ett namn på din logotyp.
-    1. När du är klar med att anpassa logotypen väljer du **Spara** eller Spara & **ladda ned**.
+    1. När du är klar med att anpassa logotypen väljer du **Spara eller** Spara & **hämta**.
 
 ## <a name="create-a-certified-letter-using-logo-builder"></a>Skapa ett certifierat brev med Logo Builder
 
@@ -81,7 +81,7 @@ Om du har skapat logotyper tidigare väljer du Visa alla **för** att visa hela 
     1. I **Kundinformation** anger du eventuell kundinformation som du vill ska visas i rubriken för bokstaven. Du ser att kundinformationen återges i mallen. Kundinformation är inte tillgänglig för alla bokstäver.
     1. I **Tillgängliga program** väljer du vilka kompetenser eller program som du vill ska visas på logotypen. När du väljer värden kan du använda upp- och ned-symbolerna bredvid värdena för att ändra i vilken ordning kompetenserna eller programmen ska visas.
     1. I **Bokstavsnamn** anger du ett namn för bokstaven.
-    1. När du är klar med att anpassa bokstaven väljer du **Spara** eller Spara & **hämta**.
+    1. När du är klar med att anpassa bokstaven väljer du **Spara eller** Spara & **hämta**.
 
 ## <a name="create-an-award-logo-using-logo-builder"></a>Skapa en prislogotyp med Logo Builder
 

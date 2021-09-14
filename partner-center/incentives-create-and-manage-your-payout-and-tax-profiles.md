@@ -9,11 +9,11 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.openlocfilehash: a6d578c2ad09e1f8bb03f520d659f1a9b1e199a9
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960486"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126249040"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Skapa och hantera incitament för utbetalnings- och skatteprofiler i Partnercenter
 
@@ -50,7 +50,7 @@ Avsnitten nedan beskriver steg för steg hur du skapar och hanterar betalnings- 
 
 ## <a name="access-the-payout-and-tax-section-in-partner-center"></a>Få åtkomst till utbetalnings- och skatteavsnittet i Partnercenter
 
-1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/) med ditt Azure Active Directory-konto (Azure AD) (företagskonto) eller lämplig e-postadress om något har tilldelats.
+1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/) med ditt Azure Active Directory-konto (Azure AD) (företagskonto) eller lämplig e-postadress om en sådan har tilldelats.
 
    - Flera domäner kan registreras i ett Azure AD-konto. Kontakta den globala administratören för att ta reda på vilka domäner som är associerade.
    - Om du bara kan logga in med domänen och du behöver ytterligare domäner kontaktar du kontoadministratören för att lägga till ytterligare domäner @onmicrosoft.com i Azure AD-kontot.
@@ -139,7 +139,7 @@ Bankprofiler skapas på företagsnivå. Detta gör att en bankprofil kan tilldel
 
 6. När fälten har slutförts väljer du **Slutför** och sedan Bekräfta **för** att skapa din bankprofil.
 
-Du omdirigeras till sidan **utbetalnings- och skatteprofiler.** Statusen för den nya profilen återspeglar **Väntande Microsoft-validering tills** valideringen har slutförts. Den här processen kan ta upp till 48 timmar. När verifieringen har slutförts återspeglar din profilstatus antingen **Godkänd eller** Åtgärd **som krävs.** Om **åtgärden krävs** upprepar du stegen ovan och ger nödvändig information. 
+Du omdirigeras till sidan **utbetalnings- och skatteprofiler.** Statusen för den nya profilen återspeglar **Väntande Microsoft-validering tills** verifieringen har slutförts. Den här processen kan ta upp till 48 timmar. När verifieringen har slutförts återspeglar din profilstatus antingen **Godkänd eller** Åtgärd **som krävs.** Om **åtgärden krävs** upprepar du stegen ovan och ger nödvändig information. 
 
 ## <a name="create-your-tax-profile"></a>Skapa din skatteprofil
 
@@ -155,9 +155,9 @@ Om du behöver information om hur du fyller i W8- eller W9-formulären för part
 
 1. På sidan **Företagsprofil** fyller du i de obligatoriska fälten och väljer **sedan Nästa.** 
 
-2. På sidan **Installation** väljer du det alternativ som gäller för ditt företag.
+2. På **sidan Installation** väljer du det alternativ som gäller för ditt företag.
 
-   - Välj alternativet till vänster om ditt företag är inkorporerat i USA, eller om den här profilen är för en enskild person.
+   - Välj alternativet till vänster om ditt företag ingår endast i USA, eller om profilen är för en enskild person.
    - Välj alternativet till höger om ditt företag ingår utanför USA och välj sedan ditt land/din region i listan.
 
 3. Välj **Nästa**. 
@@ -166,23 +166,23 @@ Om du behöver information om hur du fyller i W8- eller W9-formulären för part
 
 5. På sidan **Ytterligare dokumentation,** fälten som krävs och välj **Nästa.** 
 
-6. Välj **Bläddra för** att ladda upp dokument som krävs av ditt land eller din region. När dokumentets namn visas väljer du **Upload**. 
+6. Välj **Bläddra för** att ladda upp dokument som krävs av ditt land eller din region. När dokumentnamnet visas väljer du **Upload**. 
 
 7. Om du behöver ta bort dokumentet väljer du Ta **bort**.
 
-8. Om du vill spara och fortsätta väljer du **Slutför.**
+8. Om du vill spara och fortsätta väljer du **Slutför**.
 
 9. Välj **Bekräfta** i popup-meddelandet. Du kommer tillbaka till sidan för **utbetalnings- och skattekonfiguration.**
  
 ## <a name="update-expired-tax-profiles"></a>Uppdatera skatteprofiler som har upphört att gälla
 
-1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/)och välj sedan kugghjulsikonen för att **Inställningar** menyn.
+1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/)och välj sedan kugghjulsikonen för att **öppna Inställningar** menyn.
 
-1. Välj **Kontoinställningar**, expandera avsnittet **Utbetalning och** skatt och välj sedan **Utbetalnings- och skatteprofil.**
+1. Välj **Kontoinställningar,** expandera avsnittet **Utbetalning och** skatt och välj sedan **Utbetalnings- och skatteprofil.**
 
 1. Välj **Skatteprofil**.
 
-1. Kontrollera kolumnen Förfallodatum **och gå** till skatteprofilen som har upphört att gälla eller som snart upphör att gälla.
+1. Kontrollera kolumnen Förfallodatum **och gå** till skatteprofilen som har upphört att gälla eller snart upphör att gälla.
 
 1. Välj **Redigera**.
 

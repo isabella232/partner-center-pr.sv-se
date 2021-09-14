@@ -9,11 +9,11 @@ ms.devlang: azurepowershell
 ms.date: 11/24/2020
 ms.custom: devx-track-azurepowershell
 ms.openlocfilehash: d7bd790eab2618822dbc5099ad1ad107794c82d2
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123937005"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246666"
 ---
 # <a name="quickstart-manage-a-private-azure-marketplace-using-powershell"></a>Snabbstart: Hantera en privat Azure Marketplace powershell
 
