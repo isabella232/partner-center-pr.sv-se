@@ -10,24 +10,24 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: d2888a8deffffa3b281ca088696184fdb52376be
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960786"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246313"
 ---
 # <a name="verify-your-domain-ownership-to-become-global-admin"></a>Verifiera ägandet till en domän för att bli global administratör 
 
 
 **Lämpliga roller:** Globala | Kontoadministratör
 
-Om du vill arbeta i Partnercenter måste du först verifiera ägarskapet för din domän och bli global administratör för ditt företag. Dessutom har dina anställda inte tilldelats de roller som krävs för att börja arbeta.  För att kunna arbeta i Partnercenter måste alla ha en roll, inklusive behörigheter, tilldelade till dem.  
+Om du vill arbeta i Partnercenter måste du först verifiera ägarskapet för din domän och bli global administratör för ditt företag. Dessutom kommer dina anställda inte ha tilldelats de roller som krävs för att börja arbeta.  För att kunna arbeta i Partnercenter måste alla ha en roll, inklusive behörigheter, tilldelade till dem.  
 
-## <a name="verify-your-domain-ownership-to-become-a-global-admin-in-partner-center"></a>Verifiera din domänägarskap för att bli global administratör i Partnercenter
+## <a name="verify-your-domain-ownership-to-become-a-global-admin-in-partner-center"></a>Verifiera ditt domänägarskap för att bli global administratör i Partnercenter
 
 Om du vill bli global administratör för ditt företag måste du verifiera att du äger domänen.
 
-1. På instrumentpanelen i Partnercenter går du till **sidan Medlemskapserbjudanden** och väljer **Bli global administratör.** 
+1. På instrumentpanelen i Partnercenter går du till **sidan Medlemskapserbjudanden** och **väljer Bli global administratör.** 
 
 2. På sidan **Verifiera domänägarskap** kopierar du TXT-värdena från tabellen. Observera att domänen redan är vald åt dig.
 
@@ -52,7 +52,7 @@ Om du verifierar ägarskapet för din domän blir du även global administratör
 
 1. Från ikonen **Inställningar längst** upp till höger i Partnercenter väljer du **Användarhantering.**
 
-1. Filtrera på global administratör i sökrutan. En lista över globala administratörer i ditt företag visas. Om ditt företag ännu inte har en global administratör följer du anvisningarna nedan.
+1. Filtrera på global administratör i sökrutan. En lista över globala administratörer i ditt företag visas. Om ditt företag ännu inte har någon global administratör följer du anvisningarna nedan.
 
 ## <a name="next-steps"></a>Nästa steg
 

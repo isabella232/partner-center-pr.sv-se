@@ -10,11 +10,11 @@ ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 04/05/2020
 ms.openlocfilehash: bb7bea476a79096890e3ae33c0256200eae18968
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960043"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246318"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Översikt: Huvudartiklar om fakturering och skatt i Partnercenter
 
