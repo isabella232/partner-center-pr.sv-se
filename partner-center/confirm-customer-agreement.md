@@ -9,12 +9,12 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 03/24/2021
-ms.openlocfilehash: aa8f08b52a16aae56b02b09d5fdf607e92180ca5
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 205de1c852d263e79978358229f1365852872232
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247380"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "127828393"
 ---
 # <a name="how-to-confirm-that-your-customer-has-accepted-the-microsoft-customer-agreement-to-the-csp-program"></a>Så här bekräftar du att kunden har godkänt Microsoft-kundavtal till CSP-programmet
 
@@ -29,7 +29,7 @@ Kunder har två alternativ för hur de accepterar Microsoft-kundavtal.
 
 ## <a name="access-microsoft-customer-agreement-template"></a>Åtkomst Microsoft-kundavtal mall
 
-Du kan ladda ned den senaste versionen av Microsoft-kundavtal [här.](https://aka.ms/customeragreement) Den Microsoft-kundavtal är landsspecifik. När du Microsoft-kundavtal mallen måste du välja rätt land baserat på kundens plats.
+Du kan ladda [ned den senaste versionen av Microsoft-kundavtal](https://aka.ms/customeragreement). Den Microsoft-kundavtal är landsspecifik. När du Microsoft-kundavtal mallen måste du välja rätt land baserat på kundens plats.
 
 ## <a name="option-1-confirm-customer-acceptance-in-partner-center"></a>Alternativ 1: Bekräfta kundens godkännande i Partnercenter
 
@@ -187,21 +187,21 @@ Det finns två scenarier där kunder kanske inte kan godkänna Microsoft-kundavt
 
 **För att** lösa problemet måste du intyga för kundens räkning.
 
-:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Skärmbild av Microsoft 365 Admin Center där du uppmanas att kontakta din partner för att bekräfta godkännandet av Microsoft-kundavtal.":::
+:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Skärmbild av Microsoft 365 Admin Center-sidan där du uppmanas att kontakta din partner för att bekräfta godkännandet av Microsoft-kundavtal.":::
 
-**Scenario 2:** En befintlig kund har köpt något av följande erbjudanden, programvaru- och programvaruprenumerationer, reserverade instanser och Azure-plan. Kunden försöker nu göra ett nytt köp hos en ny partner.
+**Scenario 2:** En befintlig kund har köpt något av följande erbjudanden, programvaru- och programvaruprenumerationer, reserverade instanser och Azure-plan. Kunden försöker nu göra ett nytt köp med en ny partner.
 
-När kunden klickar på URL:en till Microsoft 365 Admin Center för att godkänna den nya partnerrelationen och avtalet får de meddelandet "Kontakta din partner för att bekräfta att du godkänner Microsoft-kundavtal".  
+När kunden klickar på URL:en till Microsoft 365 Admin Center för att godkänna den nya partnerrelationen och avtalet får kunden meddelandet "Kontakta din partner för att bekräfta att du godkänner Microsoft-kundavtal".  
 
 **För att** lösa problemet måste du intyga för kundens räkning.  
 
 ## <a name="confirm-that-a-customer-has-accepted-the-agreement"></a>Bekräfta att en kund har godkänt avtalet
 
-Om du försöker skapa en ny order för en befintlig kund som du inte har bekräftat tidigare får du ett meddelande om att slutföra bekräftelsen. Gör detta på följande sätt.
+Om du försöker skapa en ny order för en befintlig kund som du inte har bekräftat tidigare får du en uppmaning om att slutföra bekräftelsen. Gör detta på följande sätt.
 
 1. Ange **förnamn,** **efternamn,** **e-postadress** **och Telefon (valfritt)** för den användare som godkände avtalet.
 
-2. Under **Godkännandedatum för avtalet** anger du lämpligt datum. Du kan inte ange detta till ett framtida datum.
+2. Under **Avtalets godkännandedatum** anger du lämpligt datum. Du kan inte ange detta till ett framtida datum.
 
 3. Välj **Spara och fortsätt**. 
 

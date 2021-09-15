@@ -1,20 +1,20 @@
 ---
 title: Tillägg för ny handel
 ms.topic: article
-ms.date: 08/30/2021
+ms.date: 09/03/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Lär dig mer om nya köpupplevelser för köp av tillägg.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 539aa939d980f7b40abc44789a08d153a8abdfaa
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 01644e5d2dd2fe2057d223b62f1f4e9d6f9cd101
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961443"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "127828291"
 ---
 # <a name="introduction-new-commerce-add-ons"></a>Introduktion: Tillägg för ny handel
 
@@ -33,11 +33,11 @@ Partner kan köpa tillägg i ny handel för att aktivera andra tjänster som kom
 
 ## <a name="add-ons-in-new-commerce"></a>Tillägg i ny handel ## 
 
-Nya tillägg för handel innehåller liknande begrepp som traditionella licensbaserade tillägg. Nya tillägg för handel, t.ex. traditionella licensbaserade, omfattar begreppet förutsättningar. Det här är produkt-SKU:er som kunden måste ha för att tillägget ska fungera korrekt. Kraven för ett tillägg finns i katalog-API:er för en viss SKU och i användarupplevelsen i Partner Center-katalogen. Köp av tillägg kräver att ett eller flera av förutsättningarna finns i kundens klientorganisation.
+Nya tillägg för handel innehåller liknande begrepp som traditionella licensbaserade tillägg. Nya tillägg för handel, till exempel traditionella licensbaserade, omfattar begreppet förutsättningar. Det här är produkt-SKU:er som kunden måste ha för att tillägget ska fungera korrekt. Kraven för ett tillägg finns i katalog-API:er för en viss SKU och i användarupplevelsen i Partner Center-katalogen. Köp av tillägg kräver att ett eller flera av förutsättningarna finns i kundens klientorganisation.
  
 Den största skillnaden vid köp av tillägg mellan traditionell licensbaserad och ny handel är hur *de* köps. I traditionell licensbaserad tillämpar partnern tillägget på en befintlig baserbjudandeprenumeration. I ny handel köper partner tilläggen från själva katalogen, de har inte längre en dubbelköpt köpupplevelse för baserbjudanden och tillägg, allt finns i katalogen i den nya näthandelen.
 
-Många av begreppen om hur tillägg fungerar, ur ett tjänstperspektiv, förblir sanna inom traditionell och ny handel. Både registrera och etablera tilläggstjänster, det är inget annorlunda hur etableringen sker. Dessutom kan ett enda tilläggstjänster komplettera fler än en basprodukt-SKU som tillägget är utformat för att fungera med.
+Många av begreppen om hur tillägg fungerar, ur ett tjänstperspektiv, förblir sanna inom traditionell och ny handel. Både registrera och etablera tilläggstjänster, det finns inget annorlunda med hur etableringen sker. Dessutom kan ett enda tilläggstjänster komplettera fler än en basprodukt-SKU som tillägget är utformat för att fungera med.
 
 ## <a name="identifying-add-ons"></a>Identifiera tillägg ##
 

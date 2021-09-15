@@ -1,20 +1,20 @@
 ---
 title: Nya handelskampanjer
 ms.topic: article
-ms.date: 08/30/2021
+ms.date: 09/03/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Lär dig mer om nya handelsupplevelser för att upptäcka och köpa kampanjer.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: abb1bc79bc3a67ccb9f3d067f6eeb8cb22a6b3f5
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: dc2d52dd444168b32f0cadaeccec1e6d906348d1
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961456"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "127828308"
 ---
 # <a name="introduction-new-commerce-promotions"></a>Introduktion: Nya handelskampanjer
 
@@ -25,7 +25,7 @@ ms.locfileid: "123961456"
 - Global administratör
 
 > [!Note] 
-> De nya ändringarna i handelsupplevelsen är för närvarande endast tillgängliga för partner som ingår i den tekniska förhandsversionen av Microsoft 365/Dynamics 365.
+> De nya ändringarna i handelsupplevelsen är för närvarande endast tillgängliga för partner som ingår i den nya tekniska förhandsversionen av Microsoft 365/Dynamics 365.
 
 Microsoft kommer att stödja kampanjer inom ny handel. Dessa kampanjer har olika rabattbelopp och varaktigheter. 
 

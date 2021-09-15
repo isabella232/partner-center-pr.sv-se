@@ -10,17 +10,55 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 09/10/2021
-ms.openlocfilehash: dfb3d2dccfdec0512e8517ab7d815bd076570958
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.date: 09/13/2021
+ms.openlocfilehash: f34234bebb8353315029eaab76aa52cb30df6e6a
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246468"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "127828240"
 ---
 # <a name="september-2021-announcements"></a>Meddelanden september 2021
 
 Den här sidan innehåller meddelanden för Microsoft Partner Center för september 2021.
+
+_____________
+
+## <a name="coming-soon-delegated-administrative-privileges-monitoring-and-self-service-removal"></a><a name="11"></a> Kommer snart: Övervakning av delegerade administrativa privilegier och borttagning av självbetjäning
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-13-10
+- Funktioner
+
+### <a name="summary"></a>Sammanfattning
+
+Microsoft lanserar nya rapporteringsverktyg som visar DAP-anslutningar (active delegated administrative privileges) så att partner kan inaktivera oanvända DAP-anslutningar.
+
+### <a name="impacted-audience"></a>Målgrupp som påverkas
+
+Partner för direktfakturering, indirekta leverantörer och indirekta återförsäljare som gör transaktioner via Molnlösningsleverantör program
+
+### <a name="details"></a>Information
+
+Partner kan använda delegerade administratörsbehörigheter (DAP) för att hantera och stödja sina kunders tjänster.
+
+För att förbättra säkerheten i partner- och kundekosystemet rekommenderar Microsoft att du inaktiverar DAP när det inte används.
+
+Från och med slutet av oktober lanserar Microsoft nya rapporteringsverktyg så att partneradministrationsagenter kan granska DAP-anslutningar med sina kunder. Den här rapporteringen visar hur partneragenter kommer åt kundklienter i alla klienter via DAP. Partner kan sedan granska och ta bort DAP-anslutningar som inte används.
+
+Om du vill veta mer om den här nya rapporteringsfunktionen har vi skapat en [guide](https://partner.microsoft.com/resources/detail/dap-monitoring-and-self-serve-removal-pdf) som dokumenterar de olika filter och fält som är tillgängliga i rapporten.
+
+#### <a name="key-considerations"></a>Viktiga överväganden
+
+- Om du inaktiverar DAP-åtkomst för en kund inaktiveras partnerns administratörsbehörighet för att hantera funktioner i kundens klientorganisation.  
+- Transacting-partner kan fortsätta att göra beställningar åt sina kunder.
+- Partneragenter kan inte längre skapa en supportbiljett för sina kunder till Microsoft.  
+- Att inaktivera DAP påverkar inte aktuella rollbaserade åtkomstkontrollroller i en prenumeration och påverkar inte partner-intjänade krediter.
+
+### <a name="next-steps"></a>Nästa steg
+
+Granska resurserna [om](https://partner.microsoft.com/resources/collection/delegated-administrative-privileges-dap#/) det här avsnittet och dela med lämpliga intressenter i din organisation.
 
 ## <a name="september-cloud-solution-provider-community-update-and-reminders"></a><a name="10"></a>Uppdatering Molnlösningsleverantör community och påminnelser i september
 
@@ -148,76 +186,61 @@ _____________
 
 ### <a name="summary"></a>Sammanfattning
 
-För att hjälpa partner och kunder att driva sin verksamhet baserat på förtroende uppdaterar vi valideringsreglerna för en kunds företagsnamn och e-postadress. Detta gäller för både ny och befintlig kundinformation. Det krävs inga API-ändringar.
+För att hjälpa partner och kunder att driva sin verksamhet baserat på förtroende uppdaterar vi valideringsreglerna för en kunds företagsnamn och e-postadress. Detta gäller både ny och befintlig kundinformation. Det krävs inga API-ändringar.
 
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
 CSP-direktfaktureringspartner och indirekta leverantörer
 
 ### <a name="details"></a>Information
 
-Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för validering av företagets namn och e-postadressinformation. Från och med den 22 september 2021 kommer vi att uppdatera verifieringar av e-post och företagsnamn. Mer information finns i Så [här lägger du till en ny kundpost.](../add-a-new-customer.md)
+Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för att verifiera kundens företagsnamn och e-postadressinformation. Från och med den 22 september 2021 kommer vi att uppdatera e-post- och företagsnamnsverifieringar. Mer information finns i Så [här lägger du till en ny kundpost.](../add-a-new-customer.md)
 
 _____________
 
-## <a name="readiness-dual-mode-attestation-and-additional-reseller-declaration"></a><a name="7"></a>Beredskap: Attestation med dubbla lägen och ytterligare återförsäljardeklaration
+## <a name="readiness-dual-mode-attestation-and-additional-reseller-declaration"></a><a name="7"></a>Beredskap: Atterstation med dubbla lägen och ytterligare återförsäljardeklaration
 
 ### <a name="summary"></a>Sammanfattning
 
-För att hjälpa partner och kunder att driva sin verksamhet baserat på förtroende kräver vi att partner intygar att de fungerar som direkta eller indirekta partner när de använder samma klientorganisations-ID per transaktion.
+För att hjälpa partner och kunder att driva sin verksamhet baserat på förtroende kräver vi att partnern ska intyga att de fungerar som direkta eller indirekta partner när de använder samma klientorganisations-ID per transaktion.
 
-Vi begär också att alla partner som gör transaktioner i EU-/EFTA-länder deklarerar ytterligare återförsäljare (upp till 5) som ingår i transaktionen.
+Vi begär också att alla partner som gör transaktioner i EU-/EFTA-länder deklarerar ytterligare återförsäljare (upp till 5) som är inblandade i transaktionen.
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2021-09-07
 - Pilotberedskap för WW-uppskjutning sker i december
 
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
 CSP-direktfaktureringspartner och indirekta leverantörer som är både direkta och indirekta partner
 
-Indirekta partner som gör överträdelser i EU/EFTA-länder
+Indirekta partner som gör en överträdelse i EU-/EFTA-länder
 
 ### <a name="details"></a>Information
 
 Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för att göra kundprenumerationer i CSP-programmet.
 
-Från och med den 7 september 2021 kommer vi att öppna ett pilottest för partner för att få möjlighet att testa mot nya attesteringskrav och ytterligare återförsäljare (endast EU/EFTA) ändringar som inträffar i API:erna Skapa kundvagn, Uppdatera kundvagn och Skapa beställning. Observera att dessa ändringar kommer att bryta befintliga upplevelser för dessa API:er. Därför rekommenderar vi starkt att partner tar tillfället i akt att delta i pilottestet innan den fullständiga uppskjutningen i december.
+Från och med den 7 september 2021 kommer vi att öppna ett pilottest för partner för att få möjlighet att testa mot nya attesteringskrav och ytterligare återförsäljare (endast EU/EFTA) ändringar som sker i API:erna Skapa kundvagn, Uppdatera kundvagn och Skapa beställning. Observera att dessa ändringar kommer att bryta befintliga upplevelser för dessa API:er. Därför rekommenderar vi starkt att partner tar tillfället i akt att delta i pilottestet före den fullständiga uppskjutningen i december.
 
-Följande API:er påverkas och informationen har delats och uppdaterats därefter:
+Följande API:er påverkas och information har delats och uppdaterats därefter:
 
-- [Skapa en kundorder – partnercenterapputvecklare](/partner-center/develop/create-an-order)
+- [Skapa en kundorder – PartnerCenter-apputvecklare](/partner-center/develop/create-an-order)
 - [Skapa en kundvagn – partnercenterapputvecklare](/partner-center/develop/create-a-cart)
-- [Uppdatera en kundvagn – partnercenterapputvecklare](/partner-center/develop/update-a-cart)
+- [Uppdatera en kundvagn – Partnercenter-apputvecklare](/partner-center/develop/update-a-cart)
 
 De ytterligare återförsäljarna påverkar partner som gör transaktioner i följande EU-/EFTA-länder:
 
-| Länder | Länder | Länder |
-| ----- |----- | ----- |
-| Andorra | Grekland | Norge |
-| Österrike | Grönland | Polen |
-| Belgien | Guernsey | Portugal |
-| Bouvetön | See (covers Vatikan city) | Rumänien |
-| Bulgarien | Ungern | San Marino |
-| Kroatien | Island | Slovakien |
-| Cypern | Irland | Slovenien |
-| Tjeckien | Isle of Man | Spanien |
-| Danmark | Italien | Svalbard och Jan Mayen |
-| Estland | Jersey | Sverige |
-| Färöarna | Lettland | Schweiz |
-| Finland | Liechtenstein | Norge |
-| Frankrike | Litauen | Polen |
-| Tyskland | Luxemburg | Portugal |
-| Gibraltar | Malta | Rumänien |
-| Monaco | San Marino | Nederländerna |
-| Slovakien | Storbritannien: TBD |
+| EU/EFTA-länder | &nbsp; | &nbsp; |
+| --- | --- | --- |
+| Andorra<br>Österrike<br>Belgien<br>Bouvetön<br>Bulgarien<br>Kroatien<br>Cypern<br>Tjeckien<br>Danmark<br>Estland<br>Färöarna<br>Finland<br>Frankrike<br>Tyskland<br>Gibraltar | Grekland<br>Grönland<br>Guernsey<br>See (covers Vatikanstad)<br>Ungern<br>Island<br>Irland<br>Isle of Man<br>Italien<br>Jersey<br>Lettland<br>Liechtenstein<br>Litauen<br>Luxemburg<br>Malta | Monaco<br>Nederländerna<br>Norge<br>Polen<br>Portugal<br>Rumänien<br>San Marino<br>Slovakien<br>Slovenien<br>Spanien<br>Svalbard och Jan Mayen<br>Sverige<br>Schweiz<br>Storbritannien: TBD |
+|
 
-Om du vill delta i piloten ska du kontakta ämnesexperten (AliCertifikatki) och ange partnerns klientorganisations-ID så att de kan läggas till i flygresan.
+Om du vill delta i piloten kan du kontakta ämnesexperten (AliJektki) och ange partnerns klientorganisations-ID så att de kan läggas till i flygresan.
 
 _____________
 
-## <a name="perpetual-software-and-software-subscriptions-price-lists-republished-to-fix-price-increases-in-russia"></a><a name="6"></a>Löpande prislistor för programvaru- och programvaruprenumerationer publiceras på nytt för att åtgärda prisökningar i Ryssland
+## <a name="perpetual-software-and-software-subscriptions-price-lists-republished-to-fix-price-increases-in-russia"></a><a name="6"></a>Prislistor för permanent programvara och programvaruprenumerationer publiceras på nytt för att åtgärda prisökningar i Ryssland
 
 ### <a name="categories"></a>Kategorier
 
@@ -226,28 +249,28 @@ _____________
 
 ### <a name="summary"></a>Sammanfattning
 
-Prislistorna för permanent programvara och programvaruprenumerationer som publicerades den 1 september 2021 återpublicerades den 3 september för att åtgärda ett prisproblem i Ryssland.
+Prislistorna för permanent programvara och programvaruprenumerationer som publicerades den 1 september 2021 publicerades på nytt den 3 september för att åtgärda ett prisproblem i Ryssland.
 
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Indirekta leverantörer och direktfaktureringspartner som överför permanenta programvaru- och programvaruprenumerationer i Molnlösningsleverantör i Ryssland.
+Indirekta leverantörer och direktfaktureringspartner som gör permanenta programvaru- och programvaruprenumerationer i Molnlösningsleverantör i Ryssland.
 
 ### <a name="details"></a>Information
 
-De permanenta prislistorna för programvaru- och programvaruprenumerationer som publicerades den 1 september hade en felaktig prisökning på 15,2 % som angavs för alla produkter.
+De permanenta prislistorna för programvaru- och programvaruprenumerationer som publicerades den 1 september hade en felaktig prisökning på 15,2 % för alla produkter.
 
 Prisökningen på ~15,2 % börjar gälla den 1 oktober **2021**, inte i september. Prislistorna har publicerats på nytt med rätt prisinformation.
 
-Partner som har köpt produkter mellan 1 september och 3 september debiteras enligt de korrigerade priserna som visas i de senaste prislistorna.
+Partner som har köpt produkter mellan 1 september och 3 september debiteras till de korrigerade priserna som visas i de senaste prislistorna.
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Partner som använder permanent programvara och programvaruprenumerationer i Ryssland bör ladda ned den senaste prislistan för att se de korrigerade priserna.
+- Partner som gör permanenta programvaru- och programvaruprenumerationer i Ryssland bör ladda ned den senaste prislistan för att se de korrigerade priserna.
 - Information om prisökningarna som kommer i oktober finns i det här [tillkännagivandet.](https://news.microsoft.com/licensing-changes-at-microsoft-russia-2021/)
 
 _____________
 
-## <a name="corrections-to-september-license-based-services-price-list-and-october-preview-for-microsoft-365-business-basic-usd"></a><a name="5"></a>Korrigeringar av prislistan för septemberlicensbaserade tjänster och oktoberförhandsvisningen för Microsoft 365 Business Basic (USD)
+## <a name="corrections-to-september-license-based-services-price-list-and-october-preview-for-microsoft-365-business-basic-usd"></a><a name="5"></a>Korrigeringar av prislistan för septemberlicensbaserade tjänster och oktoberförhandsvisning för Microsoft 365 Business Basic (USD)
 
 ### <a name="summary"></a>Sammanfattning
 
@@ -264,7 +287,7 @@ Indirekta leverantörer och direktfaktureringspartner som överför licensbasera
 
 ### <a name="details"></a>Information
 
-Septemberprislistan och förhandsversionen av licensbaserade tjänster som publicerades den 1 september 2021 hade ett felaktigt listpris för Microsoft 365 Business Basic. Korrigerade prislistor publicerades den 2 september 2021. Detta påverkar endast USD.
+Septemberprislistan och oktoberförhandsvisningen för licensbaserade tjänster som publicerades den 1 september 2021 hade ett felaktigt listpris för Microsoft 365 Business Basic. Korrigerade prislistor publicerades den 2 september 2021. Detta påverkar endast USD.
 
 Det påverkade erbjudandet omfattar:
 
@@ -277,8 +300,31 @@ Det påverkade erbjudandet omfattar:
 
 Partner som transact-licensierade tjänster i USD ska ladda ned den senaste prislistan för att se det korrigerade priset.
 
-_____________
+________________
+## <a name="nigeria-and-thailand-are-now-microsoft-managed-countries"></a><a name="4-5"></a>Managed Countries från Microsoft är nu Microsoft-hanterade länder
 
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-09-01
+- Funktioner
+
+### <a name="summary"></a>Sammanfattning
+
+Managed Countries är nu Microsoft-hanterade länder.
+
+### <a name="impacted-audience"></a>Målgrupp som påverkas
+
+Partner som gör en transacting i Dår och Dår.
+
+### <a name="details"></a>Information
+
+Se [Skatteinformation för kommersiella marknadsplatsutgivare.](../tax-details-marketplace.md)
+
+### <a name="questions"></a>Frågor
+
+Om du har fler frågor om dessa erbjudanden kan du läsa dina Yammer communityn.
+
+________________
 ## <a name="announcing-intune-per-device-for-enterprise-for-csp-partners"></a><a name="4"></a>Vi presenterar Intune per enhet för enterprise för CSP-partner
 
 ### <a name="categories"></a>Kategorier
@@ -312,7 +358,7 @@ Saker att tänka på om det nya Intune-erbjudandet per enhet:
 - Det är endast tillgängligt för CPS och inte tillgängligt i Volymlicensiering eller Web Direct.
 - Kostnaden är 150 USD (USD/ERP) för en femårsprenumeration.
 - Erbjudande-ID: 5170ccfb-e95b-49a4-b7f3-31f631a356ba
-- Det fungerar som det ska för alla Windows som har tilldelats till en enda autentiserad användare.
+- Det fungerar som det ska för alla Windows som tilldelats en enda autentiserad användare.
 - Erbjudandet omfattar inte enhetsbaserad villkorlig åtkomst.  
 
 ### <a name="questions"></a>Frågor
@@ -402,16 +448,16 @@ Den 1 september 2021 informerade Microsoft partner om nästa steg i utvecklingen
 
 - Registrera dig för kommande [CSP Q&A Community Calls](https://globalpbocomm.eventbuilder.com/GlobalCSP) den 15 september eller 16 september.
 - Läs den nya handelsupplevelsen för CSP-platsbaserade erbjudanden [för den](https://partner.microsoft.com/resources/collection/new-commerce-experience-for-csp-seat-based-offers#/) här lanseringen.
-- Delta i CSP Q&A Community Call och ställ frågor som din organisation har angående den nya handelsupplevelsen för Microsoft 365, Dynamics 365, Power Platform och Windows 365-platsbaserad för bredd rörelse.
+- Delta i CSP Q&A Community Call och ställ frågor till din organisation om den nya handelsupplevelsen för Microsoft 365, Dynamics 365, Power Platform och Windows 365-platsbaserad för bredd.
 
-#### <a name="microsoft-commerce-incentive-program"></a>Incitamentprogram för Microsoft Commerce
+#### <a name="microsoft-commerce-incentive-program"></a>Microsoft Commerce Incitamentprogram
 
-- Granska kommunikationen i den kommande förbättrade partnerupplevelsen i den [Microsoft Commerce Incentives resurssamlingen](https://partner.microsoft.com/asset/collection/microsoft-commerce-incentive-resources#/).
-- Granska de uppdaterade FY22-partnerincitamentguiderna på [Partner Incentives-portalen.](https://microsoft.sharepoint.com/teams/PartnerIncentivesPortal)
+- Granska kommunikationen i den kommande förbättrade partnerupplevelsen i den Microsoft Commerce Incentives [resurssamlingen](https://partner.microsoft.com/asset/collection/microsoft-commerce-incentive-resources#/).
+- Granska de uppdaterade FY22-partnerincitamentguiderna på [partnerincitamentportalen.](https://microsoft.sharepoint.com/teams/PartnerIncentivesPortal)
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har fler frågor om dessa erbjudanden kan du läsa dina Yammer communityer.
+Om du har fler frågor om dessa erbjudanden kan du gå till dina Yammer communityn.
 
 _____________
 
@@ -419,20 +465,20 @@ _____________
 
 ### <a name="summary"></a>Sammanfattning
 
-Produktlanseringskalendern för september 2021 har nu publicerats.
+Produktlanserings kalender för september 2021 publiceras nu.
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2021-09-01
 - Utveckla din verksamhet
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Alla partner som gör en Molnlösningsleverantör via CSP-programmet
+Alla partner som gör en transacting via Molnlösningsleverantör(CSP)-programmet
 
 ### <a name="details"></a>Information
 
-Produktlanseringskalendern för [september](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) 2021 är nu tillgänglig i resursgalleriet för driftberedskap. Visa kommande produktlanseringar och erbjudanden här.
+Kalendern för produktlansering september 2021 [](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) är nu tillgänglig i resursgalleriet för driftberedskap. Visa kommande produktlanseringar och erbjudanden här.
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -440,11 +486,11 @@ Granska kalendern [för produktlansering](https://partner.microsoft.com/resource
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har fler frågor om dessa erbjudanden kan du läsa dina Yammer communityer.
+Om du har fler frågor om dessa erbjudanden kan du gå till dina Yammer communityn.
 
 _____________
 
-## <a name="software-in-microsoft-china-cloud-solution-provider-program-mccl-csp-to-start-transactions-from-august-12"></a><a name="1"></a>Programvara i Microsoft China Molnlösningsleverantör-program (MCCL CSP) för att starta transaktioner från den 12 augusti
+## <a name="software-in-microsoft-china-cloud-solution-provider-program-mccl-csp-to-start-transactions-from-august-12"></a><a name="1"></a>Programvara i Microsoft China Molnlösningsleverantör-program (MCCL CSP) för att starta transaktioner från och med 12 augusti
 
 ### <a name="summary"></a>Sammanfattning
 
@@ -455,7 +501,7 @@ Som en uppföljning till vår uppdatering från den 3 augusti startar programvar
 - Datum: 2021-09-01
 - Utveckla din verksamhet
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
 MCCL CSP-programpartner
 
@@ -469,38 +515,38 @@ MCCL CSP-programpartner
 
 #### <a name="open-license-program-deprecation"></a>Utfasning av licensprogram
 
-- Från och med den 1 januari 2022 kan kunder inte längre köpa eller förnya programvarulicenser via Microsoft Open License-programmet.
+- Från och med 1 januari 2022 kan kunder inte längre köpa eller förnya programvarulicenser via Microsoft Open License-programmet.
 
 - Kunder kan fortsätta att ha fullständiga rättigheter och åtkomst till alla permanenta programvarulicenser som köpts via Open License-programmet även efter utfasningen. De kan också fortfarande komma åt Volume Licensing Service Center för att hantera dessa licenser och tjänster.
 
 #### <a name="software-assurance-sa-purchases"></a>Software Assurance köp (SA)
 
-- SA-erbjudanden med Open License (L&SA) fortsätter att vara tillgängliga i Open Value (OV) och Open Value Subscription (OVS). Men varken SA eller L&SA är tillgängliga i MCCL CSP-programmet eftersom det inte finns någon plan för att erbjuda detta i MCCL CSP.
+- SA-erbjudandena med Open License (L&SA) fortsätter att vara tillgängliga i Open Value (OV) och Open Value Subscription (OVS). Men varken SA eller L&SA är tillgängliga i MCCL CSP-programmet eftersom det inte finns någon plan för att erbjuda detta i MCCL CSP.
 
-- SA-förmånerna fortsätter tills SA-perioden upphör att gälla, även om giltighetstiden infaller efter den 1 januari 2022.
+- SA-förmånerna fortsätter tills SA-perioden upphör att gälla, även om den upphör att gälla efter den 1 januari 2022.
 
 - Microsoft OV-programmet rekommenderas för framtida inköp som inkluderar SA.
 
 >[!NOTE]
 >Det finns inga planer på att ändra OV- och OVS-programmen.
 
-#### <a name="partner-change-management"></a>Ändringshantering för partner
+#### <a name="partner-change-management"></a>Partnerändringshantering
 
-- Befintliga Microsoft Open-distributörer har publicerats som indirekta MCCL CSP-leverantörer.
+- Befintliga Microsoft Open-distributörer har publicerats som indirekta MCCL-leverantörer.
 
-- Indirekta leverantörer och utvalda indirekta återförsäljare bjuds in att utföra testning av produktionsmiljön i augusti för att säkerställa transaktionsfunktionen.
+- Indirekta leverantörer och utvalda indirekta återförsäljare bjuds in att genomföra testning av produktionsmiljön i augusti för att säkerställa transaktionsfunktionen.
 
-- Beredskapsworkshops för indirekta partner startades i juli och fortsätter till december 2021.
+- Beredskapsworkshops för indirekta partner startade i juli och fortsätter till december 2021.
 
 ### <a name="next-steps"></a>Nästa steg
 
 Gör dig redo för den här ändringen med hjälp av följande resurser:
 
 - [Vad är ny handel?](https://partner.microsoft.com/resources/detail/new-commerce-experience-introduction)
-- [Spelbok för indirekt MCCL CSP-leverantör](https://microsoftapc.sharepoint.com/:b:/t/ChinaLicensingHome/EeWi5axiZ_RCkTbxa-brE-sBGYdLJ5idpnZvFt2MFiTLWw?e=6itfqY)
-- [Spelbok för indirekt MCCL CSP-återförsäljare](https://microsoftapc.sharepoint.com/:b:/t/ChinaLicensingHome/EY-csVS7lFdKpwkRqeJJ4hkBPGWv4qkfINictqVrwKVLxQ?e=9G6ZY1)
+- [Spelbok om indirekt MCCL CSP-leverantör](https://microsoftapc.sharepoint.com/:b:/t/ChinaLicensingHome/EeWi5axiZ_RCkTbxa-brE-sBGYdLJ5idpnZvFt2MFiTLWw?e=6itfqY)
+- [Spelbok om indirekt MCCL-återförsäljare](https://microsoftapc.sharepoint.com/:b:/t/ChinaLicensingHome/EY-csVS7lFdKpwkRqeJJ4hkBPGWv4qkfINictqVrwKVLxQ?e=9G6ZY1)
 
-Observera att dessa ändringar endast gäller för MCCL CSP och inte har någon inverkan på 21 Vianet CSP.
+Observera att dessa ändringar endast gäller för MCCL CSP och inte påverkar 21 Vianet CSP.
 
 ### <a name="questions"></a>Har du några frågor?
 
