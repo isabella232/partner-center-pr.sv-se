@@ -13,7 +13,7 @@ ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/16/2021
-ms.locfileid: "127876993"
+ms.locfileid: "127886209"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Visa tillgängliga intjänade, upparbetade och återstående co-op-medel
 

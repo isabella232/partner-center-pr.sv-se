@@ -14,7 +14,7 @@ ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/16/2021
-ms.locfileid: "127876959"
+ms.locfileid: "127886242"
 ---
 # <a name="introduction-new-commerce-add-ons"></a>Introduktion: Tillägg för ny handel
 

@@ -1,6 +1,6 @@
 ---
 title: Översikt över planer och körningsbevis
-description: Lär dig mer om viktiga dokument som behövs för incitament, inklusive en plan för co-op-incitament och ett detaljerat poE (Proof of Execution).
+description: Lär dig mer om de viktiga dokument som behövs för incitament, inklusive en plan för co-op-incitamentsanspråk och ett detaljerat utförandebevis (PoE).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
@@ -13,32 +13,32 @@ ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/16/2021
-ms.locfileid: "127876976"
+ms.locfileid: "127886190"
 ---
-# <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Använd dessa resurser för att skapa incitamentsplaner och körningsbevis
+# <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Använd de här resurserna för att skapa incitamentsplaner och körningsbevis
 
-**Lämpliga roller:** Incitamentsadministratörsroller | Incitamentsanvändare
+**Lämpliga roller:**| Incitamentsanvändare
 
 I den här artikeln beskrivs några av de viktigaste dokumenten som krävs för att du ska lyckas och få betalt för ditt arbete i ett specifikt incitamentsprogram. Dessa dokument är:
 
 - En incitamentsplan
-- Ett detaljerat körningsbevis (PoE)
+- Ett detaljerat utförandebevis (PoE)
 
-Beroende på vilken typ av incitamentsprogram du har registrerat dig i kommer din plan och ditt poE(Proof of Execution) att vara bra på att lyckas med incitament.
+Beroende på vilken typ av incitamentsprogram du har registrerat dig i kommer din plan och ditt PoE-program (Proof of Execution) att vara till stor nytta för dig med incitament.
 
 ## <a name="what-is-an-incentives-plan"></a>Vad är en incitamentsplan?
 
-En incitamentsplan beskriver marknadsföringskampanjer, aktiviteter och annan information som behövs för att programmet ska lyckas. När du har skapat den här planen skickar du den till Microsoft för godkännande. Läs mer om [hur du skapar din plan.](incentives-create-your-plan.md)
+En incitamentsplan beskriver marknadsföringskampanjer, aktiviteter och annan information som behövs för att göra programmet framgångsrikt. När du har skapat den här planen skickar du den till Microsoft för godkännande. Läs mer om [hur du skapar din plan.](incentives-create-your-plan.md)
 
-## <a name="what-is-a-proof-of-execution-poe"></a>Vad är ett poE(proof of execution)?
+## <a name="what-is-a-proof-of-execution-poe"></a>Vad är ett poE (Proof of Execution)?
 
-När du har fått betalt för ditt incitamentsarbete måste du skicka in ett detaljerat poE-bevis (Proof of Execution) till Microsoft. Din PoE kan innehålla information om en relaterad kampanj, det datum då en incitamentsaktivitet inträffade och det belopp som begärdes. 
+När du har fått betalt för ditt incitamentsarbete måste du skicka ett detaljerat poE(proof of execution) till Microsoft. Din PoE kan innehålla information om en relaterad kampanj, det datum då en incitamentsaktivitet inträffade och det belopp som begärts. 
 
 Läs mer om [hur du förbereder körningsbevis.](incentives-prepare-your-proof-of-execution.md)
 
-## <a name="incentives-document-resources"></a>Incitament för dokumentresurser
+## <a name="incentives-document-resources"></a>Dokumentresurser för incitament
 
-Följande resurser förklarar hur du organiserar, skapar och redigerar dessa viktiga incitamentsdokument. De beskriver också vad du kan göra om Microsoft godkänner ditt anspråk eller om något anspråk avvisas.
+Följande resurser förklarar hur du ordnar, skapar och redigerar dessa viktiga incitamentsdokument. De beskriver också vad du kan göra om Microsoft godkänner ditt anspråk eller om något anspråk avvisas.
 
 |  **Så här gör du**  |  **Läs detta**  |
 |--------------|-----------|
