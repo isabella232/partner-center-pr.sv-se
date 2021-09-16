@@ -9,18 +9,18 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: d86919a12202eeea4487eb2d0ea7b41851631393
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
-ms.translationtype: HT
+ms.openlocfilehash: f5745a74e4368b42c4ce7b1b828ced8f79e49581
+ms.sourcegitcommit: 90c87bd5e63a8af932ece5696267ea715fea6a01
+ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961083"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127900431"
 ---
 # <a name="how-and-when-to-request-a-credit-from-microsoft"></a>Hur och när du ska begära en kredit från Microsoft
 
 **Lämpliga roller:** Administratörsagent | Global administratör
 
-Den här artikeln förklarar Molnlösningsleverantör direkt- och indirekta CSP-leverantörer kan begära kredit för:
+Den här artikeln förklarar Molnlösningsleverantör (CSP) direkta och indirekta leverantörer kan begära kredit för:
 
 - [Oavsiktliga köp](#accidental-purchase-credit)
 
@@ -60,6 +60,7 @@ Kreditförfrågningar accepteras endast från direkt och indirekta CSP-leverant�
 ## <a name="types-of-credits"></a>Typer av krediter
 
 I det här avsnittet beskrivs några av de krediter som du kan begära.
+
 ### <a name="accidental-purchase-credit"></a>Oavsiktlig inköpskredit
 
 För kreditförfrågningar för äldre erbjudanden av Microsoft 365 eller Microsoft Dynamics 365 (till exempel när antalet licenser ökades av misstag eller fel produkt köptes):
@@ -88,9 +89,50 @@ För kreditförfrågningar om duplicerade licenser (till exempel när en kund ha
 
 För kreditförfrågningar om tjänstavbrott:
 
+- SLA-krediter från Microsoft bestäms baserat på vilka tjänster som påverkades. Om kunden till exempel har en Office 365-svit men bara upplever ett SharePoint-avbrott godkänns SLA-krediten endast för SharePoint och inte kundens hela plan
+- Krediter baseras på den tjänst som påverkas och varaktigheten för avbrottet. Information om vilka typer av scenarier som är berättigade till SLA-krediter finns i dokumentet [Konsoliderat serviceavtal för](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services)Online Services. Den här informationen gäller även för tjänster som säljs via Molnlösningsleverantör-programmet (CSP).
 - Kreditförfrågningar måste skickas i slutet av kalendermånaden efter den månad då incidenten inträffade. Om incidenten till exempel inträffade den 15 februari måste vi ta emot anspråket och all nödvändig information senast den 31 mars. (Mer information finns i formuläret *för begäran om kredit eller återbetalning).*
 
 - Du måste ange bevis på att kunden har påverkats av avbrottet och att kunden har begärt en SLA-kredit. Kundens klientorganisations-ID och avbrotts-ID (Service Health instrumentpanelen) måste anges. Kundens e-postadress som skickas som bevis måste komma från domänen för den berörda klientorganisationen. (E-post från en personlig adress är inte acceptabelt).
+
+> [!NOTE]
+> Rådgivningsincidenter är vanligtvis inte berättigade till SLA-krediter. En incident som skickas till Service Health-instrumentpanelen  anger att en klientorganisation kan påverkas och representerar den bästa informationen som Microsoft har vid tidpunkten för publiceringen. Hälsosidans data representerar en tjänsts allmänna tillgänglighet. Påverkan, minskning och lösning av enskilda tjänster kan variera. Mer information finns i den slutliga incidentgranskningen efter incidenten och efter incidentgranskningen. Mer information om Service Health finns i Så [här kontrollerar du Microsoft 365 service health](/microsoft-365/enterprise/view-service-health).
+
+### <a name="required-information"></a>Nödvändig information
+
+Kundnamn, klientorganisations-ID, partnerbiljettnummer och stämpel för skapad biljett räcker inte för att ett anspråk ska bearbetas.
+
+Innan du [skickar en begäran om SLA-kredit](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services) till Microsoft måste du samla in all följande information som ska ingå i din supportbegäran:
+
+- Kundens klientorganisations GUID
+- Identifierare [för avbrottsincidenten](#outage-incident-identifier)
+- Bevis på att kunden har påverkats av avbrottet och har begärt en SLA-kredit.
+- Köptes de påverkade prenumerationerna via CSP? (Ja eller nej)
+
+### <a name="evidence-that-proves-customer-impact"></a>Bevis som bevisar kundpåverkan
+
+- Information om tid och varaktighet för stilleståndstiden
+- Antal och platser för berörda användare (om tillämpligt)
+- Beskrivningar av dina försök att lösa incidenten vid tidpunkten för händelsen
+- Ett e-postmeddelande från den påverkade kunden som begär support och därefter kredit
+- Supportbiljettens nummer och information om kundkontakten för att lösa påverkan på tjänsten
+
+### <a name="outage-incident-identifier"></a>Identifierare för avbrottsincident
+
+Du hittar identifieraren för avbrottsincidenten på Service Health i Administrationscenter för Microsoft 365. Id:t för avbrottsincident är ett tal som föregås av en förkortning med två bokstäver som anger den berörda tjänsten (till exempel EX25194 för Exchange Online avbrott).
+
+I följande tabell beskrivs vanliga förkortningar för tjänsten:
+
+| Förkortning med två bokstäver | Microsoft-tjänst |
+| ----------------------- | ----------------- |
+| EX | Exchange Online |
+| FO | Exchange Online Protection |
+| SB | Skype för företag Online (tidigare Lync Online) |
+| Operativsystem | Office Prenumeration |
+| PB | Power BI för Office 365 |
+| SP | sharepoint online |
+| YA | Yammer Enterprise |
+| MO | Portalfel |
 
 ## <a name="next-steps"></a>Nästa steg
 
