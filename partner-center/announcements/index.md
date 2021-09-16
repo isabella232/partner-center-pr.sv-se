@@ -14,7 +14,7 @@ ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/16/2021
-ms.locfileid: "127886240"
+ms.locfileid: "127894107"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -22,43 +22,43 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 
 |**Kategori**|**Meddelanden september 2021**|**Meddelande**|
 |---------|:---------|:---------|
-|Funktioner|[Kommer snart: Övervakning av delegerade administratörsbehörigheter och borttagning av självbetjäning](2021-september.md#11)|Den 13 september|
+|Funktioner|[Kommer snart: Övervakning av delegerade administrativa privilegier och borttagning av självbetjäning](2021-september.md#11)|Den 13 september|
 |Funktioner|[Uppdatering Molnlösningsleverantör community och påminnelser i september](2021-september.md#10)|Den 10 september|
-|Beredskap|[Påminnelse om att samarbeta med Microsoft Q&Community Call i september](2021-september.md#9)|Den 9 september|
+|Beredskap|[Påminnelse om att samarbeta med Microsoft Q&ett community-samtal i september](2021-september.md#9)|Den 9 september|
 |Beredskap|[Nya verifieringsregler för företagets namn och e-postadress den 22 september](2021-september.md#8)|Den 7 september|
 |Beredskap|[Atterstation med dubbla lägen och ytterligare återförsäljardeklaration](2021-september.md#7)|Den 7 september|
-|Erbjudanden och marknader|[Prislistor för permanent programvara och programvaruprenumerationer publiceras på nytt för att åtgärda prisökningar i Ryssland](2021-september.md#6)|Den 3 september|
-|Erbjudanden och marknader|[Korrigeringar av prislistan för septemberlicensbaserade tjänster och oktoberförhandsvisning för Microsoft 365 Business Basic (USD)](2021-september.md#5)|2 september|
-|Funktioner|[Meddelande om Intune per enhet för Enterprise för CSP-partner](2021-september.md#4)| 2 september |
-|Funktioner|[Viktiga uppdateringar för den nya handelsupplevelsen för Molnlösningsleverantör(CSP)-baserade erbjudanden](2021-september.md#3)| 1 september |
+|Erbjudanden och marknader|[Löpande prislistor för programvaru- och programvaruprenumerationer publiceras på nytt för att åtgärda prisökningar i Ryssland](2021-september.md#6)|Den 3 september|
+|Erbjudanden och marknader|[Korrigeringar av prislistan för septemberlicensbaserade tjänster och oktoberförhandsvisningen för Microsoft 365 Business Basic (USD)](2021-september.md#5)|2 september|
+|Funktioner|[Vi presenterar Intune per enhet för enterprise för CSP-partner](2021-september.md#4)| 2 september |
+|Funktioner|[Viktiga uppdateringar för den nya handelsupplevelsen för Molnlösningsleverantör-baserade erbjudanden (CSP)](2021-september.md#3)| 1 september |
 |Utveckla din verksamhet|[Visa den här månadens produktlanseringar och erbjudanden](2021-september.md#2)| 1 september |
-|Utveckla din verksamhet|[Programvara i Microsoft China Molnlösningsleverantör-program (MCCL CSP) för att starta transaktioner från den 12 augusti](2021-september.md#1)| 1 september |
-|**Kategori**|**Augusti 2021-meddelanden**|**Meddelande**|
-|Funktioner|[Sekretesshantering för Microsoft 365 uppskjutningen är fördröjd](2021-august.md#20)| 31 augusti |
-|Funktioner|[Vi presenterar Windows Server 2022 allmän tillgänglighet i oktober](2021-august.md#19)| 26 augusti |
+|Utveckla din verksamhet|[Programvara i Microsoft China Molnlösningsleverantör-program (MCCL CSP) för att starta transaktioner från och med 12 augusti](2021-september.md#1)| 1 september |
+|**Kategori**|**Meddelanden för augusti 2021**|**Meddelande**|
+|Funktioner|[Sekretesshantering för Microsoft 365 uppskjutningen är försenad](2021-august.md#20)| 31 augusti |
+|Funktioner|[Meddelande om Windows Server 2022 allmän tillgänglighet i oktober](2021-august.md#19)| 26 augusti |
 |Funktioner|[Platsbaserade erbjudanden för integrerad sandbox-testning i den nya handelsupplevelsen](2021-august.md#18)| 25 augusti |
-|Utveckla din verksamhet|[Uppdatering av fakturastruktur för USA, Puerto Toronto och Kanada](2021-august.md#17)| 24 augusti |
-|Funktioner|[Nu live: Ny handelsupplevelse i CSP för Azure expanderar till Government Community Cloud (GCC)](2021-august.md#16)| 24 augusti |
-|Funktioner|[Fas 2 är nu live: EU/EFTA och Storbritannien byter partnerfaktureringsvaluta för nya handelserbjudanden](2021-august.md#15)| 23 augusti |
-|Funktioner|[Ny handelsupplevelse för Microsoft 365, Dynamics 365, Power Platform och Windows 365-platsbaserad för bredd rörelse](2021-august.md#14)| 19 augusti |
-|Funktioner|[Uppdatera till våra kommersiella priser för Microsoft 365](2021-august.md#13)| 19 augusti |
-|Funktioner|[Community-Molnlösningsleverantör (CSP) för augusti och påminnelser](2021-august.md#12)| 16 augusti |
+|Utveckla din verksamhet|[Uppdatering av fakturastrukturen för USA, Update Fördr eller Kanada](2021-august.md#17)| 24 augusti |
+|Funktioner|[Nu live: Ny handelsupplevelse i CSP för Azure som expanderar till Government Community Cloud (GCC)](2021-august.md#16)| 24 augusti |
+|Funktioner|[Fas 2 är nu live: EU/EFTA och Storbritannien, ändring av partnerfaktureringsvaluta för nya handelserbjudanden](2021-august.md#15)| 23 augusti |
+|Funktioner|[Ny handelsupplevelse för Microsoft 365, Dynamics 365, Power Platform och Windows 365-platsbaserad för bredd rörelse](2021-august.md#14)| Den 19 augusti |
+|Funktioner|[Uppdatera till våra kommersiella priser för Microsoft 365](2021-august.md#13)| Den 19 augusti |
+|Funktioner|[Community-Molnlösningsleverantör för augusti (CSP) och påminnelser](2021-august.md#12)| 16 augusti |
 |Utveckla din verksamhet|[Get Genuine Windows Avtalserbjudanden (GGWA) i Molnlösningsleverantör är tillfälligt otillgängliga](2021-august.md#11)| 16 augusti |
 |Erbjudanden/marknader|[Visa de senaste kampanjerna och erbjudandena](2021-august.md#10)| 10 augusti |
-|Funktioner|[Efterlevnadsövervakning via PAM-teamet (Partner Accountability Management)](2021-august.md#9)| 9 augusti |
-|Erbjudanden/marknader|[Windows 365 är nu tillgängligt för köp: Hybrid Windows för en hybridvärld](2021-august.md#8)| 9 augusti |
+|Funktioner|[Efterlevnadsövervakning via PAM-teamet (Partner Accountability Management)](2021-august.md#9)| Den 9 augusti |
+|Erbjudanden/marknader|[Windows 365 finns nu tillgänglig för inköp: Hybrid Windows för en hybridvärld](2021-august.md#8)| Den 9 augusti |
 |Erbjudanden/marknader|[Kommande ändringar i prislistor för Azure-planer för ny handelsupplevelse](2021-august.md#6)| 4 augusti |
-|Funktioner|[CSP för Azures nya handelsupplevelse utökas till vatikan](2021-august.md#5)| 3 augusti |
-|Funktioner|[Programmatisk åtkomst till Partner Insights analysdata](2021-august.md#4)| 3 augusti |
-|Erbjudanden/marknader|[Attestation för erbjudande krävs för vissa Windows 365-erbjudanden](2021-august.md#3)| 1 augusti |
-|Funktioner|[Visa den här månadens produktlanseringar och erbjudanden](2021-august.md#1)| 1 augusti |
+|Funktioner|[CSP för den nya handelsupplevelsen i Azure utökas till](2021-august.md#5)| 3 augusti |
+|Funktioner|[Programmatisk åtkomst till partner Insights analysdata](2021-august.md#4)| 3 augusti |
+|Erbjudanden/marknader|[Attestation för erbjudande krävs för vissa Windows 365-erbjudanden](2021-august.md#3)| Den 1 augusti |
+|Funktioner|[Visa den här månadens produktlanseringar och erbjudanden](2021-august.md#1)| Den 1 augusti |
 |**Kategori**|**Meddelanden juli 2021**|**Meddelande**|
 |Funktioner|[Ny handelsupplevelse i CSP för Azure som expanderar till Government Community Cloud (GCC)](2021-july.md#16)| 26 juli |
 |Funktioner|[Förbättring av verktyget för överföring av Azure-prenumerationer mellan partner i Molnlösningsleverantör-programmet (CSP)](2021-july.md#15)| 21 juli |
 |Funktioner|[Ändringar av tillgängligheten för Azure-erbjudanden relaterade till den nya handelsupplevelsen i CSP för Azure](2021-july.md#14)| 21 juli |
 |Modern arbetsplats|[Introduktion Windows 365: Hybrid Windows för en hybridvärld](2021-july.md#13)| 20 juli |
 |Funktioner|[Introduktion till API-begränsning för partner som anropar Partner Center-API:er](2021-july.md#12)| Den 19 juli |
-|Funktioner|[Nya programerbjudanden som är tillgängliga Molnlösningsleverantör CSP-programmet och ändringar i Open License-programmet](2021-july.md#11)| Den 19 juli |
+|Funktioner|[Nya programvaruerbjudanden som är tillgängliga i Molnlösningsleverantör-programmet (CSP) och ändringar i Open License-programmet](2021-july.md#11)| Den 19 juli |
 |Erbjudanden/marknader|[Korrigeringar av förhandsversionen av prislistan för licensbaserade tjänster för Enterprise Mobility & Security (EMS) E3](2021-july.md#10)| 16 juli |
 |Funktioner|[Ändringar av programvara i Microsoft China Corporation Limited (MCCL) Molnlösningsleverantör (CSP) och Open License](2021-july.md#9)| 13 juli |
 |Beredskap|[Ändringar i CSP Molnlösningsleverantör-API:et för kundadressvalidering så att de blir live den 13 juli 2021](2021-july.md#8)| 12 juli |
@@ -68,7 +68,7 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 |Funktioner|[Meddelande om transparens för kundrabatt](2021-july.md#4)| 7 juli |
 |Funktioner|[Windows 7 problem med produktnyckeln för Extended Security Updates (ESU) år 2 (2021) löst](2021-july.md#3)|2 juli |
 |Funktioner|[Visa den här månadens produktlanseringar och erbjudanden](2021-july.md#2)|1 juli|
-|Funktioner|[Dynamics 365 Molnmigrering befordran och tillbakatillbakadragande av rabatterade erbjudanden](2021-july.md#1)|1 juli|
+|Funktioner|[Dynamics 365 Molnmigrering befordran och tillbaka pensionering av rabatterade erbjudanden](2021-july.md#1)|1 juli|
 |**Kategori**|**Meddelanden för juni 2021**|**Meddelande**|
 |Funktioner|[Fas 2-uppdatering: Ändring av partnerfaktureringsvaluta för nya handelserbjudanden i EU/EFTA och Storbritannien](2021-june.md#9)|Den 24 juni|
 |Funktioner|[Visa de senaste kampanjerna och erbjudandena](2021-june.md#8)|22 juni|
@@ -99,7 +99,7 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 |Beredskap|[Uppdaterade CSP-kundadressvaliderings-API:et kommer att vara live i juni; nu tillgänglig testfunktion](2021-april.md#10)|30 april|
 |Funktioner|[Ny plats för Swagger-dokumentation för Partner Center API](2021-april.md#9)|Den 26 april|
 |Funktioner|[Molnlösningsleverantör (CSP) princip för programvarureturperiod och förfallomeddelande om nedladdningslänk](2021-april.md#8)|21 april|
-|Utveckla din verksamhet|[Open Licensing Program: Övergångsåterförsäljare till Molnlösningsleverantör (CSP)-programmet](2021-april.md#7)|Den 19 april|
+|Utveckla din verksamhet|[Open Licensing Program: Övergångsåterförsäljare till Molnlösningsleverantör (CSP)](2021-april.md#7)|Den 19 april|
 |Funktioner|[Nu live: Guide för global kampanjberedskap](2021-april.md#6)|Den 16 april|
 |Community: Inbjudningar och påminnelser|[Communityuppdatering Molnlösningsleverantör april Molnlösningsleverantör CSP) och påminnelser](2021-april.md#5)|Den 16 april|
 |Funktioner|[Påminnelse: Utfasning av GET-kvalificering den 4 maj 2021](2021-april.md#4)|9 april|
@@ -122,7 +122,7 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 |Funktioner|[Migrera dina lösningar från EN kommersiell partner (OCP) till Microsofts kommersiella marknadsplats](2021-march.md#6)|Den 12 mars|
 |Funktioner|[Utöka den nya handelsupplevelsen i programmet Molnlösningsleverantör (CSP) för Azure till Ryssland](2021-march.md#5)|Den 10 mars|
 |Funktioner|[Partnercenter– programvarulicensnyckel och hämtningsuppfyllelse](2021-march.md#4)|5 mars|
-|Funktioner|[Migrera dina avtal från Partner Sales Anslut (PSC) till PartnerCenter](2021-march.md#3)|5 mars|
+|Funktioner|[Migrera dina avtal från Partner Sales Anslut (PSC) till Partner Center](2021-march.md#3)|5 mars|
 |Funktioner|[Nya Microsoft Dynamics 365-produkter och -erbjudanden är tillgängliga den 1 april 2021](2021-march.md#2)|4 mars|
 |Funktioner|[Microsoft Universell utskrift nu tillgängligt i vissa paket](2021-march.md#1)|Den 3 mars|
 |**Kategori**|**Meddelanden i februari 2021**|**Meddelande**|

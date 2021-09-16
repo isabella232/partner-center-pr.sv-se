@@ -14,7 +14,7 @@ ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/16/2021
-ms.locfileid: "127886277"
+ms.locfileid: "127894140"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Gå med i Cloud Solution Provider-programmet
 
@@ -129,7 +129,7 @@ Om du är en indirekt leverantör, partner för direktfakturering eller indirekt
 - Venezuela
 - Vietnam
 
-Mer information finns i Informationen [om registrerings-ID-nummer](reg-number-id.md)
+Mer information finns i Informationen om [registrerings-ID-nummer](reg-number-id.md)
 
 ## <a name="next-steps"></a>Nästa steg
 

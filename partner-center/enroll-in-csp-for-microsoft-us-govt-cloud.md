@@ -15,7 +15,7 @@ ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/16/2021
-ms.locfileid: "127886181"
+ms.locfileid: "127894122"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Registrera dig i Molnlösningsleverantör för Microsoft Cloud for US Government
 
@@ -23,7 +23,7 @@ ms.locfileid: "127886181"
 
 **Lämpliga roller:** Global administratör
 
-Microsoft-partner kan nu sälja Microsofts molnlösningar och tjänster till amerikanska federala, statliga, lokala och stamägda entiteter via Molnlösningsleverantör-programmet (CSP) för Microsoft Cloud for US Government.
+Microsoft-partner kan nu sälja Microsofts molnlösningar och tjänster till amerikanska federala, statliga, lokala och stamentiteter via Molnlösningsleverantör-programmet (CSP) för Microsoft Cloud for US Government.
 
 Microsoft Cloud for US Government en privat, dedikerad och isolerad instans av Microsoft Azure som uppfyller amerikanska myndigheters krav på datasäkerhet, sekretess och efterlevnad. Ditt företag måste uppfylla Microsofts behörighetskrav för att delta i CSP-programmet för Microsoft Cloud for US Government. Mer information finns i [Partnercenter för Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md).
 
@@ -61,7 +61,7 @@ Om du vill skapa ett Partnercenter-konto och registrera dig i CSP för Microsoft
 
 1. Logga in på Partnercenter för Microsoft Cloud for US Government via länken i e-postmeddelandet om programgodkännande.
 
-2. På sidan **Avtal** läser du villkoren och om du godkänner väljer du **Godkänn** och fortsätter att digitalt signera återförsäljaravtalet för Microsoft Cloud for US Government. Det kan ta flera timmar att skapa ditt konto. Du kan logga ut från Partnercenter för Microsoft Cloud for US Government och sedan logga in igen senare.
+2. På sidan **Avtal** läser du villkoren och om  du godkänner väljer du Godkänn och fortsätter att digitalt signera återförsäljaravtalet för Microsoft Cloud for US Government. Det kan ta flera timmar att skapa ditt konto. Du kan logga ut från Partnercenter för Microsoft Cloud for US Government och sedan logga in igen senare.
 
 ### <a name="step-4---assign-users-to-the-admin-agent-role-in-the-microsoft-azure-admin-portal-for-microsoft-cloud-for-us-government"></a>Steg 4 – Tilldela användare rollen Administratörsagent i Microsoft Azure administratörsportalen för Microsoft Cloud for US Government
 
