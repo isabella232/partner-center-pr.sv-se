@@ -13,8 +13,8 @@ ms.openlocfilehash: dc2d52dd444168b32f0cadaeccec1e6d906348d1
 ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "127828308"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127877027"
 ---
 # <a name="introduction-new-commerce-promotions"></a>Introduktion: Nya handelskampanjer
 

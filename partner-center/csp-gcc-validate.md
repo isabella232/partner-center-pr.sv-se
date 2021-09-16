@@ -13,27 +13,27 @@ ms.openlocfilehash: 0c28e7af93f227ba432ef6d78b84b3150de43d9e
 ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "127828274"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127876721"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Office 365 för myndigheter GCC för berättigandekriterier för CSP-partner och kund
 
-**Lämpliga roller:** Globala | Administratörsagent | Försäljningsagent
+**Lämpliga roller:** Globala | Administratörsagentens | Försäljningsagent
 
 >[!NOTE]
 >Valideringsprocessen och kriterierna som beskrivs nedan är specifika för direktfaktureringspartner. Partner för direktfakturering omfattar direkta återförsäljare och indirekta leverantörer.  Om du är en indirekt återförsäljare kan du arbeta med din indirekta leverantör.
 
-Om du är intresserad av att ha ditt företag (eller din kunds företag) godkänt för Office 365 för myndigheter GCC för CSP kan du granska kraven nedan.
+Om du är intresserad av att få ditt företag (eller kundens företag) godkänt för Office 365 för myndigheter GCC CSP kan du läsa kraven nedan.
 
 Du kan godkännas om du är en partner som betjänar amerikanska federala, statliga, lokala eller stamägda myndigheter. Om du vill att organisationens behörighet ska verifieras fyller du i det korta formuläret Berätta om din [*CSP-partnerorganisation för direkt csp.*](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner)
 
 Din kund kan godkännas om de är en organisation som hanterar myndighetskontrollerade data, eller om de är en amerikansk federal, delstats- eller lokal myndighetsentitet. Om du vill att dina kunders organisationers berättigande ska valideras fyller du i det korta formuläret Berätta [*om din CSP-partnerorganisation för direkt csp.*](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer)
 
-- Din organisation måste vara [registrerad i](https://partnercenter.microsoft.com/partner/cloud-solution-provider) Molnlösningsleverantör-programmet eftersom det är ett krav för att godkännas för Office 365 för myndigheter GCC för CSP.
+- Din organisation måste [vara registrerad i](https://partnercenter.microsoft.com/partner/cloud-solution-provider) Molnlösningsleverantör-programmet eftersom det är en förutsättning för att godkännas för Office 365 för myndigheter GCC för CSP.
 - [*Office 365 för myndigheter GCC för CSP-partner*](https://go.microsoft.com/fwlink/?linkid=2007323) och stegvis guide för kundvalidering är en valideringsprocessguide för Office 365 för myndigheter GCC för CSP.
 - Kontakta [RSC Support Escalations om](mailto:usgcce@microsoft.com) du vill ha fler verifieringsfrågor eller frågor.
 
-Office 365 för myndigheter GCC för CSP-partner och kunder valideras för berättigande baserat på att uppfylla specifika kriterier som beskrivs nedan.
+Office 365 för myndigheter GCC för CSP-partner och kunder verifieras för berättigande baserat på att uppfylla specifika kriterier som beskrivs nedan.
 
 **Partnerkriterier**
 

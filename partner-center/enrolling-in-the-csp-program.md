@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 08/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
-description: Lär dig hur du registrerar dig i den Molnlösningsleverantör-programförsäljningsmodell (CSP) som passar bäst för din verksamhet, till exempel indirekt återförsäljare eller direktfaktureringspartner.
+description: Lär dig hur du registrerar dig i den Molnlösningsleverantör-programförsäljningsmodell (CSP) som är bäst för din verksamhet, till exempel indirekt återförsäljare eller direktfaktureringspartner.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 498148f661a728979073ea43e3c186f2f0bb5ae6
-ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/16/2021
-ms.locfileid: "127862365"
+ms.locfileid: "127877010"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Gå med i Cloud Solution Provider-programmet
 
@@ -45,7 +45,7 @@ För att slutföra CSP-programmet behöver du företagets MPN-ID, fullständiga 
 5. När vi har verifierat din information godkänner du villkoren för den indirekta Microsoft-återförsäljaren.
 
 > [!IMPORTANT]  
-> En partner i CSP-programmet kan inte sälja onlinetjänster en annan partner i CSP-programmet för närvarande. Den här begränsningen gäller endast för den klientorganisation som används för att utföra CSP-transaktioner. CSP-partner som använder en icke-CSP-klient för företagsanvändning kan köpa onlinetjänster en annan CSP-partner. Microsoft granskar kontinuerligt principer och funktioner i alla program. Alla nyheter om funktions- eller principändringar kommer att meddelas via de vanliga kommunikationskanalerna, inklusive [Partner Center-meddelanden.](announcements/index.md)
+> En partner i CSP-programmet kan för närvarande inte sälja onlinetjänster till en annan partner i CSP-programmet. Den här begränsningen gäller endast för den klientorganisation som används för att utföra CSP-transaktioner. CSP-partner som använder en icke-CSP-klient för företagsanvändning kan köpa onlinetjänster en annan CSP-partner. Microsoft granskar kontinuerligt principer och funktioner i alla program. Alla nyheter om funktions- eller principändringar kommer att meddelas via de vanliga kommunikationskanalerna, inklusive [Partner Center-meddelanden.](announcements/index.md)
 
 ## <a name="enroll-as-an-indirect-reseller"></a>Registrera dig som en indirekt återförsäljare
 
@@ -63,7 +63,7 @@ Olika indirekta leverantörer erbjuder olika support och tjänster, så du bör 
 
 Om du inte redan arbetar med en leverantör (även kallat distributör) kan du söka i listan över officiella [Microsoft-leverantörer för](https://partnercenter.microsoft.com/partner/find-a-provider) att hitta en.
 
-Mer information om vad som krävs för att delta i CSP-programmet som en indirekt återförsäljare finns i Kom [igång](https://partner.microsoft.com/cloud-solution-provider/whats-required) som en indirekt återförsäljare [på Microsoft Partner Network webbplats.](https://partner.microsoft.com/)
+Mer information om vad som krävs för att delta i CSP-programmet som en indirekt återförsäljare finns i Kom [igång](https://partner.microsoft.com/cloud-solution-provider/whats-required) som en indirekt återförsäljare [på Microsoft Partner Network webbplats](https://partner.microsoft.com/).
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>Registrera dig som en partner för direktfakturering
 
@@ -129,7 +129,7 @@ Om du är en indirekt leverantör, partner för direktfakturering eller indirekt
 - Venezuela
 - Vietnam
 
-Mer information finns i Informationen om [registrerings-ID-nummer](reg-number-id.md)
+Mer information finns i Informationen [om registrerings-ID-nummer](reg-number-id.md)
 
 ## <a name="next-steps"></a>Nästa steg
 

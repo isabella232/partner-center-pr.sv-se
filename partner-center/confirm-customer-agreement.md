@@ -1,6 +1,6 @@
 ---
 title: Så här bekräftar du att kunden har godkänt Microsoft-kundavtal till CSP-programmet
-description: Molnlösningsleverantör (CSP)-partner måste bekräfta kundens godkännande av Microsoft-kundavtal innan de beställer Microsoft-tjänster för kunder.
+description: Molnlösningsleverantör partner (CSP) måste bekräfta kundens godkännande av Microsoft-kundavtal innan de beställer Microsoft-tjänster för kunder.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
@@ -14,7 +14,7 @@ ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/16/2021
-ms.locfileid: "127862416"
+ms.locfileid: "127872313"
 ---
 # <a name="how-to-confirm-that-your-customer-has-accepted-the-microsoft-customer-agreement-to-the-csp-program"></a>Så här bekräftar du att kunden har godkänt Microsoft-kundavtal till CSP-programmet
 
@@ -63,7 +63,7 @@ Du måste vara administratörsagent eller försäljningsagent för att göra det
 
 3. Under **Microsoft-kundavtal** väljer du **Uppdatera**.
 
-4. Ange **förnamn,** **efternamn,** **e-postadress** och **Telefon (valfritt)** för den person som godkände avtalet. Under **Godkännandedatum för avtalet** anger du lämpligt datum. Du kan inte ange detta till ett framtida datum.
+4. Ange **förnamn,** **efternamn,** **e-postadress** **och Telefon** (valfritt) för den person som godkände avtalet. Under **Godkännandedatum för avtalet** anger du lämpligt datum. Du kan inte ange detta till ett framtida datum.
 
 5. Välj **Spara** och fortsätt.
 
@@ -93,7 +93,7 @@ Du kan använda Partner Center API/SDK för att bekräfta kundens godkännande a
 
 ## <a name="option-2-customer-acceptance-in-microsoft-365-admin-center"></a>Alternativ 2: Kundgodkännande i Microsoft 365 Admin Center
 
-Partner kan bjuda in nya och befintliga kunder, via en URL, för att granska och godkänna avtalet i Microsoft 365 Admin Center. I följande avsnitt visas hur du:
+Partner kan bjuda in nya och befintliga kunder via en URL för att granska och godkänna avtalet i Microsoft 365 Admin Center. I följande avsnitt visas hur du:
 
 - Skapa en ny kund och bjud in kunden att granska och godkänna avtalet.
 
@@ -112,7 +112,7 @@ Använd följande steg för att skapa en ny kund i Partnercenter och sedan bjuda
 
 2. Under **Kontoinformation** anger du information om den nya kunden i alla obligatoriska fält, inklusive kundens företagsnamn och primära kontakt.
 
-3. Under **Kundavtal** väljer **du Customer will be to accept the Microsoft-kundavtal in Microsoft 365 Admin Center**. Fyll i alla andra obligatoriska fält på sidan.
+3. Under **Kundavtal** väljer du **Customer will be to accept the Microsoft-kundavtal in Microsoft 365 Admin Center**. Fyll i alla andra obligatoriska fält på sidan.
 
 4. Välj **Nästa: Granska och** fortsätt sedan stegen för att skapa kundklientorganisationen. 
 
@@ -145,13 +145,13 @@ Använd följande steg för att bjuda in en ny kund att granska och godkänna å
 
 3. Du kan anpassa den automatiskt genererade e-postmallen och sedan välja **Kopiera till Urklipp eller** Öppna i **e-post.**
 
-4. Använd den här e-postmallen för att bjuda in kunden **att** godkänna begäran om återförsäljarrelation och **Microsoft-kundavtal**. (Obs! I e-postbjudan kontrollerar du att partnern även innehåller den URL som angavs automatiskt samt de kundautentiseringsuppgifter som nyligen skapades.)
+4. Använd den här e-postmallen för att bjuda **in** kunden att godkänna begäran om återförsäljarrelation och **Microsoft-kundavtal**. (Obs! I e-postbjudan kontrollerar du att partnern även innehåller den URL som angavs automatiskt samt de kundautentiseringsuppgifter som nyligen skapades.)
 
    :::image type="content" source="images/mca/createrelationship.png" alt-text="skapa en relation.":::
 
 5. Kunden får inbjudan via e-post och klickar på den parametriserade URL:en. 
 
-6. Kunden använder de autentiseringsuppgifter som du anger i e-postmeddelandet för att logga Microsoft 365 Admin Center.
+6. Kunden använder de autentiseringsuppgifter du anger i e-postmeddelandet för att logga Microsoft 365 Admin Center.
 
 7. Kunden kontrollerar kryssrutan för att godkänna **återförsäljarrelationen** och **Microsoft-kundavtal**. 
 
@@ -187,21 +187,21 @@ Det finns två scenarier där kunder kanske inte kan godkänna Microsoft-kundavt
 
 **För att** lösa problemet måste du intyga för kundens räkning.
 
-:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Skärmbild av Microsoft 365 Admin Center-sidan där du uppmanas att kontakta din partner för att bekräfta godkännandet av Microsoft-kundavtal.":::
+:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Skärmbild av Microsoft 365 Admin Center där du uppmanas att kontakta din partner för att bekräfta godkännandet av Microsoft-kundavtal.":::
 
-**Scenario 2:** En befintlig kund har köpt något av följande erbjudanden, programvaru- och programvaruprenumerationer, reserverade instanser och Azure-plan. Kunden försöker nu göra ett nytt köp med en ny partner.
+**Scenario 2:** En befintlig kund har köpt något av följande erbjudanden, programvaru- och programvaruprenumerationer, reserverade instanser och Azure-plan. Kunden försöker nu göra ett nytt köp hos en ny partner.
 
-När kunden klickar på URL:en till Microsoft 365 Admin Center för att godkänna den nya partnerrelationen och avtalet får kunden meddelandet "Kontakta din partner för att bekräfta att du godkänner Microsoft-kundavtal".  
+När kunden klickar på URL:en till Microsoft 365 Admin Center för att godkänna den nya partnerrelationen och avtalet får de meddelandet "Kontakta din partner för att bekräfta att du godkänner Microsoft-kundavtal".  
 
 **För att** lösa problemet måste du intyga för kundens räkning.  
 
 ## <a name="confirm-that-a-customer-has-accepted-the-agreement"></a>Bekräfta att en kund har godkänt avtalet
 
-Om du försöker skapa en ny order för en befintlig kund som du inte har bekräftat tidigare får du en uppmaning om att slutföra bekräftelsen. Gör detta på följande sätt.
+Om du försöker skapa en ny order för en befintlig kund som du inte har bekräftat tidigare får du ett meddelande om att slutföra bekräftelsen. Gör detta på följande sätt.
 
-1. Ange **förnamn,** **efternamn,** **e-postadress** och **Telefon (valfritt)** för den användare som godkände avtalet.
+1. Ange **förnamn,** **efternamn,** **e-postadress** **och Telefon (valfritt)** för den användare som godkände avtalet.
 
-2. Under **Avtalets godkännandedatum** anger du lämpligt datum. Du kan inte ange detta till ett framtida datum.
+2. Under **Godkännandedatum för avtalet** anger du lämpligt datum. Du kan inte ange detta till ett framtida datum.
 
 3. Välj **Spara och fortsätt**. 
 
