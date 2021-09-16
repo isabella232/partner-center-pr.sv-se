@@ -10,11 +10,11 @@ ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/07/2021
 ms.openlocfilehash: 78cff330e2fc91ac3867874470b69c022927079e
-ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
+ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "127828358"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127862280"
 ---
 # <a name="partner-center-announcements"></a>Partnercenter-meddelanden
 
@@ -34,7 +34,7 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 |Utveckla din verksamhet|[Visa den här månadens produktlanseringar och erbjudanden](2021-september.md#2)| 1 september |
 |Utveckla din verksamhet|[Programvara i Microsoft China Molnlösningsleverantör-program (MCCL CSP) för att starta transaktioner från den 12 augusti](2021-september.md#1)| 1 september |
 |**Kategori**|**Augusti 2021-meddelanden**|**Meddelande**|
-|Funktioner|[Sekretesshantering för Microsoft 365 uppskjutningen är försenad](2021-august.md#20)| 31 augusti |
+|Funktioner|[Sekretesshantering för Microsoft 365 uppskjutningen är fördröjd](2021-august.md#20)| 31 augusti |
 |Funktioner|[Vi presenterar Windows Server 2022 allmän tillgänglighet i oktober](2021-august.md#19)| 26 augusti |
 |Funktioner|[Platsbaserade erbjudanden för integrerad sandbox-testning i den nya handelsupplevelsen](2021-august.md#18)| 25 augusti |
 |Utveckla din verksamhet|[Uppdatering av fakturastruktur för USA, Puerto Toronto och Kanada](2021-august.md#17)| 24 augusti |
@@ -42,7 +42,7 @@ Information om viktiga Partnercenter-uppdateringar. Vi uppdaterar den här infor
 |Funktioner|[Fas 2 är nu live: EU/EFTA och Storbritannien byter partnerfaktureringsvaluta för nya handelserbjudanden](2021-august.md#15)| 23 augusti |
 |Funktioner|[Ny handelsupplevelse för Microsoft 365, Dynamics 365, Power Platform och Windows 365-platsbaserad för bredd rörelse](2021-august.md#14)| 19 augusti |
 |Funktioner|[Uppdatera till våra kommersiella priser för Microsoft 365](2021-august.md#13)| 19 augusti |
-|Funktioner|[Community-Molnlösningsleverantör för augusti Molnlösningsleverantör (CSP) och påminnelser](2021-august.md#12)| 16 augusti |
+|Funktioner|[Community-Molnlösningsleverantör (CSP) för augusti och påminnelser](2021-august.md#12)| 16 augusti |
 |Utveckla din verksamhet|[Get Genuine Windows Avtalserbjudanden (GGWA) i Molnlösningsleverantör är tillfälligt otillgängliga](2021-august.md#11)| 16 augusti |
 |Erbjudanden/marknader|[Visa de senaste kampanjerna och erbjudandena](2021-august.md#10)| 10 augusti |
 |Funktioner|[Efterlevnadsövervakning via PAM-teamet (Partner Accountability Management)](2021-august.md#9)| 9 augusti |

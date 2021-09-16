@@ -4,47 +4,47 @@ titleSuffix: Microsoft Cloud for US Government - Partner Center
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
-description: Lär dig mer om CSP-programkrav för partner som vill registrera sig i Molnlösningsleverantör-programmet för Microsoft Cloud for US Government.
+description: Lär dig mer om CSP-programkrav för partner som vill registrera sig Molnlösningsleverantör program för Microsoft Cloud for US Government.
 author: mowrim
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
 ms.date: 10/05/2020
 ms.openlocfilehash: 78aab2c29a9c01b615112f08aba2f724c1d54812
-ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
+ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "127828257"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127862314"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Registrera dig i Molnlösningsleverantör för Microsoft Cloud for US Government
 
-**Gäller för**: Partner Center for Microsoft Cloud for US Government
+**Gäller för:** PartnerCenter för Microsoft Cloud for US Government
 
 **Lämpliga roller:** Global administratör
 
-Microsoft-partner kan nu sälja Microsofts molnlösningar och tjänster till amerikanska federala, statliga, lokala och stamentiteter via Molnlösningsleverantör-programmet (CSP) för Microsoft Cloud for US Government.
+Microsoft-partner kan nu sälja Microsofts molnlösningar och tjänster till amerikanska federala, statliga, lokala och stamägda entiteter via Molnlösningsleverantör-programmet (CSP) för Microsoft Cloud for US Government.
 
-Microsoft Cloud for US Government en privat, dedikerad och isolerad instans av Microsoft Azure som uppfyller amerikanska myndigheters krav på datasäkerhet, sekretess och efterlevnad. Ditt företag måste uppfylla Microsofts behörighetskrav för att delta i CSP-programmet för Microsoft Cloud for US Government. Mer information finns i [Partnercenter för Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md).
+Microsoft Cloud for US Government en privat, dedikerad och isolerad instans av Microsoft Azure som uppfyller den amerikanska statens krav på datasäkerhet, sekretess och efterlevnad. Ditt företag måste uppfylla Microsofts behörighetskrav för att kunna delta i CSP-programmet för Microsoft Cloud for US Government. Mer information finns i [Partnercenter för Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md).
 
 ## <a name="before-you-begin"></a>Innan du börjar
 
-Innan du kan registrera dig i CSP-programmet för Microsoft Cloud for US Government måste vi kontrollera att ditt företag uppfyller kraven för att sälja till amerikanska myndigheter. Innan du startar registreringsprocessen fyller du i formuläret [Microsoft Government Cloud Validation](https://azuregov.microsoft.com/csp) så att vi kan kontrollera berättigandet för ditt företag. När vi har verifierat berättigandet för ditt företag ger vi dig en Azure Active Directory (Azure AD) som är specifik för Microsoft Cloud for US Government.  
+Innan du kan registrera dig i CSP-programmet för Microsoft Cloud for US Government måste vi kontrollera att ditt företag uppfyller kraven för att sälja till amerikanska myndigheter. Innan du startar registreringsprocessen fyller du i formuläret [Microsoft Government Cloud Validation](https://azuregov.microsoft.com/csp) så att vi kan kontrollera berättigandet för ditt företag. När vi har verifierat berättigandet för ditt företag ger vi dig en Azure Active Directory (Azure AD)-klientorganisation som är specifik för Microsoft Cloud for US Government.  
 
 Om du vill skapa ett Partnercenter-konto och registrera dig i CSP för Microsoft Cloud for US Government måste du ange följande information (du kanske vill samla in den här informationen innan du startar registreringsprocessen):
 
-- Autentiseringsuppgifter för global administratör för din organisations nya Azure AD-klientorganisation för Microsoft Cloud for US Government
-- Din organisations id Microsoft Partner Network (MPN)
+- Autentiseringsuppgifter för global administratör för organisationens nya Azure AD-klientorganisation för Microsoft Cloud for US Government
+- Organisationens ID för Microsoft Partner Network (MPN)
 - En företagsadress i USA
 
 > [!IMPORTANT]  
 > Om du har ett befintligt konto i Partnercenter och vill registrera dig i CSP för Microsoft Cloud for US Government måste du skapa ett nytt separat konto som är specifikt för marknaden för amerikanska myndigheter.
 
-## <a name="how-to-enroll"></a>Registrera dig
+## <a name="how-to-enroll"></a>Så här registrerar du dig
 
 ### <a name="step-1---create-a-partner-center-account-for-microsoft-cloud-for-us-government"></a>Steg 1 – Skapa ett Partnercenter-konto för Microsoft Cloud for US Government
 
-1. Starta registreringsprocessen på [Välkommen till Partnercenter för Microsoft Cloud for US Government!](https://partnercenter.microsoft.com/register/resellerusgjoinnow).
+1. Starta registreringsprocessen på Välkommen [till Partnercenter för Microsoft Cloud for US Government!](https://partnercenter.microsoft.com/register/resellerusgjoinnow).
 
 2. Logga in med autentiseringsuppgifter för global administratör för din organisations Azure AD-klientorganisation för Microsoft Cloud for US Government. Om din organisation inte har något konto för den här portalen kan du begära ett genom att fylla i [formuläret Microsoft Government Cloud Validation](https://azuregov.microsoft.com/csp).
 
@@ -52,33 +52,33 @@ Om du vill skapa ett Partnercenter-konto och registrera dig i CSP för Microsoft
 
 1. Fyll i eventuell information som saknas i registreringsformuläret, inklusive ditt Microsoft Partner Network-ID och din organisations kundsupportinformation.
 
-2. Välj **Acceptera och fortsätt**. Det kan ta flera dagar att granska ditt program. Vi skickar dig ett e-postmeddelande när vi har slutfört vår granskning.
+2. Välj **Acceptera och fortsätt**. Det kan ta flera dagar att granska ditt program. Vi skickar ett e-postmeddelande till dig när vi har slutfört vår granskning.
 
    > [!IMPORTANT]
-   > Genom att välja Acceptera och fortsätta bekräftar du att du har behörighet att agera för organisationens räkning och du godkänner att Microsoft kör en kreditkontroll i bakgrunden innan du granskar organisationens Molnlösningsleverantör program.
+   > Genom att välja Acceptera och fortsätta bekräftar du att du har behörighet att agera för organisationens räkning och du samtycker till att tillåta Microsoft att köra en kreditkontroll i bakgrunden innan du granskar organisationens Molnlösningsleverantör program.
 
 ### <a name="step-3---sign-the-reseller-agreement-for-microsoft-cloud-for-us-government"></a>Steg 3 – Signera återförsäljaravtalet för Microsoft Cloud for US Government
 
-1. Logga in på Partnercenter för att Microsoft Cloud for US Government via länken i e-postmeddelandet om programgodkännande.
+1. Logga in på PartnerCenter för att Microsoft Cloud for US Government via länken i e-postmeddelandet om programgodkännande.
 
-2. På sidan **Avtal** läser du villkoren och om  du godkänner väljer du Godkänn och fortsätter att digitalt signera återförsäljaravtalet för Microsoft Cloud for US Government. Det kan ta flera timmar att skapa ditt konto. Du kan logga ut från Partnercenter för Microsoft Cloud for US Government och sedan logga in igen senare.
+2. På sidan **Avtal** läser du villkoren och om  du godkänner väljer du Godkänn och fortsätter att signera återförsäljaravtalet digitalt för Microsoft Cloud for US Government. Det kan ta flera timmar att skapa ditt konto. Du kan logga ut från Partnercenter för Microsoft Cloud for US Government och sedan logga in igen senare.
 
-### <a name="step-4---assign-users-to-the-admin-agent-role-in-the-microsoft-azure-admin-portal-for-microsoft-cloud-for-us-government"></a>Steg 4 – Tilldela användare rollen Administratörsagent i Microsoft Azure administratörsportalen för Microsoft Cloud for US Government
+### <a name="step-4---assign-users-to-the-admin-agent-role-in-the-microsoft-azure-admin-portal-for-microsoft-cloud-for-us-government"></a>Steg 4 – Tilldela användare rollen administratörsagent i Microsoft Azure administratörsportalen för Microsoft Cloud for US Government
 
-Microsoft Cloud for US Government tillhandahåller en separat instans av Microsoft Azure som uppfyller myndigheters efterlevnads-, säkerhets- och sekretessstandarder. Om du vill tillåta administratörer att hantera användare och licenser i Microsoft Azure portalen måste du tilldela administratörsagentrollen till dem manuellt.
+Microsoft Cloud for US Government en separat instans av Microsoft Azure som uppfyller myndigheters standarder för efterlevnad, säkerhet och sekretess. Om du vill tillåta administratörer att hantera användare och licenser i Microsoft Azure portalen måste du tilldela administratörsagentrollen till dem manuellt.
 
 > [!NOTE]
 > När du har tilldelar användare rollen Administratörsagent kan de komma åt din kundlista på **sidan Kunder** och lägga till [nya kunder.](add-a-new-customer.md)
 
-1. Logga in på Microsoft Azure administratörsportalen på [https://portal.azure.us/](https://portal.azure.us/) .
+1. Logga in på Microsoft Azure-administratörsportalen på [https://portal.azure.us/](https://portal.azure.us/) .
 
-2. Tilldela rollen Administratörsagent till lämpliga användare i din organisation. För att göra det måste du lägga till dessa användare i den inbyggda **AdminAgent-gruppen.** Se [Hantera medlemmar för en grupp i Azure Active Directory](/azure/active-directory/active-directory-groups-members-azure-portal) mer information.
+2. Tilldela rollen Administratörsagent till lämpliga användare i din organisation. För att göra det måste du lägga till dessa användare i den inbyggda **Gruppen AdminAgent.** Se [Hantera medlemmar för en grupp i Azure Active Directory](/azure/active-directory/active-directory-groups-members-azure-portal) mer information.
 
 ## <a name="connect-with-us"></a>Anslut till oss
 
-- Har du några frågor? Skicka ett e-postmeddelande till oss på azgovcsp@microsoft.com
+- Har du några frågor? Skicka e-post till oss på azgovcsp@microsoft.com
 
-- Gå med i [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777)
+- Gå med på [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777)
 
 ## <a name="next-steps"></a>Nästa steg
 

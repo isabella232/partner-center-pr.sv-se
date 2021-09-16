@@ -10,11 +10,11 @@ ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 03/24/2021
 ms.openlocfilehash: 205de1c852d263e79978358229f1365852872232
-ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
+ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "127828393"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127862416"
 ---
 # <a name="how-to-confirm-that-your-customer-has-accepted-the-microsoft-customer-agreement-to-the-csp-program"></a>Så här bekräftar du att kunden har godkänt Microsoft-kundavtal till CSP-programmet
 
@@ -63,7 +63,7 @@ Du måste vara administratörsagent eller försäljningsagent för att göra det
 
 3. Under **Microsoft-kundavtal** väljer du **Uppdatera**.
 
-4. Ange **förnamn,** **efternamn,** **e-postadress** **och Telefon** (valfritt) för den person som godkände avtalet. Under **Godkännandedatum för avtalet** anger du lämpligt datum. Du kan inte ange detta till ett framtida datum.
+4. Ange **förnamn,** **efternamn,** **e-postadress** och **Telefon (valfritt)** för den person som godkände avtalet. Under **Godkännandedatum för avtalet** anger du lämpligt datum. Du kan inte ange detta till ett framtida datum.
 
 5. Välj **Spara** och fortsätt.
 
@@ -71,7 +71,7 @@ Du måste vara administratörsagent eller försäljningsagent för att göra det
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>Hämta bekräftelse av kundgodkännande
 
-Använd följande steg för att hämta en bekräftelse Microsoft-kundavtal en befintlig kund har accepterat den. Du måste vara administratörsagent eller försäljningsagent för att göra detta.
+Använd följande steg för att hämta en bekräftelse Microsoft-kundavtal en befintlig kund har accepterat Microsoft-kundavtal. Du måste vara administratörsagent eller försäljningsagent för att göra detta.
 
 1. Välj **Kunder** och leta upp och välj sedan den kund som du vill se.
 
@@ -199,7 +199,7 @@ När kunden klickar på URL:en till Microsoft 365 Admin Center för att godkänn
 
 Om du försöker skapa en ny order för en befintlig kund som du inte har bekräftat tidigare får du en uppmaning om att slutföra bekräftelsen. Gör detta på följande sätt.
 
-1. Ange **förnamn,** **efternamn,** **e-postadress** **och Telefon (valfritt)** för den användare som godkände avtalet.
+1. Ange **förnamn,** **efternamn,** **e-postadress** och **Telefon (valfritt)** för den användare som godkände avtalet.
 
 2. Under **Avtalets godkännandedatum** anger du lämpligt datum. Du kan inte ange detta till ett framtida datum.
 
