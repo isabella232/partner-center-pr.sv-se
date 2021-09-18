@@ -9,15 +9,15 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.openlocfilehash: 6f70a4a30346c6ef82e36c414559da6e79a373e0
-ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "127898370"
+ms.lasthandoff: 09/17/2021
+ms.locfileid: "127906357"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Visa tillgängliga intjänade, påförde och återstående co-op-medel
 
-**Lämpliga roller:**| Incitamentsanvändare
+**Lämpliga roller:** Incitamentsadministratörsroller | Incitamentsanvändare
 
 Du kan spåra, övervaka och stämma av incitaments-co-op-medel på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/) (inloggning krävs). Använd följande procedur för att visa dessa medel.
 

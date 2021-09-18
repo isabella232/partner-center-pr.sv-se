@@ -15,8 +15,8 @@ ms.openlocfilehash: f34234bebb8353315029eaab76aa52cb30df6e6a
 ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "127894038"
+ms.lasthandoff: 09/17/2021
+ms.locfileid: "127906322"
 ---
 # <a name="september-2021-announcements"></a>Meddelanden september 2021
 
@@ -69,7 +69,7 @@ Granska resurserna [om](https://partner.microsoft.com/resources/collection/deleg
 
 ### <a name="summary"></a>Sammanfattning
 
-Nyhetsbrevet [Molnlösningsleverantör CSP (CSP)](https://partner.microsoft.com/resources/detail/csp-monthly-update-september-2021-global) är nu tillgängligt tillsammans med ytterligare [CSP-communityresurser](https://partner.microsoft.com/resources/collection/september-2021-csp-partner-community-content#/) som ger dig viktiga programuppdateringar.
+Det [Molnlösningsleverantör månadsuppdateringsbrevet (CSP)](https://partner.microsoft.com/resources/detail/csp-monthly-update-september-2021-global) är nu tillgängligt, tillsammans med ytterligare [CSP-communityresurser](https://partner.microsoft.com/resources/collection/september-2021-csp-partner-community-content#/) som ger dig viktiga programuppdateringar.
 
 ### <a name="impacted-audience"></a>Målgrupp som påverkas
 
@@ -115,7 +115,7 @@ Granska community-resurserna och registrera dig för Q&A community call (Q&A com
 
 ### <a name="questions"></a>Har du några frågor?
 
-Det månatliga CSP-communityn Q&Ett anrop är den bästa platsen för att ställa frågor om driftsförändringar i CSP-programmet. Du kan [skicka en fråga](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzrhg6eBq-tPjJzqc4xPoxdUQU1WQklGNDZBNVJaRkMxUDVJVUxHSkNXWS4u) upp till 48 timmar före samtalet. Alla startrelaterade frågor besvaras i anropet och/eller i Q&A-dokumentet som publicerats efter anropet. Du kan besöka förra månadens [community-samling](https://partner.microsoft.com/resources/collection/august-2021-csp-partner-community-content#/) och granska Q&A-dokumentet som publicerades efter augustihändelsen.
+Det månatliga CSP-communityn Q&Ett anrop är den bästa platsen för att ställa frågor om driftsförändringar i CSP-programmet. Du kan [skicka en fråga](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzrhg6eBq-tPjJzqc4xPoxdUQU1WQklGNDZBNVJaRkMxUDVJVUxHSkNXWS4u) upp till 48 timmar före samtalet. Alla startrelaterade frågor besvaras i anropet och/eller i Q&Ett dokument som publicerats efter anropet. Du kan besöka förra månadens [community-samling](https://partner.microsoft.com/resources/collection/august-2021-csp-partner-community-content#/) och granska Q&A-dokumentet som publicerades efter augustihändelsen.
 
 Har du frågor om något annat CSP-ämne? Besök [supportsidan för Partnercenter.](https://partner.microsoft.com/support/?stage=1)
 
@@ -163,7 +163,7 @@ Viktiga artiklar för den här månaden är:
 - [Referenshantering i Partnercenter](https://partner.microsoft.com/resources/detail/referral-management-in-partner-center-pptx)
 - [Dela avtal för säljförsäljning i stor skala med hjälp av funktionen för massåtgärder i Partnercenter](./2021-february.md#13)
 - [Ökad flexibilitet med partnerledda samförsäljningserbjudanden](./2021-february.md#11)
-- [Hämta referens Insights i Partnercenter](../referral-insights.md)
+- [Hämta hänvisnings Insights i Partnercenter](../referral-insights.md)
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -171,7 +171,7 @@ Granska [communityresurserna och](https://partner.microsoft.com/resources/collec
 
 ### <a name="questions"></a>Har du några frågor?
 
-Q&A community call är den bästa platsen för att ställa frågor om operativa ändringar. Du kan [skicka en fråga](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzrhg6eBq-tPjJzqc4xPoxdUQU1WQklGNDZBNVJaRkMxUDVJVUxHSkNXWS4u) i upp till 48 timmar före anropet. Alla startrelaterade frågor besvaras i anropet och/eller i Q&A-dokumentet som publicerats efter anropet.  
+Q&A community call är den bästa platsen för att ställa frågor om operativa ändringar. Du kan [skicka en fråga](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzrhg6eBq-tPjJzqc4xPoxdUQU1WQklGNDZBNVJaRkMxUDVJVUxHSkNXWS4u) i upp till 48 timmar före anropet. Alla startrelaterade frågor besvaras i anropet och/eller i Q&Ett dokument som publicerats efter anropet.  
 
 Om du har frågor om andra ämnen kan du besöka [supportsidan för Partnercenter.](https://partner.microsoft.com/support/?stage=1)
 
@@ -253,7 +253,7 @@ Prislistorna för permanent programvara och programvaruprenumerationer som publi
 
 ### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Indirekta leverantörer och direktfaktureringspartner som överför permanenta programvaru- och programvaruprenumerationer i Molnlösningsleverantör program i Ryssland.
+Indirekta leverantörer och direktfaktureringspartner som överför permanenta programvaru- och programvaruprenumerationer i Molnlösningsleverantör i Ryssland.
 
 ### <a name="details"></a>Information
 
@@ -274,7 +274,7 @@ _____________
 
 ### <a name="summary"></a>Sammanfattning
 
-Prislistan för september och förhandsgranskningen i oktober hade ett felaktigt listpris för Microsoft 365 Business Basic i USD.
+Septemberprislistan och oktoberförhandsvisningen hade ett felaktigt listpris för Microsoft 365 Business Basic i USD.
 
 ### <a name="categories"></a>Kategorier
 
@@ -283,7 +283,7 @@ Prislistan för september och förhandsgranskningen i oktober hade ett felaktigt
 
 ### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Indirekta leverantörer och direktfaktureringspartner som överför licensbaserade tjänster i Molnlösningsleverantör program.
+Indirekta leverantörer och direktfaktureringspartner som använder licensbaserade tjänster i Molnlösningsleverantör program.
 
 ### <a name="details"></a>Information
 
@@ -358,7 +358,7 @@ Saker att tänka på om det nya Intune-erbjudandet per enhet:
 - Det är endast tillgängligt för CPS och inte tillgängligt i Volymlicensiering eller Web Direct.
 - Kostnaden är 150 USD (USD/ERP) för en femårsprenumeration.
 - Erbjudande-ID: 5170ccfb-e95b-49a4-b7f3-31f631a356ba
-- Det fungerar som det ska för alla Windows som tilldelats en enda autentiserad användare.
+- Det fungerar som det ska för alla Windows som tilldelats till en enda autentiserad användare.
 - Erbjudandet omfattar inte enhetsbaserad villkorlig åtkomst.  
 
 ### <a name="questions"></a>Frågor
@@ -384,10 +384,10 @@ CSP:s direktfaktureringspartner och indirekta leverantörer och återförsäljar
 
 ### <a name="details"></a>Information
 
-Den 19 augusti 2021 presenterade [Microsoft](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers-pdf) den nya handelsupplevelsen för Microsoft 365, Dynamics 365, Power Platform och Windows 365-platsbaserade erbjudanden för bredd rörelse som kommer i oktober 2021. Som en uppföljning till det här tillkännagivandet har vi följande viktiga uppdateringar som hjälper din organisation att förbereda för den här omvandlingen:
+Den 19 augusti 2021 presenterade [Microsoft](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers-pdf) den nya handelsupplevelsen för Microsoft 365, Dynamics 365, Power Platform och Windows 365-baserade erbjudanden för bredd i oktober 2021. Som en uppföljning till det här tillkännagivandet har vi följande viktiga uppdateringar som hjälper din organisation att förbereda för den här omvandlingen:
 
 - Lansering av platsbaserade erbjudanden för integrerad sandbox-testning
-- Påminnelse om kommande CSP Q&A-anrop i september
+- Påminnelse för kommande CSP Q&A-anrop i september
 - Microsoft Commerce Incitamentprogram
 
 #### <a name="launch-of-seat-based-offers-for-integrated-sandbox-testing"></a>Lansering av platsbaserade erbjudanden för integrerad sandbox-testning
@@ -422,7 +422,7 @@ Tabellen innehåller en sammanfattning av de viktigaste funktionerna som är til
 
 #### <a name="reminder-for-upcoming-csp-qa-calls-in-september"></a>Påminnelse för kommande CSP Q&A-anrop i september
 
-Registrera dig för kommande [CSP Q&A Community Calls](https://globalpbocomm.eventbuilder.com/GlobalCSP) den 15 september och 16 september för att lära dig och ställa frågor om den nya handelsupplevelsen för Microsoft 365, Dynamics 365, Power Platform och Windows 365-baserade erbjudanden för bredd rörelse som kommer i oktober 2021. CSP Community Q&A-anrop är dedikerade för att hjälpa CSP-direktfakturering och indirekta partner med frågor som rör CSP-uppskjutningar och kommande ändringar. För att underlätta för dig görs community-samlingar tillgängliga i förväg i [galleriet med partnerberedskap,](https://partner.microsoft.com/resources/assets/#/?prog=CSP%7CCSP-Direct%7CCSP-Indirect-Partner&type=collection&search=community%20collection%202021&sort=updated) där du kan granska material som diskuteras i Q&A call (Frågor och svar-anrop).
+Registrera dig för kommande [CSP Q&A Community Calls](https://globalpbocomm.eventbuilder.com/GlobalCSP) den 15 september och 16 september för att lära dig och ställa frågor om den nya handelsupplevelsen för Microsoft 365, Dynamics 365, Power Platform och Windows 365 seat-based offers for breadth motion som kommer i oktober 2021. CSP Community Q&A-anrop är dedikerade för att hjälpa CSP-direktfakturering och indirekta partner med frågor som rör CSP-uppskjutningar och kommande ändringar. För att underlätta för dig görs community-samlingar tillgängliga i förväg i [galleriet för partnerberedskap,](https://partner.microsoft.com/resources/assets/#/?prog=CSP%7CCSP-Direct%7CCSP-Indirect-Partner&type=collection&search=community%20collection%202021&sort=updated) där du kan granska material som diskuteras i Q&A call (Frågor och svar-anrop).
 
 Om du vill delta i och/eller hitta tidigare inspelningar av CSP Fundamentals-anrop kan du gå till [registrering av grunderna för CSP.](https://globalpbocomm.eventbuilder.com/CSPFundamentals)
 
@@ -448,7 +448,7 @@ Den 1 september 2021 har Microsoft informerat partner om nästa steg i utvecklin
 
 - Registrera dig för kommande [CSP Q&A Community Calls](https://globalpbocomm.eventbuilder.com/GlobalCSP) den 15 september eller 16 september.
 - Granska den nya handelsupplevelsen för CSP-platsbaserade erbjudanden [för](https://partner.microsoft.com/resources/collection/new-commerce-experience-for-csp-seat-based-offers#/) den här lanseringen.
-- Delta i CSP Q&A Community Call och ställ frågor som din organisation har angående den nya handelsupplevelsen för Microsoft 365, Dynamics 365, Power Platform och Windows 365 seat-baserade för bredd och rörelse.
+- Delta i CSP Q&A Community Call och ställ frågor som din organisation har angående den nya handelsupplevelsen för Microsoft 365, Dynamics 365, Power Platform och Windows 365-platsbaserad för bredd och rörelse.
 
 #### <a name="microsoft-commerce-incentive-program"></a>Incitamentprogram för Microsoft Commerce
 
@@ -474,7 +474,7 @@ Produktlanseringskalendern för september 2021 har nu publicerats.
 
 ### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Alla partner som gör en Molnlösningsleverantör via CSP-programmet
+Alla partner som gör en Molnlösningsleverantör (CSP)
 
 ### <a name="details"></a>Information
 
@@ -521,7 +521,7 @@ MCCL CSP-programpartner
 
 #### <a name="software-assurance-sa-purchases"></a>Software Assurance (SA)
 
-- SA-erbjudanden med Open License (L&SA) fortsätter att vara tillgängliga i Open Value (OV) och Open Value Subscription (OVS). Varken SA eller L&SA är dock tillgängliga i MCCL CSP-programmet eftersom det inte finns någon plan för att erbjuda detta i MCCL CSP.
+- SA-erbjudanden med Open License (L&SA) fortsätter att vara tillgängliga i Open Value (OV) och Open Value Subscription (OVS). Men varken SA eller L&SA är tillgängliga i MCCL CSP-programmet eftersom det inte finns någon plan för att erbjuda detta i MCCL CSP.
 
 - SA-förmånerna fortsätter tills SA-perioden upphör att gälla, även om giltighetstiden infaller efter den 1 januari 2022.
 
