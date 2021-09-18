@@ -9,11 +9,11 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.date: 09/08/2021
 ms.openlocfilehash: 96106dd84d4889c9165daf41385d1092361101c4
-ms.sourcegitcommit: 90c87bd5e63a8af932ece5696267ea715fea6a01
+ms.sourcegitcommit: 5abf065c8852a858a0aa7185176d3e117f2be7e5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "127900448"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "127958903"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guide till säljpartner i Partnercenter (PC) för partner som migrerar från Partner Sales Anslut (PSC)
 
@@ -126,7 +126,7 @@ Ibland kan migreringen misslyckas och resultera i fel. Här är några orsaker t
       Den globala administratören kan antingen skapa ett nytt användarkonto i din Azure AD-klientorganisation eller tilldela gästanvändaråtkomst till de andra domänkontoanvändarna. När kontona har ställts in för alla PSC-avtalshanterare och -användare måste de logga in på Partnercenter, välja Referenser på den vänstra **navigeringsmenyn** och bekräfta att de kan se sidan Referenser.
 
 3. Användaren har redan en referensroll tilldelad i Partnercenter.
-    - Du kan verifiera användarens befintliga roll. I det övre högra hörnet i Partnercenter väljer du **Inställningar** (kugghjulsikonen) och sedan **Kontoinställningar**. När du ser en andra vänster navigeringsmeny väljer **du Användarhantering** och söker efter användaren.
+    - Du kan verifiera användarens befintliga roll. I det övre högra hörnet i Partnercenter väljer **du Inställningar** (kugghjulsikonen) och sedan **Kontoinställningar**. När du ser en andra vänster navigeringsmeny väljer **du Användarhantering** och söker efter användaren.
 
 ## <a name="psc-deals-migration"></a>Migrering av PSC-avtal
 
@@ -221,59 +221,59 @@ Det här är ett viktigt steg som hjälper dig att förbereda dig för samförs�
 |Avtalstilldelning|Endast en tilldelad säljare kan visa och agera på affärerna.|Gruppmedlemmar kan läggas till i ett avtal för att ange vilka personer som arbetar med ett avtal, det finns ingen blockering av andra hänvisningsadministratörer från att visa eller agera på dessa avtal.|
 |Kundorganisation|Fritextpost.|Du kan söka i [kundorganisationen](manage-co-sell-opportunities.md#select-your-customer) mot [D-&B-databasen](https://www.dnb.com/) genom att bara skriva några tecken. Det juridiska namnet och adressen fylls i automatiskt baserat på valet.|
 |Kundkontakt|Inte obligatoriskt.|Inte obligatoriskt för delning av privata pipelines. Krävs om Microsoft-säljare bjuds in att delta i en begäran om säljförsäljning.|
-|Offentligt API|Inte tillgängligt.|[Offentligt API](/partner/develop/referrals) för att programmatiskt hantera Partner Center-referenser.|
+|Offentligt API|Inte tillgängligt.|[Offentligt API](/partner/develop/referrals) för att programmatiskt hantera partnercenterreferenser.|
 
 ## <a name="map-the-fields-in-psc-to-the-corresponding-fields-in-partner-center"></a>Mappa fälten i PSC till motsvarande fält i Partnercenter
 
-I det här avsnittet jämförs (eller "kartor") valda skärmbilder som visas för PSC med motsvarande vy i avsnittet Möjligheter till säljförsäljning i Partnercenter.
+I det här avsnittet jämförs (eller "kartor") valda skärmbilder som visas för PSC med motsvarande vy i avsnittet Möjligheter till samförsäljning i Partnercenter.
 
 Du ser numrerade, gula eller röda cirklar på varje par av skärmbilder:
 
-- **Vad betyder gula cirklar?** Numrerade gula cirklar visas först på varje PSC-skärmbild. Du hittar sedan en tillhörande Partner Center-skärmbild under den med många av samma siffror.
+- **Vad betyder gula cirklar?** Numrerade gula cirklar visas först på varje PSC-skärmbild. Du hittar sedan en tillhörande Partnercenter-skärmbild under den med många av samma siffror.
 
-   Om du vill se hur varje fält eller attribut i PSC mappar till sin motsvarighet i Partnercenter, matchar du de numrerade cirklarna tillsammans i de två relaterade skärmbilderna. Matcha till exempel den numrerade, gula "1" i den första, PSC-skärmbilden till den numrerade, gula "1" i den andra, PartnerCenter-skärmbilden under den.
+   Om du vill se hur varje fält eller attribut i PSC mappar till sin motsvarighet i Partnercenter, matchar du de numrerade cirklarna tillsammans i de två relaterade skärmbilderna. Matcha till exempel den numrerade, gula "1" i den första PSC-skärmbilden med den numrerade, gula "1" i den andra, partnercenter-skärmbilden nedanför.
 
-- **Vad betyder en röd cirkel?** Om du ser en röd cirkel på en skärmbild indikerar det att PSC-fältet inte är tillgängligt i Partnercenter.
+- **Vad betyder en röd cirkel?** Om du ser en röd cirkel på en skärmbild innebär det att PSC-fältet inte är tillgängligt i Partnercenter.
 
 Fältmappningar för PSC-till-Partner Center visas för följande områden:
 
 1. PSC-startsida mappad till standardvyn för möjligheter till säljförsäljning i Partnercenter
 1. PSC-rutnätsvy mappad till partnercenter-avtalsvyn
 1. Vy över PSC-avtalsinformation som är mappad till partnercenter-avtalsinformationsvyn
-1. PSC-vyn Lägg till produkter mappad till Vyn Lägg till lösningar i Partnercenter
+1. PSC-vyn Lägg till produkter mappad till vyn Lägg till lösningar i Partnercenter
 1. PSC-användarhanteringsvy mappad till användarhanteringsvyn i Partnercenter
-1. Vy för PSC-användarrolltilldelning mappad till rolltilldelningsvyn i Partnercenter
+1. Vy för PSC-användarrolltilldelning mappad till vyn För Partnercenter-rolltilldelning
 1. Vy för PSC-meddelanden som är mappad till meddelandevyn i Partnercenter
 
-### <a name="1---psc-home-page-mapped-to-the-partner-center-co-sell-opportunities-default-view"></a>1 – PSC-startsidan mappad till standardvyn för möjligheter till säljförsäljning i Partnercenter
+### <a name="1---psc-home-page-mapped-to-the-partner-center-co-sell-opportunities-default-view"></a>1 – PSC-startsidan mappas till standardvyn för möjligheter till säljförsäljning i Partnercenter
 
-Jämför matchande numrerade cirklar mellan den översta PSC-skärmbilden och Partnercenter-skärmbilden under den. Matchande siffror visar var du hittar den PSC-relaterade funktionen eller attributet i Partnercenter. Röda cirklar visar att det inte finns något matchande PartnerCenter-fält.  
+Jämför matchande numrerade cirklar mellan den översta PSC-skärmbilden och Partnercenter-skärmbilden under den. Matchande tal visar var du hittar den PSC-relaterade funktionen eller attributet i Partnercenter. Röda cirklar visar att det inte finns något matchande Partnercenter-fält.  
 
-:::image type="content" source="images/pscmigration/homepage.png" alt-text="Bild som visar fältmappningarna mellan startsidan för Partner Sales Anslut standardvyn för möjligheter till säljförsäljning i Partnercenter." lightbox="images/pscmigration/home-page-expanded.png":::
+:::image type="content" source="images/pscmigration/homepage.png" alt-text="Bild som visar fältmappningarna mellan startsidan för Partner Sales Anslut och standardvyn för Möjligheter till säljpartner i Partnercenter." lightbox="images/pscmigration/home-page-expanded.png":::
 
 ### <a name="2---psc-grid-view-mapped-to-the-partner-center-deal-view"></a>2 – PSC-rutnätsvy mappad till partnercenter-avtalsvyn
 
-Jämför matchande numrerade cirklar mellan den översta PSC-skärmbilden och Partnercenter-skärmbilden under den. Matchande siffror visar var du hittar den PSC-relaterade funktionen eller attributet i Partnercenter. Röda cirklar visar att det inte finns något matchande PartnerCenter-fält.  
+Jämför matchande numrerade cirklar mellan den översta PSC-skärmbilden och Partnercenter-skärmbilden under den. Matchande tal visar var du hittar den PSC-relaterade funktionen eller attributet i Partnercenter. Röda cirklar visar att det inte finns något matchande Partnercenter-fält.  
 
 > [!NOTE]
 > Andra överväganden visas under skärmbilderna.
 
-:::image type="content" source="images/pscmigration/gridview.png" alt-text="Bild som visar fältmappningarna mellan rutnätsvyn Partner sales Anslut (PSC) och partnercenter-avtalsvyn." lightbox="images/pscmigration/grid-view-expanded.png":::
+:::image type="content" source="images/pscmigration/gridview.png" alt-text="Bild som visar fältmappningarna mellan rutnätsvyn Partner sales Anslut (PSC) och vyn Partnercenter-avtal." lightbox="images/pscmigration/grid-view-expanded.png":::
 
 **Särskilda överväganden:**
 
-- Det finns ingen listvy i Partnercenter som i PSC.  Alla avtal visas baserat på det senaste mottagna eller skapade datumet med kundinformationen och typen av avtal. Det första avtalet i vyn är valt som standard. De flesta av de värden som visas i PSC-tabellformatet är tillgängliga i detaljvyn för avtalet i Partnercenter.
+- Det finns ingen listvy i Partnercenter som för PSC.  Alla avtal visas baserat på det senaste mottagna eller skapade datumet med kundinformationen och typen av avtal. Det första avtalet i vyn är valt som standard. De flesta av de värden som visas i PSC-tabellformatet är tillgängliga i detaljvyn för avtalet i Partnercenter.
 - Avtalsrollen är inte ett obligatoriskt fält i Partnercenter. Den visas eller avbildas inte i något av arbetsflödena. Den härleds automatiskt på Microsofts säljarsida baserat på de lösningar som lagts till i avtalet.
 - Datumet för senaste ändring visas inte på sidan med hänvisningsinformation i Partnercenter. Partner kan använda sorteringsfunktionen för att sortera avtal baserat på datum för senaste uppdatering.
 
 ### <a name="3---psc-deal-details-view-mapped-to-partner-center"></a>3 – Informationsvy för PSC-avtal mappad till Partnercenter
 
-Jämför den matchande, numrerade cirklarna längst upp (PSC)-skärmbilden med partnercenter-skärmbilden nedanför. Matchande siffror visar var du hittar den PSC-relaterade funktionen eller attributet i Partnercenter. Röda cirklar visar att det inte finns något matchande fält eller område i Partnercenter.
+Jämför den matchande, numrerade cirklarna längst upp (PSC)-skärmbilden med Partnercenter-skärmbilden nedanför. Matchande tal visar var du hittar den PSC-relaterade funktionen eller attributet i Partnercenter. Röda cirklar visar att det inte finns något matchande fält eller område i Partnercenter.
 
 > [!NOTE]
 > Andra överväganden visas under skärmbilderna.
 
-:::image type="content" source="images/pscmigration/dealdetails.png" alt-text="Bild som visar fältmappningarna mellan vyn Med avtalsinformation Anslut Partner sales (PSC) och vyn Partnercenter-avtalsinformation." lightbox="images/pscmigration/deal-details-expanded.png":::
+:::image type="content" source="images/pscmigration/dealdetails.png" alt-text="Bild som visar fältmappningarna mellan vyn partnerförsäljnings- Anslut (PSC)-avtalsinformation och vyn Partnercenter-avtalsinformation." lightbox="images/pscmigration/deal-details-expanded.png":::
 
 **Särskilda överväganden:**
 
@@ -284,34 +284,34 @@ Jämför den matchande, numrerade cirklarna längst upp (PSC)-skärmbilden med p
 - Licensieringsprogram krävs inte i Partnercenter. Den här informationen härförs automatiskt baserat på de lösningar som valts i avtalet.
 
 >[!Note]
->Alla avtal som markerats som förlorade eller förlorade kan inte redigeras efteråt. Var försiktig när du flyttar ett avtal till ett av dessa terminaler.
+>Ett avtal som markerats som won eller lost (förlorat) kan inte redigeras efteråt. Var försiktig när du flyttar ett avtal till något av dessa terminaler.
 
-### <a name="4---psc-add-products-view-mapped-to-the-partner-center-add-solutions-view"></a>4 – PSC-vyn Lägg till produkter mappad till vyn Lägg till lösningar i Partnercenter
+### <a name="4---psc-add-products-view-mapped-to-the-partner-center-add-solutions-view"></a>4 – PSC-vyn "Lägg till produkter" mappad till vyn Lägg till lösningar i Partnercenter
 
-Jämför den matchande, numrerade cirklarna längst upp (PSC)-skärmbilden med partnercenter-skärmbilden nedanför. Matchande siffror visar var du hittar den PSC-relaterade funktionen eller attributet i Partnercenter. Röda cirklar visar att det inte finns något matchande fält eller område i Partnercenter.
+Jämför den matchande, numrerade cirklarna längst upp (PSC)-skärmbilden med Partnercenter-skärmbilden nedanför. Matchande tal visar var du hittar den PSC-relaterade funktionen eller attributet i Partnercenter. Röda cirklar visar att det inte finns något matchande fält eller område i Partnercenter.
   
-:::image type="content" source="images/pscmigration/products.png" alt-text="Bild som visar fältmappningarna mellan vyn Partner sales Anslut (PSC) lägg till produkter och vyn Lägg till lösningar i Partnercenter." lightbox="images/pscmigration/products-expanded.png":::
+:::image type="content" source="images/pscmigration/products.png" alt-text="Bild som visar fältmappningarna mellan vyn Partner sales Anslut (PSC) lägga till produkter och vyn Lägg till lösningar i Partnercenter." lightbox="images/pscmigration/products-expanded.png":::
 
 ### <a name="5---user-management-in-psc-versus-partner-center"></a>5 – Användarhantering i PSC jämfört med Partnercenter
 
-Jämför den matchande, numrerade cirklarna längst upp (PSC)-skärmbilden med partnercenter-skärmbilden nedanför. Matchande siffror visar var du hittar den PSC-relaterade funktionen eller attributet i Partnercenter. Röda cirklar visar att det inte finns något matchande fält eller område i Partnercenter.  
+Jämför den matchande, numrerade cirklarna längst upp (PSC)-skärmbilden med Partnercenter-skärmbilden nedanför. Matchande tal visar var du hittar den PSC-relaterade funktionen eller attributet i Partnercenter. Röda cirklar visar att det inte finns något matchande fält eller område i Partnercenter.  
 
- :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Bild som visar fältmappningarna mellan användarhanteringsplatsen Anslut Partner Sales (PSC) och användarhanteringssidan i användarhanteringsvyn i området Kontoinställningar."  lightbox="images/pscmigration/user-management-expanded.png":::
+ :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Bild som visar fältmappningarna mellan användarhanteringsplatsen Anslut partnerförsäljning (PSC) och användarhanteringssidan i området Kontoinställningar i Partnercenter."  lightbox="images/pscmigration/user-management-expanded.png":::
 
 ### <a name="6---user-role-assignment-in-psc-versus-partner-center"></a>6 – Tilldelning av användarroller i PSC jämfört med Partnercenter
 
-Jämför den matchande, numrerade cirklarna längst upp (PSC)-skärmbilden med partnercenter-skärmbilden nedanför. Matchande siffror visar var du hittar den PSC-relaterade funktionen eller attributet i Partnercenter. Röda cirklar visar att det inte finns något matchande fält eller område i Partnercenter.  
+Jämför den matchande, numrerade cirklarna längst upp (PSC)-skärmbilden med Partnercenter-skärmbilden nedanför. Matchande tal visar var du hittar den PSC-relaterade funktionen eller attributet i Partnercenter. Röda cirklar visar att det inte finns något matchande fält eller område i Partnercenter.  
 
-:::image type="content" source="images/pscmigration/roles.png" alt-text="Bild som visar fältmappningarna mellan rolltilldelningsvyn Partner sales Anslut (PSC) och rolltilldelningsvyn i Partnercenter." lightbox="images/pscmigration/roles-expanded.png":::
+:::image type="content" source="images/pscmigration/roles.png" alt-text="Bild som visar fältmappningarna mellan rolltilldelningsvyn Anslut partnerförsäljning (PSC) och rolltilldelningsvyn i Partnercenter." lightbox="images/pscmigration/roles-expanded.png":::
 
 **Särskilda överväganden:**
 
-- Motsvarande roll för PSC-administratör är kontoadministratörsrollen i Partnercenter.
+- Motsvarande roll för PSC-administratören är kontoadministratörsrollen i Partnercenter.
 - Det finns bara en roll i Partnercenter för hantering av säljavtal. Den här rollen är referensadministratörsrollen.
 
 ### <a name="7---notifications-in-psc-versus-partner-center"></a>7 – Meddelanden i PSC jämfört med Partnercenter
 
-Jämför den matchande, numrerade cirklarna längst upp (PSC)-skärmbilden med partnercenter-skärmbilden nedanför. Matchande siffror visar var du hittar den PSC-relaterade funktionen eller attributet i Partnercenter. Röda cirklar visar att det inte finns något matchande fält eller område i Partnercenter.  
+Jämför den matchande, numrerade cirklarna längst upp (PSC)-skärmbilden med Partnercenter-skärmbilden nedanför. Matchande tal visar var du hittar den PSC-relaterade funktionen eller attributet i Partnercenter. Röda cirklar visar att det inte finns något matchande fält eller område i Partnercenter.  
 
 :::image type="content" source="images/pscmigration/notifications.png" alt-text="Bild som visar mappningen mellan PSC-meddelanden (Partner Sales Anslut) och meddelandevyn i Partnercenter."  lightbox="images/pscmigration/notifications-expanded.png":::
 
@@ -321,7 +321,7 @@ Följande avsnitt besvarar vanliga frågor om migreringen.
 
 ### <a name="1---what-should-i-do-if-i-dont-have-access-to-partner-center"></a>1 – Vad ska jag göra om jag inte har åtkomst till Partnercenter?
 
-Du kan kontakta dina administratörer på sidan "Ingen åtkomst" för att få rollerna tilldelade. Du behöver [referensadministratörsrollen](permissions-overview.md#manage-referrals) för läs- och skrivbehörighet under referensavsnittet. Om du bara hanterar företagsprofiler behöver du administratörsrollen för företagsprofilen i Partnercenter.
+Du kan kontakta dina administratörer på sidan "Ingen åtkomst" för att få rollerna tilldelade. Du behöver [referensadministratörsrollen](permissions-overview.md#manage-referrals) för läs- och skrivbehörighet under referensavsnittet. Om du bara hanterar företagsprofiler behöver du rollen som företagsprofiladministratör i Partnercenter.
 
 :::image type="content" source="images/pscmigration/noaccess.png" alt-text="Bild som visar ingen åtkomstupplevelse i Partnercenter.":::
 
@@ -331,7 +331,7 @@ Du kan kontakta dina administratörer på sidan "Ingen åtkomst" för att få ro
 
 ### <a name="3---the-new-deal-button-is-greyed-out-for-our-account-what-should-i-do-to-start-creating-deals"></a>3 – Knappen +nytt avtal är nedtonad för vårt konto. Vad ska jag göra för att börja skapa avtal?
 
-Detta inträffar bara om det inte finns några lösningar för sälj säljklara lösningar kopplade till DEN MPN-organisation som du använder i Partnercenter. Kontakta PDM för att få MPN-ID:t för dina lösningar korrigerade eller skapa ett support ärende som nämner problemet "Knappen Nytt avtal är nedtonat efter PSC-migreringen".
+Detta inträffar bara om det inte finns några lösningar för säljförsäljning som är kopplade till DEN MPN-organisation som du använder i Partnercenter. Kontakta PDM för att få MPN-ID:t för dina lösningar korrigerade eller skapa ett support ärende som nämner problemet "Knappen Nytt avtal är nedtonat efter PSC-migreringen".
 
 ### <a name="4---can-i-assign-deals-to-a-specific-person-from-our-organization-like-psc"></a>4 – Kan jag tilldela avtal till en viss person från vår organisation som PSC?
 
@@ -381,7 +381,7 @@ Affärsmöjlighets-ID i PSC är samma som avtals-ID:t i Partnercenter. Du hittar
 
 Partnercenter kan inte nås av dina PDU:er direkt till skillnad från PSC. Det finns flera alternativ för att aktivera den funktionen, som anges nedan.
 
-- OCP Insights – Om PDM bara visar avtal och framsteg som rör dem kan de använda OCP-portalen (One Commercial Partner) Insights för att få din organisationsvy. Det här är ett internt verktyg som endast är tillgängligt för PDM. OCP-insikter är inte tillgängliga för företagets användare.
+- OCP Insights – Om PDM bara visar de avtal och framsteg som rör dem kan de använda OCP-portalen (One Commercial Partner) Insights för att få din organisationsvy. Det här är ett internt verktyg som endast är tillgängligt för PDM. OCP-insikter är inte tillgängliga för företagets användare.
 - Gästanvändare i Partnercenter – Du kan lägga till ditt PDM-konto som gästanvändare i Partnercenter och tilldela referensadministratörsrollen till dem så att de kan visa och agera @microsoft.com på hänvisningar.
 - Skapa en [ny användare](./create-user-accounts-and-set-permissions.md#add-a-new-user) i din klientorganisation – Du kan skapa en ny användare i din egen klientorganisation och dela informationen med PDM så att de kan visa och agera på hänvisningar som liknar andra hänvisningsanvändare i ditt konto.
 

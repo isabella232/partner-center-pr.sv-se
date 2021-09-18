@@ -1,6 +1,6 @@
 ---
 title: Fakturering för mobiloperatör – Microsoft Store
-description: I Microsoft Store mobiloperatörsfakturering som betalningsmetod för mobiloperatörer som stöder den här funktionen.
+description: I Microsoft Store mobiloperatören fakturering som betalningsmetod för mobiloperatörer som stöder den här funktionen.
 ms.date: 04/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-payouts
@@ -9,26 +9,26 @@ ms.author: hickeys
 author: hickeys
 keywords: windows 10, uwp, mobile operators, mobile billing, mobile operator billing
 ms.localizationpriority: medium
-ms.openlocfilehash: b14d92038570756de594f013c4eb2c2e4615c64e
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 7fab4915273fa611d0bb0b9115926ce84521a509
+ms.sourcegitcommit: 5abf065c8852a858a0aa7185176d3e117f2be7e5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961446"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "127958849"
 ---
 # <a name="mobile-operator-billing"></a>Mobiloperatörsfakturering
 
 **Lämpliga roller:** Global administratör
 
 > [!NOTE]
-> Om du vill ha support om utbetalning, inklusive att konfigurera utbetalningskonton, saknade utbetalningar, lägga ut utbetalningsstödet eller något annat, kontaktar du [supporten här.](https://developer.microsoft.com/windows/support)
+> Om du vill ha support om utbetalning, inklusive att konfigurera utbetalningskonton, saknade utbetalningar, lägga ut utbetalningsutbetalningar eller något annat, [kontakta Windows developer support](https://developer.microsoft.com/windows/support).
 
-I Microsoft Store mobiloperatören fakturering som betalningsmetod för enheter som kör Windows 10, telefoner som kör Windows 10 Mobile och Xbox One-konsoler. Om en kunds mobiloperatör stöder den här funktionen kan kunden lägga till mobiloperatörsfakturering som betalningsmetod och använda den för att göra Butik-inköp med sitt mobilkonto.
+Den Microsoft Store erbjuder fakturering för mobiloperatör som betalningsmetod för enheter som kör Windows 10, telefoner som kör Windows 10 Mobile och Xbox One-konsoler. Om en kunds mobiloperatör stöder den här funktionen kan kunden lägga till fakturering för mobiloperatör som betalningsmetod och använda den för att göra Store-köp med hjälp av sitt mobilkonto.
 
 > [!TIP]
-> Om en kunds mobiloperatör erbjuder fakturering för mobiloperatör, men kunden inte kan hitta det här alternativet på sin enhet, kan du gå igenom dessa [steg.](https://support.microsoft.com/instantanswers/b25d6dd6-fb8b-3710-1e13-4d30eb01b51f)
+> Om en kunds mobiloperatör erbjuder fakturering från mobiloperatören, men kunden inte kan hitta det här alternativet på sin enhet, kan du gå igenom dessa [steg.](https://support.microsoft.com/instantanswers/b25d6dd6-fb8b-3710-1e13-4d30eb01b51f)
 
-Vi arbetar regelbundet med mobiloperatörer för att utöka tillgängligheten för den här betalningsmetoden. Om du vill föreslå en mobiloperatör som du inte ser nedan kontaktar du mobiloperatören och begär att den här betalningsmetoden ska läggas till.
+Vi arbetar regelbundet med mobiloperatörer för att utöka tillgängligheten för den här betalningsmetoden. Om du vill föreslå en mobiloperatör som du inte ser i listan nedan kontaktar du mobiloperatören och begär att de lägger till den här betalningsmetoden.
 
 ## <a name="operators-that-support-mobile-operator-billing"></a>Operatörer som stöder fakturering av mobiloperatör
 
@@ -37,7 +37,7 @@ Följande mobiloperatörer stöder för närvarande fakturering av mobiloperatö
 | Land/region       | Mobiloperatörer                                        |
 |----------------------|---------------------------------------------------------|
 | Australien            | Optus                                                   |
-| Österrike              | A1 Telekom,Chison 3G Schweiz, T-Mobile/tele.ring  |
+| Österrike              | A1 Telekom,Chinchison 3G Schweiz, T-Mobile/tele.ring  |
 | Belgien              | Base, Proximus                                          |
 | Kanada               | Telus                                                   |
 | Tjeckien              | T-Mobile, Vodafone, O2                                  |
@@ -50,7 +50,7 @@ Följande mobiloperatörer stöder för närvarande fakturering av mobiloperatö
 | Korea                | SK Telecom                                              |
 | Malaysia             | Digi                                                    |
 | Nederländerna          | KPN/Telfort, Vodafone                                 |
-| Norge               | Telenor/Talkmore, Telia/OneCall                     |
+| Norge               | Telenor/Prata mer, Telia/OneCall                     |
 | Polen               | Orange, Play, T-Mobile                                  |
 | Saudiarabien         | STC                                                     |
 | Singapore            | M1 Limited, StarHub                                     |
@@ -58,9 +58,9 @@ Följande mobiloperatörer stöder för närvarande fakturering av mobiloperatö
 | Sydafrika         | Telia                                                 |
 | Spanien                | Orange                                                  |
 | Sverige               | 3, Telenor                                              |
-| Schweiz          | På vilket sätt?                                       |
-| Taiwan               | FarEas Pep                                              |
-| Turkiet               | Turkcell                                                |
+| Schweiz          | Hart, PåaS                                       |
+| Taiwan               | FarEas Den                                              |
+| Turkiet               | Turk-cell                                                |
 | Förenade Arabemiraten | Etisalat                                                |
 | USA        | Sprint, Verizon                                         |
-| Storbritannien       | 3 Storbritannien, EE, O2, Vodafone                                 |
+| Storbritannien       | Three UK, EE, O2, Vodafone                                 |

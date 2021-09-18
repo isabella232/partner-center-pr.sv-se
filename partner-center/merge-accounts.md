@@ -8,12 +8,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: ace5ad2dc75600f9085af3d0d7fcfa1036c2da6d
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 4b913754dd73f99e8aa363d257a9ac658d190b6a
+ms.sourcegitcommit: 5abf065c8852a858a0aa7185176d3e117f2be7e5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960763"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "127958862"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Slå samman ditt partnerkonto med ett annat partnerkonto
 
@@ -55,9 +55,9 @@ Om du vill acceptera inbjudan att slå samman konton: · Dina MPN-ID:n och plats
 
 - Alla befintliga kompetenser (Guld/Silver), inköp (till exempel Microsoft Action Pack) och tillhörande förmåner bevaras under konsolideringen. Om båda företagen har samma kompetens men det ena är guld och det andra silveret, tilldelas kompetensen med högsta kompetensnivå och partner får en uppsättning silverfördelar och en uppsättning guldfördelar för den kompetensen fram till nästa förnyelse. 
 
-- Högsta årsdagen för Microsoft Action Pack kommer att behållas efter sammanslagningen. Om till exempel årsdagen för företag 1 är juni 2020 för Action Pack-förnyelse och årsdagen för Action Pack-förnyelse för företag 2 är oktober 2020, kommer Microsoft att använda datumet oktober 2020 som det sammanslagna företagets nya årsdag.
+- Högsta årsdagen för Microsoft Action Pack kommer att behållas efter sammanslagningen. Om till exempel årsdagen för företag 1 är juni 2020 för Action Pack-förnyelse och årsdagen för Action Pack-förnyelse för företag 2 är oktober 2020, kommer Microsoft att använda datumet oktober 2020 som ny årsdag för det sammanslagna företaget.
 
-- Under kontosammanslagning och fram till nästa förnyelse behåller varje konto sina Action Pack och/eller kompetensförmåner. Vid förnyelse gäller Action Pack och kompetensförnyelseregler.
+- Under kontosammanslagning och fram till nästa förnyelse behåller varje konto sina Action Pack och/eller kompetensförmåner. Vid förnyelse gäller Action Pack och regler för kompetensförnyelse.
 
 - Vid förnyelsen implementeras förmåner som ingår i kompetensen och Action Pack för partnerföretagets globala partnerkonto:
 
@@ -65,7 +65,7 @@ Om du vill acceptera inbjudan att slå samman konton: · Dina MPN-ID:n och plats
 
   - Kompetens: Partnerföretaget får ett paket med kärnförmåner som är kopplade till deras högsta kompetens, plus kompetensspecifika förmåner som partnern är berättigad till per partner globalt konto.
 
-- Alla förmåner omfattas av Microsoft Partner Network [användningsguiden för förmåner.](https://aka.ms/partner-benefits-use-guide) Exempel: en aktiverad O365 E3-token fungerar i 12 månader efter aktiveringen. När en token har aktiverats för licenser på en klientorganisation kan dessa licenser inte flyttas till en annan klientorganisation.
+- Alla förmåner omfattas av Microsoft Partner Network [användningsguiden för förmåner.](https://partner.microsoft.com/dashboard/account/merger) Exempel: en aktiverad O365 E3-token fungerar i 12 månader efter aktiveringen. När en token har aktiverats för licenser på en klientorganisation kan dessa licenser inte flyttas till en annan klientorganisation.
 
 - MCP-ID-associationerna för båda företagen behålls och associeras med PGA MPN-ID:t.
 
@@ -103,12 +103,12 @@ Om du vill acceptera inbjudan att slå samman konton: · Dina MPN-ID:n och plats
     c. en guldkompetens som upphör att gälla den 1 oktober 2020
 2. Fabrikam, Inc. har
  
-    a.  ett globalt MPN-ID för 3333333 och två UNDERORDNADE PLATS-MPN-ID:n för 4444444 och 5555555
+    a. ett globalt MPN-ID 3333333 och två MPN-ID:n för underordnade platser 4444444 och 5555555
 
     b.  en Azure AD-klientorganisation = @fabrikam.com
 
     c.  två guldkompetenser som upphör den 1 december 2020
-3.  Contoso köper Fabrikam och går hit [för att](https://partner.microsoft.com/dashboard/account/merger) initiera en sammanslagningsbegäran.
+3.  Contoso köper Fabrikam och går till [Partnercenter för att](https://partner.microsoft.com/dashboard/account/merger) initiera en sammanslagningsbegäran.
 4.  Fabrikam loggar in på Partnercenter och går till samma sida som Contoso gjorde i steg #3, för att godkänna Contosos begäran.
 5.  Contoso granskar informationen om sammanslagningen på samma sida och ger en bekräftelse för att fortsätta med kontosammanslagningen.
 6.  Efter sammanslagningen visas företagskontot som:
