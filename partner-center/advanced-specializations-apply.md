@@ -1,7 +1,7 @@
 ---
 title: Sök efter avancerade specialiseringar
 ms.topic: how-to
-ms.date: 08/27/2021
+ms.date: 09/16/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
 description: Förbättra din företagsprofil i Microsofts partnerkatalog. Lär dig hur du använder Partnercenter för att söka efter och få avancerade specialiseringar.
@@ -9,20 +9,20 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 378181838841a6763130394a35c3d5a3804fa72b
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 5667fad7bde179cd728abb911b65621bcc9505a7
+ms.sourcegitcommit: 8d5c2463fc0f0c03972a6f89d01605421288daea
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246643"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "127932876"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Använd Partnercenter för att söka avancerade specialiseringar och kontrollera deras status
 
 **Lämpliga roller:** Globala | Kontoadministratör
 
-Den här artikeln beskriver hur du använder instrumentpanelen i Partnercenter för att söka en avancerad [specialisering,](advanced-specializations.md)kontrollera förloppet och slutföra nödvändiga steg och verifieringar. Du ser också exempel på hur du kan använda Partnercenter för att uppnå vissa avancerade specialiseringar som kräver antingen en granskning eller kundreferenser.
+Den här artikeln beskriver hur du använder instrumentpanelen i Partnercenter för att söka en avancerad [specialisering,](advanced-specializations.md)kontrollera förloppet och slutföra nödvändiga steg och verifieringar. Du kommer också att se exempel på hur du kan använda Partnercenter för att uppnå vissa avancerade specialiseringar som kräver antingen en granskning eller kundreferenser.
 
-Mer information om fördelarna med avancerade specialiseringar och deras specifika krav finns i [Microsoft Partner Network avancerade specialiseringar.](https://partner.microsoft.com/membership/advanced-specialization)
+Mer information om fördelarna med avancerade specialiseringar och deras specifika krav finns i [Microsoft Partner Network specialiseringar.](https://partner.microsoft.com/membership/advanced-specialization)
 
 ## <a name="use-partner-center-to-apply-for-advanced-specializations-or-check-their-status"></a>Använd Partnercenter för att söka avancerade specialiseringar eller kontrollera deras status
 
@@ -30,7 +30,7 @@ För att kvalificera dig för en avancerad specialisering måste du först uppfy
 
 En stor del av processen är tillgänglig från instrumentpanelen i Partnercenter. Endast användare med en viss Partnercenter-roll [kan dock komma](permissions-overview.md) åt det här Partnercenter-området.
 
-För att få åtkomst till det här området måste du beviljas rollen **MPN-kontoadministratör** eller **global administratör** för din organisations Microsoft-partnerkonto.
+För att komma åt det här området måste du beviljas rollen **MPN-kontoadministratör** eller **global administratör** för din organisations Microsoft-partnerkonto.
 
 ### <a name="follow-these-steps-to-access-this-area"></a>Följ dessa steg för att få åtkomst till det här området:
 
@@ -44,18 +44,18 @@ För att få åtkomst till det här området måste du beviljas rollen **MPN-kon
 
 4. När du har slutfört alla krav för en avancerad specialisering kontrollerar du det här området i Partnercenter igen för att se om din status har ändrats till **Aktiv** för en specifik avancerad specialisering.
 
-   Aktiv status aktiverar automatiskt en avancerad specialiseringstagg för din **företagsprofil**. Profilen visas sedan för alla kunder som försöker hitta [en lösningsleverantör.](https://www.microsoft.com/solution-providers/home)
+   Aktiv status aktiverar automatiskt en avancerad specialiseringstagg på din **företagsprofil**. Profilen visas sedan för alla kunder som försöker hitta [en lösningsleverantör.](https://www.microsoft.com/solution-providers/home)
 
 ## <a name="use-partner-center-to-schedule-an-audit-or-include-customer-references-for-advanced-specializations"></a>Använd Partnercenter för att schemalägga en granskning eller inkludera kundreferenser för avancerade specialiseringar
 
-I allmänhet kräver varje avancerad specialisering att du har fått en justerad guldkompetens tillsammans med andra anpassade förutsättningar som är unika för den avancerade specialiseringen. Vissa avancerade specialiseringar kan också kräva att du:
+I allmänhet kräver varje avancerad specialisering att du har fått en anpassad guldkompetens tillsammans med andra anpassade krav som är unika för den avancerade specialiseringen. Vissa avancerade specialiseringar kan också kräva att du:
 
 - Schemalägga en granskning med en granskare från tredje part
 - Ange kundreferenser
 
 Båda uppgifterna kan utföras i Partnercenter.
 
-Avancerade specialiseringar som kräver en granskning hos en granskare från tredje part omfattar:
+Avancerade specialiseringar som kräver granskning hos en granskare från tredje part omfattar:
 
 - Analys på Microsoft Azure
 - Migrering av informationslager till Microsoft Azure
@@ -67,7 +67,7 @@ Avancerade specialiseringar som kräver en granskning hos en granskare från tre
 - AI och Machine Learning i Microsoft Azure
 - Hybridmolninfrastruktur med Microsoft Azure Stack HCI
 - Hybriddrift och hantering med Microsoft Azure Arc
-- Microsoft Azure VMware-lösning
+- Microsoft Azure VMware Solution
 - DevOps med GitHub på Microsoft Azure
 - Nätverkstjänster i Microsoft Azure
 - SAP på Microsoft Azure
@@ -86,34 +86,34 @@ Avancerade specialiseringar som kräver kundreferenser är:
 Avancerade specialiseringar som inte kräver granskning eller kundreferens är:
 
 - Programutveckling med lite kod
-- Små och medelstora företagshantering
+- Small and Midsize Business Management
 
-I följande avsnitt beskrivs hur du schemalägger en granskning eller tillhandahåller kundreferenser i Partnercenter.
+I följande avsnitt beskrivs hur du schemalägger en granskning eller anger kundreferenser i Partnercenter.
 
 ## <a name="schedule-an-audit-with-a-third-party-auditor"></a>Schemalägga en granskning med en granskare från tredje part
 
-Förutom sina egna förutsättningar behöver du även klara en schemalagd granskning för vissa avancerade *specialiseringar.* Se den tidigare listan över avancerade specialiseringar som kräver en granskning.
+Förutom de egna förutsättningarna behöver du även klara en schemalagd granskning av vissa avancerade *specialiseringar.* Se den tidigare listan över avancerade specialiseringar som kräver en granskning.
 
-Följ sedan dessa steg för att schemalägga en granskning i Partnercenter:
+Följ sedan de här stegen för att schemalägga en granskning i Partnercenter:
 
 1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
 
 2. Välj **avsnittet MPN** på Menyn i Partnercenter följt av **Adv. Specialiseringar**. Menyn expanderas för att visa alla avancerade specialiseringar som är tillgängliga för dig.
 
-3. Välj namnet på den avancerade specialisering som kräver att du schemalägger en granskning. Anta till exempel att du väljer Modernisering **av webbprogram för att Microsoft Azure**. Sidan förutsättningar visas sedan för den här avancerade specialiseringen.
+3. Välj namnet på den avancerade specialisering som kräver att du schemalägger en granskning. Anta till exempel att du väljer Modernisering **av webbprogram för att Microsoft Azure**. Sidan med förhandskrav visas sedan för den här avancerade specialiseringen.
 
-   :::image type="content" source="images/advanced-specializations/as-1.png" alt-text="Exempel på kravsida som visar krav för att få en specifik avancerad specialisering.":::
+   :::image type="content" source="images/advanced-specializations/as-1.png" alt-text="Exempelsida för förutsättningar som visar krav för att få en specifik avancerad specialisering.":::
 
-4. När du uppfyller alla krav för den här avancerade specialiseringen kan du välja knappen **Schemalägg granskning** på den här sidan.
+4. När du uppfyller alla krav för den här avancerade specialiseringen kan du välja knappen **Schemalägg granskning på** den här sidan.
 
-   - Tills du uppfyller alla krav som visas på den här sidan förblir din status **Inte startad.** Knappen **Schemalägg granskning** förblir också inaktiverad. 
-   - När alla krav är uppfyllda tillsammans med granskningen ändras din status till **Aktiv**.
+   - Statusen förblir Inte startad tills du uppfyller alla krav som visas på **den här sidan.** Knappen **Schemalägg granskning** förblir också inaktiverad. 
+   - När alla krav är uppfyllda tillsammans med granskningen ändras din status till **Aktiv.**
 
 ## <a name="provide-customer-references-in-partner-center"></a>Ange kundreferenser i Partnercenter
 
-Förutom sina egna förutsättningar behöver du även ange kundreferenser för vissa *avancerade specialiseringar.* Se den tidigare listan över avancerade specialiseringar som kräver kundreferenser.
+Förutom sina egna förutsättningar måste du även ange kundreferenser för vissa *avancerade specialiseringar.* Se den tidigare listan över avancerade specialiseringar som kräver kundreferenser.
 
-Följ sedan dessa steg för att tillhandahålla kundreferenser i Partnercenter:
+Följ sedan de här stegen för att ange kundreferenser i Partnercenter:
 
 1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
 
@@ -121,24 +121,24 @@ Följ sedan dessa steg för att tillhandahålla kundreferenser i Partnercenter:
 
 3. Välj namnet på den avancerade specialisering som kräver att du anger kundreferenser. Anta till exempel att du väljer Möten **och Mötesrum för att Microsoft Teams**.
 
-   Sidan förutsättningar visas sedan för den här avancerade specialiseringen. Förutom guldkompetens, certifieringar och prestandakrav kräver den här avancerade specialiseringen också att du tillhandahåller tre kundreferenser som visar din förmåga att distribuera och hantera.
+   Sidan med förhandskrav visas sedan för den här avancerade specialiseringen. Förutom guldkompetens, certifieringar och prestandakrav kräver den här avancerade specialiseringen också att du tillhandahåller tre kundreferenser som visar din förmåga att distribuera och hantera.
 
-   :::image type="content" source="images/advanced-specializations/as-2.png" alt-text="Exempel på kravsida för avancerade specialiseringar som kräver kundreferenser.":::
+   :::image type="content" source="images/advanced-specializations/as-2.png" alt-text="Exempel på sidan med förhandskrav för avancerade specialiseringar som kräver kundreferenser.":::
 
 4. Tills du uppfyller alla krav som visas på den här sidan och anger kundreferenser förblir din status **Inte startad.** När alla krav är uppfyllda ändras din status till **Aktiv.**
 
 ## <a name="how-azure-consumption-revenue-acr-is-calculated-for-each-advanced-specialization"></a>Så här beräknas Azure Consumption Revenue (ACR) för varje avancerad specialisering:
 
-- Partner-till-kund-associationer ingår: [Digital Partner of Record-association](https://support.microsoft.com/topic/link-a-partner-id-for-azure-performance-pal-or-dpor-a8eed43b-82a8-f017-3b1a-f9c8aa385d32) till en kund, CSP-direktfaktureringspartner eller indirekt CSP-återförsäljare för en kund- eller [PARTNERadministratörslänk(PAL)-association](/azure/cost-management-billing/manage/link-partner-id) till en kund.
-- ACR från prenumerationer med erbjudandetyper utvärderingsversion, förmånsprogram, support och intern räknas inte mot avancerad specialisering.
+- Partner-till-kund-associationer inkluderade: [Digital partner för](https://support.microsoft.com/topic/link-a-partner-id-for-azure-performance-pal-or-dpor-a8eed43b-82a8-f017-3b1a-f9c8aa385d32) postassociation till en kund, CSP-direktfaktureringspartner eller en indirekt CSP-återförsäljare för en kund- eller [PARTNERadministratörslänksassociation (PAL)](/azure/cost-management-billing/manage/link-partner-id) till en kund.
+- ACR från prenumerationer med erbjudandetyper utvärderingsversion, förmånsprogram, support och intern räknas inte mot den avancerade specialiseringen.
 
 **Intäktsfält för Azure-förbrukning**
 
 | Fältnamn | Fältbeskrivning |
 |-------------|----------------------|
-| Servicenivå 1 | Den högsta nivån där Azure-tjänster paketeras (se: https://azure.microsoft.com/services/) . |
-| Servicenivå 2 | Azure-tjänster på den näst högsta nivån (t.ex. https://azure.microsoft.com/pricing/) |
-| Servicenivå 3 | Tredje Azure-tjänster på högsta nivån (t.ex. https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
+| Servicenivå 1 | Den högsta nivån som Azure-tjänster paketeras på (se: https://azure.microsoft.com/services/) . |
+| Servicenivå 2 | Azure-tjänster på näst högsta nivån (t.ex.: https://azure.microsoft.com/pricing/) |
+| Servicenivå 3 | Azure-tjänster på den tredje högsta nivån (t.ex. https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
 | Servicenivå 4 | Fjärde högsta nivån azure-tjänster baserade (t.ex. https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
 | Tjänstgrupp 2 | Gruppering av Azure-tjänster enligt en tjänstkategori |
 | Tjänstgrupp 3 | Gruppering av Azure-tjänster enligt en tjänstunderkategori |
@@ -149,7 +149,7 @@ Följ sedan dessa steg för att tillhandahålla kundreferenser i Partnercenter:
 **Azure Consumption Revenue-filter för avancerad specialisering**
 
 - Migrering av informationslager till Microsoft Azure
-    - Azure Synapse Analytics ACR: Service Group 3 = SQL DW
+    - Azure Synapse Analytics ACR: Service Level 2 = Azure Synapse Analytics
 - Kubernetes på Microsoft Azure
     - Azure Kubernetes Service (AKS) ACR: Service Influencer = AKS , AKS-Engine
     - Azure RedHat OpenShift ACR: Service Group 3 = ARO, Service Level 2 = Alla utom "Okänd"
@@ -164,15 +164,15 @@ Följ sedan dessa steg för att tillhandahålla kundreferenser i Partnercenter:
         - Servicenivå 2 = Alla utom "Okänd"
 
 - Analys på Microsoft Azure
-    - Azure Synapse Analytics ACR: Service Group 3 = SQL DW
+    - Azure Synapse Analytics ACR: Service Level 2 = Azure Synapse Analytics
     - Data Lake ACR: Service Group 3 = Azure Data Lake
-    - Databricks ACR: Service Group3 = Databricks, Databricks VM
-    - Azure Data Factory ACR: Service Group3 = Data Factory  
+    - Databricks ACR: Service Group3 = Databricks
+    - Azure Data Factory ACR: Service Level 2 = Azure Data Factory, Azure Data Factory v2
 - Hybridmolninfrastruktur med Microsoft Azure Stack HCI
     - Azure Stack HCI ACR: Service Level 2 = Azure Stack HCI
 - Microsoft Azure VMware-lösning
     - Azure VMware Solutions(AVS) ACR: Service Level 4 = Azure VMware Solution, Azure VMware Solution by CloudSimple, Azure VMware Solution av Virtustream, Specialized Compute Azure VMware Solution
-- Hybriddrift och hantering med Microsoft Azure Arc 
+- Hybridåtgärder och hantering med Microsoft Azure Arc 
     - Arc-aktiverad server ACR: Service Level 4 = Azure Policy
     - Arc-aktiverad Kubernetes ACR: Service Level 4 = Azure Arc
 - AI och Machine Learning i Microsoft Azure
