@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/02/2021
-ms.openlocfilehash: ffe6aef9ff3e658c68bf7027d4ce92b87008d534
-ms.sourcegitcommit: 8d5c2463fc0f0c03972a6f89d01605421288daea
+ms.openlocfilehash: 4c1b92f5abad52af519e6044d27f99ae580d94c0
+ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "127932825"
+ms.lasthandoff: 09/19/2021
+ms.locfileid: "127960867"
 ---
 # <a name="january-2021-announcements"></a>Meddelanden januari 2021
 
@@ -58,7 +58,7 @@ Partner med befintliga kunder som redan har köpt nya handelserbjudanden i CSP f
 
 Efter fas 1 och under kalenderåret 2021 kommer Microsoft att övergå från faktureringen av nya handelserbjudanden för partner med befintliga kunder, som har köpt ett nytt handelserbjudande i CSP före fas 1, samt kunder som hade sina klienter skapade den 11 maj 2020 eller senare, från kundens platsvaluta till valuta för partnerplats. Partner meddelas i god tid innan ändringen implementeras.
 
-Efter fas 2 debiteras partner i EU/EFTA & Storbritannien i partnerns platsvaluta för alla kunder och alla CSP-inköp.
+Efter fas 2 debiteras partner i EU/EFTA & Storbritannien i partnervalutan för alla kunder och alla CSP-inköp.
 
 >[!NOTE]
 >Den här ändringen påverkar endast partnerfaktureringsvalutan och inte prissättningen för nya handelserbjudanden i CSP. De nya handelserbjudandena i omfånget för den här ändringen är: Azure-prenumerationer som ingår i en Azure-plan, Azure-reservationer, serverprenumerationer, permanent programvara och Microsofts köp på den kommersiella marknadsplatsen i Molnlösningsleverantör-programmet.
@@ -178,10 +178,10 @@ ________________
 
 - Datum: 2021-01-27
 - Funktioner
- 
+
 ### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Alla indirekta återförsäljare & indirekta leverantörer som gör transaktioner via Molnlösningsleverantör(CSP).
+Alla indirekta återförsäljare & indirekta leverantörer som gör transaktioner via Molnlösningsleverantör-programmet (CSP).
 
 ### <a name="details"></a>Information
 
@@ -189,7 +189,7 @@ Implementeringen av Microsoft-partneravtal (MPA) för indirekta återförsäljar
 
 ### <a name="next-steps"></a>Nästa steg
 
-**Indirekta återförsäljare:** Om du inte har godkänt MPA kan du läsa vanliga frågor och svar [](../microsoft-partner-agreement.md) om [MPA](../mpa-indirect-provider-faq.yml) och följa de stegvisa anvisningar som finns här för att godkänna MPA.
+**Indirekta återförsäljare:** Om du inte har godkänt MPA kan du läsa vanliga frågor och svar om [MPA](../mpa-indirect-provider-faq.yml) och följa de stegvisa anvisningar som finns i Lär dig mer om Microsoft-partneravtal [(MPA) för CSP-programpartners](../microsoft-partner-agreement.md) för att godkänna MPA.
 
 **Indirekta leverantörer:** Interagera med dina indirekta återförsäljare och ge dem stöd via vanliga frågor och svar om [MPA](../mpa-indirect-provider-faq.yml) och den stegvisa vägledningen som finns på [Learn about the Microsoft-partneravtal (MPA) for CSP program partners (Lär dig mer om Microsoft-partneravtal (MPA) för CSP-programpartner.](../microsoft-partner-agreement.md)
 
@@ -222,8 +222,8 @@ Nedan visas de nya åtgärdstyperna:
 ### <a name="next-steps"></a>Nästa steg
 
 - Utnyttja de nya åtgärdstyperna för att spåra händelser när DAP:en godkändes av kunden och avslutades av kunden.  
-- [Hämta en post för PartnerCenter-aktivitet – Partnercenter-apputvecklare | Microsoft Docs](/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
-- [Granskningsresurser – partnercenterapputvecklare | Microsoft Docs](/partner-center/develop/auditing-resources)
+- [Hämta en post för Partnercenter-aktivitet – Partnercenter-apputvecklare | Microsoft Docs](/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
+- [Granskningsresurser – Partnercenter-apputvecklare | Microsoft Docs](/partner-center/develop/auditing-resources)
 
 ### <a name="questions"></a>Har du några frågor?
 
@@ -239,7 +239,7 @@ ________________
  
 ### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Alla partner som gör en transacting via programmet Molnlösningsleverantör (CSP).
+Alla partner som gör en transacting Molnlösningsleverantör (CSP)-programmet.
 
 ### <a name="details"></a>Information:
 
@@ -251,17 +251,17 @@ Den nya handelsupplevelsen för Azure i Molnlösningsleverantör-programmet utö
 
 Den nya handelsupplevelsen ger följande fördelar:
 
-- Förenklar inköpsprocessen för Azure med Azure-plan.
+- Förenklar inköpsprocessen för Azure med Azure-planen.
 - Skapar bättre prisjustering mellan kanaler. Baserat på kund- och partnerfeedback kommer den nya Azure-upplevelsen i Molnlösningsleverantör-programmet att använda en enda prislista i USD, vilket ger kunder och partner konsekvent prissättning i global skala.
-- Minskar hinder för kundförvärv genom att ge dig verktyg som inkluderar lämplig styrning, kundupplevelse och principer för att flytta dem till den nya Azure-upplevelsen i Molnlösningsleverantör program.
+- Minskar hinder för kundförvärv genom att ge dig verktyg som införlivar lämplig styrning, kundupplevelse och principer för att flytta dem till den nya Azure-upplevelsen i Molnlösningsleverantör-programmet.
 - Gör det möjligt för partner att hantera sina kunder mer effektivt genom att utnyttja funktioner som Azure Lighthouse och Azure Cost Management. 
-- Expanderar åtkomst till Azure Marketplace.
+- Expanderar åtkomsten till Azure Marketplace.
 
-Vi har utökat den nya handelsupplevelsen för Azure och har aktiverat övergångsverktyg för att förbättra flexibiliteten att hantera Azure på sätt som anpassar sig efter kundernas föränderliga affärsbehov och för att hjälpa till att få kunderna till det nya Azure-erbjudandet i Molnlösningsleverantör-programmet. Visa översikten över de verktyg som finns för att stödja övergången av Azure-kundprenumerationer i Molnlösningsleverantör program.
+Vi utökar den nya handelsupplevelsen för Azure och har aktiverat övergångsverktyg för att förbättra flexibiliteten att hantera Azure på sätt som anpassar sig efter kundernas föränderliga affärsbehov och för att hjälpa till att få kunderna till det nya Azure-erbjudandet i Molnlösningsleverantör-programmet. Visa översikten över de verktyg som finns för att stödja övergången av Azure-kundprenumerationer i Molnlösningsleverantör program.
 
-#### <a name="new-azure-in-cloud-solution-provider-program-offer-azure-plan"></a>Nytt erbjudande för Azure Molnlösningsleverantör -program (Azure-plan)
+#### <a name="new-azure-in-cloud-solution-provider-program-offer-azure-plan"></a>Nytt erbjudande Molnlösningsleverantör Azure-program (Azure-plan)
 
-Med den nya handelsupplevelsen får partner åtkomst till Azure-tjänster till betala-enligt-användning-priset för kunder under Microsoft-kundavtal, via en Azure-plan. Den här planen förenklar köpupplevelsen genom att göra det möjligt att skapa flera Azure-prenumerationer i en Azure-plan. Du behöver inte längre skicka en separat beställning per Azure-prenumeration i Partnercenter.
+Med den nya handelsupplevelsen får partner åtkomst till Azure-tjänster till betala enligt användning-pris för kunder under Microsoft-kundavtal, via en Azure-plan. Den här planen förenklar köpupplevelsen genom att göra det möjligt att skapa flera Azure-prenumerationer i en Azure-plan. Du behöver inte längre skicka en separat beställning per Azure-prenumeration i Partnercenter.
 
 #### <a name="changes-to-the-previous-azure-offer-availability-in-the-cloud-solution-provider-program"></a>Ändringar i det tidigare Azure-erbjudandets tillgänglighet i Molnlösningsleverantör program
 
@@ -278,9 +278,9 @@ Det kommer att ske tre faser i ändringen av det tidigare Azure-erbjudandet. Ida
 I fas 1 kommer alla nya Azure Molnlösningsleverantör-programföretag att ha det nya Azure-planerbjudandet. Följande riktlinjer gäller:
 
 - Om kunden redan har köpt det tidigare Azure-erbjudandet för alla befintliga återförsäljarrelationer mellan partner och kunder i Molnlösningsleverantör-programmet kan partnern fortsätta att göra köp och kunden kan fortsätta att köpa det tidigare Azure-erbjudandet från den partnern.
-- Det tidigare Azure-erbjudandet kommer inte längre att vara tillgängligt för net-nya partner som gör en transacting i CSP
+- Det tidigare Azure-erbjudandet kommer inte längre att vara tillgängligt för nät nya partner som gör en transacting i CSP
 - Det tidigare Azure-erbjudandet kommer inte längre att vara tillgängligt för net-new-kunder som köper via en partner i CSP
-- För alla nya återförsäljarrelationer eller nya kundförvärv kan partner endast köpa det nya Azure-erbjudandet (Azure-plan)
+- För alla nya återförsäljarrelationer eller nya kundförvärv kan partner endast göra transaktioner med det nya Azure-erbjudandet (Azure-plan)
 - För alla befintliga återförsäljarrelationer mellan partner och kunder gäller att om kunden aldrig har köpt Azure tidigare, kan partnern endast göra en överträdelse och kunden kan bara köpa det nya Azure-erbjudandet från den partnern.
 
 **Fas 2 – Under kalenderåret 2022**
@@ -334,13 +334,13 @@ Alla CSP-partner
 
 Som [vi](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) meddelade i dag är vi glada över att meddela att kommersiella permanenta programvarulicenser nu är allmänt tillgängliga för alla CSP-partner att sälja. Listan över beständiga programvarupriser i Partnercenter har publicerats på nytt och innehåller nu ytterligare produkter och geografiska områden.
 
-Observera också att från och med idag har funktionen för programvaru- och licensnyckeluppfyllelse i Partnercenter dragits tillbaka och att våra partner framöver bör peka kunder till Microsoft 365 Admin Center för detta ändamål. Mer information och nästa steg finns nedan.
+Observera också att från och med i dag har funktionen för program- och licensnyckeluppfyllelse i Partnercenter dragits tillbaka och att partner framöver bör peka kunder till Microsoft 365 Admin Center för detta ändamål. Mer information och nästa steg finns nedan.
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Ladda ned **listan med CSP:s** permanent programvarupris **i avsnittet** Programvara på sidan Priser [för Partnercenter & erbjudanden.](https://partnercenter.microsoft.com/pcv/sales) En lista över nyligen tillagda produkter och geografiska områden finns [här.](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)
-- Läs [artikeln Microsoft 365 Admin Center om](/microsoft-365/admin/setup/download-software-licenses-csp) permanent programvara och produktlicensnycklar och dela den med dina kunder när de är redo att ladda ned sina program- och licensnycklar.
-- Granska den [ständiga programvaran i Molnlösningsleverantör programberedskapsmaterial.](https://partner.microsoft.com/resources/collection/software-in-csp#/) Använd [beredskapskartan](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) för att snabbt hitta rätt information för din roll.
+- Ladda ned **CSP:s** permanent **programvaruprislista i avsnittet** Programvara på sidan Priser för [Partnercenter & erbjudanden.](https://partnercenter.microsoft.com/pcv/sales) En lista över nyligen tillagda produkter och geografiska områden finns i resursgalleriet [för driftberedskap.](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)
+- Läs [Microsoft 365 Admin Center](/microsoft-365/admin/setup/download-software-licenses-csp) permanent programvara och produktlicensnycklar ladda ned artikeln och dela med dina kunder när de är redo att ladda ned sina program- och licensnycklar.
+- Granska [beständig programvara i Molnlösningsleverantör programberedskapsmaterial.](https://partner.microsoft.com/resources/collection/software-in-csp#/) Använd [beredskapskartan](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) för att snabbt hitta rätt information för din roll.
 
 ### <a name="questions"></a>Har du några frågor?
 
@@ -366,7 +366,7 @@ Microsoft kommer att implementera API-begränsning för att tillåta en mer kons
 
 ### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Alla partner som gör en Molnlösningsleverantör via CSP-programmet  
+Alla partner som gör en Molnlösningsleverantör (CSP)  
 
 ### <a name="details"></a>Information
 
@@ -396,7 +396,7 @@ Partner Center är utformat för att hantera ett stort antal begäranden, men om
 |{baseURL}/v1/productUpgrades/{upgrade-id}/status  | [Hämta status för produktuppgradering](/partner-center/develop/get-product-upgrade-status) |
 |{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions   | [Hämta en lista över erbjudanden för utvärderingskonvertering](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
  
-Vi rekommenderar starkt att partner överväger att använda aktivitetslogg-API:et för att öka effektiviteten och undvika begränsning.Mer information om den här funktionen finns i [informationen här.](/partner-center/develop/api-throttling-guidance)  
+Vi rekommenderar starkt att partner överväger att använda aktivitetslogg-API:et för att öka effektiviteten och undvika begränsning.Mer information om den här funktionen finns i informationen i API-begränsningsvägledning för partner [som anropar Partner Center-API:er.](/partner-center/develop/api-throttling-guidance)  
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -443,7 +443,7 @@ Ett tillägg som är tillgängligt med en förutsättning för Microsoft 365 E5 
    
 #### <a name="frontline-worker-add-ons"></a>Tillägg för Frontline Worker
 
-Från och med den 1 februari 2021 kan kunder köpa tre nya programmässiga erbjudanden för säkerhet och efterlevnad för frontline-arbetare som tillägg till Microsoft 365 F1- och [F3-SKU:er.](https://www.microsoft.com/microsoft-365/firstline-workers)
+Från och med 1 februari 2021 kan kunder köpa tre nya programmässiga erbjudanden för säkerhet och efterlevnad för frontline-arbetare som tillägg till Microsoft 365 F1- och [F3-SKU:er.](https://www.microsoft.com/microsoft-365/firstline-workers)
 
 Dessa programmässiga erbjudanden ersätter den aktuella [befordran](https://microsoft.sharepoint.com/teams/M365LicensingNews/SitePages/Security-and-Compliance-Promotion-for-Firstline-Workers-Update.aspx) av säkerhet och efterlevnad som upphör att gälla **den 28 februari 2021.** Till skillnad från den aktuella befordran ger F5-tillägg kunderna mer förutsägbarhet för prognostiserade när personalen i frontlinjen växer.
 
@@ -477,7 +477,7 @@ Microsoft kommer att övergå till all bearbetning av elektroniska signaturer fr
 
 ### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Befintliga CSP-partner (direct Molnlösningsleverantör indirect Molnlösningsleverantör) under MPA. Partners i Kina, Ryssland och Tor befordra kommer att behöva fysiskt eller elektroniskt signera Omar varje år.
+Befintliga CSP Molnlösningsleverantör partner (Direct and Indirect Molnlösningsleverantör) under MPA. Partners i Kina, Ryssland och Tor befordra kommer att behöva fysiskt eller elektroniskt signera Omar varje år.
 
 ### <a name="details"></a>Information
 
@@ -498,7 +498,7 @@ Adobe Sign är Microsofts föredragna ESS (Electronic Signature Solution). Över
 
 Mer information om hur du elektroniskt signerar dokument och elektronisk signaturdelegering finns i följande **självstudier:** 
 - [Signera ett dokument på ett elektroniskt | Adobe Sign-självstudier](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
-- [Delegera någon annan att signera ett dokument | Adobe Sign-självstudier](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+- [Delegera någon annan att signera ett | Adobe Sign-självstudier](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -506,7 +506,7 @@ Dela den här informationen med lämpliga intressenter i din organisation.
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har några frågor kan du kontakta Regionalt driftcenter med hjälp av [Call Logging Tool (CLT)](https://clt.partners.extranet.microsoft.com/CLT) eller [utforska MS.](https://www.explore.ms/) Följ CLT-standardprocessen noggrant så att vi kan lösa din fråga så snabbt som möjligt.
+Om du har några frågor kan du kontakta Regionalt driftcenter med hjälp av Call [Logging Tool (CLT)](https://clt.partners.extranet.microsoft.com/CLT) eller [utforska MS.](https://www.explore.ms/) Följ CLT-standardprocessen noggrant så att vi kan lösa din fråga så snabbt som möjligt.
 
 _____________ 
 
@@ -562,7 +562,7 @@ Alla partner som gör en transact genom Molnlösningsleverantör (CSP)-programme
 
 ### <a name="details"></a>Information 
 
-Det paketerade erbjudandet för tillägg för Microsoft 365 E1-, E3- och E5-erbjudanden omfattar Telefonsystem och nationella samtalsplan. Dessutom kommer ett nytt fristående erbjudande för nationella samtalsplan att vara tillgängligt endast för E5. De nya erbjudandena kommer endast att vara tillgängliga för kunder i USA, Puerto Toronto och Kanada. För alla andra länder och territorier förblir de befintliga globala fristående SKU:erna och priserna desamma. 
+Det paketerade erbjudandet för tillägg till Microsoft 365 E1-, E3- och E5-erbjudanden omfattar Telefonsystem och nationella samtalsplan. Dessutom kommer ett nytt fristående erbjudande för nationella samtalsplan att vara tillgängligt endast för E5. De nya erbjudandena kommer endast att vara tillgängliga för kunder i USA, Puerto Toronto och Kanada. För alla andra länder och territorier förblir de befintliga globala fristående SKU:erna och priserna desamma. 
 
 Dessa erbjudanden kommer att vara tillgängliga för kommersiella kunder, studenter, lärare, Government Community Cloud (GCC) och ideella kunder i USA, Puerto Toronto och Kanada. Anropsplaner är inte tillgängliga i något av de andra områdena i USA.
 
@@ -573,19 +573,19 @@ Dessa erbjudanden kommer att vara tillgängliga för kommersiella kunder, studen
    |Microsoft Teams Anropa Essentials för USA och Kanada för lärare och lärare|b8baa3b8-8cc2-4f26-a212-7fbeb28e7895|8N3-00003|
    |Microsoft Teams Anropa Essentials för USA och Kanada för studenter|26956da8-eeb5-44e3-aa79-d36e0e42b930|8N3-00004|
    |Microsoft Teams Anropa Essentials för USA och Kanada för GCC|7a2e2d5a-41b5-4b20-a0d1-0d06d34b5fe1|8N4-00002|
-   |Microsoft 365 Plan för nationella samtal för USA och Kanada|60d2919e-427a-46c9-bd03-89cbad27d53f|TK2-00050|
-   |Microsoft 365 Nationella samtalsplan för lärare och lärare för USA och Kanada|602e7548-375b-4e01-bf79-a9a8b8ff16d4|LM7-00006|
+   |Microsoft 365 Nationella samtalsplan för USA och Kanada|60d2919e-427a-46c9-bd03-89cbad27d53f|TK2-00050|
+   |Microsoft 365 Nationella samtalsplan för lärare och lärare i USA och Kanada|602e7548-375b-4e01-ff79-a9a8b8ff16d4|LM7-00006|
    |Microsoft 365 Plan för nationella samtal för studenter för USA och Kanada|1f4b4375-3185-40cf-b044-117fe3b102c6|LM7-00007|
    |Microsoft 365 Nationella samtalsplan för GCC för USA och Kanada|594ed84e-ddf8-4e40-9726-76c04bd29e3b|LM9-00023|
 
 ### <a name="next-steps"></a>Nästa steg
 
 - Dela den här informationen med relevanta kontakter i din organisation och förstå möjligheter till merförsäljning och korsförsäljning. 
-- Läs avsnittet resurser i Teams [partnerguide.](https://aka.ms/teamscallingmeetingsguide)
+- Läs avsnittet resurser i guiden [för Teams partner](https://aka.ms/teamscallingmeetingsguide).
 
 _____________ 
 
-## <a name="license-base-price-list-updates-for-january-2021"></a><a name="3"></a>Uppdateringar av prislistan för licensbas för januari 2021 
+## <a name="license-base-price-list-updates-for-january-2021"></a><a name="3"></a>Uppdateringar av licensbasprislistan för januari 2021 
 
 ### <a name="categories"></a>Kategorier
 
@@ -594,11 +594,11 @@ _____________
 
 ### <a name="summary"></a>Sammanfattning
 
-Prislistorna januari och februari för licensbaserade erbjudanden har uppdaterats för att korrigera vissa felaktiga listpriser.
+Prislistorna för licensbaserade erbjudanden för januari och februari har uppdaterats för att korrigera vissa felaktiga listpriser.
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Alla partner som gör en transact genom Molnlösningsleverantör -programmet (CSP).
+Alla partner som gör en transacting Molnlösningsleverantör (CSP)-programmet.
 
 ### <a name="details"></a>Information 
 
@@ -611,31 +611,31 @@ De licensbaserade prislistorna för januari 2021 och februari 2021 innehåller n
 
 Valutor som påverkas: 
 
-- Microsoft 365 E3 prisproblem begränsades till endast dessa valutor: japanska dollar (JPY), brittiska pund (GBP), EU (EUR), australiensiska dollar (AUD). 
+- Microsoft 365 E3 här prisproblemen begränsades till endast dessa valutor: Japanska Dollar (JPY), Storbritanniens brittiska pund (GBP), EU (EUR), australiensiska dollar (AUD). 
 - Microsoft 365 Business Basic problem begränsades till endast USA dollar (USD). 
 
-Partner bör referera till de prislistor för förhandsversionen av januari och februari som för närvarande är tillgängliga för rätt priser. 
+Partner bör referera till de för tillfället tillgängliga prislistorna för förhandsversionen av januari och februari för att hitta rätt priser. 
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Partner bör ladda ned de senaste prislistefilerna från Partnercenter för att hämta de korrigerade priserna för januari och februari. 
-- Globala administratörer för påverkade klienter som har köpt prenumerationer mellan 1 januari och 6 januari meddelas via e-post i Partnercenter före slutet av januari med mer information. 
+- Partner bör ladda ned de senaste prislistefilerna från Partnercenter för att få de korrigerade priserna för januari och februari. 
+- Globala administratörer för påverkade klienter som har köpt prenumerationer mellan 1 januari och 6 januari meddelas via ett Partnercenter-e-postmeddelande före slutet av januari med mer information. 
 
 ________________
-## <a name="deprecation-and-retirement-of-existing-get-and-put-qualification-apis-for-the-education-customer-validation-process-by-the-end-of-february-2021"></a><a name="2"></a>Utfasning och tillbakadragning av befintliga GET- och PUT-kvalificerings-API:er för kundvalideringsprocessen för Education i slutet av februari 2021
+## <a name="deprecation-and-retirement-of-existing-get-and-put-qualification-apis-for-the-education-customer-validation-process-by-the-end-of-february-2021"></a><a name="2"></a>Utfasning och tillbakadragning av befintliga GET- och PUT-kvalificerings-API:er för valideringsprocessen för Education-kunder i slutet av februari 2021
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Partner som säljer Academic-erbjudanden via Molnlösningsleverantör-programmet med partnercenter-API:et
+Partner som säljer Academic-erbjudanden via Molnlösningsleverantör med partnercenter-API:et
 
 ### <a name="details"></a>Information 
 
-Det här är en uppföljning av de API-förbättringar som släpptes i december 2020. I december 2020 släpptes nya GET- och POST-kvalificerings-API:er, och därför kommer de gamla GET- och PUT-kvalificerings-API:erna att dras tillbaka i slutet av februari 2021. Då måste du använda de nya GET- och POST Partner Center-API:erna för att kunna köpa Education-erbjudanden. 
+Det här är en uppföljning av DE API-förbättringar som släpptes i december 2020. I december 2020 släpptes nya GET- och POST-kvalificerings-API:er, och därför kommer de gamla GET- och PUT-kvalificerings-API:erna att dras tillbaka i slutet av februari 2021. Då måste du använda de nya GET- och POST Partner Center-API:erna för att kunna köpa Education-erbjudanden. 
 
 ### <a name="next-steps"></a>Nästa steg
 
 - Om du inte redan har gjort det uppdaterar du till de nya API:erna för en lyckad övergång i rätt tid.
-- Granska de nya partnercenter-API-ändringarna och guide i resurserna för driftberedskap: Förbättringar av [kundvalideringsprocessen i Partnercenter Education.](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- Granska de nya partnercenter-API-ändringarna och guiden i resurserna för driftberedskap: Förbättringar av kundvalideringsprocessen i [Partner Center Education.](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
 - Dela den här informationen med lämpliga team i din organisation och med dina återförsäljare för att hjälpa dem att förbereda sig för dessa ändringar.
 
 _____________
@@ -649,23 +649,23 @@ _____________
 
 ### <a name="summary"></a>Sammanfattning
 
-Nya dynamics 365-erbjudandeändringar kommer att lanseras i februari 2021.
+Nya ändringar i Dynamics 365-erbjudandet kommer att lanseras i februari 2021.
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Partner som deltar i Molnlösningsleverantör(CSP) partner för direktfakturering, indirekt leverantör och incitamentprogram för indirekta återförsäljare
+Partner som deltar i Molnlösningsleverantör(CSP) direktfaktureringspartner, indirekt leverantör och indirekta incitamentprogram för återförsäljare
 
 ### <a name="details"></a>Information
 
-Microsoft presenterar kommande nya Dynamics 365-erbjudandeändringar som kommer att lanseras i februari 2021 för:
+Microsoft presenterar kommande nya dynamics 365-erbjudandeändringar som kommer att lanseras i februari 2021 för:
 
-- Dynamics 365 Customer Voice – ytterligare svar
+- Ytterligare svar från Dynamics 365 Customer Voice
 - Dynamics 365 Customer Service Insights end of life
-- Ändring av erbjudande-ID för Dynamics 365 Cloud AX-migrering
+- Ändring av erbjudande-ID för Dynamics 365 Cloud AX
 
-**Dynamics 365 Customer Voice – ytterligare svar**
+**Ytterligare svar från Dynamics 365 Customer Voice**
 
-Den 1 februari 2021 skapar Microsoft ett nytt "Ytterligare svar"-erbjudande med 1 K svarsberättigande för att ersätta det befintliga erbjudandet med 2 K Undersökningssvar, där försäljningen avslutas den 1 februari 2021.
+Den 1 februari 2021 skapar Microsoft ett nytt "Ytterligare svar"-erbjudande med 1 K svarsberättigande för att ersätta det befintliga erbjudandet med 2 K undersökningssvar, där försäljningen avslutas den 1 februari 2021.
 
 Se fliken "Customer Voice Addl Resp" i [dokumentet Dynamics CSP Offers-February 2021 Excel](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) för information om SKU:n. Mer information finns på startsidan [för Microsoft Dynamics 365 Customer Voice.](https://dynamics.microsoft.com/customer-voice/overview/)
 
@@ -676,11 +676,11 @@ Den 1 februari 2021 ändras följande produkter till livscykeln:
 - Dynamics 365 Customer Service Insights (inklusive "Ytterligare ärenden")
 - Dynamics 365 Virtual Agent for Customer Service
 
-Den fristående upplevelsen "Customer Service Insights" går över till "Dynamics 365 Customer Service", där kunderna kan hitta samma funktioner som är djupt inbäddade i kundtjänstupplevelserna.  
+Den fristående upplevelsen "Customer Service Insights" flyttas till "Dynamics 365 Customer Service", där kunderna kan hitta samma funktioner som är djupt inbäddade i kundtjänstupplevelserna.  
 
-Se fliken Customer Service Insights i [dokumentet Dynamics CSP Offers-February 2021 Excel](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) för information om SKU:n. Besök [startsidan för Microsoft Dynamics-kundtjänst för](https://dynamics.microsoft.com/customer-service/overview/) mer information.
+Se fliken Customer Service Insights i [dokumentet Dynamics CSP Offers-February 2021 Excel](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) för information om SKU:n. Besök startsidan [för Microsoft Dynamics Customer Service för](https://dynamics.microsoft.com/customer-service/overview/) mer information.
 
-**Erbjudande-ID:er för Dynamics 365 Cloud AX-migrering**
+**Erbjudande-ID:er för Dynamics 365 Cloud AX**
 
 Dessa SKU:er har tagits bort från den slutliga prislistan från den 1 januari 2021 och kommer inte att vara tillgängliga för beställning just nu. 
 
@@ -689,7 +689,7 @@ Dessa SKU:er har tagits bort från den slutliga prislistan från den 1 januari 2
    |Dynamics 365 Finance for AX Migration Program|7fbd1115-a4c1-4cf9-b881-40c4187ca581|
    |Dynamics 365 Supply Chain Management for AX Migration Program|a3c62c0e-4f8a-4fc9-a47e-dec3310529d0|
    |Dynamics 365 Commerce for AX Migration Program|97e98de6-24a8-4282-bad6-9d1a874e90a4|
-   |Dynamics 365 Finance Attach till kvalificerande Dynamics 365 Base Offer for AX Migration Program|69d789e8-1e93-4dee-86b2-3ddfb03c08b9|
+   |Dynamics 365 Finance Attach to Qualifying Dynamics 365 Base Offer for AX Migration Program|69d789e8-1e93-4dee-86b2-3ddfb03c08b9|
    |Dynamics 365 Supply Chain Management Attach to Qualifying Dynamics 365 Base Offer for AX Migration Program|c897adce-2964-4d24-abc3-7f7ad4b6a80d|
    |Dynamics 365 Commerce Attach to Qualifying Dynamics 365 Base Offer for AX Migration Program|ba1fe561-cfda-405a-a25d-ecda3bd3cba7|
    |Dynamics 365 Operations – Activity for AX Migration Program|177e954e-1fff-4941-8967-55a47e36e1ce|
@@ -702,6 +702,6 @@ Granska resurserna om det här ämnet och dela dem med lämpliga intressenter i 
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har fler frågor om dessa erbjudanden kan du läsa dina Yammer communityn.
+Om du har fler frågor om dessa erbjudanden kan du gå till Yammer communityn.
 
 ________________

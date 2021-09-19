@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
-ms.openlocfilehash: 9e90a90a25c1d8ad5ef71535d3b89e558352f328
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: ed1959e9b264b3f324fb0f2f528971163160f431
+ms.sourcegitcommit: 90c87bd5e63a8af932ece5696267ea715fea6a01
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961376"
+ms.lasthandoff: 09/19/2021
+ms.locfileid: "127962534"
 ---
 # <a name="the-10-essentials-for-working-with-incentives"></a>De 10 grundläggande för att arbeta med incitament
 
@@ -41,7 +41,7 @@ Det är viktigt att få en gedigen förståelse för de roller och behörigheter
 
 ## <a name="5-review-the-incentives-faq"></a>5. Läs vanliga frågor och svar om incitament
 
-Få svar på vanliga incitamentsfrågor innan du ens ställer dem. Vi uppdaterar vanliga frågor och svar om incitament med hjälp av information Microsoft Support och direkt kommunikation med partner. Du kan se vanliga frågor och svar [här.](incentives-faq.yml)
+Du kan få svar på vanliga incitamentsfrågor innan du ens tänker på dem. Vi uppdaterar [ofta vanliga frågor och svar om](incentives-faq.yml) incitament med hjälp av information Microsoft Support och direkt kommunikation med partner.
 
 ## <a name="6-confirm-your-program-eligibility"></a>6. Bekräfta din behörighet för programmet
 

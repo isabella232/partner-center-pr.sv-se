@@ -12,17 +12,17 @@ ms.custom:
 ms.localizationpriority: high
 ms.date: 09/01/2021
 ms.openlocfilehash: a6cd5e9734a2ba9657649f012225dee96cd1e265
-ms.sourcegitcommit: 8d5c2463fc0f0c03972a6f89d01605421288daea
+ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "127932842"
+ms.lasthandoff: 09/19/2021
+ms.locfileid: "127960901"
 ---
 # <a name="april-2021-announcements"></a>Meddelanden april 2021
 
 Den här sidan innehåller meddelanden för Microsoft Partner Center för april 2021.
 
-## <a name="readiness-updated-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="10"></a>Beredskap: Uppdaterade CSP-kundadressvaliderings-API:et går i drift i juni. nu tillgänglig testfunktion
+## <a name="readiness-updated-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="10"></a>Beredskap: Uppdaterade VALIDERINGs-API:et för CSP-kundadresser live i juni; nu tillgänglig testfunktion
 
 ### <a name="categories"></a>Kategorier
 
@@ -31,43 +31,43 @@ Den här sidan innehåller meddelanden för Microsoft Partner Center för april 
 
 ### <a name="summary"></a>Sammanfattning
 
-För att hjälpa partner och kunder att driva sin verksamhet baserat på förtroende bjuder vi in partner att testa ändringar i API:et validate address för alla länder över hela världen.
+För att hjälpa partner och kunder att driva sin verksamhet baserat på förtroende kommer vi att bjuda in partner att testa ändringar i API:et validate address för alla länder över hela världen.
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
 CSP-direktfaktureringspartner och indirekta leverantörer som skapar nya eller uppdaterar befintliga kunders adressinformation
 
 ### <a name="details"></a>Information
 
-Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för kundadressvalidering för att hantera kundprenumerationer i CSP-programmet. Från och med 31 mars 2021 har vi infört ändringar i API:et validate address. Vi bjuder in partner att testa API:et före go-live i slutet av juni 2021. 
+Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för validering av kundadresser för att kunna hantera kundprenumerationer i CSP-programmet. Från och med 31 mars 2021 har vi infört ändringar i API:et validate address. Vi bjuder in partner att testa API:et före livesändningen i slutet av juni 2021. 
 
-Observera att dessa ändringar endast påverkar API:et verifiera adress. API:er för att skapa kund och uppdatera faktureringsprofil påverkas inte. Även om den föreslagna adressen för närvarande inte behöver användas med API:et för att skapa kund rekommenderar vi starkt den.
+Observera att dessa ändringar endast påverkar API:et för valideringsadress. API:er för att skapa kund och uppdatera faktureringsprofil påverkas inte. Även om den föreslagna adressen för närvarande inte behöver användas med API:et för att skapa kund rekommenderas det starkt.
 
 Svaret returnerar något av följande statusmeddelanden:
 
 | Status     | Beskrivning |    Antal föreslagna adresser som returneras |
 |-------|---------------|-------------------|
-|Verifierad leveransbar | Adressen är verifierad och kan skickas till. | Enkel |
+|Verifierad leverans | Adressen är verifierad och kan skickas till. | Enkel |
 |Verifierat | Adressen är verifierad. | Enkel |
 |Interaktion krävs | Den föreslagna adressen har ändrats avsevärt och kräver användarbekräftelse. | Enkel |
-|Gatuadress delvis | Den angivna gatuadressen är delvis och behöver mer information. | Multipel – högst tre |
-|Delvis lokal | De angivna lokalerna (byggnummer, svitnummer och annat) är ofullständiga och behöver mer information. | Multipel – högst tre |
-|Flera | Det finns flera fält som är partiella i adressen (inklusive delvis gatuadress och delvis lokal). | Multipel – högst tre |
+|Partiell gatuadress | Den angivna gatuadressen är delvis och behöver mer information. | Flera – högst tre |
+|Delvis lokal | De angivna lokalerna (byggnadsnummer, svitnummer och andra) är ofullständiga och behöver mer information. | Flera – högst tre |
+|Flera | Det finns flera fält som är partiella i adressen (inklusive delvis gatuadress och delvis lokal). | Flera – högst tre |
 |Ingen | Adressen är felaktig. | Ingen |
-|Inte validerat | Adressen kunde inte skickas via valideringsprocessen. | Ingen |
+|Inte validerat | Adressen kunde inte skickas via verifieringsprocessen. | Ingen |
 
 Amerikanska postkoder returnerar ytterligare fyra siffror + bindestreck, till exempel 12345-6789.
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Mer detaljerad vägledning finns i den tekniska dokumentationen och vanliga frågor och svar [i](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) den dedikerade partnersamlingen.
+- Mer detaljerad vägledning finns i den tekniska dokumentationen och vanliga frågor [och svar i](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) den dedikerade partnersamlingen.
 - Förbered för att införliva ändringarna med partnercenter-API:et och webbanvändarupplevelsen. 
-- Dela ditt klient-ID för sandbox-miljön med ämnesexperten (Ali Firmwareki) som ska ingå i testresan, så att du kan börja förbereda dig för uppdateringen. 
-- Om du använder en CPV-lösning (Kontrollpanelens leverantör) kan du kontakta din CPV.
+- Dela ditt sandbox-klientorganisations-ID med ämnesexperten (Ali Firmwareki) som ska ingå i testresan, så att du kan börja förbereda dig för uppdateringen. 
+- Om du använder en CPV-lösning (Kontrollpanelens leverantör) bör du kontakta din CPV.
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du behöver support för din verksamhet med Microsoft kan du kontakta din partnersupport Yammer eller öppna en [tjänstbegäran.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
+Om du behöver support för dina åtgärder med Microsoft kan du kontakta din partnersupport Yammer eller öppna en [tjänstbegäran.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
 
 _______________
 ## <a name="new-location-for-partner-center-api-swagger-documentation"></a><a name="9"></a>Ny plats för Swagger-dokumentation för Partner Center API
@@ -79,19 +79,19 @@ _______________
 
 ### <a name="summary"></a>Sammanfattning
 
-Partner Center API Swagger-dokument har migrerats från den tidigare [Webbplatsen för Swagger-dokumentation](https://apidocs.microsoft.com/services/partnercenter) till en [ny Swagger-dokumentationswebbplats.](/rest/api/partner-center-rest/)
+Partner Center API Swagger-dokument har migrerats från den tidigare [Webbplatsen för Swagger-dokumentation](https://apidocs.microsoft.com/services/partnercenter) till en [ny webbplats för Swagger-dokumentation.](/rest/api/partner-center-rest/)
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Partner för direktfakturering och indirekta leverantörer som deltar i Molnlösningsleverantör-programmet (CSP) som använder Partner Center-API:erna
+Direktfaktureringspartner och indirekta leverantörer som deltar i Molnlösningsleverantör-programmet (CSP) som använder Partner Center-API:er
 
 ### <a name="details"></a>Information
 
-Från och med 26 april 2021 finns Partner Center API Swagger-dokumentationen, inklusive Rest API-innehåll, på en [ny webbplats.](/rest/api/partner-center-rest/) Den gamla webbplatsen är otillgänglig efter flera veckor.
+Från och med 26 april 2021 finns Partner Center API Swagger-dokumentationen, inklusive Rest API-innehåll, på en [ny webbplats.](/rest/api/partner-center-rest/) Den gamla platsen kommer inte att vara tillgänglig efter flera veckor.
 
 ### <a name="benefits"></a>Fördelar
 
-I Dokumentationen för Partnercenter-API:et för Swagger finns en **Try It-funktion.** Om du vill använda den här funktionen måste du ha en bearer-token som du kan generera genom att följa stegen i [Partner Center Authentication](/partner-center/develop/partner-center-authentication#app--user-authentication).
+Swagger-dokumentationen för Partnercenter-API:et innehåller **en Try It-funktion.** Om du vill använda den här funktionen måste du ha en bearer-token som du kan generera genom att följa stegen i [Partner Center-autentisering.](/partner-center/develop/partner-center-authentication#app--user-authentication)
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -99,10 +99,10 @@ Dela den här informationen i din organisation så att rätt team kan granska oc
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har frågor om dessa erbjudanden kan du kontrollera Yammer communityn.
+Om du har frågor om dessa erbjudanden kan du gå till Yammer communityn.
 
 ________________
-## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>Molnlösningsleverantör (CSP) princip för programvarureturperiod och förfallomeddelande om nedladdningslänk
+## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>Molnlösningsleverantör princip för programvarureturperiod (CSP) och förfallomeddelande om nedladdningslänk
 
 ### <a name="categories"></a>Kategorier
 
@@ -111,42 +111,42 @@ ________________
 
 ### <a name="summary"></a>Sammanfattning
 
-Det finns ändringar i CSP-principen för programvarureturperiod och nedladdningslänken upphör att gälla.
+Det finns ändringar i CSP-principen för programvarureturperiod och nedladdningslänkens upphörande.
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Partner som gör permanenta programvaru- eller programvaruprenumerationserbjudanden i CSP
+Partner som gör en löpande programvaru- eller programvaruprenumeration i CSP
 
 ### <a name="details"></a>Information
 
-Observera följande viktiga meddelanden om löpande programvaru- och programvaruprenumerationsköp via Partnercenter:
+Observera följande viktiga meddelanden om kontinuerliga programvaru- och programvaruprenumerationsköp via Partnercenter:
 
 #### <a name="software-return-period-policy"></a>Princip för programvarureturperiod
 
-Från och med 1 juni 2021 ändras returperioden för programvaruerbjudanden i CSP enligt vad som anges i Microsoft-partneravtal (MPA) från 60 dagar från orderdatumet till 30 dagar från orderdatumet.
+Från den 1 juni 2021 ändras returperioden för programvaruerbjudanden i CSP enligt vad som anges i Microsoft-partneravtal (MPA) från 60 dagar från orderdatumet till 30 dagar från orderdatumet.
 
-När en beställning av ett programvaruerbjudande har skickats har partnern 30 dagar från orderdatumet för att skicka eventuella revisioner till en sådan beställning:
+När en beställning för ett programvaruerbjudande har skickats har partner 30 dagar från orderdatumet för att skicka ändringar i en sådan order:
 
 - Alla permanent programvarulicens som returneras inom 30-dagars returperioden får en fullständig kredit av det betalda inköpspriset.
 
-- Alla produkter för programvaruprenumeration som returneras inom 30-dagars returperioden får en pronomenerad kredit på det betalda inköpspriset.
+- Alla produkter för programvaruprenumeration som returneras inom 30-dagars returperioden får en pronomenterad kredit av det betalda inköpspriset.
 
 Det här meddelandet är en uppföljning av vår e-postkommunikation som skickades december 2020 och april 2021 till alla CSP-partner angående returperioden och andra uppdateringar av MPA. Se dessa meddelanden för fullständig information om ändringar som påverkar MPA.
 
 #### <a name="software-download-link-expiry"></a>Länk för nedladdning av programvara upphör att gälla
 
-Från och med 3 juni 2021 har nedladdningslänkarna för permanent programvara och produktköp av programvaruprenumeration via Partnercenter ett förfallodatum på fem dagar från den första nedladdningen. Förfalloperioden gäller för alla inköp före 3 juni 2021, samt den 3 juni 2021 eller senare.
+Från och med den 3 juni 2021 har nedladdningslänkarna för programvara och produktinköp av programvaruprenumeration via Partnercenter ett förfallodatum på fem dagar från den första nedladdningen. Förfalloperioden gäller för alla inköp före 3 juni 2021, samt den eller efter 3 juni 2021.
 
 ### <a name="next-steps"></a>Nästa steg
 
-Granska [CSP-returperioden och vanliga frågor och](https://partner.microsoft.com/resources/detail/csp-software-return-period-download-expiry-faq-pdf)svar om att nedladdningslänken upphör att gälla och informera alla lämpliga team i din organisation om dessa ändringar:
+Granska [CSP-returperioden och vanliga frågor och](https://partner.microsoft.com/resources/detail/csp-software-return-period-download-expiry-faq-pdf)svar om nedladdningslänkens upphörande och informera alla lämpliga team i din organisation om dessa ändringar:
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har frågor om dessa erbjudanden kan du kontrollera Yammer communityn.
+Om du har frågor om dessa erbjudanden kan du gå till Yammer communityn.
 
 ________________
-## <a name="open-licensing-program-transitioning-resellers-to-the-cloud-solution-provider-csp-program"></a><a name="7"></a>Open Licensing Program: Övergångsåterförsäljare till Molnlösningsleverantör (CSP)
+## <a name="open-licensing-program-transitioning-resellers-to-the-cloud-solution-provider-csp-program"></a><a name="7"></a>Open Licensing Program: Övergångsåterförsäljare till Molnlösningsleverantör (CSP)-programmet
 
 ### <a name="categories"></a>Kategorier
 
@@ -211,7 +211,7 @@ Använd de kommande månaderna för att hjälpa Open License-återförsäljare a
 
 ### <a name="questions"></a>Har du några frågor?
 
-Mer information om dessa erbjudanden finns i relevanta Yammer communityn.
+Om du har fler frågor om dessa erbjudanden kan du läsa dina Yammer communityer.
 
 ________________
 ## <a name="now-live-global-promo-readiness-guide"></a><a name="6"></a>Nu live: Guide för global kampanjberedskap
@@ -227,7 +227,7 @@ Launch Readiness har publicerat en ny [global guide för kampanjberedskap](https
 
 ### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Alla volymlicensieringspartner (VL), Dynamics Price List (DPL) Molnlösningsleverantör (CSP)
+Alla partner för volymlicensiering (VL), Dynamics Price List (DPL) Molnlösningsleverantör (CSP)
 
 ### <a name="details"></a>Information
 
@@ -247,7 +247,7 @@ Som en månatlig påminnelse kommer vi också att publicera ett Partnercenter-me
 
 ### <a name="next-steps"></a>Nästa steg
 
-I början av varje månad hittar du den senaste guiden för global [kampanjberedskap i](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) [resursgalleriet för driftberedskap.](https://partner.microsoft.com/resources)
+I början av varje månad hittar du den senaste guiden för global [kampanjberedskap](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) i [resursgalleriet för driftberedskap.](https://partner.microsoft.com/resources)
 
 Dela den här informationen med lämpliga kontakter i dina organisationer och berätta för oss hur användbar guiden är genom "Var den här sidan användbar?" i slutet av varje sida.
 
@@ -269,9 +269,9 @@ CSP-direktfaktureringspartner och indirekta leverantörer
 
 ### <a name="details"></a>Information
 
-Den här månaden innehåller resurserna följande viktiga avsnitt:
+Den här månaden innehåller resurserna följande viktiga ämnen:
 
-- [Uppdatering av CSP-programutveckling och ändringar i Open License-programmet](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/)
+- [Uppdatera till CSP-programutveckling och ändringar i Open License-programmet](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/)
 
 - [Ändringar av CSP-kundernas registreringskrav i vissa regioner](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/)
 
@@ -322,13 +322,13 @@ Partner som säljer erbjudanden för Academic, Nonprofit och Government Communit
 
 ### <a name="details"></a>Information
 
-Det här meddelandet är en uppföljning av partnercenterförbättringarna [som släpptes i december](./2020-december.md#1). Som en del av den här versionen distribuerades nya GET- och POST-kvalificerings-API:er och därför kommer den befintliga GET-kvalificeringen att dras tillbaka den 6 maj **2021.** Då måste du ha gått över till att använda de nya POST Partner Center-API:erna. Med de nya POST-API:erna kan du köpa Education-erbjudanden, medan de nya GET-API:erna gör att du kan köpa förkvalificerade erbjudanden GCC ideella organisationer.
+Det här meddelandet är en uppföljning av partnercenterförbättringarna [som släpptes i december](./2020-december.md#1). Som en del av den versionen distribuerades nya GET- och POST-kvalificerings-API:er och därför kommer den befintliga GET-kvalificeringen att dras tillbaka den 6 maj **2021.** Då måste du ha gått över till att använda de nya POST Partner Center-API:erna. Med de nya POST-API:erna kan du köpa Education-erbjudanden, medan de nya GET-API:erna gör att du kan köpa förkvalificerade erbjudanden för ideella organisationer och GCC.
 
 ### <a name="next-steps"></a>Nästa steg
 
 - **Uppdatera till de nya API:erna** för en lyckad övergång i rätt tid.
 
-- **Granska de nya partnercenter-API-ändringarna och guiden** i resurserna för driftberedskap: Förbättringar av [kundvalideringsprocessen](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)i Partner Center Education.
+- **Granska de nya partnercenter-API-ändringarna och guiden** i resurserna för driftberedskap: Förbättringar av [kundvalideringsprocessen i PartnerCenter Education.](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
 
 - Dela den här informationen med lämpliga team i din organisation och med dina återförsäljare för att hjälpa dem att förbereda sig för dessa ändringar.
 
@@ -344,7 +344,7 @@ Om du har frågor om det här meddelandet kontaktar du [supporten för Partnerce
 
 - Februari: Uppdaterade tidslinjer för utfasning av GET & PUT-kvalificeringar
 
-- Januari: Påminnelse om kommande utfasningar av GET & PUT-kvalificeringar
+- Januari: Påminnelse om kommande utfasningar av GET & PUT-utbildning
 
 ________________
 ## <a name="new-format-for-the-new-commerce-pdf-invoice-in-csp"></a><a name="3"></a>Nytt format för den nya PDF-fakturan för handel i CSP
@@ -356,9 +356,9 @@ ________________
 
 ### <a name="summary"></a>Sammanfattning
 
-Microsoft introducerar ett nytt format för den nya PDF-fakturan för handel i Molnlösningsleverantör-programmet (CSP) för att visa faktureringsinformation efter produktinformation i stället för SKU-beskrivning.
+Microsoft introducerar ett nytt format för den nya PDF-handelsfakturan i Molnlösningsleverantör-programmet (CSP) för att visa faktureringsinformation efter produktinformation i stället för SKU-beskrivning.
 
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
 Partner som gör en överträdelse via CSP-programmet
 
@@ -366,9 +366,9 @@ Partner som gör en överträdelse via CSP-programmet
 
 Från och med maj 2021 introducerar Microsoft ett nytt format för den nya PDF-fakturan för handel i CSP-programmet för att visa faktureringsinformation efter produktinformation i stället för SKU-beskrivning. Med den här nya uppdateringen kommer vi att aggregera radobjekten efter produkttyp samtidigt som vi visar varje produkt på en enskild rad.
 
-Partner kommer att märka att ändringen börjar gälla på fakturan för maj för faktureringsperioden mellan den 1 april 2021 och den 30 april 2021. De berörda erbjudandena är Microsoft Azure reserverad instans, Azure-prenumerationer (Azure-plan) och Marketplace.
+Partner kommer att märka att ändringen börjar gälla på fakturan för faktureringsperioden mellan 1 april 2021 och 30 april 2021. De berörda erbjudandena är Microsoft Azure Reserverad instans, Azure-prenumerationer (Azure-plan) och Marketplace.
 
-Eventuella begäranden om kreditrefakturering som görs efter att fakturaformatet har uppdaterats genereras i det nya formatet.
+Eventuella begäranden om kreditfakturering som görs efter att fakturaformatet har uppdaterats genereras i det nya formatet.
 
 #### <a name="partner-benefits"></a>Partnerförmåner
 
@@ -380,7 +380,7 @@ Den här uppdateringen kommer att erbjuda följande förbättringar av faktureri
 
 Följande element påverkas inte:
 
-- Sidan med faktureringssammanfattning i PDF-filen med faktura
+- Sidan Med faktureringssammanfattning på PDF-fakturan
 
 - Befintliga fakturerings-API:er
 
@@ -393,7 +393,7 @@ Följande element påverkas inte:
 Granska informationen om det här avsnittet i [resursgalleriet för driftberedskap](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/) på Microsofts partnerwebbplats. Mer information om fakturerings- och skatteämnen som faktureringsresurser, fakturor, CSP-fakturering och skatter finns i [avsnittet Fakturering](../billing.md) i Partnercenter.
 
 ________________
-## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="2"></a>Ändringar i CSP Molnlösningsleverantör-kundernas registreringskrav
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="2"></a>Ändringar i CSP Molnlösningsleverantör(CSP)-kundernas registreringskrav
 
 ### <a name="categories"></a>Kategorier
 
@@ -404,13 +404,13 @@ ________________
 
 Som en del av vårt åtagande att hjälpa partner och kunder att driva sin verksamhet baserat på förtroende begär vi ytterligare kundinformation från och med den 25 mars 2021.
 
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
-CSP-direktfaktureringspartner och indirekta leverantörer som har nya eller befintliga kunder i de länder som anges i nästa avsnitt
+CSP:s direktfaktureringspartner och indirekta leverantörer som har nya eller befintliga kunder i de länder som anges i nästa avsnitt
 
 ### <a name="details"></a>Information
 
-Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för kundvalidering för att kunna göra kundprenumerationer i CSP-programmet. Den 25 mars 2021 introducerar vi förbättringar av Partner Center API och användargränssnitt som påverkar partner som uppfyller båda följande kriterier:
+Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för kundvalidering för att omvandla kundprenumerationer i CSP-programmet. Den 25 mars 2021 introducerar vi förbättringar av Partner Center API och användargränssnitt som påverkar partner som uppfyller båda följande kriterier:
 
 - Partnern har en direkt faktureringsrelation med Microsoft (vilket innebär att partnern antingen är en partner för direktfakturering eller en indirekt leverantör).
 
@@ -432,9 +432,9 @@ Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompat
 
 Partner som uppfyller villkoren måste skicka en kunds företagsregistrerings-ID (kallas även kundens organisation INN) och telefonnummer nästa gång de uppdaterar eller skapar en prenumeration för kunden. Dessa partner kan också ange ett mellannamn för kunden (valfritt).
 
-Observera att när du lägger till ditt företagsregistrerings-ID bör du använda ditt företagsskatte-ID och inte kundens personliga ID.
+Observera att när du lägger till ditt företagsregistrerings-ID bör du använda ditt företags skatte-ID och inte kundens personliga ID.
 
-Partner som gör affärer med nya eller befintliga kunder i följande länder har redan fått en tidigare version i november 2020.
+Partner som gör affärer med nya eller befintliga kunder i följande länder har redan introducerats med en tidigare version i november 2020.
 
 - Armenien
 - Azerbajdzjan
@@ -448,21 +448,21 @@ Partner som gör affärer med nya eller befintliga kunder i följande länder ha
 - Ukraina
 - Uzbekistan
 
-Partner med kunder i resten av världen kommer att ha möjlighet i slutet av mars 2021 att ange företagets registrerings-ID, telefonnummer och mellannamn för kunder som valfri information.
+Partner med kunder i resten av världen kan i slutet av mars 2021 ange företagets registrerings-ID, telefonnummer och mellannamn för kunder som valfri information.
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Mer detaljerad vägledning finns i den tekniska dokumentationen och vanliga frågor [och svar i](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) den dedikerade partnersamlingen.
+- Mer detaljerad vägledning finns i den tekniska dokumentationen och vanliga frågor och svar [i](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) den dedikerade partnersamlingen.
 - Förbered för att införliva ändringarna med partnercenter-API:et och webbanvändarupplevelsen. API/SDK:er kommer att vara tillgängliga för testning.
 - Se till att skicka in ytterligare data när du registrera nya kunder eller ändrar befintlig kundinformation.
-- Om du använder en CPV-lösning (Kontrollpanelens leverantör) bör du kontakta din CPV.
+- Om du använder en CPV-lösning (Kontrollpanelens leverantör) kan du kontakta din CPV.
 
 >[!NOTE]
 >Om en CSP-transaktion inte kan bearbetas kan det betyda att klientorganisationen inte verifieras. När detta inträffar måste kunden köpa ett utvärderingserbjudande från Microsoft-administratörsportalen.
 >
 >#### <a name="purchase-a-trial-offer"></a>Köpa ett utvärderingserbjudande
 >
->1. Öppna [Microsoft Admin Center-portalen](https://admin.microsoft.com/).
+>1. Öppna [Microsoft Admin Center-portalen.](https://admin.microsoft.com/)
 >
 >2. I den vänstra navigeringsmenyn väljer **du Fakturering** och sedan **Köp tjänster.**
 >
@@ -485,15 +485,15 @@ Om du behöver support för dina åtgärder med Microsoft öppnar du en [tjänst
  
 ### <a name="summary"></a>Sammanfattning
 
-Produktlanserings kalender för april 2021 publiceras nu.
+Produktlanseringskalendern för april 2021 publiceras nu.
 
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
 Alla partner som gör en Molnlösningsleverantör via CSP-programmet
 
 ### <a name="details"></a>Information
 
-Kalendern för april [2021-produktlansering](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) är nu tillgänglig i resursgalleriet för driftberedskap. Visa kommande produktlanseringar och erbjudanden här.
+Produktlanseringskalendern för [april](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) 2021 är nu tillgänglig i resursgalleriet för driftberedskap. Visa kommande produktlanseringar och erbjudanden här.
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -501,4 +501,4 @@ Granska kalendern [för produktlansering](https://partner.microsoft.com/resource
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har fler frågor om dessa erbjudanden kan du läsa dina Yammer communityn.
+Om du har fler frågor om dessa erbjudanden kan du läsa dina Yammer communityer.
