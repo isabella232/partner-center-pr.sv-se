@@ -9,16 +9,16 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: c0c65c962fdc46ce4685ee3bb63bacdec036f1e8
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: e9313a7d7f6554a544eeb81a023db3a3a3eeff22
+ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246648"
+ms.lasthandoff: 09/19/2021
+ms.locfileid: "127966198"
 ---
 # <a name="training-vouchers-program-retirement"></a>Utbildningsutbildningsprogram går i pension
 
-Software Assurance träningsutbildning (SATV:er) håller på att dras tillbaka helt från Software Assurance-förmåner, men kunderna kan fortsätta att använda flera dagar för lärarledd utbildning medan förmånerna är giltiga. Det här är de viktiga datumen som ledde fram till att programmet pensioneras: 
+Software Assurance satv:er dras tillbaka helt och hållet från Software Assurance-förmåner, men kunderna kan fortsätta att använda flera dagar för lärarledd utbildning medan bidragen är giltiga. Det här är de viktiga datumen som ledde fram till att programmet pensioneras: 
 
 - 1 februari 2020: Azure-träningen dras tillbaka från utbildningskatalogen.
 - 1 februari 2020: Träningsutbildningsutbildningar kan inte längre konverteras till Planning Services-dagar.  
@@ -27,7 +27,7 @@ Software Assurance träningsutbildning (SATV:er) håller på att dras tillbaka h
 - 1 januari 2022: Sista dagen för partner att lösa in träningsutbildningar. Partnern har 60 dagar efter inlösningen för att slutföra processen med betalningsbegäran.  
 
 >[!NOTE]
->Livscykeln för livscykeln ändras inte. När en sedel har skapats/tilldelats måste reservationsreservation, träningssessioner och inlösen slutföras inom 180 dagar innan den upphör att gälla.  Mer information om pensionering av utbildningsutbildning finns i Vanliga frågor och svar [här](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) (inloggning krävs).  Se den fullständiga listan över SATV-berättigade utbildningskurser i produktkatalogen för utbildningsförmånen. Skicka eventuella frågor till ditt regionala partnersupportteam: [EMEA-partnersupport;](mailto:savoucher@msdirectservices.com) [Allmänt partnerstöd](https://partner.microsoft.com/dashboard/support/servicerequests).
+>Livscykeln för livscykeln ändras inte. När en sedel har skapats/tilldelats måste reservationsreservation, träningssessioner och inlösen slutföras inom 180 dagar innan den upphör att gälla.  Mer information om pensionering av utbildningsutbildning finns i Vanliga frågor och svar om [Software Assurance för förmånsändringar](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) (inloggning krävs).  Se den fullständiga listan över SATV-berättigade utbildningskurser i produktkatalogen för utbildningsförmånen. Skicka eventuella frågor till ditt regionala partnersupportteam: [EMEA-partnersupport;](mailto:savoucher@msdirectservices.com) [Allmänt partnerstöd](https://partner.microsoft.com/dashboard/support/servicerequests).
 
 
 
@@ -48,7 +48,7 @@ Den här artikeln förklarar hur du slutför varje steg.
 
 ## <a name="confirm-program-eligibility"></a>Bekräfta programberättigande
 
-Innan du kan registrera dig i SATV-programmet måste du först uppfylla kraven för alternativet Microsoft Partner Network (MPN) Learning, som ersätter Microsoft Learning-kompetensen. Lär dig hur du kommer igång [Learning alternativet.](https://partner.microsoft.com/membership/learning-partners)
+Innan du kan registrera dig i SATV-programmet måste du först uppfylla kraven för alternativet Microsoft Partner Network (MPN) Learning, som ersätter Microsoft Learning-kompetensen. Lär dig hur du kommer igång Learning [alternativet.](https://partner.microsoft.com/membership/learning-partners)
 
 Du kan kontrollera berättigandet för ditt företag, inklusive tillämpliga kompetens- och utvärderingskrav i Partnercenter. Följ anvisningarna i [steg 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) i SATV-arbetsflödet för mer information och skärmdumpar.
 
@@ -85,6 +85,6 @@ Mer information finns i Vanliga frågor och [svar och](https://query.prod.cms.rt
 
 Se även:
 
-- [Software Assurance SATV-arbetsflöde (Training Training](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)
+- [Software Assurance ARBETSFLÖDE för träningsträning (SATV)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)
 - [Software Assurance vanliga frågor och svar om träningsträning (SATV)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)
-- [Software Assurance SATV-principer (Training Training](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)
+- [Software Assurance PRINCIPER för träningsträning (SATV)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)
