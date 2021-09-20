@@ -9,11 +9,11 @@ ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
 ms.openlocfilehash: ed1959e9b264b3f324fb0f2f528971163160f431
-ms.sourcegitcommit: 90c87bd5e63a8af932ece5696267ea715fea6a01
+ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/19/2021
-ms.locfileid: "127962534"
+ms.lasthandoff: 09/20/2021
+ms.locfileid: "128007229"
 ---
 # <a name="the-10-essentials-for-working-with-incentives"></a>De 10 grundläggande för att arbeta med incitament
 
@@ -25,7 +25,7 @@ Vi rekommenderar att du gör de 10 essentials som anges **nedan innan** du börj
 
 ## <a name="1-join-the-microsoft-partner-network"></a>1. Anslut Microsoft Partner Network
 
-Om du ännu inte är en Microsoft-partner måste du gå med i MPN för att dra nytta av incitament och andra fördelar. Mer information finns i [Microsoft Partner Network Medlemskap.](https://partner.microsoft.com/membership)
+Om du ännu inte är en Microsoft-partner måste du gå med i MPN för att dra nytta av incitament och andra fördelar. Mer information finns i [Microsoft Partner Network Medlemskap](https://partner.microsoft.com/membership).
 
 ## <a name="2-read-your-incentives-program-guide"></a>2. Läs din guide för incitamentsprogram
 
