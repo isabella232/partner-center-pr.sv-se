@@ -10,11 +10,11 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 78af2ddb9c532b3c414ccd8176a0447d0f4b9487
-ms.sourcegitcommit: 5abf065c8852a858a0aa7185176d3e117f2be7e5
+ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "127958881"
+ms.lasthandoff: 09/20/2021
+ms.locfileid: "128031195"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Molnlösningsleverantör de regionala marknader och valutor där du kan sälja CSP-erbjudanden
 
@@ -99,9 +99,9 @@ Om företagets plats finns i listan nedan kan du sälja CSP-erbjudanden till kun
 | Zambia                   |   USD    |
 |
 
-## <a name="asia-and-pacific-region-and-market"></a>Asien och Stillahavsområdet och marknaden
+## <a name="asia-and-pacific-region-and-market"></a>Region och marknad i Asien och Stillahavsområdet
 
-Om ditt företags plats finns i listan nedan kan du sälja CSP-erbjudanden till kunder på alla platser i listan.
+Om företagets plats finns i listan nedan kan du sälja CSP-erbjudanden till kunder på alla platser i listan.
 
 | Land/region     | Valuta |
 | --------------     |:--------:|
@@ -127,7 +127,7 @@ Om ditt företags plats finns i listan nedan kan du sälja CSP-erbjudanden till 
 
 ## <a name="australia-region-and-market"></a>Australien, region och marknad
 
-Om ditt företags plats finns i listan nedan kan du sälja CSP-erbjudanden till kunder på alla platser i listan.
+Om företagets plats finns i listan nedan kan du sälja CSP-erbjudanden till kunder på alla platser i listan.
 
 |  Land/region        | Valuta |
 |  --------------        |:--------:|
@@ -254,7 +254,7 @@ Om ditt företags plats är Japan kan du sälja CSP-erbjudanden till kunder i Ja
 |  Japan          |   JPY    |
 |
 
-## <a name="korea-republic-of-region-and-market"></a>Sydkorea, Regionen Och marknaden
+## <a name="korea-republic-of-region-and-market"></a>Sydkorea, republikens region och marknad
 
 Om ditt företags plats är Sydkorea kan du sälja CSP-erbjudanden till kunder i Sydkorea.
 
@@ -265,7 +265,7 @@ Om ditt företags plats är Sydkorea kan du sälja CSP-erbjudanden till kunder i
 
 ## <a name="latin-america-and-the-caribbean-region-and-market"></a>Latinamerika region och marknad
 
-Om ditt företags plats finns i listan nedan kan du sälja CSP-erbjudanden till kunder på alla platser i listan.
+Om företagets plats finns i listan nedan kan du sälja CSP-erbjudanden till kunder på alla platser i listan.
 
 |  Land/region | Valuta |
 |  -------------- |:--------:|

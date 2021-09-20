@@ -9,18 +9,18 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/18/2021
-ms.openlocfilehash: 29d340b1151a122792749c7cb400d647f42af33a
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: f60cef1922a433eefbb563147447a18251b05bc8
+ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247254"
+ms.lasthandoff: 09/20/2021
+ms.locfileid: "128031229"
 ---
 # <a name="december-2020-announcements"></a>Meddelanden december 2020
 
 Den här sidan innehåller information om meddelanden för Microsoft Partner Center för november 2020.
 
-2020-meddelanden: [april juni](2020-april.md)  |  [](2020-may.md)  |  [juli](2020-june.md)  |  [augusti](2020-july.md)  |  [](2020-august.md)  |  [september](2020-september.md)  |  [](2020-October.md)  |  [november](2020-november.md) | December
+2020-meddelanden: [april juni](2020-april.md)  |  [juli](2020-may.md)  |  [](2020-june.md)  |  [augusti](2020-july.md)  |  [september](2020-august.md)  |  [](2020-september.md)  |  [oktober](2020-October.md)  |  [november](2020-november.md) | December
 
 ________________
 
@@ -65,7 +65,7 @@ ________________
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2020-12-22
-- Funktioner – förbättrar säkerhets- & efterlevnad
+- Funktioner – förbättrar & efterlevnad
 
 ### <a name="summary"></a>Sammanfattning
 
@@ -87,7 +87,7 @@ Dela den här informationen med lämpliga intressenter i din organisation. Vi sk
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har några frågor kan du kontakta Regionalt driftcenter med hjälp av Call Logging Tool (CLT) [https://clt.partners.extranet.microsoft.com/CLT](https://clt.partners.extranet.microsoft.com/CLT) på eller via [explore.ms](https://www.explore.ms/publichome.aspx). Följ CLT-standardprocessen noggrant så att vi kan lösa din fråga så snabbt som möjligt.
+Om du har några frågor kan du kontakta Regionalt driftcenter med hjälp av CLT (Call Logging Tool) [https://clt.partners.extranet.microsoft.com/CLT](https://clt.partners.extranet.microsoft.com/CLT) på eller via [explore.ms](https://www.explore.ms/publichome.aspx). Följ CLT-standardprocessen noggrant så att vi kan lösa din fråga så snabbt som möjligt.
 
 ______________
 
@@ -145,15 +145,15 @@ IT-administratörer, IT-beslutsfattare, chefsansvariga och slutanvändare
 
 ### <a name="details"></a>Information
 
-Microsoft 365-prenumeranter kommer i både konsument- och kommersiella sammanhang att vara väl hanterade med den här ändringen genom snabbare och mer responsiv webbåtkomst till fler uppsättningar funktioner i dagliga verktyg som Outlook, Teams, SharePoint med mera.
+Microsoft 365-prenumeranter kommer i både konsument- och kommersiella sammanhang att kunna hantera den här ändringen med snabbare och mer responsiv webbåtkomst till fler uppsättningar funktioner i vanliga verktyg som Outlook, Teams, SharePoint med mera.
 
-Den nya Microsoft Edge är vårt bästa uttryck för en modern webbläsare och vi är glada över att kunderna ska kunna använda den. Nu när vi har levererat den nya Microsoft Edge och uppgraderat de flesta av våra Windows 10-kunder till den nya webbläsaren avslutar vi stödet för den äldre Microsoft Edge-appen.
+Den nya Microsoft Edge är vårt bästa uttryck för en modern webbläsare och vi är glada över att kunderna ska kunna använda den. Nu när vi har levererat den nya Microsoft Edge och uppgraderat de flesta av våra Windows 10-kunder till den nya webbläsaren avslutar vi stödet för Microsoft Edge äldre skrivbordsapp.
 
 **Effekten av ändringen**
 
-- Från **och med 30 november 2020** kan kunder inte längre ansluta till Microsoft Teams-webbappen Internet Explorer 11. Microsoft tror att kunderna får ut mesta möjliga av Microsoft 365 det bästa uttrycket i en modern webbläsare när de använder [den nya Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
-- Efter **den 9 mars 2021** fortsätter appar och webbplatser som skapats för äldre Microsoft Edge att fungera i nya Microsoft Edge, men om ett kompatibilitetsproblem uppstår finns det ett löfte om [att App Assure](/fasttrack/products-and-capabilities#app-assure) tillhandahåller support.
-- Efter **den 17 augusti 2021** har kunderna en försämrad upplevelse eller kan inte ansluta till Microsoft 365-appar och tjänster Internet Explorer 11. Microsoft tror att kunderna får ut mesta möjliga av Microsoft 365 det bästa uttrycket i en modern webbläsare när de använder [den nya Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
+- Från **och med 30 november 2020** kan kunder inte längre ansluta till Microsoft Teams-webbappen Internet Explorer 11. Microsoft tror att kunderna får ut det mesta av Microsoft 365 och det bästa uttrycket i en modern webbläsare när de använder [den nya Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
+- Efter **den 9 mars 2021** fortsätter appar och webbplatser som skapats för äldre Microsoft Edge att fungera i nya Microsoft Edge, men om ett kompatibilitetsproblem uppstår finns det ett löfte om [att App Assure](/fasttrack/products-and-capabilities#app-assure) ska tillhandahålla support.
+- Efter **den 17 augusti 2021** har kunderna en försämrad upplevelse eller kan inte ansluta till Microsoft 365-appar och tjänster Internet Explorer 11. Microsoft tror att kunderna får ut det mesta av Microsoft 365 och det bästa uttrycket i en modern webbläsare när de använder [den nya Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -180,7 +180,7 @@ Alla CSP-partner
 
 ### <a name="details"></a>Information
 
-I dag, när vi fortsätter att prioritera för molnet [,](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/)ger vi meddelande om framtida förändringar för offentliga sektorer (myndigheter, utbildning och ideella) kunder som köper via Open License-programmet, samt relaterade ändringar av Molnlösningsleverantör-programmet.
+I dag, när vi fortsätter att prioritera för [molnet,](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/)ger vi tillkännagivanden om framtida förändringar för kunder inom den offentliga sektorn (myndigheter, utbildning och ideella organisationer) som köper genom Open License-programmet, samt relaterade ändringar av Molnlösningsleverantör-programmet.
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -188,7 +188,7 @@ Det fullständiga meddelandet är endast tillgängligt för Microsoft-partner. [
 
 ______________
 
-## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="8"></a>Ändringar i CSP Molnlösningsleverantör(CSP) för kund-onboarding
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="8"></a>Ändringar i CSP Molnlösningsleverantör-kundernas registreringskrav
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2021-04-02
@@ -293,7 +293,7 @@ Vi vill påminna dig om att från **och med den 19 januari 2021** kommer alla pa
 
 Följande sker även på samma datum:
 
-- Listan över beständiga programvarupriser för CSP publiceras på nytt i Partnercenter. Du hittar den i **avsnittet Programvara** på sidan Sell > Pricing & [Offers (Säljerbjudanden)](https://partnercenter.microsoft.com/pcv/sales) som innehåller ytterligare produkter och geografiska områden. Fullständig information finns [här](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
+- Listan över beständiga programvarupriser för CSP publiceras på nytt i Partnercenter. Du hittar den i **avsnittet Programvara** på sidan Sell > Pricing & Offers (Säljpriser [&)](https://partnercenter.microsoft.com/pcv/sales) som innehåller ytterligare produkter och geografiska områden. Fullständig information finns i [resursgalleriet för driftberedskap.](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)
 
 - Funktionen för programvaru- och licensuppfyllelse i [](./2020-september.md#17) Partnercenter kommer att dras tillbaka – se meddelande – och partner kommer att peka kunder att använda Microsoft 365 Admin Center uteslutande för detta ändamål i framtiden. Detta säkerställer den säkraste och effektivaste upplevelsen för kunderna. Läs mer om Microsoft 365 Admin Center-programvaran i [översikten,](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3) [vanliga](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)uppgifter och licensfunktioner för [nyckeluppfyllelse.](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
 
@@ -311,7 +311,7 @@ Granska följande resurser och dela dem med relevanta kontakter i din organisati
 
 - [Expandera affärsmöjligheter för partner i Molnlösningsleverantör -programmet](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) (partnermeddelande)
 
-- [Permanent programvara i Molnlösningsleverantör-programberedskapsmaterial,](https://partner.microsoft.com/resources/collection/software-in-csp#/) inklusive en översiktspresentation, licensvägledning, partner-FAQ, drift- och tekniska webbseminor (SDK/API) och många fler användbara resurser. Använd [beredskapskartan](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) för att snabbt hitta rätt information för din roll.
+- [Permanent programvara i Molnlösningsleverantör-programberedskapsmaterial,](https://partner.microsoft.com/resources/collection/software-in-csp#/) inklusive en översiktspresentation, licensieringsvägledning, partner-FAQ, drift- och tekniska webbseminor (SDK/API) och många fler användbara resurser. Använd [beredskapskartan](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) för att snabbt hitta rätt information för din roll.
 
 ### <a name="questions"></a>Har du några frågor?
 
@@ -374,7 +374,7 @@ Power Apps Kampanjerbjudandet som ursprungligen planerades för 1 december 2020 
 
 Prisinformationen för erbjudandet nedan för det här erbjudandet finns i prislistan för januari 2021.
 
-- Visningsnamn för erbjudande: Power Apps uppflyttning per appplan (200 plats min)
+- Visningsnamn för erbjudande: Power Apps uppflyttning per appplan (200 platser min)
 - Erbjudande-ID: 988b7b06-e034-4b3e-89ea-51198cb2723e
 - Typ av licensavtal: Företag
 - Inköpsenhet: 1 månad
@@ -393,7 +393,7 @@ Erbjudandeinformationen nedan för det här erbjudandet kommer att finnas i erbj
 - Minsta antal platser: 200
 - Maximalt antal platser: 10000000
 - Erbjudandegräns: Ingen
-- Tillåtna länder: U.S. Outlying Islands, English (French Southern Territories), Bouvet Island, British Ocean Territory,Dirigering, Heard And Mc Islands, Wallis andRkuna, Vanuatu, Antarktis, Tulelu,Ffer, Tokelau, Sierra Sierrae, Swfferland, StCept, Ascension, Tristan da Cunha, SÜ&o TomÜ© and PrUlencipe, Pitcairn Islands, Madeirau, Madeira, Nang, Niue, Nortrapp Island, Mauritania, Northern Mariana Islands,  Lesotho, Kireliti, Equatorial Guinea, Guinea-Bissau, Cooköarna, Kerten, Julönerön, Burkina Faso, Centralafrikanska republiken,Kokesöarna (Keeling),Styrkebard- och Jan Mayen,... landöarna, Sydsudan, Sydsudan och Sydsandsöarna, Samoa, Saint BarthÉ©lemy, British Virgin Islands, Saint Pierre och Miquelon, Pierre, Niger, Montserrat, Guyana,Rottbia, Gambia, Guinea, Guinea, Grenada, Grenada,Stim, Guernsey, Micronesia,Evilandöarna, Moba, Djibouti, Republiken, Kongo (DRC),Print, American Samoa, Ocean, Sydafrika, Mayotte, Vietnam, Saint Saint SaintAda och Grenaderna,  U.S. Virgin Islands, Uganda, Islands See (Vatikan city), På landet, Uganda, Uganda, USA,Åda,Istan, Taiwan, Trinidad och Tobago,Järt, Undermål, Tong, Timor-Leste, Turkmenistan, Trinikistan, Singapore, Togo, El Designer, Sint Maarten, Turks och Caicosöarna, Suriname, Singapore, Malaysia, SanÅd,Utfärdare, Schweiz, Skövlar, Taiwan©, 1666, 100 000, 200 000, 100 000  Ryssland, bebodd, frankrike,Virtens, Oman,Ferena, Mocka, Mocka, New Guinea, Franska Polynesien, Nya Zeeland, Oman, Nederländerna, Nederländerna,Inen, New Caledonia,Istan, Moçambique, Malaysia, Mexico, Martinique, Malawi, Malawi, 1666,10, 1966, 1950, 1966, 1966, 1966, 1996  Sri Island, Caymanöarna, Island, Mocka, Engman, Mocka, Korea, Comachs, Påve, Saint Kitts och Nevis, Mock, Kyrgyzstan, Japan, Korea, Korea, Italien, Entitet, Irland, Indien, Indonesien, Isle of Man, Israel, Israel, Hong Kong SAR, Sar,Ande, Pål,Leda, Jamdeloupe, Franska Guiana, Grönland, Färöarna, Färöarna, United Kingdom,Anten, France,Skap, IoT, IoA, IoT, m.m.,  CuraA,AO, CuraA,Dorrea, CuraAo, CuraA Cape Cape Cape,AdaAda, Cameroon,Istan, CÉ'te dâ°™Ivoire, Canada, Canada, Schweiz, Så här, Botswana, Chuswana, Bon, Bonair, Sint Eustatius och Saba, Brasilien, Benin, Brownei, Bermuda, Tabb, Tabb, 16, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,00 och 1666  Iaa, Anguilla, Antivirus, Förenade Arabemiraten, Antigua och Baruda
+- Tillåtna länder: U.S. Outlying Islands, English (French Southern Territories), Bouvet Island, British Ocean Territory,Dirigering, Heard And McElsöarna, Wallis och Gbpuna, Vanuatu, Antarktis, Tulelu,Ffer, Tokelau, Sierra Sierrae, Swtrappland, StCept, Ascension, Tristan da Cunha, SÜ&o TomÜ© and PrUlencipe, Pitcairn Islands, Madeirau, Islands Nang, Niue, Nortrapp Island, Mauritania, Northern Mariana Islands,  Lesotho, Kireliti, Equatorial Guinea, Guinea-Bissau, Cooköarna, Kerten, Julönerön, Burkina Faso, Centralafrikanska republiken,Kokesöarna (Keeling),Styrkebard- och Jan Mayen,... landöarna, Sydsudan, Sydsudan och Sydsandsöarna, Samoa, Saint BarthÉ©lemy, British Virgin Islands, Saint Pierre och Miquelon, Pierre, Niger, Montserrat, Guyana,Rottbia, Gambia, Guinea, Guinea, Grenada, Grenada,Stim, Guernsey, Micronesia,Evilandöarna, Moba, Djibouti, Republiken, Kongo (DRC),Print, American Samoa, Ocean, Sydafrika, Mayotte, Vietnam, Saint Saint SaintAda och Grenaderna,  U.S. Virgin Islands, Uganda, Islands See (Vatikanstad), Anda, Uganda, Uganda, USA,Styrke,Istan, Taiwan, Trinidad och Tobago, Förser dig, Gör, Tong, Timor-Leste, Turkmenistan,Styrkeistan, Togo, ElSteg, Sint Maarten, Turks- och Caicosöarna, Suriname, Singapore, Malaysia, SanIstan,Utfärdare, Shu, Skänder, Därin, Schweiz,© Anda, Andre, Tyskland,  Ryssland, bebodd, frankrike,Virtens, Oman,Ferena, Mocka, Mocka, New Guinea, Franska Polynesien, Nya Zeeland, Oman, Nederländerna, Nederländerna,Inen, New Caledonia,Istan, Moçambique, Malaysia, Mexico, Martinique, Malawi, Malawi, 1666,10, 1966, 1950, 1966, 1966, 1966, 1996  Sri Island, Caymanöarna, Island, Mocka, Engman, Mocka, Korea, Comachs, Påve, Saint Kitts och Nevis, Mock, Kyrgyzstan, Japan, Korea, Korea, Italien, Entitet, Irland, Indien, Indonesien, Isle of Man, Israel, Israel, Hong Kong SAR, Sar,Ande, Pål,Leda, Jamdeloupe, Franska Guiana, Grönland, Färöarna, Färöarna, United Kingdom,Anten, France,Skap, IoT, IoA, IoT, m.m.,  CuraA,AO, CuraA,Dorrea, CuraAo, CuraA Cape Cape Cape,AdaAda, Cameroon,Istan, CÉ'te dâ°™Ivoire, Canada, Schweiz, Så här långt, Botswana, Chuswana, Fåra, Sint Eustatius och Saba, Brasilien, Benin, Brownei, Bermuda, Sydney, Cape, Sydney, Sydney, Barbadas, Aruba, Australien, Argentina, Etaa, Capa, IoT, Iac, Capaa, Capaa, Caprea, Capaa, Caprea, Capa, Capaa, Francisco, Capa, Capena, Francisco, Francisco  Iaa, Anguilla, Antivirus, Förenade Arabemiraten, Antigua och Baruda
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -511,7 +511,7 @@ Den 1 januari 2021 kommer Microsoft att börja övergå till ett nytt erbjudande
 
 ### <a name="impacted-audience"></a>Målgrupp som påverkas 
 
-Alla partner som gör en Molnlösningsleverantör (CSP)
+Alla partner som gör en Molnlösningsleverantör (CSP)-programmet
 
 ### <a name="details"></a>Information
 
@@ -577,7 +577,7 @@ Microsoft förbehåller sig rätten att granska status för en kund eller föres
 
 ### <a name="next-stepsadditional-resources"></a>Nästa steg/ytterligare resurser
 
-- Granska de nya partnercenter-Användargränssnitt, API-ändringar och guiden i resurserna för driftberedskap: Förbättringar av kundvalideringsprocessen i  [Partnercenter](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) Education 
+- Granska den nya partnercenter-Användargränssnitt, API-ändringar och guide i resurserna för driftberedskap: Förbättringar av kundvalideringsprocessen i [Partnercenter Education](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) 
 
 - Se till att din organisation är bekant med [användarkraven för Academic Qualified Education.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) 
 
@@ -587,7 +587,7 @@ Microsoft förbehåller sig rätten att granska status för en kund eller föres
 
 _ 31 augusti 2020: Ursprunglig publikation 
 
-- 25 september 2020: Uppdatering av testfönster har lagts till 
+- 25 september 2020: Testfönsteruppdatering har lagts till 
 
 - 4 oktober 2020: Påminnelse om att registrera dig för testning 
 

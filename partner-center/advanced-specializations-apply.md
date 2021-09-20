@@ -14,7 +14,7 @@ ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/20/2021
-ms.locfileid: "128007238"
+ms.locfileid: "128031263"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Använd Partnercenter för att söka avancerade specialiseringar och kontrollera deras status
 
