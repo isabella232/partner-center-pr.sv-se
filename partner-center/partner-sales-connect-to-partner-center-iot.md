@@ -9,16 +9,16 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/07/2021
-ms.openlocfilehash: 4daf26a962d317da9eac3b2351f42c04546533d4
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 2b05046118c83c0d398272da68054a8a0c9c48e4
+ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961507"
+ms.lasthandoff: 09/19/2021
+ms.locfileid: "127987631"
 ---
 # <a name="guide-to-create-and-manage-iot-deals-in-partner-center-pc-for-iot-partners-migrating-from-partner-sales-connect-psc"></a>Guide för att skapa och hantera IOT-avtal i Partnercenter (PC) för IOT-partner som migrerar från Partner Sales Anslut (PSC)
 
-**Lämpliga roller:** Kontoadministratörsroller | Referenser admin | PsC-Anslut (Partner Sales | Partner Sales Anslut (PSC) admin | Avtalsansvarig Anslut Partner Sales Anslut (PSC)
+**Lämpliga roller:** Kontoadministratörsroller | Referenser admin | Partner Sales Anslut (PSC) | Partner Sales Anslut (PSC) admin | Avtalsansvarig Anslut Partner Sales Anslut (PSC)
 
 Den här artikeln innehåller vägledning för IOT-partner som migrerar från Partner Sales Anslut (PSC) till Partner Center (PC) så att de kan fortsätta att skapa och hantera avtal i Partnercenter.
 
@@ -44,7 +44,7 @@ Det kommer dock att finnas skillnader. Följande riktlinjer kan hjälpa dig att 
 ### <a name="if-you-are-a-psc-deal-manager-or-seller"></a>Om du är PSC-avtalsansvarig eller säljare
 
 - Du behöver ett e-postmeddelande för arbetet för att logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard)
-- Om du använder ett icke-arbetskonto i PSC, eller om din e-postadress till arbetet gäller ett annat företag än partnerföretaget, kontaktar du PSC-administratören för hjälp med att konfigurera kontot.
+- Om du använder ett icke-arbetskonto i PSC, eller om din e-postadress till arbetet är för ett annat företag än partnerföretaget, kontaktar du PSC-administratören för att få hjälp med att konfigurera kontot.
 - Kontakta PSC-administratören om ditt partnercenterkonto har ställts in, oavsett vilket konto du använder för att logga in på PSC.
 - Kontrollera om du har åtkomst till Partnercenter och avsnittet Referenser.
 - Läs det här dokumentet för att förstå arbetsflödena och ändringarna i Partnercenter.
@@ -90,14 +90,14 @@ Tabellen för användarmigrering innehåller följande information:
 
 - Användarkonto – Medarbetarens e-post-ID
 - PSC-partnerkonto – Det konto som medarbetaren är associerad med i PSC
-- PSC-användarroll – En av de tre rollerna som tilldelats i PSC.
+- PSC-användarroll – en av de tre rollerna som tilldelats i PSC.
 - PLATS för DATOR-MPN – Den plats där användaren får relevanta Roller i Partnercenter (PC). MPN för PSC-partnerkontot används för att hitta motsvarande MPN-plats i Partnercenter för att tilldela behörigheter. Hela organisationen anger DET virtuella MPN-ID:t.
-- Datoranvändarroll – Anställda tilldelas roller baserat på sina PSC-användarroller. Administratören i PSC tilldelas referensadministratörsroller i Partnercenter. Säljaren tilldelas användarrollen referenser i Partnercenter. Läs mer om Partnercenter-roller och vad användare med dessa roller kan göra i Partnercenter [här](permissions-overview.md#manage-referrals)
-- PC AAD-klient – den Microsoft Azure Active Directory (Azure AD)-klient som användarna har tilldelats i Partnercenter
+- Datoranvändarroll – Anställda tilldelas roller baserat på sina PSC-användarroller. Administratören i PSC tilldelas referensadministratörsroller i Partnercenter. Säljaren tilldelas användarrollen referenser i Partnercenter. Läs mer om Partnercenter-roller och vad användare med dessa roller kan göra i Tilldela användarroller och behörigheter för ett företags användare som behöver [arbeta i Partnercenter.](permissions-overview.md#manage-referrals)
+- PC AAD-klient – den Microsoft Azure Active Directory (Azure AD)-klient som användarna är tilldelade till i Partnercenter
 - Status – Det finns tre möjliga tillstånd för migreringens status
     - **Inte migrerad** – användaren har inte tilldelats någon referensroll i Partnercenter
     - **Migrerad** – Användaren har migrerats med relevant roll tilldelad enligt tabellen
-    - **Fel** – Det går inte att slutföra migreringen på grund av ett fel
+    - **Fel** – Det gick inte att slutföra migreringen på grund av ett fel
 
 Ibland kan migreringen misslyckas och resultera i fel. Här är några orsaker till varför en migrering kan orsaka ett fel och några av sätten att lösa problemet:
 
@@ -119,7 +119,7 @@ Ibland kan migreringen misslyckas och resultera i fel. Här är några orsaker t
 
 ## <a name="psc-deals-migration"></a>Migrering av PSC-avtal
 
-När du har slutfört användarmigrering använder du avtalsmigreringsguiden på sidan möjligheter till säljförsäljning för att ta med alla berättigade öppna avtal från PSC till Partnercenter. **Hanterar migreringslänken visas endast för referensadministratörer med hela organisationens omfång i Partnercenter.** Länken för **PSC-avtalsmigrering** visas längst upp till höger på sidan med möjligheter till säljsamarbete och öppnar avtalsmigreringsguiden.
+När du har slutfört användarmigrering använder du avtalsmigreringsguiden på sidan möjligheter till säljförsäljning för att hämta alla berättigade öppna avtal från PSC till Partnercenter. **Hanterar migreringslänken visas endast för referensadministratörer med hela organisationens omfång i Partnercenter.** Länken för **PSC-avtalsmigrering** visas längst upp till höger på sidan med möjligheter till säljsamarbete och öppnar avtalsmigreringsguiden.
 
 Läs det här avsnittet innan du påbörjar avtalsmigrering.
 
@@ -134,39 +134,39 @@ Innan du påbörjar avtalsmigrering från Partnercenter följer du anvisningarna
 - Alla medlemmar i säljteamet i ditt företag som arbetar med öppna avtal informeras om migreringen.
 - Säljteamets medlemmar tränas att använda PartnerCenter för avtalshantering.
 - Avtal har all nödvändig information enligt beskrivningen nedan.
-    - Kundens företagsinformation, inklusive namn och adress
+    - Kundföretagsinformation, inklusive namn och adress
     - Minst en lösning
     - Minst en teammedlem med all information – förnamn, efternamn, e-post-ID och telefonnummer
     - Avtalsvärde
-    - Beräknat stängningsdatum för avtal
+    - Beräknat avtalsdatum
     - Partneranteckningar
 
 Du kan använda funktionerna för massnedladdning och uppladdning i PSC för att lägga till all information som saknas i avtalet för alla berättigade avtal.
 
 >[!Note]
-> Avtalsmigrering lyckas även om ovanstående förutsättningar inte uppfylls. Men du kan inte ändra tillståndet för avtalet om något av ovanstående obligatoriska fält i Partnercenter inte är tillgängligt. Du måste sedan ange all nödvändig information som saknas i avtal i Partnercenter för att börja arbeta med dem. **Vi rekommenderar starkt att du rensar de berättigade erbjudandena i PSC innan du migrerar dem till Partnercenter.**
+> Avtalsmigrering lyckas även om ovanstående krav inte uppfylls. Men du kan inte ändra tillståndet för avtalet om något av ovanstående obligatoriska fält i Partnercenter inte är tillgängligt. Du måste sedan ange all nödvändig information som saknas i avtal i Partnercenter för att börja arbeta med dem. **Vi rekommenderar starkt att du rensar kvalificerande avtal i PSC innan du migrerar dem till Partnercenter.**
 
-Avtalsmigrering i Partnercenter byggs som en upplevelse med ett klick. Allt du behöver göra är att klicka på **knappen "Migrera avtal"** när ditt företag är redo att migrera de berättigade erbjudandena. **Du kan inte välja de avtal som du vill migrera från PSC. Om du inte vill migrera några avtal till Partnercenter flyttar du dem till stängt tillstånd i PSC innan du påbörjar migreringen.**
+Avtalsmigrering i Partnercenter har skapats med ett klick. Allt du behöver göra är att klicka på **knappen "Migrera avtal"** när ditt företag är redo att migrera de berättigade erbjudandena. **Du kan inte välja de avtal som du vill migrera från PSC. Om du inte vill migrera några avtal till Partnercenter flyttar du dem till stängt tillstånd i PSC innan du påbörjar migreringen.**
 
 >[!Note]
-> När migreringen har **initierats kan det ta upp till 24 timmar innan avtal migreras**.
+> När du har initierat **migreringen kan det ta upp till 24 timmar innan avtal migreras**.
 
-När migreringen är klar har banderollmeddelandet statusen ändrad för att slutföras med en länk till migreringsrapporten. Ladda ned rapporten för att visa information om avtal som har migrerats från PSC till Partnercenter.
+När migreringen är klar ändras banderollmeddelandets status för att slutföras med en länk till migreringsrapporten. Ladda ned rapporten för att visa information om avtal som har migrerats från PSC till Partnercenter.
 
 Rapporten innehåller informationen nedan.
 
-- **Id för partnercenterinteragemang** – Den unika identifieraren i Partnercenter för alla avtal i ett engagemang. Det finns två avtal – ett för partnern och ett för Microsoft i ett samförsäljningsinteragemang i Partnercenter.
+- **Engagemangs-ID för Partnercenter** – Den unika identifieraren i Partnercenter för alla avtal i ett engagemang. Det finns två avtal – ett för partnern och ett för Microsoft i ett engagemang för säljförsäljning i Partnercenter.
 - **Referens-ID för Partnercenter** – Den unika identifieraren i Partnercenter för avtalet som tillhör partnern.
 - **Avtalsnamn** – Identifierare som anges för avtalet i PSC.
 - **PSC-avtals-ID** – Den unika identifieraren i PSC för avtalet.
-- **Fel –** för att ange om det finns något fel vid migrering av ett specifikt avtal.
+- **Fel –** för att ange om det finns några fel vid migrering av ett specifikt avtal.
 
 Alla avtal som har migrerats visas inte i PSC. Du kan fortsätta att arbeta med migrerade avtal i Partnercenter.
 
 Avtal som migreras från PSC kommer att vara tillgängliga på fliken Utgående på sidan Möjligheter till säljförsäljning. Alla avtal skapas som partnerledda avtal. De är synliga för Microsoft-säljare.
 
 >[!Important]
-> Om det finns fel som gör att vissa avtal inte kunde migreras kan du starta om avtalsmigrering genom att klicka på knappen **"Migrera avtal".** Den aktiveras bara om det finns vissa berättigade avtal som ska migreras. Detta är också användbart om du är i övergångsfasen där vissa nya avtal skapas i PSC när du har initierat avtalsmigrering.
+> Om det finns fel som gör att vissa avtal inte kunde migreras kan du initiera om avtalsmigrering genom att klicka på knappen **"Migrera avtal".** Det aktiveras bara om det finns vissa berättigade avtal som ännu inte har migrerats. Detta är också användbart om du befinner dig i övergångsfasen där vissa nya avtal skapas i PSC efter att du har initierat avtalsmigrering.
 
 När alla avtal har migrerats visas en banderoll som visar "Inga avtal **att migrera"** med knappen **"Migrera avtal"** **inaktiverad.**
 
@@ -177,13 +177,13 @@ Det här är ett viktigt steg som hjälper dig att förbereda dig för IOT-avtal
 
 ## <a name="differences-between-psc-and-pc-workflows"></a>Skillnader mellan PSC- och PC-arbetsflöden
 
-|**Scenario**|**PartnerFörsäljnings-Anslut**|**Partnercenter**|
+|**Scenario**|**Partnerförsäljnings-Anslut**|**Partnercenter**|
 |-----|:-----|:-----|
-|Användarroller|PSC har administratörs-, avtalshanterare- och säljarroller.|Partnercenter har [referensadministratörs- och hänvisningsanvändarroller](permissions-overview.md#manage-referrals) som ger både läs- och skrivbehörighet baserat på platsomfånget.|
+|Användarroller|PSC har administratörs-, avtalshanterare- och säljarroller.|Partnercenter har [referensadministratörs- och referensanvändarroller](permissions-overview.md#manage-referrals) som ger både läs- och skrivbehörighet baserat på platsomfånget.|
 |Microsofts säljarinformation|Synligt så fort ett avtal skapas.|Microsofts säljarinformation är inte synlig för partner eftersom avtalstypen är partnerledd.
-|Lösningar|Ett val av antal lösningar kan läggas till i avtalet.|Partner kan lägga till högst 50 lösningar i avtalet.
-|Avtalstilldelning|Endast tilldelad säljare kan visa och agera på avtal.|Hänvisningsanvändare som lagts till i teamavsnittet i ett avtal kan visa och agera på avtalet. Referensadministratörer för MPN-platsen där avtalet har skapats kan visa och agera på avtalet.|
-|Kundorganisation|Textinmatning i fritt format.|Du kan söka i [kundorganisationen](manage-co-sell-opportunities.md#select-your-customer) mot [D&B-databasen](https://www.dnb.com/) genom att bara skriva några tecken. Det juridiska namnet och adressen fylls i automatiskt baserat på valet.|
+|Lösningar|Ett val annat antal lösningar kan läggas till i avtalet.|Partner kan lägga till högst 50 lösningar i avtalet.
+|Avtalstilldelning|Endast en tilldelad säljare kan visa och agera på affärerna.|Hänvisningsanvändare som lagts till i teamavsnittet i ett avtal kan se och agera på avtalet. Referensadministratörer för DEN MPN-plats där avtalet har skapats kan visa och agera på avtalet.|
+|Kundorganisation|Fritextpost.|Du kan söka i [kundorganisationen](manage-co-sell-opportunities.md#select-your-customer) mot [D-&B-databasen](https://www.dnb.com/) genom att bara skriva några tecken. Det juridiska namnet och adressen fylls i automatiskt baserat på valet.|
 
 ## <a name="moving-from-psc-to-pc---faq"></a>Flytta från PSC till PC – Vanliga frågor och svar
 
@@ -191,7 +191,7 @@ Följande avsnitt besvarar vanliga frågor om migreringen.
 
 ### <a name="1---what-should-i-do-if-i-dont-have-access-to-partner-center"></a>1 – Vad ska jag göra om jag inte har åtkomst till Partnercenter?
 
-Du kan kontakta dina administratörer på sidan "Ingen åtkomst" för att få rollerna tilldelade. Du behöver [referensadministratörsrollen](permissions-overview.md#manage-referrals) för läs- och skrivbehörighet under referensavsnittet. Om du bara hanterar företagsprofiler behöver du administratörsrollen för företagsprofilen i Partnercenter.
+Du kan kontakta dina administratörer på sidan "Ingen åtkomst" för att få rollerna tilldelade. Du behöver [referensadministratörsrollen](permissions-overview.md#manage-referrals) för läs- och skrivbehörighet under referensavsnittet. Om du bara hanterar företagsprofiler behöver du rollen som företagsprofiladministratör i Partnercenter.
 
 :::image type="content" source="images/pscmigration/noaccess.png" alt-text="Bild som visar ingen åtkomstupplevelse i Partnercenter.":::
 
@@ -201,9 +201,9 @@ Du kan kontakta dina administratörer på sidan "Ingen åtkomst" för att få ro
 
 ### <a name="3---the-new-deal-button-is-greyed-out-for-our-account-what-should-i-do-to-start-creating-deals"></a>3 – Knappen +nytt avtal är nedtonad för vårt konto. Vad ska jag göra för att börja skapa avtal?
 
-Detta inträffar bara om DET MPN-ID som är associerat med ditt konto inte har aktiverats för att skapa IOT-avtal. Kontakta IOT-affärsteamet på det e-postmeddelande som angavs under utbildningssessionerna eller skapa en supportbiljett för att få ditt MPN-ID aktiverat för IOT-avtal."
+Detta inträffar bara om det MPN-ID som är associerat med ditt konto inte har aktiverats för att skapa IOT-avtal. Kontakta IOT-affärsteamet via e-post under utbildningssessionerna eller skapa en supportbiljett för att få ditt MPN-ID aktiverat för IOT-avtal."
 
-### <a name="4---can-i-assign-deals-to-a-specific-person-from-our-organization-like-psc"></a>4 – Kan jag tilldela avtal till en viss person från vår organisation som PSC?
+### <a name="4---can-i-assign-deals-to-a-specific-person-from-our-organization-like-psc"></a>4 – Kan jag tilldela avtal till en viss person från vår organisation, till exempel PSC?
 
 Du kan tilldela teammedlemmar till ett visst avtal. Det blockerar inte andra hänvisningsadministratörer från att visa eller agera på dessa avtal.
 
@@ -213,19 +213,19 @@ Du kan använda funktionen Favoriter, som är en flik på användarnivå. Du kan
 
 ### <a name="6---is-there-a-read-only-view-for-the-deals"></a>6 – Finns det en skrivskyddade vy för avtal?
 
-Nej, det finns ingen skrivskyddade vy över avtal i referensavsnittet.
+Nej, det finns ingen skrivskyddade vy över avtal i hänvisningsavsnittet.
 
 ### <a name="7---is-adding-a-customer-organization-mandatory"></a>7 – Är det obligatoriskt att lägga till en kundorganisation?
 
-Ja, det är [obligatoriskt att lägga](./manage-co-sell-opportunities.md#select-your-customer) till en kundorganisation i Partnercenter. Börja med att söka efter den plats där kunden befinner sig. Baserat på den information som du har; du kan lägga till specifik information, inklusive det exakta byggnamnet eller bara ge information om staden. Organisationssökningen hämtar alla juridiska personer som matchar det namn som du anger så att du inte behöver ange någon adressinformation. All information fylls i automatiskt baserat på den valda organisationen.
+Ja, det är [obligatoriskt att lägga](./manage-co-sell-opportunities.md#select-your-customer) till en kundorganisation i Partnercenter. Börja med att söka efter den plats där kunden befinner sig. Baserat på den information som du har; Du kan lägga till specifik information, inklusive det exakta byggnamnet eller bara ge information om staden. Organisationssökningen hämtar alla juridiska personer som matchar det namn som du anger så att du inte behöver ange någon adressinformation. All information fylls i automatiskt baserat på den organisation som valts.
 
-### <a name="8---are-customer-contact-details-mandatory"></a>8 – Är kundkontaktinformation obligatorisk?
+### <a name="8---are-customer-contact-details-mandatory"></a>8 – Är kundens kontaktuppgifter obligatoriska?
 
 Ja, kundkontaktinformation är obligatorisk för att skapa IOT-avtal.
 
 ### <a name="9---how-many-solutions-can-i-add-to-a-deal"></a>9 – Hur många lösningar kan jag lägga till i ett avtal?
 
-Du kan lägga till upp till 50 lösningar (detsamma som "produkter" i PSC) till ett avtal. Både kvantitet och beräknat stängningsdatum för lösningarna är obligatoriskt och det uppskattade stängningsdatumet för lösningarna bör vara tidigare än det uppskattade stängningsdatumet i avtalsavsnittet.
+Du kan lägga till upp till 50 lösningar (detsamma som "produkter" i PSC) i ett avtal. Både kvantitet och beräknat stängningsdatum för lösningarna är obligatoriskt och det uppskattade stängningsdatumet för lösningarna bör vara tidigare än det uppskattade stängningsdatumet i avsnittet med avtalsinformation.
 
 ### <a name="10---where-can-i-find-the-opportunity-id"></a>10 – Var hittar jag affärsmöjlighets-ID:t?
 
