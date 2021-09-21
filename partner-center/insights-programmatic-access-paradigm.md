@@ -1,6 +1,6 @@
 ---
 title: Paradigm för programmatisk åtkomst för insikter
-description: Förstå flödet på hög nivå i API-anropsmönstret för programmatisk analys. API:erna för åtkomst till partnerinsiktsanalysrapporter omfattas också.
+description: Förstå flödet på hög nivå i API-anropsmönstret för programmatisk analys. API:erna för åtkomst till analysrapporter med partnerinsikter omfattas också.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
@@ -9,11 +9,11 @@ ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
 ms.openlocfilehash: 304607b5d79b0ad8a07c3efe690ccb7feef83331
-ms.sourcegitcommit: 8d5c2463fc0f0c03972a6f89d01605421288daea
+ms.sourcegitcommit: ab5eda007f87f22fa3375b8e05adfccd6ebc285e
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/19/2021
-ms.locfileid: "128001701"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "128058951"
 ---
 # <a name="programmatic-access-paradigm"></a>Paradigm för programmatisk åtkomst
 
@@ -24,17 +24,17 @@ Det här diagrammet visar api-anropsmönstret som används för att skapa en ny 
 
 Den här listan innehåller mer information om bild 1.
 
-1. Klientprogrammet kan definiera det anpassade rapportschemat/-mallen genom att anropa [API:et för att skapa rapportfråga.](#create-report-query-api) Du kan också välja en rapportmall (QueryId) från exemplen på rapportmallbiblioteket i Lista över systemfrågor för programmatisk åtkomst [till partnerinsikter.](insights-programmatic-system-queries.md)
+1. Klientprogrammet kan definiera det anpassade rapportschemat/mallen genom att anropa [API:et Skapa rapportfråga.](#create-report-query-api) Du kan också välja en rapportmall (QueryId) från exemplen på rapportmallbiblioteket i Lista över systemfrågor för programmatisk åtkomst [till partnerinsikter.](insights-programmatic-system-queries.md)
 2. Om det lyckas returnerar API:et Skapa rapportfråga QueryId.
-3. Klientprogrammet måste sedan anropa [](#create-report-api) API:et Skapa rapport med hjälp av QueryId tillsammans med rapportens startdatum, upprepningsintervall, upprepning och en valfri motringning-URI.
-4. Vid lyckad, [returnerar API:et](#create-report-api) Skapa rapport ReportId.
-5. Klientprogrammet meddelas på återanrops-URL:en så snart rapportdata är klara för nedladdning.
-6. Klientprogrammet använder sedan [API:et Hämta rapportkörningar för](#get-report-execution-api) att fråga efter rapportens status med rapport-ID och datumintervall.
+3. Klientprogrammet måste sedan anropa [](#create-report-api) API:et Skapa rapport med queryId tillsammans med rapportens startdatum, upprepningsintervall, upprepning och en valfri motringning-URI.
+4. Vid Lyckad [returnerar API:et](#create-report-api) Skapa rapport ReportId.
+5. Klientprogrammet meddelas via motringning-URL:en så snart rapportdata är redo för nedladdning.
+6. Klientprogrammet använder sedan API:et [Hämta rapportkörningar för](#get-report-execution-api) att fråga efter rapportens status med rapport-ID och datumintervall.
 7. Om det lyckas returneras nedladdningslänken för rapporten och programmet kan starta nedladdningen av data.
 
 ## <a name="report-query-language-specification"></a>Specifikation för rapportfrågespråk
 
-Vi tillhandahåller [systemfrågor som du kan](insights-programmatic-system-queries.md) använda för att skapa rapporter, men du kan också skapa egna frågor baserat på dina affärsbehov. Mer information om anpassade frågor finns i [Custom Query Specification](insights-programmatic-custom-query.md).
+Vi tillhandahåller [systemfrågor som du](insights-programmatic-system-queries.md) kan använda för att skapa rapporter, men du kan också skapa egna frågor baserat på dina affärsbehov. Mer information om anpassade frågor finns i Custom Query Specification ( [Anpassad frågespecifikation).](insights-programmatic-custom-query.md)
 
 ## <a name="create-report-query-api"></a>Skapa API för rapportfråga
 
@@ -127,9 +127,9 @@ Den här tabellen innehåller viktiga definitioner av element i begärandenyttol
 |    Parameter     |    Beskrivning     |
 |    ----    |    ----    |
 |    QueryId     |    Universell unik identifierare (UUID) för den fråga som du skapade     |
-|    Name     |    Eget namn som anges för frågan i begärandenyttolasten     |
-|    Description     |    Beskrivning som anges när frågan skapas     |
-|    Söka i data     |    Rapportfrågan skickades som indata när frågan skapades     |
+|    Name     |    Eget namn som anges för frågan i nyttolasten för begäran     |
+|    Description     |    Beskrivning som ges när frågan skapas     |
+|    Söka i data     |    Rapportfråga som skickas som indata när frågan skapas     |
 |    Typ     |    Ange till `userDefined`     |
 |    Användare     |    Användar-ID som användes för att skapa frågan     |
 |    CreatedTime     |    UTC-tid då frågan skapades i det här formatet: yyyy-MM-ddTHH:mm:ssZ     |
@@ -145,15 +145,15 @@ För systemfrågor som vi tillhandahåller kan API:et Skapa rapport också anrop
 
 ### <a name="callback-url"></a>Callback URL (Webbadress för återanrop)
 
-API:et för att skapa rapport accepterar en återanrops-URL. Den här URL:en anropas när rapportgenereringen har lyckats. Motringning-URL:en ska vara offentligt åtkomlig. Förutom URL:en kan även en motringningsmetod anges. Motringningsmetoden kan bara vara "GET" eller "POST". Standardmetoden om inget värde skickas blir "POST". Det reportId som har slutfört genereringen skickas alltid tillbaka under återanropet.
+API:et för att skapa rapport accepterar en återanrops-URL. Den här URL:en anropas när rapportgenereringen har lyckats. Motringning-URL:en ska vara offentligt åtkomlig. Förutom URL:en kan en motringningsmetod också ges. Motringningsmetoden kan bara vara "GET" eller "POST". Standardmetoden om inget värde skickas blir "POST". Det reportId som har slutfört genereringen skickas alltid tillbaka under återanropet.
 
-POST-återanrop: Om url:en som skickades var `https://www.contosso.com/callback` kommer den anropade bakåt-URL:en att vara `https://www.contosso.com/callback/<reportID>` 
+POST-återanrop: Om URL:en som skickades var kommer den `https://www.contosso.com/callback` återanropade URL:en att vara `https://www.contosso.com/callback/<reportID>` 
 
-GET-återanrop: Om url:en som skickades var `https://www.contosso.com/callback` kommer den anropade tillbaka-URL:en att vara `https://www.contosso.com/callback?reportId=<reportID>` 
+GET-återanrop: Om URL:en som skickades var blir den `https://www.contosso.com/callback` anropade bakåt-URL:en `https://www.contosso.com/callback?reportId=<reportID>` 
 
 ### <a name="executenow-reports"></a>ExecuteNow-rapporter
 
-Det finns en etablering för att generera en rapport utan schemaläggning. API-nyttolasten för att skapa rapport kan acceptera en parameter , som kommer att lägga rapporten i en sekvens som ska genereras `ExecuteNow` så snart API:et anropas. När `ExecuteNow` är inställt på true ignoreras fälten: `StartTime` , eftersom dessa rapporter inte `RecurrenceCount` `RecurrenceInterval` schemaläggs.
+Det finns en etablering för att generera en rapport utan schemaläggning. Api-nyttolasten för rapport som skapas kan acceptera en parameter , som kommer att lägga rapporten i en sekvens som ska genereras `ExecuteNow` så snart API:et anropas. När `ExecuteNow` är inställt på true ignoreras fälten: `StartTime` , eftersom dessa rapporter inte `RecurrenceCount` `RecurrenceInterval` schemaläggs.
 
 Två ytterligare fält kan skickas när `ExecuteNow` är sant, `QueryStartTime` och `QueryEndTime` . De här två fälten `TIMESPAN` åsidosätter fältet i frågan. De här fälten gäller inte för schemalagda rapporter eftersom data genereras kontinuerligt under en fast tidsperiod som inte ändras.
 
@@ -208,13 +208,13 @@ Viktiga definitioner av element i nyttolasten för begäran förklaras nedan:
 |    QueryId     |    Yes     |    Rapportfråge-ID     |    sträng     |
 |    StartTime     |    Yes     |    UTC-tidsstämpel där rapportgenereringen ska börja. <br> Formatet ska vara: yyyy-MM-ddTHH:mm:ssZ       |    sträng     |
 |    ExecuteNow     |    No     |    Den här parametern ska användas för att skapa en rapport som bara ska köras en gång. `StartTime`, `RecurrenceInterval` och `RecurrenceCount` ignoreras om detta är inställt på true. Rapporten körs omedelbart på ett asynkront sätt     |    sant/falskt     |
-|    QueryStartTime     |    No     |    Du kan också ange starttiden för frågan som extraherar data. Den här parametern gäller endast för en-gång-körningsrapporter som har `ExecuteNow` angetts till true. Ange åsidosättningar för den `TIMESPAN` här parametern som anges i frågan. Formatet ska vara yyyy-MM-ddTHH:mm:ssZ     |    Tidsstämpel som sträng     |
-|    QueryEndTime     |    No     |    Du kan också ange sluttiden för frågan som extraherar data. Den här parametern gäller endast för en körningsrapport som har `ExecuteNow` angetts till true. Ange åsidosättningar för den `TIMESPAN` här parametern som anges i frågan. Formatet ska vara yyyy-MM-ddTHH:mm:ssZ     |    Tidsstämpel som sträng     |
+|    QueryStartTime     |    No     |    Du kan också ange starttiden för frågan som extraherar data. Den här parametern gäller endast för körningsrapporter med en gång som har `ExecuteNow` angetts till true. Ange åsidosättningar för den `TIMESPAN` här parametern i frågan. Formatet ska vara yyyy-MM-ddTHH:mm:ssZ     |    Tidsstämpel som sträng     |
+|    QueryEndTime     |    No     |    Du kan också ange sluttiden för frågan som extraherar data. Den här parametern gäller endast för en körningsrapport som har `ExecuteNow` angetts till true. Ange åsidosättningar för den `TIMESPAN` här parametern i frågan. Formatet ska vara yyyy-MM-ddTHH:mm:ssZ     |    Tidsstämpel som sträng     |
 |    RecurrenceInterval     |    Yes     |    Frekvens i timmar då rapporten ska genereras. <br> Minimivärdet är 4 och Det högsta värdet är 2160.      |    heltal     |
 |    RecurrenceCount     |    No     |    Antal rapporter som ska genereras.     |    heltal     |
 |    Format     |    No     |    Filformat för den exporterade filen. <br> Standardvärdet är CSV.    |    "CSV"/"TSV"     |
 |    CallbackUrl     |    No     |    Offentligt nåbar URL som kan konfigureras som återanropsmål     |    Sträng (http-URL)     |
-|    CallbackMethod     |    No     |    Metoden som ska användas för återanrop     |    GET/POST     |
+|    CallbackMethod     |    No     |    Den metod som ska användas för återanrop     |    GET/POST     |
 |        |        |        |        |
 
 ### <a name="sample-response"></a>Exempelsvar
