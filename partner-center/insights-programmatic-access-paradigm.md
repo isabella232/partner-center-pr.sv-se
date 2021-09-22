@@ -1,6 +1,6 @@
 ---
 title: Paradigm för programmatisk åtkomst för insikter
-description: Förstå flödet på hög nivå i API-anropsmönstret för programmatisk analys. API:erna för åtkomst till analysrapporter med partnerinsikter omfattas också.
+description: Förstå flödet på hög nivå i API-anropsmönstret för programmatisk analys. API:erna för åtkomst till partnerinsiktsanalysrapporter omfattas också.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
@@ -9,11 +9,11 @@ ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
 ms.openlocfilehash: 304607b5d79b0ad8a07c3efe690ccb7feef83331
-ms.sourcegitcommit: ab5eda007f87f22fa3375b8e05adfccd6ebc285e
+ms.sourcegitcommit: 23ba623b50b06c866703fd876f1b40f3a49ce504
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/21/2021
-ms.locfileid: "128058951"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "128074622"
 ---
 # <a name="programmatic-access-paradigm"></a>Paradigm för programmatisk åtkomst
 
@@ -24,17 +24,17 @@ Det här diagrammet visar api-anropsmönstret som används för att skapa en ny 
 
 Den här listan innehåller mer information om bild 1.
 
-1. Klientprogrammet kan definiera det anpassade rapportschemat/mallen genom att anropa [API:et Skapa rapportfråga.](#create-report-query-api) Du kan också välja en rapportmall (QueryId) från exemplen på rapportmallbiblioteket i Lista över systemfrågor för programmatisk åtkomst [till partnerinsikter.](insights-programmatic-system-queries.md)
+1. Klientprogrammet kan definiera det anpassade rapportschemat/-mallen genom att anropa [API:et för att skapa rapportfråga.](#create-report-query-api) Du kan också välja en rapportmall (QueryId) från exemplen på rapportmallbiblioteket i Lista över systemfrågor för programmatisk åtkomst [till partnerinsikter.](insights-programmatic-system-queries.md)
 2. Om det lyckas returnerar API:et Skapa rapportfråga QueryId.
-3. Klientprogrammet måste sedan anropa [](#create-report-api) API:et Skapa rapport med queryId tillsammans med rapportens startdatum, upprepningsintervall, upprepning och en valfri motringning-URI.
-4. Vid Lyckad [returnerar API:et](#create-report-api) Skapa rapport ReportId.
-5. Klientprogrammet meddelas via motringning-URL:en så snart rapportdata är redo för nedladdning.
-6. Klientprogrammet använder sedan API:et [Hämta rapportkörningar för](#get-report-execution-api) att fråga efter rapportens status med rapport-ID och datumintervall.
+3. Klientprogrammet måste sedan anropa [](#create-report-api) API:et Skapa rapport med hjälp av QueryId tillsammans med rapportens startdatum, upprepningsintervall, upprepning och en valfri motringning-URI.
+4. Vid lyckad, [returnerar API:et](#create-report-api) Skapa rapport ReportId.
+5. Klientprogrammet meddelas på återanrops-URL:en så snart rapportdata är klara för nedladdning.
+6. Klientprogrammet använder sedan [API:et Hämta rapportkörningar för](#get-report-execution-api) att fråga efter rapportens status med rapport-ID och datumintervall.
 7. Om det lyckas returneras nedladdningslänken för rapporten och programmet kan starta nedladdningen av data.
 
 ## <a name="report-query-language-specification"></a>Specifikation för rapportfrågespråk
 
-Vi tillhandahåller [systemfrågor som du](insights-programmatic-system-queries.md) kan använda för att skapa rapporter, men du kan också skapa egna frågor baserat på dina affärsbehov. Mer information om anpassade frågor finns i Custom Query Specification ( [Anpassad frågespecifikation).](insights-programmatic-custom-query.md)
+Vi tillhandahåller [systemfrågor som du kan](insights-programmatic-system-queries.md) använda för att skapa rapporter, men du kan också skapa egna frågor baserat på dina affärsbehov. Mer information om anpassade frågor finns i [Custom Query Specification](insights-programmatic-custom-query.md).
 
 ## <a name="create-report-query-api"></a>Skapa API för rapportfråga
 
@@ -127,9 +127,9 @@ Den här tabellen innehåller viktiga definitioner av element i begärandenyttol
 |    Parameter     |    Beskrivning     |
 |    ----    |    ----    |
 |    QueryId     |    Universell unik identifierare (UUID) för den fråga som du skapade     |
-|    Name     |    Eget namn som anges för frågan i nyttolasten för begäran     |
-|    Description     |    Beskrivning som ges när frågan skapas     |
-|    Söka i data     |    Rapportfråga som skickas som indata när frågan skapas     |
+|    Name     |    Eget namn som anges för frågan i begärandenyttolasten     |
+|    Description     |    Beskrivning som anges när frågan skapas     |
+|    Söka i data     |    Rapportfrågan skickades som indata när frågan skapades     |
 |    Typ     |    Ange till `userDefined`     |
 |    Användare     |    Användar-ID som användes för att skapa frågan     |
 |    CreatedTime     |    UTC-tid då frågan skapades i det här formatet: yyyy-MM-ddTHH:mm:ssZ     |

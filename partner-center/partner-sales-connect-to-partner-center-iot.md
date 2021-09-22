@@ -10,15 +10,15 @@ ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/07/2021
 ms.openlocfilehash: 2b05046118c83c0d398272da68054a8a0c9c48e4
-ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
+ms.sourcegitcommit: 23ba623b50b06c866703fd876f1b40f3a49ce504
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/19/2021
-ms.locfileid: "127987631"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "128074639"
 ---
 # <a name="guide-to-create-and-manage-iot-deals-in-partner-center-pc-for-iot-partners-migrating-from-partner-sales-connect-psc"></a>Guide för att skapa och hantera IOT-avtal i Partnercenter (PC) för IOT-partner som migrerar från Partner Sales Anslut (PSC)
 
-**Lämpliga roller:** Kontoadministratörsroller | Referenser admin | Partner Sales Anslut (PSC) | Partner Sales Anslut (PSC) admin | Avtalsansvarig Anslut Partner Sales Anslut (PSC)
+**Lämpliga roller:** Kontoadministratörsroller | Referensadministratörsbehörighet | Partner Sales Anslut (PSC)-| Administratörsadministratör Anslut partnerförsäljning (PSC) | Partner Sales Anslut (PSC)-avtalschef
 
 Den här artikeln innehåller vägledning för IOT-partner som migrerar från Partner Sales Anslut (PSC) till Partner Center (PC) så att de kan fortsätta att skapa och hantera avtal i Partnercenter.
 
@@ -26,39 +26,39 @@ Den här artikeln innehåller vägledning för IOT-partner som migrerar från Pa
 > Den här guiden **gäller endast för IOT-affärspartner som** hanterar sina avtal i PSC.
 
 >[!Important]
-> Från och med 15 augusti 2021 kommer ditt företag inte att kunna skapa eller redigera avtal i PSC. **Du kommer fortfarande att kunna ladda ned befintliga avtalsdata med hjälp av massexport-funktionen i PSC. Du kan också [migrera öppna avtal](partner-sales-connect-to-partner-center-iot.md#psc-deals-migration) från PSC till Partnercenter efter detta datum.**
+> Från och med 15 augusti 2021 kommer ditt företag inte att kunna skapa eller redigera avtal i PSC. **Du kommer fortfarande att kunna ladda ned befintliga avtalsdata med funktionen för massexport i PSC. Du kan också [migrera öppna avtal](partner-sales-connect-to-partner-center-iot.md#psc-deals-migration) från PSC till Partner Center efter detta datum.**
 
-Som du vet **förlorar ditt företag åtkomst till PSC efter den 30 augusti 2021.** Du hittar dock fortfarande allt du vill göra i Partnercenter, till exempel skapa och hantera avtal.
+Som du vet **förlorar ditt företag åtkomst till PSC efter den 30 augusti 2021.** Du hittar dock fortfarande allt du vill göra i Partnercenter, till exempel att skapa och hantera avtal.
 
 Det kommer dock att finnas skillnader. Följande riktlinjer kan hjälpa dig att göra övergången till Partnercenter smidigare och enklare.
 
-## <a name="before-you-move-things-you-need-to-know"></a>Innan du flyttar måste du känna till saker du behöver veta
+## <a name="before-you-move-things-you-need-to-know"></a>Innan du flyttar behöver du känna till saker som du behöver känna till
 
 ### <a name="if-you-are-a-psc-admin"></a>Om du är PSC-administratör
 
 - Du behöver ett e-postmeddelande för arbetet för att logga in [på Partnercenter.](https://partner.microsoft.com/)
-- Konfigurera ditt konto med hjälp av kontoadministratören [i Partnercenter.](permissions-overview.md)
+- Konfigurera ditt konto med hjälp av [Partnercenter-kontoadministratören.](permissions-overview.md)
 - Lär dig hur du skapar och hanterar IOT-avtal i Partnercenter genom att läsa det här dokumentet.
 - Konfigurera användarkonton i Partnercenter för alla dina PSC-användare (administratörs-, avtalshanterare- och säljarroller) och tilldela dem referensadministratörs- eller [referensanvändarroller.](permissions-overview.md)
 
-### <a name="if-you-are-a-psc-deal-manager-or-seller"></a>Om du är PSC-avtalsansvarig eller säljare
+### <a name="if-you-are-a-psc-deal-manager-or-seller"></a>Om du är PSC-avtalschef eller säljare
 
 - Du behöver ett e-postmeddelande för arbetet för att logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard)
-- Om du använder ett icke-arbetskonto i PSC, eller om din e-postadress till arbetet är för ett annat företag än partnerföretaget, kontaktar du PSC-administratören för att få hjälp med att konfigurera kontot.
-- Kontakta PSC-administratören om ditt partnercenterkonto har ställts in, oavsett vilket konto du använder för att logga in på PSC.
+- Om du använder ett icke-arbetskonto i PSC, eller om din e-postadress till arbetet gäller ett annat företag än partnerföretaget, kontaktar du PSC-administratören för att få hjälp med att konfigurera kontot.
+- Kontakta PSC-administratören om ditt Partnercenter-konto har ställts in, oavsett vilket konto du använder för att logga in på PSC.
 - Kontrollera om du har åtkomst till Partnercenter och avsnittet Referenser.
 - Läs det här dokumentet för att förstå arbetsflödena och ändringarna i Partnercenter.
 
 ## <a name="as-an-admin-in-psc-these-are-your-next-steps"></a>Som administratör i PSC är det här nästa steg
 
-I den vänstra navigeringsmenyn i Partnercenter väljer **du alternativet Referenser.** Bekräfta att du kan komma åt sidan Möjligheter till säljförsäljning.
+I den vänstra navigeringsmenyn i Partnercenter väljer **du alternativet** Referenser. Bekräfta att du kan komma åt sidan Möjligheter till säljförsäljning.
 
   >[!Note]
   > Du kan behöva logga ut från Partnercenter och logga in igen för att uppdatera dina autentiseringsuppgifter för åtkomst till referenssidorna.
 
-Om du inte ser alternativet Referenser på Partnercenter-menyn eller hänvisningsrelaterade sidor [](permissions-overview.md) kontaktar du företagets kontoadministratör och  ber dem ge dig åtkomst till alternativet Referenser och relaterat område. 
+**Om** du inte ser  alternativet Referenser på Partnercenter-menyn eller referensrelaterade sidor kontaktar [](permissions-overview.md) du ditt företags kontoadministratör och ber dem ge dig åtkomst till alternativet Referenser och det relaterade området.
 
-Så här hittar du företagets kontoadministratör:
+Så här hittar du ditt företags kontoadministratör:
 
 1. Välj **Kontoinställningar** från kugghjulsikonen längst upp till höger på instrumentpanelen i Partnercenter.
 
@@ -68,19 +68,19 @@ Så här hittar du företagets kontoadministratör:
 
    Sidan visar alla kontoadministratörer med sina respektive e-postadresser. Skicka ett e-postmeddelande till en av dem och be dem att tilldela referensadministratörsrollen för ditt arbetskonto.
 
-  :::image type="content" source="images/pscmigration/account-admin.gif" alt-text="Bild som visar kontoadministratörerna på användarhanteringssidan för partnerinställningar.":::
+  :::image type="content" source="images/pscmigration/account-admin.gif" alt-text="Bild som visar kontoadministratörerna på sidan för användarhantering i partnerinställningar.":::
 
 >[!Important]
 >- Om din roll endast omfattar hantering av användare i PSC ber [](permissions-overview.md#manage-mpn-membership-and-your-company) du företagets kontoadministratör att tilldela dig kontoadministratörsrollen i Partnercenter enligt företagets princip.
->- Om din roll även omfattar hantering av iot-avtal kan du be att [tilldelas](permissions-overview.md#manage-referrals) användarrollen referensadministratör eller referenser efter behov.
-> - Det är en bra idé att även nominera en ändringshanteringsledning bland PSC-administratörerna. Detta förhindrar att alla PSC-administratörer behöver kontakta partnercenterkontoadministratörer individuellt. Ändringshanteringsledningen kan i stället vara den primära personen som arbetar med kontoadministratören i Partnercenter.
+>- Om din roll även omfattar hantering av ioT-avtal kan du be att [tilldelas referensadministratören eller referensanvändarrollen](permissions-overview.md#manage-referrals) efter behov.
+> - Det är en bra idé att även nominera en ändringshanteringsledning bland PSC-administratörerna. Detta förhindrar att alla PSC-administratörer behöver kontakta partnercenter-kontoadministratörer individuellt. I stället kan ändringshanteringsledningen sedan vara den primära personen som arbetar med kontoadministratören i Partnercenter.
 
 ## <a name="user-migration"></a>Användarmigrering
 
-När du har ställt in ditt konto i Partnercenter använder du guiden för användarmigrering på sidan möjligheter till säljförsäljning för att automatiskt tilldela Partnercenter-roller till anställda i företaget.
+När du har ställt in ditt konto i Partnercenter använder du guiden för användarmigrering på sidan möjligheter till säljförsäljning för att automatiskt tilldela Partnercenter-roller till anställda i ditt företag.
 
 >[!Note]
-> Användarmigrering kan bara utföras [av kontoadministratörer](permissions-overview.md#manage-mpn-membership-and-your-company) för ditt företag. Om du inte har rollen som kontoadministratör hittar du en kontoadministratör som kan hjälpa dig att konfigurera användarkontona med hjälp av guiden för användarmigrering.
+> Användarmigrering kan bara utföras [av kontoadministratörer](permissions-overview.md#manage-mpn-membership-and-your-company) i ditt företag. Om du inte har rollen som kontoadministratör kan du hitta en kontoadministratör som kan hjälpa dig att konfigurera användarkontona med hjälp av guiden för användarmigrering.
 
 :::image type="content" source="images/pscmigration/user-migration.gif" alt-text="Bild som visar guiden för användarmigrering.":::
 
@@ -89,10 +89,10 @@ Kontoadministratörer ser en länk i guiden för PSC-användarmigrering på sida
 Tabellen för användarmigrering innehåller följande information:
 
 - Användarkonto – Medarbetarens e-post-ID
-- PSC-partnerkonto – Det konto som medarbetaren är associerad med i PSC
+- PSC-partnerkonto – Kontot som medarbetaren är associerad med i PSC
 - PSC-användarroll – en av de tre rollerna som tilldelats i PSC.
-- PLATS för DATOR-MPN – Den plats där användaren får relevanta Roller i Partnercenter (PC). MPN för PSC-partnerkontot används för att hitta motsvarande MPN-plats i Partnercenter för att tilldela behörigheter. Hela organisationen anger DET virtuella MPN-ID:t.
-- Datoranvändarroll – Anställda tilldelas roller baserat på sina PSC-användarroller. Administratören i PSC tilldelas referensadministratörsroller i Partnercenter. Säljaren tilldelas användarrollen referenser i Partnercenter. Läs mer om Partnercenter-roller och vad användare med dessa roller kan göra i Tilldela användarroller och behörigheter för ett företags användare som behöver [arbeta i Partnercenter.](permissions-overview.md#manage-referrals)
+- PLATS för DATOR-MPN – Den plats där användaren får relevanta Partner Center-roller (PC). MPN för PSC-partnerkontot används för att hitta motsvarande MPN-plats i Partnercenter för att tilldela behörigheter. Hela organisationen anger det virtuella MPN-ID:t.
+- Datoranvändarroll – Anställda tilldelas roller baserat på sina PSC-användarroller. Administratören i PSC tilldelas administratörsroller för hänvisningar i Partnercenter. Säljaren tilldelas referensanvändarrollen i Partnercenter. Läs mer om Partner center-roller och vad användare med dessa roller kan göra i Tilldela användarroller och behörigheter för ett företags användare som behöver [arbeta i Partnercenter.](permissions-overview.md#manage-referrals)
 - PC AAD-klient – den Microsoft Azure Active Directory (Azure AD)-klient som användarna är tilldelade till i Partnercenter
 - Status – Det finns tre möjliga tillstånd för migreringens status
     - **Inte migrerad** – användaren har inte tilldelats någon referensroll i Partnercenter
@@ -101,40 +101,40 @@ Tabellen för användarmigrering innehåller följande information:
 
 Ibland kan migreringen misslyckas och resultera i fel. Här är några orsaker till varför en migrering kan orsaka ett fel och några av sätten att lösa problemet:
 
-1. PSC-användare kan använda ett icke-arbetskonto.
+1. PSC-användarna kanske använder ett icke-arbetskonto.
 
 2. PSC-användaren kanske använder ett konto från en annan domän än den du använder i Partnercenter.
 
    För att lösa fel som rör scenarier 1 och 2 ber du användaren att logga in på Partnercenter med sitt arbetskonto som är kopplat till din Azure AD-klientorganisation. Din [globala administratör](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) kan vara till hjälp.
    
    Så här hittar du din globala administratör: 
-   1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard) och **välj Kontoinställningar** från kugghjulsikonen längst upp till höger.
+   1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard) **och välj Kontoinställningar** från kugghjulsikonen längst upp till höger.
    2. Välj **Användarhantering** i det vänstra navigeringsfältet på den andra nivån.
    3. Längst upp i användarlistan väljer du **listrutan Filter** och ändrar alternativet till **Global administratör.** Sidan visar sedan alla globala administratörer med sina respektive e-postadresser. Be en av dem att tilldela referensadministratörsrollen för ditt arbetskonto.
    
-      Den globala administratören kan antingen skapa ett nytt användarkonto i din Azure AD-klientorganisation eller tilldela gästanvändaråtkomst till de andra domänkontoanvändarna. När kontona har ställts in för alla PSC-avtalshanterare och -användare måste de logga in på Partnercenter, välja Referenser på den vänstra **navigeringsmenyn** och bekräfta att de kan se sidan Referenser.
+      Den globala administratören kan antingen skapa ett nytt användarkonto i din Azure AD-klientorganisation eller tilldela gästanvändaråtkomst till de andra domänkontoanvändarna. När kontona har ställts in för alla PSC-avtalshanterare och användare måste de logga in på Partnercenter, välja Referenser på den vänstra **navigeringsmenyn** och bekräfta att de kan se sidan Referenser.
 
 3. Användaren har redan en referensroll tilldelad i Partnercenter.
-    - Du kan verifiera användarens befintliga roll. I det övre högra hörnet i Partnercenter väljer **du Inställningar** (kugghjulsikonen) och sedan **Kontoinställningar**. När du ser en andra vänster navigeringsmeny väljer **du Användarhantering** och söker efter användaren.
+    - Du kan verifiera användarens befintliga roll. I det övre högra hörnet i Partnercenter väljer du **Inställningar** (kugghjulsikonen) och sedan **Kontoinställningar**. När du ser en andra vänster navigeringsmeny väljer **du Användarhantering** och söker efter användaren.
 
 ## <a name="psc-deals-migration"></a>Migrering av PSC-avtal
 
-När du har slutfört användarmigrering använder du avtalsmigreringsguiden på sidan möjligheter till säljförsäljning för att hämta alla berättigade öppna avtal från PSC till Partnercenter. **Hanterar migreringslänken visas endast för referensadministratörer med hela organisationens omfång i Partnercenter.** Länken för **PSC-avtalsmigrering** visas längst upp till höger på sidan med möjligheter till säljsamarbete och öppnar avtalsmigreringsguiden.
+När du har slutfört användarmigrering använder du avtalsmigreringsguiden på sidan möjligheter till säljförsäljning för att ta med alla berättigade öppna avtal från PSC till Partnercenter. **Hanterar migreringslänken visas endast för referensadministratörer med hela organisationens omfång i Partnercenter.** Länken för **PSC-avtalsmigrering** visas längst upp till höger på sidan med möjligheter till säljsamarbete och öppnar avtalsmigreringsguiden.
 
 Läs det här avsnittet innan du påbörjar avtalsmigrering.
 
 **Berättigad till migrering**
 
-Endast vissa avtal är berättigade till migrering från PSC till Partnercenter. Den här migreringsguiden är skapad för att hjälpa partner att få sina avtal till Partnercenter där de fortfarande arbetar aktivt med sina kunder för att stänga avtalet. **Endast avtal i öppet tillstånd som skapats från 1 januari 2020 med giltig partnerkontoinformation (giltigt MPN-ID) kan migreras.**
+Endast vissa avtal är berättigade till migrering från PSC till PartnerCenter. Den här migreringsguiden har skapats för att hjälpa partner att få sina avtal till Partnercenter där de fortfarande arbetar aktivt med sina kunder för att stänga avtalet. **Endast avtal i öppet tillstånd som skapats från 1 januari 2020 med giltig partnerkontoinformation (giltigt MPN-ID) är berättigade till migrering.**
 
 ## <a name="pre-requisites-for-deal-migration"></a>Förutsättningar för avtalsmigrering
 
 Innan du påbörjar avtalsmigrering från Partnercenter följer du anvisningarna nedan för att konfigurera avtal i PSC för en lyckad migrering.
 
-- Alla medlemmar i säljteamet i ditt företag som arbetar med öppna avtal informeras om migreringen.
-- Säljteamets medlemmar tränas att använda PartnerCenter för avtalshantering.
+- Alla medlemmar i säljteamet i företaget som arbetar med öppna avtal informeras om migreringen.
+- Säljteamets medlemmar tränas att använda Partnercenter för avtalshantering.
 - Avtal har all nödvändig information enligt beskrivningen nedan.
-    - Kundföretagsinformation, inklusive namn och adress
+    - Kundens företagsinformation, inklusive namn och adress
     - Minst en lösning
     - Minst en teammedlem med all information – förnamn, efternamn, e-post-ID och telefonnummer
     - Avtalsvärde
