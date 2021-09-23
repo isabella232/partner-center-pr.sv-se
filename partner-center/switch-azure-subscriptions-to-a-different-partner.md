@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/21/2021
-ms.openlocfilehash: 28e90ec4a699e2d8830f3695a30151e6b00e8cd1
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: b9ce8fff5915d3d4bf42f699c5a0c9130e37814b
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126249044"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128322126"
 ---
 # <a name="transfer-a-customers-azure-subscriptions-to-a-different-partner-without-converting-them-to-an-azure-plan"></a>Överföra en kunds Azure-prenumerationer till en annan partner utan att konvertera dem till en Azure-plan
 
@@ -32,15 +32,15 @@ Kunden, den aktuella tjänstleverantören och en ny tjänstleverantör har alla 
 
  Information på hög nivå som hjälper Azure-prenumeranter att överföra prenumerationer till och från CSP-partner finns i Överföra Azure-prenumerationer mellan [prenumeranter och molntjänstleverantörer.](/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp)
 
-Mer information om hur kunder kan ändra sina Azure-prenumerationer från en partner till en annan finns i Överföra en kunds Azure-prenumerationer till en annan [CSP (under en Azure-plan)](/partner-center/transfer-azure-subscriptions-under-azure-plan)
+Mer information om hur kunder kan ändra sina Azure-prenumerationer från en partner till en annan finns i Överföra en kunds Azure-prenumerationer till en annan [CSP (under en Azure-plan)](./transfer-azure-subscriptions-under-azure-plan.md)
 
 ## <a name="prerequisites"></a>Förutsättningar
 
-- En CSP-partner måste ha en återförsäljarrelation med en kund innan en prenumeration kan överföras.  Mer information finns i Så [här begär du en återförsäljarrelation från en kund i Partnercenter.](/partner-center/request-a-relationship-with-a-customer)
+- En CSP-partner måste ha en återförsäljarrelation med en kund innan en prenumeration kan överföras.  Mer information finns i Så [här begär du en återförsäljarrelation från en kund i Partnercenter.](./request-a-relationship-with-a-customer.md)
 - En partner måste vara en direkt provider eller en indirekt leverantör för att överföra en prenumeration.
 - Prenumerationer som är kopplade till följande erbjudanden kan inte överföras: Azure-plan, Office 365, Enterprise Mobility Suite och Microsoft Dynamics CRM.
 - En kund måste vara i samma land som en partner för att överföra en prenumeration.
-- Partner som arbetar i Microsoft Cloud for US Government eller Microsoft Cloud Tyskland måste begära tillstånd att hantera en kunds tjänst eller prenumeration. Mer information finns i [Skaffa behörigheter för att hantera en kunds tjänst eller prenumeration.](/partner-center/customers-revoke-admin-privileges)
+- Partner som arbetar Microsoft Cloud for US Government Microsoft Cloud Tyskland måste begära tillstånd att hantera en kunds tjänst eller prenumeration. Mer information finns i [Skaffa behörigheter för att hantera en kunds tjänst eller prenumeration.](./customers-revoke-admin-privileges.md)
 
 ## <a name="transferring-azure-subscriptions-to-another-partner"></a>Överföra Azure-prenumerationer till en annan partner
 
@@ -53,7 +53,7 @@ Mer information om hur kunder kan ändra sina Azure-prenumerationer från en par
 |1     |[Kunden meddelar Microsoft och den aktuella partnern genom att skriva](#step-1-customer-contacts-current-partner-in-writing)         |         |         |
 |2     |         |[Skapa en supportbegäran för att begära överföring](#step-2-current-provider-creates-azure-support-ticket-to-request-a-transfer)        |         |
 |3     |         |[Skicka ifyllda överföringsformulär till kunden](#step-3-current-partner-completes-transfer-form-and-sends-it-to-the-customer)|         |
-|4     |         |[Fullständig ändring av Molnlösningsleverantör formulär](#step-3-current-partner-completes-transfer-form-and-sends-it-to-the-customer)       |         |
+|4     |         |[Fullständig ändring Molnlösningsleverantör formulär](#step-3-current-partner-completes-transfer-form-and-sends-it-to-the-customer)       |         |
 |5     |[Gransknings-, signerings- & returformulär](#step-5-the-customer-and-new-partner-review--return-the-form)       |         |[Gransknings-, signerings- & returformulär](#step-5-the-customer-and-new-partner-review--return-the-form)         |
 |6     |         |[Granskningsformulär och bifoga till tjänstbegäran](#step-6-current-partner-reviews-form-and-attaches-it-to-the-service-request)        |         |
 |7     |         |         |[Ta bort gammal partner från konto](#step-7-new-partner-removes-old-partner-from-account)         |
@@ -88,7 +88,7 @@ Den aktuella partnern laddar ned och [fyller i Molnlösningsleverantör ,](https
 
 Den aktuella partnern fyller [i Molnlösningsleverantör formulär,](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC)signerar det och skickar det till kunden.
 
-En av de uppgifter som behövs för *att slutföra Molnlösningsleverantör* formulär är:
+En av de uppgifter som behövs för *att slutföra Molnlösningsleverantör* formuläret är:
 
 - **Aktuell partners kontaktinformation och Microsoft-ID** (som finns i menyn i Partnercenter genom att välja Kontoinställningar **> Organisationsprofil**).
 - **Kundens Microsoft-ID** (som finns i menyn i Partnercenter genom att välja **Kunder** och sedan expandera kundens lista för att visa sitt Microsoft-ID).
@@ -107,7 +107,7 @@ Arbeta tillsammans, kunden och den nya partnern:
 När den aktuella partnern får formuläret gör de följande:
 
 - Kontrollera att formuläret innehåller kontaktinformation för båda partneradministratörerna. (Microsoft Support kontaktar båda administratörerna för att verifiera överföringen.)
-- Kontrollera att de har alla tre signaturerna och använd sedan alternativet **Fil Upload** för att koppla det ifyllda formuläret till den befintliga tjänstbegäran. (En Microsoft-supporttekniker kontaktar dem inom åtta timmar för att verifiera kvitto och slutförande.)
+- Kontrollera att de har alla tre signaturerna och använd sedan alternativet **Fil Upload** för att bifoga det ifyllda formuläret till den befintliga tjänstbegäran. (En Microsoft-supporttekniker kontaktar dem inom åtta timmar för att verifiera kvitto och slutförande.)
 
 #### <a name="step-7-new-partner-removes-old-partner-from-account"></a>Steg 7: Ny partner tar bort gamla partner från kontot
 
@@ -151,15 +151,15 @@ Get-AzRoleAssignment
 I det här avsnittet beskrivs kortfattat hur den nya Azure-planen introduceras. Sedan beskrivs ett specialfall där vissa prenumerationer på det tidigare Azure-erbjudandet kan överföras till en annan CSP utan att konvertera dem till den nya Azure-planen.
 
 > [!NOTE]
-> Om du vill överföra en kunds Azure-prenumerationer som köptes under det tidigare Azure-erbjudandet till en ny CSP och konvertera dem till *Azure-planen*(som är standardåtgärden) kan du läsa föregående avsnitt Överföra en [*Azure-prenumeration*](#transferring-azure-subscriptions-to-another-partner)till en annan partner och artikeln Överföra en kunds Azure-prenumerationer till en annan [*CSP (under en Azure-plan).*](/partner-center/transfer-azure-subscriptions-under-azure-plan)
+> Om du vill överföra en kunds Azure-prenumerationer som köptes under det tidigare Azure-erbjudandet till en ny CSP och konvertera dem till *Azure-planen*(som är standardåtgärden) kan du läsa föregående avsnitt Överföra en [*Azure-prenumeration*](#transferring-azure-subscriptions-to-another-partner)till en annan partner och artikeln Överföra en kunds Azure-prenumerationer till en annan [*CSP (under en Azure-plan).*](./transfer-azure-subscriptions-under-azure-plan.md)
 
 ### <a name="the-azure-plan-and-the-previous-azure-offer"></a>Azure-planen och det tidigare Azure-erbjudandet
 
-Microsoft introducerade en ny handelsupplevelse, [Azure-planen,](/partner-center/azure-plan-lp)i juli 2021. För att ge partner tid att införliva nya funktioner med sina tjänster och föra över kunder från det tidigare Azure-erbjudandet (MS-AZR-0145p) till Azure-planen fortsätter det tidigare Azure-erbjudandet att vara tillgängligt under en begränsad tid.
+Microsoft introducerade en ny handelsupplevelse, [Azure-planen,](./azure-plan-lp.md)i juli 2021. För att ge partner tid att införliva nya funktioner med sina tjänster och föra över kunder från det tidigare Azure-erbjudandet (MS-AZR-0145p) till Azure-planen fortsätter det tidigare Azure-erbjudandet att vara tillgängligt under en begränsad tid.
 
 Övergången från det tidigare Azure-erbjudandet till Azure-planen sker i tre faser:
 
-**Fas 1:** Sedan Azure-planen introducerades i juli 2021 har alla nya Azure CSP-programkunder placerats i Azure-planen. Partner kan fortsätta att hantera det tidigare Azure-erbjudandet med kunder som redan har köpt det.
+**Fas 1:** Sedan Azure-planen introducerades i juli 2021 har alla nya Azure CSP-programkunder lagts till i Azure-planen. Partner kan fortsätta att hantera det tidigare Azure-erbjudandet med kunder som redan har köpt det.
 
 **Fas 2:** Den 1 februari 2022 tas incitament och möjligheter med partnermarginal bort från det tidigare Azure-erbjudandet.
 

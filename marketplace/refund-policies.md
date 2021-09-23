@@ -1,17 +1,17 @@
 ---
 title: Återbetalningsprinciper för Microsoft AppSource och Azure Marketplace
-description: Lär dig mer om återbetalningsprinciper för produkter som säljs Microsoft AppSource och Azure Marketplace.
+description: Lär dig mer om återbetalningsprinciper för produkter som säljs på Microsoft AppSource och Azure Marketplace.
 ms.service: marketplace-customer
 ms.topic: article
 author: jeweber
 ms.author: jeweber
 ms.date: 09/21/2021
 ms.openlocfilehash: 6c4034a98ce78824b495e92abdc3d5129032c9b4
-ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/23/2021
-ms.locfileid: "128312235"
+ms.locfileid: "128322075"
 ---
 # <a name="refund-policies-for-microsoft-appsource-and-azure-marketplace"></a>Återbetalningsprinciper för Microsoft AppSource och Azure Marketplace
 
