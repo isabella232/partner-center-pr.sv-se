@@ -5,16 +5,16 @@ ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
 description: Lär dig hur du kan skydda din åtkomst till kundresurser genom att använda MFA för dina partnerklienter. Innehåller exempelscenarier.
-author: isaiahwilliams
-ms.author: iswillia
+author: parthpandyaMSFT
+ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c29e59118f4b50cd25fbe0f1560519bb178768e2
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 9778e58aed008eb710fbf2037062bdaa48deb2ad
+ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247434"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128316388"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Använda multifaktorautentisering (MFA) för din partnerklientorganisation
 
@@ -35,7 +35,7 @@ För att hjälpa partner att skydda sina företag och kunder från identitetsst�
 Vissa sidor i instrumentpanelen i Partnercenter kommer att vara MFA-skyddade, inklusive:
 
 - Alla sidor under **fliken** Kunder, t.ex. alla sidor som kan nås via följande URL: https://partner.microsoft.com/commerce/*
-- Alla sidor under **fliken > kundförfrågningar,** t.ex. sidan som nås under https://partner.microsoft.com/dashboard/support/csp/customers/*
+- Alla sidor under **fliken > Kundförfrågningar,** t.ex. sidan som nås under https://partner.microsoft.com/dashboard/support/csp/customers/*
 - Faktureringssida
 
 I följande tabell visas vilka användartyper som har behörighet att komma åt dessa MFA-skyddade sidor (och därför påverkas av den här funktionen).
@@ -162,13 +162,13 @@ Den övergripande upplevelsen liknar scenariot där en slutanvändares klientorg
 
 ### <a name="using-service-apis"></a>Använda tjänst-API:er
 
-Vissa API:er för Microsoft Online Services (till exempel Azure Resource Manager, Azure AD Graph, Microsoft Graph osv.) stöder partner som använder partnerdelegier för att programmatiskt hantera kundresurser. Om du vill använda partner-delegerade administratörsbehörigheter med dessa API:er måste partnerprogrammet inkludera en åtkomsttoken i rubriken auktorisering för API-begäran, där åtkomsttoken hämtas genom att ett partneranvändarkonto används för autentisering med Azure AD, med kundens Azure AD inställt som autentiseringskontext. Partnerprogrammet måste ha ett partneranvändarkonto för att logga in på kundklientorganisationen.
+Vissa API:er för Microsoft Online Services (till exempel Azure Resource Manager, Azure AD Graph, Microsoft Graph osv.) stöder partner som använder partnerdelegierade administratörsbehörigheter för att programmatiskt hantera kundresurser. Om du vill använda partner-delegerade administratörsbehörigheter med dessa API:er måste partnerprogrammet inkludera en åtkomsttoken i rubriken auktorisering för API-begäran, där åtkomsttoken hämtas genom att ett partneranvändarkonto används för autentisering med Azure AD, med kundens Azure AD inställt som autentiseringskontext. Partnerprogrammet måste ha ett partneranvändarkonto för att logga in på kundklientorganisationen.
 
 När Azure AD tar emot till exempel en autentiseringsbegäran kräver Azure AD partneranvändarkontot för att slutföra MFA-verifieringen. Om partneranvändarkontot inte har registrerats för MFA tidigare uppmanas användarkontot att slutföra MFA-registreringen först.
 
 Alla partnerprogram som är integrerade med dessa API:er med partnerdelegerade administratörsbehörigheter påverkas av den här funktionen. För att säkerställa att partnerprogram kan fortsätta att fungera med dessa API:er utan avbrott:
 
-- Partnern måste undvika att använda icke-interaktiv användarautentiseringsmetod med Azure AD för att hämta åtkomsttoken. När du använder icke-interaktiv användarautentiseringsmetod, till exempel [lösenord Flow](https://github.com/AzureAD/azure-activedirectory-library-for-dotnet/wiki/Acquiring-tokens-with-username-and-password), kommer Azure AD inte att kunna uppmana användaren att slutföra MFA-verifieringen. Partnern måste växla till att använda interaktiv användarautentiseringsmetod, till [exempel OpenID Anslut flöde i](/azure/active-directory/develop/v1-protocols-openid-connect-code) stället.
+- Partnern måste undvika att använda icke-interaktiv användarautentiseringsmetod med Azure AD för att hämta åtkomsttoken. När du använder icke-interaktiv användarautentiseringsmetod som Lösenord [Flow](https://github.com/AzureAD/azure-activedirectory-library-for-dotnet/wiki/Acquiring-tokens-with-username-and-password)kan Azure AD inte uppmana användaren att slutföra MFA-verifieringen. Partnern måste växla till att använda interaktiv användarautentiseringsmetod, till [exempel OpenID Anslut flöde i](/azure/active-directory/develop/v1-protocols-openid-connect-code) stället.
 
 - Under autentiseringsmetoden för interaktiv användare bör partnern använda ett partneranvändarkonto som redan är aktiverat för MFA. Alternativt kan partnern slutföra MFA-registreringen och MFA-verifieringen under inloggningen när du uppmanas av Azure AD.
 
@@ -208,16 +208,16 @@ En partner har vissa användarkonton i sina partnerklienter, som används av enh
 
 **Svar:** Nej. Eftersom dessa användarkonton inte använder delegerad administratörsbehörighet för partner för att hantera kundresurser behöver de inte logga in på kundens klientorganisation. De påverkas inte av att Azure AD kräver MFA-verifiering under inloggningen till kundens klientorganisation.
 
-##### <a name="issue-4-partner-cannot-implement-mfa-using-ms-authenticator-app"></a>Problem 4: Partnern kan inte implementera MFA med ms Authenticator appen
+##### <a name="issue-4-partner-cannot-implement-mfa-using-ms-authenticator-app"></a>Problem 4: Partnern kan inte implementera MFA med ms Authenticator app
 En partner har principen "clean desk", som inte tillåter att anställda tar med sina personliga mobila enheter till sitt arbetsområde. Utan åtkomst till sina personliga mobila enheter kan de anställda inte installera MS Authenticator App, vilket är den enda MFA-verifiering som stöds av Standardinställningar för Azure AD-säkerhet. Är det här problemet en giltig orsak till ett tekniskt undantag?
 
 **Svar:** Nej, det här är inte en giltig orsak till ett tekniskt undantag. Partnern bör överväga följande alternativ, så att deras anställda fortfarande kan slutföra MFA-verifiering vid åtkomst till Partnercenter:
-- Partner kan också registrera sig för Azure AD Premium eller MFA-lösningar från tredje part (kompatibla med Azure AD) som kan tillhandahålla ytterligare verifieringsmetoder.
+- Partner kan också registrera sig för Azure AD Premium MFA-lösningar från tredje part (kompatibla med Azure AD) som kan tillhandahålla ytterligare verifieringsmetoder.
 
 ##### <a name="issue-5-partner-cannot-implement-mfa-due-to-the-use-of-legacy-authentication-protocols"></a>Problem 5: Partnern kan inte implementera MFA på grund av användningen av äldre autentiseringsprotokoll
 En partner har vissa partneragenter som fortfarande använder äldre autentiseringsprotokoll, som inte är MFA-kompatibla. Användarna använder till exempel fortfarande Outlook 2010, som baseras på äldre autentiseringsprotokoll. Om du aktiverar MFA för dessa partneragenter störs användningen av äldre autentiseringsprotokoll.
 
-**Svar:** Nej, det här är inte en giltig orsak till ett tekniskt undantag. Partner uppmuntras starkt att inte använda äldre autentiseringsprotokoll på grund av potentiella säkerhetskonsekvenser eftersom dessa protokoll inte kan skyddas med MFA-verifiering och är mycket mer sårbara för kompromettering av autentiseringsuppgifter. Om det inte är ett alternativ att flytta från att använda äldre autentiseringsprotokoll bör partner överväga att registrera sig för Azure AD Premium, som stöder användning av programlösenord. Programlösenord är systemgenererade lösenord en gång och är vanligtvis starkare än lösenord som genereras av människor. Genom att använda programlösenord kan partner implementera MFA för sina användare, samtidigt som de går tillbaka till Programlösenord endast för äldre autentiseringsprotokoll.
+**Svar:** Nej, det här är inte en giltig orsak till ett tekniskt undantag. Partner uppmuntras starkt att inte använda äldre autentiseringsprotokoll på grund av potentiella säkerhetskonsekvenser eftersom dessa protokoll inte kan skyddas med MFA-verifiering och är mycket mer sårbara för kompromettering av autentiseringsuppgifter. Om det inte är ett alternativ att gå från att använda äldre autentiseringsprotokoll bör partner överväga att registrera sig för Azure AD Premium, som stöder användning av programlösenord. Programlösenord är systemgenererade lösenord en gång och är vanligtvis starkare än lösenord som genereras av människor. Genom att använda programlösenord kan partner implementera MFA för sina användare, samtidigt som de går tillbaka till Programlösenord endast för äldre autentiseringsprotokoll.
 
 Läs inlägget om Grundläggande autentisering och [Exchange Online](https://techcommunity.microsoft.com/t5/exchange-team-blog/basic-auth-and-exchange-online-february-2020-update/ba-p/1191282) för att förstå den senaste planen om stöd för äldre autentisering för Outlook och följ [Exchange teambloggen](https://techcommunity.microsoft.com/t5/exchange-team-blog/bg-p/Exchange) för att få de kommande nyheterna. 
 
