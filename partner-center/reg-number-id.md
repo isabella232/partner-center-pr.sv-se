@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 285a3c880d29f28d7dbe02224fe0bb139bd0cd04
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 69e0d7d191d8f0895811d26279e6e2747e7953fc
+ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246259"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "128135450"
 ---
 # <a name="registration-id-number-information"></a>Information om registrerings-ID-nummer
 
@@ -48,7 +48,7 @@ Om du är en indirekt leverantör, partner för direktfakturering eller indirekt
 | **Turkiet** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) – Skatteidentifieringsnummer<br>NIN |
 | **Ukraina**  | EGRPOU<br>EDRPOU – lokalt ID |
 | **Förenade Arabemiraten** | Skatte-ID<br>[Momsregistreringsnummer](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) – även kallat momsregistreringsnummer. Det här värdet är det unika nummer som identifierar en skattebar person (företag) eller en icke-skattebar juridisk enhet som är registrerad för moms. |
-| **USA** | [ING](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) – Arbetsgivares id-nummer |
+| **USA** | [ING](https://www.irs.gov/taxtopics/tc755) – Arbetsgivares id-nummer |
 | **Uzbekistan**  | INN – Skatteidentifieringsnummer |
 | **Vietnam** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Skatteidentifieringsnummer |
 | **Venezuela** | DECENTRALIS – är ett skattenummer ("Registro de Identificacigån Fiscal") |  
