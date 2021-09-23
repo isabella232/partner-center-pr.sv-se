@@ -11,23 +11,23 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 08/30/2021
-ms.openlocfilehash: aa9ab9d33b3e067027b91039108c3eee5fea13e5
-ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
+ms.openlocfilehash: 800f672c1e5d74f7689adb87cf9a316cdd9c761f
+ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/19/2021
-ms.locfileid: "127960816"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128309711"
 ---
 # <a name="august-2021-announcements"></a>Augusti 2021-meddelanden
 
 Den här sidan innehåller meddelanden för Microsoft Partner Center för augusti 2021.
 
 ________________
-## <a name="privacy-management-for-microsoft-365-launch-is-delayed"></a><a name="20"></a>Sekretesshantering för Microsoft 365 uppskjutningen är försenad
+## <a name="privacy-management-for-microsoft-365-launch-is-delayed"></a><a name="20"></a>Sekretesshantering för Microsoft 365 uppskjutningen är fördröjd
 
 ### <a name="summary"></a>Sammanfattning
 
-Startplanen för Microsoft 365 sekretesshantering har ändrats. Vi arbetar på att slutföra ett nytt lanseringsdatum och kommer att meddela det snart.
+Lanseringsplanen sekretesshantering för Microsoft 365 har ändrats. Vi arbetar på att slutföra ett nytt lanseringsdatum och kommer att meddela det snart.
 
 ### <a name="categories"></a>Kategorier
 
@@ -83,9 +83,9 @@ Direkta leverantörer, indirekta leverantörer och indirekta återförsäljare
 
 Windows Server 2022, nästa version av Long-Term Servicing Channel (LTSC), gör det möjligt för kunder att köra befintliga och nya affärskritiska program med förtroende i Azure, lokalt och på gränsen.
 
-Windows Server 2022 introducerar avancerad säkerhet på flera lager, hybridfunktioner med Azure och en flexibel programplattform. Som en del av den här allmänna tillgängligheten tar vi med säkra kärnfunktioner till Windows Server för att skydda system som kör arbetsbelastningar på Windows Server 2022. En server med säkra kärnor bygger på tekniker som Windows Defender System Guard och virtualiseringsbaserad säkerhet för att minimera risken för sårbarheter i inbyggd programvara och avancerad skadlig kod. Den nya versionen ger också säkra anslutningar och introducerar flera nya funktioner, till exempel snabbare och säkrare krypterade HTTPS-anslutningar och SMB AES 256-kryptering av branschstandard.
+Windows Server 2022 introducerar avancerad säkerhet på flera lager, hybridfunktioner med Azure och en flexibel programplattform. Som en del av den här allmänna tillgängligheten tar vi med säkra kärnfunktioner till Windows Server för att skydda system som kör arbetsbelastningar på Windows Server 2022. En säker kärnserver bygger på tekniker som Windows Defender System Guard och virtualiseringsbaserad säkerhet för att minimera risken för sårbarheter i inbyggd programvara och avancerad skadlig kod. Den nya versionen ger också säkra anslutningar och introducerar flera nya funktioner, till exempel snabbare och säkrare krypterade HTTPS-anslutningar och SMB AES 256-kryptering av branschstandard.
 
-Windows Server 2022 förbättrar hybridserverhanteringen med avsevärt förbättrad hantering av virtuella datorer, en förbättrad loggboken och många fler nya funktioner i Windows Administrationscenter. Dessutom innehåller den här versionen betydande förbättringar av Windows container, till exempel mindre avbildningsstorlek för snabbare nedladdning, förenklad implementering av nätverksprincipen och containeriseringsverktyg för .NET-program.
+Windows Server 2022 förbättrar hybridserverhanteringen med avsevärt förbättrad hantering av virtuella datorer, en förbättrad loggboken och många fler nya funktioner i Windows Administrationscenter. Dessutom innehåller den här versionen betydande förbättringar av Windows container, till exempel mindre bildstorlek för snabbare nedladdning, förenklad implementering av nätverksprincipen och containeriseringsverktyg för .NET-program.
 
 ### <a name="additional-resources"></a>Ytterligare resurser
 
@@ -136,7 +136,7 @@ CSP:s direktfaktureringspartner och indirekta leverantörer, inklusive återför
 
 ### <a name="details"></a>Information
 
-Från och med den 1 september 2021 kommer Microsoft att [](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers.pdf) aktivera platsbaserade erbjudanden för integrerad [sandbox-testning](/partner-center/develop/test-and-debug) i den nya handelsupplevelsen för CSP-programmet.
+Från och med den 1 september 2021 kommer Microsoft att [](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers-pdf) aktivera platsbaserade erbjudanden för integrerad [sandbox-testning](/partner-center/develop/test-and-debug) i den nya handelsupplevelsen för CSP-programmet.
 
 Tillägget av Microsoft 365, Dynamics 365, Power Platform och Windows 365-erbjudanden i CSP till den nya handelsupplevelsen är en annan viktig milstolpe i vår nya handelsresa. Microsoft investerar i produktinnovationer, bättre verktyg och tillgång till nya affärsmöjligheter som gör det möjligt för partner att öka sina CSP-intäkter och ge fler alternativ till kunder. Vi utvecklar vår handelsplattform och effektiviserar order- och prenumerationshanteringsprocesserna för att hjälpa partner och kunder att lyckas med den digitala omvandlingen.
 
@@ -210,7 +210,7 @@ Moderna uppdateringar av fakturastrukturen kommer att gälla från och med den 2
 
 ### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Partner som gör en Molnlösningsleverantör(CSP)-programmet i USA, Puerto Toronto och Kanada
+Partner som gör en Molnlösningsleverantör ICSP-programmet (CSP) i USA, Toronto Och Kanada
 
 ### <a name="details"></a>Information
 
@@ -237,7 +237,7 @@ Fakturor som skapats efter den 29 augusti 2021 återspeglar uppdateringarna. Par
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har frågor om dessa erbjudanden kan du kontrollera dina relevanta Microsoft Partner Anslut-communities.
+Om du har frågor om dessa erbjudanden kan du gå till relevanta Microsoft Partner Anslut-communities.
 
 ________________
 ## <a name="now-live-new-commerce-experience-in-csp-for-azure-expanding-to-government-community-cloud-gcc"></a><a name="16"></a>Nu live: Ny handelsupplevelse i CSP för Azure expanderar till Government Community Cloud (GCC)
@@ -282,11 +282,11 @@ Fas 2 i EU/European Free Trade Association (EFTA) och Storbritannien (UK) ändri
 
 ### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Partner som gör en överträdelse Molnlösningsleverantör CSP-programmet (CSP) i regionen EU/EFTA och Storbritannien
+Partner som gör ett Molnlösningsleverantör(CSP) i regionen EU/EFTA och Storbritannien
 
 ### <a name="details"></a>Information
 
-I regionen EU/EFTA och Storbritannien kommer alla nya handelserbjudanden i CSP-programmet att använda partnerfaktureringsplats i stället för kundens faktureringsplats. Det innebär att partner debiteras av Microsoft baserat på deras platsvaluta, inte kundernas platsvaluta. Vi meddelade att [fas 1 blev live](/2021-january.md#15) den 28 januari 2021.
+I regionen EU/EFTA och Storbritannien kommer alla nya handelserbjudanden i CSP-programmet att använda partnerfaktureringsplats i stället för kundens faktureringsplats. Det innebär att partner debiteras av Microsoft baserat på deras platsvaluta, inte kundernas platsvaluta. Vi meddelade att [fas 1 gick live](./2021-january.md#15) den 28 januari 2021.
 
 Vi är glada över att kunna dela med oss av att fas 2 av den här övergångsupplevelsen nu är live. Fas 2 distribueras till partner i batchar, vilket innebär att det finns skillnader i de exakta startdatumen för fas 2-övergången mellan partnerorganisationer. Vi har kontaktat partner direkt med mer information om deras övergångsdatum.
 
@@ -296,9 +296,9 @@ Vi är glada över att kunna dela med oss av att fas 2 av den här övergångsup
 
 - Befintliga kunder som köper nya köperbjudanden för första gången och vars klientorganisation skapades den 11 maj 2020 eller senare
 
-Efter fas 2 debiteras partner i regionen EU/EFTA och Storbritannien i partnervalutan för alla kunder och alla CSP-inköp.
+Efter fas 2 debiteras partner i regionen EU/EFTA och Storbritannien i partnerns platsvaluta för alla kunder och alla CSP-inköp.
 
-Observera att den här ändringen endast påverkar partnerfaktureringsvalutan och inte prissättningen för nya handelserbjudanden i CSP.De nya näthandelserbjudandena i omfånget för den här ändringen omfattar följande:
+Observera att den här ändringen endast påverkar partnerns faktureringsvaluta och inte prissättningen för nya handelserbjudanden i CSP.De nya handelserbjudandena i omfånget för den här ändringen omfattar följande:
 
 - Azure-prenumerationer som ingår i en Azure-plan
 - Azure-reservationer
@@ -310,24 +310,24 @@ Observera att den här ändringen endast påverkar partnerfaktureringsvalutan oc
 
 Som förberedelse för den här övergången har vi dokumenterat den förväntade partnerupplevelsen i en [guide.](https://partner.microsoft.com/resources/detail/eu-efta-uk-change-of-partner-billing-currency-new-commerce-offers-pdf)
 
-Det finns inga tekniska ändringar i Microsoft API eller PartnerCenter. Men om du använder Microsoft-API:er eller en tredje parts kontrollpanelsleverantör (CPV) för faktureringsautomatisering kan partneråtgärder krävas för att säkerställa att ditt handelssystem kan hantera ändringen av valuta.
+Det finns inga tekniska ändringar i Microsoft API eller Partnercenter. Men om du använder Microsoft-API:er eller en tredjepartsleverantör av kontrollpanelen (CPV) för faktureringsautomatisering kan partneråtgärder krävas för att säkerställa att ditt handelssystem kan hantera valutaändringen.
 
 #### <a name="partnerbenefits"></a>Partnerförmåner
 
-Den här uppdateringen minskar komplexiteten och omkostnaderna med fakturering för flera kunder i regionen EU/EFTA och Storbritannien för den nya handelsupplevelsen.
+Den här uppdateringen minskar komplexiteten och omkostnaderna med fakturering för flera kunder i REGIONEN EU/EFTA och Storbritannien för den nya handelsupplevelsen.
 
 - Partner får en konsoliderad faktura i en enda valuta och får inte längre en faktura för varje kundplatsvaluta.
-- Incitamentutbetalningarna kommer att finnas i samma valuta som partnerns fakturavaluta.
-- Partner kommer att märka minskad faktureringskomplexitet som orsakas av fakturering med flera kunder, vilket frigör tid och resurser som är associerade med avstämning av konton.
-- För partner som ännu inte har infört nya handelserbjudanden överensstämmer den här ändringen med den tidigare partnerfaktureringsmodellen, så att de enkelt kan övergå till den nya handelsupplevelsen i CSP.
+- Incitamentbetalningar kommer att finnas i samma valuta som partnerns fakturavaluta.
+- Partner märker av minskad faktureringskomplexitet på grund av fakturering med flera kostnader, vilket frigör tid och resurser som är kopplade till avstämning av konton.
+- För partner som ännu inte har infört nya handelserbjudanden överensstämmer den här ändringen med den tidigare partnerns faktureringsmodell, så att de enkelt kan övergå till den nya handelsupplevelsen i CSP.
 
 ### <a name="next-steps"></a>Nästa steg
 
-Granska informationen om det här avsnittet i [resursgalleriet för åtgärder](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) (inloggning krävs) på Microsoft-partnerwebbplatsen.
+Granska informationen om det här avsnittet i [resursgalleriet för åtgärder](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) (inloggning krävs) på Microsofts partnerwebbplats.
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har frågor om det här meddelandet kontaktar [du Support för Partnercenter](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) (inloggning krävs).
+Om du har frågor om det här meddelandet kontaktar [du supporten för Partnercenter](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) (inloggning krävs).
 
 ### <a name="change-log"></a>Ändringslogg
 
@@ -339,7 +339,7 @@ Om du har frågor om det här meddelandet kontaktar [du Support för Partnercent
     - Fas 2 är nu live och distribueras till partner i batchar under veckan den 23 augusti 2021.
 
 ________________
-## <a name="new-commerce-experience-for-microsoft-365-dynamics-365-power-platform-and-windows-365-seat-based-for-breadth-motion"></a><a name="14"></a>Ny handelsupplevelse för Microsoft 365, Dynamics 365, Power Platform och Windows 365-platsbaserad för bredd rörelse
+## <a name="new-commerce-experience-for-microsoft-365-dynamics-365-power-platform-and-windows-365-seat-based-for-breadth-motion"></a><a name="14"></a>Ny handelsupplevelse för Microsoft 365, Dynamics 365, Power Platform och Windows 365 seat-based for breadth motion
 
 ### <a name="summary"></a>Sammanfattning
 
@@ -350,71 +350,71 @@ I oktober 2021 kommer Microsoft att erbjuda platsbaserade molnerbjudanden till d
 - Datum: 2021-08-19
 - Funktioner
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
 CSP:s direktfaktureringspartner och indirekta leverantörer och återförsäljare via deras indirekta leverantörer
 
 ### <a name="details"></a>Information
 
-Microsoft är på en omvandlingsresa med sin handelsupplevelse – en investering i flerasteg och flera år. Den nya handelsupplevelsen för Molnlösningsleverantör-programmet (CSP) bygger på de grundläggande funktioner som gjorde CSP till en go-to-motion för partner som säljer mervärdeslösningar för molnet. Med ny handel kan partner erbjuda unika tjänsteerbjudanden för kunder oavsett hur kunderna köper, vilket gör att de kan omvandlas digitalt. Och partner kan utöka sin verksamhet med kontinuerlig försäljning och hanterade tjänster samtidigt som kostnaderna minskar.
+Microsoft är på en omvälvande resa med sin handelsupplevelse – en investering i flerasteg och flera år. Den nya köpupplevelsen för Molnlösningsleverantör-programmet (CSP) bygger på de grundläggande funktioner som gjorde att CSP blev en go-to-motion för partner som säljer mervärdeslösningar. Med ny handel kan partner erbjuda unika tjänsteerbjudanden för kunder oavsett hur kunderna köper, vilket gör det möjligt för dem att digitalt transformera. Partner kan även expandera sin verksamhet med kontinuerlig försäljning och hanterade tjänster samtidigt som kostnaderna minskar.
 
-Varje fas i den nya handelsresan ger nya möjligheter, erbjudanden, funktioner och fördelar. Det började med den nya handelsupplevelsen för CSP för två år sedan med Microsoft Azure (det första Microsoft-erbjudandet introducerades på den nya handelsplattformen), följt av reserverade Azure-instanser och senast ständiga programvaruerbjudanden.
+Varje fas i den nya handelsresan ger nya möjligheter, erbjudanden, funktioner och fördelar. Det började med den nya handelsupplevelsen för CSP för två år sedan med Microsoft Azure (det första Microsoft-erbjudandet som introducerades på den nya handelsplattformen), följt av reserverade Azure-instanser och senast ständiga programvaruerbjudanden.
 
 I nästa fas i oktober 2021 kommer vi att erbjuda platsbaserade molnerbjudanden till den nya handelsupplevelsen för Microsoft 365, Dynamics 365 och Power Platform samt Windows 365.
 
-Att flytta till den nya handelsupplevelsen hjälper partner att strategiskt placera sin verksamhet för framtida tillväxt genom att skapa bredare och mer hållbara intäktsströmmar i CSP med mindre licenskomplexitet och kostnad. Lanseringen i oktober ger partner i CSP-programmet nya försäljningsfunktioner, ger driftseffektivitet och driver långsiktigt kundåtagande med flera alternativ.
+Att flytta till den nya handelsupplevelsen hjälper partner att strategiskt placera sin verksamhet för framtida tillväxt genom att skapa bredare och mer hållbara intäktsströmmar i CSP med mindre licenskomplexitet och kostnad. Lanseringen i oktober ger partner i CSP-programmet nya försäljningsfunktioner, ger driftseffektivitet och driver långsiktigt kundåtagande med flera långsiktiga alternativ.
 
 #### <a name="selling-microsoft-365-dynamics-365-and-power-platform-in-the-new-commerce-experience"></a>Försäljning Microsoft 365, Dynamics 365 och Power Platform i den nya handelsupplevelsen
 
-Med ny handel kan partner hantera spektrumet av kundscenarier. De kan också låsa prenumerationspriser före de nyligen tillkännaiserade prisökningarna för Modern Workplace. Partner får bättre förutsägbara intäkter (och prisför förutsägbarhet för kunder) genom att sälja årliga eller flerårserbjudanden. Bland fördelarna med den nya handelsupplevelsen i CSP:
+Med ny handel kan partner hantera spektrumet av kundscenarier. De kan också låsa prenumerationspriser i förväg för de nyligen tillkännagivna prisökningarna för Modern Workplace. Partner får bättre intäktsför förutsägbarhet (och prisför förutsägbarhet för kunder) genom att sälja årliga eller flerårserbjudanden. Bland fördelarna med den nya handelsupplevelsen i CSP:
 
 - Enklare införande av nya produkter som Viva Insights, inklusive effektiva utvärderingskonverteringar och tillägg som är tillgängliga separat i CSP-katalogen.
-- Treårsvillkor för Microsoft 365 helt inom ny handel i mars 2022.
+- Treårsvillkor för Microsoft 365 inom ny handel i mars 2022.
 - Nya erbjudanden för Microsoft 365 och D365 exklusivt för ny handel.
-- Erbjudanden på treårs sikt för D365 liknar den befintliga upplevelsen i CSP.
-- Nya månatliga erbjudanden med ett prispris för kunder som behöver flexibel period och antal platser.
+- Erbjudanden på treårs sikt för D365 liknar den befintliga CSP-upplevelsen.
+- Nya erbjudanden för månadsterminer med ett prispris för kunder som behöver flexibel period och antal platser.
 - Årliga erbjudanden med konkurrenskraftiga priser för stabila och långsiktiga kunder.
-- Alternativet att blanda korta och långsiktiga erbjudanden för kunder med variationer i säsongs- eller företagsvolymer.
-- Konsekventa annulleringsprinciper för villkor för platsbaserade erbjudanden i ny handel (begränsat till de första 72 timmarna av perioden med prorated refund.)
-- En ny uppsättning kommunikationserbjudanden (för närvarande planerade för oktober) som tillhandahåller telco-tjänstförbrukning som faktureras i efterskott, som en föregångare till att lansera det här alternativet för andra nya erbjudandetyper i senare versioner.
+- Alternativet att blanda kortsiktiga och långsiktiga erbjudanden för kunder med säsongs- eller affärsvolymvariationer.
+- Konsekventa annulleringsprinciper för villkor för platsbaserade erbjudanden i ny handel (begränsade till de första 72 timmarna av perioden med en prorated återbetalning).)
+- En ny uppsättning kommunikationserbjudanden (planeras för oktober) som tillhandahåller telco-tjänstförbrukning som faktureras i efterskott, som en grund för att lansera det här alternativet för andra nya erbjudandetyper i senare versioner.
 - Verktyg som effektiviserar övergången av befintliga prenumerationer till ny handel.
 - Enklare bearbetning av prenumerations- och faktureringsdata och förbättrade funktioner för prenumerationshantering.
 - Framtvingande av prenumerationsägarskap som förhindrar flera köp av kostnadsfria utvärderingsversioner och SMB-erbjudanden (small-to-medium business) från olika partner.
 
-För att hjälpa partner att förbereda sig för allmän tillgänglighet i oktober lägger Microsoft till de nya näthandelsfunktionerna och erbjudandekatalogen till CSP-sandboxklienterna (med tillhörande dokumentation) från och med den 1 september, så att direktfakturerings- och indirekta leverantörspartner kan börja testa och integrera ny handel med sina plattformar via API:er. Partner kommer att kunna göra affärer med kunder i ny handel från och med oktober-GA.
+För att hjälpa partner att förbereda sig för allmän tillgänglighet i oktober lägger Microsoft till de nya näthandelsfunktionerna och erbjuder katalogen till CSP-sandboxklienterna (med tillhörande dokumentation) från och med den 1 september så att direktfakturering och indirekta leverantörspartner kan börja testa och integrera ny handel med sina plattformar via API:er. Partner kommer att kunna göra affärer med kunder i den nya handel som börjar med oktober-GA.
 
 #### <a name="selling-windows-365-in-the-new-commerce-experience"></a>Försäljning Windows 365 i den nya handelsupplevelsen
 
-Windows 365, som presenterades i juli 2021 och lanserades som en produkt i augusti 2021, är världens första molndator för varje organisation, på ett säkert sätt strömmande Windows-upplevelsen, inklusive stationära datorer, appar, bearbetningskraft, lagring med mera, till alla kunders enheter.* Molndatorupplevelsen kan skalas för att passa kundernas behov och är enkel att distribuera utan VDI-expertis (Virtualized Desktop Infrastructure).
+Windows 365, som presenterades i juli 2021 och lanserades som en produkt i augusti 2021, är världens första molndator för varje organisation, med säker strömning av Windows-upplevelsen, inklusive skrivbord, appar, bearbetningskraft, lagring med mera, till alla kunders enheter.* Molndatorupplevelsen kan skalas för att passa kundernas behov och är enkel att distribuera utan behov av VDI-expertis (virtualiserad datorinfrastruktur).
 
 (*Internetåtkomst krävs, avgifter kan tillkomma. Se vanliga [Windows 365 för](https://aka.ms/Windows365/Partner002) en lista över enheter som stöds.)
 
-*Windows 365 kommer att vara tillgänglig i den nya köpupplevelsen för företagsköp i september 2021 (läs mer i rapporten [Licensing for Windows 365 L100 (Licensiering för Windows 365 L100)](https://partner.microsoft.com/resources/detail/windows-365-licensing-l100-deck-pdf) och mer information som publiceras på Licensing is [evolving](https://aka.ms/licensingwindows365) in mid-September (Licensiering utvecklas i mitten av september) och i CSP i oktober 2021.* Den nya handelsupplevelsen i CSP kommer endast att erbjuda Windows 365 via det nya månadserbjudandet, vilket gör det möjligt för kunder att uppleva den här nya produkten utan långsiktigt åtagande och justera antalet användare varje månad med priser per användare. Slutligen kommer nya Windows 365-funktioner och framtida förbättringar endast att göras tillgängliga för det nya erbjudandet om handelsplattformar i CSP.
+*Windows 365 kommer att vara tillgänglig i den nya köpupplevelsen för företagsköp i september 2021 (läs mer i informationsleken [Licensing for Windows 365 L100 (Licensiering för Windows 365 L100)](https://partner.microsoft.com/resources/detail/windows-365-licensing-l100-deck-pdf) och ytterligare information som publiceras på Licensing is [evolving](https://aka.ms/licensingwindows365) in mid-September (Licensiering utvecklas i mitten av september) och i CSP i oktober 2021.* Den nya handelsupplevelsen i CSP erbjuder endast Windows 365 via det nya månadserbjudandet, vilket gör det möjligt för kunder att uppleva den här nya produkten utan långsiktigt åtagande och justera antalet användare varje månad med priser per användare. Slutligen kommer nya Windows 365-funktioner och framtida förbättringar endast att göras tillgängliga i det nya erbjudandet om handelsplattformar i CSP.
 
 #### <a name="transitioning-to-the-new-commerce-experience"></a>Övergång till den nya handelsupplevelsen
 
-Microsoft lanserar två introduktionskampanjer för CSP:s direktfaktureringspartner och indirekta leverantörer mellan den 1 oktober 2021 och den 31 mars 2022, som utformats för att motivera partner och kunder att flytta befintliga företag och lägga nya beställningar på ny handel.
+Microsoft lanserar två introduktionskampanjer för CSP-partner och indirekta leverantörer mellan den 1 oktober 2021 och den 31 mars 2022, som utformats för att motivera partner och kunder att flytta befintliga företag och lägga nya beställningar på ny handel.
 
 >[!NOTE] 
 >Dessa kampanjer gäller inte för Windows 365 inom ny handel.
 
-Partner kan använda en fasierad metod för att börja använda ny handel och kan fortsätta att sälja i den tidigare CSP-plattformen fram till mars 2022. Viktiga kommande milstolpar (kan komma att ändras):
+Partner kan använda en fasierad metod för att införa ny handel och kan fortsätta att sälja i den tidigare CSP-plattformen fram till mars 2022. Viktiga kommande milstolpar (kan komma att ändras):
 
 - Mars 2022: Nya prenumerationsbeställningar och förnyelser är bara möjliga i den nya handelsupplevelsen.
 - Oktober 2022: Microsoft-incitament är endast tillgängliga för transaktioner i den nya handelsupplevelsen.
-- Februari 2023: Alla återstående prenumerationer på den tidigare upplevelsen måste flyttas till ny handel eftersom de inte kan förnyas i den tidigare CSP-upplevelsen.
+- Februari 2023: Alla återstående prenumerationer på den tidigare upplevelsen måste flyttas till ny handel eftersom de inte kan förnyas på den tidigare CSP-upplevelsen.
 
-Tidslinjen ovan ger tid för partner att förstå och operationalisera de nya förbättringarna av handelsupplevelsen och migrera återstående företag från den tidigare upplevelsen.
+Tidslinjen ovan ger tid för partner att förstå och operationalisera förbättringarna av den nya handelsupplevelsen och migrera återstående verksamhet från den tidigare upplevelsen.
 
 #### <a name="future-capabilities-for-new-commerce-in-csp"></a>Framtida funktioner för ny handel i CSP
 
-Under 2022 kommer ytterligare funktioner och nya erbjudanden att lanseras exklusivt för ny handel.  Till exempel omfattar aktuella planer för Microsoft 365 (kan komma att ändras) tre års erbjudanden, hybridanvändningsförmåner (HUB), hemanvändningsprogram (HUP) och multi-geo-tillägg. Partner kommer också att kunna justera slutdatum för nya och befintliga prenumerationer.  
+Under 2022 kommer ytterligare funktioner och nya erbjudanden att lanseras exklusivt för ny handel.  Aktuella planer för Microsoft 365 (kan komma att ändras) omfattar treårserbjudanden, hybridanvändningsförmåner (HUB), hemanvändningsprogram (HUP) och multi-geo-tillägg. Partner kommer också att kunna justera slutdatum för nya och befintliga prenumerationer.  
 
-De här nya funktionerna gör det möjligt för Microsoft att ta med några populära funktioner och erbjudandetyper från andra licensieringsprogram till ny handel och leverera en uppsättning funktioner från alla delar, vilket avrundar microsofts molnerbjudanden inom ny handel.
+Dessa nya funktioner gör det möjligt för Microsoft att ta med några populära funktioner och erbjudandetyper från andra licensieringsprogram till ny handel och att leverera en uppsättning funktioner från hela slutet, vilket avrundar sviten med Microsofts molnerbjudanden inom ny handel.
 
-Platsbaserade erbjudanden i ny handel kommer inte att vara tillgängliga i Brasilien förrän i februari 2022.
+Platsbaserade erbjudanden inom ny handel kommer inte att vara tillgängliga i Brasilien förrän i februari 2022.
 
-Mer information om New Commerce Experience for CSP Seat-Based-erbjudanden finns i [OPS-beredskapssamlingen.](https://partner.microsoft.com/resources/collection/new-commerce-experience-for-csp-seat-based-offers#/)
+Mer information om Den nya handelsupplevelsen för CSPSeat-Based erbjudanden finns i [OPS-beredskapssamlingen.](https://partner.microsoft.com/resources/collection/new-commerce-experience-for-csp-seat-based-offers#/)
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -422,7 +422,7 @@ Granska resurserna om det här avsnittet och dela med lämpliga intressenter i d
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har fler frågor om dessa erbjudanden kan du läsa relevant Microsoft Partner Community.
+Mer information om dessa erbjudanden finns i din relevanta Microsoft-partner-community.
 
 ## <a name="update-to-our-commercial-pricing-for-microsoft-365"></a><a name="13"></a>Uppdatera till våra kommersiella priser för Microsoft 365
 
@@ -441,16 +441,16 @@ Molnlösningsleverantör partner
 
 ### <a name="details"></a>Information
 
-Den 19 augusti 2021 presenterade vi en uppdatering av våra kommersiella priser för [Microsoft 365](https://aka.ms/M365PriceUpdate), den första uppdateringen sedan Office 365 släpptes i juni 2011. Den här ändringen börjar gälla den 1 mars 2022 och ger kunderna ungefär sex månaders förvarning. Den kommer att innehålla:
+Den 19 augusti 2021 presenterade vi en uppdatering av våra kommersiella priser för [Microsoft 365](https://aka.ms/M365PriceUpdate), den första uppdateringen sedan den Office 365 släpptes i juni 2011. Den här ändringen börjar gälla den 1 mars 2022 och ger kunderna ungefär sex månaders förvarning. Den kommer att innehålla:
 
 - **Enterprise:** Microsoft 365 E3 ($32 till $36 per användare), Office 365 E5 ($35 till $38), Office365 E3 ($20 till $23) och Office 365 E1 ($8 till $10)
-- **Small Medium Business (SMB):** Microsoft 365 Business Basic ($5 till $6 per användare) och Business Premium ($20 till $22)
+- **Small Medium Business (SMB):** Microsoft 365 Business Basic (5 till 6 USD per användare) och Business Premium (20 till 22 USD)
 
-Prisändringar för amerikanska myndighetsmolnkunder kommer att fasas in under flera år i enlighet med befintliga krav. Det finns ingen prisändring just nu för utbildnings- eller konsumentprodukter.
+Prisändringar för amerikanska myndighetsmolnkunder kommer att fasas in i flera år i enlighet med befintliga krav. Det finns ingen prisändring just nu för utbildnings- eller konsumentprodukter.
 
-**Den här prisuppdateringen bygger på den produktinnovation som vi har levererat under de senaste 10 åren för att möta kundernas föränderliga behov.** Sedan den första versionen har vi lagt till 25 nya appar och över 1 400 funktioner. Detta inkluderar introduktion Microsoft Teams som den enda lösningen med möten, chattar, samtal, samarbete och möjligheten att automatisera affärsprocesser. Vi har lagt till funktioner som skydd mot dataförlust (DLP) för dokument och e-postmeddelanden, Office kryptering av meddelanden och minskning av attackytan. Och vi har lagt till nya AI-stödda funktioner som hjälper till att automatisera uppgifter, hitta den information vi behöver och hjälpa oss att kommunicera på sätt som är mer tillgängliga för alla.
+**Den här prisuppdateringen bygger på den produktinnovation som vi har levererat under de senaste 10 åren för att möta kundernas föränderliga behov.** Sedan den första versionen har vi lagt till 25 nya appar och över 1 400 funktioner. Detta omfattar introduktion av Microsoft Teams som den enda lösningen med möten, chattar, samtal, samarbete och möjligheten att automatisera affärsprocesser. Vi har lagt till funktioner som skydd mot dataförlust (DLP) för dokument och e-postmeddelanden, Office kryptering av meddelanden och minskning av attackytan. Och vi har lagt till nya AI-stödda funktioner som hjälper till att automatisera uppgifter, hitta den information vi behöver och hjälpa oss att kommunicera på sätt som är mer tillgängliga för alla.
 
-**Vi har också** tillkännagivit en utökning av det obegränsade uppringningsnumret för våra betalda paket för företag, företag, frontline och myndigheter, så att användarna kan ringa in och ansluta till ett Teams möte från i princip vilken enhet som helst. Ändringen påverkar:
+**Vi har också** tillkännagivit en utökning av det obegränsade uppringningsnumret för våra betalda företags-, företags-, frontline- och myndighetssviter, så att användarna kan ringa in och ansluta till ett Teams möte från i princip vilken enhet som helst. Ändringen påverkar:
 
 - **Företag:** Microsoft 365 E3, Office 365 E3 och Office 365 E1
 - **Myndigheter (GCC, GCCH och DOD):** Microsoft 365 E3, Office 365 E3, Office 365 E1, Microsoft 365 F3 och Microsoft 365 F1
@@ -476,7 +476,7 @@ Mer information om dessa kommande ändringar finns i galleriet Driftberedskap i 
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har frågor kan du kontakta Regionalt driftcenter hjälp av Call Logging Tool (CLT) på [clt.partners.extranet.microsoft.com/CLT](https://clt.partners.extranet.microsoft.com/CLT) eller via [explore.ms](https://www.explore.ms/). Följ CLT-standardprocessen noggrant så att vi kan lösa frågan så snabbt som möjligt.
+Om du har frågor kan du kontakta din Regionalt driftcenter hjälp av Call Logging Tool (CLT) på [clt.partners.extranet.microsoft.com/CLT](https://clt.partners.extranet.microsoft.com/CLT) eller via [explore.ms](https://www.explore.ms/). Följ CLT-standardprocessen noggrant så att vi kan lösa frågan så snabbt som möjligt.
 
 ________________
 ## <a name="august-cloud-solution-provider-csp-community-update-and-reminders"></a><a name="12"></a>Community-Molnlösningsleverantör för augusti (CSP) och påminnelser
@@ -507,7 +507,7 @@ Viktiga ämnen den här månaden är:
 
 #### <a name="csp-community-qa-reminder"></a>CSP Community Q&En påminnelse
 
-Den månatliga CSP-communityn Q&A-session ger dig möjlighet att lära dig mer och ställa frågor om ändringar som påverkar programmet. Den här månadens anrop fokuserar på ämnena som anges i föregående avsnitt och mycket mer.
+Den månatliga CSP-communityn Q&A-session ger dig möjlighet att lära dig mer och ställa frågor om ändringar som påverkar programmet. Den här månadens anrop fokuserar på ämnena som anges i föregående avsnitt med mera.
 
 [Registrera dig här för att delta i anropet.](https://globalpbocomm.eventbuilder.com/GlobalCSP)
 
@@ -561,7 +561,7 @@ Vi arbetar för att lösa problemet, men våra partner uppmanas att använda GGW
 
 ### <a name="next-steps"></a>Nästa steg
 
-För partner som har gjort inköp av GGWA-erbjudandena i CSP returnerar du dessa licenser inom 30 dagar från inköpsdatumet för en återbetalning. Du kan slutföra den här uppgiften i Partnercenter genom att följa riktlinjerna i Sälja [programvaruprenumerationer via Molnlösningsleverantör (CSP)-programmet](../csp-software-subscriptions.md#cancel-a-purchase). För returer av köp efter mer än 30 dagar kan partner öppna ett ärende i Partnercenter genom att välja **CSP,** **Transact och Manage**, **Return or refund software**.
+För partner som har gjort köp av GGWA-erbjudandena i CSP returnerar du dessa licenser inom 30 dagar från inköpsdatumet för återbetalning. Du kan slutföra den här uppgiften i Partnercenter genom att följa vägledningen i [Sälja programvaruprenumerationer via CSP Molnlösningsleverantör programmet](../csp-software-subscriptions.md#cancel-a-purchase). För returer av inköp efter mer än 30 dagar kan partner öppna en biljett i Partnercenter genom att välja **CSP,** **Transact och Manage**, **Return or refund software**.
 
 Gör alla nya eller ersättande GGWA-beställningar via Open License-programmet tills vidare.
 
@@ -569,7 +569,7 @@ Dela den här uppdateringen med dina interna team efter behov.
 
 ### <a name="questions"></a>Har du några frågor?  
 
-Om du har frågor om dessa erbjudanden kan du kontrollera dina relevanta MPC-communities.
+Frågor om dessa erbjudanden finns i relevanta MPC-communities.
 
 ________________
 ## <a name="view-the-latest-promotions-and-offers"></a><a name="10"></a>Visa de senaste kampanjerna och erbjudandena
@@ -581,23 +581,23 @@ Den senaste guiden för global kampanjberedskap har nu publicerats.
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2021-08-10
-- Erbjudanden & marknader
+- Erbjudanden & Marknader
 
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Partner som gör en Molnlösningsleverantör program
+Partner som gör en Molnlösningsleverantör programmet
 
 ### <a name="details"></a>Information
 
-Den senaste guiden för global kampanjberedskap, en samlad vy över alla aktuella och kommande kampanjer, finns nu tillgänglig i resursgalleriet för Driftberedskap. Se aktiva och kommande kampanjer och erbjudanden på [Samlingen Global Promotion Readiness Guide](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/).
+Den senaste guiden för global kampanjberedskap, en samlad vy över alla aktuella och kommande kampanjer, är nu tillgänglig i resursgalleriet driftberedskap. Se aktiva och kommande kampanjer och erbjudanden på [samlingen Global Kampanjberedskapsguide.](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/)
 
 ### <a name="next-steps"></a>Nästa steg
 
-Läs den senaste månatliga kampanjguiden i resursgalleriet för driftberedskap. Dela den här informationen med lämpliga kontakter i din organisation och berätta om guiden är användbar genom att svara på frågan "Var den här sidan användbar?" längst ned på sidan.
+Läs den senaste månatliga kampanjguiden i resursgalleriet för driftberedskap. Dela den här informationen med lämpliga kontakter i din organisation och berätta för oss om guiden är användbar genom att svara på frågan "Var den här sidan användbar?" längst ned på sidan.
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har frågor om dessa erbjudanden kan du gå till Yammer communityn.
+Om du har frågor om dessa erbjudanden kan du läsa dina Yammer communityer.
 
 ________________
 ## <a name="compliance-monitoring-through-the-partner-accountability-management-pam-team"></a><a name="9"></a>Efterlevnadsövervakning via PAM-teamet (Partner Accountability Management)
@@ -611,15 +611,15 @@ PAM-teamet förbättrar våra program för efterlevnadsövervakning och hjälper
 - Datum: 2021-08-09
 - Funktioner
 
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Partner som gör en kontakt med Microsoft över hela världen
+Partner som gör en överträdelse med Microsoft över hela världen
 
 ### <a name="details"></a>Information
 
-Som partner innebär vårt ömsesidiga åtagande att skapa och upprätthålla förtroende att göra affärer på rätt sätt. De högsta uppförandekoderna är viktiga för att behålla partner och kunder och är nödvändiga för att öka värdet för Microsoft, våra partner och alla våra intressenter.
+Som partner innebär vårt ömsesidiga åtagande att skapa och upprätthålla förtroende att göra affärer på rätt sätt. De högsta uppförandekoderna är nyckeln för att behålla partner och kunder och är nödvändiga för att öka värdet för Microsoft, våra partner och alla våra intressenter.
 
-För att främja och upprätthålla en kultur av efterlevnad och förtroende etablerade Microsoft efterlevnadsövervakning via PAM-teamet för nästan två år sedan. PAM-teamet konsoliderar övervakningsarbetet och driver lösningar i rätt tid för identifierade områden med inkompatibla beteenden i vårt partnerekosystem, i syfte att förbättra kanalen för alla. Baserat på våra avtalsmässiga skyldigheter kan Microsoft införa sanktioner och kursrättande initiativ för efterlevnadsöverenktioner.
+För att främja och upprätthålla en kultur för efterlevnad och förtroende etablerade Microsoft efterlevnadsövervakning via PAM-teamet för nästan två år sedan. PAM-teamet konsoliderar övervakningsarbetet och driver lösningar i rätt tid för identifierade områden med inkompatibla beteenden i vårt partnerekosystem, i syfte att förbättra kanalen för alla. Baserat på våra avtalsmässiga skyldigheter kan Microsoft införa sanktioner och kursrätta initiativ för efterlevnadsbrott.
 
 Vi har skapat ett dokument [med vanliga frågor och](https://partner.microsoft.com/resources/detail/partner-accountability-management-faq-pdf) svar som hjälper partner att förstå hur PAM fungerar och de viktigaste tydlighetsområdena där vi får de flesta frågorna. Mer information finns i Förstå [partnerefterlevnad (microsoft.com)](https://partner.microsoft.com/resources/collection/understanding-partner-compliance#/) och registrera dig för utbildning på begäran.
 
@@ -627,53 +627,53 @@ Som en påminnelse till alla våra partner, leverantörer och andra representant
 
 ### <a name="next-steps"></a>Nästa steg
 
-Bekanta dig med VANLIGA FRÅGOR OCH SVAR om PAM, delta i utbildningen på begäran och dela den här informationen med alla relevanta team i din organisation.
+Bekanta dig med vanliga frågor och svar om PAM, gå på utbildning på begäran och dela den här informationen med alla relevanta team i din organisation.
 
 ### <a name="questions"></a>Har du några frågor?
 
 Om du har frågor om PAM-teamet kan du kontakta din representant i Microsoft-konto teamet.
 
 ________________
-## <a name="windows-365-now-available-for-purchase-hybrid-windows-for-a-hybrid-world"></a><a name="8"></a>Windows 365 kan köpas: Hybrid Windows för en hybridvärld
+## <a name="windows-365-now-available-for-purchase-hybrid-windows-for-a-hybrid-world"></a><a name="8"></a>Windows 365 är nu tillgängligt för köp: Hybrid Windows för en hybridvärld
 
 ### <a name="summary"></a>Sammanfattning
 
-Microsoft tar Windows till molnet med Windows [365](https://aka.ms/M365EndpointPartner).
+Microsoft tar Windows till molnet med [Windows 365](https://aka.ms/M365EndpointPartner).
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2021-08-09
-- Erbjudanden & marknader
+- Erbjudanden & Marknader
 
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
 Partner som gör en Molnlösningsleverantör (CSP)
 
 ### <a name="details"></a>Information
 
-Microsoft är glada över att kunna [meddela Windows 365](https://aka.ms/M365EndpointPartner) nu är tillgängligt för kunder att köpa. Windows 365 är en molntjänst som ger ett nytt sätt att uppleva Windows 10 eller Windows 11, strömma anpassade appar, inställningar och innehåll från Microsoft-molnet till valfri enhet.
+Microsoft är glada över att kunna [meddela Windows 365](https://aka.ms/M365EndpointPartner) nu är tillgängligt för kunder att köpa. Windows 365 är en molntjänst som levererar ett nytt sätt att uppleva Windows 10 eller Windows 11, strömma dina anpassade appar, inställningar och innehåll från Microsoft-molnet till valfri enhet.
 
 #### <a name="welcome-to-your-windows-365-cloud-pc"></a>Välkommen till din Windows 365 Cloud PC:
 
 - **Strömmas mellan enheter:** Du kan starta direkt på din Cloud PC och strömma din Windows till vilken som helst av dina enheter.  
 
-- **Alltid redo och uppdaterad:** Strömmade från molnet och resa med dig, Windows 365 är alltid redo och alltid uppdaterad, var du än är, på den enhet som du vill arbeta med. Det är en enkel och mångsidig Windows som levereras av Microsoft-molnet.
+- **Alltid redo och uppdaterad:** 365 strömmas från molnet och Windows 365 är alltid redo och alltid uppdaterad, oavsett var du befinner dig, på den enhet som du vill arbeta med. Det är en enkel och flexibel Windows som levereras av Microsoft-molnet.
 
-- **Personligt och bekant:** Windows 365 är anpassat och bekant med alla dina inställningar och innehåll, så när du går tillbaka till Cloud PC är det precis där du slutade.
+- **Personligt** och bekant: Windows 365 är anpassat och bekant med alla dina inställningar och innehåll, så när du går tillbaka till Cloud PC är det precis där du lämnade det.
 
 - **Skalbar och elastisk:** Windows 365 är säkert med hjälp av molnets kraft och principerna för Noll förtroende. Informationen skyddas och lagras i molnet och inte på enheten.
 
-- **Förutsägbara kostnader:** Windows 365 gör inköp av molndatorer förutsägbart med priser per användare och månad.
+- **Förutsägbara kostnader:** Windows 365 gör inköp av molndatorer förutsägbara med priser per användare och månad.
 
 - **Enkelt att köpa, distribuera** och hantera: Windows 365 förenklar inköp, distribution, hantering och uppdateringar eftersom den, till skillnad från andra lösningar, använder virtualisering i bakgrunden.
 
-Windows 365 kan kunder köpa via [windows365.com,](https://www.microsoft.com/windows-365?ms.url=w365&rtc=1)företagsavtal eller CSP-programmet.
+Windows 365 är tillgängligt för kunder att köpa [via windows365.com,](https://www.microsoft.com/windows-365?ms.url=w365&rtc=1)företagsavtal eller CSP-programmet.
 
 #### <a name="update-on-windows-365-trials"></a>Uppdatering av Windows 365-utvärderingsversioner
 
-På grund av betydande efterfrågan har vi nått kapacitet för Windows 365 försök, så vi pausar nya utvärderingsversioner. Kunder kan [registrera sig för](https://go.microsoft.com/fwlink/?linkid=2165147) att få ett meddelande när utvärderingsprenumerationer återupptas eller köpa Windows 365 idag på Välkommen till din Windows [365 Cloud PC.](https://www.microsoft.com/windows-365?ms.url=w365&rtc=1)
+På grund av betydande efterfrågan har vi nått kapacitet för Windows 365 utvärderingsversioner, så vi pausar nya försök. Kunder kan [registrera sig](https://go.microsoft.com/fwlink/?linkid=2165147) för att få ett meddelande när utvärderingsprenumerationer återupptas eller köpa Windows 365 idag på Välkommen till din [Windows 365 Cloud PC.](https://www.microsoft.com/windows-365?ms.url=w365&rtc=1)
 
-Under tiden kan partner som vill förstå tjänsten fortsätta att använda [klicka-och-vidare-demonstrationen.](https://interactive-demo.azureedge.net/)
+Under tiden kan partner som vill förstå tjänsten fortsätta att använda [klick-demo](https://interactive-demo.azureedge.net/).
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -681,45 +681,45 @@ Under tiden kan partner som vill förstå tjänsten fortsätta att använda [kli
 
 - Läs mer om Windows 365 via [vårt blogginlägg](https://www.microsoft.com/microsoft-365/blog/?p=237041?).
 
-- Gå med den 18 augusti för ett [webbsemin till marknads-webbsemin](https://aka.ms/Windows365PartnerWebinar) där du kan lära dig mer om partnerns möjligheter med Windows 365.
+- Följ med oss den 18 augusti för ett webbsemin till [marknads-webbsemin](https://aka.ms/Windows365PartnerWebinar) till partner för att lära dig mer om partnermöjligheten med Windows 365.
 
-- Granska informationen om det här avsnittet i [resursgalleriet för åtgärder](https://partner.microsoft.com/resources/collection/introducing-windows-365-for-a-hybrid-world#/) (inloggning krävs) på Microsofts partnerwebbplats.
+- Granska informationen om det här avsnittet i [resursgalleriet för åtgärder](https://partner.microsoft.com/resources/collection/introducing-windows-365-for-a-hybrid-world#/) (inloggning krävs) på Microsoft-partnerwebbplatsen.
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har fler frågor om de här erbjudandena kan du kontrollera dina relevanta [Microsoft-partnergrupper.](https://www.microsoftpartnercommunity.com/)
+Mer information om dessa erbjudanden finns i relevanta [Microsoft-partnergrupper.](https://www.microsoftpartnercommunity.com/)
 
 ### <a name="change-log"></a>Ändringslogg
 
 - 20 juli 2021: Vi presenterar nya Windows 365
 - 2 augusti 2021: Windows 365 är nu tillgängligt för kunder att köpa
-- 9 augusti 2021: Uppdatering Windows 365 utvärderingsversioner
+- 9 augusti 2021: Uppdatering Windows 365 försök
 
 ________________
 ## <a name="upcoming-changes-to-azure-plan-price-lists-for-new-commerce-experience"></a><a name="6"></a>Kommande ändringar i prislistor för Azure-planer för ny handelsupplevelse
 
 ### <a name="summary"></a>Sammanfattning
 
-Vi gör några uppdateringar av Azure-planens Partnercenter-prislistor för att se till att objekten i prislistan är synkroniserade med vad som är tillgängligt för köp i Partnercenter.
+Vi gör några uppdateringar av Prislistorna för Azure-plan Partnercenter för att säkerställa att objekten i prislistan är synkroniserade med vad som är tillgängligt för köp i Partnercenter.
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2021-08-04
 - Erbjudanden/marknader
 
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Indirekta leverantörer och direktfaktureringspartner som använder Azure-Molnlösningsleverantör i den nya handelsupplevelsen.
+Indirekta leverantörer och direktfaktureringspartner som har en Azure-plan i Molnlösningsleverantör i den nya handelsupplevelsen.
 
 ### <a name="details"></a>Information
 
-Partner kan ha observerat skillnaderna mellan de reservationsinstanser (RESERVERADE instanser) som är tillgängliga att köpa från i Partnercenter och RESERVERADE instanser i prislistorna för Azure-planreservationer.
-Tidigare har prislistorna för azure-planreservationer felaktigt inkluderats:
+Partner kan ha observerat skillnader mellan de reservationsinstanser (RU:er) som är tillgängliga att köpa inifrån Partnercenter och RESERVERADE:er i prislistorna för Azure-planreservationer.
+Tidigare har prislistorna för Azure-planreservationer felaktigt inkluderats:
 
 1. Objekt som kanske bara är tillgängliga i Azure Portal
 2. Azure-produkter som inte var reservationer
  
-Vi gör några uppdateringar av Azure-planens Partnercenter-prislistor för att se till att objekten i prislistan är synkroniserade med vad som är tillgängligt för köp i Partnercenter. Detta bör åtgärdas från och med 2 september 2021. Dessa ändringar gäller endast prislistor för azure-planreservationer för ny handel.
+Vi gör några uppdateringar av Prislistorna för Azure-plan Partnercenter för att säkerställa att objekten i prislistan är synkroniserade med vad som är tillgängligt för köp i Partnercenter. Detta bör åtgärdas från och med 2 september 2021. Dessa ändringar gäller endast prislistor för azure-planreservationer för ny handel.
 
 Om en RI kan göras i Partnercenter från september och framåt blir den tillgänglig i prislistorna. För andra RU:er bör partnern gå till Azure Portal för att granska priser och göra inköp.
 
@@ -849,20 +849,20 @@ ________________
 
 ### <a name="summary"></a>Sammanfattning
 
-Kalendern för produktlansering för augusti 2021 har nu publicerats.
+Produktlanseringskalendern för augusti 2021 publiceras nu.
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2021-08-01
 - Funktioner
 
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Alla partner som gör en Molnlösningsleverantör (CSP)-programmet
+Alla partner som gör en Molnlösningsleverantör (CSP)
 
 ### <a name="details"></a>Information
 
-Kalendern för produktlansering för [augusti](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) 2021 är nu tillgänglig i resursgalleriet för driftberedskap. Visa kommande produktlanseringar och erbjudanden här.
+Produktlanseringskalendern för [augusti](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) 2021 är nu tillgänglig i resursgalleriet för driftberedskap. Visa kommande produktlanseringar och erbjudanden här.
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -870,4 +870,4 @@ Granska kalendern [för produktlansering](https://partner.microsoft.com/resource
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har fler frågor om dessa erbjudanden kan du gå till Yammer communityn.
+Om du har fler frågor om dessa erbjudanden kan du läsa dina Yammer communityer.

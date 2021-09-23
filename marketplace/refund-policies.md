@@ -1,17 +1,17 @@
 ---
 title: Återbetalningsprinciper för Microsoft AppSource och Azure Marketplace
-description: Läs om återbetalningsprinciperna för produkter som säljs på Microsoft AppSource och Azure Marketplace
+description: Lär dig mer om återbetalningsprinciper för produkter som säljs Microsoft AppSource och Azure Marketplace.
 ms.service: marketplace-customer
 ms.topic: article
 author: jeweber
 ms.author: jeweber
-ms.date: 06/02/2021
-ms.openlocfilehash: 37be38030ece0b78629fe1ebbb77c41f2cbcb8fb
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.date: 09/21/2021
+ms.openlocfilehash: 6c4034a98ce78824b495e92abdc3d5129032c9b4
+ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246985"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128312235"
 ---
 # <a name="refund-policies-for-microsoft-appsource-and-azure-marketplace"></a>Återbetalningsprinciper för Microsoft AppSource och Azure Marketplace
 
@@ -21,7 +21,7 @@ Köp på Microsoft AppSource eller Azure Marketplace kan vara berättigade till 
 
 För månadsplaner är du berättigad till en fullständig återbetalning om du avbryter prenumerationen inom en dag från köpet. För årliga planer är du berättigad till en fullständig återbetalning om du avbryter din prenumeration inom 14 dagar från köpet. Återbetalningar är inte tillgängliga för prenumerationer som avbryts efter tidsperioderna ovan.
 
-Återbetalningar utfärdas inte för variabelavgifter. Om ett SaaS-erbjudande till exempel faktureras baserat på antalet e-postmeddelanden som skickas från en e-postplattform.
+Återbetalningar utfärdas inte för förbrukningsfakturering. Avgiftsbaserad fakturering används för varierande avgifter, till exempel när ett SaaS-erbjudande debiteras baserat på antalet e-postmeddelanden som skickas från en e-postplattform.
 
 ## <a name="office-add-ins"></a>Office-tilläggsprogram
 
@@ -45,7 +45,7 @@ Om du överför eller ändrar din Azure-supportplan kan du vara berättigad till
 
 ## <a name="azure-databricks"></a>Azure Databricks
 
-Om du tar bort Azure Databricks en resurs är du berättigad till en partiell återbetalning baserat på de återstående periodenheter som du har angett. Mer information om Azure Databricks finns i [Azure Databricks dokumentationen](/azure/databricks).
+Om du tar Azure Databricks en resurs är du berättigad till en delåterbetalning baserat på de återstående periodenheter som du har angett. Mer information om Azure Databricks finns i [Azure Databricks dokumentationen](/azure/databricks).
 
 ## <a name="monetary-commitment"></a>Ekonomiskt åtagande
 

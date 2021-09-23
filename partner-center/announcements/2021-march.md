@@ -1,5 +1,5 @@
 ---
-title: Meddelanden i mars 2021
+title: Meddelanden mars 2021
 description: Mars 2021-meddelanden för Microsoft Partner Center, inklusive nya funktioner, kampanjer, erbjudanden, marknader eller ändringar i befintliga erbjudanden.
 ms.topic: article
 ms.service: partner-dashboard
@@ -10,17 +10,17 @@ ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/02/2021
 ms.openlocfilehash: e1876e396161334153875e4d92e55ab9f75ede5e
-ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
+ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/20/2021
-ms.locfileid: "128007197"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128309778"
 ---
-# <a name="march-2021-announcements"></a>Meddelanden i mars 2021
+# <a name="march-2021-announcements"></a>Meddelanden mars 2021
 
 Den här sidan innehåller meddelanden för Microsoft Partner Center för mars 2021.
 
-## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="19"></a>Beredskap: Ändringar i CSP Molnlösningsleverantör-api:et för kundadressverifiering går i drift i juni. nu tillgänglig testfunktion
+## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="19"></a>Beredskap: Ändringar i CSP Molnlösningsleverantör-API:et för kundadressvalidering går live i juni. nu tillgänglig testfunktion
 
 ### <a name="categories"></a>Kategorier
 
@@ -29,15 +29,15 @@ Den här sidan innehåller meddelanden för Microsoft Partner Center för mars 2
 
 ### <a name="summary"></a>Sammanfattning
 
-För att hjälpa partner och kunder att driva sin verksamhet baserat på förtroende bjuder vi in partner att testa ändringar i API:et validate address för alla länder över hela världen.
+För att hjälpa partner och kunder att driva sin verksamhet baserat på förtroende kommer vi att bjuda in partner att testa ändringar i API:et validate address för alla länder över hela världen.
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
 CSP-direktfaktureringspartner och indirekta leverantörer som skapar nya eller uppdaterar befintliga kunders adressinformation.
 
 ### <a name="details"></a>Information
 
-Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för kundadressvalidering för att hantera kundprenumerationer i CSP-programmet. Från och med den 31 mars 2021 har vi infört ändringar i API:et Validate Address som vi bjudit in partner att testa innan vi börjar live med ändringarna i juni 2021.
+Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för validering av kundadresser för att kunna hantera kundprenumerationer i CSP-programmet. Från och med den 31 mars 2021 har vi infört ändringar i API:et Validate Address som vi bjudit in partner att testa innan vi går live med ändringarna i juni 2021.
 
 Ändringarna påverkar endast API:et validate address. API:er för att skapa kund och uppdatera faktureringsprofil påverkas inte.
 
@@ -45,18 +45,18 @@ Svaret returnerar något av följande statusmeddelanden:
 
 | Status     | Beskrivning |    Antal föreslagna adresser som returneras |
 |-------|---------------|-------------------|
-|Verifierad leveransbar | Adressen är verifierad och kan skickas till. | Enkel |
+|Verifierad leverans | Adressen är verifierad och kan skickas till. | Enkel |
 |Verifierat | Adressen är verifierad. | Enkel |
 |Interaktion krävs | Den föreslagna adressen har ändrats avsevärt och kräver användarbekräftelse. | Enkel |
-|Gatuadress delvis | Den angivna gatuadressen är delvis och behöver mer information. | Multipel – högst tre |
-|Delvis lokal | De angivna lokalerna (byggnummer, svitnummer och annat) är ofullständiga och behöver mer information. | Multipel – högst tre |
-|Flera | Det finns flera fält som är partiella i adressen (inklusive delvis gatuadress och delvis lokal). | Multipel – högst tre |
+|Partiell gatuadress | Den angivna gatuadressen är delvis och behöver mer information. | Flera – högst tre |
+|Delvis lokal | De angivna lokalerna (byggnadsnummer, svitnummer och andra) är ofullständiga och behöver mer information. | Flera – högst tre |
+|Flera | Det finns flera fält som är partiella i adressen (inklusive delvis gatuadress och delvis lokal). | Flera – högst tre |
 |Ingen | Adressen är felaktig. | Ingen |
-|Inte validerat | Adressen kunde inte skickas via valideringsprocessen. | Ingen |
+|Inte validerat | Adressen kunde inte skickas via verifieringsprocessen. | Ingen |
 
-Amerikanska postkoder returnerar ytterligare 4 siffror + bindestreck , till exempel 12345-6789.
+Amerikanska postkoder returnerar ytterligare fyra siffror + bindestreck , till exempel 12345-6789.
 
-När en adress har skickats för validering via API:et validate address returneras följande svarsschema:
+När en adress har skickats för verifiering via API:et för validering returneras följande svarsschema:
 
 ```csharp
 
@@ -124,9 +124,9 @@ Ta en titt på det här exempelsvaret. Observera att för USA returnerar svaret 
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Dela ditt klient-ID för sandbox-miljön med ämnesexperten (Ali Firmwareki) som ska ingå i testresan, så att du kan börja förbereda dig för uppdateringen.
+- Dela ditt sandbox-klientorganisations-ID med ämnesexperten (Ali Firmwareki) som ska ingå i testresan, så att du kan börja förbereda dig för uppdateringen.
 
-- Om du använder en CPV-lösning (Kontrollpanelens leverantör) kan du kontakta din CPV.
+- Om du använder en CPV-lösning (Kontrollpanelens leverantör) bör du kontakta din CPV.
 
 ### <a name="questions"></a>Har du några frågor?
 
@@ -148,9 +148,9 @@ ________________
 
 ### <a name="summary"></a>Sammanfattning
 
-Från och med 27 april 2021 kommer Exchange Administrationscenter (EAC) att distribuera en ny upplevelse som förbättrar den dagliga effektiviteten för användarna.
+Från och med 27 april 2021 kommer Exchange-administrationscentret (EAC) att distribuera en ny upplevelse som förbättrar den dagliga effektiviteten för användarna.
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
 Delegerade administratörer som Exchange via Partnercenter
 
@@ -158,15 +158,15 @@ Delegerade administratörer som Exchange via Partnercenter
 
 Från och med 27 april 2021 omdirigeras partner som navigerar till Exchange partnercenter till den nya EAC:en.
 
-Den här nya upplevelsen är för närvarande tillgänglig som en förhandsversion och administratörer kan aktivera den här upplevelsen genom att välja växlingsknappen i det övre högra hörnet i klassiska EAC. De kan också navigera till den nya EAC genom att välja banderollen "Prova nu" som visas på alla sidor.
+Den här nya upplevelsen är för närvarande tillgänglig som en förhandsversion och administratörer kan aktivera den här upplevelsen genom att välja växlingsknappen i det övre högra hörnet i den klassiska EAC. De kan också navigera till den nya EAC genom att välja banderollen "Prova nu" som visas på alla sidor.
 
 Fördelarna med den nya EAC:en är:
 
-- Insikter, rapporter och aviseringsmekanismer har lagts till för e-postflödesrelaterade problem. 
+- Lade till insikter, rapporter och aviseringsmekanismer för e-postflödesrelaterade problem. 
 
 - Anpassade instrumentpaneler för att öka produktiviteten.
 
-Videor som hjälper dig att navigera genom den nya upplevelsen finns i avsnittet **Utbildningsguide & den** nya EAC-upplevelsen. Dessa ger dig en översikt över hur du bäst kan använda den nya portalen.
+För att hjälpa dig att navigera i den nya upplevelsen finns videor i avsnittet **Utbildningsguide & den** nya EAC-upplevelsen. Dessa ger dig en översikt över hur du bäst kan använda den nya portalen.
 
 >[!NOTE]
 >Med den här ändringen kommer den klassiska EAC-upplevelsen inte att bli inaktuell. Du meddelas i god tid innan någon ändring implementeras.
@@ -179,7 +179,7 @@ Videor som hjälper dig att navigera genom den nya upplevelsen finns i avsnittet
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har frågor om dessa ändringar kan du kontrollera dina Yammer communityer.
+Om du har frågor om dessa ändringar kan du kontrollera dina Yammer communityn.
 
 ________________
 ## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="17"></a>Microsoft Operations: Introduktion till kalendern för produktlansering
@@ -187,13 +187,13 @@ ________________
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2021-03-25
-- Erbjudanden | Modern arbetsplats
+- Erbjudanden | Modern Arbetsplats
 
 ### <a name="summary"></a>Sammanfattning
 
-Som svar på partnerfeedback effektiviserar Microsoft Operations kommunikationen för produktlanseringar.
+Som svar på partnerfeedback kommer Microsoft Operations att effektivisera kommunikationen vid produktlanseringar.
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
 Molnlösningsleverantör (CSP)-partner
 
@@ -203,13 +203,13 @@ Microsoft strävar efter att kontinuerligt förbättra partnerupplevelserna. Vi 
 
 Som svar på din feedback har Microsoft effektiviserat beredskapsupplevelsen för produktlanseringar för nya och befintliga erbjudanden.
 
-Vi ger dig nu en enda månatlig vy över produktlanseringar som publicerats i resursgalleriet för driftberedskap. Den här [månatliga kalendervyn för produktlansering](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) ersätter enskilda meddelanden om produktlansering i resursgalleriet för driftberedskap och i Partnercenter-meddelanden.
+Vi ger dig nu en enda månatlig vy över produktlanseringar som publiceras i resursgalleriet för driftberedskap. Den här [kalendervyn för månatliga produktlansering](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) ersätter enskilda meddelanden om produktlansering i resursgalleriet för driftberedskap och i Partnercenter-meddelanden.
 
-Du kan också komma åt den [här produktlanseringskalendern](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) från [communitysamlingar,](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) [kalendervyer](https://partner.microsoft.com/resources/assets#/?type=collection&search=Calendar&sort=updated)och [CSP-nyhetsbrev.](https://partner.microsoft.com/resources/collection/csp-monthly-update#/) Vi meddelar dig när vi publicerar varje månads kalender för produktlansering med ett meddelande i resursgalleriet för driftberedskap.
+Du kan också komma åt den [här produktlanseringskalen](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) [från communitysamlingar,](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) [kalendervyer](https://partner.microsoft.com/resources/assets#/?type=collection&search=Calendar&sort=updated)och [CSP-nyhetsbrev.](https://partner.microsoft.com/resources/collection/csp-monthly-update#/) Vi meddelar dig när vi publicerar varje månads kalender för produktlansering med ett meddelande i resursgalleriet för driftberedskap.
 
-Du hittar fortfarande information om nya och befintliga erbjudanden i förhandsgransknings- och prislistans ändringsloggar, samt i produktbloggar, licensieringsguider och marknadsföringssidor.
+Du hittar fortfarande information om nya och befintliga erbjudanden i förhandsversionen av prislistan och ändringsloggarna för prislistan, samt i produktbloggar, licensieringsguider och marknadsföringssidor.
 
-Ändringen gäller för lanseringar för följande produkter:
+Ändringen gäller för uppskjutningar för följande produkter:
 
 - Lokal Dynamics
 - Microsoft 365
@@ -223,14 +223,14 @@ Vi fortsätter att skicka specifika meddelanden om produktlanseringar som kräve
 
 ### <a name="next-steps"></a>Nästa steg
 
-Granska resurserna om det här ämnet och dela den här informationen med lämpliga intressenter i din organisation.
+Granska resurserna om det här avsnittet och dela den här informationen med lämpliga intressenter i din organisation.
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har fler frågor om dessa erbjudanden kan du kontrollera dina Yammer communityn.
+Om du har fler frågor om dessa erbjudanden kan du läsa dina Yammer communityer.
 
 ________________
-## <a name="changes-to-csp-customer-onboarding-requirements"></a><a name="16"></a>Ändringar av CSP-krav för kund-onboarding
+## <a name="changes-to-csp-customer-onboarding-requirements"></a><a name="16"></a>Ändringar av krav för CSP-kund-onboarding
 
 ### <a name="categories"></a>Kategorier
 
@@ -241,13 +241,13 @@ ________________
 
 Som en del av vårt åtagande att hjälpa partner och kunder att driva sin verksamhet baserat på förtroende begär vi ytterligare kundinformation från och med den 25 mars 2021.
 
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Molnlösningsleverantör direktfaktureringspartner och indirekta leverantörer som har nya eller befintliga kunder i de länder som anges i nästa avsnitt
+Molnlösningsleverantör (CSP) direktfaktureringspartner och indirekta leverantörer som har nya eller befintliga kunder i de länder som anges i nästa avsnitt
 
 ### <a name="details"></a>Information
 
-Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för kundvalidering för att kunna göra kundprenumerationer i CSP-programmet. Den 25 mars 2021 introducerar vi förbättringar av Partner Center API och användargränssnitt som påverkar partner som uppfyller båda följande kriterier:
+Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för kundvalidering för att omvandla kundprenumerationer i CSP-programmet. Den 25 mars 2021 introducerar vi förbättringar av Partner Center API och användargränssnitt som påverkar partner som uppfyller båda följande kriterier:
 
 1. Partnern har en direkt faktureringsrelation med Microsoft (vilket innebär att partnern antingen är en partner för direktfakturering eller en indirekt leverantör).
 
@@ -267,11 +267,11 @@ Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompat
     - Förenade Arabemiraten
     - Venezuela
 
-Partner som uppfyller villkoren måste skicka in en kunds företagsregistrerings-ID (kallas även  kundens **organisation INN)** och telefonnummer när de registrera nya kunder eller ändra befintlig kundinformation.  Dessa partner kan också ange ett **mellannamn** för kunden (valfritt).
+Partner som uppfyller villkoren måste skicka en kunds företagsregistrerings-ID (kallas även kundens  **organisation INN)** och telefonnummer när de registrera nya kunder eller ändra befintlig kundinformation.  Dessa partner kan också ange ett **mellannamn** för kunden (valfritt).
 
-Observera att när du lägger till ditt företagsregistrerings-ID bör du använda ditt företagsskatte-ID och inte kundens personliga ID.
+Observera att när du lägger till ditt företagsregistrerings-ID bör du använda ditt företags skatte-ID och inte kundens personliga ID.
 
-Partner som gör affärer med nya eller befintliga kunder i följande länder har redan fått en tidigare version i november 2020.
+Partner som gör affärer med nya eller befintliga kunder i följande länder har redan introducerats med en tidigare version i november 2020.
 
 - Armenien
 - Azerbajdzjan
@@ -289,29 +289,29 @@ Partner med kunder i resten av världen kan den 25 mars 2021 ange företagets  *
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Mer detaljerad vägledning finns i den tekniska dokumentationen och vanliga frågor [och svar i](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) den dedikerade partnersamlingen.
+- Mer detaljerad vägledning finns i den tekniska dokumentationen och vanliga frågor och svar [i](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) den dedikerade partnersamlingen.
 
 - Förbered för att införliva ändringarna med partnercenter-API:et och webbanvändarupplevelsen. API/SDK:er kommer att vara tillgängliga för testning.
 
 - Se till att skicka in ytterligare data när du registrera nya kunder eller ändrar befintlig kundinformation.
 
-- Om du använder en CPV-lösning (Kontrollpanelens leverantör) bör du kontakta din CPV.
+- Om du använder en CPV-lösning (Kontrollpanelens leverantör) kan du kontakta din CPV.
 
 ### <a name="questions"></a>Har du några frågor?
 
-Kontakta skatterådgivaren eller det lokala skattekontoret om du har frågor som rör den juridiska identifieraren (kallas även INN eller TIN). Microsoft kan inte ge vägledning om skattefrågor.
+Kontakta skatterådgivaren eller det lokala skattekontoret om du har frågor om den juridiska identifieraren (kallas även INN eller TIN). Microsoft kan inte ge vägledning om skattefrågor.
 
-Om du behöver support för dina åtgärder med Microsoft öppnar [du en tjänstbegäran.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
+Om du behöver support för din verksamhet med Microsoft öppnar [du en tjänstbegäran.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
 
 ________________
-## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="15"></a>Korrigeringar som gjorts för den 1 mars 2021 av den permanenta programvaruprislistan
+## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="15"></a>Korrigeringar som gjorts för 1 mars 2021 permanent programvaruprislista
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2021-03-23
 - Erbjudanden/marknader
 
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
 Indirekta leverantörer och direktfaktureringspartner som använder permanent programvara i Molnlösningsleverantör program 
 
@@ -320,14 +320,14 @@ Indirekta leverantörer och direktfaktureringspartner som använder permanent pr
 Prislistan för permanent programvara som publicerades den 1 mars 2021 innehöll marknader som inte borde ha funnits där. Den permanenta programvaruprislistan uppdaterades den 17 mars 2021 med korrigeringarna. De här korrigeringarna gäller endast för:
 
 - Produkt-ID: DF77X4D43RKT 
-- Produktnamn: Windows 10 Home till Pro uppgradering för Microsoft 365 företag
-- Borttagna eller icke-stödda marknader: AE, AF, AL, AM, AO, BA, BB, BD, BM, BN, BO, BR, BS, BW, BY, BZ, CI, CL, CM, CO, CR, CW, DO, DZ, EC, EG, ET, FJ, FO, GE, GH, GT, HN, IL, IN, IQ, JM, JO, KE, KG, KN, KY, KZ, LB, LK, LY, MA, MC, MD, ME,  MN, MO, MU, NA, NG, NI, NP, OM, PA, PE, PH, PK, PR, PY, QA, RS, RU, RW, SG, SN, SV, TH, TJ, TM, TN, TT, TZ, UA, UG, UY, UZ, VE, VN, YE, ZM, ZW
+- Produktnamn: Windows 10 Home till Pro Uppgradering för Microsoft 365 företag
+- Marknader som tagits bort eller inte stöds: AE, AF, AL, AM, AO, BA, BB, BD, BM, BN, BO, BR, BS, BW, BY, BZ, CI, CL, CM, CO, CR, CW, DO, DZ, EC, EG, ET, FJ, FO, GE, GH, GT, HN, IL, IN, IQ, JM, JO, KE, KG, KN, CR, KY, KZ, LB, LK, LY, MA, MC, MD, ME,  MN, MO, MU, NA, NG, NI, NP, OM, PA, PE, PH, PK, PR, PY, QA, RS, RU, RW, SG, SN, SV, TH, TJ, TM, TN, TT, TZ, UA, UG, UY, HZ, VE, VN, YE, ZM, ZW
 
 Dessa ändringar gäller endast för ovanstående produkt. Andra produkter hade inga korrigeringar. 
 
 ### <a name="next-steps-and-resources"></a>Nästa steg och resurser
 
-- Partner som använder permanent programvara bör ladda ned den senaste permanenta programvaruprislistan.
+- Partner som överlappar permanent programvara bör ladda ned den senaste permanenta programvaruprislistan.
 - Se [landskoderna för regionen för](/azure/marketplace/commercial-marketplace-co-sell-countries) en användarvänlig mappning av förkortningen på två bokstäver till länder.
 ________________
 ## <a name="sdk-release-on-net-standard-v1170"></a><a name="14"></a> SDK-version på .NET Standard (v1.17.0)
@@ -338,17 +338,17 @@ ________________
 
 - Funktioner
  
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
 Direktfaktureringspartner och indirekta leverantörer som deltar i CSP-programmet som använder Partner Center .NET SDK.
 
 ### <a name="details"></a>Information
 
-Från och med 23 mars 2020 kan partner börja ladda ned versionen av [MicrosoftPartnerCenter.NETSDK (NuGet-| Microsoft.Store.PartnerCenter 1.17.0)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.17.0), tillsammans med uppdaterade offentliga Partnercenter-SDK [GitHub exempel](https://github.com/Microsoft/Partner-Center-DotNet-Samples). Den här versionen innehåller uppdateringar av följande metoder:
+Från och med 23 mars 2020 kan partner börja ladda ned versionen [av MicrosoftPartnerCenter.NETSDK (NuGet-| Microsoft.Store.PartnerCenter 1.17.0)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.17.0), tillsammans med uppdaterade offentliga Partnercenter-SDK [GitHub exempel](https://github.com/Microsoft/Partner-Center-DotNet-Samples). Den här versionen innehåller uppdateringar av följande metoder:
 
 #### <a name="audit-updated-new-operation-types"></a>Granska uppdaterad: Nya åtgärdstyper
 
-Nya [åtgärdstyper har lagts](/partner-center/develop/auditing-resources) till för att veta när kunden godkänt och avslutat DAP.
+Nya [åtgärdstyper har lagts](/partner-center/develop/auditing-resources) till för att veta när kunden godkände och avslutade DAP.
 
 - DapAdminRelationshipApproved
 
@@ -360,9 +360,9 @@ Nya [resurs- och åtgärdstyper har lagts](/partner-center/develop/auditing-reso
 
 - Ny resurstyp: "CustomerDirectoryRole"
 
-- Åtgärdstyperna "AddUserMember" och "RemoveUserMember"
+- Åtgärdstyperna AddUserMember och RemoveUserMember
 
-#### <a name="sdk-updates-to-customer-accounts"></a>SDK-uppdateringar till kundkonton
+#### <a name="sdk-updates-to-customer-accounts"></a>SDK-uppdateringar av kundkonton
 
 - Stöd för GET /customers/{customer-tenant-id}/directSignedMicrosoftCustomerAgreementStatus
 
@@ -372,13 +372,13 @@ Nya [resurs- och åtgärdstyper har lagts](/partner-center/develop/auditing-reso
 
 #### <a name="additional-changes"></a>Ytterligare ändringar
 
-Följande ändringar introduceras som en del av New Commerce och är för närvarande endast tillgängliga genom inbjudan till partner som ingår i den tekniska förhandsversionen av den nya M365/D365-upplevelsen. Partner som inte ingår i den tekniska förhandsversionen av New Commerce bör inte märka påverkan och bör vara bakåtkompatibla.
+Följande ändringar introduceras som en del av New Commerce och är för närvarande endast tillgängliga genom inbjudan till partner som är en del av den tekniska förhandsversionen av M365/D365 New Commerce. Partner som inte ingår i den tekniska förhandsversionen av New Commerce bör inte märka påverkan och bör vara bakåtkompatibla.
 
 - Katalogändringar:
 
   - GET /products/{product-id}/skus/{sku-id}
 
-- Köpa och hantera:
+- Köp och hantera:
   - GET /customers/{customerId}/subscriptions
   - GET /customers/{customerId}/subscriptions/{subscriptionId}
   - PATCH /customers/{customerId}/subscriptions/{subscriptionId}
@@ -392,33 +392,33 @@ Följande ändringar introduceras som en del av New Commerce och är för närva
 - Ladda ned och granska [GitHub exempel](https://github.com/Microsoft/Partner-Center-DotNet-Samples)
 
 ________________
-## <a name="csp-commercial-marketplace-offer-and-fy21-csp-incentives-for-eligible-offers"></a><a name="13"></a>CSP-erbjudande på den kommersiella marknadsplatsen och FY21 CSP-incitament för berättigade erbjudanden
+## <a name="csp-commercial-marketplace-offer-and-fy21-csp-incentives-for-eligible-offers"></a><a name="13"></a>CSP Commercial Marketplace-erbjudande och FY21 CSP-incitament för berättigade erbjudanden
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2021-03-18
 - Funktioner
 
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
 Indirekta leverantörer och direktfaktureringspartner i Molnlösningsleverantör program 
 
 ### <a name="details"></a>Information
 
-Indirekta leverantörer och direktfaktureringspartner i Molnlösningsleverantör-programmet kan sälja erbjudanden från tredje part och få ett incitament för varje kvalificerande erbjudande från tredje part som köps i Partnercenter eller Azure Portal. Incitamentet är i form av en kontakt med fakturerad försäljning för de berättigade erbjudandena och är tillgänglig fram till **den 30 juni 2021.**  
+Indirekta leverantörer och direktfaktureringspartner i Molnlösningsleverantör-programmet kan sälja erbjudanden från tredje part och få incitament för varje kvalificerande tredjepartserbjudande som har handlats i Partnercenter eller Azure Portal. Incitamentet är i form av en kontakt med fakturerad försäljning för de berättigade erbjudandena och är tillgänglig fram till **den 30 juni 2021.**  
 
-Fortsätt lära dig mer om detta CSP Commercial Marketplace-erbjudande nedan och kontakta dina kunder idag för att identifiera rätt erbjudanden för att möjliggöra deras fortsatta framgång och digitala omvandling.
+Fortsätt att lära dig mer om det här CSP Commercial Marketplace-erbjudandet nedan och kontakta dina kunder idag för att identifiera rätt erbjudanden för att möjliggöra fortsatt framgång och digital omvandling.
 
-Vi samarbetar med oberoende programvaruleverantörer (ISV: er) för att få ut de senaste IaaS- och SaaS-lösningarna på marknaden för Microsoft-kunder. ISV-utgivare har möjlighet att aktivera försäljning av sina erbjudanden via Microsofts partnerkanal. Våra incitamentberättigade erbjudanden är indela i två kategorier:
+Vi samarbetar med oberoende programvaruleverantörer (ISV: er) för att få de senaste IaaS- och SaaS-lösningarna på marknaden för Microsoft-kunder. ISV-utgivare kan välja att aktivera försäljning av sina erbjudanden via Microsofts partnerkanal. Våra incitamentberättigade erbjudanden är indela i två kategorier:
 
-- Välj SaaS- och IaaS-erbjudanden från tredje part med Azure IP-säljförsäljningsiviserad status. 
+- Välj SaaS- och IaaS-erbjudanden från tredje part med incentiviserad status för Sälj- och säljförsäljning i Azure IP. 
 
 - SaaS-program som är integrerade med Teams eller minst två Microsoft 365-produktivitetsappar, till exempel PowerPoint, Word, Excel, Outlook eller SharePoint.
 
 ### <a name="next-steps-and-resources"></a>Nästa steg och resurser
 
 - Lär dig mer om att [tjäna partnerincitament](https://partner.microsoft.com/membership/partner-incentives) för att sälja berättigade Marketplace-appar till berättigade incitamentappar. Nya erbjudanden läggs till varje månad.  
-- [Molnlösningsleverantör direktfakturering av partnerincitamentresurser](https://partner.microsoft.com/asset/collection/cloud-solution-provider-direct-partner-incentive-resources#/)
+- [Molnlösningsleverantör partnerincitamentresurser för direktfakturering](https://partner.microsoft.com/asset/collection/cloud-solution-provider-direct-partner-incentive-resources#/)
 - [Molnlösningsleverantör incitamentresurser för indirekta leverantörer](https://partner.microsoft.com/asset/collection/cloud-solution-provider-indirect-provider-incentive-resources#/)
 - Läs den här [presentationen](https://partner.microsoft.com/resources/detail/partner-center-cm-for-csp-overview-pdf) om du vill veta mer om att sälja appar på den kommersiella marknadsplatsen. Kolla in ytterligare resurser på [Partnercenter Commercial Marketplace for Cloud Solution Providers (CSP).](https://partner.microsoft.com/resources/collection/partner-center-cm-for-csp-collection#/) 
 - Utforska katalogen för den kommersiella marknadsplatsen [i Partnercenter](../csp-commercial-marketplace-discover.md) [eller Azure Portal](https://ms.portal.azure.com/#home)
@@ -433,7 +433,7 @@ I den [här artikeln](../csp-commercial-marketplace-overview.md) finns en övers
 Om du behöver ytterligare hjälp kan du skapa en supportbegäran i Partnercenter. Läs mer på [https://aka.ms/IncentivesSupport](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=1) .
 
 ________________
-## <a name="power-bi-premium-offer-naming-and-prerequisite-update"></a><a name="12"></a>Power BI Premium för namn och kravuppdatering
+## <a name="power-bi-premium-offer-naming-and-prerequisite-update"></a><a name="12"></a>Power BI Premium namn och kravuppdatering
 
 ### <a name="categories"></a>Kategorier
 
@@ -442,25 +442,25 @@ ________________
 
 ### <a name="summary"></a>Sammanfattning
 
-Den slutliga prislistan för den 1 april 2021 uppdateras för att förtydliga namngivnings- och/eller kravinformationen för erbjudanden Power BI Premium per användare.
+Den slutliga prislistan för den 1 april 2021 uppdateras för att förtydliga namngivnings- och/eller kravinformationen för Power BI Premium per användare.
 
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
 Molnlösningsleverantör (CSP) direkta och indirekta partner
 
 ### <a name="details"></a>Information
 
-Den slutliga prislistan för den 1 april 2021 uppdateras för att förtydliga namngivnings- och/eller kravinformationen för erbjudanden Power BI Premium per användare.
+Den slutliga prislistan för den 1 april 2021 uppdateras för att förtydliga namngivnings- och/eller kravinformationen för Power BI Premium per användare.
 
 Tills den slutliga prislistan har uppdaterats använder du informationen i det här avsnittet för att säkerställa att rätt produkt har beställts.
 
-Följande information visar den berörda SKU:n och nödvändig information.
+Följande information visar den berörda SKU:n och kravinformationen.
 
-| Erbjudandets visningsnamn den 1 mars förhandsversion av prislistan |  Uppdaterad erbjudandevisningsnamn den 1 april slutprislista| Erbjudande-ID |
+| Erbjudandevisningsnamn den 1 mars – förhandsversion av prislista |  Uppdaterad erbjudandevisningsnamn den 1 april slutprislista| Erbjudande-ID |
 | ------ | ----------- | ----------- |
 | Power BI Premium Per användare Add-On (prissättning för ideell personal)  |  Power BI Premium Per användare Add-On **(Office)** (prissättning för ideell personal)   | 31c03289-47ab-4ab0-8df1-03742c127ac6   |
 
-Kunder måste ha något av följande krav för att köpa erbjudandet:
+Kunder måste ha något av följande förhandskrav för att köpa det här erbjudandet:
 
 | Erbjudandets visningsnamn | Erbjudande-ID |
 | ------ | ----------- |
@@ -470,13 +470,13 @@ Kunder måste ha något av följande krav för att köpa erbjudandet:
 |   Office 365 E5 (prissättning för ideell personal)|  2f192efe-608a-4c9c-9d19-2b0b70b0962e|
 |   Office 365 E5 utan ljudkonferens (prissättning för ideell personal)|  c3897426-9f49-4eaf-9b4d-7d9a1c72aef7|
 
-Följande erbjudande Power BI Premium ett förhandskrav för inköp:
+Följande Power BI Premium ett förhandskrav för inköp:
 
 | Erbjudandets visningsnamn | Erbjudande-ID |
 | ------ | ----------- |
 |   Power BI Premium Per användare Add-On (prissättning för ideell personal)|  ef0b895b-681b-4026-a5b1-dda182a57d40 |
 
-Kunder måste ha detta förhandskrav för att kunna köpa det här erbjudandet:
+Kunder måste ha det här förhandskrav för att köpa det här erbjudandet:
 
 | Erbjudandets visningsnamn | Erbjudande-ID |
 | ------ |----------|
@@ -488,9 +488,9 @@ Granska resurserna om det här avsnittet och dela den här informationen med lä
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har frågor om dessa erbjudanden kan du kontrollera dina Yammer communityn. 
+Om du har frågor om dessa erbjudanden kan du läsa dina Yammer communityer. 
 
-## <a name="march-price-updates-for-microsoft-365-f3"></a><a name="11"></a>Prisuppdateringar mars för Microsoft 365 F3
+## <a name="march-price-updates-for-microsoft-365-f3"></a><a name="11"></a>Prisuppdateringar för mars för Microsoft 365 F3
 
 ### <a name="categories"></a>Kategorier
 
@@ -499,19 +499,19 @@ Om du har frågor om dessa erbjudanden kan du kontrollera dina Yammer communityn
 
 ### <a name="summary"></a>Sammanfattning
 
-Felaktig prissättning för mars 2021 har korrigerats för Microsoft 365 F3 (GBP) och EURO (EUR).
+Felaktig prissättning för mars 2021 har korrigerats för Microsoft 365 F3 engelska pund (GBP) och euro (EUR).
 
 ### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Partner som köper Microsoft 365 F3 GBP eller EUR mellan 1 och 17 mars 2021 via CSP-programmet (Molnlösningsleverantör).
+Partner som köper Microsoft 365 F3 Gbit/s eller EUR mellan 1 mars och 17 mars 2021 via CSP-programmet (Molnlösningsleverantör).
 
 ### <a name="details"></a>Information
 
-Microsoft har löst felaktiga priser för Microsoft 365 F3. De felaktiga priserna var för GBP och EUR och endast för erbjudanden som köpts mellan 1 mars och 17 mars 2021. De erbjudanden och valutor som påverkas visas nedan. 
+Microsoft har löst felaktig prissättning för Microsoft 365 F3. De felaktiga priserna var för GBP och EUR och endast för erbjudanden som köpts mellan 1 mars och 17 mars 2021. De erbjudanden och valutor som påverkas visas nedan. 
 
 | Erbjudandets namn | Valuta | Erbjudande-ID | Material-ID |
 | ------ |----------- |----------- |----------- |
-| Microsoft 365 F3 (NSD) | GBP | 57b722c2-c435-4bfb-9bc8-80509213a13a | AAD-11626 |
+| Microsoft 365 F3 (Dår) | GBP | 57b722c2-c435-4bfb-9bc8-80509213a13a | AAD-11626 |
 | Microsoft 365 F3 (kommersiell) | EUR| 3451a3b0-8cda-44a7-bad7-c30be81c4aaa | AAA-89898 |
  
 Listorna med licensbaspriser för mars och april uppdaterades 16 mars 17:00 Pacific Standard Time.
@@ -536,7 +536,7 @@ ________________
 
 ### <a name="summary"></a>Sammanfattning
 
-Från och med mars 2021 kan Microsoft Partner Network-partner (MPN) och indirekta Molnlösningsleverantör CSP-återförsäljare (CSP) uppdatera sitt juridiska företagsnamn via Partnercenter.
+Från och med mars 2021 kan Microsoft Partner Network-partner (MPN) och indirekta CSP-återförsäljare (Molnlösningsleverantör) uppdatera sitt juridiska företagsnamn via Partnercenter.
 
 ### <a name="impacted-audience"></a>Målgrupp som påverkas
 
@@ -560,7 +560,7 @@ Dela den här informationen i din organisation så att rätt team kan granska oc
 Om du har fler frågor kan du kontrollera dina relevanta CSP Yammer grupper.
 
 ________________
-## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="9"></a>Uppdatera till Molnlösningsleverantör programutveckling (CSP) och ändringar i Open License-programmet
+## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="9"></a>Uppdatering av Molnlösningsleverantör programutveckling (CSP) och ändringar i Open License-programmet
 
 ### <a name="categories"></a>Kategorier
 
@@ -583,13 +583,13 @@ I fortsättningen på den här digitala omvandlingen presenterar vi följande ä
 
 - 1 juli 2021: Inga nya SKU:er, produkter eller kampanjer kommer att läggas till i prislistan för Open License-programmet.
 
-- 7 juli 2021: Två kommersiella erbjudanden, Get Genuine Windows och Visual Studio Professional, och erbjudanden inom den offentliga sektorn (myndigheter, utbildning och ideella organisationer – [se](./2020-december.md#9)meddelandet ) kommer att läggas till i CSP:s löpande prislista för programvara.  Prislistan finns i avsnittet Programvara på sidan [Säljpriser > & i](https://partnercenter.microsoft.com/pcv/sales) Partnercenter och publiceras på nytt det här datumet.
+- 7 juli 2021: Två kommersiella erbjudanden, Get Genuine Windows och Visual Studio Professional och erbjudanden inom den offentliga sektorn (myndigheter, utbildning och ideella organisationer – se [meddelande)](./2020-december.md#9)kommer att läggas till i CSP:s löpande prislista för programvara.  Prislistan finns i avsnittet Programvara på sidan [Säljpriser >](https://partnercenter.microsoft.com/pcv/sales) & i Partnercenter och publiceras på nytt det här datumet.
 
 Fullständig information om CSP-programutvecklingen och ändringar i Open License-programmet finns i **Nästa steg** nedan.
 
 ### <a name="next-steps"></a>Nästa steg:
 
-- Utveckling av CSP-program: Granska [den beständiga programvaran i Molnlösningsleverantör för](https://partner.microsoft.com/resources/collection/software-in-csp#/) programberedskap. Använd [beredskapskartan](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) för att snabbt hitta rätt information för din roll.
+- Utveckling av CSP-program: Granska den beständiga [programvaran i Molnlösningsleverantör för programberedskap.](https://partner.microsoft.com/resources/collection/software-in-csp#/) Använd [beredskapskartan](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) för att snabbt hitta rätt information för din roll.
 
 - Öppna Ändringar av licensprogram: Granska [CSP-programutvecklingen och Ändra](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/) beredskapsmaterial för Open License Program. Använd [beredskapskartan](https://partner.microsoft.com/resources/detail/csp-open-evolution-to-a-better-experience-readiness-map-pdf) för att snabbt hitta rätt information för din roll.
 
@@ -751,7 +751,7 @@ Granska följande resurser för användningsinstruktioner och viktig vägledning
 Om du har ytterligare frågor om det här meddelandet kan du kontrollera dina Yammer communityn.
 
 ________________
-## <a name="migrate-your-deals-from-partner-sales-connect-psc-to-partner-center"></a><a name="3"></a>Migrera dina avtal från Partner Sales Anslut (PSC) till Partner Center
+## <a name="migrate-your-deals-from-partner-sales-connect-psc-to-partner-center"></a><a name="3"></a>Migrera dina avtal från Partner Sales Anslut (PSC) till PartnerCenter
 
 ### <a name="categories"></a>Kategorier
 
@@ -773,7 +773,7 @@ Som en del av vårt delade tillväxtåtagande är samförsäljning med **Microso
 **PSC** går  över till skrivskyddade åtkomst från och med **31 mars 2021,** så vi hoppas att du börjar flytta till Partnercenter och få åtkomst till dessa kapacitetsförbättringar: 
 
 - **Mer korrekt routning** av de avtal som du delar med Microsoft till rätt säljare, baserat på vilken typ av hjälp du behöver.
-- **Validering av avtalsberättigande** i förskott för incitamentberättigade lösningar och för att uppfylla ISV-Anslut-programkriterier, förenkla godkännandeprocessen och slutlig POE-attestation.
+- **Validering av avtalsberättigande** i förskott för incitamentberättigade lösningar och för att uppfylla kriterierna för ISV-Anslut-program, förenkla godkännandeprocessen och slutlig poE-attestation.
 - **Smidig användarupplevelse för** att hantera alla möjligheter till säljförsäljning och säljkvalificerade leads på ett och samma ställe.
 
 Vi har också nyligen lagt till nya funktioner i Partnercenter som hjälper dig att flytta:
@@ -831,19 +831,19 @@ Observera att erbjudandets namn skiljer sig något från förhandsversionen av p
 | Power BI Premium Per användare för lärare och lärare | 3affc44f-f372-4ad5-8657-aadd9574fce0 | 
 | Power BI Premium Per användare för studenter | 657eea87-d0b0-4c89-8c8e-9b04395bd940 | 
 | Power BI Premium Per användare (prissättning för ideell personal) | 7a0a856c-059f-45dd-9d26-ae27992e706a | 
-| Power BI Premium Per Add-On | 244ff87e-5925-44a0-bf31-cea189719b58 | 
-| Power BI Premium Per användare Add-On lärare och lärare | 5da849bd-b8f7-4340-b4f4-3a9eaeb8987e | 
+| Power BI Premium Per Add-On | 244ff87e-5925-44a0-ff31-cea189719b58 | 
+| Power BI Premium Per användare Add-On för lärare och lärare | 5da849bd-b8f7-4340-b4f4-3a9eaeb8987e | 
 | Power BI Premium Per användare Add-On för studenter | cf62d70d-5af5-422a-bda8-97936402ac8e | 
 | Power BI Premium Per användare Add-On (prissättning för ideell personal) | 31c03289-47ab-4ab0-8df1-03742c127ac6 | 
 
-**Customer Voice and Marketing USL geo and segmentexpansion**
+**Usl-geo- och segmentexpansion för Customer Voice and Marketing**
 
-Som en uppföljning till lanseringen i december 2020 har USL-erbjudanden för Dynamics 365 Customer Voice and Marketing ändrats för att lägga till nya länder och fler ideella och utbildningsrelaterade SKU:er.
+Som en uppföljning till lanseringen i december 2020 har USL-erbjudanden för Dynamics 365 Customer Voice and Marketing ändrats för att lägga till nya länder och fler ideella organisationer och utbildnings-SKU:er.
 
 | Erbjudandets namn | Erbjudande-ID |
 | ------ |----------- |
 | Dynamics 365 Customer Voice USL (prissättning för ideell personal) | 7a8642a5-481e-4906-a642-b56dbeeb62a0 |
-| Dynamics 365 Customer Voice USL för lärare | 85162d70-9676-4cf6-a4bc-a0d6672f2657 |
+| Dynamics 365 Customer Voice USL för lärare och lärare | 85162d70-9676-4cf6-a4bc-a0d6672f2657 |
 
 Besök följande sidor om du vill veta mer om dessa erbjudanden:
 
@@ -856,7 +856,7 @@ Granska resurserna i det här avsnittet och dela den här informationen med läm
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har frågor om dessa erbjudanden kan du läsa dina Yammer communityer. 
+Om du har frågor om dessa erbjudanden kan du kontrollera dina Yammer communityn. 
 
 ________________
 ## <a name="microsoft-universal-print-now-available-in-some-suites"></a><a name="1"></a> Microsoft Universell utskrift nu tillgängligt i vissa paket
@@ -868,17 +868,17 @@ ________________
 
 ### <a name="summary"></a>Sammanfattning
 
-Microsoft Universell utskrift kommer att vara tillgängligt för att göra Microsoft 365 utvalda paket och som ett fristående tillägg från den 1 mars 2021.
+Microsoft Universell utskrift kommer att vara tillgängligt för transact inom utvalda Microsoft 365-paket och som ett fristående tillägg från den 1 mars 2021.
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Alla partner som gör en Molnlösningsleverantör via CSP-programmet
+Alla partner som gör en Molnlösningsleverantör (CSP)-programmet
 
 ### <a name="details"></a>Information
 
-[Universell utskrift](https://aka.ms/universalprint) är Microsoft 365 utskriftstjänst som tar bort behovet av lokala utskriftsservrar och gör det möjligt för Windows enheter att skriva ut till Azure-registrerade skrivare. Den kommer att vara tillgänglig för transact från den 1 mars 2021.
+[Universell utskrift](https://aka.ms/universalprint) är en Microsoft 365 utskriftstjänst som tar bort behovet av lokala utskriftsservrar och gör att Windows enheter kan skriva ut till Azure-registrerade skrivare. Den kommer att vara tillgänglig för transact från den 1 mars 2021.
 
-Arbetare drar nytta av drivrutinslöst utskrift, strömlinjeformad platsbaserad skrivaridentifiering och en intuitiv utskriftsupplevelse utan inlärningskurva. Enheter som är anslutna till Azure Active Directory (Azure AD) använder befintliga Azure AD-autentiseringsuppgifter för att skriva ut på ett säkert sätt. Administratörer hanterar utskrift med hjälp av Azure Portal och kan enkelt ansluta skrivare med inbyggt stöd för Universell utskrift. Universell utskrift kan distribueras med icke-kompatibla skrivare med hjälp av Anslutning för Universell utskrift programvara.
+Arbetare drar nytta av drivrutinslöst utskrift, strömlinjeformad platsbaserad skrivaridentifiering och en intuitiv utskriftsupplevelse utan inlärningskurva. Enheter som är anslutna till Azure Active Directory (Azure AD) använder befintliga Azure AD-autentiseringsuppgifter för att skriva ut på ett säkert sätt. Administratörer hanterar utskrifter med hjälp av Azure Portal och kan enkelt ansluta skrivare med inbyggt stöd för Universell utskrift. Universell utskrift kan distribueras med icke-kompatibla skrivare med hjälp av Anslutning för Universell utskrift programvara.
 
 Universell utskrift återfylls vid start till Windows E3, A3, E5 och A5 och Microsoft 365 BP, F3, E3, A3, E5 och A5.  
 
@@ -888,10 +888,10 @@ Observera att erbjudandets namn skiljer sig något från förhandsversionen av p
 
 | Erbjudandets namn | Erbjudande-ID | Material-ID |
 | ------ |----------- |----------- |  
-| Universell utskrift volym-tillägg (500 jobb) – Microsoft 365  | cb131356-45ee-4ae2-8537-873b706c8e75     | 9BI-00004   |
-| Universell utskrift (500 jobb) för lärare – Microsoft 365   | 477bie81-9872-43d6-91d3-c72390bfcf49   | 9BK-00004   |
-| Universell utskrift volym-tillägg (500 jobb) – Windows    | d3ddc493-5741-4e0d-a02d-07edbb0bb72e   | 9BI-00002   |
-| Universell utskrift (500 jobb) för lärare – Windows   |  d0862f05-80f5-4fd4-8432-fe72dd893cc7  | 9BK-00002   |
+| Universell utskrift volymökning (500 jobb) – Microsoft 365  | cb131356-45ee-4ae2-8537-873b706c8e75     | 9BI-00004   |
+| Universell utskrift volymökning (500 jobb) för lärare – Microsoft 365   | 477 tb81-9872-43d6-91d3-c72390bfcf49   | 9BK-00004   |
+| Universell utskrift volymökning (500 jobb) – Windows    | d3ddc493-5741-4e0d-a02d-07edbb0bb72e   | 9BI-00002   |
+| Universell utskrift volymökning (500 jobb) för lärare och lärare – Windows   |  d0862f05-80f5-4fd4-8432-fe72dd893cc7  | 9BK-00002   |
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -899,4 +899,4 @@ Bekanta dig med prislistan och Universell utskrift [översikt.](/universal-print
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har frågor om dessa erbjudanden kan du läsa dina Yammer communityer.
+Om du har frågor om dessa erbjudanden kan du kontrollera dina Yammer communityn.

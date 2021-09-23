@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: fa91ec99657b30f939b937b9f8bce20deb22d152
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: d7e30b6a9ad49287e8c4eb7c232b8a68add47de3
+ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247080"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128312253"
 ---
 # <a name="february-2020-announcements"></a>Meddelanden februari 2020
 
@@ -53,7 +53,7 @@ Dokumentation och ytterligare information finns i [CSP-gallerisamlingen](https:/
 
 _________________
 
-## <a name="new-microsoft-customer-agreement-acceptance-capability-available-now"></a><a id="8"/></a>Ny Microsoft-kundavtal funktioner för godkännande som är tillgängliga nu.
+## <a name="new-microsoft-customer-agreement-acceptance-capability-available-now"></a><a id="8"/></a>Ny Microsoft-kundavtal tillgänglig godkännandefunktion nu.
 
 ### <a name="categories"></a>Kategorier
 
@@ -72,7 +72,7 @@ Partner kan nu bjuda in både nya och befintliga kunder att granska och godkänn
 
 Den här nya funktionen innebär [att partner nu har två alternativ](../confirm-customer-agreement.md) när de presenterar Microsoft-kundavtal för sina kunder:
 
-- **Alternativ 1:** Partner kan presentera den nya Microsoft-kundavtal för kunder på ungefär samma sätt som de tidigare gjorde för Microsoft Cloud-avtal. När en kund har granskat och godkänt avtalet måste partnern godkänna kundens godkännande av Microsoft. Instrumentpanelen i Partnercenter, Partnercenter-API:et och .NET SDK har uppdaterats för att stödja en partner som bekräftar kundens godkännande av Microsoft-kundavtal på det här sättet.
+- **Alternativ 1:** Partner kan presentera den nya Microsoft-kundavtal kunder på ungefär samma sätt som de tidigare gjorde för Microsoft Cloud-avtal. När en kund har granskat och godkänt avtalet måste partnern godkänna kundens godkännande av Microsoft. Instrumentpanelen i Partnercenter, Partnercenter-API:et och .NET SDK har uppdaterats för att stödja en partner som bekräftar kundens godkännande av Microsoft-kundavtal på det här sättet.
 - **Alternativ 2 (ny funktion):** Partner kan bjuda in kunder till en autentiserad Microsoft-portal (Microsoft 365 Admin Center) för att visa och signera avtalet. Det här alternativet möjliggör förenklad avtalshantering, snabbare implementering och mindre arbete för partner som när kunden har godkänt villkoren direkt i Microsoft 365 Admin Center.
 
 Partner kan lära sig om kunder har godkänt det nya avtalet med hjälp av nya funktioner som är tillgängliga i instrumentpanelen i Partnercenter eller via [det nya API:et](/partner-center/develop/get-direct-sign-status-of-customer-agreement).
@@ -85,7 +85,7 @@ Från och med den 1 februari 2020 krävs en partners bekräftelse på kundernas 
 ### <a name="next-steps"></a>Nästa steg:
 
 - Om en kund inte har godkänt Microsoft-kundavtal, är det obligatoriskt från och med 1 februari 2020 för nya beställningar. Partner måste antingen attesta. Alternativ 1: att kunderna har accepterat avtalet eller alternativ 2: bjud in kunder att godkänna avtalet direkt via Microsoft 365 Admin Center.
-- Partner som använder API:er för den befintliga Microsoft Cloud-avtal atterstation måste ändra sin befintliga implementering med uppdaterat API.
+- Partner som använder API:er för den befintliga Microsoft Cloud-avtal attestation måste ändra sin befintliga implementering med uppdaterat API.
 - Träna dina agenter och återförsäljare på de nya avtalsvillkoren och när du presenterar det nya avtalet och validerar kundens godkännande.
 
 ### <a name="additional-resources"></a>Ytterligare resurser:
@@ -128,11 +128,11 @@ Nedan visas kända problem i matrisen för februariprislista och erbjudandelista
 
 Följande erbjudande är inte tillgängligt och tas bort från framtida prislistor:
 
-Erbjudande: Microsoft 365 Telefonsystem – ID för erbjudande för utvärdering av virtuell användare:`b9a1d576-43fd-464b-8ad9-4b1eafc5db77`
+Erbjudande: Microsoft 365 Telefonsystem – Id för erbjudande för utvärderingsversion av virtuell användare:`b9a1d576-43fd-464b-8ad9-4b1eafc5db77`
 
 Dessa erbjudanden är tillgängliga men inte i matrisen med erbjudandelistan. Se matrisen med den tidigare erbjudandelistan från januari 2020 för information om erbjudandematrisen.
 
-Erbjudande: Pro direktsupport för Erbjudande-ID för Unified Operations i Dynamics 365:`09dc6202-bfbb-44fb-9c87-b12c90084010`
+Erbjudande: Pro direktsupport för erbjudande-ID för Dynamics 365 Unified Operations:`09dc6202-bfbb-44fb-9c87-b12c90084010`
 
 Erbjudande: Pro direktsupport för Dynamics 365 Unified Operations for Faculty Offer ID:`c3b23a21-76e2-46e7-ae4f-60e1bdb96bea`
 
@@ -169,7 +169,7 @@ _________________
 
 ### <a name="summary"></a>Sammanfattning:
 
-Den här viktiga uppdateringen [angående de obligatoriska partnersäkerhetskraven.](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/) Från **och med den 29 februari 2020** tas "baslinjeprinciper" för Azure Active Directory (Azure AD) bort och ersätts med "standardinställningar för säkerhet", en mer omfattande uppsättning skyddsprinciper för dig och dina kunder. [](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) Standardinställningarna för säkerhet i Azure AD kan hjälpa dig att skydda din organisation med förkonfigurerade säkerhetsinställningar för vanliga attacker.
+Den här viktiga uppdateringen [angående de obligatoriska partnersäkerhetskraven.](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/) Från **och med den 29 februari 2020** tas "baslinjeprinciper" [](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) för Azure Active Directory (Azure AD) bort och ersätts med "standardinställningar för säkerhet", en mer omfattande uppsättning skyddsprinciper för dig och dina kunder. Standardinställningarna för säkerhet i Azure AD kan hjälpa dig att skydda din organisation med förkonfigurerade säkerhetsinställningar för vanliga attacker.
 
 Vårt system indikerar att din organisation för närvarande använder baslinjeprinciper, men ännu inte har gått över till standardvärden för säkerhet. Om du inte övergår till standardvärden för säkerhet före 29 februari förlorar du multifaktorautentisering (MFA) aktiverat med baslinjeprinciper på **dina partnerklienter. Aktivera standardinställningar för säkerhet så snart som möjligt för att undvika eventuella verksamhetsavbrott.**
 
@@ -198,7 +198,7 @@ Indirekta leverantörer:
 >[!Note] 
 >Microsoft kommer också att kommunicera direkt till dina återförsäljare som för närvarande använder baslinjeprinciperna och har kontaktinformation till Partnercenter.
 
-Om du har några frågor om partnersäkerhetskraven kan du läsa ytterligare resurser [här.](https://aka.ms/security-requirements)
+Om du har frågor om partnersäkerhetskraven kan du läsa ytterligare resurser i [Implementera partnersäkerhetskrav för att skydda din verksamhet.](https://aka.ms/security-requirements)
 
 Vi uppskattar verkligen ditt partnerskap och vårt åtagande att se till att vårt ekosystem körs med förtroende.
 
@@ -233,7 +233,7 @@ Microsoft introducerade ljudkonferenserbjudanden till multinationella kunder med
 
 Du bör bara köpa det här erbjudandet om dina kunder utanför Indien har tilldelat prenumerationer till användare som är fysiskt belägna i Indien. I det här fallet bör du köpa så många tilläggserbjudanden som det finns användare fysiskt i Indien.
 
-Du bör inte köpa erbjudandet om kundens juridiska enhet är baserad i Indien. Kontrollera med det lokala Microsoft-konto om hur du bäst fortsätter.
+Du bör inte köpa erbjudandet om kundens juridiska enhet är baserad i Indien. Kontrollera med det lokala Microsoft-konto om hur du kan fortsätta på bästa sätt.
 
 ### <a name="when-to-purchase"></a>När du ska köpa
 
@@ -320,7 +320,7 @@ Partnercenter effektiviserar flödet för supportbegäran för alla Partner Cent
 - Användare kan också "visa filter" för att navigera bland tillgängliga supportämnen.
 - Redundanta ämnen har tagits bort och andra ämnesbeskrivningar har uppdaterats så att de blir tydligare.
 
-De här ändringarna börjar vara tillgängliga veckan den 3 februari.
+De här ändringarna blir tillgängliga veckan den 3 februari.
 
 ### <a name="additional-resources"></a>Ytterligare resurser:
 
@@ -347,13 +347,13 @@ _________________
 
 ### <a name="summary"></a>Sammanfattning:
 
-Den nya [Microsoft-kundavtal](https://www.microsoft.com/licensing/docs/customeragreement) i CSP-programmet (Molnlösningsleverantör) blev tillgänglig från oktober 2019 och ersätter den befintliga Microsoft Cloud-avtal. Det nya, förenklade kundavtalet ger konsekventa köpvillkor för kunder – oavsett hur kunderna väljer att köpa.
+Det nya [Microsoft-kundavtal](https://www.microsoft.com/licensing/docs/customeragreement) i Molnlösningsleverantör-programmet (CSP) blev tillgängligt från oktober 2019 och ersätter det befintliga Microsoft Cloud-avtal. Det nya, förenklade kundavtalet tillhandahåller konsekventa köpvillkor för kunder – oavsett hur kunderna väljer att köpa.
 
-**Från och med 1 februari 2020** krävs direktfakturering och indirekta leverantörer i CSP för att bekräfta kundens godkännande av Microsoft-kundavtal för CSP-erbjudanden under Microsoft Public Cloud . Utan att bekräfta kundens godkännande av det nya avtalet kommer partner inte att kunna göra ett nytt köp för kunden, inklusive att byta plats och förnya befintliga inköp från det datumet ( automatisk förnyelse påverkas inte).
+**Från och med den 1 februari 2020** måste direktfaktureringsleverantörer och indirekta leverantörer i CSP bekräfta kundens godkännande av Microsoft-kundavtal för CSP-erbjudanden under Microsoft Public Cloud . Utan att bekräfta kundens godkännande av det nya avtalet kommer partner inte att kunna genomföra ett nytt köp för kunden, inklusive att byta plats och förnya befintliga inköp från det datumet (automatisk förnyelse påverkas inte).
 
-Partner kan presentera det nya avtalet för kunder på samma sätt som de gjorde för den befintliga Microsoft Cloud-avtal. När en kund granskar och godkänner avtalet måste partnern bekräfta kundens godkännande på Partnercenter. Partnercenter-webbgränssnittet, API:et och .NET SDK har uppdaterats för att stödja det nya avtalet.
+Partner kan presentera det nya avtalet för kunder på samma sätt som de gjorde för befintliga Microsoft Cloud-avtal. När en kund har granskar och godkänner avtalet måste partner bekräfta kundens godkännande på Partnercenter. Partnercenter-webbgränssnittet, API:et och .NET SDK har uppdaterats för att stödja det nya avtalet.
 
-Mer information finns i resurserna om de Microsoft-kundavtal CSP som finns på den [här sidan.](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)
+Mer information finns i resurserna om de Microsoft-kundavtal CSP som finns på [den här sidan.](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -362,16 +362,16 @@ Mer information finns i resurserna om de Microsoft-kundavtal CSP som finns på d
 - Informera dina representanter och återförsäljare om [de nya avtalsvillkoren](https://www.microsoft.com/licensing/docs/customeragreement), presentera det nya avtalet och bekräfta att kunderna godkänner avtalet.
 
 >[!NOTE] 
->Kundgodkännande av Microsoft-kundavtal krävs också för att köpa via den nya köpupplevelsen i [CSP för Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/) som släpptes i november 2019. Under det första kvartalet 2020 börjar partner i CSP också se det ytterligare alternativ i Partnercenter som gör det möjligt för partner att bjuda in kunder till en autentiserad Microsoft-portal (Microsoft 365 Admin Center) och låta kunder visa och signera Microsoft-kundavtal direkt.
+>Kundgodkännande av Microsoft-kundavtal krävs också för att köpa via den nya köpupplevelsen i [CSP för Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/) som släpptes i november 2019. Under kvartal 1 CY2020 börjar partner i CSP också se det ytterligare alternativ i Partnercenter som gör det möjligt för partner att bjuda in kunder till en autentiserad Microsoft-portal (Microsoft 365 Admin Center) och låta kunder visa och signera Microsoft-kundavtal direkt.
 
 ### <a name="change-log"></a>Ändringslogg:
 
 - 28 januari 2020: Ursprunglig påminnelse publicerad.
-- 4 feb 2020: Meddelandet har uppdaterats för att återspegla Microsoft-kundavtal nu krävs.
+- 4 feb 2020: Meddelandet har uppdaterats för att återspegla Microsoft-kundavtal krävs nu.
 
 _________________
 
-## <a name="microsoft-has-released-additional-dynamics-365-products-effective-february-1-2020"></a><a id="1"/></a>Microsoft har släppt ytterligare Dynamics 365-produkter från och med 1 februari 2020
+## <a name="microsoft-has-released-additional-dynamics-365-products-effective-february-1-2020"></a><a id="1"/></a>Microsoft har släppt ytterligare Dynamics 365-produkter från och med den 1 februari 2020
 
 ### <a name="categories"></a>Kategorier
 
@@ -385,7 +385,7 @@ Microsoft släppte ytterligare Dynamics 365-produkter den 1 februari 2020.
 
 ### <a name="impacted-audience"></a>Målgrupp som påverkas:
 
-- Partner som erbjuder Dynamics 365 via programmet Molnlösningsleverantör (CSP) över hela världen (om inget annat rekommenderas)
+- Partner som erbjuder Dynamics 365 via programmet Molnlösningsleverantör (CSP) globalt (om inget annat rekommenderas)
 
 ### <a name="details"></a>Information
 
@@ -397,23 +397,23 @@ Microsoft släppte nya produkter för Dynamics Biz Apps och Power Platform Produ
 
 Personal (nya erbjudanden)
 
-- Dynamics 365 HR-användare kan köpa DYNAMICS 365 Unified Ops Ytterligare DB/File Capacity USL-erbjudanden.
-- Erbjudanden för Dynamics 365 HR Self-Serve
+- Dynamics 365 HR-användare kan köpa Dynamics 365 Unified Ops Ytterligare DB/File Capacity USL-erbjudanden.
+- Erbjudanden för Dynamics 365 HRSelf-Serve hr
 - Dynamics 365 Human Resources (användare, klient)
 
 loT Intelligence for Supply Chain Management (nya erbjudanden)
 
-- IoT Intelligence-scenario (klientorganisationsnivå) – omfattar rättigheter till upp till sex scenarier och tio datorer (krav: Leveranskedja/Unified Ops Management-användarbas eller bifoga SKU)
-- Ytterligare IoT Intelligence-tillägg (klientorganisationsnivå) för tillägget som licensierar kunden för ytterligare tio datorer (krav: SKU för IoT Intelligence-scenario)
+- IoT Intelligence-scenario (klientorganisationsnivå) – omfattar rättigheter upp till sex scenarier och tio datorer (krav: Leveranskedja/Unified Ops Management-användarbas eller ansluta SKU)
+- Tillägg för ytterligare IoT Intelligence-dator (klientorganisationsnivå) för tillägget som licensierar kunden för ytterligare tio datorer (förutsättning: SKU för IoT Intelligence-scenario)
 
 Namnändring för e-handel
 
-- Dynamics 365 Retail-erbjudandet har ändrats till Dynamics 365 Commerce.
+- Erbjudandet för Dynamics 365 Retail har ändrats till Dynamics 365 Commerce.
 
 Customer Insights licensuppdatering. Licensieringstypen har ändrats från AddOn till NON för följande SKU:er:
 
 - Nätverkskort365ECstmrInsights ShrdSvr ALNG SubsVL MVL
-- Slug365ECstmrInsightsEDU ShrdSvr ALNG SubsVL MVL
+- Nätverkskort365ECstmrInsightsEDU ShrdSvr ALNG SubsVL MVL
 
 Följande erbjudanden är inte längre tillgängliga för Dynamics 365 Human Resources:
 
@@ -421,22 +421,22 @@ Följande erbjudanden är inte längre tillgängliga för Dynamics 365 Human Res
 - Dynamics 365 for Talent från SA
 - Locka, registrera och omfattande anställning
 
-Den 1 februari 2020 ändrade Microsoft namnen på vissa produktfamiljer och erbjudanden för att anpassa namngivningen för befintliga Dynamics- och Power Platform erbjudanden i andra kanaler och regioner. Se de specifika ändringarna i filen "Namnändringar för Dynamics CSP-erbjudande – feb 2020" [här.](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#)
+Den 1 februari 2020 ändrade Microsoft namnen på vissa produktfamiljer och erbjudanden för att anpassa namngivningen för befintliga Dynamics- och Power Platform erbjudanden i andra kanaler och regioner.
 
 ### <a name="additional-resources"></a>Ytterligare resurser
 
 - [Startsidan för Dynamics 365](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
-- [startsida Mixed Reality appguide](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
-- [Startsida för Biz Apps-bedrägeri](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
-- [FY20 PowerApps och Flow Licensing Updates](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [startsida Mixed Reality guide för Mixed Reality för appar](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [Startsida för biz-appar för bedrägeri](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [FY20 PowerApps och Flow-licensieringsuppdateringar](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 - [Microsoft Dynamics 365-licensiering](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 
 ### <a name="next-steps"></a>Nästa steg
 
 Dela den här informationen i din organisation och med dina kunder.
 
-Om du vill fördjupa dig i licensieringsuppdateringarna och värdeförslaget kan  du bekanta dig med vårt beredskapsinnehåll i avsnittet Ytterligare resurser och på PartnerSource.
+Om du vill fördjupa dig i licensieringsuppdateringarna och mervärdet kan  du bekanta dig med vårt beredskapsinnehåll i avsnittet Ytterligare resurser och på PartnerSource.
 
-Kontakta supporten om du behöver support som är strikt angående din verksamhet [hos Microsoft.](https://partner.microsoft.com/pcv/servicerequests/create)
+Kontakta supporten om du behöver support som är strikt angående dina åtgärder [hos Microsoft.](https://partner.microsoft.com/pcv/servicerequests/create)
 
 _________________

@@ -12,11 +12,11 @@ ms.custom:
 ms.localizationpriority: high
 ms.date: 09/01/2021
 ms.openlocfilehash: a6cd5e9734a2ba9657649f012225dee96cd1e265
-ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
+ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/19/2021
-ms.locfileid: "127960901"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128309726"
 ---
 # <a name="april-2021-announcements"></a>Meddelanden april 2021
 
@@ -163,7 +163,7 @@ CSP- och Open License-partner
 
 ### <a name="details"></a>Information
 
-2020 meddelade [Microsoft](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) att permanenta programvarulicenser kommer att vara allmänt tillgängliga för partner och kunder via programmet Molnlösningsleverantör (CSP). Den första milstolpen nåddes i januari 2021, när kommersiella permanenta programvaruerbjudanden blev tillgängliga. Nästa viktiga milstolpe sker i juli 2021 när erbjudanden [inom den offentliga sektorn](https://aka.ms/openlicensepublicsector) blir tillgängliga. Vi har [också](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) meddelat att från och med den 1 januari 2022 kan inga nya inköp av programvarulicens eller förnyelser av Software Assurance eller onlinetjänster göras via Open License-programmet.
+2020 meddelade [Microsoft](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) att permanenta programvarulicenser kommer att vara allmänt tillgängliga för partner och kunder via CSP-programmet (Molnlösningsleverantör). Den första milstolpen nåddes i januari 2021, när kommersiella permanenta programvaruerbjudanden blev tillgängliga. Nästa viktiga milstolpe sker i juli 2021 när erbjudanden [inom den offentliga sektorn](https://aka.ms/openlicensepublicsector) blir tillgängliga. Vi har [också](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) meddelat att från och med den 1 januari 2022 kan inga nya köp eller förnyelser av Software Assurance eller onlinetjänster göras via Open License-programmet.
 
 Övergången av permanent programvara till CSP-programmet i den nya handelsupplevelsen hjälper partner att utöka möjligheterna att erbjuda olika lösningar och hanterade tjänster. Detta påskyndar även kundernas övergång till molnet.  För att säkerställa en smidig övergång för både våra partner och kunder har vi gjort dessa justeringar och material för att påskynda den här digitala omvandlingen:
 
@@ -177,7 +177,7 @@ CSP- och Open License-partner
 
 - 1 juli: Permanent programvarulicenser är tillgängliga för kunder inom den offentliga sektorn
 
-- 7 juli: Visual Studio Pro och Get Genuine Windows ett permanent programvarulicenser som är tillgängliga för alla segment
+- 7 juli: Visual Studio Pro och Get Genuine Windows-avtal för beständiga programvarulicenser som är tillgängliga för alla segment
 
 ##### <a name="open-value"></a>Öppet värde
 
@@ -247,12 +247,12 @@ Som en månatlig påminnelse kommer vi också att publicera ett Partnercenter-me
 
 ### <a name="next-steps"></a>Nästa steg
 
-I början av varje månad hittar du den senaste guiden för global [kampanjberedskap](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) i [resursgalleriet för driftberedskap.](https://partner.microsoft.com/resources)
+I början av varje månad hittar du den senaste guiden för global [kampanjberedskap i](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) [resursgalleriet för driftberedskap.](https://partner.microsoft.com/resources)
 
 Dela den här informationen med lämpliga kontakter i dina organisationer och berätta för oss hur användbar guiden är genom "Var den här sidan användbar?" i slutet av varje sida.
 
 ________________
-## <a name="april-cloud-solution-provider-csp-community-update-and-reminders"></a><a name="5"></a>Communityuppdatering Molnlösningsleverantör april Molnlösningsleverantör CSP) och påminnelser
+## <a name="april-cloud-solution-provider-csp-community-update-and-reminders"></a><a name="5"></a>Communityuppdatering Molnlösningsleverantör april Molnlösningsleverantör CSP och påminnelser
 
 ### <a name="categories"></a>Kategorier
 
@@ -269,9 +269,9 @@ CSP-direktfaktureringspartner och indirekta leverantörer
 
 ### <a name="details"></a>Information
 
-Den här månaden innehåller resurserna följande viktiga ämnen:
+Den här månaden innehåller resurserna följande viktiga avsnitt:
 
-- [Uppdatera till CSP-programutveckling och ändringar i Open License-programmet](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/)
+- [Uppdatering av CSP-programutveckling och ändringar i Open License-programmet](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/)
 
 - [Ändringar av CSP-kundernas registreringskrav i vissa regioner](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/)
 
@@ -322,7 +322,7 @@ Partner som säljer erbjudanden för Academic, Nonprofit och Government Communit
 
 ### <a name="details"></a>Information
 
-Det här meddelandet är en uppföljning av partnercenterförbättringarna [som släpptes i december](./2020-december.md#1). Som en del av den versionen distribuerades nya GET- och POST-kvalificerings-API:er och därför kommer den befintliga GET-kvalificeringen att dras tillbaka den 6 maj **2021.** Då måste du ha gått över till att använda de nya POST Partner Center-API:erna. Med de nya POST-API:erna kan du köpa Education-erbjudanden, medan de nya GET-API:erna gör att du kan köpa förkvalificerade erbjudanden för ideella organisationer och GCC.
+Det här meddelandet är en uppföljning av partnercenterförbättringarna [som släpptes i december](./2020-december.md#1). Som en del av den versionen distribuerades nya GET- och POST-kvalificerings-API:er och därför kommer den befintliga GET-kvalificeringen att dras tillbaka den 6 maj **2021.** Då måste du ha gått över till att använda de nya POST Partner Center-API:erna. Med de nya POST-API:erna kan du köpa Education-erbjudanden, medan de nya GET-API:erna gör att du kan köpa förkvalificerade erbjudanden GCC ideella organisationer.
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -356,7 +356,7 @@ ________________
 
 ### <a name="summary"></a>Sammanfattning
 
-Microsoft introducerar ett nytt format för den nya PDF-handelsfakturan i Molnlösningsleverantör-programmet (CSP) för att visa faktureringsinformation efter produktinformation i stället för SKU-beskrivning.
+Microsoft introducerar ett nytt format för den nya PDF-handelsfakturan i CSP-programmet (Molnlösningsleverantör) för att visa faktureringsinformation efter produktinformation i stället för SKU-beskrivning.
 
 ### <a name="impacted-audience"></a>Påverkad målgrupp
 
@@ -366,7 +366,7 @@ Partner som gör en överträdelse via CSP-programmet
 
 Från och med maj 2021 introducerar Microsoft ett nytt format för den nya PDF-fakturan för handel i CSP-programmet för att visa faktureringsinformation efter produktinformation i stället för SKU-beskrivning. Med den här nya uppdateringen kommer vi att aggregera radobjekten efter produkttyp samtidigt som vi visar varje produkt på en enskild rad.
 
-Partner kommer att märka att ändringen börjar gälla på fakturan för faktureringsperioden mellan 1 april 2021 och 30 april 2021. De berörda erbjudandena är Microsoft Azure Reserverad instans, Azure-prenumerationer (Azure-plan) och Marketplace.
+Partner kommer att märka att ändringen börjar gälla på fakturan för faktureringsperioden mellan 1 april 2021 och 30 april 2021. De berörda erbjudandena är Microsoft Azure-instans, Azure-prenumerationer (Azure-plan) och Marketplace.
 
 Eventuella begäranden om kreditfakturering som görs efter att fakturaformatet har uppdaterats genereras i det nya formatet.
 
@@ -485,11 +485,11 @@ Om du behöver support för dina åtgärder med Microsoft öppnar du en [tjänst
  
 ### <a name="summary"></a>Sammanfattning
 
-Produktlanseringskalendern för april 2021 publiceras nu.
+Produktlanseringskalendern för april 2021 har nu publicerats.
 
 ### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Alla partner som gör en Molnlösningsleverantör via CSP-programmet
+Alla partner som gör en Molnlösningsleverantör (CSP)
 
 ### <a name="details"></a>Information
 
