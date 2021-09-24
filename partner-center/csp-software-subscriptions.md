@@ -10,21 +10,21 @@ ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 3123313525fb245db2abbe3175cd820b53c41898
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/24/2021
-ms.locfileid: "128373412"
+ms.locfileid: "128422425"
 ---
-# <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Sälja programvaruprenumerationer via Molnlösningsleverantör-programmet (CSP)
+# <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Sälja programvaruprenumerationer via Molnlösningsleverantör (CSP)-programmet
 
 **Lämpliga roller:** Administratörsagent | Global administratör
 
-Med Azure-reservationer och Server-prenumerationer (Windows Server- och SQL Server-prenumerationer) kan partner i CSP-programmet bättre hantera den snabbt växande kundefterfrågan på mer kostnadseffektiva lösningar för att stödja mycket förutsägbara och beständiga molnarbetsbelastningar. 
+Med Azure-reservationer och serverprenumerationer (Windows Server- och SQL Server-prenumerationer) kan partner i CSP-programmet bättre hantera den snabbt växande kundefterfrågan på mer kostnadseffektiva lösningar för att stödja mycket förutsägbara och beständiga molnarbetsbelastningar. 
 
 Nu kan du skaffa, etablera och hantera Azure-reservationer och serverprenumerationer åt kommersiella kunder via Partnercenter och Azure Portal genom att dra nytta av Azure Hybrid-förmån.
 
-Den Azure Hybrid-förmån hjälper dig att få mer värde av dina Windows Server-licenser och spara upp till 40 procent på virtuella datorer. Du kan använda förmånen med Windows Server Datacenter- och Standard Edition-licenser som omfattas av Software Assurance. Beroende på utgåva kan du konvertera eller återanvända dina licenser för att köra virtuella Windows Server-datorer i Azure och betala en lägre baspris för beräkning (till exempel linux-priser för virtuella Linux-datorer).
+Med Azure Hybrid-förmån får du mer värde av dina Windows Server-licenser och sparar upp till 40 procent på virtuella datorer. Du kan använda förmånen med Windows Server Datacenter- och Standard Edition-licenser som omfattas av Software Assurance. Beroende på utgåva kan du konvertera eller återanvända dina licenser för att köra Windows Server virtual machines i Azure och betala en lägre beräkningshastighet (till exempel priser för virtuella Linux-datorer).
 
 ## <a name="azure-reservations-unavailable-markets"></a>Otillgängliga marknader för Azure-reservationer
 
@@ -68,24 +68,24 @@ Den Azure Hybrid-förmån hjälper dig att få mer värde av dina Windows Server
 > | Falklandsöarna     | Nauru     | U.S. Outlying Islands   |
 > | Franska Guyana     | Nya Kaledonien     | Vanuatu   |
 > | Franska Polynesien     | Niger     | Vatikanstaten   |
-> | Franska sydterritorierna     | Niue     | Wallis ochUna   |
+> | Franska sydterritorierna     | Niue     | Wallis och Spanuna   |
 > | Gabon     | Norfolkön     | Jemen   |
 > | Gambia     | Nordmarianerna     |    |
 > | Gibraltar     | Palau       |    |
 
 ## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Köp programvaruprenumerationer för kunders räkning
 
-Så här köper du programvaruprenumerationer för en kunds räkning:
+Så här köper du programvaruprenumerationer åt en kund:
 
 1. Logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard)
 
 2. I menyn i Partnercenter väljer **du Kunder** och sedan en kund i listan.
 
-3. På kundens informationssida väljer du Lägg **till produkter** och följer sedan anvisningarna på skärmen för att skapa och betala för din beställning. All kommersiell prissättning exkluderar skatt förutom Australien och Brasilien. För Australien och Brasilien inkluderar priset skatt.
+3. På kundens informationssida väljer du **Lägg till produkter** och följer sedan anvisningarna på skärmen för att skapa och betala för din beställning. Alla kommersiella priser exkluderar skatt förutom Australien och Brasilien. För Australien och Brasilien inkluderar priset skatt.
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Aktivera och hantera programvaruprenumerationer
 
-När du har köpt din programvara måste du eller dina kunder ladda ned den (partner med partnercenter, kunder som använder Microsoft 365 Admin Center). Gör detta på följande sätt. Det är viktigt att förstå riskerna med att kopiera länkar och ladda ned programvara. Mer information finns i **Använda Partnercenter för att hämta** nedladdningar av kundprogramvara och licensnycklar i [partnercentrets nya handbok för handel.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
+När du har köpt din programvara måste du eller dina kunder ladda ned den (partner som använder Partnercenter; kunder som använder Microsoft 365 Admin Center). Gör detta på följande sätt. Det är viktigt att förstå riskerna med att kopiera länkar och ladda ned programvara. Mer information finns i Använda **Partnercenter för att hämta** nedladdning av kundprogramvara och licensnycklar i [partnercentrets guide för nya handelsåtgärder.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
 
 >[!NOTE]
 >Du måste vara administratörsagent i Partnercenter för att få en länk till nycklar och nedladdningar.
@@ -94,13 +94,13 @@ När du har köpt din programvara måste du eller dina kunder ladda ned den (par
 
 2. Välj **produktversion,** **språk**, **bit** och välj **Hämta nycklar och nedladdningar.** 
 
-3. Välj **Hämta nyckel** för att visa den 32-siffriga produkten i en dialogruta som du kan kopiera och skicka till kunden. 
+3. Välj **Hämta nyckel** för att visa den 32-siffriga produkten i en popup-dialogruta som du kan kopiera och skicka till kunden. 
 
 4. Välj **Ladda ned** för att ladda ned bitarna. 
 
 5. Välj **Kopiera länk** om du vill skicka kunden länken till bithämtningen. 
 
-6. Du kan också **avbryta programvarubeställningen** och få 100 % kredit (om det görs inom 30-dagars annulleringspolicyperioden).
+6. Du kan också **avbryta** programvarubeställningen och få 100 % kredit (om det görs inom 30-dagars annulleringspolicyperioden).
 
 >[!NOTE]
 >Endast kunder har åtkomst till att se produktnycklarna och ladda ned information i Microsoft 365 Admin Center (global administratörsroll krävs). Partner måste använda Partnercenter för att se den här informationen.
@@ -110,15 +110,15 @@ När du har köpt din programvara måste du eller dina kunder ladda ned den (par
 
 ## <a name="move-a-customers-on-premises-license-from-vl-to-csp-with-no-downtime"></a>Flytta en kunds lokala licens från VL till CSP utan avbrottstid
 
-Även KMS nycklar inte är tillgängliga i CSP kan du fortfarande flytta kundens lokala licenser från VL till CSP och förhindra driftstopp på grund av bytet av inköpskanal. KMS distribuerar licenserna till klienterna och de förblir vanligtvis aktiva i 180 dagar innan enheten försöker förnya aktiveringen. Det innebär att enheten redan har aktiverats och körs en stund innan några problem uppstår. 
+Även KMS nycklar inte är tillgängliga i CSP kan du fortfarande flytta kundens lokala licenser från VL till CSP och förhindra driftstopp på grund av inköpskanalväxeln. KMS distribuerar licenserna till klienterna och de förblir vanligtvis aktiva i 180 dagar innan enheten försöker förnya aktiveringen. Det innebär att enheten redan är aktiverad och körs under en tid innan några problem uppstår. 
 
-Om kunden distribuerar den nya fleraktiveringsaktiveringsaktiveringen under den här tiden, antingen manuellt eller på ett skript (med hjälp av ), sker `slmgr.vbs` inget driftstopp. Om kunden inte distribuerar den nya fleraktiveringslicensen under den här tiden och försöker förnya licensen senare, kan enheten bli begränsad eller blockerad i vissa funktioner tills den återaktiveras. 
+Om kunden distribuerar den nya fleraktiveringsaktiveringsaktiveringen under den här tiden, antingen manuellt eller med skript (med hjälp av ), sker `slmgr.vbs` ingen stilleståndstid. Om kunden inte distribuerar den nya fleraktiveringsaktiveringsaktiveringen under den här tiden och försöker förnya licensen senare, kan enheten bli begränsad eller blockerad i vissa funktioner tills den återaktiveras. 
 
-Mer information finns i Aktivera klienter [som kör Windows 10 (Windows 10) – Windows Distribution](/windows/deployment/volume-activation/activate-windows-10-clients-vamt#key-management-service-activation-renewal). Om du behöver hjälp med den här typen av distribution kan du skicka en teknisk [begäran om försäljning](/partner-center/technical-benefits#submit-a-technical-presales-and-deployment-services-request) och distributionstjänster.
+Mer information finns i Aktivera [klienter som kör Windows 10 (Windows 10) – Windows Distribution](/windows/deployment/volume-activation/activate-windows-10-clients-vamt#key-management-service-activation-renewal). Om du behöver hjälp med den här typen av distribution kan du skicka en begäran om teknisk support och [distributionstjänster.](/partner-center/technical-benefits#submit-a-technical-presales-and-deployment-services-request)
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Nedladdning av serverprenumeration och licensnycklar som är tillgängliga via Microsoft 365 Admin Center för kunder 
 
-Dina kunder kommer att kunna hämta licensnycklar och nedladdningar för CSP-serverprenumeration från Microsoft 365 Admin Center. Om du vill se licensnycklar och nedladdningar för CSP-serverprenumerationen måste kunden gå till Microsoft 365 Admin Center > **Billing > Your products > Software (Dina** produkter på fliken Programvara). Mer information finns i [fliken Programvara under Fakturering.](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)  
+Dina kunder kommer att kunna hämta licensnycklar och nedladdningar för CSP-serverprenumeration från Microsoft 365 Admin Center. Om du vill se licensnycklarna och nedladdningarna för prenumerationen på CSP-servern måste kunden gå till fliken Microsoft 365 Admin Center > Billing > Your products > Software (Fakturering för **>).** Mer information finns på [fliken Programvara under Fakturering.](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Visa aktivitet för åtkomst till programvarunyckel och nedladdning av programvara
 
@@ -131,7 +131,7 @@ I gransknings- eller efterlevnadssyfte kan du behöva kontrollera en lista över
 
 2. Välj kugghjulsikonen i det övre högra hörnet.
 
-3. I menyn väljer du **Aktivitetslogg**.
+3. I menyn väljer du **Aktivitetslogg.**
 
 4. Ange datumintervallet för den aktivitet som du vill se. Aktivitetsloggen visar en lista över användare som antingen har åtkomst till programvarunycklar eller nedladdad programvara under den tid som du har angett. 
 
@@ -140,16 +140,16 @@ I gransknings- eller efterlevnadssyfte kan du behöva kontrollera en lista över
 Du kan avbryta ett programvaruköp inom 30 dagar från inköpsdatum. Om du avbryter inom den första 30-dagarsperioden debiteras du inte någon avgift för tidig uppsägning. Efter 30 dagar kan du inte längre avbryta ett köp. (Se Anteckning om nyckelbegränsningar för den här annulleringsregeln. Mer information om vad som händer när du har avbrutit ett programvaruköp finns i Viktigt meddelande efter de här stegen.) 
 
 >[!NOTE]
->Följande steg för att avbryta ett köp gäller endast för programvara som är berättigad till annullering inom en viss uppsägningsfönster, till exempel inom de första 30 dagarna efter köpet. De här stegen gäller inte heller för en SUSE Linux- eller RedHat-programvaruplan i Azure. Just nu kan du inte avbryta eller byta en SUSE- eller RedHat-programvaruplan. [Läs mer](/azure/virtual-machines/linux/prepay-suse-software-charges) om hur du använder SUSE Linux- eller RedHat-planer.
+>Följande steg för att avbryta ett köp gäller endast för programvara som kvalificerar för annullering inom en viss uppsägningsfönster, till exempel inom de första 30 dagarna efter köpet. De här stegen gäller inte heller för en SUSE Linux- eller RedHat-programvaruplan i Azure. Just nu kan du inte avbryta eller byta en SUSE- eller RedHat-programvaruplan. [Läs mer](/azure/virtual-machines/linux/prepay-suse-software-charges) om hur du använder SUSE Linux- eller RedHat-planer.
 
 Följ stegen nedan för att avbryta ett köp:
 
 >[!NOTE]
 >Du måste vara administratörsagent för att kunna avbryta ett köp. Följande steg beskriver hur du avbryter ett köp på instrumentpanelen i Partnercenter. Du kan också göra detta med [partnercenter-API:et](/partner-center/develop/cancel-software-purchases).
 
-1. Kontrollera att du har följande information innan du börjar avbryta processen:
+1. Kontrollera att du har följande information innan du startar annulleringen:
 
-    - Kundens namn, klientorganisations-GUID eller domännamn
+    - Kundens namn, klient-GUID eller domännamn
     - Namnet på den produkt som du vill avbryta
     - Order-ID
 
@@ -165,11 +165,11 @@ Följ stegen nedan för att avbryta ett köp:
 
 7. Markera kryssrutan för att bekräfta att du har läst meddelandet **Viktigt om** annullering. (Läs viktig information **nedan** om du vill veta mer om vad som händer när du har avbrutit ett köp.)
 
-8. Välj **Skicka** för att avbryta köpet. Om du vill avbryta flera beställningar för en kund måste du utföra steg 4 till och med 6 igen för varje unikt order-ID.nummer.
+8. Välj **Skicka** för att avbryta köpet. Om du vill avbryta flera beställningar för en kund måste du utföra steg 4 till och med 6 igen för varje, unikt order-ID-nummer.
 
-När du försöker avbryta en beställning kan Partnercenter också ge dig annan information (som visas under listrutan Ordernummer). Den här informationen kan vara:
+När du försöker avbryta en beställning kan Partnercenter också ge dig annan information (som visas under listrutan Ordernummer). Den här informationen kan omfatta:
 
-- Hur många dagar som återstår för att avbryta den specifika beställningen
+- Hur många dagar som återstår för dig att annullera den specifika beställningen
 
 - Om du redan har passerat annulleringsfönstret och inte längre kan avbryta beställningen
 

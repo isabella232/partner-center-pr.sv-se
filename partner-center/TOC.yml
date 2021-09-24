@@ -38,7 +38,7 @@
         - name: Vanliga frågor och svar om förmåner
           href: benefits-faq.yml
           displayName: 'renew, license,'
-        - name: Visa eller ladda ned DIN MPN-faktura
+        - name: Visa eller ladda ned din MPN-faktura
           href: mpn-view-print-maps-invoice.md
     - name: Tillgängliga fördelar
       items:
@@ -89,7 +89,7 @@
         - name: Vanliga frågor och svar om kompetenser
           href: competencies-faq.yml
           displayName: 'renew, mpn'
-        - name: Betala avgifter för kompetens
+        - name: Avgifter för betalning av kompetens
           href: mpn-pay-fee-silver-gold-competency.md
           displayName: mpn
         - name: Undantag för apputvecklarkompetens
@@ -121,7 +121,7 @@
     - name: Växla CSP-direktfakturering till indirekt återförsäljare
       href: transition-direct-to-indirect.md
       displayName: csp
-    - name: Partner kan inte längre registreras som rådgivare
+    - name: Partner kan inte längre registrera sig som rådgivare
       href: advisors-no-csp.md
 - name: CSP-avtal
   href: microsoft-partner-agreement.md
@@ -246,7 +246,7 @@
       href: manage-leads.md
     - name: Hantera säljsamarbete
       items:
-        - name: Om säljsamarbete
+        - name: Om möjligheter till säljförsäljning
           href: manage-co-sell-opportunities.md
         - name: Massåtgärder
           href: bulk-operations.md
@@ -329,6 +329,9 @@
           displayName: incentives
         - name: Godkännande och deadlines för säljsamarbetsanspråk
           href: incentives-managing-co-op-claims.md
+          displayName: incentives
+        - name: Avvisade anspråk
+          href: reject-claims.md
           displayName: incentives
     - name: Incitamentanspråk för CPOR-associationer
       items:
@@ -563,7 +566,7 @@
         - name: Vanliga frågor och svar om partner-intjänad kredit
           href: partner-earned-credit-faq.md
           displayName: 'faq, partner earned credit'
-        - name: Felsöka partners intjänade kredit
+        - name: Felsöka partner-intjänad kredit
           href: partner-earned-credit-troubleshoot.md
           displayName: 'partner earned credit, troubleshooting'
         - name: Ny handelsupplevelse i CSP – Azure-fakturering
@@ -720,7 +723,7 @@
               href: insights-programmatic-prerequisites.md
             - name: Paradigm för programmatisk åtkomst
               href: insights-programmatic-access-paradigm.md
-            - name: Gör ditt första programmatiska API-anrop
+            - name: Gör ditt första programmerings-API-anrop
               href: insights-programmatic-first-api-call.md
             - name: Lista över systemfrågor
               href: insights-programmatic-system-queries.md

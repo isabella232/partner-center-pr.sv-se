@@ -10,11 +10,11 @@ ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.openlocfilehash: a5e062f9173ea65f93ada81693064f3c0519a7ae
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/24/2021
-ms.locfileid: "128373446"
+ms.locfileid: "128422374"
 ---
 # <a name="january-2020-announcements"></a>Meddelanden januari 2020
 
@@ -24,7 +24,7 @@ Den här sidan innehåller information om meddelanden för Microsoft Partner Cen
 
 _________________
 
-## <a name="windows-server-and-sql-server-subscriptions-available-to-cloud-solution-provider-csp-partners-in-russia-from-february-1-2020"></a><a id="7"/></a>Windows Server- SQL Server prenumerationer som är tillgängliga för Molnlösningsleverantör (CSP)-partner i Ryssland från den 1 februari 2020
+## <a name="windows-server-and-sql-server-subscriptions-available-to-cloud-solution-provider-csp-partners-in-russia-from-february-1-2020"></a><a id="7"/></a>Windows Server- SQL Server prenumerationer som är tillgängliga för Molnlösningsleverantör(CSP)-partner i Ryssland från och med 1 februari 2020
 
 ### <a name="categories"></a>Kategorier
 
@@ -34,16 +34,16 @@ _________________
 
 ### <a name="summary"></a>Sammanfattning
 
-Från och med 1 februari 2020 kommer Windows Server och SQL Server-prenumerationer att vara tillgängliga för köp till CSP-partner i Ryssland.
+Från och med 1 februari 2020 kommer Windows Server- och SQL Server-prenumerationer att vara tillgängliga för köp till CSP-partner i Ryssland.
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
 Alla CSP-partner som gör en överträdelse i Ryssland
 
 ### <a name="details"></a>Information
 
-Vi är glada över att kunna meddela att efter vår lansering av Azure-reservationer i december 2019 kommer Windows Server- och SQL Server-prenumerationer att vara tillgängliga för köp i Ryssland från den 1 februari 2020.
-Med Azure-reservationer och dessa serverprenumerationer, inklusive Azure Hybrid-förmån, kan partner i CSP-programmet bättre hantera den snabbt växande kundefterfrågan på mer kostnadseffektiva lösningar för att stödja mycket förutsägbara och beständiga molnarbetsbelastningar.
+Vi är glada över att kunna meddela att efter vår lansering av Azure-reservationer i december 2019 kommer Windows Server- och SQL Server-prenumerationer att vara tillgängliga för köp i Ryssland från och med 1 februari 2020.
+Med Azure-reservationer och dessa serverprenumerationer, som omfattar Azure Hybrid-förmån, kan partner i CSP-programmet bättre hantera den snabbt växande kundefterfrågan på mer kostnadseffektiva lösningar för att stödja mycket förutsägbara och beständiga molnarbetsbelastningar.
 
 Partner kan nu skaffa, etablera och hantera Azure-reservationer och Windows Server- och SQL Server-prenumerationer åt kommersiella kunder via Partnercenter och Azure Portal.
 
@@ -52,7 +52,7 @@ Partner kan nu skaffa, etablera och hantera Azure-reservationer och Windows Serv
 
 ### <a name="additional-resources"></a>Ytterligare resurser
 
-- CSP-programresurser på sidan för partnergalleriet: [Windows server och SQL Server prenumerationer som är tillgängliga i Ryssland för CSP-partner](https://partner.microsoft.com/resources/collection/geo-expansion-for-azure-reservations-and-server-subscriptions-for-windows-server-and-sql-server#/)
+- CSP-programresurser på sidan för partnergalleriet: [Windows server- och SQL Server prenumerationer som är tillgängliga i Ryssland för CSP-partner](https://partner.microsoft.com/resources/collection/geo-expansion-for-azure-reservations-and-server-subscriptions-for-windows-server-and-sql-server#/)
 - [Läs mer om Partnercenter](../azure-plan-get-started.md)
 
 ### <a name="next-steps"></a>Nästa steg
@@ -65,7 +65,7 @@ Partner kan nu skaffa, etablera och hantera Azure-reservationer och Windows Serv
 
 _________________
 
-## <a name="meeting-room-and-meetings-add-on-for-microsoft-365-f1-are-now-available-in-the-government-community-cloud-gcc"></a><a id="6"/></a>Mötesrum och möten för Microsoft 365 F1 är nu tillgängliga i Government Community Cloud (GCC)
+## <a name="meeting-room-and-meetings-add-on-for-microsoft-365-f1-are-now-available-in-the-government-community-cloud-gcc"></a><a id="6"/></a>Mötesrum-tillägg och möten för Microsoft 365 F1 nu tillgängliga i Government Community Cloud (GCC)
 
 ### <a name="categories"></a>Kategorier
 
@@ -78,17 +78,17 @@ _________________
 
 Från och med 7 januari 2020 har Microsoft infört Mötesrum och möten för Microsoft 365 F1 för GCC. Mer information finns i prislistan.
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Alla partner som GCC erbjudanden i Molnlösningsleverantör (CSP)
+Alla partner som GCC erbjudanden i Molnlösningsleverantör (CSP)-programmet
 
 ### <a name="details"></a>Information
 
-Microsoft är glada över att kunna meddela att både Mötesrum- och Meetings-tillägg för Microsoft 365 F1 är tillgängliga för CSP-GCC, från och med 7 januari 2020.
+Microsoft är glada över att kunna meddela att både Mötesrum- och Meetings-tillägg för Microsoft 365 F1 är tillgängliga för CSP-GCC från och med 7 januari 2020.
 
-Den här lanseringen förbättrar Teams för Microsoft 365 F1, vilket är vår avancerade programsvit som förbättrar produktiviteten, säkerheten och innovationen för våra myndighetskunder.
+Den här lanseringen förbättrar Teams ytterligare för Microsoft 365 F1, vilket är vår avancerade programsvit som förbättrar produktiviteten, säkerheten och innovationen för våra myndighetskunder.
 
-Microsoft Teams Rum är Microsofts interna konferenslösning för Microsoft Teams och Skype för företag möten. Mötesrum- och möten-tillägg för Microsoft Teams Rum gör det möjligt för dina GCC-kunders mötesrum och huddle spaces att kunna delta i Teams- och Skype för företag-möten, vara värd för möten där deltagare kan ringa till konferenssamtal och ansluta till telefoni med telefonsystem.
+Microsoft Teams Rum är Microsofts interna konferenslösning för Microsoft Teams och Skype för företag möten. med Mötesrum och möten för Microsoft Teams Rum kan dina GCC-kunders mötesrum och huddle-utrymmen ansluta till Teams- och Skype för företag-möten, vara värd för möten där deltagare kan ringa till konferenssamtal och ansluta till telefoni via telefonsystem.
 
 ### <a name="offer-list"></a>Erbjudandelista
 
@@ -102,11 +102,11 @@ d2e1a29f-e6b7-424b-82a4-191b58678da1 (GCC High)
 
 ### <a name="next-steps"></a>Nästa steg
 
-Bekanta dig med prislistan och dela den här informationen med alla lämpliga kontakter i din organisation, särskilt säljteamet.
+Bekanta dig med prislistan och dela den här informationen med alla lämpliga kontakter i din organisation, särskilt ditt säljteam.
 
 ### <a name="questions"></a>Har du några frågor?
 
-För ytterligare frågor om dessa erbjudanden, kontakta din representant i Microsoft-konto eller kontrollera din Yammer partner community.
+Om du har ytterligare frågor om dessa erbjudanden kontaktar du din representant i Microsoft-konto-teamet eller kontrollerar din Yammer partner.
 
 _________________
 
@@ -119,7 +119,7 @@ _________________
 - Status: Nu tillgänglig
 - [Läs mer](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/)
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
 Alla partner som onlinetjänster till kommersiella kunder.
 
@@ -127,31 +127,31 @@ Alla partner som onlinetjänster till kommersiella kunder.
 
 Den 14 januari 2020  släppte Microsoft funktioner för självbetjäning, prenumeration och licenshantering för Power BI för kommersiella molnkunder i USA. Den **28 januari 2020** blev dessa funktioner tillgängliga **för Power Apps** och **Power Automate** i USA.
 
-Senare i kvartal 3 FY20 gör vi självbetjäning för Power Platform tillgängliga för kommersiella kunder i flera ytterligare länder. När vi släpps till dessa länder kommer vi att uppdatera dokumentationen för vanliga frågor och svar för kunden så att den återspeglar deras tillgänglighet. Vanliga frågor och svar om kunden ingår i beredskapsresurserna som anges nedan. Se till att kontrollera detta ofta under de kommande månaderna.
+Senare under kvartal 3 FY20 gör vi självbetjäningsköp för Power Platform tillgängliga för kommersiella kunder i flera ytterligare länder. När vi släpper till dessa länder kommer vi att uppdatera dokumentationen med vanliga frågor och svar för kunden så att den återspeglar deras tillgänglighet. Vanliga frågor och svar om kunden ingår i beredskapsresurserna som anges nedan. Se till att kontrollera detta ofta under de kommande månaderna.
 
 Granska alla resurser i resursgalleriet (se Ytterligare resurser nedan) för ytterligare information om självbetjäning, inklusive anvisningar för att implementera PowerShell om kunderna vill avanmäla sig från självbetjäning.
 
 **PowerShell-skriptet** som gör det möjligt för IT-administratörer att styra (aktivera eller inaktivera) köp via självbetjäning per produkt är nu **tillgängligt.** Teknisk dokumentation finns i avsnittet Ytterligare resurser nedan.
 
-UPPDATERING: Under den senaste veckan har vi lyssnat på din feedback om hur våra köpfunktioner för självbetjäning har distribuerats för Power Platform produkter. Tack! Baserat på din feedback har vi justerat vår metod för att bättre hantera behoven hos både IT-administratörer och slutanvändare i organisationer. Vi gör följande ändringar i planen:
+UPPDATERING: Under den senaste veckan har vi lyssnat på din feedback om hur våra självbetjäningsköpsfunktioner har distribuerats för Power Platform produkter. Tack! Baserat på din feedback har vi justerat vår metod för att bättre hantera behoven hos både IT-administratörer och slutanvändare i organisationer. Vi gör följande ändringar i planen:
 
 - Den 19 november ger vi IT-administratörer ett sätt att inaktivera självbetjäning för köp per produkt via PowerShell. Mer information kommer.
-- För att ge mer tid att förbereda oss för den här ändringen uppdaterar vi lanseringen av köpfunktioner för självbetjäning för Power Platform-produkter till att börja med Power BI den 14 januari för alla kommersiella molnkunder. Mer information om Power Apps och Power Automate kommer att komma.
+- För att ge mer tid för att förbereda för den här ändringen uppdaterar vi lanseringen av köpfunktioner för självbetjäning för Power Platform-produkter så att de börjar med Power BI den 14 januari för alla kommersiella molnkunder. Mer information om Power Apps och Power Automate kommer att komma.
 
 Tack än en gång för att du tog dig tid att lämna feedback. Vi ser fram emot ett fortsatt partnerskap för att hjälpa organisationer att uppnå mer.
 
-Allt eftersom världen går vidare med den digitala omvandlingen, kommer slutanvändare och affärsenheter i allt högre utsträckning att börja använda och köpa a la carte-lösningar för programvara som en tjänst på egen hand. Vi introducerar självbetjäning för att göra det möjligt för användare att köpa en till många licenser, vilket ger större flexibilitet och frihet för avdelningar, team eller i hela företaget att skapa egna lösningar.
+Allt eftersom världen tar sig an den digitala omvandlingens väg, kommer slutanvändare och affärsenheter i allt större utsträckning att börja använda och köpa a la-carte-lösningar för programvara som en tjänst på egen hand. Vi introducerar självbetjäning för att göra det möjligt för användare att köpa en till många licenser, vilket ger större flexibilitet och frihet för avdelningar, team eller hela företaget att skapa egna lösningar.
 
-Vi följer en fasfasad Microsoft Power Platform produkter (Power BI, Power Apps, Power Automate):
+Vi följer en fasfasad utrullning av Microsoft Power Platform produkter (Power BI, Power Apps, Power Automate):
 
-- Tillgänglighet via självbetjäning börjar med **Power BI 14 januari.**
-- Utrullningen börjar med kunder i USA expanderar till andra geografiska områden.
-- Den här funktionen är inte tillgänglig för myndigheter, ideella organisationer eller utbildningskunder just nu.
+- Tillgänglighet via självbetjäning börjar med **Power BI den 14 januari.**
+- Utrullningen börjar med kunder i USA expanderas till andra geografiska områden.
+- Den här funktionen är inte tillgänglig för myndigheter, ideella organisationer eller utbildningskunder för närvarande.
 - Information om Power Apps och Power Automate kommer snart.
 
-Partner kan dra nytta av självbetjäning genom att skapa lösningar som sträcker sig över Azure och Power Platform. Partner med administrativ åtkomst ser enskilda Power Platform köp i Administrationscenter för Microsoft 365 och kan behandla dem som sälj leads för sina molnlösningar.En partner som ser en arbetsgrupp som börjar använda Power BI har till exempel möjlighet att skapa och sälja avancerade Power BI-instrumentpaneler som hämtar data från Azure SQL-databaser eller andra affärsprogram. I och med att implementeringen sprids viralt inom organisationer från självbetjäning kan partner också sälja stora Power Platform till central IT.
+Partner kan dra nytta av självbetjäning genom att skapa lösningar som sträcker sig över Azure och Power Platform. Partner med administrativ åtkomst ser enskilda Power Platform köp i Administrationscenter för Microsoft 365 och kan behandla dem som sälj leads för sina molnlösningar.En partner som ser en arbetsgrupp som inför Power BI har till exempel möjlighet att skapa och sälja avancerade Power BI-instrumentpaneler som hämtar data från Azure SQL-databaser eller andra affärsprogram. I och med att implementeringen sprids viralt inom organisationer från självbetjäning kan partner också sälja stora Power Platform till central IT.
 
-Partner som inte har administrativ åtkomst kan fortfarande skapa konceptbevisprojekt och kan skapa anpassade lösningar för enskilda användare som köper Power Platform tjänster. Dessa partner drar nytta av flexibiliteten i att arbeta direkt med slutanvändare och inte behöva gå igenom en centraliserad IT-köp rörelse. Ett lyckat partnerinteragemang Power BI implementeringen skulle ge partnern trovärdighet inom företaget och enkelt leda till andra möjligheter.
+Partner som inte har administrativ åtkomst kan fortfarande skapa konceptbevisprojekt och kan skapa anpassade lösningar för enskilda användare som köper Power Platform tjänster. Dessa partner drar nytta av flexibiliteten i att arbeta direkt med slutanvändare och behöver inte gå igenom en centraliserad IT-köp rörelse. Ett lyckat partnerinteragemang Power BI implementeringen skulle ge partnern trovärdighet inom företaget och kan enkelt leda till andra möjligheter.
 
 ### <a name="additional-resources"></a>Ytterligare resurser
 
@@ -159,8 +159,8 @@ Partner som inte har administrativ åtkomst kan fortfarande skapa konceptbevispr
 
 ### <a name="change-log"></a>Ändringslogg
 
-- Ursprunglig publiceringsdatum: 21 oktober 2019
-- Uppdaterade Power BI lanseringsdatum och introducerade PowerShell-datum: 1 november 2019
+- Ursprungligt publiceringsdatum: 21 oktober 2019
+- Uppdaterade Power BI startdatum och introducerade PowerShell-datum: 1 november 2019
 - PowerShell-skript är nu tillgängligt för IT-administratörer. Microsoft Flow uppdaterades till Power Automate: 19 november 2019.
 - Lansering av självbetjäningsköp för Power BI och startinformation för Power Apps, Power Automate och andra länder: – 14 januari 2020
 - Lansering av självbetjäningsköp för Power Apps och Power Automate: 28 januari 2020
@@ -216,14 +216,14 @@ _________________
 
 Den nya Microsoft-kundavtal för alla produkterbjudanden i CSP-programmet (Molnlösningsleverantör) blev tillgänglig den 1 oktober 2019.
 
-Från och med 1 februari 2020 krävs en partners bekräftelse på Microsoft-kundavtal godkännande för att göra nya beställningar av CSP-erbjudanden i alla regioner under Microsoft Public Cloud. Från det datumet kommer en partner i CSP inte att kunna göra ett nytt köp, inklusive att byta plats och förnya befintliga inköp utan godkännande Microsoft-kundavtal från kunden.
+Från och med 1 februari 2020 krävs en partners bekräftelse på Microsoft-kundavtal godkännande för att göra nya beställningar av CSP-erbjudanden i alla regioner under Microsofts offentliga moln. Från det datumet kommer en partner i CSP inte att kunna göra ett nytt köp, inklusive att byta plats och förnya befintliga inköp utan godkännande av Microsoft-kundavtal från kunden.
 
 >[!NOTE] 
->Microsoft-kundavtal och den nya köpupplevelsen i CSP för Azure:** Kundgodkännande av Microsoft-kundavtal krävs för köp via den nya köpupplevelsen i [CSP](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/) för Azure som blev tillgänglig 1 november 2019.
+>Microsoft-kundavtal och den nya köpupplevelsen i CSP för Azure:** Kundgodkännande av Microsoft-kundavtal krävs för att köpa via den nya köpupplevelsen i [CSP för Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/) som blev tillgänglig 1 november 2019.
 
 Den Microsoft-kundavtal är ett förenklat inköpsavtal som tillhandahåller konsekventa köpvillkor för kunder, oavsett hur kunderna väljer att köpa. Sedan den 1 oktober 2019 är den nya Microsoft-kundavtal tillgänglig i CSP-programmet och ersätter den befintliga Microsoft Cloud-avtal.
 
-Partner kan presentera den nya Microsoft-kundavtal kunder på ungefär samma sätt som de tidigare gjorde för Microsoft Cloud-avtal. När en kund har granskat och godkänt avtalet måste partnern bekräfta kundens godkännande hos Microsoft. Partner Center-instrumentpanelen, Partnercenter-API:et och .NET SDK har uppdaterats för att stödja en partner som bekräftar kundens godkännande av Microsoft-kundavtal.
+Partner kan presentera den nya Microsoft-kundavtal kunder på ungefär samma sätt som de tidigare gjorde för Microsoft Cloud-avtal. När en kund har granskat och godkänt avtalet måste partnern bekräfta kundens godkännande hos Microsoft. PartnerCenter-instrumentpanelen, Partnercenter-API:et och .NET SDK har uppdaterats för att stödja en partner som bekräftar kundens godkännande av Microsoft-kundavtal.
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -290,7 +290,7 @@ Dessa erbjudanden bör inte finnas med i prislistan och tas bort nästa månad:
 
 Dessa erbjudanden togs felaktigt bort från prislistan i januari men är fortfarande tillgängliga. läs prislistorna för december för deras priser. Planer är att lägga till dessa erbjudanden i nästa månads prislista:
 
-- Office 365 A1 för lärare (för enhet) Erbjudande-ID:`0757d14e-7c57-456f-8dab-47d164f2ff1f`
+- Office 365 A1 för lärare och lärare (för enhet) erbjudande-ID:`0757d14e-7c57-456f-8dab-47d164f2ff1f`
 - Office 365 A1 för studenter (för enhet) erbjudande-ID:`bae285a9-d56b-4384-b02f-38adc61a6f12`
 - Microsoft 365 A1 Erbjudande-ID:`778a4dce-0014-4d53-8647-314ef2b091d2`
 - Erbjudande-ID för Utvärderingsversion av Dynamics 365 Remote Assist: `545484f9-1c3e-426d-a387-0aa029146443`
@@ -352,7 +352,7 @@ Namnändring för e-handel
 
 - Erbjudanden för Dynamics 365 Retail kommer att ändras till Dynamics 365 Commerce.
 
-Customer Insights licensuppdatering
+Customer Insights uppdatering av licens
 
 Licensieringstypen ändras från AddOn till NON för följande SKU:er:
 
@@ -373,7 +373,7 @@ Den 1 februari 2020 ändrar Microsoft namnen på vissa produktfamiljer och erbju
 - [startsida Mixed Reality guide för Mixed Reality för appar](https://dynamics.microsoft.com/mixed-reality/guides/)
 - [Startsida för biz-appar för bedrägeri](/dynamics365/fraud-protection/overview)
 - [Power Platform startsida för produkter](/powerapps/maker/common-data-service/data-platform-intro#dynamics-365-and-the-common-data-service)
-- [FY20 Power Apps och Flow uppdateringar av licensiering](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
+- [FY20 Power Apps och Flow Licensing Updates](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
 - [Microsoft Dynamics 365-licensiering](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
 
 ### <a name="next-steps"></a>Nästa steg

@@ -10,15 +10,15 @@ ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 56884a5a6cbfbade881154275129c63dcd3456d8
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128322505"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128422442"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Hur partnerintjänad kredit beräknas och betalas
 
-**Lämpliga roller:** Globala | Administratörsbehörighet för | Administratörsagentens | Faktureringsadministratörskonto | Försäljningsagent
+**Lämpliga roller:** Globala | Administratörsbehörighet för | Administratörsagent | Faktureringsadministratörskonto | Försäljningsagent
 
 Partner intjänad kredit (PEC) för hanterade tjänster identifierar och delar ut förmåner till partner som äger IT-driftkontroll och hantering av en eller flera kunders Azure-miljöer. 
 
@@ -35,7 +35,7 @@ För att få partner intjänad kredit (PEC) gäller följande krav:
 
 - Du måste ha ett aktivt MPN-avtal och en giltig [rollbaserad åtkomstkontrollroll](azure-roles-perms-pec.md) [(RBAC).](/azure/role-based-access-control/overview)
 - Du måste ha [AOBO-behörighet (Admin on Behalf of)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) för kundens Azure-prenumeration, Azure-resursgrupp eller Azure-resurs eller en giltig [RBAC-roll.](azure-roles-perms-pec.md)
-- När det gäller indirekta leverantörer och deras indirekta återförsäljare är en indirekt leverantör berättigad till PEC om antingen den indirekta leverantören eller den indirekta återförsäljaren eller båda har AOBO-privilegier eller en berättigad RBAC-roll. Mer information finns i Återställa [administratörsbehörigheter för Azure CSP prenumerationer.](revoke-reinstate-csp.md)
+- När det gäller indirekta leverantörer och deras indirekta återförsäljare är en indirekt leverantör berättigad till PEC om antingen den indirekta leverantören eller den indirekta återförsäljaren eller båda har AOBO-privilegier eller en berättigad RBAC-roll. Mer information finns i [Återställa administratörsbehörigheter för Azure CSP prenumerationer.](revoke-reinstate-csp.md)
 - Partnerns MPN-ID måste tillhöra samma v-organisation som inköparens MPN-ID eller MPN-ID:t för partner för post (MPN). Mer information finns i [Länka ditt partner-ID för att se hur du påverkar delegerade resurser](/azure/lighthouse/how-to/partner-earned-credit).
 - PEC intjänas på Azure-resursnivå, resursgrupp eller prenumeration. Om en partner har giltig åtkomst på prenumerations- eller resursgruppsnivå får varje resurs som ingår i den högre entiteten PEC.
 - PEC gäller inte för följande tjänster:

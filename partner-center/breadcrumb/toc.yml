@@ -5,3 +5,10 @@
     - name: Meddelanden
       tocHref: /partner-center/announcements/
       topicHref: /partner-center/announcements/
+- name: Dokument för Partnercenter
+  tocHref: /partner-center/
+  topicHref: /partner-center/index
+  items:
+    - name: Marketplace-erbjudanden
+      tocHref: /azure/marketplace/
+      topicHref: /azure/marketplace/
