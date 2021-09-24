@@ -10,20 +10,20 @@ author: hickeys
 keywords: windows 10, uwp, mobile operators, mobile billing, mobile operator billing
 ms.localizationpriority: medium
 ms.openlocfilehash: 7fab4915273fa611d0bb0b9115926ce84521a509
-ms.sourcegitcommit: 5abf065c8852a858a0aa7185176d3e117f2be7e5
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "127958849"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128359490"
 ---
 # <a name="mobile-operator-billing"></a>Mobiloperatörsfakturering
 
 **Lämpliga roller:** Global administratör
 
 > [!NOTE]
-> Om du vill ha support om utbetalning, inklusive att konfigurera utbetalningskonton, saknade utbetalningar, lägga ut utbetalningsutbetalningar eller något annat, [kontakta Windows developer support](https://developer.microsoft.com/windows/support).
+> Om du behöver support för utbetalning, inklusive att konfigurera utbetalningskonton, saknade utbetalningar, lägga ut utbetalningsutbetalningar eller något annat, [kontakta Windows utvecklarsupporten](https://developer.microsoft.com/windows/support).
 
-Den Microsoft Store erbjuder fakturering för mobiloperatör som betalningsmetod för enheter som kör Windows 10, telefoner som kör Windows 10 Mobile och Xbox One-konsoler. Om en kunds mobiloperatör stöder den här funktionen kan kunden lägga till fakturering för mobiloperatör som betalningsmetod och använda den för att göra Store-köp med hjälp av sitt mobilkonto.
+I Microsoft Store du fakturering som betalningsmetod för enheter som kör Windows 10, telefoner som kör Windows 10 Mobile och Xbox One-konsoler. Om en kunds mobiloperatör stöder den här funktionen kan kunden lägga till fakturering för mobiloperatör som betalningsmetod och använda den för att göra Store-köp med hjälp av sitt mobilkonto.
 
 > [!TIP]
 > Om en kunds mobiloperatör erbjuder fakturering från mobiloperatören, men kunden inte kan hitta det här alternativet på sin enhet, kan du gå igenom dessa [steg.](https://support.microsoft.com/instantanswers/b25d6dd6-fb8b-3710-1e13-4d30eb01b51f)

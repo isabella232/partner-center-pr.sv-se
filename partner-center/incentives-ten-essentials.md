@@ -12,8 +12,8 @@ ms.openlocfilehash: ed1959e9b264b3f324fb0f2f528971163160f431
 ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128322427"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128366092"
 ---
 # <a name="the-10-essentials-for-working-with-incentives"></a>De 10 grundläggande för att arbeta med incitament
 

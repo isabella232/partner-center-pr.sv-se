@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b88698cec01e7a5a3701d420298d93640d0fdbbf
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 0410e8fe4239915c445125951076ff170cef3a91
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960866"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128366160"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Skapa ett MPN-konto i Partnercenter för att hantera nätverksförmåner och kompetenser
 
@@ -56,7 +56,7 @@ När du är redo att skapa ett konto i Partnercenter måste du ha följande till
 
 3. Ange företagets juridiska information.
 
-    Du kan antingen leta upp din företagsprofil eller ange företagsinformation manuellt. Om ditt företag är registrerat hos [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)använder du DUNS-ID:t för att leta upp din företagsinformation. Om du vill ange företagsinformation själv väljer du **Manuell.**
+    Du kan antingen leta upp din företagsprofil eller ange företagsinformation manuellt. Om ditt företag är registrerat med [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)använder du DUNS-ID:t för att leta upp företagets information. Om du vill ange företagsinformation själv väljer du **Manuell.**
 
     Om ditt företag finns i  **Det** begynnande, begynnande, **kyrgyzstan,** Underegien,  **Anten** eller Ryssland, och du anger din adress manuellt, kommer vi att verifiera din adress åt dig.  Om den som du anger skiljer sig från den verifierade, föreslår vi att du använder den verifierade adressen. Detta säkerställer att adresselementen standardiseras enligt definitionen av landet postnummer, korrekt formaterade och kan levereras.  
 
@@ -97,7 +97,7 @@ Följande tabell innehåller exempel på registreringsnumren som samlats in för
 | **Turkiet** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) – Skatteidentifieringsnummer<br>NIN |
 | **Ukraina**  | EGRPOU<br>EDRPOU – lokalt ID |
 | **Förenade Arabemiraten** | Skatte-ID<br>[Momsregistreringsnummer](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) – även kallat momsregistreringsnummer. Det här är det unika nummer som identifierar en skattebar person (företag) eller icke-skattebar juridisk enhet som är registrerad för moms. |
-| **USA** | [HAR –](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) Arbetsgivares id-nummer |
+| **USA** | [HAR –](https://www.irs.gov/taxtopics/tc755) Arbetsgivares id-nummer |
 | **Uzbekistan**  | INN – Skatteidentifieringsnummer |
 | **Vietnam** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Skatteidentifieringsnummer |
 | **Venezuela** | DECENTRALIS – är ett skattenummer ("Registro de Identificaci avmarkera Fiscal") |

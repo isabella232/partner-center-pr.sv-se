@@ -15,8 +15,8 @@ ms.openlocfilehash: 51706ec685519ea297e851cb4f2b862b96db3da1
 ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128322462"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128373429"
 ---
 # <a name="september-2021-announcements"></a>Meddelanden september 2021
 
@@ -33,28 +33,28 @@ ________________
 
 ### <a name="summary"></a>Sammanfattning
 
-Från och med 23 september 2021 blir produktnycklar för den lokala versionen av Business Central för dubbla användningsrättigheter tillgängliga för kunder via Administrationscenter för Microsoft 365.
+Från och med 23 september 2021 kommer produktnycklar för den lokala versionen av Business Central för dubbla användningsrättigheter att vara tillgängliga för kunder via Administrationscenter för Microsoft 365.
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
 CSP-partner
 
 ### <a name="details"></a>Information
 
-Från och med den 23 september 2021 kommer produktnycklar för den lokala versionen av Business Central för dubbelanvändningsförmån inte längre att vara tillgängliga i Partner Source Business Center (PSBC). Kunder kan självbetjäna organisationens produktnycklar via Administrationscenter för Microsoft 365.
+Från och med 23 september 2021 kommer produktnycklar för den lokala versionen av Business Central för dubbel användning att vara tillgängliga i Partner Source Business Center (PSBC). Kunder kan själv betjäna organisationens produktnycklar via Administrationscenter för Microsoft 365.
 
-Det finns inga ändringar i beställningsprocessen eller ändringsprocessen för ändring av landskod.
+Det finns inga ändringar i orderprocessen eller processen för att uppfylla ändringar i landskoden.
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Granska resurserna om det här avsnittet och dela med lämpliga intressenter i din organisation.  
-- Se till att din organisation och kundorganisationer är bekanta med den här ändringen.
+- Granska resurserna om det här ämnet och dela med lämpliga intressenter i din organisation.  
+- Se till att din organisation och dina kundorganisationer är bekanta med den här ändringen.
 - Om du inte är bekant med hur du laddar ned produktnycklar kan du läsa [Ladda ned permanent programvara och produktlicensnycklar.](/microsoft-365/admin/setup/download-software-licenses-csp?view=o365-worldwide)
-- Granska den uppdaterade processen för att uppfylla licenser för dubbel användning av Dynamics i samlingen Dubbla användningsrättigheter för [Dynamics 365 Business Central.](https://partner.microsoft.com/resources/collection/dynamics-365-business-central-dual-use-rights-resources#/)
+- Granska den uppdaterade processen för att uppfylla licenser för dubbel användning för Dynamics [i samlingen Dynamics 365 Business Central Dual Use Rights Resources](https://partner.microsoft.com/resources/collection/dynamics-365-business-central-dual-use-rights-resources#/).
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har frågor om dessa erbjudanden kan du läsa dina Yammer communityer.
+Om du har frågor om dessa erbjudanden kan du kontrollera dina Yammer communityn.
 
 ________________
 
@@ -69,17 +69,17 @@ Från och med oktober 2021 implementerar Microsoft API-begränsning för partner
 - Datum: 2021-09-21
 - Funktioner
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Partner som gör en transact genom Molnlösningsleverantör-programmet  
+Partner som gör en Molnlösningsleverantör program  
 
 ### <a name="details"></a>Information
 
-Från och med oktober 2021 implementerar Microsoft API-begränsning för en mer konsekvent prestanda inom ett tidsintervall för partner som anropar Partner Center-API:erna.För att förhindra överanvändning av resurser begränsar begränsningen antalet begäranden till en tjänst under ett tidsintervall.När ett tröskelvärde för begränsning överskrids begränsar Partnercenter eventuella ytterligare begäranden från klienten under en viss tidsperiod.
+Från oktober 2021 implementerar Microsoft API-begränsning för en mer konsekvent prestanda inom ett tidsintervall för partner som anropar Partner Center-API:erna.För att förhindra överanvändning av resurser begränsar begränsningen antalet begäranden till en tjänst under ett tidsintervall.När ett tröskelvärde för begränsning överskrids begränsar PartnerCenter eventuella ytterligare begäranden från klienten under en viss tidsperiod.
   
 #### <a name="partner-benefits"></a>Partnerförmåner
 
-Partner Center är utformat för att hantera ett stort antal begäranden, men om ett överväldigande antal begäranden inträffar hjälper begränsningen till att upprätthålla optimala prestanda och tillförlitlighet för alla partner.
+Partnercenter är utformat för att hantera ett stort antal begäranden, men om ett överväldigande antal begäranden inträffar hjälper begränsningen till att upprätthålla optimala prestanda och tillförlitlighet för alla partner.
 
 Här är några av fördelarna:
 
@@ -96,7 +96,7 @@ Här är några av fördelarna:
 | Hämta /v1/customers/{customer_id}/artifacts/{artifact_type}<br>/groups/{group_id}/lineItems/{lineitem_id}<br>/resource/{resource_id} | [Hämta en samling berättiganden](/partner-center/develop/get-a-collection-of-entitlements#retrieve-reservation-details-from-an-entitlement-by-using-sdk-v19) |
 | Hämta /v1/customers/{customer_id}/users/{use<br>r_id}/directoryroles | [Hämta användarroller för en kund](/partner-center/develop/get-user-roles-for-a-customer) |
 
-Vi rekommenderar att du överväger att använda aktivitetslogg-API:et för att öka effektiviteten och undvika begränsning. Mer information om den här funktionen finns i [informationen här.](/partner-center/develop/api-throttling-guidance)  
+Vi rekommenderar att du överväger att använda aktivitetslogg-API:et för att öka effektiviteten och undvika begränsningar. Mer information om den här funktionen finns i informationen [här.](/partner-center/develop/api-throttling-guidance)  
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -109,7 +109,7 @@ Granska resurserna [för](/partner-center/develop/api-throttling-guidance) det
 
 ________________
 
-## <a name="coming-soon-delegated-administrative-privileges-monitoring-and-self-service-removal"></a><a name="11"></a> Kommer snart: Övervakning av delegerade administratörsbehörigheter och borttagning av självbetjäning
+## <a name="coming-soon-delegated-administrative-privileges-monitoring-and-self-service-removal"></a><a name="11"></a> Kommer snart: Övervakning av delegerade administrativa privilegier och borttagning av självbetjäning
 
 ### <a name="categories"></a>Kategorier
 
@@ -120,9 +120,9 @@ ________________
 
 Microsoft lanserar nya rapporteringsverktyg som visar DAP-anslutningar (active delegated administrative privileges) så att partner kan inaktivera oanvända DAP-anslutningar.
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Partner med direktfakturering, indirekta leverantörer och indirekta återförsäljare som gör transaktioner via Molnlösningsleverantör program
+Direktfaktureringspartner, indirekta leverantörer och indirekta återförsäljare som gör transaktioner via Molnlösningsleverantör program
 
 ### <a name="details"></a>Information
 
@@ -130,9 +130,9 @@ Partner kan använda delegerade administratörsbehörigheter (DAP) för att hant
 
 För att förbättra säkerheten i partner- och kundekosystemet rekommenderar Microsoft att du inaktiverar DAP när det inte används.
 
-Från och med slutet av oktober lanserar Microsoft nya rapporteringsverktyg så att partneradministrationsagenter kan granska DAP-anslutningar med sina kunder. Den här rapporteringen visar hur partneragenter får åtkomst till kundklienter i alla klienter via DAP. Partner kan sedan granska och ta bort DAP-anslutningar som inte används.
+Från och med slutet av oktober lanserar Microsoft nya rapporteringsverktyg så att partneradministrationsagenter kan granska DAP-anslutningar med sina kunder. Den här rapporteringen visar hur partneragenter kommer åt kundklienter i alla klienter via DAP. Partner kan sedan granska och ta bort DAP-anslutningar som inte används.
 
-Om du vill veta mer om den här nya rapportfunktionen har vi skapat en [guide](https://partner.microsoft.com/resources/detail/dap-monitoring-and-self-serve-removal-pdf) som dokumenterar de olika filter och fält som är tillgängliga i rapporten.
+Om du vill veta mer om den här nya rapporteringsfunktionen har vi skapat en [guide](https://partner.microsoft.com/resources/detail/dap-monitoring-and-self-serve-removal-pdf) som dokumenterar de olika filter och fält som är tillgängliga i rapporten.
 
 #### <a name="key-considerations"></a>Viktiga överväganden
 
@@ -156,13 +156,13 @@ Granska resurserna [om](https://partner.microsoft.com/resources/collection/deleg
 
 Det [Molnlösningsleverantör månadsuppdateringsbrevet (CSP)](https://partner.microsoft.com/resources/detail/csp-monthly-update-september-2021-global) är nu tillgängligt, tillsammans med ytterligare [CSP-communityresurser](https://partner.microsoft.com/resources/collection/september-2021-csp-partner-community-content#/) som ger dig viktiga programuppdateringar.
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
 CSP-direktfaktureringspartner och indirekta leverantörer
 
 ### <a name="details"></a>Information
 
-Den här månadens resurser omfattar följande ämnen:
+Den här månadens resurser täcker följande ämnen:
 
 #### <a name="launches"></a>Lanserar
 
@@ -173,22 +173,22 @@ Den här månadens resurser omfattar följande ämnen:
 - [Introduktion till licensieringsstöd för partner](https://partner.microsoft.com/resources/detail/introduction-to-licensing-support-for-partners-pdf)
 - [Guide till webbplatsen för produktvillkor för partner](https://partner.microsoft.com/resources/detail/product-terms-site-guide-for-partners-pdf)
 - [Så här rapporterar du ett supportbedrägeri](https://partner.microsoft.com/resources/detail/how-to-report-a-support-scam-pdf)
-- [Ändring av programattribut för Microsoft 365-applikationer for Enterprise](https://partner.microsoft.com/resources/detail/program-attribute-change-for-microsoft-365-apps-for-enterprise-pdf)
+- [Ändring av programattribut för Microsoft 365-applikationer för företag](https://partner.microsoft.com/resources/detail/program-attribute-change-for-microsoft-365-apps-for-enterprise-pdf)
 
-#### <a name="csp-community-qa-reminder"></a>CSP Community Q&En påminnelse
+#### <a name="csp-community-qa-reminder"></a>CSP Community Q&A reminder
 
-Den månatliga CSP-communityn Q&A-session ger dig möjlighet att lära dig mer och ställa frågor om ändringar som påverkar programmet. Den här månadens anrop fokuserar på ämnena som anges i föregående avsnitt med mera.
+Den månatliga CSP-communityn Q&A-session ger dig möjlighet att lära dig mer och ställa frågor om ändringar som påverkar programmet. Den här månadens anrop fokuserar på ämnena som anges i föregående avsnitt och mycket mer.
 
 [Registrera dig här för att ansluta till anropet](https://globalpbocomm.eventbuilder.com/GlobalCSP).
 
-#### <a name="always-availablelaunch-content-on-demand"></a>Alltid tillgängligt – starta innehåll på begäran
+#### <a name="always-availablelaunch-content-on-demand"></a>Alltid tillgängligt – Starta innehåll på begäran
 
 I den månatliga [CSP-communitysamlingen](https://partner.microsoft.com/resources/collection/september-2021-csp-partner-community-content#/)hittar du:
 
 - Det nedladdningsbara [nyhetsbrevet CSP Monthly Update](https://partner.microsoft.com/resources/detail/csp-monthly-update-september-2021-global) som sammanställer de senaste CSP-meddelandena, uppdateringarna, händelserna och påminnelserna i ett lättläst dokument.
-- [CSP-meddelande kalender som](https://partner.microsoft.com/resources/detail/csp-announcement-calendar-september-2021-pdf) ger en tidslinjevy över kommande ändringar som påverkar programmet.
+- [CSP-meddelande kalender som](https://partner.microsoft.com/resources/detail/csp-announcement-calendar-september-2021-pdf) ger en tidslinje för kommande ändringar som påverkar programmet.
 - Den **nya** [kalendern för produktlansering](https://partner.microsoft.com/resources/detail/product-launch-calendar-september-pdf) där du kan se kommande produktlanseringar och erbjudanden.
-- Global [Kampanjberedskapsguide](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/) som samlar de senaste och kommande kampanjerna som är tillgängliga för partner och kunder.
+- Guiden [för global kampanjberedskap](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/) som samlar de senaste och kommande kampanjerna som är tillgängliga för partner och kunder.
 - [CSP startar uppdateringsresurser](https://partner.microsoft.com/resources/collection/csp-launch-topics-collection#/) med lätt att använda innehåll om viktiga operativa ändringar.
 - [Uppdaterare och påminnelser om](https://partner.microsoft.com/resources/detail/csp-september-2021-refreshers-and-reminders-pdf) viktiga CSP-ämnen som tar emot intresse och frågor.
 
@@ -196,17 +196,17 @@ Behöver du licensberedskap? [Webbseminor om månatliga CSP-spotlight-webbsemino
 
 ### <a name="next-steps"></a>Nästa steg
 
-Granska community-resurserna och registrera dig för Q&A community call (Q&A community call).
+Granska community-resurserna och registrera dig för Q&A community-anropet.
 
 ### <a name="questions"></a>Har du några frågor?
 
-Det månatliga CSP-communityn Q&Ett anrop är den bästa platsen för att ställa frågor om driftsförändringar i CSP-programmet. Du kan [skicka en fråga](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzrhg6eBq-tPjJzqc4xPoxdUQU1WQklGNDZBNVJaRkMxUDVJVUxHSkNXWS4u) upp till 48 timmar före samtalet. Alla startrelaterade frågor besvaras i anropet och/eller i Q&A-dokumentet som publicerats efter anropet. Du kan besöka förra månadens [community-samling](https://partner.microsoft.com/resources/collection/august-2021-csp-partner-community-content#/) och granska Q&A-dokumentet som publicerades efter augustihändelsen.
+Det månatliga CSP-communityn Q&A-anrop är den bästa platsen för att ställa frågor om driftsförändringar i CSP-programmet. Du kan [skicka en fråga](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzrhg6eBq-tPjJzqc4xPoxdUQU1WQklGNDZBNVJaRkMxUDVJVUxHSkNXWS4u) upp till 48 timmar före samtalet. Alla startrelaterade frågor besvaras i anropet och/eller i Q&A-dokumentet som publicerats efter anropet. Du kan besöka förra månadens [communitysamling och](https://partner.microsoft.com/resources/collection/august-2021-csp-partner-community-content#/) granska Q&A-dokumentet som publicerades efter augustihändelsen.
 
 Har du frågor om något annat CSP-ämne? Besök [supportsidan för Partnercenter.](https://partner.microsoft.com/support/?stage=1)
 
 _____________
 
-## <a name="september-co-sell-with-microsoft-qa-community-call-reminder"></a><a name="9"></a> Påminnelse om att samarbeta med Microsoft Q&en community-samtalspåminnelse i september
+## <a name="september-co-sell-with-microsoft-qa-community-call-reminder"></a><a name="9"></a> Påminnelse om att samarbeta med Microsoft Q&ett community-samtal i september
 
 ### <a name="categories"></a>Kategorier
 
@@ -215,14 +215,14 @@ _____________
 
 ### <a name="summary"></a>Sammanfattning
 
-[Registrera dig](https://globalpbocomm.eventbuilder.com/GlobalCoSell) nu för community-sessionen i september, som visar de senaste lanseringarna och förbättringarna av den kommersiella marknadsplatsen och referensmodulerna i Partnercenter.
+[Registrera dig](https://globalpbocomm.eventbuilder.com/GlobalCoSell) nu för communitysessionen i september, som visar de senaste lanseringarna och förbättringarna av den kommersiella marknadsplatsen och referensmodulerna i Partnercenter.
 
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
-Den här sessionen är dedikerad till Partnercenter-specifika användarroller som hanterar:
+Den här sessionen är dedikerad till PartnerCenter-specifika användarroller som hanterar:
 
 - Commercial Marketplace-modul för publiceringshantering av erbjudanden.
-- Referensmodul för hantering av leads och delning av möjligheter till säljförsäljning.
+- Hänvisningsmodul för hantering av leads och delning av möjligheter till säljförsäljning.
 
 Alla andra Partner Center-användare kan komma åt innehåll på begäran i [resursgalleriet för driftberedskap.](https://partner.microsoft.com/resources/cloud-solution-provider-program)
 
@@ -237,28 +237,28 @@ Viktiga artiklar för den här månaden är:
 
 #### <a name="referral"></a>Remiss
 
-- [Konfigurera säljförsäljning för ett erbjudande på den kommersiella marknadsplatsen](/azure/marketplace/co-sell-configure)
+- [Konfigurera samförsäljning för ett erbjudande på den kommersiella marknadsplatsen](/azure/marketplace/co-sell-configure)
 - [Skapa och hantera routningsregler för inkommande affärsmöjligheter: Partnercenter](../routing-rules.md)
 - [Hantera möjligheter till säljförsäljning: Partnercenter](../manage-co-sell-opportunities.md#accepted-stage)
-- [Avtalsregistreringsdata är nu tillgängliga för export i Insights](./2021-july.md#17)
+- [Avtalsregistreringsdata är nu tillgängliga för export i hänvisnings-Insights](./2021-july.md#17)
 
 #### <a name="refresh"></a>Uppdatera
 
 - [Erfarenhet av säljförsäljning i Partnercenter](/azure/marketplace/co-sell-configure#enter-your-contacts)
 - [Referenshantering i Partnercenter](https://partner.microsoft.com/resources/detail/referral-management-in-partner-center-pptx)
-- [Dela avtal för säljförsäljning i stor skala med hjälp av funktionen för massåtgärder i Partnercenter](./2021-february.md#13)
+- [Dela säljavtal i stor skala med hjälp av funktionen för massåtgärder i Partnercenter](./2021-february.md#13)
 - [Ökad flexibilitet med partnerledda samförsäljningserbjudanden](./2021-february.md#11)
-- [Hämta hänvisnings Insights i Partnercenter](../referral-insights.md)
+- [Hämta hänvisnings-Insights i Partnercenter](../referral-insights.md)
 
 ### <a name="next-steps"></a>Nästa steg
 
-Granska [communityresurserna och](https://partner.microsoft.com/resources/collection/september-2021-co-sell-partner-community-content#/)registrera dig för Q&A community call .
+Granska [communityresurserna och](https://partner.microsoft.com/resources/collection/september-2021-co-sell-partner-community-content#/)registrera dig för Q&A community-anropet.
 
 ### <a name="questions"></a>Har du några frågor?
 
-Q&A community call är den bästa platsen för att ställa frågor om operativa ändringar. Du kan [skicka en fråga](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzrhg6eBq-tPjJzqc4xPoxdUQU1WQklGNDZBNVJaRkMxUDVJVUxHSkNXWS4u) i upp till 48 timmar före anropet. Alla startrelaterade frågor besvaras i anropet och/eller i Q&A-dokumentet som publicerats efter anropet.  
+Q&A community call är den bästa platsen för att ställa frågor om operativa ändringar. Du kan [skicka en fråga](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzrhg6eBq-tPjJzqc4xPoxdUQU1WQklGNDZBNVJaRkMxUDVJVUxHSkNXWS4u) upp till 48 timmar före anropet. Alla startrelaterade frågor besvaras i anropet och/eller i Q&A-dokumentet som publicerats efter anropet.  
 
-Om du har frågor om andra ämnen kan du besöka [supportsidan för Partnercenter.](https://partner.microsoft.com/support/?stage=1)
+Om du har frågor om andra ämnen kan du gå till [supportsidan för Partnercenter.](https://partner.microsoft.com/support/?stage=1)
 
 _____________
 
@@ -271,15 +271,15 @@ _____________
 
 ### <a name="summary"></a>Sammanfattning
 
-För att hjälpa partner och kunder att driva sin verksamhet baserat på förtroende uppdaterar vi valideringsreglerna för en kunds företagsnamn och e-postadress. Detta gäller för både ny och befintlig kundinformation. Det krävs inga API-ändringar.
+För att hjälpa partner och kunder att driva sin verksamhet baserat på förtroende uppdaterar vi valideringsreglerna för en kunds företagsnamn och e-postadress. Detta gäller både ny och befintlig kundinformation. Det krävs inga API-ändringar.
 
-### <a name="impacted-audience"></a>Målgrupp som påverkas
+### <a name="impacted-audience"></a>Påverkad målgrupp
 
 CSP-direktfaktureringspartner och indirekta leverantörer
 
 ### <a name="details"></a>Information
 
-Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för validering av företagets namn och e-postadressinformation. Från och med den 22 september 2021 kommer vi att uppdatera verifieringar av e-post och företagsnamn. Mer information finns i Så [här lägger du till en ny kundpost.](../add-a-new-customer.md)
+Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för att verifiera kundens företagsnamn och e-postadressinformation. Från och med den 22 september 2021 kommer vi att uppdatera e-post- och företagsnamnsverifieringar. Mer information finns i Så [här lägger du till en ny kundpost.](../add-a-new-customer.md)
 
 #### <a name="new-rules-for-company-name-and-email-address"></a>Nya regler för företagsnamn och e-postadress
 
@@ -291,76 +291,76 @@ När du anger ett företagsnamn tillåts inte följande:
 - Använd endast specialtecken, till exempel &$^# (se [tabell](../add-a-new-customer.md#table-of-special-characters)).
 - Endast blanksteg och/eller tabbar.
 - Använda fristående förkortningar från den begränsade listan, till exempel LLC, Inc osv. (se [tabell](../add-a-new-customer.md#table-of-abbreviations)).
-- Använda namn med TDL-tillägg (Internet Top-Level Domain), till exempel ".com", ".org", ".edu", ".club" osv. (se [tabell](../add-a-new-customer.md#table-of-top-level-domain-extensions)).
+- Använda namn med TDL-tillägg (Internet Top-Level Domain), till exempel ".com", ".org", ".edu", ".club", osv. (se [tabell](../add-a-new-customer.md#table-of-top-level-domain-extensions)).
 - Använd samma tecken som upprepas tre eller flera gånger utan andra tecken, till exempel 999.
 - Använda blanksteg och/eller tabbar blandat med enskilda tecken, till exempel 1 2 3.
 
 När du anger en kunds e-postadress tillåts inte följande:
 - E-postadressen får inte innehålla @microsoft.com .
-- Kundens e-postadress får inte innehålla samma domännamn som partnern. En partner som heter ABC kan till exempel inte skapa ett e-postmeddelande för kunder med @abc.com .
+- Kundens e-postadress får inte innehålla samma domännamn som partnern. En partner som heter ABC kan till exempel inte skapa ett e-postmeddelande för kunden med @abc.com .
 
 Mer information finns under EAP-webbsemin:
 - Däck: [https://www.yammer.com/cloudpartnercommunity/#/files/1094484746240](https://www.yammer.com/cloudpartnercommunity/#/files/1094484746240)
 
 - Inspelning: [https://www.yammer.com/cloudpartnercommunity/#/files/1094484361216](https://www.yammer.com/cloudpartnercommunity/#/files/1094484361216)
  
-#### <a name="partner-and-customer-impact"></a>Partner- och kundpåverkan
+#### <a name="partner-and-customer-impact"></a>Påverkan på partner och kund
 
 Partner kommer inte att kunna skapa kunder om de inte följer ovanstående regler från den 22 september.
 
 _____________
 
-## <a name="readiness-dual-mode-attestation-and-additional-reseller-declaration"></a><a name="7"></a>Beredskap: Attestation med dubbla lägen och ytterligare återförsäljardeklaration
+## <a name="readiness-dual-mode-attestation-and-additional-reseller-declaration"></a><a name="7"></a>Beredskap: Atterstation med dubbla lägen och ytterligare återförsäljardeklaration
 
 ### <a name="summary"></a>Sammanfattning
 
-För att hjälpa partner och kunder att driva sin verksamhet baserat på förtroende kräver vi att partner intygar att de fungerar som direkta eller indirekta partner när de använder samma klientorganisations-ID per transaktion.
+För att hjälpa partner och kunder att driva sin verksamhet baserat på förtroende kräver vi att partnern ska intyga att de fungerar som direkta eller indirekta partner när de använder samma klientorganisations-ID per transaktion.
 
-Vi begär också att alla partner som gör transaktioner i EU-/EFTA-länder deklarerar ytterligare återförsäljare (upp till 5) som ingår i transaktionen.
+Vi begär också att alla partner som gör transaktioner i EU-/EFTA-länder deklarerar ytterligare återförsäljare (upp till 5) som är inblandade i transaktionen.
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2021-09-07
 - Pilotberedskap för WW-uppskjutning sker i december
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
 Indirekta CSP-leverantörer som är både direkta och indirekta partner
 
-Indirekta partner som gör en överträdelse i EU-/EFTA-länder
+Indirekta partner som gör överträdelser i EU/EFTA-länder
 
 ### <a name="details"></a>Information
 
 Microsoft körs med förtroende. Vi strävar efter att tillhandahålla en kompatibel, säker och säker metod för att göra kundprenumerationer i CSP-programmet.
 
-Från och med den 7 september 2021 kommer vi att öppna ett pilottest för partner för att få möjlighet att testa mot nya attesteringskrav och ytterligare återförsäljare (endast EU/EFTA) ändringar som sker i API:erna Skapa kundvagn, Uppdatera kundvagn och Skapa beställning. Observera att dessa ändringar kommer att bryta befintliga upplevelser för dessa API:er. Därför rekommenderar vi starkt att partner tar tillfället i akt att delta i pilottestet före den fullständiga uppskjutningen i december.
+Från och med den 7 september 2021 kommer vi att öppna ett pilottest för partner för att få möjlighet att testa mot nya attesteringskrav och ytterligare återförsäljare (endast EU/EFTA) ändringar som inträffar i API:erna Skapa kundvagn, Uppdatera kundvagn och Skapa beställning. Observera att dessa ändringar kommer att bryta befintliga upplevelser för dessa API:er. Därför rekommenderar vi starkt att partner tar tillfället i akt att delta i pilottestet innan den fullständiga uppskjutningen i december.
 
-#### <a name="partner-and-customer-impact"></a>Påverkan på partner och kund
+#### <a name="partner-and-customer-impact"></a>Partner- och kundpåverkan
 
-- STOR ÄNDRING: Indirekta partner kommer inte att kunna slutföra köp utan att förstestera att de fungerar som direkta eller indirekta partner
-- EU-/EFTA-partner följer inte EU-regler om de inte deklarerar och inkluderar ytterligare återförsäljare som ingår i transaktionen
+- NY ÄNDRING: Indirekta partner kommer inte att kunna slutföra köp utan att först ha intyg om att de fungerar som direkta eller indirekta partner
+- EU-/EFTA-partner följer inte EU-regler om de inte deklarerar och inkluderar ytterligare återförsäljare som är inblandade i transaktionen
 - Mer information finns under EAP-webbsemin: 
 - Däck: [https://www.yammer.com/cloudpartnercommunity/#/files/1094484746240](https://www.yammer.com/cloudpartnercommunity/#/files/1094484746240)
 - Inspelning: [https://www.yammer.com/cloudpartnercommunity/#/files/1094484361216](https://www.yammer.com/cloudpartnercommunity/#/files/1094484361216)
 
-Följande API:er påverkas och information har delats och uppdaterats därefter:
+Följande API:er påverkas och informationen har delats och uppdaterats därefter:
 
-- [Skapa en kundorder – PartnerCenter-apputvecklare](/partner-center/develop/create-an-order)
+- [Skapa en kundorder – partnercenterapputvecklare](/partner-center/develop/create-an-order)
 - [Skapa en kundvagn – partnercenterapputvecklare](/partner-center/develop/create-a-cart)
-- [Uppdatera en kundvagn – Partnercenter-apputvecklare](/partner-center/develop/update-a-cart)
+- [Uppdatera en kundvagn – partnercenterapputvecklare](/partner-center/develop/update-a-cart)
 
 De ytterligare återförsäljarna påverkar partner som gör transaktioner i följande EU-/EFTA-länder:
 
-| EU/EFTA-länder | &nbsp; | &nbsp; |
+| EU-/EFTA-länder | &nbsp; | &nbsp; |
 | --- | --- | --- |
-| Andorra<br>Österrike<br>Belgien<br>Bouvetön<br>Bulgarien<br>Kroatien<br>Cypern<br>Tjeckien<br>Danmark<br>Estland<br>Färöarna<br>Finland<br>Frankrike<br>Tyskland<br>Gibraltar | Grekland<br>Grönland<br>Guernsey<br>See (covers Vatikanstad)<br>Ungern<br>Island<br>Irland<br>Isle of Man<br>Italien<br>Jersey<br>Lettland<br>Liechtenstein<br>Litauen<br>Luxemburg<br>Malta | Monaco<br>Nederländerna<br>Norge<br>Polen<br>Portugal<br>Rumänien<br>San Marino<br>Slovakien<br>Slovenien<br>Spanien<br>Svalbard och Jan Mayen<br>Sverige<br>Schweiz<br>Storbritannien: TBD |
+| Andorra<br>Österrike<br>Belgien<br>Bouvetön<br>Bulgarien<br>Kroatien<br>Cypern<br>Tjeckien<br>Danmark<br>Estland<br>Färöarna<br>Finland<br>Frankrike<br>Tyskland<br>Gibraltar | Grekland<br>Grönland<br>Guernsey<br>See (covers Vatikan city)<br>Ungern<br>Island<br>Irland<br>Isle of Man<br>Italien<br>Jersey<br>Lettland<br>Liechtenstein<br>Litauen<br>Luxemburg<br>Malta | Monaco<br>Nederländerna<br>Norge<br>Polen<br>Portugal<br>Rumänien<br>San Marino<br>Slovakien<br>Slovenien<br>Spanien<br>Svalbard och Jan Mayen<br>Sverige<br>Schweiz<br>Storbritannien: TBD |
 |
 
-Om du vill delta i piloten kan du kontakta ämnesexperten (AliJektki) och ange partnerns klientorganisations-ID så att de kan läggas till i flygresan.
+Om du vill delta i piloten ska du kontakta ämnesexperten (AliCertifikatki) och ange partnerns klientorganisations-ID så att de kan läggas till i flygresan.
 
 _____________
 
-## <a name="perpetual-software-and-software-subscriptions-price-lists-republished-to-fix-price-increases-in-russia"></a><a name="6"></a>Prislistor för permanent programvara och programvaruprenumerationer publiceras på nytt för att åtgärda prisökningar i Ryssland
+## <a name="perpetual-software-and-software-subscriptions-price-lists-republished-to-fix-price-increases-in-russia"></a><a name="6"></a>Löpande prislistor för programvaru- och programvaruprenumerationer publiceras på nytt för att åtgärda prisökningar i Ryssland
 
 ### <a name="categories"></a>Kategorier
 
@@ -369,45 +369,45 @@ _____________
 
 ### <a name="summary"></a>Sammanfattning
 
-Prislistorna för permanent programvara och programvaruprenumerationer som publicerades den 1 september 2021 publicerades på nytt den 3 september för att åtgärda ett prisproblem i Ryssland.
+Prislistorna för permanent programvara och programvaruprenumerationer som publicerades den 1 september 2021 återpublicerades den 3 september för att åtgärda ett prisproblem i Ryssland.
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Indirekta leverantörer och direktfaktureringspartner som gör permanenta programvaru- och programvaruprenumerationer i Molnlösningsleverantör i Ryssland.
+Indirekta leverantörer och direktfaktureringspartner som överför permanenta programvaru- och programvaruprenumerationer i Molnlösningsleverantör i Ryssland.
 
 ### <a name="details"></a>Information
 
-De permanenta prislistorna för programvaru- och programvaruprenumerationer som publicerades den 1 september hade en felaktig prisökning på 15,2 % för alla produkter.
+De permanenta prislistorna för programvaru- och programvaruprenumerationer som publicerades den 1 september hade en felaktig prisökning på 15,2 % som angavs för alla produkter.
 
 Prisökningen på ~15,2 % börjar gälla den 1 oktober **2021**, inte i september. Prislistorna har publicerats på nytt med rätt prisinformation.
 
-Partner som har köpt produkter mellan 1 september och 3 september debiteras till de korrigerade priserna som visas i de senaste prislistorna.
+Partner som har köpt produkter mellan 1 september och 3 september debiteras enligt de korrigerade priserna som visas i de senaste prislistorna.
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Partner som gör permanenta programvaru- och programvaruprenumerationer i Ryssland bör ladda ned den senaste prislistan för att se de korrigerade priserna.
+- Partner som använder permanent programvara och programvaruprenumerationer i Ryssland bör ladda ned den senaste prislistan för att se de korrigerade priserna.
 - Information om prisökningarna som kommer i oktober finns i artikeln [Microsoft justerar licensieringsprogrammet för kommersiella kunder i Ryssland.](https://news.microsoft.com/ru-ru/licensing-changes-at-microsoft-russia-2021/)
 
 _____________
 
-## <a name="corrections-to-september-license-based-services-price-list-and-october-preview-for-microsoft-365-business-basic-usd"></a><a name="5"></a>Korrigeringar av prislistan för septemberlicensbaserade tjänster och oktoberförhandsvisning för Microsoft 365 Business Basic (USD)
+## <a name="corrections-to-september-license-based-services-price-list-and-october-preview-for-microsoft-365-business-basic-usd"></a><a name="5"></a>Korrigeringar av prislistan för septemberlicensbaserade tjänster och oktoberförhandsvisningen för Microsoft 365 Business Basic (USD)
 
 ### <a name="summary"></a>Sammanfattning
 
-Prislistan för september och förhandsversionen i oktober hade ett felaktigt listpris för Microsoft 365 Business Basic i USD.
+Septemberprislistan och oktoberförhandsvisningen hade ett felaktigt listpris för Microsoft 365 Business Basic i USD.
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2021-09-02
 - Erbjudanden/marknader
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Indirekta leverantörer och direktfaktureringspartner som transacting license-based services in the Molnlösningsleverantör program.
+Indirekta leverantörer och direktfaktureringspartner som överför licensbaserade tjänster i Molnlösningsleverantör program.
 
 ### <a name="details"></a>Information
 
-Prislistan för september och oktoberförhandsvisningen för licensbaserade tjänster som publicerades den 1 september 2021 hade ett felaktigt listpris för Microsoft 365 Business Basic. Korrigerade prislistor publicerades den 2 september 2021. Detta påverkar endast USD.
+Prislistan för september och förhandsversionen av licensbaserade tjänster som publicerades den 1 september 2021 hade ett felaktigt listpris för Microsoft 365 Business Basic. Korrigerade prislistor publicerades den 2 september 2021. Detta påverkar endast USD.
 
 Det påverkade erbjudandet omfattar:
 
@@ -558,26 +558,26 @@ Den 1 september 2021 har Microsoft informerat partner om nästa steg i utvecklin
 
 #### <a name="launch-of-seat-based-offers-for-integrated-sandbox-testing"></a>Lansering av platsbaserade erbjudanden för integrerad sandbox-testning
 
-- Ingen åtgärd krävs om din organisation har etablerat en integrerad sandbox-miljö. Om din organisation inte har en integrerad sandbox-miljö följer du dessa [steg för](/partner-center/develop/indirect-provider-sandbox-capabilities) att skapa en.
-- Läs [CSP-handboken](https://partner.microsoft.com/resources/detail/operating-guide-new-commerce-experience-for-csp-seat-based-offers-pdf) för Microsoft 365, Dynamics 365, Power Platform och Windows 365 i den nya handelsupplevelsen för att lära dig mer om funktioner, affärsregler och stegvisa instruktioner för lanseringen. Kontrollera regelbundet handboken eftersom den uppdateras regelbundet.
+- Ingen åtgärd krävs om din organisation har etablerat en integrerad sandbox-miljö. Om din organisation inte har en integrerad sandbox-miljö följer du dessa steg [för](/partner-center/develop/indirect-provider-sandbox-capabilities) att skapa en.
+- Läs [CSP-handboken](https://partner.microsoft.com/resources/detail/operating-guide-new-commerce-experience-for-csp-seat-based-offers-pdf) för Microsoft 365, Dynamics 365, Power Platform och Windows 365 i den nya handelsupplevelsen för att lära dig mer om funktioner, affärsregler och stegvisa instruktioner för versionen. Kontrollera regelbundet handboken eftersom den uppdateras regelbundet.
 - Granska resurserna som beskrivs i [beredskapskartan](https://partner.microsoft.com/resources/detail/readiness-map-new-commerce-experienceseat-based-offers-pdf).
 - Läs [API-dokumentationsmappen](https://partner.microsoft.com/resources/collection/api-documentation#/).
-- För support loggar du en supportbegäran eller publicerar till konversationerna i [Partnercenter-SDK-](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=6589502)och API Yammer-gruppen, där presentationer och inspelningar av genomgång av funktioner publiceras under september.
+- Om du behöver support loggar du en supportbegäran eller gör ett inlägg i konversationerna i [Partnercenter-SDK-](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=6589502)och API Yammer-gruppen , där presentationer och inspelningar av funktionsinlägg publiceras under september månad.
 
-#### <a name="reminder-for-upcoming-csp-qa-calls-in-september"></a>Påminnelse för kommande CSP Q&A-anrop i september
+#### <a name="reminder-for-upcoming-csp-qa-calls-in-september"></a>Påminnelse om kommande CSP Q&A-anrop i september
 
 - Registrera dig för kommande [CSP Q&A Community Calls](https://globalpbocomm.eventbuilder.com/GlobalCSP) den 15 september eller 16 september.
-- Granska den nya handelsupplevelsen för CSP-platsbaserade erbjudanden [för](https://partner.microsoft.com/resources/collection/new-commerce-experience-for-csp-seat-based-offers#/) den här lanseringen.
-- Delta i CSP Q&A Community Call och ställ frågor som din organisation har angående den nya handelsupplevelsen för Microsoft 365, Dynamics 365, Power Platform och Windows 365-platsbaserad för bredd och rörelse.
+- Läs den nya handelsupplevelsen för CSP-platsbaserade erbjudanden [för den](https://partner.microsoft.com/resources/collection/new-commerce-experience-for-csp-seat-based-offers#/) här lanseringen.
+- Delta i CSP Q&A Community Call och ställ frågor som din organisation har angående den nya handelsupplevelsen för Microsoft 365, Dynamics 365, Power Platform och Windows 365-platsbaserad för bredd rörelse.
 
-#### <a name="microsoft-commerce-incentive-program"></a>Incitamentprogram för Microsoft Commerce
+#### <a name="microsoft-commerce-incentive-program"></a>Microsoft Commerce Incitamentprogram
 
-- Granska kommunikationen i den kommande förbättrade partnerupplevelsen i den [Microsoft Commerce Incentives resurssamlingen](https://partner.microsoft.com/asset/collection/microsoft-commerce-incentive-resources#/).
-- Granska de uppdaterade FY22-partnerincitamentguiderna på [Partner Incentives-portalen.](https://microsoft.sharepoint.com/teams/PartnerIncentivesPortal)
+- Granska kommunikationen i den kommande förbättrade partnerupplevelsen i Microsoft Commerce Incentives [resurssamlingen](https://partner.microsoft.com/asset/collection/microsoft-commerce-incentive-resources#/).
+- Granska de uppdaterade FY22-partnerincitamentguiderna på [partnerincitamentportalen.](https://microsoft.sharepoint.com/teams/PartnerIncentivesPortal)
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har fler frågor om dessa erbjudanden kan du läsa dina Yammer communityer.
+Om du har fler frågor om dessa erbjudanden kan du läsa dina Yammer communityn.
 
 _____________
 
@@ -585,20 +585,20 @@ _____________
 
 ### <a name="summary"></a>Sammanfattning
 
-Produktlanseringskalendern för september 2021 har nu publicerats.
+Produktlanserings kalender för september 2021 publiceras nu.
 
 ### <a name="categories"></a>Kategorier
 
 - Datum: 2021-09-01
 - Utveckla din verksamhet
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
 Alla partner som gör en Molnlösningsleverantör (CSP)
 
 ### <a name="details"></a>Information
 
-Produktlanseringskalendern för [september](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) 2021 är nu tillgänglig i resursgalleriet för driftberedskap. Visa kommande produktlanseringar och erbjudanden här.
+Kalendern för produktlansering september 2021 [](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) är nu tillgänglig i resursgalleriet för driftberedskap. Visa kommande produktlanseringar och erbjudanden här.
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -606,11 +606,11 @@ Granska kalendern [för produktlansering](https://partner.microsoft.com/resource
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har fler frågor om dessa erbjudanden kan du läsa dina Yammer communityer.
+Om du har fler frågor om dessa erbjudanden kan du läsa dina Yammer communityn.
 
 _____________
 
-## <a name="software-in-microsoft-china-cloud-solution-provider-program-mccl-csp-to-start-transactions-from-august-12"></a><a name="1"></a>Programvara i Microsoft China Molnlösningsleverantör-program (MCCL CSP) för att starta transaktioner från den 12 augusti
+## <a name="software-in-microsoft-china-cloud-solution-provider-program-mccl-csp-to-start-transactions-from-august-12"></a><a name="1"></a>Programvara i Microsoft China Molnlösningsleverantör-program (MCCL CSP) för att starta transaktioner från och med 12 augusti
 
 ### <a name="summary"></a>Sammanfattning
 
@@ -621,7 +621,7 @@ Som en uppföljning till vår uppdatering från den 3 augusti startar programvar
 - Datum: 2021-09-01
 - Utveckla din verksamhet
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
 MCCL CSP-programpartner
 
@@ -635,38 +635,38 @@ MCCL CSP-programpartner
 
 #### <a name="open-license-program-deprecation"></a>Utfasning av licensprogram
 
-- Från och med den 1 januari 2022 kan kunder inte längre köpa eller förnya programvarulicenser via Microsoft Open License-programmet.
+- Från och med 1 januari 2022 kan kunder inte längre köpa eller förnya programvarulicenser via Microsoft Open License-programmet.
 
 - Kunder kan fortsätta att ha fullständiga rättigheter och åtkomst till alla permanenta programvarulicenser som köpts via Open License-programmet även efter utfasningen. De kan också fortfarande komma åt Volume Licensing Service Center för att hantera dessa licenser och tjänster.
 
 #### <a name="software-assurance-sa-purchases"></a>Software Assurance köp (SA)
 
-- SA-erbjudanden med Open License (L&SA) fortsätter att vara tillgängliga i Open Value (OV) och Open Value Subscription (OVS). Varken SA eller L&SA är dock tillgängliga i MCCL CSP-programmet eftersom det inte finns någon plan för att erbjuda detta i MCCL CSP.
+- SA-erbjudanden med Open License (L&SA) fortsätter att vara tillgängliga i Open Value (OV) och Open Value Subscription (OVS). Men varken SA eller L&SA är tillgängliga i MCCL CSP-programmet eftersom det inte finns någon plan för att erbjuda detta i MCCL CSP.
 
-- SA-förmånerna fortsätter tills SA-perioden upphör att gälla, även om giltighetstiden infaller efter den 1 januari 2022.
+- SA-förmånerna fortsätter tills SA-perioden upphör att gälla, även om den upphör att gälla efter den 1 januari 2022.
 
 - Microsoft OV-programmet rekommenderas för framtida inköp som inkluderar SA.
 
 >[!NOTE]
 >Det finns inga planer på att ändra OV- och OVS-programmen.
 
-#### <a name="partner-change-management"></a>Ändringshantering för partner
+#### <a name="partner-change-management"></a>Partnerändringshantering
 
-- Befintliga Microsoft Open-distributörer har publicerats som indirekta MCCL CSP-leverantörer.
+- Befintliga Microsoft Open-distributörer har publicerats som indirekta MCCL-leverantörer.
 
-- Indirekta leverantörer och utvalda indirekta återförsäljare bjuds in att utföra testning av produktionsmiljön i augusti för att säkerställa transaktionsfunktionen.
+- Indirekta leverantörer och utvalda indirekta återförsäljare bjuds in att genomföra testning av produktionsmiljön i augusti för att säkerställa transaktionsfunktionen.
 
-- Beredskapsworkshops för indirekta partner startades i juli och fortsätter till december 2021.
+- Beredskapsworkshops för indirekta partner startade i juli och fortsätter till december 2021.
 
 ### <a name="next-steps"></a>Nästa steg
 
 Gör dig redo för den här ändringen med hjälp av följande resurser:
 
 - [Vad är ny handel?](https://partner.microsoft.com/resources/detail/new-commerce-experience-introduction)
-- [Spelbok för indirekt MCCL CSP-leverantör](https://microsoftapc.sharepoint.com/:b:/t/ChinaLicensingHome/EeWi5axiZ_RCkTbxa-brE-sBGYdLJ5idpnZvFt2MFiTLWw?e=6itfqY)
-- [Spelbok för indirekt MCCL CSP-återförsäljare](https://microsoftapc.sharepoint.com/:b:/t/ChinaLicensingHome/EY-csVS7lFdKpwkRqeJJ4hkBPGWv4qkfINictqVrwKVLxQ?e=9G6ZY1)
+- [Spelbok om indirekt MCCL CSP-leverantör](https://microsoftapc.sharepoint.com/:b:/t/ChinaLicensingHome/EeWi5axiZ_RCkTbxa-brE-sBGYdLJ5idpnZvFt2MFiTLWw?e=6itfqY)
+- [Spelbok om indirekt MCCL-återförsäljare](https://microsoftapc.sharepoint.com/:b:/t/ChinaLicensingHome/EY-csVS7lFdKpwkRqeJJ4hkBPGWv4qkfINictqVrwKVLxQ?e=9G6ZY1)
 
-Observera att dessa ändringar endast gäller för MCCL CSP och inte har någon inverkan på 21 Vianet CSP.
+Observera att dessa ändringar endast gäller för MCCL CSP och inte påverkar 21 Vianet CSP.
 
 ### <a name="questions"></a>Har du några frågor?
 

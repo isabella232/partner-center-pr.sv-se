@@ -10,11 +10,11 @@ ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 3123313525fb245db2abbe3175cd820b53c41898
-ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128312206"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128366075"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Sälja programvaruprenumerationer via Molnlösningsleverantör (CSP)-programmet
 
@@ -24,7 +24,7 @@ Med Azure-reservationer och serverprenumerationer (Windows Server- och SQL Serve
 
 Nu kan du skaffa, etablera och hantera Azure-reservationer och serverprenumerationer åt kommersiella kunder via Partnercenter och Azure Portal genom att dra nytta av Azure Hybrid-förmån.
 
-Med Azure Hybrid-förmån får du mer värde av dina Windows Server-licenser och kan spara upp till 40 procent på virtuella datorer. Du kan använda förmånen med Windows Server Datacenter- och Standard Edition-licenser som omfattas av Software Assurance. Beroende på utgåva kan du konvertera eller återanvända dina licenser för att köra Windows Server virtual machines i Azure och betala en lägre beräkningshastighet (till exempel priser för virtuella Linux-datorer).
+Med Azure Hybrid-förmån får du mer värde av dina Windows Server-licenser och sparar upp till 40 procent på virtuella datorer. Du kan använda förmånen med Windows Server Datacenter- och Standard Edition-licenser som omfattas av Software Assurance. Beroende på utgåva kan du konvertera eller återanvända dina licenser för att köra virtuella Windows Server-datorer i Azure och betala en lägre beräkningshastighet (till exempel priser för virtuella Linux-datorer).
 
 ## <a name="azure-reservations-unavailable-markets"></a>Otillgängliga marknader för Azure-reservationer
 
@@ -106,7 +106,7 @@ När du har köpt din programvara måste du eller dina kunder ladda ned den (par
 >Endast kunder har åtkomst till att se produktnycklarna och ladda ned information i Microsoft 365 Admin Center (global administratörsroll krävs). Partner måste använda Partnercenter för att se den här informationen.
 
 > [!NOTE]
-> CSP-köp aktiveras via en fleraktiveringsnyckel (MAK). nyckelhanteringstjänst (KMS) (KMS)-nycklar tillåts inte, inte ens på begäran. 
+> CSP-köp aktiveras via en fleraktiveringsnyckel (MAK). nyckelhanteringstjänst (KMS) (KMS)-nycklar tillåts inte, inte ens vid begäran. 
 
 ## <a name="move-a-customers-on-premises-license-from-vl-to-csp-with-no-downtime"></a>Flytta en kunds lokala licens från VL till CSP utan avbrottstid
 
@@ -118,7 +118,7 @@ Mer information finns i Aktivera [klienter som kör Windows 10 (Windows 10) – 
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Nedladdning av serverprenumeration och licensnycklar som är tillgängliga via Microsoft 365 Admin Center för kunder 
 
-Dina kunder kommer att kunna hämta licensnycklar och nedladdningar för CSP-serverprenumeration från Microsoft 365 Admin Center. Om du vill se licensnycklar och nedladdningar för CSP-serverprenumerationen måste kunden gå till fliken Microsoft 365 Admin Center > Billing > Your products > Software (Dina produkter > **Software).** Mer information finns i [fliken Programvara under Fakturering.](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)  
+Dina kunder kommer att kunna hämta licensnycklar och nedladdningar för CSP-serverprenumeration från Microsoft 365 Admin Center. Om du vill se licensnycklar och nedladdningar för CSP-serverprenumerationen måste kunden gå till Microsoft 365 Admin Center > **Billing > Your products > Software (Dina** produkter på fliken Programvara). Mer information finns i [fliken Programvara under Fakturering.](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Visa aktivitet för åtkomst till programvarunyckel och nedladdning av programvara
 

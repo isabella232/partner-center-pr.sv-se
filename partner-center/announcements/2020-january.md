@@ -10,11 +10,11 @@ ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.openlocfilehash: a5e062f9173ea65f93ada81693064f3c0519a7ae
-ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
+ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/20/2021
-ms.locfileid: "128007149"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128360227"
 ---
 # <a name="january-2020-announcements"></a>Meddelanden januari 2020
 
@@ -24,7 +24,7 @@ Den här sidan innehåller information om meddelanden för Microsoft Partner Cen
 
 _________________
 
-## <a name="windows-server-and-sql-server-subscriptions-available-to-cloud-solution-provider-csp-partners-in-russia-from-february-1-2020"></a><a id="7"/></a>Windows Server- SQL Server prenumerationer som är tillgängliga för Molnlösningsleverantör(CSP)-partner i Ryssland från och med 1 februari 2020
+## <a name="windows-server-and-sql-server-subscriptions-available-to-cloud-solution-provider-csp-partners-in-russia-from-february-1-2020"></a><a id="7"/></a>Windows Server- SQL Server prenumerationer som är tillgängliga för Molnlösningsleverantör (CSP)-partner i Ryssland från den 1 februari 2020
 
 ### <a name="categories"></a>Kategorier
 
@@ -52,7 +52,7 @@ Partner kan nu skaffa, etablera och hantera Azure-reservationer och Windows Serv
 
 ### <a name="additional-resources"></a>Ytterligare resurser
 
-- CSP-programresurser på partnergallerisidan: [Windows Server och SQL Server prenumerationer som är tillgängliga i Ryssland för CSP-partner](https://partner.microsoft.com/resources/collection/geo-expansion-for-azure-reservations-and-server-subscriptions-for-windows-server-and-sql-server#/)
+- CSP-programresurser på sidan för partnergalleriet: [Windows server och SQL Server prenumerationer som är tillgängliga i Ryssland för CSP-partner](https://partner.microsoft.com/resources/collection/geo-expansion-for-azure-reservations-and-server-subscriptions-for-windows-server-and-sql-server#/)
 - [Läs mer om Partnercenter](../azure-plan-get-started.md)
 
 ### <a name="next-steps"></a>Nästa steg
@@ -76,7 +76,7 @@ _________________
 
 ### <a name="summary"></a>Sammanfattning
 
-Från och med 7 januari 2020 har Microsoft infört Mötesrum och möten för Microsoft 365 F1 för GCC. Mer information finns i prislistan.
+Från och med den 7 januari 2020 har Microsoft Mötesrum tillägg för möten och Microsoft 365 F1 för GCC. Mer information finns i prislistan.
 
 ### <a name="impacted-audience"></a>Påverkad målgrupp
 
@@ -84,11 +84,11 @@ Alla partner som GCC erbjudanden i Molnlösningsleverantör (CSP)
 
 ### <a name="details"></a>Information
 
-Microsoft är glada över att kunna meddela att både Mötesrum- och Meetings-tillägg för Microsoft 365 F1 är tillgängliga för CSP-GCC från och med 7 januari 2020.
+Microsoft är glada över att kunna meddela att både Mötesrum- och Meetings-tillägg för Microsoft 365 F1 är tillgängliga för CSP-GCC, från och med 7 januari 2020.
 
 Den här lanseringen förbättrar Teams för Microsoft 365 F1, vilket är vår avancerade programsvit som förbättrar produktiviteten, säkerheten och innovationen för våra myndighetskunder.
 
-Microsoft Teams Rum är Microsofts interna konferenslösning för Microsoft Teams och Skype för företag möten. Mötesrum- och möten-tillägg för Microsoft Teams Rum gör det möjligt för dina GCC-kunders mötesrum och huddle spaces att kunna delta i Teams- och Skype för företag-möten, vara värdar för möten där deltagare kan ringa till konferenssamtal och ansluta till telefoni med telefonsystem.
+Microsoft Teams Rum är Microsofts interna konferenslösning för Microsoft Teams och Skype för företag möten. Mötesrum- och möten-tillägg för Microsoft Teams Rum gör det möjligt för dina GCC-kunders mötesrum och huddle spaces att kunna delta i Teams- och Skype för företag-möten, vara värd för möten där deltagare kan ringa till konferenssamtal och ansluta till telefoni med telefonsystem.
 
 ### <a name="offer-list"></a>Erbjudandelista
 
@@ -106,7 +106,7 @@ Bekanta dig med prislistan och dela den här informationen med alla lämpliga ko
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du vill ha fler frågor om dessa erbjudanden kontaktar du din representant i Microsoft-konto eller kontrollerar din Yammer partner community.
+För ytterligare frågor om dessa erbjudanden, kontakta din representant i Microsoft-konto eller kontrollera din Yammer partner community.
 
 _________________
 
@@ -125,7 +125,7 @@ Alla partner som onlinetjänster till kommersiella kunder.
 
 ### <a name="summary"></a>Sammanfattning
 
-Den 14 januari 2020  släppte Microsoft funktioner för självbetjäning, prenumeration och licenshantering för Power BI för kommersiella molnkunder i USA. Den **28 januari 2020** blev dessa funktioner sedan tillgängliga **för Power Apps** och **Power Automate** i USA.
+Den 14 januari 2020  släppte Microsoft funktioner för självbetjäning, prenumeration och licenshantering för Power BI för kunder i det kommersiella molnet i USA. Den **28 januari 2020** blev dessa funktioner tillgängliga **för Power Apps** och **Power Automate** i USA.
 
 Senare i kvartal 3 FY20 gör vi självbetjäning för Power Platform tillgängliga för kommersiella kunder i flera ytterligare länder. När vi släpps till dessa länder kommer vi att uppdatera dokumentationen för vanliga frågor och svar för kunden så att den återspeglar deras tillgänglighet. Vanliga frågor och svar om kunden ingår i beredskapsresurserna som anges nedan. Se till att kontrollera detta ofta under de kommande månaderna.
 
@@ -133,10 +133,10 @@ Granska alla resurser i resursgalleriet (se Ytterligare resurser nedan) för ytt
 
 **PowerShell-skriptet** som gör det möjligt för IT-administratörer att styra (aktivera eller inaktivera) köp via självbetjäning per produkt är nu **tillgängligt.** Teknisk dokumentation finns i avsnittet Ytterligare resurser nedan.
 
-UPPDATERING: Under den senaste veckan har vi lyssnat på din feedback om hur våra köpfunktioner för självbetjäning har distribuerats för Power Platform produkter. Tack! Baserat på din feedback har vi justerat vår metod för att bättre hantera behoven hos både IT-administratörer och slutanvändare i organisationer. Vi gör följande ändringar i planen:
+UPPDATERING: Under den senaste veckan har vi lyssnat på din feedback om hur våra självbetjäningsköpsfunktioner har distribuerats för Power Platform produkter. Tack! Baserat på din feedback har vi justerat vår metod för att bättre hantera behoven hos både IT-administratörer och slutanvändare i organisationer. Vi gör följande ändringar i planen:
 
 - Den 19 november ger vi IT-administratörer ett sätt att inaktivera självbetjäning för köp per produkt via PowerShell. Mer information kommer.
-- För att ge mer tid att förbereda oss för den här ändringen uppdaterar vi lanseringen för köpfunktioner för självbetjäning för Power Platform-produkter till att börja med Power BI den 14 januari för alla kommersiella molnkunder. Mer information om Power Apps och Power Automate kommer att komma.
+- För att ge mer tid att förbereda oss för den här ändringen uppdaterar vi lanseringen av köpfunktioner för självbetjäning för Power Platform-produkter till att börja med Power BI den 14 januari för alla kommersiella molnkunder. Mer information om Power Apps och Power Automate kommer att komma.
 
 Tack än en gång för att du tog dig tid att lämna feedback. Vi ser fram emot ett fortsatt partnerskap för att hjälpa organisationer att uppnå mer.
 
@@ -161,7 +161,7 @@ Partner som inte har administrativ åtkomst kan fortfarande skapa konceptbevispr
 
 - Ursprunglig publiceringsdatum: 21 oktober 2019
 - Uppdaterade Power BI lanseringsdatum och introducerade PowerShell-datum: 1 november 2019
-- PowerShell-skript är nu tillgängligt för IT-administratörer. Microsoft Flow till den Power Automate: 19 november 2019.
+- PowerShell-skript är nu tillgängligt för IT-administratörer. Microsoft Flow uppdaterades till Power Automate: 19 november 2019.
 - Lansering av självbetjäningsköp för Power BI och startinformation för Power Apps, Power Automate och andra länder: – 14 januari 2020
 - Lansering av självbetjäningsköp för Power Apps och Power Automate: 28 januari 2020
 
@@ -181,7 +181,7 @@ Vi presenterar en ny rapportinstrumentpanel (beta) i Partnercenter
 
 ### <a name="summary"></a>Sammanfattning
 
-Vi introducerar en ny enhetlig rapportinstrumentpanel i Partnercenter för partnerorganisationer som är medlemmar i Microsoft Partner Network. Via den här instrumentpanelen har du tillgång till en enhetlig, 360-gradig vy över din partnerorganisations kpi:er (Key Performance Indicators) för molnprodukter som Office 365, Azure, Dynamics 365 och licensieringsmodeller som Molnlösningsleverantör (CSP) och företagsavtal (EA). Intelligenta insikter levereras till dig så att du tydligt förstår din verksamhet med Microsoft och kan fatta datadrivna beslut med tillförsikt.
+Vi introducerar en ny enhetlig rapportinstrumentpanel i Partnercenter för partnerorganisationer som är medlemmar i Microsoft Partner Network. Via den här instrumentpanelen har du åtkomst till en enhetlig, 360-gradig vy över din partnerorganisations kpi:er (Key Performance Indicators) för molnprodukter som Office 365, Azure, Dynamics 365 och licensieringsmodeller som Molnlösningsleverantör (CSP) och företagsavtal (EA). Intelligenta insikter levereras till dig så att du tydligt förstår din verksamhet med Microsoft och kan fatta datadrivna beslut med tillförsikt.
 
 Om du vill se den här **instrumentpanelen väljer** du INSIGHTS på den vänstra navigeringsmenyn i Partnercenter. Den här instrumentpanelen använder samma underliggande data som det aktuella MyInsights-rapporteringsverktyget, men erbjuder bättre visuella objekt och mer insiktsfulla rapporteringsfunktioner och KPI:er för kunder, prenumerationer, licensanvändning, kompetenser och förmåner. Den version av instrumentpanelen för insikter som erbjuds i dag är en betaversion och kommer att fortsätta att utökas med nya rapporter och funktioner när vi närmar oss allmän tillgänglighet, vilket planeras till senare i H2 FY20.
 
@@ -216,18 +216,18 @@ _________________
 
 Den nya Microsoft-kundavtal för alla produkterbjudanden i CSP-programmet (Molnlösningsleverantör) blev tillgänglig den 1 oktober 2019.
 
-Från och med 1 februari 2020 krävs en partners bekräftelse på Microsoft-kundavtal godkännande för att göra nya beställningar av CSP-erbjudanden i alla regioner under Microsofts offentliga moln. Från det datumet kommer en partner i CSP inte att kunna göra ett nytt köp, inklusive att byta plats och förnya befintliga inköp utan godkännande Microsoft-kundavtal från kunden.
+Från och med 1 februari 2020 krävs en partners bekräftelse på Microsoft-kundavtal godkännande för att göra nya beställningar av CSP-erbjudanden i alla regioner under Microsofts offentliga moln. Från det datumet kommer en partner i CSP inte att kunna göra ett nytt köp, inklusive att byta plats och förnya befintliga inköp utan godkännande av Microsoft-kundavtal från kunden.
 
 >[!NOTE] 
->Microsoft-kundavtal och den nya köpupplevelsen i CSP för Azure:** Kundgodkännande av Microsoft-kundavtal krävs för att köpa via den nya köpupplevelsen i [CSP](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/) för Azure som blev tillgänglig den 1 november 2019.
+>Microsoft-kundavtal och den nya köpupplevelsen i CSP för Azure:** Kundgodkännande av Microsoft-kundavtal krävs för att köpa via den nya köpupplevelsen i [CSP för Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/) som blev tillgänglig 1 november 2019.
 
 Den Microsoft-kundavtal är ett förenklat inköpsavtal som tillhandahåller konsekventa köpvillkor för kunder, oavsett hur kunderna väljer att köpa. Sedan den 1 oktober 2019 är den nya Microsoft-kundavtal tillgänglig i CSP-programmet och ersätter den befintliga Microsoft Cloud-avtal.
 
-Partner kan presentera den nya Microsoft-kundavtal kunder på ungefär samma sätt som de tidigare gjorde för Microsoft Cloud-avtal. När en kund har granskat och godkänt avtalet måste partnern bekräfta kundens godkännande hos Microsoft. Instrumentpanelen i Partnercenter, Partnercenter-API:et och .NET SDK har uppdaterats för att stödja en partner som bekräftar kundens godkännande av Microsoft-kundavtal.
+Partner kan presentera den nya Microsoft-kundavtal kunder på ungefär samma sätt som de tidigare gjorde för Microsoft Cloud-avtal. När en kund har granskat och godkänt avtalet måste partnern bekräfta kundens godkännande hos Microsoft. PartnerCenter-instrumentpanelen, Partnercenter-API:et och .NET SDK har uppdaterats för att stödja en partner som bekräftar kundens godkännande av Microsoft-kundavtal.
 
 ### <a name="next-steps"></a>Nästa steg
 
-- Bekräfta godkännandet av den nya Microsoft-kundavtal före 31 januari 2020.
+- Bekräfta godkännandet av den nya Microsoft-kundavtal före den 31 januari 2020.
 - Träna dina agenter och återförsäljare på de nya avtalsvillkoren och presentera det nya avtalet och validera kundens godkännande. Indirekta leverantörer måste samarbeta med indirekta återförsäljare för att verifiera en kunds godkännande.
 - Direktfaktureringsleverantörer och indirekta leverantörer som använder API:er måste uppdatera den befintliga implementeringen för att hantera den nya Microsoft-kundavtal med hjälp av [det uppdaterade API:et](../confirm-customer-agreement.md).
 - Direktfakturering och indirekta leverantörer kan också använda partnercentrets webbgränssnitt för att bekräfta kundens godkännande.
@@ -239,7 +239,7 @@ Partner kan presentera den nya Microsoft-kundavtal kunder på ungefär samma sä
 - API-information för partner som använder API:er för att bekräfta kundens godkännande av avtalet.
 
 >[!Note] 
->Senare i Q1 CY20 har partner möjlighet att bjuda in kunder till en autentiserad Microsoft-portal för att visa och signera Microsoft-kundavtal. Microsoft ansvarar för att bekräfta kundens godkännande av Microsoft-kundavtal.
+>Senare i Q1 CY20 har partner möjlighet att bjuda in kunder till en autentiserad Microsoft-portal för att visa och signera Microsoft-kundavtal. Microsoft äger ansvaret för att bekräfta kundens godkännande av Microsoft-kundavtal.
 
 ### <a name="change-log"></a>Ändringslogg
 
@@ -281,7 +281,7 @@ I listan med licensbaserade priser för januari finns följande kända problem s
 Dessa erbjudanden bör inte finnas med i prislistan och tas bort nästa månad:
 
 - Erbjudande: Microsoft 365 Telefonsystem – Utvärderings-ID för virtuell användare: b9a1d576-43fd-464b-8ad9-4b1eafc5db77
-- Erbjudande: Formulär Pro Addl-svar för GCC-erbjudande-ID: ac14473c-8e5d-4e44-aff1-6087109be980
+- Erbjudande: Formulär Pro Addl Responses for GCC Offer ID: ac14473c-8e5d-4e44-aff1-6087109be980
 - Erbjudande: Microsoft Forms Pro USL för GCC erbjudande-ID: 1e9dab89-7a71-4aa9-a3e5-9b8be2f296ba
 
 Dessa erbjudanden bör inte finnas med i prislistan och tas bort nästa månad:
@@ -290,8 +290,8 @@ Dessa erbjudanden bör inte finnas med i prislistan och tas bort nästa månad:
 
 Dessa erbjudanden togs felaktigt bort från prislistan i januari men är fortfarande tillgängliga. läs prislistorna för december för deras priser. Planer är att lägga till dessa erbjudanden i nästa månads prislista:
 
-- Office 365 A1 för lärare och lärare (för enhet) erbjudande-ID:`0757d14e-7c57-456f-8dab-47d164f2ff1f`
-- Office 365 A1 för studenters erbjudande-ID (för enhet):`bae285a9-d56b-4384-b02f-38adc61a6f12`
+- Office 365 A1 för lärare (för enhet) Erbjudande-ID:`0757d14e-7c57-456f-8dab-47d164f2ff1f`
+- Office 365 A1 för studenter (för enhet) erbjudande-ID:`bae285a9-d56b-4384-b02f-38adc61a6f12`
 - Microsoft 365 A1 Erbjudande-ID:`778a4dce-0014-4d53-8647-314ef2b091d2`
 - Erbjudande-ID för Utvärderingsversion av Dynamics 365 Remote Assist: `545484f9-1c3e-426d-a387-0aa029146443`
 - Id för erbjudande för utvärderingsversion av Dynamics 365 Remote Assist: `7ce81df9-f10c-49a3-843d-e9de6fdc779f`
@@ -329,13 +329,13 @@ Den 2 januari 2020 släpptes följande Erbjudanden för Power Virtual Agent:
 
 - Dynamics 365 Virtual Agent for Customer Service
 
-Biz-appar och Power Platform
+Biz Apps och Power Platform
 
-Den 2 januari 2020 släpptes följande Biz Apps Power Platform-erbjudanden:
+Den 2 januari 2020 släpptes följande Biz Apps Power Platform erbjudanden:
 
 - Introduktion av studenterbjudanden för befintlig PowerApps-plan per app
 
-Den 1 februari 2020 kommer följande nya och uppdaterade erbjudanden för Biz Apps och Power Platform att släppas:
+Den 1 februari 2020 släpps följande nya och uppdaterade erbjudanden för Biz Apps och Power Platform kommer att släppas:
 
 Personalavdelningens nya erbjudanden
 
@@ -373,7 +373,7 @@ Den 1 februari 2020 ändrar Microsoft namnen på vissa produktfamiljer och erbju
 - [startsida Mixed Reality appguide](https://dynamics.microsoft.com/mixed-reality/guides/)
 - [Startsida för Biz Apps-bedrägeri](/dynamics365/fraud-protection/overview)
 - [Power Platform startsida för produkter](/powerapps/maker/common-data-service/data-platform-intro#dynamics-365-and-the-common-data-service)
-- [FY20 Power Apps och Flow licensieringsuppdateringar](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
+- [FY20 Power Apps- och Flow-licensieringsuppdateringar](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
 - [Microsoft Dynamics 365-licensiering](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
 
 ### <a name="next-steps"></a>Nästa steg

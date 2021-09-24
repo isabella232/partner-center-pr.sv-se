@@ -1,6 +1,6 @@
 ---
 title: Paradigm för programmatisk åtkomst för insikter
-description: Förstå flödet på hög nivå i API-anropsmönstret för programmatisk analys. API:erna för åtkomst till analysrapporter med partnerinsikter omfattas också.
+description: Förstå flödet på hög nivå i API-anropsmönstret för programmatisk analys. API:erna för åtkomst till partnerinsiktsanalysrapporter omfattas också.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
@@ -12,29 +12,29 @@ ms.openlocfilehash: 674cc6f800edc540920d80bedd031fae959b973b
 ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128322566"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128366140"
 ---
 # <a name="programmatic-access-paradigm"></a>Paradigm för programmatisk åtkomst
 
-Det här diagrammet visar API-anropsmönstret som används för att skapa en ny rapportmall, schemalägga den anpassade rapporten och hämta feldata.
+Det här diagrammet visar api-anropsmönstret som används för att skapa en ny rapportmall, schemalägga den anpassade rapporten och hämta feldata.
 
 :::image type="content" source="images/insights/prog-acc-paradigm.png" alt-text="Flöde på hög nivå":::
-***Bild 1: Flöde på hög nivå för API-anropsmönstret***
+***Bild 1: Högt flöde i API-anropsmönstret***
 
 Den här listan innehåller mer information om bild 1.
 
-1. Klientprogrammet kan definiera det anpassade rapportschemat/mallen genom att anropa [API:et Skapa rapportfråga.](#create-report-query-api) Du kan också välja en rapportmall (QueryId) från exemplen på rapportmallbiblioteket i Lista över systemfrågor för programmatisk åtkomst [till partnerinsikter.](insights-programmatic-system-queries.md)
+1. Klientprogrammet kan definiera det anpassade rapportschemat/-mallen genom att anropa [API:et för att skapa rapportfråga.](#create-report-query-api) Du kan också välja en rapportmall (QueryId) från exemplen på rapportmallbiblioteket i Lista över systemfrågor för programmatisk åtkomst [till partnerinsikter.](insights-programmatic-system-queries.md)
 2. Om det lyckas returnerar API:et Skapa rapportfråga QueryId.
-3. Klientprogrammet måste sedan anropa [](#create-report-api) API:et Skapa rapport med queryId tillsammans med rapportens startdatum, upprepningsintervall, upprepning och en valfri motringning-URI.
-4. Vid Lyckad [returnerar API:et](#create-report-api) Skapa rapport ReportId.
-5. Klientprogrammet meddelas via motringning-URL:en så snart rapportdata är redo för nedladdning.
-6. Klientprogrammet använder sedan API:et [Hämta rapportkörningar för](#get-report-execution-api) att fråga efter rapportens status med rapport-ID och datumintervall.
+3. Klientprogrammet måste sedan anropa [](#create-report-api) API:et Skapa rapport med hjälp av QueryId tillsammans med rapportens startdatum, upprepningsintervall, upprepning och en valfri motringning-URI.
+4. Vid lyckad, [returnerar API:et](#create-report-api) Skapa rapport ReportId.
+5. Klientprogrammet meddelas på återanrops-URL:en så snart rapportdata är klara för nedladdning.
+6. Klientprogrammet använder sedan [API:et Hämta rapportkörningar för](#get-report-execution-api) att fråga efter rapportens status med rapport-ID och datumintervall.
 7. Om det lyckas returneras nedladdningslänken för rapporten och programmet kan starta nedladdningen av data.
 
 ## <a name="report-query-language-specification"></a>Specifikation för rapportfrågespråk
 
-Vi tillhandahåller [systemfrågor som du](insights-programmatic-system-queries.md) kan använda för att skapa rapporter, men du kan också skapa egna frågor baserat på dina affärsbehov. Mer information om anpassade frågor finns i Custom Query Specification ( [Anpassad frågespecifikation).](insights-programmatic-custom-query.md)
+Vi tillhandahåller [systemfrågor som du kan](insights-programmatic-system-queries.md) använda för att skapa rapporter, men du kan också skapa egna frågor baserat på dina affärsbehov. Mer information om anpassade frågor finns i [Custom Query Specification](insights-programmatic-custom-query.md).
 
 ## <a name="create-report-query-api"></a>Skapa API för rapportfråga
 
@@ -53,7 +53,7 @@ I följande exempel visas hur du skapar en anpassad fråga för att hämta de 10
 
 ### <a name="request-header"></a>Begärandehuvud
 
-|    Huvud     |    Typ     |    Beskrivning     |
+|    Huvud     |    Typ     |    Description     |
 |-------|-----|------|
 |    Auktorisering     |    sträng |Krävs. Åtkomsttoken Azure Active Directory (Azure AD). Formatet är  `Bearer <token>` .|
 |    Content-Type     |sträng |`Application/JSON` |
@@ -83,9 +83,9 @@ Den här tabellen innehåller viktiga definitioner av element i begärandenyttol
 
 |Parameter|    Krävs     |    Beskrivning     |    Tillåtna värden     |
 |-----|    -----    |    -----    |    -----    |
-|Name |    Ja     |    Eget namn på frågan     |    sträng     |
+|Name |    Yes     |    Eget namn på frågan     |    sträng     |
 |    Beskrivning     |    Nej     |    Beskrivning av vad frågan returnerar     |    sträng     |
-|    Söka i data     |    Ja     |    Rapportfrågesträng     |    Datatyp: sträng <br> [Anpassad fråga](insights-programmatic-custom-query.md) baserat på affärs behov |
+|    Söka i data     |    Yes     |    Rapportfrågesträng     |    Datatyp: sträng <br> [Anpassad fråga](insights-programmatic-custom-query.md) baserat på affärs behov |
 |        |        |        |        |
 
 > [!Note]
@@ -127,9 +127,9 @@ Den här tabellen innehåller viktiga definitioner av element i begärandenyttol
 |    Parameter     |    Beskrivning     |
 |    ----    |    ----    |
 |    QueryId     |    Universell unik identifierare (UUID) för den fråga som du skapade     |
-|    Name     |    Eget namn som anges för frågan i nyttolasten för begäran     |
-|    Beskrivning     |    Beskrivning som ges när frågan skapas     |
-|    Söka i data     |    Rapportfråga som skickas som indata när frågan skapas     |
+|    Name     |    Eget namn som anges för frågan i begärandenyttolasten     |
+|    Description     |    Beskrivning som anges när frågan skapas     |
+|    Söka i data     |    Rapportfrågan skickades som indata när frågan skapades     |
 |    Typ     |    Ange till `userDefined`     |
 |    Användare     |    Användar-ID som användes för att skapa frågan     |
 |    CreatedTime     |    UTC-tid då frågan skapades i det här formatet: yyyy-MM-ddTHH:mm:ssZ     |
@@ -145,15 +145,15 @@ För systemfrågor som vi tillhandahåller kan API:et Skapa rapport också anrop
 
 ### <a name="callback-url"></a>Callback URL (Webbadress för återanrop)
 
-API:et för att skapa rapport accepterar en återanrops-URL. Den här URL:en anropas när rapportgenereringen har lyckats. Motringning-URL:en ska vara offentligt åtkomlig. Förutom URL:en kan även en motringningsmetod anges. Motringningsmetoden kan bara vara "GET" eller "POST". Standardmetoden om inget värde skickas blir "POST". Det reportId som har slutfört genereringen skickas alltid tillbaka under återanropet.
+API:et för att skapa rapport accepterar en återanrops-URL. Den här URL:en anropas när rapportgenereringen har lyckats. Motringning-URL:en ska vara offentligt åtkomlig. Förutom URL:en kan en motringningsmetod också ges. Motringningsmetoden kan bara vara "GET" eller "POST". Standardmetoden om inget värde skickas blir "POST". Det reportId som har slutfört genereringen skickas alltid tillbaka under återanropet.
 
-POST-återanrop: Om url:en som skickades var `https://www.contosso.com/callback` kommer den anropade bakåt-URL:en att vara `https://www.contosso.com/callback/<reportID>` 
+POST-återanrop: Om URL:en som skickades var kommer den `https://www.contosso.com/callback` återanropade URL:en att vara `https://www.contosso.com/callback/<reportID>` 
 
-GET-återanrop: Om url:en som skickades var `https://www.contosso.com/callback` kommer den anropade tillbaka-URL:en att vara `https://www.contosso.com/callback?reportId=<reportID>` 
+GET-återanrop: Om URL:en som skickades var blir den `https://www.contosso.com/callback` anropade bakåt-URL:en `https://www.contosso.com/callback?reportId=<reportID>` 
 
 ### <a name="executenow-reports"></a>ExecuteNow-rapporter
 
-Det finns en etablering för att generera en rapport utan schemaläggning. API-nyttolasten för att skapa rapport kan acceptera en parameter , som kommer att lägga rapporten i en sekvens som ska genereras `ExecuteNow` så snart API:et anropas. När `ExecuteNow` är inställt på true ignoreras fälten: `StartTime` , eftersom dessa rapporter inte `RecurrenceCount` `RecurrenceInterval` schemaläggs.
+Det finns en etablering för att generera en rapport utan schemaläggning. Api-nyttolasten för rapport som skapas kan acceptera en parameter , som kommer att lägga rapporten i en sekvens som ska genereras `ExecuteNow` så snart API:et anropas. När `ExecuteNow` är inställt på true ignoreras fälten: `StartTime` , eftersom dessa rapporter inte `RecurrenceCount` `RecurrenceInterval` schemaläggs.
 
 Två ytterligare fält kan skickas när `ExecuteNow` är sant, `QueryStartTime` och `QueryEndTime` . De här två fälten `TIMESPAN` åsidosätter fältet i frågan. De här fälten gäller inte för schemalagda rapporter eftersom data genereras kontinuerligt under en fast tidsperiod som inte ändras.
 
@@ -165,7 +165,7 @@ Två ytterligare fält kan skickas när `ExecuteNow` är sant, `QueryStartTime` 
 
 ### <a name="request-header"></a>Begärandehuvud
 
-|    Huvud     |    Typ     |    Beskrivning     |
+|    Huvud     |    Typ     |    Description     |
 |-------|-----|------|
 |    Auktorisering     |    sträng |Krävs. Åtkomsttoken Azure Active Directory (Azure AD). Formatet är  `Bearer <token>` .|
 |    Content-Type     |sträng |`Application/JSON` |
@@ -203,18 +203,18 @@ Viktiga definitioner av element i nyttolasten för begäran förklaras nedan:
 
 |    Parameter     |    Krävs     |    Beskrivning     |    Tillåtna värden     |
 |    ----    |    ----    |    ----    |    ----    |
-|    ReportName     |    Ja     |    Namn som ska tilldelas till rapporten     |    sträng     |
+|    ReportName     |    Yes     |    Namn som ska tilldelas till rapporten     |    sträng     |
 |    Beskrivning     |    Nej     |    Beskrivning av den skapade rapporten     |    sträng     |
-|    QueryId     |    Ja     |    Rapportfråge-ID     |    sträng     |
-|    StartTime     |    Ja     |    UTC-tidsstämpel där rapportgenereringen ska börja. <br> Formatet ska vara: yyyy-MM-ddTHH:mm:ssZ       |    sträng     |
-|    ExecuteNow     |    Inga     |    Den här parametern ska användas för att skapa en rapport som bara ska köras en gång. `StartTime`, `RecurrenceInterval` och `RecurrenceCount` ignoreras om detta är inställt på true. Rapporten körs omedelbart på ett asynkront sätt     |    sant/falskt     |
-|    QueryStartTime     |    Inga     |    Du kan också ange starttiden för frågan som extraherar data. Den här parametern gäller endast för en-gång-körningsrapporter som har `ExecuteNow` angetts till true. Ange åsidosättningar för den `TIMESPAN` här parametern som anges i frågan. Formatet ska vara yyyy-MM-ddTHH:mm:ssZ     |    Tidsstämpel som sträng     |
-|    QueryEndTime     |    Inga     |    Du kan också ange sluttiden för frågan som extraherar data. Den här parametern gäller endast för en körningsrapport som har `ExecuteNow` angetts till true. Ange åsidosättningar för den `TIMESPAN` här parametern som anges i frågan. Formatet ska vara yyyy-MM-ddTHH:mm:ssZ     |    Tidsstämpel som sträng     |
-|    RecurrenceInterval     |    Ja     |    Frekvens i timmar då rapporten ska genereras. <br> Minimivärdet är 4 och Det högsta värdet är 2160.      |    heltal     |
-|    RecurrenceCount     |    Inga     |    Antal rapporter som ska genereras.     |    heltal     |
-|    Format     |    Inga     |    Filformat för den exporterade filen. <br> Standardvärdet är CSV.    |    "CSV"/"TSV"     |
-|    CallbackUrl     |    Inga     |    Offentligt nåbar URL som kan konfigureras som återanropsmål     |    Sträng (http-URL)     |
-|    CallbackMethod     |    Inga     |    Metoden som ska användas för återanrop     |    GET/POST     |
+|    QueryId     |    Yes     |    Rapportfråge-ID     |    sträng     |
+|    StartTime     |    Yes     |    UTC-tidsstämpel där rapportgenereringen ska börja. <br> Formatet ska vara: yyyy-MM-ddTHH:mm:ssZ       |    sträng     |
+|    ExecuteNow     |    No     |    Den här parametern ska användas för att skapa en rapport som bara ska köras en gång. `StartTime`, `RecurrenceInterval` och `RecurrenceCount` ignoreras om detta är inställt på true. Rapporten körs omedelbart på ett asynkront sätt     |    sant/falskt     |
+|    QueryStartTime     |    No     |    Du kan också ange starttiden för frågan som extraherar data. Den här parametern gäller endast för körningsrapporter med en gång som har `ExecuteNow` angetts till true. Ange åsidosättningar för den `TIMESPAN` här parametern i frågan. Formatet ska vara yyyy-MM-ddTHH:mm:ssZ     |    Tidsstämpel som sträng     |
+|    QueryEndTime     |    No     |    Du kan också ange sluttiden för frågan som extraherar data. Den här parametern gäller endast för en körningsrapport som har `ExecuteNow` angetts till true. Ange åsidosättningar för den `TIMESPAN` här parametern i frågan. Formatet ska vara yyyy-MM-ddTHH:mm:ssZ     |    Tidsstämpel som sträng     |
+|    RecurrenceInterval     |    Yes     |    Frekvens i timmar då rapporten ska genereras. <br> Minimivärdet är 4 och Det högsta värdet är 2160.      |    heltal     |
+|    RecurrenceCount     |    No     |    Antal rapporter som ska genereras.     |    heltal     |
+|    Format     |    No     |    Filformat för den exporterade filen. <br> Standardvärdet är CSV.    |    "CSV"/"TSV"     |
+|    CallbackUrl     |    No     |    Offentligt nåbar URL som kan konfigureras som återanropsmål     |    Sträng (http-URL)     |
+|    CallbackMethod     |    No     |    Den metod som ska användas för återanrop     |    GET/POST     |
 |        |        |        |        |
 
 ### <a name="sample-response"></a>Exempelsvar
@@ -263,7 +263,7 @@ Viktiga definitioner av element i svaret förklaras nedan:
 |    ----    |    ----    |
 |    ReportId     |    Universell unik identifierare (UUID) för den rapport som du skapade     |
 |    ReportName     |    Namn som ges till rapporten i nyttolasten för begäran     |
-|    Beskrivning     |    Beskrivning som ges när rapporten skapas     |
+|    Description     |    Beskrivning som ges när rapporten skapas     |
 |    QueryId     |    Fråge-ID som skickades när du skapade rapporten     |
 |    Söka i data     |    Frågetext som ska köras för den här rapporten     |
 |    Användare     |    Användar-ID som används för att skapa rapporten     |
@@ -297,25 +297,25 @@ Du kan använda den här metoden för att fråga efter status för en rapportkö
 
 ### <a name="request-header"></a>Begärandehuvud
 
-|    Huvud     |    Typ     |    Beskrivning     |
+|    Huvud     |    Typ     |    Description     |
 |-------|-----|------|
 |    Auktorisering     |    sträng |Krävs. Åtkomsttoken Azure Active Directory (Azure AD). Formatet är  `Bearer <token>` .|
 |    Content-Type     |sträng |`Application/JSON` |
 
 ### <a name="path-parameter"></a>Sökvägsparameter
 
-|    Parameternamn    |    Krävs    |    Typ    |    Beskrivning    |
+|    Parameternamn    |    Krävs    |    Typ    |    Description    |
 |    ----    |    ----    |    ----    |    ----    |
-|    reportId    |    Ja    |    sträng    |    Filtrera för att hämta körningsinformation för endast rapporter med reportId som anges i det här argumentet. Flera reportIds kan anges genom att avgränsa dem med semikolonet ";".    |
+|    reportId    |    Yes    |    sträng    |    Filtrera för att hämta körningsinformation för endast rapporter med reportId som anges i det här argumentet. Flera reportIds kan anges genom att avgränsa dem med semikolonet ";".    |
 |        |        |        |        |
 
 ### <a name="query-parameter"></a>Frågeparameter
 
-|    Parameternamn    |    Krävs    |    Typ    |    Beskrivning    |
+|    Parameternamn    |    Krävs    |    Typ    |    Description    |
 |    ----    |    ----    |    ----    |    ----    |
-|    executionId    |    Inga    |    sträng    |    Filtrera för att hämta information om endast rapporter med executionId som anges i det här argumentet. Flera executionIds kan anges genom att avgränsa dem med semikolon ";".    |
-|    executionStatus    |    Inga    |    Sträng/uppräkning    |    Filtrera för att hämta information om endast rapporter med executionStatus som anges i det här argumentet. <br> Giltiga värden är: `Pending` , `Running` , och `Paused` `Completed` . <br> Standardvärdet är `Completed`. <br> Flera statusar kan anges genom att avgränsa dem med semikolon ";".    |
-|    getLatestExecution    |    Inga    |    boolean    |    API:et returnerar information om den senaste körningen. Som standard är den här parametern inställd på true.<br> Om du väljer att skicka värdet för den här parametern som false returnerar API:et de senaste 90 dagarnas körningsinstanser.    |
+|    executionId    |    No    |    sträng    |    Filtrera för att hämta information om endast rapporter med executionId som anges i det här argumentet. Flera executionIds kan anges genom att avgränsa dem med semikolon ";".    |
+|    executionStatus    |    No    |    Sträng/uppräkning    |    Filtrera för att hämta information om endast rapporter med executionStatus som anges i det här argumentet. <br> Giltiga värden är: `Pending` , `Running` , och `Paused` `Completed` . <br> Standardvärdet är `Completed`. <br> Flera statusar kan anges genom att avgränsa dem med semikolon ";".    |
+|    getLatestExecution    |    No    |    boolean    |    API:et returnerar information om den senaste körningen. Som standard är den här parametern inställd på true.<br> Om du väljer att skicka värdet för den här parametern som false returnerar API:et de senaste 90 dagarnas körningsinstanser.    |
 |        |        |        |        |
 
 ### <a name="sample-request-payload"></a>Exempel på nyttolast för begäran

@@ -10,11 +10,11 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.openlocfilehash: 0521c7fde81663b9eb7cd89344ee2432e8a1ea31
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128322426"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128369380"
 ---
 # <a name="how-and-when-to-request-a-credit-from-microsoft"></a>Hur och när du ska begära en kredit från Microsoft
 
@@ -89,11 +89,11 @@ För kreditförfrågningar om duplicerade licenser (till exempel när en kund ha
 
 För kreditförfrågningar om tjänstavbrott:
 
-- SLA-krediter från Microsoft bestäms baserat på vilka tjänster som påverkades. Om kunden till exempel har en Office 365-svit men bara upplever ett avbrott i SharePoint godkänns SLA-krediten endast för SharePoint och inte kundens hela plan
+- SLA-krediter från Microsoft bestäms baserat på vilka tjänster som påverkades. Om kunden till exempel har en Office 365-svit men bara upplever ett SharePoint-avbrott godkänns SLA-krediten endast för SharePoint och inte kundens hela plan
 - Krediter baseras på den tjänst som påverkas och varaktigheten för avbrottet. Information om vilka typer av scenarier som är berättigade till SLA-krediter finns i dokumentet [Konsoliderat serviceavtal för](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services)Online Services. Den här informationen gäller även för tjänster som säljs via Molnlösningsleverantör-programmet (CSP).
 - Kreditförfrågningar måste skickas i slutet av kalendermånaden efter den månad då incidenten inträffade. Om incidenten till exempel inträffade den 15 februari måste vi ta emot anspråket och all nödvändig information senast den 31 mars. (Mer information finns i formuläret *för begäran om kredit eller återbetalning).*
 
-- Du måste ange bevis på att kunden har påverkats av avbrottet och att kunden har begärt en SLA-kredit. Kundens klientorganisations-ID och avbrotts-ID (från Service Health-instrumentpanelen) måste anges. Kundens e-postadress som skickas som bevis måste komma från domänen för den berörda klientorganisationen. (E-post från en personlig adress är inte acceptabelt).
+- Du måste ange bevis på att kunden har påverkats av avbrottet och att kunden har begärt en SLA-kredit. Kundens klientorganisations-ID och avbrotts-ID (Service Health instrumentpanelen) måste anges. Kundens e-postadress som skickas som bevis måste komma från domänen för den berörda klientorganisationen. (E-post från en personlig adress är inte acceptabelt).
 
 > [!NOTE]
 > Rådgivningsincidenter är vanligtvis inte berättigade till SLA-krediter. En incident som skickas till Service Health-instrumentpanelen  anger att en klientorganisation kan påverkas och representerar den bästa informationen som Microsoft har vid tidpunkten för publiceringen. Hälsosidans data representerar en tjänsts allmänna tillgänglighet. Påverkan, minskning och lösning av enskilda tjänster kan variera. Mer information finns i den slutliga incidentgranskningen efter incidenten och efter incidentgranskningen. Mer information om Service Health finns i Så [här kontrollerar du Microsoft 365 service health](/microsoft-365/enterprise/view-service-health).
