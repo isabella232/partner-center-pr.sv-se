@@ -14,7 +14,7 @@ ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/24/2021
-ms.locfileid: "128366058"
+ms.locfileid: "128359405"
 ---
 # <a name="security-requirements-status-report"></a>Statusrapport för säkerhetskrav
 
@@ -22,7 +22,7 @@ ms.locfileid: "128366058"
 
 I den här artikeln förklaras statusrapporten för säkerhetskrav i Partnercenter. Den här rapporten ger mått om efterlevnad av [partnersäkerhetskrav för](partner-security-requirements.md) multifaktorautentisering (MFA) för användare i din partnerklientorganisation.
 
-Om du vill komma åt den här rapporten i [Partnercenter](https://partner.microsoft.com/dashboard) **går Inställningar**  >  **till**  >  **Kontoinställningar Säkerhetskravstatus**. Rapporten uppdateras dagligen och visar inloggningsdata från de senaste sju dagarna.
+Om du vill komma åt den här rapporten i [Partnercenter](https://partner.microsoft.com/dashboard)går Inställningar till   >    >  **Kontoinställningar Säkerhetskravstatus**. Rapporten uppdateras dagligen och visar inloggningsdata från de senaste sju dagarna.
 
 >[!NOTE]
 >Statusrapporten för säkerhetskrav stöds endast i Partnercenter. Den är inte tillgänglig i Microsoft Cloud for US Government Microsoft Cloud Tyskland. Vi rekommenderar starkt att alla partner som gör en överträdelse via ett suveränt moln (amerikanska myndigheter och Tyskland) inför dessa nya säkerhetskrav omedelbart. Dessa partner behöver dock för närvarande inte uppfylla de nya säkerhetskraven. Microsoft tillhandahåller ytterligare information om tillämpningen av dessa säkerhetskrav för nationella moln i framtiden.

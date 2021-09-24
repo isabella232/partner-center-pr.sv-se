@@ -14,17 +14,17 @@ ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/24/2021
-ms.locfileid: "128366075"
+ms.locfileid: "128373412"
 ---
-# <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Sälja programvaruprenumerationer via Molnlösningsleverantör (CSP)-programmet
+# <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Sälja programvaruprenumerationer via Molnlösningsleverantör-programmet (CSP)
 
 **Lämpliga roller:** Administratörsagent | Global administratör
 
-Med Azure-reservationer och serverprenumerationer (Windows Server- och SQL Server-prenumerationer) kan partner i CSP-programmet bättre hantera den snabbt växande kundefterfrågan på mer kostnadseffektiva lösningar för att stödja mycket förutsägbara och beständiga molnarbetsbelastningar. 
+Med Azure-reservationer och Server-prenumerationer (Windows Server- och SQL Server-prenumerationer) kan partner i CSP-programmet bättre hantera den snabbt växande kundefterfrågan på mer kostnadseffektiva lösningar för att stödja mycket förutsägbara och beständiga molnarbetsbelastningar. 
 
 Nu kan du skaffa, etablera och hantera Azure-reservationer och serverprenumerationer åt kommersiella kunder via Partnercenter och Azure Portal genom att dra nytta av Azure Hybrid-förmån.
 
-Med Azure Hybrid-förmån får du mer värde av dina Windows Server-licenser och sparar upp till 40 procent på virtuella datorer. Du kan använda förmånen med Windows Server Datacenter- och Standard Edition-licenser som omfattas av Software Assurance. Beroende på utgåva kan du konvertera eller återanvända dina licenser för att köra virtuella Windows Server-datorer i Azure och betala en lägre beräkningshastighet (till exempel priser för virtuella Linux-datorer).
+Den Azure Hybrid-förmån hjälper dig att få mer värde av dina Windows Server-licenser och spara upp till 40 procent på virtuella datorer. Du kan använda förmånen med Windows Server Datacenter- och Standard Edition-licenser som omfattas av Software Assurance. Beroende på utgåva kan du konvertera eller återanvända dina licenser för att köra virtuella Windows Server-datorer i Azure och betala en lägre baspris för beräkning (till exempel linux-priser för virtuella Linux-datorer).
 
 ## <a name="azure-reservations-unavailable-markets"></a>Otillgängliga marknader för Azure-reservationer
 
@@ -114,7 +114,7 @@ När du har köpt din programvara måste du eller dina kunder ladda ned den (par
 
 Om kunden distribuerar den nya fleraktiveringsaktiveringsaktiveringen under den här tiden, antingen manuellt eller på ett skript (med hjälp av ), sker `slmgr.vbs` inget driftstopp. Om kunden inte distribuerar den nya fleraktiveringslicensen under den här tiden och försöker förnya licensen senare, kan enheten bli begränsad eller blockerad i vissa funktioner tills den återaktiveras. 
 
-Mer information finns i Aktivera [klienter som kör Windows 10 (Windows 10) – Windows Distribution](/windows/deployment/volume-activation/activate-windows-10-clients-vamt#key-management-service-activation-renewal). Om du behöver hjälp med den här typen av distribution kan du skicka en teknisk [begäran om försäljning](/partner-center/technical-benefits#submit-a-technical-presales-and-deployment-services-request) och distributionstjänster.
+Mer information finns i Aktivera klienter [som kör Windows 10 (Windows 10) – Windows Distribution](/windows/deployment/volume-activation/activate-windows-10-clients-vamt#key-management-service-activation-renewal). Om du behöver hjälp med den här typen av distribution kan du skicka en teknisk [begäran om försäljning](/partner-center/technical-benefits#submit-a-technical-presales-and-deployment-services-request) och distributionstjänster.
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Nedladdning av serverprenumeration och licensnycklar som är tillgängliga via Microsoft 365 Admin Center för kunder 
 

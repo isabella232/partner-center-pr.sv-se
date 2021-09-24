@@ -10,11 +10,11 @@ ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.openlocfilehash: a5e062f9173ea65f93ada81693064f3c0519a7ae
-ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/24/2021
-ms.locfileid: "128360227"
+ms.locfileid: "128373446"
 ---
 # <a name="january-2020-announcements"></a>Meddelanden januari 2020
 
@@ -34,7 +34,7 @@ _________________
 
 ### <a name="summary"></a>Sammanfattning
 
-Från och med 1 februari 2020 kommer Windows Server- och SQL Server-prenumerationer att vara tillgängliga för köp till CSP-partner i Ryssland.
+Från och med 1 februari 2020 kommer Windows Server och SQL Server-prenumerationer att vara tillgängliga för köp till CSP-partner i Ryssland.
 
 ### <a name="impacted-audience"></a>Påverkad målgrupp
 
@@ -76,7 +76,7 @@ _________________
 
 ### <a name="summary"></a>Sammanfattning
 
-Från och med den 7 januari 2020 har Microsoft Mötesrum tillägg för möten och Microsoft 365 F1 för GCC. Mer information finns i prislistan.
+Från och med 7 januari 2020 har Microsoft infört Mötesrum och möten för Microsoft 365 F1 för GCC. Mer information finns i prislistan.
 
 ### <a name="impacted-audience"></a>Påverkad målgrupp
 
@@ -125,7 +125,7 @@ Alla partner som onlinetjänster till kommersiella kunder.
 
 ### <a name="summary"></a>Sammanfattning
 
-Den 14 januari 2020  släppte Microsoft funktioner för självbetjäning, prenumeration och licenshantering för Power BI för kunder i det kommersiella molnet i USA. Den **28 januari 2020** blev dessa funktioner tillgängliga **för Power Apps** och **Power Automate** i USA.
+Den 14 januari 2020  släppte Microsoft funktioner för självbetjäning, prenumeration och licenshantering för Power BI för kommersiella molnkunder i USA. Den **28 januari 2020** blev dessa funktioner tillgängliga **för Power Apps** och **Power Automate** i USA.
 
 Senare i kvartal 3 FY20 gör vi självbetjäning för Power Platform tillgängliga för kommersiella kunder i flera ytterligare länder. När vi släpps till dessa länder kommer vi att uppdatera dokumentationen för vanliga frågor och svar för kunden så att den återspeglar deras tillgänglighet. Vanliga frågor och svar om kunden ingår i beredskapsresurserna som anges nedan. Se till att kontrollera detta ofta under de kommande månaderna.
 
@@ -133,7 +133,7 @@ Granska alla resurser i resursgalleriet (se Ytterligare resurser nedan) för ytt
 
 **PowerShell-skriptet** som gör det möjligt för IT-administratörer att styra (aktivera eller inaktivera) köp via självbetjäning per produkt är nu **tillgängligt.** Teknisk dokumentation finns i avsnittet Ytterligare resurser nedan.
 
-UPPDATERING: Under den senaste veckan har vi lyssnat på din feedback om hur våra självbetjäningsköpsfunktioner har distribuerats för Power Platform produkter. Tack! Baserat på din feedback har vi justerat vår metod för att bättre hantera behoven hos både IT-administratörer och slutanvändare i organisationer. Vi gör följande ändringar i planen:
+UPPDATERING: Under den senaste veckan har vi lyssnat på din feedback om hur våra köpfunktioner för självbetjäning har distribuerats för Power Platform produkter. Tack! Baserat på din feedback har vi justerat vår metod för att bättre hantera behoven hos både IT-administratörer och slutanvändare i organisationer. Vi gör följande ändringar i planen:
 
 - Den 19 november ger vi IT-administratörer ett sätt att inaktivera självbetjäning för köp per produkt via PowerShell. Mer information kommer.
 - För att ge mer tid att förbereda oss för den här ändringen uppdaterar vi lanseringen av köpfunktioner för självbetjäning för Power Platform-produkter till att börja med Power BI den 14 januari för alla kommersiella molnkunder. Mer information om Power Apps och Power Automate kommer att komma.
@@ -216,14 +216,14 @@ _________________
 
 Den nya Microsoft-kundavtal för alla produkterbjudanden i CSP-programmet (Molnlösningsleverantör) blev tillgänglig den 1 oktober 2019.
 
-Från och med 1 februari 2020 krävs en partners bekräftelse på Microsoft-kundavtal godkännande för att göra nya beställningar av CSP-erbjudanden i alla regioner under Microsofts offentliga moln. Från det datumet kommer en partner i CSP inte att kunna göra ett nytt köp, inklusive att byta plats och förnya befintliga inköp utan godkännande av Microsoft-kundavtal från kunden.
+Från och med 1 februari 2020 krävs en partners bekräftelse på Microsoft-kundavtal godkännande för att göra nya beställningar av CSP-erbjudanden i alla regioner under Microsoft Public Cloud. Från det datumet kommer en partner i CSP inte att kunna göra ett nytt köp, inklusive att byta plats och förnya befintliga inköp utan godkännande Microsoft-kundavtal från kunden.
 
 >[!NOTE] 
->Microsoft-kundavtal och den nya köpupplevelsen i CSP för Azure:** Kundgodkännande av Microsoft-kundavtal krävs för att köpa via den nya köpupplevelsen i [CSP för Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/) som blev tillgänglig 1 november 2019.
+>Microsoft-kundavtal och den nya köpupplevelsen i CSP för Azure:** Kundgodkännande av Microsoft-kundavtal krävs för köp via den nya köpupplevelsen i [CSP](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/) för Azure som blev tillgänglig 1 november 2019.
 
 Den Microsoft-kundavtal är ett förenklat inköpsavtal som tillhandahåller konsekventa köpvillkor för kunder, oavsett hur kunderna väljer att köpa. Sedan den 1 oktober 2019 är den nya Microsoft-kundavtal tillgänglig i CSP-programmet och ersätter den befintliga Microsoft Cloud-avtal.
 
-Partner kan presentera den nya Microsoft-kundavtal kunder på ungefär samma sätt som de tidigare gjorde för Microsoft Cloud-avtal. När en kund har granskat och godkänt avtalet måste partnern bekräfta kundens godkännande hos Microsoft. PartnerCenter-instrumentpanelen, Partnercenter-API:et och .NET SDK har uppdaterats för att stödja en partner som bekräftar kundens godkännande av Microsoft-kundavtal.
+Partner kan presentera den nya Microsoft-kundavtal kunder på ungefär samma sätt som de tidigare gjorde för Microsoft Cloud-avtal. När en kund har granskat och godkänt avtalet måste partnern bekräfta kundens godkännande hos Microsoft. Partner Center-instrumentpanelen, Partnercenter-API:et och .NET SDK har uppdaterats för att stödja en partner som bekräftar kundens godkännande av Microsoft-kundavtal.
 
 ### <a name="next-steps"></a>Nästa steg
 
@@ -329,23 +329,23 @@ Den 2 januari 2020 släpptes följande Erbjudanden för Power Virtual Agent:
 
 - Dynamics 365 Virtual Agent for Customer Service
 
-Biz Apps och Power Platform
+Biz-appar och Power Platform
 
-Den 2 januari 2020 släpptes följande Biz Apps Power Platform erbjudanden:
+Den 2 januari 2020 släpptes följande Biz Apps Power Platform-erbjudanden:
 
-- Introduktion av studenterbjudanden för befintlig PowerApps-plan per app
+- Introduktion av eleverbjudanden för befintlig PowerApps-plan per app
 
 Den 1 februari 2020 släpps följande nya och uppdaterade erbjudanden för Biz Apps och Power Platform kommer att släppas:
 
-Personalavdelningens nya erbjudanden
+Personal , nya erbjudanden
 
-- Dynamics 365 HR-användare kan köpa USL-erbjudanden för Dynamics 365 Unified Ops Additional DB/File Capacity USL
-- Erbjudanden för Dynamics 365 HR Self-Serve
+- Dynamics 365 HR-användare kan köpa Dynamics 365 Unified Ops ytterligare DB/File Capacity USL-erbjudanden
+- Erbjudanden för Dynamics 365 HRSelf-Serve hr
 - Dynamics 365 Human Resources (användare, klient)
 
-loT Intelligence for Supply Chain Management nya erbjudanden
+loT Intelligence for Supply Chain Management new offers
 
-- IoT Intelligence-scenario (klientorganisationsnivå) – omfattar rättigheter till upp till sex scenarier och tio datorer (förutsättningen är leveranskedjan/Unified Ops Management-användarbasen eller bifoga SKU)
+- IoT Intelligence-scenario (klientorganisationsnivå) – omfattar berättigande upp till sex scenarier och tio datorer (förutsättning är leveranskedjan/Unified Ops Management-användarbas eller bifoga SKU)
 - Ytterligare IoT Intelligence-dator (klientorganisationsnivå) – tillägg till IoT Intelligence-scenariot (förhandskraven för det här erbjudandet) som tillhandahåller licensiering för ytterligare 10 datorer
 
 Namnändring för e-handel
@@ -357,7 +357,7 @@ Customer Insights licensuppdatering
 Licensieringstypen ändras från AddOn till NON för följande SKU:er:
 
 - Nätverkskort365ECstmrInsights ShrdSvr ALNG SubsVL MVL
-- Slug365ECstmrInsightsEDU ShrdSvr ALNG SubsVL MVL
+- Nätverkskort365ECstmrInsightsEDU ShrdSvr ALNG SubsVL MVL
 
 Följande erbjudanden kommer inte längre att vara tillgängliga för Dynamics 365 Human Resources:
 
@@ -370,16 +370,16 @@ Den 1 februari 2020 ändrar Microsoft namnen på vissa produktfamiljer och erbju
 ### <a name="additional-resources"></a>Ytterligare resurser
 
 - [Startsidan för Dynamics 365](https://dynamics.microsoft.com/)
-- [startsida Mixed Reality appguide](https://dynamics.microsoft.com/mixed-reality/guides/)
-- [Startsida för Biz Apps-bedrägeri](/dynamics365/fraud-protection/overview)
+- [startsida Mixed Reality guide för Mixed Reality för appar](https://dynamics.microsoft.com/mixed-reality/guides/)
+- [Startsida för biz-appar för bedrägeri](/dynamics365/fraud-protection/overview)
 - [Power Platform startsida för produkter](/powerapps/maker/common-data-service/data-platform-intro#dynamics-365-and-the-common-data-service)
-- [FY20 Power Apps- och Flow-licensieringsuppdateringar](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
+- [FY20 Power Apps och Flow uppdateringar av licensiering](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
 - [Microsoft Dynamics 365-licensiering](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
 
 ### <a name="next-steps"></a>Nästa steg
 
 - Dela den här informationen med lämpliga kontakter i din organisation.
-- Om du vill fördjupa dig i licensieringsuppdateringarna och värdeförslaget kan du bekanta dig med vårt beredskapsinnehåll i avsnittet Ytterligare resurser och på PartnerSource.
+- Om du vill fördjupa dig i licensieringsuppdateringarna och mervärdet kan du bekanta dig med vårt beredskapsinnehåll i avsnittet Ytterligare resurser och på PartnerSource.
 
 ### <a name="questions"></a>Har du några frågor?
 

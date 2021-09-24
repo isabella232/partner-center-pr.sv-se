@@ -10,11 +10,11 @@ ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 09/08/2021
 ms.openlocfilehash: a87b44bb2730faf87bfaaf25b5e051b0ce4f6f30
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128326426"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128360193"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Massåtgärder för möjligheter till säljförsäljning med hjälp av csv-filer (kommaavgränsade värden)
 
@@ -96,49 +96,49 @@ Information om alla kolumner med deras information och exempelvärden finns i ta
 
 |**Kolumnnamn**|**Är obligatoriskt?**|**Beskrivning**|**Exempelvärden**|
 |-----|:-----|:---------|:---|
-Fel|Inga|Fel om några relaterade till create/update-åtgärderna w.r.t till hänvisningarna inkluderas i den här kolumnen. Om det finns flera fel visas alla med semikolon.|Obligatoriskt fält Lösning 1 saknas|
-Engagemangs-ID|Ja|Engagemangs-ID:t genereras av Microsoft Partner Center-referenssystemet. Krävs inte för att skapa en ny referens. Du kan använda det befintliga engagemangs-ID:t om du uppdaterar en post.|f7eaae47-0b84-4ac4-b4ea-5b2587d42cee
-Hänvisningskod|Ja|Hänvisnings-ID genereras av referenssystemet för Microsoft Partner Center. Krävs inte för att skapa en ny referens. Fyll i det med referens-ID:t om du uppdaterar en befintlig post.|ebacdkdc-0b84-4ac4-b4ea-5b2587d42cee
-Avtalsnamn|Ja|Det egna namnet för avtalet för din referens.|Storbritannien, våravtal
-Kundnamn|Ja|Namnet på kundföretaget. Använd organisationens juridiska namn för snabb matchning på Microsoft-sidan.|Contoso Corporation
-Kundadressrad 1|Ja|Adressrad 1 i kundföretaget. |One Contoso Way
-Kundadress rad 2|Inga|Adressrad 2 på kundföretaget.|NE 148 street
-Kundens stad|Ja|Ort där kundorganisationen finns.|Redmond
-Kundtillstånd|Inga|Ange var kundorganisationen finns.|Washington
-Kundens postnummer|Inga|Postnummer i den region där kundorganisationen finns.|98052
-Kundland|Ja|Land/region där kundorganisationen finns. Använd *alfa-2-koden med två bokstäver i* den här listan med [landskoder.](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)|USA
-Kundens D-U-N-S-ID|Inga|Försök att hämta KUNDORGANISATIONENS DUNS-ID. Detta hjälper till med snabbare matchning av kundorganisationen på Microsoft-sidan, vilket hjälper till att få snabbare säljtilldelning. Du kan hämta DUNS-ID kostnadsfritt från sidan [D-U-N-S Number Lookup (Antal uppslag i D-U-N-S).](https://www.dnb.com/duns-number/lookup.html)|81466849
+Fel|No|Fel om några relaterade till create/update-åtgärderna w.r.t till hänvisningarna inkluderas i den här kolumnen. Om det finns flera fel visas alla med semikolon.|Obligatoriskt fält Lösning 1 saknas|
+Engagemangs-ID|Yes|Engagemangs-ID:t genereras av Microsoft Partner Center-referenssystemet. Krävs inte för att skapa en ny referens. Du kan använda det befintliga engagemangs-ID:t om du uppdaterar en post.|f7eaae47-0b84-4ac4-b4ea-5b2587d42cee
+Hänvisningskod|Yes|Hänvisnings-ID genereras av referenssystemet för Microsoft Partner Center. Krävs inte för att skapa en ny referens. Fyll i det med referens-ID:t om du uppdaterar en befintlig post.|ebacdkdc-0b84-4ac4-b4ea-5b2587d42cee
+Avtalsnamn|Yes|Det egna namnet för avtalet för din referens.|Storbritannien, våravtal
+Kundnamn|Yes|Namnet på kundföretaget. Använd organisationens juridiska namn för snabb matchning på Microsoft-sidan.|Contoso Corporation
+Kundadressrad 1|Yes|Adressrad 1 i kundföretaget. |One Contoso Way
+Kundadress rad 2|No|Adressrad 2 på kundföretaget.|NE 148 street
+Kundens stad|Yes|Ort där kundorganisationen finns.|Redmond
+Kundtillstånd|No|Ange var kundorganisationen finns.|Washington
+Kundens postnummer|No|Postnummer i den region där kundorganisationen finns.|98052
+Kundland|Yes|Land/region där kundorganisationen finns. Använd *alfa-2-koden med två bokstäver i* den här listan med [landskoder.](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)|USA
+Kundens D-U-N-S-ID|No|Försök att hämta KUNDORGANISATIONENS DUNS-ID. Detta hjälper till med snabbare matchning av kundorganisationen på Microsoft-sidan, vilket hjälper till att få snabbare säljtilldelning. Du kan hämta DUNS-ID kostnadsfritt från sidan [D-U-N-S Number Lookup (Antal uppslag i D-U-N-S).](https://www.dnb.com/duns-number/lookup.html)|81466849
 Kundens kontakts förnamn|Beror|Förnamn är bara obligatoriskt om du behöver Microsoft-hjälp. Förnamnet på den primära kontakten från kundorganisationen som arbetar med detta avtal.|John
 Kundens kontakts efternamn|Beror|Efternamn är bara obligatoriskt om du behöver Microsoft-hjälp. Efternamnet på den primära kontakten från kundorganisationen som arbetar med detta avtal.|Kund
 Kundkontaktens Telefon nummer|Beror|Telefon är bara obligatoriskt om du behöver Microsoft-hjälp. Telefon antalet primära kontakter från kundorganisationen som arbetar med det här avtalet.|9999999999
 E-postadress till kundkontakt|Beror|E-postadressen är bara obligatorisk om du behöver Microsoft-hjälp. E-postadressen till den primära kontakten från kundorganisationen som arbetar med detta avtal.|john.customer@contoso.com
-Referensstatus för partner|Ja|Visar status för avtalet från företagets perspektiv. Krävs om du försöker skapa eller ändra en referens. Använd **Ny** om du försöker skapa ett nytt avtal. Värden som du kan använda visas i [Hänvisningsresurser.](/partner/develop/referral-resources#referralstatus)|Aktiv
-Understatus för partnerreferens|Ja|Anger den exakta statusen för avtalet. Använd **Accepterad** om du försöker skapa ett nytt avtal. Det krävs även om du ändrar en befintlig referens. Värden som du kan använda visas i [Hänvisningsresurser.](/partner/develop/referral-resources#referralsubstatus)|Har godkänts
+Referensstatus för partner|Yes|Visar status för avtalet från företagets perspektiv. Krävs om du försöker skapa eller ändra en referens. Använd **Ny** om du försöker skapa ett nytt avtal. Värden som du kan använda visas i [Hänvisningsresurser.](/partner/develop/referral-resources#referralstatus)|Aktiv
+Understatus för partnerreferens|Yes|Anger den exakta statusen för avtalet. Använd **Accepterad** om du försöker skapa ett nytt avtal. Det krävs även om du ändrar en befintlig referens. Värden som du kan använda visas i [Hänvisningsresurser.](/partner/develop/referral-resources#referralsubstatus)|Har godkänts
 Microsoft-hänvisningsstatus|Beror|Visar status för den begäran om säljförsäljning som du har skickat till Microsoft och som behöver hjälp. Det här är ett skrivskyddade fält. Ändringar som görs i det här fältet när du importerar data ignoreras.| Väntar
 Nekad/förlorad orsak|Beror| Du behöver bara ange den här informationen om du ändrar understatusen för fältet till antingen Nekad eller Förlorad. Annars kan du ignorera den här kolumnen. <br/> **Ange ett tal baserat på alternativen nedan** <br/><br/> **1**– Project budget inte är tillräcklig  <br/> **2**– Kunden svarade inte  <br/> **3**– Kunden valde en annan leverantör  <br/> **4** – Kundkravet uppfylls inte  <br/> **5** – Inte en kund <br/> **6**– Den föreslagna tidsraden var för kort <br/> **7** – Rapportera som missbruk, skräppost eller nätfiske <br/> **8** – Andra |6|
-Försäljningsstadie|Inga|Det här är fältet för att ange den detaljerade försäljningsfasen för hänvisningen. Läs mer om försäljningsstadier [i Hantera möjligheter till säljförsäljning i Partnercenter](./manage-co-sell-opportunities.md)|40
-Beräknat avtalsvärde|Ja|Avtalets värde baseras på de första konversationerna med kunden. Detta kan ändras tills avtalet når ett av de terminal-tillstånd som **vunnits eller** **förlorats.**|12563
-Valuta|Ja|Valutan som avtalsvärdet anges i. Valutakoderna finns på [Wikipedia-sidan ISO 4217.](https://en.wikipedia.org/wiki/ISO_4217)|USD
-Beräknat stängningsdatum|Ja|Beräknat slutdatum för avtalet baserat på de första konversationerna med kunden i formatet MM/DD/ÅYYY. <br/> **Datumet ska vara i UTC-tidszonen. Alla datum som visas i partnercentrets användargränssnitt baseras på lokaliserade tidszoner. Det kan finnas +/- en dag i Användargränssnittet i Partnercenter om du tittar på den referens som du angav datumet för i UTC-tidszonen.**|1/30/2020
-CRM-ID|Inga|Identifierare för den här specifika hänvisningen i ditt CRM-system om det finns någon. Det här är ett fält för fritextinmatning.|34234324-sdfsdf-345345-sfd
-Marknadsföringskampanj-ID|Inga|Det här fältet anger marknadsföringskampanjen, som resulterade i den här specifika hänvisningen. Används vanligtvis för ROI-beräkning|BingSummer2020
-Kommentarer|Inga|Detaljerad information som anger uppdateringarna som rör referensen|Det här är ett exempel på en anteckning
-Microsoft-hjälp krävs?|Ja|Detta är för att ange om du vill att Microsoft ska hjälpa dig att göra denna begäran om säljförsäljning|Ja
+Försäljningsstadie|No|Det här är fältet för att ange den detaljerade försäljningsfasen för hänvisningen. Läs mer om försäljningsstadier [i Hantera möjligheter till säljförsäljning i Partnercenter](./manage-co-sell-opportunities.md)|40
+Beräknat avtalsvärde|Yes|Avtalets värde baseras på de första konversationerna med kunden. Detta kan ändras tills avtalet når ett av de terminal-tillstånd som **vunnits eller** **förlorats.**|12563
+Valuta|Yes|Valutan som avtalsvärdet anges i. Valutakoderna finns på [Wikipedia-sidan ISO 4217.](https://en.wikipedia.org/wiki/ISO_4217)|USD
+Beräknat stängningsdatum|Yes|Beräknat slutdatum för avtalet baserat på de första konversationerna med kunden i formatet MM/DD/ÅYYY. <br/> **Datumet ska vara i UTC-tidszonen. Alla datum som visas i partnercentrets användargränssnitt baseras på lokaliserade tidszoner. Det kan finnas +/- en dag i Användargränssnittet i Partnercenter om du tittar på den referens som du angav datumet för i UTC-tidszonen.**|1/30/2020
+CRM-ID|No|Identifierare för den här specifika hänvisningen i ditt CRM-system om det finns någon. Det här är ett fält för fritextinmatning.|34234324-sdfsdf-345345-sfd
+Marknadsföringskampanj-ID|No|Det här fältet anger marknadsföringskampanjen, som resulterade i den här specifika hänvisningen. Används vanligtvis för ROI-beräkning|BingSummer2020
+Kommentarer|No|Detaljerad information som anger uppdateringarna som rör referensen|Det här är ett exempel på en anteckning
+Microsoft-hjälp krävs?|Yes|Detta är för att ange om du vill att Microsoft ska hjälpa dig att göra denna begäran om säljförsäljning|Yes
 Vilken specifik hjälp från Microsoft?|Beror|Ett av de sex olika sätt som Microsoft kan hjälpa dig på. Detta gäller bara om du väljer Ja för frågan "Microsoft-hjälp krävs? " <br/> **Ange ett tal baserat på alternativen nedan** <br/><br/> **1**– Arbetsbelastning – specifikt värdeförslag  <br/> **2**– Kundens tekniska arkitektur  <br/> **3**– Konceptbevis /Demo  <br/> **4**– Offerter och licensiering  <br/> **5**– Post – kundframgång för försäljning  <br/> **6**– Allmänt eller annat|1|
-Dela med Microsofts säljteam|Ja|Detta är för att ange om du vill dela information om avtalet med Microsofts säljteam eller inte. Detta gäller endast om du väljer Nej för frågan "Microsoft-hjälp krävs? "|Ja
-Kommentarer till Microsoft|Inga|Eventuella specifika kommentarer till Microsoft om du behöver hjälp från Microsoft|Behöver hjälp med en POC för Contoso-kund
-Samtycka till att dela kund-/partnerkontakt|Ja|Samtycka till att dela kundens kontaktuppgifter och dina anställdas kontaktuppgifter som arbetar med avtalet. **Avtal skapas eller uppdateras inte om du väljer Nej för den här kolumnen.** |Ja
+Dela med Microsofts säljteam|Yes|Detta är för att ange om du vill dela information om avtalet med Microsofts säljteam eller inte. Detta gäller endast om du väljer Nej för frågan "Microsoft-hjälp krävs? "|Yes
+Kommentarer till Microsoft|No|Eventuella specifika kommentarer till Microsoft om du behöver hjälp från Microsoft|Behöver hjälp med en POC för Contoso-kund
+Samtycka till att dela kund-/partnerkontakt|Yes|Samtycka till att dela kundens kontaktuppgifter och dina anställdas kontaktuppgifter som arbetar med avtalet. **Avtal skapas eller uppdateras inte om du väljer Nej för den här kolumnen.** |Yes
 CLA-nummer|Beror|CLA-nummer krävs inte när du skapar eller uppdaterar ett IOT-avtal. Det blir obligatoriskt när du går över till designsteget för vinst.
-Enhetskategori|Inga|Lista över alla IoT-enhetskategorier. Välj en kategori bland alternativen nedan <br>Consumer Gaming Device <br> ATM <br> Transportsystem & fordonstrafik <br> Azure Sphere tavla<br> Azure Sphere-komponent <br> Azure Sphere Guardian<br> Azure Sphere-modul <br> Skapa automation<br> Gaming-enhet <br> Kommunikationsenheter<br> Konsumentens Internetenhet <br> Konsumentförslitningsbar<br> Digital bildram <br> Digital Signage <br> Gateway <br> HHT/Mobile<br> Branschautomatiseringsenhet<br> Bransch surfplatta (icke-POS) <br> Helskärmsläge<br> Media Player<br> Medieenhet <br> Mobil POS <br> Navigeringsenhet<br> Nätverksprojektor<br> Övrigt<br> Annan bankenhet<br> Annan elektronisk konsumentenhet<br> Annan enhet<br> Annan företagsenhet<br>  Annan sensor/nod <br> Försäljningsenhet<br> Utskriftsenhet <br> Säkerhet/övervakning <br>  Server<br> Set-Top Box<br> Smart TV <br> Test- och mätningsenhet<br> Tunn klientenhet <br/>
-Silicon Type|Inga|Ange information om kretsuppsättningsmodellen genom att välja ett alternativ i listan nedan <br> AMD – A10 <br> AMD – A4 <br> AMD – A6 <br> AMD – A8 <br> AMD – E2 <br> AMD – FX 7500 <br> AMD – FX 7600P <br> AMD – FX 9370 <br> AMD – FX 9590 <br> AMD – G-serien <br> AMD – Andra <br> AMD – R-serien <br> AMD – resten av FX-modeller <br> Intel – Atom <br> Intel –Selleron – N1900 <br> Intel –Selleron – N2807 <br> Intel –Selleron – N2930 <br> Intel –Selleron – N3060 <br> Intel –Selleron – N3160 <br> Intel – Core i3 <br> Intel – Core i5 <br> Intel – Core i7 <br> Intel – Core M <br> Intel – Andra <br> Intel – Pentium <br> Intel – resten avSelleron <br> Intel – XEON <br> MediaTek MT3620 <br> NXP 8ULP-CS <br> Andra <br/>
-Azure-certifierad enhet|Inga|Detta är för att ange om Azure-kompatibilitetscertifieringen har uppnåtts för enheten
-Bifoga tjänster|Inga|Detta är för att ange om Azure-tjänsterna ska paketeras med IoT-lösningen vid distribution
-Microsoft MSX-ID|Inga|ID för ett avtal i Microsoft MSX-systemet, endast tillgängligt för möjligheter till säljförsäljning
-Migrerat PSC-avtals-ID|Inga|PSC-avtals-ID, endast tillgängligt för ett avtal som migrerats från PSC till PC
-MPN-ID|Inga|MPN-ID för den organisation som säljarna skapas för
-Lösning 1|Ja|Lösnings-ID (krävs), valutan (valfritt) där avtalsvärdet anges. Du hittar [valutakoderna](https://en.wikipedia.org/wiki/ISO_4217), Pris för SKU:n (valfritt) och Antal för SKU:n (valfritt)  |SOL-1234-PQRS, USD, 10, 100
-Teammedlem 1|Ja|Förnamn, Efternamn, mobilnummer och e-post-ID för respektive teammedlem.| Bob, Partner, 999999, Bob.partner@Contoso.com
-Microsoft-teammedlem 1|Inga|Förnamn, Efternamn, mobilnummer och e-post-ID för respektive Microsoft-teammedlem som arbetar med säljförsäljningsmöjligheten.| Sam, Seller, 999999, Sam.seller@Microsoft.com
+Enhetskategori|No|Lista över alla IoT-enhetskategorier. Välj en kategori bland alternativen nedan <br>Consumer Gaming Device <br> ATM <br> Transportsystem & fordonstrafik <br> Azure Sphere tavla<br> Azure Sphere-komponent <br> Azure Sphere Guardian<br> Azure Sphere-modul <br> Skapa automation<br> Gaming-enhet <br> Kommunikationsenheter<br> Konsumentens Internetenhet <br> Konsumentförslitningsbar<br> Digital bildram <br> Digital Signage <br> Gateway <br> HHT/Mobile<br> Branschautomatiseringsenhet<br> Bransch surfplatta (icke-POS) <br> Helskärmsläge<br> Media Player<br> Medieenhet <br> Mobil POS <br> Navigeringsenhet<br> Nätverksprojektor<br> Övrigt<br> Annan bankenhet<br> Annan elektronisk konsumentenhet<br> Annan enhet<br> Annan företagsenhet<br>  Annan sensor/nod <br> Försäljningsenhet<br> Utskriftsenhet <br> Säkerhet/övervakning <br>  Server<br> Set-Top Box<br> Smart TV <br> Test- och mätningsenhet<br> Tunn klientenhet <br/>
+Silicon Type|No|Ange information om kretsuppsättningsmodellen genom att välja ett alternativ i listan nedan <br> AMD – A10 <br> AMD – A4 <br> AMD – A6 <br> AMD – A8 <br> AMD – E2 <br> AMD – FX 7500 <br> AMD – FX 7600P <br> AMD – FX 9370 <br> AMD – FX 9590 <br> AMD – G-serien <br> AMD – Andra <br> AMD – R-serien <br> AMD – resten av FX-modeller <br> Intel – Atom <br> Intel –Selleron – N1900 <br> Intel –Selleron – N2807 <br> Intel –Selleron – N2930 <br> Intel –Selleron – N3060 <br> Intel –Selleron – N3160 <br> Intel – Core i3 <br> Intel – Core i5 <br> Intel – Core i7 <br> Intel – Core M <br> Intel – Andra <br> Intel – Pentium <br> Intel – resten avSelleron <br> Intel – XEON <br> MediaTek MT3620 <br> NXP 8ULP-CS <br> Andra <br/>
+Azure-certifierad enhet|No|Detta är för att ange om Azure-kompatibilitetscertifieringen har uppnåtts för enheten
+Bifoga tjänster|No|Detta är för att ange om Azure-tjänsterna ska paketeras med IoT-lösningen vid distribution
+Microsoft MSX-ID|No|ID för ett avtal i Microsoft MSX-systemet, endast tillgängligt för möjligheter till säljförsäljning
+Migrerat PSC-avtals-ID|No|PSC-avtals-ID, endast tillgängligt för ett avtal som migrerats från PSC till PC
+MPN-ID|No|MPN-ID för den organisation som säljarna skapas för
+Lösning 1|Yes|Lösnings-ID (krävs), valutan (valfritt) där avtalsvärdet anges. Du hittar [valutakoderna](https://en.wikipedia.org/wiki/ISO_4217), Pris för SKU:n (valfritt) och Antal för SKU:n (valfritt)  |SOL-1234-PQRS, USD, 10, 100
+Teammedlem 1|Yes|Förnamn, Efternamn, mobilnummer och e-post-ID för respektive teammedlem.| Bob, Partner, 999999, Bob.partner@Contoso.com
+Microsoft-teammedlem 1|No|Förnamn, Efternamn, mobilnummer och e-post-ID för respektive Microsoft-teammedlem som arbetar med säljförsäljningsmöjligheten.| Sam, Seller, 999999, Sam.seller@Microsoft.com
 
 ## <a name="next-steps"></a>Nästa steg
 

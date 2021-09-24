@@ -10,11 +10,11 @@ ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: ac0004b2197aca7c161216726361c946ebe86775
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/24/2021
-ms.locfileid: "128366109"
+ms.locfileid: "128367152"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Sälj till specialiserade branscher såsom utbildning, ideella organisationer och myndighetsanvändare
 
@@ -27,7 +27,7 @@ Microsoft erbjuder särskilda, reducerade priser för utvalda grupper av kunder,
 |**Specialpriser**   |**Kvalificering som krävs av återförsäljare**   |**Kundkvalifikationer som krävs**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Education   |Ingen   | Måste vara en [kvalificerad utbildningsanvändare](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)   |
-| US Federal Government [– Office Government Community Cloud (GCC) High- och DoD-miljöer](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod)    |Om du Azure Government registrering med hjälp av [formuläret Microsoft US Government Cloud Validation](https://azuregov.microsoft.com/csp). Försäljning av licensbaserade prenumerationer är endast tillgängligt vid inbjudan.|   Måste vara en kvalificerad [amerikansk federal myndighetsentitet](https://azure.microsoft.com/global-infrastructure/government/how-to-buy/) |
+| Us Federal Government [– Office Government Community Cloud (GCC) High- och DoD-miljöer](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod)    |Om du Azure Government registrering med hjälp av [formuläret Microsoft US Government Cloud Validation](https://azuregov.microsoft.com/csp). Försäljning av licensbaserade prenumerationer är endast tillgängligt vid inbjudan.|   Måste vara en kvalificerad [amerikansk federal myndighetsentitet](https://azure.microsoft.com/global-infrastructure/government/how-to-buy/) |
 | US Federal Government – GCC moderate-miljö | Måste räknas som att arbeta med amerikanska myndighetskunder genom att fylla i formuläret Berätta [om din CSP-partnerorganisation direkt.](https://www.microsoft.com/microsoft-365/government/eligibility-validation?ReqType=CSPPartner&rtc=1) Stegvisa instruktioner finns i Sell Office 365 för myndigheter GCC for CSP subscriptions to qualified customers (Sälja [Office 365 för myndigheter GCC för CSP-prenumerationer till kvalificerade kunder)](./csp-gcc-overview.md) | Måste vara en kvalificerad [entitet för amerikanska myndigheter.](https://www.microsoft.com/microsoft-365/government/eligibility-validation?rtc=1) Stegvisa instruktioner finns i Sell Office 365 för myndigheter GCC for CSP subscriptions to qualified customers (Sälja [Office 365 för myndigheter GCC för CSP-prenumerationer till kvalificerade kunder)](./csp-gcc-overview.md)  |
 | Alla andra myndighetsentiteter | Inga. Partner måste etablera med hjälp av "företagserbjudanden". | Ingen
 Ideell verksamhet  |Ingen|Registrera dig via [Microsofts program för ideella organisationer för](https://nonprofit.microsoft.com/#/register) att bli berättigad.   |
@@ -60,7 +60,7 @@ Partner kan bara sälja specialerbjudanden till kunder om de uppfyller vissa kri
 
 - Utbildningserbjudanden kan bara köpas om kunden har auktoriserats som utbildningsnämnd. En Education-kund kan bara ta emot utbildnings- och kommersiella erbjudanden, men inte icke-vinst- eller myndighetsmoln (GCC).
 - Partner kan bara köpa GCC prenumerationer för GCC kunder. När en kund har en GCC prenumeration kan partner inte köpa kommersiella prenumerationer, utbildningsprenumerationer eller ideella prenumerationer.
-- Partner kan bara köpa kommersiella eller ideella prenumerationer för ideella kunder. Partner kan inte köpa GCC eller utbildningsprenumerationer för ideella kunder.
+- Partner kan bara köpa kommersiella eller ideella prenumerationer för ideella kunder. Partner kan inte GCC eller utbildningsprenumerationer för ideella kunder.
 - Tillståndsägda entiteter måste uppfylla [behörighetskriterierna](https://www.microsoft.com/legal/compliance/anticorruption/criteria).
 
 Inköpsregler för att sälja specialerbjudanden till kunder:

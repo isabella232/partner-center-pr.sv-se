@@ -13,7 +13,7 @@ ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/24/2021
-ms.locfileid: "128367135"
+ms.locfileid: "128369345"
 ---
 # <a name="rejected-co-op-claims"></a>Avvisade co-op-anspråk
 **Lämpliga roller:** Incitamentsadministratörsroller | Incitamentsanvändare
@@ -24,7 +24,7 @@ Om det material som du skickade in med ditt co-op-anspråk bedöms vara otillrä
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 
-2. Under **Incitament** väljer **du Samhantering.**
+2. Under **Incitament** väljer du **Samhantering.**
 
 3. Välj det co-op-anspråk som du vill bestrida. Sidan för co-op-anspråk öppnas.
 
