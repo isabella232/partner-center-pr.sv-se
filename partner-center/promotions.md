@@ -9,21 +9,22 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 335c0806d9504263dcfa506721b4217cf8b78db6
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 83f4bb361002a903bff1b3d1433d09b9d244632a
+ms.sourcegitcommit: dd900161830c59bcf3c5d700d524436ee05cd987
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960646"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128714121"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Använda kampanjer för att locka nya kunder och överföra besparingarna till dem
 
-
-
 **Lämpliga roller:** Administratörsagent | MPN-partneradministratör | Faktureringsadministratörskonto | Försäljningsagent
 
-
 Microsoft erbjuder ibland kampanjer för licensbaserade prenumerationer, så att du kan överföra besparingarna till kunder och utöka din verksamhet. 
+
+> [!Note] 
+> I den här artikeln beskrivs hur kampanjer fungerar för traditionella licensbaserade prenumerationer. Information om hur kampanjer fungerar för nya licensbaserade prenumerationer för handel finns i det nya [handelskampanjämnet](new-commerce-promotions.md).
+> 
 
 Microsoft erbjuder två typer av kampanjer: de som är tillgängliga för alla berättigade partner i Molnlösningsleverantör-programmet (CSP) och de som endast är tillgängliga för partner i en viss geografisk region.
 
