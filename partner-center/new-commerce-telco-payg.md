@@ -9,14 +9,14 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b7f3fa6ce3b92e7b182192290f5ebb4ee167ff7a
-ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
+ms.openlocfilehash: e6ca40f44b97a9b60b48ccedbed7a3df7baad465
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "127876755"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070236"
 ---
-# <a name="introduction-new-commerce-overage-for-telco-pay-as-you-go"></a>Introduktion: Överkurs i ny handel för telco-betalning allt eftersom
+# <a name="introduction-new-commerce-overage-for-telco-pay-as-you-go"></a>Introduktion: Överkurs för ny handel för telco – betala enligt din go-betalning
 
 **Lämpliga roller**
 
@@ -27,23 +27,23 @@ ms.locfileid: "127876755"
 > [!NOTE]
 > Ändringarna i den nya handelsupplevelsen är för närvarande endast tillgängliga för partner som ingår i den tekniska förhandsversionen av Microsoft 365/Dynamics 365.
 
-Vissa licensbaserade produkter innehåller tjänster med allokerade anropsplaner. Dessa anropsplaner har vanligtvis en allokering per licens för minuter per månad, vanligtvis 120 per licens.
+Vissa licensbaserade produkter innehåller tjänster med allokerade anropsplaner. Dessa anropsplaner har vanligtvis en allokering per licens för minuter per månad, vanligtvis 120 per licens. 
 
 I traditionella licensbaserade partnerscenarier fanns det inget sätt att aktivera tjänstanvändning utöver de månatliga gränserna. Kunder som behöver mer än 120 minuter för att köpa kommunikationskrediter eller *själva kommunikationskrediten* direkt från Microsoft.  Dessa kommunikationskrediter erbjuds inte i Partnercenter.
 
-## <a name="using-new-commerce-telco-pay-as-you-go"></a>Använda telco pay för ny handel ##
+## <a name="using-new-commerce-telco-pay-as-you-go"></a>Använda telco pay för ny handel
 
-Den här begränsningen har åtgärdats i ny handel så att partnern kan aktivera överkapacitet för tjänster som tillåter det. Partner kan köpa erbjudanden som omfattar överkapacitet. Dessa erbjudanden identifieras i kolumnen taggar för prislistan som *IncludeOverage*. Katalog-SKU:n innehåller också en egenskap för att fastställa att SKU:n stöder överkapaciteten. Partner köper bara erbjudandena och systemet konfigurerar och överprenumeration som inte är någon kostnad och endast ackumulerar fakturering när kundens användare överkommer de allokerade månatliga samtalsminuterna som följer med det köpta erbjudandet.
+Den här begränsningen har åtgärdats i ny handel så att partnern kan aktivera överkapacitet för tjänster som tillåter det. Partner kan köpa erbjudanden som omfattar överkapacitet. Dessa erbjudanden identifieras i kolumnen taggar för prislistan som *IncludeOverage*. Katalog-SKU:n innehåller också en egenskap för att fastställa att SKU:n stöder överkapaciteten. Partner köper bara erbjudandena och systemet konfigurerar och överprenumeration som inte är någon kostnad och endast ackumulerar fakturering när kundens användare överkommer de allokerade månatliga samtalsminuterna som följer med det köpta erbjudandet. 
 
-Partner kan spåra överförbrukningsanvändning genom att gå Azure Portal och använda kostnadshanteringsfunktioner. Partner har också möjlighet att när som helst ange övertiden till *Ingen* om de vill inaktivera eller inaktivera övertid när som helst.
+Partner kan spåra överförbrukningsanvändning genom att gå till Azure Portal och använda funktioner och funktioner för kostnadshantering. Partner har också möjlighet att när som helst ange övertiden till *Ingen* om de vill inaktivera eller inaktivera övertid när som helst.
 
 Partner kan identifiera vilka produkter som innehåller överkapacitet genom att visa produkt-SKU:er för Partner Center-katalogen. 
 
-Partner som köper produkter med överköp möjliggör över- och överning genom att gå *till Hantera överköp* på sidan Hantera prenumerationer. Detta gör att partnern kan aktivera överförbrukning och tilldela önskad förbrukningsprenumeration som överförbrukningsavgifterna flödar till. Partnern kan när som helst inaktivera överförbrukning genom att tilldela förbrukningsprenumerationen till *Ingen.*
+Partner som köper produkter med överköp möjliggör över- och överning genom att gå *till Hantera överköp* på sidan Hantera prenumerationer. Detta gör att partnern kan aktivera överförbrukning och tilldela önskad förbrukningsprenumeration som överförbrukningsavgifterna flödar till. Partnern kan när som helst inaktivera överförbrukning genom att tilldela förbrukningsprenumerationen till *Ingen.* 
 
-Partner tilldelar överage eller inaktiverar den *med hjälp av funktionen Hantera över* huvud i prenumerationslistan. Detta är endast tillgängligt om partnern har prenumerationer som aktiverar överåtkomlig. Månatliga överkostnader påförs den tilldelade prenumerationen och identifieras i partneravstämningsfilen. Partner kan spåra överförbrukningsanvändning genom att gå till funktionerna för Azure-kostnadshantering i Azure Portal. 
+Partner tilldelar överage eller inaktiverar den *med hjälp av funktionen Hantera över* huvud i prenumerationslistan. Detta är endast tillgängligt om partnern har prenumerationer som aktiverar överåtkomlig. Månatliga överkostnader påförs den tilldelade prenumerationen och identifieras i partneravstämningsfilen. Partner kan spåra överförbrukningsanvändning genom att besöka Funktionerna för Azure-kostnadshantering i Azure Portal. 
 
-## <a name="important-details-about-overage"></a>Viktig information om överage ##
+## <a name="important-details-about-overage"></a>Viktig information om överage
 
 Om du köper en produkt-SKU som möjliggör överflöde ser du automatiskt till att partnerns kund har ställts in för att överflödet ska gå över. Detta omfattar att skapa en Azure-plan utan kostnad, en associerad Azure-standardprenumeration och en prenumeration som är specifikt för överförbrukning. Partner kan se och tilldela den prenumeration som de vill att över- och överningen ska ackumuleras till i Hantera överage.
 

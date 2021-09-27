@@ -1,221 +1,97 @@
 - name: Dokumentation för Microsoft Partnercenter
   href: index.yml
-- name: Meddelanden
-  href: announcements/TOC.md
 - name: Vad är Partnercenter?
   href: overview.md
-- name: Medlemskap i partnernätverk
+- name: Ta dig runt i Partnercenter
+  href: get-around-partner-center.md
+- name: Meddelanden
+  href: announcements/TOC.md
+- name: Registrera
   items:
-    - name: Partnersamarbete med Microsoft
-      href: mpn-overview.md
-      displayName: mpn
-    - name: Skapa ett MPN-konto i Partnercenter
+    - name: Microsoft Partner Network
       href: mpn-create-a-partner-center-account.md
-      displayName: mpn
-    - name: Felsöka kontokonfiguration
-      href: troubleshoot-account-sign-n.md
-    - name: Partner Membership Center går i pension
-      href: partner-membership-center-retirement-faq.md
-    - name: Medlemsförmåner
-      items:
-        - name: Översikt över förmåner
-          href: manage-your-partner-network-benefits.md
-          displayName: mpn
-        - name: Action Pack
-          href: mpn-get-action-pack.md
-          displayName: 'renew, mpn'
-        - name: Förnya dina erbjudanden
-          href: renew-mpn-offers.md
-          displayName: mpn
-        - name: Begära en återbetalning
-          href: mpn-refund-request.md
-          displayName: mpn
-        - name: Hitta dina MPN-förmåner
-          href: mpn-find-benefits.md
-          displayName: mpn
-        - name: Princip och användning för förmåner – Vanliga frågor och svar
-          href: benefits-faq-new.yml
-        - name: Vanliga frågor och svar om förmåner
-          href: benefits-faq.yml
-          displayName: 'renew, license,'
-        - name: Visa eller ladda ned din MPN-faktura
-          href: mpn-view-print-maps-invoice.md
-    - name: Tillgängliga fördelar
-      items:
-        - name: Marknadslanseringsförmåner
-          href: mpn-learn-about-go-to-market-benefits.md
-          displayName: mpn
-        - name: Demonstrationer för MPN-partner
-          href: mpn-demos.md
-          displayName: mpn
-        - name: Fördelar med Azure och molnet
-          href: mpn-benefits-azure-cloud.md
-          displayname: 'activate, azure license, mpn, renew'
-        - name: Programvaruprodukter
-          href: mpn-benefits-software.md
-          displayname: 'software, on-premise benefit, mpn'
-        - name: Visual Studio fördelar
-          href: mpn-benefits-visual-studio.md
-          displayname: 'visual studio, mpn, activate'
-        - name: Teknisk support och distributionshjälp
-          href: technical-benefits.md
-          displayname: 'TPD, presales, deployment, technical'
-        - name: Tekniska fördelar
-          href: mpn-benefits-technical-support.md
-          displayname: 'support, incidents, technical'
-        - name: Skapa en logotyp med Logo Builder
-          href: mpn-logo-builder.md
-    - name: Marketplace Rewards
-      href: marketplace-rewards.md
-    - name: Software Assurance
-      items:
-        - name: Översikt över program
-          href: software-assurance-lp.md
-        - name: Utbildningskuponger (SATV)
-          href: software-assurance-satv.md
-        - name: Planeringstjänster (PS)
-          href: software-assurance-dps.md
-          items:
-            - name: Behörighetskrav
-              href: software-assurance-dps-requirements.md
-    - name: Kompetenser
-      items:
-        - name: Lär dig mer om kompetenser
-          href: learn-about-competencies.md
-          displayName: mpn
-        - name: Registrera dig som Learning partner
-          href: mpn-benefits-map-competency-learning-option-enroll.md
-          displayName: mpn
-        - name: Vanliga frågor och svar om kompetenser
-          href: competencies-faq.yml
-          displayName: 'renew, mpn'
-        - name: Avgifter för betalning av kompetens
-          href: mpn-pay-fee-silver-gold-competency.md
-          displayName: mpn
-        - name: Undantag för apputvecklarkompetens
-          href: app-dev-isv.md
-        - name: Använda kunskapsrapporten
-          href: mpn-skills-report.md
-    - name: Avancerade specialiseringar
-      items:
-        - name: Demonstrera dina kunskaper
-          href: advanced-specializations.md
-          displayName: Advanced specializations
-        - name: Tillämpa eller kontrollera status
-          href: advanced-specializations-apply.md
-          displayName: 'mpn, Advanced specializations'
-    - name: Bli en Azure Expert MSP
-      href: azure-expert-msp.md
-- name: Molnlösningsleverantör program (CSP)
-  href: csp-overview.md
-  displayName: csp
-  items:
-    - name: Registrera dig för Molnlösningsleverantör-programmet
+    - name: krav Molnlösningsleverantör (CSP)
       href: enrolling-in-the-csp-program.md
-      displayName: 'indirect, reseller, csp'
+    - name: Indirekt eller direkt CSP
+      href: csp-overview.md
     - name: Krav för CSP-direktpartner
       href: direct-partner-new-requirements.md
-    - name: Begränsad åtkomst till direktfakturering
-      href: restricted-direct-bill-capabilities.md
-      displayName: 'indirect, reseller, direct'
     - name: Växla CSP-direktfakturering till indirekt återförsäljare
       href: transition-direct-to-indirect.md
-      displayName: csp
-    - name: Partner kan inte längre registrera sig som rådgivare
-      href: advisors-no-csp.md
-- name: CSP-avtal
-  href: microsoft-partner-agreement.md
-  items:
-    - name: Hur indirekta leverantörer kan hjälpa sina återförsäljare att införa MPA
-      href: mpa-indirect-provider-faq.yml
-      displayName: 'csp, mpa, indirect, provider'
-    - name: 'CSP-avtal, prislistor, erbjudanden'
-      href: csp-documents-and-learning-resources.md
-      displayName: csp
-    - name: 'Microsoft-kundavtal (efter region, språk)'
-      href: agreements.md
-    - name: Så här bekräftar du kundens godkännande av Microsoft-kundavtal
-      href: confirm-customer-agreement.md
-    - name: 'Regionala CSP-marknader, valutor'
-      href: regional-authorization-overview.md
-      displayName: 'regio, region, csp'
-    - name: Instruktioner för CSP-auktorisering för konsolidering av klientorganisationer
-      href: csp-regional-authorization-tenant-consolidation.md
-      displayName: 'regio, region, csp'
-    - name: Ansök om att sälja i nationella moln
-      href: csp-national-clouds-overview.md
+    - name: Uppgifter för indirekta återförsäljare
+      href: indirect-reseller-tasks-in-partner-center.md
+    - name: Registrera för att vara en Azure Expert MSP
+      href: azure-expert-msp.md
+    - name: Registrera dig som Kontrollpanelen leverantör
+      href: enroll-as-cpv.md
+    - name: Fullständig kontoverifiering
+      href: verification-responses.md
+    - name: Felsöka kontokonfiguration
+      href: troubleshoot-account-sign-n.md
+    - name: Förstå Microsoft-partneravtal
       items:
+        - name: CSP-avtal
+          href: microsoft-partner-agreement.md
+        - name: Hur indirekta leverantörer kan hjälpa sina återförsäljare att införa MPA
+          href: mpa-indirect-provider-faq.yml
+        - name: 'Regionala CSP-marknader, valutor'
+          href: regional-authorization-overview.md
+        - name: 'CSP-avtal, prislistor, erbjudanden'
+          href: csp-documents-and-learning-resources.md
+    - name: Sälja i nationella moln
+      items:
+        - name: Översikt över nationella moln
+          href: csp-national-clouds-overview.md
         - name: Välkommen till Partnercenter för Microsoft Cloud for US Government
           href: partner-center-for-microsoft-us-govt-cloud.md
         - name: Vanliga frågor och svar – Microsoft Cloud för myndigheter i USA
           href: faq-for-us-govt-cloud.yml
-          displayName: csp
         - name: Partnercenter för Microsoft Cloud Tyskland
           href: partner-center-for-microsoft-cloud-germany.md
         - name: Registrera dig  i Molnlösningsleverantör – Microsoft Cloud för myndigheter i USA
           href: enroll-in-csp-for-microsoft-us-govt-cloud.md
-          displayName: csp
-        - name: Sälj Office 365 för Government GCC för Molnlösningsleverantör
-          href: csp-gcc-overview.md
-          displayName: csp
         - name: Office 365 Government GCC – berättigandekriterier för partner och kunder
           href: csp-gcc-validate.md
-        - name: Hantering av användare och licenser för Microsoft Cloud Tyskland
-          href: user-management-in-partner-center-for-microsoft-cloud-germany.md
-        - name: Hantering av användare och licenser för Microsoft Cloud för myndigheter i USA
-          href: user-management-in-partner-center-for-microsoft-us-govt-cloud.md
-- name: Hantera ett Partnercenterkonto
+    - name: CSP-partnerrelationer som stöds
+      href: csp-supported-partner-relationships.md
+    - name: Lägga till Azure AD-program
+      href: service-principal.md
+    - name: Momsinformation i Partnercenter-registrering
+      href: vat-info.md
+- name: Kontoinställningar
   items:
-    - name: Allmän kontohantering
+    - name: Kontoöversikt
+      href: partner-center-account-setup.md
+    - name: Om kontostrukturen
+      href: account-structure.md
+    - name: Hantera konton
       items:
-        - name: Om kontot
-          href: partner-center-account-setup.md
-          displayName: 'mpn, csp'
-        - name: Om kontostrukturen
-          href: account-structure.md
-          displayName: mpn
         - name: Länka ditt arbetskonto
           href: azure-active-directory-tenants-and-partner-center.md
         - name: Hantera platser
           href: manage-locations.md
-          displayName: 'mpn, csp'
         - name: Verifiera domänägarskap
           href: become-global-admin.md
-        - name: Verifiera kontoinformation
-          href: verification-responses.md
         - name: Slå samman partnerkonton
           href: merge-accounts.md
-          displayName: 'mpn, renew'
         - name: Lägga till fler Azure AD-klientorganisationer
           href: multi-tenant-account.md
         - name: Uppdatera din partnerprofil
           href: update-your-partner-profile.md
-          displayName: mpn
-        - name: Certifiering av partner finder-lista
-          href: partner-finder-certification.md
         - name: Information om registrerings-ID-nummer
           href: reg-number-id.md
-        - name: Bli en kontrollpanelsleverantör
-          href: enroll-as-cpv.md
-          displayName: csp
         - name: Återställa inaktiverade konton
           href: suspended-partner-center-account.md
-        - name: Lägga till Azure AD-program
-          href: service-principal.md
-        - name: Associera Learn-konto
-          href: ms-learn-associate.md
+        - name: 'Hitta ID:n och domännamn'
+          href: find-ids-and-domain-names.md
     - name: Hantera användare
       items:
-        - name: Skapa användarkonton
-          href: create-user-accounts-and-set-permissions.md
         - name: Tilldela roller till användare
           href: permissions-overview.md
-          displayName: 'role, ro, roles, mpn'
+        - name: Skapa användarkonton
+          href: create-user-accounts-and-set-permissions.md
         - name: Hitta din roll
           href: find-your-role.md
-          displayName: 'role, roles, ro'
-        - name: Bli en kontrollpanelsleverantör
-          href: enroll-as-cpv.md
         - name: Återställa ett användarlösenord
           href: reset-a-user-password.md
         - name: Återställa mitt lösenord
@@ -224,23 +100,105 @@
           href: unable-to-sign-in.md
         - name: Användaren har ingen MPN-administratör
           href: no-mpn-admin.md
-          displayName: mpn
-    - name: Hantera din verksamhet
+    - name: Säkerhetskrav
       items:
-        - name: Azure Partner Shared Services
-          href: shared-services.md
-          displayName: csp
-        - name: Priser och erbjudanden
-          href: pricing-and-offers.md
-          displayName: csp
+        - name: Säkerhetsöversikt
+          href: partner-security-requirements.md
+        - name: Kräva multifaktorautentisering för din partnerorganisation
+          href: partner-security-requirements-mandating-mfa.md
+        - name: Ge användarna MFA
+          href: mfa-for-users.md
+        - name: Status för krav
+          href: partner-security-compliance.md
+        - name: Vanliga frågor och svar
+          href: partner-security-requirements-faq.yml
+- name: Medlemskap
+  items:
+    - name: Översikt över medlemskap
+      href: mpn-overview.md
+    - name: Marketplace-förmåner
+      href: marketplace-rewards.md
+    - name: Förnya dina erbjudanden
+      href: renew-mpn-offers.md
+    - name: Visa din MPN-faktura
+      href: mpn-view-print-maps-invoice.md
+    - name: Software Assurance
+      items:
+        - name: Software Assurance program
+          href: software-assurance-lp.md
+        - name: Utbildningskuponger (SATV)
+          href: software-assurance-satv.md
+        - name: Planeringstjänster (PS)
+          href: software-assurance-dps.md
+        - name: Behörighetskrav
+          href: software-assurance-dps-requirements.md
+        - name: Action Pack
+          href: mpn-get-action-pack.md
+    - name: Kompetenser
+      items:
+        - name: Lär dig mer om kompetenser
+          href: learn-about-competencies.md
+        - name: Undantag för apputvecklarkompetens
+          href: app-dev-isv.md
+        - name: Registrera dig som Learning partner
+          href: mpn-benefits-map-competency-learning-option-enroll.md
+        - name: Vanliga frågor och svar om kompetenser
+          href: competencies-faq.yml
+        - name: Betala avgifter för kompetens
+          href: mpn-pay-fee-silver-gold-competency.md
+        - name: Använda kunskapsrapporten
+          href: mpn-skills-report.md
+    - name: Avancerade specialiseringar
+      items:
+        - name: Demonstrera dina kunskaper
+          href: advanced-specializations.md
+        - name: Tillämpa eller kontrollera status
+          href: advanced-specializations-apply.md
+    - name: Konsolidera CSP-regionala auktoriseringsklienter
+      href: csp-regional-authorization-tenant-consolidation.md
+    - name: Associera Learn-konto
+      href: ms-learn-associate.md
+    - name: Partner Membership Center går i pension
+      href: partner-membership-center-retirement-faq.md
+- name: Fördelar
+  items:
+    - name: Översikt över förmåner
+      href: manage-your-partner-network-benefits.md
+    - name: Begära en återbetalning
+      href: mpn-refund-request.md
+    - name: Hitta dina MPN-förmåner
+      href: mpn-find-benefits.md
+    - name: Princip och användning av förmåner
+      href: benefits-faq-new.yml
+    - name: Vanliga frågor och svar om förmåner
+      href: benefits-faq.yml
+    - name: Tillgängliga fördelar
+      items:
+        - name: Marknadslanseringsförmåner
+          href: mpn-learn-about-go-to-market-benefits.md
+        - name: Demonstrationer för MPN-partner
+          href: mpn-demos.md
+        - name: Fördelar med Azure och molnet
+          href: mpn-benefits-azure-cloud.md
+        - name: Programvaruprodukter
+          href: mpn-benefits-software.md
+        - name: Visual Studio fördelar
+          href: mpn-benefits-visual-studio.md
+        - name: Teknisk support och distributionshjälp
+          href: technical-benefits.md
+        - name: Tekniska fördelar
+          href: mpn-benefits-technical-support.md
+        - name: Skapa en logotyp med Logo Builder
+          href: mpn-logo-builder.md
+    - name: Begränsad åtkomst till direktfakturering
+      href: restricted-direct-bill-capabilities.md
 - name: Referenser
   items:
-    - name: Utveckla verksamheten
-      href: grow-your-business.md
-      displayName: 'trial, csp'
     - name: Översikt över referenser
       href: referrals.md
-    - name: Hantera företagsprofil
+    - name: Utveckla verksamheten
+      href: grow-your-business.md
+    - name: Hantera din företagsprofil
       href: create-a-marketing-profile.md
     - name: Hantera leads
       href: manage-leads.md
@@ -264,69 +222,325 @@
           href: psc-to-pc.md
         - name: Migrering av IOT PSC till PC
           href: partner-sales-connect-to-partner-center-iot.md
-          displayName: mpn
     - name: Registrera dina avtal
       href: register-deals.md
     - name: Vanliga frågor och svar om hänvisningar
       href: referrals-faq.md
-    - name: Hänvisningsanalys
+- name: Kunder
+  items:
+    - name: Översikt över kunder
+      href: connect-with-your-customers.md
+    - name: Arbeta med kunder
       items:
-        - name: Få insikter om leads
-          href: referral-leads-insights.md
-        - name: Hämta insikter om hänvisningar
-          href: referral-insights.md
-        - name: Definition av referensanalysdata
-          href: referral-analytics-data-definition.md
+        - name: Visa kundaktivitetsloggar
+          href: activity-logs.md
+        - name: Lägga till en ny kund
+          href: add-a-new-customer.md
+        - name: Ta bort en förfrågan om återförsäljarrelation med en kund
+          href: remove-a-relationship.md
+        - name: Visa din kundlista
+          href: see-your-customer-list.md
+        - name: Uppdatera kundkontoinformation
+          href: update-customer-account-info.md
+        - name: Lägga till flera användare för en kund
+          href: adding-multiple-users-to-a-customer-account.md
+        - name: Tilldela supportkontakter
+          href: assign-support-contacts.md
+        - name: Arbeta med andra partner
+          href: work-with-other-partners.md
+        - name: Stöd för flera kanaler
+          href: multichannel.md
+        - name: Stöd för flera partner
+          href: multipartner.md
+        - name: Tilldela Azure-prenumerationer i Partnercenter
+          href: assign-azure-subscriptions.md
+        - name: Hantera användare och licenser
+          href: assign-licenses-to-users.md
+        - name: Förenkla enhetskonfiguration med Windows Autopilot
+          href: autopilot.md
+        - name: Hantera Microsoft Azure-reservationer åt dina kunder
+          href: azure-reservations-manage.md
+        - name: Tilldela eller återkalla licenser till flera användare
+          href: bulk-license-provisioning-for-multiple-users.md
+        - name: Kontrollera tjänststatus
+          href: check-service-health.md
+        - name: Så här bekräftar du kundens godkännande av Microsoft-kundavtal
+          href: confirm-customer-agreement.md
+        - name: 'Skapa, pausa eller avbryta kundprenumerationer'
+          href: create-a-new-subscription.md
+        - name: Sälja lokal programvara via Molnlösningsleverantör-programmet
+          href: csp-on-premise-software.md
+        - name: Kundkommunikation från Microsoft
+          href: customer-communication-from-microsoft.md
+        - name: Ge teknisk support
+          href: provide-technical-support.md
+        - name: Självsupport för kunder
+          href: customer-self-support.md
+        - name: Eskalera problem till Microsoft
+          href: escalate-problems-to-microsoft.md
+        - name: Ge support till dina kunder
+          href: customer-support.md
+        - name: Få delegerade administrationsbehörigheter från en kund
+          href: customers-revoke-admin-privileges.md
+        - name: Importera flera användare
+          href: file-customer-users.md
+        - name: Hitta en partner
+          href: find-a-partner.md
+        - name: Låta kunderna köpa sina egna tjänster
+          href: give-customers-permission.md
+        - name: Öka användningen och nöjdheten
+          href: increasing-adoption-and-satisfaction.md
+        - name: Uppgifter för indirekta leverantörer
+          href: indirect-provider-tasks-in-partner-center.md
+        - name: Rapportera problem för en kunds räkning
+          href: report-problems-on-behalf-of-a-customer.md
+        - name: Göra en förfrågan om återförsäljarrelation med en kund
+          href: request-a-relationship-with-a-customer.md
+    - name: Microsoft-kundavtal
+      href: agreements.md
+    - name: Certifiering av partner finder-lista
+      href: partner-finder-certification.md
+    - name: Licensieringsresurser
+      href: support-resources-licensing.md
+    - name: Återställ administratörsbehörigheter för Azure CSP-prenumerationer
+      href: revoke-reinstate-csp.md
+    - name: Överföra Azure-prenumerationer
+      href: switch-azure-subscriptions-to-a-different-partner.md
+    - name: Flytta kunder med licensbaserade tjänster till Molnlösningsleverantör-programmet
+      href: transition-seat-based-services.md
+    - name: Hantering av användare och licenser för Microsoft Cloud Tyskland
+      href: user-management-in-partner-center-for-microsoft-cloud-germany.md
+    - name: Hantering av användare och licenser för Microsoft Cloud för myndigheter i USA
+      href: user-management-in-partner-center-for-microsoft-us-govt-cloud.md
+- name: Fakturering
+  items:
+    - name: Faktureringsöversikt
+      href: billing.md
+    - name: Förstå fakturan
+      items:
+        - name: Grundläggande information om fakturering
+          href: billing-basics.md
+        - name: Läsa fakturan
+          href: read-your-bill.md
+        - name: Använda avstämningsfiler
+          href: use-the-reconciliation-files.md
+        - name: Debiteringstyper i avstämningsfiler
+          href: recon-file-charge-types.md
+        - name: Användningsbaserade avstämningsfiler
+          href: usage-based-recon-files.md
+        - name: Filer för dagligt klassificerad användningsavstämning
+          href: daily-rated-usage-recon-files.md
+        - name: Licensbaserade avstämningsfiler
+          href: license-based-recon-files.md
+        - name: CSP-avstämningsfiler vid ett inköpstillfälle
+          href: modern-invoice-reconciliation-file.md
+        - name: Effektiv enhetsprisberäkning
+          href: effective-unit-price-calculation.md
+        - name: Tvingande kreditgräns
+          href: credit-limit-enforcement.md
+        - name: Ny handelsupplevelse i CSP – Azure-fakturering
+          href: azure-plan-billing.md
+        - name: Hantera ej allokerade betalningar
+          href: unallocated-payment.md
+    - name: Vanliga faktureringsscenarier
+      href: common-billing-scenarios.md
+      items:
+        - name: Scenarier för månatlig fakturering
+          href: common-billing-scenarios-monthly.md
+        - name: Scenarier för årlig fakturering
+          href: common-billing-scenarios-annual.md
+        - name: Scenarier för enstaka och utvalda löpande debiteringar
+          href: common-billing-scenarios-onetime-recurring.md
+        - name: Om fakturafält
+          href: invoice-file.md
+        - name: Licensbaserad fakturering
+          href: license-based-billing.md
+        - name: Scenarier för licensbaserade SaaS-prenumerationer
+          href: common-billing-scenarios-saas.md
+        - name: Fakturering för Marketplace-erbjudanden
+          href: csp-commercial-marketplace-billing.md
+        - name: Ange en Azure-utgiftsbudget för dina kunder
+          href: set-an-azure-spending-budget-for-your-customers.md
+    - name: Ge faktureringssupport
+      href: provide-billing-support.md
+    - name: Visa digitala signaturer – Partnercenter Indien
+      href: digital-signature.md
+    - name: Moms och momsbefrielse
+      items:
+        - name: Momsbefrielse per land eller region
+          href: tax-and-tax-exemptions.md
+        - name: Information om företagsmoms
+          href: organization-tax-info.md
+        - name: Få kredit för källskatt
+          href: withholding-tax-credit-form.md
+        - name: Regional moms för rösttjänster
+          href: tax-and-fees-voice-services.md
+        - name: Begär en SLA-kredit från Microsoft
+          href: request-credit.md
+- name: Prissättning
+  items:
+    - name: Prisöversikt
+      href: pricing-and-offers.md
+    - name: Prissättning för den kommersiella marknadsplatsen
+      items:
+        - name: Översikt över kommersiell marknadsplats
+          href: csp-commercial-marketplace-overview.md
+        - name: Upptäcka Marketplace-erbjudanden
+          href: csp-commercial-marketplace-discover.md
+        - name: Köpa Marketplace-erbjudanden
+          href: csp-commercial-marketplace-purchase.md
+        - name: Hantera licensiering i Marketplace-erbjudanden
+          href: csp-commercial-marketplace-licensing.md
+        - name: Exklusiva Marketplace-erbjudanden från oberoende programvaruleverantörer
+          href: isv-opt-in.md
+        - name: Hantera Marketplace-erbjudanden
+          href: csp-commercial-marketplace-manage.md
+        - name: Support för Marketplace-erbjudanden
+          href: csp-commercial-marketplace-support.md
+        - name: Avtal för Marketplace-inköp
+          href: csp-commercial-marketplace-contracting.md
+    - name: Azure-reservationer
+      items:
+        - name: Sälja Azure-reservationer
+          href: azure-reservations.md
+        - name: Välja VM-storlek för maximal reservationsanvändning
+          href: azure-usage.md
+        - name: Köpa Microsoft Azure-reservationer för kundernas räkning
+          href: azure-reservations-buying.md
+        - name: Azure Reserved VM Instances + serverprenumerationer
+          href: azure-ri-server-subscriptions.md
+    - name: Lägga till licenser eller tjänster i en befintlig prenumeration
+      href: add-licenses-or-services-to-an-existing-subscription.md
+    - name: Rådgivare som säljer Office 365
+      items:
+        - name: Skapa en inbjudan om att utvärdera Office 365
+          href: advisors-create-a-trial-invitation.md
+        - name: Lägga till klienter med erbjudanden om att utvärdera Office 365
+          href: advisors-build-your-business.md
+        - name: Skapa ett erbjudande om att köpa Office 365
+          href: advisor-create-a-purchase-offer.md
+    - name: Partner kan inte längre registreras som rådgivare
+      href: advisors-no-csp.md
+    - name: CSP-erbjudanden
+      items:
+        - name: Sälja partnererbjudanden i CSP
+          href: csp-offers.md
+        - name: Tillgängliga Azure-tjänster
+          href: azure-plan-available.md
+        - name: Azure-plan
+          items:
+            - name: Översikt över Azure-plan
+              href: azure-plan-lp.md
+            - name: Kom igång med Azure-planen
+              href: azure-plan-get-started.md
+            - name: Köpa en Azure-plan
+              href: purchase-azure-plan.md
+            - name: Jämföra Azure-erbjudanden
+              href: compare-azure-offers.md
+            - name: Överföra dina kunder till Azure-planen
+              href: azure-plan-transition.md
+            - name: Partnerintjänad kredit
+              href: partner-earned-credit.md
+            - name: Hur partnerintjänad kredit beräknas och betalas
+              href: partner-earned-credit-explanation.md
+            - name: Roller och behörigheter för partnerintjänad kredit
+              href: azure-roles-perms-pec.md
+            - name: Vanliga frågor och svar om partner-intjänad kredit
+              href: partner-earned-credit-faq.md
+            - name: Felsöka partners intjänade kredit
+              href: partner-earned-credit-troubleshoot.md
+            - name: Prislista för den nya handelsupplevelsen i CSP för Azure
+              href: azure-plan-price-list.md
+            - name: Hantera prenumerationer och resurser under Azure-planen
+              href: azure-plan-manage.md
+            - name: Överföra en kunds Azure-planprenumerationer till en annan partner
+              href: transfer-azure-subscriptions-under-azure-plan.md
+        - name: Nya handelsupplevelser för licensbaserade tjänster
+          href: new-commerce-license-based.md
+          displayName: new commerce
+          items:
+            - name: Ny handel telco payg
+              href: new-commerce-telco-payg.md
+            - name: Nya handelskampanjer
+              href: new-commerce-promotions.md
+            - name: Tillägg för ny handel
+              href: new-commerce-add-ons.md
+        - name: Sälj Office 365 för Government GCC för Molnlösningsleverantör
+          href: csp-gcc-overview.md
+        - name: Programvaruprenumerationer
+          href: csp-software-subscriptions.md
+        - name: Prenumerationer på onlinetjänster
+          items:
+            - name: Sälja prenumerationer till dina kunder
+              href: customer-subscriptions.md
+            - name: Använda kampanjer för att locka nya kunder
+              href: promotions.md
+            - name: Erbjuda kunder utvärderingsversioner av Microsoft-produkter
+              href: offer-your-customers-trials-of-microsoft-products.md
+            - name: Sälja prenumerationer på kommersiella Marketplace-produkter
+              href: sell-marketplace-products.md
+            - name: Sälja prenumerationer på Minecraft Education Edition
+              href: minecraft-subscriptions.md
+            - name: Sälja till specialiserade branscher
+              href: get-special-pricing-for-offers.md
+            - name: Sälja till utbildningskunder
+              href: sell-to-education-customers.md
+            - name: Uppgradera Windows 10 Home till Education
+              href: upgrade-windows-to-education.md
+        - name: Uppgradera eller överföra erbjudanden till nyare versioner
+          items:
+            - name: Uppgradera Dynamics AX-prenumerationer till Dynamics 365
+              href: manual-subscription-migration.md
+            - name: Migrera Dynamics 365 Business Edition-erbjudanden till nyare versioner
+              href: migrate-dynamics-365-to-new.md
+            - name: Migrera Office 365 Enterprise E4-prenumerationer till nyare Office 365-versioner
+              href: migrate-office365-e4-subscriptions-to-newer-versions.md
+            - name: Migrera Skype för företag – Online (abonnemang 1) till nyare Office 365-versioner
+              href: skype-retiring.md
+            - name: Migrera Kaizala Pro-prenumerationer till Microsoft 365
+              href: migrate-kaizala-pro-partner.md
+    - name: Hantera din verksamhet
+      items:
+        - name: Azure Partner Shared Services
+          href: shared-services.md
 - name: Incitament
   items:
+    - name: Översikt över incitament
+      href: incentives-get-started-intro.md
     - name: Komma igång med incitament
       items:
         - name: Vanliga frågor och svar om incitament
           href: incentives-faq.yml
-          displayName: mpn
-        - name: Kom igång med incitament
-          href: incentives-get-started-intro.md
         - name: 10 viktiga saker om incitament
           href: incentives-ten-essentials.md
         - name: Registrera dig i incitament
           href: incentives-enroll.md
         - name: Kontrollera programberättigande
           href: incentives-determined-your-program-eligibility.md
-          displayName: incentives
         - name: Om utbetalning och skatteprofiler
           href: incentives-create-and-manage-your-payout-and-tax-profiles.md
-          displayName: incentives
         - name: Kontrollera intäktsberättigande
           href: incentives-confirm-your-earnings-eligibility.md
-          displayName: incentives
         - name: Visa program och betalningar
           href: understand-incentive-payouts.md
-          displayName: 'mpn, incentives'
     - name: Planer och bevis på utförande
       items:
         - name: Om planer och bevis på utförande
           href: incentives-plans-proofs-intro.md
-          displayName: 'incentives, proof of execution, proofs of execution'
         - name: Skapa din plan
           href: incentives-create-your-plan.md
-          displayName: incentives
         - name: Skapa bevis på utförande
           href: incentives-prepare-your-proof-of-execution.md
-          displayName: incentives
     - name: Incitamentsäljsamarbetsanspråk
       items:
         - name: Incitamentsäljsamarbetsanspråk
           href: claims-overview.md
-          displayName: incentives
         - name: Visa tillgängliga co-op-medel
           href: incentives-view-funds.md
-          displayName: incentives
         - name: Hantera säljsamarbetsanspråk
           href: create-incentives-claims.md
-          displayName: incentives
         - name: Visa huvudkrav
           href: core-requirements.md
-          displayName: incentives
         - name: Godkännande och deadlines för säljsamarbetsanspråk
           href: incentives-managing-co-op-claims.md
           displayName: incentives
@@ -341,18 +555,12 @@
           href: submit-osa-claim.md
         - name: Hantera kundassociationer
           href: incentives-manage-customer-associations.md
-          displayName: incentives
         - name: Problem med kundassociationer
           href: incentives-customer-association-issues.md
-          displayName: 'incentives, mpn'
-    - name: Felsöka betalningar och intäkter
-      href: incentives-payment-issues.md
-      displayName: incentives
     - name: Work in Channel Incentives Platform (CHIP)
       items:
         - name: Navigera i CHIP
           href: chip-intro.md
-          displayName: chip
         - name: Lägg till användare i ditt CHIP-konto
           href: chip-users.md
         - name: Visa intäkter i CHIP
@@ -361,6 +569,8 @@
           href: chip-payment-status.md
         - name: Leta upp antal skrivbordsenheter och avgiftsnivå för ett avtal
           href: chip-locate-agreement.md
+        - name: Lösningsbedömning
+          href: chip-solution-assessment.md
         - name: Berättigande till lösningsbedömning
           href: chip-solutions-assessment-eligible.md
         - name: Betalningsstatus för lösningsbedömning
@@ -369,298 +579,8 @@
           href: chip-faq.yml
         - name: Problem med att komma åt CHIP
           href: chip-access-trouble.md
-- name: Fakturering och skatter
-  href: billing.md
-  displayName: trial
-  items:
-    - name: Grundläggande information om fakturering
-      href: billing-basics.md
-      displayName: invoice
-    - name: Förstå fakturan
-      href: read-your-bill.md
-      displayName: invoice
-    - name: Använda avstämningsfiler
-      href: use-the-reconciliation-files.md
-      displayName: 'reseller, mpn'
-    - name: Debiteringstyper i avstämningsfiler
-      href: recon-file-charge-types.md
-      displayName: 'cancel, invoice'
-    - name: Avstämningsfiler för debitering av daglig användning
-      href: daily-rated-usage-recon-files.md
-    - name: Licensbaserade avstämningsfiler
-      href: license-based-recon-files.md
-    - name: CSP-avstämningsfiler vid ett inköpstillfälle
-      href: modern-invoice-reconciliation-file.md
-    - name: Effektiv enhetsprisberäkning
-      href: effective-unit-price-calculation.md
-    - name: Tvingande kreditgräns
-      href: credit-limit-enforcement.md
-    - name: Vanliga faktureringsscenarier
-      href: common-billing-scenarios.md
-      displayName: 'trial, subscription'
-      items:
-        - name: Scenarier för månatlig fakturering
-          href: common-billing-scenarios-monthly.md
-        - name: Scenarier för årlig fakturering
-          href: common-billing-scenarios-annual.md
-        - name: Scenarier för enstaka och utvalda löpande debiteringar
-          href: common-billing-scenarios-onetime-recurring.md
-        - name: Om fakturafält
-          href: invoice-file.md
-          displayName: invoice
-        - name: Licensbaserad fakturering
-          href: license-based-billing.md
-        - name: Mobiloperatörsfakturering
-          href: mobile-operator-billing.md
-        - name: Scenarier för licensbaserade SaaS-prenumerationer
-          href: common-billing-scenarios-saas.md
-          displayName: cancel
-    - name: Fakturering för Marketplace-erbjudanden
-      href: csp-commercial-marketplace-billing.md
-      displayName: 'invoice, csp'
-    - name: Begära en kredit från Microsoft
-      href: request-credit.md
-    - name: Visa digitala signaturer – Partnercenter Indien
-      href: digital-signature.md
-      displayName: invoice
-    - name: Moms och momsbefrielse
-      href: tax-and-tax-exemptions.md
-      displayName: 'region, regio'
-      items:
-        - name: Information om företagsmoms
-          href: organization-tax-info.md
-        - name: Momsinformation i Partnercenter-registrering
-          href: vat-info.md
-          displayName: 'region, regio'
-        - name: Få kredit för källskatt
-          href: withholding-tax-credit-form.md
-        - name: Regional moms för rösttjänster
-          href: tax-and-fees-voice-services.md
-          displayName: 'csp, regio, region'
-        - name: Skatteinformation för utgivare på kommersiell marknadsplats
-          href: tax-details-marketplace.md
-          displayName: 'region, regio, reseller'
-        - name: Om IRS-skatteformulär som utfärdats av Microsoft
-          href: understand-irs-tax-forms.md
-        - name: Konfigurera utbetalningskonto och deklarationsblanketter
-          href: set-up-your-payout-account.md
-          displayName: 'region, regio'
-        - name: Hur skatteprinciper påverkar utbetalning
-          href: tax-policies-affect-payout.md
-    - name: Ange en Azure-utgiftsbudget för dina kunder
-      href: set-an-azure-spending-budget-for-your-customers.md
-      displayName: csp
-- name: Få betalt
-  items:
-    - name: Få betalt
-      href: marketplace-get-paid.md
-    - name: Utbetalningsinstruktioner
-      href: payout-statement.md
-    - name: 'Hantera uteblivna betalningar, bedrägeri eller missbruk'
-      href: non-payment-fraud-misuse.md
-    - name: Hantera ej allokerade betalningar
-      href: unallocated-payment.md
-    - name: Utbetalningsscheman och -processer
-      href: payout-policy-details.md
-    - name: 'Betalningströsklar, metoder och tidsramar'
-      href: payment-thresholds-methods-timeframes.md
-      displayName: invoice
-    - name: Vanliga frågor och svar om utbetalningar och skatteprofiler
-      href: payout-faq.yml
-- name: Få kontakt med kunder
-  items:
-    - name: Få kontakt med dina kunder
-      href: connect-with-your-customers.md
-      displayName: 'indirect, reseller'
-    - name: Lägga till en ny kund
-      href: add-a-new-customer.md
-    - name: Göra en förfrågan om återförsäljarrelation med en kund
-      href: request-a-relationship-with-a-customer.md
-    - name: Ta bort en förfrågan om återförsäljarrelation med en kund
-      href: remove-a-relationship.md
-    - name: Få delegerade administrationsbehörigheter från en kund
-      href: customers-revoke-admin-privileges.md
-    - name: Visa din kundlista
-      href: see-your-customer-list.md
-      displayName: reseller
-    - name: Visa kundaktivitetsloggar
-      href: activity-logs.md
-    - name: Uppdatera kundkontoinformation
-      href: update-customer-account-info.md
-    - name: Låta kunderna köpa sina egna tjänster
-      href: give-customers-permission.md
-      displayName: csp
-    - name: Lägga till flera användare för en kund
-      href: adding-multiple-users-to-a-customer-account.md
-    - name: Importera flera användare
-      href: file-customer-users.md
-    - name: Tilldela supportkontakter
-      href: assign-support-contacts.md
-      displayName: 'indirect, reseller'
-- name: CSP-erbjudanden
-  href: csp-offers.md
-  displayName: csp
-  items:
-    - name: Kommersiell marknadsplats
-      items:
-        - name: Översikt över kommersiell marknadsplats
-          href: csp-commercial-marketplace-overview.md
-          displayName: csp
-        - name: Upptäcka Marketplace-erbjudanden
-          href: csp-commercial-marketplace-discover.md
-          displayName: csp
-        - name: Köpa Marketplace-erbjudanden
-          href: csp-commercial-marketplace-purchase.md
-          displayName: csp
-        - name: Hantera licensiering i Marketplace-erbjudanden
-          href: csp-commercial-marketplace-licensing.md
-          displayName: csp
-        - name: Exklusiva Marketplace-erbjudanden från oberoende programvaruleverantörer
-          href: isv-opt-in.md
-        - name: Hantera Marketplace-erbjudanden
-          href: csp-commercial-marketplace-manage.md
-          displayName: 'cancel, renew'
-        - name: Support för Marketplace-erbjudanden
-          href: csp-commercial-marketplace-support.md
-          displayName: csp
-        - name: Avtal för Marketplace-inköp
-          href: csp-commercial-marketplace-contracting.md
-    - name: Azure-reservationer
-      href: azure-reservations.md
-      items:
-        - name: Välja VM-storlek för maximal reservationsanvändning
-          href: azure-usage.md
-        - name: Köpa Microsoft Azure-reservationer för kundernas räkning
-          href: azure-reservations-buying.md
-        - name: Hantera Microsoft Azure-reservationer åt dina kunder
-          href: azure-reservations-manage.md
-          displayName: cancel
-        - name: Azure Reserved VM Instances + serverprenumerationer
-          href: azure-ri-server-subscriptions.md
-          displayName: csp
-    - name: Tillgängliga Azure-tjänster i Azure CSP
-      href: azure-plan-available.md
-      displayName: csp
-    - name: Azure-plan
-      href: azure-plan-lp.md
-      items:
-        - name: Översikt över Azure-plan
-          href: azure-plan-get-started.md
-        - name: Köpa en Azure-plan
-          href: purchase-azure-plan.md
-        - name: Jämföra Azure-erbjudanden
-          href: compare-azure-offers.md
-          displayName: 'csp, invoice'
-        - name: Överföra dina kunder till Azure-planen
-          href: azure-plan-transition.md
-          displayName: csp
-        - name: Partnerintjänad kredit
-          href: partner-earned-credit.md
-          displayName: csp
-        - name: Hur partnerintjänad kredit beräknas och betalas
-          href: partner-earned-credit-explanation.md
-          displayName: csp
-        - name: Roller och behörigheter för partnerintjänad kredit
-          href: azure-roles-perms-pec.md
-          displayName: 'role, roles, ro'
-        - name: Vanliga frågor och svar om partner-intjänad kredit
-          href: partner-earned-credit-faq.md
-          displayName: 'faq, partner earned credit'
-        - name: Felsöka partner-intjänad kredit
-          href: partner-earned-credit-troubleshoot.md
-          displayName: 'partner earned credit, troubleshooting'
-        - name: Ny handelsupplevelse i CSP – Azure-fakturering
-          href: azure-plan-billing.md
-          displayName: invoice
-        - name: Prislista för den nya handelsupplevelsen i CSP för Azure
-          href: azure-plan-price-list.md
-        - name: Hantera prenumerationer och resurser under Azure-planen
-          href: azure-plan-manage.md
-          displayName: csp
-        - name: Återställ administratörsbehörigheter för Azure CSP-prenumerationer
-          href: revoke-reinstate-csp.md
-          displayName: csp
-        - name: Överföra Azure-prenumerationer
-          href: switch-azure-subscriptions-to-a-different-partner.md
-          displayName: csp
-        - name: Överföra en kunds Azure-planprenumerationer till en annan partner
-          href: transfer-azure-subscriptions-under-azure-plan.md
-    - name: Nya handelsupplevelser för licensbaserade tjänster
-      href: new-commerce-license-based.md
-      displayName: new commerce
-      items:
-        - name: Ny handel telco payg
-          href: new-commerce-telco-payg.md
-        - name: Nya handelskampanjer
-          href: new-commerce-promotions.md
-        - name: Tillägg för ny handel
-          href: new-commerce-add-ons.md
-    - name: Programvaruprenumerationer
-      href: csp-software-subscriptions.md
-      displayName: 'subscription, cancel'
-    - name: Sälja lokal programvara via Molnlösningsleverantör-programmet
-      href: csp-on-premise-software.md
-      displayName: 'cancel, csp'
-    - name: Onlinetjänster (prenumerationer)
-      href: customer-subscriptions.md
-      displayName: csp
-      items:
-        - name: 'Skapa, pausa eller avbryta kundprenumerationer'
-          href: create-a-new-subscription.md
-          displayName: 'trial, renew, cancel, csp'
-        - name: Använda kampanjer för att locka nya kunder
-          href: promotions.md
-        - name: Erbjuda kunder utvärderingsversioner av Microsoft-produkter
-          href: offer-your-customers-trials-of-microsoft-products.md
-        - name: Sälja prenumerationer på kommersiella Marketplace-produkter
-          href: sell-marketplace-products.md
-          displayName: csp
-        - name: Tilldela Azure-prenumerationer i Partnercenter
-          href: assign-azure-subscriptions.md
-        - name: Hantera användare och licenser
-          href: assign-licenses-to-users.md
-        - name: Lägga till licenser eller tjänster i en befintlig prenumeration
-          href: add-licenses-or-services-to-an-existing-subscription.md
-        - name: Tilldela eller återkalla licenser till flera användare
-          href: bulk-license-provisioning-for-multiple-users.md
-        - name: Flytta kunder med licensbaserade tjänster till Molnlösningsleverantör-programmet
-          href: transition-seat-based-services.md
-        - name: Sälja prenumerationer på Minecraft Education Edition
-          href: minecraft-subscriptions.md
-        - name: Sälja till specialiserade branscher
-          href: Get-special-pricing-for-offers.md
-        - name: Sälja till utbildningskunder
-          href: sell-to-education-customers.md
-        - name: Uppgradera Windows 10 Home till Education
-          href: upgrade-windows-to-education.md
-        - name: Öka användningen och nöjdheten
-          href: increasing-adoption-and-satisfaction.md
-        - name: Förenkla enhetskonfiguration med Windows Autopilot
-          href: autopilot.md
-    - name: Uppgradera eller överföra erbjudanden till nyare versioner
-      items:
-        - name: Uppgradera Dynamics AX-prenumerationer till Dynamics 365
-          href: manual-subscription-migration.md
-        - name: Migrera Dynamics 365 Business Edition-erbjudanden till nyare versioner
-          href: migrate-dynamics-365-to-new.md
-        - name: Migrera Office 365 Enterprise E4-prenumerationer till nyare Office 365-versioner
-          href: migrate-office365-e4-subscriptions-to-newer-versions.md
-        - name: Migrera Skype för företag – Online (abonnemang 1) till nyare Office 365-versioner
-          href: skype-retiring.md
-        - name: Migrera Kaizala Pro-prenumerationer till Microsoft 365
-          href: migrate-kaizala-pro-partner.md
-    - name: Rådgivare som säljer Office 365
-      items:
-        - name: Skapa en inbjudan om att utvärdera Office 365
-          href: advisors-create-a-trial-invitation.md
-        - name: Lägga till klienter med erbjudanden om att utvärdera Office 365
-          href: advisors-build-your-business.md
-        - name: Skapa ett erbjudande om att köpa Office 365
-          href: advisor-create-a-purchase-offer.md
-- name: Partnercenter – data och analys
-  items:
-    - name: Åtkomst till prenumerationsdata och analys
-      href: data-analysis-lp.md
+    - name: Felsöka betalningar och intäkter
+      href: incentives-payment-issues.md
     - name: Analysapp för Power BI
       items:
         - name: Introduktion till analysappen
@@ -669,14 +589,45 @@
           href: power-bi-app-for-direct-partners-install.md
         - name: Använda analysappen
           href: power-bi-app-for-direct-partners-use.md
-    - name: Partner Center Insights (PCI)
+- name: Marketplace-erbjudanden
+  href: /azure/marketplace
+- name: Utbetalningar
+  items:
+    - name: Översikt över utbetalning
+      href: non-payment-fraud-misuse.md
+    - name: Mobiloperatörsfakturering
+      href: mobile-operator-billing.md
+    - name: Få betalt via Marketplace-erbjudanden
+      href: marketplace-get-paid.md
+    - name: 'Betalningströsklar, metoder och tidsramar'
+      href: payment-thresholds-methods-timeframes.md
+    - name: Vanliga frågor och svar om utbetalningar och skatteprofiler
+      href: payout-faq.yml
+    - name: Utbetalningsscheman och -processer
+      href: payout-policy-details.md
+    - name: Utbetalningsinstruktioner
+      href: payout-statement.md
+    - name: Konfigurera utbetalningskonto och deklarationsblanketter
+      href: set-up-your-payout-account.md
+    - name: Skatteinformation för utgivare på kommersiell marknadsplats
+      href: tax-details-marketplace.md
+    - name: Förstå skatter
       items:
-        - name: Om Insights
+        - name: Hur skatteprinciper påverkar utbetalning
+          href: tax-policies-affect-payout.md
+        - name: Om IRS-skatteformulär som utfärdats av Microsoft
+          href: understand-irs-tax-forms.md
+- name: Insikter
+  items:
+    - name: Insights översikt
+      href: insights-overview.md
+    - name: Medlemskapsinsikter
+      items:
+        - name: Översikt över medlemskapsinsikter
           href: partner-center-insights.md
-          displayName: data
-        - name: Insights – rollbaserad åtkomstkontroll
+        - name: Rollbaserad åtkomst för medlemskap
           href: insights-roles.md
-        - name: Insights – rapporter
+        - name: Information om medlemskapsrapport
           items:
             - name: Översikt
               href: insights-overview-report.md
@@ -684,7 +635,6 @@
               href: insights-customer-report.md
             - name: Resultat för återförsäljare
               href: insights-resellers-performance.md
-              displayName: 'indirect, reseller'
             - name: Produktprenumerationer
               href: insights-product-subscriptions-report.md
             - name: Azure-användning
@@ -711,140 +661,83 @@
               href: insights-customer-opportunities.md
             - name: Produktlicenser
               href: insights-product-licenses-report.md
-        - name: Vanliga frågor och svar om insikter
+        - name: Vanliga frågor och svar om medlemskapsinsikter
           href: insights-known-issues.md
-        - name: Ladda ned insiktsrapporter
+        - name: Ladda ned rapporter
           href: insights-download-reports.md
-        - name: Programmatisk åtkomst till analys
-          items:
-            - name: Kom igång
-              href: insights-programmatic-get-started.md
-            - name: Krav för programmatisk åtkomst
-              href: insights-programmatic-prerequisites.md
-            - name: Paradigm för programmatisk åtkomst
-              href: insights-programmatic-access-paradigm.md
-            - name: Gör ditt första programmerings-API-anrop
-              href: insights-programmatic-first-api-call.md
-            - name: Lista över systemfrågor
-              href: insights-programmatic-system-queries.md
-            - name: Exempelfrågor
-              href: insights-programmatic-sample-queries.md
-            - name: Specifikation för anpassad fråga
-              href: insights-programmatic-custom-query.md
-            - name: Exempelprogram
-              href: insights-programmatic-sample-application.md
-            - name: Vanliga frågor och svar
-              href: insights-programmatic-faq.md
-            - name: API-referenser
-              items:
-                - name: 'Tillgängliga API:er'
-                  href: insights-programmatic-analytics-available-api.md
-                - name: Hämta alla datauppsättningar
-                  href: insights-programmatic-analytics-api-get-dataset.md
-                - name: Hämta rapportfrågor
-                  href: insights-programmatic-analytics-api-get-report-queries.md
-                - name: Ta bort rapportfrågor
-                  href: insights-programmatic-analytics-api-delete-report-queries.md
-                - name: Testa rapportfrågor
-                  href: insights-programmatic-analytics-api-try-report-queries.md
-                - name: Hämta rapport
-                  href: insights-programmatic-analytics-api-get-report.md
-                - name: Uppdatera rapport
-                  href: insights-programmatic-analytics-api-update-report.md
-                - name: Ta bort rapport
-                  href: insights-programmatic-analytics-api-delete-report.md
-                - name: Pausa rapportkörningar
-                  href: insights-programmatic-analytics-api-pause-report-executions.md
-                - name: Återuppta rapportkörningar
-                  href: insights-programmatic-analytics-api-resume-report-executions.md
-        - name: Datadefinitioner för insikter
+        - name: Medlemskapsrapporter och datadefinitioner
           href: insights-data-definitions.md
-    - name: Indikatorer för partnerbidrag
+        - name: Indikatorer för partnerbidrag
+          items:
+            - name: Kompetens för molnbaserade företagsprogram
+              href: partner-contribution-indicators.md
+            - name: Kompetens för molnlösningar för liten marknad och mellanmarknad
+              href: partner-contribution-indicators-small-and-midmarket-cloud-business-option.md
+    - name: Hänvisningsinformation
+      href: referral-insights.md
+    - name: Molnlösningsleverantör insikter
       items:
-        - name: Kompetens för molnbaserade företagsprogram
-          href: partner-contribution-indicators.md
-        - name: Kompetens för molnlösningar för liten marknad och mellanmarknad
-          href: partner-contribution-indicators-small-and-midmarket-cloud-business-option.md
-      displayName: 'mpn, cloud business applications competency, small and midmarket cloud solutions competency, CBA SMB option'
-    - name: Analysera andra data
-      items:
+        - name: Åtkomst till prenumerationsdata och analys
+          href: data-analysis-lp.md
         - name: Kunders Azure-användning
           href: analyze-azure-usage.md
+        - name: Hänvisningsanalys
+          items:
+            - name: Få insikter om leads
+              href: referral-leads-insights.md
+            - name: Definition av referensanalysdata
+              href: referral-analytics-data-definition.md
         - name: Resultat för indirekta återförsäljare
           href: analyze-indirect-resellers.md
-          displayName: 'indirect, reseller, subscription'
         - name: Prenumerationer och licenser
           href: analyze-subscriptions-licenses.md
-          displayName: 'subscription, license, trial'
-- name: Arbeta med andra partner
+    - name: Programmatisk åtkomst till insikter
+      items:
+        - name: Kom igång
+          href: insights-programmatic-get-started.md
+        - name: Krav för programmatisk åtkomst
+          href: insights-programmatic-prerequisites.md
+        - name: Paradigm för programmatisk åtkomst
+          href: insights-programmatic-access-paradigm.md
+        - name: Gör ditt första programmerings-API-anrop
+          href: insights-programmatic-first-api-call.md
+        - name: Lista över systemfrågor
+          href: insights-programmatic-system-queries.md
+        - name: Exempelfrågor
+          href: insights-programmatic-sample-queries.md
+        - name: Specifikation för anpassad fråga
+          href: insights-programmatic-custom-query.md
+        - name: Exempelprogram
+          href: insights-programmatic-sample-application.md
+        - name: Vanliga frågor och svar
+          href: insights-programmatic-faq.md
+        - name: API-referenser
+          items:
+            - name: 'Tillgängliga API:er'
+              href: insights-programmatic-analytics-available-api.md
+            - name: Hämta alla datauppsättningar
+              href: insights-programmatic-analytics-api-get-dataset.md
+            - name: Hämta rapportfrågor
+              href: insights-programmatic-analytics-api-get-report-queries.md
+            - name: Ta bort rapportfrågor
+              href: insights-programmatic-analytics-api-delete-report-queries.md
+            - name: Testa rapportfrågor
+              href: insights-programmatic-analytics-api-try-report-queries.md
+            - name: Hämta rapport
+              href: insights-programmatic-analytics-api-get-report.md
+            - name: Uppdatera rapport
+              href: insights-programmatic-analytics-api-update-report.md
+            - name: Ta bort rapport
+              href: insights-programmatic-analytics-api-delete-report.md
+            - name: Pausa rapportkörningar
+              href: insights-programmatic-analytics-api-pause-report-executions.md
+            - name: Återuppta rapportkörningar
+              href: insights-programmatic-analytics-api-resume-report-executions.md
+- name: Hjälp + support
   items:
-    - name: Hitta en partner
-      href: find-a-partner.md
-      displayName: csp
-    - name: Arbeta med andra partner
-      href: work-with-other-partners.md
-      displayName: 'indirect, reseller, csp'
-    - name: Uppgifter för indirekta leverantörer
-      href: indirect-provider-tasks-in-partner-center.md
-      displayName: 'indirect, reseller, csp'
-    - name: Uppgifter för indirekta återförsäljare
-      href: indirect-reseller-tasks-in-partner-center.md
-      displayName: 'indirect, reseller, csp'
-    - name: CSP-partnerrelationer som stöds
-      href: csp-supported-partner-relationships.md
-      displayName: 'indirect, reseller, csp'
-    - name: Stöd för flera kanaler
-      href: multichannel.md
-    - name: Stöd för flera partner
-      href: multipartner.md
-      displayName: csp
-- name: Få support från Microsoft
-  href: support-from-microsoft.md
-  items:
+    - name: Översikt över hjälp och support
+      href: support-from-microsoft.md
     - name: Rapportera problem med Partner Center
       href: report-problems-with-partner-center.md
-    - name: Rapportera problem för en kunds räkning
-      href: report-problems-on-behalf-of-a-customer.md
-    - name: 'Få automatiserade tjänstmeddelanden med våra API:er'
+    - name: Få automatiserade tjänstmeddelanden
       href: get-automated-service-notifications-with-our-apis.md
-- name: Ge support till dina kunder
-  href: customer-support.md
-  displayName: csp
-  items:
-    - name: Kontrollera tjänststatus
-      href: check-service-health.md
-    - name: Ge faktureringssupport
-      href: provide-billing-support.md
-      displayName: csp
-    - name: Ge teknisk support
-      href: provide-technical-support.md
-      displayName: csp
-    - name: Kundkommunikation från Microsoft
-      href: customer-communication-from-microsoft.md
-    - name: Självsupport för kunder
-      href: customer-self-support.md
-    - name: Eskalera problem till Microsoft
-      href: escalate-problems-to-microsoft.md
-- name: Andra supportresurser
-  items:
-    - name: Licensieringsresurser
-      href: support-resources-licensing.md
-      displayName: 'mpn, csp'
-    - name: 'Hitta ID:n och domännamn'
-      href: find-ids-and-domain-names.md
-      displayName: 'tenant id, object id, domain name, azure ad tenant, tenantguid, Microsoft ID, directory id'
-- name: Säkerhetskrav
-  items:
-    - name: Säkerhetsöversikt
-      href: partner-security-requirements.md
-    - name: Kräva multifaktorautentisering för din partnerorganisation
-      href: partner-security-requirements-mandating-mfa.md
-      displayName: csp
-    - name: Ge användarna MFA
-      href: mfa-for-users.md
-    - name: Status för krav
-      href: partner-security-compliance.md
-      displayName: csp
-    - name: Vanliga frågor och svar
-      href: partner-security-requirements-faq.yml
-      displayName: 'sandbox, csp'

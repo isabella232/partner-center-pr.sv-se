@@ -3,18 +3,18 @@ title: Analysera dina leads
 ms.topic: article
 ms.date: 06/15/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-referrals
+ms.subservice: partnercenter-insights
 description: Lär dig hur du använder sidan leadsinsikter för att se hur väl du fångar upp dina målkunders uppmärksamhet och genererar hänvisningar.
-author: vikrambmsft
-ms.author: vikramb
+author: v-sausharma
+ms.author: v-sausharma
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 55e502895b63e1c1a7e41f3d316355bedd7f7001
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 3336afcea723d597958b73b391b8ffc90dae78f2
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126249115"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071659"
 ---
 # <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analysera dina leads – se hur bra du är på att locka kunder och potentiella referenser
 <!-- 
@@ -25,7 +25,7 @@ https://go.microsoft.com/fwlink/?linkid=849120
 
 På **sidan** Leads under **avsnittet Analys** i Referenser kan du se hur dina hänvisningar fungerar. Granska dessa mått regelbundet för att identifiera trender eller områden som behöver åtgärder och börja arbeta mot dina affärsmål.
 
-Om du vill se dina insikter om leads går du till Menyn i Partnercenter **och går till Referenser > Analysera > Leads.**
+Om du vill se dina insikter om leads går du till Menyn i Partnercenter **och går till Referenser > Analysera > Leads**.
 
 ## <a name="apply-filters"></a>Använda filter
 
@@ -39,7 +39,7 @@ Du kan klicka på knappen Filter för att öppna panelen där du kan filtrera al
 - **Status:** Standardvärdet är **Alla**, men du kan välja att begränsa data till hänvisningar som innehåller en eller flera typer av hänvisningsstatus, t.ex. accepterade, avvisade, utgångna, förlorade och vann som du väljer.
 - **Kvalificeringstyp:** Standardvärdet är **Alla**, men du kan välja att begränsa data till hänvisningar som antingen är marketplace-leads eller kvalificerade leads.
 
-Informationen i alla diagram som anges nedan återspeglar datumintervallet och eventuella filter som du har valt, förutom vad som anges nedan. I vissa avsnitt kan du också använda ytterligare filter, till exempel filtrering för en specifik lösning.
+Informationen i alla diagram som anges nedan återspeglar datumintervallet och eventuella filter som du har valt, förutom vad som anges nedan. I vissa avsnitt kan du även använda ytterligare filter, till exempel filtrering för en specifik lösning.
 
 ## <a name="referrals-summary"></a>Sammanfattning av hänvisningar
 

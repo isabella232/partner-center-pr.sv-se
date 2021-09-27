@@ -1,6 +1,6 @@
 ---
 title: Statusrapport för säkerhetskrav
-ms.date: 10/30/2020
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
 description: Lär dig hur du kontrollerar dina säkerhetskravs kompatibilitet med statusrapporten för säkerhetskrav och MFA-rapporten i Partnercenter
@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7f28f6333542fb1a2f11b9cc48c00777f1977c1a
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.openlocfilehash: cfdb409b844d2e304a61654cbea144f9f1d14350
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "128359405"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071766"
 ---
 # <a name="security-requirements-status-report"></a>Statusrapport för säkerhetskrav
 
@@ -22,7 +22,7 @@ ms.locfileid: "128359405"
 
 I den här artikeln förklaras statusrapporten för säkerhetskrav i Partnercenter. Den här rapporten ger mått om efterlevnad av [partnersäkerhetskrav för](partner-security-requirements.md) multifaktorautentisering (MFA) för användare i din partnerklientorganisation.
 
-Om du vill komma åt den här rapporten i [Partnercenter](https://partner.microsoft.com/dashboard)går Inställningar till   >    >  **Kontoinställningar Säkerhetskravstatus**. Rapporten uppdateras dagligen och visar inloggningsdata från de senaste sju dagarna.
+Om du vill komma åt den här rapporten i [Partnercenter](https://partner.microsoft.com/dashboard)Inställningar kugghjulsikonen och sedan Kontoinställningar **och** **sedan status för Säkerhetskrav.** Rapporten uppdateras dagligen och visar inloggningsdata från de senaste sju dagarna.
 
 >[!NOTE]
 >Statusrapporten för säkerhetskrav stöds endast i Partnercenter. Den är inte tillgänglig i Microsoft Cloud for US Government Microsoft Cloud Tyskland. Vi rekommenderar starkt att alla partner som gör en överträdelse via ett suveränt moln (amerikanska myndigheter och Tyskland) inför dessa nya säkerhetskrav omedelbart. Dessa partner behöver dock för närvarande inte uppfylla de nya säkerhetskraven. Microsoft tillhandahåller ytterligare information om tillämpningen av dessa säkerhetskrav för nationella moln i framtiden.
@@ -93,8 +93,8 @@ Förstå om din aktuella MFA-implementering omfattar alla användarkonton eller 
 
 Förstå om den aktuella implementeringen endast tillämpar MFA under specifika villkor. Vissa MFA-lösningar ger flexibilitet att endast framtvinga MFA när vissa villkor uppfylls. Användaren kan till exempel komma åt från en okänd enhet eller en okänd plats. En användare som är aktiverad för MFA men inte behöver slutföra MFA-verifiering vid åtkomst till Partnercenter kan orsaka att måtten inte är 100 %.
 
->[!NOTE]
->För partner som har implementerat MFA med standardvärden för Azure AD-säkerhet är det viktigt att observera att multifaktorautentisering för icke-administratörskonton tillämpas baserat på risker. Användarna uppmanas endast att ange MFA vid riskfyllda inloggningsförsök (till exempel om användaren loggar in från en annan plats). Dessutom har användarna upp till 14 dagar på sig att registrera sig för MFA. Användare som inte har slutfört MFA-registreringen kommer inte att behöva verifiera MFA under 14-dagarsperioden. Därför förväntas måtten inte vara 100 % för partner som har implementerat MFA med hjälp av Azure AD-säkerhetsstandarder.
+> [!NOTE]
+> För partner som har implementerat MFA med standardvärden för Azure AD-säkerhet är det viktigt att observera att multifaktorautentisering för icke-administratörskonton tillämpas baserat på risker. Användarna uppmanas endast att ange MFA vid riskfyllda inloggningsförsök (till exempel om användaren loggar in från en annan plats). Dessutom har användarna upp till 14 dagar på sig att registrera sig för MFA. Användare som inte har slutfört MFA-registreringen kommer inte att behöva verifiera MFA under 14-dagarsperioden. Därför förväntas måtten inte vara 100 % för partner som har implementerat MFA med hjälp av Azure AD-säkerhetsstandarder.
 
 ### <a name="review-third-party-mfa-configurations"></a>Granska MFA-konfigurationer från tredje part
 

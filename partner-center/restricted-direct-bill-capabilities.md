@@ -1,7 +1,7 @@
 ---
 title: Begränsade funktioner för direktfakturering
 ms.topic: article
-ms.date: 10/09/2020
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
 description: Lär dig mer Molnlösningsleverantör partnerkrav för direktfakturering (CSP) och vad du kan göra för att undvika att funktioner begränsas. Ta reda på om dina funktioner har begränsats.
@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: edb67f6ae3054bf5214611ab3ac5ef4ed6713aef
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: ebd364c1268217579316338e884d96491ddd70fb
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126249063"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070746"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Begränsade funktioner för direktfakturering och de krav som krävs för CSP-direktfaktureringspartner
 
@@ -22,10 +22,10 @@ ms.locfileid: "126249063"
 
 ## <a name="overview"></a>Översikt
 
-Direktfaktureringspartner måste uppfylla [de nya](direct-partner-new-requirements.md) kraven för att vara kvar i CSP Molnlösningsleverantör-partnerprogrammet (Direct Bill). Annars kommer deras åtkomst till direktfaktureringsfunktionerna så småningom att begränsas och kan längre utföra specifika uppgifter, till exempel att göra nya inköp för sina kunder.
+Direktfaktureringspartner måste uppfylla [de nya](direct-partner-new-requirements.md) kraven för att finnas kvar i CSP Molnlösningsleverantör-partnerprogrammet (Direct Bill). Annars kommer deras åtkomst till direktfaktureringsfunktionerna så småningom att begränsas och kan längre utföra specifika uppgifter, till exempel att göra nya inköp för sina kunder.
 
 > [!Note]
-> Direktfaktureringspartner som inte uppfyller de nya kraven för CSP-partnerprogrammet för direktfakturering informeras av Microsoft när deras funktioner för direktfakturering kommer att begränsas. Detta gäller för alla direktfaktureringspartner, oavsett om de har valt en övergång från [direktfaktureringspartner till indirekta återförsäljare](transition-direct-to-indirect.md) eller inte.  
+> Direktfaktureringspartner som inte uppfyller de nya kraven för CSP-partnerprogrammet för direktfakturering informeras av Microsoft när deras direktfaktureringsfunktioner kommer att begränsas. Detta gäller för alla direktfaktureringspartner, oavsett om de har valt en övergång från [direktfaktureringspartner till indirekta återförsäljare](transition-direct-to-indirect.md) eller inte.  
 
 ## <a name="how-to-tell-if-your-direct-bill-capabilities-has-been-restricted"></a>Så här ser du om dina direktfaktureringsfunktioner har begränsats
 
@@ -33,7 +33,7 @@ Följ dessa steg för att bekräfta om åtkomsten från partnerklienten för dir
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard).
 
-2. Gå till **Kontoinställningar**  >  **Juridisk profil**.
+2. Välj kugghjulsikonen för Inställningar och **sedan Kontoinställningar** och välj **sedan Juridisk profil.**
 
 3. Under **Programinfo** letar du upp **Leverantör av Microsoft-molnlösningar status**.
 

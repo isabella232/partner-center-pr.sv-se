@@ -1,23 +1,23 @@
 ---
 title: Lista över exempelfrågor
-description: Använd exempelfrågorna för att programmatiskt komma åt analysdata för partnerinsikter.
+description: Använd exempelfrågorna för att programmatiskt komma åt analysdata från partnerinsikter.
 ms.topic: reference
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 36da8a59548142bf09daf42dbc936fba15d46d1e
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 18e50ec8108f5998b57630960026d039ab68803a
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960856"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075337"
 ---
 # <a name="sample-queries-for-partner-center-insights-report"></a>Exempelfrågor för partnercenterinsiktsrapport
 
-Den här artikeln innehåller exempelfrågor för partnerrapporterna Insights rapporter. Du kan använda dessa frågor genom att anropa slutpunkten för API:et Skapa rapportfråga. Om det behövs kan [api-anropet Skapa rapportfråga](insights-programmatic-access-paradigm.md#create-report-query-api) ändras för att lägga till fler kolumner, justera beräkningsperioden och lägga till filtervillkor.
+Den här artikeln innehåller exempelfrågor för Partner Insights rapporter. Du kan använda de här frågorna genom att anropa slutpunkten för API:et Skapa rapportfråga. Om det behövs kan [anropet Skapa rapportfråge-API](insights-programmatic-access-paradigm.md#create-report-query-api) ändras för att lägga till fler kolumner, justera beräkningsperioden och lägga till filtervillkor.
 
 Mer information om kolumnnamn, attribut och beskrivningar finns i [Datadefinitioner.](insights-data-definitions.md)
 
@@ -37,7 +37,7 @@ WHERE CustomerMarket='United States' TIMESPAN LAST_MONTH
 
 ### <a name="by-sku-and-billed-revenue"></a>Efter SKU och fakturerade intäkter
 
-En lista över kunder som använder en specifik SKU och fakturerade intäkter är fler än 20 000 under de senaste 6 månaderna
+Lista över kunder som använder specifik SKU och fakturerade intäkter är mer än 20 000 under de senaste 6 månaderna
 
 ```sql
 SELECT CustomerName, CustomerTpid, SKU, Month, BilledRevenueUSD 
@@ -80,7 +80,7 @@ WHERE PGAMpnId='1001xx'
 
 ## <a name="reseller-performance"></a>Återförsäljares prestanda
 
-Dessa exempelfrågor gäller för återförsäljares prestandarapport:
+De här exempelfrågorna gäller för återförsäljares prestandarapport:
 
 ### <a name="by-geography"></a>Efter geografiskt område
 
@@ -94,7 +94,7 @@ WHERE ResellerMarket='US' TIMESPAN LAST_MONTH
 
 ### <a name="by-reseller"></a>Efter återförsäljare
 
-Kundantal, prenumerationsantal, totalt antal tillgängliga platser, totalt antal tilldelade platser, totala intäkter för en specifik återförsäljare.
+Antal kunder, prenumerationsantal, totalt antal tillgängliga platser, totalt antal tilldelade platser, totala intäkter för en specifik återförsäljare.
 
 ```sql
 SELECT ResellerMpnId, ResellerName, CustomerCount, SubscriptionCount, TotalAvailableSeats, TotalAssignedSeats, TotalRevenue 
@@ -116,7 +116,7 @@ TIMESPAN LAST_MONTH
 
 ## <a name="subscription-details"></a>Prenumerationsinformation
 
-De här exempelfrågorna gäller för prenumerationsinformationsrapporten:
+Dessa exempelfrågor gäller för rapporten med prenumerationsinformation:
 
 ### <a name="by-renewal-eligibility"></a>Efter berättigande till förnyelse
 
@@ -175,4 +175,4 @@ WHERE TotalACR>20000 TIMESPAN LAST_6_MONTHS
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [API:er för åtkomst till analysdata för partnerinsikter](insights-programmatic-analytics-available-api.md)
+- [API:er för åtkomst till analysdata från partnerinsikter](insights-programmatic-analytics-available-api.md)

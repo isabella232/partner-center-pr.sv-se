@@ -1,31 +1,31 @@
 ---
 title: Analysera prenumerationer och licenser
-description: Lär dig hur du använder måtten på sidan Prenumerations- och licensanalys för att identifiera dina framgångar och områden som behöver mer uppmärksamhet.
+description: Lär dig hur du använder måtten på sidan prenumerations- och licensanalys för att identifiera dina framgångar och områden som behöver mer uppmärksamhet.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-author: amitravat
-ms.author: amrava
+author: kshitishsahoo
+ms.author: ksahoo
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 03/31/2021
-ms.openlocfilehash: 393f0ee6c49cbbdf814a823f732bb4b92d4deb2e
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 15343553a97824bec75679d6f00497feb6527e39
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247309"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129072504"
 ---
-# <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analysera prenumerationer och licenser som hjälper dig att driva affärsbeslut och nya mål
+# <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analysera prenumerationer och licenser som hjälper dig att fatta affärsbeslut och nya mål
 
-**Lämpliga roller:** Globala | Administratörsbehörighet för | Administratörsagent | Försäljningsagent
+**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Administratörsagent | Försäljningsagent
 
 Data driver affärsbeslut. Använd måtten på sidan **Prenumerations- och licensanalys** för att identifiera dina framgångar och områden som behöver mer uppmärksamhet. Använd den här informationen när du planerar nya affärsmål.
 
-**CSP TTM Revenue (USD) (CSP TTM Revenue (USD):** Det här måttet representerar de aggregerade CSP-fakturerade intäkterna (USD) för de avslutande tolv månaderna (TTM) för partnerplatskontona och partnerns globala konto (PGA) som det här CSP-kontot är associerat med. Om du har andra CSP-konton med olika PGA måste du logga in på var och en av dem för att visa motsvarande aggregerade TTM-intäkter.  Klicka på länken med nedladdningsinformation för att få en uppdelning av TTM-intäkterna (USD) per MPN-ID.
+**CSP TTM Revenue (USD):** Det här måttet representerar de aggregerade CSP-fakturerade intäkterna (USD) för de avslutande tolv månaderna (TTM) för partnerplatskontona och partnerns globala konto (PGA) som det här CSP-kontot är associerat med. Om du har andra CSP-konton med olika PGA måste du logga in på var och en av dem för att visa motsvarande aggregerade TTM-intäkter.  Klicka på länken med nedladdningsinformation för att få en uppdelning av TTM-intäkterna (USD) per MPN-ID.
 
 >[!NOTE]
->Lokala valutapriser (Legacy Commerce FX) i commercial hanteras till inom +/-5 % av amerikanska dollar. Växelkursen för äldre handel (FX) skiljer sig från faktureringskurserna för FX som används av Azure i modern handel. FX-priserna för modern handel baseras på Microsoft P&L-priser (Fx-priser från statsskuldfeed). Legacy Commerce FX-priser är Konfidentiella från Microsoft.
+>Lokala valutapriser (Legacy Commerce FX) i kommersiella hanteras till inom +/-5 % av amerikanska dollar. Växelkursen för äldre handel (FX) skiljer sig från faktureringen av FX-priser som används av Azure i modern handel. FX-priserna för modern handel baseras på Microsoft P&L-priser (Fx-priser från statsskuldfeed). Fx-priser för äldre handel är konfidentiella från Microsoft.
 
 
 Resten av rapporten kan pivotera baserat på följande produkter:
@@ -45,7 +45,7 @@ Vi spårar följande mått:
   
  - **Sålda licenser:** Antal sålda licenser under den angivna tidsperioden  
   
- - **Prenumerationer som förnyas på 30** dagar: Antal prenumerationer där statusen är aktiv under den angivna tidsperioden och där **Automatisk** förnyelse är sant
+ - **Prenumerationer som förnyas inom 30** dagar: Antal prenumerationer där statusen är aktiv under den angivna tidsperioden och där **Automatisk** förnyelse är sant
  
  - **Aktiva prenumerationer:** Prenumerationer där statusen är **Aktiv**  
  
@@ -64,11 +64,11 @@ Vi spårar följande mått:
 **Prenumerationsomsättning**  
  - **Nya prenumerationer:** antal nya prenumerationer för tidsperioden, exklusive utvärderingserbjudanden  
  
- - **Avetableerade prenumerationer:** Antal prenumerationer som avetablerar eller pausas efter datum  
+ - **Avetablera prenumerationer:** Antal prenumerationer som avetableats eller pausats efter datum  
 
 **Pausade prenumerationer** 
  
- - Lista över alla prenumerationer med statusen **Pausad**, exklusive utvärderingserbjudanden  
+ - Lista över alla prenumerationer med statusen **Inaktiverad**, exklusive utvärderingserbjudanden  
   
 **Aktiva prenumerationer**
 
@@ -76,7 +76,7 @@ Vi spårar följande mått:
 
 **Utvärderingsprenumerationskonverteringar**  
 
- - **Utvärderingskonvertering:** Antal **aktiva** prenumerationer där utvärderingsversionen betalas för konverteringen under den angivna tidsperioden  
+ - **Utvärderingskonvertering:** Antal **aktiva** prenumerationer där utvärderingsversionen som betalas till konverteringen skedde under den angivna tidsperioden  
 
 **Utvärderingsprenumerationer som slutar på 30 dagar**  
 

@@ -1,22 +1,22 @@
 ---
-title: Partnercenter– Insights Azure-användningsrapport
+title: Partnercenter Insights Azure-användningsrapport
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: Se vad du gör bra och var du kan förbättra din användning av Azure-prenumerationer som du säljer eller hanterar för dina kunder.
-author: shthota77
-ms.author: shthota
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 75f326fab8ebc59628dadc43b048dfefe48c22cb
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 56e58ba6ace5a7c64ec4ddfd1e76d33deace87fc
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960223"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070244"
 ---
-# <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Azure-användningsrapport som är tillgänglig från instrumentpanelen Insights Partnercenter
+# <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Azure-användningsrapport som är tillgänglig från Partnercenter Insights instrumentpanel
 
 **Lämpliga roller:** Global | Administratörsagentens | Rapportvisningsprogram | Rapportvisningsprogram för chefer
 
@@ -49,7 +49,7 @@ Micro-diagrammet visar en månatlig trend för ACR US$ som tillskrivs dig under 
 
 
 > [!NOTE]
- > Azure-intäktsförbrukning (ACR) är endast synligt för användare som har tilldelats rollen som visningsprogram för chefsrapport.
+ > Azure-intäktsförbrukning (ACR) är endast synligt för användare som har tilldelats rollen Som chef för rapportvisning.
 
 :::image type="content" source="images/insights/azure-usage-summary.png" alt-text="Azure-användningssammanfattning.":::
 

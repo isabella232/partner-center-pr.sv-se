@@ -7,13 +7,13 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 10/29/2020
-ms.openlocfilehash: bf4e155eb9ca6a7bf8e2a6ad2a5f1f2a5f0b40c2
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.date: 09/27/2021
+ms.openlocfilehash: 256183d80eea3ead7f94a8f798be75ae345db4e3
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960453"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075505"
 ---
 # <a name="manage-incentives-co-op-claims"></a>Hantera co-op-anspråk för incitament
 
@@ -37,7 +37,7 @@ Följande är de olika möjliga statusarna för dina co-op-anspråk.
 - Godkända
 - Avslagen
 
-## <a name="co-op-claim-payments"></a>Betalningar av co-op-anspråk
+## <a name="co-op-claim-payments"></a>Betalningar för co-op-anspråk
 
 ### <a name="when-will-i-get-the-payment-for-the-approved-co-op-claim"></a>När får jag betalningen för det godkända gemensamma anspråket?
 
@@ -57,15 +57,34 @@ Om det material som du skickade in med ditt co-op-anspråk bedöms vara otillrä
 
 ### <a name="dispute-a-rejected-co-op-claim"></a>Bestrida ett avvisat co-op-anspråk
 
+> [!NOTE]
+> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om gränssnittet för arbetsytor och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Vyn Arbetsytor](#tab/workspaces-view)
+
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 
-2. Under **Incitament** väljer du **Samhantering.**
+2. Välj **panelen Incitament** och sedan **Co-op management (Samhantering).**
 
 3. Välj det co-op-anspråk som du vill bestrida. Sidan för co-op-anspråk öppnas.
 
 4. Välj alternativet för att **bestrida** anspråket längst ned på sidan.
 
 Valideringsteamet för co-op-anspråk granskar anspråket inom fem affärsdagar. Under den här tiden visas statusen som **Omtvistad**. Vi kan kontakta dig för att be om mer information. När granskningen är klar uppdaterar valideringsteamet statusen till antingen **Godkänd**, **Avvisad** eller **Partneråtgärd krävs**.
+
+#### <a name="current-view"></a>[Aktuell vy](#tab/current-view)
+
+1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
+
+2. Under **Incitament** väljer **du Samhantering.**
+
+3. Välj det co-op-anspråk som du vill bestrida. Sidan för co-op-anspråk öppnas.
+
+4. Välj alternativet för att **bestrida** anspråket längst ned på sidan.
+
+Valideringsteamet för co-op-anspråk granskar anspråket inom fem affärsdagar. Under den här tiden visas statusen som **Omtvistad**. Vi kan kontakta dig för att be om mer information. När granskningen är klar uppdaterar valideringsteamet statusen till antingen **Godkänd**, **Avvisad** eller **Partneråtgärd krävs**.
+
+* * *
 
 ## <a name="next-steps"></a>Nästa steg
 

@@ -1,20 +1,20 @@
 ---
 title: Skapa en kundassociation
 ms.topic: article
-ms.date: 10/28/2020
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Skapa kundassociationer med Claiming Partner of Record -modellen (CPOR). Hjälper till att hantera försäljning, användning och incitament för Microsoft 365 & Dynamics 365-kunder.
+description: Skapa kundassociationer med Claiming Partner of Record (CPOR). Hjälper till att hantera försäljning, användning och incitament för Microsoft 365 & Dynamics 365-kunder.
 author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 196009d9271324377be02d0b2d12ba8a4d7a993c
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 87c2fc9b9d835b7dfcfbe8736e82d3862409c124
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960566"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073576"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Kundassociationer via CPOR-modellen (Claimed Partner of Record) för Microsoft 365 och Dynamics 365
 
@@ -24,7 +24,7 @@ ms.locfileid: "123960566"
 Den 1 oktober 2019 började Microsoft använda CPOR-modellen (Claiming Partner of Record) för att hantera de associationer som du har med dina Microsoft 365- och Dynamics 365-kunder med avseende på Online Services Advisory (OSA) Sell, Online Services Usage (OSU)-Microsoft 365 och OSU-Business Application incentives.
 
 >[!Important]
-> CPOR-anspråk (Customer Association) gäller endast för OSU(Online Services Sell, Online Services Usage) – Microsoft 365 och OSU-Business program. Om du skickar ett co-op-anspråk för ett annat program, till exempel Molnlösningsleverantör (CSP), Managed Reseller, värd eller Surface, kan du gå till Co-op-anspråksprocessen som beskrivs här. <br><br>När du skickar in ditt anspråk verifierar Microsoft det. Vi kan be dig om mer information i det här läget. Vi meddelar även kunden om din associationsbegäran. Kunder har fem arbetsdagar på sig att avanmäla sig. Om de inte avanmäler sig blir din koppling till den här specifika klientorganisationen och arbetsbelastningen officiell. Nu har du åtkomst till kundens användningsdata. 
+> CPOR-anspråk (Customer Association) gäller endast för OSU(Online Services Sell, Online Services Usage) – Microsoft 365 och OSU-Business Program. Om du skickar ett co-op-anspråk för ett annat program, till exempel Molnlösningsleverantör (CSP), Managed Reseller, värd eller Surface, kan du gå till Co-op-anspråksprocessen som beskrivs här. <br><br>När du skickar in ditt anspråk verifierar Microsoft det. Vi kan be dig om mer information i det här läget. Vi meddelar även kunden om din associationsbegäran. Kunder har fem arbetsdagar på sig att avanmäla sig. Om de inte avanmäler sig blir din koppling till den här specifika klientorganisationen och arbetsbelastningen officiell. Nu har du åtkomst till kundens användningsdata. 
 
 Du behöver följande information för att slutföra ett anspråk:
 
@@ -54,13 +54,57 @@ Du behöver följande information för att slutföra ett anspråk:
 
 Du bör också förstå följande:
 
-- Om du har befintliga Microsoft 365-kunder måste du associera med dem som du vill fortsätta att skaffa OSU-incitament genom att använda den här processen.
+- Om du har Microsoft 365 kunder måste du associera med dem som du vill fortsätta att skaffa OSU-incitament genom att använda den här processen.
 
 - Om du har befintliga associationer med Dynamics 365 eller Power BI-kunder förblir dessa associationer giltiga fram till dess att prenumerationerna upphör att gälla.
 
 - En kund kan ha flera partner, men varje arbetsbelastning (för OSU-Microsoft 365) eller prenumeration (för OSA-Sell- och OSU-Business-program) kan bara associeras med en partner.
 
 ## <a name="create-a-customer-association"></a>Skapa en kundassociation
+
+> [!NOTE]
+> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om gränssnittet för arbetsytor och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Vyn Arbetsytor](#tab/workspaces-view)
+
+1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
+
+2. Välj panelen **Incitament** och välj sedan **Kundassociationer.**
+
+3. Längst upp på sidan Kundassociationer väljer du **+ Kundassociationer.**
+
+4. Välj **MPN-ID** för den partnerplats som ska associeras med kunden och lägg sedan till kundens domännamn och katalog-ID. [Hitta det här](find-ids-and-domain-names.md)
+
+5. Välj **Fortsätt**.
+
+6. Välj **lösningsområdet** och **aktiviteten**. 
+
+   > [!NOTE]
+   > Om du Business Applications väljer du **antingen Användning och/eller Förförsäljning** eller **Intäktsassociaty** och väljer sedan **Fortsätt.**
+   >
+   > Om du väljer Intäktsassociation får du ange lite annan information än vad som anges nedan.
+
+7. Ange lämplig information på sidan **Associera** kund och välj sedan **Skapa anspråk.**
+
+8. Välj de produkter som är associerade med den här kundassociatyten och välj sedan **Fortsätt.**
+
+9. Fyll i kundens kontaktuppgifter och ditt företags kontaktuppgifter. Alla fält måste fyllas i. 
+
+   > [!NOTE]
+   > Om din produkt är Dynamics 365 och den produkt du väljer har flera prenumerationer för den här specifika kunden måste du också ange prenumerations-ID:t.
+
+10. Ange din PoE. Du kan dra den till rutan, bläddra till din egen stöddokumentation eller använda en mall genom att välja **Ladda ned mall**. 
+
+11. Lägg till och spara kommentarer om du vill och välj sedan **Skicka anspråk**. Vi skickar ett e-postmeddelande till kunden om att godkänna din kundassociation.
+
+   > [!NOTE]
+   > När du har skickat in din kundassociaty kan du inte redigera den.
+
+Du ser status för kundassociationen i fältet **Status**.
+
+Välj **Historik** om du vill visa historiken för en kundassociation.
+
+#### <a name="current-view"></a>[Aktuell vy](#tab/current-view)
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 
@@ -72,12 +116,12 @@ Du bör också förstå följande:
 
 5. Välj **Fortsätt**.
 
-6. Välj **lösningsområdet** och **aktiviteten**. 
+6. Välj **lösningsområdet** och **aktiviteten**.
 
-   >[!Note]
+   > [!NOTE]
+   > Om du Business Applications väljer du **antingen Användning och/eller Förförsäljning** eller **Intäktsassociaty** och väljer sedan **Fortsätt.**
    >
-   >Om du Business Applications väljer du **antingen Användning och/eller Förförsäljning** eller **Intäktsassociaty** och väljer sedan **Fortsätt.** 
-   <br><br>Om du väljer Intäktsassociation får du ange lite annan information än vad som anges nedan.
+   > Om du väljer Intäktsassociation får du ange lite annan information än vad som anges nedan.
 
 7. Ange lämplig information på sidan **Associera** kund och välj sedan **Skapa anspråk.**
 
@@ -85,19 +129,21 @@ Du bör också förstå följande:
 
 9. Fyll i kundens kontaktuppgifter och ditt företags kontaktuppgifter. Alla fält måste fyllas i. 
 
-   >[!NOTE]
-   >Om din produkt är Dynamics 365 och den produkt du väljer har flera prenumerationer för den här specifika kunden måste du också ange prenumerations-ID:t.
+   > [!NOTE]
+   > Om din produkt är Dynamics 365 och den produkt du väljer har flera prenumerationer för den här specifika kunden måste du också ange prenumerations-ID:t.
 
 10. Ange din PoE. Du kan dra den till rutan, bläddra till din egen stöddokumentation eller använda en mall genom att välja **Ladda ned mall**. 
 
 11. Lägg till och spara kommentarer om du vill och välj sedan **Skicka anspråk**. Vi skickar ett e-postmeddelande till kunden om att godkänna din kundassociation.
 
-   >[!NOTE]
-   >När du har skickat in din kundassociaty kan du inte redigera den.
+   > [!NOTE]
+   > När du har skickat in din kundassociaty kan du inte redigera den.
 
 Du ser status för kundassociationen i fältet **Status**.
 
 Välj **Historik** om du vill visa historiken för en kundassociation.
+
+* * *
 
 ## <a name="next-steps"></a>Nästa steg
 

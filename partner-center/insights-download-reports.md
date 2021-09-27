@@ -5,24 +5,24 @@ ms.date: 10/14/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: Lär dig hur du laddar ned och exporterar data från partnercentrets enhetliga rapportinstrumentpanel och från Partnercenter Insights rapporter.
-author: shthota77
-ms.author: shthota
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18ed4e14e5e0e0855dd09e91325ed46610c3acae
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 0451322dae1d08f07a6698b43733dc354e160604
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246846"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071471"
 ---
 # <a name="download-reports"></a>Ladda ned rapporter
 
-**Lämpliga roller:** Användare av | Rapportvisningsprogram
+**Lämpliga roller:** Visningsprogram för | Rapportvisningsprogram
 
 ## <a name="introduction"></a>Introduktion
 
-Med hubben Ladda ned rapporter på Insights-instrumentpanelen kan du exportera de rådatauppsättningar som driver Partnercenter-Insights-rapporter i TSV-format (tab-separated value). På så sätt kan du göra djupare analyser av data baserat på affärsbehoven.
+Med hubben Ladda ned rapporter på Insights-instrumentpanelen kan du exportera de rådatauppsättningar som driver Partnercenter-Insights-rapporter i TSV-format (tabbavgränsade värden). På så sätt kan du göra djupare analyser av data baserat på affärsbehoven.
 
 När rapporten har genererats är den tillgänglig i avsnittet **Genererade** rapporter där du kan ladda ned och analysera med hjälp av verktyg som Microsoft Excel.
 
@@ -35,7 +35,7 @@ Om du vill generera en rapport väljer du först rapporten **från listrutan** V
 :::image type="content" source="images/insights/generate-reports.png" alt-text="Genererade rapporter.":::
 
 >[!NOTE] 
->Endast de användare som är användare av chefsrapporter kan ladda ned rapporter. Mer information om rollbaserad åtkomst till instrumentpanelsrapporterna Insights finns i [PCI-roller.](insights-roles.md) 
+>Endast de användare som är rapportanvändare kan ladda ned rapporter. Mer information om rollbaserad åtkomst till instrumentpanelsrapporterna Insights finns i [PCI-roller.](insights-roles.md) 
 
 ## <a name="available-reports"></a>Tillgängliga rapporter
 
@@ -47,7 +47,7 @@ Följande rapporter är tillgängliga för nedladdning:
 
 **Prenumerationsinformation** innehåller information om de prenumerationer som säljs eller hanteras av partnern tillsammans med kundinformation. Rapporten sammanställs månadsvis.
 
-**Azure-användning** innehåller användningsinformation om Azure. Den här informationen gäller de Azure-prenumerationer som säljs eller hanteras av partnern. Användningsinformationen delas upp efter mätarkategori och andra viktiga dimensioner. Rapporten sammanställs månadsvis.
+**Azure-användning** innehåller användningsinformation för Azure. Den här informationen gäller de Azure-prenumerationer som säljs eller hanteras av partnern. Användningsinformationen delas upp efter mätarkategori och andra viktiga dimensioner. Rapporten aggregeras månadsvis.
 
 **Office 365 – Licensanvändning innehåller** användningsinformation om Office 365 licenser som säljs eller hanteras av partnern. Den innehåller också kundinformation och nyckelmått som Månatliga aktiva användare (MAU), kvalificerade rättigheter och så vidare. Rapporten aggregeras månadsvis.
 
@@ -63,5 +63,5 @@ Följande rapporter är tillgängliga för nedladdning:
 
 **Kompetenser – Sammanfattning och historik** innehåller information om alla kompetenser som är aktiva, pågående eller utsatta för risk för den här partnern. Innehåller även historik över alla kompetenser som partnern har uppnått.
 
-**Kompetenser – Prestandainformation** ger detaljerad information om hur partnern gör med avseende på KPI:er (Key Performance Indicators) för att uppnå en viss uppsättning kompetenser.
+**Kompetenser – Prestandainformation** innehåller information om hur partnern gör med avseende på KPI:er (Key Performance Indicators) för att uppnå en viss uppsättning kompetenser.
 

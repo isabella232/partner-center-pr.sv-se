@@ -1,7 +1,7 @@
 ---
 title: Använda avstämningsfiler
 ms.topic: article
-ms.date: 03/26/2021
+ms.date: 09/27/2021
 description: Lär dig mer om avstämningsfiler i Partnercenter och hur du tolkar detaljerade radobjektsvyer av avgifter för en viss faktureringsperiod.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
@@ -9,16 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e5fae4c9b9b40c8a71b56c46d0d1be629f832842
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 1dcfcc7b555b3cdfb44549a78f1134672e0ea914
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246576"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129072798"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Lär dig hur du läser radobjekten i avstämningsfilerna i Partnercenter
 
-**Lämpliga roller:** Faktureringsadministratör | Global administratör
+**Lämpliga roller:** Faktureringsadministratörsroller | Global administratör
 
 Du kan ladda ned dina avstämningsfiler från Partnercenter för en detaljerad radobjektsvy för varje avgift i en faktureringsperiod. Information om radobjekt omfattar avgifter för varje kunds prenumerationer och detaljerade händelser (till exempel ett halvtids tillägg av licenser i en prenumeration).
 
@@ -96,7 +96,7 @@ Partner i den **indirekta modellen** kan använda dessa ytterligare fält i båd
 
 | MPN-ID | Description |
 | ------ | ----------- |
-| MPN-ID | Mpn Microsoft Partner Network(Mpn) för Molnlösningsleverantör (CSP)-partner (direkt eller indirekt). |
+| MPN-ID | Mpn Microsoft Partner Network(Mpn) för CSP-partnern (direkt eller indirekt) Molnlösningsleverantör partner). |
 | [MPN-ID för återförsäljare](#reseller-mpn-id) | [MPN-identifieraren för återförsäljaren av posten för prenumerationen](#reseller-mpn-id). Det här fältet motsvarar det återförsäljar-ID som anges för den specifika prenumerationen i Partnercenter. Visas endast i avstämningsfiler för partner i den indirekta modellen. |
 
 ### <a name="reseller-mpn-id"></a>MPN-ID för återförsäljare
@@ -109,13 +109,37 @@ Om CSP-partnern tar bort ett **MPN-ID** för återförsäljare anges det här v�
 
 Så här visar eller uppdaterar du **MPN-ID:t för återförsäljare:**
 
-1. Logga in på Partner Center.
+> [!NOTE]
+> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om arbetsytegränssnittet och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
+
+1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard).
+
+2. Välj **panelen** Kunder och välj sedan kunden i listan.
+
+3. I kundmenyn väljer du **Prenumerationer.**
+
+4. Välj prenumerationen i listan.
+
+5. Välj **Uppdatera** för att ändra återförsäljarens (MPN-ID).
+
+#### <a name="current-view"></a>[Aktuell vy](#tab/current-view)
+
+1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard).
+
 2. I menyn i Partnercenter väljer du **Kunder.**
+
 3. Välj kunden i listan.
+
 4. I kundmenyn väljer du **Prenumerationer.**
+
 5. Välj prenumerationen i listan.
-6. Välj **Uppdatera** för att ändra **reseller (MPN ID)**.
+
+6. Välj **Uppdatera** för att ändra återförsäljarens (MPN-ID).
+
+* * *
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Så här läser du fakturan & rekognoseringsfilen](read-your-bill.md) 
+- [Så här läser du fakturan & rekognoseringsfilen](read-your-bill.md)

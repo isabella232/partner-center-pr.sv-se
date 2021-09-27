@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 17f0a23814213805d239d887719c5c3885234390
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 7de99f6471e6d7d96df311584592ed5b12223a8c
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247285"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073726"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Övergå från en CSP-partner med direktfakturering till en indirekt CSP-återförsäljare
 
@@ -38,7 +38,7 @@ Du kommer att kunna registrera dig i programmet för indirekta återförsäljare
 
    :::image type="content" source="images/direct/direct2a.png" alt-text="Registrera dig nu.":::
 
-4. Välj Registrera nu. Din indirekta återförsäljare använder samma klientorganisation Microsoft Azure Active Directory (Azure AD) som du använder för din direkta verksamhet.
+4. Välj **Registrera nu.** Din indirekta återförsäljare använder samma klientorganisation Microsoft Azure Active Directory (Azure AD) som du använder för din direkta verksamhet.
 
     > [!NOTE]
     > Den här nya övergångskapaciteten kommer inledningsvis att vara tillgänglig för partner med årsdagen för september till december. Om du inte har något årsdagsdatum mellan september och december ser du inte funktionen just nu. Partner med årsdagar efter december 2018 meddelas senare när funktionen har aktiverats för partnern.
@@ -46,7 +46,7 @@ Du kommer att kunna registrera dig i programmet för indirekta återförsäljare
 5. När registreringen har godkänts loggar du in på Partnercenter igen.
 
     > [!NOTE]
-    > Godkännande är vanligtvis omedelbart, men det kan ta upp till fem arbetsdagar. När den har godkänts får du ett meddelande till den e-postadress som du har angett under den primära kontakten i registreringsformuläret. Du kan också kontrollera din registreringsstatus under **Inställningar**  >  **konto Inställningar**  >  **partnerprofil >** programinformation.
+    > Godkännande är vanligtvis omedelbart, men det kan ta upp till fem arbetsdagar. När den har godkänts får du ett meddelande till den e-postadress som du har angett under den primära kontakten i registreringsformuläret. Du kan också kontrollera din registreringsstatus under **Inställningar**  >  **konto Inställningar**  >  **partnerprofil** > programinformation.
 
 6. På **översiktssidan** visas det indirekta återförsäljaravtalet. Välj **Acceptera och fortsätt**. Den här åtgärden möjliggör funktioner för indirekta återförsäljare.
 
@@ -113,7 +113,7 @@ Du hanterar dina direktfaktureringskunder och dina indirekta återförsäljares 
 
 - Skapa beställningar för produkter
 - Hantera Azure-reservationer
-- Hantera deras orderhistorik
+- Hantera sin orderhistorik
 - Köpa programvara
 - Fakturera kunder direkt
 
@@ -235,7 +235,7 @@ Funktionen är en process i fyra steg, där:
 
 - Övergångspartnern skapar en begäran om prenumerationsöverföring. Begäran innehåller en eller flera befintliga prenumerationer som är associerade med samma kund och adresseras till en indirekt leverantör.
 
-- Den indirekta leverantören granskar och godkänner (eller avvisar) överföringsbegäran.
+- Den indirekta providern granskar och godkänner (eller avvisar) överföringsbegäran.
 
 - Den indirekta providern verifierar att överföringsbegäran har slutförts.
 
@@ -349,7 +349,7 @@ Så här granskar och godkänner du en överföringsbegäran som indirekt levera
 - **Alla inköp kan inte överföras med hjälp av självbetjäning av prenumerationsöverföring.** För närvarande kan du bara överföra O365-prenumerationer och Azure PAYG-prenumerationer (MS-AZR-0145P) med den här funktionen. Andra inköp, inklusive Azure-planer, reserverade Azure-instanser, termbaserade prenumerationer och SaaS-prenumerationer för Azure Marketplace stöds inte. Du ser en orsak till varför en prenumeration inte kan överföras på sidan skicka överföringsbegäran. Om du vill överföra dessa prenumerationer måste du avbryta [den befintliga prenumerationen och](create-a-new-subscription.md#suspend-or-cancel-a-subscription) köpa ett nytt erbjudande för kunden via indirekt leverantör.
 
    > [!NOTE]
-   > Ändringar av [tillgängligheten för Azure-erbjudanden i CSP som](./announcements/2021-july.md) rör den nya handelsupplevelsen påverkar inte det här övergångsscenariot. Du kan kontinuerligt överföra Azure PAYG-prenumerationer[(MS-AZR-0145P)](https://go.microsoft.com/fwlink/p/?linkid=2164140)till den indirekta providern.
+   > Ändringar av [tillgängligheten för Azure-erbjudanden i CSP som](./announcements/2021-july.md) rör den nya handelsupplevelsen påverkar inte det här övergångsscenariot. Du kan kontinuerligt överföra Azure PAYG-prenumerationer[(MS-AZR-0145P)](https://go.microsoft.com/fwlink/p/?linkid=2164140)till indirekt leverantör.
 
 - **Det går inte att testa med sandbox-miljön.**
 

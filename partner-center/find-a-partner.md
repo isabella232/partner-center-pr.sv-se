@@ -3,17 +3,17 @@ title: Hitta en Microsoft-partner
 ms.topic: article
 ms.date: 08/25/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-referrals
+ms.subservice: partnercenter-customers
 description: Som Microsoft-partner kan du ha frågor om hur du kan hjälpa dina kunder eller specifika program. Hitta andra partner som kan hjälpa dig.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 1a5da21326ae789e4b6f570c14f9a52e0348bb64
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: c1aac5ea196a62f2f7827a0a88d15450a6083196
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247158"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071442"
 ---
 # <a name="find-a-partner-or-solution-provider-to-answer-questions-about-programs-licensing-or-customer-deals"></a>Hitta en partner eller lösningsleverantör för att besvara frågor om program, licensiering eller kundavtal 
 

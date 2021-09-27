@@ -1,39 +1,38 @@
 ---
-title: Felsöka problem med att konfigurera ditt Partnercenter-konto eller MPN-förnyelse
+title: Felsöka problem med att konfigurera ditt PartnerCenter-konto eller MPN-förnyelse
 ms.topic: how-to
-ms.date: 08/18/2020
+ms.date: 09/27/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-account
-description: Felsöka problem när du försöker registrera i Partnercenter. Svar på problem med betalningsmetoder, att glömma lösenord och mycket annat.
-author: ArpithaKanuganti
-ms.author: v-arkanu
+ms.subservice: partnercenter-enroll
+description: Felsöka problem när du försöker registrera i Partnercenter. Svar på problem med betalningsmetoder, att glömma lösenord med mera.
+author: ParthP
+ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 08672379e300eccf18a0a1f0cfc1e41b4b7dbc91
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 1f16ce1c2d765530618f8c97ccfe7e871de3c0ab
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247279"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129072960"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Felsöka problem med kontokonfiguration eller MPN-förnyelse
 
-**Lämpliga roller:** Globala | MPN-partneradministratör
- 
+**Lämpliga roller:** Global | MPN-partneradministratör
+
 Här är några förslag på felsökning av vanliga problem som uppstår när du ställer in ditt Partnercenter-konto.
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>Vad händer om du migrerar från Partner Membership Center och du inte kan redigera fält för företagsinformation
 
-Om ditt företag redan finns i Partnercenter (till exempel ett Molnlösningsleverantör-konto (CSP) visas en skrivskyddad skärm. På den här skärmen visas all information om ditt företag när det finns i Partnercenter.
+I fall där ditt företag redan finns i Partnercenter (till exempel ett Molnlösningsleverantör-konto (CSP) – visas en skrivskyddad skärm. Den här skärmen visar all information om ditt företag som det finns i Partnercenter.
 
-Du kan inte ändra informationen på den här skärmen. Detta är design och inte ett fel.
+Du kan inte ändra informationen på den här skärmen. Detta är enligt design och inte ett fel.
 
 Fortsätt genom att **välja Acceptera** och sedan **Fortsätt.**
 
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Om IT-avdelningen har inaktiverat **Registrera dig för Partnercenter**
 
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Om IT-avdelningen har inaktiverat **Registrering för Partnercenter**
-
-Du ser det här meddelandet eftersom virala användare är inaktiverade eller eftersom viral registrering är inaktiverat på Azure Active Directory klientorganisationen (AD). Den globala administratören för ditt Azure AD-konto kan aktivera nödvändiga funktioner genom att köra följande PowerShell-kommando:
+Du ser det här meddelandet eftersom virala användare är inaktiverade eller eftersom viral registrering har inaktiverats på Azure Active Directory klientorganisationen (AD). Den globala administratören för ditt Azure AD-konto kan aktivera nödvändiga funktioner genom att köra följande PowerShell-kommando:
 
 **Set-MsolCompanySettings -AllowEmailVerifiedUsers $true -AllowAdHocSubscriptions $true**
 
@@ -43,27 +42,40 @@ Mer information finns i [Registrera dig för självbetjäning.](/azure/active-di
 
 Om du har glömt ditt lösenord går du till inloggningssidan och väljer **Kan du inte komma åt ditt konto?**. Med det här alternativet kan du återställa lösenordet eller be din globala administratör att tilldela dig nya autentiseringsuppgifter.
 
-## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>På skärmen "Berätta om ditt företag" visas felmeddelandet "Något gick fel"
+## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>På skärmen "Berätta om ditt företag" visas felet "Något gick fel"
 
-Det här felmeddelandet visas vanligtvis om du oavsiktligt använder specialtecken, blanksteg eller landskod i företagets telefonnummer. Värdet som anges i Telefon Number får bara innehålla högst 10 tecken.
+Det här felmeddelandet visas vanligtvis om du oavsiktligt använder specialtecken, blanksteg eller landskod i företagets telefonnummer. Det värde som anges Telefon fältet Antal får bara innehålla högst 10 tecken.
 
+### <a name="your-credit-card-purchase-is-receiving-an-error-message-stating-that-your-order-was-declined-please-verify-your-information"></a>Ditt kreditkortsköp får ett felmeddelande om att din beställning nekades. Verifiera din information"
 
-### <a name="your-credit-card-purchase-is-receiving-an-error-message-stating-that-your-order-was-declined-please-verify-your-information"></a>Ditt kreditkortsköp får ett felmeddelande om att "Din beställning nekades. Verifiera din information"
+Använd alltid den adress som motsvarar ditt kreditkort i stället för din juridiska person. Kontrollera också att postnumret är korrekt och motsvarar den adress som du använder.
 
+## <a name="you-want-to-switch-from-offline-payment-to-online-payment-method"></a>Du vill växla från offlinebetalning till onlinebetalningsmetod
 
-Använd alltid den adress som motsvarar ditt kreditkort i stället för din juridiska enhet. Kontrollera också att postnumret är korrekt och motsvarar den adress som du använder.
+Du måste avbryta den ursprungliga beställningen och göra ett återköp med den önskade betalningsmetoden.
 
-## <a name="you-want-to-switch-from-offline-payment-to-online-payment-method"></a>Du vill byta från offlinebetalning till onlinebetalningsmetod 
+Så här avbryter du en beställning:
 
-Du måste annullera den ursprungliga beställningen och göra ett återköp med den önskade betalningsmetoden.
+> [!NOTE]
+> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om arbetsytegränssnittet och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
-Så här annullerar du en beställning:
+#### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
 
-1. På instrumentpanelen i Partnercenter väljer du **fliken Medlemskapserbjudanden.**
+1. På [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard)väljer du **panelen** Medlemskap.
 
-2. Välj **Avbryt beställning**
+2. Välj **Medlemskapserbjudanden** och sedan **Avbryt beställning.**
 
-3. Ett bekräftelsefönster visas och du måste bekräfta för att kunna avbryta den första ordern.
+3. Ett bekräftelsefönster visas och du måste bekräfta för att kunna avbryta den första beställningen.
+
+#### <a name="current-view"></a>[Aktuell vy](#tab/current-view)
+
+1. På [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard)väljer du **fliken Medlemskapserbjudanden.**
+
+2. Välj **Avbryt beställning.**
+
+3. Ett bekräftelsefönster visas och du måste bekräfta för att kunna avbryta den första beställningen.
+
+* * *
 
 ## <a name="next-steps"></a>Nästa steg
 

@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a9c0d970b4ddbdf22e0443ca9e6a2d06a031d0a9
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 3a6793834d67293e29a1b6d7e2f21b4b4eaa0ae6
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246931"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073931"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Skapa en företagsprofil för att få Microsofts sälj leads och hjälpa kunderna att hitta dig
 
@@ -33,11 +33,11 @@ Att skapa en företagsprofil är det första steget mot att få referenser. Vi v
 ## <a name="create-a-profile"></a>Skapa en profil
 
 > [!NOTE]  
-> Innan du kan skapa en företagsprofil måste du ha ett Partnercenter-konto. Om du inte redan har ett Partnercenter-konto kan du få hjälp med att skapa ett i Skapa ett Partnercenter-konto. [](mpn-create-a-partner-center-account.md)
+> Innan du kan skapa en företagsprofil måste du ha ett Partnercenter-konto. Om du inte redan har ett Partnercenter-konto kan du få hjälp med att skapa ett [i Skapa](mpn-create-a-partner-center-account.md) ett Partnercenter-konto.
 
 Skapa profiler för varje region som du har behörighet att göra affärer i.
 
-1. På menyn **i Partnercenter** väljer du **Referenser** &gt; **Företagsprofiler** &gt; ett land/en region > Skapa en **[företagsprofil](https://partner.microsoft.com/referrals/businessprofiles/)**.
+1. Gå till skärmen Partnercenter [Skapa en företagsprofil.](https://partner.microsoft.com/referrals/businessprofiles/)
 
 2. På sidan **Skapa en företagsprofil** väljer du en region och anger sedan din profilinformation.
    > [!NOTE]  
@@ -57,7 +57,7 @@ Beskrivningen kan vara upp till 2 500 tecken. Tips en bra beskrivning:
 -  **Undvik jargong**. Använd ett enkelt, dagligt språk och namnge dina erbjudanden för vad de gör: de affärsbehov som de åtgärdar, eller uppgift eller mål som de hjälper kunderna att uppnå.
 -  **Oroa dig inte för att fylla i beskrivningen med söknyckelord**. Kundens sökverktyg söker efter nyckelord som genereras i avsnittet Partnerexpert, inte beskrivningen.
 -  **Håll din profil aktuell.** Uppdatera din profil med varje programvara eller tjänst, så att den är synkroniserad med företagets webbplats.
--  Referera inte till ett annat **Microsoft-partnerföretag** efter namn , såvida det inte är ett dotterbolag eller på annat sätt är anslutet till ditt företag, eller om du har ett aktuellt avtal med det partnerföretaget om att agera i partnerskap och/eller befordra varandra för delade arbetsmöjligheter.
+-  Referera inte till ett annat **Microsoft-partnerföretag** efter namn , såvida det inte är ett dotterbolag eller på annat sätt är anslutet till ditt företag, eller om du har ett aktuellt avtal med det partnerföretaget om att agera i partnerskap och/eller befordra varandra för delade affärsmöjligheter.
 -  **För regioner med flera språk** bör du överväga att inkludera text från flera språk i beskrivningen.
 
 #### <a name="linkedin-company-page-more-ways-to-connect"></a>LinkedIn-företagssida: fler sätt att ansluta
@@ -70,7 +70,7 @@ Om du inte redan har en LinkedIn-företagssidan kan du [skapa en nu.](https://ww
 
 ### <a name="partner-expertise"></a>Partnerexpertis
 
-**Sökverktygen Hitta** en partner söker efter experttaggar. Optimera taggarna för att hjälpa din profil att få insyn.
+**Sökverktygen Hitta en** partner söker efter experttaggar. Optimera dessa taggar för att hjälpa din profil att få insyn.
 
 Börja med att lägga till egna taggar i avsnittet Partnerexpertis. Taggar som du kan lägga till: 
 
@@ -113,7 +113,7 @@ När du har publicerat din profil visas uppdateringar i Sök efter [en lösnings
 
 - **[Svara snabbt på begäranden.](manage-leads.md)** När du får en kundreferens kan ett snabbare svar leda till bättre resultat på söksidorna för framtida kunder.
 
-- **Var selektiv med taggarna**.  Det är bättre att ha färre taggar som bäst representerar företagets erbjudanden, lösningar, mervärdeslösningar och unika position där du konsekvent kan visa framgång.  Det kommer att betala för framtida sökresultat.
+- **Var selektiv med taggarna**.  Det är bättre att ha färre taggar som bäst representerar ditt företags erbjudanden, lösningar, värdeförslag och unika position där du konsekvent kan visa framgång.  Det kommer att betala för framtida sökresultat.
 - **Skaffa kompetenstaggar** via Microsoft för att demonstrera dina kunskaper i våra produkter.
 
 ## <a name="next-steps"></a>Nästa steg

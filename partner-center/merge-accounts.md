@@ -7,13 +7,13 @@ ms.subservice: partnercenter-account
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
-ms.date: 06/12/2020
-ms.openlocfilehash: 4b913754dd73f99e8aa363d257a9ac658d190b6a
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.date: 09/27/2021
+ms.openlocfilehash: 090deddc8cdb06fe1b5f884b3efa9031fd93364b
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128322007"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071842"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Slå samman ditt partnerkonto med ett annat partnerkonto
 
@@ -81,16 +81,18 @@ Om du vill acceptera inbjudan att slå samman konton: · Dina MPN-ID:n och plats
 
 ## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>Bjud in ett företag att slå samman sitt Partnercenter-konto med ditt Partnercenter-konto
 
->[!Note]
->För att kunna genomföra kontosammanslagning måste du **vara kontoadministratör** för ditt företag.
+> [!NOTE]
+> För att kunna genomföra kontosammanslagning måste du **vara kontoadministratör** för ditt företag.
 
-1. Välj **Inställningar på** instrumentpanelen i Partnercenter. 
+1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard).
+ 
+2. Välj kugghjulsikonen Inställningar och välj sedan **Kontoinställningar.**
 
-2. Välj **Kontosammanslagning.**
+3. Välj **Kontosammanslagning.**
 
-3. Lägg till DET MPN-ID som finns **i partnerprofilen** för det konto som du vill bjuda in för att sammanslå med dig. Du måste använda partnerns globala MPN-ID. Du kan inte använda ett PLATS-MPN-ID.
+4. Lägg till DET MPN-ID som finns **i partnerprofilen** för det konto som du vill bjuda in för att sammanslå med dig. Du måste använda partnerns globala MPN-ID. Du kan inte använda ett PLATS-MPN-ID.
 
-4. När du väljer **Sammanfoga** skickas en inbjudan till partnerföretaget. När de accepterar din begäran kan du initiera kontosammanfogningen i Partnercenter. Om företaget avvisar din begäran om att slå samman konton kan de förklara varför de avvisade begäran. En lista över alla dina kontosammanslagningar är tillgänglig för dig under **Sammanslagningshistorik.**
+5. När du väljer **Sammanfoga** skickas en inbjudan till partnerföretaget. När de accepterar din begäran kan du initiera kontosammanfogningen i Partnercenter. Om företaget avvisar din begäran om att slå samman konton kan de förklara varför de avvisade begäran. En lista över alla dina kontosammanslagningar är tillgänglig för dig under **Sammanslagningshistorik.**
  
 ### <a name="example-of-two-companies-merging-accounts"></a>Exempel på två företag som slår samman konton
 
@@ -103,13 +105,13 @@ Om du vill acceptera inbjudan att slå samman konton: · Dina MPN-ID:n och plats
     c. en guldkompetens som upphör att gälla den 1 oktober 2020
 2. Fabrikam, Inc. har
  
-    a. ett globalt MPN-ID för 3333333 och två UNDERORDNADE PLATS-MPN-ID:n för 4444444 och 5555555
+    a. ett globalt MPN-ID för 3333333 och två underordnade plats-MPN-ID:n för 4444444 och 5555555
 
     b.  en Azure AD-klientorganisation = @fabrikam.com
 
     c.  två guldkompetenser som upphör den 1 december 2020
 3.  Contoso köper Fabrikam och går till [Partnercenter för att](https://partner.microsoft.com/dashboard/account/merger) initiera en sammanslagningsbegäran.
-4.  Fabrikam loggar in på PartnerCenter och går till samma sida som Contoso gjorde i steg #3, för att godkänna Contosos begäran.
+4.  Fabrikam loggar in på Partnercenter och går till samma sida som Contoso gjorde i steg #3, för att godkänna Contosos begäran.
 5.  Contoso granskar informationen om sammanslagningen på samma sida och ger en bekräftelse för att fortsätta med kontosammanslagningen.
 6.  Efter sammanslagningen visas företagskontot som:
 

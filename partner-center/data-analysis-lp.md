@@ -1,35 +1,49 @@
 ---
 title: Använda analyser för prenumerationsinformation
 ms.topic: article
-ms.date: 11/13/2020
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: Lär dig hur du använder analyser i Partnercenter för att bättre förstå din verksamhet och hur dina kunder använder de licenser som du har köpt.
-author: shthota77
-ms.author: shthota
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e94a57b6e93c86a24458862a3dd4a6ccc0b14885
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: aa7352277e241156884f6fda07f64cab5cb5b21a
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961333"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073496"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Använd analys för att lära dig mer om prenumerationsintäkter
 
-**Lämpliga roller:** Globala | MPN-partneradministratör
+**Lämpliga roller:** Global | MPN-partneradministratör
 
 När du planerar sätt att utveckla CSP-verksamheten behöver du vara införstådd med hur kunderna använder sina Microsoft-produkter. Du har flera alternativ för att samla in data i Partnercenter och du kan samla in data om både din verksamhet och om och hur dina kunder använder de licenser som de har köpt. Om du använder CSP-direktmodellen har du också möjlighet att installera och använda appen Partnercenteranalys för Power BI för att samla in ytterligare data.
 
 ## <a name="access-to-the-subscription-analytics"></a>Åtkomst till prenumerationsanalysen
 
+> [!NOTE]
+> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om arbetsytegränssnittet och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
+
+1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/home)och välj **sedan Insights** panelen.
+
+2. Välj **Analysera** och välj sedan **Prenumerationsanalys.**
+
+3. De avslutande tolv månaders CSP-intäkterna visas överst på sidan
+
+#### <a name="current-view"></a>[Aktuell vy](#tab/current-view)
+
 1. Logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard/home)
-1. Från CSP på Menyn i Partnercenter väljer **du Analysera** och sedan **Prenumerationsanalys.**
 
-1. De avslutande tolv månaders CSP-intäkterna visas överst på sidan
+2. Under **CSP** på Menyn i Partnercenter väljer **du Analysera** och sedan **Prenumerationsanalys.**
 
-:::image type="content" source="images/analytics/subscription1.png" alt-text="Prenumerationsskärmen.":::
+3. De avslutande tolv månaders CSP-intäkterna visas överst på sidan
+
+* * *
 
 ## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Intäkter för Twelve-Month CSP (TTM)
 
@@ -41,14 +55,14 @@ Så här ser du en uppdelning av intäkterna på din partnerplatskontonivå:
 
 - Välj länken "Hämta information" och ladda ned en .tsv-fil som visar TTM-intäkterna för alla dina platser.
 
->[!NOTE] 
->Att summera enskilda TTM-intäktsnummer över MPN-ID:er i .tsv-filen kan verka vara större än de totala TTM-intäkter som visas i Partnercenter. Det beror på att intäkterna kan räknas dubbelt för prenumerationer med flera partnerattributioner i den nedladdade filen.
+> [!NOTE]
+> Att summera enskilda TTM-intäktsnummer över MPN-ID:er i .tsv-filen kan verka vara större än de totala TTM-intäkter som visas i Partnercenter. Det beror på att intäkterna kan räknas dubbelt för prenumerationer med flera partnerattributioner i den nedladdade filen.
 
 ## <a name="subscription-summary"></a>Prenumerationssammanfattning
 
 Den nedre halvan av skärmen visar en sammanfattning av prenumerationerna. Använd följande filter för att se nödvändig prenumerationsinformation:  
 
-1. **Varaktighet:** Du kan välja att se prenumerationssammanfattningen för 
+1. **Varaktighet** – Du kan välja att se prenumerationssammanfattningen för:
 
 - 30D – Senaste 30 dagarna
 - 3M – Senaste 3 månaderna
@@ -56,7 +70,7 @@ Den nedre halvan av skärmen visar en sammanfattning av prenumerationerna. Anvä
 - 12 M – Senaste 12 månaderna
 
 2. **Produkttyp:**
- 
+
 - Office 365
 - Microsoft 365
 - Dynamics 365
@@ -64,16 +78,8 @@ Den nedre halvan av skärmen visar en sammanfattning av prenumerationerna. Anvä
 
 Om du använder de här filtren påverkas inte TTM-intäktsmåttet överst i den här rapporten.
 
-
- 
 ## <a name="next-steps"></a>Nästa steg
 
 - [Analysera hur dina kunder använder de licenser som de har köpt](increasing-adoption-and-satisfaction.md)  
 - [Visa kundaktivitetsloggar](activity-logs.md)
 - [appen Partnercenteranalys för Power BI](power-bi-app-for-direct-partners.md)
-
-
-
-
-
-

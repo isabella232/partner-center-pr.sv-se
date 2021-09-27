@@ -1,7 +1,7 @@
 ---
-title: Så här läser du fakturan & rekognoseringsfilen
+title: Förstå fakturan och avstämningsfilen
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 09/27/2021
 description: Lär dig mer om dina & avstämningsfiler. Fakturan visar partnercenteravgifter för programmet, produkter och kunder för den månatliga perioden.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
@@ -9,34 +9,51 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 839f6f76e7efde4f0ad51375ceb5801f925c2510
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 2004734a250a23be3037342ecc01f5e6bf7b51b0
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961053"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070193"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Förstå fakturan och avstämningsfilen – lär dig hur du hittar dem i Partnercenter
 
-
 **Lämpliga roller:** Global | Faktureringsadministratörskonto | Administratörsagent
 
+Fakturan är en sammanfattning av alla dina partnercenteravgifter för programmet, alla produkter och alla kunder.
 
-Fakturan **är** en **sammanfattning av alla dina partnercenteravgifter** (i programmet, alla produkter och alla kunder). 
+## <a name="find-your-bill-and-reconciliation-file"></a>Hitta fakturan och avstämningsfilen
 
-## <a name="find-your-bill-and-reconciliation-file"></a>Hitta fakturan och avstämningsfilen 
+Du hittar din faktura på sidan Fakturering på instrumentpanelen i Partnercenter. Du hittar även din faktureringshistorik, utgiftstrender och avstämningsfiler på den här sidan.
 
-Du hittar din faktura på sidan Fakturering på instrumentpanelen i Partnercenter. Du hittar även din faktureringshistorik, utgiftstrender och avstämningsfiler på den här sidan. 
+> [!NOTE]
+> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om arbetsytegränssnittet och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
-1. Logga in på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard/home) 
+#### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
 
-2. I den vänstra menyn väljer du **Fakturering**. 
+1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/home).
 
-3. På sidan för faktureringsstatus väljer du en faktura eller avstämningsfil som du vill se mer detaljerad information för. 
+2. Välj **panelen** Fakturering.
 
-Du hittar en länk till din senaste faktura längst upp på sidan under Kontosaldo från och med det senaste fakturadatumet. 
+3. Välj en faktura eller avstämningsfil om du vill visa mer detaljerad information.
 
-Du hittar tidigare fakturor i avsnittet Faktureringshistorik. Välj lämpligt år och välj sedan den nedrullningsna pilen bredvid lämplig faktureringsperiod. Välj länken bredvid Fakturor (.pdf) för att ladda ned periodens faktura. 
+Du hittar en länk till din senaste faktura längst upp på sidan under Kontosaldo från och med det senaste fakturadatumet.
+
+Du hittar tidigare fakturor i avsnittet Faktureringshistorik. Välj lämpligt år och välj sedan den nedrullningsna pilen bredvid lämplig faktureringsperiod. Välj länken bredvid Fakturor (.pdf) för att ladda ned periodens faktura.
+
+#### <a name="current-view"></a>[Aktuell vy](#tab/current-view)
+
+1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/home).
+
+2. I den vänstra menyn väljer du **Fakturering**.
+
+3. På sidan för faktureringsstatus väljer du en faktura eller avstämningsfil som du vill se mer detaljerad information för.
+
+Du hittar en länk till din senaste faktura längst upp på sidan under Kontosaldo från och med det senaste fakturadatumet.
+
+Du hittar tidigare fakturor i avsnittet Faktureringshistorik. Välj lämpligt år och välj sedan den nedrullningsna pilen bredvid lämplig faktureringsperiod. Välj länken bredvid Fakturor (.pdf) för att ladda ned periodens faktura.
+
+* * *
 
 ## <a name="invoice-types"></a>Fakturatyper
 
@@ -44,7 +61,7 @@ Microsoft utfärdar en faktura för alla licensbaserade avgifter (till exempel O
 
 Exempel:  
 
-**Scenario 1 [enskild valuta]**: Partnern har inköp för 145P-erbjudande Office 365 licenser,  
+**Scenario 1 [enkel valuta]**: Partnern har inköp för 145P-erbjudande Office 365 licenser,  
 
 - Partnern får en PDF-faktura och två avstämningsfiler som täcker avgifterna för både Office 365 och Azure (145p).  
 
@@ -62,10 +79,9 @@ Exempel:
 
 - Partnern får en annan FAKTURA-PDF och en avstämningsfil som täcker deras avgifter för 145p-erbjudandet i EUR (eller partnerfaktureringsvaluta). 
 
-
 ## <a name="understanding-invoice-pdf"></a>Förstå PDF-faktura 
 
-**Fakturor för användnings-** och licensbaserade avgifter: Fakturor för avgifter för tjänster som Office 365 och Azure är tillgängliga inom två (2) dagar från det valda faktureringsdatumet [UTC].  
+**Fakturor för användnings- och** licensbaserade avgifter: Fakturor för avgifter för tjänster som Office 365 och Azure är tillgängliga inom två (2) dagar från det valda faktureringsdatumet [UTC].  
 
 **Fakturor för engångsavgifter och återkommande** avgifter: Fakturor för avgifter för tjänster som Azure RI, Azure-plan och Marketplace är tillgängliga senast den åttonde varje månad.  
 

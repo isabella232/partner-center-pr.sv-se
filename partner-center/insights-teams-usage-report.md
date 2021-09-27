@@ -4,22 +4,22 @@ ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: Se vad du gör bra och var du kan förbättra användningen av Teams prenumerationer som du säljer eller hanterar för dina kunder.
-author: shganesh-dev
-ms.author: shganesh
+description: Se vad du gör bra och var du kan förbättra användningen av Teams prenumerationer som du säljer eller hanterar åt dina kunder.
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 390c81496c16afb20ede58420c1201b24349708e
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 4a228641240d40dc53867a2c8bd80bbb54194c72
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961406"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075290"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Teams användningsrapport som är tillgänglig från Partnercenter Insights instrumentpanel
 
-**Lämpliga roller:** Globala | Administratörsagentens | Rapportvisningsprogram | Visningsprogram för exekutiv rapport
+**Lämpliga roller:** Globala | Administratörsagent | Rapportvisningsprogram | Visningsprogram för exekutiv rapport
 
-Rapporten Teams användning visar mått som rör dina arbetsbelastningar Teams som du sålt eller hanterar för dina kunder. Du kan visa följande avsnitt från Teams användningsrapport.
+Rapporten Teams användning visar mått relaterade till dina Teams arbetsbelastningar som du sålde eller hanterar åt dina kunder. Du kan visa följande avsnitt från Teams användningsrapport.
 
 - Sammanfattning
 - Konversationstrend
@@ -59,7 +59,7 @@ Rapporten Teams arbetsbelastningar visar den månatliga uppdelningen av använda
 
 ## <a name="top-customers-by-usage"></a>Främsta kunder efter användning
 
-Rapporten Toppkunder efter användning visar användningen av de främsta kunderna för Teams möten, samtal, telefonsystem och appar från tredje part.
+Rapporten Toppkunder efter användning visar användningen av de främsta kunderna för Teams, samtal, telefonsystem och appar från tredje part.
 
 :::image type="content" source="images/insights/teams-usage-top-customer.png" alt-text="Främsta kunder efter användning.":::
 

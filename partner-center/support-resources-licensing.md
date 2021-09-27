@@ -3,17 +3,17 @@ title: Microsofts licensresurser
 ms.topic: article
 ms.date: 02/25/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-benefits
+ms.subservice: partnercenter-customers
 description: Som Microsoft-partner kan du ha frågor om att använda olika Microsoft-licensieringsprogram. Den här artikeln innehåller resurser som kan vara till hjälp.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 3d6d6cdcb105b59d18b423ef6f006c7c7d741d56
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 5ba9d209d915d7709a7e0465e847c58ceda90c9d
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961263"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075567"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Guide till licensieringsresurser för Microsoft-partner 
 
@@ -67,7 +67,7 @@ Om du har specifika frågor om licensieringsuppfyllelse, betalning eller betalni
 |Gör så här:  | Se  |
 |:------------------|:--------------- |
 |Besvara frågor om installationsmedia i volymlicensieringsprogrammet. | [Sidan för licensieringsuppfyllelse](https://www.microsoft.com/licensing/existing-customer/fulfillment.aspx)  |
-|Besvara frågor om onlinetjänster för följande registreringsprogram: företagsavtal (EA), Server- och molnregistrering (SCE) och Open Value Subscription (OVS).  | [Utbildning och resurser för Microsoft Volume Licensing Center](https://www.microsoft.com/Licensing/existing-customer/vlsc-training-and-resources.aspx)  |
+|Svar på frågor om onlinetjänster för följande registreringsprogram: företagsavtal (EA), Server- och Molnregistrering (SCE) och Open Value Subscription (OVS).  | [Utbildning och resurser för Microsoft Volume Licensing Center](https://www.microsoft.com/Licensing/existing-customer/vlsc-training-and-resources.aspx)  |
 |Svara på frågor om onlinetjänster som är associerade med Microsofts produkt- och tjänstavtal (MPSA).  | [Utbildning och resurser för Microsoft Business Center eller](https://www.microsoft.com/licensing/existing-customer/business-center-training-and-resources.aspx#tab=2) översikt över [MPSA-licensiering](https://www.microsoft.com/licensing/mpsa/default)  |  
 |Svara på frågor om onlinetjänster som är associerade med Molnlösningsleverantör (CSP).  | [Så här säljer du CSP-prenumerationer till kunder](customer-subscriptions.md)  |
 |Besvara frågor om Microsofts betalningsalternativ och alternativ för betalning.  | [Vanliga frågor och svar om Microsofts program för programmering](https://download.microsoft.com/download/3/9/0/390DF0B3-8B15-4E65-AF5E-71A7280E7682/Microsoft-Financing-Program-FAQ-Customer_en-US.pdf)  |
@@ -79,7 +79,7 @@ Din indirekta leverantör (för CSP-programmet) eller programdistributören bör
 |Gör så här:  | Se  |
 |:------------------|:--------------- |
 |Hitta en partner eller distributör | [Hitta en partner som kan hjälpa dig](find-a-partner.md)  |
-|Visa priser och erbjudanden för CSP-program från instrumentpanelen i Partnercenter (måste vara registrerad i *CSP-programmet för att se den här instrumentpanelen)*  |[Prissättning för CSP och erbjuder översikt eller](pricing-and-offers.md) [CSP-dokument och resurser](csp-documents-and-learning-resources.md) |
+|Visa priser och erbjudanden för CSP-program från instrumentpanelen i Partnercenter (måste vara registrerad i *CSP-programmet för att se den här instrumentpanelen)*  |[CSP-priser och erbjudanden – översikt](pricing-and-offers.md) eller [CSP-dokument och resurser](csp-documents-and-learning-resources.md) |
 |Utforska marknadsföringsmaterial som hjälper dig med ett kundavtal  | [MPN-partnerberedskapsmaterial](https://partner.microsoft.com/asset#/?type=marketing-campaigns&area=mrkt)  |
 |Få hjälp från Microsoft Technical Presales and Deployment Services för ett kundavtal eller onlinefall  | [Översikt över tekniska förförsäljnings- och distributionstjänster eller](https://partner.microsoft.com/training/technical-presales-deployment-services) [supportöversikt](https://support.microsoft.com/help/3121537/using-technical-presales-and-deployment-services)  |
 |Lär dig hur du aktiverar Microsoft Azure i Open Licensing   | [Vanliga frågor och svar om aktivering av onlinetjänster för öppna program](/licensing/online-service-activation-faq)  |

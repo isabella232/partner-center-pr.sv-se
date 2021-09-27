@@ -1,23 +1,23 @@
 ---
-title: Partnercenter Insights Enterprise Mobility + Security användningsrapport
+title: Användningsrapport Insights Enterprise Mobility + Security Partnercenter
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: Se vad du gör bra och var du kan förbättra användningen av Enterprise Mobility + Security prenumerationer som du säljer eller hanterar åt dina kunder.
-author: shganesh-dev
-ms.author: shganesh
+description: Se vad du gör bra och var du kan förbättra användningen av Enterprise Mobility + Security prenumerationer som du säljer eller hanterar för dina kunder.
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: b78167823a26b16bfa51a7a948afeda027b9898e
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: afce31926ecfaa7d10a770c6a087fe553939ad7d
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246840"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070864"
 ---
 # <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security användningsrapport som är tillgänglig från instrumentpanelen Insights Partnercenter
 
-**Lämpliga roller:** Global | Administratörsagentens | Rapportvisningsprogram | Rapportvisningsprogram för chefer
+**Lämpliga roller:** Global | Administratörsagent | Rapportvisningsprogram | Rapportvisningsprogram för chefer
 
 Rapporten Enterprise Mobility + Security användning innehåller användningsdata för de Enterprise Mobility + Security prenumerationer som du har sålt eller hanterar åt dina kunder. Du kan visa följande avsnitt från Enterprise Mobility + Security användningsrapport.
 
@@ -72,7 +72,7 @@ Prenumerationsprestanda visar uppdelning av MAU och PAU efter SKU:er per kundpre
 
 ## <a name="enterprise-mobility--security-usage-distribution"></a>Enterprise Mobility + Security användningsdistribution
 
-Den Enterprise Mobility + Security användningsdistributionen visar uppdelningen av PAU och prenumerationer efter SKU:er.
+Distributionsdistributionen Enterprise Mobility + Security visar uppdelningen av PAU och prenumerationer efter SKU:er.
 
 :::image type="content" source="images/insights/ems-usage-distribution.png" alt-text="EMS-användningsdistribution.":::
 

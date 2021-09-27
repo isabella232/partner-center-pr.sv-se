@@ -4,16 +4,16 @@ description: Förstå flödet på hög nivå i API-anropsmönstret för programm
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 674cc6f800edc540920d80bedd031fae959b973b
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.openlocfilehash: 3c7e6fa814bce13ff7f584727a17b59027a78abf
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "128366140"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129074617"
 ---
 # <a name="programmatic-access-paradigm"></a>Paradigm för programmatisk åtkomst
 

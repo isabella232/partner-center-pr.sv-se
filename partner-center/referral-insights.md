@@ -3,18 +3,18 @@ title: Hämta insikter om hänvisningar
 ms.topic: article
 ms.date: 04/30/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-referrals
+ms.subservice: partnercenter-insights
 description: Granska dina hänvisningsinformationsdata regelbundet i Partnercenter för att se trender för att åtgärda eller förbättra områden som hjälper dig att nå dina affärsmål.
-author: rajap-ms
-ms.author: rajap
+author: v-sausharma
+ms.author: v-sausharma
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8886831228807c48bd3666daa485ac5357c8c6e2
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 33b88445bb17a5b5a463635dcd76d728ce58a08e
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960716"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070311"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Få referensinsikter i Partnercenter och ta reda på hur dina hänvisningar fungerar
 
@@ -125,7 +125,7 @@ Det kan finnas flera orsaker till varför du får ett tomt diagram som nedan nä
 :::image type="content" source="images/referrals/nodata.png" alt-text="Bild som visar ingen datavisualisering för hänvisningar.":::
 
 > [!NOTE]
-> Sidan **Hänvisningsinsikter** visar bara data för hänvisningar som skapats i Partnercenter. Den visar inte data för hänvisningar som genereras via [Partner Sales Anslut](psc-to-pc.md) andra mekanismer.
+> Sidan **Hänvisningsinsikter** visar bara data för hänvisningar som skapats i Partnercenter. Den visar inte data för hänvisningar som genereras via [Partner Sales Anslut](psc-to-pc.md) eller andra mekanismer.
 
 > [!TIP]
 > Om du vill se hur din företagsprofil presterar i find a solution provider experience (Hitta en [lösningsleverantör)](https://www.microsoft.com/solution-providers/home) kan du gå till [sidan Leads insights (Leadsinsikter).](referral-leads-insights.md)

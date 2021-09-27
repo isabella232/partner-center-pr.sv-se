@@ -8,12 +8,12 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-payouts
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: cc32ed034f14603c92086d03dd9d43ee7c79b66e
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 2e057219696de5eac300f9b6778489e047aceaad
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246612"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073328"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Om IRS-skatteformulär som utfärdats av Microsoft
 
@@ -27,7 +27,7 @@ Den här artikeln förklarar mer om dessa formulär, inklusive vem som får dem 
 
 | Skatteformulär för IRS | Description | Tillgänglighet |
 |--------------|-------------|--------------|
-|1099-MISC, 1099-K | Relaterat till säljaktivitet och/eller betalningar som görs till dig för deltagande på Microsofts marknadsplatser | Utskrivna formulär publiceras den **31** januari eller tidigare, och .pdf-kopior blir tillgängliga i [Partnercenter](https://partner.microsoft.com/dashboard) (i **Partnercenter-kontoinställningar** under Utbetalnings- och skatteprofiler för utbetalning och skatt **>)** samtidigt |
+|1099-MISC, 1099-K | Relaterat till säljaktivitet och/eller betalningar som görs till dig för deltagande på Microsofts marknadsplatser | Utskrivna formulär postmarkeras den **31** januari eller .pdf tillgängliga i partnercentrets utbetalnings- och [skatteprofiler.](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage) |
 |1042-S | Relaterade till betalningar som görs till dig och som USA källskatten | Utskrivna formulär publiceras den **15** mars eller tidigare, och .pdf-kopior blir tillgängliga i Partnercenter (i **PartnerCenter Developer Inställningar** under Utbetalnings- och skatteprofiler **för >** Utbetalning och skatt ) samtidigt  |
 
 > [!NOTE]
@@ -57,7 +57,7 @@ Skatteformulären skickas till dig från följande adresser:
 
 | Om jag är en USA som säljer betalappar och...   | Jag bör få det här formuläret: |
 |------------------------|-----------------------|
-| Jag hade mer än **200 appförsäljningar** med ett totalt inköpsbelopp för dessa försäljningar som var större än **20 000 USD** under det tillämpliga skatteåret **(räkna** inte försäljningen i Brasilien och Kina via Microsoft Store på Windows 10.)| **1099 K:**<br/>Filer: Microsoft Corporation<br/>HAR: \* \* \* \* \* 4442<br/><br/>**Viktigt:** Formulär 1099 K innehåller **bruttoköpsbelopp,** inte betalningar som görs till dig.| 
+| Jag hade mer än **200 appförsäljningar** med ett totalt inköpsbelopp för dessa försäljningar som var större än **20 000 USD** under det tillämpliga skatteåret **(räkna** inte försäljningen som gjorts i Brasilien och Kina via Microsoft Store på Windows 10.)| **1099 K:**<br/>Filer: Microsoft Corporation<br/>HAR: \* \* \* \* \* 4442<br/><br/>**Viktigt:** Formulär 1099 K innehåller **bruttoköpsbelopp,** inte betalningar som görs till dig.| 
 | Jag har **fått minst 10** USD i betalningar för (i) appförsäljning som gjorts i Brasilien och Kina via Microsoft Store på Windows 10 eller (ii) försäljning på Minecraft Marketplace.<br/><br/>**OR**<br/><br/>Jag fick minst 600 USD i betalningar som inte rör appförsäljning från Microsoft under det tillämpliga skatteåret (till exempel incitamentbetalningar eller betalningar från en deltagare eller befordran)| **1099-MISC:**<br/>Betalare: Microsoft Corporation<br/>HAR: \* \* \* \* \* 4442<br/><br/>**Viktigt:** Vissa affärsenheter får inte formulären 1099-MISC oavsett vilka betalningsbelopp som tas emot från Microsoft.  Kontakta skatteproffset om du vill ha mer information.| 
 | Inget av ovanstående gäller.| Ingen |
 | <br/><br/>**Om jag är en USA som säljer annonser i appar och...** |<br/><br/>**Jag bör få det här formuläret:** |
@@ -78,7 +78,7 @@ Skatteformulären skickas till dig från följande adresser:
 | **Varför fick jag tre kopior av samma formulär 1042-S i ett kuvert?** | IRS-regler kräver att tre kopior av formuläret tillhandahålls:<br/><br/>– En för mottagarens poster<br/>– En för att skicka in med USA federal skattedeklaration (om tillämpligt)<br/>– En för att skicka USA skattedeklaration (om tillämpligt) |
 
 > [!NOTE]
-> Om du har ytterligare frågor eller problem som rör **skatteformulär för IRS** går du till [Hjälp och support på](https://partner.microsoft.com/dashboard/support/) instrumentpanelen i Partnercenter. Microsoft kan inte besvara frågor som rör dina specifika skatteförhållanden; För dessa frågor kan du få råd från din skatteproffs.
+> Om du har ytterligare frågor eller problem som rör **skatteformulär för IRS** går du till [Hjälp + support på](https://partner.microsoft.com/dashboard/support/) instrumentpanelen i Partnercenter. Microsoft kan inte besvara frågor som rör dina specifika skatteförhållanden; För dessa frågor kan du få råd från din skatteproffs.
 
 ## <a name="next-steps"></a>Nästa steg
 

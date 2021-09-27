@@ -1,23 +1,23 @@
 ---
 title: Lista över systemfrågor för programmatisk åtkomst till partnerinsikter
-description: Läs mer om de systemfrågor som du kan använda för att få åtkomst till analysdata för partnerinsikter.
+description: Läs mer om de systemfrågor som du kan använda för att få åtkomst till analysdata från partnerinsikter.
 ms.topic: reference
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 9f82907d24a1693097d8c9cfc42094be067639b1
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: deb932d84ac3b1f3d6d9a63e0ef1fa75df3e4dcd
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960933"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070751"
 ---
 # <a name="list-of-system-queries-for-partner-insights-programmatic-access"></a>Lista över systemfrågor för programmatisk åtkomst till partnerinsikter
 
-Följande systemfrågor kan användas i API:et [för att skapa rapport](insights-programmatic-access-paradigm.md#create-report-api) direkt med ett QueryId. Systemfrågorna liknar exportrapporterna i Partnercenter under en beräkningsperiod på sex månader (6 miljoner).
+Följande systemfrågor kan användas i API:et [för att skapa rapport](insights-programmatic-access-paradigm.md#create-report-api) direkt med ett QueryId. Systemfrågorna fungerar som exportrapporter i Partnercenter under en beräkningsperiod på sex månader (6 miljoner).
 
 Mer information om kolumnnamn, attribut och beskrivning finns i [Datadefinitioner](insights-data-definitions.md)
 
@@ -25,7 +25,7 @@ Följande avsnitt innehåller rapportfrågor för olika rapporter.
 
 ## <a name="customers"></a>Kunder
 
-Rapporten Kunder för de senaste sex månaderna
+Kundrapporten för de senaste sex månaderna
 
 Fråge-ID: `6664daf3-c161-423a-92a1-0ea6db2c0384`
 
@@ -38,9 +38,9 @@ IsDuplicateRowForPGA,AvailableSeats,BilledRevenueUSD,AzureConsumedRevenueUSD
 FROM CustomersAndTenants TIMESPAN LAST_6_MONTHS
 ```
 
-## <a name="seats-subscriptions-and-revenue"></a>Prenumerationer och intäkter för platser
+## <a name="seats-subscriptions-and-revenue"></a>Platsprenumerationer och intäkter
 
-Plats, prenumerationer och intäktsrapport för de senaste sex månaderna
+Rapporter om platser, prenumerationer och intäkter för de senaste sex månaderna
 
 Fråge-ID: `c9fc1c79-4408-49ff-97f9-e1aa3f155804`
 
@@ -86,7 +86,7 @@ FROM AzureUsage TIMESPAN LAST_6_MONTHS
 
 ## <a name="office-usage"></a>Office Användning
 
-OfficeAnvändarrapport för de senaste sex månaderna
+OfficeUsage-rapport för de senaste sex månaderna
 
 Fråge-ID: `d8349f7b-a7d1-467e-b26d-434d4a50f26a`
 
@@ -146,7 +146,7 @@ MonthlyActiveUsers,AADPPaidAvailableUnits,IntunePaidAvailableUnits,AzipPaidAvail
 AADPMonthlyActiveUsers,IntuneMonthlyActiveUsers,AzipMonthlyActiveUsers FROM EMSUsage TIMESPAN LAST_6_MONTHS
 ```
 
-## <a name="competency-performance-requirement-report"></a>Rapport om prestandakrav för kompetens
+## <a name="competency-performance-requirement-report"></a>Prestandakravsrapport för kompetens
 
 CompetencyPeformanceRequirement-rapport i sex månader
 
@@ -161,7 +161,7 @@ FROM CompetencyPeformanceRequirement
 TIMESPAN LAST_6_MONTHS
 ```
 
-## <a name="cloud-products-reseller-performance"></a>Prestanda för återförsäljare av molnprodukter
+## <a name="cloud-products-reseller-performance"></a>Prestanda för molnprodukter för återförsäljare
 
 ### <a name="report-description"></a>Rapportbeskrivning
 
@@ -178,7 +178,7 @@ CustomerMarket,ResellerStatus
 FROM CloudProductsResellerPerformance TIMESPAN LAST_6_MONTHS
 ```
 
-## <a name="clas-agreement-renewal-propensity"></a>Benägenhet att förnya CLAS-avtal
+## <a name="clas-agreement-renewal-propensity"></a>Ighet för förnyelse av CLAS-avtal
 
 CLASAgreementRenewalsPropensity-rapport i sex månader
 
@@ -195,7 +195,7 @@ AzureUpsellCustomer,M365UpsellCustomer,RevSumDivisionName
 FROM CLASAgreementRenewalsPropensity
 ```
 
-## <a name="clas-azure-propensity"></a>CLAS Azure-benägenhet
+## <a name="clas-azure-propensity"></a>CLAS Azure-ighet
 
 CLASAzurePropensity-rapport i sex månader
 
@@ -229,7 +229,7 @@ HasAWS,HasEA,HasOpen
 FROM CLASAzurePropensity
 ```
 
-## <a name="clas-d365-propensity"></a>CLAS D365-benägenhet
+## <a name="clas-d365-propensity"></a>CLAS D365-gångar
 
 CLASD365Propensity-rapport i sex månader
 
@@ -261,7 +261,7 @@ DynamicsOnPremAXorCRM_HasOpenRenewal,M365UpsellCustomer,HasGoogle,HasAWS,HasEA,H
 FROM CLASD365Propensity
 ```
 
-## <a name="clas-m365-propensity"></a>CLAS M365-benägenhet
+## <a name="clas-m365-propensity"></a>CLAS M365-gångar
 
 CLASM365Propensity-rapport i sex månader
 
@@ -315,7 +315,7 @@ SELECT CustomerId,CustomerTenantId,MonthKey,SubWorkload,DesktopUsers,WebUsers,Mo
 FROM TeamsUsageWorkload TIMESPAN LAST_6_MONTHS
 ```
 
-## <a name="teams-usage-meetings-and-calls"></a>Teams användningsmöten och anrop
+## <a name="teams-usage-meetings-and-calls"></a>Teams möten och anrop för användning
 
 TeamsUsageMeetingsAndCalls-rapport i sex månader
 
@@ -341,7 +341,7 @@ SELECT CompetencyName,CompetencyLevel,CompetencyStatus,CompetencyStartDate,Compe
 FROM CompetencySummaryHistory TIMESPAN LAST_6_MONTHS
 ```
 
-## <a name="training-completion"></a>Slutförande av träning
+## <a name="training-completion"></a>Slutförande av utbildning
 
 Rapport om slutförd träning i sex månader
 
@@ -370,5 +370,5 @@ FROM MSLearn TIMESPAN LAST_6_MONTHS
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [API:er för åtkomst till analysdata för partnerinsikter](insights-programmatic-analytics-available-api.md)
-- [Exempelprogram för åtkomst till analysdata för partnerinsikter](insights-programmatic-sample-application.md)
+- [API:er för åtkomst till analysdata från partnerinsikter](insights-programmatic-analytics-available-api.md)
+- [Exempelprogram för åtkomst till analysdata från partnerinsikter](insights-programmatic-sample-application.md)

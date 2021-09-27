@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 71121a7493da8dee18fc65a90a4a70cc32d712c9
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: e595990b0af4abf758af74497063670b6959c869
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246444"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070559"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Kravundantag vid en prov för kompetensen för programutveckling
 
@@ -24,9 +24,9 @@ Om du har uppnått den nu tillbakadragna ISV-kompetensen och något av följande
 
 Partner med ISV-kompetens:
 
-- **Din ISV-kompetens har** upphört att gälla – Undantaget för en provkrav är tillgängligt i Partnercenter från och med 22 november 2019. Du har 30 dagar på dig att dra nytta av erbjudandet. Logga in på Partnercenter för information som är specifik för ditt företag.
+- **Din ISV-kompetens har** upphört att gälla – Undantaget för en provkrav är tillgängligt i Partnercenter från och med 22 november 2019. Du har 30 dagar på dig att dra nytta av erbjudandet. Logga in på [Partnercenter för](https://partner.microsoft.com) information som är specifik för ditt företag.
 
-- **Ditt kompetensmedlemskap är i** förnyelsefönstret – Undantaget för provkrav för en gång är tillgängligt i Partnercenter från och med 22 november 2019. Du har 30 dagar på dig att dra nytta av erbjudandet. Logga in på Partnercenter för information som är specifik för ditt företag.
+- **Ditt kompetensmedlemskap är i** förnyelsefönstret – Undantaget för provkrav för en gång är tillgängligt i Partnercenter från och med 22 november 2019. Du har 30 dagar på dig att dra nytta av erbjudandet. Logga in på [Partnercenter för](https://partner.microsoft.com) information som är specifik för ditt företag.
 
 - **Ditt kompetensmedlemskap måste** förnyas under de kommande månaderna – ditt krav på provundantag är tillgängligt när det är dags att förnya. Då har du 30 dagar på dig att hämta erbjudandet.
 
@@ -51,7 +51,7 @@ Om du behöver hjälp med att få ditt erbjudande eller har frågor om din behö
 
 ## <a name="frequently-asked-questions"></a>Vanliga frågor och svar
 
-**Hur gör jag för att veta om mitt företag är berättigat till det här erbjudandet?**
+**Hur gör jag för att vet du om mitt företag är berättigat till det här erbjudandet?**
 
 Partnerföretag som är berättigade till det här erbjudandet meddelas via e-post och i Partnercenter med information om hur du får erbjudandet. Berättigade partner är de som uppnått den nu tillbakadragna ISV-kompetensen och de som uppnått kompetensen för programutveckling via certifikatets IP-sökväg. 
 

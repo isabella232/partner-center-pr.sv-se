@@ -4,20 +4,20 @@ description: Lär dig mer om cloudAscent Propensity-rapporter i Partnercenter. I
 ms.topic: conceptual
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.date: 04/27/2021
-ms.openlocfilehash: 4248c3d72512073ba361bf1e0ee276a766b04176
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 14e0ceb931a5eb58dcbab480617e093ebc36df43
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960806"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070879"
 ---
 # <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>CloudAscent Propensity-rapporter som är tillgängliga från instrumentpanelen i Partnercenter
 
-**Lämpliga roller:** Visningsprogram för | Rapportvisningsprogram
+**Lämpliga roller:** Användare av | Rapportvisningsprogram
 
 Instrumentpanelen i Partnercenter innehåller nedladdningsbara beständiga data från CloudAscent-programmet. Data visar kundernas sannolikhet att köpa Microsoft-produkter.  I den här artikeln beskrivs uppdelningen av dessa data, hur bedömning används och vad det innebär.
 
@@ -48,9 +48,9 @@ SMB-segmentet (small to medium business) är indelat i tre distinkta delsegment.
 
 :::image type="content" source="images/insights/customer-opportunity-2.png" alt-text="Kund efter SMC-typ.":::
 
-**De främsta undersegmenten** **för** ohanterade och medelstora företag representerar LTV-kunder (High Life-Time Value) för Microsoft och Microsoft-partner. Därför är de huvudfokusområden för att driva tillväxt i det här segmentet. I dessa två undersegment är vi bättre positionerade för att skaffa socketen med Microsoft 365, tjäna pengar ytterligare med D365-/Azure LOB-appar och få en hög LTV för Microsoft.
+**De främsta undersegmenten** **för** ohanterade och medelstora företag representerar LTV-kunder (High Life-Time Value) för Microsoft och Microsoft-partner. Därför är de huvudfokusområden för att driva tillväxt i det här segmentet. I de här två delsegmenten är vi bättre positionerade för att skaffa socketen med Microsoft 365, tjäna pengar ytterligare med D365/Azure LOB-appar och få en hög LTV för Microsoft.
 
-Idag har vi två viktiga affärsmöjlighetsområden – 1. vår kund ökar tillväxten; 2. Även om vi har ett bra sätt att skaffa molnsocketar som leder Microsoft 365, har vi en stor möjlighet i Dynamics 365 och Azure.
+Idag har vi två viktiga affärsmöjlighetsområden – 1. vår kund ökar tillväxten; 2. Även om det går bra att skaffa molnsocketar som leder Microsoft 365, har vi en stor möjlighet i Dynamics 365 och Azure.
 
 Följande skärmbild representerar de fyra SMB-undersegmenten. CloudAscent prioriterar profilering, bedömning och modellering av alla konton i de främsta ohanterade och medelstora verksamhetskontona.
 
@@ -60,11 +60,11 @@ Följande skärmbild representerar de fyra SMB-undersegmenten. CloudAscent prior
 
 SMB använder maskininlärningsteknik för att driva kundförutsägelser för försäljning och marknadsföring i de viktigaste segmenten för ohanterade och medelstora företag. Hur samlas signaler in och omvandlas till rekommendationer om rekommendationer för rekommendationer?
 
-- **Datainsamling:** Webb crawlers söker igenom och samlar in miljarder kundsignaler genom att pinga företagsdomänerna och övervaka blogginlägg, pressutgåor, sociala strömmar och tekniska forum.  Förutom insamlade signaler samlas företagsinformation in från både interna och externa källor, till exempel D&B, Microsoft Internal-prenumeration och transaktionsdata.
+- **Datainsamling:** Webb crawlers söker igenom och samlar in miljarder kundsignaler genom att pinga företagsdomänerna och övervaka blogginlägg, pressutgåor, sociala strömmar och tekniska forum.  Förutom insamlade signaler samlas företagsinformation in från både interna och externa källor som D&B, Microsoft Internal-prenumeration och transaktionsdata.
 
 - **Machine Learning:** Signalerna matas in i maskininlärningsmodellen som matar ut en strukturerad datauppsättning med försäljnings- och marknadsföringsförutsägelser för varje kund efter molnprodukt och kluster.  Varje kund poängsätts med hjälp av en modell av samma utseende som Microsofts främsta SMB som avgör kundens anpassa, och maskininlärningsalgoritmer som integrerar kundens onlinebeteende definieras som avsikt. Poängen slås samman i kluster som visar en kunds ighet att köpa Microsoft Cloud Products.
 
-- **Optimering:** Machine Learning optimerar modellerna genom att använda transaktionsdata månadsvis och prenumerationsdata kvartalsvis.  Med hjälp av win/loss-data justerar Machine Learning algoritmerna och verifierar att modellerna fungerar som förväntat genom att jämföra klusterrekommendationer med affärsmöjligheter som åtgärdats i MSX.
+- **Optimering:** Machine Learning optimerar modellerna genom att använda transaktionsdata månadsvis och prenumerationsdata kvartalsvis.  Med hjälp av win/loss-data justerar Machine Learning algoritmerna och validerar att modellerna fungerar som förväntat genom att jämföra klusterrekommendationerna med affärsmöjligheter som åtgärdats i MSX.
 
 :::image type="content" source="images/insights/customer-opportunity-4.png" alt-text="Skärmbild av SMB-maskininlärning.":::
 

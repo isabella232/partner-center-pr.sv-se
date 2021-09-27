@@ -5,22 +5,22 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: Se vad du gör bra och var du kan förbättra microsofts kompetenser, kompetensnivåer och erbjudanden som hjälper dig att leverera Microsoft-lösningar.
-author: shthota77
-ms.author: shthota
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0d5eab0684c52c94c0709f09f254031dd80d8a28
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 670e307237bd2c5d6be3b64b67b0f76df5ca79a4
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960226"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075432"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Kompetensrapport som är tillgänglig från Partnercenter Insights instrumentpanel
 
-**Lämpliga roller:** Global | Administratörsagentens | Rapportvisningsprogram | Rapportvisningsprogram för chefer
+**Lämpliga roller:** Global | Administratörsagent | Rapportvisningsprogram | Rapportvisningsprogram för chefer
 
-Kompetenser gör det möjligt för ditt företag att demonstrera din tekniska förmåga att leverera Microsoft-lösningar. Microsofts kompetenser är utformade för att uppfylla dina kunders behov och visa upp din expertis för potentiella kunder. De har många fördelar från Microsoft, till exempel det inkluderade antalet Azure-förbrukning, rättigheter för molnprodukter som Office 365, teknisk support, Go-to-Market-erbjudanden med mera. Det finns i dag totalt 19 kompetenser i följande kategorier: **App** och Infrastruktur, **Företagsprogram,** **Data och AI** och Modern **arbetsplats.** Kompetenser är till exempel nivåindelade i silver- eller guldnivåer. Det finns en högre stapel för guldkompetens och en associerad högre nivå av marknadsföringsresurser, erbjudanden och program tillgängliga.  
+Kompetenser gör det möjligt för ditt företag att demonstrera din tekniska förmåga att leverera Microsoft-lösningar. Microsofts kompetenser är utformade för att uppfylla dina kunders behov och visa upp din expertis för potentiella kunder. De har en mängd fördelar från Microsoft, till exempel det inkluderade antalet Azure-förbrukning, rättigheter för molnprodukter som Office 365, teknisk support, Go-to-Market-erbjudanden med mera. Det finns i dag totalt 19 kompetenser i följande kategorier: **App** och Infrastruktur, **Företagsprogram,** **Data och AI** och Modern **arbetsplats.** Kompetenser är till exempel nivåindelade i silver- eller guldnivåer. Det finns en högre stapel för guldkompetens och en associerad högre nivå av marknadsföringsresurser, erbjudanden och program tillgängliga.  
 
 Du får mer användning av kompetensrapporten om du lär dig mer om kompetenslivscykeln, kompetensen och annan kompetensrapportinformation.
 

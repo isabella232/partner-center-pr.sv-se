@@ -1,23 +1,23 @@
 ---
 title: Skapa din incitamentsplan
 ms.topic: article
-ms.date: 09/11/2020
+ms.date: 09/27/2021
 description: Samla in och skapa nödvändig information för att skapa en lyckad marknadsföringsplan för ditt incitamentsprogram.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 387be6313a1e775963c86714a6c5c825a2ca8169
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 747c8d091231a1d77365257b89f68184bf1914d7
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246864"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070505"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Skapa en marknadsföringsplan för ditt incitamentsprogram
 
-**Lämpliga roller:**| Faktureringsadministratörskonto | Global administratör
+**Lämpliga roller:** Incitamentsadministratörsroller | Faktureringsadministratörskonto | Global administratör
 
 En plan för co-op-anspråk är en serie marknadsföringskampanjer, aktiviteter och annan information som beskriver hur du gör ditt program till ett lyckat resultat. När du har skapat din plan skickar du den till Microsoft för godkännande.
 
@@ -25,18 +25,45 @@ En plan för co-op-anspråk är en serie marknadsföringskampanjer, aktiviteter 
 
 Du kan visa dina planer genom att **välja Planhantering** på **sidan Incitament** och sedan öppna det program som du vill använda.
 
->[!NOTE]
->Du kanske inte ser Plan Management på incitamentssidan. Det beror på att instrumentpanelen i Partnercenter är dynamisk och bara visar vad som är lämpligt för din specifika roll och dina aktiviteter. Om du inte ser PlanHantering på sidan Incitament innebär det förmodligen att du inte är registrerad i ett program som har planer. Kontakta incitamentsadministratören om du behöver hjälp.
+> [!NOTE]
+> Du kanske inte ser Plan Management på incitamentssidan. Det beror på att instrumentpanelen i Partnercenter är dynamisk och bara visar vad som är lämpligt för din specifika roll och dina aktiviteter. Om du inte ser PlanHantering på sidan Incitament innebär det förmodligen att du inte är registrerad i ett program som har planer. Kontakta incitamentsadministratören om du behöver hjälp.
 
 Mer information om planer för ditt Incitamentsprogram finns i programguiden.
 
 ## <a name="how-to-submit-a-plan"></a>Så här skickar du en plan
 
+> [!NOTE]
+> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om gränssnittet för arbetsytor och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Vyn Arbetsytor](#tab/workspaces-view)
+
+1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/) och välj **panelen** Incitament.
+
+2. Välj **Program,** leta upp lämplig marknad för din plan och välj sedan **Skapa plan.**
+
+3. På sidan **Ny plan** fyller du i de obligatoriska fälten. **Valuta** är det värde som du vill att planen ska återspegla. **Granskarens e-postadress** ska vara din kontoansvarigas Microsoft-e-postadress. Observera att endast en plan kan skapas per MPN-ID, fond, program och period. Välj **Spara**.
+
+4. Gå igenom informationen på planens statussida. Välj **Redigera** om du behöver uppdatera informationen.
+
+5. När informationen på den här sidan är korrekt väljer du **Ny kampanj.**
+
+6. Fyll i de obligatoriska fälten på **sidan Ny** kampanj och välj sedan **Spara**.
+
+7. Välj **Ny aktivitet** på statussidan.
+
+8. Fyll i de obligatoriska fälten på sidan **Ny aktivitet**. Du kan välja flera länder. När du är klar väljer du **Spara**.
+
+9. Gå igenom informationen på statussidan igen. När du har skickat in en plan kan du inte redigera den. När du är klar väljer du **Skicka** och väljer sedan **Bekräfta**.
+
+Din plan har nu skickats. Microsoft meddelar din incitamentsadministratör när den har godkänts eller om vi behöver mer information. Du kan visa planens förlopp i fönstret Status på statussidan.
+
+#### <a name="current-view"></a>[Aktuell vy](#tab/current-view)
+
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 
-2. Under **incitament** i det vänstra navigeringsfönstret väljer du **Program** och väljer sedan ditt program. 
+2. Under **incitament** i det vänstra navigeringsfönstret väljer du **Program** och väljer sedan ditt program.
 
-3. På sidan **Program** letar du reda på lämplig marknad för din plan och väljer sedan **Skapa plan.** 
+3. På sidan **Program** letar du reda på lämplig marknad för din plan och väljer sedan **Skapa plan.**
 
 4. På sidan **Ny plan** fyller du i de obligatoriska fälten. **Valuta** är det värde som du vill att planen ska återspegla. **Granskarens e-postadress** ska vara din kontoansvarigas Microsoft-e-postadress. Observera att endast en plan kan skapas per MPN-ID, fond, program och period. Välj **Spara**.
 
@@ -46,15 +73,39 @@ Mer information om planer för ditt Incitamentsprogram finns i programguiden.
 
 7. Fyll i de obligatoriska fälten på **sidan Ny** kampanj och välj sedan **Spara**.
 
-8. Välj **Ny aktivitet** på statussidan. 
+8. Välj **Ny aktivitet** på statussidan.
 
-9. Fyll i de obligatoriska fälten på sidan **Ny aktivitet**. Du kan välja flera länder. När du är klar väljer du **Spara**. 
+9. Fyll i de obligatoriska fälten på sidan **Ny aktivitet**. Du kan välja flera länder. När du är klar väljer du **Spara**.
 
 10. Gå igenom informationen på statussidan igen. När du har skickat in en plan kan du inte redigera den. När du är klar väljer du **Skicka** och väljer sedan **Bekräfta**.
 
 Nu har din plan skickats. Microsoft meddelar din incitamentsadministratör när den har godkänts eller om vi behöver mer information. Du kan visa planens förlopp i fönstret Status på statussidan.
 
+* * *
+
 ## <a name="view-the-status-of-your-plan"></a>Visa status för din plan
+
+> [!NOTE]
+> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om gränssnittet för arbetsytor och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Vyn Arbetsytor](#tab/workspaces-view)
+
+1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
+
+2. Välj panelen **Incitament,** sedan **Plans Management (Hantering av** planer) och välj sedan det program du vill använda. Statussidan öppnas.
+
+3. I avsnittet **Planer** visas statusen för varje plan i kolumnen **Status**.
+
+   Följande är de olika möjliga statusarna för din plan för co-op-anspråk.
+
+   - Skickad
+   - Under granskning
+   - Åtgärd som krävs
+   - Redigering
+   - Godkända
+   - Avslagen
+
+#### <a name="current-view"></a>[Aktuell vy](#tab/current-view)
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 
@@ -71,11 +122,13 @@ Nu har din plan skickats. Microsoft meddelar din incitamentsadministratör när 
    - Godkända
    - Avslagen
 
+* * *
+
 ## <a name="plan-submission-timelines"></a>Tidslinjer för planinskickning
 
 Du måste skapa och skicka din plan senast den sista dagen på programåret. Om det behövs kan du ändra och skicka om planen under de efterföljande 90 dagarna, men planen måste skapas och skickas in första gången under programåret.
 
->[!NOTE]
+> [!NOTE]
 > Du kan bara skapa en plan per typ av medel för ett programår.
 
 ## <a name="plan-payments"></a>Betalningar för prenumerationsavtal

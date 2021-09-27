@@ -1,7 +1,7 @@
 ---
 title: Lägga till klientorganisationer i ditt Partnercenter-konto
 ms.topic: article
-ms.date: 01/11/2021
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
 description: Lär dig hur du lägger till, konsoliderar eller hanterar flera Azure AD-klienter i ditt Partnercenter-konto och lär dig varför du kanske vill göra det.
@@ -9,17 +9,17 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2bb4507fd7e5f60584c8fca99256c964a7521dc8
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: c1e116a6d7aa17cd01a0dfb0342c6f76ad78c448
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247488"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073657"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Lägga till och hantera flera klienter i ditt Partnercenter-konto
 
 
-**Lämpliga roller:** Globala | Kontoadministratör
+**Lämpliga roller:** Global | Kontoadministratör
 
 Den här artikeln beskriver hur du konsoliderar flera Azure Active Directory-klienter (Azure AD) för ditt företag och sedan lägger till och hanterar dem i ditt Partnercenter-konto. Det finns många skäl att göra det. Exempel:
 
@@ -27,55 +27,48 @@ Den här artikeln beskriver hur du konsoliderar flera Azure Active Directory-kli
 
 - Om du driver ditt företag med fler än en klientorganisation (till exempel *contoso.com*, *contoso.uk* och *contoso.in*) kan du använda flera klientorganisationen för att gruppera dem i samma datorkonto.
 
-- Om riktlinjerna för sammanslagningar och förvärv kräver att du arbetar med klienter för båda företagen skulle du använda både constoso.com *och* *fabrikam.com* klienter.
+- Om riktlinjerna för sammanslagningar och förvärv kräver att du arbetar med klienter för båda företagen använder du både constoso.com *och* *fabrikam.com* klienter.
 
 - Användare av någon av klienterna måste kunna:
     * Få åtkomst till Partnercenter för utbildning, digitala nedladdningar eller MICROSOFT Certified Professional-association (MCP).
-    * Tilldelas Partner Center-roller som mpn Microsoft Partner Network administratör eller incitamentsadministratör.
+    * Tilldelas Partner Center-roller som Microsoft Partner Network (MPN)-administratör eller incitamentsadministratör.
 
 ## <a name="add-an-azure-ad-tenant-to-your-account"></a>Lägga till en Azure AD-klientorganisation till ditt konto
 
-1. Logga in som global administratör på [Microsoft Partner Center.](https://partner.microsoft.com/dashboard)
+1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard) som global administratör.
 
-1. Längst upp till höger **väljer Inställningar**, **väljer Kontoinställningar** och sedan **Klienter**.
+2. Välj den Inställningar kugghjulsikonen, **sedan Kontoinställningar** och välj **sedan Klienter**.
  
-   :::image type="content" source="images/merge-accounts/multitenantNew.png" alt-text="Skärmbild av knappen Associera i fönstret Azure AD-profil."::: 
+   :::image type="content" source="images/merge-accounts/multitenantNew.png" alt-text="Skärmbild av knappen Associera i fönstret Azure AD-profil.":::
 
-1. Välj **Associera** och ange sedan den klientorganisation som du vill associera.
+3. Välj **Associera** och ange sedan den klientorganisation som du vill associera.
 
-1. Logga in som global administratör till den klientorganisation som du vill associera i prompten och välj sedan **Bekräfta**. 
+4. Logga in som global administratör till den klientorganisation som du vill associera i prompten och välj sedan **Bekräfta**.
 
-   :::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="Skärmbild av knappen Bekräfta i fönstret Bekräfta ny Azure AD-association."::: 
+   :::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="Skärmbild av knappen Bekräfta i fönstret Bekräfta ny Azure AD-association.":::
 
-   När du har bekräftat associationen visas **meddelandet All set** .. Om du vill visa den nyligen tillagda klienten väljer **du Återgå till klientorganisationshantering.** 
- 
->[!NOTE]
->Du kan inte associera en klientorganisation med ett konto om den redan är associerad med ett annat Partnercenter-konto.
+   När du har bekräftat associationen visas **meddelandet All set** .. Om du vill visa den nyligen tillagda klienten väljer **du Återgå till klientorganisationshantering.**
 
+> [!NOTE]
+> Du kan inte associera en klientorganisation med ett konto om den redan är associerad med ett annat Partnercenter-konto.
 
 ## <a name="remove-a-tenant-from-your-account"></a>Ta bort en klientorganisation från ditt konto
- 
+
 1. Logga in som global administratör på [Microsoft Partner Center.](https://partner.microsoft.com/dashboard)
 
-1. Längst upp till höger väljer du **Inställningar** och sedan **Kontoinställningar.**
+2. Välj den Inställningar kugghjulsikonen, **sedan Kontoinställningar** och välj **sedan Klienter**.
 
-1. I den vänstra rutan väljer **du Klienter.** Under **Hantera Azure AD-klienter** väljer du **fliken** Partner.
- 
-1. Välj **Ta** bort bredvid den klientorganisation vars association du vill ta bort.
+3. Välj fliken **Partner**.
+
+4. Välj **Ta** bort bredvid den klientorganisation vars association du vill ta bort.
 
    :::image type="content" source="images/disassociate.png" alt-text="Skärmbild av de aktuella klientorganisationsassociationer och deras Ta bort-länkar.":::
 
-   Som du ser i föregående  skärmbild är länkarna Ta bort aktiverade för alla associerade klienter, förutom för den primära klienten och den klientorganisation som du är inloggad på. 
+   Som du ser i föregående  skärmbild är länkarna Ta bort aktiverade för alla associerade klienter, förutom för den primära klienten och den klientorganisation som du är inloggad på.
 
-   > [!NOTE]   
-   > När du tar bort en klientorganisation har användarna i den klientorganisationen inte längre åtkomst till Partnercenter-kontot och borttagningen kan påverka dina kompetenser. 
+   > [!NOTE]
+   > När du tar bort en klientorganisation har användarna i den klientorganisationen inte längre åtkomst till Partnercenter-kontot och borttagningen kan påverka dina kompetenser.
 
 ## <a name="next-steps"></a>Nästa steg
 
 - [Skapa användarkonton](create-user-accounts-and-set-permissions.md)
-
-
-
-
-
-

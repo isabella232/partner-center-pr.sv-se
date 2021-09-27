@@ -7,21 +7,63 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 09/11/2020
-ms.openlocfilehash: a81962de16b56329167338012cc66e160fffafe8
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.date: 09/27/2021
+ms.openlocfilehash: ffb8ba5d56a75c585e5caad1212943c90d39b161
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246859"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071899"
 ---
-# <a name="create-and-submit-documents-for-your-incentives-proof-of-execution-poe"></a>Skapa och skicka dokument för ditt incitamentsbevis (PoE)
+# <a name="create-and-submit-documents-for-your-incentives-proof-of-execution"></a>Skapa och skicka dokument för incitamentsbeviset
 
 **Lämpliga roller:** Incitamentsadministratör
 
-Innan du får betalt för ditt incitamentsarbete måste du skicka ett detaljerat poE (proof of execution). Den här artikeln vägleder dig genom processen för att skapa ett effektivt körningsbevis.
+Innan du får betalt för ditt incitamentsarbete måste du skicka ett detaljerat poE (Proof of Execution). Den här artikeln vägleder dig genom processen med att skapa ett effektivt körningsbevis.
 
-## <a name="how-to-submit-a-poe"></a>Så här skickar du en PoE
+## <a name="how-to-submit-a-proof-of-execution"></a>Så här skickar du ett körningsbevis
+
+> [!NOTE]
+> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om arbetsytegränssnittet och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
+
+1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
+
+2. Välj panelen **Incitament,** sedan **Plan Management** och välj sedan det program som du vill använda. Statussidan öppnas.
+
+3. Välj den plan som du vill använda i avsnittet **Planer**. Statussidan för planen öppnas.
+
+4. I avsnittet **Kampanjer** hittar du den aktivitet du vill ha.
+
+5. I kolumnen **Proof of execution (PoE)** väljer du Add PoE (Lägg **till PoE).**
+
+6. På sidan **Nytt körningsbevis anger** du de obligatoriska fälten.
+
+   - **Namn**  Ett eget namn för co-op-anspråket.
+   - **Datum**  Datumet för körningen. Det här datumet måste infalla mellan startdatumet för kampanjen och slutdatumet för kampanjen.
+   - **Belopp**  Mängden co-op-anspråk.
+
+7. Välj **Spara**.
+
+8. På sidan **Nytt bevis för körningsanspråk** anger du de obligatoriska fälten.
+
+   - **Namn**  Ett eget namn för co-op-anspråket.
+   - **Datum**  Datumet för körningen. Det här datumet måste infalla mellan startdatumet för kampanjen och slutdatumet för kampanjen.
+   - **Uppskattade visningar**   Den uppskattade räckvidden för den här aktiviteten; antal personer.
+   - **Förgodkännande-ID**   Det här är det ID som Microsoft skickar till dig när vi har godkänt ditt marknadsföringsmaterial.
+
+9. När du är klar väljer du **Skapa anspråk**.
+
+10. På sidan för **faktura- och utgiftsinformation** laddar du upp något av följande två dokument:
+    - **Faktura från tredje part**  I fältet **Tredjepartsfaktura väljer du** Dra eller **bläddra bland filer för att ladda upp**. Lägg till faktura och nödvändig fakturainformation och välj sedan **Spara.**
+    - **Rapport för certifieringstjänst**  Välj **Lägg till certifieringstjänstrapport.** På sidan **Generera en certifieringstjänstrapport** fyller du i de obligatoriska fälten och väljer sedan **Spara.**
+
+11. Du kan också ladda upp **bevisdokument** om du vill. I fältet **Bevisdokument väljer** du Dra **eller bläddra bland filer för att ladda upp**. Om du väljer Proof documents (Bevisdokument) måste du lägga till förklarande anteckningar. När du har lagt till en anteckning väljer du **Spara**.
+
+12. Ange eventuella slutliga kommentarer innan du skickar din PoE och välj sedan **Skicka anspråk.**
+
+#### <a name="current-view"></a>[Aktuell vy](#tab/current-view)
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 
@@ -36,29 +78,53 @@ Innan du får betalt för ditt incitamentsarbete måste du skicka ett detaljerat
 6. På sidan **Nytt körningsbevis anger** du de obligatoriska fälten.
 
    - **Namn**  Ett eget namn för co-op-anspråket.
-   - **Datum**  Körningsdatum. Det här datumet måste infalla mellan startdatumet för kampanjen och kampanjens slutdatum.
+   - **Datum**  Datumet för körningen. Det här datumet måste infalla mellan startdatumet för kampanjen och slutdatumet för kampanjen.
    - **Belopp**  Mängden co-op-anspråk.
 
 7. Välj **Spara**.
 
-8. På sidan **Nytt bevis för utförandeanspråk** anger du de obligatoriska fälten.
+8. På sidan **Nytt bevis för körningsanspråk** anger du de obligatoriska fälten.
 
    - **Namn**  Ett eget namn för co-op-anspråket.
-   - **Datum**  Körningsdatum. Det här datumet måste infalla mellan startdatumet för kampanjen och kampanjens slutdatum.
+   - **Datum**  Datumet för körningen. Det här datumet måste infalla mellan startdatumet för kampanjen och slutdatumet för kampanjen.
    - **Uppskattade visningar**   Den uppskattade räckvidden för den här aktiviteten; antal personer.
-   - **Förgodkännande-ID**   Detta är det ID som Microsoft skickar till dig när vi har godkänt ditt marknadsföringsmaterial.
+   - **Förgodkännande-ID**   Det här är det ID som Microsoft skickar till dig när vi har godkänt ditt marknadsföringsmaterial.
 
 9. När du är klar väljer du **Skapa anspråk**.
 
 10. På sidan för **faktura- och utgiftsinformation** laddar du upp något av följande två dokument:
-    - **Faktura från tredje part**  I fältet **Tredjepartsfaktura väljer du** Dra eller **bläddra bland filer för att ladda upp**. Lägg till faktura och nödvändig fakturainformation och välj sedan **Spara**.
-    - **Certifieringstjänstrapport**  Välj **Lägg till certifieringstjänstrapport.** På sidan **Generera en certifieringstjänstrapport** fyller du i de obligatoriska fälten och väljer sedan **Spara.**
+    - **Faktura från tredje part**  I fältet **Tredjepartsfaktura väljer du** Dra eller **bläddra bland filer för att ladda upp**. Lägg till faktura och nödvändig fakturainformation och välj sedan **Spara.**
+    - **Rapport för certifieringstjänst**  Välj **Lägg till certifieringstjänstrapport.** På sidan **Generera en certifieringstjänstrapport** fyller du i de obligatoriska fälten och väljer sedan **Spara.**
 
 11. Du kan också ladda upp **bevisdokument** om du vill. I fältet **Bevisdokument väljer** du Dra **eller bläddra bland filer för att ladda upp**. Om du väljer Proof documents (Bevisdokument) måste du lägga till förklarande anteckningar. När du har lagt till en anteckning väljer du **Spara**.
 
-12. Ange eventuella slutliga kommentarer innan du skickar in PoE och välj sedan **Skicka anspråk.**
+12. Ange eventuella slutliga kommentarer innan du skickar din PoE och välj sedan **Skicka anspråk.**
 
-## <a name="view-the-status-of-a-poe"></a>Visa status för ett PoE
+* * *
+
+## <a name="view-the-status-of-a-proof-of-execution"></a>Visa status för ett körningsbevis
+
+> [!NOTE]
+> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om arbetsytegränssnittet och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
+
+1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
+
+2. Välj panelen **Incitament,** sedan **Plan Management** och välj sedan det program som du vill använda. Statussidan öppnas.
+
+3. I **avsnittet Anspråk** visas status för varje PoE i **kolumnen** Status.
+
+   Följande är de olika möjliga statusarna för poE för co-op-anspråk.
+
+   - Skickad
+   - Under granskning (Microsoft slutför sin granskning före den sista dagen i månaden efter att du har skickat in din PoE.)
+   - Åtgärd som krävs
+   - Redigering
+   - Godkända
+   - Avslagen
+
+#### <a name="current-view"></a>[Aktuell vy](#tab/current-view)
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 
@@ -74,6 +140,8 @@ Innan du får betalt för ditt incitamentsarbete måste du skicka ett detaljerat
    - Redigering
    - Godkända
    - Avslagen
+
+* * *
 
 ## <a name="next-steps"></a>Nästa steg
 

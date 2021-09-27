@@ -3,31 +3,31 @@ title: Software Assurance utbildningsutbildningsprogram går i pension
 ms.topic: article
 ms.date: 04/07/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-benefits
-description: Software Assurance training training training program håller på att dras tillbaka.
+ms.subservice: partnercenter-membership
+description: Software Assurance programmet Training Training Training håller på att dras tillbaka.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: e9313a7d7f6554a544eeb81a023db3a3a3eeff22
-ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
+ms.openlocfilehash: 5cab77aa5fc3b25bb0ee5b3813aa272a29b924d4
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128309798"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070831"
 ---
 # <a name="training-vouchers-program-retirement"></a>Utbildningsutbildningsprogram går i pension
 
-Software Assurance SATV:er (Training Training, SATV: er) dras tillbaka helt från Software Assurance-förmåner, men kunderna kan fortsätta att använda några dagar för lärarledd utbildning medan de är giltiga. Det här är de viktiga datum som ledde fram till att programmet pensioneras: 
+Software Assurance satv:ar (Training Training) dras tillbaka helt från Software Assurance-förmånerna, men kunderna kan fortsätta att använda flera dagar för lärarledd utbildning medan äldstana är giltiga. Det här är viktiga datum som ledde fram till att programmet pensioneras: 
 
 - 1 februari 2020: Azure-utbildningen dras tillbaka från utbildningskatalogen.
-- 1 februari 2020: Träningsträningsutbildningar kan inte längre konverteras till planning services-dagar.  
-- 1 februari 2021: Kunder får inte längre utbildningsförmåner. 
+- 1 februari 2020: Träningsträningsträningar kan inte längre konverteras till Planning Services-dagar.  
+- 1 februari 2021: Kunderna får inte längre utbildningsförmåner. 
 - 30 juni 2021: Sista dagen för kunder att skapa/tilldela träningsträningsutbildningar. Alla återstående träningsdagar tas bort 1 juli 2021.
 - 1 januari 2022: Sista dagen för partner att lösa in träningsduplar. Partnern har 60 dagar efter inlösningen för att slutföra processen med betalningsbegäran.  
 
 >[!NOTE]
->Livscykeln för livscykeln ändras inte. När en sedel har skapats/tilldelats måste reservationsreservation, träningssessioner och inlösen slutföras inom 180 dagar innan den upphör att gälla.  Mer information om utbildningsutbildningsutbildning som går tillbaka finns i Vanliga frågor och svar Software Assurance ändringar i [förmånen](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) (inloggning krävs).  Se den fullständiga listan över SATV-berättigade utbildningskurser i produktkatalogen för utbildningsförmånen. Skicka eventuella frågor till ditt regionala partnersupportteam: [EMEA-partnersupport;](mailto:savoucher@msdirectservices.com) [Allmänt partnerstöd](https://partner.microsoft.com/dashboard/support/servicerequests).
+>Livscykeln för livscykeln ändras inte. När en sedel har skapats/tilldelats måste reservationsreservation, träningssessioner och inlösen slutföras inom 180 dagar innan den upphör att gälla.  Mer information om hur du drar tillbaka utbildningsförmåner finns i Vanliga frågor och svar Software Assurance ändringar i [förmånen](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) (inloggning krävs).  Se den fullständiga listan över SATV-berättigade utbildningskurser i produktkatalogen för utbildningsförmånen. Skicka eventuella frågor till ditt regionala partnersupportteam: [EMEA-partnersupport;](mailto:savoucher@msdirectservices.com) [Allmän partnersupport](https://partner.microsoft.com/dashboard/support/servicerequests).
 
 
 
@@ -79,7 +79,7 @@ När du har slutfört en träning måste du lösa in den. Följ instruktionerna 
 
 ## <a name="request-payment-from-microsoft"></a>Begära betalning från Microsoft
 
-Betalningar hanteras via Software Assurance Benefit Benefit (SAVB) Online Payment Tool. Följ instruktionerna i [steg 8](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) i arbetsflödet för att skicka en faktura till Microsoft via SAVB. 
+Betalningar hanteras via Software Assurance Benefit (SAVB) Online Payment Tool. Följ instruktionerna i [steg 8](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) i arbetsflödet för att skicka en faktura till Microsoft via SAVB. 
 
 Mer information finns i Vanliga frågor och [svar och](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) granska [SATV-programprinciper.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)
 

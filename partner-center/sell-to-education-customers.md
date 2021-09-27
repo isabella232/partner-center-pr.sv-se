@@ -2,19 +2,19 @@
 title: Så här säljer du erbjudanden till utbildningskunder
 description: Lär dig hur du skapar en utbildningskund och säljer erbjudanden till dem i Partnercenter. Omfattar bekräftelse av verifieringsstatus för utbildningskunden.
 ms.topic: how-to
-ms.date: 12/17/2020
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
 author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2d9924b8d361be4237c613467a1d36db29cf7d9e
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 8c0d278de5cef254839bfa324efc701fc788a830
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247111"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075654"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Så här säljer du erbjudanden till utbildningskunder och hur du skapar en utbildningskund i Partnercenter
 
@@ -27,13 +27,40 @@ Den här artikeln förklarar hur du skapar en utbildningskund i Partnercenter oc
 > [!IMPORTANT]
 > Microsoft verifierar varje nyskapad utbildningsklientorganisation för att säkerställa att de är kvalificerade för utbildningserbjudanden.  Se till att du anger den information som krävs så korrekt och fullständigt som möjligt för att förhindra fördröjningar i verifieringsprocessen.
 
-1. Logga in på Partner Center.
+> [!NOTE]
+> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om arbetsytegränssnittet och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
+
+1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard).
+
+2. Välj panelen **Kunder** och välj sedan Lägg **till en kund.** 
+
+3. Välj **Utbildning** i **listrutan Specialkvalifikationer.**  Fyll i resten av kontoinformationen efter behov.  Viktiga fält som hjälper verifieringsprocessen är:
+
+   - **Företagsnamn:** ANGE NAMN PÅ JURIDISK PERSON – Krävs för verifiering
+   - **Lands-/region- och adressrader:** Ange FULLSTÄNDIG ENTITETSADRESS – krävs för verifiering
+   - **E-postadress:** Ange den entitetsägda e-postadressen – inte en kostnadsfri eller on.microsoft.com -e-postadress – som krävs för verifiering
+   - **Kundkontaktinformation:** den här informationen används som en del av verifieringsprocessen
+   - **Primärt domännamn:** Används för att skapa kundens konto och e-postadresser.  Välj ett namn som liknar företagets namn utan blanksteg eller specialtecken.  Det här namnet kan inte ändras senare.
+
+4. När du är klar väljer du **Granska**.
+
+   :::image type="content" source="images/eduaccountinfo.png" alt-text="Education-kundkonto.":::
+
+5. När du har **bekräftat Granska** får du **statusen InReview** om den information som skickats är giltig. 
+
+    :::image type="content" source="images/edu/create-review.png" alt-text="Education-kundkonto som granskas."lightbox="images/edu/create-review-expanded.png":::
+
+#### <a name="current-view"></a>[Aktuell vy](#tab/current-view)
+
+1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard).
 
 2. Välj **Kunder** och välj sedan **Lägg till en kund.** Välj **Utbildning** i **listrutan Specialkvalifikationer.**  Fyll i resten av kontoinformationen efter behov.  Viktiga fält som hjälper verifieringsprocessen är:
 
    - **Företagsnamn:** ANGE NAMN PÅ JURIDISK PERSON – Krävs för verifiering
    - **Lands-/region- och adressrader:** Ange FULLSTÄNDIG ENTITETSADRESS – krävs för verifiering
-   - **E-postadress:** Ange den entitetsägda e-postadressen – inte ett kostnadsfritt eller on.microsoft.com-e-postmeddelande – som krävs för verifiering
+   - **E-postadress:** Ange den entitetsägda e-postadressen – inte en kostnadsfri eller on.microsoft.com -e-postadress – som krävs för verifiering
    - **Kundkontaktinformation:** den här informationen används som en del av verifieringsprocessen
    - **Primärt domännamn:** Används för att skapa kundens konto och e-postadresser.  Välj ett namn som liknar företagets namn utan blanksteg eller specialtecken.  Det här namnet kan inte ändras senare.
 
@@ -44,6 +71,8 @@ Den här artikeln förklarar hur du skapar en utbildningskund i Partnercenter oc
 4. När du har **bekräftat Granska** får du **statusen InReview** om den information som skickats är giltig. 
 
     :::image type="content" source="images/edu/create-review.png" alt-text="Education-kundkonto som granskas."lightbox="images/edu/create-review-expanded.png":::
+
+* * *
 
 ### <a name="confirm-your-education-customers-verification-status"></a>Bekräfta din utbildningskunds verifieringsstatus
 
@@ -92,7 +121,7 @@ Du måste ha behörighet som global administratör för att kunna uppdatera kund
 
 1. Gå till fliken i Partnercenter och till **kundkontosidan.** Uppdatera webbläsaren och kontrollera att sidan Företag har uppdaterats till den nya informationen. Välj **knappen** Uppdatera för att begära omverifiering av utbildning.
 
-2. Om den uppdaterade kundinformationen är berättigad till Education-erbjudanden visas specialkvalifikationerna **uppdaterade** till **Education**. Om du fortfarande ser **Inte utbildningskund kontaktar** du supporten för manuell verifiering.
+2. Om den uppdaterade kundinformationen är berättigad till Education-erbjudanden visas specialkvalifikationerna **uppdaterade** till **Education**. Om du fortfarande ser **Inte utbildningskund kan** du kontakta supporten för manuell verifiering.
 
 ## <a name="next-steps"></a>Nästa steg
 

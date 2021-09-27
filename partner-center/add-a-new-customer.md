@@ -1,7 +1,7 @@
 ---
 title: Så här lägger du till en ny kundpost
 ms.topic: how-to
-ms.date: 09/07/2021
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
 description: Lär dig hur du lägger till en ny kundpost i Partnercenter. Sedan kan du sälja kundprenumerationer, hantera fakturering eller tillhandahålla kundsupport.
@@ -9,29 +9,32 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 7995ee8f4da20d80fd260bcb77665e244e448227
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 99057daa14fc279fde2a676a315d3cc8930f88aa
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246553"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129072417"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Så här lägger du till en ny kundpost i Partnercenter
 
-**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Administratörsagentens | Försäljningsagent
+**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Administratörsagent | Försäljningsagent
 
 I den här artikeln beskrivs hur du lägger till en ny kund i Partnercenter. De här stegen krävs innan du kan sälja prenumerationer, hantera fakturering eller ge support till en kund.
 
 ## <a name="considerations"></a>Överväganden
 
-**När du lägger till en ny kundpost i Partnercenter:**
+När du lägger till en ny kundpost i Partnercenter:
 
 - **Använd rätt registrerings-ID:** När du anger ditt företagsregistrerings-ID måste du använda ditt företags skatte-ID och inte kundens personliga ID.
 
 - **Ange ytterligare information för vissa länder:** Företagsregistrerings-ID och telefonnummer krävs för vissa länder om du är en partner med direktfakturering eller en indirekt leverantör [](#company-registration-id-and-phone-number-required-for-some-countries)
+
 - **Bekräfta Microsoft-kundavtal:** Innan du kan göra en beställning åt en kund måste du bekräfta att kunden har godkänt [Microsoft-kundavtal](confirm-customer-agreement.md).
+
 - **Använd olika  steg för** befintliga kunder: För befintliga kunder, inklusive de som redan har kundposter i Partnercenter via ett [scenario](multichannel.md) med flera kanaler eller [flera](multipartner.md) [partner,](request-a-relationship-with-a-customer.md)begär du en relation med dem i stället för att följa stegen här.
-- **Ange detaljerad, korrekt kundinformation:** För att underlätta kundverifiering bör du se till att:
+
+- **Ange detaljerad, korrekt kundinformation:** För att underlätta kundverifiering, se till att du:
   - Ange det exakta juridiska/officiella namnet som det visas i de officiella dokumenten.
   - Undvik att använda förkortningar eller korta formulär.
   - Använd inte testnamn.
@@ -46,7 +49,7 @@ När du anger ett företagsnamn tillåts inte följande:
 - Använd endast specialtecken, till exempel &$^# (se [tabellen](#table-of-special-characters) nedan).
 - Endast blanksteg och/eller tabbar.
 - Använda fristående förkortningar från den begränsade listan, till exempel LLC, Inc osv. (se [tabellen](#table-of-abbreviations) nedan).
-- Använda namn med TDL-tillägg (Internet Top-Level Domain), till exempel ".com", ".org", ".edu", ".club" osv. (se [tabellen](#table-of-top-level-domain-extensions) nedan).
+- Använda namn med TDL-tillägg (Internet Top-Level Domain), till exempel ".com", ".org", ".edu", ".club", osv. (se [tabellen](#table-of-top-level-domain-extensions) nedan).
 
 - Använd samma tecken som upprepas tre eller flera gånger utan andra tecken, till exempel 999.
 
@@ -59,7 +62,41 @@ När du anger en kunds e-postadress tillåts inte följande:
 
 ## <a name="to-add-a-new-customer-in-partner-center"></a>Så här lägger du till en ny kund i Partnercenter
 
-1. På menyn i Partnercenter väljer du **Kunder** och sedan Lägg **till kund.**
+#### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
+
+1. Logga in på [instrumentpanelen i Partnercenter,](https://partner.microsoft.com/dashboard)välj **panelen Kunder** och välj sedan Lägg **till kund.**
+
+2. Om kunden är en utbildningsnämnd kan du se [hur du skapar en eduktionskund.](sell-to-education-customers.md)
+
+3. På **sidan Kontoinformation** anger du kundens information och primär kontaktinformation.
+   >[!IMPORTANT]
+   >Partner måste intyga följande:
+   >
+   >Jag bekräftar att min organisation fungerar som en indirekt partner när jag väljer en återförsäljare och som direkt partner utan att välja en återförsäljare
+   >
+   >Jag bekräftar att jag inte säljer produkter som köpts i den här ordern till andra partner som är kopplade till min överordnade organisation
+
+   >[!NOTE]
+   >EU-/EFTA-lagar anger att partner som gör transaktioner i dessa länder måste deklarera ytterligare återförsäljare som är associerade med en transaktion. Följande regler gäller:
+   >- En första återförsäljare måste väljas innan ytterligare återförsäljare
+   >- Ytterligare återförsäljare kommer inte att ha rätt till ytterligare incitament, erbjudanden osv.
+   >- Ytterligare säljare som angetts verifieras för att säkerställa att rätt MPN-ID anges i förekommande fall och att återförsäljaren har signerat MPA.
+   >- Upp till 5 ytterligare återförsäljare kan anges som en del av transaktionen
+
+4. Om du är en indirekt leverantör väljer du den indirekta återförsäljare som du vill associera med kundens prenumerationer i listan.
+
+5. Välj **Granska.**
+
+6. Välj **Skicka**.
+
+7. Om du vill lägga till prenumerationer väljer du **Lägg till produkter.**
+
+8. När du är klar med att lägga till kundinformation och har köpt de prenumerationer som krävs väljer du **Klar.**
+
+#### <a name="current-view"></a>[Aktuell vy](#tab/current-view)
+
+1. Logga in på [instrumentpanelen i Partnercenter,](https://partner.microsoft.com/dashboard) **välj Kunder** och välj sedan Lägg **till kund.**
+
 2. Om kunden är en utbildningsnämnd kan du se [hur du skapar en eduktionskund.](sell-to-education-customers.md)
 
 3. På **sidan Kontoinformation** anger du kundens information och primär kontaktinformation.
@@ -86,6 +123,8 @@ När du anger en kunds e-postadress tillåts inte följande:
 7. På sidan **Granska** kontrollerar du om posterna är korrekta och väljer sedan **Skicka**.
 
 8. När du är klar med att lägga till kundinformation och har köpt de prenumerationer som krävs väljer du **Klar.**
+
+* * *
 
 ## <a name="company-registration-id-and-phone-number-required-for-some-countries"></a>Företagsregistrerings-ID och telefonnummer som krävs för vissa länder
 
@@ -121,7 +160,7 @@ Följande tabeller listar objekt som nämns i [avsnittet nya regler](#new-rules-
 | ----- | ----- | ----- | ----- |
 |"c p a" | "pty" | "l. l. c." | "gmbh" |
 | "c.p.a." | "pty ltd" | "l.l.c." | "mol" |
-| "l.l.p." | "pte ltd" | "l l p" | "wll" |
+| "l.l.p." | "pte ltd" | " l l p" | "wll" |
 | "c. p. a." | "privat begränsad" | "corp" | "lda" |
 | "l. l. p." | "pvt" | "corporation" | "sarl" |
 | " l l c" | "pvt ltd" | "inc" | "kft" |
@@ -154,10 +193,10 @@ Följande tabeller listar objekt som nämns i [avsnittet nya regler](#new-rules-
 | .ec | .bw | .se | .gm |
 | .ee | .by | .eu | .gn |
 | .eg | .bz | .fi | .gp |
-| .ye | .es | .fj | .gq |
+| .eh | .es | .fj | .gq |
 | .er | .et | .fk | .gr |
 | .gs | .gw | .hm | .ht |
-| .gt | .mer | .hn | .hu |
+| .gt | .zi | .hn | .hu |
 | .gu | .hk | .hr | .id |
 | .ie | .kz | .mo | .nz |
 | .il | .la | .mp | .om |
@@ -167,7 +206,7 @@ Följande tabeller listar objekt som nämns i [avsnittet nya regler](#new-rules-
 | .iq | .lk | .mt | .pg |
 | .ir | .lr | .mu | .ph |
 | .is | .ls | .mv | .pk |
-| .it | .lt | .megas | .pl |
+| .it | .lt | .megam | .pl |
 | .je | .lu | .mx | .pm |
 | .jm | .lv | .my | .pn |
 | .jo | .ly | .mz | .pr |
@@ -175,7 +214,7 @@ Följande tabeller listar objekt som nämns i [avsnittet nya regler](#new-rules-
 | .ke | .mc | .nc | .pt |
 | .kg | .md | .ne | .pw |
 | .kh | .me | .nf | .py |
-| .ki | .f.f. | .ng | .qa |
+| .ki | .mg | .ng | .qa |
 | .km | .mg | .ni | .re |
 | .kn | .mh | .nl | .ro |
 | .kp | .mk | .no | .rs |
@@ -206,4 +245,4 @@ Följande tabeller listar objekt som nämns i [avsnittet nya regler](#new-rules-
 
 ## <a name="next-steps"></a>Nästa steg
 
-- Mer information om vad du kan sälja till kunder via Molnlösningsleverantör program finns i [Partnererbjudanden i Molnlösningsleverantör program](csp-offers.md)
+- Mer information om vad du kan sälja till kunder via Molnlösningsleverantör-programmet finns [i Partnererbjudanden i Molnlösningsleverantör program](csp-offers.md).

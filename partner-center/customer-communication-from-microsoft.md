@@ -3,18 +3,18 @@ title: Kundkommunikation från Microsoft
 ms.topic: article
 ms.date: 07/10/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-support
+ms.subservice: partnercenter-customers
 description: Lär dig hur Microsoft förväntar sig att kundkommunikation sker mellan kunder och partner i Molnlösningsleverantör program.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 3ffca850cda093918930cb93abb5fb2372bfb45f
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 81c37c50f06e252a07ebcd68fe8f8e3253e60a65
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961306"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073795"
 ---
 # <a name="guidelines-for-successful-customer-communication-with-microsoft"></a>Riktlinjer för lyckad kundkommunikation med Microsoft
 
@@ -22,7 +22,7 @@ ms.locfileid: "123961306"
 
 **Lämpliga roller:** Supportagent
 
-I allmänhet förväntar vi oss att all kommunikation med kunden kommer från Molnlösningsleverantör partner. Eftersom du äger kundfaktureringsrelationen skickar Microsoft inte kommunikation direkt till dina kunder som är relaterade till deras prenumerationer.
+I allmänhet förväntar vi oss att all kommunikation med kunden kommer från Molnlösningsleverantör partner. Eftersom du äger kundfaktureringsrelationen skickar Microsoft inte kommunikation direkt till dina kunder som rör deras prenumerationer.
 
 Microsoft kan kommunicera direkt med kunder om tjänstincidenter eller annan driftsinformation.
 

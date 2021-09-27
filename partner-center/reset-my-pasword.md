@@ -9,17 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ceb54243f3032de0667b67fc2e84c1ba6d05cd5b
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 101fed7eebf2e96b50e2bbbe091403769844bc1e
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126249068"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071545"
 ---
 # <a name="reset-my-password"></a>Återställa mitt lösenord
  
 **Lämpliga roller:** Global | Alla partner som är intresserade av Partnercenter
-
 
 Om du inte kommer ihåg lösenordet för Partnercenter kan du återställa det.
 

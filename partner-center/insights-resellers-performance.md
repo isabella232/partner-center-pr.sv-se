@@ -1,24 +1,24 @@
 ---
-title: Instrumentpanel för Insights För återförsäljare i Partnercenter
+title: Prestandainstrumentpanel Insights partnercenter för återförsäljare
 ms.topic: article
 ms.date: 09/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: Instrumentpanelen för återförsäljares prestanda i Partnercenter Insights ger en översikt över prestanda för olika indirekta återförsäljare av en indirekt leverantör Molnlösningsleverantör (CSP).
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 796af99cc405a72bebcd467b242dafb83ac756e5
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: e0ce32a76a0a31fb25f841001efd359b3bb2b325
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960813"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071166"
 ---
 # <a name="reseller-performance-dashboard-in-partner-center-insights"></a>Instrumentpanel för återförsäljares prestanda i Partnercenter Insights
 
-**Lämpliga roller:** Globala | Administratörsagentens | Rapportvisningsprogram | Rapportvisningsprogram för chefer
+**Lämpliga roller:** Global | Administratörsagentens | Rapportvisningsprogram | Rapportvisningsprogram för chefer
 
 Instrumentpanelen för återförsäljares prestanda i Partnercenter Insights ger en översikt över prestanda för olika indirekta återförsäljare av en indirekt leverantör Molnlösningsleverantör (CSP). Instrumentpanelen innehåller data om återförsäljare som är aktiva, hur mycket intäkter de genererar och vilka produkter som ger intäkter. Indirekta leverantörer kommer att kunna söka efter en specifik återförsäljare efter namn och söka efter information om återförsäljaren på instrumentpanelen för återförsäljares prestanda.
 
@@ -32,7 +32,7 @@ Du kan visa följande avsnitt från instrumentpanelen Reseller Performance (Åte
 - Aktiva återförsäljare efter partnerplatser
 - Geofördelningstrend för intäkter
 - Återförsäljares prestanda efter kundsegment
-- Signeringsstatus Microsoft-partneravtal reseller Microsoft-partneravtal (MPA)
+- Signeringsstatus Microsoft-partneravtal Reseller Microsoft-partneravtal (MPA)
 
  > [!NOTE]
  > Den här rapporten är tillgänglig från Insights instrumentpanel. Om du vill visa den här rapporten måste du ha tilldelats en viss roll i Partnercenter, till exempel Global administratör, Kontoadministratör, Rapportvisningsprogram eller Visningsprogram för verkställande rapporter. Mer information finns i företagets globala administratör. Vissa typer av data i den här rapporten kan också vara tillgängliga endast för användare med privilegier för visningsprogrammet för chefsrapport.
@@ -53,7 +53,7 @@ Micro-diagrammet visar trenden månad för månad för återförsäljare som reg
 
 Micro-diagrammet visar trenden månad för månad för totalt antal nya återförsäljare under det valda datumintervallet.
 
-- Fakturerade intäkter i USD: Intäkter i USD som drivs av återförsäljarna under den månaden. 
+- Fakturerade intäkter USD: Intäkter i USD som drivs av återförsäljarna under den månaden. 
 
 Micro-diagrammet visar intäktstrenden månad för månad under det valda datumintervallet.
 
@@ -65,7 +65,7 @@ Micro-diagrammet visar intäktstrenden månad för månad under det valda datumi
 
 The **Resellers by geography view provide the geographical distribution of Resellers. Med den här widgeten kan partner **visa** totalt antal **återförsäljare,** nya återförsäljare och **fakturerade intäkter (USD)**, uppdelat efter olika geografiska områden.
 
-Du kan söka efter och välja ett land i rutnätet för att zooma till platsen på kartan. Tryck på **alternativet** Start på kartan för att återgå till den ursprungliga vyn. Hovra över kartan för att visa **fakturerade intäkter (USD)** per land. Fältet Fakturerade intäkter (USD) i rutnätet kan sorteras.
+Du kan söka efter och välja ett land i rutnätet för att zooma till platsen på kartan. Tryck på **alternativet** Start på kartan för att återgå till den ursprungliga vyn. Hovra över kartan för att visa **fakturerade intäkter (USD)** per land. Fältet Fakturerade intäkter (USD) i rutnätet är sorterbart.
 
 :::image type="content" source="images/insights/resellers-performance-by-geo.png" alt-text="Återförsäljare efter geografiskt område.":::
 
@@ -81,7 +81,7 @@ I den här vyn visas en månadsdelning av antalet **nya** återförsäljare, **o
 
 ## <a name="resellers-revenue-trend"></a>Intäktstrend för återförsäljare 
 
-Den här vyn ger en månatlig trend för de fakturerade intäkterna (USD) per produkter, nämligen Office 365, Dynamics 365, Enterprise Mobility and Security (EMS), Microsoft Power BI och Azure. De övergripande måtten sammanställs över de olika produkterna för varje månad. Partnern kan söka efter en specifik återförsäljare efter namn och söka efter data för den specifika återförsäljaren. Fältet Fakturerade intäkter (USD) i rutnätet kan sorteras.
+Den här vyn visar en månatlig trend för de fakturerade intäkterna (USD) per produkt, nämligen Office 365, Dynamics 365, Enterprise Mobility and Security (EMS), Microsoft Power BI och Azure. De övergripande måtten sammanställs för de olika produkterna för varje månad. Partnern kan söka efter en specifik återförsäljare efter namn och söka efter data för den specifika återförsäljaren. Fältet Fakturerade intäkter (USD) i rutnätet är sorterbart.
 
 :::image type="content" source="images/insights/resellers-performance-revenue-trend.png" alt-text="Intäktstrend för återförsäljare.":::
 
@@ -111,7 +111,7 @@ Den här vyn gör det möjligt för en partner att förstå månatlig trend för
 
 ## <a name="reseller-mpa-signing-status"></a>Signeringsstatus för återförsäljares MPA
 
-Den här vyn visar MPA-signeringsstatus för återförsäljare tillsammans med ytterligare metadata, till exempel status för Microsoft Partner Network-granskning (MPN) och Partner Membership Center (PMC) till Partner Center Migration-status.
+Den här vyn visar MPA-signeringsstatus för återförsäljare tillsammans med ytterligare metadata, till exempel status för Microsoft Partner Network-granskning (MPN) och Partner Membership Center (PMC) till Partner Center-migreringsstatus.
 
 :::image type="content" source="images/insights/resellers-performance-mpa-status.png" alt-text="Signeringsstatus för återförsäljares MPA.":::
 

@@ -9,20 +9,20 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7544a090b447af37f06ddf31606794a00f357b05
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 8180f8cae9228f6ed6bb8c1a5953fe1314eb6fc5
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961093"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073619"
 ---
 # <a name="mpn-benefits---software"></a>MPN-förmåner – programvara
 
-**Lämpliga roller:** Globala | MPN-partneradministratör
+**Lämpliga roller:** Global | MPN-partneradministratör
 
 ## <a name="overview"></a>Översikt
 
-I den här artikeln beskrivs fördelarna med lokal programvara som är tillgängliga för partner i Partnercenter. Om du vill se alla programvaruprodukter som du är berättigad till som en del av ditt aktiva registreringserbjudande går du till  [MPN>-förmåner](https://partner.microsoft.com/dashboard/mpn/membership/benefits/software) och väljer sedan fliken Programvara i Partnercenter-menyn.  
+I den här artikeln beskrivs fördelarna med lokal programvara som är tillgängliga för partner i Partnercenter. Om du vill se alla programvaruprodukter som du är berättigad till som en del av ditt aktiva registreringserbjudande loggar du in på [Partner Center-förmåner.](https://partner.microsoft.com/dashboard/mpn/membership/benefits/software)
 
 ## <a name="manage-software-products-and-product-keys"></a>Hantera programvaruprodukter och produktnycklar
 
@@ -39,7 +39,7 @@ Produktaktivering krävs för **Windows Server-** och **klientoperativsystemet o
 Antalet aktiveringar som räknas mot en produktnyckel baseras på följande scenarier
 
 - Om programvaran installeras på en ny dator ökas antalet produktaktiveringar mot nyckeln med en.
- 
+
 - Om programvaran installeras på samma dator utan betydande maskinvaruändringar räknas inte produktaktiveringen mot produktnyckeln.
 
 - Om programvaran installeras på samma dator med betydande maskinvaruändringar räknas produktaktiveringen mot produktnyckeln.
@@ -54,12 +54,8 @@ Antalet aktiveringar som räknas mot en produktnyckel baseras på följande scen
 
     Du får ett specifikt antal aktiveringar per produkt via MPN-medlemskapsförmånerna. Om du har uppfyllt eller överskridit det maximala antalet aktiveringar kan du inte aktivera fler licenser med hjälp av den angivna produktnyckeln.
 
-
  ## <a name="next-steps"></a>Nästa steg
 
 - [Hantera dina Microsoft Partner Network och erbjudanden](manage-your-partner-network-benefits.md)
 
 - [Använda tekniska supportärenden för att få produktspecifik teknisk support](mpn-benefits-technical-support.md)
-
-
-
