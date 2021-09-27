@@ -1,33 +1,33 @@
 ---
 title: Partnerbidragsindikatorer – SMMCS
 ms.topic: article
-ms.date: 09/15/2021
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: Lär dig mer om partnerindikatorerna för bidrag (PCI) som partner måste uppfylla innan de kan uppnå kompetensen för små och medelstora molnlösningar.
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f1477ac6f5675c820564606c7ce5f0b7a5871305
-ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
+ms.openlocfilehash: ad938d03dca9008168fda6a7c5eebed9a0aa3f07
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "128422408"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075835"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Använda indikatorer för partnerbidrag för att uppnå kompetensen Small and Midmarket Cloud Solutions
 
-**Lämpliga roller:** Global | MPN-partneradministratör | Kontoadministratör
+**Lämpliga roller:** Globala | MPN-partneradministratör | Kontoadministratör
 
-Den här artikeln beskriver sex nyckelindikatorer för partnerbidrag (PCI) som används för att utvärdera en partners framsteg mot att uppnå eller behålla en Silver- eller Gold Small- och Midmarket Cloud Solutions-kompetens via SMB-alternativet cloud Business Applications.
+I den här artikeln beskrivs sex nyckelindikatorer för partnerbidrag (PCI) som används för att utvärdera en partners framsteg mot att uppnå eller behålla en silver- eller gulds small- och midmarket-molnlösningskompetens via SMB-alternativet Cloud Business Applications.
 
 > [!NOTE]
-> Lär dig hur partner använder olika mått för partnerbidrag för att uppnå silver- eller Business Applications kompetens. Mer information finns i Use Partner Contribution Indicators for the Cloud Business Applications competency (Använda partnerbidragsindikatorer för [cloud Business Applications kompetens).](partner-contribution-indicators.md) Du kan också [läsa mer om](https://partner.microsoft.com/membership/competencies) de olika kompetenser som är tillgängliga och deras krav.
+> Lär dig hur partner använder olika mått för partnerbidragsindikator för att uppnå silver- Business Applications guldmolnkompetens. Mer information finns i Use Partner Contribution Indicators for the Cloud Business Applications competency (Använda partnerbidragsindikatorer för [cloud Business Applications kompetens).](partner-contribution-indicators.md) Du kan också [läsa mer om](https://partner.microsoft.com/membership/competencies) de olika kompetenser som är tillgängliga och deras krav.
 
 Den här artikeln innehåller information om:
 
-- [Hur varje PCI-indikator poängeras](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators)
+- [Hur varje PCI-indikator poäng sätts](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators)
 
 - [Tröskelvärden för varje PCI-indikator](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#thresholds-for-each-pci-metric-for-this-competency)
 
@@ -37,9 +37,9 @@ Den här artikeln innehåller information om:
 
 ## <a name="overview-of-partner-contribution-indicators-for-this-competency"></a>Översikt över partnerbidragsindikatorer för den här kompetensen
 
-Indikatorer för partnerbidrag ger ett holistiskt mått på en partners inverkan på lyckade kundresultat och därmed större differentiering på marknaden när en partner uppnår eller behåller kompetensen för små och medelstora molnlösningar via SMB-alternativet cloud Business Applications.
+Indikatorer för partnerbidrag ger ett holistiskt mått på en partners inverkan på lyckade kundresultat och därmed större differentiering på marknaden när en partner uppnår eller behåller kompetensen för små och medelstora molnlösningar via SMB-alternativet Cloud Business Applications.
 
-Med PCI får partner kredit för viktiga mått på kundframgång, till exempel lyckade distributioner och ökande användning. De får pris för att de fortsätter att investera i och skala ut sina tekniska funktioner.
+Med PCI får partner kredit för viktiga mått på kundframgång, till exempel lyckade distributioner och ökande användning. De får belöning för att de fortsätter att investera i och skala ut sina tekniska funktioner.
 
 När en partner uppnår vissa nivåer av påverkan i kpi:er kan partnern till exempel uppnå (eller behålla) kompetensen för små och medelstora molnlösningar via SMB-alternativet Cloud Business Applications.
 
@@ -48,35 +48,35 @@ När en partner uppnår vissa nivåer av påverkan i kpi:er kan partnern till ex
 
 ## <a name="pci-scoring-based-on-six-key-indicators"></a>PCI-bedömning baserat på sex nyckelindikatorer
 
-PCI ger en avancerad vy över en partners tekniska funktioner, deras förmåga att driva kundframgång och deras försäljningsresultat. För att hjälpa partner att uppnå molnlösningskompetensen Silver eller Gold Small och Midmarket via alternativet Cloud Business Applications SMB mäter PCI företagets prestanda föregående år över sex nyckelindikatorer:
+PCI ger en sofistikerad vy över en partners tekniska funktioner, deras förmåga att driva kundframgång och deras försäljningsresultat. För att hjälpa partner att uppnå molnlösningskompetensen Silver eller Gold Small och Midmarket via SMB-alternativet Cloud Business Applications mäter PCI företagets prestanda föregående år över sex nyckelindikatorer:
 
-*Resultatindikatorer:*
+### <a name="performance-indicators"></a>Resultatindikatorer
 
-1. **Nettointäkter:** Netto nya intäkter för alla försäljningskanaler för specifika Microsoft-produkter. (Mer information om det här måttet finns [i Definitioner för nya nettointäkter](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-1---net-new-revenue).)
+- **Netto nya intäkter:** Netto nya intäkter i alla försäljningskanaler för specifika Microsoft-produkter. (Mer information om det här måttet finns [i Definitioner för nettointäkter](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-1---net-new-revenue).)
 
-2. **Nettokund lägger till:** Nettokunder som köpts för specifika Microsoft-produkter i alla försäljningskanaler. (Mer information om det här måttet finns [i Definitioner för net customer adds](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-2---net-customer-adds).)
+- **Nettokunder lägger till:** Nettokunder som köpts för specifika Microsoft-produkter i alla försäljningskanaler. (Mer information om det här måttet finns i [Definitioner för net customer adds](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-2---net-customer-adds).)
 
-*Kapacitetsindikatorer:*
+### <a name="capability-indicators"></a>Kapacitetsindikatorer
 
-3. **Funktionskonsulter:** Antalet personer som har en aktiv certifiering Funktionskonsult Associate för Dynamics 365. (Mer information om det här måttet finns [i Definitioner för funktionskonsulter](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-3---functional-consultants).)
+- **Funktionskonsulter:** Antalet personer som har en aktiv Funktionskonsult Associate-certifiering för Dynamics 365. (Mer information om det här måttet finns [i Definitioner för funktionskonsulter](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-3---functional-consultants).)
 
-4. **Utvecklare:** Antal personer som har en aktiv Developer Associate-certifiering för Dynamics 365. (Mer information om det här måttet finns [i Definitioner för utvecklare](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-4---developers).)
+- **Utvecklare:** Antal personer som har en aktiv Developer Associate-certifiering för Dynamics 365. (Mer information om det här måttet finns [i Definitioner för utvecklare](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-4---developers).)
 
-*Indikatorer för kundframgång:*
+### <a name="customer-success-indicators"></a>Indikatorer för kundframgång
 
-5. **Nya distributioner:** Antal produktionsklienter som har gått över ett visst användningströskelvärde under de senaste 12 månaderna. (Mer information om det här måttet finns [i Definitioner för nya distributioner](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-5---new-deployments).)
+- **Nya distributioner:** Antal produktionsklienter som har gått över ett visst användningströskelvärde under de senaste 12 månaderna. (Mer information om det här måttet finns [i Definitioner för nya distributioner](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-5---new-deployments).)
 
-6. **Månatlig aktiv användartillväxt:** Ökning av månatliga aktiva användare bland alla dina kunder under de senaste 12 månaderna. (Mer information om det här måttet finns [i Definitioner för månatlig aktiv användartillväxt.)](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-6---monthly-active-user-growth)
+- **Månatlig aktiv användartillväxt:** Ökning av månatliga aktiva användare bland alla dina kunder under de senaste 12 månaderna. (Mer information om det här måttet finns [i Definitioner för månatlig aktiv användartillväxt](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-6---monthly-active-user-growth).)
 
 ### <a name="how-pci-score-impacts-competency-eligibility"></a>Så här påverkar PCI-poäng kompetensberättigandet
-Poäng beviljas för varje uppnådd indikator, vilket resulterar i en PCI-poäng med ett tal. 100 maxpunkter är möjliga. 
+Punkter beviljas för varje uppnådd indikator, vilket resulterar i pci-poäng med ett tal. 100 maxpunkter är möjliga. 
 
 PCI-poängen avgör behörigheten för kompetensen enligt följande:
 
 |Om PCI-poängen är  | Du  |
 |:----------------------|:-----------------|
 |1–59 punkter  | **är inte** berättigade till silver- eller guldkompetens |
-|60–79 poäng  | uppfylla kraven för en silverkompetens  |
+|60–79 punkter  | uppfylla kraven för en silverkompetens  |
 |80–100 punkter  | uppfylla kraven för en guldkompetens
 
 Följande bild innehåller en snabb visuell referens.
@@ -84,7 +84,7 @@ Följande bild innehåller en snabb visuell referens.
 
 ### <a name="maximum-pci-indicator-scores-for-this-competency"></a>Högsta PCI-indikatorpoäng för den här kompetensen
 
-Varje indikator ger en poäng som läggs till i summan. Här är de högsta poängen som du kan tjäna för varje indikator för att uppnå kompetensen Silver eller Gold Small och Midmarket Cloud Solutions via alternativet Cloud Business Applications SMB:
+Varje indikator ger en poäng som läggs till i summan. Här är de högsta poäng som du kan tjäna för varje indikator för att uppnå kompetensen Silver eller Gold Small och Midmarket Cloud Solutions via SMB-alternativet cloud Business Applications:
 
 |För den här indikatorn | Maxpoängen för den här kompetensen är  |
 |:------------|:--------------:|
@@ -97,15 +97,15 @@ Varje indikator ger en poäng som läggs till i summan. Här är de högsta poä
 
 ## <a name="thresholds-for-each-pci-metric-for-this-competency"></a>Tröskelvärden för varje PCI-mått för den här kompetensen
 
-Varje PCI-mått har Microsoft-inställda tröskelvärden som kan ge ditt företag högsta poäng mot att uppnå kompetensen Silver eller Guld liten och Midmarket Cloud Solutions via alternativet Cloud Business Applications SMB.
+Varje PCI-mått har Microsoft-inställda tröskelvärden som kan tjäna ditt företags högsta antal poäng mot att uppnå kompetensen Silver eller Gold Small och Midmarket Cloud Solutions via SMB-alternativet cloud Business Applications.
 
-Punkter i varje mått är samlade för att ge en distinkt PCI-poäng. Den här poängen uppdateras varje månad.
+Punkter för varje mått är befläckade för att ge en distinkt PCI-poäng. Den här poängen uppdateras varje månad.
 
-Partner kan tjäna maximalt antal poäng för ett visst mått om de uppfyller eller överskrider de tröskelvärden som anges nedan. Partiella poäng kan intjänas för alla mått.
+Partner kan samla maxpoängen för ett visst mått om de uppfyller eller överskrider de tröskelvärden som anges nedan. Partiella poäng kan intjänas för alla mått.
 
-En marknadspartner med 15 000 USD i Net New Revenue får till exempel hälften (15 000 USD/30 000 USD) av de högsta 10 punkterna.
+Till exempel får en marknadspartner med 15 000 USD i Netto nya intäkter hälften (15 000 USD/30 000 USD) av de maximala 10 punkterna.
 
-I följande tabell beskrivs de specifika tröskelvärden för partnerbidragsindikator som du kan nå för att uppnå maximalt antal poäng för att uppnå silver- eller guld-liten och Midmarket Cloud Solutions-kompetens via SMB-alternativet cloud Business Applications.
+I följande tabell beskrivs de specifika tröskelvärden för partnerbidragsindikator som du kan nå för att uppnå maximalt antal poäng för att uppnå silver- eller gulds small- och midmarket-molnlösningskompetensen via SMB-alternativet Cloud Business Applications.
 
 | PCI-mått | Prestandaindikator: Netto nya intäkter | Prestandaindikator: Nettokund lägger till | Kapacitetsindikator: Funktionskonsulter | Kapacitetsindikator: Utvecklare | Indikator för kundframgång: Nya distributioner | Indikator för kundframgång: Månatlig aktiv användartillväxt |
 |---|:---:|:---:|:------:|:---:|:---:|:----:|
@@ -114,10 +114,10 @@ I följande tabell beskrivs de specifika tröskelvärden för partnerbidragsindi
 
 ## <a name="prerequisites-to-receive-pci-credit-for-a-customer"></a>Krav för att få PCI-kredit för en kund
 
-Vissa partnerbidragsindikatorer gör att du bara kan få kredit för en viss kund om du har en specifik partner-till-kund-association med dem. Indikatorerna, eller PCI-måtten, som påverkas av dessa förutsättningar är:
+Med vissa indikatorer för partnerbidrag kan du bara få kredit för en viss kund om du har en specifik partner-till-kund-association med dem. Indikatorerna, eller PCI-måtten, som påverkas av dessa krav är:
 
-- Nettointäkt för nya intäkter
-- Net customer adds
+- Nettointäkter
+- Nettokunden lägger till
 - Nya distributioner
 - Månatlig aktiv användartillväxt
 
@@ -126,45 +126,45 @@ Du kan bara få kredit för dessa PCI-mått för en viss kund om du har någon a
 - Du är Claiming Partner of Record (CPOR) för en betald prenumeration som tillhör kundens klientorganisation
 - Du är en Digital Partner of Record (DPOR) för en betald prenumeration som tillhör kundens klientorganisation
 
-En partner blir CPOR om de har upprättat en association med en kund på prenumerationsnivå via Incitament för Dynamics 365 Online Services Advisor (OSA) eller Incitament för Dynamics 365 Online Services Usage (OSU).
+En partner blir CPOR om de har upprättat en association med en kund på prenumerationsnivå via incitamentet Dynamics 365 Online Services Advisor (OSA) eller Dynamics 365 Online Services Usage (OSU).
 
 En partner blir DPOR om de har upprättat en association med en kund på prenumerationsnivå inom produkten.
 
 > [!NOTE]
-> När både CPOR och DPOR finns för en viss kundprenumeration får CPOR kredit för relevanta PCI-mått som är associerade med den prenumerationen. Om associationen var via OSA får CPOR krediten för nya nettointäkter och Net-kunden lägger till. Om associationen var via OSU får CPOR krediten för nya distributioner och månatlig aktiv användartillväxt.
+> När både CPOR och DPOR finns för en viss kundprenumeration får CPOR kredit för de relevanta PCI-mått som är associerade med prenumerationen. Om associationen var via OSA får CPOR krediten för nya nettointäkter och net-kunden lägger till. Om associationen var via OSU får CPOR krediten för nya distributioner och månatlig aktiv användartillväxt.
 
-## <a name="detailed-pci-metrics-definitions-for-this-competency"></a>Detaljerade PCI-måttdefinitioner för den här kompetensen
+## <a name="detailed-pci-metrics-definitions-for-this-competency"></a>Detaljerade definitioner av PCI-mått för den här kompetensen
 
-I följande avsnitt beskrivs mer information om vart och ett av de sex PCI-måtten och hur punkter beräknas. De här måtten är associerade med att uppnå kompetensen Silver eller Guld liten och Midmarket Cloud Solutions via alternativet Cloud Business Applications SMB.
+I följande avsnitt beskrivs mer information om vart och ett av de sex PCI-måtten och hur punkter beräknas. De här måtten är associerade med att uppnå kompetensen Silver eller Gold Small och Midmarket Cloud Solutions via alternativet Cloud Business Applications SMB.
 
-Använd följande lista för att gå snabbt till en specifik definition:
+Använd följande lista för att snabbt komma till en specifik definition:
 
 - [Definitioner för nya nettointäkter](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-1---net-new-revenue)
 - [Definitioner för net customer adds](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-2---net-customer-adds)
 - [Definitioner för funktionskonsulter](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-3---functional-consultants)
 - [Definitioner för utvecklare](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-4---developers)
 - [Definitioner för nya stora distributioner](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-5---new-deployments)
-- [Definitioner för månatlig aktiv användartillväxt](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-6---monthly-active-user-growth)
+- [Definitioner för månatlig ökning av aktiva användare](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-6---monthly-active-user-growth)
 
 ### <a name="definitions-for-pci-metric-1---net-new-revenue"></a>Definitioner för PCI-#1 – Netto nya intäkter
 
 Netto nya intäkter är en [prestandaindikator](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators). Den här indikatorns punkter beräknas för den här kompetensen på följande sätt:
 
-- Netto nya intäkter definieras som nettointäkt för nya fakturerade intäkter i alla försäljningskanaler för kvalificerande Dynamics 365-produkter.
-- Nettointäkten summeras över en avslutande 12-månadersperiod med en maximal möjlig intäkt på 10 poäng.
+- Netto nya intäkter definieras som netto nya fakturerade intäkter i alla försäljningskanaler för kvalificerande Dynamics 365-produkter.
+- Netto nya intäkter summeras över en avslutande 12-månadersperiod med en maximal möjlig intäkt på 10 poäng.
 - Poäng för nya nettointäkter beräknas som fakturering minus krediter och aggregeras över 12 månader.
-- Nettointäkten beräknas baserat på en kombination av följande kvalificerande produkter:
-  - Kvalificerande produkter för Dynamics 365 för kundengagemang omfattar: Försäljning, marknadsföring, kundtjänst, field service, Project-server, plan 1, automatisering, marknadsföring, Microsoft Relationship Sales
-  - Produkter som kvalificerar ekonomi och drift omfattar: Dynamics 365 Business Central, Kapacitet och Storage, Finance and Operations (inklusive bedrägeriskydd, åtgärder, detaljhandel, HR, plan 2), mixad verklighet, teammedlem
+- Nettointäkten beräknas baserat på valfri kombination av följande kvalificerande produkter:
+  - Dynamics 365 Customer Engagement-kvalificerande produkter omfattar: Försäljning, marknadsföring, kundtjänst, field service, Project server, plan 1, automation, marknadsföring, Microsoft Relationship Sales
+  - Produkter som kvalificerar ekonomi och drift omfattar: Dynamics 365 Business Central, kapacitet och Storage, ekonomi och drift (inklusive bedrägeriskydd, åtgärder, detaljhandel, HR, plan 2), mixad verklighet, gruppmedlem
   
 - Försäljningskanalerna är företagsavtal (EA), Molnlösningsleverantör (CSP) och Web Direct.
 - För företagsavtal endast intäkter: Den här intäkten omfattar intäkter från det första året i avtalet. Återkommande intäkter från det andra och tredje året ingår inte.
 
 ### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>Definitioner för PCI-mått #2 – Net-kund lägger till
 
-Net customer adds är en [prestandaindikator](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators). Den här indikatorns punkter beräknas för den här kompetensen på följande sätt:
+Net customer adds är en [prestandaindikator.](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators) Den här indikatorns punkter beräknas för den här kompetensen på följande sätt:
 
-- Nettokundsbelopp summeras över en avslutande 12-månadersperiod. 
+- Nettokundens tillägg summeras över en avslutande 12-månadersperiod. 
 
 - Det går att lägga till totalt 10 nettokundsbelopp, med maximalt antal möjliga intäkter på 10 poäng (en poäng för varje nettokunds tillägg).
 
@@ -174,80 +174,80 @@ Net customer adds är en [prestandaindikator](partner-contribution-indicators-sm
 
 - Ett **kunds** tillägg definieras under följande villkor: När en kund inte har några betalda platser i alla sina prenumerationer under en tidigare månad, men har minst en betald plats under den aktuella månaden.
 
-- En **förlorad kund** definieras enligt följande villkor: När en kund har minst en betald plats i alla sina prenumerationer under en tidigare månad och inte har några betalda platser under den aktuella månaden. 
+- En **förlorad kund** definieras enligt följande villkor: När en kund har minst en  betald plats i alla sina prenumerationer under en tidigare månad och inte har några betalda platser under den aktuella månaden.
 
-- Maximalt och partiellt antal poäng kan intjänas för nettokundsbelopp.
+- Maximalt och partiellt antal poäng kan intjänas för nettokunds-tillägg.
 
 - Försäljningskanalerna är företagsavtal (EA), Molnlösningsleverantör (CSP) och Web Direct.
 
-- För flera partner/samma kund eller kund som arbetar direkt  med  Microsoft: Det finns olika beräkningar av kund-tillägg och förlorade kunder i fall där flera partner är associerade med samma kund via olika prenumerationer eller i fall där kunden redan arbetar direkt med Microsoft. Dessa beräkningar visas nedan.
+- För flera partner/samma kund eller kund som arbetar direkt  med  Microsoft: Det finns olika beräkningar av kund-tillägg och förlorade kunder i fall där flera partner är associerade med samma kund via olika prenumerationer eller för fall där kunden redan arbetar direkt med Microsoft. Dessa beräkningar visas nedan.
 
-  **För flera partner, samma kund och olika prenumerationer:**
+  **För flera partner, samma kund, olika prenumerationer:**
 
-  - Alla partner som är associerade med kunden får kredit för en ny kund som läggs till den månad då kunden läggs till.
+  - Alla partner som är kopplade till kunden får kredit för en ny kund som läggs till den månad då kunden läggs till.
   
   - Efterföljande partner som associerar med samma kund via gamla eller nya prenumerationer får inte nya kunder att lägga till kredit för den kunden.
   
-  - Alla partner som är associerade med kunden förlorar krediten för en ny kunds tillägg den månad då kunden förloras.
+  - Alla partner som är associerade med kunden förlorar krediten för en ny kunds tillägg den månad då kunden försvinner.
   
-  - Alla partner som associerar med samma kund senare, via gamla eller nya prenumerationer, får nya kunder som lägger till kredit för kunden.
+  - Alla partner som associerar med samma kund därefter, via gamla eller nya prenumerationer, får nya kunder att lägga till kredit för den kunden.
   
   **När kunden redan arbetar direkt med Microsoft:**
 
-   - Om en kund redan arbetar direkt med Microsoft och har uppfyllt de nya kundvillkoren kommer partner som associerar med samma kund senare, via gamla eller nya prenumerationer, inte att få nya kunder att lägga till kredit för kunden.
+   - Om en kund redan arbetar direkt med Microsoft och har uppfyllt de nya kundvillkoren kommer partner som associerar med samma kund senare, via gamla eller nya prenumerationer, inte att få nya kunder att lägga till kredit för den kunden.
 
 ### <a name="definitions-for-pci-metric-3---functional-consultants"></a>Definitioner för PCI-mått #3 – funktionskonsulter
 
 Funktionskonsulter är en [kapacitetsindikator.](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators) Den här indikatorns punkter beräknas för den här kompetensen på följande sätt:
 
-- Indikatorpunkter för funktionskonsulter baseras på den aktuella månadens ögonblicksbild med maximala möjliga intäkter på 30 punkter.
+- Indikatorpunkter för funktionskonsulter baseras på den aktuella ögonblicksbilden av månaden med maximala möjliga intäkter på 30 punkter.
 
 - Funktionskonsulter definieras som antalet personer som har en aktiv Funktionskonsult Associate-certifiering, till exempel en Customer Engagement Funktionskonsult-certifiering eller en Finance and Operations Funktionskonsult-certifiering.
 
-För att uppnå **maximalt 30** funktionella konsultpoäng för att uppnå den här kompetensen måste partner ha **5** konsulter som har antingen en:
+För att få **maximalt 30** funktionella konsultpoäng mot att uppnå den här kompetensen måste partner ha **5** konsulter som har antingen en:
 - Customer Engagement Funktionskonsult certifiering
 - Finance and Operations Funktionskonsult certifiering
 - Business Central Funktionskonsult certifiering
 
 För att nå fem konsulter kan partner blanda och matcha konsulter som har någon av de tre certifieringstyperna.
 
-För att få Funktionskonsult Customer Engagement måste en person klara följande prov:
+För att få customer engagement Funktionskonsult associate-certifiering måste en person klara följande prov:
   - PL-200<br/>
   **och** något av följande prov:
   - MB-210, MB-220, MB-230 eller MB-240
 
-För att få finance and operations Funktionskonsult Associate-certifiering måste en person klara dessa prov:
+För att få Finance and Operations Funktionskonsult Associate-certifiering måste en person klara följande prov:
 
-  - MB–300<br/>
+  - MB-300<br/>
   **och** något av följande prov:
   - MB-310, MB-320 eller MB-330
 
 För att få Business Central Funktionskonsult Associate-certifiering måste en person klara det här provet:
   - MB-800
 
-### <a name="definitions-for-pci-metric-4---developers"></a>Definitioner för PCI-mått #4 – utvecklare
+### <a name="definitions-for-pci-metric-4---developers"></a>Definitioner för PCI-#4 – utvecklare
 
 Utvecklare är en [kapacitetsindikator.](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators) Den här indikatorns punkter beräknas för den här kompetensen på följande sätt:
 
-- Utvecklare definieras som antalet personer som har en för närvarande aktiv certifiering för developer associate för kundengagemang eller en certifiering för Finance and Operations Developer Associate.
+- Utvecklare definieras som antalet personer som har en aktiv certifiering för customer engagement developer associate eller en Finance and Operations Developer Associate-certifiering.
 
 - Punkter för indikatorn Utvecklare baseras på den aktuella månadens ögonblicksbild med högst 5 tillgängliga punkter.
 
-- För att nå fem konsulter kan partner blanda och matcha konsulter som har någon av certifieringstypen, enligt följande:
+- För att nå fem konsulter kan partner blanda och matcha konsulter som har någon av certifieringstypen enligt följande:
 
-  För att få utvecklarkopplingscertifiering för kundengagemang måste en person klara följande prov:
+  För att få certifieringen Customer Engagement Developer Associate måste en person klara följande prov:
   - PL-400
 
   För att få certifieringen Finance and Operations Developer Associate måste en person klara de här proverna:
-  - MB–300<br/>
+  - MB-300<br/>
     **och** något av följande prov:
   - MB-500 eller MB-700
 
 ### <a name="definitions-for-pci-metric-5---new-deployments"></a>Definitioner för PCI-#5 – nya distributioner
 
-Nya distributioner är en indikator [för kundframgång.](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators) Den här indikatorns punkter beräknas för den här kompetensen på följande sätt:
+Nya distributioner är en [framgångsindikator för kunden.](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators) Den här indikatorns punkter beräknas för den här kompetensen på följande sätt:
 
-- Nya distributioner summeras över en avslutande 12-månadersperiod med högst 20 tillgängliga punkter. Partiella punkter kan också intjänas.
+- Nya distributioner summeras över en avslutande 12-månadersperiod med högst 20 tillgängliga punkter. Partiella poäng kan också intjänas.
 
 - För att få maximalt antal poäng för det här kompetensalternativet måste partner ha **10** produktionsklienter, där varje klientorganisation har en betald prenumeration med minst **5** månatliga aktiva användare under de senaste 12 månaderna.
 
@@ -261,12 +261,12 @@ Nya distributioner är en indikator [för kundframgång.](partner-contribution-i
 - Månatliga aktiva användare beräknas i slutet av varje månad.
 
 - Partner är associerade med klienter på prenumerationsnivå. Prenumerationer mappas till följande kvalificerande produkter:
-  - Kvalificerande produkter för Dynamics 365 för kundengagemang omfattar: Försäljning, marknadsföring, kundtjänst, field service, Project-server, plan 1, automatisering, marknadsföring, Microsoft Relationship Sales
-  - Produkter som kvalificerar för ekonomi och drift omfattar: Business Central, kapacitet och Storage, Ekonomi och drift (inklusive bedrägeriskydd, åtgärder, detaljhandel, HR, plan 2), mixad verklighet, teammedlem
+  - Dynamics 365 Customer Engagement-kvalificerande produkter omfattar: Försäljning, Marknadsföring, Kundtjänst, Field Service, Project Server, Plan 1, Automation, Marketing, Microsoft Relationship Sales
+  - Produkter som kvalificerar sig för finans och drift omfattar: Business Central, kapacitet och Storage, ekonomi och drift (inklusive bedrägeriskydd, åtgärder, detaljhandel, HR, plan 2), mixad verklighet, gruppmedlem
 
 ### <a name="definitions-for-pci-metric-6---monthly-active-user-growth"></a>Definitioner för PCI-mått #6 – Månatlig aktiv användartillväxt
 
-Månatlig aktiv användartillväxt är en indikator [för kundframgång.](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators) Den här indikatorns punkter beräknas för den här kompetensen på följande sätt:
+Månatlig aktiv användartillväxt är en [indikator för kundframgång.](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators) Den här indikatorns punkter beräknas för den här kompetensen på följande sätt:
 
 - Månatlig aktiv användartillväxt definieras som tillväxten av månatliga aktiva användare över hela kundbasen under de senaste 12 månaderna.
 
@@ -284,19 +284,38 @@ Månatlig aktiv användartillväxt är en indikator [för kundframgång.](partne
 
 I det här avsnittet beskrivs hur du kommer åt information om partnerbidragsindikatorer och partnerförloppet.
 
-### <a name="access-partner-contribution-indicators"></a>Bidragsindikatorer för åtkomstpartner
+### <a name="access-partner-contribution-indicators"></a>Indikatorer för att få åtkomst till partnerbidrag
 
-Följ dessa steg om du vill visa tabellen med bidragsindikatorer för partner:
+Följ dessa steg om du vill visa tabellen med partnerbidragsindikatorer:
+
+> [!NOTE]
+> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om gränssnittet för arbetsytor och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Vyn Arbetsytor](#tab/workspaces-view)
+
+1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard).
+
+2. Välj panelen **Marketplace** och välj sedan **Kompetenser.**
+
+3. Välj **kompetensen Small and Midmarket Cloud Solutions** (Små och medelstora molnlösningar) följt **av alternativet Cloud Business Applications SMB**.
+
+4. Under avsnittet Sammanfattning visar du dina framsteg, prestationer och relaterade poäng hittills.
+
+   :::image type="content" source="images/partner-contribution-indicators-small-and-midmarket-view-progress.png" alt-text="Så här läser du tabellen med indikatorer för partnerbidrag.":::
+
+#### <a name="current-view"></a>[Aktuell vy](#tab/current-view)
 
 1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard).
 
 2. Välj **MPN** på navigeringsmenyn och välj sedan **Kompetenser.**
 
-3. Välj **kompetensen Small and Midmarket Cloud Solutions** (Små och medelstora molnlösningar) följt av **alternativet Cloud Business Applications SMB**.
+3. Välj **kompetensen Small and Midmarket Cloud Solutions** (Små och medelstora molnlösningar) följt **av alternativet Cloud Business Applications SMB**.
 
-4. I avsnittet Sammanfattning visar du dina framsteg, prestationer och relaterade poäng hittills.
+4. Under avsnittet Sammanfattning visar du dina framsteg, prestationer och relaterade poäng hittills.
 
-   :::image type="content" source="images/partner-contribution-indicators-small-and-midmarket-view-progress.png" alt-text="Så här läser du tabellen Med bidragsindikatorer för partner.":::
+   :::image type="content" source="images/partner-contribution-indicators-small-and-midmarket-view-progress.png" alt-text="Så här läser du tabellen med indikatorer för partnerbidrag.":::
+
+* * *
 
 ## <a name="next-steps"></a>Nästa steg
 

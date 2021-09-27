@@ -1,100 +1,206 @@
-### YamlMime:Landing
+### YamlMime:Hub
 title: Dokumentation för Partnercenter
-summary: Partnercenter är platsen där du utvecklar din verksamhet med Microsoft Partner Network (MPN), Molnlösningsleverantör-programmet (CSP) med mera.
+summary: 'Partnercenter är platsen där du utvecklar din verksamhet med Microsoft Partner Network (MPN), Molnlösningsleverantör-programmet (CSP) med mera.'
 metadata:
   title: Dokumentation för Partnercenter
-  description: Partnercenter är platsen där du utvecklar din verksamhet med Microsoft Partner Network (MPN), Molnlösningsleverantör-programmet (CSP) med mera.
-  ms.service: partner-dashboard
-  ms.topic: landing-page
-  author: JasonGroce
+  description: 'I Partnercenter växer din verksamhet genom att Microsoft Partner Network (MPN), Molnlösningsleverantör-programmet (CSP), Programmet Commercial Marketplace med mera.'
+  services: service
   ms.author: jasongroce
-  ms.date: 02/01/2021
-  ms.openlocfilehash: efc7956295944a40a9574c7678da8ef20cd04fd9
-  ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
-  ms.translationtype: MT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/13/2021
-  ms.locfileid: "126249666"
-landingContent:
-- title: Kom igång med Partnercenter
-  linkLists:
-  - linkListType: get-started
-    links:
-    - text: Vad är Partnercenter?
+  ms.date: 09/01/2021
+highlightedContent:
+  items:
+    - title: Partnercenter
+      itemType: get-started
       url: overview.md
-    - text: Partnercenter-meddelanden
-      url: announcements/index.md
-    - text: Partnersamarbete med Microsoft
-      url: mpn-overview.md
-    - text: Skapa ett Partnercenter-konto
+    - title: Microsoft Partner Network
+      itemType: get-started
       url: mpn-create-a-partner-center-account.md
-    - text: Hantera förmåner och erbjudanden för MPN-medlemskap
-      url: manage-your-partner-network-benefits.md
-- title: Utveckla verksamheten
-  linkLists:
-  - linkListType: concept
-    links:
-    - text: Få kontakt med dina kunder
-      url: connect-with-your-customers.md
-    - text: Molnlösningsleverantör-programmet (CSP)
-      url: csp-overview.md
-    - text: Få kundreferenser
-      url: manage-leads.md
-    - text: Incitamentprogram
-      url: incentives-get-started-intro.md
-    - text: Hantera säljsamarbete
-      url: manage-co-sell-opportunities.md
-    - text: Skaffa en avancerad specialisering
-      url: advanced-specializations.md
-- title: Viktiga begrepp och uppgifter
-  linkLists:
-  - linkListType: concept
-    links:
-    - text: Acceptera Microsoft-partneravtal
-      url: microsoft-partner-agreement.md
-    - text: Säkerhetskrav för Partnercenter
-      url: partner-security-requirements.md
-    - text: Skapa en affärsprofil
-      url: create-a-marketing-profile.md
-    - text: Introduktion till Azure-planen
-      url: azure-plan-lp.md
-    - text: Få support från Microsoft
-      url: support-from-microsoft.md
-    - text: Läs mer om Microsoft 365 Lighthouse
-      url: /microsoft-365/lighthouse/m365-lighthouse-overview
-    - text: Läs mer om Azure Lighthouse
-      url: /azure/lighthouse/overview
-  - linkListType: how-to-guide
-    links:
-    - text: Hantera dina MPN-kontoplatser
-      url: manage-locations.md
-    - text: Förnya dina MPN-erbjudanden
-      url: renew-mpn-offers.md
-    - text: Hitta dina MPN-förmåner
-      url: mpn-find-benefits.md
-    - text: Hitta din roll
-      url: find-your-role.md
-- title: Konton och fakturering
-  linkLists:
-  - linkListType: how-to-guide
-    links:
-    - text: Hantera ditt Partnercenter-konto
-      url: partner-center-account-setup.md
-    - text: Tilldela roller och behörigheter till användare
-      url: permissions-overview.md
-    - text: Grundläggande information om fakturering
-      url: billing-basics.md
-    - text: Konfigurera utbetalningskonto och deklarationsblanketter
-      url: set-up-your-payout-account.md
-    - text: Förstå fakturan
-      url: read-your-bill.md
-- title: Läs mer om den kommersiella marknadsplatsen (oberoende programvaruleverantörer)
-  linkLists:
-  - linkListType: concept
-    links:
-    - text: Dokumentation om den kommersiella marknadsplatsen
-      url: /azure/marketplace
-    - text: Vad är Microsofts kommersiella marknadsplats?
-      url: /azure/marketplace/overview
-    - text: Fastställ dina publiceringsalternativ
-      url: /azure/marketplace/determine-your-listing-type
+    - title: Molnlösningsleverantör
+      itemType: get-started
+      url: enrolling-in-the-csp-program.md
+    - title: Kommersiell marknadsplats
+      itemType: get-started
+      url: /azure/marketplace/
+conceptualContent:
+  items:
+    - title: Registrera
+      links:
+        - url: mpn-create-a-partner-center-account.md
+          itemType: overview
+          text: Microsoft Partner Network
+        - url: csp-overview.md
+          itemType: how-to-guide
+          text: Molnlösningsleverantör (CSP)
+        - url: enrolling-in-the-csp-program.md
+          itemType: how-to-guide
+          text: Indirekt eller direkt CSP
+      footerLink:
+        url: enrolling-in-the-csp-program.md
+        text: Mer information
+    - title: Medlemskap
+      links:
+        - url: mpn-overview.md
+          itemType: overview
+          text: Översikt
+        - url: mpn-create-a-partner-center-account.md
+          itemType: how-to-guide
+          text: Skapa MPN-konto
+        - url: mpn-get-action-pack.md
+          itemType: get-started
+          text: Köp Action Pack erbjudanden
+      footerLink:
+        url: mpn-benefits-map-competency-learning-option-enroll.md
+        text: Mer information
+    - title: Fördelar
+      links:
+        - url: manage-your-partner-network-benefits.md
+          itemType: overview
+          text: Översikt
+        - url: benefits-faq.yml
+          itemType: concept
+          text: Vanliga frågor och svar om förmåner
+        - url: mpn-find-benefits.md
+          itemType: how-to-guide
+          text: Hitta fördelar
+      footerLink:
+        url: renew-mpn-offers.md
+        text: Mer information
+    - title: Referenser
+      links:
+        - url: referrals.md
+          itemType: overview
+          text: Översikt
+        - url: grow-your-business.md
+          itemType: how-to-guide
+          text: Hämta leads
+        - url: manage-leads.md
+          itemType: how-to-guide
+          text: Hantera leads
+      footerLink:
+        url: register-deals.md
+        text: Mer information
+    - title: Kunder
+      links:
+        - url: connect-with-your-customers.md
+          itemType: overview
+          text: Översikt
+        - url: find-a-partner.md
+          itemType: how-to-guide
+          text: Hitta en partner eller lösningsleverantör
+        - url: see-your-customer-list.md
+          itemType: how-to-guide
+          text: Visa din kundlista
+      footerLink:
+        url: request-a-relationship-with-a-customer.md
+        text: Mer information
+    - title: Fakturering
+      links:
+        - url: billing.md
+          itemType: overview
+          text: Översikt
+        - url: read-your-bill.md
+          itemType: concept
+          text: Förstå fakturan
+        - url: use-the-reconciliation-files.md
+          itemType: tutorial
+          text: Använda rekognoseringsfiler
+      footerLink:
+        url: billing.md
+        text: Mer information
+    - title: Prissättning
+      links:
+        - url: pricing-and-offers.md
+          itemType: overview
+          text: Översikt
+        - url: partner-earned-credit.md
+          itemType: concept
+          text: Partner-intjänad kredit
+        - url: promotions.md
+          itemType: how-to-guide
+          text: Använda kampanjer
+      footerLink:
+        url: csp-commercial-marketplace-overview.md
+        text: Mer information
+    - title: Incitament
+      links:
+        - url: incentives-get-started-intro.md
+          itemType: overview
+          text: Översikt
+        - url: incentives-enroll.md
+          itemType: get-started
+          text: Registrera dig i incitament
+        - url: chip-intro.md
+          itemType: concept
+          text: Vad är CHIP?
+      footerLink:
+        url: incentives-determined-your-program-eligibility.md
+        text: Mer information
+    - title: Marketplace-erbjudanden
+      links:
+        - url: /azure/marketplace/overview
+          itemType: concept
+          text: Översikt över den kommersiella marknadsplatsen
+        - url: /azure/marketplace/publisher-guide-by-offer-type
+          itemType: how-to-guide
+          text: Publiceringsguide för erbjudande
+        - url: /azure/marketplace/policies-terms
+          itemType: concept
+          text: Policyer och villkor
+      footerLink:
+        url: /azure/marketplace/determine-your-listing-type
+        text: Mer information
+    - title: Utbetalningar
+      links:
+        - url: non-payment-fraud-misuse.md
+          itemType: overview
+          text: Översikt
+        - url: payment-thresholds-methods-timeframes.md
+          itemType: concept
+          text: Betalningströsklar
+        - url: understand-irs-tax-forms.md
+          itemType: concept
+          text: Förstå skatteformulär
+      footerLink:
+        url: mobile-operator-billing.md
+        text: Mer information
+    - title: Insikter
+      links:
+        - url: partner-center-insights.md
+          itemType: get-started
+          text: Översikt
+        - url: insights-overview-report.md
+          itemType: concept
+          text: Tillgängliga rapporter
+        - url: insights-roles.md
+          itemType: concept
+          text: Bevilja åtkomst till rapporter
+      footerLink:
+        url: insights-known-issues.md
+        text: Mer information
+    - title: Konton
+      links:
+        - url: partner-center-account-setup.md
+          itemType: overview
+          text: Översikt
+        - url: manage-locations.md
+          itemType: how-to-guide
+          text: Hantera platser
+        - url: create-user-accounts-and-set-permissions.md
+          itemType: how-to-guide
+          text: Skapa användarkonton
+      footerLink:
+        url: find-your-role.md
+        text: Mer information
+additionalContent:
+  sections:
+    - title: Mer information
+      items:
+        - title: Partnercenter-meddelanden
+          summary: Få de senaste nyheterna i Partnercenter.
+          url: ./announcements/index.md
+        - title: Microsoft AppSource
+          summary: Läs mer om Microsoft AppSource.
+          url: /marketplace/appsource-overview
+        - title: Azure Marketplace
+          summary: Läs mer om Azure Marketplace.
+          url: /marketplace/azure-marketplace-overview
