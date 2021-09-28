@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: c8f7f7f063c10c50a42468447083e588c1783f18
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 4b76defa310f339f6fec05e0ceeec01a56c80729
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129074883"
+ms.locfileid: "129089886"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Felsöka saknade betalningar, felaktiga intäkter och andra problem
 
@@ -74,7 +74,7 @@ Kontakta supporten om de här åtgärderna inte hjälper och dina betalningar fo
 Du kan hitta och stämma av dina justeringar genom att ladda ned information om intjäning och transaktioner.
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om gränssnittet för arbetsytor och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vyn Arbetsytor](#tab/workspaces-view)
 
@@ -101,7 +101,7 @@ Du kan hitta och stämma av dina justeringar genom att ladda ned information om 
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 
-2. I det övre navigeringsfältet väljer du ikonen Money (Pengar) och sedan **Transaction history (Transaktionshistorik).**
+2. Välj valutaikonen i det övre navigeringsfältet och välj sedan **Transaktionshistorik.**
 
 3. Använd lämpliga filter. (Se **viktig information** nedan.)
 
@@ -148,9 +148,9 @@ Intäkter som saknas eller inte stämmer kan bero på något av följande proble
 
 Intäkter visas både på sidan **Transaktionshistorik** och **på sidan** Betalningar. Du kan komma åt båda sidorna genom att **välja panelen Utbetalningar** på [instrumentpanelen i Partnercenter.](https://partner.microsoft.com/dashboard)
 
-Månatliga intäktsbelopp i vyn Transaktionshistorik överensstämmer kanske inte med betalningsbeloppet som tagits emot under en viss månad. Detta beror på omberäkningar och justeringar för tidigare intjäningsperioder som tillämpas på framtida betalningar.
+Månatliga intäktsbelopp i vyn Transaktionshistorik överensstämmer kanske inte med betalningsbeloppet som tagits emot för en viss månad. Detta beror på omberäkningar och justeringar för tidigare intjäningsperioder som tillämpas på framtida betalningar.
 
-Till exempel återspeglas inte en justering för intäkter för januari 2019 som bearbetades i september 2019 i intäktsbeloppet för september 2019. Men när betalningen för september 2019 tas emot inkluderar den justeringen för januari 2019 som tillämpades i september.
+Till exempel återspeglas inte en justering för intäkter för januari 2019 som bearbetades i september 2019 i intäktsbeloppet för september 2019. Men när betalningen för september 2019 tas emot innehåller den justering för januari 2019 som tillämpades i september.
 
 I det här scenariot behöver du ladda ned transaktionsinformationen för att få en fullständig vy över alla intäkter som ingår i betalningen.  Dessutom kan du gå till vyn Betalningar för att ladda ned transaktioner för varje betalning.
 
@@ -165,15 +165,15 @@ I den här vyn kan du visa betalningar för alla program och MPN-ID:er. Data vis
 | Gör så här: | Gå hit |
 | ------ | :----------- |
 | Visa din betalningsinformation per rad, inklusive intjäning och betalningsbelopp i lokal valuta  | Se **fältet Lista över** betalningar   |
-| Ladda ned en betalningsbokstav   |  Välj **Betalningsöverföring**  |
+| Ladda ned ett filöverföringsbrev   |  Välj **Betalningsöverföring**  |
 | Visa transaktionsnivåinformation för en specifik betalning |  Välj **Visa**  |
-| Exportera transaktionsinformation till Excel  |  Välj **Börja ladda** ned och välj sedan Exportera **data.** Alla valda filter tillämpas på exporterade data. När statusen har ändrats till Slutförd väljer **du Ladda** ned och följer anvisningarna för att exportera den detaljerade transaktionsrapporten. Uppdatera sidan om statusen inte uppdateras inom fem minuter.  |
+| Exportera transaktionsinformation till Excel  |  Välj **Starta nedladdning** och välj sedan Exportera **data.** Alla valda filter tillämpas på exporterade data. När statusen har ändrats till Slutförd väljer **du Ladda** ned och följer anvisningarna för att exportera den detaljerade transaktionsrapporten. Uppdatera sidan om statusen inte uppdateras inom fem minuter.  |
 
 ### <a name="missing-or-incorrect-earnings-and-payments"></a>Intäkter och betalningar som saknas eller är felaktiga
 
 Om du inte kan hitta någon betalnings- eller transaktionsinformation kontrollerar du om du har tillämpat rätt filter. Eftersom vissa programnamn har ändrats (till exempel att CSP 1T Direct Partner nu CSP Direct Bill Partner) kan du behöva använda flera val.
 
-Om du fortfarande inte kan hitta dina intäkter eller om du tror att intäkterna som visas är felaktiga kontaktar du [supporten.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
+Om du fortfarande inte hittar dina intäkter eller tror att intäkterna som visas är felaktiga kontaktar du [supporten](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
 ## <a name="how-do-i-reconcile-my-earnings"></a>Hur gör jag för att mina intäkter?
 
@@ -185,17 +185,17 @@ Gör följande om dina intäkter inte stämmer:
 
 3. **Kontrollera att du har uppfyllt kraven.**  Kontrollera om du har uppfyllt [behörighets- och](#my-payment-is-missing-or-incorrect) intäktsreglerna för ditt incitamentprogram.
 
-Om de här åtgärderna inte hjälper och dina intäkter fortfarande inte har stämts av kontaktar du [supporten.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
+Kontakta supporten om dessa åtgärder inte hjälper och dina intäkter fortfarande inte har [stämts av.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
 
 ## <a name="where-can-i-find-my-rates"></a>Var hittar jag mina priser?
 
-1. Logga in på [sidan Partnerincitament.](https://partner.microsoft.com/membership/partner-incentives)
+1. Logga in på sidan [Partnerincitament.](https://partner.microsoft.com/membership/partner-incentives)
 
-2. Rulla ned för att få åtkomst till dokumenten för ditt program.
+2. Rulla ned för att komma åt dokumenten för ditt program.
 
 3. Välj dokumentlänken för respektive program.
 
-4. I dokumentet går du till avsnittet **Programstruktur och Priser**.
+4. I dokumentet refererar du till avsnittet **Programstruktur och Priser**.
 
 ## <a name="next-steps"></a>Nästa steg
 

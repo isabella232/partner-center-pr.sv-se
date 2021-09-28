@@ -8,46 +8,46 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 747c8d091231a1d77365257b89f68184bf1914d7
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 2558bd56a0ae31197d899becbae5cefd8947b5f6
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129070505"
+ms.locfileid: "129088893"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Skapa en marknadsföringsplan för ditt incitamentsprogram
 
 **Lämpliga roller:** Incitamentsadministratörsroller | Faktureringsadministratörskonto | Global administratör
 
-En plan för co-op-anspråk är en serie marknadsföringskampanjer, aktiviteter och annan information som beskriver hur du gör ditt program till ett lyckat resultat. När du har skapat din plan skickar du den till Microsoft för godkännande.
+En plan för co-op-anspråk är en serie marknadsföringskampanjer, aktiviteter och annan information som beskriver hur du kommer att göra ditt program till ett lyckat resultat. När du har skapat din plan skickar du den till Microsoft för godkännande.
 
 ## <a name="create-your-incentives-plan"></a>Skapa din incitamentsplan
 
 Du kan visa dina planer genom att **välja Planhantering** på **sidan Incitament** och sedan öppna det program som du vill använda.
 
 > [!NOTE]
-> Du kanske inte ser Plan Management på incitamentssidan. Det beror på att instrumentpanelen i Partnercenter är dynamisk och bara visar vad som är lämpligt för din specifika roll och dina aktiviteter. Om du inte ser PlanHantering på sidan Incitament innebär det förmodligen att du inte är registrerad i ett program som har planer. Kontakta incitamentsadministratören om du behöver hjälp.
+> Du kanske inte ser Plan Management på sidan Incitament. Det beror på att instrumentpanelen i Partnercenter är dynamisk och bara visar vad som är lämpligt för din specifika roll och dina aktiviteter. Om du inte ser PlanHantering på sidan Incitament innebär det förmodligen att du inte är registrerad i ett program som har planer. Kontakta incitamentsadministratören om du behöver hjälp.
 
-Mer information om planer för ditt Incitamentsprogram finns i programguiden.
+Mer information om planer för ditt specifika Incitamentsprogram finns i programguiden.
 
 ## <a name="how-to-submit-a-plan"></a>Så här skickar du en plan
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om gränssnittet för arbetsytor och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
-#### <a name="workspaces-view"></a>[Vyn Arbetsytor](#tab/workspaces-view)
+#### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/) och välj **panelen** Incitament.
 
 2. Välj **Program,** leta upp lämplig marknad för din plan och välj sedan **Skapa plan.**
 
-3. På sidan **Ny plan** fyller du i de obligatoriska fälten. **Valuta** är det värde som du vill att planen ska återspegla. **Granskarens e-postadress** ska vara din kontoansvarigas Microsoft-e-postadress. Observera att endast en plan kan skapas per MPN-ID, fond, program och period. Välj **Spara**.
+3. På sidan **Ny plan** fyller du i de obligatoriska fälten. **Valuta** är det värde som du vill att planen ska återspegla. **Granskarens e-postadress** ska vara Microsofts e-postadress för din kontoansvariga. Observera att endast en plan kan skapas per MPN-ID, fond, program och period. Välj **Spara**.
 
 4. Gå igenom informationen på planens statussida. Välj **Redigera** om du behöver uppdatera informationen.
 
 5. När informationen på den här sidan är korrekt väljer du **Ny kampanj.**
 
-6. Fyll i de obligatoriska fälten på **sidan Ny** kampanj och välj sedan **Spara**.
+6. Fyll i de obligatoriska fälten på **sidan Ny** kampanj och välj sedan **Spara.**
 
 7. Välj **Ny aktivitet** på statussidan.
 
@@ -63,15 +63,15 @@ Din plan har nu skickats. Microsoft meddelar din incitamentsadministratör när 
 
 2. Under **incitament** i det vänstra navigeringsfönstret väljer du **Program** och väljer sedan ditt program.
 
-3. På sidan **Program** letar du reda på lämplig marknad för din plan och väljer sedan **Skapa plan.**
+3. På sidan **Program** letar du upp lämplig marknad för din plan och väljer sedan **Skapa plan.**
 
-4. På sidan **Ny plan** fyller du i de obligatoriska fälten. **Valuta** är det värde som du vill att planen ska återspegla. **Granskarens e-postadress** ska vara din kontoansvarigas Microsoft-e-postadress. Observera att endast en plan kan skapas per MPN-ID, fond, program och period. Välj **Spara**.
+4. På sidan **Ny plan** fyller du i de obligatoriska fälten. **Valuta** är det värde som du vill att planen ska återspegla. **Granskarens e-postadress** ska vara Microsofts e-postadress för din kontoansvariga. Observera att endast en plan kan skapas per MPN-ID, fond, program och period. Välj **Spara**.
 
 5. Gå igenom informationen på planens statussida. Välj **Redigera** om du behöver uppdatera informationen.
 
 6. När informationen på den här sidan är korrekt väljer du **Ny kampanj.**
 
-7. Fyll i de obligatoriska fälten på **sidan Ny** kampanj och välj sedan **Spara**.
+7. Fyll i de obligatoriska fälten på **sidan Ny** kampanj och välj sedan **Spara.**
 
 8. Välj **Ny aktivitet** på statussidan.
 
@@ -86,13 +86,13 @@ Nu har din plan skickats. Microsoft meddelar din incitamentsadministratör när 
 ## <a name="view-the-status-of-your-plan"></a>Visa status för din plan
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om gränssnittet för arbetsytor och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
-#### <a name="workspaces-view"></a>[Vyn Arbetsytor](#tab/workspaces-view)
+#### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 
-2. Välj panelen **Incitament,** sedan **Plans Management (Hantering av** planer) och välj sedan det program du vill använda. Statussidan öppnas.
+2. Välj panelen **Incitament,** sedan **Hantering av planer** och välj sedan det program som du vill använda. Statussidan öppnas.
 
 3. I avsnittet **Planer** visas statusen för varje plan i kolumnen **Status**.
 
@@ -124,7 +124,7 @@ Nu har din plan skickats. Microsoft meddelar din incitamentsadministratör när 
 
 * * *
 
-## <a name="plan-submission-timelines"></a>Tidslinjer för planinskickning
+## <a name="plan-submission-timelines"></a>Tidslinjer för att skicka in planer
 
 Du måste skapa och skicka din plan senast den sista dagen på programåret. Om det behövs kan du ändra och skicka om planen under de efterföljande 90 dagarna, men planen måste skapas och skickas in första gången under programåret.
 
@@ -135,9 +135,9 @@ Du måste skapa och skicka din plan senast den sista dagen på programåret. Om 
 
 Microsoft betalar dig varje månad baserat på hur mycket du tjänar och gränserna för ditt prenumerationsavtal. Betalningar görs den 15:e dagen i efterföljande månad.
 
-Om din plan till exempel är godkänd för 10 000 USD och du tjänade 5 000 USD under april får du 5 000 USD den 15 maj.
+Om ditt abonnemang till exempel har godkänts för 10 000 USD och du tjänade 5 000 USD under april får du 5 000 USD den 15 maj.
 
-Om du under samma plan tjänar 15 000 USD under april får du 10 000 USD den 15 maj eftersom 10 000 USD var gränsen för ditt abonnemang. För att få större betalningar måste du höja gränsen för ditt prenumerationsavtal för den efterföljande månaden.
+Om du under samma plan tjänar 15 000 USD i april får du 10 000 USD den 15 maj eftersom 10 000 USD var gränsen för ditt abonnemang. För att få större betalningar måste du höja gränsen för ditt prenumerationsavtal för den efterföljande månaden.
 
 ## <a name="next-steps"></a>Nästa steg
 

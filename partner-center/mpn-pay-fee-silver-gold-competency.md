@@ -8,12 +8,12 @@ ms.subservice: partnercenter-membership
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: e93f2fc198fae3e4cee663bd992c42feb0980bf7
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: c64eafb7b0b00eb840a472b01a9ad6c5bfa52fb8
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129072930"
+ms.locfileid: "129088934"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Så här betalar du avgiften för en silver- eller guldkompetens
 
@@ -37,7 +37,7 @@ Annars följer du de här stegen för att betala avgiften för en silver- eller 
 - Du har tilldelats rollen partnercenter som [global administratör eller MPN-partneradministratör.](./permissions-overview.md) Om du är en gästanvändare utan någon av dessa roller kommer du att nekas åtkomst till några av partnercentersidorna som beskrivs nedan. Om det händer kontaktar [du din globala administratör](./find-your-role.md) och ber dem tilldela dig lämplig roll.
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om arbetsytegränssnittet och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
 
@@ -158,7 +158,7 @@ När betalningen har slutförts visas köpet vanligtvis som aktivt mellan 48 och
 
 Om du anger nödvändig information i referensinformationen för banköverföringen (till exempel ordernummer och MPN-ID) och laddar upp betalningsbeviset till Partnercenter kan betalningen aktiveras tidigare.
 
-Om betalningsprocessen inte har slutförts helt inom 30 dagar efter orderskapandet ändras orderstatusen till **Upphört att gälla.** Om din beställning **har upphört** att gälla måste du skapa en ny order direkt från Partnercenter, utan att behöva skicka betalningen en gång till. 
+Om betalningsprocessen inte slutförs helt inom 30 dagar efter ordergenereringsdatumet ändras orderstatusen till **Förfallen**. Om din beställning **har upphört** att gälla måste du skapa en ny order direkt från Partnercenter, utan att behöva skicka betalningen en gång till. 
 
 ## <a name="switch-from-electronic-bank-transfer-payment-to-credit-card-payment-method"></a>Byta från elektronisk banköverföring till betalningsmetod för kreditkort
 

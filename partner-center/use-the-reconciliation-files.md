@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1dcfcc7b555b3cdfb44549a78f1134672e0ea914
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 15767f57131013b2087f76145851ce7d122548ff
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129072798"
+ms.locfileid: "129088458"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Lär dig hur du läser radobjekten i avstämningsfilerna i Partnercenter
 
@@ -96,7 +96,7 @@ Partner i den **indirekta modellen** kan använda dessa ytterligare fält i båd
 
 | MPN-ID | Description |
 | ------ | ----------- |
-| MPN-ID | Mpn Microsoft Partner Network(Mpn) för CSP-partnern (direkt eller indirekt) Molnlösningsleverantör partner). |
+| MPN-ID | Mpn Microsoft Partner Network(Mpn)-id för Molnlösningsleverantör (CSP)-partner (direkt eller indirekt). |
 | [MPN-ID för återförsäljare](#reseller-mpn-id) | [MPN-identifieraren för återförsäljaren av posten för prenumerationen](#reseller-mpn-id). Det här fältet motsvarar det återförsäljar-ID som anges för den specifika prenumerationen i Partnercenter. Visas endast i avstämningsfiler för partner i den indirekta modellen. |
 
 ### <a name="reseller-mpn-id"></a>MPN-ID för återförsäljare
@@ -110,7 +110,7 @@ Om CSP-partnern tar bort ett **MPN-ID** för återförsäljare anges det här v�
 Så här visar eller uppdaterar du **MPN-ID:t för återförsäljare:**
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om arbetsytegränssnittet och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
 

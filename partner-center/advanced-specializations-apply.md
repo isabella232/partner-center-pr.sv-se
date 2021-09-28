@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a558ff40727d13045a74343fa9146443b88bc69c
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 92dff868e75a0c40a858d013d08b5116fc561297
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129070572"
+ms.locfileid: "129089240"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Använd Partnercenter för att söka avancerade specialiseringar och kontrollera deras status
 
@@ -26,7 +26,7 @@ Mer information om fördelarna med avancerade specialiseringar och deras specifi
 
 ## <a name="use-partner-center-to-apply-for-advanced-specializations-or-check-their-status"></a>Använd Partnercenter för att söka avancerade specialiseringar eller kontrollera deras status
 
-För att kvalificera dig för en avancerad specialisering måste du först uppfylla vissa krav, till exempel en [guldkompetens](https://partner.microsoft.com/membership/competencies) i ett relaterat område. Sedan måste du använda i Partnercenter och slutföra viktiga steg, krav och Microsoft-valideringar för den avancerade specialiseringen.
+För att kvalificera dig för en avancerad specialisering måste du först uppfylla vissa krav, till exempel en [guldkompetens](https://partner.microsoft.com/membership/competencies) inom ett relaterat område. Sedan måste du använda i Partnercenter och slutföra viktiga steg, krav och Microsoft-valideringar för den avancerade specialiseringen.
 
 En stor del av processen är tillgänglig från instrumentpanelen i Partnercenter. Endast användare med en viss Partnercenter-roll [kan dock komma](permissions-overview.md) åt det här Partnercenter-området.
 
@@ -35,7 +35,7 @@ För att få åtkomst till det här området måste du beviljas rollen **MPN-kon
 ### <a name="to-access-this-area"></a>Så här kommer du åt det här området
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om arbetsytegränssnittet och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
 
@@ -49,7 +49,7 @@ För att få åtkomst till det här området måste du beviljas rollen **MPN-kon
 
 4. När du har slutfört alla krav för en avancerad specialisering kontrollerar du det här området i Partnercenter igen för att se om din status har ändrats till **Aktiv** för en specifik avancerad specialisering.
 
-   Aktiv status aktiverar automatiskt en avancerad specialiseringstagg på din **företagsprofil**. Profilen visas sedan för alla kunder som försöker hitta [en lösningsleverantör.](https://www.microsoft.com/solution-providers/home)
+   Aktiv status aktiverar automatiskt en avancerad specialiseringstagg för din **företagsprofil**. Profilen visas sedan för alla kunder som försöker hitta [en lösningsleverantör.](https://www.microsoft.com/solution-providers/home)
 
 #### <a name="current-view"></a>[Aktuell vy](#tab/current-view)
 
@@ -63,7 +63,7 @@ För att få åtkomst till det här området måste du beviljas rollen **MPN-kon
 
 4. När du har slutfört alla krav för en avancerad specialisering kontrollerar du det här området i Partnercenter igen för att se om din status har ändrats till **Aktiv** för en specifik avancerad specialisering.
 
-   Aktiv status aktiverar automatiskt en avancerad specialiseringstagg på din **företagsprofil**. Profilen visas sedan för alla kunder som försöker hitta [en lösningsleverantör.](https://www.microsoft.com/solution-providers/home)
+   Aktiv status aktiverar automatiskt en avancerad specialiseringstagg för din **företagsprofil**. Profilen visas sedan för alla kunder som försöker hitta [en lösningsleverantör.](https://www.microsoft.com/solution-providers/home)
 
 * * *
 
@@ -115,7 +115,7 @@ I följande avsnitt beskrivs hur du schemalägger en granskning eller tillhandah
 
 Förutom sina egna förutsättningar behöver du även klara en schemalagd granskning för vissa avancerade *specialiseringar.* Se den tidigare listan över avancerade specialiseringar som kräver en granskning.
 
-Följ sedan de här stegen för att schemalägga en granskning i Partnercenter:
+Följ sedan dessa steg för att schemalägga en granskning i Partnercenter:
 
 #### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
 
@@ -181,7 +181,7 @@ Följ sedan dessa steg för att tillhandahålla kundreferenser i Partnercenter:
 
 * * *
 
-## <a name="how-azure-consumption-revenue-acr-is-calculated-for-each-advanced-specialization"></a>Hur Azure Consumption Revenue (ACR) beräknas för varje avancerad specialisering
+## <a name="how-azure-consumption-revenue-acr-is-calculated-for-each-advanced-specialization"></a>Så här beräknas Azure Consumption Revenue (ACR) för varje avancerad specialisering
 
 - Partner-till-kund-associationer ingår: [Digital Partner of Record-association](https://support.microsoft.com/topic/link-a-partner-id-for-azure-performance-pal-or-dpor-a8eed43b-82a8-f017-3b1a-f9c8aa385d32) till en kund, CSP-direktfaktureringspartner eller indirekt CSP-återförsäljare för en kund- eller [PARTNERadministratörslänk(PAL)-association](/azure/cost-management-billing/manage/link-partner-id) till en kund.
 - ACR från prenumerationer med erbjudandetyper utvärderingsversion, förmånsprogram, support och intern räknas inte mot avancerad specialisering.
@@ -193,7 +193,7 @@ Följ sedan dessa steg för att tillhandahålla kundreferenser i Partnercenter:
 | Servicenivå 1 | Den högsta nivån där Azure-tjänster paketeras (se: https://azure.microsoft.com/services/) . |
 | Servicenivå 2 | Azure-tjänster på den näst högsta nivån (t.ex. https://azure.microsoft.com/pricing/) |
 | Servicenivå 3 | Tredje Azure-tjänster på högsta nivån (t.ex. https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
-| Servicenivå 4 | Fjärde högsta nivån azure-tjänster baserade (t.ex.: https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
+| Servicenivå 4 | Fjärde högsta nivån azure-tjänster baserade (t.ex. https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
 | Tjänstgrupp 2 | Gruppering av Azure-tjänster enligt en tjänstkategori |
 | Tjänstgrupp 3 | Gruppering av Azure-tjänster enligt en tjänstunderkategori |
 | Tjänstpåverkande | Gruppering av Azure-tjänster som är mappade till en specifik förbrukningsaktivitet |
@@ -238,7 +238,7 @@ Följ sedan dessa steg för att tillhandahålla kundreferenser i Partnercenter:
         - ACR-justeringstyp = N/A, Compute Core SW = Core,
         - Compute OS = WINDOWS THEN Compute OS Attribute = WINDOWS, UNKNOWN or Compute OS = LINUX THEN Compute OS Attribute = WINDOWS-AHUB
         - Servicenivå 2 = Cloud Services, Container Instances, Container Registry, Specialized Compute, Virtual Machines, Virtual Machines Licenses
-    - SQL Database (DB) ACR: Service Group 3 = SQLDB
+    - SQL Database (DB) ACR: Tjänstgrupp 3 = SQLDB
     - SQL Managed Instance (MI) ACR: Service Group 3 = SQL DB MI
     - SQL VM ACR: Service Group 3 = SQL on IaaS, SQL on IaaS VM
 - Linux och Open-Source Database Migration till Microsoft Azure
@@ -247,7 +247,7 @@ Följ sedan dessa steg för att tillhandahålla kundreferenser i Partnercenter:
             - ACR Adjustment Type= N/A, Service Level 2 = Virtual Machines, Compute OS= Linux, Compute OS Attribute = Non-Windows , UNKNOWN , Windows
             - Servicenivå 4 = Alla utom Cloud Services MS-serien, Virtual Machines MS-serien, Virtual Machines MS-serien Windows, Virtual Machines MSv2-serien, Virtual Machines MSv2-serien Windows, MS-serien Dedicated Host, MSv2-serien Dedicated Host
         - Alternativ 2: Kräver endast filter på servicenivå 4, andra fält som Compute OS/Compute OS-attribut krävs inte
-            - Servicenivå 4 = Red Hat Enterprise Linux, Red Hat Enterprise Linux med HA, SUSE Linux Enterprise Server Basic, SUSE Linux Enterprise Server for HPC Priority, SUSE Linux Enterprise Server for HPC Standard, SUSE Linux Enterprise Server Priority, SUSE Linux Enterprise Server Standard
+            - Servicenivå 4 = Red Hat Enterprise Linux, Red Hat Enterprise Linux ha, SUSE Linux Enterprise Server Basic, SUSE Linux Enterprise Server for HPC Priority, SUSE Linux Enterprise Server for HPC Standard, SUSE Linux Enterprise Server Priority, SUSE Linux Enterprise Server Standard
     - Azure Database (DB) for MariaDB ACR: Service Level 1 = Databases and Service Level 2 = Azure Database for MariaDB
     - Azure DB for MySql ACR: Service Level 1 = Databases and Service Level 2 = Azure Database for MySQL and MySQL Database on Azure
     - Azure DB for Postgre SQL ACR: Service Level 1 = Databases and Service Level 2 = PostgreSQL

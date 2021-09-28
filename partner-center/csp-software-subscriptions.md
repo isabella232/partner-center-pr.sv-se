@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fcd446cf38ee9e84122f59ece2db22c7e6129f83
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: e5fd305377a02d15991f48553b5fd071fb22d9dc
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129073831"
+ms.locfileid: "129090124"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Sälja programvaruprenumerationer via Molnlösningsleverantör-programmet (CSP)
 
@@ -78,7 +78,7 @@ Den Azure Hybrid-förmån hjälper dig att få mer värde av dina Windows Server
 Så här köper du programvaruprenumerationer åt en kund:
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om gränssnittet för arbetsytor och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vyn Arbetsytor](#tab/workspaces-view)
 
@@ -100,7 +100,7 @@ Så här köper du programvaruprenumerationer åt en kund:
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Aktivera och hantera programvaruprenumerationer
 
-När du har köpt din programvara måste du eller dina kunder ladda ned den (partner som använder Partnercenter; kunder som använder Microsoft 365 Admin Center). Gör detta på följande sätt. Det är viktigt att förstå riskerna med att kopiera länkar och ladda ned programvara. Mer information finns i **Använda Partnercenter för att hämta** nedladdning av kundprogramvara och licensnycklar i [Partnercenter Ny handelsguide.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
+När du har köpt din programvara måste du eller dina kunder ladda ned den (partner som använder Partnercenter; kunder som använder Microsoft 365 Admin Center). Gör detta på följande sätt. Det är viktigt att förstå riskerna med att kopiera länkar och ladda ned programvara. Mer information finns i Använda **Partnercenter för att hämta** nedladdning av kundprogramvara och licensnycklar i [partnercentrets guide för nya handelsåtgärder.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
 
 > [!NOTE]
 > Du måste vara administratörsagent i Partnercenter för att få en länk till nycklar och nedladdningar.
@@ -127,13 +127,13 @@ När du har köpt din programvara måste du eller dina kunder ladda ned den (par
 
 Även KMS nycklar inte är tillgängliga i CSP kan du fortfarande flytta kundens lokala licenser från VL till CSP och förhindra driftstopp på grund av inköpskanalväxeln. KMS distribuerar licenserna till klienterna och de förblir vanligtvis aktiva i 180 dagar innan enheten försöker förnya aktiveringen. Det innebär att enheten redan är aktiverad och körs under en tid innan några problem uppstår. 
 
-Om kunden distribuerar den nya fleraktiveringsaktiveringsaktiveringen under den här tiden, antingen manuellt eller med skript (med hjälp av ), sker `slmgr.vbs` ingen avbrottstid. Om kunden inte distribuerar den nya fleraktiveringslicensen under den här tiden och försöker förnya licensen senare, kan enheten bli begränsad eller blockerad i vissa funktioner tills den återaktiveras. 
+Om kunden distribuerar den nya fleraktiveringsaktiveringsaktiveringen under den här tiden, antingen manuellt eller med skript (med hjälp av ), sker `slmgr.vbs` ingen stilleståndstid. Om kunden inte distribuerar den nya fleraktiveringsaktiveringsaktiveringen under den här tiden och försöker förnya licensen senare, kan enheten bli begränsad eller blockerad i vissa funktioner tills den återaktiveras. 
 
 Mer information finns i Aktivera [klienter som kör Windows 10 (Windows 10) – Windows Distribution](/windows/deployment/volume-activation/activate-windows-10-clients-vamt#key-management-service-activation-renewal). Om du behöver hjälp med den här typen av distribution kan du skicka en begäran om teknisk support och [distributionstjänster.](/partner-center/technical-benefits#submit-a-technical-presales-and-deployment-services-request)
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Nedladdning av serverprenumeration och licensnycklar som är tillgängliga via Microsoft 365 Admin Center för kunder 
 
-Dina kunder kommer att kunna hämta licensnycklar och nedladdningar för CSP-serverprenumeration från Microsoft 365 Admin Center. Om du vill se licensnycklarna och nedladdningarna för prenumerationen på CSP-servern måste kunden gå till Microsoft 365 Admin Center > **Billing > Your products > Software (Fakturering** för >) på fliken Your products > Software (Dina produkter > Software). Mer information finns på [fliken Programvara under Fakturering.](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)  
+Dina kunder kommer att kunna hämta licensnycklar och nedladdningar för CSP-serverprenumeration från Microsoft 365 Admin Center. Om du vill se licensnycklarna och nedladdningarna för prenumerationen på CSP-servern måste kunden gå till fliken Microsoft 365 Admin Center > Billing > Your products > Software (Fakturering för **>).** Mer information finns på [fliken Programvara under Fakturering.](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Visa aktivitet för åtkomst till programvarunyckel och nedladdning av programvara
 
@@ -158,7 +158,7 @@ Du kan avbryta ett programvaruköp inom 30 dagar från inköpsdatum. Om du avbry
 Följ stegen nedan för att avbryta ett köp:
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om gränssnittet för arbetsytor och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vyn Arbetsytor](#tab/workspaces-view)
 
@@ -183,15 +183,15 @@ Följ stegen nedan för att avbryta ett köp:
 
 7. Markera kryssrutan för att bekräfta att du har läst meddelandet **Viktigt om** annullering. (Läs viktig information **nedan** om du vill veta mer om vad som händer när du har avbrutit ett köp.)
 
-8. Välj **Skicka** för att avbryta köpet. Om du vill avbryta flera beställningar för en kund måste du utföra steg 4 till och med 6 igen för varje unikt order-ID.nummer.
+8. Välj **Skicka** för att avbryta köpet. Om du vill avbryta flera beställningar för en kund måste du utföra steg 4 till och med 6 igen för varje, unikt order-ID-nummer.
 
-När du försöker avbryta en beställning kan Partnercenter också ge dig annan information (som visas under listrutan Ordernummer). Den här informationen kan vara:
+När du försöker avbryta en beställning kan Partnercenter också ge dig annan information (som visas under listrutan Ordernummer). Den här informationen kan omfatta:
 
-- Hur många dagar som återstår för att avbryta den specifika beställningen
+- Hur många dagar som återstår för dig att annullera den specifika beställningen
 
 - Om du redan har passerat annulleringsfönstret och inte längre kan avbryta beställningen
 
-- Om vi behöver mer information om din begäran om annullering kan du få en länk till ett **formulär för kundsupportbegäran.**
+- Om vi behöver mer information om din uppsägningsbegäran kan du få en länk till ett **formulär för kundsupportbegäran.**
 
 > [!IMPORTANT]
 > När du har avbrutit en beställning visas ett meddelande som bekräftar annulleringen. Det kan dock uppstå en fördröjning på upp till 15 minuter innan annulleringen visas på instrumentpanelen i Partnercenter.
@@ -201,9 +201,9 @@ När du försöker avbryta en beställning kan Partnercenter också ge dig annan
 > [!NOTE]
 > Du måste vara administratörsagent för att kunna avbryta ett köp. Följande steg beskriver hur du avbryter ett köp på instrumentpanelen i Partnercenter. Du kan också göra detta med [partnercenter-API:et](/partner-center/develop/cancel-software-purchases).
 
-1. Kontrollera att du har följande information innan du börjar avbryta processen:
+1. Kontrollera att du har följande information innan du startar annulleringen:
 
-    - Kundens namn, klientorganisations-GUID eller domännamn
+    - Kundens namn, klient-GUID eller domännamn
     - Namnet på den produkt som du vill avbryta
     - Order-ID
 
@@ -219,40 +219,40 @@ När du försöker avbryta en beställning kan Partnercenter också ge dig annan
 
 7. Markera kryssrutan för att bekräfta att du har läst meddelandet **Viktigt om** annullering. (Läs viktig information **nedan** om du vill veta mer om vad som händer när du har avbrutit ett köp.)
 
-8. Välj **Skicka** för att avbryta köpet. Om du vill avbryta flera beställningar för en kund måste du utföra steg 4 till och med 6 igen för varje unikt order-ID.nummer.
+8. Välj **Skicka** för att avbryta köpet. Om du vill avbryta flera beställningar för en kund måste du utföra steg 4 till och med 6 igen för varje, unikt order-ID-nummer.
 
-När du försöker avbryta en beställning kan Partnercenter också ge dig annan information (som visas under listrutan Ordernummer). Den här informationen kan vara:
+När du försöker avbryta en beställning kan Partnercenter också ge dig annan information (som visas under listrutan Ordernummer). Den här informationen kan omfatta:
 
-- Hur många dagar som återstår för att avbryta den specifika beställningen
+- Hur många dagar som återstår för dig att annullera den specifika beställningen
 
 - Om du redan har passerat annulleringsfönstret och inte längre kan avbryta beställningen
 
-- Om vi behöver mer information om din begäran om annullering kan du få en länk till ett **formulär för kundsupportbegäran.**
+- Om vi behöver mer information om din uppsägningsbegäran kan du få en länk till ett **formulär för kundsupportbegäran.**
 
 > [!IMPORTANT]
 > När du har avbrutit en beställning visas ett meddelande som bekräftar annulleringen. Det kan dock uppstå en fördröjning på upp till 15 minuter innan annulleringen visas på instrumentpanelen i Partnercenter.
 
 * * *
 
-### <a name="post-cancellation-details"></a>Information efter annulleringen
+### <a name="post-cancellation-details"></a>Information efter annullering
 
 När du har avbrutit ett köp:
 
-- Alla relaterade programvarunycklar och nedladdningslänkar återkallas. Detta innebär att du och kunden inte längre kan använda programvarunycklarna och ladda ned länkar som är relaterade till köpet. Du och din kund ansvarar för att upphöra med användningen av all avbruten programvara. Du ansvarar också för att avinstallera den avbrutna programvaran och ta bort eventuella relaterade programhämtningar och länkar.
+- Alla relaterade programvarunycklar och nedladdningslänkar återkallas. Detta innebär att du och din kund inte längre kan använda programvarunycklarna och ladda ned länkar som är relaterade till köpet. Du och kunden ansvarar för att upphöra med användningen av all avbruten programvara. Du ansvarar också för att avinstallera den avbrutna programvaran och ta bort eventuella relaterade programhämtningar och länkar.
 
 - Det annullerade objektet visas fortfarande på kundens sida Programvaruinformation, men aktiveringsnyckeln är inte tillgänglig.
 
-- En kredit för den annullerade beställningen visas på nästa månadsfaktura. Permanent programvara får en kredit på 100 % och programvaruprenumerationer får en prorrerad kredit.
+- En kredit för den annullerade ordern visas på nästa månadsfaktura. Permanent programvara får en kredit på 100 % och programvaruprenumerationer får en prorated kredit.
 
-### <a name="submit-a-customer-support-request-to-cancel-a-purchase"></a>Skicka en kundsupportbegäran om att avbryta ett köp
+### <a name="submit-a-customer-support-request-to-cancel-a-purchase"></a>Skicka en supportbegäran om att avbryta ett köp
 
-Om du försökte avbryta ett programvaruköp via Partnercenter men fick i uppgift att ange mer information och fylla i ett formulär för en kundsupport kan de här stegen hjälpa dig:
+Om du försökte avbryta ett programvaruköp via Partnercenter men fick mer information och fyller i ett formulär för kundsupport kan de här stegen hjälpa dig:
 
 1. När du väljer **länken för kundsupportbegäran** i fönstret Avbryt köp öppnas sidan Rapportera ett problem med **Partnercenter.**
 
-2. Under **Information** går du till listan Typ av problem och väljer **CSP Purchase/Refund för kunders räkning.**
+2. Under **Information** går du till listan Typ av problem och väljer **CSP Purchase/Refund (Köp/återbetalning för CSP) för kunders räkning.**
 
-3. Fyll i fälten Påverkan och Rubrik.
+3. Fyll i fälten Impact (Effekt) och Title (Rubrik).
 
 4. Ange följande information i fältet Beskrivning:
 

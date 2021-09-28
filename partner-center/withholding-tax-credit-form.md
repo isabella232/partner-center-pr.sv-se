@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2bc31961dd073c2300ba8ee5229b72c86019e217
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: e22067cafa7c8fc1d6c1dc6c8e0cf70f6134a61f
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129072598"
+ms.locfileid: "129089461"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Få kredit på ditt Partnercenter-konto för källskatt
 
@@ -27,14 +27,14 @@ Molnlösningsleverantör (CSP)-partner i vissa länder får fakturabelopp som in
 Partner som används för att skicka begäranden om källskatt genom att skapa tjänstbegäranden (partnersupportärenden) i Partnercenter. Den här processen ändrades i januari 2020. Nu bör CSP-partner skicka begäranden om källskatt på sidan **Fakturering i stället** för att skapa supportbegäranden.
 
 > [!IMPORTANT]
-> Partner kan endast skicka källskatteförfrågningar för delvis betalda fakturor. För fullständiga eller obetalt fakturor kan du kontakta [supporten](report-problems-with-partner-center.md) med ditt källskattcertifikat.
+> Partner kan endast skicka källskatteförfrågningar för delvis betalda fakturor. För fullständiga eller obetalt fakturor kan du [kontakta supporten](report-problems-with-partner-center.md) med ditt källskattcertifikat.
 
 ## <a name="submit-a-tax-withholding-request"></a>Skicka en begäran om källskatt
 
 Följ dessa steg för att skicka en ny källskatt:
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om arbetsytegränssnittet och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
 
@@ -59,7 +59,7 @@ Följ dessa steg för att skicka en ny källskatt:
 
 7. **Skicka** begäran om källskatt.
 
-   När den har skickats går den till godkännandeprocessen där den godkänns för slutförande eller skickas tillbaka till dig om det behövs korrigeringar. Visa begärande-ID och status för dina begäranden och i **faktureringshistoriken** som du skickade den nya begäran från.
+   När den har skickats går den vidare till godkännandeprocessen där den godkänns för slutförande eller skickas tillbaka till dig om det behövs korrigeringar. Visa begärande-ID och status för dina begäranden och i **faktureringshistoriken** som du skickade den nya begäran från.
 
    Om din begäran skickas tillbaka till dig kan du ändra källbeloppet och ersätta certifikatet om det är problem med det.
 
@@ -86,7 +86,7 @@ Följ dessa steg för att skicka en ny källskatt:
 
 7. **Skicka** begäran om källskatt.
 
-   När den har skickats går den till godkännandeprocessen där den godkänns för slutförande eller skickas tillbaka till dig om det behövs korrigeringar. Visa begärande-ID och status för dina begäranden och i **faktureringshistoriken** som du skickade den nya begäran från.
+   När den har skickats går den vidare till godkännandeprocessen där den godkänns för slutförande eller skickas tillbaka till dig om det behövs korrigeringar. Visa begärande-ID och status för dina begäranden och i **faktureringshistoriken** som du skickade den nya begäran från.
 
    Om din begäran skickas tillbaka till dig kan du ändra källbeloppet och ersätta certifikatet om det är problem med det.
 
@@ -97,7 +97,7 @@ Följ dessa steg för att skicka en ny källskatt:
 Granskningsteamet kan kräva att du gör ändringar och skickar en begäran igen innan den kan godkännas. De ändrar statusen till **Väntande partneråtgärd**. Så här korrigerar och skickar du begäran:
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om arbetsytegränssnittet och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
 
@@ -125,7 +125,7 @@ Om du skickar begäran skickas den tillbaka till granskningsteamet där de antin
 
 2. I den vänstra menyn väljer du **Fakturering**.
 
-3. På sidan **Faktureringshistorik** **hittar du** begäran om källskatt. Begäranden som kräver din uppmärksamhet har statusen "Väntande partneråtgärd".
+3. På sidan **Faktureringshistorik** **hittar du** begäran om källskatt. Begäranden som behöver din uppmärksamhet får statusen "Väntande partneråtgärd".
 
 4. Välj ID och status för begäran om källskatt som tar dig till begärans sida.
 
@@ -152,11 +152,11 @@ Rensade belopp visas i avsnittet **Faktureringshistorik** på sidan Fakturering.
 
 Bearbetningen av begäranden om källskatt bör ta två dagar att slutföra, förutsatt att skattecertifikatet och beloppet är korrekta. Om det krävs ändringar tar det längre tid på grund av de korrigeringar som måste göras och skickas igen.
 
-Om du har frågor om processen för begäran om källskattekredit skickar du en begäran till partnersupporten. Du behöver id:t för begäran om källskatt för att lösa frågor.
+Om du har frågor om processen för begäran om källskattekredit skickar du en begäran till partnersupporten. Du behöver begärande-ID:t för källskatt för att lösa frågor.
 
 ## <a name="german-tax-withholding"></a>Tyska källskatter
 
-Partner som skickar begäranden om tyska källskatter bör komma ihåg att skicka papperskopior av ditt källskattecertifikat till följande adress:
+Partner som skickar begäranden om källskatt i Tyskland bör komma ihåg att skicka papperskopior av källskattecertifikatet till följande adress:
 
 - ATTN: EOC-skatteteamet För skatteteamet
 - Microsoft EMEA Operations Centre
@@ -166,7 +166,7 @@ Partner som skickar begäranden om tyska källskatter bör komma ihåg att skick
 
 ### <a name="questions-and-assistance-for-tax-withholding-requests"></a>Frågor och hjälp med begäranden om källskatt
 
-Partner bör använda den nya process som beskrivs ovan för att skicka nya begäranden och inte längre använda skapande av supportbegäran för nya källskattbegäranden. Partner med fler frågor om begäranden om källskatt kan skicka [supportbegäranden](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed). Supportbegäranden är avsedda att hjälpa partner för befintliga begäranden så att de måste ha sitt begärande-ID **för** att skicka en ny begäran. Om partner inte kan skicka en begäran med hjälp av den nya processen ska de ange ett visst antal (alla 1:ar) i formuläret för supportbegäran. 
+Partner bör använda den nya processen som beskrivs ovan för att skicka nya begäranden och inte längre använda skapande av supportbegäran för nya källskattbegäranden. Partner med fler frågor om begäranden om källskatt kan skicka [supportbegäranden.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed) Supportbegäranden är avsedda att hjälpa partner för befintliga begäranden så att de måste ha sitt **begärande-ID för** att skicka en ny supportbegäran. Om partner inte kan skicka en begäran med hjälp av den nya processen ska de ange ett visst antal (alla 1:ar) i formuläret för supportbegäran. 
 
    > [!IMPORTANT]
-   > Partner behöver inte kontakta supporten om deras begärandestatus är **Slutförd.** Den här statusen visas **i faktureringshistoriken** bredvid fakturan för överföringen. **De senaste** betalningsbeloppen bredvid fakturan ska återspegla källskattebeloppet inom tio dagar efter att begäran har markerats som **Slutförd.**
+   > Partner behöver inte kontakta supporten om deras begärandestatus är **Slutfört.** Den här statusen visas **i faktureringshistoriken** bredvid fakturan för överföringen. **De senaste** betalningsbeloppen bredvid fakturan ska återspegla källskattebeloppet inom tio dagar efter att begäran har markerats som **Slutförd.**

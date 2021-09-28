@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: abce85852ce93b1c911810463fab766c0f4c66d9
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 6232791d15886bb834413dd8adfce61e30f95b80
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129074515"
+ms.locfileid: "129088849"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Hitta dina Microsoft Partner Network-förmåner 
 
@@ -23,16 +23,16 @@ ms.locfileid: "129074515"
 Den här artikeln talar om för medlemmar Microsoft Partner Network (MPN) hur de hittar sina MPN-förmåner på instrumentpanelen i Partnercenter. Den här informationen omfattar hur du hittar företagets specifika produktsupport-ID:n, till exempel kontrakt-ID och åtkomst-ID, som är associerade med tekniska fördelar.
 
 > [!NOTE]
-> Om ditt Microsoft Partner Network fortfarande finns i Partner Membership Center (PMC) kan du behöva kontakta en annan resurs som Partner Frontline för att visa eller aktivera vissa fördelar. Mer information finns i [Aktivera tekniska förmåner utanför Partnercenter.](./partner-membership-center-retirement-faq.md)
+> Om ditt Microsoft Partner Network är kvar i Partner Membership Center (PMC) kan du behöva kontakta en annan resurs som Partner Frontline för att visa eller aktivera vissa fördelar. Mer information finns i [Aktivera tekniska förmåner utanför Partnercenter.](./partner-membership-center-retirement-faq.md)
 
 ## <a name="find-your-mpn-benefits-in-partner-center"></a>Hitta dina MPN-förmåner i Partnercenter
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om arbetsytegränssnittet och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
 
-Som Microsoft Partner Network medlem har ditt företag tillgång till många fördelar som kan hjälpa dig att växa i verksamheten. Så här tar du reda på vilka dessa fördelar är:
+Som Microsoft Partner Network medlem har ditt företag tillgång till många fördelar som kan hjälpa dig att öka din verksamhet. Så här tar du reda på vilka dessa fördelar är:
 
 1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
 
@@ -53,7 +53,7 @@ Som Microsoft Partner Network medlem har ditt företag tillgång till många fö
 
 #### <a name="current-view"></a>[Aktuell vy](#tab/current-view)
 
-Som Microsoft Partner Network medlem har ditt företag tillgång till många fördelar som kan hjälpa dig att växa i verksamheten. Så här tar du reda på vilka dessa fördelar är:
+Som Microsoft Partner Network medlem har ditt företag tillgång till många fördelar som kan hjälpa dig att öka din verksamhet. Så här tar du reda på vilka dessa fördelar är:
 
 1. Logga in på instrumentpanelen [i Partnercenter,](https://partner.microsoft.com/dashboard/home) **välj MPN** och välj sedan **Förmåner.**
 
@@ -87,5 +87,5 @@ Information om hur du kan använda dessa fördelar finns i [produktanvändningsg
 ## <a name="next-steps"></a>Nästa steg
 
 - [Associera Microsoft Learn konton](ms-learn-associate.md)
-- [Hantera dina Microsoft Partner Network och erbjudanden](manage-your-partner-network-benefits.md)
+- [Hantera Microsoft Partner Network och erbjudanden](manage-your-partner-network-benefits.md)
 - [Aktivera tekniska fördelar för medlemmar i Partner Membership Center (PMC)](./partner-membership-center-retirement-faq.md)

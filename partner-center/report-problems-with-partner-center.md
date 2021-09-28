@@ -9,16 +9,16 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ee4272003216e16813fabde5dae76d60ec515308
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 5532be819ba5da8bcd4a96e04e7f71d724470e07
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129075710"
+ms.locfileid: "129090226"
 ---
 # <a name="collecting-diagnostics-and-reporting-problems-in-partner-center"></a>Samla in diagnostik- och rapporteringsproblem i Partnercenter
 
-**Gäller för:** Partner Center | Partnercenter för Microsoft Cloud for US Government
+**Gäller för**: Partner Center-| Partnercenter för Microsoft Cloud for US Government
 
 **Lämpliga roller:** Alla partner som är intresserade av Partnercenter
 
@@ -28,7 +28,7 @@ Kontakta Partnercenter-supporten om du hittar problem eller behöver hjälp med 
 ## <a name="report-a-problem-with-the-partner-center"></a>Rapportera ett problem med Partnercenter
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om arbetsytegränssnittet och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
 

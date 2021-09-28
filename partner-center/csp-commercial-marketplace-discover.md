@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 991839f3675fb77c40ab08af623094e02521d6b3
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: b4914fa41c58ce9f36fc3ed95f4dc20fae4c769b
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129072258"
+ms.locfileid: "129089903"
 ---
 # <a name="discover-offers-and-pricing-in-partner-center-commercial-marketplace"></a>Upptäck erbjudanden och priser på den kommersiella marknadsplatsen i Partnercenter
 
@@ -37,7 +37,7 @@ Om ett ISV-erbjudande inte visas som förväntat i Partnercenter kan det beror p
 Så här visar du tillgängliga erbjudanden på den kommersiella marknadsplatsen i CSP-programmet:
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om gränssnittet för arbetsytor och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vyn Arbetsytor](#tab/workspaces-view)
 
@@ -102,7 +102,7 @@ CSP-programpartner kan också använda API:er för att returnera en lista över 
 Följ dessa steg för den senaste prisinformationen som är associerad med ett erbjudande:
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om gränssnittet för arbetsytor och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vyn Arbetsytor](#tab/workspaces-view)
 

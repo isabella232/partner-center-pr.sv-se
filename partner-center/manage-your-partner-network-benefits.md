@@ -9,14 +9,14 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d4dd46375b91c83757b2c236f81132a445abeef7
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: fee5b252a2717a573f9f3d66eca1519b65ffb693
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129073165"
+ms.locfileid: "129090158"
 ---
-# <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Hantera Microsoft Partner Network medlemskapsförmåner och erbjudanden i Partnercenter
+# <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Hantera Microsoft Partner Network medlemsförmåner och erbjudanden i Partnercenter
 
 **Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Administratörsagentens | MPN-partneradministratör
 
@@ -109,7 +109,7 @@ Om du vill aktivera licensbaserade prenumerationer klickar du på listrutan i li
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard) och välj **panelen** Fördelar.
 
-2. Välj **Visual Studio prenumerationer för** att se din lista över Visual Studio prenumerationer.
+2. Välj **Visual Studio prenumerationer för** att se din lista Visual Studio prenumerationer.
 
 3. Leta upp den prenumeration som du vill börja använda och välj sedan nedåtpilen längst till höger på raden för att expandera prenumerationens information.
 
@@ -127,7 +127,7 @@ Om du vill aktivera licensbaserade prenumerationer klickar du på listrutan i li
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard) och **välj MPN** och välj sedan **Förmåner.**
 
-1. Välj **Visual Studio prenumerationer för** att se din lista över Visual Studio prenumerationer.
+1. Välj **Visual Studio prenumerationer för** att se din lista Visual Studio prenumerationer.
 
 2. Leta upp den prenumeration som du vill börja använda och välj sedan nedåtpilen längst till höger på raden för att expandera prenumerationens information.
 
@@ -150,13 +150,13 @@ I det här avsnittet beskrivs hur du aktiverar och hanterar tekniska supportför
 Gör följande om du vill se tekniska fördelar med produktsupporten i Partnercenter:
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om arbetsytegränssnittet och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
 
 1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard).
 
-2. Välj panelen **Fördelar** och välj sedan **Tekniska förmåner.** Sidan Tekniska förmåner visar dina organisationers aktiva erbjudanden om guld, silver eller Microsoft Action Pack medlemskap.
+2. Välj panelen **Fördelar** och välj sedan **Tekniska förmåner.** På sidan Tekniska förmåner visas dina organisationers aktiva erbjudanden om guld, silver eller Action Pack Microsoft-medlemskap.
 
 3. Välj **Visa information för** att visa knappen Aktivera. Efter aktiveringen ser alla användare åtkomst-ID och kontrakt-ID.
 
@@ -166,7 +166,7 @@ Gör följande om du vill se tekniska fördelar med produktsupporten i Partnerce
 
 4. **Teknisk support (Break-fix).** Använd den här typen av teknisk support när funktionen är bruten eller när något inte fungerar som förväntat (till exempel när du får ett felmeddelande). Här är några riktlinjer:
 
-   - Signature Cloud Support: Endast för Guld-/Silver-kompetenspartner (inte tillgängligt för Action Pack-prenumeranter) använder du **Signature Product Support** for Cloud products (Signaturproduktsupport för **molnprodukter).**
+   - Signature Cloud Support: Endast för Guld-/Silver-kompetenspartner (inte tillgängligt för Action Pack-prenumeranter) använder du Signature Product Support for Cloud products **(Signaturproduktsupport för** **molnprodukter).**
 
    - Microsoft-produktsupport: För både Action Pack och Guld-/Silver-kompetenspartner använder  du **Microsofts produktsupportärenden** för de senaste lokala produkterna (endast aktuella och tidigare versioner).
 
@@ -179,7 +179,7 @@ Gör följande om du vill se tekniska fördelar med produktsupporten i Partnerce
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard).
 
-2. Välj **Fördelar** och sedan **Tekniska fördelar från** den vänstra navigeringsmenyn. På sidan Tekniska förmåner visas dina organisationers aktiva erbjudanden om guld, silver eller Action Pack Microsoft-medlemskap.
+2. Välj **Fördelar** och sedan **Tekniska fördelar från** den vänstra navigeringsmenyn. Sidan Tekniska förmåner visar dina organisationers aktiva erbjudanden om guld, silver eller Microsoft Action Pack medlemskap.
 
 3. Välj **Visa information för** att visa knappen Aktivera. Efter aktiveringen ser alla användare åtkomst-ID och kontrakt-ID.
 
@@ -189,7 +189,7 @@ Gör följande om du vill se tekniska fördelar med produktsupporten i Partnerce
 
 4. **Teknisk support (Break-fix).** Använd den här typen av teknisk support när funktionen är bruten eller när något inte fungerar som förväntat (till exempel när du får ett felmeddelande). Här är några riktlinjer:
 
-   - Signature Cloud Support: Endast för Guld-/Silver-kompetenspartner (inte tillgängligt för Action Pack-prenumeranter) använder du **Signature Product Support** for Cloud products (Signaturproduktsupport för **molnprodukter).**
+   - Signature Cloud Support: Endast för Guld-/Silver-kompetenspartner (inte tillgängligt för Action Pack-prenumeranter) använder du Signature Product Support for Cloud products **(Signaturproduktsupport för** **molnprodukter).**
 
    - Microsoft-produktsupport: För både Action Pack och Guld-/Silver-kompetenspartner använder  du **Microsofts produktsupportärenden** för de senaste lokala produkterna (endast aktuella och tidigare versioner).
 
@@ -206,7 +206,7 @@ Rådgivningstimmar för partner är den valuta som används för tekniska presal
 Om du vill se de tekniska förmånerna för dina rådgivningstimmar för partner i Partnercenter gör du följande:
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om arbetsytegränssnittet och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
 
@@ -244,7 +244,7 @@ Om du vill se de tekniska förmånerna för dina rådgivningstimmar för partner
 - MPN-partneradministratör
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om arbetsytegränssnittet och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
 
@@ -294,13 +294,13 @@ Om du vill se de tekniska förmånerna för dina rådgivningstimmar för partner
 5. Välj **Aktivera** för att aktivera erbjudandet.
 
    > [!NOTE]
-   > Det kan ta flera dagar att skicka e-postinstruktioner till den tilldelade marknadsföringskontakten och aktivera ett Go-To-Market-erbjudande. När erbjudandet har aktiverats visas ändringar på sidan Go-To-Market (Go-To-Market). I **kolumnen Status** ser du att erbjudandet har ändrats till **Aktiv**. I **kolumnen Upphör** att gälla visas det datum då erbjudandet upphör att gälla. Du kan använda det här erbjudandet fram till dess förfallodatum. Läs mer om [de olika typerna av Go-To-Market-resurser, erbjudanden och program som är](mpn-learn-about-go-to-market-benefits.md) tillgängliga.  
+   > Det kan ta flera dagar att skicka e-postinstruktioner till den tilldelade marknadsföringskontakten och aktivera ett Go-To-Market-erbjudande. När erbjudandet har aktiverats visas ändringar på sidan Go-To-Market (Go-To-Market). I **kolumnen Status** ser du att erbjudandet har ändrats till **Aktiv**. I kolumnen **Upphör** att gälla visas det datum då erbjudandet upphör att gälla. Du kan använda det här erbjudandet fram till förfallodatumet. Läs mer om [de olika typerna av Go-To-Market-resurser, erbjudanden och program som är](mpn-learn-about-go-to-market-benefits.md) tillgängliga.  
 
 * * *
 
 ## <a name="cancel-a-membership-benefit-or-offer"></a>Avbryta en medlemskapsförmån eller ett erbjudande
 
-Om du vill avbryta en förmån eller ett erbjudande och få en återbetalning måste du göra begäran inom 30 dagar efter köpet och inte ha aktiverat programvaruförmånerna. Begär annulleringen via en tjänstbegäran.
+För att kunna avbryta en förmån eller ett erbjudande och få en återbetalning måste du göra begäran inom 30 dagar efter köpet och inte ha aktiverat programvaruförmånerna. Begär annulleringen via en tjänstbegäran.
 
 ## <a name="next-steps"></a>Nästa steg
 

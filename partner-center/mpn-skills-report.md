@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 2f97e9f41efb3309c8a83bf5f70cad50a3aa057c
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 1ecb9d5ecd1a9a34423141009111b22fb1c659ac
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129074542"
+ms.locfileid: "129089971"
 ---
 # <a name="using-the-skills-report"></a>Använda kunskapsrapporten
 
@@ -56,7 +56,7 @@ Innan du kan visa kunskapsrapporten och börja tillämpa företagets kompetens f
 Följ de här stegen om du vill visa kunskapsrapportdata från Partnercenter.
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om gränssnittet för arbetsytor och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vyn Arbetsytor](#tab/workspaces-view)
 

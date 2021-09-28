@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a57ed239e331c43cbfeaf1d1c860972824e0f848
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: eb9fff7ddbf828cbf15ad447c66ed18dfcb0643b
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129072434"
+ms.locfileid: "129089185"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Faktureringsöversikt för CSP-programpartner som arbetar i Partnercenter 
 
@@ -25,7 +25,7 @@ Den här artikeln innehåller grundläggande fakturerings- och fakturainformatio
 ## <a name="find-your-bill"></a>Hitta din faktura
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om gränssnittet för arbetsytor och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vyn Arbetsytor](#tab/workspaces-view)
 
@@ -127,7 +127,7 @@ Det finns två typer av faktureringsfrekvenser: årlig och månatlig. Mätarpris
 
 - Betalningar debiteras för sålda licenser, inte etablerade licenser.
 
-#### <a name="monthly-billing-rules"></a>Månatliga faktureringsregler
+#### <a name="monthly-billing-rules"></a>Faktureringsregler per månad
 
 - Prenumerationer är månad för månad och förnyas automatiskt enligt de nya priserna för mätartjänster. Du debiteras varje månad för föregående månads användning.
 

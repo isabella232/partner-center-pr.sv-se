@@ -9,16 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4add716fe5fa5e5d9e3f9c027791c01bb61d9335
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 5934a1c50bc3d2a27f882e127bd8d18037097def
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129072237"
+ms.locfileid: "129089596"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Översikt över partnererbjudanden i programmet för molnlösningsleverantörer
 
-**Lämpliga roller:** Administratörsagent | Global | Försäljningsagent
+**Lämpliga roller:** Administratörsagent | Globala | Försäljningsagent
 
 Microsoft-partner i Molnlösningsleverantör program (CSP) har en växande katalog med erbjudanden som är tillgängliga för dem. Du kan sälja hela microsofts [molntjänster](https://partner.microsoft.com/cloud-solution-provider/products-and-services)och olika andra erbjudanden som ändras ofta. Om du vill se CSP-erbjudanden för den aktuella månaden loggar du in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard) och väljer **panelen** Prissättning.  
 
@@ -39,13 +39,13 @@ Mer information finns i Sell [Microsoft Azure Reserved VM Instances](azure-reser
 
 ### <a name="software"></a>Programvara
 
-Kunder kan köpa programvaruprenumerationer (till Windows Server och SQL Server för en period på 1 eller 3 år som ska köras på reserverade instanser av virtuella Azure-datorer).
+Kunder kan köpa programvaruprenumerationer (till Windows Server och SQL Server för en period på 1 eller 3 år som ska köras på azure-reserverade VM-instanser).
 
 Mer information finns i Sälja [programvaruprenumerationer via CSP.](csp-software-subscriptions.md)  
 
 ### <a name="online-services"></a>Onlinetjänster
 
-*Onlinetjänster* är det nya namnet på det som för närvarande kallas *prenumerationer.* För att göra det enklare för dig att beställa flera typer av produkter på ett och samma ställe har vi integrerat uppgiftsflödet "Lägg till prenumeration" i uppgiftsflödet "Lägg till produkter".
+*Onlinetjänster* är det nya namnet på det som för närvarande kallas *prenumerationer.* För att göra det enklare för dig att beställa flera typer av produkter på ett och samma ställe har vi integrerat uppgiftsflödet "Lägg till prenumeration" i uppgiftsflödet "lägg till produkter".
 
 Mer information finns i [Kundprenumerationer.](customer-subscriptions.md)
 
@@ -62,7 +62,7 @@ Mer information finns i Översikt [över den kommersiella marknadsplatsen för C
 
 ## <a name="add-products-page-details"></a>Lägg till information på produktsidan
 
-I följande lista visas vart och ett av de nya områdena på sidan **Lägg till** produkter.
+I följande lista visas vart och ett av de nya områdena på **sidan Lägg till** produkter.
 
 **Lägg till produkter** – Den här sidan innehåller alla typer av produkter som du kan sälja till dina kunder
 
@@ -74,14 +74,14 @@ I följande lista visas vart och ett av de nya områdena på sidan **Lägg till*
 
 **Faktureringstyp** – Anger om produkten faktureras för antal licenser eller för användning
 
-**Kategori** – Identifierar vilken typ av företag som produkten stöder och om den erbjuder en utvärderingsversion
+**Kategori** – Identifierar den typ av verksamhet som produkten stöder och om den erbjuder en utvärderingsversion
 
 **Visa SKU, visa produkt** – Välj för att växla mellan produkt- och SKU-listor. På **sidan Produkter** visas varje produkt individuellt. **SKU visar** en lista över produktgrupper.
 
 ## <a name="buy-csp-offers"></a>Köp CSP-erbjudanden
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om gränssnittet för arbetsytor och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vyn Arbetsytor](#tab/workspaces-view/)
 
@@ -123,7 +123,7 @@ Om du vill köpa produkter och tjänster åt dina CSP-kunder väljer du de objek
 > [!NOTE]
 > Ett CSP-erbjudande måste vara tillgängligt både i klientorganisationens land och i kundens klientorganisationsland. Om din klientorganisation till exempel finns i Det här och kundens klientorganisation finns i Tyskland, kommer du inte att kunna sälja Dynamics 365 Business Central Premium till den kunden, eftersom det här erbjudandet för närvarande inte är tillgängligt i Det här erbjudandet.
 
-1. Från instrumentpanelen i Partnercenter **väljer du Kunder** och letar sedan reda på den kund som vill köpa från dig.
+1. På instrumentpanelen i Partnercenter **väljer du Kunder** och letar sedan reda på den kund som vill köpa från dig.
 
 2. Välj nedåtpilen i slutet av kundens rad för att expandera kundens post och välj sedan Lägg **till produkter.** Från och med nu så skapar du en order. En order kan omfatta flera objekt av olika typer, men de måste vara till samma kund.
 
@@ -165,7 +165,7 @@ Det kan finnas olika orsaker till att du inte kan hitta erbjudandet som du letar
 
 - **Kontrollera att produkterna är tillgängliga på din marknad**. Många produkter och tjänster har konfigurerats för att endast säljas till kunder i vissa länder. Du hittar en lista över länder som stöds i de olika prislistefilerna. Länder med stöd för licensbaserade tjänster finns i matrisen för erbjudandelistan på sidan med priser och erbjudanden.
 
-- **Kontrollera att erbjudandena är tillgängliga i prislistan.** Den tillgängliga listan med erbjudanden kan ändras från månad till månad. Om du inte hittar något erbjudande i katalogen kontrollerar du att det är tillgängligt i de aktuella prislistorna på sidan **Säljpriser > erbjudanden.**
+- **Kontrollera att erbjudandena är tillgängliga i prislistan.** Den tillgängliga listan med erbjudanden kan ändras från månad till månad. Om du inte hittar något erbjudande i katalogen kontrollerar du att det är tillgängligt i de aktuella prislistorna på > **och erbjudanden.**
 
 ### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>Rekommenderade dokument som rör inköp av objekt i Partnercenter
 

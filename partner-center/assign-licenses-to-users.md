@@ -9,16 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dca930586fd17e9c70e80455802cf3f587170a42
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: eb4163a2db470bec7c09c4a800f01becce4e21d3
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129070490"
+ms.locfileid: "129088899"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Hantera användare och användarlicenser för kundkonton 
 
-**Lämpliga roller:** Globala | Administratörsbehörighet för | Administratörsagent
+**Lämpliga roller:** Global | Administratörsbehörighet för användarhantering | Administratörsagent
 
 Du kan skapa och ta bort nya användare i en kunds konto. Du kan också återställa ett eller flera användarkonton som du tidigare har tagit bort inom 30 dagar efter borttagningen. Användarens tidigare prenumerationstilldelningar återställs också (förutsatt att deras tidigare allokeringar är tillgängliga).
 
@@ -27,22 +27,22 @@ När du köper nya prenumerationer för en kund bör kunden ge dig en lista öve
 > [!NOTE]
 > Avsnittet **Användare och**  licenser på fliken Kund visar alla användare som skapats i en specifik kunds klientorganisation, inklusive användare som har köpt licenser från en annan CSP-partner eller från en annan inköpskanal.
 
-Du kan [tilldela prenumerationer till flera användare](bulk-license-provisioning-for-multiple-users.md) samtidigt genom att importera namnen med hjälp Excel en .csv [kalkylbladsfil](adding-multiple-users-to-a-customer-account.md).
+Du kan [tilldela prenumerationer till flera användare](bulk-license-provisioning-for-multiple-users.md) samtidigt genom att importera namnen med hjälp Excel en .csv [kalkylbladsfil.](adding-multiple-users-to-a-customer-account.md)
 
 <a href="" id="createuseraccounts"></a>
 
 ## <a name="create-user-accounts-for-a-customer"></a>Skapa användarkonton för en kund
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om gränssnittet för arbetsytor och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
-#### <a name="workspaces-view"></a>[Vyn Arbetsytor](#tab/workspaces-view)
+#### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
 
-1. På [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard)väljer **du panelen** Kunder och sedan kunden i listan Kund.
+1. På [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard)väljer **du panelen** Kunder och väljer sedan kunden i listan Kund.
 
 2. I kundmenyn väljer du **Användare och licenser.**
 
-3. För varje användare som du lägger till **väljer du Lägg till** prenumeration och fyller sedan i informationen, inklusive behörigheter och licenser. **Spara** ändringarna.
+3. För varje användare som du lägger till **väljer du Lägg** till prenumeration och fyller sedan i informationen, inklusive behörigheter och licenser. **Spara** ändringarna.
 
 4. Se till att registrera användarnamnet och det tillfälliga lösenordet som ska skickas till användaren.
 
@@ -56,7 +56,7 @@ Du kan [tilldela prenumerationer till flera användare](bulk-license-provisionin
 
 2. I kundmenyn väljer du **Användare och licenser.**
 
-3. För varje användare som du lägger till **väljer du Lägg till** prenumeration och fyller sedan i informationen, inklusive behörigheter och licenser. **Spara** ändringarna.
+3. För varje användare som du lägger till **väljer du Lägg** till prenumeration och fyller sedan i informationen, inklusive behörigheter och licenser. **Spara** ändringarna.
 
 4. Se till att registrera användarnamnet och det tillfälliga lösenordet som ska skickas till användaren.
 
@@ -73,15 +73,15 @@ Du kan [tilldela prenumerationer till flera användare](bulk-license-provisionin
 Följande steg gäller för att lägga till eller ta bort användarlicenser för Microsoft-produkter. Om du vill lägga till eller ta bort användarlicenser för licensbaserade SaaS-prenumerationer på den kommersiella marknadsplatsen kan du läsa Lägga till eller ta bort licenser för [en SaaS-prenumeration.](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription)
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om gränssnittet för arbetsytor och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
-#### <a name="workspaces-view"></a>[Vyn Arbetsytor](#tab/workspaces-view)
+#### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
 
-1. På [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard)väljer **du panelen** Kunder och sedan kunden i listan Kund.
+1. På [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard)väljer **du panelen** Kunder och väljer sedan kunden i listan Kund.
 
 2. I kundmenyn väljer du **Användare och licenser.**
 
-3. Välj en eller flera användare i listan. Om kunden till exempel precis har köpt nya licenser och du vill tilldela dem till personer som inte har dem ännu, kan du använda alternativet **Filtrera användare efter...** för att hitta rätt grupp.
+3. Välj en eller flera användare i listan. Om kunden till exempel precis har köpt nya licenser och du vill tilldela dem till personer som inte har dem ännu kan du använda alternativet Filtrera användare **efter...** för att hitta rätt grupp.
 
 4. Välj **Hantera licenser**. Gör dina ändringar och spara **sedan**.
 
@@ -94,7 +94,7 @@ Följande steg gäller för att lägga till eller ta bort användarlicenser för
 
 2. I kundmenyn väljer du **Användare och licenser.**
 
-3. Välj en eller flera användare i listan. Om kunden till exempel precis har köpt nya licenser och du vill tilldela dem till personer som inte har dem ännu, kan du använda alternativet **Filtrera användare efter...** för att hitta rätt grupp.
+3. Välj en eller flera användare i listan. Om kunden till exempel precis har köpt nya licenser och du vill tilldela dem till personer som inte har dem ännu kan du använda alternativet Filtrera användare **efter...** för att hitta rätt grupp.
 
 4. Välj **Hantera licenser**. Gör dina ändringar och spara **sedan**.
 
@@ -108,9 +108,9 @@ Följande steg gäller för att lägga till eller ta bort användarlicenser för
 ## <a name="reset-a-users-password-for-a-customer"></a>Återställa en användares lösenord för en kund
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om gränssnittet för arbetsytor och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
-#### <a name="workspaces-view"></a>[Vyn Arbetsytor](#tab/workspaces-view)
+#### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
 
 1. Logga in på [instrumentpanelen i Partnercenter,](https://partner.microsoft.com/dashboard) **välj** panelen Kunder och välj sedan kunden i listan Kund.
 
@@ -122,7 +122,7 @@ Följande steg gäller för att lägga till eller ta bort användarlicenser för
 
 #### <a name="current-view"></a>[Aktuell vy](#tab/current-view)
 
-1. Logga in på [instrumentpanelen i Partnercenter,](https://partner.microsoft.com/dashboard)välj Kunder och välj sedan kunden i listan Kund. 
+1. Logga in på [instrumentpanelen i Partnercenter,](https://partner.microsoft.com/dashboard) **välj** Kunder och välj sedan kunden i listan Kund.
 
 2. I kundmenyn väljer du **Användare och licenser.** Välj användaren i listan.
 
@@ -137,11 +137,11 @@ Följande steg gäller för att lägga till eller ta bort användarlicenser för
 ## <a name="delete-user-accounts-for-a-customer"></a>Ta bort användarkonton för en kund
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om gränssnittet för arbetsytor och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
-#### <a name="workspaces-view"></a>[Vyn Arbetsytor](#tab/workspaces-view)
+#### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
 
-1. På [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard)väljer **du panelen** Kunder och sedan kunden i listan Kund.
+1. På [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard)väljer **du panelen** Kunder och väljer sedan kunden i listan Kund.
 
 2. I kundmenyn väljer du **Användare och licenser.** Välj användaren i listan.
 
@@ -166,17 +166,17 @@ Om du behöver återställa det här kontot  hittar du det på fliken Borttagna 
 ## <a name="restore-deleted-user-accounts"></a>Återställa borttagna användarkonton
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om gränssnittet för arbetsytor och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
-#### <a name="workspaces-view"></a>[Vyn Arbetsytor](#tab/workspaces-view)
+#### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
 
-1. På [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard)väljer **du panelen** Kunder och sedan kunden i listan Kund.
+1. På [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard)väljer **du panelen** Kunder och väljer sedan kunden i listan Kund.
 
 2. Välj **Användare och licenser.**
 
-3. Välj **fliken Borttagna** användare ( ). Den bör läsa **(1)** eller högre när det finns borttagna användare som kan återställas.
+3. Välj fliken **Borttagna** användare ( ). Den bör läsa **(1)** eller högre när det finns borttagna användare som kan återställas.
 
-4. Markera en eller flera av de borttagna användarnas kryssrutor och välj sedan **Återställ**.
+4. Markera en eller flera av de borttagna användarnas kryssrutor och välj sedan **Återställ.**
 
     Alla valda användarkonton visas igen på sidan **Användare och** licenser.
 
@@ -186,9 +186,9 @@ Om du behöver återställa det här kontot  hittar du det på fliken Borttagna 
 
 2. Välj **Användare och licenser.**
 
-3. Välj **fliken Borttagna** användare ( ). Den bör läsa **(1)** eller högre när det finns borttagna användare som kan återställas.
+3. Välj fliken **Borttagna** användare ( ). Den bör läsa **(1)** eller högre när det finns borttagna användare som kan återställas.
 
-4. Markera en eller flera av de borttagna användarnas kryssrutor och välj sedan **Återställ**.
+4. Markera en eller flera av de borttagna användarnas kryssrutor och välj sedan **Återställ.**
 
     Alla valda användarkonton visas igen på sidan **Användare och** licenser.
 

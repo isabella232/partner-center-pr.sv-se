@@ -9,18 +9,18 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4d7f60254383ed6aee8c228a422dcb8f15730c22
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 6e42bd8c2e8cd4c5309042b8fe14eb9943dabc24
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129070210"
+ms.locfileid: "129088798"
 ---
 # <a name="create-a-partner-logo-certified-letter-or-award-logo"></a>Skapa en partnerlogotyp, certifierat brev eller en prislogotyp
 
 **Lämpliga roller:** Alla partner som är intresserade av att lära sig mer om Logo Builder
 
-Om du vill visa upp din silver- eller guldkompetens kan du använda Logo Builder i Partnercenter för att skapa en logotyp som ska användas på ditt försäljnings- och marknadsföringsmaterial och på din företagsprofil i Partnercenter. Om du har godkänts i Azure Expert-leverantör av hanterade tjänster-programmet (MSP), fått en årspartner eller har köpt Microsoft Action Pack, är logotyper för ditt deltagande i dessa program också tillgängliga i Logo Builder. Du kan använda biblioteket i Logo Builder för att lagra dina tillgångar och du kan ladda ned dem när du är redo att skapa försäljnings- och marknadsföringsmaterial.
+Om du vill visa upp din silver- eller guldkompetens kan du använda Logo Builder i Partnercenter för att skapa en logotyp som ska användas på ditt försäljnings- och marknadsföringsmaterial och på din företagsprofil i Partnercenter. Om du dessutom har godkänts i Azure Expert-leverantör av hanterade tjänster-programmet (MSP), har fått en årspartner eller har köpt Microsoft Action Pack, är logotyper för ditt deltagande i dessa program också tillgängliga i Logo Builder. Du kan använda biblioteket i Logo Builder för att lagra dina tillgångar och du kan ladda ned dem när du är redo att skapa försäljnings- och marknadsföringsmaterial.
 
 ## <a name="what-is-available-in-logo-builder"></a>Vad är tillgängligt i Logo Builder
 
@@ -54,7 +54,7 @@ Tidigare skapade och sparade logotyper är tillgängliga i ditt **nyligen sparad
 Om du har skapat logotyper tidigare väljer du Visa alla **för** att visa hela biblioteket.
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om arbetsytegränssnittet och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
 
@@ -71,7 +71,7 @@ Om du har skapat logotyper tidigare väljer du Visa alla **för** att visa hela 
 6. Använd sedan följande steg för att anpassa din logotyp:
     1. I **Tillgängliga kompetenser** väljer du kompetenser för logotypen. När du väljer värden kan du använda upp- och ned-symbolerna bredvid värdena för att ändra i vilken ordning kompetenserna eller programmen ska visas.
     2. I **Logotypnamn** anger du ett namn på din logotyp.
-    3. När du är klar med att anpassa logotypen väljer du Spara **eller** Spara & **hämta**.
+    3. När du är klar med att anpassa logotypen väljer du **Spara eller** Spara & **ladda ned**.
 
 #### <a name="current-view"></a>[Aktuell vy](#tab/current-view)
 
@@ -90,14 +90,14 @@ Om du har skapat logotyper tidigare väljer du Visa alla **för** att visa hela 
 6. Använd sedan följande steg för att anpassa din logotyp:
     1. I **Tillgängliga kompetenser** väljer du kompetenser för logotypen. När du väljer värden kan du använda upp- och ned-symbolerna bredvid värdena för att ändra i vilken ordning kompetenserna eller programmen ska visas.
     2. I **Logotypnamn** anger du ett namn på din logotyp.
-    3. När du är klar med att anpassa logotypen väljer du Spara **eller** Spara & **hämta**.
+    3. När du är klar med att anpassa logotypen väljer du **Spara eller** Spara & **ladda ned**.
 
 * * *
 
 ## <a name="create-a-certified-letter-using-logo-builder"></a>Skapa ett certifierat brev med Logo Builder
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om arbetsytegränssnittet och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
 
@@ -142,7 +142,7 @@ Om du har skapat logotyper tidigare väljer du Visa alla **för** att visa hela 
 ## <a name="create-an-award-logo-using-logo-builder"></a>Skapa en prislogotyp med Logo Builder
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om arbetsytegränssnittet och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
 
@@ -158,28 +158,28 @@ Om du har skapat logotyper tidigare väljer du Visa alla **för** att visa hela 
 
 6. Använd sedan följande steg för att anpassa din prislogotyp:
     1. I **Tillgängliga priser** väljer du det pris som du vill ha på logotypen.
-    2. I **Award name**(Prisnamn) anger du ett namn på din logotyp.
+    2. I **Award name**(Prisnamn) anger du ett namn för din logotyp.
     3. När du är klar med att anpassa din prislogotyp väljer **du Spara** eller Spara & **ladda ned**.
 
 #### <a name="current-view"></a>[Aktuell vy](#tab/current-view)
 
 1. Logga in på instrumentpanelen i [Partnercenter](https://partner.microsoft.com/dashboard) med ditt arbetskonto.
 
-2. På menyn i Partnercenter går du **till Förmåner** och väljer **Logo Builder.**
+2. På menyn i Partnercenter går du till **Förmåner** och väljer **Logo Builder.**
 
-3. Under **Skapa din logotyp** går du till rutan **Priser** och väljer plustecknet.
+3. Under **Skapa din logotyp** går du till rutan Priser och väljer plustecknet. 
 
-4. I **listrutan Select award year (&** award year (Välj prisår) väljer du prisåret. Tillgängliga mallar visas under den nedrullningsna menyn.
+4. I **listrutan Select award year (&** award year (Välj år för pris) väljer du året för priset. Tillgängliga mallar visas under den nedrullningsna menyn.
 
 5. Välj **Skapa** för den mall som du vill använda.
 
 6. Använd sedan följande steg för att anpassa din prislogotyp:
     1. I **Tillgängliga priser** väljer du det pris som du vill ha på logotypen.
     2. I **Award name**(Prisnamn) anger du ett namn på din logotyp.
-    3. När du är klar med att anpassa din prislogotyp väljer **du Spara** eller Spara & **ladda ned**.
+    3. När du är klar med att anpassa din prislogotyp väljer du **Spara** eller **Spara & ladda ned**.
 
 * * *
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Lär dig mer om go-to-market-förmåner](mpn-learn-about-go-to-market-benefits.md)
+- [Lär dig mer om fördelarna med att ta till marknaden](mpn-learn-about-go-to-market-benefits.md)

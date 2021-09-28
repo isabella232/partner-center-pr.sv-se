@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-referrals
-description: Som kvalificerad Microsoft-partner kan du samarbeta med Microsoft. Lär dig hur du definierar avtal, bjuder in Microsoft att samarbeta eller visar skickade avtal.
+description: Som kvalificerad Microsoft-partner kan du samarbeta med Microsoft. Lär dig hur du definierar avtal, bjuder in Microsoft att samarbeta eller visa skickade avtal.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 986022da183b4d7a2e31b700b1dcfca34de64f98
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 9d9c33d2f30b4a1c3be96336686ff8ac88baf4f9
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129070838"
+ms.locfileid: "129088577"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Hantera möjligheter till säljförsäljning i Partnercenter
 
@@ -24,41 +24,41 @@ Som Microsoft-partner kan du nu dra full nytta av möjligheter till säljförsä
 
 ## <a name="types-of-co-sell-opportunities"></a>Typer av möjligheter till säljförsäljning
 
-Möjligheter till säljförsäljning är den plats där en eller flera Microsoft-säljare aktivt ingår i avtalet för att lösa ett kundproblem. Affärsmöjligheter kan komma från ett kundkonto där en Microsoft-säljare bjuder in partnern att delta i en samförsäljningsaktivitet eller från en partner där de behöver mer hjälp från Microsofts säljrepresentant för att stänga avtalet.
+Möjligheter till säljförsäljning är den plats där en eller flera Microsoft-säljare aktivt deltar i avtalet för att lösa ett kundproblem. Affärsmöjligheter kan komma från ett kundkonto där en Microsoft-säljare bjuder in partnern att delta i en samförsäljningsaktivitet eller från en partner där de behöver mer hjälp från Microsofts säljrepresentant för att stänga avtalet.
 
-**Möjligheter till säljförsäljning** – Det är här en eller flera Microsoft-säljare aktivt deltar i avtalet för att lösa ett kundproblem. Affärsmöjligheter kan komma från ett kundkonto där en Microsoft-säljare bjuder in partnern att delta i en samförsäljningsaktivitet eller från en partner där de behöver mer hjälp från Microsofts säljrepresentant för att stänga avtalet.
+**Möjligheter till säljförsäljning** – Det är här som en eller flera Microsoft-säljare aktivt deltar i avtalet för att lösa ett kundproblem. Affärsmöjligheter kan komma från ett kundkonto där en Microsoft-säljare bjuder in partnern att delta i en samförsäljningsaktivitet eller från en partner där de behöver mer hjälp från Microsofts säljrepresentant för att stänga avtalet.
 
-**Partner till partner (P2P)** – Här kan en partner bjuda in andra partner i Microsofts ekosystem för säljförsäljning för att samarbeta. Partner kan också bjuda in en Microsoft-säljare till avtalet för att stänga avtalet. Både partner och Microsoft kan bjudas in även efter att de har skapat ett avtal, så länge det är klart. (Observera att slutförande inkluderar vann, förlorad, nekad och har upphört att gälla.)
+**Partner till partner (P2P)** – Här kan en partner bjuda in andra partner i Microsofts ekosystem för säljförsäljning för att samarbeta. Partner kan också bjuda in en Microsoft-säljare till avtalet för att stänga avtalet. Både partner och Microsoft kan bjudas in även efter att ha skapat ett avtal, så länge det är klart. (Observera att slutförande inkluderar won, lost, declined och expired.)
 
-**Privat avtal** – Det här är när en partner bestämmer sig för att arbeta oberoende av ett avtal som har skapats i Partnercenter. Partner kan ge insyn i Microsofts säljteam eller bjuda in Microsoft-säljare som vill ha aktiv hjälp efter att ha skapat avtalet. Informationen om avtalet delas inte med Microsofts säljteam förrän partnern uttryckligen väljer Ja för frågan "Vill du att Microsoft-säljare ska kunna se det här avtalet?" eller be Microsofts säljteam om hjälp genom att välja något av alternativen för frågan "Identifiera vilken typ av hjälp du behöver från Microsoft?".
+**Privat avtal** – Det här är när en partner bestämmer sig för att arbeta oberoende av ett avtal som har skapats i Partnercenter. Partner kan ge insyn i Microsofts säljteam eller bjuda in Microsoft-säljare som vill ha aktiv hjälp när de har skapat avtalet. Informationen om avtalet delas inte med Microsofts säljteam förrän partnern uttryckligen väljer Ja för frågan "Vill du att Microsoft-säljare ska kunna visa det här avtalet?" eller be Microsofts säljteam om hjälp genom att välja något av alternativen för frågan "Identifiera vilken typ av hjälp du behöver från Microsoft?".
 
-**Partnerledt avtal** – Det här är avtal där en partner bestämmer sig för att arbeta oberoende av varandra, men det är okej att ge insyn i avtalsinformationen till Microsofts säljteamsmedlemmar. Partner kan bjuda in Microsoft-säljare när de har skapat avtalet. Dessa avtal är berättigade till avtalsregistrering när en incitamentberättigad lösning ingår i avtalet. Att bjuda in Microsoft-säljare krävs inte för avtalsregistrering om kriterierna för berättigade incitamentlösningar uppfylls. Du kan göra ett avtal med partnerledt avtal genom att svara ja på frågan "Vill du att Microsoft-säljare ska se det här avtalet?"
+**Partnerledt avtal** – Det här är avtal där en partner bestämmer sig för att arbeta oberoende av varandra, men det är okej att ge insyn i avtalsinformationen till Microsofts säljteamsmedlemmar. Partner kan bjuda in Microsoft-säljare när de har skapat avtalet. Dessa avtal är berättigade till avtalsregistrering när en berättigad incitamentslösning ingår i avtalet. Att bjuda in Microsoft-säljare krävs inte för avtalsregistrering om kriterierna för berättigade incitament är uppfyllda. Du kan göra ett avtal med partnerledt avtal genom att svara ja på frågan "Vill du att Microsoft-säljare ska se det här avtalet?"
 
-**Lösningsbedömning (SA)** – Dessa typer av avtal kan bara skapas av en uppsättning partner som granskas av affärsteamet för lösningsutvärderingar för att utföra tekniska utvärderingar för kunder som använder eller planerar att använda Microsoft-tekniker.
-
-> [!NOTE]
-> Privata avtal ingår, även om de inte är verkligt samarbetsinriktade, på fliken möjligheter till säljförsäljning för att tillhandahålla en enkel väg att uppgradera ett pipeline-avtal till en möjlighet till säljförsäljning i alla icke-terminalfaser **(vann, förlorade,** avvisade och utgångna ).
-
-## <a name="access-the-co-sell-section"></a>Gå till avsnittet Sälj sälj
+**Solution Assessment (SA)** – Dessa typer av avtal kan endast skapas av en uppsättning partner som granskas av affärsteamet för lösningsutvärderingar för att utföra tekniska utvärderingar för kunder som använder eller planerar att använda Microsoft-tekniker.
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om gränssnittet för arbetsytor och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Privata avtal ingår, även om de inte är helt samarbetsinriktade, på fliken möjligheter till säljförsäljning för att tillhandahålla en enkel väg för att uppgradera pipeline-avtal till en möjlighet till samförsäljning i alla icke-terminalfaser (**vann, förlorade,** avvisade och utgångna ).
 
-#### <a name="workspaces-view"></a>[Vyn Arbetsytor](#tab/workspaces-view/)
+## <a name="access-the-co-sell-section"></a>Få åtkomst till avsnittet Säljförsäljning
+
+> [!NOTE]
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view/)
 
 Följ dessa steg för att få åtkomst till avsnittet Sälj sälj:
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard).
 
-2. Välj panelen **Referenser och** välj sedan Möjligheter **till säljförsäljning.**
+2. Välj panelen **Referenser** och välj sedan **Möjligheter till säljförsäljning.**
 
    Du ser tre flikar på den översta nivån i det här avsnittet:
 
-   - **Inkommande** – Alla möjligheter som skickas till partnern från Microsoft-säljare för samarbetsförsäljning finns på den här fliken.
+   - **Inkommande** – Alla affärsmöjligheter som skickas till partnern från Microsoft-säljare för samarbetsförsäljning finns på den här fliken.
 
    - **Utgående** – Alla affärsmöjligheter som skapas av partnern är tillgängliga på den här fliken. Partner kan skapa tre olika kategorier av affärsmöjligheter – samförsäljning, privat och partner till partner.
 
-   - **Favoriter** – Affärsmöjligheter som markerats som favoriter på flikarna Inkommande eller Utgående säljmöjligheter visas på den här fliken. Markera en affärsmöjlighet som favorit genom att klicka på hjärtikonen för affärsmöjligheten i listvyn. Du kan ta bort affärsmöjligheten från favoriter genom att klicka på samma ikon igen.
+   - **Favoriter** – Affärsmöjligheter markerade som favoriter på flikarna Inkommande eller Utgående säljmöjligheter visas på den här fliken. Markera en affärsmöjlighet som favorit genom att klicka på hjärtikonen för affärsmöjligheten i listvyn. Du kan ta bort affärsmöjligheten från favoriter genom att klicka på samma ikon igen.
 
 #### <a name="current-view"></a>[Aktuell vy](#tab/current-view/)
 
@@ -70,11 +70,11 @@ Följ dessa steg för att få åtkomst till avsnittet Sälj sälj:
 
    Du ser tre flikar på den översta nivån i det här avsnittet:
 
-   - **Inkommande** – Alla möjligheter som skickas till partnern från Microsoft-säljare för samarbetsförsäljning finns på den här fliken.
+   - **Inkommande** – Alla affärsmöjligheter som skickas till partnern från Microsoft-säljare för samarbetsförsäljning finns på den här fliken.
 
    - **Utgående** – Alla affärsmöjligheter som skapas av partnern är tillgängliga på den här fliken. Partner kan skapa tre olika kategorier av affärsmöjligheter – samförsäljning, privat och partner till partner.
 
-   - **Favoriter** – Affärsmöjligheter som markerats som favoriter på flikarna Inkommande eller Utgående säljmöjligheter visas på den här fliken. Markera en affärsmöjlighet som favorit genom att klicka på hjärtikonen för affärsmöjligheten i listvyn. Du kan ta bort affärsmöjligheten från favoriter genom att klicka på samma ikon igen.
+   - **Favoriter** – Affärsmöjligheter markerade som favoriter på flikarna Inkommande eller Utgående säljmöjligheter visas på den här fliken. Markera en affärsmöjlighet som favorit genom att klicka på hjärtikonen för affärsmöjligheten i listvyn. Du kan ta bort affärsmöjligheten från favoriter genom att klicka på samma ikon igen.
 
 * * *
 
@@ -83,29 +83,29 @@ Följ dessa steg för att få åtkomst till avsnittet Sälj sälj:
 > [!IMPORTANT]
 > För att kunna samsälja med Microsoft behöver partners en kommersiellt färdig lösning, ett engagerat säljteam och en bra strategi för att komma ut på marknaden. De måste också uppfylla vissa ytterligare kriterier. Mer information finns i [Bli redo för säljförsäljning.](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready)
 
-Om du vill skapa en affärsmöjlighet i Partnercenter klickar du **på knappen** Nytt avtal på fliken Möjligheter **till säljförsäljning.**
+Om du vill skapa en affärsmöjlighet i Partnercenter klickar **du på** knappen Nytt avtal på fliken Möjligheter **till säljförsäljning.**
 
-### <a name="select-your-customer"></a>Välj kund
+### <a name="select-your-customer"></a>Välj din kund
 
-Välj kund för ett specifikt avtal. Ange deras plats och börja skriva namnet. Förslagsrutan börjar visa rekommendationer baserat på sökvillkoren. Eftersom många företag har fler än en affärsenhet på samma plats kan du se flera resultat. Om du inte är säker på vilket du ska välja kan du bekräfta vilket D-U-N-S-nummer som tillhör din kund. Se till att välja den exakta matchningen för kunden som du arbetar med.
+Välj kunden för ett specifikt avtal. Ange deras plats och börja skriva namnet. Förslagsrutan börjar visa rekommendationer baserat på sökvillkoren. Eftersom många företag har fler än en affärsenhet på samma plats kan du se flera resultat. Om du inte är säker på vilket du ska välja kan du bekräfta vilket D-U-N-S-nummer som tillhör kunden. Se till att välja den exakta matchningen för kunden som du arbetar med.
 
-När du **klickar på** Välj kund uppmanas du att ange namn, telefonnummer och e-postadress för den person som är din huvudsakliga kontaktpunkt för avtalet. Den här informationen är valfri och krävs bara om du planerar att bjuda in Microsoft-försäljning för att hjälpa dig med engagemanget. Välj **Nästa**.
+När du **klickar på** Välj kund uppmanas du att ange namn, telefonnummer och e-postadress för den person som är din huvudsakliga kontaktpunkt för detta avtal. Den här informationen är valfri och krävs bara om du planerar att bjuda in Microsoft-försäljning för att hjälpa dig med engagemanget. Välj **Nästa**.
 
 > [!IMPORTANT]
-> Se till att du har fått kundens medgivande att lämna sin kontaktinformation till Microsoft för avtalet. Microsoft kan använda den här informationen för att kontakta kunden direkt.
+> Se till att du har fått kundens medgivande att tillhandahålla kontaktinformation till Microsoft för avtalet. Microsoft kan använda den här informationen för att kontakta kunden direkt.
 
 ### <a name="deal-details"></a>Avtalsinformation
 
 Ange information om det aktuella avtalet. Fälten som definieras nedan kan ändras när du arbetar aktivt med kunden för att stänga avtalet.
 
-| **Fältnamn** | **Obligatoriskt/valfritt** | **Information** |
+| **Fältnamn** | **Obligatorisk/valfri** | **Information** |
 |-------------|--------|-------|
 |**Avtalsnamn** | Obligatorisk | Det egna namnet för att identifiera ditt avtal vid ett senare tillfälle. |
-|**Plats**| Obligatorisk | MPN-platsomfånget för hänvisningen. Hänvisningsanvändare med det här platsomfånget kan visa hänvisningarna om de ingår i teamet. Referensadministratörer och hänvisningsadministratörer med globalt omfång kan visa hänvisningar oavsett plats. Det går inte att redigera platsen när du har skapat referensen.|
+|**Plats**| Obligatorisk | MPN-platsomfånget för hänvisningen. Hänvisningsanvändare med det här platsomfånget kan visa hänvisningarna om de ingår i teamet. Referensadministratörer och referensadministratörer med globalt omfång kan visa hänvisningar oavsett plats. Det går inte att redigera platsen när du har skapat referensen.|
 |**Beräknat värde** | Obligatorisk | Värdet för avtalet baserat på den information som är tillgänglig när avtalet skapas.|
 |**Beräknat stängningsdatum**| Obligatorisk| Det datum då du förväntar dig att avsluta avtalet med kunden. |
 |**CRM-ID**| Valfritt | Tagga avtalet med ID:t för affärsmöjligheten i din respektive CRM i spårningssyfte.|
-|**Marknadsföringskampanj-ID**| Valfritt | Samla in marknadsföringskampanjen som resulterade i avtalet. Den här arkiverade kan hjälpa dig att spåra ROI för en viss kampanj om du taggar alla avtal som kommer från kampanjen med samma ID.|
+|**Marknadsföringskampanj-ID**| Valfritt | Samla in marknadsföringskampanjen som resulterade i avtalet. Den här arkiverade kan hjälpa dig att spåra roi för en viss kampanj om du taggar alla avtal som kommer från kampanjen med samma ID.|
 |**Kommentarer**| Valfritt | Uppdatera all den senaste informationen för att ge insyn till andra anställda från ditt företag som arbetar med samma avtal eller försöker förstå det aktuella tillståndet för avtalet. Du kan också använda detta som en kommunikation om registrering för diskussioner mellan Microsoft-säljare/andra partner med ditt företag.|
 
 ### <a name="add-team-members"></a>Lägga till teammedlemmar
@@ -194,7 +194,7 @@ Nedan visas tabellen med försäljningsstadier och motsvarande procentandelar f�
 |Förhandlat|80 %|Förhandla om de slutliga villkoren baserat på förslaget att komma till sluttillståndet – att vinna eller förlora avtalet.|
 |Vann|100 %|Markera avtalet som vunnit.|
 
-När du är klar kan du utföra någon av de två  åtgärderna, som markerar avtalet som Won (Won) eller **Lost (Förlorad)** för att rapportera resultatet.
+När du är klar kan du utföra någon av de två  åtgärderna, som markerar avtalet som Won (Vunnit) eller **Lost (Förlorad)** för att rapportera resultatet.
 
 Det är inte nödvändigt att ditt företag följer samma försäljningsfaser. Det är så Partnercenter identifierar avtalsförsäljningsstegen och mappar automatiskt företagets faser till dessa standardfaser om du använder API:et för att skicka dessa värden. Om du använder Partner Center UX används procentandelarna som visas i tabellen för att markera försäljningsfaserna.
 

@@ -4,21 +4,21 @@ ms.topic: how-to
 ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Lär dig hur du ställer in och hanterar licensiering för dina erbjudanden på den kommersiella marknadsplatsen för ISV.
+description: Lär dig hur du ställer in och hanterar licensiering för dina erbjudanden på den kommersiella ISV-marknadsplatsen.
 author: petand123
 ms.author: v-petand
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0043a9d6f39b4c6858a6e69f73c6c7503b17508e
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 80d8def7f72243106aa0cc1645276e4512b004ef
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129073857"
+ms.locfileid: "129089852"
 ---
 # <a name="manage-licensing-in-marketplace-offers"></a>Hantera licensiering i Marketplace-erbjudanden
 
-**Lämpliga roller:** Global | Kontoadministratör
+**Lämpliga roller:** Globala | Kontoadministratör
 
 Den här artikeln beskriver steg för steg hur du ställer in ett erbjudande i Partnercenter, gör det tillgängligt i Microsoft AppSource och sedan hanterar licenser för erbjudandet.  
 
@@ -29,7 +29,7 @@ Den här artikeln beskriver steg för steg hur du ställer in ett erbjudande i P
 
 ### <a name="commercial-marketplace-basics"></a>Grundläggande om den kommersiella marknadsplatsen
 
-Innan du påbörjar den här processen bör du bekanta dig med grunderna för den kommersiella marknadsplatsen. Artiklarna i tabellen nedan hjälper dig att komma igång. 
+Innan du påbörjar den här processen bör du bekanta dig med grunderna i den kommersiella marknadsplatsen. Artiklarna i tabellen nedan hjälper dig att komma igång. 
 
 | Avsnitt  | Artikel  |
 |-------|--------|
@@ -42,52 +42,52 @@ Innan du påbörjar den här processen bör du bekanta dig med grunderna för de
 I procedurerna nedan uppmanas du att ange ett erbjudande-ID. Ta dig tid att ta fram ett lämpligt erbjudande-ID, med följande i åtanke:
 
 - Det här ID:t är synligt för kunder i webbadressen för Marketplace-erbjudandet och Azure Resource Manager mallar, om tillämpligt.
-- Erbjudande-ID i kombination med Publisher-ID måste vara under 40 tecken långt.
+- Erbjudande-ID i kombination med Publisher-ID:t måste vara under 40 tecken långt.
 - Använd bara gemena bokstäver och siffror. Erbjudande-ID:t kan innehålla bindestreck och understreck, men inga blanksteg. Om ditt id för Publisher är `testpublisherid` och du anger blir `test-offer-1` erbjudandets webbadress `https://appsource.microsoft.com/product/dynamics-365/testpublisherid.test-offer-1` .
-- Det här ID:t kan inte ändras när du har valt **Skapa**.
+- Det går inte att ändra det här ID:t när du har valt **Skapa**.
 
 ### <a name="determine-your-offer-alias"></a>Fastställa ditt erbjudandealias
 
 Erbjudandets alias är det namn som används för erbjudandet i Partnercenter. Du behöver också ett lämpligt erbjudandealias som följer riktlinjerna nedan:
 
 - Det här namnet används inte på Marketplace och skiljer sig från erbjudandets namn och andra värden som visas för kunder.
-- Det här namnet kan inte ändras när du har valt Skapa.
+- Det går inte att ändra det här namnet när du har valt Skapa.
 
 ## <a name="create-your-offer"></a>Skapa ditt erbjudande
 
 Det första steget i licensieringsprocessen är att skapa ditt erbjudande på den kommersiella marknadsplatsen.
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om arbetsytegränssnittet och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
-#### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
+#### <a name="workspaces-view"></a>[Vyn Arbetsytor](#tab/workspaces-view)
 
-1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/)och välj sedan **panelen Marketplace-erbjudanden.**
-2. Längst upp på sidan Översikt väljer du Nytt **erbjudande** och sedan **Dynamics 365 for Customer Engagement & PowerApps**.
+1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/)och välj **sedan panelen Marketplace-erbjudanden.**
+2. Längst upp på sidan Översikt väljer du **Nytt erbjudande** och sedan **Dynamics 365 for Customer Engagement & PowerApps**.
 3. Ange det **erbjudande-ID och** **erbjudandealias** som du skapade tidigare.
-4. Välj **Skapa** för att generera erbjudandet och fortsätt.
+4. Välj **Skapa** för att generera erbjudandet och fortsätta.
 5. Välj dina licensieringsalternativ.
 
     - Om du vill aktivera licenshantering för ditt erbjudande väljer **du Aktivera applicenshantering via Microsoft**. Det här är en enda inställning och du kan inte ändra den när ditt erbjudande har publicerats.
 
-    - Du kan också låta kunder köra appens grundläggande funktioner utan licens och köra Premium-funktioner när de har köpt en licens. Det gör du genom att **välja Tillåt kunder att installera min app även om licenserna inte har tilldelats**.
+    - Du kan också låta kunder köra appens grundläggande funktioner utan licens och köra Premium-funktioner när de har köpt en licens. Det gör du genom att **välja Tillåt att kunder installerar min app även om licenserna inte har tilldelats**.
 
-    - Om du inte vill att ditt erbjudande ska ha licenshantering aktiverat väljer du **Hämta nu (kostnadsfri)**, **Kostnadsfri utvärderingsversion** eller **Kontakta mig.**
+    - Om du inte vill att ditt erbjudande ska ha licenshantering aktiverat väljer du Hämta nu **(kostnadsfri)**, **Kostnadsfri utvärderingsversion** eller **Kontakta mig.**
 
 #### <a name="current-view"></a>[Aktuell vy](#tab/current-view)
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 2. I den vänstra navigeringsmenyn väljer du **Kommersiell marknadsplats/Översikt.**
-3. Längst upp på sidan Översikt väljer du Nytt **erbjudande** och sedan **Dynamics 365 for Customer Engagement & PowerApps**.
+3. Längst upp på sidan Översikt väljer du **Nytt erbjudande** och sedan **Dynamics 365 for Customer Engagement & PowerApps**.
 4. Ange det **erbjudande-ID och** **erbjudandealias** som du skapade tidigare.
-5. Välj **Skapa** för att generera erbjudandet och fortsätt.
+5. Välj **Skapa** för att generera erbjudandet och fortsätta.
 6. Välj dina licensieringsalternativ.
 
     - Om du vill aktivera licenshantering för ditt erbjudande väljer **du Aktivera applicenshantering via Microsoft**. Det här är en enda inställning och du kan inte ändra den när ditt erbjudande har publicerats.
 
-    - Du kan också låta kunder köra appens grundläggande funktioner utan licens och köra Premium-funktioner när de har köpt en licens. Det gör du genom att **välja Tillåt kunder att installera min app även om licenserna inte har tilldelats**.
+    - Du kan också låta kunder köra appens grundläggande funktioner utan licens och köra Premium-funktioner när de har köpt en licens. Det gör du genom att **välja Tillåt att kunder installerar min app även om licenserna inte har tilldelats**.
 
-    - Om du inte vill att ditt erbjudande ska ha licenshantering aktiverat väljer du **Hämta nu (kostnadsfri)**, **Kostnadsfri utvärderingsversion** eller **Kontakta mig.**
+    - Om du inte vill att ditt erbjudande ska ha licenshantering aktiverat väljer du Hämta nu **(kostnadsfri)**, **Kostnadsfri utvärderingsversion** eller **Kontakta mig.**
 
 * * *
 
@@ -97,12 +97,12 @@ I de här stegen definierar du den plan eller de planer som du vill aktivera fö
 
 1. Från ett specifikt erbjudande väljer du **Planöversikt** och sedan **Skapa ny plan.**
 2. Ange ett **plan-ID** **och ett plannamn** och välj sedan **Skapa.**
-3. På sidan **Planlistning** anger du din **planbeskrivning.**
-4. Spara beskrivningen och slutför senare genom att välja **Spara utkast.**
+3. På sidan **Planlista** anger du din **planbeskrivning.**
+4. Om du vill spara beskrivningen och avsluta senare väljer du **Spara utkast.**
 
-5. När du är klar väljer du **Granska och publicera**. Informationen om planen visas nu på sidan appsource.microsoft.com under erbjudandelistan (avsnittet med planer).
+5. När du är klar väljer du **Granska och publicerar**. Informationen om planen visas nu på sidan appsource.microsoft.com under erbjudandelistan (avsnittet med planer).
 
-6. När du har skapat alla planer för det här erbjudandet måste du kopiera tjänst-ID:t för varje plan. Välj **Översikt över** plan överst på sidan Planlista. Kopiera tjänst-ID för varje plan till en säker plats.
+6. När du har skapat alla planer för det här erbjudandet måste du kopiera tjänst-ID:t för varje plan. Välj **Översikt över** plan överst på sidan Planlista. Kopiera tjänst-ID:t för varje plan till en säker plats.
 
 ## <a name="add-service-ids-to-your-solution"></a>Lägga till tjänst-ID:er i din lösning
 
@@ -110,12 +110,12 @@ Nästa steg är att uppdatera din lösning genom att lägga till tjänst-ID:erna
 
 ## <a name="upload-your-package-and-publish-your-offer"></a>Upload ditt paket och publicera ditt erbjudande
 
-1. Från ett specifikt erbjudande och välj **Teknisk konfiguration.**
+1. Välj Teknisk konfiguration från ett **specifikt erbjudande.**
 2. Under **Baslicensmodell** väljer du **Användare.**
-3. Under **CRM-paket** anger du URL:en för paketplatsen.
-4. Använd de andra flikarna i det vänstra navigeringsfönstret för att ange annan nödvändig information. När du är klar väljer du **Granska och publicera**.
+3. Under **CRM-paket** anger du URL:en för din paketplats.
+4. Använd de andra flikarna i det vänstra navigeringsfönstret för att ange annan nödvändig information. När du är klar väljer du **Granska och publicerar**.
 
-När du har publicerat erbjudandet granskar och verifierar vi din information. Om det finns problem med den här processen meddelar vi dig. När alla problem har lösts får du ett meddelande om att ditt erbjudande är tillgängligt i AppSource. Då kan du göra det live.
+När du har publicerat erbjudandet granskar och verifierar vi din information. Om det finns några problem med den här processen meddelar vi dig. När alla problem har lösts får du ett meddelande om att ditt erbjudande är tillgängligt i AppSource. Då kan du göra det live.
 
 ## <a name="make-your-offer-live-in-partner-center"></a>Gör ditt erbjudande live i Partnercenter
 
@@ -133,16 +133,16 @@ Proceduren nedan går igenom processen för att göra ditt erbjudande live i App
 
 ## <a name="register-isv-connect-deal-in-deal-registration"></a>Registrera ISV Anslut avtal i Avtalsregistrering
 
-Innan du kan tilldela licenser till en kund måste varje försäljning registreras i Partnercenter. Om du vill göra detta kan [du gå till Registrera dina avtal.](register-deals.md)
+Innan du kan tilldela licenser till en kund måste varje försäljning registreras i Partnercenter. Information om hur du gör detta finns [i Registrera dina avtal.](register-deals.md)
 
 ## <a name="invite-the-customer"></a>Bjud in kunden
 
-Använd följande procedur för att bjuda in kunden att delta i det här avtalet.  
+Använd följande procedur för att bjuda in kunden att delta i detta avtal.  
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om arbetsytegränssnittet och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
-#### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
+#### <a name="workspaces-view"></a>[Vyn Arbetsytor](#tab/workspaces-view)
 
 1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
 2. Välj **panelen Referenser.**

@@ -4,21 +4,21 @@ ms.topic: article
 ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
-description: Utforska fakturering när du lägger till nya prenumerationer, justerar licenskvantiteten eller avbryter en prenumeration. Se hur användningsbaserade och licensbaserade prenumerationer skiljer sig åt.
+description: Utforska fakturering när du lägger till nya prenumerationer, justerar licensantalet eller avbryter en prenumeration. Se hur användningsbaserade och licensbaserade prenumerationer skiljer sig åt.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f714d741cba0d3a3139c09801eacdd98d14cf6a6
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 12072278c48d1500d4d09d24e87fe3ef431b6d1f
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129074018"
+ms.locfileid: "129089546"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Vanliga faktureringsscenarier för CSP-programpartner som arbetar i Partnercenter
 
-**Lämpliga roller:** Administratörsagent | Faktureringsadministratörskonto | Supportagent för | Försäljningsagent
+**Lämpliga roller:** Administratörsagent | Faktureringsadministratörskonto | Supportagent | Försäljningsagent
 
 De här artiklarna förklarar vad du bör förvänta dig att se på fakturan när du har lagt till nya prenumerationer, justera antalet licenser till en prenumeration eller avbryta en prenumeration. Andra [faktureringstyper i Partnercenter,](./billing-basics.md)till exempel användningsbaserade och licensbaserade prenumerationer, debiteras på olika sätt.
 
@@ -29,9 +29,9 @@ Faktureringsfrekvensen ändras på ordernivå, och när frekvensen ändras till�
 Så här ändrar du faktureringsfrekvensen för en onlinetjänst för en kund:
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om gränssnittet för arbetsytor och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
-#### <a name="workspaces-view"></a>[Vyn Arbetsytor](#tab/workspaces-view)
+#### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
 
 1. [Logga in på instrumentpanelen i Partnercenter.](https://partner.microsoft.com/dashboard/home)
 
@@ -41,23 +41,23 @@ Så här ändrar du faktureringsfrekvensen för en onlinetjänst för en kund:
 
 4. På kundens **prenumerationssida** väljer du den prenumeration som du vill ändra.
 
-5. På sidan **Information** går du till **Faktureringsfrekvens och** väljer **Varje månad** eller **Varje år.** Du ser en bekräftelsesida med viktig information om hur du ändrar faktureringsfrekvensen, samt en lista över de prenumerationer som kommer att ändras.
+5. På sidan **Information** går du till **Faktureringsfrekvens och** väljer **Månadsvis** eller **Årlig.** Du ser en bekräftelsesida med viktig information om hur du ändrar faktureringsfrekvensen, samt en lista över de prenumerationer som kommer att ändras.
 
-6. Välj **OK** för att göra ändringen (eller Avbryt **för** att ångra den).
+6. Välj **OK** för att göra ändringen (eller **Avbryt för** att ångra den).
 
 #### <a name="current-view"></a>[Aktuell vy](#tab/current-view)
 
 1. [Logga in på instrumentpanelen i Partnercenter.](https://partner.microsoft.com/dashboard/home)
 
-2. I den vänstra menyn väljer du **Kunder.**
+2. Välj Kunder på den vänstra **menyn.**
 
 3. Välj den kund vars prenumerationsfaktureringsfrekvens du vill ändra.
 
 4. På kundens **prenumerationssida** väljer du den prenumeration som du vill ändra.
 
-5. På sidan **Information** går du till **Faktureringsfrekvens och** väljer **Varje månad** eller **Varje år.** Du ser en bekräftelsesida med viktig information om hur du ändrar faktureringsfrekvensen, samt en lista över de prenumerationer som kommer att ändras.
+5. På sidan **Information** går du till **Faktureringsfrekvens och** väljer **Månadsvis** eller **Årlig.** Du ser en bekräftelsesida med viktig information om hur du ändrar faktureringsfrekvensen, samt en lista över de prenumerationer som kommer att ändras.
 
-6. Välj **OK** för att göra ändringen (eller Avbryt **för** att ångra den).
+6. Välj **OK** för att göra ändringen (eller **Avbryt för** att ångra den).
 
 * * *
 
@@ -65,7 +65,7 @@ Så här ändrar du faktureringsfrekvensen för en onlinetjänst för en kund:
 
 | Typ av fakturering | Scenarier som omfattas |
 | --------------- | ----------------- |
-| [Månatlig fakturering](common-billing-scenarios-monthly.md) | Lägga till nya prenumerationer, ändra licensantal och pausa prenumerationer. |
-| [Årlig fakturering](common-billing-scenarios-annual.md) | Lägga till nya prenumerationer, lägga till licenser före faktureringsdatum, ändra licenskvantitet samt pausa och återaktivera prenumerationer. |
-| [Fakturering för engångsköp och välj återkommande inköp](common-billing-scenarios-onetime-recurring.md) | Köpa prenumerationer, lägga till fler prenumerationer, lägga till och ta bort licenser. |
-| [Fakturering för licensbaserade SaaS-prenumerationer](common-billing-scenarios-saas.md) | Kostnadsfria utvärderingsversioner för SaaS-prenumerationer (programvara som en tjänst). Köpa och avbryta anpassade SaaS-mätareprenumerationer. |
+| [Månatlig fakturering](common-billing-scenarios-monthly.md) | Lägga till nya prenumerationer, ändra licenskvantitet och pausa prenumerationer. |
+| [Årlig fakturering](common-billing-scenarios-annual.md) | Lägga till nya prenumerationer, lägga till licenser före faktureringsdatum, ändra licensantal och pausa och återaktivera prenumerationer. |
+| [Fakturering för engångsinköp och välj återkommande inköp](common-billing-scenarios-onetime-recurring.md) | Köpa prenumerationer, lägga till fler prenumerationer, lägga till och ta bort licenser. |
+| [Fakturering för licensbaserade SaaS-prenumerationer](common-billing-scenarios-saas.md) | Kostnadsfria utvärderingsversioner för SaaS-prenumerationer (programvara som en tjänst). Köpa och avbryta anpassade SaaS-mätare-prenumerationer. |

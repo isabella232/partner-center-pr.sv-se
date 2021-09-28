@@ -9,18 +9,18 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 09/27/2021
-ms.openlocfilehash: cfe35e6e1ae9f277150cfb21ba69d0fa35210123
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: d4f238233ba63912546122fdeb5cd0f0b98249cc
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129072866"
+ms.locfileid: "129088543"
 ---
-# <a name="technical-support-for-on-premises-or-cloud-products"></a>Teknisk support för lokala eller molnbaserade produkter
+# <a name="technical-support-for-on-premises-or-cloud-products"></a>Teknisk support för lokala produkter eller molnprodukter
 
 **Lämpliga roller:**
 - MPN-associerad global administratör eller MPN-partneradministratör för att aktivera dina tekniska supportförmåner.
-- Ett MPN-associerat användarkonto för att visa ditt åtkomst-ID och kontrakt-ID efter aktiveringen.
+- Alla MPN-associerade användarkonton för att visa ditt åtkomst-ID och kontrakt-ID efter aktiveringen.
 - Administratörsagent för att skapa support åt din kund för molnprodukter.
 - Alla konto-AAD eller MSA för att skapa lokala supportbegäranden för din kunds eller din egen organisations räkning.
 
@@ -30,98 +30,98 @@ Sidan [Tekniska fördelar](https://partner.microsoft.com/dashboard/mpn/membershi
 
 1. **Incidenter med teknisk produktsupport – se nedan**
 
-2. Teknisk support och distributionstjänster (TPD) – [mer information](technical-benefits.md)
+2. Teknisk presales och distributionstjänster (TPD) – [mer information](technical-benefits.md)
 
-Den här artikeln är till för medlemmar i Microsoft Partner Network (MPN) som behöver veta hur de ska aktivera sina tekniska förmåner, visa åtkomst-ID och kontrakt-ID, veta vilka produkter och versioner som stöds och hur du startar processen för att skapa en incident för teknisk support/support med MPN-partnerförmåner
+Den här artikeln är till för medlemmar i Microsoft Partner Network (MPN) som behöver veta hur de ska aktivera sina tekniska fördelar, visa åtkomst-ID och kontrakt-ID, veta vilka produkter och versioner som stöds och hur du startar processen för att skapa en incident för teknisk support/support med MPN-partnerförmåner
 
 ### <a name="steps"></a>Steg
 
-1. Aktivera dina tekniska fördelar (kräver global administratör eller MPN-partneradministratör). Efter aktiveringen kan alla MPN-användarkonton visa åtkomst-ID och kontrakt-ID för att associera förmånerna till sitt konto
+1. Aktivera dina tekniska fördelar (kräver global administratör eller MPN-partneradministratör). Efter aktiveringen kan alla MPN-användarkonton visa åtkomst-ID och kontrakt-ID för att associera förmånerna med sitt konto
 
 2. Kontrollera berättigandet för teknisk support och produkter som stöds för att se om dina MPN-förmåner kan användas för din avsedda produkt och version
 
 3. Microsofts produktsupport (för de senaste lokala produkterna): Använd support för företag för lokal produktsupport
 
-4. Signature Cloud Support (för molnprodukter): Användare med rollen Administratörsagent väljer **Kunder och tjänsthantering för** att skapa en begäran. Se följande information om varje steg:
+4. Signature Cloud Support (för molnprodukter): Användare med rollen Administratörsagent väljer **Kunder och tjänsthantering för att** skapa en begäran. Se följande information om varje steg:
 
 ## <a name="view-and-activate-your-technical-support-benefits"></a>Visa och aktivera dina tekniska supportförmåner
 
 Så här visar eller aktiverar du dina tekniska förmåner i Partnercenter:
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om gränssnittet för arbetsytor och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
-#### <a name="workspaces-view"></a>[Vyn Arbetsytor](#tab/workspaces-view)
+#### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
 
 1. Logga in med ditt MPN-associerade konto på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard)
 
    > [!NOTE]
-   > Om ditt konto endast är kopplat till CSP och inte är kopplat till MPN visas ett felmeddelande om att du inte har behörighet för den här åtgärden. Du måste ha ett MPN-associerat konto.
+   > Om ditt konto endast är associerat med CSP och inte är associerat med MPN visas ett felmeddelande om att du inte har behörighet för den här åtgärden. Du måste ha ett MPN-associerat konto.
 
-2. Välj panelen **Fördelar** och välj sedan **Tekniska förmåner.** På sidan Tekniska förmåner visas dina organisationers aktiva guld-, silver- eller Microsoft Action Pack medlemskapserbjudanden.
+2. Välj panelen **Fördelar** och välj sedan **Tekniska förmåner.** Sidan Tekniska förmåner visar dina organisationers aktiva erbjudanden om guld, silver eller Microsoft Action Pack medlemskap.
 
    > [!NOTE]
-   > Om du inte har några aktiva medlemskapserbjudanden visas meddelandet "Det verkar som om du inte har några fördelar ännu". Om ditt företag har aktiva medlemskapserbjudanden men du inte kan se dem har du loggat in med fel konto. Om du vill kontrollera ditt konto väljer **du kontoikonen** längst upp till höger på sidan och **väljer Logga in med ett annat konto** (om det behövs).
+   > Om du inte har några aktiva medlemskapserbjudanden visas meddelandet "Ser ut som om du inte har några fördelar ännu". Om ditt företag har aktiva medlemskapserbjudanden men du inte kan se dem har du loggat in med fel konto. Om du vill kontrollera ditt konto väljer **du kontoikonen** längst upp till höger på sidan och **väljer Logga in med ett annat konto** (om det behövs).
 
-3. Om du vill använda Microsofts produktsupport eller signaturproduktsupport måste du aktivera förmånen. Om du vill aktivera förmånen väljer **du knappen** Aktivera. Användarkontot som används för aktivering kräver rollerna Global administratör eller MPN-partneradministratör.
+3. Om du vill använda Microsofts produktsupport eller signaturproduktsupport måste du aktivera förmånen. Om du vill aktivera förmånen väljer du **knappen** Aktivera. Användarkontot som används för aktivering kräver rollerna Global administratör eller MPN-partneradministratör.
 
    :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-2.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-2.png" alt-text="Tekniska fördelar väljer du Aktivera." :::
 
-4. Åtkomst-ID och kontrakt-ID visas för alla användare efter en lyckad aktivering. Du kan använda Microsofts produktsupport och signaturproduktsupport (guld- och silvermedlemmar) när åtkomst-ID och kontrakt-ID visas.
+4. Åtkomst-ID och kontrakt-ID visas för alla användare efter aktiveringen. Du kan använda Microsofts produktsupport och signaturproduktsupport (guld- och silvermedlemmar) när åtkomst-ID och kontrakt-ID visas.
 
    Om knappen Aktivera är nedtonad har ditt konto inte säkerhetsrollen Global administratör eller MPN-partneradministratör. Använd  [Användarhantering och](https://partner.microsoft.com/dashboard/account/v3/usermanagement#users) filtrera på Global administratör eller MPN-partneradministratör för att hitta en användare som kan aktivera dina förmåner.
 
    :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-3.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-3.png" alt-text="Aktiverade tekniska förmåner visar åtkomst-ID och kontrakt-ID." :::
 
    > [!NOTE]
-   > Du behöver åtkomst-ID och kontrakt-ID första gången du använder Microsofts produktsupport eller signaturproduktsupport för varje konto. När förmånerna har associerats med ditt konto behöver du inte använda åtkomst-ID och kontrakt-ID igen.  
+   > Du behöver åtkomst-ID:t och kontrakts-ID:t första gången du använder Microsofts produktsupport eller signaturproduktsupport för varje konto. När förmånerna har associerats med ditt konto behöver du inte använda åtkomst-ID och kontrakt-ID igen.  
 
 #### <a name="current-view"></a>[Aktuell vy](#tab/current-view)
 
 1. Logga in med ditt MPN-associerade konto på instrumentpanelen i [Partnercenter.](https://partner.microsoft.com/dashboard)
 
    > [!NOTE]
-   > Om ditt konto endast är kopplat till CSP och inte är kopplat till MPN visas ett felmeddelande om att du inte har behörighet för den här åtgärden. Du måste ha ett MPN-associerat konto.
+   > Om ditt konto endast är associerat med CSP och inte är associerat med MPN visas ett felmeddelande om att du inte har behörighet för den här åtgärden. Du måste ha ett MPN-associerat konto.
 
-2. Expandera **Fördelar** i den vänstra navigeringsmenyn och välj [**Tekniska förmåner.**](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical) På sidan Tekniska förmåner visas dina organisationers aktiva guld-, silver- eller Microsoft Action Pack medlemskapserbjudanden.
+2. Expandera **Fördelar** i den vänstra navigeringsmenyn och välj [**Tekniska fördelar.**](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical) Sidan Tekniska förmåner visar dina organisationers aktiva erbjudanden om guld, silver eller Microsoft Action Pack medlemskap.
 
    > [!NOTE]
-   > Om du inte har några aktiva medlemskapserbjudanden visas meddelandet "Det verkar som om du inte har några fördelar ännu". Om ditt företag har aktiva medlemskapserbjudanden men du inte kan se dem har du loggat in med fel konto. Om du vill kontrollera ditt konto väljer **du kontoikonen** längst upp till höger på sidan och **väljer Logga in med ett annat konto** (om det behövs).
+   > Om du inte har några aktiva medlemskapserbjudanden visas meddelandet "Ser ut som om du inte har några fördelar ännu". Om ditt företag har aktiva medlemskapserbjudanden men du inte kan se dem har du loggat in med fel konto. Om du vill kontrollera ditt konto väljer **du kontoikonen** längst upp till höger på sidan och **väljer Logga in med ett annat konto** (om det behövs).
 
-3. Om du vill använda Microsofts produktsupport eller signaturproduktsupport måste du aktivera förmånen. Om du vill aktivera förmånen väljer **du knappen** Aktivera. Användarkontot som används för aktivering kräver rollerna Global administratör eller MPN-partneradministratör.
+3. Om du vill använda Microsofts produktsupport eller signaturproduktsupport måste du aktivera förmånen. Om du vill aktivera förmånen väljer du **knappen** Aktivera. Användarkontot som används för aktivering kräver rollerna Global administratör eller MPN-partneradministratör.
 
    :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-2.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-2.png" alt-text="Tekniska fördelar väljer du Aktivera." :::
 
-4. Åtkomst-ID och kontrakt-ID visas för alla användare efter en lyckad aktivering. Du kan använda Microsofts produktsupport och signaturproduktsupport (guld- och silvermedlemmar) när åtkomst-ID och kontrakt-ID visas.
+4. Åtkomst-ID och kontrakt-ID visas för alla användare efter aktiveringen. Du kan använda Microsofts produktsupport och signaturproduktsupport (guld- och silvermedlemmar) när åtkomst-ID och kontrakt-ID visas.
 
    Om knappen Aktivera är nedtonad har ditt konto inte säkerhetsrollen Global administratör eller MPN-partneradministratör. Använd  [Användarhantering och](https://partner.microsoft.com/dashboard/account/v3/usermanagement#users) filtrera på Global administratör eller MPN-partneradministratör för att hitta en användare som kan aktivera dina förmåner.
 
    :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-3.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-3.png" alt-text="Aktiverade tekniska förmåner visar åtkomst-ID och kontrakt-ID." :::
 
    > [!NOTE]
-   > Du behöver åtkomst-ID och kontrakt-ID första gången du använder Microsofts produktsupport eller signaturproduktsupport för varje konto. När förmånerna har associerats med ditt konto behöver du inte använda åtkomst-ID och kontrakt-ID igen.  
+   > Du behöver åtkomst-ID:t och kontrakts-ID:t första gången du använder Microsofts produktsupport eller signaturproduktsupport för varje konto. När förmånerna har associerats med ditt konto behöver du inte använda åtkomst-ID och kontrakt-ID igen.  
 
 * * *
 
 ## <a name="technical-support-entitlement-and-supported-products"></a>Berättigande för teknisk support och produkter som stöds
 
-Teknisk support tillhandahåller felsökning för ett specifikt problem, felmeddelande eller funktioner som inte fungerar som förväntat. MPN-produktsupport Signature Cloud Support kan användas för specifika Microsoft-produkter och -versioner (alla produkter och versioner stöds inte).
+Teknisk support tillhandahåller felsökning för ett specifikt problem, felmeddelande eller funktioner som inte fungerar som förväntat. MPN-produktsupport och Signature Cloud Support kan användas för specifika Microsoft-produkter och -versioner (alla produkter och versioner stöds inte).
 
 > [!NOTE]
 > Dina tekniska supportförmåner måste aktiveras innan du kan använda dem.
 
-Som en del av Microsoft Partner Network-medlemskapet är partner berättigade till följande tekniska support
+Som en del av Microsoft Partner Network är partner berättigade till följande tekniska support
 
 |  Teknisk support |  Action Pack |  Silverkompetens | Guldkompetens |
 |:------------------:|:------------:|:------------------:|:---------------:|
-| Microsofts produktsupport<br>För senaste lokala <br>endast produkter | 10 incidenter | 15 incidenter | 20 incidenter |
+| Microsofts produktsupport<br>För de senaste lokala <br>endast produkter | 10 incidenter | 15 incidenter | 20 incidenter |
 | Signature Cloud Support<br>Endast för molnprodukter | | Molnkompetenser:<br>Obegränsat<br><br>Andra kompetenser:<br>5 incidenter | Molnkompetenser:<br>Obegränsat<br>          <br>Andra kompetenser:<br>10 incidenter   | 
 
-Molnkompetenser omfattar: Säkerhetskompetens, Business Applications, molnplattform, molnproduktivitet, Enterprise Mobility Management, små och medelstora molnlösningar.
+Molnkompetenser omfattar: Säkerhetskompetens, Cloud Business Applications, Cloud Platform, Cloud Productivity, Enterprise Mobility Management, Small och Midmarket Cloud Solutions.
 
-## <a name="microsoft-product-support-on-premises"></a>Microsoft-produktsupport (lokalt)
+## <a name="microsoft-product-support-on-premises"></a>Microsofts produktsupport (lokalt)
 
-Du kan använda **Microsofts produktsupport** för teknisk support på de senaste lokala produkterna. De senaste lokala produkterna innehåller endast den aktuella produkten (N) och den tidigare produktversionen (N-1). Den tidigare produktversionen stöds endast om den har [mainstream-stöd.](/lifecycle/policies/fixed) baserat på [stödprincipen N-1.](https://aka.ms/n-1) För produkter och versioner som inte stöds använder du relevant betalsupportalternativ eller köper en partnersupportplan.
+Du kan använda **Microsofts produktsupport** för teknisk support på de senaste lokala produkterna. De senaste lokala produkterna innehåller endast den aktuella produkten (N) och den tidigare produktversionen (N-1). Den tidigare produktversionen stöds endast om den ingår i [mainstream-supporten.](/lifecycle/policies/fixed) baserat på [N-1-supportprincipen.](https://aka.ms/n-1) För produkter och versioner som inte stöds använder du relevant betalsupportalternativ eller köper en partnersupportplan.
 
 Du behöver åtkomst-ID och kontrakt-ID första gången du använder förmånen. Förmånerna är kopplade till ditt användarkonto tills de upphör att gälla eller det inte finns några fler supportärenden kvar.
 

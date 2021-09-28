@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 87c2fc9b9d835b7dfcfbe8736e82d3862409c124
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 1fdabb88d58e149117c88d39f2d7ad522a177f50
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129073576"
+ms.locfileid: "129088508"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Kundassociationer via CPOR-modellen (Claimed Partner of Record) för Microsoft 365 och Dynamics 365
 
@@ -24,7 +24,7 @@ ms.locfileid: "129073576"
 Den 1 oktober 2019 började Microsoft använda CPOR-modellen (Claiming Partner of Record) för att hantera de associationer som du har med dina Microsoft 365- och Dynamics 365-kunder med avseende på Online Services Advisory (OSA) Sell, Online Services Usage (OSU)-Microsoft 365 och OSU-Business Application incentives.
 
 >[!Important]
-> CPOR-anspråk (Customer Association) gäller endast för OSU(Online Services Sell, Online Services Usage) – Microsoft 365 och OSU-Business Program. Om du skickar ett co-op-anspråk för ett annat program, till exempel Molnlösningsleverantör (CSP), Managed Reseller, värd eller Surface, kan du gå till Co-op-anspråksprocessen som beskrivs här. <br><br>När du skickar in ditt anspråk verifierar Microsoft det. Vi kan be dig om mer information i det här läget. Vi meddelar även kunden om din associationsbegäran. Kunder har fem arbetsdagar på sig att avanmäla sig. Om de inte avanmäler sig blir din koppling till den här specifika klientorganisationen och arbetsbelastningen officiell. Nu har du åtkomst till kundens användningsdata. 
+> CPOR-anspråk (Customer Association) gäller endast för OSU(Online Services Sell, Online Services Usage) – Microsoft 365 och OSU-Business program. Om du skickar ett co-op-anspråk för ett annat program, till exempel Molnlösningsleverantör (CSP), Managed Reseller, värd eller Surface, kan du gå till Co-op-anspråksprocessen som beskrivs här. <br><br>När du skickar in ditt anspråk verifierar Microsoft det. Vi kan be dig om mer information i det här läget. Vi meddelar även kunden om din associationsbegäran. Kunder har fem arbetsdagar på sig att avanmäla sig. Om de inte avanmäler sig blir din koppling till den här specifika klientorganisationen och arbetsbelastningen officiell. Nu har du åtkomst till kundens användningsdata. 
 
 Du behöver följande information för att slutföra ett anspråk:
 
@@ -63,7 +63,7 @@ Du bör också förstå följande:
 ## <a name="create-a-customer-association"></a>Skapa en kundassociation
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om gränssnittet för arbetsytor och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vyn Arbetsytor](#tab/workspaces-view)
 

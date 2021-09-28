@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
-description: Lär dig hur du visar eller laddar ned din MPN-medlemskapsfaktura, hur du skickar för skattebefrielse och hur du skickar ditt momsregistreringsnummer till Microsoft.
+description: Lär dig hur du visar eller laddar ned din MPN-medlemskapsfaktura, hur du filar för skattebefrielse och hur du skickar ditt momsregistreringsnummer till Microsoft.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eb740c7362be9cadbe70a8be6ee0176e7aa562fc
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: ab9929434763d420f0cbdbc1105b61bbea4b4a0c
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129071813"
+ms.locfileid: "129088866"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Fakturor och skatter i Microsoft Partner Network
 
@@ -27,7 +27,7 @@ Använd stegen nedan för att visa eller ladda ned den slutliga fakturan för en
 Du måste vara administratör Global administratör MPN-partner för att utföra den här proceduren.
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om gränssnittet för arbetsytor och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vyn Arbetsytor](#tab/workspaces-view)
 
@@ -50,21 +50,21 @@ Du måste vara administratör Global administratör MPN-partner för att utföra
 ## <a name="file-a-tax-exemption"></a>Skapa ett skattebefrielseundantag
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om gränssnittet för arbetsytor och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vyn Arbetsytor](#tab/workspaces-view)
 
 1. Från [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/home)väljer du **panelen Hjälp + support** och sedan Ny **begäran.**
 
-2. Fyll i formuläret. För Typ **av problem väljer** du Kan inte hantera min **profil.** Ta med ditt MPN-ID i beskrivningen.
+2. Fyll i formuläret. För Typ **av problem väljer** du Kan inte hantera min **profil.** I beskrivningen tar du med ditt MPN-ID.
 
 3. När du har skickat din begäran skickar Microsoft ett e-postmeddelande till dig för att få mer information. När du svarar bifogar du lämplig stöddokumentation för dina skattebefrielsecertifikat.
 
 #### <a name="current-view"></a>[Aktuell vy](#tab/current-view)
 
-1. I Partnercenter väljer **du Support** på navigeringsmenyn. Välj sedan **Partner Center-begäranden** och välj sedan **Ny begäran.**
+1. I Partnercenter väljer **du Support** på navigeringsmenyn. Välj sedan **Partner Center-begäranden** och sedan **Ny begäran.**
 
-2. Fyll i formuläret. För Typ **av problem väljer** du Kan inte hantera min **profil.** Ta med ditt MPN-ID i beskrivningen.
+2. Fyll i formuläret. För Typ **av problem väljer** du Kan inte hantera min **profil.** I beskrivningen tar du med ditt MPN-ID.
 
 3. När du har skickat din begäran skickar Microsoft ett e-postmeddelande till dig för att få mer information. När du svarar bifogar du lämplig stöddokumentation för dina skattebefrielsecertifikat.
 
@@ -73,7 +73,7 @@ Du måste vara administratör Global administratör MPN-partner för att utföra
 ## <a name="send-microsoft-your-vat-id-number"></a>Skicka ditt momsregistreringsnummer till Microsoft
 
 > [!NOTE]
-> Förhandsversionsgränssnittet i Partnercenter ger en mer effektiv och produktiv användarupplevelse via logiskt grupperade arbetsytor. Mer information om gränssnittet för arbetsytor och hur du aktiverar det finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vyn Arbetsytor](#tab/workspaces-view)
 
