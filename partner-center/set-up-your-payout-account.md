@@ -1,5 +1,5 @@
 ---
-title: Konfigurera utbetalningskonto med & skatteformulär – Microsofts kommersiella marknadsplats
+title: Konfigurera utbetalnings- och skatteprofiler på den kommersiella marknadsplatsen
 description: Om du vill få pengar från erbjudandeförsäljningen på den kommersiella marknadsplatsen kan du läsa om hur du ställer in ditt utbetalningskonto och fyller i de skatteformulär som krävs.
 ms.topic: conceptual
 ms.service: partner-dashboard
@@ -7,14 +7,14 @@ ms.subservice: partnercenter-payouts
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 09/27/2021
-ms.openlocfilehash: e2647e035f8939f5ed8700c83aaed6641084f277
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: f53a066b2a625e6d96d720a13771e4461798fdf3
+ms.sourcegitcommit: 4bdf04eaca11a1065a4146fc3269ee4a8a7a6828
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129071066"
+ms.lasthandoff: 09/28/2021
+ms.locfileid: "129156928"
 ---
-# <a name="set-up-your-payout-account-and-tax-forms"></a>Konfigurera utbetalningskonto och deklarationsblanketter
+# <a name="set-up-commercial-marketplace-payout-and-tax-profiles"></a>Konfigurera utbetalnings- och skatteprofiler på den kommersiella marknadsplatsen
 
 **Lämpliga roller:** Kontoadministratörsroller | Global administratör
 
@@ -77,7 +77,7 @@ Om du är utanför USA kan du eventuellt dra nytta av skatteförmåner. Dessa f�
 Ett utbetalningskonto är det bankkonto som vi skickar intäkter från din försäljning till. Du kan visa alla betalningskonton som du har angett på profilsidan.
 
 > [!NOTE]
-> På vissa marknader kan PayPal användas för ditt utbetalningskonto. Om du vill veta PayPal stöds för en viss marknad kan du läsa betalningströsklar, metoder och tidsramar och information PayPal [nedan](#paypal-info) för mer information. [](payment-thresholds-methods-timeframes.md)
+> På vissa marknader kan PayPal användas för ditt utbetalningskonto. Om du vill veta PayPal stöds för en viss marknad kan du läsa betalningströsklar, metoder och tidsramar och information PayPal nedan för mer information. [](payment-thresholds-methods-timeframes.md) [](#paypal-info)
 
 ### <a name="create-a-payment-profile"></a>Skapa en betalningsprofil
 
@@ -116,7 +116,7 @@ Om du valde att använda ett bankkonto för att få utbetalning slutför du föl
 
 För att säkerställa att utbetalningen lyckas ser du till att:
 
-- **Kontoinnehavarens namn som** anges för ditt utbetalningskonto i Partnercenter måste vara exakt samma namn som är associerat med ditt bankkonto. Om ditt bankkontonamn till exempel innehåller ett mellannamn lägger du till ett mellannamn i namnet **på kontoinnehavaren.**
+- Namnet **på kontoinnehavaren** som anges för ditt utbetalningskonto i Partnercenter måste vara exakt samma namn som är associerat med ditt bankkonto. Om ditt bankkontonamn till exempel innehåller ett mellannamn lägger du till ett mellannamn i namnet **på kontoinnehavaren.**
 - Utbetalningar överförs direkt från Microsoft till ditt bankkonto i USD-valuta.
 - Bankinformation som anges i Partner Center med latinska tecken översätts till kyrilliska tecken.
 
@@ -126,23 +126,23 @@ Du kan redigera befintliga betalningsprofiler om du behöver göra ändringar el
 
 1. I [Partnercenter](https://partner.microsoft.com/dashboard)väljer du **Inställningar** kugghjulsikonen i det övre högra hörnet och sedan **Kontoinställningar.**
 
-2. Under rubriken *Utbetalning och skatt väljer* du **Utbetalnings- och skatteprofiler.**
+2. Under rubriken *Utbetalning och skatt väljer* du **Utbetalnings- och skatteprofiler**.
 
 3. Dina betalningsprofiler visas tillsammans med deras status. Hitta den profil som du vill redigera och **välj Redigera** längst till höger
 
 > [!IMPORTANT]
-> Om du ändrar ditt utbetalningskonto kan du fördröja dina betalningar med upp till en betalningscykel. Den här fördröjningen beror på att vi behöver verifiera kontoändringen, precis som vi gjorde när du först konfigurerade utbetalningskontot. Du får fortfarande betalt för hela beloppet när ditt konto har verifierats. eventuella betalningar som förfaller för den aktuella betalningscykeln läggs till i nästa. Mer [information finns i Få betalt på](marketplace-get-paid.md)den kommersiella marknadsplatsen.
+> Om du ändrar ditt utbetalningskonto kan du fördröja dina betalningar med upp till en betalningscykel. Den här fördröjningen beror på att vi behöver verifiera kontoändringen, precis som vi gjorde när du först konfigurerade utbetalningskontot. Du får fortfarande betalt för hela beloppet när ditt konto har verifierats. eventuella betalningar som förfaller för den aktuella betalningscykeln läggs till i nästa. Mer [information finns i Få betalt på den](marketplace-get-paid.md)kommersiella marknadsplatsen.
 
 ### <a name="paypal-info"></a>PayPal information
 
-I utvalda länder och regioner kan du skapa ett betalningskonto genom att ange PayPal information. Men innan du väljer PayPal som ett betalningsalternativ:
+I utvalda länder och regioner kan du skapa ett betalningskonto genom att ange din PayPal information. Men innan du väljer PayPal som ett betalningsalternativ:
 
 - Kontrollera [Tröskelvärden, metoder och](payment-thresholds-methods-timeframes.md) tidsramar för betalning för att PayPal är en betalningsmetod som stöds i ditt land eller din region.
 - Läs följande vanliga frågor och svar. Beroende på din situation PayPal kanske inte det bästa alternativet för ditt konto, och ett bankkonto kan vara att föredra.
 
 Vanliga frågor om PayPal som betalningsmetod:
 
-- **Vilka PayPal inställningar måste jag ha för att kunna ta emot betalningar?** Kontrollera att ditt PayPal inte blockerar eCheck-betalningar. Den här inställningen hanteras PayPal på sidan Betalningstagandeinställningar. Mer [PayPal finns på](https://go.microsoft.com/fwlink/?linkid=2162542) PayPal sidan för kontokonfiguration.
+- **Vilka PayPal inställningar måste jag ha för att kunna ta emot betalningar?** Kontrollera att ditt PayPal konto inte blockerar eCheck-betalningar. Den här inställningen hanteras PayPal på sidan Betalningstagandeinställningar. Mer [PayPal finns på PayPal](https://go.microsoft.com/fwlink/?linkid=2162542) sidan för kontokonfiguration.
 
 - **Stöds mitt land/min region?** Se [Betalningströsklar, metoder och tidsramar för](payment-thresholds-methods-timeframes.md) att ta reda på PayPal är en betalningsmetod som stöds.
 
@@ -150,7 +150,7 @@ Vanliga frågor om PayPal som betalningsmetod:
 
 - **Måste jag acceptera PayPal betalningar manuellt?** Nej. PayPal är som standard inställda på att kräva att användarna accepterar betalningar manuellt, vilket innebär att om du inte accepterar betalningen inom 30 dagar returneras den. Du kan ändra den här inställningen genom att stänga av "Fråga mig" PayPal på sidan Inställningar mer.
 
-- **Vilka valutor stöder PayPal valutor?** Se [PayPal supportsidan för](https://developer.paypal.com/docs/classic/api/currency-codes/#paypal) den aktuella listan
+- **Vilka valutor har PayPal stöd för?** Se [PayPal supportsida för](https://developer.paypal.com/docs/classic/api/currency-codes/#paypal) den aktuella listan
 
 ### <a name="specific-requirements-for-certain-countriesregions"></a>Särskilda krav för vissa länder/regioner
 
@@ -180,7 +180,7 @@ För att säkerställa att utbetalningen lyckas ser du till att:
 
 #### <a name="ukraine"></a>Ukraina
 
-Om du är en utgivare som bor i Underen kan du behöva tillhandahålla dokumentation till din bank innan din bank sätter in pengar på ditt konto. När du är berättigad till betalning ger vi dig följande dokumentation i ett e-postmeddelande:
+Om du är en utgivare som bor i Påse kan du behöva tillhandahålla dokumentation till din bank innan din bank sätter in pengar på ditt konto. När du är berättigad till betalning ger vi dig följande dokumentation i ett e-postmeddelande:
 
 - Godkännandecertifikat (AC) – innehåller den mängd utbetalning som överförs till ditt konto.
 - [Microsoft Azure Marketplace Publisher –](/legal/marketplace/msft-publisher-agreement) en signerad kopia av utgivaravtalet som måste motskrivas.

@@ -212,7 +212,7 @@
           href: routing-rules.md
         - name: Använda CRM-anslutningsprogram för säljsamarbete
           items:
-            - name: Anslutning för Dynamics 365
+            - name: Anslutningsapp för Dynamics 365
               href: connector-dynamics.md
             - name: Anslutningsapp för Salesforce
               href: connector-salesforce.md
@@ -367,7 +367,7 @@
       href: digital-signature.md
     - name: Moms och momsbefrielse
       items:
-        - name: Momsbefrielse per land eller region
+        - name: Momsbefrielse efter land eller region
           href: tax-and-tax-exemptions.md
         - name: Information om företagsmoms
           href: organization-tax-info.md
@@ -419,7 +419,7 @@
           href: advisors-build-your-business.md
         - name: Skapa ett erbjudande om att köpa Office 365
           href: advisor-create-a-purchase-offer.md
-    - name: Partner kan inte längre registreras som rådgivare
+    - name: Partner kan inte längre registrera sig som rådgivare
       href: advisors-no-csp.md
     - name: CSP-erbjudanden
       items:
@@ -447,7 +447,7 @@
               href: azure-roles-perms-pec.md
             - name: Vanliga frågor och svar om partner-intjänad kredit
               href: partner-earned-credit-faq.md
-            - name: Felsöka partners intjänade kredit
+            - name: Felsöka partner-intjänad kredit
               href: partner-earned-credit-troubleshoot.md
             - name: Prislista för den nya handelsupplevelsen i CSP för Azure
               href: azure-plan-price-list.md
@@ -517,7 +517,7 @@
           href: incentives-enroll.md
         - name: Kontrollera programberättigande
           href: incentives-determined-your-program-eligibility.md
-        - name: Om utbetalning och skatteprofiler
+        - name: Förstå incitamentsutbetalning och skatteprofiler
           href: incentives-create-and-manage-your-payout-and-tax-profiles.md
         - name: Kontrollera intäktsberättigande
           href: incentives-confirm-your-earnings-eligibility.md
@@ -607,7 +607,7 @@
       href: payout-policy-details.md
     - name: Utbetalningsinstruktioner
       href: payout-statement.md
-    - name: Konfigurera utbetalningskonto och deklarationsblanketter
+    - name: Konfigurera utbetalnings- och skatteprofiler på den kommersiella marknadsplatsen
       href: set-up-your-payout-account.md
     - name: Skatteinformation för utgivare på kommersiell marknadsplats
       href: tax-details-marketplace.md
