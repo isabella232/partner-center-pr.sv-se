@@ -9,16 +9,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73b47b62ce996156c7e780450bada1bdbec9f4b0
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 2b8ac518e4a5e13fe1c0f6545537c233b483e86a
+ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246373"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129191521"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Prislista för den nya handelsupplevelsen i CSP för Azure
 
-**Lämpliga roller:** Administratörsagent | Faktureringsadministratörskonto | Global | Supportagent | Försäljningsagent | Administratör för användarhantering
+**Lämpliga roller:** Administratörsagent | Faktureringsadministratörskonto | Global | Supportagent | Försäljningsagentens | Administratör för användarhantering
 
 Realtidspriserna för den nya Azure-handelsupplevelsen i CSP levereras dynamiskt i realtid på Partnercenter. Priserna visas endast i USD. Från och med augusti 2021 debiteras alla partner i partnervalutan oavsett var kunden som du sålde produkten är. Mer information finns i [Azure-plan – fakturering.](azure-plan-billing.md)
 
@@ -32,16 +32,29 @@ Om du har registrerat *dig den 21* juli 2021 eller senare
 
 ## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>Se priser för prenumerationer under prissättningen för Azure-planen
 
-1.  I menyn i Partnercenter väljer du **Sälj** och sedan **Priser och erbjudanden.**
+> [!NOTE]
+> Mer information om gränssnittet för arbetsytor finns i [Getting around Partner Center (Ta sig runt i Partnercenter).](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Vy över arbetsytor](#tab/workspaces-view)
+
+1. Logga in på [instrumentpanelen i Partnercenter,](https://partner.microsoft.com/dashboard)välj **panelen Prissättning** och välj sedan **Priser och erbjudanden.**
+
 2.  Under **Prissättning för Azure-planförbrukning** **och prissättning för Azure-planreservationer** väljer du land och sedan nedladdningslänken.
+
    - För **Växelkurser** väljer du nedladdningslänken under avsnittet .
 
-   > [!NOTE] 
+#### <a name="current-view"></a>[Aktuell vy](#tab/current-view)
+
+1.  Logga in på menyn i Partnercenter, välj **Sälj** och sedan **Priser och erbjudanden.**
+
+2.  Under **Prissättning för Azure-planförbrukning** **och prissättning för Azure-planreservationer** väljer du land och sedan nedladdningslänken.
+
+   - För **Växelkurser** väljer du nedladdningslänken under avsnittet .
+
+   > [!NOTE]
    > **FX-priser** är inte landsspecifika.
 
-   :::image type="content" source="images/azure/pricing-new.png" alt-text="Skärmbild av priser och erbjudanden som visar den nya handelsupplevelsen.":::
-
-   > [!NOTE] 
+   > [!NOTE]
    > Du kan exportera två olika prislistor: priser för Azure-planer och priser från tredje part på Marketplace.
 
 ## <a name="azure-price-list-specifics"></a>Information om Azure-prislistan
@@ -99,18 +112,18 @@ Vissa förbrukningstjänster i Azure-plan har stöd för nivåindelade priser. P
 |DDD123456ABC|01AB|0,80|101|100000|
 |DDD123456ABC|01AB|1|1|100|
 
-Om 101 enheter används i det här exemplet skulle avgiften vara 100,80. De första 100 enheterna är en i varje och nästa enhet debiteras vid 0,80.
+I det här exemplet skulle avgiften vara 100,80 om 101 enheter används. De första 100 enheterna är en i varje och nästa enhet debiteras till 0,80.
 
 ## <a name="pricing-api-for-azure-plan"></a>Prissättnings-API för Azure-plan
 
 Du kan använda [prissättnings-API:et](/partner/develop/pricing) för att hämta priser för Azure-planer för förbrukning och reservationer programmatiskt. Du kan också hämta växelkurser.
 
-Prissättnings-API:et finns på en annan slutpunkt än de andra Partner Center-API:erna. Prisinformationen innehåller mätarpriser i USD för Azure-planresurser och prissättning för reservationer som tillämpas på Prenumerationer på Azure-plan.
+Prissättnings-API:et finns på en annan slutpunkt än de andra Partner Center-API:erna. Prisinformationen innehåller mätarpriser i USD för Azure-planresurser och priser för reservationer som tillämpas på Azure-prenumerationsplan.
 
-Det här API:et gör det också möjligt för partner att hämta månatliga växelkurser eftersom priserna för Azure-planen endast är i USD. Du kan använda API:erna för att hämta både priser och växelkurser för den aktuella månaden eller föregående månader.
+Det här API:et gör det också möjligt för partner att hämta månatliga växelkurser eftersom prissättningen för Azure-planen endast är i USD. Du kan använda API:erna för att hämta både priser och växelkurser för den aktuella månaden eller föregående månader.
 
 > [!NOTE]
-> Prissättnings-API:et är specifikt för priser för Azure-planer. Du bör fortfarande använda det befintliga RateCard-API:et och prislistorna som publicerats på partnercentrets sida "Priser och erbjudanden" för Azure-resurser eller reservationer som distribuerats till prenumerationer som inte är Azure-planer. Pris-API:et för Azure-planer stöder inte programvara, Marketplace- eller licensbaserad prissättning, till exempel Microsoft 365 eller Dynamics 365.
+> Prissättnings-API:et är specifikt för priser för Azure-planer. Du bör fortfarande använda det befintliga RateCard-API:et och prislistorna som publiceras på partnercentrets sida "Priser och erbjudanden" för Azure-resurser eller reservationer som distribuerats till prenumerationer som inte är Azure-planer. Pris-API:et för Azure-planer stöder inte programvara, marketplace eller licensbaserad prissättning, till exempel Microsoft 365 eller Dynamics 365.
 
 Mer information om priser för Azure-planer och API:er för växelkurser finns i den fullständiga [api-dokumentationen för priser.](/partner/develop/pricing)
 

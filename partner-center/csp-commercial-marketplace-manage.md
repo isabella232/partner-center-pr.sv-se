@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b89271c42a420c2aafa19fbdb5bc8d3a274a2c6
-ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
+ms.openlocfilehash: ac95ec7297d06705084801120cf3f024a7680b66
+ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129089121"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129191433"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Hantera produkter och erbjudanden på den kommersiella marknadsplatsen för dina kunder
 
@@ -112,11 +112,7 @@ Utgivaren bör ge dig en anpassad länk och en auktoriseringskod som identifiera
 
 När du prenumererar på en licensbaserad SaaS-produkt som erbjuds av en ISV-utgivare på den kommersiella marknadsplatsen har du möjlighet att avbryta prenumerationen inom den angivna annulleringsperioden. Den här uppsägningsperioden ändras beroende på om du har en månatlig eller årlig prenumeration. Du kan också välja om du vill förnya prenumerationen automatiskt.
 
-Mer information om uppsägningsperioder som gäller, hur du avbryter eller förnyar en prenumeration automatiskt finns i:
-
-- [Avbryta en prenumeration](create-a-new-subscription.md#cancel-a-subscription)
-
-- [Förnya en prenumeration på den kommersiella marknadsplatsen automatiskt](create-a-new-subscription.md#choose-whether-to-automatically-renew-a-commercial-marketplace-subscription)
+Mer information om uppsägningsperioder som gäller, hur du avbryter eller förnyar en prenumeration automatiskt finns i [Avbryta en prenumeration.](create-a-new-subscription.md#cancel-a-subscription)
 
 ## <a name="add-or-remove-licenses-for-a-saas-subscription"></a>Lägga till eller ta bort licenser för en SaaS-prenumeration
 

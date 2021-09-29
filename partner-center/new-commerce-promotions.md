@@ -1,7 +1,7 @@
 ---
 title: Nya handelskampanjer
 ms.topic: article
-ms.date: 09/24/2021
+ms.date: 09/28/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
 description: Lär dig mer om nya handelsupplevelser för att upptäcka och köpa kampanjer.
@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b5b4e3ec2ef4c37b742102d287e5eddd93690fdb
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 723e56fc73a83abfb8f2c65ca529bdecab832c9c
+ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129075175"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129191416"
 ---
 # <a name="introduction-new-commerce-promotions"></a>Introduktion: Nya handelskampanjer
 
@@ -36,7 +36,7 @@ Partner kan identifiera kampanjer genom att besöka sökningsloggarna eller geno
 
 ## <a name="operationalize-promotions"></a>Operationalisera kampanjer ##
 
-Partner kan operationalisera kampanjerna genom att implementera getPromotions-API:et. Detta API returnerar alla kampanjer som finns för en viss marknad (kundens land) och segment. API:et returnerar listan över kampanjer och viktig information som hjälper partnern att förstå vilka kampanjer som är tillgängliga för kunder i olika länder. 
+Partner kan operationalisera kampanjerna genom att implementera [getPromotions-API:et](/partner-center/develop/get-promotions). Detta API returnerar alla kampanjer som finns för en viss marknad (kundens land) och segment. API:et returnerar listan över kampanjer och viktig information som hjälper partnern att förstå vilka kampanjer som är tillgängliga för kunder i olika länder. 
 
 
 API:et getPromotions innehåller följande data för en viss befordran:
@@ -49,9 +49,16 @@ Kampanjer tillämpas av partnercentret när partnern köper produkt-SKU:n som be
 
 ## <a name="verify-eligibility"></a>Verifiera berättigande ##
 
-Partner kan se om ett kundköp är berättigat till en befordran genom att se informationen på granskningssidan i Partnercenter innan de köper produkten. Partner kan också anropa API:et verifyPromotionEligibility och skicka kundens klientorganisations-ID och uppflyttnings-ID. Anropet returnerar true om kunden är berättigad. Om kunden inte är berättigad returnerar API:et de villkor som inte uppfylldes för att befordran ska vara tillämplig. 
+Partner kan se om ett kundköp är berättigat till en befordran genom att se informationen på granskningssidan i partnercenter innan de köper produkten. Partner kan också anropa [API:et verifyPromotionEligibility](/partner-center/develop/verify-promotion-eligibility)och skicka kundens klientorganisations-ID och uppflyttnings-ID. Anropet returnerar true om kunden är berättigad. Om kunden inte är berättigad returnerar API:et de villkor som inte uppfylldes för att befordran ska vara tillämplig. 
 
-Partner kan anropa validera berättigande och få resultat tillbaka. Behörighetsfel kan baseras på antal platser, inkompatibla villkor eller gränser för hur många gånger en befordran kan tillämpas på en kunds produkt-SKU.
+Partner kan anropa verifiera berättigande och få resultat tillbaka. Behörighetsfel kan baseras på antal platser, inkompatibla villkor eller gränser för hur många gånger en befordran kan tillämpas på en kunds produkt-SKU.
+
+Viktiga ämnen för nya handelskampanjer API:er:
+
+- [GetPromotions-API](/partner-center/develop/get-promotions)
+- [GetPromotionsById API](/partner-centerpartner-center/develop/get-promotion-by-id)
+- [VerifyPromtionEligibilities](/partner-center/develop/verify-promotion-eligibility)
+- [Kampanjresurser](/partner-center/develop/promotion-resources)
 
 >[!IMPORTANT]
 > Partner bör verifiera kampanjer innan de skickar en transaktion. Om partner inte ser *en* befordran på sidan Partnercenter-granskning tillämpas den inte på transaktionen. Partnern får priset för icke-befordran. Partner kan också titta på API:et för kundvagnsradsartikeln för att se om befordran finns innan en transaktion skickas. Partner kan anropa API:et för att verifiera kampanjer innan de skickar transaktioner för att verifiera att kombinationen av kundprodukt-SKU är berättigad till befordran och om inte orsaken till inkompatibiliteten.
@@ -60,15 +67,15 @@ Det finns tre orsaker till att en kund kanske inte är berättigad till en befor
 
 ### <a name="seat-count"></a>Antal platser ###
 
-Många kampanjer har en plats som kan vara högst 2 400 platser. I dessa fall skickas en transaktion med fler än 2 400 till priserna för icke-befordran. Dessa platsantal tillämpas också när du lägger till platser i en uppflyttningsprenumeration med dessa begränsningar. Partner får ett felmeddelande om de försöker öka en prenumeration som är aktiverad för befordran utöver gränserna. Platsbegränsningarna från kampanjer tillämpas mellan partner, så om en partner köper en befordran på 2 300 platser med en gräns för upphöjt antal platser får en andra partner som köper 200 platser prenumerationspriset till priset för icke-befordran. Befordran tillämpas på den produkt-SKU-nivå som partnern gör, så en partner kan få kampanjpriser för 2 400 platser för Microsoft 365 E3 och även för en annan produkt-SKU Microsoft 365 E5. Partner kan anropa [API:et för prenumerations-API:er](/partner-center/develop/get-a-list-of-available-licenses) för att se hur många licenser en kund har för en viss etablerad SKU.
+Många kampanjer har en plats som kan vara högst 2 400 platser. I dessa fall skickas en transaktion med fler än 2 400 till priserna för icke-befordran. Dessa platsantal tillämpas också när du lägger till platser i en uppflyttningsprenumeration med dessa begränsningar. Partner får ett felmeddelande om de försöker öka en prenumeration som är aktiverad för befordran utöver gränserna. Platsbegränsningarna från kampanjer tillämpas mellan partner, så om en partner köper en befordran på 2 300 platser med en gräns för upphöjt antal platser får en andra partner som köper 200 platser prenumerationspriset till priset för icke-befordran. Befordran tillämpas på den produkt-SKU-nivå som partnern gör, så en partner kan få kampanjpriser för 2 400 platser Microsoft 365 E3 och även för en annan produkt-SKU Microsoft 365 E5. Partner kan anropa [API:et för prenumerations-API:er](/partner-center/develop/get-a-list-of-available-licenses) för att se hur många licenser en kund har för en viss etablerad SKU.
 
 ### <a name="term"></a>Period ###
 
-Termbegränsningar definierar vilka produkt-SKU-termer som överensstämmer med en viss befordran. Många kampanjer har olika rabatter som definierats baserat på termen. Om en partner skickar en transaktion och termen inte överensstämmer med befordran förväntar de sig att transaktionen kommer att ha det pris som de förväntar sig. Exempel på villkor är *årlig eller* *månatlig*.
+Villkorsbegränsningar definierar vilka produkt-SKU-termer som överensstämmer med en viss befordran. Många kampanjer har olika rabatter som definierats baserat på termen. Om en partner skickar en transaktion och termen inte överensstämmer med befordran förväntar de sig att transaktionen kommer att ha det pris som de förväntar sig. Exempel på villkor är *årlig eller* *månatlig*.
 
 ### <a name="first-purchase"></a>Första köpet ###
 
-Vissa kampanjer framtvingas endast en gång. En partner ser berättigandet till *falskt med hjälp* av API:et för validering av berättigande med feltypen *FirstPurchase*. En partner kan fortfarande köpa den angivna produkt-SKU:n, men prenumerationen kommer att ha priset för icke-befordran. Den här begränsningen gäller per kund, inte per partner. När en kund har en befordran med den här regeln kan de inte få en andra instans av befordran tillämpad av en andra partner.
+Vissa kampanjer framtvingas endast en gång. En partner ser ett berättigande till *falskt med hjälp* av API:et för berättigande för validering med feltypen *FirstPurchase*. En partner kan fortfarande köpa den angivna produkt-SKU:n, men prenumerationen kommer att ha priset för icke-befordran. Den här begränsningen gäller per kund, inte per partner. När en kund har en befordran med den här regeln kan de inte få en andra instans av befordran tillämpad av en andra partner.
 
 ## <a name="promotions-and-renewals"></a>Kampanjer och förnyelser ##
 
