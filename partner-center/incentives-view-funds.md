@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 90e074bc2b6d1485cdd868fdf66b4f509ca4d5a4
-ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
+ms.openlocfilehash: cc5cd9192f8712f94e70b9881903f8bb43581a70
+ms.sourcegitcommit: a59e1abb470f4847e8f8337ffa4ba705514a0424
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129090141"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129249602"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Visa tillgängliga intjänade, upparbetade och återstående co-op-medel
 
@@ -70,7 +70,7 @@ Co-op-intäkter för den aktuella intjäningsperioden visas inte i vyn Samhanter
 3. Välj **Ladda ned** för att ladda ned dessa data.
 
 ### <a name="co-op-threshold"></a>Tröskelvärde för co-op
-Om en partners co-op-intäkter understiger tröskelvärdet under en co-op-intäktsperiod kvalificerar de sig inte för att använda medel och får co-op-intäkterna som de är i slutet av terminen. Se programguiden för tröskelvärdet. 
+Om en partners co-op-intäkter understiger tröskelvärdet under en co-op-intäktsperiod kvalificerar de sig inte för att använda medel och får co-op-intäkterna som de är i slutet av terminen. Se [co-op-tröskelvärdet](claims-threshold.md) för tröskelvärdena baserat på programmet. 
 
 Om du fortfarande har problem med att stämma av beloppen, eller om vissa co-op-medel inte visas, kan du öppna en supportbiljett. Det gör du genom att välja frågetecknet i det övre högra hörnet på sidan och sedan välja **Incitament**.
 

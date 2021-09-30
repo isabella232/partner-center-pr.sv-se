@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b994d4dc483e030586ea615b5835afbc7555cabe
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 853d06204b3d91f1e311c8af09163b5640b0cd03
+ms.sourcegitcommit: a59e1abb470f4847e8f8337ffa4ba705514a0424
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129075854"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129249262"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Hantera dina MPN-kontoplatser och lägg till (ta bort) en plats
 
@@ -24,7 +24,7 @@ PLATSENs MPN-ID identifierar varje specifik plats för ditt företag. Du använd
 
 ## <a name="the-following-scenario-is-typical"></a>Följande scenario är typiskt:
 
-Contoso har sitt globala partnerkonto (PGA) i Storbritannien. PGA är deras registrerade juridiska verksamhet och dess globala MPN-ID används för att hantera alla icke-transaktionella företag. Contoso har också partnerplatskonton (PLA) som motsvarar dotterbolag eller avdelningar på en annan plats i Storbritannien, Frankrike och USA. I MPN-kontostrukturen representeras dessa PLA:er som unika MPN-ID:er för platsen. PLA:erna används för transaktionella företag, till exempel CSP eller incitamentsprogram. Utbetalningar är knutna till specifika platser.
+Contoso har sitt globala partnerkonto (PGA) i Storbritannien. PGA är deras registrerade juridiska verksamhet och dess globala MPN-ID används för att hantera alla icke-transaktionella företag. Contoso har också partnerplatskonton (PLA) som motsvarar dotterbolag eller avdelningar på en annan plats i Storbritannien, Frankrike och USA. I MPN-kontostrukturen representeras dessa PLA:er som mpn-ID:er för unika platser. PLA:erna används för transaktionella företag, till exempel CSP eller incitamentsprogram. Utbetalningar är knutna till specifika platser.
 
 > [!NOTE]
 > Det finns en en-till-en-relation mellan en CSP-klient och ett MPN-plats-ID.
@@ -37,10 +37,10 @@ Om du vill lägga till ett nytt CSP-företagskonto börjar du med att se till at
 
 1. Du måste ha ett PLATS-MPN-ID i det land där du vill göra CSP-verksamheten. Om du vill skapa en ny MPN-plats läser du "Lägg till en MPN-plats" nedan.
   
-2. Om du vill skapa en CSP Indirect Reseller registrering kan du [läsa Arbeta med indirekta leverantörer](indirect-reseller-tasks-in-partner-center.md#get-started).
+2. Om du vill skapa en CSP Indirect Reseller registrering kan du [läsa Arbeta med indirekta leverantörer.](indirect-reseller-tasks-in-partner-center.md#get-started)
 
 > [!NOTE]
-> Kom ihåg att logga in med de **nya autentiseringsuppgifterna** för det **nya** CSP-kontot. Använd inte dina befintliga autentiseringsuppgifter eftersom Partnercenter identifierar dig som att du redan har ett konto.
+> Kom ihåg att logga in med de **nya autentiseringsuppgifterna** för det **nya** CSP-kontot. Använd inte dina befintliga autentiseringsuppgifter eftersom Partnercenter kommer att identifiera dig som att du redan har ett konto.
 
 3. Godkänn Microsoft-partneravtal och aktivera kontot.
 
@@ -54,9 +54,8 @@ Om du vill lägga till ett nytt CSP-företagskonto börjar du med att se till at
 
 3. På fliken **Partner** kontrollerar du att det inte finns något banderollsfelmeddelande där du uppmanas att åtgärda migrerade platser från PMC.  Om dina platser inte har ställts in korrekt i PMC och ännu inte har gått över till datorn, måste du uppdatera dessa platser.
 
-:::image type="content" source="images/locations/location-two.png" alt-text="Skärmbild som visar hur du uppdaterar platsen.":::
-
 4. På skärmen **Granska PMC-platser** väljer du **Uppdatera**.
+
 Uppdatera följande fält:
 
 - **Namnfält:** Kontrollera att namnet på företagets plats är korrekt. Om ett dubblettfel visas kan du prova att byta från till exempel Contoso till Contoso, Inc.
@@ -65,15 +64,15 @@ Uppdatera följande fält:
 
 - **Adressrad 1 & 2:** Kontrollera att adressen är korrekt
 
-- **Ort & för delstat/provins:** Kontrollera att kombinationen mellan stad och region är korrekt. Det finns länder där den nedrullningsbara menyn för att välja Delstat/provins kommer att gälla och i andra länder som fältet måste infogas manuellt.
+- **Ort & för delstat/provins:** Kontrollera att kombinationen mellan stad och region är korrekt. Det finns länder där listrutemenyn för att välja Delstat/provins kommer att gälla, och i andra länder måste fältet infogas manuellt.
 
 - **Postnummerfält:** Kontrollera att postnummerfältet matchar ditt angivna land, region, ort eller adress.
 
 - **Primära kontaktinformationsfält:** Kontrollera att fälten för för- och efternamn är ifyllda och att e-postadressen som anges är en e-postadress för arbetet och inte en personlig e-postadress (till exempel @outlook.com , @live.com osv.)
 
-- **Telefon tal:** Kontrollera att Telefon inte innehåller specialtecken, blanksteg eller landskod. Värdet som anges i Telefon Number innehåller alltid högst 10 tecken.
+- **Telefon:** Kontrollera att Telefon inte innehåller specialtecken, blanksteg eller landskod. Värdet som anges i Telefon Number innehåller alltid högst 10 tecken.
 
-5. Om det inte finns något felmeddelande går du till **Inställningar** väljer **Account Inställningar**, **Organization profile**, **Identifiers**.
+5. Om det inte finns något felmeddelande går du till **Inställningar** och väljer **Account Inställningar**, **Organization profile**, **Identifiers**.
 
 6. Hitta MPN-ID:t med typen "Plats" som matchar landet för det här CSP-kontot och använd det för att slutföra associationen.
 
@@ -83,7 +82,7 @@ Uppdatera följande fält:
 
 1. Logga in med MPN-kontot i Partnercenter. (Dina MPN-autentiseringsuppgifter kan vara annorlunda än dina CSP-autentiseringsuppgifter.) MPN-kontot ska ha behörigheter som global administratör eller kontoadministratör.
 
-2. Välj kugghjulsikonen Inställningar sedan **Konto Inställningar** och välj sedan **Organisationsprofil**.
+2. Välj kugghjulsikonen Inställningar, **sedan Konto Inställningar** och välj sedan **Organisationsprofil**.
 
 3. Välj **Juridiskt** och sedan, på **fliken Partner,** väljer **du Business locations (Företagsplatser)** och sedan Add a location **(Lägg till en plats).**
 
@@ -94,7 +93,7 @@ Uppdatera följande fält:
 :::image type="content" source="images/legal-biz.png" alt-text="Lägg till en ny juridisk verksamhet.":::
 
 > [!NOTE]
-> När en plats har lagts till i Partnercenter kan du inte ta bort den. MPN visas **på den** vänstra menyn i Partnercenter om du har använt rätt MPN-ID för att logga in.
+> När en plats har lagts till i Partnercenter kan du inte ta bort den. MPN visas **på** den vänstra menyn i Partnercenter om du har använt rätt MPN-ID för att logga in.
 
 ## <a name="add-the-registration-number-id"></a>Lägg till registreringsnummer-ID:t
 
@@ -135,7 +134,7 @@ Om du vill ta bort en plats från ditt konto måste du kontakta [partnersupporte
 
 1. Logga in med MPN-kontot i Partnercenter. (Dina MPN-autentiseringsuppgifter kan vara annorlunda än dina CSP-autentiseringsuppgifter.) MPN-kontot ska ha behörigheter som global administratör eller kontoadministratör.
 
-2. Välj kugghjulsikonen för Inställningar och **sedan Konto Inställningar**. På fliken **Partner** går du till **Företagsplatser** och kontrollerar listan över platser för att se till att den plats som du vill ha som juridisk enhet visas.
+2. Välj kugghjulsikonen Inställningar och sedan **Konto Inställningar**. På fliken **Partner** går du till **Företagsplatser** och kontrollerar listan över platser för att se till att den plats som du vill ha som juridisk enhet visas.
 
 3. Om du vill lägga till en plats klickar du på Lägg till en plats och anger nödvändig information, inklusive företagsnamn, adress och primär kontakt för den plats som du vill lägga till i företaget.
 
