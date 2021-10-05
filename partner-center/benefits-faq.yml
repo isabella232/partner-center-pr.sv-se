@@ -10,12 +10,12 @@ metadata:
   ms.author: keramp
   ms.localizationpriority: medium
   ms.custom: SEOJUNE20
-  ms.openlocfilehash: 5e897fc5046647176e4f605b9226a6280b409938
-  ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+  ms.openlocfilehash: b7a0e916afdf773c6a3f6ea451a79ece15626da2
+  ms.sourcegitcommit: cf8c78e0c8831371432007d5ab05f934f15a77b5
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/27/2021
-  ms.locfileid: "129074128"
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "129525304"
 title: Microsoft Partner Network – vanliga frågor och svar
 summary: >
   **Lämpliga roller:** MPN-partneradministratör
@@ -30,20 +30,7 @@ sections:
     answer: "Förfallodatum för förmånen innebär det sista datumet för att aktivera dina förmåner.\n\nDu har fram till förnyelsedatumet på dig att lösa in de förmåner som är tillgängliga under registreringsperioden på ett år. Du hittar startdatumet för förnyelsen på sidan [Medlemskapserbjudanden](https://partner.microsoft.com/dashboard/mpn/offers) på MPN-instrumentpanelen.\n\nDu kan dock använda produktnycklar i ett år från den dag då du löser in nycklarna i deras respektive molnportaler.\n\nOm din förmån till exempel upphör att gälla den 31 januari 2021 måste du lösa in nycklarna i lämplig molnportal före den 31 januari 2021. Och om du löser in din produktnyckel den 1 december 2020 kan du använda den nyckeln fram till den 1 december 2021, även om förfallodatumet för din förmån är 31 januari.\n\n> [!NOTE]  \n> Om du har förmåner som kräver en användartilldelning (till exempel Visual Studio-prenumerationer) kan du aktivera och använda dessa förmåner i ytterligare 30 dagar efter förnyelsedatumet för registreringen.\n"
   - question: >
       Hur gör jag för att förnya mina förmåner
-    answer: >
-      Använd följande procedur för att förnya dina förmåner:
-
-
-      1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).
-
-
-      2. Välj **panelen** Fördelar. Om du inte använder vyn Arbetsytor väljer du **MPN** och sedan **Förmåner.**
-
-
-      3. Aktivera den förmån som du vill ha.
-
-
-      Om förmånen du vill ha inte är tillgänglig måste du förnya ditt PartnerCenter-medlemskap och upprepa processen ovan.
+    answer: "Använd följande procedur för att förnya dina förmåner:\n\n1. Logga in på [instrumentpanelen i Partnercenter](https://partner.microsoft.com/dashboard/).\n\n2. Välj **panelen** Fördelar. Om du inte använder vyn Arbetsytor väljer du **MPN** och sedan **Förmåner.**\n\n3. Aktivera den förmån som du vill ha.\n\nOm förmånen du vill ha inte är tillgänglig måste du förnya ditt PartnerCenter-medlemskap och upprepa processen ovan.\n\n> [!NOTE]  \n> Licensnycklar för Office Professional Plus 2019 som hämtas via IUR-licenser i Partnercenter fungerar inte när de installeras på macOS.\n"
   - question: >
       Jag har fått ett meddelande om att min prenumeration snart går ut – vad ska jag göra?
     answer: >

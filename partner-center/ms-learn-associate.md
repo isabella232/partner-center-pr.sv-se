@@ -1,22 +1,22 @@
 ---
 title: Länka Microsoft Learn MCP-ID till Partnercenter-konto
 ms.topic: how-to
-ms.date: 09/27/2021
+ms.date: 10/05/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
-description: Lär dig hur du kopplar ditt MCP-ID till ditt Partnercenter-konto så att ditt företag kan se utbildningsvägarna som du har tagit mot kompetenser.
-author: kbangalore
-ms.author: kiranban
+description: Lär dig hur du kopplar ditt MCP-ID till ditt Partnercenter-konto så att ditt företag kan se utbildningsvägarna och utbildningsvägarna som du har tagit mot kompetenser.
+author: keramp88
+ms.author: keramp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d2ffbdebd00ad16ca0fbbed4bba39046703c3ed
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: c39c09a274576b15d006a8b3576501a8b52915cf
+ms.sourcegitcommit: cf8c78e0c8831371432007d5ab05f934f15a77b5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129071777"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "129525292"
 ---
-# <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Länka eller avlänka ett Microsoft-certifikatprofil-ID (MCID) till ett Microsoft Partner Network (MPN)-konto
+# <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Länka eller avlänka ett Microsoft-certifikatprofil-ID (MCID) till ett Microsoft Partner Network-konto (MPN)
 
 **Lämpliga roller:** Alla Partner Center-användare
 
@@ -41,12 +41,12 @@ Använd följande procedur för att associera ett Microsoft Learning konto.
 
 1. Logga in på din [PartnerCenter-profil](https://partner.microsoft.com/pc/Users/MyAccount).
 
-2. Rulla ned till **fältet Microsoft-prov och certifieringar** och välj **Associera Microsoft Learning konto**.
+2. Rulla ned till **fältet Microsoft-prov och certifieringar** och välj **Associera Microsoft Learning konto**. Kontrollera att certifieringsprofilen är klar och att MC-ID genereras för ditt konto. Logga in på instrumentpanelen [för certifiering för](https://aka.ms/certdashboard) att hitta ditt [MC-ID](https://docs.microsoft.com/learn/certifications/find-mcid)
 
 3. När du uppmanas till det anger du de autentiseringsuppgifter som du använder för att logga in på din Microsoft-certifieringsprofil (din MCID).
 
 > [!NOTE]
-> Om Autentiseringsuppgifterna för Microsoft Learning-kontot är samma som autentiseringsuppgifterna för Partner University-kontot väljer du Använd för att associera **email@address mitt Microsoft Learning konto.**
+> Om autentiseringsuppgifterna för Microsoft Learning-kontot är samma som autentiseringsuppgifterna för Partner University-kontot väljer du Använd för att associera **email@address mitt Microsoft Learning konto.** Kontrollera att certifieringsprofilen är klar och att MC-ID genereras för ditt konto. Logga in på instrumentpanelen [för certifiering för](https://aka.ms/certdashboard) att hitta ditt [MC-ID](https://docs.microsoft.com/learn/certifications/find-mcid)
 
 ## <a name="download-skills-report-microsoft-certification-list"></a>Ladda ned kunskapsrapport (Microsoft-certifieringslista)
 Om du behöver information kan du komma åt och ladda ned kunskapsrapporten av en global administratör eller MPN-partneradministratör från Partnercenter. Mer information finns [i](./mpn-skills-report.md#view-skills-report-data).
@@ -55,7 +55,7 @@ Om du behöver information kan du komma åt och ladda ned kunskapsrapporten av e
 
 ### <a name="how-can-a-user-link-their-microsoft-certification-profile-id-mcid-with-the-microsoft-partner-network-mpn-organization-they-work-for"></a>Hur kan en användare länka sitt Microsoft-certifieringsprofil-ID (MCID) till den Microsoft Partner Network (MPN)-organisation som de arbetar för?
 
-Användarna bör logga in på Partnercenter och **gå till Min profil** och sedan välja antingen Get Partner University account (Skaffa Partner **University-konto)** eller Associate Microsoft Learning account (Associera Microsoft **Learning konto)** och ange sina autentiseringsuppgifter. För att associera till ett Microsoft Learning-konto måste användaren ange användarnamnet och lösenordet som används för att logga in på sin Microsoft-certifieringsprofil (MCID). På grund av sekretessöverväganden måste användarna själva slutföra kontolänkningsprocessen.  
+Användarna bör logga in på Partnercenter och **gå till Min profil** och sedan välja antingen Hämta Partner **University-konto** eller Associera **Microsoft Learning-konto** och ange sina autentiseringsuppgifter. För att associera till ett Microsoft Learning-konto måste användaren ange användarnamnet och lösenordet som används för att logga in på sin Microsoft-certifieringsprofil (MCID). På grund av sekretessöverväganden måste användarna själva slutföra kontolänkningsprocessen.  
 
 ### <a name="how-can-a-user-unlink-their-mcid-from-the-mpn-organization-they-work-for"></a>Hur kan en användare avlänka sin MCID från den MPN-organisation som de arbetar för?
 

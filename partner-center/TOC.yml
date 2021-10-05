@@ -60,7 +60,7 @@
       href: vat-info.md
 - name: Kontoinställningar
   items:
-    - name: Kontoöversikt
+    - name: Översikt över konton
       href: partner-center-account-setup.md
     - name: Om kontostrukturen
       href: account-structure.md
@@ -144,7 +144,7 @@
           href: mpn-benefits-map-competency-learning-option-enroll.md
         - name: Vanliga frågor och svar om kompetenser
           href: competencies-faq.yml
-        - name: Betala avgifter för kompetens
+        - name: Avgifter för betalning av kompetens
           href: mpn-pay-fee-silver-gold-competency.md
         - name: Använda kunskapsrapporten
           href: mpn-skills-report.md
@@ -158,7 +158,7 @@
       href: csp-regional-authorization-tenant-consolidation.md
     - name: Associera Learn-konto
       href: ms-learn-associate.md
-    - name: Partner Membership Center går i pension
+    - name: Partner Membership Center tillbaka
       href: partner-membership-center-retirement-faq.md
 - name: Fördelar
   items:
@@ -168,7 +168,7 @@
       href: mpn-refund-request.md
     - name: Hitta dina MPN-förmåner
       href: mpn-find-benefits.md
-    - name: Princip och användning av förmåner
+    - name: Princip och användning för förmåner
       href: benefits-faq-new.yml
     - name: Vanliga frågor och svar om förmåner
       href: benefits-faq.yml
@@ -212,7 +212,7 @@
           href: routing-rules.md
         - name: Använda CRM-anslutningsprogram för säljsamarbete
           items:
-            - name: Anslutningsapp för Dynamics 365
+            - name: Anslutning för Dynamics 365
               href: connector-dynamics.md
             - name: Anslutningsapp för Salesforce
               href: connector-salesforce.md
@@ -369,7 +369,7 @@
       href: digital-signature.md
     - name: Moms och momsbefrielse
       items:
-        - name: Momsbefrielse efter land eller region
+        - name: Momsbefrielse per land eller region
           href: tax-and-tax-exemptions.md
         - name: Information om företagsmoms
           href: organization-tax-info.md
@@ -421,7 +421,7 @@
           href: advisors-build-your-business.md
         - name: Skapa ett erbjudande om att köpa Office 365
           href: advisor-create-a-purchase-offer.md
-    - name: Partner kan inte längre registreras som rådgivare
+    - name: Partner kan inte längre registrera sig som rådgivare
       href: advisors-no-csp.md
     - name: CSP-erbjudanden
       items:
@@ -449,7 +449,7 @@
               href: azure-roles-perms-pec.md
             - name: Vanliga frågor och svar om partner-intjänad kredit
               href: partner-earned-credit-faq.md
-            - name: Felsöka partners intjänade kredit
+            - name: Felsöka partner-intjänad kredit
               href: partner-earned-credit-troubleshoot.md
             - name: Prislista för den nya handelsupplevelsen i CSP för Azure
               href: azure-plan-price-list.md
@@ -519,7 +519,7 @@
           href: incentives-enroll.md
         - name: Kontrollera programberättigande
           href: incentives-determined-your-program-eligibility.md
-        - name: Förstå incitament för utbetalning och skatteprofiler
+        - name: Förstå incitamentsutbetalning och skatteprofiler
           href: incentives-create-and-manage-your-payout-and-tax-profiles.md
         - name: Kontrollera intäktsberättigande
           href: incentives-confirm-your-earnings-eligibility.md
@@ -527,11 +527,11 @@
           href: understand-incentive-payouts.md
     - name: MCI-engagemang
       items:
-        - name: Översikt över MCI-engagemang och berättigande
+        - name: Översikt över och behörighet för MCI-engagemang
           href: mci-engagements.md
         - name: Kundsida för MCI-engagemang
           href: mci-engagements-customers.md
-        - name: Skicka ett workshop-anspråk för MCI-engagemang
+        - name: Skicka ett workshopanspråk för MCI-engagemang
           href: mci-engagements-workshop.md
     - name: Planer och bevis på utförande
       items:
@@ -621,13 +621,17 @@
       href: payout-policy-details.md
     - name: Utbetalningsinstruktioner
       href: payout-statement.md
+    - name: Intäktssammanfattning
+      href: revenue-summary.md
+    - name: Sidan Exportera data för utbetalning
+      href: payouts-enhanced-exports.md
     - name: Konfigurera utbetalnings- och skatteprofiler på den kommersiella marknadsplatsen
       href: set-up-your-payout-account.md
     - name: Skatteinformation för utgivare på kommersiell marknadsplats
       href: tax-details-marketplace.md
     - name: Förstå skatter
       items:
-        - name: Hur skatteprinciper påverkar utbetalning
+        - name: Så här påverkar skatteprinciper utbetalningen
           href: tax-policies-affect-payout.md
         - name: Om IRS-skatteformulär som utfärdats av Microsoft
           href: understand-irs-tax-forms.md
@@ -687,7 +691,7 @@
               href: partner-contribution-indicators.md
             - name: Kompetens för molnlösningar för liten marknad och mellanmarknad
               href: partner-contribution-indicators-small-and-midmarket-cloud-business-option.md
-    - name: Hänvisningsinformation
+    - name: Referensinsikter
       href: referral-insights.md
     - name: Molnlösningsleverantör insikter
       items:
@@ -713,7 +717,7 @@
           href: insights-programmatic-prerequisites.md
         - name: Paradigm för programmatisk åtkomst
           href: insights-programmatic-access-paradigm.md
-        - name: Gör ditt första programmerings-API-anrop
+        - name: Gör ditt första programmatiska API-anrop
           href: insights-programmatic-first-api-call.md
         - name: Lista över systemfrågor
           href: insights-programmatic-system-queries.md
@@ -749,7 +753,7 @@
               href: insights-programmatic-analytics-api-resume-report-executions.md
 - name: Hjälp + support
   items:
-    - name: Översikt över hjälp och support
+    - name: Översikt över Hjälp + support
       href: support-from-microsoft.md
     - name: Rapportera problem med Partner Center
       href: report-problems-with-partner-center.md
