@@ -9,14 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e5fd305377a02d15991f48553b5fd071fb22d9dc
-ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
+ms.openlocfilehash: d57d3576c99a78acff280c25462f872323e89c7d
+ms.sourcegitcommit: 462d6026287b85c9feea602af5bcdf924f3e6976
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129090124"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "129452490"
 ---
-# <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Sälja programvaruprenumerationer via Molnlösningsleverantör-programmet (CSP)
+# <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Sälja programvaruprenumerationer via Molnlösningsleverantör (CSP)
 
 **Lämpliga roller:** Administratörsagent | Global administratör
 
@@ -100,7 +100,7 @@ Så här köper du programvaruprenumerationer åt en kund:
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Aktivera och hantera programvaruprenumerationer
 
-När du har köpt din programvara måste du eller dina kunder ladda ned den (partner som använder Partnercenter; kunder som använder Microsoft 365 Admin Center). Gör detta på följande sätt. Det är viktigt att förstå riskerna med att kopiera länkar och ladda ned programvara. Mer information finns i Använda **Partnercenter för att hämta** nedladdning av kundprogramvara och licensnycklar i [partnercentrets guide för nya handelsåtgärder.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
+När du har köpt din programvara måste du eller dina kunder ladda ned den (partner med Partnercenter; kunder som använder Microsoft 365 Admin Center). Gör detta på följande sätt. Det är viktigt att förstå riskerna med att kopiera länkar och ladda ned programvara. Mer information finns i Använda **Partnercenter för att hämta** nedladdning av kundprogramvara och licensnycklar i [partnercentrets guide för nya handelsåtgärder.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
 
 > [!NOTE]
 > Du måste vara administratörsagent i Partnercenter för att få en länk till nycklar och nedladdningar.
@@ -125,7 +125,7 @@ När du har köpt din programvara måste du eller dina kunder ladda ned den (par
 
 ## <a name="move-a-customers-on-premises-license-from-vl-to-csp-with-no-downtime"></a>Flytta en kunds lokala licens från VL till CSP utan avbrottstid
 
-Även KMS nycklar inte är tillgängliga i CSP kan du fortfarande flytta kundens lokala licenser från VL till CSP och förhindra driftstopp på grund av inköpskanalväxeln. KMS distribuerar licenserna till klienterna och de förblir vanligtvis aktiva i 180 dagar innan enheten försöker förnya aktiveringen. Det innebär att enheten redan är aktiverad och körs under en tid innan några problem uppstår. 
+Även KMS nycklar inte är tillgängliga i CSP kan du fortfarande flytta kundens lokala licenser från VL till CSP och förhindra driftstopp på grund av inköpskanalväxeln. KMS distribuerar licenserna till klienterna och förblir vanligtvis aktiva i 180 dagar innan enheten försöker förnya aktiveringen. Det innebär att enheten redan är aktiverad och körs under en tid innan några problem uppstår. 
 
 Om kunden distribuerar den nya fleraktiveringsaktiveringsaktiveringen under den här tiden, antingen manuellt eller med skript (med hjälp av ), sker `slmgr.vbs` ingen stilleståndstid. Om kunden inte distribuerar den nya fleraktiveringsaktiveringsaktiveringen under den här tiden och försöker förnya licensen senare, kan enheten bli begränsad eller blockerad i vissa funktioner tills den återaktiveras. 
 
@@ -133,7 +133,7 @@ Mer information finns i Aktivera [klienter som kör Windows 10 (Windows 10) – 
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Nedladdning av serverprenumeration och licensnycklar som är tillgängliga via Microsoft 365 Admin Center för kunder 
 
-Dina kunder kommer att kunna hämta licensnycklar och nedladdningar för CSP-serverprenumeration från Microsoft 365 Admin Center. Om du vill se licensnycklarna och nedladdningarna för prenumerationen på CSP-servern måste kunden gå till fliken Microsoft 365 Admin Center > Billing > Your products > Software (Fakturering för **>).** Mer information finns på [fliken Programvara under Fakturering.](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)  
+Dina kunder kommer att kunna hämta licensnycklar och nedladdningar för CSP-serverprenumeration från Microsoft 365 Admin Center. Om du vill se licensnycklarna och nedladdningarna för prenumerationen på CSP-servern måste kunden gå till Microsoft 365 Admin Center > **Billing > Your products > Software (Fakturering** för >) på fliken Your products > Software (Dina produkter > Programvara). Mer information finns på [fliken Programvara under Fakturering.](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Visa aktivitet för åtkomst till programvarunyckel och nedladdning av programvara
 
@@ -148,9 +148,19 @@ I gransknings- eller efterlevnadssyfte kan du behöva kontrollera en lista över
 
 3. Ange datumintervallet för den aktivitet som du vill se. Aktivitetsloggen visar en lista över användare som antingen har åtkomst till programvarunycklar eller nedladdad programvara under den tid som du har angett.
 
+## <a name="toggle-auto-renew"></a>Växla automatisk förnyelse
+
+Från och med 14 oktober 2021 kommer nyligen köpta programvaruprenumerationer att ställas in på automatisk förnyelse på det angivna förnyelsedatumet som standard. Den här komponenten för automatisk förnyelse kan vara på och av för att matcha partnerbehoven. Programvaruprenumerationer som köpts före den 14 oktober 2021 kommer inte att ha automatisk förnyelse som aktiverat som standard och kan inte användas för automatisk förnyelse.
+
+## <a name="managing-billing-frequency"></a>Hantera faktureringsfrekvens
+
+Ändringar av faktureringsfrekvensen efter halva perioden kommer att stödjas för alla inköp av programvaruprenumeration från och med 14 oktober 2021. En månatlig till årlig faktureringsfrekvensändring kommer att stödjas för alla programvaruprenumerationer. Årliga till månatliga faktureringsändringar stöds endast om den återstående programprenumerationsperioden är längre än ett år. Under det första året i dess period kan till exempel en programvaruprenumeration på en 3-årsperiod med årlig fakturering ändras till månatlig fakturering efter att den första årliga betalningen har gjorts. Efter det första året som har betalats, återspeglar efterföljande faktureringsavgifter en månatlig faktureringsperiod och ett pris. 
+
+Alla faktureringsändringar börjar gälla när den aktuella faktureringsperioden har slutförts och en programvaruprenumeration har slutförts. 
+
 ## <a name="cancel-a-purchase"></a>Avbryta ett köp
 
-Du kan avbryta ett programvaruköp inom 30 dagar från inköpsdatum. Om du avbryter inom den första 30-dagarsperioden debiteras du inte någon avgift för tidig uppsägning. Efter 30 dagar kan du inte längre avbryta ett köp. (Se Anteckning om nyckelbegränsningar för den här annulleringsregeln. Mer information om vad som händer när du har avbrutit ett programvaruköp finns i Viktigt efter de här stegen.)
+Du kan avbryta ett programvaruköp inom 30 dagar från inköpsdatum. Om du avbryter inom den första 30-dagarsperioden debiteras du inte någon avgift för tidig uppsägning. Efter 30 dagar kan du inte längre avbryta ett köp. (Se Anteckning om nyckelbegränsningar för den här annulleringsregeln. Mer information om vad som händer när du har avbrutit ett programvaruköp finns i Viktigt meddelande efter de här stegen.)
 
 > [!NOTE]
 > Följande steg för att avbryta ett köp gäller endast för programvara som kvalificerar för annullering inom en viss uppsägningsfönster, till exempel inom de första 30 dagarna efter köpet. De här stegen gäller inte heller för en SUSE Linux- eller RedHat-programvaruplan i Azure. Just nu kan du inte avbryta eller byta en SUSE- eller RedHat-programvaruplan. [Läs mer](/azure/virtual-machines/linux/prepay-suse-software-charges) om hur du använder SUSE Linux- eller RedHat-planer.

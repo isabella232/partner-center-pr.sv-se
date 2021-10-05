@@ -10,18 +10,41 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 10/01/2021
-ms.openlocfilehash: aa4b4c5e6b120181b268d3e172ee605186359f75
-ms.sourcegitcommit: 8eaef380caa66ae3c8e2674535e06c3676fa35f2
+ms.date: 10/04/2021
+ms.openlocfilehash: 70c2456d97c5c47d72a1791c9ab44b70a495fca5
+ms.sourcegitcommit: 462d6026287b85c9feea602af5bcdf924f3e6976
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/04/2021
-ms.locfileid: "129415543"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "129452487"
 ---
 # <a name="october-2021-announcements"></a>Meddelanden oktober 2021
 
 Den här sidan innehåller meddelanden för Microsoft Partner Center för oktober 2021.
 
+________________
+## <a name="november-2021-update-online-services-and-software-channel-authorization-guide"></a><a name="3"></a>Uppdatering november 2021: Auktoriseringsguide för onlinetjänster och programvarukanal
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-10-04
+- Funktioner
+
+### <a name="impacted-audience"></a>Målgrupp som påverkas
+
+Direktfaktureringspartner, indirekta leverantörer och partner på flera Molnlösningsleverantör programmet
+
+### <a name="summary"></a>Sammanfattning
+
+Det finns en uppdatering av auktoriseringsguiden onlinetjänster och programvarukanal.
+
+### <a name="details"></a>Information
+
+I enlighet med det underavsnittet i Auktorisering av onlinetjänster och programvarukanal under avsnittet "Meddelande om ändringar", med titeln "Ändringar i guiderna", meddelar Microsoft dig i din Microsoft-partneravtal att auktoriseringsguiden för onlinetjänster och programvarukanal håller på att uppdateras. En förhandsgranskning av den uppdaterade guiden finns [här med](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-download-pdf) en röd linje som visar ändringar som finns [här.](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-download-pdf) Uppdateringen börjar gälla 30 dagar från datumet för det här meddelandet. Du behöver inte vidta några ytterligare åtgärder.
+
+### <a name="next-steps"></a>Nästa steg
+
+Det krävs inga åtgärder. Det här är bara ett meddelande.
 ________________
 ## <a name="final-90-days-to-transact-offers-in-the-open-license-program"></a><a name="2"></a>Sista 90 dagarna för att göra en överträdelse av erbjudanden i Open License-programmet
 
@@ -56,7 +79,7 @@ Vi gör det enklare för partner att hjälpa sina kunder att flytta till molnet,
 
 Kom ihåg att **den 31 december 2021** är den sista dagen för att göra en öppen licens för dina kunder för partner som ännu inte har registrering i CSP-programmet. Från och med midnatt, lokal tid den 1 januari 2022, måste partner ha anslutit sig till CSP-programmet för att kunna ta del av de beständiga programvaruerbjudandena i CSP. För att skydda dina intäktsströmmar måste du flytta dina open-licensprogramkunder snabbare än senare och flytta sina nya inköp och förnyelser till erbjudandena i CSP, Open Value eller Open Value Subscription.
 
-Partner uppmuntras också att delta i någon av fyra Ops-värdbaserade Office Hours-sessioner som äger rum den 3 och 4 november (Partner Center Onboarding och Översikt för indirekta återförsäljare i CSP) och en annan uppsättning med fyra sessioner som äger rum den 10 och 11 november (Överväganden för Open Value Partner Operations).
+Partner uppmuntras också att delta i någon av fyra ops-värdbaserade Office Hours-sessioner som äger rum den 3 och 4 november (Partner Center Onboarding och Översikt för indirekta återförsäljare i CSP) och en annan uppsättning med fyra sessioner som äger rum den 10 och 11 november (Överväganden för Open Value Partner Operations).
 
 - Partner kan registrera sig för dessa sessioner på samma plats som tidigare genom att besöka: [Open Retirement - Migration to CSP/Open Value: Partner Operations Considerations](https://globalpbocomm.eventbuilder.com/OpenMigrationToCSPOV)
 
@@ -69,7 +92,7 @@ Granska användbara tillgångar i galleriet Driftberedskap:
 - [CSP-programutvecklingen och open license-programmet](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/) ändras (till exempel [beredskapskartan](https://partner.microsoft.com/resources/detail/csp-open-evolution-to-a-better-experience-readiness-map-pdf))
 - [Permanent programvara i CSP-programmet](https://partner.microsoft.com/resources/collection/software-in-csp#/) (till exempel [beredskapskartan)](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf)
 
-Om du har frågor om dessa erbjudanden kan du kontrollera dina relevanta Microsoft Partner Anslut-communities.
+Om du har frågor om dessa erbjudanden kan du gå till relevanta Microsoft Partner Anslut-communities.
 
 ________________
 ## <a name="view-this-months-product-launches-and-offers"></a><a name="1"></a>Visa den här månadens produktlanseringar och erbjudanden

@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6e5c16d6d6c507296d22ebd945d70ebac039938a
-ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
+ms.openlocfilehash: 91382269de32e52b29d1f1462c88896f0e80b6cb
+ms.sourcegitcommit: 462d6026287b85c9feea602af5bcdf924f3e6976
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "127876823"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "129452438"
 ---
 # <a name="new-commerce-experience-for-license-based-services"></a>Ny handelsupplevelse för licensbaserade tjänster
 
@@ -60,10 +60,13 @@ Många aspekter av hur partner gör affärer i Partnercenter ändras inte med de
 
 Partner har nu ett val: de kan fortsätta att köpa traditionella licensbaserade tjänster eller köpa via den nya köpupplevelsen. Partner som bestämmer sig för att göra affärer med de nya handelstjänsterna måste bekanta sig med hur de nya licensbaserade tjänsterna för handel fungerar. Artiklarna i det här avsnittet förklarar hur du gör affärer med de nya handelserbjudandena och prenumerationerna.
 
-Dessa traditionella scenarier ändras för att stödja den nya handelsupplevelsen.
+Nedan visas scenarier som är nya eller har förbättringar som stöd för de nya handelsupplevelserna.
 
-- Få priser för de nya erbjudandena
-- Identifiera de nya erbjudandena
-- Köpa de nya erbjudandena
-- Hantera prenumerationer
-- Fakturering
+- [Upptäck och hämta priser för nya handelserbjudanden och granska](pricing-and-offers.md#new-commerce-license-based-pricing) API:erna [för prisbladet](/partner/develop/get-a-price-sheet) För ny handel
+- Köpa nya handelslicensbaserade tjänster med [partnercenter-API:er](/partner-center/develop/purchase-new-commerce-license-based)
+- [Kampanjer i ny handel,](new-commerce-promotions.md)inklusive [Hämta kampanjer](/partner-center/develop/get-promotions) och [Verifiera kampanjer](/partner-center/develop/verify-promotion-eligibility)
+- [Telco erbjuder aktivering av betalning när du överta (E5),](new-commerce-telco-payg.md)inklusive [över-](/partner-center/develop/get-subscription-overage) och [över-](/partner-center/develop/update-subscription-overage)
+- [Addons i ny handel](new-commerce-add-ons.md)
+- [Konvertera utvärderingsversioner efter halva tiden](/partner-center/develop/transition-a-new-commerce-subscription) eller betalda SKU:er med olika kvantiteter, villkor och faktureringsplaner och uppgraderade SKU:er, partiella platsuppgraderingar till en målprenumeration
+
+
