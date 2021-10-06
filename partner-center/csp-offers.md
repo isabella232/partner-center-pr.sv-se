@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f6d60d62756e2d3655d1db69d86602cde45555b4
-ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
+ms.openlocfilehash: 634668bbdd0cf5d145242ea61b208480d109f259
+ms.sourcegitcommit: b78e85a0bc62e3536b067417cb3db7899cda4f97
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "129191467"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129565091"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Översikt över partnererbjudanden i programmet för molnlösningsleverantörer
 
@@ -39,13 +39,13 @@ För närvarande kan du sälja följande typer av produkter och tjänster till d
 
 ### <a name="software"></a>Programvara
 
-   Kunder kan köpa programvaruprenumerationer (till Windows Server och SQL Server för en period på 1 eller 3 år som ska köras på azure-reserverade VM-instanser).
+   Kunder kan köpa programvaruprenumerationer (till Windows Server och SQL Server för en period på 1 eller 3 år som ska köras på reserverade instanser av virtuella Azure-datorer).
 
    Mer information finns i Sälja [programvaruprenumerationer via CSP.](csp-software-subscriptions.md)  
 
 ### <a name="online-services"></a>Onlinetjänster
 
-*Onlinetjänster* köps som *prenumerationer.* För att göra det enklare för dig att beställa flera typer av produkter på ett och samma ställe har vi integrerat uppgiftsflödet "Lägg till prenumeration" i uppgiftsflödet "lägg till produkter".
+*Onlinetjänster* köps som *prenumerationer.* För att göra det enklare för dig att beställa flera typer av produkter på ett och samma ställe har vi integrerat uppgiftsflödet "Lägg till prenumeration" i uppgiftsflödet "Lägg till produkter".
 
 Mer information finns i [Kundprenumerationer.](customer-subscriptions.md)
 
@@ -73,7 +73,7 @@ I följande lista visas vart och ett av de nya områdena på **sidan Lägg till*
 
 **Produktkategorier**  -  **Azure, Onlinetjänster, Programvara** Välj den typ av produkt som du är intresserad av för att endast visa dessa produkter
 
-**Segment** – Identifierar den allmänna typ av verksamhet, till exempel kommersiella eller myndigheter, som du vill sälja till
+**Segment** – Identifierar den allmänna typ av verksamhet, till exempel kommersiell eller myndighet, som du vill sälja till
 
 **Publisher** – Välj vilka typer av produkter du vill se – appar som skapats av Microsoft eller av tredjepartsutgivare
 
@@ -90,7 +90,7 @@ I följande lista visas vart och ett av de nya områdena på **sidan Lägg till*
 
 #### <a name="workspaces-view"></a>[Vyn Arbetsytor](#tab/workspaces-view/)
 
-Om du vill köpa produkter och tjänster åt dina CSP-kunder väljer du de objekt som kunden vill ha, lägger till dem i kundvagnen, vilket skapar en beställning och granskar och skickar sedan ordern. Den allmänna processen beskrivs nedan. (Mer information om beställningar för en viss produkttyp finns på länkarna ovan.)
+Om du vill köpa produkter och tjänster åt dina CSP-kunder väljer du de objekt som kunden vill ha, lägger dem i kundvagnen, vilket skapar en order och granskar och skickar sedan ordern. Den allmänna processen beskrivs nedan. (Mer information om beställningar för en viss produkttyp finns på länkarna ovan.)
 
 > [!NOTE]
 > Ett CSP-erbjudande måste vara tillgängligt både i klientorganisationens land och i kundens klientorganisationsland. Om din klientorganisation till exempel finns i Det här och kundens klientorganisation finns i Tyskland, kommer du inte att kunna sälja Dynamics 365 Business Central Premium till den kunden, eftersom det här erbjudandet för närvarande inte är tillgängligt i Det här erbjudandet.
@@ -107,7 +107,7 @@ Om du vill köpa produkter och tjänster åt dina CSP-kunder väljer du de objek
 
 6. Upprepa steg 4 och 5 tills du har lagt till alla nödvändiga objekt i kundvagnen. Välj **Granska** för att kontrollera att beställningen är korrekt.  
 
-7. På sidan **Granska dina beställningar** kontrollerar eller ändrar du produkterna och kvantiteten och väljer sedan Köp **för** att köpa beställningen.
+7. På sidan **Granska dina beställningar** verifierar eller ändrar du produkterna och kvantiteten och väljer sedan Köp **för** att köpa ordern.
 
 8. Information om din beställning, inklusive ordernummer, visas på nästa sida. Välj **Klar** för att gå till sidan **Orderhistorik.**
 
@@ -123,12 +123,12 @@ Så här visar du en kunds orderhistorik:
 
 #### <a name="current-view"></a>[Aktuell vy](#tab/current-view/)
 
-Om du vill köpa produkter och tjänster åt dina CSP-kunder väljer du de objekt som kunden vill ha, lägger till dem i kundvagnen, vilket skapar en beställning och granskar och skickar sedan ordern. Den allmänna processen beskrivs nedan. (Mer information om beställningar för en viss produkttyp finns på länkarna ovan.)
+Om du vill köpa produkter och tjänster åt dina CSP-kunder väljer du de objekt som kunden vill ha, lägger dem i kundvagnen, vilket skapar en order och granskar och skickar sedan ordern. Den allmänna processen beskrivs nedan. (Mer information om beställningar för en viss produkttyp finns på länkarna ovan.)
 
 > [!NOTE]
 > Ett CSP-erbjudande måste vara tillgängligt både i klientorganisationens land och i kundens klientorganisationsland. Om din klientorganisation till exempel finns i Det här och kundens klientorganisation finns i Tyskland, kommer du inte att kunna sälja Dynamics 365 Business Central Premium till den kunden, eftersom det här erbjudandet för närvarande inte är tillgängligt i Det här erbjudandet.
 
-1. Från instrumentpanelen i Partnercenter **väljer du Kunder** och letar sedan reda på den kund som vill köpa från dig.
+1. På instrumentpanelen i Partnercenter **väljer du Kunder** och letar sedan reda på den kund som vill köpa från dig.
 
 2. Välj nedåtpilen i slutet av kundens rad för att expandera kundens post och välj sedan Lägg **till produkter.** Från och med nu så skapar du en order. En order kan omfatta flera objekt av olika typer, men de måste vara till samma kund.
 
@@ -140,7 +140,7 @@ Om du vill köpa produkter och tjänster åt dina CSP-kunder väljer du de objek
 
 6. Upprepa steg 4 och 5 tills du har lagt till alla nödvändiga objekt i kundvagnen. Välj **Granska** för att kontrollera att beställningen är korrekt.  
 
-7. På sidan **Granska dina beställningar** kontrollerar eller ändrar du produkterna och kvantiteten och väljer sedan Köp **för** att köpa beställningen.
+7. På sidan **Granska dina beställningar** verifierar eller ändrar du produkterna och kvantiteten och väljer sedan Köp **för** att köpa ordern.
 
 8. Information om din beställning, inklusive ordernummer, visas på nästa sida. Välj **Klar** för att gå till sidan **Orderhistorik.**
 
@@ -148,17 +148,17 @@ Så här visar du en kunds orderhistorik:
 
 1. Logga in i Partnercenter och gå till [instrumentpanelen](https://partner.microsoft.com/dashboard/home).
 
-2. Välj Kunder på den vänstra **menyn.**
+2. Välj Kunder på menyn till **vänster.**
 
 3. På sidan **Kunder** hittar du den kund vars orderhistorik du vill visa. Välj nedåtpilen för att expandera kundens post.
 
 4. Välj **Visa beställningar** för att visa kundens orderhistorik.
 
 * * *
- 
+
 ## <a name="rules-for-special-segments"></a>Regler för särskilda segment
 
-Vissa licensbaserade erbjudanden kan bara köpas under vissa villkor. Specialsegmenterbjudanden omfattar erbjudanden för utbildning, ideella organisationer Government Community Cloud (GCC). Information om dessa köpvillkor finns i avsnittet [om köpregler för särskilda segment.](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)
+Vissa licensbaserade erbjudanden kan bara köpas under vissa villkor. Specialsegmenterbjudanden omfattar erbjudanden för utbildning, ideella organisationer Government Community Cloud tjänster (GCC). Information om dessa köpvillkor finns i avsnittet [om köpregler för särskilda segment.](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)
 
 ## <a name="troubleshooting-catalog-purchases"></a>Felsöka kataloginköp
 
@@ -167,9 +167,9 @@ Det kan finnas olika orsaker till att du inte kan hitta erbjudandet som du letar
 - **Verifiera att din kund är kvalificerad**. Många erbjudanden kräver särskilda kvalifikationer för att säljas till kunder. Dessa särskilda segment omfattar utbildning, ideella organisationer och Government Community Cloud (GCC). Innan du loggar ett problem kontrollerar du först att kundens kvalifikationer har angetts korrekt. Du kan kontrollera detta genom att välja kunden i kundlistan och visa kontot. Kontot kommer att ha en speciell kvalificering angiven om det är tillämpligt. Om du försöker köpa utbildning för en kund som inte är kvalificerad så kan du inte se dessa erbjudanden i katalogen. Mer information om hur du kvalificerar dina kunder finns i [dokumentationen om särskilda segment.](get-special-pricing-for-offers.md)
 - **Bestäm om du försöker köpa ett tillägg eller ett baserbjudande**. Många av de licensbaserade tjänsterna, till exempel Microsoft 365 och Dynamics 365, möjliggör både kataloginköp av baserbjudanden och tillägg. Endast baserbjudanden kan köpas i katalogen. Om du vill köpa tillägg måste du först köpa baserbjudandet i katalogen och sedan välja kunden i kundlistan och sedan välja prenumerationen för baserbjudandet. Tillägg kan användas för baserbjudandet på den här sidan för prenumerationshantering. 
 - **Kontrollera att produkterna är tillgängliga på din marknad**. Många produkter och tjänster har konfigurerats för att endast säljas till kunder i vissa länder. Du hittar en lista över länder som stöds i de olika prislistefilerna. Länder med stöd för licensbaserade tjänster finns i matrisen för erbjudandelistan på sidan med priser och erbjudanden.
-- **Kontrollera att erbjudandena är tillgängliga i prislistan.** Den tillgängliga listan med erbjudanden kan ändras från månad till månad. Om du inte hittar något erbjudande i katalogen kontrollerar du att det är tillgängligt i de aktuella prislistorna på sidan **> Och** erbjudanden.
+- **Kontrollera att erbjudandena är tillgängliga i prislistan.** Den tillgängliga listan med erbjudanden kan ändras från månad till månad. Om du inte hittar något erbjudande i katalogen kontrollerar du att det är tillgängligt i de aktuella prislistorna på **sidan Prislistor.**
 
-### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>Rekommenderade dokument som rör inköp av objekt i Partnercenter
+### <a name="recommended-documents-related-to-purchasing-items-in-partner-center"></a>Rekommenderade dokument som rör inköp av objekt i Partnercenter
 
 - [Priser och erbjudanden i Partnercenter](pricing-and-offers.md)
 - [Översikt över partnererbjudanden i programmet för molnlösningsleverantörer](csp-offers.md)

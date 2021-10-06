@@ -1,6 +1,6 @@
 ---
 title: MPN-förmåner – teknisk support för lokala eller molnbaserade produkter
-description: Läs mer om Microsoft Partner Network (MPN) för tekniska supportärenden
+description: Läs mer om Microsoft Partner Network (MPN)-förmåner för incidenter med teknisk support
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-benefits
@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 09/27/2021
-ms.openlocfilehash: d4f238233ba63912546122fdeb5cd0f0b98249cc
-ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
+ms.openlocfilehash: 10aec2bc14ee405f217d634f1852014325e5cadd
+ms.sourcegitcommit: b78e85a0bc62e3536b067417cb3db7899cda4f97
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129088543"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129565177"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>Teknisk support för lokala produkter eller molnprodukter
 
@@ -32,7 +32,7 @@ Sidan [Tekniska fördelar](https://partner.microsoft.com/dashboard/mpn/membershi
 
 2. Teknisk presales och distributionstjänster (TPD) – [mer information](technical-benefits.md)
 
-Den här artikeln är till för medlemmar i Microsoft Partner Network (MPN) som behöver veta hur de ska aktivera sina tekniska fördelar, visa åtkomst-ID och kontrakt-ID, veta vilka produkter och versioner som stöds och hur du startar processen för att skapa en incident för teknisk support/support med MPN-partnerförmåner
+Den här artikeln är till för medlemmar i Microsoft Partner Network (MPN) som behöver veta hur de kan aktivera sina tekniska fördelar, visa åtkomst-ID och kontrakt-ID, veta vilka produkter och versioner som stöds och hur du startar processen för att skapa en incident för teknisk support/support med MPN-partnerförmåner
 
 ### <a name="steps"></a>Steg
 
@@ -58,7 +58,7 @@ Så här visar eller aktiverar du dina tekniska förmåner i Partnercenter:
    > [!NOTE]
    > Om ditt konto endast är associerat med CSP och inte är associerat med MPN visas ett felmeddelande om att du inte har behörighet för den här åtgärden. Du måste ha ett MPN-associerat konto.
 
-2. Välj panelen **Fördelar** och välj sedan **Tekniska förmåner.** Sidan Tekniska förmåner visar dina organisationers aktiva erbjudanden om guld, silver eller Microsoft Action Pack medlemskap.
+2. Välj panelen **Fördelar** och välj sedan **Tekniska förmåner.** På sidan Tekniska förmåner visas dina organisationers aktiva erbjudanden om guld, silver eller Microsoft Action Pack medlemskap.
 
    > [!NOTE]
    > Om du inte har några aktiva medlemskapserbjudanden visas meddelandet "Ser ut som om du inte har några fördelar ännu". Om ditt företag har aktiva medlemskapserbjudanden men du inte kan se dem har du loggat in med fel konto. Om du vill kontrollera ditt konto väljer **du kontoikonen** längst upp till höger på sidan och **väljer Logga in med ett annat konto** (om det behövs).
@@ -83,7 +83,7 @@ Så här visar eller aktiverar du dina tekniska förmåner i Partnercenter:
    > [!NOTE]
    > Om ditt konto endast är associerat med CSP och inte är associerat med MPN visas ett felmeddelande om att du inte har behörighet för den här åtgärden. Du måste ha ett MPN-associerat konto.
 
-2. Expandera **Fördelar** i den vänstra navigeringsmenyn och välj [**Tekniska fördelar.**](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical) Sidan Tekniska förmåner visar dina organisationers aktiva erbjudanden om guld, silver eller Microsoft Action Pack medlemskap.
+2. Expandera **Fördelar** i den vänstra navigeringsmenyn och välj [**Tekniska fördelar.**](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical) På sidan Tekniska förmåner visas dina organisationers aktiva erbjudanden om guld, silver eller Microsoft Action Pack medlemskap.
 
    > [!NOTE]
    > Om du inte har några aktiva medlemskapserbjudanden visas meddelandet "Ser ut som om du inte har några fördelar ännu". Om ditt företag har aktiva medlemskapserbjudanden men du inte kan se dem har du loggat in med fel konto. Om du vill kontrollera ditt konto väljer **du kontoikonen** längst upp till höger på sidan och **väljer Logga in med ett annat konto** (om det behövs).
@@ -110,12 +110,12 @@ Teknisk support tillhandahåller felsökning för ett specifikt problem, felmedd
 > [!NOTE]
 > Dina tekniska supportförmåner måste aktiveras innan du kan använda dem.
 
-Som en del av Microsoft Partner Network är partner berättigade till följande tekniska support
+Som en del av Microsoft Partner Network är partner berättigade till följande tekniska support:
 
 |  Teknisk support |  Action Pack |  Silverkompetens | Guldkompetens |
 |:------------------:|:------------:|:------------------:|:---------------:|
 | Microsofts produktsupport<br>För de senaste lokala <br>endast produkter | 10 incidenter | 15 incidenter | 20 incidenter |
-| Signature Cloud Support<br>Endast för molnprodukter | | Molnkompetenser:<br>Obegränsat<br><br>Andra kompetenser:<br>5 incidenter | Molnkompetenser:<br>Obegränsat<br>          <br>Andra kompetenser:<br>10 incidenter   | 
+| Signature Cloud Support<br>Endast för molnprodukter | | Molnkompetenser:<br>Obegränsat<br><br>Andra kompetenser:<br>5 incidenter | Molnkompetenser:<br>Obegränsat<br>          <br>Andra kompetenser:<br>10 incidenter   |
 
 Molnkompetenser omfattar: Säkerhetskompetens, Cloud Business Applications, Cloud Platform, Cloud Productivity, Enterprise Mobility Management, Small och Midmarket Cloud Solutions.
 
@@ -133,24 +133,24 @@ Välj [Support för företag](https://support.serviceshub.microsoft.com/supportf
 
 Du kan bara hämta den här informationen från supportportalen för lokal support för företag. Tyvärr visar inte molnportalerna (till exempel Azure, LCS med flera) den här informationen.
 
-Du måste använda Support för företag och starta processen för att skapa ett lokalt supportincident. Vi skapar ingen supportbegäran eftersom vi inte slutför processen. Den information vi behöver visas i steg 2.
+Du måste använda Support för företag och starta processen för att skapa en lokal supportincident. Vi skapar ingen supportbegäran eftersom vi inte slutför processen. Den information vi behöver visas i steg 2.
 
 1. Öppna [Support för företag och](https://support.serviceshub.microsoft.com/supportforbusiness/create) välj Windows 10 och ange dummyinformation.
 
-2. Om ditt supportavtal redan är kopplat till ditt konto bör du se supportärenden. För lokal support bör du se partnersupportavtalet (om det inte längre är giltigt) inklusive startdatum, slutdatum och återstående incidenter.
+2. Om ditt supportavtal redan är kopplat till ditt konto bör du se supportärendena. För lokal support bör partnersupportavtalet visas (om det inte längre är giltigt) inklusive startdatum, slutdatum och återstående incidenter.
 
-Om du behöver associera ditt supportavtal expanderar du "Behöver du köpa  eller lägga till fler supportavtal" och väljer knappen Lägg till kontrakt för att ange ditt åtkomst-ID och kontrakt-ID. Expandera alternativet **Vill du se otillgängliga supportplaner?**" för att se information om partnersignatur. Partnersupporten visas bara här om kontrakten har upphört att gälla, om du inte har några återstående incidenter eller om du har valt en gammal lokal produkt (se [aka.ms/n-1](https://aka.ms/n-1) för supportprodukter)
+Om du behöver associera ditt supportavtal expanderar du "Behöver du köpa  eller lägga till fler supportavtal" och väljer knappen Lägg till kontrakt för att ange ditt åtkomst-ID och kontrakt-ID. Expandera Alternativet **Vill du se otillgängliga supportplaner?**" för att se information om partnersignatur. Partnersupport visas bara här om kontrakten har upphört att gälla, om du inte har några återstående incidenter eller om du har valt en gammal lokal produkt (se [aka.ms/n-1](https://aka.ms/n-1) för supportprodukter)
 
-Mer detaljerad information finns i Hur [många supportärenden för partner finns det kvar?](https://support.microsoft.com/topic/how-many-partner-support-incidents-are-remaining-e8220db5-14f6-93db-4b4a-35766e11b3c3).
+Mer detaljerad information finns i Hur [många partnersupportärenden återstår?](https://support.microsoft.com/topic/how-many-partner-support-incidents-are-remaining-e8220db5-14f6-93db-4b4a-35766e11b3c3).
 
 ## <a name="signature-cloud-support-cloud-only"></a>Signature Cloud Support (endast moln)
 
-Guld- eller Silver-kompetenspartner kan använda **Signature Cloud Support** för teknisk support för molnprodukter. Action Pack partner är inte berättigade Signature Cloud Support om de inte har en kompetens.  
+Guld- eller Silver-kompetenspartner kan använda **Signature Cloud Support** för teknisk support för molnprodukter. Action Pack partner är inte berättigade Signature Cloud Support om de inte får en kompetens.  
 
-Du behöver åtkomst-ID och kontrakt-ID första gången du använder förmånen för Azure, Dynamics 365 och andra molnprodukter (Microsoft 365). Förmånerna är kopplade till ditt användarkonto tills de upphör att gälla eller det inte finns några fler supportärenden kvar.
+Du behöver åtkomst-ID och kontrakt-ID första gången du använder förmånen för Azure, Dynamics 365 och andra molnprodukter (undantag Microsoft 365). Förmånerna är kopplade till ditt användarkonto tills de upphör att gälla eller det inte finns några fler supportärenden kvar.
 
 > [!NOTE]  
-> När du använder med hjälp av Azure Portal. Om ditt supportavtal redan är associerat med kontot visas ett felmeddelande om att åtkomst-ID:t redan är associerat ... när du lägger till åtkomst-ID och kontrakt-ID. se nedan
+> När du använder Azure Portal. Om ditt supportavtal redan är associerat med kontot visas ett felmeddelande om att åtkomst-ID:t redan är associerat ... när du lägger till åtkomst-ID och kontrakt-ID. se nedan
 
 CSP-partner som skapar Azure-begäranden kan använda supportavtalet "Molnlösningsleverantör" utan att lägga till ett supportavtal.
 
@@ -158,24 +158,24 @@ Användare med **rollen Administratörsagent** kan [välja Kunder](https://partn
 
 ### <a name="azure-portal-error-access-id-is-already-associated-"></a>Azure Portal felet "Åtkomst-ID är redan associerat ..."
 
-När du använder Azure Portal använder du Signature Cloud Support genom att välja Hjälp + support, Supportavtal, sedan Länka supportförmåner och ange åtkomst-ID och kontrakt-ID.
+När du använder Azure Portal använder du Signature Cloud Support genom att välja Hjälp + support, Supportavtal, sedan "Länka supportförmåner" och ange åtkomst-ID och kontrakt-ID.
 
 > [!NOTE]
 > Om du har Microsoft Action Pack får du inte molnsupport eftersom den inte omfattar Signature Cloud Support – endast Microsofts produktsupport (lokalt)
 
 Du kan se felmeddelandet `This Access ID is already associated to an account. Please contact your Technical Account Manager to obtain a new Access ID` . Det här felmeddelandet är ogiltigt och bör ignoreras. Vi har begärt att felet ska inaktiveras och ersättas med ett användbart diagnostikfelmeddelande.
 
-Föregående fel visas om du associerar ett supportavtal med ett konto mer än `Access ID is already associated …` en gång när du använder Azure Portal. Se scenarierna nedan:
+Föregående fel visas om du associerar ett supportavtal med ett konto mer än en gång `Access ID is already associated …` när du använder Azure Portal. Se scenarierna nedan:
 
-1. Om du har tekniska guld- eller silverförmåner och tidigare har lagt till kontraktet för lokal support använder du Azure Portal och lägger till kontraktet en andra gång till samma konto. Du behöver bara associera supportavtalet med ett konto en gång och därför behöver du inte länka supportförmåner i Azure. Om du använder Link-supportförmåner när kontraktet redan är kopplat till kontot visas felet och det bör ignoreras. Använd + Ny Supportbegäran och skapa en supportincident som vanligt så visas supportplanen.
+1. Om du har tekniska fördelar av guld eller silver och tidigare har lagt till kontraktet för lokal support använder du Azure Portal och lägger till kontraktet en andra gång till samma konto. Du behöver bara associera supportavtalet med ett konto en gång och därför behöver du inte länka supportförmåner i Azure. Om du använder Link-supportförmåner när kontraktet redan är kopplat till kontot visas felet och det bör ignoreras. Använd + Ny Supportbegäran och skapa en supportincident som vanligt så visas supportplanen.
 
-2. Om supportavtalet har upphört att gälla eller signaturen med 10 paket (guldhybridkompetens) eller signaturen med 5 paket (Silver hybridkompetens) inte har några återstående incidenter, döljs supportavtalet eftersom det är ogiltigt. Om du länkar supportförmåner igen visas felet eftersom kontraktet redan är associerat. Du kan köpa en ny supportplan för att få supportärenden i Azure.
+2. Om supportavtalet har upphört att gälla eller om signaturen med 10 paket (guldhybridkompetens) eller signaturen 5-pack (Silver hybridkompetens) inte har några incidenter kvar, kommer supportavtalet att döljas eftersom det är ogiltigt. Om du länkar supportförmåner igen visas felet eftersom kontraktet redan är associerat. Du kan köpa en ny supportplan för att få supportärenden i Azure.
 
 Se Partnersupportplaner nedan för partnerbetalda supporterbjudanden
 
 ## <a name="partner-support-plans"></a>Partnersupportplaner
 
-Du kan få betald support från Microsoft som innehåller teknisk support och en mängd extra tjänstalternativ.
+Du kan få betald support från Microsoft som omfattar teknisk support och en mängd extra tjänstalternativ.
 
 Du kan [jämföra partnersupportplaner](https://partner.microsoft.com/support/partnersupport) eller se följande för partnerspecifika planer:
 

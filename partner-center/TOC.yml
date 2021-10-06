@@ -212,7 +212,7 @@
           href: routing-rules.md
         - name: Använda CRM-anslutningsprogram för säljsamarbete
           items:
-            - name: Anslutning för Dynamics 365
+            - name: Anslutningsapp för Dynamics 365
               href: connector-dynamics.md
             - name: Anslutningsapp för Salesforce
               href: connector-salesforce.md
@@ -270,8 +270,8 @@
           href: create-a-new-subscription.md
         - name: Migrera prenumerationer till ny handel
           href: migrate-subscriptions-to-new-commerce.md
-        - name: Sälja lokal programvara via Molnlösningsleverantör-programmet
-          href: csp-on-premise-software.md
+        - name: Sälja lokal programvara via CSP-programmet
+          href: csp-on-premises-software.md
         - name: Kundkommunikation från Microsoft
           href: customer-communication-from-microsoft.md
         - name: Ge teknisk support
@@ -623,7 +623,7 @@
       href: payout-statement.md
     - name: Intäktssammanfattning
       href: revenue-summary.md
-    - name: Sidan Exportera data för utbetalning
+    - name: Sidan Exportera data för utbetalningsutbetalningar
       href: payouts-enhanced-exports.md
     - name: Konfigurera utbetalnings- och skatteprofiler på den kommersiella marknadsplatsen
       href: set-up-your-payout-account.md
@@ -631,7 +631,7 @@
       href: tax-details-marketplace.md
     - name: Förstå skatter
       items:
-        - name: Så här påverkar skatteprinciper utbetalningen
+        - name: Hur skatteprinciper påverkar utbetalning
           href: tax-policies-affect-payout.md
         - name: Om IRS-skatteformulär som utfärdats av Microsoft
           href: understand-irs-tax-forms.md
@@ -691,7 +691,7 @@
               href: partner-contribution-indicators.md
             - name: Kompetens för molnlösningar för liten marknad och mellanmarknad
               href: partner-contribution-indicators-small-and-midmarket-cloud-business-option.md
-    - name: Referensinsikter
+    - name: Hänvisningsinformation
       href: referral-insights.md
     - name: Molnlösningsleverantör insikter
       items:
@@ -717,7 +717,7 @@
           href: insights-programmatic-prerequisites.md
         - name: Paradigm för programmatisk åtkomst
           href: insights-programmatic-access-paradigm.md
-        - name: Gör ditt första programmatiska API-anrop
+        - name: Gör ditt första programmerings-API-anrop
           href: insights-programmatic-first-api-call.md
         - name: Lista över systemfrågor
           href: insights-programmatic-system-queries.md
@@ -753,7 +753,7 @@
               href: insights-programmatic-analytics-api-resume-report-executions.md
 - name: Hjälp + support
   items:
-    - name: Översikt över Hjälp + support
+    - name: Översikt över hjälp och support
       href: support-from-microsoft.md
     - name: Rapportera problem med Partner Center
       href: report-problems-with-partner-center.md

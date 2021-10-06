@@ -9,18 +9,18 @@ author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 759d5d5f1d258325a00bbc53833059de61707c77
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 4121e754595bc4992196108cdbcf365a48ac50f4
+ms.sourcegitcommit: b78e85a0bc62e3536b067417cb3db7899cda4f97
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129074447"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129565282"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Fördelar rapport som är tillgänglig från Partnercenter Insights instrumentpanel
 
 **Lämpliga roller:** Global | Administratörsagentens | Rapportvisningsprogram | Rapportvisningsprogram för chefer
 
-Som Microsoft-partner kan du få tillgång till en mängd fördelar som använder den senaste tekniken och innovationerna för att hjälpa dig att förbättra teamets färdigheter, förbättra effektiviteten och utöka din verksamhet. Exempel på fördelar är: allokeringar av licensierad programvara, molntjänster, Visual Studio prenumerationer och support. Dessa paket kan även innehålla vissa Go-To-Market-resurser, erbjudanden och program. Rapporten Fördelar visar trender för de fördelar som du har åtkomst till och hur de används under det valda datumintervallet.
+Som Microsoft-partner kan du få tillgång till en mängd fördelar som använder den senaste tekniken och innovationerna för att hjälpa dig att förbättra teamets färdigheter, förbättra effektiviteten och utöka din verksamhet. Exempel på fördelar är allokeringar av licensierad programvara, molntjänster, Visual Studio prenumerationer och support. Dessa paket kan även innehålla vissa Go-To-Market-resurser, erbjudanden och program. Rapporten Fördelar visar trender för de fördelar som du har åtkomst till och hur de används under det valda datumintervallet.
 
 :::image type="content" source="images/insights/benefits-intro.png" alt-text="översikt över sidan benefits.":::
 
@@ -40,7 +40,7 @@ Du kan visualisera följande diagram i rapporten Fördelar:
 
 I sammanfattningsavsnittet visas fördelarna med licensierad programvara, molntjänster (icke-Azure), Visual Studio-prenumerationer, teknisk support och vissa Go-To-Market-tjänster eller -erbjudanden.
 
-Exempel: Microsoft Partner Network (MPN)-medlemskapspartner är berättigade till teknisk support för lokala produkter och molnprodukter. Partner som uppnår Silver-kompetens beviljas teknisk support för 15 incidenter för lokala produkter. De kan använda det här stödet efter behov. 
+Exempel: Microsoft Partner Network (MPN)-medlemskapspartner är berättigade till teknisk support för lokala produkter och molnprodukter. Partner som uppnår Silver-kompetens beviljas teknisk support för 15 incidenter för lokala produkter. De kan använda det här stödet efter behov.
 
 :::image type="content" source="images/insights/benefits-summary.png" alt-text="sammanfattning av fördelar.":::
 

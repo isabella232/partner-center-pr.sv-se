@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eb9fff7ddbf828cbf15ad447c66ed18dfcb0643b
-ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
+ms.openlocfilehash: a676785f690d0e3cb2b4e6e4de03b78480b0db70
+ms.sourcegitcommit: b78e85a0bc62e3536b067417cb3db7899cda4f97
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129089185"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129565316"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Faktureringsöversikt för CSP-programpartner som arbetar i Partnercenter 
 
@@ -59,11 +59,11 @@ Faktureringstyperna i Partnercenter **omfattar licensbaserad fakturering,** **an
 
 **Licensbaserad och användningsbaserad** fakturering: Du debiteras för produkter i valutan för det land eller den region där du befinner dig. Du debiteras på samma sätt oavsett var kunden som du sålde produkterna till finns.
 
-**One-time-fakturering:** Från och med augusti 2021 debiteras alla partner i partnerns valuta oavsett var kunden som du sålde produkten/produkterna finns. Läs mer om [engångs- och återkommande](azure-plan-billing.md).
+**Entidsfakturering:** Från och med augusti 2021 debiteras alla partner i partnerns valuta oavsett var kunden som du sålde produkten/produkterna finns. Läs mer om [engångs- och återkommande](azure-plan-billing.md).
 
 ## <a name="invoices"></a>Fakturor
 
-Din faktura är en sammanfattning av alla avgifter för den aktuella faktureringsperioden. Detta inkluderar avgifter för programmet, alla produkter och alla kunder. Exempel på månatliga och årliga faktureringsscenarier finns i [vanliga faktureringsscenarier](common-billing-scenarios.md)
+Din faktura är en sammanfattning av alla avgifter för den aktuella faktureringsperioden. Detta inkluderar avgifter för programmet, alla produkter och alla kunder. Exempel på månatliga och årliga faktureringsscenarier finns i [Vanliga faktureringsscenarier](common-billing-scenarios.md)
 
 För användnings- och licensbaserade faktureringar är din faktura tillgänglig inom två (2) dagar från det valda faktureringsdatumet i UTC-tid. Om du till exempel har faktureringsdatumet 12 september börjar fakturagenereringen kl. 12:00 UTC den 13 september och slutförs 12:00 UTC den 14:e.
 
@@ -71,23 +71,23 @@ Vid engångsfakturering och återkommande fakturering justeras faktureringsperio
 
 ## <a name="price-lists"></a>Prislistor
 
-Prislistor uppdateras varje månad. Förhandsgranskningsprislistor är tillgängliga en (1) månad i förväg.
+Prislistorna uppdateras varje månad. Förhandsgranskningsprislistor är tillgängliga en (1) månad i förväg.
 
-Om du vill se Molnlösningsleverantör senaste programmen och erbjudandena går du till instrumentpanelen i Partnercenter och väljer **panelen** Prissättning. Du hittar separata prislistor för de olika typer av produkter som är tillgängliga. Följande prislistor finns på sidan **Priser och** erbjudanden:
+Om du vill se Molnlösningsleverantör senaste programmen och erbjudandena går du till instrumentpanelen i Partnercenter och väljer **panelen** Prissättning. Du hittar separata prislistor för de olika typer av produkter som är tillgängliga. Följande prislistor finns på sidan **Prislistor:**
 
-**Licensbaserade priser** garanteras för prenumerationens period, vanligtvis 12 månader från inköpsdatum.
+**Licensbaserade** priser garanteras för prenumerationens period, vanligtvis 12 månader från inköpsdatum.
 
 **Användningsbaserade priser** kan ändras månadsvis.
 
-**Priser för produkter, tjänster och programvaruprenumerationer** garanteras genom prenumerationens varaktighet. Priserna kan dock ändras när du förnyar.
+**Priser för produkter, tjänster och programvaruprenumerationer** garanteras under prenumerationens varaktighet. Priserna kan dock ändras när du förnyar.
 
 Du ser justeringar **och krediter** **i efterskott** på nästa faktureringsfaktura när krediten eller justeringen har tillämpats.
 
 ## <a name="payment-terms"></a>Betalningsvillkor
 
-Betalningsvillkoren är netto 60 dagar. Fakturor måste betalas på fakturans förfallodatum (60 dagar efter faktureringsdatumet), annars kommer ditt konto att vara inaktuellt, vilket kan påverka din registrering i CSP.
+Betalningsvillkor är 60 dagar netto. Fakturor måste betalas på fakturans förfallodatum (60 dagar efter faktureringsdatumet), annars kommer ditt konto att vara inaktuellt, vilket kan påverka din registrering i CSP.
 
-Du kan återfå alla funktioner hos dina inaktiverade konton när du betalar förfallna belopp.
+Du kan återfå alla funktioner hos dina inaktiverade konton när du betalar det förfallna beloppet.
 
 När den korrigerade faktureringsinformationen har angetts visas betalningen på faktureringssidan för Partnercenter inom 5 arbetsdagar.
 
@@ -95,7 +95,7 @@ När den korrigerade faktureringsinformationen har angetts visas betalningen på
 
 Du debiteras baserat på dina uppgifter (inte kundernas) eftersom faktureringsrelationen är mellan Microsoft och dig. Du kan skicka in skatteidentifieraren under kontokonfigurationen eller via en supportbegäran senare. Ändringarna visas i nästa faktureringsperiod.
 
-För **käll- och momsbefrielse måste** du skicka skattedokumentation via en supportbegäran. Du ser ändringarna och lämpliga återbetalningar för nästa faktureringsperiod. Läs mer om att [skicka källskatt.](withholding-tax-credit-form.md) 
+För **käll- och momsbefrielse måste** du skicka in skattedokumentation via en supportbegäran. Du ser ändringarna och lämpliga återbetalningar för nästa faktureringsperiod. Läs mer om att [skicka källskatt.](withholding-tax-credit-form.md) 
 
 För **momsbefrielse måste du skicka ditt** momsregistreringsnummer (verifierat av Microsoft) via en tjänstbegäran.  Om momsregistrerings-ID:t skickas efter kontokonfigurationen (via en supportbegäran) kommer dina fakturor före denna begäran inte att ha ett momsregistreringsnummer stämplat på PDF-fakturan. Du ser ändringarna i nästa faktureringsperiod.
 
@@ -103,7 +103,7 @@ Du hittar ytterligare skatteinformation från ditt lokala skattekontor eller ska
 
 ### <a name="adjustmentscreditscancellations"></a>Justeringar/krediter/annulleringar
 
-Avbokningskrediter för licensierade tjänster klassificeras i enlighet med den här formeln för oanvända dagar vid annulleringar mitt i cykeln (samt licensminskningar:
+Avbokningskrediter för licensierade tjänster klassificeras i enlighet med den här formeln för oanvända dagar vid annulleringar mitt i cykeln (samt licensminskningar enligt följande formel:
 
 `[ROUND((ROUND(Unit Price * Quantity / Number of days in pro-rated Month, 2) * Number of pro-rated days) / Quantity, 2) * Quantity]`
 
@@ -133,7 +133,7 @@ Det finns två typer av faktureringsfrekvenser: årlig och månatlig. Mätarpris
 
 - Mätarpriser för tjänster kan ändras inom fakturacykeln.
 
-- Fakturan du får har bara de avgifter som ackumuleras för den månaden.
+- Fakturan du får har bara de avgifter som påförs för den månaden.
 
 ### <a name="credit-notes"></a>Kreditanteckningar
 

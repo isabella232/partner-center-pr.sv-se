@@ -11,19 +11,19 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 10/05/2021
-ms.openlocfilehash: 3a5f9ee11ffab9869e2641f27594c255e44f4d16
-ms.sourcegitcommit: cf8c78e0c8831371432007d5ab05f934f15a77b5
+ms.openlocfilehash: 9cbe685abf6610b42c05d2f9229f93478c50ca69
+ms.sourcegitcommit: b78e85a0bc62e3536b067417cb3db7899cda4f97
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "129525229"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129565126"
 ---
 # <a name="october-2021-announcements"></a>Oktober 2021-meddelanden
 
 Den här sidan innehåller meddelanden för Microsoft Partner Center för oktober 2021.
 
 ________________
-## <a name="coming-soon-new-commerce-experience-for-csp-seat-based-offers-technical-release"></a><a name="4"></a>Kommer snart: Ny handelsupplevelse för CSP-platsbaserade erbjudanden med teknisk version
+## <a name="coming-soon-new-commerce-experience-for-csp-seat-based-offers-technical-release"></a><a name="4"></a>Kommer snart: Ny handelsupplevelse för CSP-platsbaserade erbjudanden med teknisk lansering
 
 ### <a name="categories"></a>Kategorier
 
@@ -54,7 +54,7 @@ Microsoft är medveten om hur tekniken har påskyndat förändringar för organi
 
 ### <a name="questions"></a>Har du några frågor?
 
-Om du har fler frågor om dessa erbjudanden kan du kontrollera dina Yammer communityn.
+Om du vill ha fler frågor om dessa erbjudanden kan du läsa dina Yammer communityer.
 
 ________________
 ## <a name="november-2021-update-online-services-and-software-channel-authorization-guide"></a><a name="3"></a>Uppdatering november 2021: Auktoriseringsguide för onlinetjänster och programvarukanal
@@ -74,7 +74,7 @@ Det finns en uppdatering av auktoriseringsguiden onlinetjänster och programvaru
 
 ### <a name="details"></a>Information
 
-I enlighet med det underavsnittet i Auktorisering av onlinetjänster och programvarukanal under avsnittet "Meddelande om ändringar", med rubriken "Ändringar i guiderna", meddelar Microsoft dig i din Microsoft-partneravtal att auktoriseringsguiden för onlinetjänster och programvarukanal håller på att uppdateras. En förhandsgranskning av den uppdaterade guiden finns [här med](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-download-pdf) en röd linje som visar ändringar som är tillgängliga [här.](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-download-pdf) Uppdateringen börjar gälla 30 dagar från datumet för det här meddelandet. Du behöver inte vidta några ytterligare åtgärder.
+I enlighet med det underavsnittet i Auktorisering av onlinetjänster och programvarukanal under avsnittet "Meddelande om ändringar", med rubriken "Ändringar i guiderna", meddelar Microsoft dig i din Microsoft-partneravtal att auktoriseringsguiden för onlinetjänster och programvarukanal håller på att uppdateras. En förhandsgranskning av den uppdaterade guiden finns [här med](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-download-pdf) en röd linje som visar ändringar som är tillgängliga [här.](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-redline-download-pdf) Uppdateringen börjar gälla 30 dagar från datumet för det här meddelandet. Du behöver inte vidta några ytterligare åtgärder.
 
 ### <a name="next-steps"></a>Nästa steg
 
