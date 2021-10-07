@@ -7,13 +7,13 @@ ms.reviewer: dannyevers
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: how-to
-ms.date: 08/05/2021
-ms.openlocfilehash: 4f83d5c85f0316ad5c9d9ad75ca6519b5940146f
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.date: 10/06/2021
+ms.openlocfilehash: 0b348f736d598f3d8213b891115263193350e385
+ms.sourcegitcommit: 76a7dac540d129ae15cd4c251a4ff43d768370da
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247008"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129592796"
 ---
 # <a name="purchase-a-saas-offer-in-azure-portal"></a>Köpa ett SaaS-erbjudande i Azure Portal
 
@@ -25,15 +25,6 @@ Om du vill köpa en SaaS-prenumeration behöver du ett Azure-användarkonto med 
 
 I Azure Portal väljer du önskat SaaS-erbjudande i **avsnittet Marketplace.**
 
-En prenumeration på programvara som en tjänst ger rätt att använda en tjänst under en viss tidsperiod via en onlineprenumeration i stället för lokal installation på enskilda datorer. En prenumeration är ett avtal om att använda en eller flera molnplattformar eller molntjänster, för vilka avgifter ackumuleras baserat på antingen en licensavgift per användare eller på molnbaserad resursförbrukning. En organisation kan ha flera SaaS-prenumerationer.
-
-Begränsningar för SaaS-prenumerationer är:
-
-- Inga elevprenumerationer.
-- Ingen Visual Studio Enterprise-prenumeration.
-- Inga kostnadsfria kreditprenumerationer.
-- För betalda erbjudanden krävs ett betalningsmedel.
-
 ## <a name="saas-offers-discovery-in-azure-portal"></a>SaaS erbjuder identifiering i Azure Portal
 
 När du är i Azure Portal finns det några sätt att begränsa sökningen för att fokusera på SaaS-erbjudanden.
@@ -43,7 +34,7 @@ När du är i Azure Portal finns det några sätt att begränsa sökningen för 
 På startsidan under **Azure-tjänster väljer** **du + Skapa en resurs** eller **Marketplace.** Eller använd genvägen **G + N** var som helst på plattformen.
 
 - Begränsa resultatet till SaaS-erbjudanden med filtret **Erbjudandetyp** och välj sedan **SaaS**.
-- Använd det global sökning navigeringsfältet längst upp för att hitta ett specifikt SaaS-erbjudande.
+- Använd global sökning i det övre navigeringsområdet för att hitta ett specifikt SaaS-erbjudande.
 
 Hitta ett [privat SaaS-erbjudande](./private-plans.md) genom att välja banderollen överst på **Marketplace-startsidan.** Alla erbjudanden eller planer är inte tillgängliga i alla geografiska områden och vissa kanske bara visas för vissa klienter.
 
@@ -51,7 +42,7 @@ Den filtrerade vyn visar varje tillgängligt SaaS-erbjudande som representeras a
 
 - Översikt – information om tjänsten, marknadsförings- och utbildningsmaterial
 - Planer + priser – varje erbjudande innehåller minst en plan med olika faktureringsvillkor och priser
-- Användningsinformation + support – innehåller id Publisher, erbjudande-ID och plan-ID
+- Användningsinformation + support – innehåller Publisher ID, erbjudande-ID och plan-ID
 - Klassificering och recensioner av det specifika SaaS-erbjudandet
 
 ## <a name="available-billing-models-plansskus-for-saas-offers"></a>Tillgängliga faktureringsmodeller (planer/SKU:er) för SaaS-erbjudanden
@@ -67,18 +58,22 @@ Dessa prismodeller är tillgängliga för både offentliga och privata planer.
 
 ## <a name="saas-purchase-experience"></a>SaaS-köpupplevelse
 
-1. På produktsidan väljer du en plan som uppfyller dina behov och fortsätter att **konfigurera + prenumerera**
-2. Som en del av inköpsprocessen **omdirigeras** du till fliken Grundläggande inställningar och du måste:
-    1. Definiera vilken *prenumeration* du vill använda för fakturering. Den Azure-prenumeration som du använder bör ha en giltig inköpsmetod definierad för den. Du bör ha rätt behörighetsnivå eller ha en resursgrupp under prenumerationen med rätt behörighetsnivå. Faktureringsland bör också vara ett land där erbjudandet är tillgängligt för köp. Azure-prenumerationer utan giltig betalningsmetod (till exempel en MSDN-prenumeration) kan bara användas för att köpa kostnadsfria abonnemang
+1. På produktsidan väljer du en plan som uppfyller dina behov och fortsätter att **konfigurera + prenumerera.**
+2. Som en del av inköpsprocessen **omdirigeras** du till fliken Grundläggande inställningar där du behöver:
+
+    1. Definiera vilken *prenumeration* du vill använda för fakturering. Den Azure-prenumeration som du använder bör ha en giltig inköpsmetod definierad för den. Du bör ha rätt behörighetsnivå eller ha en resursgrupp under prenumerationen med rätt behörighetsnivå. Faktureringsland bör också vara ett land där erbjudandet är tillgängligt för köp. Azure-prenumerationer utan giltig betalningsmetod (till exempel en MSDN-prenumeration) kan bara användas för att köpa kostnadsfria abonnemang.
+        > [!NOTE]
+        > Följande Azure-prenumerationer kan inte användas för att köpa SaaS: Student, Visual Studio Enterprise eller Kostnadsfri kredit.
     1. Välj eller skapa en **resursgrupp som* SaaS-resursen ska tillhöra.
     1. Skriv ett *namn för* SaaS-prenumerationen så att du enkelt kan identifiera den senare. När du har köpt det kan du inte ändra namnet.
     1. Under **Plan** visas den plan som du valde på sidan med produktinformation (PDP). Om du inte har gjort ett aktivt val i PDP visas standardplanen. Du kan ändra ditt val genom att välja **länken Ändra** plan. Välj relevant faktureringsperiod och välj sedan en annan plan. Du kanske kan ändra planen efter köpet, om utgivaren stöder det. Du kommer dock inte att kunna ändra perioden från månadsvis till årlig eller från årlig till månatlig.
     1. I fall där prismodellen *är per* användare kan du behöva ange antalet *användare.* Priset som visas ändras baserat på den prenumeration, plan och period som du har valt.
+
 3. Gå vidare **till** fliken Taggar *–* Taggar är användardefinierade nyckel/värde-par som kan placeras direkt på en resurs eller en resursgrupp. Du kan använda taggar för att enkelt hitta din SaaS-resurs senare. Azure stöder för närvarande upp till 50 taggar per resurs och resursgrupp. Taggar kan placeras på en resurs när den skapas eller läggas till i en befintlig resurs.
 4. Fortsätt att **granska + prenumerera för** att gå igenom erbjudande- och planinformationen.
-    1. Granska *Användningsvillkor,* *ändringar* och *sekretesspolicy för* utgivaren och även för Azure Marketplace
-    1. Du kan bli ombedd att lägga till dina kontaktuppgifter
-    1. Granska *information om grunder* *och* taggar
+    1. Granska *Användningsvillkor,* *Ändringar* och *Sekretesspolicy för* utgivaren och även för Azure Marketplace.
+    1. Du kan bli ombedd att lägga till dina kontaktuppgifter.
+    1. Granska *information om grunder* *och* taggar.
 5. När du har bekräftat det väljer du **Prenumerera.**
 
 ## <a name="saas-subscription-and-configuration"></a>SaaS-prenumeration och konfiguration
@@ -93,9 +88,11 @@ Du kan också kontrollera prenumerationsstatusen genom att välja klockikonen i 
 
 Om du inte slutför konfigurationsprocessen inom *30 dagar* tas den här SaaS-prenumerationen *bort automatiskt.* Faktureringen startar när ditt konto har konfigurerats på utgivarens webbplats.
 
-Felmeddelanden som du kan stöta på under processen:
+### <a name="common-error-messages-and-solutions"></a>Vanliga felmeddelanden och lösningar
 
-- Det går *inte att köpa plannamnet för den* valda planen i en kostnadsfri prenumeration
+Det här är vanliga felmeddelanden som du kan stöta på under processen, tillsammans med vanliga lösningar:
+
+- Det går *inte att köpa plannamnet för den* valda planen i en kostnadsfri prenumeration.
   - Uppgradera ditt konto. Mer https://aka.ms/UpgradeFreeSub information finns i .
 
 - Köpet misslyckades eftersom det inte gick att hitta ett giltigt kreditkort eller en betalningsmetod som är associerad med din Azure-prenumeration.
@@ -105,12 +102,12 @@ Felmeddelanden som du kan stöta på under processen:
   - Kontakta IT-administratören.
 
 - Plannamnet *på den plan som*  valts av den *erbjudandeplan* som valts av utgivaren av erbjudandet är inte tillgängligt för köp på grund av privata Marketplace-inställningar som gjorts av din klients IT-administratör.
-  - Kontakta IT-administratören
+  - Kontakta IT-administratören.
 
 - Köpet misslyckades eftersom den begärda faktureringsperioden är tom eller ogiltig.
   - Försök att köpa en annan plan/faktureringsperiod.
 
-- Köpet misslyckades eftersom vi inte kunde verifiera din signering på det juridiska avtalet.
+- Köpet misslyckades eftersom vi inte kunde verifiera din signering av ett juridiskt avtal.
   - Igen. Om felet kvarstår kan du försöka göra köpet med en annan Azure-prenumeration eller kontakta supporten.
 
 - Det gick inte att *köpa offer offerID* av *utgivaren publisherID.* Det här erbjudandet är för närvarande inte tillgängligt för inköp.

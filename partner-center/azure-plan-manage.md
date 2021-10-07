@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ce0eaa6a4ec04dc514b241b7f90bf32dd3106e41
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 014e6e41f0243784dc3e5cac9668b717f6abf90c
+ms.sourcegitcommit: 76a7dac540d129ae15cd4c251a4ff43d768370da
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246372"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129593318"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Hantera prenumerationer och resurser under Azure-planen
 
@@ -30,7 +30,7 @@ Den här artikeln förklarar hur CSP-partner kan använda olika alternativ för 
 
 - **Admin on Behalf Of (AOBO)** – Med [AOBO](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO)får alla användare med rollen Administratörsagent i partnerklientorganisationen RBAC-ägaråtkomst till Azure-prenumerationer som du skapar via CSP-programmet.
 
-- **Azure Lighthouse:** AOBO tillåter inte flexibiliteten att skapa distinkta grupper som fungerar med olika kunder eller att aktivera olika roller för grupper eller användare. Med Azure Lighthouse kan du tilldela olika grupper till olika kunder eller roller. Eftersom användarna har rätt åtkomstnivå via Azure-delegerad resurshantering kan du minska antalet användare som har rollen administratörsagent (och därmed ha fullständig AOBO-åtkomst). Detta bidrar till att förbättra säkerheten genom att begränsa onödig åtkomst till dina kunders resurser. Det ger dig också mer flexibilitet för att hantera flera kunder i stor skala. Mer information finns i [Azure Lighthouse och Molnlösningsleverantör program](/azure/lighthouse/concepts/cloud-solution-provider).
+- **Azure Lighthouse:** AOBO tillåter inte flexibiliteten att skapa distinkta grupper som fungerar med olika kunder eller att aktivera olika roller för grupper eller användare. Med Azure Lighthouse kan du tilldela olika grupper till olika kunder eller roller. Eftersom användarna har rätt åtkomstnivå via Azure-delegerad resurshantering kan du minska antalet användare som har rollen administratörsagent (och därmed ha fullständig AOBO-åtkomst). Detta bidrar till att förbättra säkerheten genom att begränsa onödig åtkomst till dina kunders resurser. Det ger dig också mer flexibilitet att hantera flera kunder i stor skala. Mer information finns i [Azure Lighthouse och Molnlösningsleverantör program](/azure/lighthouse/concepts/cloud-solution-provider).
 
 - **Katalog- eller [](/azure/active-directory/develop/app-objects-and-service-principals)gästanvändare** eller tjänsthuvudnamn: Du kan delegera detaljerad åtkomst till CSP-prenumerationer genom att lägga till användare i kundkatalogen eller lägga till gästanvändare och tilldela specifika RBAC-roller.
 
@@ -40,12 +40,12 @@ Microsoft rekommenderar att användarna har den lägsta behörighet de behöver 
 
 I följande tabell visas de metoder som används för att associera ditt partner-ID med olika RBAC-åtkomstalternativ.
 
-|**Kategori**   |**Scenario**   |**MPN-ID-association**|
+|**Kategori**   |**Scenario**   |**MPN ID-association**|
 |-----------------|:------------------------|:------------------|
-|AOBO   |CSP-direktpartner eller indirekt leverantör skapar prenumerationen för kunden som gör CSP-direktpartnern eller den indirekta providern till standardägare för prenumerationen med hjälp av AOBO. CSP-direkt partner eller indirekt leverantör ger indirekt återförsäljare åtkomst till prenumerationen med hjälp av AOBO.|Automatiskt (inget partnerarbete krävs)|
+|AOBO   |CSP-direkt partner eller indirekt leverantör skapar prenumerationen för kunden som gör CSP direkt partner eller indirekt provider standardägare för prenumerationen med hjälp av AOBO. CSP-direkt partner eller indirekt leverantör ger indirekt återförsäljare åtkomst till prenumerationen med hjälp av AOBO.|Automatiskt (inget partnerarbete krävs)|
 |Azure Lighthouse|Partner skapar ett nytt [erbjudande för hanterade tjänster på Marketplace.](/azure/lighthouse/concepts/managed-services-offers) Det här erbjudandet accepteras i CSP-prenumerationen och partnern får åtkomst till CSP-prenumerationen.|Automatiskt (inget partnerarbete krävs)|
-|Azure Lighthouse|Partner distribuerar [ARM-mall i](/azure/lighthouse/how-to/onboard-customer) En Azure-prenumeration|Partnern måste associera MPN-ID:t med användarens eller tjänstens huvudnamn i partnerklientorganisationen. Mer information finns i [Länka Partner-ID](/azure/billing/billing-partner-admin-link-started).|
-|Katalog- eller gästanvändare|Partnern skapar en ny användare eller tjänstens huvudnamn i kundkatalogen och ger användaren åtkomst till CSP-prenumerationen. Partner skapar en ny användare eller tjänstens huvudnamn i kundkatalogen. Partnern lägger till användaren i en grupp och ger åtkomst till CSP-prenumerationen till gruppen.|Partnern måste associera MPN-ID:t med användarens eller tjänstens huvudnamn i kundens klientorganisation. Mer information finns i [Länka Partner-ID](/azure/billing/billing-partner-admin-link-started).|
+|Azure Lighthouse|Partner distribuerar [ARM-mall i](/azure/lighthouse/how-to/onboard-customer) En Azure-prenumeration|Partnern måste associera MPN-ID:t med användaren eller tjänstens huvudnamn i partnerklientorganisationen. Mer information finns i [Länka Partner-ID](/azure/billing/billing-partner-admin-link-started).|
+|Katalog- eller gästanvändare|Partnern skapar en ny användare eller tjänstens huvudnamn i kundkatalogen och ger användaren åtkomst till CSP-prenumerationen. Partner skapar en ny användare eller tjänstens huvudnamn i kundkatalogen. Partnern lägger till användaren i en grupp och ger åtkomst till CSP-prenumerationen till gruppen.|Partnern måste associera MPN-ID:t med användaren eller tjänstens huvudnamn i kundens klientorganisation. Mer information finns i [Länka Partner-ID](/azure/billing/billing-partner-admin-link-started).|
 
 ## <a name="confirm-that-you-have-admin-access"></a>Bekräfta att du har administratörsåtkomst
 
@@ -53,7 +53,7 @@ Du behöver administratörsåtkomst för att hantera kundens tjänster och för 
 
 - Granska filen för daglig användning – Detta kan fastställas genom att granska enhetspriset och det effektiva enhetspriset i filen för daglig användning och bekräfta om en rabatt tillämpas. Om du får rabatten är du administratör.
 
-- Skapa en Azure Monitor-avisering – Du kan [](/azure/azure-monitor/platform/alerts-activity-log) skapa en Azure Monitor aktivitetsloggavisering för att få ett meddelande om när din RBAC-åtkomst tas bort från CSP-prenumerationen.
+- Skapa en Azure Monitor-avisering – Du [](/azure/azure-monitor/platform/alerts-activity-log) kan skapa en Azure Monitor aktivitetsloggavisering som ska meddelas när din RBAC-åtkomst tas bort från CSP-prenumerationen.
 
 ### <a name="create-an-azure-monitor-alert"></a>Skapa en Azure Monitor-avisering
 
@@ -75,13 +75,13 @@ Kunder kan hantera åtkomst till sina prenumerationer genom att **gå Access Con
 
 - Använd åtkomst som tillhandahålls via [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/).
 
-Rollbaserad åtkomst skiljer sig från administratörsåtkomst. Roller avgränsar exakt vad du kan och inte kan göra. Administratörsåtkomsten är bredare.
+Rollbaserad åtkomst skiljer sig från administratörsåtkomst. Roller avgränsar exakt vad du kan och inte kan göra. Administratörsåtkomst är bredare.
 
 Om du vill se vilka roller som är berättigade till PEC läser du [Roller och behörigheter för partnerns intjänade kredit](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QuW2).
 
 ## <a name="next-steps"></a>Nästa steg
 
-- [Återkalla och omvärdeera administratörsbehörigheter för Azure CSP prenumerationer](revoke-reinstate-csp.md)
+- [Omdeklarera administratörsbehörigheter för Azure CSP prenumerationer](reinstate-csp.md)
 
 - [Partner-intjänad kredit – översikt](partner-earned-credit.md)
 
