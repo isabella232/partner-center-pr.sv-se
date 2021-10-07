@@ -1,27 +1,27 @@
 ---
 title: Vanliga frågor och svar om partnercenterreferenser
 ms.topic: article
-ms.date: 09/27/2021
+ms.date: 09/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-referrals
 description: Vanliga frågor och svar om partnercenterreferenser
 author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
-ms.openlocfilehash: 2fa7ed91e4ff2dd1dbab3fc89e4acdcbc61c9141
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 724650939f7b3a61d992e7ffed70ebcb3493f4a1
+ms.sourcegitcommit: 77737d8f986a1afb3d923c130936e2f73ce07879
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129070775"
+ms.lasthandoff: 10/07/2021
+ms.locfileid: "129654780"
 ---
 # <a name="frequently-asked-questions-on-referrals"></a>Vanliga frågor och svar om hänvisningar
 
-Den här artikeln innehåller svar på några vanliga frågor och svar om referenser till Partnercenter
+Den här artikeln innehåller svar på några vanliga frågor och svar om partnercenterreferenser.
 
 ## <a name="what-should-i-do-if-i-dont-have-access-to-co-sell-opportunities"></a>Vad ska jag göra om jag inte har åtkomst till möjligheter till säljförsäljning?
 
-Du kan kontakta dina administratörer på sidan "Ingen åtkomst" för att få rollerna tilldelade. Du behöver referensadministratörsrollen för läs- och skrivbehörighet under referensavsnittet. Om du bara hanterar företagsprofiler behöver du rollen som företagsprofiladministratör i Partnercenter.
+Du kan kontakta dina administratörer på sidan "Ingen åtkomst" för att få rollerna tilldelade. Du behöver referensadministratörsrollen för läs- och skrivbehörighet under referensavsnittet. Om du bara hanterar företagsprofiler behöver du administratörsrollen för företagsprofilen i Partnercenter.
 
 ## <a name="who-can-grant-me-access-to-the-referrals-section-in-partner-center"></a>Vem kan ge mig åtkomst till avsnittet Referenser i Partnercenter?
 
@@ -31,13 +31,13 @@ Kontoadministratören kan ge dig åtkomst till fliken Referenser. Du hittar kont
 
 Om du vill skapa en möjlighet till säljförsäljning i Partnercenter måste du vara referensadministratör och ha en lösning publicerad på den kommersiella marknadsplatsen med statusen redo för säljförsäljning. Knappen är nedtonad om du inte uppfyller något av dessa villkor.
 
-## <a name="can-a-deal-be-edited-after-it-is-marked-as-won-or-lost"></a>Kan ett avtal redigeras när det har markerats som Won (Won) eller lost (förlorat) ?
+## <a name="can-a-deal-be-edited-after-it-is-marked-as-won-or-lost"></a>Kan ett avtal redigeras när det har markerats som Won (Won) eller lost (Förlorad) ?
 
-Nej, avtal kan inte ändras när de flyttas till ett terminaltillstånd. Utgångna, nekade, vann och förlorade är terminaler där inga ytterligare uppdateringar är möjliga för avtalet. Var försiktig när du flyttar avtalet till något av dessa terminaler.
+Nej, avtal kan inte ändras när de flyttas till ett terminaltillstånd. Utgångna, nekade, förlorade och förlorade är terminaler där inga ytterligare uppdateringar är möjliga för avtalet. Var försiktig när du flyttar avtalet till något av dessa terminal tillstånd.
 
 ## <a name="who-gets-an-email-notification-from-partner-center"></a>Vem får du ett e-postmeddelande från Partnercenter?
 
-Arbetsflödet nedan förklarar hur e-postmeddelanden skickas till partner från partnercenter-hänvisningssystemet för nya inkommande partnerreferenser.
+Arbetsflödet nedan förklarar hur e-postmeddelanden skickas till partner från Partner Center-hänvisningssystemet för nya inkommande partnerreferenser.
 
 :::image type="content" source="images/referrals/noti-workflow.png" alt-text="Bild som visar logiken för hur e-postmeddelanden skickas till partner för nya inkommande hänvisningar.":::
 
@@ -51,7 +51,7 @@ Endast IP-incitament är berättigade till avtalsregistrering. Dessa inkluderar
 
 ## <a name="how-do-i-know-if-microsoft-has-accepted-or-declined-a-co-sell-deal"></a>Hur gör jag för att veta om Microsoft har godkänt eller avvisat ett samförsäljningsavtal?
 
-Gå till respektive affärsmöjlighet i Partnercenter för att visa statusen **för Microsoft-avsnittet** i avtalet.
+Gå till respektive affärsmöjlighet i Partnercenter för att visa **statusen för Microsoft-avsnittet** i avtalet.
 
 - Observera att ingen orsak till avvisningen visas om:
   - Avtalet upphör att gälla innan Microsoft svarade
@@ -64,6 +64,6 @@ Gå till respektive affärsmöjlighet i Partnercenter för att visa statusen **f
 
 Här är några tips som hjälper dig att få fler möjligheter till säljförsäljning som passar din verksamhet:
 
-- **Svara snabbt på avtal.** När du svarar i en prompt på inkommande begäranden ökar vi din synlighet i framtida partnersökningsresultat progressivt. Se till att ditt team svarar snabbt med din avsikt.
-- **Var selektiv med de avtal som du accepterar.** Vi övervakar de typer av avtal som du accepterar och avböjer och använder den här informationen för att hitta liknande avtal. Att godkänna avtal som inte passar bra förbättrar inte sökresultatet och kan påverka kvaliteten på de affärsmöjligheter som du får.
-- **Rapportera tillbaka de uppskattade avtalsstorlekarna, slutdatumen och den slutliga statusen för dina avtal (vann eller förlorade).** Vi använder den här informationen för att fortsätta ge dig kvalitetsreferenser.
+- **Svara snabbt på avtal.** När du svarar med en uppmaning på inkommande begäranden kommer vi att öka din synlighet i framtida partnersökresultat progressivt. Se till att ditt team svarar snabbt med din avsikt.
+- **Var selektiv med de avtal som du godkänner.** Vi övervakar de typer av avtal som du accepterar och avböjer och använder den här informationen för att hitta liknande avtal. Att acceptera avtal som inte passar bra förbättrar inte sökresultaten och kan påverka kvaliteten på de affärsmöjligheter som du får.
+- **Rapportera de uppskattade avtalsstorlekarna, slutdatumen och den slutliga statusen för dina avtal (vann eller förlorade).** Vi använder den här informationen för att fortsätta ge dig kvalitetsreferenser.

@@ -212,7 +212,7 @@
           href: routing-rules.md
         - name: Använda CRM-anslutningsprogram för säljsamarbete
           items:
-            - name: Anslutningsapp för Dynamics 365
+            - name: Anslutning för Dynamics 365
               href: connector-dynamics.md
             - name: Anslutningsapp för Salesforce
               href: connector-salesforce.md
@@ -224,6 +224,8 @@
           href: partner-sales-connect-to-partner-center-iot.md
     - name: Registrera dina avtal
       href: register-deals.md
+    - name: Hantera lösningsutvärderingar
+      href: solution-assessments.md
     - name: Vanliga frågor och svar om hänvisningar
       href: referrals-faq.md
 - name: Kunder
@@ -393,6 +395,8 @@
           href: csp-commercial-marketplace-purchase.md
         - name: Hantera licensiering i Marketplace-erbjudanden
           href: csp-commercial-marketplace-licensing.md
+        - name: Marketplace-marginaler
+          href: csp-commercial-marketplace-margins.md
         - name: Exklusiva Marketplace-erbjudanden från oberoende programvaruleverantörer
           href: isv-opt-in.md
         - name: Hantera Marketplace-erbjudanden
@@ -421,7 +425,7 @@
           href: advisors-build-your-business.md
         - name: Skapa ett erbjudande om att köpa Office 365
           href: advisor-create-a-purchase-offer.md
-    - name: Partner kan inte längre registrera sig som rådgivare
+    - name: Partner kan inte längre registreras som rådgivare
       href: advisors-no-csp.md
     - name: CSP-erbjudanden
       items:
@@ -519,7 +523,7 @@
           href: incentives-enroll.md
         - name: Kontrollera programberättigande
           href: incentives-determined-your-program-eligibility.md
-        - name: Förstå incitamentsutbetalning och skatteprofiler
+        - name: Förstå incitament för utbetalning och skatteprofiler
           href: incentives-create-and-manage-your-payout-and-tax-profiles.md
         - name: Kontrollera intäktsberättigande
           href: incentives-confirm-your-earnings-eligibility.md
@@ -527,11 +531,11 @@
           href: understand-incentive-payouts.md
     - name: MCI-engagemang
       items:
-        - name: Översikt över och behörighet för MCI-engagemang
+        - name: Översikt över MCI-engagemang och berättigande
           href: mci-engagements.md
         - name: Kundsida för MCI-engagemang
           href: mci-engagements-customers.md
-        - name: Skicka ett workshopanspråk för MCI-engagemang
+        - name: Skicka ett workshop-anspråk för MCI-engagemang
           href: mci-engagements-workshop.md
     - name: Planer och bevis på utförande
       items:
@@ -691,7 +695,7 @@
               href: partner-contribution-indicators.md
             - name: Kompetens för molnlösningar för liten marknad och mellanmarknad
               href: partner-contribution-indicators-small-and-midmarket-cloud-business-option.md
-    - name: Referensinsikter
+    - name: Hänvisningsinformation
       href: referral-insights.md
     - name: Molnlösningsleverantör insikter
       items:
@@ -717,7 +721,7 @@
           href: insights-programmatic-prerequisites.md
         - name: Paradigm för programmatisk åtkomst
           href: insights-programmatic-access-paradigm.md
-        - name: Gör ditt första programmatiska API-anrop
+        - name: Gör ditt första programmerings-API-anrop
           href: insights-programmatic-first-api-call.md
         - name: Lista över systemfrågor
           href: insights-programmatic-system-queries.md
@@ -753,7 +757,7 @@
               href: insights-programmatic-analytics-api-resume-report-executions.md
 - name: Hjälp + support
   items:
-    - name: Översikt över hjälp + support
+    - name: Översikt över hjälp och support
       href: support-from-microsoft.md
     - name: Rapportera problem med Partner Center
       href: report-problems-with-partner-center.md
