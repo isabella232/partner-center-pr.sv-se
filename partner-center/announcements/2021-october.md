@@ -10,17 +10,69 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 10/05/2021
-ms.openlocfilehash: 9cbe685abf6610b42c05d2f9229f93478c50ca69
-ms.sourcegitcommit: b78e85a0bc62e3536b067417cb3db7899cda4f97
+ms.date: 10/07/2021
+ms.openlocfilehash: 2cebf7af9b8cc9e843870a69a4403844673d7611
+ms.sourcegitcommit: cf73ea8967a285cc14b281e7b938962c02b18e67
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/06/2021
-ms.locfileid: "129565126"
+ms.lasthandoff: 10/08/2021
+ms.locfileid: "129689674"
 ---
 # <a name="october-2021-announcements"></a>Oktober 2021-meddelanden
 
 Den här sidan innehåller meddelanden för Microsoft Partner Center för oktober 2021.
+
+________________
+## <a name="marketplace-price-list-updates-for-cloud-solution-provider-csp-partners"></a><a name="5"></a>Uppdateringar av Marketplace-prislistan för Molnlösningsleverantör(CSP)-partner
+
+### <a name="categories"></a>Kategorier
+
+- Datum: 2021-10-08
+- Funktioner
+
+### <a name="impacted-audience"></a>Påverkad målgrupp
+
+CSP-partner som använder prislistan på den kommersiella marknadsplatsen
+
+### <a name="summary"></a>Sammanfattning
+
+Marketplace-prislistan uppdateras den 15 november 2021.
+
+### <a name="details"></a>Information
+
+För att få konsekvens i partnercenterprislistorna i den nya handelsupplevelsen uppdaterar vi Marketplace-prislistan.
+
+Från den 15 november 2021 innehåller Marketplace-prislistan nya kolumner och uppdaterade rubriker. Det här meddelandet är endast för medvetenhet. Partner kan behöva göra ändringar i sina system för att stödja den här ändringen. Vi kommer att dela mer information om ändringarna med partner den 5 november 2021, via Digital Operations Center (DOC).
+
+För att få en tidig förhandsversion kan du se kommande ändringar att förvänta dig:
+
+| Aktuellt kolumnnamn | Framtida kolumnnamn (från och med 15 november)|
+|-----------|--------------|
+Produkt | produktnamn |
+| Typ | Flyttas under en ny kolumn, "Taggar" |
+| Subtype | Flyttas under en ny kolumn, "Taggar" |
+| Beskrivning | Beskrivning av SKU |
+| Faktureringsfrekvens | Varaktighet – P1Y eller P1M |
+| Inköpsenhet | Måttenhet |
+| Regioner | Marknaden |
+| Period | Faktureringsplan – årlig eller månatlig |
+| Listpris | Enhetspris |
+| Tillverkarens föreslagna detaljhandelspris (MSRP) | Beräknat detaljhandelspris (ERP) |
+|  | Lägsta prisnivåintervall |
+|  | Högsta prisnivåintervall |
+|  | Effektivt startdatum |
+|  | Effektivt slutdatum |
+|  | Mätar-ID:er |
+|  | Mätartyp |
+|  | Taggar – Azure, Programvara som en tjänst (SaaS) eller tredje part |
+
+### <a name="next-steps"></a>Nästa steg
+
+Dela den här uppdateringen med lämpliga personer i din organisation.
+
+### <a name="questions"></a>Har du några frågor?
+
+Om du har några frågor går du till [supportsidan för Partnercenter.](https://partner.microsoft.com/support/?stage=1)
 
 ________________
 ## <a name="coming-soon-new-commerce-experience-for-csp-seat-based-offers-technical-release"></a><a name="4"></a>Kommer snart: Ny handelsupplevelse för CSP-platsbaserade erbjudanden med teknisk lansering
@@ -91,13 +143,13 @@ Inga förnyelser av Software Assurance (SA) och onlinetjänster, eller nya inkö
 - Datum: 2021-10-04
 - Utveckla din verksamhet
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
 Partner som gör erbjudanden via Open License-programmet
 
 ### <a name="details"></a>Information
 
-Tekniken håller på att transformera vårt sätt att göra affärer världen över. Vår bransch har främst flyttat till en affärsmodell för molnprenumeration som ger den flexibilitet, de funktioner och skalbarhet som organisationer behöver för att stödja en hybrid arbetsstyrka. Microsoft strävar efter att hjälpa partner och kunder att lyckas och växa genom digital omvandling.
+Tekniken håller på att transformera hur vi gör affärer över hela världen. Vår bransch har främst flyttat till en affärsmodell för molnprenumeration som ger den flexibilitet, funktioner och skalbarhet som organisationer behöver för att stödja en hybrid arbetsstyrka. Microsoft strävar efter att hjälpa partner och kunder att lyckas och växa genom digital omvandling.
 
 Vi fortsätter vår egen resa för digital omvandling och har prioriterat investeringar i:
 
@@ -107,13 +159,13 @@ Vi fortsätter vår egen resa för digital omvandling och har prioriterat invest
 
 Vi gör det enklare för partner att hjälpa sina kunder att flytta till molnet, dra nytta av nya erbjudanden och dra nytta av tillväxten på marknaden för molnteknik, med programmet Molnlösningsleverantör (CSP) i grunden.
 
-**Den 31 december 2021 är den sista dagen då erbjudanden om Open License-program översänds.** Inga förnyelser av Software Assurance (SA) och onlinetjänster, eller nya inköp av programvarulicenser och onlinetjänster kan göras via Open License-programmet därefter. Microsoft slutade att lansera nya erbjudanden i Open License-programmet den 1 juli 2021. Programvara i CSP ger bättre partner ekonomi. Därför uppmuntrar vi partner att börja göra permanenta program i CSP-programmet omedelbart. Granska användbara tillgångar [](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/)i galleriet Driftberedskap, inklusive den senaste informationen om övergången från Open License till CSP, samt webbseminarsessioner på begäran för att hjälpa partner att registrera och övergå kunder efter behov.
+**Den 31 december 2021 är den sista dagen som erbjudanden om Open License-program har att erbjuda.** Inga förnyelser av Software Assurance (SA) och onlinetjänster, eller nya inköp av programvarulicenser och onlinetjänster kan göras via Open License-programmet därefter. Microsoft slutade att lansera nya erbjudanden i Open License-programmet den 1 juli 2021. Programvara i CSP erbjuder bättre partner-ekonomi. Därför uppmuntrar vi partner att börja handla permanent programvara i CSP-programmet omedelbart. Gå igenom användbara tillgångar i galleriet Operations [Readiness](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/), inklusive den senaste informationen om övergången från Open License till CSP, samt webbseminsessioner på begäran som hjälper partner att registrera och övergå till kunder efter behov.
 
 ### <a name="next-steps"></a>Nästa steg
 
-Kom ihåg att **den 31 december 2021** är den sista dagen för att göra erbjudanden om Open License-program för dina kunder för partner som ännu inte har introducerats i CSP-programmet. Från och med midnatt, lokal tid den 1 januari 2022, måste partner ha anslutit sig till CSP-programmet för att kunna göra de permanenta programvaruerbjudandena i CSP. För att skydda dina intäktsströmmar måste du flytta dina open license-programkunder snabbare än senare och flytta sina nya inköp och förnyelser till erbjudandena i CSP, Open Value eller Open Value Subscription.
+Kom ihåg att **den 31 december 2021** är den sista dagen för att göra en öppen licens för dina kunder för partner som ännu inte har registrering i CSP-programmet. Från och med midnatt, lokal tid den 1 januari 2022, måste partner ha anslutit sig till CSP-programmet för att kunna ta del av de beständiga programvaruerbjudandena i CSP. För att skydda dina intäktsströmmar måste du flytta dina open-licensprogramkunder snabbare än senare och flytta sina nya inköp och förnyelser till erbjudandena i CSP, Open Value eller Open Value Subscription.
 
-Partner uppmanas också att delta i någon av fyra ops-värdbaserade Office Hours-sessioner som äger rum den 3 och 4 november (Partner Center Onboarding and Overview for Indirect Resellers in CSP) och en annan uppsättning med fyra sessioner som äger rum den 10 och 11 november (Överväganden för Open Value Partner Operations).
+Partner uppmuntras också att delta i någon av fyra Ops-värdbaserade Office Hours-sessioner som äger rum den 3 och 4 november (Partner Center Onboarding och Översikt för indirekta återförsäljare i CSP) och en annan uppsättning med fyra sessioner som äger rum den 10 och 11 november (Överväganden för Open Value Partner Operations).
 
 - Partner kan registrera sig för dessa sessioner på samma plats som tidigare genom att besöka: [Open Retirement - Migration to CSP/Open Value: Partner Operations Considerations](https://globalpbocomm.eventbuilder.com/OpenMigrationToCSPOV)
 
@@ -136,21 +188,21 @@ ________________
 - Datum: 2021-10-01
 - Funktioner
 
-### <a name="impacted-audience"></a>Påverkad målgrupp
+### <a name="impacted-audience"></a>Målgrupp som påverkas
 
-Alla partner som gör en Molnlösningsleverantör via CSP-programmet
+Alla partner som gör en transacting via Molnlösningsleverantör (CSP)-programmet
 
 ### <a name="summary"></a>Sammanfattning
 
-Kalendern för produktlansering i oktober har nu publicerats.
+Kalendern för produktlansering i oktober publiceras nu.
 
 ### <a name="details"></a>Information
 
-Produktlanseringskalendern för [oktober](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) 2021 är nu tillgänglig i resursgalleriet för driftberedskap. Visa kommande produktlanseringar och erbjudanden här.
+Kalendern för produktlansering i [oktober](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) 2021 är nu tillgänglig i resursgalleriet för driftberedskap. Visa kommande produktlanseringar och erbjudanden här.
 
 ### <a name="next-steps"></a>Nästa steg
 
 Granska kalendern [för produktlansering](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/)och dela informationen med lämpliga intressenter i din organisation.
 
 ## <a name="questions"></a>Har du några frågor?
-Om du har fler frågor om dessa erbjudanden kan du läsa dina Yammer communityer.
+Om du har fler frågor om dessa erbjudanden kan du kontrollera dina Yammer communityn.
